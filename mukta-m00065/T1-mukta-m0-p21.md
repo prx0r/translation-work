@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot](granthi) [form](rūpa) [raised](unnata) [knot](granthi) [belly](jaṭhara) [disease](āmaya) [giver](dāyaka)
+[granthi+rūpa+unnata+granthi+jaṭhara+āmaya+dāyaka](granthirūponnatagranthirjaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-[frost](tuṣāraṃ) [know](vijānīyā) [that](tad) [son](putra) [grief](śoka) [pain](ārti) [giver](dāyakam)
+[tuṣāra+tad+vijānīyā+putra+śoka+ārti+dāyaka](tuṣāraṃ tadvijānīyā putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[gold-sound](hemaghoṣa) [disease](āmayaṃ) [copper](tāmra) [bad](duṣṭaṃ) [in-piṅgalā-opinion](piṅgalāmate)
+[hema+ghoṣa+āmaya+tāmra+tad+duṣṭa+piṅgalā+mate](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[people](janaṃ) [kills](hanty) [iron](āyasa) [afflicted](ākrāntā) [stone](śilā) [and](ca) [copper](tāmrāt) [sculptor](śilpinam)
+[jana+hanty+āyasa+ākrāntā+śilā+tāmī+ca+śilpinam](janaṃ hantyāyasākrāntā śilā tāmī ca śilpinam)
 
 ## mukta-m0-p21-v505
-[black](kṛṣṇaḥ) [yellow](pītaḥ) [red](aruṇaḥ) [spot](binduḥ) [he](sa) [grief-fear-disease-giver](śokabhayarogadaḥ)
+[kṛṣṇa+pīta+aruṇa+bindu+sa+śoka+bhaya+roga+da](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[yellow](pīte) [wealth-loss](dhanakṣayaḥ) [maker](kartuḥ) [black](kṛṣṇe) [bondage](bandhaḥ) [both](dvayoḥ) [twofold](dvidhā)
+[pīte+dhana+kṣaya+kartuḥ+kṛṣṇe+bandha+dvayoḥ+dvidhā](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā)
 
 ## mukta-m0-p21-v507
-[line](rekhā) [line-pierced](rekhānubiddhā) [or](vā) [earthly](pārthivaṃ) [that](sā) [destroys](vināśayet)
+[rekhā+rekhā+anubiddhā+vā+pārthiva+sā+vināśayet](rekhā rekhānubiddhā vā pārthivaṃ sā vināśayet)
 
 ## mukta-m0-p21-v508
-[mistress](svāmidhnī) [and](ca) [four-cut](catuśchinnā) [many-cut](bahucchinnā) [family-ender](kulāntakṛt)
+[svāmidhnī+ca+catuḥ+chinnā+bahu+chinnā+kula+anta+kṛt](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[fly](makṣikā) [fly-shaped](makṣikākārā) [by-that](tayā) [leprosy](kuṣṭhaṃ) [very-terrible](sudāruṇam)
+[makṣikā+makṣikā+ākārā+tayā+kuṣṭha+sudāruṇam](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam)
 
 ## mukta-m0-p21-v510
-[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [maker](kartuḥ) [and](ca) [eva](eva) [no-doubt](na-saṃśayaḥ)
+[tadā+nānā+gadān+kuryāt+kartuḥ+ca+eva+na+saṃśayaḥ](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[abandon](tyājyaṃ) [that](tadā) [threefold](tridhā) [mark](liṅgaṃ) [king-realm-subject-seeker](nṛparāṣṭraprajārthinā)
+[tyājyaṃ+tadā+tridhā+liṅgaṃ+nṛpa+rāṣṭra+prajā+arthinā](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[left-side](vāmapārśva) [seated](āśritaḥ) [somewhat](kiṃcit) [kills](hanyāt) [realm](rāṣṭraṃ) [with-king](sarājakam)
+[vāma+pārśva+āśritaḥ+kiṃcit+hanyāt+rāṣṭraṃ+sa+rājakam](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam)
 
 ## mukta-m0-p21-v513
-[all-colors](sarvavarṇā) [very](bhṛśaṃ) [indeed](nūnaṃ) [life-taking](prāṇahṛt) [blackish](kṛṣṇahīrikā)
+[sarva+varṇā+bhṛśaṃ+nūnaṃ+prāṇa+hṛt+kṛṣṇa+hīrikā](sarvavarṇā bhṛśaṃ nūnaṃ prāṇahṛtkṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[raised](unnataḥ) [is-seen](lakṣyate) [who](yaḥ) [ca](ca) [cat-foot](viḍālāṅghriḥ) [that](sa) [fault-bearer](doṣabhāk)
+[unnataḥ+lakṣyate+yaśca+viḍāla+aṅghriḥ+sa+doṣa+bhāk](unnato lakṣyate yaśca viḍālāṅghriḥ sa doṣabhāk)
 
 ## mukta-m0-p21-v515
-[of-stone](śilāyāḥ) [form](rūpam) [observing](ālakṣya) [abandon](tyajet) [that](tām) [inauspicious-giving](aśubhapradām)
+[śilāyāḥ+rūpam+ālakṣya+tyajet+tām+aśubha+pradām](śilāyā rūpamālakṣya tyajettāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-[small-faults](svalpadoṣān) [I-will-tell](prakṣyāmi) [as](yathā) [in-scriptures](śāstreṣu) [spoken](bhāṣitān)
+[svalpa+doṣān+prakṣyāmi+yathā+śāstreṣu+bhāṣitān](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān)
 
 ## mukta-m0-p21-v517
-[anthill](valmīka) [nest](koṣara) [cit](cityutthā) [warm](koṣṇā) [alkaline](kṣārā) [water-middle](ambumadhyagā)
+[valmīka+ūṣara+citi+utthā+koṣṇā+kṣāra+ambu+madhya+gā](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[bad-place](kudiksthā) [sun-heated](sūryasantaptā) [bitter-risen](kadutthā) [methya](methyā) [unpolluted](adūṣitā)
+[kudik+sthā+sūrya+santaptā+kadu+utthā+methy+a+dūṣitā](kudiksthā sūryasantaptā kadutthāmethyadūṣitā)
 
 ## mukta-m0-p21-v519
-[bad-life-sound](duṣṭajīvasvarā) [who](yā) [ca](ca) [joined](yojitā) [not-other-work](nānyakarmaṇi)
+[duṣṭa+jīva+svarā+yā+ca+yojitā+na+anya+karmaṇi](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[who](yā) [stone-clinging](upalānulagnā) [she](sā) [affection-cutting](snehavicchittikārikā)
+[yā+yo+upalā+anulagnā+sā+sneha+vicchitti+kārikāḥ](yā yopalānulagnā sā snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-[saline-place](ūṣarasthā) [wealth-taking](arthahṛt) [known](jñeyā) [cit-place](citisthā) [pain-giving](duḥkhadāyinī)
+[ūṣara+sthā+artha+hṛt+jñeyā+citi+sthā+duḥkha+dāyinī](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[stone](pāṣadā) [unmerit-place](apuṇyadeśasthā) [killer](vadhakṛt) [bhilla](bhilla) [served](sevitā)
+[pāṣada+apuṇya+deśa+sthā+vadha+kṛt+bhilla+sevitā](pāṣadāpuṇyadeśasthā vadhakṛdbhilla sevitā)
 
 ## mukta-m0-p21-v523
-[burning](dāhaṃ) [loss](hāniṃ) [ca](ca) [grief](śokaṃ) [ca](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus](tathā) [brings](āvahet)
+[dāhaṃ+hāniṃ+ca+śokaṃ+ca+naiḥsvaṃ+rogaṃ+tathā+vahet](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet)
 
 ## mukta-m0-p21-v524
-[wine-smell](surāpakṣi) [fat-smell](vasāgandhā) [agitation-causing](udvegajananī) [stone](śilā)
+[surā+pakṣi+vasā+gandhā+udvega+jananī+śilā](surāpakṣivasāgandhā udvegajananī śilā)
 
 ## mukta-m0-p21-v525
-[vajra-burnt](vajradagdhā) [fire-burnt](agnidagdhā) [ca](ca) [king](rājñaḥ) [fire-fear-giving](analabhayapradā)
+[vajra+dagdhā+agni+dagdhā+ca+rājñaḥ+anala+bhaya+pradā](vajradagdhāgnidagdhā ca rājño'nalabhayapradā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[with-seventeen](sasaptadaśabhiḥ) [and-parts](cāṃśaiḥ) [circumference](paridhiḥ) [may-be](syāt) [equal-parts](samāṃśake)
+[sasaptadaśabhiḥ](sasaptadaśabhiḥ) [cāṃśaiḥ](cāṃśaiḥ) [paridhiḥ](paridhiḥ) [syāt](syāt) [samāṃśake](samāṃśake)
 
 ## mukta-m0-p27-v652
-[half-two-three-angled](sārdhadvitribhujaiḥ) [viṣṇu](viṣṇuḥ) [with-foot-one-three-angled](sāṅghryekatribhujaiḥ) [hara](haraḥ)
+[sārdha-dvi-tribhujaiḥ](sārdhadvitribhujaiḥ) [viṣṇuḥ](viṣṇuḥ) [sāṅghri-eka-tribhujaiḥ](sāṅghryekatribhujaiḥ) [haraḥ](haraḥ)
 
 ## mukta-m0-p27-v653
-[in-barley-womb](yavagarbhe) [may-be](bhavet) [nourishment](puṣṭiḥ) [drink-food](pānānnaṃ) [belly-raised](jaṭharonnate)
+[yava-garbhe](yavagarbhe) [bhavet](bhavet) [puṣṭiḥ](puṣṭiḥ) [pāna-annaṃ](pānānnaṃ) [jaṭhara-unnate](jaṭharonnate)
 
 ## mukta-m0-p27-v654
-[equal-belly](samakukṣau) [fear](bhayaṃ) [destroy](hanyāt) [thick-root](sthūlamūle) [then-health](tvarogatā) [variant](hyarogatā)
+[sama-kukṣau](samakukṣau) [bhayaṃ](bhayaṃ) [hanyāt](hanyāt) [sthūla-mūle](sthūlamūle) [tu-arogatā](tvarogatā)
 
 ## mukta-m0-p27-v655
-[in-depression](nimne) [and](ca) [plucked](luñcite) [make](kuryāt) [wealth-grain-destruction](dhanadhānyavināśanam)
+[nimne](nimne) [ca](ca) [luñcite](luñcite) [kuryāt](kuryāt) [dhana-dhānya-vināśanam](dhanadhānyavināśanam)
 
 ## mukta-m0-p27-v656
-[hole-endowed](chidrānvitaṃ) [and](ca) [good-wife](sadbhāyā) [variant](tathā bhāryā) [forehead](lalāṭe) [depressed](nimnaka) [son](sutam)
+[chidra-anvitaṃ](chidrānvitaṃ) [ca](ca) [sadbhāyā](sadbhāyā) [lalāṭe](lalāṭe) [nimnaka](nimnaka) [sutam](sutam)
 
 ## mukta-m0-p27-v657
-[page](p. 77)) [middle](madhye) [thin](kṛśaṃ) [and](ca) [for-grief](śokāya) [famine-then-thin](dubhikṣadamadhaḥ) [thin](kṛśam)
+[madhye](madhye) [kṛśaṃ](kṛśaṃ) [ca](ca) [śokāya](śokāya) [durbhikṣa-dama-adhaḥ](dubhikṣadamadhaḥ) [kṛśam](kṛśam)
 
 ## mukta-m0-p27-v658
-[wound-disease-increase](vraṇitāmayavṛddhiśca) [famine](durbhikṣaṃ) [and](ca) [at-groin](ātikoṭare)
+[vraṇita-āmaya-vṛddhiḥ](vraṇitāmayavṛddhiśca) [ca](ca) [durbhikṣaṃ](durbhikṣaṃ) [ca](ca) [ati-koṭare](cātikoṭare)
 
 ## mukta-m0-p27-v659
-[wealth-destroying](dhanaghnaṃ) [back-depressed](pṛṣṭhanimnaṃ) [may-be](syāt) [disease](rogaṃ) [side](pārśve) [and](tathā) [belly](udare)
+[dhana-ghnaṃ](dhanaghnaṃ) [pṛṣṭha-nimnaṃ](pṛṣṭhanimnaṃ) [syāt](syāt) [rogaṃ](rogaṃ) [pārśve](pārśve) [tathā](tathā) [udare](udare)
 
 ## mukta-m0-p27-v660
-[well](samyak) [unscarred](sunirvraṇaṃ) [washed](dhautaṃ) [then](tadā) [marks](cinhāni) [observe](lakṣayet)
+[samyak](samyak) [su-nirvraṇaṃ](sunirvraṇaṃ) [dhautaṃ](dhautaṃ) [tadā](tadā) [cinhāni](cinhāni) [lakṣayet](lakṣayet)
 
 ## mukta-m0-p27-v661
-[crocodile-mirror-bow](makarādarśacāpobhiḥ) [garland-circle-gateway](srakkamaṇḍalutoraṇāḥ)
+[makara-ādarśa-cāpobhiḥ](makarādarśacāpobhis) [srak](srak) [maṇḍala](maṇḍala) [toraṇāḥ](toraṇāḥ)
 
 ## mukta-m0-p27-v662
-[srivatsa-nandika-swastika-chariot-garland-elephant-ornaments](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
+[śrīvatsa-nandikā-āvarta-ratha-hāra-ibha-bhūṣaṇaiḥ](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
 
 ## mukta-m0-p27-v663
-[peacock-horse-clothes](mayūravājivāsobhiḥ) [tree-vajra-purifying](taruvajrapavitrakāḥ)
+[mayūra-vāji-vāsobhiḥ](mayūravājivāsobhiḥ) [taru-vajra-pavitrakāḥ](taruvajrapavitrakāḥ)
 
 ## mukta-m0-p27-v664
-[linga-limb](liṅgāṅge) [where](yatra) [there](tatra) [variant](yatra yatra) [may-be](syāt) [king-realm-increase-giving](nṛparāṣṭravivṛddhidāḥ)
+[liṅga-aṅge](liṅgāṅge) [yatra tatra](yatra tatra) [syāt](syāt) [nṛpa-rāṣṭra-vivṛddhi-dāḥ](nṛparāṣṭravivṛddhidāḥ)
 
 ## mukta-m0-p27-v665
-[skull-heron-vulture-snake-hawk-crow-donkey-rat](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
+[karaṅka-kaṅka-gṛdhra-ahi-śyena-kāka-khara-ākhubhiḥ](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
 
 ## mukta-m0-p27-v666
-[sacrificer-people-king](yajamānaprajārājñāṃ) [linga](liṅgaṃ) [fear](bhīśa) [sometimes-giving](kadāyakam) [variant](strīśoka)
+[yajamāna-prajā-rājñāṃ](yajamānaprajārājñāṃ) [liṅgaṃ](liṅgaṃ) [bhīṣa](bhīśa) [kadāyakam](kadāyakam)
 
 ## mukta-m0-p27-v667
-[these](ete) [and](ca) [earthly](pārthivā) [colors](varṇā) [linga-marks](liṅgacinhāni) [for-prosperity](bhūtaye) [variant](bhūtale)
+[ete](ete) [ca](ca) [pārthivā](pārthivā) [varṇā](varṇā) [liṅga-cinhāni](liṅgacinhāni) [bhūtaye](bhūtaye)
 
 ## mukta-m0-p27-v668
-[these](ete) [and](ca) [variant](tu) [water-colors](vāruṇā varṇā) [people-life-wealth-gain-giving](prajāyurdhanalābhadāḥ)
+[ete](ete) [ca](ca) [vāruṇā](vāruṇā) [varṇā](varṇā) [prajā-āyur-dhana-lābha-dāḥ](prajāyurdhanalābhadāḥ)
 
 ## mukta-m0-p27-v669
-[fiery](āgneyā) [fire-fear-famine-disease-increasing](agnisantrāsadurbhikṣavyādhivardhanāḥ)
+[āgneyā](āgneyā) [agni-santrāsa-durbhikṣa-vyādhi-vardhanāḥ](agnisantrāsadurbhikṣavyādhivardhanāḥ)
 
 ## mukta-m0-p27-v670
-[airy](vāyavyā) [wind-fear-quarrel-speed-causing](vāyusantrāsakalahādvegakārakāḥ)
+[vāyavyā](vāyavyā) [vāyu-santrāsa-kalaha-ādvega-kārakāḥ](vāyusantrāsakalahādvegakārakāḥ)
 
 ## mukta-m0-p27-v671
-[in-ritual](sādhane) [and](ca) [three-linga](astriliṅgaṃ) [and](ca) [direction-linga](digliṅgaṃ) [and-indeed](caiva) [will-be-said](vakṣyate) [variant](lakṣyate)
+[sādhane](sādhane) [ca](ca) [astra-liṅgaṃ](astriliṅgaṃ) [ca](ca) [dig-liṅgaṃ](digliṅgaṃ) [ca](ca) [eva](eva) [vakṣyate](vakṣyate)
 
 ## mukta-m0-p27-v672
-[three-cornered](tryasraṃ) [and](ca) [all-success-purpose](aśeṣasiddhyarthaṃ) [veda-cornered](vedāsraṃ) [and](ca) [desired-giving](epsitapradam)
+[tri-asraṃ](tryasraṃ) [ca](ca) [aśeṣa-siddhi-artham](aśeṣasiddhyarthaṃ) [veda-asraṃ](vedāsraṃ) [ca](ca) [īpsita-pradam](īpsitapradam)
 
 ## mukta-m0-p27-v673
-[seven-cornered](saptāsraṃ) [hatred-making](dveṣakṛt) [known](khyātam) [eight-cornered](aṣṭāsraṃ) [fame-increasing](kīrtivardhanam)
+[sapta-asraṃ](saptāsraṃ) [dveṣa-kṛt](dveṣakṛt) [khyātam](khyātam) [aṣṭa-asraṃ](aṣṭāsraṃ) [kīrti-vardhanam](kīrtivardhanam)
 
 ## mukta-m0-p27-v674
-[rudra-cornered](rudrāsraṃ) [disease-increase-purpose](rogavṛddhyarthaṃ) [fear-destroying](bhayaghnaṃ) [twelve-cornered](dvādaśāsrakam)
+[rudra-asraṃ](rudrāsraṃ) [roga-vṛddhi-artham](rogavṛddhyarthaṃ) [bhaya-ghnaṃ](bhayaghnaṃ) [dvādaśa-asrakam](dvādaśāsrakam)
 
 ## mukta-m0-p27-v675
-[tithi-cornered](tithyasraṃ) [merit-making-linga](puṇyakṛlliṅgaṃ) [transformation-cornered](vikārāsraṃ) [happiness-giving](sukhapradam)
+[tithi-asraṃ](tithyasraṃ) [puṇya-kṛt](puṇyakṛt) [liṅgaṃ](liṅgaṃ) [vikāra-asraṃ](vikārāsraṃ) [sukha-pradam](sukhapradam)
