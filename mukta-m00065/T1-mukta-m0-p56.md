@@ -8,7 +8,7 @@
 [gloss](yatīnāṃ) [gloss](sarvakāleṣu) [gloss](liṅgasyāropaṇaṃ) [gloss](matam)
 
 ## mukta-m0-p56-v1378
-[gloss](dakṣiṇāyane) [gloss](apūjyaṃ) [gloss](trivarṣordhvaṃ) [gloss](bhayāvaham)
+[gloss](dakṣiṇe) [gloss](ayane) [gloss](apūjyaṃ) [gloss](trivarṣordhvaṃ) [gloss](bhayāvaham)
 
 ## mukta-m0-p56-v1379
 [gloss](kṣayāya) [gloss](bṛddhaye) [gloss](syāt) [gloss](ca) [gloss](yāmye) [gloss](saumye) [gloss](apare) [gloss](ravau)
@@ -26,10 +26,10 @@
 [gloss](kartuḥ) [gloss](kṣayaḥ) [gloss](sadāśokaḥ) [gloss](gṛhe) [gloss](bhavati) [gloss](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[gloss](śubhārthī) [gloss](na) [gloss](pravarteta) [gloss](devyāḥ) [gloss](mantrādiśāstrataḥ)
+[gloss](śubhārthī) [gloss](na) [gloss](pravarteta) [gloss](devyā) [gloss](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[gloss](tasmāt) [gloss](sthānaṃ) [gloss](guruṃ) [gloss](prāpya) [gloss](rakṣārthaṃ) [gloss](dābhicārikam)
+[gloss](tasmāt) [gloss](sthānaṃ) [gloss](guruṃ) [gloss](prāpya) [gloss](rakṣaye) [gloss](dābhicārikam)
 
 ## mukta-m0-p56-v1386
 [gloss](sthāpanaṃ) [gloss](tu) [gloss](prakartavyaṃ) [gloss](śiśirādau) [gloss](ṛtutraye)
@@ -38,7 +38,7 @@
 [gloss](sacandratārakāyoge) [gloss](sulagnakaraṇānvite)
 
 ## mukta-m0-p56-v1388
-[gloss](advaite) [gloss](ca) [gloss](eva) [gloss](kṛṣṇe) [gloss](api) [gloss](mantramūrti) [gloss](prabhedataḥ)
+[gloss](advaite) [gloss](ca) [gloss](eva) [gloss](kṛsṇe) [gloss](api) [gloss](mantramūrti) [gloss](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
 [gloss](pāñcarātrārharet) [gloss](miśrā) [gloss](pañcāśadvarṣasaṃsthitiḥ)
@@ -56,7 +56,7 @@
 [gloss](pratimāṃ) [gloss](pañcabhedaiḥ) [gloss](tu) [gloss](pratiṣṭhā) [gloss](pañcadhā) [gloss](uditā)
 
 ## mukta-m0-p56-v1394
-[gloss](dvitīyā) [gloss](āyu) [gloss](mati) [gloss](dadyāt) [gloss](tṛtīyā) [gloss](putrasaṃpadaḥ)
+[gloss](dvitīyā) [gloss](āyu) [gloss](dadyāt) [gloss](tṛtīyā) [gloss](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
 [gloss](daśamī) [gloss](bhūmilābhaṃ) [gloss](ca) [gloss](saubhāgyaṃ) [gloss](ca) [gloss](trayodaśī)
