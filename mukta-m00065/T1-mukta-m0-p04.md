@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[sthaṇḍile](sthaṇḍile) [maṇḍale](maṇḍale) [pūjya](pūjya) [syāt](syāt) [dīkṣā](dīkṣā) [sthāpana](sthāpana) [ādike](ādike)
+[gloss](sthaṇḍile) [gloss](maṇḍale) [gloss](pūjya) [gloss](syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[prabhu](prabhu) [māna](māna) [pradaṃ](pradaṃ) [śāṅkhaṃ](śāṅkhaṃ) [sainya](sainya) [chinna](chinna) [aga](aga) [danta](danta) [jam](jam)
+[gloss](prabhumānapradaṃ) [gloss](śāṅkhaṃ) [gloss](sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[aṇimā](aṇimā) [ādi](ādi) [nṛ](nṛ) [kulya](kulya) [uttha](uttha) [anyonya](anyonya) [abda](abda) [ardhataḥ](ardhataḥ) [sadā](sadā)
+[gloss](aṇimādinṛkulyottham) [gloss](anyonyabdārdhataḥ) [gloss](sadā)
 
 ## mukta-m0-p04-v79
-[śāli](śāli) [piṣṭa](piṣṭa) [udbhavaṃ](udbhavaṃ) [puṣṭyai](puṣṭyai) [ṣāṣṭikaṃ](ṣāṣṭikaṃ) [puṣṭi](puṣṭi) [vardhanam](vardhanam)
+[gloss](śālipiṣṭodbhavaṃ) [gloss](puṣṭyai) [gloss](ṣāṣṭikaṃ) [gloss](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[ripu](ripu) [bheda](bheda) [karaṃ](karaṃ) [maudgaṃ](maudgaṃ) [strī](strī) [daṃ](daṃ) [śyāmāka](śyāmāka) [sambhavam](sambhavam)
+[gloss](ripubhedakaraṃ) [gloss](maudgaṃ) [gloss](strīdaṃ) [gloss](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[sukha](sukha) [kṛt](kṛt) [nāvanītaṃ](nāvanītaṃ) [tu](tu) [gomayaṃ](gomayaṃ) [roga](roga) [nāśanam](nāśanam)
+[gloss](sukhakṛnnāvanītaṃ) [gloss](tu) [gloss](gomayaṃ) [gloss](roganāśanam)
 
 ## mukta-m0-p04-v82
-[nānā](nānā) [phala](phala) [udbhavaṃ](udbhavaṃ) [liṅgaṃ](liṅgaṃ) [nānā](nānā) [kāma](kāma) [pradāyakam](pradāyakam)
+[gloss](nānāphalodbhavaṃ) [gloss](liṅgaṃ) [gloss](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[uccāṭane](uccāṭane) [tu](tu) [pāṃśavyaṃ](pāṃśavyaṃ) [maulaṃ](maulaṃ) [śatru](śatru) [kṣaya](kṣaya) [āvaham](āvaham)
+[gloss](uccāṭane) [gloss](tu) [gloss](pāṃśavyaṃ) [gloss](maulaṃ) [gloss](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[pura](pura) [kṣobha](kṣobha) [karaṃ](karaṃ) [pauraṃ](pauraṃ) [rāmaṭhaṃ](rāmaṭhaṃ) [ca](ca) [ugrya](ugrya) [kārakam](kārakam)
+[gloss](purakṣobhakaraṃ) [gloss](pauraṃ) [gloss](rāmaṭhaṃ) [gloss](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[mṛd](mṛd) [bimba](bimba) [udbhava](udbhava) [iṣṭa](iṣṭa) [arthaṃ](arthaṃ) [lepāt](lepāt) [syuḥ](syuḥ) [sarva](sarva) [saṃpadaḥ](saṃpadaḥ)
+[gloss](mṛdbimbodbhavamiṣṭārthaṃ) [gloss](lepāt) [gloss](syuḥ) [gloss](sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[tāvat](tāvat) [kāla](kāla) [tu](tu) [saṃpūya](saṃpūya) [visṛjya](visṛjya) [tāni](tāni) [ke](ke) [kṣipet](kṣipet)
+[gloss](tāvatkāla) [gloss](tu) [gloss](saṃpūya) [gloss](visṛjya) [gloss](tāni) [gloss](ke) [gloss](kṣipet)
 
 ## mukta-m0-p04-v87
-[niṣkvāthya](niṣkvāthya) [paṭa](paṭa) [māla](māla) [ālepya](ālepya) [saṃśoṣya](saṃśoṣya) [pāri](pāri) [mārjya](mārjya) [ca](ca)
+[gloss](niṣkvāthya) [gloss](paṭamālepya) [gloss](saṃśoṣya) [gloss](pārimārjya) [gloss](ca)
 
 ## mukta-m0-p04-v88
-[dhātu](dhātu) [bilva](bilva) [rasaiḥ](rasaiḥ) [lekhyaṃ](lekhyaṃ) [tridhā](tridhā) [liṅgaṃ](liṅgaṃ) [paṭa](paṭa) [ādike](ādike)
+[gloss](dhātubilvarasair) [gloss](lekhyaṃ) [gloss](tridhā) [gloss](liṅgaṃ) [gloss](paṭādike)
 
 ## mukta-m0-p04-v89
-[bala](bala) [saṃvartanī](saṃvartanī) [icchāyā](icchāyā) [dṛṣṭi](dṛṣṭi) [bhāva](bhāva) [āśritā](āśritā) [sadā](sadā)
+[gloss](balasaṃvartanīcchāyā) [gloss](dṛṣṭi) [gloss](bhāvāśritā) [gloss](sadā)
 
 ## mukta-m0-p04-v90
-[karuṇā](karuṇā) [adbhuta](adbhuta) [śāntāḥ](śāntāḥ) [ca](ca) [nava](nava) [bhāva](bhāva) [ātmikāḥ](ātmikāḥ) [kvacit](kvacit)
+[gloss](karuṇādbhutaśāntāśca) [gloss](navabhāvātmikāḥ) [gloss](kvacit)
 
 ## mukta-m0-p04-v91
-[svecchayā](svecchayā) [pūjayet](pūjayet) [etan](etan) [mṛnmayāni](mṛnmayāni) [ucyate](ucyate) [adhunā](adhunā)
+[gloss](svecchayā) [gloss](pūjayedetan) [gloss](mṛnmayāni) [gloss](ucyate) [gloss](adhunā)
 
 ## mukta-m0-p04-v92
-[sadyas](sadyas) [mantreṇa](mantreṇa) [ca](ca) [āpakvaṃ](āpakvaṃ) [kramāt](kramāt) [nava](nava) [kara](kara) [ādikam](ādikam)
+[gloss](sadyomantreṇa) [gloss](cāpakvaṃ) [gloss](kramānnavakarādikam)
 
 ## mukta-m0-p04-v93
-[dvija](dvija) [ādi](ādi) [jāti](jāti) [bhiḥ](bhiḥ) [mṛdbhiḥ](mṛdbhiḥ) [avyakta](avyakta) [ādi](ādi) [ca](ca) [kāmataḥ](kāmataḥ)
+[gloss](dvijādijātibhiḥ) [gloss](mṛdbhiḥ) [gloss](avyaktādi) [gloss](ca) [gloss](kāmataḥ)
 
 ## mukta-m0-p04-v94
-[vāpī](vāpī) [kūpa](kūpa) [taḍāgeṣu](taḍāgeṣu) [dīrghikāyāḥ](dīrghikāyāḥ) [samāharet](samāharet)
+[gloss](vāpīkūpataḍāgeṣu) [gloss](dīrghikāyāḥ) [gloss](samāharet)
 
 ## mukta-m0-p04-v95
-[puṣṭyai](puṣṭyai) [triloha](triloha) [garbhaṃ](garbhaṃ) [ca](ca) [dhana](dhana) [koṣa](koṣa) [vivṛddhaye](vivṛddhaye)
+[gloss](puṣṭyai) [gloss](trilohagarbhaṃ) [gloss](ca) [gloss](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[vāma](vāma) [ākhyena](ākhyena) [citāṃ](citāṃ) [kṛtvā](kṛtvā) [ghoreṇa](ghoreṇa) [paridāhya](paridāhya) [ca](ca)
+[gloss](vāmākhyena) [gloss](citāṃ) [gloss](kṛtvā) [gloss](ghoreṇa) [gloss](paridāhya) [gloss](ca)
 
 ## mukta-m0-p04-v97
-[īśānena](īśānena) [gṛhītvā](gṛhītvā) [tu](tu) [tataḥ](tataḥ) [saṃskṛtya](saṃskṛtya) [pūjayet](pūjayet)
+[gloss](īśānena) [gloss](gṛhītvā) [gloss](tu) [gloss](tataḥ) [gloss](saṃskṛtya) [gloss](pūjayet)
 
 ## mukta-m0-p04-v98
-[sarja](sarja) [hiṅgu](hiṅgu) [puraṃ](puraṃ) [bola](bola) [mata](mata) [sī](sī) [taila](taila) [meva](meva) [ca](ca)
+[gloss](sarjahiṅgupuraṃbola) [gloss](matasītailameva) [gloss](ca)
 
 ## mukta-m0-p04-v99
-[mṛdi](mṛdi) [kṣiptvā](kṣiptvā) [vyavasthāpya](vyavasthāpya) [māsaṃ](māsaṃ) [tāṃ](tāṃ) [parimṛdya](parimṛdya) [ca](ca)
+[gloss](mṛdi) [gloss](kṣiptvā) [gloss](vyavasthāpya) [gloss](māsaṃ) [gloss](tāṃ) [gloss](parimṛdya) [gloss](ca)
 
 ## mukta-m0-p04-v100
-[śaṇa](śaṇa) [tatva](tatva) [nvitaṃ](nvitaṃ) [katvā](katvā) [mṛnmayaṃ](mṛnmayaṃ) [ghaṭayet](ghaṭayet) [śubham](śubham)
+[gloss](śaṇatatvanvitaṃ) [gloss](katvā) [gloss](mṛnmayaṃ) [gloss](ghaṭayecchubham)

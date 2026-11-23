@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-prāvrājya-annāśyate pūrvaṃ strī-yogāt-aparaṃ tathā
+prāvrājyāt(from-wandering) naśyate(is-destroyed) pūrvaṃ(first) strīyogāt(from-union-with-woman) aparaṃ(then) tathā(likewise)
 
 ## mukta-m0-p10-v227
-trikarṇa-utthāḥ-trikarṇāḥ-ca trikapāna-ātma-karṇakā
+trikarṇotthāḥ(three-eared-born) trikarṇāḥ(three-eared) ca(and) trikapānātma(three-skulled-self) karṇakā(ear-ones)
 
 ## mukta-m0-p10-v228
-bhasma-aṅkuraḥ-tu kattha-osthaḥ-tat-sutāḥ kauśika-ādayaḥ
+bhasmāṅkuraḥ(ash-sprout) tu(indeed) katthosthaḥ(boastful-lipped) tatsutāḥ(his-sons) kauśikādayaḥ(Kauśika-and-others)
 
 ## mukta-m0-p10-v229
-rāṣṭra-kṣaya-karāḥ hi-ete ye ca paṣāṇḍinaḥ narāḥ
+rāṣṭrakṣayakarāḥ(kingdom-destroying) hi(indeed) ete(these) ye(who) ca(and) paṣāṇḍinaḥ(heretics) narāḥ(men)
 
 ## mukta-m0-p10-v230
-śāstra-avalokanāt-eva caṇḍeśaḥ-tasya śāsakaḥ
+śāstrāvalokanāt(from-scripture-observation) eva(indeed) caṇḍeśaḥ(Caṇḍeśa) tasya(his) śāsakaḥ(ruler)
 
 ## mukta-m0-p10-v231
-sa yāti narakaṃ sadyo yājñikaiḥ saha daiśikaḥ
+sa(he) yāti(goes) narakaṃ(to-hell) sadyaḥ(immediately) yājñikaiḥ(with-sacrificers) saha(with) daiśikaḥ(teacher)
 
 ## mukta-m0-p10-v232
-teṣām-ācaraṇāt-nityam-ācāryaḥ iti kīrtyate
+teṣām(their) ācaraṇāt(from-conduct) nityam(always) ācāryaḥ(teacher) iti(thus) kīrtyate(is-called)
 
 ## mukta-m0-p10-v233
-tasmāt-na mānavīṃ buddhiṃ kārayet-daiśikaṃ prati
+tasmāt(therefore) na(not) mānavīm(human) buddhim(mind) kārayet(should-make) daiśikaṃ(teacher) prati(towards)
 
 ## mukta-m0-p10-v234
-pañca-vaktrāṇi devasya pañca-āgama-vivṛddhaye
+pañcavaktrāṇi(five-faces) devasya(of-god) pañcāgama(five-āgamas) vivṛddhaye(for-growth)
 
 ## mukta-m0-p10-v235
-dīptaṃ sūkṣmaṃ ca sāhasram aṃśuma tsuprabhaṃ daśa
+dīptaṃ(blazing) sūkṣmaṃ(subtle) ca(and) sāhasram(thousand-fold) aṃśum(ray) suprabhaṃ(well-shining) daśa(ten)
 
 ## mukta-m0-p10-v236
-vijayaṃ pāram-aiśvaryaṃ niśvāsa-udgīta-saṃjñakam
+vijayaṃ(victory) pāramaiśvaryaṃ(supreme-lordship) niśvāsodgīta(breath-song) saṃjñakam(named)
 
 ## mukta-m0-p10-v237
-narasiṃhaṃ candrahāsaṃ vīraṃ svāyambhu-rauravam
+narasiṃhaṃ(man-lion) candrahāsaṃ(moon-smile) vīraṃ(hero) svāyambhu(self-born) rauravaṃ(Raurava)
 
 ## mukta-m0-p10-v238
-rudra-bhedāḥ samākhyātā daśa-aṣṭādaśa ca-ūrdhvagāḥ
+rudrabhedāḥ(Rudra-divisions) samākhyātāḥ(declared) daśa(ten) aṣṭādaśa(eighteen) ca(and) ūrdhvagāḥ(upward-going)
 
 ## mukta-m0-p10-v239
-pañca-bhūta vibhāgaṃ ca śūnya-bheda vinirṇayam
+pañcabhūta(five-elements) vibhāgaṃ(division) ca(and) śūnyabheda(void-division) vinirṇayam(determination)
 
 ## mukta-m0-p10-v240
-kambojaṃ kambalaṃ kaṅkaṃ kālakuṇḍaṃ kaṭāhakam
+kambojaṃ(Kamboja) kambalaṃ(blanket) kaṅkaṃ(heron) kālakuṇḍaṃ(black-pot) kaṭāhakam(cauldron)
 
 ## mukta-m0-p10-v241
-gāruḍasya tu-ime bhedāḥ aṣṭāviṃśatiḥ-īritāḥ
+gāruḍasya(of-Garuḍa) tu(indeed) ime(these) bhedāḥ(divisions) aṣṭāviṃśatiḥ(twenty-eight) īritāḥ(declared)
 
 ## mukta-m0-p10-v242
-asitāṅgaṃ ruruṃ ca-eva kapālīśaṃ samuccayam
+asitāṅgaṃ(black-limbed) ruruṃ(Ruru) ca(and) eva(indeed) kapālīśaṃ(Kapālīśa) samuccayam(collection)
 
 ## mukta-m0-p10-v243
-bhīmāṅgaṃ ḍāmarārāvaṃ bhīmaṃ vetāla-mardakam
+bhīmāṅgaṃ(terrible-limbed) ḍāmarārāvaṃ(Ḍāmarārāva) bhīmaṃ(terrible) vetālamardakam(Vetāla-crusher)
 
 ## mukta-m0-p10-v244
-triśiraṃ ca-eka-pādaṃ tu siddha-yogeśvarī-matam
+triśiraṃ(three-headed) ca(and) ekapādaṃ(one-footed) tu(indeed) siddhayogeśvarīmatam(Siddhayogeśvarī's-opinion)
 
 ## mukta-m0-p10-v245
-viśvarikaṇṭha saṅkocaṃ tilaka-udyāna-bhairavam
+viśvarikaṇṭha(universal-throat) saṅkocaṃ(contraction) tilakodyāna(Tilaka-garden) bhairavam(Bhairava)
 
 ## mukta-m0-p10-v246
-catuḥ-ṣaṣṭi-pramāṇāni dakṣiṇa-āsya-āt-bhavāni ca
+catuḥṣaṣṭi(sixty-four) pramāṇāni(measures) dakṣiṇāsya(southern-face) bhavāni(born) ca(and)
 
 ## mukta-m0-p10-v247
-kara-pūjā-vidhānaṃ tu vīṇā-tantraṃ tad-uttaram
+karapūjā(hand-worship) vidhānaṃ(procedure) tu(indeed) vīṇātantraṃ(Vīṇā-tantra) taduttaram(that-supreme)
 
 ## mukta-m0-p10-v248
-siddha-nitya-udayaṃ jyeṣṭhaṃ cintāmaṇi-mahodayam
+siddhanityodayaṃ(Siddha-eternal-rising) jyeṣṭhaṃ(eldest) cintāmaṇi(wish-gem) mahodayaṃ(great-rising)
 
 ## mukta-m0-p10-v249
-ānanda-rudra-bhadra-ākhyaṃ kiṅkaraṃ kiṅkara-anugam
+ānandarudrabhadra(Ānanda-Rudra-Bhadra) ākhyaṃ(named) kiṅkaraṃ(servant) kiṅkarānugam(servant-follower)
 
 ## mukta-m0-p10-v250
-vāmadaṃ vāmadeva-uktaṃ caturviṃśati-bheda-gam
+vāmadaṃ(left-giving) vāmadeva(Vāmadeva) uktaṃ(spoken) caturviṃśati(twenty-four) bhedagam(division-going)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[gandha](gandhaṃ) [puṣpa](puṣpaṃ) [ca](ca) [dhūpa-ādya](dhūpādyaṃ) [sākṣata](sākṣataṃ) [ca](ca) [pavitraka](pavitrakam)
+[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[śiva](śivaṃ) [nivedayet](nivedayen) [mūrdhni](mūrdhni) [recaka-amṛtī-kṛta](recakenāmṛtīkṛtam)
+[gloss](śivaṃ) [gloss](nivedayen) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-[prātar](prātaḥ) [snāta](snātaḥ) [śuci](śuciḥ) [śuddha](śuddhaḥ) [pūjā](pūjāṃ) [kuryāt](kuryāt) [sva-vitta-taḥ](svavittataḥ)
+[gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[pañcabhiḥ](pañcabhiḥ) [madhuraiḥ](madhuraiḥ) [snāna](snānaṃ) [jala-antaraiḥ](jalāntarair) [virukṣaṇa](virukṣaṇam)
+[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[aṣṭāṅga-arhga](aṣṭāṅgo'rghaṃ) [pradāya](pradāyātha) [atha](atha) [samālabhya](samālabhya) [prapūjayet](prapūjayet)
+[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[vastraiḥ](vastraiḥ) [saṃchādita](saṃchāditaṃ) [veśma](veśma) [ghaṭa-ācāmara-bhūṣaṇaiḥ](ghaṭācāmarabhūṣaṇaiḥ)
+[gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](cāmara) [gloss](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[kadalī-cūta-mālābhiḥ](kadalīcūtamālābhir) [jāta-bīja-sarocakaiḥ](jātabījasarocakaiḥ)
+[gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[nṛtya-gītaiḥ](nṛtyagītaiḥ) [kalaiḥ](kalair) [vādyaiḥ](vādyair) [nayed](nayed) [rātriṃ](rātriṃ) [mahotsavaiḥ](mahotsavaiḥ)
+[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayed) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[bhaktyā](bhakttyā) [santoṣayet](santoṣayet) [sarvān](sarvān) [vastra-dāna-ādi-bhojanaiḥ](vastradānādibhojanaiḥ)
+[gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dānādi) [gloss](bhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[sarva-pāpa-vinirmuktaḥ](sarvapāpavinirmukto) [rudra-loke](rudraloke) [mahīyate](mahīyate)
+[gloss](sarva) [gloss](pāpa) [gloss](vinirmuktaḥ) [gloss](rudra) [gloss](loke) [gloss](mahīyate)
 
 ## mukta-m0-p123-v3061
-[khaṭvā-śayana-mithyokti](khaṭvāśayanamithyokti) [strī-yātrā-miṣa-varjakaḥ](strīyātrāmiṣavarjakaḥ)
+[gloss](khaṭvā) [gloss](śayana) [gloss](mithyokti) [gloss](strī) [gloss](yātrā) [gloss](miṣa) [gloss](varjakaḥ)
 
 ## mukta-m0-p123-v3062
-[pūjāṃ](pūjāṃ) [kṛtvā](kṛtvā) [śivaṃ](śivaṃ) [natvā](natvā) [pavitraṃ](pavitraṃ) [ca](ca) [visarjayet](visarjayet)
+[gloss](pūjāṃ) [gloss](kṛtvā) [gloss](śivaṃ) [gloss](natvā) [gloss](pavitraṃ) [gloss](ca) [gloss](visarjayet)
 
 ## mukta-m0-p123-v3063
-[kṛtvā](kṛtvā) [kṣipet](kṣipet) [pavitrāṇi](pavitrāṇi) [śiva-agnau](śivāgnau) [vā](vā) [sadā-ambhasi](sadāmbhasi)
+[gloss](kṛtvā) [gloss](kṣipet) [gloss](pavitrāṇi) [gloss](śiva) [gloss](agnau) [gloss](vā) [gloss](sadā) [gloss](ambhasi)
 
 ## mukta-m0-p123-v3064
-[syāt](syāt) [prāyaścitta-adho-gāmī](prāyaścityadhogāmī) [kṛtaḥ](kṛto) [rudraḥ](rudro) [abda-koṭiśaḥ](abda...koṭiśaḥ)
+[gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[tāmra-liṅga-arcana-darkaḥ](tāmraliṅgārcanādarkaḥ) [piśācaḥ](piśāco) [vaṃśa-sambhavāt](vaṃśasambhavāt)
+[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3066
-[sīsa-jā](sīsajā) [dguhyakāḥ](dguhyakāḥ) [sarve](sarve) [loha-rakṣaḥ-asura-antakāḥ](lohādrakṣo'surāntakāḥ)
+[gloss](sīsa) [gloss](jāḥ) [gloss](guhyakāḥ) [gloss](sarve) [gloss](loha) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
 
 ## mukta-m0-p123-v3067
-[padmarāga-adhutāśaḥ](padmarāgāddhutāśaśca) [ca](ca) [indranīla-arcana-adh-hariḥ](indranīlārcanāddhariḥ)
+[gloss](padmarāga) [gloss](adhutāśaḥ) [gloss](ca) [gloss](indranīla) [gloss](arcana) [gloss](adhariḥ)
 
 ## mukta-m0-p123-v3068
-[vaidruma-asya-arcana-ad-nāgāḥ](vaidrumāsyārcanānnāgāḥ) [śukraḥ](śukraḥ) [kārketa-nāt-sadā](kārketanātsadā)
+[gloss](vaidruma) [gloss](asya) [gloss](arcana) [gloss](annāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](atsadā)
 
 ## mukta-m0-p123-v3069
-[paulastyaḥ](paulastyo) [jīva-jātibhyaḥ](jīvajātibhyaṣṭai) [ṭṭibhāt](ṭṭibhātsiddhakinnarāḥ) [siddha-kinnarāḥ](siddhakinnarāḥ)
+[gloss](paulastyaḥ) [gloss](jīva) [gloss](jātibhyaḥ) [gloss](aṣṭaiḥ) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[aśvinau](aśvinau) [pakva-mṛd-bhūtāt](pakvamṛdbhūtādgandharvā) [gandharvāḥ](gandharvā) [dāra-sambhavāt](dārasambhavāt)
+[gloss](aśvinau) [gloss](pakva) [gloss](mṛd) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3071
-[kūrma-kauśi-kasa-bhūtāt](kūrmakauśi) [vāsuki-nayināyakaḥ](vāsukinayināyakaḥ)
+[gloss](kūrma) [gloss](kauśi) [gloss](kasabhūtāt) [gloss](vāsuki) [gloss](nayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-[liṅga-saṃsthāpana-arcana-at](liṅgasaṃsthāpanārcanāt)
+[gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcana) [gloss](at)
 
 ## mukta-m0-p123-v3073
-[somapāḥ](somapāḥ)
+[gloss](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[nānā-phala-uttha-liṅgāni](nānāphalotthaliṅgāni) [vidhinā](vidhinā) [sevitāni](sevitāni) [ca](ca)
+[gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
 
 ## mukta-m0-p123-v3075
-[saikatāt](saikatādviśvakarmā) [viśvakarmā](viśvakarmā) [ca](ca) [śacīśaḥ](śacīśo) [lavaṇaḥ](lavaṇo) [dbhavāt](dbhavāt)
+[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacīśaḥ) [gloss](lavaṇaḥ) [gloss](dbhavāt)
