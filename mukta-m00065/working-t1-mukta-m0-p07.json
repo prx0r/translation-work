@@ -16,7 +16,7 @@
 },
 {
 "surface": "īśasya",
-"quick_gloss": "of-īśa"
+"quick_gloss": "of-lord"
 },
 {
 "surface": "śūdrādiḥ",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "śivatāṃ",
-"quick_gloss": "śiva-hood"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "vrajet",
@@ -44,8 +44,12 @@
 "quick_gloss": "as"
 },
 {
-"surface": "kulālacakrasthaḥ",
+"surface": "kulāla+cakra",
 "quick_gloss": "potter-wheel"
+},
+{
+"surface": "sthaḥ",
+"quick_gloss": "on"
 },
 {
 "surface": "avicchinnaṃ",
@@ -89,8 +93,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mantratejasā",
-"quick_gloss": "by-mantra-tejas"
+"surface": "mantra+tejasā",
+"quick_gloss": "mantra-radiance"
 }
 ]
 },
@@ -106,7 +110,7 @@
 "quick_gloss": "may-be"
 },
 {
-"surface": "katakaphalaiḥ",
+"surface": "kataka+phalaiḥ",
 "quick_gloss": "kataka-fruit"
 },
 {
@@ -123,7 +127,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "mānavaḥ",
@@ -143,7 +147,7 @@
 "quick_gloss": "thus-indeed"
 },
 {
-"surface": "mantrasāmarthyāt",
+"surface": "mantra+sāmarthyāt",
 "quick_gloss": "by-mantra-power"
 },
 {
@@ -176,12 +180,16 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "īśamantrasaṃparkāt",
-"quick_gloss": "īśa-mantra-contact"
+"surface": "īśa+mantra",
+"quick_gloss": "of-īśa-mantra"
+},
+{
+"surface": "saṃparkā",
+"quick_gloss": "contact"
 },
 {
 "surface": "śivatvaṃ",
-"quick_gloss": "śiva-hood"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "jāyate",
@@ -189,7 +197,7 @@
 },
 {
 "surface": "paśoḥ",
-"quick_gloss": "of-paśu"
+"quick_gloss": "of-beast"
 }
 ]
 },
@@ -210,15 +218,15 @@
 },
 {
 "surface": "śivatvaṃ",
-"quick_gloss": "śiva-hood"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "sa",
-"quick_gloss": "in"
+"quick_gloss": "he"
 },
 {
 "surface": "carācare",
-"quick_gloss": "moving-and-nonmoving"
+"quick_gloss": "moving-and-still"
 }
 ]
 },
@@ -247,14 +255,14 @@
 },
 {
 "surface": "śivatvaṃ",
-"quick_gloss": "śiva-hood"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "yāti",
 "quick_gloss": "goes"
 },
 {
-"surface": "mantravit",
+"surface": "mantra+vit",
 "quick_gloss": "mantra-knower"
 }
 ]
@@ -283,7 +291,7 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "devācāryatapasvinaḥ",
+"surface": "deva+ācārya+tapasvinaḥ",
 "quick_gloss": "gods-teachers-ascetics"
 }
 ]
@@ -300,8 +308,12 @@
 "quick_gloss": "as"
 },
 {
-"surface": "pūjyavedajñaḥ",
-"quick_gloss": "venerable-veda-knower"
+"surface": "pūjya+veda",
+"quick_gloss": "venerable-veda"
+},
+{
+"surface": "jñaḥ",
+"quick_gloss": "knower"
 },
 {
 "surface": "tathā",
@@ -317,7 +329,7 @@
 },
 {
 "surface": "daiśikaḥ",
-"quick_gloss": "daiśika"
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -349,11 +361,11 @@
 "quick_gloss": "is"
 },
 {
-"surface": "nānya",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "rūpaḥ",
+"surface": "anya+rūpaḥ",
 "quick_gloss": "other-form"
 },
 {
@@ -370,7 +382,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantrayogāt",
+"surface": "mantra+yogāt",
 "quick_gloss": "by-mantra-yoga"
 },
 {
@@ -383,7 +395,7 @@
 },
 {
 "surface": "aniṣṭaṃ",
-"quick_gloss": "inauspicious"
+"quick_gloss": "unpleasant"
 },
 {
 "surface": "tathā",
@@ -419,7 +431,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "mantranaukayā",
+"surface": "mantra+naukayā",
 "quick_gloss": "by-mantra-boat"
 }
 ]
@@ -440,7 +452,7 @@
 "quick_gloss": "but"
 },
 {
-"surface": "ekaikahāniḥ",
+"surface": "ekaika+hāniḥ",
 "quick_gloss": "one-by-one-loss"
 },
 {
@@ -449,14 +461,14 @@
 },
 {
 "surface": "sahasre",
-"quick_gloss": "in-thousand"
+"quick_gloss": "thousand"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "śatakramāt",
+"surface": "śata+kramāt",
 "quick_gloss": "hundred-fold"
 }
 ]
@@ -469,7 +481,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pitāmahaśataṃ",
+"surface": "pitāmaha+śataṃ",
 "quick_gloss": "grandfather-hundred"
 },
 {
@@ -507,11 +519,11 @@
 },
 {
 "surface": "upendrāḥ",
-"quick_gloss": "upendra"
+"quick_gloss": "upendras"
 },
 {
 "surface": "asaṃkhyātāḥ",
-"quick_gloss": "uncountable"
+"quick_gloss": "countless"
 },
 {
 "surface": "pitāmahāḥ",
@@ -527,8 +539,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sādākhyanimiṣeṇa",
-"quick_gloss": "in-sādākhya-moment"
+"surface": "sādākhya+nimiṣeṇa",
+"quick_gloss": "sādākhya-instant"
 },
 {
 "surface": "īśaḥ",
@@ -565,19 +577,23 @@
 },
 {
 "surface": "parataraṃ",
-"quick_gloss": "more-supreme"
+"quick_gloss": "higher"
 },
 {
-"surface": "nāsti",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "śāstreṣu",
-"quick_gloss": "in-śāstras"
+"quick_gloss": "in-scriptures"
 },
 {
 "surface": "niścayaḥ",
@@ -597,7 +613,7 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "śivāditas",
+"surface": "śivāt",
 "quick_gloss": "than-śiva"
 },
 {
@@ -605,8 +621,8 @@
 "quick_gloss": "mantra"
 },
 {
-"surface": "siddhimuktiphalapradaḥ",
-"quick_gloss": "siddhi-mukti-fruit-giving"
+"surface": "siddhi+mukti+phala+pradaḥ",
+"quick_gloss": "accomplishment-liberation-fruit-giving"
 }
 ]
 },
@@ -622,8 +638,8 @@
 "quick_gloss": "by-mantras"
 },
 {
-"surface": "śivādhvare",
-"quick_gloss": "in-śiva-sacrifice"
+"surface": "śiva+adhvare",
+"quick_gloss": "śiva-sacrifice"
 },
 {
 "surface": "jātaḥ",
@@ -639,7 +655,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 },
 {
 "surface": "kathaṃ",
@@ -663,7 +679,7 @@
 "quick_gloss": "thus-indeed"
 },
 {
-"surface": "pāpahānaṃ",
+"surface": "pāpa+hānaṃ",
 "quick_gloss": "sin-removal"
 },
 {
@@ -680,7 +696,7 @@
 },
 {
 "surface": "prajāyate",
-"quick_gloss": "are-born"
+"quick_gloss": "is-born"
 }
 ]
 },
@@ -696,8 +712,8 @@
 "quick_gloss": "world"
 },
 {
-"surface": "viprādikācārāt",
-"quick_gloss": "vipra-etc-teachers"
+"surface": "vipra+ādi+kācārān",
+"quick_gloss": "brāhmaṇa-etc-teachers"
 },
 {
 "surface": "nārakīṇaḥ",
@@ -709,7 +725,7 @@
 },
 {
 "surface": "tārakāḥ",
-"quick_gloss": "tārakāḥ"
+"quick_gloss": "saviors"
 }
 ]
 },
@@ -734,14 +750,14 @@
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "dvijāḥ",
 "quick_gloss": "twice-born"
 },
 {
-"surface": "devādidaiśikāḥ",
+"surface": "deva+ādi+daiśikāḥ",
 "quick_gloss": "gods-etc-teachers"
 }
 ]
@@ -754,7 +770,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣabhūtagrahādyāḥ",
+"surface": "viṣa+bhūta+graha+ādyāḥ",
 "quick_gloss": "poison-beings-planets-etc"
 },
 {
@@ -784,7 +800,7 @@
 "tokens": [
 {
 "surface": "carācaraṃ",
-"quick_gloss": "moving-and-nonmoving"
+"quick_gloss": "moving-and-still"
 },
 {
 "surface": "prapadyeta",
@@ -792,11 +808,11 @@
 },
 {
 "surface": "śivatvaṃ",
-"quick_gloss": "śiva-hood"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "tatkṣaṇāt",
-"quick_gloss": "that-moment"
+"quick_gloss": "that-instant"
 },
 {
 "surface": "dhruvam",
