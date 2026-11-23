@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-anaṃga-śakti+oṣṭau tu pūjanīyā+manīṣibhiḥ
+[limbless-powers](anaṃgaśaktayoṣṭau) [indeed](tu) [worship-worthy](pūjanīyāmanīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-anaṃga-madana+anaṃga madana+āturayā saha
+[limbless](anaṃgamadanānaṃga) [with-madana-afflicted](madanāturayā) [together](saha)
 
 ## mukta-m0-p18-v428
-anaṃga-mālinī ca+aṣṭau pūjanīyā vidhānataḥ
+[limbless-garlanded](anaṃgamālinī) [and](cāṣṭau) [worship-worthy](pūjanīyā) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-ānaṃda-cakra+ānaṃda kolāhala-vivarddhanam
+[bliss-wheel](ānaṃdacakramānaṃda) [uproar-increasing](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-taṭit-prabhā samullāsa-piṃjaraiḥ kāma-raśmibhiḥ
+[lightning-luster](taṭitprabhā) [shining-cage](samullāsapiṃjaraiḥ) [desire-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-anaṃga-śakti saṃkṣobhāṃ nāḍībhyaḥ+galitaṃ navam
+[limbless-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-nadis](nāḍībhyogalitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-śṛṃgāra-vāhinī-pūra pūrṇa-rāgāṃ kurāruṇam
+[erotic-flow](śṛṃgāravāhinīpūra) [full-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
 
 ## mukta-m0-p18-v433
-manmatha-drava saṃdoha juṣṭam+artha-prabhedanaiḥ
+[love-liquid](manmathadrava) [abundance](saṃdoha) [enjoying](juṣṭamarthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-keyaṃ caṃdrakalā-nāma kutra tiṣṭhati śaṃkara
+[who-is-this](keyaṃ) [moon-digit-named](caṃdrakalānāma) [where](kutra) [stands](tiṣṭhati) [shankara](śaṃkara)
 
 ## mukta-m0-p18-v435
-śṛṇu-kāma-kalā-nāma nāḍī-bhoga-aṃbu-vāhinī
+[listen](śṛṇukāmakalānāma) [nadi-enjoyment-water-carrying](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-nāḍī-cakraṃ samastaṃ ca tayā vyāptaṃ varānane
+[nadi-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [best-faced](varānane)
 
 ## mukta-m0-p18-v437
-kāścit+ānaṃda-vāhinya eka+eva+amala-vāhinī
+[some-bliss-carrying](kāścidānaṃdavāhinya) [one-only](ekaivamalavāhinī)
 
 ## mukta-m0-p18-v438
-aṣṭau+bhoga-aṃbu-vāhinyaḥ tāsu caṃdrakalā parā
+[eight-enjoyment-water-carrying](aṣṭaubhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit](caṃdrakalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-caṃdra-rekhā caṃdravatī tathā caṃdra-mahodayā
+[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-great-rising](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-etā+bhoga-aṃbu-vāhinya svāṃśaiḥ+caṃdrakalā-āśritāḥ
+[these-enjoyment-water-carrying](etābhogāṃbuvāhinya) [by-own-parts](svāṃśaiścaṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-pradhāna-bhūtā vilasad-vidyut-dāma sama-prabhā
+[principal](pradhānabhūtā) [shining](vilasadvidyuddāma) [equal-luster](samaprabhā)
 
 ## mukta-m0-p18-v442
-sarva-nāḍī-mūla-bhūtaṃ nābhi-cakraṃ samāśritā
+[all-nadi-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted](samāśritā)
 
 ## mukta-m0-p18-v443
-tan-mukha-udghāṭanaṃ loke durlabhaṃ parameśvari
+[that-mouth-opening](tanmukhot) [ghāṭanaṃ](ghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-dvitrāṇām+eva jāyeta sahasreṣu+atha+kauliṣu
+[of-two-or-three](dvitrāṇāmeva) [would-be-born](jāyeta) [among-thousands](sahasreṣvathakauliṣu)
 
 ## mukta-m0-p18-v445
-yasya liṃga-īśvara-āseka sakṛt+vā+api+ihajanmani
+[whose](yasya) [linga-lord-secretion](liṃgesvarāseka) [once](sakṛdvāpīhajanmani)
 
 ## mukta-m0-p18-v446
-anirvācyasya nirvāṇa padavī+nada+aviyasī
+[of-ineffable](anirvācyasya) [nirvana](nirvāṇa) [path](padavīnadaviyasī)
 
 ## mukta-m0-p18-v447
-samayasya parijñānāt+upacārasya kalpanāt
+[of-convention](samayasya) [knowledge](parijñānādupacārasya) [arrangement](kalpanāt)
 
 ## mukta-m0-p18-v448
-kadācit kvacid+unmeṣaṃ mukha-udghāṭana-lakṣaṇam
+[sometimes](kadācit) [somewhere](kvacidunmeṣaṃ) [mouth-opening-mark](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-tad-arthāni+eva+śāstrāṇi tad-arthāḥ+ca pravṛttayaḥ
+[for-that-purpose](tadarthānyevaśāstrāṇi) [for-that-purpose](tadarthāśca) [activities](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-tasmāt+caṃdrakalā-nāḍyāṃ bhoga-amṛta-mahodadhim
+[therefore](tasmāccaṃdrakalānāḍyāṃ) [enjoyment-nectar-ocean](bhogāmṛtamahodadhim)
