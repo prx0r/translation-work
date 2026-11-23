@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[index-finger+ring-finger+joint](tarjanyanāmikāparva) [with+foot+grain+excluded](sapādayavavarjitam)
+[tarjani+anāmikā+joint](tarjanyanāmikāparva) [without+quarter+yava](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[two+finger+thumb+knot](dvyaṅgulo'ṅguṣṭhakagranthi) [of+these+half+joint+nails](rāsāṃ parvārdhagā nakhāḥ)
+[two+finger](dvyaṅgulo) [thumb+knot](aṅguṣṭhakagranthi) [of+these](āsāṃ) [half+joint+nail](parvārdhagā nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nose+height](nāsotsedhaḥ) [with+breadth+two+finger+double+chamber+auspicious](savistārodvyaṅgulo dvipuṭaḥ)
+[nose+height](nāsotsedhaḥ) [with+breadth](savistāra) [two+finger](dvyaṅgulo) [two+fold+auspicious](dvipuṭaḥ śubhaḥ)
 
 ## mukta-m0-p30-v729
-[two+and+half+grain](dvyardhaṃ yavaṃ) [in+thick+chamber](puṭe sthūle) [middle+twenty?](madhye vaśa) [by+three+grains](stribhiryavaḥ)
+[one+and+half+yava](dvyardhaṃ yavaṃ) [in+thick+fold](puṭe sthūle) [middle](madhye) [twenty?](vaśa) [by+three+yava](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[below+other+finger+ear](adhe'paro'ṅgulakaṃ tu) [two+finger+chin+position](dvyaṅgule cibukasthitiḥ)
+[below+other+finger](adhe'paro'ṅgulakaṃ) [tu](tu) [two+finger](dvyaṅgule) [chin+position](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[at+nose+root+side](nāsikāmūlapārśve tu) [eyes+two+finger+long](locane dvyaṅgulāyate)
+[nose+root+side](nāsikāmūlapārśve) [tu](tu) [eye](locane) [two+finger+long](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[blue-lotus+petal+like](indīvarābjapatrābhā) [snake-gourd+fruit+like+woman](paṭolaphalavatstriyāḥ)
+[blue-lotus+leaf+like](indīvarābjapatrābhā) [snake-gourd+fruit+like+woman](paṭolaphalavatstriyāḥ)
 
 ## mukta-m0-p30-v733
-[fifth+part](pañcamāṃśaṃ) [becomes+light](bhavejjyotiḥ) [corner+thread+equal](sṛkkaṇīsūtratulyataḥ)
+[fifth+part](pañcamāṃśaṃ) [becomes](bhavet) [light](jyotiḥ) [corner+thread+equal](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[half+finger+equal+trough](ardhāṅgulasamā droṇī) [with+half+two+finger+length](sārdhadvyaṅguladīrghatā)
+[half+finger+equal](ardhāṅgulasamā) [trough](droṇī) [one+and+half+finger+long](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[their+interval+half](tayora taramātrārdhaṃ) [woman+half+grain+broad](striyāṃ yavārdhavistṛte)
+[their+interval+half](tayora taramātrārdhaṃ) [woman](striyāṃ) [half+yava+broad](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[ears+eye+measure](karṇau netradayāyāmau) [their+half+breadth](tadardhādvistarastayoḥ)
+[ears](karṇau) [eye+measure+long](netradayāyāmau) [their+half+breadth](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[half+art](kalārdhaṃ) [ear+loops](tadukau khalvau) [make+as+desired](pāśau kuryādyathepsitau)
+[half+art](kalārdhaṃ) [earrings](khalvau) [make](kuryāt) [as+desired](yathepsitau)
 
 ## mukta-m0-p30-v738
-[indra+number+finger](indrasaṅkhyāṅgulaṃ) [behind+ears+interval+know](paścātkarṇayorantaraṃ viduḥ)
+[indra+number+finger](indrasaṅkhyāṅgulaṃ) [after](paścāt) [between+ears](karṇayorantaraṃ) [know](viduḥ)
 
 ## mukta-m0-p30-v739
-[forehead+eight+finger+length](lalāṭo'ṣṭāṅgulāyāma) [three+finger+temple+called](stryaṅgulaḥ śaṅkha ucyate)
+[forehead](lalāṭo) [eight+finger+long](aṣṭāṅgulāyāma) [three+finger](tryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
 
 ## mukta-m0-p30-v740
-[seven+finger+cheeks](saptāṅgulau kapolau tu) [with+finger+with+grain+height](sāṅgulau sayavocchrayau)
+[seven+finger](saptāṅgulau) [cheeks](kapolau) [tu](tu) [with+finger](sāṅgulau) [with+yava+height](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[jaws+art+three+long](hanū kalā tradīrghau) [four+art+chin+rise](vdikalaścibukodgamaḥ)
+[jaw](hanū) [art+three+long](kalā tradīrghau) [two+art+chin+rise](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[shoulder+eight+finger+breadth](skandho'ṣṭāṅgulavistāra) [its+length+four+arts](stadāyāmaścatuṣkalā)
+[shoulder](skandho) [eight+finger+breadth](aṣṭāṅgulavistāra) [its+length](tadāyāma) [four+art](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[breadth+elbow+from+that](vistāraḥ kūrparastasmā) [element+finger+grains+thus](dbhūtāṅgulairyavaistathā)
+[breadth](vistāraḥ) [elbow](kūrpara) [from+that](tasmāt) [five+finger](bhūtāṅgulaiḥ) [yava+so](yavaistathā)
 
 ## mukta-m0-p30-v744
-[four+finger+breadth](caturaṅgulavistāro) [wrist+declared](maṇibandhaḥ prakīrtitaḥ)
+[four+finger+breadth](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[breasts+interval+palm](stanayorantaraṃ tālaṃ) [their+ends+two+eyes](tayoḥ prāntau dvinetrakau)
+[between+breasts](stanayorantaraṃ) [palm](tālaṃ) [their+ends](tayoḥ prāntau) [two+eye+measure](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[navel+clockwise+concave](nābhiḥ pradakṣiṇāvartā) [depressed+half+finger+raised](nimnato'rdhāṅguloditā)
+[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half+finger+raised](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[heart+twenty+finger+stated](hṛdviṃśatyaṅgulaṃ proktaṃ) [navel+region+fourteen](nābhideśaścaturdaśa)
+[heart](hṛd) [twenty+finger](viṃśatyaṅgulaṃ) [said](proktaṃ) [navel+place](nābhideśaḥ) [fourteen](caturdaśa)
 
 ## mukta-m0-p30-v748
-[fifteen+finger](pañcādaśāṅgulaṃ) [chest+heart+region+five+without](vakṣo hṛddeśaḥ pañcabhirvinā)
+[fifteen+finger](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart+place](hṛddeśaḥ) [five+without](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[waist+girdle+stated](kaṭiḥ saṃveṣṭanenoktā) [hundred+and+two+finger](śatācca dvyadhikāṅgulā)
+[waist](kaṭiḥ) [by+girdle](saṃveṣṭanena) [said](uktā) [hundred+and+two+finger](śatācca dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[four+eye+breadth](caturnetrapravistārau) [elephant+temples+like+auspicious](gajakumbhopamau śubhau)
+[four+eye+breadth](caturnetrapravistārau) [elephant+temples+like](gajakumbhopamau) [auspicious](śubhau)

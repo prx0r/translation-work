@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[śiva-umā-mantra-yoga+ena](śivomāmantrayogena) [sandhānaṃ](sandhānaṃ) [bhūti-kāṅkṣiṇām](bhūtikāṅkṣiṇām)
+[śiva+umā+mantra+yoga+by](śivomāmantrayogena) [union](sandhānaṃ) [prosperity+desiring](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-[mūrti-ādi-aṅka-avasānaṃ](mūrtyādyaṅkāvasānaṃ) [tu](tu) [punaḥ](punaḥ) [evaṃ](evaṃ) [tu](tu) [vinyaset](vinyaset)
+[form+etc.+limit](mūrtyādyaṅkāvasānaṃ) [but](tu) [again+thus](punarevaṃ) [tu](tu) [place](vinyaset)
 
 ## mukta-m0-p76-v1878
-[tataḥ](tataḥ)
+[then](tataḥ)
 
 ## mukta-m0-p76-v1879
-[rudra-ādīnāṃ](rudrādīnāṃ) [tu](tu) [sarveṣāṃ](sarveṣāṃ) [sthāpanaṃ](sthāpanaṃ) [tattvataḥ](tathvataḥ) [kramāt](kramāt)
+[rudra+etc.+of+all](rudrādīnāṃ) [tu](tu) [sarveṣāṃ](sarveṣāṃ) [establishment](sthāpanaṃ) [thus](tathvataḥ) [in+order](kramāt)
 
 ## mukta-m0-p76-v1880
-[ātma-vidyāḥ](ātmavidyāḥ) [śivaṃ](śivaṃ) [ca](ca) [eva](eva) [bhāvayet](bhāvayed) [anupūrvataḥ](anupūrvataḥ)
+[ātma+vidyāḥ](ātmavidyāḥ) [śivaṃ](śivaṃ) [ca+eva](caiva) [meditate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-[vyavasthitāḥ](vyavasthitāḥ)
+[established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-[vidyā-tattve](vidyātattve) [sthitāḥ](sthitā) [hi](hi) [ete](ete) [sādhikāre](sādhikāre) [viduḥ](vidurbudhāḥ) [budhāḥ](budhāḥ)
+[vidyā+tattva](vidyātattve) [sthitā](sthitā) [hi+ete](hyete) [with+authority](sādhikāre) [know+wise](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-[tri-tattva-vyāptiḥ](tritattvavyāptirākhyātā) [ākhyātā](ākhyātā) [panthānaḥ](panthānaḥ) [ṣaḍvidhāḥ](ṣaḍvidhāstviha) [tu](tu) [iha](iha)
+[three+tattva+pervasion](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold+here](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
-[kramāt](kramāt)
+[in+order](kramāt)
 
 ## mukta-m0-p76-v1885
-[triṃśat-pañca-adhikaṃ](triṃśatpañcādhikaṃ) [tattvaṃ](tattvaṃ) [sanmārgaṃ](sanmārgaṃ) [pīṭhaṃ](pīṭham) [aiśvaram](aiśvaram)
+[thirty+five+excess+tattva](triṃśatpañcādhikaṃ) [tattvaṃ](tattvaṃ) [good+path](sanmārgaṃ) [pīṭha+aiśvara](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-[bhujaiḥ](bhujaistu) [tu](tu) [daśabhiḥ](daśabhir) [yuktaṃ](yuktaṃ) [jaṭā-mukuṭa-maṇḍitam](jaṭāmukuṭamaṇḍitam)
+[arms+with+ten](bhujaistu) [daśabhiryuktaṃ](daśabhiryuktaṃ) [jaṭā+mukuṭa+adorned](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-[gaṇaiḥ](gaṇairdevaistathā) [devaiḥ](devaiḥ) [tathā](tathā) [siddhaiḥ](siddhaiḥ) [stūyamānaiḥ](stūyamānaiḥ) [samāyutam](samāyutam)
+[gaṇa+deva+siddha](gaṇairdevaistathā) [siddhaiḥ](siddhaiḥ) [stūyamānaiḥ](stūyamānaiḥ) [samāyutam](samāyutam)
 
 ## mukta-m0-p76-v1888
-[sadyolātena](sadyolātena) [saṃcintya](saṃcintya) [vāmadevena](vāmadevena) [vinyaset](vinyaset)
+[sadyolāta+by](sadyolātena) [saṃcintya](saṃcintya) [vāmadeva+by](vāmadevena) [place](vinyaset)
 
 ## mukta-m0-p76-v1889
-[bodha-kriyā-niviṣṭaṃ](bodhakriyāniviṣṭaṃ) [tu](tu) [jñeyaṃ](jñeyaṃ) [jñāna-āśritaṃ](jñānāśritaṃ) [smaret](smaret)
+[bodha+kriyā+fixed](bodhakriyāniviṣṭaṃ) [tu](tu) [jñeyaṃ](jñeyaṃ) [jñāna+āśritaṃ](jñānāśritaṃ) [smaret](smaret)
 
 ## mukta-m0-p76-v1890
-[dhvani-madhya-gatā](dhvanimadhyagatā) [tārā](tārā) [tārā-madhya-gateḥ](tārāmadhyagateḥ) [śaśī](śaśī)
+[dhvani+middle+gone](dhvanimadhyagatā) [tārā](tārā) [tārā+middle+gone](tārāmadhyagateḥ) [śaśī](śaśī)
 
 ## mukta-m0-p76-v1891
-[ravi-madhya-gataḥ](ravimadhyagataḥ) [śāntaḥ](śāntaḥ) [śānta-madhya-gataḥ](śāntamadhyagataḥ) [śivaḥ](śivaḥ)
+[ravi+middle+gone](ravimadhyagataḥ) [śāntaḥ](śāntaḥ) [śānta+middle+gone](śāntamadhyagataḥ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p76-v1892
-[tadā](tadā) [dig-devatā-homaḥ](digdevatāhomaḥ) [kāryā](kāryā) [śāntiḥ](śāntiśca) [ca](ca) [doṣa-hṛt](doṣahṛt)
+[then](tadā) [digdevatā+homa](digdevatāhomaḥ) [kāryā](kāryā) [śānti+ca](śāntiśca) [doṣa+hṛt](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-[anyathā](anyathā) [tu](tu) [bhavet](bhaved) [ghoraṃ](ghoraṃ) [kartṛ-rāṣṭra-virūpakam](kartṛrāṣṭravirūpakam)
+[otherwise](anyathā) [tu](tu) [bhavedghoraṃ](bhavedghoraṃ) [kartṛ+rāṣṭra+disfigured](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-[gajaṃ](gajaṃ) [chāgaṃ](chāgaṃ) [lulāyaṃ](lulāyaṃ) [ca](ca) [dāsīṃ](dāsīṃ) [matsyaṃ](matsyaṃ) [mṛga-avikam](mṛgāvikam)
+[gajaṃ](gajaṃ) [chāgaṃ](chāgaṃ) [lulāyaṃ](lulāyaṃ) [ca](ca) [dāsīṃ](dāsīṃ) [matsyaṃ](matsyaṃ) [mṛgāvikam](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-[pakṣa-sūtraṃ](pakṣasūtraṃ) [tataḥ](tato) [dadyāt](dadyād) [ṛju-arthaṃ](ṛjvarthaṃ) [lamba-sūtrakam](lambasūtrakam)
+[pakṣasūtraṃ](pakṣasūtraṃ) [tato](tato) [dadyādṛjvarthaṃ](dadyādṛjvarthaṃ) [lambasūtrakam](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
 [calile](calile) [śabdite](śabdite) [bhrānte](bhrānte) [praṇate](praṇate) [svasthite](svasthite) [kramāt](kramāt)
 
 ## mukta-m0-p76-v1897
-[kṣīra-loha-malaiḥ](kṣīralohamalaiḥ) [śubhaiḥ](śubhaiḥ)
+[kṣīra+loha+mala+auspicious](kṣīralohamalaiḥ) [śubhaiḥ](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-[tataḥ](tataḥ) [śānti-ghaṭā-abhiḥ](śāntighaṭāmmobhiḥ) [snānaṃ](snānaṃ) [mūrti-dharāḥ](mūrtidharāḥ) [svakam](svakam)
+[then](tataḥ) [śāntighaṭāmmobhiḥ](śāntighaṭāmmobhiḥ) [snānaṃ](snānaṃ) [mūrtidharāḥ](mūrtidharāḥ) [svakam](svakam)
 
 ## mukta-m0-p76-v1899
-[toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+[toya+kṣīra+dadhi+kṣaudra+ghṛta+toyāntarātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-[mugdā](mugdā) [dyaṅgula-mātrasya](dyaṅgulamātrasya) [calasya](calasya) [sthāpane](sthāpane) [hitam](hitam)
+[mugdā](mugdā) [dyaṅgulamātrasya](dyaṅgulamātrasya) [calasya](calasya) [sthāpane](sthāpane) [hitam](hitam)
