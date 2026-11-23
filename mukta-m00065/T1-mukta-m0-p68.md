@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[gloss](ebhiḥ) [gloss](tu) [gloss](paṃcabhiḥ) [gloss](yuktaiḥ) [gloss](snānam) [gloss](arcādi) [gloss](śodhanam)
+[with-these](ebhiḥ) [but](tu) [five](pañcabhiḥ) [joined](yuktaiḥ) [bathing](snānam) [worship-etc](arcādi) [purification](śodhanam)
 
 ## mukta-m0-p68-v1677
-[gloss](īśāna+vaktra+ghora+āhva+guhya+ājāta+ākhya+mantritaiḥ)
+[īśāna-etc](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[gloss](vṛṣa+śṛṅga+samutkhātāḥ) [gloss](pavaka+āśraya+sambhavāḥ)
+[by-bull-horn](vṛṣaśṛṅgasamutkhātāḥ) [fire-abode](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[gloss](ajena) [gloss](kṣālanāt) [gloss](pṛthvī+kramataḥ) [gloss](tu) [gloss](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step-by-step](kramataḥ) [with-kalā](tu) [kalāvatā](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[gloss](kavoṣṇaiḥ) [gloss](tu) [gloss](tṛtīyena) [gloss](snānam) [gloss](ṭaṅka+kṣata+apaham)
+[warm](kavoṣṇaiḥ) [but](tu) [third](tṛtīyena) [bathing](snānam) [axe-wound-removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-[gloss](nidigdhikā) [gloss](balā+mūlaiḥ) [gloss](snānam) [gloss](guhyena) [gloss](doṣa+hṛt)
+[nidigdhikā](nidigdhikā) [balā-roots](balāmūlaiḥ) [bathing](snānam) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[gloss](dhātryā) [gloss](snānāt) [gloss](mahī+iti+akte) [gloss](sadyojātena) [gloss](śuddhyati)
+[by-dhātrī](dhātryā) [bathing](snānāt) [earth](mahī) [thus](tyakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[gloss](samudvartya) [gloss](mahādevam) [gloss](tīrtha+utthaiḥ) [gloss](snāpayet) [gloss](jalaiḥ)
+[having-rubbed](samudvartya) [great-god](mahādevam) [tīrtha-born](tīrthotthaiḥ) [bathe](snāpayet) [waters](jalaiḥ)
 
 ## mukta-m0-p68-v1684
-[gloss](puṣkaram) [gloss](naimiṣa+āraṇyam) [gloss](tīrtham) [gloss](ca) [gloss](varūṇam) [gloss](tathā)
+[puṣkara](puṣkaram) [naimiṣa-forest](naimiṣāraṇyam) [tīrtha](tīrtham) [and](ca) [varuṇa](varūṇam) [thus](tathā)
 
 ## mukta-m0-p68-v1685
-[gloss](jāhnavī) [gloss](yamunā) [gloss](kauśī) [gloss](sarayū) [gloss](śoṇa+narmadā)
+[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[gloss](sapta+godāvarī) [gloss](iti) [gloss](etāḥ) [gloss](puṇya+nadyaḥ) [gloss](mahā+jalaiḥ)
+[seven-godāvarī](saptagodāvarī) [thus](ityetāḥ) [holy-rivers](puṇyanadyaḥ) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[gloss](kṣāra+kṣīra+dadhi+sneha+ikṣu+rasa+uda+sura+udakāḥ)
+[alkali-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-[gloss](sphāṭikam) [gloss](padyarāgam) [gloss](ca) [gloss](rājāvartaḥ) [gloss](suvidrumam)
+[crystal](sphāṭikam) [padmarāga](padyarāgam) [and](ca) [rājāvarta](rājāvartaḥ) [with-coral](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[gloss](etat) [gloss](ratna+udakaiḥ) [gloss](snānam) [gloss](mahā+bhūti+karam) [gloss](param)
+[this](etad) [gem-water](ratnodakaiḥ) [bathing](snānam) [great-being-making](mahābhūtikaram) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[gloss](karpūra+aguru+kastūrī+kāśmarī+candana+ādikaiḥ)
+[camphor-aguru-musk-etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[gloss](snāpayet) [gloss](gandha+toyena) [gloss](ajātena) [gloss](abhimantritam)
+[bathe](snāpayet) [fragrant-water](gandhatoyena) [by-ajāta](ajātena) [consecrated](abhimantritam)
 
 ## mukta-m0-p68-v1692
-[gloss](puṇḍarīka+abja+mālūra+nīla+rakta+utpala+arka+jam)
+[lotus-blue-lotus-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-[gloss](sahakāra+aśvamāram) [gloss](ca) [gloss](punnāga+bakulāni) [gloss](ca)
+[sahakāra-aśvamāra](sahakārāśvamāram) [and](ca) [punnāga-bakula](punnāgabakulāni) [and](ca)
 
 ## mukta-m0-p68-v1694
-[gloss](pāṭalā+droṇa+nepālī) [gloss](kuśa+kiṃśuka+siṃhikāḥ)
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[gloss](mṛdu+kunda+abja+patrī) [gloss](ca) [gloss](vṛṣa+ṛṣi+buka+puṣpakam)
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [and](ca) [vṛṣa-ṛṣi-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[gloss](bila+āmra+mocana+āraṅga) [gloss](panasam) [gloss](nālikerakam)
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [panasa](panasam) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[gloss](vadarī+bījapūram) [gloss](ca) [gloss](kara+mardam) [gloss](satindukam)
+[jujube-citron](vadarībījapūram) [and](ca) [kara-marda](karamardam) [with-tinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[gloss](phala+snānam) [gloss](idam) [gloss](pupyaṃ) [gloss](kartuḥ) [gloss](icchā+phala+pradam)
+[fruit-bathing](phalasnānam) [this](idam) [holy](pupyaṃ) [doer-desire-fruit-giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-[gloss](tila+godhuma+sugdā+ādi) [gloss](yava+dhānya+priyaṅgubhiḥ)
+[sesame-wheat-sugdā-etc](tilagodhumasugdādi) [barley-grains-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[gloss](pañca+brahma+udbhavaiḥ) [gloss](mantraiḥ) [gloss](mahā+snānam) [gloss](śubha+pradam)
+[five-brahma-born-mantras](pañcabrahmodbhavairmantraiḥ) [great-bathing](mahāsnānam) [auspicious-giving](śubhapradam)
