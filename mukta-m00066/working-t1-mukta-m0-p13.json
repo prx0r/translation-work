@@ -23,10 +23,6 @@
 "quick_gloss": "tripurā"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "śrī",
 "quick_gloss": "śrī"
 },
@@ -61,7 +57,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "yoginī",
@@ -82,7 +78,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "sarvajñādyāḥ",
@@ -103,7 +99,7 @@
 "tokens": [
 {
 "surface": "mahāṃkuśā",
-"quick_gloss": "mahā-kuśa"
+"quick_gloss": "great-goad"
 },
 {
 "surface": "ca",
@@ -111,7 +107,7 @@
 },
 {
 "surface": "mudrā",
-"quick_gloss": "mudrā"
+"quick_gloss": "seal"
 },
 {
 "surface": "asya",
@@ -123,7 +119,7 @@
 },
 {
 "surface": "aṣṭāra",
-"quick_gloss": "eight-petalled"
+"quick_gloss": "eight-petaled"
 },
 {
 "surface": "mahāvṛtau",
@@ -152,7 +148,7 @@
 },
 {
 "surface": "mudrā",
-"quick_gloss": "mudrā"
+"quick_gloss": "seal"
 },
 {
 "surface": "bhavati",
@@ -205,7 +201,7 @@
 "quick_gloss": "yoginī"
 },
 {
-"surface": "ati-rahasyā",
+"surface": "ati+rahasyā",
 "quick_gloss": "very-secret"
 },
 {
@@ -235,14 +231,14 @@
 "tokens": [
 {
 "surface": "biṃdurūpe",
-"quick_gloss": "bindu-form"
+"quick_gloss": "in-bindu-form"
 },
 {
 "surface": "mahollāse",
 "quick_gloss": "great-delight"
 },
 {
-"surface": "lalitāṃ",
+"surface": "lalitām",
 "quick_gloss": "lalitā"
 },
 {
@@ -259,7 +255,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasyāḥ",
+"surface": "tasyā",
 "quick_gloss": "of-her"
 },
 {
@@ -371,12 +367,8 @@
 "quick_gloss": "meditate"
 },
 {
-"surface": "kāmakalām",
+"surface": "kāmakalāmatha",
 "quick_gloss": "kāmakalā"
-},
-{
-"surface": "atha",
-"quick_gloss": "then"
 }
 ]
 },
@@ -437,7 +429,7 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "ānaṃda-bhairavam",
+"surface": "ānaṃda+bhairavam",
 "quick_gloss": "ānanda-bhairava"
 }
 ]
@@ -451,7 +443,7 @@
 "tokens": [
 {
 "surface": "bindubhiḥ",
-"quick_gloss": "by-bindus"
+"quick_gloss": "with-bindus"
 },
 {
 "surface": "tarpayet",
@@ -487,8 +479,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "nāṃdi-pūjā",
-"quick_gloss": "nāndi-worship"
+"surface": "nāṃdi+pūjā",
+"quick_gloss": "nāndī-worship"
 },
 {
 "surface": "smṛtā",
@@ -516,7 +508,7 @@
 "quick_gloss": "having-heard"
 },
 {
-"surface": "sahā-siddhi",
+"surface": "sahaṃsā+siddhi",
 "quick_gloss": "with-siddhi"
 },
 {
@@ -541,12 +533,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ityā",
-"quick_gloss": "thus"
-},
-{
-"surface": "ānaṃdataṃtre",
-"quick_gloss": "in-ānanda-tantra"
+"surface": "ityānaṃdataṃtre",
+"quick_gloss": "thus-in-ānanda-tantra"
 },
 {
 "surface": "ṣaṣṭhaḥ",
@@ -574,12 +562,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "marutām",
-"quick_gloss": "for-maruts"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "marutām+api",
+"quick_gloss": "even-for-winds"
 },
 {
 "surface": "durlabham",
@@ -600,7 +584,7 @@
 },
 {
 "surface": "nimittaṃ",
-"quick_gloss": "cause"
+"quick_gloss": "for-cause"
 },
 {
 "surface": "sarvasiddhidam",
@@ -617,11 +601,11 @@
 "tokens": [
 {
 "surface": "prativarṣaṃ",
-"quick_gloss": "yearly"
+"quick_gloss": "every-year"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "vihitaṃ",
@@ -650,15 +634,11 @@
 "tokens": [
 {
 "surface": "parvasukriyamāṇastu",
-"quick_gloss": "being-done-on-festival"
+"quick_gloss": "being-performed-on-festivals"
 },
 {
-"surface": "kadācid",
+"surface": "kadācid+api",
 "quick_gloss": "sometimes"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
 },
 {
 "surface": "vāṃcchitam",
@@ -675,7 +655,7 @@
 "tokens": [
 {
 "surface": "brahmarūpeṇa",
-"quick_gloss": "brahma-form"
+"quick_gloss": "by-brahma-form"
 },
 {
 "surface": "suśroṇimayā",
@@ -699,16 +679,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyastānāṃ",
-"quick_gloss": "of-scattered"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "samastānāṃ",
-"quick_gloss": "of-combined"
+"surface": "vyastānāṃ+ca+samastānāṃ",
+"quick_gloss": "of-scattered-and-combined"
 },
 {
 "surface": "rasena",
