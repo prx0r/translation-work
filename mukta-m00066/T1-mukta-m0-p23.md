@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ananda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](asmin) [four](catvāraḥ) [parama-declared](paramīritāḥ)
+[in-this-tantra](ānaṃdataṃtre) [and-indeed-in-this](caivāsmin) [four](catvāraḥ) [declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[therefore](tasmāt) [four](catvāraḥ) [ullasas](ullāsā) [here](iha) [spoken](proktā) [maheshvari](maheśvari)
+[therefore](tasmāt) [four](catvāraḥ) [delights](ullāsāḥ) [here](iha) [spoken](proktāḥ) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p23-v553
-[therefore](tasmāt) [ananda](ānaṃda) [puja](pūjāyā) [mala](mālaṃ) [vyam](vyaṃte) [tu](tu) [not](na) [three](trayaḥ)
+[therefore](tasmāt) [of-bliss](ānaṃda) [of-worship](pūjāyāḥ) [are-not-omitted](mālaṃvyaṃte) [but](tu) [three](na trayaḥ)
 
 ## mukta-m0-p23-v554
-[thus](tathā) [thus](tathā) [para-ananda](parānaṃda) [natha-vidya](nāthavidyāṃ) [para-amrisha](parāmṛśet)
+[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [should-touch](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[duti](dūtyā) [samdhukshita](saṃdhukṣita) [svatma](svātmā) [nanda-murti](naṃdamūrttiṃ) [guru](guruṃ) [smaret](smaret)
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [should-remember](smaret)
 
 ## mukta-m0-p23-v556
-[twelve](dvādaśāṃta) [gata](gate) [rakta-shukla](raktaśukla) [pada](pāde) [vinikshipet](vinikṣipet)
+[at-twelve-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [should-place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shiva-tva-samrajya](śivatvasāmrājya) [pada-abhishekta](padābhiṣiktaṃ) [svam](svaṃ) [vichintayet](viciṃtayet)
+[of-śiva-sovereignty](śivatvasāmrājya) [with-foot](padābhiṣiktaṃ) [own](svaṃ) [should-contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [pratyanga](pratyaṃga) [ankura](maṃkūra) [dana](danaṃ) [gottunga](gottuṃga) [manasa](mānasaḥ)
+[seeing](paśyan) [limb-by-limb](pratyaṃgamaṃ) [sprout](kūradanaṃ) [with-mind-risen](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[as](yathā) [yauvana](yauvanam) [ullasa](ullāsaṃ) [samprapnoti](saṃprāpnoti) [amba](aṃba) [dutika](dūtikā)
+[as](yathā) [youthful-delight](yauvanamullāsaṃ) [attains](saṃprāpnoti) [O-mother](aṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[alokana](ālokaneratiḥ) [sakshat](sākṣāt) [smite](smite) [jagarti](jāgarti) [jahnavi](jāhnavī)
+[by-gazing](ālokaneratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [ganges](jāhnavī)
 
 ## mukta-m0-p23-v561
-[ashvinau](aśvinau) [nasika-bhage](nāsikābhāge) [tu](tvoṣṭhe) [ca](ca) [parama-amrta](paramāmṛtam)
+[the-aśvins](aśvinau) [at-nose-place](nāsikābhāge) [and](tu) [on-lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [varuni](vāruṇī) [devi](devī) [kama-natha](kāmanāthastvahaṃ) [krti](kṛtau)
+[in-sweat](svede) [ca](ca) [vāruṇī-goddess](vāruṇī devī) [desire-lord](kāmanāthaḥ) [thus](tvahaṃ) [in-act](kṛtau)
 
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-giri](merugirirnniḥ) [shabda](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+[on-two-breasts](stanadvaye) [meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [in-brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokya](trailokyaṃ) [nabhi-garbhe](nābhigarbhe) [guha-ambika](guhāṃbikā)
+[in-three-folds](valitraye) [ca](ca) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-goddess](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakhesu](nakheṣu) [shita](śītāṃ) [shu](śu) [kala](kalā) [dor-mule](dormmūleṃ) [kusha-devata](kuśadevatāḥ)
+[in-nails](nakheṣu) [cool](śītāṃ) [śu](śu) [kalā](kalā) [of-arm-root](dormmūleṃ) [kuśa-deity](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [ca](ca) [eva](eva) [nishvase](niśvāse) [goda](godāsītkāra) [karma](karmaṇi)
+[kāverī](kāverī) [ca-indeed](caiva) [in-exhalation](niśvāse) [godāsī](godāsī) [tkāra](tkāra) [in-action](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala-alapa](amalālāpakṛtyeṣu) [citta-vishranti](cittaviśrāṃti) [nayaka](nāyakā)
+[in-pure-lip-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[vakpti](vākptiḥ) [sukha-humkare](sukhahuṃkāre) [gishpati](gīṣpatī) [kaku-dhvani](kākukādhvanau)
+[speech-lordship](vākptiḥ) [in-sweet-huṃ-sound](sukhahuṃkāre) [gīṣpatī](gīṣpatī) [kākuka-sound](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indra](iṃdraścittasamunnatyāmagnirvastu) [agni](grasītviṣi)
+[indra](iṃdraḥ) [in-mind-elevation](cittasamunnatyām) [agni](agnir) [substance](vastu) [grasps](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hasta-adi](hastādicālane) [yajna](yajñastvāśleṣe) [yajna-purusha](yajñapūruṣaḥ)
+[in-hand-movement](hastādicālane) [sacrifice](yajñaḥ) [tu](tvāśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lasya](lāsyaṃ) [ca](ca) [tandava](tāṃḍavaṃ) [devi](devi) [tasya](tasyā) [deha-adi](dehādi) [ghurnane](ghūrṇane)
+[lāsya](lāsyaṃ) [ca](ca) [tāṇḍava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyā) [body-etc](dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tani](tānisarvāṇi) [varttate](varttate) [tasya](tasyāgaṃḍūṣavastuni)
+[those](tāni) [all](sarvāṇi) [occur](varttate) [of-her](tasyā) [cheekful-substance](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat-phala](tatphalaṃ) [labhate](labhate) [duti](dūtī) [sudha-gandusha](sudhāgaṃḍūṣa) [sevanat](sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-cheekful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
 
 ## mukta-m0-p23-v574
-[gandusha](gaṃḍūṣamādiraṃ) [devi](devī) [virasya](vīrasyānaṃda) [vardhanam](varddhanam)
+[cheekful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [of-hero](vīrasya) [bliss](ānaṃda) [increasing](varddhanam)
 
 ## mukta-m0-p23-v575
-[nitya-klinna](nityaklinnāsudhā) [devi](devī) [rati](rati) [priti](prītiśca) [tad-bhage](tadbhage)
+[ever-wet](nityaklinnā) [sudhā-goddess](sudhā devī) [delight](rati) [love](prītiḥ) [ca](ca) [in-that-place](tadbhage)
