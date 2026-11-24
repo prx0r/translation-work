@@ -7,16 +7,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "granthirūpa",
-"quick_gloss": "knot-form"
+"surface": "granthi",
+"quick_gloss": "knot"
 },
 {
-"surface": "unnatagranthi",
-"quick_gloss": "elevated-knot"
+"surface": "rūpa",
+"quick_gloss": "form"
 },
 {
-"surface": "jaṭharāmayadāyaka",
-"quick_gloss": "belly-disease-giving"
+"surface": "unnata",
+"quick_gloss": "elevated"
+},
+{
+"surface": "granthi",
+"quick_gloss": "knot"
+},
+{
+"surface": "jaṭhara",
+"quick_gloss": "belly"
+},
+{
+"surface": "āmaya",
+"quick_gloss": "disease"
+},
+{
+"surface": "dāyaka",
+"quick_gloss": "giving"
 }
 ]
 },
@@ -28,16 +44,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tuṣāraṃ",
+"surface": "tuṣāra",
 "quick_gloss": "frost"
 },
 {
-"surface": "tadvijānīyā",
-"quick_gloss": "that-know"
+"surface": "tad",
+"quick_gloss": "that"
 },
 {
-"surface": "putraśokārtidāyakam",
-"quick_gloss": "son-grief-pain-giving"
+"surface": "vijānīyā",
+"quick_gloss": "know"
+},
+{
+"surface": "putra",
+"quick_gloss": "son"
+},
+{
+"surface": "śoka",
+"quick_gloss": "grief"
+},
+{
+"surface": "ārti",
+"quick_gloss": "pain"
+},
+{
+"surface": "dāyaka",
+"quick_gloss": "giving"
 }
 ]
 },
@@ -49,20 +81,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hemaghoṣāmayaṃ",
-"quick_gloss": "gold-sound-disease"
+"surface": "hema",
+"quick_gloss": "gold"
+},
+{
+"surface": "ghoṣa",
+"quick_gloss": "sound"
+},
+{
+"surface": "maya",
+"quick_gloss": "made"
 },
 {
 "surface": "tāmra",
 "quick_gloss": "copper"
 },
 {
-"surface": "tadduṣṭaṃ",
-"quick_gloss": "that-corrupt"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "duṣṭa",
+"quick_gloss": "bad"
 },
 {
 "surface": "piṅgalāmate",
-"quick_gloss": "yellowish-mother"
+"quick_gloss": "in-piṅgalā-opinion"
 }
 ]
 },
@@ -74,24 +118,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "janaṃ+hanty",
-"quick_gloss": "people-kills"
+"surface": "jana",
+"quick_gloss": "people"
 },
 {
-"surface": "āyasākrāntā",
-"quick_gloss": "iron-afflicted"
+"surface": "hanti",
+"quick_gloss": "kills"
+},
+{
+"surface": "āyasa",
+"quick_gloss": "iron"
+},
+{
+"surface": "ākrāntā",
+"quick_gloss": "afflicted"
 },
 {
 "surface": "śilā",
 "quick_gloss": "stone"
 },
 {
-"surface": "tāmī+ca",
-"quick_gloss": "that-copper-and"
+"surface": "tām",
+"quick_gloss": "that"
+},
+{
+"surface": "ca",
+"quick_gloss": "also"
 },
 {
 "surface": "śilpinam",
-"quick_gloss": "artisan"
+"quick_gloss": "sculptor"
 }
 ]
 },
@@ -103,24 +159,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛṣṇaḥ",
+"surface": "kṛṣṇa",
 "quick_gloss": "black"
 },
 {
-"surface": "pīto",
+"surface": "pīta",
 "quick_gloss": "yellow"
 },
 {
-"surface": "aruṇo",
+"surface": "aruṇa",
 "quick_gloss": "red"
 },
 {
-"surface": "binduḥ",
-"quick_gloss": "spot"
+"surface": "bindu",
+"quick_gloss": "dot"
 },
 {
-"surface": "sa+śokabhayarogadaḥ",
-"quick_gloss": "that-grief-fear-disease-giving"
+"surface": "sa",
+"quick_gloss": "that"
+},
+{
+"surface": "śokabhayarogada",
+"quick_gloss": "grief-fear-disease-giving"
 }
 ]
 },
@@ -136,7 +196,7 @@
 "quick_gloss": "yellow"
 },
 {
-"surface": "dhanakṣayaḥ",
+"surface": "dhanakṣaya",
 "quick_gloss": "wealth-loss"
 },
 {
@@ -148,12 +208,16 @@
 "quick_gloss": "black"
 },
 {
-"surface": "bandho",
+"surface": "bandha",
 "quick_gloss": "bondage"
 },
 {
-"surface": "dvayordvidhā",
-"quick_gloss": "both-of-two-fold"
+"surface": "dvayoḥ",
+"quick_gloss": "both"
+},
+{
+"surface": "dvidhā",
+"quick_gloss": "twofold"
 }
 ]
 },
@@ -169,16 +233,24 @@
 "quick_gloss": "line"
 },
 {
-"surface": "rekhānubiddhā+vā",
-"quick_gloss": "line-pierced-or"
+"surface": "rekhānubiddhā",
+"quick_gloss": "line-pierced"
 },
 {
-"surface": "pārthivaṃ",
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "pārthiva",
 "quick_gloss": "earthly"
 },
 {
-"surface": "sā+vināśayet",
-"quick_gloss": "that-destroys"
+"surface": "sā",
+"quick_gloss": "that"
+},
+{
+"surface": "vināśayet",
+"quick_gloss": "destroys"
 }
 ]
 },
@@ -191,7 +263,7 @@
 "tokens": [
 {
 "surface": "svāmidhnī",
-"quick_gloss": "self-lord-killing"
+"quick_gloss": "mistress-of-self"
 },
 {
 "surface": "ca",
@@ -207,7 +279,7 @@
 },
 {
 "surface": "kulāntakṛt",
-"quick_gloss": "family-end-making"
+"quick_gloss": "family-ender"
 }
 ]
 },
@@ -231,7 +303,7 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "kuṣṭhaṃ",
+"surface": "kuṣṭha",
 "quick_gloss": "leprosy"
 },
 {
@@ -252,16 +324,36 @@
 "quick_gloss": "then"
 },
 {
-"surface": "nānā+gadān",
-"quick_gloss": "various-diseases"
+"surface": "nānā",
+"quick_gloss": "various"
+},
+{
+"surface": "gadān",
+"quick_gloss": "diseases"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "makes"
 },
 {
-"surface": "kartuś+ca+eva+na+saṃśayaḥ",
-"quick_gloss": "maker-and-certainly"
+"surface": "kartuḥ",
+"quick_gloss": "of-maker"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
+"surface": "na",
+"quick_gloss": "no"
+},
+{
+"surface": "saṃśayaḥ",
+"quick_gloss": "doubt"
 }
 ]
 },
@@ -273,7 +365,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tyājyaṃ",
+"surface": "tyājya",
 "quick_gloss": "abandonable"
 },
 {
@@ -281,12 +373,16 @@
 "quick_gloss": "then"
 },
 {
-"surface": "tridhā+liṅgaṃ",
-"quick_gloss": "three-mark"
+"surface": "tridhā",
+"quick_gloss": "threefold"
+},
+{
+"surface": "liṅga",
+"quick_gloss": "mark"
 },
 {
 "surface": "nṛparāṣṭraprajārthinā",
-"quick_gloss": "king-realm-subject-desiring"
+"quick_gloss": "for-king-realm-subject-seeker"
 }
 ]
 },
@@ -298,7 +394,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāmapārśvāśritaḥ",
+"surface": "vāmapārśvāśrita",
 "quick_gloss": "left-side-residing"
 },
 {
@@ -310,7 +406,7 @@
 "quick_gloss": "kills"
 },
 {
-"surface": "rāṣṭraṃ",
+"surface": "rāṣṭra",
 "quick_gloss": "realm"
 },
 {
@@ -332,15 +428,23 @@
 },
 {
 "surface": "bhṛśaṃ",
-"quick_gloss": "very"
+"quick_gloss": "strongly"
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "certainly"
+"quick_gloss": "indeed"
 },
 {
-"surface": "prāṇahṛtkṛṣṇahīrikā",
-"quick_gloss": "life-taking-black-horror"
+"surface": "prāṇahṛt",
+"quick_gloss": "life-taking"
+},
+{
+"surface": "kṛṣṇa",
+"quick_gloss": "blackish"
+},
+{
+"surface": "hīrikā",
+"quick_gloss": "shame"
 }
 ]
 },
@@ -360,16 +464,20 @@
 "quick_gloss": "is-seen"
 },
 {
-"surface": "yaś+ca",
-"quick_gloss": "who-and"
+"surface": "yaśca",
+"quick_gloss": "who"
 },
 {
-"surface": "viḍālāṅghriḥ",
+"surface": "viḍālāṅghri",
 "quick_gloss": "cat-foot"
 },
 {
-"surface": "sa+doṣabhāk",
-"quick_gloss": "that-fault-bearing"
+"surface": "sa",
+"quick_gloss": "that"
+},
+{
+"surface": "doṣabhāk",
+"quick_gloss": "fault-bearing"
 }
 ]
 },
@@ -385,16 +493,24 @@
 "quick_gloss": "of-stone"
 },
 {
-"surface": "rūpam+ālakṣya",
-"quick_gloss": "form-observing"
+"surface": "rūpa",
+"quick_gloss": "form"
+},
+{
+"surface": "ālakṣya",
+"quick_gloss": "observing"
 },
 {
 "surface": "tyajet",
 "quick_gloss": "abandon"
 },
 {
-"surface": "tām+aśubhapradām",
-"quick_gloss": "that-inauspicious-giving"
+"surface": "tām",
+"quick_gloss": "that"
+},
+{
+"surface": "aśubhapradām",
+"quick_gloss": "inauspicious-giving"
 }
 ]
 },
@@ -411,7 +527,7 @@
 },
 {
 "surface": "prakṣyāmi",
-"quick_gloss": "will-tell"
+"quick_gloss": "I-will-tell"
 },
 {
 "surface": "yathā",
@@ -443,8 +559,12 @@
 "quick_gloss": "warm"
 },
 {
-"surface": "kṣārāmbumadhyagā",
-"quick_gloss": "alkaline-water-middle-residing"
+"surface": "kṣārā",
+"quick_gloss": "alkaline"
+},
+{
+"surface": "ambumadhyagā",
+"quick_gloss": "in-water-middle"
 }
 ]
 },
@@ -457,7 +577,7 @@
 "tokens": [
 {
 "surface": "kudiksthā",
-"quick_gloss": "bad-place-residing"
+"quick_gloss": "bad-place"
 },
 {
 "surface": "sūryasantaptā",
@@ -468,8 +588,12 @@
 "quick_gloss": "bitter-born"
 },
 {
-"surface": "methyadūṣitā",
-"quick_gloss": "methya-undefiled"
+"surface": "methyā",
+"quick_gloss": "methya"
+},
+{
+"surface": "adūṣitā",
+"quick_gloss": "not-harmed"
 }
 ]
 },
@@ -482,11 +606,15 @@
 "tokens": [
 {
 "surface": "duṣṭajīvasvarā",
-"quick_gloss": "corrupt-life-voice"
+"quick_gloss": "faulty-life-sound"
 },
 {
-"surface": "yā+ca",
-"quick_gloss": "which-and"
+"surface": "yā",
+"quick_gloss": "which"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "yojitā",
@@ -511,15 +639,15 @@
 },
 {
 "surface": "upalānulagnā",
-"quick_gloss": "stone-adhering"
+"quick_gloss": "pebble-clinging"
 },
 {
 "surface": "sā",
 "quick_gloss": "that"
 },
 {
-"surface": "snehavicchittikārikāḥ",
-"quick_gloss": "fat-disruption-causing"
+"surface": "snehavicchittikārikā",
+"quick_gloss": "oil-interruption-causing"
 }
 ]
 },
@@ -532,19 +660,23 @@
 "tokens": [
 {
 "surface": "ūṣarasthā",
-"quick_gloss": "saline-place-residing"
+"quick_gloss": "saline-place"
 },
 {
-"surface": "arthahṛjjñeyā",
-"quick_gloss": "wealth-heart-knowable"
+"surface": "arthahṛt",
+"quick_gloss": "wealth-taking"
+},
+{
+"surface": "jñeyā",
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "citisthā",
-"quick_gloss": "cit-place-residing"
+"quick_gloss": "cit-place"
 },
 {
 "surface": "duḥkhadāyinī",
-"quick_gloss": "sorrow-giving"
+"quick_gloss": "pain-giving"
 }
 ]
 },
@@ -556,16 +688,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāṣadāpuṇyadeśasthā",
-"quick_gloss": "stone-impure-place-residing"
+"surface": "pāṣaṇḍa",
+"quick_gloss": "stone"
+},
+{
+"surface": "apuṇyadeśasthā",
+"quick_gloss": "unmeritorious-place"
 },
 {
 "surface": "vadhakṛt",
-"quick_gloss": "killing"
+"quick_gloss": "killer"
 },
 {
 "surface": "bhilla",
-"quick_gloss": "tribe"
+"quick_gloss": "bhilla"
 },
 {
 "surface": "sevitā",
@@ -581,11 +717,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dāhaṃ",
+"surface": "dāha",
 "quick_gloss": "burning"
 },
 {
-"surface": "hāniṃ",
+"surface": "hāni",
 "quick_gloss": "loss"
 },
 {
@@ -593,24 +729,28 @@
 "quick_gloss": "and"
 },
 {
-"surface": "śokaṃ",
+"surface": "śoka",
 "quick_gloss": "grief"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "naiḥsvaṃ",
+"surface": "naiḥsva",
 "quick_gloss": "poverty"
 },
 {
-"surface": "rogaṃ",
+"surface": "roga",
 "quick_gloss": "disease"
 },
 {
-"surface": "tathā+vahet",
-"quick_gloss": "thus-brings"
+"surface": "tathā",
+"quick_gloss": "and"
+},
+{
+"surface": "āvahet",
+"quick_gloss": "brings"
 }
 ]
 },
@@ -622,8 +762,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "surāpakṣivasāgandhā",
-"quick_gloss": "wine-smell-fat-smell"
+"surface": "surāpakṣi",
+"quick_gloss": "liquor-smell"
+},
+{
+"surface": "vasāgandhā",
+"quick_gloss": "fat-smell"
 },
 {
 "surface": "udvegajananī",
@@ -643,16 +787,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vajradagdhāgnidagdhā",
-"quick_gloss": "diamond-burnt-fire-burnt"
+"surface": "vajradagdhā",
+"quick_gloss": "vajra-burnt"
+},
+{
+"surface": "agnidagdhā",
+"quick_gloss": "fire-burnt"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "rājño",
-"quick_gloss": "king's"
+"surface": "rājñaḥ",
+"quick_gloss": "of-king"
 },
 {
 "surface": "analabhayapradā",
