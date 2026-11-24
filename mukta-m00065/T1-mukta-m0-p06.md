@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[directions](diśo) [having-expelled](virecya) [by-weapon](cāstreṇa) [for-obstacle-destruction](vighnanāśāya) [teacher](daiśikaḥ)
+[directions](diśo) [having-expelled](virecya) [by-weapon](cāstreṇa) [for-destruction-of-obstacles](vighnanāśāya) [teacher](daiśikaḥ)
 
 ## mukta-m0-p06-v127
-[mantra-protection-rite](mantrarakṣāvidhi) [having-done](kṛtvā) [chant](saṃjapa) [chosen-deity](nniṣṭadevatām)
+[mantra-protection-rite](mantrarakṣāvidhi) [having-done](kṛtvā) [chant](saṃjapa) [chosen-deity](niṣṭadevatām)
 
 ## mukta-m0-p06-v128
-[thus](iti) [in-characteristics-collection](lakṣaṇasamuccaye) [linga-substance-determination-forest-entry](liṅgadravyanirṇayavanapraveśo) [named](nāma) [first-rite](prathamovidhiḥ)
+[thus](iti) [in-characteristic-compendium](lakṣaṇasamuccaye) [linga-substance-determination-forest-entry](liṅgadravyanirṇayavanapraveśo) [named](nāma) [first-rite](prathamovidhiḥ)
 
 ## mukta-m0-p06-v129
 [true-form](svarūpaṃ) [is-described](kathyate) [properly](samyak) [desired](iṣṭa) [and](ca) [undesired](aniṣṭa) [in-action](karmaṇi)
@@ -23,25 +23,25 @@
 [therefore](tasmāt) [those](te) [teachers](guravaḥ) [to-be-sought](anveṣyāḥ) [who](ye) [in-those-scriptures](tacchāstreṣu) [spoken](bhāṣitāḥ)
 
 ## mukta-m0-p06-v133
-[in-Antarvedi-Pratishthana-Shravasti](antarvedīpratiṣṭhānaśrāvastyā) [teachers](guravaḥ) [best](varāḥ)
+[antarvedi-pratishthana-shravasti](antarvedīpratiṣṭhānaśrāvastyā) [teachers](guravaḥ) [best](varāḥ)
 
 ## mukta-m0-p06-v134
-[Anga-born](āṅgā) [Jata-born](jāṭodbhavāḥ) [and](ca) [thus](iti) [seven](sapta) [these](ete) [middle](madhyamāḥ) [remembered](smṛtāḥ)
+[Anga-born](āṅgāḥ) [Jata-born](jāṭodbhavāḥ) [and](ca) [thus](iti) [seven](sapta) [these](ete) [middle](madhyamāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p06-v135
-[Viraja-born](vīrajā) [Dravida](drāviḍā) [Paundra](pauṇḍrāḥ) [and](tu) [eight](aṣṭa) [these](ete) [teachers](guravaḥ) [low](adhamāḥ)
+[Viraja-born](vīrajāḥ) [Dravida](drāviḍāḥ) [Paundra](pauṇḍrāḥ) [and](tu) [eight](aṣṭa) [these](ete) [teachers](guravaḥ) [lowest](adhamāḥ)
 
 ## mukta-m0-p06-v136
-[Vanga](vāṅga) [Gandhara](gāndhāra) [Paulinga](pauliṅgā) [these](ete) [seven](sapta) [outcaste](antyajā) [considered](matāḥ)
+[Vanga](vāṅga) [Gandhara](gāndhāra) [Paulinga](pauliṅga) [these](ete) [seven](sapta) [outcaste](antyajāḥ) [considered](matāḥ)
 
 ## mukta-m0-p06-v137
-[Saurashtra](saurāṣṭrā) [Devarashtra](devarāṣṭrāḥ) [and](ca) [eight](aṣṭa) [these](ete) [condemned](ninditā) [strongly](bhṛśam)
+[Saurashtra](saurāṣṭrāḥ) [Devarashtra](devarāṣṭrāḥ) [and](ca) [eight](aṣṭa) [these](ete) [condemned](ninditāḥ) [greatly](bhṛśam)
 
 ## mukta-m0-p06-v138
-[low-born-etc](adhamādyāḥ) [in-auspicious](śubhe) [not-desired](neṣṭā) [in-Aryavarta](āryāvarte) [indeed](hi) [fault-giving](doṣadāḥ)
+[lowest-etc](adhamādyāḥ) [in-auspicious](śubhe) [not](na) [desired](iṣṭāḥ) [in-Aryavarta](āryāvarte) [indeed](hi) [fault-giving](doṣadāḥ)
 
 ## mukta-m0-p06-v139
-[which](yo) [country](deśaḥ) [middle-part](madhyabhāgaḥ) [may-be](syāt) [Aryavarta](āryāvartaḥ) [that](sa) [proclaimed](kīrtitaḥ)
+[which](yo) [region](deśaḥ) [middle-part](madhyabhāgaḥ) [is](syāt) [Aryavarta](āryāvartaḥ) [that](sa) [proclaimed](kīrtitaḥ)
 
 ## mukta-m0-p06-v140
 [clan](gotra) [range](gocara) [endowed](saṃyuktāḥ) [vow](samaya) [etc](ādi) [endowed](yukta) [characteristics](lakṣaṇāḥ)
@@ -50,28 +50,28 @@
 [by-initiation-quality](dīkṣāguṇena) [complete](saṃpūrṇām) [who](ye) [know](jānanti) [then](atha) [samhita](saṃhitām)
 
 ## mukta-m0-p06-v142
-[Bharyavarta-born](bhāryāvartodbhavāḥ) [Shaivas](śaivāḥ) [all](sarva) [characteristics](lakṣaṇa) [marked](lakṣitāḥ)
+[Bharyavarta-born](bhāryāvartodbhavāḥ) [Shaivas](śaivāḥ) [all](sarva) [characteristic](lakṣaṇa) [marked](lakṣitāḥ)
 
 ## mukta-m0-p06-v143
 [seat](pīṭha) [abode](dhāma) [etc](ādi) [kunda](kuṇḍa) [knowers](jñāḥ) [installation](pratiṣṭhā) [place](sthāna) [knowers](vedakāḥ)
 
 ## mukta-m0-p06-v144
-[greed](lobha) [delusion](moha) [abandoned](parityaktāḥ) [peaceful](śāntā) [controlled](dāntā) [free-from-jealousy](vimatsarāḥ)
+[greed](lobha) [delusion](moha) [abandoned](parityaktāḥ) [peaceful](śāntāḥ) [controlled](dāntāḥ) [free-from-jealousy](vimatsarāḥ)
 
 ## mukta-m0-p06-v145
-[sattvic](sātvikā) [skillful](nipuṇā) [capable](dakṣāḥ) [five](pañca) [Vedic](śrauta) [meaning](artha) [knowers](vedakāḥ)
+[sattvic](sātvikāḥ) [skillful](nipuṇāḥ) [capable](dakṣāḥ) [five](pañca) [Vedic](śrauta) [meaning](artha) [knowers](vedakāḥ)
 
 ## mukta-m0-p06-v146
-[firm-vow](dṛḍhavrata) [hostile](drohi) [truth-speaking](satyavāc) [beings](bhūta) [affectionate](vatsalāḥ)
+[firm-vow](dṛḍhavrata) [birth](ajana) [hostile](drohi) [truth](satya) [speech](vāc) [beings](bhūta) [affectionate](vatsalāḥ)
 
 ## mukta-m0-p06-v147
-[initiated](dīkṣitāḥ) [in-Shiva-scripture](śivaśāstre) [in-this](smiṃ) [four](catvāraḥ) [Brahmana-etc](brāhmaṇādayaḥ)
+[initiated](dīkṣitāḥ) [in-Shiva-scripture](śivaśāstre) [in](smiṃś) [four](catvāraḥ) [Brahmin](brāhmaṇa) [etc](ādayaḥ)
 
 ## mukta-m0-p06-v148
-[joined](yojitaḥ) [in-Shiva-principle](śivatattve) [who](yaḥ) [Shiva-form](śivarūpam) [obtained](avāptavān)
+[joined](yojitaḥ) [in-Shiva-principle](śivatattve) [who](yaḥ) [Shiva-form](śivarūpam) [attained](avāptavān)
 
 ## mukta-m0-p06-v149
-[of-Shudra-etc](śūdrādīnāṃ) [likewise](tathā) [by-mantras](mantraiḥ) [endowed](yuktānāṃ) [superiority](śreṣṭhatā) [may-be](bhavet)
+[of-Shudras-etc](śūdrādīnām) [thus](tathā) [by-mantras](mantraiḥ) [endowed](yuktānām) [superiority](śreṣṭhatā) [becomes](bhavet)
 
 ## mukta-m0-p06-v150
-[likewise](tathaiva) [by-mantra-union](mantrasaṃyogāt) [four-varna](cāturvarṇaḥ) [Shiva-like](śivī) [may-become](bhavet)
+[likewise](tathaiva) [by-mantra-union](mantrasaṃyogāt) [four-varna](cāturvarṇaḥ) [Shiva-nature](śivī) [becomes](bhavet)
