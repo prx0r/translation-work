@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga-śaktayaḥ](anaṃgaśaktayo) [aṣṭau](ṣṭau) [tu](tu) [pūjanīyāḥ](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
+limbless-power eight and worship-worthy by-wise
 
 ## mukta-m0-p18-v427
-[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madanāturayā](madanāturayā) [saha](saha)
+limbless-madana-limbless madana-afflicted with
 
 ## mukta-m0-p18-v428
-[anaṃga-mālinī](anaṃgamālinī) [ca](cā) [aṣṭau](ṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+limbless-garlanded and eight worship-worthy duly
 
 ## mukta-m0-p18-v429
-[ānanda-cakram](ānaṃdacakram) [ānanda](ānaṃda) [kolāhala](kolāhala) [vivardhanam](vivarddhanam)
+bliss-wheel bliss uproar-increasing
 
 ## mukta-m0-p18-v430
-[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjaraiḥ](samullāsapiṃjaraiḥ) [kāma-raśmibhiḥ](kāmaraśmibhiḥ)
+lightning-radiance shining cage with-desire-rays
 
 ## mukta-m0-p18-v431
-[anaṃga-śakti](anaṃgaśakti) [saṃkṣobhām](saṃkṣobhāṃ) [nāḍībhyaḥ](nāḍībhyo) [galitam](galitaṃ) [navam](navam)
+limbless-power agitation channels-from-flowing new
 
 ## mukta-m0-p18-v432
-[śṛṃgāra-vāhinī](śṛṃgāravāhinī) [pūra](pūra) [pūrṇa-rāgām](pūrṇarāgāṃ) [kura-aruṇam](kurāruṇam)
+erotic-flow full-passion red-dark
 
 ## mukta-m0-p18-v433
-[manmatha-drava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭam](juṣṭam) [artha-prabhedanaiḥ](arthaprabhedanaiḥ)
+cupid-fluid abundance joined meaning-distinctions
 
 ## mukta-m0-p18-v434
-[ka](keyaṃ) [iyam](iyaṃ) [candrakalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+who this moon-digit named where resides shankara
 
 ## mukta-m0-p18-v435
-[śṛṇu](śṛṇu) [kāma-kalā](kāmakalā) [nāma](nāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
+listen cupid-digit named channel-enjoyment-water-carrying
 
 ## mukta-m0-p18-v436
-[nāḍī-cakram](nāḍīcakraṃ) [samastam](samastaṃ) [ca](ca) [tayā](tayā) [vyāptam](vyāptaṃ) [varānane](varānane)
+channel-wheel all and by-her pervaded best-faced
 
 ## mukta-m0-p18-v437
-[kāścit](kāścid) [ānanda-vāhinyaḥ](ānaṃdavāhinya) [eka](eka) [eva](eva) [mala-vāhinī](malavāhinī)
+some bliss-carrying one thus impurity-carrying
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭau) [bhoga-ambu-vāhinyaḥ](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [candrakalā](caṃdrakalā) [parā](parā)
+eight enjoyment-water-carrying and in-them moon-digit supreme
 
 ## mukta-m0-p18-v439
-[candrarekhā](caṃdrarekhā) [candravatī](caṃdravatī) [tathā](tathā) [candramahodayā](caṃdramahodayā)
+moon-streak moon-possessing and moon-great-rising
 
 ## mukta-m0-p18-v440
-[etāḥ](etā) [bhoga-ambu-vāhinyaḥ](bhogāṃbuvāhinya) [svāṃśaiḥ](svāṃśaiḥ) [candrakalā-āśritāḥ](caṃdrakalāśritāḥ)
+these enjoyment-water-carrying by-own-parts moon-digit-dependent
 
 ## mukta-m0-p18-v441
-[pradhāna-bhūtā](pradhānabhūtā) [vilasat-vidyut-dāma](vilasadvidyuddāma) [sama-prabhā](samaprabhā)
+principal shining lightning-garland equal-radiance
 
 ## mukta-m0-p18-v442
-[sarva-nāḍī-mūla-bhūtam](sarvanāḍīmūlabhūtaṃ) [nābhi-cakram](nābhicakraṃ) [samāśritā](samāśritā)
+all-channels-root navel-wheel resorted
 
 ## mukta-m0-p18-v443
-[tat-mukha-udghāṭanam](tanmukhotghāṭanaṃ) [loke](loke) [durlabham](durlabhaṃ) [parameśvari](parameśvari)
+that mouth-opening in-world rare supreme-goddess
 
 ## mukta-m0-p18-v444
-[dvi-trāṇām](dvitrāṇām) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](athakauliṣu) [kauliṣu](kauliṣu)
+of-two-three only arises among-thousands then-kaulikas
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛdvā) [vā](vā) [api](api) [janmani](janmani)
+whose linga-lord-union once-or-water-birth
 
 ## mukta-m0-p18-v446
-[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nada-viyasī](nadaviyasī)
+ineffable liberation path sky-like
 
 ## mukta-m0-p18-v447
-[samayasya](samayasya) [parijñānāt](parijñānāt) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
+convention knowledge from worship-rite conception
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid](kvacid) [unmeṣam](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
+sometimes somewhere manifestation mouth-opening-marked
 
 ## mukta-m0-p18-v449
-[tad-arthāni](tadarthānyeva) [eva](eva) [śāstrāṇi](śāstrāṇi) [tad-arthāḥ](tadarthāśca) [ca](ca) [pravṛttayaḥ](pravṛttayaḥ)
+that-purpose scriptures that-purpose activities
 
 ## mukta-m0-p18-v450
-[tasmāt](tasmāt) [candrakalā-nāḍyām](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahā-udadhim](bhogāmṛtamahodadhim)
+therefore moon-digit-channel enjoyment-nectar-great-ocean
