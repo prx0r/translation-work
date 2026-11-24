@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "guptārthāya",
-"quick_gloss": "for-hidden-meaning"
+"quick_gloss": "hidden-meaning-for"
 },
 {
 "surface": "ca",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "tatvāvabodhane",
-"quick_gloss": "truth-awakening"
+"quick_gloss": "truth-awakening-in"
 }
 ]
 },
@@ -44,16 +44,8 @@
 "quick_gloss": "bliss-tantra"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "āsminnā",
-"quick_gloss": "in-this"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"surface": "evāsminnā",
+"quick_gloss": "thus-in-this"
 },
 {
 "surface": "paratra",
@@ -61,7 +53,7 @@
 },
 {
 "surface": "kvacinmataḥ",
-"quick_gloss": "anywhere-opined"
+"quick_gloss": "somewhere-opinion"
 }
 ]
 },
@@ -73,20 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatvabhūtam",
+"surface": "tatvabhūtamidaṃ",
 "quick_gloss": "truth-born"
 },
 {
-"surface": "idaṃ",
-"quick_gloss": "this"
-},
-{
 "surface": "subhruyo",
-"quick_gloss": "fair-browed"
+"quick_gloss": "beautiful-browed"
 },
 {
 "surface": "mahāyāga",
-"quick_gloss": "great-sacrifice"
+"quick_gloss": "great-rite"
 },
 {
 "surface": "īritaḥ",
@@ -102,12 +90,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asya",
-"quick_gloss": "of-this"
-},
-{
-"surface": "taṃtrasya",
-"quick_gloss": "tantra"
+"surface": "asya+taṃtrasya",
+"quick_gloss": "of-this-tantra"
 },
 {
 "surface": "tatvāni",
@@ -136,11 +120,11 @@
 },
 {
 "surface": "tirobhāvau",
-"quick_gloss": "and-concealment"
+"quick_gloss": "concealment"
 },
 {
 "surface": "varttete",
-"quick_gloss": "occur"
+"quick_gloss": "exist"
 },
 {
 "surface": "sarvavastuṣu",
@@ -215,7 +199,7 @@
 },
 {
 "surface": "utpattiranyā",
-"quick_gloss": "origin"
+"quick_gloss": "birth"
 },
 {
 "surface": "na",
@@ -261,15 +245,15 @@
 "tokens": [
 {
 "surface": "utpannatvaṃ",
-"quick_gloss": "producedness"
+"quick_gloss": "born-state"
 },
 {
 "surface": "viśiṣṭatvaṃ",
-"quick_gloss": "distinctness"
+"quick_gloss": "distinct-state"
 },
 {
 "surface": "tadaivādau",
-"quick_gloss": "then-indeed-at-first"
+"quick_gloss": "then-in-beginning"
 },
 {
 "surface": "pradarśitam",
@@ -298,11 +282,11 @@
 },
 {
 "surface": "vāstavatvaṃ",
-"quick_gloss": "reality"
+"quick_gloss": "real-state"
 },
 {
 "surface": "vyavahāraikajanmanā",
-"quick_gloss": "conventional-only-birth"
+"quick_gloss": "conventional-birth"
 }
 ]
 },
@@ -339,20 +323,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmir",
+"surface": "bhūmirāponalo",
 "quick_gloss": "earth"
 },
 {
-"surface": "āponalo",
+"surface": "āpaḥ",
 "quick_gloss": "water"
 },
 {
-"surface": "vāyuḥ",
+"surface": "analo",
 "quick_gloss": "fire"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "air"
 },
 {
 "surface": "śabdaścatimiraṃ",
 "quick_gloss": "sound"
+},
+{
+"surface": "timiraṃ",
+"quick_gloss": "darkness"
 },
 {
 "surface": "manaḥ",
@@ -385,7 +377,7 @@
 },
 {
 "surface": "vijṛmbhaṇam",
-"quick_gloss": "expansion"
+"quick_gloss": "unfolding"
 }
 ]
 },
@@ -398,7 +390,7 @@
 "tokens": [
 {
 "surface": "saṅghatarūpakarmādyā",
-"quick_gloss": "aggregate-form-action-etc"
+"quick_gloss": "aggregate-form"
 },
 {
 "surface": "na",
@@ -431,7 +423,7 @@
 },
 {
 "surface": "kvacidarhataḥ",
-"quick_gloss": "anywhere"
+"quick_gloss": "somewhere"
 }
 ]
 },
@@ -548,7 +540,7 @@
 },
 {
 "surface": "pratyakṣaviṣayaḥ",
-"quick_gloss": "direct-perceptible"
+"quick_gloss": "direct-object"
 },
 {
 "surface": "pavanaḥ",
@@ -556,7 +548,7 @@
 },
 {
 "surface": "parvatātmaje",
-"quick_gloss": "mountain-daughter"
+"quick_gloss": "o-mountain-born"
 }
 ]
 },
@@ -569,7 +561,7 @@
 "tokens": [
 {
 "surface": "manojīvavaśāḥ",
-"quick_gloss": "mind-soul-dependent"
+"quick_gloss": "mind-soul-controlled"
 },
 {
 "surface": "sarve",
@@ -581,11 +573,11 @@
 },
 {
 "surface": "svayaṃ",
-"quick_gloss": "by-themselves"
+"quick_gloss": "themselves"
 },
 {
 "surface": "pramāḥ",
-"quick_gloss": "valid-cognitions"
+"quick_gloss": "proofs"
 }
 ]
 },
@@ -606,7 +598,7 @@
 },
 {
 "surface": "vedavidyāgamātmakaḥ",
-"quick_gloss": "veda-knowledge-agama-self"
+"quick_gloss": "veda-knowledge-agama"
 }
 ]
 },
@@ -619,7 +611,7 @@
 "tokens": [
 {
 "surface": "viśiṣṭabhāge",
-"quick_gloss": "in-distinct-part"
+"quick_gloss": "distinct-part"
 },
 {
 "surface": "sādṛṣṭe",
@@ -627,11 +619,11 @@
 },
 {
 "surface": "darśanaṃ",
-"quick_gloss": "vision"
+"quick_gloss": "seeing"
 },
 {
 "surface": "bhāginoyataḥ",
-"quick_gloss": "of-part-holders"
+"quick_gloss": "of-part"
 }
 ]
 },

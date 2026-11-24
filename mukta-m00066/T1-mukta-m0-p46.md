@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause](hetuḥ) [rouge-causes](raṃjanahetavaḥ)
+hero(by-hero) among-them(in-them) to-be-done(by-to-be-done) cause(by-cause) for-coloring(by-for-coloring) causes(by-causes)
 
 ## mukta-m0-p46-v1127
-[by-teachers](ācāryamāṇaiḥ) [of-women](strīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
+teacher(by-teacher) of-women(of-women) whose-mind(whose-mind) not-other-refuge(not-other-refuge) mind(mind)
 
 ## mukta-m0-p46-v1128
-[in-failings](skhalaneṣu) [patience](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+in-stumblings(in-stumblings) patience(patience) and(and) of-fault(of-fault) re-examination(re-examination)
 
 ## mukta-m0-p46-v1129
-[policy-of-punishment](daṇḍanītiḥ) [not](na) [tu](tu) [in-women](strīṣu) [to-cast-down](prapātayitum) [is-worthy](arhati)
+policy(by-policy) not(not) among-women(among-women) to-cause-fall(by-to-cause-fall) deserves(deserves)
 
 ## mukta-m0-p46-v1130
-[behold](paśya) [violence-with](sāhasametāsāṃ) [in-heaven-gone](svargate) [own-husband](nijabharttari)
+behold(by-behold) violence(by-violence) with-them(with-them) heaven-gone(heaven-gone) own-husband(own-husband)
 
 ## mukta-m0-p46-v1131
-[by-grief-beating-harshness](khedatāḍanapāruṣyaiḥ) [they-release](muṃcantyeva) [own-life](svajīvitam)
+by-grief(by-grief) by-beating(by-beating) by-harshness(by-harshness) release(by-release) indeed(indeed) own-life(own-life)
 
 ## mukta-m0-p46-v1132
-[therefore](ataḥ) [gentleness](mārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-pleasing](cittaraṃjanam)
+therefore(by-therefore) gentleness(by-gentleness) among-them(among-them) first(by-first) mind-coloring(by-mind-coloring)
 
 ## mukta-m0-p46-v1133
-[extreme](atyaṃtam) [growth](abhivṛddhiṃ) [and](ca) [leading](nayat) [if](cet) [in-them](tāsu) [accomplisher](sādhakaḥ)
+extreme(by-extreme) growth(by-growth) and(and) leads(by-leads) among-them(among-them) accomplisher(accomplisher)
 
 ## mukta-m0-p46-v1134
-[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [declared](pradiśidbudhaḥ)
+middle(by-middle) manner(by-manner) seeing(by-seeing) declared(by-declared) wise(wise)
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-other-disgrace](parebhavaṃ) [goes](yāti) [disgraced](paribhūtaḥ) [how](kathaṃ) [dear](priye)
+attached(by-attached) to-disgrace(by-to-disgrace) goes(by-goes) disgraced(by-disgraced) how(by-how) beloved(beloved)
 
 ## mukta-m0-p46-v1136
-[in-bull-like-ones](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-make-roam](cārayet)
+in-bullocks(in-bullocks) among-them(among-them) mother(mother) not(not) indeed(indeed) chief(by-chief) should-drive(should-drive)
 
 ## mukta-m0-p46-v1137
-[morsels](grāsān) [api](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [strength](śakti) [should-offer](nivedayet)
+morsels(by-morsels) also(also) garments(by-garments) as(by-as) ability(by-ability) offer(by-offer)
 
 ## mukta-m0-p46-v1138
-[therefore](tasmāt) [hero-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
+therefore(by-therefore) hero-people-dependent(by-hero-people-dependent) messenger(by-messenger) nature(by-nature) shive(shive)
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyoḥ) [union](ghaṭanaṃ) [should-say](brūyat) [human-aim-single-cause](puruṣārthaikakāraṇam)
+of-couple(of-couple) union(by-union) would-say(by-would-say) human-aim-single-cause(by-human-aim-single-cause)
 
 ## mukta-m0-p46-v1140
-[mutually](anyonyam) [with-affection](anurāgeṇa) [great-happiness](mahatsaukhyaṃ) [arises](prajāyate)
+mutually(by-mutually) with-affection(by-with-affection) great-happiness(by-great-happiness) arises(by-arises)
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-that-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
+therefore(by-therefore) for-favor(by-for-favor) own-favor(by-own-favor) manifest(by-manifest)
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext](āliṃganacchalenaiva) [happiness](sukhaṃ) [massage](saṃvāhanaṃ) [should-do](caret)
+by-embrace(by-embrace) pretext(by-pretext) indeed(indeed) pleasure(by-pleasure) massage(by-massage) perform(by-perform)
 
 ## mukta-m0-p46-v1143
-[should-anoint](ādāyalimpec) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-goer](nānyagābhavet)
+take(by-take) anoint(by-anoint) foot(by-foot) of-messenger(by-of-messenger) she(by-she) not-other-goer(by-not-other-goer)
 
 ## mukta-m0-p46-v1144
-[disgusted](jugupsamāno) [not](na) [would-be](bhaved) [dispassion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
+disgusted(by-disgusted) not(not) becomes(by-becomes) aversion(by-aversion) by-that(by-that) arises(by-arises)
 
 ## mukta-m0-p46-v1145
-[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [ca](ca) [step](pade) [step](pade)
+in-worlds(in-worlds) movement(by-movement) festival(by-festival) and(and) step(by-step) step(by-step)
 
 ## mukta-m0-p46-v1146
-[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+various(by-various) juicy(by-juicy) ripe(by-ripe) fruits(by-fruits) flowers(by-flowers) fragrant(by-fragrant)
 
 ## mukta-m0-p46-v1147
-[with-unctions](udvarttanaiḥ) [betel](tāṃbūlaiḥ) [collyrium](añjanaiḥ) [mouth-perfumes](mukhavāsitaiḥ)
+by-massages(by-massages) by-betel(by-betel) by-collyriums(by-collyriums) by-mouth-perfumes(by-mouth-perfumes)
 
 ## mukta-m0-p46-v1148
-[should-please](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvatī](pārvati)
+color(by-color) beloved(by-beloved) wise(by-wise) by-enjoyments(by-enjoyments) bright(by-bright) and(and) parvati(parvati)
 
 ## mukta-m0-p46-v1149
-[so-long](tāvat) [pleased-mind](hiramanā) [eva](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [should-do](pācaret)
+so-long(by-so-long) pleased(by-pleased) indeed(indeed) enjoyment-differences(by-enjoyment-differences) but(but) should-perform(should-perform)
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) [arises](jāyate) [that](tac) [ca](ca) [proud-unfruitful-women](sadarpāviphalāstriyaḥ)
+by-praise(by-praise) arises(by-arises) that(that) and(and) proud-unfruitful-women(by-proud-unfruitful-women)
