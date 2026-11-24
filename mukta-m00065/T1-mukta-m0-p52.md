@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[in-middle-of-thread](sūtramadhye) [by-half-thread](ardhasūtreṇa) [fish](matsyān) [in-corners](koṇeṣu) [everywhere](sarvataḥ)
+thread-middle half-thread fish corners everywhere
 
 ## mukta-m0-p52-v1277
-[four-cornered](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [of-pits](kuṇḍānām) [also](api) [always](sarvadā)
+four-corners pedestal-field pits always
 
 ## mukta-m0-p52-v1278
-[from-middle](madhyāt) [middle-gone](madhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [and-another](cāparam)
+middle middle-gone thread corner encircle and-other
 
 ## mukta-m0-p52-v1279
-[from-union-of-two-threads](tatsūtradvayasaṃyogāt) [accomplish](sādhayet) [or](vā) [three-leaved](triparṇikām)
+that-thread-pair-union accomplish or three-leaf
 
 ## mukta-m0-p52-v1280
-[revolving](saṃbhrāmya) [from-middle](madhyataḥ) [thread](sūtraṃ) [accomplish](sādhayet) [half-moon](ardhacandrikām)
+revolving middle thread accomplish half-moon
 
 ## mukta-m0-p52-v1281
-[in-demon-fire-moon-quarters](rakṣo'gnisaumyakāṣṭhāsu) [that](ta) [three-threaded](trisūtrya) [triangle](trikoṇikām)
+demon-fire-moon-wood directions three-thread triangle
 
 ## mukta-m0-p52-v1282
-[by-middle-lower-thread-revolving](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
+middle-lower-thread-revolving pedestal round becomes
 
 ## mukta-m0-p52-v1283
-[between-four-cornered-and-round](turyāsravṛttayormadhye) [of-two](yamandvoḥ) [thread-falling](sūtrapātanam)
+fourth-corner-circle middle yama-two thread-drop
 
 ## mukta-m0-p52-v1284
-[becomes-six-cornered-pedestal](bhavetṣaḍasrikāpiṇḍī) [by-remaining-line-removal](śeṣarekhāvithopanāt)
+becomes six-cornered-pedestal remaining-line-erasure
 
 ## mukta-m0-p52-v1285
-[thread-middle-half](sūtramadhyārdha) [round](sabṛttāt) [lotus](abjā) [is](syāt) [previously-stated](pūrvacoditā)
+thread-middle-half circle-lotus becomes previously-stated
 
 ## mukta-m0-p52-v1286
-[middle-thread-half](madhyasūtrārdha) [by-portion](bhāgena) [corners](koṇāni) [diminish](hrāsayet) [then](atha)
+middle-thread-half portion corners diminish then
 
 ## mukta-m0-p52-v1287
-[by-corners](koṇaiḥ) [thread-bounded](sūtraparicchinnaiḥ) [make](kuryāt) [eight-cornered](aṣṭāsrikāṃ) [always](sadā)
+corners thread-bounded make eight-cornered always
 
 ## mukta-m0-p52-v1288
-[cutting-corners](saṃchidyāsrīṃśca) [cutting](saṃchidya) [making](kṛtvā) [then](tu) [ten-cornered](daśamāstrikam)
+cut-corners and cut make ten-cornered
 
 ## mukta-m0-p52-v1289
-[to-be-made](kartavyā) [by-sixteen-parts](ṣoḍakāṃśaiḥ) [then](tu) [pedestal](piṇḍikā) [keśava-abode](keśavāśrayā)
+make sixteen-parts pedestal kesava-refuge
 
 ## mukta-m0-p52-v1290
-[as-before](pūrvavat) [by-thirty-two-parts](yoḍaśaṃśaiḥ) [make](kuryāt) [thirty-two-cornered](dvātriṃśadasrikām)
+previous thirty-two-parts make thirty-two-cornered
 
 ## mukta-m0-p52-v1291
-[southeastern](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [disease-fire-burning-causing](pintarogāgnidāhakṛt)
+fire-direction bodhi-leaf-like disease-fire-burning
 
 ## mukta-m0-p52-v1292
-[triangle](trikoṇā) [rākṣasa-born](rākṣasājāṃ) [region](deśo) [covering](cchadakarī) [always](sadā)
+triangle demon-born region covering always
 
 ## mukta-m0-p52-v1293
-[northwestern](vāyavyā) [and](ca) [six-cornered](ṣaḍasrā) [stated](uktā) [enemy-expelling](śatrūccāṭanakārikā)
+northwest six-cornered stated enemy-expulsion
 
 ## mukta-m0-p52-v1294
-[fierce](raudrī) [eight-cornered](aṣṭāsrikā) [to-be-known](jñeyā) [liberation-giving](muktidā) [enemy-destroying](sārināśinī)
+fierce eight-cornered known liberation-giving sin-destroying
 
 ## mukta-m0-p52-v1295
-[thirty-two-cornered](dvātriṃśadasrikā) [fiery](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
+thirty-two-cornered fire heaven-named fruit-giving
 
 ## mukta-m0-p52-v1296
-[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like](kodaṇḍavad) [becomes](bhavet)
+half-moon-like blue remaining bow-like becomes
 
 ## mukta-m0-p52-v1297
-[of-pedestal-head-etc](piṇḍīmāmastakādīnāṃ) [does](karoti) [thus](evaṃ) [kind](vidhaṃ) [fruit](phalam)
+pedestal-head-etc makes such result
 
 ## mukta-m0-p52-v1298
-[marked-with-bhaga-and-liṅga](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [moving-and-nonmoving](sacarācaram)
+bhaga-linga-marked all three-worlds moving-immovable
 
 ## mukta-m0-p52-v1299
-[śiva-liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [from-their-union](tayoryogāt) [great-fruit](mahatphalam)
+shiva-linga supreme that union great-fruit
 
 ## mukta-m0-p52-v1300
-[petal-foot-pit](dalāṅghrigartikā) [tortoise](kūrma) [four-cornered](vedāsrā) [liṅga-pit](valiṅgartinī)
+petal-foot-pit tortoise four-cornered linga-bearing

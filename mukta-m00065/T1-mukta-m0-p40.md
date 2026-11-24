@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[secondary](gauṇaḥ) [in-field](kṣetre) [or](athavā) [six-door-one-faced](ṣaḍdorekavaktraḥ) [praised](praśasyate)
+secondary in-field or six-door-one-faced praised
 
 ## mukta-m0-p40-v977
-[according-to-order](yathākramaṃ) [always](sadā) [with-six](ṣaḍbhiḥ) [right-left-hands](dakṣiṇottarapāṇibhiḥ)
+as-order always six right-left-hands
 
 ## mukta-m0-p40-v978
-[bearing-power](bibhrachaktiṃ) [in-hand](kare) [right](yāmye) [cock](tāmracūḍaṃ) [and](tathā) [other](itare)
+bearing-shakti in hand right copper-crested and other
 
 ## mukta-m0-p40-v979
-[peacock-mounted](śikhyārūḍhaḥ) [but](tu) [śarva-this](śārvo'yaṃ) [all-ornamented](sarvālaṅkārabhaṣitaḥ)
+peacock-mounted but Shiva-this all-ornament-adorned
 
 ## mukta-m0-p40-v980
-[stone-gold-etc-metals](śilāhemādilohaiḥ) [or](vā) [bull](vṛṣaṃ) [make](kuryāt) [as-desired](yathepsitam)
+stone-gold-etc-metals or bull make as-desired
 
 ## mukta-m0-p40-v981
-[common](sādhāraṇeṣu) [lingas](liṅgeṣu) [by-context](prastāvāt) [prescribed](vihito) [bull](vṛṣaḥ)
+common in-lingas by-context prescribed bull
 
 ## mukta-m0-p40-v982
-[linga-third-part-omitted](liṅgatryaṃśojhitaḥ) [to-be-made](kāryaḥ) [that-double-length-figure](taddvirāyativigrahaḥ)
+linga-third-part-deprived made that-double-Ayati-figure
 
 ## mukta-m0-p40-v983
-[auspicious-opened-eye-mark](śubhonmolitadṛglakṣma) [linga-head-head](liṅgamastakamastakaḥ)
+auspicious-opened-eye-mark linga-head-head
 
 ## mukta-m0-p40-v984
-[length](dairghyāt) [square-etc](caturaśotyaśāḥ) [finger](aṅgulaṃ) [by-that](tena) [measurement](kalpanam)
+length four-corner-plus-? angula by-that measure
 
 ## mukta-m0-p40-v985
-[eight-eye-breadth](aṣṭanetrapṛthutvaṃ) [is](syāt) [high](proccaiḥ) [that-mouth-length](tadvaktradīrghatā)
+eight-eye-breadth be high that-mouth-length
 
 ## mukta-m0-p40-v986
-[string-part](tantribhāgaṃ) [but](tu) [star](tārā) [is](syāt) [light](jyotiḥ) [that-fifth-part](tatpañcamāṃśataḥ)
+string-part star be light that-fifth-part
 
 ## mukta-m0-p40-v987
-[nose-finger-measure-round](nāsāṅgulapramāvṛttā) [two-eye](dvinetraṃ) [hollow-end](śuṣirāntaram)
+nose-angula-measure-round two-eye hollow-end
 
 ## mukta-m0-p40-v988
-[five-eye](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that-above](tadūrdhva) [but](tu) [increases](vivardhate)
+five-eye breadth above increases
 
 ## mukta-m0-p40-v989
-[four-eye-both](caturnetrobhayoḥ) [side](pārśve) [face-measure](vaktramānaṃ) [but](tu) [joined](sandhitaḥ)
+four-eye both sides mouth-measure joined
 
 ## mukta-m0-p40-v990
-[that-base](tanmūle) [seven-breadth](saptavistāraṃ) [ear-base-accompanied](karṇamūlasamanvitam)
+that-base seven-breadth ear-base-accompanied
 
 ## mukta-m0-p40-v991
-[finger-half-equal](aṅgulārdhasamaṃ) [as-far](yāvat) [base](mūlaṃ) [five-round](pañcakavartulam)
+half-angula equal until base five-round
 
 ## mukta-m0-p40-v992
-[ear-base-from](karṇamūlāt) [but](tu) [nose-half](nāsārdhaṃ) [thread-laugh](sūtrahāsāt) [bring-equal](nayetsamam)
+from-ear-base to-nose-half thread-laugh equal
 
 ## mukta-m0-p40-v993
-[conch-base](śaṅkhamūla) [two-eye](dvinetraṃ) [is](syāt) [as-front](yathāgre) [eye-foot](netrapādakam)
+conch-base two-eye be as-before eye-foot
 
 ## mukta-m0-p40-v994
-[side-lump](pārśvapiṇḍī) [two-eye-half](dvinetrārdhaṃ) [six-eye-front-hole](ṣaḍnetrāgrāvaṭuḥ) [remembered](smṛtaḥ)
+side-lump two-eye-half six-eye-front-knob known
 
 ## mukta-m0-p40-v995
-[two-eye-height-above](dvinetrocchrayatordhvaṃ) [is](syāt) [round-above](vṛttamūrdhvaṃ) [as](yathā) [becomes](bhavet)
+two-eye-height above be round above as be
 
 ## mukta-m0-p40-v996
-[joint-eye-excess](sandhirnetrādhikaḥ) [said](proktaḥ) [four-eye-calf](caturnetropajaṅghikā)
+joint eye-more said four-eye-calf
 
 ## mukta-m0-p40-v997
-[ankle-half](gulphārdhaṃ) [hoof-eye](khurikānetraṃ) [of-foot](pādasya) [measure](parimāṇataḥ)
+ankle-half hoof-eye foot measure
 
 ## mukta-m0-p40-v998
-[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [and-calf](copajaṅghrikā)
+fourteen-etc that-speech three-less calf
 
 ## mukta-m0-p40-v999
-[six-eye-end](ṣaḍnetrāntaḥ) [thus-known](tathājñeyā) [therefore](tasmāt) [is](syāt) [tail-continuity](pucchasantatiḥ)
+six-eye-end thus known from-that tail-continuity
 
 ## mukta-m0-p40-v1000
-[palm-three](tālatrayaṃ) [very-long](pradīrghaṃ) [is](syāt) [palm-half](tālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
+three-palm long be palm-half hair-collection
