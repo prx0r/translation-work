@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[on-ground](sthaṇḍile) [in-circle](maṇḍale) [worshipable](pūjya) [initiation-establishment-etc](dīkṣāsthāpanādike)
+[on-ground](sthaṇḍile) [in-circle](maṇḍale) [worship](pūjya) [be-initiation-establishment-etc](syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[lord-honor-giving](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-elephant-tusk-born](sainyacchinnāgadantajam)
+[lord-honor-giving](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-elephant-tusk-born](sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[aṇimā-etc-kingly-risen](aṇimādinṛkulyottham) [mutual-month-half-from](anyonyabdārdhataḥ) [always](sadā)
+[atom-etc-king-born](aṇimādinṛkulyottham) [mutual-half-month](anyonyabdārdhataḥ) [always](sadā)
 
 ## mukta-m0-p04-v79
 [rice-flour-born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [sixty-day-rice](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[enemy-splitting](ripubhedakaraṃ) [mung-bean](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
+[enemy-splitting](ripubhedakaraṃ) [mung-born](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[happiness-making-not-churned](sukhakṛnnāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
+[pleasure-making](sukhakṛt) [not-butter](nāvanītaṃ) [then](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
 
 ## mukta-m0-p04-v82
-[various-fruit-born](nānāphalodbhavaṃ) [liṅga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
+[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[in-expulsion](uccāṭane) [indeed](tu) [dust-born](pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
+[for-uprooting](uccāṭane) [dust-born](tu+pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierceness-causing](caugryakārakam)
+[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierceness-making](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[clay-image-born-desired-purpose](mṛdbimbodbhavamiṣṭārthaṃ) [from-smearing](lepāt) [would-be](syuḥ) [all-prosperities](sarvasaṃpadaḥ)
+[clay-image-born](mṛdbimbodbhavam) [desired-aim](iṣṭārthaṃ) [anointing-from](lepāt) [be-all-prosperities](syuḥ+sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[for-that-time](tāvatkāla) [indeed](tu) [worship](saṃpūya) [releasing](visṛjya) [those](tāni) [who](ke) [would-throw](kṣipet)
+[so-long-time](tāvatkāla) [then](tu) [worship](saṃpūya) [releasing](visṛjya) [those](tāni) [who](ke) [throw](kṣipet)
 
 ## mukta-m0-p04-v87
-[boiling-down](niṣkvāthya) [cloth-smearing](paṭamālepya) [drying](saṃśoṣya) [wiping](pārimārjya) [and](ca)
+[boiling](niṣkvāthya) [cloth](paṭam) [anointing](ālepya) [drying](saṃśoṣya) [wiping](pārimārjya) [and](ca)
 
 ## mukta-m0-p04-v88
-[with-metals-bilva-juices-drawing](dhātubilvarasairlekhyaṃ) [threefold](tridhā) [liṅga](liṅgaṃ) [on-cloth-etc](paṭādike)
+[metal-bilva-juice](dhātubilvarasaiḥ) [drawing](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [on-cloth-etc](paṭādike)
 
 ## mukta-m0-p04-v89
-[strength-revolving-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [state-dependent](bhāvāśritā) [always](sadā)
+[strength-revolution-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [being-based](bhāvāśritā) [always](sadā)
 
 ## mukta-m0-p04-v90
-[compassion-wonder-peace-and](karuṇādbhutaśāntāśca) [nine-emotion-natured](navabhāvātmikāḥ) [sometimes](kvacit)
+[compassion-wonder-peace](karuṇādbhutaśāntāḥ) [and](ca) [nine-emotion-souled](navabhāvātmikāḥ) [sometimes](kvacit)
 
 ## mukta-m0-p04-v91
-[by-own-will](svecchayā) [would-worship](pūjayed) [this-clay-made](etanmṛnmayān) [is-called](ucyate) [now](adhunā)
+[by-own-will](svecchayā) [worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [called](ucyate) [now](adhunā)
 
 ## mukta-m0-p04-v92
-[instant-mantra](sadyomantreṇa) [and-uncooked](cāpakvaṃ) [in-order-nine-hand-etc](kramānnavakarādikam)
+[immediately-mantra](sadyomantreṇa) [and](ca) [unripe](apakvaṃ) [gradually-nine-finger-etc](kramānnavakarādikam)
 
 ## mukta-m0-p04-v93
-[by-twice-born-etc-castes-clays](dvijādijātibhirmṛdbhiḥ) [unmanifest-etc](avyaktādi) [and](ca) [by-desire](kāmataḥ)
+[by-brahmin-etc-castes](dvijādijātibhiḥ) [clay](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [by-desire](ca+kāmataḥ)
 
 ## mukta-m0-p04-v94
-[in-wells-cisterns-ponds](vāpīkūpataḍāgeṣu) [from-long-tank](dīrghikāyāḥ) [would-gather](samāharet)
+[in-wells-tanks-pools](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [gather](samāharet)
 
 ## mukta-m0-p04-v95
-[for-nourishment](puṣṭyai) [three-metal-wombed](trilohagarbhaṃ) [and](ca) [for-treasury-increase](dhanakoṣavivṛddhaye)
+[for-nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [for-wealth-treasury-increase](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[by-left-named](vāmākhyena) [pyre](citāṃ) [making](kṛtvā) [fiercely](ghoreṇa) [burning-around](paridāhya) [and](ca)
+[by-vama-named](vāmākhyena) [pyre](citāṃ) [making](kṛtvā) [by-fierce](ghoreṇa) [burning](paridāhya) [and](ca)
 
 ## mukta-m0-p04-v97
-[by-īśāna](īśānena) [taking](gṛhītvā) [indeed](tu) [then](tataḥ) [purifying](saṃskṛtya) [would-worship](pūjayet)
+[by-ishana](īśānena) [taking](gṛhītvā) [then](tu) [then](tataḥ) [purifying](saṃskṛtya) [worship](pūjayet)
 
 ## mukta-m0-p04-v98
-[sal-resin-asafoetida-guggulu-bola](sarjahiṅgupuraṃbola) [sesame-oil](matasītailam) [indeed](eva) [and](ca)
+[sarja-asafetida-puram-bola](sarjahiṅgupuraṃbola) [and](matasītailameva) [ca](ca)
 
 ## mukta-m0-p04-v99
-[in-clay](mṛdi) [throwing](kṣiptvā) [arranging](vyavasthāpya) [month](māsaṃ) [her](tāṃ) [rubbing-around](parimṛdya) [and](ca)
+[in-clay](mṛdi) [throwing](kṣiptvā) [arranging](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [rubbing](parimṛdya) [and](ca)
 
 ## mukta-m0-p04-v100
-[hemp-fiber-including](śaṇatatvanvitaṃ) [making](katvā) [clay-made](mṛnmayaṃ) [would-form](ghaṭayet) [auspicious](śubham)
+[hemp-fiber-with](śaṇatatvanvitaṃ) [making](katvā) [clay-made](mṛnmayaṃ) [fashion](ghaṭayet) [auspicious](śubham)
