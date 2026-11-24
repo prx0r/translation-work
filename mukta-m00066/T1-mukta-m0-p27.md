@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[tadana](tāḍana) [pramukham](pramukhaṃ) [karmatam](karmataṃ) [hetum](hetuṃ) [kathaya](kathaya) [prabho](prabho)
+[tāḍana](tāḍana) [pramukhaṃ](pramukhaṃ) [karmataṃ](karmataṃ) [hetuṃ](hetuṃ) [kathaya](kathaya) [prabho](prabho)
 
 ## mukta-m0-p27-v652
-[moham](mohaṃ) [ksane](kṣaṇe) [ksanedyutya](kṣaṇedūtyā) [bhajante](bhajaṃte) [narmakarmani](narmakarmaṇi)
+[mohaṃ](mohaṃ) [kṣaṇe](kṣaṇe) [kṣaṇe+dūtyā](kṣaṇedūtyā) [bhajaṃte](bhajaṃte) [narma+karmaṇi](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-[tasmadalasatam](tasmādalasatāṃ) [prapta](prāptā) [na](na) [dravantyeva](dravaṃtyeva) [dutikah](dūtikāḥ)
+[tasmāt+alasatāṃ](tasmādalasatāṃ) [prāptā](prāptā) [na](na) [dravaṃtyeva](dravaṃtyeva) [dūtikāḥ](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[vilambate](vilaṃbate) [ratim](ratiṃ) [datum](dātuṃ) [tadvilambat](tadvilaṃbāt) [sukhamkutah](sukhaṃkutaḥ)
+[vilaṃbate](vilaṃbate) [ratiṃ](ratiṃ) [dātuṃ](dātuṃ) [tad+vilaṃbāt](tadvilaṃbāt) [sukhaṃ+kutaḥ](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-[tah](tāḥ) [prabuddhah](prabuddhāḥ) [samutsaha](samutsāha) [marabhante](mārabhaṃte) [ratadhvare](ratādhvare)
+[tāḥ](tāḥ) [prabuddhāḥ](prabuddhāḥ) [samutsāha](samutsāha) [mārabhaṃte](mārabhaṃte) [rata+adhvare](ratādhvare)
 
 ## mukta-m0-p27-v656
-[dutyodravati](dūtyodravati) [bahuso](bahuśo) [navanitamivagnina](navanītamivāgninā)
+[dūtyā+udravati](dūtyodravati) [bahuśaḥ+navanītam+iva+agninā](bahuśonavanītamivāgninā)
 
 ## mukta-m0-p27-v657
-[layamarthalayam](layamarthalayaṃ) [capa](cāpi) [tada](tadā) [ghattalayam](ghaṭṭalayaṃ) [priye](priye)
+[layam](layam) [artha+layaṃ](arthalayaṃ) [ca+api](cāpi) [tadā](tadā) [ghaṭṭa+layaṃ](ghaṭṭalayaṃ) [priye](priye)
 
 ## mukta-m0-p27-v658
-[acarandutikagatramanandamayatam](acarandūtikāgātramānaṃdamayatāṃ) [nayet](nayet)
+[acaran](acaran) [dūtikā+gātram](dūtikāgātram) [ānanda+mayatāṃ](ānaṃdamayatāṃ) [nayet](nayet)
 
 ## mukta-m0-p27-v659
-[svayamatyanta](svayamatyaṃta) [dhiratma](dhīrātmā) [bhavayan](bhāvayan) [lingakuncikam](liṃgakuṃcikām)
+[svayam](svayam) [atyaṃta](atyaṃta) [dhīra+ātmā](dhīrātmā) [bhāvayan](bhāvayan) [liṃga+kuṃcikām](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-[nityanandamayam](nityānaṃdamayaṃ) [tatvam](tatvaṃ) [jagadvyaptam](jagadvyāptaṃ) [vicintayat](viciṃtayat)
+[nitya+ānanda+mayam](nityānaṃdamayaṃ) [tatvam](tatvaṃ) [jagat+vyāptaṃ](jagadvyāptaṃ) [viciṃtayat](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[ayameva](ayameva) [mahayajnastapascedamanuttamam](mahāyajñastapaścedamanuttamam)
+[ayam+eva](ayameva) [mahā+yajñaḥ](mahāyajñaḥ) [tapaḥ](tapaḥ) [ca](ca) [idam](idam) [anuttamam](anuttamam)
 
 ## mukta-m0-p27-v662
-[idam](idaṃ) [vratam](vrataṃ) [mahapunyamanandadvaitadayakam](mahāpuṇyamānaṃdādvaitadāyakaṃ)
+[idaṃ](idaṃ) [vrataṃ](vrataṃ) [mahā+puṇyam](mahāpuṇyam) [ānanda+advaita+dāyakaṃ](ānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-[binduviksaranam](biṃduvikṣaraṇaṃ) [nama](nāma) [yajnavabhrtah](yajñāvabhṛtha) [ucyate](ucyate)
+[biṃdu+vikṣaraṇaṃ](biṃduvikṣaraṇaṃ) [nāma](nāma) [yajña+avabhṛthaḥ](yajñāvabhṛtha) [ucyate](ucyate)
 
 ## mukta-m0-p27-v664
-[yatha](yathā) [yatha](yathā) [kaladairghyam](kāladairghyaṃ) [dhairyabandhena](dhairyabaṃdhena) [bhuyasa](bhūyasā)
+[yathā](yathā) [yathā](yathā) [kāla+dairghyaṃ](kāladairghyaṃ) [dhairya+baṃdhena](dhairyabaṃdhena) [bhūyasā](bhūyasā)
 
 ## mukta-m0-p27-v665
-[agnirmukhe](agnirmukhe) [paradavat](pāradavat) [na](na) [dhairyamanudhavati](dhairyamanudhāvati)
+[agniḥ](agniḥ) [mukhe](mukhe) [pārada+vat](pāradavat) [na](na) [dhairyaṃ](dhairyaṃ) [anudhāvati](anudhāvati)
 
 ## mukta-m0-p27-v666
-[katham](kathaṃ) [bhavati](bhavati) [candisa](caṇḍīśa) [prastabdham](prastabdhaṃ) [suklamangake](śuklamaṃgake)
+[kathaṃ](kathaṃ) [bhavati](bhavati) [caṇḍīśa](caṇḍīśa) [prastabdhaṃ](prastabdhaṃ) [śukla+maṃgake](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-[atrantascaryajanakam](atyaṃtāścaryajanakaṃ) [yadisuklasya](yadiśuklasya) [dharana](dhāraṇā)
+[atyaṃta+āścarya+janakaṃ](atyaṃtāścaryajanakaṃ) [yadi](yadi) [śuklasya](śuklasya) [dhāraṇā](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[natukenapi](natukenāpi) [yatnena](yatnena) [jayate](jāyate) [sukladharana](śukladhāraṇā)
+[na](na) [tukena+api](tukenāpi) [yatnena](yatnena) [jāyate](jāyate) [śukla+dhāraṇā](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-[kamatantresu](kāmataṃtreṣu) [bahuso](bahuśo) [bhogibhiryadanusthitam](bhogibhiryadanuṣṭhitam)
+[kāma+tantra+eṣu](kāmataṃtreṣu) [bahuśaḥ](bahuśaḥ) [bhogibhiḥ](bhogibhiḥ) [yat](yat) [anuṣṭhitam](anuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[tadvadami](tadvadāmi) [mahabhage](mahābhāge) [stambhanam](staṃbhanaṃ) [rasasampadam](rasasaṃpadām)
+[tadvat](tadvat) [vadāmi](vadāmi) [mahābhāge](mahābhāge) [staṃbhanaṃ](staṃbhanaṃ) [rasa+saṃpadām](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-[nandavyate](naṃdavyate) [kathamapi](kathamapi) [praudhamekorasobudhaih](prauḍhamekorasobudhaiḥ)
+[naṃdavyate](naṃdavyate) [katham+api](kathamapi) [prauḍham](prauḍham) [ekaḥ](ekaḥ) [rasaḥ](rasaḥ) [budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p27-v672
-[sarvepi](sarvepi) [dhatavodevi](dhātavodevī) [svasvasthane](svasvasthāne) [krtasrayah](kṛtāśrayāḥ)
+[sarve+api](sarvepi) [dhātavaḥ](dhātavaḥ) [devī](devī) [sva+sva+sthāne](svasvasthāne) [kṛta+āśrayāḥ](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-[nadicakresu](nāḍīcakreṣu) [sarvesu](sarveṣu) [vasannapi](vasannapi) [rasesvarah](raseśvaraḥ)
+[nāḍī+cakreṣu](nāḍīcakreṣu) [sarveṣu](sarveṣu) [vasan+api](vasannapi) [rasa+īśvaraḥ](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-[kecidvadanti](kecidvadaṃti) [bhru madhye](bhrūmadhye) [keciddhrdiparema nau](keciddhṛdiparemaṇau)
+[kecid](kecid) [vadaṃti](vadaṃti) [bhrū+madhye](bhrūmadhye) [kecid](kecid) [hṛdi+pare+maṇau](dhṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-[decidurvostaledevi](decidūrvostaledevi) [decijjaghanasimani](decijjaghanasīmani)
+[decid](decid) [ūrvoḥ](ūrvoḥ) [tale](tale) [devi](devi) [decit](decit) [jaghana+sīmani](jaghanasīmani)

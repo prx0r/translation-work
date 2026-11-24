@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga-śakti](anaṃgaśaktayaḥ) [aṣṭau](aṣṭau) [tu](tu) [pūjanīya](pūjanīyā) [manīṣi](manīṣibhiḥ)
+[anaṃga-śakti](anaṃgaśaktayo) [aṣṭau](aṣṭau) [tu](tu) [pūjanīya](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[anaṃga](anaṃga) [madana](madana) [anaṃga](anaṃga) [madana](madana) [ātura](āturayā) [saha](saha)
+[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madana-ātura-yā](madanāturayā) [saha](saha)
 
 ## mukta-m0-p18-v428
-[anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīya](pūjanīyā) [vidhāna](vidhānataḥ)
+[anaṃga-mālinī](anaṃgamālinī) [ca](cā) [aṣṭau](aṣṭau) [pūjanīya](pūjanīyā) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[ānanda-cakra](ānaṃdacakram) [ānanda](ānaṃda) [kolāhala](kolāhala) [vivardhana](vivarddhanam)
+[ānaṃda-cakra](ānaṃdacakram) [ānaṃda](ānaṃda) [kolāhala-vivarddhana](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-[taṭit-prabhā](taṭitprabhā) [samullāsa](samullāsa) [piṃjara](piṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
+[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjara](samullāsapiṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[anaṃga-śakti](anaṃgaśakti) [saṃkṣobha](saṃkṣobhāṃ) [nāḍī](nāḍībhyo) [galita](galitaṃ) [nava](navam)
+[anaṃga-śakti-saṃkṣobha](anaṃgaśakti+saṃkṣobhāṃ) [nāḍī-bhyaḥ-galita](nāḍībhyogalitaṃ) [nava](navam)
 
 ## mukta-m0-p18-v432
-[śṛṃgāra-vāhinī](śṛṃgāravāhinī) [pūra](pūra) [pūrṇa-rāga](pūrṇarāgāṃ) [kura-aruṇa](kurāruṇam)
+[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāga](pūrṇarāgāṃ) [kura-aruṇa](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[manmatha-drava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭa](juṣṭam) [artha-prabheda](arthaprabhedanaiḥ)
+[manmatha-drava-saṃdoha](manmathadrava+saṃdoha) [juṣṭa](juṣṭam) [artha-prabhedana](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[ka](keyaṃ) [caṃdra-kalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+[kā](keyaṃ) [caṃdra-kalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[śṛṇu](śṛṇu) [kāma-kalā](kāmakalā) [nāma](nāma) [nāḍī-bhoga](nāḍībhoga) [ambu-vāhinī](aṃbuvāhinī)
+[śṛṇu](śṛṇu) [kāma-kalā](kāmakalā) [nāma](nāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
 [nāḍī-cakra](nāḍīcakraṃ) [samasta](samastaṃ) [ca](ca) [tayā](tayā) [vyāpta](vyāptaṃ) [varānane](varānane)
 
 ## mukta-m0-p18-v437
-[kāścit](kāścid) [ānanda-vāhinī](ānaṃdavāhinya) [eka](eka) [eva](eva) [amala-vāhinī](amalavāhinī)
+[kāścit](kāścid) [ānaṃda-vāhinī](ānaṃdavāhinya) [ekā](eka) [eva](eva) [amala-vāhinī](amalavāhinī)
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭau) [bhoga-aṃbu-vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra-kalā](caṃdrakalā) [parā](parā)
+[aṣṭau](aṣṭau) [bhoga-ambu-vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra-kalā](caṃdrakalā) [parā](parā)
 
 ## mukta-m0-p18-v439
-[caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
+[caṃdra-rekhā](caṃdrarekhā) [caṃdra-vatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[etā](etā) [bhoga-aṃbu-vāhinī](bhogāṃbuvāhinya) [sva-aṃśa](svāṃśaiḥ) [caṃdra-kalā](caṃdrakalā) [āśrita](āśritāḥ)
+[etāḥ](etā) [bhoga-ambu-vāhinī](bhogāṃbuvāhinya) [sva-aṃśaiḥ](svāṃśaiḥ) [caṃdra-kalā-āśritāḥ](caṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-[pradhāna-bhūta](pradhānabhūtā) [vilasat](vilasad) [vidyut-dāma](vidyuddāma) [sama-prabhā](samaprabhā)
+[pradhāna-bhūtā](pradhānabhūtā) [vilasad](vilasad) [vidyut-dāma](vidyuddāma) [sama-prabhā](samaprabhā)
 
 ## mukta-m0-p18-v442
-[sarva-nāḍī-mūla-bhūta](sarvanāḍīmūlabhūtaṃ) [nābhi-cakra](nābhicakraṃ) [samāśrita](samāśritā)
+[sarva-nāḍī-mūla-bhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhi-cakraṃ](nābhicakraṃ) [samāśritā](samāśritā)
 
 ## mukta-m0-p18-v443
-[tat](tan) [mukha-udghāṭana](mukhotghāṭanaṃ) [loke](loke) [durlabha](durlabhaṃ) [parameśvarī](parameśvari)
+[tat](tan) [mukha-udghāṭana](mukhot+ghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
 
 ## mukta-m0-p18-v444
-[dvi-tri](dvitrāṇām) [eva](eva) [jāyeta](jāyeta) [sahasra](sahasreṣu) [atha](atha) [kauli](kauliṣu)
+[dvi-trāṇām](dvitrāṇām) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](atha) [kauliṣu](kauliṣu)
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛt) [vā](vā) [api](api) [janman](janmani)
+[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛt) [vā](vā) [api](api) [janmani](janmani)
 
 ## mukta-m0-p18-v446
-[anirvācya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nadaviyasī](nadaviyasī)
+[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nadaviyasī](nadaviyasī)
 
 ## mukta-m0-p18-v447
-[samaya](samayasya) [parijñāna](parijñānāt) [upacāra](upacārasya) [kalpanā](kalpanāt)
+[samayasya](samayasya) [parijñānāt](parijñānāt) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid](kvacid) [unmeṣa](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇa](mukhodghāṭanalakṣaṇam)
+[kadācit](kadācit) [kvacid](kvacid) [unmeṣaṃ](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-[tad-artha](tadarthāni) [eva](eva) [śāstra](śāstrāṇi) [tad-artha](tadarthāś) [ca](ca) [pravṛtti](pravṛttayaḥ)
+[tat](tadarthānyevaśāstrāṇi) [artha](tadarthāśca) [pravṛttayaḥ](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[tasmāt](tasmāt) [caṃdra-kalā-nāḍī](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhi](bhogāmṛtamahodadhim)
+[tasmāt](tasmāt) [caṃdra-kalā-nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
