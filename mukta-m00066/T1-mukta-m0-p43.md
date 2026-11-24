@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-having-reached(prāpya) there(tatra) strength-place(balasthānaṃ) in-shining-gems(dīptaratneṣu) in-houses(veśmasu)
+prāpya(having-obtained) tatra(there) balasthānam(power-place) dīptaratneṣu(in-shining-gems) veśmasu(in-houses)
 
 ## mukta-m0-p43-v1052
-from-that(tasmād) this(idaṃ) great-sacrifice(mahāyāgaṃ) difficult(durllabhaṃ) even-of-winds(marutām+api)
+tasmāt(from-that) idam(this) mahāyāgam(great-sacrifice) durllabham(difficult-to-obtain) marutām(of-winds) api(even)
 
 ## mukta-m0-p43-v1053
-otherwise(anyathā+karaṇād) goddess(devī) downfall(vinipātaḥ) arises(prajāyate)
+anyathākaraṇāt(by-doing-otherwise) devī(goddess) vinipātaḥ(fall) prajāyate(is-born)
 
 ## mukta-m0-p43-v1054
-in-this-authoritative(prāmāṇike+asmin) beautiful-hipped(suśroṇi) on-path(mārge) living(jīvati) trusting(viśvasan)
+prāmāṇike(in-authoritative) asmin(this) suśroṇi(fair-hipped) mārge(path) jīvati(living) viśvasan(trusting)
 
 ## mukta-m0-p43-v1055
-in-mantra(maṃtre) in-mantra(maṃtre) tu(tu) to-be-done(karttavye) in-medicine(bheṣaje) in-deity(daivate) in-guru(gurau)
+maṃtre(in-mantra) maṃtre(in-mantra) tu(but) karttavye(to-be-done) bheṣaje(in-medicine) daivate(in-deity) gurau(in-teacher)
 
 ## mukta-m0-p43-v1056
-elders(vṛdhā)
+vṛdhā(growth)
 
 ## mukta-m0-p43-v1057
-see(paśya) greatness-of-faith(viśvāsa+māhātmyaṃ) stone-wood-clay-etc(śilā+dāru+mṛd+ādikam)
+paśya(see) viśvāsa(faith) māhātmyam(greatness) śilā(stone) dāru(wood) mṛdādikam(clay-etc)
 
 ## mukta-m0-p43-v1058
-unconscious(acetanaṃ) inert-substance(jaḍa+dravyaṃ) by-whom(kena) success(siddhiṃ) grants(prayacchati)
+acetanam(unconscious) jaḍadravyam(inert-substance) kena(by-whom) siddhim(success) prayacchati(gives)
 
 ## mukta-m0-p43-v1059
-action-faith(karma+śraddhā) tradition(saṃpradāyā) both(vubhāvetau) activators(pravarttakau)
+karma(action) śraddhā(faith) saṃpradāyā(tradition) ubhau(both) etau(these) pravarttakau(promoters)
 
 ## mukta-m0-p43-v1060
-always-pure(sadā+amalīmasā) fools(mūrkhāś) caṇḍāla-etc(caṃḍāla+ādyāś+ca) castes(jātayaḥ)
+sadā(always) malīmasā(impure) mūrkhāḥ(fools) caṃḍālādyāḥ(outcaste-etc) ca(and) jātayaḥ(castes)
 
 ## mukta-m0-p43-v1061
-no-conduct(nācāro) nor(na+ca) vā(vā) purity(śaucaṃ) no-learning(na+viduṣyaṃ) no-intellect-virtues(na+dhī+guṇāḥ)
+na(no) ācāra(conduct) na(no) ca(and) vā(or) śaucam(purity) na(no) vaiduṣyam(learning) na(no) dhīguṇāḥ(intellect-qualities)
 
 ## mukta-m0-p43-v1062
-faith(viśvāso) named(nāma) of-mind(manasaḥ) firmness(dṛḍhatā) in-mantra-achievement(maṃtra+sādhane)
+viśvāsaḥ(faith) nāma(called) manasaḥ(of-mind) dṛḍhatā(firmness) maṃtra(mantra) sādhane(in-accomplishment)
 
 ## mukta-m0-p43-v1063
-thus(evaṃ) faith-attained(viśvāsa+māpannaḥ) fruit-seeker-phalavigrahaḥ(phalārthi+phala+vigrahaḥ)
+evam(thus) viśvāsam(faith) āpannaḥ(obtained) phalārthi(desiring-fruit) phala(fruit) vigrahaḥ(form)
 
 ## mukta-m0-p43-v1064
-brāhmaṇa-kṣatriya-vaiśya(brāhmaṇa+kṣatriya+viśā) authority-here(madhikāro+atra) rule(śāsanam)
+brāhmaṇa(brāhmaṇa) kṣatriya(kṣatriya) viśa(merchant) adhikāraḥ(authority) atra(here) śāsanam(rule)
 
 ## mukta-m0-p43-v1065
-hero-service(vīra+śuśrūṣaṇaṃ) their(teṣām) desired-fruit-success(abhiṣṭa+phala+siddhayaḥ)
+vīra(hero) śuśrūṣaṇam(service) teṣām(their) abhiṣṭa(desired) phala(fruit) siddhayaḥ(accomplishments)
 
 ## mukta-m0-p43-v1066
-of-vaiśya(vaiśyasya) merchandise-profit(paṇya+lābha+ardhaṃ) of-śūdra(sudrāder) never(na+kadācana)
+vaiśyasya(of-vaiśya) paṇya(goods) lābha(profit) ardham(half) śūdrādeḥ(of-śūdra-etc) na(never) kadācana(ever)
 
 ## mukta-m0-p43-v1067
-one-caste-only(eka+eva+jātir) woman(nārī) iti(iti) to-be-accepted(grāhyā) when-marks-present(lakṣaṇa+saṃbhave)
+ekā(one) eva(only) jātiḥ(caste) nārī(woman) iti(thus) grāhyā(to-be-taken) lakṣaṇa(mark) saṃbhave(in-occurrence)
 
 ## mukta-m0-p43-v1068
-worship-means(pūjā+sādhanaṃ) these(etā) hi(hi) by-me(mayā) created(sṛṣṭā) deer-eyed(mṛgī+dṛśaḥ)
+pūjā(worship) sādhanam(means) etāḥ(these) hi(indeed) mayā(by-me) sṛṣṭā(created) mṛgīdṛśaḥ(deer-eyed)
 
 ## mukta-m0-p43-v1069
-cows(gāvaḥ) tu(tu) back-pure(pṛṣṭhato+medhyā) pure-by-face(medhyā+vaktreṇa) speakers(vādinaḥ)
+gāvaḥ(cows) tu(but) pṛṣṭhataḥ(from-behind) medhyāḥ(pure) medhyāḥ(pure) vaktreṇa(by-mouth) vādinaḥ(speakers)
 
 ## mukta-m0-p43-v1070
-woman's-face(strī+mukhaṃ) tu(tu) always-pure(sadā+śuddhiḥ) no-leftover(na+ucciṣṭaṃ) there(tatra) exists(vidyate)
+strī(woman) mukham(face) tu(but) sadā(always) śuddhiḥ(purity) na(no) ucciṣṭam(leftover) tatra(there) vidyate(exists)
 
 ## mukta-m0-p43-v1071
-without-them(tābhir+vinā) no-sacrifice(na+yajño+asti) no-austerity(na+tapo+asti) na(na) vā(vā) vow(vratam)
+tābhiḥ(by-them) vinā(without) na(no) yajñaḥ(sacrifice) asti(is) na(no) tapaḥ(austerity) asti(is) na(no) vā(or) vratam(vow)
 
 ## mukta-m0-p43-v1072
-eight-oblations(aṣṭā+hutiḥ) in-great-sacrifice(mahāyāge) chief(pradhānaṃ) messengers(dūtikāḥ) remembered(smṛtāḥ)
+aṣṭa(eight) āhutiḥ(oblation) mahāyāge(in-great-sacrifice) pradhānam(principal) dūtikāḥ(messengers) smṛtāḥ(remembered)
 
 ## mukta-m0-p43-v1073
-bringing-together(ānīya+ghaṭiyatyeṣā) therefore(tasmād) messenger(dūti) proclaimed(prakīrtitā)
+ānīya(bringing) ghaṭayati(unites) eṣā(this) tasmāt(therefore) dūtī(messenger) prakīrtitā(proclaimed)
 
 ## mukta-m0-p43-v1074
-messenger(dūtī) by-wise(tena+budhaiḥ) said(proktā) thought(ciṃtā) grief-remover(saṃtāpa+rodhinī)
+dūtī(messenger) tena(by-that) budhaiḥ(by-wise) proktā(spoken) ciṃtā(anxiety) saṃtāpa(sorrow) rodhinī(preventing)
 
 ## mukta-m0-p43-v1075
-enjoyer(enjoyer) enjoyment-lakṣmī(bhoga+lakṣmī) ca(ca) her(tasyāḥ) synonyms(paryāya) sūktayaḥ(sūktayaḥ)
+bhoginī(enjoyer) bhoga(enjoyment) lakṣmī(wealth) ca(and) tasyāḥ(her) paryāya(synonym) sūktayaḥ(hymns)
