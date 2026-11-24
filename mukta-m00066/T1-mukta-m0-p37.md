@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-mind-thus-word-speak semen-release-two-say
+[mind](citte) [thus](iti) [word](padaṃ) [saying](procya) [semen](reto) [releasing-two](muṃcadvayaṃ) [says](vadet)
 
 ## mukta-m0-p37-v902
-thus-mantra-chanting-just linga-dance-perform
+[thus](evaṃ) [mantra](maṃtraṃ) [chanting](japanneva) [linga-dance](liṃgatāṃḍavam) [performs](ācaret)
 
 ## mukta-m0-p37-v903
-pulsing-secret-secret-action release supreme-nectar
+[sparkling](sphurad) [hidden-hidden](gupigupit) [sound](kāraṃ) [releases](vimuṃcati) [supreme-nectar](parāmṛtam)
 
 ## mukta-m0-p37-v904
-yamuna-water-lords sprinkling-fruit-enjoy
+[yamuna-waters](yamunāsalilair) [lords](īśāḥ) [sprinkling-fruit](saṃśekaphalamaśnute)
 
 ## mukta-m0-p37-v905
-give pashupati-state and sacrificer-form abode
+[gives](datte) [pashupati-state](paśupatatvaṃ) [ca](ca) [sacrificer-abiding](yajamānamayīṃ) [state](sthitim)
 
 ## mukta-m0-p37-v906
-all-thus-mantras self-just manifest
+[all](sarveṣām) [thus-mantras](evamaṃtrāṇāṃ) [by-itself](svayameva) [shines](prakāśatā)
 
 ## mukta-m0-p37-v907
-poetry-supreme-limit rasa-fortune-possessing
+[poetry](kavitvasya) [supreme-limit](parākāṣṭhā) [rasa-fortune-possessing](rasasaubhāgyaśālinī)
 
 ## mukta-m0-p37-v908
-activity and cessation and beings-like all
+[activity](pravṛttiṃ) [ca](ca) [cessation](nivṛttiṃ) [ca](ca) [beings-like](bhūtānāmiva) [everywhere](sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-rasa-siddhi sandals-siddhi eye-ointment thus
+[rasa-attainment](rasasiddhiṃ) [sandal](pādukāyāḥ) [attainment](siddhiṃ) [eye-salve](nidhyaṃjanaṃ) [thus](tathā)
 
 ## mukta-m0-p37-v910
-sky-travel and just other-body entry
+[sky-going](ākāśagamane) [ca](ca) [eva](eva) [other-body](parakāya) [entering](praveśane)
 
 ## mukta-m0-p37-v911
-image-moving and just spirit-vetala seeing
+[idol-moving](pratimācalane) [ca](ca) [eva](eva) [spirit-vetala](bhūtavetāla) [seeing](vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-skill supreme-attain seventh-offering adept
+[skill](pāṭavaṃ) [supreme](paramaṃ) [gives](ghatte) [seventh-offering](saptamāhuti) [accomplisher](sādhakaḥ)
 
 ## mukta-m0-p37-v913
-great-linga-great-lord own-rasa-and moonlight
+[great-linga](mahāliṃgamaheśāna) [own-juices](svarasaiś) [moon-moonlight](cāṃdracaṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-seven-wells-boundary pond-fame increasing
+[seven-wells](saptakūpāraparyaṃta) [pond-fame](vāpikīrti) [increasing](vivardhanī)
 
 ## mukta-m0-p37-v915
-this-offering time messenger-? state say
+[this-offering](etadāhuti) [time](velāyāṃ) [messenger](dūtikā) [va](va) [state](sthitiṃ) [says](bruve)
 
 ## mukta-m0-p37-v916
-bliss happiness-abundance very slow-body
+[bliss](ānaṃda) [happiness-abundance](sukhasaṃbhārād) [ati](ati) [slowness](maṃtharatātanau)
 
 ## mukta-m0-p37-v917
-great-bliss-milk-ocean immersion but moment moment
+[great-bliss-ocean](mahānaṃdapayorāśau) [immersion](majjanaṃ) [tu](tu) [moment-moment](kṣaṇe kṣaṇe)
 
 ## mukta-m0-p37-v918
-lover-arm embrace slight loosening thus
+[lover-arm](ramaṇasyabhujā) [embrace](śleṣaṃ) [somewhat](kiṃcit) [loosening](chlathanatā) [thus](tathā)
 
 ## mukta-m0-p37-v919
-hip-orb behind love-umbrella dance
+[hip-orb](nitaṃbabiṃbakaṃ) [after](paścāt) [love-umbrella](kāmacchatrasya) [dancing](narttanam)
 
 ## mukta-m0-p37-v920
-speech-interrupted interrupted-repeated and much
+[speech-broken](vacovicchinna) [broken-again](vicchinnapunaruktaṃ) [ca](ca) [repeatedly](bhūyasā)
 
 ## mukta-m0-p37-v921
-unrelated-meaning slight slight-dry and weeping
+[unconnected-meaning](asaṃbaṃdhārthanaṃ) [somewhat](kiṃcit) [somewhat-dry](kiṃcicchuṣkaṃ) [ca](ca) [weeping](rodanam)
 
 ## mukta-m0-p37-v922
-enough lord salutation-to-you again-folded-hands
+[enough](alaṃ) [lord](nātha) [salute](namastubhyaṃ) [again](punasteracitoṃjaliḥ)
 
 ## mukta-m0-p37-v923
-not endure-your speed not endure-your passion
+[not](na) [endure](sahebhavato) [speed](vegaṃ) [not](na) [endure](sahebhavatoratim)
 
 ## mukta-m0-p37-v924
-why me rasa-trough in immerse cruel
+[why](kimarthaṃ) [me](māṃ) [rasa-vat](rasadroṇyāṃ) [immerse](majjayasyevanirghṛṇā)
 
 ## mukta-m0-p37-v925
-eat what-your all-limb release-me release-beloved
+[eat](khādāmi) [what](kiṃte) [all-limbs](sarvāṃgaṃ) [release-me](muṃcamāṃ) [release-beloved](muṃcavallabha)
