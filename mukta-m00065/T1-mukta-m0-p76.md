@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-śiva-umā-mantra-yogena (by union of śiva-umā mantra) sandhānam (joining) bhūti-kāṅkṣiṇām (of prosperity-seekers)
+[by-śiva-umā-mantra-yoga](śivomāmantrayogena) [union](sandhānaṃ) [of-those-desiring-prosperity](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-mūrti-ādi-aṅka-avasānam (ending of mūrti etc. marks) tu (but) punaḥ (again) evam (thus) tu (and) vinyaset (one should place)
+[mūrti-etc-ending](mūrtyādyaṅkāvasānaṃ) [but](tu) [again-thus](punarevaṃ) [but](tu) [should-place](vinyaset)
 
 ## mukta-m0-p76-v1878
-tataḥ (then)
+[then](tataḥ)
 
 ## mukta-m0-p76-v1879
-rudra-ādīnām (of rudra and others) tu (but) sarveṣām (of all) sthāpanam (installation) tattvataḥ (truly) kramāt (in order)
+[rudra-etc-of](rudrādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [installation](sthāpanaṃ) [truly](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-ātma-vidyāḥ (self-knowledges) śivam (śiva) ca (and) eva (indeed) bhāvayet (one should meditate) anupūrvataḥ (in sequence)
+[self-knowledge](ātmavidyāḥ) [śiva](śivaṃ) [and-indeed](caiva) [should-meditate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-vyavasthitāḥ (established)
+[established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-vidyā-tattve (in knowledge-principle) sthitāḥ (situated) hi (indeed) ete (these) sādhikāre (with authority) viduḥ (know) budhāḥ (the wise)
+[knowledge-principle](vidyātattve) [situated](sthitā) [indeed-these](hyete) [with-authority](sādhikāre) [know-the-wise](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-tri-tattva-vyāptiḥ (pervasion of three principles) ākhyātā (declared) panthānaḥ (paths) ṣaḍ-vidhāḥ (sixfold) tu (indeed) iha (here)
+[three-principle-pervasion](tritattvavyāptirākhyātā) [paths](panthānaḥ) [six-fold-indeed-here](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
-kramāt (in order)
+[in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-triṃśat-pañca-adhikam (thirty-five plus) tattvam (principle) san-mārgam (true path) pīṭham (seat) aiśvaram (lordly)
+[thirty-five-plus](triṃśatpañcādhikaṃ) [principle](tattvaṃ) [true-path](sanmārgaṃ) [lordly-seat](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-bhujaḥ (arms) tu (but) daśabhiḥ (with ten) yuktam (joined) jaṭā-mukuṭa-maṇḍitam (adorned with matted crown)
+[with-arms-but](bhujaistu) [ten](daśabhiryuktaṃ) [matted-crown-adorned](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-gaṇaiḥ (by gaṇas) devaiḥ (by gods) tathā (and) siddhaiḥ (by siddhas) stūyamānaiḥ (being praised) samāyutam (accompanied)
+[by-gaṇas-gods-and](gaṇairdevaistathā) [by-siddhas](siddhaiḥ) [being-praised](stūyamānaiḥ) [accompanied](samāyutam)
 
 ## mukta-m0-p76-v1888
-sadyolātena (by sadyolāta) saṃcintya (having meditated) vāmadevena (by vāmadeva) vinyaset (one should place)
+[by-sadyojāta](sadyolātena) [having-contemplated](saṃcintya) [by-vāmadeva](vāmadevena) [should-place](vinyaset)
 
 ## mukta-m0-p76-v1889
-bodha-kriyā-niviṣṭam (engaged in awakening action) tu (but) jñeyam (to be known) jñāna-āśritam (supported by knowledge) smaret (one should remember)
+[cognition-action-invested](bodhakriyāniviṣṭaṃ) [but](tu) [knowable](jñeyaṃ) [knowledge-supported](jñānāśritaṃ) [should-remember](smaret)
 
 ## mukta-m0-p76-v1890
-dhvani-madhya-gatā (situated in middle of sound) tārā (tārā) tārā-madhya-gateḥ (of one gone into middle of tārā) śaśī (moon)
+[sound-middle-gone](dhvanimadhyagatā) [tārā](tārā) [tārā-middle-gone](tārāmadhyagateḥ) [moon](śaśī)
 
 ## mukta-m0-p76-v1891
-ravi-madhya-gataḥ (situated in middle of sun) śāntaḥ (peaceful) śānta-madhya-gataḥ (situated in middle of peace) śivaḥ (śiva)
+[sun-middle-gone](ravimadhyagataḥ) [peaceful](śāntaḥ) [peace-middle-gone](śāntamadhyagataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p76-v1892
-tadā (then) dig-devatā-homaḥ (oblation to directional deities) kāryā (to be done) śāntiḥ (peace) ca (and) doṣa-hṛt (removing faults)
+[then](tadā) [direction-deity-homa](digdevatāhomaḥ) [should-be-done](kāryā) [peace-and](śāntiśca) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-anyathā (otherwise) tu (but) bhavet (would be) ghoraṃ (terrible) kartṛ-rāṣṭra-virūpakam (disfiguring doer and kingdom)
+[otherwise](anyathā) [but](tu) [would-be-terrible](bhavedghoraṃ) [agent-kingdom-deforming](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-gajam (elephant) chāgam (goat) lulāyam (lulāya) ca (and) dāsīm (female servant) matsyam (fish) mṛga-avikam (deer and sheep)
+[elephant](gajaṃ) [goat](chāgaṃ) [lulāya](lulāyaṃ) [and](ca) [female-slave](dāsīṃ) [fish](matsyaṃ) [deer-sheep](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-pakṣa-sūtram (thread of wing) tataḥ (then) dadyāt (one should give) ṛju-artham (for straightness) lamba-sūtrakam (hanging thread)
+[wing-thread](pakṣasūtraṃ) [then](tato) [should-give](dadyādṛjvarthaṃ) [hanging-thread](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-calile (in moving) śabdite (in sounding) bhrānte (in confused) praṇate (in bowed) svasthite (in well-placed) kramāt (in order)
+[moving](calile) [sounded](śabdite) [confused](bhrānte) [bowed](praṇate) [steadied](svasthite) [in-order](kramāt)
 
 ## mukta-m0-p76-v1897
-kṣīra-loha-malaiḥ (with milk, metal, impurities) śubhaiḥ (auspicious)
+[milk-metal-impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-tataḥ (then) śānti-ghaṭām (peace-pots) mobhiḥ (with) snānam (bathing) mūrti-dharāḥ (image-bearers) svakam (own)
+[then](tataḥ) [peace-pot-?](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [image-bearers](mūrtidharāḥ) [own](svakam)
 
 ## mukta-m0-p76-v1899
-toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ (with water, milk, curd, honey, ghee, water inner-natured)
+[water-milk-curd-honey-ghee-water-inner-natured](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-mugdā (mugdā) dyaṅgula-mātrasya (of measure of two fingers) calasya (of moving) sthāpane (in placement) hitam (beneficial)
+[?](mugdā) [finger-measure](dyaṅgulamātrasya) [of-moving](calasya) [for-placement](sthāpane) [beneficial](hitam)
