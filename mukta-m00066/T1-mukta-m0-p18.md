@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-limbless-power eight and worship-worthy by-wise
+[desire-powers+eight](anaṃgaśaktayoṣṭau) [but](tu) [to-be-worshipped](pūjanīyāḥ) [by-wise-ones](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-limbless-madana-limbless madana-afflicted with
+[desire+madana+desire](anaṃgamadanānaṃga) [with-madana-afflicted-one](madanāturayā) [with](saha)
 
 ## mukta-m0-p18-v428
-limbless-garlanded and eight worship-worthy duly
+[desire-garlanded-one](anaṃgamālinī) [and](ca) [eight](aṣṭau) [to-be-worshipped](pūjanīyāḥ) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-bliss-wheel bliss uproar-increasing
+[bliss-wheel](ānaṃdacakram) [bliss](ānaṃda) [uproar-increasing](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-lightning-radiance shining cage with-desire-rays
+[lightning-radiance](taṭitprabhā) [shining](samullāsa) [yellowish](piṃjaraiḥ) [with-desire-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-limbless-power agitation channels-from-flowing new
+[desire-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-channels](nāḍībhyaḥ) [flowing](galitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-erotic-flow full-passion red-dark
+[erotic-flow](śṛṃgāravāhinī) [full](pūra) [full-of-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
 
 ## mukta-m0-p18-v433
-cupid-fluid abundance joined meaning-distinctions
+[love-fluid](manmathadrava) [abundance](saṃdoha) [enjoyed](juṣṭam) [with-meaning-distinctions](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-who this moon-digit named where resides shankara
+[who-is-this](keyaṃ) [moon-digit-named](caṃdrakalānāma) [where](kutra) [stands](tiṣṭhati) [shankara](śaṃkara)
 
 ## mukta-m0-p18-v435
-listen cupid-digit named channel-enjoyment-water-carrying
+[listen](śṛṇu) [desire-digit-named](kāmakalānāma) [channel-enjoyment-water-carrying](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-channel-wheel all and by-her pervaded best-faced
+[channel-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [best-faced-one](varānane)
 
 ## mukta-m0-p18-v437
-some bliss-carrying one thus impurity-carrying
+[some](kāścit) [bliss-carrying](ānaṃdavāhinyaḥ) [one](eka) [thus](evam) [impurity-carrying](malavāhinī)
 
 ## mukta-m0-p18-v438
-eight enjoyment-water-carrying and in-them moon-digit supreme
+[eight](aṣṭau) [enjoyment-water-carrying](bhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit](caṃdrakalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-moon-streak moon-possessing and moon-great-rising
+[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-great-rising](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-these enjoyment-water-carrying by-own-parts moon-digit-dependent
+[these](etāḥ) [enjoyment-water-carrying](bhogāṃbuvāhinyaḥ) [by-own-parts](svāṃśaiḥ) [moon-digit-dependent](caṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-principal shining lightning-garland equal-radiance
+[principal](pradhānabhūtā) [shining](vilasad) [lightning-garland](vidyuddāma) [equal-radiance](samaprabhā)
 
 ## mukta-m0-p18-v442
-all-channels-root navel-wheel resorted
+[all-channels-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted-to](samāśritā)
 
 ## mukta-m0-p18-v443
-that mouth-opening in-world rare supreme-goddess
+[its](tan) [mouth-opening](mukhotghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-of-two-three only arises among-thousands then-kaulikas
+[of-two-or-three](dvitrāṇām) [eva](eva) [becomes](jāyeta) [among-thousands](sahasreṣu) [then](atha) [kaulikas](kauliṣu)
 
 ## mukta-m0-p18-v445
-whose linga-lord-union once-or-water-birth
+[whose](yasya) [linga-lord-union](liṃgesvarāseka) [once](sakṛt) [or](vā) [in-birth](janmani)
 
 ## mukta-m0-p18-v446
-ineffable liberation path sky-like
+[of-ineffable](anirvācyasya) [liberation](nirvāṇa) [path](padavī) [unobstructed](nadaviyasī)
 
 ## mukta-m0-p18-v447
-convention knowledge from worship-rite conception
+[of-convention](samayasya) [knowledge](parijñānāt) [of-worship](upacārasya) [conception](kalpanāt)
 
 ## mukta-m0-p18-v448
-sometimes somewhere manifestation mouth-opening-marked
+[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth-opening-mark](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-that-purpose scriptures that-purpose activities
+[for-that](tadartha) [only](eva) [scriptures](śāstrāṇi) [for-that](tadartha) [activities](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-therefore moon-digit-channel enjoyment-nectar-great-ocean
+[therefore](tasmāt) [moon-digit-channel](caṃdrakalānāḍyāṃ) [enjoyment-nectar-great-ocean](bhogāmṛtamahodadhim)

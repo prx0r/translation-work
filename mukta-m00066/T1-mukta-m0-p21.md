@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[diseases-surely](rogāṇyavaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvo) [of-thing](vāsya) [thing](vastunaḥ)
+[diseases](rogāṇyavaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvo) [of-thing](vāsya) [thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-[he-is-virabhadra](sa) [virabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction-bhairava](saṃhāra) [bhairava](bhairavaḥ)
+[he-is](sa) [virabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-[from-daksha-anger](dakṣakopātprajvalataḥ) [his-limb](tasyāṃgādromakūpataḥ)
+[from-daksha's-anger](dakṣakopātprajvalataḥ) [from-his-limbs](tasyāṃgādromakūpataḥ)
 
 ## mukta-m0-p21-v504
-[those](tamanuproddhitāḥ) [all](sarve) [diseases](vyādhayovividhakramāḥ)
+[all](sarve) [diseases](vyādhayovividhakramāḥ) [arose](tamanuproddhitāḥ)
 
 ## mukta-m0-p21-v505
-[extremely-unsteady](atyaṃtalolādurvārāḥ) [burning](prajvalaṃtaḥ) [always](sadāmuṣā)
+[extremely-unsteady](atyaṃtalolādurvārāḥ) [ever-burning](prajvalaṃtaḥ) [always](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-[having-resorted](tamāśritya) [great-being](mahāsatvaṃ) [virabhadra](vīrabhadraṃ) [great-rise](mahodayam)
+[taking-refuge](tamāśritya) [great-being](mahāsatvaṃ) [virabhadra](vīrabhadraṃ) [great-glory](mahodayam)
 
 ## mukta-m0-p21-v507
-[sinful-natured](pāpaśīlān) [bad-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
+[sinful](pāpaśīlān) [misbehaving](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-[scripture](āgama) [hostile](drohiṇo) [sinful](pāpān) [vain-quarrel-making](vṛthākalahakāriṇaḥ)
+[scripture-opposing](āgama) [sinners](drohiṇo) [sinful](pāpān) [quarrel-making](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
 [devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
@@ -41,34 +41,34 @@
 [fearing](āśaṃkamānairvilaya) [great-swan](mahaṃsaṃprārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-[supreme-brahman](parabrahmaḥ) [tasty](sāsvādamayamānaṃdadāyakam)
+[supreme-brahman](parabrahmaḥ) [nectar-giving](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-[he](sa) [bindu](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
+[he](sa) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
 
 ## mukta-m0-p21-v516
-[entered](viveśacauṣadhiḥ) [all](sarvāḥ) [moon-formed](somarūpomahārasaḥ)
+[entered](viveśacauṣadhiḥ) [all](sarvāḥ) [moon-form](somarūpomahārasaḥ)
 
 ## mukta-m0-p21-v517
 [then](tataḥ) [from](prabhṛti) [herbs](vīrutsujāgartti) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [tu](tu) [for-fever-etc-removal](jvarādīnāṃ) [vinuttaye](vinuttaye)
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [for-removal](tu) [fever-etc](jvarādīnāṃ) [vinuttaye](vinuttaye)
 
 ## mukta-m0-p21-v519
-[bodily-medicine](śārīravaidyake) [proclaimed](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
+[bodily-medicine](śārīravaidyake) [stated](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-[as](yathā) [body](dehojvaraṃ) [fever](śītaṃ) [bile](pittaṃ) [phlegm](śleṣmamalonilaḥ)
+[as](yathā) [body](dehojvaraṃ) [fever](śītaṃ) [phlegm](pittaṃ) [bile](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [proclaimed](proktāḥ) [anger](krodhodveṣaścamatsaraḥ)
+[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [stated](proktāḥ) [anger](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-[disgust](nirvedaśca) [terror](paritrāsaḥ) [doubt](śaṃkākutsitaciṃtanam)
+[despair](nirvedaśca) [terror](paritrāsaḥ) [doubt](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-[variability](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
+[unsteadiness](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
 
 ## mukta-m0-p21-v524
 [of-all](sarvasyakutsā) [habit](śīlatvaṃ) [everywhere](sarvatrāpi) [disgust](jugupsanam)
