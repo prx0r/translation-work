@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[prāpya](prāpya) [tatra](tatra) [balasthānam](balasthānaṃ) [dīptaratneṣu](dīptaratneṣu) [veśmasu](veśmasu)
+having-reached (prāpya) there (tatra) strength-place (balasthānaṃ) in-shining-gems (dīptaratneṣu) in-houses (veśmasu)
 
 ## mukta-m0-p43-v1052
-[tasmāt](tasmād) [idam](idaṃ) [mahāyāgam](mahāyāgaṃ) [durllabham](durllabhaṃ) [marutām](marutām) [api](api)
+from-that (tasmād) this (idaṃ) great-sacrifice (mahāyāgaṃ) difficult (durllabhaṃ) for-winds (marutām) even (api)
 
 ## mukta-m0-p43-v1053
-[anyathākaraṇāt](anyathākaraṇād) [devī](devī) [vinipātaḥ](vinipātaḥ) [prajāyate](prajāyate)
+otherwise-doing (anyathākaraṇād) goddess (devī) fall (vinipātaḥ) arises (prajāyate)
 
 ## mukta-m0-p43-v1054
-[prāmāṇike](prāmāṇike) [asmin](asmin) [suśroṇi](suśroṇi) [mārge](mārge) [jīvati](jīvati) [viśvasan](viśvasan)
+in-authoritative (prāmāṇike) this (asmin) beautiful-hipped (suśroṇi) path (mārge) living (jīvati) trusting (viśvasan)
 
 ## mukta-m0-p43-v1055
-[maṃtre](maṃtre) [maṃtre](maṃtre) [tu](tu) [karttavye](karttavye) [bheṣaje](bheṣaje) [daivate](daivate) [gurau](gurau)
+in-mantra (maṃtre) in-mantra (maṃtre) but (tu) to-be-done (karttavye) in-medicine (bheṣaje) in-deity (daivate) in-guru (gurau)
 
 ## mukta-m0-p43-v1056
-[vṛdhā](vṛdhā)
+growth (vṛdhā)
 
 ## mukta-m0-p43-v1057
-[paśya](paśya) [viśvāsamāhātmyam](viśvāsamāhātmyaṃ) [śilā](śilā) [dāru](dārum) [mṛd](mṛdā) [ādikam](dikam)
+see (paśya) faith-greatness (viśvāsamāhātmyaṃ) stone-wood-clay-etc (śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
-[acetanam](acetanaṃ) [jaḍadravyam](jaḍadravyaṃ) [kena](kena) [siddhim](siddhiṃ) [prayacchati](prayacchati)
+unconscious (acetanaṃ) inert-substance (jaḍadravyaṃ) by-whom (kena) success (siddhiṃ) gives (prayacchati)
 
 ## mukta-m0-p43-v1059
-[karma](karma) [śraddhā](śraddhā) [saṃpradāyā](saṃpradāyā) [ubhau](vubhāvetau) [etau](etau) [pravarttakau](pravarttakau)
+action-faith (karmaśraddhā) tradition (saṃpradāyā) both-these (vubhāvetau) promoters (pravarttakau)
 
 ## mukta-m0-p43-v1060
-[sadā](sadā) [malīmasā](malīmasā) [mūrkhāḥ](mūrkhāś) [caṃḍāla](caṃḍālā) [ādyāḥ](dyāś) [ca](ca) [jātayaḥ](jātayaḥ)
+always-impure (sadāmalīmasā) fools (mūrkhāḥ) caṇḍāla-etc (caṃḍālādyāḥ) and (ca) castes (jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[na](nā) [ācāraḥ](cāro) [na](na) [ca](ca) [vā](vā) [śaucam](śaucaṃ) [na](na) [vaiduṣyam](vaiduṣyaṃ) [na](na) [dhīguṇāḥ](dhīguṇāḥ)
+no-conduct (nācāro) not (na) and (ca) or (vā) purity (śaucaṃ) not (na) learning (vaiduṣyaṃ) not (na) intellect-qualities (dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[viśvāsaḥ](viśvāso) [nāma](nāma) [manasaḥ](manaso) [dṛḍhatā](dṛḍhatā) [maṃtrasādhane](maṃtrasādhane)
+faith (viśvāso) named (nāma) mind's (manaso) firmness (dṛḍhatā) in-mantra-accomplishment (maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[evam](evaṃ) [viśvāsam](viśvāsam) [āpannaḥ](āpannaḥ) [phalārthi](phalārthi) [phalavigrahaḥ](phalavigrahaḥ)
+thus (evaṃ) faith-attained (viśvāsamāpannaḥ) fruit-desiring (phalārthi) fruit-form (phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brāhmaṇa](brāhmaṇa) [kṣatriya](kṣatriya) [viśa](viśā) [madhikāraḥ](madhikāro) [atra](atra) [śāsanam](śāsanam)
+brāhmaṇa-kṣatriya (brāhmaṇakṣatriya) vaiśya (viśā) authority (adhikāro) here (atra) rule (śāsanam)
 
 ## mukta-m0-p43-v1065
-[vīra](vīra) [śuśrūṣaṇam](śuśrūṣaṇaṃ) [teṣām](teṣām) [abhiṣṭa](abhiṣṭa) [phala](phala) [siddhayaḥ](siddhayaḥ)
+hero-service (vīraśuśrūṣaṇaṃ) their (teṣām) desired-fruit-success (abhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[vaiśyasya](vaiśyasya) [paṇyalābha](paṇyalābhā) [ardham](rdhaṃ) [śūdrādeḥ](sudrāder) [na](na) [kadācana](kadācana)
+vaiśya's (vaiśyasya) merchandise-profit-half (paṇyalābhārdhaṃ) śūdra's (sudrāder) never (nakadācana)
 
 ## mukta-m0-p43-v1067
-[ekā](ekaiva) [eva](jātir) [jātiḥ](nārīti) [nārī](grāhyā) [iti](lakṣaṇasaṃbhave) [grāhyā](grāhyā) [lakṣaṇa](lakṣaṇa) [saṃbhave](saṃbhave)
+one-only-caste (ekaivajātir) woman (nārī) thus (iti) acceptable (grāhyā) when-signs (lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[pūjā](pūjā) [sādhanam](sādhanam) [etāḥ](etā) [hi](hi) [mayā](mayā) [sṛṣṭāḥ](sṛṣṭā) [mṛgīdṛśaḥ](mṛgīdṛśaḥ)
+worship-means (pūjāsādhanam) these (etā) indeed (hi) by-me-created (mayāsṛṣṭā) deer-eyed (mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[gāvaḥ](gāvastu) [tu](tu) [pṛṣṭhataḥ](pṛṣṭhatomedhyā) [medhyāḥ](medhyā) [medhyāḥ](medhyāvaktreṇa) [vaktreṇa](vaktreṇa) [vādinaḥ](vādinaḥ)
+cows (gāvaḥ) but (tu) back-pure (pṛṣṭhatomedhyā) pure-mouthed (medhyāvaktreṇa) speakers (vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[strīmukham](strīmukhaṃ) [tu](tu) [sadā](sadā) [śuddhiḥ](śuddhir) [na](nocciṣṭaṃ) [ucciṣṭam](ucciṣṭaṃ) [tatra](tatra) [vidyate](vidyate)
+woman's-mouth (strīmukhaṃ) but (tu) always (sadā) purity (śuddhiḥ) no-leftover (nocciṣṭaṃ) there (tatra) exists (vidyate)
 
 ## mukta-m0-p43-v1071
-[tābhiḥ](tābhir) [vinā](vinā) [na](na) [yajñaḥ](yajño) [asti](asti) [na](na) [tapaḥ](tapo) [asti](asti) [na](na) [vā](vā) [vratam](vratam)
+without-them (tābhirvinā) no (na) sacrifice (yajño) is (asti) no (na) austerity (tapo) is (asti) no (na) or (vā) vow (vratam)
 
 ## mukta-m0-p43-v1072
-[aṣṭā](aṣṭā) [āhutiḥ](hutirmahāyāge) [mahāyāge](mahāyāge) [pradhānam](pradhānaṃ) [dūtikāḥ](dūtikāḥ) [smṛtāḥ](smṛtāḥ)
+eight-oblations (aṣṭāhutiḥ) in-great-sacrifice (mahāyāge) chief (pradhānaṃ) female-messengers (dūtikāḥ) remembered (smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[ānīya](ānīyaghaṭiyatyeṣā) [ghaṭayati](ghaṭayati) [eṣā](eṣā) [tasmāt](tasmād) [dūtī](dūti) [prakīrtitā](prakīrtitā)
+brought (ānīya) joins (ghaṭiyati) this (eṣā) therefore (tasmād) messenger (dūti) proclaimed (prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[dūtī](dūtī) [tena](tena) [budhaiḥ](budhaiḥ) [proktā](proktā) [ciṃtā](ciṃtā) [saṃtāpa](saṃtāparodhinī) [rodhinī](rodhinī)
+messenger (dūtī) by-that (tena) wise (budhaiḥ) called (proktā) anxiety (ciṃtā) distress-obstructing (saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[bhoginī](bhoginī) [bhogalakṣmīḥ](bhogalakṣmīś) [ca](ca) [tasyāḥ](tasyāḥ) [paryāya](paryāya) [sūktayaḥ](sūktayaḥ)
+enjoyer (bhoginī) enjoyment-lakṣmī (bhogalakṣmī) and (ca) her (tasyāḥ) synonyms (paryāya) good-words (sūktayaḥ)
