@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[sthaṇḍile](sthaṇḍile) [maṇḍale](maṇḍale) [pūjya](pūjya) [syāt](syāt) [dīkṣā+sthāpana+ādike](dīkṣāsthāpanādike)
+[on-ground](sthaṇḍile) [circle](maṇḍale) [worship](pūjya) [be-initiation-establishment-etc](syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[prabhu+māna+pradaṃ](prabhumānapradaṃ) [śāṅkhaṃ](śāṅkhaṃ) [sainya+chinnā+aga+danta+jaṃ](sainyacchinnāgadantajam)
+[lord-honoring](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-tusk-born](sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[aṇimā+ādi](aṇimādi) [nṛ+kulya+utthaṃ](nṛkulyottham) [anyonya+abda+ardhataḥ](anyonyabdārdhataḥ) [sadā](sadā)
+[atom-etc-noble-born](aṇimādinṛkulyottham) [mutual-half-month](anyonyabdārdhataḥ) [always](sadā)
 
 ## mukta-m0-p04-v79
-[śāli+piṣṭa+udbhavaṃ](śālipiṣṭodbhavaṃ) [puṣṭyai](puṣṭyai) [ṣāṣṭikaṃ](ṣāṣṭikaṃ) [puṣṭi+vardhanaṃ](puṣṭivardhanam)
+[rice-flour-born](śālipiṣṭodbhavaṃ) [nourishment](puṣṭyai) [sixty-day](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[ripu+bheda+karaṃ](ripubhedakaraṃ) [maudgaṃ](maudgaṃ) [strī+daṃ](strīdaṃ) [śyāmāka+sambhavaṃ](śyāmākasambhavam)
+[enemy-splitting](ripubhedakaraṃ) [mung](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[sukha+kṛt](sukhakṛt) [nāvanītaṃ](nāvanītaṃ) [tu](tu) [go+mayaṃ](gomayaṃ) [roga+nāśanaṃ](roganāśanam)
+[pleasure-making](sukhakṛn) [not-butter](nāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
 
 ## mukta-m0-p04-v82
-[nānā+phala+udbhavaṃ](nānāphalodbhavaṃ) [liṅgaṃ](liṅgaṃ) [nānā+kāma+pradāyakaṃ](nānākāmapradāyakam)
+[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[uccāṭane](uccāṭane) [tu](tu) [pāṃśavyaṃ](pāṃśavyaṃ) [maulaṃ](maulaṃ) [śatru+kṣaya+āvahaṃ](śatrukṣayāvaham)
+[uprooting](uccāṭane) [dust](tu) [pāṃśavyaṃ] [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[pura+kṣobha+karaṃ](purakṣobhakaraṃ) [pauraṃ](pauraṃ) [rāmaṭhaṃ](rāmaṭhaṃ) [ca](ca) [ugrya+kārakaṃ](ugryakārakam)
+[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [harshness-making](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[mṛd+bimba+udbhavaṃ](mṛdbimbodbhavam) [iṣṭa+arthaṃ](iṣṭārthaṃ) [lepāt](lepāt) [syuḥ](syuḥ) [sarva+saṃpadaḥ](sarvasaṃpadaḥ)
+[clay-image-born](mṛdbimbodbhavam) [desired-aim](iṣṭārthaṃ) [anointing](lepāt) [be-all-prosperities](syuḥ sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[tāvat+kālaṃ](tāvatkālaṃ) [tu](tu) [saṃpūya](saṃpūya) [visṛjya](visṛjya) [tāni](tāni) [ke](ke) [kṣipet](kṣipet)
+[so-long-time](tāvatkāla) [indeed](tu) [worship](saṃpūya) [release](visṛjya) [those](tāni) [who](ke) [throw](kṣipet)
 
 ## mukta-m0-p04-v87
-[niṣkvāthya](niṣkvāthya) [paṭa+mālā+ālepya](paṭamālepya) [saṃśoṣya](saṃśoṣya) [pāri+mārjya](pārimārjya) [ca](ca)
+[boil](niṣkvāthya) [cloth](paṭam) [anoint](ālepya) [dry](saṃśoṣya) [wipe](pārimārjya) [and](ca)
 
 ## mukta-m0-p04-v88
-[dhātu+bilva+rasaiḥ](dhātubilvarasaiḥ) [lekhyaṃ](lekhyaṃ) [tridhā](tridhā) [liṅgaṃ](liṅgaṃ) [paṭa+ādike](paṭādike)
+[metals-bilva-juices](dhātubilvarasair) [write](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [cloth-etc](paṭādike)
 
 ## mukta-m0-p04-v89
-[bala+saṃvartanī+icchāyāḥ](balasaṃvartanīcchāyāḥ) [dṛṣṭi](dṛṣṭi) [bhāva+āśritā](bhāvāśritā) [sadā](sadā)
+[strength-revolution-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [being](bhāvāśritā) [always](sadā)
 
 ## mukta-m0-p04-v90
-[karuṇā](karuṇā) [adbhuta](adbhuta) [śāntāḥ](śāntāḥ) [ca](ca) [nava+bhāva+ātmikāḥ](navabhāvātmikāḥ) [kvacit](kvacit)
+[compassion-wonder-peace](karuṇādbhutaśāntāḥ) [and](ca) [nine-emotion-souled](navabhāvātmikāḥ) [sometimes](kvacit)
 
 ## mukta-m0-p04-v91
-[sva+icchayā](svecchayā) [pūjayet](pūjayet) [etan](etan) [mṛn+mayaṃ](mṛnmayaṃ) [ucyate](ucyate) [adhunā](adhunā)
+[own-wish](svecchayā) [worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [called](ucyate) [now](adhunā)
 
 ## mukta-m0-p04-v92
-[sadyo+mantreṇa](sadyomantreṇa) [ca](ca) [āpakvaṃ](āpakvaṃ) [kramāt](kramāt) [nava+kara+ādikaṃ](navakarādikam)
+[immediate-mantra](sadyomantreṇa) [and](ca) [unripe](apakvaṃ) [gradually-nine-hand-etc](kramānnavakarādikam)
 
 ## mukta-m0-p04-v93
-[dvija+ādi+jāti+bhiḥ](dvijādijātibhiḥ) [mṛdbhiḥ](mṛdbhiḥ) [avyakta+ādi](avyaktādi) [ca](ca) [kāmataḥ](kāmataḥ)
+[brahmin-etc-born-castes](dvijādijātibhiḥ) [clay](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [and](ca) [desire](kāmataḥ)
 
 ## mukta-m0-p04-v94
-[vāpī+kūpa+taḍāgeṣu](vāpīkūpataḍāgeṣu) [dīrghikāyāḥ](dīrghikāyāḥ) [samāharet](samāharet)
+[wells-tanks-lakes](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [collect](samāharet)
 
 ## mukta-m0-p04-v95
-[puṣṭyai](puṣṭyai) [tri+loha+garbhaṃ](trilohagarbhaṃ) [ca](ca) [dhana+koṣa+vivṛddhaye](dhanakoṣavivṛddhaye)
+[nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [treasure-increase](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[vāma+ākhyena](vāmākhyena) [citāṃ](citāṃ) [kṛtvā](kṛtvā) [ghoreṇa](ghoreṇa) [paridāhya](paridāhya) [ca](ca)
+[left-named](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [fierce](ghoreṇa) [having-burned](paridāhya) [and](ca)
 
 ## mukta-m0-p04-v97
-[īśānena](īśānena) [gṛhītvā](gṛhītvā) [tu](tu) [tataḥ](tataḥ) [saṃskṛtya](saṃskṛtya) [pūjayet](pūjayet)
+[īśāna](īśānena) [having-taken](gṛhītvā) [indeed](tu) [then](tataḥ) [having-purified](saṃskṛtya) [worship](pūjayet)
 
 ## mukta-m0-p04-v98
-[sarja+hiṅgu+puraṃ+bola](sarjahiṅgupuraṃbola) [mata+sī+tailaṃ](matasītailam) [eva](eva) [ca](ca)
+[sarja-asafoetida-puram-bola](sarjahiṅgupuraṃbola) [sesame-oil](matasītailameva) [and](ca)
 
 ## mukta-m0-p04-v99
-[mṛdi](mṛdi) [kṣiptvā](kṣiptvā) [vyavasthāpya](vyavasthāpya) [māsaṃ](māsaṃ) [tāṃ](tāṃ) [parimṛdya](parimṛdya) [ca](ca)
+[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-established](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [having-rubbed](parimṛdya) [and](ca)
 
 ## mukta-m0-p04-v100
-[śaṇa+tatva+nvitaṃ](śaṇatatvanvitaṃ) [katvā](katvā) [mṛn+mayaṃ](mṛnmayaṃ) [ghaṭayet](ghaṭayet) [śubhaṃ](śubham)
+[hemp-fiber](śaṇatatvanvitaṃ) [having-done](katvā) [clay](mṛnmayaṃ) [fashion](ghaṭayet) [auspicious](śubham)
