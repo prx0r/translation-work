@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[hundred-thousand-measure](lakṣamātraṃ) [japa](japen) [mantra](mantraṃ) [then](tataḥ) [accomplished](siddho) [becomes](bhavet) [man](naraḥ)
-
+hundred-thousand-amount japet mantra then siddha becomes man
 ## mukta-m0-p10-v227
-[that](tad) [tenth-part](daśāṃśaṃ) [and](ca) [musk](kastūrī) [camphor](karpūrābhyāṃ) [well-perfumed](suvāsitaiḥ)
-
+that-tenth-part and musk camphor-by perfumed
 ## mukta-m0-p10-v228
-[that](tad) [tenth-part](daśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [feed](bhojayet) [dear](priye)
-
+that-tenth-part mahādevi brahmins feed dear
 ## mukta-m0-p10-v229
-[pleasing](hṛdyaiḥ) [milk-rice](pāyasa) [cakes](pūpādyaiḥ) [rasas](rasaiścaiva) [rejuvenatives](rasāyanaiḥ)
-
+pleasing rice-pudding cakes-etc juices-and-also elixirs
 ## mukta-m0-p10-v230
-[liquors](madyair) [meats](māṃsaiśca) [fishes](matsyaiśca) [various-things](nānāvastūpabṛṃhitaiḥ)
-
+wines meats-and fish-and various-things-filled
 ## mukta-m0-p10-v231
-[worship](arcayed) [yoginis](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
-
+worship yogini heroes tenth-part mantra-practitioner
 ## mukta-m0-p10-v232
-[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [bodily](kāyavat)
-
+bliss-enjoyments enjoying earth plays body-like
 ## mukta-m0-p10-v233
-[extreme-secrecy](atiguhyātva) [protected](rakṣyā) [not-given](na deyā) [to-anyone](yasyakasyacit)
-
+extreme-secrecy which protected not given anyone
 ## mukta-m0-p10-v234
-[not-fallacious](akutarka) [skilled](pravīṇāya) [truth-devoted](tattvaniṣṭhāya) [wise](dhīmate)
-
+not-fallacious skilled truth-devoted wise
 ## mukta-m0-p10-v235
-[this](eṣā) [vidya](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmyaham)
-
+this knowledge to-be-given truth truth I-say-I
 ## mukta-m0-p10-v236
-[this](etad) [vidya-equal](vidyāsamaṃ) [not](nāsti) [not](na) [was](bhūtaṃ) [not](na) [will-be](bhaviṣyati)
-
+this knowledge-equal not-is not past not future
 ## mukta-m0-p10-v237
-[this](imām) [practicing](abhyasyataḥ) [man](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
-
+this practicing man liberation-path hand-held
 ## mukta-m0-p10-v238
-[thus](ityānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
-
+thus ananda-tantra fifth chapter
 ## mukta-m0-p10-v239
-[sacrifice-king](yāgarājakramaḥ) [all-purusharthas](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
-
+sacrifice-king-sequence all-purusharthas great-fruit
 ## mukta-m0-p10-v240
-[boon-fear](varābhayayutaṃ) [peaceful](śāṃtaṃ) [shakti-embraced](śaktyāśliṣṭaṃ) [mind-charming](manoharam)
-
+boon-fear-endowed peaceful shakti-embraced charming
 ## mukta-m0-p10-v241
-[bathed](āplāvita) [body](śarīraḥ) [within](sannaṃtardhyāyen) [great-goddess](maheśvarīm)
-
+bathed body meditate maheshvari
 ## mukta-m0-p10-v242
-[split](vibhinna) [six-lotuses](ṣaṭsarojanma) [manifest](prakāśa) [own-form](nijavigrahām)
-
+distinct six-lotus-born manifestation own-form
 ## mukta-m0-p10-v243
-[tripurasundari](tripurasuṃdarīm)
-
+tripurasundari
 ## mukta-m0-p10-v244
-[going-out](nirgamya) [outside-village](ca bahirgrāmānmuktamūtramalavyathaḥ)
-
+exiting and outside-village freed-urine-feces-pain
 ## mukta-m0-p10-v245
-[fragrant-oil](sugaṃdhatailaliptasya) [paste](piṣṭikodvarti) [his](tasya) [and](ca)
-
+fragrant-oil-anointed paste-rubbed his and
 ## mukta-m0-p10-v246
-[ever](kadāpi) [kaulika](kauliko) [from-delusion](mohānna) [rough-bath](rūkṣasnānamācaret)
-
+ever kaulika delusion not dry-bath perform
 ## mukta-m0-p10-v247
-[head](mūrdhnitvā) [root-mantra](mūlamaṃtra) [japa](jāpenāṃ) [three-waters](bhoṃjalitrayam)
-
+head-bathing root-mantra japa water-triad
 ## mukta-m0-p10-v248
-[with-kusha](sakuśe) [with-flowers](sahapuṣpe) [with-perfume](sagaṃdhe) [copper-vessel](tāmrabhājane)
-
+with-kusha with-flowers and with-scent copper-vessel
 ## mukta-m0-p10-v249
-[copper](tāmrarūpya) [silver](rūpya) [gold](suvarṇaistu) [made](racitaṃ) [that](tat) [praised](praśasyate)
-
+copper silver gold made that praised
 ## mukta-m0-p10-v250
-[according-to-ability](yathā śakti) [and](ca) [satisfying](saṃtarpya) [enter](praviśedyāgamaṃdiram)
+according ability and satisfying enter sacrifice-temple

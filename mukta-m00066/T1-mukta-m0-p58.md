@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-dṛṣṭa(seen) sarvā(all) kṛtitvasya(of-action) ghaṭanaṃ(occurrence) na(not) ghaṭe(in-pot) bhavat(becomes)
+[seen](dṛṣṭa) [all](sarvā) [of-activity](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [occurs](ghaṭe) [is](bhavat)
 
 ## mukta-m0-p58-v1427
-tritvantu(threefold) vyavahārasya(of-practice) api(also) apekṣā(expectation) eva(certainly) atra(here) sammatam(approved)
+[threefold](tritvantu) [of-practice](vyavahārasyāpyapekṣaivātra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-navamaṃ(ninth) śivatatvaṃ(śiva-principle) tu(but) śabdabhāvyam(sound-manifested) iha(here) adhunā(now)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-śabdabhāsyatvam(sound-manifestedness) ujhitvā(abandoning) svādhyakṣeṇa(by-self-witness) sabhāsate(shines)
+[abandoning](śabdabhāsyatvamujhitvā) [by-direct-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-svāśrayo(self-support) marudekasya(of-one-wind) udāsīnaṃ(indifferent) tamaḥ(darkness) smṛtam(remembered)
+[own-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-śivastu(śiva-but) sarvāśrayaḥ(all-support) syāt(may-be) tatra(there) samyagvivicyate(properly-distinguished)
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-mahyāṃ(to-me) siddhādirūpeṇa(siddha-beginning-form) vāyaumeghahimātmatā(wind-cloud-snow-nature)
+[on-earth](mahyāṃ) [as-siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-śabdemaṃghījalamarut(sound-this-water-wind) saṃśrayaḥ(refuge) kathitaḥ(told) priye(dear)
+[by-sound-this-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-saṃghātaśca(aggregate-and) pṛthivyādeḥ(earth-beginning) śarīratvena(body-ness) kīrtyate(proclaimed)
+[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-prāṇena(by-prāṇa) ceṣṭamānaṃ(moving) yat(what) tat(that) sacit(conscious) iha(here) ucyate(called)
+[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [sentient](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-manaḥsaṃsrayaṇaṃ(mind-refuge) prāṇi(living) sacit(conscious) kavapuṣi(body) smṛtam(remembered)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [sentient](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-sarveṣām(of-all) ihatatvānāṃ(here-principles) vikṛtiḥ(modification) guṇabhedajā(guna-difference-born)
+[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-saṃghātajāśca(aggregate-born-and) saṃghātā(aggregates) bahavo(many) naikarūpiṇaḥ(not-one-formed)
+[aggregates-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-formed](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-bahunā(by-much) kim(what) iha(here) uktena(said) kintatvaiḥ(what-principles) aparaiḥ(other) jaḍaiḥ(inert)
+[why-much-here-said](bahunā) [what-principle-other-inert](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-acchedyo(un-cuttable) ayam(this) adāhyo(un-burnable) akledyo(un-wettable) aśoṣya(un-dryable) eva(indeed) ca(and)
+[uncuttable](acchedyo'yamadāhoya) [unwettable](makledyośoṣya) [indeed](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
-sarvaviśvasya(of-all-universe) janakaḥ(begetter) sarvaviśvasya(of-all-universe) pālakaḥ(protector)
+[of-all-world](sarvaviśvasya) [begetter](janakaḥ) [of-all-world](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-sa(he) giridvīpajaladhikānanā(mountain-island-ocean-forest) sakalāmahī(all-earth)
+[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-etā(these) dṛśyāḥ(visible) tu(indeed) saṃkhyātā(counted) vasudhāvāsavārcite(earth-abode-worshipped)
+[these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-abode-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-jyotiścakraṃ(light-wheel) samastaṃ(all) ca(and) vāyu(wind) naiva(not-indeed) pracālyate(moved)
+[light-wheel](jyotiścakraṃ) [all](samastaṃ) [ca](ca) [wind](vāyu) [not](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-sadā(always) carati(moves) kutrāpi(somewhere) sadā(always) ca(and) sthimitaḥ(still) kvacit(somewhere)
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [ca](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-yadā(when) pravahati(flows) kṣipraṃ(quickly) saśabdena(with-sound) tat(that) udyate(impelled)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tatodyate)
 
 ## mukta-m0-p58-v1447
-etat(this) tu(but) tattvaṃ(principle) kathitam(told) asya(his) eva(certainly) anyā(other) vibhūtayaḥ(powers)
+[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitamasyaivānyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-tat(that) tacchāstra(that-scripture) sthitiḥ(establishment) sarvā(all) kathitā(told) girinaṃdini(mountain-daughter)
+[that](tat) [that-scripture](tacchāstra) [establishment](sthitiḥ) [all](sarvā) [said](kathitā) [mountain-daughter](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-anyatra(elsewhere) mama(my) yat(what) kiṃcit(little) praṣṭavyaṃ(to-be-asked) spṛṣṭam(touched) āśaye(in-mind)
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [askable](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-aneka(many) jantujālena(creature-net) nibiḍasya(dense) nirantaram(uninterrupted)
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
