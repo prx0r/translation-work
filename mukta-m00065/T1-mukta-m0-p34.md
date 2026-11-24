@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[shiva-and](haraśca) [many-formed-and](bahurūpaśca) [three-eyed-and](tryambakaśca) [lord-of-gods](sureśvaraḥ)
+[hara](haraḥ) [ca](ca) [bahu+rūpa](bahurūpaḥ) [ca](ca) [tryambaka](tryambakaḥ) [ca](ca) [sureśvara](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[suddenly-born-etc](sadyaḥ) [beginning-born](prabhṛtijau) [two-two](dvau dvau) [thus](tadvat) [wall-lotus-joined](kuḍyabjasaṃyutāḥ)
+[sadyaḥ](sadyaḥ) [prabhṛti](prabhṛti) [jau](jau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya+abja+saṃyutāḥ](kuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[bull-standing](vṛṣasthā) [boon-giving](varadāḥ) [kundin-trident-lotus-handed](kuṇḍīśūlapaṅkajapāṇayaḥ)
+[vṛṣa+sthā](vṛṣasthā) [vara+dāḥ](varadāḥ) [kuṇḍī+śūla+paṅkaja+pāṇayaḥ](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[conch-disk-bearing](śaṅkhacakrabhṛtaṃ) [on-left](vāme) [remaining](śeṣe) [peace-club-bearing](śāntigadābhṛtam)
+[śaṅkha+cakra+bhṛtam](śaṅkhacakrabhṛtam) [vāme](vāme) [śeṣe](śeṣe) [śānti+gadā+bhṛtam](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
-[srivatsa-kaustubha-chested](śrīvatsakaustubhoraskaṃ) [broad-limbed](pīnāṅgaṃ) [broad-chested](pṛthuvakṣasam)
+[śrīvatsa+kaustubha+uraskaṃ](śrīvatsakaustubhoraskaṃ) [pīna+aṅgaṃ](pīnāṅgaṃ) [pṛthu+vakṣasam](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[serene-faced](prasannavadanaṃ) [gentle](saumyaṃ) [all-ornament-adorned](sarvābharaṇabhūṣitam)
+[prasanna+vadanaṃ](prasannavadanaṃ) [saumyaṃ](saumyaṃ) [sarva+ābharaṇa+bhūṣitam](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[conch-disk-holder](śaṅkhacakradhare) [in-work](kārye) [that-gentle-fiery-side](tatsaumyāgneyapārśvataḥ)
+[śaṅkha+cakra+dhare](śaṅkhacakradhare) [kārye](kārye) [tad+saumya+āgneya+pārśvataḥ](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[on-left-fear-giving](vāme'bhayapradaṃ) [remaining](śeṣe) [conch-handed](śaṅkhahastaṃ) [two-armed](dvibhāhukam)
+[vāme+abhaya+pradaṃ](vāme'bhayapradaṃ) [śeṣe](śeṣe) [śaṅkha+hastaṃ](śaṅkhahastaṃ) [dvibāhukam](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[angry](kruddha) [raised-hand](udyatahastaśca) [temple-standing](prāsādasthaḥ) [always-considered](sadā mataḥ)
+[kruddhaḥ](kruddha) [udyata+hastaḥ](udyatahastaḥ) [ca](ca) [prāsāda+sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v835
-[bitten-lip](sandaṣṭauṣṭhapuṭaḥ) [angry](kruddho) [vishnu-eight-armed](viṣṇuraṣṭabhujo) [considered](mataḥ)
+[sandaṣṭa+oṣṭha+puṭaḥ](sandaṣṭauṣṭhapuṭaḥ) [kruddhaḥ](kruddho) [viṣṇuḥ](viṣṇuḥ) [aṣṭa+bhujaḥ](aṣṭabhujo) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v836
-[disk](cakraṃ) [bow](cāpaṃ) [sword](ca khetaṃ) [conch](ca śaṅkhaṃ) [on-left-hand](vāmakare) [thus](tathā)
+[cakraṃ](cakraṃ) [cāpaṃ](cāpaṃ) [ca](ca) [khetaṃ](khetaṃ) [ca](ca) [śaṅkhaṃ](śaṅkhaṃ) [vāma+kare](vāmakare) [tathā](tathā)
 
 ## mukta-m0-p34-v837
-[one-faced](ekāsyaścaturāsyaśca) [three-faced](trimukho) [or](vā) [in-maya-opinion](maye mate)
+[eka+āsyaḥ](ekāsyaśca) [catur+āsyaḥ](caturāsyaśca) [tri+mukhaḥ](trimukho) [vā](vā) [maye](maye) [mate](mate)
 
 ## mukta-m0-p34-v838
-[that-three-part-extension](tattryaṃśavistaraṃ) [and](caiva) [tail-below](puccho'dhaṃ) [seven-parts](saptabhāgaśaḥ)
+[tat+tri+aṃśa+vistaraṃ](tattryaṃśavistaraṃ) [ca+eva](caiva) [pucchaḥ](puccho) [adhaṃ](adhaṃ) [sapta+bhāgaśaḥ](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[hands](hastau) [near-boar](kroḍasamīpasthau) [feet](pādau) [belly-side](jaṭharapārśvataḥ)
+[hastau](hastau) [kroḍa+samīpa+sthau](kroḍasamīpasthau) [pādau](pādau) [jaṭhara+pārśvataḥ](jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[half-angula](ardhāṅgulaṃ) [then-eye](tu tannetraṃ) [two-one-half-half-part](dvisārdhaikārdhabhāgataḥ)
+[ardha+aṅgulaṃ](ardhāṅgulaṃ) [tu](tu) [tat+netraṃ](tannetraṃ) [dvi+sārdha+eka+ardha+bhāgataḥ](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[rest](śeṣaṃ) [like-rohita](rohitavatkuryānmatsyarūpadhare) [in-lord](vibhau)
+[śeṣaṃ](śeṣaṃ) [rohita+vat](rohitavat) [kuryāt](kuryāt) [matsya+rūpa+dhare](matsyarūpadhare) [vibhau](vibhau)
 
 ## mukta-m0-p34-v842
-[that-two-part-middle](taddvyaṃśamadhyato) [round](vṛttaṃ) [digit-less](kalāhīnaṃ) [on-sides](tu pārśvayoḥ)
+[tat+dvyaṃśa+madhyataḥ](taddvyaṃśamadhyato) [vṛttaṃ](vṛttaṃ) [kalā+hīnaṃ](kalāhīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[twofold](dviguṇaṃ) [from-feet-length](pādato dairghyādgrīvāṃ) [neck-with-head](mastakasaṃyutām)
+[dvi+guṇaṃ](dviguṇaṃ) [pādataḥ](pādato) [dairghyāt](dairghyād) [grīvāṃ](grīvāṃ) [mastaka+saṃyutām](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[nose-eye-nail-ear-etc](nāsākṣinakhakarṇādi) [knowing](jñātvā) [tortoise](kūrmaṃ) [turn](vivartayet)
+[nāsā+akṣi+nakha+karṇa+ādi](nāsākṣinakhakarṇādi) [jñātvā](jñātvā) [kūrmaṃ](kūrmaṃ) [vivartayet](vivartayet)
 
 ## mukta-m0-p34-v845
-[jaw](hanū) [that-mouth-part](tadvaktrabhāge) [and](ca) [length-seven-angulas](dairghyātsaptāṅgulau) [considered](matau)
+[hanū](hanū) [tat+vaktra+bhāge](tadvaktrabhāge) [ca](ca) [dairghyāt](dairghyātsaptāṅgulau) [matau](matau)
 
 ## mukta-m0-p34-v846
-[tusks](daṃṣṭre) [and](ca) [three-angulas](tryaṅgule) [in-mouth](vaktre) [white-ray-tuft-like](sitarṣikalikopame)
+[daṃṣṭre](daṃṣṭre) [ca](ca) [tri+aṅgule](tryaṅgule) [vaktre](vaktre) [sita+ṛṣi+kalikā+upame](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[front-measure-etc-lacking](prāṅmānādyavahīnaṃ) [tu](tu) [disk-garuda-eyed](cakragāruṇalocanam)
+[prāṅ+mānāt](prāṅmānādyavahīnaṃ) [tu](tu) [cakra+gāruṇa+locanam](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[club-disk-lotus-conch-rich](gadācakrābjaśaṅkhāḍhyam) [lion-posture-standing](ālīḍhakaraṇe sthitam)
+[gadā+cakra+abja+śaṅkha+āḍhyam](gadācakrābjaśaṅkhāḍhyam) [ālīḍha+karaṇe](ālīḍhakaraṇe) [sthitam](sthitam)
 
 ## mukta-m0-p34-v849
-[thus](evaṃ) [boar-form](varāharūpaṃ) [syād](syād) [forest-garland-adorned](vanamālāvibhūṣitam)
+[evaṃ](evaṃ) [varāha+rūpaṃ](varāharūpaṃ) [syāt](syād) [vanamālā+vibhūṣitam](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[man-form](narāṅgaṃ) [lion-faced](siṃhavaktraṃ) [ca](ca) [round-eyed](vṛttākṣaṃ) [brow-furrowed](bhrukuṭīyutam)
+[nara+aṅgaṃ](narāṅgaṃ) [siṃha+vaktraṃ](siṃhavaktraṃ) [ca](ca) [vṛtta+akṣaṃ](vṛttākṣaṃ) [bhrukuṭī+yutam](bhrukuṭīyutam)
