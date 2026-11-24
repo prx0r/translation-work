@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[gloss](prāvrājyānnaśyate) [gloss](pūrvaṃ) [gloss](strīyogādaparaṃ) [gloss](tathā)
+[from-renunciation](prāvrājyāt) [is-destroyed](naśyate) [first](pūrvaṃ) [from-union-with-woman](strīyogāt) [later](aparaṃ) [thus](tathā)
 
 ## mukta-m0-p10-v227
-[gloss](trikarṇotthāstrikarṇāśca) [gloss](trikapānātma) [gloss](karṇakā)
+[three-eared-born](trikarṇotthāḥ) [three-eared](trikarṇāḥ) [and](ca) [three-skulled-self](trikapānātma) [ear-born](karṇakā)
 
 ## mukta-m0-p10-v228
-[gloss](bhasmāṅkurastu) [gloss](katthosthastatsutāḥ) [gloss](kauśikādayaḥ)
+[ash-sprout](bhasmāṅkuraḥ) [but](tu) [boast-lip](katthosthaḥ) [his-sons](tatsutāḥ) [Kauśika-etc](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[gloss](rāṣṭrakṣayakarā) [gloss](hyete) [gloss](ye) [gloss](ca) [gloss](paṣāṇḍino) [gloss](narāḥ)
+[kingdom-destroyers](rāṣṭrakṣayakarāḥ) [indeed](hi) [these](ete) [who](ye) [and](ca) [heretics](paṣāṇḍinaḥ) [men](narāḥ)
 
 ## mukta-m0-p10-v230
-[gloss](śāstrāvalokanādeva) [gloss](caṇḍeśastasya) [gloss](śāsakaḥ)
+[from-scripture-observation](śāstrāvalokanāt) [only](eva) [Caṇḍeśa](caṇḍeśaḥ) [his](tasya) [ruler](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[gloss](sa) [gloss](yāti) [gloss](narakaṃ) [gloss](sadyo) [gloss](yājñikaiḥ) [gloss](saha) [gloss](daiśikaḥ)
+[he](sa) [goes](yāti) [hell](narakaṃ) [immediately](sadyo) [with-sacrificers](yājñikaiḥ) [with](saha) [teacher](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[gloss](teṣāmācaraṇānnityamācārya) [gloss](iti) [gloss](kīrtyate)
+[their](teṣām) [from-conduct](ācaraṇāt) [always](nityam) [teacher](ācārya) [thus](iti) [is-called](kīrtyate)
 
 ## mukta-m0-p10-v233
-[gloss](tasmānna) [gloss](mānavīṃ) [gloss](buddhiṃ) [gloss](kārayeddaiśikaṃ) [gloss](prati)
+[therefore](tasmāt) [not](na) [human](mānavīṃ) [intellect](buddhiṃ) [should-make](kārayet) [teacher](daiśikaṃ) [towards](prati)
 
 ## mukta-m0-p10-v234
-[gloss](pañcavaktrāṇi) [gloss](devasya) [gloss](pañcāgamavivṛddhaye)
+[five-faces](pañcavaktrāṇi) [of-god](devasya) [five-āgamas](pañcāgamavivṛddhaye) [for-growth](vivṛddhaye)
 
 ## mukta-m0-p10-v235
-[gloss](dīptaṃ) [gloss](sūkṣmaṃ) [gloss](ca) [gloss](sāhasramaṃśuma) [gloss](tsuprabhaṃ) [gloss](daśa)
+[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [and](ca) [thousand](sāhasraṃ) [rays](aṃśum) [radiant](suprabhaṃ) [ten](daśa)
 
 ## mukta-m0-p10-v236
-[gloss](vijayaṃ) [gloss](pāramaiśvaryaṃ) [gloss](niśvāsodgītasaṃjñakam)
+[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [named-breath-song](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-[gloss](narasiṃhaṃ) [gloss](candrahāsaṃ) [gloss](vīraṃ) [gloss](svāyambhurauravam)
+[Narasiṃha](narasiṃhaṃ) [moon-smile](candrahāsaṃ) [hero](vīraṃ) [Svāyambhu](svāyambhu) [Raurava](rauravam)
 
 ## mukta-m0-p10-v238
-[gloss](rudrabhedāḥ) [gloss](samākhyātā) [gloss](daśāṣṭādaśa) [gloss](cordhvagāḥ)
+[Rudra-types](rudrabhedāḥ) [described](samākhyātāḥ) [ten](daśa) [eighteen](aṣṭādaśa) [and](ca) [upward-going](ūrdhvagāḥ)
 
 ## mukta-m0-p10-v239
-[gloss](pañcabhūta) [gloss](vibhāgaṃ) [gloss](ca) [gloss](śūnyabheda) [gloss](vinirṇayam)
+[five-elements](pañcabhūta) [division](vibhāgaṃ) [and](ca) [void-difference](śūnyabheda) [determination](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[gloss](kambojaṃ) [gloss](kambalaṃ) [gloss](kaṅkaṃ) [gloss](kālakuṇḍaṃ) [gloss](kaṭāhakam)
+[Kamboja](kambojaṃ) [Kambala](kambalaṃ) [Kaṅka](kaṅkaṃ) [Kālakuṇḍa](kālakuṇḍaṃ) [Kaṭāhaka](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[gloss](gāruḍasya) [gloss](tvime) [gloss](bhedā) [gloss](aṣṭāviṃśatirīritāḥ)
+[of-Garuḍa](gāruḍasya) [indeed](tu) [these](ime) [types](bhedāḥ) [twenty-eight](aṣṭāviṃśatiḥ) [declared](īritāḥ)
 
 ## mukta-m0-p10-v242
-[gloss](asitāṅgaṃ) [gloss](ruruṃ) [gloss](caiva) [gloss](kapālīśaṃ) [gloss](samuccayam)
+[Asitāṅga](asitāṅgaṃ) [Ruru](ruruṃ) [and](ca) [indeed](eva) [Kapālīśa](kapālīśaṃ) [collection](samuccayam)
 
 ## mukta-m0-p10-v243
-[gloss](bhīmāṅgaṃ) [gloss](ḍāmarārāvaṃ) [gloss](bhīmaṃ) [gloss](vetālamardakam)
+[Bhīmāṅga](bhīmāṅgaṃ) [Ḍāmarārāva](ḍāmarārāvaṃ) [Bhīma](bhīmaṃ) [Vetālamardaka](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[gloss](triśiraṃ) [gloss](caikapādaṃ) [gloss](tu) [gloss](siddhayogeśvarīmatam)
+[Triśira](triśiraṃ) [and](ca) [Ekapāda](ekapādaṃ) [indeed](tu) [Siddhayogeśvarī-opinion](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[gloss](viśvarikaṇṭha) [gloss](saṅkocaṃ) [gloss](tilakodyānabhairavam)
+[Viśvarikaṇṭha](viśvarikaṇṭha) [contraction](saṅkocaṃ) [Tilakodyāna](tilakodyāna) [Bhairava](bhairavam)
 
 ## mukta-m0-p10-v246
-[gloss](catuḥ) [gloss](ṣaṣṭipramāṇāni) [gloss](dakṣiṇāsyādbhavāni) [gloss](ca)
+[sixty-four](catuḥṣaṣṭi) [measures](pramāṇāni) [from-southern-face](dakṣiṇāsyāt) [born](bhavāni) [and](ca)
 
 ## mukta-m0-p10-v247
-[gloss](karapūjāvidhānaṃ) [gloss](tu) [gloss](vīṇātantraṃ) [gloss](taduttaram)
+[hand-worship-rite](karapūjāvidhānaṃ) [indeed](tu) [Vīṇātantra](vīṇātantraṃ) [that-after](taduttaram)
 
 ## mukta-m0-p10-v248
-[gloss](siddhanityodayaṃ) [gloss](jyeṣṭhaṃ) [gloss](cintāmaṇimahodayam)
+[Siddhanityodaya](siddhanityodayaṃ) [eldest](jyeṣṭhaṃ) [Cintāmaṇimahodaya](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[gloss](ānandarudrabhadrākhyaṃ) [gloss](kiṅkaraṃ) [gloss](kiṅkarānugam)
+[Ānandarudrabhadra-named](ānandarudrabhadrākhyaṃ) [servant](kiṅkaraṃ) [following-servants](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[gloss](vāmadaṃ) [gloss](vāmadevoktaṃ) [gloss](caturviṃśatibhedagam)
+[Vāmada](vāmadaṃ) [Vāmadeva-uttered](vāmadevoktaṃ) [twenty-four](caturviṃśati) [types](bhedagam)
