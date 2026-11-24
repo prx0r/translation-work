@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[veda-part-casting-from](vedāṃśapātanāt) [corner](koṇa) [with-mortals](marṭāśair) [and](atha) [blanket](kambalam)
+[gloss](vedāṃśapātanātkoṇa) [gloss](marṭāśairatha) [gloss](kambalam)
 
 ## mukta-m0-p43-v1052
-[three-part-entry](tryaṃśapraveśanāt) [throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+[gloss](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [gloss](khuram)
 
 ## mukta-m0-p43-v1053
-[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [indeed](eva) [should-make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
+[gloss](ghaṇṭāṃ) [gloss](ca) [gloss](mekhalāṃ) [gloss](caiva) [gloss](kuryāchṛṅgāṇi) [gloss](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-ray-etc](śchatradhārādibhir) [joined](yutaḥ)
+[gloss](prālambyāsakta) [gloss](revantaśchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-[with-various-gem-beautiful-wealth](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
+[gloss](nānāratnasuveśāḍhyāścaṇḍatejāḥ) [gloss](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [pitcher-prayer-garlanded](kuṇḍikājāpyamālinam)
+[gloss](somaṃ) [gloss](saumyaṃ) [gloss](tathā) [gloss](śvetaṃ) [gloss](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [and](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
+[gloss](budhaṃ) [gloss](śyāmaṃ) [gloss](yuvānaṃ) [gloss](ca) [gloss](rūpiṇaṃ) [gloss](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[southern-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [pitcher-mantra-garlanded](kuṇḍikāmantramālikam)
+[gloss](yāmyekākṣaṃ) [gloss](sitaṃ) [gloss](śukraṃ) [gloss](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
+[gloss](vyāvṛttāsyaṃ) [gloss](sahāsyaṃ) [gloss](ca) [gloss](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-formed](naranāgārdharūpiṇam)
+[gloss](triphalaṃ) [gloss](dhūmravarṇābhaṃ) [gloss](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[these-all-two-armed](etāṃstu dvibhujānsarvān) [with-ornament-garment-joined](bhūṣaṇāmbarasaṃyutān)
+[gloss](etāṃstu) [gloss](dvibhujānsarvānbhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [sacrificial-post](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
+[gloss](śakaṭaṃ) [gloss](medhameteṣāmadho) [gloss](yānaṃ) [gloss](kramātsadā)
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogaḥ) [lord](īśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+[gloss](sitaḥ) [gloss](sahasrabhogo) [gloss](hīśvaraḥ) [gloss](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
+[gloss](kṛṣṇaḥ) [gloss](karkoṭakaḥ) [gloss](kaṇṭhe) [gloss](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇaḥ) [great-lotus](mahāpadmaḥ) [on-head](mastake) [black-trident-bearer](kṛṣṇaśūladhṛk)
+[gloss](śaṅkhavarṇo) [gloss](mahāpadmo) [gloss](mastake) [gloss](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[kulika](kulikaḥ) [red-bodied](raktadehaḥ) [tu](tu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
+[gloss](kuliko) [gloss](raktadehastu) [gloss](candrārdha) [gloss](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [pitcher-tail-joined](kuṇḍikāpucchasaṃyutāḥ)
+[gloss](akṣasūtradharāḥ) [gloss](sarve) [gloss](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāḥ) [and](ca) [single-hooded](ekaphaṇāḥ) [should-be-made](kāryāḥ) [that-formed](tadrūpā) [gem-devoid](maṇivarjitāḥ)
+[gloss](bhṛtyāścaikaphaṇāḥ) [gloss](kāryāstadrūpā) [gloss](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[with-garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+[gloss](hārakuṇḍalakeyūraiḥ) [gloss](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-[thus](īdṛśī) [by-mind](manasā) [should-be-made](kāryā) [shrikantha-mind-born](śrīkaṇṭhamanasambhavā)
+[gloss](īdṛśī) [gloss](manasā) [gloss](kāryā) [gloss](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛtaḥ) [lotus-seated](abjasthaḥ) [pitcher](kuṇḍikā) [and](ca) [rosary-bearer](akṣasūtrabhṛt)
+[gloss](yogapaṭṭāvṛto'bjasthaḥ) [gloss](kuṇḍikā) [gloss](cākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[with-various-ornament-joined](nānālaṅkārasaṃyuktāv) [utpala-gem](utpalamaṇi) [bearer-hands](bhṛtkarau)
+[gloss](nānālaṅkārasaṃyuktāvutpalamaṇi) [gloss](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [on-own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
+[gloss](sudṛṣṭā) [gloss](jalpamānā) [gloss](ca) [gloss](svotsaṅge) [gloss](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
+[gloss](padmā) [gloss](nandanapadmastha) [gloss](svāṅgādevī) [gloss](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-two-tiger-tiger-faced](basukokakapidvikṣa vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+[gloss](basukokakapidvikṣa) [gloss](vyāghravyāghrāsyakaṃ) [gloss](kramāt)
