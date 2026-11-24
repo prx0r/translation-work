@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-by-hero in-them to-be-done cause charm-cause
+[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause](hetuḥ) [of-pleasing](raṃjana) [causes](hetavaḥ)
+
 ## mukta-m0-p46-v1127
-by-teaching women's not-other-refuge mind
+[by-teachers](ācāryamāṇaiḥ) [of-women](strīṇām) [not-other-refuge](ananyaśaraṇam) [mind](manaḥ)
+
 ## mukta-m0-p46-v1128
-in-slips patience and fault re-examination
+[in-slips](skhalaneṣu) [forbearance](titikṣā) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+
 ## mukta-m0-p46-v1129
-punishment-policy not indeed women to-ruin deserves
+[policy](daṇḍanītiḥ) [not](na) [tu](tu) [towards-women](strīṣu) [to-cast-down](prapātayitum) [is-worthy](arhati)
+
 ## mukta-m0-p46-v1130
-see-boldness-with-them heaven-gone own-husband
+[behold](paśya) [violence-with](sāhasametāsām) [in-heaven-gone](svargate) [own-husband](nijabharttari)
+
 ## mukta-m0-p46-v1131
-grief-beating-harshnesses releasing-indeed own-life
+[by-grief-striking-harshness](khedatāḍanapāruṣyaiḥ) [they-release](muṃcantyeva) [own-life](svajīvitam)
+
 ## mukta-m0-p46-v1132
-therefore gentleness-in-them first mind-charm
+[therefore](ataḥ) [gentleness](mārdavam) [in-them](tāsu) [first](prathamam) [mind-pleasing](cittaraṃjanam)
+
 ## mukta-m0-p46-v1133
-extreme-growth and leading-if-in-them-accomplisher
+[extreme](atyaṃtam) [increase](abhivṛddhim) [and](ca) [leading](nayat) [if](cet) [in-them](tāsu) [accomplisher](sādhakaḥ)
+
 ## mukta-m0-p46-v1134
-middle manner seeing advised-wise
+[middle](madhyamena) [manner](prakāreṇa) [seeing](darśanam) [declared](pradiśat) [wise](budhaḥ)
+
 ## mukta-m0-p46-v1135
-attached other-becoming goes despised how beloved
+[attached](raktaḥ) [to-other-disrespect](parebhavam) [goes](yāti) [disrespected](paribhūtaḥ) [how](katham) [dear](priye)
+
 ## mukta-m0-p46-v1136
-in-bull-desiring them mother not indeed chief and should-make-roam
+[in-bull-like-ones](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyam) [ca](ca) [should-make-roam](cārayet)
+
 ## mukta-m0-p46-v1137
-morsels-also and garments as ability offer
+[morsels](grāsān) [also](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [ability](śakti) [should-offer](nivedayet)
+
 ## mukta-m0-p46-v1138
-therefore hero-people-dependent messenger nature auspicious
+[therefore](tasmāt) [hero-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛtiḥ) [auspicious](śive)
+
 ## mukta-m0-p46-v1139
-couple-union say man-purpose-one-cause
+[of-couple](daṃpatyoḥ) [joining](ghaṭanam) [should-say](brūyat) [human-purpose-single-cause](puruṣārthaikakāraṇam)
+
 ## mukta-m0-p46-v1140
-mutual-affection great-happiness arises
+[mutually](anyonyam) [with-affection](anurāgeṇa) [great](mahat) [happiness](saukhyaṃ) [arises](prajāyate)
+
 ## mukta-m0-p46-v1141
-therefore then-favor for own-favor manifest
+[therefore](tasmāt) [for-that-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
+
 ## mukta-m0-p46-v1142
-embrace-pretext-indeed pleasure massage perform
+[by-embrace-pretext](āliṃganacchalenaiva) [happily](sukham) [massaging](saṃvāhanam) [should-do](caret)
+
 ## mukta-m0-p46-v1143
-taking-anoint-feet messenger she not-other-goer-become
+[should-anoint](ādāya+limpet) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-going](nānyagā) [becomes](bhavet)
+
 ## mukta-m0-p46-v1144
-disgusted not become dispassion by-that arises
+[being-disgusted](jugupsamānaḥ) [not](na) [would-be](bhavet) [dispassion](vairāgyam) [by-that](tena) [arises](jāyate)
+
 ## mukta-m0-p46-v1145
-with-sesame-worlds movement festival and step step
+[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavam) [ca](ca) [at-every-step](pade+pade)
+
 ## mukta-m0-p46-v1146
-various juicy ripe fruits flowers fragrant
+[with-various](vividhaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+
 ## mukta-m0-p46-v1147
-massages betel anointments mouth-perfumes
+[with-ointments](udvarttanaiḥ) [with-betel](tāṃbūlaiḥ) [with-collyrium](aṃjanaiḥ) [with-mouth-perfumes](mukhavāsitaiḥ)
+
 ## mukta-m0-p46-v1148
-charm-beloved wise enjoyments-bright and Parvati
+[should-please](raṃjayet) [beloved](ramaṇīm) [wise](dhīmān) [with-enjoyments](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvati](pārvati)
+
 ## mukta-m0-p46-v1149
-so-long-delighted indeed enjoyment-differences but should-perform
+[so-long](tāvat) [pleased](hiramanā) [eva](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [should-do](pācaret)
+
 ## mukta-m0-p46-v1150
-praise arises that and proud-fruitless-women
+[by-praise](ślāghayā) [arises](jāyate) [that](tad) [ca](ca) [proud](sadarpā) [fruitless](aviphalā) [women](striyaḥ)
