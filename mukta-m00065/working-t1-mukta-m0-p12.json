@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "tadvad",
-"quick_gloss": "thus"
+"quick_gloss": "thus-like"
 },
 {
 "surface": "vedāḥ",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "kuviprasthāḥ",
-"quick_gloss": "bad-brahmins"
+"quick_gloss": "false-brahmin-abodes"
 },
 {
 "surface": "kartuḥ",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "samākhyātāḥ",
-"quick_gloss": "called"
+"quick_gloss": "are-called"
 },
 {
 "surface": "na",
@@ -57,7 +57,7 @@
 },
 {
 "surface": "tvete",
-"quick_gloss": "but-these"
+"quick_gloss": "however-these"
 },
 {
 "surface": "brāhmaṇāḥ",
@@ -78,15 +78,11 @@
 "tokens": [
 {
 "surface": "saṃskṛtānāṃ",
-"quick_gloss": "of-purified"
+"quick_gloss": "of-purified-ones"
 },
 {
-"surface": "yataḥ",
-"quick_gloss": "because"
-},
-{
-"surface": "teṣāṃ",
-"quick_gloss": "their"
+"surface": "yatasteṣāṃ",
+"quick_gloss": "because-theirs"
 },
 {
 "surface": "naśyante",
@@ -115,11 +111,11 @@
 },
 {
 "surface": "āgamāḥ",
-"quick_gloss": "agamas"
+"quick_gloss": "scriptures"
 },
 {
 "surface": "eṣāṃ",
-"quick_gloss": "their"
+"quick_gloss": "theirs"
 },
 {
 "surface": "vratāni",
@@ -177,7 +173,7 @@
 "tokens": [
 {
 "surface": "tathaiva",
-"quick_gloss": "so-too"
+"quick_gloss": "thus-also"
 },
 {
 "surface": "śivayāgeṣu",
@@ -246,12 +242,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "śaivena+mantreṇa",
-"quick_gloss": "by-shaiva-mantra"
+"surface": "śaivena",
+"quick_gloss": "by-shaiva"
+},
+{
+"surface": "mantreṇa",
+"quick_gloss": "mantra"
 },
 {
 "surface": "pratiṣṭheta",
-"quick_gloss": "install"
+"quick_gloss": "one-should-install"
 },
 {
 "surface": "śivādikam",
@@ -272,7 +272,7 @@
 },
 {
 "surface": "tayoḥ",
-"quick_gloss": "of-them"
+"quick_gloss": "of-those-two"
 },
 {
 "surface": "samyak",
@@ -288,7 +288,7 @@
 },
 {
 "surface": "anyamantrataḥ",
-"quick_gloss": "other-mantra"
+"quick_gloss": "by-other-mantra"
 }
 ]
 },
@@ -305,11 +305,11 @@
 },
 {
 "surface": "anyadarśanamantraiḥ",
-"quick_gloss": "other-doctrine-mantras"
+"quick_gloss": "by-other-view-mantras"
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "vā"
 },
 {
 "surface": "pratiṣṭhā",
@@ -325,7 +325,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "tu"
 }
 ]
 },
@@ -362,7 +362,7 @@
 },
 {
 "surface": "khaḍgadisiddhayaḥ",
-"quick_gloss": "sword-etc-siddhis"
+"quick_gloss": "sword-etc-powers"
 }
 ]
 },
@@ -416,7 +416,7 @@
 },
 {
 "surface": "uktam",
-"quick_gloss": "said"
+"quick_gloss": "declared"
 },
 {
 "surface": "vedeṣu",
@@ -437,7 +437,7 @@
 "tokens": [
 {
 "surface": "svamantrabījajāḥ",
-"quick_gloss": "own-mantra-seed-born"
+"quick_gloss": "by-own-mantra-seed-born"
 },
 {
 "surface": "devāḥ",
@@ -466,7 +466,7 @@
 },
 {
 "surface": "śivādhvatattvajñāḥ",
-"quick_gloss": "shiva-path-knowers"
+"quick_gloss": "shiva-path-tattva-knowers"
 },
 {
 "surface": "stāvakāḥ",
@@ -487,7 +487,7 @@
 "tokens": [
 {
 "surface": "stutyaiva",
-"quick_gloss": "by-praise-alone"
+"quick_gloss": "by-praise-only"
 },
 {
 "surface": "sthāpanaṃ",
@@ -536,7 +536,7 @@
 },
 {
 "surface": "rudrabrahmārkacakriṇām",
-"quick_gloss": "rudra-brahma-arka-cakra"
+"quick_gloss": "rudra-brahma-sun-wheel-ones"
 }
 ]
 },
@@ -561,7 +561,7 @@
 },
 {
 "surface": "tathāparāḥ",
-"quick_gloss": "and-other"
+"quick_gloss": "thus-other"
 }
 ]
 },
@@ -574,11 +574,11 @@
 "tokens": [
 {
 "surface": "svasaṃvedye",
-"quick_gloss": "self-known"
+"quick_gloss": "by-own-experience"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "api"
 },
 {
 "surface": "rāgāndhāḥ",
@@ -602,8 +602,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "te'pi",
-"quick_gloss": "they-too"
+"surface": "te",
+"quick_gloss": "those"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "tyājyāḥ",
@@ -690,7 +694,7 @@
 "tokens": [
 {
 "surface": "svaṣaṭkarmānvitaḥ",
-"quick_gloss": "own-six-duties-endowed"
+"quick_gloss": "with-own-six-duties"
 },
 {
 "surface": "nityaṃ",
@@ -756,7 +760,7 @@
 "tokens": [
 {
 "surface": "tṛṇādimūlyabhikṣānnavṛttiḥ",
-"quick_gloss": "grass-etc-value-begging-food"
+"quick_gloss": "grass-etc-low-value-alms-food"
 },
 {
 "surface": "syāt",
