@@ -8,70 +8,70 @@
 [navāntaṃ](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaścakresvake](mayaścakresvake) [mate](mate)
+[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaḥ](mayaḥ) [cakre](cakre) [svake](svake) [mate](mate)
 
 ## mukta-m0-p29-v704
-[tithimāsanavatyardhaihīnamadhyottamāstridhā](tithimāsanavatyardhaihīnamadhyottamāstridhā)
+[tithi](tithi)+[māsana](māsana)+[vat](vat)+[ardha](ardha)+[hīna](hīna)+[madhya](madhya)+[uttamāḥ](uttamāḥ)+[tridhā](tridhā)
 
 ## mukta-m0-p29-v705
-[paṅgurūpāśca](paṅgurūpāśca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhārcāśca](saptadhārcāśca) [vartayet](vartayet)
+[paṅgu](paṅgu)+[rūpāḥ](rūpāḥ) [ca](ca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāḥ) [ca](ca) [vartayet](vartayet)
 
 ## mukta-m0-p29-v706
-[vibhajya](vibhajya) [śaktisūtreṇa](śaktisūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
+[vibhajya](vibhajya) [śakti](śakti)+[sūtreṇa](sūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
 
 ## mukta-m0-p29-v707
-[pīṭhātmāśrayajīvāṃśca](pīṭhātmāśrayajīvāṃśca) [prabhādīṃśca](prabhādīṃśca) [prakalpayet](prakalpayet)
+[pīṭha](pīṭha)+[ātma](ātma)+[āśraya](āśraya)+[jīva](jīva)+[aṃśa](aṃśa) [ca](ca) [prabhā](prabhā)+[ādi](ādi) [ca](ca) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p29-v708
-[kṛtvādhoṃśagataḥ](kṛtvādhoṃśagataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīvakalpanā](jīvakalpanā)
+[kṛtvā](kṛtvā) [adha](adha)+[aṃśa](aṃśa)+[gataḥ](gataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīva](jīva)+[kalpanā](kalpanā)
 
 ## mukta-m0-p29-v709
-[sātmāśrayāṃ](sātmāśrayāṃ) [sadūtīṃ](sadūtīṃ) [pratimāṃ](pratimāṃ) [vartayettataḥ](vartayettataḥ)
+[sātma](sātma)+[āśrayāṃ](āśrayāṃ) [sadūtīṃ](sadūtīṃ) [ca](ca) [pratimāṃ](pratimāṃ) [vartayet](vartayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p29-v710
-[bhāgaikamaṅgula](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [mahārcāṃ](mahārcāṃ) [vatayedbudhaḥ](vatayedbudhaḥ)
+[bhāga](bhāga)+[eka](eka)+[maṅgula](maṅgula) [kṛtvā](kṛtvā) [mahā](mahā)+[arcāṃ](arcāṃ) [vatayet](vatayet) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p29-v711
-[eka](eka) [bhāge'ṅgulaṃ](bhāge'ṅgulaṃ) [tasyā](tasyā) [stenāṅgaṃ](stenāṅgaṃ) [parikalpayet](parikalpayet)
+[eka](eka) [bhāge](bhāge) [aṅgulaṃ](aṅgulaṃ) [tasyā](tasyā) [stena](stena)+[aṅgaṃ](aṅgaṃ) [parikalpayet](parikalpayet)
 
 ## mukta-m0-p29-v712
-[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛjvarcāṃ](ṛjvarcāṃ) [kārayecchubhām](kārayecchubhām)
+[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛju](ṛju)+[arcāṃ](arcāṃ) [kārayet](kārayet) [śubhām](śubhām)
 
 ## mukta-m0-p29-v713
-[jīvasyāddairghyamānena](jīvasyāddairghyamānena) [pratyaṅgānyadhunā](pratyaṅgānyadhunā) [vruve](vruve)
+[jīvasya](jīvasya) [ād](ād)+[dairghya](dairghya)+[mānena](mānena) [pratyaṅgāni](pratyaṅgāni) [adhunā](adhunā) [vruve](vruve)
 
 ## mukta-m0-p29-v714
-[mātrābhistithisaṃkhyābhirmukuṭa](mātrābhistithisaṃkhyābhirmukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
+[mātrābhiḥ](mātrābhiḥ) [tithi](tithi)+[saṃkhyābhiḥ](saṃkhyābhiḥ) [mukuṭa](mukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p29-v715
-[tālamānaṃ](tālamānaṃ) [bhavedvakraṃ](bhavedvakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
+[tāla](tāla)+[mānaṃ](mānaṃ) [bhavet](bhavet) [vakraṃ](vakraṃ) [grīvā](grīvā) [ca](ca) [catur](catur)+[aṅgulā](aṅgulā)
 
 ## mukta-m0-p29-v716
-[tālaikaikapramāṇaṃ](tālaikaikapramāṇaṃ) [syādūrū](syādūrū) [tālavinirgamau](tālavinirgamau)
+[tāla](tāla)+[eka](eka)+[eka](eka)+[pramāṇaṃ](pramāṇaṃ) [syāt](syāt) [ūrū](ūrū) [tāla](tāla)+[vinirgamau](vinirgamau)
 
 ## mukta-m0-p29-v717
-[jñeyau](jñeyau) [gulphau](gulphau) [dvinetrau](dvinetrau) [ca](ca) [pārṣṇīdvyaṅgulake](pārṣṇīdvyaṅgulake) [mate](mate)
+[jñeyau](jñeyau) [gulphau](gulphau) [dvi](dvi)+[netrau](netrau) [ca](ca) [pārṣṇī](pārṣṇī) [dvi](dvi)+[aṅgulake](aṅgulake) [mate](mate)
 
 ## mukta-m0-p29-v718
-[madhye](madhye) [kalādvayocchrāyovagresārdhārdha](kalādvayocchrāyovagresārdhārdha) [mātrakau](mātrakau)
+[madhye](madhye) [kalā](kalā)+[dvaya](dvaya)+[ucchrāya](ucchrāya) [avagra](avagra) [sārdha](sārdha)+[ardha](ardha) [mātrakau](mātrakau)
 
 ## mukta-m0-p29-v719
-[pañcāṅgulau](pañcāṅgulau) [veṣṭanena](veṣṭanena) [sārdhāṅgaladviparvaṇī](sārdhāṅgaladviparvaṇī)
+[pañca](pañca)+[aṅgulau](aṅgulau) [veṣṭanena](veṣṭanena) [sārdha](sārdha)+[aṅgala](aṅgala)+[dvi](dvi)+[parvaṇī](parvaṇī)
 
 ## mukta-m0-p29-v720
-[tryaṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tvadhunāparāḥ](tvadhunāparāḥ)
+[tri](tri)+[aṅgulā](aṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tu](tu) [adhunā](adhunā) [aparāḥ](aparāḥ)
 
 ## mukta-m0-p29-v721
-[pādāṅgulyastriparvāṇaḥ](pādāṅgulyastriparvāṇaḥ) [parvārdhanakhaśobhitāḥ](parvārdhanakhaśobhitāḥ)
+[pāda](pāda)+[aṅgulyaḥ](aṅgulyaḥ) [tri](tri)+[parvāṇaḥ](parvāṇaḥ) [parva](parva)+[ardha](ardha)+[nakha](nakha)+[śobhitāḥ](śobhitāḥ)
 
 ## mukta-m0-p29-v722
-[kārāṅghri](kārāṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [savonnatāruṇāḥ](savonnatāruṇāḥ)
+[kāra](kāra)+[aṅghri](aṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [sa](sa)+[vonnata](vonnata)+[aruṇāḥ](aruṇāḥ)
 
 ## mukta-m0-p29-v723
-[upabāhū](upabāhū) [daśāṣṭāṃśau](daśāṣṭāṃśau) [ṣoḍaśāṅgulakau](ṣoḍaśāṅgulakau) [bhujau](bhujau)
+[upabāhū](upabāhū) [daśa](daśa)+[aṣṭa](aṣṭa)+[aṃśau](aṃśau) [ṣoḍaśa](ṣoḍaśa)+[aṅgulakau](aṅgulakau) [bhujau](bhujau)
 
 ## mukta-m0-p29-v724
-[bhūtāṅgulā](bhūtāṅgulā) [bhavenmadhyā](bhavenmadhyā) [ardhahīnā](ardhahīnā) [tvanāmikā](tvanāmikā)
+[bhūta](bhūta)+[aṅgulā](aṅgulā) [bhaven](bhaven) [madhyā](madhyā) [ardha](ardha)+[hīnā](hīnā) [tu](tu) [anāmikā](anāmikā)
 
 ## mukta-m0-p29-v725
-[madhyamādyāstriparvāṇo](madhyamādyāstriparvāṇo) [dviparvāṅguṣṭhako](dviparvāṅguṣṭhako) [mataḥ](mataḥ)
+[madhyamā](madhyamā)+[ādyāḥ](ādyāḥ) [tri](tri)+[parvāṇaḥ](parvāṇaḥ) [dvi](dvi)+[parva](parva)+[aṅguṣṭhakaḥ](aṅguṣṭhakaḥ) [mataḥ](mataḥ)
