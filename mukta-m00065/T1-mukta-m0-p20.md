@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[thus](iti) [eighteen](aṣṭādaśa) [images](bimbāni) [told](kathitāni) [here](atra) [by-count](saṃkhyayā)
-
+thus eighteen images told here by-number
 ## mukta-m0-p20-v477
-[would-be](bhaveyuḥ) [worms](kṛmayaḥ) [in-womb](garbhe) [destruction](nāśaḥ) [of-body-and-wealth](dehārthayoḥ) [thereafter](tataḥ)
-
+would-be worms in-embryo destruction of-body-and-wealth thereafter
 ## mukta-m0-p20-v478
-[by-that](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārakaḥ) [dies](mriyate) [in-order](kramāt)
-
+by-that king and minister and maker dies in-order
 ## mukta-m0-p20-v479
-[in-red-picture](raktacitre) [and](ca) [horned](śṛṅgī) [would-be](syāt) [by-that](tayā) [grief-fear](śokabhayam) [repeatedly](muhuḥ)
-
+in-red-picture and horned would-be by-that grief-fear repeatedly
 ## mukta-m0-p20-v480
-[in-black-picture](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](saḥ) [many-disease-causing](anekavyādhikārakaḥ)
-
+in-black-picture and cow-loss he many-disease-causing
 ## mukta-m0-p20-v481
-[seven](sapta) [these](etāni) [indeed](tu) [pictures](citrāṇi) [known](jñeyāni) [by-external-signs](bāhyalakṣaṇaiḥ)
-
+seven these indeed pictures known by-external-marks
 ## mukta-m0-p20-v482
-[by-four-modification-difference](caturvikārabhedena) [womb](garbham) [know](vidyāt) [by-plaster](pralepataḥ)
-
+by-four-modification-difference embryo know by-plaster
 ## mukta-m0-p20-v483
-[saurashtri](saurāṣṭrī) [with-palm](tālasaṃyuktam) [sauvira](sauvīreṇa) [and](ca) [grind](peṣayet)
-
+saurashtri with-palm sauvira and grind
 ## mukta-m0-p20-v484
-[bee](bhṛṅgāhī) [black-fish](kṛṣṇamatsyam) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣadāḥ) [abandon](tyajet)
-
+bee-snake black-fish or knowing those fault-giving abandon
 ## mukta-m0-p20-v485
-[ground](piṣṭvā) [thus](evam) [equal-part](samabhāgam) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [anoint](lepayet)
-
+having-ground thus equal-part but woman with-milk anoint
 ## mukta-m0-p20-v486
-[by-that](tena) [maker's-death](karturmṛtyuḥ) [therefore](tasmāt) [her](tām) [in-water](salile) [throw](kṣipet)
-
+by-that maker's death-therefore that in-water throw
 ## mukta-m0-p20-v487
-[day-night-soaked](ahorātroṣite) [blood](raktam) [reject](tyājyam) [turtle-included](ūrmānvitam) [and](ca) [which](yat)
-
+day-night-exposed blood reject wave-possessing and which
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇam) [rudra-jata-yoked](rudrajaṭāyuktam) [with-sheep-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
-
+sharp rudra-jata-possessing with-sheep-milk grind and
 ## mukta-m0-p20-v489
-[of-two](dvayoḥ) [double-form](dvirūpakam) [in-womb](garbhe) [knowing](jñātvā) [prior-fault-giving](prāgdoṣadān) [abandon](tyajet)
-
+of-two double-form in-embryo knowing prior-fault-giving abandon
 ## mukta-m0-p20-v490
-[maker's](kartuḥ) [that-family-heart](tatkulahṛt) [indeed](nūnam) [guru](guroḥ) [give](dadyāt) [consumption-disease](kṣayāmayam)
-
+maker's that-family-heart certainly guru give consumption-disease
 ## mukta-m0-p20-v491
-[by-hammer-strike](ṭaṅkāghātāt) [splitting-form](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
-
+chisel-strike from-splitting-form joint maker-destroying
 ## mukta-m0-p20-v492
-[blister](sphoṭam) [cracked](sphuṭitakam) [know](vidyāt) [weapon-strike](śastraghātāt) [end-giving](antadāyakam)
-
+blister cracked know weapon-strike end-giving
 ## mukta-m0-p20-v493
-[sky-shaped](vyomākāraḥ) [would-be](bhavet) [sky](vyomaḥ) [he](saḥ) [soon](acirāt) [maker-destroying](kartṛnāśakaḥ)
-
+sky-shaped would-be sky he soon maker-destroying
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
-
+by-that maker-progeny-destruction quickly indeed no doubt
 ## mukta-m0-p20-v495
-[therefore](tena) [do-not](kuryānna) [make](kuryāt) [signs](liṅgāni) [done](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
-
+by-that make not marks done and two perish
 ## mukta-m0-p20-v496
-[yellow](pītam) [white](sitam) [and](tathā) [black](kṛṣṇam) [red](raktam) [blue](nīlam) [and](ca) [mixed](miśrakam)
-
+yellow white and black red blue and mixed
 ## mukta-m0-p20-v497
-[nine-half](navatyardham) [great-faults](mahādoṣāḥ) [difference-distinct](bhedabhinnāḥ) [thus](iti) [remembered](smṛtāḥ)
-
+nine-half great-faults difference-distinct thus remembered
 ## mukta-m0-p20-v498
-[brahma-upendra-division-standing](brahmopendravibhāgasthān) [threefold](tridhā) [in-signs](liṅgeṣu) [fault-giving](doṣadān)
-
+brahma-upendra-division-standing threefold in-marks fault-giving
 ## mukta-m0-p20-v499
-[vein](śirā) [knot-tusara](granthituṣāraiḥ) [and](ca) [pure](vimalam) [give](dadu) [drops](bindubhiḥ)
-
+vein knot-chaff and pure give drops
 ## mukta-m0-p20-v500
-[cat-horse-camel-jackal-crow-foot-marked](viḍālāśvoṣṭragomāyukākapādāṅkitān) [abandon](tyajet)
+cat-horse-camel-jackal-crow-foot-marked abandon
