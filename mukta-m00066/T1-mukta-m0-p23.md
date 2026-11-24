@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ananda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](āsmin) [catvarah](catvāraḥ) [param-iritah](paramīritāḥ)
+[ānanda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](āsmin) [catvāraḥ](catvāraḥ) [parama-īritāḥ](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[tasmat](tasmāt) [catvarah](catvāraḥ) [ullasah](ullāsāḥ) [iha](iha) [proktah](proktāḥ) [maheshvari](maheśvari)
+[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
 
 ## mukta-m0-p23-v553
-[tasmat](tasmāt) [ananda-pujaya](ānaṃda+pūjāyāḥ) [malam-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayah](trayaḥ)
+[tasmāt](tasmāt) [ānanda-pūjāyāḥ](ānaṃdapūjāyā) [mālaṃ-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
 
 ## mukta-m0-p23-v554
-[tatha](tathā) [tatha](tathā) [para-ananda](parānaṃda) [natha-vidyam](nāthavidyāṃ) [para-amrset](parāmṛśet)
+[tathā](tathā) [tathā](tathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dutya](dūtyā) [samdhukshita](saṃdhukṣita) [sva-atma](svātmā) [nanda-murtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [ānanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
 
 ## mukta-m0-p23-v556
-[dvadasha-anta-gate](dvādaśāṃtagate) [rakta-shukla-pade](raktaśuklapāde) [vi-nikshipet](vinikṣipet)
+[dvādaśa-anta-gate](dvādaśāṃtagate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shiva-tva-samrajya](śivatvasāmrājya) [pada-abhishiktam](padābhiṣiktaṃ) [svam](svaṃ) [vi-cintayet](viciṃtayet)
+[śiva-tva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[pashyan](paśyan) [praty-angam](pratyaṃgamaṃ) [kura-danam](kūradanaṃ) [gottu-ga-manasah](gottuṃgamānasaḥ)
+[paśyan](paśyan) [pratyaṅga-maṅkūra-danam](pratyaṃgamaṃkūradanaṃ) [gottuṅga-mānasaḥ](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[yatha](yathā) [yauvanam](yauvanam) [ullasam](ullāsaṃ) [sam-prapnoti](saṃprāpnoti) [amba](aṃba) [dutika](dūtikā)
+[yathā](yathā) [yauvanam](yauvanam) [ullāsam](ullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [amba](aṃba) [dūtikā](dūtikā)
 
 ## mukta-m0-p23-v560
-[alokana-ratih](ālokaneratiḥ) [sakshat](sākṣāt) [smite](smite) [jagarti](jāgarti) [jahnavi](jāhnavī)
+[ālokane](ālokane) [ratiḥ](ratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-[ashvinau](aśvinau) [nasika-bhage](nāsikābhāge) [tu](tu) [oshthe](oṣṭhe) [ca](ca) [parama-amrtam](paramāmṛtam)
+[aśvinau](aśvinau) [nāsikā-bhāge](nāsikābhāge) [tu](tu) [oṣṭhe](oṣṭhe) [ca](ca) [parama-amṛtam](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [varuni](vāruṇī) [devi](devī) [kama-nathah](kāmanāthaḥ) [tu](tu) [aham](ahaṃ) [krtau](kṛtau)
+[svede](svede) [ca](ca) [vāruṇī](vāruṇī) [devī](devī) [kāma-nāthaḥ](kāmanāthaḥ) [tu](tu) [aham](ahaṃ) [kṛtau](kṛtau)
 
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-girih](merugirir) [nih](niḥ) [shabdam](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+[stana-dvaye](stanadvaye) [meru-giriḥ](merugirir) [niḥśabdam](niḥśabdaṃ) [brahma-madhyame](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nabhi-garbhe](nābhigarbhe) [guha-ambika](guhāṃbikā)
+[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi-garbhe](nābhigarbhe) [guhāmbikā](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakhesu](nakheṣu) [shitam](śītāṃ) [shu](śu) [kala-dor-mule](kalādormmūle) [kusha-devatah](kuśadevatāḥ)
+[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu-kalā](śu kalā) [dor-mūle](dormmūle) [kuśa-devatāḥ](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [ca](ca) [eva](eva) [nishvase](niśvāse) [goda-sit-kara](godāsītkāra) [karmani](karmaṇi)
+[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sītkāra](sītkāra) [karmaṇi](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala-alapa-krtyesu](amalālāpakṛtyeṣu) [citta-vishranti](cittaviśrāṃti) [nayaka](nāyakā)
+[amala-ālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrānti](cittaviśrāṃti) [nāyakā](nāyakā)
 
 ## mukta-m0-p23-v568
-[vakptih](vākptiḥ) [sukha-humkare](sukhahuṃkāre) [gishpati-ka-kuka-dhvau](gīṣpatīkākukādhvanau)
+[vāk-patiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpati](gīṣpati) [kāku](kāku) [dhvanau](dhvanau)
 
 ## mukta-m0-p23-v569
-[indrah](iṃdraḥ) [citta-samunnatyam](cittasamunnatyām) [agnih](agniḥ) [vastu](vastu) [grasi-tvishi](grasītviṣi)
+[indraḥ](iṃdraḥ) [citta-samunnatyām](cittasamunnatyām) [agniḥ](agniḥ) [vastu](vastu) [grasītviṣi](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hasta-adi-calane](hastādicālane) [yajnah](yajñaḥ) [tu](tu) [ashlese](āśleṣe) [yajna-purushah](yajñapūruṣaḥ)
+[hasta-ādi-cālane](hastādicālane) [yajñaḥ](yajñaḥ) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lasyam](lāsyaṃ) [ca](ca) [tandavam](tāṃḍavaṃ) [devi](devi) [tasya](tasyā) [deha-adi](dehādi) [ghurnane](ghūrṇane)
+[lāsyam](lāsyaṃ) [ca](ca) [tāṇḍavam](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tani](tāni) [sarvani](sarvāṇi) [varttate](varttate) [tasya](tasyā) [gandusha-vastuni](gaṃḍūṣavastuni)
+[tāni](tāni) [sarvāṇi](sarvāṇi) [varttante](varttate) [tasyāḥ](tasyā) [gaṇḍūṣa-vastuni](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat-phalam](tatphalaṃ) [labhate](labhate) [duti](dūtī) [sudha-gandusha](sudhāgaṃḍūṣa) [sevanat](sevanāt)
+[tat-phalam](tatphalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṇḍūṣa-sevanāt](sudhāgaṃḍūṣasevanāt)
 
 ## mukta-m0-p23-v574
-[gandusham](gaṃḍūṣam) [adiram](ādiraṃ) [devi](devī) [virasya](vīrasya) [ananda](ānaṃda) [varddhanam](varddhanam)
+[gaṇḍūṣam](gaṃḍūṣam) [ādiram](ādiraṃ) [devī](devī) [vīrasya](vīrasya) [ānanda-varddhanam](ānaṃdavarddhanam)
 
 ## mukta-m0-p23-v575
-[nitya-klinna](nityaklinnā) [sudha](sudhā) [devi](devī) [rati](rati) [pritih](prītiḥ) [ca](ca) [tat-bhage](tadbhage)
+[nitya-klinnā](nityaklinnā) [sudhā](sudhā) [devī](devī) [rati](rati) [prītiḥ](prītiḥ) [ca](ca) [tat-bhage](tadbhage)

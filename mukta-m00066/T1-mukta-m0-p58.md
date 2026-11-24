@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[seen](dṛṣṭa) [all](sarvā) [of-action](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
+[dṛṣṭa](dṛṣṭa) [sarvā](sarvā) [kṛtitvasya](kṛtitvasya) [ghaṭanaṃ](ghaṭanaṃ) [na](na) [ghaṭe](ghaṭe) [bhavat](bhavat)
 
 ## mukta-m0-p58-v1427
-[trinity](tritvantu) [of-practice](vyavahārasyāpyapekṣaivātra) [here](atra) [accepted](sammatam)
+[tritvantu](tritvantu) [vyavahārasyāpyapekṣaivātra](vyavahārasyāpyapekṣaivātra) [sammatam](sammatam)
 
 ## mukta-m0-p58-v1428
-[ninth](navamaṃ) [shiva-principle](śivatatvaṃ) [indeed](tu) [word-born](śabdabhāvyamihādhunā)
+[navamaṃ](navamaṃ) [śivatatvaṃ](śivatatvaṃ) [tu](tu) [śabdabhāvyamihādhunā](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-[word-manifestation](śabdabhāsyatvamujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
+[śabdabhāsyatvamujhitvā](śabdabhāsyatvamujhitvā) [svādhyakṣeṇa](svādhyakṣeṇa) [sabhāsate](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[self-support](svāśrayo) [of-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
+[svāśrayo](svāśrayo) [marudekasya](marudekasya) [udāsīnaṃ](udāsīnaṃ) [tamaḥ](tamaḥ) [smṛtam](smṛtam)
 
 ## mukta-m0-p58-v1431
-[shiva](śivastu) [all-support](sarvāśrayaḥ) [may-be](syāt) [there](tatra) [properly-distinguished](samyagvivicyate)
+[śivastu](śivastu) [sarvāśrayaḥ](sarvāśrayaḥ) [syāt](syāt) [tatra](tatra) [samyagvivicyate](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[to-me](mahyāṃ) [siddhi-beginning-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
+[mahyāṃ](mahyāṃ) [siddhādirūpeṇa](siddhādirūpeṇa) [vāyaumeghahimātmatā](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[word-this-ghī-water-wind](śabdemaṃghījalamarut) [refuge](saṃśrayaḥ) [told](kathitaḥ) [dear](priye)
+[śabdemaṃghījalamarut](śabdemaṃghījalamarut) [saṃśrayaḥ](saṃśrayaḥ) [kathitaḥ](kathitaḥ) [priye](priye)
 
 ## mukta-m0-p58-v1434
-[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [body-ness](śarīratvena) [proclaimed](kīrtyate)
+[saṃghātaśca](saṃghātaśca) [pṛthivyādeḥ](pṛthivyādeḥ) [śarīratvena](śarīratvena) [kīrtyate](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[by-life-force](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [that](tat) [conscious](sacit) [what-here-called](kamihocyate)
+[prāṇena](prāṇena) [ceṣṭamānaṃ](ceṣṭamānaṃ) [yat](yat) [tat](tat) [sacit](sacit) [kamihocyate](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[mind-refuge](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [conscious](sacit) [poet-body-remembered](kavapuṣismṛtam)
+[manaḥsaṃsrayaṇaṃ](manaḥsaṃsrayaṇaṃ) [prāṇi](prāṇi) [sacit](sacit) [kavapuṣismṛtam](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
+[sarveṣāmihatatvānāṃ](sarveṣāmihatatvānāṃ) [vikṛtirguṇabhedajā](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[aggregate-born](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavonaikarūpiṇaḥ)
+[saṃghātajāśca](saṃghātajāśca) [saṃghātā](saṃghātā) [bahavonaikarūpiṇaḥ](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what-here-said](kimihoktena) [what-principles-other-inert](kintatvairaparairjaḍaiḥ)
+[bahunā](bahunā) [kimihoktena](kimihoktena) [kintatvairaparairjaḍaiḥ](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[un-cuttable](acchedyo'yamadāhoya) [wettable](makledyośoṣya) [and](eva) [ca](ca)
+[acchedyo'yamadāhoya](acchedyo'yamadāhoya) [makledyośoṣya](makledyośoṣya) [eva](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
-[of-all-universe](sarvaviśvasya) [father](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
+[sarvaviśvasya](sarvaviśvasya) [janakaḥ](janakaḥ) [sarvaviśvasya](sarvaviśvasya) [pālakaḥ](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
+[sa](sa) [giridvīpajaladhikānanā](giridvīpajaladhikānanā) [sakalāmahī](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[these](etā) [visible](dṛśyastva) [indeed-counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
+[etā](etā) [dṛśyastva](dṛśyastva) [saṃkhyātā](saṃkhyātā) [vasudhāvāsavārcite](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[light-wheel](jyotiścakraṃ) [all](samastaṃ) [and](ca) [wind](vāyu) [not-indeed-moved](naiva) [pracālyate](pracālyate)
+[jyotiścakraṃ](jyotiścakraṃ) [samastaṃ](samastaṃ) [ca](ca) [vāyu](vāyu) [naiva](naiva) [pracālyate](pracālyate)
 
 ## mukta-m0-p58-v1445
-[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [and](ca) [still](sthimitaḥ) [somewhere](kvacit)
+[sadā](sadā) [carati](carati) [kutrāpi](kutrāpi) [sadā](sadā) [ca](ca) [sthimitaḥ](sthimitaḥ) [kvacit](kvacit)
 
 ## mukta-m0-p58-v1446
-[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [that](tatodyate)
+[yadā](yadā) [pravahati](pravahati) [kṣipraṃ](kṣipraṃ) [saśabdena](saśabdena) [tatodyate](tatodyate)
 
 ## mukta-m0-p58-v1447
-[this](etat) [indeed](tu) [principle](tattvaṃ) [told](kathitamasyaivānyā) [other-powers](vibhūtayaḥ)
+[etat](etat) [tu](tu) [tattvaṃ](tattvaṃ) [kathitamasyaivānyā](kathitamasyaivānyā) [vibhūtayaḥ](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[that](tat) [that-scripture](tacchāstra) [establishment](sthitiḥ) [all](sarvā) [told](kathitā) [mountain-daughter](girinaṃdini)
+[tat](tat) [tacchāstra](tacchāstra) [sthitiḥ](sthitiḥ) [sarvā](sarvā) [kathitā](kathitā) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[elsewhere](anyatra) [my](mama) [what](yat) [something](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
+[anyatra](anyatra) [mama](mama) [yat](yat) [kiṃcit](kiṃcit) [praṣṭavyaṃ](praṣṭavyaṃ) [spṛṣṭamāśaye](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
+[aneka](aneka) [jantujālena](jantujālena) [nibiḍasya](nibiḍasya) [nirantaram](nirantaram)
