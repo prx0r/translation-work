@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-rakṣaḥ-dvitaya-kumbhīra sarpacakra-āsyakaṃ ca bham
+[pada](rakṣodvitayakumbhīra) [pada](sarpacakrāsyakaṃ) [pada](ca) [pada](bham)
 
 ## mukta-m0-p44-v1077
-aśvinau ca yamaḥ vahniḥ prajā-indra-indu-haraḥ aditiḥ
+[pada](aśvinau) [pada](ca) [pada](yamo) [pada](vahniḥ) [pada](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-tvaṣṭā vāyuḥ sura-indraḥ agniḥ mitra-indrau yāvat-pām-patiḥ
+[pada](tvaṣṭā) [pada](vāyuḥ) [pada](surendro'gnirmitrendrau) [pada](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-viṣṇuḥ vasu-raja-eka-ādi-pāda-hirbudhna pūṣakāḥ
+[pada](viṣṇurvasurajaikādipādahirbudhna) [pada](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-pumān gadī sa-vīṇā ca yoṣit nmithunaṃ dhanuḥ
+[pada](pumān) [pada](gadī) [pada](savīṇā) [pada](ca) [pada](yoṣitta) [pada](nmithunaṃ) [pada](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-strī nau-stholkā-asi-bhṛt-kanyā tulā-dhāraḥ naraḥ tulā
+[pada](strī) [pada](naustholkāsibhṛtkanyā) [pada](tulādhāro) [pada](narastulā)
 
 ## mukta-m0-p44-v1082
-meṣa-ādyāḥ pañca ca-eva-anye sva-nāma-tulya-rūpakāḥ
+[pada](meṣādyāḥ) [pada](pañca) [pada](caivānye) [pada](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-hema-ābhaḥ sa-kirīṭaḥ ca deva-rājaḥ sura-āvṛtaḥ
+[pada](hemābhaḥ) [pada](sakirīṭaśca) [pada](devarājaḥ) [pada](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-chāga-sthaḥ sa-akṣa-sūtra-ugraḥ sapta-arcis śakti-dhārakaḥ
+[pada](chāgasthaḥ) [pada](sākṣasūtrograḥ) [pada](saptārciḥ) [pada](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-rakta-hṛk-pāśa-bhṛt-kṛṣṇaḥ mahiṣa-stha-ugra-dūtavān
+[pada](raktahṛkpāśabhṛtkṛṣṇo) [pada](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-puṃ-sthita khaḍga-hastaḥ ca nīla-ābhaḥ rākṣasa-āvṛtaḥ
+[pada](puṃsthita) [pada](khaḍgahastaśca) [pada](nīlābho) [pada](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-sarva-ābharaṇa-saṃyuktaḥ varūṇaḥ pīta-vastra-bhṛt
+[pada](sarvābharaṇasaṃyukto) [pada](varūṇaḥ) [pada](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-rakta-akṣaḥ rakta-vāsaḥ ca mṛga-sthaḥ ca aṅkuśī dhvajī
+[pada](raktakṣo) [pada](raktavāsaśca) [pada](mṛgasthaścaṅkuśī) [pada](dhvajī)
 
 ## mukta-m0-p44-v1089
-dhana-īśaḥ vara-daḥ kāryaḥ nānā-ābharaṇa-maṇḍitaḥ
+[pada](dhaneśo) [pada](varadaḥ) [pada](kāryo) [pada](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-īśānaḥ ahi-indu-bhṛt ca ete loka-pālāḥ dvi-bāhavaḥ
+[pada](īśāno'hīndubhṛccaite) [pada](lokapālā) [pada](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-viśvakarmā sadā gauraḥ jñāna-mudrā-akṣa-sūtra-bhṛt
+[pada](viśvakarmā) [pada](sadā) [pada](gauro) [pada](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-ālīḍha-karaṇa-āsaktaṃ mahā-kāyaṃ su-bhīṣaṇam
+[pada](ālīḍhakaraṇāsaktaṃ) [pada](mahākāyaṃ) [pada](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-pīta-dhvaja-dharaṃ vāme tarjanīṃ vā hṛd-agrataḥ
+[pada](pītadhvajadharaṃ) [pada](vāme) [pada](tarjanīṃ) [pada](vā) [pada](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-saṃpīḍya rākasān padbhyāṃ muñcan-nādaṃ marut-sutam
+[pada](saṃpīḍya) [pada](rākasān) [pada](padbhyāṃ) [pada](muñcannādaṃmarutsutam)
 
 ## mukta-m0-p44-v1095
-skandha-yakṣa-anvitā nityaṃ kartavyā yoṣit-anvitāḥ
+[pada](skandhayakṣānvitā) [pada](nityaṃ) [pada](kartavyā) [pada](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-mālā-bhṛtaḥ athavā hṛṣṭāḥ kha-sthāḥ vidyādharāḥ sadā
+[pada](mālābhṛto'thavā) [pada](hṛṣṭāḥ) [pada](khasthā) [pada](vidyādharāḥ) [pada](sadā)
 
 ## mukta-m0-p44-v1097
-piṅga-varvara keśa-aśva vetālāḥ vikṛta-ānanāḥ
+[pada](piṅgavarvara) [pada](keśāśva) [pada](vetālā) [pada](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-kapāla-mālinaḥ śūla-dhārīṇaḥ kṣetra-pālakāḥ
+[pada](kapālamālinaḥ) [pada](śūladhārīṇaḥ) [pada](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-kṛśāḥ mahodarāḥ pretāḥ khalu gallāḥ ca lomaśāḥ
+[pada](kṛśā) [pada](mahodarāḥ) [pada](pretā) [pada](khalva) [pada](gallāśca) [pada](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-sva-aṅga-varṇa-dharāḥ sarvāḥ yathoktaṃ brahma-yāmale
+[pada](svāṅgavarṇadharāḥ) [pada](sarvā) [pada](yathoktaṃ) [pada](brahmayāmale)
