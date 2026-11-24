@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[prāvrājyāt](prāvrājyāt) [naśyate](naśyate) [pūrvam](pūrvam) [strī-yogāt](strīyogāt) [aparam](aparam) [tathā](tathā)
+[prāvrājya](prāvrājyān) [naśyate](naśyate) [pūrvam](pūrvaṃ) [strī-yoga](strīyogād) [aparam](aparaṃ) [tathā](tathā)
 
 ## mukta-m0-p10-v227
-[tri-karṇa-utthāḥ](trikarṇotthāḥ) [tri-karṇāḥ](trikarṇāḥ) [ca](ca) [tri-kapāna-ātma](trikapānātma) [karṇakāḥ](karṇakā)
+[tri-karṇa-uttha](trikarṇotthās) [tri-karṇa](trikarṇāś) [ca](ca) [tri-kapāna-ātma](trikapānātma) [karṇaka](karṇakā)
 
 ## mukta-m0-p10-v228
-[bhasma-aṅkuraḥ](bhasmāṅkuraḥ) [tu](tu) [kattha-osthaḥ](katthosthaḥ) [tat-sutāḥ](tatsutāḥ) [kauśika-ādayaḥ](kauśikādayaḥ)
+[bhasma-aṅkura](bhasmāṅkuras) [tu](tu) [kattha-ostha](katthosthas) [tat-sutāḥ](tatsutāḥ) [kauśika-ādayaḥ](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[rāṣṭra-kṣaya-karāḥ](rāṣṭrakṣayakarāḥ) [hi](hi) [ete](ete) [ye](ye) [ca](ca) [paṣāṇḍinaḥ](paṣāṇḍinaḥ) [narāḥ](narāḥ)
+[rāṣṭra-kṣaya-kara](rāṣṭrakṣayakarā) [hi](hy) [ete](ete) [ye](ye) [ca](ca) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
 
 ## mukta-m0-p10-v230
-[śāstra-avalokanāt](śāstrāvalokanāt) [eva](eva) [caṇḍeśaḥ](caṇḍeśaḥ) [tasya](tasya) [śāsakaḥ](śāsakaḥ)
+[śāstra-avalokana](śāstrāvalokanād) [eva](eva) [caṇḍeśa](caṇḍeśas) [tasya](tasya) [śāsakaḥ](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[saḥ](sa) [yāti](yāti) [narakam](narakam) [sadyaḥ](sadyaḥ) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
+[sa](sa) [yāti](yāti) [narakam](narakaṃ) [sadyaḥ](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[teṣām](teṣām) [ācaraṇāt](ācaraṇāt) [nityam](nityam) [ācāryaḥ](ācāryaḥ) [iti](iti) [kīrtyate](kīrtyate)
+[teṣām](teṣām) [ācaraṇāt](ācaraṇān) [nityam](nityam) [ācārya](ācārya) [iti](iti) [kīrtyate](kīrtyate)
 
 ## mukta-m0-p10-v233
-[tasmāt](tasmāt) [na](na) [mānavīm](mānavīm) [buddhim](buddhim) [kārayet](kārayet) [daiśikam](daiśikam) [prati](prati)
+[tasmāt](tasmān) [na](na) [mānavīm](mānavīṃ) [buddhim](buddhiṃ) [kārayet](kārayed) [daiśikam](daiśikaṃ) [prati](prati)
 
 ## mukta-m0-p10-v234
-[pañca-vaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañca-āgama-vivṛddhaye](pañcāgamavivṛddhaye)
+[pañca-vaktra](pañcavaktrāṇi) [devasya](devasya) [pañca-āgama](pañcāgama) [vivṛddhaye](vivṛddhaye)
 
 ## mukta-m0-p10-v235
-[dīptam](dīptam) [sūkṣmam](sūkṣmam) [ca](ca) [sāhasram](sāhasram) [aṃśum](aṃśum) [su-prabham](suprabham) [daśa](daśa)
+[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasram) [aṃśuma](aṃśuma) [su-prabhaṃ](suprabhaṃ) [daśa](daśa)
 
 ## mukta-m0-p10-v236
-[vijayam](vijayam) [pāram-aiśvaryam](pāramaiśvaryam) [niśvāsa-udgīta-saṃjñakam](niśvāsodgītasaṃjñakam)
+[vijayam](vijayaṃ) [pāra-maiśvaryam](pāramaiśvaryaṃ) [niśvāsa-udgīta](niśvāsodgīta) [saṃjñakam](saṃjñakam)
 
 ## mukta-m0-p10-v237
-[narasiṃham](narasiṃham) [candra-hāsam](candrahāsam) [vīram](vīram) [svāyambhu-rauravam](svāyambhurauravam)
+[narasiṃham](narasiṃhaṃ) [candra-hāsam](candrahāsaṃ) [vīram](vīraṃ) [svāyambhu](svāyambhu) [rauravam](rauravam)
 
 ## mukta-m0-p10-v238
-[rudra-bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātāḥ) [daśa-aṣṭādaśa](daśāṣṭādaśa) [ca](ca) [ūrdhva-gāḥ](ūrdhvagāḥ)
+[rudra-bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśa-aṣṭādaśa](daśāṣṭādaśa) [ūrdhva-gāḥ](ūrdhvagāḥ)
 
 ## mukta-m0-p10-v239
-[pañca-bhūta](pañcabhūta) [vibhāgam](vibhāgam) [ca](ca) [śūnya-bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
+[pañca-bhūta](pañcabhūta) [vibhāgam](vibhāgaṃ) [ca](ca) [śūnya-bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[kambojam](kambojam) [kambalam](kambalam) [kaṅkam](kaṅkam) [kāla-kuṇḍam](kālakuṇḍam) [kaṭāhakam](kaṭāhakam)
+[kambojam](kambojaṃ) [kambalam](kambalaṃ) [kaṅkam](kaṅkaṃ) [kāla-kuṇḍam](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[gāruḍasya](gāruḍasya) [tu](tu) [ime](ime) [bhedāḥ](bhedāḥ) [aṣṭāviṃśatiḥ](aṣṭāviṃśatiḥ) [īritāḥ](īritāḥ)
+[gāruḍasya](gāruḍasya) [tu](tu) [ime](ime) [bhedāḥ](bhedā) [aṣṭāviṃśatiḥ](aṣṭāviṃśatir) [īritāḥ](īritāḥ)
 
 ## mukta-m0-p10-v242
-[asitāṅgam](asitāṅgam) [rurum](rurum) [ca](ca) [eva](eva) [kapālīśam](kapālīśam) [samuccayam](samuccayam)
+[asitāṅgam](asitāṅgaṃ) [rurum](ruruṃ) [ca](ca) [eva](eva) [kapālīśam](kapālīśaṃ) [samuccayam](samuccayam)
 
 ## mukta-m0-p10-v243
-[bhīmāṅgam](bhīmāṅgam) [ḍāmarārāvam](ḍāmarārāvam) [bhīmam](bhīmam) [vetāla-mardakam](vetālamardakam)
+[bhīmāṅgam](bhīmāṅgaṃ) [ḍāmarārāvam](ḍāmarārāvaṃ) [bhīmam](bhīmaṃ) [vetāla-mardakam](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[tri-śiram](triśiram) [ca](ca) [eka-pādam](ekapādam) [tu](tu) [siddha-yogeśvarī-matam](siddhayogeśvarīmatam)
+[tri-śiram](triśiraṃ) [ca](ca) [eka-pādam](ekapādaṃ) [tu](tu) [siddha-yogeśvarī-matam](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocam](saṅkocam) [tilaka-udyāna-bhairavam](tilakodyānabhairavam)
+[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocam](saṅkocaṃ) [tilaka-udyāna-bhairavam](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-[catuḥ-ṣaṣṭi-pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa-āsyāt](dakṣiṇāsyāt) [bhavāni](bhavāni) [ca](ca)
+[catuḥ-ṣaṣṭi-pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa-āsya](dakṣiṇāsya) [adbhavāni](adbhavāni) [ca](ca)
 
 ## mukta-m0-p10-v247
-[kara-pūjā-vidhānam](karapūjāvidhānam) [tu](tu) [vīṇā-tantram](vīṇātantram) [tat](tat) [uttaram](uttaram)
+[kara-pūjā-vidhānam](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantram](vīṇātantraṃ) [tat](tat) [uttaram](uttaram)
 
 ## mukta-m0-p10-v248
-[siddha-nitya-udayam](siddhanityodayam) [jyeṣṭham](jyeṣṭham) [cintāmaṇi-mahodayam](cintāmaṇimahodayam)
+[siddha-nitya-udayam](siddhanityodayaṃ) [jyeṣṭham](jyeṣṭhaṃ) [cintāmaṇi-mahodayam](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[ānanda-rudra-bhadra-ākhyam](ānandarudrabhadrākhyaṃ) [kiṅkaram](kiṅkaram) [kiṅkara-anugam](kiṅkarānugam)
+[ānanda-rudra-bhadra-ākhyam](ānandarudrabhadrākhyaṃ) [kiṅkaram](kiṅkaraṃ) [kiṅkara-anugam](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[vāmadam](vāmadam) [vāmadeva-uktam](vāmadevoktam) [catur-viṃśati-bheda-gam](caturviṃśatibhedagam)
+[vāmadaṃ](vāmadaṃ) [vāmadeva-uktam](vāmadevoktaṃ) [catur-viṃśati-bheda-gam](caturviṃśatibhedagam)
