@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[that](tat) [light](prakāśaṃ) [without](vinā) [succeeds-not](sidhyenna) [in-any-way](kathañcana) [of-anyone](kasyacit)
+that light without succeeds-not never of-anyone
 
 ## mukta-m0-p12-v277
-[other's](parasya) [lower-firmness](aparaniṣṭhatvāt) [not](na) [oneness](tvaikyaṃ) [conscious-inert](cijjaḍa) [selves](ātmanoḥ)
+of-supreme due-to-non-establishment-of-other not-oneness of-conscious-inert-selves
 
 ## mukta-m0-p12-v278
-[self-drawn-line-form](svollekharekhāsaṃsthānaṃ) [that](tat) [independent](svatantraṃ) [conscious-natured](cidātmakam)
+sva ullekha rekhā saṃsthānaṃ that independent consciousness-natured
 
 ## mukta-m0-p12-v279
-[sense-door](indriyadvārataḥ) [after](paścād) [appearance-of-being](bhāvābhāsaḥ) [proceeds](pravartate)
+through-sense-doors afterwards appearance-of-being arises
 
 ## mukta-m0-p12-v280
-[that](tad) [here](atra) [as-long-as](yāvad) [by-guru](guruṇā) [world's](viśvasya) [rising-establishment](udayasaṃsthitiḥ)
+that here as-long-as by-guru of-universe rising-establishment
 
 ## mukta-m0-p12-v281
-[therefore](ataḥ) [everywhere](sarvatra) [of-wheels](cakrāṇāṃ) [own-nature-exposition](svarūpapratipādanam)
+therefore everywhere of-cakras own-nature-demonstration
 
 ## mukta-m0-p12-v282
-[water-wheel-pot-wheel-machine](āraghaṭṭaghaṭīyantra) [by-way](nyāyena) [so-much](etāvataḥ) [always](sadā)
+by-waterwheel-pulley-machine-analogy thus always
 
 ## mukta-m0-p12-v283
-[by-one-sequence-yoga](anekramayogena) [also](api) [drawn](ākṣipte) [range](gocaram)
+by-many-sequence-yoga even-drawn range
 
 ## mukta-m0-p12-v284
-[from-void](śūnyād) [beginning](ārabhya) [to-body-end](dehāntaṃ) [contraction-self](saṅkocātmā) [indeed](hi) [who-before](yo'grataḥ)
+from-void beginning to-body-end contraction-natured indeed who foremost
 
 ## mukta-m0-p12-v285
-[that](tad) [here](atra) [as-long-as](yāvat) [samsara](saṃsāraḥ) [in-that-form](tattadrūpatayā) [stands](sthitaḥ)
+that here as-long-as samsara in-that-form abides
 
 ## mukta-m0-p12-v286
-[not](na) [from-abandoning-being](bhāvatyāgataḥ) [liberation](muktir) [nor](na) [from-enjoyment-of-being](bhāvopabhogataḥ)
+not by-abandonment-of-being liberation nor by-enjoyment-of-being
 
 ## mukta-m0-p12-v287
-[from-non-grasping](anāgrahāt) [from-grasping](āgrahād) [or](vā) [of-anyone](kasyacit) [not](na) [api](api) [real](tāttvikī)
+from-non-attachment or attachment of-anyone not real
 
 ## mukta-m0-p12-v288
-[whose-dependence](yadapekṣā) [by-power](vaśāt) [all](sarvāḥ) [samsara-other](saṃsāronyā) [liberations](vimuktayaḥ)
+due-to-dependence all samsara-other liberations
 
 ## mukta-m0-p12-v289
-[by-practice-of-crushing-contraction](saṅkocadalanābhyāsāt) [to-residence-ground-of-tendencies](vāsanālayabhūmigam)
+by-practice-of-crushing-contraction to-vasana-ground-going
 
 ## mukta-m0-p12-v290
-[of-cluster-sequence](vṛndakramasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [by-guru-grace](gurvanugrahāt)
+of-group-sequence arrangement is-said by-guru-grace
 
 ## mukta-m0-p12-v291
-[of-world](viśvasya) [being](bhāvaḥ) [suddenly](sahasā) [in-own-nature](svasvarūpe) [is-investigated](vicīyate)
+of-universe being suddenly in-own-nature is-discerned
 
 ## mukta-m0-p12-v292
-[similar](sadṛśāḥ) [are-explained](pratipādyante) [by-materialists-nondualists](cārvākādvayavādibhiḥ)
+similar are-explained by-materialist-nondualists
 
 ## mukta-m0-p12-v293
-[by-them](taiḥ) [inert](jaḍāḥ) [are-deceived](vipralamyante) [by-similar](sadṛśaiḥ) [expressers](abhidhāyakaiḥ)
+by-them inert are-deceived by-similar-expressers
 
 ## mukta-m0-p12-v294
-[by-great-way-teaching](mahānayopadeśena) [are-thrown](pātyete) [self-other-destruction](svaparāvadhaḥ)
+by-great-system-teaching are-overthrown self-other-boundaries
 
 ## mukta-m0-p12-v295
-[stands](sthitaḥ) [contraction-impression](saṅkocasaṃskāraḥ) [what](kā) [talk](kathā) [in-other](anyeṣu) [beings](jantuṣu)
+established contraction-impression what talk in-other-beings
 
 ## mukta-m0-p12-v296
-[by-power-of-all-grasping-grasper](sarvāgrahagrāhavaśāt) [living-liberation](jīvanmuktiḥ) [shines](prakāśate)
+by-force-of-all-attachment-grasping living-liberation shines
 
 ## mukta-m0-p12-v297
-[without-thought-thought-self-steadiness-form](avikalpavikalpātmasthairyarūpatayā) [again](punaḥ)
+as-steadiness-nature of-non-conceptual-conceptual-self again
 
 ## mukta-m0-p12-v298
-[various-grasping-knot-tendency-piercing-expanded](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ)
+various-attachment-knot-vasana-piercing-augmented
 
 ## mukta-m0-p12-v299
-[therefore](ataḥ) [dissolution-form](saṃhārarūpaḥ) [this](ayaṃ) [without](vinā) [how](katham)
+therefore dissolution-natured this without how
 
 ## mukta-m0-p12-v300
-[therefore](tasmāt) [by-own-nature-firmness](svarūpadārḍhyena) [all-covering-breaking](sarvāvaraṇabhedinā)
+therefore by-firmness-of-own-nature all-covering-breaking
