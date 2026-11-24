@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[gloss](dṛṣṭa) [gloss](sarvā) [gloss](kṛtitvasya) [gloss](ghaṭanaṃ) [gloss](na) [gloss](ghaṭe) [gloss](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-activity](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [occurs](ghaṭe) [becomes](bhavat)
 
 ## mukta-m0-p58-v1427
-[gloss](tritvantu) [gloss](vyavahārasyāpyapekṣaivātra) [gloss](sammatam)
+[threefold](tritvantu) [of-practice](vyavahārasyāpyapekṣaivātra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-[gloss](navamaṃ) [gloss](śivatatvaṃ) [gloss](tu) [gloss](śabdabhāvyamihādhunā)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [tu](tu) [by-sound](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-[gloss](śabdabhāsyatvamujhitvā) [gloss](svādhyakṣeṇa) [gloss](sabhāsate)
+[sound-manifestation](śabdabhāsyatvamujhitvā) [by-direct-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[gloss](svāśrayo) [gloss](marudekasya) [gloss](udāsīnaṃ) [gloss](tamaḥ)
+[own-support](svāśrayo) [of-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ)
 
 ## mukta-m0-p58-v1431
-[gloss](śivastu) [gloss](sarvāśrayaḥ) [gloss](syāt) [gloss](tatra) [gloss](samyagvivicyate)
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [properly-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[gloss](mahyāṃ) [gloss](siddhādirūpeṇa) [gloss](vāyaumeghahimātmatā)
+[on-earth](mahyāṃ) [as-siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[gloss](śabdemaṃghījalamarut) [gloss](saṃśrayaḥ) [gloss](kathitaḥ) [gloss](priye)
+[sound-this-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-[gloss](saṃghātaśca) [gloss](pṛthivyādeḥ) [gloss](śarīratvena) [gloss](kīrtyate)
+[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[gloss](prāṇena) [gloss](ceṣṭamānaṃ) [gloss](yat) [gloss](tat) [gloss](sacit) [gloss](kamihocyate)
+[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [sentient](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[gloss](manaḥsaṃsrayaṇaṃ) [gloss](prāṇi) [gloss](sacit) [gloss](kavapuṣismṛtam)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [sentient](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-[gloss](sarveṣāmihatatvānāṃ) [gloss](vikṛtirguṇabhedajā)
+[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[gloss](saṃghātajāśca) [gloss](saṃghātā) [gloss](bahavonaikarūpiṇaḥ)
+[aggregates](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[gloss](bahunā) [gloss](kimihoktena) [gloss](kintatvairaparairjaḍaiḥ)
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principle](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[gloss](acchedyo'yamadāhoya) [gloss](makledyośoṣya) [gloss](eva) [gloss](ca)
+[uncuttable](acchedyo'yamadāhoya) [unwettable](makledyośoṣya) [also](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
-[gloss](sarvaviśvasya) [gloss](janakaḥ) [gloss](sarvaviśvasya) [gloss](pālakaḥ)
+[of-all-universe](sarvaviśvasya) [begetter](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[gloss](sa) [gloss](giridvīpajaladhikānanā) [gloss](sakalāmahī)
+[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[gloss](etā) [gloss](dṛśyastva) [gloss](saṃkhyātā) [gloss](vasudhāvāsavārcite)
+[these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[gloss](jyotiścakraṃ) [gloss](samastaṃ) [gloss](ca) [gloss](vāyu) [gloss](naiva) [gloss](pracālyate)
+[light-wheel](jyotiścakraṃ) [all](samastaṃ) [ca](ca) [wind](vāyu) [not](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-[gloss](sadā) [gloss](carati) [gloss](kutrāpi) [gloss](sadā) [gloss](ca) [gloss](sthimitaḥ) [gloss](kvacit)
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [ca](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[gloss](yadā) [gloss](pravahati) [gloss](kṣipraṃ) [gloss](saśabdena) [gloss](tatodyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tatodyate)
 
 ## mukta-m0-p58-v1447
-[gloss](etat) [gloss](tu) [gloss](tattvaṃ) [gloss](kathitamasyaivānyā) [gloss](vibhūtayaḥ)
+[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitamasyaivānyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[gloss](tat) [gloss](tacchāstra) [gloss](sthitiḥ) [gloss](sarvā) [gloss](kathitā) [gloss](girinaṃdini)
+[that](tat) [that-scripture](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[gloss](anyatra) [gloss](mama) [gloss](yat) [gloss](kiṃcit) [gloss](praṣṭavyaṃ) [gloss](spṛṣṭamāśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [askable](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-[gloss](aneka) [gloss](jantujālena) [gloss](nibiḍasya) [gloss](nirantaram)
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
