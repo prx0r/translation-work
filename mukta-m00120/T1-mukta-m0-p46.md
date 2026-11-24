@@ -2,43 +2,43 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[worlds-of](lokānāṃ) [auspicious-increase-giving-this](śubhavṛddhidāyakamidaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
+[of-worlds](lokānāṃ) [auspicious-increase-giving](śubhavṛddhidāyakam) [this](idaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1127
-[may-it-protect](pāyāt) [five-m-essence-accompanied](pañcamakāratattvasahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
+[may-it-protect](pāyāt) [five-kāra-principle-accompanied](pañcamakāratattvasahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1128
-[that-vessel-and](tatpātrañca) [all-merit-happiness-giving](samastapuṇyasukhadaṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
+[that-vessel](tatpātrañca) [all-merit-happiness-giving](samastapuṇyasukhadaṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1129
-[yellow-brahma-essence](pītabrahmarasaṃ) [always-raised-hand](sadodyatakaraṃ) [vessel](pātraṃ) [I-worship](bhaje) [five-fold](pañcakam)
+[yellow-brahma-essence](pītabrahmarasaṃ) [always-raised-hand](sadodyatakaraṃ) [vessel](pātraṃ) [I-worship](bhaje) [fivefold](pañcakam)
 
 ## mukta-m0-p46-v1130
-[glorious](śrīmat) [beautiful](sundarī) [libation](tarpaṇaṃ) [liquid-essence](dravarasaṃ) [vessel-and](pātrañca) [sixth](ṣaṣṭhaṃ) [I-worship](bhaje)
+[glorious](śrīmat) [beautiful](sundarī) [libation](tarpaṇaṃ) [liquid-essence](dravarasaṃ) [vessel](pātrañca) [sixth](ṣaṣṭhaṃ) [I-worship](bhaje)
 
 ## mukta-m0-p46-v1131
-[vessel](pātraṃ) [seventh-filling](saptamapūraṇe) [world-fear-joy-more](bhavabhayānando'dhikaḥ) [may-it-protect](pātu) [me](mām)
+[vessel](pātraṃ) [seventh-filling](saptamapūraṇe) [world-fear-joy](bhavabhayānando) [more]('dhikaḥ) [may-it-protect](pātu) [me](mām)
 
 ## mukta-m0-p46-v1132
-[vessel-and](pātrañcāṣṭamam) [eight-siddhi-making](aṣṭasiddhikaraṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
+[vessel](pātrañcāṣṭamam) [eight-siddhi-making](aṣṭasiddhikaraṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
 
 ## mukta-m0-p46-v1133
-[vessel](pātraṃ) [which](yannavanāthaśaktisahitaṃ) [nine-lord-power-accompanied](yannavanāthaśaktisahitaṃ) [all-aims-accomplishment-giving](sarvārthasiddhipradam)
+[vessel](pātraṃ) [which](yannavanāthaśaktisahitaṃ) [nine-lord-power-accompanied](navanāthaśaktisahitaṃ) [all-aims-accomplishment-giving](sarvārthasiddhipradam)
 
 ## mukta-m0-p46-v1134
-[thus](iti) [glorious-all-bliss-lord-composed](śrīsarvānandanāthaviracite) [all-joy-thirty-five-joy](sarvvollāsepañcatriṃśadullāsaḥ)
+[thus](iti) [glorious](śrī) [all-bliss-lord-composed](sarvānandanāthaviracite) [all-excellence-thirty-five](sarvvollāsepañcatriṃśadullāsaḥ)
 
 ## mukta-m0-p46-v1135
-[option](vikalpo) [not-here](nātra) [to-be-done](kartavyaḥ) [done-and](kṛte) [death](maraṇaṃ) [would-be](bhavet)
+[option](vikalpo) [not](nātra) [to-be-done](kartavyaḥ) [done](kṛte) [and](ca) [death](maraṇaṃ) [may-be](bhavet)
 
 ## mukta-m0-p46-v1136
 [being-given](dīyamānaṃ) [great-mantra](mahāmantraṃ) [I-tell](kathayāmi) [listen](śṛṇu) [beloved](priye)
 
 ## mukta-m0-p46-v1137
-[accepting](svīkṛtya) [auspicious-one](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again](punaḥ) [again](punaḥ)
+[having-accepted](svīkṛtya) [auspicious](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p46-v1138
-[own-vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [let-one-drink](pivedānandahetave)
+[in-own-vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [let-one-drink](pived) [for-bliss](ānandahetave)
 
 ## mukta-m0-p46-v1139
 [power-form](śaktirūpā) [great-goddess](mahādevī) [pure-bliss-increasing](kevalānandavarddhinī)
@@ -50,28 +50,28 @@
 [thus](tathā) [woman](nārī) [of-man](narasyāpi) [all-works-revealing](sarvakāryaprakāśikā)
 
 ## mukta-m0-p46-v1142
-[accepting](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterwards](paścāt) [works](kāryāṇi) [let-one-accomplish](sādhayet)
+[having-accepted](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterwards](paścāt) [works](kāryāṇi) [let-one-accomplish](sādhayet)
 
 ## mukta-m0-p46-v1143
-[pranayama](prāṇāyāmaṃ) [in-third](gṛtīye) [and](ca) [in-fourth](caturthe) [japa](japamāharet)
+[breath-control](prāṇāyāmaṃ) [in-third](gṛtīye) [and](ca) [in-fourth](caturthe) [japa](japam) [let-one-take](āharet)
 
 ## mukta-m0-p46-v1144
-[fifth](pañcamaṃ) [with-vessel](pātrasahitaṃ) [of-cakra](cakrasya) [characteristic](lakṣaṇaṃ) [O-Shiva](śive)
+[fifth](pañcamaṃ) [with-vessel](pātrasahitaṃ) [of-circle](cakrasya) [characteristic](lakṣaṇaṃ) [O-Śivā](śive)
 
 ## mukta-m0-p46-v1145
-[sexual-union](maithunaṃ) [supreme-goddess](parameśāni) [tenth](daśamānandamācaret) [bliss-practice](daśamānandamācaret)
+[sexual-union](maithunaṃ) [supreme-goddess](parameśāni) [tenth](daśam) [bliss](ānandam) [let-one-perform](ācaret)
 
 ## mukta-m0-p46-v1146
-[sound-bindu-seat](nādabindumayaṃ) [haṃsa-pair](haṃsayugmaṃ) [manifested](prakāśitam)
+[sound-bindu-seat](nādabindumayaṃ) [pīṭhaṃ](pīṭhaṃ) [haṃsa-pair](haṃsayugmaṃ) [manifested](prakāśitam)
 
 ## mukta-m0-p46-v1147
-[in-heart](hṛdaye) [let-one-contemplate](cintayeddevaṃ) [two-armed](dvibhujaṃ) [with-power](śaktisaṃyutam)
+[in-heart](hṛdaye) [let-one-contemplate](cintayed) [god](devaṃ) [two-armed](dvibhujaṃ) [with-power](śaktisaṃyutam)
 
 ## mukta-m0-p46-v1148
-[true-consciousness-bliss-desired-boon-giving](saccit) [sukhābhīṣṭavarāpradānam)
+[true-consciousness-bliss-desired-boon-giving](saccit sukhābhīṣṭavarāpradānam)
 
 ## mukta-m0-p46-v1149
 [gentle-smile](mandasmitaṃ) [full-compassion-treasury](pūrṇakṛpānidhānam)
 
 ## mukta-m0-p46-v1150
-[glorious-guru](śrīdguruṃ) [always](nityamahaṃ) [I-salute](namāmi)
+[glorious-guru](śrīdguruṃ) [always](nityamahaṃ) [I-bow](namāmi)
