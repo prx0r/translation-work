@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani](tarjanyanāmikāparva) [anāmikā](tarjanyanāmikāparva) [parva](tarjanyanāmikāparva) [sa-pāda](sapādayavavarjitam) [yava](sapādayavavarjitam) [varjitam](sapādayavavarjitam)
+[index+ring+phalanx](tarjanyanāmikāparva) [with+middle+and+little+excluded](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[dvi-aṅgula](dvyaṅgulo) [aṅguṣṭhaka-granthi](aṅguṣṭhakagranthirāsāṃ) [āsām](aṅguṣṭhakagranthirāsāṃ) [parva-ardha-gā](parvārdhagā) [nakhāḥ](nakhāḥ)
+[two+finger](dvyaṅgulo) [thumb+knot](aṅguṣṭhakagranthi) [of+these](rāsāṃ) [half+phalanx](parvārdhagā) [nails](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nāsa-utsedha](nāsotsedhaḥ) [sa-vistāra](savistārodvyaṅgulo) [dvi-aṅgula](dvyaṅgulo) [dvi-puṭa](dvipuṭaḥ) [śubhaḥ](śubhaḥ)
+[nose+height](nāsotsedhaḥ) [with+breadth](savistāra) [two+finger](dvyaṅgulo) [two+lobed](dvipuṭaḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[dvi-ardha](dvyardhaṃ) [yava](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśa](vaśa) [stri-bhiḥ](stribhiryavaḥ) [yavaḥ](stribhiryavaḥ)
+[one+and+half+barley](dvyardhaṃ) [barley](yavaṃ) [in+thick+fold](puṭe+sthūle) [middle](madhye) [twenty?](vaśa) [by+three+barley](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[adhe](adhe) [apara](aparo) [aṅgulaka](aṅgulakaṃ) [tu](tu) [dvi-aṅgule](dvyaṅgule) [cibuka-sthitiḥ](cibukasthitiḥ)
+[below](adhe) [other](aparo) [finger+ear?](aṅgulakarṇa) [two+finger](dvyaṅgule) [chin+position](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[nāsikā-mūla-pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi-aṅgula-āyate](dvyaṅgulāyate)
+[at+nose+root+side](nāsikāmūlapārśve) [eyes](locane) [two+finger+long](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[indīvara-abja-patra-ābhā](indīvarābjapatrābhā) [paṭola-phala-vat](paṭolaphalavatstriyāḥ) [striyāḥ](paṭolaphalavatstriyāḥ)
+[blue-lotus+leaf+like](indīvarābjapatrābhā) [pointed-gourd+fruit+like](paṭolaphalavat) [woman](striyāḥ)
 
 ## mukta-m0-p30-v733
-[pañcama-aṃśa](pañcamāṃśaṃ) [bhavet](bhavejjyotiḥ) [jyotiḥ](bhavejjyotiḥ) [sṛkkaṇī-sūtra-tulyatā](sṛkkaṇīsūtratulyataḥ)
+[fifth+part](pañcamāṃśaṃ) [becomes](bhave) [light](jyotiḥ) [lip+corner+thread+equal](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[ardha-aṅgula-samā](ardhāṅgulasamā) [droṇī](droṇī) [sa-ardha-dvi-aṅgula-dīrghatā](sārdhadvyaṅguladīrghatā)
+[half+finger+equal](ardhāṅgulasamā) [trough](droṇī) [one+and+half+finger+long](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[tayoḥ](tayora) [atara-mātra-ardha](taramātrārdhaṃ) [striyām](striyāṃ) [yava-ardha-vistṛte](yavārdhavistṛte)
+[of+those](tayora) [measure+half](taramātrārdhaṃ) [woman](striyāṃ) [half+barley+broad](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[karṇau](karṇau) [netra-dayā-āyāmau](netradayāyāmau) [tat-ardha-adhika-vistaraḥ](tadardhādvistarastayoḥ) [tayoḥ](tayoḥ)
+[ears](karṇau) [eye+length](netradayāyāmau) [their+half+breadth](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[kalā-ardha](kalārdhaṃ) [tuḍhukau](tuḍhukau) [khalvau](khalvau) [pāśau](pāśau) [kuryāt](kuryād) [yathā-ipsitau](yathepsitau)
+[half+digit](kalārdhaṃ) [knots?](tuḍhukau) [loops](pāśau) [make+as+desired](kuryādyathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-saṅkhyā-aṅgulaṃ](indrasaṅkhyāṅgulaṃ) [paścāt](paścāt) [karṇayoḥ](karṇayor) [antaraṃ](antaraṃ) [viduḥ](viduḥ)
+[indra+number+finger](indrasaṅkhyāṅgulaṃ) [afterwards](paścāt) [between+ears](karṇayorantaraṃ) [know](viduḥ)
 
 ## mukta-m0-p30-v739
-[lalāṭa](lalāṭo) [aṣṭa-aṅgula-āyāma](aṣṭāṅgulāyāmastryaṅgulaḥ) [tri-aṅgula](triyaṅgulaḥ) [śaṅkha](śaṅkha) [ucyate](ucyate)
+[forehead](lalāṭo) [eight+finger+long](aṣṭāṅgulāyāma) [three+finger](tryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
 
 ## mukta-m0-p30-v740
-[sapta-aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa-aṅgulau](sāṅgulau) [sa-yava-ucchrayau](sayavocchrayau)
+[seven+finger](saptāṅgulau) [cheeks](kapolau) [with+finger](sāṅgulau) [with+barley+height](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[hanū](hanū) [kalā](kalā) [tri-dīrghau](tradīrghau) [vdi-kalaśa](vdikalaścibukodgamaḥ) [cibuka-udgamaḥ](cibukodgamaḥ)
+[jaw](hanū) [digit+three+long](kalātradīrghau) [two+digit+chin+rise](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[skandha](skandho) [aṣṭa-aṅgula-vistāra](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [tat-āyāma](tadāyāmaścatuṣkalā) [catuṣ-kalā](catuṣkalā)
+[shoulder](skandho) [eight+finger+breadth](aṣṭāṅgulavistāra) [its+length](tadāyāma) [four+digit](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[vistāra](vistāraḥ) [kūrpara](kūrparastasmādbhūtāṅgulairyavaistathā) [tasmāt](tasmād) [bhūta-aṅgulaiḥ](bhūtāṅgulaiḥ) [yavaiḥ](yavaiḥ) [tathā](tathā)
+[breadth](vistāraḥ) [elbow](kūrpara) [from+that](tasmāt) [five+finger+barley+thus](bhūtāṅgulairyavaistathā)
 
 ## mukta-m0-p30-v744
-[catur-aṅgula-vistāra](caturaṅgulavistāro) [maṇibandha](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[four+finger+breadth](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[stanayoḥ](stanayor) [antaraṃ](antaraṃ) [tālaṃ](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi-netrakau](dvinetrakau)
+[between+breasts](stanayorantaraṃ) [palm](tālaṃ) [their+ends](tayoḥ+prāntau) [two+eyes](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[nābhiḥ](nābhiḥ) [pradakṣiṇa-āvartā](pradakṣiṇāvartā) [nimnataḥ](nimnato) [ardha-aṅgula-uditā](ardhāṅguloditā)
+[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half+finger+raised](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[hṛd](hṛd) [viṃśati-aṅgulaṃ](viṃśatyaṅgulaṃ) [proktaṃ](proktaṃ) [nābhi-deśaḥ](nābhideśaścaturdaśa) [caturdaśa](caturdaśa)
+[heart](hṛd) [twenty+finger](viṃśatyaṅgulaṃ) [said](proktaṃ) [navel+place](nābhideśa) [fourteen](caturdaśa)
 
 ## mukta-m0-p30-v748
-[pañcadaśa-aṅgulaṃ](pañcādaśāṅgulaṃ) [vakṣaḥ](vakṣo) [hṛd-deśaḥ](hṛddeśaḥ) [pañcabhiḥ](pañcabhir) [vinā](vinā)
+[fifteen+finger](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart+place](hṛddeśaḥ) [five+without](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanenoktā) [uktā](uktā) [śatāt](śatācca) [ca](ca) [dvi-adhika-aṅgulā](dvyadhikāṅgulā)
+[waist](kaṭiḥ) [girdle](saṃveṣṭanena) [said](uktā) [hundred+two+more+finger](śatācca+dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[catuḥ-netra-pravistārau](caturnetrapravistārau) [gaja-kumbha-upamau](gajakumbhopamau) [śubhau](śubhau)
+[four+eye+breadth](caturnetrapravistārau) [elephant+temples+like](gajakumbhopamau) [auspicious](śubhau)
