@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-hemante=in-winter jñānadaṃ=knowledge-giving liṅgaṃ=linga śiśire=in-cool-season sarvabhūtidam=all-beings-giving
+[hemante](hemante) [jñānadaṃ](jñānadaṃ) [liṅgaṃ](liṅgaṃ) [śiśire](śiśire) [sarvabhūtidam](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-yatīnāṃ=of-ascetics sarvakāleṣu=at-all-times liṅgasyāropaṇaṃ=linga-installation matam=opinion
+[yatīnāṃ](yatīnāṃ) [sarvakāleṣu](sarvakāleṣu) [liṅgasya](liṅgasya) [āropaṇaṃ](āropaṇaṃ) [matam](matam)
 
 ## mukta-m0-p56-v1378
-dakṣiṇe=in-southern ayane=path 'pūjyaṃ=not-worshipable trivarṣordhvaṃ=above-three-years bhayāvaham=fear-bringing
+[dakṣiṇetvayane](dakṣiṇetvayane) [apūjyaṃ](apūjyaṃ) [trivarṣa](trivarṣa) [ūrdhvaṃ](ūrdhvaṃ) [bhayāvaham](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-kṣayāya=for-decay bṛddhaye=for-growth syāt=may-be ca=and yāmye=in-southern saumye=in-northern apare=other ravau=sun
+[kṣayāya](kṣayāya) [bṛddhaye](bṛddhaye) [syāt](syāt) [ca](ca) [yāmye](yāmye) [saumye](saumye) [apare](apare) [ravau](ravau)
 
 ## mukta-m0-p56-v1380
-ṣaṭṣaṇmāsottarān=six-six-months-beyond tryabdān=three-years mayamatāt=according-to-maya phalaṃ=result kramāt=gradually
+[ṣaṭṣaṇmāsa](ṣaṭṣaṇmāsa) [uttarāṃs](uttarāṃs) [tryabdān](tryabdān) [mayamatāt](mayamatāt) [phalaṃ](phalaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1381
-abhicāraḥ=black-magic bhavet=may-be tatra=there sthāpite=installed dakṣiṇe=in-southern ayane=path
+[abhicāro](abhicāro) [bhavet](bhavet) [tatra](tatra) [sthāpite](sthāpite) [dakṣiṇe](dakṣiṇe) [ayane](ayane)
 
 ## mukta-m0-p56-v1382
-kumārāḥ=boys saṃprapīḍyante=are-oppressed kanyānāśaḥ=loss-of-girls ca=and jāyate=occurs
+[kumārāḥ](kumārāḥ) [saṃprapīḍyante](saṃprapīḍyante) [kanyā](kanyā) [nāśaḥ](nāśaḥ) [ca](ca) [jāyate](jāyate)
 
 ## mukta-m0-p56-v1383
-kartuḥ=of-maker kṣayaḥ=decay sadāśokaḥ=constant-sorrow gṛhe=in-house bhavati=occurs dāruṇaḥ=terrible
+[kartuḥ](kartuḥ) [kṣayaḥ](kṣayaḥ) [sadā](sadā) [śokaḥ](śokaḥ) [gṛhe](gṛhe) [bhavati](bhavati) [dāruṇaḥ](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-śubhārthī=seeker-of-auspicious na=not pravarteta=should-act devyā=of-goddess mantrādiśāstrataḥ=by-mantra-scripture
+[śubhārthī](śubhārthī) [na](na) [pravarteta](pravarteta) [devyāḥ](devyāḥ) [mantra](mantra) [ādi](ādi) [śāstrataḥ](śāstrataḥ)
 
 ## mukta-m0-p56-v1385
-tasmāt=therefore sthānaṃ=place guruṃ=teacher prāpya=obtaining rakṣaye=for-protection dābhicārikam=from-black-magic
+[tasmāt](tasmāt) [sthānaṃ](sthānaṃ) [guruṃ](guruṃ) [prāpya](prāpya) [rakṣaye](rakṣaye) [dābhicārikam](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-sthāpanaṃ=installation tu=but prakartavyaṃ=should-be-done śiśirādau=in-cool-season-beginning ṛtutraye=in-three-seasons
+[sthāpanaṃ](sthāpanaṃ) [tu](tu) [prakartavyaṃ](prakartavyaṃ) [śiśirādau](śiśirādau) [ṛtutraye](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-sacandratārakāyoge=with-moon-star-conjunction sulagnakaraṇānvite=with-good-ascendant
+[sacandratārakāyoge](sacandratārakāyoge) [sulagna](sulagna) [karaṇa](karaṇa) [anvitate](anvitate)
 
 ## mukta-m0-p56-v1388
-advaite=in-non-dual ca=and eva=indeed kṛsṇe=in-dark mantramūrti=mantra-form prabhedataḥ=by-distinction
+[advaita](advaita) [ca](ca) [eva](eva) [kṛsṇe](kṛsṇe) [api](api) [mantramūrti](mantramūrti) [prabhedataḥ](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-pāñcarātrārharet=pañcarātra-worthy miśrā=mixed pañcāśadvarṣasaṃsthitiḥ=fifty-year-duration
+[pāñcarātrārharet](pāñcarātrārharet) [miśrā](miśrā) [pañcāśat](pañcāśat) [varṣa](varṣa) [saṃsthitiḥ](saṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-śātābdorvbaṃ=hundred-years tu=but sā=it tiṣṭhet=may-stand vāṇaliṅgaṃ=stone-linga svayambhubat=like-self-born
+[śātābdorvbaṃ](śātābdorvbaṃ) [tu](tu) [sā](sā) [tiṣṭhet](tiṣṭhet) [vāṇaliṅgaṃ](vāṇaliṅgaṃ) [svayambhubat](svayambhubat)
 
 ## mukta-m0-p56-v1391
-bahvarthatvānipātānāṃ=of-many-meaning-falls saṃskārādau=in-purification-beginning pratiṣṭhitiḥ=installation
+[bahvarthatvāni](bahvarthatvāni) [pātānāṃ](pātānāṃ) [saṃskārādau](saṃskārādau) [pratiṣṭhitiḥ](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-saṃskṛtā=purified dravyasanmantrasaṃskṛtiḥ=material-mantra-purification yā=which suragya=divine ca=and
+[saṃskṛtā](saṃskṛtā) [dravya](dravya) [sanmantra](sanmantra) [saṃskṛtiḥ](saṃskṛtiḥ) [yā](yā) [suragya](suragya) [ca](ca)
 
 ## mukta-m0-p56-v1393
-pratimāṃ=image pañcabhedaiḥ=by-five-divisions tu=but pratiṣṭhā=installation pañcadhā=fivefold uditā=declared
+[pratimāṃ](pratimāṃ) [pañcabhedais](pañcabhedais) [tu](tu) [pratiṣṭhā](pratiṣṭhā) [pañcadhā](pañcadhā) [uditā](uditā)
 
 ## mukta-m0-p56-v1394
-dvitīyā=second āyu=life mati? dadyāt=gives tṛtīyā=third putrasaṃpadaḥ=son-wealth
+[dvitīyā](dvitīyā) [āyu](āyu) [mati](mati) [dadyāt](dadyāt) [tṛtīyā](tṛtīyā) [putra](putra) [saṃpadaḥ](saṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-daśamī=tenth bhūmilābhaṃ=land-gain ca=and saubhāgyaṃ=good-fortune ca=and trayodaśī=thirteenth
+[daśamī](daśamī) [bhūmilābhaṃ](bhūmilābhaṃ) [ca](ca) [saubhāgyaṃ](saubhāgyaṃ) [ca](ca) [trayodaśī](trayodaśī)
 
 ## mukta-m0-p56-v1396
-ekartuśaṅkaraiḥ=by-one-maker-śaṅkara nandā=nanda bhadrā=bhadra pakṣarṣibhānubhiḥ=by-fortnight-seer-sun
+[ekartu](ekartu) [śaṅkarair](śaṅkarair) [nandā](nandā) [bhadrā](bhadrā) [pakṣa](pakṣa) [ṛṣi](ṛṣi) [bhānubhiḥ](bhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-bāṇadiktithibhiḥ=by-arrow-direction-tithi pūrṇā=full hīnatulyāhitāḥ=deficient-equal-harmful kramāt=gradually
+[bāṇa](bāṇa) [diktithibhiḥ](diktithibhiḥ) [pūrṇā](pūrṇā) [hīna](hīna) [tulya](tulya) [ahitāḥ](ahitāḥ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1398
-vṛhaspatiḥ=Jupiter dvipañcāyuḥ=ten-year-life budyaḥ=Mercury jayadhanāni=victory-wealth ca=and
+[vṛhaspatiḥ](vṛhaspatiḥ) [dvi](dvi) [pañcāyuḥ](pañcāyuḥ) [budyo](budyo) [jayadhanāni](jayadhanāni) [ca](ca)
 
 ## mukta-m0-p56-v1399
-karka=Cancer vṛṣa=Taurus tulā=Libra cāpa=Sagittarius strī=woman siṃha=Lion grāha=planet yugmake=in-pair
+[karka](karka) [vṛṣa](vṛṣa) [tulā](tulā) [cāpa](cāpa) [strī](strī) [siṃha](siṃha) [grāha](grāha) [yugmake](yugmake)
 
 ## mukta-m0-p56-v1400
-ṣaḍaṣṭacaturoyāmāt=six-eight-four-yāma catū=four rāśikrameṇa=by-zodiac-order tu=but
+[ṣaḍaṣṭacaturo](ṣaḍaṣṭacaturo) [yāmāt](yāmāt) [catū](catū) [rāśi](rāśi) [krameṇa](krameṇa) [tu](tu)
