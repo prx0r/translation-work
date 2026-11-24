@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hara](hara) [ca](ca) [bahurūpa](bahurūpa) [ca](ca) [tryambaka](tryambaka) [ca](ca) [sureśvara](sureśvara)
+[hara](haraśca) [ca](ca) [bahurūpa](bahurūpaśca) [ca](ca) [tryambaka](tryambakaśca) [ca](ca) [sureśvara](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[sadyaḥ](sadyaḥ) [prabhṛti](prabhṛti) [jau](jau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya](kuḍya) [abja](abja) [saṃyutāḥ](saṃyutāḥ)
+[sadyaḥ](sadyaḥ) [prabhṛti](prabhṛtijau) [jau](jau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya](kuḍyabjasaṃyutāḥ) [abja](abja) [saṃyutāḥ](saṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[vṛṣa](vṛṣa) [sthā](sthā) [varadāḥ](varadāḥ) [kuṇḍī](kuṇḍī) [śūla](śūla) [paṅkaja](paṅkaja) [pāṇayaḥ](pāṇayaḥ)
+[vṛṣa-sthā](vṛṣasthā) [vara-dāḥ](varadāḥ) [kuṇḍī](kuṇḍī) [śūla](śūla) [paṅkaja](paṅkaja) [pāṇayaḥ](pāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[śaṅkha](śaṅkha) [cakra](cakra) [bhṛtam](bhṛtam) [vāme](vāme) [śeṣe](śeṣe) [śānti](śānti) [gadā](gadā) [bhṛtam](bhṛtam)
+[śaṅkha-cakra-bhṛtam](śaṅkhacakrabhṛtaṃ) [vāme](vāme) [śeṣe](śeṣe) [śānti-gadā-bhṛtam](śāntigadābhṛtam) [karam](karam)
 
 ## mukta-m0-p34-v830
-[śrīvatsa](śrīvatsa) [kaustubha](kaustubha) [uraskaṃ](uraskaṃ) [pīna](pīna) [aṅgaṃ](aṅgaṃ) [pṛthu](pṛthu) [vakṣasam](vakṣasam)
+[śrīvatsa](śrīvatsa) [kaustubha](kaustubha) [uraskaṃ](uraskaṃ) [pīna-aṅgaṃ](pīnāṅgaṃ) [pṛthu-vakṣasam](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[prasanna](prasanna) [vadanaṃ](vadanaṃ) [saumyaṃ](saumyaṃ) [sarva](sarva) [ābharaṇa](ābharaṇa) [bhūṣitam](bhūṣitam)
+[prasanna-vadanam](prasannavadanaṃ) [saumyam](saumyaṃ) [sarva-abharaṇa-bhūṣitam](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[śaṅkha](śaṅkha) [cakra](cakra) [dhare](dhare) [kārye](kārye) [tat](tat) [saumya](saumya) [āgneya](āgneya) [pārśvataḥ](pārśvataḥ)
+[śaṅkha-cakra-dhare](śaṅkhacakradhare) [kārye](kārye) [dharau](dharau) [kāryau](kāryau) [tat-saumya-agneya-pārśvataḥ](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[vāme](vāme) [abhaya](abhaya) [pradaṃ](pradaṃ) [śeṣe](śeṣe) [śaṅkha](śaṅkha) [hastaṃ](hastaṃ) [dvibāhukam](dvibāhukam)
+[vāme](vāme) [abhaya-pradam](abhayapradaṃ) [śeṣe](śeṣe) [śaṅkha-hastam](śaṅkhahastaṃ) [dvibhāhukam](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[kruddha](kruddha) [udyata](udyata) [hastaś](hastaś) [ca](ca) [prāsāda](prāsāda) [sthaḥ](sthaḥ) [sadā](sadā) [mataḥ](mataḥ)
+[kruddha](kruddha) [udyata-hasta](udyatahastaśca) [ca](ca) [prāsāda-sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v835
-[sandaṣṭa](sandaṣṭa) [oṣṭha](oṣṭha) [puṭaḥ](puṭaḥ) [kruddhaḥ](kruddhaḥ) [viṣṇuḥ](viṣṇuḥ) [aṣṭabhujaḥ](aṣṭabhujaḥ) [mataḥ](mataḥ)
+[sandaṣṭa-oṣṭha-puṭaḥ](sandaṣṭauṣṭhapuṭaḥ) [kruddha](kruddho) [viṣṇu](viṣṇuraṣṭabhujo) [aṣṭa-bhuja](aṣṭabhujo) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v836
-[cakraṃ](cakraṃ) [cāpaṃ](cāpaṃ) [ca](ca) [khetaṃ](khetaṃ) [ca](ca) [śaṅkhaṃ](śaṅkhaṃ) [vāma](vāma) [kare](kare) [tathā](tathā)
+[cakram](cakraṃ) [cāpam](cāpaṃ) [ca](ca) [khetam](khetaṃ) [ca](ca) [śaṅkham](śaṅkhaṃ) [vāma-kare](vāmakare) [tathā](tathā)
 
 ## mukta-m0-p34-v837
-[ekāsyaḥ](ekāsyaḥ) [caturāsyaḥ](caturāsyaḥ) [ca](ca) [trimukhaḥ](trimukhaḥ) [vā](vā) [maye](maye) [mate](mate)
+[eka-āsya](ekāsyaśca) [ca](ca) [catur-āsya](caturāsyaśca) [ca](ca) [tri-mukha](trimukho) [vā](vā) [maye](maye) [mate](mate)
 
 ## mukta-m0-p34-v838
-[tat](tat) [tryaṃśa](tryaṃśa) [vistaraṃ](vistaraṃ) [ca](ca) [eva](eva) [pucchaḥ](pucchaḥ) [adhaṃ](adhaṃ) [saptabhāgaśaḥ](saptabhāgaśaḥ)
+[tat-tryaṃśa-vistaram](tattryaṃśavistaraṃ) [ca](ca) [eva](eva) [pucchaḥ](puccho) [adham](adhaṃ) [sapta-bhāgaśaḥ](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[hastau](hastau) [kroḍa](kroḍa) [samīpa](samīpa) [sthau](sthau) [pādau](pādau) [jaṭhara](jaṭhara) [pārśvataḥ](pārśvataḥ)
+[hastau](hastau) [kroḍa-samīpa-sthau](kroḍasamīpasthau) [pādau](pādau) [jaṭhara-pārśvataḥ](jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[ardhāṅgulaṃ](ardhāṅgulaṃ) [tu](tu) [tat](tat) [netraṃ](netraṃ) [dvi](dvi) [sārdha](sārdha) [eka](eka) [ardha](ardha) [bhāgataḥ](bhāgataḥ)
+[ardha-aṅgulam](ardhāṅgulaṃ) [tu](tu) [tat-netram](tannetraṃ) [dvi-sārdha-eka-ardha-bhāgataḥ](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[śeṣaṃ](śeṣaṃ) [rohita](rohita) [vat](vat) [kuryāt](kuryāt) [matsya](matsya) [rūpa](rūpa) [dhare](dhare) [vibhau](vibhau)
+[śeṣam](śeṣaṃ) [rohita-vat](rohitavatkuryān) [kuryāt](kuryān) [matsya-rūpa-dhare](matsyarūpadhare) [vibhau](vibhau)
 
 ## mukta-m0-p34-v842
-[tat](tat) [dvyaṃśa](dvyaṃśa) [madhyataḥ](madhyataḥ) [vṛttaṃ](vṛttaṃ) [kalā](kalā) [hīnaṃ](hīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
+[tat-dvyaṃśa-madhyataḥ](taddvyaṃśamadhyato) [vṛttam](vṛttaṃ) [kalā-hīnam](kalāhīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[dviguṇaṃ](dviguṇaṃ) [pādataḥ](pādataḥ) [dairghyāt](dairghyāt) [grīvāṃ](grīvāṃ) [mastaka](mastaka) [saṃyutām](saṃyutām)
+[dviguṇam](dviguṇaṃ) [pādataḥ](pādato) [dairghyāt](dairghyād) [grīvām](grīvāṃ) [mastaka-saṃyutām](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[nāsā](nāsā) [akṣi](akṣi) [nakha](nakha) [karṇa](karṇa) [ādi](ādi) [jñātvā](jñātvā) [kūrmaṃ](kūrmaṃ) [vivartayet](vivartayet)
+[nāsā-akṣi-nakha-karṇa-ādi](nāsākṣinakhakarṇādi) [jñātvā](jñātvā) [kūrmam](kūrmaṃ) [vivartayet](vivartayet)
 
 ## mukta-m0-p34-v845
-[hanū](hanū) [tat](tat) [vaktra](vaktra) [bhāge](bhāge) [ca](ca) [dairghyāt](dairghyāt) [saptāṅgulau](saptāṅgulau) [matau](matau)
+[hanū](hanū) [tat-vaktra-bhāge](tadvaktrabhāge) [ca](ca) [dairghyāt](dairghyātsaptāṅgulau) [sapta-aṅgulau](sapta-aṅgulau) [matau](matau)
 
 ## mukta-m0-p34-v846
-[daṃṣṭre](daṃṣṭre) [ca](ca) [tryaṅgule](tryaṅgule) [vaktre](vaktre) [sita](sita) [ṛṣi](ṛṣi) [kalikā](kalikā) [upame](upame)
+[daṃṣṭre](daṃṣṭre) [ca](ca) [tri-aṅgule](tryaṅgule) [vaktre](vaktre) [sita-ṛṣi-kalikā-upame](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[prāṅ](prāṅ) [mānāt](mānāt) [yava](yava) [hīnaṃ](hīnaṃ) [tu](tu) [cakra](cakra) [gāruṇa](gāruṇa) [locanam](locanam)
+[prāṅ-māna-ādi-avahīnam](prāṅmānādyavahīnaṃ) [tu](tu) [cakra-gāruṇa-locanam](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[gadā](gadā) [cakra](cakra) [abja](abja) [śaṅkha](śaṅkha) [āḍhyam](āḍhyam) [ālīḍha](ālīḍha) [karaṇe](karaṇe) [sthitam](sthitam)
+[gadā-cakra-abja-śaṅkha-āḍhyam](gadācakrābjaśaṅkhāḍhyam) [ālīḍha-karaṇe](ālīḍhakaraṇe) [sthitam](sthitam)
 
 ## mukta-m0-p34-v849
-[evaṃ](evaṃ) [varāha](varāha) [rūpaṃ](rūpaṃ) [syāt](syāt) [vanamālā](vanamālā) [vibhūṣitam](vibhūṣitam)
+[evam](evaṃ) [varāha-rūpam](varāharūpaṃ) [syāt](syād) [vana-mālā-vibhūṣitam](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[nara](nara) [aṅgaṃ](aṅgaṃ) [siṃha](siṃha) [vaktraṃ](vaktraṃ) [ca](ca) [vṛtta](vṛtta) [akṣaṃ](akṣaṃ) [bhrukuṭī](bhrukuṭī) [yutam](yutam)
+[nara-aṅgam](narāṅgaṃ) [siṃha-vaktram](siṃhavaktraṃ) [ca](ca) [vṛtta-akṣam](vṛttākṣaṃ) [bhrukuṭī-yutam](bhrukuṭīyutam)

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[gloss](rogāṇyavaśyaṃ) [gloss](nighnaṃti) [gloss](svabhāvo) [gloss](vāsya) [gloss](vastunaḥ)
+[diseases](rogāṇi) [certainly](avaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvaḥ) [of-that](vāsya) [thing](vastunaḥ)
+
 ## mukta-m0-p21-v502
-[gloss](sa) [gloss](vīrabhadraḥ) [gloss](suśroṇi) [gloss](sākṣāt) [gloss](saṃhāra) [gloss](bhairavaḥ)
+[he-is](saḥ) [vīrabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
+
 ## mukta-m0-p21-v503
-[gloss](dakṣakopātprajvalataḥ) [gloss](tasyāṃgādromakūpataḥ)
+[from-dakṣa's-anger](dakṣakopāt) [blazing](prajvalataḥ) [of-him](tasya) [limb](aṃgāt) [from-hair-pore](romakūpataḥ)
+
 ## mukta-m0-p21-v504
-[gloss](tamanuproddhitāḥ) [gloss](sarve) [gloss](vyādhayovividhakramāḥ)
+[by-him](tamanu) [provoked](proddhitāḥ) [all](sarve) [diseases](vyādhayaḥ) [various-kinds](vividhakramāḥ)
+
 ## mukta-m0-p21-v505
-[gloss](atyaṃtalolādurvārāḥ) [gloss](prajvalaṃtaḥ) [gloss](sadāmuṣā)
+[extremely-unsteady](atyaṃtalolāḥ) [irresistible](urvārāḥ) [blazing](prajvalaṃtaḥ) [always](sadā) [by-him](muṣā)
+
 ## mukta-m0-p21-v506
-[gloss](tamāśritya) [gloss](mahāsatvaṃ) [gloss](vīrabhadraṃ) [gloss](mahodayam)
+[him](tam) [resorting-to](āśritya) [great-being](mahāsatvaṃ) [vīrabhadra](vīrabhadraṃ) [great-glory](mahodayam)
+
 ## mukta-m0-p21-v507
-[gloss](pāpaśīlān) [gloss](durācārān) [gloss](kanyāvidveṣakāriṇaḥ)
+[sinful-natured](pāpaśīlān) [ill-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
+
 ## mukta-m0-p21-v508
-[gloss](āgama) [gloss](drohiṇo) [gloss](pāpān) [gloss](vṛthākalahakāriṇaḥ)
+[scripture](āgama) [hostile](drohiṇaḥ) [sinful](pāpān) [vain-quarrel-makers](vṛthākalahakāriṇaḥ)
+
 ## mukta-m0-p21-v509
-[gloss](bhakṣayaṃti) [gloss](mahārogāḥ) [gloss](pibaṃti) [gloss](rudhiraṃ) [gloss](bahu)
+[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
+
 ## mukta-m0-p21-v510
-[gloss](vṛdhe-])
+[verse-fragment](vṛdhe-)
+
 ## mukta-m0-p21-v511
-[gloss](marmabheda) [gloss](karālāpāṃ) [gloss](dhārmikācāra) [gloss](niṃdakān)
+[vital-point-breaking](marmabheda) [terrible](karālāpāṃ) [righteous-conduct](dhārmikācāra) [blamers](niṃdakān)
+
 ## mukta-m0-p21-v512
-[gloss](hiṃsaṃti) [gloss](vyādhayastīvrāstatsaṃgādaparānapi)
+[harm](hiṃsaṃti) [diseases](vyādhayaḥ) [severe](tīvrāḥ) [by-his-contact](tatsaṃgāt) [others-too](aparānapi)
+
 ## mukta-m0-p21-v513
-[gloss](āśaṃkamānairvilaya) [gloss](mahaṃsaṃprārthitaḥ)
+[fearing](āśaṃkamānaiḥ) [dissolution](vilaya) [great-swan](mahaṃsa) [prayed](prārthitaḥ) [formerly](purā)
+
 ## mukta-m0-p21-v514
-[gloss](parabrahmaḥ) [gloss](sāsvādamayamānaṃdadāyakam)
+[supreme-brahman](parabrahmaḥ) [tasty](sāsvāda) [bliss-giving](mayamānaṃdadāyakam)
+
 ## mukta-m0-p21-v515
-[gloss](sa) [gloss](biṃdu) [gloss](śatasāhasra) [gloss](pravahaḥ) [gloss](pavanāhatam)
+[he](saḥ) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-driven](pavanāhatam)
+
 ## mukta-m0-p21-v516
-[gloss](viveśacauṣadhiḥ) [gloss](sarvāḥ) [gloss](somarūpomahārasaḥ)
+[entered](viveśa) [herbs](oṣadhiḥ) [all](sarvāḥ) [moon-formed](somarūpaḥ) [great-essence](mahārasaḥ)
+
 ## mukta-m0-p21-v517
-[gloss](tataḥ) [gloss](prabhṛti) [gloss](vīrutsujāgartti) [gloss](paramāmṛtam)
+[then](tataḥ) [from](prabhṛti) [plants](vīrut) [awaken](sujāgartti) [supreme-nectar](paramāmṛtam)
+
 ## mukta-m0-p21-v518
-[gloss](vividhaṃ) [gloss](vaidyataṃtraṃ) [gloss](tu) [gloss](jvarādīnāṃ) [gloss](vinuttaye)
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [tu](tu) [for-removal](vinuttaye) [of-fever-etc](jvarādīnāṃ)
+
 ## mukta-m0-p21-v519
-[gloss](śārīravaidyake) [gloss](proktāḥ) [gloss](prakvāthaghuṭikādayaḥ)
+[bodily-medicine](śārīravaidyake) [declared](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
+
 ## mukta-m0-p21-v520
-[gloss](yathā) [gloss](dehojvaraṃ) [gloss](śītaṃ) [gloss](pittaṃ) [gloss](śleṣmamalonilaḥ)
+[as](yathā) [body](dehaḥ) [fever](jvaraṃ) [cold](śītaṃ) [bile](pittaṃ) [phlegm](śleṣma) [waste](malaḥ) [wind](nilaḥ)
+
 ## mukta-m0-p21-v521
-[gloss](tathā) [gloss](jīve) [gloss](gadāḥ) [gloss](proktāḥ) [gloss](krodhodveṣaścamatsaraḥ)
+[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [declared](proktāḥ) [anger](krodha) [aversion](udveṣa) [envy](matsaraḥ)
+
 ## mukta-m0-p21-v522
-[gloss](nirvedaśca) [gloss](paritrāsaḥ) [gloss](śaṃkākutsitaciṃtanam)
+[despair](nirvedaḥ) [ca](ca) [terror](paritrāsaḥ) [doubt](śaṃkā) [contemptible-thought](kutsitaciṃtanam)
+
 ## mukta-m0-p21-v523
-[gloss](vikaṃpatvaṃ) [gloss](vimūḍhatvaṃ) [gloss](vidyāloka) [gloss](navarjitam)
+[instability](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
+
 ## mukta-m0-p21-v524
-[gloss](sarvasyakutsā) [gloss](śīlatvaṃ) [gloss](sarvatrāpi) [gloss](jugupsanam)
+[of-all](sarvasya) [blameful](kutsā) [habit](śīlatvaṃ) [everywhere](sarvatrāpi) [disgust](jugupsanam)
+
 ## mukta-m0-p21-v525
-[gloss](etā) [gloss](dṛśānaikabhedāḥ) [gloss](koṭīnāmapikoṭayaḥ)
+[these](etāḥ) [seen](dṛśāna) [one-kind](ekabhedāḥ) [crores](koṭīnām) [of-crores](apikoṭayaḥ)
