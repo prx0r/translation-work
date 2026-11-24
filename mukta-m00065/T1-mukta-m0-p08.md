@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-etat (this) siddham (accomplished) sadā (always) śaivam (Shaiva) guru-rūpam (guru-form) ajanmakam (unborn)
+[that-accomplished](etatsiddhaṃ) [always](sadā) [śaiva](śaivaṃ) [guru-form](gururūpamajanmakam)
 
 ## mukta-m0-p08-v177
-śivānta-nāmakāḥ (names-ending-in-Shiva) sarve (all) bhasma-aṅgā (ash-limbed) brahmacāriṇaḥ (celibates)
+[śiva-ending-named](śivāntanāmakāḥ) [all](sarve) [ash-smeared](bhasmāṅgā) [brahmacārins](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-viśeṣayātu (let-distinguish) sāmānyā (common) guruḥ (guru) api (also) evam (thus) eva (indeed) tu (but)
+[let-distinguish](viśeṣayātu) [common](sāmānyā) [guru-also-thus](gururapyevameva) [thus](tu)
 
 ## mukta-m0-p08-v179
-ambhojam (lotus) paṅkajam (mud-born) yadvat (just-as) tadvat (so) śaivāḥ (Shaivas) na (not) cetare (others)
+[lotus](ambhojaṃ) [mud-born](paṅkajaṃ) [as](yadvat) [tadvat](tadvacchaivā) [not](na) [others](cetare)
 
 ## mukta-m0-p08-v180
-tathā (thus) eva (indeed) śiva-liṅgānām (of-Shiva-lingas) śaivāḥ (Shaivas) pāśupata-ādayaḥ (Pashupatas-etc)
+[thus](tathaiva) [śiva-liṅgas](śivaliṅgānāṃ) [śaivas](śaivāḥ) [pāśupatas-etc](pāśupatādayaḥ)
 
 ## mukta-m0-p08-v181
-liṅga-bheda-phalaiḥ (by-linga-difference-fruits) yuktaḥ (joined) yāti (goes) asau (that-one) rauravam (Raurava) dhruvam (certainly)
+[liṅga-difference-fruits](liṅgabhedaphalairyukto) [goes](yātyasau) [raurava](rauravaṃ) [certainly](dhruvam)
 
 ## mukta-m0-p08-v182
-anyathā (otherwise) pāpa-kārī (sin-doer) syāt (would-be) iti (thus) ājñā (command) pārameśvarī (supreme)
+[otherwise](anyathā) [sin-doer](pāpakārī) [would-be](syādityājñā) [supreme-lordly](pārameśvarī)
 
 ## mukta-m0-p08-v183
-brahmacārī (celibate) gṛhastha (householder) tva (state) bheda (difference) bhinnaṃ (divided) dvidhā (twofold) sthitam (established)
+[brahmacārī-householder-distinction](brahmacārīgṛhasthatvabhedabhinnaṃ) [twofold](dvidhā) [established](sthitam)
 
 ## mukta-m0-p08-v184
-kāmya (desirable) kāmi (desirer) kriyām (rite) vacmi (I-say) sāmpratam (now) saṃprabhedataḥ (in-detail)
+[desire-desired-rites](kāmyakāmikriyāṃ) [I-speak](vacmi) [now](sāmprataṃ) [distinctly](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-bhukti (enjoyment) mukti (liberation) icchukaḥ (desirous) kāmī (desirer) kuryāt (should-do) dīkṣā (initiation) ādi (etc) ājñayā (by-command)
+[enjoyment-liberation-desiring](bhuktimuktīcchukaḥ) [desirer](kāmī) [should-do](kuryāddīkṣādimājñayā)
 
 ## mukta-m0-p08-v186
-pratiṣṭhā (installation) ādi (etc) kriyā (rite) śeṣā (remainder) tat-kṛtā (done-by-that) saṃpraśasyate (is-praised)
+[consecration-etc-rites-remainder](pratiṣṭhādikriyāśeṣā) [by-that-done](tatkṛtā) [praised](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-śiva-adhikāra (Shiva-authority) vṛttiḥ (conduct) yaḥ (who) sa (he) sāntānika (Santanka) ucyate (is-called)
+[śiva-authority-conduct](śivādhikāravṛttiryaḥ) [he](sa) [sāntānika](sāntānika) [called](ucyate)
 
 ## mukta-m0-p08-v188
-paścāt (afterwards) kuryāt (should-do) vivāham (marriage) ca (and) gṛhasthaḥ (householder) sa (he) vatārpakaḥ (Vatarpaka)
+[afterwards](paścātkuryādvivāhaṃ) [ca](ca) [householder](gṛhasthaḥ) [he](sa) [vatārpaka](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-bhaikṣya-āśī (alms-eater) saṃyata-ātmā (controlled-self) ca (and) vratī (vowed) sa (he) parikīrtitaḥ (is-proclaimed)
+[begging-eater](bhaikṣyāśī) [controlled-self](saṃyatātmā) [ca](ca) [vowed](vratī) [he](sa) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-puṣpa (flower) pāta (falling) abhidhānam (named) tu (but) maṭhī (Mathi) mudrābhiḥ (with-seals) iṣyate (is-desired)
+[flower-falling-named](puṣpapātābhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [mudrās](mudrābhiriṣyate)
 
 ## mukta-m0-p08-v191
-sadvastra (good-cloth) mañjanam (anointing) tailam (oil) nayate (carries) ramate (enjoys) hi (indeed) tam (him)
+[good-garment-ointment](sadvastramañjanaṃ) [oil](tailaṃ) [leads](nayate) [delights](ramate) [hi](hi) [him](tam)
 
 ## mukta-m0-p08-v192
-mākṣāya (for-honey) vratinaṃ (vowed-one) ca (and) eva (indeed) varayet (should-choose) matimān (wise) naraḥ (man)
+[for-honey](mākṣāya) [vowed-one](vratinaṃ) [ca](ca) [eva](eva) [should-choose](varayenmatimānnaraḥ)
 
 ## mukta-m0-p08-v193
-laukikaḥ (worldly) dravya-bhāgī (wealth-sharer) syāt (is) vidyā-bhāk (knowledge-sharer) pāralaukikaḥ (otherworldly)
+[worldly](laukiko) [substance-sharer](dravyabhāgī) [syād](syād) [knowledge-sharer](vidyābhāk) [transcendent](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-bhrātṛṇam (brother) guru-abhāve (in-guru's-absence) syāt (is) gṛhasthānām (of-householders) svaputrakam (own-son)
+[brothers](bhrātṛṇaṃ) [in-guru-absence](gurvabhāve) [syāt](syād) [householders](gṛhasthānāṃ) [own-son](svaputrakam)
 
 ## mukta-m0-p08-v195
-ayogyāḥ (unfit) śiva-kāryeṣu (in-Shiva-works) ghaṇṭā-sambandhinaḥ (bell-related) haret (removes)
+[unfit](ayogyāḥ) [śiva-works](śivakāryeṣu) [bell-related](ghaṇṭāsambandhino) [haret](haret)
 
 ## mukta-m0-p08-v196
-ṛṇe (debt) dravye (wealth) ca (and) piṇḍe (lump) ca (and) sa (he) eva (indeed) ekaḥ (one) praśasyate (is-praised)
+[debt](ṛṇe) [substance](dravye) [ca](ca) [lump](piṇḍe) [ca](ca) [he](sa) [eva](eva) [ekaḥ](ekaḥ) [praised](praśasyate)
 
 ## mukta-m0-p08-v197
-catur-gocara (four-range) madhye (in-middle) ca (and) śaivaḥ (Shaiva) jyeṣṭhāyate (is-eldest) param (supreme)
+[four-cow-range](caturgocaramadhye) [ca](ca) [śaiva](śaivo) [jyeṣṭhāyate](jyeṣṭhāyate) [param](param)
 
 ## mukta-m0-p08-v198
-śaiva-ācāryaḥ (Shaiva-teacher) tataḥ (then) śreṣṭhaḥ (best) sthāpayet (should-install) sarva-devatāḥ (all-deities)
+[śaiva-ācārya](śaivācāryastataḥ) [best](śreṣṭhaḥ) [should-establish](sthāpayetsarvadevatāḥ)
 
 ## mukta-m0-p08-v199
-bhukti (enjoyment) mukti (liberation) pradātā (giver) ca (and) na (not) anyaḥ (other) vai (indeed) viśvakṛt (world-maker) guruḥ (guru)
+[enjoyment-liberation-giver](bhuktimuktipradātā) [ca](ca) [not-other](nānyo) [vai](vai) [world-maker-guru](viśvakṛdguruḥ)
 
 ## mukta-m0-p08-v200
-tad-abhāve (in-absence) tu (but) kartavyāḥ (should-be-done) svadeva (own-deity) vrata (vow) cāriṇaḥ (practitioners)
+[that-absence](tadabhāve) [tu](tu) [should-do](kartavyāḥ) [own-deity-vow-performers](svadevavratacāriṇaḥ)
