@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-vīreṇa[by-the-hero] tāsu[among-them] karttavyaḥ[to-be-done] hetuḥ[reason] raṃjana[pleasing] hetavaḥ[causes]
+[by-hero](vīreṇa) [among-them](tāsu) [to-be-done](karttavyo) [cause](hetu) [of-coloring-cause](raṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-ācāryamāṇaiḥ[by-those-being-instructed] yaḥ[who] strīṇām[of-women] ananya[not-other] śaraṇam[refuge] manaḥ[mind]
+[by-teachers](ācāryamāṇair) [of-women](yastrīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
 
 ## mukta-m0-p46-v1128
-skhalaneṣu[in-stumbles] titikṣā[patience] ca[and] doṣasya[of-fault] punarīkṣaṇam[re-examination]
+[in-slips](skhalaneṣu) [forbearance](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-daṇḍanītiḥ[policy-of-punishment] na[not] tu[but] strīṣu[among-women] prapātayitum[to-cause-to-fall] arhati[is-worthy]
+[policy-of-punishment](daṇḍanītiḥ) [not](na) [tu](tu) [towards-women](strīṣu) [to-cause-fall](prapātayitu) [is-worthy](marhati)
 
 ## mukta-m0-p46-v1130
-paśya[behold] sāhasam[boldness] etāsām[of-these] svargate[gone-to-heaven] nija[own] bharttari[husband]
+[see](paśya) [violence-with](sāhasametāsāṃ) [in-heaven-gone](svargate) [own-husband](nijabharttari)
 
 ## mukta-m0-p46-v1131
-kheda[tiredness] tāḍana[beating] pāruṣyaiḥ[harshnesses] muṃcanti[they-release] eva[indeed] sva[own] jīvitam[life]
+[by-grief-beating-harshness](khedatāḍanapāruṣyaiḥ) [they-release](muṃcantyeva) [own-life](svajīvitam)
 
 ## mukta-m0-p46-v1132
-ataḥ[therefore] ca[and] mārdavam[gentleness] tāsu[among-them] prathamam[first] citta[heart] raṃjanam[pleasing]
+[therefore](ataḥ) [gentleness](mārdavaṃ) [towards-them](tāsu) [first](prathamaṃ) [mind-coloring](cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-atyaṃtam[excessive] abhivṛddhim[growth] ca[and] nayat[leads] cet[if] tāsu[among-them] sādhakaḥ[accomplisher]
+[extreme](atyaṃtam) [growth](abhivṛddhiṃ) [and](ca) [leading](nayat) [if](cet) [among-them](tāsu) [accomplisher](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-madhyamena[by-middle] prakāreṇa[way] darśanam[seeing] pradiśet[should-show] budhaḥ[wise-one]
+[middle](madhyamena) [manner](prakāreṇa) [appearance](darśanaṃ) [declared](pradiśid) [wise](budhaḥ)
 
 ## mukta-m0-p46-v1135
-raktaḥ[attached] parebhavam[disrespect] yāti[goes] paribhūtaḥ[despised] katham[how] priye[O-beloved]
+[attached](raktaḥ) [to-other-disgrace](parebhavaṃ) [goes](yāti) [disgraced](paribhūtaḥ) [how](kathaṃ) [dear](priye)
 
 ## mukta-m0-p46-v1136
-vṛṣasyantīṣu[among-those-in-heat] tāsu[them] amba[O-mother] na[not] vai[indeed] mukhyam[principal] ca[and] cārayet[should-make-roam]
+[for-bulls](vṛṣasyaṃtīṣu) [them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-make-roam](cārayet)
 
 ## mukta-m0-p46-v1137
-grāsān[morsels] api[also] ca[and] vāsāṃsi[garments] yathā[as] śakti[ability] nivedayet[should-offer]
+[morsels](grāsān) [api](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [ability](śakti) [should-offer](nivedayet)
 
 ## mukta-m0-p46-v1138
-tasmāt[therefore] vīra[janādhīnā][hero-dependent] dūtikā[messenger] prakṛtiḥ[nature] śive[O-Śivā]
+[therefore](tasmāt) [hero-people-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
 
 ## mukta-m0-p46-v1139
-daṃpatyoḥ[of-couple] ghaṭanam[union] brūyat[should-say] puruṣa[artha][human-purpose] eka[one] kāraṇam[cause]
+[of-couple](daṃpatyor) [union](ghaṭanaṃ) [let-say](brūyat) [human-purpose-one-cause](puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-anyonyam[mutually] anurāgeṇa[with-affection] mahat[great] saukhyam[happiness] prajāyate[is-born]
+[mutually](anyonyam) [with-affection](anurāgeṇa) [great-happiness](mahatsaukhyaṃ) [arises](prajāyate)
 
 ## mukta-m0-p46-v1141
-tasmāt[therefore] tadānukūlyāya[for-favorableness] svānukūlyam[own-favorableness] prakāśayet[should-reveal]
+[therefore](tasmāt) [for-that-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [let-show](prakāśayet)
 
 ## mukta-m0-p46-v1142
-āliṃgana[embrace] chalena[pretext] eva[only] sukham[pleasure] saṃvāhanam[massaging] caret[should-do]
+[by-embrace-pretext](āliṃganacchalena) [eva](eva) [happiness](sukhaṃ) [massage](saṃvāhanaṃ) [let-do](caret)
 
 ## mukta-m0-p46-v1143
-ādāya[taking] limpet[should-anoint] caraṇe[foot] dūtyāḥ[of-messenger] sā[she] na[not] anyagā[going-to-another] bhavet[becomes]
+[let-anoint](ādāya) [limb](limpe) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-gone](nānyagā) [becomes](bhavet)
 
 ## mukta-m0-p46-v1144
-jugupsamānaḥ[disgusted] na[not] bhavet[becomes] vairāgyam[detachment] tena[by-that] jāyate[arises]
+[disgusted](jugupsamāno) [not](na) [would-be](bhaved) [dispassion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
 
 ## mukta-m0-p46-v1145
-satilokeṣu[among-true-worlds] saṃcāram[movement] utsavam[festival] ca[and] pade[pade] pade[step-by-step]
+[with-tilaka-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [ca](ca) [step](pade) [step](pade)
 
 ## mukta-m0-p46-v1146
-vividaiḥ[various] sarasaiḥ[juicy] pakvaiḥ[ripe] phalaiḥ[fruits] puṣpaiḥ[flowers] sugaṃdhibhiḥ[fragrant]
+[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-udvarttanaiḥ[with-massages] ca[and] tāṃbūlaiḥ[betel] aṃjanaiḥ[collyrium] mukha[face] vāsitaiḥ[perfumed]
+[with-massages](udvarttanaiḥ) [with-betel](catāṃbūlaiḥ) [with-collyrium](aṃjanaiḥ) [with-mouth-perfumes](mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-raṃjayet[should-please] ramaṇīm[beloved] dhīmān[wise-one] bhogaiḥ[enjoyments] dīptaiḥ[bright] ca[and] pārvati[O-Pārvatī]
+[let-color](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-pleasures](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvati](pārvati)
 
 ## mukta-m0-p46-v1149
-tāvat[so-long] hira[maṇā][golden-minded] eva[only] bhoga[enjoyment] bhedāḥ[differences] tu[but] pācaret[should-remove]
+[so-long](tāvat) [pleased](hiramanā) [eva](eva) [pleasure-differences](bhogabhedā) [tu](tu) [let-do](pācaret)
 
 ## mukta-m0-p46-v1150
-ślāghayā[with-praise] jāyate[arises] tat[that] ca[and] sadarpā[with-pride] aviphalāḥ[fruitless] striyaḥ[women]
+[by-praise](ślāghayā) [arises](jāyate) [that](tac) [ca](ca) [proud-unfruitful-women](sadarpāviphalāstriyaḥ)
