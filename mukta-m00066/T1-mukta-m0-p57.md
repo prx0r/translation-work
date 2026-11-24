@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[hidden-meaning](guptārthāya) [and](ca) [heart-limbed](hṛdyāṅgi) [not](na) [but](tu) [truth-knowing](tatvāvabodhane)
-
+[gloss](guptārthāya) [gloss](ca) [gloss](hṛdyāṅgi) [gloss](na) [gloss](tu) [gloss](tatvāvabodhane)
 ## mukta-m0-p57-v1402
-[bliss-tantra](ānaṃdataṃtra) [indeed](eva) [in-this](asminnā) [not](na) [elsewhere](paratra) [anywhere](kvacinmataḥ)
-
+[gloss](ānaṃdataṃtra) [gloss](evāsminnā) [gloss](paratra) [gloss](kvacinmataḥ)
 ## mukta-m0-p57-v1403
-[truth-born](tatvabhūtamidaṃ) [fair-browed](subhruyo) [great-sacrifice](mahāyāga) [declared](īritaḥ)
-
+[gloss](tatvabhūtamidaṃ) [gloss](subhruyo) [gloss](mahāyāga) [gloss](īritaḥ)
 ## mukta-m0-p57-v1404
-[of-this](asya) [tantra](taṃtrasya) [truths](tatvāni) [and-doctrine](siddhāntaśca) [shown](pradarśyate)
-
+[gloss](asya) [gloss](taṃtrasya) [gloss](tatvāni) [gloss](siddhāntaśca) [gloss](pradarśyate)
 ## mukta-m0-p57-v1405
-[manifestation](āvirbbhāvatirobhāvau) [and-concealment](tirobhāvau) [exist](varttete) [in-all-things](sarvavastuṣu)
-
+[gloss](āvirbbhāvatirobhāvau) [gloss](varttete) [gloss](sarvavastuṣu)
 ## mukta-m0-p57-v1406
-[not](na) [devadatta](devadatto) [from-house](bhavanānnirgacchan) [going-out](nirgacchan) [prior-joined](pūrvasaṅgataḥ)
-
+[gloss](na) [gloss](devadatto) [gloss](bhavanānnirgacchan) [gloss](pūrvasaṅgataḥ)
 ## mukta-m0-p57-v1407
-[not](na) [devadatta](devadatto) [from-house](bhavanāt) [entering-concealed](praveśanatirohitaḥ)
-
+[gloss](na) [gloss](devadatto) [gloss](bhavanāt) [gloss](praveśanatirohitaḥ)
 ## mukta-m0-p57-v1408
-[manifestation](āvirbhāvaṃ) [without](vinā) [birth](utpattiranyākāpina) [other-form](anyākāpina) [not](na) [exists](vidyate)
-
+[gloss](āvirbhāvaṃ) [gloss](vinotpattiranyākāpina) [gloss](vidyate)
 ## mukta-m0-p57-v1409
-[that-inquiry](tadvicāre) [done](kṛte) [not](na) [indeed](eva) [beauty](cārutvamanudhāvati)
-
+[gloss](tadvicāre) [gloss](kṛte) [gloss](naiva) [gloss](cārutvamanudhāvati)
 ## mukta-m0-p57-v1410
-[born-ness](utpannatvaṃ) [distinctness](viśiṣṭatvaṃ) [then-indeed-at-first](tadaivādau) [shown](pradarśitam)
-
+[gloss](utpannatvaṃ) [gloss](viśiṣṭatvaṃ) [gloss](tadaivādau) [gloss](pradarśitam)
 ## mukta-m0-p57-v1411
-[not](na) [but](tu) [their](teṣāṃ) [real-ness](vāstavatvaṃ) [conventional-only-birth](vyavahāraikajanmanā)
-
+[gloss](na) [gloss](tu) [gloss](teṣāṃ) [gloss](vāstavatvaṃ) [gloss](vyavahāraikajanmanā)
 ## mukta-m0-p57-v1412
-[directions](diśaścacarcane) [and-region](deśo) [sky](nabhasaścarcane) [wind](marut)
-
+[gloss](diśaścacarcane) [gloss](deśo) [gloss](nabhasaścarcane) [gloss](marut)
 ## mukta-m0-p57-v1413
-[earth](bhūmirāponalo) [water](āpaḥ) [fire](analaḥ) [air](vāyuḥ) [sound](śabdaścatimiraṃ) [darkness](timiraṃ) [mind](manaḥ)
-
+[gloss](bhūmirāponalo) [gloss](vāyuḥ) [gloss](śabdaścatimiraṃ) [gloss](manaḥ)
 ## mukta-m0-p57-v1414
-[this](etad) [only](bhidaiva) [of-all](sarveṣāṃ) [categories](padārthānāṃ) [unfolding](vijṛmbhaṇam)
-
+[gloss](etad) [gloss](bhidaiva) [gloss](sarveṣāṃ) [gloss](padārthānāṃ) [gloss](vijṛmbhaṇam)
 ## mukta-m0-p57-v1415
-[aggregate-form](saṅghatarūpakarmādyā) [action-etc](karmādyā) [not](na) [their](teṣāmasti) [countability](gaṇyatā)
-
+[gloss](saṅghatarūpakarmādyā) [gloss](na) [gloss](teṣāmasti) [gloss](gaṇyatā)
 ## mukta-m0-p57-v1416
-[wind-darkness](maruccatimirannaiva) [not](na) [indeed](eva) [support](saṃścayaṃ) [anywhere](kvacidarhataḥ)
-
+[gloss](maruccatimirannaiva) [gloss](saṃścayaṃ) [gloss](kvacidarhataḥ)
 ## mukta-m0-p57-v1417
-[nine-substances](navadravyāṇi) [and-these](caitāni) [declared](kīrttitāni) [great-agama](mahāgame)
-
+[gloss](navadravyāṇi) [gloss](caitāni) [gloss](kīrttitāni) [gloss](mahāgame)
 ## mukta-m0-p57-v1418
-[of-these](eteṣāmeva) [by-difference](bhedena) [various-number](nānāsaṃkhyāṃ) [making](vidhāya) [and](ca)
-
+[gloss](eteṣāmeva) [gloss](bhedena) [gloss](nānāsaṃkhyāṃ) [gloss](vidhāya) [gloss](ca)
 ## mukta-m0-p57-v1419
-[direct-perception](pratyakṣamānānubhavaḥ) [in-all-these](sarveṣveteṣu) [o-parvati](pārvati)
-
+[gloss](pratyakṣamānānubhavaḥ) [gloss](sarveṣveteṣu) [gloss](pārvati)
 ## mukta-m0-p57-v1420
-[in-water-darkness](jaladhvānte) [white-wind](śuklānile) [earth-pure](bhūśuciḥ) [variegated-form](śabalākṛti)
-
+[gloss](jaladhvānte) [gloss](śuklānile) [gloss](bhūśuciḥ) [gloss](śabalākṛti)
 ## mukta-m0-p57-v1421
-[touch](sparśaḥ) [direct-perception-object](pratyakṣaviṣayaḥ) [wind](pavanaḥ) [o-mountain-born](parvatātmaje)
-
+[gloss](sparśaḥ) [gloss](pratyakṣaviṣayaḥ) [gloss](pavanaḥ) [gloss](parvatātmaje)
 ## mukta-m0-p57-v1422
-[mind-soul-dependent](manojīvavaśāḥ) [all](sarve) [accepted](pratipannāḥ) [themselves](svayaṃ) [valid-cognitions](pramāḥ)
-
+[gloss](manojīvavaśāḥ) [gloss](sarve) [gloss](pratipannāḥ) [gloss](svayaṃ) [gloss](pramāḥ)
 ## mukta-m0-p57-v1423
-[there](tatra) [sound](śabdastvāptavāco) [indeed](tu) [apt-speech](āptavāco) [veda-knowledge-agama](vedavidyāgamātmakaḥ)
-
+[gloss](tatra) [gloss](śabdastvāptavāco) [gloss](vedavidyāgamātmakaḥ)
 ## mukta-m0-p57-v1424
-[distinct-part](viśiṣṭabhāge) [seen](sādṛṣṭe) [seeing](darśanaṃ) [of-part-holders](bhāginoyataḥ)
-
+[gloss](viśiṣṭabhāge) [gloss](sādṛṣṭe) [gloss](darśanaṃ) [gloss](bhāginoyataḥ)
 ## mukta-m0-p57-v1425
-[seen-all-form](dṛṣṭasarvasvarūpasya) [of-pot](ghaṭasyādhyakṣatāsthi) [superintendence](adhyakṣatāsthi) [if](cet)
+[gloss](dṛṣṭasarvasvarūpasya) [gloss](ghaṭasyādhyakṣatāsthi) [gloss](cet)
