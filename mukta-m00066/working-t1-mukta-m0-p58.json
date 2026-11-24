@@ -16,11 +16,11 @@
 },
 {
 "surface": "kṛtitvasya",
-"quick_gloss": "of-action"
+"quick_gloss": "of-agency"
 },
 {
 "surface": "ghaṭanaṃ",
-"quick_gloss": "occurrence"
+"quick_gloss": "making"
 },
 {
 "surface": "na",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "bhavat",
-"quick_gloss": "exists"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -49,7 +49,11 @@
 },
 {
 "surface": "vyavahārasyāpyapekṣaivātra",
-"quick_gloss": "of-usage"
+"quick_gloss": "of-practice"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "sammatam",
@@ -74,7 +78,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "śabdabhāvyamihādhunā",
@@ -90,20 +94,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ujhitvā",
-"quick_gloss": "abandoning"
-},
-{
-"surface": "śabdabhāsyatvam",
-"quick_gloss": "sound-manifestness"
+"surface": "śabdabhāsyatvamujhitvā",
+"quick_gloss": "sound-qualified-ness"
 },
 {
 "surface": "svādhyakṣeṇa",
-"quick_gloss": "by-direct-perception"
+"quick_gloss": "by-self-witness"
 },
 {
 "surface": "sabhāsate",
-"quick_gloss": "shines"
+"quick_gloss": "with-assembly"
 }
 ]
 },
@@ -116,11 +116,11 @@
 "tokens": [
 {
 "surface": "svāśrayo",
-"quick_gloss": "own-support"
+"quick_gloss": "self-support"
 },
 {
 "surface": "marudekasya",
-"quick_gloss": "of-one-wind"
+"quick_gloss": "of-wind-one"
 },
 {
 "surface": "udāsīnaṃ",
@@ -129,10 +129,6 @@
 {
 "surface": "tamaḥ",
 "quick_gloss": "darkness"
-},
-{
-"surface": "smṛtam",
-"quick_gloss": "remembered"
 }
 ]
 },
@@ -174,11 +170,11 @@
 "tokens": [
 {
 "surface": "mahyāṃ",
-"quick_gloss": "to-me"
+"quick_gloss": "in-earth"
 },
 {
 "surface": "siddhādirūpeṇa",
-"quick_gloss": "as-siddhi-form"
+"quick_gloss": "siddhi-form"
 },
 {
 "surface": "vāyaumeghahimātmatā",
@@ -195,7 +191,7 @@
 "tokens": [
 {
 "surface": "śabdemaṃghījalamarut",
-"quick_gloss": "by-sound-this-water-air"
+"quick_gloss": "sound-this-ghī-water-wind"
 },
 {
 "surface": "saṃśrayaḥ",
@@ -203,11 +199,11 @@
 },
 {
 "surface": "kathitaḥ",
-"quick_gloss": "said"
+"quick_gloss": "dear"
 },
 {
 "surface": "priye",
-"quick_gloss": "dear"
+"quick_gloss": "priye"
 }
 ]
 },
@@ -316,7 +312,7 @@
 "tokens": [
 {
 "surface": "saṃghātajāśca",
-"quick_gloss": "aggregates-born"
+"quick_gloss": "aggregates"
 },
 {
 "surface": "saṃghātā",
@@ -336,12 +332,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahunākimihoktena",
-"quick_gloss": "why-much-here-said"
+"surface": "bahunā",
+"quick_gloss": "by-much"
+},
+{
+"surface": "kimihoktena",
+"quick_gloss": "what-here-said"
 },
 {
 "surface": "kintatvairaparairjaḍaiḥ",
-"quick_gloss": "what-principle-other-inert"
+"quick_gloss": "what-principle"
 }
 ]
 },
@@ -353,8 +353,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acchedyo'yamadāhoya",
-"quick_gloss": "uncuttable"
+"surface": "acchedyo",
+"quick_gloss": "uncut"
+},
+{
+"surface": "yamadāhoya",
+"quick_gloss": "unburnable"
 },
 {
 "surface": "makledyośoṣya",
@@ -362,11 +366,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
-"quick_gloss": "also"
+"quick_gloss": "ca"
 }
 ]
 },
@@ -404,7 +408,7 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he"
 },
 {
 "surface": "giridvīpajaladhikānanā",
@@ -437,7 +441,7 @@
 },
 {
 "surface": "vasudhāvāsavārcite",
-"quick_gloss": "earth-dwelling-worshipped"
+"quick_gloss": "earth-abode-worshipped"
 }
 ]
 },
@@ -561,11 +565,11 @@
 },
 {
 "surface": "kathitamasyaivānyā",
-"quick_gloss": "said"
+"quick_gloss": "spoken"
 },
 {
 "surface": "vibhūtayaḥ",
-"quick_gloss": "powers"
+"quick_gloss": "vibhūtayaḥ"
 }
 ]
 },
@@ -582,7 +586,7 @@
 },
 {
 "surface": "tacchāstra",
-"quick_gloss": "tacchāstra"
+"quick_gloss": "that-śāstra"
 },
 {
 "surface": "sthitiḥ",
@@ -594,7 +598,7 @@
 },
 {
 "surface": "kathitā",
-"quick_gloss": "said"
+"quick_gloss": "spoken"
 },
 {
 "surface": "girinaṃdini",
@@ -627,7 +631,7 @@
 },
 {
 "surface": "praṣṭavyaṃ",
-"quick_gloss": "to-be-asked"
+"quick_gloss": "askable"
 },
 {
 "surface": "spṛṣṭamāśaye",
