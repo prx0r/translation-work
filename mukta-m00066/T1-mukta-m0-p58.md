@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[dṛṣṭa](dṛṣṭa) [sarvā](sarvā) [kṛtitvasya](kṛtitvasya) [ghaṭanaṃ](ghaṭanaṃ) [na](na) [ghaṭe](ghaṭe) [bhavat](bhavat)
+[pada](dṛṣṭa) [pada](sarvā) [pada](kṛtitvasya) [pada](ghaṭanaṃ) [pada](na) [pada](ghaṭe) [pada](bhavat)
 
 ## mukta-m0-p58-v1427
-[tritvantu](tritvantu) [vyavahārasyāpyapekṣaivātra](vyavahārasyāpyapekṣaivātra) [sammatam](sammatam)
+[pada](tritvantu) [pada](vyavahārasyāpyapekṣaivātra) [pada](sammatam)
 
 ## mukta-m0-p58-v1428
-[navamaṃ](navamaṃ) [śivatatvaṃ](śivatatvaṃ) [tu](tu) [śabdabhāvyamihādhunā](śabdabhāvyamihādhunā)
+[pada](navamaṃ) [pada](śivatatvaṃ) [pada](tu) [pada](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-[śabdabhāsyatvamujhitvā](śabdabhāsyatvamujhitvā) [svādhyakṣeṇa](svādhyakṣeṇa) [sabhāsate](sabhāsate)
+[pada](śabdabhāsyatvamujhitvā) [pada](svādhyakṣeṇa) [pada](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[svāśrayo](svāśrayo) [marudekasya](marudekasya) [udāsīnaṃ](udāsīnaṃ) [tamaḥ](tamaḥ) [smṛtam](smṛtam)
+[pada](svāśrayo) [pada](marudekasya) [pada](udāsīnaṃ) [pada](tamaḥ) [pada](smṛtam)
 
 ## mukta-m0-p58-v1431
-[śivastu](śivastu) [sarvāśrayaḥ](sarvāśrayaḥ) [syāt](syāt) [tatra](tatra) [samyagvivicyate](samyagvivicyate)
+[pada](śivastu) [pada](sarvāśrayaḥ) [pada](syāt) [pada](tatra) [pada](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[mahyāṃ](mahyāṃ) [siddhādirūpeṇa](siddhādirūpeṇa) [vāyaumeghahimātmatā](vāyaumeghahimātmatā)
+[pada](mahyāṃ) [pada](siddhādirūpeṇa) [pada](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[śabdemaṃghījalamarut](śabdemaṃghījalamarut) [saṃśrayaḥ](saṃśrayaḥ) [kathitaḥ](kathitaḥ) [priye](priye)
+[pada](śabdemaṃghījalamarut) [pada](saṃśrayaḥ) [pada](kathitaḥ) [pada](priye)
 
 ## mukta-m0-p58-v1434
-[saṃghātaśca](saṃghātaśca) [pṛthivyādeḥ](pṛthivyādeḥ) [śarīratvena](śarīratvena) [kīrtyate](kīrtyate)
+[pada](saṃghātaśca) [pada](pṛthivyādeḥ) [pada](śarīratvena) [pada](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[prāṇena](prāṇena) [ceṣṭamānaṃ](ceṣṭamānaṃ) [yat](yat) [tat](tat) [sacit](sacit) [kamihocyate](kamihocyate)
+[pada](prāṇena) [pada](ceṣṭamānaṃ) [pada](yat) [pada](tat) [pada](sacit) [pada](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[manaḥsaṃsrayaṇaṃ](manaḥsaṃsrayaṇaṃ) [prāṇi](prāṇi) [sacit](sacit) [kavapuṣismṛtam](kavapuṣismṛtam)
+[pada](manaḥsaṃsrayaṇaṃ) [pada](prāṇi) [pada](sacit) [pada](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-[sarveṣāmihatatvānāṃ](sarveṣāmihatatvānāṃ) [vikṛtirguṇabhedajā](vikṛtirguṇabhedajā)
+[pada](sarveṣāmihatatvānāṃ) [pada](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[saṃghātajāśca](saṃghātajāśca) [saṃghātā](saṃghātā) [bahavonaikarūpiṇaḥ](bahavonaikarūpiṇaḥ)
+[pada](saṃghātajāśca) [pada](saṃghātā) [pada](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[bahunā](bahunā) [kimihoktena](kimihoktena) [kintatvairaparairjaḍaiḥ](kintatvairaparairjaḍaiḥ)
+[pada](bahunā) [pada](kimihoktena) [pada](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[acchedyo'yamadāhoya](acchedyo'yamadāhoya) [makledyośoṣya](makledyośoṣya) [eva](eva) [ca](ca)
+[pada](acchedyo'yamadāhoya) [pada](makledyośoṣya) [pada](eva) [pada](ca)
 
 ## mukta-m0-p58-v1441
-[sarvaviśvasya](sarvaviśvasya) [janakaḥ](janakaḥ) [sarvaviśvasya](sarvaviśvasya) [pālakaḥ](pālakaḥ)
+[pada](sarvaviśvasya) [pada](janakaḥ) [pada](sarvaviśvasya) [pada](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[sa](sa) [giridvīpajaladhikānanā](giridvīpajaladhikānanā) [sakalāmahī](sakalāmahī)
+[pada](sa) [pada](giridvīpajaladhikānanā) [pada](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[etā](etā) [dṛśyastva](dṛśyastva) [saṃkhyātā](saṃkhyātā) [vasudhāvāsavārcite](vasudhāvāsavārcite)
+[pada](etā) [pada](dṛśyastva) [pada](saṃkhyātā) [pada](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[jyotiścakraṃ](jyotiścakraṃ) [samastaṃ](samastaṃ) [ca](ca) [vāyu](vāyu) [naiva](naiva) [pracālyate](pracālyate)
+[pada](jyotiścakraṃ) [pada](samastaṃ) [pada](ca) [pada](vāyu) [pada](naiva) [pada](pracālyate)
 
 ## mukta-m0-p58-v1445
-[sadā](sadā) [carati](carati) [kutrāpi](kutrāpi) [sadā](sadā) [ca](ca) [sthimitaḥ](sthimitaḥ) [kvacit](kvacit)
+[pada](sadā) [pada](carati) [pada](kutrāpi) [pada](sadā) [pada](ca) [pada](sthimitaḥ) [pada](kvacit)
 
 ## mukta-m0-p58-v1446
-[yadā](yadā) [pravahati](pravahati) [kṣipraṃ](kṣipraṃ) [saśabdena](saśabdena) [tatodyate](tatodyate)
+[pada](yadā) [pada](pravahati) [pada](kṣipraṃ) [pada](saśabdena) [pada](tatodyate)
 
 ## mukta-m0-p58-v1447
-[etat](etat) [tu](tu) [tattvaṃ](tattvaṃ) [kathitamasyaivānyā](kathitamasyaivānyā) [vibhūtayaḥ](vibhūtayaḥ)
+[pada](etat) [pada](tu) [pada](tattvaṃ) [pada](kathitamasyaivānyā) [pada](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[tat](tat) [tacchāstra](tacchāstra) [sthitiḥ](sthitiḥ) [sarvā](sarvā) [kathitā](kathitā) [girinaṃdini](girinaṃdini)
+[pada](tat) [pada](tacchāstra) [pada](sthitiḥ) [pada](sarvā) [pada](kathitā) [pada](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[anyatra](anyatra) [mama](mama) [yat](yat) [kiṃcit](kiṃcit) [praṣṭavyaṃ](praṣṭavyaṃ) [spṛṣṭamāśaye](spṛṣṭamāśaye)
+[pada](anyatra) [pada](mama) [pada](yat) [pada](kiṃcit) [pada](praṣṭavyaṃ) [pada](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-[aneka](aneka) [jantujālena](jantujālena) [nibiḍasya](nibiḍasya) [nirantaram](nirantaram)
+[pada](aneka) [pada](jantujālena) [pada](nibiḍasya) [pada](nirantaram)
