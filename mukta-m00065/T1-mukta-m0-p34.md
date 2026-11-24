@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hara](haraḥ) [and](ca) [many-formed](bahurūpaḥ) [and](ca) [three-eyed](tryambakaḥ) [and](ca) [lord-of-gods](sureśvaraḥ)
+[hara](hara) [and](ca) [many-formed](bahurūpa) [and](ca) [three-eyed](tryambaka) [and](ca) [lord-of-gods](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[sadya-etc](sadyaḥ) [beginning-born](prabhṛtijau) [two](dvau) [two](dvau) [thus](tadvat) [wall-lotus-joined](kuḍyabjasaṃyutāḥ)
+[suddenly](sadyaḥ) [origin-born](prabhṛtijau) [two](dvau) [two](dvau) [thus+wall+lotus+joined](tadvatkuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[bull-standing](vṛṣasthāḥ) [boon-giving](varadāḥ) [kundī-trident-lotus-handed](kuṇḍīśūlapaṅkajapāṇayaḥ)
+[bull-standing](vṛṣasthā) [boon-giving](varadāḥ) [kunda+trident+lotus+handed](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[conch-disk-bearing](śaṅkhacakrabhṛtam) [on-left](vāme) [remaining](śeṣe) [peace-club-bearing](śāntigadābhṛtam)
+[conch+discus+bearing](śaṅkhacakrabhṛtaṃ) [left](vāme) [remaining](śeṣe) [peace+mace+bearing](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
-[srivatsa-kaustubha-chested](śrīvatsakaustubhoraskam) [broad-limbed](pīnāṅgam) [broad-chested](pṛthuvakṣasam)
+[śrīvatsa+kaustubha+chested](śrīvatsakaustubhoraskaṃ) [plump+limbed](pīnāṅgaṃ) [broad+chested](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[pleased-faced](prasannavadanam) [gentle](saumyam) [all-ornament-adorned](sarvābharaṇabhūṣitam)
+[cheerful+faced](prasannavadanaṃ) [gentle](saumyaṃ) [all+ornament+adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[conch-disk-holder](śaṅkhacakradhare) [in-work](kārye) [that-gentle-fiery-side](tatsaumyāgneyapārśvataḥ)
+[conch+discus+holder](śaṅkhacakradhare) [in+work](kārye) [that+gentle+fire+side](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[on-left-fearless-giving](vāme'bhayapradaṃ) [remaining](śeṣe) [conch-handed](śaṅkhahastaṃ) [two-armed](dvibhāhukam)
+[left](vāme) [fearlessness+giving](abhayapradaṃ) [remaining](śeṣe) [conch+handed](śaṅkhahastaṃ) [two+armed](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[angry](kruddhaḥ) [raised-hand](udyatahastaḥ) [ca](ca) [temple-standing](prāsādasthaḥ) [always](sadā) [considered](mataḥ)
+[angry](kruddha) [raised+hand](udyatahasta) [and](ca) [temple+standing](prāsādasthaḥ) [always](sadā) [considered](mataḥ)
 
 ## mukta-m0-p34-v835
-[bitten-lip](sandaṣṭauṣṭhapuṭaḥ) [angry](kruddhaḥ) [viṣṇu-eight-armed](viṣṇuraṣṭabhujo) [considered](mataḥ)
+[bitten+lip](sandaṣṭauṣṭhapuṭaḥ) [angry](kruddho) [viṣṇu+eight+armed](viṣṇuraṣṭabhujo) [considered](mataḥ)
 
 ## mukta-m0-p34-v836
-[disk](cakram) [bow](cāpam) [ca](ca) [sword](khetaṃ) [ca](ca) [conch](śaṅkham) [on-left-hand](vāmakare) [thus](tathā)
+[discus](cakraṃ) [bow](cāpaṃ) [and](ca) [sword](khetaṃ) [and](ca) [conch](śaṅkhaṃ) [left+hand](vāmakare) [thus](tathā)
 
 ## mukta-m0-p34-v837
-[one-faced](ekāsyaḥ) [four-faced](caturāsyaḥ) [ca](ca) [three-faced](trimukhaḥ) [or](vā) [in-māyā-opinion](mayemate)
+[one+faced](ekāsya) [and](ca) [four+faced](caturāsya) [and](ca) [three+faced](trimukho) [or](vā) [in+māyā](maye) [opinion](mate)
 
 ## mukta-m0-p34-v838
-[that-three-part-extension](tattryaṃśavistaram) [ca](ca) [eva](eva) [tail-down](puccho'dhaṃ) [seven-parts](saptabhāgaśaḥ)
+[that+three+part+expansion](tattryaṃśavistaraṃ) [and](ca) [indeed](eva) [tail+down](puccho'dhaṃ) [seven+parts](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[hands](hastau) [boar-near](kroḍasamīpasthau) [feet](pādau) [belly-side](jaṭharapārśvataḥ)
+[hands](hastau) [near+boar](kroḍasamīpasthau) [feet](pādau) [belly+side](jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[half-angula](ardhāṅgulam) [tu](tu) [that-eye](tannetram) [two-one-half-half-parts](dvisārdhaikārdhabhāgataḥ)
+[half+angula](ardhāṅgulaṃ) [but](tu) [that+eye](tannetraṃ) [two+and+half+one+half+part](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[remaining](śeṣaṃ) [like-rohita](rohitavat) [should-do](kuryāt) [fish-form-bearing](matsyarūpadhare) [lord](vibhau)
+[remainder](śeṣaṃ) [like+rohita](rohitavat) [should+make](kuryāt) [fish+form+holder](matsyarūpadhare) [lord](vibhau)
 
 ## mukta-m0-p34-v842
-[that-two-part-middle](taddvyaṃśamadhyato) [round](vṛttam) [digit-less](kalāhīnam) [tu](tu) [on-sides](pārśvayoḥ)
+[that+two+part+middle](taddvyaṃśamadhyato) [round](vṛttaṃ) [digit+less](kalāhīnaṃ) [but](tu) [sides](pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[twofold](dviguṇam) [from-feet](pādato) [by-length](dairghyāt) [neck](grīvām) [head-joined](mastakasaṃyutām)
+[twofold](dviguṇaṃ) [from+feet](pādato) [by+length](dairghyāt) [neck](grīvāṃ) [head+joined](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[nose-eye-nail-ear-etc](nāsākṣinakhakarṇādi) [knowing](jñātvā) [tortoise](kūrmam) [should-turn](vivartayet)
+[nose+eye+nail+ear+etc](nāsākṣinakhakarṇādi) [knowing](jñātvā) [tortoise](kūrmaṃ) [should+turn](vivartayet)
 
 ## mukta-m0-p34-v845
-[jaw](hanū) [that-mouth-part](tadvaktrabhāge) [ca](ca) [by-length](dairghyāt) [seven-angulas](saptāṅgulau) [considered](matau)
+[jaws](hanū) [that+mouth+part](tadvaktrabhāge) [and](ca) [by+length](dairghyāt) [seven+angula](saptāṅgulau) [considered](matau)
 
 ## mukta-m0-p34-v846
-[tusks](daṃṣṭre) [ca](ca) [three-angulas](tryaṅgule) [in-mouth](vaktre) [white-nectar-drop-like](sitarṣikalikopame)
+[tusks](daṃṣṭre) [and](ca) [three+angula](tryaṅgule) [mouth](vaktre) [white+rishi+sprout+like](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[front-measure-deprived](prāṅmānādyavahīnam) [tu](tu) [disk-garuḍa-eyed](cakragāruṇalocanam)
+[front+measure+first+less](prāṅmānādyavahīnaṃ) [but](tu) [discus+garuḍa+eyed](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[club-disk-lotus-conch-rich](gadācakrābjaśaṅkhāḍhyam) [ālīḍha-posture](ālīḍhakaraṇe) [standing](sthitam)
+[mace+discus+lotus+conch+rich](gadācakrābjaśaṅkhāḍhyam) [ālīḍha+posture](ālīḍhakaraṇe) [standing](sthitam)
 
 ## mukta-m0-p34-v849
-[thus](evaṃ) [boar-form](varāharūpam) [would-be](syāt) [forest-garland-adorned](vanamālāvibhūṣitam)
+[thus](evaṃ) [boar+form](varāharūpaṃ) [would+be](syāt) [forest+garland+adorned](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[man-form](narāṅgam) [lion-faced](siṃhavaktram) [ca](ca) [round-eyed](vṛttākṣam) [brow-furrowed](bhrukuṭīyutam)
+[man+limbed](narāṅgaṃ) [lion+faced](siṃhavaktraṃ) [and](ca) [round+eyed](vṛttākṣaṃ) [brow+furrowed](bhrukuṭīyutam)

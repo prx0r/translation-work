@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[kapāla-abhaya-hasta-ugrā](kapālābhayahastogrā) [vāma-ādyā](vāmādyā) [nava-śaktayaḥ](navaśaktayaḥ)
+[pada](kapālābhayahastogrā) [pada](vāmādyā) [pada](navaśaktayaḥ)
 
 ## mukta-m0-p32-v777
-[dvīpi-carma-ahi-bhṛt-śāntaḥ](dvīpicarmāhibhṛcchāntaḥ) [tri-akṣaḥ](tryakṣo) [jaṭā-indu-bhūṣitaḥ](jaṭendubhūṣitaḥ)
+[pada](dvīpicarmāhibhṛcchāntastryakṣo) [pada](jaṭendubhūṣitaḥ)
 
 ## mukta-m0-p32-v778
-[aṅga-ṣaṭka-samāyuktaḥ](aṅgaṣaṭkasamāyuktaḥ) [śīghram](śīghraṃ) [syāt](syāt) [siddhi-dāyakaḥ](siddhidāyakaḥ)
+[pada](aṅgaṣaṭkasamāyuktaḥ) [pada](śīghraṃ) [pada](syātsiddhidāyakaḥ)
 
 ## mukta-m0-p32-v779
-[yuva-yauvana-vṛddha-strī-bāla-ābhāḥ](yuvayauvanavṛddhastrībālābhaḥ) [pañca-vaktra-bhṛt](pañcavaktrabhṛt)
+[pada]([atra) [pada](ka.) [pada](pustakasyā) [pada](ṭippaṇī-yuva=) [pada](īśaḥ,) [pada](yauvanaḥ=puruṣaḥ,) [pada](vṛddhaḥ=aghora,) [pada](strī=vāmadevaḥ,) [pada](bālaḥ=sadyojātaḥ,) [pada](iti) [pada](|]) [pada](yuvayauvanavṛddhastrībālābhaḥ) [pada](pañcavaktrabhṛt)
 
 ## mukta-m0-p32-v780
-[vāmena](vāmenā) [bhaya-mantra-aṅka](bhayamantrāṅka) [kapāla-utpala-pūra](kapālotpalapūra) [bhṛt](bhṛt)
+[pada](vāmenā) [pada]([kh:) [pada](dakṣeṇa;) [pada](atraiva) [pada](k.) [pada](pustakasya) [pada](ṭippaṇyāṃ) [pada](akṣamālā) [pada](iti) [pada](śabdaśva) [pada](prakṣiptaḥ]) [pada](bhayamantrāṅka) [pada]([gh:) [pada](mantrāhva]) [pada](kapālotpalapūra) [pada]([atrāpi) [pada](k.) [pada](pustakasya) [pada](ṭippaṇyāṃ) [pada](bījapura) [pada](iti) [pada](prakṣiptaḥ]) [pada](bhṛt)
 
 ## mukta-m0-p32-v781
-[dṛg-rakta-asi-hutāśa-ābhāḥ](dṛgraktāsihutāśābhāḥ) [sarve](sarve) [tri-akṣāḥ](tryakṣāḥ) [jaṭā-anvitāḥ](jaṭānvitāḥ)
+[pada](dṛgraktāsihutāśābhāḥ) [pada](sarve) [pada](tryakṣā) [pada](jaṭānvitāḥ)
 
 ## mukta-m0-p32-v782
-[babhru-bhrū-śmaśru-ddā?bhīma-astram](babhrubhrūśmaśruddā?bhīmamastraṃ) [pītam](pītaṃ) [sva-śastra](svaśastra) [bhṛt](bhṛt)
+[pada](babhrubhrūśmaśruddā?bhīmamastraṃ) [pada](pītaṃ) [pada](svaśastra) [pada]([k,) [pada](kh,) [pada](g:) [pada](suśastra]) [pada](bhṛt)
 
 ## mukta-m0-p32-v783
-[śakti](śakti) [vajra-akṣa-mālā-si-cakrāṇi](vajrākṣamālāsicakrāṇi) [dakṣiṇe](dakṣiṇe) [kvacit](kvacit)
+[pada](śakti) [pada]([pā:) [pada](śānti]) [pada](vajrākṣamālāsicakrāṇi) [pada](dakṣiṇe) [pada](kvacit)
 
 ## mukta-m0-p32-v784
-[eka-āsyaḥ](ekāsyaḥ) [pañca-vaktraḥ](pañcavaktraḥ) [vā](vā) [tri-akṣaḥ](tryakṣo) [jaṭā-indu-bhṛt-śivaḥ](jaṭendubhṛcchivaḥ)
+[pada](ekāsyaḥ) [pada](pañcavaktro) [pada](vā) [pada](tryakṣo) [pada](jaṭendubhṛcchivaḥ)
 
 ## mukta-m0-p32-v785
-[koṇeṣu](koṇeṣu) [ca-eka](caika) [rudra-ādyāḥ](rudrādyāḥ) [sita-asan-nīla-lohitāḥ](sitāsaṅnīlalohitāḥ)
+[pada](p.) [pada](92)) [pada](koṇeṣu) [pada](caika) [pada]([mū:) [pada](caiva]) [pada](rudrādyāḥ) [pada](sitāsaṅnīlalohitāḥ)
 
 ## mukta-m0-p32-v786
-[śiva-āyudha-dharāḥ](śivāyudhadharāḥ) [tri-akṣāḥ](tryakṣāḥ) [sṛṇi-asi-bhyām](sṛṇyasibhyāṃ) [vinā](vinā) [kvacit](kvacit)
+[pada](śivāyudhadharāstryakṣāḥ) [pada](sṛṇyasibhyāṃ) [pada](vinā) [pada](kvacit)
 
 ## mukta-m0-p32-v787
-[puṭa-añjali-karāḥ](puṭāñjalikarāḥ) [sarve](sarve) [vidyeśāḥ](vidyeśāḥ) [ca-eka-vaktrakāḥ](caikavaktrakāḥ)
+[pada](puṭāñjalikarāḥ) [pada](sarve) [pada](vidyeśāścaikavaktrakāḥ)
 
 ## mukta-m0-p32-v788
-[varābhaya-kapāla-abja-jaṭā-indu-ajina-nāga-bhṛt](varābhayakapālābjajaṭendvajinanāgabhṛt)
+[pada](varābhayakapālābjajaṭendvajinanāgabhṛt)
 
 ## mukta-m0-p32-v789
-[dakṣiṇe](dakṣiṇe) [śūla-nistriśa-kuṭhāra-abhaya-dhārakaḥ](śūlanistriśakuṭhārābhayadhārakaḥ)
+[pada](dakṣiṇe) [pada](śūlanistriśakuṭhārābhayadhārakaḥ)
 
 ## mukta-m0-p32-v790
-[muṇḍa-mālī](muṇḍamālī) [śava-ārūḍhaḥ](śavārūḍho) [dvaitāt](dvaitād) [dvaita](dvaita) [kramāt](kramāt) [mataḥ](mataḥ)
+[pada](muṇḍamālī) [pada](śavārūḍho) [pada](dvaitādvaite) [pada](kramānmataḥ)
 
 ## mukta-m0-p32-v791
-[saumyam](saumyaṃ) [prahasita-āsyam](prahasitāsyaṃ) [ca](ca) [candra-maulim](candramauliṃ) [jaṭā-dharam](jaṭādharam)
+[pada](saumyaṃ) [pada](prahasitāsyaṃ) [pada](ca) [pada](candramauliṃ) [pada](jaṭādharam)
 
 ## mukta-m0-p32-v792
-[nāga-indra-mekhalā-yuktam](nāgendramekhalāyuktaṃ) [sarva-ābharaṇa-bhūṣitam](sarvābharaṇabhūṣitam)
+[pada](nāgendramekhalāyuktaṃ) [pada](sarvābharaṇabhūṣitam) [pada]([kh:) [pada](maṇḍitam])
 
 ## mukta-m0-p32-v793
-[nṛtyantam](nṛtyantaṃ) [mahā-hṛṣṭam](mahāhṛṣṭam) [āyudha-ākula](āyudhākula) [pāṇinam](pāṇinam)
+[pada](nṛtyantaṃ) [pada](mahāhṛṣṭamāyudhākula) [pada]([mū,) [pada](a:) [pada](māyudhojjvala]) [pada](pāṇinam)
 
 ## mukta-m0-p32-v794
-[bala-nākārakam](balanākārakaṃ) [bāhum](bāhum) [ekam](ekaṃ) [kṛtvā](kṛtvā) [hṛdi](hṛdi) [sthitam](sthitam)
+[pada](balanākārakaṃ) [pada](bāhumekaṃ) [pada](kṛtvā) [pada](hṛdi) [pada](sthitam)
 
 ## mukta-m0-p32-v795
-[vāme](vāme) [pratānita-bhujam](pratānitabhujaṃ) [samyak](samyak) [kṛtvā](kṛtvā) [su-śobhanam](suśobhanam)
+[pada](vāme) [pada](pratānitabhujaṃ) [pada](samyak) [pada](kṛtvā) [pada](suśobhanam)
 
 ## mukta-m0-p32-v796
-[sarva-śānti-karam](sarvaśāntikaraṃ) [kuryāt](kuryād) [iti](ityevaṃ) [evaṃ](evaṃ) [saumya-rūpakam](saumyarūpakam)
+[pada](([koṣṭhāntargato'yaṃ) [pada](pāṭhaḥ) [pada](k.) [pada](pustake) [pada](nāsti]) [pada](sarvaśāntikaraṃ) [pada](kuryādityevaṃ) [pada](saumyarūpakam)
 
 ## mukta-m0-p32-v797
-[skanda-nandi-mahākāla-gaṇeśa-gaṇa-saṃyutam](skandanandimahākālagaṇeśagaṇasaṃyutam)
+[pada](skandanandimahākālagaṇeśagaṇasaṃyutam)
 
 ## mukta-m0-p32-v798
-[sānandaiḥ](sānandai) [rūpa-sampannaiḥ](rūpasampannairvīkṣyamāṇaṃ) [vīkṣyamāṇam](vīkṣyamāṇaṃ) [maheśvaram](maheśvaram)
+[pada](sānandai) [pada](rūpasampannairvīkṣyamāṇaṃ) [pada](maheśvaram) [pada]([kh,) [pada](gh:) [pada](vīkṣamāṇairmaheśvara])
 
 ## mukta-m0-p32-v799
-[tad-agre](tadagre) [ca](ca) [pranṛtyan](pranṛtyaṃśca) [ca](ca) [bhṛṅgī-kāryam](bhṛṅgīkāryaṃ) [kṛśaḥ](kṛśo) [bhṛśaḥ](bhṛśaḥ)
+[pada](tadagre) [pada](ca) [pada](pranṛtyaṃśca) [pada](bhṛṅgīkāryaṃ) [pada](kṛśo) [pada](bhṛśaḥ)
 
 ## mukta-m0-p32-v800
-[vikṛtāḥ](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ) [tīkṣṇa-nāsāḥ](tīkṣṇanāsāḥ) [ca](ca) [caura-agni-ādi-pradāḥ](caurāgnyādipradāḥ) [kramāt](kramāt)
+[pada](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ) [pada]([kh:) [pada](prapadāḥ]) [pada](kramāt)

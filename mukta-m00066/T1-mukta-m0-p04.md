@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[where?](kutra) [meru?](meruta) [at-end-of-faults](doṣāṃte) [heavenly-places](svargasthān) [is-proclaimed](pratikīrtyate)
+[where-meru](kutrameruta) [fault-end](doṣāṃte) [heaven-place](svargasthān) [is-praised](pratikīrtyate)
 
 ## mukta-m0-p04-v77
-[dwell](vasaṃti) [where](yatra) [always](niyataṃ) [nectar-drinking](sudhāpāna) [foot-crowded](padākulāḥ)
+[dwell](vasaṃti) [where](yatra) [always](niyataṃ) [nectar-drink](sudhāpāna) [foot-crowded](padākulāḥ)
 
 ## mukta-m0-p04-v78
-[sacrificer-there](yajamānastatra) [having-gone](gatvā) [with-local-deity-groups](tatratyairdevatāgaṇaiḥ)
+[sacrificer](yajamānastatra) [having-gone](gatvā) [there-resident](tatratyairdevatāgaṇaiḥ)
 
 ## mukta-m0-p04-v79
-[jewel](ratna) [pillar](staṃbha) [filled](samākīrṇaṃ) [pearl-net-crowded](muktājālasamākulam)
+[jewel](ratna) [pillar](staṃbha) [filled](samākīrṇaṃ) [pearl-net](muktājālasamākulam)
 
 ## mukta-m0-p04-v80
-[black-agarwood](kālāgaru) [arisen](samudbhūta) [new-bride](navadhū) [soft](pālikomalam)
+[black-aloes](kālāgaru) [born](samudbhūta) [new-bride](navadhū) [tender](pālikomalam)
 
 ## mukta-m0-p04-v81
-[sweet-honeys](madhurairmadhubhiḥ) [filled](pūrṇaiḥ) [and-jewel-pots](ratnakuṃbhaiśca) [adorned](śobhitam)
+[sweet](madhurairmadhubhiḥ) [full](pūrṇaiḥ) [jewel-pots](ratnakuṃbhaiśca) [adorned](śobhitam)
 
 ## mukta-m0-p04-v82
-[with-clever-maidservant-groups-and-mind](vidagdhaiśceṭikāvargaistataścetaśca) [crowded](saṃkulam)
+[clever](vidagdhaiśceṭikāvargaistataścetaśca) [crowded](saṃkulam)
 
 ## mukta-m0-p04-v83
-[in-heaven](svarge) [divine-house](divyagrahaṃ) [having-gone](gatvā) [sees-one](paśyatyekāṃ) [beautiful-eyed](sulocanām)
+[heaven](svarge) [divine-house](divyagrahaṃ) [having-gone](gatvā) [sees](paśyatyekāṃ) [beautiful-eyed](sulocanām)
 
 ## mukta-m0-p04-v84
-[she](sā) [woven?](kūtasyūta) [glances](saṃcārairapāṃgairati) [beautiful](śobhanām)
+[she](sā) [kuta-suta](kūtasyūta) [movement](saṃcārairapāṃgairati) [very-beautiful](śobhanām)
 
 ## mukta-m0-p04-v85
-[gradually-limb-by-limb](kramādaṃgāṃga) [contact](saṃsarga) [pleasure](sukhaṃ) [immediately-enjoys](sadyogyamaśnute)
+[gradually](kramādaṃgāṃga) [contact](saṃsarga) [pleasure](sukhaṃ) [immediately-fit](sadyogyamaśnute)
 
 ## mukta-m0-p04-v86
-[appears-unlike](anyādṛśamivābhāti) [linga-pleasure](laiṃgaṃsaukhyaṃ) [that-indeed](tadevahi)
+[other-like](anyādṛśamivābhāti) [linga-pleasure](laiṃgaṃsaukhyaṃ) [that-indeed](tadevahi)
 
 ## mukta-m0-p04-v87
-[astonishes](camatkaroti) [that-sacrificer](yajvāsau) [own](nijakaṃ) [rite-accomplishment](karmasādhanam)
+[astonishes](camatkaroti) [sacrificer](yajvāsau) [own](nijakaṃ) [work-accomplishment](karmasādhanam)
 
 ## mukta-m0-p04-v88
-[worships](abhyarcayati) [speech/goddess?](gīrvāṇī) [with-flower-offerings](bhagapuṣpasamarpaṇaiḥ)
+[worships](abhyarcayati) [goddess](gīrvāṇī) [flower-offerings](bhagapuṣpasamarpaṇaiḥ)
 
 ## mukta-m0-p04-v89
-[all-veda](samastaveda) [declared](saṃproktā) [sacrificial-rites-performed](yajñakarmābhyanuṣṭhitaiḥ)
+[all-veda](samastaveda) [declared](saṃproktā) [sacrifice-rite](yajñakarmābhyanuṣṭhitaiḥ)
 
 ## mukta-m0-p04-v90
-[of-veda-also](vedasyāpi) [and](ca) [purport](tātparyaṃ) [great-linga-worship-method](mahāliṃgārcanakramaḥ)
+[veda](vedasyāpi) [meaning](ca) [therefore](tātparyaṃ) [great-linga-worship-order](mahāliṃgārcanakramaḥ)
 
 ## mukta-m0-p04-v91
-[of-ayurveda](āyurvedasya) [essence-indeed](sārastu) [aphrodisiac-is-called](vājīkaraṇamucyate)
+[ayurveda](āyurvedasya) [essence](sārastu) [virilification](vājīkaraṇamucyate)
 
 ## mukta-m0-p04-v92
-[of-growing-disease](varthamānasyarogasya) [by-destruction-limb-nourishment](nāśadvārāṃgapuṣṭitaḥ)
+[existing](varthamānasyarogasya) [destruction](nāśadvārāṃgapuṣṭitaḥ)
 
 ## mukta-m0-p04-v93
-[in-dharma-wealth](dharmecārthe) [and](ca) [in-desire](kāme) [and](ca) [in-liberation](mokṣe) [and](ca) [daughter-of-mountain](girinaṃdinī)
+[dharma](dharmecārthe) [artha](ca) [kama](kāme) [moksha](ca) [mountain-daughter](girinaṃdinī)
 
 ## mukta-m0-p04-v94
-[by-disease](rogeṇa) [first](prathamaṃ) [perishes-fluid](naśyedrava) [indeed-soul-mark](evātmalakṣaṇaḥ)
+[by-disease](rogeṇa) [first](prathamaṃ) [perishes](naśyedrava) [indeed](evātmalakṣaṇaḥ)
 
 ## mukta-m0-p04-v95
-[therefore](ataḥ) [first](prathamato) [enemy](vairi) [like-essence](rasasyeva) [great](mahīyasaḥ)
+[therefore](ataḥ) [first](prathamato) [enemy](vairi) [rasa](rasasyeva) [great](mahīyasaḥ)
 
 ## mukta-m0-p04-v96
-[whence](kuto) [of-linga-great-lord](liṃgamaheśasya) [from-worship](pūjanāt) [merit-origin](puṇyasaṃbhavaḥ)
+[whence](kuto) [linga-great](liṃgamaheśasya) [worship](pūjanāt) [merit-birth](puṇyasaṃbhavaḥ)
 
 ## mukta-m0-p04-v97
-[of-semen](śuklasya) [with-nourishers-thing](poṣakairvastu) [born-self-worship](jātairātmānamarcayet)
+[white](śuklasya) [nourishing](poṣakairvastu) [born](jātairātmānamarcayet)
 
 ## mukta-m0-p04-v98
-[of-dhanurveda](dhanurvedasya) [and-this](cāpyetat) [purpose-stated](prayojanamudāhṛtam)
+[dhanurveda](dhanurvedasya) [also](cāpyetat) [purpose](prayojanamudāhṛtam)
 
 ## mukta-m0-p04-v99
-[in-battle](yuddhe) [if-death-obtains](cenmṛtimāpnoti) [like-sacrificer-fruit-enjoys](yajvavatphalamaśnute)
+[in-battle](yuddhe) [if-death](cenmṛtimāpnoti) [sacrificer-like](yajvavatphalamaśnute)
 
 ## mukta-m0-p04-v100
-[bliss](māṃnaṃda-)
+[maṃnaṃda-](māṃnaṃda-)
