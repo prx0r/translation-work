@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[pada](ityeteṣāmabhāve) [pada](tu) [pada](rasendraṃ) [pada](vajrasaṃyutam)
+[thus](itye) [these](teṣām) [absence](abhāve) [then](tu) [mercury](rasendram) [diamond](vajra) [joined](saṃyutam)
 
 ## mukta-m0-p05-v102
-[pada](gavyasarjayutaiścaiva) [pada](lepyaṃ) [pada](varṇakapuṣṭaye)
+[cow](gavya) [resin](sarja) [joined](yutaiḥ) [and](ca) [eva](eva) [anointed](lepyam) [color](varṇaka) [nourishment](puṣṭaye)
 
 ## mukta-m0-p05-v103
-[pada](sadvārarkṣartuyuktenhi) [pada](cārulagnasamanvite)
+[good](sad) [door](vāra) [constellation](ṛkṣa) [season](ṛtu) [joined](yuktena) [hi](hi) [beautiful](cāru) [attached](lagna) [endowed](samanvite)
 
 ## mukta-m0-p05-v104
-[pada](divyāntarikṣabhaumāni) [pada](śubhāśubhaphalāptaye)
+[divine](divya) [atmospheric](antarikṣa) [earthly](bhaumāni) [auspicious](śubha) [inauspicious](aśubha) [result](phala) [attainment](āptaye)
 
 ## mukta-m0-p05-v105
-[pada](ityādi) [pada](śubhakṛddivyamato'śubhakaraṃ) [pada](tvidam)
+[thus](ityādi) [auspicious](śubha) [doing](kṛt) [divine](divyam) [therefore](atas) [inauspicious](aśubha) [making](karam) [but](tu) [this](idam)
 
 ## mukta-m0-p05-v106
-[pada](digdāhastīvravātaśca) [pada](candrasūryopamardanam)
+[digdāha](digdāha) [severe](tīvra) [wind](vāta) [and](ca) [moon](candra) [sun](sūrya) [eclipse](upamardanam)
 
 ## mukta-m0-p05-v107
-[pada](vāsavṛkṣāgrasaṃsthāyi) [pada](balibhuṅmadhurārutiḥ)
+[indra-tree](vāsavṛkṣa) [top](agra) [standing](saṃsthāyi) [offering-eater](balibhuṅ) [sweet](madhura) [sound](rutiḥ)
 
 ## mukta-m0-p05-v108
-[pada](pāṃśvasṛgvarṣaṇaṃ) [pada](ghoramāntarikṣamaśobhanam)
+[dust](pāṃśu) [blood](asṛk) [raining](varṣaṇam) [terrible](ghoram) [atmospheric](āntarikṣam) [inauspicious](aśobhanam)
 
 ## mukta-m0-p05-v109
-[pada](dadhyakṣatayavā) [pada](dūrvā) [pada](dīpo) [pada](gorocanā) [pada](dhvajaḥ)
+[curd](dadhi) [akṣata](akṣata) [yava](yava) [dūrvā](dūrvā) [lamp](dīpa) [gorocanā](gorocanā) [flag](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[pada](govṛṣaśca) [pada](kharo) [pada](vājī) [pada](bhasmākṣo) [pada](bhūpatirdvipaḥ)
+[cow](go) [bull](vṛṣa) [and](ca) [donkey](khara) [horse](vājī) [ash](bhasma) [eye](akṣa) [king](bhūpati) [elephant](dvipaḥ)
 
 ## mukta-m0-p05-v111
-[pada](śivaḥ) [pada](śivodakuṃbhasthaḥ) [pada](kauśiko) [pada](vāmataḥ) [pada](śubhaḥ)
+[śiva](śivaḥ) [śiva-water](śivodaku) [pot](kumbha) [stha](sthaḥ) [kauśika](kauśikaḥ) [left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-[pada](muktakeśaḥ) [pada](parākṣepaḥ) [pada](kṣāro'ṅgāraśca) [pada](dāru) [pada](ca)
+[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [ca](ca)
 
 ## mukta-m0-p05-v113
-[pada](chinnāṅgo'locano) [pada](rogī) [pada](kapālī) [pada](bhūprakampanaḥ)
+[cut-limbed](chinnāṅgaḥ) [eyeless](alocanaḥ) [diseased](rogī) [skull-bearer](kapālī) [earth](bhū) [trembling](prakampanaḥ)
 
 ## mukta-m0-p05-v114
-[pada](kṣutkṣāmonmattakau) [pada](tantuścauṣadhīṣaṇasañcayaḥ)
+[hunger](kṣut) [thirst](kṣāma) [mad](unmatta) [kau](kau) [thread](tantuḥ) [ca](ca) [herb](oṣadhī) [desire](iṣaṇa) [collection](sañcayaḥ)
 
 ## mukta-m0-p05-v115
-[pada](pakṣārdhārdhaṃ) [pada](tu) [pada](saṃtyajya) [pada](prasthānaṃ) [pada](kriyate) [pada](śubhe)
+[half](pakṣa) [half](ardha) [half](ardha) [tu](tu) [abandoning](saṃtyajya) [departure](prasthānam) [done](kriyate) [auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-[pada](vedase) [pada](syādvite) [pada](yātā) [pada](tvagnidaṇḍānatikramāt)
+[veda](veda) [se](se) [syāt](syāt) [vite](vite) [yātā](yātā) [tvagnidaṇḍa](tvagnidaṇḍa) [not](na) [transgression](atikramāt)
 
 ## mukta-m0-p05-v117
-[pada](iṣṭādau) [pada](śaṅkaraṃ) [pada](śastaṃ) [pada](prāgīśenduvanaṃ) [pada](vrajet)
+[desired](iṣṭa) [beginning](ādau) [śaṅkara](śaṅkaram) [auspicious](śastam) [east](prāg) [īśa](īśa) [indu](indu) [forest](vanaṃ) [go](vrajet)
 
 ## mukta-m0-p05-v118
-[pada](budhārkendusite) [pada](jīve) [pada](vārkṣe) [pada](prāguttarasthite)
+[mercury](budha) [sun](arka) [moon](indu) [venus](site) [jupiter](jīve) [vārkṣe](vārkṣe) [east-north](prāguttara) [standing](sthite)
 
 ## mukta-m0-p05-v119
-[pada](ekāntarāsu) [pada](tārāsu) [pada](śeṣe) [pada](cāniṣṭakarmaṇi)
+[one](eka) [interval](antarāsu) [stars](tārāsu) [remaining](śeṣe) [ca](ca) [inauspicious](aniṣṭa) [action](karmaṇi)
 
 ## mukta-m0-p05-v120
-[pada](niṣadho) [pada](nīlagandhākhyaḥ) [pada](śaṅgīketurnagādhipāḥ)
+[niṣadha](niṣadhaḥ) [nīlagandha](nīlagandhākhyaḥ) [śaṅgī](śaṅgī) [ketu](ketuḥ) [naga](naga) [lord](adhipāḥ)
 
 ## mukta-m0-p05-v121
-[pada](nandākhyo) [pada](malayo) [pada](vindhya) [pada](ujjayanto'tha) [pada](ṛkṣakaḥ)
+[nanda](nandākhyaḥ) [malaya](malayaḥ) [vindhya](vindhyaḥ) [ujjayanta](ujjayantaḥ) [atha](atha) [ṛkṣaka](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[pada](yojanāni) [pada](daśaiteṣāṃ) [pada](girīṇāṃ) [pada](nikaṭe) [pada](vanam)
+[yojana](yojanāni) [ten](daśa) [these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-[pada](etatkṣetrotthitā) [pada](ye) [pada](tu) [pada](pāṣāṇāstaravaḥ) [pada](śubhāḥ)
+[this](etat) [field](kṣetra) [arisen](utthitā) [those](ye) [tu](tu) [stones](pāṣāṇāḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-[pada](sācāryaḥ) [pada](sādhakaḥ) [pada](śilpijanaiḥ) [pada](parivataḥ) [pada](śubhaiḥ)
+[with-teacher](sācāryaḥ) [sādhaka](sādhakaḥ) [artisan](śilpi) [people](janaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[pada](dhyātvādhaḥ) [pada](prākṛtaṃ) [pada](tattvaṃ) [pada](śivatattvamayīṃ) [pada](mahīm)
+[meditating](dhyātvā) [below](adhaḥ) [material](prākṛtaṃ) [principle](tattvaṃ) [śiva](śiva) [principle](tattva) [earth](mahīm)
