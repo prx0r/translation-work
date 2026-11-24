@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-etat-siddham sadā śaivam guru-rūpam a-janmakam
+[etad](etatsiddhaṃ) [siddhaṃ](siddhaṃ) [sadā](sadā) [śaivaṃ](śaivaṃ) [guru](gururūpamajanmakam) [rūpa](gururūpamajanmakam) [ajanmaka](gururūpamajanmakam)
 
 ## mukta-m0-p08-v177
-śiva-anta-nāmakāḥ sarve bhasma-aṅgāḥ brahmacāriṇaḥ
+[śiva](śivāntanāmakāḥ) [anta](śivāntanāmakāḥ) [nāma](śivāntanāmakāḥ) [kāḥ](śivāntanāmakāḥ) [sarve](sarve) [bhasma](bhasmāṅgā) [aṅga](bhasmāṅgā) [brahmacāriṇaḥ](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-viśeṣayātu sāmānyā guruḥ api evam eva tu
+[viśeṣa](viśeṣayātu) [yātu](viśeṣayātu) [sāmānya](sāmānyā) [guru](gururapyevameva) [api](gururapyevameva) [eva](gururapyevameva) [eva](gururapyevameva) [tu](tu)
 
 ## mukta-m0-p08-v179
-ambhojam paṅkajam yadvat tadvat śaivāḥ na ca itare
+[ambhojaṃ](ambhojaṃ) [paṅkajaṃ](paṅkajaṃ) [yadvat](yadvattadvacchaivā) [tadvat](yadvattadvacchaivā) [śaiva](yadvattadvacchaivā) [na](na) [cetare](cetare)
 
 ## mukta-m0-p08-v180
-tathā eva śiva-liṅgānām śaivāḥ pāśupata-ādayaḥ
+[tathā](tathaiva) [eva](tathaiva) [śivaliṅgānāṃ](śivaliṅgānāṃ) [śaivāḥ](śaivāḥ) [pāśupata](pāśupatādayaḥ) [ādayaḥ](pāśupatādayaḥ)
 
 ## mukta-m0-p08-v181
-liṅga-bheda-phalaiḥ yuktaḥ yāti asau rauravam dhruvam
+[liṅga](liṅgabhedaphalairyukto) [bheda](liṅgabhedaphalairyukto) [phalaiḥ](liṅgabhedaphalairyukto) [yuktaḥ](liṅgabhedaphalairyukto) [yāti](yātyasau) [asau](yātyasau) [rauravaṃ](rauravaṃ) [dhruvam](dhruvam)
 
 ## mukta-m0-p08-v182
-anyathā pāpa-kārī syāt iti ājñā pārameśvarī
+[anyathā](anyathā) [pāpakārī](pāpakārī) [syāt](syādityājñā) [iti](syādityājñā) [ājñā](syādityājñā) [pārameśvarī](pārameśvarī)
 
 ## mukta-m0-p08-v183
-brahmacārī-gṛhastha-tva-bheda-bhinnam dvidhā sthitam
+[brahmacārī](brahmacārīgṛhasthatvabhedabhinnaṃ) [gṛhastha](brahmacārīgṛhasthatvabhedabhinnaṃ) [tva](brahmacārīgṛhasthatvabhedabhinnaṃ) [bheda](brahmacārīgṛhasthatvabhedabhinnaṃ) [bhinnaṃ](brahmacārīgṛhasthatvabhedabhinnaṃ) [dvidhā](dvidhā) [sthitam](sthitam)
 
 ## mukta-m0-p08-v184
-kāmya-kāmi-kriyām vacmi sāmpratam saṃprabhedataḥ
+[kāmya](kāmyakāmikriyāṃ) [kāmi](kāmyakāmikriyāṃ) [kriyāṃ](kāmyakāmikriyāṃ) [vacmi](vacmi) [sāmprataṃ](sāmprataṃ) [saṃprabhedataḥ](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-bhukti-mukti-icchukaḥ kāmī kuryāt dīkṣā-ādi-ājñayā
+[bhukti](bhuktimuktīcchukaḥ) [mukti](bhuktimuktīcchukaḥ) [icchukaḥ](bhuktimuktīcchukaḥ) [kāmī](kāmī) [kuryāt](kuryāddīkṣādimājñayā) [dīkṣā](kuryāddīkṣādimājñayā) [ādi](kuryāddīkṣādimājñayā) [ājñayā](kuryāddīkṣādimājñayā)
 
 ## mukta-m0-p08-v186
-pratiṣṭhā-ādi-kriyā-śeṣā tat-kṛtā saṃpraśasyate
+[pratiṣṭhā](pratiṣṭhādikriyāśeṣā) [ādi](pratiṣṭhādikriyāśeṣā) [kriyā](pratiṣṭhādikriyāśeṣā) [śeṣā](pratiṣṭhādikriyāśeṣā) [tat](tatkṛtā) [kṛtā](tatkṛtā) [saṃpraśasyate](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-śiva-adhikāra-vṛttiḥ yaḥ sa sāntānikaḥ ucyate
+[śiva](śivādhikāravṛttiryaḥ) [adhikāra](śivādhikāravṛttiryaḥ) [vṛttiḥ](śivādhikāravṛttiryaḥ) [yaḥ](śivādhikāravṛttiryaḥ) [sa](sa) [sāntānikaḥ](sāntānikaḥ) [ucyate](ucyate)
 
 ## mukta-m0-p08-v188
-paścāt kuryāt vivāham ca gṛhasthaḥ sa vatārpakaḥ
+[paścāt](paścātkuryādvivāhaṃ) [kuryāt](paścātkuryādvivāhaṃ) [vivāhaṃ](paścātkuryādvivāhaṃ) [ca](ca) [gṛhasthaḥ](gṛhasthaḥ) [sa](sa) [vatārpakaḥ](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-bhaikṣya-āśī saṃyata-ātmā ca vratī sa parikīrtitaḥ
+[bhaikṣya](bhaikṣyāśī) [āśī](bhaikṣyāśī) [saṃyata](saṃyatātmā) [ātmā](saṃyatātmā) [ca](ca) [vratī](vratī) [sa](sa) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-puṣpa-pāta-abhidhānam tu maṭhī mudrābhiḥ iṣyate
+[puṣpa](puṣpapātābhidhānaṃ) [pāta](puṣpapātābhidhānaṃ) [abhidhānaṃ](puṣpapātābhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [mudrābhiḥ](mudrābhiriṣyate) [iṣyate](mudrābhiriṣyate)
 
 ## mukta-m0-p08-v191
-sat-vastram añjanam tailam nayate ramate hi tam
+[sad](sadvastramañjanaṃ) [vastra](sadvastramañjanaṃ) [mañjanaṃ](sadvastramañjanaṃ) [tailaṃ](tailaṃ) [nayate](nayate) [ramate](ramate) [hi](hi) [tam](tam)
 
 ## mukta-m0-p08-v192
-mākṣāya vratīnam ca eva varayet matimān naraḥ
+[mākṣāya](mākṣāya) [vratinaṃ](vratinaṃ) [ca](ca) [eva](eva) [varayet](varayenmatimānnaraḥ) [matimān](varayenmatimānnaraḥ) [naraḥ](varayenmatimānnaraḥ)
 
 ## mukta-m0-p08-v193
-laukikaḥ dravya-bhāgī syāt vidyā-bhāk pāra-laukikaḥ
+[laukikaḥ](laukiko) [dravya](dravyabhāgī) [bhāgī](dravyabhāgī) [syāt](syādvidyābhāk) [vidyā](syādvidyābhāk) [bhāk](syādvidyābhāk) [pāralaukikaḥ](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-bhrātṛṇam guru-abhāve syāt gṛhasthānām svaputrakam
+[bhrātṛṇaṃ](bhrātṛṇaṃ) [guru](gurvabhāve) [abhāve](gurvabhāve) [syāt](syādgṛhasthānāṃ) [gṛhasthānāṃ](syādgṛhasthānāṃ) [sva](svaputrakam) [putrakam](svaputrakam)
 
 ## mukta-m0-p08-v195
-ayogyāḥ śiva-kāryeṣu ghaṇṭā-sambandhinaḥ haret
+[ayogyāḥ](ayogyāḥ) [śiva](śivakāryeṣu) [kāryeṣu](śivakāryeṣu) [ghaṇṭā](ghaṇṭāsambandhino) [sambandhinaḥ](ghaṇṭāsambandhino) [haret](haret)
 
 ## mukta-m0-p08-v196
-ṛṇe dravye ca piṇḍe ca saḥ eva ekaḥ praśasyate
+[ṛṇe](ṛṇe) [dravye](dravye) [ca](ca) [piṇḍe](piṇḍe) [ca](ca) [sa](sa) [eva](eva) [ekaḥ](ekaḥ) [praśasyate](praśasyate)
 
 ## mukta-m0-p08-v197
-catur-gocara-madhye ca śaivaḥ jyeṣṭhāyate param
+[catur](caturgocaramadhye) [gocara](caturgocaramadhye) [madhye](caturgocaramadhye) [ca](ca) [śaivaḥ](śaivaḥ) [jyeṣṭhāyate](jyeṣṭhāyate) [param](param)
 
 ## mukta-m0-p08-v198
-śaiva-ācāryaḥ tataḥ śreṣṭhaḥ sthāpayet sarva-devatāḥ
+[śaiva](śaivācāryastataḥ) [ācāryaḥ](śaivācāryastataḥ) [tataḥ](śaivācāryastataḥ) [śreṣṭhaḥ](śreṣṭhaḥ) [sthāpayet](sthāpayetsarvadevatāḥ) [sarva](sthāpayetsarvadevatāḥ) [devatāḥ](sthāpayetsarvadevatāḥ)
 
 ## mukta-m0-p08-v199
-bhukti-mukti-pradātā ca na anyaḥ vai viśvakṛt guruḥ
+[bhukti](bhuktimuktipradātā) [mukti](bhuktimuktipradātā) [pradātā](bhuktimuktipradātā) [ca](ca) [na](na) [anyaḥ](anyaḥ) [vai](vai) [viśvakṛt](viśvakṛdguruḥ) [guruḥ](viśvakṛdguruḥ)
 
 ## mukta-m0-p08-v200
-tad-abhāve tu kartavyāḥ sva-deva-vrata-cāriṇaḥ
+[tad](tadabhāve) [abhāve](tadabhāve) [tu](tu) [kartavyāḥ](kartavyāḥ) [sva](svadevavratacāriṇaḥ) [deva](svadevavratacāriṇaḥ) [vrata](svadevavratacāriṇaḥ) [cāriṇaḥ](svadevavratacāriṇaḥ)
