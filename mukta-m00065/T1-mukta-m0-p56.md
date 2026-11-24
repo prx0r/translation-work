@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[in-winter](hemante) [knowledge-giving](jñānadaṃ) [liṅga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-giving](sarvabhūtidam)
+[hemante](hemante) [jñāna-daṃ](jñānadaṃ) [liṅgaṃ](liṅgaṃ) [śiśire](śiśire) [sarva-bhūti-daṃ](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-[of-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [of-liṅga](liṅgasya) [installation](āropaṇaṃ) [held](matam)
+[yatīnāṃ](yatīnāṃ) [sarva-kāleṣu](sarvakāleṣu) [liṅgasya-āropaṇaṃ](liṅgasyāropaṇaṃ) [matam](matam)
 
 ## mukta-m0-p56-v1378
-[in-southern-course](dakṣiṇetvayane) [not-to-be-worshipped](apūjyaṃ) [beyond-three-years](trivarṣordhvaṃ) [fear-bringing](bhayāvaham)
+[dakṣiṇa-ayane](dakṣiṇetvayane) [apūjyaṃ](apūjyaṃ) [tri-varṣa-ūrdhvaṃ](trivarṣordhvaṃ) [bhaya-āvaham](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-[for-decay](kṣayāya) [for-growth](bṛddhaye) [may-be](syāt) [ca](ca) [in-southern](yāmye) [in-auspicious](saumye) [other](apare) [sun](ravau)
+[kṣayāya](kṣayāya) [vṛddhaye](bṛddhaye) [syāt-ca](syācca) [yāmye](yāmye) [saumye-apare](saumye'pare) [ravau](ravau)
 
 ## mukta-m0-p56-v1380
-[six-six-months-beyond](ṣaṭṣaṇmāsottarān) [three-years](tryabdān) [my-opinion](mayamatāt) [fruit](phalaṃ) [in-order](kramāt)
+[ṣaṭ-ṣaṇ-māsa-uttarān](ṣaṭṣaṇmāsottarān) [tri-abdān](tryabdān) [maya-matāt-phalaṃ](mayamatātphalaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1381
-[black-magic](abhicāro) [becomes](bhavet) [there](tatra) [installed](sthāpite) [in-southern](dakṣiṇe) [course](ayane)
+[abhicāraḥ](abhicāro) [bhavet-tatra](bhavettatra) [sthāpite](sthāpite) [dakṣiṇe-ayane](dakṣiṇe'yane)
 
 ## mukta-m0-p56-v1382
-[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [loss-of-girls](kanyānāśaḥ) [ca](ca) [arises](jāyate)
+[kumārāḥ](kumārāḥ) [saṃprapīḍyante](saṃprapīḍyante) [kanyā-nāśaḥ-ca](kanyānāśaśca) [jāyate](jāyate)
 
 ## mukta-m0-p56-v1383
-[of-doer](kartuḥ) [decay](kṣayaḥ) [constant-grief](sadāśokaḥ) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
+[kartuḥ](kartuḥ) [kṣayaḥ](kṣayaḥ) [sadā-śokaḥ](sadāśoko) [gṛhe](gṛhe) [bhavati](bhavati) [dāruṇaḥ](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[auspicious-seeker](śubhārthī) [not-should-act](na+pravarteta) [of-goddess](devyāḥ) [mantra-etc-scripture](mantrādiśāstrataḥ)
+[śubha-arthī](śubhārthī) [na](na) [pravarteta](pravarteta) [devyāḥ](devyā) [mantra-ādi-śāstrataḥ](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[therefore-place](tasmātsthānaṃ) [guru](guruṃ) [having-obtained](prāpya) [for-protection](rakṣaye) [from-black-magic](dābhicārikam)
+[tasmāt-sthānaṃ](tasmātsthānaṃ) [guruṃ](guruṃ) [prāpya](prāpya) [rakṣaye](rakṣaye) [dābhicārikam](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-[installation](sthāpanaṃ) [tu](tu) [should-be-done](prakartavyaṃ) [from-cool-season](śiśirādau) [in-three-seasons](ṛtutraye)
+[sthāpanaṃ](sthāpanaṃ) [tu](tu) [prakartavyaṃ](prakartavyaṃ) [śiśirādau](śiśirādāvṛtutraye) [ṛtu-traye](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-[with-moon-star-yoga](sacandratārakāyoge) [with-good-lagna-karaṇa](sulagnakaraṇānvitate)
+[sa-candra-tārakā-yoge](sacandratārakāyoge) [su-lagna-karaṇa-anvite](sulagnakaraṇānvitate)
 
 ## mukta-m0-p56-v1388
-[in-non-dual](advaite) [ca](ca) [eva](eva) [in-dark](kṛsṇe) [api](api) [mantra-form](mantramūrti) [by-distinction](prabhedataḥ)
+[advaita](advaite) [ca-eva](caiva) [kṛṣṇe-api](kṛsṇe'pi) [mantra-mūrti](mantramūrti) [prabhedataḥ](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-[pañcarātra-worthy](pāñcarātrārharet) [mixed](miśrā) [fifty-years](pañcāśadvarṣasaṃsthitiḥ)
+[pāñcarātra-arha-ret](pāñcarātrārharet) [miśrā](miśrā) [pañcāśat-varṣa-saṃsthitiḥ](pañcāśadvarṣasaṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-[hundred-years](śātābdorvbaṃ) [tu](tu) [that](sā) [stands](tiṣṭhet) [bāṇa-liṅga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
+[śāta-abdorvbaṃ](śātābdorvbaṃ) [tu](tu) [sā](sā) [tiṣṭhet](tiṣṭhed) [vāṇa-liṅgaṃ](vāṇaliṅgaṃ) [svayambhu-vat](svayambhubat)
 
 ## mukta-m0-p56-v1391
-[of-many-meanings](bahvarthatvānipātānāṃ) [purification-etc](saṃskārādau) [installation](pratiṣṭhitiḥ)
+[bahu-artha-tvāni-pātānāṃ](bahvarthatvānipātānāṃ) [saṃskāra-ādau](saṃskārādau) [pratiṣṭhitiḥ](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-[purified](saṃskṛtā) [substance-mantra-purification](dravyasanmantrasaṃskṛtiḥ) [yā](yā) [divine](suragya) [ca](ca)
+[saṃskṛtā](saṃskṛtā) [dravya-san-mantra-saṃskṛtiḥ-yā](dravyasanmantrasaṃskṛtiryā) [suragya](suragya) [ca](ca)
 
 ## mukta-m0-p56-v1393
-[image](pratimāṃ) [five-divisions](pañcabhedaistu) [installation](pratiṣṭhā) [fivefold](pañcadhoditā)
+[pratimāṃ](pratimāṃ) [pañca-bhedaiḥ-tu](pañcabhedaistu) [pratiṣṭhā](pratiṣṭhā) [pañcadhā-uditā](pañcadhoditā)
 
 ## mukta-m0-p56-v1394
-[second](dvitīyā) [long-life](āyumati) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
+[dvitīyā](dvitīyāyumati) [āyu-mati](āyumati) [dadyāt](dadyāt) [tṛtīyā](tṛtīyā) [putra-saṃpadaḥ](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-[tenth](daśamī) [land-gain](bhūmilābhaṃ) [and](ca) [good-fortune](saubhāgyaṃ) [ca](ca) [thirteenth](trayodaśī)
+[daśamī](daśamī) [bhūmi-lābhaṃ](bhūmilābhaṃ) [ca](ca) [saubhāgyaṃ](saubhāgyaṃ) [ca](ca) [trayodaśī](trayodaśī)
 
 ## mukta-m0-p56-v1396
-[one-doer-śaṅkara](ekartuśaṅkarairnandā) [auspicious](bhadrā) [pakṣa-ṛṣi-sun](pakṣarṣibhānubhiḥ)
+[ekartu-śaṅkaraiḥ-nandā](ekartuśaṅkarairnandā) [bhadrā](bhadrā) [pakṣa-ṛṣi-bhānubhiḥ](pakṣarṣibhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-[bāṇa-day-tithi](bāṇadiktithibhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīnatulyāhitāḥ) [in-order](kramāt)
+[bāṇa-dik-tithibhiḥ](bāṇadiktithibhiḥ) [pūrṇā](pūrṇā) [hīna-tulya-ahitāḥ](hīnatulyāhitāḥ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1398
-[jupiter](vṛhaspatiḥ) [ten-five-years](dvipañcāyuḥ) [budha](budyo) [victory-wealth](jayadhanāni) [ca](ca)
+[vṛhaspatiḥ](vṛhaspatirdvipañcāyurbudyo) [dvi-pañca-āyuḥ](dvipañcāyurbudyo) [budyaḥ](budyo) [jaya-dhanāni](jayadhanāni) [ca](ca)
 
 ## mukta-m0-p56-v1399
-[cancer](karka) [taurus-libra-sagittarius](vṛṣatulācāpa) [woman-lion-graha-pair](strīsiṃhagrāhayugmake)
+[karka](karka) [vṛṣa-tulā-cāpa-strī-siṃha-grāha-yugmake](vṛṣatulācāpastrīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-[six-eight-four-yāma](ṣaḍaṣṭacaturoyāmāt) [four](catū) [rāśi-in-order](rāśikrameṇa) [tu](tu)
+[ṣaḍ-aṣṭa-catur-oyāmāt](ṣaḍaṣṭacaturoyāmāccatū) [rāśi-krameṇa](rāśikrameṇa) [tu](tu)
