@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gandharva](gāṃdharvaḥ) [tu](tu) [mahan](mahān) [veda](vedaḥ) [bharata-adyaih](bharatādyaiḥ) [pravistrta](pravistṛtaḥ)
+[gāndharvaḥ](gāṃdharvaḥ) [tu](tu) [mahān](mahān) [vedaḥ](vedo) [bharata-ādyaiḥ](bharatādyaiḥ) [pravistṛtaḥ](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-[yah](yaḥ) [tu](tu) [ubhaya-prakarena](ubhayaprakāreṇa) [samtosayati](saṃtoṣayati) [sat-janan](sajjanāt)
+[yaḥ](yaḥ) [tu](tu) [ubhaya-prakāreṇa](ubhayaprakāreṇa) [saṃtoṣayati](saṃtoṣayati) [sat-janān](sajjanāt)
 
 ## mukta-m0-p05-v103
-[prayah](prāyaḥ) [sangita-sarani](saṃgītasārāṇi) [nadakani](nādakāni) [pracakshate](pracakṣate)
+[prāyaḥ](prāyaḥ) [saṃgīta-sārāṇi](saṃgītasārāṇi) [nādakāni](nādakāni) [pracakṣate](pracakṣate)
 
 ## mukta-m0-p05-v104
-[bahulyat](bāhulyāt) [pratipadya](pratipādya) [syat](syāt) [sringara-rasa](śṛṃgārorasa) [ujvala](ujvalaḥ)
+[bāhulyāt](bāhulyāt) [pratipādya](pratipādya) [syāt](syāt) [śṛṃgāra-rasaḥ](śṛṃgārorasaḥ) [ujvalaḥ](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-[tena-uparanjitva](tenoparaṃjitatvāt) [va](vā) [tesam](teṣāṃ) [rasa](rasaḥ) [iti](iti) [smrti](smṛtiḥ)
+[tena](tena) [uparaṃjitatvāt](uparaṃjitatvāt) [vā](vā) [teṣām](teṣāṃ) [rasaḥ](rasaḥ) [iti](iti) [smṛtiḥ](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-[sacanukula-da](sacānukūladā) [catyor-darsana-sparshana-atmaka](catyordarśanasparśanātmakaḥ)
+[saḥ](saḥ) [ca](ca) [anukūla-dā](anukūladā) [catyoḥ](catyoḥ) [darśana-sparśana-ātmakaḥ](darśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-[tat-ca-dvidha](taccadvidhā) [niti-shastra](nītiśāstraṃ) [barhaspatya](bārhaspatyaṃ) [ca](ca) [bhargava](bhārgavam)
+[tat](tat) [ca](ca) [vidhā](vidhā) [nīti-śāstram](nītiśāstram) [bārhaspatyam](bārhaspatyaṃ) [ca](ca) [bhārgavam](bhārgavam)
 
 ## mukta-m0-p05-v108
-[shadbhih-gunaih](ṣaḍbhirguṇaiḥ) [shaktibhih](śaktibhiḥ) [catisrbhih](catisṛbhiḥ) [ca-api](cāpi) [siddhibhih](siddhibhiḥ)
+[ṣaḍbhiḥ](ṣaḍbhiḥ) [guṇaiḥ](guṇaiḥ) [śaktibhiḥ](śaktibhiḥ) [ca](ca) [tisṛbhiḥ](tisṛbhiḥ) [ca](ca) [api](api) [siddhibhiḥ](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-[niti-shastram-idam](nītiśāstramidaṃ) [sarvam](sarvaṃ) [vitta-sampat-samrddhidam](vittasaṃpatsamṛddhidam)
+[nīti-śāstram](nītiśāstram) [idam](idam) [sarvam](sarvaṃ) [vitta-saṃpat-samṛddhidam](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-[trtiya-purushartha](tṛtīyapuruṣārthaḥ) [ayam](ayaṃ) [svacananda](svacānaṃda) [svarupaka](svarūpakaḥ)
+[tṛtīya-puruṣārthaḥ](tṛtīyapuruṣārthaḥ) [ayam](ayam) [sva-cānanda](svacānanda) [svarūpakaḥ](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-[itya-ashtadasha-vidyanam](ityaṣṭādaśavidyānāṃ) [tatparyam](tātparyaṃ) [samyak-iritam](samyagīritam)
+[ityaṣṭādaśa-vidyānām](ityaṣṭādaśavidyānām) [tātparyam](tātparyam) [samyak](samyak) [īritam](īritam)
 
 ## mukta-m0-p05-v112
-[sarvatra](sarvatra) [shastra-moksha](śāstremokṣaḥ) [asti](asti) [tasya-rupam](tasyarūpaṃ) [prthak-prthak](pṛthak pṛthak)
+[sarvatra](sarvatra) [śāstre](śāstre) [mokṣaḥ](mokṣaḥ) [asti](asti) [tasya](tasya) [rūpam](rūpaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p05-v113
-[no-cet](nocet) [pravrttih](pravṛttiḥ) [kena-syat](kenasyāt) [tat-tat-siddhanta](tattatsiddhāṃta) [vartinam](vartinām)
+[na](na) [ucet](ucet) [pravṛttiḥ](pravṛttiḥ) [kena](kena) [asyāt](asyāt) [tat-tat-siddhānta-vartinām](tattatsiddhāntavartinām)
 
 ## mukta-m0-p05-v114
-[ananda-svarupatvat](anānaṃda svarūpatvāt) [shila-vastha](śilāvasthān) [vidambhayan](viḍaṃbhayan)
+[anānanda-svarūpatvāt](anānandasvarūpatvāt) [śilā-vasthām](śilāvasthām) [viḍaṃbhayan](viḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-[tat](tad) [dosat](doṣāt) [nija-yosha-api](nijayoṣāpi) [drsadbhavam](dṛṣadbhāvaṃ) [kila-agamat](kilāgamat)
+[tat](tat) [doṣāt](doṣāt) [nijayoṣā](nijayoṣā) [api](api) [dṛṣadbhāvam](dṛṣadbhāvam) [kilāgamat](kilāgamat)
 
 ## mukta-m0-p05-v116
-[sa](sa) [eva](eva) [moksha](mokṣaḥ) [na-anyah](nānyo'sti) [asti](asti) [duhkha-akara-vivarjita](duḥkhākāravivarjitaḥ)
+[saḥ](saḥ) [eva](eva) [mokṣaḥ](mokṣaḥ) [na](na) [anyaḥ](anyaḥ) [asti](asti) [duḥkha-ākāra-vivarjitaḥ](duḥkhākāravivarjitaḥ)
 
 ## mukta-m0-p05-v117
-[ananda-natha](ānaṃdanātha) [linga-stham](liṃgastham) [adhikrtya-pravartate](adhikṛtyapravartate)
+[ānanda-nātha](ānandanātha) [liṃga-stham](liṃgastham) [adhikṛtya](adhikṛtya) [pravartate](pravartate)
 
 ## mukta-m0-p05-v118
-[itya-ananda-tantre](ityānaṃdataṃtre) [trtiyah](tṛtīyaḥ) [patalah](paṭalaḥ)
+[ityānanda-tantre](ityānandatantre) [tṛtīyaḥ](tṛtīyaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-[linga-ananda-mayah](liṃgānaṃdamayo) [yah](yo'yam) [ishvara](īśvaraḥ) [pratipadita](pratipāditaḥ)
+[liṃga-ānanda-mayaḥ](liṃgānandamayaḥ) [yaḥ](yaḥ) [ayam](ayam) [īśvaraḥ](īśvaraḥ) [pratipāditaḥ](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-[kecit](kecit) [tan](tān) [pujayam](pūjayaṃ) [tyeva](tyeva) [bhoga-matra](bhogamātra) [parangmukhan](parāṅmukhān)
+[kecit](kecit) [tān](tān) [pūjayanti](pūjayaṃti) [eva](eva) [bhoga-mātra](bhogamātra) [parāṅmukhān](parāṅmukhān)
 
 ## mukta-m0-p05-v121
-[anya-anyapi](anyānyapi) [sukha-asaktan](sukhāsaktān) [ati](āti) [samdadhate](saṃdadhate) [hite](hite)
+[anyān](anyān) [api](api) [sukha-āsaktān](sukhāsaktān) [ati](ati) [saṃdadhate](saṃdadhate) [hite](hite)
 
 ## mukta-m0-p05-v122
-[murkha-pravrttayah](mūrkhapravṛttayaḥ) [kecit](kecit) [hita-ahita-parangmukhah](hitāhitaparāṅmukhāḥ)
+[mūrkha-pravṛttayaḥ](mūrkhapravṛttayaḥ) [kecit](kecit) [hita-ahita-parāṅmukhāḥ](hitāhitaparāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-[vinasham-eva](vināśameva) [gacchamti](gacchaṃti) [nimdata-olaimgam-ishvaram](niṃdatolaiṃgamīśvaram)
+[vināśam](vināśam) [eva](eva) [gacchanti](gacchaṃti) [niṃdataḥ](niṃdataḥ) [ūlaiṃgam](ūlaiṃgam) [īśvaram](īśvaram)
 
 ## mukta-m0-p05-v124
-[na-ashmana-nirmitam](nāśmanānirmitaṃ) [devi](devī) [na-ayasa-na](nāyasāna) [ca](ca) [darubhih](dārubhiḥ)
+[na](na) [aśmanā](aśmanā) [nirmitam](nirmitam) [devī](devī) [na](na) [ayasā](ayasā) [na](na) [ca](ca) [dārubhiḥ](dārubhiḥ)
 
 ## mukta-m0-p05-v125
-[dhatunam](dhātūnāṃ) [ca](ca) [svarupam](svarūpaṃ) [tat-parinamo](tatpariṇāmo) [hi](hi) [retasah](retasaḥ)
+[dhātūnām](dhātūnām) [ca](ca) [svarūpam](svarūpam) [tat](tat) [pariṇāmaḥ](pariṇāmaḥ) [hi](hi) [retasaḥ](retasaḥ)
