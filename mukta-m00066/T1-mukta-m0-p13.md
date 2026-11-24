@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[traditions](saṃpradāyāḥ) [and](tu) [yoginis](yoginyaḥ) [Tripura](tripurā) [Sri](śrīḥ) [and](ca) [wheel-bearer](cakriṇī)
+[traditions](saṃpradāyāḥ) [are](tu) [yoginis](yoginyaḥ) [Tripura](tripurā) [Sri](śrīḥ) [and](ca) [wheel-bearer](cakriṇī)
 
 ## mukta-m0-p13-v302
-[all-accomplishments-beginning](sarvasiddhyādikāḥ) [power](śaktiḥ) [transcending-family](kulottirṇā) [and](tu) [yogini](yoginī)
+[all-siddhi-etc](sarvasidhyādikāḥ) [power](śaktiḥ) [transcending-family](kulottirṇā) [but](tu) [yogini](yoginī)
 
 ## mukta-m0-p13-v303
-[inner-ten-spokes](antardaśāre) [goddesses](devyaḥ) [and](tu) [all-knowing-etc](sarvajñādyāḥ) [proclaimed](prakīrtitāḥ)
+[inner-ten-petals](aṃtardaśāre) [goddesses](devyastu) [all-knowing-etc](sarvajñādyāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p13-v304
-[great-goad](mahāṅkuśā) [and](ca) [seal](mudrā) [of-her](asyā) [then](atha) [eight-spokes](aṣṭāra) [great-circle](mahāvṛtau)
+[great-goad](mahāṃkuśā) [and](ca) [seal](mudrā) [of-her](asyād) [then](atha) [eight-petals](aṣṭāra) [great-circle](mahāvṛtau)
 
 ## mukta-m0-p13-v305
 [wheel-bearer](cakriṇī) [Tripura](tripurā) [accomplished](siddhā) [seal](mudrā) [becomes](bhavati) [sky-goer](khecarī)
 
 ## mukta-m0-p13-v306
-[three-cornered](tryaśre) [Kameshvari](kāmeśvarī) [Vajreshvari](vajreśvarī) [and](ca) [Bhagamalini](bhagamālinī)
+[triangle](tryaśe) [Kameshvari](kāmeśvarī) [Vajreshvari](vajreśvarī) [and](ca) [Bhagamalini](bhagamālinī)
 
 ## mukta-m0-p13-v307
-[yogini](yoginī) [very-secret](ati-rahasyā) [and](ca) [Tripuramba](tripurāmbā) [and](ca) [wheel-bearer](cakriṇī)
+[yogini](yoginī) [very-secret](ati-rahasyā) [and](ca) [Tripuramba](tripurāṃbā) [and](ca) [wheel-bearer](cakriṇī)
 
 ## mukta-m0-p13-v308
-[bindu-form](bindurūpe) [great-delight](mahollāse) [Lalita](lalitām) [supreme-goddess](parameśvarīm)
+[in-bindu-form](biṃdurūpe) [great-delight](mahollāse) [Lalita](lalitāṃ) [supreme-goddess](parameśvarīm)
 
 ## mukta-m0-p13-v309
-[her](tasyā) [single-seat](ekāsane) [god](deva) [mind-attached-form](mati-saṃsakta-vigraham)
+[of-her](tasyā) [in-one-seat](ekāsane) [god](deva) [mind-joined-body](matisaṃsaktavigraham)
 
 ## mukta-m0-p13-v310
-[Kandarpa](kandarpa) [ten-million-beauty](koṭi-lāvaṇyam) [flower-arrow-bow-bearer](puṣpa-bāṇa-dhanur-dharam)
+[Kamadeva](kaṃdarpa) [crore-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow-bearing](puṣpabāṇadhanurddharam)
 
 ## mukta-m0-p13-v311
-[beginning-with-ha](hakārādyena) [mantra](mantrēṇa) [Kameshvara](kāmeśvaram) [should-worship](upācaret)
+[ha-syllable-etc](hakārādyena) [mantra](maṃtreṇa) [Kameshvara](kāmeśvaram) [worship](upācaret)
 
 ## mukta-m0-p13-v312
-[thus](ittham) [nine-circuits](navāvṛtim) [goddess](devīm) [having-worshipped](pūjayitvā) [according-to-rite](vidhānataḥ)
+[thus](itthaṃ) [nine-circles](navāvṛtiṃ) [goddess](devīṃ) [having-worshipped](pūjayitvā) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p13-v313
-[fortune-heart](saubhāgya-hṛdayam) [having-chanted](japtvā) [should-meditate](dhyāyet) [love-art](kāma-kalām) [then](atha)
+[Saubhagyahridaya](saubhāgyahṛdayaṃ) [having-chanted](japtvā) [meditate](dhyāyet) [Kamakala](kāmakalāmatha)
 
 ## mukta-m0-p13-v314
-[then](atha) [satisfying](santarpya) [with-two-roots](mūlābhyām) [god](devam) [goddess](devīm) [and](ca) [should-worship](pūjayet)
+[then](atha) [having-satiated](saṃtarpya) [roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [and](ca) [worship](pūjayet)
 
 ## mukta-m0-p13-v315
-[united](ekībhūte) [of-them](tayoḥ) [body](dehe) [should-sacrifice](yajet) [Ananda-Bhairava](ānanda-bhairavam)
+[united](ekībhūte) [in-their-bodies](tayordehe) [worship](yajed) [Ananda-Bhairava](ānaṃda-bhairavam)
 
 ## mukta-m0-p13-v316
-[with-bindus](bindubhiḥ) [should-satisfy](tarpayet) [lord](nātham) [bliss-supreme-lord](ānanda-parameśvaram)
+[by-bindus](bindubhiḥ) [satisfy](tarpayet) [lord](nātham) [Ananda](ānaṃda) [supreme-god](parameśvaram)
 
 ## mukta-m0-p13-v317
-[sacrifice-king-sequence](yāgarāja-kramasya) [thus](iti) [inaugural-worship](nāndi-pūjā) [remembered](smṛtā) [by-wise](budhaiḥ)
+[yaga-raja-rite](yāgarājakramasyeti) [initial-worship](nāṃdi-pūjā) [remembered](smṛtā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p13-v318
-[which](yam) [having-heard](śrutvā) [with-swans](sahaṃsā) [accomplishment](siddhi) [should-worship](pūjayet) [if](yadi) [man](mānavaḥ)
+[which](yaṃ) [having-heard](śrutvā) [with-siddhi](sahā-siddhi) [worship](pūjayet) [if](yadi) [man](mānavaḥ)
 
 ## mukta-m0-p13-v319
-[thus](iti) [Ananda-tantra](ānanda-tantre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
+[thus](ityā) [in-Ananda-tantra](ānaṃdataṃtre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p13-v320
-[sacrifice-king-rite](yāgarāja-vidhānam) [and](ca) [of-winds](marutām) [even](api) [rare](durlabham)
+[yaga-raja-rite](yāgarājavidhānaṃ) [and](ca) [even-for-winds](marutāmapi) [difficult](durlabham)
 
 ## mukta-m0-p13-v321
-[supreme-bliss-fortune](paramānanda-saubhāgya) [for-sake](nimittam) [all-accomplishment-giving](sarva-siddhi-dam)
+[supreme-bliss-fortune](paramānaṃdasaubhāgya) [for](nimittaṃ) [all-siddhi-giving](sarvasiddhidam)
 
 ## mukta-m0-p13-v322
-[every-year](prativarṣam) [and](tu) [prescribed](vihitam) [arranged](kalpitam) [of-it](tasya) [for-accomplishment](siddhaye)
+[every-year](prativarṣaṃ) [but](tu) [prescribed](vihitaṃ) [arranged](kalpitaṃ) [for-its](tasya) [accomplishment](siddhaye)
 
 ## mukta-m0-p13-v323
-[on-festivals](parvasu) [being-done](kriyamāṇaḥ) [and](tu) [sometimes](kadācid) [even](api) [desired](vāñchitam)
+[being-performed-on-festival](parvasukriyamāṇastu) [sometimes](kadācidapi) [desired](vāṃcchitam)
 
 ## mukta-m0-p13-v324
-[Brahman-form](brahma-rūpeṇa) [beautiful-hipped](suśroṇī-mayā) [created](sṛṣṭā) [in-three-worlds](jagat-traye)
+[by-Brahma-form](brahmarūpeṇa) [beautiful-hipped](suśroṇimayā) [created](sṛṣṭā) [in-three-worlds](jagattraye)
 
 ## mukta-m0-p13-v325
-[of-scattered](vyastānām) [and](ca) [of-all](samastānām) [by-essence](rasena) [is-made](kriyate) [honey](madhu)
+[of-scattered-and-combined](vyastānāṃ-ca-samastānāṃ) [by-essence](rasena) [made](kriyate) [honey](madhu)
