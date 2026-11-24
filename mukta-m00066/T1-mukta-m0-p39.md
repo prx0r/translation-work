@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[pada](kāmeśvarīmanuṃ) [pada](ca) [pada](eva) [pada](paṃcavidyāmanusmaret)
+[kāmeśvarī-mantra](kāmeśvarīmanuṃ) [ca](ca) [eva](eva) [paṃca+vidyā+anusmaret](paṃcavidyāmanusmaret)
 
 ## mukta-m0-p39-v952
-[pada](anenāpi) [pada](ca) [pada](yogena) [pada](yadi) [pada](sā) [pada](na) [pada](hi) [pada](vidravet)
+[anena+api](anenāpi) [ca](ca) [yogena](yogena) [yadi](yadi) [sā](sā) [na](na) [hi](hi) [vidravet](vidravet)
 
 ## mukta-m0-p39-v953
-[pada](prāyuṃjīta) [pada](vidhānena) [pada](japannamṛtanāyikām)
+[prāyuṃjīta](prāyuṃjīta) [vidhānena](vidhānena) [japan](japan) [amṛta+nāyikām](amṛtanāyikām)
 
 ## mukta-m0-p39-v954
-[pada](ghaṭṭālīlakayāmātaḥ) [pada](kṣobhayenmadanālayam)
+[ghaṭṭā+līlakayā](ghaṭṭālīlakayā) [amātaḥ](amātaḥ) [kṣobhayet](kṣobhayen) [madana+ālayam](madanālayam)
 
 ## mukta-m0-p39-v955
-[pada](tena) [pada](dratyatīcīra) [pada](dravācaṃdrakalāsirā)
+[tena](tena) [dratyatī+cīra](dratyatīcīra) [dravā+caṃdra+kalā+sirā](dravācaṃdrakalāsirā)
 
 ## mukta-m0-p39-v956
-[pada](atiguptamahāvidyā) [pada](svarūpāḥ) [pada](śailanaṃdinī)
+[atigupta+mahā+vidyā](atiguptamahāvidyā) [svarūpāḥ](svarūpāḥ) [śailanaṃdinī](śailanaṃdinī)
 
 ## mukta-m0-p39-v957
-[pada](yadi) [pada](satyaṃ) [pada](jagaddhātā) [pada](paṃcakṛtyadharaḥ) [pada](śivaḥ)
+[yadi](yadi) [satyaṃ](satyaṃ) [jagat+dhātā](jagaddhātā) [paṃca+kṛtya+dharaḥ](paṃcakṛtyadharaḥ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p39-v958
-[pada](yadi) [pada](satyaṃ) [pada](samastānāṃ) [pada](śāstrāṇāṃ) [pada](gatirātmadṛk)
+[yadi](yadi) [satyaṃ](satyaṃ) [samastānāṃ](samastānāṃ) [śāstrāṇāṃ](śāstrāṇāṃ) [gatiḥ](gatiḥ) [ātma+dṛk](ātmadṛk)
 
 ## mukta-m0-p39-v959
-[pada](yadi) [pada](satyaṃ) [pada](ratiḥ) [pada](kāmo) [pada](vijayetetvayā) [pada](jagat)
+[yadi](yadi) [satyaṃ](satyaṃ) [ratiḥ](ratiḥ) [kāmaḥ](kāmaḥ) [vijayeta](vijayet) [tvayā](tvayā) [jagat](jagat)
 
 ## mukta-m0-p39-v960
-[pada](yadi) [pada](satyaṃ) [pada](dehabhājāṃ) [pada](sarveṣāṃ) [pada](sukhadaḥsmaraḥ)
+[yadi](yadi) [satyaṃ](satyaṃ) [deha+bhājāṃ](dehabhājāṃ) [sarveṣāṃ](sarveṣāṃ) [sukha+daḥ](sukhadaḥ) [smaraḥ](smaraḥ)
 
 ## mukta-m0-p39-v961
-[pada](yadi) [pada](satyaṃ) [pada](sudātvaṃ) [pada](ca) [pada](paramānaṃda) [pada](dāyake)
+[yadi](yadi) [satyaṃ](satyaṃ) [su+dātvaṃ](sudātvaṃ) [ca](ca) [parama+ānanda](paramānaṃda) [dāyake](dāyake)
 
 ## mukta-m0-p39-v962
-[pada](yadi) [pada](satyaṃ) [pada](sarvapūjyā) [pada](siṃhāsana) [pada](maheśvarī)
+[yadi](yadi) [satyaṃ](satyaṃ) [sarva+pūjyā](sarvapūjyā) [siṃhāsana](siṃhāsana) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p39-v963
-[pada](yadi) [pada](satyaṃ) [pada](gurorājñā) [pada](sarvatrāskhalitodayā)
+[yadi](yadi) [satyaṃ](satyaṃ) [guroḥ+ājñā](gurorājñā) [sarvatra](sarvatrā) [askhalita+udayā](skhalitodayā)
 
 ## mukta-m0-p39-v964
-[pada](ityaṣṭakārikāpāṭha) [pada](samanaṃtarameva) [pada](sā)
+[iti](iti) [aṣṭaka+kārikā+pāṭha](aṣṭakārikāpāṭha) [samanaṃtaram](samanaṃtarameva) [eva](eva) [sā](sā)
 
 ## mukta-m0-p39-v965
-[pada](tenāmṛtena) [pada](śuddhena) [pada](śītalena) [pada](laghīyasā)
+[tena](tena) [amṛtena](amṛtena) [śuddhena](śuddhena) [śītalena](śītalena) [laghīyasā](laghīyasā)
 
 ## mukta-m0-p39-v966
-[pada](gaṃgodakasvarūpeṇa) [pada](tarpayelliṃgapāvakam)
+[gaṃgā+udaka+svarūpeṇa](gaṃgodakasvarūpeṇa) [tarpayet](tarpayelliṃgapāvakam) [liṃga+pāvakam](liṃgapāvakam)
 
 ## mukta-m0-p39-v967
-[pada](idaṃ) [pada](yajña) [pada](pradānāṃgamīyaṃ) [pada](kaivalyapaddhatiḥ)
+[idaṃ](idaṃ) [yajña](yajña) [pradāna+aṃga](pradānāṃga) [īyaṃ](īyaṃ) [kaivalya+paddhatiḥ](kaivalyapaddhatiḥ)
 
 ## mukta-m0-p39-v968
-[pada](ātmavidyāphalaṃ) [pada](caitadātmavidyāphalaṃ) [pada](tvidam)
+[ātma+vidyā+phalaṃ](ātmavidyāphalaṃ) [ca](ca) [etat](etat) [ātma+vidyā+phalaṃ](ātmavidyāphalaṃ) [tu](tu) [idam](idam)
 
 ## mukta-m0-p39-v969
-[pada](tena) [pada](saṃpūjitaścāsau) [pada](bhīmatvaṃ) [pada](tasya) [pada](yacchati)
+[tena](tena) [saṃpūjitaḥ](saṃpūjitaś) [ca](ca) [asau](asau) [bhīma+tvaṃ](bhīmatvaṃ) [tasya](tasya) [yacchati](yacchati)
 
 ## mukta-m0-p39-v970
-[pada](sabhaktaḥ) [pada](paramākāśa) [pada](rūponirmalatāṃgataḥ)
+[sa+bhaktaḥ](sabhaktaḥ) [parama+ākāśa](paramākāśa) [rūpa+nirmala+tāṃ+gataḥ](rūponirmalatāṃgataḥ)
 
 ## mukta-m0-p39-v971
-[pada](bhūmyādi) [pada](sarvabhūtānāmavakāśa) [pada](pradasvayam)
+[bhūmi+ādi](bhūmyādi) [sarva+bhūtānām](sarvabhūtānām) [avakāśa](avakāśa) [pradāsvayam](pradasvayam)
 
 ## mukta-m0-p39-v972
-[pada](na) [pada](puṇyairnna) [pada](ca) [pada](pāpaiśca) [pada](na) [pada](dharmādharmabhaṅgibhiḥ)
+[na](na) [puṇyaiḥ](puṇyair) [na](na) [ca](ca) [pāpaiḥ](pāpaiś) [ca](ca) [na](na) [dharma+adharma+bhaṅgibhiḥ](dharmādharmabhaṅgibhiḥ)
 
 ## mukta-m0-p39-v973
-[pada](nāpakāropakāraiśca) [pada](na) [pada](dāridryavibhūtibhiḥ)
+[na](na) [apakāra+upakāraiḥ](apakāropakāraiś) [ca](ca) [na](na) [dāridrya+vibhūtibhiḥ](dāridryavibhūtibhiḥ)
 
 ## mukta-m0-p39-v974
-[pada](na) [pada](ca) [pada](baṃdhavimokṣābhyāṃ) [pada](aspṛṣṭaścitsudhāmayaḥ)
+[na](na) [ca](ca) [baṃdha+vimokṣābhyāṃ](baṃdhavimokṣābhyāṃ) [aspṛṣṭaḥ](aspṛṣṭaś) [cit+sudhā+mayaḥ](citsudhāmayaḥ)
 
 ## mukta-m0-p39-v975
-[pada](gaṃdharva) [pada](nagarākāramapi) [pada](cānubhavatyataḥ)
+[gaṃdharva+nagara+ākāram](gaṃdharvanagarākāram) [api](api) [ca](ca) [anubhavati](anubhavaty) [ataḥ](ataḥ)
