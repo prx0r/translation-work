@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakshodvitaya-kumbhira](rakṣodvitayakumbhīra) [sarpacakrasyaka](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
+rakṣaḥ+dvitaya+kumbhīra sarpacakrāsyaka ca bham
 
 ## mukta-m0-p44-v1077
-[ashvinau](aśvinau) [ca](ca) [yamah](yamaḥ) [vahnih](vahniḥ) [prajendrenduharah](prajendrenduharaḥ) [aditih](aditiḥ)
+aśvinau ca yamaḥ vahniḥ prajā+indra+indu+haraḥ aditiḥ
 
 ## mukta-m0-p44-v1078
-[tvashta](tvaṣṭā) [vayuh](vāyuḥ) [surendrah](surendraḥ) [agnih](agniḥ) [mitrendrau](mitrendrau) [yatudham-patih](yātudhāmpatiḥ)
+tvaṣṭā vāyuḥ sura+indraḥ agniḥ mitra+indrau yātudhām+patiḥ
 
 ## mukta-m0-p44-v1079
-[vishnuh](viṣṇuḥ) [vasuh](vasuḥ) [aja-eka-adipadahirbudhna](ajaikādipādahirbudhna) [pushakah](pūṣakāḥ)
+viṣṇuḥ vasuḥ aja+eka+ādi+pādaḥ ahi+budhna pūṣakāḥ
 
 ## mukta-m0-p44-v1080
-[puman](pumān) [gadi](gadī) [savina](savīṇā) [ca](ca) [yoshit](yoṣitta) [mithunam](mithunaṃ) [dhanuh](dhanuḥ)
+pumān gadī sa+vīṇā ca yoṣit na mithunaṃ dhanuḥ
 
 ## mukta-m0-p44-v1081
-[stri](strī) [nauh](nauḥ) [tholka-asibhrit-kanya](tholkāsibhṛtkanyā) [tuladhara](tulādhāro) [naras-tula](narastulā)
+strī nauḥ sthūla+ulkā+asi+bhṛt kanyā tulā+dhāraḥ naraḥ tulā
 
 ## mukta-m0-p44-v1082
-[mesha-adyah](meṣādyāḥ) [panca](pañca) [ca-eva-anyah](caivānye) [svanama-tulya-rupakah](svanāmatulyarūpakāḥ)
+meṣa+ādyāḥ pañca ca eva anye svanāma+tulya+rūpakāḥ
 
 ## mukta-m0-p44-v1083
-[hema-abhah](hemābhaḥ) [sakiritah](sakirīṭaśca) [devarajah](devarājaḥ) [suravritah](surāvṛtaḥ)
+hema+ābhaḥ sa+kirīṭaḥ ca deva+rājaḥ sura+āvṛtaḥ
 
 ## mukta-m0-p44-v1084
-[chagasthah](chāgasthaḥ) [sakshasutra-ugrah](sākṣasūtrograḥ) [saptarchih](saptārciḥ) [shaktidharakah](śaktidhārakaḥ)
+chāga+sthaḥ sākṣa+sūtra+ugraḥ sapta+arcis śakti+dhārakaḥ
 
 ## mukta-m0-p44-v1085
-[raktahrit-pashabhrit-krishnah](raktahṛkpāśabhṛtkṛṣṇo) [mahishastha-ugradutavan](mahiṣasthogradūtavān)
+rakta+hṛd+pāśa+bhṛt kṛṣṇaḥ mahiṣa+stha+ugra+dūtavān
 
 ## mukta-m0-p44-v1086
-[pum-sthita](puṃsthita) [khadga-hastah](khaḍgahastaśca) [nilabhah](nīlābho) [rakshasa-avritah](rākṣasāvṛtaḥ)
+puṃ+sthita khaḍga+hastaḥ ca nīla+ābhaḥ rākṣasa+āvṛtaḥ
 
 ## mukta-m0-p44-v1087
-[sarva-abharana-samyuktah](sarvābharaṇasaṃyukto) [varunah](varūṇaḥ) [pita-vastra-bhrit](pītavastrabhṛt)
+sarva+ābharaṇa+saṃyuktaḥ varuṇaḥ pīta+vastra+bhṛt
 
 ## mukta-m0-p44-v1088
-[raktakshah](raktakṣo) [raktavasah](raktavāsaśca) [mrigasthah](mṛgasthaścaṅkuśī) [dhvaji](dhvajī)
+rakta+akṣa rakta+vāsaḥ ca mṛga+sthaḥ ca aṅkuśī dhvajī
 
 ## mukta-m0-p44-v1089
-[dhaneshah](dhaneśo) [varadah](varadaḥ) [karyah](kāryo) [nana-abharana-manditah](nānābharaṇamaṇḍitaḥ)
+dhaneśaḥ vara+daḥ kāryaḥ nānā+ābharaṇa+maṇḍitaḥ
 
 ## mukta-m0-p44-v1090
-[ishanah](īśāno) [hindubhrit](hīndubhṛccaite) [lokapalah](lokapālā) [dvibahavah](dvibāhavaḥ)
+īśānaḥ ahi+indu+bhṛt ca ete loka+pālāḥ dvi+bāhavaḥ
 
 ## mukta-m0-p44-v1091
-[vishvakarma](viśvakarmā) [sada](sadā) [gaurah](gauro) [jnana-mudra-aksha-sutra-bhrit](jñānamudrākṣasūtrabhṛt)
+viśvakarmā sadā gauraḥ jñāna+mudrā+akṣa+sūtra+bhṛt
 
 ## mukta-m0-p44-v1092
-[alidha-karana-asaktam](ālīḍhakaraṇāsaktaṃ) [mahakayam](mahākāyaṃ) [subhishanam](subhīṣaṇam)
+ālīḍha+karaṇa+āsaktaṃ mahā+kāyaṃ su+bhīṣaṇam
 
 ## mukta-m0-p44-v1093
-[pita-dhvaja-dharam](pītadhvajadharaṃ) [vame](vāme) [tarjanim](tarjanīṃ) [va](vā) [hrid-agratah](hṛdagrataḥ)
+pīta+dhvaja+dharaṃ vāme tarjanīṃ vā hṛd+agrataḥ
 
 ## mukta-m0-p44-v1094
-[sampidya](saṃpīḍya) [rakasan](rākasān) [padbhyam](padbhyāṃ) [muncannadam](muñcannādaṃ) [marutsutam](marutsutam)
+saṃpīḍya rākṣasān padbhyāṃ muñcan nādaṃ marut+sutam
 
 ## mukta-m0-p44-v1095
-[skandha-yaksha-anvitah](skandhayakṣānvitā) [nityam](nityaṃ) [kartavyah](kartavyā) [yoshit-anvitah](yoṣidanvitāḥ)
+skandha+yakṣa+anvitā nityaṃ kartavyā yoṣit+anvitāḥ
 
 ## mukta-m0-p44-v1096
-[malabhritah](mālābhṛto) [athava]('thavā) [hristah](hṛṣṭāḥ) [khasthah](khasthā) [vidyadharah](vidyādharāḥ) [sada](sadā)
+mālā+bhṛtaḥ athavā hṛṣṭāḥ kha+sthā vidyādharāḥ sadā
 
 ## mukta-m0-p44-v1097
-[pinga-varvara-keshashva](piṅgavarvara) [vetalah](vetālā) [vikritananah](vikṛtānanāḥ)
+piṅga+varvara+keśa+āśva vetālā vikṛta+ānanāḥ
 
 ## mukta-m0-p44-v1098
-[kapala-malinah](kapālamālinaḥ) [shula-dharinah](śūladhārīṇaḥ) [kshetrapalakah](kṣetrapālakāḥ)
+kapāla+mālinaḥ śūla+dhāriṇaḥ kṣetra+pālakāḥ
 
 ## mukta-m0-p44-v1099
-[krishah](kṛśā) [mahodarah](mahodarāḥ) [pretah](pretā) [khalu-gallah](khalva) [lomashah](lomaśāḥ)
+kṛśāḥ mahodarāḥ pretāḥ khalu+gallāḥ ca lomaśāḥ
 
 ## mukta-m0-p44-v1100
-[svanga-varna-dharah](svāṅgavarṇadharāḥ) [sarvah](sarvā) [yathoktam](yathoktaṃ) [brahmayamale](brahmayāmale)
+sva+aṅga+varṇa+dharāḥ sarvāḥ yathā+uktaṃ brahma+yāmale
