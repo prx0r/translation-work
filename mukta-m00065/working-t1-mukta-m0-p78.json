@@ -12,18 +12,18 @@
 },
 {
 "surface": "subhikṣamārogyaṃ",
-"quick_gloss": "prosperity-health"
+"quick_gloss": "abundance-health"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-make"
+"quick_gloss": "should-do"
 },
 {
 "surface": "caurādi",
-"quick_gloss": "thieves-etc"
+"quick_gloss": "thief-etc"
 },
 {
-"surface": "nāśanam",
+"surface": "nāśanan",
 "quick_gloss": "destruction"
 }
 ]
@@ -45,19 +45,19 @@
 },
 {
 "surface": "vṛddhiḥ",
-"quick_gloss": "growth"
+"quick_gloss": "increase"
 },
 {
 "surface": "ye",
-"quick_gloss": "and-those"
+"quick_gloss": "and"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
+"surface": "tatra",
+"quick_gloss": "there"
 },
 {
-"surface": "tatropajīvinaḥ",
-"quick_gloss": "there-living"
+"surface": "upajīvinaḥ",
+"quick_gloss": "living"
 }
 ]
 },
@@ -111,11 +111,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
 "surface": "viparyayaḥ",
-"quick_gloss": "reversal"
+"quick_gloss": "reverse"
 }
 ]
 },
@@ -173,11 +173,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "priyaṅkaraḥ",
-"quick_gloss": "dear-making"
+"quick_gloss": "pleasing"
 }
 ]
 },
@@ -194,7 +194,7 @@
 },
 {
 "surface": "subhikṣāya",
-"quick_gloss": "for-prosperity"
+"quick_gloss": "for-abundance"
 },
 {
 "surface": "saptāhaṃ",
@@ -202,7 +202,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "phalaṃ",
@@ -223,11 +223,11 @@
 "tokens": [
 {
 "surface": "candanāgurukapūrakuṅkumādyaiḥ",
-"quick_gloss": "sandal-aloes-camphor-saffron-etc"
+"quick_gloss": "sandal-agaru-camphor-saffron-etc"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "lepanam",
@@ -244,7 +244,7 @@
 "tokens": [
 {
 "surface": "ajena",
-"quick_gloss": "with-goat-ghee"
+"quick_gloss": "with-goat"
 },
 {
 "surface": "rocanāṃ",
@@ -252,7 +252,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
@@ -289,7 +289,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "paṭṭabandhaṃ",
@@ -297,11 +297,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "yadbhavet",
+"surface": "yad",
 "quick_gloss": "whatever"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "bhavet"
 }
 ]
 },
@@ -325,7 +329,7 @@
 "quick_gloss": "eva"
 },
 {
-"surface": "guhyair",
+"surface": "guhyaiḥ",
 "quick_gloss": "with-secrets"
 },
 {
@@ -334,11 +338,11 @@
 },
 {
 "surface": "sarvāṇi",
-"quick_gloss": "all-these"
+"quick_gloss": "all"
 },
 {
 "surface": "etāni",
-"quick_gloss": "etāni"
+"quick_gloss": "these"
 },
 {
 "surface": "dāyayet",
@@ -366,16 +370,16 @@
 "quick_gloss": "bhamau"
 },
 {
-"surface": "śanair",
+"surface": "śanaiḥ",
 "quick_gloss": "slowly"
 },
 {
 "surface": "gacchet",
-"quick_gloss": "go"
+"quick_gloss": "should-go"
 },
 {
 "surface": "pradakṣiṇam",
-"quick_gloss": "circumambulate"
+"quick_gloss": "clockwise"
 }
 ]
 },
@@ -449,16 +453,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "putrakāya",
-"quick_gloss": "to-son"
-},
-{
-"surface": "ardhataḥ",
-"quick_gloss": "half"
+"surface": "putrakāyārdhato",
+"quick_gloss": "to-son-body-half"
 },
 {
 "surface": "deyā",
-"quick_gloss": "to-be-given"
+"quick_gloss": "should-be-given"
 },
 {
 "surface": "samayibhyaḥ",
@@ -466,7 +466,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "pādikā",
@@ -499,7 +499,7 @@
 },
 {
 "surface": "yathāvidhi",
-"quick_gloss": "as-prescribed"
+"quick_gloss": "according-to-rite"
 }
 ]
 },
@@ -594,7 +594,7 @@
 },
 {
 "surface": "tacchatāvṛtam",
-"quick_gloss": "that-hundred-times"
+"quick_gloss": "that-hundred-fold"
 }
 ]
 },
@@ -623,16 +623,12 @@
 "quick_gloss": "age-parts"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
 "surface": "caturdikṣu",
 "quick_gloss": "four-directions"
 },
 {
 "surface": "luptvā",
-"quick_gloss": "having-covered"
+"quick_gloss": "having-removed"
 },
 {
 "surface": "ekaikaṃ",
@@ -672,10 +668,6 @@
 "quick_gloss": "with-their-union"
 },
 {
-"surface": "abhiḥ",
-"quick_gloss": "abhiḥ"
-},
-{
 "surface": "vidhānataḥ",
 "quick_gloss": "by-rite"
 }
@@ -701,8 +693,12 @@
 "quick_gloss": "rite"
 },
 {
-"surface": "svāyaṃ",
-"quick_gloss": "svāyaṃ"
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
+"surface": "ayam",
+"quick_gloss": "ayam"
 },
 {
 "surface": "jyeṣṭhānāṃ",
@@ -710,7 +706,7 @@
 },
 {
 "surface": "sthitipūrvakam",
-"quick_gloss": "establishment-first"
+"quick_gloss": "placement-first"
 }
 ]
 },
@@ -755,16 +751,12 @@
 "quick_gloss": "in-middle"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
 "surface": "aṣṭārasaṃyuktaṃ",
-"quick_gloss": "eight-rasa-joined"
+"quick_gloss": "with-eight-rasa"
 },
 {
 "surface": "dṛḍhakāṣṭhena",
-"quick_gloss": "with-firm-wood"
+"quick_gloss": "firm-wood"
 },
 {
 "surface": "maṇḍitam",
