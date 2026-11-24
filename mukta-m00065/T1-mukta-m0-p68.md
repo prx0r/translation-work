@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[with-these](ebhistu) [five](paṃcabhir) [associated](yuktaiḥ) [bathing-worship-etc-purification](snānamarcādiśodhanam)
+[with-these](ebhistu) [five](paṃcabhir) [yuktaiḥ](yuktaiḥ) [snānam](snānam) [arcādi](arcādi) [śodhanam](śodhanam)
 
 ## mukta-m0-p68-v1677
-[īśāna](īśāna) [face](vaktra) [ghora](ghora) [āhva](āhva) [guhya](guhya) [ajāta](ajāta) [named](ākhya) [mantras](mantritaiḥ)
+[īśāna](īśāna) [vaktra](vaktra) [ghora](ghora) [āhvā](āhvā) [guhya](guhya) [ajāta](ajāta) [ākhya](ākhya) [mantritaiḥ](mantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[ox-horn](vṛṣaśṛṅga) [uprooted](samutkhātāḥ) [fire-refuge](pavakāśraya) [born](sambhavāḥ)
+[vṛṣa](vṛṣa) [śṛṅga](śṛṅga) [samutkhātāḥ](samutkhātāḥ) [pavaka](pavaka) [āśraya](āśraya) [sambhavāḥ](sambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step-by-step](kramatastu) [with-kalā](kalāvatā)
+[ajena](ajena) [kṣālanāt](kṣālanāt) [pṛthvī](pṛthvī) [kramataḥ](kramataḥ) [tu](tu) [kalāvatā](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[lukewarm](kavoṣṇaiḥ) [third](tṛtīyena) [bathing](snānaṃ) [axe-wound-removing](ṭaṅkakṣatāpaham)
+[kavoṣṇaiḥ](kavoṣṇaiḥ) [tu](tu) [tṛtīyena](tṛtīyena) [snānam](snānam) [ṭaṅka](ṭaṅka) [kṣata](kṣata) [apaham](apaham)
 
 ## mukta-m0-p68-v1681
-[nidigdhikā](nidigdhikā) [balā-roots](balāmūlaiḥ) [bathing](snānaṃ) [secret](guhyena) [fault-removing](doṣahṛt)
+[nidigdhikā](nidigdhikā) [balā](balā) [mūlaiḥ](mūlaiḥ) [snānam](snānam) [guhyena](guhyena) [doṣa](doṣa) [hṛt](hṛt)
 
 ## mukta-m0-p68-v1682
-[by-dhātrī](dhātryā) [bathing](snānāt) [earth](mahī) [released](tyakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
+[dhātryā](dhātryā) [snānāt](snānāt) [mahī](mahī) [tyakte](tyakte) [sadyojātena](sadyojātena) [śuddhyati](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[having-rubbed](samudvartya) [mahādeva](mahādevaṃ) [tīrtha-born](tīrthottha) [waters](jalaiḥ) [bathe](snāpayej)
+[samudvartya](samudvartya) [mahādevam](mahādevam) [tīrtha](tīrtha) [utthaiḥ](utthaiḥ) [snāpayet](snāpayet) [jalaiḥ](jalaiḥ)
 
 ## mukta-m0-p68-v1684
-[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [varuṇa](varūṇaṃ) [also](tathā)
+[puṣkaram](puṣkaram) [naimiṣāraṇyam](naimiṣāraṇyam) [tīrtham](tīrtham) [ca](ca) [varūṇam](varūṇam) [tathā](tathā)
 
 ## mukta-m0-p68-v1685
 [jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[seven-godāvarī](saptagodāvarī) [thus](ityetāḥ) [holy-rivers](puṇyanadyo) [great-waters](mahājalaiḥ)
+[sapta](sapta) [godāvarī](godāvarī) [iti](iti) [etāḥ](etāḥ) [puṇya](puṇya) [nadyaḥ](nadyaḥ) [mahā](mahā) [jalaiḥ](jalaiḥ)
 
 ## mukta-m0-p68-v1687
-[alkaline](kṣāra) [milk](kṣīra) [curd](dadhi) [oil](sneha) [sugarcane-juice](ikṣurasa) [sura-water](surodaka) [waters](kāḥ)
+[kṣāra](kṣāra) [kṣīra](kṣīra) [dadhi](dadhi) [sneha](sneha) [ikṣu](ikṣu) [rasa](rasa) [uda](uda) [sura](sura) [udakāḥ](udakāḥ)
 
 ## mukta-m0-p68-v1688
-[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [ca](ca) [rājāvarta](rājāvartaḥ) [suvidruma](suvidrumam)
+[sphāṭikam](sphāṭikam) [padyarāgam](padyarāgam) [ca](ca) [rājāvartaḥ](rājāvartaḥ) [su](su) [vidrumam](vidrumam)
 
 ## mukta-m0-p68-v1689
-[this](etad) [gem-waters](ratnodakaiḥ) [bathing](snānaṃ) [great-prosperity-causing](mahābhūtikaraṃ) [supreme](param)
+[etat](etat) [ratna](ratna) [udakaiḥ](udakaiḥ) [snānam](snānam) [mahā](mahā) [bhūti](bhūti) [karam](karam) [param](param)
 
 ## mukta-m0-p68-v1690
-[camphor](karpūra) [aguru](aguru) [musk](kastūrī) [kāśmarī](kāśmarī) [sandal](candana) [etc](ādikaiḥ)
+[karpūra](karpūra) [aguru](aguru) [kastūrī](kastūrī) [kāśmarī](kāśmarī) [candana](candana) [ādikaiḥ](ādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[bathe](snāpayed) [fragrant-water](gandhatoyena) [ajāta](ajātena) [consecrated](abhimantritam)
+[snāpayet](snāpayet) [gandha](gandha) [toyena](toyena) [ajātena](ajātena) [abhimantritam](abhimantritam)
 
 ## mukta-m0-p68-v1692
-[white-lotus](puṇḍarīka) [lotus](abja) [mālūra](mālūra) [blue-red-lotus](nīlaraktotpala) [arka-born](arkajam)
+[puṇḍarīka](puṇḍarīka) [abja](abja) [mālūra](mālūra) [nīla](nīla) [rakta](rakta) [utpala](utpala) [arka](arka) [jam](jam)
 
 ## mukta-m0-p68-v1693
-[sahakāra](sahakāra) [aśvamāra](aśvamāraṃ) [ca](ca) [punnāga](punnāga) [bakula](bakulāni) [ca](ca)
+[sahakāra](sahakāra) [aśvamāram](aśvamāram) [ca](ca) [punnāga](punnāga) [bakulāni](bakulāni) [ca](ca)
 
 ## mukta-m0-p68-v1694
-[pāṭalā](pāṭalā) [droṇa](droṇa) [nepālī](nepālī) [kuśa](kuśa) [kiṃśuka](kiṃśuka) [siṃhikā](siṃhikāḥ)
+[pāṭalā](pāṭalā) [droṇa](droṇa) [nepālī](nepālī) [kuśa](kuśa) [kiṃśuka](kiṃśuka) [siṃhikāḥ](siṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [ca](ca) [vṛṣa-ṛṣi-buka-flower](vṛṣarṣibukapuṣpakam)
+[mṛdu](mṛdu) [kunda](kunda) [abja](abja) [patrī](patrī) [vṛṣa](vṛṣa) [ṛṣi](ṛṣi) [buka](buka) [puṣpakam](puṣpakam)
 
 ## mukta-m0-p68-v1696
-[bilva](bilā) [āmra](amra) [mocana](mocana) [āraṅga](āraṅga) [panasa](panasaṃ) [coconut](nālikerakam)
+[bilāmra](bilāmra) [mocana](mocana) [āraṅga](āraṅga) [panasaṃ](panasaṃ) [nālikerakam](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[jujube](vadarī) [bījapūra](bījapūraṃ) [ca](ca) [kara](kara) [marda](mardaṃ) [satinduka](satindukam)
+[vadarī](vadarī) [bīja](bīja) [pūram](pūram) [ca](ca) [kava](kava) [mardam](mardam) [satindukam](satindukam)
 
 ## mukta-m0-p68-v1698
-[fruit-bathing](phalasnānam) [this](idam) [holy](pupyaṃ) [doer](kartur) [wish-fruit-giving](icchāphalapradam)
+[phala](phala) [snānam](snānam) [idam](idam) [pupyaṃ](pupyaṃ) [kartuḥ](kartuḥ) [icchā](icchā) [phala](phala) [pradam](pradam)
 
 ## mukta-m0-p68-v1699
-[sesame](tila) [wheat](godhuma) [sugdā](sugdā) [etc](ādi) [barley-grain](yavadhānya) [priyaṅgu](priyaṅgubhiḥ)
+[tila](tila) [godhuma](godhuma) [sugdādi](sugdādi) [yava](yava) [dhānya](dhānya) [priyaṅgubhiḥ](priyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[five-brahma-born](pañcabrahmodbhava) [mantras](mantrair) [great-bathing](mahāsnānaṃ) [auspicious-giving](śubhapradam)
+[pañca](pañca) [brahma](brahma) [udbhavaiḥ](udbhavaiḥ) [mantraiḥ](mantraiḥ) [mahā](mahā) [snānam](snānam) [śubha](śubha) [pradam](pradam)
