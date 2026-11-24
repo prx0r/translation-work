@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakṣodvitayakumbhīra](rakṣodvitayakumbhīra) [sarpacakrāsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
+[raksho-dvitaya-kumbhira](rakṣodvitayakumbhīra) [sarpa-cakra-asyaka](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
 
 ## mukta-m0-p44-v1077
-[aśvinau](aśvinau) [ca](ca) [yamo](yamo) [vahniḥ](vahniḥ) [prajendrenduharo'ditiḥ](prajendrenduharo'ditiḥ)
+[ashvinau](aśvinau) [ca](ca) [yamah](yamaḥ) [vahniḥ](vahniḥ) [prajendrenduharah](prajendrenduharaḥ) [aditih](aditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendro'gnirmitrendrau](surendro'gnirmitrendrau) [yāvatpāmpatiḥ](yāvatpāmpatiḥ)
+[tvashta](tvaṣṭā) [vayuh](vāyuḥ) [surendrah](surendraḥ) [agnih](agniḥ) [mitrendrau](mitrendrau) [yatudham-patih](yātudhāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇurvasurajaikādipādahirbudhna](viṣṇurvasurajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
+[vishnuh](viṣṇuḥ) [vasuh](vasuḥ) [aja-eka-adipadah](ajaikādipādaḥ) [ahirbudhna](ahirbudhnaḥ) [pushakah](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pumān](pumān) [gadī](gadī) [savīṇā](savīṇā) [ca](ca) [yoṣitta](yoṣitta) [nmithunaṃ](nmithunaṃ) [dhanuḥ](dhanuḥ)
+[puman](pumān) [gadi](gadī) [savina](savīṇā) [ca](ca) [yoshit](yoṣit) [mithunam](mithunaṃ) [dhanuh](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[strī](strī) [naustholkāsibhṛtkanyā](naustholkāsibhṛtkanyā) [tulādhāro](tulādhāro) [narastulā](narastulā)
+[stri](strī) [nauh](nauḥ) [tholka](tholkā) [asi-bhrit](asibhṛt) [kanya](kanyā) [tula-dharah](tulādhāraḥ) [naras](naras) [tula](tulā)
 
 ## mukta-m0-p44-v1082
-[meṣādyāḥ](meṣādyāḥ) [pañca](pañca) [caivānye](caivānye) [svanāmatulyarūpakāḥ](svanāmatulyarūpakāḥ)
+[mesha-adyah](meṣādyāḥ) [panca](pañca) [ca](ca) [eva](eva) [anye](anye) [sva-nama-tulya-rupakah](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[hemābhaḥ](hemābhaḥ) [sakirīṭaśca](sakirīṭaśca) [devarājaḥ](devarājaḥ) [surāvṛtaḥ](surāvṛtaḥ)
+[hema-abhah](hemābhaḥ) [sa-kiritah](sakirīṭaḥ) [ca](ca) [devarajah](devarājaḥ) [sura-avritah](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[chāgasthaḥ](chāgasthaḥ) [sākṣasūtrograḥ](sākṣasūtrograḥ) [saptārciḥ](saptārciḥ) [śaktidhārakaḥ](śaktidhārakaḥ)
+[chaga-sthah](chāgasthaḥ) [saksha-sutrah](sākṣasūtraḥ) [ugrah](ugraḥ) [sapta-archih](saptārciḥ) [shakti-dharakah](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[raktahṛkpāśabhṛtkṛṣṇo](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣasthogradūtavān](mahiṣasthogradūtavān)
+[rakta-hrid](raktahṛt) [pasha-bhrit](pāśabhṛt) [krishnah](kṛṣṇaḥ) [mahisha-stha](mahiṣasthaḥ) [ugra-dutavan](ugradūtavān)
 
 ## mukta-m0-p44-v1086
-[puṃsthita](puṃsthita) [khaḍgahastaśca](khaḍgahastaśca) [nīlābho](nīlābho) [rākṣasāvṛtaḥ](rākṣasāvṛtaḥ)
+[pum-sthita](puṃsthita) [khadga-hastah](khaḍgahastaḥ) [ca](ca) [nila-abhah](nīlābhaḥ) [rakshasa-avritah](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[sarvābharaṇasaṃyukto](sarvābharaṇasaṃyukto) [varūṇaḥ](varūṇaḥ) [pītavastrabhṛt](pītavastrabhṛt)
+[sarva-abharana-samyuktah](sarvābharaṇasaṃyuktaḥ) [varunah](varūṇaḥ) [pita-vastra-bhrit](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[raktakṣo](raktakṣo) [raktavāsaśca](raktavāsaśca) [mṛgasthaścaṅkuśī](mṛgasthaścaṅkuśī) [dhvajī](dhvajī)
+[rakta-aksha](raktākṣaḥ) [rakta-vasah](raktavāsaḥ) [ca](ca) [mriga-sthah](mṛgasthaḥ) [ankushi](aṅkuśī) [dhvaji](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśo](dhaneśo) [varadaḥ](varadaḥ) [kāryo](kāryo) [nānābharaṇamaṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
+[dhaneshah](dhaneśaḥ) [varadah](varadaḥ) [karyah](kāryaḥ) [nana-abharana-manditah](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśāno'hīndubhṛccaite](īśāno'hīndubhṛccaite) [lokapālā](lokapālā) [dvibāhavaḥ](dvibāhavaḥ)
+[ishanah](īśānaḥ) [ahi-indu-bhrit](ahīndubhṛt) [ca](ca) [ete](ete) [lokapalah](lokapālāḥ) [dvi-bahavah](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [sadā](sadā) [gauro](gauro) [jñānamudrākṣasūtrabhṛt](jñānamudrākṣasūtrabhṛt)
+[vishvakarma](viśvakarmā) [sada](sadā) [gaurah](gauro) [jnana-mudra-aksha-sutra-bhrit](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍhakaraṇāsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahākāyaṃ](mahākāyaṃ) [subhīṣaṇam](subhīṣaṇam)
+[alidha-karana-asaktam](ālīḍhakaraṇāsaktaṃ) [maha-kayam](mahākāyaṃ) [su-bhishanam](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pītadhvajadharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛdagrataḥ](hṛdagrataḥ)
+[pita-dhvaja-dharam](pītadhvajadharaṃ) [vame](vāme) [tarjanam](tarjanīṃ) [va](vā) [hrid-agratah](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcannādaṃmarutsutam](muñcannādaṃmarutsutam)
+[sampidya](saṃpīḍya) [rakasan](rākṣasān) [padbhyam](padbhyāṃ) [muncan](muñcan) [adam](nādaṃ) [marut-sutam](marutsutam)
 
 ## mukta-m0-p44-v1095
-[skandhayakṣānvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣidanvitāḥ](yoṣidanvitāḥ)
+[skandha-yaksha-anvitah](skandhayakṣānvitāḥ) [nityam](nityaṃ) [kartavyah](kartavyāḥ) [yoshit-anvitah](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[mālābhṛto'thavā](mālābhṛto'thavā) [hṛṣṭāḥ](hṛṣṭāḥ) [khasthā](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
+[mala-bhritah](mālābhṛtaḥ) [athava](athavā) [hristah](hṛṣṭāḥ) [kha-sthah](khasthāḥ) [vidyadharah](vidyādharāḥ) [sada](sadā)
 
 ## mukta-m0-p44-v1097
-[piṅgavarvara](piṅgavarvara) [keśāśva](keśāśva) [vetālā](vetālā) [vikṛtānanāḥ](vikṛtānanāḥ)
+[pinga-varvara-keshah](piṅgavarvarakeśāḥ) [ashva](aśva) [vetalah](vetālāḥ) [vikrita-ananah](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[kapālamālinaḥ](kapālamālinaḥ) [śūladhārīṇaḥ](śūladhārīṇaḥ) [kṣetrapālakāḥ](kṣetrapālakāḥ)
+[kapala-malinah](kapālamālinaḥ) [shula-dharinah](śūladhārīṇaḥ) [kshetra-palakah](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[kṛśā](kṛśā) [mahodarāḥ](mahodarāḥ) [pretā](pretā) [khalvagallāśca](khalvagallāśca) [lomaśāḥ](lomaśāḥ)
+[krisah](kṛśāḥ) [mahodarah](mahodarāḥ) [pretah](pretāḥ) [khalu-gallah](khalugallāḥ) [ca](ca) [lomashah](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[svāṅgavarṇadharāḥ](svāṅgavarṇadharāḥ) [sarvā](sarvā) [yathoktaṃ](yathoktaṃ) [brahmayāmale](brahmayāmale)
+[sva-anga-varna-dharah](svāṅgavarṇadharāḥ) [sarvah](sarvāḥ) [yathoktam](yathoktaṃ) [brahma-yamale](brahmayāmale)
