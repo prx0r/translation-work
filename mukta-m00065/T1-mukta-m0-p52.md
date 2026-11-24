@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sūtra](sūtra) [madhye](madhye) [ardha](ardha)+[sūtreṇa](sūtreṇa) [matsyān](matsyān) [koṇeṣu](koṇeṣu) [sarvataḥ](sarvataḥ)
+[in-middle-of-sūtra](sūtramadhye)+[by-half-sūtra](ardhasūtreṇa) [fish](matsyān) [in-corners](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[veda](veda)+[asraṃ](asraṃ) [piṇḍikā](piṇḍikā)+[kṣetraṃ](kṣetraṃ) [kuṇḍānām](kuṇḍānām) [api](api) [sarvadā](sarvadā)
+[veda-asra](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [of-kuṇḍas](kuṇḍānām)+[also](api) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-[madhyāt](madhyāt) [madhya](madhya)+[gataṃ](gataṃ) [sūtraṃ](sūtraṃ) [koṇaṃ](koṇaṃ) [saṃveṣṭya](saṃveṣṭya) [ca](ca) [aparam](aparam)
+[from-middle](madhyāt)+[middle-gone](madhyagataṃ) [sūtra](sūtraṃ) [corner](koṇaṃ) [having-encircled](saṃveṣdya) [and](ca)+[another](aparam)
 
 ## mukta-m0-p52-v1279
-[tat](tat) [sūtra](sūtra)+[dvaya](dvaya)+[saṃyogāt](saṃyogāt) [sādhayet](sādhayet) [tri](tri)+[parṇikām](parṇikām)
+[by-union-of-two-sūtras](tatsūtradvayasaṃyogāt) [accomplish](sādhayet) [tri-parṇikā](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[saṃbhrāmya](saṃbhrāmya) [madhyataḥ](madhyataḥ) [sūtraṃ](sūtraṃ) [sādhayet](sādhayet) [ardha](ardha)+[candrikām](candrikām)
+[having-revolved](saṃbhrāmya) [from-middle](madhyataḥ) [sūtra](sūtraṃ) [accomplish](sādhayet)+[half-moon](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[rakṣa](rakṣa)+[agni](agni)+[saumya](saumya)+[kāṣṭhāsu](kāṣṭhāsu) [ta](ta) [tri](tri)+[sūtrya](sūtrya)+[trikoṇikām](trikoṇikām)
+[in-rakṣa-agni-saumya-kāṣṭha](rakṣo'gnisaumyakāṣṭhāsu) [there](ta) [three-sūtra](trisūtrya)+[triangle](trikoṇikām)
 
 ## mukta-m0-p52-v1282
-[madhyāt](madhyāt) [adhaḥ](adhaḥ)+[sūtra](sūtra)+[saṃbhrāntaiḥ](saṃbhrāntaiḥ) [piṇḍikā](piṇḍikā) [vartulā](vartulā) [bhavet](bhavet)
+[by-middle-lower-sūtra-revolutions](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-[turya](turya)+[asra](asra)+[vṛttayoḥ](vṛttayoḥ) [madhye](madhye) [yamandoḥ](yamandoḥ) [sūtra](sūtra)+[pātanam](pātanam)
+[between-fourth-asra-and-circle](turyāsravṛttayormadhye) [of-yama-and-dva](yamandvoḥ) [sūtra-falling](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[bhavet](bhavet) [ṣaḍ](ṣaḍ)+[asrikā](asrikā)+[piṇḍī](piṇḍī) [śeṣa](śeṣa)+[rekhā](rekhā)+[vilopanāt](vilopanāt)
+[becomes-six-cornered-pedestal](bhavetṣaḍasrikāpiṇḍī) [by-remaining-line-removal](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[sūtra](sūtra)+[madhyārdha](madhyārdha) [sabṛttāt](sabṛttāt) [abjā](abjā) [syāt](syāt) [pūrva](pūrva)+[coditā](coditā)
+[from-middle-half](sūtramadhyārdha) [round](sabṛttād)+[lotus](abjā) [becomes](syāt) [previously-stated](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[madhya](madhya)+[sūtra](sūtra)+[ardha](ardha) [bhāgena](bhāgena) [koṇāni](koṇāni) [hrāsayet](hrāsayet) [atha](atha)
+[by-middle-sūtra-half-portion](madhyasūtrārdha bhāgena) [corners](koṇāni) [diminish](hrāsayed)+[then](atha)
 
 ## mukta-m0-p52-v1287
-[koṇaiḥ](koṇaiḥ) [sūtra](sūtra)+[paricchinnaiḥ](paricchinnaiḥ) [kuryāt](kuryāt) [aṣṭāsrikāṃ](aṣṭāsrikāṃ) [sadā](sadā)
+[by-corners](koṇaiḥ) [sūtra-bounded](sūtraparicchinnaiḥ) [make](kuryāt)+[eight-cornered](aṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-[saṃchidya](saṃchidya) [asrīṃśca](asrīṃśca) [saṃchidya](saṃchidya) [kṛtvā](kṛtvā) [tu](tu) [daśamāstrikam](daśamāstrikam)
+[having-cut-asra](saṃchidyāsrīṃśca) [having-cut](saṃchidya) [having-made](kṛtvā) [tu](tu) [ten-part](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[kartavyā](kartavyā) [ṣoḍakāṃśaiḥ](ṣoḍakāṃśaiḥ) [tu](tu) [piṇḍikā](piṇḍikā) [keśava](keśava)+[āśrayā](āśrayā)
+[should-be-made](kartavyā) [by-sixteen-parts](ṣoḍakāṃśaistu) [pedestal](piṇḍikā) [keśava-refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[pūrvavat](pūrvavat) [yoḍaśaṃśaiḥ](yoḍaśaṃśaiḥ) [tu](tu) [kuryāt](kuryāt) [dvātriṃśat](dvātriṃśat)+[asrikām](asrikām)
+[as-before](pūrvavat) [by-sixteen-parts](yoḍaśaṃśaistu) [make](kuryāt) [thirty-two-cornered](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[āgneyī](āgneyī) [bodhi](bodhi)+[patra](patra)+[ābhā](ābhā) [pintaro](pintaro)+[ga](ga)+[agni](agni)+[dāha](dāha)+[kṛt](kṛt)
+[āgneyī](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [pintaro-agni-burning](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[trikoṇā](trikoṇā) [rākṣasā](rākṣasā)+[jāṃ](jāṃ) [tu](tu) [deśa](deśa)+[cchada](cchada)+[karī](karī) [sadā](sadā)
+[triangle](trikoṇā) [rākṣasa-born](rākṣasājāṃ) [tu](tu) [region](deśo) [covering](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-[vāyavyā](vāyavyā) [ca](ca) [ṣaḍasra](ṣaḍasra)+[uktā](uktā) [śatru](śatru)+[uccāṭana](uccāṭana)+[kārikā](kārikā)
+[vāyavyī](vāyavyā) [ca](ca) [six-cornered](ṣaḍasroktā) [enemy-expulsion](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[raudrī](raudrī) [tu](tu) [aṣṭāsrikā](aṣṭāsrikā) [jñeyā](jñeyā) [mukti](mukti)+[dā](dā) [sā](sā)+[ari](ari)+[nāśinī](nāśinī)
+[raudrī](raudrī) [tu](tu) [eight-cornered](aṣṭāsrikā) [known](jñeyā) [liberation-giving](muktidā) [enemy-destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[dvātriṃśat](dvātriṃśat)+[asrikā](asrikā) [vāhnī](vāhnī) [svarga](svarga)+[ākhya](ākhya)+[phala](phala)+[dāyinī](dāyinī)
+[thirty-two-cornered](dvātriṃśadasrikā) [vāhnī](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[ardha](ardha)+[candra](candra)+[upamā](upamā) [nīlaṃ](nīlaṃ) [śeṣaḥ](śeṣaḥ) [kodaṇḍa](kodaṇḍa)+[vat](vat) [bhavet](bhavet)
+[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-[piṇḍīm](piṇḍīm)+[āma](āma)+[mastaka](mastaka)+[ādīnāṃ](ādīnāṃ) [karoti](karoti) [evaṃ](evaṃ) [vidhaṃ](vidhaṃ) [phalam](phalam)
+[of-pedestal-head-etc](piṇḍīmāmastakādīnāṃ) [does](karotyevaṃ) [such](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-[bhaga](bhaga)+[liṅga](liṅga)+[aṅkita](aṅkita) [sarvaṃ](sarvaṃ) [trailokyaṃ](trailokyaṃ) [sacara](sacara)+[acaram](acaram)
+[liṅga-marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [moving-and-still](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[śiva](śiva)+[liṅgaṃ](liṅgaṃ) [paraṃ](paraṃ) [taccaṃ](taccaṃ) [tayoḥ](tayoḥ)+[yogāt](yogāt) [mahat](mahat)+[phalam](phalam)
+[śiva-liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [by-their-union](tayoryogā)+[great-fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-[dala](dala)+[aṅghri](aṅghri)+[gartikā](gartikā) [kūrma](kūrma) [veda](veda)+[asrā](asrā) [valiṅga](valiṅga)+[artinī](artinī)
+[petal-foot-pit](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda-asra](vedāsrā) [liṅga-pit](valiṅgartinī)
