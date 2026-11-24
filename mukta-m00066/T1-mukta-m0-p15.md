@@ -20,7 +20,7 @@
 [kulākulāṣṭakādīni](kulākulāṣṭakādīni) [nimaṃtryāhūyaśobhitām](nimaṃtryāhūyaśobhitām)
 
 ## mukta-m0-p15-v357
-[abhyarcya](abhyarcya) [sarvamapyaṃgam](sarvamapyaṃgam) [avamṛjyavicakṣaṇaḥ](avamṛjyavicakṣaṇaḥ)
+[abhyarcya](abhyarcya) [sarvamapyaṃgam](sarvamapyaṃgam) [avamṛjya](avamṛjya) [vicakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p15-v358
 [athavā](athavā) [citram](citram) [athavā](athavā) [patrorṇaṃ](patrorṇaṃ) [sumanoharam](sumanoharam)
