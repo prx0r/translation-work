@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-hundred-thousand-times recite-mantra then perfected becomes-man
+[lakṣa-mātraṃ](lakṣamātraṃ) [japet](japenmantraṃ) [tataḥ](tataḥ) [siddhaḥ](siddho) [bhavet](bhavennaraḥ)
+
 ## mukta-m0-p10-v227
-tenth-part and musk camphor-with fragrant
+[tat-daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [suvāsitaiḥ](suvāsitaiḥ)
+
 ## mukta-m0-p10-v228
-tenth-part great-goddess brahmins feed dear
+[tat-daśāṃśaṃ](taddaśāṃśaṃ) [mahādevi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+
 ## mukta-m0-p10-v229
-pleasing rice-pudding cakes-etc juices-and elixirs
+[hṛdyaiḥ](hṛdyaiḥ) [pāyasa](pāyasa) [pūpādyaiḥ](pūpādyaiḥ) [rasaiḥ](rasaiścaiva) [ca](ca) [eva](eva) [rasāyanaiḥ](rasāyanaiḥ)
+
 ## mukta-m0-p10-v230
-wines meats-and fishes-and various-things-filled
+[madyaiḥ](madyairmāṃsaiśca) [māṃsaiḥ](māṃsaiśca) [ca](ca) [matsyaiḥ](matsyaiśca) [ca](ca) [nānā-vastūpabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
+
 ## mukta-m0-p10-v231
-worship yogini heroes tenth-part mantra-practitioner
+[arcayet](arcayed) [yoginī-vīrān](yoginīvīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra-sādhakaḥ](maṃtrasādhakaḥ)
+
 ## mukta-m0-p10-v232
-bliss-enjoyments enjoying on-earth plays embodied
+[ānanda-bhogān](ānaṃdabhogān) [bhugjānaḥ](bhugjānaḥ) [kṣoṇyāṃ](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
+
 ## mukta-m0-p10-v233
-extreme-secrecy which protected not-given to-anyone
+[ati-guhyatva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasyacit](yasyakasyacit)
+
 ## mukta-m0-p10-v234
-without-fallacy skilled to-truth-devoted wise
+[akutarka-pravīṇāya](akutarka) [tattva-niṣṭhāya](tattvaniṣṭhāyadhīmate) [dhīmate](dhīmate)
+
 ## mukta-m0-p10-v235
-this knowledge to-be-given truth truth I-say-I
+[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [vadāmi](vadāmyaham) [aham](aham)
+
 ## mukta-m0-p10-v236
-this knowledge-equal not-is not-was not-will-be
+[etad](etad) [vidyā-samaṃ](vidyāsamaṃ) [nāsti](nāsti) [na](na) [bhūtaṃ](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+
 ## mukta-m0-p10-v237
-this practicing man's liberation-path in-hand
+[imām](imāmabhyasyataḥ) [abhyasyataḥ](abhyasyataḥ) [puṃsaḥ](puṃso) [mokṣa-mārgaḥ](mokṣamārgaḥ) [kara-sthitaḥ](karasthitaḥ)
+
 ## mukta-m0-p10-v238
-thus-in-ananda-tantra fifth chapter
+[ityānanda-tantre](ityānaṃdataṃtre) [pañcamaḥ](paṃcamaḥ) [paṭalaḥ](paṭalaḥ)
+
 ## mukta-m0-p10-v239
-sacrifice-king-sequence for-all-human-aims great-fruit
+[yāga-rāja-kramaḥ](yāgarājakramaḥ) [sarva-puruṣārthaṃ](sarvapuruṣārthaṃ) [mahā-phalam](mahāphalam)
+
 ## mukta-m0-p10-v240
-boon-fear-endowed peaceful shakti-embraced charming
+[varābhaya-yutaṃ](varābhayayutaṃ) [śāntaṃ](śāṃtaṃ) [śaktyā-śliṣṭaṃ](śaktyāśliṣṭaṃ) [manoharam](manoharam)
+
 ## mukta-m0-p10-v241
-bathed body meditate-on great-goddess
+[āplāvita-śarīraḥ](āplāvita) [sann-antardhyāyen](sannaṃtardhyāyen) [maheśvarīm](maheśvarīm)
+
 ## mukta-m0-p10-v242
-distinct six-lotus-born manifestation own-form
+[vibhinna-ṣaṭ-sarojanma](vibhinna) [prakāśa](prakāśa) [nija-vigrahām](nijavigrahām)
+
 ## mukta-m0-p10-v243
-tripura-sundari
+[tripura-sundarīm](tripurasuṃdarīm)
+
 ## mukta-m0-p10-v244
-going-out and outside-village freed-urine-feces-pain
+[nirgamya](nirgamya) [ca](ca) [bahir-grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [mukta-mūtra-mala-vyathaḥ](muktamūtramalavyathaḥ)
+
 ## mukta-m0-p10-v245
-fragrant-oil-anointed paste-rubbed his and
+[sugandha-taila-liptasya](sugaṃdhatailaliptasya) [piṣṭikodvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+
 ## mukta-m0-p10-v246
-ever kaula from-delusion not dry-bath-perform
+[kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohānna) [na](na) [rūkṣa-snānam](rūkṣasnānamācaret) [ācaret](ācaret)
+
 ## mukta-m0-p10-v247
-head-pouring root-mantra recitation water-triad
+[mūrdhnitvā](mūrdhnitvā) [mūla-mantra-jāpena](mūlamaṃtra) [aṃbhoṃjalitrayam](jāpenāṃbhoṃjalitrayam)
+
 ## mukta-m0-p10-v248
-with-kusha with-flowers and with-scent copper-vessel
+[sa-kuśe](sakuśe) [sa-hapuṣpe](sahapuṣpe) [ca](ca) [sa-gandhe](sagaṃdhe) [tāmra-bhājane](tāmrabhājane)
+
 ## mukta-m0-p10-v249
-copper silver gold made that-praised
+[tāmra-rūpya-suvarṇaiḥ](tāmrarūpya) [tu](tu) [racitaṃ](racitaṃ) [tat-praśasyate](tatpraśasyate)
+
 ## mukta-m0-p10-v250
-according-to ability and satisfying enter-temple
+[yathā-śakti](yathāśakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga-maṃdiram](yāgamaṃdiram)
