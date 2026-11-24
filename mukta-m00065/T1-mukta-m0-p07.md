@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[initiation-yoga-from](dīkṣāyogāt) [thus-lord's](tatheśasya) [shudra-etc](śūdrādiḥ) [shiva-state](śivatāṃ) [would-go](vrajet)
+initiation-yoga-from + likewise + lord's + shudra-etc + shiva-state + may-attain
 
 ## mukta-m0-p07-v152
-[as](yathā) [potter-wheel-on](kulālacakrasthaḥ) [unbroken](avicchinnaṃ) [revolves](bhramate) [pot](ghaṭaḥ)
+as + potter-wheel-situated + uninterrupted + revolves + pot
 
 ## mukta-m0-p07-v153
-[impurity](malaṃ) [poison-giving](viṣamadaṃ) [as](yadvat) [destroys](hanti) [indeed](vai) [mantra-tejas-by](mantratejasā)
+impurity + poison-giving + just-as + destroys + indeed + mantra-radiance-by
 
 ## mukta-m0-p07-v154
-[becomes](syāt) [kataka-fruit-by](katakaphalaiḥ) [yoga-by](yogāt) [thus](tadvat) [mantras-by](mantraiḥ) [tu](tu) [human](mānavaḥ)
+may-be + kataka-fruits + by-union + likewise + mantras + but + man
 
 ## mukta-m0-p07-v155
-[thus-indeed](tathaiva) [mantra-power-by](mantrasāmarthyāt) [impurity](malaṃ) [having-killed](hatvā) [shiva](śivī) [becomes](bhavet)
+likewise + mantra-power-by + impurity + having-destroyed + shiva-like + may-become
 
 ## mukta-m0-p07-v156
-[thus-lord-mantra-contact-by](tatheśamantrasaṃparkā) [shiva-state](śivatvaṃ) [arises](jāyate) [of-beast](paśoḥ)
+likewise + lord-mantra-contact-by + shiva-state + arises + of-bound-soul
 
 ## mukta-m0-p07-v157
-[shaiva-teachers](śaivācāryāḥ) [give](prayacchanti) [shiva-state](śivatvaṃ) [sa](sa) [moving-stationary](carācare)
+shaiva-teachers + bestow + shiva-state + he + in-moving-immovable
 
 ## mukta-m0-p07-v158
-[teacher](ācāryaḥ) [api](api) [thus-here](tathaivātra) [shiva-state](śivatvaṃ) [goes](yāti) [mantra-knower](mantravit)
+teacher + also + likewise + here + shiva-state + goes + mantra-knower
 
 ## mukta-m0-p07-v159
-[are-purified](saṃskriyante) [hi](hi) [mantras-by](mantraiḥ) [ca](ca) [god-teachers-ascetics](devācāryatapasvinaḥ)
+are-purified + indeed + by-mantras + and + divine-teacher-ascetics
 
 ## mukta-m0-p07-v160
-[as](yathā) [worship-worthy-veda-knower](pūjyavedajñaḥ) [thus](tathā) [shudra](śudraḥ) [api](api) [teacher](daiśikaḥ)
+as + venerable-veda-knower + so + shudra + also + teacher
 
 ## mukta-m0-p07-v161
-[he](sa) [shiva](śivaḥ) [himself](svayameva) [is](syāt) [not](nānya) [other-form](rūpaḥ) [ever](kadācana)
+he + shiva + himself + indeed + may-be + not + other-form + ever
 
 ## mukta-m0-p07-v162
-[mantra-yoga-by](mantrayogāt) [awaken](vibudhyante) [lost](naṣṭa) [unpleasant](aniṣṭaṃ) [thus](tathā) [in-shiva](śive)
+mantra-yoga-by + awaken + destroyed + inauspicious + likewise + in-shiva
 
 ## mukta-m0-p07-v163
-[shaiva-teacher](śaivācāryaḥ) [supreme](paraṃ) [place](sthānaṃ) [thus](tadvat) [mantra-boat-by](mantranaukayā)
+shaiva-teacher + supreme + place + likewise + by-mantra-boat
 
 ## mukta-m0-p07-v164
-[remainder](śeṣe) [tu](tu) [one-by-one-loss](ekaikahāniḥ) [syāt](syāt) [thousand](sahasre) [ca](ca) [hundred-fold](śatakramāt)
+in-remainder + but + one-by-one-loss + may-be + thousand + and + hundred-order
 
 ## mukta-m0-p07-v165
-[grandfather-hundred](pitāmahaśataṃ) [yāvat](yāvat) [vishnu's](viṣṇormānaṃ) [vidhīyate](vidhīyate)
+hundred-brahmas + until + vishnu's + measure + is-fixed
 
 ## mukta-m0-p07-v166
-[perish](vinaśyanti) [thus](tathā) [upendra](upendrā) [countless](asaṃkhyātāḥ) [grandfathers](pitāmahāḥ)
+perish + likewise + indras + countless + brahmas
 
 ## mukta-m0-p07-v167
-[sadakhya-moment-by](sādākhyanimiṣeṇa) [lord](īśaḥ) [dissolution](layaṃ) [goes](yāti) [na](na) [doubt](saṃśayḥ)
+sadakhya-blink-by + lord + dissolution + goes + no + doubt
 
 ## mukta-m0-p07-v168
-[than-shiva](śivāt) [higher](parataraṃ) [not](nāsti) [iti](iti) [in-scriptures](śāstreṣu) [certainty](niścayaḥ)
+from-shiva + higher + not + is + thus + in-scriptures + certainty
 
 ## mukta-m0-p07-v169
-[therefore](tasmāt) [than-shiva](śivaditaḥ) [mantra](mantraḥ) [accomplishment-liberation-fruit-giving](siddhimuktiphalapradaḥ)
+therefore + from-shiva + mantra + accomplishment-liberation-fruit-giving
 
 ## mukta-m0-p07-v170
-[mantras-by](mantraiḥ) [shiva-sacrifice](śivādhvare) [born](jātaḥ) [sa](sa) [shudra](śūdraḥ) [syāt](syāt) [kathaṃ](kathaṃ) [punaḥ](punaḥ)
+by-mantras + shiva-sacrifice + born + he + shudra + may-be + how + again
 
 ## mukta-m0-p07-v171
-[thus-indeed](tathaiva) [sin-removal](pāpahānaṃ) [ca](ca) [natural](prākṛtāstu) [prajāyate](prajāyate)
+likewise + sin-removal + and + natural-ones + but + is-born
 
 ## mukta-m0-p07-v172
-[world](loke) [brahmin-etc-teachers](viprādikācārān) [hellish](nārakīṇo) [na](na) [tārakāḥ](tārakāḥ)
+visible + brahmin-etc-conduct-from + hellish + not + saviors
 
 ## mukta-m0-p07-v173
-[na](na) [would-be](bhaveyuḥ) [then](tadā) [certainly](nūnaṃ) [twice-born](dvijā) [gods-etc-teachers](devādidaiśikāḥ)
+not + may-be + then + certainly + twice-born + god-etc-teachers
 
 ## mukta-m0-p07-v174
-[poison-beings-planets-etc](viṣabhūtagrahādyāḥ) [ca](ca) [are-restrained](nigṛhyante) [hi](hi) [mantras-by](mantrataḥ)
+poison-spirit-planet-etc + and + are-restrained + indeed + by-mantra
 
 ## mukta-m0-p07-v175
-[moving-stationary](carācaraṃ) [resort](prapadyeta) [shiva-state](śivatvaṃ) [that-moment](tatkṣaṇāt) [dhruvam](dhruvam)
+moving-immovable + may-attain + shiva-state + instantly + certainly
