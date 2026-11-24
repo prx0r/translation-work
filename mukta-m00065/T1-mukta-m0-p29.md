@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[kartavyā](kartavyā) [taddvibhāgena](taddvibhāgena) [pratimā](pratimā) [sottamā](sottamā) [matā](matā)
+[should-be-done](kartavyā) [by-that-division](taddvibhāgena) [image](pratimā) [with-excellent](sottamā) [considered](matā)
 
 ## mukta-m0-p29-v702
-[navāntaṃ](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[nine-end](navāntaṃ) [in-triple-triangle-ends](tritrikānteṣu) [youngest-etc](kanyasādyāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaścakresvake](mayaścakresvake) [mate](mate)
+[pedestal](pīṭha) [door-expansion](dvārapravistāraṃ) [maya-made](mayaścakre) [in-own-opinion](svake mate)
 
 ## mukta-m0-p29-v704
-[tithimāsanavatyardhaihīnamadhyottamāstridhā](tithimāsanavatyardhaihīnamadhyottamāstridhā)
+[tithi](tithi) [seat-like](māsanavat) [half-less](yardhaihīna) [middle-excellent](madhyottamāḥ) [threefold](tridhā)
 
 ## mukta-m0-p29-v705
-[paṅgurūpāśca](paṅgurūpāśca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhārcāśca](saptadhārcāśca) [vartayet](vartayet)
+[lame-forms](paṅgurūpāḥ) [and](ca) [kūṣmāṇḍas](kūṣmāṇḍāḥ) [sevenfold](saptadhā) [images](arcāḥ) [and](ca) [should-make](vartayet)
 
 ## mukta-m0-p29-v706
-[vibhajya](vibhajya) [śaktisūtreṇa](śaktisūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
+[dividing](vibhajya) [by-power-thread](śaktisūtreṇa) [from-stars-etc](ṛkṣādibhyaḥ) [auspicious](śubhe) [day](dine)
 
 ## mukta-m0-p29-v707
-[pīṭhātmāśrayajīvāṃśca](pīṭhātmāśrayajīvāṃśca) [prabhādīṃśca](prabhādīṃśca) [prakalpayet](prakalpayet)
+[pedestal](pīṭha) [soul-refuge](ātmāśraya) [life-parts](jīvāṃśca) [radiance-etc](prabhādīṃśca) [should-arrange](prakalpayet)
 
 ## mukta-m0-p29-v708
-[kṛtvādhoṃśagataḥ](kṛtvādhoṃśagataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīvakalpanā](jīvakalpanā)
+[having-made](kṛtvā) [lower-part-gone](adhoṃśagataḥ) [pedestal](pīṭhaṃ) [in-third-part](tribhāge) [life-arrangement](jīvakalpanā)
 
 ## mukta-m0-p29-v709
-[sātmāśrayāṃ](sātmāśrayāṃ) [sadūtīṃ](sadūtīṃ) [pratimāṃ](pratimāṃ) [vartayettataḥ](vartayettataḥ)
+[with-soul-refuge](sātmāśrayāṃ) [with-messenger](sadūtīṃ) [and](ca) [image](pratimāṃ) [should-make](vartayet) [then](tataḥ)
 
 ## mukta-m0-p29-v710
-[bhāgaikamaṅgula](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [mahārcāṃ](mahārcāṃ) [vatayedbudhaḥ](vatayedbudhaḥ)
+[one-part-inch](bhāgaikamaṅgula) [having-made](kṛtvā) [great-image](mahārcāṃ) [should-make](vatayed) [wise-one](budhaḥ)
 
 ## mukta-m0-p29-v711
-[eka](eka) [bhāge'ṅgulaṃ](bhāge'ṅgulaṃ) [tasyā](tasyā) [stenāṅgaṃ](stenāṅgaṃ) [parikalpayet](parikalpayet)
+[one](eka) [part](bhāge) [inch](aṅgulaṃ) [of-it](tasyā) [stolen-limb](stenāṅgaṃ) [should-arrange](parikalpayet)
 
 ## mukta-m0-p29-v712
-[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛjvarcāṃ](ṛjvarcāṃ) [kārayecchubhām](kārayecchubhām)
+[in-maya](maye) [thread](sūtraṃ) [even](samaṃ) [placing](nyasya) [straight-image](ṛjvarcāṃ) [should-make](kārayet) [auspicious](śubhām)
 
 ## mukta-m0-p29-v713
-[jīvasyāddairghyamānena](jīvasyāddairghyamānena) [pratyaṅgānyadhunā](pratyaṅgānyadhunā) [vruve](vruve)
+[of-life](jīvasya) [length-measure](āddairghyamānena) [limbs](pratyaṅgāni) [now](adhunā) [I-speak](vruve)
 
 ## mukta-m0-p29-v714
-[mātrābhistithisaṃkhyābhirmukuṭa](mātrābhistithisaṃkhyābhirmukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
+[by-measures](mātrābhiḥ) [tithi-numbers](tithisaṃkhyābhiḥ) [crown](mukuṭa) [wrapping](veṣṭanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p29-v715
-[tālamānaṃ](tālamānaṃ) [bhavedvakraṃ](bhavedvakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
+[palm-measure](tālamānaṃ) [becomes](bhaved) [curved](vakraṃ) [neck](grīvā) [and](ca) [four-inches](caturaṅgulā)
 
 ## mukta-m0-p29-v716
-[tālaikaikapramāṇaṃ](tālaikaikapramāṇaṃ) [syādūrū](syādūrū) [tālavinirgamau](tālavinirgamau)
+[palm-one-one-measure](tālaikaikapramāṇaṃ) [becomes](syāt) [thighs](ūrū) [palm-exit](tālavinirgamau)
 
 ## mukta-m0-p29-v717
-[jñeyau](jñeyau) [gulphau](gulphau) [dvinetrau](dvinetrau) [ca](ca) [pārṣṇīdvyaṅgulake](pārṣṇīdvyaṅgulake) [mate](mate)
+[knowable](jñeyau) [ankles](gulphau) [two-eyes](dvinetrau) [and](ca) [heels-two-inches](pārṣṇīdvyaṅgulake) [in-opinion](mate)
 
 ## mukta-m0-p29-v718
-[madhye](madhye) [kalādvayocchrāyovagresārdhārdha](kalādvayocchrāyovagresārdhārdha) [mātrakau](mātrakau)
+[middle](madhye) [two-arts-height](kalādvayocchrāya) [front-half-half](vagresārdhārdha) [measure](mātrakau)
 
 ## mukta-m0-p29-v719
-[pañcāṅgulau](pañcāṅgulau) [veṣṭanena](veṣṭanena) [sārdhāṅgaladviparvaṇī](sārdhāṅgaladviparvaṇī)
+[five-inches](pañcāṅgulau) [by-wrapping](veṣṭanena) [with-half-inch-two-joints](sārdhāṅgaladviparvaṇī)
 
 ## mukta-m0-p29-v720
-[tryaṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tvadhunāparāḥ](tvadhunāparāḥ)
+[three-inches](tryaṅgulā) [by-circumference](pariṇāhena) [are-said](kathyante) [now-others](tvadhunāparāḥ)
 
 ## mukta-m0-p29-v721
-[pādāṅgulyastriparvāṇaḥ](pādāṅgulyastriparvāṇaḥ) [parvārdhanakhaśobhitāḥ](parvārdhanakhaśobhitāḥ)
+[toe-fingers](pādāṅgulyaḥ) [three-jointed](triparvāṇaḥ) [joint-half-nail-adorned](parvārdhanakhaśobhitāḥ)
 
 ## mukta-m0-p29-v722
-[kārāṅghri](kārāṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [savonnatāruṇāḥ](savonnatāruṇāḥ)
+[hand-foot](kārāṅghri) [sole](talakaṃ) [red](raktaṃ) [nails](nakhāḥ) [with-raised-red](savonnatāruṇāḥ)
 
 ## mukta-m0-p29-v723
-[upabāhū](upabāhū) [daśāṣṭāṃśau](daśāṣṭāṃśau) [ṣoḍaśāṅgulakau](ṣoḍaśāṅgulakau) [bhujau](bhujau)
+[forearms](upabāhū) [ten-eight-parts](daśāṣṭāṃśau) [sixteen-inches](ṣoḍaśāṅgulakau) [arms](bhujau)
 
 ## mukta-m0-p29-v724
-[bhūtāṅgulā](bhūtāṅgulā) [bhavenmadhyā](bhavenmadhyā) [ardhahīnā](ardhahīnā) [tvanāmikā](tvanāmikā)
+[five-inches](bhūtāṅgulā) [becomes](bhaven) [middle](madhyā) [half-less](ardhahīnā) [ring-finger](tvanāmikā)
 
 ## mukta-m0-p29-v725
-[madhyamādyāstriparvāṇo](madhyamādyāstriparvāṇo) [dviparvāṅguṣṭhako](dviparvāṅguṣṭhako) [mataḥ](mataḥ)
+[middle-etc](madhyamādyāḥ) [three-jointed](triparvāṇo) [two-jointed-thumb](dviparvāṅguṣṭhako) [considered](mataḥ)
