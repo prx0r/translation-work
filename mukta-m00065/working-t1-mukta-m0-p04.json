@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "sthaṇḍile",
-"quick_gloss": "on-ground"
+"quick_gloss": "on-altar"
 },
 {
 "surface": "maṇḍale",
-"quick_gloss": "on-circle"
+"quick_gloss": "in-circle"
 },
 {
 "surface": "pūjya",
-"quick_gloss": "worshipable"
+"quick_gloss": "worshipful"
 },
 {
 "surface": "syāddīkṣāsthāpanādike",
-"quick_gloss": "initiation-establishment-etc"
+"quick_gloss": "initiation+establishment+etc"
 }
 ]
 },
@@ -41,7 +41,7 @@
 },
 {
 "surface": "sainyacchinnāgadantajam",
-"quick_gloss": "army-elephant-tusk-born"
+"quick_gloss": "army+cut+tusk-born"
 }
 ]
 },
@@ -54,11 +54,11 @@
 "tokens": [
 {
 "surface": "aṇimādinṛkulyottham",
-"quick_gloss": "atom-etc-royal-born"
+"quick_gloss": "atom-etc+royal+born"
 },
 {
 "surface": "anyonyabdārdhataḥ",
-"quick_gloss": "mutual-half-month"
+"quick_gloss": "mutual+half-month"
 },
 {
 "surface": "sadā",
@@ -83,7 +83,7 @@
 },
 {
 "surface": "ṣāṣṭikaṃ",
-"quick_gloss": "sixty-day"
+"quick_gloss": "sixty-day-rice"
 },
 {
 "surface": "puṣṭivardhanam",
@@ -129,11 +129,11 @@
 },
 {
 "surface": "nāvanītaṃ",
-"quick_gloss": "not-butter"
+"quick_gloss": "not-churned"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "then"
 },
 {
 "surface": "gomayaṃ",
@@ -178,7 +178,7 @@
 "quick_gloss": "for-uprooting"
 },
 {
-"surface": "pāṃśavyaṃ",
+"surface": "tu",
 "quick_gloss": "dust-born"
 },
 {
@@ -236,7 +236,11 @@
 "quick_gloss": "anointing"
 },
 {
-"surface": "syuḥ+sarvasaṃpadaḥ",
+"surface": "syuḥ",
+"quick_gloss": "would-be"
+},
+{
+"surface": "sarvasaṃpadaḥ",
 "quick_gloss": "all-prosperities"
 }
 ]
@@ -250,7 +254,7 @@
 "tokens": [
 {
 "surface": "tāvatkāla",
-"quick_gloss": "so-long-time"
+"quick_gloss": "so-long"
 },
 {
 "surface": "tu",
@@ -258,7 +262,7 @@
 },
 {
 "surface": "saṃpūya",
-"quick_gloss": "worshiping"
+"quick_gloss": "worship"
 },
 {
 "surface": "visṛjya",
@@ -274,7 +278,7 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "throws"
+"quick_gloss": "would-cast"
 }
 ]
 },
@@ -287,7 +291,7 @@
 "tokens": [
 {
 "surface": "niṣkvāthya",
-"quick_gloss": "boiling"
+"quick_gloss": "boiling-down"
 },
 {
 "surface": "paṭam",
@@ -320,11 +324,11 @@
 "tokens": [
 {
 "surface": "dhātubilvarasair",
-"quick_gloss": "metals-bilva-juices"
+"quick_gloss": "metals+bilva+juices"
 },
 {
 "surface": "lekhyaṃ",
-"quick_gloss": "writing"
+"quick_gloss": "drawing"
 },
 {
 "surface": "tridhā",
@@ -336,7 +340,7 @@
 },
 {
 "surface": "paṭādike",
-"quick_gloss": "cloth-etc"
+"quick_gloss": "on-cloth-etc"
 }
 ]
 },
@@ -374,7 +378,7 @@
 "tokens": [
 {
 "surface": "karuṇādbhutaśāntāḥ",
-"quick_gloss": "compassion-wonder-peace"
+"quick_gloss": "compassion+wonder+peace"
 },
 {
 "surface": "ca",
@@ -382,7 +386,7 @@
 },
 {
 "surface": "navabhāvātmikāḥ",
-"quick_gloss": "nine-emotion-souled"
+"quick_gloss": "nine-emotions-souled"
 },
 {
 "surface": "kvacit",
@@ -415,7 +419,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "called"
+"quick_gloss": "is-said"
 },
 {
 "surface": "adhunā",
@@ -431,8 +435,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadyomantreṇa",
-"quick_gloss": "immediate-mantra"
+"surface": "sadyaḥ",
+"quick_gloss": "immediately"
+},
+{
+"surface": "mantreṇa",
+"quick_gloss": "with-mantra"
 },
 {
 "surface": "ca",
@@ -443,8 +451,12 @@
 "quick_gloss": "unripe"
 },
 {
-"surface": "kramānnavakarādikam",
-"quick_gloss": "gradually-nine-finger-etc"
+"surface": "kramāt",
+"quick_gloss": "in-order"
+},
+{
+"surface": "navakarādikam",
+"quick_gloss": "nine-finger-etc"
 }
 ]
 },
@@ -457,7 +469,7 @@
 "tokens": [
 {
 "surface": "dvijādijātibhiḥ",
-"quick_gloss": "brahmin-etc-born-castes"
+"quick_gloss": "by-twice-born-etc-castes"
 },
 {
 "surface": "mṛdbhiḥ",
@@ -468,7 +480,11 @@
 "quick_gloss": "unmanifest-etc"
 },
 {
-"surface": "ca+kāmataḥ",
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "kāmataḥ",
 "quick_gloss": "by-desire"
 }
 ]
@@ -482,7 +498,7 @@
 "tokens": [
 {
 "surface": "vāpīkūpataḍāgeṣu",
-"quick_gloss": "in-wells-tanks-lakes"
+"quick_gloss": "in-wells+tanks+pools"
 },
 {
 "surface": "dīrghikāyāḥ",
@@ -490,7 +506,7 @@
 },
 {
 "surface": "samāharet",
-"quick_gloss": "collect"
+"quick_gloss": "should-gather"
 }
 ]
 },
@@ -507,7 +523,7 @@
 },
 {
 "surface": "trilohagarbhaṃ",
-"quick_gloss": "three-metal-womb"
+"quick_gloss": "three-metals-womb"
 },
 {
 "surface": "ca",
@@ -536,7 +552,7 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "making"
+"quick_gloss": "having-made"
 },
 {
 "surface": "ghoreṇa",
@@ -544,7 +560,7 @@
 },
 {
 "surface": "paridāhya",
-"quick_gloss": "burning"
+"quick_gloss": "having-burned"
 },
 {
 "surface": "ca",
@@ -561,11 +577,11 @@
 "tokens": [
 {
 "surface": "īśānena",
-"quick_gloss": "īśāna"
+"quick_gloss": "by-ishana"
 },
 {
 "surface": "gṛhītvā",
-"quick_gloss": "taking"
+"quick_gloss": "having-taken"
 },
 {
 "surface": "tu",
@@ -577,7 +593,7 @@
 },
 {
 "surface": "saṃskṛtya",
-"quick_gloss": "purifying"
+"quick_gloss": "having-purified"
 },
 {
 "surface": "pūjayet",
@@ -594,11 +610,15 @@
 "tokens": [
 {
 "surface": "sarjahiṅgupuraṃbola",
-"quick_gloss": "sarja-asafoetida-puram-bola"
+"quick_gloss": "sarja+asafoetida+guggulu+resin"
 },
 {
-"surface": "matasītailameva",
+"surface": "matasītailam",
 "quick_gloss": "sesame-oil"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
 },
 {
 "surface": "ca",
@@ -619,11 +639,11 @@
 },
 {
 "surface": "kṣiptvā",
-"quick_gloss": "throwing"
+"quick_gloss": "having-thrown"
 },
 {
 "surface": "vyavasthāpya",
-"quick_gloss": "establishing"
+"quick_gloss": "having-set"
 },
 {
 "surface": "māsaṃ",
@@ -635,7 +655,7 @@
 },
 {
 "surface": "parimṛdya",
-"quick_gloss": "rubbing"
+"quick_gloss": "having-rubbed"
 },
 {
 "surface": "ca",
@@ -652,23 +672,19 @@
 "tokens": [
 {
 "surface": "śaṇatatvanvitaṃ",
-"quick_gloss": "hemp-fiber-having"
+"quick_gloss": "hemp-fiber-including"
 },
 {
 "surface": "katvā",
-"quick_gloss": "katvā"
+"quick_gloss": "having-made"
 },
 {
 "surface": "mṛnmayaṃ",
 "quick_gloss": "clay-made"
 },
 {
-"surface": "ghaṭayet",
-"quick_gloss": "fashion"
-},
-{
-"surface": "śubham",
-"quick_gloss": "auspicious"
+"surface": "ghaṭayecchubham",
+"quick_gloss": "should-fashion-auspicious"
 }
 ]
 }
