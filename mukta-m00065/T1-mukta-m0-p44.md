@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[pada](rakṣodvitayakumbhīra) [pada](sarpacakrāsyakaṃ) [pada](ca) [pada](bham)
+[rakshodvitaya-kumbhira](rakṣodvitayakumbhīra) [sarpacakrasyaka](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
 
 ## mukta-m0-p44-v1077
-[pada](aśvinau) [pada](ca) [pada](yamo) [pada](vahniḥ) [pada](prajendrenduharo'ditiḥ)
+[ashvinau](aśvinau) [ca](ca) [yamah](yamaḥ) [vahnih](vahniḥ) [prajendrenduharah](prajendrenduharaḥ) [aditih](aditiḥ)
 
 ## mukta-m0-p44-v1078
-[pada](tvaṣṭā) [pada](vāyuḥ) [pada](surendro'gnirmitrendrau) [pada](yāvatpāmpatiḥ)
+[tvashta](tvaṣṭā) [vayuh](vāyuḥ) [surendrah](surendraḥ) [agnih](agniḥ) [mitrendrau](mitrendrau) [yatudhampatih](yātudhāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[pada](viṣṇurvasurajaikādipādahirbudhna) [pada](pūṣakāḥ)
+[vishnuh](viṣṇuḥ) [vasuh](vasuḥ) [aja-eka-adipadahirbudhnah](ajaikādipādahirbudhnaḥ) [pushakah](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pada](pumān) [pada](gadī) [pada](savīṇā) [pada](ca) [pada](yoṣitta) [pada](nmithunaṃ) [pada](dhanuḥ)
+[puman](pumān) [gadi](gadī) [savina](savīṇā) [ca](ca) [yoshit](yoṣit) [mithunam](mithunaṃ) [dhanuh](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[pada](strī) [pada](naustholkāsibhṛtkanyā) [pada](tulādhāro) [pada](narastulā)
+[stri](strī) [nauh](nauḥ) [stholka-asibhrit-kanya](stholkāsibhṛtkanyā) [tuladhara](tulādhāraḥ) [naras-tula](narastulā)
 
 ## mukta-m0-p44-v1082
-[pada](meṣādyāḥ) [pada](pañca) [pada](caivānye) [pada](svanāmatulyarūpakāḥ)
+[meshadyah](meṣādyāḥ) [panca](pañca) [ca-eva-anyah](caivānye) [svanama-tulya-rupakah](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[pada](hemābhaḥ) [pada](sakirīṭaśca) [pada](devarājaḥ) [pada](surāvṛtaḥ)
+[hema-abhah](hemābhaḥ) [sakiritah](sakirīṭaḥ) [ca](ca) [devarajah](devarājaḥ) [suravritah](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[pada](chāgasthaḥ) [pada](sākṣasūtrograḥ) [pada](saptārciḥ) [pada](śaktidhārakaḥ)
+[chagasthah](chāgasthaḥ) [sakshasutra-ugrah](sākṣasūtrograḥ) [saptarchih](saptārciḥ) [shaktidharakah](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[pada](raktahṛkpāśabhṛtkṛṣṇo) [pada](mahiṣasthogradūtavān)
+[raktahrit-pashabhrit-krishnah](raktahṛkpāśabhṛtkṛṣṇaḥ) [mahishastha-ugradutavan](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-[pada](puṃsthita) [pada](khaḍgahastaśca) [pada](nīlābho) [pada](rākṣasāvṛtaḥ)
+[pumsthitah](puṃsthitaḥ) [khadgahastah](khaḍgahastaḥ) [ca](ca) [nilabhah](nīlābhaḥ) [rakshasavritah](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[pada](sarvābharaṇasaṃyukto) [pada](varūṇaḥ) [pada](pītavastrabhṛt)
+[sarvabharaṇa-samyuktah](sarvābharaṇasaṃyuktaḥ) [varunah](varūṇaḥ) [pitavastrabhrit](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[pada](raktakṣo) [pada](raktavāsaśca) [pada](mṛgasthaścaṅkuśī) [pada](dhvajī)
+[raktakshah](raktakṣaḥ) [raktavasah](raktavāsaḥ) [ca](ca) [mrigasthah](mṛgasthaḥ) [chankushi](caṅkuśī) [dhvaji](dhvajī)
 
 ## mukta-m0-p44-v1089
-[pada](dhaneśo) [pada](varadaḥ) [pada](kāryo) [pada](nānābharaṇamaṇḍitaḥ)
+[dhaneshah](dhaneśaḥ) [varadah](varadaḥ) [karyah](kāryaḥ) [nanabharaṇa-maṇḍitah](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[pada](īśāno'hīndubhṛccaite) [pada](lokapālā) [pada](dvibāhavaḥ)
+[ishanah](īśānaḥ) [ahindubhrit](ahīndubhṛt) [ca-ete](caite) [lokapalah](lokapālāḥ) [dvibahavah](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[pada](viśvakarmā) [pada](sadā) [pada](gauro) [pada](jñānamudrākṣasūtrabhṛt)
+[vishvakarma](viśvakarmā) [sada](sadā) [gaurah](gauro) [jnanamudra-akshasutrabhrit](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[pada](ālīḍhakaraṇāsaktaṃ) [pada](mahākāyaṃ) [pada](subhīṣaṇam)
+[alidhakaraṇa-asaktam](ālīḍhakaraṇāsaktaṃ) [mahakayam](mahākāyaṃ) [subhishanam](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pada](pītadhvajadharaṃ) [pada](vāme) [pada](tarjanīṃ) [pada](vā) [pada](hṛdagrataḥ)
+[pitadhvajadharam](pītadhvajadharaṃ) [vame](vāme) [tarjanīm](tarjanīṃ) [va](vā) [hridagratah](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[pada](saṃpīḍya) [pada](rākasān) [pada](padbhyāṃ) [pada](muñcannādaṃmarutsutam)
+[sampidya](saṃpīḍya) [rakasan](rākasān) [padbhyam](padbhyāṃ) [muncannadam](muñcannādaṃ) [marutsutam](marutsutam)
 
 ## mukta-m0-p44-v1095
-[pada](skandhayakṣānvitā) [pada](nityaṃ) [pada](kartavyā) [pada](yoṣidanvitāḥ)
+[skandhayakshānvitah](skandhayakṣānvitā) [nityam](nityaṃ) [kartavyah](kartavyā) [yoshidanvitah](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[pada](mālābhṛto'thavā) [pada](hṛṣṭāḥ) [pada](khasthā) [pada](vidyādharāḥ) [pada](sadā)
+[malabhritah](mālābhṛtaḥ) [athava](athavā) [hristah](hṛṣṭāḥ) [khasthah](khasthā) [vidyadharah](vidyādharāḥ) [sada](sadā)
 
 ## mukta-m0-p44-v1097
-[pada](piṅgavarvara) [pada](keśāśva) [pada](vetālā) [pada](vikṛtānanāḥ)
+[pingavarvara-keshashva](piṅgavarvara-keśāśva) [vetalah](vetālā) [vikritananah](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[pada](kapālamālinaḥ) [pada](śūladhārīṇaḥ) [pada](kṣetrapālakāḥ)
+[kapalamalinah](kapālamālinaḥ) [shuladharinah](śūladhārīṇaḥ) [kshetrapalakah](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[pada](kṛśā) [pada](mahodarāḥ) [pada](pretā) [pada](khalva) [pada](gallāśca) [pada](lomaśāḥ)
+[krishah](kṛśā) [mahodarah](mahodarāḥ) [pretah](pretā) [khalu-gallah](khalugallāḥ) [ca](ca) [lomashah](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[pada](svāṅgavarṇadharāḥ) [pada](sarvā) [pada](yathoktaṃ) [pada](brahmayāmale)
+[svangavarnadharah](svāṅgavarṇadharāḥ) [sarvah](sarvā) [yathoktam](yathoktaṃ) [brahmayamale](brahmayāmale)
