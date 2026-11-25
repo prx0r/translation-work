@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[thus](iti) [of-these](eteṣām) [in-absence](abhāve) [but](tu) [mercury](rasendram) [joined-with-diamond](vajra+saṃyutam)
+thus (itya) of-these (eteṣām) in-absence (abhāve) but (tu) mercury (rasendram) diamond-joined (vajra+saṃyutam)
 
 ## mukta-m0-p05-v102
-[with-cow's-sarja](gavya+sarja+yutaiḥ) [and](ca) [indeed](eva) [to-be-smeared](lepyam) [for-nourishment-of-color](varṇaka+puṣṭaye)
+cow-guggulu-joined (gavya+sarja+yutaiḥ) and (ca) indeed (eva) plaster (lepyam) for-color-nourishment (varṇaka+puṣṭaye)
 
 ## mukta-m0-p05-v103
-[with-good-door-constellation-season](sadvāra+rkṣa+ṛtu+yuktena) [indeed](hi) [endowed-with-beautiful-ascendant](cāru+lagna+samanvite)
+good-door-constellation-season-joined (sad+vāra+ṛkṣa+ṛtu+yuktena) indeed (hi) beautiful-lagna-endowed (cāru+lagna+samanvite)
 
 ## mukta-m0-p05-v104
-[divine-atmospheric-terrestrial](divya+āntarikṣa+bhaumāni) [for-obtaining-auspicious-inauspicious-results](śubha+aśubha+phala+āptaye)
+divine-atmospheric-terrestrial (divya+antarikṣa+bhaumāni) for-auspicious-inauspicious-fruit-obtaining (śubha+aśubha+phala+āptaye)
 
 ## mukta-m0-p05-v105
-[etc](ityādi) [divine-doing-good](śubha+kṛt+divyam) [therefore](atas) [causing-inauspicious](aśubha+karam) [but](tu) [this](idam)
+thus-etc (ityādi) auspicious-doing-divine (śubha+kṛt+divyam) from-that (atas) inauspicious-doing (aśubha+karam) but (tu) this (idam)
 
 ## mukta-m0-p05-v106
-[burning-of-quarters](dig+dāha) [violent-wind](tīvra+vāta) [and](ca) [eclipse-of-moon-and-sun](candra+sūrya+upamardanam)
+direction-burning (dig+dāhaḥ) fierce-wind (tīvra+vātaḥ) and (ca) moon-sun-eclipse (candra+sūrya+upamardanam)
 
 ## mukta-m0-p05-v107
-[dwelling-on-top-of-vāsa-tree](vāsa+vṛkṣa+agra+saṃsthāyi) [eater-of-offerings](bali+bhuj) [sweet-cry](madhura+āruti)
+Indra-tree-top-situated (vāsa+vṛkṣa+agra+saṃsthāyi) offering-eater (bali+bhuṅ) sweet-sound (madhura+ārutiḥ)
 
 ## mukta-m0-p05-v108
-[raining-dust-and-blood](pāṃśu+asṛk+varṣaṇam) [terrible](ghoram) [celestial](āntarikṣam) [inauspicious](aśobhanam)
+dust-blood-raining (pāṃśu+asṛk+varṣaṇam) terrible (ghoram) atmospheric (āntarikṣam) inauspicious (aśobhanam)
 
 ## mukta-m0-p05-v109
-[curd](dadhi) [unbroken-rice](akṣata) [barley](yava) [durva-grass](dūrvā) [lamp](dīpa) [go-rocanā](gorocanā) [banner](dhvaja)
+curd-akshata-barley (dadhi+akṣata+yavāḥ) durva (dūrvā) lamp (dīpaḥ) gorochana (gorocanā) banner (dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[bull](go+vṛṣa) [and](ca) [donkey](khara) [horse](vājī) [ash-eyed](bhasma+akṣa) [king](bhūpati) [elephant](dvipa)
+cow-bull (go+vṛṣaḥ) and (ca) donkey (kharaḥ) horse (vājī) ash-eyed (bhasma+akṣaḥ) king (bhūpatiḥ) elephant (dvipaḥ)
 
 ## mukta-m0-p05-v111
-[Shiva](śiva) [in-pot-of-Shiva-water](śiva+udaka+kuṃbha+stha) [Kushika](kauśika) [from-left](vāmataḥ) [auspicious](śubha)
+Shiva (śivaḥ) Shiva-water-pot-situated (śiva+udaka+kuṃbha+sthaḥ) Kushika (kauśikaḥ) left (vāmataḥ) auspicious (śubhaḥ)
 
 ## mukta-m0-p05-v112
-[loose-hair](mukta+keśa) [throwing](parākṣepa) [alkali](kṣāra) [charcoal](aṅgāra) [and](ca) [wood](dāru) [and](ca)
+loose-haired (mukta+keśaḥ) throwing (parākṣepaḥ) alkali (kṣāraḥ) charcoal (aṅgāraḥ) and (ca) wood (dāru) and (ca)
 
 ## mukta-m0-p05-v113
-[mutilated-limb](chinna+aṅga) [eyeless](alocana) [diseased](rogī) [skull-bearer](kapālī) [earthquake](bhū+prakampana)
+cut-limbed (chinna+aṅgaḥ) eyeless (alocanaḥ) sick (rogī) skull-bearer (kapālī) earth-tremor (bhū+prakampanaḥ)
 
 ## mukta-m0-p05-v114
-[hunger](kṣut) [emaciated](kṣāma) [mad](unmattaka) [thread](tantu) [and](ca) [collection-of-herbs-and-grains](auṣadhī+ṣaṇa+sañcaya)
+hunger-thirst-mad (kṣut+kṣāmā+unmattakau) thread (tantuḥ) and (ca) herb-seed-collection (oṣadhī+ṣaṇa+sañcayaḥ)
 
 ## mukta-m0-p05-v115
-[half-of-half-month](pakṣa+ardha+ardham) [but](tu) [abandoning](saṃtyajya) [departure](prasthānam) [is-done](kriyate) [in-auspicious](śubhe)
+half-half-fortnight (pakṣa+ardha+ardham) but (tu) abandoning (saṃtyajya) departure (prasthānam) done (kriyate) in-auspicious (śubhe)
 
 ## mukta-m0-p05-v116
-[for-Veda](vedase) [may-be](syāt) [in-wealth](vite) [gone](yātā) [but](tu) [not-crossing-fire-stick](agni+daṇḍa+anatikramāt)
+for-Veda (vedase) maybe-two (syād+vite) travelers (yātāḥ) but (tu) fire-stick-not-crossing (agni+daṇḍa+anatikramāt)
 
 ## mukta-m0-p05-v117
-[at-beginning-of-desired](iṣṭa+ādau) [Shankara](śaṅkaram) [praised](śastam) [eastern-Ishana-moon-forest](prāg+īśa+indu+vanam) [should-go](vrajet)
+desired-beginning (iṣṭa+ādau) Shankara (śaṅkaram) auspicious (śastam) east-Isha-moon-forest (prāg+īśa+indu+vanam) go (vrajet)
 
 ## mukta-m0-p05-v118
-[Mercury](budha) [Sun](arka) [Moon](indu) [in-Venus](site) [in-Jupiter](jīve) [in-tree](vārkṣe) [situated-northeast](prāg+uttara+sthite)
+Mercury-Sun-Moon-Venus (budha+arka+indu+site) Jupiter (jīve) in-tree (vārkṣe) east-north-situated (prāg+uttara+sthite)
 
 ## mukta-m0-p05-v119
-[in-alternate](ekāntarāsu) [stars](tārāsu) [in-remainder](śeṣe) [and](ca) [inauspicious-action](aniṣṭa+karmaṇi)
+one-interval (eka+antarāsu) stars (tārāsu) remainder (śeṣe) and (ca) inauspicious-action (aniṣṭa+karmaṇi)
 
 ## mukta-m0-p05-v120
-[Nishadha](niṣadha) [called-blue-scented](nīla+gandha+ākhya) [Shangi](śaṅgī) [Ketu](ketu) [mountain-lords](nagādhipāḥ)
+Nishadha (niṣadhaḥ) blue-gandha-named (nīla+gandha+ākhyaḥ) Shankha-banner (śaṅkha+keturna?) mountain-lord (naga+adhipāḥ)
 
 ## mukta-m0-p05-v121
-[called-Nanda](nanda+ākhya) [Malaya](malaya) [Vindhya](vindhya) [Ujjayanta](ujjayanta) [then](atha) [Rikshaka](ṛkṣaka)
+Nanda-named (nanda+ākhyaḥ) Malaya (malayaḥ) Vindhya (vindhyaḥ) Ujjayanta (ujjayantaḥ) then (atha) Rikshaka (ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[yojanas](yojanāni) [ten](daśa) [of-these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
+yojanas (yojanāni) ten (daśa) of-these (eteṣām) mountains (girīṇām) near (nikaṭe) forest (vanam)
 
 ## mukta-m0-p05-v123
-[arisen-from-this-field](etat+kṣetra+utthitā) [those](ye) [but](tu) [stones](pāṣāṇāḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
+this-field-born (etat+kṣetra+utthitāḥ) those (ye) but (tu) stones-trees (pāṣāṇāḥ+taravaḥ) auspicious (śubhāḥ)
 
 ## mukta-m0-p05-v124
-[with-teacher](sa+ācārya) [practitioner](sādhaka) [by-artisans](śilpi+janaiḥ) [surrounded](parivata) [by-auspicious](śubhaiḥ)
+with-teacher (sa+ācāryaḥ) practitioner (sādhakaḥ) artisan-people (śilpi+janaiḥ) surrounded (parivataḥ) auspicious (śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[having-meditated](dhyātvā) [below](adhaḥ) [natural](prākṛtam) [principle](tattvam) [consisting-of-Shiva-principle](śiva+tattva+mayīm) [earth](mahīm)
+meditating (dhyātvā) below (adhaḥ) material-principle (prākṛtam) tattva (tattvam) Shiva-principle-made (śiva+tattva+mayīm) earth (mahīm)

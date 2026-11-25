@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-prāvrājyāt(from-asceticism) naśyate(perishes) pūrvaṃ(first) strī-yogāt(from-union-with-woman) aparaṃ(then) tathā(thus)
+from-asceticism-perishes [variant-becomes-corrupt](prāvrājyānnaśyate [mū, a, kh: duṣyate]) first(pūrvaṃ) from-woman-union(aparaṃ) thus(tathā)
 
 ## mukta-m0-p10-v227
-tri-karṇa-utthāḥ(three-eared-born) tri-karṇāḥ(three-eared) ca(and) tri-kapāna-ātma(three-skulled-self) karṇakā(ear-ones)
+three-ear-born(trikarṇotthāḥ) three-ears(trikarṇāḥ) and(ca) three-skull-self(trikapānātma) [variant: three-ear-but-three](trikarṇastu tri) ear-born(karṇakā)
 
 ## mukta-m0-p10-v228
-bhasma-aṅkuraḥ(ash-sprout) tu(indeed) kattha-osthaḥ(praise-lip) tat-sutāḥ(its-sons) kauśika-ādayaḥ(kushika-and-others)
+ash-sprout(bhasmāṅkuraḥ) [variant: teacher](gurustu) katthostha-born(katthosthastatsutāḥ) kauśika-etc(kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-rāṣṭra-kṣaya-karāḥ(kingdom-destruction-makers) hi(indeed) ete(these) ye(who) ca(and) paṣāṇḍinaḥ(heretics) narāḥ(men)
+kingdom-destruction-causing(rāṣṭrakṣayakarāḥ) indeed(hyete) and(ye) ca(paṣāṇḍino) men(narāḥ)
 
 ## mukta-m0-p10-v230
-śāstra-avalokanāt(by-scripture-inspection) eva(only) caṇḍeśaḥ(candesha) tasya(his) śāsakaḥ(ruler)
+by-scripture-view(śāstrāvalokanāt) eva(eva) caṇḍeśa(caṇḍeśaḥ) his(tasya) ruler(śāsakaḥ)
 
 ## mukta-m0-p10-v231
-sa(he) yāti(goes) narakaṃ(hell) sadyaḥ(immediately) yājñikaiḥ(with-sacrificers) saha(with) daiśikaḥ(teacher)
+he(sa) goes(yāti) to-hell(narakaṃ) immediately(sadyo) with-sacrificers(yājñikaiḥ) with-teachers(saha) with-guide(daiśikaḥ)
 
 ## mukta-m0-p10-v232
-teṣām(of-them) ācaraṇāt(by-conduct) nityam(always) ācāryaḥ(teacher) iti(thus) kīrtyate(is-called)
+by-their-conduct(teṣāmācaraṇāt) always(nityam) teacher(ācārya) thus(iti) is-called(kīrtyate)
 
 ## mukta-m0-p10-v233
-tasmāt(therefore) na(not) mānavīm(human) buddhim(intellect) kārayet(should-make) daiśikaṃ(towards-teacher) prati(towards)
+therefore(tasmāt) not(na) human(mānavīṃ) mind(buddhiṃ) make(kārayet) toward-guide(daiśikaṃ) prati(prati)
 
 ## mukta-m0-p10-v234
-pañca-vaktrāṇi(five-faces) devasya(of-god) pañca-āgama-vivṛddhaye(for-five-agama-growth)
+five-faces(pañcavaktrāṇi) of-god(devasya) for-five-āgama-growth(pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-dīptaṃ(blazing) sūkṣmaṃ(subtle) ca(and) sāhasram(thousand) aṃśuma(ray) su-prabhaṃ(well-shining) daśa(ten)
+blazing(dīptaṃ) subtle(sūkṣmaṃ) and(ca) thousand(sāhasram) ray(aṃśuma) [variant: breath](asumat) very-bright(suprabhaṃ) ten(daśa)
 
 ## mukta-m0-p10-v236
-vijayaṃ(victory) pāra-maiśvaryam(supreme-lordship) niśvāsa-udgīta-saṃjñakam(breath-song-named)
+victory(vijayaṃ) supreme-lordship(pāramaiśvaryaṃ) named(niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-narasiṃhaṃ(narasimha) candra-hāsaṃ(moon-laugh) vīraṃ(vira) svāyambhu-rauravam(swayambhu-raurava)
+narasiṃha(narasiṃhaṃ) moon-laugh(candrahāsaṃ) hero(vīraṃ) svāyambhu(svāyambhu) raurava(rauravam) [variant: rocanam](rocanam)
 
 ## mukta-m0-p10-v238
-rudra-bhedāḥ(rudra-divisions) samākhyātāḥ(declared) daśa-aṣṭādaśa(ten-eighteen) ca(and) ūrdhva-gāḥ(upward-going)
+([cāpacinhāntargato'yaṃ pāṭhaḥ ka pustake nāsti] rudra-divisions(rudrabhedāḥ) declared(samākhyātā) ten-eighteen-or-upward(daśāṣṭādaśa) upward-gone(cordhvagāḥ)
 
 ## mukta-m0-p10-v239
-pañca-bhūta(pañca-bhuta) vibhāgaṃ(divisions) ca(and) śūnya-bheda(void-division) vinirṇayam(determination)
+five-elements [variant: five-nectars](pañcabhūta [mū, a: pañcāmṛta]) division(vibhāgaṃ) ca(ca) void-division [variant: -mad](śūnyabheda [kh: -mada]) determination(vinirṇayam)
 
 ## mukta-m0-p10-v240
-kambojaṃ(kamboja) kambalaṃ(kambala) kaṅkaṃ(kanka) kāla-kuṇḍaṃ(kala-kunda) kaṭāhakam(katahaka)
+kamboja(kambojaṃ) kambala(kambalaṃ) kaṅka(kaṅkaṃ) kālakuṇḍa(kālakuṇḍaṃ) kaṭāhaka(kaṭāhakam)
 
 ## mukta-m0-p10-v241
-gāruḍasya(of-garuda) tu(indeed) ime(these) bhedāḥ(divisions) aṣṭāviṃśatiḥ(twenty-eight) īritāḥ(stated)
+of-gāruḍa(gāruḍasya) indeed(tvime) divisions(bhedāḥ) twenty-eight(aṣṭāviṃśatir) declared(īritāḥ)
 
 ## mukta-m0-p10-v242
-asitāṅgaṃ(asitanga) ruruṃ(ruru) caiva(and-indeed) kapālīśaṃ(kapalisha) samuccayam(collection)
+asitāṅga(asitāṅgaṃ) ruru(ruruṃ) and(ca) eva(eva) kapālīśa(kapālīśaṃ) collection(samuccayam)
 
 ## mukta-m0-p10-v243
-bhīmāṅgaṃ(bhimanga) ḍāmarārāvaṃ(damararava) bhīmaṃ(bhima) vetāla-mardakam(vetalamardaka)
+bhīmāṅga(bhīmāṅgaṃ) ḍāmarārāva [variant: -rāga](ḍāmarārāvaṃ [kh: -rāgaṃ]) bhīma(bhīmaṃ) vetālamardaka(vetālamardakam)
 
 ## mukta-m0-p10-v244
-triśiraṃ(trishira) ca(and) eka-pādaṃ(eka-pada) tu(indeed) siddha-yogeśvarī-matam(siddha-yogeshvari-opinion)
+triśira(triśiraṃ) and(ca) ekapāda(ekapādaṃ) tu(tu) siddhayogeśvarīmatam(siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-viśvarikaṇṭha(vishvarikantha) saṅkocaṃ(sankoca) tilaka-udyāna-bhairavam(tilaka-udyanabhairava)
+viśvarikaṇṭha [variant: vikaṇṭha; jhaṅkāra](viśvarikaṇṭha saṅkocaṃ [mū: vikaṇṭha; kh: jhaṅkāra]) tilakodyāna-bhairava(tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-catuḥ-ṣaṣṭi-pramāṇāni(sixty-four-measures) dakṣiṇa-āsya-āt(from-south-face) bhavāni(ca) ca(and)
+sixty-four(catuḥ ṣaṣṭipramāṇāni) from-southern-face(dakṣiṇāsyādbhavāni) and(ca)
 
 ## mukta-m0-p10-v247
-kara-pūjā-vidhānaṃ(hand-worship-rite) tu(indeed) vīṇā-tantraṃ(vina-tantra) tat-uttaram(its-after)
+hand-worship-rite(karapūjāvidhānaṃ) tu(tu) vīṇā-tantra(vīṇātantraṃ) that-uttara(taduttaram)
 
 ## mukta-m0-p10-v248
-siddha-nitya-udayaṃ(siddha-eternal-rise) jyeṣṭhaṃ(jyeshtha) cintāmaṇi-mahodayam(cintamani-great-rise)
+siddha-nitya-udaya(siddhanityodayaṃ) jyeṣṭha(jyeṣṭhaṃ) cintāmaṇi-mahodaya(cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-ānanda-rudra-bhadra-ākhyaṃ(ananda-rudra-bhadra-named) kiṅkaraṃ(kinkara) kiṅkara-anugam(kinkara-follower)
+ānanda-rudra-bhadra-named(ānandarudrabhadrākhyaṃ) [variant: bhadrākṣe](bhadrākṣe) kiṅkara(kiṅkaraṃ) kiṅkara-anuga(kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-vāmadaṃ(vamada) vāmadeva-uktaṃ(vamadeva-spoken) catur-viṃśati-bhedagam(twenty-four-division-going)
+vāmada(vāmadaṃ) vāmadeva-spoken(vāmadevoktaṃ) [variant: devotthaṃ](devotthaṃ) twenty-four-division-gone(caturviṃśatibhedagam) [variant: bhedajam](bhedajam)

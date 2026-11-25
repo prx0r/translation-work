@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[granthi-form](granthirūpa) [elevated-granthi](unnatagranthi) [belly-disease-giving](jaṭharāmayadāyaka)
+granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka
 
 ## mukta-m0-p21-v502
-[frost](tuṣāraṃ) [that-know](tadvijānīyā) [son-grief-pain-giving](putraśokārtidāyakam)
+tuṣāra-tad-vijānīya-putra-śoka-ārti-dāyaka
 
 ## mukta-m0-p21-v503
-[gold-sound-disease](hemaghoṣāmayaṃ) [copper](tāmra) [that-corrupt](tadduṣṭaṃ) [piṅgalā-mind](piṅgalāmate)
+hema-ghoṣā-maya-tāmra-tad-duṣṭa-piṅgalā-mate
 
 ## mukta-m0-p21-v504
-[people](janaṃ) [kills](hantyāyasākrāntā) [stone](śilā) [that-copper-and](tāmī+ca) [artisan](śilpinam)
+jana-hanty-āyasa-ākrāntā-śilā-tāmī-ca-śilpinam
 
 ## mukta-m0-p21-v505
-[black](kṛṣṇaḥ) [yellow](pīto) [red](aruṇo) [dot](binduḥ) [that-grief-fear-disease-giving](sa+śokabhayarogadaḥ)
+kṛṣṇa-pīta-aruṇa-bindu-śoka-bhaya-roga-da
 
 ## mukta-m0-p21-v506
-[yellow](pīte) [wealth-loss](dhanakṣayaḥ) [maker](kartuḥ) [black](kṛṣṇe) [bondage](bandho) [both-two-fold](dvayordvidhā)
+pīte-dhana-kṣaya-kartuḥ-kṛṣṇe-bandho-dvayoḥ-dvidhā
 
 ## mukta-m0-p21-v507
-[line](rekhā) [line-pierced-or](rekhānubiddhā+vā) [earthly](pārthivaṃ) [that-destroys](sā+vināśayet)
+rekhā-rekhā-anubiddhā-vā-pārthiva-sā-vināśayet
 
 ## mukta-m0-p21-v508
-[owner-killing](svāmidhnī) [and](ca) [four-cut](catuśchinnā) [many-cut](bahucchinnā) [family-end-making](kulāntakṛt)
+svāmidhnī-ca-catuḥ-chinnā-bahu-chinnā-kula-anta-kṛt
 
 ## mukta-m0-p21-v509
-[fly](makṣikā) [fly-shaped](makṣikākārā) [by-that](tayā) [leprosy](kuṣṭhaṃ) [very-terrible](sudāruṇam)
+makṣikā-makṣikā-ākārā-tayā-kuṣṭha-sudāruṇam
 
 ## mukta-m0-p21-v510
-[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [maker-and-certainly](kartuścaiva+na+saṃśayaḥ)
+tadā-nānā-gadān-kuryāt-kartuḥ-ca-eva-na-saṃśayaḥ
 
 ## mukta-m0-p21-v511
-[abandonable](tyājyaṃ) [then](tadā) [three-mark](tridhā+liṅgaṃ) [king-realm-subject-desiring](nṛparāṣṭraprajārthinā)
+tyājyaṃ-tadā-tridhā-liṅgaṃ-nṛpa-rāṣṭra-prajā-arthinā
 
 ## mukta-m0-p21-v512
-[left-side-residing](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [kills](dhanyādrāṣṭraṃ) [with-king](sarājakam)
+vāma-pārśva-āśritaḥ-kiṃcit-hanyāt-rāṣṭraṃ-sa-rājakam
 
 ## mukta-m0-p21-v513
-[all-colors](sarvavarṇā) [very](bhṛśaṃ) [certainly](nūnaṃ) [life-taking](prāṇahṛt) [black-fear](kṛṣṇahīrikā)
+sarva-varṇā-bhṛśaṃ-nūnaṃ-prāṇa-hṛt-kṛṣṇa-hīrikā
 
 ## mukta-m0-p21-v514
-[elevated](unnato) [seen](lakṣyate) [who-and](yaśca) [cat-foot](viḍālāṅghriḥ) [that-fault-bearing](sa+doṣabhāk)
+unnato-lakṣyate-yaśca-viḍāla-aṅghriḥ-sa-doṣa-bhāk
 
 ## mukta-m0-p21-v515
-[of-stone](śilāyā) [form](rūpam) [observing](ālakṣya) [abandon](tyajet) [that-inauspicious-giving](tāmaśubhapradām)
+śilāyā-rūpam-ālakṣya-tyajet-tām-aśubha-pradām
 
 ## mukta-m0-p21-v516
-[small-faults](svalpadoṣān) [will-tell](prakṣyāmi) [as](yathā) [in-scriptures](śāstreṣu) [spoken](bhāṣitān)
+svalpa-doṣān-prakṣyāmi-yathā-śāstreṣu-bhāṣitān
 
 ## mukta-m0-p21-v517
-[ant-hill-born](valmīkoṣaracityutthā) [warm](koṣṇā) [alkaline-water-middle-residing](kṣārāmbumadhyagā)
+valmīka-uṣara-cityutthā-koṣṇā-kṣāra-ambu-madhyagā
 
 ## mukta-m0-p21-v518
-[bad-place-residing](kudiksthā) [sun-heated](sūryasantaptā) [bitter-born](kadutthā) [methy-undefiled](methyadūṣitā)
+kudik-sthā-sūrya-santaptā-kadutthā-methyadūṣitā
 
 ## mukta-m0-p21-v519
-[corrupt-life-sound](duṣṭajīvasvarā) [who-and](yā+ca) [joined](yojitā) [not-other-work](nānyakarmaṇi)
+duṣṭa-jīva-svarā-yā-ca-yojitā-na-anyakarmaṇi
 
 ## mukta-m0-p21-v520
-[who](yā) [stone-clinging](yopalānulagnā) [that](sā) [fat-disruption-making](snehavicchittikārikāḥ)
+yā-yopalā-anulagnā-sā-sneha-vicchitti-kārikāḥ
 
 ## mukta-m0-p21-v521
-[salt-place-residing](ūṣarasthā) [wealth-heart-knowable](rthahṛjjñeyā) [cit-place-residing](citisthā) [sorrow-giving](duḥkhadāyinī)
+ūṣara-sthā-arthahṛt-jñeyā-citi-sthā-duḥkha-dāyinī
 
 ## mukta-m0-p21-v522
-[stone-impure-place-residing](pāṣadāpuṇyadeśasthā) [killing-making](vadhakṛt) [bhillā](bhilla) [served](sevitā)
+pāṣadā-puṇya-deśa-sthā-vadha-kṛt-bhilla-sevitā
 
 ## mukta-m0-p21-v523
-[burning](dāhaṃ) [loss](hāniṃ) [and](ca) [grief](śokaṃ) [and](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus](tathā) [brings](vahet)
+dāha-hāni-ca-śoka-ca-naiḥsva-roga-tathā-vahet
 
 ## mukta-m0-p21-v524
-[liquor-smell](surāpakṣivasāgandhā) [agitation-causing](udvegajananī) [stone](śilā)
+surā-pakṣi-vasā-gandhā-udvega-jananī-śilā
 
 ## mukta-m0-p21-v525
-[diamond-burned](vajradagdhā) [fire-burned](agnidagdhā) [and](ca) [king](rājño) [fire-fear-giving](analabhayapradā)
+vajra-dagdhā-agni-dagdhā-ca-rājño-anala-bhaya-pradā
