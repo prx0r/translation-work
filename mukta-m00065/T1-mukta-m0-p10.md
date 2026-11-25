@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[pada](prāvrājyānnaśyate) [pada](pūrvaṃ) [pada](strīyogādaparaṃ) [pada](tathā)
+[prāvrājya+naśyate](prāvrājyānnaśyate) [pūrvam](pūrvaṃ) [strī+yoga+aparam](strīyogādaparaṃ) [tathā](tathā)
 
 ## mukta-m0-p10-v227
-[pada](trikarṇotthāstrikarṇāśca) [pada](trikapānātma) [pada](karṇakā)
+[tri+karṇa+uttha](trikarṇotthāstrikarṇāśca) [tri+karṇa](trikarṇāśca) [tri+kapāna+ātma](trikapānātma) [karṇakā](karṇakā)
 
 ## mukta-m0-p10-v228
-[pada](bhasmāṅkurastu) [pada](katthosthastatsutāḥ) [pada](kauśikādayaḥ)
+[bhasma+aṅkura](bhasmāṅkurastu) [kattha+ostha](katthosthastatsutāḥ) [tat+sutāḥ](tatsutāḥ) [kauśika+ādayaḥ](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[pada](rāṣṭrakṣayakarā) [pada](hyete) [pada](ye) [pada](ca) [pada](paṣāṇḍino) [pada](narāḥ)
+[rāṣṭra+kṣaya+kara](rāṣṭrakṣayakarā) [hi+ete](hyete) [ye+ca](ye) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
 
 ## mukta-m0-p10-v230
-[pada](śāstrāvalokanādeva) [pada](caṇḍeśastasya) [pada](śāsakaḥ)
+[śāstra+avalokanāt+eva](śāstrāvalokanādeva) [caṇḍeśaḥ](caṇḍeśastasya) [tasya](tasya) [śāsakaḥ](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[pada](sa) [pada](yāti) [pada](narakaṃ) [pada](sadyo) [pada](yājñikaiḥ) [pada](saha) [pada](daiśikaḥ)
+[sa](sa) [yāti](yāti) [narakaṃ](narakaṃ) [sadyaḥ](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[pada](teṣāmācaraṇānnityamācārya) [pada](iti) [pada](kīrtyate)
+[teṣām](teṣāmācaraṇānnityamācārya) [ācaraṇāt](ācaraṇāt) [nityam](nityam) [ācāryaḥ](ācārya) [iti](iti) [kīrtyate](kīrtyate)
 
 ## mukta-m0-p10-v233
-[pada](tasmānna) [pada](mānavīṃ) [pada](buddhiṃ) [pada](kārayeddaiśikaṃ) [pada](prati)
+[tasmāt](tasmānna) [na](na) [mānavīm](mānavīṃ) [buddhim](buddhiṃ) [kārayet](kārayeddaiśikaṃ) [daiśikaṃ](daiśikaṃ) [prati](prati)
 
 ## mukta-m0-p10-v234
-[pada](pañcavaktrāṇi) [pada](devasya) [pada](pañcāgamavivṛddhaye)
+[pañca+vaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañca+āgama+vivṛddhaye](pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-[pada](dīptaṃ) [pada](sūkṣmaṃ) [pada](ca) [pada](sāhasramaṃśuma) [pada](tsuprabhaṃ) [pada](daśa)
+[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasramaṃśuma) [aṃśuma](aṃśuma) [suprabhaṃ](tsuprabhaṃ) [daśa](daśa)
 
 ## mukta-m0-p10-v236
-[pada](vijayaṃ) [pada](pāramaiśvaryaṃ) [pada](niśvāsodgītasaṃjñakam)
+[vijayaṃ](vijayaṃ) [pāram+aiśvaryaṃ](pāramaiśvaryaṃ) [niśvāsa+udgīta+saṃjñakam](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-[pada](narasiṃhaṃ) [pada](candrahāsaṃ) [pada](vīraṃ) [pada](svāyambhurauravam)
+[narasiṃhaṃ](narasiṃhaṃ) [candrahāsaṃ](candrahāsaṃ) [vīraṃ](vīraṃ) [svāyambhu](svāyambhurauravam) [rauravaṃ](rauravam)
 
 ## mukta-m0-p10-v238
-[pada](rudrabhedāḥ) [pada](samākhyātā) [pada](daśāṣṭādaśa) [pada](cordhvagāḥ)
+[rudra+bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśa+aṣṭādaśa](daśāṣṭādaśa) [ca](ca) [ūrdhvagāḥ](ūrdhvagāḥ)
 
 ## mukta-m0-p10-v239
-[pada](pañcabhūta) [pada](vibhāgaṃ) [pada](ca) [pada](śūnyabheda) [pada](vinirṇayam)
+[pañca+bhūta](pañcabhūta) [vibhāgaṃ](vibhāgaṃ) [ca](ca) [śūnya+bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[pada](kambojaṃ) [pada](kambalaṃ) [pada](kaṅkaṃ) [pada](kālakuṇḍaṃ) [pada](kaṭāhakam)
+[kambojaṃ](kambojaṃ) [kambalaṃ](kambalaṃ) [kaṅkaṃ](kaṅkaṃ) [kālakuṇḍaṃ](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[pada](gāruḍasya) [pada](tvime) [pada](bhedā) [pada](aṣṭāviṃśatirīritāḥ)
+[gāruḍasya](gāruḍasya) [tu](tu) [ime](ime) [bhedāḥ](bhedā) [aṣṭāviṃśatiḥ](aṣṭāviṃśatirīritāḥ) [īritāḥ](īritāḥ)
 
 ## mukta-m0-p10-v242
-[pada](asitāṅgaṃ) [pada](ruruṃ) [pada](caiva) [pada](kapālīśaṃ) [pada](samuccayam)
+[asitāṅgaṃ](asitāṅgaṃ) [ruruṃ](ruruṃ) [ca+eva](caiva) [kapālīśaṃ](kapālīśaṃ) [samuccayam](samuccayam)
 
 ## mukta-m0-p10-v243
-[pada](bhīmāṅgaṃ) [pada](ḍāmarārāvaṃ) [pada](bhīmaṃ) [pada](vetālamardakam)
+[bhīmāṅgaṃ](bhīmāṅgaṃ) [ḍāmarārāvaṃ](ḍāmarārāvaṃ) [bhīmaṃ](bhīmaṃ) [vetāla+mardakam](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[pada](triśiraṃ) [pada](caikapādaṃ) [pada](tu) [pada](siddhayogeśvarīmatam)
+[triśiraṃ](triśiraṃ) [ca](ca) [ekapādaṃ](ekapādaṃ) [tu](tu) [siddha+yogeśvarī+matam](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[pada](viśvarikaṇṭha) [pada](saṅkocaṃ) [pada](tilakodyānabhairavam)
+[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](saṅkocaṃ) [tilaka+udyāna+bhairavaṃ](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-[pada](catuḥ) [pada](ṣaṣṭipramāṇāni) [pada](dakṣiṇāsyādbhavāni) [pada](ca)
+[catuḥ+ṣaṣṭi+pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa+āsya+adbhavāni](dakṣiṇāsyādbhavāni) [ca](ca)
 
 ## mukta-m0-p10-v247
-[pada](karapūjāvidhānaṃ) [pada](tu) [pada](vīṇātantraṃ) [pada](taduttaram)
+[kara+pūjā+vidhānaṃ](karapūjāvidhānaṃ) [tu](tu) [vīṇā+tantraṃ](vīṇātantraṃ) [tat+uttaram](taduttaram)
 
 ## mukta-m0-p10-v248
-[pada](siddhanityodayaṃ) [pada](jyeṣṭhaṃ) [pada](cintāmaṇimahodayam)
+[siddha+nitya+udayaṃ](siddhanityodayaṃ) [jyeṣṭhaṃ](jyeṣṭhaṃ) [cintāmaṇi+mahodayam](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[pada](ānandarudrabhadrākhyaṃ) [pada](kiṅkaraṃ) [pada](kiṅkarānugam)
+[ānanda+rudra+bhadra+ākhyaṃ](ānandarudrabhadrākhyaṃ) [kiṅkaraṃ](kiṅkaraṃ) [kiṅkara+anugam](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[pada](vāmadaṃ) [pada](vāmadevoktaṃ) [pada](caturviṃśatibhedagam)
+[vāmadaṃ](vāmadaṃ) [vāmadeva+uktaṃ](vāmadevoktaṃ) [caturviṃśati+bheda+gam](caturviṃśatibhedagam)

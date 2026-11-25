@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-karoṭaṃ (skull-bowl) muṇḍamālaṃ (garland-of-skulls) ca (and) kaṅkoṭaṃ (hook) khaḍgarāvaṇam (sword-roar)
+[skull-bowl](karoṭaṃ) [garland-of-skulls](muṇḍamālaṃ) [and](ca) [kaṅkoṭa](kaṅkoṭaṃ) [sword-roar](khaḍgarāvaṇam)
 
 ## mukta-m0-p11-v252
-ghorāṭṭahāsamucchiṣṭaṃ (terrifying-laugh-leftover) ghurghuraṃ (growling) duṣṭatrāsakam (wicked-frightening)
+[terrible-laugh-remainder](ghorāṭṭahāsamucchiṣṭaṃ) [ghurghura](ghurghuraṃ) [evil-frightening](duṣṭatrāsakam)
 
 ## mukta-m0-p11-v253
-yamaghaṇṭaṃ (yama-bell) ca (and) bhūtāhvaṃ (bhuta-invocation) viṣabhedamajātajam (poison-division-unborn-born)
+[yama-bell](yamaghaṇṭaṃ) [and](ca) [bhūta-invocation](bhūtāhvaṃ) [poison-difference-unborn-born](viṣabhedamajātajam)
 
 ## mukta-m0-p11-v254
-punarlakṣavibhedana (again-lakh-division) grabhinnaḥ (grabbed) śāstrasaṅgrahaḥ (scripture-collection)
+[again-lakṣa-division](punarlakṣavibhedana) [grabhinnaḥ](grabhinnaḥ) [scripture-collection](śāstrasaṅgrahaḥ)
 
 ## mukta-m0-p11-v255
-ṛṣibhyo (from-sages) mānuṣāḥ (humans) śiṣyāḥ (disciples) sarvaśāstrāvatārakāḥ (all-scripture-descenders)
+[from-sages](ṛṣibhyo) [humans](mānuṣāḥ) [disciples](śiṣyāḥ) [all-scripture-descenders](sarvaśāstrāvatārakāḥ)
 
 ## mukta-m0-p11-v256
-iti (thus) sāmayikaṃ (conventional) proktaṃ (stated) śambhunāgamapañcakam (five-Shiva-snake)
+[thus](iti) [conventional](sāmayikaṃ) [spoken](proktaṃ) [five-of-śambhu-nāga](śambhunāgamapañcakam)
 
 ## mukta-m0-p11-v257
-ekatrabhojanaṃ (single-place-eating) ghore (in-terrible) vāme (left) vāmāmṛtaṃ (left-nectar) tathā (likewise)
+[single-place-eating](ekatrabhojanaṃ) [in-terrible](ghore) [left](vāme) [left-nectar](vāmāmṛtaṃ) [and-so](tathā)
 
 ## mukta-m0-p11-v258
-ācaret (should-practice) samayān (conventions) pañca (five) yaḥ (who) sa (he) ācārya (teacher) ucyate (called)
+[should-practice](ācaret) [conventions](samayān) [five](pañca) [who](yaḥ) [he](sa) [teacher](ācārya) [is-called](ucyate)
 
 ## mukta-m0-p11-v259
-tadavaśyaṃ (that-necessarily) hi (indeed) kartavyamanyathā (must-be-done-otherwise) patanaṃ (fall) bhavet (would-be)
+[that-necessarily](tadavaśyaṃ) [indeed](hi) [to-be-done](kartavyam) [otherwise](anyathā) [fall](patanaṃ) [would-be](bhavet)
 
 ## mukta-m0-p11-v260
-ṣaṭkarmāṇi (six-acts) tu (indeed) kāryāṇi (to-be-done) śivācāryeṇa (by-Shiva-teacher) no (not) paraiḥ (by-others)
+[six-acts](ṣaṭkarmāṇi) [but](tu) [to-be-done](kāryāṇi) [by-śiva-teacher](śivācāryeṇa) [not](no) [by-others](paraiḥ)
 
 ## mukta-m0-p11-v261
-dīkṣāṃ (initiation) ca (and) sthāpanaṃ (installation) ceti (etc) ṣaṭkarmāṇi (six-acts) sadā (always) guroḥ (of-teacher)
+[initiation](dīkṣāṃ) [and](ca) [installation](sthāpanaṃ) [and-so](ceti) [six-acts](ṣaṭkarmāṇi) [always](sadā) [of-teacher](guroḥ)
 
 ## mukta-m0-p11-v262
-krośān (krosas) pañca (five) parityajya (abandoning) gurvādeśāttadācaret (by-teacher-command-then-practice)
+[krośas](krośān) [five](pañca) [abandoning](parityajya) [by-teacher's-command](gurvādeśāt) [then-should-practice](tadācaret)
 
 ## mukta-m0-p11-v263
-sādhakaḥ (practitioner) sādhayetsiddhirācāryo (should-accomplish-siddhi-teacher) dīkṣayetpaśūn (should-initiate-beasts)
+[practitioner](sādhakaḥ) [should-accomplish](sādhayet) [accomplishment-teacher](siddhirācāryo) [should-initiate](dīkṣayet) [beasts](paśūn)
 
 ## mukta-m0-p11-v264
-pratiṣṭhādikriyā (installation-etc-rite) tasya (of-him) na (not) pāṭhādagra (from-recitation-first) janmanaḥ (birth)
+[installation-etc-rite](pratiṣṭhādikriyā) [of-him](tasya) [not](na) [from-recitation-first](pāṭhādagra) [birth](janmanaḥ)
 
 ## mukta-m0-p11-v265
-yuktiḥ (reasoning) saṃsūcyate (indicated) kācidyā (some-which) coktā (stated) pārameśvare (in-Parameshvara)
+[method](yuktiḥ) [is-indicated](saṃsūcyate) [some](kācid) [which](yā) [is-spoken](coktā) [in-supreme-lord-text](pārameśvare)
 
 ## mukta-m0-p11-v266
-nāśmādau (not-in-stone-first) śivatā (Shiva-ness) tatra (there) hyāṃśave (indeed-in-ray) dūrataḥ (far) śivaḥ (Shiva)
+[not-in-stone-etc](nāśmādau) [śiva-ness](śivatā) [there](tatra) [indeed](hi) [in-ray](āṃśave) [far](dūrataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p11-v267
-cāṇḍālo'sāvabhojyānnaḥ (outcaste-that-inedible-food) pātakī (sinner) nātra (no-here) saṃśayaḥ (doubt)
+[outcaste](cāṇḍālo) [that](asau) [whose-food-is-unfit](abhojyānnaḥ) [sinner](pātakī) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v268
-anyagotre (other-gotra) kuśā (kusha) pātānnārakī (fall-hell-dweller) syād (would-be) dvijādhamaḥ (twice-born-lowest)
+[in-other-gotra](anyagotre) [kuśa](kuśā) [fallen](pātāt) [hell-dweller](nārakī) [would-be](syāt) [twice-born-lowest](dvijādhamaḥ)
 
 ## mukta-m0-p11-v269
-liṅgādisthāpakā (linga-etc-establishers) ye (who) ca (and) te (they) cāṇḍālasamā (outcaste-equal) dvijāḥ (twice-born)
+[liṅga-etc-installers](liṅgādisthāpakā) [who](ye) [and](ca) [they](te) [outcaste-equal](cāṇḍālasamā) [twice-born](dvijāḥ)
 
 ## mukta-m0-p11-v270
-mantavyo (to-be-considered) vipravacchūdraḥ (like-brahmin-shudra) śūdrātpāpatarastu (from-shudra-more-sinful-indeed) saḥ (he)
+[to-be-considered](mantavyo) [like-brāhmaṇa](vipravat) [śūdra](śūdraḥ) [than-śūdra](śūdrāt) [more-sinful](pāpataraḥ) [but](tu) [he](saḥ)
 
 ## mukta-m0-p11-v271
-vṛttātsiddhā (from-conduct-siddhas) vasiṣṭhādyā (Vasishtha-etc) vyāsenoktaṃ (by-Vyasa-stated) ca (and) bhārate (in-Bharata)
+[from-conduct](vṛttāt) [accomplished](siddhā) [vasiṣṭha-etc](vasiṣṭhādyā) [by-vyāsa-spoken](vyāsenoktaṃ) [and](ca) [in-bhārata](bhārate)
 
 ## mukta-m0-p11-v272
-narake (in-hell) patati (falls) kṣipraṃ (quickly) kartā (doer) svapitṛbhiḥ (with-own-ancestors) saha (together)
+[in-hell](narake) [falls](patati) [quickly](kṣipraṃ) [doer](kartā) [with-own-ancestors](svapitṛbhiḥ) [together](saha)
 
 ## mukta-m0-p11-v273
-svabrāhmaṇyaṃ (own-brahminhood) gataṃ (gone) teṣāṃ (their) brahmahatyāṃ (brahmin-killing) ca (and) saṃsthitam (established)
+[own-brāhmaṇa-status](svabrāhmaṇyaṃ) [gone](gataṃ) [of-them](teṣāṃ) [brahmin-killing](brahmahatyāṃ) [and](ca) [established](saṃsthitam)
 
 ## mukta-m0-p11-v274
-te (they) krūrā (cruel) dhvaṃsakā (destroyers) jñeyā (to-be-known) yajamānakṣayāvahāḥ (sacrifice-patron-destruction-bringing)
+[they](te) [cruel](krūrā) [destroyers](dhvaṃsakā) [to-be-known](jñeyā) [sacrificer-destruction-bringing](yajamānakṣayāvahāḥ)
 
 ## mukta-m0-p11-v275
-dānārcanādyanarhaḥ (gift-worship-etc-unworthy) syādvinaṣṭā (would-be-destroyed) brāhmaṇī (brahmin-woman) yathā (as)
+[unfit-for-gift-worship-etc](dānārcanādyanarhaḥ) [would-be](syāt) [destroyed](vinaṣṭā) [brāhmaṇī](brāhmaṇī) [as](yathā)
