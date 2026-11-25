@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-thus(atho) he(sa) indeed(eva) clay-lump(mṛtpiṇḍaṃ) potter-hand-turnings(kulālakaravarttanaiḥ)
+then (atho) he (sa) indeed (eva) clay-lump (mṛtpiṇḍaṃ) potter-hand-wheel-by (kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-deep(madhyadeśe) in-middle(gabhīrite) there(tatra) indeed(eva) hollowed(kuharīkṛtaḥ)
+deep (gabhīrite) middle-region (madhyadeśe) there-indeed (tatraiva) hollowed (kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-pot(kuṃbha) thus(ityasya) word(śabdasya) denotation(vācyatām) enters(avagāhate)
+pot (kuṃbha) thus (itya) of-this (asya) word's (śabdasya) denotation (vācyatām) enters (avagāhate)
 
 ## mukta-m0-p54-v1329
-on-ground(bhūmau) shattered(viśīrṇa) all-limbs(sarvāṃgaḥ) potsherd-mass(kāpālaugha) becomes(tvamīhate)
+on-ground (bhūmau) broken (viśīrṇa) all-limbs (sarvāṃgaḥ) potsherd-mass (kāpālaugha) you-desire (tvamīhate)
 
 ## mukta-m0-p54-v1330
-pounded(kuṭṭitaḥ) being(san) breaks(prabhajate) dust-word(dhūliśabdasya) denotation(vācyatām)
+pounded (kuṭṭitaḥ) being (san) breaks (prabhajate) dust-word's (dhūliśabdasya) denotation (vācyatām)
 
 ## mukta-m0-p54-v1331
-shattered(shattered) again(punar) swiftly(vegāt) body(tra) dusthood(sareṇutvam) desires(icchati)
+broken-broken (śīrṇaśīrṇaḥ) again (punar) by-speed (vegāt) limb (gātra) dust-ness (sareṇutvam) desires (icchati)
 
 ## mukta-m0-p54-v1332
-extremely(sūkṣma) subtle(durlakṣā) whirls(ghūrṇate) wind-orb(vāyumaṇḍale)
+extremely (atyaṃta) subtle-hard-to-perceive (sūkṣmadurlakṣā) whirls (ghūrṇate) wind-circle (vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-mutually(anyonya) word-indicated(śabdanirvācyāḥ) those(te) superimpositions(āropāḥ) declared(prakīrttitāḥ)
+mutually-word-unspeakable (anyonyaśabdanirvācyāḥ) those (te) superimpositions (āropāḥ) declared (prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-there(tatra) superimposed-form(āropitarūpatvaṃ) pot-etc(ghaṭādeḥ) causing(kārayan) wise(budhaḥ)
+there-superimposed-form-ness (tatrāropitarūpatvaṃ) pot-etc (ghaṭādeḥ) causing (kārayan) wise (budhaḥ)
 
 ## mukta-m0-p54-v1335
-quality-difference(guṇāntara) conjunction(samāsaṃga) mere(mātrāt) eva(eva) how(kathaṃ) in-clay(mṛdi)
+quality-other-association (guṇāntarasamāsaṃga) measure-only (mātrādeva) how (kathaṃ) in-clay (mṛdi)
 
 ## mukta-m0-p54-v1336
-vain(vṛthā) its(tasya) superimposition(samāropaṃ) vain(vṛthā) its(tasya) again(punar) dissolution(layaḥ)
+vain (vṛthā) his (tasya) superimposition (samāropaṃ) vain (vṛthā) his (tasya) again-dissolution (punarlayaḥ)
 
 ## mukta-m0-p54-v1337
-such(īdṛśā) indeed(eva) quarrels(kalahe) causes(hetavaḥ) shown(pratipāditāḥ)
+such (īdṛśā) indeed (eva) in-dispute (kalahe) causes (hetavaḥ) established (pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-sound-natured(varṇātmakāḥ) indeed(tu) those(ye) words(śabdāḥ) there(tatra) eternality(nityatvam) one(ekakaḥ)
+sound-natured (varṇātmakāḥ) but (tu) those (ye) words (śabdāḥ) there (tatra) eternality (nityatvam) one (ekakaḥ)
 
 ## mukta-m0-p54-v1339
-therefore(ataḥ) grown(vairāṇāṃ) hostile(pravṛddha) disputants(vādinām) boasting(abhivalgatām)
+therefore (ataḥ) increased-hostility (pravṛddhavairāṇāṃ) of-disputants (vādinām) boasting (abhivalgatām)
 
 ## mukta-m0-p54-v1340
-abundant(prabhūtataradarpāṃdhāḥ) pride-blind(pāṇḍitya) planet-evil(grahadurdhiyām)
+excessive-pride-blinded (prabhūtataradarpāṃdhāḥ) scholarship (pāṇḍitya) planet (graha) evil-minded (durdhiyām)
 
 ## mukta-m0-p54-v1341
-that(tad) search-path(gaveṣaṇamārgeṇa) that(tat) same(samāna) concentration(samādhinā)
+that-search-path (tadgaveṣaṇamārgeṇa) that (tat) same (samāna) concentration (samādhinā)
 
 ## mukta-m0-p54-v1342
-contradictory(viruddha) speech(bhāṣaṇe) genus(jāti) refutation(nigraha) place(sthāna) kalpanā(kalpanaiḥ)
+contradictory-speech (viruddhabhāṣaṇe) genus (jāti) refutation (nigraha) place-invention (sthānakalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-afterwards(paścāt) anger(kope) sati(sati) throat-drying(galoccoṣakāraṇa) shouting(ghoṣaṇaiḥ)
+after-anger (paścātkope) being (sati) throat-drying-cause (galoccoṣakāraṇa) shouting (ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-again(punar) by-that(tena) manner(prakāreṇa) hair-pulling(keśākeśi) made(kṛte) battle(raṇe)
+again (punar) by-that (tena) manner (prakāreṇa) hair-pulling (keśākeśi) done (kṛte) battle (raṇe)
 
 ## mukta-m0-p54-v1345
-footed(pādāt) restrained-velocity(saṃvṛtavegānāṃ) disputants(vādināṃ) hatred-house(dveṣaveśmasu)
+from-foot (pādāt) restrained-speed (saṃvṛtavegānāṃ) of-disputants (vādinām) hatred-houses (dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-established(siddhāntitaiḥ) and(ca) pure-mind(svamanaḥśuddhaiḥ) others(anyaiḥ) and(ca) blamed(ninditaiḥ)
+concluded (siddhāntitaiḥ) and (ca) own-mind (svamanaḥ) pure (śuddhaiḥ) others (anyaiḥ) and (ca) blamed (ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-confused(vyāmūḍhān) making(kurvatām) this(eṣa) their(teṣāṃ) path(panthān) uncontrolled(iraṅkuśaḥ)
+confused (vyāmūḍhān) making (kurvatām) this (eṣa) their (teṣāṃ) path (panthān) unchecked (iraṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-proof-blind(pramāṇāṃdhāḥ) sixteen(ṣoḍaśāye) categories(padārthaiḥ) those(taiḥ) great-kali(mahākālīḥ)
+proof-blinded (pramāṇāṃdhāḥ) sixteen (ṣoḍaśāye) categories (padārthaiḥ) those (taiḥ) great-Kali (mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-quarrel(kalahaḥ) only(kevalaṃ) there(tatra) hard-to-end(duḥsamāpa) hundred-autumns(śaracchataiḥ)
+dispute (kalahaḥ) only (kevalaṃ) there (tatra) hard-to-end-autumn-hundreds (duḥsamāpaśaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-arrival-form(saṃprāptirūpo) will-be(bhavitā) then(tadā) left(vāmena) decision(nirṇayaḥ)
+arrival-form (saṃprāptirūpo) will-be (bhavitā) then (tadā) by-left (vāmena) decision (nirṇayaḥ)
