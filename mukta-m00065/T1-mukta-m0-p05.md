@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[thus-of-these](ityeteṣām) [in-absence](abhāve) [but](tu) [mercury](rasendram) [diamond-joined](vajrasaṃyutam)
+[thus](ityeteṣāmabhāve) [but](tu) [mercury](rasendraṃ) [diamond-joined](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-[gavya+sarja+yutaiḥ](gavyasarjayutaiḥ) [and](ca) [indeed](eva) [to-be-smeared](lepyam) [for-color-nourishment](varṇakapuṣṭaye)
+[cow-resin-with](gavyasarjayutaiścaiva) [anoint](lepyaṃ) [color-nourishment-for](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-[sad+vāra+ṛkṣa+ṛtu+yuktena](sadvārarkṣartuyuktena) [hi](hi) [beautifully-adhered](cārulagnasamanvite)
+[good-door-constellation-season-with](sadvārarkṣartuyuktenhi) [beautiful-adhered-together](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-[divine+atmospheric+terrestrial](divyāntarikṣabhaumāni) [for-auspicious-inauspicious-result](śubhāśubhaphalāptaye)
+[divine-sky-earthly](divyāntarikṣabhaumāni) [auspicious-inauspicious-result-for](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-[etc](ityādi) [auspicious-doing-divine](śubhakṛddivyam) [therefore](atas) [inauspicious-doing](aśubhakaram) [but-this](tvidam)
+[thus-etc](ityādi) [auspicious-doing-divine](śubhakṛddivyamato'śubhakaraṃ) [but-this](tvidam)
 
 ## mukta-m0-p05-v106
-[dig+dāha](digdāha) [fierce-wind](tīvravātaḥ) [and](ca) [moon-sun-eclipse](candrasūryopamardanam)
+[dig-burning](digdāhastīvravātaśca) [moon-sun-eclipse](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-[vāsa+tree+tip+standing](vāsavṛkṣāgrasaṃsthāyi) [offering-eating-sweet-sound](balibhuṅmadhurārutiḥ)
+[tree-top-standing](vāsavṛkṣāgrasaṃsthāyi) [offering-sweet-sound](balibhuṅmadhurārutiḥ)
 
 ## mukta-m0-p05-v108
-[dust-blood-raining](pāṃśvasṛgvarṣaṇam) [terrible](ghoram) [celestial](āntarikṣam) [inauspicious](aśobhanam)
+[dust-blood-raining](pāṃśvasṛgvarṣaṇaṃ) [terrible-sky-in-auspicious](ghoramāntarikṣamaśobhanam)
 
 ## mukta-m0-p05-v109
-[curd+akṣata+yava](dadhyakṣatayavā) [dūrvā](dūrvā) [lamp](dīpaḥ) [gorocanā](gorocanā) [banner](dhvajaḥ)
+[curd-akshata-barley](dadhyakṣatayavā) [durva-lamp-gorochana-banner](dūrvā dīpo gorocanā dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[cow-bull](govṛṣaḥ) [and](ca) [donkey](kharaḥ) [horse](vājī) [ash-eyed](bhasmākṣaḥ) [king](bhūpatiḥ) [elephant](dvipaḥ)
+[cow-bull-donkey-horse](govṛṣaśca kharo vājī) [ash-eye-king-elephant](bhasmākṣo bhūpatirdvipaḥ)
 
 ## mukta-m0-p05-v111
-[śiva](śivaḥ) [śiva-water-pot-standing](śivodakuṃbhasthaḥ) [kauśika](kauśikaḥ) [from-left](vāmataḥ) [auspicious](śubhaḥ)
+[shiva](śivaḥ) [shiva-water-pot-in](śivodakuṃbhasthaḥ) [kaushika-left-auspicious](kauśiko vāmataḥ śubhaḥ)
 
 ## mukta-m0-p05-v112
-[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [and](ca)
+[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali-charcoal-wood](kṣāro'ṅgāraśca dāru ca)
 
 ## mukta-m0-p05-v113
-[cut-limbed](chinnāṅgaḥ) [eyeless](alocanaḥ) [diseased](rogī) [skull-bearer](kapālī) [earth-trembling](bhūprakampanaḥ)
+[cut-limbed-eyeless](chinnāṅgo'locano) [sick](rogī) [skull-bearer-earth-shaking](kapālī bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-[hunger-thirst-mad](kṣutkṣāmonmattakau) [thread](tantuḥ) [and](ca) [herb-collection](oṣadhīṣaṇasañcayaḥ)
+[hunger-thirst-mad](kṣutkṣāmonmattakau) [thread-herb-collection](tantuścauṣadhīṣaṇasañcayaḥ)
 
 ## mukta-m0-p05-v115
-[half-fortnight-half](pakṣārdhārdham) [but](tu) [abandoning](saṃtyajya) [departure](prasthānam) [is-done](kriyate) [in-auspicious](śubhe)
+[half-fortnight-abandoning](pakṣārdhārdhaṃ tu saṃtyajya) [departure-done-auspicious](prasthānaṃ kriyate śubhe)
 
 ## mukta-m0-p05-v116
-[for-veda](vedase) [may-be](syāt) [two](dvite) [travelers](yātāḥ) [but](tu) [fire-stick-not-crossing](agnidaṇḍānatikramāt)
+[veda-for](vedase syādvite) [traveler-fire-staff-crossing](yātā tvagnidaṇḍānatikramāt)
 
 ## mukta-m0-p05-v117
-[desired-beginning](iṣṭādau) [śaṅkara](śaṅkaram) [auspicious](śastam) [east-lord-moon-forest](prāgīśenduvanam) [should-go](vrajet)
+[desired-beginning](iṣṭādau) [shankara-auspicious](śaṅkaraṃ śastaṃ) [east-lord-moon-forest-go](prāgīśenduvanaṃ vrajet)
 
 ## mukta-m0-p05-v118
-[mercury-sun-moon-venus](budhārkendusite) [jupiter](jīve) [in-tree](vārkṣe) [northeast-situated](prāguttarasthite)
+[mercury-sun-moon-venus](budhārkendusite) [jupiter-tree-east-north-standing](jīve vārkṣe prāguttarasthite)
 
 ## mukta-m0-p05-v119
-[alternate](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [and](ca) [inauspicious-act](aniṣṭakarmaṇi)
+[one-interval](ekāntarāsu) [stars](tārāsu) [remainder-inauspicious-action](śeṣe cāniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-[niṣadha](niṣadhaḥ) [blue-scent-named](nīlagandhākhyaḥ) [śaṅgī](śaṅgī) [banner](ketuḥ) [mountain-lords](nagādhipāḥ)
+[nishadha-blue-sandal-named](niṣadho nīlagandhākhyaḥ) [shankha-banner-mountain-lords](śaṅgīketurnagādhipāḥ)
 
 ## mukta-m0-p05-v121
-[nanda-named](nandākhyaḥ) [malaya](malayaḥ) [vindhya](vindhyaḥ) [ujjayanta](ujjayantaḥ) [then](atha) [ṛkṣaka](ṛkṣakaḥ)
+[nanda-named-malaya-vindhya](nandākhyo malayo vindhya) [ujjayanta-then-rishyaka](ujjayanto'tha ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[yojanas](yojanāni) [ten](daśa) [of-these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
+[yojanas-ten-these](yojanāni daśaiteṣāṃ) [mountains-near-forest](girīṇāṃ nikaṭe vanam)
 
 ## mukta-m0-p05-v123
-[this-field-born](etatkṣetrotthitā) [who](ye) [but](tu) [stones-trees](pāṣāṇāstaravaḥ) [auspicious](śubhāḥ)
+[this-field-born-who](etatkṣetrotthitā ye tu) [stones-trees-auspicious](pāṣāṇāstaravaḥ śubhāḥ)
 
 ## mukta-m0-p05-v124
-[with-teacher](sācāryaḥ) [accomplisher](sādhakaḥ) [by-artisans](śilpijanaiḥ) [surrounded](parivṛtaḥ) [auspicious](śubhaiḥ)
+[with-teacher](sācāryaḥ) [accomplisher](sādhakaḥ) [artisan-people](śilpijanaiḥ) [surrounded-auspicious](parivataḥ śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[meditating](dhyātvā) [below](adhaḥ) [material](prākṛtam) [principle](tattvam) [śiva-principle-made](śivatattvamayīm) [earth](mahīm)
+[meditating-below-natural-principle](dhyātvādhaḥ prākṛtaṃ tattvaṃ) [shiva-principle-earth](śivatattvamayīṃ mahīm)

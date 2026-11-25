@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-great-jewel great-valuable quality-endowed worship-always
+great-jewel(great-jewel) great-valuable(great-valuable) quality-endowed(quality-endowed) worship-always(worship-always)
 
 ## mukta-m0-p03-v52
-well-radiance fame-life-become king's long
+supratāpa(supratāpa) fame-and-life(fame-and-life) become(become) king's-long(king's-long)
 
 ## mukta-m0-p03-v53
-blue yellow white also excellent jewel-unmade
+blue(blue) yellow(yellow) white(white) and(and) excellent(excellent) jewel-unmade(jewel-unmade)
 
 ## mukta-m0-p03-v54
-conch-crystal-resembling hibiscus-beginning-etc radiance
+conch-crystal-resembling(conch-crystal-resembling) java-beginning-glow(java-beginning-glow)
 
 ## mukta-m0-p03-v55
-washed-face-like twice-born king-worthy yellow-red
+washed-mouthed(washed-mouthed) twice-born(twice-born) king-worthy(king-worthy) yellow-red(yellow-red)
 
 ## mukta-m0-p03-v56
-that-lingam life increase all-disease-destruction
+that-mark(that-mark) life-increase(life-increase) all-disease-destroyer(all-disease-destroyer)
 
 ## mukta-m0-p03-v57
-indra-fire-and-friend-origin fourfold sometimes-opinion
+indra-fire-friend-born(indra-fire-friend-born) fourfold(fourfold) sometimes-opinion(sometimes-opinion)
 
 ## mukta-m0-p03-v58
-autumn-water-like pure smooth and crystal beneficial
+autumn-water-like(autumn-water-like) clear(clear) smooth(smooth) crystal(crystal) beneficial(beneficial)
 
 ## mukta-m0-p03-v59
-with-embryo-wave-joined light-pearl-dense reject
+with-garbha-wave-joined(with-garbha-wave-joined) light-pearl-dense(light-pearl-dense) reject(reject)
 
 ## mukta-m0-p03-v60
-thick long kusha short middle-beginning-end or thin
+thick(thick) long(long) kusha(kusha) short(short) middle-etc-thin(middle-etc-thin)
 
 ## mukta-m0-p03-v61
-other-species-attached and pierced fear-causing reject
+other-caste-attached(other-caste-attached) pierced(pierced) fear-causing(fear-causing) reject(reject)
 
 ## mukta-m0-p03-v62
-crystal lingam desired-purpose death-conquering wish-giving worship
+crystal(crystal) mark-desired-object(mark-desired-object) death-conquering-desire-giving(death-conquering-desire-giving) worship(worship)
 
 ## mukta-m0-p03-v63
-lingam always-fire-sacrifice-like worship no fault-causing men
+mark(mark) always-fire-sacrifice-like(always-fire-sacrifice-like) worship(worship) no-fault-causing-to-men(no-fault-causing-to-men)
 
 ## mukta-m0-p03-v64
-always low success be high high equal equal
+always-low-success(always-low-success) high-high(high-high) equal-equal(equal-equal)
 
 ## mukta-m0-p03-v65
-jewel-lingam twofold-called own-pedestal metal-pedestal-born
+jewel-linga(jewel-linga) twofold-called(twofold-called) own-pedestal-metal-pedestal-born(own-pedestal-metal-pedestal-born)
 
 ## mukta-m0-p03-v66
-movable-lingam twofold-made metal-jewel-made auspicious
+moving-linga(moving-linga) twofold-made(twofold-made) metal-jewel-auspicious(metal-jewel-auspicious)
 
 ## mukta-m0-p03-v67
-small-jewel-born also thus own-measure door-jewel-born
+small-jewel-born-also-thus(small-jewel-born-also-thus) own-measure-two-jewel-born(own-measure-two-jewel-born)
 
 ## mukta-m0-p03-v68
-vaishyas love-end be shudras twelve-limit
+vaishyas(vaishyas) love-end-love-end vaishyas(vaishyas) twelve-limit(twelve-limit)
 
 ## mukta-m0-p03-v69
-movable that-above gods twenty-three-angula
+moving(moving) that-above-gods(that-above-gods) twenty-three-angula(twenty-three-angula)
 
 ## mukta-m0-p03-v70
-immovable lead-colored-staying hand-from-nine-measure
+immovable(immovable) lead-situated(lead-situated) hand-nine-measure(lead-situated)
 
 ## mukta-m0-p03-v71
-six-hasta mixed lingam not-above and fixed-desired
+six-cubits-mixed(six-cubits-mixed) linga(linga) not-above-steady-desired(not-above-steady-desired)
 
 ## mukta-m0-p03-v72
-six-hasta-not-exceeding wooden earthen mountain-like always
+six-cubits-not-exceeding(six-cubits-not-exceeding) wooden(wooden) earthen(earthen) mountain-like-always(mountain-like-always)
 
 ## mukta-m0-p03-v73
-yaksha-rakshasa-asura-serpent gandharva-apsaras sometimes
+yaksha-rakshasa-asura-serpent(yaksha-rakshasa-asura-serpent) gandharva-apsaras-sometimes(gandharva-apsaras-sometimes)
 
 ## mukta-m0-p03-v74
-circumference-height by and gods twenty-one
+circumference-height-by(circumference-height-by) gods-twenty-one(gods-twenty-one)
 
 ## mukta-m0-p03-v75
-five-angula indeed flour-etc fruit-born own-measure
+five-angula-thus-paishtha-etc(five-angula-thus-paishtha-etc) fruit-born-own-measure(fruit-born-own-measure)
