@@ -94,7 +94,7 @@
 },
 {
 "surface": "pūrvajātayaḥ",
-"quick_gloss": "former-births"
+"quick_gloss": "previous-births"
 }
 ]
 },
@@ -106,8 +106,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pṛthaṅmantrāgamāḥ",
-"quick_gloss": "separate-mantra-agamas"
+"surface": "pṛthak",
+"quick_gloss": "separate"
+},
+{
+"surface": "mantrāḥ",
+"quick_gloss": "mantras"
+},
+{
+"surface": "āgamāḥ",
+"quick_gloss": "agamas"
 },
 {
 "surface": "eṣām",
@@ -119,7 +127,7 @@
 },
 {
 "surface": "kratavaḥ",
-"quick_gloss": "sacrifices"
+"quick_gloss": "rites"
 },
 {
 "surface": "pṛthak",
@@ -152,7 +160,7 @@
 },
 {
 "surface": "śivādisthāpanam",
-"quick_gloss": "shiva-etc-installation"
+"quick_gloss": "shiva-installation"
 },
 {
 "surface": "kalau",
@@ -169,11 +177,11 @@
 "tokens": [
 {
 "surface": "tathaiva",
-"quick_gloss": "so-too"
+"quick_gloss": "likewise"
 },
 {
 "surface": "śivayāgeṣu",
-"quick_gloss": "in-shiva-sacrifices"
+"quick_gloss": "in-shiva-rites"
 },
 {
 "surface": "na",
@@ -279,8 +287,12 @@
 "quick_gloss": "shiva-ness"
 },
 {
-"surface": "nānyamantrataḥ",
-"quick_gloss": "not-by-other-mantra"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anyamantrataḥ",
+"quick_gloss": "by-other-mantra"
 }
 ]
 },
@@ -292,8 +304,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānyadarśanamantraiḥ",
-"quick_gloss": "not-by-other-view-mantras"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anyadarśanamantraiḥ",
+"quick_gloss": "by-other-view-mantras"
 },
 {
 "surface": "vā",
@@ -399,8 +415,12 @@
 "quick_gloss": "initiation"
 },
 {
-"surface": "noktam",
-"quick_gloss": "not-declared"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "uktam",
+"quick_gloss": "spoken"
 },
 {
 "surface": "vedeṣu",
@@ -432,7 +452,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bavhakṣaraḍambarāt",
+"surface": "bahvakṣaraḍambarāt",
 "quick_gloss": "from-many-syllable-pomp"
 }
 ]
@@ -450,7 +470,7 @@
 },
 {
 "surface": "śivādhvatattvajñāḥ",
-"quick_gloss": "shiva-path-tattva-knowers"
+"quick_gloss": "shiva-path-knowers"
 },
 {
 "surface": "stāvakāḥ",
@@ -491,7 +511,7 @@
 },
 {
 "surface": "calācale",
-"quick_gloss": "moving-immovable"
+"quick_gloss": "movable-immovable"
 }
 ]
 },
@@ -545,7 +565,7 @@
 },
 {
 "surface": "tathāparāḥ",
-"quick_gloss": "and-other"
+"quick_gloss": "and-others"
 }
 ]
 },
@@ -616,15 +636,19 @@
 "tokens": [
 {
 "surface": "śivādisthāpanam",
-"quick_gloss": "shiva-etc-installation"
+"quick_gloss": "shiva-installation"
 },
 {
 "surface": "kāryam",
 "quick_gloss": "to-be-done"
 },
 {
-"surface": "nānyaiḥ",
-"quick_gloss": "not-by-others"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anyaiḥ",
+"quick_gloss": "by-others"
 },
 {
 "surface": "tu",
@@ -645,7 +669,7 @@
 "tokens": [
 {
 "surface": "svakarmābhiratāḥ",
-"quick_gloss": "self-duty-devoted"
+"quick_gloss": "own-duty-devoted"
 },
 {
 "surface": "viprāḥ",
@@ -670,7 +694,7 @@
 "tokens": [
 {
 "surface": "svaṣaṭkarmānvitaḥ",
-"quick_gloss": "self-six-rites-endowed"
+"quick_gloss": "own-six-rites-endowed"
 },
 {
 "surface": "nityam",
@@ -678,7 +702,7 @@
 },
 {
 "surface": "nānyakarmā",
-"quick_gloss": "not-other-rites"
+"quick_gloss": "not-other-duty"
 },
 {
 "surface": "dvijaḥ",
@@ -736,7 +760,7 @@
 "tokens": [
 {
 "surface": "tṛṇādimūlyabhikṣānnavṛttiḥ",
-"quick_gloss": "grass-etc-price-begging-food-livelihood"
+"quick_gloss": "grass-etc-price-alms-food-living"
 },
 {
 "surface": "syāt",

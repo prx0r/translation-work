@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot](granthi)+[form](rūpa)+[raised](unnata)+[knot](granthi)+[belly](jaṭhara)+[disease](āmaya)+[giving](dāyaka)
+[knot-form-elevated-knot-belly-disease-giving](granthirūponnatagranthirjaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-[frost](tuṣāraṃ)+[that](tad)+[know](vijānīyā)+[son](putra)+[grief](śoka)+[pain](ārti)+[giving](dāyakam)
+[frost](tuṣāraṃ) [that-know](tadvijānīyā) [son-grief-pain-giving](putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[gold](hema)+[sound](ghoṣa)+[disease](āmayaṃ)+[copper](tāmra)+[that](tad)+[corrupt](duṣṭaṃ)+[piṅgalā](piṅgalā)+[mind](mate)
+[gold-sound-disease](hemaghoṣāmayaṃ) [copper](tāmra) [that-corrupt](tadduṣṭaṃ) [piṅgalā-mind](piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[people](janaṃ)+[kills](hanty)+[iron](āyasa)+[afflicted](ākrāntā)+[stone](śilā)+[that](tām)+[also](ca)+[artisan](śilpinam)
+[people-kills](janaṃ) [hantyāyasākrāntā] [stone](śilā) [that-and](tāmī) [ca](ca) [sculptor](śilpinam)
 
 ## mukta-m0-p21-v505
-[black](kṛṣṇaḥ)+[yellow](pītaḥ)+[red](aruṇaḥ)+[dot](binduḥ)+[that](sa)+[grief](śoka)+[fear](bhaya)+[disease](roga)+[giving](daḥ)
+[black](kṛṣṇaḥ) [yellow](pīto) [red](aruṇo) [dot](binduḥ) [he-grief-fear-disease-giving](sa śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[yellow](pīte)+[wealth](dhana)+[loss](kṣayaḥ)+[maker](kartuḥ)+[black](kṛṣṇe)+[bondage](bandhaḥ)+[both](dvayoḥ)+[twofold](dvidhā)
+[yellow-in](pīte) [wealth-loss](dhanakṣayaḥ) [maker](kartuḥ) [black-in](kṛṣṇe) [bondage](bandho) [both-in-twofold](dvayordvidhā)
 
 ## mukta-m0-p21-v507
-[line](rekhā)+[line](rekhā)+[pierced](anubiddhā)+[or](vā)+[earthly](pārthivaṃ)+[that](sā)+[destroys](vināśayet)
+[line](rekhā) [line-pierced](rekhānubiddhā) [or](vā) [earthly](pārthivaṃ) [that-destroys](sā vināśayet)
 
 ## mukta-m0-p21-v508
-[mistress](svāmidhnī)+[and](ca)+[four](catuḥ)+[cut](chinnā)+[many](bahu)+[cut](chinnā)+[lineage](kula)+[ender](antakṛt)
+[mistress-killing](svāmidhnī) [and](ca) [four-cut](catuśchinnā) [many-cut](bahucchinnā) [family-end-making](kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[fly](makṣikā)+[fly](makṣikā)+[shaped](ākārā)+[by-that](tayā)+[leprosy](kuṣṭhaṃ)+[very](su)+[terrible](dāruṇam)
+[fly](makṣikā) [fly-shaped](makṣikākārā) [by-that](tayā) [leprosy](kuṣṭhaṃ) [very-terrible](sudāruṇam)
 
 ## mukta-m0-p21-v510
-[then](tadā)+[various](nānā)+[diseases](gadān)+[makes](kuryāt)+[maker](kartuḥ)+[and](ca)+[indeed](eva)+[no](na)+[doubt](saṃśayaḥ)
+[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [maker-and-certainly](kartuścaiva) [no-doubt](na saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[abandon](tyājyaṃ)+[then](tadā)+[threefold](tridhā)+[sign](liṅgaṃ)+[king](nṛpa)+[realm](rāṣṭra)+[subjects](prajā)+[seeking](arthinā)
+[abandonable](tyājyaṃ) [then](tadā) [three-mark](tridhā liṅgaṃ) [king-realm-subject-desiring](nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[left](vāma)+[side](pārśva)+[resting](āśritaḥ)+[somewhat](kiṃcit)+[kills](hanyāt)+[realm](rāṣṭraṃ)+[with-king](sarājakam)
+[left-side-residing](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [kills](dhanyādrāṣṭraṃ) [realm-with-king](sarājakam)
 
 ## mukta-m0-p21-v513
-[all](sarva)+[colors](varṇāḥ)+[greatly](bhṛśaṃ)+[indeed](nūnaṃ)+[life](prāṇa)+[taking](hṛt)+[black](kṛṣṇa)+[shame](hīrikā)
+[all-colors](sarvavarṇā) [very](bhṛśaṃ) [certainly](nūnaṃ) [life-taking](prāṇahṛt) [black-fearful](kṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[raised](unnataḥ)+[seen](lakṣyate)+[who](yaḥ)+[ca](ca)+[cat](viḍāla)+[foot](aṅghriḥ)+[that](sa)+[fault](doṣa)+[bearing](bhāk)
+[elevated](unnato) [is-seen](lakṣyate) [who-and](yaśca) [cat-foot](viḍālāṅghriḥ) [that-fault-bearing](sa doṣabhāk)
 
 ## mukta-m0-p21-v515
-[stone](śilāyāḥ)+[form](rūpam)+[observing](ālakṣya)+[abandon](tyajet)+[that](tām)+[inauspicious](aśubha)+[giving](pradām)
+[stone-of](śilāyā) [form-observing](rūpamālakṣya) [abandon](tyajettāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-[small](svalpa)+[faults](doṣān)+[will-tell](prakṣyāmi)+[as](yathā)+[in-scriptures](śāstreṣu)+[spoken](bhāṣitān)
+[small-faults](svalpadoṣān) [I-will-tell](prakṣyāmi) [as](yathā) [in-scriptures](śāstreṣu) [spoken](bhāṣitān)
 
 ## mukta-m0-p21-v517
-[anthill](valmīka)+[heap](oṣara)+[city](city?)+[arisen](utthā)+[warm](koṣṇā)+[alkaline](kṣāra)+[water](ambu)+[middle](madhyagā)
+[ant-hill-born](valmīkoṣaracityutthā) [warm](koṣṇā) [alkaline-water-middle-residing](kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[bad-place](kudik)+[standing](sthā)+[sun](sūrya)+[heated](santaptā)+[bitter](kadu)+[arisen](utthā)+[methya](methya)+[unpolluted](adūṣitā)
+[bad-place-residing](kudiksthā) [sun-heated](sūryasantaptā) [bitter-born](kadutthā) [methya-undefiled](methyadūṣitā)
 
 ## mukta-m0-p21-v519
-[corrupt](duṣṭa)+[life](jīva)+[sound](svara)+[which](yā)+[ca](ca)+[joined](yojitā)+[not](na)+[other](anya)+[work](karmaṇi)
+[corrupt-life-sound](duṣṭajīvasvarā) [who-and](yā ca) [joined](yojitā) [not-other-work](nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[which](yā)+[stone](upalā)+[clinging](anulagnā)+[that](sā)+[fat](sneha)+[cutting](vicchitti)+[making](kārikā)
+[who](yā) [stone-adhering](yopalānulagnā) [that](sā) [oil-interruption-making](snehavicchittikārikā)
 
 ## mukta-m0-p21-v521
-[saline](ūṣara)+[standing](sthā)+[wealth](artha)+[taking](hṛt)+[known](jñeyā)+[cit](citi)+[standing](sthā)+[pain](duḥkha)+[giving](dāyinī)
+[salt-ground-residing](ūṣarasthā) [wealth-taking](rthahṛt) [knowable](jñeyā) [citadel-residing](citisthā) [sorrow-giving](duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[stone](pāṣaṇḍa?)+[unmeritorious](apuṇya)+[place](deśa)+[standing](sthā)+[killing](vadhakṛt)+[bhilla](bhilla)+[served](sevitā)
+[stone-impure-place-residing](pāṣadāpuṇyadeśasthā) [killing](vadhakṛt) [bhillas](bhilla) [served](sevitā)
 
 ## mukta-m0-p21-v523
-[burning](dāhaṃ)+[loss](hāniṃ)+[and](ca)+[grief](śokaṃ)+[ca](ca)+[poverty](naiḥsvaṃ)+[disease](rogaṃ)+[thus](tathā)+[brings](āvahet)
+[burning](dāhaṃ) [loss](hāniṃ) [and](ca) [grief](śokaṃ) [ca](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus-brings](tathāvahet)
 
 ## mukta-m0-p21-v524
-[liquor](surā)+[wing](pakṣi)+[fat](vasā)+[smell](gandhā)+[agitation](udvega)+[producing](jananī)+[stone](śilā)
+[wine-drinker-fat-smell](surāpakṣivasāgandhā) [agitation-causing](udvegajananī) [stone](śilā)
 
 ## mukta-m0-p21-v525
-[diamond](vajra)+[burnt](dagdhā)+[fire](agni)+[burnt](dagdhā)+[ca](ca)+[king](rājñaḥ)+[fire](anala)+[fear](bhaya)+[giving](pradā)
+[diamond-burned-fire-burned](vajradagdhāgnidagdhā) [and](ca) [king's](rājño) [fire-fear-giving](analabhayapradā)

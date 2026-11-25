@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-directions-purify with-weapon for-obstacle-destruction teacher
+[directions](diśo) [purifying](virecya) [with-weapon](cāstreṇa) [for-obstacle-destruction](vighnanāśāya) [teacher](daiśikaḥ)
 
 ## mukta-m0-p06-v127
-mantra-protection-rite having-done recite devoted-deity
+[mantra-protection-rite](mantrarakṣāvidhi) [having-done](kṛtvā) [chant](saṃjapa) [chosen-deity](niṣṭadevatām)
 
 ## mukta-m0-p06-v128
-thus characteristic-collection linga-substance-determination-forest-entry named first-rite
+[thus](iti) [in-characteristic-collection](lakṣaṇasamuccaye) [linga-substance-determination-forest-entry](liṅgadravyanirṇayavanapraveśo) [named](nāma) [first-rite](prathamovidhiḥ)
 
 ## mukta-m0-p06-v129
-true-form is-told properly desirable-undesirable and in-actions
+[own-form](svarūpaṃ) [is-told](kathyate) [properly](samyag) [auspicious-and-inauspicious](iṣṭāniṣṭa) [and](ca) [action](karmaṇi)
 
 ## mukta-m0-p06-v130
-steadfast scripture-meaning-doer and agent who sattvic best
+[steadfast](dhīraḥ) [scripture-meaning-doer](śāstrārthakārī) [and](ca) [agent](kartā) [who](yaḥ) [sattvic](sātviko) [best](varaḥ)
 
 ## mukta-m0-p06-v131
-atheist logician cruel agent who tamasic lowest
+[atheist](nāstikaḥ) [logician](tārkikaḥ) [cruel](krūraḥ) [agent](kartā) [who](yaḥ) [tamasic](tāmaso) [lowest](adhamaḥ)
 
 ## mukta-m0-p06-v132
-therefore those teachers to-be-sought who in-those-scriptures spoken
+[therefore](tasmāt) [those](te) [gurus](guravo) [to-be-sought](anveṣyā) [who](ye) [in-those-scriptures](tacchāstreṣu) [spoken](bhāṣitāḥ)
 
 ## mukta-m0-p06-v133
-between-Vedas-establishment-Shravasti teachers best
+[antarvedi-pratishthana-shravasti](antarvedīpratiṣṭhānaśrāvastyā) [gurus](guravo) [best](varāḥ)
 
 ## mukta-m0-p06-v134
-Anga-born etc seven these middle remembered
+[angas](āṅgā) [jat-born](jāṭodbhavāḥ) [and](ca) [iti](iti) [seven](sapta) [these](ete) [middle](madhyamāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p06-v135
-Viraja Dravida Paundra eight these teachers low
+[viraja](vīrajā) [dravida](drāviḍā) [paundra](pauṇḍrāḥ) [and](ca) [eight](aṣṭa) [these](ete) [gurus](guravo) [lowest](adhamāḥ)
 
 ## mukta-m0-p06-v136
-Vanga Gandhara Paulinga these seven outcaste considered
+[vanga](vāṅgagā) [gandhara](gāndhāra) [paulinga](pauliṅgā) [these](ete) [seven](saptā) [outcaste-born](antyajā) [considered](matāḥ)
 
 ## mukta-m0-p06-v137
-Saurashtra Devarashtra and eight these condemned strongly
+[saurashtra](saurāṣṭrā) [devarashtra](devarāṣṭrāḥ) [and](ca) [eight](aṣṭa) [these](ete) [strongly](bhṛśam) [blamed](ninditā)
 
 ## mukta-m0-p06-v138
-low-etc in-auspicious not-desired Aryavarta indeed fault-giving
+[lowest-etc](adhamādyāḥ) [auspicious](śubhe) [not-desired](neṣṭā) [in-aryavarta](āryāvarte) [indeed](hi) [fault-giving](doṣadāḥ)
 
 ## mukta-m0-p06-v139
-which country middle-part is Aryavarta that praised
+[which](yo) [region](deśo) [middle-part](madhyabhāgaḥ) [would-be](syāt) [aryavarta](āryāvartaḥ) [that](sa) [celebrated](kīrtitaḥ)
 
 ## mukta-m0-p06-v140
-gotra-range-endowed convention-etc-endowed-characteristics
+[gotra-pasture-joined](gotragocarasaṃyuktāḥ) [with-time-etc-marked](samayādyuktalakṣaṇāḥ)
 
 ## mukta-m0-p06-v141
-initiation-quality-filled who know then collection
+[initiation-quality-filled](dīkṣāguṇenasaṃpūrṇāṃ) [who](ye) [know](jānanty) [then](atha) [samhita](saṃhitām)
 
 ## mukta-m0-p06-v142
-wife-circle-born Shaivas all-characteristics-marked
+[bharyavarta-born](bhāryāvartodbhavāḥ) [shaivas](śaivāḥ) [all-marks-marked](sarvalakṣaṇalakṣitāḥ)
 
 ## mukta-m0-p06-v143
-seat-abode-etc-kunda-knowers installation-place-knowers
+[pitha-abode-etc-kunda-knowers](pīṭhadhāmādikuṇḍajñāḥ) [consecration-place-veda-knowers](pratiṣṭhāsthānavedakāḥ)
 
 ## mukta-m0-p06-v144
-greed-delusion-abandoned peaceful controlled non-envious
+[greed-delusion-abandoned](lobhamohaparityaktāḥ) [peaceful](śāntā) [controlled](dāntā) [envy-free](vimatsarāḥ)
 
 ## mukta-m0-p06-v145
-sattvic skillful capable five-Vedic-meaning-knowers
+[sattvic](sātvikā) [skillful](nipuṇā) [dexterous](dakṣāḥ) [five-shrauta-meaning-knowers](pañcaśrautārthavedakāḥ)
 
 ## mukta-m0-p06-v146
-firm-vow not-enemy-of-people truth-speaking creature-loving
+[firm-vow](dṛḍhavratā) [people-friendly](janadrohi? no) [truth-speaking](satyavāg) [creature-loving](bhūtavatsalāḥ)
 
 ## mukta-m0-p06-v147
-initiated in-Shiva-scripture in-this four Brahmin-etc
+[initiated](dīkṣitāḥ) [in-shiva-scripture](śivaśāstre) [indeed](smiṃ) [four](catvāro) [brahmana-etc](brāhmaṇādayaḥ)
 
 ## mukta-m0-p06-v148
-joined in-Shiva-principle who Shiva-form obtained
+[united](yojitaḥ) [in-shiva-principle](śivatattve) [who](yaḥ) [shiva-form-obtained](śivarūpamavāptavān)
 
 ## mukta-m0-p06-v149
-of-Shudra-etc likewise by-mantras joined superiority becomes
+[of-shudra-etc](śūdrādīnāṃ) [thus](tathā) [with-mantras](mantrairyuktānāṃ) [superiority](śreṣṭhatā) [would-be](bhavet)
 
 ## mukta-m0-p06-v150
-likewise by-mantra-union four-varna Shiva becomes
+[likewise](tathaiva) [by-mantra-union](mantrasaṃyogāt) [four-varna](cāturvarṇaḥ) [shiva](śivī) [becomes](bhavet)
