@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakṣas-two-crocodile](rakṣodvitayakumbhīra) [and](ca) [serpent-wheel-mouthed](sarpacakrāsyakaṃ) [bham](bham)
+[rakṣaḥ-dvitaya-kumbhīra](rakṣodvitayakumbhīra) [sarpa-cakra-āsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
 
 ## mukta-m0-p44-v1077
-[aśvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajāpati-indra-moon-hara-aditi](prajendrenduharo'ditiḥ)
+[aśvinau](aśvinau) [ca](ca) [yamaḥ](yamo) [vahniḥ](vahniḥ) [prajā-indra-indu-haraḥ-aditiḥ](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭṛ](tvaṣṭā) [wind](vāyuḥ) [surendra](surendro) [fire]('gnirmitrendrau) [yāvat-pāmpati](yāvatpāmpatiḥ)
+[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [sura-indraḥ](surendro) [agniḥ]('gnir) [mitra-indrau](mitrendrau) [yāvat-pām-patiḥ](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇu](viṣṇurvasurajaikādipādahirbudhna) [pūṣan](pūṣakāḥ)
+[viṣṇuḥ](viṣṇur) [vasuḥ](vasur) [raja-eka-ādi-pāda-hiḥ-budhnaḥ](rajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[man](pumān) [mace-holder](gadī) [vīṇā-holder](savīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
+[pumān](pumān) [gadī](gadī) [sa-vīṇā](savīṇā) [ca](ca) [yoṣit-nmithunaṃ](yoṣittanmithunaṃ) [dhanuḥ](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[woman](strī) [boat](naustholkāsibhṛtkanyā) [tulā-holder](tulādhāro) [man](narastulā)
+[strī](strī) [nauḥ](naus) [tūlakā](tholkā) [asi-bhṛt](asibhṛt) [kanyā](kanyā) [tulā-dhāraḥ](tulādhāro) [naraḥ](naras) [tulā](tulā)
 
 ## mukta-m0-p44-v1082
-[aries-etc-five](meṣādyāḥ) [and](ca) [others](evānye) [same-named-form](svanāmatulyarūpakāḥ)
+[meṣa-ādyāḥ](meṣādyāḥ) [pañca](pañca) [ca](ca) [eva](caivānye) [anya](anye) [sva-nāma-tulya-rūpakāḥ](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[golden](hemābhaḥ) [crowned](sakirīṭaśca) [devarāja](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
+[hema-ābhaḥ](hemābhaḥ) [sa-kirīṭaḥ](sakirīṭaśca) [ca](ca) [devarājaḥ](devarājaḥ) [sura-āvṛtaḥ](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[goat-seated](chāgasthaḥ) [rosary-fierce](sākṣasūtrograḥ) [seven-flamed](saptārciḥ) [śakti-holder](śaktidhārakaḥ)
+[chāga-sthaḥ](chāgasthaḥ) [sākṣa-sūtra-ugraḥ](sākṣasūtrograḥ) [sapta-arcis](saptārciḥ) [śakti-dhārakaḥ](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[red-hearted](raktahṛkpāśabhṛtkṛṣṇo) [buffalo-seated](mahiṣasthogradūtavān)
+[rakta-hṛt-pāśa-bhṛt-kṛṣṇaḥ](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣa-sthaḥ](mahiṣastho) [ugra-dūtavān](ugradūtavān)
 
 ## mukta-m0-p44-v1086
-[man-seated](puṃsthita) [sword-handed](khaḍgahastaśca) [blue](nīlābho) [rākṣasa-surrounded](rākṣasāvṛtaḥ)
+[puṃ-sthita](puṃsthita) [khaḍga-hastaḥ](khaḍgahastaśca) [ca](ca) [nīla-ābhaḥ](nīlābho) [rākṣasa-āvṛtaḥ](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[all-ornamented](sarvābharaṇasaṃyukto) [varuṇa](varūṇaḥ) [yellow-garment-holder](pītavastrabhṛt)
+[sarva-ābharaṇa-saṃyuktaḥ](sarvābharaṇasaṃyukto) [varūṇaḥ](varūṇaḥ) [pīta-vastra-bhṛt](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[red-eyed](raktakṣo) [red-garmented](raktavāsaśca) [deer-seated](mṛgasthaścaṅkuśī) [flag-holder](dhvajī)
+[rakta-akṣaḥ](raktakṣo) [rakta-vāsaḥ](raktavāsaśca) [ca](ca) [mṛga-sthaḥ](mṛgasthaśca) [aṅkuśī](caṅkuśī) [dhvajī](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśa](dhaneśo) [boon-giver](varadaḥ) [to-be-made](kāryo) [various-ornament-adorned](nānābharaṇamaṇḍitaḥ)
+[dhaneśaḥ](dhaneśo) [vara-daḥ](varadaḥ) [kāryaḥ](kāryo) [nānā-ābharaṇa-maṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśāna](īśāno) [snake-moon-holder](hīndubhṛccaite) [lokapālas](lokapālā) [two-armed](dvibāhavaḥ)
+[īśānaḥ](īśāno) [ahi-indu-bhṛt](ahīndubhṛccaite) [ca](ca) [ete](ete) [lokapālāḥ](lokapālā) [dvi-bāhavaḥ](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [always](sadā) [white](gauro) [knowledge-mudrā-rosary-holder](jñānamudrākṣasūtrabhṛt)
+[viśvakarmā](viśvakarmā) [sadā](sadā) [gauraḥ](gauro) [jñāna-mudrā-akṣa-sūtra-bhṛt](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-bodied](mahākāyaṃ) [very-terrifying](subhīṣaṇam)
+[ālīḍha-karaṇa-āsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahā-kāyaṃ](mahākāyaṃ) [su-bhīṣaṇam](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[yellow-banner-holder](pītadhvajadharaṃ) [left](vāme) [threatening-gesture](tarjanīṃ) [or](vā) [heart-before](hṛdagrataḥ)
+[pīta-dhvaja-dharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛt-agrataḥ](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[pressing](saṃpīḍya) [rākṣasas](rākasān) [with-feet](padbhyāṃ) [releasing](muñcannādaṃ) [marutsuta](marutsutam)
+[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcan](muñcannādaṃ) [nādaṃ](nādaṃ) [marut-sutam](marutsutam)
 
 ## mukta-m0-p44-v1095
-[skandha-yakṣa-endowed](skandhayakṣānvitā) [always](nityaṃ) [to-be-made](kartavyā) [woman-endowed](yoṣidanvitāḥ)
+[skandha-yakṣa-anvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣit-anvitāḥ](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[garland-holder](mālābhṛto) [or]('thavā) [delighted](hṛṣṭāḥ) [sky-dwelling](khasthā) [vidyādharas](vidyādharāḥ) [always](sadā)
+[mālā-bhṛtaḥ](mālābhṛto) [athavā]('thavā) [hṛṣṭāḥ](hṛṣṭāḥ) [kha-sthāḥ](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
 
 ## mukta-m0-p44-v1097
-[tawny-varvara-haired](piṅgavarvara) [horse](keśāśva) [vetālas](vetālā) [distorted-faced](vikṛtānanāḥ)
+[piṅga-varvara-keśa-aśva](piṅgavarvarakeśāśva) [vetālāḥ](vetālā) [vikṛta-ānanāḥ](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[skull-garlanded](kapālamālinaḥ) [trident-holders](śūladhārīṇaḥ) [kṣetrapālakas](kṣetrapālakāḥ)
+[kapāla-mālinaḥ](kapālamālinaḥ) [śūla-dhāriṇaḥ](śūladhārīṇaḥ) [kṣetra-pālakāḥ](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[thin](kṛśā) [big-bellied](mahodarāḥ) [pretas](pretā) [indeed](khalva) [gallās](gallāśca) [hairy](lomaśāḥ)
+[kṛśāḥ](kṛśā) [mahā-udarāḥ](mahodarāḥ) [pretāḥ](pretā) [khalu-gallāḥ](khalugallāśca) [ca](ca) [lomaśāḥ](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[own-limb-color-bearing](svāṅgavarṇadharāḥ) [all](sarvā) [as-stated](yathoktaṃ) [brahmayāmala](brahmayāmale)
+[sva-aṅga-varṇa-dharāḥ](svāṅgavarṇadharāḥ) [sarvāḥ](sarvā) [yathā-uktaṃ](yathoktaṃ) [brahma-yāmale](brahmayāmale)
