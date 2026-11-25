@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[pada](prāvrājyānnaśyate) [pada](pūrvaṃ) [pada](strīyogādaparaṃ) [pada](tathā)
+[by-renunciation-destroyed](prāvrājyānnaśyate) [first](pūrvaṃ) [by-woman-contact-afterwards](strīyogādaparaṃ) [thus](tathā)
+
 ## mukta-m0-p10-v227
-[pada](trikarṇotthāstrikarṇāśca) [pada](trikapānātma) [pada](karṇakā)
+[three-ear-born](trikarṇotthāḥ) [three-eared](trikarṇāḥ) [ca](ca) [three-skull-self](trikapānātma) [ear-born](karṇakā)
+
 ## mukta-m0-p10-v228
-[pada](bhasmāṅkurastu) [pada](katthosthastatsutāḥ) [pada](kauśikādayaḥ)
+[ash-sprout](bhasmāṅkuraḥ) [tu](tu) [boaster-lip-born](katthosthastatsutāḥ) [kauśika-etc](kauśikādayaḥ)
+
 ## mukta-m0-p10-v229
-[pada](rāṣṭrakṣayakarā) [pada](hyete) [pada](ye) [pada](ca) [pada](paṣāṇḍino) [pada](narāḥ)
+[kingdom-destruction-causing](rāṣṭrakṣayakarāḥ) [indeed](hi) [these](ete) [who](ye) [ca](ca) [heretics](paṣāṇḍinaḥ) [men](narāḥ)
+
 ## mukta-m0-p10-v230
-[pada](śāstrāvalokanādeva) [pada](caṇḍeśastasya) [pada](śāsakaḥ)
+[by-scripture-viewing](śāstrāvalokanāt) [eva](eva) [caṇḍeśa](caṇḍeśaḥ) [his](tasya) [ruler](śāsakaḥ)
+
 ## mukta-m0-p10-v231
-[pada](sa) [pada](yāti) [pada](narakaṃ) [pada](sadyo) [pada](yājñikaiḥ) [pada](saha) [pada](daiśikaḥ)
+[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyaḥ) [with-sacrificers](yājñikaiḥ) [with](saha) [teacher](daiśikaḥ)
+
 ## mukta-m0-p10-v232
-[pada](teṣāmācaraṇānnityamācārya) [pada](iti) [pada](kīrtyate)
+[their](teṣām) [conduct](ācaraṇāt) [always](nityam) [teacher](ācārya) [thus](iti) [is-called](kīrtyate)
+
 ## mukta-m0-p10-v233
-[pada](tasmānna) [pada](mānavīṃ) [pada](buddhiṃ) [pada](kārayeddaiśikaṃ) [pada](prati)
+[therefore](tasmāt) [not](na) [human](mānavīm) [mind](buddhiṃ) [should-make](kārayet) [teacher](daiśikaṃ) [towards](prati)
+
 ## mukta-m0-p10-v234
-[pada](pañcavaktrāṇi) [pada](devasya) [pada](pañcāgamavivṛddhaye)
+[five-faced](pañcavaktrāṇi) [of-god](devasya) [for-five-āgama-growth](pañcāgamavivṛddhaye)
+
 ## mukta-m0-p10-v235
-[pada](dīptaṃ) [pada](sūkṣmaṃ) [pada](ca) [pada](sāhasramaṃśuma) [pada](tsuprabhaṃ) [pada](daśa)
+[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [ca](ca) [thousand-rayed](sāhasramaṃśuma) [very-bright](tsuprabhaṃ) [ten](daśa)
+
 ## mukta-m0-p10-v236
-[pada](vijayaṃ) [pada](pāramaiśvaryaṃ) [pada](niśvāsodgītasaṃjñakam)
+[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [niśvāsa-udgīta-named](niśvāsodgītasaṃjñakam)
+
 ## mukta-m0-p10-v237
-[pada](narasiṃhaṃ) [pada](candrahāsaṃ) [pada](vīraṃ) [pada](svāyambhurauravam)
+[narasiṃha](narasiṃhaṃ) [moon-laugh](candrahāsaṃ) [hero](vīraṃ) [svāyambhu](svāyambhu) [aurava](auravam)
+
 ## mukta-m0-p10-v238
-[pada](rudrabhedāḥ) [pada](samākhyātā) [pada](daśāṣṭādaśa) [pada](cordhvagāḥ)
+[rudra-divisions](rudrabhedāḥ) [declared](samākhyātāḥ) [ten-eighteen](daśāṣṭādaśa) [or-upward](cordhvagāḥ)
+
 ## mukta-m0-p10-v239
-[pada](pañcabhūta) [pada](vibhāgaṃ) [pada](ca) [pada](śūnyabheda) [pada](vinirṇayam)
+[five-element](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
+
 ## mukta-m0-p10-v240
-[pada](kambojaṃ) [pada](kambalaṃ) [pada](kaṅkaṃ) [pada](kālakuṇḍaṃ) [pada](kaṭāhakam)
+[kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
+
 ## mukta-m0-p10-v241
-[pada](gāruḍasya) [pada](tvime) [pada](bhedā) [pada](aṣṭāviṃśatirīritāḥ)
+[of-gāruḍa](gāruḍasya) [tv](tu) [these](ime) [divisions](bhedāḥ) [twenty-eight](aṣṭāviṃśatiḥ) [declared](īritāḥ)
+
 ## mukta-m0-p10-v242
-[pada](asitāṅgaṃ) [pada](ruruṃ) [pada](caiva) [pada](kapālīśaṃ) [pada](samuccayam)
+[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [ca](ca) [eva](eva) [kapālīśa](kapālīśaṃ) [collection](samuccayam)
+
 ## mukta-m0-p10-v243
-[pada](bhīmāṅgaṃ) [pada](ḍāmarārāvaṃ) [pada](bhīmaṃ) [pada](vetālamardakam)
+[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetāla-crusher](vetālamardakam)
+
 ## mukta-m0-p10-v244
-[pada](triśiraṃ) [pada](caikapādaṃ) [pada](tu) [pada](siddhayogeśvarīmatam)
+[three-headed](triśiraṃ) [ca](ca) [one-footed](ekapādaṃ) [tu](tu) [siddhayogeśvarī-opinion](siddhayogeśvarīmatam)
+
 ## mukta-m0-p10-v245
-[pada](viśvarikaṇṭha) [pada](saṅkocaṃ) [pada](tilakodyānabhairavam)
+[all-pervading-throat](viśvarikaṇṭha) [contraction](saṅkocaṃ) [tilaka-garden-bhairava](tilakodyānabhairavam)
+
 ## mukta-m0-p10-v246
-[pada](catuḥ) [pada](ṣaṣṭipramāṇāni) [pada](dakṣiṇāsyādbhavāni) [pada](ca)
+[sixty-four](catuḥṣaṣṭi) [measure](pramāṇāni) [from-southern-face](dakṣiṇāsyāt) [bhavāni](bhavāni) [ca](ca)
+
 ## mukta-m0-p10-v247
-[pada](karapūjāvidhānaṃ) [pada](tu) [pada](vīṇātantraṃ) [pada](taduttaram)
+[hand-worship-rite](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantra](vīṇātantraṃ) [its-after](taduttaram)
+
 ## mukta-m0-p10-v248
-[pada](siddhanityodayaṃ) [pada](jyeṣṭhaṃ) [pada](cintāmaṇimahodayam)
+[siddha-eternal-rising](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi-great-rising](cintāmaṇimahodayam)
+
 ## mukta-m0-p10-v249
-[pada](ānandarudrabhadrākhyaṃ) [pada](kiṅkaraṃ) [pada](kiṅkarānugam)
+[ānanda-rudra-bhadra-named](ānandarudrabhadrākhyaṃ) [kiṅkara](kiṅkaraṃ) [kiṅkara-follower](kiṅkarānugam)
+
 ## mukta-m0-p10-v250
-[pada](vāmadaṃ) [pada](vāmadevoktaṃ) [pada](caturviṃśatibhedagam)
+[vāmada](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-division-born](caturviṃśatibhedagam)
