@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-gauṇaḥ(gauṇaḥ) kṣetre(kṣetre) athavā(athavā) ṣaḍdorekavaktraḥ(ṣaḍ+doreka+vaktraḥ) praśasyate(praśasyate)
+[gauṇaḥ](gauṇaḥ) [kṣetre](kṣetre) [athavā](athavā) [ṣaḍdoreka-vaktraḥ](ṣaḍdorekavaktraḥ) [praśasyate](praśasyate)
 
 ## mukta-m0-p40-v977
-yathākramaṃ(yathākramaṃ) sadā(sadā) ṣaḍbhiḥ(ṣaḍbhiḥ) dakṣiṇa(dakṣiṇa) uttara(uttara) pāṇibhiḥ(pāṇibhiḥ)
+[yathākramaṃ](yathākramaṃ) [sadā](sadā) [ṣaḍbhiḥ](ṣaḍbhiḥ) [dakṣiṇa-uttara-pāṇibhiḥ](dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-bibhrat(bibhrat) śaktiṃ(śaktiṃ) kare(kare) yāmye(yāmye) tāmracūḍaṃ(tāmracūḍaṃ) tathā(tathā) itare(itare)
+[bibhrat](bibhrachaktiṃ) [śaktiṃ](śaktiṃ) [kare](kare) [yāmye](yāmye) [tāmracūḍaṃ](tāmracūḍaṃ) [tathā](tathā) [itare](itare)
 
 ## mukta-m0-p40-v979
-śikhyārūḍhaḥ(śikhyārūḍhaḥ) tu(tu) śārvaḥ(śārvaḥ) ayam(ayam) sarva(sarva) alaṅkāra(alaṅkāra) bhaṣitaḥ(bhaṣitaḥ)
+[śikhyārūḍhaḥ](śikhyārūḍhastu) [tu](tu) [śārvaḥ](śārvo'yaṃ) [ayaṃ](ayaṃ) [sarva-alaṅkāra-bhūṣitaḥ](sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-śilā(śilā) hema(hema) ādi(ādi) lohaiḥ(lohaiḥ) vā(vā) vṛṣaṃ(vṛṣaṃ) kuryāt(kuryāt) yathā(yathā) īpsitam(īpsitam)
+[śilā-hema-ādi-lohaiḥ](śilāhemādilohairvā) [vā](vā) [vṛṣaṃ](vṛṣaṃ) [kuryāt](kuryādyathepsitam) [yathā-īpsitam](yathā-īpsitam)
 
 ## mukta-m0-p40-v981
-sādhāraṇeṣu(sādhāraṇeṣu) liṅgeṣu(liṅgeṣu) prastāvāt(prastāvāt) vihitaḥ(vihitaḥ) vṛṣaḥ(vṛṣaḥ)
+[sādhāraṇeṣu](sādhāraṇeṣu) [liṅgeṣu](liṅgeṣu) [prastāvāt](prastāvādvihito) [vihitaḥ](vihitaḥ) [vṛṣaḥ](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-liṅga(liṅga) tryaṃśa(tryaṃśa) ujhitaḥ(ujhitaḥ) kāryaḥ(kāryaḥ) tat(tat) dvirāyati(dvirāyati) vigrahaḥ(vigrahaḥ)
+[liṅga-tryaṃśa-ujjhitaḥ](liṅgatryaṃśojhitaḥ) [kāryaḥ](kāryastaddvirāyativigrahaḥ) [tad-dvi-rāyati-vigrahaḥ](taddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-śubha(śubha) unmolita(unmolita) dṛg(dṛg) lakṣma(lakṣma) liṅgam(liṅgam) astaka(astaka) mastakaḥ(mastakaḥ)
+[śubha-unmolita-dṛg-lakṣma](śubhonmolitadṛglakṣma) [liṅga-mastaka-mastakaḥ](liṅgamastakamastakaḥ)
 
 ## mukta-m0-p40-v984
-dairghyāt(dairghyāt) caturaśa(caturaśa) utyaśa(utyaśa) aṅgulaṃ(aṅgulaṃ) tena(tena) kalpanam(kalpanam)
+[dairghyāt](dairghyāccaturaśotyaśāscāṅgulaṃ) [caturaśa-utyaśaḥ](caturaśotyaśāscāṅgulaṃ) [aṅgulaṃ](aṅgulaṃ) [tena](tena) [kalpanam](kalpanam)
 
 ## mukta-m0-p40-v985
-aṣṭa(aṣṭa) netra(netra) pṛthutvaṃ(pṛthutvaṃ) syāt(syāt) proccaiḥ(proccaiḥ) tat(tat) vaktra(vaktra) dīrghatā(dīrghatā)
+[aṣṭa-netra-pṛthutvaṃ](aṣṭanetrapṛthutvaṃ) [syāt](syāproccaistadvaktradīrghatā) [proccaiḥ](proccaiḥ) [tad-vaktra-dīrghatā](tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-tantri(tantri) bhāgaṃ(bhāgaṃ) tu(tu) tārā(tārā) syāt(syāt) jyotiḥ(jyotiḥ) tat(tat) pañcama(pañcama) aṃśataḥ(aṃśataḥ)
+[tantri-bhāgaṃ](tantribhāgaṃ) [tu](tu) [tārā](tārā) [syāt](syājjyotistatpañcamāṃśataḥ) [jyotiḥ](jyotiḥ) [tat-pañcama-aṃśataḥ](tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-nāsā(nāsā) aṅgula(aṅgula) pramā(pramā) vṛttā(vṛttā) dvi(dvi) netraṃ(netraṃ) śuṣira(śuṣira) antaram(antaram)
+[nāsā-aṅgula-pramā-vṛttā](nāsāṅgulapramāvṛttā) [dvi-netraṃ](dvinetraṃ) [śuṣira-antaram](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-pañca(pañca) netraṃ(netraṃ) tu(tu) vistāraṃ(vistāraṃ) tat(tat) ūrdhva(ūrdhva) tu(tu) vivardhate(vivardhate)
+[pañca-netraṃ](pañcanetraṃ) [tu](tu) [vistāraṃ](vistāraṃ) [tad-ūrdhva](tadūrdhva) [tu](tu) [vivardhate](vivardhate)
 
 ## mukta-m0-p40-v989
-catur(catur) netra(netra) ubhayoḥ(ubhayoḥ) pārśve(pārśve) vaktra(vaktra) mānaṃ(mānaṃ) tu(tu) sandhitaḥ(sandhitaḥ)
+[caturnetra-ubhayoḥ](caturnetrobhayoḥ) [pārśve](pārśve) [vaktra-mānaṃ](vaktramānaṃ) [tu](tu) [sandhitaḥ](sandhitaḥ)
 
 ## mukta-m0-p40-v990
-tat(tat) mūle(mūle) sapta(sapta) vistāraṃ(vistāraṃ) karṇa(karṇa) mūla(mūla) samanvitam(samanvitam)
+[tat-mūle](tanmūle) [sapta-vistāraṃ](saptavistāraṃ) [karṇa-mūla-samanvitam](karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-aṅgula(aṅgula) ardha(ardha) samaṃ(samaṃ) yāvat(yāvat) mūlaṃ(mūlaṃ) pañca(pañca) ka(ka) vartulam(vartulam)
+[aṅgula-ardha-samaṃ](aṅgulārdhasamaṃ) [yāvat](yāvanmūlaṃ) [mūlaṃ](mūlaṃ) [pañcaka-vartulaṃ](pañcakavartulam)
 
 ## mukta-m0-p40-v992
-karṇa(karṇa) mūlāt(mūlāt) tu(tu) nāsā(nāsā) ardhaṃ(ardhaṃ) sūtra(sūtra) hāsa(hāsa) annayet(annayet) samam(samam)
+[karṇa-mūlāt](karṇamūlāttu) [tu](tu) [nāsā-ardhaṃ](nāsārdhaṃ) [sūtra-hāsāt](sūtrahāsānnayetsamam) [nayet](nayet) [samam](samam)
 
 ## mukta-m0-p40-v993
-śaṅkha(śaṅkha) mūla(mūla) dvi(dvi) netraṃ(netraṃ) syāt(syāt) yathā(yathā) agre(agre) netra(netra) pādakam(pādakam)
+[śaṅkha-mūla](śaṅkhamūla) [dvi-netraṃ](dvinetraṃ) [syāt](syādyathāgre) [yathā-agre](yathāgre) [netra-pādakam](netrapādakam)
 
 ## mukta-m0-p40-v994
-pārśva(pārśva) piṇḍī(piṇḍī) dvi(dvi) netra(netra) ardhaṃ(ardhaṃ) ṣaḍ(ṣaḍ) netra(netra) agra(agra) avaṭuḥ(avaṭuḥ) smṛtaḥ(smṛtaḥ)
+[pārśva-piṇḍī](pārśvapiṇḍī) [dvi-netra-ardhaṃ](dvinetrārdhaṃ) [ṣaḍ-netra-agra-avaṭuḥ](ṣaḍnetrāgrāvaṭuḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p40-v995
-dvi(dvi) netra(netra) ucchraya(ucchraya) ūrdhvaṃ(ūrdhvaṃ) syāt(syāt) vṛtta(vṛtta) ūrdhvaṃ(ūrdhvaṃ) yathā(yathā) bhavet(bhavet)
+[dvi-netra-ucchraya-ūrdhvaṃ](dvinetrocchrayatordhvaṃ) [syāt](syādvṛttamūrdhvaṃ) [vṛtta-ūrdhvaṃ](vṛttamūrdhvaṃ) [yathā](yathā) [bhavet](bhavet)
 
 ## mukta-m0-p40-v996
-sandhiḥ(sandhiḥ) netra(netra) adhikaḥ(adhikaḥ) proktaḥ(proktaḥ) catur(catur) netra(netra) upajaṅghikā(upajaṅghikā)
+[sandhiḥ](sandhirnetrādhikaḥ) [netra-adhikaḥ](netrādhikaḥ) [proktaḥ](proktaścaturnetropajaṅghikā) [caturnetra-upajaṅghikā](caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-gulpha(gulpha) ardhaṃ(ardhaṃ) khurikā(khurikā) netraṃ(netraṃ) pādasya(pādasya) at(at) parimāṇataḥ(parimāṇataḥ)
+[gulpha-ardhaṃ](gulphārdhaṃ) [khurikā-netraṃ](khurikānetraṃ) [pādasya](pādasyātparimāṇataḥ) [at](at) [parimāṇataḥ](parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-caturdaśa(caturdaśa) ādi(ādi) tat(tat) vacaḥ(vacaḥ) tri(tri) hīne(hīne) ca(ca) upajaṅghrikā(upajaṅghrikā)
+[caturdaśa-ādi](caturdaśādi) [tad-vaca](tadvaca) [tri-hīne](trihīne) [ca](ca) [upajaṅghrikā](upajaṅghrikā)
 
 ## mukta-m0-p40-v999
-ṣaḍ(ṣaḍ) netra(netra) antaḥ(antaḥ) tathā(tathā) jñeyā(jñeyā) tasmāt(tasmāt) syāt(syāt) puccha(puccha) santatiḥ(santatiḥ)
+[ṣaḍ-netra-antaḥ](ṣaḍnetrāntastathājñeyā) [tathā](tathā) [jñeyā](jñeyā) [tasmāt](tasmātsyātpucchasantatiḥ) [syāt](syāt) [puccha-santatiḥ](pucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-tāla(tāla) trayaṃ(trayaṃ) pradīrghaṃ(pradīrghaṃ) syāt(syāt) tāla(tāla) ardhaṃ(ardhaṃ) keśa(keśa) saṃhatiḥ(saṃhatiḥ)
+[tāla-trayaṃ](tālatrayaṃ) [pradīrghaṃ](pradīrghaṃ) [syāt](syāttālārdhaṃ) [tāla-ardhaṃ](tālārdhaṃ) [keśa-saṃhatiḥ](keśasaṃhatiḥ)

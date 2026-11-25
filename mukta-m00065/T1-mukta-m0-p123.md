@@ -5,67 +5,67 @@
 fragrance flower and incense-etc with-rice and sacred-thread
 
 ## mukta-m0-p123-v3052
-Shiva offer on-head by-exhalation made-nectar
+offer Shiva on-head by-exhalation made-nectar
 
 ## mukta-m0-p123-v3053
 morning bathed pure clean worship do according-to-wealth
 
 ## mukta-m0-p123-v3054
-with-five sweet-substances bathing with-water-interspersed drying
+with-five sweet-baths water-intervals drying
 
 ## mukta-m0-p123-v3055
-eight-limbed argha offering then anointing worship
+eight-limbed argha offering then anointing thoroughly-worship
 
 ## mukta-m0-p123-v3056
-with-cloths covered house with-pots-fans-ornaments
+with-cloths covered house pots-fans-ornaments
 
 ## mukta-m0-p123-v3057
-with-banana-mango-garlands with-born-seed-ornaments
+banana-mango-garlands with-born-seed-ornaments
 
 ## mukta-m0-p123-v3058
-with-dance-song sweet music lead night with-great-festivals
+dance-songs arts-instruments spend-night great-festivals
 
 ## mukta-m0-p123-v3059
-with-devotion satisfy all with-cloth-gifts-etc-food
+with-devotion satisfy all cloth-gifts-etc-foods
 
 ## mukta-m0-p123-v3060
 all-sin-freed Rudra-world exalted
 
 ## mukta-m0-p123-v3061
-bed-sleeping false-speech woman-travel meat-avoiding
+bed-sleeping false-speech women-travel meat-avoider
 
 ## mukta-m0-p123-v3062
-worship doing Shiva bowing sacred-thread and release
+worship doing Shiva bowing sacred-thread release
 
 ## mukta-m0-p123-v3063
-doing throw sacred-threads into-Shiva-fire or into-water
+doing throw sacred-threads Shiva-fire or always-water
 
 ## mukta-m0-p123-v3064
-would-be expiation-descending done Rudra millions-of-years
+becomes penance-descending done Rudra-year crores
 
 ## mukta-m0-p123-v3065
-copper-linga-worship sun piśāca bamboo-born
+copper-linga-worship sun demon bamboo-born
 
 ## mukta-m0-p123-v3066
-lead-born guhyakas all iron-rakshasa-asura-destroyers
+lead-born yakshas all iron-rakshasa-asura-destroyers
 
 ## mukta-m0-p123-v3067
-ruby from-fire and sapphire-worship Vishnu
+ruby fire and sapphire-worship Vishnu
 
 ## mukta-m0-p123-v3068
-coral-mouth-worship nagas Venus from-karketana always
+coral-mouth-worship nagas Venus carnelian-always
 
 ## mukta-m0-p123-v3069
-Paulastya from-Jupiter-born eight siddha-kinnaras
+Paulastya Jupiter-born eight siddha-kinnaras
 
 ## mukta-m0-p123-v3070
-Ashvins from-baked-clay gandharvas from-wife-born
+Ashvins baked-clay-born gandharvas wife-born
 
 ## mukta-m0-p123-v3071
-tortoise-kusha-born Vasuki-leader
+tortoise Vasuki leader
 
 ## mukta-m0-p123-v3072
-from-linga-installation-worship
+linga-installation-worship
 
 ## mukta-m0-p123-v3073
 soma-drinkers
@@ -74,4 +74,4 @@ soma-drinkers
 various-fruit-born-lingas by-rite served and
 
 ## mukta-m0-p123-v3075
-from-sand Vishvakarma and Indra from-salt born
+sand-born Vishvakarma and Indra salt-born

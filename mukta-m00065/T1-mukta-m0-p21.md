@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[v501](granthirūponnatagranthirjaṭharāmayadāyaka)
+[granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka](granthirūponnatagranthirjaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-[v502](tuṣāraṃ) [v502](tadvijānīyā) [v502](putraśokārtidāyakam)
+[tuṣāraṃ-tad-vijānīyā-putra-śoka-ārti-dāyakam](tuṣāraṃ tadvijānīyā putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[v503](hemaghoṣāmayaṃ) [v503](tāmra) [v503](tadduṣṭaṃ) [v503](piṅgalāmate)
+[hema-ghoṣa-āmayaṃ-tāmra-tad-duṣṭaṃ-piṅgalā-mate](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[v504](janaṃ) [v504](hantyāyasākrāntā) [v504](śilā) [v504](tāmī) [v504](ca) [v504](śilpinam)
+[janaṃ-hanty-āyasa-ākrāntā-śilā-tāmī-ca-śilpinam](janaṃ hantyāyasākrāntā śilā tāmī ca śilpinam)
 
 ## mukta-m0-p21-v505
-[v505](kṛṣṇaḥ) [v505](pīto'ruṇo) [v505](binduḥ) [v505](sa) [v505](śokabhayarogadaḥ)
+[kṛṣṇaḥ-pītaḥ-aruṇaḥ-binduḥ-sa-śoka-bhaya-roga-daḥ](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[v506](pīte) [v506](dhanakṣayaḥ) [v506](kartuḥ) [v506](kṛṣṇe) [v506](bandho) [v506](dvayordvidhā)
+[pīte-dhana-kṣayaḥ-kartuḥ-kṛṣṇe-bandho-dvayoḥ-dvidhā](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā)
 
 ## mukta-m0-p21-v507
-[v507](rekhā) [v507](rekhānubiddhā) [v507](vā) [v507](pārthivaṃ) [v507](sā) [v507](vināśayet)
+[rekhā-rekhā-anubiddhā-vā-pārthivaṃ-sā-vināśayet](rekhā rekhānubiddhā vā pārthivaṃ sā vināśayet)
 
 ## mukta-m0-p21-v508
-[v508](svāmidhnī) [v508](ca) [v508](catuśchinnā) [v508](bahucchinnā) [v508](kulāntakṛt)
+[svāmidhnī-ca-catuḥ-chinnā-bahu-chinnā-kula-anta-kṛt](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[v509](makṣikā) [v509](makṣikākārā) [v509](tayā) [v509](kuṣṭhaṃ) [v509](sudāruṇam)
+[makṣikā-makṣikā-ākārā-tayā-kuṣṭhaṃ-su-dāruṇam](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam)
 
 ## mukta-m0-p21-v510
-[v510](tadā) [v510](nānā) [v510](gadān) [v510](kuryāt) [v510](kartuścaiva) [v510](na) [v510](saṃśayaḥ)
+[tadā-nānā-gadān-kuryāt-kartuḥ-ca-eva-na-saṃśayaḥ](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[v511](tyājyaṃ) [v511](tadā) [v511](tridhā) [v511](liṅgaṃ) [v511](nṛparāṣṭraprajārthinā)
+[tyājyaṃ-tadā-tridhā-liṅgaṃ-nṛpa-rāṣṭra-prajā-arthinā](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[v512](vāmapārśvāśritaḥ) [v512](kiṃciddhanyādrāṣṭraṃ) [v512](sarājakam)
+[vāma-pārśva-āśritaḥ-kiṃcit-hanyāt-rāṣṭraṃ-sa-rājakam](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam)
 
 ## mukta-m0-p21-v513
-[v513](sarvavarṇā) [v513](bhṛśaṃ) [v513](nūnaṃ) [v513](prāṇahṛtkṛṣṇahīrikā)
+[sarva-varṇā-bhṛśaṃ-nūnaṃ-prāṇa-hṛt-kṛṣṇa-hīrikā](sarvavarṇā bhṛśaṃ nūnaṃ prāṇahṛtkṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[v514](unnato) [v514](lakṣyate) [v514](yaśca) [v514](viḍālāṅghriḥ) [v514](sa) [v514](doṣabhāk)
+[unnato-lakṣyate-yaśca-viḍāla-aṅghriḥ-sa-doṣa-bhāk](unnato lakṣyate yaśca viḍālāṅghriḥ sa doṣabhāk)
 
 ## mukta-m0-p21-v515
-[v515](śilāyā) [v515](rūpamālakṣya) [v515](tyajettāmaśubhapradām)
+[śilāyā-rūpam-ālakṣya-tyajet-tām-aśubha-pradām](śilāyā rūpamālakṣya tyajettāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-[v516](svalpadoṣān) [v516](prakṣyāmi) [v516](yathā) [v516](śāstreṣu) [v516](bhāṣitān)
+[svalpa-doṣān-prakṣyāmi-yathā-śāstreṣu-bhāṣitān](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān)
 
 ## mukta-m0-p21-v517
-[v517](valmīkoṣaracityutthā) [v517](koṣṇā) [v517](kṣārāmbumadhyagā)
+[valmīka-uṣara-cityutthā-koṣṇā-kṣāra-ambu-madhya-gā](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[v518](kudiksthā) [v518](sūryasantaptā) [v518](kadutthāmethyadūṣitā)
+[kudik-sthā-sūrya-santaptā-kadutthā-methy-a-dūṣitā](kudiksthā sūryasantaptā kadutthāmethyadūṣitā)
 
 ## mukta-m0-p21-v519
-[v519](duṣṭajīvasvarā) [v519](yā) [v519](ca) [v519](yojitā) [v519](nānyakarmaṇi)
+[duṣṭa-jīva-svarā-yā-ca-yojitā-na-anya-karmaṇi](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[v520](yā) [v520](yopalānulagnā) [v520](sā) [v520](snehavicchittikārikāḥ)
+[yā-yopalā-anulagnā-sā-sneha-vicchitti-kārikāḥ](yā yopalānulagnā sā snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-[v521](ūṣarasthārthahṛjjñeyā) [v521](citisthā) [v521](duḥkhadāyinī)
+[ūṣara-sthā-artha-hṛt-jñeyā-citi-sthā-duḥkha-dāyinī](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[v522](pāṣadāpuṇyadeśasthā) [v522](vadhakṛdbhilla) [v522](sevitā)
+[pāṣadā-puṇya-deśa-sthā-vadha-kṛt-bhilla-sevitā](pāṣadāpuṇyadeśasthā vadhakṛdbhilla sevitā)
 
 ## mukta-m0-p21-v523
-[v523](dāhaṃ) [v523](hāniṃ) [v523](ca) [v523](śokaṃ) [v523](ca) [v523](naiḥsvaṃ) [v523](rogaṃ) [v523](tathāvahet)
+[dāhaṃ-hāniṃ-ca-śokaṃ-ca-naiḥsvaṃ-rogaṃ-tathā-vahet](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet)
 
 ## mukta-m0-p21-v524
-[v524](surāpakṣivasāgandhā) [v524](udvegajananī) [v524](śilā)
+[surā-pakṣi-vasā-gandhā-udvega-jananī-śilā](surāpakṣivasāgandhā udvegajananī śilā)
 
 ## mukta-m0-p21-v525
-[v525](vajradagdhāgnidagdhā) [v525](ca) [v525](rājño'nalabhayapradā)
+[vajra-dagdhā-agni-dagdhā-ca-rājñaḥ-anala-bhaya-pradā](vajradagdhāgnidagdhā ca rājño'nalabhayapradā)
