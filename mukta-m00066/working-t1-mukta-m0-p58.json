@@ -16,11 +16,11 @@
 },
 {
 "surface": "kṛtitvasya",
-"quick_gloss": "of-creation"
+"quick_gloss": "of-action"
 },
 {
 "surface": "ghaṭanaṃ",
-"quick_gloss": "formation"
+"quick_gloss": "making"
 },
 {
 "surface": "na",
@@ -28,11 +28,11 @@
 },
 {
 "surface": "ghaṭe",
-"quick_gloss": "occurs"
+"quick_gloss": "in-pot"
 },
 {
 "surface": "bhavat",
-"quick_gloss": "becomes"
+"quick_gloss": "occurs"
 }
 ]
 },
@@ -45,11 +45,23 @@
 "tokens": [
 {
 "surface": "tritvantu",
-"quick_gloss": "threefold"
+"quick_gloss": "three-fold"
 },
 {
-"surface": "vyavahārasyāpyapekṣaivātra",
-"quick_gloss": "of-practice"
+"surface": "vyavahārasya",
+"quick_gloss": "of-usage"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "apekṣa",
+"quick_gloss": "expectation"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "sammatam",
@@ -77,8 +89,16 @@
 "quick_gloss": "but"
 },
 {
-"surface": "śabdabhāvyamihādhunā",
+"surface": "śabdabhāvyam",
 "quick_gloss": "by-sound"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -90,12 +110,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabdabhāsyatvamujhitvā",
-"quick_gloss": "by-sound-visibility"
+"surface": "śabdabhāsyatvam",
+"quick_gloss": "sound-manifestation"
+},
+{
+"surface": "ujhitvā",
+"quick_gloss": "abandoning"
 },
 {
 "surface": "svādhyakṣeṇa",
-"quick_gloss": "by-self-witness"
+"quick_gloss": "by-direct-perception"
 },
 {
 "surface": "sabhāsate",
@@ -170,7 +194,7 @@
 "tokens": [
 {
 "surface": "mahyāṃ",
-"quick_gloss": "on-earth"
+"quick_gloss": "in-earth"
 },
 {
 "surface": "siddhādirūpeṇa",
@@ -191,7 +215,7 @@
 "tokens": [
 {
 "surface": "śabdemaṃghījalamarut",
-"quick_gloss": "by-sound-this-water-air"
+"quick_gloss": "sound-this-ghī-water-air"
 },
 {
 "surface": "saṃśrayaḥ",
@@ -319,8 +343,12 @@
 "quick_gloss": "aggregates"
 },
 {
-"surface": "bahavonaikarūpiṇaḥ",
-"quick_gloss": "many-not-one-formed"
+"surface": "bahavo",
+"quick_gloss": "many"
+},
+{
+"surface": "naikarūpiṇaḥ",
+"quick_gloss": "not-one-form"
 }
 ]
 },
@@ -332,12 +360,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahunā kimihoktena",
-"quick_gloss": "why-much-here-said"
+"surface": "bahunā",
+"quick_gloss": "by-much"
+},
+{
+"surface": "kimihoktena",
+"quick_gloss": "what-here-said"
 },
 {
 "surface": "kintatvairaparairjaḍaiḥ",
-"quick_gloss": "what-principle-other-inert"
+"quick_gloss": "what-principle"
 }
 ]
 },
@@ -349,20 +381,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acchedyo'yamadāhoya",
+"surface": "acchedyo",
 "quick_gloss": "uncuttable"
 },
 {
-"surface": "makledyośoṣya",
-"quick_gloss": "unwettable-undryable"
+"surface": "adāhoya",
+"quick_gloss": "unburnable"
+},
+{
+"surface": "makledyo",
+"quick_gloss": "unwettable"
+},
+{
+"surface": "aśoṣya",
+"quick_gloss": "undryable"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "thus"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 }
 ]
 },
@@ -375,15 +415,15 @@
 "tokens": [
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "janakaḥ",
-"quick_gloss": "creator"
+"quick_gloss": "begetter"
 },
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "pālakaḥ",
@@ -433,7 +473,7 @@
 },
 {
 "surface": "vasudhāvāsavārcite",
-"quick_gloss": "earth-abode-worshipped"
+"quick_gloss": "earth-dwelling-worshipped"
 }
 ]
 },
@@ -531,8 +571,12 @@
 "quick_gloss": "with-sound"
 },
 {
-"surface": "tatodyate",
+"surface": "tat",
 "quick_gloss": "then"
+},
+{
+"surface": "udyate",
+"quick_gloss": "raised"
 }
 ]
 },
@@ -556,12 +600,24 @@
 "quick_gloss": "principle"
 },
 {
-"surface": "kathitamasyaivānyā",
+"surface": "kathitam",
 "quick_gloss": "said"
 },
 {
+"surface": "asya",
+"quick_gloss": "of-this"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
+"surface": "anyā",
+"quick_gloss": "other"
+},
+{
 "surface": "vibhūtayaḥ",
-"quick_gloss": "vibhūtayaḥ"
+"quick_gloss": "powers"
 }
 ]
 },
@@ -594,7 +650,7 @@
 },
 {
 "surface": "girinaṃdini",
-"quick_gloss": "girinandinī"
+"quick_gloss": "girinaṃdini"
 }
 ]
 },
