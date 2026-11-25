@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[prāvrājya+naśyate](prāvrājyānnaśyate) [pūrvam](pūrvaṃ) [strī+yoga+aparam](strīyogādaparaṃ) [tathā](tathā)
+[by-renunciation](prāvrājyāt) [perishes](naśyate) [first](pūrvaṃ) [by-woman-union](strīyogāt) [after](aparaṃ) [thus](tathā)
 
 ## mukta-m0-p10-v227
-[tri+karṇa+uttha](trikarṇotthāstrikarṇāśca) [tri+karṇa](trikarṇāśca) [tri+kapāna+ātma](trikapānātma) [karṇakā](karṇakā)
+[three-eared-born](trikarṇotthāḥ) [three-eared](trikarṇāḥ) [and](ca) [three-skulled-self](trikapānātma) [ear-born](karṇakāḥ)
 
 ## mukta-m0-p10-v228
-[bhasma+aṅkura](bhasmāṅkurastu) [kattha+ostha](katthosthastatsutāḥ) [tat+sutāḥ](tatsutāḥ) [kauśika+ādayaḥ](kauśikādayaḥ)
+[ash-sprout](bhasmāṅkuraḥ) [tu](tu) [boaster-lipped](katthosthaḥ) [his-sons](tatsutāḥ) [kauśika-etc](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[rāṣṭra+kṣaya+kara](rāṣṭrakṣayakarā) [hi+ete](hyete) [ye+ca](ye) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
+[kingdom-destruction-makers](rāṣṭrakṣayakarāḥ) [indeed](hi) [these](ete) [and](ca) [heretics](paṣāṇḍinaḥ) [men](narāḥ)
 
 ## mukta-m0-p10-v230
-[śāstra+avalokanāt+eva](śāstrāvalokanādeva) [caṇḍeśaḥ](caṇḍeśastasya) [tasya](tasya) [śāsakaḥ](śāsakaḥ)
+[by-scripture-viewing](śāstrāvalokanāt) [eva](eva) [caṇḍeśa](caṇḍeśaḥ) [his](tasya) [ruler](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[sa](sa) [yāti](yāti) [narakaṃ](narakaṃ) [sadyaḥ](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
+[he](sa) [goes](yāti) [hell](narakaṃ) [immediately](sadyaḥ) [with-sacrificers](yājñikaiḥ) [with](saha) [teacher](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[teṣām](teṣāmācaraṇānnityamācārya) [ācaraṇāt](ācaraṇāt) [nityam](nityam) [ācāryaḥ](ācārya) [iti](iti) [kīrtyate](kīrtyate)
+[by-their-conduct](teṣāmācaraṇāt) [always](nityam) [teacher](ācāryaḥ) [thus](iti) [is-called](kīrtyate)
 
 ## mukta-m0-p10-v233
-[tasmāt](tasmānna) [na](na) [mānavīm](mānavīṃ) [buddhim](buddhiṃ) [kārayet](kārayeddaiśikaṃ) [daiśikaṃ](daiśikaṃ) [prati](prati)
+[therefore](tasmāt) [not](na) [human](mānavīṃ) [mind](buddhiṃ) [should-make](kārayet) [teacher](daiśikaṃ) [toward](prati)
 
 ## mukta-m0-p10-v234
-[pañca+vaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañca+āgama+vivṛddhaye](pañcāgamavivṛddhaye)
+[five-faces](pañcavaktrāṇi) [of-god](devasya) [for-five-āgamas-growth](pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasramaṃśuma) [aṃśuma](aṃśuma) [suprabhaṃ](tsuprabhaṃ) [daśa](daśa)
+[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [ca](ca) [thousand-rayed](sāhasramaṃśu) [very-bright](suprabhaṃ) [ten](daśa)
 
 ## mukta-m0-p10-v236
-[vijayaṃ](vijayaṃ) [pāram+aiśvaryaṃ](pāramaiśvaryaṃ) [niśvāsa+udgīta+saṃjñakam](niśvāsodgītasaṃjñakam)
+[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [breath-song-named](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-[narasiṃhaṃ](narasiṃhaṃ) [candrahāsaṃ](candrahāsaṃ) [vīraṃ](vīraṃ) [svāyambhu](svāyambhurauravam) [rauravaṃ](rauravam)
+[narasiṃha](narasiṃhaṃ) [moon-laugh](candrahāsaṃ) [hero](vīraṃ) [svāyambhu](svāyambhu) [aurava](auravam)
 
 ## mukta-m0-p10-v238
-[rudra+bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśa+aṣṭādaśa](daśāṣṭādaśa) [ca](ca) [ūrdhvagāḥ](ūrdhvagāḥ)
+[rudra-divisions](rudrabhedāḥ) [declared](samākhyātāḥ) [ten-eighteen](daśāṣṭādaśa) [or](ca) [upward-going](ūrdhvagāḥ)
 
 ## mukta-m0-p10-v239
-[pañca+bhūta](pañcabhūta) [vibhāgaṃ](vibhāgaṃ) [ca](ca) [śūnya+bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
+[five-elements](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[kambojaṃ](kambojaṃ) [kambalaṃ](kambalaṃ) [kaṅkaṃ](kaṅkaṃ) [kālakuṇḍaṃ](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
+[kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[gāruḍasya](gāruḍasya) [tu](tu) [ime](ime) [bhedāḥ](bhedā) [aṣṭāviṃśatiḥ](aṣṭāviṃśatirīritāḥ) [īritāḥ](īritāḥ)
+[of-gāruḍa](gāruḍasya) [tu](tu) [these](ime) [divisions](bhedāḥ) [twenty-eight](aṣṭāviṃśatiḥ) [declared](īritāḥ)
 
 ## mukta-m0-p10-v242
-[asitāṅgaṃ](asitāṅgaṃ) [ruruṃ](ruruṃ) [ca+eva](caiva) [kapālīśaṃ](kapālīśaṃ) [samuccayam](samuccayam)
+[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [ca](ca) [eva](eva) [kapālīśa](kapālīśaṃ) [collection](samuccayam)
 
 ## mukta-m0-p10-v243
-[bhīmāṅgaṃ](bhīmāṅgaṃ) [ḍāmarārāvaṃ](ḍāmarārāvaṃ) [bhīmaṃ](bhīmaṃ) [vetāla+mardakam](vetālamardakam)
+[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetāla-crusher](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[triśiraṃ](triśiraṃ) [ca](ca) [ekapādaṃ](ekapādaṃ) [tu](tu) [siddha+yogeśvarī+matam](siddhayogeśvarīmatam)
+[three-headed](triśiraṃ) [ca](ca) [one-footed](ekapādaṃ) [tu](tu) [siddhayogeśvarī-opinion](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](saṅkocaṃ) [tilaka+udyāna+bhairavaṃ](tilakodyānabhairavam)
+[all-pervading-throat](viśvarikaṇṭha) [contraction](saṅkocaṃ) [tilaka-garden-bhairava](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-[catuḥ+ṣaṣṭi+pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa+āsya+adbhavāni](dakṣiṇāsyādbhavāni) [ca](ca)
+[sixty-four](catuḥṣaṣṭi) [measure](pramāṇāni) [from-southern-face](dakṣiṇāsyāt) [born](bhavāni) [ca](ca)
 
 ## mukta-m0-p10-v247
-[kara+pūjā+vidhānaṃ](karapūjāvidhānaṃ) [tu](tu) [vīṇā+tantraṃ](vīṇātantraṃ) [tat+uttaram](taduttaram)
+[hand-worship-rite](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantra](vīṇātantraṃ) [its-next](taduttaram)
 
 ## mukta-m0-p10-v248
-[siddha+nitya+udayaṃ](siddhanityodayaṃ) [jyeṣṭhaṃ](jyeṣṭhaṃ) [cintāmaṇi+mahodayam](cintāmaṇimahodayam)
+[siddha-daily-rise](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi-great-rise](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[ānanda+rudra+bhadra+ākhyaṃ](ānandarudrabhadrākhyaṃ) [kiṅkaraṃ](kiṅkaraṃ) [kiṅkara+anugam](kiṅkarānugam)
+[ānanda-rudra-bhadra-named](ānandarudrabhadrākhyaṃ) [servant](kiṅkaraṃ) [servant-follower](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[vāmadaṃ](vāmadaṃ) [vāmadeva+uktaṃ](vāmadevoktaṃ) [caturviṃśati+bheda+gam](caturviṃśatibhedagam)
+[vāmada](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-divisions](caturviṃśatibhedagam)
