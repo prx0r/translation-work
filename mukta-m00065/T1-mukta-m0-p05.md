@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[pada-gloss](ityeteṣāmabhāve) [pada-gloss](tu) [pada-gloss](rasendraṃ) [pada-gloss](vajrasaṃyutam)
+[thus](iti) [of-these](eteṣām) [in-absence](abhāve) [but](tu) [mercury](rasendram) [diamond+combined](vajra+saṃyutam)
 
 ## mukta-m0-p05-v102
-[pada-gloss](gavyasarjayutaiścaiva) [pada-gloss](lepyaṃ) [pada-gloss](varṇakapuṣṭaye)
+[cow+resin+joined](gavya+sarja+yutaiḥ) [and](ca) [indeed](eva) [plaster](lepyam) [color+nourishment](varṇaka+puṣṭaye)
 
 ## mukta-m0-p05-v103
-[pada-gloss](sadvārarkṣartuyuktenhi) [pada-gloss](cārulagnasamanvite)
+[good-door+constellation+season+endowed](sadvāra+ṛkṣa+ṛtu+yuktena) [indeed](hi) [beautiful+ascendant+accompanied](cāru+lagna+samanvite)
 
 ## mukta-m0-p05-v104
-[pada-gloss](divyāntarikṣabhaumāni) [pada-gloss](śubhāśubhaphalāptaye)
+[celestial+atmospheric+terrestrial](divya+antarikṣa+bhaumāni) [auspicious+inauspicious+fruit+attainment](śubha+aśubha+phala+āptaye)
 
 ## mukta-m0-p05-v105
-[pada-gloss](ityādi) [pada-gloss](śubhakṛddivyamato'śubhakaraṃ) [pada-gloss](tvidam)
+[etc](ityādi) [auspicious+doing+divine](śubha+kṛt+divyam) [therefore](atas) [inauspicious+making](aśubha+karam) [but](tu) [this](idam)
 
 ## mukta-m0-p05-v106
-[pada-gloss](digdāhastīvravātaśca) [pada-gloss](candrasūryopamardanam)
+[direction+burning](dig+dāha) [intense+wind](stīvra+vātaḥ) [and](ca) [moon+sun+affliction](candra+sūrya+upamardanam)
 
 ## mukta-m0-p05-v107
-[pada-gloss](vāsavṛkṣāgrasaṃsthāyi) [pada-gloss](balibhuṅmadhurārutiḥ)
+[dwelling+tree+top+standing](vāsa+vṛkṣa+agra+saṃsthāyi) [offering+eating](bali+bhuk) [sweet+cry](madhura+ārutiḥ)
 
 ## mukta-m0-p05-v108
-[pada-gloss](pāṃśvasṛgvarṣaṇaṃ) [pada-gloss](ghoramāntarikṣamaśobhanam)
+[dust+blood+raining](pāṃśu+asṛk+varṣaṇam) [terrible](ghoram) [atmospheric](āntarikṣam) [inauspicious](aśobhanam)
 
 ## mukta-m0-p05-v109
-[pada-gloss](dadhyakṣatayavā) [pada-gloss](dūrvā) [pada-gloss](dīpo) [pada-gloss](gorocanā) [pada-gloss](dhvajaḥ)
+[curd+unbroken-rice+barley](dadhi+akṣata+yavā) [durva](dūrvā) [lamp](dīpaḥ) [gorocana](gorocanā) [banner](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[pada-gloss](govṛṣaśca) [pada-gloss](kharo) [pada-gloss](vājī) [pada-gloss](bhasmākṣo) [pada-gloss](bhūpatirdvipaḥ)
+[cow+bull](go+vṛṣaḥ) [and](ca) [donkey](kharaḥ) [horse](vājī) [ash+eyed](bhasma+akṣaḥ) [king](bhūpatiḥ) [elephant](dvipaḥ)
 
 ## mukta-m0-p05-v111
-[pada-gloss](śivaḥ) [pada-gloss](śivodakuṃbhasthaḥ) [pada-gloss](kauśiko) [pada-gloss](vāmataḥ) [pada-gloss](śubhaḥ)
+[Shiva](śivaḥ) [Shiva+water+pot+standing](śiva+uda+kuṃbha+sthaḥ) [Kausika](kauśikaḥ) [from-left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-[pada-gloss](muktakeśaḥ) [pada-gloss](parākṣepaḥ) [pada-gloss](kṣāro'ṅgāraśca) [pada-gloss](dāru) [pada-gloss](ca)
+[loose+hair](mukta+keśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [and](ca)
 
 ## mukta-m0-p05-v113
-[pada-gloss](chinnāṅgo'locano) [pada-gloss](rogī) [pada-gloss](kapālī) [pada-gloss](bhūprakampanaḥ)
+[cut+limb](chinna+aṅgaḥ) [eyeless](alocanaḥ) [sick](rogī) [skull-bearer](kapālī) [earth+tremor](bhū+prakampanaḥ)
 
 ## mukta-m0-p05-v114
-[pada-gloss](kṣutkṣāmonmattakau) [pada-gloss](tantuścauṣadhīṣaṇasañcayaḥ)
+[hunger+emaciated+mad](kṣut+kṣāma+unmattakau) [thread](tantuḥ) [and](ca) [herb+seeking+collection](auṣadhī+īṣaṇa+sañcayaḥ)
 
 ## mukta-m0-p05-v115
-[pada-gloss](pakṣārdhārdhaṃ) [pada-gloss](tu) [pada-gloss](saṃtyajya) [pada-gloss](prasthānaṃ) [pada-gloss](kriyate) [pada-gloss](śubhe)
+[fortnight+half+half](pakṣa+ardha+ardham) [but](tu) [abandoning](saṃtyajya) [departure](prasthānam) [is-done](kriyate) [in-auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-[pada-gloss](vedase) [pada-gloss](syādvite) [pada-gloss](yātā) [pada-gloss](tvagnidaṇḍānatikramāt)
+[for-Veda](vedase) [may-be](syāt) [two](vite) [travelers](yātā) [but](tu) [fire+staff+non-transgression](agni+daṇḍa+anatikramāt)
 
 ## mukta-m0-p05-v117
-[pada-gloss](iṣṭādau) [pada-gloss](śaṅkaraṃ) [pada-gloss](śastaṃ) [pada-gloss](prāgīśenduvanaṃ) [pada-gloss](vrajet)
+[desired+beginning](iṣṭa+ādau) [Shankara](śaṅkaram) [auspicious](śastam) [east+lord+moon+forest](prāg+īśa+indu+vanam) [should-go](vrajet)
 
 ## mukta-m0-p05-v118
-[pada-gloss](budhārkendusite) [pada-gloss](jīve) [pada-gloss](vārkṣe) [pada-gloss](prāguttarasthite)
+[Mercury+Sun+Moon+Venus](budha+arka+indu+site) [Jupiter](jīve) [in-tree](vārkṣe) [east+north+situated](prāg+uttara+sthite)
 
 ## mukta-m0-p05-v119
-[pada-gloss](ekāntarāsu) [pada-gloss](tārāsu) [pada-gloss](śeṣe) [pada-gloss](cāniṣṭakarmaṇi)
+[one+intervening](eka+antarāsu) [stars](tārāsu) [remainder](śeṣe) [and](ca) [inauspicious+action](aniṣṭa+karmaṇi)
 
 ## mukta-m0-p05-v120
-[pada-gloss](niṣadho) [pada-gloss](nīlagandhākhyaḥ) [pada-gloss](śaṅgīketurnagādhipāḥ)
+[Nishadha](niṣadhaḥ) [blue+scent+named](nīla+gandha+ākhyaḥ) [Shanki](śaṅgī) [Ketu](ketuḥ) [mountain+lords](naga+adhipāḥ)
 
 ## mukta-m0-p05-v121
-[pada-gloss](nandākhyo) [pada-gloss](malayo) [pada-gloss](vindhya) [pada-gloss](ujjayanto'tha) [pada-gloss](ṛkṣakaḥ)
+[Nanda+named](nanda+ākhyaḥ) [Malaya](malayaḥ) [Vindhya](vindhyaḥ) [Ujjayanta](ujjayantaḥ) [then](atha) [Rikshaka](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[pada-gloss](yojanāni) [pada-gloss](daśaiteṣāṃ) [pada-gloss](girīṇāṃ) [pada-gloss](nikaṭe) [pada-gloss](vanam)
+[yojanas](yojanāni) [ten](daśa) [of-these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-[pada-gloss](etatkṣetrotthitā) [pada-gloss](ye) [pada-gloss](tu) [pada-gloss](pāṣāṇāstaravaḥ) [pada-gloss](śubhāḥ)
+[this+field+risen](etat+kṣetra+utthitāḥ) [those](ye) [but](tu) [stones](pāṣāṇāḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-[pada-gloss](sācāryaḥ) [pada-gloss](sādhakaḥ) [pada-gloss](śilpijanaiḥ) [pada-gloss](parivataḥ) [pada-gloss](śubhaiḥ)
+[with+teacher](sa+ācāryaḥ) [practitioner](sādhakaḥ) [artisan+people](śilpi+janaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[pada-gloss](dhyātvādhaḥ) [pada-gloss](prākṛtaṃ) [pada-gloss](tattvaṃ) [pada-gloss](śivatattvamayīṃ) [pada-gloss](mahīm)
+[meditating](dhyātvā) [below](adhaḥ) [material](prākṛtam) [principle](tattvam) [Shiva+principle+made](śiva+tattva+mayīm) [earth](mahīm)
