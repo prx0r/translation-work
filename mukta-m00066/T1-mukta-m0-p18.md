@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga+śakti](anaṃgaśaktayo) [aṣṭau](aṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
+anaṃga-śakti + aṣṭau + tu + pūjanīyā + manīṣibhiḥ
 
 ## mukta-m0-p18-v427
-[anaṃga](anaṃgamadanānaṃga) [madana](madanāturayā) [āturayā](madanāturayā) [saha](saha)
+anaṃga-madana + anaṃga + madana-āturayā + saha
 
 ## mukta-m0-p18-v428
-[anaṃga+mālinī](anaṃgamālinī) [ca](cāṣṭau) [aṣṭau](cāṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+anaṃga-mālinī + ca + aṣṭau + pūjanīyā + vidhānataḥ
 
 ## mukta-m0-p18-v429
-[ānaṃda+cakra](ānaṃdacakramānaṃda) [ānaṃda](ānaṃdacakramānaṃda) [kolāhala+vivarddhana](kolāhalavivarddhanam)
+ānanda-cakra + ānanda + kolāhala + vivarddhana
 
 ## mukta-m0-p18-v430
-[taṭit+prabhā](taṭitprabhā) [samullāsa+piṃjara](samullāsapiṃjaraiḥ) [kāma+raśmi](kāmaraśmibhiḥ)
+taṭit-prabhā + samullāsa-piṃjaraiḥ + kāma-raśmibhiḥ
 
 ## mukta-m0-p18-v431
-[anaṃga+śakti](anaṃgaśakti) [saṃkṣobha](saṃkṣobhāṃ) [nāḍī+bhyas](nāḍībhyogalitaṃ) [galita](nāḍībhyogalitaṃ) [navam](navam)
+anaṃga-śakti + saṃkṣobhām + nāḍībhyaḥ + galitaṃ + navam
 
 ## mukta-m0-p18-v432
-[śṛṃgāra+vāhinī](śṛṃgāravāhinīpūra) [pūra](śṛṃgāravāhinīpūra) [pūrṇa+rāgā](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
+śṛṃgāra-vāhinī-pūra + pūrṇa-rāgām + kura-aruṇam
 
 ## mukta-m0-p18-v433
-[manmatha+drava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭam](juṣṭamarthaprabhedanaiḥ) [artha+prabhedana](arthaprabhedanaiḥ)
+manmatha-drava + saṃdoha + juṣṭam + artha-prabhedanaiḥ
 
 ## mukta-m0-p18-v434
-[ka](keyaṃ) [iyaṃ](keyaṃ) [caṃdra+kalā](caṃdrakalānāma) [nāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+kā + iyaṃ + candrakalā + nāma + kutra + tiṣṭhati + śaṃkara
 
 ## mukta-m0-p18-v435
-[śṛṇu](śṛṇukāmakalānāma) [kāma+kalā](kāmakalānāma) [nāma](kāmakalānāma) [nāḍī+bhoga+ambu+vāhinī](nāḍībhogāṃbuvāhinī)
+śṛṇu + kāma-kalā + nāma + nāḍī-bhoga-ambu-vāhinī
 
 ## mukta-m0-p18-v436
-[nāḍī+cakra](nāḍīcakraṃ) [samasta](samastaṃ) [ca](ca) [tayā](tayā) [vyāpta](vyāptaṃ) [varānane](varānane)
+nāḍī-cakraṃ + samastaṃ + ca + tayā + vyāptaṃ + varānane
 
 ## mukta-m0-p18-v437
-[kāścit](kāścidānaṃdavāhinya) [ānaṃda+vāhinī](ānaṃdavāhinya) [eka](ekaivamalavāhinī) [eva](ekaivamalavāhinī) [amala+vāhinī](amalavāhinī)
+kāścit + ānanda-vāhinyā + eka + eva + mala-vāhinī
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭaubhogāṃbuvāhinyaḥ) [bhoga+ambu+vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra+kalā](caṃdrakalā) [parā](parā)
+aṣṭau + bhoga-ambu-vāhinyaḥ + tāsu + candrakalā + parā
 
 ## mukta-m0-p18-v439
-[caṃdra+rekhā](caṃdrarekhā) [caṃdra+vatī](caṃdravatī) [tathā](tathā) [caṃdra+mahodayā](caṃdramahodayā)
+candrarekhā + candravatī + tathā + candramahodayā
 
 ## mukta-m0-p18-v440
-[etā](etābhogāṃbuvāhinya) [bhoga+ambu+vāhinī](bhogāṃbuvāhinya) [sva+aṃśaiḥ](svāṃśaiścaṃdrakalāśritāḥ) [caṃdra+kalā+āśritāḥ](caṃdrakalāśritāḥ)
+etāḥ + bhoga-ambu-vāhinyaḥ + svāṃśaiḥ + candrakalā-āśritāḥ
 
 ## mukta-m0-p18-v441
-[pradhāna+bhūtā](pradhānabhūtā) [vilasad+vidyut+dāma](vilasadvidyuddāma) [sama+prabhā](samaprabhā)
+pradhāna-bhūtā + vilasad-vidyut-dāma + sama-prabhā
 
 ## mukta-m0-p18-v442
-[sarva+nāḍī+mūla+bhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhi+cakra](nābhicakraṃ) [samāśritā](samāśritā)
+sarva-nāḍī-mūla-bhūtaṃ + nābhi-cakraṃ + samāśritā
 
 ## mukta-m0-p18-v443
-[tan+mukha+udghāṭanaṃ](tanmukhotghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
+tat + mukha-udghāṭanaṃ + loke + durlabhaṃ + parameśvari
 
 ## mukta-m0-p18-v444
-[dvi+trāṇām](dvitrāṇāmeva) [eva](dvitrāṇāmeva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣvathakauliṣu) [atha](sahasreṣvathakauliṣu) [kauliṣu](sahasreṣvathakauliṣu)
+dvi-trāṇām + eva + jāyeta + sahasreṣu + atha + kauliṣu
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃga+īśvara+āseka](liṃgesvarāseka) [sakṛt](sakṛdvāpīhajanmani) [vā](sakṛdvāpīhajanmani) [api](sakṛdvāpīhajanmani) [janmani](sakṛdvāpīhajanmani)
+yasya + liṃga-īśvara-āseka + sakṛt + vā + api + iha + janmani
 
 ## mukta-m0-p18-v446
-[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavīnadaviyasī) [nada+viyasī](nadaviyasī)
+anirvācyasya + nirvāṇa + padavī + nadaviyasī
 
 ## mukta-m0-p18-v447
-[samayasya](samayasya) [parijñānāt](parijñānādupacārasya) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
+samayasya + parijñānāt + upacārasya + kalpanāt
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid](kvacidunmeṣaṃ) [unmeṣaṃ](unmeṣaṃ) [mukha+udghāṭana+lakṣaṇam](mukhodghāṭanalakṣaṇam)
+kadācit + kvacid + unmeṣaṃ + mukha-udghāṭana-lakṣaṇam
 
 ## mukta-m0-p18-v449
-[tad+arthāni](tadarthānyevaśāstrāṇi) [eva](tadarthānyevaśāstrāṇi) [śāstrāṇi](tadarthānyevaśāstrāṇi) [tad+arthāḥ](tadarthāśca) [ca](tadarthāśca) [pravṛttayaḥ](pravṛttayaḥ)
+tad-arthāni + eva + śāstrāṇi + tad-arthāḥ + ca + pravṛttayaḥ
 
 ## mukta-m0-p18-v450
-[tasmāt](tasmāccaṃdrakalānāḍyāṃ) [caṃdra+kalā+nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga+amṛta+mahodadhim](bhogāmṛtamahodadhim)
+tasmāt + candrakalā-nāḍyām + bhoga-amṛta-mahodadhim
