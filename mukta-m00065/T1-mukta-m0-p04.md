@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[in-ground](sthaṇḍile) [in-circle](maṇḍale) [worshipable](pūjya) [may-be+initiation+establishment+etc](syāddīkṣāsthāpanādike)
+on-ground on-circle worshipful should-be initiation-establishment-etc
 
 ## mukta-m0-p04-v77
-[lord-honoring](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-tusk-born](sainyacchinnāgadantajam)
+lord-honoring-giving conch [kh: bow] army-cut-elephant-tusk-born
 
 ## mukta-m0-p04-v78
-[atom-etc-king-born](aṇimādinṛkulyottham) [mutual-half-month](anyonyabdārdhataḥ) [always](sadā)
+atom-etc-kingly-born mutual-half-month always
 
 ## mukta-m0-p04-v79
-[rice-flour-born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [sixty-day](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
+rice-flour-born nourishment six-grain nourishment-increasing
 
 ## mukta-m0-p04-v80
-[enemy-splitting](ripubhedakaraṃ) [mung-born](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
+enemy-splitting mung-born woman-giving shyama-grain-born
 
 ## mukta-m0-p04-v81
-[pleasure-making](sukhakṛn) [not-butter](nāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
+pleasure-making fresh-butter indeed cow-dung disease-destroying
 
 ## mukta-m0-p04-v82
-[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
+various-fruit-born [kh: metal-born] lingam various-desire-giving
 
 ## mukta-m0-p04-v83
-[for-uprooting](uccāṭane) [dust-born](pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
+uprooting dust-born root [ng: noble] enemy-destruction-bringing
 
 ## mukta-m0-p04-v84
-[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierceness-causing](caugryakārakam)
+city-agitating citizen [mū,a,k,kh,g: terrible] asafoetida cruelty-causing
 
 ## mukta-m0-p04-v85
-[clay-image-born](mṛdbimbodbhavam) [desired-aim](iṣṭārthaṃ) [anointing](lepāt) [may-be](syuḥ) [all-prosperities](sarvasaṃpadaḥ)
+clay-image-born desired-object anointing all-prosperities
 
 ## mukta-m0-p04-v86
-[so-long](tāvat) [time](kāla) [indeed](tu) [worshiping](saṃpūya) [releasing](visṛjya) [those](tāni) [who](ke) [may-throw](kṣipet)
+so-long time indeed [g: star-infinite] worship releasing those who throw
 
 ## mukta-m0-p04-v87
-[boiling](niṣkvāthya) [cloth](paṭam) [anointing](ālepya) [drying](saṃśoṣya) [wiping](pārimārjya) [and](ca)
+boiling [mū: extracting; gh: removing; ng: desireless] cloth-smearing drying wiping
 
 ## mukta-m0-p04-v88
-[metals-bilva-juices](dhātubilvarasair) [writing](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [on-cloth-etc](paṭādike)
+metals-bilva-juices-writing thrice lingam cloth-etc
 
 ## mukta-m0-p04-v89
-[strength-revolution-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [being](bhāvāśritā) [always](sadā)
+strength-reviving-desire sight [k,g,ng: creation] state-dependent always
 
 ## mukta-m0-p04-v90
-[compassion](karuṇā) [wonder](adbhuta) [peace](śāntāḥ) [and](ca) [nine-emotion-souled](navabhāvātmikāḥ) [sometimes](kvacit)
+compassionate-wonderful-peaceful nine-emotion-souled sometimes
 
 ## mukta-m0-p04-v91
-[by-own-will](svecchayā) [worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [is-said](ucyate) [now](adhunā)
+by-own-will worship this clay-made now
 
 ## mukta-m0-p04-v92
-[immediately](sadyaḥ) [by-mantra](mantreṇa) [and](ca) [unripe](apakvaṃ) [in-order](kramāt) [nine-finger-etc](navakarādikam)
+instant-mantra and unripe [ng: unripe-mud] sequential nine-finger-etc
 
 ## mukta-m0-p04-v93
-[by-brahmin-etc-castes](dvijādijātibhiḥ) [by-clays](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [and](ca) [by-desire](kāmataḥ)
+brahmin-etc-castes clay unmanifest-etc by-desire
 
 ## mukta-m0-p04-v94
-[in-wells-tanks-lakes](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [let-gather](samāharet)
+wells-tanks-lakes ponds from-long-pool collect
 
 ## mukta-m0-p04-v95
-[for-nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [for-treasury-increase](dhanakoṣavivṛddhaye)
+nourishment three-metal-womb and wealth-treasury-increase
 
 ## mukta-m0-p04-v96
-[by-vama](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [by-fierce](ghoreṇa) [having-burned](paridāhya) [and](ca)
+left-named pyre making [ng: holding] terrible burning
 
 ## mukta-m0-p04-v97
-[by-ishana](īśānena) [having-taken](gṛhītvā) [indeed](tu) [then](tataḥ) [having-purified](saṃskṛtya) [worship](pūjayet)
+ishana by taking then purifying worship
 
 ## mukta-m0-p04-v98
-[sarja-asafoetida-purambola](sarjahiṅgupuraṃbola) [sesame-oil](matasītailameva) [and](ca)
+sal-resin-asafoetida-guggulu [puraḥ - gugguluḥ | puro guggulurākhyāto iti dharaṇi | bolaḥ - gandharasaḥ, bolagandharasaprāṇaḥ; ityamaraḥ] mustard-oil indeed
 
 ## mukta-m0-p04-v99
-[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-established](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [having-rubbed](parimṛdya) [and](ca)
+in-clay placing arranging month that rubbing
 
 ## mukta-m0-p04-v100
-[hemp-fiber-having](śaṇatatvanvitaṃ) [having-made](katvā) [clay-made](mṛnmayaṃ) [let-fashion](ghaṭayet) [auspicious](śubham)
+hemp-fiber-having [k: thread-having] making clay auspicious-vessel-making
