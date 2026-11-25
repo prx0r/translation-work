@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[unafflictedness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [wheel-rim-evenness](rathanemisamānatā)
+unafflictedness nourishment and wheel-rim-evenness
 
 ## mukta-m0-p16-v377
-[snake-head-evenness](phaṇiśīrṣasamānatvaṃ) [clear-fluidity](prasannadravatā) [and](tathā)
+serpent-head-evenness clarity-fluidity and-so
 
 ## mukta-m0-p16-v378
-[all-marks-endowedness](sarvalakṣaṇa) [family-mark-devoidness](kulakṣaṇavihīnatā)
+all-marks-endowedness family-mark-absence
 
 ## mukta-m0-p16-v379
-[of-refinement](saṃskārasya) [greatness-as](mahimneva) [shine](bhāsaṃte) [they](te) [qualities](guṇāḥ) [dear](priye)
+refinement's greatness-as shine those qualities dear
 
 ## mukta-m0-p16-v380
-[refinement-even](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
+refinement-even all things places dear
 
 ## mukta-m0-p16-v381
-[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-step](sarvasiddhimahāpadaṃ)
+all-auspiciousness-causing all-siddhi-great-foot
 
 ## mukta-m0-p16-v382
-[bliss](ānaṃda) [Bhairava's](bhairavasyārcāsādhanaṃ) [world-enchanting](viśvamohanam)
+bliss-bhairava's-worship-means world-enchanting
 
 ## mukta-m0-p16-v383
-[beautiful-tooth-grasping](suśobhadakramagrāsī) [all-fever-cutting](samastāpannikṛṃtanam)
+beautiful-tooth-row all-pains-cutting
 
 ## mukta-m0-p16-v384
-[house-moon-crescents](veśmacaṃdrakalānāṃ) [and](ca) [abode-auspiciousness-wealths](sadmasaubhāgyasaṃpadām)
+house-moon-phases and dwelling-auspiciousness-prosperity
 
 ## mukta-m0-p16-v385
-[all-disease-causing](samastarogajanakaṃ) [misfortune-promoting](daurbhāgyasyapravartakam)
+all-disease-causing misfortune-promoting
 
 ## mukta-m0-p16-v386
-[world-reproach-causing](lokopakrośajanakaṃ) [world-contempt-giving](lokadhikkāradāyakam)
+people-reproach-causing people-contempt-giving
 
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [lost](naṣṭamucchiṣṭamapakṛṣṭaṃ) [rubbed](vicarcitam)
+foamy destroyed leftover inferior rubbed
 
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough-skin-rich](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
+inside rough-hide-rich inside-tongue-endowed
 
 ## mukta-m0-p16-v389
-[itch-scabies-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [liquid](dravam)
+itch-scabies-abundant sinful called liquid
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [indeed](vai) [that](tat) [worship-means](pūjāsādhanamiṣyate)
+own body indeed that worship-means intended
 
 ## mukta-m0-p16-v391
-[approaches](sannidhatte) [supreme-direct](paraḥsākṣādānaṃdādvaita) [form-bearing](rūpadhṛt)
+present supreme directly bliss-nondual form-bearing
 
 ## mukta-m0-p16-v392
-[messenger's](dūtī) [face](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇusaṃdari)
+messenger's face refinement called listen beautiful
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [and](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+stimulation and by-weapon purification again
 
 ## mukta-m0-p16-v394
-[by-oil-gargling](tailagaṇḍuṣaṇāt) [beauty](kāṃtirdaṃtānāmupajāyate)
+oil-gargling by teeth-beauty arises
 
 ## mukta-m0-p16-v395
-[trikatu](trikaṭu) [triphala-meats](triphalāmāṃsi) [with-jaggery-bark-leaves-saffron](guḍatvakpatrakesaraiḥ)
+trikatu triphala meats jaggery bark leaves saffron
 
 ## mukta-m0-p16-v396
-[making](kṛtvākṣa) [eye-like](sadṛśān) [balls](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger](dūtikāgilet)
+making pea-sized pills that first messenger swallows
 
 ## mukta-m0-p16-v397
-[by-filth-even](malenaivāpa) [created](sṛṣṭānāṃ) [all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+by-filth indeed created all pacification becomes
 
 ## mukta-m0-p16-v398
-[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill](guṭikākārayedbudhaḥ)
+rubbing carefully pill make wise
 
 ## mukta-m0-p16-v399
-[messenger](pūtikāmati) [fragrance](saurabhya) [rice-mouth](śālivaktraṃ) [arrange](prakalpayet)
+messenger fragrance salivary-mouth arrange
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+thus body-refinement external-internal declared
