@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-great-jewel great-value virtue-endowed worship-always
+[gloss](mahāratnaṃ) [gloss](mahāmūlyaṃ) [gloss](guṇayuktaṃ) [gloss](yajet) [gloss](sadā)
 
 ## mukta-m0-p03-v52
-well-radiance fame-life-become king's-long
+[gloss](supratāpo) [gloss](yaśaḥ) [gloss](ca) [gloss](āyuḥ) [gloss](bhaveyuḥ) [gloss](nṛpateḥ) [gloss](ciram)
 
 ## mukta-m0-p03-v53
-blue yellow white also auspicious unmade-jewel
+[gloss](nīlaṃ) [gloss](pītaṃ) [gloss](sitaṃ) [gloss](ca) [gloss](api) [gloss](śastaṃ) [gloss](ratnam) [gloss](anirmitam)
 
 ## mukta-m0-p03-v54
-conch-crystal-like javā-bud-radiance
+[gloss](śaṅkhasphaṭikasaṃkāśaṃ) [gloss](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-washed-mouth twice-born king-worthy yellow-red
+[gloss](dhautāsyābho) [gloss](dvijātīnāṃ) [gloss](nṛpārhau) [gloss](pītaraktakau)
 
 ## mukta-m0-p03-v56
-that-mark life-increase all-disease-destroyer
+[gloss](talliṅgam) [gloss](āyuṣo) [gloss](vṛddhayai) [gloss](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-indra-fire-friend fourfold sometimes-opinion
+[gloss](śakrāgni) [gloss](casamitroye) [gloss](caturdhā) [gloss](tatkvacinmatam)
 
 ## mukta-m0-p03-v58
-autumn-water-like clear smooth crystal beneficial
+[gloss](śaradambunibhaṃ) [gloss](svacchaṃ) [gloss](snigdhaṃ) [gloss](ca) [gloss](sphāṭikaṃ) [gloss](hitam)
 
 ## mukta-m0-p03-v59
-with-garbha-wave-joined light-pearl-dense abandon
+[gloss](sagarbhamūrmisaṃyuktaṃ) [gloss](jyotirmuktaghanaṃ) [gloss](tyajet)
 
 ## mukta-m0-p03-v60
-thick long kusha short middle-etc thin
+[gloss](sthūlaṃ) [gloss](dīrgha) [gloss](kuśaṃ) [gloss](hrasvaṃ) [gloss](madhyādyanteṣu) [gloss](vā) [gloss](kṛśam)
 
 ## mukta-m0-p03-v61
-other-caste-attached pierced fear-causing abandon
+[gloss](anyajātivilagnaṃ) [gloss](ca) [gloss](viddhaṃ) [gloss](bhītikaraṃ) [gloss](tyajet)
 
 ## mukta-m0-p03-v62
-crystal mark desired-aim death-conquering desire-giving worship
+[gloss](sphāṭikaṃ) [gloss](liṅgamiṣṭārthaṃ) [gloss](mṛtyujitkāmadaṃ) [gloss](yajet)
 
 ## mukta-m0-p03-v63
-mark always-fire-sacrifice-like worship no-fault-doer men
+[gloss](liṅgaṃ) [gloss](sadāgnihotrābhaṃ) [gloss](pūjya) [gloss](no) [gloss](doṣakṛnnṛṇām)
 
 ## mukta-m0-p03-v64
-always low success high high equal equal
+[gloss](sadā) [gloss](nimnena) [gloss](siddhiḥ) [gloss](syāt) [gloss](ucce) [gloss](tu) [gloss](uccā) [gloss](same) [gloss](samā)
 
 ## mukta-m0-p03-v65
-jewel-linga twofold-called own-pedestal metal-pedestal-born
+[gloss](ratnaliṅgaṃ) [gloss](dvidhākhyātaṃ) [gloss](svapīṭhaṃ) [gloss](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-moving-linga twofold-made metal-jewel auspicious
+[gloss](calaliṅgaṃ) [gloss](dvidhākāryaṃ) [gloss](dhāturatnamayaṃ) [gloss](śubham)
 
 ## mukta-m0-p03-v67
-small-jewel-born also own-measure two-jewel-born
+[gloss](kṣudraratnotthamapyevaṃ) [gloss](svamānā) [gloss](dvararatnajam)
 
 ## mukta-m0-p03-v68
-vaishya love-end limit shudra twelve-limit
+[gloss](vaiśyānāṃ) [gloss](manmathāntaṃ) [gloss](syāt) [gloss](śūdrāṇāṃ) [gloss](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-moving that-above gods twenty-three-angula
+[gloss](calaṃ) [gloss](tadūrdhvaṃ) [gloss](devānāṃ) [gloss](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-immovable lead-based standing hand-nine-measure
+[gloss](acalaṃ) [gloss](khadrūbhasthāyi) [gloss](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-six-cubit mixed linga not-above firm-desired
+[gloss](saḍḍhataṃ) [gloss](miśrakaṃ) [gloss](liṅgaṃ) [gloss](nordhvaṃ) [gloss](ca) [gloss](sthiramiṣyate)
 
 ## mukta-m0-p03-v72
-six-cubits-not-exceeding wooden earthen mountain-like always
+[gloss](ṣaḍḍhastānnādhikaṃ) [gloss](vārkṣaṃ) [gloss](pārthivaṃ) [gloss](śailavatsadā)
 
 ## mukta-m0-p03-v73
-yaksha-rakshasa-asura-serpent gandharva-apsaras sometimes
+[gloss](yakṣarakṣo'suravyāla) [gloss](gandharvāpsarasāṃ) [gloss](kvacit)
 
 ## mukta-m0-p03-v74
-circumference-height by gods twenty-one
+[gloss](pariṇāhocchrayābhyāṃ) [gloss](ca) [gloss](devānāṃ) [gloss](ekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-five-angula flour-etc fruit-born own-measure
+[gloss](pañcāṅgulaṃtu) [gloss](paiṣṭyādyaṃ) [gloss](phalajaṃ) [gloss](svapramāṇataḥ)
