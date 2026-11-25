@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa-mātra](lakṣamātraṃ) [japet](japen) [mantra](mantraṃ) [tataḥ](tataḥ) [siddha](siddho) [bhavet-nara](bhavennaraḥ)
+[hundred-thousand-quantity](lakṣamātraṃ) [should-chant](japet)+[mantra](mantraṃ) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet)+[man](naraḥ)
 
 ## mukta-m0-p10-v227
-[tat-daśa-aṃśa](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūra-abhyām](karpūrābhyāṃ) [su-vāsita](suvāsitaiḥ)
+[that](tad)+[tenth-part](daśāṃśaṃ) [and](ca) [musk](kastūrī) [camphor](karpūra)+[with](ābhyāṃ) [well-perfumed](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tat-daśa-aṃśa](taddaśāṃśaṃ) [mahā-devi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[that](tad)+[tenth-part](daśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [should-feed](bhojayet) [beloved](priye)
 
 ## mukta-m0-p10-v229
-[hṛdya](hṛdyaiḥ) [pāyasa](pāyasa) [pūpa-ādyaiḥ](pūpādyaiḥ) [rasaiḥ](rasaiś) [ca](ca) [eva](eva) [rasāyana](rasāyanaiḥ)
+[pleasing](hṛdyaiḥ) [milk-rice](pāyasa) [cakes](pūpa)+[etc](ādyaiḥ) [juices](rasaiḥ)+[and](ca)+[indeed](eva) [elixirs](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madya](madyair) [māṃsa](māṃsaiś) [ca](ca) [matsya](matsyaiś) [ca](ca) [nānā-vastu-upabṛṃhita](nānāvastūpabṛṃhitaiḥ)
+[liquors](madyaiḥ)+[meats](māṃsaiḥ)+[and](ca) [fishes](matsyaiḥ)+[and](ca) [various](nānā)+[things](vastu)+[augmented](upabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī](yoginī) [vīrān](vīrān) [daśa-aṃśa](daśāṃśaṃ) [mantra-sādhaka](maṃtrasādhakaḥ)
+[should-worship](arcayet) [yoginis](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[ānanda-bhoga](ānaṃdabhogān) [bhuj](bhugjānaḥ) [kṣoṇī](kṣoṇyāṃ) [khelati](khelati) [kāya-vat](kāyavat)
+[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [embodied](kāyavat)
 
 ## mukta-m0-p10-v233
-[ati-guhya-tva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasya-cit](yasyakasyacit)
+[extreme-secrecy](atiguhyatva) [protected](yā) [rakṣyā](rakṣyā) [not](na) [given](deyā) [to-anyone](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[a-kutarka](akutarka) [pravīṇāya](pravīṇāya) [tattva-niṣṭhāya](tattvaniṣṭhāya) [dhīmat](dhīmate)
+[without-fallacious-reasoning](akutarka) [skilled](pravīṇāya) [truth-devoted](tattvaniṣṭhāya)+[wise](dhīmate)
 
 ## mukta-m0-p10-v235
-[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyam](satyaṃ) [satyam](satyaṃ) [vadāmi](vadāmy) [aham](aham)
+[this](eṣā) [vidya](vidyā) [should-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmyaham)
 
 ## mukta-m0-p10-v236
-[etad](etad) [vidyā-sama](vidyāsamaṃ) [na](na) [asti](asti) [na](na) [bhūta](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+[this](etad) [vidya](vidyā)+[equal](samaṃ) [not](na) [exists](asti) [not](na) [was](bhūtaṃ) [not](na) [will-be](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[imām](imām) [abhyasyataḥ](abhyasyataḥ) [puṃsaḥ](puṃso) [mokṣa-mārgaḥ](mokṣamārgaḥ) [kara-sthitaḥ](karasthitaḥ)
+[this](imām) [practicing](abhyasyataḥ) [of-man](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[iti](ity) [ānanda-tantre](ānaṃdataṃtre) [paṃcamaḥ](paṃcamaḥ) [paṭalaḥ](paṭalaḥ)
+[thus](iti)+[in-ānanda-tantra](ānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[yāga-rāja-kramaḥ](yāgarājakramaḥ) [sarva-puruṣārtha](sarvapuruṣārthaṃ) [mahā-phala](mahāphalam)
+[sacrifice-king-sequence](yāgarājakramaḥ) [all-purusharthas](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
 
 ## mukta-m0-p10-v240
-[vara-abhaya-yuta](varābhayayutaṃ) [śānta](śāṃtaṃ) [śaktyā-āśliṣṭa](śaktyāśliṣṭaṃ) [mano-hara](manoharam)
+[boon-fearlessness-endowed](varābhayayutaṃ) [peaceful](śāṃtaṃ) [shakti-embraced](śaktyāśliṣṭaṃ) [mind-charming](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita](āplāvita) [śarīraḥ](śarīraḥ) [san](san) [antardhyāyet](tardhyāyen) [maheśvarīm](maheśvarīm)
+[perfused](āplāvita) [body](śarīraḥ) [with](sannaṃ)+[should-meditate](tardhyāyen) [on-great-goddess](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna](vibhinna) [ṣaṭ-saroja-nma](ṣaṭsarojanma) [prakāśa](prakāśa) [nija-vigrahām](nijavigrahām)
+[separated](vibhinna) [six-lotuses](ṣaṭsarojanma) [manifest](prakāśa) [own-form](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripura-sundarīm](tripurasuṃdarīm)
+[tripurasundari](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir-grāmāt](bahirgrāmāt) [mukta-mūtra-mala-vyathaḥ](muktamūtramalavyathaḥ)
+[going-out](nirgamya) [and](ca) [outside-village](bahirgrāmāt) [freed](muktam)+[urine-feces-pain](ūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[su-gandha-taila-lipta](sugaṃdhatailaliptasya) [piṣṭika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[well-scented-oil-anointed](sugaṃdhatailaliptasya) [paste](piṣṭikā)+[rubbed](udvarti) [his](tasya) [and](ca)
 
 ## mukta-m0-p10-v246
-[kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohāt) [na](na) [rūkṣa-snānam](rūkṣasnānam) [ācaret](ācaret)
+[ever](kadāpi) [kaulika](kauliko) [from-delusion](mohāt)+[not](na) [rough-bathing](rūkṣasnānam)+[should-do](ācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhni](mūrdhni) [tvā](tvā) [mūla-mantra](mūlamaṃtra) [jāpena](jāpena) [aṃbho-jali-traya](aṃbhojalitrayam)
+[head](mūrdhni)+[tvā](tvā) [root-mantra](mūlamaṃtra) [jāpena](jāpena) [water-triple](bhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
-[sa-kuśa](sakuśe) [sa-ha-puṣpa](sahapuṣpe) [ca](ca) [sa-gandha](sagaṃdhe) [tāmra-bhājane](tāmrabhājane)
+[with-kusha](sakuśe) [with-flowers](sahapuṣpe) [and](ca) [with-perfume](sagaṃdhe) [copper-vessel](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra-rūpya](tāmrarūpya) [suvarṇaiḥ](suvarṇaiḥ) [tu](tu) [racitaṃ](racitaṃ) [tat](tat) [praśasyate](praśasyate)
+[copper](tāmrarūpya) [silver](rūpya)+[gold](suvarṇaiḥ)+[tu](tu) [made](racitaṃ) [that](tat)+[praised](praśasyate)
 
 ## mukta-m0-p10-v250
-[yathā](yathā) [śakti](śakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśet) [yāga-maṃdiram](yāgamaṃdiram)
+[according-to-ability](yathā śakti) [and](ca) [satisfying](saṃtarpya) [should-enter](praviśet)+[worship-shrine](yāgamaṃdiram)

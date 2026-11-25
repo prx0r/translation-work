@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[kartavyā](kartavyā) [taddvibhāgena](taddvibhāgena) [pratimā](pratimā) [sottamā](sottamā) [matā](matā)
+to-be-done that-division-by image with-excellent considered
 
 ## mukta-m0-p29-v702
-[navāntaṃ](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+nine-end three-triangle-ends among youngest-etc proclaimed
 
 ## mukta-m0-p29-v703
-[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaḥ](mayaḥ) [cakre](cakre) [svake](svake) [mate](mate)
+pedestal door-expansion Maya-made in-own opinion
 
 ## mukta-m0-p29-v704
-[tithimāsanavat](tithimāsanavat) [ardhaiḥ](ardhaiḥ) [hīna](hīna) [madhya](madhya) [uttamāḥ](uttamāḥ) [tridhā](tridhā)
+tithi-seat-like-half-deficient-middle-excellent threefold
 
 ## mukta-m0-p29-v705
-[paṅgurūpāḥ](paṅgurūpāḥ) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāḥ) [vartayet](vartayet)
+lame-forms-and pumpkin sevenfold-images-and should-make
 
 ## mukta-m0-p29-v706
-[vibhajya](vibhajya) [śaktisūtreṇa](śaktisūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
+dividing by-power-thread from-stars etc auspicious day
 
 ## mukta-m0-p29-v707
-[pīṭhātmāśrayajīvāṃśca](pīṭhātmāśrayajīvāṃśca) [prabhādīṃśca](prabhādīṃśca) [prakalpayet](prakalpayet)
+pedestal-soul-refuge-life-parts-and radiance-etc-and should-arrange
 
 ## mukta-m0-p29-v708
-[kṛtvā](kṛtvā) [adhoṃśagataḥ](adhoṃśagataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīvakalpanā](jīvakalpanā)
+having-made lower-part-gone pedestal in-third-part life-arrangement
 
 ## mukta-m0-p29-v709
-[sātmāśrayāṃ](sātmāśrayāṃ) [sadūtīṃ](sadūtīṃ) [ca](ca) [pratimāṃ](pratimāṃ) [vartayet](vartayet) [tataḥ](tataḥ)
+with-soul-refuge with-messenger and image should-make then
 
 ## mukta-m0-p29-v710
-[bhāgaikamaṅgula](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [mahārcāṃ](mahārcāṃ) [vatayed](vatayed) [budhaḥ](budhaḥ)
+one-part-inch having-made great-image should-make wise
 
 ## mukta-m0-p29-v711
-[eka](eka) [bhāge](bhāge) [aṅgulaṃ](aṅgulaṃ) [tasyā](tasyā) [stenāṅgaṃ](stenāṅgaṃ) [parikalpayet](parikalpayet)
+one part-inch her/its thief-limb should-arrange
 
 ## mukta-m0-p29-v712
-[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛjvarcāṃ](ṛjvarcāṃ) [kārayet](kārayet) [śubhām](śubhām)
+Maya thread equal placing straight-image should-make auspicious
 
 ## mukta-m0-p29-v713
-[jīvasya](jīvasya) [āddairghyamānena](āddairghyamānena) [pratyaṅgāni](pratyaṅgāni) [adhunā](adhunā) [vruve](vruve)
+of-life length-measure by limbs-now I-will-speak
 
 ## mukta-m0-p29-v714
-[mātrābhiḥ](mātrābhiḥ) [tithisaṃkhyābhiḥ](tithisaṃkhyābhiḥ) [mukuṭa](mukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
+by-measures tithi-numbers by crown wrapping becomes
 
 ## mukta-m0-p29-v715
-[tālamānaṃ](tālamānaṃ) [bhavet](bhavet) [vakraṃ](vakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
+tala-measure becomes curved neck and four-angula
 
 ## mukta-m0-p29-v716
-[tālaikaikapramāṇaṃ](tālaikaikapramāṇaṃ) [syāt](syāt) [ūrū](ūrū) [tālavinirgamau](tālavinirgamau)
+tala-one-one-measure should-be thighs tala-exit
 
 ## mukta-m0-p29-v717
-[jñeyau](jñeyau) [gulphau](gulphau) [dvinetrau](dvinetrau) [ca](ca) [pārṣṇī](pārṣṇī) [dvyaṅgulake](dvyaṅgulake) [mate](mate)
+known ankles two-eyes and heels-two-angula in-opinion
 
 ## mukta-m0-p29-v718
-[madhye](madhye) [kalādvayocchrāya](kalādvayocchrāya) [agre](agre) [sārdhārdha](sārdhārdha) [mātrakau](mātrakau)
+middle two-kala-height front-half-half measure
 
 ## mukta-m0-p29-v719
-[pañcāṅgulau](pañcāṅgulau) [veṣṭanena](veṣṭanena) [sārdhāṅgaladviparvaṇī](sārdhāṅgaladviparvaṇī)
+five-angula by-wrapping with-half-angula-two-joints
 
 ## mukta-m0-p29-v720
-[tryaṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tu](tu) [adhunā](adhunā) [aparāḥ](aparāḥ)
+three-angula circumference by are-said now-others
 
 ## mukta-m0-p29-v721
-[pādāṅgulyaḥ](pādāṅgulyaḥ) [triparvāṇaḥ](triparvāṇaḥ) [parvārdhanakhaśobhitāḥ](parvārdhanakhaśobhitāḥ)
+toe-fingers three-jointed joint-half-nail-adorned
 
 ## mukta-m0-p29-v722
-[kārāṅghri](kārāṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [savonnatāruṇāḥ](savonnatāruṇāḥ)
+hand-foot sole red nails with-raised-red
 
 ## mukta-m0-p29-v723
-[upabāhū](upabāhū) [daśāṣṭāṃśau](daśāṣṭāṃśau) [ṣoḍaśāṅgulakau](ṣoḍaśāṅgulakau) [bhujau](bhujau)
+forearms ten-eight-parts sixteen-angula arms
 
 ## mukta-m0-p29-v724
-[bhūtāṅgulā](bhūtāṅgulā) [bhaven](bhaven) [madhyā](madhyā) [ardhahīnā](ardhahīnā) [tu](tu) [anāmikā](anāmikā)
+element-angula becomes middle half-deficient ring-finger
 
 ## mukta-m0-p29-v725
-[madhyamādyāḥ](madhyamādyāḥ) [triparvāṇaḥ](triparvāṇaḥ) [dviparvāṅguṣṭhakaḥ](dviparvāṅguṣṭhakaḥ) [mataḥ](mataḥ)
+middle-etc three-jointed two-jointed-thumb considered

@@ -16,7 +16,7 @@
 },
 {
 "surface": "kṛtitvasya",
-"quick_gloss": "of-action"
+"quick_gloss": "of-agency"
 },
 {
 "surface": "ghaṭanaṃ",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "bhavat",
-"quick_gloss": "happens"
+"quick_gloss": "is"
 }
 ]
 },
@@ -45,15 +45,19 @@
 "tokens": [
 {
 "surface": "tritvantu",
-"quick_gloss": "three-principle"
+"quick_gloss": "threefold"
 },
 {
 "surface": "vyavahārasya",
 "quick_gloss": "of-practice"
 },
 {
-"surface": "apyapekṣa",
-"quick_gloss": "also+expectation"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "apekṣa",
+"quick_gloss": "expectation"
 },
 {
 "surface": "atra",
@@ -61,7 +65,7 @@
 },
 {
 "surface": "sammatam",
-"quick_gloss": "agreed"
+"quick_gloss": "accepted"
 }
 ]
 },
@@ -107,7 +111,7 @@
 "tokens": [
 {
 "surface": "śabdabhāsyatvam",
-"quick_gloss": "by-sound+manifestness"
+"quick_gloss": "by-sound-illumination"
 },
 {
 "surface": "ujhitvā",
@@ -136,7 +140,7 @@
 },
 {
 "surface": "marudekasya",
-"quick_gloss": "of-wind"
+"quick_gloss": "of-wind-one"
 },
 {
 "surface": "udāsīnaṃ",
@@ -176,8 +180,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "samyagvivicyate",
-"quick_gloss": "well-distinguished"
+"surface": "samyag",
+"quick_gloss": "well"
+},
+{
+"surface": "vivicyate",
+"quick_gloss": "discerned"
 }
 ]
 },
@@ -211,7 +219,7 @@
 "tokens": [
 {
 "surface": "śabdemaṃghījalamarut",
-"quick_gloss": "by-sound-this-water-air"
+"quick_gloss": "by-sound-this-ghī-water-wind"
 },
 {
 "surface": "saṃśrayaḥ",
@@ -223,7 +231,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "beloved"
+"quick_gloss": "dear"
 }
 ]
 },
@@ -280,8 +288,8 @@
 "quick_gloss": "here"
 },
 {
-"surface": "ihocyate",
-"quick_gloss": "is-called"
+"surface": "ucyate",
+"quick_gloss": "called"
 }
 ]
 },
@@ -322,8 +330,12 @@
 "quick_gloss": "of-all-here-principles"
 },
 {
-"surface": "vikṛtirguṇabhedajā",
+"surface": "vikṛtir",
 "quick_gloss": "modification"
+},
+{
+"surface": "guṇabhedajā",
+"quick_gloss": "from-quality-difference"
 }
 ]
 },
@@ -343,8 +355,12 @@
 "quick_gloss": "aggregates"
 },
 {
-"surface": "bahavonaikarūpiṇaḥ",
-"quick_gloss": "many-not-one-formed"
+"surface": "bahavo",
+"quick_gloss": "many"
+},
+{
+"surface": "naikarūpiṇaḥ",
+"quick_gloss": "not-one-formed"
 }
 ]
 },
@@ -360,12 +376,28 @@
 "quick_gloss": "by-much"
 },
 {
-"surface": "kimihoktena",
-"quick_gloss": "what-here-said"
+"surface": "kim",
+"quick_gloss": "what"
 },
 {
-"surface": "kintatvairaparairjaḍaiḥ",
-"quick_gloss": "what-principle"
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "uktene",
+"quick_gloss": "said"
+},
+{
+"surface": "kintatvair",
+"quick_gloss": "what"
+},
+{
+"surface": "aparair",
+"quick_gloss": "other"
+},
+{
+"surface": "jaḍaiḥ",
+"quick_gloss": "inert"
 }
 ]
 },
@@ -381,16 +413,20 @@
 "quick_gloss": "uncuttable"
 },
 {
-"surface": "yamadāhoya",
+"surface": "yam",
+"quick_gloss": "this"
+},
+{
+"surface": "adāhoya",
 "quick_gloss": "unburnable"
 },
 {
-"surface": "makledyo",
+"surface": "amakledyo",
 "quick_gloss": "unwettable"
 },
 {
-"surface": "śoṣya",
-"quick_gloss": "undryable"
+"surface": "aśoṣya",
+"quick_gloss": "undriable"
 },
 {
 "surface": "eva",
@@ -411,7 +447,7 @@
 "tokens": [
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "janakaḥ",
@@ -419,7 +455,7 @@
 },
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "pālakaḥ",
@@ -436,7 +472,7 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "giridvīpajaladhikānanā",
@@ -465,7 +501,7 @@
 },
 {
 "surface": "saṃkhyātā",
-"quick_gloss": "numbered"
+"quick_gloss": "thus"
 },
 {
 "surface": "vasudhāvāsavārcite",
@@ -572,7 +608,7 @@
 },
 {
 "surface": "udyate",
-"quick_gloss": "impelled"
+"quick_gloss": "raised"
 }
 ]
 },
@@ -601,11 +637,15 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "of-this"
 },
 {
-"surface": "ivānyā",
+"surface": "eva",
 "quick_gloss": "eva"
+},
+{
+"surface": "anyā",
+"quick_gloss": "other"
 },
 {
 "surface": "vibhūtayaḥ",
@@ -630,7 +670,7 @@
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "position"
+"quick_gloss": "establishment"
 },
 {
 "surface": "sarvā",
@@ -642,7 +682,7 @@
 },
 {
 "surface": "girinaṃdini",
-"quick_gloss": "mountain-daughter"
+"quick_gloss": "girinandinī"
 }
 ]
 },
