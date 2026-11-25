@@ -20,7 +20,7 @@
 },
 {
 "surface": "heturaṃjanahetavaḥ",
-"quick_gloss": "cause+of+collyrium+causes"
+"quick_gloss": "cause+rouge+causes"
 }
 ]
 },
@@ -107,7 +107,7 @@
 },
 {
 "surface": "marhati",
-"quick_gloss": "may"
+"quick_gloss": "deserves"
 }
 ]
 },
@@ -119,8 +119,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśyasāhasametāsāṃ",
+"surface": "paśya",
 "quick_gloss": "behold"
+},
+{
+"surface": "sāhasametāsāṃ",
+"quick_gloss": "violence-with"
 },
 {
 "surface": "svargate",
@@ -161,8 +165,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ataścamārdavaṃtāsu",
+"surface": "ataśca",
 "quick_gloss": "therefore"
+},
+{
+"surface": "mārdavaṃ",
+"quick_gloss": "gentleness"
+},
+{
+"surface": "tāsu",
+"quick_gloss": "in-them"
 },
 {
 "surface": "prathamaṃ",
@@ -182,16 +194,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atyaṃtamabhivṛddhiṃ",
+"surface": "atyaṃtam",
 "quick_gloss": "extreme"
+},
+{
+"surface": "abhivṛddhiṃ",
+"quick_gloss": "growth"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "nayaccettāsusādhakaḥ",
+"surface": "nayat",
 "quick_gloss": "leading"
+},
+{
+"surface": "cet",
+"quick_gloss": "if"
+},
+{
+"surface": "tāsu",
+"quick_gloss": "in-them"
+},
+{
+"surface": "sādhakaḥ",
+"quick_gloss": "accomplisher"
 }
 ]
 },
@@ -215,8 +243,12 @@
 "quick_gloss": "sight"
 },
 {
-"surface": "pradiśidbudhaḥ",
+"surface": "pradiśid",
 "quick_gloss": "declared"
+},
+{
+"surface": "budhaḥ",
+"quick_gloss": "wise"
 }
 ]
 },
@@ -233,7 +265,7 @@
 },
 {
 "surface": "parebhavaṃ",
-"quick_gloss": "to-other-disgrace"
+"quick_gloss": "to-other's-disgrace"
 },
 {
 "surface": "yāti",
@@ -261,12 +293,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛṣasyaṃtīṣu",
-"quick_gloss": "in-bull-like-ones"
+"surface": "vṛṣasyaṃ",
+"quick_gloss": "of-bull"
 },
 {
-"surface": "tāsvaṃba",
+"surface": "tāsu",
 "quick_gloss": "in-them"
+},
+{
+"surface": "amba",
+"quick_gloss": "mother"
 },
 {
 "surface": "na",
@@ -278,7 +314,7 @@
 },
 {
 "surface": "mukhyaṃ",
-"quick_gloss": "main"
+"quick_gloss": "chief"
 },
 {
 "surface": "ca",
@@ -286,7 +322,7 @@
 },
 {
 "surface": "cārayet",
-"quick_gloss": "make-wander"
+"quick_gloss": "should-make-go"
 }
 ]
 },
@@ -298,8 +334,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grāsānapi",
+"surface": "grāsān",
 "quick_gloss": "morsels"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
@@ -319,7 +359,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -336,7 +376,7 @@
 },
 {
 "surface": "vīrajanādhīnā",
-"quick_gloss": "hero-dependent"
+"quick_gloss": "hero-people-dependent"
 },
 {
 "surface": "dūtikā",
@@ -360,12 +400,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṃpatyorghaṭanaṃ",
+"surface": "daṃpatyor",
 "quick_gloss": "of-couple"
 },
 {
+"surface": "ghaṭanaṃ",
+"quick_gloss": "joining"
+},
+{
 "surface": "brūyat",
-"quick_gloss": "brūyat"
+"quick_gloss": "should-say"
 },
 {
 "surface": "puruṣārthaikakāraṇam",
@@ -381,8 +425,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyonyamanurāgeṇa",
+"surface": "anyonyam",
 "quick_gloss": "mutually"
+},
+{
+"surface": "anurāgeṇa",
+"quick_gloss": "with-affection"
 },
 {
 "surface": "mahatsaukhyaṃ",
@@ -415,7 +463,7 @@
 },
 {
 "surface": "prakāśayet",
-"quick_gloss": "reveal"
+"quick_gloss": "should-show"
 }
 ]
 },
@@ -436,11 +484,11 @@
 },
 {
 "surface": "saṃvāhanaṃ",
-"quick_gloss": "massaging"
+"quick_gloss": "massage"
 },
 {
 "surface": "caret",
-"quick_gloss": "perform"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -452,12 +500,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādāyalimpeccaraṇe",
-"quick_gloss": "anoint"
+"surface": "ādāyalimpec",
+"quick_gloss": "should-anoint-feet"
+},
+{
+"surface": "caraṇe",
+"quick_gloss": "of-messenger"
 },
 {
 "surface": "dūtyāḥ",
-"quick_gloss": "of-messenger"
+"quick_gloss": "dūtyāḥ"
 },
 {
 "surface": "sā",
@@ -465,7 +517,7 @@
 },
 {
 "surface": "nānyagābhavet",
-"quick_gloss": "not-other-goer"
+"quick_gloss": "not-other-going"
 }
 ]
 },
@@ -485,8 +537,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bhavedvairāgyaṃ",
-"quick_gloss": "become"
+"surface": "bhaved",
+"quick_gloss": "would-be"
+},
+{
+"surface": "vairāgyaṃ",
+"quick_gloss": "dispassion"
 },
 {
 "surface": "tena",
@@ -510,20 +566,24 @@
 "quick_gloss": "in-worlds"
 },
 {
-"surface": "saṃcāramutsavaṃ",
+"surface": "saṃcāram",
 "quick_gloss": "movement"
 },
 {
+"surface": "utsavaṃ",
+"quick_gloss": "festival"
+},
+{
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "pade",
-"quick_gloss": "at-every-step"
+"quick_gloss": "step"
 },
 {
 "surface": "pade",
-"quick_gloss": "pade"
+"quick_gloss": "step"
 }
 ]
 },
@@ -568,8 +628,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "udvarttanaiścatāṃbūlairaṃjanairmukhavāsitaiḥ",
+"surface": "udvarttanaiś",
 "quick_gloss": "with-unctions"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "tāṃbūlair",
+"quick_gloss": "betel"
+},
+{
+"surface": "aṃjanair",
+"quick_gloss": "collyrium"
+},
+{
+"surface": "mukhavāsitaiḥ",
+"quick_gloss": "mouth-perfumes"
 }
 ]
 },
@@ -581,12 +657,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṃjayedramaṇīṃ",
-"quick_gloss": "please"
+"surface": "raṃjayed",
+"quick_gloss": "should-please"
 },
 {
-"surface": "dhīmānbhogairdīptaiśca",
+"surface": "ramaṇīṃ",
+"quick_gloss": "beloved"
+},
+{
+"surface": "dhīmān",
 "quick_gloss": "wise"
+},
+{
+"surface": "bhogair",
+"quick_gloss": "with-enjoyments"
+},
+{
+"surface": "dīptaiś",
+"quick_gloss": "bright"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "pārvati",
@@ -602,8 +694,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāvaddhiramanā",
+"surface": "tāvaddhi",
 "quick_gloss": "so-long"
+},
+{
+"surface": "ramanā",
+"quick_gloss": "pleased"
 },
 {
 "surface": "eva",
@@ -619,7 +715,7 @@
 },
 {
 "surface": "pācaret",
-"quick_gloss": "pācaret"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -631,16 +727,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ślāghayājāyate",
+"surface": "ślāghayā",
 "quick_gloss": "by-praise"
 },
 {
-"surface": "tacca",
-"quick_gloss": "tacca"
+"surface": "jāyate",
+"quick_gloss": "arises"
 },
 {
-"surface": "sadarpāviphalāstriyaḥ",
-"quick_gloss": "proud-fruitless-women"
+"surface": "tac",
+"quick_gloss": "that"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "sadarpā",
+"quick_gloss": "proud"
+},
+{
+"surface": "aviphalā",
+"quick_gloss": "fruitless"
+},
+{
+"surface": "striyaḥ",
+"quick_gloss": "women"
 }
 ]
 }
