@@ -7,8 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogāṇyavaśyaṃ",
-"quick_gloss": "disease-certainly"
+"surface": "rogāṇi",
+"quick_gloss": "diseases"
+},
+{
+"surface": "avaśyaṃ",
+"quick_gloss": "necessarily"
 },
 {
 "surface": "nighnaṃti",
@@ -20,11 +24,11 @@
 },
 {
 "surface": "vāsya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-thing"
 },
 {
 "surface": "vastunaḥ",
-"quick_gloss": "of-thing"
+"quick_gloss": "vastunaḥ"
 }
 ]
 },
@@ -37,7 +41,7 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he-is"
 },
 {
 "surface": "vīrabhadraḥ",
@@ -45,7 +49,7 @@
 },
 {
 "surface": "suśroṇi",
-"quick_gloss": "fair-hipped"
+"quick_gloss": "good-thighed"
 },
 {
 "surface": "sākṣāt",
@@ -53,7 +57,7 @@
 },
 {
 "surface": "saṃhāra",
-"quick_gloss": "destruction-bhairava"
+"quick_gloss": "destruction"
 },
 {
 "surface": "bhairavaḥ",
@@ -69,12 +73,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣakopātprajvalataḥ",
+"surface": "dakṣakopāt",
 "quick_gloss": "from-daksha-anger"
 },
 {
-"surface": "tasyāṃgādromakūpataḥ",
+"surface": "prajvalataḥ",
+"quick_gloss": "blazing"
+},
+{
+"surface": "tasya",
 "quick_gloss": "of-him"
+},
+{
+"surface": "aṃgād",
+"quick_gloss": "limb"
+},
+{
+"surface": "romakūpataḥ",
+"quick_gloss": "hair-pore"
 }
 ]
 },
@@ -86,16 +102,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tamanuproddhitāḥ",
-"quick_gloss": "those"
+"surface": "tamanu",
+"quick_gloss": "by-him"
+},
+{
+"surface": "proddhitāḥ",
+"quick_gloss": "provoked"
 },
 {
 "surface": "sarve",
 "quick_gloss": "all"
 },
 {
-"surface": "vyādhayovividhakramāḥ",
+"surface": "vyādhayo",
 "quick_gloss": "diseases"
+},
+{
+"surface": "vividhakramāḥ",
+"quick_gloss": "various-orders"
 }
 ]
 },
@@ -107,16 +131,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atyaṃtalolādurvārāḥ",
+"surface": "atyaṃtalolāḥ",
 "quick_gloss": "extremely-unsteady"
+},
+{
+"surface": "urvārāḥ",
+"quick_gloss": "invincible"
 },
 {
 "surface": "prajvalaṃtaḥ",
 "quick_gloss": "blazing"
 },
 {
-"surface": "sadāmuṣā",
+"surface": "sadā",
 "quick_gloss": "always"
+},
+{
+"surface": "muṣā",
+"quick_gloss": "with-him"
 }
 ]
 },
@@ -128,8 +160,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tamāśritya",
-"quick_gloss": "having-refuged"
+"surface": "tam",
+"quick_gloss": "him"
+},
+{
+"surface": "āśritya",
+"quick_gloss": "resorting"
 },
 {
 "surface": "mahāsatvaṃ",
@@ -183,11 +219,11 @@
 },
 {
 "surface": "pāpān",
-"quick_gloss": "sinful"
+"quick_gloss": "sinners"
 },
 {
 "surface": "vṛthākalahakāriṇaḥ",
-"quick_gloss": "vain-quarrel-making"
+"quick_gloss": "vain-quarrel-makers"
 }
 ]
 },
@@ -246,15 +282,15 @@
 },
 {
 "surface": "karālāpāṃ",
-"quick_gloss": "terrible-faced"
+"quick_gloss": "terrible"
 },
 {
 "surface": "dhārmikācāra",
-"quick_gloss": "dharma-conduct"
+"quick_gloss": "righteous-conduct"
 },
 {
 "surface": "niṃdakān",
-"quick_gloss": "blaming"
+"quick_gloss": "blamers"
 }
 ]
 },
@@ -270,8 +306,20 @@
 "quick_gloss": "harm"
 },
 {
-"surface": "vyādhayastīvrāstatsaṃgādaparānapi",
+"surface": "vyādhayaḥ",
 "quick_gloss": "diseases"
+},
+{
+"surface": "tīvrāḥ",
+"quick_gloss": "severe"
+},
+{
+"surface": "saṃgād",
+"quick_gloss": "by-contact"
+},
+{
+"surface": "aparānapi",
+"quick_gloss": "others-too"
 }
 ]
 },
@@ -283,12 +331,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āśaṃkamānairvilaya",
+"surface": "āśaṃkamānaiḥ",
 "quick_gloss": "fearing"
 },
 {
-"surface": "mahaṃsaṃprārthitaḥ",
+"surface": "vilaya",
+"quick_gloss": "dissolution"
+},
+{
+"surface": "mahaṃsa",
 "quick_gloss": "great-swan"
+},
+{
+"surface": "prārthitaḥ",
+"quick_gloss": "prayed"
 },
 {
 "surface": "purā",
@@ -309,7 +365,7 @@
 },
 {
 "surface": "sāsvādamayamānaṃdadāyakam",
-"quick_gloss": "taste-filled"
+"quick_gloss": "taste-joy-giving"
 }
 ]
 },
@@ -322,11 +378,11 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he"
 },
 {
 "surface": "biṃdu",
-"quick_gloss": "bindu"
+"quick_gloss": "drop"
 },
 {
 "surface": "śatasāhasra",
@@ -350,16 +406,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viveśacauṣadhiḥ",
+"surface": "viveśa",
 "quick_gloss": "entered"
+},
+{
+"surface": "oṣadhiḥ",
+"quick_gloss": "herbs"
 },
 {
 "surface": "sarvāḥ",
 "quick_gloss": "all"
 },
 {
-"surface": "somarūpomahārasaḥ",
+"surface": "somarūpaḥ",
 "quick_gloss": "moon-formed"
+},
+{
+"surface": "mahārasaḥ",
+"quick_gloss": "great-essence"
 }
 ]
 },
@@ -379,8 +443,12 @@
 "quick_gloss": "from"
 },
 {
-"surface": "vīrutsujāgartti",
-"quick_gloss": "herbs"
+"surface": "vīrut",
+"quick_gloss": "plants"
+},
+{
+"surface": "sujāgartti",
+"quick_gloss": "awaken"
 },
 {
 "surface": "paramāmṛtam",
@@ -430,11 +498,11 @@
 },
 {
 "surface": "proktāḥ",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
 "surface": "prakvāthaghuṭikādayaḥ",
-"quick_gloss": "decoction-pill-etc"
+"quick_gloss": "decoctions-pills-etc"
 }
 ]
 },
@@ -450,20 +518,32 @@
 "quick_gloss": "as"
 },
 {
-"surface": "dehojvaraṃ",
+"surface": "deho",
 "quick_gloss": "body"
 },
 {
-"surface": "śītaṃ",
+"surface": "jvaraṃ",
 "quick_gloss": "fever"
 },
 {
-"surface": "pittaṃ",
+"surface": "śītaṃ",
 "quick_gloss": "cold"
 },
 {
-"surface": "śleṣmamalonilaḥ",
+"surface": "pittaṃ",
 "quick_gloss": "bile"
+},
+{
+"surface": "śleṣma",
+"quick_gloss": "phlegm"
+},
+{
+"surface": "malaḥ",
+"quick_gloss": "waste"
+},
+{
+"surface": "nilaḥ",
+"quick_gloss": "wind"
 }
 ]
 },
@@ -488,11 +568,19 @@
 },
 {
 "surface": "proktāḥ",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
-"surface": "krodhodveṣaścamatsaraḥ",
+"surface": "krodha",
 "quick_gloss": "anger"
+},
+{
+"surface": "udveṣa",
+"quick_gloss": "aversion"
+},
+{
+"surface": "matsaraḥ",
+"quick_gloss": "envy"
 }
 ]
 },
@@ -504,16 +592,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirvedaśca",
+"surface": "nirvedaḥ",
 "quick_gloss": "disgust"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "paritrāsaḥ",
 "quick_gloss": "terror"
 },
 {
-"surface": "śaṃkākutsitaciṃtanam",
+"surface": "śaṃkā",
 "quick_gloss": "doubt"
+},
+{
+"surface": "kutsitaciṃtanam",
+"quick_gloss": "contemptible-thought"
 }
 ]
 },
@@ -526,7 +622,7 @@
 "tokens": [
 {
 "surface": "vikaṃpatvaṃ",
-"quick_gloss": "unsteadiness"
+"quick_gloss": "boastfulness"
 },
 {
 "surface": "vimūḍhatvaṃ",
@@ -550,12 +646,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvasyakutsā",
+"surface": "sarvasya",
 "quick_gloss": "of-all"
 },
 {
+"surface": "kutsā",
+"quick_gloss": "contempt"
+},
+{
 "surface": "śīlatvaṃ",
-"quick_gloss": "habit-nature"
+"quick_gloss": "nature"
 },
 {
 "surface": "sarvatrāpi",
@@ -563,7 +663,7 @@
 },
 {
 "surface": "jugupsanam",
-"quick_gloss": "aversion"
+"quick_gloss": "disgust"
 }
 ]
 },
@@ -579,11 +679,23 @@
 "quick_gloss": "these"
 },
 {
-"surface": "dṛśānaikabhedāḥ",
+"surface": "dṛśā",
 "quick_gloss": "seen"
 },
 {
-"surface": "koṭīnāmapikoṭayaḥ",
+"surface": "naikabhedāḥ",
+"quick_gloss": "one-kinds"
+},
+{
+"surface": "koṭīnām",
+"quick_gloss": "crores"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "koṭayaḥ",
 "quick_gloss": "crores"
 }
 ]

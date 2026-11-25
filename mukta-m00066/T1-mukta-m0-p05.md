@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-gāṃdharvaḥ-tu mahān-vedaḥ bharata-ādyaiḥ pravistṛtaḥ
+[gandharva-veda](gāṃdharvastu) [great](mahān) [veda](vedo) [by-bharata-etc](bharatādyaiḥ) [expanded](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-yastu ubhaya prakāreṇa saṃtoṣayati sajjanāt
+[that](yastūbhayaprakāreṇa) [which](saṃtoṣayati) [pleases](sajjanāt) [good-people](sajjanāt)
 
 ## mukta-m0-p05-v103
-prāyaḥ saṃgīta-sārāṇi nādakāni pracakṣate
+[mostly](prāyaḥ) [music-essences](saṃgītasārāṇi) [sounds](nādakāni) [they-declare](pracakṣate)
 
 ## mukta-m0-p05-v104
-bāhulyāt pratipādya syāt śṛṃgāra-rasaḥ ujvalaḥ
+[by-abundance](bāhulyāt) [to-be-explained](pratipādya) [may-be](syāt) [shringara-rasa](śṛṃgārorasa) [bright](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-tena-uparaṃjitatvāt-vā teṣāṃ rasaḥ iti smṛtiḥ
+[by-that-coloring](tenoparaṃjitatvādvā) [their](teṣāṃ) [rasa](rasa) [thus](iti) [remembered](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-sacānukūla-dā catyor-darśana-sparśana-ātmakaḥ
+[with-favorable-giving](sacānukūladā) [of-two](catyordarśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-tacca-dvidhā nīti-śāstraṃ bārhaspatyaṃ ca bhārgavam
+[that](taccadvidhā) [two-fold](nītiśāstraṃ) [niti-shastra](bārhaspatyaṃ) [and](ca) [bhargava](bhārgavam)
 
 ## mukta-m0-p05-v108
-ṣaḍbhiḥ-guṇaiḥ śaktibhiḥ catasṛbhiḥ-ca-api siddhibhiḥ
+[with-six-qualities](ṣaḍbhirguṇaiḥ) [with-powers](śaktibhiścatisṛbhiścāpi) [with-three](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-nīti-śāstram idaṃ sarvaṃ vitta-saṃpat-samṛddhi-dam
+[niti-shastra](nītiśāstramidaṃ) [all](sarvaṃ) [wealth-prosperity](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-tṛtīya-puruṣārthaḥ ayam svacānaṃda svarūpakaḥ
+[third-purushartha](tṛtīyapuruṣārtho'yaṃ) [self-bliss](svacānaṃda) [nature](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-ityaṣṭādaśa-vidyānāṃ tātparyaṃ samyak-īritam
+[thus](ityaṣṭādaśavidyānāṃ) [meaning](tātparyaṃ) [well-spoken](samyagīritam)
 
 ## mukta-m0-p05-v112
-sarvatra śāstre mokṣaḥ asti tasya rūpaṃ pṛthak pṛthak
+[everywhere](sarvatra) [in-shastra](śāstremokṣo'sti) [its-form](tasyarūpaṃ) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p05-v113
-nocet pravṛttiḥ kena syāt tat-tat-siddhānta vartinām
+[otherwise](nocet) [activity](pravṛttiḥ) [by-whom](kenasyāt) [that-doctrine](tattatsiddhāṃta) [followers](vartinām)
 
 ## mukta-m0-p05-v114
-anānaṃda svarūpatvāt śilā-vasthān viḍaṃbhayan
+[non-bliss](anānaṃda) [nature](svarūpatvāt) [stone-state](śilāvasthānviḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-tad doṣāt nija-yoṣā api dṛṣad-bhāvaṃ kila āgamat
+[by-that-fault](tad) [own-wife](doṣānnijayoṣāpi) [stone-state](dṛṣadbhāvaṃ) [indeed](kilāgamat)
 
 ## mukta-m0-p05-v116
-saḥ eva mokṣaḥ na anyaḥ asti duḥkha-ākāra-vivarjitaḥ
+[that](sa) [alone](eva) [moksha](mokṣonānyo'sti) [without-sorrow-form](duḥkhākāravivarjitaḥ)
 
 ## mukta-m0-p05-v117
-ānaṃdanātha liṃga-stham adhikṛtya pravartate
+[bliss-lord](ānaṃdanātha) [linga-staying](liṃgasthamadhikṛtyapravartate)
 
 ## mukta-m0-p05-v118
-itya ānaṃda-tantre tṛtīyaḥ paṭalaḥ
+[thus](ityānaṃdataṃtre) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-liṃga-ānaṃda-mayaḥ yaḥ ayam īśvaraḥ pratipāditaḥ
+[linga-bliss-filled](liṃgānaṃdamayo) [this](yo'yamīśvaraḥ) [explained](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-kecit tān pūjayanti eva bhoga-mātra parāṅmukhān
+[some](kecittān) [worship](pūjayaṃ) [only](tyeva) [bhoga](bhogamātra) [averse](parāṅmukhān)
 
 ## mukta-m0-p05-v121
-anyāni api sukha-āsaktān ati saṃdadhate hite
+[others](anyānyapi) [pleasure-attached](sukhāsaktānāti) [join](saṃdadhate) [welfare](hite)
 
 ## mukta-m0-p05-v122
-mūrkha-pravṛttayaḥ kecit hita-ahita-parāṅmukhāḥ
+[foolish-actions](mūrkhapravṛttayaḥ) [some](kecit) [good-bad-averse](hitāhitaparāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-vināśam eva gacchanti niṃdataḥ ulaiṃgam īśvaram
+[destruction](vināśameva) [go](gacchaṃti) [blame](niṃdatolaiṃgamīśvaram)
 
 ## mukta-m0-p05-v124
-na aśmanā nirmitaṃ devī na ayasā na ca dārubhiḥ
+[not-stone-made](nāśmanānirmitaṃ) [goddess](devī) [not-iron](nāyasāna) [nor-wood](ca) [dārubhiḥ]
 
 ## mukta-m0-p05-v125
-dhātūnāṃ ca svarūpaṃ tat pariṇāmaḥ hi retasaḥ
+[of-elements](dhātūnāṃ) [nature](ca) [that](svarūpaṃ) [transformation](tatpariṇāmo) [indeed](hi) [semen](retasaḥ)
