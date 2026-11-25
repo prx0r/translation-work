@@ -11,20 +11,16 @@
 "quick_gloss": "in-kingdom"
 },
 {
-"surface": "subhikṣam",
-"quick_gloss": "abundance"
-},
-{
-"surface": "ārogyaṃ",
-"quick_gloss": "health"
+"surface": "subhikṣamārogyaṃ",
+"quick_gloss": "abundance+health"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-make"
+"quick_gloss": "would-do"
 },
 {
 "surface": "caurādi",
-"quick_gloss": "thieves-etc"
+"quick_gloss": "thieves+etc"
 },
 {
 "surface": "nāśanan",
@@ -41,7 +37,7 @@
 "tokens": [
 {
 "surface": "sthāpakasya",
-"quick_gloss": "establisher"
+"quick_gloss": "of-installer"
 },
 {
 "surface": "sadā",
@@ -49,15 +45,19 @@
 },
 {
 "surface": "vṛddhiḥ",
-"quick_gloss": "growth"
+"quick_gloss": "increase"
 },
 {
 "surface": "ye",
-"quick_gloss": "and"
+"quick_gloss": "and-those"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "tatra",
-"quick_gloss": "there"
+"quick_gloss": "therein"
 },
 {
 "surface": "upajīvinaḥ",
@@ -103,7 +103,7 @@
 "tokens": [
 {
 "surface": "bhuktimuktipradaṃ",
-"quick_gloss": "enjoyment-liberation-giving"
+"quick_gloss": "enjoyment+liberation-giving"
 },
 {
 "surface": "jñeyam",
@@ -144,7 +144,7 @@
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "should-establish"
+"quick_gloss": "should-install"
 },
 {
 "surface": "vidhinā",
@@ -173,7 +173,7 @@
 },
 {
 "surface": "phalijyāṃ",
-"quick_gloss": "fruit-offering"
+"quick_gloss": "with-fruit-offering"
 },
 {
 "surface": "ca",
@@ -181,7 +181,7 @@
 },
 {
 "surface": "priyaṅkaraḥ",
-"quick_gloss": "pleasing"
+"quick_gloss": "beloved"
 }
 ]
 },
@@ -194,7 +194,7 @@
 "tokens": [
 {
 "surface": "nāgapuṣpaṃ",
-"quick_gloss": "nāgapuṣpa"
+"quick_gloss": "nāga-flower"
 },
 {
 "surface": "subhikṣāya",
@@ -206,7 +206,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "phalaṃ",
@@ -227,7 +227,7 @@
 "tokens": [
 {
 "surface": "candanāgurukapūrakuṅkumādyaiḥ",
-"quick_gloss": "sandal-aguru-camphor-saffron-etc"
+"quick_gloss": "sandal+aloes+camphor+saffron+etc"
 },
 {
 "surface": "ca",
@@ -256,7 +256,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "eva",
@@ -268,7 +268,7 @@
 },
 {
 "surface": "puruṣeṇa",
-"quick_gloss": "by-man"
+"quick_gloss": "with-man"
 },
 {
 "surface": "tu",
@@ -304,8 +304,12 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "yadbhavet",
-"quick_gloss": "what-may-be"
+"surface": "yad",
+"quick_gloss": "yad"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "bhavet"
 }
 ]
 },
@@ -329,8 +333,8 @@
 "quick_gloss": "eva"
 },
 {
-"surface": "guhyaiḥ",
-"quick_gloss": "secret-things"
+"surface": "guhyair",
+"quick_gloss": "with-secrets"
 },
 {
 "surface": "vā",
@@ -338,11 +342,11 @@
 },
 {
 "surface": "sarvāṇi",
-"quick_gloss": "all-these"
+"quick_gloss": "all"
 },
 {
 "surface": "etāni",
-"quick_gloss": "etāni"
+"quick_gloss": "these"
 },
 {
 "surface": "dāyayet",
@@ -359,7 +363,7 @@
 "tokens": [
 {
 "surface": "praṇamya",
-"quick_gloss": "bowing"
+"quick_gloss": "having-bowed"
 },
 {
 "surface": "daṇḍavad",
@@ -370,7 +374,7 @@
 "quick_gloss": "bhamau"
 },
 {
-"surface": "śanaiḥ",
+"surface": "śanair",
 "quick_gloss": "slowly"
 },
 {
@@ -433,7 +437,7 @@
 },
 {
 "surface": "pradātavyā",
-"quick_gloss": "should-give"
+"quick_gloss": "should-be-given"
 },
 {
 "surface": "dakṣiṇā",
@@ -462,7 +466,7 @@
 },
 {
 "surface": "deyā",
-"quick_gloss": "should-give"
+"quick_gloss": "to-be-given"
 },
 {
 "surface": "samayibhyaḥ",
@@ -474,7 +478,7 @@
 },
 {
 "surface": "pādikā",
-"quick_gloss": "foot-portion"
+"quick_gloss": "quarter"
 }
 ]
 },
@@ -536,7 +540,7 @@
 },
 {
 "surface": "toṣayet",
-"quick_gloss": "should-please"
+"quick_gloss": "please"
 }
 ]
 },
@@ -598,7 +602,7 @@
 },
 {
 "surface": "tacchatāvṛtam",
-"quick_gloss": "that-hundred-fold"
+"quick_gloss": "hundred-times"
 }
 ]
 },
@@ -625,6 +629,10 @@
 {
 "surface": "yugabhāgāḥ",
 "quick_gloss": "age-parts"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "caturdikṣu",
@@ -657,7 +665,7 @@
 "tokens": [
 {
 "surface": "sthāpyāni",
-"quick_gloss": "should-place"
+"quick_gloss": "to-be-placed"
 },
 {
 "surface": "teṣu",
@@ -764,11 +772,11 @@
 },
 {
 "surface": "dṛḍhakāṣṭhena",
-"quick_gloss": "firm-wood-decorated"
+"quick_gloss": "with-firm-wood"
 },
 {
 "surface": "maṇḍitam",
-"quick_gloss": "maṇḍitam"
+"quick_gloss": "adorned"
 }
 ]
 }
