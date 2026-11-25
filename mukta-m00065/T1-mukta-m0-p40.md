@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[secondary](gauṇaḥ) [in-field](kṣetre) [or](athavā) [six+door+one+faced](ṣaḍdorekavaktraḥ) [is-praised](praśasyate)
+secondary(gauṇaḥ) in-field(kṣetre) or(athavā) six-door-one-faced(ṣaḍdorekavaktraḥ) praised(praśasyate)
 
 ## mukta-m0-p40-v977
-[according-to-order](yathākramaṃ) [always](sadā) [with-six](ṣaḍbhiḥ) [right+left+hands](dakṣiṇottarapāṇibhiḥ)
+in-order(yathākramaṃ) always(sadā) with-six(ṣaḍbhiḥ) right-left-hands(dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-[bearing](bibhrat) [power](śaktiṃ) [in-hand](kare) [right](yāmye) [cock](tāmracūḍaṃ) [and](tathā) [other](itare)
+bearing-power(bibhrachaktiṃ) in-hand(kare) southern(yāmye) copper-crested(tāmracūḍaṃ) and(tathā) other(itare)
 
 ## mukta-m0-p40-v979
-[peacock-mounted](śikhyārūḍhaḥ) [but](tu) [Śarva](śārvaḥ) [this](ayaṃ) [all+ornamented](sarvālaṅkārabhaṣitaḥ)
+peacock-mounted(śikhyārūḍhaḥ) but(tu) śarva(śārvaḥ) this(ayam) all-ornament-decorated(sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-[with-stone+gold+etc+metals](śilāhemādilohaiḥ) [or](vā) [bull](vṛṣaṃ) [one-should-make](kuryāt) [as-desired](yathepsitam)
+stone-gold-etc-metals(śilāhemādilohaiḥ) or(vā) bull(vṛṣaṃ) make(kuryāt) as-desired(yathepsitam)
 
 ## mukta-m0-p40-v981
-[in-common](sādhāraṇeṣu) [liṅgas](liṅgeṣu) [by-context](prastāvāt) [prescribed](vihitaḥ) [bull](vṛṣaḥ)
+common(sādhāraṇeṣu) liṅgas(liṅgeṣu) from-context(prastāvāt) prescribed(vihitaḥ) bull(vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-[liṅga+third+part+less](liṅgatryaṃśojhitaḥ) [to-be-made](kāryaḥ) [that+twice+length+figure](taddvirāyativigrahaḥ)
+liṅga-three-part-deprived(liṅgatryaṃśojhitaḥ) to-be-made(kāryaḥ) that-double-length(taddvirāyati) image(vigrahaḥ)
 
 ## mukta-m0-p40-v983
-[auspicious+opened+eye+mark](śubhonmolitadṛglakṣma) [liṅga+head+head](liṅgamastakamastakaḥ)
+auspicious-opened-eye-mark(śubhonmolitadṛglakṣma) liṅga-head(liṅgamastaka) head(mastakaḥ)
 
 ## mukta-m0-p40-v984
-[by-length](dairghyāt) [square](caturaśa) [etc](ādi) [angula](aṅgulaṃ) [by-that](tena) [planning](kalpanam)
+from-length(dairghyāt) square-etc(caturaśādi) inches(aṅgulaṃ) by-that(tena) measured(kalpanam)
 
 ## mukta-m0-p40-v985
-[eight+eye+breadth](aṣṭanetrapṛthutvaṃ) [is](syāt) [high](uccaiḥ) [that+mouth+length](tadvaktradīrghatā)
+eight-eye-breadth(aṣṭanetrapṛthutvaṃ) be(syāt) high(uccaiḥ) that-face-length(tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-[that+string+part](tantribhāgaṃ) [but](tu) [star](tārā) [is](syāt) [light](jyotiḥ) [that+fifth+part](tatpañcamāṃśataḥ)
+string-part(tantribhāgaṃ) but(tu) star(tārā) be(syāt) light(jyotiḥ) that-fifth-part(tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-[nose+angula+measure+round](nāsāṅgulapramāvṛttā) [two+eye](dvinetraṃ) [hollow+interior](śuṣirāntaram)
+nose-inch-measure-round(nāsāṅgulapramāvṛttā) two-eye(dvinetraṃ) hollow-interior(śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-[five+eye](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that+above](tadūrdhva) [but](tu) [increases](vivardhate)
+five-eye(pañcanetraṃ) but(tu) breadth(vistāraṃ) that-above(tadūrdhva) but(tu) increases(vivardhate)
 
 ## mukta-m0-p40-v989
-[four+eye](caturnetraḥ) [both](obhayoḥ) [sides](pārśve) [face+measure](vaktramānaṃ) [but](tu) [joined](sandhitaḥ)
+four-eye(caturnetraḥ) both(ubhayoḥ) side(pārśve) face-measure(vaktramānaṃ) but(tu) joined(sandhitaḥ)
 
 ## mukta-m0-p40-v990
-[that+base](tanmūle) [seven+breadth](saptavistāraṃ) [ear+base+endowed](karṇamūlasamanvitam)
+that-base(tanmūle) seven-breadth(saptavistāraṃ) ear-base-accompanied(karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-[half+angula+equal](aṅgulārdhasamaṃ) [as-far](yāvat) [base](mūlaṃ) [five+round](pañcakavartulam)
+half-inch-equal(aṅgulārdhasamaṃ) as-far(yāvat) base(mūlaṃ) five-round(pañcakavartulaṃ)
 
 ## mukta-m0-p40-v992
-[from+ear+base](karṇamūlāt) [but](tu) [nose+half](nāsārdhaṃ) [by+thread+laugh](sūtrahāsāt) [one-should-bring+equal](nayetsamam)
+from-ear-base(karṇamūlāt) but(tu) nose-half(nāsārdhaṃ) thread-smile(sūtrahāsa) bring-equal(nayetsamam)
 
 ## mukta-m0-p40-v993
-[conch+base](śaṅkhamūla) [two+eye](dvinetraṃ) [is](syāt) [as+front](yathāgre) [eye+foot](netrapādakam)
+conch-base(śaṅkhamūla) two-eye(dvinetraṃ) be(syāt) as-front(yathāgre) eye-foot(netrapādakam)
 
 ## mukta-m0-p40-v994
-[side+lump](pārśvapiṇḍī) [two+eye+half](dvinetrārdhaṃ) [six+eye+front+tuft](ṣaḍnetrāgrāvaṭuḥ) [is-said](smṛtaḥ)
+side-lump(pārśvapiṇḍī) two-eye-half(dvinetrārdhaṃ) six-eye-front-tuft(ṣaḍnetrāgrāvaṭuḥ) remembered(smṛtaḥ)
 
 ## mukta-m0-p40-v995
-[two+eye+height+above](dvinetrocchrayatordhvaṃ) [is](syāt) [round+above](vṛttamūrdhvaṃ) [as](yathā) [may-be](bhavet)
+two-eye-height-above(dvinetrocchrayatordhvaṃ) be(syāt) round-above(vṛttamūrdhvaṃ) as(yathā) become(bhavet)
 
 ## mukta-m0-p40-v996
-[joint](sandhiḥ) [eye+excess](netrādhikaḥ) [is-said](proktaḥ) [four+eye+calf](caturnetropajaṅghikā)
+joint(sandhiḥ) eye-excess(netrādhikaḥ) stated(proktaḥ) four-eye-calf(caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-[ankle+half](gulphārdhaṃ) [hoof+eye](khurikānetraṃ) [of+foot](pādasya) [by+measure](parimāṇataḥ)
+ankle-half(gulphārdhaṃ) hoof-eye(khurikānetraṃ) of-foot(pādasya) from-measure(parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-[fourteen+etc](caturdaśādi) [that+word](tadvaca) [three+less](trihīne) [and+calf](copajaṅghrikā)
+fourteen-etc(caturdaśādi) that-speech(tadvaca) three-less(trihīne) and(ca) calf(upajaṅghrikā)
 
 ## mukta-m0-p40-v999
-[six+eye+end](ṣaḍnetrāntaḥ) [thus](tathā) [to-be-known](jñeyā) [therefore](tasmāt) [is](syāt) [tail+continuity](pucchasantatiḥ)
+six-eye-inside(ṣaḍnetrāntaḥ) thus(tathā) to-be-known(jñeyā) therefore(tasmāt) be(syāt) tail-continuity(pucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-[three+palm](tālatrayaṃ) [very+long](pradīrghaṃ) [is](syāt) [half+palm](tālārdhaṃ) [hair+mass](keśasaṃhatiḥ)
+three-palm(tālatrayaṃ) very-long(pradīrghaṃ) be(syāt) half-palm(tālārdhaṃ) hair-collection(keśasaṃhatiḥ)
