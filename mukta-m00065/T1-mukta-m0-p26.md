@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-sometimes particle entry marking sword-sharpening
+[kvacit](kvacit) [kaṇam](kaṇaṃ) [praveśena](praveśena) [lāñchayitvā](lāñchayitvā) [asi](asi) [śātanam](śātanam)
+
 ## mukta-m0-p26-v627
-in-middle thread-confused Rudra becomes round
+[tanmadhye](tanmadhye) [sūtrasambhrānte](sūtrasambhrānte) [rudraḥ](rudro) [bhavati](bhavati) [vartulaḥ](vartulaḥ)
+
 ## mukta-m0-p26-v628
-throw or void-fault-destroying hand-one-finger gradually
+[kṣipet](kṣiped) [vā](vā) [śūnyadoṣaghnam](śūnyadoṣaghnaṃ) [hastāt](hastāt) [ekāṅgulam](ekāṅgulaṃ) [kramāt](kramāt)
+
 ## mukta-m0-p26-v629
-sixteenth-part throw first Veda-part god-worshipped
+[ṣoḍaśāṃśa](ṣoḍaśāṃśa) [kṣipet](kṣiped) [ādye](ādye) [vedāṃśam](vedāṃśam) [amarorcite](amarorcite)
+
 ## mukta-m0-p26-v630
-in-Pingala opinion stated first-god-worshipped by
+[piṅgalāyāḥ](piṅgalāyā) [mate](mate) [proktam](proktam) [ādyā](ādyā) [amarārcitena](amarārcitena) [tu](tu)
+
 ## mukta-m0-p26-v631
-would-be increasing earth-sixty hundreds and
+[bhaveyuḥ](bhaveyur) [vardhamānāni](vardhamānāni) [vasu](vasu) [dviṣaṭ](dviṣaṭ) [śatāni](śatāni) [ca](ca)
+
 ## mukta-m0-p26-v632
-Vishvakarma opinion seen should-be-said pedestal-rotation
+[viśvakarmamataṃ](viśvakarmamataṃ) [dṛṣṭvā](dṛṣṭvā) [vaktavyam](vaktavyaṃ) [pīṭhavartanam](pīṭhavartanam)
+
 ## mukta-m0-p26-v633
-and-that equal Linga in-temple or house beneficial
+[tat](tac) [ca](ca) [savasamam](savasamaṃ) [liṅgam](liṅgaṃ) [prāsāde](prāsāde) [vā](vā) [gṛhe](gṛhe) [hitam](hitam)
+
 ## mukta-m0-p26-v634
-two feet knee-until square Pitamaha
+[dvau](dvau) [pādau](pādau) [jānuparyantam](jānuparyantaṃ) [caturasra](caturasre) [pitāmahaḥ](pitāmahaḥ)
+
 ## mukta-m0-p26-v635
-to-head navel-from upward round-part Hara himself
+[āmūrdham](āmūrdhaṃ) [nābhitaḥ](nābhitaś) [ca](ca) [ūrdhvam](ūrdhvaṃ) [vṛttabhāge](vṛttabhāge) [haraḥ](haraḥ) [svayam](svayam)
+
 ## mukta-m0-p26-v636
-fivefold manifest-Lingas equal-pedestals those and
+[pañcadhā](pañcadhā) [avyaktaliṅgāni](avyaktaliṅgāni) [samapīṭhāni](samapīṭhāni) [tāni](tāni) [ca](ca)
+
 ## mukta-m0-p26-v637
-five-Linga arrangement head-rotating thus-said
+[pañcaliṅga](pañcaliṅga) [vyavasthā](vyavastheyaṃ) [iyam](iyam) [śirovartinī](śirovartiny) [atha](atha) [ucyate](ucyate)
+
 ## mukta-m0-p26-v638
-of-each four-varieties by-desired-form result should-tell
+[ekaikasya](ekaikasya) [caturbhedaiḥ](caturbhedaiḥ) [kāmyarūpāt](kāmyarūpāt) [phalam](phala) [vadet](vadet)
+
 ## mukta-m0-p26-v639
-long-kingdom-giving known umbrella-varieties fourfold
+[cirarājyaprada](cirarājyaprada) [khyātam](khyātaṃ) [chatrabhedāḥ](chatrabhedāś) [caturvidhāḥ](caturvidhāḥ)
+
 ## mukta-m0-p26-v640
-measure-giving wing loss and vast fame-giving becomes
+[mānada](mānada) [pakṣa](pakṣa) [lopāt](lopācca) [ca](ca) [vipulam](vipulaṃ) [khyātidam](khyātidaṃ) [bhavet](bhavet)
+
 ## mukta-m0-p26-v641
-Shrivas son-giving Kuru Daksha-egg would-be fourfold
+[śrīvāsam](śrīvāsaṃ) [putradam](putradaṃ) [kurtu](kurtu) [dakṣāṇḍam](dakṣāṇḍaṃ) [syāt](syāc) [caturvidham](caturvidham)
+
 ## mukta-m0-p26-v642
-nourishing two-decay from full great-delight-causing always
+[puṣṭidam](puṣṭidaṃ) [dvikṣayāt](dvikṣayāt) [pūrṇam](pūrṇaṃ) [mahāhlādakara](mahāhlādakara) [sadā](sadā)
+
 ## mukta-m0-p26-v643
-weapon Kumuda known moon fourfold considered
+[āyudam](āyudaṃ) [kumudam](kumudaṃ) [jñeyam](jñeyaṃ) [candam](candaṃ) [caturvidham](caturvidhaṃ) [matam](matam)
+
 ## mukta-m0-p26-v644
-all-desire-giving stated destruction two-decay from prosperity
+[sarvakāmapradam](sarvakāmapradaṃ) [proktam](proktaṃ) [vināśam](vināśaṃ) [dvikṣayāt](dvikṣayāc) [śriye](śriye)
+
 ## mukta-m0-p26-v645
-belovedness-giving that and fourfold lead becomes
+[ballabhatvaprada](ballabhatvaprada) [tat](tac) [ca](ca) [caturdhā](caturdhā) [trapuṣam](trapuṣaṃ) [bhavet](bhavet)
+
 ## mukta-m0-p26-v646
-should-do Brahmin-etc-work-for one or cock-egg
+[kuryāt](kuryād) [viprādikāryārtham](viprādikāryārthamekaṃ) [vā](vā) [kukkuṭāṇḍakam](kukkuṭāṇḍakam)
+
 ## mukta-m0-p26-v647
-long-life and moon's from partridge-egg wisdom
+[dīrghāyuṣṭvam](dīrghāyuṣṭvam) [atha](atha) [cendoḥ](cendoḥ) [kṛkavākvaṇḍataḥ](kṛkavākvaṇḍataḥ) [prajñāḥ](prajñāḥ)
+
 ## mukta-m0-p26-v648
-Jina-twenty-tigers in-first Brahma-etc-enclosure
+[jinaviṃśati](jinaviṃśati) [śārdūlaiḥ](śārdūlair) [ādye](ādye) [brahmādiveṣṭanam](brahmādiveṣṭanam)
+
 ## mukta-m0-p26-v649
-by-modification by-love part-third-part added and
+[vikāreṇa](vikāreṇa) [smareṇa](smareṇa) [aṃśa](aṃśa) [tṛtīyāṃśa](tṛtīyāṃśa) [yutena](yutena) [ca](ca)
+
 ## mukta-m0-p26-v650
-part-third-part by nail-moon accompanied and
+[bhāga](bhāga) [tṛtīya](tṛtīya) [bhāgena](bhāgena) [nakhacandra](nakhacandra) [anvitena](anvitena) [ca](ca)
