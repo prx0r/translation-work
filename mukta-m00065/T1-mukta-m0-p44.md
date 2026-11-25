@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakshas-two-crocodile](rakṣodvitayakumbhīra) [and](ca) [snake-wheel-mouthed](sarpacakrāsyakaṃ) [bham](bham)
+rakṣaḥ-dvitaya-kumbhīra (two-rakshasa-crocodile) sarpacakra-āsyakaṃ (snake-circle-mouthed) ca (and) bham (Bha)
 
 ## mukta-m0-p44-v1077
-[ashvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajapati-indra-moon-hara-aditi](prajendrenduharo'ditiḥ)
+aśvinau (Ashvins) ca (and) yamaḥ (Yama) vahniḥ (fire) prajā-indra-indu-haraḥ (Prajapati-Indra-moon-destroyer) aditiḥ (Aditi)
 
 ## mukta-m0-p44-v1078
-[tvashtar](tvaṣṭā) [wind](vāyuḥ) [indra](surendro) [fire]('gnir) [mitra-indra](mitrendrau) [up-to-serpent-lord](yāvatpāmpatiḥ)
+tvaṣṭā (Tvashtri) vāyuḥ (wind) surendraḥ (Indra) agniḥ (fire) mitra-indrau (Mitra-Indra) yāvat (until) pāṃ-patiḥ (lord-of-sinners)
 
 ## mukta-m0-p44-v1079
-[vishnu](viṣṇur) [vasu](vasur) [aja-eka-adi-footed-serpent](ajaikādipādahirbudhna) [pushan](pūṣakāḥ)
+viṣṇuḥ (Vishnu) vasuḥ (Vasu) aja-eka-ādi-pādaḥ (unborn-first-footed) ahi-budhna (serpent-bottom) pūṣakaḥ (Pushan)
 
 ## mukta-m0-p44-v1080
-[male](pumān) [mace-holder](gadī) [vina-holder](savīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
+pumān (man) gadī (mace-bearer) sa-vīṇā (with-veena) ca (and) yoṣit (woman) nmithunaṃ (pair) dhanuḥ (bow)
 
 ## mukta-m0-p44-v1081
-[woman](strī) [boat](nau) [meteor](stholkā) [sword-bearer](sibhṛt) [maiden](kanyā) [scale-holder](tulādhāro) [man](naras) [scale](tulā)
+strī (woman) nauḥ (boat) ulkā (meteor) asi-bhṛt (sword-bearer) kanyā (maiden) tulā-dhāraḥ (balance-holder) naraḥ (man) tulā (balance)
 
 ## mukta-m0-p44-v1082
-[aries-etc-five-and-others](meṣādyāḥ) [five](pañca) [and](ca) [eva](evānye) [same-name-same-form](svanāmatulyarūpakāḥ)
+meṣa-ādyāḥ (Aries-etc.) pañca (five) ca (and) eva (indeed) anye (others) sva-nāma-tulya-rūpakāḥ (same-named-forms)
 
 ## mukta-m0-p44-v1083
-[golden](hemābhaḥ) [crowned](sakirīṭaśca) [king-of-gods](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
+hema-ābhaḥ (gold-shining) sa-kirīṭaḥ (with-crown) ca (and) devarājaḥ (king-of-gods) sura-āvṛtaḥ (surrounded-by-gods)
 
 ## mukta-m0-p44-v1084
-[goat-seated](chāgasthaḥ) [rosary-fierce](sākṣasūtrograḥ) [seven-flamed](saptārciḥ) [spear-holder](śaktidhārakaḥ)
+chāga-sthaḥ (goat-mounted) sākṣa-sūtra-ugraḥ (rosary-fierce) saptārciḥ (seven-flamed) śakti-dhārakaḥ (spear-bearer)
 
 ## mukta-m0-p44-v1085
-[red-hearted](raktahṛt) [noose-holder](pāśabhṛt) [krishna](kṛṣṇo) [buffalo-seated](mahiṣastha) [fierce-messenger](ugradūtavān)
+rakta-hṛt (red-hearted) pāśa-bhṛt (noose-bearer) kṛṣṇaḥ (Krishna) mahiṣa-sthaḥ (buffalo-mounted) ugra-dūtavān (fierce-messenger)
 
 ## mukta-m0-p44-v1086
-[male-seated](puṃsthita) [sword-handed](khaḍgahastaśca) [blue](nīlābho) [rakshasa-surrounded](rākṣasāvṛtaḥ)
+puṃ-sthita (man-standing) khaḍga-hastaḥ (sword-handed) ca (and) nīla-ābhaḥ (blue-shining) rākṣasa-āvṛtaḥ (surrounded-by-rakshasas)
 
 ## mukta-m0-p44-v1087
-[all-ornamented](sarvābharaṇasaṃyukto) [varuna](varūṇaḥ) [yellow-garment-wearer](pītavastrabhṛt)
+sarva-ābharaṇa-saṃyuktaḥ (all-ornamented) varuṇaḥ (Varuna) pīta-vastra-bhṛt (yellow-garment-wearer)
 
 ## mukta-m0-p44-v1088
-[red-eyed](raktakṣo) [red-garmented](raktavāsaśca) [deer-seated](mṛgasthaścaṅkuśī) [flag-bearer](dhvajī)
+rakta-akṣaḥ (red-eyed) rakta-vāsaḥ (red-garmented) ca (and) mṛga-sthaḥ (deer-mounted) caṅkuśī (goad-bearer) dhvajī (bannered)
 
 ## mukta-m0-p44-v1089
-[wealth-lord](dhaneśo) [boon-giver](varadaḥ) [to-be-made](kāryo) [various-ornament-decorated](nānābharaṇamaṇḍitaḥ)
+dhaneśaḥ (Kubera) varadaḥ (boon-giver) kāryaḥ (to-be-made) nānā-ābharaṇa-maṇḍitaḥ (variously-ornamented)
 
 ## mukta-m0-p44-v1090
-[ishana](īśāno) [serpent-moon-bearer]('hīndubhṛccaite) [world-guardians](lokapālā) [two-armed](dvibāhavaḥ)
+īśānaḥ (Ishana) ahi-indu-bhṛt (serpent-moon-bearer) ca (and) ete (these) lokapālāḥ (world-guardians) dvi-bāhavaḥ (two-armed)
 
 ## mukta-m0-p44-v1091
-[vishvakarma](viśvakarmā) [always](sadā) [white](gauro) [knowledge-mudra-rosary-wearer](jñānamudrākṣasūtrabhṛt)
+viśvakarmā (Vishvakarma) sadā (always) gauraḥ (white) jñāna-mudrā-akṣa-sūtra-bhṛt (wisdom-seal-rosary-bearer)
 
 ## mukta-m0-p44-v1092
-[alidha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-bodied](mahākāyaṃ) [very-terrifying](subhīṣaṇam)
+ālīḍha-karaṇa-āsaktaṃ (engaged-in-lolling-posture) mahā-kāyaṃ (great-bodied) su-bhīṣaṇam (very-terrifying)
 
 ## mukta-m0-p44-v1093
-[yellow-flag-bearer](pītadhvajadharaṃ) [left](vāme) [threatening-finger](tarjanīṃ) [or](vā) [heart-before](hṛdagrataḥ)
+pīta-dhvaja-dharaṃ (yellow-banner-bearing) vāme (on-left) tarjanīṃ (threatening-finger) vā (or) hṛt-agrataḥ (before-heart)
 
 ## mukta-m0-p44-v1094
-[pressing](saṃpīḍya) [rakshasas](rākasān) [with-feet](padbhyāṃ) [releasing](muñcann) [sound](ādaṃ) [marut-son](marutsutam)
+saṃpīḍya (pressing) rākasān (rakshasas) padbhyāṃ (with-feet) muñcan (releasing) nādaṃ (sound) marut-sutam (son-of-wind)
 
 ## mukta-m0-p44-v1095
-[skanda-yaksha-accompanied](skandhayakṣānvitā) [always](nityaṃ) [to-be-made](kartavyā) [woman-accompanied](yoṣidanvitāḥ)
+skandha-yakṣa-anvitā (with-shoulder-yakshas) nityaṃ (always) kartavyā (to-be-made) yoṣit-anvitāḥ (with-women)
 
 ## mukta-m0-p44-v1096
-[garland-wearer](mālābhṛto) [or]('thavā) [delighted](hṛṣṭāḥ) [sky-dwelling](khasthā) [vidyadhara](vidyādharāḥ) [always](sadā)
+mālā-bhṛtaḥ (garland-bearers) athavā (or) hṛṣṭāḥ (joyful) kha-sthā (sky-dwelling) vidyādharāḥ (vidyadharas) sadā (always)
 
 ## mukta-m0-p44-v1097
-[tawny-varvara-haired](piṅgavarvara) [horse](keśāśva) [vetala](vetālā) [distorted-faced](vikṛtānanāḥ)
+piṅga-varvara-keśa (tawny-curly-haired) aśva (horse) vetālā (vetalas) vikṛta-ānanāḥ (distorted-faced)
 
 ## mukta-m0-p44-v1098
-[skull-garlanded](kapālamālinaḥ) [trident-holders](śūladhārīṇaḥ) [field-protectors](kṣetrapālakāḥ)
+kapāla-mālinaḥ (skull-garlanded) śūla-dhāriṇaḥ (trident-bearers) kṣetra-pālakāḥ (field-guardians)
 
 ## mukta-m0-p44-v1099
-[thin](kṛśā) [big-bellied](mahodarāḥ) [pretas](pretā) [indeed](khalva) [cheeked](gallāśca) [hairy](lomaśāḥ)
+kṛśā (lean) mahodarāḥ (big-bellied) pretā (ghosts) khalu-gallāḥ (indeed-cheeked) ca (and) lomaśāḥ (hairy)
 
 ## mukta-m0-p44-v1100
-[own-limb-color-wearing](svāṅgavarṇadharāḥ) [all](sarvā) [as-stated](yathoktaṃ) [brahmayamala](brahmayāmale)
+sva-aṅga-varṇa-dharāḥ (own-limb-color-bearing) sarvā (all) yathā-uktaṃ (as-stated) brahma-yāmale (in-Brahmayamala)
