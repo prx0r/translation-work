@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[of-most-sinful](pāpiṣṭhānām) [here](ihā) [conduct](cāro) [as](yathā) [all](sarva) [despised](jugupsitam)
-
+of-the-most-sinful-here-conduct as by-all-despised
 ## mukta-m0-p07-v152
-[does](karoti) [so](tadvat) [after-death](pretyāpi) [supreme-bliss-happiness](parānaṃdasukhaṃ) [becomes](bhavet)
-
+does so after-death-too supreme-bliss-happiness may-be
 ## mukta-m0-p07-v153
-[of-happiness](sukhasya) [origin](saṃbhavo) [not-other](nānya) [by-path](vartmanā) [lotus-eyed](padmalocane)
-
+of-happiness origin-not-other by-path O-lotus-eyed
 ## mukta-m0-p07-v154
-[that](sa) [indeed](eva) [path](mārgo) [wrong-path](durmārgo) [other](aparaḥ) [declared](parikīrtitaḥ)
-
+that indeed path-bad-path another proclaimed
 ## mukta-m0-p07-v155
-[in-them](teṣu) [everywhere](sarvatra) [with-equality](sāmyena) [of-marks](liṃgānaṃdaḥ) [proceeds](pravartate)
-
+in-them everywhere by-equality linga-bliss proceeds
 ## mukta-m0-p07-v156
-[not](na) [indeed](vai) [without-caste](jātiṃ+vinā) [corrupt](duṣṭām) [in-other-castes](anyajātiṣu) [is-found](vidyate)
-
+not indeed caste without-corrupt other-castes exists
 ## mukta-m0-p07-v157
-[false-ego-pride-blind](mithyābhimānadarpāndhā) [false-faults](mithyādoṣāti) [suspicious](śaṃkinī)
-
+false-pride-arrogance-blind false-fault-at suspicious
 ## mukta-m0-p07-v158
-[in-animals-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not-such-sequence](naitādṛkkrama) [origin](saṃbhavaḥ)
-
+animals-birds-beasts-etc not-such-sequence origin
 ## mukta-m0-p07-v159
-[not](na) [without-caste](ravarjā) [all-caste](sarvajātir) [existing](varta) [dependent](mānāvalaṃbinī)
-
+not except all-caste existing dependent
 ## mukta-m0-p07-v160
-[not](na) [word-and-meaning-form](vācyavācakākāra) [scripture-discussion](śāstracarcā) [demoness](piśācikā)
-
+not word-speaker-form scripture-discussion demoness
 ## mukta-m0-p07-v161
-[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manaso) [not](na) [treachery](droho) [not](na) [egoism](abhimānatā)
-
+not crookedness and of-mind not malice not pride
 ## mukta-m0-p07-v162
-[in-sleepiness](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [not-other](nānyaḥ) [any](ko'pi) [mind-fever](manojvaraḥ)
-
+in-sleepiness supreme sleep not-other any mind-fever
 ## mukta-m0-p07-v163
-[not-various-path-ascent](nānāmārgakṛtārohaḥ) [anywhere](kutrāpya) [firm-support](dṛḍhalaṃbanaḥ)
-
+various-path-made-ascent somewhere firm-support
 ## mukta-m0-p07-v164
-[therefore](ataḥ) [in-all-castes](sarvāsu+jātiṣv) [unbroken](apyakhaṃḍita) [prowess](parākramam)
-
+therefore in-all castes unbroken valor
 ## mukta-m0-p07-v165
-[bliss-lord](ānaṃdanātham) [ruler](īśānaṃ) [not](na) [find](viṃdaṃti) [evil-minded](durāśayāḥ)
-
+bliss-lord-ruler not find evil-minded
 ## mukta-m0-p07-v166
-[thus](ity) [bliss-tantra](ānaṃdatantre) [fourth](caturthaḥ) [chapter](paṭalaḥ)
-
+thus-bliss-tantra fourth chapter
 ## mukta-m0-p07-v167
-[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāśca) [hear](śruṇu) [hero-worshipped](vīraniṣevite)
-
+mantra-bliss of-goddess-and hear O-hero-served
 ## mukta-m0-p07-v168
-[all-accomplishments-causing](samastasiddhijanaka) [dense-bliss](sāṃdrānaṃda) [great-rise](mahodayaḥ)
-
+all-accomplishment-causing dense-bliss great-rise
 ## mukta-m0-p07-v169
-[to-lord](nāthāya) [thus](iti) [word](padaṃ) [after](paścāt) [say](procyabrūyāṃ) [nine-formed](navātmikām)
-
+to-lord-thus word after say I-will-speak nine-souled
 ## mukta-m0-p07-v170
-[om-beginning](praṇavādi) [great-mantra](mahāmaṃtraḥ) [declared](prokto) [twenty](viṃśati) [letters](varṇavān)
-
+om-beginning great-mantra proclaimed twenty letters-having
 ## mukta-m0-p07-v171
-[nine-formed-couple-named](navātmamithunākhyā) [also](ca) [great-bliss-phase-formed](mahānaṃdakalātmikā)
-
+nine-soul-couple-named and great-bliss-art-souled
 ## mukta-m0-p07-v172
-[by-this](anayā) [like](sadṛśo) [mantra](maṃtras) [thus](tvanayā) [like](sadṛśaṃ) [austerity](tapaḥ)
-
+by-this-similar mantra and by-this-similar austerity
 ## mukta-m0-p07-v173
-[linga-yoni](liṃgayoni) [always-union](sadāsaṃgā) [by-doing](kāreṇa) [constantly](satataṃ) [by-me](mayā)
-
+linga-yoni always-union by-action constantly by-me
 ## mukta-m0-p07-v174
-[without-me](māṃ+vinā) [not](na) [indeed](eva) [know](jānaṃti) [knowledge](vidyāmetāṃ) [great-rise](mahodayām)
-
+me without-not-know knowledge-this great-rise
 ## mukta-m0-p07-v175
-[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvam) [this](eṣā) [not](nā) [ca](ca) [muradviṣe](muradviṣe)
+taught by-me before this she/that and to-Murari-enemy
