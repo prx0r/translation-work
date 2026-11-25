@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "karoṭaṃ",
-"quick_gloss": "skull-cup"
+"quick_gloss": "skull-bowl"
 },
 {
 "surface": "muṇḍamālaṃ",
-"quick_gloss": "skull-garland"
+"quick_gloss": "garland-of-skulls"
 },
 {
 "surface": "ca",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "kaṅkoṭaṃ",
-"quick_gloss": "hook"
+"quick_gloss": "snake-bite"
 },
 {
 "surface": "khaḍgarāvaṇam",
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "ghorāṭṭahāsamucchiṣṭaṃ",
-"quick_gloss": "terrible-laugh-remainder"
+"quick_gloss": "terrifying-laugh"
 },
 {
 "surface": "ghurghuraṃ",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "duṣṭatrāsakam",
-"quick_gloss": "wicked-terror"
+"quick_gloss": "fear-causing"
 }
 ]
 },
@@ -58,7 +58,7 @@
 "tokens": [
 {
 "surface": "yamaghaṇṭaṃ",
-"quick_gloss": "yama-bell"
+"quick_gloss": "death-bell"
 },
 {
 "surface": "ca",
@@ -69,8 +69,12 @@
 "quick_gloss": "spirit-invocation"
 },
 {
-"surface": "viṣabhedamajātajam",
-"quick_gloss": "poison-distinction-unborn-born"
+"surface": "viṣabhedam",
+"quick_gloss": "poison-distinction"
+},
+{
+"surface": "ajātajam",
+"quick_gloss": "unborn-born"
 }
 ]
 },
@@ -83,11 +87,11 @@
 "tokens": [
 {
 "surface": "punarlakṣavibhedana",
-"quick_gloss": "again-hundred-thousand-division"
+"quick_gloss": "again-laksha-distinction"
 },
 {
 "surface": "grabhinnaḥ",
-"quick_gloss": "pregnant-broken"
+"quick_gloss": "split"
 },
 {
 "surface": "śāstrasaṅgrahaḥ",
@@ -116,7 +120,7 @@
 },
 {
 "surface": "sarvaśāstrāvatārakāḥ",
-"quick_gloss": "all-scripture-descenders"
+"quick_gloss": "all-scriptures-descenders"
 }
 ]
 },
@@ -141,7 +145,7 @@
 },
 {
 "surface": "śambhunāgamapañcakam",
-"quick_gloss": "shambhu-naga-five"
+"quick_gloss": "five-shiva-serpent"
 }
 ]
 },
@@ -154,7 +158,7 @@
 "tokens": [
 {
 "surface": "ekatrabhojanaṃ",
-"quick_gloss": "single-place-eating"
+"quick_gloss": "single-vessel-eating"
 },
 {
 "surface": "ghore",
@@ -170,7 +174,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "so"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -183,7 +187,7 @@
 "tokens": [
 {
 "surface": "ācaret",
-"quick_gloss": "practices"
+"quick_gloss": "should-practice"
 },
 {
 "surface": "samayān",
@@ -199,7 +203,7 @@
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "ācārya",
@@ -219,8 +223,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadavaśyaṃ",
-"quick_gloss": "that-necessary"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "avaśyaṃ",
+"quick_gloss": "necessary"
 },
 {
 "surface": "hi",
@@ -257,7 +265,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "kāryāṇi",
@@ -298,7 +306,7 @@
 },
 {
 "surface": "ceti",
-"quick_gloss": "and-thus"
+"quick_gloss": "thus"
 },
 {
 "surface": "ṣaṭkarmāṇi",
@@ -338,8 +346,12 @@
 "quick_gloss": "by-teacher-command"
 },
 {
-"surface": "tadācaret",
-"quick_gloss": "then-practices"
+"surface": "tadā",
+"quick_gloss": "then"
+},
+{
+"surface": "ācaret",
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -352,11 +364,11 @@
 "tokens": [
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "adept"
+"quick_gloss": "practitioner"
 },
 {
 "surface": "sādhayet",
-"quick_gloss": "accomplishes"
+"quick_gloss": "should-accomplish"
 },
 {
 "surface": "siddhiḥ",
@@ -368,7 +380,7 @@
 },
 {
 "surface": "dīkṣayet",
-"quick_gloss": "initiates"
+"quick_gloss": "should-initiate"
 },
 {
 "surface": "paśūn",
@@ -397,11 +409,11 @@
 },
 {
 "surface": "pāṭhādagra",
-"quick_gloss": "from-recitation-first"
+"quick_gloss": "from-recitation-only"
 },
 {
 "surface": "janmanaḥ",
-"quick_gloss": "birth"
+"quick_gloss": "from-birth"
 }
 ]
 },
@@ -414,7 +426,7 @@
 "tokens": [
 {
 "surface": "yuktiḥ",
-"quick_gloss": "reasoning"
+"quick_gloss": "method"
 },
 {
 "surface": "saṃsūcyate",
@@ -429,12 +441,12 @@
 "quick_gloss": "which"
 },
 {
-"surface": "coktā",
+"surface": "uktā",
 "quick_gloss": "spoken"
 },
 {
 "surface": "pārameśvare",
-"quick_gloss": "in-supreme-lord-text"
+"quick_gloss": "in-parameshvara"
 }
 ]
 },
@@ -446,8 +458,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāśmādau",
-"quick_gloss": "not-in-stone-etc"
+"surface": "nā",
+"quick_gloss": "not"
+},
+{
+"surface": "śmādau",
+"quick_gloss": "from-stone-etc"
 },
 {
 "surface": "śivatā",
@@ -458,8 +474,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "hyāṃśave",
-"quick_gloss": "indeed-in-ray"
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "āṃśave",
+"quick_gloss": "in-ray"
 },
 {
 "surface": "dūrataḥ",
@@ -480,7 +500,7 @@
 "tokens": [
 {
 "surface": "cāṇḍālo",
-"quick_gloss": "outcaste"
+"quick_gloss": "untouchable"
 },
 {
 "surface": "asau",
@@ -488,7 +508,7 @@
 },
 {
 "surface": "abhojyānnaḥ",
-"quick_gloss": "unfit-food"
+"quick_gloss": "not-eatable-food"
 },
 {
 "surface": "pātakī",
@@ -496,7 +516,7 @@
 },
 {
 "surface": "nātra",
-"quick_gloss": "not-here"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -520,16 +540,16 @@
 "quick_gloss": "kusha"
 },
 {
-"surface": "pātāt",
-"quick_gloss": "fallen"
+"surface": "pātān",
+"quick_gloss": "fall"
 },
 {
 "surface": "nārakī",
 "quick_gloss": "hell-dweller"
 },
 {
-"surface": "syāt",
-"quick_gloss": "becomes"
+"surface": "syād",
+"quick_gloss": "would-be"
 },
 {
 "surface": "dvijādhamaḥ",
@@ -546,7 +566,7 @@
 "tokens": [
 {
 "surface": "liṅgādisthāpakā",
-"quick_gloss": "linga-etc-establishers"
+"quick_gloss": "linga-etc-installer"
 },
 {
 "surface": "ye",
@@ -558,11 +578,11 @@
 },
 {
 "surface": "te",
-"quick_gloss": "they"
+"quick_gloss": "those"
 },
 {
 "surface": "cāṇḍālasamā",
-"quick_gloss": "outcaste-equal"
+"quick_gloss": "untouchable-equal"
 },
 {
 "surface": "dvijāḥ",
@@ -579,31 +599,23 @@
 "tokens": [
 {
 "surface": "mantavyo",
-"quick_gloss": "to-be-considered"
+"quick_gloss": "should-be-considered"
 },
 {
 "surface": "vipravat",
-"quick_gloss": "like-brahmin"
+"quick_gloss": "brahmin-like"
 },
 {
 "surface": "śūdraḥ",
 "quick_gloss": "shudra"
 },
 {
-"surface": "śūdrāt",
-"quick_gloss": "than-shudra"
-},
-{
-"surface": "pāpataraḥ",
-"quick_gloss": "more-sinful"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "śūdrātpāpatarastu",
+"quick_gloss": "from-shudra-more-sinful"
 },
 {
 "surface": "saḥ",
-"quick_gloss": "he"
+"quick_gloss": "that"
 }
 ]
 },
@@ -615,8 +627,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛttātsiddhā",
-"quick_gloss": "from-conduct-siddhas"
+"surface": "vṛttāt",
+"quick_gloss": "from-conduct"
+},
+{
+"surface": "siddhā",
+"quick_gloss": "perfected"
 },
 {
 "surface": "vasiṣṭhādyā",
@@ -645,7 +661,7 @@
 "tokens": [
 {
 "surface": "narake",
-"quick_gloss": "in-hell"
+"quick_gloss": "into-hell"
 },
 {
 "surface": "patati",
@@ -661,11 +677,11 @@
 },
 {
 "surface": "svapitṛbhiḥ",
-"quick_gloss": "with-own-ancestors"
+"quick_gloss": "with-ancestors"
 },
 {
 "surface": "saha",
-"quick_gloss": "together"
+"quick_gloss": "with"
 }
 ]
 },
@@ -727,7 +743,7 @@
 },
 {
 "surface": "yajamānakṣayāvahāḥ",
-"quick_gloss": "sacrificer-destruction-bringing"
+"quick_gloss": "sacrificer-destruction-causing"
 }
 ]
 },
@@ -743,8 +759,8 @@
 "quick_gloss": "gift-worship-etc-unworthy"
 },
 {
-"surface": "syāt",
-"quick_gloss": "becomes"
+"surface": "syād",
+"quick_gloss": "would-be"
 },
 {
 "surface": "vinaṣṭā",

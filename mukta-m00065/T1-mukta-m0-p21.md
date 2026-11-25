@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka
+[knot-form-raised-knot-belly-disease-giving](granthirūponnatagranthirjaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-tuṣāra-tad-vijānīya-putra-śoka-ārti-dāyaka
+[frost-that-know-son-grief-pain-giving](tuṣāraṃ tadvijānīyā putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-hema-ghoṣā-maya-tāmra-tad-duṣṭa-piṅgalā-mate
+[gold-sound-disease-copper-that-corrupt-yellowish-mind](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate)
 
 ## mukta-m0-p21-v504
-jana-hanty-āyasa-ākrāntā-śilā-tāmī-ca-śilpinam
+[people-kills-iron-afflicted-stone-that-copper-and-craftsman](janaṃ hantyāyasākrāntā śilā tāmī ca śilpinam)
 
 ## mukta-m0-p21-v505
-kṛṣṇa-pīta-aruṇa-bindu-śoka-bhaya-roga-da
+[black-yellow-red-drop-that-grief-fear-disease-giving](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-pīte-dhana-kṣaya-kartuḥ-kṛṣṇe-bandho-dvayoḥ-dvidhā
+[yellow-wealth-loss-maker-black-bond-both-twofold](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā)
 
 ## mukta-m0-p21-v507
-rekhā-rekhā-anubiddhā-vā-pārthiva-sā-vināśayet
+[line-line-pierced-or-earth-that-destroys](rekhā rekhānubiddhā vā pārthivaṃ sā vināśayet)
 
 ## mukta-m0-p21-v508
-svāmidhnī-ca-catuḥ-chinnā-bahu-chinnā-kula-anta-kṛt
+[mistress-and-four-cut-many-cut-family-end-making](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt)
 
 ## mukta-m0-p21-v509
-makṣikā-makṣikā-ākārā-tayā-kuṣṭha-sudāruṇam
+[fly-fly-shaped-by-that-leprosy-very-terrible](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam)
 
 ## mukta-m0-p21-v510
-tadā-nānā-gadān-kuryāt-kartuḥ-ca-eva-na-saṃśayaḥ
+[then-various-diseases-makes-maker-and-no-doubt](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-tyājyaṃ-tadā-tridhā-liṅgaṃ-nṛpa-rāṣṭra-prajā-arthinā
+[abandonable-then-three-mark-king-realm-subject-seeking](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-vāma-pārśva-āśritaḥ-kiṃcit-hanyāt-rāṣṭraṃ-sa-rājakam
+[left-side-residing-somewhat-destroys-realm-with-king](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam)
 
 ## mukta-m0-p21-v513
-sarva-varṇā-bhṛśaṃ-nūnaṃ-prāṇa-hṛt-kṛṣṇa-hīrikā
+[all-colors-very-certainly-life-taking-black-yellowish](sarvavarṇā bhṛśaṃ nūnaṃ prāṇahṛtkṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-unnato-lakṣyate-yaśca-viḍāla-aṅghriḥ-sa-doṣa-bhāk
+[raised-is-seen-which-cat-foot-that-fault-bearing](unnato lakṣyate yaśca viḍālāṅghriḥ sa doṣabhāk)
 
 ## mukta-m0-p21-v515
-śilāyā-rūpam-ālakṣya-tyajet-tām-aśubha-pradām
+[stone-form-observing-abandon-that-inauspicious-giving](śilāyā rūpamālakṣya tyajettāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-svalpa-doṣān-prakṣyāmi-yathā-śāstreṣu-bhāṣitān
+[small-faults-will-tell-as-in-treatises-spoken](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān)
 
 ## mukta-m0-p21-v517
-valmīka-uṣara-cityutthā-koṣṇā-kṣāra-ambu-madhyagā
+[ant-hill-arisen-warm-alkaline-water-middle-residing](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-kudik-sthā-sūrya-santaptā-kadutthā-methyadūṣitā
+[bad-place-sun-heated-bitter-arisen-methy-undefiled](kudiksthā sūryasantaptā kadutthāmethyadūṣitā)
 
 ## mukta-m0-p21-v519
-duṣṭa-jīva-svarā-yā-ca-yojitā-na-anyakarmaṇi
+[corrupt-life-voice-which-and-joined-not-other-work](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-yā-yopalā-anulagnā-sā-sneha-vicchitti-kārikāḥ
+[which-stone-adhering-that-unctuousness-cutting-making](yā yopalānulagnā sā snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-ūṣara-sthā-arthahṛt-jñeyā-citi-sthā-duḥkha-dāyinī
+[saline-place-wealth-destroying-know-mind-place-pain-giving](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-pāṣadā-puṇya-deśa-sthā-vadha-kṛt-bhilla-sevitā
+[stone-unholy-place-residing-killing-bhilla-served](pāṣadāpuṇyadeśasthā vadhakṛdbhilla sevitā)
 
 ## mukta-m0-p21-v523
-dāha-hāni-ca-śoka-ca-naiḥsva-roga-tathā-vahet
+[burning-loss-and-grief-and-poverty-disease-then-brings](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet)
 
 ## mukta-m0-p21-v524
-surā-pakṣi-vasā-gandhā-udvega-jananī-śilā
+[liquor-wing-fat-smell-agitation-causing-stone](surāpakṣivasāgandhā udvegajananī śilā)
 
 ## mukta-m0-p21-v525
-vajra-dagdhā-agni-dagdhā-ca-rājño-anala-bhaya-pradā
+[diamond-burned-fire-burned-and-king-fire-fear-giving](vajradagdhāgnidagdhā ca rājño'nalabhayapradā)
