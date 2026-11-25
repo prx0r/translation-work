@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[unafflictedness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [wheel-rim-evenness](rathanemisamānatā)
-
+[akliṣṭatā](akliṣṭatā) [puṣṭatā](puṣṭatā) [ca](ca) [rathanemi+samānatā](rathanemisamānatā)
 ## mukta-m0-p16-v377
-[snake-hood-evenness](phaṇiśīrṣasamānatvaṃ) [clarity-fluidity](prasannadravatā) [and-so](tathā)
-
+[phaṇi+śīrṣa+samānatvaṃ](phaṇiśīrṣasamānatvaṃ) [prasanna+dravatā](prasannadravatā) [tathā](tathā)
 ## mukta-m0-p16-v378
-[all-marks-possession](sarvalakṣaṇa) [yuktatvaṃ](yuktatvaṃ) [family-mark-absence](kulakṣaṇavihīnatā)
-
+[sarva+lakṣaṇa+yuktatvaṃ](sarvalakṣaṇa) [yuktatvaṃ](yuktatvaṃ) [kula+lakṣaṇa+vihīnatā](kulakṣaṇavihīnatā)
 ## mukta-m0-p16-v379
-[refinement-greatness](saṃskārasya) [mahimneva](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [beloved](priye)
-
+[saṃskārasya](saṃskārasya) [mahimneva](mahimneva) [bhāsaṃte](bhāsaṃte) [te](te) [guṇāḥ](guṇāḥ) [priye](priye)
 ## mukta-m0-p16-v380
-[refinement-too](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
-
+[saṃskāra+api](saṃskāropi) [samastāni](samastāni) [vastūni+nyāvaset](vastūninyāvasetpriye) [priye](priye)
 ## mukta-m0-p16-v381
-[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-step](sarvasiddhimahāpadaṃ)
-
+[sarva+saubhāgya+janakaṃ](sarvasaubhāgyajanakaṃ) [sarva+siddhi+mahā+padaṃ](sarvasiddhimahāpadaṃ)
 ## mukta-m0-p16-v382
-[bliss-bhairava](ānaṃda) [bhairavasyārcāsādhanaṃ](bhairavasyārcāsādhanaṃ) [world-enchanting](viśvamohanam)
-
+[ānaṃda+bhairavasya+arcā+sādhanaṃ](ānaṃda) [viśva+mohanam](viśvamohanam)
 ## mukta-m0-p16-v383
-[very-beautiful-gradual-devourer](suśobhadakramagrāsī) [all-afflictions-cutting](samastāpannikṛṃtanam)
-
+[suśobha+dakra+magrāsī](suśobhadakramagrāsī) [samasta+āpana+nikṛṃtanam](samastāpannikṛṃtanam)
 ## mukta-m0-p16-v384
-[house-moon-rays](veśmacaṃdrakalānāṃ) [ca](ca) [abode-auspiciousness-prosperity](sadmasaubhāgyasaṃpadām)
-
+[veśma+caṃdra+kalānāṃ](veśmacaṃdrakalānāṃ) [ca](ca) [sadma+saubhāgya+saṃpadām](sadmasaubhāgyasaṃpadām)
 ## mukta-m0-p16-v385
-[all-disease-causing](samastarogajanakaṃ) [misfortune-promoting](daurbhāgyasyapravartakam)
-
+[samasta+roga+janakaṃ](samastarogajanakaṃ) [daurbhāgyasya+pravartakam](daurbhāgyasyapravartakam)
 ## mukta-m0-p16-v386
-[people-reproach-causing](lokopakrośajanakaṃ) [world-contempt-giving](lokadhikkāradāyakam)
-
+[loka+upakrośa+janakaṃ](lokopakrośajanakaṃ) [loka+dhikkāra+dāyakam](lokadhikkāradāyakam)
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [lost](naṣṭam) [leftover](ucchiṣṭam) [degraded](apakṛṣṭaṃ) [rubbed](vicarcitam)
-
+[phelinaṃ](phelinaṃ) [naṣṭam](naṣṭam) [ucchiṣṭam](ucchiṣṭam) [apakṛṣṭaṃ](apakṛṣṭaṃ) [vicarcitam](vicarcitam)
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough-skin-rich](karkkaśacarmāḍhyam) [inside](aṃtar) [cow-tongue-having](gojihvayānvitam)
-
+[aṃtaḥ](aṃtaḥ) [karkkaśa+carmāḍhyam](karkkaśacarmāḍhyamaṃtargojihvayānvitam) [aṃtargo+jihvayā+anvitam](aṃtargojihvayānvitam)
 ## mukta-m0-p16-v389
-[itch-scabies-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [liquid](dravam)
-
+[pāma+kaṇḍū+pracuritaṃ](pāmakaṇḍūpracuritaṃ) [pāpiṣṭaṃ](pāpiṣṭaṃ) [kathitaṃ](kathitaṃ) [dravam](dravam)
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [vai](vai) [tat](tat) [worship-means](pūjāsādhanamiṣyate)
-
+[svakīya](svakīya) [vapure](vapure) [vai](vai) [tat](tat) [pūjā+sādhanaṃ](pūjāsādhanamiṣyate) [iṣyate](iṣyate)
 ## mukta-m0-p16-v391
-[approaches](sannidhatte) [supreme-direct](paraḥsākṣādānaṃdādvaita) [form-bearing](rūpadhṛt)
-
+[sannidhatte](sannidhatte) [paraḥ+sākṣāt](paraḥsākṣādānaṃdādvaita) [ānaṃda+advaita+rūpa+dhṛt](rūpadhṛt)
 ## mukta-m0-p16-v392
-[messenger-mouth](dūtī) [mukhasya](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇusaṃdari)
-
+[dūtī+mukhasya](dūtīmukhasya) [saṃskāraḥ](saṃskāraḥ) [kathyate](kathyate) [śṛṇu+saṃdari](śṛṇusaṃdari)
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [ca](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
-
+[uttejanaṃ](uttejanaṃ) [ca](ca) [śastreṇa](śastreṇa) [nirmalīkaraṇaṃ](nirmalīkaraṇaṃ) [punaḥ](punaḥ)
 ## mukta-m0-p16-v394
-[oil-gargle](tailagaṇḍuṣaṇāt) [beauty](kāṃtirdaṃtānāmupajāyate)
-
+[taila+gaṇḍuṣaṇāt](tailagaṇḍuṣaṇāt) [kāṃtiḥ](kāṃtirdaṃtānāmupajāyate) [daṃtānām](daṃtānām) [upajāyate](upajāyate)
 ## mukta-m0-p16-v395
-[three-pungents](trikaṭu) [three-fruits](triphalāmāṃsi) [jaggery-bark-petals-stamens](guḍatvakpatrakesaraiḥ)
-
+[trikaṭu](trikaṭu) [triphalā](triphalā) [māṃsi](māṃsi) [guḍa+tvak+patraka+kesaraiḥ](guḍatvakpatrakesaraiḥ)
 ## mukta-m0-p16-v396
-[making](kṛtvākṣa) [pea-sized](sadṛśān) [pills](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger-swallow](dūtikāgilet)
-
+[kṛtvā](kṛtvā) [akṣa+sadṛśān](akṣasadṛśān) [piṇḍān](piṇḍān) [taṃ](taṃ) [pūrvaṃ](pūrvaṃ) [dūtikā+gilet](dūtikāgilet)
 ## mukta-m0-p16-v397
-[by-impurity-created](malenaivāpa) [all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
-
+[malena+eva+apa](malenaivāpa) [sṛṣṭānāṃ](sṛṣṭānāṃ) [sarveṣāṃ](sarveṣāṃ) [śamanaṃ](śamanaṃ) [bhavet](bhavet)
 ## mukta-m0-p16-v398
-[rubbing](mardaniyaṃ) [carefully](prayatnena) [pill-make](guṭikākārayedbudhaḥ)
-
+[mardaniyaṃ](mardaniyaṃ) [prayatnena](prayatnena) [guṭikā+kārayet](guṭikākārayedbudhaḥ) [budhaḥ](budhaḥ)
 ## mukta-m0-p16-v399
-[messenger-fragrance](pūtikāmati) [saliva-mouth](saurabhya) [śālivaktraṃ](śālivaktraṃ) [prepare](prakalpayet)
-
+[pūtikāmati](pūtikāmati) [saurabhya](saurabhya) [śāli+vaktraṃ](śālivaktraṃ) [prakalpayet](prakalpayet)
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+[itthaṃ](itthaṃ) [śarīra+saṃskāraḥ](śarīrasaṃskāro) [bāhya+ābhyaṃtaraḥ](bāhyābhyaṃtara) [īritaḥ](īritaḥ)
