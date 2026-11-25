@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-iti=thus aṣṭādaśa=eighteen bimbāni=images kathitāni=told atra=here saṃkhyayā=by-number
+[thus](ityaṣṭādaśa) [eighteen](aṣṭādaśa) [images](bimbāni) [spoken](kathitāni) [here](atra) [by-number](saṃkhyayā)
 
 ## mukta-m0-p20-v477
-bhaveyuḥ=would-be kṛmayo=worms garbhe=in-womb nāśaḥ=destruction dehārthayoḥ=of-body-and-wealth tataḥ=then
+[may-become](bhaveyuḥ) [worms](kṛmayaḥ) [in-womb](garbhe) [destruction](nāśaḥ) [of-body-and-wealth](dehārthayoḥ) [thereafter](tataḥ)
 
 ## mukta-m0-p20-v478
-tena=by-that rājā=king ca=and mantrī=minister ca=and kāraka=agent mriyate=dies kramāt=gradually
+[thereby](tena) [king](rājā) [and](ca) [minister](mantrī) [maker](kārakaḥ) [dies](mriyate) [in-order](kramāt)
 
 ## mukta-m0-p20-v479
-raktacitre=in-red-painting ca=and śṛṅgī=horned syāt=would-be tayā=by-that śokabhayaṃ=grief-fear muhuḥ=often
+[red-painted](raktacitre) [and](ca) [horned](śṛṅgī) [may-be](syāt) [by-that](tayā) [grief-fear](śokabhayam) [repeatedly](muhuḥ)
 
 ## mukta-m0-p20-v480
-kṛṣṇacitre=in-black-painting ca=and gonāśaḥ=cow-loss saḥ=he aneka=many vyādhi=disease kāraka=causing
+[black-painted](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](saḥ) [many-disease-causing](anekavyādhikārakaḥ)
 
 ## mukta-m0-p20-v481
-sapta=seven etāni=these tu=but citrāṇi=paintings jñeyāni=to-be-known bāhya=external lakṣaṇaiḥ=signs
+[seven](sapta) [these](etāni) [indeed](tu) [paintings](citrāṇi) [to-be-known](jñeyāni) [by-external-marks](bāhyalakṣaṇaiḥ)
 
 ## mukta-m0-p20-v482
-catur=four vikāra=modification bhedena=by-difference garbhaṃ=womb vidyāt=know pralepataḥ=by-plaster
+[by-four-modification-difference](caturvikārabhedena) [womb](garbham) [know](vidyāt) [by-plaster](pralepataḥ)
 
 ## mukta-m0-p20-v483
-saurāṣṭrī=Saurashtri tāla=with-palm kalasaṃyuktaiḥ=with-pot sauvīreṇa=with-Sauvira ca=and peṣayet=grind
+[saurashtri](saurāṣṭrī) [with-palm](tālasaṃyuktam) [with-sauvira](sauvīreṇa) [and](ca) [grind](peṣayet)
 
 ## mukta-m0-p20-v484
-bhṛṅgāhī=bee kṛṣṇamatsyaṃ=black-fish vā=or jñātvā=knowing tāḥ=those doṣadāḥ=fault-giving tyajet=abandon
+[bhringa-ahī](bhṛṅgāhī) [black-fish](kṛṣṇamatsyam) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣadāḥ) [abandon](tyajet)
 
 ## mukta-m0-p20-v485
-piṣṭvā=grinding evam=thus sama=equal bhāgaṃ=part tu=but nārī=woman kṣīreṇa=with-milk lepayet=anoint
+[ground-thus](piṣṭavaivam) [equal-part](samabhāgam) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [smear](lepayet)
 
 ## mukta-m0-p20-v486
-tena=by-that kartuḥ=of-maker bhaven=becomes mṛtyuḥ=death tasmāt=therefore tāṃ=her salile=in-water kṣipet=throw
+[thereby](tena) [of-maker](kartuḥ) [becomes-death](bhavenmṛtyuḥ) [therefore](tasmāt) [that](tām) [in-water](salile) [throw](kṣipet)
 
 ## mukta-m0-p20-v487
-ahorātra=day-night uṣite=steeped raktaṃ=blood tyājyam=to-be-abandoned ūrmānvitaṃ=with-waves ca=and yat=which
+[day-night-stayed](ahorātroṣite) [blood](raktam) [to-be-abandoned](tyājyam) [with-urman](ūrmānvitam) [and](ca) [which](yat)
 
 ## mukta-m0-p20-v488
-tīkṣṇaṃ=sharp rudrajaṭā=with-Rudra's-matted-hair avikṣīraiḥ=with-sheep-milk prapeṣya=grind ca=and
+[sharp](tīkṣṇam) [with-rudrajaṭā](rudrajaṭāyuktam) [with-avikṣīra](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
 
 ## mukta-m0-p20-v489
-dvayoḥ=of-two dvirūpakaṃ=double-form garbhe=in-womb jñātvā=knowing prāg=previous doṣadān=fault-giving tyajet=abandon
+[of-two](dvayoḥ) [double-formed](dvirūpakam) [in-womb](garbhe) [knowing](jñātvā) [earlier-fault-giving](prāgdoṣadān) [abandon](tyajet)
 
 ## mukta-m0-p20-v490
-kartuḥ=of-maker tat=that kula=family hṛt=heart nūnam=certainly guroḥ=to-teacher dadyāt=give kṣayāmayaṃ=consumption-disease
+[of-maker](kartuḥ) [that-family-heart](tatkulahṛt) [certainly](nūnam) [to-guru](guroḥ) [give](dadyāt) [decay-disease](kṣayāmayam)
 
 ## mukta-m0-p20-v491
-ṭaṅka=chisel āghātāt=by-strike bhidā=splitting ākārī=shaped sandhiḥ=joint kartṛ=maker vināśakaḥ=destroyer
+[by-hammer-blow](ṭaṅkāghātāt) [split-formed](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
 
 ## mukta-m0-p20-v492
-sphoṭaṃ=blister sphuṭitakaṃ=cracked vidyāt=know śastra=weapon ghāta=strike anta=death dāyakam=giving
+[blister](sphoṭam) [cracked](sphuṭitakam) [know](vidyāt) [weapon-blow-end-giving](śastraghātāntadāyakam)
 
 ## mukta-m0-p20-v493
-vyoma=sky ākāraḥ=shape bhaved=becomes vyoma=sky saḥ=he acirāt=soon kartṛ=maker nāśakaḥ=destroyer
+[sky-shaped](vyomākāraḥ) [becomes](bhavet) [sky](vyomaḥ) [so](saḥ) [soon](acirāt) [maker-destroying](kartṛnāśakaḥ)
 
 ## mukta-m0-p20-v494
-tayā=by-that kartṛ=maker prajā=offspring nāśaḥ=destruction śīghram=quickly eva=indeed na=not saṃśayaḥ=doubt
+[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v495
-tena=by-that kuryāt=make na=not liṅgāni=marks kṛte=done ca=and dvau=two vinaśyataḥ=perish
+[thereby](tena) [make](kuryāt) [not](na) [marks](liṅgāni) [made](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
 
 ## mukta-m0-p20-v496
-pītaṃ=yellow sitaṃ=white tathā=and kṛṣṇaṃ=black raktaṃ=red nīlaṃ=blue ca=and miśrakam=mixed
+[yellow](pītam) [white](sitam) [and](tathā) [black](kṛṣṇam) [red](raktam) [blue](nīlam) [and](ca) [mixed](miśrakam)
 
 ## mukta-m0-p20-v497
-navati=ninety ardhaṃ=half mahādoṣā=great-faults bheda=difference bhinnaḥ=divided iti=thus smṛtāḥ=remembered
+[nine-half](navatyardham) [great-faults](mahādoṣāḥ) [difference-distinct](bhedabhinnaḥ) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p20-v498
-brahma=Brahma upendra=Upendra vibhāga=division sthān=places tridhā=threefold liṅgeṣu=in-marks doṣadān=fault-giving
+[brahma-upendra-division-placed](brahmopendravibhāgasthān) [threefold](tridhā) [in-marks](liṅgeṣu) [fault-giving](doṣadān)
 
 ## mukta-m0-p20-v499
-śirā=vein granthi=knot tuṣāraiḥ=with-ashes ca=and vimalaṃ=pure dadu=give bindubhiḥ=with-dots
+[vein](śirā) [with-knots-tuṣāra](granthituṣāraiḥ) [and](ca) [pure](vimalam) [give](dadu) [with-drops](bindubhiḥ)
 
 ## mukta-m0-p20-v500
-viḍāla=cat aśva=horse uṣṭra=camel go=cow māyu=jackal kāka=crow pāda=foot aṅkitān=marked tyajet=abandon
+[cat-etc-foot-marked](viḍālāśvoṣṭragomāyukākapādāṅkitān) [abandon](tyajet)

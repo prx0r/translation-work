@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[motion](calanāt) [of-delusion-form](moharūpasya) [by-progression](kramaṇāt) [of-supreme-consciousness](parasaṃvidaḥ)
+[calanāt](calanāt) [moha-rūpasya](moharūpasya) [kramaṇāt](kramaṇāt) [para-saṃvidaḥ](parasaṃvidaḥ)
 
 ## mukta-m0-p15-v352
-[illumination-transcendence](uddyotātikramaḥ) [also](cāpi) [by-duality](dvaividhyena) [established](vyavasthitaḥ)
+[uddyota-atikramaḥ](uddyotātikramaḥ) [ca-api](cāpi) [dvaividhyena](dvaividhyena) [vyavasthitaḥ](vyavasthitaḥ)
 
 ## mukta-m0-p15-v353
-[one](ekas) [that-transcendence-self](tadvyukramātmā) [other](anyaḥ) [in-supreme-space](parākāśapratiṣṭhitaḥ)
+[ekaḥ](ekaḥ) [tad-vyukrama-ātmā](tadvyukramātmā) [anyaḥ](anyaḥ) [para-ākāśa-pratiṣṭhitaḥ](parākāśapratiṣṭhitaḥ)
 
 ## mukta-m0-p15-v354
-[by-desire-contact](kāmasaṃsargataḥ) [of-it](tasya) [by-return](pratyāvṛttyā) [all-around](samantataḥ)
+[kāma-saṃsargataḥ](kāmasaṃsargataḥ) [tasya](tasya) [pratyāvṛttyā](pratyāvṛttyā) [ātma-samantataḥ](ātmasamantataḥ)
 
 ## mukta-m0-p15-v355
-[object-enjoyment-knowledge](viṣayābhoganirjñāta) [in-nondual](nirvikalpe) [even](api) [what](yat) [clear](sphuṭam)
+[viṣaya-ābhoga-nirjñāta](viṣayābhoganirjñāta) [nirvikalpe](nirvikalpe) [api](api) [yat](yat) [sphuṭam](sphuṭam)
 
 ## mukta-m0-p15-v356
-[in-inwardness](antarmukhatve) [then](tu) [from-illumination](uddyotāt) [of-being-reflection-action](bhāvāmarśakriyātmakāt)
+[antarmukhatve](antarmukhatve) [tu](tu) [uddyotāt](uddyotāt) [bhāva-āmarśa-kriyā-ātmakāt](bhāvāmarśakriyātmakāt)
 
 ## mukta-m0-p15-v357
-[thus](evaṃ) [in-absence-of-outwardness](bahirmukhābhāvāvasare) [indeed](hi) [from-rising-etc](udayādikam)
+[evaṃ](evaṃ) [bahirmukha-abhāva-avasare](bahirmukhābhāvāvasare) [hi](hi) [udaya-ādikam](udayādikam)
 
 ## mukta-m0-p15-v358
-[that](tad) [external-universe](bahirviśvam) [resorting-to](āśritya) [action-self](kriyātmanaḥ)
+[tat](tad) [bahir-viśvam](bahirviśvam) [āśritya](āśritya) [kriyā-ātmanaḥ](kriyātmanaḥ)
 
 ## mukta-m0-p15-v359
-[resorting-to](samāśritya) [before](pūrvaṃ) [seat-progression-self](pīṭhakramātmanā)
+[samāśritya](samāśritya) [pūrvaṃ](pūrvaṃ) [pīṭha-krama-ātmanā](pīṭhakramātmanā)
 
 ## mukta-m0-p15-v360
-[then](tato) [of-universe](viśvasya) [establishment](saṃsthānam) [from-root](āmūlāt) [taught](pratipāditam)
+[tataḥ](tato) [viśvasya](viśvasya) [saṃsthānam](saṃsthānam) [ā-mūlāt](āmūlāt) [pratipāditam](pratipāditam)
 
 ## mukta-m0-p15-v361
-[now](idānīṃ) [by-what-form](yena rūpeṇa) [all-formed](sarvākāraṃ) [dissolves](vilīyate)
+[idānīṃ](idānīṃ) [yena](yena) [rūpeṇa](rūpeṇa) [sarva-ākāraṃ](sarvākāraṃ) [vilīyate](vilīyate)
 
 ## mukta-m0-p15-v362
-[in-harmony](sāmarasye) [arisen](pravṛtte) [even](api) [knowledge-melting-mark](jñānamelāpalakṣaṇe)
+[sāmarasye](sāmarasye) [pravṛtte](pravṛtte) [api](api) [jñāna-melāva-lakṣaṇe](jñānamelāpalakṣaṇe)
 
 ## mukta-m0-p15-v363
-[therefore](ataḥ) [without-action](kriyāṃ vinā) [of-them](teṣāṃ) [indeed](hi) [removal](nirharaṇaṃ) [would-be](bhavet)
+[ataḥ](ataḥ) [kriyāṃ](kriyāṃ) [vinā](vinā) [teṣāṃ](teṣāṃ) [hi](hi) [na](na) [nirharaṇaṃ](nirharaṇaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p15-v364
-[enough](alaṃ) [with-grasping-activity](grāsapravṛttena) [with-action-entry](kriyāveśena) [truly](tattvataḥ)
+[alaṃ](alaṃ) [grāsa-pravṛttena](grāsapravṛttena) [kriyā-āveśena](kriyāveśena) [tattvataḥ](tattvataḥ)
 
 ## mukta-m0-p15-v365
-[of-rudreshvari](raudreśvarīmayaḥ) [sphere](sphāraḥ) [of-supreme-grace-stage](parānugrahabhūmikaḥ)
+[raudreśvarī-mayaḥ](raudreśvarīmayaḥ) [sphāraḥ](sphāraḥ) [para-anugraha-bhūmikaḥ](parānugrahabhūmikaḥ)
 
 ## mukta-m0-p15-v366
-[without-impressions](nissaṃskāra) [desire-self](prakāmātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
+[nissaṃskāra-prakāma-ātmā](nissaṃskāraprakāmātmā) [para-āśaktiḥ](parāśaktiḥ) [pravartate](pravartate)
 
 ## mukta-m0-p15-v367
-[uncoveredness](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
+[nirāvaraṇatā](nirāvaraṇatā) [yasmāt](yasmāt) [ataḥ](ataḥ) [sañjāyate](sañjāyate) [sphuṭam](sphuṭam)
 
 ## mukta-m0-p15-v368
-[step-progression-form](sopānakramarūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
+[sopāna-krama-rūpeṇa](sopānakramarūpeṇa) [catuṣṣaṣṭiḥ](catuṣṣaṣṭiḥ) [nirūpitāḥ](nirūpitāḥ)
 
 ## mukta-m0-p15-v369
-[consciousness-reflection-form](cidvimarśasvarūpeṇa) [forceful-cooking](haṭhapākena) [melting](gālanam)
+[cid-vimarśa-svarūpeṇa](cidvimarśasvarūpeṇa) [haṭha-pākena](haṭhapākena) [gālanam](gālanam)
 
 ## mukta-m0-p15-v370
-[there](tatra) [rudreshvari-form](raudreśvarīrūpaṃ) [first](prathamaṃ) [of-sixteen-self](ṣoḍaśātmanaḥ)
+[tatra](tatra) [raudreśvarī-rūpaṃ](raudreśvarīrūpaṃ) [prathamaṃ](prathamaṃ) [ṣoḍaśa-ātmanaḥ](ṣoḍaśātmanaḥ)
 
 ## mukta-m0-p15-v371
-[to-uncoveredness](nirāvaraṇatāṃ) [to-lead](netuṃ) [proceeds](pravṛttaṃ) [from-consciousness-reflection](cidvimarśataḥ)
+[nirāvaraṇatāṃ](nirāvaraṇatāṃ) [netuṃ](netuṃ) [pravṛttaṃ](pravṛttaṃ) [cid-vimarśataḥ](cidvimarśataḥ)
 
 ## mukta-m0-p15-v372
-[by-ego](ahaṅkāreṇa) [accomplishment](siddhatvaṃ) [resorting-to](śritvā) [that-ray](tattanmarīcinām)
+[ahaṅkāreṇa](ahaṅkāreṇa) [siddhatvaṃ](siddhatvaṃ) [śritvā](śritvā) [tat-tat-marīcinām](tattanmarīcinām)
 
 ## mukta-m0-p15-v373
-[entering](āviśya) [object-impression-wheel](meyasaṃskāracakraṃ) [there](tatra) [dissolves](pralīyate)
+[āviśya](āviśya) [meya-saṃskāra-cakraṃ](meyasaṃskāracakraṃ) [tatra](tatra) [pralīyate](pralīyate)
 
 ## mukta-m0-p15-v374
-[mental-impression-wheel](mānasaṃskāracakrasya) [return-progression-self](pratyāvṛttikramātmanaḥ)
+[mānasaṃskāra-cakrasya](mānasaṃskāracakrasya) [pratyāvṛtti-krama-ātmanaḥ](pratyāvṛttikramātmanaḥ)
 
 ## mukta-m0-p15-v375
-[by-mind-protecting-dharmas](mananatrāṇadharmābhyāṃ) [mantra-accomplished-self](mantrasiddhamayātmatām)
+[manana-trāṇa-dharmābhyāṃ](mananatrāṇadharmābhyāṃ) [mantra-siddha-maya-ātmatām](mantrasiddhamayātmatām)
