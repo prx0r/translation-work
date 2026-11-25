@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[from-initiation-yoga](dīkṣāyogāt) [thus](tathā) [of-lord](īśasya) [shudra-etc](śūdrādiḥ) [to-shiva-hood](śivatāṃ) [may-go](vrajet)
+[dīkṣā-yoga-from](dīkṣāyogāt) [tathā-īśa-of](tatheśasya) [śūdra-etc](śūdrādiḥ) [śiva-ness](śivatāṃ) [go](vrajet)
 
 ## mukta-m0-p07-v152
-[as](yathā) [potter-wheel-situated](kulālacakrastho) [uninterrupted](avicchinnaṃ) [revolves](bhramate) [pot](ghaṭaḥ)
+[as](yathā) [potter-wheel-standing](kulālacakrastho) [uninterrupted](avicchinnaṃ) [revolves](bhramate) [pot](ghaṭaḥ)
 
 ## mukta-m0-p07-v153
-[impurity](malaṃ) [poison-giving](viṣamadaṃ) [just-as](yadvat) [destroy](hanti) [indeed](vai) [by-mantra-radiance](mantratejasā)
+[impurity](malaṃ) [poison-giving](viṣamadaṃ) [just-as](yadvat) [destroy](hanti) [indeed](vai) [mantra-tejas-by](mantratejasā)
 
 ## mukta-m0-p07-v154
-[may-be](syāt) [with-kataka-fruits](katakaphalaiḥ) [by-union](yogāt) [likewise](tadvat) [by-mantras](mantraiḥ) [but](tu) [man](mānavaḥ)
+[may-be](syāt) [kataka-fruit-by](katakaphalaiḥ) [yoga-from](yogāt) [so](tadvat) [mantras-by](mantraiḥ) [tu](tu) [man](mānavaḥ)
 
 ## mukta-m0-p07-v155
-[likewise](tathaiva) [by-mantra-power](mantrasāmarthyāt) [impurity](malaṃ) [having-destroyed](hatvā) [shiva-like](śivī) [may-become](bhavet)
+[so](tathaiva) [mantra-power-by](mantrasāmarthyāt) [impurity](malaṃ) [having-killed](hatvā) [śiva](śivī) [become](bhavet)
 
 ## mukta-m0-p07-v156
-[thus](tathā) [by-contact-with-lord-mantra](īśamantrasaṃparkāt) [shiva-hood](śivatvaṃ) [arises](jāyate) [of-bound-soul](paśoḥ)
+[tathā-īśa-mantra-contact](tatheśamantrasaṃparkā) [śiva-ness](śivatvaṃ) [arises](jāyate) [of-paśu](paśoḥ)
 
 ## mukta-m0-p07-v157
-[shaiva-teachers](śaivācāryāḥ) [bestow](prayacchanti) [shiva-hood](śivatvaṃ) [he](sa) [in-moving-and-nonmoving](carācare)
+[śaiva-teachers](śaivācāryāḥ) [give](prayacchanti) [śiva-ness](śivatvaṃ) [sa](sa) [in-moving-immovable](carācare)
 
 ## mukta-m0-p07-v158
-[teacher](ācāryaḥ) [also](api) [likewise](tathaiva) [here](atra) [shiva-hood](śivatvaṃ) [goes](yāti) [mantra-knower](mantravit)
+[teacher](ācāryo) [api](api) [so](tathaiva) [here](atra) [śiva-ness](śivatvaṃ) [goes](yāti) [mantra-knower](mantravit)
 
 ## mukta-m0-p07-v159
-[are-purified](saṃskriyante) [indeed](hi) [by-mantras](mantraiḥ) [and](ca) [god-teachers-ascetics](devācāryatapasvinaḥ)
+[are-purified](saṃskriyante) [hi](hi) [mantras-by](mantraiḥ) [ca](ca) [god-teacher-ascetics](devācāryatapasvinaḥ)
 
 ## mukta-m0-p07-v160
-[as](yathā) [knower-of-venerable-veda](pūjyavedajñaḥ) [so](tathā) [shudra](śūdraḥ) [also](api) [teacher](daiśikaḥ)
+[as-worship-worthy-veda-knower](yathāpūjyaveda) [jñaḥ](jñaḥ) [so](tathā) [śūdra](śudro) [api](api) [teacher](daiśikaḥ)
 
 ## mukta-m0-p07-v161
-[he](sa) [shiva](śivaḥ) [himself](svayam) [indeed](eva) [may-be](syāt) [not](na) [other-form](anyarūpaḥ) [ever](kadācana)
+[he](sa) [śiva](śivaḥ) [himself](svayameva) [is](syāt) [not-other-form](nānyarūpaḥ) [ever](kadācana)
 
 ## mukta-m0-p07-v162
-[by-mantra-yoga](mantrayogāt) [awaken](vibudhyante) [lost-unpleasant](naṣṭāniṣṭaṃ) [thus](tathā) [in-shiva](śive)
+[mantra-yoga-from](mantrayogāt) [awaken](vibudhyante) [lost-unfavorable](naṣṭāniṣṭaṃ) [so](tathā) [in-śiva](śive)
 
 ## mukta-m0-p07-v163
-[shaiva-teacher](śaivācāryaḥ) [supreme](param) [place](sthānam) [likewise](tadvat) [by-mantra-boat](mantranaukayā)
+[śaiva-teacher](śaivācāryaḥ) [supreme](paraṃ) [place](sthānaṃ) [so](tadvat) [mantra-boat-by](mantranaukayā)
 
 ## mukta-m0-p07-v164
-[in-remainder](śeṣe) [but](tu) [one-by-one-loss](ekaikahāniḥ) [may-be](syāt) [in-thousand](sahasre) [and](ca) [by-hundred-steps](śatakramāt)
+[remainder](śeṣe) [tu](tu) [one-by-one-loss](ekaikahāniḥ) [is](syāt) [thousand](sahasre) [ca](ca) [hundred-order](śatakramāt)
 
 ## mukta-m0-p07-v165
-[hundred-brahmas](pitāmahaśatam) [until](yāvat) [of-vishnu](viṣṇoḥ) [measure](mānam) [is-fixed](vidhīyate)
+[grandfather-hundred](pitāmahaśataṃ) [as-long-as](yāvat) [viṣṇu-of-measure](viṣṇormānaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p07-v166
-[perish](vinaśyanti) [thus](tathā) [upendras](upendrāḥ) [countless](asaṃkhyātāḥ) [brahmas](pitāmahāḥ)
+[perish](vinaśyanti) [so](tathā) [upendra](upendrā) [uncountable](asaṃkhyātāḥ) [grandfathers](pitāmahāḥ)
 
 ## mukta-m0-p07-v167
-[by-sadakhya-wink](sādākhyanimiṣeṇa) [lord](īśaḥ) [dissolution](layam) [goes](yāti) [no](na) [doubt](saṃśayaḥ)
+[sādākhya-instant](sādākhyanimiṣeṇa) [īśa](īśo) [dissolution](layaṃ) [goes](yāti) [no](na) [doubt](saṃśayḥ)
 
 ## mukta-m0-p07-v168
-[from-shiva](śivāt) [higher](parataram) [is-not](nāsti) [thus](iti) [in-scriptures](śāstreṣu) [certainty](niścayaḥ)
+[than-śiva-higher](śivātparataraṃ) [not-is](nāsti) [iti](iti) [in-scriptures](śāstreṣu) [certainty](niścayaḥ)
 
 ## mukta-m0-p07-v169
-[therefore](tasmāt) [from-shiva](śivaditaḥ) [mantra](mantraḥ) [giver-of-siddhi-liberation-fruit](siddhimuktiphalapradaḥ)
+[therefore](tasmāt) [from-śiva](śivaditaḥ) [mantra](mantraḥ) [siddhi-mukti-fruit-giving](siddhimuktiphalapradaḥ)
 
 ## mukta-m0-p07-v170
-[by-mantras](mantraiḥ) [in-shiva-sacrifice](śivādhvare) [born](jātaḥ) [he](sa) [shudra](śūdraḥ) [may-be](syāt) [how](katham) [again](punaḥ)
+[mantras-by](mantraiḥ) [śiva-sacrifice-in](śivādhvare) [born](jātaḥ) [he](sa) [śūdra](śūdraḥ) [is](syāt) [how](kathaṃ) [again](punaḥ)
 
 ## mukta-m0-p07-v171
-[likewise](tathaiva) [sin-destruction](pāpahānam) [and](ca) [material-ones](prākṛtāḥ) [but](tu) [are-born](prajāyate)
+[so](tathaiva) [sin-removal](pāpahānaṃ) [ca](ca) [natural](prākṛtāḥ) [tu](tu) [are-born](prajāyate)
 
 ## mukta-m0-p07-v172
-[seen](lakṣyāḥ) [from-brahmin-etc-conduct](viprādikācārāt) [hell-dwellers](nārakīṇaḥ) [not](na) [saviors](tārakāḥ)
+[visible](lakṣyā) [brāhmaṇa-etc-conduct](viprādikācārān) [hellish](nārakīṇo) [na](na) [saviors](tārakāḥ)
 
 ## mukta-m0-p07-v173
-[not](na) [may-be](bhaveyuḥ) [then](tadā) [certainly](nūnam) [twice-born](dvijāḥ) [god-etc-teachers](devādidaiśikāḥ)
+[na](na) [would-be](bhaveyuḥ) [then](tadā) [certainly](nūnaṃ) [twice-born](dvijāḥ) [god-etc-teachers](devādidaiśikāḥ)
 
 ## mukta-m0-p07-v174
-[poison-spirits-planets-etc](viṣabhūtagrahādyāḥ) [and](ca) [are-subdued](nigṛhyante) [indeed](hi) [by-mantras](mantrataḥ)
+[poison-spirit-planet-etc](viṣabhūtagrahādyāḥ) [ca](ca) [are-restrained](nigṛhyante) [hi](hi) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p07-v175
-[moving-and-nonmoving](carācaram) [may-attain](prapadyeta) [shiva-hood](śivatvaṃ) [instantly](tatkṣaṇāt) [certainly](dhruvam)
+[moving-immovable](carācaraṃ) [attain](prapadyeta) [śiva-ness](śivatvaṃ) [that-instant-from](tatkṣaṇāt) [firm](dhruvam)
