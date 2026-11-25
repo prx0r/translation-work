@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[seen](dṛṣṭa) [all](sarvā) [of-action](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
+seen-all-creativity-occurrence-not-pot-becomes
 
 ## mukta-m0-p58-v1427
-[three-ness](tritvantu) [of-practice](vyavahārasyāpyapekṣaivātra) [here](atra) [accepted](sammatam)
+threefold-also-transaction-also-expectation-here-approved
 
 ## mukta-m0-p58-v1428
-[ninth](navamaṃ) [shiva-principle](śivatatvaṃ) [indeed](tu) [word-born](śabdabhāvyamihādhunā)
+ninth-shiva-principle-now-sound-becoming
 
 ## mukta-m0-p58-v1429
-[word-manifestation](śabdabhāsyatvamujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
+sound-becoming-abandoning-by-direct-perception-with-assembly
 
 ## mukta-m0-p58-v1430
-[self-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
+own-support-wind-one-indifferent-darkness-remembered
 
 ## mukta-m0-p58-v1431
-[shiva](śivastu) [all-support](sarvāśrayaḥ) [may-be](syāt) [there](tatra) [rightly-distinguished](samyagvivicyate)
+shiva-all-support-may-be-there-properly-distinguished
 
 ## mukta-m0-p58-v1432
-[in-earth](mahyāṃ) [by-siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
+to-me-siddhi-form-air-cloud-snow-nature
 
 ## mukta-m0-p58-v1433
-[word-this-refuge](śabdemaṃghījalamarut) [refuge](saṃśrayaḥ) [told](kathitaḥ) [dear](priye)
+sound-this-ghī-water-air-refuge-spoken-beloved
 
 ## mukta-m0-p58-v1434
-[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [body-ness](śarīratvena) [proclaimed](kīrtyate)
+aggregate-earth-etc-body-proclaimed
 
 ## mukta-m0-p58-v1435
-[by-life-force](prāṇena) [moving](ceṣṭamānaṃ) [what](yat) [that](tat) [conscious](sacit) [here-called](kamihocyate)
+by-breath-moving-that-conscious-here-called
 
 ## mukta-m0-p58-v1436
-[mind-refuge](manaḥsaṃsrayaṇaṃ) [living-being](prāṇi) [conscious](sacit) [body-remembered](kavapuṣismṛtam)
+mind-refuge-living-conscious-body-remembered
 
 ## mukta-m0-p58-v1437
-[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
+all-here-principles-modification-guna-difference-born
 
 ## mukta-m0-p58-v1438
-[aggregate-born](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavonaikarūpiṇaḥ)
+aggregates-born-and-aggregates-many-not-one-formed
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what-here-said](kimihoktena) [what-principles-other-inert](kintatvairaparairjaḍaiḥ)
+much-why-here-said-what-principle-other-inert
 
 ## mukta-m0-p58-v1440
-[uncuttable](acchedyo'yamadāhoya) [wettable](makledyośoṣya) [indeed-and](eva ca)
+uncuttable-unburnable-unwettable-undryable
 
 ## mukta-m0-p58-v1441
-[of-all-universe](sarvaviśvasya) [father](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
+all-universe-creator-all-universe-protector
 
 ## mukta-m0-p58-v1442
-[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
+mountain-island-water-forest-all-earth
 
 ## mukta-m0-p58-v1443
-[these](etā) [visible-indeed](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
+these-visible-thus-counted-earth-abode-worshipped
 
 ## mukta-m0-p58-v1444
-[light-wheel](jyotiścakraṃ) [all](samastaṃ) [and](ca) [wind](vāyu) [not-indeed](naiva) [moved](pracālyate)
+light-wheel-all-air-not-moved
 
 ## mukta-m0-p58-v1445
-[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [and](ca) [still](sthimitaḥ) [somewhere](kvacit)
+always-moves-somewhere-always-still-somewhere
 
 ## mukta-m0-p58-v1446
-[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [that](tatodyate)
+when-flows-quickly-with-sound-then-impelled
 
 ## mukta-m0-p58-v1447
-[this](etat) [indeed](tu) [principle](tattvaṃ) [told](kathitamasyaivānyā) [other-powers](vibhūtayaḥ)
+this-principle-spoken-its-other-powers
 
 ## mukta-m0-p58-v1448
-[that](tat) [that-scripture](tacchāstra) [establishment](sthitiḥ) [all](sarvā) [told](kathitā) [mountain-daughter](girinaṃdini)
+that-scripture-establishment-all-spoken-mountain-daughter
 
 ## mukta-m0-p58-v1449
-[elsewhere](anyatra) [my](mama) [what](yat) [something](kiṃcit) [askable](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
+elsewhere-my-what-little-asked-touched-mind
 
 ## mukta-m0-p58-v1450
-[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [uninterrupted](nirantaram)
+many-creature-net-dense-continuously
