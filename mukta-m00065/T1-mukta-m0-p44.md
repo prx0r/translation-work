@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-rakṣodvitayakumbhīra [gloss](rakṣodvitayakumbhīra) sarpacakrāsyakaṃ [gloss](sarpacakrāsyakaṃ) ca [gloss](ca) bham [gloss](bham)
+[rakṣas-two-crocodile](rakṣodvitayakumbhīra) [and](ca) [serpent-wheel-mouthed](sarpacakrāsyakaṃ) [bham](bham)
 
 ## mukta-m0-p44-v1077
-aśvinau [gloss](aśvinau) ca [gloss](ca) yamo [gloss](yamaḥ) vahniḥ [gloss](vahniḥ) prajendrenduharo'ditiḥ [gloss](prajendrenduharo'ditiḥ)
+[aśvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajāpati-indra-moon-hara-aditi](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-tvaṣṭā [gloss](tvaṣṭā) vāyuḥ [gloss](vāyuḥ) surendro'gnirmitrendrau [gloss](surendro'gnirmitrendrau) yāvatpāmpatiḥ [gloss](yāvatpāmpatiḥ)
+[tvaṣṭṛ](tvaṣṭā) [wind](vāyuḥ) [surendra](surendro) [fire]('gnirmitrendrau) [yāvat-pāmpati](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-viṣṇurvasurajaikādipādahirbudhna [gloss](viṣṇurvasurajaikādipādahirbudhna) pūṣakāḥ [gloss](pūṣakāḥ)
+[viṣṇu](viṣṇurvasurajaikādipādahirbudhna) [pūṣan](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-pumān [gloss](pumān) gadī [gloss](gadī) savīṇā [gloss](savīṇā) ca [gloss](ca) yoṣitta [gloss](yoṣitta) nmithunaṃ [gloss](nmithunaṃ) dhanuḥ [gloss](dhanuḥ)
+[man](pumān) [mace-holder](gadī) [vīṇā-holder](savīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-strī [gloss](strī) naustholkāsibhṛtkanyā [gloss](naustholkāsibhṛtkanyā) tulādhāro [gloss](tulādhāraḥ) narastulā [gloss](narastulā)
+[woman](strī) [boat](naustholkāsibhṛtkanyā) [tulā-holder](tulādhāro) [man](narastulā)
 
 ## mukta-m0-p44-v1082
-meṣādyāḥ [gloss](meṣādyāḥ) pañca [gloss](pañca) caivānye [gloss](caivānye) svanāmatulyarūpakāḥ [gloss](svanāmatulyarūpakāḥ)
+[aries-etc-five](meṣādyāḥ) [and](ca) [others](evānye) [same-named-form](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-hemābhaḥ [gloss](hemābhaḥ) sakirīṭaśca [gloss](sakirīṭaśca) devarājaḥ [gloss](devarājaḥ) surāvṛtaḥ [gloss](surāvṛtaḥ)
+[golden](hemābhaḥ) [crowned](sakirīṭaśca) [devarāja](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-chāgasthaḥ [gloss](chāgasthaḥ) sākṣasūtrograḥ [gloss](sākṣasūtrograḥ) saptārciḥ [gloss](saptārciḥ) śaktidhārakaḥ [gloss](śaktidhārakaḥ)
+[goat-seated](chāgasthaḥ) [rosary-fierce](sākṣasūtrograḥ) [seven-flamed](saptārciḥ) [śakti-holder](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-raktahṛkpāśabhṛtkṛṣṇo [gloss](raktahṛkpāśabhṛtkṛṣṇo) mahiṣasthogradūtavān [gloss](mahiṣasthogradūtavān)
+[red-hearted](raktahṛkpāśabhṛtkṛṣṇo) [buffalo-seated](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-puṃsthita [gloss](puṃsthita) khaḍgahastaśca [gloss](khaḍgahastaśca) nīlābho [gloss](nīlābho) rākṣasāvṛtaḥ [gloss](rākṣasāvṛtaḥ)
+[man-seated](puṃsthita) [sword-handed](khaḍgahastaśca) [blue](nīlābho) [rākṣasa-surrounded](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-sarvābharaṇasaṃyukto [gloss](sarvābharaṇasaṃyukto) varūṇaḥ [gloss](varūṇaḥ) pītavastrabhṛt [gloss](pītavastrabhṛt)
+[all-ornamented](sarvābharaṇasaṃyukto) [varuṇa](varūṇaḥ) [yellow-garment-holder](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-raktakṣo [gloss](raktakṣo) raktavāsaśca [gloss](raktavāsaśca) mṛgasthaścaṅkuśī [gloss](mṛgasthaścaṅkuśī) dhvajī [gloss](dhvajī)
+[red-eyed](raktakṣo) [red-garmented](raktavāsaśca) [deer-seated](mṛgasthaścaṅkuśī) [flag-holder](dhvajī)
 
 ## mukta-m0-p44-v1089
-dhaneśo [gloss](dhaneśo) varadaḥ [gloss](varadaḥ) kāryo [gloss](kāryo) nānābharaṇamaṇḍitaḥ [gloss](nānābharaṇamaṇḍitaḥ)
+[dhaneśa](dhaneśo) [boon-giver](varadaḥ) [to-be-made](kāryo) [various-ornament-adorned](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-īśāno'hīndubhṛccaite [gloss](īśāno'hīndubhṛccaite) lokapālā [gloss](lokapālā) dvibāhavaḥ [gloss](dvibāhavaḥ)
+[īśāna](īśāno) [snake-moon-holder](hīndubhṛccaite) [lokapālas](lokapālā) [two-armed](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-viśvakarmā [gloss](viśvakarmā) sadā [gloss](sadā) gauro [gloss](gauro) jñānamudrākṣasūtrabhṛt [gloss](jñānamudrākṣasūtrabhṛt)
+[viśvakarmā](viśvakarmā) [always](sadā) [white](gauro) [knowledge-mudrā-rosary-holder](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-ālīḍhakaraṇāsaktaṃ [gloss](ālīḍhakaraṇāsaktaṃ) mahākāyaṃ [gloss](mahākāyaṃ) subhīṣaṇam [gloss](subhīṣaṇam)
+[ālīḍha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-bodied](mahākāyaṃ) [very-terrifying](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-pītadhvajadharaṃ [gloss](pītadhvajadharaṃ) vāme [gloss](vāme) tarjanīṃ [gloss](tarjanīṃ) vā [gloss](vā) hṛdagrataḥ [gloss](hṛdagrataḥ)
+[yellow-banner-holder](pītadhvajadharaṃ) [left](vāme) [threatening-gesture](tarjanīṃ) [or](vā) [heart-before](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-saṃpīḍya [gloss](saṃpīḍya) rākasān [gloss](rākasān) padbhyāṃ [gloss](padbhyāṃ) muñcannādaṃmarutsutam [gloss](muñcannādaṃmarutsutam)
+[pressing](saṃpīḍya) [rākṣasas](rākasān) [with-feet](padbhyāṃ) [releasing](muñcannādaṃ) [marutsuta](marutsutam)
 
 ## mukta-m0-p44-v1095
-skandhayakṣānvitā [gloss](skandhayakṣānvitā) nityaṃ [gloss](nityaṃ) kartavyā [gloss](kartavyā) yoṣidanvitāḥ [gloss](yoṣidanvitāḥ)
+[skandha-yakṣa-endowed](skandhayakṣānvitā) [always](nityaṃ) [to-be-made](kartavyā) [woman-endowed](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-mālābhṛto'thavā [gloss](mālābhṛto'thavā) hṛṣṭāḥ [gloss](hṛṣṭāḥ) khasthā [gloss](khasthā) vidyādharāḥ [gloss](vidyādharāḥ) sadā [gloss](sadā)
+[garland-holder](mālābhṛto) [or]('thavā) [delighted](hṛṣṭāḥ) [sky-dwelling](khasthā) [vidyādharas](vidyādharāḥ) [always](sadā)
 
 ## mukta-m0-p44-v1097
-piṅgavarvara [gloss](piṅgavarvara) keśāśva [gloss](keśāśva) vetālā [gloss](vetālā) vikṛtānanāḥ [gloss](vikṛtānanāḥ)
+[tawny-varvara-haired](piṅgavarvara) [horse](keśāśva) [vetālas](vetālā) [distorted-faced](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-kapālamālinaḥ [gloss](kapālamālinaḥ) śūladhārīṇaḥ [gloss](śūladhārīṇaḥ) kṣetrapālakāḥ [gloss](kṣetrapālakāḥ)
+[skull-garlanded](kapālamālinaḥ) [trident-holders](śūladhārīṇaḥ) [kṣetrapālakas](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-kṛśā [gloss](kṛśā) mahodarāḥ [gloss](mahodarāḥ) pretā [gloss](pretā) khalva [gloss](khalva) gallāśca [gloss](gallāśca) lomaśāḥ [gloss](lomaśāḥ)
+[thin](kṛśā) [big-bellied](mahodarāḥ) [pretas](pretā) [indeed](khalva) [gallās](gallāśca) [hairy](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-svāṅgavarṇadharāḥ [gloss](svāṅgavarṇadharāḥ) sarvā [gloss](sarvā) yathoktaṃ [gloss](yathoktaṃ) brahmayāmale [gloss](brahmayāmale)
+[own-limb-color-bearing](svāṅgavarṇadharāḥ) [all](sarvā) [as-stated](yathoktaṃ) [brahmayāmala](brahmayāmale)
