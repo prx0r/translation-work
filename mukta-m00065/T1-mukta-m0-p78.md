@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-in-the-kingdom (rāṣṭre) abundance-and-health (subhikṣamārogyaṃ) he-should-make (kuryāt) thieves-etc (caurādi) destruction (nāśanan)
+rāṣṭre(rāṣṭra) subhikṣam(subhikṣa) ārogyaṃ(ārogya) kuryāt(kṛ) caurādi(caura-ādi) nāśanan(nāśana)
 
 ## mukta-m0-p78-v1927
-of-the-founder (sthāpakasya) always (sadā) increase (vṛddhiḥ) and-those (ye) there (tatra) living-upon (upajīvinaḥ)
+sthāpakasya(sthāpaka) sadā(sadā) vṛddhiḥ(vṛddhi) ye(yad) ca(ca) tatropajīvinaḥ(tatra-upajīvin)
 
 ## mukta-m0-p78-v1928
-artisans (śilpinaḥ) work-doers (karmakartāraḥ) all (sarve) go (yānti) to-śiva-temple (śivālayam)
+śilpinaḥ(śilpin) karmakartāraḥ(karma-kartṛ) sarve(sarva) yānti(yā) śivālayam(śiva-ālaya)
 
 ## mukta-m0-p78-v1929
-enjoyment-and-liberation-giving (bhuktimuktipradaṃ) to-be-known (jñeyam) otherwise (anyathā) but (tu) reverse (viparyayaḥ)
+bhuktimuktipradaṃ(bhukti-mukti-prada) jñeyam(jñā) anyathā(anyathā) tu(tu) viparyayaḥ(viparyaya)
 
 ## mukta-m0-p78-v1930
-then (tataḥ) caṇḍeśvara (caṇḍeśvaraṃ) god (devaṃ) one-should-establish (sthāpayet) by-rite (vidhinā) guru (guruḥ)
+tataḥ(tatas) caṇḍeśvaraṃ(caṇḍeśvara) devaṃ(deva) sthāpayet(sthā) vidhinā(vidhi) guruḥ(guru)
 
 ## mukta-m0-p78-v1931
-with-rocanā (rocanayā) eye-disease-destroying (akṣirogaghnaḥ) with-phalijyā (phalijyāṃ) and (ca) pleasing (priyaṅkaraḥ)
+rocanayā(rocanā) akṣirogaghnaḥ(akṣi-roga-ghna) phalijyāṃ(phali-jyā) ca(ca) priyaṅkaraḥ(priyaṅkara)
 
 ## mukta-m0-p78-v1932
-nāgapuṣpa (nāgapuṣpaṃ) for-abundance (subhikṣāya) for-seven-days (saptāhaṃ) and (ca) fruit (phalaṃ) in-order (kramāt)
+nāgapuṣpaṃ(nāga-puṣpa) subhikṣāya(subhikṣa) saptāhaṃ(saptāha) ca(ca) phalaṃ(phala) kramāt(krama)
 
 ## mukta-m0-p78-v1933
-with-sandal-aloes-camphor-saffron-etc (candanāgurukapūrakuṅkumādyaiḥ) and (ca) anointing (lepanam)
+candanāgurukapūrakuṅkumādyaiḥ(candana-āguru-kapūra-kuṅkuma-ādi) ca(ca) lepanam(lepana)
 
 ## mukta-m0-p78-v1934
-with-goat (ajena) rocanā (rocanāṃ) and (ca) indeed (eva) mirror (darpaṇaṃ) with-man (puruṣeṇa) but (tu)
+ajena(aja) rocanāṃ(rocanā) ca(ca) eva(eva) darpaṇaṃ(darpaṇa) puruṣeṇa(puruṣa) tu(tu)
 
 ## mukta-m0-p78-v1935
-bracelet (kaṭakaṃ) waist-cord (kaṭisūtraṃ) and (ca) silk-band (paṭṭabandhaṃ) and (ca) whatever (yad) may-be (bhavet)
+kaṭakaṃ(kaṭaka) kaṭisūtraṃ(kaṭi-sūtra) ca(ca) paṭṭabandhaṃ(paṭṭa-bandha) ca(ca) yat(yad) bhavet(bhū)
 
 ## mukta-m0-p78-v1936
-sometimes (kvacit) by-that-very (tena+eva) with-secrets (guhyaiḥ+vā) all (sarvāṇi) these (etāni) one-should-give (dāyayet)
+kvacit(kvacid) tena(tad) eva(eva) guhyaiḥ(guhya) vā(vā) sarvāṇi(sarva) etāni(etad) dāyayet(dā)
 
 ## mukta-m0-p78-v1937
-having-bowed (praṇamya) staff-like (daṇḍavad) both (bhamau) slowly (śanaiḥ) he-should-go (gacchet) clockwise (pradakṣiṇam)
+praṇamya(praṇam) daṇḍavadbhamau(daṇḍa-vat) śanaiḥ(śanais) gacchet(gam) pradakṣiṇam(pradakṣiṇa)
 
 ## mukta-m0-p78-v1938
-good-deed (sukṛtaṃ) bad-deed (duṣkṛtaṃ) or (vā) indeed (api) through-ignorance (ajñānāt) through-knowledge (jñānataḥ) done (kṛtam)
+sukṛtaṃ(su-kṛta) duṣkṛtaṃ(duṣ-kṛta) vā(vā) api(api) ajñānāt(ajñāna) jñānataḥ(jñāna) kṛtam(kṛ)
 
 ## mukta-m0-p78-v1939
-at-that-time (tasminkāle) to-be-given (pradātavyā) fee (dakṣiṇā) to-śiva-yogin (śivayogine)
+tasminkāle(tad-kāla) pradātavyā(pra-dā) dakṣiṇā(dakṣiṇā) śivayogine(śiva-yogin)
 
 ## mukta-m0-p78-v1940
-to-son (putrakāya) half (ardhataḥ) to-be-given (deyā) to-initiates (samayibhyaḥ) and (ca) quarter (pādikā)
+putrakāyārdhato(putraka-ardha) deyā(dā) samayibhyaḥ(samayin) ca(ca) pādikā(pādika)
 
 ## mukta-m0-p78-v1941
-according-to-ability (yathāśakti) to-twice-born (dvijātibhyaḥ) one-should-give (dadyāt) gift (dānaṃ) according-to-rite (yathāvidhi)
+yathāśakti(yathā-śakti) dvijātibhyaḥ(dvijāti) dadyāt(dā) dānaṃ(dāna) yathāvidhi(yathā-vidhi)
 
 ## mukta-m0-p78-v1942
-musicians (tauryikān) singers (gāyakān) dancers (nartṛn) with-sound (nādyena) but (tu) one-should-please (toṣayet)
+tauryikān(tauryika) gāyakān(gāyaka) nartṛn(nartṛ) nādyena(nāda) tu(tu) toṣayet(tuṣ)
 
 ## mukta-m0-p78-v1943
-one-night (ekarātraṃ) three-nights (trirātraṃ) or (vā) seven-nights (saptarātram) also (athāpi) or (vā)
+ekarātraṃ(eka-rātra) trirātraṃ(tri-rātra) vā(vā) saptarātram(sapta-rātra) atha-api(atha-api) vā(vā)
 
 ## mukta-m0-p78-v1944
-from-men-etc (pumādibhyaḥ) daytime-purity (divāśuddhiṃ) knowledge-etc (vidyādi) that-hundred-times (tacchatāvṛtam)
+pumādibhyaḥ(puma-ādi) divāśuddhiṃ(diva-śuddhi) vidyādi(vidyā-ādi) tacchatāvṛtam(tad-śata-āvṛta)
 
 ## mukta-m0-p78-v1945
-firm (sthirā)
+sthirā(sthira)
 
 ## mukta-m0-p78-v1946
-quarter-parts (yugabhāgāḥ) in-four-directions (caturdikṣu) having-dug (luptvā) one-by-one (ekaikaṃ) but (tu) from-corner (koṇataḥ)
+yugabhāgāḥ(yuga-bhāga) caturdikṣu(catur-dik) luptvā(lup) ekaikaṃ(eka-eka) tu(tu) koṇataḥ(koṇa)
 
 ## mukta-m0-p78-v1947
-to-be-established (sthāpyāni) in-them (teṣu) liṅgas (liṅgāni) with-their-union (tatsaṅgayā) by-rite (bhirvidhānataḥ)
+sthāpyāni(sthā) teṣu(tad) liṅgāni(liṅga) tatsaṅgayābhiḥ(tad-saṅga) vidhānataḥ(vidhāna)
 
 ## mukta-m0-p78-v1948
-of-the-inferior (hīnānāṃ) but (tu) rite-is-this (vidhiśvāyaṃ) of-the-superior (jyeṣṭhānāṃ) establishment-first (sthitipūrvakam)
+hīnānāṃ(hīna) tu(tu) vidhiḥ(vidhi) eva(eva) ayam(idam) jyeṣṭhānāṃ(jyeṣṭha) sthitipūrvakam(sthiti-pūrvaka)
 
 ## mukta-m0-p78-v1949
-there (tatra) one-should-bring (ānayet) great-liṅga (mahāliṅgaṃ) by-yantra-yoga (yantrayogena) wise-one (buddhimān)
+tatra(tatra) ānayet(ā-nī) mahāliṅgaṃ(mahā-liṅga) yantrayogena(yantra-yoga) buddhimān(buddhimat)
 
 ## mukta-m0-p78-v1950
-in-middle (madhye) and (ca) with-eight-juices (aṣṭārasaṃyuktaṃ) with-firm-wood (dṛḍhakāṣṭhena) adorned (maṇḍitam)
+madhye(madhya) ca(ca) aṣṭārasaṃyuktaṃ(aṣṭa-āra-saṃyukta) dṛḍhakāṣṭhena(dṛḍha-kāṣṭha) maṇḍitam(maṇḍita)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[hemante](hemante) [jñānadaṃ](jñānadaṃ) [liṅgaṃ](liṅgaṃ) [śiśire](śiśire) [sarvabhūtidam](sarvabhūtidam)
-
+hemante=in-winter jñānadaṃ=knowledge-giving liṅgaṃ=liṅga śiśire=in-cool-season sarvabhūtidam=all-beings-giving
 ## mukta-m0-p56-v1377
-[yatīnāṃ](yatīnāṃ) [sarvakāleṣu](sarvakāleṣu) [liṅgasya+āropaṇaṃ](liṅgasyāropaṇaṃ) [matam](matam)
-
+yatīnāṃ=of-ascetics sarvakāleṣu=at-all-times liṅgasyāropaṇaṃ=liṅga-installation matam=opinion
 ## mukta-m0-p56-v1378
-[dakṣiṇe+ayane](dakṣiṇetvayane) [apūjyaṃ](apūjyaṃ) [trivarṣa+ūrdhvaṃ](trivarṣordhvaṃ) [bhayāvaham](bhayāvaham)
-
+dakṣiṇe=in-south ayane=path apūjyaṃ=not-worshipable trivarṣordhvaṃ=above-three-years bhayāvaham=fear-bringing
 ## mukta-m0-p56-v1379
-[kṣayāya](kṣayāya) [bṛddhaye](bṛddhaye) [syāt+ca](syācca) [yāmye](yāmye) [saumye+apare](saumye'pare) [ravau](ravau)
-
+kṣayāya=for-decay bṛddhaye=for-growth syāt=may-be ca=and yāmye=in-south saumye=in-north apare=other ravau=sun
 ## mukta-m0-p56-v1380
-[ṣaṭṣaṇmāsa+uttarān](ṣaṭṣaṇmāsottarāṃs) [tryabdān](tryabdān) [mayamata+āt+phalaṃ](mayamatātphalaṃ) [kramāt](kramāt)
-
+ṣaṭṣaṇmāsottarān=six-six-months-beyond tryabdān=three-years mayamatāt=by-Maya-opinion phalaṃ=result kramāt=gradually
 ## mukta-m0-p56-v1381
-[abhicāraḥ](abhicāro) [bhavet](bhavettatra) [tatra](tatra) [sthāpite](sthāpite) [dakṣiṇe+ayane](dakṣiṇe'yane)
-
+abhicāro=black-magic bhavet=may-be tatra=there sthāpite=installed dakṣiṇe=in-south ayane=path
 ## mukta-m0-p56-v1382
-[kumārāḥ](kumārāḥ) [saṃprapīḍyante](saṃprapīḍyante) [kanyā+nāśaḥ+ca](kanyānāśaśca) [jāyate](jāyate)
-
+kumārāḥ=boys saṃprapīḍyante=are-oppressed kanyānāśaḥ=loss-of-girls ca=and jāyate=arises
 ## mukta-m0-p56-v1383
-[kartuḥ](kartuḥ) [kṣayaḥ](kṣayaḥ) [sadāśokaḥ](sadāśoko) [gṛhe](gṛhe) [bhavati](bhavati) [dāruṇaḥ](dāruṇaḥ)
-
+kartuḥ=of-maker kṣayaḥ=decay sadāśoka=constant-sorrow gṛhe=in-house bhavati=becomes dāruṇaḥ=terrible
 ## mukta-m0-p56-v1384
-[śubhārthī](śubhārthī) [na](na) [pravarteta](pravarteta) [devyāḥ](devyā) [mantra+ādi+śāstrataḥ](mantrādiśāstrataḥ)
-
+śubhārthī=seeker-of-auspicious na=not pravarteta=should-act devyā=of-goddess mantrādiśāstrataḥ=by-mantra-scripture
 ## mukta-m0-p56-v1385
-[tasmāt](tasmāt) [sthānaṃ](sthānaṃ) [guruṃ](guruṃ) [prāpya](prāpya) [rakṣaye](rakṣaye) [dābhicārikam](dābhicārikam)
-
+tasmāt=therefore sthānaṃ=place guruṃ=teacher prāpya=obtaining rakṣaye=for-protection dābhicārikam=from-black-magic
 ## mukta-m0-p56-v1386
-[sthāpanaṃ](sthāpanaṃ) [tu](tu) [prakartavyaṃ](prakartavyaṃ) [śiśira+ādi+ṛtu+traye](śiśirādāvṛtutraye)
-
+sthāpanaṃ=installation tu=but prakartavyaṃ=should-be-done śiśirādau=in-cool-season-beginning ṛtutraye=three-seasons
 ## mukta-m0-p56-v1387
-[sa+candra+tārakā+yoge](sacandratārakāyoge) [su+lagna+karaṇa+anvite](sulagnakaraṇānvitate)
-
+sacandratārakāyoge=with-moon-star-conjunction sulagnakaraṇānvite=with-good-ascendant
 ## mukta-m0-p56-v1388
-[advaite](advaite) [ca+eva](caiva) [kṛsṇe+api](kṛsṇe'pi) [mantra+mūrti](mantramūrti) [prabhedataḥ](prabhedataḥ)
-
+advaite=non-dual ca=and eva=indeed kṛsṇe=dark-fortnight api=also mantramūrti=mantra-form prabhedataḥ=by-distinction
 ## mukta-m0-p56-v1389
-[pāñcarātra+arha+ret](pāñcarātrārharet) [miśrā](miśrā) [pañcāśat+varṣa+saṃsthitiḥ](pañcāśadvarṣasaṃsthitiḥ)
-
+pāñcarātrārha=worthy-of-Pañcarātra miśrā=mixed pañcāśadvarṣasaṃsthitiḥ=fifty-year-duration
 ## mukta-m0-p56-v1390
-[śatābdam+tu](śātābdorvbaṃ) [sā](sā) [tiṣṭhet](tiṣṭhedvāṇaliṅgaṃ) [vāṇaliṅgaṃ](vāṇaliṅgaṃ) [svayambhu+vat](svayambhubat)
-
+śātābdorvbaṃ=hundred-years-or-more tu=but sā=that tiṣṭhet=may-stand vāṇaliṅgaṃ=stone-liṅga svayambhubat=like-self-born
 ## mukta-m0-p56-v1391
-[bahvartha+tvāni+pātānāṃ](bahvarthatvānipātānāṃ) [saṃskāra+ādau](saṃskārādau) [pratiṣṭhitiḥ](pratiṣṭhitiḥ)
-
+bahvarthatvānipātānāṃ=of-many-meaning-falls saṃskārādau=in-purification-beginning pratiṣṭhitiḥ=establishment
 ## mukta-m0-p56-v1392
-[saṃskṛtā](saṃskṛtā) [dravya+san+mantra+saṃskṛtiḥ+yā](dravyasanmantrasaṃskṛtiryā) [suragya](suragya) [ca](ca)
-
+saṃskṛtā=purified dravyasanmantrasaṃskṛtiḥ=purification-of-substances-and-mantras yā=which suragya=divine ca=and
 ## mukta-m0-p56-v1393
-[pratimāṃ](pratimāṃ) [pañca+bhedaiḥ+tu](pañcabhedaistu) [pratiṣṭhā](pratiṣṭhā) [pañcadhā+uditā](pañcadhoditā)
-
+pratimāṃ=image pañcabhedaiḥ=by-five-divisions tu=but pratiṣṭhā=consecration pañcadhā=fivefold uditā=declared
 ## mukta-m0-p56-v1394
-[dvitīyā+āyu+mati](dvitīyāyumati) [dadyāt](dadyāttṛtīyā) [tṛtīyā](tṛtīyā) [putra+saṃpadaḥ](putrasaṃpadaḥ)
-
+dvitīyā=second āyu=life dadyāt=gives tṛtīyā=third putrasaṃpadaḥ=son-prosperity
 ## mukta-m0-p56-v1395
-[daśamī](daśamī) [bhūmi+lābhaṃ](bhūmilābhaṃ) [ca](ca) [saubhāgyaṃ](saubhāgyaṃ) [ca](ca) [trayodaśī](trayodaśī)
-
+daśamī=tenth bhūmilābhaṃ=land-gain ca=and saubhāgyaṃ=good-fortune ca=and trayodaśī=thirteenth
 ## mukta-m0-p56-v1396
-[ekartu+śaṅkaraiḥ](ekartuśaṅkarairnandā) [nandā](nandā) [bhadrā](bhadrā) [pakṣa+ṛṣi+bhānubhiḥ](pakṣarṣibhānubhiḥ)
-
+ekartuśaṅkaraiḥ=by-one-maker-Śaṅkara nandā=Nanda bhadrā=Bhadra pakṣarṣibhānubhiḥ=by-fortnight-seers-sun
 ## mukta-m0-p56-v1397
-[bāṇa+dik+tithibhiḥ](bāṇadiktithibhiḥ) [pūrṇā](pūrṇā) [hīna+tulya+hitāḥ](hīnatulyāhitāḥ) [kramāt](kramāt)
-
+bāṇadiktithibhiḥ=by-arrow-direction-tithis pūrṇā=full hīnatulyāhitāḥ=deficient-equal-harmful kramāt=gradually
 ## mukta-m0-p56-v1398
-[vṛhaspatiḥ](vṛhaspatirdvipañcāyurbudyo) [dvipañca+āyuḥ](dvipañcāyurbudyo) [budhaḥ](budyo) [jaya+dhana+ani](jayadhanāni) [ca](ca)
-
+vṛhaspatiḥ=Jupiter dvipañcāyuḥ=ten-year-life budyaḥ=Mercury jayadhanāni=victory-wealth ca=and
 ## mukta-m0-p56-v1399
-[karka](karka) [vṛṣa+tulā+cāpa](vṛṣatulācāpastrīsiṃhagrāhayugmake) [strī+siṃha+grāha+yugmake](strīsiṃhagrāhayugmake)
-
+karka=Cancer vṛṣa=Taurus tulā=Libra cāpa=Sagittarius strī=woman siṃha=Lion grāha=planet yugmake=pair
 ## mukta-m0-p56-v1400
-[ṣaḍ+aṣṭa+catur+yāmāt](ṣaḍaṣṭacaturoyāmāccatū) [catu](catū) [rāśi+krameṇa](rāśikrameṇa) [tu](tu)
+ṣaḍaṣṭacaturoyāmāt=six-eight-four-yāmas catū=four rāśikrameṇa=by-zodiac-order tu=but
