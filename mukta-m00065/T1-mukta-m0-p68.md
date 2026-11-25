@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[pada](ebhistu) [pada](paṃcabhiryuktaiḥ) [pada](snānamarcādiśodhanam)
+[with-these](ebhistu) [five](pañcabhiḥ) [united](yuktaiḥ) [bathing](snānam) [worship-etc](arcādi) [purification](śodhanam)
 
 ## mukta-m0-p68-v1677
-[pada](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
+[īśāna-etc](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[pada](vṛṣaśṛṅgasamutkhātāḥ) [pada](pavakāśrayasambhavāḥ)
+[ox-horn](vṛṣaśṛṅga) [uprooted](samutkhātāḥ) [fire-refuge](pavakāśraya) [born](sambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[pada](ajena) [pada](kṣālanātpṛthvīkramatastu) [pada](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step-by-step](kramatastu) [with-art](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[pada](kavoṣṇaistu) [pada](tṛtīyena) [pada](snānaṃ) [pada](ṭaṅkakṣatāpaham)
+[lukewarm](kavoṣṇaiḥ) [third](tṛtīyena) [bathing](snānaṃ) [axe-wound](ṭaṅkakṣata) [removing](apaham)
 
 ## mukta-m0-p68-v1681
-[pada](nidigdhikā) [pada](balāmūlaiḥ) [pada](snānaṃ) [pada](guhyena) [pada](doṣahṛt)
+[nidigdhikā](nidigdhikā) [balā-roots](balāmūlaiḥ) [bathing](snānaṃ) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[pada](dhātryā) [pada](snānānmahītyakte) [pada](sadyojātena) [pada](śuddhyati)
+[by-dhātrī](dhātryā) [bathing](snānāt) [earth](mahī) [abandoned](tyakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[pada](samudvartya) [pada](mahādevaṃ) [pada](tīrthotthaiḥ) [pada](snāpayejjalaiḥ)
+[having-rubbed](samudvartya) [mahādeva](mahādevaṃ) [tīrtha-born](tīrthotthaiḥ) [waters](jalaiḥ) [bathe](snāpayej)
 
 ## mukta-m0-p68-v1684
-[pada](puṣkaraṃ) [pada](naimiṣāraṇyaṃ) [pada](tīrthaṃ) [pada](ca) [pada](varūṇaṃ) [pada](tathā)
+[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [varuṇa](varūṇaṃ) [thus](tathā)
 
 ## mukta-m0-p68-v1685
-[pada](jāhnavī) [pada](yamunā) [pada](kauśī) [pada](sarayū) [pada](śoṇanarmadā)
+[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[pada](saptagodāvarītyetāḥ) [pada](puṇyanadyo) [pada](mahājalaiḥ)
+[seven-godāvarī](saptagodāvarī) [thus](ityetāḥ) [holy-rivers](puṇyanadyo) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[pada](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
+[alkali-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-[pada](sphāṭikaṃ) [pada](padyarāgaṃ) [pada](ca) [pada](rājāvartaḥsuvidrumam)
+[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [ca](ca) [rājāvarta](rājāvartaḥ) [suvidruma](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[pada](etadratnodakaiḥ) [pada](snānaṃ) [pada](mahābhūtikaraṃ) [pada](param)
+[this-gem-water](etadratnodakaiḥ) [bathing](snānaṃ) [great-prosperity](mahābhūtikaraṃ) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[pada](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
+[camphor-aguru-musk-etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[pada](snāpayedgandhatoyena) [pada](ajātenābhimantritam)
+[bathe](snāpayed) [fragrant-water](gandhatoyena) [ajāta](ajātena) [consecrated](abhimantritam)
 
 ## mukta-m0-p68-v1692
-[pada](puṇḍarīkābjamālūranīlaraktotpalārkajam)
+[lotus-blue-lotus-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-[pada](sahakārāśvamāraṃ) [pada](ca) [pada](punnāgabakulāni) [pada](ca)
+[sahakāra-aśvamāra](sahakārāśvamāraṃ) [ca](ca) [punnāga-bakula](punnāgabakulāni) [ca](ca)
 
 ## mukta-m0-p68-v1694
-[pada](pāṭalādroṇanepālī) [pada](kuśakiṃśukasiṃhikāḥ)
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[pada](mṛdukundābjapatrī) [pada](ca) [pada](vṛṣarṣibukapuṣpakam)
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [ca](ca) [vṛṣa-ṛṣi-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[pada](bilāmramocanāraṅga) [pada](panasaṃ) [pada](nālikerakam)
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [panasa](panasaṃ) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[pada](vadarībījapūraṃ) [pada](ca) [pada](kava) [pada](mardaṃ) [pada](satindukam)
+[jujube-citron](vadarībījapūraṃ) [ca](ca) [kara-marda](karamardaṃ) [satinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[pada](phalasnānamidaṃ) [pada](pupyaṃ) [pada](karturicchāphalapradam)
+[fruit-bathing](phalasnānam) [this](idam) [holy](pupyaṃ) [doer](kartur) [wish-fruit](icchāphala) [giving](pradam)
 
 ## mukta-m0-p68-v1699
-[pada](tilagodhumasugdādi) [pada](yavadhānyapriyaṅgubhiḥ)
+[sesame-wheat-sugdā-etc](tilagodhumasugdādi) [barley-grain-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[pada](pañcabrahmodbhavairmantrairmahāsnānaṃ) [pada](śubhapradam)
+[five-brahma-born](pañcabrahmodbhavaiḥ) [mantras](mantraiḥ) [great-bathing](mahāsnānaṃ) [auspicious-giving](śubhapradam)
