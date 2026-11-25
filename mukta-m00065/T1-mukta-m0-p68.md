@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-ebhiḥ-tu paṃcabhiḥ-yuktaiḥ snānam arcā-ādi-śodhanam
+[pada](ebhistu) [pada](paṃcabhiryuktaiḥ) [pada](snānamarcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-īśāna-vaktra-ghora-āhvā-guhya-ājāta-ākhya-mantritaiḥ
+[pada](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-vṛṣa-śṛṅga-samutkhātāḥ pavaka-āśraya-sambhavāḥ
+[pada](vṛṣaśṛṅgasamutkhātāḥ) [pada](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-ajena kṣālanāt pṛthvī-kramataḥ tu kalā-vatā
+[pada](ajena) [pada](kṣālanātpṛthvīkramatastu) [pada](kalāvatā)
 
 ## mukta-m0-p68-v1680
-kavoṣṇaiḥ tu tṛtīyena snānam ṭaṅka-kṣata-apaham
+[pada](kavoṣṇaistu) [pada](tṛtīyena) [pada](snānaṃ) [pada](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-nidigdhikā balā-mūlaiḥ snānam guhyena doṣa-hṛt
+[pada](nidigdhikā) [pada](balāmūlaiḥ) [pada](snānaṃ) [pada](guhyena) [pada](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-dhātryā snānāt mahī-tyakte sadyojātena śuddhyati
+[pada](dhātryā) [pada](snānānmahītyakte) [pada](sadyojātena) [pada](śuddhyati)
 
 ## mukta-m0-p68-v1683
-samudvartya mahādevam tīrtha-utthaiḥ snāpayet jalaiḥ
+[pada](samudvartya) [pada](mahādevaṃ) [pada](tīrthotthaiḥ) [pada](snāpayejjalaiḥ)
 
 ## mukta-m0-p68-v1684
-puṣkaram naimiṣa-araṇyam tīrtham ca varūṇam tathā
+[pada](puṣkaraṃ) [pada](naimiṣāraṇyaṃ) [pada](tīrthaṃ) [pada](ca) [pada](varūṇaṃ) [pada](tathā)
 
 ## mukta-m0-p68-v1685
-jāhnavī yamunā kauśī sarayū śoṇa-narmadā
+[pada](jāhnavī) [pada](yamunā) [pada](kauśī) [pada](sarayū) [pada](śoṇanarmadā)
 
 ## mukta-m0-p68-v1686
-sapta-godāvarī iti etāḥ puṇya-nadyaḥ mahā-jalaiḥ
+[pada](saptagodāvarītyetāḥ) [pada](puṇyanadyo) [pada](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-kṣāra-kṣīra-dadhi-sneha-ikṣu-rasa-uda-sura-udakāḥ
+[pada](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-sphāṭikam padya-rāgam ca rājāvartaḥ su-vidrumam
+[pada](sphāṭikaṃ) [pada](padyarāgaṃ) [pada](ca) [pada](rājāvartaḥsuvidrumam)
 
 ## mukta-m0-p68-v1689
-etat ratna-udakaiḥ snānam mahā-bhūti-karam param
+[pada](etadratnodakaiḥ) [pada](snānaṃ) [pada](mahābhūtikaraṃ) [pada](param)
 
 ## mukta-m0-p68-v1690
-karpūra-aguru-kastūrī-kāśmarī-candana-ādikaiḥ
+[pada](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-snāpayet gandha-toyena ajātena abhimantritam
+[pada](snāpayedgandhatoyena) [pada](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-puṇḍarīka-abja-mālūra-nīla-rakta-utpala-arka-jam
+[pada](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-sahakāra-aśvamāram ca punnāga-bakulāni ca
+[pada](sahakārāśvamāraṃ) [pada](ca) [pada](punnāgabakulāni) [pada](ca)
 
 ## mukta-m0-p68-v1694
-pāṭalā-droṇa-nepālī kuśa-kiṃśuka-siṃhikāḥ
+[pada](pāṭalādroṇanepālī) [pada](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-mṛdu-kunda-abja-patrī ca vṛṣa-ṛṣi-buka-puṣpakam
+[pada](mṛdukundābjapatrī) [pada](ca) [pada](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-bilāmra-mocana-āraṅga panasam nālikerakam
+[pada](bilāmramocanāraṅga) [pada](panasaṃ) [pada](nālikerakam)
 
 ## mukta-m0-p68-v1697
-vadarī-bījapūram ca kara-mardam satindukam
+[pada](vadarībījapūraṃ) [pada](ca) [pada](kava) [pada](mardaṃ) [pada](satindukam)
 
 ## mukta-m0-p68-v1698
-phala-snānam idam pupyam kartuḥ icchā-phala-pradam
+[pada](phalasnānamidaṃ) [pada](pupyaṃ) [pada](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-tila-godhuma-sugdā-ādi yava-dhānya-priyaṅgubhiḥ
+[pada](tilagodhumasugdādi) [pada](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-pañca-brahma-udbhavaiḥ mantraiḥ mahā-snānam śubha-pradam
+[pada](pañcabrahmodbhavairmantrairmahāsnānaṃ) [pada](śubhapradam)
