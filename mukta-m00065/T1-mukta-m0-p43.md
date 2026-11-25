@@ -11,7 +11,7 @@
 [ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [ca](ca) [eva](eva) [kuryāt](kuryāt) [śṛṅgāṇi](śṛṅgāṇi) [koṇataḥ](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[prālambya](prālambya) [āsakta](āsakta) [revanta](revanta) [chatra](chatra) [dhārā](dhārā) [ādibhiḥ](ādibhiḥ) [yutaḥ](yutaḥ)
+[prālambya](prālambya) [āsakta](āsakta) [revanta](revanta) [chatra](chatra) [dhāra](dhāra) [ādibhiḥ](ādibhiḥ) [yutaḥ](yutaḥ)
 
 ## mukta-m0-p43-v1055
 [nānā](nānā) [ratna](ratna) [suveśa](suveśa) [āḍhyāḥ](āḍhyāḥ) [caṇḍa](caṇḍa) [tejāḥ](tejāḥ) [svabhāva](svabhāva) [jāḥ](jāḥ)
@@ -23,7 +23,7 @@
 [budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpa](cāpa) [pāṇinam](pāṇinam)
 
 ## mukta-m0-p43-v1058
-[yāmya](yāmya) [eka](eka) [akṣaṃ](akṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikā](kuṇḍikā) [mantra](mantra) [mālikam](mālikam)
+[yāmya](yāmya) [ekākṣaṃ](ekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikā](kuṇḍikā) [mantra](mantra) [mālikam](mālikam)
 
 ## mukta-m0-p43-v1059
 [vyāvṛtta](vyāvṛtta) [āsyaṃ](āsyaṃ) [sahāsyaṃ](sahāsyaṃ) [ca](ca) [piṅga](piṅga) [bhrū](bhrū) [śmaśru](śmaśru) [locanam](locanam)
@@ -59,7 +59,7 @@
 [hāra](hāra) [kuṇḍala](kuṇḍala) [keyūraiḥ](keyūraiḥ) [sadā](sadā) [bharaṇa](bharaṇa) [bhūṣitā](bhūṣitā)
 
 ## mukta-m0-p43-v1070
-[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭha](śrīkaṇṭha) [manasaṃbhavā](manasaṃbhavā)
+[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭha](śrīkaṇṭha) [manasambhavā](manasambhavā)
 
 ## mukta-m0-p43-v1071
 [yoga](yoga) [paṭṭa](paṭṭa) [āvṛtaḥ](āvṛtaḥ) [abja](abja) [sthaḥ](sthaḥ) [kuṇḍikā](kuṇḍikā) [ca](ca) [akṣa](akṣa) [sūtra](sūtra) [bhṛt](bhṛt)
@@ -71,7 +71,7 @@
 [sudṛṣṭā](sudṛṣṭā) [jalpamānā](jalpamānā) [ca](ca) [sva](sva) [utsaṅge](utsaṅge) [putra](putra) [dhāriṇī](dhāriṇī)
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandana](nandana) [padma](padma) [stha](stha) [svāṅgā](svāṅgā) [devī](devī) [prakīrtitā](prakīrtitā)
+[padmā](padmā) [nandana](nandana) [padma](padma) [stha](stha) [svāṅga](svāṅga) [devī](devī) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basu](basu) [koka](koka) [kapi](kapi) [dvikṣa](dvikṣa) [vyāghra](vyāghra) [vyāghrāsya](vyāghrāsya) [kaṃ](kaṃ) [kramāt](kramāt)
+[basu](basu) [koka](koka) [kapi](kapi) [dvikṣa](dvikṣa) [vyāghra](vyāghra) [vyāghra](vyāghra) [āsya](āsya) [kaṃ](kaṃ) [kramāt](kramāt)
