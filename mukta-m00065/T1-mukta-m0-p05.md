@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-ityeteṣām (thus-of-these) abhāve (absence) tu (but) rasendraṃ (mercury) vajrasaṃyutam (diamond-joined)
+thus-of-these absence but mercury diamond-joined
 
 ## mukta-m0-p05-v102
-gavya (cow-derived) sarja (resin) yutaiḥ (joined) ca (and) eva (indeed) lepyaṃ (to-be-smeared) varṇaka (color) puṣṭaye (for-nourishment)
+with-cow-sarja and indeed anointing color-nourishment
 
 ## mukta-m0-p05-v103
-sadvāra (good-door) ṛkṣa (asterism) ṛtu (season) yuktena (joined) hi (indeed) cāru (beautiful) lagna (ascendant) samanvite (endowed)
+good-door-constellation-season-joined indeed beautiful-adhered-endowed
 
 ## mukta-m0-p05-v104
-divya (celestial) antarikṣa (atmospheric) bhaumāni (terrestrial) śubha (auspicious) aśubha (inauspicious) phala (fruit) āptaye (for-obtaining)
+divine-atmospheric-terrestrial auspicious-inauspicious-fruit-obtaining
 
 ## mukta-m0-p05-v105
-ityādi (etc) śubha (auspicious) kṛt (doing) divyam (celestial) atas (therefore) aśubha (inauspicious) karaṃ (causing) tu (but) idam (this)
+thus-etc auspicious-doing-divine therefore inauspicious-doing this
 
 ## mukta-m0-p05-v106
-digdāha (direction-burning) tīvra (fierce) vāta (wind) ca (and) candra (moon) sūrya (sun) upamardanam (affliction)
+direction-burning fierce-wind and moon-sun-eclipse
 
 ## mukta-m0-p05-v107
-vāsa (dwelling) vṛkṣa (tree) agra (top) saṃsthāyi (standing) bali (offering) bhuṅ (eating) madhura (sweet) ārutiḥ (cry)
+indra-tree-top-situated offering-eating sweet-sound
 
 ## mukta-m0-p05-v108
-pāṃśu (dust) asṛj (blood) varṣaṇaṃ (raining) ghora (terrible) āntarikṣa (atmospheric) aśobhana (inauspicious)
+dust-blood-raining terrible atmospheric inauspicious
 
 ## mukta-m0-p05-v109
-dadhi (curd) akṣata (unbroken-rice) yavā (barley) dūrvā (durva-grass) dīpa (lamp) gorocanā (cow-bile-pigment) dhvaja (banner)
+curd-akshata-barley durva lamp gorochana banner
 
 ## mukta-m0-p05-v110
-go (cow) vṛṣa (bull) ca (and) khara (donkey) vājī (horse) bhasma (ash) akṣa (eye) bhūpati (king) dvipa (elephant)
+cow-bull and donkey horse ash-eyed king elephant
 
 ## mukta-m0-p05-v111
-śiva (Shiva) śiva (Shiva) uda (water) kuṃbha (pot) sthaḥ (standing) kauśika (owl) vāmataḥ (from-left) śubha (auspicious)
+shiva shiva-water-pot-situated kushika left auspicious
 
 ## mukta-m0-p05-v112
-muktakesha (loose-haired) parākṣepa (throwing) kṣāra (alkali) aṅgāra (charcoal) ca (and) dāru (wood) ca (and)
+loose-haired throwing alkali charcoal and wood and
 
 ## mukta-m0-p05-v113
-chinna (cut) aṅga (limb) alocana (eyeless) rogī (diseased) kapālī (skull-bearer) bhū (earth) prakampana (trembling)
+cut-limbed eyeless diseased skull-bearer earth-tremor
 
 ## mukta-m0-p05-v114
-kṣut (hunger) kṣāma (emaciated) unmatta (mad) kau (two) tantu (thread) ca (and) auṣadhī (herb) iṣaṇa (desire) sañcaya (accumulation)
+hunger-thirst-mad two thread and herbs-search-collection
 
 ## mukta-m0-p05-v115
-pakṣa (fortnight) ardha (half) ardha (half) tu (but) saṃtyajya (abandoning) prasthāna (departure) kriyate (is-done) śubhe (auspicious)
+half-half indeed abandoning departure done auspicious
 
 ## mukta-m0-p05-v116
-veda (Veda) se (for) syāt (may-be) vite (wealth) yātā (traveler) tu (but) agni (fire) daṇḍa (staff) anatikramāt (not-transgressing)
+veda be two-goers indeed fire-staff-not-crossing
 
 ## mukta-m0-p05-v117
-iṣṭa (desired) ādau (beginning) śaṅkara (Shankara) śasta (praised) prāg (east) īśa (lord) indu (moon) vana (forest) vrajet (should-go)
+desired-beginning shankara praised east-ishendra-forest go
 
 ## mukta-m0-p05-v118
-budha (Mercury) arka (Sun) indu (Moon) site (Venus) jīve (Jupiter) vārkṣe (in-tree) prāg (east) uttara (north) sthite (placed)
+mercury-sun-moon-venus jupiter tree east-north-situated
 
 ## mukta-m0-p05-v119
-ekāntara (one-interval) tārā (star) su (good) śeṣe (remainder) ca (and) aniṣṭa (inauspicious) karmaṇi (action)
+one-interval stars remaining and inauspicious-action
 
 ## mukta-m0-p05-v120
-niṣadha (Nishadha) nīla (blue) gandha (fragrance) ākhya (named) śaṅgī (Shangi) ketu (Ketu) naga (mountain) adhipāḥ (lords)
+nishadha blue-scent-named shanki-ketu mountain-lords
 
 ## mukta-m0-p05-v121
-nanda (Nanda) ākhya (named) malaya (Malaya) vindhya (Vindhya) ujjayanta (Ujjayanta) atha (then) ṛkṣaka (bear)
+nanda-named malaya vindhya ujjayanta then rikshaka
 
 ## mukta-m0-p05-v122
-yojanāni (yojanas) daśa (ten) eteṣāṃ (of-these) girīṇāṃ (mountains) nikaṭe (near) vanam (forest)
+yojanas ten these mountains near forest
 
 ## mukta-m0-p05-v123
-etat (this) kṣetra (field) utthitā (risen) ye (those) tu (but) pāṣāṇāḥ (stones) taravaḥ (trees) śubhāḥ (auspicious)
+this-field-born who indeed stones trees auspicious
 
 ## mukta-m0-p05-v124
-sā (with) ācārya (teacher) sādhaka (adept) śilpi (artisan) janaiḥ (people) parivata (surrounded) śubhaiḥ (auspicious)
+with-teacher adept artisan-people surrounded auspicious
 
 ## mukta-m0-p05-v125
-dhyātvā (meditating) adhaḥ (below) prākṛta (material) tattva (principle) śiva (Shiva) tattva (principle) mayī (consisting) mahī (earth)
+meditating below material principle shiva-principle-made earth
