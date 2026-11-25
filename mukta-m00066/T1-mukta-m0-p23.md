@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ānanda-tantre](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](asmin) [catvāraḥ](catvāraḥ) [param](param) [īritāḥ](īritāḥ)
+[ānanda](ānaṃdataṃtre) [tantra](taṃtre) [ca](ca) [eva](eva) [asmin](asmin) [catvāraḥ](catvāraḥ) [param](param) [īritāḥ](īritāḥ)
 
 ## mukta-m0-p23-v552
 [tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
@@ -14,13 +14,13 @@
 [tathā](tathā) [tathā](tathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [ānanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [nanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
 
 ## mukta-m0-p23-v556
-[dvādaśa-ante](dvādaśāṃtagate) [gate](gate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
+[dvādaśa-antagate](dvādaśāṃtagate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[śiva-tva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
+[śivatva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
 
 ## mukta-m0-p23-v558
 [paśyan](paśyan) [pratyaṃga-maṃkūra-danam](pratyaṃgamaṃkūradanaṃ) [gottuṃga-mānasaḥ](gottuṃgamānasaḥ)
@@ -47,31 +47,31 @@
 [nakheṣu](nakheṣu) [śītāṃ](śītāṃ) [śu](śu) [kalā](kalā) [dor-mūle](dormmūle) [kuśa-devatāḥ](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sītkāra](sītkāra) [karmaṇi](karmaṇi)
+[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sīt](sīt) [kāra-karmaṇi](kāra karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala-ālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrāṃti](cittaviśrāṃti) [nāyakā](nāyakā)
+[amalālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrāṃti](cittaviśrāṃti) [nāyakā](nāyakā)
 
 ## mukta-m0-p23-v568
-[vāk-patiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpati](gīṣpati) [kāku-dhvani](kākudhvani) [au](au)
+[vākptiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpatī](gīṣpatī) [kāku-kādhvanau](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indraḥ](iṃdraḥ) [citta-samunnatyām](cittasamunnatyām) [agniḥ](agniḥ) [vastu](vastu) [grasīt](grasīt) [viṣi](viṣi)
+[iṃdraḥ](iṃdraś) [citta-samunnatyām](cittasamunnatyām) [agniḥ](agnir) [vastu](vastu) [grasīt](grasīt) [viṣi](viṣi)
 
 ## mukta-m0-p23-v570
-[hasta-ādi-cālane](hastādicālane) [yajñaḥ](yajñaḥ) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
+[hastādi-cālane](hastādicālane) [yajñaḥ](yajñaḥ) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lāsyaṃ](lāsyaṃ) [ca](ca) [tāṇḍavaṃ](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
+[lāsyaṃ](lāsyaṃ) [ca](ca) [tāṃḍavaṃ](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
 
 ## mukta-m0-p23-v572
 [tāni](tāni) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyā) [gaṃḍūṣa-vastuni](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat](tat) [phalam](phalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṃḍūṣa](sudhāgaṃḍūṣa) [sevanāt](sevanāt)
+[tat](tat) [phalaṃ](phalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṃḍūṣa](sudhāgaṃḍūṣa) [sevanāt](sevanāt)
 
 ## mukta-m0-p23-v574
-[gaṃḍūṣam](gaṃḍūṣam) [ādiram](ādiraṃ) [devī](devī) [vīrasya](vīrasya) [ānanda](ānaṃda) [varddhanam](varddhanam)
+[gaṃḍūṣam](gaṃḍūṣam) [ādiraṃ](ādiraṃ) [devī](devī) [vīrasya](vīrasya) [ānanda](ānaṃda) [varddhanam](varddhanam)
 
 ## mukta-m0-p23-v575
 [nitya-klinnā](nityaklinnā) [sudhā](sudhā) [devī](devī) [rati](rati) [prītiḥ](prītiḥ) [ca](ca) [tat](tat) [bhage](bhage)
