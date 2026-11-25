@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-rakshodvitaya-kumbhira sarpacakrasyaka bham
+[rakṣaḥ-dvitaya-kumbhīra](rakṣodvitayakumbhīra) [sarpa-cakra-āsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
+
 ## mukta-m0-p44-v1077
-ashvinau ca yamo vahni prajendrendu haro aditi
+[aśvinau](aśvinau) [ca](ca) [yamaḥ](yamo) [vahniḥ](vahniḥ) [prajā-indra-indu-haraḥ](prajendrenduharo) [aditiḥ](aditiḥ)
+
 ## mukta-m0-p44-v1078
-tvashtha vayu surendra agni mitrendrau yavat pampati
+[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendraḥ](surendro) [agniḥ](agnir) [mitra-indrau](mitrendrau) [yātu-dhām-patiḥ](yāvatpāmpatiḥ)
+
 ## mukta-m0-p44-v1079
-vishnu vasu raja eka adi pada ahirbudhna pushaka
+[viṣṇuḥ](viṣṇur) [vasuḥ](vasur) [aja-eka-ādi-pāda-ahi-budhna](ajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
+
 ## mukta-m0-p44-v1080
-puman gadi savina ca yoshitta nmithunam dhanu
+[pumān](pumān) [gadī](gadī) [sa-vīṇā](savīṇā) [ca](ca) [yoṣit](yoṣitta) [mithunaṃ](mithunaṃ) [dhanuḥ](dhanuḥ)
+
 ## mukta-m0-p44-v1081
-stri nau stholka asi bhrut kanya tula dhara nara tula
+[strī](strī) [nauḥ](naustholkāsibhṛtkanyā) [tulā-dhāraḥ](tulādhāro) [naraḥ](narastulā) [tulā](tulā)
+
 ## mukta-m0-p44-v1082
-mesa adya panca ca eva anye svanama tulya rupaka
+[meṣa-ādyāḥ](meṣādyāḥ) [pañca](pañca) [ca](ca) [eva](caivānye) [anya](anye) [sva-nāma-tulya-rūpakāḥ](svanāmatulyarūpakāḥ)
+
 ## mukta-m0-p44-v1083
-hema abha sa kirita ca devaraja sura avruta
+[hema-ābhaḥ](hemābhaḥ) [sa-kirīṭaḥ](sakirīṭaśca) [ca](ca) [deva-rājaḥ](devarājaḥ) [sura-āvṛtaḥ](surāvṛtaḥ)
+
 ## mukta-m0-p44-v1084
-chaga stha saksha sutra ugra saptarchi shakti dhara ka
+[chāga-sthaḥ](chāgasthaḥ) [sākṣa-sūtra-ugraḥ](sākṣasūtrograḥ) [sapta-arcis](saptārciḥ) [śakti-dhārakaḥ](śaktidhārakaḥ)
+
 ## mukta-m0-p44-v1085
-rakta hrid pasha bhrut krishna mahisha stha ugra duta van
+[rakta-hṛt-pāśa-bhṛt-kṛṣṇaḥ](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣa-sthaḥ](mahiṣasthogradūtavān) [ugra-dūtavān](ugradūtavān)
+
 ## mukta-m0-p44-v1086
-pun sthita khadga hasta ca nila abho rakshasa avruta
+[puṃ-sthita](puṃsthita) [khaḍga-hastaḥ](khaḍgahastaśca) [ca](ca) [nīla-ābhaḥ](nīlābho) [rākṣasa-āvṛtaḥ](rākṣasāvṛtaḥ)
+
 ## mukta-m0-p44-v1087
-sarva abharana samyukto varuna pita vastra bhrut
+[sarva-ābharaṇa-saṃyuktaḥ](sarvābharaṇasaṃyukto) [varuṇaḥ](varūṇaḥ) [pīta-vastra-bhṛt](pītavastrabhṛt)
+
 ## mukta-m0-p44-v1088
-rakta aksha rakta vasa ca mriga stha ankushi dhvaji
+[rakta-akṣaḥ](raktakṣo) [rakta-vāsaḥ](raktavāsaśca) [ca](ca) [mṛga-sthaḥ](mṛgasthaścaṅkuśī) [aṅkuśī](aṅkuśī) [dhvajī](dhvajī)
+
 ## mukta-m0-p44-v1089
-dhana isho varada karyo nana abharana mandita
+[dhana-īśaḥ](dhaneśo) [vara-daḥ](varadaḥ) [kāryaḥ](kāryo) [nānā-ābharaṇa-maṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
+
 ## mukta-m0-p44-v1090
-ishano ahi indu bhrut ca ete lokapala dvi bahava
+[īśānaḥ](īśāno) [ahi-indu-bhṛt](ahīndubhṛccaite) [ca](ca) [ete](ete) [loka-pālāḥ](lokapālā) [dvi-bāhavaḥ](dvibāhavaḥ)
+
 ## mukta-m0-p44-v1091
-vishvakarma sada gaura jnana mudra aksha sutra bhrut
+[viśvakarmā](viśvakarmā) [sadā](sadā) [gauraḥ](gauro) [jñāna-mudrā-akṣa-sūtra-bhṛt](jñānamudrākṣasūtrabhṛt)
+
 ## mukta-m0-p44-v1092
-alidha karana asaktam maha kayam subhishanam
+[ālīḍha-karaṇa-āsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahā-kāyaṃ](mahākāyaṃ) [su-bhīṣaṇam](subhīṣaṇam)
+
 ## mukta-m0-p44-v1093
-pita dhvaja dharam vame tarjanim va hrid agratah
+[pīta-dhvaja-dharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛt-agrataḥ](hṛdagrataḥ)
+
 ## mukta-m0-p44-v1094
-sampidya rakasan padbhyam muncan nadam marutsutam
+[saṃpīḍya](saṃpīḍya) [rākasaān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcan](muñcannādaṃ) [nādaṃ](nādaṃ) [marut-sutam](marutsutam)
+
 ## mukta-m0-p44-v1095
-skandha yaksha anvitah nityam kartavya yoshit anvitah
+[skandha-yakṣa-anvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣit-anvitāḥ](yoṣidanvitāḥ)
+
 ## mukta-m0-p44-v1096
-mala bhruto athava hrishtah kha stha vidyadhara sadah
+[mālā-bhṛtaḥ](mālābhṛto) [athavā](athavā) [hṛṣṭāḥ](hṛṣṭāḥ) [kha-sthāḥ](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
+
 ## mukta-m0-p44-v1097
-pinga varvara kesha ashva vetala vikrita ananah
+[piṅga-varvara-keśa-aśva](piṅgavarvara) [vetālāḥ](vetālā) [vikṛta-ānanāḥ](vikṛtānanāḥ)
+
 ## mukta-m0-p44-v1098
-kapala malina shula dhari kshetrapalaka
+[kapāla-mālinaḥ](kapālamālinaḥ) [śūla-dhāriṇaḥ](śūladhārīṇaḥ) [kṣetra-pālakāḥ](kṣetrapālakāḥ)
+
 ## mukta-m0-p44-v1099
-krisa mahodara preta khalu galla ca lomasha
+[kṛśāḥ](kṛśā) [mahā-udarāḥ](mahodarāḥ) [pretāḥ](pretā) [khalu-gallāḥ](gallāśca) [ca](ca) [lomaśāḥ](lomaśāḥ)
+
 ## mukta-m0-p44-v1100
-sva anga varna dhara sarva yathoktam brahmayamale
+[sva-aṅga-varṇa-dharāḥ](svāṅgavarṇadharāḥ) [sarvāḥ](sarvā) [yathā-uktaṃ](yathoktaṃ) [brahma-yāmale](brahmayāmale)

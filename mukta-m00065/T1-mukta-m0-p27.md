@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[with-seventeen-parts](sasaptadaśabhiś) [and](cāṃśaiḥ) [circumference](paridhiḥ) [would-be](syāt) [equal-parts](samāṃśake)
+with-seventeen-parts and-parts circumference would-be equal-parts
 
 ## mukta-m0-p27-v652
-[with-two-and-a-half-triangles](sārdhadvitribhujair) [viṣṇu](viṣṇuḥ) [with-one-foot-triangle](sāṅghryekatribhujair) [hara](haraḥ)
+with-one-and-half-three-arms viṣṇu with-feet-one-three-arms hara
 
 ## mukta-m0-p27-v653
-[in-barley-womb](yavagarbhe) [would-be](bhavet) [nourishment](puṣṭiḥ) [drink-food](pānānnaṃ) [belly-raised](jaṭharonnate)
+in-barley-womb nourishment drink-food belly-raised
 
 ## mukta-m0-p27-v654
-[equal-belly](samakukṣau) [fear](bhayaṃ) [would-destroy](hanyāt) [thick-root](sthūlamūle) [diseaselessness](tvarogatā)
+equal-belly fear destroy thick-root disease-free
 
 ## mukta-m0-p27-v655
-[in-depression](nimne) [and](ca) [plucked](luñcite) [would-do](kuryāt) [wealth-grain-destruction](dhanadhānyavināśanam)
+in-depression and-plucked cause wealth-grain destruction
 
 ## mukta-m0-p27-v656
-[with-holes](chidrānvitaṃ) [and](ca) [with-good-fortune](sadbhāyā) [forehead](lalāṭe) [depressed](nimnaka) [son](sutam)
+with-holes and-wife forehead depressed son
 
 ## mukta-m0-p27-v657
-[middle](madhye) [thin](kṛśaṃ) [and](ca) [for-grief](śokāya) [famine](dubhikṣam) [below](adhaḥ) [thin](kṛśam)
+middle thin grief scarcity-below thin
 
 ## mukta-m0-p27-v658
-[wounded-disease-increase](vraṇitāmayavṛddhiś) [and](ca) [famine](durbhikṣaṃ) [and](ca) [in-deep-pit](ātikoṭare)
+wounded-disease-increase scarcity and-in-navel
 
 ## mukta-m0-p27-v659
-[wealth-destroying](dhanaghnaṃ) [back-depressed](pṛṣṭhanimnaṃ) [would-be](syāt) [disease](rogaṃ) [side](pārśve) [and](tathā) [belly](udare)
+wealth-destroying back-depressed disease side and-belly
 
 ## mukta-m0-p27-v660
-[properly](samyak) [well-unwounded](sunirvraṇaṃ) [washed](dhautaṃ) [then](tadā) [marks](cinhāni) [observe](lakṣayet)
+properly unscarred washed then marks observe
 
 ## mukta-m0-p27-v661
-[crocodile-mirror-bow](makarādarśacāpobhiḥ) [garland-circle-gateway](srakkamaṇḍalutoraṇāḥ)
+crocodile-mirror-bow garland-circle-gateway
 
 ## mukta-m0-p27-v662
-[śrīvatsa-nandī-āvarta-chariot-garland-elephant-ornaments](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
+śrīvatsa-nandī-āvarta-chariot-garland-elephant-ornaments
 
 ## mukta-m0-p27-v663
-[peacock-feather-garment](mayūravājivāsobhiḥ) [tree-vajra-purifier](taruvajrapavitrakāḥ)
+peacock-feather-garments tree-vajra-purifiers
 
 ## mukta-m0-p27-v664
-[liṅga-limb](liṅgāṅge) [where](yatra) [there](tatra) [would-be](syāt) [king-realm-growth-giving](nṛparāṣṭravivṛddhidāḥ)
+linga-limb wherever there king-realm-growth-giving
 
 ## mukta-m0-p27-v665
-[skull-vulture-eagle-snake-hawk-crow-donkey-mouse](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
+skull-vulture-garuda-snake-hawk-crow-donkey-mouse
 
 ## mukta-m0-p27-v666
-[sacrificer-people-king](yajamānaprajārājñāṃ) [liṅga](liṅgaṃ) [fear-giving](bhīśa) [kadāyakam](kadāyakam)
+sacrificer-subjects-kings linga fear-giving
 
 ## mukta-m0-p27-v667
-[these](ete) [and](ca) [earthly](pārthivā) [colors](varṇā) [liṅga-marks](liṅgacinhāni) [for-prosperity](bhūtaye)
+these royal colors linga-marks prosperity
 
 ## mukta-m0-p27-v668
-[these](ete) [and](ca) [varuṇa](vāruṇā) [colors](varṇā) [people-life-wealth-gain-giving](prajāyurdhanalābhadāḥ)
+these varuṇa colors subjects-life-wealth-gain
 
 ## mukta-m0-p27-v669
-[āgneya](āgneyā) [fire-terror-famine-disease-increase](agnisantrāsadurbhikṣavyādhivardhanāḥ)
+āgneya fire-terror-famine-disease-increase
 
 ## mukta-m0-p27-v670
-[vāyavya](vāyavyā) [wind-terror-strife-speed-causing](vāyusantrāsakalahādvegakārakāḥ)
+vāyavya wind-terror-strife-speed-causing
 
 ## mukta-m0-p27-v671
-[in-means](sādhane) [and](ca) [three-liṅga](astriliṅgaṃ) [and](ca) [direction-liṅga](digliṅgaṃ) [and](ca) [indeed](eva) [will-be-spoken](vakṣyate)
+in-means three-linga and direction-linga will-be-spoken
 
 ## mukta-m0-p27-v672
-[triangular](tryasraṃ) [and](ca) [for-complete-success](aśeṣasiddhyarthaṃ) [vedic-triangular](vedāsraṃ) [and](ca) [desired-giving](epsitapradam)
+triangle all-success-purpose veda-corner desired-giving
 
 ## mukta-m0-p27-v673
-[seven-angled](saptāsraṃ) [hatred-causing](dveṣakṛt) [known](khyātam) [eight-angled](aṣṭāsraṃ) [fame-increasing](kīrtivardhanam)
+seven-corner hatred-causing known eight-corner fame-increasing
 
 ## mukta-m0-p27-v674
-[rudra-angled](rudrāsraṃ) [for-disease-increase](rogavṛddhyarthaṃ) [fear-destroying](bhayaghnaṃ) [twelve-angled](dvādaśāsrakam)
+rudra-corner disease-increase-purpose fear-destroying twelve-corner
 
 ## mukta-m0-p27-v675
-[tithi-angled](tithyasraṃ) [merit-causing](puṇyakṛt) [liṅga](liṅgaṃ) [transformation-angled](vikārāsraṃ) [happiness-giving](sukhapradam)
+tithi-corner merit-causing linga change-corner happiness-giving
