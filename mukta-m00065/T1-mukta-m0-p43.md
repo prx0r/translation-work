@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[vedāṃśa-pātanāt](vedāṃśapātanāt) [koṇa](koṇa) [marṭāśaiḥ](marṭāśaiḥ) [atha](atha) [kambalam](kambalam) [kandharam](kandharam)
+[veda-amsha-patana-at-kona](vedāṃśapātanātkoṇa) [marta-ashai-ratha-kambalam](marṭāśairatha) [kambalam](kambalam)
 
 ## mukta-m0-p43-v1052
-[tryaṃśa-praveśanāt](tryaṃśapraveśanāt) [kaṇṭhāt](kaṇṭhāt) [ekaika-nirgamaṃ](ekaikanirgamaṃ) [khuram](khuram)
+[trya-amsha-pravesha-nat-kantah-dekaika-nirgamam](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [khuram](khuram)
 
 ## mukta-m0-p43-v1053
-[ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [ca](ca) [eva](eva) [kuryāt](kuryāt) [śṛṅgāṇi](śṛṅgāṇi) [koṇataḥ](koṇataḥ)
+[ghanta-am](ghaṇṭāṃ) [ca](ca) [mekhala-am](mekhalāṃ) [ca-eva](caiva) [kuryat-shringani](kuryāchṛṅgāṇi) [konatah](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[prālambya-āsakta](prālambyāsakta) [revanta](revanta) [chatra-dhāra-ādibhiḥ](chatradhārādibhir) [yutaḥ](yutaḥ)
+[pralambya-asakta](prālambyāsakta) [revanta](revanta) [chatra-dhara-adibhih-yutah](śchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-[nānā-ratna-su-veśa-āḍhyāḥ](nānāratnasuveśāḍhyāḥ) [caṇḍa-tejāḥ](caṇḍatejāḥ) [svabhāva-jāḥ](svabhāvajāḥ)
+[nana-ratna-su-vesha-adhyah](nānāratnasuveśāḍhyā) [chanda-tejah](caṇḍatejāḥ) [svabhava-jah](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[somaṃ](somaṃ) [saumyaṃ](saumyaṃ) [tathā](tathā) [śvetaṃ](śvetaṃ) [kuṇḍikā-jāpya-mālinam](kuṇḍikājāpyamālinam)
+[somam](somaṃ) [saumyam](saumyaṃ) [tatha](tathā) [shvetam](śvetaṃ) [kundika-japyamalinam](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-[budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpa-pāṇinam](cāpapāṇinam)
+[budham](budhaṃ) [shyamam](śyāmaṃ) [yuvanam](yuvānaṃ) [ca](ca) [rupinam](rūpiṇaṃ) [capa-paninam](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[yāmya-eka-akṣaṃ](yāmyekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikā-mantra-mālikam](kuṇḍikāmantramālikam)
+[yamy-ekaksham](yāmyekākṣaṃ) [sitam](sitaṃ) [shukram](śukraṃ) [kundika-mantra-malikam](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-[vyāvṛtta-āsyaṃ](vyāvṛttāsyaṃ) [sahāsyaṃ](sahāsyaṃ) [ca](ca) [piṅga-bhrū-śmaśru-locanam](piṅgabhrūśmaśrulocanam)
+[vyavritta-asyam](vyāvṛttāsyaṃ) [sahasyam](sahāsyaṃ) [ca](ca) [pinga-bhru-shmashru-locanam](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[tri-phaṇaṃ](triphaṇaṃ) [dhūmra-varṇa-ābhaṃ](dhūmravarṇābhaṃ) [nara-nāga-ardha-rūpiṇam](naranāgārdharūpiṇam)
+[triphana](triphanaṃ) [dhumra-varna-abham](dhūmravarṇābhaṃ) [nara-naga-ardha-rupinam](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[etān](etān) [tu](tu) [dvi-bhujān](dvibhujān) [sarvān](sarvān) [bhūṣaṇa-ambara-saṃyutān](bhūṣaṇāmbarasaṃyutān)
+[etan-tu](etāṃstu) [dvibhujan-sarvan](dvibhujānsarvān) [bhushana-ambara-samyutan](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-[śakaṭaṃ](śakaṭaṃ) [medham](medham) [eteṣām](eteṣām) [adhaḥ](adhaḥ) [yānaṃ](yānaṃ) [kramāt](kramāt) [sadā](sadā)
+[shakatam](śakaṭaṃ) [medham-ete-sham-adho](medhameteṣāmadho) [yanam](yānaṃ) [kramat-sada](kramātsadā)
 
 ## mukta-m0-p43-v1063
-[sitaḥ](sitaḥ) [sahasra-bhogaḥ](sahasrabhogaḥ) [hīśvaraḥ](hīśvaraḥ) [kuvalaya-anvitaḥ](kuvalayānvitaḥ)
+[sitah](sitaḥ) [sahasra-bhogah](sahasrabhogo) [hishvarah](hīśvaraḥ) [kuvalaya-anvitah](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-[kṛṣṇaḥ](kṛṣṇaḥ) [karkoṭakaḥ](karkoṭakaḥ) [kaṇṭhe](kaṇṭhe) [śulka-rekhā-traya-anvitaḥ](śulkarekhātrayānvitaḥ)
+[krishnah](kṛṣṇaḥ) [karkotakah](karkoṭakaḥ) [kanthe](kaṇṭhe) [shulka-rekha-traya-anvitah](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-[śaṅkha-varṇaḥ](śaṅkhavarṇaḥ) [mahāpadmaḥ](mahāpadmaḥ) [mastake](mastake) [kṛṣṇa-śūla-dhṛk](kṛṣṇaśūladhṛk)
+[shankha-varno](śaṅkhavarṇo) [mahapadmo](mahāpadmo) [mastake](mastake) [krishna-shula-dhrik](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[kulikaḥ](kulikaḥ) [rakta-dehaḥ](raktadehaḥ) [tu](tu) [candra-ardha](candrārdha) [kṛta-mastakaḥ](kṛtamastakaḥ)
+[kuliko](kuliko) [rakta-dehah-tu](raktadehastu) [chandra-ardha](candrārdha) [krita-mastakah](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[akṣa-sūtra-dharāḥ](akṣasūtradharāḥ) [sarve](sarve) [kuṇḍikā-puccha-saṃyutāḥ](kuṇḍikāpucchasaṃyutāḥ)
+[aksha-sutra-dharah](akṣasūtradharāḥ) [sarve](sarve) [kundika-puccha-samyutah](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[bhṛtyāḥ](bhṛtyāḥ) [ca](ca) [eka-phaṇāḥ](ekaphaṇāḥ) [kāryāḥ](kāryāḥ) [tad-rūpāḥ](tadrūpāḥ) [maṇi-varjitāḥ](maṇivarjitāḥ)
+[bhirtyash-caika-phana-karyah](bhṛtyāścaikaphaṇāḥ) [tad-rupa](tadrūpā) [mani-varjitah](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[hāra-kuṇḍala-keyūraiḥ](hārakuṇḍalakeyūraiḥ) [sadā-bharaṇa-bhūṣitā](sadābharaṇabhūṣitā)
+[hara-kundala-keyuraih](hārakuṇḍalakeyūraiḥ) [sada-abharana-bhushita](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭha-manasambhavā](śrīkaṇṭhamanasambhavā)
+[idrishi](īdṛśī) [manasa](manasā) [karya](kāryā) [shri-kanttha-manasambhava](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[yoga-paṭṭa-āvṛtaḥ](yogapaṭṭāvṛtaḥ) [abja-sthaḥ](abjasthaḥ) [kuṇḍikā](kuṇḍikā) [ca](ca) [akṣa-sūtra-bhṛt](akṣasūtrabhṛt)
+[yoga-patta-avrito-abja-sthah](yogapaṭṭāvṛto'bjasthaḥ) [kundika](kuṇḍikā) [ca-aksha-sutra-bhrit](cākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[nānā-alaṅkāra-saṃyuktāv](nānālaṅkārasaṃyuktāv) [utpala-maṇi-bhṛt-karau](utpalamāṇibhṛtkarau)
+[nana-alankara-samyuktav-utpala-mani-bhrit-karau](nānālaṅkārasaṃyuktāvutpalamaṇi) [bhṛtkarau](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[sudṛṣṭā](sudṛṣṭā) [jalpamānā](jalpamānā) [ca](ca) [sva-utsaṅge](svotsaṅge) [putra-dhāriṇī](putradhāriṇī)
+[sudrishta](sudṛṣṭā) [jalpamana](jalpamānā) [ca](ca) [svotsange](svotsaṅge) [putra-dharini](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandana-padmastha](nandanapadmastha) [svāṅgā-devī](svāṅgādevī) [prakīrtitā](prakīrtitā)
+[padma](padmā) [nandana-padma-stha](nandanapadmastha) [svanga-devi](svāṅgādevī) [prakirtita](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-dvi-kṣa](basukokakapidvikṣa) [vyāghra-vyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
+[basu-koka-kapi-dvi-ksha](basukokakapidvikṣa) [vyaghra-vyaghra-asyakam](vyāghravyāghrāsyakaṃ) [kramat](kramāt)
