@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-atho=then sa=he eva=indeed mṛtpiṇḍaṃ=clay-lump kulāla-kara-varttanaiḥ=by-potter-hand-turnings
+[atho](atho) [sa](sa) [eva](eva) [mṛtpiṇḍaṃ](mṛtpiṇḍaṃ) [kulāla-kara-varttanaiḥ](kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-gabhīrite=in-deep madhyadeśe=middle-region tatraiva=there-indeed kuharīkṛtaḥ=hollowed
+[gabhīrite](gabhīrite) [madhya-deśe](madhyadeśe) [tatra-eva](tatraiva) [kuharī-kṛtaḥ](kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-kuṃbha=pot ityasya=thus-of śabdasya=word's vācyatām=denotation avagāhate=enters
+[kuṃbha](kuṃbha) [iti](iti) [asya](asya) [śabdasya](śabdasya) [vācyatām](vācyatām) [avagāhate](avagāhate)
 
 ## mukta-m0-p54-v1329
-bhūmau=on-ground viśīrṇa=broken sarvāṃgaḥ=all-limbed kāpālaugha=potsherd-mass tvamīhate=desires
+[bhūmau](bhūmau) [viśīrṇa](viśīrṇa) [sarvāṃgaḥ](sarvāṃgaḥ) [kāpāla-ogha](kāpālaugha) [tvam](tvam) [īhate](īhate)
 
 ## mukta-m0-p54-v1330
-kuṭṭitaḥ=pounded san=being prabhajate=breaks dhūliśabdasya=dust-word's vācyatām=denotation
+[kuṭṭitaḥ](kuṭṭitaḥ) [san](san) [prabhajate](prabhajate) [dhūli-śabdasya](dhūliśabdasya) [vācyatām](vācyatām)
 
 ## mukta-m0-p54-v1331
-śīrṇaśīrṇaḥ=broken-broken punar=again vegāt=by-speed tra=limb sareṇutvam=dust-ness icchati=desires
+[śīrṇa-śīrṇaḥ](śīrṇaśīrṇaḥ) [punar](punar) [vegāt](vegāt) [tra](tra) [sareṇu-tvam](sareṇutvam) [icchati](icchati)
 
 ## mukta-m0-p54-v1332
-atyaṃta=extremely sūkṣma=minute durlakṣā=hard-to-perceive ghūrṇate=whirls vāyumaṇḍale=in-wind-orb
+[atyaṃta](atyaṃta) [sūkṣma-durlakṣā](sūkṣmadurlakṣā) [ghūrṇate](ghūrṇate) [vāyu-maṇḍale](vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-anyonyaśabdanirvācyāḥ=mutually-word-unspeakable te=those āropāḥ=superimpositions prakīrttitāḥ=declared
+[anyonya-śabda-nirvācyāḥ](anyonyaśabdanirvācyāḥ) [te](te) [āropāḥ](āropāḥ) [prakīrttitāḥ](prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-tatrāropitarūpatvaṃ=there-superimposed-form-ness ghaṭādeḥ=of-pot-etc kārayan=causing budhaḥ=wise
+[tatra-āropita-rūpatvaṃ](tatrāropitarūpatvaṃ) [ghaṭa-ādeḥ](ghaṭādeḥ) [kārayan](kārayan) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p54-v1335
-guṇāntara=other-quality samāsaṃga=association mātrād=measure-only eva=indeed akathaṃ=how mṛdi=in-clay
+[guṇa-antara-samāsaṃga](guṇāntarasamāsaṃga) [mātrāt](mātrāt) [eva](eva) [kathaṃ](kathaṃ) [mṛdi](mṛdi)
 
 ## mukta-m0-p54-v1336
-vṛthā=vain tasya=his samāropaṃ=superimposition vṛthā=vain tasya=his punar=again layaḥ=dissolution
+[vṛthā](vṛthā) [tasya](tasya) [samāropaṃ](samāropaṃ) [vṛthā](vṛthā) [tasya](tasya) [punar](punar) [layaḥ](layaḥ)
 
 ## mukta-m0-p54-v1337
-īdṛśāḥ=such eva=indeed kalahe=in-dispute hetavaḥ=causes pratipāditāḥ=established
+[īdṛśāḥ](īdṛśā) [eva](eva) [kalahe](kalahe) [hetavaḥ](hetavaḥ) [pratipāditāḥ](pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-varṇātmakāḥ=sound-natured tu=indeed ye=which śabdāḥ=words tatra=there nityatvam=eternality ekakaḥ=one
+[varṇa-ātmakāḥ](varṇātmakāḥ) [tu](tu) [ye](ye) [śabdāḥ](śabdāḥ) [tatra](tatra) [nityatvam](nityatvam) [ekakaḥ](ekakaḥ)
 
 ## mukta-m0-p54-v1339
-ataḥ=therefore pravṛddhavairāṇāṃ=increased-enmity vādinām=of-disputants abhivalgatām=of-boasting
+[ataḥ](ataḥ) [pravṛddha-vairāṇāṃ](pravṛddhavairāṇāṃ) [vādinām](vādinām) [abhivalgatām](abhivalgatām)
 
 ## mukta-m0-p54-v1340
-prabhūtataradarpāṃdhāḥ=more-abundant-pride-blinded pāṇḍitya=scholarship grahadurdhiyām=planet-bad-intellects
+[prabhūtataradarpāṃdhāḥ](prabhūtataradarpāṃdhāḥ) [pāṇḍitya](pāṇḍitya) [graha-durdhiyām](grahadurdhiyām)
 
 ## mukta-m0-p54-v1341
-tadgaveṣaṇamārgeṇa=that-search-path tat=that samāna=same samādhinā=concentration
+[tat-gaveṣaṇa-mārgeṇa](tadgaveṣaṇamārgeṇa) [tat](tat) [samāna](samāna) [samādhinā](samādhinā)
 
 ## mukta-m0-p54-v1342
-viruddhabhāṣaṇe=contradictory-speech jāti=genus nigraha=refutation sthānakalpanaiḥ=place-inventions
+[viruddha-bhāṣaṇe](viruddhabhāṣaṇe) [jāti](jāti) [nigraha](nigraha) [sthāna-kalpanaiḥ](sthānakalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-paścātkope=after-anger sati=being galocchoṣakāraṇa=throat-drying-cause ghoṣaṇaiḥ=shoutings
+[paścāt](paścāt) [kope](kope) [sati](sati) [galocchoṣakāraṇa](galoccoṣakāraṇa) [ghoṣaṇaiḥ](ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-punar=again tena=by-that prakāreṇa=manner keśākeśi=hair-pulling kṛte=done raṇe=battle
+[punar](punar) [tena](tena) [prakāreṇa](prakāreṇa) [keśākeśi](keśākeśi) [kṛte](kṛte) [raṇe](raṇe)
 
 ## mukta-m0-p54-v1345
-pādāt=from-foot saṃvṛtavegānāṃ=concealed-speed vādināṃ=of-disputants dveṣaveśmasu=hatred-houses
+[pādāt](pādāt) [saṃvṛta-vegānāṃ](saṃvṛtavegānāṃ) [vādinām](vādinām) [dveṣa-veśmasu](dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-siddhāntitaiḥ=concluded ca=and svamanaḥ=own-mind śuddhaiḥ=pure anyaiḥ=others ca=and ninditaiḥ=blamed
+[siddhāntitaiḥ](siddhāntitaiḥ) [ca](ca) [sva-manaḥ](svamanaḥ) [śuddhaiḥ](śuddhaiḥ) [anyaiḥ](anyaiḥ) [ca](ca) [ninditaiḥ](ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-vyāmūḍhān=confused kurvatām=making eṣa=this teṣāṃ=their panthān= path iraṅkuśaḥ=unrestrained
+[vyāmūḍhān](vyāmūḍhān) [kurvatām](kurvatām) [eṣa](eṣa) [teṣāṃ](teṣāṃ) [panthānir](panthānir) [aṅkuśaḥ](aṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-pramāṇāṃdhāḥ=proof-blind ṣoḍaśa=sixteen ay=indeed padārthaiḥ=categories taiḥ=by-those mahākālīḥ=great-Kali
+[pramāṇāṃdhāḥ](pramāṇāṃdhāḥ) [ṣoḍaśāye](ṣoḍaśāye) [padārthaiḥ](padārthaiḥ) [taiḥ](taiḥ) [mahākālīḥ](mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-kalahaḥ=dispute kevalaṃ=only tatra=there duḥsamāpa=hard-to-end śaracchataiḥ=arrow-hundreds
+[kalahaḥ](kalahaḥ) [kevalaṃ](kevalaṃ) [tatra](tatra) [duḥsamāpa-śaracchataiḥ](duḥsamāpaśaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-saṃprāptirūpaḥ=attainment-form bhavitā=will-be tadā=then vāmena=by-left nirṇayaḥ=decision
+[saṃprāpti-rūpo](saṃprāptirūpo) [bhavitā](bhavitā) [tadā](tadā) [vāmena](vāmena) [nirṇayaḥ](nirṇayaḥ)
