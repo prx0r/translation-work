@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "anaṃgaśaktayoṣṭau",
-"quick_gloss": "love-power+eight"
+"quick_gloss": "desire-powers-eight"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "pūjanīyā",
-"quick_gloss": "worshipful"
+"quick_gloss": "worship-worthy"
 },
 {
 "surface": "manīṣibhiḥ",
@@ -33,15 +33,15 @@
 "tokens": [
 {
 "surface": "anaṃgamadanānaṃga",
-"quick_gloss": "love+madana+love"
+"quick_gloss": "desire-god-desire"
 },
 {
 "surface": "madanāturayā",
-"quick_gloss": "with-madana-afflicted"
+"quick_gloss": "with-desire-afflicted"
 },
 {
 "surface": "saha",
-"quick_gloss": "with"
+"quick_gloss": "together"
 }
 ]
 },
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "anaṃgamālinī",
-"quick_gloss": "love-garlanded"
+"quick_gloss": "desire-garlanded"
 },
 {
 "surface": "ca",
@@ -66,11 +66,11 @@
 },
 {
 "surface": "pūjanīyā",
-"quick_gloss": "worshipful"
+"quick_gloss": "worship-worthy"
 },
 {
 "surface": "vidhānataḥ",
-"quick_gloss": "according-to-rite"
+"quick_gloss": "by-rite"
 }
 ]
 },
@@ -83,7 +83,7 @@
 "tokens": [
 {
 "surface": "ānaṃdacakramānaṃda",
-"quick_gloss": "bliss-wheel+bliss"
+"quick_gloss": "bliss-wheel-bliss"
 },
 {
 "surface": "kolāhalavivarddhanam",
@@ -104,11 +104,11 @@
 },
 {
 "surface": "samullāsapiṃjaraiḥ",
-"quick_gloss": "shining-yellow"
+"quick_gloss": "shining-cage"
 },
 {
 "surface": "kāmaraśmibhiḥ",
-"quick_gloss": "with-love-rays"
+"quick_gloss": "with-desire-rays"
 }
 ]
 },
@@ -120,12 +120,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anaṃgaśakti+saṃkṣobhāṃ",
-"quick_gloss": "love-power+agitation"
+"surface": "anaṃgaśakti",
+"quick_gloss": "desire-power"
 },
 {
-"surface": "nāḍībhyogalitaṃ",
-"quick_gloss": "from-channels+flowing"
+"surface": "saṃkṣobhāṃ",
+"quick_gloss": "agitation"
+},
+{
+"surface": "nāḍībhyaḥ",
+"quick_gloss": "from-channels"
+},
+{
+"surface": "galitaṃ",
+"quick_gloss": "flowing"
 },
 {
 "surface": "navam",
@@ -142,7 +150,7 @@
 "tokens": [
 {
 "surface": "śṛṃgāravāhinīpūra",
-"quick_gloss": "love-stream+full"
+"quick_gloss": "erotic-stream-full"
 },
 {
 "surface": "pūrṇarāgāṃ",
@@ -163,11 +171,15 @@
 "tokens": [
 {
 "surface": "manmathadrava+saṃdoha",
-"quick_gloss": "love-fluid+abundance"
+"quick_gloss": "love-fluid-abundance"
 },
 {
-"surface": "juṣṭamarthaprabhedanaiḥ",
-"quick_gloss": "endowed-with-meaning-distinctions"
+"surface": "juṣṭam",
+"quick_gloss": "endowed-with"
+},
+{
+"surface": "arthaprabhedanaiḥ",
+"quick_gloss": "meaning-distinctions"
 }
 ]
 },
@@ -213,11 +225,11 @@
 },
 {
 "surface": "kāmakalānāma",
-"quick_gloss": "love-digit-named"
+"quick_gloss": "desire-digit-named"
 },
 {
 "surface": "nāḍībhogāṃbuvāhinī",
-"quick_gloss": "channel-enjoyment+water-bearing"
+"quick_gloss": "channel-enjoyment-water-carrying"
 }
 ]
 },
@@ -262,24 +274,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāścid",
-"quick_gloss": "some"
-},
-{
-"surface": "ānaṃdavāhinya",
-"quick_gloss": "bliss-bearing"
+"surface": "kāścidānaṃdavāhinya",
+"quick_gloss": "some-bliss-carrying"
 },
 {
 "surface": "eka",
-"quick_gloss": "one"
+"quick_gloss": "one-only"
 },
 {
 "surface": "evam",
 "quick_gloss": "thus"
 },
 {
-"surface": "malavāhinī",
-"quick_gloss": "impurity-bearing"
+"surface": "alavāhinī",
+"quick_gloss": "impurity-carrying"
 }
 ]
 },
@@ -292,19 +300,15 @@
 "tokens": [
 {
 "surface": "aṣṭaubhogāṃbuvāhinyaḥ",
-"quick_gloss": "eight+enjoyment+water-bearing"
+"quick_gloss": "eight-enjoyment-water-carrying"
 },
 {
 "surface": "tāsu",
-"quick_gloss": "in-them"
+"quick_gloss": "among-them"
 },
 {
-"surface": "caṃdrakalā",
-"quick_gloss": "moon-digit"
-},
-{
-"surface": "parā",
-"quick_gloss": "supreme"
+"surface": "caṃdrakalā+parā",
+"quick_gloss": "moon-digit-supreme"
 }
 ]
 },
@@ -342,7 +346,7 @@
 "tokens": [
 {
 "surface": "etābhogāṃbuvāhinya",
-"quick_gloss": "these+enjoyment+water-bearing"
+"quick_gloss": "these-enjoyment-water-carrying"
 },
 {
 "surface": "svāṃśaiḥ",
@@ -350,7 +354,7 @@
 },
 {
 "surface": "caṃdrakalāśritāḥ",
-"quick_gloss": "moon-digit+resorting"
+"quick_gloss": "moon-digit-dependent"
 }
 ]
 },
@@ -363,7 +367,7 @@
 "tokens": [
 {
 "surface": "pradhānabhūtā",
-"quick_gloss": "principal"
+"quick_gloss": "principal-being"
 },
 {
 "surface": "vilasad",
@@ -388,7 +392,7 @@
 "tokens": [
 {
 "surface": "sarvanāḍīmūlabhūtaṃ",
-"quick_gloss": "all-channels+root"
+"quick_gloss": "all-channels-root"
 },
 {
 "surface": "nābhicakraṃ",
@@ -396,7 +400,7 @@
 },
 {
 "surface": "samāśritā",
-"quick_gloss": "resorting"
+"quick_gloss": "resorted"
 }
 ]
 },
@@ -409,7 +413,7 @@
 "tokens": [
 {
 "surface": "tanmukhot+ghāṭanaṃ",
-"quick_gloss": "that+mouth+opening"
+"quick_gloss": "its-mouth-opening"
 },
 {
 "surface": "loke",
@@ -421,7 +425,7 @@
 },
 {
 "surface": "parameśvari",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "supreme-lady"
 }
 ]
 },
@@ -433,24 +437,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvitrāṇāmeva",
+"surface": "dvitrāṇām",
 "quick_gloss": "of-two-three"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "jāyeta",
-"quick_gloss": "would-be-born"
+"quick_gloss": "arises"
 },
 {
 "surface": "sahasreṣu",
 "quick_gloss": "among-thousands"
 },
 {
-"surface": "atha",
-"quick_gloss": "then"
-},
-{
-"surface": "kauliṣu",
-"quick_gloss": "kaulikas"
+"surface": "athakauliṣu",
+"quick_gloss": "then-kaulikas"
 }
 ]
 },
@@ -467,7 +471,7 @@
 },
 {
 "surface": "liṃgesvarāseka",
-"quick_gloss": "linga-lord+union"
+"quick_gloss": "linga-lord-union"
 },
 {
 "surface": "sakṛt",
@@ -492,15 +496,19 @@
 "tokens": [
 {
 "surface": "anirvācyasya",
-"quick_gloss": "of-ineffable"
+"quick_gloss": "ineffable"
 },
 {
 "surface": "nirvāṇa",
 "quick_gloss": "liberation"
 },
 {
-"surface": "padavīnadaviyasī",
-"quick_gloss": "path+space"
+"surface": "padavī",
+"quick_gloss": "path"
+},
+{
+"surface": "nadaviyasī",
+"quick_gloss": "unattainable"
 }
 ]
 },
@@ -521,11 +529,11 @@
 },
 {
 "surface": "upacārasya",
-"quick_gloss": "of-worship"
+"quick_gloss": "from-attendance"
 },
 {
 "surface": "kalpanāt",
-"quick_gloss": "by-imagination"
+"quick_gloss": "conception"
 }
 ]
 },
@@ -550,7 +558,7 @@
 },
 {
 "surface": "mukhodghāṭanalakṣaṇam",
-"quick_gloss": "mouth-opening+mark"
+"quick_gloss": "mouth-opening-mark"
 }
 ]
 },
@@ -562,16 +570,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadarthānyeva",
-"quick_gloss": "for-that+purpose"
+"surface": "tadartha",
+"quick_gloss": "for-that"
+},
+{
+"surface": "eva",
+"quick_gloss": "only"
 },
 {
 "surface": "śāstrāṇi",
 "quick_gloss": "scriptures"
 },
 {
-"surface": "tadarthāśca",
-"quick_gloss": "for-that+purpose"
+"surface": "tadartha",
+"quick_gloss": "for-that"
+},
+{
+"surface": "ca",
+"quick_gloss": "also"
 },
 {
 "surface": "pravṛttayaḥ",
@@ -592,11 +608,11 @@
 },
 {
 "surface": "caṃdrakalānāḍyāṃ",
-"quick_gloss": "moon-digit+channel"
+"quick_gloss": "moon-digit-channel"
 },
 {
 "surface": "bhogāmṛtamahodadhim",
-"quick_gloss": "enjoyment-nectar+great-ocean"
+"quick_gloss": "enjoyment-nectar-great-ocean"
 }
 ]
 }
