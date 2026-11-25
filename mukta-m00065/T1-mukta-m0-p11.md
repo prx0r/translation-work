@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[pada](karoṭaṃ) [pada](muṇḍamālaṃ) [pada](ca) [pada](kaṅkoṭaṃ) [pada](khaḍgarāvaṇam)
+[skull-bowl](karoṭaṃ) [garland-of-skulls](muṇḍamālaṃ) [and](ca) [snake-noose](kaṅkoṭaṃ) [sword-roar](khaḍgarāvaṇam)
+
 ## mukta-m0-p11-v252
-[pada](ghorāṭṭahāsamucchiṣṭaṃ) [pada](ghurghuraṃ) [pada](duṣṭatrāsakam)
+[terrible-laugh](ghorāṭṭahāsam) [leftover](ucchiṣṭaṃ) [growling](ghurghuraṃ) [fear-causing](duṣṭatrāsakam)
+
 ## mukta-m0-p11-v253
-[pada](yamaghaṇṭaṃ) [pada](ca) [pada](bhūtāhvaṃ) [pada](viṣabhedamajātajam)
+[yama-bell](yamaghaṇṭaṃ) [and](ca) [spirit-invocation](bhūtāhvaṃ) [poison-distinction](viṣabhedam) [unborn-born](ajātajam)
+
 ## mukta-m0-p11-v254
-[pada](punarlakṣavibhedana) [pada](grabhinnaḥ) [pada](śāstrasaṅgrahaḥ)
+[again-laksha-division](punarlakṣavibhedana) [broken](grabhinnaḥ) [scripture-collection](śāstrasaṅgrahaḥ)
+
 ## mukta-m0-p11-v255
-[pada](ṛṣibhyo) [pada](mānuṣāḥ) [pada](śiṣyāḥ) [pada](sarvaśāstrāvatārakāḥ)
+[from-sages](ṛṣibhyo) [humans](mānuṣāḥ) [disciples](śiṣyāḥ) [all-scripture-descenders](sarvaśāstrāvatārakāḥ)
+
 ## mukta-m0-p11-v256
-[pada](iti) [pada](sāmayikaṃ) [pada](proktaṃ) [pada](śambhunāgamapañcakam)
+[thus](iti) [conventional](sāmayikaṃ) [spoken](proktaṃ) [by-shambhu-five-serpents](śambhunāgamapañcakam)
+
 ## mukta-m0-p11-v257
-[pada](ekatrabhojanaṃ) [pada](ghore) [pada](vāme) [pada](vāmāmṛtaṃ) [pada](tathā)
+[single-vessel-eating](ekatrabhojanaṃ) [terrible](ghore) [left](vāme) [left-nectar](vāmāmṛtaṃ) [thus](tathā)
+
 ## mukta-m0-p11-v258
-[pada](ācaret) [pada](samayān) [pada](pañca) [pada](yaḥ) [pada](sa) [pada](ācārya) [pada](ucyate)
+[should-practice](ācaret) [five-vows](samayān+pañca) [who](yaḥ) [that](saḥ) [teacher](ācāryaḥ) [called](ucyate)
+
 ## mukta-m0-p11-v259
-[pada](tadavaśyaṃ) [pada](hi) [pada](kartavyamanyathā) [pada](patanaṃ) [pada](bhavet)
+[that](tad) [necessary](avaśyaṃ) [indeed](hi) [to-be-done](kartavyam) [otherwise](anyathā) [fall](patanaṃ) [becomes](bhavet)
+
 ## mukta-m0-p11-v260
-[pada](ṣaṭkarmāṇi) [pada](tu) [pada](kāryāṇi) [pada](śivācāryeṇa) [pada](no) [pada](paraiḥ)
+[six-rites](ṣaṭkarmāṇi) [indeed](tu) [to-be-done](kāryāṇi) [by-shiva-teacher](śivācāryeṇa) [not](no) [by-others](paraiḥ)
+
 ## mukta-m0-p11-v261
-[pada](dīkṣāṃ) [pada](ca) [pada](sthāpanaṃ) [pada](ceti) [pada](ṣaṭkarmāṇi) [pada](sadā) [pada](guroḥ)
+[initiation](dīkṣāṃ) [and](ca) [installation](sthāpanaṃ) [thus](ceti) [six-rites](ṣaṭkarmāṇi) [always](sadā) [of-teacher](guroḥ)
+
 ## mukta-m0-p11-v262
-[pada](krośān) [pada](pañca) [pada](parityajya) [pada](gurvādeśāttadācaret)
+[leagues](krośān) [five](pañca) [abandoning](parityajya) [by-teacher-command](gurvādeśāt) [then](tadā) [should-do](ācaret)
+
 ## mukta-m0-p11-v263
-[pada](sādhakaḥ) [pada](sādhayetsiddhirācāryo) [pada](dīkṣayetpaśūn)
+[practitioner](sādhakaḥ) [should-accomplish](sādhayet) [perfection](siddhiḥ) [teacher](ācāryaḥ) [should-initiate](dīkṣayet) [beasts](paśūn)
+
 ## mukta-m0-p11-v264
-[pada](pratiṣṭhādikriyā) [pada](tasya) [pada](na) [pada](pāṭhādagra) [pada](janmanaḥ)
+[installation-etc-rite](pratiṣṭhādikriyā) [of-him](tasya) [not](na) [from-recitation-only](pāṭhādagra) [birth](janmanaḥ)
+
 ## mukta-m0-p11-v265
-[pada](yuktiḥ) [pada](saṃsūcyate) [pada](kācidyā) [pada](coktā) [pada](pārameśvare)
+[reasoning](yuktiḥ) [is-indicated](saṃsūcyate) [some](kācid) [which](yā) [spoken](uktā) [in-parameshvara](pārameśvare)
+
 ## mukta-m0-p11-v266
-[pada](nāśmādau) [pada](śivatā) [pada](tatra) [pada](hyāṃśave) [pada](dūrataḥ) [pada](śivaḥ)
+[not](nā) [from-stone-etc](śmādau) [shivahood](śivatā) [there](tatra) [indeed](hi) [in-ray](āṃśave) [far](dūrataḥ) [shiva](śivaḥ)
+
 ## mukta-m0-p11-v267
-[pada](cāṇḍālo'sāvabhojyānnaḥ) [pada](pātakī) [pada](nātra) [pada](saṃśayaḥ)
+[untouchable](cāṇḍālo) [that](asau) [inedible-food](abhojyānnaḥ) [sinner](pātakī) [not](nātra) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p11-v268
-[pada](anyagotre) [pada](kuśā) [pada](pātānnārakī) [pada](syād) [pada](dvijādhamaḥ)
+[other-gotra](anyagotre) [kusha](kuśā) [fall](pātāt) [hell-dweller](nārakī) [would-be](syād) [twice-born-lowest](dvijādhamaḥ)
+
 ## mukta-m0-p11-v269
-[pada](liṅgādisthāpakā) [pada](ye) [pada](ca) [pada](te) [pada](cāṇḍālasamā) [pada](dvijāḥ)
+[linga-etc-installer](liṅgādisthāpakā) [those](ye) [and](ca) [those](te) [untouchable-equal](cāṇḍālasamā) [twice-born](dvijāḥ)
+
 ## mukta-m0-p11-v270
-[pada](mantavyo) [pada](vipravacchūdraḥ) [pada](śūdrātpāpatarastu) [pada](saḥ)
+[should-be-considered](mantavyo) [brahmin-like](vipravat) [shudra](śūdraḥ) [from-shudra](śūdrāt) [more-sinful](pāpatarastu) [that](saḥ)
+
 ## mukta-m0-p11-v271
-[pada](vṛttātsiddhā) [pada](vasiṣṭhādyā) [pada](vyāsenoktaṃ) [pada](ca) [pada](bhārate)
+[by-conduct](vṛttāt) [perfected](siddhā) [vasishtha-etc](vasiṣṭhādyā) [by-vyasa](vyāsenoktaṃ) [and](ca) [in-bharata](bhārate)
+
 ## mukta-m0-p11-v272
-[pada](narake) [pada](patati) [pada](kṣipraṃ) [pada](kartā) [pada](svapitṛbhiḥ) [pada](saha)
+[into-hell](narake) [falls](patati) [quickly](kṣipraṃ) [doer](kartā) [with-ancestors](svapitṛbhiḥ) [with](saha)
+
 ## mukta-m0-p11-v273
-[pada](svabrāhmaṇyaṃ) [pada](gataṃ) [pada](teṣāṃ) [pada](brahmahatyāṃ) [pada](ca) [pada](saṃsthitam)
+[own-brahminhood](svabrāhmaṇyaṃ) [gone](gataṃ) [their](teṣāṃ) [brahmin-killing](brahmahatyāṃ) [and](ca) [established](saṃsthitam)
+
 ## mukta-m0-p11-v274
-[pada](te) [pada](krūrā) [pada](dhvaṃsakā) [pada](jñeyā) [pada](yajamānakṣayāvahāḥ)
+[those](te) [cruel](krūrā) [destroyers](dhvaṃsakā) [to-be-known](jñeyā) [sacrificer-destruction-causing](yajamānakṣayāvahāḥ)
+
 ## mukta-m0-p11-v275
-[pada](dānārcanādyanarhaḥ) [pada](syādvinaṣṭā) [pada](brāhmaṇī) [pada](yathā)
+[gift-worship-etc-unworthy](dānārcanādyanarhaḥ) [would-be](syād) [destroyed](vinaṣṭā) [brahmin-woman](brāhmaṇī) [as](yathā)
