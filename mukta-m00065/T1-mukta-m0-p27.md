@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-with-seventeen-parts+and [sasaptadaśabhiḥ] circumference [paridhiḥ] would-be [syāt] equal-parts [samāṃśake]
+sasaptadaśabhiḥ (with-seventeen) cāṃśaiḥ (and-parts) paridhiḥ (circumference) syāt (should-be) samāṃśake (in-equal-parts)
 
 ## mukta-m0-p27-v652
-with-two-and-half-triangles [sārdhadvitribhujaiḥ] viṣṇu [viṣṇuḥ] with-one-triangle-foot [sāṅghryekatribhujaiḥ] hara [haraḥ]
+sārdhadvitribhujaiḥ (with-half-two-triangles) viṣṇuḥ (viṣṇu) sāṅghryekatribhujaiḥ (with-foot-one-triangle) haraḥ (hara)
 
 ## mukta-m0-p27-v653
-in-barley-womb [yavagarbhe] becomes-nourishment [bhavetpuṣṭiḥ] drink-food [pānānnaṃ] belly-raised [jaṭharonnate]
+yavagarbhe (in-barley-womb) bhavet (should-be) puṣṭiḥ (nourishment) pānānnaṃ (drink-food) jaṭharonnate (in-raised-belly)
 
 ## mukta-m0-p27-v654
-equal-belly [samakukṣau] fear [bhayaṃ] destroys [hanyāt] thick-root [sthūlamūle] then-health [tvarogatā]
+samakukṣau (in-even-belly) bhayaṃ (fear) hanyāt (destroys) sthūlamūle (at-thick-root) tvarogatā (quick-health)
 
 ## mukta-m0-p27-v655
-in-depression [nimne] and [ca] plucked [luñcite] makes [kuryāt] wealth-grain-destruction [dhanadhānyavināśanam]
+nimne (in-depression) ca (and) luñcite (in-plucked) kuryāt (makes) dhanadhānyavināśanam (wealth-grain-destruction)
 
 ## mukta-m0-p27-v656
-hole-endowed [chidrānvitaṃ] and [ca] good-wife [sadbhāyā] forehead [lalāṭe] depressed [nimnaka] son [sutam]
+chidrānvitaṃ (with-holes) ca (and) sadbhāyā (with-good-wife) lalāṭe (on-forehead) nimnaka (depressed) sutam (son)
 
 ## mukta-m0-p27-v657
-middle [madhye] thin [kṛśaṃ] and [ca] for-grief [śokāya] famine-below [dubhikṣadamadhaḥ] thin [kṛśam]
+madhye (in-middle) kṛśaṃ (thin) ca (and) śokāya (for-grief) dubhikṣadam (famine-giving) adhaḥ (below) kṛśam (thin)
 
 ## mukta-m0-p27-v658
-wound-disease-increase [vraṇitāmayavṛddhiḥ] and [ca] famine [durbhikṣaṃ] and [ca] in-deep-navel [ātikoṭare]
+vraṇitāmayavṛddhiḥ (wound-disease-increase) ca (and) durbhikṣaṃ (famine) cātikoṭare (in-deep-navel)
 
 ## mukta-m0-p27-v659
-wealth-destroying [dhanaghnaṃ] back-depressed [pṛṣṭhanimnaṃ] would-be [syāt] disease [rogaṃ] side [pārśve] and [tathā] belly [udare]
+dhanaghnaṃ (wealth-destroying) pṛṣṭhanimnaṃ (back-depressed) syāt (should-be) rogaṃ (disease) pārśve (on-side) tathā (and) udare (in-belly)
 
 ## mukta-m0-p27-v660
-well [samyak] fully-unwounded [sunirvraṇaṃ] washed [dhautaṃ] then [tadā] marks [cinhāni] should-observe [lakṣayet]
+samyak (properly) sunirvraṇaṃ (well-healed) dhautaṃ (washed) tadā (then) cinhāni (marks) lakṣayet (should-observe)
 
 ## mukta-m0-p27-v661
-crocodile-mirror-bow [makarādarśacāpaiḥ] garland-circle-gateway [srakkamaṇḍalutoraṇāḥ]
+makarādarśacāpobhiḥ (with-crocodile-mirror-bow) srakkamaṇḍalutoraṇāḥ (garland-circle-gateways)
 
 ## mukta-m0-p27-v662
-śrīvatsa-nandī-āvarta-chariot-garland-elephant-ornaments [śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ]
+śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ (with-śrīvatsa-nandī-āvarta-chariot-garland-elephant-ornaments)
 
 ## mukta-m0-p27-v663
-peacock-feather-garment [mayūravājivāsobhiḥ] tree-vajra-purifier [taruvajrapavitrakāḥ]
+mayūravājivāsobhiḥ (with-peacock-feather-garments) taruvajrapavitrakāḥ (tree-vajra-purifiers)
 
 ## mukta-m0-p27-v664
-linga-limb [liṅgāṅge] where [yatra] there [tatra] would-be [syāt] king-realm-growth-giving [nṛparāṣṭravivṛddhidāḥ]
+liṅgāṅge (on-limb-mark) yatra (where) tatra (there) syāt (should-be) nṛparāṣṭravivṛddhidāḥ (king-realm-growth-giving)
 
 ## mukta-m0-p27-v665
-skull-heron-vulture-snake-hawk-crow-donkey-rat [karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ]
+karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ (with-skull-heron-vulture-snake-hawk-crow-donkey-rat)
 
 ## mukta-m0-p27-v666
-sacrificer-people-kings [yajamānaprajārājñāṃ] linga [liṅgaṃ] fear [bhī] sometimes-giving [kadāyakam]
+yajamānaprajārājñāṃ (of-sacrificer-people-kings) liṅgaṃ (mark) bhīśa (fear) kadāyakam (giving)
 
 ## mukta-m0-p27-v667
-these [ete] and [ca] earthly [pārthivā] colors [varṇā] linga-marks [liṅgacinhāni] for-prosperity [bhūtaye]
+ete (these) ca (and) pārthivā (earthly) varṇā (colors) liṅgacinhāni (mark-signs) bhūtaye (for-prosperity)
 
 ## mukta-m0-p27-v668
-these [ete] and [ca] varuṇa-colors [vāruṇā varṇā] people-life-wealth-gain-giving [prajāyurdhanalābhadāḥ]
+ete (these) ca (and) vāruṇā (watery) varṇā (colors) prajāyurdhanalābhadāḥ (progeny-life-wealth-gain-giving)
 
 ## mukta-m0-p27-v669
-fiery [āgneyā] fire-terror-famine-disease-increasing [agnisantrāsadurbhikṣavyādhivardhanāḥ]
+āgneyā (fiery) agnisantrāsadurbhikṣavyādhivardhanāḥ (fire-terror-famine-disease-increasing)
 
 ## mukta-m0-p27-v670
-airy [vāyavyā] wind-terror-strife-speed-causing [vāyusantrāsakalahādvegakārakāḥ]
+vāyavyā (airy) vāyusantrāsakalahādvegakārakāḥ (wind-terror-quarrel-speed-causing)
 
 ## mukta-m0-p27-v671
-in-ritual [sādhane] and [ca] three-linga [astriliṅgaṃ] and [ca] direction-linga [digliṅgaṃ] and-indeed [caiva] will-be-spoken [vakṣyate]
+sādhane (in-fulfillment) cāstriliṅgaṃ (three-mark) ca (and) digliṅgaṃ (direction-mark) caiva (and-indeed) vakṣyate (will-be-said)
 
 ## mukta-m0-p27-v672
-three-cornered [tryasraṃ] and [ca] for-complete-success [aśeṣasiddhyarthaṃ] four-cornered [vedāsraṃ] and [ca] desired-giving [cepsitapradam]
+tryasraṃ (three-cornered) cāśeṣasiddhyarthaṃ (for-complete-accomplishment) vedāsraṃ (four-cornered) cepsitapradam (desired-giving)
 
 ## mukta-m0-p27-v673
-seven-cornered [saptāsraṃ] hatred-making [dveṣakṛt] known [khyātam] eight-cornered [aṣṭāsraṃ] fame-increasing [kīrtivardhanam]
+saptāsraṃ (seven-cornered) dveṣakṛtkhyātam (hatred-making-known) aṣṭāsraṃ (eight-cornered) kīrtivardhanam (fame-increasing)
 
 ## mukta-m0-p27-v674
-rudra-cornered [rudrāsraṃ] for-disease-increase [rogavṛddhyarthaṃ] fear-destroying [bhayaghnaṃ] twelve-cornered [dvādaśāsrakam]
+rudrāsraṃ (rudra-cornered) rogavṛddhyarthaṃ (for-disease-increase) bhayaghnaṃ (fear-destroying) dvādaśāsrakam (twelve-cornered)
 
 ## mukta-m0-p27-v675
-tithi-cornered [tithyasraṃ] merit-making-linga [puṇyakṛlliṅgaṃ] transformation-cornered [vikārāsraṃ] happiness-giving [sukhapradam]
+tithyasraṃ (tithi-cornered) puṇyakṛlliṅgaṃ (merit-making-mark) vikārāsraṃ (change-cornered) sukhapradam (happiness-giving)
