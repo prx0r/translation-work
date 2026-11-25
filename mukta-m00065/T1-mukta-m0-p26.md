@@ -5,73 +5,73 @@
 [sometimes](kvacit) [particle](kaṇaṃ) [by-entry](praveśena) [marking](lāñchayitvā) [sword-destruction](asiśātanam)
 
 ## mukta-m0-p26-v627
-[in-middle](tanmadhye) [thread-confused](sūtrasambhrānte) [Rudra](rudraḥ) [becomes](bhavati) [round](vartulaḥ)
+[in-middle](tanmadhye) [sūtra-confusion](sūtrasambhrānte) [rudra](rudro) [becomes](bhavati) [round](vartulaḥ)
 
 ## mukta-m0-p26-v628
-[should-throw](kṣipet) [or](vā) [void-defect-destroying](śūnyadoṣaghnaṃ) [from-hand](hastāt) [one-finger](ekāṅgulaṃ) [gradually](kramāt)
+[or-throw](kṣipedvā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand-one-finger](hastādekāṅgulaṃ) [gradually](kramāt)
 
 ## mukta-m0-p26-v629
-[sixteenth-part](ṣoḍaśāṃśa) [should-throw](kṣipet) [at-first](ādye) [Veda-part](vedāṃśam) [worshipped-by-immortals](amarorcite)
+[sixteenth-part](ṣoḍaśāṃśa) [throw-in-first](kṣipedādye) [veda-part](vedāṃśam) [god-worship](amarorcite)
 
 ## mukta-m0-p26-v630
-[of-Piṅgalā](piṅgalāyā) [in-opinion](mate) [said](proktam) [by-first-immortal-worship](ādyāmarārcitena) [but](tu)
+[piṅgalā's](piṅgalāyā) [opinion](mate) [declared](proktam) [first-god-worship](ādyāmarārcitena) [but](tu)
 
 ## mukta-m0-p26-v631
-[would-be](bhaveyuḥ) [increasing](vardhamānāni) [sixty](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
+[become](bhaveyur) [increasing](vardhamānāni) [earth-six](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
 
 ## mukta-m0-p26-v632
-[Viśvakarma's-opinion](viśvakarmamataṃ) [having-seen](dṛṣṭvā) [to-be-said](vaktavyaṃ) [pedestal-rotation](pīṭhavartanam)
+[viśvakarma-opinion](viśvakarmamataṃ) [seeing](dṛṣṭvā) [to-be-spoken](vaktavyaṃ) [pedestal-rotation](pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-[that](tat) [and](ca) [equal](savasamaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [suitable](hitam)
+[and-that](tacca) [equal](savasamaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [suitable](hitam)
 
 ## mukta-m0-p26-v634
-[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [in-square](caturasre) [Pitāmaha](pitāmahaḥ)
+[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasre) [pitāmaha](pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-[up-to-head](āmūrdhaṃ) [from-navel](nābhitaś) [and](ca) [upward](ūrdhvaṃ) [in-round-part](vṛttabhāge) [Hara](haraḥ) [himself](svayam)
+[up-to-head](āmūrdhaṃ) [from-navel-upward](nābhitaścordhvaṃ) [round-part](vṛttabhāge) [hara](haraḥ) [himself](svayam)
 
 ## mukta-m0-p26-v636
-[fivefold](pañcadhā) [unmanifest-liṅgas](avyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
+[fivefold](pañcadhā) [manifest-liṅgas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
 
 ## mukta-m0-p26-v637
-[five-liṅga-arrangement](pañcaliṅgavyavastheyam) [head-rotating](śirovartiny) [then](atha) [is-said](ucyate)
+[five-liṅga-arrangement](pañcaliṅgavyavastheyaṃ) [head-rotating](śirovartinyathocyate)
 
 ## mukta-m0-p26-v638
-[of-each](ekaikasya) [by-four-divisions](caturbhedaiḥ) [from-desired-form](kāmyarūpāt) [fruit](phala) [should-tell](vadet)
+[of-each](ekaikasya) [four-varieties](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phala) [should-declare](vadet)
 
 ## mukta-m0-p26-v639
-[long-kingdom-giving](cirarājyaprada) [famous](khyātaṃ) [umbrella-divisions](chatrabhedāḥ) [fourfold](caturvidhāḥ)
+[long-reign-giving](cirarājyaprada) [famous](khyātaṃ) [umbrella-varieties](chatrabhedāś) [fourfold](caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-[measure-giving](mānada) [wing](pakṣa) [by-loss](lopāt) [and](ca) [extensive](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
+[honor-giving](mānada) [wing](pakṣa) [by-loss](lopācca) [large](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v641
-[Śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [do](kuru) [Dakṣa-egg](dakṣāṇḍaṃ) [would-be](syāt) [fourfold](caturvidham)
+[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtu) [dakṣa-egg](dakṣāṇḍaṃ) [becomes-fourfold](syāccaturvidham)
 
 ## mukta-m0-p26-v642
-[nourishment-giving](puṣṭidaṃ) [by-two-decay](dvikṣayāt) [full](pūrṇaṃ) [always-great-delight-causing](mahāhlādakarasadā)
+[nourishing](puṣṭidaṃ) [by-two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-causing](mahāhlādakarasadā)
 
 ## mukta-m0-p26-v643
-[weapon](āyudaṃ) [Kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [Canda](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
+[weapon](āyudaṃ) [kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [moon](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
 
 ## mukta-m0-p26-v644
-[all-desire-giving](sarvakāmapradaṃ) [said](proktaṃ) [destruction](vināśaṃ) [by-two-decay](dvikṣayāt) [for-prosperity](śriye)
+[all-desires-giving](sarvakāmapradaṃ) [declared](proktaṃ) [destruction](vināśaṃ) [by-two-decay](dvikṣayāc) [for-prosperity](chriye)
 
 ## mukta-m0-p26-v645
-[lordship-giving](ballabhatvaprada) [that](tat) [and](ca) [fourfold](caturdhā) [tin](trapuṣaṃ) [becomes](bhavet)
+[belovedness-giving](ballabhatvaprada) [and-that](tacca) [fourfold](caturdhā) [tin](trapuṣaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v646
-[should-do](kuryāt) [for-Brahmin-etc-work](viprādikāryārtham) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
+[should-do](kuryād) [for-brahmin-etc-work](viprādikāryārtha) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-[long-life](dīrghāyuṣṭvam) [then](atha) [of-moon](cendoḥ) [from-partridge-egg](kṛkavākvaṇḍataḥ) [wisdom](prajñāḥ)
+[long-life](dīrghāyuṣṭvam) [and](atha) [moon](cendoḥ) [from-partridge-egg](kṛkavākvaṇḍataḥ) [wisdom](prajñāḥ)
 
 ## mukta-m0-p26-v648
-[by-twenty-tigers](jinaviṃśatiśārdūlair) [at-first](ādye) [Brahma-etc-enclosure](brahmādiveṣṭanam)
+[twenty-jina-tigers](jinaviṃśatiśārdūlair) [in-first](ādye) [brahma-etc-enclosure](brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-[by-modification](vikāreṇa) [by-memory](smareṇa) [with-third-part-added](aṃśatṛtīyāṃśayutena) [and](ca)
+[by-modification](vikāreṇa) [by-memory](smareṇa) [third-part-increment](aṃśatṛtīyāṃśayutena) [and](ca)
 
 ## mukta-m0-p26-v650
-[by-third-part-of-part](bhāgatṛtīyabhāgena) [with-nail-moon](nakhacandrānvitena) [and](ca)
+[by-third-part-share](bhāgatṛtīyabhāgena) [with-nail-moon](nakhacandrānvitena) [and](ca)
