@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[gloss](sūtramadhye) [gloss](ardhasūtreṇa) [gloss](matsyān) [gloss](koṇeṣu) [gloss](sarvataḥ)
+[thread-in-middle](sūtramadhye) [half-thread-by]('rdhasūtreṇa) [fishes](matsyān) [corners-in](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[gloss](vedāsraṃ) [gloss](piṇḍikākṣetraṃ) [gloss](kuṇḍānāmapi) [gloss](sarvadā)
+[veda-corner](vedāsraṃ) [altar-field](piṇḍikākṣetraṃ) [of-pits-also](kuṇḍānāmapi) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-[gloss](madhyāt) [gloss](madhyagataṃ) [gloss](sūtraṃ) [gloss](koṇaṃ) [gloss](saṃveṣdya) [gloss](cāparam)
+[from-middle](madhyānmadhyagataṃ) [middle-gone](madhyānmadhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [and-another](cāparam)
 
 ## mukta-m0-p52-v1279
-[gloss](tatsūtradvayasaṃyogāt) [gloss](sādhayedvā) [gloss](triparṇikām)
+[that-thread-pair-union-by](tatsūtradvayasaṃyogāt) [accomplish-or](sādhayedvā) [three-leaved](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[gloss](saṃbhrāmya) [gloss](madhyataḥ) [gloss](sūtraṃ) [gloss](sādhayedardhacandrikām)
+[whirling](saṃbhrāmya) [from-middle](madhyataḥ) [thread](sūtraṃ) [accomplish-half-moon](sādhayedardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[gloss](rakṣo'gnisaumyakāṣṭhāsu) [gloss](ta) [gloss](trisūtrya) [gloss](trikoṇikām)
+[rakshas-fire-moon-wood-in](rakṣo'gnisaumyakāṣṭhāsu) [that](ta) [three-thread-triangle](trisūtryatrikoṇikām)
 
 ## mukta-m0-p52-v1282
-[gloss](madhyādhasūtrasaṃbhrāntaiḥ) [gloss](piṇḍikā) [gloss](vartulā) [gloss](bhavet)
+[middle-lower-thread-whirled-by](madhyādhasūtrasaṃbhrāntaiḥ) [altar](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-[gloss](turyāsravṛttayormadhye) [gloss](yamandvoḥ) [gloss](sūtrapātanam)
+[fourth-corner-circle-of-two-middle](turyāsravṛttayormadhye) [yama-and-two-of](yamandvoḥ) [thread-falling](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[gloss](bhavetṣaḍasrikāpiṇḍī) [gloss](śeṣarekhāvithopanāt)
+[becomes-six-cornered-altar](bhavetṣaḍasrikāpiṇḍī) [remaining-line-erasure-by](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[gloss](sūtramadhyārdha) [gloss](sabṛttād) [gloss](abjā) [gloss](syāt) [gloss](pūrvacoditā)
+[thread-middle-half](sūtramadhyārdha) [well-rounded-from](sabṛttādabjā) [lotus](syāt) [is](syāt) [previously-taught](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[gloss](madhyasūtrārdha) [gloss](bhāgena) [gloss](koṇāni) [gloss](hrāsayedatha)
+[middle-thread-half](madhyasūtrārdha) [part-by](bhāgena) [corners](koṇāni) [diminish-then](hrāsayedatha)
 
 ## mukta-m0-p52-v1287
-[gloss](koṇaiḥ) [gloss](sūtraparicchinnaiḥ) [gloss](kuryādaṣṭāsrikāṃ) [gloss](sadā)
+[corners-by](koṇaiḥ) [thread-delimited](sūtraparicchinnaiḥ) [make-eight-cornered](kuryādaṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-[gloss](saṃchidyāsrīṃśca) [gloss](saṃchidya) [gloss](kṛtvā) [gloss](tu) [gloss](daśamāstrikam)
+[cutting-corners-and](saṃchidyāsrīṃśca) [cutting](saṃchidya) [making](kṛtvā) [but](tu) [ten-cornered](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[gloss](kartavyā) [gloss](ṣoḍakāṃśaistu) [gloss](piṇḍikā) [gloss](keśavāśrayā)
+[to-be-made](kartavyā) [sixteen-parts-by](ṣoḍakāṃśaistu) [altar](piṇḍikā) [kesava-refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[gloss](pūrvavat) [gloss](yoḍaśaṃśaistu) [gloss](kuryād) [gloss](dvātriṃśadasrikām)
+[as-before](pūrvavat) [sixteen-parts-by](yoḍaśaṃśaistu) [make](kuryād) [thirty-two-cornered](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[gloss](āgneyī) [gloss](bodhipatrābhā) [gloss](pintarogāgnidāhakṛt)
+[agni-direction](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [pintaro-fire-burning-causing](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[gloss](trikoṇā) [gloss](rākṣasājāṃ) [gloss](tu) [gloss](deśo) [gloss](cchadakarī) [gloss](sadā)
+[triangle](trikoṇā) [rakshasa-born](rākṣasājāṃ) [but](tu) [place](deśo) [covering-making](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-[gloss](vāyavyā) [gloss](ca) [gloss](ṣaḍasroktā) [gloss](śatrūccāṭanakārikā)
+[northwest](vāyavyā) [and](ca) [six-cornered-said](ṣaḍasroktā) [enemy-expulsion-causing](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[gloss](raudrī) [gloss](tvaṣṭāsrikā) [gloss](jñeyā) [gloss](muktidā) [gloss](sārināśinī)
+[raudra](raudrī) [eight-cornered](tvaṣṭāsrikā) [to-be-known](jñeyā) [liberation-giving](muktidā) [enemy-destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[gloss](dvātriṃśadasrikā) [gloss](vāhnī) [gloss](svargākhyāphaladāyinī)
+[thirty-two-cornered](dvātriṃśadasrikā) [fire](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[gloss](ardhacandropamā) [gloss](nīlaṃ) [gloss](śeṣaḥ) [gloss](kodaṇḍavadbhavet)
+[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like-becomes](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-[gloss](piṇḍīmāmastakādīnāṃ) [gloss](karotyevaṃ) [gloss](vidhaṃ) [gloss](phalam)
+[altar-head-etc-of](piṇḍīmāmastakādīnāṃ) [makes-thus](karotyevaṃ) [kind](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-[gloss](bhagaliṅgāṅkita) [gloss](sarvaṃ) [gloss](trailokyaṃ) [gloss](sacarācaram)
+[bhaga-linga-marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [with-moving-immoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[gloss](śivaliṅgaṃ) [gloss](paraṃ) [gloss](taccaṃ) [gloss](tayoryogāt) [gloss](mahatphalam)
+[shiva-linga](śivaliṅgaṃ) [supreme](paraṃ) [that-also](taccaṃ) [their-union-by](tayoryogānmahatphalam) [great-fruit](tayoryogānmahatphalam)
 
 ## mukta-m0-p52-v1300
-[gloss](dalāṅghrigartikā) [gloss](kūrmoṃ) [gloss](vedāsrā) [gloss](valiṅgartinī)
+[petal-foot-pit](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda-corner](vedāsrā) [linga-pit](valiṅgartinī)

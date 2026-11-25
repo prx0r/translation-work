@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "akliṣṭatā",
-"quick_gloss": "unafflictedness"
+"quick_gloss": "unblemishedness"
 },
 {
 "surface": "puṣṭatā",
@@ -19,8 +19,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "rathanemisamānatā",
-"quick_gloss": "chariot-wheel-rim-evenness"
+"surface": "rathanemi+samānatā",
+"quick_gloss": "chariot-wheel-rim-likeness"
 }
 ]
 },
@@ -32,16 +32,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phaṇiśīrṣasamānatvaṃ",
-"quick_gloss": "hooded-serpent-head-evenness"
+"surface": "phaṇi+śīrṣa+samānatvaṃ",
+"quick_gloss": "serpent-hood-likeness"
 },
 {
-"surface": "prasannadravatā",
+"surface": "prasanna",
 "quick_gloss": "clarity"
 },
 {
+"surface": "dravatā",
+"quick_gloss": "fluidity"
+},
+{
 "surface": "tathā",
-"quick_gloss": "and-so"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -53,16 +57,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvalakṣaṇa",
-"quick_gloss": "all-auspicious-marks"
+"surface": "sarva+lakṣaṇa",
+"quick_gloss": "all-marks"
 },
 {
 "surface": "yuktatvaṃ",
 "quick_gloss": "endowedness"
 },
 {
-"surface": "kulakṣaṇavihīnatā",
-"quick_gloss": "absence-of-bad-marks"
+"surface": "kula+kṣaṇa+vihīnatā",
+"quick_gloss": "bad-mark-absence"
 }
 ]
 },
@@ -75,11 +79,11 @@
 "tokens": [
 {
 "surface": "saṃskārasya",
-"quick_gloss": "by-the-greatness-of-refinement"
+"quick_gloss": "of-refinement"
 },
 {
 "surface": "mahimneva",
-"quick_gloss": "mahimneva"
+"quick_gloss": "greatness"
 },
 {
 "surface": "bhāsaṃte",
@@ -107,16 +111,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃskāropi",
-"quick_gloss": "refinement-too"
+"surface": "saṃskāra",
+"quick_gloss": "refinement"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "samastāni",
 "quick_gloss": "all"
 },
 {
-"surface": "vastūninyāvasetpriye",
+"surface": "vastūni",
 "quick_gloss": "things"
+},
+{
+"surface": "nyāvaset",
+"quick_gloss": "places"
+},
+{
+"surface": "priye",
+"quick_gloss": "beloved"
 }
 ]
 },
@@ -128,12 +144,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvasaubhāgyajanakaṃ",
+"surface": "sarva+saubhāgya+janakaṃ",
 "quick_gloss": "all-auspiciousness-causing"
 },
 {
-"surface": "sarvasiddhimahāpadaṃ",
-"quick_gloss": "all-accomplishment-great-step"
+"surface": "sarva+siddhi+mahā+padaṃ",
+"quick_gloss": "all-accomplishment-great-foot"
 }
 ]
 },
@@ -145,15 +161,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānaṃda",
+"surface": "ānaṃda+bhairava",
 "quick_gloss": "bliss-bhairava"
 },
 {
-"surface": "bhairavasyārcāsādhanaṃ",
-"quick_gloss": "bhairavasyārcāsādhanaṃ"
+"surface": "arcā",
+"quick_gloss": "worship"
 },
 {
-"surface": "viśvamohanam",
+"surface": "sādhanaṃ",
+"quick_gloss": "means"
+},
+{
+"surface": "viśva+mohanam",
 "quick_gloss": "world-enchanting"
 }
 ]
@@ -166,12 +186,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suśobhadakramagrāsī",
-"quick_gloss": "very-beautiful-sequential-devourer"
+"surface": "suśobha+dakra+grāsī",
+"quick_gloss": "beautiful-step-grasping"
 },
 {
-"surface": "samastāpannikṛṃtanam",
-"quick_gloss": "all-pains-cutting"
+"surface": "samasta+āpana+nikṛṃtanam",
+"quick_gloss": "all-affliction-cutting"
 }
 ]
 },
@@ -183,15 +203,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "veśmacaṃdrakalānāṃ",
-"quick_gloss": "of-house-moon-calas"
+"surface": "veśma+caṃdra+kalānāṃ",
+"quick_gloss": "of-house-moon-phases"
 },
 {
 "surface": "ca",
 "quick_gloss": "ca"
 },
 {
-"surface": "sadmasaubhāgyasaṃpadām",
+"surface": "sadma+saubhāgya+saṃpadām",
 "quick_gloss": "of-abode-auspiciousness-wealth"
 }
 ]
@@ -204,12 +224,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samastarogajanakaṃ",
-"quick_gloss": "all-diseases-causing"
+"surface": "samasta+roga+janakaṃ",
+"quick_gloss": "all-disease-causing"
 },
 {
-"surface": "daurbhāgyasyapravartakam",
-"quick_gloss": "of-misfortune-promoting"
+"surface": "daurbhāgyasya",
+"quick_gloss": "of-misfortune"
+},
+{
+"surface": "pravartakam",
+"quick_gloss": "promoting"
 }
 ]
 },
@@ -221,12 +245,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lokopakrośajanakaṃ",
+"surface": "loka+upakrośa+janakaṃ",
 "quick_gloss": "people-reproach-causing"
 },
 {
-"surface": "lokadhikkāradāyakam",
-"quick_gloss": "world-contempt-giving"
+"surface": "loka+dhikkāra+dāyakam",
+"quick_gloss": "people-contempt-giving"
 }
 ]
 },
@@ -242,8 +266,16 @@
 "quick_gloss": "foamy"
 },
 {
-"surface": "naṣṭamucchiṣṭamapakṛṣṭaṃ",
-"quick_gloss": "destroyed"
+"surface": "naṣṭam",
+"quick_gloss": "lost"
+},
+{
+"surface": "ucchiṣṭam",
+"quick_gloss": "leftover"
+},
+{
+"surface": "apakṛṣṭaṃ",
+"quick_gloss": "degraded"
 },
 {
 "surface": "vicarcitam",
@@ -260,11 +292,19 @@
 "tokens": [
 {
 "surface": "aṃtaḥ",
-"quick_gloss": "inside-rough-skin-rich"
+"quick_gloss": "inside"
 },
 {
-"surface": "karkkaśacarmāḍhyamaṃtargojihvayānvitam",
-"quick_gloss": "karkkaśacarmāḍhyamaṃtargojihvayānvitam"
+"surface": "karkkaśa+carmāḍhyam",
+"quick_gloss": "rough-skin-rich"
+},
+{
+"surface": "aṃtar",
+"quick_gloss": "inside"
+},
+{
+"surface": "go+jihvayā+anvitam",
+"quick_gloss": "cow-tongue-having"
 }
 ]
 },
@@ -276,7 +316,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāmakaṇḍūpracuritaṃ",
+"surface": "pāma+kaṇḍū+pracuritaṃ",
 "quick_gloss": "itch-scabies-abundant"
 },
 {
@@ -289,7 +329,7 @@
 },
 {
 "surface": "dravam",
-"quick_gloss": "liquid"
+"quick_gloss": "fluid"
 }
 ]
 },
@@ -302,7 +342,7 @@
 "tokens": [
 {
 "surface": "svakīya",
-"quick_gloss": "one's-own"
+"quick_gloss": "own"
 },
 {
 "surface": "vapure",
@@ -317,8 +357,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "pūjāsādhanamiṣyate",
+"surface": "pūjā+sādhana",
 "quick_gloss": "worship-means"
+},
+{
+"surface": "iṣyate",
+"quick_gloss": "is-considered"
 }
 ]
 },
@@ -331,15 +375,15 @@
 "tokens": [
 {
 "surface": "sannidhatte",
-"quick_gloss": "stands-near"
+"quick_gloss": "approaches"
 },
 {
-"surface": "paraḥsākṣādānaṃdādvaita",
+"surface": "paraḥ+sākṣāt",
 "quick_gloss": "supreme-directly"
 },
 {
-"surface": "rūpadhṛt",
-"quick_gloss": "form-bearing"
+"surface": "ānaṃda+advaita+rūpa+dhṛt",
+"quick_gloss": "bliss-nondual-form-bearing"
 }
 ]
 },
@@ -351,12 +395,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dūtī",
-"quick_gloss": "messenger's"
-},
-{
-"surface": "mukhasya",
-"quick_gloss": "face's"
+"surface": "dūtī+mukhasya",
+"quick_gloss": "of-messenger-face"
 },
 {
 "surface": "saṃskāraḥ",
@@ -367,7 +407,7 @@
 "quick_gloss": "is-said"
 },
 {
-"surface": "śṛṇusaṃdari",
+"surface": "śṛṇu+saṃdari",
 "quick_gloss": "listen-beautiful"
 }
 ]
@@ -409,12 +449,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tailagaṇḍuṣaṇāt",
+"surface": "taila+gaṇḍūṣaṇāt",
 "quick_gloss": "by-oil-gargle"
 },
 {
-"surface": "kāṃtirdaṃtānāmupajāyate",
+"surface": "kāṃtiḥ",
 "quick_gloss": "beauty"
+},
+{
+"surface": "daṃtānām",
+"quick_gloss": "of-teeth"
+},
+{
+"surface": "upajāyate",
+"quick_gloss": "arises"
 }
 ]
 },
@@ -427,15 +475,31 @@
 "tokens": [
 {
 "surface": "trikaṭu",
-"quick_gloss": "trikaṭu"
+"quick_gloss": "three-pungents"
 },
 {
-"surface": "triphalāmāṃsi",
-"quick_gloss": "triphala"
+"surface": "triphalā",
+"quick_gloss": "three-myrobalans"
 },
 {
-"surface": "guḍatvakpatrakesaraiḥ",
-"quick_gloss": "ghee-bark-petals-saffron"
+"surface": "māṃsi",
+"quick_gloss": "meats"
+},
+{
+"surface": "guḍa",
+"quick_gloss": "jaggery"
+},
+{
+"surface": "tvak",
+"quick_gloss": "bark"
+},
+{
+"surface": "patra",
+"quick_gloss": "leaves"
+},
+{
+"surface": "kesaraiḥ",
+"quick_gloss": "filaments"
 }
 ]
 },
@@ -447,28 +511,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtvākṣa",
+"surface": "kṛtvā",
 "quick_gloss": "having-made"
 },
 {
-"surface": "sadṛśān",
-"quick_gloss": "pea-sized"
+"surface": "akṣa+sadṛśān",
+"quick_gloss": "mustard-seed-like"
 },
 {
 "surface": "piṇḍān",
-"quick_gloss": "pills"
+"quick_gloss": "lumps"
 },
 {
 "surface": "taṃ",
-"quick_gloss": "then"
+"quick_gloss": "that"
 },
 {
 "surface": "pūrvaṃ",
 "quick_gloss": "first"
 },
 {
-"surface": "dūtikāgilet",
-"quick_gloss": "messenger-should-swallow"
+"surface": "dūtikā",
+"quick_gloss": "messenger"
+},
+{
+"surface": "gilet",
+"quick_gloss": "swallows"
 }
 ]
 },
@@ -480,24 +548,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "malenaivāpa",
-"quick_gloss": "by-filth-created"
+"surface": "malena+eva",
+"quick_gloss": "by-impurity-only"
 },
 {
 "surface": "sṛṣṭānāṃ",
-"quick_gloss": "of-all"
+"quick_gloss": "produced"
 },
 {
 "surface": "sarveṣāṃ",
-"quick_gloss": "pacification"
+"quick_gloss": "of-all"
 },
 {
 "surface": "śamanaṃ",
-"quick_gloss": "becomes"
+"quick_gloss": "pacification"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "bhavet"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -517,8 +585,16 @@
 "quick_gloss": "with-effort"
 },
 {
-"surface": "guṭikākārayedbudhaḥ",
-"quick_gloss": "pills"
+"surface": "guṭikā",
+"quick_gloss": "pill"
+},
+{
+"surface": "kārayet",
+"quick_gloss": "should-make"
+},
+{
+"surface": "budhaḥ",
+"quick_gloss": "wise"
 }
 ]
 },
@@ -530,16 +606,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūtikāmati",
-"quick_gloss": "messenger-fragrance"
+"surface": "dūtikā",
+"quick_gloss": "messenger"
 },
 {
 "surface": "saurabhya",
-"quick_gloss": "saliva-mouth"
+"quick_gloss": "fragrance"
 },
 {
-"surface": "śālivaktraṃ",
-"quick_gloss": "śālivaktraṃ"
+"surface": "śāli+vaktraṃ",
+"quick_gloss": "saliva-mouth"
 },
 {
 "surface": "prakalpayet",
@@ -559,11 +635,11 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śarīrasaṃskāro",
+"surface": "śarīra+saṃskāraḥ",
 "quick_gloss": "body-refinement"
 },
 {
-"surface": "bāhyābhyaṃtara",
+"surface": "bāhya+ābhyaṃtara",
 "quick_gloss": "external-internal"
 },
 {
