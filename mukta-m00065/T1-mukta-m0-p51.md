@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[therefore+linga+following](tasmālliṅgānugaṃ) [pedestal](pīṭhaṃ) [to-be-made](kartavyaṃ) [maker-life](kartṛjīvane)
+therefore+linga-following pedestal to-be-made in-maker's-life
 
 ## mukta-m0-p51-v1252
-[if](yadi) [is](syāt) [afflicted](pīḍyate) [diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭraṃ) [guru](gurūḥ) [thus](tathā)
+if be afflicted by-diseases maker kingdom guru likewise
 
 ## mukta-m0-p51-v1253
-[height](ucchrayeṇa) [three-lingas](triliṅgānāṃ) [not](na) [less](nyūnaḥ) [not](na) [greater](adhikaḥ) [of-hari](hareḥ)
+by-height of-three-lingas not less not more of-Hari
 
 ## mukta-m0-p51-v1254
-[sages+half+more](munisārdhādhikaiḥ) [shambhu](śambhuṃ) [should-make](kuryāt) [wealthy](āḍhyaṃ) [wealth](vasoḥ) [hari](harim)
+by-sages-half-more Shambhu make wealthy vasu-Hari
 
 ## mukta-m0-p51-v1255
-[quarter+less+eighth](pādonāṣṭāṃśato) [brahma](brahmā) [to-be-made](kāryaṃ) [not-wealthy](anāḍhyakaṃ) [sometimes](kvacit)
+quarter-less-eighth-part Brahma work and-not-wealthy sometimes
 
 ## mukta-m0-p51-v1256
-[one](ekaṃ) [god-worshipped](surārcite) [linga](liṅge) [brahma](brahmā) [seventh-part](saptāṃśake) [certainly](dhruvam)
+one in-god-worshipped linga Brahma seventh-part certainly
 
 ## mukta-m0-p51-v1257
-[white+etc-color](sitādivarṇāvarṇānāṃ) [pedestal+etc](pīṭhādyāḥ) [not](na) [colorless-born](vivarṇajāḥ)
+white-etc-color-variegated of-pedestal-etc not colorless-born
 
 ## mukta-m0-p51-v1258
-[gems-born](ratnajāḥ) [or](vā) [metals](lohaiḥ) [vā](vā) [especially](viśeṣāt) [glory](kīrtaye) [now](adhunā)
+gem-born or-then metal-born or specially for-fame now
 
 ## mukta-m0-p51-v1259
-[vaiḍūrya+etc+best](vaiḍūryādyuttame) [always](nityaṃ) [gold-born](hemajā) [base](piṇḍikā) [excellent](varā)
+beryl-etc-supreme always gold-born base excellent
 
 ## mukta-m0-p51-v1260
-[part+three+more](bhāgadrayamathikaṃ) [or](vā) [should-place](vinyaset) [base-cavity](piṇḍikāvaṭau)
+portion-three-more or place in-base-pit
 
 ## mukta-m0-p51-v1261
-[girdle+etc-division](mekhalādivibhāgaḥ) [its](asyāḥ) [as-before](pūrvavat) [declared](samudāhṛtaḥ)
+girdle-etc-division of-it as-before described
 
 ## mukta-m0-p51-v1262
-[not](na) [less](nyūnaṃ) [not](na) [greater](adhikaṃ) [measure](mānāt) [beautiful](śobhanaṃ) [cavity](śvabhram) [is](iṣyate)
+not less not more than-measure beautiful pit will-be
 
 ## mukta-m0-p51-v1263
-[pedestal-fault](pīṭhadoṣāt) [decay](kṣayaḥ) [not](na) [woman](nāryāḥ) [maker](kāraḥ) [to-do](kartuṃ) [ca](ca) [always](sarvadā)
+pedestal-defect destruction of-woman maker to-make and always
 
 ## mukta-m0-p51-v1264
-[enjoyment+liberation+both+attainment](bhuktimuktyubhayaprāptyai) [other](anyaḥ) [desire](kāmyasya) [cause](hetave)
+for-enjoyment-liberation-both-attainment other for-desired cause
 
 ## mukta-m0-p51-v1265
-[lotus+half+moon+number+named](padmārdhendugaṇākhyā) [ca](ca) [desire-giving](kāmadā) [auspicious](śubham) [head](astake)
+lotus-half-moon-group-named and desire-giving auspicious-on-head
 
 ## mukta-m0-p51-v1266
-[two-girdle](dvimekhalā) [ca](ca) [veda+corner](vedāsrā) [auspicious](bhadrā) [yoga+prosperity-giving](yogarddhidāyinī)
+two-girdle and Veda-cornered auspicious yoga-prosperity-giving
 
 ## mukta-m0-p51-v1267
-[six-corner](ṣaḍasrā) [life-giving](āyuḥpradā) [vajra](vajrī) [girdle-three-having](mekhalātritayānvitā)
+six-cornered life-giving diamond girdle-three-endowed
 
 ## mukta-m0-p51-v1268
-[mandala](maṇḍalā) [full-moon-like](pūrṇacandrābhā) [that](tad) [wealth-giving](arthadā) [five-girdle](pañcamekhalā)
+circular full-moon-like quick-wealth-giving fifth-girdle
 
 ## mukta-m0-p51-v1269
-[moon+water+form+supreme](candrāmburuparāmai) [kā+agni+part+with-tithi](kāgnidyaṃśaistithi) [divided](bhājitaiḥ)
+moon-water-form-supreme ka-agni-parts tithi divided
 
 ## mukta-m0-p51-v1270
-[round](vṛttā) [lotus-cup-shaped](padmapuṭākārā) [karṇikā](karṇiko) [fear-kissed](bhayacumbitā)
+round lotus-petal-shaped top fear-kissed
 
 ## mukta-m0-p51-v1271
-[eight-corner](aṣṭakoṇā) [gaṇa-named](gaṇākhyātā) [liberation-giving](muktidā) [syāt](syāt) [two-girdle](dvimekhalā)
+eight-cornered group-named liberation-giving be two-girdle
 
 ## mukta-m0-p51-v1272
-[previously-said](pūrvokta) [girdle+cavity+stalk+etc](mekhalāgartanālakādisamanvitā)
+previously-said girdle-pit-stalk-etc endowed
 
 ## mukta-m0-p51-v1273
-[extent+height+stalk+etc](vistarokchrayanālādi) [all](sarbaṃ) [previously-said](pūrvoṃditaṃ) [in-order](kramāt)
+width-height-stalk-etc all previously-said in-order
 
 ## mukta-m0-p51-v1274
-[encircling](saṃveṣṭya) [should-make-round](vartayet) [base](piṇḍīṃ) [maker](kartuḥ) [desire-accomplishing](kāmaprasādhikam)
+wrapping make-base maker desire-accomplishing
 
 ## mukta-m0-p51-v1275
-[mārūtī](mārūtīṃ) [dhānadī](dhānadīṃ) [raudrī](raudrīṃ) [vaiṣṇavī](vaiṣṇāvīṃ) [brahma-born](brahmajāṃ) [always](sadā)
+Maruti wealth-giving Rudri Vaishnavi Brahma-born always

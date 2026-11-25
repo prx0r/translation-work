@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[from-veda-part-falling](vedāṃśapātanāt) [corner](koṇa) [with-mortal-ashes](marṭāśairatha) [blanket-or-neck](kambalam)
+vedaṃśa-pātanāt-koṇa marṭa-aśair-atha kambalam
 
 ## mukta-m0-p43-v1052
-[by-three-part-entry](tryaṃśapraveśanāt) [from-throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+tryaṃśa-praveśanāt-kaṇṭhāt ekaika-nirgamaṃ khuram
 
 ## mukta-m0-p43-v1053
-[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [eva](eva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
+ghaṇṭāṃ ca mekhalāṃ ca eva kuryāt-śṛṅgāṇi koṇataḥ
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-rays-etc](śchatradhārādibhiryutaḥ)
+prālambya-āsakta revanta-śchatra-dhāra-ādibhiḥ-yutaḥ
 
 ## mukta-m0-p43-v1055
-[with-various-gem-beautiful-dress](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
+nānā-ratna-su-veśa-āḍhyāḥ caṇḍa-tejāḥ sva-bhāva-jāḥ
 
 ## mukta-m0-p43-v1056
-[soma](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-pot-garland](kuṇḍikājāpyamālinam)
+somaṃ saumyaṃ tathā śvetaṃ kuṇḍikā-jāpya-mālinam
 
 ## mukta-m0-p43-v1057
-[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [and](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
+budhaṃ śyāmaṃ yuvānaṃ ca rūpiṇaṃ cāpa-pāṇinam
 
 ## mukta-m0-p43-v1058
-[yama-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-pot-mantra-garland](kuṇḍikāmantramālikam)
+yāmya-eka-akṣaṃ sitaṃ śukraṃ kuṇḍikā-mantra-mālikam
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-hair-eye](piṅgabhrūśmaśrulocanam)
+vyāvṛtta-āsyaṃ sa-hāsyaṃ ca piṅga-bhrū-śmaśru-locanam
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-form](naranāgārdharūpiṇam)
+tri-phaṇaṃ dhūmra-varṇa-ābhaṃ nara-nāga-ardha-rūpiṇam
 
 ## mukta-m0-p43-v1061
-[these-all-two-armed](etāṃstu dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
+etān-tu dvi-bhujān-sarvān bhūṣaṇa-ambara-saṃyutān
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
+śakaṭaṃ medham-eteṣām-adhaḥ yānaṃ kramāt-sadā
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+sitaḥ sahasra-bhogaḥ hi-īśvaraḥ kuvalaya-anvitaḥ
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
+kṛṣṇaḥ karkoṭakaḥ kaṇṭhe śulka-rekhā-traya-anvitaḥ
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
+śaṅkha-varṇaḥ mahā-padmaḥ mastake kṛṣṇa-śūla-dhṛk
 
 ## mukta-m0-p43-v1066
-[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
+kulikaḥ rakta-dehaḥ tu candra-ardha-kṛta-mastakaḥ
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-pot-tail](kuṇḍikāpucchasaṃyutāḥ)
+akṣa-sūtra-dharāḥ sarve kuṇḍikā-puccha-saṃyutāḥ
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāśca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāstadrūpā) [gem-less](maṇivarjitāḥ)
+bhṛtyāḥ ca eka-phaṇāḥ kāryāḥ tad-rūpā maṇi-varjitāḥ
 
 ## mukta-m0-p43-v1069
-[with-garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+hāra-kuṇḍala-keyūraiḥ sadā-bharaṇa-bhūṣitā
 
 ## mukta-m0-p43-v1070
-[such](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
+īdṛśī manasā kāryā śrī-kaṇṭha-manasaṃbhavā
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated](abjasthaḥ) [with-pot-and-rosary](kuṇḍikā cākṣasūtrabhṛt)
+yoga-paṭṭa-āvṛtaḥ abja-sthaḥ kuṇḍikā ca akṣa-sūtra-bhṛt
 
 ## mukta-m0-p43-v1072
-[with-various-ornaments](nānālaṅkārasaṃyuktāv) [with-lotus-gem](utpalamaṇi bhṛtkarau)
+nānā-alaṅkāra-saṃyuktāḥ utpala-maṇi bhṛt-karau
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [on-own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
+su-dṛṣṭā jalpa-mānā ca sva-utsaṅge putra-dhāriṇī
 
 ## mukta-m0-p43-v1074
-[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [declared](prakīrtitā)
+padmā nandana-padma-stha sva-aṅga-devī prakīrtitā
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-dvi-akṣa](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+basu-koka-kapi-dvi-kṣa vyāghra-vyāghra-āsyakaṃ kramāt
