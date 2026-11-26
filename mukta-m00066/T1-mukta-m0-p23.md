@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-ānaṃdataṃtre ca eva asmin catvāraḥ paramīritāḥ
+[ānanda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](āsmin) [catvāraḥ](catvāraḥ) [param](param) [īritāḥ](īritāḥ)
+
 ## mukta-m0-p23-v552
-tasmāt catvāra ullāsā iha proktā maheśvari
+[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
+
 ## mukta-m0-p23-v553
-tasmāt ānaṃda pūjāyā mālaṃvyaṃte tu na trayaḥ
+[tasmāt](tasmāt) [ānanda](ānaṃda) [pūjāyāḥ](pūjāyā) [mālaṃvyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
+
 ## mukta-m0-p23-v554
-tathā tathā parānaṃda nāthavidyāṃ parāmṛśet
+[tathā](tathā) [tathā](tathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
+
 ## mukta-m0-p23-v555
-dūtyā saṃdhukṣita svātmā naṃdamūrttiṃ guruṃ smaret
+[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [nanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+
 ## mukta-m0-p23-v556
-dvādaśāṃtagate raktaśuklapāde vinikṣipet
+[dvādaśa-anta-gate](dvādaśāṃtagate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
+
 ## mukta-m0-p23-v557
-śivatvasāmrājya padābhiṣiktaṃ svaṃ viciṃtayet
+[śiva-tva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
+
 ## mukta-m0-p23-v558
-paśyan pratyaṃgamaṃkūradanaṃ gottuṃgamānasaḥ
+[paśyan](paśyan) [pratyaṃga-maṃkūra-danam](pratyaṃgamaṃkūradanaṃ) [gottuṃga-mānasaḥ](gottuṃgamānasaḥ)
+
 ## mukta-m0-p23-v559
-yathā yauvanamullāsaṃ saṃprāpnotyaṃba dūtikā
+[yathā](yathā) [yauvanam](yauvanam) [ullāsam](ullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [amba](aṃba) [dūtikā](dūtikā)
+
 ## mukta-m0-p23-v560
-ālokaneratiḥ sākṣāt smite jāgarti jāhnavī
+[ālokane](ālokane) [ratiḥ](ratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
+
 ## mukta-m0-p23-v561
-aśvinau nāsikābhāge tvoṣṭhe ca paramāmṛtam
+[aśvinau](aśvinau) [nāsikā-bhāge](nāsikābhāge) [tu](tvoṣṭhe) [oṣṭhe](oṣṭhe) [ca](ca) [parama-amṛtam](paramāmṛtam)
+
 ## mukta-m0-p23-v562
-svede ca vāruṇī devī kāmanāthastvahaṃ kṛtau
+[svede](svede) [ca](ca) [vāruṇī](vāruṇī) [devī](devī) [kāma-nāthaḥ](kāmanāthaḥ) [tu](tvahaṃ) [ahaṃ](ahaṃ) [kṛtau](kṛtau)
+
 ## mukta-m0-p23-v563
-stanadvaye merugirirnniḥ śabdaṃ brahmamadhyame
+[stana-dvaye](stanadvaye) [meru-giriḥ](merugirirnniḥ) [niḥ](niḥ) [śabdam](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+
 ## mukta-m0-p23-v564
-valitraye ca trailokyaṃ nābhigarbhe guhāṃbikā
+[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi-garbhe](nābhigarbhe) [guhāṃbikā](guhāṃbikā)
+
 ## mukta-m0-p23-v565
-nakheṣu śītāṃ śu kalādormmūleṃkuśadevatāḥ
+[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu](śu) [kalā](kalā) [dor-mūle](dormmūleṃ) [kuśa-devatāḥ](kuśadevatāḥ)
+
 ## mukta-m0-p23-v566
-kāverī caiva niśvāse godāsītkāra karmaṇi
+[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sītkāra](sītkāra) [karmaṇi](karmaṇi)
+
 ## mukta-m0-p23-v567
-amalālāpakṛtyeṣu cittaviśrāṃti nāyakā
+[amalālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrāṃti](cittaviśrāṃti) [nāyakā](nāyakā)
+
 ## mukta-m0-p23-v568
-vākptiḥ sukhahuṃkāre gīṣpatīkākukādhvanau
+[vākptiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpatī](gīṣpatī) [kāku-kādhvanau](kākukādhvanau)
+
 ## mukta-m0-p23-v569
-iṃdraścittasamunnatyāmagnirvastu grasītviṣi
+[iṃdraḥ](iṃdraścittasamunnatyāmagnirvastu) [citta-samunnatyām](citta-samunnatyām) [agniḥ](agnirvastu) [vastu](vastu) [grasītviṣi](grasītviṣi)
+
 ## mukta-m0-p23-v570
-hastādicālane yajñastvāśleṣe yajñapūruṣaḥ
+[hastādi-cālane](hastādicālane) [yajñaḥ](yajñastvāśleṣe) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
+
 ## mukta-m0-p23-v571
-lāsyaṃ ca tāṃḍavaṃ devi tasyā dehādi ghūrṇane
+[lāsyaṃ](lāsyaṃ) [ca](ca) [tāṃḍavaṃ](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
+
 ## mukta-m0-p23-v572
-tānisarvāṇi varttate tasyāgaṃḍūṣavastuni
+[tāni](tānisarvāṇi) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyāgaṃḍūṣavastuni) [gaṃḍūṣa-vastuni](gaṃḍūṣavastuni)
+
 ## mukta-m0-p23-v573
-tatphalaṃ labhate dūtī sudhāgaṃḍūṣa sevanāt
+[tat](tat) [phalaṃ](phalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṃḍūṣa](sudhāgaṃḍūṣa) [sevanāt](sevanāt)
+
 ## mukta-m0-p23-v574
-gaṃḍūṣamādiraṃ devī vīrasyānaṃda varddhanam
+[gaṃḍūṣam](gaṃḍūṣamādiraṃ) [ādiraṃ](ādiraṃ) [devī](devī) [vīrasya](vīrasyānaṃda) [ānanda](ānanda) [varddhanam](varddhanam)
+
 ## mukta-m0-p23-v575
-nityaklinnāsudhā devī rati prītiśca tadbhage
+[nitya-klinnā](nityaklinnā) [sudhā](sudhā) [devī](devī) [rati](rati) [prītiḥ](prītiśca) [ca](ca) [tad-bhage](tadbhage)
