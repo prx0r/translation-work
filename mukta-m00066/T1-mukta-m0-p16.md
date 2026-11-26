@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[pada-gloss](akliṣṭatā) [pada-gloss](puṣṭatā) [pada-gloss](ca) [pada-gloss](rathanemisamānatā)
+[un-troubled-ness](akliṣṭatā) [nourished-ness](puṣṭatā) [and](ca) [chariot-wheel-evenness](rathanemisamānatā)
+
 ## mukta-m0-p16-v377
-[pada-gloss](phaṇiśīrṣasamānatvaṃ) [pada-gloss](prasannadravatā) [pada-gloss](tathā)
+[serpent-hood-evenness](phaṇiśīrṣasamānatvaṃ) [clarity-fluidity](prasannadravatā) [thus](tathā)
+
 ## mukta-m0-p16-v378
-[pada-gloss](sarvalakṣaṇa) [pada-gloss](yuktatvaṃ) [pada-gloss](kulakṣaṇavihīnatā)
+[all-marks-having-ness](sarvalakṣaṇa) [yuktatvaṃ](yuktatvaṃ) [family-mark-lacking-ness](kulakṣaṇavihīnatā)
+
 ## mukta-m0-p16-v379
-[pada-gloss](saṃskārasya) [pada-gloss](mahimneva) [pada-gloss](bhāsaṃte) [pada-gloss](te) [pada-gloss](guṇāḥ) [pada-gloss](priye)
+[of-refinement](saṃskārasya) [greatness](mahimneva) [shine](bhāsaṃte) [they](te) [qualities](guṇāḥ) [beloved](priye)
+
 ## mukta-m0-p16-v380
-[pada-gloss](saṃskāropi) [pada-gloss](samastāni) [pada-gloss](vastūninyāvasetpriye)
+[refinement](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
+
 ## mukta-m0-p16-v381
-[pada-gloss](sarvasaubhāgyajanakaṃ) [pada-gloss](sarvasiddhimahāpadaṃ)
+[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-step](sarvasiddhimahāpadaṃ)
+
 ## mukta-m0-p16-v382
-[pada-gloss](ānaṃda) [pada-gloss](bhairavasyārcāsādhanaṃ) [pada-gloss](viśvamohanam)
+[bliss-bhairava](ānaṃda) [bhairavasyārcāsādhanaṃ](bhairavasyārcāsādhanaṃ) [world-enchanting](viśvamohanam)
+
 ## mukta-m0-p16-v383
-[pada-gloss](suśobhadakramagrāsī) [pada-gloss](samastāpannikṛṃtanam)
+[well-shining-gradual-devourer](suśobhadakramagrāsī) [all-pain-cutting](samastāpannikṛṃtanam)
+
 ## mukta-m0-p16-v384
-[pada-gloss](veśmacaṃdrakalānāṃ) [pada-gloss](ca) [pada-gloss](sadmasaubhāgyasaṃpadām)
+[of-house-moon-phases](veśmacaṃdrakalānāṃ) [ca](ca) [of-abode-auspiciousness-wealth](sadmasaubhāgyasaṃpadām)
+
 ## mukta-m0-p16-v385
-[pada-gloss](samastarogajanakaṃ) [pada-gloss](daurbhāgyasyapravartakam)
+[all-disease-causing](samastarogajanakaṃ) [of-misfortune-causing](daurbhāgyasyapravartakam)
+
 ## mukta-m0-p16-v386
-[pada-gloss](lokopakrośajanakaṃ) [pada-gloss](lokadhikkāradāyakam)
+[people-reproach-causing](lokopakrośajanakaṃ) [people-contempt-giving](lokadhikkāradāyakam)
+
 ## mukta-m0-p16-v387
-[pada-gloss](phelinaṃ) [pada-gloss](naṣṭamucchiṣṭamapakṛṣṭaṃ) [pada-gloss](vicarcitam)
+[foamy](phelinaṃ) [lost](naṣṭamucchiṣṭamapakṛṣṭaṃ) [rubbed](vicarcitam)
+
 ## mukta-m0-p16-v388
-[pada-gloss](aṃtaḥ) [pada-gloss](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
+[inside](aṃtaḥ) [rough-skin-rich](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
+
 ## mukta-m0-p16-v389
-[pada-gloss](pāmakaṇḍūpracuritaṃ) [pada-gloss](pāpiṣṭaṃ) [pada-gloss](kathitaṃ) [pada-gloss](dravam)
+[itch-scab-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [liquid](dravam)
+
 ## mukta-m0-p16-v390
-[pada-gloss](svakīya) [pada-gloss](vapure) [pada-gloss](vai) [pada-gloss](tat) [pada-gloss](pūjāsādhanamiṣyate)
+[own](svakīya) [body](vapure) [vai](vai) [that](tat) [worship-means](pūjāsādhanamiṣyate)
+
 ## mukta-m0-p16-v391
-[pada-gloss](sannidhatte) [pada-gloss](paraḥsākṣādānaṃdādvaita) [pada-gloss](rūpadhṛt)
+[stands-near](sannidhatte) [supreme-directly](paraḥsākṣādānaṃdādvaita) [form-bearing](rūpadhṛt)
+
 ## mukta-m0-p16-v392
-[pada-gloss](dūtī) [pada-gloss](mukhasya) [pada-gloss](saṃskāraḥ) [pada-gloss](kathyate) [pada-gloss](śṛṇusaṃdari)
+[messenger](dūtī) [of-face](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇusaṃdari)
+
 ## mukta-m0-p16-v393
-[pada-gloss](uttejanaṃ) [pada-gloss](ca) [pada-gloss](śastreṇa) [pada-gloss](nirmalīkaraṇaṃ) [pada-gloss](punaḥ)
+[stimulation](uttejanaṃ) [ca](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+
 ## mukta-m0-p16-v394
-[pada-gloss](tailagaṇḍuṣaṇāt) [pada-gloss](kāṃtirdaṃtānāmupajāyate)
+[by-oil-gargle](tailagaṇḍuṣaṇāt) [beauty](kāṃtirdaṃtānāmupajāyate)
+
 ## mukta-m0-p16-v395
-[pada-gloss](trikaṭu) [pada-gloss](triphalāmāṃsi) [pada-gloss](guḍatvakpatrakesaraiḥ)
+[three-pungents](trikaṭu) [three-fruits](triphalāmāṃsi) [molasses-bark-petals-saffron](guḍatvakpatrakesaraiḥ)
+
 ## mukta-m0-p16-v396
-[pada-gloss](kṛtvākṣa) [pada-gloss](sadṛśān) [pada-gloss](piṇḍān) [pada-gloss](taṃ) [pada-gloss](pūrvaṃ) [pada-gloss](dūtikāgilet)
+[having-made](kṛtvākṣa) [berry-sized](sadṛśān) [lumps](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger](dūtikāgilet)
+
 ## mukta-m0-p16-v397
-[pada-gloss](malenaivāpa) [pada-gloss](sṛṣṭānāṃ) [pada-gloss](sarveṣāṃ) [pada-gloss](śamanaṃ) [pada-gloss](bhavet)
+[by-impurity-created](malenaivāpa) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+
 ## mukta-m0-p16-v398
-[pada-gloss](mardaniyaṃ) [pada-gloss](prayatnena) [pada-gloss](guṭikākārayedbudhaḥ)
+[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill](guṭikākārayedbudhaḥ)
+
 ## mukta-m0-p16-v399
-[pada-gloss](pūtikāmati) [pada-gloss](saurabhya) [pada-gloss](śālivaktraṃ) [pada-gloss](prakalpayet)
+[messenger](pūtikāmati) [fragrance](saurabhya) [saliva-mouth](śālivaktraṃ) [should-make](prakalpayet)
+
 ## mukta-m0-p16-v400
-[pada-gloss](itthaṃ) [pada-gloss](śarīrasaṃskāro) [pada-gloss](bāhyābhyaṃtara) [pada-gloss](īritaḥ)
+[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
