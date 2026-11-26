@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[beating](tāḍana) [principal](pramukhaṃ) [action](karma) [taṃ](taṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
+[tāḍana](tāḍana) [pramukhaṃ](pramukhaṃ) [karmataṃ](karmataṃ) [hetuṃ](hetuṃ) [kathaya](kathaya) [prabho](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [messenger-ness](dūtyā) [enjoy](bhajaṃte) [playful-action](narma+karmaṇi)
+[mohaṃ](mohaṃ) [kṣaṇe](kṣaṇe) [kṣaṇe](kṣaṇe) [dūtyā](dūtyā) [bhajaṃte](bhajaṃte) [narma-karmaṇi](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [melt](dravaṃtyeva) [messengers](dūtikāḥ)
+[tasmāt](tasmāt) [alasatāṃ](alasatāṃ) [prāptāḥ](prāptā) [na](na) [dravaṃti](dravaṃtyeva) [eva](dravaṃtyeva) [dūtikāḥ](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [that-delay-from](tad+vilaṃbāt) [pleasure-where](sukhaṃ+kutaḥ)
+[vilaṃbate](vilaṃbate) [ratiṃ](ratiṃ) [dātuṃ](dātuṃ) [tad-vilaṃbāt](tadvilaṃbāt) [sukhaṃ](sukhaṃkutaḥ) [kutaḥ](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-[those](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [love-rite](rata+adhvare)
+[tāḥ](tāḥ) [prabuddhāḥ](prabuddhāḥ) [samutsāhaṃ](samutsāha) [ārabhaṃte](mārabhaṃte) [rata-adhvare](ratādhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtyā) [rushes](udravati) [much](bahuśaḥ) [butter-like](navanītam+iva) [by-fire](agninā)
+[dūtyā](dūtyodravati) [udravati](dūtyodravati) [bahuśaḥ](bahuśonavanītamivāgninā) [navanītam](bahuśonavanītamivāgninā) [iva](bahuśonavanītamivāgninā) [agninā](bahuśonavanītamivāgninā)
 
 ## mukta-m0-p27-v657
-[dissolution](layaṃ) [meaning-dissolution](artha+layaṃ) [and](ca) [api](api) [then](tadā) [pot-dissolution](ghaṭṭa+layaṃ) [beloved](priye)
+[layam](layamarthalayaṃ) [artha-layaṃ](layamarthalayaṃ) [ca](cāpi) [api](cāpi) [tadā](tadā) [ghaṭṭa-layaṃ](ghaṭṭalayaṃ) [priye](priye)
 
 ## mukta-m0-p27-v658
-[not-moving](acaran) [messenger-body](dūtikā+gātraṃ) [bliss-filled-ness](ānanda+mayatāṃ) [leads](nayet)
+[acaran](acarandūtikāgātramānaṃdamayatāṃ) [dūtikā](acarandūtikāgātramānaṃdamayatāṃ) [gātram](acarandūtikāgātramānaṃdamayatāṃ) [ānanda-mayatāṃ](acarandūtikāgātramānaṃdamayatāṃ) [nayet](nayet)
 
 ## mukta-m0-p27-v659
-[self](svayam) [extremely](atyaṃta) [steadfast-soul](dhīra+ātmā) [meditating](bhāvayan) [linga-key](liṃga+kuṃcikām)
+[svayam](svayamatyaṃta) [atyaṃta](svayamatyaṃta) [dhīra-ātmā](dhīrātmā) [bhāvayan](bhāvayan) [liṃga-kuṃcikām](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal-bliss-filled](nitya+ānanda+mayam) [truth](tatvaṃ) [world-pervading](jagat+vyāptaṃ) [contemplating](viciṃtayat)
+[nitya-ānanda-mayaṃ](nityānaṃdamayaṃ) [tatvaṃ](tatvaṃ) [jagat-vyāptaṃ](jagadvyāptaṃ) [viciṃtayat](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayam) [eva](eva) [great-sacrifice](mahā+yajñaḥ) [austerity](tapaḥ) [cedaṃ](cedaṃ) [unsurpassed](anuttamam)
+[ayam](ayameva) [eva](ayameva) [mahā-yajñaḥ](mahāyajñastapaścedamanuttamam) [tapaḥ](mahāyajñastapaścedamanuttamam) [ca](mahāyajñastapaścedamanuttamam) [idam](mahāyajñastapaścedamanuttamam) [anuttamam](mahāyajñastapaścedamanuttamam)
 
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-meritorious](mahā+puṇyam) [bliss-nonduality-giving](ānanda+advaita+dāyakaṃ)
+[idaṃ](idaṃ) [vrataṃ](vrataṃ) [mahā-puṇyam](mahāpuṇyamānaṃdādvaitadāyakaṃ) [ānanda-advaita-dāyakaṃ](mahāpuṇyamānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-[bindu-emission](biṃdu+vikṣaraṇaṃ) [named](nāma) [sacrifice-concluding-bath](yajña+avabhṛtha) [is-called](ucyate)
+[biṃdu-vikṣaraṇaṃ](biṃduvikṣaraṇaṃ) [nāma](nāma) [yajña-avabhṛthaḥ](yajñāvabhṛtha) [ucyate](ucyate)
 
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [time-length](kāla+dairghyaṃ) [steadiness-bond](dhairya+baṃdhena) [more](bhūyasā)
+[yathā](yathā) [yathā](yathā) [kāla-dairghyaṃ](kāladairghyaṃ) [dhairya-baṃdhena](dhairyabaṃdhena) [bhūyasā](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [in-mouth](mukhe) [mercury-like](pārada+vat) [not](na) [steadiness](dhairyaṃ) [follows](anudhāvati)
+[agniḥ](agnirmukhe) [mukhe](agnirmukhe) [pārada-vat](pāradavat) [na](na) [dhairyaṃ](dhairyamanudhāvati) [anudhāvati](dhairyamanudhāvati)
 
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [caṇḍīśa](caṇḍīśa) [stopped](prastabdhaṃ) [white](śuklaṃ) [on-body](maṃgake)
+[kathaṃ](kathaṃ) [bhavati](bhavati) [caṇḍīśa](caṇḍīśa) [prastabdhaṃ](prastabdhaṃ) [śuklaṃ](śuklamaṃgake) [aṃgake](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-[extremely](atyaṃta) [wonder-causing](āścarya+janakaṃ) [if](yadi) [of-white](śuklasya) [holding](dhāraṇā)
+[atyaṃta](atyaṃtāścaryajanakaṃ) [āścarya-janakaṃ](atyaṃtāścaryajanakaṃ) [yadi](yadiśuklasya) [śuklasya](yadiśuklasya) [dhāraṇā](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](na) [tukena-api](tukena+api) [by-effort](yatnena) [arises](jāyate) [white-holding](śukla+dhāraṇā)
+[na](natukenāpi) [tu](natukenāpi) [kena](natukenāpi) [api](natukenāpi) [yatnena](yatnena) [jāyate](jāyate) [śukla-dhāraṇā](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-kāma-tantras](kāma+tantra+eṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [what](yat) [performed](anuṣṭhitam)
+[kāma-taṃtreṣu](kāmataṃtreṣu) [bahuśaḥ](bahuśobhogibhiryadanuṣṭhitam) [bhogibhiḥ](bahuśobhogibhiryadanuṣṭhitam) [yat](bahuśobhogibhiryadanuṣṭhitam) [anuṣṭhitam](bahuśobhogibhiryadanuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[that](tad) [I-say](vadāmi) [great-fortunate-one](mahā+bhāge) [stopping](staṃbhanaṃ) [essence-riches](rasa+saṃpadām)
+[tat](tadvadāmi) [vadāmi](tadvadāmi) [mahā-bhāge](mahābhāge) [staṃbhanaṃ](staṃbhanaṃ) [rasa-saṃpadām](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-[is-enjoyed](naṃdavyate) [somehow](kathamapi) [matured](prauḍhaṃ) [one](eka) [rasa](rasaḥ) [by-wise](budhaiḥ)
+[nanda-vyate](naṃdavyate) [katham](kathamapi) [api](kathamapi) [prauḍham](prauḍhamekorasobudhaiḥ) [eka](prauḍhamekorasobudhaiḥ) [rasa](prauḍhamekorasobudhaiḥ) [budhaiḥ](prauḍhamekorasobudhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarve) [api](api) [tissues](dhātavaḥ) [goddess](devī) [in-own-place](sva+sva+sthāne) [made-shelter](kṛta+āśrayāḥ)
+[sarve](sarvepi) [api](sarvepi) [dhātavaḥ](dhātavodevī) [devī](dhātavodevī) [sva-sva-sthāne](svasvasthāne) [kṛta-āśrayāḥ](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-nāḍī-cakras](nāḍī+cakreṣu) [all](sarveṣu) [dwelling](vasan) [api](api) [mercury-lord](rasa+īśvaraḥ)
+[nāḍī-cakreṣu](nāḍīcakreṣu) [sarveṣu](sarveṣu) [vasan](vasannapi) [api](vasannapi) [raseśvaraḥ](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecit) [say](vadaṃti) [brow-middle](bhrū+madhye) [some](kecit) [heart-gem](hṛdi+paremaṇau)
+[kecit](kecidvadaṃti) [vadaṃti](kecidvadaṃti) [bhrū-madhye](bhrūmadhye) [kecit](keciddhṛdiparemaṇau) [hṛdi](keciddhṛdiparemaṇau) [paremaṇau](keciddhṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-[some](kecit) [on-urvostala](ūrvostale) [goddess](devi) [some](kecit) [buttocks-middle](jaghana+sīmani)
+[kecit](decidūrvostaledevi) [ūrvoḥ](decidūrvostaledevi) [tale](decidūrvostaledevi) [devi](decidūrvostaledevi) [kecit](decijjaghanasīmani) [jaghana-sīmani](decijjaghanasīmani)
