@@ -19,7 +19,7 @@
 "quick_gloss": "eva"
 },
 {
-"surface": "paṃcavidyāmanusmaret",
+"surface": "paṃcavidyām",
 "quick_gloss": "paṃca-vidyāṃ"
 },
 {
@@ -36,7 +36,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anenāpi",
+"surface": "anena",
 "quick_gloss": "anena"
 },
 {
@@ -89,7 +89,7 @@
 "quick_gloss": "vidhānena"
 },
 {
-"surface": "japannamṛtanāyikām",
+"surface": "japan",
 "quick_gloss": "japan"
 },
 {
@@ -106,11 +106,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghaṭṭālīlakayāmātaḥ",
-"quick_gloss": "ghaṭṭa-ālīlaka-yāmātaḥ"
+"surface": "ghaṭṭālīlakayā",
+"quick_gloss": "ghaṭṭa-līlakayā"
 },
 {
-"surface": "kṣobhayenmadanālayam",
+"surface": "amātaḥ",
+"quick_gloss": "amātaḥ"
+},
+{
+"surface": "kṣobhayen",
 "quick_gloss": "kṣobhayet"
 },
 {
@@ -132,7 +136,7 @@
 },
 {
 "surface": "dratyatīcīra",
-"quick_gloss": "dratyati-īcīra"
+"quick_gloss": "dratyatīcīra"
 },
 {
 "surface": "dravācaṃdrakalāsirā",
@@ -214,7 +218,7 @@
 "quick_gloss": "śāstrāṇāṃ"
 },
 {
-"surface": "gatirātmadṛk",
+"surface": "gatiḥ",
 "quick_gloss": "gatiḥ"
 },
 {
@@ -247,12 +251,12 @@
 "quick_gloss": "kāmaḥ"
 },
 {
-"surface": "vijayetetvayā",
+"surface": "vijayet",
 "quick_gloss": "vijayeta"
 },
 {
-"surface": "itvayā",
-"quick_gloss": "itvayā"
+"surface": "etvayā",
+"quick_gloss": "etvayā"
 },
 {
 "surface": "jagat",
@@ -284,7 +288,7 @@
 "quick_gloss": "sarveṣāṃ"
 },
 {
-"surface": "sukhadaḥsmaraḥ",
+"surface": "sukhadaḥ",
 "quick_gloss": "sukha-daḥ"
 },
 {
@@ -317,12 +321,8 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "paramānaṃda",
-"quick_gloss": "parama-ānaṃda"
-},
-{
-"surface": "dāyake",
-"quick_gloss": "dāyake"
+"surface": "paramānaṃdadāyake",
+"quick_gloss": "parama-ānanda-dāyake"
 }
 ]
 },
@@ -371,15 +371,19 @@
 "quick_gloss": "satyaṃ"
 },
 {
-"surface": "gurorājñā",
-"quick_gloss": "guror-ājñā"
+"surface": "guror",
+"quick_gloss": "guroḥ"
 },
 {
-"surface": "sarvatrāskhalitodayā",
+"surface": "ājñā",
+"quick_gloss": "ājñā"
+},
+{
+"surface": "sarvatrā",
 "quick_gloss": "sarvatra"
 },
 {
-"surface": "askhalitodayā",
+"surface": "skhalitodayā",
 "quick_gloss": "askhalita-udayā"
 }
 ]
@@ -393,15 +397,11 @@
 "tokens": [
 {
 "surface": "ityaṣṭakārikāpāṭha",
-"quick_gloss": "iti"
-},
-{
-"surface": "aṣṭakārikāpāṭha",
-"quick_gloss": "aṣṭaka-kārikā-pāṭha"
+"quick_gloss": "ityaṣṭaka-kārikā-pāṭha"
 },
 {
 "surface": "samanaṃtarameva",
-"quick_gloss": "samanantaram"
+"quick_gloss": "samanaṃtaram"
 },
 {
 "surface": "eva",
@@ -421,7 +421,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tenāmṛtena",
+"surface": "tena",
 "quick_gloss": "tena"
 },
 {
@@ -451,7 +451,7 @@
 "tokens": [
 {
 "surface": "gaṃgodakasvarūpeṇa",
-"quick_gloss": "gaṃga-udaka-svarūpeṇa"
+"quick_gloss": "gaṃgā-udaka-svarūpeṇa"
 },
 {
 "surface": "tarpayelliṃgapāvakam",
@@ -475,12 +475,12 @@
 "quick_gloss": "idaṃ"
 },
 {
-"surface": "yajña",
-"quick_gloss": "yajña"
+"surface": "yajñapradānāṃgam",
+"quick_gloss": "yajña-pradāna-aṃgam"
 },
 {
-"surface": "pradānāṃgamīyaṃ",
-"quick_gloss": "pradāna-aṃga-mīyaṃ"
+"surface": "īyaṃ",
+"quick_gloss": "īyaṃ"
 },
 {
 "surface": "kaivalyapaddhatiḥ",
@@ -500,19 +500,19 @@
 "quick_gloss": "ātma-vidyā-phalaṃ"
 },
 {
-"surface": "caitadātmavidyāphalaṃ",
+"surface": "ca",
 "quick_gloss": "ca"
 },
 {
 "surface": "etad",
-"quick_gloss": "etad"
+"quick_gloss": "etat"
 },
 {
 "surface": "ātmavidyāphalaṃ",
 "quick_gloss": "ātma-vidyā-phalaṃ"
 },
 {
-"surface": "tvidam",
+"surface": "tu",
 "quick_gloss": "tu"
 },
 {
@@ -533,7 +533,7 @@
 "quick_gloss": "tena"
 },
 {
-"surface": "saṃpūjitaścāsau",
+"surface": "saṃpūjitaś",
 "quick_gloss": "saṃpūjitaḥ"
 },
 {
@@ -546,7 +546,7 @@
 },
 {
 "surface": "bhīmatvaṃ",
-"quick_gloss": "bhīma-tvaṃ"
+"quick_gloss": "bhīmatvaṃ"
 },
 {
 "surface": "tasya",
@@ -570,12 +570,12 @@
 "quick_gloss": "sa-bhaktaḥ"
 },
 {
-"surface": "paramākāśa",
-"quick_gloss": "parama-ākāśa"
+"surface": "paramākāśarūpaḥ",
+"quick_gloss": "parama-ākāśa-rūpaḥ"
 },
 {
-"surface": "rūponirmalatāṃgataḥ",
-"quick_gloss": "rūpa-nirmala-tāṃ"
+"surface": "nirmalatāṃ",
+"quick_gloss": "nirmala-tāṃ"
 },
 {
 "surface": "gataḥ",
@@ -592,23 +592,19 @@
 "tokens": [
 {
 "surface": "bhūmyādi",
-"quick_gloss": "bhūmi-ādi"
+"quick_gloss": "bhūmyādi"
 },
 {
-"surface": "sarvabhūtānāmavakāśa",
+"surface": "sarvabhūtānām",
 "quick_gloss": "sarva-bhūtānām"
 },
 {
 "surface": "avakāśa",
-"quick_gloss": "avakāśa"
+"quick_gloss": "avakāśaṃ"
 },
 {
 "surface": "pradasvayam",
-"quick_gloss": "pradaḥ"
-},
-{
-"surface": "svayam",
-"quick_gloss": "svayam"
+"quick_gloss": "pradāsvayam"
 }
 ]
 },
@@ -624,7 +620,7 @@
 "quick_gloss": "na"
 },
 {
-"surface": "puṇyairnna",
+"surface": "puṇyair",
 "quick_gloss": "puṇyaiḥ"
 },
 {
@@ -636,7 +632,7 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "pāpaiśca",
+"surface": "pāpaiś",
 "quick_gloss": "pāpaiḥ"
 },
 {
@@ -665,20 +661,20 @@
 "quick_gloss": "na"
 },
 {
+"surface": "apakāropakāraiś",
+"quick_gloss": "apakāra-upakāraiḥ"
+},
+{
 "surface": "ca",
 "quick_gloss": "ca"
 },
 {
-"surface": "baṃdhavimokṣābhyāṃ",
-"quick_gloss": "baṃdha-vimokṣābhyāṃ"
+"surface": "na",
+"quick_gloss": "na"
 },
 {
-"surface": "aspṛṣṭaścitsudhāmayaḥ",
-"quick_gloss": "aspṛṣṭaḥ"
-},
-{
-"surface": "citsudhāmayaḥ",
-"quick_gloss": "cit-sudhā-mayaḥ"
+"surface": "dāridryavibhūtibhiḥ",
+"quick_gloss": "dāridrya-vibhūtibhiḥ"
 }
 ]
 },
@@ -690,28 +686,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṃdharva",
-"quick_gloss": "gaṃdharva"
-},
-{
-"surface": "nagarākāramapi",
-"quick_gloss": "nagara-ākāram"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "na",
+"quick_gloss": "na"
 },
 {
 "surface": "ca",
 "quick_gloss": "ca"
 },
 {
-"surface": "anubhavatyataḥ",
-"quick_gloss": "anubhavati"
+"surface": "baṃdhavimokṣābhyāṃ",
+"quick_gloss": "baṃdha-vimokṣābhyāṃ"
 },
 {
-"surface": "ataḥ",
-"quick_gloss": "ataḥ"
+"surface": "aspṛṣṭaś",
+"quick_gloss": "aspṛṣṭaḥ"
+},
+{
+"surface": "citsudhāmayaḥ",
+"quick_gloss": "cit-sudhā-mayaḥ"
 }
 ]
 },
@@ -723,12 +715,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṃdharva",
-"quick_gloss": "gaṃdharva"
-},
-{
-"surface": "nagarākāramapi",
-"quick_gloss": "nagara-ākāram"
+"surface": "gaṃdharvanagarākāram",
+"quick_gloss": "gaṃdharva-nagara-ākāram"
 },
 {
 "surface": "api",
@@ -739,7 +727,7 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "anubhavatyataḥ",
+"surface": "anubhavaty",
 "quick_gloss": "anubhavati"
 },
 {
