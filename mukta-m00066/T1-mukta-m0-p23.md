@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[in-this](ānaṃdataṃtre) [also](ca) [indeed](eva) [in-this](āsmin) [four](catvāraḥ) [declared](paramīritāḥ)
+in-bliss-tantra + indeed-in-this + four + supreme-declared
 
 ## mukta-m0-p23-v552
-[therefore](tasmāt) [four](catvāraḥ) [delights](ullāsāḥ) [here](iha) [spoken](proktāḥ) [O-great-lady](maheśvari)
+therefore-four + illuminations + here + proclaimed + O-great-lady
 
 ## mukta-m0-p23-v553
-[therefore](tasmāt) [bliss](ānaṃda) [of-worship](pūjāyāḥ) [are-not-excluded](mālaṃvyaṃte) [but](tu) [not](na) [three](trayaḥ)
+therefore-bliss + worship + not-omitted + but + not + three
 
 ## mukta-m0-p23-v554
-[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [should-touch](parāmṛśet)
+thus + thus + supreme-bliss + lord-knowledge + should-contemplate
 
 ## mukta-m0-p23-v555
-[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [should-remember](smaret)
+by-messenger + kindled + own-self + bliss-form + guru + should-remember
 
 ## mukta-m0-p23-v556
-[at-twelve-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [should-place](vinikṣipet)
+at-twelfth-end + red-white-foot + should-place
 
 ## mukta-m0-p23-v557
-[of-śiva-sovereignty](śivatvasāmrājya) [foot](padā) [anointed](abhiṣiktaṃ) [own](svaṃ) [should-contemplate](viciṃtayet)
+Shiva-nature-empire + foot-consecrated + own + should-contemplate
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [limb](pratyaṃga) [sprout](maṃkūra) [to-swallow](danaṃ) [high-minded](gottuṃgamānasaḥ)
+seeing + limb-sprout-tooth + mountain-mind
 
 ## mukta-m0-p23-v559
-[as](yathā) [youth](yauvanam) [delight](ullāsaṃ) [obtains](saṃprāpnoti) [O-mother](aṃba) [messenger](dūtikā)
+as + youth-illumination + obtains + O-mother + messenger
 
 ## mukta-m0-p23-v560
-[by-gazing](ālokaneratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [ganges](jāhnavī)
+gazing-pleasure + directly + in-smile + awakens + Ganges
 
 ## mukta-m0-p23-v561
-[ashvins](aśvinau) [at-nose](nāsikābhāge) [and](tu) [on-lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
+Ashvins + nose-region + and-lips + and + supreme-nectar
 
 ## mukta-m0-p23-v562
-[in-sweat](svede) [and](ca) [varuni](vāruṇī) [goddess](devī) [desire-lord](kāmanāthaḥ) [thus](tvahaṃ) [in-act](kṛtau)
+in-sweat + and + Varuni-goddess + desire-lord + I + in-act
 
 ## mukta-m0-p23-v563
-[on-two-breasts](stanadvaye) [meru-mountain](merugiriḥ) [silent](niḥśabdaṃ) [in-brahma-middle](brahmamadhyame)
+in-two-breasts + Meru-mountain + soundless + in-Brahma-middle
 
 ## mukta-m0-p23-v564
-[in-three-folds](valitraye) [and](ca) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
+in-three-folds + and + three-worlds + in-navel-womb + cave-mother
 
 ## mukta-m0-p23-v565
-[in-nails](nakheṣu) [cool](śītāṃ) [kalā](śu) [kalā](kalā) [arm-root](dormmūleṃ) [goad-deity](kuśadevatāḥ)
+in-nails + cool + white + crescent + arm-root + hook-deities
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [also](ca) [indeed](eva) [in-exhalation](niśvāse) [goda](godā) [as](sītkāra) [act](karmaṇi)
+Kaveri + and-indeed + in-exhalation + Godasi + in-act
 
 ## mukta-m0-p23-v567
-[in-pure-lip-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
+in-pure-saliva-acts + mind-rest + leader
 
 ## mukta-m0-p23-v568
-[speech-lord](vākptiḥ) [pleasant-hum](sukhahuṃkāre) [speech-lord](gīṣpatī) [cuckoo-sound](kākukādhvanau)
+speech-power + in-pleasant-hum + in-Gishpati-cuckoo-sound
 
 ## mukta-m0-p23-v569
-[indra](iṃdraḥ) [mind-elevation](cittasamunnatyām) [agni](agnir) [thing](vastu) [grasps](grasītviṣi)
+Indra + in-mind-elevation + fire + object + swallows + in-ray
 
 ## mukta-m0-p23-v570
-[in-hand-movement](hastādicālane) [sacrifice](yajñaḥ) [and](tu) [in-embrace](āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
+in-hand-movement + sacrifice + in-embrace + sacrifice-person
 
 ## mukta-m0-p23-v571
-[graceful-dance](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyā) [body-etc](dehādi) [whirling](ghūrṇane)
+lasya + and + tandava + O-goddess + her + body-etc + whirling
 
 ## mukta-m0-p23-v572
-[those](tāni) [all](sarvāṇi) [occur](varttate) [of-her](tasyā) [cheekful](gaṃḍūṣavastuni)
+those-all + occur + in-her-mouthful-object
 
 ## mukta-m0-p23-v573
-[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-cheekful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
+that-fruit + obtains + messenger + nectar-mouthful + by-drinking
 
 ## mukta-m0-p23-v574
-[cheekful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [of-hero](vīrasya) [bliss](ānaṃda) [increasing](varddhanam)
+mouthful-first + O-goddess + hero's-bliss + increasing
 
 ## mukta-m0-p23-v575
-[ever-wet](nityaklinnā) [nectar-goddess](sudhā) [devī](devī) [pleasure](rati) [love](prītiḥ) [and](ca) [in-that-part](tadbhage)
+ever-moist-nectar + O-goddess + love + pleasure + and + in-that-part
