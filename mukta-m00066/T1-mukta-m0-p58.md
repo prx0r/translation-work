@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[pada-gloss](dṛṣṭa) [pada-gloss](sarvā) [pada-gloss](kṛtitvasya) [pada-gloss](ghaṭanaṃ) [pada-gloss](na) [pada-gloss](ghaṭe) [pada-gloss](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-doing](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [exists](bhavat)
 
 ## mukta-m0-p58-v1427
-[pada-gloss](tritvantu) [pada-gloss](vyavahārasyāpyapekṣaivātra) [pada-gloss](sammatam)
+[threefold-indeed](tritvantu) [of-practice](vyavahārasya) [also-expectation](apyapekṣa) [here](atra) [agreed](sammatam)
 
 ## mukta-m0-p58-v1428
-[pada-gloss](navamaṃ) [pada-gloss](śivatatvaṃ) [pada-gloss](tu) [pada-gloss](śabdabhāvyamihādhunā)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [sound-manifest](śabdabhāvyam) [here-now](ihādhunā)
 
 ## mukta-m0-p58-v1429
-[pada-gloss](śabdabhāsyatvamujhitvā) [pada-gloss](svādhyakṣeṇa) [pada-gloss](sabhāsate)
+[sound-manifestness](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[pada-gloss](svāśrayo) [pada-gloss](marudekasya) [pada-gloss](udāsīnaṃ) [pada-gloss](tamaḥ) [pada-gloss](smṛtam)
+[self-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-[pada-gloss](śivastu) [pada-gloss](sarvāśrayaḥ) [pada-gloss](syāt) [pada-gloss](tatra) [pada-gloss](samyagvivicyate)
+[śiva-but](śivastu) [all-support](sarvāśrayaḥ) [may-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[pada-gloss](mahyāṃ) [pada-gloss](siddhādirūpeṇa) [pada-gloss](vāyaumeghahimātmatā)
+[to-me](mahyāṃ) [as-siddhi-etc-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[pada-gloss](śabdemaṃghījalamarut) [pada-gloss](saṃśrayaḥ) [pada-gloss](kathitaḥ) [pada-gloss](priye)
+[sound-etc-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [told](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-[pada-gloss](saṃghātaśca) [pada-gloss](pṛthivyādeḥ) [pada-gloss](śarīratvena) [pada-gloss](kīrtyate)
+[aggregate-and](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [praised](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[pada-gloss](prāṇena) [pada-gloss](ceṣṭamānaṃ) [pada-gloss](yat) [pada-gloss](tat) [pada-gloss](sacit) [pada-gloss](kamihocyate)
+[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [that](tat) [conscious](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[pada-gloss](manaḥsaṃsrayaṇaṃ) [pada-gloss](prāṇi) [pada-gloss](sacit) [pada-gloss](kavapuṣismṛtam)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [conscious](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-[pada-gloss](sarveṣāmihatatvānāṃ) [pada-gloss](vikṛtirguṇabhedajā)
+[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtir) [from-quality-difference](guṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[pada-gloss](saṃghātajāśca) [pada-gloss](saṃghātā) [pada-gloss](bahavonaikarūpiṇaḥ)
+[aggregate-born-and](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-form](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[pada-gloss](bahunā) [pada-gloss](kimihoktena) [pada-gloss](kintatvairaparairjaḍaiḥ)
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principles-other-inert](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[pada-gloss](acchedyo'yamadāhoya) [pada-gloss](makledyośoṣya) [pada-gloss](eva) [pada-gloss](ca)
+[un-cuttable](acchedyo) [this](yam) [un-burnable](adāhoya) [un-wettable](makledyo) [driable](śoṣya) [indeed-and](eva ca)
 
 ## mukta-m0-p58-v1441
-[pada-gloss](sarvaviśvasya) [pada-gloss](janakaḥ) [pada-gloss](sarvaviśvasya) [pada-gloss](pālakaḥ)
+[of-all-universe](sarvaviśvasya) [father](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[pada-gloss](sa) [pada-gloss](giridvīpajaladhikānanā) [pada-gloss](sakalāmahī)
+[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[pada-gloss](etā) [pada-gloss](dṛśyastva) [pada-gloss](saṃkhyātā) [pada-gloss](vasudhāvāsavārcite)
+[these](etā) [visible-indeed](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[pada-gloss](jyotiścakraṃ) [pada-gloss](samastaṃ) [pada-gloss](ca) [pada-gloss](vāyu) [pada-gloss](naiva) [pada-gloss](pracālyate)
+[light-wheel](jyotiścakraṃ) [all-and](samastaṃ ca) [wind](vāyu) [not-indeed](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-[pada-gloss](sadā) [pada-gloss](carati) [pada-gloss](kutrāpi) [pada-gloss](sadā) [pada-gloss](ca) [pada-gloss](sthimitaḥ) [pada-gloss](kvacit)
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always-and](sadā ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[pada-gloss](yadā) [pada-gloss](pravahati) [pada-gloss](kṣipraṃ) [pada-gloss](saśabdena) [pada-gloss](tatodyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then-rises](tatodyate)
 
 ## mukta-m0-p58-v1447
-[pada-gloss](etat) [pada-gloss](tu) [pada-gloss](tattvaṃ) [pada-gloss](kathitamasyaivānyā) [pada-gloss](vibhūtayaḥ)
+[this-but](etat tu) [principle](tattvaṃ) [told](kathitam) [of-him-other](asyaivānyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[pada-gloss](tat) [pada-gloss](tacchāstra) [pada-gloss](sthitiḥ) [pada-gloss](sarvā) [pada-gloss](kathitā) [pada-gloss](girinaṃdini)
+[that](tat) [that-scripture](tacchāstra) [position](sthitiḥ) [all](sarvā) [told](kathitā) [mountain-daughter](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[pada-gloss](anyatra) [pada-gloss](mama) [pada-gloss](yat) [pada-gloss](kiṃcit) [pada-gloss](praṣṭavyaṃ) [pada-gloss](spṛṣṭamāśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [something](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-[pada-gloss](aneka) [pada-gloss](jantujālena) [pada-gloss](nibiḍasya) [pada-gloss](nirantaram)
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
