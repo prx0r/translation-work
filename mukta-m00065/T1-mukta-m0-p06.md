@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[diśaḥ](diśo) [virecya](virecya) [ca](cā) [astreṇa](streṇa) [vighna-nāśāya](vighnanāśāya) [daiśikaḥ](daiśikaḥ)
+directions+purifying by+weapon for+obstacle+destruction teacher
 
 ## mukta-m0-p06-v127
-[mantra-rakṣā-vidhim](mantrarakṣāvidhi) [kṛtvā](kṛtvā) [saṃjapa](saṃjapa) [niṣṭa-devatām](nniṣṭadevatām)
+mantra+protection+rite having+done recite devoted+deity
 
 ## mukta-m0-p06-v128
-[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [liṅga-dravya-nirṇaya-vana-praveśaḥ](liṅgadravyanirṇayavanapraveśo) [nāma](nāma) [prathama-vidhiḥ](prathamovidhiḥ)
+thus characteristic+collection linga+substance+determination+forest+entry named first+rite
 
 ## mukta-m0-p06-v129
-[svarūpam](svarūpaṃ) [kathyate](kathyate) [samyak](samyagiṣṭāniṣṭa) [iṣṭa-aniṣṭa](iṣṭāniṣṭa) [ca](ca) [karmaṇi](karmaṇi)
+own+form is+spoken correctly desirable+undesirable and in+actions
 
 ## mukta-m0-p06-v130
-[dhīraḥ](dhīraḥ) [śāstra-artha-kārī](śāstrārthakārī) [ca](ca) [kartā](kartā) [yaḥ](yaḥ) [sātvikaḥ](sātviko) [varaḥ](varaḥ)
+steadfast scripture+meaning+doer and agent who sattvic best
 
 ## mukta-m0-p06-v131
-[nāstikaḥ](nāstikastārkikaḥ) [tārkikaḥ](tārkikaḥ) [krūraḥ](krūraḥ) [kartā](kartā) [yaḥ](yaḥ) [tāmasaḥ](tāmaso) [adhamaḥ](dhamaḥ)
+atheist logician cruel agent who tamasic lowest
 
 ## mukta-m0-p06-v132
-[tasmāt](tasmātte) [te](te) [guravaḥ](guravo) [anveṣyāḥ](nveṣyā) [ye](ye) [tat-śāstreṣu](tacchāstreṣu) [bhāṣitāḥ](bhāṣitāḥ)
+therefore those teachers to+be+sought who in+those+scriptures spoken
 
 ## mukta-m0-p06-v133
-[antar-vedī-pratiṣṭhāna-śrāvastī](antarvedīpratiṣṭhānaśrāvastyā) [guravaḥ](guravo) [varāḥ](varāḥ)
+antarvedi+pratishthana+shravasti teachers best
 
 ## mukta-m0-p06-v134
-[āṅgāḥ](āṅgā) [jāṭa-udbhavāḥ](jāṭodbhavāśceti) [ca](ca) [ete](ete) [sapta](sapta) [madhyamāḥ](madhyamāḥ) [smṛtāḥ](smṛtāḥ)
+anga-born and+thus seven these middle remembered
 
 ## mukta-m0-p06-v135
-[vīra-jāḥ](vīrajā) [drāviḍa-apauṇḍrāḥ](drāviḍāpauṇḍrāstvaṣṭaiteguravo) [tu](tu) [aṣṭa](aṣṭa) [ete](ete) [guravaḥ](guravo) [adhamāḥ](dhamaḥ)
+viraja dravida+pundra eight these teachers low
 
 ## mukta-m0-p06-v136
-[vāṅga-gāndhāra-pauliṅgāḥ](vāṅgagāndhārapauliṅgā) [ete](ete) [sapta](sapta) [antyajāḥ](ntyajā) [matāḥ](matāḥ)
+vanga+gandhara+paulinga these seven outcaste considered
 
 ## mukta-m0-p06-v137
-[saurāṣṭrāḥ](saurāṣṭrā) [devarāṣṭrāḥ](devarāṣṭrāśca) [ca](ca) [aṣṭa](aṣṭa) [ete](ete) [ninditāḥ](ninditā) [bhṛśam](bhṛśam)
+saurashtra devarashtra and eight these condemned greatly
 
 ## mukta-m0-p06-v138
-[adhama-ādyāḥ](adhamādyāḥ) [śubhe](śubhe) [na](na) [iṣṭāḥ](iṣṭā) [āryāvarte](āryāvarte) [hi](hi) [doṣa-dāḥ](doṣadāḥ)
+low+etc in+auspicious not+desired aryavarta indeed fault+giving
 
 ## mukta-m0-p06-v139
-[yaḥ](yo) [deśaḥ](deśo) [madhya-bhāgaḥ](madhyabhāgaḥ) [syāt](syād) [āryāvartaḥ](āryāvartaḥ) [saḥ](sa) [kīrtitaḥ](kīrtitaḥ)
+which region middle+part is aryavarta that praised
 
 ## mukta-m0-p06-v140
-[gotra-gocara-saṃyuktāḥ](gotragocarasaṃyuktāḥ) [samaya-ādi-yukta-lakṣaṇāḥ](samayādyuktalakṣaṇāḥ)
+gotra+pasture+joined convention+etc+joined+marks
 
 ## mukta-m0-p06-v141
-[dīkṣā-guṇena-saṃpūrṇām](dīkṣāguṇenasaṃpūrṇāṃ) [ye](ye) [jānanti](jānantyatha) [atha](atha) [saṃhitām](saṃhitām)
+initiation+quality+filled who know then samhita
 
 ## mukta-m0-p06-v142
-[bhāryā-varta-udbhavāḥ](bhāryāvartodbhavāḥ) [śaivāḥ](śaivāḥ) [sarva-lakṣaṇa-lakṣitāḥ](sarvalakṣaṇalakṣitāḥ)
+bharyavarta-born shaivas all+marks+marked
 
 ## mukta-m0-p06-v143
-[pīṭha-dhāma-ādi-kuṇḍa-jñāḥ](pīṭhadhāmādikuṇḍajñāḥ) [pratiṣṭhā-sthāna-vedakāḥ](pratiṣṭhāsthānavedakāḥ)
+pitha+abode+etc+kunda+knowers installation+place+knowers
 
 ## mukta-m0-p06-v144
-[lobha-moha-parityaktāḥ](lobhamohaparityaktāḥ) [śāntāḥ](śāntā) [dāntāḥ](dāntā) [vimatsarāḥ](vimatsarāḥ)
+greed+delusion+abandoned peaceful controlled free+from+envy
 
 ## mukta-m0-p06-v145
-[sātvikāḥ](sātvikā) [nipuṇāḥ](nipuṇā) [dakṣāḥ](dakṣāḥ) [pañca-śrauta-artha-vedakāḥ](pañcaśrautārthavedakāḥ)
+sattvic skillful capable five+shruti+meaning+knowers
 
 ## mukta-m0-p06-v146
-[dṛḍha-vratāḥ](dṛḍhavratājanadrohisatyavāgbhūtavatsalāḥ) [jana-drohī](jana-drohī) [satya-vāk](satya-vāk) [bhūta-vatsalāḥ](bhūta-vatsalāḥ)
+firm+vow not+injuring+truth+speech+beings+loving
 
 ## mukta-m0-p06-v147
-[dīkṣitāḥ](dīkṣitāḥ) [śiva-śāstre](śivaśāstre) [smin](smiṃ) [catvāraḥ](catvāro) [brāhmaṇa-ādayaḥ](brāhmaṇādayaḥ)
+initiated in+shiva+scripture in+this four brahmana+etc
 
 ## mukta-m0-p06-v148
-[yojitaḥ](yojitaḥ) [śiva-tattve](śivatattve) [yaḥ](yaḥ) [śiva-rūpam](śivarūpam) [avāptavān](avāptavān)
+joined in+shiva+truth who shiva+form+obtained
 
 ## mukta-m0-p06-v149
-[śūdra-ādīnām](śūdrādīnāṃ) [tathā](tathā) [mantraiḥ](mantrairyuktānāṃ) [yuktānām](yuktānāṃ) [śreṣṭhatā](śreṣṭhatā) [bhavet](bhavet)
+shudra+etc and by+mantras joined superiority becomes
 
 ## mukta-m0-p06-v150
-[tathaiva](tathaiva) [mantra-saṃyogāt](mantrasaṃyogāccāturvarṇaḥ) [cāturvarṇaḥ](cāturvarṇaḥ) [śivī](śivī) [bhavet](bhavet)
+likewise by+mantra+union four+varna shiva becomes
