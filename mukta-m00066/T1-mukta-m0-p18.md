@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga-śakti](anaṃgaśaktayoṣṭau) [tu](tu) [pūjanīya](pūjanīyāmanīṣibhiḥ)
+[love-powers-eight](anaṃgaśaktayoṣṭau) [indeed](tu) [worshipped-by-wise](pūjanīyāmanīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madana-āturayā](madanāturayā) [saha](saha)
+[love-god-love-god](anaṃgamadanānaṃga) [love-sick-one-with](madanāturayā) [with](saha)
 
 ## mukta-m0-p18-v428
-[anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīya](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+[love-garlanded](anaṃgamālinī) [and-eight](cāṣṭau) [worshipped](pūjanīyā) [by-rite](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[ānaṃda-cakra](ānaṃdacakramānaṃda) [kolāhala-vivarddhana](kolāhalavivarddhanam)
+[bliss+wheel+bliss](ānaṃdacakramānaṃda) [uproar+increasing](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjara](samullāsapiṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
+[lightning+radiance](taṭitprabhā) [shining+cages](samullāsapiṃjaraiḥ) [love+rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[anaṃga-śakti-saṃkṣobha](anaṃgaśakti) [nāḍībhyaḥ-galita](saṃkṣobhāṃ) [nava](nāḍībhyogalitaṃ) [nava](navam)
+[love+power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from+channels+flowing](nāḍībhyogalitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāga](pūrṇarāgāṃ) [kurāruṇa](kurāruṇam)
+[erotic+flow+full](śṛṃgāravāhinīpūra) [full+passion](pūrṇarāgāṃ) [red+dawn](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[manmatha-drava-saṃdoha](manmathadrava) [juṣṭa-artha-prabhedana](saṃdoha) [juṣṭa](juṣṭamarthaprabhedanaiḥ)
+[love+liquid](manmathadrava) [abundance](saṃdoha) [endowed+meaning+differentiation](juṣṭamarthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[ka](keyaṃ) [caṃdra-kalā-nāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+[who+this](keyaṃ) [moon+digit+named](caṃdrakalānāma) [where](kutra) [stands](tiṣṭhati) [Śaṅkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[śṛṇu-kāma-kalā-nāma](śṛṇukāmakalānāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
+[listen+love+digit+named](śṛṇukāmakalānāma) [channel+enjoyment+water+flowing](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-[nāḍī-cakra](nāḍīcakraṃ) [samasta](samastaṃ) [ca](ca) [tayā](tayā) [vyāpta](vyāptaṃ) [varānane](varānane)
+[channel+wheel](nāḍīcakraṃ) [all](samastaṃ) [and](ca) [by+her+pervaded](tayā vyāptaṃ) [fair+faced](varānane)
 
 ## mukta-m0-p18-v437
-[kāścit-ānaṃda-vāhinī](kāścidānaṃdavāhinya) [eka-eva-mala-vāhinī](ekaivamalavāhinī)
+[some+bliss+flowing](kāścidānaṃdavāhinya) [one+impurity+flowing](ekaivamalavāhinī)
 
 ## mukta-m0-p18-v438
-[aṣṭau-bhoga-ambu-vāhinī](aṣṭaubhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra-kalā-parā](caṃdrakalā) [parā](parā)
+[eight+enjoyment+water+flowing](aṣṭaubhogāṃbuvāhinyaḥ) [in+them+moon+digit+supreme](tāsu caṃdrakalā parā)
 
 ## mukta-m0-p18-v439
-[caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
+[moon+line](caṃdrarekhā) [moon+possessing](caṃdravatī) [thus](tathā) [moon+great+rise](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[etā-bhoga-ambu-vāhinī](etābhogāṃbuvāhinya) [sva-aṃśa-caṃdra-kalā-āśritā](svāṃśaiścaṃdrakalāśritāḥ)
+[these+enjoyment+water+flowing](etābhogāṃbuvāhinya) [own+parts+moon+digit+supported](svāṃśaiścaṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-[pradhāna-bhūta](pradhānabhūtā) [vilasad-vidyut-dāma-sama-prabhā](vilasadvidyuddāma) [sama-prabhā](samaprabhā)
+[principal+being](pradhānabhūtā) [shining+lightning+garland](vilasadvidyuddāma) [equal+radiance](samaprabhā)
 
 ## mukta-m0-p18-v442
-[sarva-nāḍī-mūla-bhūta](sarvanāḍīmūlabhūtaṃ) [nābhi-cakra](nābhicakraṃ) [samāśritā](samāśritā)
+[all+channels+root+being](sarvanāḍīmūlabhūtaṃ) [navel+wheel](nābhicakraṃ) [supported](samāśritā)
 
 ## mukta-m0-p18-v443
-[tan-mukha-udghāṭana](tanmukhot) [loke](ghāṭanaṃ) [durlabha](loke) [parameśvarī](durlabhaṃ) [parameśvarī](parameśvari)
+[that+mouth+opening](tanmukhot ghāṭanaṃ) [in+world](loke) [rare](durlabhaṃ) [supreme+goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-[dvi-tri-ānām-eva](dvitrāṇāmeva) [jāyeta](jāyeta) [sahasreṣu-atha-kauliṣu](sahasreṣvathakauliṣu)
+[of+two+three+only](dvitrāṇāmeva) [arises](jāyeta) [among+thousands+then+Kaulas](sahasreṣvathakauliṣu)
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt-vā-api-iha-janmani](sakṛdvāpīhajanmani)
+[whose](yasya) [liṅga+lord+union](liṃgesvarāseka) [once+or+birth](sakṛdvāpīhajanmani)
 
 ## mukta-m0-p18-v446
-[anirvācya-nirvāṇa-padavī-nadaviyasī](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavīnadaviyasī)
+[ineffable](anirvācyasya) [liberation](nirvāṇa) [path+incomparable](padavīnadaviyasī)
 
 ## mukta-m0-p18-v447
-[samaya-parijñāna](samayasya) [upacāra-kalpanā](parijñānādupacārasya) [kalpanāt](kalpanāt)
+[of+convention](samayasya) [from+knowledge](parijñānāt) [of+worship](upacārasya) [by+imagination](kalpanāt)
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid-unmeṣa](kvacidunmeṣaṃ) [mukha-udghāṭana-lakṣaṇa](mukhodghāṭanalakṣaṇam)
+[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth+opening+mark](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-[tad-artha-anya-eva-śāstra](tadarthānyevaśāstrāṇi) [tad-artha-pravṛtti](tadarthāśca) [pravṛttayaḥ](pravṛttayaḥ)
+[for+that+purpose+scriptures](tadarthānyevaśāstrāṇi) [for+that+purpose+and+practices](tadarthāśca pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[tasmāt-caṃdra-kalā-nāḍyām](tasmāccaṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhi](bhogāmṛtamahodadhim)
+[therefore+in+moon+digit+channel](tasmāccaṃdrakalānāḍyāṃ) [enjoyment+nectar+great+ocean](bhogāmṛtamahodadhim)
