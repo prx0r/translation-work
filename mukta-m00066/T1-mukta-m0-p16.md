@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[akliṣṭa-tā](akliṣṭatā) [puṣṭa-tā](puṣṭatā) [ca](ca) [ratha-nemi-samāna-tā](rathanemisamānatā)
-
+[pada-gloss](akliṣṭatā) [pada-gloss](puṣṭatā) [pada-gloss](ca) [pada-gloss](rathanemisamānatā)
 ## mukta-m0-p16-v377
-[phaṇi-śīrṣa-samāna-tvam](phaṇiśīrṣasamānatvaṃ) [prasanna-drava-tā](prasannadravatā) [tathā](tathā)
-
+[pada-gloss](phaṇiśīrṣasamānatvaṃ) [pada-gloss](prasannadravatā) [pada-gloss](tathā)
 ## mukta-m0-p16-v378
-[sarva-lakṣaṇa-yukta-tvam](sarvalakṣaṇa) [kula-lakṣaṇa-vihīna-tā](kulakṣaṇavihīnatā)
-
+[pada-gloss](sarvalakṣaṇa) [pada-gloss](yuktatvaṃ) [pada-gloss](kulakṣaṇavihīnatā)
 ## mukta-m0-p16-v379
-[saṃskāra-sya](saṃskārasya) [mahimnā](mahimneva) [iva](iva) [bhāsaṃte](bhāsaṃte) [te](te) [guṇāḥ](guṇāḥ) [priye](priye)
-
+[pada-gloss](saṃskārasya) [pada-gloss](mahimneva) [pada-gloss](bhāsaṃte) [pada-gloss](te) [pada-gloss](guṇāḥ) [pada-gloss](priye)
 ## mukta-m0-p16-v380
-[saṃskāraḥ](saṃskāropi) [api](api) [samastāni](samastāni) [vastūni](vastūninyāvasetpriye) [nyāvaset](nyāvaset) [priye](priye)
-
+[pada-gloss](saṃskāropi) [pada-gloss](samastāni) [pada-gloss](vastūninyāvasetpriye)
 ## mukta-m0-p16-v381
-[sarva-saubhāgya-janakam](sarvasaubhāgyajanakaṃ) [sarva-siddhi-mahā-padam](sarvasiddhimahāpadaṃ)
-
+[pada-gloss](sarvasaubhāgyajanakaṃ) [pada-gloss](sarvasiddhimahāpadaṃ)
 ## mukta-m0-p16-v382
-[ānanda-bhairava-sya](ānaṃda) [arcā-sādhanam](bhairavasyārcāsādhanaṃ) [viśva-mohanam](viśvamohanam)
-
+[pada-gloss](ānaṃda) [pada-gloss](bhairavasyārcāsādhanaṃ) [pada-gloss](viśvamohanam)
 ## mukta-m0-p16-v383
-[su-śobha-dakra-ma-grāsī](suśobhadakramagrāsī) [samasta-āpana-nikṛṃtanam](samastāpannikṛṃtanam)
-
+[pada-gloss](suśobhadakramagrāsī) [pada-gloss](samastāpannikṛṃtanam)
 ## mukta-m0-p16-v384
-[veśma-caṃdra-kalānām](veśmacaṃdrakalānāṃ) [ca](ca) [sadma-saubhāgya-saṃpadām](sadmasaubhāgyasaṃpadām)
-
+[pada-gloss](veśmacaṃdrakalānāṃ) [pada-gloss](ca) [pada-gloss](sadmasaubhāgyasaṃpadām)
 ## mukta-m0-p16-v385
-[samasta-roga-janakam](samastarogajanakaṃ) [daurbhāgyasya-pravartakam](daurbhāgyasyapravartakam)
-
+[pada-gloss](samastarogajanakaṃ) [pada-gloss](daurbhāgyasyapravartakam)
 ## mukta-m0-p16-v386
-[loka-upakrośa-janakam](lokopakrośajanakaṃ) [loka-dhikkāra-dāyakam](lokadhikkāradāyakam)
-
+[pada-gloss](lokopakrośajanakaṃ) [pada-gloss](lokadhikkāradāyakam)
 ## mukta-m0-p16-v387
-[phelinaṃ](phelinaṃ) [naṣṭam](naṣṭam) [ucchiṣṭam](ucchiṣṭam) [apakṛṣṭam](apakṛṣṭaṃ) [vicarcitam](vicarcitam)
-
+[pada-gloss](phelinaṃ) [pada-gloss](naṣṭamucchiṣṭamapakṛṣṭaṃ) [pada-gloss](vicarcitam)
 ## mukta-m0-p16-v388
-[antaḥ](aṃtaḥ) [karkaśa-carma-āḍhyam](karkkaśacarmāḍhyamaṃtargojihvayānvitam) [antaḥ-go-jihvayā-anvitam](aṃtargojihvayānvitam)
-
+[pada-gloss](aṃtaḥ) [pada-gloss](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
 ## mukta-m0-p16-v389
-[pāma-kaṇḍū-pracuritam](pāmakaṇḍūpracuritaṃ) [pāpiṣṭam](pāpiṣṭaṃ) [kathitam](kathitaṃ) [dravam](dravam)
-
+[pada-gloss](pāmakaṇḍūpracuritaṃ) [pada-gloss](pāpiṣṭaṃ) [pada-gloss](kathitaṃ) [pada-gloss](dravam)
 ## mukta-m0-p16-v390
-[svakīya-vapuḥ](svakīya) [vai](vai) [tat](tat) [pūjā-sādhanam](pūjāsādhanamiṣyate) [iṣyate](iṣyate)
-
+[pada-gloss](svakīya) [pada-gloss](vapure) [pada-gloss](vai) [pada-gloss](tat) [pada-gloss](pūjāsādhanamiṣyate)
 ## mukta-m0-p16-v391
-[sannidhatte](sannidhatte) [paraḥ-sākṣāt](paraḥsākṣādānaṃdādvaita) [ānanda-advaita-rūpa-dhṛt](rūpadhṛt)
-
+[pada-gloss](sannidhatte) [pada-gloss](paraḥsākṣādānaṃdādvaita) [pada-gloss](rūpadhṛt)
 ## mukta-m0-p16-v392
-[dūtī-mukhasya](dūtī) [saṃskāraḥ](mukhasya) [kathyate](saṃskāraḥ) [śṛṇu-saṃdari](kathyate) [śṛṇu-saṃdari](śṛṇusaṃdari)
-
+[pada-gloss](dūtī) [pada-gloss](mukhasya) [pada-gloss](saṃskāraḥ) [pada-gloss](kathyate) [pada-gloss](śṛṇusaṃdari)
 ## mukta-m0-p16-v393
-[uttejanam](uttejanaṃ) [ca](ca) [śastreṇa](śastreṇa) [nirmalīkaraṇam](nirmalīkaraṇaṃ) [punaḥ](punaḥ)
-
+[pada-gloss](uttejanaṃ) [pada-gloss](ca) [pada-gloss](śastreṇa) [pada-gloss](nirmalīkaraṇaṃ) [pada-gloss](punaḥ)
 ## mukta-m0-p16-v394
-[taila-gaṇḍūṣaṇāt](tailagaṇḍuṣaṇāt) [kāṃtiḥ](kāṃtirdaṃtānāmupajāyate) [daṃtānām](daṃtānām) [upajāyate](upajāyate)
-
+[pada-gloss](tailagaṇḍuṣaṇāt) [pada-gloss](kāṃtirdaṃtānāmupajāyate)
 ## mukta-m0-p16-v395
-[trikaṭu](trikaṭu) [triphala](triphalāmāṃsi) [māṃsi](māṃsi) [guḍa-tvak-patra-kesaraiḥ](guḍatvakpatrakesaraiḥ)
-
+[pada-gloss](trikaṭu) [pada-gloss](triphalāmāṃsi) [pada-gloss](guḍatvakpatrakesaraiḥ)
 ## mukta-m0-p16-v396
-[kṛtvā](kṛtvākṣa) [akṣa-sadṛśān](sadṛśān) [piṇḍān](piṇḍān) [tam](taṃ) [pūrvam](pūrvaṃ) [dūtikā-gilet](dūtikāgilet)
-
+[pada-gloss](kṛtvākṣa) [pada-gloss](sadṛśān) [pada-gloss](piṇḍān) [pada-gloss](taṃ) [pada-gloss](pūrvaṃ) [pada-gloss](dūtikāgilet)
 ## mukta-m0-p16-v397
-[malena](malenaivāpa) [eva](eva) [apa-sṛṣṭānām](sṛṣṭānāṃ) [sarveṣām](sarveṣāṃ) [śamanam](śamanaṃ) [bhavet](bhavet)
-
+[pada-gloss](malenaivāpa) [pada-gloss](sṛṣṭānāṃ) [pada-gloss](sarveṣāṃ) [pada-gloss](śamanaṃ) [pada-gloss](bhavet)
 ## mukta-m0-p16-v398
-[mardanīyam](mardaniyaṃ) [prayatnena](prayatnena) [guṭikā-ākārayet](guṭikākārayedbudhaḥ) [budhaḥ](budhaḥ)
-
+[pada-gloss](mardaniyaṃ) [pada-gloss](prayatnena) [pada-gloss](guṭikākārayedbudhaḥ)
 ## mukta-m0-p16-v399
-[dūtikā-saurabhya](pūtikāmati) [śāli-vaktram](śālivaktraṃ) [prakalpayet](prakalpayet)
-
+[pada-gloss](pūtikāmati) [pada-gloss](saurabhya) [pada-gloss](śālivaktraṃ) [pada-gloss](prakalpayet)
 ## mukta-m0-p16-v400
-[ittham](itthaṃ) [śarīra-saṃskāraḥ](śarīrasaṃskāro) [bāhya-ābhyaṃtaraḥ](bāhyābhyaṃtara) [īritaḥ](īritaḥ)
+[pada-gloss](itthaṃ) [pada-gloss](śarīrasaṃskāro) [pada-gloss](bāhyābhyaṃtara) [pada-gloss](īritaḥ)
