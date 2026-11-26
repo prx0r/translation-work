@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[t1-pada](ebhistu) [t1-pada](paṃcabhiryuktaiḥ) [t1-pada](snānamarcādiśodhanam)
+[by-these](ebhistu) [five](paṃcabhir) [with](yuktaiḥ) [bath+worship+etc+purification](snānamarcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-[t1-pada](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
+[īśāna+vaktra+ghora+āhvaguhyā+jāta+named+mantras](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[t1-pada](vṛṣaśṛṅgasamutkhātāḥ) [t1-pada](pavakāśrayasambhavāḥ)
+[bull-horn+uprooted](vṛṣaśṛṅgasamutkhātāḥ) [fire+abode+born](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[t1-pada](ajena) [t1-pada](kṣālanātpṛthvīkramatastu) [t1-pada](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step+by+step](kramatastu) [with+arts](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[t1-pada](kavoṣṇaistu) [t1-pada](tṛtīyena) [t1-pada](snānaṃ) [t1-pada](ṭaṅkakṣatāpaham)
+[lukewarm](kavoṣṇaiḥ) [third](tṛtīyena) [bath](snānaṃ) [axe-cut+removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-[t1-pada](nidigdhikā) [t1-pada](balāmūlaiḥ) [t1-pada](snānaṃ) [t1-pada](guhyena) [t1-pada](doṣahṛt)
+[nidigdhikā](nidigdhikā) [balā+roots](balāmūlaiḥ) [bath](snānaṃ) [secret+fault+removing](guhyena doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[t1-pada](dhātryā) [t1-pada](snānānmahītyakte) [t1-pada](sadyojātena) [t1-pada](śuddhyati)
+[by-dhātrī](dhātryā) [bath](snānāt) [earth+clear](mahītyakte) [sadyojāta+purified](sadyojātena śuddhyati)
 
 ## mukta-m0-p68-v1683
-[t1-pada](samudvartya) [t1-pada](mahādevaṃ) [t1-pada](tīrthotthaiḥ) [t1-pada](snāpayejjalaiḥ)
+[having-rubbed](samudvartya) [mahādeva](mahādevaṃ) [tīrtha+born](tīrthotthaiḥ) [bathe](snāpayej) [waters](jalaiḥ)
 
 ## mukta-m0-p68-v1684
-[t1-pada](puṣkaraṃ) [t1-pada](naimiṣāraṇyaṃ) [t1-pada](tīrthaṃ) [t1-pada](ca) [t1-pada](varūṇaṃ) [t1-pada](tathā)
+[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [and](ca) [varuṇa](varūṇaṃ) [thus](tathā)
 
 ## mukta-m0-p68-v1685
-[t1-pada](jāhnavī) [t1-pada](yamunā) [t1-pada](kauśī) [t1-pada](sarayū) [t1-pada](śoṇanarmadā)
+[ganges](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[t1-pada](saptagodāvarītyetāḥ) [t1-pada](puṇyanadyo) [t1-pada](mahājalaiḥ)
+[seven+godāvarī](saptagodāvarī) [these](tyetāḥ) [holy+rivers](puṇyanadyo) [great+waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[t1-pada](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
+[alkali+milk+curd+oil+sugarcane+juice+surā+water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-[t1-pada](sphāṭikaṃ) [t1-pada](padyarāgaṃ) [t1-pada](ca) [t1-pada](rājāvartaḥsuvidrumam)
+[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [ca](ca) [rājāvarta](rājāvartaḥ) [suvidruma](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[t1-pada](etadratnodakaiḥ) [t1-pada](snānaṃ) [t1-pada](mahābhūtikaraṃ) [t1-pada](param)
+[this+gem+water+bath](etadratnodakaiḥ snānaṃ) [great+prosperity+giving](mahābhūtikaraṃ) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[t1-pada](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
+[camphor+aguru+musk+kāśmarī+sandal+etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[t1-pada](snāpayedgandhatoyena) [t1-pada](ajātenābhimantritam)
+[bathe](snāpayed) [fragrant+water](gandhatoyena) [ajāta+mantra](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-[t1-pada](puṇḍarīkābjamālūranīlaraktotpalārkajam)
+[white-lotus+blue-lotus+red-lotus+arka-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-[t1-pada](sahakārāśvamāraṃ) [t1-pada](ca) [t1-pada](punnāgabakulāni) [t1-pada](ca)
+[sahakāra+aśvamāra](sahakārāśvamāraṃ) [ca](ca) [punnāga+bakula](punnāgabakulāni) [ca](ca)
 
 ## mukta-m0-p68-v1694
-[t1-pada](pāṭalādroṇanepālī) [t1-pada](kuśakiṃśukasiṃhikāḥ)
+[pāṭalā+droṇa+nepālī](pāṭalādroṇanepālī) [kuśa+kiṃśuka+siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[t1-pada](mṛdukundābjapatrī) [t1-pada](ca) [t1-pada](vṛṣarṣibukapuṣpakam)
+[soft+kunda+lotus-leaf](mṛdukundābjapatrī) [ca](ca) [bull+sage+buka+flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[t1-pada](bilāmramocanāraṅga) [t1-pada](panasaṃ) [t1-pada](nālikerakam)
+[bilva+āmra+mocana+āraṅga](bilāmramocanāraṅga) [panasa](panasaṃ) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[t1-pada](vadarībījapūraṃ) [t1-pada](ca) [t1-pada](kava) [t1-pada](mardaṃ) [t1-pada](satindukam)
+[jujube+citron](vadarībījapūraṃ) [ca](ca) [kara+marda](karamardaṃ) [satinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[t1-pada](phalasnānamidaṃ) [t1-pada](pupyaṃ) [t1-pada](karturicchāphalapradam)
+[fruit+bath](phalasnānam) [this](idam) [auspicious](pupyaṃ) [doer+desired+fruit+giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-[t1-pada](tilagodhumasugdādi) [t1-pada](yavadhānyapriyaṅgubhiḥ)
+[sesame+wheat+sugdā+etc](tilagodhumasugdādi) [barley+grains+priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[t1-pada](pañcabrahmodbhavairmantrairmahāsnānaṃ) [t1-pada](śubhapradam)
+[five+brahmā+born+mantras](pañcabrahmodbhavairmantrair) [great+bath](mahāsnānaṃ) [auspicious+giving](śubhapradam)
