@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[so-like](tadvad) [vedas](vedāḥ) [bad-brahmin-standings](kuviprasthāḥ) [doer](kartuḥ) [would-be](syuḥ) [inauspicious-giving](aśubhapradāḥ)
+so-like vedas bad-brahmin-standings doer become inauspicious-giving
 
 ## mukta-m0-p12-v277
-[these](ete) [shaiva](śaivāḥ) [called](samākhyātāḥ) [not](na) [these](te) [brahmins](brāhmaṇāḥ) [ever](kvacit)
+these shaivas called not indeed these brahmins ever
 
 ## mukta-m0-p12-v278
-[purified](saṃskṛtānāṃ) [because](yataḥ) [their](teṣāṃ) [perish](naśyante) [former-births](pūrvajātayaḥ)
+of-purified because their perish previous-births
 
 ## mukta-m0-p12-v279
-[separate](pṛthak) [mantra-agamas](mantrāgamāḥ) [their](eṣāṃ) [vows](vratāni) [sacrifices](kratavaḥ) [separate](pṛthak)
+separate mantras-agamas theirs vows sacrifices separate
 
 ## mukta-m0-p12-v280
-[foolish](mugdhāḥ) [do](kurvanti) [who](ye) [brahmins](viprāḥ) [shiva-establishment](śivādisthāpanaṃ) [in-kali](kalau)
+fools do who brahmins shiva-etc-installation in-kali
 
 ## mukta-m0-p12-v281
-[so-too](tathaiva) [in-shiva-sacrifices](śivayāgeṣu) [not](na) [mantras](mantrāḥ) [vedic-etc](vaidikādayaḥ)
+so-too in-shiva-sacrifices not mantras vaidika-etc
 
 ## mukta-m0-p12-v282
-[not](na) [door](dvāraṃ) [pavilion-etc](maṇḍapādi) [and](ca) [establishment](sthāpanaṃ) [not](na) [in-shiva-etc](śivādike)
+not door pavilion-etc and installation not in-shiva-etc
 
 ## mukta-m0-p12-v283
-[therefore](tasmāt) [by-shaiva-mantra](śaivena+mantreṇa) [establish](pratiṣṭheta) [shiva-etc](śivādikam)
+therefore by-shaiva mantra install shiva-etc
 
 ## mukta-m0-p12-v284
-[shiva-mantras](śivamantraiḥ) [of-them](tayoḥ) [properly](samyak) [shiva-ness](śivatvaṃ) [not](na) [other-mantra](anyamantrataḥ)
+by-shiva-mantras of-them properly shiva-ness not-by-other-mantra
 
 ## mukta-m0-p12-v285
-[not](na) [other-view-mantra](anyadarśanamantraiḥ) [or](vā) [establishment](pratiṣṭhā) [would-be](syāt) [of-shiva](śivasya) [but](tu)
+not-by-other-doctrine-mantras or installation be of-shiva but
 
 ## mukta-m0-p12-v286
-[not](na) [also](ca) [shaiva-rite](śaivīkriyā) [in-veda](vede) [not](na) [also](ca) [sword-etc-siddhis](khaḍgadisiddhayaḥ)
+not and shaiva rite in-veda not and sword-etc-siddhis
 
 ## mukta-m0-p12-v287
-[agnishtoma-etc](agniṣṭomādayaḥ) [sacrifices](yajñāḥ) [veda-declared](vedoktāḥ) [by-ishvara](īśvareṇa) [but](tu)
+agnishtoma-etc sacrifices veda-declared by-ishvara but
 
 ## mukta-m0-p12-v288
-[siddhanta-establishment](siddhāntasthāpanaṃ) [initiation](dīkṣāṃ) [not](na) [said](uktam) [in-vedas](vedeṣu) [by-shambhu](śaṃbhunā)
+siddhanta-installation initiation not-said in-vedas by-shambhu
 
 ## mukta-m0-p12-v289
-[self-mantra-seed-born](svamantrabījajāḥ) [gods](devāḥ) [not](na) [many-syllable-pomp](bahvakṣaraḍambarāt)
+own-mantra-seed-born gods not by-many-syllable-pomp
 
 ## mukta-m0-p12-v290
-[not](na) [these](ete) [shiva-path-tattva-knowers](śivādhvatattvajñāḥ) [praisers](stāvakāḥ) [people-pleasing](janarañjakāḥ)
+not-these shiva-path-tattva-knowers praisers people-pleasing
 
 ## mukta-m0-p12-v291
-[by-praise](stutyā) [establishment](sthāpanaṃ) [not](na) [would-be](syāt) [shiva-linga](śivaliṅge) [moving-still](calācale)
+by-praise only installation not be in-shiva-linga movable-immovable
 
 ## mukta-m0-p12-v292
-[by-shaiva-teachers](śaivācāryaiḥ) [but](tu) [that](sā) [should-be-done](kāryā) [rudra-brahma-sun-wheel](rudrabrahmārkacakriṇām)
+by-shaiva-teachers but that done of-rudra-brahma-sun-wheel
 
 ## mukta-m0-p12-v293
-[yaksha-rakshasa-yoginis](yakṣarākṣasayoginyaḥ) [hosts](gaṇāḥ) [gauris](gauryaḥ) [and-other](tathāparāḥ)
+yaksha-rakshasa-yoginis hosts gauris and-others
 
 ## mukta-m0-p12-v294
-[self-known](svasaṃvedye) [even](api) [passion-blind](rāgāndhāḥ) [brahmins](dvijāḥ) [ishvara-blasphemers](īśvaranindakāḥ)
+self-known even passion-blind brahmins ishvara-blasphemers
 
 ## mukta-m0-p12-v295
-[they](te) [also](api) [to-be-abandoned](tyājyāḥ) [at-establishment-beginning](pratiṣṭhādau) [from-afar](dūrāt) [buddhist-brahmins-etc](bauddhadvijādayaḥ)
+they also rejectable at-installation-start from-afar buddhist-brahmins-etc
 
 ## mukta-m0-p12-v296
-[shiva-etc-establishment](śivādisthāpanaṃ) [should-be-done](kāryaṃ) [not](nānyaiḥ) [by-brahmins-etc](brāhmaṇādibhiḥ)
+shiva-etc-installation to-be-done not-by-others but brahmins-etc
 
 ## mukta-m0-p12-v297
-[own-duties-devoted](svakarmābhiratāḥ) [brahmins](viprāḥ) [shaiva-etc](śaivādyāḥ) [kapila-end](kāpilāntakāḥ)
+own-duty-devoted brahmins shaiva-etc kapila-end
 
 ## mukta-m0-p12-v298
-[with-own-six-duties](svaṣaṭkarmānvitaḥ) [always](nityaṃ) [not](nānya) [other-duty](karmā) [brahmin](dvijo) [would-be](bhavet)
+own-six-rites-endowed always not-other-rite twice-born be
 
 ## mukta-m0-p12-v299
-[teaching](adhyāpanam) [thus](iti) [would-be](syuḥ) [and](ca) [six-duties](ṣaṭkarmāṇi) [always](sadā) [in-brahmin](dvije)
+teaching thus be and six-rites always in-twice-born
 
 ## mukta-m0-p12-v300
-[grass-etc-price-begging-food](tṛṇādimūlyabhikṣānnavṛttiḥ) [would-be](syāt) [brahmin](brāhmaṇaḥ) [best](varaḥ)
+grass-etc-price-begging-food-livelihood be brahmin best
