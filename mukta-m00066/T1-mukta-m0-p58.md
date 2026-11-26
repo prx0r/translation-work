@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[seen](dṛṣṭa) [all](sarvā) [of-creation](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-action](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
 
 ## mukta-m0-p58-v1427
 [threefold](tritvantu) [of-practice](vyavahārasya) [also-dependence](apyapekṣa) [here](atra) [agreed](sammatam)
@@ -11,7 +11,7 @@
 [ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [sound-becoming](śabdabhāvyam) [here-now](ihādhunā)
 
 ## mukta-m0-p58-v1429
-[sound-being](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
+[sound-manifestness](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
 [self-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
@@ -41,16 +41,16 @@
 [aggregate-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-form](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what-here-said](kimihoktena) [what-principles](kintatvair) [other-inert](aparairjaḍaiḥ)
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principles-other-inert](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[un-cuttable](acchedyo) [this](yam) [un-burnable](adāhoya) [un-wettable](makledyo) [un-dryable](śoṣya) [indeed](eva) [and](ca)
+[un-cuttable](acchedyo) [this](yam) [un-burnable](adāhoya) [un-wettable](makledyo) [driable](śoṣya) [indeed](eva) [and](ca)
 
 ## mukta-m0-p58-v1441
 [of-all-universe](sarvaviśvasya) [father](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
+[he](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [whole-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
 [these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
@@ -62,10 +62,10 @@
 [always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [and](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [that](tat) [rises](udyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tat) [rises](udyate)
 
 ## mukta-m0-p58-v1447
-[this](etat) [but](tu) [principle](tattvaṃ) [told](kathitam) [of-him-only](asyaivā) [other](anyā) [powers](vibhūtayaḥ)
+[this](etat) [but](tu) [principle](tattvaṃ) [told](kathitam) [of-him-other](asyaivānyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
 [that](tat) [that-scripture](tacchāstra) [position](sthitiḥ) [all](sarvā) [told](kathitā) [mountain-daughter](girinaṃdini)
