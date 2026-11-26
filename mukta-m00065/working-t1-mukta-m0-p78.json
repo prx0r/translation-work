@@ -11,12 +11,8 @@
 "quick_gloss": "in-kingdom"
 },
 {
-"surface": "subhikṣam",
-"quick_gloss": "prosperity"
-},
-{
-"surface": "ārogyaṃ",
-"quick_gloss": "health"
+"surface": "subhikṣamārogyaṃ",
+"quick_gloss": "prosperity-health"
 },
 {
 "surface": "kuryāt",
@@ -78,7 +74,7 @@
 },
 {
 "surface": "karmakartāraḥ",
-"quick_gloss": "workers"
+"quick_gloss": "work-doers"
 },
 {
 "surface": "sarve",
@@ -115,7 +111,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "then"
+"quick_gloss": "but"
 },
 {
 "surface": "viparyayaḥ",
@@ -135,7 +131,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "caṇḍeśvaram",
+"surface": "caṇḍeśvaraṃ",
 "quick_gloss": "caṇḍeśvara"
 },
 {
@@ -144,7 +140,7 @@
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "establish"
+"quick_gloss": "install"
 },
 {
 "surface": "vidhinā",
@@ -226,12 +222,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "candanāgurukapūrakuṅkumādyaiḥ",
-"quick_gloss": "sandal-aloes-camphor-saffron-etc"
+"surface": "candana",
+"quick_gloss": "sandal"
+},
+{
+"surface": "aguru",
+"quick_gloss": "aguru"
+},
+{
+"surface": "kapūra",
+"quick_gloss": "camphor"
+},
+{
+"surface": "kuṅkuma",
+"quick_gloss": "saffron"
+},
+{
+"surface": "ādyaiḥ",
+"quick_gloss": "etc"
 },
 {
 "surface": "ca",
-"quick_gloss": "with"
+"quick_gloss": "and"
 },
 {
 "surface": "lepanam",
@@ -248,7 +260,7 @@
 "tokens": [
 {
 "surface": "ajena",
-"quick_gloss": "collyrium"
+"quick_gloss": "goat"
 },
 {
 "surface": "rocanāṃ",
@@ -304,8 +316,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "yadbhavet",
+"surface": "yad",
 "quick_gloss": "whatever"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "is"
 }
 ]
 },
@@ -400,7 +416,7 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "vā"
+"quick_gloss": "or"
 },
 {
 "surface": "api",
@@ -408,11 +424,11 @@
 },
 {
 "surface": "ajñānāt",
-"quick_gloss": "from-ignorance"
+"quick_gloss": "unknowingly"
 },
 {
 "surface": "jñānataḥ",
-"quick_gloss": "from-knowledge"
+"quick_gloss": "knowingly"
 },
 {
 "surface": "kṛtam",
@@ -470,7 +486,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "pādikā",
@@ -564,12 +580,8 @@
 "quick_gloss": "seven-nights"
 },
 {
-"surface": "atha",
-"quick_gloss": "atha"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "athāpi",
+"quick_gloss": "athāpi"
 },
 {
 "surface": "vā",
@@ -585,23 +597,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śuddhiṃ",
-"quick_gloss": "purification"
-},
-{
 "surface": "pumādibhyaḥ",
-"quick_gloss": "of-men-etc"
+"quick_gloss": "from-men-etc"
 },
 {
-"surface": "divā",
-"quick_gloss": "by-day"
+"surface": "divāśuddhiṃ",
+"quick_gloss": "day-purity"
 },
 {
 "surface": "vidyādi",
 "quick_gloss": "knowledge-etc"
 },
 {
-"surface": "śatāvṛtam",
+"surface": "tacchatāvṛtam",
 "quick_gloss": "hundred-times"
 }
 ]
@@ -615,7 +623,7 @@
 "tokens": [
 {
 "surface": "sthirā",
-"quick_gloss": "firm"
+"quick_gloss": "steady"
 }
 ]
 },
@@ -628,7 +636,7 @@
 "tokens": [
 {
 "surface": "yugabhāgāḥ",
-"quick_gloss": "quarter-parts"
+"quick_gloss": "age-parts"
 },
 {
 "surface": "caturdikṣu",
@@ -636,7 +644,7 @@
 },
 {
 "surface": "luptvā",
-"quick_gloss": "having-dug"
+"quick_gloss": "dissolving"
 },
 {
 "surface": "ekaikaṃ",
@@ -661,7 +669,7 @@
 "tokens": [
 {
 "surface": "sthāpyāni",
-"quick_gloss": "to-be-established"
+"quick_gloss": "to-be-installed"
 },
 {
 "surface": "teṣu",
@@ -673,10 +681,10 @@
 },
 {
 "surface": "tatsaṅgayā",
-"quick_gloss": "with-union"
+"quick_gloss": "with-their-union"
 },
 {
-"surface": "vidhānataḥ",
+"surface": "abhirvidhānataḥ",
 "quick_gloss": "by-rite"
 }
 ]
@@ -701,12 +709,8 @@
 "quick_gloss": "rite"
 },
 {
-"surface": "eva",
-"quick_gloss": "eva"
-},
-{
-"surface": "ayam",
-"quick_gloss": "ayam"
+"surface": "svāyaṃ",
+"quick_gloss": "svāyaṃ"
 },
 {
 "surface": "jyeṣṭhānāṃ",
@@ -759,8 +763,12 @@
 "quick_gloss": "in-middle"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "aṣṭārasaṃyuktaṃ",
-"quick_gloss": "with-eight-rasas"
+"quick_gloss": "eight-rasa-joined"
 },
 {
 "surface": "dṛḍhakāṣṭhena",
