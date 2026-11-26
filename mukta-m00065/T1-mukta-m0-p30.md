@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani](tarjanyanāmikāparva) [pada](sapādayavavarjitam)
+[tarjani+anāmikā+parva](tarjanyanāmikāparva) [sa+pāda+yava+varjitam](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[two-angula](dvyaṅgulo) [thumb-knot](aṅguṣṭhakagranthirāsāṃ) [half-joint](parvārdhagā) [nails](nakhāḥ)
+[dvi+aṅgula](dvyaṅgulo) [aṅguṣṭhaka+granthi](aṅguṣṭhakagranthi) [āsām](āsāṃ) [parva+ardha+gā](parvārdhagā) [nakhāḥ](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nose-height](nāsotsedhaḥ) [with-breadth](savistārodvyaṅgulo) [two-cavity](dvipuṭaḥ) [auspicious](śubhaḥ)
+[nāsa+utsedhaḥ](nāsotsedhaḥ) [sa+vistāra](savistāro) [dvi+aṅgulaḥ](dvyaṅgulo) [dvi+puṭaḥ](dvipuṭaḥ) [śubhaḥ](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[one-and-half-yava](dvyardhaṃ) [yava](yavaṃ) [in-cavity](puṭe) [thick](sthūle) [middle](madhye) [twenty](vaśa) [by-three-yavas](stribhiryavaḥ)
+[dvi+ardham](dvyardhaṃ) [yavam](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśaḥ](vaśa) [stri+bhiḥ](stribhir) [yavaḥ](yavaḥ)
 
 ## mukta-m0-p30-v730
-[below](adhe) [other](aparo) [angula](aṅgulakaṃ) [tu](tu) [two-angula](dvyaṅgule) [chin-position](cibukasthitiḥ)
+[adhaḥ](adhe) [aparaḥ](aparo) [aṅgulakaṃ](aṅgulakaṃ) [tu](tu) [dvi+aṅgule](dvyaṅgule) [cibuka+sthitiḥ](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[at-nose-root-side](nāsikāmūlapārśve) [tu](tu) [eyes](locane) [two-angula-length](dvyaṅgulāyate)
+[nāsikā+mūla+pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi+aṅgulāyate](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[blue-lotus-leaf-like](indīvarābjapatrābhā) [cucumber-fruit-like](paṭolaphalavatstriyāḥ)
+[indīvara+abja+patra+ābhā](indīvarābjapatrābhā) [paṭola+phala+vat](paṭolaphalavat) [striyāḥ](striyāḥ)
 
 ## mukta-m0-p30-v733
-[fifth-part](pañcamāṃśaṃ) [becomes](bhavejjyotiḥ) [corner-thread-equal](sṛkkaṇīsūtratulyataḥ)
+[pañcama+aṃśaṃ](pañcamāṃśaṃ) [bhavet](bhave) [jyotiḥ](jyotiḥ) [sṛkkaṇī+sūtra+tulyatā](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[half-angula-equal](ardhāṅgulasamā) [trough](droṇī) [one-and-half-angula-long](sārdhadvyaṅguladīrghatā)
+[ardha+aṅgula+samā](ardhāṅgulasamā) [droṇī](droṇī) [sa+ardha+dvi+aṅgula+dīrghatā](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[their](tayora) [measure-half](taramātrārdhaṃ) [woman](striyāṃ) [half-yava-spread](yavārdhavistṛte)
+[tayoḥ](tayora) [atara+mātra+ardham](taramātrārdhaṃ) [striyām](striyāṃ) [yava+ardha+vistṛte](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[ears](karṇau) [eye-length](netradayāyāmau) [their-half-breadth](tadardhādvistarastayoḥ)
+[karṇau](karṇau) [netra+dayā+āyāmau](netradayāyāmau) [tad+ardha+adhi+staraḥ](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[half-kala](kalārdhaṃ) [ear-pendants](tadukau) [khalva](khalvau) [make](kuryādyathepsitau)
+[kalā+ardham](kalārdhaṃ) [pāśau](pāśau) [kuryāt](kuryād) [yathā+īpsitau](yathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-number-angula](indrasaṅkhyāṅgulaṃ) [afterwards](paścātkarṇayorantaraṃ) [know](viduḥ)
+[indra+saṅkhyā+aṅgulam](indrasaṅkhyāṅgulaṃ) [paścāt](paścāt) [karṇayoḥ](karṇayor) [antaram](antaraṃ) [viduḥ](viduḥ)
 
 ## mukta-m0-p30-v739
-[forehead](lalāṭo) [eight-angula-length](aṣṭāṅgulāyāmastryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
+[lalāṭaḥ](lalāṭo) [aṣṭa+aṅgula+āyāmaḥ](aṣṭāṅgulāyāmaḥ) [tri+aṅgulaḥ](tryaṅgulaḥ) [śaṅkhaḥ](śaṅkhaḥ) [ucyate](ucyate)
 
 ## mukta-m0-p30-v740
-[seven-angula](saptāṅgulau) [cheeks](kapolau) [tu](tu) [with-angula](sāṅgulau) [with-yava-height](sayavocchrayau)
+[sapta+aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa+aṅgulau](sāṅgulau) [sa+yava+ucchrayau](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[jaws](hanū) [kala-three-long](kalā tradīrghau) [two-kala](vdikalaścibukodgamaḥ)
+[hanū](hanū) [kalā](kalā) [tri+dīrghau](tradīrghau) [vdi+kalaśaḥ](vdikalaśaḥ) [cibuka+udgamaḥ](cibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[shoulders](skandho) [eight-angula-breadth](aṣṭāṅgulavistārastadāyāmaścatuṣkalā)
+[skandhaḥ](skandho) [aṣṭa+aṅgula+vistāraḥ](aṣṭāṅgulavistāraḥ) [tad+āyāmaḥ](tadāyāmaḥ) [catuṣ+kalā](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[breadth](vistāraḥ) [elbow](kūrparastasmādbhūtāṅgulairyavaistathā)
+[vistāraḥ](vistāraḥ) [kūrparaḥ](kūrparas) [tasmāt](tasmāt) [bhūta+aṅgulaiḥ](bhūtāṅgulaiḥ) [yavaiḥ](yavaiḥ) [tathā](tathā)
 
 ## mukta-m0-p30-v744
-[four-angula-breadth](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
+[catur+aṅgula+vistāraḥ](caturaṅgulavistāro) [maṇibandhaḥ](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[between-breasts](stanayorantaraṃ) [palm](tālaṃ) [their-ends](tayoḥ) [two-eyes](prāntau dvinetrakau)
+[stanayoḥ](stanayor) [antaram](antaraṃ) [tālaṃ](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi+netrakau](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half-angula-raised](ardhāṅguloditā)
+[nābhiḥ](nābhiḥ) [pradakṣiṇa+āvartā](pradakṣiṇāvartā) [nimnataḥ](nimnato) [ardha+aṅgula+uditā](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[heart](hṛdviṃśatyaṅgulaṃ) [proclaimed](proktaṃ) [navel-region](nābhideśaścaturdaśa)
+[hṛd](hṛd) [viṃśati+aṅgulaṃ](viṃśatyaṅgulaṃ) [proktaṃ](proktaṃ) [nābhi+deśaḥ](nābhideśaḥ) [caturdaśa](caturdaśa)
 
 ## mukta-m0-p30-v748
-[fifteen-angula](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart-region](hṛddeśaḥ) [without-five](pañcabhirvinā)
+[pañcadaśa+aṅgulaṃ](pañcādaśāṅgulaṃ) [vakṣaḥ](vakṣo) [hṛd+deśaḥ](hṛddeśaḥ) [pañcabhiḥ](pañcabhiḥ) [vinā](vinā)
 
 ## mukta-m0-p30-v749
-[hips](kaṭiḥ) [by-girdle](saṃveṣṭanenoktā) [hundred](śatācca) [two-more-angula](dvyadhikāṅgulā)
+[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanena) [uktā](uktā) [śatāt](śatācca) [ca](ca) [dvi+adhika+aṅgulā](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[four-eye-breadth](caturnetrapravistārau) [elephant-temples-like](gajakumbhopamau) [auspicious](śubhau)
+[catuḥ+netra+pravistārau](caturnetrapravistārau) [gaja+kumbha+upamau](gajakumbhopamau) [śubhau](śubhau)
