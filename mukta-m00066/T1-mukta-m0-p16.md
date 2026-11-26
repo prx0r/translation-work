@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[untroubledness](akliṣṭatā) [nourishedness](puṣṭatā) [and](ca) [wheel-rim-evenness](rathanemisamānatā)
+unafflictedness nourishment wheel-rim-likeness
 
 ## mukta-m0-p16-v377
-[cobra-head-evenness](phaṇiśīrṣasamānatvaṃ) [clear-liquidity](prasannadravatā) [thus](tathā)
+snake-hood-likeness clear-fluidity likewise
 
 ## mukta-m0-p16-v378
-[all-marks](sarvalakṣaṇa) [endowedness](yuktatvaṃ) [bad-marks-absence](kulakṣaṇavihīnatā)
+all-marks-endowedness family-mark-absence
 
 ## mukta-m0-p16-v379
-[of-refinement](saṃskārasya) [by-glory-as-if](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [dear-one](priye)
+refinement's greatness shine those qualities beloved
 
 ## mukta-m0-p16-v380
-[refinement-also](saṃskāropi) [all](samastāni) [things](vastūni) [places](nyāvaset) [dear-one](priye)
+refinement all things arranges beloved
 
 ## mukta-m0-p16-v381
-[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-foot](sarvasiddhimahāpadaṃ)
+all-auspiciousness-causing all-accomplishment-great-foot
 
 ## mukta-m0-p16-v382
-[bliss](ānaṃda) [of-Bhairava](bhairavasya) [worship-means](arcāsādhanaṃ) [world-enchanting](viśvamohanam)
+bliss-bhairava's worship-means world-enchanting
 
 ## mukta-m0-p16-v383
-[well-beautiful-step-devouring](suśobhadakramagrāsī) [all-suffering-cutting](samastāpannikṛṃtanam)
+very-beautiful-step-devouring all-afflictions-cutting
 
 ## mukta-m0-p16-v384
-[house-moon-crescents](veśmacaṃdrakalānāṃ) [and](ca) [temple-auspiciousness-abundance](sadmasaubhāgyasaṃpadām)
+house-moon-crescents and abode-auspiciousness-prosperities
 
 ## mukta-m0-p16-v385
-[all-disease-causing](samastarogajanakaṃ) [misfortune-promoting](daurbhāgyasyapravartakam)
+all-disease-causing misfortune-promoting
 
 ## mukta-m0-p16-v386
-[world-reproach-causing](lokopakrośajanakaṃ) [world-contempt-giving](lokadhikkāradāyakam)
+world-reproach-causing world-condemnation-giving
 
 ## mukta-m0-p16-v387
-[frothy](phelinaṃ) [destroyed](naṣṭam) [leftover](ucchiṣṭam) [degraded](apakṛṣṭaṃ) [rubbed](vicarcitam)
+foamy lost leftover degraded rubbed
 
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough-skin-rich](karkkaśacarmāḍhyam) [with-inner-cow-tongue](aṃtargojihvayānvitam)
+inside rough-skin-rich with-inner-cow-tongue
 
 ## mukta-m0-p16-v389
-[scabies-itch-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [liquid](dravam)
+itch-scabies-abundant most-sinful said liquid
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [indeed](vai) [that](tat) [worship-means](pūjāsādhanam) [is-desired](iṣyate)
+own body indeed that worship-means is-desired
 
 ## mukta-m0-p16-v391
-[approaches](sannidhatte) [supreme-directly](paraḥsākṣād) [bliss-nondual](ānaṃdādvaita) [form-bearing](rūpadhṛt)
+approaches supreme-direct bliss-nondual form-bearing
 
 ## mukta-m0-p16-v392
-[messenger](dūtī) [of-face](mukhasya) [refinement](saṃskāraḥ) [is-told](kathyate) [hear](śṛṇu) [beautiful-one](saṃdari)
+messenger's face refinement is-said listen-beautiful
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [and](ca) [by-instrument](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+stimulation and by-weapon purification again
 
 ## mukta-m0-p16-v394
-[from-oil-gargling](tailagaṇḍuṣaṇāt) [radiance](kāṃtiḥ) [of-teeth](daṃtānām) [arises](upajāyate)
+oil-gargling beauty of-teeth arises
 
 ## mukta-m0-p16-v395
-[three-pungents](trikaṭu) [triphala-flesh](triphalāmāṃsi) [with-jaggery-bark-leaves-stamens](guḍatvakpatrakesaraiḥ)
+three-pungents three-fruits flesh with-jaggery-bark-leaves-stamens
 
 ## mukta-m0-p16-v396
-[having-made](kṛtvā) [die](akṣa) [similar](sadṛśān) [balls](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger](dūtikā) [swallows](gilet)
+making eye-like balls that first messenger-swallow
 
 ## mukta-m0-p16-v397
-[by-filth-also](malenaivāpa) [of-created](sṛṣṭānāṃ) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+by-filth created all pacification becomes
 
 ## mukta-m0-p16-v398
-[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill](guṭikā) [should-make](kārayet) [wise-one](budhaḥ)
+to-be-rubbed with-effort pill-make wise
 
 ## mukta-m0-p16-v399
-[messenger-mind](pūtikāmati) [fragrance](saurabhya) [rice-mouth](śālivaktraṃ) [should-arrange](prakalpayet)
+messenger fragrance rice-mouth should-make
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+thus body-refinement external-internal declared
