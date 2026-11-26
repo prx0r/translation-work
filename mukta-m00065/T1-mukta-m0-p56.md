@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-in-winter (hemante) knowledge-giving (jñānadaṃ) liṅga (liṅgaṃ) in-cool-season (śiśire) all-beings-giving (sarvabhūtidam)
+[gloss](hemante) [gloss](jñānadaṃ) [gloss](liṅgaṃ) [gloss](śiśire) [gloss](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-for-ascetics (yatīnāṃ) at-all-times (sarvakāleṣu) of-liṅga-installation (liṅgasyāropaṇaṃ) is-opinion (matam)
+[gloss](yatīnāṃ) [gloss](sarvakāleṣu) [gloss](liṅgasyāropaṇaṃ) [gloss](matam)
 
 ## mukta-m0-p56-v1378
-in-southern-ayana (dakṣiṇāyane) not-worshipful ('pūjyaṃ) beyond-three-years (trivarṣordhvaṃ) fear-bringing (bhayāvaham)
+[gloss](dakṣiṇetvayane) [gloss](apūjyaṃ) [gloss](trivarṣordhvaṃ) [gloss](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-for-decay (kṣayāya) for-growth (bṛddhaye) and-becomes (syācca) in-southern (yāmye) in-auspicious (saumye) other (apare) sun (ravau)
+[gloss](kṣayāya) [gloss](bṛddhaye) [gloss](syācca) [gloss](yāmye) [gloss](saumye) [gloss](pare) [gloss](ravau)
 
 ## mukta-m0-p56-v1380
-six-six-months-beyond (ṣaṭṣaṇmāsottarān) three-years (tryabdān) by-maya-opinion (mayamatāt) fruit (phalaṃ) in-order (kramāt)
+[gloss](ṣaṭṣaṇmāsottarāṃstryabdān) [gloss](mayamatāt) [gloss](phalaṃ) [gloss](kramāt)
 
 ## mukta-m0-p56-v1381
-black-magic (abhicāro) becomes (bhavet) there (tatra) installed (sthāpite) in-southern (dakṣiṇe) ayana (ayane)
+[gloss](abhicāro) [gloss](bhavettatra) [gloss](sthāpite) [gloss](dakṣiṇe) [gloss](yane)
 
 ## mukta-m0-p56-v1382
-boys (kumārāḥ) are-oppressed (saṃprapīḍyante) girl-loss (kanyānāśaḥ) and (ca) arises (jāyate)
+[gloss](kumārāḥ) [gloss](saṃprapīḍyante) [gloss](kanyānāśaśca) [gloss](jāyate)
 
 ## mukta-m0-p56-v1383
-of-doer (kartuḥ) decay (kṣayaḥ) constant-sorrow (sadāśokaḥ) in-house (gṛhe) becomes (bhavati) terrible (dāruṇaḥ)
+[gloss](kartuḥ) [gloss](kṣayaḥ) [gloss](sadāśoko) [gloss](gṛhe) [gloss](bhavati) [gloss](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-auspicious-seeker (śubhārthī) not (na) should-act (pravarteta) of-goddess (devyā) mantra-etc-scripture (mantrādiśāstrataḥ)
+[gloss](śubhārthī) [gloss](na) [gloss](pravarteta) [gloss](devyā) [gloss](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-therefore-place (tasmātsthānaṃ) guru (guruṃ) obtaining (prāpya) for-protection (rakṣaye) from-black-magic (dābhicārikam)
+[gloss](tasmātsthānaṃ) [gloss](guruṃ) [gloss](prāpya) [gloss](rakṣaye) [gloss](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-installation (sthāpanaṃ) but (tu) should-be-done (prakartavyaṃ) from-cool-season (śiśirādau) three-seasons (ṛtutraye)
+[gloss](sthāpanaṃ) [gloss](tu) [gloss](prakartavyaṃ) [gloss](śiśirādāvṛtutraye)
 
 ## mukta-m0-p56-v1387
-with-moon-star-yoga (sacandratārakāyoge) with-good-lagna-karaṇa-endowed (sulagnakaraṇānvite)
+[gloss](sacandratārakāyoge) [gloss](sulagnakaraṇānvitate)
 
 ## mukta-m0-p56-v1388
-in-non-dual (advaite) and-indeed (caiva) in-dark (kṛsṇe) also (api) mantra-form (mantramūrti) by-distinction (prabhedataḥ)
+[gloss](advaite) [gloss](caiva) [gloss](kṛsṇe) [gloss](pi) [gloss](mantramūrti) [gloss](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-pañcarātra-worthy (pāñcarātrārha) let-take (aret) mixed (miśrā) fifty-years-duration (pañcāśadvarṣasaṃsthitiḥ)
+[gloss](pāñcarātrārharet) [gloss](miśrā) [gloss](pañcāśadvarṣasaṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-hundred-years-or (śātābdorvbaṃ) but (tu) she-stands (sā tiṣṭhet) stone-liṅga (vāṇaliṅgaṃ) like-self-born (svayambhubat)
+[gloss](śātābdorvbaṃ) [gloss](tu) [gloss](sā) [gloss](tiṣṭhedvāṇaliṅgaṃ) [gloss](svayambhubat)
 
 ## mukta-m0-p56-v1391
-many-meanings (bahvarthatvān) of-falls (nipātānāṃ) in-purification-etc (saṃskārādau) installation (pratiṣṭhitiḥ)
+[gloss](bahvarthatvānipātānāṃ) [gloss](saṃskārādau) [gloss](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-purified (saṃskṛtā) substance (dravya) with-mantra-purification (sanmantrasaṃskṛtiḥ) which (yā) divine (suragya) and (ca)
+[gloss](saṃskṛtā) [gloss](dravyasanmantrasaṃskṛtiryā) [gloss](suragya) [gloss](ca)
 
 ## mukta-m0-p56-v1393
-image (pratimāṃ) with-five-divisions (pañcabhedaiḥ) but (tu) installation (pratiṣṭhā) fivefold (pañcadhā) declared (uditā)
+[gloss](pratimāṃ) [gloss](pañcabhedaistu) [gloss](pratiṣṭhā) [gloss](pañcadhoditā)
 
 ## mukta-m0-p56-v1394
-second (dvitīyā) life (āyu) gives (dadyāt) third (tṛtīyā) son-prosperity (putrasaṃpadaḥ)
+[gloss](dvitīyāyumati) [gloss](dadyāttṛtīyā) [gloss](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-tenth (daśamī) land-gain (bhūmilābhaṃ) and (ca) good-fortune (saubhāgyaṃ) and (ca) thirteenth (trayodaśī)
+[gloss](daśamī) [gloss](bhūmilābhaṃ) [gloss](ca) [gloss](saubhāgyaṃ) [gloss](ca) [gloss](trayodaśī)
 
 ## mukta-m0-p56-v1396
-one-doer (ekartu) with-Śaṅkara (śaṅkaraiḥ) Nandā (nandā) Bhadrā (bhadrā) fortnight-seer-sun (pakṣarṣibhānubhiḥ)
+[gloss](ekartuśaṅkarairnandā) [gloss](bhadrā) [gloss](pakṣarṣibhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-arrow-direction-tithis (bāṇadiktithibhiḥ) full (pūrṇā) deficient-equal-harmful (hīnatulyāhitāḥ) in-order (kramāt)
+[gloss](bāṇadiktithibhiḥ) [gloss](pūrṇā) [gloss](hīnatulyāhitāḥ) [gloss](kramāt)
 
 ## mukta-m0-p56-v1398
-Jupiter (vṛhaspatiḥ) two-five-life (dvipañcāyuḥ) wise (budhyaḥ) victory-wealth (jayadhanāni) and (ca)
+[gloss](vṛhaspatirdvipañcāyurbudyo) [gloss](jayadhanāni) [gloss](ca)
 
 ## mukta-m0-p56-v1399
-Cancer (karka) Taurus-Libra-Sagittarius (vṛṣatulācāpa) woman-Lion-planet-pair (strīsiṃhagrāhayugmake)
+[gloss](karka) [gloss](vṛṣatulācāpastrīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-six-eight-four-yāmas (ṣaḍaṣṭacaturoyāmāt) four (catuḥ) zodiac-in-order (rāśikrameṇa) but (tu)
+[gloss](ṣaḍaṣṭacaturoyāmāccatū) [gloss](rāśikrameṇa) [gloss](tu)
