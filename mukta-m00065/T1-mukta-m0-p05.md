@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[thus](itye) [these](teṣām) [absence](abhāve) [but](tu) [mercury](rasendram) [with-diamond](vajrasaṃyutam)
-
+thus-of-these absence in but mercury diamond-joined
 ## mukta-m0-p05-v102
-[with-cow-sarja](gavyasarjayutaiḥ) [and](ca) [indeed](eva) [anoint](lepyam) [for-color-strength](varṇakapuṣṭaye)
-
+cow's-sarja-joined and indeed anointing color-nourishment-for
 ## mukta-m0-p05-v103
-[with-good-door-constellation-season](sadvārarkṣartuyuktena) [indeed](hi) [beautifully-adhering](cārulagnasamanvite)
-
+good-door-constellation-season-joined indeed beautiful-adhered-endowed
 ## mukta-m0-p05-v104
-[divine-atmospheric-terrestrial](divyāntarikṣabhaumāni) [auspicious-inauspicious-results](śubhāśubhaphalāptaye)
-
+divine-sky-earthly auspicious-inauspicious-fruit-obtaining-for
 ## mukta-m0-p05-v105
-[thus-etc](ityādi) [auspicious-doing-divine](śubhakṛddivyam) [but](tu) [inauspicious-doing](aśubhakaram) [this](idam)
-
+etc auspicious-doing-divine therefore inauspicious-doing but this
 ## mukta-m0-p05-v106
-[dig-daha](digdāha) [fierce-wind](tīvravāta) [and](ca) [moon-sun-eclipse](candrasūryopamardanam)
-
+direction-burning fierce-wind and moon-sun-eclipse
 ## mukta-m0-p05-v107
-[on-tree-top](vāsavṛkṣāgrasaṃsthāyi) [offering-eater-sweet-sound](balibhuṅmadhurārutiḥ)
-
+dwelling-tree-top-situated offering-eater-sweet-sound
 ## mukta-m0-p05-v108
-[dust-blood-raining](pāṃśvasṛgvarṣaṇam) [terrible](ghoram) [atmospheric](āntarikṣam) [inauspicious](aśobhanam)
-
+dust-blood-raining terrible sky inauspicious
 ## mukta-m0-p05-v109
-[curd-akṣata-yava](dadhyakṣatayavā) [dūrvā](dūrvā) [lamp](dīpaḥ) [gorocanā](gorocanā) [banner](dhvajaḥ)
-
+curd-unbroken-rice barley durva lamp gorocana banner
 ## mukta-m0-p05-v110
-[cow-bull](govṛṣaḥ) [and](ca) [donkey](kharaḥ) [horse](vājī) [ash-eye](bhasmākṣaḥ) [king](bhūpatiḥ) [elephant](dvipaḥ)
-
+cow-bull and donkey horse ash-eyed king elephant
 ## mukta-m0-p05-v111
-[śiva](śivaḥ) [śiva-water-pot](śivodakuṃbhasthaḥ) [kauśika](kauśikaḥ) [from-left](vāmataḥ) [auspicious](śubhaḥ)
-
+shiva shiva-water-pot-situated kushika left auspicious
 ## mukta-m0-p05-v112
-[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [and](ca)
-
+loose-haired throwing alkali charcoal and wood and
 ## mukta-m0-p05-v113
-[limb-cut](chinnāṅgaḥ) [eyeless](alocanaḥ) [diseased](rogī) [skull-bearer](kapālī) [earth-tremor](bhūprakampanaḥ)
-
+cut-limbed eyeless sick skull-bearer earth-tremor
 ## mukta-m0-p05-v114
-[hunger-thirst-mad](kṣutkṣāmonmattakau) [thread](tantuḥ) [and](ca) [herb-collection](oṣadhīṣaṇasañcayaḥ)
-
+hunger-emaciated-mad two thread and herb-seeking-collection
 ## mukta-m0-p05-v115
-[half-fortnight](pakṣārdhārdham) [but](tu) [abandoning](saṃtyajya) [departure](prasthānam) [done](kriyate) [auspicious](śubhe)
-
+fortnight-half-half but abandoning departure done auspicious
 ## mukta-m0-p05-v116
-[veda](vedase) [may-be](syāt) [two](dvite) [travelers](yātā) [fire-staff](tvagnidaṇḍa) [not-crossing](anatikramāt)
-
+veda for may-be two travelers but fire-staff-nontransgression
 ## mukta-m0-p05-v117
-[beginning](iṣṭādau) [śaṅkara](śaṅkaram) [auspicious](śastam) [east-indu-forest](prāgīśenduvanam) [go](vrajet)
-
+desired-beginning shankara praised east-lord-moon-forest should-go
 ## mukta-m0-p05-v118
-[mercury-sun-moon-venus](budhārkendusite) [jupiter](jīve) [or](vā) [tree](vārkṣe) [northeast](prāguttarasthite)
-
+mercury-sun-moon-venus jupiter tree east-north-situated
 ## mukta-m0-p05-v119
-[alternate](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [and](ca) [inauspicious-work](aniṣṭakarmaṇi)
-
+alternate stars remainder and inauspicious-action
 ## mukta-m0-p05-v120
-[niṣadha](niṣadhaḥ) [blue-scent](nīlagandhākhyaḥ) [śaṅgī](śaṅgī) [banner](ketuḥ) [mountain-lord](nagādhipāḥ)
-
+nishadha blue-scent-named shanki-ketu mountain-lords
 ## mukta-m0-p05-v121
-[nandā](nandākhyaḥ) [malaya](malayaḥ) [vindhya](vindhyaḥ) [ujjayanta](ujjayantaḥ) [then](atha) [ṛkṣaka](ṛkṣakaḥ)
-
+nanda-named malaya vindhya ujjayanta then rikshaka
 ## mukta-m0-p05-v122
-[yojanas](yojanāni) [ten](daśa) [of-these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
-
+yojanas ten of-these mountains near forest
 ## mukta-m0-p05-v123
-[these](etat) [field-born](kṣetrotthitā) [who](ye) [tu](tu) [stones-trees](pāṣāṇāstaravaḥ) [auspicious](śubhāḥ)
-
+this-field-risen who but stones trees auspicious
 ## mukta-m0-p05-v124
-[with-teacher](sācāryaḥ) [sādhaka](sādhakaḥ) [artisan-people](śilpijanaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
-
+with-teacher practitioner artisan-people surrounded auspicious
 ## mukta-m0-p05-v125
-[meditating-below](dhyātvādhaḥ) [natural](prākṛtam) [principle](tattvam) [śiva-principle-earth](śivatattvamayīm) [great-earth](mahīm)
+meditating below material principle shiva-principle-made earth
