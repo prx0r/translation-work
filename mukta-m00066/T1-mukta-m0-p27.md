@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-beating-chief-action-cause-speak-lord
+[striking](tāḍana) [chief](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
 
 ## mukta-m0-p27-v652
-delusion-moment-moment-messenger-worship-play-action
+[delusion](mohaṃ) [moment](kṣaṇe) [messenger](dūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-therefore-laziness-obtained-not-melt-messengers
+[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [flow](dravaṃtyeva) [messengers](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-delays-pleasure-give-delay-pleasure-where
+[delays](vilaṃbate) [pleasure](ratiṃ) [give](dātuṃ) [from-that-delay](tadvilaṃbāt) [pleasure-where](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-they-awakened-enthusiasm-begin-rite-of-love
+[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [pleasure-sacrifice](ratādhvare)
 
 ## mukta-m0-p27-v656
-messenger-runs-much-fresh-butter-like-fire
+[messenger](dūtyā) [flows](udravati) [much](bahuśo) [fresh-butter](navanītam) [like](iva) [fire](agninā)
 
 ## mukta-m0-p27-v657
-dissolution-meaning-dissolution-also-then-pot-dissolution-beloved
+[dissolution](layam) [meaning-dissolution](arthalayaṃ) [also](cāpi) [then](tadā) [striking-dissolution](ghaṭṭalayaṃ) [beloved](priye)
 
 ## mukta-m0-p27-v658
-moving-messenger-limb-blissful-state-lead
+[moving](acaran) [messenger-body](dūtikāgātram) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p27-v659
-oneself-extreme-steady-soul-meditating-key-of-linga
+[oneself](svayam) [extremely](atyaṃta) [steadfast-self](dhīrātmā) [meditating](bhāvayan) [linga-key](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-eternal-blissful-essence-world-pervading-contemplating
+[eternal-bliss](nityānaṃdamayaṃ) [essence](tatvaṃ) [world-pervading](jagadvyāptaṃ) [contemplate](viciṃtayat)
 
 ## mukta-m0-p27-v661
-this-only-great-sacrifice-austerity-this-supreme
+[this](ayam) [indeed](eva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [this](cedam) [supreme](anuttamam)
 
 ## mukta-m0-p27-v662
-this-vow-great-meritorious-bliss-nonduality-giving
+[this](idaṃ) [vow](vrataṃ) [great-merit](mahāpuṇyam) [bliss-nonduality-giving](ānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-drop-emission-named-sacrificial-bath
+[drop-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-concluding-rite](yajñāvabhṛthaḥ) [called](ucyate)
 
 ## mukta-m0-p27-v664
-as-as-time-length-steadiness-bond-more
+[as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [steadiness-bond](dhairyabaṃdhena) [greatly](bhūyasā)
 
 ## mukta-m0-p27-v665
-fire-in-mouth-mercury-like-not-steadiness-follows
+[fire](agniḥ) [mouth](mukhe) [mercury-like](pāradavat) [not](na) [steadiness](dhairyam) [follow](anudhāvati)
 
 ## mukta-m0-p27-v666
-how-becomes-fierce-lord-stiff-white-limb
+[how](kathaṃ) [become](bhavati) [fierce-lord](caṇḍīśa) [stiff](prastabdhaṃ) [white-limb](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-extreme-wonder-causing-if-white-retention
+[extremely](atyaṃta) [wonder-causing](āścaryajanakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
 
 ## mukta-m0-p27-v668
-not-even-effort-arises-white-retention
+[not](na) [small](tukena) [even](api) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-in-love-treatises-much-enjoyers-performed
+[in-kama-tantras](kāmataṃtreṣu) [much](bahuśo) [by-enjoyers](bhogibhiḥ) [what-performed](yadanuṣṭhitam)
 
 ## mukta-m0-p27-v670
-that-say-great-fortunate-stopping-essence-prosperity
+[that](tad) [I-say](vadāmi) [great-fortunate](mahābhāge) [stopping](staṃbhanaṃ) [nectar-accomplishments](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-rejoices-how-even-mature-one-essence-wise
+[not](na) [somehow](kathamapi) [mature](prauḍham) [one](eka) [essence](rasaḥ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p27-v672
-all-elements-goddess-own-place-established
+[all](sarve) [elements](dhātavaḥ) [goddess](devī) [own-own](svasva) [place](sthāne) [made-refuge](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-in-channels-all-residing-also-lord-of-essence
+[in-nadi-cakras](nāḍīcakreṣu) [all](sarveṣu) [residing](vasan) [even](api) [mercury-lord](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-some-say-between-brows-some-heart-gem
+[some](kecit) [say](vadaṃti) [brow-middle](bhrūmadhye) [some](kecit) [heart-jewel](hṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-some-urva-thigh-goddess-some-hip-joint
+[some](kecit) [uru-thigh](ūrvostale) [goddess](devi) [some](kecit) [hip-peak](jaghanasīmani)
