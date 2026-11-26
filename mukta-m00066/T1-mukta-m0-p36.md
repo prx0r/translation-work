@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything-even](kiṃcid+api) [i-know](jānāmi) [lord-awaken-awaken](nātha+bodhaya+bodhaya)
+[not](na) [anything](kiṃcid) [also](api) [I-know](jānāmi) [lord](nātha) [awaken](bodhaya) [awaken](bodhaya)
 
 ## mukta-m0-p36-v877
-[this](etat) [happiness-cause](saukhya+nidānāya) [welfare-linga](svasti+liṃgāya) [to-shambhu](śaṃbhave)
+[for-this](etat) [bliss-cause](saukhyani+dānāya) [well-being-sign](svasti+liṃgāya) [to-Śambhu](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[may-this-be-offering](śiva+arpaṇam+idam) [may-be](bhūyāt) [again](punar) [let-be](astu) [offering](śiva+arpaṇam)
+[Śiva-offering](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [may-be](astu) [Śiva-offering](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-[faded](mlānā) [lotus-stalk](padma+mṛṇālī) [and](va) [garland-like](mālikā+iva) [his](asya) [chest](vakṣasi)
+[withered](mlānā) [lotus-stalk](padma+mṛṇālī) [like](iva) [garland](mālikā) [of-him](asya) [on-chest](vakṣasi)
 
 ## mukta-m0-p36-v880
-[absorbed-absorbed-syllable](līna+līna+akṣaram) [then](paścāt) [slow-slow-syllable](maṃda+maṃda+akṣaram) [again](punaḥ)
+[absorbed-absorbed](līna+līna) [syllable](akṣaraṃ) [afterwards](paścāt) [slow-slow](maṃda+maṃda) [syllable](akṣaraṃ) [again](punaḥ)
 
 ## mukta-m0-p36-v881
-[thus-etc-quality-messenger](evam+ādi+guṇa+adūtyāḥ) [six-offering](ṣaḍ+āhuti) [great-festival](mahotsave)
+[thus-etc](evam+ādi) [qualities](guṇa) [messenger](dūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave)
 
 ## mukta-m0-p36-v882
-[sixth-six-taste-endowed](ṣaṣṭhi+ṣaḍ+rasa+saṃpannā) [many-food-giving](bahu+bhojana+dāyinī)
+[sixth-six-tastes](ṣaṣṭhi+ṣaḍ+rasa) [endowed](saṃpanna) [much-food-giving](bahu+bhojana+dāyinī)
 
 ## mukta-m0-p36-v883
-[six-limb-deity](ṣaḍ+aṃga+devatā) [form](rūpā) [all-always-be-done-wise](sarva+dā+kriyatām+budhaiḥ)
+[six-limbed-deity](ṣaḍ+aṃga+devatā) [form](rūpā) [always](sarvadā) [by-nectar-makers](kriyatāṃ+budhaiḥ)
 
 ## mukta-m0-p36-v884
-[heroine's-and](nāyikāyāḥ+ca) [by-opening](vidṛtyā) [pleasure-rest](sukha+śrāṃtiḥ) [arises](pravartate)
+[of-heroine](nāyikāyāḥ) [also](ca) [by-opening](vidṛtyā) [comfort-rest](sukha+śrāṃtiḥ) [proceeds](pravartate)
 
 ## mukta-m0-p36-v885
-[sugar-nectar-mixed](śarkarā+amṛta+saṃmiśram) [purity-soup-seasoned](śuddhi+yūṣa+sanādhitam)
+[sugar-nectar-mixed](śarkarā+mṛta+saṃmiśraṃ) [pure-soup-seasoned](śuddhi+yūṣa+sanādhitam)
 
 ## mukta-m0-p36-v886
-[self-that-remainder](svayam+tad+avaśiṣṭam) [and](ca) [drink](pibet) [devotion](bhakti) [full-bowed](bharānataḥ)
+[himself](svayaṃ) [that-remainder](tad+avaśiṣṭaṃ) [also](ca) [let-drink](pibet) [devotion](bhakti) [with-reverence](bharānataḥ)
 
 ## mukta-m0-p36-v887
-[mantra](maṃtram) [and](ca) [bliss-god's](ānaṃda+devasya) [hundredfold](śataśaḥ) [or](vā) [thousandfold](sahasraśaḥ)
+[mantra](maṃtraṃ) [also](ca) [of-Ānandadeva](ānaṃda+devasya) [hundreds](śataśaḥ) [or-thousands](vā+sahasraśaḥ)
 
 ## mukta-m0-p36-v888
-[improper-instrument](ayukta+yantraḥ) [recite](prajaped) [deity-curse-obtain](devatā+śāpam+āpnuyāt)
+[unfit-instrument](ayukta+yaṃtraḥ) [let-recite](prajaped) [deity-curse](devatā+śāpam) [may-obtain](āpnuyāt)
 
 ## mukta-m0-p36-v889
-[thus](evam) [recited](japte) [supreme-bliss-form](parānaṃda+rūpī) [linga-great-lord](liṃga+maheśvaraḥ)
+[thus](evaṃ) [recited](japte) [supreme-bliss-form](parānaṃda+rūpi) [liṅga-great-lord](liṃga+mahēśvaraḥ)
 
 ## mukta-m0-p36-v890
-[while](yāvat) [recites](japati) [hero](vīraḥ) [this](ayam) [messenger](dūti) [rest](viśrāṃti) [for](hetave)
+[as-long-as](yāvat) [recites](japati) [hero](vīraḥ) [ayaṃ](ayaṃ) [messenger-rest](dūti+viśrāṃti) [for-cause](hetave)
 
 ## mukta-m0-p36-v891
-[thus](iththam) [gradually](krameṇa) [rest](viśrāṃtim) [gone](gatāyām) [messenger-body](dūtikā+tanau)
+[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger-body](dūtikā+tanau)
 
 ## mukta-m0-p36-v892
-[moon-crescent-for](caṃdra+rekhā+arthām) [by-gul](gulinā) [raised](pronnatā) [moon-moonlight](caṃdra+caṃdrikā)
+[moon-crescent](caṃdra+rekhā) [for-purpose](arthāṃ) [by-guḷa](gulinā) [raised](pronnatā) [moon-moonlight](caṃdra+caṃdrikā)
 
 ## mukta-m0-p36-v893
-[flax](atasī) [flower-like](puṣpa+saṃkāśā) [triangle-form](trikoṇa+ākāratām) [gone](gatā)
+[flax](atasī) [flower-like](puṣpa+saṃkāśā) [triangle-form](trikoṇa+ākāra+tāṃ) [gone](gatā)
 
 ## mukta-m0-p36-v894
-[long-flowing-even](ciradravā+api) [lord](nātha) [one](eka) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
+[long-flowing](ciradravā) [also](api) [lord](nātha) [eka](eka) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-[navel-slap](nābhau+capeṭa) [falls](patanaiḥ) [hip](nitaṃbe) [hand-rubbings](hasta+mardanaiḥ)
+[navel-palm](nābhai+capeṭa) [falls](patanaiḥ) [buttock](nitaṃbe) [hand-rubbings](hasta+mardanaiḥ)
 
 ## mukta-m0-p36-v896
-[own-juice](nijam+rasam) [flowing-indeed](sravantī+eva) [heroine-moon-moonlight](nāyikā+caṃdra+caṃdrikā)
+[own-essence](nijaṃ+rasaṃ) [flowing](sravaṃtyā) [eva](eva) [heroine-moonlight](nāyikā+caṃdra+caṃdrikā)
 
 ## mukta-m0-p36-v897
-[grain-liquor-equal-joy](paiṣṭi+madya+sama+modam) [arrow-flower-abundant-radiance](bāṇa+puṣpa+ulbaṇa+dyuti)
+[flour-wine-fragrance](paiṣṭi+madya+sama+modaṃ) [arrow-flower-abundant-radiance](bāṇa+puṣpa+ulbaṇa+dyuti)
 
 ## mukta-m0-p36-v898
-[attainment-perfection-procreation](prāpti+siddhi+prajananam) [all-sovereignty-named-speech](sarva+aiśvarya+ākhya+vāṅmayam)
+[attainment-accomplishment-procreation](prāpti+siddhi+prajananaṃ) [all-sovereignty-named-speech](sarva+aiśvarya+ākhya+vāṅmayam)
 
 ## mukta-m0-p36-v899
-[all-disease-pacifying](samasta+vyādhi+śamanam) [light-cool-pure](laghu+śītala+nirmalam)
+[all-disease-pacifying](samasta+vyādhi+śamanaṃ) [light-cool-pure](laghu+śītala+nirmalam)
 
 ## mukta-m0-p36-v900
-[then-recited](tadā+japeditam) [mantra](maṃtram) [and](ca) [palamba-lord-deity](palāṃbā+adhi+daivatam)
+[then-recited](tadā+japitaṃ) [mantra](maṃtraṃ) [ca](ca) [Palāmbā-presiding-deity](palāṃbā+adhidaivatam)
