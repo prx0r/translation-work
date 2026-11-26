@@ -1,4 +1,4 @@
 # mukta-m00415 mukta-m0-p11
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-I don't have the verse text for mukta-m0-p11. Please provide the labeled verses (mukta-m0-p11-v<N>) and I'll gloss each separately in the requested format.
+I don't have the source verse text for mukta-m00415 / mukta-m0-p11, so I can't produce byte-exact pada-glosses without hallucinating. Please paste the verses (with verse numbers) and I'll gloss each separately in the requested format.
