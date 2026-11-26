@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[secondary](gauṇaḥ) [in-temple](kṣetre) [or](athavā) [six-faced](ṣaḍdorekavaktraḥ) [is-praised](praśasyate)
+[secondary-nom.sg.m](gauṇaḥ) [in-field-or-loc.sg](kṣetre'thavā) [six-mouthed-nom.sg.m](ṣaḍdorekavaktraḥ) [is-praised-3sg.pass](praśasyate)
 
 ## mukta-m0-p40-v977
-[as-order](yathākramaṃ) [always](sadā) [with-six](ṣaḍbhiḥ) [right-left-hands](dakṣiṇottarapāṇibhiḥ)
+[according-to-order-adv](yathākramaṃ) [always-adv](sadā) [with-six-instr.pl](ṣaḍbhirdakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-[bearing](bibhrat) [śakti](śaktiṃ) [in-hand](kare) [right](yāmye) [peacock](tāmracūḍaṃ) [and](tathā) [other](itare)
+[bearing-3sg.pres](bibhrachaktiṃ) [in-right-hand-loc.sg](kare) [yāmye-loc.sg](yāmye) [copper-crested-acc.sg](tāmracūḍaṃ) [and-thus-adv](tathetare)
 
 ## mukta-m0-p40-v979
-[peacock-mounted](śikhyārūḍhaḥ) [but](tu) [Śarva](śārvaḥ) [this](ayaṃ) [all-ornamented](sarvālaṅkārabhūṣitaḥ)
+[peacock-mounted-nom.sg.m](śikhyārūḍhastu) [śiva-related-nom.sg.m](śārvo'yaṃ) [with-all-ornaments-nom.sg.m](sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-[stone-gold-etc-metals](śilāhemādilohaiḥ) [or](vā) [bull](vṛṣaṃ) [one-should-make](kuryāt) [as-desired](yathepsitam)
+[with-stone-gold-etc-instr.pl](śilāhemādilohairvā) [bull-acc.sg](vṛṣaṃ) [should-make-3sg.opt](kuryādyathepsitam)
 
 ## mukta-m0-p40-v981
-[in-common](sādhāraṇeṣu) [liṅgas](liṅgeṣu) [by-context](prastāvāt) [prescribed](vihitaḥ) [bull](vṛṣaḥ)
+[in-common-loc.pl](sādhāraṇeṣu) [in-liṅgas-loc.pl](liṅgeṣu) [from-context-abl.sg](prastāvādvihito) [bull-nom.sg](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-[liṅga-third-less](liṅgatryaṃśahīnaḥ) [to-be-made](kāryaḥ) [that-double-height-figure](taddvirāyativigrahaḥ)
+[liṅga-triad-minus-acc.sg](liṅgatryaṃśojhitaḥ) [should-be-made-nom.sg](kāryastaddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-[auspicious-open-eyed-mark](śubhonmolitadṛglakṣma) [liṅga-top](liṅgamastaka) [top](mastakaḥ)
+[auspicious-open-eyed-mark-nom.sg](śubhonmolitadṛglakṣma) [liṅga-head-head-nom.sg](liṅgamastakamastakaḥ)
 
 ## mukta-m0-p40-v984
-[from-length](dairghyāt) [square-etc](caturaśādi) [inches](aṅgulaṃ) [by-that](tena) [measurement](kalpanam)
+[from-length-abl.sg](dairghyāccaturaśotyaśāscāṅgulaṃ) [by-that-instr.sg](tena) [measurement-nom.sg](kalpanam)
 
 ## mukta-m0-p40-v985
-[eight-eyes-breadth](aṣṭanetrapṛthutvaṃ) [should-be](syāt) [high](uccaiḥ) [that-face-length](tadvaktradīrghatā)
+[eight-eyed-breadth-nom.sg](aṣṭanetrapṛthutvaṃ) [should-be-nom.sg](syāproccaistadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-[that-string-part](tantribhāgaṃ) [but](tu) [star](tārā) [should-be](syāt) [light](jyotiḥ) [that-fifth-part](tatpañcamāṃśataḥ)
+[string-part-nom.sg](tantribhāgaṃ) [but-adv](tu) [star-nom.sg](tārā) [should-be-nom.sg](syājjyotistatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-[nose-inch-measure-round](nāsāṅgulapramāvṛttā) [two-eyes](dvinetraṃ) [hollow-interior](śuṣirāntaram)
+[nose-finger-measure-round-nom.sg](nāsāṅgulapramāvṛttā) [two-eyed-acc.sg](dvinetraṃ) [hollow-middle-acc.sg](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-[five-eyes](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that-above](tadūrdhva) [but](tu) [increases](vivardhate)
+[five-eyed-acc.sg](pañcanetraṃ) [but-adv](tu) [breadth-acc.sg](vistāraṃ) [that-above-nom.sg](tadūrdhva) [then-adv](tu) [increases-3sg](vivardhate)
 
 ## mukta-m0-p40-v989
-[four-eyes](caturnetraḥ) [both-sides](ubhayoḥ) [side](pārśve) [face-measure](vaktramānaṃ) [but](tu) [joined](sandhitaḥ)
+[four-eyed-loc.pl](caturnetrobhayoḥ) [sides-loc.pl](pārśve) [face-measure-acc.sg](vaktramānaṃ) [but-adv](tu) [joined-nom.sg](sandhitaḥ)
 
 ## mukta-m0-p40-v990
-[that-base](tanmūle) [seven-breadth](saptavistāraṃ) [ear-base-together](karṇamūlasamanvitaṃ)
+[that-base-loc.sg](tanmūle) [seven-breadth-acc.sg](saptavistāraṃ) [ear-base-with-acc.sg](karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-[half-inch-equal](aṅgulārdhasamaṃ) [up-to](yāvat) [base](mūlaṃ) [five-round](pañcakavartulaṃ)
+[finger-half-equal-nom.sg](aṅgulārdhasamaṃ) [until-adv](yāvanmūlaṃ) [five-round-acc.sg](pañcakavartulam)
 
 ## mukta-m0-p40-v992
-[from-ear-base](karṇamūlāt) [but](tu) [nose-half](nāsārdhaṃ) [by-thread-smile](sūtrahāsāt) [should-bring-equal](nayetsamam)
+[from-ear-base-abl.sg](karṇamūlāttu) [nose-half-acc.sg](nāsārdhaṃ) [thread-line-abl.sg](sūtrahāsānnayetsamam)
 
 ## mukta-m0-p40-v993
-[conch-base](śaṅkhamūla) [two-eyes](dvinetraṃ) [should-be](syāt) [as-front](yathāgre) [eye-foot](netrapādakam)
+[conch-base-two-eyed-nom.sg](śaṅkhamūla) [should-be-nom.sg](dvinetraṃ) [syādyathāgre-netrapādakam](syādyathāgre netrapādakam)
 
 ## mukta-m0-p40-v994
-[side-lump](pārśvapiṇḍī) [two-eyes-half](dvinetrārdhaṃ) [six-eyes-front-tuft](ṣaḍnetrāgrāvaṭuḥ) [is-said](smṛtaḥ)
+[side-lump-two-eyed-half-acc.sg](pārśvapiṇḍī) [dvinetrārdhaṃ](dvinetrārdhaṃ) [six-eyed-front-depression-nom.sg](ṣaḍnetrāgrāvaṭuḥ)
 
 ## mukta-m0-p40-v995
-[two-eyes-height-above](dvinetrocchrayordhvaṃ) [should-be](syāt) [round-above](vṛttamūrdhvaṃ) [as](yathā) [becomes](bhavet)
+[two-eyed-height-above-nom.sg](dvinetrocchrayatordhvaṃ) [should-be-nom.sg](syādvṛttamūrdhvaṃ) [as-becomes-3sg](yathā bhavet)
 
 ## mukta-m0-p40-v996
-[joint](sandhiḥ) [eyes-excess](netrādhikaḥ) [is-stated](proktaḥ) [four-eyes-calf](caturnetropajaṅghikā)
+[joint-two-eyed-half-nom.sg](sandhirnetrādhikaḥ) [is-said-nom.sg](proktaścaturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-[ankle-half](gulphārdhaṃ) [hoof-eye](khurikānetraṃ) [of-foot](pādasya) [from-measure](parimāṇataḥ)
+[ankle-half-hoof-eyed-acc.sg](gulphārdhaṃ) [khurikānetraṃ](khurikānetraṃ) [of-foot-gen.sg](pādasyātparimāṇataḥ)
 
 ## mukta-m0-p40-v998
-[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [and-calf](copajaṅghrikā)
+[fourteen-etc-nom.sg](caturdaśādi) [that-word-nom.sg](tadvaca) [three-less-loc.sg](trihīne) [up-shank-nom.sg](copajaṅghrikā)
 
 ## mukta-m0-p40-v999
-[six-eyes-end](ṣaḍnetrāntaḥ) [thus](tathā) [to-be-known](jñeyā) [therefore](tasmāt) [should-be](syāt) [tail-continuity](pucchasantatiḥ)
+[six-eyed-within-then-known-nom.sg](ṣaḍnetrāntastathājñeyā) [from-that-abl.sg](tasmātsyātpucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-[three-palms](tālatrayaṃ) [very-long](pradīrghaṃ) [should-be](syāt) [half-palm](tālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
+[palm-three-long-nom.sg](tālatrayaṃ) [should-be-nom.sg](pradīrghaṃ) [syāttālārdhaṃ](syāttālārdhaṃ) [hair-collection-nom.sg](keśasaṃhatiḥ)
