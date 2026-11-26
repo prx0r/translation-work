@@ -5,31 +5,31 @@
 [tadvat](tadvad) [vedāḥ](vedāḥ) [ku-vipra-sthāḥ](kuviprasthāḥ) [kartuḥ](kartuḥ) [syuḥ](syuḥ) [aśubha-pradāḥ](aśubhapradāḥ)
 
 ## mukta-m0-p12-v277
-[ete](ete) [śaivāḥ](śaivāḥ) [samākhyātāḥ](samākhyātā) [na](na) [tu](tu) [ete](ete) [brāhmaṇāḥ](brāhmaṇāḥ) [kvacit](kvacit)
+[ete](ete) [śaivāḥ](śaivāḥ) [samākhyātāḥ](samākhyātāḥ) [na](na) [tu](tu) [ete](ete) [brāhmaṇāḥ](brāhmaṇāḥ) [kvacit](kvacit)
 
 ## mukta-m0-p12-v278
-[saṃskṛtānām](saṃskṛtānāṃ) [yatas](yatas) [teṣām](teṣāṃ) [naśyante](naśyante) [pūrva-jātayaḥ](pūrvajātayaḥ)
+[saṃskṛtānām](saṃskṛtānāṃ) [yataḥ](yataḥ) [teṣām](teṣāṃ) [naśyante](naśyante) [pūrva-jātayaḥ](pūrvajātayaḥ)
 
 ## mukta-m0-p12-v279
-[pṛthak-mantra-āgamāḥ](pṛthaṅmantrāgamāḥ) [eṣām](eṣāṃ) [vratāni](vratāni) [kratavaḥ](kratavaḥ) [pṛthak](pṛthak)
+[pṛthak](pṛthaṅ) [mantra-āgamau](mantrāgamāveṣāṃ) [eṣām](eṣāṃ) [vratāni](vratāni) [kratavaḥ](kratavaḥ) [pṛthak](pṛthak)
 
 ## mukta-m0-p12-v280
 [mugdhāḥ](mugdhāḥ) [kurvanti](kurvanti) [ye](ye) [viprāḥ](viprāḥ) [śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kalau](kalau)
 
 ## mukta-m0-p12-v281
-[tathā](tathaiva) [eva](eva) [śiva-yāgeṣu](śivayāgeṣu) [na](na) [mantrāḥ](mantrā) [vaidika-ādayaḥ](vaidikādayaḥ)
+[tathā](tathaiva) [eva](tathaiva) [śiva-yāgeṣu](śivayāgeṣu) [na](na) [mantrāḥ](mantrā) [vaidika-ādayaḥ](vaidikādayaḥ)
 
 ## mukta-m0-p12-v282
-[na](na) [dvāram](dvāraṃ) [maṇḍapa-ādiḥ](maṇḍapādiḥ) [ca](ca) [sthāpanam](sthāpanaṃ) [na](na) [śiva-ādike](śivādike)
+[na](na) [dvāram](dvāraṃ) [maṇḍapa-ādi](maṇḍapādiśca) [ca](maṇḍapādiśca) [sthāpanam](sthāpanaṃ) [na](na) [śiva-ādike](śivādike)
 
 ## mukta-m0-p12-v283
-[tasmāt](tasmāc) [śaivena](śaivena) [mantreṇa](mantreṇa) [pratiṣṭheta](pratiṣṭheta) [śiva-ādikam](śivādikam)
+[tasmāt](tasmācchaivena) [śaivena](tasmācchaivena) [mantreṇa](mantreṇa) [pratiṣṭheta](pratiṣṭheta) [śiva-ādikam](śivādikam)
 
 ## mukta-m0-p12-v284
-[śiva-mantraiḥ](śivamantraiḥ) [tayoḥ](tayoḥ) [samyak](samyak) [śiva-tvam](śivatvaṃ) [na](na) [anya-mantrataḥ](anyamantrataḥ)
+[śiva-mantraiḥ](śivamantraistayoḥ) [tayoḥ](śivamantraistayoḥ) [samyak](samyak) [śiva-tvam](śivatvaṃ) [na](na) [anya-mantrataḥ](nānyamantrataḥ)
 
 ## mukta-m0-p12-v285
-[na](na) [anya-darśana-mantraiḥ](anyadarśanamantraiḥ) [vā](vā) [pratiṣṭhā](pratiṣṭhā) [syāt](syāc) [śivasya](śivasya) [tu](tu)
+[na](na) [anya-darśana-mantraiḥ](nānyadarśanamantrairvā) [vā](nānyadarśanamantrairvā) [pratiṣṭhā](pratiṣṭhā) [syāt](syācchivasya) [śivasya](syācchivasya) [tu](tu)
 
 ## mukta-m0-p12-v286
 [na](na) [ca](ca) [śaivī-kriyā](śaivīkriyā) [vede](vede) [na](na) [ca](ca) [khaḍga-ādi-siddhayaḥ](khaḍgadisiddhayaḥ)
@@ -38,40 +38,40 @@
 [agniṣṭoma-ādayaḥ](agniṣṭomādayo) [yajñāḥ](yajñā) [veda-uktāḥ](vedoktā) [īśvareṇa](īśvareṇa) [tu](tu)
 
 ## mukta-m0-p12-v288
-[siddhānta-sthāpanam](siddhāntasthāpanaṃ) [dīkṣām](dīkṣāṃ) [na](na) [uktam](uktam) [vedeṣu](vedeṣu) [śaṃbhunā](śaṃbhunā)
+[siddhānta-sthāpanam](siddhāntasthāpanaṃ) [dīkṣām](dīkṣāṃ) [na](noktaṃ) [uktaṃ](noktaṃ) [vedeṣu](vedeṣu) [śambhunā](śaṃbhunā)
 
 ## mukta-m0-p12-v289
-[sva-mantra-bīja-jāḥ](svamantrabījajā) [devāḥ](devā) [na](na) [bahvakṣara-ḍambarāt](bavhakṣaraḍambarāt)
+[sva-mantra-bīja-jāḥ](svamantrabījajā) [devāḥ](devā) [na](na) [bahu-akṣara-ḍambarāt](bavhakṣaraḍambarāt)
 
 ## mukta-m0-p12-v290
-[na](na) [ete](ete) [śiva-adhva-tattva-jñāḥ](śivādhvatattvajñāḥ) [stāvakāḥ](stāvakā) [jana-rañjakāḥ](janarañjakāḥ)
+[na](na) [ete](naite) [śiva-adhva-tattva-jñāḥ](śivādhvatattvajñāḥ) [stāvakāḥ](stāvakāḥ) [jana-rañjakāḥ](janarañjakāḥ)
 
 ## mukta-m0-p12-v291
-[stutyā](stutyaiva) [eva](eva) [sthāpanam](sthāpanaṃ) [na](na) [syāt](syāc) [śiva-liṅge](śivaliṅge) [cala-acale](calācale)
+[stutyā](stutyaiva) [eva](stutyaiva) [sthāpanam](sthāpanaṃ) [na](na) [syāt](syācchivaliṅge) [śiva-liṅge](syācchivaliṅge) [calācale](calācale)
 
 ## mukta-m0-p12-v292
-[śaiva-ācāryaiḥ](śaivācāryaistu) [tu](tu) [sā](sā) [kāryā](kāryā) [rudra-brahma-arka-cakriṇām](rudrabrahmārkacakriṇām)
+[śaiva-ācāryaiḥ](śaivācāryaistu) [tu](śaivācāryaistu) [sā](sā) [kāryā](kāryā) [rudra-brahma-arka-cakriṇām](rudrabrahmārkacakriṇām)
 
 ## mukta-m0-p12-v293
-[yakṣa-rākṣasa-yoginyaḥ](yakṣarākṣasayoginyo) [gaṇāḥ](gaṇā) [gaurīḥ](gauryaḥ) [tathā](tathā) [aparāḥ](aparāḥ)
+[yakṣa-rākṣasa-yoginyaḥ](yakṣarākṣasayoginyo) [gaṇāḥ](gaṇā) [gaurīḥ](gauryastathāparāḥ) [tathā](gauryastathāparāḥ) [aparāḥ](gauryastathāparāḥ)
 
 ## mukta-m0-p12-v294
-[sva-saṃvedye](svasaṃvedye) [api](api) [rāga-andhāḥ](rāgāndhā) [dvijāḥ](dvijā) [īśvara-nindakāḥ](īśvaranindakāḥ)
+[sva-saṃvedye](svasaṃvedye) [api](svasaṃvedye) [rāga-andhāḥ](rāgāndhā) [dvijāḥ](dvijā) [īśvara-nindakāḥ](īśvaranindakāḥ)
 
 ## mukta-m0-p12-v295
-[te](te) [api](api) [tyājyāḥ](tyājyāḥ) [pratiṣṭhā-ādau](pratiṣṭhādau) [dūrāt](dūrāt) [bauddha-dvija-ādayaḥ](bauddhadvijādayaḥ)
+[te](te'pi) [api](te'pi) [tyājyāḥ](tyājyāḥ) [pratiṣṭhā-ādau](pratiṣṭhādau) [dūrāt](dūrādbauddhadvijādayaḥ) [bauddha-dvija-ādayaḥ](dūrādbauddhadvijādayaḥ)
 
 ## mukta-m0-p12-v296
-[śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kāryam](kāryaṃ) [na](na) [anyaiḥ](anyaiḥ) [tu](tu) [brāhmaṇa-ādibhiḥ](brāhmaṇādibhiḥ)
+[śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kāryam](kāryaṃ) [na](nānyaistu) [anyaiḥ](nānyaistu) [tu](nānyaistu) [brāhmaṇa-ādibhiḥ](brāhmaṇādibhiḥ)
 
 ## mukta-m0-p12-v297
 [sva-karma-abhiratāḥ](svakarmābhiratā) [viprāḥ](viprāḥ) [śaiva-ādyāḥ](śaivādyāḥ) [kāpila-antakāḥ](kāpilāntakāḥ)
 
 ## mukta-m0-p12-v298
-[sva-ṣaṭ-karma-anvitaḥ](svaṣaṭkarmānvito) [nityam](nityaṃ) [na](na) [anya-karmā](anyakarmā) [dvijaḥ](dvijo) [bhavet](bhavet)
+[sva-ṣaṭ-karma-anvitaḥ](svaṣaṭkarmānvito) [nityam](nityaṃ) [na](nānyakarmā) [anya-karmā](nānyakarmā) [dvijaḥ](dvijo) [bhavet](bhavet)
 
 ## mukta-m0-p12-v299
-[adhyāpanam](adhyāpanam) [iti](iti) [syuḥ](syuś) [ca](ca) [ṣaṭ-karmāṇi](ṣaṭkarmāṇi) [sadā](sadā) [dvije](dvije)
+[adhyāpanam](adhyāpanamiti) [iti](adhyāpanamiti) [syuḥ](syuśca) [ca](syuśca) [ṣaṭ-karmāṇi](ṣaṭkarmāṇi) [sadā](sadā) [dvije](dvije)
 
 ## mukta-m0-p12-v300
-[tṛṇa-ādi-mūlya-bhikṣānna-vṛttiḥ](tṛṇādimūlyabhikṣānnavṛttiḥ) [syāt](syā) [brāhmaṇaḥ](brāhmaṇo) [varaḥ](varaḥ)
+[tṛṇa-ādi-mūlya-bhikṣā-anna-vṛttiḥ](tṛṇādimūlyabhikṣānnavṛttiḥ) [syāt](syābrāhmaṇo) [brāhmaṇaḥ](syābrāhmaṇo) [varaḥ](varaḥ)

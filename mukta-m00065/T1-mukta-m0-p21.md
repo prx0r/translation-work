@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot-form-raised-knot-belly-disease-giving](granthirūponnatagranthirjaṭharāmayadāyaka)
+[granthi+rūpa+unnata+granthiḥ](granthirūponnatagranthiḥ) [jaṭhara+āmaya+dāyakaḥ](jaṭharāmayadāyakaḥ)
 
 ## mukta-m0-p21-v502
-[frost-that-know-son-grief-pain-giving](tuṣāraṃ) [that-know](tadvijānīyā) [son-grief-pain-giving](putraśokārtidāyakam)
+[tuṣāraṃ](tuṣāraṃ) [tat+vijānīyāt](tadvijānīyāt) [putra+śoka+ārti+dāyakam](putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[gold-sound-disease-copper-that-corrupt-piṅgalā-opinion](hemaghoṣāmayaṃ) [copper](tāmra) [that-corrupt](tadduṣṭaṃ) [piṅgalā-opinion](piṅgalāmate)
+[hema+ghoṣa+āmayaṃ](hemaghoṣāmayaṃ) [tāmraṃ](tāmraṃ) [tat+duṣṭaṃ](tadduṣṭaṃ) [piṅgalā+mate](piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[people-killing-iron-afflicted-stone-that-copper-and-stone-worker](janaṃ) [hantyāyasākrāntā] [śilā] [tāmī] [ca] [śilpinam]
+[janaṃ](janaṃ) [hanti](hantyāyasākrāntā) [āyasā+ākrāntā](āyasākrāntā) [śilā](śilā) [tāmī](tāmī) [ca](ca) [śilpinam](śilpinam)
 
 ## mukta-m0-p21-v505
-[black-yellow-red-spot-that-grief-fear-disease-giving](kṛṣṇaḥ) [pīto'ruṇo] [binduḥ] [sa] [śokabhayarogadaḥ]
+[kṛṣṇaḥ](kṛṣṇaḥ) [pītaḥ](pītaḥ) [aruṇaḥ](aruṇaḥ) [binduḥ](binduḥ) [saḥ](saḥ) [śoka+bhaya+roga+daḥ](śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[yellow-wealth-loss-maker-black-bond-both-twofold](pīte) [dhanakṣayaḥ] [kartuḥ] [kṛṣṇe] [bandho] [dvayordvidhā]
+[pīte](pīte) [dhana+kṣayaḥ](dhanakṣayaḥ) [kartuḥ](kartuḥ) [kṛṣṇe](kṛṣṇe) [bandhaḥ](bandho) [dvayoḥ](dvayoḥ) [dvidhā](dvidhā)
 
 ## mukta-m0-p21-v507
-[line-line-pierced-or-earthly-that-destroy](rekhā) [rekhānubiddhā] [vā] [pārthivaṃ] [sā] [vināśayet]
+[rekhā](rekhā) [rekhā+anubiddhā](rekhānubiddhā) [vā](vā) [pārthivaṃ](pārthivaṃ) [sā](sā) [vināśayet](vināśayet)
 
 ## mukta-m0-p21-v508
-[mistress-and-four-cut-many-cut-family-end-making](svāmidhnī) [ca] [catuśchinnā] [bahucchinnā] [kulāntakṛt]
+[svāmidhnī](svāmidhnī) [ca](ca) [catuḥ+chinnā](catuśchinnā) [bahu+chinnā](bahucchinnā) [kula+anta+kṛt](kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[fly-fly-shaped-by-that-leprosy-very-terrible](makṣikā) [makṣikākārā] [tayā] [kuṣṭhaṃ] [sudāruṇam]
+[makṣikā](makṣikā) [makṣikā+ākārā](makṣikākārā) [tayā](tayā) [kuṣṭhaṃ](kuṣṭhaṃ) [su+dāruṇam](sudāruṇam)
 
 ## mukta-m0-p21-v510
-[then-various-diseases-make-maker-and-no-doubt](tadā) [nānā] [gadān] [kuryāt] [kartuścaiva] [na] [saṃśayaḥ]
+[tadā](tadā) [nānā](nānā) [gadān](gadān) [kuryāt](kuryāt) [kartuḥ](kartuścaiva) [ca](ca) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[abandonable-then-three-mark-king-realm-subject-seeking](tyājyaṃ) [tadā] [tridhā] [liṅgaṃ] [nṛparāṣṭraprajārthinā]
+[tyājyaṃ](tyājyaṃ) [tadā](tadā) [tridhā](tridhā) [liṅgaṃ](liṅgaṃ) [nṛpa+rāṣṭra+prajā+arthinā](nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[left-side-residing-something-kill-realm-with-king](vāmapārśvāśritaḥ) [kiṃciddhanyādrāṣṭraṃ] [sarājakam]
+[vāma+pārśva+āśritaḥ](vāmapārśvāśritaḥ) [kiṃcit](kiṃciddhanyādrāṣṭraṃ) [hanyāt](hanyādrāṣṭraṃ) [rāṣṭraṃ](rāṣṭraṃ) [sa+rājakam](sarājakam)
 
 ## mukta-m0-p21-v513
-[all-colors-very-certainly-life-taking-black-shame](sarvavarṇā) [bhṛśaṃ] [nūnaṃ] [prāṇahṛtkṛṣṇahīrikā]
+[sarva+varṇāḥ](sarvavarṇā) [bhṛśaṃ](bhṛśaṃ) [nūnaṃ](nūnaṃ) [prāṇa+hṛt](prāṇahṛt) [kṛṣṇa+hīrikā](kṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[raised-seen-which-cat-foot-that-fault-bearing](unnato) [lakṣyate] [yaśca] [viḍālāṅghriḥ] [sa] [doṣabhāk]
+[unnataḥ](unnato) [lakṣyate](lakṣyate) [yaḥ](yaśca) [ca](ca) [viḍāla+aṅghriḥ](viḍālāṅghriḥ) [saḥ](saḥ) [doṣa+bhāk](doṣabhāk)
 
 ## mukta-m0-p21-v515
-[stone-form-observe-abandon-that-inauspicious-giving](śilāyā) [rūpamālakṣya] [tyajettāmaśubhapradām]
+[śilāyāḥ](śilāyā) [rūpam](rūpam) [ālakṣya](ālakṣya) [tyajet](tyajettāmaśubhapradām) [tām](tām) [aśubha+pradām](aśubhapradām)
 
 ## mukta-m0-p21-v516
-[small-faults-will-tell-as-in-scriptures-spoken](svalpadoṣān) [prakṣyāmi] [yathā] [śāstreṣu] [bhāṣitān]
+[svalpa+doṣān](svalpadoṣān) [prakṣyāmi](prakṣyāmi) [yathā](yathā) [śāstreṣu](śāstreṣu) [bhāṣitān](bhāṣitān)
 
 ## mukta-m0-p21-v517
-[ant-hill-nest-fallen-warm-alkaline-water-middle-gone](valmīkoṣaracityutthā) [koṣṇā] [kṣārāmbumadhyagā]
+[valmīka+uṣara+cit+utthā](valmīkoṣaracityutthā) [koṣṇā](koṣṇā) [kṣāra+ambu+madhya+gā](kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[bad-place-sun-heated-bitter-risen-thus-impure](kudiksthā) [sūryasantaptā] [kadutthāmethyadūṣitā]
+[kudik+sthā](kudiksthā) [sūrya+santaptā](sūryasantaptā) [kadu+utthā](kadutthā) [methi+a+dūṣitā](methyadūṣitā)
 
 ## mukta-m0-p21-v519
-[corrupt-life-voice-which-and-joined-not-other-work](duṣṭajīvasvarā) [yā] [ca] [yojitā] [nānyakarmaṇi]
+[duṣṭa+jīva+svarā](duṣṭajīvasvarā) [yā](yā) [ca](ca) [yojitā](yojitā) [na+anya+karmaṇi](nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[which-stone-clinging-that-oil-cutting-causing](yā) [yopalānulagnā] [sā] [snehavicchittikārikāḥ]
+[yā](yā) [yopalā+anulagnā](yopalānulagnā) [sā](sā) [sneha+vicchitti+kārikā](snehavicchittikārikā)
 
 ## mukta-m0-p21-v521
-[salt-place-wealth-heart-know-stone-place-sorrow-giving](ūṣarasthārthahṛjjñeyā) [citisthā] [duḥkhadāyinī]
+[ūṣara+sthā](ūṣarasthā) [artha+hṛt](arthahṛt) [jñeyā](jñeyā) [citisthā](citisthā) [duḥkha+dāyinī](duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[stone-place-unmeritorious-place-residing-killing-bhilla-served](pāṣadāpuṇyadeśasthā) [vadhakṛdbhilla] [sevitā]
+[pāṣaṇḍa+puṇya+deśa+sthā](pāṣadāpuṇyadeśasthā) [vadha+kṛt](vadhakṛt) [bhilla](bhilla) [sevitā](sevitā)
 
 ## mukta-m0-p21-v523
-[burning-loss-and-grief-and-poverty-disease-thus-bring](dāhaṃ) [hāniṃ] [ca] [śokaṃ] [ca] [naiḥsvaṃ] [rogaṃ] [tathāvahet]
+[dāhaṃ](dāhaṃ) [hāniṃ](hāniṃ) [ca](ca) [śokaṃ](śokaṃ) [ca](ca) [naiḥsvyaṃ](naiḥsvaṃ) [rogaṃ](rogaṃ) [tathā](tathā) [āvahet](āvahet)
 
 ## mukta-m0-p21-v524
-[liquor-smell-fat-smell-agitation-causing-stone](surāpakṣivasāgandhā) [udvegajananī] [śilā]
+[surā+pakṣi+vasā+gandhā](surāpakṣivasāgandhā) [udvega+jananī](udvegajananī) [śilā](śilā)
 
 ## mukta-m0-p21-v525
-[diamond-burned-fire-burned-and-king-fire-fear-giving](vajradagdhāgnidagdhā) [ca] [rājño'nalabhayapradā]
+[vajra+dagdhā](vajradagdhā) [agni+dagdhā](agnidagdhā) [ca](ca) [rājñaḥ](rājño) [anala+bhaya+pradā](analabhayapradā)
