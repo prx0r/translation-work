@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause+coloring+causes](heturaṃjanahetavaḥ)
+vīreṇa=by-hero tāsu=in-them karttavyaḥ=to-be-done hetuḥ=cause raṃjana-hetavaḥ=causes-of-delight
 
 ## mukta-m0-p46-v1127
-[whose-women](yastrīṇāṃ) [no-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
+ācāryamāṇaiḥ=by-teaching yaḥ=who strīṇām=of-women ananya-śaraṇam=sole-refuge manaḥ=mind
 
 ## mukta-m0-p46-v1128
-[in-slips](skhalaneṣu) [patience](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+skhalaneṣu=in-slips titikṣā=patience ca=and doṣasya=of-fault punar-īkṣaṇam=re-examination
 
 ## mukta-m0-p46-v1129
-[polity](daṇḍanītir) [not](tu) [in-women](strīṣu) [to-ruin](prapātayitu) [deserves](marhati)
+daṇḍa-nītiḥ=policy-of-punishment na=not tu=but strīṣu=in-women prapātayitum=to-ruin arhati=should
 
 ## mukta-m0-p46-v1130
-[behold-boldness](paśyasāhasametāsāṃ) [gone-to-heaven](svargate) [own-husband](nijabharttari)
+paśya=see sāhasa-metāsām=of-those-endowed-with-boldness svarga-gate=gone-to-heaven nija-bharttari=own-husband
 
 ## mukta-m0-p46-v1131
-[by-grief+beating+harshness](khedatāḍanapāruṣyair) [release-indeed](muṃcantyeva) [own-life](svajīvitam)
+kheda-tāḍana-pāruṣyaiḥ=by-grief-beating-harshness muñcanti=abandon eva=indeed sva-jīvitam=own-life
 
 ## mukta-m0-p46-v1132
-[therefore](ataśca) [gentleness-in-them](mārdavaṃtāsu) [first](prathamaṃ) [mind-coloring](cittaraṃjanam)
+ataḥ=therefore ca=mārdavam=gentleness tāsu=in-them prathamam=first citta-raṃjanam=delight-of-mind
 
 ## mukta-m0-p46-v1133
-[extreme-growth](atyaṃtamabhivṛddhiṃ) [and](ca) [leading-in-them](nayaccettāsu) [accomplisher](sādhakaḥ)
+atyantam=extreme abhivṛddhim=growth ca=and nayet=should-lead cet=if tāsu=in-them sādhakaḥ=accomplisher
 
 ## mukta-m0-p46-v1134
-[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [taught-by-wise](pradiśidbudhaḥ)
+madhyamena=by-middle prakāreṇa=way darśanam=seeing pradiśet=should-show budhaḥ=wise
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-other's-becoming](parebhavaṃ) [goes](yāti) [despised](paribhūtaḥ) [how](kathaṃ) [dear](priye)
+raktaḥ=attached pare-bhavam=humiliation-by-others yāti=goes paribhūtaḥ=despised katham=how priye=dear
 
 ## mukta-m0-p46-v1136
-[in-cows](vṛṣasyaṃtīṣu) [in-them](tāsvaṃba) [not](na) [indeed](vai) [chief](mukhyaṃ) [and](ca) [graze](cārayet)
+vṛṣasyantīṣu=in-those-desiring-intercourse tāsu=in-them amba=mother na=not vai=indeed mukhyam=chief ca=and cārayet=should-make-roam
 
 ## mukta-m0-p46-v1137
-[mouthfuls](grāsān) [also](api) [and](ca) [clothes](vāsāṃsi) [according-to](yathā) [power](śakti) [offer](nivedayet)
+grāsān=food api=also ca=and vāsāṃsi=clothes yathā=according-to śakti=ability nivedayet=should-offer
 
 ## mukta-m0-p46-v1138
-[therefore](tasmād) [hero-people-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
+tasmāt=therefore vīra-jana-adhīnā=dependent-on-hero dūtikā=messenger prakṛtiḥ=nature śive=O-Śiva
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyor) [union](ghaṭanaṃ) [say](brūyat) [human-aim-single-cause](puruṣārthaikakāraṇam)
+daṃpatyoḥ=of-couple ghaṭanam=union brūyat=should-say puruṣārtha-eka-kāraṇam=sole-cause-of-human-ends
 
 ## mukta-m0-p46-v1140
-[mutual-affection](anyonyamanurāgeṇa) [great-happiness](mahatsaukhyaṃ) [is-born](prajāyate)
+anyonya-manurāgeṇa=by-mutual-affection mahat=great saukhyam=happiness prajāyate=arises
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [reveal](prakāśayet)
+tasmāt=therefore tad-anukūlyāya=for-their-favor sva-anukūlyam=own-favor prakāśayet=should-reveal
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext](āliṃganacchalenaiva) [comfort](sukhaṃ) [massage](saṃvāhanaṃ) [do](caret)
+āliṅgana-chalena=by-embrace-pretext eva=indeed sukham=pleasure saṃvāhanam=massage caret=should-do
 
 ## mukta-m0-p46-v1143
-[taking-anoint](ādāyalimpec) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-goer](nānyagābhavet)
+ādāya=taking alimpet=should-anoint caraṇe=feet dūtyāḥ=of-messenger sā=she na=not anya-gā=going-to-another bhavet=should-be
 
 ## mukta-m0-p46-v1144
-[disgusted](jugupsamāno) [not](na) [become](bhaved) [detachment](vairāgyaṃ) [by-that](tena) [arises](jāyate)
+jugupsamānaḥ=disgusted na=not bhavet=should-be vairāgyam=detachment tena=by-that jāyate=arises
 
 ## mukta-m0-p46-v1145
-[in-true-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [and](ca) [step-by-step](pade pade)
+sati-lokeṣu=in-worlds-of-truth saṃcāram=movement utsavam=festival ca=and pade-pade=at-every-step
 
 ## mukta-m0-p46-v1146
-[various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+vividaiḥ=various sarasaiḥ=juicy pakvaiḥ=ripe phalaiḥ=fruits puṣpaiḥ=flowers sugaṃdhibhiḥ=fragrant
 
 ## mukta-m0-p46-v1147
-[with-unctions](udvarttanaiś) [betel](catāṃbūlair) [collyrium](aṃjanair) [mouth-perfumes](mukhavāsitaiḥ)
+udvarttanaiḥ=with-unctions ca=and tāmbūlaiḥ=betel aṃjanaiḥ=collyrium mukha-vāsitaiḥ=mouth-perfumes
 
 ## mukta-m0-p46-v1148
-[color](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogair) [bright](dīptaiś) [and](ca) [Pārvatī](pārvati)
+raṃjayet=should-delight ramaṇīm=woman dhīmān=wise-man bhogaiḥ=with-enjoyments dīptaiḥ=bright ca=and pārvati=O-Pārvatī
 
 ## mukta-m0-p46-v1149
-[so-long-delighted](tāvaddhiramanā) [indeed](eva) [enjoyment-differences](bhogabhedā) [but](tu) [should-practice](pācaret)
+tāvat=so-long adhi-ramanā=excessive-pleasure eva=indeed bhoga-bhedāḥ=varieties-of-enjoyment tu=but pācaret=should-avoid
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) [arises](jāyate) [that](tac) [and](ca) [proud-fruitless-women](sadarpāviphalāstriyaḥ)
+ślāghayā=by-praise jāyate=arises tat=that ca=and sa-darpāḥ=with-pride aviphalāḥ=not-fruitless striyaḥ=women
