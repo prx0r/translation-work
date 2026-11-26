@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[draft](granthirūponnatagranthirjaṭharāmayadāyaka)
+[granthi-rūpa-unnata-granthi](granthirūponnatagranthir) [jaṭhara-āmaya-dāyaka](jaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-[draft](tuṣāraṃ) [draft](tadvijānīyā) [draft](putraśokārtidāyakam)
+[tuṣāra](tuṣāraṃ) [tat-vijānīyā](tadvijānīyā) [putra-śoka-ārti-dāyakam](putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[draft](hemaghoṣāmayaṃ) [draft](tāmra) [draft](tadduṣṭaṃ) [draft](piṅgalāmate)
+[hema-ghoṣa-āmaya](hemaghoṣāmayaṃ) [tāmra](tāmra) [tat-duṣṭa](tadduṣṭaṃ) [piṅgalā-mate](piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[draft](janaṃ) [draft](hantyāyasākrāntā) [draft](śilā) [draft](tāmī) [draft](ca) [draft](śilpinam)
+[jana](janaṃ) [hanti](hantyāyasākrāntā) [āyasa-ākrāntā](āyasākrāntā) [śilā](śilā) [tāmī](tāmī) [ca](ca) [śilpinam](śilpinam)
 
 ## mukta-m0-p21-v505
-[draft](kṛṣṇaḥ) [draft](pīto'ruṇo) [draft](binduḥ) [draft](sa) [draft](śokabhayarogadaḥ)
+[kṛṣṇaḥ](kṛṣṇaḥ) [pītaḥ](pīto) [aruṇaḥ](aruṇo) [binduḥ](binduḥ) [sa](sa) [śoka-bhaya-roga-daḥ](śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[draft](pīte) [draft](dhanakṣayaḥ) [draft](kartuḥ) [draft](kṛṣṇe) [draft](bandho) [draft](dvayordvidhā)
+[pīte](pīte) [dhana-kṣayaḥ](dhanakṣayaḥ) [kartuḥ](kartuḥ) [kṛṣṇe](kṛṣṇe) [bandhaḥ](bandho) [dvayoḥ-dvidhā](dvayordvidhā)
 
 ## mukta-m0-p21-v507
-[draft](rekhā) [draft](rekhānubiddhā) [draft](vā) [draft](pārthivaṃ) [draft](sā) [draft](vināśayet)
+[rekhā](rekhā) [rekhā-anubiddhā](rekhānubiddhā) [vā](vā) [pārthivam](pārthivaṃ) [sā](sā) [vināśayet](vināśayet)
 
 ## mukta-m0-p21-v508
-[draft](svāmidhnī) [draft](ca) [draft](catuśchinnā) [draft](bahucchinnā) [draft](kulāntakṛt)
+[svāmidhnī](svāmidhnī) [ca](ca) [catuḥ-chinnā](catuśchinnā) [bahu-chinnā](bahucchinnā) [kula-antakṛt](kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[draft](makṣikā) [draft](makṣikākārā) [draft](tayā) [draft](kuṣṭhaṃ) [draft](sudāruṇam)
+[makṣikā](makṣikā) [makṣikā-ākārā](makṣikākārā) [tayā](tayā) [kuṣṭham](kuṣṭhaṃ) [su-dāruṇam](sudāruṇam)
 
 ## mukta-m0-p21-v510
-[draft](tadā) [draft](nānā) [draft](gadān) [draft](kuryāt) [draft](kartuścaiva) [draft](na) [draft](saṃśayaḥ)
+[tadā](tadā) [nānā-gadān](nānāgadān) [kuryāt](kuryāt) [kartuḥ-ca-eva](kartuścaiva) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[draft](tyājyaṃ) [draft](tadā) [draft](tridhā) [draft](liṅgaṃ) [draft](nṛparāṣṭraprajārthinā)
+[tyājyam](tyājyaṃ) [tadā](tadā) [tridhā-liṅgam](tridhāliṅgaṃ) [nṛpa-rāṣṭra-prajā-arthinā](nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[draft](vāmapārśvāśritaḥ) [draft](kiṃciddhanyādrāṣṭraṃ) [draft](sarājakam)
+[vāma-pārśva-āśritaḥ](vāmapārśvāśritaḥ) [kiṃcit](kiṃcit) [hanyāt](hanyādrāṣṭraṃ) [rāṣṭram](rāṣṭraṃ) [sa-rājakam](sarājakam)
 
 ## mukta-m0-p21-v513
-[draft](sarvavarṇā) [draft](bhṛśaṃ) [draft](nūnaṃ) [draft](prāṇahṛtkṛṣṇahīrikā)
+[sarva-varṇā](sarvavarṇā) [bhṛśam](bhṛśaṃ) [nūnam](nūnaṃ) [prāṇa-hṛt](prāṇahṛt) [kṛṣṇa-hīrikā](kṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[draft](unnato) [draft](lakṣyate) [draft](yaśca) [draft](viḍālāṅghriḥ) [draft](sa) [draft](doṣabhāk)
+[unnataḥ](unnato) [lakṣyate](lakṣyate) [yaḥ-ca](yaśca) [viḍāla-aṅghriḥ](viḍālāṅghriḥ) [sa](sa) [doṣa-bhāk](doṣabhāk)
 
 ## mukta-m0-p21-v515
-[draft](śilāyā) [draft](rūpamālakṣya) [draft](tyajettāmaśubhapradām)
+[śilāyāḥ](śilāyā) [rūpam](rūpam) [ālakṣya](ālakṣya) [tyajet](tyajettāmaśubhapradām) [tām](tām) [aśubha-pradām](aśubhapradām)
 
 ## mukta-m0-p21-v516
-[draft](svalpadoṣān) [draft](prakṣyāmi) [draft](yathā) [draft](śāstreṣu) [draft](bhāṣitān)
+[svalpa-doṣān](svalpadoṣān) [prakṣyāmi](prakṣyāmi) [yathā](yathā) [śāstreṣu](śāstreṣu) [bhāṣitān](bhāṣitān)
 
 ## mukta-m0-p21-v517
-[draft](valmīkoṣaracityutthā) [draft](koṣṇā) [draft](kṣārāmbumadhyagā)
+[valmīka-uṣara-cityutthā](valmīkoṣaracityutthā) [koṣṇā](koṣṇā) [kṣāra-ambu-madhya-gā](kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[draft](kudiksthā) [draft](sūryasantaptā) [draft](kadutthāmethyadūṣitā)
+[kudik-sthā](kudiksthā) [sūrya-santaptā](sūryasantaptā) [kadutthā-methyadūṣitā](kadutthāmethyadūṣitā)
 
 ## mukta-m0-p21-v519
-[draft](duṣṭajīvasvarā) [draft](yā) [draft](ca) [draft](yojitā) [draft](nānyakarmaṇi)
+[duṣṭa-jīva-svarā](duṣṭajīvasvarā) [yā](yā) [ca](ca) [yojitā](yojitā) [na-anyakarmaṇi](nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[draft](yā) [draft](yopalānulagnā) [draft](sā) [draft](snehavicchittikārikāḥ)
+[yā](yā) [yopalā-anulagnā](yopalānulagnā) [sā](sā) [sneha-vicchitti-kārikāḥ](snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-[draft](ūṣarasthārthahṛjjñeyā) [draft](citisthā) [draft](duḥkhadāyinī)
+[ūṣara-sthā-arthahṛt](ūṣarasthārthahṛjjñeyā) [jñeyā](jñeyā) [citisthā](citisthā) [duḥkha-dāyinī](duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[draft](pāṣadāpuṇyadeśasthā) [draft](vadhakṛdbhilla) [draft](sevitā)
+[pāṣadā-puṇya-deśa-sthā](pāṣadāpuṇyadeśasthā) [vadhakṛt](vadhakṛdbhilla) [bhilla](bhilla) [sevitā](sevitā)
 
 ## mukta-m0-p21-v523
-[draft](dāhaṃ) [draft](hāniṃ) [draft](ca) [draft](śokaṃ) [draft](ca) [draft](naiḥsvaṃ) [draft](rogaṃ) [draft](tathāvahet)
+[dāham](dāhaṃ) [hānim](hāniṃ) [ca](ca) [śokam](śokaṃ) [ca](ca) [naiḥsvam](naiḥsvaṃ) [rogam](rogaṃ) [tathā-āvahet](tathāvahet)
 
 ## mukta-m0-p21-v524
-[draft](surāpakṣivasāgandhā) [draft](udvegajananī) [draft](śilā)
+[surā-pakṣi-vasā-gandhā](surāpakṣivasāgandhā) [udvega-jananī](udvegajananī) [śilā](śilā)
 
 ## mukta-m0-p21-v525
-[draft](vajradagdhāgnidagdhā) [draft](ca) [draft](rājño'nalabhayapradā)
+[vajra-dagdhā-agni-dagdhā](vajradagdhāgnidagdhā) [ca](ca) [rājñaḥ](rājño) [anala-bhaya-pradā](analabhayapradā)
