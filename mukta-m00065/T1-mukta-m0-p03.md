@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[great+jewel](mahāratnaṃ) [great+value](mahāmūlyaṃ) [quality+endowed](guṇayuktaṃ) [should+worship+always](yajetsadā)
+[great-jewel](mahāratnaṃ) [great-value](mahāmūlyaṃ) [virtue-endowed](guṇayuktaṃ) [worship-always](yajetsadā)
 
 ## mukta-m0-p03-v52
-[good+radiance](supratāpo) [fame+and](yaśaścā) [life+would+be](yurbhaveyur) [of+king](nṛpateś) [long](ciram)
+[good-radiance](supratāpo) [fame-and-life](yaśaścāyurbhaveyurnṛpateściram)
 
 ## mukta-m0-p03-v53
-[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and+also](cāpi) [auspicious](śastaṃ) [jewel](ratnam) [unmade](anirmitam)
+[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and-also](cāpi) [excellent](śastaṃ) [jewel-unmade](ratnamanirmitam)
 
 ## mukta-m0-p03-v54
-[conch+crystal+like](śaṅkhasphaṭikasaṃkāśaṃ) [java+beginning+from+glow](javārambhādaladyuti)
+[conch-crystal-resembling](śaṅkhasphaṭikasaṃkāśaṃ) [hibiscus-beginning-luster](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-[washed+mouth+like](dhautāsyābho) [of+twice-born](dvijātīnāṃ) [king+worthy](nṛpārhau) [yellow+red](pītaraktakau)
+[washed-face-like](dhautāsyābho) [twice-born](dvijātīnāṃ) [king-worthy](nṛpārhau) [yellow-red](pītaraktakau)
 
 ## mukta-m0-p03-v56
-[that+mark](talliṅgam) [of+life](āyuṣo) [for+increase](vṛddhayai) [all+disease+destroying](sarvarogavināśakam)
+[that-lingam](talliṅgamāyuṣo) [life-increase](vṛddhayai) [all-disease-destroying](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-[indra+fire+friend+born](śakrāgni(gnī)casamitroye) [fourfold](caturdhā) [that+somewhere+opinion](tatkvacinmatam)
+[indra-fire-friend](śakrāgni(gnī)casamitroye) [fourfold](caturdhā) [sometimes](tatkvacinmatam)
 
 ## mukta-m0-p03-v58
-[autumn+water+like](śaradambunibhaṃ) [clear](svacchaṃ) [smooth](snigdhaṃ) [and](ca) [crystal](sphāṭikaṃ) [beneficial](hitam)
+[autumn-water-like](śaradambunibhaṃ) [clear](svacchaṃ) [smooth](snigdhaṃ) [and](ca) [crystal](sphāṭikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p03-v59
-[with+garbha+wave+joined](sagarbhamūrmisaṃyuktaṃ) [luminous+pearl+dense](jyotirmuktaghanaṃ) [reject](tyajet)
+[with-garbha-wave-associated](sagarbhamūrmisaṃyuktaṃ) [light-pearl-dense](jyotirmuktaghanaṃ) [reject](tyajet)
 
 ## mukta-m0-p03-v60
-[thick](sthūlaṃ) [long](dīrgha) [grass](kuśaṃ) [short](hrasvaṃ) [middle+etc+ends+or](madhyādyanteṣu) [vā](vā) [thin](kṛśam)
+[thick](sthūlaṃ) [long](dīrgha) [kuśa](kuśaṃ) [short](hrasvaṃ) [middle-beginning-end-or](madhyādyanteṣu) [vā](vā) [thin](kṛśam)
 
 ## mukta-m0-p03-v61
-[other+birth+attached](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear+causing](bhītikaraṃ) [reject](tyajet)
+[other-caste-attached](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear-causing](bhītikaraṃ) [reject](tyajet)
 
 ## mukta-m0-p03-v62
-[crystal](sphāṭikaṃ) [mark](liṅgam) [desired+purpose](iṣṭārthaṃ) [death+conquering](mṛtyujit) [desire+giving](kāmadaṃ) [worship](yajet)
+[crystal](sphāṭikaṃ) [lingam](liṅgamiṣṭārthaṃ) [desired-purpose](mṛtyujitkāmadaṃ) [worship](yajet)
 
 ## mukta-m0-p03-v63
-[mark](liṅgaṃ) [always+fire+offering+like](sadāgnihotrābhaṃ) [worship](pūjya) [no](no) [fault+making](doṣakṛn) [of+men](nṛṇām)
+[lingam](liṅgaṃ) [always-fire-sacrifice-like](sadāgnihotrābhaṃ) [worship](pūjya) [no](no) [fault-causing-for-men](doṣakṛnnṛṇām)
 
 ## mukta-m0-p03-v64
-[always](sadā) [low](nimnena) [success](siddhiḥ) [would+be](syāt) [high](ucce) [tu](tū) [high](uccā) [level](same) [equal](samā)
+[always](sadā) [by-low](nimnena) [success](siddhiḥ) [be](syāducce) [by-high](tūccā) [high](same) [by-equal](samā)
 
 ## mukta-m0-p03-v65
-[jewel+mark](ratnaliṅgaṃ) [twofold+called](dvidhākhyātaṃ) [own+pedestal](svapīṭhaṃ) [metal+pedestal+born](dhātupīṭhajam)
+[jewel-lingam](ratnaliṅgaṃ) [twofold-called](dvidhākhyātaṃ) [own-pedestal](svapīṭhaṃ) [metal-pedestal-born](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-[moving+mark](calaliṅgaṃ) [twofold+to+be+done](dvidhākāryaṃ) [metal+jewel+made](dhāturatnamayaṃ) [auspicious](śubham)
+[movable-lingam](calaliṅgaṃ) [twofold-made](dvidhākāryaṃ) [metal-jewel-made](dhāturatnamayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p03-v67
-[small+jewel+born+also+thus](kṣudraratnotthamapyevaṃ) [own+measure](svamānā) [two+jewel+born](dvararatnajam)
+[small-jewel-born](kṣudraratnotthamapyevaṃ) [own-measure](svamānā) [door-jewel-born](dvararatnajam)
 
 ## mukta-m0-p03-v68
-[of+vaiśyas](vaiśyānāṃ) [cupid+end](manmathāntaṃ) [would+be](syāt) [of+śūdras](śūdrāṇāṃ) [twelve+limit](dvādaśāvadhiḥ)
+[for-vaiśyas](vaiśyānāṃ) [love-end](manmathāntaṃ) [be](syācchūdrāṇāṃ) [twelve-limit](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-[moving](calaṃ) [that+above](tadūrdhvaṃ) [of+gods](devānāṃ) [twenty+three+finger](trayoviṃśatikāṅgulam)
+[movable](calaṃ) [that-above](tadūrdhvaṃ) [gods](devānāṃ) [twenty-three-angula](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-[immovable](acalaṃ) [khadrū+standing](khadrūbhasthāyi) [hand+from+nine+measure](karādanavasāmakam)
+[immovable](acalaṃ) [lead-base-standing](khadrūbhasthāyi) [hand-nine-lead](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-[six+cubit](saḍḍhataṃ) [mixed](miśrakaṃ) [mark](liṅgaṃ) [not](nordhvaṃ) [and](ca) [firm](sthiram) [desired](iṣyate)
+[six-cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [lingam](liṅgaṃ) [not-above](nordhvaṃ) [and](ca) [fixed-desired](sthiramiṣyate)
 
 ## mukta-m0-p03-v72
-[six+cubits+not+exceeding](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [stone+like+always](śailavatsadā)
+[six-cubits](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [mountain-like](śailavatsadā)
 
 ## mukta-m0-p03-v73
-[yakṣa+rakṣas+asura+serpent](yakṣarakṣo'suravyāla) [gandharva+apsaras+of](gandharvāpsarasāṃ) [somewhere](kvacit)
+[yakṣa-rakṣa-asura-vyāla](yakṣarakṣo'suravyāla) [gandharva-apsaras](gandharvāpsarasāṃ) [sometimes](kvacit)
 
 ## mukta-m0-p03-v74
-[circumference+height+by+and](pariṇāhocchrayābhyāṃ) [ca](ca) [of+gods](devānām) [twenty+one](ekaviṃśatiḥ)
+[circumference-height-by](pariṇāhocchrayābhyāṃ) [and](ca) [gods](devānāmekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-[five+finger+tu](pañcāṅgulaṃtu) [pastry+etc+first](paiṣṭyādyaṃ) [fruit+born](phalajaṃ) [own+measure](svapramāṇataḥ)
+[five-angula](pañcāṅgulaṃtu) [flour-made-etc](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [own-measure](svapramāṇataḥ)
