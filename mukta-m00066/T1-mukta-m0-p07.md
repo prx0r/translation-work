@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[of-most-sinful](pāpiṣṭhānām) [here](ihācāro) [conduct](yathā) [as](sarvajugupsitam) [by-all-abhorred](sarvajugupsitam)
+[of-the-most-sinful](pāpiṣṭhānām) [here](iha) [conduct](ācāraḥ) [as](yathā) [universally-despised](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-[does](karoti) [likewise](tadvatpretyāpi) [after-death](pretyāpi) [also](parānaṃdasukhaṃ) [supreme-bliss-happiness](parānaṃdasukhaṃ) [may-be](bhavet)
+[does](karoti) [thus](tadvat) [after-death](pretyāpi) [supreme-bliss-happiness](parānaṃdasukhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p07-v153
-[of-happiness](sukhasya) [origin](saṃbhavonānya) [not-other](vartmanā) [by-path](padmalocane) [O-lotus-eyed](padmalocane)
+[of-happiness](sukhasya) [origin](saṃbhavaḥ) [not-other](nānya) [path](vartmanā) [lotus-eyed](padmalocane)
 
 ## mukta-m0-p07-v154
-[that](sa) [indeed](eva) [path](mārgodumārgo) [wrong-path](mārgodumārgo) [another](aparaḥ) [declared](parikīrtitaḥ)
+[that](saḥ) [indeed](eva) [path](mārgaḥ) [wrong-path](durmārgaḥ) [another](aparaḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-[in-those](teṣu) [everywhere](sarvatra) [with-equality](sāmyena) [liṅga-bliss](liṃgānaṃdaḥ) [proceeds](pravartate)
+[in-them](teṣu) [everywhere](sarvatra) [with-equality](sāmyena) [of-signs](liṃgānām) [bliss](ānaṃdaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p07-v156
-[not](na) [indeed](vai) [caste](jātiṃ) [without](vināduṣṭāmanyajātiṣu) [corrupt](duṣṭām) [in-other-castes](anyajātiṣu) [exists](vidyate)
+[not](na) [indeed](vai) [without-caste](jātiṃ+vinā) [corrupt](duṣṭām) [in-other-castes](anyajātiṣu) [is-found](vidyate)
 
 ## mukta-m0-p07-v157
-[blinded-by-false-pride-arrogance](mithyābhimānadarpāndhāmithyādoṣāti) [excessively-suspicious-of-false-faults](śaṃkinī)
+[false-pride-arrogance-blind](mithyābhimānadarpāndhā) [false-faults](mithyādoṣā) [suspicious](śaṃkinī)
 
 ## mukta-m0-p07-v158
-[in-animals-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not](naitādṛkkrama) [such-sequence](saṃbhavaḥ) [occurrence](saṃbhavaḥ)
+[in-cattle-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not](na) [such-sequence](etādṛkkrama) [occurrence](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-[not](na) [all-castes](ravarjā) [depend-on-present](sarvajātirvarta) [support](mānāvalaṃbinī)
+[not](na) [without-caste](ravarjā) [all-caste](sarvajātiḥ) [existing](vartamānā) [dependent](avalaṃbinī)
 
 ## mukta-m0-p07-v160
-[not](na) [word-meaning-form](vācyavācakākāra) [scripture-discussion](śāstracarcā) [demonic](piśācikā)
+[not](na) [word-and-meaning-form](vācyavācakākāra) [scriptural-discussion](śāstracarcā) [demonic](piśācikā)
 
 ## mukta-m0-p07-v161
-[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manaso) [not](na) [hostility](droho) [not](nābhimānatā) [pride](nābhimānatā)
+[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manasaḥ) [not](na) [malice](drohaḥ) [not](na) [pride](abhimānatā)
 
 ## mukta-m0-p07-v162
-[in-desire-to-sleep](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [no-other](nānyaḥ) [any](ko'pi) [mental-fever](manojvaraḥ)
+[in-deep-sleep](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [not-other](nānyaḥ) [any](ko'pi) [mental-fever](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-[ascent-made-by-various-paths](nānāmārgakṛtārohaḥ) [anywhere](kutrāpya) [firm-support](dṛdalaṃbanaḥ)
+[not-various-paths-ascent](nānāmārgakṛtārohaḥ) [anywhere](kutrāpi) [firm-support](dṛḍhalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-[therefore](ataḥ) [in-all](sarvāsu) [castes](jātiṣvapyakhaṃḍita) [also](parākramam) [unbroken](parākramam) [valor](parākramam)
+[therefore](ataḥ) [in-all-castes](sarvāsu+jātiṣu) [also](api) [unbroken](akhaṃḍita) [prowess](parākramam)
 
 ## mukta-m0-p07-v165
-[lord-of-bliss](ānaṃdanāthamīśānaṃ) [ruler](īśānaṃ) [not](na) [find](viṃdaṃtidurāśayāḥ) [evil-minded](durāśayāḥ)
+[bliss-lord](ānaṃdanātham) [ruler](īśānam) [not](na) [find](viṃdanti) [evil-minded](durāśayāḥ)
 
 ## mukta-m0-p07-v166
-[thus](ityānaṃdatantre) [in-Ānanda-Tantra](caturthaḥ) [fourth](paṭalaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-bliss-tantra](ānaṃdatantre) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāśca) [and](śruṇuvīraniṣevite) [hear](śruṇuvīraniṣevite) [served-by-heroes](vīraniṣevite)
+[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāḥ) [ca](ca) [hear](śruṇu) [hero-worshipped](vīraniṣevite)
 
 ## mukta-m0-p07-v168
-[producing-all-accomplishments](samastasiddhijanakasāṃdrānaṃda) [dense-bliss](mahodayaḥ) [great-rise](mahodayaḥ)
+[all-accomplishments-causing](samastasiddhijanaka) [dense-bliss](sāṃdrānaṃda) [great-rise](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-[to-the-lord](nāthāyeti) [thus](padaṃ) [word](paścāt) [afterwards](procyabrūyāṃ) [I-shall-speak](navātmikām) [nine-syllabled](navātmikām)
+[to-lord](nāthāya) [iti](iti) [word](padaṃ) [after](paścāt) [say](procyabrūyāṃ) [nine-formed](navātmikām)
 
 ## mukta-m0-p07-v170
-[beginning-with-om](praṇavādirmahāmaṃtraḥ) [great-mantra](prokto) [declared](viṃśati) [twenty](varṇavān) [having-letters](varṇavān)
+[praṇava-beginning](praṇavādi) [great-mantra](mahāmaṃtraḥ) [declared](proktaḥ) [twenty](viṃśati) [letters-having](varṇavān)
 
 ## mukta-m0-p07-v171
-[called-nine-soul-couple](navātmamithunākhyā) [and](ca) [essence-of-great-bliss-digit](mahānaṃdakalātmikā)
+[nine-formed-couple-named](navātmamithunākhyā) [ca](ca) [great-bliss-potency-formed](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-[by-this](anayāsadṛśo) [similar](maṃtrastvanayāsadṛśaṃ) [mantra](tapaḥ) [but](anayāsadṛśaṃ) [by-this](tapaḥ) [similar](tapaḥ) [austerity](tapaḥ)
+[by-this](anayā) [similar](sadṛśaḥ) [mantra](maṃtraḥ) [tu](tu) [by-this](anayā) [similar](sadṛśaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p07-v173
-[liṅga-yoni](liṃgayoni) [always-united](sadāsaṃgā) [by-action](kāreṇasatataṃ) [constantly](mayā) [by-me](mayā)
+[liṅga-yoni](liṃgayoni) [always-union](sadāsaṃgā) [by-action](kāreṇa) [constantly](satataṃ) [by-me](mayā)
 
 ## mukta-m0-p07-v174
-[me](māṃ) [without](vinānaivajānaṃti) [not-indeed](vidyāmetāṃ) [know](mahodayām) [knowledge](vidyāmetāṃ) [this](mahodayām) [great](mahodayām)
+[me](māṃ) [without](vinā) [not](na) [eva](eva) [know](jānanti) [vidyā](vidyām) [this](etāṃ) [great-rise](mahodayām)
 
 ## mukta-m0-p07-v175
-[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvameṣā) [this](sā) [that](ca) [and](muradviṣe) [to-enemy-of-Mura](muradviṣe)
+[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvam) [this](eṣā) [sā](sā) [ca](ca) [to-Muradviṣ](muradviṣe)
