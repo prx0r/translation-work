@@ -12,27 +12,19 @@
 },
 {
 "surface": "maṇḍale",
-"quick_gloss": "circle"
+"quick_gloss": "in-circle"
 },
 {
 "surface": "pūjya",
-"quick_gloss": "worship"
+"quick_gloss": "worshipful"
 },
 {
 "surface": "syāt",
 "quick_gloss": "may-be"
 },
 {
-"surface": "dīkṣā",
-"quick_gloss": "initiation"
-},
-{
-"surface": "sthāpana",
-"quick_gloss": "installation"
-},
-{
-"surface": "ādike",
-"quick_gloss": "etc"
+"surface": "dīkṣāsthāpanādike",
+"quick_gloss": "in-initiation-installation-etc"
 }
 ]
 },
@@ -53,7 +45,7 @@
 },
 {
 "surface": "sainyacchinnāgadantajam",
-"quick_gloss": "army-cut-tusk-born"
+"quick_gloss": "army-cut-elephant-tusk-born"
 }
 ]
 },
@@ -66,11 +58,11 @@
 "tokens": [
 {
 "surface": "aṇimādinṛkulyottham",
-"quick_gloss": "atom-etc-noble-born"
+"quick_gloss": "from-atom-etc-king-lineage-born"
 },
 {
 "surface": "anyonyabdārdhataḥ",
-"quick_gloss": "mutual-half-month"
+"quick_gloss": "mutually-half-month"
 },
 {
 "surface": "sadā",
@@ -91,7 +83,7 @@
 },
 {
 "surface": "puṣṭyai",
-"quick_gloss": "nourishment"
+"quick_gloss": "for-nourishment"
 },
 {
 "surface": "ṣāṣṭikaṃ",
@@ -124,7 +116,7 @@
 },
 {
 "surface": "śyāmākasambhavam",
-"quick_gloss": "dark-millet-born"
+"quick_gloss": "shyamaka-born"
 }
 ]
 },
@@ -137,15 +129,15 @@
 "tokens": [
 {
 "surface": "sukhakṛt",
-"quick_gloss": "pleasure-making"
+"quick_gloss": "happiness-making"
 },
 {
 "surface": "nāvanītaṃ",
-"quick_gloss": "not-butter"
+"quick_gloss": "not-churned"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "gomayaṃ",
@@ -187,7 +179,11 @@
 "tokens": [
 {
 "surface": "uccāṭane",
-"quick_gloss": "for-uprooting"
+"quick_gloss": "in-uprooting"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "pāṃśavyaṃ",
@@ -224,7 +220,7 @@
 },
 {
 "surface": "caugryakārakam",
-"quick_gloss": "harshness-making"
+"quick_gloss": "fierceness-causing"
 }
 ]
 },
@@ -241,11 +237,11 @@
 },
 {
 "surface": "iṣṭārthaṃ",
-"quick_gloss": "desired-aim"
+"quick_gloss": "desired-purpose"
 },
 {
 "surface": "lepāt",
-"quick_gloss": "from-anointing"
+"quick_gloss": "by-smearing"
 },
 {
 "surface": "syuḥ",
@@ -265,16 +261,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāvatkālaṃ",
-"quick_gloss": "so-long-time"
+"surface": "tāvatkāla",
+"quick_gloss": "for-that-time"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "saṃpūya",
-"quick_gloss": "worship"
+"quick_gloss": "worshipping"
 },
 {
 "surface": "visṛjya",
@@ -303,15 +299,11 @@
 "tokens": [
 {
 "surface": "niṣkvāthya",
-"quick_gloss": "boiling"
+"quick_gloss": "boiling-down"
 },
 {
-"surface": "paṭam",
-"quick_gloss": "cloth"
-},
-{
-"surface": "ālepya",
-"quick_gloss": "anointing"
+"surface": "paṭamālepya",
+"quick_gloss": "cloth-smearing"
 },
 {
 "surface": "saṃśoṣya",
@@ -335,12 +327,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhātubilvarasaiḥ",
-"quick_gloss": "metals-bilva-juices"
-},
-{
-"surface": "lekhyaṃ",
-"quick_gloss": "writing"
+"surface": "dhātubilvarasairlekhyaṃ",
+"quick_gloss": "with-metal-bilva-juices-drawing"
 },
 {
 "surface": "tridhā",
@@ -364,16 +352,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "balasaṃvartanīcchāyāḥ",
-"quick_gloss": "strength-revolution-desire"
+"surface": "balasaṃvartanīcchāyā",
+"quick_gloss": "strength-revolving-desire"
 },
 {
 "surface": "dṛṣṭi",
-"quick_gloss": "sight"
+"quick_gloss": "view"
 },
 {
 "surface": "bhāvāśritā",
-"quick_gloss": "being"
+"quick_gloss": "emotion-dependent"
 },
 {
 "surface": "sadā",
@@ -389,16 +377,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karuṇā",
-"quick_gloss": "compassionate"
-},
-{
-"surface": "adbhuta",
-"quick_gloss": "wonderful"
-},
-{
-"surface": "śāntāḥ",
-"quick_gloss": "peaceful"
+"surface": "karuṇādbhutaśāntāḥ",
+"quick_gloss": "compassion-wonder-peace"
 },
 {
 "surface": "ca",
@@ -406,7 +386,7 @@
 },
 {
 "surface": "navabhāvātmikāḥ",
-"quick_gloss": "nine-emotion-souled"
+"quick_gloss": "nine-emotion-natured"
 },
 {
 "surface": "kvacit",
@@ -426,12 +406,8 @@
 "quick_gloss": "by-own-will"
 },
 {
-"surface": "pūjayet",
-"quick_gloss": "worship"
-},
-{
-"surface": "etan",
-"quick_gloss": "this"
+"surface": "pūjayedetan",
+"quick_gloss": "worship-this"
 },
 {
 "surface": "mṛnmayāni",
@@ -456,23 +432,15 @@
 "tokens": [
 {
 "surface": "sadyomantreṇa",
-"quick_gloss": "immediate-mantra"
+"quick_gloss": "instant-mantra"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cāpakvaṃ",
+"quick_gloss": "and-uncooked"
 },
 {
-"surface": "apakvaṃ",
-"quick_gloss": "unripe"
-},
-{
-"surface": "kramāt",
-"quick_gloss": "in-order"
-},
-{
-"surface": "navakarādikam",
-"quick_gloss": "nine-finger-etc"
+"surface": "kramānnavakarādikam",
+"quick_gloss": "in-order-nine-hand-etc"
 }
 ]
 },
@@ -489,7 +457,7 @@
 },
 {
 "surface": "mṛdbhiḥ",
-"quick_gloss": "clays"
+"quick_gloss": "with-clays"
 },
 {
 "surface": "avyaktādi",
@@ -497,6 +465,10 @@
 },
 {
 "surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "kāmataḥ",
 "quick_gloss": "by-desire"
 }
 ]
@@ -510,7 +482,7 @@
 "tokens": [
 {
 "surface": "vāpīkūpataḍāgeṣu",
-"quick_gloss": "in-wells-tanks-lakes"
+"quick_gloss": "in-wells-cisterns-tanks"
 },
 {
 "surface": "dīrghikāyāḥ",
@@ -535,7 +507,7 @@
 },
 {
 "surface": "trilohagarbhaṃ",
-"quick_gloss": "three-metal-womb"
+"quick_gloss": "three-metal-wombed"
 },
 {
 "surface": "ca",
@@ -556,7 +528,7 @@
 "tokens": [
 {
 "surface": "vāmākhyena",
-"quick_gloss": "by-vāma-named"
+"quick_gloss": "by-left-named"
 },
 {
 "surface": "citāṃ",
@@ -568,11 +540,11 @@
 },
 {
 "surface": "ghoreṇa",
-"quick_gloss": "by-fierce"
+"quick_gloss": "fiercely"
 },
 {
 "surface": "paridāhya",
-"quick_gloss": "burning"
+"quick_gloss": "burning-around"
 },
 {
 "surface": "ca",
@@ -589,7 +561,7 @@
 "tokens": [
 {
 "surface": "īśānena",
-"quick_gloss": "by-īśāna"
+"quick_gloss": "by-ishana"
 },
 {
 "surface": "gṛhītvā",
@@ -597,7 +569,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "tataḥ",
@@ -622,7 +594,7 @@
 "tokens": [
 {
 "surface": "sarjahiṅgupuraṃbola",
-"quick_gloss": "sarja-asafoetida-puram-bola"
+"quick_gloss": "sal-resin-asafoetida-guggulu-bola"
 },
 {
 "surface": "matasītailam",
@@ -663,7 +635,7 @@
 },
 {
 "surface": "tāṃ",
-"quick_gloss": "that"
+"quick_gloss": "her"
 },
 {
 "surface": "parimṛdya",
@@ -684,7 +656,7 @@
 "tokens": [
 {
 "surface": "śaṇatatvanvitaṃ",
-"quick_gloss": "hemp-fiber"
+"quick_gloss": "hemp-fiber-included"
 },
 {
 "surface": "katvā",
