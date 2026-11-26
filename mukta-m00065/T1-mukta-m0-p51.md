@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[therefore+liṅga-following](tasmāt+liṅgānugaṃ) [seat](pīṭhaṃ) [to-be-made](kartavyaṃ) [maker-life](kartṛjīvane)
+[therefore](tasmāt) [linga](liṅga) [following](anugam) [pedestal](pīṭhaṃ) [to-be-made](kartavyaṃ) [in-life-of-maker](kartṛjīvane)
 
 ## mukta-m0-p51-v1252
-[if](yadi) [would-be](syāt) [afflicted](pīḍyate) [diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭraṃ) [guru-thus](gurūstathā)
+[if](yadi) [is](syāt) [afflicted](pīḍyate) [by-diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭraṃ) [guru](gurūḥ) [thus](tathā)
 
 ## mukta-m0-p51-v1253
-[by-height](ucchrayeṇa) [three-liṅgas](triliṅgānāṃ) [not](na) [less](nyūno) [not](na) [more](adhiko) [of-hari](hareḥ)
+[by-height](ucchrayeṇa) [of-three-lingas](triliṅgānāṃ) [not](na) [less](nyūnaḥ) [not](na) [greater](adhikaḥ) [of-hari](hareḥ)
 
 ## mukta-m0-p51-v1254
-[sages+half+more](munisārdhādhikaiḥ) [śambhu](śambhuṃ) [would-make](kuryād) [wealthy](āḍhyaṃ) [wealth](vasor) [hari](harim)
+[by-sages](munibhiḥ) [with-half-more](sārdhādhikaiḥ) [shambhu](śambhuṃ) [should-make](kuryāt) [wealthy](āḍhyaṃ) [of-vasu](vasoḥ) [hari](harim)
 
 ## mukta-m0-p51-v1255
-[quarter+less+eighth](pādonāṣṭāṃśato) [brahmā](brahmā) [to-be-made](kāryaṃ) [and](ca) [not-wealthy](anāḍhyakaṃ) [sometimes](kvacit)
+[by-quarter-eighth](pādonāṣṭāṃśataḥ) [brahma](brahmā) [to-be-made](kāryaṃ) [and](ca) [not-wealthy](anāḍhyakaṃ) [sometimes](kvacit)
 
 ## mukta-m0-p51-v1256
-[one](ekaṃ) [divine-worshipped](surārcite) [liṅga](liṅge) [brahmā](brahmā) [seventh-part](saptāṃśake) [certainly](dhruvam)
+[one](ekaṃ) [in-worshipped-linga](surārcite+liṅge) [brahma](brahmā) [in-seventh-part](saptāṃśake) [certainly](dhruvam)
 
 ## mukta-m0-p51-v1257
-[white-etc-color](sitādivarṇāvarṇānāṃ) [seat-etc](pīṭhādyā) [not](na) [color-born](vivarṇajāḥ)
+[of-white-etc-colors](sitādi+varṇa) [of-colorless](avarṇānāṃ) [pedestal-etc](pīṭha+ādyāḥ) [not](na) [colorless-born](vivarṇajāḥ)
 
 ## mukta-m0-p51-v1258
-[jewel-born](ratnajā) [or](vā) [iron](lohairvā) [especially](viśeṣāt) [glory](kīrtaye) [now](adhunā)
+[of-gems](ratnajāḥ) [or](vā) [by-metals](lohaiḥ+vā) [especially](viśeṣāt) [for-glory](kīrtaye) [now](adhunā)
 
 ## mukta-m0-p51-v1259
-[vaiḍūrya-etc-best](vaiḍūryādyuttame) [always](nityaṃ) [gold-born](hemajā) [pedestal](piṇḍikā) [excellent](varā)
+[of-vaidurya-etc](vaiḍūrya+ādi) [in-best](uttame) [always](nityaṃ) [of-gold](hema+jā) [pedestal](piṇḍikā) [excellent](varā)
 
 ## mukta-m0-p51-v1260
-[share-three-more](bhāgadrayamathikaṃ) [or](vā) [place](vinyaset) [pedestal-pit](piṇḍikāvaṭau)
+[three-parts-more](bhāgadrayam+athikaṃ) [or](vā) [should-place](vinyaset) [in-pedestal-pit](piṇḍikā+vaṭau)
 
 ## mukta-m0-p51-v1261
-[girdle-etc-division](mekhalādivibhāgo) [its](asyāḥ) [as-before](pūrvavat) [declared](samudāhṛtaḥ)
+[of-girdle-etc](mekhalā+ādi) [division](vibhāgaḥ) [its](asyāḥ) [as-before](pūrvavat) [declared](samudāhṛtaḥ)
 
 ## mukta-m0-p51-v1262
-[not](na) [less](nyūnaṃ) [not](na) [more](adhikaṃ) [measure](mānāt) [beautiful](śobhanaṃ) [pit](śvabhram) [is-said](iṣyate)
+[not](na) [less](nyūnaṃ) [not](na) [greater](adhikaṃ) [than-measure](mānāt) [beautiful](śobhanaṃ) [pit](śvabhram) [is-said](iṣyate)
 
 ## mukta-m0-p51-v1263
-[seat-fault](pīṭhadoṣāt) [decay](kṣayo) [woman](nāryāḥ) [maker](kāro) [to-do](kartuṃ) [and](ca) [always](sarvadā)
+[from-pedestal-fault](pīṭha+doṣāt) [decay](kṣayaḥ) [of-woman](nāryāḥ) [maker](kāraḥ) [to-do](kartuṃ) [always](sarvadā)
 
 ## mukta-m0-p51-v1264
-[enjoyment-liberation-both-attainment](bhuktimuktyubhayaprāptyai) [other](anyaḥ) [desire](kāmyasya) [cause](hetave)
+[for-both-enjoyment-liberation](bhukti+mukti+ubhaya+prāptyai) [other](anyaḥ) [of-desired](kāmyasya) [for-cause](hetave)
 
 ## mukta-m0-p51-v1265
-[lotus-half-moon-number-named](padmārdhendugaṇākhyā) [ca](ca) [desire-giving](kāmadā) [auspicious-head](śubhamastake)
+[of-lotus-half-moon-count](padma+ardha+indu+gaṇa+ākhyā) [ca](ca) [wish-giving](kāmadā) [auspicious](śubha) [on-head](mastake)
 
 ## mukta-m0-p51-v1266
-[two-girdle](dvimekhalā) [ca](ca) [veda-arrow](vedāsrā) [auspicious](bhadrā) [yoga-siddhi-giving](yogarddhidāyinī)
+[two-girdled](dvimekhalā) [ca](ca) [veda-cornered](veda+asrā) [auspicious](bhadrā) [yoga-prosperity-giving](yoga+ṛddhi+dāyinī)
 
 ## mukta-m0-p51-v1267
-[six-arrow](ṣaḍasrā) [life-giving](āyuḥpradā) [vajrī](vajrī) [girdle-three-endowed](mekhalātritayānvitā)
+[six-cornered](ṣaḍasrā) [life-giving](āyuḥ+pradā) [vajri](vajrī) [with-three-girdles](mekhalā+tritaya+anvitā)
 
 ## mukta-m0-p51-v1268
-[maṇḍala](maṇḍalā) [full-moon-like](pūrṇacandrābhā) [thus](tvarthadā) [fifth-girdle](pañcamekhalā)
+[mandala](maṇḍalā) [full-moon-like](pūrṇa+candra+ābhā) [then](tad) [wealth-giving](artha+dā) [five-girdled](pañca+mekhalā)
 
 ## mukta-m0-p51-v1269
-[moon-water-form-supreme](candrāmburuparāmai) [kāgni-part-tithi-divided](kāgnidyaṃśaistithi) [bhājitaiḥ](bhājitaiḥ)
+[of-moon-water-form-supreme](candra+ambu+rupa+parāmai) [or](vā) [of-fire-portion](kāgni+dyāṃśaiḥ) [tithi](tithi) [divided](bhājitaiḥ)
 
 ## mukta-m0-p51-v1270
-[round](vṛttā) [lotus-cup-shaped](padmapuṭākārā) [karṇikā](karṇiko) [fear-kissed](bhayacumbitā)
+[round](vṛttā) [lotus-cup-shaped](padma+puṭa+ākārā) [pedestal-center](karṇikā) [fear-kissed](bhaya+cumbitā)
 
 ## mukta-m0-p51-v1271
-[eight-cornered](aṣṭakoṇā) [gaṇa-named](gaṇākhyātā) [liberation-giving](muktidā) [would-be](syāt) [two-girdle](dvimekhalā)
+[eight-cornered](aṣṭa+koṇā) [gana-named](gaṇa+ākhyātā) [liberation-giving](mukti+dā) [syāt](syāt) [two-girdled](dvimekhalā)
 
 ## mukta-m0-p51-v1272
-[previously-said-girdle-pit-stalk-etc-endowed](pūrvoktamekhalāgartanālakādisamanvitā)
+[previously-said](pūrvokta) [girdle-pit-stalk-etc](mekhalā+garta+nāla+ādi) [with](samanvitā)
 
 ## mukta-m0-p51-v1273
-[extent-height-stalk-etc](vistarokchrayanālādi) [all](sarbaṃ) [previously-said](pūrvoṃditaṃ) [in-order](kramāt)
+[width-height-stalk-etc](vistara+ucchraya+nāla+ādi) [all](sarbaṃ) [previously-said](pūrvoṃditaṃ) [in-order](kramāt)
 
 ## mukta-m0-p51-v1274
-[wrapping](saṃveṣṭya) [make-pedestal](vartayetpiṇḍīṃ) [maker](kartuḥ) [desire-accomplishing](kāmaprasādhikam)
+[having-wrapped](saṃveṣṭya) [should-make-pedestal](vartayet+piṇḍīṃ) [of-maker](kartuḥ) [wish-fulfilling](kāma+prasādhikam)
 
 ## mukta-m0-p51-v1275
-[mārūtī](mārūtīṃ) [dhānadī](dhānadīṃ) [raudrī](raudrīṃ) [vaiṣṇavī](vaiṣṇāvīṃ) [brahma-born](brahmajāṃ) [always](sadā)
+[of-maruti](mārūtīṃ) [of-dhani](dhānadīṃ) [of-rudri](raudrīṃ) [of-vaishnavi](vaiṣṇāvīṃ) [of-brahma-born](brahmajāṃ) [always](sadā)
