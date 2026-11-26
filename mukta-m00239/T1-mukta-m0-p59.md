@@ -1,4 +1,4 @@
 # mukta-m00239 mukta-m0-p59
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-No source text available for mukta-m0-p59; cannot produce byte-exact glosses without the verse surfaces.
+I don't have access to the source text for "mukta-m00239 mukta-m0-p59", so I can't produce byte-exact pada-glosses for its verses. Please paste the verse text (with verse numbers) and I'll gloss each one separately in the requested format.
