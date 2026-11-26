@@ -12,7 +12,7 @@
 },
 {
 "surface": "avaśyaṃ",
-"quick_gloss": "surely"
+"quick_gloss": "certainly"
 },
 {
 "surface": "nighnaṃti",
@@ -23,16 +23,12 @@
 "quick_gloss": "nature"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "asya",
-"quick_gloss": "of-this"
+"surface": "vāsya",
+"quick_gloss": "of-that"
 },
 {
 "surface": "vastunaḥ",
-"quick_gloss": "of-thing"
+"quick_gloss": "thing"
 }
 ]
 },
@@ -49,7 +45,7 @@
 },
 {
 "surface": "vīrabhadraḥ",
-"quick_gloss": "virabhadra"
+"quick_gloss": "vīrabhadra"
 },
 {
 "surface": "suśroṇi",
@@ -78,15 +74,19 @@
 "tokens": [
 {
 "surface": "dakṣakopāt",
-"quick_gloss": "from-daksha's-anger"
+"quick_gloss": "from-dakṣa's-anger"
 },
 {
 "surface": "prajvalataḥ",
 "quick_gloss": "blazing"
 },
 {
-"surface": "tasyāṃgāt",
-"quick_gloss": "from-his-limb"
+"surface": "tasya",
+"quick_gloss": "of-him"
+},
+{
+"surface": "aṃgāt",
+"quick_gloss": "limb"
 },
 {
 "surface": "romakūpataḥ",
@@ -148,7 +148,7 @@
 },
 {
 "surface": "muṣā",
-"quick_gloss": "with-him"
+"quick_gloss": "by-him"
 }
 ]
 },
@@ -165,7 +165,7 @@
 },
 {
 "surface": "āśritya",
-"quick_gloss": "resorting-to"
+"quick_gloss": "resorting"
 },
 {
 "surface": "mahāsatvaṃ",
@@ -173,7 +173,7 @@
 },
 {
 "surface": "vīrabhadraṃ",
-"quick_gloss": "virabhadra"
+"quick_gloss": "vīrabhadra"
 },
 {
 "surface": "mahodayam",
@@ -278,19 +278,19 @@
 "tokens": [
 {
 "surface": "marmabheda",
-"quick_gloss": "vital-point-piercing"
+"quick_gloss": "vital-point-breaking"
 },
 {
 "surface": "karālāpāṃ",
-"quick_gloss": "terrible"
+"quick_gloss": "terrible-jawed"
 },
 {
 "surface": "dhārmikācāra",
-"quick_gloss": "righteous-conduct"
+"quick_gloss": "dharma-conduct"
 },
 {
 "surface": "niṃdakān",
-"quick_gloss": "blamers"
+"quick_gloss": "blaming"
 }
 ]
 },
@@ -315,7 +315,7 @@
 },
 {
 "surface": "tatsaṃgāt",
-"quick_gloss": "from-his-contact"
+"quick_gloss": "by-their-contact"
 },
 {
 "surface": "aparānapi",
@@ -344,7 +344,7 @@
 },
 {
 "surface": "prārthitaḥ",
-"quick_gloss": "prayed"
+"quick_gloss": "sought"
 },
 {
 "surface": "purā",
@@ -364,11 +364,11 @@
 "quick_gloss": "supreme-brahman"
 },
 {
-"surface": "sāsvāda",
-"quick_gloss": "tasty"
+"surface": "sāsvādamayam",
+"quick_gloss": "taste-filled"
 },
 {
-"surface": "mayamānaṃdadāyakam",
+"surface": "ānandadāyakam",
 "quick_gloss": "bliss-giving"
 }
 ]
@@ -386,7 +386,7 @@
 },
 {
 "surface": "biṃdu",
-"quick_gloss": "bindu"
+"quick_gloss": "drop"
 },
 {
 "surface": "śatasāhasra",
@@ -415,7 +415,7 @@
 },
 {
 "surface": "oṣadhiḥ",
-"quick_gloss": "herbs"
+"quick_gloss": "herb"
 },
 {
 "surface": "sarvāḥ",
@@ -480,12 +480,8 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "vinuttaye",
-"quick_gloss": "for-removal"
-},
-{
-"surface": "jvarādīnāṃ",
-"quick_gloss": "of-fever-etc"
+"surface": "jvarādīnāṃ+vinuttaye",
+"quick_gloss": "for-fever-etc-removal"
 }
 ]
 },
@@ -506,7 +502,7 @@
 },
 {
 "surface": "prakvāthaghuṭikādayaḥ",
-"quick_gloss": "decoctions-pills-etc"
+"quick_gloss": "decoction-pill-etc"
 }
 ]
 },
@@ -575,11 +571,11 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "krodhaḥ",
+"surface": "krodha",
 "quick_gloss": "anger"
 },
 {
-"surface": "udveṣaḥ",
+"surface": "udveṣa",
 "quick_gloss": "aversion"
 },
 {
@@ -598,6 +594,10 @@
 {
 "surface": "nirvedaḥ",
 "quick_gloss": "disgust"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "paritrāsaḥ",
@@ -651,7 +651,7 @@
 },
 {
 "surface": "kutsā",
-"quick_gloss": "blame"
+"quick_gloss": "contempt"
 },
 {
 "surface": "śīlatvaṃ",
@@ -662,8 +662,12 @@
 "quick_gloss": "everywhere"
 },
 {
+"surface": "api",
+"quick_gloss": "api"
+},
+{
 "surface": "jugupsanam",
-"quick_gloss": "aversion"
+"quick_gloss": "disgust"
 }
 ]
 },
@@ -675,7 +679,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etāḥ",
+"surface": "etā",
 "quick_gloss": "these"
 },
 {
@@ -691,8 +695,12 @@
 "quick_gloss": "crores"
 },
 {
-"surface": "apikoṭayaḥ",
-"quick_gloss": "of-crores"
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "koṭayaḥ",
+"quick_gloss": "crores"
 }
 ]
 }
