@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-seen(all) [dṛṣṭa] all [sarvā] of-ability [kṛtitvasya] occurrence [ghaṭanaṃ] not [na] pot [ghaṭe] becomes [bhavat]
+[pada-gloss](dṛṣṭa) [pada-gloss](sarvā) [pada-gloss](kṛtitvasya) [pada-gloss](ghaṭanaṃ) [pada-gloss](na) [pada-gloss](ghaṭe) [pada-gloss](bhavat)
 
 ## mukta-m0-p58-v1427
-three-ness [tritvantu] of-practice [vyavahārasya] also [api] dependence [apekṣa] here [atra] accepted [sammatam]
+[pada-gloss](tritvantu) [pada-gloss](vyavahārasyāpyapekṣaivātra) [pada-gloss](sammatam)
 
 ## mukta-m0-p58-v1428
-ninth [navamaṃ] śiva-principle [śivatatvaṃ] but [tu] sound-born [śabdabhāvyam] here [iha] now [adhunā]
+[pada-gloss](navamaṃ) [pada-gloss](śivatatvaṃ) [pada-gloss](tu) [pada-gloss](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-sound-born-ness [śabdabhāsyatvam] abandoning [ujhitvā] by-self-witness [svādhyakṣeṇa] shines [sabhāsate]
+[pada-gloss](śabdabhāsyatvamujhitvā) [pada-gloss](svādhyakṣeṇa) [pada-gloss](sabhāsate)
 
 ## mukta-m0-p58-v1430
-own-support [svāśrayo] of-wind-one [marudekasya] indifferent [udāsīnaṃ] darkness [tamaḥ] remembered [smṛtam]
+[pada-gloss](svāśrayo) [pada-gloss](marudekasya) [pada-gloss](udāsīnaṃ) [pada-gloss](tamaḥ) [pada-gloss](smṛtam)
 
 ## mukta-m0-p58-v1431
-śiva [śivastu] all-support [sarvāśrayaḥ] would-be [syāt] there [tatra] well-distinguished [samyagvivicyate]
+[pada-gloss](śivastu) [pada-gloss](sarvāśrayaḥ) [pada-gloss](syāt) [pada-gloss](tatra) [pada-gloss](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-to-me [mahyāṃ] siddhi-form [siddhādirūpeṇa] wind-cloud-snow-nature [vāyaumeghahimātmatā]
+[pada-gloss](mahyāṃ) [pada-gloss](siddhādirūpeṇa) [pada-gloss](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-sound-this-water-air [śabdemaṃghījalamarut] support [saṃśrayaḥ] said [kathitaḥ] dear [priye]
+[pada-gloss](śabdemaṃghījalamarut) [pada-gloss](saṃśrayaḥ) [pada-gloss](kathitaḥ) [pada-gloss](priye)
 
 ## mukta-m0-p58-v1434
-aggregate [saṃghātaśca] of-earth-etc [pṛthivyādeḥ] as-body [śarīratvena] proclaimed [kīrtyate]
+[pada-gloss](saṃghātaśca) [pada-gloss](pṛthivyādeḥ) [pada-gloss](śarīratvena) [pada-gloss](kīrtyate)
 
 ## mukta-m0-p58-v1435
-by-life-force [prāṇena] moving [ceṣṭamānaṃ] that [yat] sentient [sacit] here [kam] said [ucyate]
+[pada-gloss](prāṇena) [pada-gloss](ceṣṭamānaṃ) [pada-gloss](yat) [pada-gloss](tat) [pada-gloss](sacit) [pada-gloss](kamihocyate)
 
 ## mukta-m0-p58-v1436
-mind-support [manaḥsaṃsrayaṇaṃ] living [prāṇi] sentient [sacit] body-remembered [kavapuṣismṛtam]
+[pada-gloss](manaḥsaṃsrayaṇaṃ) [pada-gloss](prāṇi) [pada-gloss](sacit) [pada-gloss](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-of-all-here-principles [sarveṣāmihatatvānāṃ] modification [vikṛtir] from-quality-difference [guṇabhedajā]
+[pada-gloss](sarveṣāmihatatvānāṃ) [pada-gloss](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-from-aggregates [saṃghātajāśca] aggregates [saṃghātā] many [bahavo] not-one-formed [onaikarūpiṇaḥ]
+[pada-gloss](saṃghātajāśca) [pada-gloss](saṃghātā) [pada-gloss](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-by-much [bahunā] what [kim] here-said [ihoktena] what-principle [kintatvair] other [aparair] inert [jaḍaiḥ]
+[pada-gloss](bahunā) [pada-gloss](kimihoktena) [pada-gloss](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-un-cuttable [acchedyo] this [yam] un-burnable [adāhoya] un-wettable [makledyo] dryable [śoṣya] indeed [eva] and [ca]
+[pada-gloss](acchedyo'yamadāhoya) [pada-gloss](makledyośoṣya) [pada-gloss](eva) [pada-gloss](ca)
 
 ## mukta-m0-p58-v1441
-of-all-world [sarvaviśvasya] begetter [janakaḥ] of-all-world [sarvaviśvasya] protector [pālakaḥ]
+[pada-gloss](sarvaviśvasya) [pada-gloss](janakaḥ) [pada-gloss](sarvaviśvasya) [pada-gloss](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-he [sa] mountain-island-ocean-forest [giridvīpajaladhikānanā] all-earth [sakalāmahī]
+[pada-gloss](sa) [pada-gloss](giridvīpajaladhikānanā) [pada-gloss](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-these [etā] visible [dṛśyastva] counted [saṃkhyātā] earth-abode-worshipped [vasudhāvāsavārcite]
+[pada-gloss](etā) [pada-gloss](dṛśyastva) [pada-gloss](saṃkhyātā) [pada-gloss](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-light-wheel [jyotiścakraṃ] all [samastaṃ] ca [ca] wind [vāyu] not [na] eva [eva] moved [pracālyate]
+[pada-gloss](jyotiścakraṃ) [pada-gloss](samastaṃ) [pada-gloss](ca) [pada-gloss](vāyu) [pada-gloss](naiva) [pada-gloss](pracālyate)
 
 ## mukta-m0-p58-v1445
-always [sadā] moves [carati] somewhere [kutrāpi] always [sadā] ca [ca] still [sthimitaḥ] somewhere [kvacit]
+[pada-gloss](sadā) [pada-gloss](carati) [pada-gloss](kutrāpi) [pada-gloss](sadā) [pada-gloss](ca) [pada-gloss](sthimitaḥ) [pada-gloss](kvacit)
 
 ## mukta-m0-p58-v1446
-when [yadā] flows [pravahati] quickly [kṣipraṃ] with-sound [saśabdena] that [tat] impelled [udyate]
+[pada-gloss](yadā) [pada-gloss](pravahati) [pada-gloss](kṣipraṃ) [pada-gloss](saśabdena) [pada-gloss](tatodyate)
 
 ## mukta-m0-p58-v1447
-this [etat] tu [tu] principle [tattvaṃ] said [kathitam] of-his [asya] eva [eva] other [anyā] powers [vibhūtayaḥ]
+[pada-gloss](etat) [pada-gloss](tu) [pada-gloss](tattvaṃ) [pada-gloss](kathitamasyaivānyā) [pada-gloss](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-that [tat] that-scripture [tacchāstra] establishment [sthitiḥ] all [sarvā] said [kathitā] girinandinī [girinaṃdini]
+[pada-gloss](tat) [pada-gloss](tacchāstra) [pada-gloss](sthitiḥ) [pada-gloss](sarvā) [pada-gloss](kathitā) [pada-gloss](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-elsewhere [anyatra] my [mama] what [yat] kiṃcit [kiṃcit] to-be-asked [praṣṭavyaṃ] touched [spṛṣṭam] in-mind [āśaye]
+[pada-gloss](anyatra) [pada-gloss](mama) [pada-gloss](yat) [pada-gloss](kiṃcit) [pada-gloss](praṣṭavyaṃ) [pada-gloss](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-many [aneka] creature-net [jantujālena] dense [nibiḍasya] uninterrupted [nirantaram]
+[pada-gloss](aneka) [pada-gloss](jantujālena) [pada-gloss](nibiḍasya) [pada-gloss](nirantaram)
