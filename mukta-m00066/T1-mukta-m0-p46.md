@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-vīreṇa=by-hero tāsu=in-them karttavyaḥ=to-be-done hetuḥ=cause raṃjana-hetavaḥ=causes-of-delight
+[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause-for-delight](heturaṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-ācāryamāṇaiḥ=by-teaching yaḥ=who strīṇām=of-women ananya-śaraṇam=sole-refuge manaḥ=mind
+[by-teachers](ācāryamāṇair) [of-women](yastrīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
 
 ## mukta-m0-p46-v1128
-skhalaneṣu=in-slips titikṣā=patience ca=and doṣasya=of-fault punar-īkṣaṇam=re-examination
+[in-slips](skhalaneṣu) [forbearance](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-daṇḍa-nītiḥ=policy-of-punishment na=not tu=but strīṣu=in-women prapātayitum=to-ruin arhati=should
+[policy-of-punishment](daṇḍanītir) [not](nna) [tu](tu) [in-women](strīṣu) [to-cause-fall](prapātayitu) [may](marhati)
 
 ## mukta-m0-p46-v1130
-paśya=see sāhasa-metāsām=of-those-endowed-with-boldness svarga-gate=gone-to-heaven nija-bharttari=own-husband
+[behold](paśyasāhasametāsāṃ) [in-heaven-gone](svargate) [own-husband](nijabharttari)
 
 ## mukta-m0-p46-v1131
-kheda-tāḍana-pāruṣyaiḥ=by-grief-beating-harshness muñcanti=abandon eva=indeed sva-jīvitam=own-life
+[by-grief-beating-harshness](khedatāḍanapāruṣyair) [release-indeed](muṃcantyeva) [own-life](svajīvitam)
 
 ## mukta-m0-p46-v1132
-ataḥ=therefore ca=mārdavam=gentleness tāsu=in-them prathamam=first citta-raṃjanam=delight-of-mind
+[therefore](ataścamārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-delight](cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-atyantam=extreme abhivṛddhim=growth ca=and nayet=should-lead cet=if tāsu=in-them sādhakaḥ=accomplisher
+[extreme](atyaṃtamabhivṛddhiṃ) [and](ca) [leading](nayaccettāsusādhakaḥ)
 
 ## mukta-m0-p46-v1134
-madhyamena=by-middle prakāreṇa=way darśanam=seeing pradiśet=should-show budhaḥ=wise
+[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [declared](pradiśidbudhaḥ)
 
 ## mukta-m0-p46-v1135
-raktaḥ=attached pare-bhavam=humiliation-by-others yāti=goes paribhūtaḥ=despised katham=how priye=dear
+[attached](raktaḥ) [to-other-disrespect](parebhavaṃ) [goes](yāti) [disrespected](paribhūtaḥ) [how](kathaṃ) [dear](priye)
 
 ## mukta-m0-p46-v1136
-vṛṣasyantīṣu=in-those-desiring-intercourse tāsu=in-them amba=mother na=not vai=indeed mukhyam=chief ca=and cārayet=should-make-roam
+[in-bull-like-ones](vṛṣasyaṃtīṣu) [in-them](tāsvaṃba) [not](na) [vai](vai) [main](mukhyaṃ) [and](ca) [to-make-move](cārayet)
 
 ## mukta-m0-p46-v1137
-grāsān=food api=also ca=and vāsāṃsi=clothes yathā=according-to śakti=ability nivedayet=should-offer
+[morsels](grāsānapi) [and](ca) [garments](vāsāṃsi) [as](yathā) [ability](śakti) [offer](nivedayet)
 
 ## mukta-m0-p46-v1138
-tasmāt=therefore vīra-jana-adhīnā=dependent-on-hero dūtikā=messenger prakṛtiḥ=nature śive=O-Śiva
+[therefore](tasmād) [hero-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
 
 ## mukta-m0-p46-v1139
-daṃpatyoḥ=of-couple ghaṭanam=union brūyat=should-say puruṣārtha-eka-kāraṇam=sole-cause-of-human-ends
+[of-couple](daṃpatyorghaṭanaṃ) [say](brūyat) [human-aim](puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-anyonya-manurāgeṇa=by-mutual-affection mahat=great saukhyam=happiness prajāyate=arises
+[mutual](anyonyamanurāgeṇa) [great-happiness](mahatsaukhyaṃ) [arises](prajāyate)
 
 ## mukta-m0-p46-v1141
-tasmāt=therefore tad-anukūlyāya=for-their-favor sva-anukūlyam=own-favor prakāśayet=should-reveal
+[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [reveal](prakāśayet)
 
 ## mukta-m0-p46-v1142
-āliṅgana-chalena=by-embrace-pretext eva=indeed sukham=pleasure saṃvāhanam=massage caret=should-do
+[by-embrace-pretext](āliṃganacchalenaiva) [happiness](sukhaṃ) [massage](saṃvāhanaṃ) [do](caret)
 
 ## mukta-m0-p46-v1143
-ādāya=taking alimpet=should-anoint caraṇe=feet dūtyāḥ=of-messenger sā=she na=not anya-gā=going-to-another bhavet=should-be
+[anoint-feet](ādāyalimpeccaraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-gone](nānyagābhavet)
 
 ## mukta-m0-p46-v1144
-jugupsamānaḥ=disgusted na=not bhavet=should-be vairāgyam=detachment tena=by-that jāyate=arises
+[disgusted](jugupsamāno) [not](na) [become](bhaved) [dispassion](vairāgyaṃ) [thereby](tena) [arises](jāyate)
 
 ## mukta-m0-p46-v1145
-sati-lokeṣu=in-worlds-of-truth saṃcāram=movement utsavam=festival ca=and pade-pade=at-every-step
+[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [and](ca) [step-by-step](pade pade)
 
 ## mukta-m0-p46-v1146
-vividaiḥ=various sarasaiḥ=juicy pakvaiḥ=ripe phalaiḥ=fruits puṣpaiḥ=flowers sugaṃdhibhiḥ=fragrant
+[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-udvarttanaiḥ=with-unctions ca=and tāmbūlaiḥ=betel aṃjanaiḥ=collyrium mukha-vāsitaiḥ=mouth-perfumes
+[with-unctions](udvarttanaiścatāṃbūlairaṃjanairmukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-raṃjayet=should-delight ramaṇīm=woman dhīmān=wise-man bhogaiḥ=with-enjoyments dīptaiḥ=bright ca=and pārvati=O-Pārvatī
+[delight](raṃjayedramaṇīṃ) [wise](dhīmānbhogairdīptaiśca) [pārvati](pārvati)
 
 ## mukta-m0-p46-v1149
-tāvat=so-long adhi-ramanā=excessive-pleasure eva=indeed bhoga-bhedāḥ=varieties-of-enjoyment tu=but pācaret=should-avoid
+[so-long](tāvaddhiramanā) [indeed](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [pācaret](pācaret)
 
 ## mukta-m0-p46-v1150
-ślāghayā=by-praise jāyate=arises tat=that ca=and sa-darpāḥ=with-pride aviphalāḥ=not-fruitless striyaḥ=women
+[by-praise](ślāghayājāyate) [that](tacca) [proud-unfruitful-women](sadarpāviphalāstriyaḥ)
