@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga-śakti](anaṃgaśaktayo) [aṣṭau](aṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
+[love](anaṃga)+[powers](śaktayaḥ) [eight](aṣṭau) [indeed](tu) [worshippable](pūjanīyāḥ) [by-wise](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madanāturayā](madanāturayā) [saha](saha)
+[love](anaṃga)+[madana](madana)+[love](anaṃga) [madana](madana)+[afflicted](āturayā) [with](saha)
 
 ## mukta-m0-p18-v428
-[anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+[love](anaṃga)+[garlanded](mālinī) [also](ca) [eight](aṣṭau) [worshippable](pūjanīyāḥ) [duly](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[ānanda-cakra](ānaṃdacakram) [ānanda](ānaṃda) [kolāhala-vivarddhana](kolāhalavivarddhanam)
+[bliss](ānanda)+[wheel](cakra) [bliss](ānanda) [uproar](kolāhala) [increasing](vivarddhanam)
 
 ## mukta-m0-p18-v430
-[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjaraiḥ](samullāsapiṃjaraiḥ) [kāma-raśmibhiḥ](kāmaraśmibhiḥ)
+[lightning](taṭit)+[radiance](prabhā) [shining](samullāsa) [yellow](piṃjaraiḥ) [love-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[anaṃga-śakti](anaṃgaśakti) [saṃkṣobhāṃ](saṃkṣobhāṃ) [nāḍībhyaḥ](nāḍībhyo) [galitaṃ](galitaṃ) [navam](navam)
+[love](anaṃga)+[power](śakti) [agitation](saṃkṣobhām) [from-channels](nāḍībhyaḥ)+[flowing](galitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-[śṛṃgāra-vāhinī](śṛṃgāravāhinī) [pūra](pūra) [pūrṇa-rāgāṃ](pūrṇarāgāṃ) [ku-rāruṇam](kurāruṇam)
+[erotic](śṛṃgāra)+[carrying](vāhinī)+[flood](pūra) [full](pūrṇa)+[passion](rāgām) [reddish](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[manmatha-drava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭam](juṣṭam) [artha-prabhedanaiḥ](arthaprabhedanaiḥ)
+[love](manmatha)+[fluid](drava) [abundance](saṃdoha) [endowed](juṣṭam) [meaning](artha)+[distinctions](prabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[kā](keyaṃ) [iyaṃ](iyaṃ) [caṃdrakalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+[who](keyaṃ) [moon](caṃdra)+[digit](kalā) [named](nāma) [where](kutra) [stands](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[śṛṇu](śṛṇu) [kāma-kalā](kāmakalā) [nāma](nāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
+[hear](śṛṇu) [love](kāma)+[digit](kalā) [named](nāma) [channel](nāḍī)+[enjoyment](bhoga) [water](ambu)+[carrying](vāhinī)
 
 ## mukta-m0-p18-v436
-[nāḍī-cakraṃ](nāḍīcakraṃ) [samastaṃ](samastaṃ) [ca](ca) [tayā](tayā) [vyāptaṃ](vyāptaṃ) [varānane](varānane)
+[channel](nāḍī)+[wheel](cakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [fair-faced](varānane)
 
 ## mukta-m0-p18-v437
-[kāścit](kāścid) [ānanda-vāhinya](ānaṃdavāhinya) [eka](eka) [eva](eva) [mala-vāhinī](malavāhinī)
+[some](kāścid) [bliss](ānanda)+[carrying](vāhinya) [one](eka) [thus](evam) [impurity](malavāhinī)
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭau) [bhoga-ambu-vāhinyaḥ](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
+[eight](aṣṭau) [enjoyment](bhoga)+[water](ambu)+[carrying](vāhinyaḥ) [among-them](tāsu) [moon](caṃdra)+[digit](kalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-[caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
+[moon](caṃdra)+[streak](rekhā) [moon](caṃdra)+[possessing](vatī) [thus](tathā) [moon](caṃdra)+[great](mahodayā)
 
 ## mukta-m0-p18-v440
-[etāḥ](etā) [bhoga-ambu-vāhinya](bhogāṃbuvāhinya) [svāṃśaiḥ](svāṃśaiḥ) [caṃdrakalā-āśritāḥ](caṃdrakalāśritāḥ)
+[these](etāḥ) [enjoyment](bhoga)+[water](ambu)+[carrying](vāhinyaḥ) [own](sva)+[parts](aṃśaiḥ) [moon](caṃdra)+[digit](kalā)+[resorting](śritāḥ)
 
 ## mukta-m0-p18-v441
-[pradhāna-bhūtā](pradhānabhūtā) [vilasad-vidyut-dāma](vilasadvidyuddāma) [sama-prabhā](samaprabhā)
+[principal](pradhāna)+[being](bhūtā) [shining](vilasad) [lightning](vidyut)+[garland](dāma) [equal](sama)+[radiance](prabhā)
 
 ## mukta-m0-p18-v442
-[sarva-nāḍī-mūla-bhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhi-cakraṃ](nābhicakraṃ) [samāśritā](samāśritā)
+[all](sarva)+[channels](nāḍī)+[root](mūla)+[being](bhūtaṃ) [navel](nābhi)+[wheel](cakraṃ) [resorting](samāśritā)
 
 ## mukta-m0-p18-v443
-[tat-mukha-udghāṭanaṃ](tanmukhotghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
+[that](tan) [mouth](mukha)+[opening](udghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-[dvi-trāṇām](dvitrāṇām) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](atha) [kauliṣu](kauliṣu)
+[of-two-three](dvitrāṇām) [only](eva) [is-born](jāyeta) [among-thousands](sahasreṣu) [then](atha) [kaulika](kauliṣu)
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛt) [vā](vā) [api](api) [iha](iha) [janmani](janmani)
+[whose](yasya) [liṅga](liṃga)+[lord](īśvara)+[union](āseka) [once](sakṛt) [or](vā) [birth](janmani)
 
 ## mukta-m0-p18-v446
-[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nada-viyasī](nadaviyasī)
+[ineffable](anirvācyasya) [liberation](nirvāṇa) [path](padavī) [not](na) [vast](daviyasī)
 
 ## mukta-m0-p18-v447
-[samayasya](samayasya) [parijñānāt](parijñānāt) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
+[of-convention](samayasya) [knowledge](parijñānāt) [worship](upacārasya) [conception](kalpanāt)
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid](kvacid) [unmeṣaṃ](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
+[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth](mukha)+[opening](udghāṭana)+[mark](lakṣaṇam)
 
 ## mukta-m0-p18-v449
-[tad-arthāni](tadarthānyeva) [eva](eva) [śāstrāṇi](śāstrāṇi) [tad-arthāḥ](tadarthāśca) [ca](ca) [pravṛttayaḥ](pravṛttayaḥ)
+[for-that](tadartha) [only](eva) [scriptures](śāstrāṇi) [for-that](tadartha) [also](ca) [activities](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[tasmāt](tasmāt) [caṃdrakalā-nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
+[therefore](tasmāt) [moon](caṃdra)+[digit](kalā)+[channel](nāḍyām) [enjoyment](bhoga)+[nectar](amṛta)+[great](mahā)+[ocean](udadhim)
