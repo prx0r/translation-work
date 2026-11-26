@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-unbroken-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
+scent flower and incense-etc with-unbroken-rice and sacred-thread
 
 ## mukta-m0-p123-v3052
-[auspicious-one](śivaṃ) [should-offer](nivedayen) [on-head](mūrdhni) [by-exhalation](recakena) [made-nectar](āmṛtīkṛtam)
+Shiva offer on-head by-exhalation nectar-made
 
 ## mukta-m0-p123-v3053
-[in-morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [should-do](kuryāt) [according-to-wealth](svavittataḥ)
+morning bathed pure clean worship do according-to-wealth
 
 ## mukta-m0-p123-v3054
-[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-intervals](jalāntaraiḥ) [sprinkling](virukṣaṇam)
+five sweet-baths water-intervals drying
 
 ## mukta-m0-p123-v3055
-[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [should-worship](prapūjayet)
+eight-limbed argha offering then anointing worship-well
 
 ## mukta-m0-p123-v3056
-[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [dwelling](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
+with-cloths covered house pot-flywhisk-ornaments
 
 ## mukta-m0-p123-v3057
-[with-banana-mango-garlands](kadalīcūtamālābhiḥ) [born-seed-delightful](jātabījasarocakaiḥ)
+banana-mango-garlands with-born-seed-ornaments
 
 ## mukta-m0-p123-v3058
-[with-dance-song](nṛtyagītaiḥ) [gentle](kalaiḥ) [with-instruments](vādyaiḥ) [should-spend-night](nayed) [great-festivals](mahotsavaiḥ)
+with-dance-song arts instruments lead-night great-festivals
 
 ## mukta-m0-p123-v3059
-[with-devotion](bhaktyā) [should-please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
+with-devotion satisfy all cloth-gift-etc-food
 
 ## mukta-m0-p123-v3060
-[freed-from-all-sins](sarvapāpavinirmuktaḥ) [in-rudra-world](rudraloke) [is-honored](mahīyate)
+all-sin-freed Rudra-world exalted
 
 ## mukta-m0-p123-v3061
-[false-speech-on-bed](khaṭvāśayanamithyokti) [women-travel-meat-avoider](strīyātrāmiṣavarjakaḥ)
+bed-sleeping false-speech woman-travel meat-avoider
 
 ## mukta-m0-p123-v3062
-[worship](pūjāṃ) [having-done](kṛtvā) [śiva](śivaṃ) [having-bowed](natvā) [purifier](pavitraṃ) [and](ca) [should-release](visarjayet)
+worship doing Shiva bowing sacred-thread and release
 
 ## mukta-m0-p123-v3063
-[having-done](kṛtvā) [should-cast](kṣipet) [purifiers](pavitrāṇi) [in-śiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
+doing throw sacred-threads Shiva-fire or ever-water
 
 ## mukta-m0-p123-v3064
-[becomes](syāt) [expiation-descending](prāyaścittyadhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [million-times](koṭiśaḥ)
+becomes penance-descending done Rudra year crores
 
 ## mukta-m0-p123-v3065
-[copper-liṅga-worship-sun](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
+copper-linga-worship sun piśāca bamboo-born
 
 ## mukta-m0-p123-v3066
-[lead-born](sīsajā) [yakṣas](dguhyakāḥ) [all](sarve) [iron](lohāt) [rākṣasa-asura-ender](rakṣo'surāntakāḥ)
+lead-born yakshas all iron-rakshasa-asura-destroyers
 
 ## mukta-m0-p123-v3067
-[from-ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [from-sapphire](indranīlāt) [worship](arcana) [hari](hariḥ)
+ruby from-fire and sapphire-worship Vishnu
 
 ## mukta-m0-p123-v3068
-[from-coral](vaidrumāt) [worship](arcana) [serpents](nāgāḥ) [venus](śukraḥ) [from-cat's-eye](kārketanāt) [always](sadā)
+coral-mouth-worship nagas Venus crystal always
 
 ## mukta-m0-p123-v3069
-[paulastya](paulastyo) [from-jīva-species](jīvajātibhyaḥ) [eight](aṣṭai) [from-ṭṭibha](ṭṭibhāt) [siddhas-kinnaras](siddhakinnarāḥ)
+Paulastya Jupiter-born eight siddha-kinnaras
 
 ## mukta-m0-p123-v3070
-[aśvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvāḥ) [from-wife-birth](dārasambhavāt)
+Ashvins baked-clay-born gandharvas wife-born
 
 ## mukta-m0-p123-v3071
-[from-tortoise-kuśi](kūrmakauśi) [from-kasi](kasi) [from-birth](kasabhūtāt) [vāsuki-nayināyaka](vāsukinayināyakaḥ)
+tortoise Vasuki leader
 
 ## mukta-m0-p123-v3072
-[from-liṅga-installation-worship](liṅgasaṃsthāpanārcanāt)
+linga-installation-worship
 
 ## mukta-m0-p123-v3073
-[somapāḥ](somapāḥ)
+soma-drinkers
 
 ## mukta-m0-p123-v3074
-[various-fruit-born-liṅgas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
+various-fruit-born-lingas by-rite served and
 
 ## mukta-m0-p123-v3075
-[from-sand](saikatāt) [viśvakarmā](viśvakarmā) [and](ca) [śacī-lord](śacīśo) [from-salt](lavaṇo) [born](dbhavāt)
+sand-born Vishvakarma and Indra salt-born
