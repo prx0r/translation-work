@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[pada](tat) [pada](prakāśaṃ) [pada](vinā) [pada](sidhyenna) [pada](kathañcana) [pada](kasyacit)
+[that](tat) [light](prakāśaṃ) [without](vinā) [succeeds-not](sidhyenna) [in-any-way](kathañcana) [of-anyone](kasyacit)
 
 ## mukta-m0-p12-v277
-[pada](parasyāparaniṣṭhatvānnatvaikyaṃ) [pada](cijjaḍātmanoḥ)
+[of-supreme](parasya) [inferior-firmness](aparaniṣṭhatvāt) [not-unity](natvaikyaṃ) [of-conscious-and-inert-selves](cijjaḍātmanoḥ)
 
 ## mukta-m0-p12-v278
-[pada](svollekharekhāsaṃsthānaṃ) [pada](tat) [pada](svatantraṃ) [pada](cidātmakam)
+[self-drawn-line-configuration](svollekharekhāsaṃsthānaṃ) [that](tat) [independent](svatantraṃ) [consciousness-natured](cidātmakam)
 
 ## mukta-m0-p12-v279
-[pada](indriyadvārataḥ) [pada](paścād) [pada](bhāvābhāsaḥ) [pada](pravartate)
+[through-sense-doors](indriyadvārataḥ) [afterward](paścād) [appearance-of-being](bhāvābhāsaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p12-v280
-[pada](tadatra) [pada](yāvad) [pada](guruṇā) [pada](viśvasyodayasaṃsthitiḥ)
+[that](tad) [here](atra) [as-long-as](yāvad) [by-guru](guruṇā) [of-universe-rising-and-establishment](viśvasyodayasaṃsthitiḥ)
 
 ## mukta-m0-p12-v281
-[pada](ataḥ) [pada](sarvatra) [pada](cakrāṇāṃ) [pada](svarūpapratipādanam)
+[therefore](ataḥ) [everywhere](sarvatra) [of-wheels](cakrāṇāṃ) [own-nature-demonstration](svarūpapratipādanam)
 
 ## mukta-m0-p12-v282
-[pada](āraghaṭṭaghaṭīyantranyāyenaitāvataḥ) [pada](sadā)
+[by-waterwheel-pot-wheel-analogy](āraghaṭṭaghaṭīyantranyāyena) [to-this-extent](aitāvataḥ) [always](sadā)
 
 ## mukta-m0-p12-v283
-[pada](ane(ka)kramayogenāpyākṣipte) [pada](ane) [pada](-) [pada](-te) [pada](*) [pada](*) [pada](gocaram)
+[by-one-sequence-yoga](ane(ka)kramayogenāpyākṣipte) [range](gocaram)
 
 ## mukta-m0-p12-v284
-[pada](śūnyādārabhya) [pada](dehāntaṃ) [pada](saṅkocātmā) [pada](hi) [pada](yo'grataḥ)
+[from-void](śūnyād) [beginning](ārabhya) [to-body-end](dehāntaṃ) [contraction-natured](saṅkocātmā) [indeed](hi) [who-foremost](yo'grataḥ)
 
 ## mukta-m0-p12-v285
-[pada](tadatra) [pada](yāvat) [pada](saṃsārastattadrūpatayā) [pada](sthitaḥ)
+[that](tad) [here](atra) [as-long-as](yāvat) [samsara](saṃsāraḥ) [in-that-form](tattadrūpatayā) [abides](sthitaḥ)
 
 ## mukta-m0-p12-v286
-[pada](na) [pada](bhāvatyāgato) [pada](muktirnāpi) [pada](bhāvopabhogataḥ)
+[not](na) [by-abandoning-being](bhāvatyāgataḥ) [liberation](muktir) [nor](nāpi) [by-enjoyment-of-being](bhāvopabhogataḥ)
 
 ## mukta-m0-p12-v287
-[pada](anāgrahādāgrahādvā) [pada](kasyacinnāpi) [pada](tāttvikī)
+[from-non-attachment](anāgrahāt) [or-attachment](āgrahādvā) [of-anyone](kasyacit) [not](nāpi) [real](tāttvikī)
 
 ## mukta-m0-p12-v288
-[pada](yadapekṣāvaśāt) [pada](sarvāḥ) [pada](saṃsāronyā(?)) [pada](vimuktayaḥ)
+[by-dependence-control](yadapekṣāvaśāt) [all](sarvāḥ) [samsara-other](saṃsāronyā(?)) [liberations](vimuktayaḥ)
 
 ## mukta-m0-p12-v289
-[pada](saṅkocadalanābhyāsād) [pada](vāsanālayabhūmigam)
+[by-practice-of-crushing-contraction](saṅkocadalanābhyāsāt) [to-impression-abode-ground-going](vāsanālayabhūmigam)
 
 ## mukta-m0-p12-v290
-[pada](vṛndakramasya) [pada](saṃsthānaṃ) [pada](kathyate) [pada](gurvanugrahāt)
+[of-group-sequence](vṛndakramasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [by-guru-grace](gurvanugrahāt)
 
 ## mukta-m0-p12-v291
-[pada](viśvasya) [pada](bhāvaḥ) [pada](sahasā) [pada](svasvarūpe) [pada](vicīyate)
+[of-universe](viśvasya) [being](bhāvaḥ) [suddenly](sahasā) [in-own-nature](svasvarūpe) [discerned](vicīyate)
 
 ## mukta-m0-p12-v292
-[pada](sadṛśāḥ) [pada](pratipādyante) [pada](cārvākādvayavādibhiḥ)
+[similar](sadṛśāḥ) [are-explained](pratipādyante) [by-materialists-and-nondualists](cārvākādvayavādibhiḥ)
 
 ## mukta-m0-p12-v293
-[pada](tairjaḍā) [pada](vipralamyante) [pada](sadṛśairabhidhāyakaiḥ) [pada](-sāyataiḥ)
+[by-them](taiḥ) [inert](jaḍāḥ) [are-deceived](vipralamyante) [by-similar-expressers](sadṛśairabhidhāyakaiḥ)
 
 ## mukta-m0-p12-v294
-[pada](mahānayopadeśena) [pada](pātyete) [pada](svaparāvadhaḥ)
+[by-great-system-teaching](mahānayopadeśena) [are-thrown](pātyete) [self-and-other-destruction](svaparāvadhaḥ)
 
 ## mukta-m0-p12-v295
-[pada](sthitaḥ) [pada](saṅkocasaṃskāraḥ) [pada](kā) [pada](kathānyeṣu) [pada](jantuṣu)
+[established](sthitaḥ) [contraction-impression](saṅkocasaṃskāraḥ) [what](kā) [talk](kathā) [in-other-beings](anyeṣu jantuṣu)
 
 ## mukta-m0-p12-v296
-[pada](sarvāgrahagrāhavaśājjīvanmuktiḥ) [pada](prakāśate)
+[by-control-of-all-attachments](sarvāgrahagrāhavaśāt) [living-liberation](jīvanmuktiḥ) [shines](prakāśate)
 
 ## mukta-m0-p12-v297
-[pada](avikalpavikalpātmasthairyarūpatayā) [pada](punaḥ)
+[by-nondual-and-dual-nature-stability-form](avikalpavikalpātmasthairyarūpatayā) [again](punaḥ)
 
 ## mukta-m0-p12-v298
-[pada](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ) [pada](-jahitaḥ)
+[various-attachment-knot-impression-piercing-augmented](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ)
 
 ## mukta-m0-p12-v299
-[pada](ataḥ) [pada](saṃhārarūpo'yaṃ) [pada](*) [pada](*) [pada](*) [pada](*) [pada](vinā) [pada](katham)
+[therefore](ataḥ) [dissolution-form](saṃhārarūpo) [this]('yaṃ) [without](vinā) [how](katham)
 
 ## mukta-m0-p12-v300
-[pada](tasmāt) [pada](svarūpadārḍhyena) [pada](sarvāvaraṇabhedinā)
+[therefore](tasmāt) [by-own-nature-firmness](svarūpadārḍhyena) [all-covering-breaking](sarvāvaraṇabhedinā)
