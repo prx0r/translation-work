@@ -1,4 +1,4 @@
 # mukta-m00402 mukta-m0-p18
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-I don't have access to the source text for `mukta-m00402 mukta-m0-p18`, so I can't produce byte-exact pada-glosses or identify the verse numbers/surfaces. Please provide the verse text (or the relevant excerpt) and I'll gloss each labeled verse separately in the requested format.
+I don't have the source verses for `mukta-m00402 mukta-m0-p18`. Please paste the labeled verses (with their verse numbers and exact surfaces) and I'll produce the T1 pada-gloss blocks.
