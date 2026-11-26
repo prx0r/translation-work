@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[sometimes](kvacit)+[particle](kaṇaṃ)+[by-entry](praveśena) [marking](lāñchayitvā)+[sword-cutting](asiśātanam)
+[kvacit](kvacit) [kaṇa](kaṇaṃ) [praveśena](praveśena) [lāñchayitvā](lāñchayitvā) [asi](asi) [śātanam](śātanam)
 
 ## mukta-m0-p26-v627
-[therein](tanmadhye) [thread-confusion](sūtrasambhrānte) [rudra](rudro) [becomes](bhavati) [round](vartulaḥ)
+[tanmadhye](tanmadhye) [sūtra](sūtra) [sambhrānte](sambhrānte) [rudraḥ](rudraḥ) [bhavati](bhavati) [vartulaḥ](vartulaḥ)
 
 ## mukta-m0-p26-v628
-[throws](kṣipedvā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand](hastād) [one-finger](ekāṅgulaṃ) [gradually](kramāt)
+[kṣipet](kṣiped) [vā](vā) [śūnya](śūnya) [doṣa](doṣa) [ghnam](ghnaṃ) [hastāt](hastāt) [eka](eka) [aṅgulam](aṅgulaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p26-v629
-[sixteenth-part](ṣoḍaśāṃśa) [throws](kṣiped) [first](ādye) [veda-part](vedāṃśam) [god-worshipped](amarorcite)
+[ṣoḍaśa](ṣoḍaśa) [aṃśa](aṃśa) [kṣipet](kṣiped) [ādye](ādye) [veda](veda) [aṃśam](aṃśam) [amara](amara) [arcite](arcite)
 
 ## mukta-m0-p26-v630
-[of-piṅgalā](piṅgalāyā) [opinion](mate) [declared](proktam) [first-god-worshipped](ādyāmarārcitena) [but](tu)
+[piṅgalāyāḥ](piṅgalāyā) [mate](mate) [proktam](proktam) [ādya](ādya) [amara](amara) [arcitena](arcitena) [tu](tu)
 
 ## mukta-m0-p26-v631
-[become](bhaveyur) [increasing](vardhamānāni) [earth-two-six](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
+[bhaveyuḥ](bhaveyur) [vardhamānāni](vardhamānāni) [vasu](vasu) [dviṣaṭ](dviṣaṭ) [śatāni](śatāni) [ca](ca)
 
 ## mukta-m0-p26-v632
-[viśvakarma-opinion](viśvakarmamataṃ) [seeing](dṛṣṭvā) [should-speak](vaktavyaṃ) [pedestal-turning](pīṭhavartanam)
+[viśvakarma](viśvakarma) [mate](mate) [dṛṣṭvā](dṛṣṭvā) [vaktavyam](vaktavyaṃ) [pīṭha](pīṭha) [vartanam](vartanam)
 
 ## mukta-m0-p26-v633
-[that](tacca) [equal-linga](samasamaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [beneficial](hitam)
+[tat](tac) [ca](ca) [sama](sama) [samam](samam) [liṅgam](liṅgaṃ) [prāsāde](prāsāde) [vā](vā) [gṛhe](gṛhe) [hitam](hitam)
 
 ## mukta-m0-p26-v634
-[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasra) [grandfather](pitāmahaḥ)
+[dvau](dvau) [pādau](pādau) [jānu](jānu) [paryantam](paryantaṃ) [caturasra](caturasra) [pitāmahaḥ](pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-[up-to-head](āmūrdhaṃ) [from-navel-upward](nābhitaścordhvaṃ) [round-portion](vṛttabhāge) [hara](haraḥ) [himself](svayam)
+[ā](ā) [mūrdham](mūrdhaṃ) [nābhi](nābhi) [taśca](taśca) [ūrdhvam](ūrdhvaṃ) [vṛtta](vṛtta) [bhāge](bhāge) [haraḥ](haraḥ) [svayam](svayam)
 
 ## mukta-m0-p26-v636
-[fivefold](pañcadhā) [manifest-lingas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
+[pañcadhā](pañcadhā) [avyakta](avyakta) [liṅgāni](liṅgāni) [sama](sama) [pīṭhāni](pīṭhāni) [tāni](tāni) [ca](ca)
 
 ## mukta-m0-p26-v637
-[five-linga-arrangement](pañcaliṅgavyavastheyaṃ) [head-turning](śirovartiny) [then](atha) [is-said](ucyate)
+[pañca](pañca) [liṅga](liṅga) [vyavastheyam](vyavastheyam) [śiro](śiro) [vartini](vartini) [atha](atha) [ucyate](ucyate)
 
 ## mukta-m0-p26-v638
-[one-by-one](ekaikasya) [four-varieties](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phala) [would-say](vadet)
+[ekaikasya](ekaikasya) [catur](catur) [bhedaiḥ](bhedaiḥ) [kāmya](kāmya) [rūpāt](rūpāt) [phala](phala) [vadet](vadet)
 
 ## mukta-m0-p26-v639
-[long-reign-giving](cirarājyaprada) [known](khyātaṃ) [umbrella-varieties](chatrabhedāḥ) [fourfold](caturvidhāḥ)
+[cira](cira) [rājya](rājya) [prada](prada) [khyātam](khyātaṃ) [chatra](chatra) [bhedāḥ](bhedāḥ) [caturvidhāḥ](caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-[measure-giving](mānada) [wing](pakṣa) [by-loss](lopācca) [extensive](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
+[mānada](mānada) [pakṣa](pakṣa) [lopāt](lopāt) [ca](ca) [vipulam](vipulaṃ) [khyāti](khyāti) [dam](dam) [bhavet](bhavet)
 
 ## mukta-m0-p26-v641
-[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtur) [dakṣa-egg](dakṣāṇḍaṃ) [fourfold](caturvidham)
+[śrīvāsam](śrīvāsaṃ) [putradaṃ](putradaṃ) [kuru](kuru) [t](t) [dakṣāṇḍaṃ](dakṣāṇḍaṃ) [syāt](syāt) [caturvidham](caturvidham)
 
 ## mukta-m0-p26-v642
-[nourishing](puṣṭidaṃ) [by-two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-causing](mahāhlādakarasadā)
+[puṣṭidaṃ](puṣṭidaṃ) [dvi](dvi) [kṣayāt](kṣayāt) [pūrṇaṃ](pūrṇaṃ) [mahā](mahā) [hlāda](hlāda) [kara](kara) [sadā](sadā)
 
 ## mukta-m0-p26-v643
-[weapon](āyudaṃ) [kumuda](kumudaṃ) [known](jñeyaṃ) [candra](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
+[āyudam](āyudaṃ) [kumudam](kumudaṃ) [jñeyaṃ](jñeyaṃ) [candaṃ](candaṃ) [caturvidhaṃ](caturvidhaṃ) [matam](matam)
 
 ## mukta-m0-p26-v644
-[all-desires-giving](sarvakāmapradaṃ) [declared](proktaṃ) [destruction](vināśaṃ) [by-two-decay](dvikṣayāc) [for-prosperity](chriye)
+[sarva](sarva) [kāma](kāma) [pradaṃ](pradaṃ) [proktaṃ](proktaṃ) [vināśaṃ](vināśaṃ) [dvi](dvi) [kṣayāt](kṣayāt) [śriye](śriye)
 
 ## mukta-m0-p26-v645
-[ballabha-giving](ballabhatvaprada) [that](tacca) [fourfold](caturdhā) [tin](trapuṣaṃ) [becomes](bhavet)
+[ballabha](ballabha) [tva](tva) [prada](prada) [tat](tat) [ca](ca) [caturdhā](caturdhā) [trapuṣaṃ](trapuṣaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p26-v646
-[should-do](kuryād) [for-brāhmaṇa-etc-work](viprādikāryārtham) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
+[kuryāt](kuryāt) [vipra](vipra) [ādi](ādi) [kārya](kārya) [artham](artham) [ekaṃ](ekaṃ) [vā](vā) [kukkuṭa](kukkuṭa) [aṇḍakam](aṇḍakam)
 
 ## mukta-m0-p26-v647
-[long-life](dīrghāyuṣṭvam) [then](atha) [moon](cendoḥ) [from-kṛkavāk-egg](kṛkavākvaṇḍataḥ) [wisdoms](prajñāḥ)
+[dīrgha](dīrgha) [āyuṣṭvam](āyuṣṭvam) [atha](atha) [candra](candra) [kṛkavāku](kṛkavāku) [aṇḍataḥ](aṇḍataḥ) [prajñāḥ](prajñāḥ)
 
 ## mukta-m0-p26-v648
-[twenty-jina-tigers](jinaviṃśatiśārdūlair) [first](ādye) [brahma-etc-enclosure](brahmādiveṣṭanam)
+[jina](jina) [viṃśati](viṃśati) [śārdūlaiḥ](śārdūlaiḥ) [ādye](ādye) [brahma](brahma) [ādi](ādi) [veṣṭanam](veṣṭanam)
 
 ## mukta-m0-p26-v649
-[by-variation](vikāreṇa) [by-desire](smareṇa) [part-third-part](aṃśatṛtīyāṃśayutena) [and](ca)
+[vikāreṇa](vikāreṇa) [smareṇa](smareṇa) [aṃśa](aṃśa) [tṛtīya](tṛtīya) [aṃśa](aṃśa) [yutena](yutena) [ca](ca)
 
 ## mukta-m0-p26-v650
-[part-third-part](bhāgatṛtīyabhāgena) [nail-moon-included](nakhacandrānvitena) [and](ca)
+[bhāga](bhāga) [tṛtīya](tṛtīya) [bhāgena](bhāgena) [nakha](nakha) [candra](candra) [anvitena](anvitena) [ca](ca)
