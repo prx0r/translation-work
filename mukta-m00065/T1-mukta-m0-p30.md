@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani+anamika+parva](tarjanyanāmikāparva) [sa+pada+yava+varjita](sapādayavavarjitam)
+[tarjani+anamika+parva](tarjanyanāmikāparva) [sapada+yava+varjitam](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
 [dvi+angula](dvyaṅgulo) [angushtha+granthi](aṅguṣṭhakagranthi) [asaam](āsāṃ) [parva+ardha+ga](parvārdhagā) [nakha](nakhāḥ)
@@ -11,7 +11,7 @@
 [nasa+utsedha](nāsotsedhaḥ) [sa+vistara](savistāro) [dvi+angula](dvyaṅgulo) [dvi+puta](dvipuṭaḥ) [shubha](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[dvi+ardha](dvyardhaṃ) [yava](yavaṃ) [pute](puṭe) [sthule](sthūle) [madhye](madhye) [vasha](vaśa) [stri+bhih](stribhir) [yava](yavaḥ)
+[dvi+ardha](dvyardhaṃ) [yava](yavaṃ) [pute](puṭe) [sthule](sthūle) [madhye](madhye) [vasha](vaśa) [tribhih](stribhir) [yava](yavaḥ)
 
 ## mukta-m0-p30-v730
 [adhe](adhe) [aparo](aparo) [angulaka](aṅgulakaṃ) [tu](tu) [dvi+angule](dvyaṅgule) [cibuka+sthiti](cibukasthitiḥ)
@@ -29,31 +29,31 @@
 [ardha+angula+sama](ardhāṅgulasamā) [droni](droṇī) [sa+ardha+dvi+angula+dirghata](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[tayoh](tayora) [taramatra+ardha](taramātrārdhaṃ) [striyam](striyāṃ) [yava+ardha+vistrite](yavārdhavistṛte)
+[tayoh](tayora) [atara+matra+ardha](taramātrārdhaṃ) [striyam](striyāṃ) [yava+ardha+vistrite](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[karna](karṇau) [netra+daya+ayama](netradayāyāmau) [tad+ardha+adhi+vistara](tadardhādvistarastayoḥ)
+[karnau](karṇau) [netra+daya+ayama](netradayāyāmau) [tad+ardha+adhi+vistara](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[kala+ardha](kalārdhaṃ) [tad+ukau](tadukau) [khalvau](khalvau) [pasha](pāśau) [kuryat](kuryād) [yatha+ipsitau](yathepsitau)
+[kala+ardha](kalārdhaṃ) [tuḍhukau](tuḍhukau) [khalvau](khalvau) [pashau](pāśau) [kuryat](kuryād) [yat+hepsitau](yathepsitau)
 
 ## mukta-m0-p30-v738
 [indra+sankhya+angula](indrasaṅkhyāṅgulaṃ) [pascat](paścāt) [karnayoh](karṇayor) [antara](antaraṃ) [viduh](viduḥ)
 
 ## mukta-m0-p30-v739
-[lalata](lalāṭo) [ashta+angula+ayama](aṣṭāṅgulāyāma) [tri+angula](tryaṅgulaḥ) [shankha](śaṅkha) [ucyate](ucyate)
+[lalatah](lalāṭo) [ashta+angula+ayama](aṣṭāṅgulāyāmaḥ) [tri+angula](tryaṅgulaḥ) [shankha](śaṅkhaḥ) [ucyate](ucyate)
 
 ## mukta-m0-p30-v740
 [sapta+angulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa+angulau](sāṅgulau) [sa+yava+ucchrayau](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[hanu](hanū) [kala](kalā) [tri+dirghau](tradīrghau) [vdi+kala](vdikala) [shibuka+udgama](cibukodgamaḥ)
+[hanu](hanū) [kala+tradi+dirghau](kalātradīrghau) [vdi+kala+shah](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[skandha](skandho) [ashta+angula+vistara](aṣṭāṅgulavistāra) [tad+ayama](tadāyāma) [catuh+kala](catuṣkalā)
+[skandha](skandho) [ashta+angula+vistara](aṣṭāṅgulavistāraḥ) [tad+ayama](tadāyāmaḥ) [catuh+kala](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[vistara](vistāraḥ) [kurpara](kūrparas) [tasmaat](tasmād) [bhuta+angulaih](bhūtāṅgulairyavaistathā)
+[vistara](vistāraḥ) [kurpara](kūrparas) [tasmaat](tasmāt) [bhuta+angulaih](bhūtāṅgulaiḥ) [yavaih](yavaistathā)
 
 ## mukta-m0-p30-v744
 [catur+angula+vistaro](caturaṅgulavistāro) [manibandha](maṇibandhaḥ) [prakirtita](prakīrtitaḥ)
@@ -65,13 +65,13 @@
 [nabhi](nābhiḥ) [pradakshina+avarta](pradakṣiṇāvartā) [nimnatah](nimnato) [ardha+angula+udita](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[hrd](hṛd) [vimshati+angula](viṃśatyaṅgulaṃ) [prokta](proktaṃ) [nabhi+desha](nābhideśaḥ) [caturdasha](caturdaśa)
+[hrid](hṛd) [vimshati+angula](viṃśatyaṅgulaṃ) [prokta](proktaṃ) [nabhi+desha](nābhideśaḥ) [caturdasha](caturdaśa)
 
 ## mukta-m0-p30-v748
-[panca+adasha+angula](pañcādaśāṅgulaṃ) [vaksho](vakṣo) [hrd+desha](hṛddeśaḥ) [panca+bhih](pañcabhir) [vina](vinā)
+[pancadasa+angula](pañcādaśāṅgulaṃ) [vaksho](vakṣo) [hrid+desha](hṛddeśaḥ) [pancabhih](pañcabhiḥ) [vina](vinā)
 
 ## mukta-m0-p30-v749
-[kati](kaṭiḥ) [samveshtanena](saṃveṣṭanenoktā) [shata+at](śatācca) [dvi+adhika+angula](dvyadhikāṅgulā)
+[kati](kaṭiḥ) [samveshtanena](saṃveṣṭanenoktā) [shata+cca](śatācca) [dvi+adhika+angula](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
 [catuh+netra+pravistara](caturnetrapravistārau) [gaja+kumbha+upamau](gajakumbhopamau) [shubhau](śubhau)
