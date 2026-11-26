@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[thus](tadvad) [vedas](vedāḥ) [bad-brahmins](kuviprasthāḥ) [of-maker](kartuḥ) [would-be](syuḥ) [inauspicious-giving](aśubhapradāḥ)
+tadvat-vedāḥ kuvipra-sthāḥ kartuḥ syuḥ aśubha-pradāḥ
 
 ## mukta-m0-p12-v277
-[these](ete) [shaivas](śaivāḥ) [are-called](samākhyātāḥ) [not](na) [but](tu) [these](ete) [brahmins](brāhmaṇāḥ) [ever](kvacit)
+ete-śaivāḥ samākhyātāḥ na-tu-ete brāhmaṇāḥ kvacit
 
 ## mukta-m0-p12-v278
-[of-purified](saṃskṛtānāṃ) [because](yatas) [their](teṣāṃ) [perish](naśyante) [former-births](pūrvajātayaḥ)
+saṃskṛtānāṃ yatas-teṣāṃ naśyante pūrva-jātayaḥ
 
 ## mukta-m0-p12-v279
-[separate](pṛthak) [mantras](mantrāḥ) [agamas](āgamāḥ) [their](eṣāṃ) [vows](vratāni) [sacrifices](kratavaḥ) [separate](pṛthak)
+pṛthak-mantra-āgama-veṣāṃ vratāni kratavaḥ pṛthak
 
 ## mukta-m0-p12-v280
-[foolish](mugdhāḥ) [do](kurvanti) [who](ye) [brahmins](viprāḥ) [shiva-installation](śivādisthāpanaṃ) [in-kali](kalau)
+mugdhāḥ kurvanti ye viprāḥ śiva-ādi-sthāpanaṃ kalau
 
 ## mukta-m0-p12-v281
-[so-too](tathaiva) [in-shiva-worships](śivayāgeṣu) [not](na) [mantras](mantrāḥ) [vedic-etc](vaidikādayaḥ)
+tathā-eva śiva-yāgeṣu na mantrāḥ vaidika-ādayaḥ
 
 ## mukta-m0-p12-v282
-[not](na) [door](dvāraṃ) [pavilion-etc](maṇḍapādi) [and](ca) [installation](sthāpanaṃ) [not](na) [in-shiva-etc](śivādike)
+na dvāraṃ maṇḍapa-ādiḥ ca sthāpanaṃ na śiva-ādike
 
 ## mukta-m0-p12-v283
-[therefore](tasmāt) [by-shaiva-mantra](śaivena+mantreṇa) [install](pratiṣṭheta) [shiva-etc](śivādikam)
+tasmāt-śaivena mantreṇa pratiṣṭheta śiva-ādikam
 
 ## mukta-m0-p12-v284
-[shiva-mantras](śivamantraiḥ) [of-those-two](tayoḥ) [properly](samyak) [shiva-ness](śivatvaṃ) [not](na) [by-other-mantra](anyamantrataḥ)
+śiva-mantraiḥ tayoḥ samyak śiva-tvaṃ na-anya-mantrataḥ
 
 ## mukta-m0-p12-v285
-[not](na) [by-other-view-mantras](anyadarśanamantraiḥ) [or](vā) [installation](pratiṣṭhā) [would-be](syāt) [of-shiva](śivasya) [but](tu)
+na-anya-darśana-mantraiḥ vā pratiṣṭhā syāt śivasya tu
 
 ## mukta-m0-p12-v286
-[not](na) [and](ca) [shaiva-rite](śaivīkriyā) [in-veda](vede) [not](na) [and](ca) [sword-etc-siddhis](khaḍgadisiddhayaḥ)
+na ca śaivī-kriyā vede na ca khaḍga-ādi-siddhayaḥ
 
 ## mukta-m0-p12-v287
-[agnishtoma-etc](agniṣṭomādayaḥ) [sacrifices](yajñāḥ) [veda-declared](vedoktāḥ) [by-ishvara](īśvareṇa) [but](tu)
+agniṣṭoma-ādayaḥ yajñāḥ veda-uktāḥ īśvareṇa tu
 
 ## mukta-m0-p12-v288
-[siddhanta-installation](siddhāntasthāpanaṃ) [initiation](dīkṣāṃ) [not](na) [said](uktam) [in-vedas](vedeṣu) [by-shambhu](śaṃbhunā)
+siddhānta-sthāpanaṃ dīkṣāṃ na-uktam vedeṣu śaṃbhunā
 
 ## mukta-m0-p12-v289
-[by-own-mantra-seed-born](svamantrabījajāḥ) [gods](devāḥ) [not](na) [from-many-syllable-pomp](bavhakṣaraḍambarāt)
+sva-mantra-bīja-jāḥ devāḥ na bahu-akṣara-ḍambarāt
 
 ## mukta-m0-p12-v290
-[not](na) [these](ete) [shiva-path-knowers](śivādhvatattvajñāḥ) [praisers](stāvakāḥ) [people-pleasing](janarañjakāḥ)
+na-ete śiva-adhva-tattva-jñāḥ stāvakāḥ jana-rañjakāḥ
 
 ## mukta-m0-p12-v291
-[by-praise-only](stutyaiva) [installation](sthāpanaṃ) [not](na) [would-be](syāt) [shiva-linga](śivaliṅge) [moving-still](calācale)
+stutyā-eva sthāpanaṃ na syāt śiva-liṅge cala-acale
 
 ## mukta-m0-p12-v292
-[by-shaiva-teachers](śaivācāryaiḥ) [but](tu) [that](sā) [should-be-done](kāryā) [rudra-brahma-arka-cakra-holders](rudrabrahmārkacakriṇām)
+śaiva-ācāryaiḥ tu sā kāryā rudra-brahma-arka-cakriṇām
 
 ## mukta-m0-p12-v293
-[yaksha-rakshasa-yoginis](yakṣarākṣasayoginyo) [troops](gaṇāḥ) [gauris](gauryaḥ) [and](tathā) [others](aparāḥ)
+yakṣa-rākṣasa-yoginyaḥ gaṇāḥ gaurīḥ tathā aparāḥ
 
 ## mukta-m0-p12-v294
-[by-self-known](svasaṃvedye) [even](api) [passion-blinded](rāgāndhāḥ) [brahmins](dvijāḥ) [ishvara-blasphemers](īśvaranindakāḥ)
+sva-saṃvedye api rāga-andhāḥ dvijāḥ īśvara-nindakāḥ
 
 ## mukta-m0-p12-v295
-[those](te) [also](api) [to-be-abandoned](tyājyāḥ) [at-installation-beginning](pratiṣṭhādau) [from-afar](dūrāt) [buddhist-brahmins-etc](bauddhadvijādayaḥ)
+te api tyājyāḥ pratiṣṭhā-ādau dūrāt bauddha-dvija-ādayaḥ
 
 ## mukta-m0-p12-v296
-[shiva-etc-installation](śivādisthāpanaṃ) [should-be-done](kāryaṃ) [not](na) [by-others](anyaiḥ) [tu](tu) [brahmins-etc](brāhmaṇādibhiḥ)
+śiva-ādi-sthāpanaṃ kāryaṃ na anyaiḥ tu brāhmaṇa-ādibhiḥ
 
 ## mukta-m0-p12-v297
-[own-duty-devoted](svakarmābhiratāḥ) [brahmins](viprāḥ) [shaiva-etc](śaivādyāḥ) [kapila-end](kāpilāntakāḥ)
+sva-karma-abhiratāḥ viprāḥ śaiva-ādyāḥ kāpila-antakāḥ
 
 ## mukta-m0-p12-v298
-[with-own-six-duties](svaṣaṭkarmānvitaḥ) [always](nityaṃ) [not](na) [other-duty](anyakarmā) [brahmin](dvijo) [would-be](bhavet)
+sva-ṣaṭ-karma-anvitaḥ nityaṃ na-anya-karmā dvijaḥ bhavet
 
 ## mukta-m0-p12-v299
-[teaching-etc](adhyāpanamiti) [would-be](syuḥ) [ca](ca) [six-duties](ṣaṭkarmāṇi) [always](sadā) [in-brahmin](dvije)
+adhyāpanam iti syuḥ ca ṣaṭ-karmāṇi sadā dvije
 
 ## mukta-m0-p12-v300
-[grass-etc-price-begging-food](tṛṇādimūlyabhikṣānnavṛttiḥ) [would-be](syāt) [brahmin](brāhmaṇaḥ) [best](varaḥ)
+tṛṇa-ādi-mūlya-bhikṣā-anna-vṛttiḥ syāt brāhmaṇaḥ varaḥ
