@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ananda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](asmin) [catvarah](catvāraḥ) [param-iritah](paramīritāḥ)
+[bliss-tantra](ānaṃdataṃtre) [also-in-this](caivāsmin) [four](catvāraḥ) [declared-supreme](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[tasmat](tasmāt) [catvarah](catvāra) [ullasah](ullāsā) [iha](iha) [proktah](proktā) [maheshvari](maheśvari)
+[therefore-four](tasmāccatvāra) [delights](ullāsā) [here](iha) [spoken](proktā) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p23-v553
-[tasmat](tasmād) [ananda-pujaya](ānaṃda+pūjāyā) [malam-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayah](trayaḥ)
+[therefore-bliss](tasmādānaṃda) [worship](pūjāyā) [garlanded](mālaṃvyaṃte) [not-three](na trayaḥ)
 
 ## mukta-m0-p23-v554
-[tatha](tathā) [tatha](tathā) [para-ananda](parānaṃda) [natha-vidyam](nāthavidyāṃ) [paramrishet](parāmṛśet)
+[thus-thus](tathā tathā) [supreme-bliss](parānaṃda) [lord-vidya](nāthavidyāṃ) [touch](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dutya](dūtyā) [samdhukshitah](saṃdhukṣita) [svatma](svātmā) [nanda-murtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
 
 ## mukta-m0-p23-v556
-[dvadasha-antagate](dvādaśāṃtagate) [rakta-shukla-pade](raktaśuklapāde) [vinikshipet](vinikṣipet)
+[twelve-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [deposit](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shiva-tva-samrajya](śivatvasāmrājya) [pada-abhisiktam](padābhiṣiktaṃ) [svam](svaṃ) [vichintayet](viciṃtayet)
+[shiva-sovereignty](śivatvasāmrājya) [foot-abhisheka](padābhiṣiktaṃ) [own-contemplate](svaṃviciṃtayet)
 
 ## mukta-m0-p23-v558
-[pashyan](paśyan) [pratyanga-mankura-danam](pratyaṃgamaṃkūradanaṃ) [gottu-gam-anasah](gottuṃgamānasaḥ)
+[seeing](paśyan) [limb-mark](pratyaṃgamaṃkūradanaṃ) [gottuṃga-mind](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[yatha](yathā) [yauvanam-ullasam](yauvanamullāsaṃ) [samprapnoti](saṃprāpnoti) [amba](aṃba) [dutika](dūtikā)
+[as](yathā) [youth-delight](yauvanamullāsaṃ) [obtains](saṃprāpnotyaṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[alokana-ratih](ālokaneratiḥ) [sakshat](sākṣāt) [smite](smite) [jagarti](jāgarti) [jahnavi](jāhnavī)
+[beholding-pleasure](ālokaneratiḥ) [direct](sākṣāt) [smile](smite) [awakens](jāgarti) [Jahnavi](jāhnavī)
 
 ## mukta-m0-p23-v561
-[ashvinau](aśvinau) [nasika-bhage](nāsikābhāge) [tu](tvoṣṭhe) [parama-amritam](paramāmṛtam)
+[Ashvins](aśvinau) [nose-region](nāsikābhāge) [lips](tvoṣṭhe) [supreme-nectar](ca paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [varuni](vāruṇī) [devi](devī) [kama-nathah](kāmanāthastvahaṃ) [kritau](kṛtau)
+[sweat](svede) [Varuni-goddess](ca vāruṇī devī) [desire-lord](kāmanāthastvahaṃ) [made](kṛtau)
 
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-girih](merugirirnniḥ) [shabdah](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+[breasts](stanadvaye) [Meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [Brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nabhi-garbhe](nābhigarbhe) [guha-ambika](guhāṃbikā)
+[three-folds](valitraye) [three-worlds](ca trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakhesu](nakheṣu) [shitam](śītāṃ) [shu](śu) [kala-dor-mule](kalādormmūleṃ) [kusha-devatah](kuśadevatāḥ)
+[nails](nakheṣu) [cool](śītāṃ) [kalas](śu kalādormmūleṃkuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [ca](ca) [eva](eva) [nishvase](niśvāse) [goda-sit-kara](godāsītkāra) [karmani](karmaṇi)
+[Kaveri](kāverī) [also](caiva) [exhalation](niśvāse) [Godasi](godāsītkāra) [action](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala-alapa-krityesu](amalālāpakṛtyeṣu) [citta-vishranti](cittaviśrāṃti) [nayakah](nāyakā)
+[pure-lala-action](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[vakptih](vākptiḥ) [sukha-humkare](sukhahuṃkāre) [gishpati-kaku-dhvau](gīṣpatīkākukādhvanau)
+[speech-lord](vākptiḥ) [pleasure-hum](sukhahuṃkāre) [Gishpati](gīṣpatīkākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indrah](iṃdraś) [citta-samunnatyam](cittasamunnatyām) [agnih](agnirvastu) [grasi-tvishi](grasītviṣi)
+[Indra](iṃdraścittasamunnatyāmagnirvastu) [grasps](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hasta-adi-calane](hastādicālane) [yajnah](yajñastvāśleṣe) [yajna-purushah](yajñapūruṣaḥ)
+[hands-motion](hastādicālane) [sacrifice](yajñastvāśleṣe) [sacrifice-purusha](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lasyam](lāsyaṃ) [ca](ca) [tandavam](tāṃḍavaṃ) [devi](devi) [tasya](tasyā) [deha-adi](dehādi) [ghurnane](ghūrṇane)
+[lasya](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [her-body-motion](tasyā dehādi ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tani](tānisarvāṇi) [sarvani](varttate) [varttate](tasyāgaṃḍūṣavastuni) [tasya](tasyāgaṃḍūṣavastuni) [gandusha-vastuni](tasyāgaṃḍūṣavastuni)
+[those-all](tānisarvāṇi) [occur](varttate) [her-gandusha-substance](tasyāgaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat-phalam](tatphalaṃ) [labhate](labhate) [duti](dūtī) [sudha-gandusha](sudhāgaṃḍūṣa) [sevanat](sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-gandusha](sudhāgaṃḍūṣa) [use](sevanāt)
 
 ## mukta-m0-p23-v574
-[gandusha-adi-ram](gaṃḍūṣamādiraṃ) [devi](devī) [virasya-ananda](vīrasyānaṃda) [varddhanam](varddhanam)
+[gandusha-first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero-bliss-increase](vīrasyānaṃda varddhanam)
 
 ## mukta-m0-p23-v575
-[nitya-klinna-sudha](nityaklinnāsudhā) [devi](devī) [rati](rati) [pritih](prītiśca) [ca](tadbhage) [tad-bhage](tadbhage)
+[ever-wet-nectar](nityaklinnāsudhā) [goddess](devī) [pleasure-love](rati prītiśca) [her-part](tadbhage)
