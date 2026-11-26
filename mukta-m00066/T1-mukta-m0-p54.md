@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter-hand-turnings](kulāla+kara+varttanaiḥ)
+then he indeed clay-lump by-potter-hand-turnings
 
 ## mukta-m0-p54-v1327
-[deep](gabhīrite) [middle-region](madhya+deśe) [there-indeed](tatra+eva) [hollowed](kuharī+kṛtaḥ)
+in-deep middle-region there-indeed hollowed
 
 ## mukta-m0-p54-v1328
-[pot](kuṃbha) [thus](iti) [of-this](asya) [word](śabdasya) [denotation](vācyatām) [enters](avagāhate)
+pot thus its word's denotation enters
 
 ## mukta-m0-p54-v1329
-[on-earth](bhūmau) [broken](viśīrṇa) [all-limbed](sarva+aṃgaḥ) [potsherd-mass](kāpāla+ogha) [you-desire](tvam+īhate)
+on-ground shattered all-limbed skull-flood you-desire
 
 ## mukta-m0-p54-v1330
-[crushed](kuṭṭitaḥ) [being](san) [breaks-apart](prabhajate) [dust-word](dhūli+śabdasya) [denotation](vācyatām)
+pounded being breaks dust-word's denotation
 
 ## mukta-m0-p54-v1331
-[broken-broken](śīrṇa+śīrṇaḥ) [again](punar) [by-force](vegāt) [limb](gātra) [dust-ness](sareṇu+tvam) [desires](icchati)
+shattered-shattered again by-speed dust-ness desires
 
 ## mukta-m0-p54-v1332
-[extremely](atyaṃta) [subtle-hard-to-perceive](sūkṣma+durlakṣā) [whirls](ghūrṇate) [wind-sphere](vāyu+maṇḍale)
+extremely subtle-hard-to-perceive whirls in-wind-orb
 
 ## mukta-m0-p54-v1333
-[mutually-word-unspeakable](anyonya+śabda+nirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
+mutually-word-unspeakable those superimpositions declared
 
 ## mukta-m0-p54-v1334
-[there-superimposed-form-ness](tatra+āropita+rūpatvam) [pot-etc](ghaṭa+ādeḥ) [making](kārayan) [wise-one](budhaḥ)
+there-superimposed-form-ness pot-etc causing wise-man
 
 ## mukta-m0-p54-v1335
-[quality-other-association](guṇa+antara+sama+saṃga) [measure-only](mātrādeva) [how](katham) [in-clay](mṛdi)
+quality-other-association measure-only how in-clay
 
 ## mukta-m0-p54-v1336
-[vain](vṛthā) [his](tasya) [superimposition](samāropam) [vain](vṛthā) [his](tasya) [again-dissolution](punar+layaḥ)
+vain his superimposition vain his again dissolution
 
 ## mukta-m0-p54-v1337
-[such](īdṛśāḥ) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [established](pratipāditāḥ)
+such indeed in-dispute causes established
 
 ## mukta-m0-p54-v1338
-[sound-natured](varṇa+ātmakāḥ) [but](tu) [which](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [one-only](eka+kaḥ)
+sound-natured but which words there eternality one-only
 
 ## mukta-m0-p54-v1339
-[therefore](ataḥ) [grown-enmity](pravṛddha+vairāṇām) [of-disputants](vādinām) [boasting](abhivalgatām)
+therefore increased-enmity disputants' boasting
 
 ## mukta-m0-p54-v1340
-[very-great-pride-blind](prabhūtataradarpāṃdhāḥ) [scholarship](pāṇḍitya) [planet](graha) [bad-intellect](durdhiyām)
+abundant-pride-blinded scholarship planet-bad-intellects
 
 ## mukta-m0-p54-v1341
-[that-search-path](tad+gaveṣaṇa+mārgeṇa) [that](tat) [equal](samāna) [concentration](samādhinā)
+that-search-path by that equal concentration
 
 ## mukta-m0-p54-v1342
-[contradictory-speech](viruddha+bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place-invention](sthāna+kalpanaiḥ)
+contradictory-speech genus refutation place-inventions
 
 ## mukta-m0-p54-v1343
-[after-anger](paścāt+kope) [being](sati) [throat-drying-cause](galocchoṣa+kāraṇa) [shouting](ghoṣaṇaiḥ)
+after-anger being throat-drying-cause shouting
 
 ## mukta-m0-p54-v1344
-[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [done](kṛte) [battle](raṇe)
+again by-that manner hair-pulling done battle
 
 ## mukta-m0-p54-v1345
-[from-foot](pādāt) [restrained-speed](saṃvṛta+vegānām) [of-disputants](vādinām) [hatred-houses](dveṣa+veśmasu)
+from-foot concealed-speed disputants' hatred-houses
 
 ## mukta-m0-p54-v1346
-[concluded](siddhāntitaiḥ) [and](ca) [own-mind](sva+manaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [and](ca) [blamed](ninditaiḥ)
+concluded-and own-mind pure others-and blamed
 
 ## mukta-m0-p54-v1347
-[confused](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣām) [path-unrestrained](panthānir+aṅkuśaḥ)
+confused making this their path uncontrolled
 
 ## mukta-m0-p54-v1348
-[proof-blind](pramāṇa+aṃdhāḥ) [sixteen](ṣoḍaśa) [ayes](āye) [categories](padārthaiḥ) [those](taiḥ) [great-Kali](mahā+kālīḥ)
+proof-blinded sixteen-there categories those great-kali
 
 ## mukta-m0-p54-v1349
-[dispute](kalahaḥ) [only](kevalam) [there](tatra) [hard-to-end-autumn-hundreds](duḥsamāpa+śara+cchataiḥ)
+dispute only there difficult-end autumn-hundreds
 
 ## mukta-m0-p54-v1350
-[arrival-form](saṃprāpti+rūpaḥ) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
+attainment-form will-be then by-left decision
