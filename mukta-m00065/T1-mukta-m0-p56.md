@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[in-winter](hemante) [knowledge-giving](jñānadaṃ) [liṅga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-giving](sarvabhūtidam)
+[in-winter](hemante) [knowledge-giving](jñānadaṃ) [linga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-giving](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-[for-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [of-liṅga-installation](liṅgasyāropaṇaṃ) [considered](matam)
+[yogis](yatīnāṃ) [all-times](sarvakāleṣu) [linga-installation](liṅgasyāropaṇaṃ) [opinion](matam)
 
 ## mukta-m0-p56-v1378
-[in-southern-ayana](dakṣiṇāyane) [not-worshipful](apūjyaṃ) [beyond-three-years](trivarṣordhvaṃ) [fear-bringing](bhayāvaham)
+[southern-ayana](dakṣiṇetvayane) [not-worship](apūjyaṃ) [beyond-three-years](trivarṣordhvaṃ) [fear-bringing](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-[for-decay](kṣayāya) [for-growth](bṛddhaye) [and-becomes](syācca) [in-southern](yāmye) [in-auspicious](saumye) [other](apare) [sun](ravau)
+[for-decay](kṣayāya) [for-growth](bṛddhaye) [and](syācca) [southern](yāmye) [gentle](saumye) [other](apare) [sun](ravau)
 
 ## mukta-m0-p56-v1380
-[six-six-months-beyond](ṣaṭṣaṇmāsottarān) [three-years](tryabdān) [by-Maya-opinion](mayamatāt) [result](phalaṃ) [in-order](kramāt)
+[six-six-months-beyond](ṣaṭṣaṇmāsottarāṃs) [three-years](tryabdān) [from-my-opinion](mayamatāt) [fruit](phalaṃ) [in-order](kramāt)
 
 ## mukta-m0-p56-v1381
-[black-magic](abhicāro) [becomes](bhavet) [there](tatra) [installed](sthāpite) [in-southern](dakṣiṇe) [ayana](ayane)
+[black-magic](abhicāro) [becomes](bhavet) [there](tatra) [installed](sthāpite) [southern](dakṣiṇe) [ayana](ayane)
 
 ## mukta-m0-p56-v1382
-[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [girl-loss](kanyānāśaḥ) [and](ca) [arises](jāyate)
+[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [girls-loss](kanyānāśaś) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p56-v1383
-[of-doer](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadāśokaḥ) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
+[doer](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadāśoko) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[auspicious-seeker](śubhārthī) [not](na) [should-act](pravarteta) [of-goddess](devyā) [mantra-etc-scripture](mantrādiśāstrataḥ)
+[auspicious-seeker](śubhārthī) [not](na) [should-proceed](pravarteta) [goddess](devyā) [mantra-etc-scripture](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[therefore-place](tasmātsthānaṃ) [guru](guruṃ) [obtaining](prāpya) [for-protection](rakṣaye) [anti-black-magic](dābhicārikam)
+[therefore](tasmāt) [place](sthānaṃ) [guru](guruṃ) [obtaining](prāpya) [for-protection](rakṣaye) [from-black-magic](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-[installation](sthāpanaṃ) [indeed](tu) [should-be-done](prakartavyaṃ) [from-cool-season](śiśirādau) [three-seasons](ṛtutraye)
+[installation](sthāpanaṃ) [but](tu) [should-be-done](prakartavyaṃ) [from-cool-season](śiśirādau) [three-seasons](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-[with-moon-star-yoga](sacandratārakāyoge) [with-good-lagna-karaṇa](sulagnakaraṇānvite)
+[with-moon-star-yoga](sacandratārakāyoge) [good-lagna-karana-endowed](sulagnakaraṇānvitate)
 
 ## mukta-m0-p56-v1388
-[in-non-dual](advaite) [and-indeed](caiva) [in-dark](kṛsṇe) [also](api) [mantra-form](mantramūrti) [by-distinction](prabhedataḥ)
+[non-dual](advaite) [and](caiva) [dark](kṛsṇe) [also](api) [mantra-form](mantramūrti) [by-difference](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-[Pañcarātra](pāñcarātrāḥ) [should-take](arharet) [mixed](miśrā) [fifty-years-duration](pañcāśadvarṣasaṃsthitiḥ)
+[pancaratra-worthy](pāñcarātrārharet) [mixed](miśrā) [fifty-years-duration](pañcāśadvarṣasaṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-[hundred-years](śātābdorvbaṃ) [indeed](tu) [that](sā) [stands](tiṣṭhet) [stone-liṅga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
+[hundred-years-or](śātābdorvbaṃ) [but](tu) [that-stands](sā tiṣṭhet) [arrow-linga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
 
 ## mukta-m0-p56-v1391
-[of-many-meanings](bahvarthatvānipātānāṃ) [in-purification-beginning](saṃskārādau) [installation](pratiṣṭhitiḥ)
+[much-meaning-fall](bahvarthatvānipātānāṃ) [purification-beginning](saṃskārādau) [installation](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-[purified](saṃskṛtā) [substance](dravyasan) [mantra-purification](mantrasaṃskṛtiḥ) [which](yā) [divine](suragya) [and](ca)
+[purified](saṃskṛtā) [substance-with-mantra-purification](dravyasanmantrasaṃskṛtiryā) [divine](suragya) [and](ca)
 
 ## mukta-m0-p56-v1393
-[image](pratimāṃ) [by-five-divisions](pañcabhedaistu) [installation](pratiṣṭhā) [fivefold](pañcadhoditā)
+[image](pratimāṃ) [five-divisions](pañcabhedaistu) [installation](pratiṣṭhā) [fivefold-declared](pañcadhoditā)
 
 ## mukta-m0-p56-v1394
-[second](dvitīyā) [life](āyu) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
+[second-life](dvitīyāyumati) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
 [tenth](daśamī) [land-gain](bhūmilābhaṃ) [and](ca) [good-fortune](saubhāgyaṃ) [and](ca) [thirteenth](trayodaśī)
 
 ## mukta-m0-p56-v1396
-[one-doer](ekartu) [Śaṅkara](śaṅkarair) [Nandā](nandā) [Bhadrā](bhadrā) [fortnight-seer-sun](pakṣarṣibhānubhiḥ)
+[one-doer](ekartu) [Shankara](śaṅkarair) [Nanda](nandā) [Bhadra](bhadrā) [fortnight-seer-sun](pakṣarṣibhānubhiḥ)
 
 ## mukta-m0-p56-v1397
 [arrow-direction-tithi](bāṇadiktithibhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīnatulyāhitāḥ) [in-order](kramāt)
 
 ## mukta-m0-p56-v1398
-[Jupiter](vṛhaspatiḥ) [two-five-life](dvipañcāyuḥ) [Budha](budyo) [victory-wealth](jayadhanāni) [and](ca)
+[Jupiter](vṛhaspatiḥ) [ten-five-years](dvipañcāyuḥ) [Mercury](budyo) [victory-wealth](jayadhanāni) [and](ca)
 
 ## mukta-m0-p56-v1399
 [Cancer](karka) [Taurus-Libra-Sagittarius](vṛṣatulācāpa) [woman-Lion-planet-pair](strīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-[six-eight-four-yāmas](ṣaḍaṣṭacaturoyāmāt) [four](catū) [zodiac-order](rāśikrameṇa) [indeed](tu)
+[six-eight-four-yama](ṣaḍaṣṭacaturoyāmāt) [four](catū) [zodiac-in-order](rāśikrameṇa) [but](tu)
