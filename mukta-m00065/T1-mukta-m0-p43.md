@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[from-veda-portion-falling](vedāṃśapātanāt) [corner](koṇa) [with-ashes](marṭāśairatha) [blanket](kambalam)
+[vedāṃśa](vedāṃśa) [pātanāt](pātanāt) [koṇa](koṇa) [marṭāśaiḥ](marṭāśaiḥ) [atha](atha) [kambalam](kambalam)
 
 ## mukta-m0-p43-v1052
-[three-portion-entry](tryaṃśapraveśanāt) [from-throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+[tryaṃśa](tryaṃśa) [praveśanāt](praveśanāt) [kaṇṭhāt](kaṇṭhāt) [ekaika](ekaika) [nirgamaṃ](nirgamaṃ) [khuram](khuram)
 
 ## mukta-m0-p43-v1053
-[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [indeed](eva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
+[ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [ca](ca) [eva](eva) [kuryāt](kuryāt) [śṛṅgāṇi](śṛṅgāṇi) [koṇataḥ](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-holder-etc](śchatradhārādibhiryutaḥ)
+[prālambya](prālambya) [āsakta](āsakta) [revanta](revanta) [chatra-dhārā-ādibhiḥ](chatradhārādibhir) [yutaḥ](yutaḥ)
 
 ## mukta-m0-p43-v1055
-[various-gems-well-adorned](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
+[nānā-ratna-su-veśa-āḍhyāḥ](nānāratnasuveśāḍhyāḥ) [caṇḍa-tejāḥ](caṇḍatejāḥ) [svabhāva-jāḥ](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[soma](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-pot-japa-garland](kuṇḍikājāpyamālinam)
+[somaṃ](somaṃ) [saumyaṃ](saumyaṃ) [tathā](tathā) [śvetaṃ](śvetaṃ) [kuṇḍikā](kuṇḍikā) [jāpya](jāpya) [mālinam](mālinam)
 
 ## mukta-m0-p43-v1057
-[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [and](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
+[budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpa-pāṇinam](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[yama-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-pot-mantra-garland](kuṇḍikāmantramālikam)
+[yāmya](yāmya) [ekākṣaṃ](ekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikā](kuṇḍikā) [mantra](mantra) [mālikam](mālikam)
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
+[vyāvṛtta-āsyaṃ](vyāvṛttāsyaṃ) [sa-hāsyaṃ](sahāsyaṃ) [ca](ca) [piṅga-bhrū-śmaśru-locanam](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-formed](naranāgārdharūpiṇam)
+[triphalaṃ](triphalaṃ) [dhūmra-varṇa-ābhaṃ](dhūmravarṇābhaṃ) [nara-nāga-ardha-rūpiṇam](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[these-all-two-armed](etāṃstu dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
+[etān](etāṃstu) [tu](tu) [dvi-bhujān](dvibhujān) [sarvān](sarvān) [bhūṣaṇa](bhūṣaṇa) [ambara](ambara) [saṃyutān](saṃyutān)
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
+[śakaṭaṃ](śakaṭaṃ) [medha](medha) [eteṣām](eteṣām) [adhaḥ](adho) [yānaṃ](yānaṃ) [kramāt](kramāt) [sadā](sadā)
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+[sitaḥ](sitaḥ) [sahasra-bhogaḥ](sahasrabhogo) [hīśvaraḥ](hīśvaraḥ) [kuvalaya](kuvalaya) [anvitaḥ](anvitaḥ)
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe](śulkarekhātrayānvitaḥ)
+[kṛṣṇaḥ](kṛṣṇaḥ) [karkoṭakaḥ](karkoṭakaḥ) [kaṇṭhe](kaṇṭhe) [śulka-rekhā-traya](śulkarekhātrayānvitaḥ) [anvitaḥ](anvitaḥ)
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇo) [mahāpadma](mahāpadmo) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
+[śaṅkha-varṇaḥ](śaṅkhavarṇo) [mahāpadmaḥ](mahāpadmo) [mastake](mastake) [kṛṣṇa-śūla-dhṛk](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
+[kulikaḥ](kuliko) [rakta-dehaḥ](raktadehastu) [tu](tu) [candrārdha](candrārdha) [kṛta](kṛta) [mastakaḥ](mastakaḥ)
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-pot-tail](kuṇḍikāpucchasaṃyutāḥ)
+[akṣa-sūtra-dharāḥ](akṣasūtradharāḥ) [sarve](sarve) [kuṇḍikā](kuṇḍikā) [puccha](puccha) [saṃyutāḥ](saṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāśca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāstadrūpā) [gem-less](maṇivarjitāḥ)
+[bhṛtyāḥ](bhṛtyāśca) [ca](ca) [eka-phaṇāḥ](ekaphaṇāḥ) [kāryāḥ](kāryāḥ) [tad-rūpāḥ](tadrūpā) [maṇi-varjitāḥ](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[with-necklace-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+[hāra](hāra) [kuṇḍala](kuṇḍala) [keyūraiḥ](keyūraiḥ) [sadā](sadā) [sarvābharaṇa](sarvābharaṇa) [bhūṣitā](bhūṣitā)
 
 ## mukta-m0-p43-v1070
-[such](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
+[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭha](śrīkaṇṭha) [manas](manas) [sambhavā](sambhavā)
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated](abjasthaḥ) [with-pot-and-rosary](kuṇḍikā cākṣasūtrabhṛt)
+[yoga-paṭṭa](yogapaṭṭa) [āvṛtaḥ](āvṛto) [abja-sthaḥ](abjasthaḥ) [kuṇḍikā](kuṇḍikā) [ca](ca) [akṣa-sūtra](akṣasūtra) [bhṛt](bhṛt)
 
 ## mukta-m0-p43-v1072
-[various-ornaments-adorned](nānālaṅkārasaṃyuktāv) [utpala-gem-bearing-hands](utpalamaṇi bhṛtkarau)
+[nānā](nānā) [alaṅkāra](alaṅkāra) [saṃyuktā](saṃyuktā) [utpala](utpala) [maṇi](maṇi) [bhṛt](bhṛt) [karau](karau)
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [on-lap](svotsaṅge) [son-bearing](putradhāriṇī)
+[su-dṛṣṭā](sudṛṣṭā) [jalpa-mānā](jalpamānā) [ca](ca) [sva-utsaṅge](svotsaṅge) [putra-dhāriṇī](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limbed-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
+[padmā](padmā) [nandana](nandanapadmastha) [padma-stha](padmastha) [svāṅgā-devī](svāṅgādevī) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-dvi](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+[basuka](basukokakapidvikṣa) [vyāghra-vyāghra-āsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
