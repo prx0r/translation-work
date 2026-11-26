@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot+form+raised+knot+belly+disease+giving](granthirūponnatagranthirjaṭharāmayadāyaka)
+[knot-form](granthirūpa) [raised-knot](unnatagranthi) [belly-disease-giver](jaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-[frost](tuṣāraṃ) [that+know](tadvijānīyā) [son+grief+pain+giving](putraśokārtidāyakam)
+[frost](tuṣāraṃ) [that-know](tadvijānīyā) [son-grief-pain-giver](putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-[gold+sound+made](hemaghoṣāmayaṃ) [copper](tāmra) [that+corrupt](tadduṣṭaṃ) [in+piṅgalā+opinion](piṅgalāmate)
+[golden-sound-disease](hemaghoṣāmayaṃ) [copper](tāmra) [that-corrupt](tadduṣṭaṃ) [yellowish-mother](piṅgalāmate)
 
 ## mukta-m0-p21-v504
-[people](janaṃ) [kills](hanty) [iron+affected](āyasākrāntā) [stone](śilā) [copper](tāmra) [and](ca) [artisan](śilpinam)
+[people](janaṃ) [kills](hantyāyasākrāntā) [stone](śilā) [and-copper](tāmī ca) [sculptor](śilpinam)
 
 ## mukta-m0-p21-v505
-[black](kṛṣṇaḥ) [yellow](pītaḥ) [red](aruṇaḥ) [spot](binduḥ) [that](saḥ) [grief+fear+disease+giving](śokabhayarogadaḥ)
+[black](kṛṣṇaḥ) [yellow](pīto) [red](aruṇo) [dot](binduḥ) [that-grief-fear-disease-giver](sa śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-[in+yellow](pīte) [wealth+loss](dhanakṣayaḥ) [of+maker](kartuḥ) [in+black](kṛṣṇe) [bondage](bandhaḥ) [of+two](dvayoḥ) [twofold](dvidhā)
+[yellow](pīte) [wealth-loss](dhanakṣayaḥ) [maker](kartuḥ) [black](kṛṣṇe) [bondage](bandho) [both-twofold](dvayordvidhā)
 
 ## mukta-m0-p21-v507
-[line](rekhā) [line+pierced](rekhānubiddhā) [or](vā) [earthly](pārthivam) [that](sā) [destroys](vināśayet)
+[line](rekhā) [line-pierced](rekhānubiddhā) [or](vā) [earthly](pārthivaṃ) [that-destroys](sā vināśayet)
 
 ## mukta-m0-p21-v508
-[svāmidhnī](svāmidhnī) [and](ca) [four+cut](catuśchinnā) [many+cut](bahucchinnā) [family+end+maker](kulāntakṛt)
+[self-killing](svāmidhnī) [and](ca) [four-cut](catuśchinnā) [many-cut](bahucchinnā) [family-ender](kulāntakṛt)
 
 ## mukta-m0-p21-v509
-[fly](makṣikā) [fly+shaped](makṣikākārā) [by+that](tayā) [leprosy](kuṣṭham) [very+terrible](sudāruṇam)
+[fly](makṣikā) [fly-shaped](makṣikākārā) [by-that](tayā) [leprosy](kuṣṭhaṃ) [very-terrible](sudāruṇam)
 
 ## mukta-m0-p21-v510
-[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [of+maker+and+indeed](kartuścaiva) [no](na) [doubt](saṃśayaḥ)
+[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [maker-and-certainly](kartuścaiva na saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[to+be+abandoned](tyājyam) [then](tadā) [threefold](tridhā) [mark](liṅgam) [by+king+realm+subject+seeker](nṛparāṣṭraprajārthinā)
+[abandonable](tyājyaṃ) [then](tadā) [three-mark](tridhā liṅgaṃ) [king-realm-subject-seeker](nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-[left+side+residing](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [destroys](hanyāt) [realm](rāṣṭram) [with+king](sarājakam)
+[left-side-residing](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [kills](dhanyādrāṣṭraṃ) [realm-with-king](sarājakam)
 
 ## mukta-m0-p21-v513
-[all+colors](sarvavarṇā) [intensely](bhṛśam) [indeed](nūnam) [life+taking+black+hīrikā](prāṇahṛtkṛṣṇahīrikā)
+[all-colors](sarvavarṇā) [very](bhṛśaṃ) [certainly](nūnaṃ) [life-taking-blackish](prāṇahṛtkṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-[raised](unnataḥ) [seen](lakṣyate) [who](yaḥ) [cat+foot](viḍālāṅghriḥ) [that](saḥ) [fault+bearer](doṣabhāk)
+[raised](unnato) [seen](lakṣyate) [who](yaśca) [cat-foot](viḍālāṅghriḥ) [that-fault-bearer](sa doṣabhāk)
 
 ## mukta-m0-p21-v515
-[of+stone](śilāyāḥ) [form](rūpam) [observing](ālakṣya) [abandon](tyajet) [that](tām) [inauspicious+giving](aśubhapradām)
+[of-stone](śilāyā) [form-observing](rūpamālakṣya) [abandon](tyajettāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-[small+faults](svalpadoṣān) [I+will+declare](prakṣyāmi) [as](yathā) [in+treatises](śāstreṣu) [spoken](bhāṣitān)
+[small-faults](svalpadoṣān) [I-will-tell](prakṣyāmi) [as](yathā) [in-scriptures](śāstreṣu) [spoken](bhāṣitān)
 
 ## mukta-m0-p21-v517
-[anthill+alkali+arisen](valmīkoṣaracityutthā) [warm](koṣṇā) [alkali+water+middle+going](kṣārāmbumadhyagā)
+[ant-hill-born](valmīkoṣaracityutthā) [warm](koṣṇā) [alkaline-water-middle-residing](kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-[in+kudik](kudiksthā) [sun+heated](sūryasantaptā) [bitter+risen+impure](kadutthāmethyadūṣitā)
+[bad-place-residing](kudiksthā) [sun-heated](sūryasantaptā) [bitter-born](kadutthāmethyadūṣitā)
 
 ## mukta-m0-p21-v519
-[corrupt+life+sound](duṣṭajīvasvarā) [which](yā) [and](ca) [joined](yojitā) [not+other+work](nānyakarmaṇi)
+[corrupt-life-sound](duṣṭajīvasvarā) [which](yā) [ca](ca) [joined](yojitā) [not-other-work](nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-[which](yā) [stone+adhering](yopalānulagnā) [that](sā) [oil+interruption+maker](snehavicchittikārikā)
+[which](yā) [stone-clinging](yopalānulagnā) [that](sā) [fat-cutting-maker](snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-[saline+soil+situated](ūṣarasthā) [wealth+heart+known](arthahṛjjñeyā) [citi+situated](citisthā) [grief+giving](duḥkhadāyinī)
+[saline-place-residing](ūṣarasthārthahṛjjñeyā) [ash-place](citisthā) [pain-giving](duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-[pāṣadā](pāṣadā) [inauspicious+place+situated](apuṇyadeśasthā) [killing+maker](vadhakṛt) [bhilla](bhilla) [served](sevitā)
+[bad-merit-place-residing](pāṣadāpuṇyadeśasthā) [killer](vadhakṛdbhilla) [served](sevitā)
 
 ## mukta-m0-p21-v523
-[burning](dāham) [loss](hānim) [and](ca) [grief](śokam) [and](ca) [poverty](naiḥsvyam) [disease](rogam) [so+brings](tathāvahet)
+[burning](dāhaṃ) [loss](hāniṃ) [and](ca) [grief](śokaṃ) [ca](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus](tathāvahet)
 
 ## mukta-m0-p21-v524
-[liquor+wing+fat+smell](surāpakṣivasāgandhā) [anxiety+producing](udvegajananī) [stone](śilā)
+[wine-drinker-corpse-fat-smell](surāpakṣivasāgandhā) [agitation-causing](udvegajananī) [stone](śilā)
 
 ## mukta-m0-p21-v525
-[thunderbolt+burnt](vajradagdhā) [fire+burnt](agnidagdhā) [and](ca) [king's](rājñaḥ) [fire+fear+giving](analabhayapradā)
+[diamond-burnt-fire-burnt](vajradagdhāgnidagdhā) [ca](ca) [king's](rājño) [fire-fear-giving](analabhayapradā)
