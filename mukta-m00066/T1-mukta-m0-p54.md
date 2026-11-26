@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-atho=then sa=he eva=indeed mṛtpiṇḍam=clay-lump kulāla-kara-varttanaiḥ=by-potter-hand-turnings
+[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter-hand-turnings](kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-gabhīrite=in-deep madhya-deśe=in-middle-region tatra=there eva=indeed kuharī-kṛtaḥ=made-hollow
+[deep](gabhīrite) [in-middle-region](madhyadeśe) [there-itself](tatraiva) [made-hollow](kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-kuṃbhaḥ=pot iti=thus asya=of-this śabdasya=word's vācyatām=denotation avagāhate=enters
+[pot](kuṃbha) [thus](iti) [of-this](asya) [word](śabdasya) [denotability](vācyatām) [enters](avagāhate)
 
 ## mukta-m0-p54-v1329
-bhūmau=on-earth viśīrṇa=shattered sarva-aṅgaḥ=all-limbs kāpāla-ogha=heap-of-skulls tvam=you īhate=desire
+[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherd-mass](kāpālaugha) [state](tvam) [desires](īhate)
 
 ## mukta-m0-p54-v1330
-kuṭṭitaḥ=crushed san=being prabhajate=breaks dhūli-śabdasya=dust-word's vācyatām=denotation
+[crushed](kuṭṭitaḥ) [being](san) [breaks-apart](prabhajate) [dust-word](dhūliśabdasya) [denotability](vācyatām)
 
 ## mukta-m0-p54-v1331
-śīrṇa-śīrṇaḥ=broken-broken punar=again vegāt=by-force gātra=limb sareṇu-tvam=dust-ness icchati=desires
+[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar) [by-force](vegāt) [limb](tra) [dust-state](sareṇutvam) [desires](icchati)
 
 ## mukta-m0-p54-v1332
-atyaṃta=extremely sūkṣma=minute durlakṣā=hard-to-perceive ghūrṇate=revolves vāyu-maṇḍale=in-wind-orb
+[extremely](atyaṃta) [subtle](sūkṣma) [hard-to-perceive](durlakṣā) [revolves](ghūrṇate) [in-wind-orb](vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-anyonya-śabda-nirvācyāḥ=mutually-word-indescribable āropāḥ=superimpositions prakīrttitāḥ=declared
+[mutually](anyonya) [word-inexpressible](śabdanirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-tatra=there āropita-rūpa-tvam=superimposed-form-ness ghaṭa-ādeḥ=pot-etc kārayan=causing budhaḥ=wise
+[there-superimposed-form-ness](tatrāropitarūpatvaṃ) [of-pot-etc](ghaṭādeḥ) [making](kārayan) [wise-one](budhaḥ)
 
 ## mukta-m0-p54-v1335
-guṇa-antara-samāsaṅga=other-quality-association mātrād=by-measure eva=indeed katham=how mṛdi=in-clay
+[quality-other-joining](guṇāntarasamāsaṃga) [measure-only](mātrādeva) [how](kathaṃ) [in-clay](mṛdi)
 
 ## mukta-m0-p54-v1336
-vṛthā=vain tasya=its samāropam=superimposition vṛthā=vain tasya=its punar=again layaḥ=dissolution
+[vain](vṛthā) [its](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [its](tasya) [again-dissolution](punarlayaḥ)
 
 ## mukta-m0-p54-v1337
-īdṛśāḥ=such eva=indeed kalaha=in-dispute hetavaḥ=causes pratipāditāḥ=explained
+[such](īdṛśā) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [explained](pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-varṇa-ātmakāḥ=sound-nature tu=but ye=which śabdāḥ=words tatra=there nityatvam=eternality ekakaḥ=one
+[sound-formed](varṇātmakāḥ) [but](tu) [those](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [one](ekakaḥ)
 
 ## mukta-m0-p54-v1339
-ataḥ=therefore pravṛddha-vairāṇām=grown-enmities vādinām=of-disputants abhivalgatām=of-leaping
+[therefore](ataḥ) [grown-great-enmity](pravṛddhavairāṇāṃ) [of-disputants](vādinām) [boasting](abhivalgatām)
 
 ## mukta-m0-p54-v1340
-prabhūtataradarpāndhāḥ=blinded-by-great-pride pāṇḍitya=learning graha=demon durdhiyām=of-evil-minded
+[abundant-pride-blind](prabhūtataradarpāṃdhāḥ) [scholarship](pāṇḍitya) [planet](graha) [evil-minded](durdhiyām)
 
 ## mukta-m0-p54-v1341
-tad-gaveṣaṇa-mārgeṇa=by-that-search-path tat=that samāna=same samādhinā=by-concentration
+[that-search-path](tadgaveṣaṇamārgeṇa) [that](tat) [same](samāna) [concentration](samādhinā)
 
 ## mukta-m0-p54-v1342
-viruddha-bhāṣaṇe=in-contradictory-speech jāti=genus nigraha=restraint sthāna-kalpanaiḥ=by-place-inventions
+[contradictory-speech](viruddhabhāṣaṇe) [genus](jāti) [refutation](nigraha) [place-construction](sthānakalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-paścāt=afterwards kope=anger sati=being galocchoṣa-kāraṇa=cause-of-drying ghoṣaṇaiḥ=by-shouts
+[afterward](paścāt) [anger](kope) [being](sati) [throat-drying](galoccoṣakāraṇa) [shouting](ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-punar=again tena=by-that prakāreṇa=way keśākeśi=hair-pulling kṛte=done raṇe=in-battle
+[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [done](kṛte) [battle](raṇe)
 
 ## mukta-m0-p54-v1345
-pādāt=from-foot saṃvṛta-vegānām=of-restrained-speeds vādinām=of-disputants dveṣa-veśmasu=in-houses-of-hatred
+[foot](pādāt) [covered-speed](saṃvṛtavegānāṃ) [of-disputants](vādināṃ) [hatred-houses](dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-siddhāntitaiḥ=by-concluded ca=and sva-manaḥ=own-mind śuddhaiḥ=pure anyaiḥ=others ca=and ninditaiḥ=blamed
+[established-conclusion](siddhāntitaiḥ) [and](ca) [own-mind](svamanaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [ca](ca) [blamed](ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-vyāmūḍhān=confused kurvatām=of-making eṣa=this teṣām=their panthāḥ=path ankuśaḥ=uncontrolled
+[deluded](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthān) [unrestrained](iraṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-pramāṇa-andhāḥ=blind-by-pramāṇas ṣoḍaśa=sixteen āye? padārthaiḥ=categories taiḥ=by-them mahākālīḥ=great-Kali
+[proof-blind](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ) [those](taiḥ) [great-kali](mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-kalahaḥ=dispute kevalam=only tatra=there duḥsamāpa=hard-to-end śara-śataiḥ=by-hundreds-of-arrows
+[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa) [autumn-hundreds](śaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-saṃprāpti-rūpaḥ=arrival-form bhavitā=will-be tadā=then vāmena=by-left nirṇayaḥ=decision
+[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
