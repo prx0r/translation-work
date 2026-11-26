@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-gauṇaḥ(secondary) kṣetre(in-temple) athavā(or) ṣaḍdora-eka-vaktraḥ(six-dora-one-faced) praśasyate(is-praised)
+[secondary](gauṇaḥ) [in-temple](kṣetre) [or](athavā) [six-faced](ṣaḍdorekavaktraḥ) [is-praised](praśasyate)
 
 ## mukta-m0-p40-v977
-yathākramaṃ(in-order) sadā(always) ṣaḍbhiḥ(with-six) dakṣiṇa-uttara-pāṇibhiḥ(right-left-hands)
+[as-order](yathākramaṃ) [always](sadā) [with-six](ṣaḍbhiḥ) [right-left-hands](dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-bibhrat(bearing) śaktiṃ(power) kare(in-hand) yāmye(right) tāmracūḍaṃ(peacock) tathā(and) itare(other)
+[bearing](bibhrat) [śakti](śaktiṃ) [in-hand](kare) [right](yāmye) [peacock](tāmracūḍaṃ) [and](tathā) [other](itare)
 
 ## mukta-m0-p40-v979
-śikhi-ārūḍhaḥ(peacock-mounted) tu(but) śārvaḥ(of-Shiva) ayam(this) sarva-alaṅkāra-bhaṣitaḥ(adorned-with-all-ornaments)
+[peacock-mounted](śikhyārūḍhaḥ) [but](tu) [Śarva](śārvaḥ) [this](ayaṃ) [all-ornamented](sarvālaṅkārabhūṣitaḥ)
 
 ## mukta-m0-p40-v980
-śilā-hema-ādi-lohaiḥ(with-stone-gold-etc-metals) vā(or) vṛṣaṃ(bull) kuryāt(should-make) yathā-īpsitam(as-desired)
+[stone-gold-etc-metals](śilāhemādilohaiḥ) [or](vā) [bull](vṛṣaṃ) [one-should-make](kuryāt) [as-desired](yathepsitam)
 
 ## mukta-m0-p40-v981
-sādhāraṇeṣu(in-common) liṅgeṣu(lingas) prastāvāt(by-context) vihitaḥ(prescribed) vṛṣaḥ(bull)
+[in-common](sādhāraṇeṣu) [liṅgas](liṅgeṣu) [by-context](prastāvāt) [prescribed](vihitaḥ) [bull](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-liṅga-tryaṃśa-ujhitaḥ(linga-three-part-abandoned) kāryaḥ(should-be-made) tat-dvi-rāyati-vigrahaḥ(that-double-rayati-figure)
+[liṅga-third-less](liṅgatryaṃśahīnaḥ) [to-be-made](kāryaḥ) [that-double-height-figure](taddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-śubha-unmolita-dṛg-lakṣma(auspicious-opened-eye-mark) liṅga-mastaka-mastakaḥ(linga-head-head)
+[auspicious-open-eyed-mark](śubhonmolitadṛglakṣma) [liṅga-top](liṅgamastaka) [top](mastakaḥ)
 
 ## mukta-m0-p40-v984
-dairghyāt(from-length) caturaśa-utyaśaḥ(square-etc) aṅgulaṃ(finger) tena(by-that) kalpanam(measurement)
+[from-length](dairghyāt) [square-etc](caturaśādi) [inches](aṅgulaṃ) [by-that](tena) [measurement](kalpanam)
 
 ## mukta-m0-p40-v985
-aṣṭa-netra-pṛthutvaṃ(eight-eye-breadth) syāt(should-be) proccais(high) tat-vaktra-dīrghatā(that-face-length)
+[eight-eyes-breadth](aṣṭanetrapṛthutvaṃ) [should-be](syāt) [high](uccaiḥ) [that-face-length](tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-tantra-bhāgaṃ(tantra-part) tu(but) tārā(star) syāt(should-be) jyotiḥ(light) tat-pañcama-aṃśataḥ(that-fifth-part)
+[that-string-part](tantribhāgaṃ) [but](tu) [star](tārā) [should-be](syāt) [light](jyotiḥ) [that-fifth-part](tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-nāsā-aṅgula-pramā-vṛttā(nose-finger-measure-round) dvi-netraṃ(two-eye) śuṣira-antaram(hollow-interior)
+[nose-inch-measure-round](nāsāṅgulapramāvṛttā) [two-eyes](dvinetraṃ) [hollow-interior](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-pañca-netraṃ(five-eye) tu(but) vistāraṃ(breadth) tat-ūrdhva(that-above) tu(but) vivardhate(increases)
+[five-eyes](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that-above](tadūrdhva) [but](tu) [increases](vivardhate)
 
 ## mukta-m0-p40-v989
-catur-netra(four-eye) ubhayoḥ(both) pārśve(sides) vaktra-mānaṃ(face-measure) tu(but) sandhitaḥ(joined)
+[four-eyes](caturnetraḥ) [both-sides](ubhayoḥ) [side](pārśve) [face-measure](vaktramānaṃ) [but](tu) [joined](sandhitaḥ)
 
 ## mukta-m0-p40-v990
-tat-mūle(that-base) sapta-vistāraṃ(seven-breadth) karṇa-mūla-samanvitam(ear-base-accompanied)
+[that-base](tanmūle) [seven-breadth](saptavistāraṃ) [ear-base-together](karṇamūlasamanvitaṃ)
 
 ## mukta-m0-p40-v991
-aṅgula-ardha-samaṃ(finger-half-equal) yāvat(up-to) mūlaṃ(base) pañcaka-vartulam(five-round)
+[half-inch-equal](aṅgulārdhasamaṃ) [up-to](yāvat) [base](mūlaṃ) [five-round](pañcakavartulaṃ)
 
 ## mukta-m0-p40-v992
-karṇa-mūlāt(from-ear-base) tu(but) nāsā-ardhaṃ(nose-half) sūtra-hāsāt(thread-smile) nayet(should-lead) samam(equal)
+[from-ear-base](karṇamūlāt) [but](tu) [nose-half](nāsārdhaṃ) [by-thread-smile](sūtrahāsāt) [should-bring-equal](nayetsamam)
 
 ## mukta-m0-p40-v993
-śaṅkha-mūla(conch-base) dvi-netraṃ(two-eye) syāt(should-be) yathā-agre(as-front) netra-pādakam(eye-foot)
+[conch-base](śaṅkhamūla) [two-eyes](dvinetraṃ) [should-be](syāt) [as-front](yathāgre) [eye-foot](netrapādakam)
 
 ## mukta-m0-p40-v994
-pārśva-piṇḍī(side-lump) dvi-netra-ardhaṃ(two-eye-half) ṣaḍ-netra-agra-avaṭuḥ(six-eye-front-hole) smṛtaḥ(remembered)
+[side-lump](pārśvapiṇḍī) [two-eyes-half](dvinetrārdhaṃ) [six-eyes-front-tuft](ṣaḍnetrāgrāvaṭuḥ) [is-said](smṛtaḥ)
 
 ## mukta-m0-p40-v995
-dvi-netra-ucchraya-tūrdhvaṃ(two-eye-height-above) syāt(should-be) vṛtta-mūrdhvaṃ(round-above) yathā(as) bhavet(becomes)
+[two-eyes-height-above](dvinetrocchrayordhvaṃ) [should-be](syāt) [round-above](vṛttamūrdhvaṃ) [as](yathā) [becomes](bhavet)
 
 ## mukta-m0-p40-v996
-sandhiḥ(joint) netra-adhikaḥ(eye-excess) proktaḥ(stated) catur-netra-upajaṅghikā(four-eye-calf)
+[joint](sandhiḥ) [eyes-excess](netrādhikaḥ) [is-stated](proktaḥ) [four-eyes-calf](caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-gulpha-ardhaṃ(ankle-half) khurikā-netraṃ(hoof-eye) pādasya(of-foot) āt(from) parimāṇataḥ(by-measure)
+[ankle-half](gulphārdhaṃ) [hoof-eye](khurikānetraṃ) [of-foot](pādasya) [from-measure](parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-caturdaśa-ādi(fourteen-etc) tat-vaca(that-speech) tri-hīne(three-less) ca(and) upajaṅghrikā(calf)
+[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [and-calf](copajaṅghrikā)
 
 ## mukta-m0-p40-v999
-ṣaḍ-netra-antaḥ(six-eye-end) tathā(and) jñeyā(to-be-known) tasmāt(therefore) syāt(should-be) puccha-santatiḥ(tail-continuation)
+[six-eyes-end](ṣaḍnetrāntaḥ) [thus](tathā) [to-be-known](jñeyā) [therefore](tasmāt) [should-be](syāt) [tail-continuity](pucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-tāla-trayaṃ(palm-three) pradīrghaṃ(very-long) syāt(should-be) tāla-ardhaṃ(palm-half) keśa-saṃhatiḥ(hair-collection)
+[three-palms](tālatrayaṃ) [very-long](pradīrghaṃ) [should-be](syāt) [half-palm](tālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
