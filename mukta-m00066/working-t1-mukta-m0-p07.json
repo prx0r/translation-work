@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "pāpiṣṭhānām",
-"quick_gloss": "of-the-most-sinful"
+"quick_gloss": "of-sinners"
 },
 {
 "surface": "ihācāro",
@@ -65,12 +65,16 @@
 "quick_gloss": "of-happiness"
 },
 {
-"surface": "saṃbhavonānya",
-"quick_gloss": "origin-no-other"
+"surface": "saṃbhavo",
+"quick_gloss": "origin"
+},
+{
+"surface": "nānya",
+"quick_gloss": "not-other"
 },
 {
 "surface": "vartmanā",
-"quick_gloss": "path"
+"quick_gloss": "by-path"
 },
 {
 "surface": "padmalocane",
@@ -94,16 +98,20 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mārgodumārgo",
-"quick_gloss": "path-and-bad-path"
+"surface": "mārgo",
+"quick_gloss": "path"
+},
+{
+"surface": "dumārgo",
+"quick_gloss": "bad-path"
 },
 {
 "surface": "aparaḥ",
-"quick_gloss": "another"
+"quick_gloss": "other"
 },
 {
 "surface": "parikīrtitaḥ",
-"quick_gloss": "proclaimed"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -124,7 +132,7 @@
 },
 {
 "surface": "sāmyena",
-"quick_gloss": "with-equality"
+"quick_gloss": "by-equality"
 },
 {
 "surface": "liṃgānaṃdaḥ",
@@ -156,12 +164,16 @@
 "quick_gloss": "caste"
 },
 {
-"surface": "vināduṣṭām",
-"quick_gloss": "without-corrupt"
+"surface": "vinā",
+"quick_gloss": "without"
+},
+{
+"surface": "duṣṭām",
+"quick_gloss": "corrupt"
 },
 {
 "surface": "anyajātiṣu",
-"quick_gloss": "other-castes"
+"quick_gloss": "in-other-castes"
 },
 {
 "surface": "vidyate",
@@ -199,11 +211,11 @@
 "tokens": [
 {
 "surface": "paśupakṣimṛgādyeṣu",
-"quick_gloss": "animals-birds-beasts-etc"
+"quick_gloss": "in-animals-birds-beasts-etc"
 },
 {
 "surface": "naitādṛkkrama",
-"quick_gloss": "not-such-sequence"
+"quick_gloss": "not-such-order"
 },
 {
 "surface": "saṃbhavaḥ",
@@ -224,11 +236,11 @@
 },
 {
 "surface": "sarvajātir",
-"quick_gloss": "all-caste"
+"quick_gloss": "all-castes"
 },
 {
 "surface": "varta",
-"quick_gloss": "moving"
+"quick_gloss": "existing"
 },
 {
 "surface": "mānāvalaṃbinī",
@@ -290,7 +302,7 @@
 },
 {
 "surface": "droho",
-"quick_gloss": "malice"
+"quick_gloss": "hostility"
 },
 {
 "surface": "na",
@@ -368,19 +380,11 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarvāsu",
-"quick_gloss": "in-all"
+"surface": "sarvāsu+jātiṣu",
+"quick_gloss": "in-all-castes"
 },
 {
-"surface": "jātiṣu",
-"quick_gloss": "castes"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
-},
-{
-"surface": "akhaṃḍita",
+"surface": "apyakhaṃḍita",
 "quick_gloss": "unbroken"
 },
 {
@@ -402,7 +406,7 @@
 },
 {
 "surface": "īśānaṃ",
-"quick_gloss": "lord"
+"quick_gloss": "ruler"
 },
 {
 "surface": "na",
@@ -431,7 +435,7 @@
 },
 {
 "surface": "ānaṃdatantre",
-"quick_gloss": "bliss-tantra"
+"quick_gloss": "in-bliss-tantra"
 },
 {
 "surface": "caturthaḥ",
@@ -455,12 +459,8 @@
 "quick_gloss": "mantra-bliss"
 },
 {
-"surface": "devyāś",
+"surface": "devyāśca",
 "quick_gloss": "of-goddess"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "śruṇu",
@@ -502,7 +502,7 @@
 "tokens": [
 {
 "surface": "nāthāya",
-"quick_gloss": "lord"
+"quick_gloss": "to-lord"
 },
 {
 "surface": "iti",
@@ -518,11 +518,11 @@
 },
 {
 "surface": "procyabrūyāṃ",
-"quick_gloss": "say"
+"quick_gloss": "speak"
 },
 {
 "surface": "navātmikām",
-"quick_gloss": "nine-souled"
+"quick_gloss": "nine-syllabled"
 }
 ]
 },
@@ -534,7 +534,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇavādi",
+"surface": "praṇavādir",
 "quick_gloss": "om-beginning"
 },
 {
@@ -543,7 +543,7 @@
 },
 {
 "surface": "prokto",
-"quick_gloss": "proclaimed"
+"quick_gloss": "declared"
 },
 {
 "surface": "viṃśati",
@@ -564,7 +564,7 @@
 "tokens": [
 {
 "surface": "navātmamithunākhyā",
-"quick_gloss": "nine-soul-couple-named"
+"quick_gloss": "nine-syllable-couple-named"
 },
 {
 "surface": "ca",
@@ -572,7 +572,7 @@
 },
 {
 "surface": "mahānaṃdakalātmikā",
-"quick_gloss": "great-bliss-phase-souled"
+"quick_gloss": "great-bliss-phase-essence"
 }
 ]
 },
@@ -626,7 +626,7 @@
 },
 {
 "surface": "sadāsaṃgā",
-"quick_gloss": "always-union"
+"quick_gloss": "always-united"
 },
 {
 "surface": "kāreṇa",
@@ -660,6 +660,10 @@
 {
 "surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
 },
 {
 "surface": "jānaṃti",
@@ -712,7 +716,7 @@
 },
 {
 "surface": "muradviṣe",
-"quick_gloss": "to-mura's-enemy"
+"quick_gloss": "to-enemy-of-Mura"
 }
 ]
 }
