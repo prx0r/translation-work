@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[unafflictedness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [wheel-rim-evenness](rathanemisamānatā)
+[unknown](akliṣṭatā) [unknown](puṣṭatā) [unknown](ca) [unknown](rathanemisamānatā)
 
 ## mukta-m0-p16-v377
-[hooded-serpent-head-evenness](phaṇiśīrṣasamānatvaṃ) [clarity](prasannadravatā) [and-so](tathā)
+[unknown](phaṇiśīrṣasamānatvaṃ) [unknown](prasannadravatā) [unknown](tathā)
 
 ## mukta-m0-p16-v378
-[all-marks](sarvalakṣaṇa) [endowedness](yuktatvaṃ) [bad-mark-absence](kulakṣaṇavihīnatā)
+[unknown](sarvalakṣaṇa) [unknown](yuktatvaṃ) [unknown](kulakṣaṇavihīnatā)
 
 ## mukta-m0-p16-v379
-[of-refinement](saṃskārasya) [greatness](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [beloved](priye)
+[unknown](saṃskārasya) [unknown](mahimneva) [unknown](bhāsaṃte) [unknown](te) [unknown](guṇāḥ) [unknown](priye)
 
 ## mukta-m0-p16-v380
-[refinement](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
+[unknown](saṃskāropi) [unknown](samastāni) [unknown](vastūninyāvasetpriye)
 
 ## mukta-m0-p16-v381
-[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-foot](sarvasiddhimahāpadaṃ)
+[unknown](sarvasaubhāgyajanakaṃ) [unknown](sarvasiddhimahāpadaṃ)
 
 ## mukta-m0-p16-v382
-[bliss-bhairava](ānaṃda) [worship](bhairavasyārcāsādhanaṃ) [world-enchanting](viśvamohanam)
+[unknown](ānaṃda) [unknown](bhairavasyārcāsādhanaṃ) [unknown](viśvamohanam)
 
 ## mukta-m0-p16-v383
-[very-beautiful-gradual-devourer](suśobhadakramagrāsī) [all-disease-cutter](samastāpannikṛṃtanam)
+[unknown](suśobhadakramagrāsī) [unknown](samastāpannikṛṃtanam)
 
 ## mukta-m0-p16-v384
-[of-house-moon-phases](veśmacaṃdrakalānāṃ) [and](ca) [of-abode-auspiciousness-wealth](sadmasaubhāgyasaṃpadām)
+[unknown](veśmacaṃdrakalānāṃ) [unknown](ca) [unknown](sadmasaubhāgyasaṃpadām)
 
 ## mukta-m0-p16-v385
-[all-disease-causing](samastarogajanakaṃ) [of-misfortune-promoter](daurbhāgyasyapravartakam)
+[unknown](samastarogajanakaṃ) [unknown](daurbhāgyasyapravartakam)
 
 ## mukta-m0-p16-v386
-[people-reproach-causing](lokopakrośajanakaṃ) [people-contempt-giving](lokadhikkāradāyakam)
+[unknown](lokopakrośajanakaṃ) [unknown](lokadhikkāradāyakam)
 
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [lost](naṣṭamucchiṣṭamapakṛṣṭaṃ) [rubbed](vicarcitam)
+[unknown](phelinaṃ) [unknown](naṣṭamucchiṣṭamapakṛṣṭaṃ) [unknown](vicarcitam)
 
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough-skin-rich](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
+[unknown](aṃtaḥ) [unknown](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
 
 ## mukta-m0-p16-v389
-[itch-scabies-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [liquid](dravam)
+[unknown](pāmakaṇḍūpracuritaṃ) [unknown](pāpiṣṭaṃ) [unknown](kathitaṃ) [unknown](dravam)
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [indeed](vai) [that](tat) [worship-means](pūjāsādhanamiṣyate)
+[unknown](svakīya) [unknown](vapure) [unknown](vai) [unknown](tat) [unknown](pūjāsādhanamiṣyate)
 
 ## mukta-m0-p16-v391
-[stands-near](sannidhatte) [supreme-directly](paraḥsākṣādānaṃdādvaita) [form-bearing](rūpadhṛt)
+[unknown](sannidhatte) [unknown](paraḥsākṣādānaṃdādvaita) [unknown](rūpadhṛt)
 
 ## mukta-m0-p16-v392
-[messenger](dūtī) [of-face](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇusaṃdari)
+[unknown](dūtī) [unknown](mukhasya) [unknown](saṃskāraḥ) [unknown](kathyate) [unknown](śṛṇusaṃdari)
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [and](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+[unknown](uttejanaṃ) [unknown](ca) [unknown](śastreṇa) [unknown](nirmalīkaraṇaṃ) [unknown](punaḥ)
 
 ## mukta-m0-p16-v394
-[by-oil-gargling](tailagaṇḍuṣaṇāt) [beauty](kāṃtirdaṃtānāmupajāyate)
+[unknown](tailagaṇḍuṣaṇāt) [unknown](kāṃtirdaṃtānāmupajāyate)
 
 ## mukta-m0-p16-v395
-[three-pungents](trikaṭu) [three-fruits](triphalāmāṃsi) [molasses-bark-leaves-saffron](guḍatvakpatrakesaraiḥ)
+[unknown](trikaṭu) [unknown](triphalāmāṃsi) [unknown](guḍatvakpatrakesaraiḥ)
 
 ## mukta-m0-p16-v396
-[having-made](kṛtvākṣa) [pea-sized](sadṛśān) [pills](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger-swallow](dūtikāgilet)
+[unknown](kṛtvākṣa) [unknown](sadṛśān) [unknown](piṇḍān) [unknown](taṃ) [unknown](pūrvaṃ) [unknown](dūtikāgilet)
 
 ## mukta-m0-p16-v397
-[of-filth-born](malenaivāpa) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+[unknown](malenaivāpa) [unknown](sṛṣṭānāṃ) [unknown](sarveṣāṃ) [unknown](śamanaṃ) [unknown](bhavet)
 
 ## mukta-m0-p16-v398
-[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill-make](guṭikākārayedbudhaḥ)
+[unknown](mardaniyaṃ) [unknown](prayatnena) [unknown](guṭikākārayedbudhaḥ)
 
 ## mukta-m0-p16-v399
-[messenger](pūtikāmati) [fragrance](saurabhya) [saliva-mouth](śālivaktraṃ) [prepare](prakalpayet)
+[unknown](pūtikāmati) [unknown](saurabhya) [unknown](śālivaktraṃ) [unknown](prakalpayet)
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+[unknown](itthaṃ) [unknown](śarīrasaṃskāro) [unknown](bāhyābhyaṃtara) [unknown](īritaḥ)
