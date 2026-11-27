@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything](kiṃcid) [also](api) [I-know](jānāmi) [lord](nātha) [awaken](bodhaya) [awaken](bodhaya)
+[gloss](na) [gloss](kiṃcidapi) [gloss](jānāmi) [gloss](nāthabodhayabodhaya)
 
 ## mukta-m0-p36-v877
-[this](etat) [of-bliss](saukhya) [cause](nidānāya) [well-being](svasti) [mark](liṃgāya) [to-śambhu](śaṃbhave)
+[gloss](etat) [gloss](saukhyanidānāya) [gloss](svastiliṃgāya) [gloss](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[to-śiva](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [may-be](astu) [to-śiva](śivārpaṇam)
+[gloss](śivārpaṇamidaṃ) [gloss](bhūyāt) [gloss](punarastu) [gloss](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-[withered](mlānā) [lotus-stalk](padmamṛṇālī) [iva](va) [garland](mālikā) [iva](iva) [on-chest](vakṣasi)
+[gloss](mlānā) [gloss](padmamṛṇālī) [gloss](va) [gloss](mālikevāsya) [gloss](vakṣasi)
 
 ## mukta-m0-p36-v880
-[absorbed](līna) [absorbed](līnā) [syllable](akṣaraṃ) [afterwards](paścāt) [slow](maṃda) [slow](maṃda) [syllable](akṣaraṃ) [again](punaḥ)
+[gloss](līnalīnākṣaraṃ) [gloss](paścānmaṃdamaṃdākṣaraṃ) [gloss](punaḥ)
 
 ## mukta-m0-p36-v881
-[thus](evam) [etc](ādi) [qualities](guṇā) [messenger](dūtyāḥ) [sixth](ṣaḍ) [offering](āhuti) [great-festival](mahotsave)
+[gloss](evamādiguṇādūtyāḥ) [gloss](ṣaḍāhuti) [gloss](mahotsave)
 
 ## mukta-m0-p36-v882
-[six](ṣaṣṭhi) [six](ṣaḍ) [tastes](rasa) [endowed](saṃpannā) [much](bahu) [food](bhojana) [giving](dāyinī)
+[gloss](ṣaṣṭhiṣaḍrasasaṃpanna) [gloss](bahubhojanadāyinī)
 
 ## mukta-m0-p36-v883
-[six](ṣaḍ) [limb](aṃga) [deity](devatā) [form](rūpā) [always](sarvadā) [to-be-done](kriyatāṃ) [by-lords](budhaiḥ)
+[gloss](ṣaḍaṃgadevatā) [gloss](rūpā) [gloss](sarvadākriyatāṃbudhaiḥ)
 
 ## mukta-m0-p36-v884
-[of-heroine](nāyikāyāḥ) [ca](ca) [by-revealing](vidṛtyā) [pleasure](sukha) [rest](śrāṃtiḥ) [proceeds](pravartate)
+[gloss](nāyikāyāśca) [gloss](vidṛtyā) [gloss](sukhaśrāṃtiḥ) [gloss](pravartate)
 
 ## mukta-m0-p36-v885
-[sugar](śarkarā) [nectar](amṛta) [mixed](saṃmiśraṃ) [pure](śuddhi) [soup](yūṣa) [with-ghee](sanādhitam)
+[gloss](śarkarāmṛtasaṃmiśraṃ) [gloss](śuddhiyūṣasanādhitam)
 
 ## mukta-m0-p36-v886
-[self](svayaṃ) [that](tad) [remainder](avaśiṣṭaṃ) [ca](ca) [let-drink](pibet) [devotion](bhakti) [with-reverence](bharānataḥ)
+[gloss](svayaṃtadavaśiṣṭaṃ) [gloss](ca) [gloss](pibed) [gloss](bhakti) [gloss](bharānataḥ)
 
 ## mukta-m0-p36-v887
-[mantra](maṃtraṃ) [ca](ca) [of-ānandadeva](ānaṃdadevasya) [hundred](śataśaḥ) [or](vā) [thousand](sahasraśaḥ)
+[gloss](maṃtraṃ) [gloss](cānaṃdadevasya) [gloss](śataśovāsahasraśaḥ)
 
 ## mukta-m0-p36-v888
-[unfit](ayukta) [yantra](yaṃtraḥ) [let-recite](prajaped) [deity](devatā) [curse](śāpa) [may-obtain](māpnuyāt)
+[gloss](ayuktayaṃtraḥ) [gloss](prajaped) [gloss](devatāśāpamāpnuyāt)
 
 ## mukta-m0-p36-v889
-[thus](evaṃ) [recited](japte) [supreme](parā) [bliss](naṃda) [form](rūpi) [liṅga](liṃga) [maheśvara](maheśvaraḥ)
+[gloss](evaṃ) [gloss](japte) [gloss](parānaṃdarūpi) [gloss](liṃgamaheśvaraḥ)
 
 ## mukta-m0-p36-v890
-[as-long-as](yāvat) [recites](japati) [hero](vīraḥ) [ayaṃ](ayaṃ) [messenger](dūti) [rest](viśrāṃti) [for-cause](hetave)
+[gloss](yāvajjapati) [gloss](vīroyaṃ) [gloss](dūtiviśrāṃti) [gloss](hetave)
 
 ## mukta-m0-p36-v891
-[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger](dūtikā) [body](tanau)
+[gloss](iththaṃ) [gloss](krameṇa) [gloss](viśrāṃtiṃ) [gloss](gatāyāṃ) [gloss](dūtikātanau)
 
 ## mukta-m0-p36-v892
-[moon-crescent](caṃdrarekhā) [meaning](arthāṃ) [by-gu](gulinā) [raised](pronnatā) [moon](caṃdra) [moonlight](caṃdrikā)
+[gloss](caṃdrarekhārthāṃ) [gloss](gulinā) [gloss](pronnatā) [gloss](caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v893
-[atasī](atasī) [flower](puṣpa) [like](saṃkāśā) [triangle](trikoṇa) [form](ākāratāṃ) [gone](gatā)
+[gloss](atasī) [gloss](puṣpasaṃkāśā) [gloss](trikoṇākāratāṃ) [gloss](gatā)
 
 ## mukta-m0-p36-v894
-[long](ciradravā) [api](api) [lord](nātha) [eka](eka) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
+[gloss](ciradravāpi) [gloss](nāthaika) [gloss](kluptairaṃguṣṭha) [gloss](cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-[navel](nābhai) [palm](capeṭa) [falls](patanaiḥ) [buttock](nitaṃbe) [hand](hasta) [massages](mardanaiḥ)
+[gloss](nābhaucapeṭa) [gloss](patanairnitaṃbe) [gloss](hastamardanaiḥ)
 
 ## mukta-m0-p36-v896
-[own](nijaṃ) [essence](rasaṃ) [flowing](sravaṃty) [eva](eva) [heroine](nāyikā) [moon](caṃdra) [moonlight](caṃdrikā)
+[gloss](nijaṃrasaṃ) [gloss](sravaṃtyeva) [gloss](nāyikācaṃdracaṃdrikā)
 
 ## mukta-m0-p36-v897
-[flour](paiṣṭi) [liquor](madya) [equal](samā) [fragrance](modaṃ) [arrow](bāṇa) [flower](puṣpa) [intense](ulbaṇa) [radiance](dyuti)
+[gloss](paiṣṭimadyasamāmodaṃ) [gloss](bāṇapuṣpolbaṇadyuti)
 
 ## mukta-m0-p36-v898
-[attainment](prāpti) [perfection](siddhi) [procreation](prajananaṃ) [all](sarva) [sovereignty](aiśvarya) [named](ākhya) [speech](vāṅmayam)
+[gloss](prāptisiddhiprajananaṃ) [gloss](sarvaiśvaryākhyavāṅmayam)
 
 ## mukta-m0-p36-v899
-[all](samasta) [disease](vyādhi) [pacifying](śamanaṃ) [light](laghu) [cool](śītala) [pure](nirmalam)
+[gloss](samastavyādhiśamanaṃ) [gloss](laghuśītalanirmalam)
 
 ## mukta-m0-p36-v900
-[then](tadā) [recite](japet) [this](itaṃ) [mantra](maṃtraṃ) [ca](ca) [palāmbā](palāṃbā) [deity](adhidaivatam)
+[gloss](tadājapeditaṃ) [gloss](maṃtraṃ) [gloss](ca) [gloss](palāṃbādhidaivatam)
