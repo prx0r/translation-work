@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gandharva](gāṃdharvaḥ) [but](tu) [great](mahān) [veda](vedo) [by-bharata-etc](bharatādyaiḥ) [expanded](pravistṛtaḥ)
+[gandharvaḥ](gāṃdharvaḥ) [tu](tu) [mahān](mahān) [vedaḥ](vedo) [bharata-ādyaiḥ](bharatādyaiḥ) [pravistṛtaḥ](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-[who](yas) [but](tu) [by-both-modes](ubhayaprakāreṇa) [pleases](saṃtoṣayati) [good-people](sajjanāt)
+[yastu](yastu) [ubhaya-prakāreṇa](ūbhayaprakāreṇa) [saṃtoṣayati](saṃtoṣayati) [sajjanāt](sajjanāt)
 
 ## mukta-m0-p05-v103
-[mostly](prāyaḥ) [music-essences](saṃgītasārāṇi) [sounds](nādakāni) [declare](pracakṣate)
+[prāyaḥ](prāyaḥ) [saṃgīta-sārāṇi](saṃgītasārāṇi) [nādakāni](nādakāni) [pracakṣate](pracakṣate)
 
 ## mukta-m0-p05-v104
-[by-abundance](bāhulyāt) [to-be-established](pratipādya) [may-be](syāt) [erotic-rasa](śṛṃgārorasaḥ) [bright](ujvalaḥ)
+[bāhulyāt](bāhulyāt) [pratipādya](pratipādya) [syāt](syāt) [śṛṃgāra-rasaḥ](śṛṃgārorasa) [ujvalaḥ](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-[by-that-coloring](tenoparaṃjitatvāt) [or](vā) [their](teṣāṃ) [rasa](rasaḥ) [thus](iti) [tradition](smṛtiḥ)
+[tena](tena) [uparaṃjitatvāt](uparaṃjitatvāt) [vā](vā) [teṣāṃ](teṣāṃ) [rasaḥ](rasa) [iti](iti) [smṛtiḥ](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-[sacānukūladā](sacānukūladā) [of-two](catyor) [sight-touch-nature](darśanasparśanātmakaḥ)
+[sacānukūla-dā](sacānukūladā) [catyor](catyor) [darśana-sparśana-ātmakaḥ](darśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-[that](tad) [two-fold](cadvidhā) [ethics](nītiśāstraṃ) [of-Brihaspati](bārhaspatyaṃ) [and](ca) [of-Bhargava](bhārgavam)
+[tat](tac) [ca](ca) [vidhā](vidhā) [nīti-śāstram](nītiśāstraṃ) [bārhaspatyam](bārhaspatyaṃ) [ca](ca) [bhārgavam](bhārgavam)
 
 ## mukta-m0-p05-v108
-[six](ṣaḍbhiḥ) [qualities](guṇaiḥ) [powers](śaktibhiḥ) [three](catisṛbhiḥ) [also](cāpi) [accomplishments](siddhibhiḥ)
+[ṣaḍbhiḥ](ṣaḍbhir) [guṇaiḥ](guṇaiḥ) [śaktibhiḥ](śaktibhiḥ) [ca](ca) [tisṛbhiḥ](tisṛbhiḥ) [ca](ca) [api](api) [siddhibhiḥ](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-[ethics](nītiśāstram) [this](idaṃ) [all](sarvaṃ) [wealth-prosperity-increasing](vittasaṃpatsamṛddhidam)
+[nīti-śāstram](nītiśāstram) [idam](idaṃ) [sarvam](sarvaṃ) [vitta-saṃpat-samṛddhi-dam](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-[third-purushartha](tṛtīyapuruṣārthaḥ) [this](ayaṃ) [own-bliss](svacānaṃda) [nature](svarūpakaḥ)
+[tṛtīya-puruṣārthaḥ](tṛtīyapuruṣārtho) [ayam]('yaṃ) [svacānanda](svacānaṃda) [svarūpakaḥ](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-[thus](iti) [eighteen-sciences](aṣṭādaśavidyānāṃ) [purport](tātparyaṃ) [well-declared](samyagīritam)
+[itya](itya) [aṣṭādaśa-vidyānām](aṣṭādaśavidyānāṃ) [tātparyam](tātparyaṃ) [samyak](samyag) [īritam](īritam)
 
 ## mukta-m0-p05-v112
-[everywhere](sarvatra) [in-scriptures](śāstre) [liberation](mokṣaḥ) [is](asti) [its-form](tasyarūpaṃ) [separate](pṛthak) [separate](pṛthak)
+[sarvatra](sarvatra) [śāstre](śāstre) [mokṣaḥ](mokṣo) [asti]('sti) [tasya](tasya) [rūpam](rūpaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p05-v113
-[otherwise](nocet) [activity](pravṛttiḥ) [by-whom](kena) [would-be](syāt) [that-doctrine-followers](tattatsiddhāṃtavartinām)
+[nocet](nocet) [pravṛttiḥ](pravṛttiḥ) [kena](kena) [syāt](syāt) [tat-tat](tat-tat) [siddhānta](siddhāṃta) [vartinām](vartinām)
 
 ## mukta-m0-p05-v114
-[non-bliss-nature](anānaṃdasvarūpatvāt) [stone-state](śilāvasthā) [mocking](nviḍaṃbhayan)
+[anānanda](anānaṃda) [svarūpatvāt](svarūpatvāt) [śilā-vasthām](śilāvasthān) [viḍaṃbhayan](viḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-[that](tad) [fault](doṣāt) [own-wife](nijayoṣā) [also](api) [stone-state](dṛṣadbhāvaṃ) [indeed-attained](kilāgamat)
+[tat](tad) [doṣāt](doṣāt) [nija-yoṣā](nijayoṣā) [api](api) [dṛṣad-bhāvam](dṛṣadbhāvaṃ) [kila](kila) [āgamat](āgamat)
 
 ## mukta-m0-p05-v116
-[he](sa) [indeed](eva) [liberation](mokṣaḥ) [no-other](nānyo) [is](asti) [sorrow-form-free](duḥkhākāravivarjitaḥ)
+[saḥ](sa) [eva](eva) [mokṣaḥ](mokṣo) [na](nā) [anyaḥ](nyo) [asti]('sti) [duḥkha-ākāra](duḥkhākāra) [vivarjitaḥ](vivarjitaḥ)
 
 ## mukta-m0-p05-v117
-[bliss-lord](ānaṃdanātha) [linga-seated](liṃgastham) [regarding](adhikṛtya) [proceeds](pravartate)
+[ānandanātha](ānaṃdanātha) [liṃga-stham](liṃgastham) [adhikṛtya](adhikṛtya) [pravartate](pravartate)
 
 ## mukta-m0-p05-v118
-[thus](iti) [bliss-tantra](ānaṃdataṃtre) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
+[iti](iti) [ānanda-tantre](ānaṃdataṃtre) [tṛtīyaḥ](tṛtīyaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-[linga-bliss-full](liṃgānaṃdamayaḥ) [who](yaḥ) [this](ayam) [lord](īśvaraḥ) [established](pratipāditaḥ)
+[liṃga-ānanda-mayaḥ](liṃgānaṃdamayo) [yaḥ](yo) [ayam]('yam) [īśvaraḥ](īśvaraḥ) [pratipāditaḥ](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-[some](kecit) [them](tān) [worship](pūjayaṃ) [indeed](tyeva) [enjoyment-only](bhogamātra) [averse](parāṅmukhān)
+[kecit](kecit) [tān](tān) [pūjayant](pūjayaṃ) [eva](tyeva) [bhoga-mātra](bhogamātra) [parāṅmukhān](parāṅmukhān)
 
 ## mukta-m0-p05-v121
-[others](anyān) [also](api) [pleasure-attached](sukhāsaktān) [bind](saṃdadhate) [welfare](hite)
+[anyānyapi](anyānyapi) [sukha-āsaktān](sukhāsaktān) [ati](āti) [saṃdadhate](saṃdadhate) [hite](hite)
 
 ## mukta-m0-p05-v122
-[foolish-actions](mūrkhapravṛttayaḥ) [some](kecit) [benefit-harm-averse](hitāhitaparāṅmukhāḥ)
+[mūrkha-pravṛttayaḥ](mūrkhapravṛttayaḥ) [kecit](kecit) [hita-ahita](hitāhita) [parāṅmukhāḥ](parāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-[destruction](vināśam) [indeed](eva) [go](gacchaṃti) [blaming](niṃdataḥ) [linga-lord](laiṃgamīśvaram)
+[vināśam](vināśameva) [eva](eva) [gacchanti](gacchaṃti) [niṃdataḥ](niṃdato) [ulaiṃgam](laiṃgam) [īśvaram](īśvaram)
 
 ## mukta-m0-p05-v124
-[not-stone-made](nāśmanānirmitaṃ) [goddess](devī) [not-iron](nāyasāna) [and](ca) [wood](dārubhiḥ)
+[na](nā) [aśmanā](śmanā) [nirmitam](nirmitaṃ) [devī](devī) [na](nā) [ayasā](yasāna) [na](na) [ca](ca) [dārubhiḥ](dārubhiḥ)
 
 ## mukta-m0-p05-v125
-[elements](dhātūnāṃ) [and](ca) [nature](svarūpaṃ) [that-transformation](tatpariṇāmaḥ) [indeed](hi) [semen](retasaḥ)
+[dhātūnām](dhātūnāṃ) [ca](ca) [svarūpam](svarūpaṃ) [tat](tat) [pariṇāmaḥ](pariṇāmo) [hi](hi) [retasaḥ](retasaḥ)
