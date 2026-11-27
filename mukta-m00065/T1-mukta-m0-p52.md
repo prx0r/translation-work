@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-sūtra-madhye ardha-sūtreṇa matsyān koṇeṣu sarvataḥ
+[sūtra+middle](sūtramadhye) [half+sūtra+instrumental](ardhasūtreṇa) [fish+accusative](matsyān) [corner+locative](koṇeṣu) [all+from](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-veda-asraṃ piṇḍikā-kṣetraṃ kuṇḍānām api sarvadā
+[veda+thread](vedāsraṃ) [pedestal+field](piṇḍikākṣetraṃ) [kuṇḍa+genitive](kuṇḍānāmapi) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-madhyāt madhya-gataṃ sūtraṃ koṇaṃ saṃveṣṭya ca aparam
+[middle+from](madhyānmadhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [surrounding](saṃveṣdya) [other](cāparam)
 
 ## mukta-m0-p52-v1279
-tad-sūtra-dvaya-saṃyogāt sādhayet vā tri-parṇikām
+[that+thread+pair+union](tatsūtradvayasaṃyogātsādhayedvā) [three+leaf](triparṇikām)
 
 ## mukta-m0-p52-v1280
-saṃbhrāmya madhyataḥ sūtraṃ sādhayet ardha-candrikām
+[revolving](saṃbhrāmya) [middle+from](madhyataḥ) [thread](sūtraṃ) [half+moon](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-rakṣaḥ-agni-saumya-kāṣṭhāsu tām tri-sūtrī tri-koṇikām
+[demon+fire+gentle+wood](rakṣo'gnisaumyakāṣṭhāsu) [three+thread+triangle](trisūtryatrikoṇikām)
 
 ## mukta-m0-p52-v1282
-madhya-adha-sūtra-saṃbhrāntaiḥ piṇḍikā vartulā bhavet
+[middle+thread+revolving](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-turya-asra-vṛttayoḥ madhye yamandvoḥ sūtra-pātanam
+[fourth+thread+circle+middle](turyāsravṛttayormadhye) [yama+two+thread+casting](yamandvoḥsūtrapātanam)
 
 ## mukta-m0-p52-v1284
-bhavet ṣaḍ-asrikā-piṇḍī śeṣa-rekhā-vilopanāt
+[six+cornered+pedestal](bhavetṣaḍasrikāpiṇḍī) [remaining+line+addition](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-sūtra-madhya-ardha sa-bṛttāt abjā syāt pūrva-coditā
+[thread+middle+half+round](sūtramadhyārdhasabṛttādabjā) [syāt](syāt) [previously+taught](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-madhya-sūtra-ardha-bhāgena koṇāni hrāsayet atha
+[middle+thread+half+part](madhyasūtrārdhabhāgena) [corner+accusative](koṇāni) [diminish](hrāsayedatha)
 
 ## mukta-m0-p52-v1287
-koṇaiḥ sūtra-paricchinnaiḥ kuryāt aṣṭāsrikāṃ sadā
+[corner+instrumental](koṇaiḥ) [thread+bounded](sūtraparicchinnaiḥ) [make+eight+cornered](kuryādaṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-saṃchidya asrīn ca saṃchidya kṛtvā tu daśamāstrikam
+[cutting+thread](saṃchidyāsrīṃśca) [cutting](saṃchidya) [making+ten+cornered](kṛtvātudaśamāstrikam)
 
 ## mukta-m0-p52-v1289
-kartavyā ṣoḍaśa-aṃśaiḥ tu piṇḍikā keśava-āśrayā
+[make+sixteen+part](kartavyāṣoḍakāṃśaistu) [pedestal](piṇḍikā) [keśava+refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-pūrvavat ṣoḍaśa-aṃśaiḥ tu kuryāt dvātriṃśat-asrikām
+[as+before](pūrvavatyoḍaśaṃśaistu) [make+thirty+two+cornered](kuryāddvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-āgneyī bodhi-patrābhā pintara-oga-agni-dāha-kṛt
+[āgneya](āgneyī) [bodhi+leaf+like](bodhipatrābhā) [pintaroga+fire+burning](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-trikoṇā rākṣasājāṃ tu deśaḥ chadakarī sadā
+[triangle](trikoṇā) [rākṣasa+born](rākṣasājāṃ) [tu](tu) [place](deśo) [covering](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-vāyavyā ca ṣaḍ-asrā uktā śatru-uccāṭana-kārikā
+[northwest](vāyavyā) [ca](ca) [six+cornered](ṣaḍasroktā) [enemy+expulsion](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-raudrī tu aṣṭāsrikā jñeyā mukti-dā sāri-nāśinī
+[raudrī](raudrī) [eight+cornered](tvaṣṭāsrikā) [known](jñeyā) [liberation+giving](muktidā) [sin+destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-dvātriṃśat-asrikā vāhnī svarga-ākhyā-phala-dāyinī
+[thirty+two+cornered](dvātriṃśadasrikā) [vāhnī](vāhnī) [heaven+named+fruit+giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-ardha-candra-upamā nīlaṃ śeṣaḥ kodaṇḍa-vat bhavet
+[half+moon+like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow+like](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-piṇḍī-māma-stakādīnāṃ karoti evaṃ vidhaṃ phalam
+[pedestal+head+etc](piṇḍīmāmastakādīnāṃ) [does+thus](karotyevaṃ) [kind+fruit](vidhaṃphalam)
 
 ## mukta-m0-p52-v1298
-bhaga-liṅga-aṅkita sarvaṃ trailokyaṃ sa-cara-acaram
+[bhaga+liṅga+marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three+worlds](trailokyaṃ) [moving+immoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-śiva-liṅgaṃ paraṃ tac caṃ tayoḥ yogāt mahat-phalam
+[śiva+liṅga](śivaliṅgaṃ) [supreme](paraṃ) [taccaṃ](taccaṃ) [their+union](tayoryogā) [great+fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-dala-aṅghri-gartikā kūrmaḥ vedāsrā va-liṅga-artinī
+[petal+foot+cavity](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda+thread](vedāsrā) [liṅga+holding](valiṅgartinī)
