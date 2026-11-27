@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-thus-of-these absence but mercury diamond-joined
+[ityeteṣām](ityeteṣām) [abhāve](abhāve) [tu](tu) [rasendraṃ](rasendraṃ) [vajra+saṃyutam](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-cow-sarja-with and indeed plaster color-nourishment-for
+[gavya+sarja+yutaiḥ](gavyasarjayutaiḥ) [ca](ca) [eva](eva) [lepyaṃ](lepyaṃ) [varṇaka+puṣṭaye](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-good-door-constellation-season-joined indeed beautiful-ascendant-accompanied
+[sad+vāra+ṛkṣa+ṛtu+yuktena](sadvārarkṣartuyuktena) [hi](hi) [cāru+lagna+samanvite](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-divine-sky-earthly auspicious-inauspicious-fruit-obtaining-for
+[divya+āntarikṣa+bhaumāni](divyāntarikṣabhaumāni) [śubha+aśubha+phala+āptaye](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-etc auspicious-doing-divine therefore inauspicious-doing this
+[ityādi](ityādi) [śubha+kṛt+divyam](śubhakṛddivyam) [atas](atas) [aśubha+karaṃ](aśubhakaraṃ) [tu](tu) [idam](idam)
 
 ## mukta-m0-p05-v106
-direction-burning fierce-wind and moon-sun-eclipse
+[dig+dāhaḥ](digdāhaḥ) [tīvra+vātaḥ](tīvravātaḥ) [ca](ca) [candra+sūrya+upamardanam](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-indra-tree-top-abiding offering-eater sweet-sound
+[vāsa+vṛkṣa+agra+saṃsthāyi](vāsavṛkṣāgrasaṃsthāyi) [bali+bhuṅ+madhura+ārutiḥ](balibhuṅmadhurārutiḥ)
 
 ## mukta-m0-p05-v108
-dust-blood-raining terrible sky-inauspicious
+[pāṃśu+asṛk+varṣaṇaṃ](pāṃśvasṛgvarṣaṇaṃ) [ghoram](ghoram) [āntarikṣam](āntarikṣam) [aśobhanam](aśobhanam)
 
 ## mukta-m0-p05-v109
-curd-rice-barley durva lamp gorocana banner
+[dadhi+akṣata+yavā](dadhyakṣatayavā) [dūrvā](dūrvā) [dīpaḥ](dīpaḥ) [gorocanā](gorocanā) [dhvajaḥ](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-cow-bull and donkey horse ash-eyed king elephant
+[go+vṛṣaḥ](govṛṣaḥ) [ca](ca) [kharaḥ](kharaḥ) [vājī](vājī) [bhasma+akṣaḥ](bhasmākṣaḥ) [bhūpatiḥ](bhūpatiḥ) [dvipaḥ](dvipaḥ)
 
 ## mukta-m0-p05-v111
-shiva shiva-water-pot-abiding kushika left auspicious
+[śivaḥ](śivaḥ) [śiva+udaka+kumbha+sthaḥ](śivodakuṃbhasthaḥ) [kauśikaḥ](kauśikaḥ) [vāmataḥ](vāmataḥ) [śubhaḥ](śubhaḥ)
 
 ## mukta-m0-p05-v112
-loose-haired throwing alkali charcoal and wood and
+[mukta+keśaḥ](muktakeśaḥ) [parākṣepaḥ](parākṣepaḥ) [kṣāraḥ](kṣāraḥ) [aṅgāraḥ](aṅgāraḥ) [ca](ca) [dāru](dāru) [ca](ca)
 
 ## mukta-m0-p05-v113
-cut-limbed eyeless sick skull-bearer earth-trembling
+[chinna+aṅgaḥ](chinnāṅgaḥ) [a+locanaḥ](alocanaḥ) [rogī](rogī) [kapālī](kapālī) [bhū+prakampanaḥ](bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-hunger-thirst-mad two thread and herbs-seeking-collection
+[kṣut+kṣāma+unmattakau](kṣutkṣāmonmattakau) [tantuḥ](tantuḥ) [ca](ca) [oṣadhī+ṣaṇa+sañcayaḥ](oṣadhīṣaṇasañcayaḥ)
 
 ## mukta-m0-p05-v115
-fortnight-half indeed abandoning departure done auspicious
+[pakṣa+ardha+ardhaṃ](pakṣārdhārdhaṃ) [tu](tu) [saṃtyajya](saṃtyajya) [prasthānaṃ](prasthānaṃ) [kriyate](kriyate) [śubhe](śubhe)
 
 ## mukta-m0-p05-v116
-veda for be two travelers fire-staff-not-crossing
+[vedase](vedase) [syāt](syāt) [vite](vite) [yātā](yātā) [tu](tu) [agni+daṇḍa+anatikramāt](agnidaṇḍānatikramāt)
 
 ## mukta-m0-p05-v117
-desired-beginning shankara praised east-ishendra-forest go
+[iṣṭa+ādau](iṣṭādau) [śaṅkaraṃ](śaṅkaraṃ) [śastaṃ](śastaṃ) [prāg+īśa+indu+vanaṃ](prāgīśenduvanaṃ) [vrajet](vrajet)
 
 ## mukta-m0-p05-v118
-mercury-sun-moon-venus jupiter tree east-north-situated
+[budha+arka+indu+site](budhārkendusite) [jīve](jīve) [vā](vā) [ṛkṣe](ṛkṣe) [prāg+uttara+sthite](prāguttarasthite)
 
 ## mukta-m0-p05-v119
-one-interval stars remainder and inauspicious-action
+[eka+antarāsu](ekāntarāsu) [tārāsu](tārāsu) [śeṣe](śeṣe) [ca](ca) [aniṣṭa+karmaṇi](aniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-nishadha blue-scent-named shanki-ketu mountain-lords
+[niṣadhaḥ](niṣadhaḥ) [nīla+gandha+ākhyaḥ](nīlagandhākhyaḥ) [śaṅgī](śaṅgī) [ketuḥ](ketuḥ) [naga+adhipāḥ](nagādhipāḥ)
 
 ## mukta-m0-p05-v121
-nanda-named malaya vindhya ujjayanta then rikshaka
+[nandā+ākhyaḥ](nandākhyaḥ) [malayaḥ](malayaḥ) [vindhyaḥ](vindhyaḥ) [ujjayantaḥ](ujjayantaḥ) [atha](atha) [ṛkṣakaḥ](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-yojanas ten of-these mountains near forest
+[yojanāni](yojanāni) [daśa](daśa) [eteṣāṃ](eteṣāṃ) [girīṇāṃ](girīṇāṃ) [nikaṭe](nikaṭe) [vanam](vanam)
 
 ## mukta-m0-p05-v123
-this-field-arisen who indeed stones trees auspicious
+[etat+kṣetra+utthitāḥ](etatkṣetrotthitāḥ) [ye](ye) [tu](tu) [pāṣāṇāḥ](pāṣāṇāḥ) [taravaḥ](taravaḥ) [śubhāḥ](śubhāḥ)
 
 ## mukta-m0-p05-v124
-with-teacher adept artisan-people surrounded auspicious
+[sa+ācāryaḥ](sācāryaḥ) [sādhakaḥ](sādhakaḥ) [śilpi+janaiḥ](śilpijanaiḥ) [parivataḥ](parivataḥ) [śubhaiḥ](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-meditating below material principle shiva-principle-made earth
+[dhyātvā](dhyātvā) [adhaḥ](adhaḥ) [prākṛtaṃ](prākṛtaṃ) [tattvaṃ](tattvaṃ) [śiva+tattva+mayīṃ](śivatattvamayīṃ) [mahīm](mahīm)
