@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[gloss](hemante) [gloss](jñānadaṃ) [gloss](liṅgaṃ) [gloss](śiśire) [gloss](sarvabhūtidam)
+[in-winter](hemante) [knowledge-giving](jñānadaṃ) [linga](liṅgaṃ) [in-cool-season](śiśire) [all-being-giving](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-[gloss](yatīnāṃ) [gloss](sarvakāleṣu) [gloss](liṅgasyāropaṇaṃ) [gloss](matam)
+[of-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [of-linga](liṅgasya) [installation](āropaṇaṃ) [considered](matam)
 
 ## mukta-m0-p56-v1378
-[gloss](dakṣiṇetvayane) [gloss](apūjyaṃ) [gloss](trivarṣordhvaṃ) [gloss](bhayāvaham)
+[in-southern-solstice](dakṣiṇe+ayane) [not-to-be-worshipped](apūjyaṃ) [beyond-three-years](trivarṣa+ūrdhvaṃ) [fear-bringing](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-[gloss](kṣayāya) [gloss](bṛddhaye) [gloss](syācca) [gloss](yāmye) [gloss](saumye'pare) [gloss](ravau)
+[for-decay](kṣayāya) [for-growth](bṛddhaye) [may-be](syāt+ca) [in-southern](yāmye) [in-northern](saumye) [other-sun](apare+ravau)
 
 ## mukta-m0-p56-v1380
-[gloss](ṣaṭṣaṇmāsottarāṃstryabdān) [gloss](mayamatāt) [gloss](phalaṃ) [gloss](kramāt)
+[six-six-months-beyond](ṣaṭ+ṣaṇ+māsa+uttarāṃs) [three-years](tri+abdān) [maya-opinion](maya+matāt) [fruit](phalaṃ) [sequentially](kramāt)
 
 ## mukta-m0-p56-v1381
-[gloss](abhicāro) [gloss](bhavettatra) [gloss](sthāpite) [gloss](dakṣiṇe'yane)
+[sorcery](abhicāraḥ) [may-be](bhavet) [there](tatra) [installed](sthāpite) [in-southern-solstice](dakṣiṇe+ayane)
 
 ## mukta-m0-p56-v1382
-[gloss](kumārāḥ) [gloss](saṃprapīḍyante) [gloss](kanyānāśaśca) [gloss](jāyate)
+[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [girls-destruction](kanyā+nāśaḥ) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p56-v1383
-[gloss](kartuḥ) [gloss](kṣayaḥ) [gloss](sadāśoko) [gloss](gṛhe) [gloss](bhavati) [gloss](dāruṇaḥ)
+[of-doer](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadā+śokaḥ) [in-house](gṛhe) [becomes-terrible](bhavati+dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[gloss](śubhārthī) [gloss](na) [gloss](pravarteta) [gloss](devyā) [gloss](mantrādiśāstrataḥ)
+[auspicious-seeker](śubha+arthī) [not](na) [proceed](pravarteta) [goddess](devyāḥ) [mantra-etc-scripture](mantra+ādi+śāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[gloss](tasmātsthānaṃ) [gloss](guruṃ) [gloss](prāpya) [gloss](rakṣaye) [gloss](dābhicārikam)
+[therefore](tasmāt) [place](sthānaṃ) [guru](guruṃ) [obtaining](prāpya) [protect](rakṣaye) [from-sorcery](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-[gloss](sthāpanaṃ) [gloss](tu) [gloss](prakartavyaṃ) [gloss](śiśirādāvṛtutraye)
+[installation](sthāpanaṃ) [indeed](tu) [to-be-done](prakartavyaṃ) [from-cool-season](śiśirāt) [three-seasons](ādi+ṛtu+traye)
 
 ## mukta-m0-p56-v1387
-[gloss](sacandratārakāyoge) [gloss](sulagnakaraṇānvitate)
+[with-moon-star-conjunction](sa+candra+tāraka+yoge) [good-lagna-karana-accompanied](su+lagna+karaṇa+anvite)
 
 ## mukta-m0-p56-v1388
-[gloss](advaite) [gloss](caiva) [gloss](kṛsṇe'pi) [gloss](mantramūrti) [gloss](prabhedataḥ)
+[non-dual](advaite) [and](ca) [also](eva) [dark](kṛṣṇe) [also](api) [mantra-form](mantra+mūrti) [distinction](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-[gloss](pāñcarātrārharet) [gloss](miśrā) [gloss](pañcāśadvarṣasaṃsthitiḥ)
+[pañcarātra-worthy](pāñcarātra+arha) [mixed](miśrā) [fifty-year-establishment](pañcāśat+varṣa+saṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-[gloss](śātābdorvbaṃ) [gloss](tu) [gloss](sā) [gloss](tiṣṭhedvāṇaliṅgaṃ) [gloss](svayambhubat)
+[hundred-years](śata+abda) [then](tu) [it-stands](sā+tiṣṭhet) [bana-linga](vāṇa+liṅgaṃ) [like-self-born](svayambhu+vat)
 
 ## mukta-m0-p56-v1391
-[gloss](bahvarthatvānipātānāṃ) [gloss](saṃskārādau) [gloss](pratiṣṭhitiḥ)
+[many-meaning-fall](bahvartha+tvāni+pātānāṃ) [purification-etc](saṃskāra+ādau) [installation](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-[gloss](saṃskṛtā) [gloss](dravyasanmantrasaṃskṛtiryā) [gloss](suragya) [gloss](ca)
+[purified](saṃskṛtā) [substance](dravya) [mantra-purification](mantra+saṃskṛtiḥ) [which](yā) [divine](suragya) [and](ca)
 
 ## mukta-m0-p56-v1393
-[gloss](pratimāṃ) [gloss](pañcabhedaistu) [gloss](pratiṣṭhā) [gloss](pañcadhoditā)
+[image](pratimāṃ) [five-divisions](pañca+bhedais) [indeed](tu) [installation](pratiṣṭhā) [fivefold-said](pañcadhā+uditā)
 
 ## mukta-m0-p56-v1394
-[gloss](dvitīyāyumati) [gloss](dadyāttṛtīyā) [gloss](putrasaṃpadaḥ)
+[second](dvitīyā) [life-giving](āyu+mati) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putra+saṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-[gloss](daśamī) [gloss](bhūmilābhaṃ) [gloss](saubhāgyaṃ) [gloss](ca) [gloss](trayodaśī)
+[tenth](daśamī) [land-gain](bhūmi+lābhaṃ) [and](ca) [fortune](saubhāgyaṃ) [and](ca) [thirteenth](trayodaśī)
 
 ## mukta-m0-p56-v1396
-[gloss](ekartuśaṅkarairnandā) [gloss](bhadrā) [gloss](pakṣarṣibhānubhiḥ)
+[one](eka) [shankara](śaṅkara) [nanda](nandā) [bhadrā](bhadrā) [fortnight-rishi-sun](pakṣa+ṛṣi+bhānu+bhiḥ)
 
 ## mukta-m0-p56-v1397
-[gloss](bāṇadiktithibhiḥ) [gloss](pūrṇā) [gloss](hīnatulyāhitāḥ) [gloss](kramāt)
+[bana-direction-tithi](bāṇa+dik+tithi+bhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīna+tulya+āhitāḥ) [sequentially](kramāt)
 
 ## mukta-m0-p56-v1398
-[gloss](vṛhaspatirdvipañcāyurbudyo) [gloss](jayadhanāni) [gloss](ca)
+[jupiter](vṛhaspatiḥ) [two-five-age](dvi+pañca+āyuḥ) [buddhi](buddhiḥ) [victory-wealth](jaya+dhana+āni) [and](ca)
 
 ## mukta-m0-p56-v1399
-[gloss](karka) [gloss](vṛṣatulācāpastrīsiṃhagrāhayugmake)
+[cancer](karka) [taurus-libra-sagittarius](vṛṣa+tulā+cāpa) [woman-lion-planet-pair](strī+siṃha+grāha+yugmake)
 
 ## mukta-m0-p56-v1400
-[gloss](ṣaḍaṣṭacaturoyāmāccatū) [gloss](rāśikrameṇa) [gloss](tu)
+[six-eight-four-yama](ṣaṭ+aṣṭa+catur+yāmāt) [four](catuḥ) [zodiac-sequentially](rāśi+krameṇa) [indeed](tu)

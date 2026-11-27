@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[ānanda-devatā-sthānam](ānaṃdadevatāsthānam) [asmin](asmin) [liṃge](liṃge) [maheśvari](maheśvari)
-
+[bliss](ānanda)+[deity](devatā)+[abode](sthānam)+[in-this](asmin) [linga](liṃge) [great-lady](maheśvari)
 ## mukta-m0-p01-v2
-[yadā](yadā) [sva-śakti-pātena](svaśaktipātena) [prabuddhaḥ](prabuddhaḥ) [sa](sa) [vimarśavān](vimarśavān)
-
+[when](yadā)+[own](sva)+[power](śakti)+[descent](pātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
 ## mukta-m0-p01-v3
-[tadā](tadā) [sa](sa) [deśikaḥ](deśikaḥ) [śaivyā](śaivyā) [dṛṣṭyā](dṛṣṭyā) [tasya](tasya) [nava-ātmanaḥ](navātmanaḥ)
-
+[then](tadā) [he](sa) [teacher](deśikaḥ) [by-śivā's](śaivyā) [gaze](dṛṣṭyā) [of-him](tasya) [new](nava)+[self](ātmanaḥ)
 ## mukta-m0-p01-v4
-[anya-deva](anyadeva) [punar-bhūyāt](punarbhūyāt) [kaulikasya](kaulikasya) [mahātmanaḥ](mahātmanaḥ)
-
+[another](anyat)+[indeed](eva) [again](punar)+[may-become](bhūyāt) [of-the-kaulika](kaulikasya) [great-soul](mahātmanaḥ)
 ## mukta-m0-p01-v5
-[kulaṃ](kulaṃ) [jātiḥ](jātiśca) [ca](ca) [śīlaṃ](śīlaṃ) [ca](ca) [apy](apy) [aṣṭau](aṣṭau) [pāśāḥ](pāśāḥ) [prakīrtitāḥ](prakīrtitāḥ)
-
+[family](kulaṃ) [birth](jātiḥ)+[and](ca) [character](śīlaṃ) [and](ca)+[also](api) [eight](aṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 ## mukta-m0-p01-v6
-[tasya](tasya) [bhaktasya](bhaktasya) [sakalaṃ](sakalaṃ) [vapuḥ](vapuḥ) [sukṣetram](sukṣetram) [ucyate](ucyate)
-
+[of-him](tasya) [devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field](sukṣetram)+[is-called](ucyate)
 ## mukta-m0-p01-v7
-[śāktiḥ](śāktiḥ) [śakti-unmīlanena](śaktyunmīlanena) [māṃtrī](māṃtrī) [maṃtra-upadeśataḥ](maṃtropadeśataḥ)
-
+[śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
 ## mukta-m0-p01-v8
-[etābhiḥ](etābhiḥ) [tisṛbhiḥ](tisṛbhiścaiva) [ca](ca) [eva](eva) [dīkṣābhiḥ](dīkṣābhirdīkṣito) [dīkṣitaḥ](dīkṣito) [naraḥ](naraḥ)
-
+[by-these](etābhiḥ) [three](tisṛbhiḥ)+[also](ca)+[indeed](eva) [initiations](dīkṣābhiḥ) [initiated](dīkṣito) [man](naraḥ)
 ## mukta-m0-p01-v9
-[bodha-liṃga-svarūpaḥ](bodhaliṃgasvarūpo'sau) [asau](asau) [jāyate](jāyate) [vāsanā-kṣayāt](vāsanākṣayāt)
-
+[consciousness-linga-form](bodhaliṃgasvarūpaḥ)+[he](asau) [becomes](jāyate) [by-vasana-destruction](vāsanākṣayāt)
 ## mukta-m0-p01-v10
-[strī-dviṣṭaṃ](stridviṣṭaṃ) [loka-vidviṣṭam](lokavidviṣṭamālasyaṃ) [ālasyaṃ](ālasyaṃ) [ca](ca) [eva](caiva) [cāpalam](cāpalam)
-
+[woman-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭam)+[and](ca)+[also](eva) [laziness](ālasyaṃ) [and](ca)+[also](eva) [fickleness](cāpalam)
 ## mukta-m0-p01-v11
-[para-dāra-avamarśaṃ](paradārāvamarśaṃ) [ca](ca) [para-drohasya](paradrohasya) [ciṃtanam](ciṃtanam)
-
+[other's-wife-touching](paradārāvamarśaṃ) [and](ca) [other's-harm](paradrohasya) [thinking](ciṃtanam)
 ## mukta-m0-p01-v12
-[ati-niṣṭura-śīlatvam](atiniṣṭuraśīlatvamatidainyamatigrahaḥ) [ati-dainyam](atidainyam) [ati-grahaḥ](atigrahaḥ)
-
+[excessive-harsh-character](atiniṣṭuraśīlatvam)+[excessive-wretchedness](atidainyam)+[excessive-grasping](atigrahaḥ)
 ## mukta-m0-p01-v13
-[ity-ādayaḥ](ityādayo) [mahā-doṣāḥ](mahādoṣāḥ) [deśikasya](deśikasya) [eva](eva) [vīkṣaṇāt](vīkṣaṇāt)
-
+[and-so-forth](ityādayaḥ) [great-faults](mahādoṣāḥ) [of-the-teacher](deśikasya)+[indeed](eva) [from-seeing](vīkṣaṇāt)
 ## mukta-m0-p01-v14
-[kalā](kalā) [vidyā](vidyā) [ca](ca) [rāgaḥ](rāgaśca) [ca](ca) [niyatiḥ](niyatiḥ) [kālaḥ](kāla) [eva](eva) [ca](ca)
-
+[arts](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaḥ)+[and](ca) [order](niyatiḥ) [time](kālaḥ) [indeed](eva) [and](ca)
 ## mukta-m0-p01-v15
-[etābhiḥ](etābhiḥ) [eva](eva) [tīvrābhiḥ](tīvrābhiḥ) [śaktibhiḥ](śaktibhiḥ) [kañcuka-aṭamabhiḥ](kañcukāṭamabhiḥ)
-
+[by-these](etābhiḥ)+[indeed](eva) [fierce](tīvrābhiḥ) [powers](śaktibhiḥ) [sheaths](kañcukāṭamabhiḥ)
 ## mukta-m0-p01-v16
-[tābhiḥ](tābhiḥ) [jīvatvam](jīvatvam) [āpannaḥ](āpannaḥ) [saṃsārī](saṃsārī) [iva](iva) [viceṣṭate](viceṣṭate)
-
+[by-them](tābhiḥ)+[jiva-hood](jivatvam)+[attained](āpannaḥ) [like-a-samsarin](saṃsārīva) [struggles](viceṣṭate)
 ## mukta-m0-p01-v17
-[itastataḥ](itastato) [hṛtaṃ](hṛtaṃ) [jīvaḥ](jīvaḥ) [svayam](svayameva) [eva](eva) [svam](svam) [āmṛśan](āmṛśan)
-
+[hither-thither](itastataḥ) [taken](hṛtaṃ) [jiva](jīvaḥ) [by-himself](svayameva) [his-own](svam)+[reflecting](āmṛśan)
 ## mukta-m0-p01-v18
-[pratibimba](pratibimba) [na](na) [sāmarthyān](sāmarthyān) [maline](maline) [darpaṇe](darpaṇe) [yathā](yathā)
-
+[reflection](pratibimba) [not](na) [by-capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
 ## mukta-m0-p01-v19
-[tasmāt](tasmān) [mala-praṇāśena](malapraṇāśena) [śivatā-patti-kāraṇā](śivatāpattikāraṇā)
-
+[therefore](tasmāt)+[by-impurity-destruction](malapraṇāśena) [shiva-state-attainment-cause](śivatāpattikāraṇā)
 ## mukta-m0-p01-v20
-[anādi-avidyā-vaśataḥ](anādyavidyāvaśato) [mala-rāśiḥ](malarāśirmahān) [mahān](mahān) [yadi](yadi)
-
+[beginningless-ignorance](anādyavidyā)+[by-power](vaśataḥ) [impurity-mass](malarāśiḥ)+[great](mahān) [if](yadi)
 ## mukta-m0-p01-v21
-[kālāgni-koṭi-vat](kālāgnikoṭivaddīptāṃ) [dīptāṃ](dīptāṃ) [dahantīṃ](dahantīṃ) [pāśam](pāśam) [ujvalām](ujvalām)
-
+[time-fire-million-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśam)+[blazing](ujvalām)
 ## mukta-m0-p01-v22
-[nijāṃ](nijāṃ) [śaktim](śaktimanuṃ) [anu](anu) [dhyāyet](dhyāyed) [guru-vīkṣaṇa-nirmalām](guruvīkṣaṇanirmalām)
-
+[own](nijāṃ) [power](śaktim)+[mantra](anuṃ) [meditate](dhyāyed) [guru-gaze-purified](guruvīkṣaṇanirmalām)
 ## mukta-m0-p01-v23
-[tāvat](tāvad) [dhyānam](dhyānamidaṃ) [idaṃ](idaṃ) [kāryaṃ](kāryaṃ) [sarva-dur-mala-kartanam](sarvadurmalakartanam)
-
+[so-long](tāvad) [meditation](dhyānam)+[this](idam) [to-be-done](kāryaṃ) [all-impurity-destroying](sarvadurmalakartanam)
 ## mukta-m0-p01-v24
-[svayam](svayameva) [eva](eva) [prakāśeta](prakāśeta) [svātmā](svātmā) [saubhāgya-bhājanam](saubhāgyabhājanam)
-
+[by-himself](svayameva) [shines](prakāśeta) [own-self](svātmā) [fortune-vessel](saubhāgyabhājanam)
 ## mukta-m0-p01-v25
-[bhāsate](bhāsate)
+[shines](bhāsate)
