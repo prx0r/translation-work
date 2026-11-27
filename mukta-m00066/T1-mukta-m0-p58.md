@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-seen all of-action occurrence not in-pot occurs
+[seen](dṛṣṭa) [all](sarvā) [of-ability](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [occurs](ghaṭe) [is](bhavat)
 
 ## mukta-m0-p58-v1427
-three-ness indeed of-practice also expectation here accepted
+[threefold](tritvantu) [of-practice](vyavahārasya) [also](api) [expectation](apekṣa) [here](atra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-ninth Shiva-principle indeed by-sound to-be-manifested here now
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyam) [here](iha) [now](adhunā)
 
 ## mukta-m0-p58-v1429
-sound-manifestness abandoning by-self-witness shines
+[sound-manifestation](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-self-support of-wind-one indifferent darkness remembered
+[self-support](svāśrayo) [of-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-Shiva indeed all-support may-be there properly distinguished
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-in-earth by-siddhi-beginning-form wind-cloud-snow-nature
+[in-earth](mahyāṃ) [siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-sound-this-? water-air refuge told dear
+[sound-this-ghī-water-wind](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-aggregate and of-earth-etc as-body proclaimed
+[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-by-breath moving what that conscious? here called
+[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [sentient](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-mind-refuge living conscious with-body remembered
+[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [sentient](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-of-all-here-principles modification from-quality-difference born
+[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-aggregate-born and aggregates many not-one-formed
+[aggregates-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-formed](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-by-much what here said what principles other inert
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principle](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-un-cuttable this un-burnable un-wettable un-dryable indeed and
+[uncuttable](acchedyo) [unburnable](adāhoya) [unwettable](makledyo) [undryable](aśoṣya) [thus](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
-of-all-universe begetter of-all-universe protector
+[of-all-universe](sarvaviśvasya) [begetter](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-he mountain-island-ocean-forest all-earth
+[that](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-these visible indeed counted earth-dwelling-worshipped
+[these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-light-wheel all and wind not indeed moved
+[light-wheel](jyotiścakraṃ) [all](samastaṃ) [ca](ca) [wind](vāyu) [not](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-always moves somewhere always and still somewhere
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [ca](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-when flows quickly with-sound that impelled
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tat) [rises](udyate)
 
 ## mukta-m0-p58-v1447
-this indeed principle told of-him other powers
+[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitam) [of-this](asya) [eva](eva) [other](anyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-that that-scripture establishment all told mountain-daughter
+[that](tat) [that-śāstra](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-elsewhere my what something to-be-asked touched in-mind
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-many creature-net dense incessantly
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
