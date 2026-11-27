@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-lokānāṃ śubha-vṛddhi-dāyakam idaṃ pātraṃ dvitīyaṃ namaḥ
+[worlds-of](lokānāṃ) [auspicious](śubha) [increase](vṛddhi) [giving](dāyakaṃ) [this](idaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
+
 ## mukta-m0-p46-v1127
-pāyāt pañcama-kāra-tattva-sahitaṃ pātraṃ tṛtīyaṃ namaḥ
+[preserve](pāyāt) [five](pañcama) [letter](kāra) [principle](tattva) [accompanied](sahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
+
 ## mukta-m0-p46-v1128
-tat-pātraṃ-ca samasta-puṇya-sukha-daṃ pātraṃ caturthaṃ namaḥ
+[that-vessel-and](tatpātrañca) [all](samasta) [merit](puṇya) [happiness](sukha) [giving](daṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
+
 ## mukta-m0-p46-v1129
-pīta-brahma-rasaṃ sadodyata-karaṃ pātraṃ bhaje pañcakam
+[drunk](pīta) [brahma](brahma) [essence](rasaṃ) [always](sadā) [raised](udyata) [hand](karaṃ) [vessel](pātraṃ) [worship](bhaje) [fivefold](pañcakam)
+
 ## mukta-m0-p46-v1130
-śrīmat sundarī tarpaṇaṃ drava-rasaṃ pātraṃ-ca ṣaṣṭhaṃ bhaje
+[glorious](śrīmat) [beautiful](sundarī) [satisfaction](tarpaṇaṃ) [liquid](drava) [essence](rasaṃ) [vessel-and](pātrañca) [sixth](ṣaṣṭhaṃ) [worship](bhaje)
+
 ## mukta-m0-p46-v1131
-pātraṃ saptama-pūraṇe bhava-bhaya-ānanda-adhikaḥ pātu mām
+[vessel](pātraṃ) [seventh](saptama) [filling](pūraṇe) [world-fear-joy](bhavabhayānandaḥ) [greater](adhikaḥ) [protect](pātu) [me](mām)
+
 ## mukta-m0-p46-v1132
-pātraṃ-ca-aṣṭamam aṣṭa-siddhi-karaṇaṃ prauḍha prasannaṃ sadā
+[vessel-and](pātrañca) [eighth](aṣṭama) [eight](aṣṭa) [accomplishments](siddhi) [making](karaṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
+
 ## mukta-m0-p46-v1133
-pātraṃ yat nava-nātha-śakti-sahitaṃ sarva-artha-siddhi-pradam
+[vessel](pātraṃ) [which](yat) [nine](nava) [lord](nātha) [power](śakti) [accompanied](sahitaṃ) [all](sarva) [purpose](artha) [accomplishment](siddhi) [giving](pradam)
+
 ## mukta-m0-p46-v1134
-iti śrī-sarva-ānanda-nātha-viracite sarva-ullāsa-pañca-triṃśad-ullāsaḥ
+[thus](iti) [glorious](śrī) [all-bliss-lord](sarvānandanātha) [composed](viracite) [all-exaltation](sarvvollāsa) [thirty-five](pañcatriṃśad) [chapter](ullāsaḥ)
+
 ## mukta-m0-p46-v1135
-vikalpaḥ na-atra kartavyaḥ kṛte ca maraṇaṃ bhavet
+[option](vikalpaḥ) [not](na) [here](atra) [to-be-done](kartavyaḥ) [done](kṛte) [and](ca) [death](maraṇaṃ) [becomes](bhavet)
+
 ## mukta-m0-p46-v1136
-dīyamānaṃ mahā-mantraṃ kathayāmi śṛṇu priye
+[given](dīyamānaṃ) [great](mahā) [mantra](mantraṃ) [tell](kathayāmi) [listen](śṛṇu) [beloved](priye)
+
 ## mukta-m0-p46-v1137
-svīkṛtya subhage devi jayaṃ dehi punaḥ punaḥ
+[accepting](svīkṛtya) [auspicious](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again](punaḥ) [again](punaḥ)
+
 ## mukta-m0-p46-v1138
-sva-pātre kāraṇe miśraṃ pived ānanda-hetave
+[own-vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [drink](pived) [bliss](ānanda) [for-sake](hetave)
+
 ## mukta-m0-p46-v1139
-śakti-rūpā mahā-devī kevala-ānanda-varddhinī
+[power-form](śaktirūpā) [great-goddess](mahādevī) [pure-bliss-increasing](kevalānandavarddhinī)
+
 ## mukta-m0-p46-v1140
-sādhakasya kriyā-ānande tejīyaḥ rūpa-dhāriṇī
+[practitioner's](sādhakasya) [action-bliss](kriyānande) [radiant](tejīyaḥ) [form-bearing](rūpadhāriṇī)
+
 ## mukta-m0-p46-v1141
-tathā nārī narasya-api sarva-kārya-prakāśikā
+[thus](tathā) [woman](nārī) [of-man](narasya) [also](api) [all-works-revealing](sarvakāryaprakāśikā)
+
 ## mukta-m0-p46-v1142
-svīkṛtya kāraṇaṃ devi paścāt kāryāṇi sādhayet
+[accepting](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterwards](paścāt) [works](kāryāṇi) [accomplish](sādhayet)
+
 ## mukta-m0-p46-v1143
-prāṇāyāmaṃ tṛtīye ca caturthe japaṃ āharet
+[breath-control](prāṇāyāmaṃ) [third](gṛtīye) [and](ca) [fourth](caturthe) [japa](japa) [bring](āharet)
+
 ## mukta-m0-p46-v1144
-pañcamaṃ pātra-sahitaṃ cakrasya lakṣaṇaṃ śive
+[fifth](pañcamaṃ) [vessel-accompanied](pātrasahitaṃ) [circle's](cakrasya) [characteristic](lakṣaṇaṃ) [O-Śiva](śive)
+
 ## mukta-m0-p46-v1145
-maithunaṃ parameśāni daśama-ānandaṃ ācaret
+[sexual-union](maithunaṃ) [supreme-goddess](parameśāni) [tenth-bliss](daśamānanda) [practice](ācaret)
+
 ## mukta-m0-p46-v1146
-nāda-bindu-mayaṃ pīṭhaṃ haṃsa-yugmaṃ prakāśitam
+[sound-bindu-made](nādabindumayaṃ) [seat](pīṭhaṃ) [haṃsa-pair](haṃsayugmaṃ) [manifested](prakāśitam)
+
 ## mukta-m0-p46-v1147
-hṛdaye cintayed devaṃ dvi-bhujaṃ śakti-saṃyutam
+[heart](hṛdaye) [meditate](cintayed) [god](devaṃ) [two-armed](dvibhujaṃ) [power-united](śaktisaṃyutam)
+
 ## mukta-m0-p46-v1148
-sat-cit sukha-abhīṣṭa-vara-pradānam
+[being-consciousness](saccit) [happiness-desired-boon-giving](sukhābhīṣṭavarāpradānam)
+
 ## mukta-m0-p46-v1149
-manda-smitaṃ pūrṇa-kṛpā-nidhānam
+[gentle-smile](mandasmitaṃ) [full-compassion-treasury](pūrṇakṛpānidhānam)
+
 ## mukta-m0-p46-v1150
-śrīd-guruṃ nityam ahaṃ namāmi
+[glorious-guru](śrīdguruṃ) [always](nityam) [I](ahaṃ) [bow](namāmi)
