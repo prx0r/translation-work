@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-great-jewel(great-jewel) great-value(great-value) endowed-with-qualities(endowed-with-qualities) should-worship-always(should-worship-always)
+[mahā-ratnam](mahāratnaṃ) [mahā-mūlyam](mahāmūlyaṃ) [guṇa-yuktam](guṇayuktaṃ) [yajet-sadā](yajetsadā)
 
 ## mukta-m0-p03-v52
-well-radiant(well-radiant) fame-and-life(fame-and-life) would-become(would-become) of-king(of-king) long(long)
+[supratāpaḥ](supratāpo) [yaśaḥ-ca-āyuḥ](yaśaścāyur) [bhaveyuḥ](bhaveyur) [nṛpateḥ](nṛpateś) [ciram](ciram)
 
 ## mukta-m0-p03-v53
-blue(blue) yellow(yellow) white(white) and(and) auspicious(auspicious) jewel(jewel) unmade(unmade)
+[nīlam](nīlaṃ) [pītam](pītaṃ) [sitam](sitaṃ) [ca-api](cāpi) [śastam](śastaṃ) [ratnam](ratnam) [anirmitam](anirmitam)
 
 ## mukta-m0-p03-v54
-conch-crystal-like(conch-crystal-like) javā-redness(javā-redness) splendor(splendor)
+[śaṅkha-sphaṭika-saṃkāśam](śaṅkhasphaṭikasaṃkāśaṃ) [javā-ārambhāt-alad-yuti](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-washed-mouthed(washed-mouthed) of-twice-born(of-twice-born) king-worthy(king-worthy) yellow-red(yellow-red)
+[dhauta-āsyābhaḥ](dhautāsyābho) [dvijātīnām](dvijātīnāṃ) [nṛpa-ārhau](nṛpārhau) [pīta-raktakau](pītaraktakau)
 
 ## mukta-m0-p03-v56
-that-mark(that-mark) for-life-increase(for-life-increase) all-disease-destroying(all-disease-destroying)
+[tat-liṅgam](talliṅgam) [āyuṣaḥ](āyuṣo) [vṛddhaye](vṛddhayai) [sarva-roga-vināśakam](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-indra-fire-friend-born(indra-fire-friend-born) fourfold(fourfold) sometimes(sometimes) opinion(opinion)
+[śakra-agni-samitra-uttha](śakrāgnisamitrottha) [caturdhā](caturdhā) [tat](tat) [kvacit](kvacin) [matam](matam)
 
 ## mukta-m0-p03-v58
-autumn-water-like(autumn-water-like) clear(clear) smooth(smooth) crystal(crystal) beneficial(beneficial)
+[śarad-ambu-nibham](śaradambunibhaṃ) [svaccham](svacchaṃ) [snigdham](snigdhaṃ) [ca](ca) [sphaṭikam](sphāṭikaṃ) [hitam](hitam)
 
 ## mukta-m0-p03-v59
-with-embryo-wave-joined(with-embryo-wave-joined) light-pearl-dense(light-pearl-dense) abandon(abandon)
+[sa-garbha-mūrmi-saṃyuktam](sagarbhamūrmisaṃyuktaṃ) [jyotir-mukta-ghanam](jyotirmuktaghanaṃ) [tyajet](tyajet)
 
 ## mukta-m0-p03-v60
-thick(thick) long(long) kusha(kusha) short(short) in-middle-etc(in-middle-etc) thin(thin)
+[sthūlam](sthūlaṃ) [dīrgham](dīrgha) [kuśam](kuśaṃ) [hrasvam](hrasvaṃ) [madhya-ādi-anteṣu](madhyādyanteṣu) [vā](vā) [kṛśam](kṛśam)
 
 ## mukta-m0-p03-v61
-other-born-attached(other-born-attached) and(and) pierced(pierced) fear-causing(fear-causing) abandon(abandon)
+[anya-jāti-vilagnam](anyajātivilagnaṃ) [ca](ca) [viddham](viddhaṃ) [bhīti-karam](bhītikaraṃ) [tyajet](tyajet)
 
 ## mukta-m0-p03-v62
-crystal(crystal) mark(mark) desired-object(desired-object) death-conquering(desire-granting) worship(worship)
+[sphaṭikam](sphāṭikaṃ) [liṅgam](liṅgamiṣṭārthaṃ) [iṣṭa-artham](iṣṭārthaṃ) [mṛtyu-jit](mṛtyujit) [kāma-dam](kāmadaṃ) [yajet](yajet)
 
 ## mukta-m0-p03-v63
-mark(mark) always-fire-sacrifice-like(always-fire-sacrifice-like) worship(worship) no(no) fault-causing(fault-causing) to-men(to-men)
+[liṅgam](liṅgaṃ) [sadā-agnihotra-ābham](sadāgnihotrābhaṃ) [pūjya](pūjya) [na](no) [doṣa-kṛt](doṣakṛt) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p03-v64
-always(always) by-low(low) success(success) would-be(would-be) by-high(high) high(high) by-equal(equal) equal(equal)
+[sadā](sadā) [nimnena](nimnena) [siddhiḥ](siddhiḥ) [syāt](syāt) [ucce](ucce) [tu](tu) [uccā](uccā) [same](same) [samā](samā)
 
 ## mukta-m0-p03-v65
-jewel-linga(jewel-linga) twofold(twofold) called(called) own-pedestal(own-pedestal) metal-pedestal-born(metal-pedestal-born)
+[ratna-liṅgam](ratnaliṅgaṃ) [dvidhā-ākhyātam](dvidhākhyātaṃ) [sva-pīṭham](svapīṭhaṃ) [dhātu-pīṭha-jam](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-movable-linga(movable-linga) twofold(twofold) to-be-made(to-be-made) metal-jewel(metal-jewel) auspicious(auspicious)
+[cala-liṅgam](calaliṅgaṃ) [dvidhā-kāryam](dvidhākāryaṃ) [dhātu-ratna-mayam](dhāturatnamayaṃ) [śubham](śubham)
 
 ## mukta-m0-p03-v67
-small-jewel-born(small-jewel-born) also(also) thus(thus) own-measure(own-measure) door-jewel-born(door-jewel-born)
+[kṣudra-ratna-uttham](kṣudraratnottham) [api](apyevaṃ) [evaṃ](evaṃ) [sva-mānāt](svamānā) [dvara-ratna-jam](dvararatnajam)
 
 ## mukta-m0-p03-v68
-of-vaisyas(of-vaisyas) up-to-manmatha(up-to-manmatha) would-be(would-be) of-sudras(of-sudras) up-to-twelve(up-to-twelve)
+[vaiśyānām](vaiśyānāṃ) [manmatha-antam](manmathāntaṃ) [syāt](syāt) [śūdrāṇām](śūdrāṇāṃ) [dvādaśa-avadhiḥ](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-movable(movable) that-above(that-above) of-gods(of-gods) twenty-three-angulas(twenty-three-angulas)
+[calam](calaṃ) [tat-ūrdhvam](tadūrdhvaṃ) [devānām](devānāṃ) [trayoviṃśati-ka-aṅgulam](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-immovable(immovable) lead-based(lead-based) standing(standing) from-hand(from-hand) nine-measures(nine-measures)
+[acalam](acalam) [kha-drūbha-sthāyi](khadrūbhasthāyi) [karāt-anavasāmakam](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-six-cubits(six-cubits) mixed(mixed) linga(linga) not(not) above(above) and(and) firm(firm) desired(desired)
+[saḍḍhatam](saḍḍhataṃ) [miśrakam](miśrakaṃ) [liṅgam](liṅgaṃ) [na](na) [ūrdhvam](ūrdhvaṃ) [ca](ca) [sthiram](sthiram) [iṣyate](iṣyate)
 
 ## mukta-m0-p03-v72
-six-cubits-not-more(six-cubits-not-more) wooden(wooden) earthen(earthen) stone-like(stone-like) always(always)
+[ṣaḍḍhastāt-na-adhikam](ṣaḍḍhastānnādhikaṃ) [vārkṣam](vārkṣaṃ) [pārthivam](pārthivaṃ) [śailavat](śailavat) [sadā](sadā)
 
 ## mukta-m0-p03-v73
-yaksha-rakshasa-asura-vyala(yaksha-rakshasa-asura-vyala) gandharva-apsaras(gandharva-apsaras) sometimes(sometimes)
+[yakṣa-rakṣaḥ-asura-vyāla](yakṣarakṣo'suravyāla) [gandharva-apsarasām](gandharvāpsarasāṃ) [kvacit](kvacit)
 
 ## mukta-m0-p03-v74
-by-circumference-height(by-circumference-height) and(and) of-gods(of-gods) twenty-one(twenty-one)
+[pariṇāha-ucchrayābhyām](pariṇāhocchrayābhyāṃ) [ca](ca) [devānām](devānām) [ekaviṃśatiḥ](ekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-five-angulas(five-angulas) from-paistya-etc(from-paistya-etc) fruit-born(fruit-born) by-own-measure(by-own-measure)
+[pañca-aṅgulam](pañcāṅgulaṃ) [tu](tu) [paiṣṭyādyam](paiṣṭyādyaṃ) [phala-jam](phalajaṃ) [sva-pramāṇataḥ](svapramāṇataḥ)

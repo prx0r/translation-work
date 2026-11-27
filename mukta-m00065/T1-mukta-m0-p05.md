@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-iti(ityeteṣāmabhāve) eteṣām(ityeteṣāmabhāve) abhāve(ityeteṣāmabhāve) tu(tu) rasendram(rasendraṃ) vajra-saṃyutam(vajrasaṃyutam)
+[thus+these+absence](ityeteṣāmabhāve) [but](tu) [mercury](rasendraṃ) [diamond+joined](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-gavya-sarja-yutaiḥ(gavyasarjayutaiḥ) ca(ca) eva(eva) lepyam(lepyaṃ) varṇaka-puṣṭaye(varṇakapuṣṭaye)
+[cow+resin+joined+and+indeed](gavyasarjayutaiścaiva) [anoint](lepyaṃ) [color+nourishment](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-sad-vāra-ṛkṣa-ṛtu-yuktena(sadvārarkṣartuyuktena) hi(hi) cāru-lagna-samanvite(cārulagnasamanvite)
+[good+door+constellation+season+joined+indeed](sadvārarkṣartuyuktenhi) [beautiful+attached+endowed](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-divya-antarikṣa-bhaumāni(divyāntarikṣabhaumāni) śubha-aśubha-phala-āptaye(śubhāśubhaphalāptaye)
+[divine+sky+earthly](divyāntarikṣabhaumāni) [auspicious+inauspicious+fruit+attainment](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-ityādi(ityādi) śubha-kṛt-divyam(śubhakṛddivyam) atas(atas) aśubha-karam(aśubhakaraṃ) tu(tu) idam(idam)
+[etc](ityādi) [auspicious+doing+divine](śubhakṛddivyam) [therefore](ato) [inauspicious+doing](aśubhakaraṃ) [but+this](tvidam)
 
 ## mukta-m0-p05-v106
-dig-dāha(digdāha) tīvra-vātaḥ(tīvravātaḥ) ca(ca) candra-sūrya-upamardanam(candrasūryopamardanam)
+[dig+dāha+severe+wind+and](digdāhastīvravātaśca) [moon+sun+affliction](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-vāsa-vṛkṣa-agra-saṃsthāyi(vāsavṛkṣāgrasaṃsthāyi) bali-bhuk-madhura-ārutiḥ(balibhuṅmadhurārutiḥ)
+[Indra+tree+tip+standing](vāsavṛkṣāgrasaṃsthāyi) [offering+eating+sweet+sound](balibhuṅmadhurārutiḥ)
 
 ## mukta-m0-p05-v108
-pāṃśu-asṛk-varṣaṇam(pāṃśvasṛgvarṣaṇaṃ) ghoram(ghoram) āntarikṣam(āntarikṣam) aśobhanam(aśobhanam)
+[dust+blood+raining](pāṃśvasṛgvarṣaṇaṃ) [terrible](ghoram) [sky](āntarikṣam) [inauspicious](aśobhanam)
 
 ## mukta-m0-p05-v109
-dadhi-akṣata-yavāḥ(dadhyakṣatayavāḥ) dūrvā(dūrvā) dīpaḥ(dīpaḥ) go-rocanā(gorocanā) dhvajaḥ(dhvajaḥ)
+[yogurt+unbroken+rice+barley](dadhyakṣatayavā) [durva](dūrvā) [lamp](dīpo) [cow+bile](gorocanā) [banner](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-go-vṛṣaḥ(govṛṣaḥ) ca(ca) kharaḥ(kharaḥ) vājī(vājī) bhasma-akṣaḥ(bhasmākṣaḥ) bhūpatiḥ(bhūpatiḥ) dvipaḥ(dvipaḥ)
+[cow+bull+and](govṛṣaśca) [donkey](kharo) [horse](vājī) [ash+eyed](bhasmākṣo) [king](bhūpatiḥ) [elephant](dvipaḥ)
 
 ## mukta-m0-p05-v111
-śivaḥ(śivaḥ) śiva-udaka-kuṃbha-sthaḥ(śivodakuṃbhasthaḥ) kauśikaḥ(kauśikaḥ) vāmataḥ(vāmataḥ) śubhaḥ(śubhaḥ)
+[Shiva](śivaḥ) [Shiva+water+pot+standing](śivodakuṃbhasthaḥ) [Kausika](kauśiko) [left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-mukta-keśaḥ(muktakeśaḥ) parākṣepaḥ(parākṣepaḥ) kṣāraḥ(kṣāraḥ) aṅgāraḥ(aṅgāraḥ) ca(ca) dāru(dāru) ca(ca)
+[loose+hair](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal+and](aṅgāraśca) [wood+and](dāru ca)
 
 ## mukta-m0-p05-v113
-chinna-aṅgaḥ(chinnāṅgaḥ) alocanaḥ(alocanaḥ) rogī(rogī) kapālī(kapālī) bhū-prakampanaḥ(bhūprakampanaḥ)
+[cut+limb](chinnāṅgaḥ) [eyeless](alocanaḥ) [sick](rogī) [skull-bearer](kapālī) [earth+trembling](bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-kṣut-kṣāma-unmattakau(kṣutkṣāmonmattakau) tantuḥ(tantuḥ) ca(ca) auṣadhī-īṣaṇa-sañcayaḥ(auṣadhīṣaṇasañcayaḥ)
+[hunger+thirst+crazy+two](kṣutkṣāmonmattakau) [thread+and](tantuśca) [herb+arrow+collection](oṣadhīṣaṇasañcayaḥ)
 
 ## mukta-m0-p05-v115
-pakṣa-ardha-ardham(pakṣārdhārdham) tu(tu) saṃtyajya(saṃtyajya) prasthānam(prasthānaṃ) kriyate(kriyate) śubhe(śubhe)
+[fortnight+half](pakṣārdhārdhaṃ) [but](tu) [abandoning](saṃtyajya) [departure](prasthānaṃ) [done](kriyate) [auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-vedase(vedase) syāt(syāt) ite(ite) yātā(yātā) tu(tu) agni-daṇḍa-anatikramāt(agnidaṇḍānatikramāt)
+[veda+for](vedase) [may+be+two](syādvite) [traveler](yātā) [but](tu) [fire+staff+not+crossing](agnidaṇḍānatikramāt)
 
 ## mukta-m0-p05-v117
-iṣṭa-ādau(iṣṭādau) śaṅkaram(śaṅkaraṃ) śastam(śastam) prāg-īśa-indu-vanam(prāgīśenduvanaṃ) vrajet(vrajet)
+[desired+beginning](iṣṭādau) [Shankara](śaṅkaraṃ) [praised](śastaṃ) [east+lord+moon+forest](prāgīśenduvanaṃ) [go](vrajet)
 
 ## mukta-m0-p05-v118
-budha-arka-indu-site(budhārkendusite) jīve(jīve) vārkṣe(vārkṣe) prāg-uttara-sthite(prāguttarasthite)
+[Mercury+Sun+Moon+Venus](budhārkendusite) [Jupiter](jīve) [tree+constellation](vārkṣe) [northeast+standing](prāguttarasthite)
 
 ## mukta-m0-p05-v119
-ekāntarāsu(ekāntarāsu) tārāsu(tārāsu) śeṣe(śeṣe) ca(ca) aniṣṭa-karmaṇi(aniṣṭakarmaṇi)
+[one+interval](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [and](ca) [inauspicious+action](aniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-niṣadhaḥ(niṣadhaḥ) nīla-gandha-ākhyaḥ(nīlagandhākhyaḥ) śaṅgī-ke-tur-naga-adhipāḥ(śaṅgīketurnagādhipāḥ)
+[Nishadha](niṣadho) [blue+fragrance+named](nīlagandhākhyaḥ) [Shankha+banner+mountain+lords](śaṅgīketurnagādhipāḥ)
 
 ## mukta-m0-p05-v121
-nanda-ākhyaḥ(nandākhyaḥ) malayaḥ(malayaḥ) vindhyaḥ(vindhyaḥ) ujjayantaḥ(ujjayantaḥ) atha(atha) ṛkṣakaḥ(ṛkṣakaḥ)
+[Nanda+named](nandākhyaḥ) [Malaya](malayo) [Vindhya](vindhya) [Ujjayanta+then](ujjayanto'tha) [Rikshaka](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-yojanāni(yojanāni) daśa(daśa) eteṣām(eteṣām) girīṇām(girīṇām) nikaṭe(nikaṭe) vanam(vanam)
+[yojanas](yojanāni) [ten](daśa) [these](eteṣāṃ) [mountains](girīṇāṃ) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-etat-kṣetra-utthitāḥ(etatkṣetrotthitāḥ) ye(ye) tu(tu) pāṣāṇāḥ(pāṣāṇāḥ) taravaḥ(taravaḥ) śubhāḥ(śubhāḥ)
+[this+field+arisen](etatkṣetrotthitāḥ) [who](ye) [but](tu) [stones+trees](pāṣāṇāstaravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-sa-ācāryaḥ(sācāryaḥ) sādhakaḥ(sādhakaḥ) śilpi-janaiḥ(śilpijanaiḥ) parivataḥ(parivataḥ) śubhaiḥ(śubhaiḥ)
+[with+teacher](sācāryaḥ) [adept](sādhakaḥ) [artisan+people](śilpijanaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-dhyātvā(dhyātvā) adhaḥ(adhaḥ) prākṛtam(prākṛtam) tattvam(tattvam) śiva-tattva-mayīm(śivatattvamayīm) mahīm(mahīm)
+[meditating](dhyātvā) [below](adhaḥ) [material](prākṛtaṃ) [principle](tattvaṃ) [Shiva+principle+made](śivatattvamayīṃ) [earth](mahīm)
