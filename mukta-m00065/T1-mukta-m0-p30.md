@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[index-middle-finger-joint](tarjanyanāmikāparva) [with-foot-grain-excluded](sapādayavavarjitam)
+[tarjani+anāmikā+parva](tarjanyanāmikāparva) [sapāda+yava+varjitam](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[two-angula-thumb-knot-nose](dvyaṅgulo'ṅguṣṭhakagranthirāsāṃ) [half-joint-going](parvārdhagā) [nails](nakhāḥ)
+[dvi+aṅgula](dvyaṅgulo) [aṅguṣṭha+ka+granthi](aṅguṣṭhakagranthirāsāṃ) [parva+ardha+gā](parvārdhagā) [nakha](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[two-angula-nose-height-width](nāsotsedhaḥ) [two-cavity-auspicious](savistārodvyaṅgulo) [dvikuṭa-variant](dvipuṭaḥ)
+[nāsa+utsedha](nāsotsedhaḥ) [sa+vistāra](savistārodvyaṅgulo) [dvi+puṭa](dvipuṭaḥ) [śubha](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[one-and-half-grain](dvyardhaṃ) [grain-in-thick-cavity](yavaṃ) [middle-twenty?](puṭe) [three-grains](sthibhiryavaḥ)
+[dvi+ardha](dvyardhaṃ) [yava](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśa](vaśa) [stri+bhiḥ](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[below-other-angula](adhe'paro'ṅgulakaṃ) [two-angula-chin-position](tu) [dvyaṅgule] [cibukasthitiḥ]
+[adhe](adhe) [apara](aparo) [aṅgulaka](aṅgulakaṃ) [tu](tu) [dvi+aṅgule](dvyaṅgule) [cibuka+sthiti](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[nose-root-side](nāsikāmūlapārśve) [eyes-two-angula-length](tu) [locanamaṅgulāyate-variant](locane)
+[nāsikā+mūla+pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi+aṅgulāyate](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[blue-lotus-leaf-like](indīvarābjapatrābhā) [snake-gourd-fruit-like-woman](paṭolaphalavatstriyāḥ)
+[indīvara+abja+patra+ābhā](indīvarābjapatrābhā) [paṭola+phala+vat](paṭolaphalavatstriyāḥ) [striyāḥ](striyāḥ)
 
 ## mukta-m0-p30-v733
-[fifth-part-light](pañcamāṃśaṃ) [becomes](bhavejjyotiḥ) [lip-corner-thread-equal](sṛkkaṇīsūtratulyataḥ)
+[pañcama+aṃśa](pañcamāṃśaṃ) [bhavet](bhavejjyotiḥ) [jyotiḥ](jyotiḥ) [sṛkkaṇī+sūtra+tulyataḥ](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[half-angula-trough](ardhāṅgulasamā) [droṇī] [one-and-half-angula-long](sārdhadvyaṅguladīrghatā)
+[ardha+aṅgula+samā](ardhāṅgulasamā) [droṇī](droṇī) [sa+ardha+dvi+aṅgula+dīrghatā](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[their-interval-half](tayora) [taramātrārdhaṃ] [woman-grain-half-spread](striyāṃ) [yavārdhavistṛte]
+[tayoḥ](tayora) [atara+mātra+ardha](taramātrārdhaṃ) [striyāṃ](striyāṃ) [yava+ardha+vistṛte](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[ears-eye-length](karṇau) [netradayāyāmau] [their-half-spread](tadardhādvistarastayoḥ)
+[karṇau](karṇau) [netra+dayā+yāmau](netradayāyāmau) [tad+ardha+advistara](tadardhādvistarastayoḥ) [tayoḥ](tayoḥ)
 
 ## mukta-m0-p30-v737
-[half-kalā](kalārdhaṃ) [tuḍhukau-variant](tadukau) [khalvau] [loops-as-desired](pāśau) [kuryādyathepsitau]
+[kalā+ardha](kalārdhaṃ) [tuḍhukau](tuḍhukau) [khalvau](khalvau) [pāśau](pāśau) [kuryāt](kuryādyathepsitau) [yathā+īpsitau](yathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-number-angula](indrasaṅkhyāṅgulaṃ) [after-ears-interval](paścātkarṇayorantaraṃ) [know](viduḥ)
+[indra+saṅkhyā+aṅgulaṃ](indrasaṅkhyāṅgulaṃ) [paścāt](paścātkarṇayorantaraṃ) [karṇayoḥ](karṇayorantaraṃ) [antaraṃ](antaraṃ) [viduḥ](viduḥ)
 
 ## mukta-m0-p30-v739
-[forehead-eight-angula-length](lalāṭo'ṣṭāṅgulāyāmastryaṅgulaḥ) [temple-called](śaṅkha) [ucyate]
+[lalāṭa](lalāṭo) [aṣṭa+aṅgula+āyāma](aṣṭāṅgulāyāmastryaṅgulaḥ) [tri+aṅgulaḥ](tri+aṅgulaḥ) [śaṅkha](śaṅkha) [ucyate](ucyate)
 
 ## mukta-m0-p30-v740
-[seven-angula-cheeks](saptāṅgulau) [kapolau] [with-angula-with-grain-height](tu) [sāṅgulau] [sayavocchrayau]
+[sapta+aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa+aṅgulau](sāṅgulau) [sa+yava+ucchrayau](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[jaws-half-kalā-three-long](hanū) [kalā] [tradīrghau] [vdikalaścibukodgamaḥ]
+[hanū](hanū) [kalā](kalā) [tri+dīrghau](tradīrghau) [vdi+kalaḥ](vdikalaścibukodgamaḥ) [cibuka+udgamaḥ](cibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[shoulders-eight-angula-width](skandho'ṣṭāṅgulavistārastadāyāmaścatuṣkalā)
+[skandha](skandho) [aṣṭa+aṅgula+vistāra](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [tad+āyāmaḥ](tadāyāmaścatuṣkalā) [catuṣ+kalā](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[width-elbow-from-there](vistāraḥ) [kūrparastasmādbhūtāṅgulairyavaistathā]
+[vistāra](vistāraḥ) [kūrpara](kūrparastasmādbhūtāṅgulairyavaistathā) [tasmāt](tasmādbhūtāṅgulairyavaistathā) [bhūta+aṅgulaiḥ](bhūtāṅgulairyavaistathā) [yavaiḥ](yavaistathā) [tathā](tathā)
 
 ## mukta-m0-p30-v744
-[four-angula-width](caturaṅgulavistāro) [wrist-declared](maṇibandhaḥ) [prakīrtitaḥ]
+[catur+aṅgula+vistāraḥ](caturaṅgulavistāro) [maṇibandhaḥ](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[breasts-interval-palm](stanayorantaraṃ) [tālaṃ] [their-ends-two-eyes](tayoḥ) [prāntau] [dvinetrakau]
+[stanayoḥ](stanayorantaraṃ) [antaraṃ](antaraṃ) [tālaṃ](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi+netrakau](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[navel-clockwise](nābhiḥ) [pradakṣiṇāvartā] [depressed-half-angula-risen](nimnato'rdhāṅguloditā)
+[nābhiḥ](nābhiḥ) [pradakṣiṇa+āvartā](pradakṣiṇāvartā) [nimnataḥ](nimnato) [ardha+aṅgula+uditā](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[heart-twenty-angula](hṛdviṃśatyaṅgulaṃ) [proktaṃ] [navel-region-fourteen](nābhideśaścaturdaśa)
+[hṛd](hṛdviṃśatyaṅgulaṃ) [viṃśati+aṅgulaṃ](viṃśatyaṅgulaṃ) [proktaṃ](proktaṃ) [nābhi+deśaḥ](nābhideśaścaturdaśa) [caturdaśa](caturdaśa)
 
 ## mukta-m0-p30-v748
-[fifteen-angula-variant](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart-region-five-without](hṛddeśaḥ) [pañcabhirvinā]
+[pañcādaśa+aṅgulaṃ](pañcādaśāṅgulaṃ) [vakṣaḥ](vakṣo) [hṛd+deśaḥ](hṛddeśaḥ) [pañcabhiḥ](pañcabhirvinā) [vinā](vinā)
 
 ## mukta-m0-p30-v749
-[hips-girdle-described](kaṭiḥ) [saṃveṣṭanenoktā] [hundred-plus-two-angula](śatācca) [dvyadhikāṅgulā]
+[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanenoktā) [uktā](uktā) [śatāt](śatācca) [ca](ca) [dvi+adhika+aṅgulā](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[four-eye-spread](caturnetrapravistārau) [elephant-temples-like-auspicious](gajakumbhopamau) [śubhau]
+[catuḥ+netra+pravistārau](caturnetrapravistārau) [gaja+kumbha+upamau](gajakumbhopamau) [śubhau](śubhau)

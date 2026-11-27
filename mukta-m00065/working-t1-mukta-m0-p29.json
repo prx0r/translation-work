@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "kartavyā",
-"quick_gloss": "should-be-made"
+"quick_gloss": "to-be-done"
 },
 {
 "surface": "taddvibhāgena",
@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "navāntaṃ",
-"quick_gloss": "nine-to"
+"quick_gloss": "nine-ending"
 },
 {
 "surface": "tritrikānteṣu",
-"quick_gloss": "in-triple-trika-ends"
+"quick_gloss": "in-triple-triple-endings"
 },
 {
 "surface": "kanyasādyāḥ",
@@ -78,11 +78,11 @@
 },
 {
 "surface": "svake",
-"quick_gloss": "in-own"
+"quick_gloss": "in-own-opinion"
 },
 {
 "surface": "mate",
-"quick_gloss": "opinion"
+"quick_gloss": "mate"
 }
 ]
 },
@@ -95,7 +95,7 @@
 "tokens": [
 {
 "surface": "tithimāsanavatyardhaiḥ",
-"quick_gloss": "by-tithi-seat-half-etc"
+"quick_gloss": "by-tithi-seat-etc-half"
 },
 {
 "surface": "hīnamadhyottamāstridhā",
@@ -112,7 +112,7 @@
 "tokens": [
 {
 "surface": "paṅgurūpāḥ",
-"quick_gloss": "lame-formed"
+"quick_gloss": "lame-forms"
 },
 {
 "surface": "ca",
@@ -123,20 +123,16 @@
 "quick_gloss": "kūṣmāṇḍas"
 },
 {
-"surface": "saptadhā",
-"quick_gloss": "sevenfold"
-},
-{
-"surface": "arcāḥ",
-"quick_gloss": "images"
+"surface": "saptadhārcāḥ",
+"quick_gloss": "sevenfold-images"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "vartayet",
-"quick_gloss": "should-be-made"
+"quick_gloss": "should-make"
 }
 ]
 },
@@ -153,7 +149,7 @@
 },
 {
 "surface": "śaktisūtreṇa",
-"quick_gloss": "by-śakti-thread"
+"quick_gloss": "by-power-thread"
 },
 {
 "surface": "ṛkṣādibhyaḥ",
@@ -161,7 +157,7 @@
 },
 {
 "surface": "śubhe",
-"quick_gloss": "on-auspicious-day"
+"quick_gloss": "auspicious"
 },
 {
 "surface": "dine",
@@ -177,20 +173,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pīṭhātmāśrayajīvāṃś",
+"surface": "pīṭhātmāśrayajīvāṃśca",
 "quick_gloss": "pedestal-self-refuge-life-parts"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "prabhādīṃś",
+"surface": "prabhādīṃśca",
 "quick_gloss": "radiance-etc"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "prakalpayet",
@@ -207,7 +199,7 @@
 "tokens": [
 {
 "surface": "kṛtvādhoṃśagataḥ",
-"quick_gloss": "having-made-below-part"
+"quick_gloss": "having-made-lower-part"
 },
 {
 "surface": "pīṭhaṃ",
@@ -240,7 +232,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "pratimāṃ",
@@ -261,11 +253,11 @@
 "tokens": [
 {
 "surface": "bhāgaikamaṅgula",
-"quick_gloss": "making-one-part-angula"
+"quick_gloss": "one-part-angula"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "kṛtvā"
+"quick_gloss": "having-made"
 },
 {
 "surface": "mahārcāṃ",
@@ -289,8 +281,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+ bhāge+ aṅgulaṃ",
-"quick_gloss": "in-one-part-angula"
+"surface": "eka",
+"quick_gloss": "one"
+},
+{
+"surface": "bhāge'ṅgulaṃ",
+"quick_gloss": "part-angula"
 },
 {
 "surface": "tasyā",
@@ -315,7 +311,7 @@
 "tokens": [
 {
 "surface": "maye",
-"quick_gloss": "maya"
+"quick_gloss": "by-maya"
 },
 {
 "surface": "sūtraṃ",
@@ -334,12 +330,8 @@
 "quick_gloss": "straight-image"
 },
 {
-"surface": "kārayet",
-"quick_gloss": "should-make"
-},
-{
-"surface": "śubhām",
-"quick_gloss": "auspicious"
+"surface": "kārayecchubhām",
+"quick_gloss": "should-make-auspicious"
 }
 ]
 },
@@ -368,7 +360,7 @@
 },
 {
 "surface": "vruve",
-"quick_gloss": "I-will-speak"
+"quick_gloss": "I-say"
 }
 ]
 },
@@ -381,7 +373,7 @@
 "tokens": [
 {
 "surface": "mātrābhistithisaṃkhyābhiḥ",
-"quick_gloss": "by-measures-tithi-number"
+"quick_gloss": "by-measures-tithi-numbers"
 },
 {
 "surface": "mukuṭa",
@@ -409,8 +401,12 @@
 "quick_gloss": "tāla-measure"
 },
 {
-"surface": "bhavedvakraṃ",
-"quick_gloss": "becomes-curved"
+"surface": "bhaved",
+"quick_gloss": "becomes"
+},
+{
+"surface": "vakraṃ",
+"quick_gloss": "curved"
 },
 {
 "surface": "grīvā",
@@ -418,7 +414,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "caturaṅgulā",
@@ -438,8 +434,8 @@
 "quick_gloss": "tāla-one-one-measure"
 },
 {
-"surface": "syāt",
-"quick_gloss": "syāt"
+"surface": "syād",
+"quick_gloss": "would-be"
 },
 {
 "surface": "ūrū",
@@ -460,7 +456,7 @@
 "tokens": [
 {
 "surface": "jñeyau",
-"quick_gloss": "should-be-known"
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "gulphau",
@@ -468,11 +464,11 @@
 },
 {
 "surface": "dvinetrau",
-"quick_gloss": "two-eyes"
+"quick_gloss": "two-eyed"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "pārṣṇīdvyaṅgulake",
@@ -480,7 +476,7 @@
 },
 {
 "surface": "mate",
-"quick_gloss": "in-opinion"
+"quick_gloss": "mate"
 }
 ]
 },
@@ -496,8 +492,8 @@
 "quick_gloss": "in-middle"
 },
 {
-"surface": "kalādvayocchrāyo",
-"quick_gloss": "two-kalā-height"
+"surface": "kalādvayocchrāyaḥ",
+"quick_gloss": "two-arts-height"
 },
 {
 "surface": "vagresārdhārdha",
@@ -505,7 +501,7 @@
 },
 {
 "surface": "mātrakau",
-"quick_gloss": "measure"
+"quick_gloss": "measures"
 }
 ]
 },
@@ -543,18 +539,14 @@
 },
 {
 "surface": "pariṇāhena",
-"quick_gloss": "circumference"
+"quick_gloss": "by-circumference"
 },
 {
 "surface": "kathyante",
-"quick_gloss": "are-spoken"
+"quick_gloss": "are-said"
 },
 {
-"surface": "tv",
-"quick_gloss": "tv"
-},
-{
-"surface": "adhunāparāḥ",
+"surface": "tvadhunāparāḥ",
 "quick_gloss": "now-other"
 }
 ]
@@ -568,7 +560,7 @@
 "tokens": [
 {
 "surface": "pādāṅgulyastriparvāṇaḥ",
-"quick_gloss": "toe-fingers-three-jointed"
+"quick_gloss": "toes-three-jointed"
 },
 {
 "surface": "parvārdhanakhaśobhitāḥ",
@@ -585,11 +577,7 @@
 "tokens": [
 {
 "surface": "kārāṅghri",
-"quick_gloss": "nail-foot"
-},
-{
-"surface": "talakaṃ",
-"quick_gloss": "sole"
+"quick_gloss": "nail-foot-sole"
 },
 {
 "surface": "raktaṃ",
@@ -613,8 +601,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upabāhū+ daśāṣṭāṃśau",
-"quick_gloss": "forearms-ten-eight-parts"
+"surface": "upabāhū",
+"quick_gloss": "forearms"
+},
+{
+"surface": "daśāṣṭāṃśau",
+"quick_gloss": "ten-eight-parts"
 },
 {
 "surface": "ṣoḍaśāṅgulakau",
@@ -668,7 +660,7 @@
 },
 {
 "surface": "mataḥ",
-"quick_gloss": "mataḥ"
+"quick_gloss": "considered"
 }
 ]
 }
