@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "citte",
-"quick_gloss": "mind"
+"quick_gloss": "in-mind"
 },
 {
 "surface": "iti",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "procya",
-"quick_gloss": "saying"
+"quick_gloss": "having-spoken"
 },
 {
 "surface": "reto",
@@ -28,11 +28,11 @@
 },
 {
 "surface": "muṃcadvayaṃ",
-"quick_gloss": "releasing"
+"quick_gloss": "release+two"
 },
 {
 "surface": "vadet",
-"quick_gloss": "says"
+"quick_gloss": "should-speak"
 }
 ]
 },
@@ -61,7 +61,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "performs"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -73,8 +73,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sphuradgupigupitkāraṃ",
+"surface": "sphurad",
 "quick_gloss": "flashing"
+},
+{
+"surface": "gupigupit",
+"quick_gloss": "hidden"
+},
+{
+"surface": "kāraṃ",
+"quick_gloss": "sound"
 },
 {
 "surface": "vimuṃcati",
@@ -99,7 +107,7 @@
 },
 {
 "surface": "saṃśekaphalamaśnute",
-"quick_gloss": "sprinkling-fruit"
+"quick_gloss": "enjoys"
 }
 ]
 },
@@ -116,11 +124,11 @@
 },
 {
 "surface": "paśupatatvaṃ",
-"quick_gloss": "paśupati-state"
+"quick_gloss": "pashupati-state"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "yajamānamayīṃ",
@@ -140,8 +148,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveṣāmevamaṃtrāṇāṃ",
+"surface": "sarveṣām",
 "quick_gloss": "of-all"
+},
+{
+"surface": "evam",
+"quick_gloss": "thus"
+},
+{
+"surface": "maṃtrāṇāṃ",
+"quick_gloss": "mantras"
 },
 {
 "surface": "svayameva",
@@ -170,7 +186,7 @@
 },
 {
 "surface": "rasasaubhāgyaśālinī",
-"quick_gloss": "rasa-fortune-having"
+"quick_gloss": "rasa-fortune-endowed"
 }
 ]
 },
@@ -187,15 +203,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "nivṛttiṃ",
 "quick_gloss": "cessation"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "bhūtānāmiva",
@@ -203,7 +215,7 @@
 },
 {
 "surface": "sarvaśaḥ",
-"quick_gloss": "everywhere"
+"quick_gloss": "wholly"
 }
 ]
 },
@@ -228,11 +240,11 @@
 },
 {
 "surface": "nidhyaṃjanaṃ",
-"quick_gloss": "eye-ointment"
+"quick_gloss": "anointing"
 },
 {
 "surface": "tathā",
-"quick_gloss": "tathā"
+"quick_gloss": "and"
 }
 ]
 },
@@ -245,15 +257,11 @@
 "tokens": [
 {
 "surface": "ākāśagamane",
-"quick_gloss": "sky-going"
+"quick_gloss": "sky-travel"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
+"surface": "caiva",
+"quick_gloss": "and"
 },
 {
 "surface": "parakāya",
@@ -261,7 +269,7 @@
 },
 {
 "surface": "praveśane",
-"quick_gloss": "entering"
+"quick_gloss": "entry"
 }
 ]
 },
@@ -274,19 +282,15 @@
 "tokens": [
 {
 "surface": "pratimācalane",
-"quick_gloss": "idol-moving"
+"quick_gloss": "image-moving"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
+"surface": "caiva",
+"quick_gloss": "and"
 },
 {
 "surface": "bhūtavetāla",
-"quick_gloss": "bhuta-vetala"
+"quick_gloss": "spirit-vetala"
 },
 {
 "surface": "vīkṣaṇe",
@@ -306,8 +310,12 @@
 "quick_gloss": "skill"
 },
 {
-"surface": "paramaṃghatte",
+"surface": "paramaṃ",
 "quick_gloss": "supreme"
+},
+{
+"surface": "ghatte",
+"quick_gloss": "gives"
 },
 {
 "surface": "saptamāhuti",
@@ -349,7 +357,7 @@
 },
 {
 "surface": "vāpikīrti",
-"quick_gloss": "pond-fame"
+"quick_gloss": "tank-glory"
 },
 {
 "surface": "vivardhanī",
@@ -366,19 +374,15 @@
 "tokens": [
 {
 "surface": "etadāhuti",
-"quick_gloss": "this-offering"
+"quick_gloss": "at-this-offering-time"
 },
 {
 "surface": "velāyāṃ",
-"quick_gloss": "time"
+"quick_gloss": "velāyāṃ"
 },
 {
 "surface": "dūtikā",
 "quick_gloss": "messenger"
-},
-{
-"surface": "va",
-"quick_gloss": "va"
 },
 {
 "surface": "sthitiṃ",
@@ -407,7 +411,7 @@
 },
 {
 "surface": "maṃtharatātanau",
-"quick_gloss": "very"
+"quick_gloss": "slowness"
 }
 ]
 },
@@ -427,16 +431,8 @@
 "quick_gloss": "immersion"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "kṣaṇe",
-"quick_gloss": "moment"
-},
-{
-"surface": "kṣaṇe",
-"quick_gloss": "moment"
+"surface": "tu kṣaṇe kṣaṇe",
+"quick_gloss": "moment-by-moment"
 }
 ]
 },
@@ -449,7 +445,7 @@
 "tokens": [
 {
 "surface": "ramaṇasyabhujā",
-"quick_gloss": "lover's-arm"
+"quick_gloss": "lover-arm"
 },
 {
 "surface": "śleṣaṃ",
@@ -465,7 +461,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "tathā"
+"quick_gloss": "and"
 }
 ]
 },
@@ -486,7 +482,7 @@
 },
 {
 "surface": "kāmacchatrasya",
-"quick_gloss": "love-umbrella"
+"quick_gloss": "love-canopy"
 },
 {
 "surface": "narttanam",
@@ -503,19 +499,19 @@
 "tokens": [
 {
 "surface": "vacovicchinna",
-"quick_gloss": "speech-broken"
+"quick_gloss": "speech-interrupted"
 },
 {
 "surface": "vicchinnapunaruktaṃ",
-"quick_gloss": "broken"
+"quick_gloss": "interrupted"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "again"
 },
 {
 "surface": "bhūyasā",
-"quick_gloss": "again"
+"quick_gloss": "much"
 }
 ]
 },
@@ -536,11 +532,11 @@
 },
 {
 "surface": "kiṃcicchuṣkaṃ",
-"quick_gloss": "somewhat"
+"quick_gloss": "dry"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "rodanam",
@@ -581,24 +577,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "sahebhavato",
-"quick_gloss": "bear"
+"surface": "na sahebhavato",
+"quick_gloss": "not-endure"
 },
 {
 "surface": "vegaṃ",
-"quick_gloss": "speed"
+"quick_gloss": "force"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
+"surface": "na sahebhavato",
+"quick_gloss": "not-endure"
 },
 {
-"surface": "sahebhavatoratim",
-"quick_gloss": "bear"
+"surface": "ratim",
+"quick_gloss": "passion"
 }
 ]
 },
@@ -614,12 +606,16 @@
 "quick_gloss": "why"
 },
 {
-"surface": "māṃrasadroṇyāṃ",
+"surface": "māṃ",
 "quick_gloss": "me"
 },
 {
+"surface": "rasadroṇyāṃ",
+"quick_gloss": "rasa-vat"
+},
+{
 "surface": "majjayasyevanirghṛṇā",
-"quick_gloss": "immersed"
+"quick_gloss": "immerse"
 }
 ]
 },
@@ -632,7 +628,7 @@
 "tokens": [
 {
 "surface": "khādāmi",
-"quick_gloss": "eat"
+"quick_gloss": "devour"
 },
 {
 "surface": "kiṃte",
@@ -640,7 +636,7 @@
 },
 {
 "surface": "sarvāṃgaṃ",
-"quick_gloss": "all-limb"
+"quick_gloss": "all-limbs"
 },
 {
 "surface": "muṃcamāṃ",
