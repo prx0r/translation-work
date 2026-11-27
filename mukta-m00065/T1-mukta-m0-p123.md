@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-fragrance(gandhaṃ) flower(puṣpaṃ) and(ca) incense-etc(dhūpādyaṃ) with-unbroken-rice(sākṣataṃ) and(ca) purifier(pavitrakam)
-
+fragrance flower and incense-etc with-rice and sacred-thread
 ## mukta-m0-p123-v3052
-śiva(śivaṃ) should-offer(nivedayen) on-head(mūrdhni) by-exhalation(recakena) made-nectar(amṛtīkṛtam)
-
+offer Shiva on-head by-exhalation made-nectar
 ## mukta-m0-p123-v3053
-morning(prātaḥ) bathed(snātaḥ) pure(śuciḥ) cleansed(śuddhaḥ) worship(pūjāṃ) should-do(kuryāt) according-to-wealth(svavittataḥ)
-
+morning bathed pure clean worship do according-to-wealth
 ## mukta-m0-p123-v3054
-with-five(madhuraiḥ) sweet-baths(pañcabhiḥ) bath(snānaṃ) water-intervals(jalāntaraiḥ) drying(virukṣaṇam)
-
+with-five sweet-baths water-intervals drying
 ## mukta-m0-p123-v3055
-eight-limbed(aṣṭāṅgaḥ) argha(arghaṃ) having-given(pradāya) then(atha) having-anointed(samālabhya) should-worship(prapūjayet)
-
+eight-limbed arghya give then anoint worship
 ## mukta-m0-p123-v3056
-with-cloths(vastraiḥ) covered(saṃchāditaṃ) house(veśma) with-jars-etc(ghaṭācāmarabhūṣaṇaiḥ)
-
+with-cloths covered house pot-flywhisk-ornaments
 ## mukta-m0-p123-v3057
-with-banana-mango-garlands(kadalīcūtamālābhiḥ) born-seed-fragrant(jātabījasarocakaiḥ)
-
+banana-mango-garlands with-born-seed-fragrant
 ## mukta-m0-p123-v3058
-with-dance-song(nṛtyagītaiḥ) gentle(kalaiḥ) with-instruments(vādyaiḥ) should-spend-night(nayedrātriṃ) with-great-festivals(mahotsavaiḥ)
-
+dance-song sweet-instruments spend-night great-festivals
 ## mukta-m0-p123-v3059
-with-devotion(bhaktyā) should-please(santoṣayet) all(sarvān) with-cloth-gifts-etc(vastradānādibhojanaiḥ)
-
+with-devotion satisfy all cloth-gift-etc-food
 ## mukta-m0-p123-v3060
-freed-from-all-sins(sarvapāpavinirmuktaḥ) in-rudra-world(rudraloke) is-honored(mahīyate)
-
+all-sin-freed Rudra-world exalted
 ## mukta-m0-p123-v3061
-false-speech-on-bed(khaṭvāśayanamithyokti) women-journey-meat-avoider(strīyātrāmiṣavarjakaḥ)
-
+bed-sleeping false-speech woman-travel-meat avoider
 ## mukta-m0-p123-v3062
-worship(pūjāṃ) having-done(kṛtvā) śiva(śivaṃ) having-bowed(natvā) pavitra(pavitraṃ) should-release(visarjayet)
-
+worship do Shiva bow sacred-thread release
 ## mukta-m0-p123-v3063
-having-done(kṛtvā) should-cast(kṣipet) pavitras(pavitrāṇi) into-śiva-fire(śivāgnau) or(vā) always-in-water(sadāmbhasi)
-
+do throw sacred-threads Shiva-fire or always-water
 ## mukta-m0-p123-v3064
-becomes-prāyaścitta-descender(syātprāyaścityadhogāmī) rudra-made(rudro) millions-of-years(abdakoṭiśaḥ)
-
+becomes penance-descender done Rudra-year crores
 ## mukta-m0-p123-v3065
-copper-liṅga-worshipper(tāmraliṅgārcanādarkaḥ) piśāca(piśācaḥ) from-bamboo-vaṃśa(vaṃśasambhavāt)
-
+copper-linga-worship sun Pisaca bamboo-born
 ## mukta-m0-p123-v3066
-lead-born(sīsajā) yakṣas(dguhyakāḥ) all(sarve) iron-rākṣasa-asura-ender(lohādrakṣo'surāntakāḥ)
-
+lead-born Yakshas all iron Rakshasa Asura-ender
 ## mukta-m0-p123-v3067
-from-ruby(padmarāgāt) fire-god(hutāśaḥ) and(ca) from-sapphire(indranīlāt) viṣṇu(hariḥ)
-
+ruby from-fire and sapphire-worship Hari
 ## mukta-m0-p123-v3068
-from-coral(vaidrumāt) nāgas(nāgāḥ) śukra(śukraḥ) from-cat's-eye(kārketanāt) always(sadā)
-
+coral-mouth-worship Nagas Venus carnelian always
 ## mukta-m0-p123-v3069
-paulastya(paulastyaḥ) from-jīva-class(jīvajātibhyaḥ) eight-etc(aṣṭai) ṭṭibhāt(siddhakinnarāḥ)
-
+Paulastya Jupiter-born eight Siddha Kinnara
 ## mukta-m0-p123-v3070
-aśvins(aśvinau) from-baked-clay(pakvamṛdbhūtāt) gandharvas(gandharvāḥ) from-wife(dārasambhavāt)
-
+Ashvins baked-clay-born Gandharvas wife-born
 ## mukta-m0-p123-v3071
-from-kūrma-kuśa(kūrmakauśi) kasabhūtāt(vāsukinayināyakaḥ)
-
+tortoise Vasuki leader
 ## mukta-m0-p123-v3072
-from-liṅga-installation-worship(liṅgasaṃsthāpanārcanāt)
-
+linga-installation-worship
 ## mukta-m0-p123-v3073
-soma-drinkers(somapāḥ)
-
+Soma-drinkers
 ## mukta-m0-p123-v3074
-various-fruit-born-liṅgas(nānāphalotthaliṅgāni) by-rite(vidhinā) served(sevitāni) and(ca)
-
+various-fruit-risen-lingas by-rite served and
 ## mukta-m0-p123-v3075
-from-sand(saikatāt) viśvakarmā(viśvakarmā) and(ca) śacī-lord(śacīśaḥ) from-salt(lavaṇo) born(dbhavāt)
+sand-born Vishvakarma and Indra salt-born
