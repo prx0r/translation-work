@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-fragrance(gandhaṃ) flower(puṣpaṃ) and(ca) incense-etc(dhūpādyaṃ) with-rice(sākṣataṃ) and(ca) sacred-thread(pavitrakam)
+[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
 
 ## mukta-m0-p123-v3052
-to-Shiva(śivaṃ) one-should-offer(nivedayen) on-head(mūrdhni) by-exhalation-made-nectar(recakena+amṛtīkṛtam)
+[gloss](śivaṃ) [gloss](nivedayet) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-morning(prātaḥ) bathed(snātaḥ) pure(śuciḥ) clean(śuddhaḥ) worship(pūjāṃ) should-do(kuryāt) according-to-own-wealth(svavittataḥ)
+[gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-with-five-sweets(pañcabhiḥ+madhuraiḥ) bathing(snānaṃ) with-water-intervals(jalāntaraiḥ) drying(virukṣaṇam)
+[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-eight-limbed-argha(aṣṭāṅgo'rghaṃ) having-given(pradāya) then(atha) having-anointed(samālabhya) worship(prapūjayet)
+[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
 
 ## mukta-m0-p123-v3056
-with-cloths(vastraiḥ) covered(saṃchāditaṃ) house(veśma) with-pots-fans-ornaments(ghaṭācāmarabhūṣaṇaiḥ)
+[gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](cāmara) [gloss](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-with-banana-mango-garlands(kadalīcūtamālābhiḥ) with-sprouted-seeds-ornaments(jātabījasarocakaiḥ)
+[gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-with-dance-songs(nṛtyagītaiḥ) sweet(kalaiḥ) with-instruments(vādyaiḥ) spend-night(nayedrātriṃ) with-great-festivals(mahotsavaiḥ)
+[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayet) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-with-devotion(bhaktyā) satisfy(santoṣayet) all(sarvān) with-cloth-gifts-etc-food(vastradānādibhojanaiḥ)
+[gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dāna) [gloss](ādi) [gloss](bhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-freed-from-all-sins(sarvapāpavinirmuktaḥ) in-Rudra-world(rudraloke) is-honored(mahīyate)
+[gloss](sarva) [gloss](pāpa) [gloss](vinirmuktaḥ) [gloss](rudra) [gloss](loke) [gloss](mahīyate)
 
 ## mukta-m0-p123-v3061
-bed-sleeping-false-speech(khaṭvāśayanamithyokti) women-travel-meat-avoiding(strīyātrāmiṣavarjakaḥ)
+[gloss](khaṭvā) [gloss](śayana) [gloss](mithyokti) [gloss](strī) [gloss](yātrā) [gloss](miṣa) [gloss](varjakaḥ)
 
 ## mukta-m0-p123-v3062
-worship(pūjāṃ) having-done(kṛtvā) Shiva(śivaṃ) having-bowed(natvā) sacred-thread(pavitraṃ) and(ca) release(visarjayet)
+[gloss](pūjāṃ) [gloss](kṛtvā) [gloss](śivaṃ) [gloss](natvā) [gloss](pavitraṃ) [gloss](ca) [gloss](visarjayet)
 
 ## mukta-m0-p123-v3063
-having-done(kṛtvā) throw(kṣipet) sacred-threads(pavitrāṇi) in-Shiva-fire(śivāgnau) or(vā) in-eternal-water(sadāmbhasi)
+[gloss](kṛtvā) [gloss](kṣipet) [gloss](pavitrāṇi) [gloss](śiva) [gloss](agnau) [gloss](vā) [gloss](sadā) [gloss](ambhasi)
 
 ## mukta-m0-p123-v3064
-becomes-expiation-descending(syātprāyaścittadhogāmī) made-Rudra-for-crores-of-years(kṛto rudro'bda koṭiśaḥ)
+[gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-from-copper-linga-worship(tāmraliṅgārcanāt) demon(piśācaḥ) from-bamboo-origin(vaṃśasambhavāt)
+[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3066
-lead-born(sīsajāḥ) all-guhyakas(sarve guhyakāḥ) iron-born-rakshasa-asura-destroyers(lohādrakṣo'surāntakāḥ)
+[gloss](sīsa) [gloss](jāḥ) [gloss](guhyakāḥ) [gloss](sarve) [gloss](loha) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
 
 ## mukta-m0-p123-v3067
-from-ruby(padmarāgāt) fire-god(hutāśaḥ) and(ca) from-sapphire-worship(indranīlārcanāt) Hari(hariḥ)
+[gloss](padmarāga) [gloss](āt) [gloss](hutāśaḥ) [gloss](ca) [gloss](indranīla) [gloss](arcana) [gloss](āt) [gloss](hariḥ)
 
 ## mukta-m0-p123-v3068
-from-coral-worship(vaidrumārcanāt) nagas(nāgāḥ) Shukra(śukraḥ) from-karketana(kārketanāt) always(sadā)
+[gloss](vaidruma) [gloss](āsya) [gloss](arcana) [gloss](āt) [gloss](nāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](āt) [gloss](sadā)
 
 ## mukta-m0-p123-v3069
-Paulastya(paulastyaḥ) from-living-beings(jīvajātibhyaḥ) siddhas-kinnaras(siddhakinnarāḥ)
+[gloss](paulastyaḥ) [gloss](jīva) [gloss](jātibhyaḥ) [gloss](aṣṭa) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-Ashvins(aśvinau) from-baked-clay(pakvamṛdbhūtāt) gandharvas(gandharvāḥ) from-wife-origin(dārasambhavāt)
+[gloss](aśvinau) [gloss](pakva) [gloss](mṛt) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3071
-from-tortoise-shell(kūrmakauśikabhūtāt) Vasuki-lord(vāsukināyakaḥ)
+[gloss](kūrma) [gloss](kauśi) [gloss](kasa) [gloss](bhūtāt) [gloss](vāsuki) [gloss](nayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-from-linga-installation-worship(liṅgasaṃsthāpanārcanāt)
+[gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcana) [gloss](āt)
 
 ## mukta-m0-p123-v3073
-soma-drinkers(somapāḥ)
+[gloss](somapāḥ)
 
 ## mukta-m0-p123-v3074
-various-fruit-born-lingas(nānāphalotthaliṅgāni) by-rite(vidhinā) served(sevitāni) and(ca)
+[gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
 
 ## mukta-m0-p123-v3075
-from-sand(saikatāt) Vishvakarma(viśvakarmā) and(ca) Indra(śacīśaḥ) from-salt(lavaṇodbhavāt)
+[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacīśaḥ) [gloss](lavaṇa) [gloss](bhavāt)
