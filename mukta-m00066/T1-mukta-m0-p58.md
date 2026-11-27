@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[seen](dṛṣṭa) [all](sarvā) [of-ability](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [occurs](ghaṭe) [is](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-creation](kṛtitvasya) [production](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [occurs](bhavat)
 
 ## mukta-m0-p58-v1427
-[threefold](tritvantu) [of-practice](vyavahārasya) [also](api) [expectation](apekṣa) [here](atra) [accepted](sammatam)
+[threefold](tritvantu) [of-transaction](vyavahārasyāpyapekṣaivātra) [only](sammatam)
 
 ## mukta-m0-p58-v1428
-[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyam) [here](iha) [now](adhunā)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-[sound-manifestation](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-perception](svādhyakṣeṇa) [shines](sabhāsate)
+[abandoning](śabdabhāsyatvamujhitvā) [by-direct-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[self-support](svāśrayo) [of-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
+[own-support](svāśrayo) [of-one-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ)
 
 ## mukta-m0-p58-v1431
 [śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[in-earth](mahyāṃ) [siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
+[to-me](mahyāṃ) [as-siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[sound-this-ghī-water-wind](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
+[by-sound-this-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
 [aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
@@ -38,13 +38,13 @@
 [of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[aggregates-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-formed](bahavonaikarūpiṇaḥ)
+[aggregates-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-form](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what-here-said](kimihoktena) [what-principle](kintatvairaparairjaḍaiḥ)
+[why-much-here-said](bahunā kimihoktena) [what-principle-other-inert](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[uncuttable](acchedyo) [unburnable](adāhoya) [unwettable](makledyo) [undryable](aśoṣya) [thus](eva) [ca](ca)
+[un-cuttable](acchedyo'yamadāhoya) [un-wettable](makledyośoṣya) [also](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
 [of-all-universe](sarvaviśvasya) [begetter](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
@@ -62,16 +62,16 @@
 [always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [ca](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tat) [rises](udyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tatodyate)
 
 ## mukta-m0-p58-v1447
-[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitam) [of-this](asya) [eva](eva) [other](anyā) [powers](vibhūtayaḥ)
+[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitamasyaivānyā) [other](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[that](tat) [that-śāstra](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [girinaṃdini](girinaṃdini)
+[that](tat) [that-śāstra](tacchāstra) [establishment](sthitiḥ) [all](sarvā) [said](kathitā) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [askable](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
 [many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
