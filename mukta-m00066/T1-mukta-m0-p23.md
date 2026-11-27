@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[bliss-tantra](ānaṃdataṃtre) [and-indeed-in-this](caivāsmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
+[in-ānanda-tantra](ānaṃdataṃtre) [and-in-this](caivāsmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[therefore-four](tasmāccatvāra) [ecstasies](ullāsā) [here](iha) [declared](proktā) [great-lady](maheśvari)
+[therefore-four](tasmāccatvāra) [delights](ullāsā) [here](iha) [declared](proktā) [O-Maheśvarī](maheśvari)
 
 ## mukta-m0-p23-v553
-[therefore-bliss](tasmādānaṃda) [worship](pūjāyā) [garlanded](mālaṃvyaṃte) [not](na) [three](trayaḥ)
+[therefore-in-ānanda-worship](tasmādānaṃda pūjāyā) [are-honored](mālaṃvyaṃte) [but](tu) [not](na) [three](trayaḥ)
 
 ## mukta-m0-p23-v554
-[thus-thus](tathā+tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [touch](parāmṛśet)
+[thus-thus](tathā tathā) [supreme-bliss](parānaṃda) [lord-vidyā](nāthavidyāṃ) [should-touch](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [should-remember](smaret)
 
 ## mukta-m0-p23-v556
-[twelve-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [deposit](vinikṣipet)
+[at-twelve-limit](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [should-place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shiva-sovereignty](śivatvasāmrājya) [foot-anointed](padābhiṣiktaṃ) [own](svaṃ) [contemplate](viciṃtayet)
+[Śiva-sovereignty](śivatvasāmrājya) [foot-abhiṣeka](padābhiṣiktaṃ) [own](svaṃ) [should-contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [limb-by-limb](pratyaṃgamaṃ) [sprout](kūradanaṃ) [rising-mind](gottuṃgamānasaḥ)
+[seeing](paśyan) [limb-by-limb](pratyaṃgamaṃ) [sprout-bliss](kūradanaṃ) [guru-mind](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[as](yathā) [youthful-ecstasy](yauvanamullāsaṃ) [obtains](saṃprāpnoti) [mother](aṃba) [messenger](dūtikā)
+[as](yathā) [youthful-delight](yauvanamullāsaṃ) [obtains](saṃprāpnoti) [O-mother](aṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[looking-pleasure](ālokaneratiḥ) [directly](sākṣāt) [smile](smite) [awakens](jāgarti) [ganges](jāhnavī)
+[by-gazing](ālokaneratiḥ) [directly](sākṣāt) [at-smile](smite) [awakens](jāgarti) [Jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-[ashvins](aśvinau) [nose-place](nāsikābhāge) [and-lip](tvoṣṭhe) [supreme-nectar](ca+paramāmṛtam)
+[Aśvins](aśvinau) [at-nose-region](nāsikābhāge) [and-lip](tvoṣṭhe) [supreme-nectar](ca paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[sweat](svede) [varuni-goddess](ca+vāruṇī+devī) [desire-lord](kāmanāthas) [thus-i](tvahaṃ) [act](kṛtau)
+[in-sweat](svede) [Vāruṇī-goddess](ca vāruṇī devī) [desire-lord](kāmanāthastvahaṃ) [in-act](kṛtau)
 
 ## mukta-m0-p23-v563
-[two-breasts](stanadvaye) [meru-mountain](merugirir) [silent](nniḥ+śabdaṃ) [brahma-middle](brahmamadhyame)
+[on-two-breasts](stanadvaye) [Meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [in-Brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[three-folds](valitraye) [three-worlds](ca+trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
+[in-three-folds](valitraye) [three-worlds](ca trailokyaṃ) [in-navel-womb](nābhigarbhe) [Guhāmbikā](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nails](nakheṣu) [cool](śītāṃ) [digit](śu+kalā) [arm-root](dormmūleṃ) [goad-deity](kuśadevatāḥ)
+[in-nails](nakheṣu) [cool](śītāṃ) [śu](śu) [kalā](kalā) [arm-root](dormmūleṃ) [kuśa-deities](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [indeed](caiva) [exhalation](niśvāse) [goda-service](godāsītkāra) [action](karmaṇi)
+[Kāverī](kāverī) [and](caiva) [in-exhalation](niśvāse) [Godā](godā) [sīt-karma](sītkāra karmaṇi)
 
 ## mukta-m0-p23-v567
-[pure-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
+[in-pure-lip-actions](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[speech-power](vākptiḥ) [pleasure-sound](sukhahuṃkāre) [speech-lord](gīṣpatī) [cheek-sound](kākukādhvanau)
+[speech-lordship](vākptiḥ) [pleasant-huṃ-sound](sukhahuṃkāre) [Gīṣpatī](gīṣpatī) [kākuka-sound](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indra](iṃdraś) [mind-elevation](cittasamunnatyām) [fire](agnir) [substance](vastu) [devours](grasītviṣi)
+[Indra](iṃdraś) [in-mind-elevation](cittasamunnatyām) [Agni](agnirvastu) [grasps](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hands-etc-movement](hastādicālane) [sacrifice](yajñas) [embrace](tvāśleṣe) [sacrifice-person](yajñapūruṣaḥ)
+[in-hand-movement](hastādicālane) [sacrifice](yajñastvāśleṣe) [sacrifice-puruṣa](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[dance](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [her](tasyā) [body-etc](dehādi) [whirling](ghūrṇane)
+[lāsya](lāsyaṃ) [and](ca) [tāṇḍava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyā) [body-etc](dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[those-all](tānisarvāṇi) [occur](varttate) [her](tasyā) [mouthful-substance](gaṃḍūṣavastuni)
+[those-all](tānisarvāṇi) [occur](varttate) [in-her](tasyā) [cheekful-substance](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [use](sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-cheekful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
 
 ## mukta-m0-p23-v574
-[mouthful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [hero-bliss](vīrasyānaṃda) [increasing](varddhanam)
+[cheekful-first](gaṃḍūṣamādiraṃ) [goddess](devī) [of-hero](vīrasyānaṃda) [increasing-bliss](varddhanam)
 
 ## mukta-m0-p23-v575
-[ever-moist](nityaklinnā) [nectar-goddess](sudhā+devī) [pleasure](rati) [love](prītiś) [and](ca) [her-part](tadbhage)
+[ever-moist](nityaklinnā) [nectar-goddess](sudhā devī) [desire](rati) [delight](prītiśca) [in-that-place](tadbhage)
