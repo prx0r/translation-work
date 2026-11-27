@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[gloss](ānaṃdataṃtre) [gloss](caivāsmin) [gloss](catvāraḥ) [gloss](paramīritāḥ)
+[in-bliss-tantra](ānaṃdataṃtre) [and-indeed-in-this](caivāsmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
+
 ## mukta-m0-p23-v552
-[gloss](tasmāccatvāra) [gloss](ullāsā) [gloss](iha) [gloss](proktā) [gloss](maheśvari)
+[therefore-four](tasmāccatvāra) [ecstasies](ullāsā) [here](iha) [declared](proktā) [O-great-lady](maheśvari)
+
 ## mukta-m0-p23-v553
-[gloss](tasmādānaṃda) [gloss](pūjāyā) [gloss](mālaṃvyaṃte) [gloss](tu) [gloss](na) [gloss](trayaḥ)
+[therefore-bliss](tasmādānaṃda) [worship](pūjāyā) [are-measured](mālaṃvyaṃte) [not-three](na+trayaḥ)
+
 ## mukta-m0-p23-v554
-[gloss](tathā) [gloss](tathā) [gloss](parānaṃda) [gloss](nāthavidyāṃ) [gloss](parāmṛśet)
+[thus-thus](tathā+tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [should-touch](parāmṛśet)
+
 ## mukta-m0-p23-v555
-[gloss](dūtyā) [gloss](saṃdhukṣita) [gloss](svātmā) [gloss](naṃdamūrttiṃ) [gloss](guruṃ) [gloss](smaret)
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
+
 ## mukta-m0-p23-v556
-[gloss](dvādaśāṃtagate) [gloss](raktaśuklapāde) [gloss](vinikṣipet)
+[twelve-ended](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [should-place](vinikṣipet)
+
 ## mukta-m0-p23-v557
-[gloss](śivatvasāmrājya) [gloss](padābhiṣiktaṃ) [gloss](svaṃviciṃtayet)
+[shiva-sovereignty](śivatvasāmrājya) [foot-anointed](padābhiṣiktaṃ) [own](svaṃ) [should-contemplate](viciṃtayet)
+
 ## mukta-m0-p23-v558
-[gloss](paśyan) [gloss](pratyaṃgamaṃkūradanaṃ) [gloss](gottuṃgamānasaḥ)
+[seeing](paśyan) [limb-by-limb](pratyaṃgamaṃ) [sprout](kūradanaṃ) [rising-mind](gottuṃgamānasaḥ)
+
 ## mukta-m0-p23-v559
-[gloss](yathā) [gloss](yauvanamullāsaṃ) [gloss](saṃprāpnotyaṃba) [gloss](dūtikā)
+[as](yathā) [youthful-ecstasy](yauvanamullāsaṃ) [attains](saṃprāpnoti) [O-mother](aṃba) [messenger](dūtikā)
+
 ## mukta-m0-p23-v560
-[gloss](ālokaneratiḥ) [gloss](sākṣāt) [gloss](smite) [gloss](jāgarti) [gloss](jāhnavī)
+[by-gazing](ālokaneratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [ganges](jāhnavī)
+
 ## mukta-m0-p23-v561
-[gloss](aśvinau) [gloss](nāsikābhāge) [gloss](tvoṣṭhe) [gloss](ca) [gloss](paramāmṛtam)
+[twins](aśvinau) [nose-region](nāsikābhāge) [and-lip](tvoṣṭhe) [supreme-nectar](ca+paramāmṛtam)
+
 ## mukta-m0-p23-v562
-[gloss](svede) [gloss](ca) [gloss](vāruṇī) [gloss](devī) [gloss](kāmanāthastvahaṃ) [gloss](kṛtau)
+[in-sweat](svede) [varuni-goddess](ca+vāruṇī+devī) [desire-lord](kāmanāthastvahaṃ) [in-act](kṛtau)
+
 ## mukta-m0-p23-v563
-[gloss](stanadvaye) [gloss](merugirirnniḥ) [gloss](śabdaṃ) [gloss](brahmamadhyame)
+[on-two-breasts](stanadvaye) [meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [brahma-middle](brahmamadhyame)
+
 ## mukta-m0-p23-v564
-[gloss](valitraye) [gloss](ca) [gloss](trailokyaṃ) [gloss](nābhigarbhe) [gloss](guhāṃbikā)
+[in-three-folds](valitraye) [three-worlds](ca+trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
+
 ## mukta-m0-p23-v565
-[gloss](nakheṣu) [gloss](śītāṃ) [gloss](śu) [gloss](kalādormmūleṃkuśadevatāḥ)
+[in-nails](nakheṣu) [cool](śītāṃ) [shu](śu) [kalas](kalādormmūleṃkuśadevatāḥ)
+
 ## mukta-m0-p23-v566
-[gloss](kāverī) [gloss](caiva) [gloss](niśvāse) [gloss](godāsītkāra) [gloss](karmaṇi)
+[kaveri](kāverī) [indeed](caiva) [in-exhalation](niśvāse) [godasi](godāsītkāra) [in-action](karmaṇi)
+
 ## mukta-m0-p23-v567
-[gloss](amalālāpakṛtyeṣu) [gloss](cittaviśrāṃti) [gloss](nāyakā)
+[in-pure-lip-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
+
 ## mukta-m0-p23-v568
-[gloss](vākptiḥ) [gloss](sukhahuṃkāre) [gloss](gīṣpatīkākukādhvanau)
+[speech-lordship](vākptiḥ) [pleasant-hum](sukhahuṃkāre) [speech-lord](gīṣpatīkākukādhvanau)
+
 ## mukta-m0-p23-v569
-[gloss](iṃdraścittasamunnatyāmagnirvastu) [gloss](grasītviṣi)
+[indra](iṃdraścittasamunnatyāmagnirvastu) [grasping-light](grasītviṣi)
+
 ## mukta-m0-p23-v570
-[gloss](hastādicālane) [gloss](yajñastvāśleṣe) [gloss](yajñapūruṣaḥ)
+[hand-etc-movement](hastādicālane) [sacrifice](yajñastvāśleṣe) [sacrifice-person](yajñapūruṣaḥ)
+
 ## mukta-m0-p23-v571
-[gloss](lāsyaṃ) [gloss](ca) [gloss](tāṃḍavaṃ) [gloss](devi) [gloss](tasyā) [gloss](dehādi) [gloss](ghūrṇane)
+[dance](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [her](tasyā) [body-etc](dehādi) [whirling](ghūrṇane)
+
 ## mukta-m0-p23-v572
-[gloss](tānisarvāṇi) [gloss](varttate) [gloss](tasyāgaṃḍūṣavastuni)
+[those-all](tānisarvāṇi) [occur](varttate) [her](tasyāgaṃḍūṣavastuni)
+
 ## mukta-m0-p23-v573
-[gloss](tatphalaṃ) [gloss](labhate) [gloss](dūtī) [gloss](sudhāgaṃḍūṣa) [gloss](sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-gargle](sudhāgaṃḍūṣa) [by-drinking](sevanāt)
+
 ## mukta-m0-p23-v574
-[gloss](gaṃḍūṣamādiraṃ) [gloss](devī) [gloss](vīrasyānaṃda) [gloss](varddhanam)
+[gargle-first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero-bliss](vīrasyānaṃda) [increasing](varddhanam)
+
 ## mukta-m0-p23-v575
-[gloss](nityaklinnāsudhā) [gloss](devī) [gloss](rati) [gloss](prītiśca) [gloss](tadbhage)
+[ever-moist](nityaklinnāsudhā) [goddess](devī) [pleasure](rati) [delight](prītiśca) [her-part](tadbhage)
