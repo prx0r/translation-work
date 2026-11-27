@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani+anāmikā+parva](tarjanyanāmikāparva) [sa+pāda+yava+varjitam](sapādayavavarjitam)
+[index-finger+ring-finger+joint](tarjanyanāmikāparva) [with+foot+barley+excluded](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[dvi+aṅgula](dvyaṅgulo) [aṅguṣṭha+granthi](aṅguṣṭhakagranthir) [āsām](āsāṃ) [parva+ardha+gā](parvārdhagā) [nakhāḥ](nakhāḥ)
+[two+finger](dvyaṅgulo) [thumb+knot](aṅguṣṭhakagranthi) [of-these](rāsāṃ) [half+joint+going](parvārdhagā) [nails](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nāsa+utsedhaḥ](nāsotsedhaḥ) [sa+vistāra](savistāro) [dvi+aṅgulaḥ](dvyaṅgulo) [dvi+puṭaḥ](dvipuṭaḥ) [śubhaḥ](śubhaḥ)
+[nose+height](nāsotsedhaḥ) [with+breadth+two+finger](savistārodvyaṅgulo) [two+chamber](dvipuṭaḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[dvi+ardhaṃ](dvyardhaṃ) [yavaṃ](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśa](vaśa) [stri+bhiḥ](stribhir) [yavaḥ](yavaḥ)
+[two+half](dvyardhaṃ) [barley](yavaṃ) [in+chamber](puṭe) [thick](sthūle) [middle](madhye) [twenty](viṃśaḥ) [with+three+barley](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[adhe](adhe) [aparo](aparo) [aṅgulakaṃ](aṅgulakaṃ) [tu](tu) [dvi+aṅgule](dvyaṅgule) [cibuka+sthitiḥ](cibukasthitiḥ)
+[below](adhe) [other](aparo) [finger+small](aṅgulakaṃ) [tu](tu) [two+finger](dvyaṅgule) [chin+position](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[nāsikā+mūla+pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi+aṅgulāyate](dvyaṅgulāyate)
+[nose+root+side](nāsikāmūlapārśve) [tu](tu) [eyes](locane) [two+finger+long](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[indīvara+abja+patra+ābhā](indīvarābjapatrābhā) [paṭola+phala+vat](paṭolaphalavat) [striyāḥ](striyāḥ)
+[blue-lotus+leaf+like](indīvarābjapatrābhā) [cucumber+fruit+like](paṭolaphalavat) [woman](striyāḥ)
 
 ## mukta-m0-p30-v733
-[pañcama+aṃśaṃ](pañcamāṃśaṃ) [bhavet](bhave) [jyotiḥ](jyotiḥ) [sṛkkaṇī+sūtra+tulyataḥ](sṛkkaṇīsūtratulyataḥ)
+[fifth+part](pañcamāṃśaṃ) [becomes](bhave) [light](jyotiḥ) [corner+thread+equal](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[ardha+aṅgula+samā](ardhāṅgulasamā) [droṇī](droṇī) [sa+ardha+dvi+aṅgula+dīrghatā](sārdhadvyaṅguladīrghatā)
+[half+finger+equal](ardhāṅgulasamā) [trough](droṇī) [with+half+two+finger+long](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[tayor](tayora) [tara+mātra+ardhaṃ](taramātrārdhaṃ) [striyāṃ](striyāṃ) [yava+ardha+vistṛte](yavārdhavistṛte)
+[their](tayora) [measure+half](taramātrārdhaṃ) [woman](striyāṃ) [barley+half+spread](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[karṇau](karṇau) [netra+dayā+āyāmau](netradayāyāmau) [tad+ardha+advistaraḥ](tadardhādvistarastayoḥ) [tayoḥ](tayoḥ)
+[ears](karṇau) [eye+length](netradayāyāmau) [that+half+breadth](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[kalā+ardhaṃ](kalārdhaṃ) [pāśau](pāśau) [kuryāt](kuryāt) [yat+hepsitau](yathepsitau)
+[half+part](kalārdhaṃ) [ear+pendant](tuḍhukau) [khalu](khalvau) [make](kuryād) [as+desired](yathepsitau)
 
 ## mukta-m0-p30-v738
-[indra+saṅkhyā+aṅgulaṃ](indrasaṅkhyāṅgulaṃ) [paścāt](paścāt) [karṇayoḥ](karṇayor) [antaraṃ](antaraṃ) [viduḥ](viduḥ)
+[indra+number+finger](indrasaṅkhyāṅgulaṃ) [after](paścāt) [ears+between](karṇayorantaraṃ) [know](viduḥ)
 
 ## mukta-m0-p30-v739
-[lalāṭaḥ](lalāṭo) [aṣṭa+aṅgula+āyāmaḥ](aṣṭāṅgulāyāmaḥ) [tri+aṅgulaḥ](tryaṅgulaḥ) [śaṅkhaḥ](śaṅkhaḥ) [ucyate](ucyate)
+[forehead+eight+finger+long](lalāṭo'ṣṭāṅgulāyāma) [three+finger](tryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
 
 ## mukta-m0-p30-v740
-[sapta+aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa+aṅgulau](sāṅgulau) [sa+yava+ucchrayau](sayavocchrayau)
+[seven+finger](saptāṅgulau) [cheeks](kapolau) [tu](tu) [with+finger](sāṅgulau) [with+barley+height](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[hanū](hanū) [kalā](kalā) [tri+dīrghau](tradīrghau) [vdi+kalaśaḥ](vdikalaśaḥ) [cibuka+udgamaḥ](cibukodgamaḥ)
+[jaw](hanū) [half+three+long](kalā tradīrghau) [four+half](vdikala) [chin+rise](ścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[skandhaḥ](skandho) [aṣṭa+aṅgula+vistāraḥ](aṣṭāṅgulavistāraḥ) [tad+āyāmaḥ](tadāyāmaḥ) [catuṣ+kalā](catuṣkalā)
+[shoulder+eight+finger+breadth](skandho'ṣṭāṅgulavistāra) [that+length+four+half](stadāyāmaścatuṣkalā)
 
 ## mukta-m0-p30-v743
-[vistāraḥ](vistāraḥ) [kūrparaḥ](kūrparastasmād) [bhūta+aṅgulaiḥ](bhūtāṅgulaiḥ) [yavaiḥ](yavaiḥ) [tathā](tathā)
+[breadth](vistāraḥ) [elbow](kūrparas) [from+that](tasmād) [five+finger+barley+thus](bhūtāṅgulairyavaistathā)
 
 ## mukta-m0-p30-v744
-[catura+aṅgula+vistāraḥ](caturaṅgulavistāro) [maṇibandhaḥ](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[four+finger+breadth](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[stanayoḥ](stanayor) [antaraṃ](antaraṃ) [tālaṃ](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi+netrakau](dvinetrakau)
+[breasts+between](stanayorantaraṃ) [palm](tālaṃ) [their](tayoḥ) [ends](prāntau) [two+eyes](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[nābhiḥ](nābhiḥ) [pradakṣiṇa+āvartā](pradakṣiṇāvartā) [nimnataḥ](nimnato) [ardha+aṅgula+uditā](ardhāṅguloditā)
+[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half+finger+raised](rdhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[hṛt](hṛd) [viṃśati+aṅgulaṃ](viṃśatyaṅgulaṃ) [proktaṃ](proktaṃ) [nābhi+deśaḥ](nābhideśaḥ) [caturdaśa](caturdaśa)
+[heart+twenty+finger](hṛdviṃśatyaṅgulaṃ) [proclaimed](proktaṃ) [navel+region+fourteen](nābhideśaścaturdaśa)
 
 ## mukta-m0-p30-v748
-[pañcādaśa+aṅgulaṃ](pañcādaśāṅgulaṃ) [vakṣaḥ](vakṣo) [hṛt+deśaḥ](hṛddeśaḥ) [pañcabhiḥ](pañcabhir) [vinā](vinā)
+[fifteen+finger](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart+region+five+without](hṛddeśaḥ pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanenoktā) [uktā](uktā) [śatāt](śatācca) [ca](ca) [dvi+adhika+aṅgulā](dvyadhikāṅgulā)
+[waist](kaṭiḥ) [girdle+by](saṃveṣṭanenoktā) [hundred+from](śatācca) [two+more+finger](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[catuḥ+netra+pravistārau](caturnetrapravistārau) [gaja+kumbha+upamau](gajakumbhopamau) [śubhau](śubhau)
+[four+eye+breadth](caturnetrapravistārau) [elephant+temples+like](gajakumbhopamau) [auspicious](śubhau)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa-mātraṃ](lakṣamātraṃ) [japet](japen) [mantraṃ](mantraṃ) [tataḥ](tataḥ) [siddhaḥ+bhavet+naraḥ](siddho bhavennaraḥ)
+[hundred-thousand-quantity](lakṣamātraṃ) [recite](japet)+[mantra](mantraṃ) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p10-v227
-[tat-daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [suvāsitaiḥ](suvāsitaiḥ)
+[that-tenth-part](taddaśāṃśaṃ) [and](ca) [musk](kastūrī) [camphor](karpūrābhyāṃ) [well-perfumed](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tat-daśāṃśaṃ](taddaśāṃśaṃ) [mahādevi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[that-tenth-part](taddaśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [feed](bhojayet) [dear](priye)
 
 ## mukta-m0-p10-v229
-[hṛdyaiḥ](hṛdyaiḥ) [pāyasa-pūpa-ādyaiḥ](pāyasa pūpādyaiḥ) [rasaiḥ+ca+eva](rasaiścaiva) [rasāyanaiḥ](rasāyanaiḥ)
+[pleasing](hṛdyaiḥ) [rice-pudding](pāyasa)+[cakes-etc](pūpādyaiḥ) [juices](rasaiḥ)+[and](ca)+[elixirs](eva)+[rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madyaiḥ](madyair) [māṃsaiḥ+ca](māṃsaiśca) [matsyaiḥ+ca](matsyaiśca) [nānā-vastu-upabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
+[liquors](madyaiḥ)+[meats](māṃsaiḥ)+[and](ca) [fishes](matsyaiḥ)+[and](ca) [various-things-increased](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī-vīrān](yoginī vīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra-sādhakaḥ](maṃtrasādhakaḥ)
+[worship](arcayet) [yoginis](yoginī)+[heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[ānanda-bhogān](ānaṃdabhogān) [bhugjānaḥ](bhugjānaḥ) [kṣoṇyāṃ](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
+[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [bodily](kāyavat)
 
 ## mukta-m0-p10-v233
-[ati-guhyatva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasyacit](yasyakasyacit)
+[extreme-secrecy](atiguhyatva) [protected](yā)+[rakṣyā] [not-given](na)+[deyā] [to-anyone](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[akutarka-pravīṇāya](akutarka pravīṇāya) [tattva-niṣṭhāya](tattvaniṣṭhāyadhīmate) [dhīmate](dhīmate)
+[not-fallacious](akutarka)+[skilled](pravīṇāya) [truth-devoted](tattvaniṣṭhāya)+[wise](dhīmate)
 
 ## mukta-m0-p10-v235
-[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [vadāmi+aham](vadāmyaham)
+[this](eṣā) [knowledge](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmyaham)
 
 ## mukta-m0-p10-v236
-[etat](etad) [vidyā-samaṃ](vidyāsamaṃ) [na+asti](nāsti) [na](na) [bhūtaṃ](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+[this](etad) [knowledge-equal](vidyāsamaṃ) [not](nāsti) [nor](na) [was](bhūtaṃ) [nor](na) [will-be](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[imām](imām) [abhyasyataḥ](abhyasyataḥ) [puṃsaḥ](puṃso) [mokṣa-mārgaḥ](mokṣamārgaḥ) [kara-sthitaḥ](karasthitaḥ)
+[this](imām) [practicing](abhyasyataḥ) [of-man](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[ityānaṃdataṃtre](ityānaṃdataṃtre) [paṃcamaḥ](paṃcamaḥ) [paṭalaḥ](paṭalaḥ)
+[thus](ityānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[yāga-rāja-kramaḥ](yāgarājakramaḥ) [sarva-puruṣārthaṃ](sarvapuruṣārthaṃ) [mahā-phalam](mahāphalam)
+[sacrificial-king-sequence](yāgarājakramaḥ) [all-purusharthas](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
 
 ## mukta-m0-p10-v240
-[varābhaya-yutaṃ](varābhayayutaṃ) [śāṃtaṃ](śāṃtaṃ) [śaktyā-śliṣṭaṃ](śaktyāśliṣṭaṃ) [manoharam](manoharam)
+[boon-fear-yoked](varābhayayutaṃ) [peaceful](śāṃtaṃ) [shakti-embraced](śaktyāśliṣṭaṃ) [mind-charming](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita-śarīraḥ](āplāvita śarīraḥ) [san](sannaṃ) [tardhyāyen](tardhyāyen) [maheśvarīm](maheśvarīm)
+[bathed-body](āplāvita)+[śarīraḥ] [with-inner](sannaṃtardhyāyen) [great-goddess](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna-ṣaṭ-sarojanma](vibhinna ṣaṭsarojanma) [prakāśa](prakāśa) [nija-vigrahām](nijavigrahām)
+[divided-six-lotuses](vibhinna)+[ṣaṭsarojanma] [manifest](prakāśa)+[own-form](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripura-suṃdarīm](tripurasuṃdarīm)
+[tripurasundari](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir-grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [mukta-mūtra-mala-vyathaḥ](muktamūtramalavyathaḥ)
+[going-out](nirgamya)+[and](ca) [outside-village](bahirgrāmāt) [freed-urine-feces-pain](muktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[sugaṃdha-taila-liptasya](sugaṃdhatailaliptasya) [piṣṭikā-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[fragrant-oil-anointed](sugaṃdhatailaliptasya) [paste-rubbed](piṣṭikodvarti)+[his](tasya)+[and](ca)
 
 ## mukta-m0-p10-v246
-[kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohānna) [na](na) [rūkṣa-snānam](rūkṣasnānam) [ācaret](ācaret)
+[ever](kadāpi) [kaulika](kauliko) [from-delusion](mohāt)+[not](na) [rough-bath](rūkṣasnānam)+[should-do](ācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhnitvā](mūrdhnitvā) [mūla-mantra-jāpena](mūlamaṃtra jāpenāṃ) [bhoṃjalitrayam](bhoṃjalitrayam)
+[head](mūrdhnitvā) [root-mantra](mūlamaṃtra)+[japa](jāpena)+[three-waters](aṃbhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
-[sa-kuśe](sakuśe) [sa-ha-puṣpe](sahapuṣpe) [ca](ca) [sa-gaṃdhe](sagaṃdhe) [tāmra-bhājane](tāmrabhājane)
+[with-kusha](sakuśe)+[with-flower](sahapuṣpe)+[and](ca) [with-perfume](sagaṃdhe) [copper-vessel](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra-rūpya-suvarṇaiḥ](tāmrarūpya suvarṇaistu) [tu](tu) [racitaṃ](racitaṃ) [tat](tat) [praśasyate](praśasyate)
+[copper-silver-gold](tāmrarūpya)+[suvarṇaiḥ]+[tu] [made](racitaṃ) [that-praised](tatpraśasyate)
 
 ## mukta-m0-p10-v250
-[yathā-śakti](yathā śakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga-maṃdiram](yāgamaṃdiram)
+[according-to-ability](yathā)+[śakti] [and](ca) [satisfying](saṃtarpya) [enter](praviśet)+[worship-shrine](yāgamaṃdiram)
