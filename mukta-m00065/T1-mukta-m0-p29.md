@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[should-be-done](kartavyā) [by-that-division](taddvibhāgena) [image](pratimā) [with-excellent](sottamā) [considered](matā)
+[kartavyā](kartavyā) [tad-dvibhāgena](taddvibhāgena) [pratimā](pratimā) [sa-uttamā](sottamā) [matā](matā)
 
 ## mukta-m0-p29-v702
-[nine-ending](navāntaṃ) [in-triple-triangle-ends](tritrikānteṣu) [youngest-etc](kanyasādyāḥ) [declared](prakīrtitāḥ)
+[navāntam](navāntaṃ) [tri-trikā-anteṣu](tritrikānteṣu) [kanyasā-ādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-[pedestal](pīṭha) [door-expansion](dvārapravistāraṃ) [Maya](mayaḥ) [made](cakre) [in-own](svake) [opinion](mate)
+[pīṭha](pīṭha) [dvāra-pravistāram](dvārapravistāraṃ) [mayaḥ](mayaś) [cakre](cakre) [svake](svake) [mate](mate)
 
 ## mukta-m0-p29-v704
-[tithi-seat-like](tithimāsanavat) [by-halves](ardhaiḥ) [deficient-middle-excellent](hīnamadhyottamāḥ) [threefold](tridhā)
+[tithi-māsana-vatya-ardha-hīna-madhya-uttamāḥ-tridhā](tithimāsanavatyardhaihīnamadhyottamāstridhā)
 
 ## mukta-m0-p29-v705
-[lame-forms](paṅgurūpāḥ) [and](ca) [kūṣmāṇḍas](kūṣmāṇḍāḥ) [sevenfold](saptadhā) [images](arcāḥ) [and](ca) [should-make](vartayet)
+[paṅgu-rūpāḥ](paṅgurūpāśca) [ca](ca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāśca) [ca](ca) [vartayet](vartayet)
 
 ## mukta-m0-p29-v706
-[dividing](vibhajya) [by-power-thread](śaktisūtreṇa) [from-stars-etc](ṛkṣādibhyaḥ) [auspicious](śubhe) [day](dine)
+[vibhajya](vibhajya) [śakti-sūtreṇa](śaktisūtreṇa) [ṛkṣa-ādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
 
 ## mukta-m0-p29-v707
-[pedestal-soul-refuge-life-parts](pīṭhātmāśrayajīvāṃś) [and](ca) [radiance-etc](prabhādīṃś) [and](ca) [should-arrange](prakalpayet)
+[pīṭha-ātma-āśraya-jīva-aṃśān](pīṭhātmāśrayajīvāṃśca) [ca](ca) [prabhā-ādīn](prabhādīṃśca) [ca](ca) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p29-v708
-[having-made](kṛtvā) [lower-part-gone](adhoṃśagataḥ) [pedestal](pīṭhaṃ) [in-third-part](tribhāge) [life-arrangement](jīvakalpanā)
+[kṛtvā](kṛtvādhoṃśagataḥ) [adha-aṃśa-gataḥ](adhoṃśagataḥ) [pīṭham](pīṭhaṃ) [tri-bhāge](tribhāge) [jīva-kalpanā](jīvakalpanā)
 
 ## mukta-m0-p29-v709
-[with-soul-refuge](sātmāśrayāṃ) [with-messenger](sadūtīṃ) [and](ca) [image](pratimāṃ) [should-make](vartayet) [then](tataḥ)
+[sātma-āśrayām](sātmāśrayāṃ) [sadūtīm](sadūtīṃ) [ca](ca) [pratimām](pratimāṃ) [vartayet](vartayettataḥ) [tataḥ](tataḥ)
 
 ## mukta-m0-p29-v710
-[part-one-angula](bhāgaikamaṅgula) [having-made](kṛtvā) [great-image](mahārcāṃ) [should-make](vatayed) [wise](budhaḥ)
+[bhāga-ekam-aṅgulam](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [mahā-arcām](mahārcāṃ) [vatayet](vatayedbudhaḥ) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p29-v711
-[one](eka) [part](bhāge) [angula](aṅgulaṃ) [of-that](tasyā) [limb](aṅgaṃ) [should-arrange](parikalpayet)
+[eka](eka) [bhāge](bhāge) [aṅgulam](aṅgulaṃ) [tasyām](tasyā) [stena-aṅgam](stenāṅgaṃ) [parikalpayet](parikalpayet)
 
 ## mukta-m0-p29-v712
-[by-Maya](maye) [thread](sūtraṃ) [even](samaṃ) [placing](nyasya) [straight-image](ṛjvarcāṃ) [should-make](kārayet) [auspicious](śubhām)
+[maye](maye) [sūtram](sūtraṃ) [samam](samaṃ) [nyasya](nyasya) [ṛju-arcām](ṛjvarcāṃ) [kārayet](kārayecchubhām) [śubhām](śubhām)
 
 ## mukta-m0-p29-v713
-[of-life](jīvasya) [by-length-measure](āddairghyamānena) [limbs](pratyaṅgāni) [now](adhunā) [I-speak](vruve)
+[jīvasya](jīvasyāddairghyamānena) [ād-dairghya-mānena](āddairghyamānena) [pratyaṅgāni](pratyaṅgānyadhunā) [adhunā](adhunā) [vruve](vruve)
 
 ## mukta-m0-p29-v714
-[by-measures](mātrābhiḥ) [tithi-numbers](tithisaṃkhyābhiḥ) [crown](mukuṭa) [wrapping](veṣṭanaṃ) [becomes](bhavet)
+[mātrābhiḥ](mātrābhistithisaṃkhyābhirmukuṭa) [tithi-saṃkhyābhiḥ](tithisaṃkhyābhiḥ) [mukuṭe](mukuṭe) [veṣṭanam](veṣṭanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p29-v715
-[tāla-measure](tālamānaṃ) [becomes](bhaved) [face](vakraṃ) [neck](grīvā) [and](ca) [four-angulas](caturaṅgulā)
+[tāla-mānam](tālamānaṃ) [bhavet](bhavedvakraṃ) [vakram](vakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
 
 ## mukta-m0-p29-v716
-[tāla-one-one-measure](tālaikaikapramāṇaṃ) [should-be](syāt) [thighs](ūrū) [tāla-exit](tālavinirgamau)
+[tāla-ekaika-pramāṇam](tālaikaikapramāṇaṃ) [syāt](syādūrū) [ūrū](ūrū) [tāla-vinirgamau](tālavinirgamau)
 
 ## mukta-m0-p29-v717
-[known](jñeyau) [ankles](gulphau) [two-eyes](dvinetrau) [and](ca) [heels](pārṣṇī) [two-angulas](dvyaṅgulake) [opinion](mate)
+[jñeyau](jñeyau) [gulphau](gulphau) [dvi-netrau](dvinetrau) [ca](ca) [pārṣṇī](pārṣṇīdvyaṅgulake) [dvi-aṅgulake](dvyaṅgulake) [mate](mate)
 
 ## mukta-m0-p29-v718
-[in-middle](madhye) [two-kalā-height](kalādvayocchrāya) [in-front](agre) [half-half](sārdhārdha) [measure](mātrakau)
+[madhye](madhye) [kalā-dvaya-ucchrāya](kalādvayocchrāyovagresārdhārdha) [agre](agre) [sārdha-ardha](sārdhārdha) [mātrakau](mātrakau)
 
 ## mukta-m0-p29-v719
-[five-angulas](pañcāṅgulau) [by-wrapping](veṣṭanena) [half-angula-two-joints](sārdhāṅgaladviparvaṇī)
+[pañca-aṅgulau](pañcāṅgulau) [veṣṭanena](veṣṭanena) [sārdha-aṅgala-dvi-parvaṇī](sārdhāṅgaladviparvaṇī)
 
 ## mukta-m0-p29-v720
-[three-angulas](tryaṅgulā) [by-circumference](pariṇāhena) [are-spoken](kathyante) [now-other](tvadhunāparāḥ)
+[tri-aṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tu](tvadhunāparāḥ) [adhunā](adhunā) [aparāḥ](aparāḥ)
 
 ## mukta-m0-p29-v721
-[toe-fingers](pādāṅgulyaḥ) [three-joints](triparvāṇaḥ) [joint-half-nail-adorned](parvārdhanakhaśobhitāḥ)
+[pāda-aṅgulyaḥ](pādāṅgulyastriparvāṇaḥ) [tri-parvāṇaḥ](triparvāṇaḥ) [parva-ardha-nakha-śobhitāḥ](parvārdhanakhaśobhitāḥ)
 
 ## mukta-m0-p29-v722
-[hand-foot](kārāṅghri) [sole](talakaṃ) [red](raktaṃ) [nails](nakhāḥ) [with-raised-red](savonnatāruṇāḥ)
+[kāra-aṅghri](kārāṅghri) [talakam](talakaṃ) [raktam](raktaṃ) [nakhāḥ](nakhāḥ) [sa-vonnata-aruṇāḥ](savonnatāruṇāḥ)
 
 ## mukta-m0-p29-v723
-[forearms](upabāhū) [ten-eight-parts](daśāṣṭāṃśau) [sixteen-angulas](ṣoḍaśāṅgulakau) [arms](bhujau)
+[upabāhū](upabāhū) [daśa-aṣṭa-aṃśau](daśāṣṭāṃśau) [ṣoḍaśa-aṅgulakau](ṣoḍaśāṅgulakau) [bhujau](bhujau)
 
 ## mukta-m0-p29-v724
-[five-angulas](bhūtāṅgulā) [becomes](bhaven) [middle](madhyā) [half-less](ardhahīnā) [ring-finger](tvanāmikā)
+[bhūta-aṅgulā](bhūtāṅgulā) [bhavet](bhavenmadhyā) [madhyā](madhyā) [ardha-hīnā](ardhahīnā) [tu](tvanāmikā) [anāmikā](anāmikā)
 
 ## mukta-m0-p29-v725
-[middle-etc](madhyamādyāḥ) [three-joints](triparvāṇo) [two-joint-thumb](dviparvāṅguṣṭhako) [opinion](mataḥ)
+[madhyamā-ādyāḥ](madhyamādyāstriparvāṇo) [tri-parvāṇaḥ](triparvāṇo) [dvi-parva-aṅguṣṭhakaḥ](dviparvāṅguṣṭhako) [mataḥ](mataḥ)
