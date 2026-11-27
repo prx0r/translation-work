@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[atho](atho) [sa](sa) [eva](eva) [mṛt-piṇḍam](mṛtpiṇḍaṃ) [kulāla-kara-varttanaiḥ](kulālakaravarttanaiḥ)
+[thus](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter's-wheel](kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-[gabhīrite](gabhīrite) [madhya-deśe](madhyadeśe) [tatra-eva](tatraiva) [kuharī-kṛtaḥ](kuharīkṛtaḥ)
+[deep](gabhīrite) [middle-region](madhyadeśe) [there](tatra) [indeed](eva) [hollowed](kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-[kuṃbha](kuṃbha) [iti](iti) [asya](asya) [śabdasya](śabdasya) [vācyatām](vācyatām) [avagāhate](avagāhate)
+[pot](kuṃbha) [thus](iti) [of-word](asya) [śabdasya] [denotation](vācyatām) [enters](avagāhate)
 
 ## mukta-m0-p54-v1329
-[bhūmau](bhūmau) [viśīrṇa](viśīrṇa) [sarvāṃgaḥ](sarvāṃgaḥ) [kāpāla-ogha](kāpālaugha) [tvam](tvam) [īhate](īhate)
+[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherds-mass](kāpālaugha) [this](tvam) [strives](īhate)
 
 ## mukta-m0-p54-v1330
-[kuṭṭitaḥ](kuṭṭitaḥ) [san](san) [prabhajate](prabhajate) [dhūli-śabdasya](dhūliśabdasya) [vācyatām](vācyatām)
+[broken](kuṭṭitaḥ) [being](san) [scatters](prabhajate) [dust-word](dhūliśabdasya) [denotation](vācyatām)
 
 ## mukta-m0-p54-v1331
-[śīrṇa-śīrṇaḥ](śīrṇaśīrṇaḥ) [punar](punar) [vegāt](vegāt) [tra](tra) [sareṇu-tvam](sareṇutvam) [icchati](icchati)
+[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar) [by-force](vegāt) [limb](tra) [dusthood](sareṇutvam) [desires](icchati)
 
 ## mukta-m0-p54-v1332
-[atyaṃta](atyaṃta) [sūkṣma-durlakṣā](sūkṣmadurlakṣā) [ghūrṇate](ghūrṇate) [vāyu-maṇḍale](vāyumaṇḍale)
+[extremely](atyaṃta) [subtle](sūkṣma) [hard-to-perceive](durlakṣā) [whirls](ghūrṇate) [wind-orb](vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-[anyonya-śabda-nirvācyāḥ](anyonyaśabdanirvācyāḥ) [te](te) [āropāḥ](āropāḥ) [prakīrttitāḥ](prakīrttitāḥ)
+[mutually](anyonya) [word-inexpressible](śabdanirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-[tatra](tatra) [āropita-rūpatvam](āropitarūpatvam) [ghaṭa-ādeḥ](ghaṭādeḥ) [kārayan](kārayan) [budhaḥ](budhaḥ)
+[there](tatra) [superimposed-form-ness](āropitarūpatvaṃ) [pot-etc](ghaṭādeḥ) [causing](kārayan) [wise-one](budhaḥ)
 
 ## mukta-m0-p54-v1335
-[guṇa-antara-samāsaṃga](guṇāntarasamāsaṃga) [mātrāt](mātrāt) [eva](eva) [katham](katham) [mṛdi](mṛdi)
+[quality-other](guṇāntara) [conjunction](samāsaṃga) [measure](mātrāt) [eva](eva) [how](kathaṃ) [in-clay](mṛdi)
 
 ## mukta-m0-p54-v1336
-[vṛthā](vṛthā) [tasya](tasya) [samāropam](samāropam) [vṛthā](vṛthā) [tasya](tasya) [punar](punar) [layaḥ](layaḥ)
+[vain](vṛthā) [of-him](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [of-him](tasya) [again](punar) [dissolution](layaḥ)
 
 ## mukta-m0-p54-v1337
-[īdṛśāḥ](īdṛśā) [eva](eva) [kalahe](kalahe) [hetavaḥ](hetavaḥ) [pratipāditāḥ](pratipāditāḥ)
+[such](īdṛśāḥ) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [shown](pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-[varṇa-ātmakāḥ](varṇātmakāḥ) [tu](tu) [ye](ye) [śabdāḥ](śabdāḥ) [tatra](tatra) [nityatvam](nityatvam) [ekakaḥ](ekakaḥ)
+[sound-natured](varṇātmakāḥ) [but](tu) [those](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [one](ekakaḥ)
 
 ## mukta-m0-p54-v1339
-[ataḥ](ataḥ) [pravṛddha-vairāṇām](pravṛddhavairāṇām) [vādinām](vādinām) [abhivalgatām](abhivalgatām)
+[therefore](ataḥ) [grown](pravṛddha) [enmity](vairāṇāṃ) [of-disputants](vādinām) [boasting](abhivalgatām)
 
 ## mukta-m0-p54-v1340
-[prabhūtataradarpāṃdhāḥ](prabhūtataradarpāṃdhāḥ) [pāṇḍitya](pāṇḍitya) [graha-durdhiyām](grahadurdhiyām)
+[abundant](prabhūtataradarpāṃdhāḥ) [panditya](pāṇḍitya) [planet](graha) [bad-intellect](durdhiyām)
 
 ## mukta-m0-p54-v1341
-[tad-gaveṣaṇa-mārgeṇa](tadgaveṣaṇamārgeṇa) [tat](tat) [samāna](samāna) [samādhinā](samādhinā)
+[that](tad) [search-path](gaveṣaṇamārgeṇa) [that](tat) [same](samāna) [concentration](samādhinā)
 
 ## mukta-m0-p54-v1342
-[viruddha-bhāṣaṇe](viruddhabhāṣaṇe) [jāti](jāti) [nigraha](nigraha) [sthāna-kalpanaiḥ](sthānakalpanaiḥ)
+[contradictory](viruddha) [speech](bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna) [contrivance](kalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-[paścāt](paścāt) [kope](kope) [sati](sati) [galocchoṣakāraṇa](galoccoṣakāraṇa) [ghoṣaṇaiḥ](ghoṣaṇaiḥ)
+[afterwards](paścāt) [anger](kope) [being](sati) [throat](galam) [drying-cause](coṣakāraṇa) [shouting](ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-[punar](punar) [tena](tena) [prakāreṇa](prakāreṇa) [keśākeśi](keśākeśi) [kṛte](kṛte) [raṇe](raṇe)
+[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [done](kṛte) [battle](raṇe)
 
 ## mukta-m0-p54-v1345
-[pādāt](pādāt) [saṃvṛta-vegānām](saṃvṛtavegānām) [vādinām](vādinām) [dveṣa-veśmasu](dveṣaveśmasu)
+[foot](pādāt) [closed-velocity](saṃvṛtavegānāṃ) [of-disputants](vādināṃ) [hatred-houses](dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-[siddhāntitaiḥ](siddhāntitaiḥ) [ca](ca) [sva-manaḥ](svamanaḥ) [śuddhaiḥ](śuddhaiḥ) [anyaiḥ](anyaiḥ) [ca](ca) [ninditaiḥ](ninditaiḥ)
+[established](siddhāntitaiḥ) [ca](ca) [own-mind](svamanaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [ca](ca) [blamed](ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-[vyāmūḍhān](vyāmūḍhān) [kurvatām](kurvatām) [eṣa](eṣa) [teṣām](teṣām) [panthānir](panthānir) [aṅkuśaḥ](aṅkuśaḥ)
+[confused](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthānir) [unrestrained](aṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-[pramāṇāṃdhāḥ](pramāṇāṃdhāḥ) [ṣoḍaśāye](ṣoḍaśāye) [padārthaiḥ](padārthaiḥ) [taiḥ](taiḥ) [mahākālīḥ](mahākālīḥ)
+[proof-blind](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ) [with-those](taiḥ) [great-kali](mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-[kalahaḥ](kalahaḥ) [kevalam](kevalam) [tatra](tatra) [duḥsamāpa-śaracchataiḥ](duḥsamāpaśaracchataiḥ)
+[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa) [autumn-hundreds](śaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-[saṃprāpti-rūpo](saṃprāptirūpo) [bhavitā](bhavitā) [tadā](tadā) [vāmena](vāmena) [nirṇayaḥ](nirṇayaḥ)
+[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
