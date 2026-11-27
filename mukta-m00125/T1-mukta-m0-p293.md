@@ -1,4 +1,4 @@
 # mukta-m00125 mukta-m0-p293
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-No verse text was provided for `mukta-m0-p293`, so I cannot produce byte-exact pada-glosses without the source. Please paste the labeled verses.
+I don't have access to the text content of `mukta-m00125` / `mukta-m0-p293` or its verses, so I can't produce accurate pada-glosses for it. If you can paste the verses (with their verse numbers and surfaces), I'll gloss each one separately in the exact format requested.

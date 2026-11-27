@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not anything-at-all I-know lord-awaken awaken
+na(not) kiṃcidapi(anything-at-all) jānāmi(I-know) nātha+bodhaya+bodhaya(lord+awaken+awaken)
 
 ## mukta-m0-p36-v877
-this for-happiness-cause for-auspicious-linga to-Shambhu
+etat(this) saukhya+nidānāya(bliss+cause-for) svasti+liṃgāya(auspice+sign-for) śaṃbhave(to-Śambhu)
 
 ## mukta-m0-p36-v878
-offering-to-Shiva this may-be again let-be offering-to-Shiva
+śiva+arpaṇam(Śiva+offering) idaṃ(this) bhūyāt(may-be) punaḥ(again) astu(may-be) śiva+arpaṇam(Śiva+offering)
 
 ## mukta-m0-p36-v879
-faded lotus-stalk and garland-like on-chest
+mlānā(withered) padma+mṛṇālī(lotus+stalk) va(and) mālikevāsya? vakṣasi(on-chest)
 
 ## mukta-m0-p36-v880
-absorbed-absorbed-syllable afterwards slow-slow-syllable again
+līna+līna+akṣaraṃ(absorbed+absorbed+syllable) paścāt(afterwards) maṃda+maṃda+akṣaraṃ(slow+slow+syllable) punaḥ(again)
 
 ## mukta-m0-p36-v881
-thus-etc-quality-messenger six-offerings great-festival
+evamādi+guṇa+ādūtyāḥ(thus+quality+messenger) ṣaḍāhuti[sixth+offering] mahotsave(great+festival)
 
 ## mukta-m0-p36-v882
-sixth-six-taste-endowed many-food-giving
+ṣaṣṭhi+ṣaḍrasa+saṃpannā(sixth+six-taste+endowed) bahu+bhojana+dāyinī(many+food+giving)
 
 ## mukta-m0-p36-v883
-six-limb-deity form by-all-ritual-water
+ṣaḍ+aṃga+devatā(six+limb+deity) rūpā(form) sarva+dākriyatāṃ+budhaiḥ(all+to-be-done+by-wise)
 
 ## mukta-m0-p36-v884
-and-of-heroine by-opening pleasant-rest arises
+nāyikāyāḥ+ca+vidṛtyā(heroine+and+opening) sukha+śrāṃtiḥ(happiness+rest) pravartate(proceeds)
 
 ## mukta-m0-p36-v885
-sugar-nectar-mixed pure-soup-seasoned
+śarkarā+mṛta+saṃmiśraṃ(sugar+nectar+mixed) śuddhi+yūṣa+sanādhitam(purity+soup+prepared)
 
 ## mukta-m0-p36-v886
-oneself that-remainder and should-drink devotion with-load-bowed
+svayaṃ+self+remaining? tad+avaśiṣṭaṃ(that+remainder) ca(and) pibet(should-drink) bhakti+bharānataḥ(devotion+laden-bowed)
 
 ## mukta-m0-p36-v887
-mantra and-of-bliss-god hundreds or thousands
+maṃtraṃ(mantra) ca(and) ānaṃdadevasya(of-Ānandadeva) śataśaḥ+hundreds? vā+sahasraśaḥ(or+thousands)
 
 ## mukta-m0-p36-v888
-unjoined-yantra should-recite deity-curse would-obtain
+ayukta+yantraḥ(improper+instrument) prajaped(should-recite) devatā+śāpam+āpnuyāt(deity+curse+would-obtain)
 
 ## mukta-m0-p36-v889
-thus when-recited supreme-bliss-form linga-great-lord
+evaṃ(thus) japte(recited) parānaṃda+rūpi+liṃga+mahēśvaraḥ(supreme-bliss+form+liṅga+great-lord)
 
 ## mukta-m0-p36-v890
-as-long-as recites hero this messenger rest for-cause
+yāvat(as-long-as) japati(recites) vīraḥ(hero) ayaṃ(this) dūti+viśrāṃti+hetave(messenger+rest+for-sake)
 
 ## mukta-m0-p36-v891
-thus by-order rest having-gone messenger-body
+iththaṃ(thus) krameṇa(by-order) viśrāṃtiṃ(rest) gatāyāṃ(gone) dūtikā+tanau(messenger+body)
 
 ## mukta-m0-p36-v892
-for-moon-crescent-meaning by-gula raised moon-moonlight
+caṃdra+rekhā+arthāṃ(moon+crescent+meaning) gulinā? pronnatā(raised) caṃdra+caṃdrikā(moon+moonlight)
 
 ## mukta-m0-p36-v893
-flax flower-like triangular-form gone
+atasī(flax) puṣpa+saṃkāśā(flower+resembling) trikoṇa+ākāra+tāṃ(gone+triangular+form)
 
 ## mukta-m0-p36-v894
-long-flowing also lord one arranged thumb by-kisses
+ciradravā+api(long-flowing+even) nātha+eka(lord+one) kluptaiḥ+raṃguṣṭha+cuṃbanaiḥ(arranged+thumb+kisses)
 
 ## mukta-m0-p36-v895
-on-navel slap by-falls on-buttocks by-hand-rubbing
+nābhai+capeṭa+patanaiḥ(navel+slap+falls) nitaṃbe+on-buttocks? hastamardanaiḥ(hand-rubbings)
 
 ## mukta-m0-p36-v896
-own juice flowing-indeed heroine moon-moonlight
+nijaṃ+rasaṃ(sravaṃtyeva? own+essence) sravaṃtyeva(flowing-indeed) nāyikā+caṃdra+caṃdrikā(heroine+moon+moonlight)
 
 ## mukta-m0-p36-v897
-flour-wine-fragrance arrow-flower-intense-radiance
+paiṣṭi+madya+sama+modaṃ(grain+liquor+equal+fragrance) bāṇa+puṣpa+ulbaṇa+dyuti(arrow+flower+abundant+radiance)
 
 ## mukta-m0-p36-v898
-attainment-accomplishment-procreation all-lordship-named-speech
+prāpti+siddhi+prajananaṃ(attainment+perfection+generation) sarva+aiśvarya+ākhya+vāṅmayam(all+sovereignty+named+speech)
 
 ## mukta-m0-p36-v899
-all-disease-pacifying light-cool-pure
+samasta+vyādhi+śamanaṃ(all+disease+pacification) laghu+śītala+nirmalam(light+cool+pure)
 
 ## mukta-m0-p36-v900
-then recited mantra and Palamba-presiding-deity
+tadā+japet+itaṃ? maṃtraṃ(mantra) ca(and) palāṃbā+adhidaivatam(Palāmbā+presiding-deity)
