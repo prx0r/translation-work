@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-sometimes (kvacit) particle (kaṇaṃ) by-entry (praveśena) having-marked (lāñchayitvā) sword-destruction (asiśātanam)
+[sometimes](kvacit) [particle](kaṇaṃ) [entry](praveśena) [marking](lāñchayitvā) [weapon-cutting](asiśātanam)
 
 ## mukta-m0-p26-v627
-in-middle (tanmadhye) thread-confused (sūtrasambhrānte) Rudra (rudraḥ) becomes (bhavati) round (vartulaḥ)
+[therein](tanmadhye) [thread-confusion](sūtrasambhrānte) [rudra](rudro) [becomes](bhavati) [round](vartulaḥ)
 
 ## mukta-m0-p26-v628
-throw-or (kṣipedvā) void-fault-destroying (śūnyadoṣaghnaṃ) from-hand-one-finger (hastādekāṅgulaṃ) gradually (kramāt)
+[throws](kṣipedvā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand](hastāt) [one-finger](ekāṅgulaṃ) [gradually](kramāt)
 
 ## mukta-m0-p26-v629
-sixteenth-part (ṣoḍaśāṃśa) throw-in-first (kṣipedādye) Veda-part (vedāṃśam) god-worshipped (amarorcite)
+[sixteenth-part](ṣoḍaśāṃśa) [throws](kṣiped) [first](ādye) [veda-part](vedāṃśam) [god-worshipped](amarorcite)
 
 ## mukta-m0-p26-v630
-in-Piṅgalā's (piṅgalāyā) opinion (mate) declared (proktam) first-god-worshipped (ādyāmarārcitena) but (tu)
+[piṅgalā](piṅgalāyā) [opinion](mate) [declared](proktam) [first-god-worshipped](ādyāmarārcitena) [but](tu)
 
 ## mukta-m0-p26-v631
-would-be (bhaveyuḥ) increasing (vardhamānāni) earth-six (vasudviṣaṭ) hundreds (śatāni) and (ca)
+[become](bhaveyur) [increasing](vardhamānāni) [earth-two-six](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
 
 ## mukta-m0-p26-v632
-Viśvakarma's-opinion (viśvakarmamataṃ) having-seen (dṛṣṭvā) to-be-said (vaktavyaṃ) pedestal-rotation (pīṭhavartanam)
+[viśvakarma-opinion](viśvakarmamataṃ) [seeing](dṛṣṭvā) [to-be-spoken](vaktavyaṃ) [pedestal-turning](pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-and-that (tacca) equal (samasamaṃ) liṅga (liṅgaṃ) in-temple (prāsāde) or (vā) in-house (gṛhe) suitable (hitam)
+[that](tacca) [equal-linga](samasamaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [beneficial](hitam)
 
 ## mukta-m0-p26-v634
-two (dvau) feet (pādau) to-knee (jānuparyantaṃ) four-cornered (caturasra) grandfather (pitāmahaḥ)
+[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasra) [pitāmaha](pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-to-head (āmūrdhaṃ) from-navel (nābhitaḥ) upward (ūrdhvaṃ) round-part (vṛttabhāge) Hara (haraḥ) himself (svayam)
+[up-to-head](āmūrdhaṃ) [from-navel-upward](nābhitaścordhvaṃ) [round-part](vṛttabhāge) [hara](haraḥ) [himself](svayam)
 
 ## mukta-m0-p26-v636
-fivefold (pañcadhā) manifest-liṅgas (vyaktaliṅgāni) equal-pedestals (samapīṭhāni) those (tāni) and (ca)
+[fivefold](pañcadhā) [manifest-lingas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
 
 ## mukta-m0-p26-v637
-five-liṅga-arrangement (pañcaliṅgavyavasthā) this (iyam) head-rotating (śirovartini) thus (atha) is-said (ucyate)
+[five-linga-arrangement](pañcaliṅgavyavastheyaṃ) [head-turning](śirovartinyathocyate)
 
 ## mukta-m0-p26-v638
-of-each (ekaikasya) by-four-divisions (caturbhedaiḥ) from-desired-form (kāmyarūpāt) fruit (phalam) one-should-declare (vadet)
+[one-by-one](ekaikasya) [four-varieties](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phala) [would-say](vadet)
 
 ## mukta-m0-p26-v639
-long-reign-giving (cirarājyaprada) famous (khyātaṃ) umbrella-divisions (chatrabhedāḥ) fourfold (caturvidhāḥ)
+[long-reign-giving](cirarājyaprada) [known](khyātaṃ) [umbrella-varieties](chatrabhedāś) [fourfold](caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-measure-giving (mānada) wing (pakṣa) by-loss (lopāt) ca large (vipulaṃ) fame-giving (khyātidaṃ) becomes (bhavet)
+[measure-giving](mānada) [wing](pakṣa) [loss](lopāt) [ca](ca) [vast](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v641
-Śrīvāsa (śrīvāsaṃ) son-giving (putradaṃ) Kuru (kurtu) Dakṣa-egg (dakṣāṇḍaṃ) would-be (syāt) fourfold (caturvidham)
+[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtur) [dakṣa-egg](dakṣāṇḍaṃ) [fourfold](caturvidham)
 
 ## mukta-m0-p26-v642
-nourishment-giving (puṣṭidaṃ) by-two-decay (dvikṣayāt) full (pūrṇaṃ) great-delight-making (mahāhlādakara) always (sadā)
+[nourishment-giving](puṣṭidaṃ) [two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-causing](mahāhlādakarasadā)
 
 ## mukta-m0-p26-v643
-weapon (āyudaṃ) Kumuda (kumudaṃ) to-be-known (jñeyaṃ) moon (candaṃ) fourfold (caturvidhaṃ) opinion (matam)
+[weapon](āyudaṃ) [kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [canda](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
 
 ## mukta-m0-p26-v644
-all-desires-giving (sarvakāmapradaṃ) declared (proktaṃ) destruction (vināśaṃ) by-two-decay (dvikṣayāt) for-prosperity (śriye)
+[all-desire-giving](sarvakāmapradaṃ) [declared](proktaṃ) [destruction](vināśaṃ) [two-decay](dvikṣayāc) [to-śrī](chriye)
 
 ## mukta-m0-p26-v645
-belovedness-giving (ballabhatvaprada) and-that (tacca) fourfold (caturdhā) lead (trapuṣaṃ) becomes (bhavet)
+[ballabha-giving](ballabhatvaprada) [that](tacca) [fourfold](caturdhā) [lead](trapuṣaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v646
-should-do (kuryāt) for-Brahmin-etc-work (viprādikāryārthaṃ) one (ekaṃ) or (vā) cock-egg (kukkuṭāṇḍakam)
+[should-do](kuryāt) [brāhmaṇa-etc-work](viprādikāryārtham) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-long-life (dīrghāyuṣṭvam) and (atha) moon's (cendoḥ) from-partridge-egg (kṛkavākvaṇḍataḥ) wisdoms (prajñāḥ)
+[long-life](dīrghāyuṣṭvam) [then](atha) [moon](cendoḥ) [kṛkavāk-egg](kṛkavākvaṇḍataḥ) [wisdoms](prajñāḥ)
 
 ## mukta-m0-p26-v648
-twenty-Jina-tigers (jinaviṃśatiśārdūlaiḥ) in-first (ādye) Brahma-etc-enclosure (brahmādiveṣṭanam)
+[twenty-jina](jinaviṃśati) [tigers](śārdūlair) [first](ādye) [brahmā-etc-wrapping](brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-by-modification (vikāreṇa) by-love (smareṇa) third-part (aṃśatṛtīyāṃśa) joined (yutena) and (ca)
+[by-variation](vikāreṇa) [by-smara](smareṇa) [part-third-part](aṃśatṛtīyāṃśayutena) [and](ca)
 
 ## mukta-m0-p26-v650
-by-third-part-of-part (bhāgatṛtīyabhāgena) nail-moon-endowed (nakhacandrānvitena) and (ca)
+[part-third-part](bhāgatṛtīyabhāgena) [nail-moon-included](nakhacandrānvitena) [and](ca)
