@@ -12,7 +12,7 @@
 },
 {
 "surface": "muṇḍamālaṃ",
-"quick_gloss": "garland-of-skulls"
+"quick_gloss": "skull-garland"
 },
 {
 "surface": "ca",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "kaṅkoṭaṃ",
-"quick_gloss": "serpent"
+"quick_gloss": "snake-hood"
 },
 {
 "surface": "khaḍgarāvaṇam",
@@ -36,8 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghorāṭṭahāsamucchiṣṭaṃ",
-"quick_gloss": "terrible-laugh-remnant"
+"surface": "ghorāṭṭahāsam",
+"quick_gloss": "terrible-laugh"
+},
+{
+"surface": "ucchiṣṭaṃ",
+"quick_gloss": "leftover"
 },
 {
 "surface": "ghurghuraṃ",
@@ -66,7 +70,7 @@
 },
 {
 "surface": "bhūtāhvaṃ",
-"quick_gloss": "bhuta-invocation"
+"quick_gloss": "spirit-call"
 },
 {
 "surface": "viṣabhedam",
@@ -87,7 +91,7 @@
 "tokens": [
 {
 "surface": "punarlakṣavibhedana",
-"quick_gloss": "again-lakh-division"
+"quick_gloss": "again-laksha-distinction"
 },
 {
 "surface": "grabhinnaḥ",
@@ -145,7 +149,7 @@
 },
 {
 "surface": "śambhunāgamapañcakam",
-"quick_gloss": "by-shambhu-naga-five"
+"quick_gloss": "shambhu-naga-five"
 }
 ]
 },
@@ -158,7 +162,7 @@
 "tokens": [
 {
 "surface": "ekatrabhojanaṃ",
-"quick_gloss": "single-vessel-eating"
+"quick_gloss": "single-food"
 },
 {
 "surface": "ghore",
@@ -174,7 +178,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "so"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -223,12 +227,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad",
-"quick_gloss": "that"
-},
-{
-"surface": "avaśyaṃ",
-"quick_gloss": "necessary"
+"surface": "tadavaśyaṃ",
+"quick_gloss": "that-certainly"
 },
 {
 "surface": "hi",
@@ -273,7 +273,7 @@
 },
 {
 "surface": "śivācāryeṇa",
-"quick_gloss": "by-shiva-teacher"
+"quick_gloss": "shiva-teacher"
 },
 {
 "surface": "no",
@@ -281,7 +281,7 @@
 },
 {
 "surface": "paraiḥ",
-"quick_gloss": "by-others"
+"quick_gloss": "others"
 }
 ]
 },
@@ -318,7 +318,7 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "of-teacher"
+"quick_gloss": "guru"
 }
 ]
 },
@@ -343,7 +343,7 @@
 },
 {
 "surface": "gurvādeśāt",
-"quick_gloss": "by-teacher-command"
+"quick_gloss": "by-guru-command"
 },
 {
 "surface": "tadā",
@@ -351,7 +351,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-practice"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -364,7 +364,7 @@
 "tokens": [
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "adept"
+"quick_gloss": "practitioner"
 },
 {
 "surface": "sādhayet",
@@ -408,8 +408,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "pāṭhādagra",
-"quick_gloss": "from-recitation-only"
+"surface": "pāṭhāt",
+"quick_gloss": "from-recitation"
+},
+{
+"surface": "agra",
+"quick_gloss": "before"
 },
 {
 "surface": "janmanaḥ",
@@ -446,7 +450,7 @@
 },
 {
 "surface": "pārameśvare",
-"quick_gloss": "in-parameshvara"
+"quick_gloss": "parameshvara"
 }
 ]
 },
@@ -462,7 +466,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "śmādau",
+"surface": "aśmādau",
 "quick_gloss": "from-stone-etc"
 },
 {
@@ -479,7 +483,7 @@
 },
 {
 "surface": "āṃśave",
-"quick_gloss": "in-ray"
+"quick_gloss": "from-ray"
 },
 {
 "surface": "dūrataḥ",
@@ -500,7 +504,7 @@
 "tokens": [
 {
 "surface": "cāṇḍālo",
-"quick_gloss": "untouchable"
+"quick_gloss": "chandala"
 },
 {
 "surface": "asau",
@@ -508,7 +512,7 @@
 },
 {
 "surface": "abhojyānnaḥ",
-"quick_gloss": "unfit-for-food"
+"quick_gloss": "not-eatable-food"
 },
 {
 "surface": "pātakī",
@@ -565,6 +569,10 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p",
+"quick_gloss": "page-34"
+},
+{
 "surface": "liṅgādisthāpakāḥ",
 "quick_gloss": "linga-etc-installers"
 },
@@ -582,7 +590,7 @@
 },
 {
 "surface": "cāṇḍālasamāḥ",
-"quick_gloss": "untouchable-equal"
+"quick_gloss": "chandala-equal"
 },
 {
 "surface": "dvijāḥ",
@@ -599,7 +607,7 @@
 "tokens": [
 {
 "surface": "mantavyaḥ",
-"quick_gloss": "to-be-considered"
+"quick_gloss": "to-be-regarded"
 },
 {
 "surface": "vipravat",
@@ -610,8 +618,16 @@
 "quick_gloss": "shudra"
 },
 {
-"surface": "śūdrātpāpatarastu",
-"quick_gloss": "from-shudra-more-sinful"
+"surface": "śūdrāt",
+"quick_gloss": "from-shudra"
+},
+{
+"surface": "pāpataraḥ",
+"quick_gloss": "more-sinful"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "saḥ",
@@ -743,7 +759,7 @@
 },
 {
 "surface": "yajamānakṣayāvahāḥ",
-"quick_gloss": "sacrificer-destruction-causing"
+"quick_gloss": "sacrificer-destruction-bringing"
 }
 ]
 },
@@ -763,7 +779,7 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "vinaṣṭā",
+"surface": "vinaṣṭāḥ",
 "quick_gloss": "destroyed"
 },
 {
