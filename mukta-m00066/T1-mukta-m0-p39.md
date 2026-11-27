@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-kāmeśvarī-mantra(kāmeśvarīmanuṃ) ca(ca) eva(eva) paṃca-vidyā(paṃcavidyā) anusmaret(anusmaret)
+kāmeśvarī-mantraṃ ca eva paṃca-vidyāṃ anusmaret
 
 ## mukta-m0-p39-v952
-by-this(anenāpi) ca(ca) yoga(yogena) if(yadi) she(sā) not(na) indeed(hi) melt(vidravet)
+anena api ca yogena yadi sā na hi vidravet
 
 ## mukta-m0-p39-v953
-use(prāyuṃjīta) by-rite(vidhānena) reciting-amṛta-nāyikā(japannamṛtanāyikām)
+prayuñjīta vidhānena japan amṛta-nāyikām
 
 ## mukta-m0-p39-v954
-from-ghaṭṭa-līlakā(ghaṭṭālīlakayāmātaḥ) shake(kṣobhayen) madana-ālaya(madanālayam)
+ghaṭṭa-ālīlaka-yāmātaḥ kṣobhayet madana-ālayam
 
 ## mukta-m0-p39-v955
-by-that(tena) dratyatīcīra(dratyatīcīra) dravācaṃdrakalāsirā(dravācaṃdrakalāsirā)
+tena dratyati-īcīra dravā-caṃdra-kalā-sirā
 
 ## mukta-m0-p39-v956
-atigupta-mahāvidyā(atiguptamahāvidyā) svarūpāḥ(svarūpāḥ) śailanaṃdinī(śailanaṃdinī)
+ati-gupta-mahā-vidyā svarūpāḥ śaila-naṃdinī
 
 ## mukta-m0-p39-v957
-if(yadi) true(satyaṃ) world-sustainer(jagaddhātā) five-acts-bearer(paṃcakṛtyadharaḥ) śiva(śivaḥ)
+yadi satyaṃ jagat-dhātā paṃca-kṛtya-dharaḥ śivaḥ
 
 ## mukta-m0-p39-v958
-if(yadi) true(satyaṃ) of-all(samastānāṃ) scriptures(śāstrāṇāṃ) self-seeing-goal(gatirātmadṛk)
+yadi satyaṃ samastānāṃ śāstrāṇāṃ gatiḥ ātma-dṛk
 
 ## mukta-m0-p39-v959
-if(yadi) true(satyaṃ) desire(ratiḥ) love(kāmo) conquer(vijayetetvayā) world(jagat)
+yadi satyaṃ ratiḥ kāmaḥ vijayeta iti tvayā jagat
 
 ## mukta-m0-p39-v960
-if(yadi) true(satyaṃ) of-embodied-beings(dehabhājāṃ) of-all(sarveṣāṃ) pleasure-giving-smara(sukhadaḥsmaraḥ)
+yadi satyaṃ deha-bhājāṃ sarveṣāṃ sukha-daḥ smaraḥ
 
 ## mukta-m0-p39-v961
-if(yadi) true(satyaṃ) good-giving(sudātvaṃ) ca(ca) supreme-bliss-giver(paramānaṃda) dāyake(dāyake)
+yadi satyaṃ su-dātvaṃ ca parama-ānanda dāyake
 
 ## mukta-m0-p39-v962
-if(yadi) true(satyaṃ) all-worshipful(sarvapūjyā) lion-throne(siṃhāsana) maheśvarī(maheśvarī)
+yadi satyaṃ sarva-pūjyā siṃhāsana maheśvarī
 
 ## mukta-m0-p39-v963
-if(yadi) true(satyaṃ) guru-command(gurorājñā) everywhere-unfailing-rise(sarvatrāskhalitodayā)
+yadi satyaṃ guror-ājñā sarvatra askhalita-udayā
 
 ## mukta-m0-p39-v964
-thus-eight-verse-recitation(ityaṣṭakārikāpāṭha) immediately-thereafter(samanaṃtarameva) she(sā)
+iti aṣṭaka-ārikā-pāṭha samanantaram eva sā
 
 ## mukta-m0-p39-v965
-by-that-nectar(tenāmṛtena) pure(śuddhena) cool(śītalena) light(laghīyasā)
+tena amṛtena śuddhena śītalena laghīyasā
 
 ## mukta-m0-p39-v966
-ganges-water-form(gaṃgodakasvarūpeṇa) satisfy(tarpayelliṃgapāvakam)
+gaṃgā-udaka-svarūpeṇa tarpayet liṃga-pāvakam
 
 ## mukta-m0-p39-v967
-this(idaṃ) sacrifice(yajña) offering-limb(pradānāṃgamīyaṃ) kaivalya-path(kaivalyapaddhatiḥ)
+idaṃ yajña-pradāna-aṃgam īyaṃ kaivalya-paddhatiḥ
 
 ## mukta-m0-p39-v968
-self-knowledge-fruit(ātmavidyāphalaṃ) this-and-self-knowledge-fruit(caitadātmavidyāphalaṃ) indeed-this(tvidam)
+ātma-vidyā-phalaṃ ca etat ātma-vidyā-phalaṃ tu idam
 
 ## mukta-m0-p39-v969
-by-that(tena) worshipped-and-he(saṃpūjitaścāsau) bhīma-nature(bhīmatvaṃ) his(tasya) gives(yacchati)
+tena saṃpūjitaḥ ca asau bhīmatvaṃ tasya yacchati
 
 ## mukta-m0-p39-v970
-with-devotee(sabhaktaḥ) supreme-space(paramākāśa) form-pure-state(rūponirmalatāṃgataḥ)
+sa-bhaktaḥ parama-ākāśa rūpa-nirmala-tāṃ gataḥ
 
 ## mukta-m0-p39-v971
-earth-etcetera(bhūmyādi) of-all-beings(sarvabhūtānāmavakāśa) grants-space(pradasvayam)
+bhūmi-ādi sarva-bhūtānām avakāśaṃ pradāsvayam
 
 ## mukta-m0-p39-v972
-not(na) by-merits(puṇyairnna) ca(ca) by-sins(pāpaiśca) not(na) by-dharma-adharma-breaks(dharmādharmabhaṅgibhiḥ)
+na puṇyaiḥ na ca pāpaiḥ ca na dharma-adharma-bhaṅgibhiḥ
 
 ## mukta-m0-p39-v973
-not-by-harm-benefit(nāpakāropakāraiśca) not(na) by-poverty-prosperity(dāridryavibhūtibhiḥ)
+na apakāra-upakāraiḥ ca na dāridrya-vibhūtibhiḥ
 
 ## mukta-m0-p39-v974
-not(na) ca(ca) by-bondage-liberation(baṃdhavimokṣābhyāṃ) untouched(aspṛṣṭaścitsudhāmayaḥ)
+na ca bandha-vimokṣābhyāṃ aspṛṣṭaḥ cit-sudhā-mayaḥ
 
 ## mukta-m0-p39-v975
-gandharva-city-form(gaṃdharva) nagarākāramapi(nagarākāramapi) experiences-therefrom(cānubhavatyataḥ)
+gaṃdharva-nagara-ākāram api ca anubhavati ataḥ
