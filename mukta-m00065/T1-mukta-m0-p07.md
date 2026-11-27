@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[dīkṣā-yogāt](dīkṣāyogāt) [tathā](tathā) [īśasya](īśasya) [śūdrādiḥ](śūdrādiḥ) [śivatām](śivatāṃ) [vrajet](vrajet)
-
+initiation-yoga-from-thus-lord's shudra-etc shiva-state would-go
 ## mukta-m0-p07-v152
-[yathā](yathā) [kulāla-cakra-sthaḥ](kulālacakrastho) [avicchinnam](avicchinnaṃ) [bhramate](bhramate) [ghaṭaḥ](ghaṭaḥ)
-
+like potter-wheel-situated-unbroken revolves pot
 ## mukta-m0-p07-v153
-[malam](malaṃ) [viṣamadam](viṣamadaṃ) [yadvat](yadvat) [hanti](hanti) [vai](vai) [mantra-tejasā](mantratejasā)
-
+impurity poison-giving just-as destroy indeed mantra-radiance
 ## mukta-m0-p07-v154
-[syāt](syāt) [tataka-phalaiḥ](tatakaphalaiḥ) [yogāt](yogāt) [tadvat](tadvat) [mantraiḥ](mantraiḥ) [tu](tu) [mānavaḥ](mānavaḥ)
-
+would-be-kataka-fruit-yoga-by-thus mantras-by-man human
 ## mukta-m0-p07-v155
-[tathā-eva](tathaiva) [mantra-sāmarthyāt](mantrasāmarthyāt) [malam](malaṃ) [hatvā](hatvā) [śivī](śivī) [bhavet](bhavet)
-
+thus-only mantra-power-by impurity killing shiva becomes
 ## mukta-m0-p07-v156
-[tathā-īśa-mantra-saṃparkāt](tatheśamantrasaṃparkā) [śivatvam](śivatvaṃ) [jāyate](jāyate) [paśoḥ](paśoḥ)
-
+thus-lord-mantra-contact shiva-state arises of-bound-soul
 ## mukta-m0-p07-v157
-[śaiva-ācāryāḥ](śaivācāryāḥ) [prayacchanti](prayacchanti) [śivatvam](śivatvaṃ) [sa](sa) [carācare](carācare)
-
+shaiva-teachers give shiva-state in moving-immovable
 ## mukta-m0-p07-v158
-[ācāryaḥ](ācāryo) [api](api) [tathā-eva](tathaivātra) [atra](atra) [śivatvam](śivatvaṃ) [yāti](yāti) [mantra-vit](mantravit)
-
+teacher-also thus-here shiva-state goes mantra-knower
 ## mukta-m0-p07-v159
-[saṃskriyante](saṃskriyante) [hi](hi) [mantraiḥ](mantraiśca) [ca](ca) [deva-ācārya-tapasvinaḥ](devācāryatapasvinaḥ)
-
+are-purified indeed by-mantras god-teachers-ascetics
 ## mukta-m0-p07-v160
-[yathā-pūjya-veda-jñaḥ](yathāpūjyaveda) [tathā](tathā) [śūdraḥ](śūdro) [api](api) [daiśikaḥ](daiśikaḥ)
-
+like-venerable-veda knower thus shudra-also teacher
 ## mukta-m0-p07-v161
-[sa](sa) [śivaḥ](śivaḥ) [svayam](svayameva) [eva](eva) [syāt](syāt) [na](na) [anya-rūpaḥ](anyarūpaḥ) [kadācana](kadācana)
-
+he shiva himself indeed would-be not-other-form ever
 ## mukta-m0-p07-v162
-[mantra-yogāt](mantrayogāt) [vibudhyante](vibudhyante) [naṣṭa](naṣṭa) [aniṣṭam](aniṣṭaṃ) [tathā](tathā) [śive](śive)
-
+mantra-yoga-by awaken destroyed-unpleasant thus in-shiva
 ## mukta-m0-p07-v163
-[śaiva-ācāryaḥ](śaivācāryaḥ) [param](paraṃ) [sthānam](sthānaṃ) [tadvat](tadvattā) [tā](tā) [mantra-naukayā](mantranaukayā)
-
+shaiva-teacher supreme place thus boat-of-mantra-by
 ## mukta-m0-p07-v164
-[śeṣe](śeṣe) [tu](tu) [ekaika-hāniḥ](ekaikahāniḥ) [syāt](syāt) [sahasre](sahasre) [ca](ca) [śata-kramāt](śatakramāt)
-
+remainder but one-by-one-loss would-be thousand and hundred-order
 ## mukta-m0-p07-v165
-[pitāmaha-śatam](pitāmahaśataṃ) [yāvat](yāvat) [viṣṇoḥ](viṣṇormānaṃ) [mānam](mānaṃ) [vidhīyate](vidhīyate)
-
+grandfather-hundred until vishnu's measure is-fixed
 ## mukta-m0-p07-v166
-[vinaśyanti](vinaśyanti) [tathā](tathā) [upendra](upendrā) [asaṃkhyātāḥ](asaṃkhyātāḥ) [pitāmahāḥ](pitāmahāḥ)
-
+perish thus upendra countless grandfathers
 ## mukta-m0-p07-v167
-[sādākhya-nimiṣeṇa](sādākhyanimiṣeṇeśo) [īśaḥ](īśaḥ) [layam](layaṃ) [yāti](yāti) [na](na) [saṃśayaḥ](saṃśayḥ)
-
+sadakhya-moment-by-lord dissolution goes no doubt
 ## mukta-m0-p07-v168
-[śivāt](śivātparataraṃ) [parataram](parataraṃ) [na](na) [asti](asti) [iti](iti) [śāstreṣu](śāstreṣu) [niścayaḥ](niścayaḥ)
-
+from-shiva-beyond not-exists thus in-scriptures certainty
 ## mukta-m0-p07-v169
-[tasmāt](tasmācchivadito) [śivaditaḥ](śivaditaḥ) [mantraḥ](mantraḥ) [siddhi-mukti-phala-pradaḥ](siddhimuktiphalapradaḥ)
-
+therefore from-shiva mantra accomplishment-liberation-fruit-giving
 ## mukta-m0-p07-v170
-[mantraiḥ](mantraiḥ) [śiva-adhvare](śivādhvare) [jātaḥ](jātaḥ) [sa](sa) [śūdraḥ](śūdraḥ) [syāt](syāt) [katham](kathaṃ) [punaḥ](punaḥ)
-
+by-mantras shiva-sacrifice born he shudra would-be how again
 ## mukta-m0-p07-v171
-[tathā-eva](tathaiva) [pāpa-hānam](pāpahānaṃ) [ca](ca) [prākṛtāḥ](prākṛtāstu) [tu](tu) [prajāyate](prajāyate)
-
+thus-only sin-destruction and natural-born
 ## mukta-m0-p07-v172
-[loke](lakṣyā) [vipra-ādi-kācārāt](viprādikācārānnārakīṇo) [nārakīṇaḥ](nārakīṇo) [na](na) [tārakāḥ](tārakāḥ)
-
+world brahmin-etc-conducts hell-dwellers not saviors
 ## mukta-m0-p07-v173
-[na](na) [bhaveyuḥ](bhaveyustadā) [tadā](tadā) [nūnam](nūnaṃ) [dvijāḥ](dvijā) [deva-ādi-daiśikāḥ](devādidaiśikāḥ)
-
+not would-be then certainly twice-born god-etc-teachers
 ## mukta-m0-p07-v174
-[viṣa-bhūta-graha-ādyāḥ](viṣabhūtagrahādyāśca) [ca](ca) [nigṛhyante](nigṛhyante) [hi](hi) [mantrataḥ](mantrataḥ)
-
+poison-beings-planets-etc and are-restrained indeed by-mantra
 ## mukta-m0-p07-v175
-[carācaram](carācaraṃ) [prapadyeta](prapadyeta) [śivatvam](śivatvaṃ) [tat-kṣaṇāt](tatkṣaṇāt) [dhruvam](dhruvam)
+moving-immovable would-attain shiva-state that-moment certainly
