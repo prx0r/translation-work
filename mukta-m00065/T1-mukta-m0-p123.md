@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-gandhaṃ=fragrance puṣpaṃ=flower ca=and dhūpādyaṃ=incense-etc sākṣataṃ=with-unbroken-rice ca=and pavitrakam=purifying-thread
+[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
 
 ## mukta-m0-p123-v3052
-śivaṃ=to-śiva nivedayet=should-offer mūrdhni=on-head recakena=by-exhalation amṛtīkṛtam=made-nectar
+[gloss](śivaṃ) [gloss](nivedayen) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-prātaḥ=morning snātaḥ=bathed śuciḥ=pure śuddhaḥ=clean pūjāṃ=worship kuryāt=should-do svavittataḥ=according-to-own-wealth
+[gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-pañcabhiḥ=with-five madhuraiḥ=sweets snānam=bathing jalāntaraiḥ=with-water-intervals virukṣaṇam=drying
+[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-aṣṭāṅgaḥ=eight-limbed arghaṃ=argha pradāya=offering atha=then samālabhya=anointing prapūjayet=should-worship
+[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
 
 ## mukta-m0-p123-v3056
-vastraiḥ=with-cloths saṃchāditaṃ=covered veśma=house ghaṭācāmarabhūṣaṇaiḥ=with-pots-fans-ornaments
+[gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](ācāmara) [gloss](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-kadalīcūtamālābhiḥ=with-banana-mango-garlands jātabījasarocakaiḥ=with-born-seed-ornaments
+[gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-nṛtyagītaiḥ=with-dance-songs kalaiḥ=arts vādyaiḥ=instruments nayed=should-spend rātriṃ=night mahotsavaiḥ=great-festivals
+[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayet) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-bhaktyā=with-devotion santoṣayet=should-please sarvān=all vastradānādibhojanaiḥ=with-cloth-gifts-etc-foods
+[gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dāna) [gloss](ādi) [gloss](bhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-sarvapāpavinirmuktaḥ=all-sins-freed rudraloke=in-rudra-world mahīyate=is-honored
+[gloss](sarva) [gloss](pāpa) [gloss](vinirmuktaḥ) [gloss](rudra) [gloss](loke) [gloss](mahīyate)
 
 ## mukta-m0-p123-v3061
-khaṭvāśayanamithyokti=bed-sleeping-false-speech strīyātrāmiṣavarjakaḥ=woman-travel-meat-avoider
+[gloss](khaṭvā) [gloss](śayana) [gloss](mithyokti) [gloss](strī) [gloss](yātrā) [gloss](miṣa) [gloss](varjakaḥ)
 
 ## mukta-m0-p123-v3062
-pūjāṃ=worship kṛtvā=doing śivaṃ=śiva natvā=bowing pavitraṃ=purifying-thread ca=and visarjayet=should-release
+[gloss](pūjāṃ) [gloss](kṛtvā) [gloss](śivaṃ) [gloss](natvā) [gloss](pavitraṃ) [gloss](ca) [gloss](visarjayet)
 
 ## mukta-m0-p123-v3063
-kṛtvā=doing kṣipet=should-throw pavitrāṇi=purifying-threads śivāgnau=into-śiva-fire vā=or sadāmbhasi=into-water
+[gloss](kṛtvā) [gloss](kṣipet) [gloss](pavitrāṇi) [gloss](śiva) [gloss](agnau) [gloss](vā) [gloss](sadā) [gloss](ambhasi)
 
 ## mukta-m0-p123-v3064
-syāt=would-be prāyaścitta=expiation adhogāmī=descending kṛtaḥ=done rudraḥ=śiva abda=year koṭiśaḥ=by-millions
+[gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-tāmraliṅgārcanārkaḥ=copper-liṅga-worship-sun piśācaḥ=piśāca vaṃśasambhavāt=from-bamboo-birth
+[gloss](tāmra) [gloss](liṅga) [gloss](arcanāt) [gloss](darkaḥ) [gloss](piśāca) [gloss](vaṃśa) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3066
-sīsajāḥ=lead-born guhyakāḥ=yakṣas sarve=all lohāt=from-iron rakṣaḥ=rākṣasa asura=asura antakāḥ=destroyers
+[gloss](sīsa) [gloss](jā) [gloss](guhyakāḥ) [gloss](sarve) [gloss](loha) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
 
 ## mukta-m0-p123-v3067
-padmarāgāt=from-ruby hutāśaḥ=fire-god ca=and indranīlārcanāt=from-sapphire hariḥ=hari
+[gloss](padmarāga) [gloss](hutāśa) [gloss](indranīla) [gloss](arcanāt) [gloss](hariḥ)
 
 ## mukta-m0-p123-v3068
-vaidrumāsyārcanāt=from-coral-mouth-worship nāgāḥ=nāgas śukraḥ=śukra kārketanāt=from-kārketana sadā=always
+[gloss](vaidruma) [gloss](āsya) [gloss](arcanāt) [gloss](nāgāḥ) [gloss](śukra) [gloss](kārketana) [gloss](sadā)
 
 ## mukta-m0-p123-v3069
-paulastyaḥ=paulastya jīvajātibhyaḥ=from-living-beings aṣṭai? ṭṭibhāt? siddhakinnarāḥ=siddha-kinnaras
+[gloss](paulastya) [gloss](jīva) [gloss](jāti) [gloss](aṣṭa) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-aśvinau=aśvins pakvamṛdbhūtāt=from-baked-clay-born gandharvāḥ=gandharvas dārasambhavāt=from-wife-born
+[gloss](aśvinau) [gloss](pakva) [gloss](mṛd) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3071
-kūrmakauśikasabhūtāt=from-tortoise-kauśika-born vāsukināyakaḥ=vāsuki-leader
+[gloss](kūrma) [gloss](kauśi) [gloss](kasa) [gloss](bhūtāt) [gloss](vāsuki) [gloss](nayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-liṅgasaṃsthāpanārcanāt=from-liṅga-installation-worship
+[gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcanāt)
 
 ## mukta-m0-p123-v3073
-somapāḥ=soma-drinkers
+[gloss](somapāḥ)
 
 ## mukta-m0-p123-v3074
-nānāphalotthaliṅgāni=various-fruit-born-liṅgas vidhinā=by-rite sevitāni=served ca=and
+[gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
 
 ## mukta-m0-p123-v3075
-saikatāt=from-sand viśvakarmā=viśvakarmā ca=and śacīśaḥ=śacī-lord lavaṇodbhavāt=from-salt-born
+[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacīśa) [gloss](lavaṇa) [gloss](dbhavāt)
