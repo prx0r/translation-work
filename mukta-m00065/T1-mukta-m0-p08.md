@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[this](etat) [accomplished](siddham) [always](sadā) [Śaiva](śaivam) [guru-form](gururūpam) [unborn](ajanmakam)
+this-accomplished always shaiva guru-form unborn
 
 ## mukta-m0-p08-v177
-[Śiva-ending-named](śivāntanāmakāḥ) [all](sarve) [ash-limbed](bhasmāṅgā) [brahmacārins](brahmacāriṇaḥ)
+all-shiva-named ash-limbed brahmacarins
 
 ## mukta-m0-p08-v178
-[let-distinguish](viśeṣayātu) [common](sāmānyā) [guru](guruḥ)+[also](api)+[thus](evam)+[thus](eva) [but](tu)
+let-distinguish common guru-too-thus-indeed but
 
 ## mukta-m0-p08-v179
-[lotus](ambhojam) [mud-born](paṅkajam) [just-as](yadvat) [so](tadvat) [Śaivas](śaivāḥ) [not](na) [others](cetare)
+lotus mud-born as-so shaiva not others
 
 ## mukta-m0-p08-v180
-[thus+also](tathaiva) [of-Śiva-liṅgas](śivaliṅgānām) [Śaivas](śaivāḥ) [Pāśupatas+etc](pāśupatādayaḥ)
+so-too of-shiva-lingas shaivas pashupatas-etc
 
 ## mukta-m0-p08-v181
-[united+with+liṅga-difference+fruits](liṅgabhedaphalairyuktaḥ) [goes](yāti) [that-one](asau) [Raurava](rauravam) [certainly](dhruvam)
+linga-difference-fruits-united goes-that raurava certainly
 
 ## mukta-m0-p08-v182
-[otherwise](anyathā) [sin-doer](pāpakārī) [would-be](syāt) [thus+command](ityājñā) [supreme-lord's](pārameśvarī)
+otherwise sinner would-be thus-command supreme-lord's
 
 ## mukta-m0-p08-v183
-[brahmacārin-householder-ness-difference-divided](brahmacārīgṛhasthatvabhedabhinnaṃ) [in-two-ways](dvidhā) [situated](sthitam)
+brahmacarin-householder-state-difference-divided twofold situated
 
 ## mukta-m0-p08-v184
-[desire-related+desire-related+action](kāmyakāmikriyām) [I-speak](vacmi) [now](sāmpratam) [with-distinction](saṃprabhedataḥ)
+desire-desire-action I-speak now with-distinction
 
 ## mukta-m0-p08-v185
-[desiring-enjoyment-liberation](bhuktimuktīcchukaḥ) [desirer](kāmī) [should-do](kuryāt) [initiation+etc+by-command](dīkṣādimājñayā)
+enjoyment-liberation-desirous desirer should-do initiation-etc by-command
 
 ## mukta-m0-p08-v186
-[installation+etc+actions+remainder](pratiṣṭhādikriyāśeṣā) [done-by-him](tatkṛtā) [well-praised](saṃpraśasyate)
+installation-etc-actions-all that-done praised
 
 ## mukta-m0-p08-v187
-[Śiva-authority-practice](śivādhikāravṛttiḥ) [who](yaḥ) [he](sa) [sāntānika](sāntānikaḥ) [is-called](ucyate)
+shiva-authority-conduct who he sāntānika called
 
 ## mukta-m0-p08-v188
-[afterwards](paścāt) [should-do](kuryāt) [marriage](vivāham) [and](ca) [householder](gṛhasthaḥ) [he](sa) [vatārpaka](vatārpakaḥ)
+afterwards should-do marriage and householder he vatārpaka
 
 ## mukta-m0-p08-v189
-[alms-eater](bhaikṣyāśī) [self-controlled](saṃyatātmā) [and](ca) [vowed](vratī) [he](sa) [is-declared](parikīrtitaḥ)
+alms-eating restrained-self and vow-holder he proclaimed
 
 ## mukta-m0-p08-v190
-[flower-falling-named](puṣpapātābhidhānam) [but](tu) [maṭhī](maṭhī) [with-mudrās](mudrābhiḥ) [is-desired](iṣyate)
+flower-fall-named but maṭhī with-mudras desired
 
 ## mukta-m0-p08-v191
-[good-cloth](sadvstram) [anointment](añjanam) [oil](tailam) [carries](nayate) [enjoys](ramate) [indeed](hi) [him](tam)
+good-cloth unguent oil carries delights indeed him
 
 ## mukta-m0-p08-v192
-[for-honey](mākṣāya) [vowed-one](vratinaṃ) [and+also](caiva) [should-choose](varayet) [wise](matimān) [man](naraḥ)
+for-honey vow-holder and indeed should-choose wise-man
 
 ## mukta-m0-p08-v193
-[worldly](laukikaḥ) [wealth-sharer](dravyabhāgī) [is](syāt) [knowledge-sharer](vidyābhāk) [other-worldly](pāralaukikaḥ)
+worldly wealth-sharer would-be knowledge-sharer other-worldly
 
 ## mukta-m0-p08-v194
-[brother](bhrātṛṇam) [in-guru's-absence](gurvabhāve) [is](syāt) [of-householders](gṛhasthānām) [own-son](svaputrakam)
+brother in-guru-absence would-be of-householders own-son
 
 ## mukta-m0-p08-v195
-[unfit](ayogyāḥ) [in-Śiva-works](śivakāryeṣu) [bell-connected](ghaṇṭāsambandhinaḥ) [should-remove](haret)
+unfit for-shiva-works bell-related should-remove
 
 ## mukta-m0-p08-v196
-[in-debt](ṛṇe) [in-wealth](dravye) [and](ca) [in-piṇḍa](piṇḍe) [and](ca) [he](sa) [alone](evaikaḥ) [is-praised](praśasyate)
+in-debt in-wealth and in-ball and he alone praised
 
 ## mukta-m0-p08-v197
-[in-middle-of-four-cows](caturgocaramadhye) [and](ca) [Śaiva](śaivaḥ) [is-eldest](jyeṣṭhāyate) [supreme](param)
+four-cow-range middle and shaiva eldest supreme
 
 ## mukta-m0-p08-v198
-[Śaiva-ācārya](śaivācāryaḥ) [then](tataḥ) [best](śreṣṭhaḥ) [should-establish](sthāpayet) [all-deities](sarvadevatāḥ)
+shaiva-teacher then best should-establish all-deities
 
 ## mukta-m0-p08-v199
-[bestower-of-enjoyment-liberation](bhuktimuktipradātā) [and](ca) [not-other](nānyaḥ) [indeed](vai) [world-maker-guru](viśvakṛdguruḥ)
+enjoyment-liberation-giver and not-other indeed world-maker guru
 
 ## mukta-m0-p08-v200
-[in-its-absence](tadabhāve) [but](tu) [should-be-done](kartavyāḥ) [own-deity-vow-performers](svadevavratacāriṇaḥ)
+in-its-absence but should-do own-deity-vow-performers
