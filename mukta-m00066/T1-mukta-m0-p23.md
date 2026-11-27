@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ānaṃdataṃtre](ānaṃdataṃtre) [ca](ca) [evāsmin](evāsmin) [catvāraḥ](catvāraḥ) [paramīritāḥ](paramīritāḥ)
+[pada-gloss](ānaṃdataṃtre) [pada-gloss](caivāsmin) [pada-gloss](catvāraḥ) [pada-gloss](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsāḥ) [iha](iha) [proktāḥ](proktāḥ) [maheśvari](maheśvari)
+[pada-gloss](tasmāccatvāra) [pada-gloss](ullāsā) [pada-gloss](iha) [pada-gloss](proktā) [pada-gloss](maheśvari)
 
 ## mukta-m0-p23-v553
-[tasmāt](tasmāt) [ānaṃda](ānaṃda) [pūjāyāḥ](pūjāyāḥ) [mālaṃvyaṃte](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
+[pada-gloss](tasmādānaṃda) [pada-gloss](pūjāyā) [pada-gloss](mālaṃvyaṃte) [pada-gloss](tu) [pada-gloss](na) [pada-gloss](trayaḥ)
 
 ## mukta-m0-p23-v554
-[tathā](tathā) [tathā](tathā) [parānaṃda](parānaṃda) [nāthavidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
+[pada-gloss](tathā) [pada-gloss](tathā) [pada-gloss](parānaṃda) [pada-gloss](nāthavidyāṃ) [pada-gloss](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [naṃdamūrttim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[pada-gloss](dūtyā) [pada-gloss](saṃdhukṣita) [pada-gloss](svātmā) [pada-gloss](naṃdamūrttiṃ) [pada-gloss](guruṃ) [pada-gloss](smaret)
 
 ## mukta-m0-p23-v556
-[dvādaśāṃta](dvādaśāṃta) [gate](gate) [rakta](rakta) [śukla](śukla) [pāde](pāde) [vinikṣipet](vinikṣipet)
+[pada-gloss](dvādaśāṃtagate) [pada-gloss](raktaśuklapāde) [pada-gloss](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[śivatva](śivatva) [sāmrājya](sāmrājya) [pada](pada) [abhiṣiktam](abhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
+[pada-gloss](śivatvasāmrājya) [pada-gloss](padābhiṣiktaṃ) [pada-gloss](svaṃviciṃtayet)
 
 ## mukta-m0-p23-v558
-[paśyan](paśyan) [pratyaṃga](pratyaṃga) [maṃkūra](maṃkūra) [danaṃ](danaṃ) [gottuṃga](gottuṃga) [mānasaḥ](mānasaḥ)
+[pada-gloss](paśyan) [pada-gloss](pratyaṃgamaṃkūradanaṃ) [pada-gloss](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[yathā](yathā) [yauvanam](yauvanam) [ullāsam](ullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [amba](amba) [dūtikā](dūtikā)
+[pada-gloss](yathā) [pada-gloss](yauvanamullāsaṃ) [pada-gloss](saṃprāpnotyaṃba) [pada-gloss](dūtikā)
 
 ## mukta-m0-p23-v560
-[ālokane](ālokane) [ratiḥ](ratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
+[pada-gloss](ālokaneratiḥ) [pada-gloss](sākṣāt) [pada-gloss](smite) [pada-gloss](jāgarti) [pada-gloss](jāhnavī)
 
 ## mukta-m0-p23-v561
-[aśvinau](aśvinau) [nāsikā](nāsikā) [bhāge](bhāge) [tu](tu) [oṣṭhe](oṣṭhe) [ca](ca) [parama](parama) [amṛtam](amṛtam)
+[pada-gloss](aśvinau) [pada-gloss](nāsikābhāge) [pada-gloss](tvoṣṭhe) [pada-gloss](ca) [pada-gloss](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [vāruṇī](vāruṇī) [devī](devī) [kāmanāthaḥ](kāmanāthaḥ) [tu](tu) [aham](aham) [kṛtau](kṛtau)
+[pada-gloss](svede) [pada-gloss](ca) [pada-gloss](vāruṇī) [pada-gloss](devī) [pada-gloss](kāmanāthastvahaṃ) [pada-gloss](kṛtau)
 
 ## mukta-m0-p23-v563
-[stanadvaye](stanadvaye) [merugiriḥ](merugiriḥ) [niḥ](niḥ) [śabdam](śabdaṃ) [brahma](brahma) [madhyame](madhyame)
+[pada-gloss](stanadvaye) [pada-gloss](merugirirnniḥ) [pada-gloss](śabdaṃ) [pada-gloss](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[valitraye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi](nābhi) [garbhe](garbhe) [guhāmbikā](guhāṃbikā)
+[pada-gloss](valitraye) [pada-gloss](ca) [pada-gloss](trailokyaṃ) [pada-gloss](nābhigarbhe) [pada-gloss](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu](śu) [kalā](kalā) [dor](dor) [mūle](mūle) [kuśa](kuśa) [devatāḥ](devatāḥ)
+[pada-gloss](nakheṣu) [pada-gloss](śītāṃ) [pada-gloss](śu) [pada-gloss](kalādormmūleṃkuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sīt](sīt) [kāra](kāra) [karmaṇi](karmaṇi)
+[pada-gloss](kāverī) [pada-gloss](caiva) [pada-gloss](niśvāse) [pada-gloss](godāsītkāra) [pada-gloss](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala](amala) [ālāpa](ālāpa) [kṛtyeṣu](kṛtyeṣu) [citta](citta) [viśrāṃti](viśrāṃti) [nāyakā](nāyakā)
+[pada-gloss](amalālāpakṛtyeṣu) [pada-gloss](cittaviśrāṃti) [pada-gloss](nāyakā)
 
 ## mukta-m0-p23-v568
-[vāk](vāk) [ptiḥ](ptiḥ) [sukha](sukha) [huṃkāre](huṃkāre) [gīṣpati](gīṣpati) [kāku](kāku) [kā](kā) [dhvanau](dhvanau)
+[pada-gloss](vākptiḥ) [pada-gloss](sukhahuṃkāre) [pada-gloss](gīṣpatīkākukādhvanau)
 
 ## mukta-m0-p23-v569
-[iṃdraḥ](iṃdraḥ) [citta](citta) [samunnatyām](samunnatyām) [agniḥ](agniḥ) [vastu](vastu) [grasīt](grasīt) [viṣi](viṣi)
+[pada-gloss](iṃdraścittasamunnatyāmagnirvastu) [pada-gloss](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hastādi](hastādi) [cālane](cālane) [yajñaḥ](yajñaḥ) [tu](tu) [āśleṣe](āśleṣe) [yajña](yajña) [pūruṣaḥ](pūruṣaḥ)
+[pada-gloss](hastādicālane) [pada-gloss](yajñastvāśleṣe) [pada-gloss](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lāsyam](lāsyam) [ca](ca) [tāṃḍavam](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyāḥ) [deha](deha) [ādi](ādi) [ghūrṇane](ghūrṇane)
+[pada-gloss](lāsyaṃ) [pada-gloss](ca) [pada-gloss](tāṃḍavaṃ) [pada-gloss](devi) [pada-gloss](tasyā) [pada-gloss](dehādi) [pada-gloss](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tāni](tāni) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyāḥ) [gaṃḍūṣa](gaṃḍūṣa) [vastuni](vastuni)
+[pada-gloss](tānisarvāṇi) [pada-gloss](varttate) [pada-gloss](tasyāgaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat](tat) [phalam](phalam) [labhate](labhate) [dūtī](dūtī) [sudhā](sudhā) [gaṃḍūṣa](gaṃḍūṣa) [sevanāt](sevanāt)
+[pada-gloss](tatphalaṃ) [pada-gloss](labhate) [pada-gloss](dūtī) [pada-gloss](sudhāgaṃḍūṣa) [pada-gloss](sevanāt)
 
 ## mukta-m0-p23-v574
-[gaṃḍūṣam](gaṃḍūṣam) [ādiram](ādiram) [devī](devī) [vīrasya](vīrasya) [ānaṃda](ānaṃda) [varddhanam](varddhanam)
+[pada-gloss](gaṃḍūṣamādiraṃ) [pada-gloss](devī) [pada-gloss](vīrasyānaṃda) [pada-gloss](varddhanam)
 
 ## mukta-m0-p23-v575
-[nitya](nitya) [klinnā](klinnā) [sudhā](sudhā) [devī](devī) [rati](rati) [prītiḥ](prītiḥ) [ca](ca) [tat](tat) [bhage](bhage)
+[pada-gloss](nityaklinnāsudhā) [pada-gloss](devī) [pada-gloss](rati) [pada-gloss](prītiśca) [pada-gloss](tadbhage)

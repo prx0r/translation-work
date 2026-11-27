@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa-mātra](lakṣamātraṃ) [japet](japen) [mantra](mantraṃ) [tatas](tataḥ) [siddha](siddho) [bhavet](bhaven) [nara](naraḥ)
+[lakhsha-matra](lakṣamātraṃ) [japet-mantram](japenmantraṃ) [tatah](tataḥ) [siddha](siddho) [bhaven-narah](bhavennaraḥ)
 
 ## mukta-m0-p10-v227
-[tad-daśāṃśa](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūra](karpūrābhyāṃ) [su-vāsita](suvāsitaiḥ)
+[tat-dasha-amsham](taddaśāṃśaṃ) [ca](ca) [kasturi](kastūrī) [karpura-abhyam](karpūrābhyāṃ) [suvāsitaih](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tad-daśāṃśa](taddaśāṃśaṃ) [mahā-devī](mahādevi) [brāhmaṇa](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[tat-dasha-amsham](taddaśāṃśaṃ) [mahadevi](mahādevi) [brahmanan](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
 
 ## mukta-m0-p10-v229
-[hṛdya](hṛdyaiḥ) [pāyasa](pāyasa) [pūpa-ādi](pūpādyaiḥ) [rasa](rasaiś) [ca](ca) [eva](eva) [rasāyana](rasāyanaiḥ)
+[hrdyaih](hṛdyaiḥ) [payasa](pāyasa) [pupa-adyaih](pūpādyaiḥ) [rasaishcaiva](rasaiścaiva) [rasayanaih](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madya](madyair) [māṃsa](māṃsaiś) [ca](ca) [matsya](matsyaiś) [ca](ca) [nānā-vastu-upabṛṃhita](nānāvastūpabṛṃhitaiḥ)
+[madyair-mamsaishca](madyairmāṃsaiśca) [matsyaishca](matsyaiśca) [nana-vastu-upabrimhitaih](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī](yoginī) [vīra](vīrān) [daśāṃśa](daśāṃśaṃ) [mantra-sādhaka](maṃtrasādhakaḥ)
+[arcayed](arcayed) [yogini](yoginī) [viran](vīrān) [dashamsham](daśāṃśaṃ) [mantra-sadhakah](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[ānanda-bhoga](ānaṃdabhogān) [bhuj](bhugjānaḥ) [kṣoṇī](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
+[ananda-bhogan](ānaṃdabhogān) [bhugjanah](bhugjānaḥ) [kshonyam](kṣoṇyāṃ) [khelati](khelati) [kayavat](kāyavat)
 
 ## mukta-m0-p10-v233
-[ati-guhya-tva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasya-cit](yasyakasyacit)
+[atiguhyatva](atiguhyātva) [ya](yā) [rakshya](rakṣyā) [na](na) [deya](deyā) [yasyakasyacit](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[a-kutarka](akutarka) [pravīṇa](pravīṇāya) [tattva-niṣṭhāya](tattvaniṣṭhāya) [dhīmat](dhīmate)
+[akutarka](akutarka) [pravinaya](pravīṇāya) [tattva-nishthaya-dhimat](tattvaniṣṭhāyadhīmate)
 
 ## mukta-m0-p10-v235
-[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyam](satyaṃ) [satyam](satyaṃ) [vadāmi](vadāmy) [aham](aham)
+[esha](eṣā) [vidya](vidyā) [pradatavya](pradātavyā) [satyam](satyaṃ) [satyam](satyaṃ) [vadamyaham](vadāmyaham)
 
 ## mukta-m0-p10-v236
-[etad](etad) [vidyā-sama](vidyāsamaṃ) [na](na) [asti](asti) [na](na) [bhūta](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+[etad](etad) [vidya-samam](vidyāsamaṃ) [nasti](nāsti) [na](na) [bhutam](bhūtaṃ) [na](na) [bhavishyati](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[imām](imām) [abhyasyataḥ](abhyasyataḥ) [puṃs](puṃso) [mokṣa-mārga](mokṣamārgaḥ) [kara-sthita](karasthitaḥ)
+[imam-abhyasyatah](imāmabhyasyataḥ) [punso](puṃso) [moksha-margah](mokṣamārgaḥ) [kara-sthitah](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[iti](ity) [ānanda-tantra](ānaṃdataṃtre) [paṃcama](paṃcamaḥ) [paṭala](paṭalaḥ)
+[ityananda-tantre](ityānaṃdataṃtre) [pancamah](paṃcamaḥ) [patalah](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[yāga-rāja-krama](yāgarājakramaḥ) [sarva-puruṣārtha](sarvapuruṣārthaṃ) [mahā-phala](mahāphalam)
+[yaga-raja-kramah](yāgarājakramaḥ) [sarva-purushartham](sarvapuruṣārthaṃ) [mahaphalam](mahāphalam)
 
 ## mukta-m0-p10-v240
-[varābhaya-yuta](varābhayayutaṃ) [śānta](śāṃtaṃ) [śaktyā-āśliṣṭa](śaktyāśliṣṭaṃ) [manohara](manoharam)
+[vara-abhaya-yutam](varābhayayutaṃ) [shantam](śāṃtaṃ) [shaktya-ashlishtam](śaktyāśliṣṭaṃ) [manoharam](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita](āplāvita) [śarīra](śarīraḥ) [san](san) [antardhyāyet](aṃtardhyāyen) [maheśvarī](maheśvarīm)
+[aplavita](āplāvita) [sharirah](śarīraḥ) [sannam-tardhyayen](sannaṃtardhyāyen) [maheshvarim](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna](vibhinna) [ṣaṭ-cakra-janma](ṣaṭsarojanma) [prakāśa](prakāśa) [nija-vigrahā](nijavigrahām)
+[vibhinna](vibhinna) [shat-saro-janma](ṣaṭsarojanma) [prakasha](prakāśa) [nija-vigraham](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripura-suṃdarī](tripurasuṃdarīm)
+[tripura-sundarim](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir-grāma](bahirgrāmān) [mukta-mūtra-mala-vyatha](muktamūtramalavyathaḥ)
+[nirgamya](nirgamya) [ca](ca) [bahir-grama-mukta-mutra-mala-vyathah](bahirgrāmānmuktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[su-gandha-taila-lipta](sugaṃdhatailaliptasya) [piṣṭika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[sugandha-taila-liptasya](sugaṃdhatailaliptasya) [pishtika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
 
 ## mukta-m0-p10-v246
-[kadāpi](kadāpi) [kaulika](kauliko) [mohāt](mohān) [na](na) [rūkṣa-snāna](rūkṣasnānam) [ācaret](ācaret)
+[kadapi](kadāpi) [kauliko](kauliko) [mohan-na](mohānna) [ruksha-snana-macaret](rūkṣasnānamācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhni](mūrdhni) [tvā](tvā) [mūla-mantra](mūlamaṃtra) [jāpena](jāpenāṃ) [bhoṃjali-traya](bhoṃjalitrayam)
+[murdhnitva](mūrdhnitvā) [mula-mantra](mūlamaṃtra) [japenam](jāpenāṃ) [bhonjali-trayam](bhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
-[sa-kuśa](sakuśe) [sa-ha-puṣpa](sahapuṣpe) [ca](ca) [sa-gandha](sagaṃdhe) [tāmra-bhājana](tāmrabhājane)
+[sakushe](sakuśe) [saha-pushpe](sahapuṣpe) [ca](ca) [sagandhe](sagaṃdhe) [tamra-bhajane](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra-rūpya](tāmrarūpya) [suvarṇa](suvarṇaistu) [racita](racitaṃ) [tat](tat) [praśasyate](praśasyate)
+[tamra-rupya](tāmrarūpya) [suvarnaistu](suvarṇaistu) [racitam](racitaṃ) [tat-prashasyate](tatpraśasyate)
 
 ## mukta-m0-p10-v250
-[yathā](yathā) [śakti](śakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedy) [yāga-maṃdira](yāgamaṃdiram)
+[yatha](yathā) [shakti](śakti) [ca](ca) [santarpaya](saṃtarpya) [pravishet-yaga-mandiram](praviśedyāgamaṃdiram)
