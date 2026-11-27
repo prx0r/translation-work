@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[bliss-goddess-abode](ānaṃdadevatāsthānam) [in-this](asmin) [liṅga](liṃge) [great-lady](maheśvari)
-
+bliss-deity-abode in-this linga great-goddess
 ## mukta-m0-p01-v2
-[when](yadā) [by-own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
-
+when own-power-descent awakened he reflection-possessing
 ## mukta-m0-p01-v3
-[then](tadā) [he](sa) [teacher](deśikaḥ) [by-śiva's](śaivyā) [gaze](dṛṣṭyā) [of-that](tasya) [new-self](navātmanaḥ)
-
+then he teacher by-Shaiva view of-that new-self
 ## mukta-m0-p01-v4
-[another](anyadeva) [again](punarbhūyāt) [of-kaulika](kaulikasya) [great-soul](mahātmanaḥ)
-
+another indeed again-become of-Kaulika great-soul
 ## mukta-m0-p01-v5
-[family](kulaṃ) [birth](jātiśca) [conduct](śīlaṃ) [and](cāpyaṣṭau) [eight](aṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
-
+clan birth and conduct and eight fetters declared
 ## mukta-m0-p01-v6
-[of-him](tasya) [devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field](sukṣetram) [is-called](ucyate)
-
+of-that devotee whole body good-field called
 ## mukta-m0-p01-v7
-[śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
-
+Shakti by-power-unfolding mantra by-mantra-instruction
 ## mukta-m0-p01-v8
-[by-these](etābhiḥ) [three](tisṛbhiścaiva) [initiations](dīkṣābhirdīkṣito) [man](naraḥ)
-
+by-these three and indeed initiations initiated man
 ## mukta-m0-p01-v9
-[cognition-liṅga-form](bodhaliṃgasvarūpo'sau) [becomes](jāyate) [from-vasanā-destruction](vāsanākṣayāt)
-
+knowledge-linga-nature he becomes by-impression-destruction
 ## mukta-m0-p01-v10
-[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭamālasyaṃ) [and](caiva) [fickleness](cāpalam)
-
+woman-hated world-hated laziness and fickleness
 ## mukta-m0-p01-v11
-[adultery-thought](paradārāvamarśaṃ) [and](ca) [injury-plotting](paradrohasya) [thinking](ciṃtanam)
-
+other-wife-touching and other-harm thinking
 ## mukta-m0-p01-v12
-[excessive-harshness](atiniṣṭuraśīlatvamatidainyamatigrahaḥ)
-
+excessive-harsh-conduct excessive-poverty excessive-grasping
 ## mukta-m0-p01-v13
-[etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher](deśikasyaiva) [from-gaze](vīkṣaṇāt)
-
+such faults great-faults of-teacher indeed by-looking
 ## mukta-m0-p01-v14
-[arts](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaśca) [destiny](niyatiḥ) [time](kāla) [also](eva) [and](ca)
-
+arts knowledge and attachment and destiny time indeed and
 ## mukta-m0-p01-v15
-[by-these](etābhireva) [fierce](tīvrābhiḥ) [powers](śaktibhiḥ) [sheaths](kañcukāṭamabhiḥ)
-
+by-these indeed intense powers by-jackets
 ## mukta-m0-p01-v16
-[by-them](tābhirjjivatvamāpannaḥ) [like-saṃsārin](saṃsārīva) [struggles](viceṣṭate)
-
+by-them jiva-hood attained like-samsarin moves
 ## mukta-m0-p01-v17
-[hither-thither](itastato) [taken](hṛtaṃ) [jīva](jīvaḥ) [by-itself](svayameva) [self-reflecting](svamāmṛśan)
-
+from-here-there taken jiva by-self indeed self-reflecting
 ## mukta-m0-p01-v18
-[reflection](pratibimba) [not](na) [capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
-
+reflection not by-capacity in-dirty mirror as
 ## mukta-m0-p01-v19
-[therefore](tasmānmalapraṇāśena) [śiva-state-attainment-cause](śivatāpattikāraṇā)
-
+therefore by-impurity-destruction Shiva-state-attainment-cause
 ## mukta-m0-p01-v20
-[beginningless-ignorance-power](anādyavidyāvaśato) [great-impurity-mass](malarāśirmahān) [if](yadi)
-
+beginningless-ignorance-subject impurity-mass great if
 ## mukta-m0-p01-v21
-[time-fire-crore-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśamujvalām)
-
+time-fire-million-like blazing burning fetter blazing
 ## mukta-m0-p01-v22
-[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-gaze-pure](guruvīkṣaṇanirmalām)
-
+own power-mantra meditate guru-view-purified
 ## mukta-m0-p01-v23
-[so-long](tāvad) [meditation](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-impurity-cutting](sarvadurmalakartanam)
-
+so-long meditation this to-be-done all-bad-impurity-cutting
 ## mukta-m0-p01-v24
-[by-itself](svayameva) [shines](prakāśeta) [self](svātmā) [fortune-vessel](saubhāgyabhājanam)
-
+by-self indeed shines self fortune-vessel
 ## mukta-m0-p01-v25
-[shines](bhāsate)
+shines
