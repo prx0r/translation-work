@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[pada](rakṣodvitayakumbhīra) [pada](sarpacakrāsyakaṃ) [pada](ca) [pada](bham)
+rakṣas-two-crocodile serpent-wheel-mouthed and bham
 
 ## mukta-m0-p44-v1077
-[pada](aśvinau) [pada](ca) [pada](yamo) [pada](vahniḥ) [pada](prajendrenduharo'ditiḥ)
+aśvins and yama fire prajāpati-indra-moon-aditi
 
 ## mukta-m0-p44-v1078
-[pada](tvaṣṭā) [pada](vāyuḥ) [pada](surendro'gnirmitrendrau) [pada](yāvatpāmpatiḥ)
+tvaṣṭā vāyu surendra agni mitra-indra until serpent-lord
 
 ## mukta-m0-p44-v1079
-[pada](viṣṇurvasurajaikādipādahirbudhna) [pada](pūṣakāḥ)
+viṣṇu vasu aja-eka-ādi-pāda serpent-budhna puṣa
 
 ## mukta-m0-p44-v1080
-[pada](pumān) [pada](gadī) [pada](savīṇā) [pada](ca) [pada](yoṣitta) [pada](nmithunaṃ) [pada](dhanuḥ)
+man club vīṇā and woman pair bow
 
 ## mukta-m0-p44-v1081
-[pada](strī) [pada](naustholkāsibhṛtkanyā) [pada](tulādhāro) [pada](narastulā)
+woman boat meteor sword-bearer maiden balance-holder man balance
 
 ## mukta-m0-p44-v1082
-[pada](meṣādyāḥ) [pada](pañca) [pada](caivānye) [pada](svanāmatulyarūpakāḥ)
+aries-etc five and others same-name-same-form
 
 ## mukta-m0-p44-v1083
-[pada](hemābhaḥ) [pada](sakirīṭaśca) [pada](devarājaḥ) [pada](surāvṛtaḥ)
+gold-colored crested king-of-gods god-surrounded
 
 ## mukta-m0-p44-v1084
-[pada](chāgasthaḥ) [pada](sākṣasūtrograḥ) [pada](saptārciḥ) [pada](śaktidhārakaḥ)
+goat-mounted rosary-fierce seven-flamed spear-holder
 
 ## mukta-m0-p44-v1085
-[pada](raktahṛkpāśabhṛtkṛṣṇo) [pada](mahiṣasthogradūtavān)
+red-hearted noose-holder black buffalo-mounted fierce-messenger
 
 ## mukta-m0-p44-v1086
-[pada](puṃsthita) [pada](khaḍgahastaśca) [pada](nīlābho) [pada](rākṣasāvṛtaḥ)
+man-standing sword-handed blue rākṣasa-surrounded
 
 ## mukta-m0-p44-v1087
-[pada](sarvābharaṇasaṃyukto) [pada](varūṇaḥ) [pada](pītavastrabhṛt)
+all-ornamented varuṇa yellow-garment-bearer
 
 ## mukta-m0-p44-v1088
-[pada](raktakṣo) [pada](raktavāsaśca) [pada](mṛgasthaścaṅkuśī) [pada](dhvajī)
+red-eyed red-garmented deer-mounted goad-holder bannered
 
 ## mukta-m0-p44-v1089
-[pada](dhaneśo) [pada](varadaḥ) [pada](kāryo) [pada](nānābharaṇamaṇḍitaḥ)
+wealth-lord boon-giver made various-ornament-decorated
 
 ## mukta-m0-p44-v1090
-[pada](īśāno'hīndubhṛccaite) [pada](lokapālā) [pada](dvibāhavaḥ)
+īśāna serpent-moon-bearer these world-guardians two-armed
 
 ## mukta-m0-p44-v1091
-[pada](viśvakarmā) [pada](sadā) [pada](gauro) [pada](jñānamudrākṣasūtrabhṛt)
+viśvakarmā always white knowledge-mudrā-rosary-bearer
 
 ## mukta-m0-p44-v1092
-[pada](ālīḍhakaraṇāsaktaṃ) [pada](mahākāyaṃ) [pada](subhīṣaṇam)
+ālīḍha-posture-attached great-bodied very-fierce
 
 ## mukta-m0-p44-v1093
-[pada](pītadhvajadharaṃ) [pada](vāme) [pada](tarjanīṃ) [pada](vā) [pada](hṛdagrataḥ)
+yellow-banner-bearer left forefinger or heart-front
 
 ## mukta-m0-p44-v1094
-[pada](saṃpīḍya) [pada](rākasān) [pada](padbhyāṃ) [pada](muñcannādaṃmarutsutam)
+pressing rākṣasas with-feet releasing sound maruts-son
 
 ## mukta-m0-p44-v1095
-[pada](skandhayakṣānvitā) [pada](nityaṃ) [pada](kartavyā) [pada](yoṣidanvitāḥ)
+skanda-yakṣa-accompanied always made woman-accompanied
 
 ## mukta-m0-p44-v1096
-[pada](mālābhṛto'thavā) [pada](hṛṣṭāḥ) [pada](khasthā) [pada](vidyādharāḥ) [pada](sadā)
+garland-bearer or joyful sky-dwelling vidyādhara always
 
 ## mukta-m0-p44-v1097
-[pada](piṅgavarvara) [pada](keśāśva) [pada](vetālā) [pada](vikṛtānanāḥ)
+tawny-varvara-haired vetāla distorted-faced
 
 ## mukta-m0-p44-v1098
-[pada](kapālamālinaḥ) [pada](śūladhārīṇaḥ) [pada](kṣetrapālakāḥ)
+skull-garlanded spear-holder field-protectors
 
 ## mukta-m0-p44-v1099
-[pada](kṛśā) [pada](mahodarāḥ) [pada](pretā) [pada](khalva) [pada](gallāśca) [pada](lomaśāḥ)
+thin big-bellied pretas indeed gallows-hairy
 
 ## mukta-m0-p44-v1100
-[pada](svāṅgavarṇadharāḥ) [pada](sarvā) [pada](yathoktaṃ) [pada](brahmayāmale)
+own-limb-color-bearing all as-stated brahmayāmala
