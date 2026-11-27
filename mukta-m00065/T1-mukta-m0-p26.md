@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-sometimes(particle) by-entry marking sword-cutting
+sometimes (kvacit) particle (kaṇaṃ) by-entry (praveśena) having-marked (lāñchayitvā) sword-sharpening (asiśātanam)
 
 ## mukta-m0-p26-v627
-in-middle thread-confused rudra becomes round
+in-middle (tanmadhye) thread-confused (sūtrasambhrānte) rudra (rudraḥ) becomes (bhavati) round (vartulaḥ)
 
 ## mukta-m0-p26-v628
-throw or void-fault-destroying hand one-finger gradually
+throw-or (kṣipedvā) void-fault-destroying (śūnyadoṣaghnaṃ) from-hand-one-finger (hastādekāṅgulaṃ) gradually (kramāt)
 
 ## mukta-m0-p26-v629
-sixteenth-part throw first [kh,g,gh: not-first] vedic-part god-worshipped
+sixteenth-part (ṣoḍaśāṃśa) throw-in-first (kṣipedādye) veda-part (vedāṃśam) god-worshipped (amarorcite)
 
 ## mukta-m0-p26-v630
-pingala's opinion said first god-worshipped indeed
+piṅgalā's (piṅgalāyāḥ) opinion (mate) declared (proktam) first-god-worshipped (ādyāmarārcitena) but (tu)
 
 ## mukta-m0-p26-v631
-p.74) become increasing earth-six hundred also
+would-be (bhaveyuḥ) increasing (vardhamānāni) earth-six (vasudviṣaṭ) hundreds (śatāni) and (ca)
 
 ## mukta-m0-p26-v632
-vishvakarma's opinion seen speak pedestal-turning
+viśvakarma's-opinion (viśvakarmamataṃ) seeing (dṛṣṭvā) to-be-spoken (vaktavyaṃ) pedestal-rotation (pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-that also equal linga temple or house suitable
+that-and (tacca) equal (savasamaṃ) liṅga (liṅgaṃ) in-temple (prāsāde) or (vā) in-house (gṛhe) suitable (hitam)
 
 ## mukta-m0-p26-v634
-two feet knee-limit four-cornered brahma
+two (dvau) feet (pādau) knee-until (jānuparyantaṃ) four-cornered (caturasra) pitāmaha (pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-up-to-head navel-from-upward round-part hara himself
+to-head (āmūrdhaṃ) from-navel-upward (nābhitaścordhvaṃ) round-part (vṛttabhāge) hara (haraḥ) himself (svayam)
 
 ## mukta-m0-p26-v636
-five-fold manifest lingas equal-pedestal those also
+fivefold (pañcadhā) manifest-liṅgas (vyaktaliṅgāni) equal-pedestals (samapīṭhāni) those (tāni) and (ca)
 
 ## mukta-m0-p26-v637
-five-linga arrangement head-located then said
+five-liṅga-arrangement (pañcaliṅgavyavasthā) this (iyaṃ) head-rotating (śirovartini) thus (atha) is-said (ucyate)
 
 ## mukta-m0-p26-v638
-each four-types desire-form fruit speak
+of-each (ekaikasya) four-divisions (caturbhedaiḥ) desired-form (kāmyarūpāt) fruit (phalaṃ) would-declare (vadet)
 
 ## mukta-m0-p26-v639
-p.75) long-reign famous umbrella-types four-fold
+long-reign-giving (cirarājyaprada) renowned (khyātaṃ) umbrella-divisions (chatrabhedāḥ) fourfold (caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-measure wing loss wide famous
+measure-giving (mānada) wing (pakṣa) loss-and (lopācca) extensive (vipulaṃ) fame-giving (khyātidaṃ) becomes (bhavet)
 
 ## mukta-m0-p26-v641
-shri-vasa son-giving kurtu egg four-fold
+śrīvāsa (śrīvāsaṃ) son-giving (putradaṃ) kurtu (kurtu) dakṣa-egg (dakṣāṇḍaṃ) would-be (syāt) fourfold (caturvidham)
 
 ## mukta-m0-p26-v642
-nourishing two-decay full great-delight always
+nourishing (puṣṭidaṃ) two-decay-from (dvikṣayāt) full (pūrṇaṃ) great-delight-causing (mahāhlādakara) always (sadā)
 
 ## mukta-m0-p26-v643
-weapon kumuda known moon four-fold opinion
+weapon (āyudaṃ) kumuda (kumudaṃ) to-be-known (jñeyaṃ) moon (candaṃ) fourfold (caturvidhaṃ) opinion (matam)
 
 ## mukta-m0-p26-v644
-all-desire-giving said destruction two-decay prosperity
+all-desires-giving (sarvakāmapradaṃ) declared (proktaṃ) destruction (vināśaṃ) two-decay-from (dvikṣayāt) for-prosperity (śriye)
 
 ## mukta-m0-p26-v645
-ballabha-giving that four-fold tin becomes
+belovedness-giving (ballabhatvaprada) that-and (tacca) fourfold (caturdhā) lead (trapuṣaṃ) becomes (bhavet)
 
 ## mukta-m0-p26-v646
-do brahmin-etc-work one or kukkuta-egg
+would-do (kuryāt) brahmin-etc-work-for (viprādikāryārthaṃ) one (ekaṃ) or (vā) egg (kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-long-life then moon-half krikavaku-egg wisdom
+long-life (dīrghāyuṣṭvam) then (atha) moon's (cendoḥ) from-partridge-egg (kṛkavākvaṇḍataḥ) wisdom (prajñāḥ)
 
 ## mukta-m0-p26-v648
-twenty-jina tiger first brahma-etc enveloping
+jina-twenty-tigers (jinaviṃśatiśārdūlaiḥ) in-first (ādye) brahma-etc-enclosure (brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-by-change by-love part third-part added
+by-change (vikāreṇa) by-memory (smareṇa) part-third-part (aṃśatṛtīyāṃśa) joined (yutena) and (ca)
 
 ## mukta-m0-p26-v650
-third-part portion nail-moon endowed
+part-third-part (bhāgatṛtīyabhāgena) nail-moon-endowed (nakhacandrānvitena) and (ca)
