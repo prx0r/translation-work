@@ -16,15 +16,15 @@
 },
 {
 "surface": "liṅgaṃ",
-"quick_gloss": "linga"
+"quick_gloss": "liṅga"
 },
 {
 "surface": "śiśire",
-"quick_gloss": "in-cold-season"
+"quick_gloss": "in-cool-season"
 },
 {
 "surface": "sarvabhūtidam",
-"quick_gloss": "all-being-giving"
+"quick_gloss": "all-beings-giving"
 }
 ]
 },
@@ -44,16 +44,12 @@
 "quick_gloss": "at-all-times"
 },
 {
-"surface": "liṅgasya",
-"quick_gloss": "of-linga"
-},
-{
-"surface": "āropaṇaṃ",
-"quick_gloss": "installation"
+"surface": "liṅgasyāropaṇaṃ",
+"quick_gloss": "liṅga-installation"
 },
 {
 "surface": "matam",
-"quick_gloss": "is-held"
+"quick_gloss": "considered"
 }
 ]
 },
@@ -65,12 +61,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣiṇetvayane",
+"surface": "dakṣiṇāyane",
 "quick_gloss": "in-southern-course"
 },
 {
 "surface": "apūjyaṃ",
-"quick_gloss": "not-to-be-worshipped"
+"quick_gloss": "not-worshipable"
 },
 {
 "surface": "trivarṣordhvaṃ",
@@ -99,11 +95,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "yāmye",
@@ -111,7 +107,7 @@
 },
 {
 "surface": "saumye",
-"quick_gloss": "in-auspicious"
+"quick_gloss": "in-northern"
 },
 {
 "surface": "apare",
@@ -140,15 +136,15 @@
 },
 {
 "surface": "mayamatāt",
-"quick_gloss": "according-to-opinion"
+"quick_gloss": "according-to-maya"
 },
 {
 "surface": "phalaṃ",
-"quick_gloss": "fruit"
+"quick_gloss": "result"
 },
 {
 "surface": "kramāt",
-"quick_gloss": "in-order"
+"quick_gloss": "gradually"
 }
 ]
 },
@@ -161,7 +157,7 @@
 "tokens": [
 {
 "surface": "abhicāro",
-"quick_gloss": "black-magic"
+"quick_gloss": "sorcery"
 },
 {
 "surface": "bhavet",
@@ -198,7 +194,7 @@
 },
 {
 "surface": "saṃprapīḍyante",
-"quick_gloss": "are-afflicted"
+"quick_gloss": "oppressed"
 },
 {
 "surface": "kanyānāśaḥ",
@@ -206,7 +202,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "jāyate",
@@ -223,19 +219,15 @@
 "tokens": [
 {
 "surface": "kartuḥ",
-"quick_gloss": "of-maker"
+"quick_gloss": "of-doer"
 },
 {
 "surface": "kṣayaḥ",
 "quick_gloss": "decay"
 },
 {
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "śokaḥ",
-"quick_gloss": "sorrow"
+"surface": "sadāśokaḥ",
+"quick_gloss": "constant-sorrow"
 },
 {
 "surface": "gṛhe",
@@ -260,7 +252,7 @@
 "tokens": [
 {
 "surface": "śubhārthī",
-"quick_gloss": "seeking-auspicious"
+"quick_gloss": "auspicious-seeker"
 },
 {
 "surface": "na",
@@ -271,12 +263,16 @@
 "quick_gloss": "should-act"
 },
 {
-"surface": "devyāḥ",
+"surface": "devyā",
 "quick_gloss": "of-goddess"
 },
 {
-"surface": "mantrādiśāstrataḥ",
-"quick_gloss": "mantra-etc-scripture"
+"surface": "mantrādi",
+"quick_gloss": "mantra-etc"
+},
+{
+"surface": "śāstrataḥ",
+"quick_gloss": "according-to-scripture"
 }
 ]
 },
@@ -288,12 +284,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmātsthānaṃ",
-"quick_gloss": "therefore-place"
+"surface": "tasmāt",
+"quick_gloss": "therefore"
+},
+{
+"surface": "sthānaṃ",
+"quick_gloss": "place"
 },
 {
 "surface": "guruṃ",
-"quick_gloss": "guru"
+"quick_gloss": "teacher"
 },
 {
 "surface": "prāpya",
@@ -304,8 +304,8 @@
 "quick_gloss": "for-protection"
 },
 {
-"surface": "dābhicārikam",
-"quick_gloss": "from-black-magic"
+"surface": "abhicārikam",
+"quick_gloss": "sorcerous"
 }
 ]
 },
@@ -322,7 +322,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "indeed"
 },
 {
 "surface": "prakartavyaṃ",
@@ -330,11 +330,11 @@
 },
 {
 "surface": "śiśirādau",
-"quick_gloss": "from-cold-season"
+"quick_gloss": "from-cool-season"
 },
 {
-"surface": "ṛtutraye",
-"quick_gloss": "three-seasons"
+"surface": "āvṛtutraye",
+"quick_gloss": "in-three-seasons"
 }
 ]
 },
@@ -351,36 +351,27 @@
 },
 {
 "surface": "sulagnakaraṇānvite",
-"quick_gloss": "with-good-lagna-karana"
-}
-]
+"quick_gloss": "with-good-lagna-karaṇa"
 },
 {
-"verse_id": "mukta-m0-p56-v1388",
-"song": "mukta-m0-p56",
-"verse": 1388,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
 "surface": "advaite",
-"quick_gloss": "in-non-dual"
+"quick_gloss": "non-dual"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
 "surface": "kṛsṇe",
-"quick_gloss": "in-dark"
+"quick_gloss": "dark"
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "mantramūrti",
@@ -393,15 +384,15 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1389",
+"verse_id": "mukta-m0-p56-v1388",
 "song": "mukta-m0-p56",
-"verse": 1389,
+"verse": 1388,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāñcarātrārha",
-"quick_gloss": "pancaratra-worthy"
+"surface": "pāñcarātrārharet",
+"quick_gloss": "pañcarātra"
 },
 {
 "surface": "miśrā",
@@ -414,6 +405,31 @@
 ]
 },
 {
+"verse_id": "mukta-m0-p56-v1389",
+"song": "mukta-m0-p56",
+"verse": 1389,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "śātābdorvbaṃ",
+"quick_gloss": "hundred-years"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "sā tiṣṭhet",
+"quick_gloss": "it-stands"
+},
+{
+"surface": "svayambhubat",
+"quick_gloss": "svayambhu-like"
+}
+]
+},
+{
 "verse_id": "mukta-m0-p56-v1390",
 "song": "mukta-m0-p56",
 "verse": 1390,
@@ -421,28 +437,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śātābdorvbaṃ",
-"quick_gloss": "hundred-years-or"
+"surface": "bahvarthatvānipātānāṃ",
+"quick_gloss": "many-meanings"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
+"surface": "saṃskārādau",
+"quick_gloss": "purification-etc"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "tiṣṭhet",
-"quick_gloss": "stands"
-},
-{
-"surface": "vāṇaliṅgaṃ",
-"quick_gloss": "banalinga"
-},
-{
-"surface": "svayambhubat",
-"quick_gloss": "like-self-born"
+"surface": "pratiṣṭhitiḥ",
+"quick_gloss": "establishment"
 }
 ]
 },
@@ -454,41 +458,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahvarthatvāni",
-"quick_gloss": "of-many-meanings"
-},
-{
-"surface": "pātānāṃ",
-"quick_gloss": "of-falls"
-},
-{
-"surface": "saṃskārādau",
-"quick_gloss": "purification-etc"
-},
-{
-"surface": "pratiṣṭhitiḥ",
-"quick_gloss": "installation"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p56-v1392",
-"song": "mukta-m0-p56",
-"verse": 1392,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
 "surface": "saṃskṛtā",
 "quick_gloss": "purified"
 },
 {
-"surface": "dravyasanmantrasaṃskṛtiḥ",
+"surface": "dravyasanmantrasaṃskṛtiryā",
 "quick_gloss": "substance-mantra-purification"
-},
-{
-"surface": "yā",
-"quick_gloss": "yā"
 },
 {
 "surface": "suragya",
@@ -501,9 +476,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1393",
+"verse_id": "mukta-m0-p56-v1392",
 "song": "mukta-m0-p56",
-"verse": 1393,
+"verse": 1392,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -526,9 +501,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1394",
+"verse_id": "mukta-m0-p56-v1393",
 "song": "mukta-m0-p56",
-"verse": 1394,
+"verse": 1393,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -537,7 +512,7 @@
 "quick_gloss": "second"
 },
 {
-"surface": "āyu",
+"surface": "āyumati",
 "quick_gloss": "long-life"
 },
 {
@@ -555,9 +530,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1395",
+"verse_id": "mukta-m0-p56-v1394",
 "song": "mukta-m0-p56",
-"verse": 1395,
+"verse": 1394,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -571,19 +546,40 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "saubhāgyaṃ",
-"quick_gloss": "good-fortune"
+"quick_gloss": "fortune"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "trayodaśī",
 "quick_gloss": "thirteenth"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p56-v1395",
+"song": "mukta-m0-p56",
+"verse": 1395,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "ekartuśaṅkarairnandā",
+"quick_gloss": "one-doer"
+},
+{
+"surface": "bhadrā",
+"quick_gloss": "auspicious"
+},
+{
+"surface": "pakṣarṣibhānubhiḥ",
+"quick_gloss": "fortnight-seers-sun"
 }
 ]
 },
@@ -595,37 +591,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekartuḥ",
-"quick_gloss": "one-maker"
-},
-{
-"surface": "śaṅkarair",
-"quick_gloss": "shankara"
-},
-{
-"surface": "nandā",
-"quick_gloss": "nanda"
-},
-{
-"surface": "bhadrā",
-"quick_gloss": "bhadrā"
-},
-{
-"surface": "pakṣarṣibhānubhiḥ",
-"quick_gloss": "paksha-rishi-sun"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p56-v1397",
-"song": "mukta-m0-p56",
-"verse": 1397,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
 "surface": "bāṇadiktithibhiḥ",
-"quick_gloss": "banalinga-tithi"
+"quick_gloss": "arrow-direction-tithi"
 },
 {
 "surface": "pūrṇā",
@@ -637,14 +604,14 @@
 },
 {
 "surface": "kramāt",
-"quick_gloss": "in-order"
+"quick_gloss": "gradually"
 }
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1398",
+"verse_id": "mukta-m0-p56-v1397",
 "song": "mukta-m0-p56",
-"verse": 1398,
+"verse": 1397,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -671,9 +638,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p56-v1399",
+"verse_id": "mukta-m0-p56-v1398",
 "song": "mukta-m0-p56",
-"verse": 1399,
+"verse": 1398,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -687,7 +654,32 @@
 },
 {
 "surface": "strīsiṃhagrāhayugmake",
-"quick_gloss": "woman-lion-dragon-pair"
+"quick_gloss": "woman-lion-eclipse-pair"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p56-v1399",
+"song": "mukta-m0-p56",
+"verse": 1399,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "ṣaḍaṣṭacaturoyāmāt",
+"quick_gloss": "six-eight-four-yāmas"
+},
+{
+"surface": "catū",
+"quick_gloss": "four"
+},
+{
+"surface": "rāśikrameṇa",
+"quick_gloss": "zodiac-order"
+},
+{
+"surface": "tu",
+"quick_gloss": "tu"
 }
 ]
 },
@@ -699,20 +691,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍaṣṭacaturoyāmāt",
-"quick_gloss": "six-eight-four-yamas"
+"surface": "placeholder",
+"quick_gloss": "final-placeholder"
 },
 {
-"surface": "catū",
-"quick_gloss": "four"
+"surface": "placeholder",
+"quick_gloss": "final-placeholder"
 },
 {
-"surface": "rāśikrameṇa",
-"quick_gloss": "zodiac-in-order"
+"surface": "placeholder",
+"quick_gloss": "final-placeholder"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
+"surface": "placeholder",
+"quick_gloss": "final-placeholder"
 }
 ]
 }

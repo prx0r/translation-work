@@ -11,20 +11,20 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "liṅgānugam",
-"quick_gloss": "liṅga-following"
+"surface": "liṅgānugaṃ",
+"quick_gloss": "linga-following"
 },
 {
-"surface": "pīṭham",
+"surface": "pīṭhaṃ",
 "quick_gloss": "pedestal"
 },
 {
-"surface": "kartavyam",
-"quick_gloss": "to-be-made"
+"surface": "kartavyaṃ",
+"quick_gloss": "should-be-made"
 },
 {
-"surface": "kartṛjīvane",
-"quick_gloss": "in-maker's-life"
+"surface": "kartṛ+jīvane",
+"quick_gloss": "in-life-of-maker"
 }
 ]
 },
@@ -41,7 +41,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "there-is"
 },
 {
 "surface": "pīḍyate",
@@ -56,7 +56,7 @@
 "quick_gloss": "maker"
 },
 {
-"surface": "rāṣṭram",
+"surface": "rāṣṭraṃ",
 "quick_gloss": "kingdom"
 },
 {
@@ -81,20 +81,28 @@
 "quick_gloss": "by-height"
 },
 {
-"surface": "triliṅgānām",
-"quick_gloss": "of-three-liṅgas"
+"surface": "triliṅgānāṃ",
+"quick_gloss": "of-three-lingas"
 },
 {
-"surface": "na+nyūnaḥ",
-"quick_gloss": "not-less"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na+adhikaḥ",
-"quick_gloss": "not-greater"
+"surface": "nyūnaḥ",
+"quick_gloss": "less"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "adhikaḥ",
+"quick_gloss": "greater"
 },
 {
 "surface": "hareḥ",
-"quick_gloss": "of-Hari"
+"quick_gloss": "of-hari"
 }
 ]
 },
@@ -110,15 +118,15 @@
 "quick_gloss": "with-sages-plus-one"
 },
 {
-"surface": "śambhum",
-"quick_gloss": "Śambhu"
+"surface": "śambhuṃ",
+"quick_gloss": "shambhu"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "should-make"
 },
 {
-"surface": "āḍhyam",
+"surface": "āḍhyaṃ",
 "quick_gloss": "wealthy"
 },
 {
@@ -127,7 +135,7 @@
 },
 {
 "surface": "harim",
-"quick_gloss": "Hari"
+"quick_gloss": "hari"
 }
 ]
 },
@@ -144,15 +152,15 @@
 },
 {
 "surface": "brahmā",
-"quick_gloss": "Brahmā"
+"quick_gloss": "brahma"
 },
 {
-"surface": "kāryam",
-"quick_gloss": "to-be-made"
+"surface": "kāryaṃ",
+"quick_gloss": "should-be-made"
 },
 {
-"surface": "cānāḍhyakam",
-"quick_gloss": "and-non-wealthy"
+"surface": "anāḍhyakaṃ",
+"quick_gloss": "not-wealthy"
 },
 {
 "surface": "kvacit",
@@ -168,20 +176,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekam",
+"surface": "ekaṃ",
 "quick_gloss": "one"
 },
 {
-"surface": "surārcite",
-"quick_gloss": "in-god-worshipped"
-},
-{
-"surface": "liṅge",
-"quick_gloss": "liṅga"
+"surface": "surārcite+liṅge",
+"quick_gloss": "in-god-worshipped-linga"
 },
 {
 "surface": "brahmā",
-"quick_gloss": "Brahmā"
+"quick_gloss": "brahma"
 },
 {
 "surface": "saptāṃśake",
@@ -201,16 +205,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sitādivarṇānām",
+"surface": "sitādi+varṇa",
 "quick_gloss": "of-white-etc-colors"
+},
+{
+"surface": "avarṇānāṃ",
+"quick_gloss": "of-colorless"
 },
 {
 "surface": "pīṭhādyāḥ",
 "quick_gloss": "pedestal-etc"
 },
 {
-"surface": "na+vivarṇajāḥ",
-"quick_gloss": "not-of-bad-color"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "vivarṇajāḥ",
+"quick_gloss": "colorless-born"
 }
 ]
 },
@@ -223,15 +235,15 @@
 "tokens": [
 {
 "surface": "ratnajāḥ",
-"quick_gloss": "of-gems"
+"quick_gloss": "jewel-born"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "lohaiḥ",
-"quick_gloss": "of-metals"
+"surface": "lohaiḥ+vā",
+"quick_gloss": "by-metals"
 },
 {
 "surface": "viśeṣāt",
@@ -255,16 +267,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaiḍūryādyuttame",
-"quick_gloss": "of-vaiḍūrya-etc"
+"surface": "vaiḍūryādi",
+"quick_gloss": "of-vaidurya-etc"
 },
 {
-"surface": "nityam",
+"surface": "uttame",
+"quick_gloss": "in-best"
+},
+{
+"surface": "nityaṃ",
 "quick_gloss": "always"
 },
 {
 "surface": "hemajā",
-"quick_gloss": "of-gold-born"
+"quick_gloss": "gold-born"
 },
 {
 "surface": "piṇḍikā",
@@ -272,7 +288,7 @@
 },
 {
 "surface": "varā",
-"quick_gloss": "best"
+"quick_gloss": "excellent"
 }
 ]
 },
@@ -284,7 +300,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāgadrayamathikam",
+"surface": "bhāgadrayam+athikaṃ",
 "quick_gloss": "three-parts-plus"
 },
 {
@@ -296,8 +312,8 @@
 "quick_gloss": "should-place"
 },
 {
-"surface": "piṇḍikāvaṭau",
-"quick_gloss": "in-base-cavity"
+"surface": "piṇḍikā+vaṭau",
+"quick_gloss": "in-base-pit"
 }
 ]
 },
@@ -309,7 +325,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mekhalādivibhāgaḥ",
+"surface": "mekhalādi+vibhāgaḥ",
 "quick_gloss": "girdle-etc-division"
 },
 {
@@ -334,28 +350,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+nyūnam",
-"quick_gloss": "not-less"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na+adhikam",
-"quick_gloss": "not-greater"
+"surface": "nyūnaṃ",
+"quick_gloss": "less"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "adhikaṃ",
+"quick_gloss": "greater"
 },
 {
 "surface": "mānāt",
 "quick_gloss": "than-measure"
 },
 {
-"surface": "śobhanam",
+"surface": "śobhanaṃ",
 "quick_gloss": "beautiful"
 },
 {
 "surface": "śvabhram",
-"quick_gloss": "cavity"
+"quick_gloss": "pit"
 },
 {
 "surface": "iṣyate",
-"quick_gloss": "is-said"
+"quick_gloss": "will-be"
 }
 ]
 },
@@ -367,7 +391,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pīṭhadoṣāt",
+"surface": "pīṭha+doṣāt",
 "quick_gloss": "from-pedestal-fault"
 },
 {
@@ -383,7 +407,7 @@
 "quick_gloss": "maker"
 },
 {
-"surface": "kartum",
+"surface": "kartuṃ",
 "quick_gloss": "to-do"
 },
 {
@@ -400,8 +424,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhuktimuktyubhayaprāptyai",
-"quick_gloss": "for-both-enjoyment-liberation"
+"surface": "bhukti+mukti+ubhaya+prāptyai",
+"quick_gloss": "for-enjoyment-liberation-both-attainment"
 },
 {
 "surface": "anyaḥ",
@@ -425,15 +449,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padmārdhendugaṇākhyā",
+"surface": "padmārdhendu+gaṇa+ākhyā",
 "quick_gloss": "half-moon-number-named"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "kāmadā",
 "quick_gloss": "desire-giving"
 },
 {
-"surface": "śubham",
+"surface": "śubha",
 "quick_gloss": "auspicious"
 },
 {
@@ -455,18 +483,18 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "vedāsrā",
-"quick_gloss": "four-cornered"
+"quick_gloss": "veda-cornered"
 },
 {
 "surface": "bhadrā",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "yogarddhidāyinī",
+"surface": "yoga+ṛddhi+dāyinī",
 "quick_gloss": "yoga-prosperity-giving"
 }
 ]
@@ -488,10 +516,10 @@
 },
 {
 "surface": "vajrī",
-"quick_gloss": "vajra-like"
+"quick_gloss": "vajra-girdled"
 },
 {
-"surface": "mekhalātritayānvitā",
+"surface": "mekhalā+tritayānvitā",
 "quick_gloss": "with-three-girdles"
 }
 ]
@@ -505,18 +533,18 @@
 "tokens": [
 {
 "surface": "maṇḍalā",
-"quick_gloss": "circular"
+"quick_gloss": "mandala"
 },
 {
-"surface": "pūrṇacandrābhā",
+"surface": "pūrṇa+candra+ābhā",
 "quick_gloss": "full-moon-like"
 },
 {
-"surface": "arthadā",
+"surface": "artha+dā",
 "quick_gloss": "wealth-giving"
 },
 {
-"surface": "pañcamekhalā",
+"surface": "pañca+mekhalā",
 "quick_gloss": "five-girdled"
 }
 ]
@@ -529,16 +557,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "candrāmburuparāmai",
+"surface": "candrāmburu+parāmai",
 "quick_gloss": "moon-water-form-supreme"
 },
 {
-"surface": "kāgnidyaṃśaistithi",
-"quick_gloss": "with-fire-portion-tithi"
-},
-{
-"surface": "bhājitaiḥ",
-"quick_gloss": "divided"
+"surface": "kāgni+dyāṃśaiḥ+tithi+bhājitaiḥ",
+"quick_gloss": "with-fire-portion-tithi-divided"
 }
 ]
 },
@@ -554,7 +578,7 @@
 "quick_gloss": "round"
 },
 {
-"surface": "padmapuṭākārā",
+"surface": "padma+puṭa+ākārā",
 "quick_gloss": "lotus-cup-shaped"
 },
 {
@@ -562,7 +586,7 @@
 "quick_gloss": "center"
 },
 {
-"surface": "bhayacumbitā",
+"surface": "bhaya+cumbitā",
 "quick_gloss": "fear-kissed"
 }
 ]
@@ -579,11 +603,11 @@
 "quick_gloss": "eight-cornered"
 },
 {
-"surface": "gaṇākhyātā",
-"quick_gloss": "named-gaṇa"
+"surface": "gaṇa+ākhyātā",
+"quick_gloss": "group-named"
 },
 {
-"surface": "muktidā",
+"surface": "mukti+dā",
 "quick_gloss": "liberation-giving"
 },
 {
@@ -600,8 +624,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrvoktamekhalāgartanālakādisamanvitā",
-"quick_gloss": "previously-said-girdle-cavity-stalk-etc"
+"surface": "pūrvokta+mekhalā+garta+nālaka+ādi+samanvitā",
+"quick_gloss": "previously-said-girdle-pit-stalk-etc-equipped"
 }
 ]
 },
@@ -613,15 +637,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vistarokchrayanālādi",
-"quick_gloss": "extent-height-stalk-etc"
+"surface": "vistara+ucchraya+nāla+ādi",
+"quick_gloss": "width-height-stalk-etc"
 },
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
-"surface": "pūrvoṃditam",
+"surface": "pūrva+uditaṃ",
 "quick_gloss": "previously-declared"
 },
 {
@@ -639,19 +663,19 @@
 "tokens": [
 {
 "surface": "saṃveṣṭya",
-"quick_gloss": "encircling"
+"quick_gloss": "wrapping"
 },
 {
 "surface": "vartayet",
 "quick_gloss": "should-make-round"
 },
 {
-"surface": "piṇḍīm",
+"surface": "piṇḍīṃ",
 "quick_gloss": "base"
 },
 {
-"surface": "kartuḥ+kāmaprasādhikam",
-"quick_gloss": "maker's-desire-fulfilling"
+"surface": "kartuḥ+kāma+prasādhikam",
+"quick_gloss": "of-maker-desire-accomplishing"
 }
 ]
 },
@@ -663,24 +687,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mārūtīm",
-"quick_gloss": "windy"
+"surface": "mārūtīṃ",
+"quick_gloss": "maruti"
 },
 {
-"surface": "dhānadīm",
-"quick_gloss": "wealthy"
+"surface": "dhānadīṃ",
+"quick_gloss": "wealth-giving"
 },
 {
-"surface": "raudrīm",
-"quick_gloss": "fierce"
+"surface": "raudrīṃ",
+"quick_gloss": "raudri"
 },
 {
-"surface": "vaiṣṇavīm",
-"quick_gloss": "Viṣṇu-like"
+"surface": "vaiṣṇāvīṃ",
+"quick_gloss": "vaishnavi"
 },
 {
-"surface": "brahmajām",
-"quick_gloss": "Brahma-born"
+"surface": "brahmajāṃ",
+"quick_gloss": "brahma-born"
 },
 {
 "surface": "sadā",
