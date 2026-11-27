@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[pada](ityeteṣāmabhāve tu rasendraṃ vajrasaṃyutam) [pada](ityeteṣāmabhāve tu rasendraṃ vajrasaṃyutam) [pada](ityeteṣāmabhāve tu rasendraṃ vajrasaṃyutam) [pada](ityeteṣāmabhāve tu rasendraṃ vajrasaṃyutam)
+[thus](iti) [of-these](eteṣām) [in-absence](abhāve) [but](tu) [mercury](rasendram) [diamond-joined](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-[pada](gavyasarjayutaiścaiva lepyaṃ varṇakapuṣṭaye) [pada](gavyasarjayutaiścaiva lepyaṃ varṇakapuṣṭaye) [pada](gavyasarjayutaiścaiva lepyaṃ varṇakapuṣṭaye) [pada](gavyasarjayutaiścaiva lepyaṃ varṇakapuṣṭaye)
+[cow-sarja-joined](gavyasarjayutaiḥ) [and](ca) [indeed](eva) [to-be-smeared](lepyam) [color-nourishment](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-[pada](sadvārarkṣartuyuktenhi cārulagnasamanvite) [pada](sadvārarkṣartuyuktenhi cārulagnasamanvite) [pada](sadvārarkṣartuyuktenhi cārulagnasamanvite) [pada](sadvārarkṣartuyuktenhi cārulagnasamanvite)
+[good-door-constellation-season-joined](sadvārarkṣartuyuktena) [indeed](hi) [beautiful-ascendant-accompanied](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-[pada](divyāntarikṣabhaumāni śubhāśubhaphalāptaye) [pada](divyāntarikṣabhaumāni śubhāśubhaphalāptaye) [pada](divyāntarikṣabhaumāni śubhāśubhaphalāptaye) [pada](divyāntarikṣabhaumāni śubhāśubhaphalāptaye)
+[celestial-atmospheric-terrestrial](divyāntarikṣabhaumāni) [good-bad-result-obtaining](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-[pada](ityādi śubhakṛddivyamato'śubhakaraṃ tvidam) [pada](ityādi śubhakṛddivyamato'śubhakaraṃ tvidam) [pada](ityādi śubhakṛddivyamato'śubhakaraṃ tvidam) [pada](ityādi śubhakṛddivyamato'śubhakaraṃ tvidam)
+[etc](ityādi) [good-doing-celestial](śubhakṛddivyam) [therefore](ataḥ) [bad-doing](aśubhakaram) [but](tu) [this](idam)
 
 ## mukta-m0-p05-v106
-[pada](digdāhastīvravātaśca candrasūryopamardanam [mū, a, kha: pasarjanam]) [pada](digdāhastīvravātaśca candrasūryopamardanam [mū, a, kha: pasarjanam]) [pada](digdāhastīvravātaśca candrasūryopamardanam [mū, a, kha: pasarjanam]) [pada](digdāhastīvravātaśca candrasūryopamardanam [mū, a, kha: pasarjanam])
+[direction-burning](digdāhaḥ) [fierce-wind](tīvravātaḥ) [and](ca) [moon-sun-eclipse](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-[pada](vāsavṛkṣāgrasaṃsthāyi [ṅ: śramasthāyi] balibhuṅmadhurārutiḥ) [pada](vāsavṛkṣāgrasaṃsthāyi [ṅ: śramasthāyi] balibhuṅmadhurārutiḥ) [pada](vāsavṛkṣāgrasaṃsthāyi [ṅ: śramasthāyi] balibhuṅmadhurārutiḥ) [pada](vāsavṛkṣāgrasaṃsthāyi [ṅ: śramasthāyi] balibhuṅmadhurārutiḥ)
+[dwelling-tree-top-situated](vāsavṛkṣāgrasaṃsthāyi) [offering-eater](balibhuṅ) [sweet-cry](madhurārutiḥ)
 
 ## mukta-m0-p05-v108
-[pada](pāṃśvasṛgvarṣaṇaṃ ghoramāntarikṣamaśobhanam) [pada](pāṃśvasṛgvarṣaṇaṃ ghoramāntarikṣamaśobhanam) [pada](pāṃśvasṛgvarṣaṇaṃ ghoramāntarikṣamaśobhanam) [pada](pāṃśvasṛgvarṣaṇaṃ ghoramāntarikṣamaśobhanam)
+[dust-blood-raining](pāṃśvasṛgvarṣaṇam) [terrible](ghoram) [atmospheric](āntarikṣam) [inauspicious](aśobhanam)
 
 ## mukta-m0-p05-v109
-[pada](dadhyakṣatayavā [mū, a: dadhyuddhṛtadharā] dūrvā dīpo gorocanā dhvajaḥ) [pada](dadhyakṣatayavā [mū, a: dadhyuddhṛtadharā] dūrvā dīpo gorocanā dhvajaḥ) [pada](dadhyakṣatayavā [mū, a: dadhyuddhṛtadharā] dūrvā dīpo gorocanā dhvajaḥ) [pada](dadhyakṣatayavā [mū, a: dadhyuddhṛtadharā] dūrvā dīpo gorocanā dhvajaḥ)
+[curd](dadhi) [unbroken-rice](akṣata) [barley](yavāḥ) [durva-grass](dūrvā) [lamp](dīpaḥ) [go-rochana](gorocanā) [banner](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[pada](govṛṣaśca kharo vājī bhasmākṣo bhūpatirdvipaḥ) [pada](govṛṣaśca kharo vājī bhasmākṣo bhūpatirdvipaḥ) [pada](govṛṣaśca kharo vājī bhasmākṣo bhūpatirdvipaḥ) [pada](govṛṣaśca kharo vājī bhasmākṣo bhūpatirdvipaḥ)
+[cow-bull](govṛṣaḥ) [and](ca) [donkey](kharaḥ) [horse](vājī) [ash-eyed](bhasmākṣaḥ) [king](bhūpatiḥ) [elephant](dvipaḥ)
 
 ## mukta-m0-p05-v111
-[pada](śivaḥ śivodakuṃbhasthaḥ kauśiko vāmataḥ śubhaḥ) [pada](śivaḥ śivodakuṃbhasthaḥ kauśiko vāmataḥ śubhaḥ) [pada](śivaḥ śivodakuṃbhasthaḥ kauśiko vāmataḥ śubhaḥ) [pada](śivaḥ śivodakuṃbhasthaḥ kauśiko vāmataḥ śubhaḥ)
+[Shiva](śivaḥ) [Shiva-water-pot-situated](śivodakuṃbhasthaḥ) [Kausika](kauśikaḥ) [from-left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-[pada](muktakeśaḥ parākṣepaḥ kṣāro'ṅgāraśca dāru ca) [pada](muktakeśaḥ parākṣepaḥ kṣāro'ṅgāraśca dāru ca) [pada](muktakeśaḥ parākṣepaḥ kṣāro'ṅgāraśca dāru ca) [pada](muktakeśaḥ parākṣepaḥ kṣāro'ṅgāraśca dāru ca)
+[loose-hair](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [and](ca)
 
 ## mukta-m0-p05-v113
-[pada](chinnāṅgo'locano rogī kapālī bhūprakampanaḥ) [pada](chinnāṅgo'locano rogī kapālī bhūprakampanaḥ) [pada](chinnāṅgo'locano rogī kapālī bhūprakampanaḥ) [pada](chinnāṅgo'locano rogī kapālī bhūprakampanaḥ)
+[cut-limb](chinnāṅgaḥ) [eyeless](alocanaḥ) [diseased](rogī) [skull-bearer](kapālī) [earth-trembling](bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-[pada](kṣutkṣāmonmattakau tantuścauṣadhīṣaṇasañcayaḥ [g: pañcamaḥ]) [pada](kṣutkṣāmonmattakau tantuścauṣadhīṣaṇasañcayaḥ [g: pañcamaḥ]) [pada](kṣutkṣāmonmattakau tantuścauṣadhīṣaṇasañcayaḥ [g: pañcamaḥ]) [pada](kṣutkṣāmonmattakau tantuścauṣadhīṣaṇasañcayaḥ [g: pañcamaḥ])
+[hunger](kṣut) [emaciated](kṣāma) [mad-ones](unmattakau) [thread](tantuḥ) [and](ca) [herbs](auṣadhī) [seeking](iṣaṇa) [collection](sañcayaḥ)
 
 ## mukta-m0-p05-v115
-[pada](pakṣārdhārdhaṃ tu saṃtyajya prasthānaṃ kriyate śubhe) [pada](pakṣārdhārdhaṃ tu saṃtyajya prasthānaṃ kriyate śubhe) [pada](pakṣārdhārdhaṃ tu saṃtyajya prasthānaṃ kriyate śubhe) [pada](pakṣārdhārdhaṃ tu saṃtyajya prasthānaṃ kriyate śubhe)
+[half-half-fortnight](pakṣārdhārdham) [but](tu) [abandoning](saṃtyajya) [departure](prasthānam) [is-done](kriyate) [in-auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-[pada](vedase syādvite [gh: yugāsrau syāddhitaiḥ] yātā tvagnidaṇḍānatikramāt) [pada](vedase syādvite [gh: yugāsrau syāddhitaiḥ] yātā tvagnidaṇḍānatikramāt) [pada](vedase syādvite [gh: yugāsrau syāddhitaiḥ] yātā tvagnidaṇḍānatikramāt) [pada](vedase syādvite [gh: yugāsrau syāddhitaiḥ] yātā tvagnidaṇḍānatikramāt)
+[for-Veda](vedase) [may-be](syāt) [in-wealth](vite) [gone](yātā) [but](tu) [fire-staff](agnidaṇḍa) [not-transgressing](anatikramāt)
 
 ## mukta-m0-p05-v117
-[pada](iṣṭādau [kh: indrādau] śaṅkaraṃ śastaṃ prāgīśenduvanaṃ [mū, a, k,: śendravanaṃ] vrajet) [pada](iṣṭādau [kh: indrādau] śaṅkaraṃ śastaṃ prāgīśenduvanaṃ [mū, a, k,: śendravanaṃ] vrajet) [pada](iṣṭādau [kh: indrādau] śaṅkaraṃ śastaṃ prāgīśenduvanaṃ [mū, a, k,: śendravanaṃ] vrajet) [pada](iṣṭādau [kh: indrādau] śaṅkaraṃ śastaṃ prāgīśenduvanaṃ [mū, a, k,: śendravanaṃ] vrajet)
+[in-desired-beginning](iṣṭādau) [Shankara](śaṅkaram) [praised](śastam) [east-lord-moon-forest](prāgīśenduvanam) [should-go](vrajet)
 
 ## mukta-m0-p05-v118
-[pada](budhārkendusite jīve vārkṣe prāguttarasthite [gh: sthire]) [pada](budhārkendusite jīve vārkṣe prāguttarasthite [gh: sthire]) [pada](budhārkendusite jīve vārkṣe prāguttarasthite [gh: sthire]) [pada](budhārkendusite jīve vārkṣe prāguttarasthite [gh: sthire])
+[Mercury](budha) [Sun](arka) [Moon](indu) [in-white](site) [in-Jupiter](jīve) [in-tree](vārkṣe) [east-north-situated](prāguttarasthite)
 
 ## mukta-m0-p05-v119
-[pada](ekāntarāsu [k: ekākarāsu] tārāsu śeṣe cāniṣṭakarmaṇi) [pada](ekāntarāsu [k: ekākarāsu] tārāsu śeṣe cāniṣṭakarmaṇi) [pada](ekāntarāsu [k: ekākarāsu] tārāsu śeṣe cāniṣṭakarmaṇi) [pada](ekāntarāsu [k: ekākarāsu] tārāsu śeṣe cāniṣṭakarmaṇi)
+[in-alternate](ekāntarāsu) [stars](tārāsu) [in-remainder](śeṣe) [and](ca) [in-inauspicious-action](aniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-[pada](niṣadho nīlagandhākhyaḥ śaṅgīketurnagādhipāḥ) [pada](niṣadho nīlagandhākhyaḥ śaṅgīketurnagādhipāḥ) [pada](niṣadho nīlagandhākhyaḥ śaṅgīketurnagādhipāḥ) [pada](niṣadho nīlagandhākhyaḥ śaṅgīketurnagādhipāḥ)
+[Nishadha](niṣadhaḥ) [blue-fragrance-named](nīlagandhākhyaḥ) [Shangi](śaṅgī) [Ketu](ketu) [mountain-lords](nagādhipāḥ)
 
 ## mukta-m0-p05-v121
-[pada](nandākhyo malayo vindhya ujjayanto'tha [k: urjayanta] ṛkṣakaḥ [g: ṛṣyakaḥ]) [pada](nandākhyo malayo vindhya ujjayanto'tha [k: urjayanta] ṛkṣakaḥ [g: ṛṣyakaḥ]) [pada](nandākhyo malayo vindhya ujjayanto'tha [k: urjayanta] ṛkṣakaḥ [g: ṛṣyakaḥ]) [pada](nandākhyo malayo vindhya ujjayanto'tha [k: urjayanta] ṛkṣakaḥ [g: ṛṣyakaḥ])
+[Nanda-named](nandākhyaḥ) [Malaya](malayaḥ) [Vindhya](vindhyaḥ) [Ujjayanta](ujjayantaḥ) [then](atha) [Rishyaka](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[pada](yojanāni daśaiteṣāṃ girīṇāṃ nikaṭe vanam) [pada](yojanāni daśaiteṣāṃ girīṇāṃ nikaṭe vanam) [pada](yojanāni daśaiteṣāṃ girīṇāṃ nikaṭe vanam) [pada](yojanāni daśaiteṣāṃ girīṇāṃ nikaṭe vanam)
+[yojanas](yojanāni) [ten](daśa) [of-these](eteṣām) [of-mountains](girīṇām) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-[pada](etatkṣetrotthitā ye tu pāṣāṇāstaravaḥ śubhāḥ) [pada](etatkṣetrotthitā ye tu pāṣāṇāstaravaḥ śubhāḥ) [pada](etatkṣetrotthitā ye tu pāṣāṇāstaravaḥ śubhāḥ) [pada](etatkṣetrotthitā ye tu pāṣāṇāstaravaḥ śubhāḥ)
+[this-field-risen](etat-kṣetrotthitāḥ) [who](ye) [but](tu) [stones](pāṣāṇāḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-[pada](sācāryaḥ sādhakaḥ śilpijanaiḥ parivataḥ śubhaiḥ) [pada](sācāryaḥ sādhakaḥ śilpijanaiḥ parivataḥ śubhaiḥ) [pada](sācāryaḥ sādhakaḥ śilpijanaiḥ parivataḥ śubhaiḥ) [pada](sācāryaḥ sādhakaḥ śilpijanaiḥ parivataḥ śubhaiḥ)
+[with-teacher](sācāryaḥ) [practitioner](sādhakaḥ) [by-artisan-people](śilpijanaiḥ) [surrounded](parivataḥ) [by-auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[pada](dhyātvādhaḥ prākṛtaṃ tattvaṃ śivatattvamayīṃ mahīm) [pada](dhyātvādhaḥ prākṛtaṃ tattvaṃ śivatattvamayīṃ mahīm) [pada](dhyātvādhaḥ prākṛtaṃ tattvaṃ śivatattvamayīṃ mahīm) [pada](dhyātvādhaḥ prākṛtaṃ tattvaṃ śivatattvamayīṃ mahīm)
+[having-meditated](dhyātvā) [below](adhaḥ) [material](prākṛtam) [principle](tattvam) [Shiva-principle-filled](śivatattvamayīm) [earth](mahīm)
