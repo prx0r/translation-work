@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[thus](ity) [these](eteṣām) [absence](abhāve) [but](tu) [mercury](rasendram) [diamond](vajra) [joined](saṃyutam)
+[thus-of-these](ityeteṣāmabhāve) [but](tu) [mercury](rasendraṃ) [diamond-joined](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-[cow](gavya) [resin](sarja) [joined](yutaiḥ) [and](ca) [eva](eva) [anointed](lepyam) [color](varṇaka) [nourishment](puṣṭaye)
+[with-cow-gum-joined](gavyasarjayutaiścaiva) [anointing](lepyaṃ) [color-nourishment](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-[good](sad) [door](vāra) [asterism](ṛkṣa) [season](ṛtu) [joined](yuktena) [hi](hi) [beautiful](cāru) [adhered](lagna) [endowed](samanvite)
+[good-door-constellation-season-joined-indeed](sadvārarkṣartuyuktenhi) [beautifully-attached-together](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-[divine](divya) [atmospheric](antarikṣa) [terrestrial](bhaumāni) [auspicious](śubha) [inauspicious](aśubha) [fruit](phala) [obtaining](āptaye)
+[divine-atmospheric-earthly](divyāntarikṣabhaumāni) [auspicious-inauspicious-result-obtaining](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-[thus](ityādi) [auspicious](śubha) [doing](kṛt) [divine](divyam) [therefore](atas) [inauspicious](aśubha) [making](karam) [but](tu) [this](idam)
+[and-so-forth](ityādi) [auspicious-doing-divine](śubhakṛddivyamato'śubhakaraṃ) [but-this](tvidam)
 
 ## mukta-m0-p05-v106
-[dig-dāha](digdāha) [intense](tīvra) [wind](vāta) [and](ca) [moon](candra) [sun](sūrya) [eclipse](upamardanam)
+[direction-burning-intense-wind-and](digdāhastīvravātaśca) [moon-sun-eclipse](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-[tree](vāsa) [top](vṛkṣa) [agra](agra) [standing](saṃsthāyi) [offering](bali) [eating](bhuṅ) [sweet](madhura) [sound](rutiḥ)
+[vasu-tree-top-standing](vāsavṛkṣāgrasaṃsthāyi) [offering-eater-sweet-sound](balibhuṅmadhurārutiḥ)
 
 ## mukta-m0-p05-v108
-[dust](pāṃśu) [blood](asṛk) [raining](varṣaṇam) [terrible](ghoram) [atmospheric](āntarikṣam) [inauspicious](aśobhanam)
+[dust-blood-raining](pāṃśvasṛgvarṣaṇaṃ) [terrible](ghoramāntarikṣamaśobhanam)
 
 ## mukta-m0-p05-v109
-[curd](dadhi) [akṣata](akṣata) [yava](yava) [dūrvā](dūrvā) [lamp](dīpa) [gorocanā](gorocanā) [banner](dhvajaḥ)
+[curd-akshata-barley](dadhyakṣatayavā) [durva](dūrvā) [lamp](dīpo) [cow-bile](gorocanā) [banner](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[cow](go) [bull](vṛṣa) [and](ca) [donkey](khara) [horse](vājī) [ash](bhasma) [eye](akṣa) [king](bhūpati) [elephant](dvipaḥ)
+[bull-and](govṛṣaśca) [donkey](kharo) [horse](vājī) [ash-eyed](bhasmākṣo) [king-elephant](bhūpatirdvipaḥ)
 
 ## mukta-m0-p05-v111
-[śiva](śivaḥ) [śiva](śiva) [water](udaka) [pot](kuṃbha) [stha](sthaḥ) [kauśika](kauśikaḥ) [left](vāmataḥ) [auspicious](śubhaḥ)
+[shiva](śivaḥ) [shiva-water-pot-seated](śivodakuṃbhasthaḥ) [kaushika](kauśiko) [left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāraḥ) [charcoal](aṅgāraḥ) [and](ca) [wood](dāru) [ca](ca)
+[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāro'ṅgāraśca) [charcoal-and](aṅgāraśca) [wood-and](dāru ca)
 
 ## mukta-m0-p05-v113
-[cut-limbed](chinnāṅgaḥ) [eyeless](alocanaḥ) [diseased](rogī) [skull-bearer](kapālī) [earth](bhū) [trembling](prakampanaḥ)
+[cut-limbed](chinnāṅgo'locano) [eyeless](alocano) [diseased](rogī) [skull-bearer](kapālī) [earth-trembling](bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-[hunger](kṣut) [thirst](kṣāma) [mad](unmatta) [kau](kau) [thread](tantu) [and](ca) [herb](oṣadhī) [search](iṣaṇa) [collection](sañcayaḥ)
+[hunger-thirst-madness-two](kṣutkṣāmonmattakau) [thread-and](tantuścauṣadhīṣaṇasañcayaḥ) [herb-collection](auṣadhīṣaṇasañcayaḥ)
 
 ## mukta-m0-p05-v115
-[half](pakṣa) [half](ardha) [half](ardhaṃ) [tu](tu) [abandoning](saṃtyajya) [departure](prasthānam) [done](kriyate) [auspicious](śubhe)
+[half-fortnight-half](pakṣārdhārdhaṃ) [but](tu) [abandoning](saṃtyajya) [departure](prasthānaṃ) [is-done](kriyate) [auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-[veda](veda) [se](se) [syāt](syāt) [vite](vite) [gone](yātā) [tv](tv) [fire](agni) [staff](daṇḍa) [not](an) [crossing](atikramāt)
+[veda-for](vedase) [may-be-two](syādvite) [traveler](yātā) [but](tvagnidaṇḍānatikramāt) [fire-staff-transgression](agnidaṇḍānatikramāt)
 
 ## mukta-m0-p05-v117
-[desired](iṣṭa) [beginning](ādau) [śaṅkara](śaṅkaram) [auspicious](śastam) [east](prāg) [īśa](īśa) [indu](indu) [forest](vanaṃ) [go](vrajet)
+[desired-beginning](iṣṭādau) [shankara](śaṅkaraṃ) [auspicious](śastaṃ) [east-indu-forest](prāgīśenduvanaṃ) [may-go](vrajet)
 
 ## mukta-m0-p05-v118
-[mercury](budha) [sun](arka) [moon](indu) [venus](site) [jupiter](jīve) [vārkṣe](vārkṣe) [east](prāg) [north](uttara) [standing](sthite)
+[mercury-sun-moon-venus](budhārkendusite) [jupiter](jīve) [tree](vārkṣe) [east-north-standing](prāguttarasthite)
 
 ## mukta-m0-p05-v119
-[one](eka) [interval](antarāsu) [stars](tārāsu) [remaining](śeṣe) [ca](ca) [inauspicious](aniṣṭa) [action](karmaṇi)
+[one-interval](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [and](cāniṣṭakarmaṇi) [inauspicious-act](aniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-[niṣadha](niṣadhaḥ) [nīlagandha](nīlagandha) [named](ākhyaḥ) [śaṅgī](śaṅgī) [ketu](ketu) [naga](naga) [lords](adhipāḥ)
+[nishadha](niṣadho) [blue-sandal-named](nīlagandhākhyaḥ) [shanki-ketu](śaṅgīketurnagādhipāḥ) [mountain-lords](nagādhipāḥ)
 
 ## mukta-m0-p05-v121
-[nandā](nandā) [named](ākhyaḥ) [malaya](malayaḥ) [vindhya](vindhyaḥ) [ujjayanta](ujjayantaḥ) [atha](atha) [ṛkṣaka](ṛkṣakaḥ)
+[nanda-named](nandākhyo) [malaya](malayo) [vindhya](vindhya) [ujjayanta-then](ujjayanto'tha) [constellation](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[yojana](yojanāni) [ten](daśa) [these](eteṣām) [mountains](girīṇām) [near](nikaṭe) [forest](vanam)
+[yojanas](yojanāni) [ten](daśaiteṣāṃ) [of-these](iteṣāṃ) [mountains](girīṇāṃ) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-[this](etat) [field](kṣetra) [arisen](utthitā) [those](ye) [tu](tu) [stones](pāṣāṇāḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
+[this-field-born](etatkṣetrotthitā) [who](ye) [but](tu) [stones-trees](pāṣāṇāstaravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-[with-teacher](sācāryaḥ) [sādhaka](sādhakaḥ) [artisan](śilpi) [people](janaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
+[with-teacher](sācāryaḥ) [accomplisher](sādhakaḥ) [artisan-people](śilpijanaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[meditating](dhyātvā) [below](adhaḥ) [natural](prākṛtam) [principle](tattvam) [śiva](śiva) [principle](tattva) [earth](mahīm)
+[meditating-below](dhyātvādhaḥ) [material](prākṛtaṃ) [principle](tattvaṃ) [shiva-principle-made](śivatattvamayīṃ) [earth](mahīm)
