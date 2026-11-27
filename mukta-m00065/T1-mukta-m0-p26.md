@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[sometimes](kvacit) [particle](kaṇaṃ) [by-entering](praveśena) [marking](lāñchayitvā) [sword-cutting](asiśātanam)
+sometimes particle entering marking sword destruction
 
 ## mukta-m0-p26-v627
-[in-middle](tanmadhye) [thread-confusion](sūtrasambhrānte) [rudra](rudraḥ) [becomes](bhavati) [round](vartulaḥ)
+in-middle thread-confused rudra becomes round
 
 ## mukta-m0-p26-v628
-[throws](kṣiped) [or](vā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand](hastāt) [one-finger](ekāṅgulaṃ) [gradually](kramāt)
+throw or void-fault-destroying from-hand one-finger gradually
 
 ## mukta-m0-p26-v629
-[sixteenth-part](ṣoḍaśāṃśa) [throws](kṣiped) [first](ādye) [veda-part](vedāṃśam) [god-worshipped](amarorcite)
+sixteenth-part throw first veda-part immortal-worshipped
 
 ## mukta-m0-p26-v630
-[of-piṅgalā](piṅgalāyāḥ) [opinion](mate) [proclaimed](proktam) [first-god-worshipped](ādyāmarārcitena) [but](tu)
+in-pingala opinion stated first-immortal-worshipped by
 
 ## mukta-m0-p26-v631
-[become](bhaveyuḥ) [increasing](vardhamānāni) [earth-two-six](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
+would-be increasing earth-six-hundred and
 
 ## mukta-m0-p26-v632
-[of-viśvakarma](viśvakarmamataṃ) [seeing](dṛṣṭvā) [to-be-spoken](vaktavyaṃ) [pedestal-turning](pīṭhavartanam)
+vishvakarma-opinion seen should-say pedestal-rotation
 
 ## mukta-m0-p26-v633
-[that](tac) [ca](ca) [equal-linga](samasamaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [beneficial](hitam)
+that and equal linga temple or house suitable
 
 ## mukta-m0-p26-v634
-[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasra) [pitāmaha](pitāmahaḥ)
+two feet knee-until square-brahma
 
 ## mukta-m0-p26-v635
-[up-to-head](āmūrdhaṃ) [from-navel](nābhitaś) [upward](ūrdhvaṃ) [round-part](vṛttabhāge) [hara](haraḥ) [himself](svayam)
+to-head from-navel upward round-part shiva himself
 
 ## mukta-m0-p26-v636
-[fivefold](pañcadhā) [manifest-lingas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
+fivefold manifest-lingas equal-pedestals those and
 
 ## mukta-m0-p26-v637
-[five-linga-arrangement](pañcaliṅgavyavasthā) [this](iyam) [head-turning](śirovartini) [then](atha) [is-said](ucyate)
+five-linga-arrangement head-rotating then said
 
 ## mukta-m0-p26-v638
-[one-by-one](ekaikasya) [four-varieties](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phalaṃ) [would-say](vadet)
+each four-varieties from-desired-form result declare
 
 ## mukta-m0-p26-v639
-[long-reign-giving](cirarājyaprada) [known](khyātaṃ) [umbrella-varieties](chatrabhedāḥ) [fourfold](caturvidhāḥ)
+long-kingdom-giving known umbrella-varieties fourfold
 
 ## mukta-m0-p26-v640
-[measure-giving](mānada) [wing](pakṣa) [by-loss](lopāt) [ca](ca) [vast](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
+measure-giving wing loss and large fame-giving becomes
 
 ## mukta-m0-p26-v641
-[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtu) [dakṣa-egg](dakṣāṇḍaṃ) [becomes](syāt) [fourfold](caturvidham)
+shri-residence son-giving kurtu daksha-egg becomes fourfold
 
 ## mukta-m0-p26-v642
-[nourishing](puṣṭidaṃ) [by-two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-causing](mahāhlādakara) [always](sadā)
+nourishment-giving two-decay from full great-delight-making always
 
 ## mukta-m0-p26-v643
-[weapon](āyudaṃ) [kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [canda](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
+weapon kumuda known moon fourfold opinion
 
 ## mukta-m0-p26-v644
-[all-desires-giving](sarvakāmapradaṃ) [proclaimed](proktaṃ) [destruction](vināśaṃ) [by-two-decay](dvikṣayāt) [for-prosperity](śriye)
+all-desire-giving stated destruction two-decay from prosperity
 
 ## mukta-m0-p26-v645
-[ballabha-giving](ballabhatvaprada) [that](tac) [ca](ca) [fourfold](caturdhā) [tin](trapuṣaṃ) [becomes](bhavet)
+belovedness-giving that and fourfold lead becomes
 
 ## mukta-m0-p26-v646
-[does](kuryāt) [for-brahmin-etc-work](viprādikāryārthaṃ) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
+do brahmin-etc-work-purpose one or cock-egg
 
 ## mukta-m0-p26-v647
-[long-life](dīrghāyuṣṭvam) [then](atha) [half-moon](cendoḥ) [from-kṛkavāku-egg](kṛkavākvaṇḍataḥ) [wisdom](prajñāḥ)
+long-life then moon partridge-egg from wisdom
 
 ## mukta-m0-p26-v648
-[twenty-jina](jinaviṃśati) [tigers](śārdūlaiḥ) [first](ādye) [brahma-etc-enclosure](brahmādiveṣṭanam)
+jina-twenty-tigers first brahma-etc-enclosure
 
 ## mukta-m0-p26-v649
-[by-variation](vikāreṇa) [by-smara](smareṇa) [part-third-part](aṃśatṛtīyāṃśa) [with-added](yutena) [ca](ca)
+by-modification by-love part-third-part added and
 
 ## mukta-m0-p26-v650
-[third-part-share](bhāgatṛtīyabhāgena) [nail-moon-included](nakhacandrānvitena) [ca](ca)
+part-third-part by nail-moon-included and
