@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-by-these indeed five associated bath worship-etc-purification
+[by-these-indeed](ebhistu) [with-five-associated](paṃcabhiryuktaiḥ) [bathing](snānam) [worship-etc-purification](arcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-by-īśāna-face-ghora-named-guhya-born-named-mantra-endowed
+[īśāna-vaktra-ghora-āhvaguhyājāta-named](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-bull-horn-excavated fire-refuge-born
+[by-bull-horn-dug-up](vṛṣaśṛṅgasamutkhātāḥ) [fire-refuge-born](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-by-goat washing from-earth step indeed with-kalā
+[by-goat-washing](ajena+kṣālanāt) [earth-sequence](pṛthvīkramataḥ) [with-art](tu) [kalā-possessing](kalāvatā)
 
 ## mukta-m0-p68-v1680
-lukewarm indeed third bath chisel-wound-removing
+[lukewarm-indeed](kavoṣṇaistu) [third](tṛtīyena) [bathing](snānaṃ) [axe-wound-removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-nidigdhikā bala-roots bath by-guhya fault-removing
+[nidigdhikā-balā-roots](nidigdhikā+balāmūlaiḥ) [bathing](snānaṃ) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-by-dhātrī bath earth abandoned by-sadyojāta purified
+[by-dhātrī-bathing](dhātryā+snānāt) [earth-clearly](mahītyakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-having-rubbed mahādeva sacred-water-born bathe waters
+[having-rubbed-great-god](samudvartya+mahādevaṃ) [tīrtha-born](tīrthotthaiḥ) [bathe](snāpayejjalaiḥ)
 
 ## mukta-m0-p68-v1684
-puṣkara naimiṣa-forest tīrtha and varuṇa likewise
+[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [and-varuṇa](ca+varūṇaṃ+tathā)
 
 ## mukta-m0-p68-v1685
-jāhnavī yamunā kauśī sarayū śoṇa-narmadā
+[ganges](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa-narmadā](śoṇanarmadā)
 
 ## mukta-m0-p68-v1686
-seven-godāvarī thus these holy-rivers great-waters
+[seven-godāvarī-thus](saptagodāvarītyetāḥ) [holy-rivers](puṇyanadyo) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-alkaline milk curd oil sugarcane-juice water liquor waters
+[alkali-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-crystal lotus-color and rājāvarta good-coral
+[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [ca](ca) [rājāvarta](rājāvartaḥ) [suvidruma](suvidrumam)
 
 ## mukta-m0-p68-v1689
-this gem-waters bath great-prosperity-making supreme
+[this-gem-water-bathing](etadratnodakaiḥ+snānaṃ) [great-being-making](mahābhūtikaraṃ) [supreme](param)
 
 ## mukta-m0-p68-v1690
-camphor aguru musk kāśmarī sandal etc
+[camphor-aguru-musk](karpūrāgurukastūrī) [kāśmarī-sandal-etc](kāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-bathe fragrant-water by-ajāta consecrated
+[bathe](snāpayedgandhatoyena) [ajāta-mantra](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-white-lotus lotus mālūra blue red lotus sun-born
+[puṇḍarīka-lotus-mālūra-blue-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-mango aśvamāra and punnāga bakula and
+[sahakāra-aśvamāra](sahakārāśvamāraṃ) [ca](ca) [punnāga-bakula](punnāgabakulāni) [ca](ca)
 
 ## mukta-m0-p68-v1694
-pāṭalā droṇa nepālī kuśa kiṃśuka siṃhikā
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-soft kunda lotus leaf and bull sage buka flower
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [ca](ca) [bull-sage-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-bilva mango mocana āraṅga jackfruit coconut
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [panasa](panasaṃ) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-jujube citron and kara marda satinduka
+[jujube-pomegranate](vadarībījapūraṃ) [ca](ca) [kara-marda](kava+mardaṃ) [satinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-fruit-bath this auspicious doer desire-fruit-giving
+[fruit-bathing-this](phalasnānamidaṃ) [auspicious](pupyaṃ) [doer-desire-fruit-giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-sesame wheat sugdā etc barley grains priyaṅgu
+[sesame-wheat-sugdā-etc](tilagodhumasugdādi) [barley-grain-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-five-brahma born mantras great-bath auspicious-giving
+[five-brahma-born-mantras](pañcabrahmodbhavairmantrair) [great-bathing](mahāsnānaṃ) [auspicious-giving](śubhapradam)
