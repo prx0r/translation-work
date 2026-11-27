@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-from-renunciation-perishes first from-woman-union-afterwards thus
+prāvrājya-destroyed(prāvrājyānnaśyate) first(pūrvaṃ) from-woman-yoga-aparaṃ(strīyogādaparaṃ) thus(tathā)
 
 ## mukta-m0-p10-v227
-three-ear-born three-ears-and three-skull-self ear-ones
+three-ear-born(trikarṇotthāḥ) three-ears(trikarṇāḥ) three-skull-self(trikapānātma) ear-born(karṇakā)
 
 ## mukta-m0-p10-v228
-ash-sprout-but boast-lip-that-sons kausika-etc
+ash-germ(bhasmāṅkuraḥ) tu(tu) katthosthaḥ(katthosthaḥ) that-son(tatsutāḥ) kauśika-etc(kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-kingdom-destruction-makers indeed-these who and heretics men
+kingdom-destruction-causing(rāṣṭrakṣayakarāḥ) indeed(hyete) those(ye) ca(ca) heretics(paṣāṇḍinaḥ) men(narāḥ)
 
 ## mukta-m0-p10-v230
-scripture-observation-from indeed candesha-his ruler
+by-scripture-view(śāstrāvalokanāt) eva(eva) caṇḍeśaḥ(caṇḍeśaḥ) his(tasya) ruler(śāsakaḥ)
 
 ## mukta-m0-p10-v231
-he goes hell immediately with-sacrificers together teacher
+he(sa) goes(yāti) hell(narakaṃ) immediately(sadyo) with-sacrificers(yājñikaiḥ) with-teachers(saha) daiśikaḥ(daiśikaḥ)
 
 ## mukta-m0-p10-v232
-their-conduct-from always teacher thus is-praised
+their(teṣām) conduct(ācaraṇāt) always(nityam) teacher(ācāryaḥ) thus(iti) called(kīrtyate)
 
 ## mukta-m0-p10-v233
-therefore-not human intellect make teacher towards
+therefore(tasmāt) not(na) human(mānavīṃ) intellect(buddhiṃ) make(kārayet) daiśikaṃ(daiśikaṃ) toward(prati)
 
 ## mukta-m0-p10-v234
-five-faces of-god five-agama-growth-for
+five-faces(pañcavaktrāṇi) of-god(devasya) five-āgama-growth(pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-shining subtle and thousand-rayed very-bright ten
+bright(dīptaṃ) subtle(sūkṣmaṃ) ca(ca) thousand(sāhasram) ray(asumat) very-bright(suprabhaṃ) ten(daśa)
 
 ## mukta-m0-p10-v236
-victory supreme-lordship breath-song-named
+victory(vijayaṃ) supreme-lordship(pāramaiśvaryaṃ) niśvāsa-udgīta-named(niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-narasimha moon-smile hero svayambhu-aurava
+narasiṃhaṃ(narasiṃhaṃ) candrahāsaṃ(candrahāsaṃ) vīraṃ(vīraṃ) svāyambhu-rauravaṃ(svāyambhurauravam)
 
 ## mukta-m0-p10-v238
-rudra-divisions are-called ten-eighteen upward-going
+rudra-divisions(rudrabhedāḥ) declared(samākhyātāḥ) ten-eighteen-or-upward(daśāṣṭādaśa) cordhvagāḥ(cordhvagāḥ)
 
 ## mukta-m0-p10-v239
-five-elements division and void-division determination
+five-elements(pañcabhūta) division(vibhāgaṃ) ca(ca) void-division(śūnyabheda) determination(vinirṇayam)
 
 ## mukta-m0-p10-v240
-kamboja blanket heron black-pot cauldron
+kambojaṃ(kambojaṃ) kambalaṃ(kambalaṃ) kaṅkaṃ(kaṅkaṃ) kālakuṇḍaṃ(kālakuṇḍaṃ) kaṭāhakam(kaṭāhakam)
 
 ## mukta-m0-p10-v241
-of-garuda indeed-these divisions twenty-eight declared
+gāruḍa's(gāruḍasya) indeed(tvime) divisions(bhedāḥ) twenty-eight(aṣṭāviṃśatir) declared(īritāḥ)
 
 ## mukta-m0-p10-v242
-black-limbed ruru and indeed kapalisha collection
+asitāṅgaṃ(asitāṅgaṃ) ruruṃ(ruruṃ) caiva(caiva) kapālīśaṃ(kapālīśaṃ) samuccayam(samuccayam)
 
 ## mukta-m0-p10-v243
-terrible-limbed damara-roar terrible vetala-crusher
+bhīmāṅgaṃ(bhīmāṅgaṃ) ḍāmarārāvaṃ(ḍāmarārāvaṃ) bhīmaṃ(bhīmaṃ) vetālamardakam(vetālamardakam)
 
 ## mukta-m0-p10-v244
-three-headed and one-footed indeed siddha-yogeshvari-opinion
+triśiraṃ(triśiraṃ) ca(ca) ekapādaṃ(ekapādaṃ) tu(tu) siddhayogeśvarīmatam(siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-universal-throat contraction tilaka-garden-bhairava
+viśvarikaṇṭha(viśvarikaṇṭha) saṅkocaṃ(saṅkocaṃ) tilakodyāna-bhairavam(tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-four sixty-measures southern-face-born and
+sixty-four(catuḥṣaṣṭipramāṇāni) dakṣiṇāsyāt(dakṣiṇāsyāt) bhavāni(bhavāni) ca(ca)
 
 ## mukta-m0-p10-v247
-hand-worship-rite indeed vina-tantra that-after
+kara-pūjā-vidhānaṃ(karapūjāvidhānaṃ) tu(tu) vīṇātantraṃ(vīṇātantraṃ) tad-uttaram(taduttaram)
 
 ## mukta-m0-p10-v248
-siddha-eternal-rise eldest cintamani-great-rise
+siddha-nitya-udayaṃ(siddhanityodayaṃ) jyeṣṭhaṃ(jyeṣṭhaṃ) cintāmaṇi-mahodayam(cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-ananda-rudra-bhadra-named servant servant-follower
+ānanda-rudra-bhadra-named(ānandarudrabhadrākhyaṃ) kiṅkaraṃ(kiṅkaraṃ) kiṅkara-anugam(kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-left-giving vamadeva-spoken twenty-four-division-going
+vāmadaṃ(vāmadaṃ) vāmadeva-uktaṃ(vāmadevoktaṃ) twenty-four-divisions(caturviṃśatibhedagam)
