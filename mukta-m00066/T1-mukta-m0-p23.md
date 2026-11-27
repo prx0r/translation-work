@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-in-bliss-tantra indeed-in-this four supreme-declared
-
+[gloss](ānaṃdataṃtre) [gloss](caivāsmin) [gloss](catvāraḥ) [gloss](paramīritāḥ)
 ## mukta-m0-p23-v552
-therefore-four delights here proclaimed O-great-lady
-
+[gloss](tasmāccatvāra) [gloss](ullāsā) [gloss](iha) [gloss](proktā) [gloss](maheśvari)
 ## mukta-m0-p23-v553
-therefore-bliss worship-of garlanded indeed not three
-
+[gloss](tasmādānaṃda) [gloss](pūjāyā) [gloss](mālaṃvyaṃte) [gloss](tu) [gloss](na) [gloss](trayaḥ)
 ## mukta-m0-p23-v554
-thus thus supreme-bliss lord-knowledge contemplate
-
+[gloss](tathā) [gloss](tathā) [gloss](parānaṃda) [gloss](nāthavidyāṃ) [gloss](parāmṛśet)
 ## mukta-m0-p23-v555
-by-messenger kindled self bliss-form guru remember
-
+[gloss](dūtyā) [gloss](saṃdhukṣita) [gloss](svātmā) [gloss](naṃdamūrttiṃ) [gloss](guruṃ) [gloss](smaret)
 ## mukta-m0-p23-v556
-twelve-end-gone red-white-foot place
-
+[gloss](dvādaśāṃtagate) [gloss](raktaśuklapāde) [gloss](vinikṣipet)
 ## mukta-m0-p23-v557
-Shiva-nature-empire foot-consecrated own contemplate
-
+[gloss](śivatvasāmrājya) [gloss](padābhiṣiktaṃ) [gloss](svaṃviciṃtayet)
 ## mukta-m0-p23-v558
-seeing limb-sprout-tooth go-up-mind
-
+[gloss](paśyan) [gloss](pratyaṃgamaṃkūradanaṃ) [gloss](gottuṃgamānasaḥ)
 ## mukta-m0-p23-v559
-as youth-delight obtains O-mother messenger
-
+[gloss](yathā) [gloss](yauvanamullāsaṃ) [gloss](saṃprāpnotyaṃba) [gloss](dūtikā)
 ## mukta-m0-p23-v560
-gazing-pleasure directly smile awakens Ganges
-
+[gloss](ālokaneratiḥ) [gloss](sākṣāt) [gloss](smite) [gloss](jāgarti) [gloss](jāhnavī)
 ## mukta-m0-p23-v561
-Ashvins nose-region and-lip supreme-nectar
-
+[gloss](aśvinau) [gloss](nāsikābhāge) [gloss](tvoṣṭhe) [gloss](ca) [gloss](paramāmṛtam)
 ## mukta-m0-p23-v562
-sweat and Varuni goddess desire-lord I in-act
-
+[gloss](svede) [gloss](ca) [gloss](vāruṇī) [gloss](devī) [gloss](kāmanāthastvahaṃ) [gloss](kṛtau)
 ## mukta-m0-p23-v563
-breasts-two Meru-mountain soundless Brahman-middle
-
+[gloss](stanadvaye) [gloss](merugirirnniḥ) [gloss](śabdaṃ) [gloss](brahmamadhyame)
 ## mukta-m0-p23-v564
-three-folds and three-worlds navel-womb cave-mother
-
+[gloss](valitraye) [gloss](ca) [gloss](trailokyaṃ) [gloss](nābhigarbhe) [gloss](guhāṃbikā)
 ## mukta-m0-p23-v565
-nails cold moon crescent arm-root hook-deities
-
+[gloss](nakheṣu) [gloss](śītāṃ) [gloss](śu) [gloss](kalādormmūleṃkuśadevatāḥ)
 ## mukta-m0-p23-v566
-Kaveri indeed exhalation cow-gift action
-
+[gloss](kāverī) [gloss](caiva) [gloss](niśvāse) [gloss](godāsītkāra) [gloss](karmaṇi)
 ## mukta-m0-p23-v567
-pure-saliva-acts mind-rest leader
-
+[gloss](amalālāpakṛtyeṣu) [gloss](cittaviśrāṃti) [gloss](nāyakā)
 ## mukta-m0-p23-v568
-speech-lord pleasure-hum speech-lord sound
-
+[gloss](vākptiḥ) [gloss](sukhahuṃkāre) [gloss](gīṣpatīkākukādhvanau)
 ## mukta-m0-p23-v569
-Indra mind-elevation Agni object swallows-ray
-
+[gloss](iṃdraścittasamunnatyāmagnirvastu) [gloss](grasītviṣi)
 ## mukta-m0-p23-v570
-hand-etc-movement sacrifice embrace sacrifice-person
-
+[gloss](hastādicālane) [gloss](yajñastvāśleṣe) [gloss](yajñapūruṣaḥ)
 ## mukta-m0-p23-v571
-dance and Tandava goddess her body-etc whirling
-
+[gloss](lāsyaṃ) [gloss](ca) [gloss](tāṃḍavaṃ) [gloss](devi) [gloss](tasyā) [gloss](dehādi) [gloss](ghūrṇane)
 ## mukta-m0-p23-v572
-those-all occur her cheekful-substance
-
+[gloss](tānisarvāṇi) [gloss](varttate) [gloss](tasyāgaṃḍūṣavastuni)
 ## mukta-m0-p23-v573
-that-fruit obtains messenger nectar-cheekful by-taking
-
+[gloss](tatphalaṃ) [gloss](labhate) [gloss](dūtī) [gloss](sudhāgaṃḍūṣa) [gloss](sevanāt)
 ## mukta-m0-p23-v574
-cheekful-first goddess hero's-bliss increasing
-
+[gloss](gaṃḍūṣamādiraṃ) [gloss](devī) [gloss](vīrasyānaṃda) [gloss](varddhanam)
 ## mukta-m0-p23-v575
-ever-moist-nectar goddess love delight and that-vulva
+[gloss](nityaklinnāsudhā) [gloss](devī) [gloss](rati) [gloss](prītiśca) [gloss](tadbhage)
