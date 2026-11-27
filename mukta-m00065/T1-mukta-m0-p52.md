@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sūtra-madhye](sūtramadhye) [ardha-sūtreṇa](ardhasūtreṇa) [matsyān](matsyān) [koṇeṣu](koṇeṣu) [sarvataḥ](sarvataḥ)
+[gloss](sūtramadhye) [gloss](ardhasūtreṇa) [gloss](matsyān) [gloss](koṇeṣu) [gloss](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[veda-asram](vedāsraṃ) [piṇḍikā-kṣetram](piṇḍikākṣetraṃ) [kuṇḍānām](kuṇḍānām) [api](api) [sarvadā](sarvadā)
+[gloss](vedāsraṃ) [gloss](piṇḍikākṣetraṃ) [gloss](kuṇḍānām) [gloss](api) [gloss](sarvadā)
 
 ## mukta-m0-p52-v1278
-[madhyāt](madhyāt) [madhya-gatam](madhyagataṃ) [sūtram](sūtraṃ) [koṇam](koṇaṃ) [saṃveṣdya](saṃveṣdya) [ca](ca) [aparam](aparam)
+[gloss](madhyāt) [gloss](madhyagataṃ) [gloss](sūtraṃ) [gloss](koṇaṃ) [gloss](saṃveṣdya) [gloss](cāparam)
 
 ## mukta-m0-p52-v1279
-[tat-sūtra-dvaya-saṃyogāt](tatsūtradvayasaṃyogāt) [sādhayet](sādhayed) [vā](vā) [tri-parṇikām](triparṇikām)
+[gloss](tatsūtradvayasaṃyogāt) [gloss](sādhayedvā) [gloss](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[saṃbhrāmya](saṃbhrāmya) [madhyataḥ](madhyataḥ) [sūtram](sūtraṃ) [sādhayet](sādhayed) [ardha-candrikām](ardhacandrikām)
+[gloss](saṃbhrāmya) [gloss](madhyataḥ) [gloss](sūtraṃ) [gloss](sādhayedardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[rakṣaḥ](rakṣaḥ) [agni](agni) [saumya](saumya) [kāṣṭhāsu](kāṣṭhāsu) [ta](ta) [tri-sūtrī](trisūtrī) [tri-koṇikām](trikoṇikām)
+[gloss](rakṣo'gnisaumyakāṣṭhāsu) [gloss](ta) [gloss](trisūtryatrikoṇikām)
 
 ## mukta-m0-p52-v1282
-[madhya-adha-sūtra-saṃbhrāntaiḥ](madhyādhasūtrasaṃbhrāntaiḥ) [piṇḍikā](piṇḍikā) [vartulā](vartulā) [bhavet](bhavet)
+[gloss](madhyādhasūtrasaṃbhrāntaiḥ) [gloss](piṇḍikā) [gloss](vartulā) [gloss](bhavet)
 
 ## mukta-m0-p52-v1283
-[turya-asra-vṛttayoḥ](turyāsravṛttayoḥ) [madhye](madhye) [yama-indvoḥ](yamandvoḥ) [sūtra-pātanam](sūtrapātanam)
+[gloss](turyāsravṛttayormadhye) [gloss](yamandvoḥ) [gloss](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[bhavet](bhavet) [ṣaḍ-asrikā](ṣaḍasrikā) [piṇḍī](piṇḍī) [śeṣa-rekhā-vilopanāt](śeṣarekhāvilopanāt)
+[gloss](bhavetṣaḍasrikāpiṇḍī) [gloss](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[sūtra-madhya-ardha](sūtramadhyārdha) [sa-bṛttāt](sabṛttāt) [abjā](abjā) [syāt](syāt) [pūrva-coditā](pūrvacoditā)
+[gloss](sūtramadhyārdhasabṛttādabjā) [gloss](syāt) [gloss](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[madhya-sūtra-ardha-bhāgena](madhyasūtrārdhabhāgena) [koṇāni](koṇāni) [hrāsayet](hrāsayed) [atha](atha)
+[gloss](madhyasūtrārdhabhāgena) [gloss](koṇāni) [gloss](hrāsayedatha)
 
 ## mukta-m0-p52-v1287
-[koṇaiḥ](koṇaiḥ) [sūtra-paricchinnaiḥ](sūtraparicchinnaiḥ) [kuryāt](kuryād) [aṣṭāsrikām](aṣṭāsrikāṃ) [sadā](sadā)
+[gloss](koṇaiḥ) [gloss](sūtraparicchinnaiḥ) [gloss](kuryādaṣṭāsrikāṃ) [gloss](sadā)
 
 ## mukta-m0-p52-v1288
-[saṃchidya](saṃchidya) [asrīn](asrīn) [ca](ca) [saṃchidya](saṃchidya) [kṛtvā](kṛtvā) [tu](tu) [daśamāstrikam](daśamāstrikam)
+[gloss](saṃchidyāsrīṃśca) [gloss](saṃchidya) [gloss](kṛtvātudaśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[kartavyā](kartavyā) [ṣoḍaśa-aṃśaiḥ](ṣoḍaśāṃśaiḥ) [tu](tu) [piṇḍikā](piṇḍikā) [keśava-āśrayā](keśavāśrayā)
+[gloss](kartavyāṣoḍakāṃśaistu) [gloss](piṇḍikā) [gloss](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[pūrvavat](pūrvavat) [ṣoḍaśa-aṃśaiḥ](ṣoḍaśāṃśaiḥ) [tu](tu) [kuryāt](kuryād) [dvātriṃśat-asrikām](dvātriṃśadasrikām)
+[gloss](pūrvavatyoḍaśaṃśaistu) [gloss](kuryāddvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[āgneyī](āgneyī) [bodhi-patrābhā](bodhipatrābhā) [pintara](pintara) [agni-dāha-kṛt](agnidāhakṛt)
+[gloss](āgneyī) [gloss](bodhipatrābhā) [gloss](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[tri-koṇā](trikoṇā) [rākṣasājām](rākṣasājām) [tu](tu) [deśaḥ](deśo) [chada-karī](chadakarī) [sadā](sadā)
+[gloss](trikoṇā) [gloss](rākṣasājāṃ) [gloss](deśo) [gloss](cchadakarī) [gloss](sadā)
 
 ## mukta-m0-p52-v1293
-[vāyavyā](vāyavyā) [ca](ca) [ṣaḍ-asrā](ṣaḍasrā) [uktā](uktā) [śatru-uccāṭana-kārikā](śatrūccāṭanakārikā)
+[gloss](vāyavyā) [gloss](ca) [gloss](ṣaḍasroktā) [gloss](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[raudrī](raudrī) [tu](tu) [aṣṭāsrikā](aṣṭāsrikā) [jñeyā](jñeyā) [mukti-dā](muktidā) [sāri-nāśinī](sārināśinī)
+[gloss](raudrī) [gloss](tvaṣṭāsrikā) [gloss](jñeyā) [gloss](muktidā) [gloss](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[dvātriṃśat-asrikā](dvātriṃśadasrikā) [vāhnī](vāhnī) [svarga-ākhyā-phala-dāyinī](svargākhyāphaladāyinī)
+[gloss](dvātriṃśadasrikā) [gloss](vāhnī) [gloss](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[ardha-candra-upamā](ardhacandropamā) [nīlam](nīlaṃ) [śeṣaḥ](śeṣaḥ) [kodaṇḍa-vat](kodaṇḍavad) [bhavet](bhavet)
+[gloss](ardhacandropamā) [gloss](nīlaṃ) [gloss](śeṣaḥ) [gloss](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-[piṇḍī](piṇḍī) [māma](māma) [astaka-ādīnām](astakādīnāṃ) [karoti](karoty) [evam](evaṃ) [vidham](vidhaṃ) [phalam](phalam)
+[gloss](piṇḍīmāmastakādīnāṃ) [gloss](karotyevaṃ) [gloss](vidhaṃ) [gloss](phalam)
 
 ## mukta-m0-p52-v1298
-[bhaga-liṅga-aṅkita](bhagaliṅgāṅkita) [sarvam](sarvaṃ) [trailokyam](trailokyaṃ) [sa-cara-acaram](sacarācaram)
+[gloss](bhagaliṅgāṅkita) [gloss](sarvaṃ) [gloss](trailokyaṃ) [gloss](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[śiva-liṅgam](śivaliṅgaṃ) [param](paraṃ) [tat](tat) [ca](ca) [tayoḥ](tayoḥ) [yogāt](yogāt) [mahat-phalam](mahatphalam)
+[gloss](śivaliṅgaṃ) [gloss](paraṃ) [gloss](taccaṃ) [gloss](tayoryogāt) [gloss](mahatphalam)
 
 ## mukta-m0-p52-v1300
-[dala-aṅghri-gartikā](dalāṅghrigartikā) [kūrma](kūrma) [veda-asrā](vedāsrā) [va-liṅga-artinī](valiṅgartinī)
+[gloss](dalāṅghrigartikā) [gloss](kūrmoṃ) [gloss](vedāsrā) [gloss](valiṅgartinī)
