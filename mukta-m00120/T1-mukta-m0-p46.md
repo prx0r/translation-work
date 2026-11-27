@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-worlds' auspicious-increase-giving this vessel second homage
+lokānāṃ śubha-vṛddhi-dāyakam idaṃ pātraṃ dvitīyaṃ namaḥ
 ## mukta-m0-p46-v1127
-may-protect fifth-m-letter-principle-accompanied vessel third homage
+pāyāt pañcama-kāra-tattva-sahitaṃ pātraṃ tṛtīyaṃ namaḥ
 ## mukta-m0-p46-v1128
-that-vessel-and all-merit-happiness-giving vessel fourth homage
+tat-pātraṃ-ca samasta-puṇya-sukha-daṃ pātraṃ caturthaṃ namaḥ
 ## mukta-m0-p46-v1129
-drunk-brahma-nectar always-raised-hand vessel I-worship fifth
+pīta-brahma-rasaṃ sadodyata-karaṃ pātraṃ bhaje pañcakam
 ## mukta-m0-p46-v1130
-glorious beautiful offering liquid-nectar vessel-and sixth I-worship
+śrīmat sundarī tarpaṇaṃ drava-rasaṃ pātraṃ-ca ṣaṣṭhaṃ bhaje
 ## mukta-m0-p46-v1131
-vessel seventh-filling worldly-fear-joy-more may-protect me
+pātraṃ saptama-pūraṇe bhava-bhaya-ānanda-adhikaḥ pātu mām
 ## mukta-m0-p46-v1132
-vessel-and eighth eight-siddhi-making mature serene always
+pātraṃ-ca-aṣṭamam aṣṭa-siddhi-karaṇaṃ prauḍha prasannaṃ sadā
 ## mukta-m0-p46-v1133
-vessel which nine-lord-shakti-accompanied all-purpose-accomplishment-giving
+pātraṃ yat nava-nātha-śakti-sahitaṃ sarva-artha-siddhi-pradam
 ## mukta-m0-p46-v1134
-thus glorious-all-bliss-lord-composed all-ecstasy thirty-five-ecstasy
+iti śrī-sarva-ānanda-nātha-viracite sarva-ullāsa-pañca-triṃśad-ullāsaḥ
 ## mukta-m0-p46-v1135
-option not-here to-be-done done and death may-happen
+vikalpaḥ na-atra kartavyaḥ kṛte ca maraṇaṃ bhavet
 ## mukta-m0-p46-v1136
-being-given great-mantra I-tell listen dear
+dīyamānaṃ mahā-mantraṃ kathayāmi śṛṇu priye
 ## mukta-m0-p46-v1137
-having-accepted auspicious goddess victory give again again
+svīkṛtya subhage devi jayaṃ dehi punaḥ punaḥ
 ## mukta-m0-p46-v1138
-in-own-vessel cause mixed drink-for-bliss-cause
+sva-pātre kāraṇe miśraṃ pived ānanda-hetave
 ## mukta-m0-p46-v1139
-shakti-formed great-goddess pure-bliss-increasing
+śakti-rūpā mahā-devī kevala-ānanda-varddhinī
 ## mukta-m0-p46-v1140
-of-practitioner action-bliss radiant form-bearing
+sādhakasya kriyā-ānande tejīyaḥ rūpa-dhāriṇī
 ## mukta-m0-p46-v1141
-so woman of-man-also all-works-manifesting
+tathā nārī narasya-api sarva-kārya-prakāśikā
 ## mukta-m0-p46-v1142
-having-accepted cause goddess afterwards works accomplish
+svīkṛtya kāraṇaṃ devi paścāt kāryāṇi sādhayet
 ## mukta-m0-p46-v1143
-pranayama in-third and fourth japa-should-be-done
+prāṇāyāmaṃ tṛtīye ca caturthe japaṃ āharet
 ## mukta-m0-p46-v1144
-fifth vessel-accompanied of-circle characteristic O-Shiva
+pañcamaṃ pātra-sahitaṃ cakrasya lakṣaṇaṃ śive
 ## mukta-m0-p46-v1145
-sexual-union supreme-goddess tenth-bliss-should-practice
+maithunaṃ parameśāni daśama-ānandaṃ ācaret
 ## mukta-m0-p46-v1146
-sound-bindu-made seat swan-pair manifested
+nāda-bindu-mayaṃ pīṭhaṃ haṃsa-yugmaṃ prakāśitam
 ## mukta-m0-p46-v1147
-in-heart meditate-god two-armed shakti-united
+hṛdaye cintayed devaṃ dvi-bhujaṃ śakti-saṃyutam
 ## mukta-m0-p46-v1148
-truth-consciousness happiness-desired-boon-giving
+sat-cit sukha-abhīṣṭa-vara-pradānam
 ## mukta-m0-p46-v1149
-gentle-smile full-compassion-treasury
+manda-smitaṃ pūrṇa-kṛpā-nidhānam
 ## mukta-m0-p46-v1150
-glorious-guru always-I bow
+śrīd-guruṃ nityam ahaṃ namāmi
