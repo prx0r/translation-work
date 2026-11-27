@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-therefore(tasmāt) linga-following(liṅgānugaṃ) pedestal(pīṭhaṃ) to-be-made(kartavyaṃ) maker-life(kartṛ+jīvane)
+therefore [tasmāt] liṅga-following [liṅgānugaṃ] pedestal [pīṭhaṃ] should-be-made [kartavyaṃ] in-maker-life [kartṛjīvane]
 
 ## mukta-m0-p51-v1252
-if(yadi) be(syāt) afflicted(pīḍyate) diseases(rogaiḥ) maker(kartā) kingdom(rāṣṭraṃ) guru(gurūḥ) also(tathā)
+if [yadi] be [syāt] afflicted [pīḍyate] by-diseases [rogaiḥ] maker [kartā] kingdom [rāṣṭraṃ] guru [gurūḥ] so [tathā]
 
 ## mukta-m0-p51-v1253
-by-height(ucchrayeṇa) of-three-lingas(triliṅgānāṃ) not(na) less(nyūnaḥ) not(na) greater(adhikaḥ) of-hari(hareḥ)
+by-height [ucchrayeṇa] of-three-liṅgas [triliṅgānāṃ] not [na] less [nyūnaḥ] not [na] greater [adhikaḥ] of-Hari [hareḥ]
 
 ## mukta-m0-p51-v1254
-by-sages(munibhiḥ) with-half(more? sārdha) greater(adhikaiḥ) śambhu(śambhuṃ) make(kuryāt) wealthy(āḍhyaṃ) wealth(vasor) hari(harim)
+by-sages-plus-one [munisārdhādhikaiḥ] Śambhu [śambhuṃ] should-make [kuryāt] wealthy [āḍhyaṃ] of-vasu [vasoḥ] Hari [harim]
 
 ## mukta-m0-p51-v1255
-quarter-less(pādonā) eighth(aṣṭāṃśataḥ) brahmā(brahmā) made(kāryaṃ) sometimes(kvacin) non-wealthy(anāḍhyakaṃ)
+one-fourth-eighth-part [pādonāṣṭāṃśataḥ] Brahmā [brahmā] should-be-made [kāryaṃ] and [ca] non-wealthy [anāḍhyakaṃ] sometimes [kvacit]
 
 ## mukta-m0-p51-v1256
-one(ekaṃ) in-god-worshipped(surārcite) linga(liṅge) brahmā(brahmā) in-seventh(saptāṃśake) certainly(dhruvam)
+one [ekaṃ] in-divine-worshipped [surārcite] liṅga [liṅge] Brahmā [brahmā] in-seventh-part [saptāṃśake] certainly [dhruvam]
 
 ## mukta-m0-p51-v1257
-white-etc(sitādi) color(varṇa) of-colors(varṇānāṃ) pedestal-etc(pīṭhādyāḥ) not(na) discolored(vivarṇajāḥ)
+of-white-etc-colors [sitādivarṇānāṃ] pedestals-etc [pīṭhādyāḥ] not [na] of-discolored-birth [vivarṇajāḥ]
 
 ## mukta-m0-p51-v1258
-gem-born(ratnajāḥ) or(vā) metals(lohaiḥ) especially(viśeṣāt) for-glory(kīrtaye) now(adhunā)
+of-gems [ratnajāḥ] or [vā] by-metals [lohaiḥ] especially [viśeṣāt] for-glory [kīrtaye] now [adhunā]
 
 ## mukta-m0-p51-v1259
-vaiḍūrya-etc(vaiḍūryādi) best(uttame) always(nityaṃ) gold-born(hemajā) base(piṇḍikā) excellent(varā)
+of-vaiḍūrya-etc [vaiḍūryādyuttame] always [nityaṃ] gold-born [hemajā] piṇḍikā [piṇḍikā] best [varā]
 
 ## mukta-m0-p51-v1260
-portion(bhāga) three(traya) more(athikaṃ) or(vā) place(vinyaset) in-base-pit(piṇḍikā+vaṭau)
+one-third-part-more [bhāgadrayamathikaṃ] or [vā] should-place [vinyaset] in-piṇḍikā-pit [piṇḍikāvaṭau]
 
 ## mukta-m0-p51-v1261
-girdle-etc(mekhalādi) division(vibhāgaḥ) its(asyāḥ) as-before(pūrvavat) declared(samudāhṛtaḥ)
+of-girdle-etc-division [mekhalādivibhāgaḥ] its [asyāḥ] as-before [pūrvavat] declared [samudāhṛtaḥ]
 
 ## mukta-m0-p51-v1262
-not(na) less(nyūnaṃ) not(na) greater(adhikaṃ) measure(mānāt) beautiful(śobhanaṃ) pit(śvabhram) intended(iṣyate)
+not [na] less [nyūnaṃ] not [na] greater [adhikaṃ] than-measure [mānāt] beautiful [śobhanaṃ] pit [śvabhram] is-said [iṣyate]
 
 ## mukta-m0-p51-v1263
-pedestal-fault(pīṭha+doṣāt) decay(kṣayaḥ) of-woman(nāryāḥ) maker(kāraḥ) to-do(kartuṃ) always(sarvadā)
+from-pedestal-fault [pīṭhadoṣāt] destruction [kṣayaḥ] of-woman [nāryāḥ] maker [kāraḥ] to-do [kartuṃ] always [sarvadā]
 
 ## mukta-m0-p51-v1264
-enjoyment-liberation-both(bhukti+mukti+ubhaya) attainment(prāptyai) other(anyas) of-desired(kāmyasya) cause(hetave)
+for-enjoyment-liberation-both-attainment [bhuktimuktyubhayaprāptyai] other [anyaḥ] for-desired [kāmyasya] cause [hetave]
 
 ## mukta-m0-p51-v1265
-lotus-half-moon-number(padma+ardha+indu+gaṇa) named(ākhyā) wish-giving(kāmadā) auspicious(śubha) on-head(mastake)
+lotus-half-moon-count-named [padmārdhendugaṇākhyā] desire-giving [kāmadā] auspicious [śubha] on-head [mastake]
 
 ## mukta-m0-p51-v1266
-two-girdle(dvi+mekhalā) and(ca) four-vedas(vedāsra) auspicious(bhadrā) yoga-prosperity-giving(yoga+ṛddhi+dāyinī)
+two-girdles [dvimekhalā] and [ca] four-vedas [vedāsrā] auspicious [bhadrā] yoga-siddhi-giving [yogarddhidāyinī]
 
 ## mukta-m0-p51-v1267
-six-sided(ṣaḍasrā) life-giving(āyuḥ+pradā) vajra(vajrī) with-three-girdles(mekhalā+tritaya+anvitā)
+six-angled [ṣaḍasrā] life-giving [āyuḥpradā] vajrī [vajrī] with-three-girdles [mekhalātritayānvitā]
 
 ## mukta-m0-p51-v1268
-circle(maṇḍalā) full-moon-like(pūrṇa+candra+ābhā) wish-giving(artha+dā) five-girdle(pañca+mekhalā)
+maṇḍala [maṇḍalā] full-moon-like [pūrṇacandrābhā] wealth-giving [arthadā] five-girdles [pañcamekhalā]
 
 ## mukta-m0-p51-v1269
-moon-water-form(candra+ambu+rūpa) supreme(parā) with-fire-portion(kāgni+dyāṃśaiḥ) tithi(tithi) divided(bhājitaiḥ)
+moon-water-form-supreme [candrāmburuparāmai] with-fire-portion-tithi-divided [kāgnidyaṃśaistithi bhājitaiḥ]
 
 ## mukta-m0-p51-v1270
-round(vṛttā) lotus-cup(padma+puṭa+ākārā) center(karṇikā) fear-touched(bhaya+cumbitā)
+round [vṛttā] lotus-cup-shaped [padmapuṭākārā] karṇikā [karṇikā] fear-kissed [bhayacumbitā]
 
 ## mukta-m0-p51-v1271
-eight-cornered(aṣṭa+koṇā) gaṇa-named(gaṇa+ākhyātā) liberation-giving(mukti+dā) two-girdle(dvi+mekhalā)
+eight-cornered [aṣṭakoṇā] gaṇa-named [gaṇākhyātā] liberation-giving [muktidā] with-two-girdles [dvimekhalā]
 
 ## mukta-m0-p51-v1272
-previously-said(pūrvokta) girdle-pit-stalk(mekhalā+garta+nāla) etc(ādi) with(samanvitā)
+previously-said [pūrvokta] girdle-pit-stalk-etc [mekhalāgartanālakādisamanvitā]
 
 ## mukta-m0-p51-v1273
-width-height-stalk-etc(vistara+ucchraya+nāla+ādi) all(sarvaṃ) previously-said(pūrva+uditaṃ) in-order(kramāt)
+width-height-stalk-etc [vistarokchrayanālādi] all [sarbaṃ] previously-said [pūrvoṃditaṃ] in-order [kramāt]
 
 ## mukta-m0-p51-v1274
-wrapping(saṃveṣṭya) make-round(vartayet) base(piṇḍīṃ) maker's(maker? kartuḥ) desire-fulfilling(kāma+prasādhikam)
+having-wrapped [saṃveṣṭya] should-make-piṇḍī [vartayetpiṇḍīṃ] of-maker [kartuḥ] desire-accomplishing [kāmaprasādhikam]
 
 ## mukta-m0-p51-v1275
-mārūtī(mārūtīṃ) dhānadī(dhānadīṃ) raudrī(raudrīṃ) vaiṣṇavī(vaiṣṇāvīṃ) brahma-born(brahma+jāṃ) always(sadā)
+Mārūtī [mārūtīṃ] Dhānadī [dhānadīṃ] Raudrī [raudrīṃ] Vaiṣṇavī [vaiṣṇāvīṃ] Brahmajā [brahmajāṃ] always [sadā]
