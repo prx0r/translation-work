@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-rakṣas-two-crocodile serpent-wheel-mouthed and bham
+[rakshas+two+crocodile](rakṣodvitayakumbhīra) [and](ca) [snake-wheel-mouthed](sarpacakrāsyakaṃ) [bham](bham)
 
 ## mukta-m0-p44-v1077
-aśvins and yama fire prajāpati-indra-moon-aditi
+[ashvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajapati-indra-moon-hara-aditi](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-tvaṣṭā vāyu surendra agni mitra-indra until serpent-lord
+[tvashtar](tvaṣṭā) [wind](vāyuḥ) [surendra](surendro) [fire]('gnir) [mitra-indra](mitrendrau) [yavat-pam-pati](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-viṣṇu vasu aja-eka-ādi-pāda serpent-budhna puṣa
+[vishnu](viṣṇur) [vasu](vasur) [aja-eka-adi-pada-ahirbudhna](ajaikādipādahirbudhna) [pusha](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-man club vīṇā and woman pair bow
+[man](pumān) [mace-holder](gadī) [vina-holder](savīṇā) [and](ca) [woman](yoṣitta) [couple](nmithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-woman boat meteor sword-bearer maiden balance-holder man balance
+[woman](strī) [boat](nau) [meteor](stholkā) [sword-bearer](sibhṛt) [maiden](kanyā) [scale-holder](tulādhāro) [man](naras) [scale](tulā)
 
 ## mukta-m0-p44-v1082
-aries-etc five and others same-name-same-form
+[aries-etc](meṣādyāḥ) [five](pañca) [and](ca) [others](evānye) [same-name-same-form](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-gold-colored crested king-of-gods god-surrounded
+[golden](hemābhaḥ) [crowned](sakirīṭaśca) [deva-king](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-goat-mounted rosary-fierce seven-flamed spear-holder
+[goat-seated](chāgasthaḥ) [rosary-fierce](sākṣasūtrograḥ) [seven-flamed](saptārciḥ) [shakti-holder](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-red-hearted noose-holder black buffalo-mounted fierce-messenger
+[red-hearted](raktahṛt) [noose-holder](pāśabhṛt) [krishna](kṛṣṇo) [buffalo-seated](mahiṣastha) [fierce-messenger](ugradūtavān)
 
 ## mukta-m0-p44-v1086
-man-standing sword-handed blue rākṣasa-surrounded
+[man-seated](puṃsthita) [sword-handed](khaḍgahastaśca) [blue](nīlābho) [rakshasa-surrounded](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-all-ornamented varuṇa yellow-garment-bearer
+[all-ornamented](sarvābharaṇasaṃyukto) [varuna](varūṇaḥ) [yellow-garment-wearer](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-red-eyed red-garmented deer-mounted goad-holder bannered
+[red-eyed](raktakṣo) [red-garmented](raktavāsaśca) [deer-seated](mṛgasthaścaṅkuśī) [flagged](dhvajī)
 
 ## mukta-m0-p44-v1089
-wealth-lord boon-giver made various-ornament-decorated
+[dhanesha](dhaneśo) [boon-giver](varadaḥ) [to-be-made](kāryo) [various-ornament-adorned](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-īśāna serpent-moon-bearer these world-guardians two-armed
+[ishana](īśāno) [snake-moon-bearer]('hīndubhṛccaite) [lokapalas](lokapālā) [two-armed](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-viśvakarmā always white knowledge-mudrā-rosary-bearer
+[vishvakarma](viśvakarmā) [always](sadā) [white](gauro) [knowledge-mudra-rosary-wearer](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-ālīḍha-posture-attached great-bodied very-fierce
+[alidha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-bodied](mahākāyaṃ) [very-fierce](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-yellow-banner-bearer left forefinger or heart-front
+[yellow-banner-holder](pītadhvajadharaṃ) [left](vāme) [threatening-gesture](tarjanīṃ) [or](vā) [heart-before](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-pressing rākṣasas with-feet releasing sound maruts-son
+[pressing](saṃpīḍya) [rakshasas](rākasān) [by-feet](padbhyāṃ) [releasing](muñcann) [sound](ādaṃ) [maruts-son](marutsutam)
 
 ## mukta-m0-p44-v1095
-skanda-yakṣa-accompanied always made woman-accompanied
+[skanda-yaksha-endowed](skandhayakṣānvitā) [always](nityaṃ) [to-be-made](kartavyā) [woman-endowed](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-garland-bearer or joyful sky-dwelling vidyādhara always
+[garland-wearer](mālābhṛto) [or]('thavā) [delighted](hṛṣṭāḥ) [sky-dwelling](khasthā) [vidyadharas](vidyādharāḥ) [always](sadā)
 
 ## mukta-m0-p44-v1097
-tawny-varvara-haired vetāla distorted-faced
+[tawny-varvara-haired](piṅgavarvara) [horse](keśāśva) [vetalas](vetālā) [distorted-faced](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-skull-garlanded spear-holder field-protectors
+[skull-garlanded](kapālamālinaḥ) [trident-holders](śūladhārīṇaḥ) [field-protectors](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-thin big-bellied pretas indeed gallows-hairy
+[thin](kṛśā) [big-bellied](mahodarāḥ) [pretas](pretā) [indeed](khalva) [gallant](gallāśca) [hairy](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-own-limb-color-bearing all as-stated brahmayāmala
+[own-limb-color-bearing](svāṅgavarṇadharāḥ) [all](sarvā) [as-stated](yathoktaṃ) [brahmayamala](brahmayāmale)
