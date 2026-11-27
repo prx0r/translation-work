@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-ebhiḥ-tu paṃcabhiḥ-yuktaiḥ snānam arcā-ādi-śodhanam
+[by-these](ebhiḥ) [but](tu) [with-five](paṃcabhiḥ) [joined](yuktaiḥ) [bathing](snānam) [worship-etc](arcādi) [purification](śodhanam)
 
 ## mukta-m0-p68-v1677
-īśāna-vaktra-ghora-āhva-guhya-ājāta-ākhya-mantritaiḥ
+[by-mantras-named-īśāna-vaktra-ghora-āhva-guhya-ajāta-ākhya](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-vṛṣa-śṛṅga-samutkhātāḥ pavaka-āśraya-sambhavāḥ
+[dug-up-by-bull-horn](vṛṣaśṛṅgasamutkhātāḥ) [arising-from-fire-abode](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-ajena kṣālanāt pṛthvī-kramataḥ tu kalāvatā
+[by-goat](ajena) [by-washing](kṣālanāt) [from-earth-step](pṛthvīkramataḥ) [but](tu) [with-arts](kalāvatā)
 
 ## mukta-m0-p68-v1680
-kavoṣṇaiḥ tu tṛtīyena snānam ṭaṅka-kṣata-apaham
+[with-lukewarm](kavoṣṇaiḥ) [but](tu) [by-third](tṛtīyena) [bathing](snānam) [removing-chisel-wound](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-nidigdhikā balā-mūlaiḥ snānam guhyena doṣa-hṛt
+[with-roots-of-nidigdhikā-and-balā](nidigdhikābalāmūlaiḥ) [bathing](snānam) [by-secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-dhātryā snānāt mahī-tyakte sadyojātena śuddhyati
+[by-dhātrī](dhātryā) [by-bathing](snānāt) [earth](mahī) [manifest](vyakte) [by-Sadyojāta](sadyojātena) [becomes-pure](śuddhyati)
 
 ## mukta-m0-p68-v1683
-samudvartya mahādevam tīrtha-utthaiḥ snāpayet jalaiḥ
+[having-rubbed](samudvartya) [Mahādeva](mahādevam) [risen-from-tīrtha](tīrthotthaiḥ) [should-bathe](snāpayet) [with-waters](jalaiḥ)
 
 ## mukta-m0-p68-v1684
-puṣkaram naimiṣa-araṇyam tīrtham ca varūṇam tathā
+[Puṣkara](puṣkaram) [Naimiṣa-forest](naimiṣāraṇyam) [tīrtha](tīrtham) [and](ca) [Varuṇa](varūṇam) [likewise](tathā)
 
 ## mukta-m0-p68-v1685
-jāhnavī yamunā kauśī sarayū śoṇa-narmadā
+[Jāhnavī](jāhnavī) [Yamunā](yamunā) [Kauśī](kauśī) [Sarayū](sarayū) [Śoṇa-and-Narmadā](śoṇanarmadā)
 
 ## mukta-m0-p68-v1686
-sapta-godāvarī iti etāḥ puṇya-nadyaḥ mahā-jalaiḥ
+[seven-Godāvarīs](saptagodāvarī) [these](ityetāḥ) [holy-rivers](puṇyanadyaḥ) [with-great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-kṣāra-kṣīra-dadhi-sneha-ikṣu-rasa-uda-sura-udakāḥ
+[alkaline-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-sphāṭikam padya-rāgam ca rājāvartaḥ suvidrumam
+[crystal](sphāṭikam) [padmarāga](padyarāgam) [and](ca) [rājāvarta-with-good-coral](rājāvartaḥsuvidrumam)
 
 ## mukta-m0-p68-v1689
-etad-ratna-udakaiḥ snānam mahā-bhūti-karam param
+[this](etad) [with-gem-waters](ratnodakaiḥ) [bathing](snānam) [causing-great-prosperity](mahābhūtikaram) [supreme](param)
 
 ## mukta-m0-p68-v1690
-karpūra-aguru-kastūrī-kāśmarī-candana-ādikaiḥ
+[with-camphor-aguru-musk-kāśmarī-sandal-etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-snāpayet gandha-toyena ajātena abhimantritam
+[should-bathe](snāpayet) [with-scented-water](gandhatoyena) [consecrated-by-Ajāta](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-puṇḍarīka-abja-mālūra-nīla-rakta-utpala-arka-jam
+[with-puṇḍarīka-lotus-mālūra-blue-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-sahakāra-aśvamāram ca punnāga-bakulāni ca
+[sahakāra-aśvamāra](sahakārāśvamāram) [and](ca) [punnāga-and-bakula](punnāgabakulāni) [and](ca)
 
 ## mukta-m0-p68-v1694
-pāṭalā-droṇa-nepālī kuśa-kiṃśuka-siṃhikāḥ
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-mṛdu-kunda-abja-patrī ca vṛṣa-ṛṣi-buka-puṣpakam
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [and](ca) [vṛṣa-ṛṣi-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-bilāmra-mocana-āraṅga panasam nālikerakam
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [jackfruit](panasam) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-vadarī-bījapūram ca kara-mardam satindukam
+[jujube-citron](vadarībījapūram) [and](ca) [kara-marda](karamardam) [with-tinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-phala-snānam idam pupyam kartuḥ icchā-phala-pradam
+[fruit-bathing](phalasnānam) [this](idam) [meritorious](puṇyam) [granting-desired-fruit-to-doer](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-tila-godhuma-sugdā-ādi yava-dhānya-priyaṅgubhiḥ
+[with-sesame-wheat-sugdā-etc](tilagodhumasugdādi) [with-barley-grains-and-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-pañca-brahma-udbhavaiḥ mantraiḥ mahā-snānam śubha-pradam
+[arising-from-five-Brahmans](pañcabrahmodbhavaiḥ) [with-mantras](mantraiḥ) [great-bathing](mahāsnānam) [granting-auspiciousness](śubhapradam)
