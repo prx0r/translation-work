@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-tarjani-anāmikā-parva (index-middle-finger-joint) sapāda-yava-varjitam (excluding-quarter-grain)
+[index-finger+ring-finger+joint](tarjanyanāmikāparva) [with-quarter+barley-grain+devoid](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-dvi-aṅgula (two-finger) aṅguṣṭha-ka-granthi (thumb-knot) āsām (of-these) parva-ardha-gā (half-joint-going) nakhāḥ (nails)
+[two-angula+thumb+joint](dvyaṅgulo'ṅguṣṭhakagranthi) [of-these](āsāṃ) [half-joint+going](parvārdhagā) [nails](nakhāḥ)
 
 ## mukta-m0-p30-v728
-nāsā-utsedhaḥ (nose-height) sa-vistāra (with-width) ud-dvyaṅgula (up-two-finger) dvi-puṭaḥ (two-fold) śubhaḥ (auspicious)
+[nose+height](nāsotsedhaḥ) [with-width+two-angula](savistārodvyaṅgulo) [two-fold](dvipuṭaḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p30-v729
-dvi-ardha (two-and-half) yava (grain) puṭe (in-fold) sthūle (thick) madhye (middle) vaśa (measure) stri-bhiḥ-yavaḥ (three-grains-by-women)
+[two-and-half](dvyardhaṃ) [barley-grain](yavaṃ) [in-fold](puṭe) [thick](sthūle) [middle](madhye) [twenty](vaśa) [by-three+barley-grains](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-adhe (below) aparo-aṅgulakaṃ (another-finger) tu (but) dvi-aṅgule (two-finger) cibuka-sthitiḥ (chin-position)
+[below+another+angula](adhe'paro'ṅgulakaṃ) [indeed](tu) [two-angula](dvyaṅgule) [chin+position](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-nāsikā-mūla-pārśve (nose-root-side) tu (but) locane (eyes) dvi-aṅgula-āyate (two-finger-length)
+[nose+root+side](nāsikāmūlapārśve) [indeed](tu) [eyes](locane) [two-angula+long](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-indīvara-abja-patra-ābhā (blue-lotus-petal-shine) paṭola-phala-vat (snake-gourd-fruit-like) striyāḥ (of-woman)
+[blue-lotus+lotus+petal+like](indīvarābjapatrābhā) [snake-gourd+fruit+like](paṭolaphalavat) [of-woman](striyāḥ)
 
 ## mukta-m0-p30-v733
-pañcama-aṃśaṃ (fifth-part) bhavet (becomes) jyotiḥ (light) sṛkkaṇī-sūtra-tulyataḥ (corner-thread-equality)
+[fifth+part](pañcamāṃśaṃ) [becomes](bhave) [light](jyotiḥ) [corner-of-mouth+thread+equality](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-ardha-aṅgula-samā (half-finger-equal) droṇī (trough) sa-ardha-dvi-aṅgula-dīrghatā (with-half-two-finger-length)
+[half-angula+equal](ardhāṅgulasamā) [trough](droṇī) [with-half+two-angula+length](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-tayoḥ (of-them) antara-mātra-ardhaṃ (interval-measure-half) striyāṃ (in-woman) yava-ardha-vistṛte (grain-half-spread)
+[between-them+interval+half](tayorataramātrārdhaṃ) [in-woman](striyāṃ) [barley-half+spread](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-karṇau (ears) netra-daya-āyāmau (eye-length) tad-ardha-adhi (that-half-more) vistaraḥ (width) tayoḥ (of-them)
+[ears](karṇau) [eye+length](netradayāyāmau) [that+half](tadardhād) [width](vistaraḥ) [of-them](tayoḥ)
 
 ## mukta-m0-p30-v737
-kalā-ardhaṃ (half-part) pāśau (loops) kuryāt (should-make) yathā-ipsitau (as-desired)
+[half-kalā](kalārdhaṃ) [loops](pāśau) [should-make](kuryād) [as-desired](yathepsitau)
 
 ## mukta-m0-p30-v738
-indra-saṅkhyā-aṅgulaṃ (Indra-number-finger) paścāt (behind) karṇayoḥ (of-ears) antaraṃ (interval) viduḥ (know)
+[indra+number+angula](indrasaṅkhyāṅgulaṃ) [behind](paścāt) [between-ears](karṇayorantaraṃ) [know](viduḥ)
 
 ## mukta-m0-p30-v739
-lalāṭaḥ (forehead) aṣṭa-aṅgula-āyāmaḥ (eight-finger-length) tri-aṅgulaḥ (three-finger) śaṅkhaḥ (temple) ucyate (is-called)
+[forehead](lalāṭaḥ) [eight-angula+length](aṣṭāṅgulāyāmaḥ) [three-angula](tryaṅgulaḥ) [temple](śaṅkhaḥ) [is-called](ucyate)
 
 ## mukta-m0-p30-v740
-sapta-aṅgulau (seven-finger) kapolau (cheeks) tu (but) sa-aṅgulau (with-finger) sa-yava-ucchrayau (with-grain-height)
+[seven-angula](saptāṅgulau) [cheeks](kapolau) [indeed](tu) [with-angula](sāṅgulau) [with-barley+height](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-hanū (jaws) kalā (part) tra-dīrghau (three-long) vdi-kalaḥ (four-part) cibuka-udgamaḥ (chin-rise)
+[jaws](hanū) [kalā](kalā) [three+long](tradīrghau) [four-kalā+chin-rise](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-skandhaḥ (shoulder) aṣṭa-aṅgula-vistāraḥ (eight-finger-width) tad-āyāmaḥ (that-length) catuṣ-kalā (four-part)
+[shoulder](skandhaḥ) [eight-angula+width](aṣṭāṅgulavistāraḥ) [that+length](tadāyāmaḥ) [four-kalā](catuṣkalā)
 
 ## mukta-m0-p30-v743
-vistāraḥ (width) kūrparaḥ (elbow) tasmāt (from-that) bhūta-aṅgulaiḥ (element-fingers) yavaiḥ (grains) tathā (so)
+[width](vistāraḥ) [elbow](kūrparaḥ) [from-that](tasmāt) [five-angula+barley-grains](bhūtāṅgulairyavaiḥ) [so](tathā)
 
 ## mukta-m0-p30-v744
-catuḥ-aṅgula-vistāraḥ (four-finger-width) maṇibandhaḥ (wrist) prakīrtitaḥ (declared)
+[four-angula+width](caturaṅgulavistāraḥ) [wrist](maṇibandhaḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-stanayoḥ (of-breasts) antaraṃ (interval) tālaṃ (palm) tayoḥ (of-them) prāntau (ends) dvi-netrakau (two-eyes)
+[between-breasts](stanayorantaraṃ) [palm](tālaṃ) [their](tayoḥ) [ends](prāntau) [two-eyes](dvinetrakau)
 
 ## mukta-m0-p30-v746
-nābhiḥ (navel) pradakṣiṇa-āvartā (clockwise-whorl) nimnataḥ (depressed) ardha-aṅgula-uditā (half-finger-raised)
+[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [from-depression+half-angula+raised](nimnato'rdhāṅguloditā)
 
 ## mukta-m0-p30-v747
-hṛd (heart) viṃśati-aṅgulaṃ (twenty-finger) proktaṃ (stated) nābhi-deśaḥ (navel-region) caturdaśa (fourteen)
+[heart+twenty-angula](hṛdviṃśatyaṅgulaṃ) [is-stated](proktaṃ) [navel-region+fourteen](nābhideśaścaturdaśa)
 
 ## mukta-m0-p30-v748
-pañcādaśa-aṅgulaṃ (fifteen-finger) vakṣaḥ (chest) hṛd-deśaḥ (heart-region) pañcabhiḥ (five) vinā (without)
+[fifteen-angula](pañcādaśāṅgulaṃ) [chest](vakṣaḥ) [heart-region](hṛddeśaḥ) [by-five+without](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-kaṭiḥ (waist) saṃveṣṭanena (by-girdle) uktā (said) śatāt (from-hundred) ca (and) dvi-adhika-aṅgulā (two-more-finger)
+[waist](kaṭiḥ) [by-girdle](saṃveṣṭanena) [is-stated](uktā) [hundred+from](śatāt) [two+more+angula](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-catuḥ-netra-pravistārau (four-eye-wide) gaja-kumbha-upamau (elephant-jar-like) śubhau (auspicious)
+[four-eyes+width](caturnetrapravistārau) [elephant+temples+like](gajakumbhopamau) [auspicious](śubhau)
