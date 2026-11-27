@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[gloss](granthirūponnatagranthirjaṭharāmayadāyaka)
+granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka
 
 ## mukta-m0-p21-v502
-[gloss](tuṣāraṃ) [gloss](tadvijānīyā) [gloss](putraśokārtidāyakam)
+tuṣāraṃ tat-vijānīyā putra-śoka-ārti-dāyakam
 
 ## mukta-m0-p21-v503
-[gloss](hemaghoṣāmayaṃ) [gloss](tāmra) [gloss](tadduṣṭaṃ) [gloss](piṅgalāmate)
+hema-ghoṣa-āmayaṃ tāmra tat-duṣṭaṃ piṅgalā-mate
 
 ## mukta-m0-p21-v504
-[gloss](janaṃ) [gloss](hantyāyasākrāntā) [gloss](śilā) [gloss](tāmī) [gloss](ca) [gloss](śilpinam)
+janaṃ hanti-āyasā-ākrāntā śilā tāmī ca śilpinam
 
 ## mukta-m0-p21-v505
-[gloss](kṛṣṇaḥ) [gloss](pīto'ruṇo) [gloss](binduḥ) [gloss](sa) [gloss](śokabhayarogadaḥ)
+kṛṣṇaḥ pītaḥ aruṇaḥ binduḥ sa śoka-bhaya-roga-daḥ
 
 ## mukta-m0-p21-v506
-[gloss](pīte) [gloss](dhanakṣayaḥ) [gloss](kartuḥ) [gloss](kṛṣṇe) [gloss](bandho) [gloss](dvayordvidhā)
+pīte dhana-kṣayaḥ kartuḥ kṛṣṇe bandhaḥ dvayoḥ dvidhā
 
 ## mukta-m0-p21-v507
-[gloss](rekhā) [gloss](rekhānubiddhā) [gloss](vā) [gloss](pārthivaṃ) [gloss](sā) [gloss](vināśayet)
+rekhā rekhā-anubiddhā vā pārthivaṃ sā vināśayet
 
 ## mukta-m0-p21-v508
-[gloss](svāmidhnī) [gloss](ca) [gloss](catuśchinnā) [gloss](bahucchinnā) [gloss](kulāntakṛt)
+svāmidhnī ca catuḥ-chinnā bahu-chinnā kula-anta-kṛt
 
 ## mukta-m0-p21-v509
-[gloss](makṣikā) [gloss](makṣikākārā) [gloss](tayā) [gloss](kuṣṭhaṃ) [gloss](sudāruṇam)
+makṣikā makṣikā-ākārā tayā kuṣṭhaṃ su-dāruṇam
 
 ## mukta-m0-p21-v510
-[gloss](tadā) [gloss](nānā) [gloss](gadān) [gloss](kuryāt) [gloss](kartuścaiva) [gloss](na) [gloss](saṃśayaḥ)
+tadā nānā gadān kuryāt kartuḥ ca eva na saṃśayaḥ
 
 ## mukta-m0-p21-v511
-[gloss](tyājyaṃ) [gloss](tadā) [gloss](tridhā) [gloss](liṅgaṃ) [gloss](nṛparāṣṭraprajārthinā)
+tyājyaṃ tadā tri-dhā liṅgaṃ nṛpa-rāṣṭra-prajā-arthinā
 
 ## mukta-m0-p21-v512
-[gloss](vāmapārśvāśritaḥ) [gloss](kiṃciddhanyādrāṣṭraṃ) [gloss](sarājakam)
+vāma-pārśva-āśritaḥ kiṃcit hanyāt rāṣṭraṃ sa-rājakam
 
 ## mukta-m0-p21-v513
-[gloss](sarvavarṇā) [gloss](bhṛśaṃ) [gloss](nūnaṃ) [gloss](prāṇahṛtkṛṣṇahīrikā)
+sarva-varṇā bhṛśaṃ nūnaṃ prāṇa-hṛt kṛṣṇa-hīrikā
 
 ## mukta-m0-p21-v514
-[gloss](unnato) [gloss](lakṣyate) [gloss](yaśca) [gloss](viḍālāṅghriḥ) [gloss](sa) [gloss](doṣabhāk)
+unnataḥ lakṣyate yaḥ ca viḍāla-aṅghriḥ sa doṣa-bhāk
 
 ## mukta-m0-p21-v515
-[gloss](śilāyā) [gloss](rūpamālakṣya) [gloss](tyajettāmaśubhapradām)
+śilāyāḥ rūpam ālakṣya tyajet tām aśubha-pradām
 
 ## mukta-m0-p21-v516
-[gloss](svalpadoṣān) [gloss](prakṣyāmi) [gloss](yathā) [gloss](śāstreṣu) [gloss](bhāṣitān)
+svalpa-doṣān prakṣyāmi yathā śāstreṣu bhāṣitān
 
 ## mukta-m0-p21-v517
-[gloss](valmīkoṣaracityutthā) [gloss](koṣṇā) [gloss](kṣārāmbumadhyagā)
+valmīka-ūṣara-cityutthā koṣṇā kṣāra-ambu-madhya-gā
 
 ## mukta-m0-p21-v518
-[gloss](kudiksthā) [gloss](sūryasantaptā) [gloss](kadutthāmethyadūṣitā)
+kudik-sthā sūrya-santaptā kadutthā-methyadūṣitā
 
 ## mukta-m0-p21-v519
-[gloss](duṣṭajīvasvarā) [gloss](yā) [gloss](ca) [gloss](yojitā) [gloss](nānyakarmaṇi)
+duṣṭa-jīva-svarā yā ca yojitā na anya-karmaṇi
 
 ## mukta-m0-p21-v520
-[gloss](yā) [gloss](yopalānulagnā) [gloss](sā) [gloss](snehavicchittikārikāḥ)
+yā yopalā-anulagnā sā sneha-vicchitti-kārikā
 
 ## mukta-m0-p21-v521
-[gloss](ūṣarasthārthahṛjjñeyā) [gloss](citisthā) [gloss](duḥkhadāyinī)
+ūṣara-stha-artha-hṛt jñeyā citi-sthā duḥkha-dāyinī
 
 ## mukta-m0-p21-v522
-[gloss](pāṣadāpuṇyadeśasthā) [gloss](vadhakṛdbhilla) [gloss](sevitā)
+pāṣada-apuṇya-deśa-sthā vadha-kṛt bhilla sevitā
 
 ## mukta-m0-p21-v523
-[gloss](dāhaṃ) [gloss](hāniṃ) [gloss](ca) [gloss](śokaṃ) [gloss](ca) [gloss](naiḥsvaṃ) [gloss](rogaṃ) [gloss](tathāvahet)
+dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathā avahet
 
 ## mukta-m0-p21-v524
-[gloss](surāpakṣivasāgandhā) [gloss](udvegajananī) [gloss](śilā)
+surā-pakṣi-vasā-gandhā udvega-jananī śilā
 
 ## mukta-m0-p21-v525
-[gloss](vajradagdhāgnidagdhā) [gloss](ca) [gloss](rājño'nalabhayapradā)
+vajra-dagdhā agni-dagdhā ca rājñaḥ anala-bhaya-pradā
