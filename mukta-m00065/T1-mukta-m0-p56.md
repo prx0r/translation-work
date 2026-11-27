@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-hemante=in-winter jñānadaṃ=knowledge-giving liṅgaṃ=linga śiśire=in-cool-season sarvabhūtidam=all-beings-giving
+in-winter (hemante) knowledge-giving (jñānadaṃ) liṅga (liṅgaṃ) in-cool-season (śiśire) all-beings-giving (sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-yatīnāṃ=of-ascetics sarvakāleṣu=at-all-times liṅgasyāropaṇaṃ=installation-of-linga matam=opinion
+for-ascetics (yatīnāṃ) at-all-times (sarvakāleṣu) of-liṅga-installation (liṅgasyāropaṇaṃ) considered (matam)
 
 ## mukta-m0-p56-v1378
-dakṣiṇetvayane=in-southern-course apūjyaṃ=not-worshipable trivarṣordhvaṃ=above-three-years bhayāvaham=fear-bringing
+in-southern-ayana (dakṣiṇāyane) not-worshipable ('pūjyaṃ) beyond-three-years (trivarṣordhvaṃ) fear-bringing (bhayāvaham)
 
 ## mukta-m0-p56-v1379
-kṣayāya=for-decay bṛddhaye=for-growth syācca=and-becomes yāmye=in-southern saumye'pare=in-auspicious-other ravau=sun
+for-decay (kṣayāya) for-growth (bṛddhaye) and-becomes (syācca) in-southern (yāmye) in-auspicious (saumye) other (apare) sun (ravau)
 
 ## mukta-m0-p56-v1380
-ṣaṭṣaṇmāsottarāṃs=after-six-six-months tryabdān=three-years mayamatāt=according-to-maya phalaṃ=result kramāt=gradually
+six-six-months-beyond (ṣaṭṣaṇmāsottarān) three-years (tryabdān) from-Maya's-opinion (mayamatāt) result (phalaṃ) in-order (kramāt)
 
 ## mukta-m0-p56-v1381
-abhicāro=black-magic bhavettatra=occurs-there sthāpite=installed dakṣiṇe'yane=in-southern-course
+black-magic (abhicāro) becomes (bhavet) there (tatra) installed (sthāpite) in-southern-ayana (dakṣiṇe'yane)
 
 ## mukta-m0-p56-v1382
-kumārāḥ=boys saṃprapīḍyante=are-oppressed kanyānāśaśca=and-destruction-of-girls jāyate=occurs
+boys (kumārāḥ) are-oppressed (saṃprapīḍyante) girl-loss (kanyānāśaḥ) and (ca) arises (jāyate)
 
 ## mukta-m0-p56-v1383
-kartuḥ=of-maker kṣayaḥ=decay sadāśoko=constant-sorrow gṛhe=in-house bhavati=occurs dāruṇaḥ=terrible
+of-doer (kartuḥ) decay (kṣayaḥ) constant-sorrow (sadāśokaḥ) in-house (gṛhe) becomes (bhavati) terrible (dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-śubhārthī=seeking-auspicious na=not pravarteta=should-act devyā=of-goddess mantrādiśāstrataḥ=according-to-mantra-scriptures
+auspicious-seeker (śubhārthī) not (na) should-act (pravarteta) of-goddess (devyā) mantra-etc-scripture (mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-tasmātsthānaṃ=therefore-place guruṃ=teacher prāpya=obtaining rakṣaye=for-protection dābhicārikam=from-black-magic
+therefore-place (tasmātsthānaṃ) guru (guruṃ) obtaining (prāpya) for-protection (rakṣaye) from-black-magic (dābhicārikam)
 
 ## mukta-m0-p56-v1386
-sthāpanaṃ=installation tu=indeed prakartavyaṃ=should-be-done śiśirādāvṛtutraye=in-three-seasons-from-cool
+installation (sthāpanaṃ) but (tu) should-be-done (prakartavyaṃ) from-cool-season (śiśirādau) three-seasons (ṛtutraye)
 
 ## mukta-m0-p56-v1387
-sacandratārakāyoge=with-moon-star-conjunction sulagnakaraṇānvitate=with-auspicious-ascendant
+with-moon-star-yoga (sacandratārakāyoge) with-good-lagna-karaṇa (sulagnakaraṇānvite)
 
 ## mukta-m0-p56-v1388
-advaite=non-dual caiva=and-indeed kṛsṇe'pi=even-in-dark mantramūrti=mantra-form prabhedataḥ=by-distinction
+in-non-dual (advaite) and (ca) indeed (eva) in-dark (kṛsṇe) also (api) mantra-form (mantramūrti) by-distinction (prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-pāñcarātrārharet=pañcarātra-worthy miśrā=mixed pañcāśadvarṣasaṃsthitiḥ=established-fifty-years
+Pañcarātra (pāñcarātrāḥ) should-take (harer) mixed (miśrā) fifty-years (pañcāśadvarṣa) establishment (saṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-śātābdorvbaṃ=for-hundred-years tu=indeed sā=that tiṣṭhed=stands vāṇaliṅgaṃ=vaṇa-linga svayambhubat=like-self-born
+hundred-years (śātābdor) indeed (tu) that (sā) stands (tiṣṭhet) stone-liṅga (vāṇaliṅgaṃ) like-self-born (svayambhubat)
 
 ## mukta-m0-p56-v1391
-bahvarthatvānipātānāṃ=of-many-meanings-falls saṃskārādau=in-purification-etc pratiṣṭhitiḥ=establishment
+of-many-meanings (bahvarthatvāni) of-falls (pātānāṃ) in-purification-etc (saṃskārādau) installation (pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-saṃskṛtā=purified dravyasanmantrasaṃskṛtiryā=purification-of-substances-and-mantras suragya=divine ca=and
+purified (saṃskṛtā) substance (dravya) with-mantra-purification (sanmantrasaṃskṛtiḥ) which (yā) god-worthy (suragya) and (ca)
 
 ## mukta-m0-p56-v1393
-pratimāṃ=image pañcabhedaistu=with-five-divisions pratiṣṭhā=installation pañcadhoditā=declared-fivefold
+image (pratimāṃ) with-five-divisions (pañcabhedaiḥ) but (tu) installation (pratiṣṭhā) fivefold (pañcadhā) declared (uditā)
 
 ## mukta-m0-p56-v1394
-dvitīyāyumati=second-life-giving dadyāt=gives tṛtīyā=third putrasaṃpadaḥ=son-prosperity
+second (dvitīyā) life (āyu) gives (dadyāt) third (tṛtīyā) son-prosperity (putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-daśamī=tenth bhūmilābhaṃ=land-gain ca=and saubhāgyaṃ=good-fortune ca=and trayodaśī=thirteenth
+tenth (daśamī) land-gain (bhūmilābhaṃ) and (ca) good-fortune (saubhāgyaṃ) and (ca) thirteenth (trayodaśī)
 
 ## mukta-m0-p56-v1396
-ekartuśaṅkarairnandā=... bhadrā=auspicious pakṣarṣibhānubhiḥ=by-fortnight-sages-sun
+one-doer (ekartu) with-Śaṅkara (śaṅkaraiḥ) Nandā (nandā) Bhadrā (bhadrā) with-fortnight-seer-sun (pakṣarṣibhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-bāṇadiktithibhiḥ=by-arrow-direction-tithis pūrṇā=full hīnatulyāhitāḥ=deficient-equal-harmful kramāt=gradually
+with-arrow-direction-tithi (bāṇadiktithibhiḥ) full (pūrṇā) deficient-equal-harmful (hīnatulyāhitāḥ) in-order (kramāt)
 
 ## mukta-m0-p56-v1398
-vṛhaspatirdvipañcāyurbudyo=Jupiter-fifteen-years budyo=intellect jayadhanāni=victory-wealth ca=and
+Jupiter (vṛhaspatiḥ) two-five-life (dvipañcāyuḥ) Mercury (budhaḥ) victory-wealth (jayadhanāni) and (ca)
 
 ## mukta-m0-p56-v1399
-karka=cancer vṛṣatulācāpastrīsiṃhagrāhayugmake=taurus-libra-sagittarius-woman-lion-planet-pair
+Cancer (karka) Taurus-Libra-Sagittarius (vṛṣatulācāpa) woman-Lion-planet-pair (strīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-ṣaḍaṣṭacaturoyāmāt=six-eight-four-yamas catū=four rāśikrameṇa=by-zodiac-order tu=indeed
+six-eight-four-yāma (ṣaḍaṣṭacaturoyāmāt) four (catuḥ) zodiac-order (rāśikrameṇa) indeed (tu)
