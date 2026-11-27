@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-seen all of-activity occurrence not occurs [kh: would-occur]
+[gloss](dṛṣṭa) [gloss](sarvā) [gloss](kṛtitvasya) [gloss](ghaṭanaṃ) [gloss](na) [gloss](ghaṭe) [gloss](bhavat)
 
 ## mukta-m0-p58-v1427
-threefold even of-practice indeed here accepted
+[gloss](tritvantu) [gloss](vyavahārasyāpyapekṣaivātra) [gloss](sammatam)
 
 ## mukta-m0-p58-v1428
-ninth shiva-principle indeed sound-becoming here now
+[gloss](navamaṃ) [gloss](śivatatvaṃ) [gloss](tu) [gloss](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-sound-becoming abandoning by-direct-perception with-assembly shines
+[gloss](śabdabhāsyatvamujhitvā) [gloss](svādhyakṣeṇa) [gloss](sabhāsate)
 
 ## mukta-m0-p58-v1430
-own-support wind-of-one [kh: mara-] indifferent darkness remembered
+[gloss](svāśrayo) [gloss](marudekasya) [gloss](udāsīnaṃ) [gloss](tamaḥ)
 
 ## mukta-m0-p58-v1431
-shiva indeed all-support would-be there properly distinguished
+[gloss](śivastu) [gloss](sarvāśrayaḥ) [gloss](syāt) [gloss](tatra) [gloss](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-to-me [kh: to-me] siddhi-form wind-cloud-snow-nature
+[gloss](mahyāṃ) [gloss](siddhādirūpeṇa) [gloss](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-sound-this-ghī-water-wind [kh: -maṃdhījala-] resort said dear
+[gloss](śabdemaṃghījalamarut) [gloss](saṃśrayaḥ) [gloss](kathitaḥ) [gloss](priye)
 
 ## mukta-m0-p58-v1434
-aggregate and of-earth etc. bodyhood proclaimed
+[gloss](saṃghātaśca) [gloss](pṛthivyādeḥ) [gloss](śarīratvena) [gloss](kīrtyate)
 
 ## mukta-m0-p58-v1435
-by-life-force moving that conscious here called
+[gloss](prāṇena) [gloss](ceṣṭamānaṃ) [gloss](yat) [gloss](tat) [gloss](sacit) [gloss](kamihocyate)
 
 ## mukta-m0-p58-v1436
-mind-resort living-being conscious body remembered
+[gloss](manaḥsaṃsrayaṇaṃ) [gloss](prāṇi) [gloss](sacit) [gloss](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-of-all-here-principles modification quality-difference-born
+[gloss](sarveṣāmihatatvānāṃ) [gloss](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-aggregates-born and aggregates many not-one-formed
+[gloss](saṃghātajāśca) [gloss](saṃghātā) [gloss](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-by-much what-here-said what-principle other inert
+[gloss](bahunā) [gloss](kimihoktena) [gloss](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-uncuttable not-burnable not-wettable not-dryable indeed
+[gloss](acchedyo'yamadāhoya) [gloss](makledyośoṣya) [gloss](eva) [gloss](ca)
 
 ## mukta-m0-p58-v1441
-of-all-universe generator of-all-universe protector
+[gloss](sarvaviśvasya) [gloss](janakaḥ) [gloss](sarvaviśvasya) [gloss](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-that mountain-island-ocean-forest all-earth [kh: -mahi]
+[gloss](sa) [gloss](giridvīpajaladhikānanā) [gloss](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-these visible indeed counted earth-dwelling-worshipped
+[gloss](etā) [gloss](dṛśyastva) [gloss](saṃkhyātā) [gloss](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-light-wheel all and wind not at-all moved
+[gloss](jyotiścakraṃ) [gloss](samastaṃ) [gloss](ca) [gloss](vāyu) [gloss](naiva) [gloss](pracālyate)
 
 ## mukta-m0-p58-v1445
-always moves somewhere always also still somewhere
+[gloss](sadā) [gloss](carati) [gloss](kutrāpi) [gloss](sadā) [gloss](ca) [gloss](sthimitaḥ) [gloss](kvacit)
 
 ## mukta-m0-p58-v1446
-when flows quickly with-sound then impelled
+[gloss](yadā) [gloss](pravahati) [gloss](kṣipraṃ) [gloss](saśabdena) [gloss](tatodyate)
 
 ## mukta-m0-p58-v1447
-this indeed principle said its other powers
+[gloss](etat) [gloss](tu) [gloss](tattvaṃ) [gloss](kathitamasyaivānyā) [gloss](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-that that-scripture establishment all said mountain-daughter [kh: -nī]
+[gloss](tat) [gloss](tacchāstra) [gloss](sthitiḥ) [gloss](sarvā) [gloss](kathitā) [gloss](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-elsewhere my what anything askable touched-in-mind
+[gloss](anyatra) [gloss](mama) [gloss](yat) [gloss](kiṃcit) [gloss](praṣṭavyaṃ) [gloss](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-many creature-net dense uninterrupted
+[gloss](aneka) [gloss](jantujālena) [gloss](nibiḍasya) [gloss](nirantaram)
