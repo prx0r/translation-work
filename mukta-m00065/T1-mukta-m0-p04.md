@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[on-ground](sthaṇḍile) [circle](maṇḍale) [worship](pūjya) [initiation-establishment-etc](dīkṣāsthāpanādike)
+on-ground(sthaṇḍile) on-circle(maṇḍale) worship-worthy(pūjya) becomes-dīkṣā-installation-etc(syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[lord-honoring](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-elephant-tusk-born](sainyacchinnāgadantajam)
+lord-honoring(prabhumānapradaṃ) conch(śāṅkhaṃ) army-cut-elephant-tusk-born(sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[atom-etc-king-born](aṇimādinṛkulyottham) [mutual-half-month](anyonyabdārdhataḥ) [always](sadā)
+aṇimā-etc-from-royal-family-born(aṇimādinṛkulyottham) mutual-half-year(manyonyabdārdhataḥ) always(sadā)
 
 ## mukta-m0-p04-v79
-[rice-flour-born](śālipiṣṭodbhavaṃ) [nourishment](puṣṭyai) [sixty-day-rice](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
+rice-flour-born(śālipiṣṭodbhavaṃ) for-nourishment(puṣṭyai) ṣāṣṭika(ṣāṣṭikaṃ) nourishment-increasing(puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[enemy-splitting](ripubhedakaraṃ) [mung](maudgaṃ) [woman-giving](strīdaṃ) [shyama-grain-born](śyāmākasambhavam)
+enemy-splitting(ripubhedakaraṃ) mung-born(maudgaṃ) woman-giving(strīdaṃ) śyāmāka-born(śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[pleasure-making](sukhakṛn) [butter](nāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
+pleasure-causing(sukhakṛnnāvanītaṃ) tu(tu) cow-dung(gomayaṃ) disease-destroying(roganāśanam)
 
 ## mukta-m0-p04-v82
-[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
+various-fruit-born(nānāphalodbhavaṃ) liṅga(liṅgaṃ) various-desire-giving(nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[uprooting](uccāṭane) [dust](tu) [pāṃśavyaṃ] [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
+for-uprooting(uccāṭane) dust-born(pāṃśavyaṃ) maula(maulaṃ) enemy-destruction-bringing(śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierce-making](caugryakārakam)
+city-agitating(purakṣobhakaraṃ) city-born(pauraṃ) rāmaṭha(rāmaṭhaṃ) fierce-causing(caugryakārakam)
 
 ## mukta-m0-p04-v85
-[clay-image-born](mṛdbimbodbhavam) [desired-aim](iṣṭārthaṃ) [anointing](lepāt) [would-be](syuḥ) [all-prosperities](sarvasaṃpadaḥ)
+clay-image-born(mṛdbimbodbhavamiṣṭārthaṃ) from-paste(lepātsyuḥ) all-prosperities(sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[so-long](tāvatkāla) [indeed](tu) [worship](saṃpūya) [releasing](visṛjya) [those](tāni) [who](ke) [would-throw](kṣipet)
+so-long(tāvatkāla) tu(tu) worship-and-release(saṃpūya visṛjya) those(tāni) who(ke) throws(kṣipet)
 
 ## mukta-m0-p04-v87
-[boiling](niṣkvāthya) [cloth](paṭam) [anointing](ālepya) [drying](saṃśoṣya) [wiping](pārimārjya) [and](ca)
+boiling-down(niṣkvāthya) cloth-smearing(paṭamālepya) drying(saṃśoṣya) wiping(pārimārjya) ca(ca)
 
 ## mukta-m0-p04-v88
-[metals-bilva-juices](dhātubilvarasair) [writing](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [cloth-etc](paṭādike)
+metal-bilva-juice-with-writing(dhātubilvarasairlekhyaṃ) threefold(tridhā) liṅga(liṅgaṃ) on-cloth-etc(paṭādike)
 
 ## mukta-m0-p04-v89
-[strength-reviving-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [being-based](bhāvāśritā) [always](sadā)
+strength-revolving-desire(balasaṃvartanīcchāyā) sight(sṛṣṭi) bhāva-dependent(bhāvāśritā) always(sadā)
 
 ## mukta-m0-p04-v90
-[compassion](karuṇā) [wonder](adbhuta) [peace](śāntāḥ) [and](ca) [nine-emotions-self](navabhāvātmikāḥ) [sometimes](kvacit)
+compassionate-wonderful-peaceful(karuṇādbhutaśāntāśca) nine-bhāva-souled(navabhāvātmikāḥ) sometimes(kvicit)
 
 ## mukta-m0-p04-v91
-[by-own-will](svecchayā) [worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [is-said](ucyate) [now](adhunā)
+by-own-will(svecchayā) worship-this(etanmṛnmayānyucyate) clay-made(adhunā)
 
 ## mukta-m0-p04-v92
-[immediate-mantra](sadyomantreṇa) [and](ca) [unripe](apakvaṃ) [in-order](kramāt) [nine-fingers-etc](navakarādikam)
+instant-mantra(sadyomantreṇa) ca(ca) unripe(cāpakvaṃ) in-order(nava-karādikam)
 
 ## mukta-m0-p04-v93
-[by-brahmin-etc-castes](dvijādijātibhiḥ) [clays](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [by-desire](ca) [kāmataḥ]
+brāhmaṇa-etc-born(dvijādijātibhirmṛdbhiravyaktādi) ca(ca) by-desire(kāmataḥ)
 
 ## mukta-m0-p04-v94
-[in-wells-tanks-ponds](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [should-collect](samāharet)
+in-wells-tanks-ponds(vāpīkūpataḍāgeṣu) from-long-pond(dīrghikāyāḥ) collect(samāharet)
 
 ## mukta-m0-p04-v95
-[for-nourishment](puṣṭyai) [three-metals-womb](trilohagarbhaṃ) [and](ca) [for-wealth-treasury-increase](dhanakoṣavivṛddhaye)
+for-nourishment(puṣṭyai) three-metal-womb(trilohagarbhaṃ) ca(ca) for-wealth-treasury-increase(dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[by-vama-name](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [by-fierce](ghoreṇa) [having-burned](paridāhya) [and](ca)
+by-vāma-named(vāmākhyena) pyre-making(citāṃ kṛtvā) by-fierce(ghoreṇa) burning(paridāhya) ca(ca)
 
 ## mukta-m0-p04-v97
-[by-ishana](īśānena) [having-taken](gṛhītvā) [then](tu) [then](tataḥ) [having-purified](saṃskṛtya) [worship](pūjayet)
+by-īśāna(īśānena) taking(gṛhītvā) tu(tu) then(tataḥ) purifying(saṃskṛtya) worship(pūjayet)
 
 ## mukta-m0-p04-v98
-[sarja-asafetida-purambola](sarjahiṅgupuraṃbola) [matsi-oil-indeed](matasītailameva) [and](ca)
+sarja-hiṅgu-puraṃbola(sarjahiṅgupuraṃbola) matasī-oil(matasītailameva) ca(ca)
 
 ## mukta-m0-p04-v99
-[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-set](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [having-rubbed](parimṛdya) [and](ca)
+in-clay(mṛdi) throwing(kṣiptvā) arranging(vyavasthāpya) month(māsaṃ) that(tāṃ) rubbing(parimṛdya) ca(ca)
 
 ## mukta-m0-p04-v100
-[hemp-fiber](śaṇatatvanvitaṃ) [having-made](katvā) [clay](mṛnmayaṃ) [should-mold](ghaṭayet) [auspicious](śubham)
+hemp-fiber-with(śaṇatatvanvitaṃ) making(katvā) clay-made(mṛnmayaṃ) fashion(ghaṭayecchubham)
