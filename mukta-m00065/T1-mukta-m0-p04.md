@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[gloss](sthaṇḍile) [gloss](maṇḍale) [gloss](pūjya) [gloss](syāddīkṣāsthāpanādike)
+[word-pada](sthaṇḍile) [word-pada](maṇḍale) [word-pada](pūjya) [word-pada](syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[gloss](prabhumānapradaṃ) [gloss](śāṅkhaṃ) [gloss](sainyacchinnāgadantajam)
+[word-pada](prabhumānapradaṃ) [word-pada](śāṅkhaṃ) [word-pada](sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[gloss](aṇimādinṛkulyotthamanyonyabdārdhataḥ) [gloss](sadā)
+[word-pada](aṇimādinṛkulyotthamanyonyabdārdhataḥ) [word-pada](sadā)
 
 ## mukta-m0-p04-v79
-[gloss](śālipiṣṭodbhavaṃ) [gloss](puṣṭyai) [gloss](ṣāṣṭikaṃ) [gloss](puṣṭivardhanam)
+[word-pada](śālipiṣṭodbhavaṃ) [word-pada](puṣṭyai) [word-pada](ṣāṣṭikaṃ) [word-pada](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[gloss](ripubhedakaraṃ) [gloss](maudgaṃ) [gloss](strīdaṃ) [gloss](śyāmākasambhavam)
+[word-pada](ripubhedakaraṃ) [word-pada](maudgaṃ) [word-pada](strīdaṃ) [word-pada](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[gloss](sukhakṛnnāvanītaṃ) [gloss](tu) [gloss](gomayaṃ) [gloss](roganāśanam)
+[word-pada](sukhakṛnnāvanītaṃ) [word-pada](tu) [word-pada](gomayaṃ) [word-pada](roganāśanam)
 
 ## mukta-m0-p04-v82
-[gloss](nānāphalodbhavaṃ) [gloss](liṅgaṃ) [gloss](nānākāmapradāyakam)
+[word-pada](nānāphalodbhavaṃ) [word-pada](liṅgaṃ) [word-pada](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[gloss](uccāṭane) [gloss](tu) [gloss](pāṃśavyaṃ) [gloss](maulaṃ) [gloss](śatrukṣayāvaham)
+[word-pada](uccāṭane) [word-pada](tu) [word-pada](pāṃśavyaṃ) [word-pada](maulaṃ) [word-pada](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[gloss](purakṣobhakaraṃ) [gloss](pauraṃ) [gloss](rāmaṭhaṃ) [gloss](caugryakārakam)
+[word-pada](purakṣobhakaraṃ) [word-pada](pauraṃ) [word-pada](rāmaṭhaṃ) [word-pada](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[gloss](mṛdbimbodbhavamiṣṭārthaṃ) [gloss](lepātsyuḥ) [gloss](sarvasaṃpadaḥ)
+[word-pada](mṛdbimbodbhavamiṣṭārthaṃ) [word-pada](lepātsyuḥ) [word-pada](sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[gloss](tāvatkāla) [gloss](tu) [gloss](saṃpūya) [gloss](visṛjya) [gloss](tāni) [gloss](ke) [gloss](kṣipet)
+[word-pada](tāvatkāla) [word-pada](tu) [word-pada](saṃpūya) [word-pada](visṛjya) [word-pada](tāni) [word-pada](ke) [word-pada](kṣipet)
 
 ## mukta-m0-p04-v87
-[gloss](niṣkvāthya) [gloss](paṭamālepya) [gloss](saṃśoṣya) [gloss](pārimārjya) [gloss](ca)
+[word-pada](niṣkvāthya) [word-pada](paṭamālepya) [word-pada](saṃśoṣya) [word-pada](pārimārjya) [word-pada](ca)
 
 ## mukta-m0-p04-v88
-[gloss](dhātubilvarasairlekhyaṃ) [gloss](tridhā) [gloss](liṅgaṃ) [gloss](paṭādike)
+[word-pada](dhātubilvarasairlekhyaṃ) [word-pada](tridhā) [word-pada](liṅgaṃ) [word-pada](paṭādike)
 
 ## mukta-m0-p04-v89
-[gloss](balasaṃvartanīcchāyā) [gloss](dṛṣṭi) [gloss](bhāvāśritā) [gloss](sadā)
+[word-pada](balasaṃvartanīcchāyā) [word-pada](dṛṣṭi) [word-pada](bhāvāśritā) [word-pada](sadā)
 
 ## mukta-m0-p04-v90
-[gloss](karuṇādbhutaśāntāśca) [gloss](navabhāvātmikāḥ) [gloss](kvacit)
+[word-pada](karuṇādbhutaśāntāśca) [word-pada](navabhāvātmikāḥ) [word-pada](kvacit)
 
 ## mukta-m0-p04-v91
-[gloss](svecchayā) [gloss](pūjayedetanmṛnmayānyucyate) [gloss](adhunā)
+[word-pada](svecchayā) [word-pada](pūjayedetanmṛnmayānyucyate) [word-pada](adhunā)
 
 ## mukta-m0-p04-v92
-[gloss](sadyomantreṇa) [gloss](cāpakvaṃ) [gloss](kramānnavakarādikam)
+[word-pada](sadyomantreṇa) [word-pada](cāpakvaṃ) [word-pada](kramānnavakarādikam)
 
 ## mukta-m0-p04-v93
-[gloss](dvijādijātibhirmṛdbhiravyaktādi) [gloss](ca) [gloss](kāmataḥ)
+[word-pada](dvijādijātibhirmṛdbhiravyaktādi) [word-pada](ca) [word-pada](kāmataḥ)
 
 ## mukta-m0-p04-v94
-[gloss](vāpīkūpataḍāgeṣu) [gloss](dīrghikāyāḥ) [gloss](samāharet)
+[word-pada](vāpīkūpataḍāgeṣu) [word-pada](dīrghikāyāḥ) [word-pada](samāharet)
 
 ## mukta-m0-p04-v95
-[gloss](puṣṭyai) [gloss](trilohagarbhaṃ) [gloss](ca) [gloss](dhanakoṣavivṛddhaye)
+[word-pada](puṣṭyai) [word-pada](trilohagarbhaṃ) [word-pada](ca) [word-pada](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[gloss](vāmākhyena) [gloss](citāṃ) [gloss](kṛtvā) [gloss](ghoreṇa) [gloss](paridāhya) [gloss](ca)
+[word-pada](vāmākhyena) [word-pada](citāṃ) [word-pada](kṛtvā) [word-pada](ghoreṇa) [word-pada](paridāhya) [word-pada](ca)
 
 ## mukta-m0-p04-v97
-[gloss](īśānena) [gloss](gṛhītvā) [gloss](tu) [gloss](tataḥ) [gloss](saṃskṛtya) [gloss](pūjayet)
+[word-pada](īśānena) [word-pada](gṛhītvā) [word-pada](tu) [word-pada](tataḥ) [word-pada](saṃskṛtya) [word-pada](pūjayet)
 
 ## mukta-m0-p04-v98
-[gloss](sarjahiṅgupuraṃbola) [gloss](matasītailameva) [gloss](ca)
+[word-pada](sarjahiṅgupuraṃbola) [word-pada](matasītailameva) [word-pada](ca)
 
 ## mukta-m0-p04-v99
-[gloss](mṛdi) [gloss](kṣiptvā) [gloss](vyavasthāpya) [gloss](māsaṃ) [gloss](tāṃ) [gloss](parimṛdya) [gloss](ca)
+[word-pada](mṛdi) [word-pada](kṣiptvā) [word-pada](vyavasthāpya) [word-pada](māsaṃ) [word-pada](tāṃ) [word-pada](parimṛdya) [word-pada](ca)
 
 ## mukta-m0-p04-v100
-[gloss](śaṇatatvanvitaṃ) [gloss](katvā) [gloss](mṛnmayaṃ) [gloss](ghaṭayecchubham)
+[word-pada](śaṇatatvanvitaṃ) [word-pada](katvā) [word-pada](mṛnmayaṃ) [word-pada](ghaṭayecchubham)
