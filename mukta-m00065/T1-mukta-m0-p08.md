@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-etat=this siddham=accomplished sadā=always śaivam=śaiva guru-rūpam=guru-form ajanmakam=unborn
+[this-accomplished](etat-siddham) [always](sadā) [shaiva](śaivam) [guru-form](guru-rūpam) [unborn](ajanmakam)
 
 ## mukta-m0-p08-v177
-śiva-anta-nāmakāḥ=named-ending-in-śiva sarve=all bhasma-aṅgāḥ=ash-limbed brahmacāriṇaḥ=celibates
+[all](sarve) [shiva-end-named](śivānta-nāmakāḥ) [ash-smeared](bhasmāṅgā) [brahmacharins](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-viśeṣayātu=let-distinguish sāmānyā=common guruḥ=teacher api=also evam=thus eva=indeed tu=but
+[distinguish](viśeṣayātu) [common](sāmānyā) [guru](guruḥ) [also](api) [thus](evam) [indeed](eva) [but](tu)
 
 ## mukta-m0-p08-v179
-ambhojam=lotus paṅkajam=mud-born yadvat=just-as tadvat=so śaivāḥ=śaivas na=not cetare=others
+[lotus](ambhojam) [mud-born](paṅkajam) [as](yadvat) [so](tadvat) [shaivas](śaivāḥ) [not](na) [others](cetare)
 
 ## mukta-m0-p08-v180
-tathaiva=likewise śiva-liṅgānām=of-śiva-liṅgas śaivāḥ=śaivas pāśupata-ādayaḥ=pāśupatas-etc
+[thus](tathaiva) [of-shiva-lingas](śivaliṅgānām) [shaivas](śaivāḥ) [pashupatas-etc](pāśupatādayaḥ)
 
 ## mukta-m0-p08-v181
-liṅga-bheda-phalaiḥ=by-liṅga-difference-fruits yuktaḥ=joined yāti=goes asau=that-one rauravam=raurava dhruvam=certainly
+[by-linga-difference-fruits](liṅgabheda-phalaiḥ) [joined](yuktaḥ) [goes](yāti) [he](asau) [to-raurava](rauravam) [certainly](dhruvam)
 
 ## mukta-m0-p08-v182
-anyathā=otherwise pāpa-kārī=sin-doer syāt=would-be iti=thus ājñā=command pārameśvarī=supreme-lord's
+[otherwise](anyathā) [sinner](pāpakārī) [would-be](syāt) [thus-command](ityājñā) [parameshvari](pārameśvarī)
 
 ## mukta-m0-p08-v183
-brahmacārī-gṛhastha-tva-bheda-bhinnam=split-by-celibate-householder-distinction dvidhā=in-two sthitam=established
+[brahmachari-householder-distinction](brahmacārī-gṛhastha-tva-bhedena) [twofold](dvidhā) [established](sthitam)
 
 ## mukta-m0-p08-v184
-kāmya-kāmi-kriyām=desire-desiring-rite vacmi=I-speak sāmpratam=now saṃprabhedataḥ=in-detail
+[desirable-and-desireless-rites](kāmya-kāmi-kriyām) [I-speak](vacmi) [now](sāmpratam) [distinctly](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-bhukti-mukti-icchukaḥ=desiring-enjoyment-liberation kāmī=desirer kuryāt=should-do dīkṣā-ādi-ājñayā=by-initiation-etc-command
+[enjoyment-liberation-desiring](bhukti-mukti-icchukaḥ) [desirer](kāmī) [should-do](kuryāt) [initiation-etc](dīkṣā-ādi) [by-command](ājñayā)
 
 ## mukta-m0-p08-v186
-pratiṣṭhā-ādi-kriyā-śeṣā=remaining-installation-etc-rites tat-kṛtā=done-by-that saṃpraśasyate=highly-praised
+[consecration-etc-rites-all](pratiṣṭhā-ādi-kriyā-śeṣāḥ) [by-him-done](tatkṛtāḥ) [praised](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-śiva-adhikāra-vṛttiḥ=one-following-śiva-authority yaḥ=who sa=he sāntānikaḥ=sāntānika ucyate=is-called
+[shaiva-authority-practice](śivādhikāra-vṛttiḥ) [who](yaḥ) [he](saḥ) [sāntānika](sāntānikaḥ) [called](ucyate)
 
 ## mukta-m0-p08-v188
-paścāt=afterwards kuryāt=should-do vivāham=marriage ca=and gṛhasthaḥ=householder sa=he vatārpakaḥ=vatārpaka
+[afterwards](paścāt) [should-do](kuryāt) [marriage](vivāham) [and](ca) [householder](gṛhasthaḥ) [he](saḥ) [vatārpaka](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-bhaikṣyāśī=begging-food saṃyata-ātmā=restrained-self ca=and vratī=vow-keeper sa=he parikīrtitaḥ=renowned
+[alms-eater](bhaikṣyāśī) [restrained-self](saṃyatātmā) [and](ca) [vow-holder](vratī) [he](saḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-puṣpa-pāta-abhidhānam=flower-falling-named tu=but maṭhī=maṭhī mudrābhiḥ=with-mudrās iṣyate=is-desired
+[flower-fall-named](puṣpa-pāta-abhidhānam) [but](tu) [maṭhī](maṭhī) [with-mudras](mudrābhiḥ) [desired](iṣyate)
 
 ## mukta-m0-p08-v191
-sad-vastram=good-cloth añjanam=ointment tailam=oil nayate=carries ramate=enjoys hi=indeed tam=him
+[good-cloth](sadvasttram) [collyrium](añjanam) [oil](tailam) [carries](nayate) [enjoys](ramate) [indeed](hi) [him](tam)
 
 ## mukta-m0-p08-v192
-mākṣāya=for-honey vratinaṃ=vow-keeper ca=and eva=indeed varayet=should-choose matimān=wise naraḥ=man
+[for-honey](mākṣāya) [vow-holder](vratinaṃ) [and](ca) [indeed](eva) [should-choose](varayet) [wise-man](matimān) [man](naraḥ)
 
 ## mukta-m0-p08-v193
-laukikaḥ=worldly dravya-bhāgī=share-of-goods syāt=would-be vidyā-bhāk=share-of-knowledge pāralaukikaḥ=otherworldly
+[worldly](laukikaḥ) [wealth-sharer](dravya-bhāgī) [is](syāt) [knowledge-sharer](vidyā-bhāk) [transcendent](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-bhrātṛṇam=brother guru-abhāve=in-absence-of-teacher syāt=would-be gṛhasthānām=of-householders sva-putrakam=own-son
+[of-brothers](bhrātṛṇām) [in-guru-absence](guru-abhāve) [is](syāt) [of-householders](gṛhasthānām) [own-son](sva-putrakam)
 
 ## mukta-m0-p08-v195
-ayogyāḥ=unfit śiva-kāryeṣu=in-śiva-works ghaṇṭā-sambandhinaḥ=bell-associated haret=should-remove
+[unfit](ayogyāḥ) [for-shiva-works](śiva-kāryeṣu) [bell-connected](ghaṇṭā-sambandhinaḥ) [should-remove](haret)
 
 ## mukta-m0-p08-v196
-ṛṇe=in-debt dravye=in-goods ca=and piṇḍe=in-offering ca=and sa=he eva=indeed ekaḥ=one praśasyate=praised
+[in-debt](ṛṇe) [in-wealth](dravye) [and](ca) [in-piṇḍa](piṇḍe) [and](ca) [he](saḥ) [indeed](eva) [one](ekaḥ) [praised](praśasyate)
 
 ## mukta-m0-p08-v197
-catur-gocara-madhye=in-four-cow-range ca=and śaivaḥ=śaiva jyeṣṭhāyate=becomes-eldest param=supreme
+[in-four-cow-range](catur-gocara-madhye) [and](ca) [shaiva](śaivaḥ) [eldest](jyeṣṭhāyate) [supreme](param)
 
 ## mukta-m0-p08-v198
-śaiva-ācāryaḥ=śaiva-teacher tataḥ=then śreṣṭhaḥ=best sthāpayet=should-install sarva-devatāḥ=all-deities
+[shaiva-acharya](śaivācāryaḥ) [then](tataḥ) [best](śreṣṭhaḥ) [should-establish](sthāpayet) [all-deities](sarva-devatāḥ)
 
 ## mukta-m0-p08-v199
-bhukti-mukti-pradātā=giver-of-enjoyment-liberation ca=and na=not anyaḥ=other vai=indeed viśvakṛt=world-maker guruḥ=teacher
+[enjoyment-liberation-giver](bhukti-mukti-pradātā) [and](ca) [not-other](nānyaḥ) [indeed](vai) [world-maker-guru](viśvakṛt-guruḥ)
 
 ## mukta-m0-p08-v200
-tad-abhāve=in-absence-of-that tu=but kartavyāḥ=should-be-done sva-deva-vrata-cāriṇaḥ=own-deity-vow-performers
+[in-his-absence](tad-abhāve) [but](tu) [should-do](kartavyāḥ) [own-deity-vow-performers](sva-deva-vrata-cāriṇaḥ)
