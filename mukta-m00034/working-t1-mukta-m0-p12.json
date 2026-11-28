@@ -20,7 +20,7 @@
 },
 {
 "surface": "sidhyenna",
-"quick_gloss": "succeeds-not"
+"quick_gloss": "would-not-be-accomplished"
 },
 {
 "surface": "kathañcana",
@@ -41,19 +41,23 @@
 "tokens": [
 {
 "surface": "parasya",
-"quick_gloss": "of-other"
+"quick_gloss": "other's"
 },
 {
-"surface": "apara+niṣṭhatvāt",
-"quick_gloss": "inferior-steadfastness"
+"surface": "aparaniṣṭhatvāt",
+"quick_gloss": "non-finality"
 },
 {
-"surface": "na+tva+ekyaṃ",
-"quick_gloss": "no-nature-identity"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "cit+jaḍa+ātmanoḥ",
-"quick_gloss": "of-conscious-and-inert-selves"
+"surface": "tvaikyaṃ",
+"quick_gloss": "unity"
+},
+{
+"surface": "cijjaḍātmanoḥ",
+"quick_gloss": "conscious-and-inert-selves"
 }
 ]
 },
@@ -65,8 +69,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+ullekha+rekhā+saṃsthānaṃ",
-"quick_gloss": "own-line-form"
+"surface": "svollekharekhāsaṃsthānaṃ",
+"quick_gloss": "self-drawn-line-configuration"
 },
 {
 "surface": "tat",
@@ -77,7 +81,7 @@
 "quick_gloss": "independent"
 },
 {
-"surface": "cit+ātmakam",
+"surface": "cidātmakam",
 "quick_gloss": "conscious-natured"
 }
 ]
@@ -90,16 +94,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "indriya+dvārataḥ",
-"quick_gloss": "through-senses"
+"surface": "indriyadvārataḥ",
+"quick_gloss": "sense-door"
 },
 {
 "surface": "paścād",
-"quick_gloss": "afterwards"
+"quick_gloss": "after"
 },
 {
-"surface": "bhāva+ābhāsaḥ",
-"quick_gloss": "appearance-of-beings"
+"surface": "bhāvābhāsaḥ",
+"quick_gloss": "appearance-of-being"
 },
 {
 "surface": "pravartate",
@@ -115,24 +119,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+atra",
-"quick_gloss": "that-here"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "yāvat",
-"quick_gloss": "as-much-as"
+"quick_gloss": "as-long-as"
 },
 {
 "surface": "guruṇā",
 "quick_gloss": "by-guru"
 },
 {
-"surface": "viśvasya",
-"quick_gloss": "of-world"
-},
-{
-"surface": "udaya+saṃsthitiḥ",
-"quick_gloss": "arising-and-establishment"
+"surface": "viśvasyodayasaṃsthitiḥ",
+"quick_gloss": "world's-rising-and-establishment"
 }
 ]
 },
@@ -156,7 +160,7 @@
 "quick_gloss": "of-wheels"
 },
 {
-"surface": "svarūpa+pratipādanam",
+"surface": "svarūpapratipādanam",
 "quick_gloss": "own-nature-exposition"
 }
 ]
@@ -169,12 +173,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āraghaṭṭa+ghaṭī+yantra+nyāyena",
-"quick_gloss": "waterwheel-contrivance"
+"surface": "āraghaṭṭaghaṭīyantranyāyena",
+"quick_gloss": "water-wheel-mechanism-analogy"
 },
 {
 "surface": "etāvataḥ",
-"quick_gloss": "so-much"
+"quick_gloss": "to-this-extent"
 },
 {
 "surface": "sadā",
@@ -190,8 +194,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ane+ka+krama+yogena",
-"quick_gloss": "by-one-or-many-gradual-means"
+"surface": "anekakramayogena",
+"quick_gloss": "by-one-or-many-sequence-yoga"
 },
 {
 "surface": "api",
@@ -215,23 +219,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śūnyāt+ārabhya",
+"surface": "śūnyād",
 "quick_gloss": "from-void"
 },
 {
-"surface": "deha+antaṃ",
+"surface": "ārabhya",
+"quick_gloss": "beginning"
+},
+{
+"surface": "dehāntaṃ",
 "quick_gloss": "to-body-end"
 },
 {
-"surface": "saṅkoca+ātmā",
-"quick_gloss": "contracted-natured"
+"surface": "saṅkocātmā",
+"quick_gloss": "contraction-natured"
 },
 {
 "surface": "hi",
 "quick_gloss": "indeed"
 },
 {
-"surface": "yo+agrataḥ",
+"surface": "yo'grataḥ",
 "quick_gloss": "who-before"
 }
 ]
@@ -244,19 +252,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+atra",
-"quick_gloss": "that-here"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "yāvat",
-"quick_gloss": "as-much-as"
+"quick_gloss": "as-long-as"
 },
 {
 "surface": "saṃsāraḥ",
-"quick_gloss": "worldly-existence"
+"quick_gloss": "saṃsāra"
 },
 {
-"surface": "tattad+rūpatayā",
+"surface": "tattadrūpatayā",
 "quick_gloss": "in-that-form"
 },
 {
@@ -277,7 +289,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bhāva+tyāgataḥ",
+"surface": "bhāvatyāgataḥ",
 "quick_gloss": "from-abandonment-of-being"
 },
 {
@@ -285,11 +297,11 @@
 "quick_gloss": "liberation"
 },
 {
-"surface": "na+api",
+"surface": "na",
 "quick_gloss": "nor"
 },
 {
-"surface": "bhāva+upabhogataḥ",
+"surface": "bhāvopabhogataḥ",
 "quick_gloss": "from-enjoyment-of-being"
 }
 ]
@@ -306,20 +318,20 @@
 "quick_gloss": "from-non-attachment"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "āgrahāt+vā",
-"quick_gloss": "from-attachment"
+"surface": "āgrahādvā",
+"quick_gloss": "or-from-attachment"
 },
 {
 "surface": "kasyacit",
 "quick_gloss": "of-anyone"
 },
 {
-"surface": "na+api",
-"quick_gloss": "nor"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "tāttvikī",
@@ -335,16 +347,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yad+apekṣā+vaśāt",
-"quick_gloss": "on-whose-dependence"
+"surface": "yadapekṣā",
+"quick_gloss": "whose-dependence"
+},
+{
+"surface": "vaśāt",
+"quick_gloss": "by-power"
 },
 {
 "surface": "sarvāḥ",
 "quick_gloss": "all"
 },
 {
-"surface": "saṃsāra+anya",
-"quick_gloss": "worldly-existences"
+"surface": "saṃsāronyā",
+"quick_gloss": "saṃsāra-other"
 },
 {
 "surface": "vimuktayaḥ",
@@ -360,12 +376,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṅkoca+dalanā+abhyāsāt",
-"quick_gloss": "by-practice-of-contracting"
+"surface": "saṅkocadalanābhyāsāt",
+"quick_gloss": "by-practice-of-crushing-contraction"
 },
 {
-"surface": "vāsanā+ālaya+bhūmi+gam",
-"quick_gloss": "to-vasana-ground"
+"surface": "vāsanālayabhūmigam",
+"quick_gloss": "to-habitat-ground"
 }
 ]
 },
@@ -377,19 +393,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛnda+kramasya",
-"quick_gloss": "of-swarm-sequence"
+"surface": "vṛndakramasya",
+"quick_gloss": "of-cluster-sequence"
 },
 {
 "surface": "saṃsthānaṃ",
-"quick_gloss": "arrangement"
+"quick_gloss": "configuration"
 },
 {
 "surface": "kathyate",
-"quick_gloss": "is-told"
+"quick_gloss": "is-said"
 },
 {
-"surface": "guru+anugrahāt",
+"surface": "gurvanugrahāt",
 "quick_gloss": "by-guru-grace"
 }
 ]
@@ -414,7 +430,7 @@
 "quick_gloss": "suddenly"
 },
 {
-"surface": "sva+svarūpe",
+"surface": "svasvarūpe",
 "quick_gloss": "in-own-nature"
 },
 {
@@ -436,11 +452,11 @@
 },
 {
 "surface": "pratipādyante",
-"quick_gloss": "are-expounded"
+"quick_gloss": "are-taught"
 },
 {
-"surface": "cārvāka+advaya+vādibhiḥ",
-"quick_gloss": "by-cārvāka-and-dualists"
+"surface": "cārvākādvayavādibhiḥ",
+"quick_gloss": "by-cārvāka-and-non-dualists"
 }
 ]
 },
@@ -457,14 +473,14 @@
 },
 {
 "surface": "jaḍāḥ",
-"quick_gloss": "inert-ones"
+"quick_gloss": "inert"
 },
 {
 "surface": "vipralamyante",
 "quick_gloss": "are-deceived"
 },
 {
-"surface": "sadṛśaiḥ+abhidhāyakaiḥ",
+"surface": "sadṛśairabhidhāyakaiḥ",
 "quick_gloss": "by-similar-expressers"
 }
 ]
@@ -477,16 +493,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahānaya+upadeśena",
-"quick_gloss": "by-great-doctrine-teaching"
+"surface": "mahānayopadeśena",
+"quick_gloss": "by-great-system-teaching"
 },
 {
 "surface": "pātyete",
-"quick_gloss": "are-thrown-down"
+"quick_gloss": "are-struck-down"
 },
 {
-"surface": "sva+para+avadhaḥ",
-"quick_gloss": "self-and-other-destruction"
+"surface": "svaparāvadhaḥ",
+"quick_gloss": "self-and-other-boundary"
 }
 ]
 },
@@ -499,10 +515,10 @@
 "tokens": [
 {
 "surface": "sthitaḥ",
-"quick_gloss": "stands"
+"quick_gloss": "established"
 },
 {
-"surface": "saṅkoca+saṃskāraḥ",
+"surface": "saṅkocasaṃskāraḥ",
 "quick_gloss": "contraction-impression"
 },
 {
@@ -514,7 +530,7 @@
 "quick_gloss": "talk"
 },
 {
-"surface": "anyeṣu+jantuṣu",
+"surface": "anyeṣu jantuṣu",
 "quick_gloss": "in-other-beings"
 }
 ]
@@ -527,8 +543,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+āgraha+grāha+vaśāt",
-"quick_gloss": "from-all-attachments-grasping"
+"surface": "sarvāgrahagrāhavaśāt",
+"quick_gloss": "by-power-of-all-attachment-grasping"
 },
 {
 "surface": "jīvanmuktiḥ",
@@ -548,8 +564,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avikalpa+vikalpa+ātma+sthairya+rūpatayā",
-"quick_gloss": "as-steadiness-of-thought-and-thoughtlessness"
+"surface": "avikalpavikalpātmasthairyarūpatayā",
+"quick_gloss": "non-conceptual-and-conceptual-self-stability-nature"
 },
 {
 "surface": "punaḥ",
@@ -565,12 +581,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānāvidha+āgraha+granthi",
-"quick_gloss": "by-various-attachments-knots"
-},
-{
-"surface": "vāsanā+vedha+bṛṃhitaḥ",
-"quick_gloss": "vasana-perforation-strengthened"
+"surface": "nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ",
+"quick_gloss": "various-attachment-knot-habit-piercing-augmented"
 }
 ]
 },
@@ -586,8 +598,8 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "saṃhāra+rūpaḥ",
-"quick_gloss": "dissolution-form"
+"surface": "saṃhārarūpaḥ",
+"quick_gloss": "dissolution-natured"
 },
 {
 "surface": "ayaṃ",
@@ -615,12 +627,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "svarūpa+dārḍhyena",
+"surface": "svarūpadārḍhyena",
 "quick_gloss": "by-own-nature-firmness"
 },
 {
-"surface": "sarva+āvaraṇa+bhedinā",
-"quick_gloss": "all-covering-destroying"
+"surface": "sarvāvaraṇabhedinā",
+"quick_gloss": "all-covering-breaking"
 }
 ]
 }
