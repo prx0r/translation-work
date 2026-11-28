@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
+[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-unbroken-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[śiva](śivaṃ) [should-offer](nivedayen) [on-head](mūrdhni) [by-exhalation](recakena) [nectar-made](āmṛtīkṛtam)
+[śiva](śivaṃ) [offer](nivedayen) [on-head](mūrdhni) [by-exhalation](recakena) [made-nectar](āmṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
 [morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [should-do](kuryāt) [according-to-wealth](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-pours](jalāntaraiḥ) [sprinkling](virukṣaṇam)
+[with-five](pañcabhiḥ) [sweet-snacks](madhuraiḥ) [bathing](snānaṃ) [with-water-intervals](jalāntaraiḥ) [drying](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [should-worship](prapūjayet)
+[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [offering](pradāya) [then](atha) [anointing](samālabhya) [worship](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
+[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [jar](ghaṭa) [fly-whisk](ācāmara) [ornaments](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[with-banana-mango-garlands](kadalīcūtamālābhiḥ) [born-seed-fragrant](jātabījasarocakaiḥ)
+[banana](kadalī) [mango](cūta) [with-garlands](mālābhiḥ) [begotten](jāta) [seed](bīja) [with-splendor](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[with-dance-song](nṛtyagītaiḥ) [sweet](kalaiḥ) [with-instruments](vādyaiḥ) [should-spend-night](nayed) [great-festivals](mahotsavaiḥ)
+[dance](nṛtya) [songs](gītaiḥ) [arts](kalaiḥ) [instruments](vādyaiḥ) [spend](nayed) [night](rātriṃ) [great-festivals](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[with-devotion](bhaktyā) [should-please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
+[with-devotion](bhaktyā) [satisfy](santoṣayet) [all](sarvān) [cloth](vastra) [gift](dāna) [etc](ādi) [feasts](bhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[all-sins-freed](sarvapāpavinirmuktaḥ) [in-rudra-world](rudraloke) [is-honored](mahīyate)
+[all](sarva) [sin](pāpa) [freed](vinirmuktaḥ) [in-rudra-world](rudraloke) [exalted](mahīyate)
 
 ## mukta-m0-p123-v3061
-[false-speech-on-bed](khaṭvāśayanamithyokti) [women-travel-meat-avoider](strīyātrāmiṣavarjakaḥ)
+[bed](khaṭvā) [sleeping](śayana) [false](mithyā) [speech](ukti) [woman](strī) [travel](yātrā) [meat](miṣa) [avoider](varjakaḥ)
 
 ## mukta-m0-p123-v3062
-[worship](pūjāṃ) [having-done](kṛtvā) [śiva](śivaṃ) [having-bowed](natvā) [purifier](pavitraṃ) [and](ca) [should-release](visarjayet)
+[worship](pūjāṃ) [doing](kṛtvā) [śiva](śivaṃ) [bowing](natvā) [purifier](pavitraṃ) [and](ca) [dismiss](visarjayet)
 
 ## mukta-m0-p123-v3063
-[having-done](kṛtvā) [should-throw](kṣipet) [purifiers](pavitrāṇi) [in-śiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
+[doing](kṛtvā) [throw](kṣipet) [purifiers](pavitrāṇi) [in-śiva-fire](śivāgnau) [or](vā) [always](sadā) [in-water](ambhasi)
 
 ## mukta-m0-p123-v3064
-[becomes](syāt) [expiation-descending](prāyaścityadhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [million-times](koṭiśaḥ)
+[may-be](syāt) [penance](prāyaścitta) [down-going](adhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [year](abda) [ten-million](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[copper-liṅga-worship-sun](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
+[copper](tāmra) [liṅga](liṅga) [by-worship](arcanāt) [sun](arkaḥ) [demon](piśācaḥ) [bamboo](vaṃśa) [from-birth](sambhavāt)
 
 ## mukta-m0-p123-v3066
-[lead-born](sīsajā) [yakṣas](dguhyakāḥ) [all](sarve) [iron](lohāt) [rākṣasa-asura-ender](rakṣo'surāntakāḥ)
+[lead](sīsa) [born](jā) [guhyakas](guhyakāḥ) [all](sarve) [iron](loha) [demon](rakṣaḥ) [asura](asura) [destroyers](antakāḥ)
 
 ## mukta-m0-p123-v3067
-[from-ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [from-sapphire](indranīlāt) [worship](arcana) [hari](hariḥ)
+[ruby](padmarāga) [fire](hutāśaḥ) [and](ca) [sapphire](indranīla) [by-worship](arcanāt) [viṣṇu](hariḥ)
 
 ## mukta-m0-p123-v3068
-[from-coral](vaidrumāt) [worship](arcana) [serpents](nāgāḥ) [śukra](śukraḥ) [from-cat's-eye](kārketanāt) [always](sadā)
+[coral](vaidruma) [mouth](āsya) [by-worship](arcanāt) [serpents](nāgāḥ) [venus](śukraḥ) [agate](kārketana) [always](sadā)
 
 ## mukta-m0-p123-v3069
-[paulastya](paulastyo) [from-jīva-species](jīvajātibhyaḥ) [eight](aṣṭai) [from-ṭṭibha](ṭṭibhāt) [siddhas-kinnaras](siddhakinnarāḥ)
+[pulastya](paulastya) [jupiter](jīva) [from-castes](jātibhyaḥ) [siddha](siddha) [kinnaras](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[aśvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvāḥ) [from-wife-birth](dārasambhavāt)
+[aśvins](aśvinau) [cooked](pakva) [clay](mṛd) [from-being](bhūtāt) [gandharvas](gandharvāḥ) [wife](dāra) [from-birth](sambhavāt)
 
 ## mukta-m0-p123-v3071
-[kūrma-kuśi](kūrmakauśi) [from-kasi](kasi) [from-birth](bhūtāt) [vāsuki-nayināyaka](vāsukinayināyakaḥ)
+[tortoise](kūrma) [vasuki](vāsuki) [leader](nāyakaḥ)
 
 ## mukta-m0-p123-v3072
-[from-liṅga-establishment-worship](liṅgasaṃsthāpanārcanāt)
+[liṅga](liṅga) [installation](saṃsthāpana) [by-worship](arcanāt)
 
 ## mukta-m0-p123-v3073
-[somapas](somapāḥ)
+[soma-drinkers](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[various-fruit-born-liṅgas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
+[various](nānā) [fruit](phala) [arisen](uttha) [liṅgas](liṅgāni) [by-rite](vidhinā) [worshipped](sevitāni) [and](ca)
 
 ## mukta-m0-p123-v3075
-[from-sand](saikatāt) [viśvakarmā](viśvakarmā) [and](ca) [śacī-lord](śacīśaḥ) [from-salt](lavaṇaḥ) [born](dbhavāt)
+[sand](saikata) [viśvakarma](viśvakarmā) [and](ca) [indra](śacīśa) [salt](lavaṇa) [from-birth](bhavāt)
