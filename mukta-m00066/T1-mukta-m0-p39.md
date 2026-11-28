@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kameshvari-mantra](kāmeśvarīmanuṃ) [and](ca) [indeed](eva) [five-vidyas-mantra-remember](paṃcavidyāmanusmaret)
+kāmeśvarī-manuṃ + ca + eva + paṃcavidyā-manuṃ + anusmaret
 
 ## mukta-m0-p39-v952
-[by-this-also](anenāpi) [and](ca) [yoga](yogena) [if](yadi) [she](sā) [not](na) [indeed](hi) [melt](vidravet)
+anena + api + ca + yogena + yadi + sā + na + hi + vidravet
 
 ## mukta-m0-p39-v953
-[should-use](prāyuṃjīta) [rite](vidhānena) [chanting](japannamṛtanāyikām)
+prāyuṃjīta + vidhānena + japann + amṛtanāyikām
 
 ## mukta-m0-p39-v954
-[ghattali-lakaya-atah](ghaṭṭālīlakayāmātaḥ) [agitate](kṣobhayenmadanālayam)
+ghaṭṭa-ālīlaka-yā + amātaḥ + kṣobhayet + madanālayam
 
 ## mukta-m0-p39-v955
-[by-that](tena) [dratyati-cira](dratyatīcīra) [drava-chandra-kala-sira](dravācaṃdrakalāsirā)
+tena + dratyatīcīra + dravā + caṃdrakalā + sirā
 
 ## mukta-m0-p39-v956
-[very-secret-great-vidya](atiguptamahāvidyā) [own-forms](svarūpāḥ) [shaila-nandini](śailanaṃdinī)
+atigupta-mahāvidyā + svarūpāḥ + śailanaṃdinī
 
 ## mukta-m0-p39-v957
-[if](yadi) [true](satyaṃ) [world-sustainer](jagaddhātā) [five-acts-bearer](paṃcakṛtyadharaḥ) [shiva](śivaḥ)
+yadi + satyaṃ + jagaddhātā + paṃcakṛtyadharaḥ + śivaḥ
 
 ## mukta-m0-p39-v958
-[if](yadi) [true](satyaṃ) [of-all](samastānāṃ) [scriptures](śāstrāṇāṃ) [goal-self-seer](gatirātmadṛk)
+yadi + satyaṃ + samastānāṃ + śāstrāṇāṃ + gatiḥ + ātmadṛk
 
 ## mukta-m0-p39-v959
-[if](yadi) [true](satyaṃ) [desire](ratiḥ) [kama](kāmo) [conquer](vijayetetvayā) [world](jagat)
+yadi + satyaṃ + ratiḥ + kāmaḥ + vijayeta + tvayā + jagat
 
 ## mukta-m0-p39-v960
-[if](yadi) [true](satyaṃ) [of-body-bearers](dehabhājāṃ) [of-all](sarveṣāṃ) [pleasure-giver-smara](sukhadaḥsmaraḥ)
+yadi + satyaṃ + dehabhājāṃ + sarveṣāṃ + sukhadaḥ + smaraḥ
 
 ## mukta-m0-p39-v961
-[if](yadi) [true](satyaṃ) [good-giving](sudātvaṃ) [ca](ca) [supreme-bliss-giver](paramānaṃda+dāyake)
+yadi + satyaṃ + sudātvaṃ + ca + paramānaṃda + dāyake
 
 ## mukta-m0-p39-v962
-[if](yadi) [true](satyaṃ) [by-all-worshipped](sarvapūjyā) [lion-throne](siṃhāsana) [maheshvari](maheśvarī)
+yadi + satyaṃ + sarvapūjyā + siṃhāsana + maheśvarī
 
 ## mukta-m0-p39-v963
-[if](yadi) [true](satyaṃ) [guru-command](gurorājñā) [everywhere-unfailing-rise](sarvatrāskhalitodayā)
+yadi + satyaṃ + gurorājñā + sarvatrāskhalitodayā
 
 ## mukta-m0-p39-v964
-[thus-eight-verse-path](ityaṣṭakārikāpāṭha) [immediately-then](samanaṃtarameva) [she](sā)
+iti + aṣṭakārikā + pāṭha + samanaṃtaram + eva + sā
 
 ## mukta-m0-p39-v965
-[by-that-nectar](tenāmṛtena) [pure](śuddhena) [cool](śītalena) [light](laghīyasā)
+tena + amṛtena + śuddhena + śītalena + laghīyasā
 
 ## mukta-m0-p39-v966
-[ganga-water-form](gaṃgodakasvarūpeṇa) [should-satisfy](tarpayelliṃgapāvakam)
+gaṃgodaka-svarūpeṇa + tarpayet + liṃgapāvakam
 
 ## mukta-m0-p39-v967
-[this](idaṃ) [sacrifice](yajña) [gift-limb](pradānāṃgamīyaṃ) [kaivalya-method](kaivalyapaddhatiḥ)
+idaṃ + yajña + pradānāṃga + mīyaṃ + kaivalyapaddhatiḥ
 
 ## mukta-m0-p39-v968
-[self-knowledge-fruit](ātmavidyāphalaṃ) [and-this](caitadātmavidyāphalaṃ) [but-this](tvidam)
+ātmavidyā-phalaṃ + ca + etat + ātmavidyā-phalaṃ + tu + idam
 
 ## mukta-m0-p39-v969
-[by-that](tena) [worshipped](saṃpūjitaścāsau) [bhima-state](bhīmatvaṃ) [to-him](tasya) [gives](yacchati)
+tena + saṃpūjitaḥ + ca + asau + bhīmatvaṃ + tasya + yacchati
 
 ## mukta-m0-p39-v970
-[with-devotee](sabhaktaḥ) [supreme-space](paramākāśa) [form-purity-gone](rūponirmalatāṃgataḥ)
+sabhaktaḥ + paramākāśa + rūpa + nirmalatāṃ + gataḥ
 
 ## mukta-m0-p39-v971
-[earth-etc-all-beings](bhūmyādi+sarvabhūtānāmavakāśa) [gives-himself](pradasvayam)
+bhūmyādi + sarvabhūtānām + avakāśa + pradasva + yam
 
 ## mukta-m0-p39-v972
-[not](na) [by-merits](puṇyairnna) [and](ca) [by-sins](pāpaiśca) [not](na) [dharma-adharma-breaks](dharmādharmabhaṅgibhiḥ)
+na + puṇyaiḥ + na + ca + pāpaiḥ + ca + na + dharmādharmabhaṅgibhiḥ
 
 ## mukta-m0-p39-v973
-[not](na) [by-harm-benefit](apakāropakāraiśca) [not](na) [by-poverty-prosperity](dāridryavibhūtibhiḥ)
+na + apakāra-upakāraiḥ + ca + na + dāridrya-vibhūtibhiḥ
 
 ## mukta-m0-p39-v974
-[not](na) [ca](ca) [by-bondage-liberation](baṃdhavimokṣābhyāṃ) [untouched](aspṛṣṭaścitsudhāmayaḥ)
+na + ca + baṃdhavimokṣābhyāṃ + aspṛṣṭaḥ + citsudhāmayaḥ
 
 ## mukta-m0-p39-v975
-[gandharva-city-form](gaṃdharva+nagarākāramapi) [and](ca) [experiences](anubhavatyataḥ)
+gaṃdharva-nagarākāram + api + ca + anubhavati + ataḥ
