@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "prāpya",
-"quick_gloss": "having-obtained"
+"quick_gloss": "reaching"
 },
 {
 "surface": "tatra",
@@ -20,11 +20,11 @@
 },
 {
 "surface": "dīptaratneṣu",
-"quick_gloss": "in-shining-jewels"
+"quick_gloss": "in-shining-gems"
 },
 {
 "surface": "veśmasu",
-"quick_gloss": "houses"
+"quick_gloss": "in-dwellings"
 }
 ]
 },
@@ -36,8 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmādidaṃ",
-"quick_gloss": "from-that-this"
+"surface": "tasmād",
+"quick_gloss": "therefore"
+},
+{
+"surface": "idaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "mahāyāgaṃ",
@@ -49,7 +53,7 @@
 },
 {
 "surface": "marutāmapi",
-"quick_gloss": "of-winds-even"
+"quick_gloss": "even-for-winds"
 }
 ]
 },
@@ -95,11 +99,11 @@
 },
 {
 "surface": "suśroṇi",
-"quick_gloss": "fair-hipped"
+"quick_gloss": "beautiful-hipped"
 },
 {
 "surface": "mārge",
-"quick_gloss": "path"
+"quick_gloss": "on-path"
 },
 {
 "surface": "jīvati",
@@ -127,7 +131,7 @@
 "quick_gloss": "in-mantra"
 },
 {
-"surface": "tu+karttavye",
+"surface": "tu karttavye",
 "quick_gloss": "to-be-done"
 },
 {
@@ -140,7 +144,7 @@
 },
 {
 "surface": "gurau",
-"quick_gloss": "in-teacher"
+"quick_gloss": "in-guru"
 }
 ]
 },
@@ -174,7 +178,7 @@
 },
 {
 "surface": "śilādārumṛdādikam",
-"quick_gloss": "stone-wood-earth-etc"
+"quick_gloss": "stone-wood-clay-etc"
 }
 ]
 },
@@ -216,7 +220,7 @@
 "tokens": [
 {
 "surface": "karmaśraddhā",
-"quick_gloss": "action-faith"
+"quick_gloss": "work-faith"
 },
 {
 "surface": "saṃpradāyā",
@@ -249,10 +253,10 @@
 },
 {
 "surface": "caṃḍālādyāś",
-"quick_gloss": "fierce-etc"
+"quick_gloss": "caṇḍāla-etc"
 },
 {
-"surface": "ca+jātayaḥ",
+"surface": "ca jātayaḥ",
 "quick_gloss": "castes"
 }
 ]
@@ -269,32 +273,20 @@
 "quick_gloss": "no-conduct"
 },
 {
-"surface": "na",
-"quick_gloss": "no"
+"surface": "na ca",
+"quick_gloss": "nor"
 },
 {
-"surface": "ca",
-"quick_gloss": "also"
-},
-{
-"surface": "vā+śaucaṃ",
+"surface": "vā śaucaṃ",
 "quick_gloss": "purity"
 },
 {
-"surface": "na",
-"quick_gloss": "no"
+"surface": "na vaiduṣyaṃ",
+"quick_gloss": "no-learning"
 },
 {
-"surface": "vaiduṣyaṃ",
-"quick_gloss": "scholarship"
-},
-{
-"surface": "na",
-"quick_gloss": "no"
-},
-{
-"surface": "dhīguṇāḥ",
-"quick_gloss": "intellect-virtues"
+"surface": "na dhīguṇāḥ",
+"quick_gloss": "no-intellect-qualities"
 }
 ]
 },
@@ -310,12 +302,8 @@
 "quick_gloss": "faith"
 },
 {
-"surface": "nāma",
-"quick_gloss": "named"
-},
-{
-"surface": "manaso",
-"quick_gloss": "mind"
+"surface": "nāmamanaso",
+"quick_gloss": "named-mind"
 },
 {
 "surface": "dṛḍhatā",
@@ -340,7 +328,7 @@
 },
 {
 "surface": "viśvāsamāpannaḥ",
-"quick_gloss": "faith-obtained"
+"quick_gloss": "faith-attained"
 },
 {
 "surface": "phalārthi",
@@ -360,8 +348,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brāhmaṇakṣatriya+viśā",
-"quick_gloss": "brahmin-kshatriya-vaishya"
+"surface": "brāhmaṇakṣatriya viśā",
+"quick_gloss": "brāhmaṇa-kṣatriya-vaiśya"
 },
 {
 "surface": "madhikāro'traśāsanam",
@@ -399,7 +387,7 @@
 "tokens": [
 {
 "surface": "vaiśyasya",
-"quick_gloss": "of-vaishya"
+"quick_gloss": "of-vaiśya"
 },
 {
 "surface": "paṇyalābhārdhaṃ",
@@ -407,7 +395,7 @@
 },
 {
 "surface": "sudrādernakadācana",
-"quick_gloss": "of-shudra-never"
+"quick_gloss": "of-śūdra-never"
 }
 ]
 },
@@ -457,7 +445,7 @@
 },
 {
 "surface": "mṛgīdṛśaḥ",
-"quick_gloss": "doe-eyed"
+"quick_gloss": "deer-eyed"
 }
 ]
 },
@@ -477,12 +465,8 @@
 "quick_gloss": "back-pure"
 },
 {
-"surface": "medhyā",
-"quick_gloss": "pure"
-},
-{
-"surface": "vaktreṇa",
-"quick_gloss": "by-mouth"
+"surface": "medhyāvaktreṇa",
+"quick_gloss": "pure-mouthed"
 },
 {
 "surface": "vādinaḥ",
@@ -502,7 +486,7 @@
 "quick_gloss": "woman-mouth"
 },
 {
-"surface": "tu+sadā",
+"surface": "tu sadā",
 "quick_gloss": "always"
 },
 {
@@ -519,7 +503,7 @@
 },
 {
 "surface": "vidyate",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 }
 ]
 },
@@ -532,7 +516,7 @@
 "tokens": [
 {
 "surface": "tābhirvinā",
-"quick_gloss": "by-them-without"
+"quick_gloss": "without-them"
 },
 {
 "surface": "na",
@@ -555,11 +539,7 @@
 "quick_gloss": "no"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "vratam",
+"surface": "vā vratam",
 "quick_gloss": "vow"
 }
 ]
@@ -630,7 +610,7 @@
 "quick_gloss": "messenger"
 },
 {
-"surface": "tena+budhaiḥ",
+"surface": "tena budhaiḥ",
 "quick_gloss": "by-wise"
 },
 {
@@ -660,7 +640,7 @@
 },
 {
 "surface": "bhogalakṣmīś",
-"quick_gloss": "enjoyment-lakshmi"
+"quick_gloss": "enjoyment-lakṣmī"
 },
 {
 "surface": "ca",
