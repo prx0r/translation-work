@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not anything+even know I lord-awaken awaken
+not(na) anything(kiṃcid) api(api) know(jānāmi) lord(nātha) awaken(bodhaya) awaken(bodhaya)
 
 ## mukta-m0-p36-v877
-this happiness-cause for welfare-sign for Shambhu
+this(etat) happiness-cause(saukhyanidānāya) well-being-sign(svastiliṃgāya) to-Śambhu(śaṃbhave)
 
 ## mukta-m0-p36-v878
-Shiva-offering this be again be Shiva-offering
+offering-to-Śiva(śivārpaṇam) this(idaṃ) may-be(bhūyāt) again(punar) let-be(astu) offering-to-Śiva(śivārpaṇam)
 
 ## mukta-m0-p36-v879
-withered lotus-stalk like garland-like his chest
+withered(mlānā) lotus-stalk(padmamṛṇālī) like(va) garland(mālikā) like(iva) his(asya) chest(vakṣasi)
 
 ## mukta-m0-p36-v880
-absorbed-absorbed-letter after slow-slow-letter again
+absorbed(līna) absorbed(līna) syllable(akṣaraṃ) afterwards(paścāt) slow(maṃda) slow(maṃda) syllable(akṣaraṃ) again(punaḥ)
 
 ## mukta-m0-p36-v881
-such-etc qualities messenger six-offering great-festival
+thus(evam) etc(ādi) qualities(guṇa) messenger(dūtyāḥ) six-offerings(ṣaḍāhuti) great-festival(mahotsave)
 
 ## mukta-m0-p36-v882
-sixth six-taste endowed many-food giving
+sixth(ṣaṣṭhi) six-tastes(ṣaḍrasa) endowed(saṃpanna) much-food(bahubhojana) giving(dāyinī)
 
 ## mukta-m0-p36-v883
-six-limb deity form all-water? hmm
+six-limbed-deity(ṣaḍaṃgadevatā) form(rūpā) always(sarvadā) action(kriyatāṃ) with-waters(budhaiḥ)
 
 ## mukta-m0-p36-v884
-heroine's and opening pleasure-rest proceeds
+heroine's(nāyikāyāḥ) and(ca) opening(vidṛtyā) comfort-rest(sukhaśrāṃtiḥ) proceeds(pravartate)
 
 ## mukta-m0-p36-v885
-sugar-nectar mixed purity-soup seasoned
+sugar-nectar-mixed(śarkarāmṛtasaṃmiśraṃ) pure-soup-seasoned(śuddhiyūṣasanādhitam)
 
 ## mukta-m0-p36-v886
-oneself that-remainder and drink devotion burden bowed
+oneself(svayaṃ) that(tad) remainder(avaśiṣṭaṃ) and(ca) drink(pibed) devotion(bhakti) burdened(bharānataḥ)
 
 ## mukta-m0-p36-v887
-mantra and Ananda-deva's hundred-or thousand-times
+mantra(maṃtraṃ) and(ca) Ānandadeva's(ānaṃdadevasya) hundreds(śataśaḥ) or(sahasraśaḥ)
 
 ## mukta-m0-p36-v888
-improper-yantra recite deity-curse obtain
+improper-instrument(ayuktayaṃtraḥ) recite(prajaped) deity-curse(devatāśāpam) obtain(āpnuyāt)
 
 ## mukta-m0-p36-v889
-thus recited supreme-bliss-form linga-Maheshvara
+thus(evaṃ) recited(japte) supreme-bliss-form(parānaṃdarūpi) liṅga-maheśvara(liṃgamaheśvaraḥ)
 
 ## mukta-m0-p36-v890
-as-long recites hero this messenger-rest cause
+as-long-as(yāvat) recites(japati) hero(vīraḥ) this(iyaṃ) messenger-rest(dūtiviśrāṃti) for(hetave)
 
 ## mukta-m0-p36-v891
-thus order rest gone messenger-body
+thus(iththaṃ) in-order(krameṇa) rest(viśrāṃtiṃ) having-gone(gatāyāṃ) messenger-body(dūtikātanau)
 
 ## mukta-m0-p36-v892
-moon-crescent for penis raised moon-moonlight
+moon-crescent-meaning(caṃdrarekhārthāṃ) with-ball(gulinā) raised(pronnatā) moonlight(caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v893
-flax flower-like triangle-form gone
+flax-flower(atasī) flower-like(puṣpasaṃkāśā) triangle-form(trikoṇākāratāṃ) gone(gatā)
 
 ## mukta-m0-p36-v894
-long-flowing even lord one arranged thumb kisses
+long-flowing(ciradravā) also(api) lord(nātha) one(eka) arranged(kluptaiḥ) thumb(cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-navel-slap falls buttocks hand-rubbing
+navel-slap(nābhaucapeṭa) falling(patanaiḥ) buttocks(nitaṃbe) hand-massage(hastamardanaiḥ)
 
 ## mukta-m0-p36-v896
-own-juice flowing indeed heroine-moon-moonlight
+own-essence(nijaṃrasaṃ) flowing(sravaṃtyeva) heroine-moonlight(nāyikācaṃdracaṃdrikā)
 
 ## mukta-m0-p36-v897
-flour-wine equal-joy arrow-flower intense-radiance
+rice-wine-fragrance(paiṣṭimadyasamāmodaṃ) arrow-flower-brilliance(bāṇapuṣpolbaṇadyuti)
 
 ## mukta-m0-p36-v898
-attainment-accomplishment-procreation all-sovereignty named speech
+attainment-success-progeny(prāptisiddhiprajananaṃ) all-sovereignty-named-speech(sarvaiśvaryākhyavāṅmayam)
 
 ## mukta-m0-p36-v899
-all-disease pacifying light-cool-pure
+all-disease-pacifying(samastavyādhiśamanaṃ) light-cool-pure(laghuśītalanirmalam)
 
 ## mukta-m0-p36-v900
-then recited mantra and Palamba presiding-deity
+then-recited(tadājapeditaṃ) mantra(maṃtraṃ) and(ca) Pālāmbā-deity(palāṃbādhidaivatam)
