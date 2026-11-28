@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-sūtra-madhye ardha-sūtreṇa matsyān koṇeṣu sarvataḥ
+[in-middle-of-thread](sūtramadhye) [by-half-thread](ardhasūtreṇa) [fishes](matsyān) [in-corners](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-veda-asram piṇḍikā-kṣetram kuṇḍānām api sarvadā
+[veda-corner](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [of-pits](kuṇḍānām) [also](api) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-madhyāt madhya-gatam sūtram koṇam saṃveṣṭya ca aparam
+[from-middle](madhyāt) [middle-gone](madhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [and-another](cāparam)
 
 ## mukta-m0-p52-v1279
-tat-sūtra-dvaya-saṃyogāt sādhayet vā tri-parṇikām
+[by-union-of-two-threads](tatsūtradvayasaṃyogāt) [would-accomplish](sādhayet) [or](vā) [three-leaved](triparṇikām)
 
 ## mukta-m0-p52-v1280
-saṃbhrāmya madhyataḥ sūtram sādhayet ardha-candrikām
+[whirling](saṃbhrāmya) [from-middle](madhyataḥ) [thread](sūtraṃ) [would-accomplish](sādhayet) [half-moon](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-rakṣaḥ agni saumya kāṣṭhāsu taḥ tri-sūtrī tri-koṇikām
+[in-demon-fire-north-east-directions](rakṣo'gnisaumyakāṣṭhāsu) [that](ta) [three-threaded-triangle](trisūtryatrikoṇikām)
 
 ## mukta-m0-p52-v1282
-madhya-adha-sūtra-saṃbhrāntaiḥ piṇḍikā vartulā bhavet
+[by-middle-lower-thread-whirling](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-turya-asra vṛttayoḥ madhye yama-indvoḥ sūtra-pātanam
+[between-fourth-corner-and-circle](turyāsravṛttayormadhye) [of-two](yamandvoḥ) [thread-falling](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-bhavet ṣaḍ-asrikā-piṇḍī śeṣa-rekhā-vilopanāt
+[becomes-six-cornered-pedestal](bhavetṣaḍasrikāpiṇḍī) [by-remaining-line-removal](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-sūtra-madhya-ardha sa-bṛttāt abjā syāt pūrva-coditā
+[from-thread-middle-half](sūtramadhyārdha) [with-round](sabṛttāt) [lotus](abjā) [is](syāt) [previously-stated](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-madhya-sūtra-ardha bhāgena koṇāni hrāsayet atha
+[by-middle-thread-half-portion](madhyasūtrārdhabhāgena) [corners](koṇāni) [would-diminish](hrāsayet) [then](atha)
 
 ## mukta-m0-p52-v1287
-koṇaiḥ sūtra-paricchinnaiḥ kuryāt aṣṭāsrikām sadā
+[by-corners](koṇaiḥ) [thread-bounded](sūtraparicchinnaiḥ) [would-make](kuryāt) [eight-cornered](aṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-saṃchidya asrīn ca saṃchidya kṛtvā tu daśamāstrikam
+[cutting-corners](saṃchidyāsrīṃśca) [and-cutting](saṃchidya) [having-made](kṛtvā) [then](tu) [ten-cornered](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-kartavyā ṣoḍaśa-aṃśaiḥ tu piṇḍikā keśava-āśrayā
+[to-be-made](kartavyā) [by-sixteen-parts](ṣoḍakāṃśaiḥ) [indeed](tu) [pedestal](piṇḍikā) [keśava-refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-pūrvavat ṣoḍaśa-aṃśaiḥ tu kuryāt dvātriṃśat-asrikām
+[as-before-by-thirty-two-parts](pūrvavatyoḍaśaṃśaiḥ) [indeed](tu) [would-make](kuryāt) [thirty-two-cornered](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-āgneyī bodhi-patrābhā pintara agni-dāha-kṛt
+[south-east](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [disease-fire-burning-causing](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-tri-koṇā rākṣasājām tu deśa-cchadakarī sadā
+[triangle](trikoṇā) [rākṣasa-born](rākṣasājāṃ) [indeed](tu) [region](deśaḥ) [covering-causing](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-vāyavyā ca ṣaḍ-asra uktā śatru-uccāṭana-kārikā
+[north-west](vāyavyā) [and](ca) [six-cornered-stated](ṣaḍasroktā) [enemy-expulsion-causing](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-raudrī tu aṣṭāsrikā jñeyā mukti-dā sāri-nāśinī
+[fiery](raudrī) [eight-cornered](aṣṭāsrikā) [to-be-known](jñeyā) [liberation-giving](muktidā) [enemy-destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-dvātriṃśat-asrikā vāhnī svarga-ākhyā-phala-dāyinī
+[thirty-two-cornered](dvātriṃśadasrikā) [fiery](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-ardha-candra-upamā nīlam śeṣaḥ kodaṇḍa-vat bhavet
+[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like-becomes](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-piṇḍī-māma-stakādīnām karoti evam vidham phalam
+[of-pedestal-head-etc](piṇḍīmāmastakādīnāṃ) [does](karoti) [thus](evaṃ) [kind](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-bhaga-liṅga-aṅkita sarvam trailokyam sa-cara-acaram
+[marked-with-bhaga-liṅga](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [with-moving-and-nonmoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-śiva-liṅgam param tat ca tayoḥ yogāt mahat phalam
+[śiva-liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [by-their-union](tayoryogāt) [great-fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-dala-aṅghri-gartikā kūrma vedāsrā va-liṅga-artinī
+[petal-foot-pit](dalāṅghrigartikā) [tortoise](kūrmaḥ) [veda-corner](vedāsrā) [liṅga-pit](valiṅgartinī)
