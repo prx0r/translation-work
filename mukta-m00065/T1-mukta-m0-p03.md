@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-great-jewel(great-jewel) great-value(great-value) virtue-endowed(virtue-endowed) worship-always(worship-always)
+[great-jewel](mahāratnaṃ) [great-valuable](mahāmūlyaṃ) [endowed-with-qualities](guṇayuktaṃ) [one-should-worship-always](yajetsadā)
 
 ## mukta-m0-p03-v52
-well-radiant(well-radiant) fame-and-life(fame-and-life) become-long(become-long) of-king(of-king)
+[well-radiant](supratāpo) [fame](yaśaḥ) [and-life](cāyuḥ) [become](bhaveyuḥ) [of-king](nṛpateḥ) [long](ciram)
 
 ## mukta-m0-p03-v53
-blue(blue) yellow(yellow) white(white) and(and) auspicious(auspicious) jewel-unmade(jewel-unmade)
+[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and](cāpi) [auspicious](śastaṃ) [jewel](ratnam) [unmade](anirmitam)
 
 ## mukta-m0-p03-v54
-conch-crystal-like(conch-crystal-like) java-beginning-from(java-beginning-from) splendor(splendor)
+[conch-crystal-like](śaṅkhasphaṭikasaṃkāśaṃ) [radiance-from-javā](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-washed-mouth-like(washed-mouth-like) of-twice-born(of-twice-born) king-worthy(king-worthy) yellow-red(yellow-red)
+[washed-mouth-like](dhautāsyābho) [of-twice-born](dvijātīnāṃ) [king-worthy](nṛpārhau) [yellow-red](pītaraktakau)
 
 ## mukta-m0-p03-v56
-that-mark(that-mark) for-life-increase(for-life-increase) all-disease-destroyer(all-disease-destroyer)
+[that-mark](talliṅgam) [for-increase-of-life](āyuṣo+vṛddhayai) [destroyer-of-all-diseases](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-indra-fire-and-friend-born(indra-fire-and-friend-born) fourfold(fourfold) sometimes-opinion(sometimes-opinion)
+[indra-fire-friend-born](śakrāgni(gnī)+casamitroye) [fourfold](caturdhā) [that-sometimes-opinion](tatkvacinmatam)
 
 ## mukta-m0-p03-v58
-autumn-water-like(autumn-water-like) clear(clear) smooth(smooth) crystal(crystal) beneficial(beneficial)
+[autumn-water-like](śaradambunibhaṃ) [clear](svacchaṃ) [smooth](snigdhaṃ) [crystal](ca+sphāṭikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p03-v59
-with-embryo-wave-joined(with-embryo-wave-joined) light-pearl-dense(light-pearl-dense) abandon(abandon)
+[with-embryo-wave-joined](sagarbhamūrmisaṃyuktaṃ) [luminous-pearl-dense](jyotirmuktaghanaṃ) [abandon](tyajet)
 
 ## mukta-m0-p03-v60
-thick(thick) long(long) kusha(kusha) short(short) middle-etc-in(middle-etc-in) thin(thin)
+[thick](sthūlaṃ) [long](dīrgha) [kuśa](kuśaṃ) [short](hrasvaṃ) [in-middle-etc-thin](madhyādyanteṣu+vā+kṛśam)
 
 ## mukta-m0-p03-v61
-other-caste-attached(other-caste-attached) and(and) pierced(pierced) fear-causing(fear-causing) abandon(abandon)
+[other-born-adhering](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear-causing](bhītikaraṃ) [abandon](tyajet)
 
 ## mukta-m0-p03-v62
-crystal(crystal) mark(mark) desired-object(desired-object) death-conquering(desire-granting) worship(worship)
+[crystal](sphāṭikaṃ) [mark](liṅgam) [desired-object](iṣṭārthaṃ) [death-conquering-desire-giving](mṛtyujitkāmadaṃ) [worship](yajet)
 
 ## mukta-m0-p03-v63
-mark(mark) always-fire-sacrifice-like(always-fire-sacrifice-like) worship(worship) no-fault-causing(no-fault-causing) to-men(to-men)
+[mark](liṅgaṃ) [always-fire-sacrifice-like](sadāgnihotrābhaṃ) [worship](pūjya) [not-harmful-to-men](no+doṣakṛnnṛṇām)
 
 ## mukta-m0-p03-v64
-always-low-with-success(always-low-with-success) high-high(high-high) equal-equal(equal-equal)
+[always-in-low-success](sadā+nimnena+siddhiḥ) [syāt](syāt) [in-high-high](ucce+tūccā) [in-even-even](same+samā)
 
 ## mukta-m0-p03-v65
-jewel-linga(jewel-linga) twofold-called(twofold-called) own-pedestal(own-pedestal) metal-pedestal-born(metal-pedestal-born)
+[jewel-mark](ratnaliṅgaṃ) [twofold-called](dvidhākhyātaṃ) [with-own-pedestal](svapīṭhaṃ) [metal-pedestal-born](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-movable-linga(movable-linga) twofold-made(twofold-made) metal-jewel(metal-jewel) auspicious(auspicious)
+[movable-mark](calaliṅgaṃ) [twofold-made](dvidhākāryaṃ) [metal-jewel](dhāturatnamayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p03-v67
-small-jewel-born(small-jewel-born) also-thus(also-thus) own-measure(own-measure) two-jewel-born(two-jewel-born)
+[small-jewel-born](kṣudraratnottham) [also-thus](apyevaṃ) [own-measure](svamānā) [two-jewel-born](dvararatnajam)
 
 ## mukta-m0-p03-v68
-of-vaishyas(of-vaishyas) love-end(of-vaishyas) of-shudras(of-shudras) twelve-limit(twelve-limit)
+[of-vaiśyas](vaiśyānāṃ) [until-manmatha](manmathāntaṃ) [syāt](syāt) [of-śūdras](śūdrāṇāṃ) [up-to-twelve](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-movable(movable) that-above(that-above) of-gods(of-gods) twenty-three-angula(twenty-three-angula)
+[movable](calaṃ) [that-above](tadūrdhvaṃ) [of-gods](devānāṃ) [twenty-three-angulas](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-immovable(immovable) lead-based(lead-based) hand-from-nine-measure(hand-from-nine-measure)
+[immovable](acalaṃ) [lead-standing](khadrūbhasthāyi) [hand-nine-measures](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-six-cubits(six-cubits) mixed(mixed) linga(linga) not-above(not-above) steady-desired(steady-desired)
+[six-cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [mark](liṅgaṃ) [not-above](nordhvaṃ) [and](ca) [firm-desired](sthiramiṣyate)
 
 ## mukta-m0-p03-v72
-six-cubits-not-exceeding(six-cubits-not-exceeding) wooden(wooden) earthen(earthen) mountain-like(mountain-like)
+[six-cubits-not-more](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [stone-like-always](śailavatsadā)
 
 ## mukta-m0-p03-v73
-yaksha-rakshasa-asura-serpent(yaksha-rakshasa-asura-serpent) gandharva-apsaras(gandharva-apsaras) sometimes(sometimes)
+[yakṣa-rakṣas-asura-serpent](yakṣarakṣo'suravyāla) [gandharva-apsaras](gandharvāpsarasāṃ) [sometimes](kvacit)
 
 ## mukta-m0-p03-v74
-circumference-height-by(circumference-height-by) of-gods(of-gods) twenty-one(twenty-one)
+[circumference-height](pariṇāhocchrayābhyāṃ) [and](ca) [of-gods-twenty-one](devānāmekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-five-angula(five-angula) flour-etc-born(flor-etc-born) fruit-born(fruit-born) own-measure(own-measure)
+[five-angulas](pañcāṅgulaṃtu) [of-paiṣṭya-etc](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [own-measure](svapramāṇataḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[skull-bowl](karoṭaṃ) [garland-of-skulls](muṇḍamālaṃ) [and](ca) [hook](kaṅkoṭaṃ) [sword-roar](khaḍgarāvaṇam)
+skull-bowl + garland-of-skulls + and + hook + sword-roar
 
 ## mukta-m0-p11-v252
-[terrifying-laugh-remainder](ghorāṭṭahāsamucchiṣṭaṃ) [growling](ghurghuraṃ) [evil-frightening](duṣṭatrāsakam)
+terrible-laugh-remainder + growling + evil-frightening
 
 ## mukta-m0-p11-v253
-[yama-bell](yamaghaṇṭaṃ) [and](ca) [bhuta-invocation](bhūtāhvaṃ) [poison-distinction-unborn-born](viṣabhedamajātajam)
+yama-bell + and + spirit-invocation + poison-difference-unborn-born
 
 ## mukta-m0-p11-v254
-[again-lakh-division](punarlakṣavibhedana) [split](grabhinnaḥ) [scripture-collection](śāstrasaṅgrahaḥ)
+again-lakh-division + seized + scripture-collection
 
 ## mukta-m0-p11-v255
-[from-sages](ṛṣibhyo) [humans](mānuṣāḥ) [disciples](śiṣyāḥ) [all-scripture-descenders](sarvaśāstrāvatārakāḥ)
+from-sages + humans + disciples + all-scripture-descenders
 
 ## mukta-m0-p11-v256
-[thus](iti) [conventional](sāmayikaṃ) [spoken](proktaṃ) [shambhu-naga-five](śambhunāgamapañcakam)
+thus + conventional + declared + shambhu-naga-fivefold
 
 ## mukta-m0-p11-v257
-[single-bowl-eating](ekatrabhojanaṃ) [terrible](ghore) [left](vāme) [left-nectar](vāmāmṛtaṃ) [thus](tathā)
+single-place-eating + terrible + left + left-nectar + likewise
 
 ## mukta-m0-p11-v258
-[should-practice](ācaret) [vows](samayān) [five](pañca) [who](yaḥ) [he](sa) [teacher](ācārya) [is-called](ucyate)
+should-practice + vows + five + who + he + teacher + is-called
 
 ## mukta-m0-p11-v259
-[that-necessary](tadavaśyaṃ) [indeed](hi) [to-be-done](kartavyamanyathā) [fall](patanaṃ) [becomes](bhavet)
+that-necessarily + indeed + to-be-done + otherwise + fall + would-be
 
 ## mukta-m0-p11-v260
-[six-acts](ṣaṭkarmāṇi) [but](tu) [to-be-done](kāryāṇi) [by-shiva-teacher](śivācāryeṇa) [not](no) [by-others](paraiḥ)
+six-acts + but + to-be-done + by-shiva-teacher + not + by-others
 
 ## mukta-m0-p11-v261
-[initiation](dīkṣāṃ) [and](ca) [installation](sthāpanaṃ) [and-so-forth](ceti) [six-acts](ṣaṭkarmāṇi) [always](sadā) [of-guru](guroḥ)
+initiation + and + installation + and-so-forth + six-acts + always + of-teacher
 
 ## mukta-m0-p11-v262
-[krosas](krośān) [five](pañca) [abandoning](parityajya) [by-guru-command](gurvādeśāttadācaret)
+krosas + five + abandoning + by-teacher-command + then-practice
 
 ## mukta-m0-p11-v263
-[practitioner](sādhakaḥ) [accomplishes](sādhayetsiddhirācāryo) [initiates-beasts](dīkṣayetpaśūn)
+practitioner + should-accomplish + accomplishment + teacher + should-initiate + beasts
 
 ## mukta-m0-p11-v264
-[installation-etc-rite](pratiṣṭhādikriyā) [his](tasya) [not](na) [from-recitation-first](pāṭhādagra) [birth](janmanaḥ)
+installation-etc-rite + of-him + not + from-recitation-first + birth
 
 ## mukta-m0-p11-v265
-[method](yuktiḥ) [is-indicated](saṃsūcyate) [some](kācidyā) [spoken](coktā) [parameshvara](pārameśvare)
+reasoning + is-indicated + some + which + is-said + in-parameshvara
 
 ## mukta-m0-p11-v266
-[not-from-stone-first](nāśmādau) [shivahood](śivatā) [there](tatra) [in-ray](hyāṃśave) [far](dūrataḥ) [shiva](śivaḥ)
+not-in-stone-etc + shiva-ness + there + indeed + in-ray + far + shiva
 
 ## mukta-m0-p11-v267
-[chandala](cāṇḍālo'sāvabhojyānnaḥ) [sinner](pātakī) [no](nātra) [doubt](saṃśayaḥ)
+chandala + that + inedible-food + sinner + no + here + doubt
 
 ## mukta-m0-p11-v268
-[other-gotra](anyagotre) [kusha](kuśā) [fall](pātānnārakī) [becomes](syād) [twice-born-lowest](dvijādhamaḥ)
+other-gotra + kusha + fallen + hell-dweller + would-be + twice-born-lowest
 
 ## mukta-m0-p11-v269
-[linga-etc-installers](liṅgādisthāpakā) [who](ye) [and](ca) [they](te) [chandala-equal](cāṇḍālasamā) [twice-born](dvijāḥ)
+linga-etc-installers + who + and + they + chandala-equal + twice-born
 
 ## mukta-m0-p11-v270
-[to-be-considered](mantavyo) [brahmin-like-shudra](vipravacchūdraḥ) [than-shudra-more-sinful](śūdrātpāpatarastu) [he](saḥ)
+to-be-considered + like-brahmin + shudra + from-shudra + more-sinful + indeed + he
 
 ## mukta-m0-p11-v271
-[from-conduct-siddhas](vṛttātsiddhā) [vasishtha-etc](vasiṣṭhādyā) [by-vyasa-spoken](vyāsenoktaṃ) [and](ca) [in-bharata](bhārate)
+from-conduct + accomplished + vasishtha-etc + by-vyasa + said + and + in-bharata
 
 ## mukta-m0-p11-v272
-[in-hell](narake) [falls](patati) [quickly](kṣipraṃ) [doer](kartā) [with-ancestors](svapitṛbhiḥ) [with](saha)
+into-hell + falls + quickly + doer + with-own-ancestors
 
 ## mukta-m0-p11-v273
-[own-brahminhood](svabrāhmaṇyaṃ) [gone](gataṃ) [their](teṣāṃ) [brahmin-killing](brahmahatyāṃ) [and](ca) [established](saṃsthitam)
+own-brahminhood + gone + of-them + brahmin-killing + and + established
 
 ## mukta-m0-p11-v274
-[they](te) [cruel](krūrā) [destroyers](dhvaṃsakā) [to-be-known](jñeyā) [sacrificer-destruction-bringing](yajamānakṣayāvahāḥ)
+they + cruel + destroyers + to-be-known + sacrificer-destruction-bringing
 
 ## mukta-m0-p11-v275
-[gift-worship-etc-unworthy](dānārcanādyanarhaḥ) [becomes](syādvinaṣṭā) [brahmin-woman](brāhmaṇī) [as](yathā)
+gift-worship-etc-unworthy + would-be + destroyed + brahmin-woman + as

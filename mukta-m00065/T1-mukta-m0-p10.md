@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[prāvrājya](prāvrājyān) [naśyate](naśyate) [pūrvam](pūrvaṃ) [strī-yogāt](strīyogād) [aparam](aparaṃ) [tathā](tathā)
+prāvrājyāt (from-renunciation) naśyate (perishes) pūrvam (first) strī-yogāt (from-union-with-woman) aparam (afterwards) tathā (thus)
 
 ## mukta-m0-p10-v227
-[tri-karṇa-utthāḥ](trikarṇotthāḥ) [tri-karṇāḥ](trikarṇāś) [ca](ca) [tri-kapāna-ātma](trikapānātma) [karṇakāḥ](karṇakā)
+tri-karṇa-utthāḥ (arising-from-three-ears) tri-karṇāḥ (three-eared) ca (and) tri-kapāla-ātma (of-three-skulls) karṇakā (earrings)
 
 ## mukta-m0-p10-v228
-[bhasma-aṅkuraḥ](bhasmāṅkuraḥ) [tu](tu) [kattha-osthaḥ](katthosthaḥ) [tat-sutāḥ](tatsutāḥ) [kauśika-ādayaḥ](kauśikādayaḥ)
+bhasma-aṅkuraḥ (ash-sprout) tu (but) kattha-osthaḥ (boastful-lipped) tat-sutāḥ (his-sons) kauśika-ādayaḥ (Kauśika-and-others)
 
 ## mukta-m0-p10-v229
-[rāṣṭra-kṣaya-karāḥ](rāṣṭrakṣayakarāḥ) [hi](hi) [ete](ete) [ye](ye) [ca](ca) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
+rāṣṭra-kṣaya-karāḥ (causing-ruin-of-kingdom) hi (indeed) ete (these) ye (who) ca (and) paṣāṇḍinaḥ (heretics) narāḥ (men)
 
 ## mukta-m0-p10-v230
-[śāstra-avalokanāt](śāstrāvalokanād) [eva](eva) [caṇḍeśaḥ](caṇḍeśaḥ) [tasya](tasya) [śāsakaḥ](śāsakaḥ)
+śāstra-avalokanāt (from-inspection-of-scripture) eva (indeed) caṇḍeśaḥ (Caṇḍeśa) tasya (his) śāsakaḥ (ruler)
 
 ## mukta-m0-p10-v231
-[saḥ](sa) [yāti](yāti) [narakam](narakaṃ) [sadyaḥ](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
+saḥ (he) yāti (goes) narakam (to-hell) sadyaḥ (immediately) yājñikaiḥ (with-sacrificers) saha (with) daiśikaḥ (teacher)
 
 ## mukta-m0-p10-v232
-[teṣām](teṣām) [ācaraṇāt](ācaraṇāt) [nityam](nityam) [ācāryaḥ](ācārya) [iti](iti) [kīrtyate](kīrtyate)
+teṣām (of-them) ācaraṇāt (from-conduct) nityam (always) ācāryaḥ (teacher) iti (thus) kīrtyate (is-called)
 
 ## mukta-m0-p10-v233
-[tasmāt](tasmāt) [na](na) [mānavīm](mānavīṃ) [buddhim](buddhiṃ) [kārayet](kārayet) [daiśikam](daiśikaṃ) [prati](prati)
+tasmāt (therefore) na (not) mānavīm (human) buddhim (mind) kārayet (should-make) daiśikam (teacher) prati (towards)
 
 ## mukta-m0-p10-v234
-[pañca-vaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañca-āgama-vivṛddhaye](pañcāgamavivṛddhaye)
+pañca-vaktrāṇi (five-faces) devasya (of-god) pañca-āgama-vivṛddhaye (for-growth-of-five-āgamas)
 
 ## mukta-m0-p10-v235
-[dīptam](dīptaṃ) [sūkṣmam](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasram) [aṃśum](aṃśum) [su-prabham](suprabhaṃ) [daśa](daśa)
+dīptam (blazing) sūkṣmam (subtle) ca (and) sāhasram (thousand) aṃśum (rays) su-prabham (well-shining) daśa (ten)
 
 ## mukta-m0-p10-v236
-[vijayam](vijayaṃ) [pāram-aiśvaryam](pāramaiśvaryaṃ) [niśvāsa-udgīta-saṃjñakam](niśvāsodgītasaṃjñakam)
+vijayam (victory) pāram-aiśvaryam (supreme-sovereignty) niśvāsa-udgīta-saṃjñakam (called-breath-song)
 
 ## mukta-m0-p10-v237
-[narasiṃham](narasiṃhaṃ) [candra-hāsam](candrahāsaṃ) [vīram](vīraṃ) [svāyambhu-rauravam](svāyambhurauravam)
+narasiṃham (Narasiṃha) candrahāsam (moon-smile) vīram (hero) svāyambhu-rauravam (Svāyambhu-Raurava)
 
 ## mukta-m0-p10-v238
-[rudra-bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśa-aṣṭādaśa](daśāṣṭādaśa) [ca](ca) [ūrdhva-gāḥ](ūrdhvagāḥ)
+rudra-bhedāḥ (Rudra-varieties) samākhyātāḥ (declared) daśa-aṣṭādaśa (ten-eighteen) ca (and) ūrdhvagāḥ (upward-going)
 
 ## mukta-m0-p10-v239
-[pañca-bhūta](pañcabhūta) [vibhāgam](vibhāgaṃ) [ca](ca) [śūnya-bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
+pañca-bhūta (five-elements) vibhāgam (division) ca (and) śūnya-bheda (void-difference) vinirṇayam (determination)
 
 ## mukta-m0-p10-v240
-[kambojam](kambojaṃ) [kambalam](kambalaṃ) [kaṅkam](kaṅkaṃ) [kāla-kuṇḍam](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
+kambojam (Kamboja) kambalam (blanket) kaṅkam (heron) kāla-kuṇḍam (black-pot) kaṭāhakam (cauldron)
 
 ## mukta-m0-p10-v241
-[gāruḍasya](gāruḍasya) [tu](tu) [ime](ime) [bhedāḥ](bhedā) [aṣṭāviṃśatiḥ](aṣṭāviṃśatiḥ) [īritāḥ](īritāḥ)
+gāruḍasya (of-Garuḍa) tu (but) ime (these) bhedāḥ (varieties) aṣṭāviṃśatiḥ (twenty-eight) īritāḥ (declared)
 
 ## mukta-m0-p10-v242
-[asitāṅgam](asitāṅgaṃ) [rurum](ruruṃ) [ca](ca) [eva](eva) [kapālīśam](kapālīśaṃ) [samuccayam](samuccayam)
+asita-aṅgam (black-limbed) rurum (Ruru) ca (and) eva (indeed) kapālīśam (Kapālīśa) samuccayam (collection)
 
 ## mukta-m0-p10-v243
-[bhīmāṅgam](bhīmāṅgaṃ) [ḍāmarārāvam](ḍāmarārāvaṃ) [bhīmam](bhīmaṃ) [vetāla-mardakam](vetālamardakam)
+bhīma-aṅgam (terrible-limbed) ḍāmara-ārāvam (Ḍāmara-cry) bhīmam (terrible) vetāla-mardakam (Vetāla-crusher)
 
 ## mukta-m0-p10-v244
-[tri-śiram](triśiraṃ) [ca](ca) [eka-pādam](ekapādaṃ) [tu](tu) [siddha-yogeśvarī-matam](siddhayogeśvarīmatam)
+tri-śiram (three-headed) ca (and) eka-pādam (one-footed) tu (but) siddha-yogeśvarī-matam (opinion-of-Siddha-Yogeśvarī)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocam](saṅkocaṃ) [tilaka-udyāna-bhairavam](tilakodyānabhairavam)
+viśvari-kaṇṭha (world-throat) saṅkocam (contraction) tilaka-udyāna-bhairavam (Tilaka-garden-Bhairava)
 
 ## mukta-m0-p10-v246
-[catuḥ-ṣaṣṭi-pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa-āsyāt](dakṣiṇāsyād) [bhavāni](bhavāni) [ca](ca)
+catuḥ-ṣaṣṭi (sixty-four) pramāṇāni (measures) dakṣiṇa-āsyāt (from-southern-face) bhavāni (born) ca (and)
 
 ## mukta-m0-p10-v247
-[kara-pūjā-vidhānam](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantram](vīṇātantraṃ) [tat-uttaram](taduttaram)
+kara-pūjā-vidhānam (hand-worship-rite) tu (but) vīṇā-tantram (Vīṇā-tantra) tat-uttaram (that-after)
 
 ## mukta-m0-p10-v248
-[siddha-nitya-udayam](siddhanityodayaṃ) [jyeṣṭham](jyeṣṭhaṃ) [cintāmaṇi-mahodayam](cintāmaṇimahodayam)
+siddha-nitya-udayam (Siddha-eternal-rise) jyeṣṭham (eldest) cintāmaṇi-mahodayam (Cintāmaṇi-great-rise)
 
 ## mukta-m0-p10-v249
-[ānanda-rudra-bhadra-ākhyam](ānandarudrabhadrākhyaṃ) [kiṅkaram](kiṅkaraṃ) [kiṅkara-anugam](kiṅkarānugam)
+ānanda-rudra-bhadra-ākhyam (called-Ānanda-Rudra-Bhadra) kiṅkaram (servant) kiṅkara-anugam (servant-follower)
 
 ## mukta-m0-p10-v250
-[vāmadam](vāmadaṃ) [vāmadeva-uktam](vāmadevoktaṃ) [catur-viṃśati-bheda-gam](caturviṃśatibhedagam)
+vāmadam (left-giving) vāmadeva-uktam (spoken-by-Vāmadeva) caturviṃśati-bheda-gam (going-to-twenty-four-varieties)
