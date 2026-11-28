@@ -5,25 +5,25 @@
 [citte](citte) [iti](iti) [padaṃ](padaṃ) [procya](procya) [retas](retas) [muṃcat](muṃcat) [dvayaṃ](dvayaṃ) [vadet](vadet)
 
 ## mukta-m0-p37-v902
-[evaṃ](evaṃ) [mantraṃ](mantraṃ) [japan](japan) [eva](eva) [liṃga](liṃga) [tāṃḍavaṃ](tāṃḍavaṃ) [ācaret](ācaret)
+[evaṃ](evaṃ) [mantraṃ](maṃtraṃ) [japan](japan) [eva](eva) [liṃga](liṃga) [tāṃḍavaṃ](tāṃḍavaṃ) [ācaret](ācaret)
 
 ## mukta-m0-p37-v903
-[sphurat](sphurat) [gupi](gupi) [gupit](gupit) [kāraṃ](kāraṃ) [vimuṃcati](vimuṃcati) [parāmṛtaṃ](parāmṛtaṃ)
+[sphurat](sphurad) [gupi](gupi) [gupit](gupit) [kāraṃ](kāraṃ) [vimuṃcati](vimuṃcati) [parāmṛtaṃ](parāmṛtam)
 
 ## mukta-m0-p37-v904
-[yamunā](yamunā) [salilaiḥ](salilaiḥ) [īśāḥ](īśāḥ) [saṃśeka](saṃśeka) [phalaṃ](phalaṃ) [aśnute](aśnute)
+[yamunā](yamunā) [salilaiḥ](salilair) [īśāḥ](īśāḥ) [saṃśeka](saṃśeka) [phalaṃ](phalaṃ) [aśnute](aśnute)
 
 ## mukta-m0-p37-v905
 [datte](datte) [paśupata](paśupata) [tvaṃ](tvaṃ) [ca](ca) [yajamāna](yajamāna) [mayīṃ](mayīṃ) [sthitim](sthitim)
 
 ## mukta-m0-p37-v906
-[sarveṣāṃ](sarveṣāṃ) [eva](eva) [mantrāṇāṃ](mantrāṇāṃ) [svayam](svayam) [eva](eva) [prakāśatā](prakāśatā)
+[sarveṣāṃ](sarveṣāṃ) [eva](eva) [mantrāṇāṃ](maṃtrāṇāṃ) [svayam](svayam) [eva](eva) [prakāśatā](prakāśatā)
 
 ## mukta-m0-p37-v907
 [kavitvasya](kavitvasya) [parā](parā) [kāṣṭhā](kāṣṭhā) [rasa](rasa) [saubhāgya](saubhāgya) [śālinī](śālinī)
 
 ## mukta-m0-p37-v908
-[pravṛttiṃ](pravṛttiṃ) [ca](ca) [nivṛttiṃ](nivṛttiṃ) [ca](ca) [bhūtānāṃ](bhūtānāṃ) [iva](iva) [sarvaśaḥ](sarvaśaḥ)
+[pravṛttiṃ](pravṛttiṃ) [ca](ca) [nivṛttiṃ](nivṛttiṃ) [ca](ca) [bhūtānāṃ](bhūtānām) [iva](iva) [sarvaśaḥ](sarvaśaḥ)
 
 ## mukta-m0-p37-v909
 [rasa](rasa) [siddhiṃ](siddhiṃ) [pādukāyāḥ](pādukāyāḥ) [siddhiṃ](siddhiṃ) [nidhi](nidhi) [aṃjanaṃ](aṃjanaṃ) [tathā](tathā)
@@ -41,13 +41,13 @@
 [mahā](mahā) [liṃga](liṃga) [maheśāna](maheśāna) [svarasaiḥ](svarasaiḥ) [cāṃdra](cāṃdra) [caṃdrikaiḥ](caṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[sapta](sapta) [kūpa](kūpa) [āraparyaṃta](āraparyaṃta) [vāpi](vāpi) [kīrti](kīrti) [vivardhanī](vivardhanī)
+[saptakūpa](saptakūpa) [āraparyaṃta](āraparyaṃta) [vāpi](vāpi) [kīrti](kīrti) [vivardhanī](vivardhanī)
 
 ## mukta-m0-p37-v915
 [etad](etad) [āhuti](āhuti) [velāyāṃ](velāyāṃ) [dūtikā](dūtikā) [va](va) [sthitim](sthitim) [bruve](bruve)
 
 ## mukta-m0-p37-v916
-[ānaṃda](ānaṃda) [sukha](sukha) [saṃbhārāt](saṃbhārāt) [ati](ati) [maṃthara](maṃthara) [tā](tā) [tanau](tanau)
+[ānaṃda](ānaṃda) [sukha](sukha) [saṃbhārāt](saṃbhārāt) [ati](ati) [maṃthara](maṃthara) [tātanau](tātanau)
 
 ## mukta-m0-p37-v917
 [mahā](mahā) [ānaṃda](ānaṃda) [payorāśau](payorāśau) [majjanaṃ](majjanaṃ) [tu](tu) [kṣaṇe](kṣaṇe) [kṣaṇe](kṣaṇe)
@@ -62,7 +62,7 @@
 [vaco](vaco) [vicchinna](vicchinna) [vicchinna](vicchinna) [punaruktaṃ](punaruktaṃ) [ca](ca) [bhūyasā](bhūyasā)
 
 ## mukta-m0-p37-v921
-[asaṃbaṃdha](asaṃbaṃdha) [artha](artha) [naṃ](naṃ) [kiṃcit](kiṃcit) [kiṃcit](kiṃcit) [śuṣkaṃ](śuṣkaṃ) [ca](ca) [rodanaṃ](rodanaṃ)
+[asaṃbaṃdha](asaṃbaṃdha) [artha](artha) [naṃ](naṃ) [kiṃcit](kiṃcit) [kiṃcit](kiṃcit) [śuṣkaṃ](śuṣkaṃ) [ca](ca) [rodanam](rodanam)
 
 ## mukta-m0-p37-v922
 [alaṃ](alaṃ) [nātha](nātha) [namas](namas) [tubhyaṃ](tubhyaṃ) [punar](punar) [teracita](teracita) [oṃjaliḥ](oṃjaliḥ)
