@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-in-the-kingdom [rāṣṭre] abundance [subhikṣam] health [ārogyam] he-should-make [kuryāt] thieves-etc [caurādi] destruction [nāśanam]
+[in-kingdom](rāṣṭre) [abundance](subhikṣam) [health](ārogyaṃ) [make](kuryāt) [thieves-etc](caurādi) [destruction](nāśanam)
+
 ## mukta-m0-p78-v1927
-of-the-founder [sthāpakasya] always [sadā] increase [vṛddhiḥ] who [ye] and [ca] there-living [tatropajīvinaḥ]
+[founder](sthāpakasya) [always](sadā) [growth](vṛddhiḥ) [and](ye) [there](tatra) [dependents](upajīvinaḥ)
+
 ## mukta-m0-p78-v1928
-artisans [śilpinaḥ] work-doers [karmakartāraḥ] all [sarve] go [yānti] to-śiva-temple [śivālayam]
+[artisans](śilpinaḥ) [workers](karmakartāraḥ) [all](sarve) [go](yānti) [to-śiva-temple](śivālayam)
+
 ## mukta-m0-p78-v1929
-enjoyment-liberation-giving [bhuktimuktipradam] to-be-known [jñeyam] otherwise [anyathā] but [tu] opposite [viparyayaḥ]
+[enjoyment-and-liberation-giving](bhuktimuktipradaṃ) [to-be-known](jñeyam) [otherwise](anyathā) [reversal](viparyayaḥ)
+
 ## mukta-m0-p78-v1930
-then [tataḥ] caṇḍeśvara [caṇḍeśvaram] god [devam] he-should-install [sthāpayet] by-rite [vidhinā] guru [guruḥ]
+[then](tataḥ) [caṇḍeśvara](caṇḍeśvaram) [god](devaṃ) [install](sthāpayet) [by-rite](vidhinā) [guru](guruḥ)
+
 ## mukta-m0-p78-v1931
-with-rocanā [rocanayā] eye-disease-destroying [akṣirogaghnaḥ] fruit-offering [phalijyām] and [ca] pleasing [priyaṅkaraḥ]
+[with-rocanā](rocanayā) [eye-disease-destroying](akṣirogaghnaḥ) [with-fruit-offering](phalijyāṃ) [beloved](priyaṅkaraḥ)
+
 ## mukta-m0-p78-v1932
-nāgapuṣpa [nāgapuṣpam] for-abundance [subhikṣāya] seven-days [saptāham] and [ca] fruit [phalam] in-order [kramāt]
+[nāgapuṣpa](nāgapuṣpaṃ) [for-abundance](subhikṣāya) [seven-days](saptāhaṃ) [fruit](phalaṃ) [in-order](kramāt)
+
 ## mukta-m0-p78-v1933
-sandal-aloewood-camphor-saffron-etc [candanāgurukapūrakuṅkumādyaiḥ] and [ca] anointing [lepanam]
+[sandal-aguru-camphor-saffron-etc](candanāgurukapūrakuṅkumādyaiḥ) [anointing](lepanam)
+
 ## mukta-m0-p78-v1934
-with-goat [ajena] rocanā [rocanām] and [ca] indeed [eva] mirror [darpaṇam] by-man [puruṣeṇa] but [tu]
+[with-goat](ajena) [rocanā](rocanāṃ) [and](ca) [mirror](darpaṇaṃ) [with-man](puruṣeṇa) [tu](tu)
+
 ## mukta-m0-p78-v1935
-bracelet [kaṭakam] waist-cord [kaṭisūtram] and [ca] cloth-band [paṭṭabandham] and [ca] what [yat] may-be [bhavet]
+[bracelet](kaṭakaṃ) [waist-cord](kaṭisūtraṃ) [and](ca) [silk-band](paṭṭabandhaṃ) [whatever](yadbhavet)
+
 ## mukta-m0-p78-v1936
-sometimes [kvacit] by-that [tena] indeed [eva] secret-things [guhyaiḥ] or [vā] all [sarvāṇi] these [etāni] he-should-give [dāyayet]
+[sometimes](kvacit) [by-that](tena) [or-secret](guhyair) [or](vā) [all-these](sarvāṇi) [give](dāyayet)
+
 ## mukta-m0-p78-v1937
-bowing [praṇamya] staff-like [daṇḍavad] ... [bhamau] slowly [śanaiḥ] he-should-go [gacchet] circumambulation [pradakṣiṇam]
+[bowing](praṇamya) [staff-like](daṇḍavad) [slowly](śanaiḥ) [go](gacchet) [circumambulate](pradakṣiṇam)
+
 ## mukta-m0-p78-v1938
-good-deed [sukṛtam] bad-deed [duṣkṛtam] or [vā] even [api] from-ignorance [ajñānāt] from-knowledge [jñānataḥ] done [kṛtam]
+[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [or](vā) [through-ignorance](ajñānāt) [through-knowledge](jñānataḥ) [done](kṛtam)
+
 ## mukta-m0-p78-v1939
-at-that [tasmin] time [kāle] to-be-given [pradātavyā] fee [dakṣiṇā] to-śiva-yogin [śivayogine]
+[at-that-time](tasminkāle) [to-be-given](pradātavyā) [fee](dakṣiṇā) [to-śiva-yogin](śivayogine)
+
 ## mukta-m0-p78-v1940
-from-half-of-son's-body? [putrakāyārdhato] to-be-given [deyā] to-initiates [samayibhyaḥ] and [ca] foot-fee [pādikā]
+[to-son](putrakāya) [half](ardhataḥ) [to-be-given](deyā) [to-initiates](samayibhyaḥ) [quarter](pādikā)
+
 ## mukta-m0-p78-v1941
-according-to-ability [yathāśakti] to-twice-born [dvijātibhyaḥ] he-should-give [dadyāt] gift [dānam] according-to-rite [yathāvidhi]
+[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyaḥ) [give](dadyāt) [gift](dānaṃ) [as-rite](yathāvidhi)
+
 ## mukta-m0-p78-v1942
-musicians [tauryikān] singers [gāyakān] dancers [nartṛn] with-music [nādyena] but [tu] he-should-please [toṣayet]
+[musicians](tauryikān) [singers](gāyakān) [dancers](nartṛn) [with-sound](nādyena) [please](toṣayet)
+
 ## mukta-m0-p78-v1943
-one-night [ekarātram] three-nights [trirātram] or [vā] seven-nights [saptarātram] then [atha] even [api] or [vā]
+[one-night](ekarātraṃ) [three-nights](trirātraṃ) [or](vā) [seven-nights](saptarātram) [also](athāpi) [or](vā)
+
 ## mukta-m0-p78-v1944
-from-men-etc [pumādibhyaḥ] day-purity [divāśuddhim] vidyā-etc [vidyādi] that-hundredfold [tacchatāvṛtam]
+[from-men-etc](pumādibhyaḥ) [day-purity](divāśuddhiṃ) [knowledge-etc](vidyādi) [hundred-times](śatāvṛtam)
+
 ## mukta-m0-p78-v1945
-firm [sthirā]
+[firm](sthirā)
+
 ## mukta-m0-p78-v1946
-yuga-parts [yugabhāgāḥ] in-four-directions [caturdikṣu] having-removed [luptvā] one-by-one [ekaikam] but [tu] from-corner [koṇataḥ]
+[age-parts](yugabhāgāḥ) [four-directions](caturdikṣu) [having-dug](luptvā) [one-by-one](ekaikaṃ) [from-corner](koṇataḥ)
+
 ## mukta-m0-p78-v1947
-to-be-installed [sthāpyāni] in-them [teṣu] liṅgas [liṅgāni] with-their-union [tatsaṅgayābhiḥ] by-rite [vidhānataḥ]
+[to-be-installed](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [with-union](saṅgayā) [by-rite](vidhānataḥ)
+
 ## mukta-m0-p78-v1948
-of-inferior [hīnānām] but [tu] rite [vidhiḥ] own [svāyam] of-superior [jyeṣṭhānām] with-establishment-first [sthitipūrvakam]
+[of-inferior](hīnānāṃ) [rite](vidhiḥ) [thus](evam) [of-superior](jyeṣṭhānāṃ) [installation-first](sthitipūrvakam)
+
 ## mukta-m0-p78-v1949
-there [tatra] he-should-bring [ānayet] great-liṅga [mahāliṅgam] by-yantra-yoga [yantrayogena] wise-one [buddhimān]
+[there](tatra) [bring](ānayet) [great-liṅga](mahāliṅgaṃ) [by-yantra-yoga](yantrayogena) [wise](buddhimān)
+
 ## mukta-m0-p78-v1950
-in-middle [madhye] and [ca] eight-juice-joined [aṣṭārasaṃyuktam] with-firm-wood [dṛḍhakāṣṭhena] adorned [maṇḍitam]
+[in-middle](madhye) [with-eight-juices](aṣṭārasaṃyuktaṃ) [with-firm-wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
