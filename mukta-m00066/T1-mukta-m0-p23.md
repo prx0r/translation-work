@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ananda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](asmin) [catvarah](catvāraḥ) [param-iritah](paramīritāḥ)
+[in-bliss-tantra](ānaṃdataṃtre) [and](ca) [indeed](eva) [in-this](asmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[tasmat](tasmāt) [catvarah](catvāraḥ) [ullasah](ullāsāḥ) [iha](iha) [proktah](proktāḥ) [maheshvari](maheśvari)
+[therefore](tasmāt) [four](catvāraḥ) [illuminations](ullāsāḥ) [here](iha) [spoken](proktāḥ) [O-great-lady](maheśvari)
 
 ## mukta-m0-p23-v553
-[tasmat](tasmāt) [ananda](ānaṃda) [pujayah](pūjāyāḥ) [malavyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayah](trayaḥ)
+[therefore](tasmāt) [bliss](ānaṃda) [of-worship](pūjāyāḥ) [garlanded](mālaṃvyaṃte) [not](na) [three](trayaḥ)
 
 ## mukta-m0-p23-v554
-[tatha](tathā) [tatha](tathā) [para-ananda](parānaṃda) [natha-vidyam](nāthavidyāṃ) [paramrishet](parāmṛśet)
+[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyām) [contemplate](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dutyā](dūtyā) [samdhukshitah](saṃdhukṣitaḥ) [svatma](svātmā) [nanda-murtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttim) [guru](guruṃ) [remember](smaret)
 
 ## mukta-m0-p23-v556
-[dvadash-antagata](dvādaśāṃtagate) [rakta-shukla-pade](raktaśuklapāde) [vinikshipet](vinikṣipet)
+[at-twelfth-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shivatva-samrajya](śivatvasāmrājya) [pada-abhisiktam](padābhiṣiktaṃ) [svam](svaṃ) [vicintayet](viciṃtayet)
+[śiva-sovereignty](śivatvasāmrājya) [foot](pada) [anointed](abhiṣiktaṃ) [own](svaṃ) [contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[pashyan](paśyan) [praty-angaman](pratyaṃgamaṃ) [kūradanam](kūradanaṃ) [gottu-gamanasah](gottuṃgamānasaḥ)
+[seeing](paśyan) [each-limb](pratyaṃgamaṃ) [sprout](aṃkūra) [danaṃ](danaṃ) [guru-mind](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[yatha](yathā) [yauvanam](yauvanam) [ullasam](ullāsaṃ) [samprapnoti](saṃprāpnoti) [amba](aṃba) [dutika](dūtikā)
+[as](yathā) [youth](yauvanam) [illumination](ullāsaṃ) [obtains](saṃprāpnoti) [mother](aṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[alokaneratih](ālokaneratiḥ) [sakshat](sākṣāt) [smite](smite) [jagarti](jāgarti) [jahnavi](jāhnavī)
+[by-looking](ālokaneratiḥ) [direct](sākṣāt) [smile](smite) [awakens](jāgarti) [Jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-[ashvinau](aśvinau) [nasika-bhage](nāsikābhāge) [tu](tu) [oshthe](oṣṭhe) [ca](ca) [param-amritam](paramāmṛtam)
+[Aśvins](aśvinau) [nose-region](nāsikābhāge) [and](ca) [lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [varuni](vāruṇī) [devi](devī) [kama-nathah](kāmanāthaḥ) [tv-aham](tvahaṃ) [kritau](kṛtau)
+[in-sweat](svede) [Vāruṇī-goddess](vāruṇī-devī) [desire-lord](kāmanāthaḥ) [I](ahaṃ) [in-act](kṛtau)
 
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-girih](merugirir) [nih](niḥ) [shabdam](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+[in-two-breasts](stanadvaye) [Meru-mountain](merugiriḥ) [silent](niḥśabdaṃ) [in-Brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nabhi-garbhe](nābhigarbhe) [guha-ambika](guhāṃbikā)
+[in-three-folds](valitraye) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakhesu](nakheṣu) [shitam](śītāṃ) [shu](śu) [kala-dor-mule](kalādormmūleṃ) [kusha-devatah](kuśadevatāḥ)
+[in-nails](nakheṣu) [cool](śītāṃ) [śu](śu) [kalā](kalā) [arm-root](dormmūle) [goad-deity](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [ca](ca) [eva](eva) [nishvase](niśvāse) [goda-sit-kara](godāsītkāra) [karmani](karmaṇi)
+[Kāverī](kāverī) [indeed](caiva) [in-breath](niśvāse) [Godā](godā) [as](sīt) [karma](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amala-alapa-krityesu](amalālāpakṛtyeṣu) [citta-vishranti](cittaviśrāṃti) [nayakah](nāyakā)
+[in-pure-saliva-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[vakptih](vākptiḥ) [sukha-humkare](sukhahuṃkāre) [gishpati-ka-kuka-dhvau](gīṣpatīkākukādhvanau)
+[speech-lord](vākptiḥ) [pleasant-huṃ-sound](sukhahuṃkāre) [Gīṣpati](gīṣpatī) [kākuka-sound](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indrah](iṃdraḥ) [citta-samunnatyam](cittasamunnatyām) [agnih](agnir) [vastu](vastu) [grasi-tvishi](grasītviṣi)
+[Indra](iṃdraḥ) [mind-elevation](cittasamunnatyām) [Agni](agniḥ) [substance](vastu) [grasps](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hasta-adi-calane](hastādicālane) [yajnah](yajñaḥ) [tu](tu) [ashleshe](āśleṣe) [yajna-purushah](yajñapūruṣaḥ)
+[in-hand-movement](hastādicālane) [sacrifice](yajñaḥ) [in-embrace](āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lasyam](lāsyaṃ) [ca](ca) [tandavam](tāṃḍavaṃ) [devi](devi) [tasya](tasyā) [deha-adi](dehādi) [ghurnane](ghūrṇane)
+[lāsya](lāsyaṃ) [and](ca) [tāṇḍava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyāḥ) [body-etc](dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tani](tāni) [sarvani](sarvāṇi) [varttate](varttate) [tasya](tasyā) [gandusha-vastuni](gaṃḍūṣavastuni)
+[those](tāni) [all](sarvāṇi) [occur](varttate) [of-her](tasyāḥ) [mouthful-substance](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat](tat) [phalam](phalaṃ) [labhate](labhate) [duti](dūtī) [sudha-gandusha](sudhāgaṃḍūṣa) [sevanat](sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
 
 ## mukta-m0-p23-v574
-[gandusham](gaṃḍūṣam) [adiram](ādiraṃ) [devi](devī) [virasya](vīrasya) [ananda](ānaṃda) [varddhanam](varddhanam)
+[mouthful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [of-hero](vīrasya) [bliss](ānaṃda) [increasing](varddhanam)
 
 ## mukta-m0-p23-v575
-[nitya-klinna](nityaklinnā) [sudha](sudhā) [devi](devī) [rati](rati) [pritih](prītiḥ) [ca](ca) [tat](tat) [bhage](bhage)
+[ever-wet](nityaklinnā) [nectar-goddess](sudhā-devī) [pleasure](rati) [love](prītiḥ) [and](ca) [in-that-place](tadbhage)
