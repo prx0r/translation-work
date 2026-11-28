@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[gauṇaḥ](gauṇaḥ) [kṣetre](kṣetre) [athavā](athavā) [ṣaḍdorekavaktraḥ](ṣaḍdorekavaktraḥ) [praśasyate](praśasyate)
+[gauṇaḥ](gauṇaḥ) [in-field](kṣetre) [or](athavā) [six-door-mouth](ṣaḍdorekavaktraḥ) [praised](praśasyate)
 
 ## mukta-m0-p40-v977
-[yathākramaṃ](yathākramaṃ) [sadā](sadā) [ṣaḍbhiḥ](ṣaḍbhiḥ) [dakṣiṇottarapāṇibhiḥ](dakṣiṇottarapāṇibhiḥ)
+[as-order](yathākramaṃ) [always](sadā) [six](ṣaḍbhiḥ) [right-left-hands](dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-[bibhrachaktiṃ](bibhrachaktiṃ) [kare](kare) [yāmye](yāmye) [tāmracūḍaṃ](tāmracūḍaṃ) [tathā](tathā) [itare](itare)
+[holding](bibhrat) [shakti](śaktiṃ) [in-hand](kare) [right](yāmye) [peacock](tāmracūḍaṃ) [and](tathā) [other](itare)
 
 ## mukta-m0-p40-v979
-[śikhyārūḍhaḥ](śikhyārūḍhaḥ) [tu](tu) [śārvaḥ](śārvaḥ) [ayaṃ](ayaṃ) [sarvālaṅkārabhaṣitaḥ](sarvālaṅkārabhaṣitaḥ)
+[peacock-mounted](śikhyārūḍhaḥ) [but](tu) [sharva](śārvaḥ) [this](ayaṃ) [all-ornament-adorned](sarvālaṅkārabhūṣitaḥ)
 
 ## mukta-m0-p40-v980
-[śilāhemādilohaiḥ](śilāhemādilohaiḥ) [vā](vā) [vṛṣaṃ](vṛṣaṃ) [kuryāt](kuryāt) [yathā](yathā) [īpsitam](īpsitam)
+[stone-gold-etc-metals](śilāhemādilohaiḥ) [or](vā) [bull](vṛṣaṃ) [make](kuryāt) [as-desired](yathepsitam)
 
 ## mukta-m0-p40-v981
-[sādhāraṇeṣu](sādhāraṇeṣu) [liṅgeṣu](liṅgeṣu) [prastāvāt](prastāvāt) [vihitaḥ](vihitaḥ) [vṛṣaḥ](vṛṣaḥ)
+[common](sādhāraṇeṣu) [lingas](liṅgeṣu) [from-context](prastāvāt) [prescribed](vihitaḥ) [bull](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-[liṅgatryaṃśojhitaḥ](liṅgatryaṃśojhitaḥ) [kāryaḥ](kāryaḥ) [tad](tad) [dvirāyativigrahaḥ](dvirāyativigrahaḥ)
+[linga-three-parts-deprived](liṅgatryaṃśojhitaḥ) [should-be-made](kāryaḥ) [double-length-figure](taddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-[śubha](śubha) [unmolita](unmolita) [dṛglakṣma](dṛglakṣma) [liṅgam](liṅgam) [astakam](astakam) [astakaḥ](astakaḥ)
+[auspicious-opened-eye-mark](śubhonmolitadṛglakṣma) [linga-head](liṅgamastaka) [head](mastakaḥ)
 
 ## mukta-m0-p40-v984
-[dairghyāt](dairghyāt) [caturaśa](caturaśa) [utyaśāḥ](utyaśāḥ) [ca](ca) [aṅgulaṃ](aṅgulaṃ) [tena](tena) [kalpanam](kalpanam)
+[from-length](dairghyāt) [square-etc](caturaśotyaśāḥ) [inches](aṅgulaṃ) [by-that](tena) [measurement](kalpanam)
 
 ## mukta-m0-p40-v985
-[aṣṭanetra](aṣṭanetra) [pṛthutvaṃ](pṛthutvaṃ) [syāt](syāt) [proccaiḥ](proccaiḥ) [tad](tad) [vaktra](vaktra) [dīrghatā](dīrghatā)
+[eight-eye-breadth](aṣṭanetrapṛthutvaṃ) [be](syāt) [high](uccaiḥ) [that-mouth-length](tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-[tantri](tantri) [bhāgaṃ](bhāgaṃ) [tu](tu) [tārā](tārā) [syāt](syāt) [jyotiḥ](jyotiḥ) [tat](tat) [pañcamāṃśataḥ](pañcamāṃśataḥ)
+[string-part](tantribhāgaṃ) [but](tu) [star](tārā) [be](syāt) [light](jyotiḥ) [that-fifth-part](tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-[nāsāṅgulapramāvṛttā](nāsāṅgulapramāvṛttā) [dvinetraṃ](dvinetraṃ) [śuṣirāntaram](śuṣirāntaram)
+[nose-inch-measure-round](nāsāṅgulapramāvṛttā) [two-eye](dvinetraṃ) [hollow-interior](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-[pañcanetraṃ](pañcanetraṃ) [tu](tu) [vistāraṃ](vistāraṃ) [tad](tad) [ūrdhva](ūrdhva) [tu](tu) [vivardhate](vivardhate)
+[five-eye](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that-above](tadūrdhva) [increases](vivardhate)
 
 ## mukta-m0-p40-v989
-[caturnetra](caturnetra) [ubhayoḥ](ubhayoḥ) [pārśve](pārśve) [vaktramānaṃ](vaktramānaṃ) [tu](tu) [sandhitaḥ](sandhitaḥ)
+[four-eye](caturnetraḥ) [both](ubhayoḥ) [sides](pārśve) [mouth-measure](vaktramānaṃ) [joined](sandhitaḥ)
 
 ## mukta-m0-p40-v990
-[tanmūle](tanmūle) [saptavistāraṃ](saptavistāraṃ) [karṇamūlasamanvitam](karṇamūlasamanvitam)
+[that-base](tanmūle) [seven-breadth](saptavistāraṃ) [ear-base-accompanied](karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-[aṅgulārdhasamaṃ](aṅgulārdhasamaṃ) [yāvat](yāvat) [mūlaṃ](mūlaṃ) [pañcakavartulam](pañcakavartulam)
+[half-inch-equal](aṅgulārdhasamaṃ) [up-to](yāvat) [base](mūlaṃ) [five-round](pañcakavartulam)
 
 ## mukta-m0-p40-v992
-[karṇamūlāt](karṇamūlāt) [tu](tu) [nāsārdhaṃ](nāsārdhaṃ) [sūtrahāsāt](sūtrahāsāt) [nayet](nayet) [samam](samam)
+[from-ear-base](karṇamūlāt) [nose-half](nāsārdhaṃ) [thread-smile](sūtrahāsa) [lead-equal](nayetsamam)
 
 ## mukta-m0-p40-v993
-[śaṅkhamūla](śaṅkhamūla) [dvinetraṃ](dvinetraṃ) [syāt](syāt) [yathā](yathā) [agre](agre) [netrapādakam](netrapādakam)
+[conch-base](śaṅkhamūla) [two-eye](dvinetraṃ) [be](syāt) [as-front](yathāgre) [eye-foot](netrapādakam)
 
 ## mukta-m0-p40-v994
-[pārśvapiṇḍī](pārśvapiṇḍī) [dvinetrārdhaṃ](dvinetrārdhaṃ) [ṣaḍnetrāgrāvaṭuḥ](ṣaḍnetrāgrāvaṭuḥ) [smṛtaḥ](smṛtaḥ)
+[side-lump](pārśvapiṇḍī) [two-eye-half](dvinetrārdhaṃ) [six-eye-front-tuft](ṣaḍnetrāgrāvaṭuḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p40-v995
-[dvinetrocchrayatordhvaṃ](dvinetrocchrayatordhvaṃ) [syāt](syāt) [vṛttamūrdhvaṃ](vṛttamūrdhvaṃ) [yathā](yathā) [bhavet](bhavet)
+[two-eye-height-above](dvinetrocchrayatordhvaṃ) [be](syāt) [round-above](vṛttamūrdhvaṃ) [as](yathā) [be](bhavet)
 
 ## mukta-m0-p40-v996
-[sandhiḥ](sandhiḥ) [netrādhikaḥ](netrādhikaḥ) [proktaḥ](proktaḥ) [caturnetropajaṅghikā](caturnetropajaṅghikā)
+[joint](sandhiḥ) [eye-excess](netrādhikaḥ) [stated](proktaḥ) [four-eye-calf](caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-[gulphārdhaṃ](gulphārdhaṃ) [khurikānetraṃ](khurikānetraṃ) [pādasya](pādasya) [at](at) [parimāṇataḥ](parimāṇataḥ)
+[ankle-half](gulphārdhaṃ) [hoof-eye](khurikānetraṃ) [foot](pādasya) [from-measure](parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-[caturdaśādi](caturdaśādi) [tad](tad) [vaca](vaca) [trihīne](trihīne) [ca](ca) [upajaṅghrikā](upajaṅghrikā)
+[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [calf](upajaṅghrikā)
 
 ## mukta-m0-p40-v999
-[ṣaḍnetrāntaḥ](ṣaḍnetrāntaḥ) [tathā](tathā) [jñeyā](jñeyā) [tasmāt](tasmāt) [syāt](syāt) [pucchasantatiḥ](pucchasantatiḥ)
+[six-eye-end](ṣaḍnetrāntaḥ) [thus-known](tathājñeyā) [therefore](tasmāt) [tail-continuity](syātpucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-[tālatrayaṃ](tālatrayaṃ) [pradīrghaṃ](pradīrghaṃ) [syāt](syāt) [tālārdhaṃ](tālārdhaṃ) [keśasaṃhatiḥ](keśasaṃhatiḥ)
+[three-palms](tālatrayaṃ) [very-long](pradīrghaṃ) [be](syāt) [palm-half](tālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
