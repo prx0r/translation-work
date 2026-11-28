@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[citte](citte) [iti](iti) [padaṃ](padaṃ) [procya](procya) [reto](reto) [muṃcadvayaṃ](muṃcadvayaṃ) [vadet](vadet)
+citte(citte) iti(iti) padaṃ(padaṃ) procya(procya) reto(reto) muṃcadvayaṃ(muṃca+dvayaṃ) vadet(vadet)
 
 ## mukta-m0-p37-v902
-[evaṃ](evaṃ) [maṃtraṃ](maṃtraṃ) [japanneva](japanneva) [liṃgatāṃḍavam](liṃgatāṃḍavam) [ācaret](ācaret)
+evaṃ(evaṃ) maṃtraṃ(maṃtraṃ) japanneva(japan+eva) liṃgatāṃḍavam(liṃga+tāṃḍavam) ācaret(ācaret)
 
 ## mukta-m0-p37-v903
-[sphuradgupigupitkāraṃ](sphuradgupigupitkāraṃ) [vimuṃcati](vimuṃcati) [parāmṛtam](parāmṛtam)
+sphuradgupigupitkāraṃ(sphurat+gupi+gupit+kāraṃ) vimuṃcati(vimuṃcati) parāmṛtam(parāmṛtam)
 
 ## mukta-m0-p37-v904
-[yamunāsalilaiḥ](yamunāsalilaiḥ) [īśāḥ](īśāḥ) [saṃśekaphalam](saṃśekaphalam) [aśnute](aśnute)
+yamunāsalilair(yamunā+salilaiḥ) īśāḥ(īśāḥ) saṃśekaphalamaśnute(saṃśeka+phalam+aśnute)
 
 ## mukta-m0-p37-v905
-[datte](datte) [paśupatatvaṃ](paśupatatvaṃ) [ca](ca) [yajamānamayīṃ](yajamānamayīṃ) [sthitim](sthitim)
+datte(datte) paśupatatvaṃ(paśupati+tvaṃ) ca(ca) yajamānamayīṃ(yajamāna+mayīṃ) sthitim(sthitim)
 
 ## mukta-m0-p37-v906
-[sarveṣām](sarveṣām) [evamaṃtrāṇām](evamaṃtrāṇām) [svayameva](svayameva) [prakāśatā](prakāśatā)
+sarveṣām(sarveṣām) evaṃ(evaṃ) maṃtrāṇāṃ(maṃtrāṇāṃ) svayameva(svayam+eva) prakāśatā(prakāśatā)
 
 ## mukta-m0-p37-v907
-[kavitvasya](kavitvasya) [parākāṣṭhā](parākāṣṭhā) [rasasaubhāgyaśālinī](rasasaubhāgyaśālinī)
+kavitvasya(kavitvasya) parākāṣṭhā(parākāṣṭhā) rasasaubhāgyaśālinī(rasa+saubhāgya+śālinī)
 
 ## mukta-m0-p37-v908
-[pravṛttiṃ](pravṛttiṃ) [ca](ca) [nivṛttiṃ](nivṛttiṃ) [ca](ca) [bhūtānām](bhūtānām) [iva](iva) [sarvaśaḥ](sarvaśaḥ)
+pravṛttiṃ(pravṛttiṃ) ca(ca) nivṛttiṃ(nivṛttiṃ) ca(ca) bhūtānām(bhūtānām) iva(iva) sarvaśaḥ(sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-[rasasiddhiṃ](rasasiddhiṃ) [pādukāyāḥ](pādukāyāḥ) [siddhiṃ](siddhiṃ) [nidhyaṃjanaṃ](nidhyaṃjanaṃ) [tathā](tathā)
+rasasiddhiṃ(rasa+siddhiṃ) pādukāyāḥ(pādukāyāḥ) siddhiṃ(siddhiṃ) nidhyaṃjanaṃ(nidhyaṃjanaṃ) tathā(tathā)
 
 ## mukta-m0-p37-v910
-[ākāśagamane](ākāśagamane) [caiva](caiva) [parakāya](parakāya) [praveśane](praveśane)
+ākāśagamane(ākāśa+gamane) caiva(ca+eva) parakāya(parakāya) praveśane(praveśane)
 
 ## mukta-m0-p37-v911
-[pratimācalane](pratimācalane) [caiva](caiva) [bhūtavetāla](bhūtavetāla) [vīkṣaṇe](vīkṣaṇe)
+pratimācalane(pratimā+calane) caiva(ca+eva) bhūtavetāla(bhūta+vetāla) vīkṣaṇe(vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-[pāṭavaṃ](pāṭavaṃ) [paramaṃghatte](paramaṃghatte) [saptamāhuti](saptamāhuti) [sādhakaḥ](sādhakaḥ)
+pāṭavaṃ(pāṭavaṃ) paramaṃ(paramaṃ) ghatte(ghatte) saptamāhuti(saptama+āhuti) sādhakaḥ(sādhakaḥ)
 
 ## mukta-m0-p37-v913
-[mahāliṃgamaheśāna](mahāliṃgamaheśāna) [svarasaiḥ](svarasaiḥ) [cāṃdracaṃdrikaiḥ](cāṃdracaṃdrikaiḥ)
+mahāliṃgamaheśāna(mahā+liṃga+mahā+īśāna) svarasaiḥ(svarasaiḥ) cāṃdracaṃdrikaiḥ(cāṃdra+caṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[saptakūpāraparyaṃta](saptakūpāraparyaṃta) [vāpikīrti](vāpikīrti) [vivardhanī](vivardhanī)
+saptakūpāraparyaṃta(sapta+kūpa+āra+paryaṃta) vāpikīrti(vāpi+kīrti) vivardhanī(vivardhanī)
 
 ## mukta-m0-p37-v915
-[etadāhuti](etadāhuti) [velāyāṃ](velāyāṃ) [dūtikā](dūtikā) [va](va) [sthitim](sthitim) [bruve](bruve)
+etadāhuti(etad+āhuti) velāyāṃ(velāyāṃ) dūtikā(dūtikā) va(va) sthitiṃ(sthitiṃ) bruve(bruve)
 
 ## mukta-m0-p37-v916
-[ānaṃda](ānaṃda) [sukhasaṃbhārāt](sukhasaṃbhārāt) [ati](ati) [maṃtharatātanau](maṃtharatātanau)
+ānaṃda(ānaṃda) sukhasaṃbhārāt(sukha+saṃbhārāt) ati(ati) maṃtharatātanau(maṃthara+tā+tanau)
 
 ## mukta-m0-p37-v917
-[mahānaṃdapayorāśau](mahānaṃdapayorāśau) [majjanaṃ](majjanaṃ) [tu](tu) [kṣaṇe](kṣaṇe) [kṣaṇe](kṣaṇe)
+mahānaṃdapayorāśau(mahā+ānaṃda+payorāśau) majjanaṃ(majjanaṃ) tu(tu) kṣaṇe(kṣaṇe) kṣaṇe(kṣaṇe)
 
 ## mukta-m0-p37-v918
-[ramaṇasyabhujā](ramaṇasyabhujā) [śleṣaṃ](śleṣaṃ) [kiṃcit](kiṃcit) [chlathanatā](chlathanatā) [tathā](tathā)
+ramaṇasya(ramaṇasya) bhujā(bhujā) śleṣaṃ(śleṣaṃ) kiṃcit(kiṃcit) ślathanatā(ślathanatā) tathā(tathā)
 
 ## mukta-m0-p37-v919
-[nitaṃbabiṃbakaṃ](nitaṃbabiṃbakaṃ) [paścāt](paścāt) [kāmacchatrasya](kāmacchatrasya) [narttanam](narttanam)
+nitaṃbabiṃbakaṃ(nitaṃba+biṃbakaṃ) paścāt(paścāt) kāmacchatrasya(kāma+chatrasya) narttanam(narttanam)
 
 ## mukta-m0-p37-v920
-[vacovicchinna](vacovicchinna) [vicchinnapunaruktaṃ](vicchinnapunaruktaṃ) [ca](ca) [bhūyasā](bhūyasā)
+vacovicchinna(vaco+vicchinna) vicchinnapunaruktaṃ(vicchinna+punar+uktaṃ) ca(ca) bhūyasā(bhūyasā)
 
 ## mukta-m0-p37-v921
-[asaṃbaṃdhārthanaṃ](asaṃbaṃdhārthanaṃ) [kiṃcit](kiṃcit) [kiṃcicchuṣkaṃ](kiṃcicchuṣkaṃ) [ca](ca) [rodanam](rodanam)
+asaṃbaṃdhārthanaṃ(asaṃbaṃdha+arthanaṃ) kiṃcit(kiṃcit) kiṃcit(kiṃcit) śuṣkaṃ(śuṣkaṃ) ca(ca) rodanam(rodanam)
 
 ## mukta-m0-p37-v922
-[alaṃ](alaṃ) [nātha](nātha) [namastubhyaṃ](namastubhyaṃ) [punasteracitoṃjaliḥ](punasteracitoṃjaliḥ)
+alaṃ(alaṃ) nātha(nātha) namastubhyaṃ(namas+tubhyaṃ) punaḥ(punaḥ) teracitoṃjaliḥ(teracit+oṃjaliḥ)
 
 ## mukta-m0-p37-v923
-[na](na) [sahebhavato](sahebhavato) [vegaṃ](vegaṃ) [na](na) [sahebhavatoratim](sahebhavatoratim)
+na(na) sahe(sahe) bhavato(bhavato) vegaṃ(vegaṃ) na(na) sahe(sahe) bhavato(bhavato) ratim(ratim)
 
 ## mukta-m0-p37-v924
-[kimarthaṃ](kimarthaṃ) [māṃ](māṃ) [rasadroṇyāṃ](rasadroṇyāṃ) [majjayasyevanirghṛṇā](majjayasyevanirghṛṇā)
+kimarthaṃ(kim+arthaṃ) māṃ(māṃ) rasadroṇyāṃ(rasa+droṇyāṃ) majjayasya(majjayasi) eva(eva) nirghṛṇā(nirghṛṇā)
 
 ## mukta-m0-p37-v925
-[khādāmi](khādāmi) [kiṃte](kiṃte) [sarvāṃgaṃ](sarvāṃgaṃ) [muṃcamāṃ](muṃcamāṃ) [muṃcavallabha](muṃcavallabha)
+khādāmi(khādāmi) kiṃ(kiṃ) te(te) sarvāṃgaṃ(sarva+aṃgaṃ) muṃca(mūṃca) māṃ(māṃ) muṃca(mūṃca) vallabha(vallabha)

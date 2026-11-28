@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[prāpya](prāpya) [tatra](tatra) [balasthānaṃ](balasthānaṃ) [dīptaratneṣu](dīptaratneṣu) [veśmasu](veśmasu)
+[reaching](prāpya) [there](tatra) [strength-place](balasthānaṃ) [in-shining-gem-houses](dīptaratneṣu veśmasu)
 
 ## mukta-m0-p43-v1052
-[tasmādidaṃ](tasmādidaṃ) [mahāyāgaṃ](mahāyāgaṃ) [durllabhaṃ](durllabhaṃ) [marutāmapi](marutāmapi)
+[therefore](tasmād) [this](idaṃ) [great-sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [even-for-winds](marutāmapi)
 
 ## mukta-m0-p43-v1053
-[anyathākaraṇād](anyathākaraṇād) [devī](devī) [vinipātaḥ](vinipātaḥ) [prajāyate](prajāyate)
+[otherwise-doing](anyathākaraṇād) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
 
 ## mukta-m0-p43-v1054
-[prāmāṇike'smin](prāmāṇike'smin) [suśroṇi](suśroṇi) [mārgejīvati](mārgejīvati) [viśvasan](viśvasan)
+[on-authoritative](prāmāṇike'smin) [beautiful-hipped](suśroṇi) [path](mārge) [living](jīvati) [trusting](viśvasan)
 
 ## mukta-m0-p43-v1055
-[maṃtre](maṃtre) [maṃtre](maṃtre) [tu](tu) [karttavye](karttavye) [bheṣaje](bheṣaje) [daivate](daivate) [gurau](gurau)
+[in-mantra](maṃtre) [in-mantra](maṃtre) [to-be-done](tu karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-guru](gurau)
 
 ## mukta-m0-p43-v1056
-[vṛdhā](vṛdhā)
+[old-age](vṛdhā)
 
 ## mukta-m0-p43-v1057
-[paśyaviśvāsamāhātmyaṃ](paśyaviśvāsamāhātmyaṃ) [śilādārumṛdādikam](śilādārumṛdādikam)
+[see](paśya) [faith-greatness](viśvāsamāhātmyaṃ) [stone-wood-clay-etc](śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
-[acetanaṃ](acetanaṃ) [jaḍadravyaṃ](jaḍadravyaṃ) [kena](kena) [siddhiṃ](siddhiṃ) [prayacchati](prayacchati)
+[unconscious](acetanaṃ) [inert-substance](jaḍadravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
 
 ## mukta-m0-p43-v1059
-[karmaśraddhā](karmaśraddhā) [saṃpradāyā](saṃpradāyā) [vubhāvetau](vubhāvetau) [pravarttakau](pravarttakau)
+[work-faith](karmaśraddhā) [tradition](saṃpradāyā) [both](vubhāvetau) [activators](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[sadāmalīmasā](sadāmalīmasā) [mūrkhāścaṃḍālādyāśca](mūrkhāścaṃḍālādyāśca) [jātayaḥ](jātayaḥ)
+[always-impure](sadāmalīmasā) [fools](mūrkhāś) [caṇḍāla-etc](caṃḍālādyāś) [castes](ca jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[nācāro](nācāro) [na](na) [ca](ca) [vā](vā) [śaucaṃ](śaucaṃ) [na](na) [vaiduṣyaṃ](vaiduṣyaṃ) [na](na) [dhīguṇāḥ](dhīguṇāḥ)
+[no-conduct](nācāro) [nor](na ca) [purity](vā śaucaṃ) [nor](na) [learning](vaiduṣyaṃ) [nor](na) [intellect-qualities](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[viśvāso](viśvāso) [nāmamanaso](nāmamanaso) [dṛḍhatāmaṃtrasādhane](dṛḍhatāmaṃtrasādhane)
+[faith](viśvāso) [named](nāma) [of-mind](manaso) [firmness](dṛḍhatā) [in-mantra-accomplishment](maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[evaṃ](evaṃ) [viśvāsamāpannaḥ](viśvāsamāpannaḥ) [phalārthiphalavigrahaḥ](phalārthiphalavigrahaḥ)
+[thus](evaṃ) [faith-attained](viśvāsamāpannaḥ) [fruit-desiring](phalārthi) [fruit-form](phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brāhmaṇakṣatriya](brāhmaṇakṣatriya) [viśāmadhikāro'traśāsanam](viśāmadhikāro'traśāsanam)
+[brahmin-kshatriya](brāhmaṇakṣatriya) [vaishya](viśā) [authority](madhikāro'tra) [rule](śāsanam)
 
 ## mukta-m0-p43-v1065
-[vīraśuśrūṣaṇaṃ](vīraśuśrūṣaṇaṃ) [teṣāmabhiṣṭaphalasiddhayaḥ](teṣāmabhiṣṭaphalasiddhayaḥ)
+[hero-service](vīraśuśrūṣaṇaṃ) [their](teṣām) [desired-fruit-success](abhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[vaiśyasya](vaiśyasya) [paṇyalābhārdhaṃ](paṇyalābhārdhaṃ) [sudrādernakadācana](sudrādernakadācana)
+[of-vaishya](vaiśyasya) [merchandise-profit-half](paṇyalābhārdhaṃ) [of-shudra](sudrādernakadācana)
 
 ## mukta-m0-p43-v1067
-[ekaivajātirnārīti](ekaivajātirnārīti) [grāhyā](grāhyā) [lakṣaṇasaṃbhave](lakṣaṇasaṃbhave)
+[one-caste](ekaivajātir) [woman](nārīti) [to-be-taken](grāhyā) [when-marks-present](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[pūjāsādhanametā](pūjāsādhanametā) [hi](hi) [mayāsṛṣṭā](mayāsṛṣṭā) [mṛgīdṛśaḥ](mṛgīdṛśaḥ)
+[worship-means](pūjāsādhanam) [these](etā hi) [by-me-created](mayāsṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[gāvastu](gāvastu) [pṛṣṭhatomedhyā](pṛṣṭhatomedhyā) [medhyāvaktreṇa](medhyāvaktreṇa) [vādinaḥ](vādinaḥ)
+[cows](gāvastu) [back-pure](pṛṣṭhatomedhyā) [pure-mouthed](medhyāvaktreṇa) [speakers](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[strīmukhaṃ](strīmukhaṃ) [tu](tu) [sadā](sadā) [śuddhirnocciṣṭaṃ](śuddhirnocciṣṭaṃ) [tatra](tatra) [vidyate](vidyate)
+[woman-face](strīmukhaṃ) [always](tu sadā) [purity](śuddhir) [no-leftover](nocciṣṭaṃ) [there](tatra) [is](vidyate)
 
 ## mukta-m0-p43-v1071
-[tābhirvinā](tābhirvinā) [na](na) [yajño'sti](yajño'sti) [na](na) [tapo'stina](tapo'stina) [vā](vā) [vratam](vratam)
+[without-them](tābhirvinā) [no](na) [sacrifice](yajño'sti) [no](na) [austerity](tapo'sti) [no](na) [vow](vā vratam)
 
 ## mukta-m0-p43-v1072
-[aṣṭāhutirmahāyāge](aṣṭāhutirmahāyāge) [pradhānaṃ](pradhānaṃ) [dūtikāḥ](dūtikāḥ) [smṛtāḥ](smṛtāḥ)
+[eight-oblations](aṣṭāhutir) [great-sacrifice](mahāyāge) [principal](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[ānīyaghaṭiyatyeṣā](ānīyaghaṭiyatyeṣā) [tasmād](tasmād) [dūti](dūti) [prakīrtitā](prakīrtitā)
+[brought-vessel](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [called](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[dūtī](dūtī) [tena](tena) [budhaiḥ](budhaiḥ) [proktā](proktā) [ciṃtā](ciṃtā) [saṃtāparodhinī](saṃtāparodhinī)
+[messenger](dūtī) [by-wise](tena budhaiḥ) [said](proktā) [thought](ciṃtā) [distress-removing](saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[bhoginībhogalakṣmīśca](bhoginībhogalakṣmīśca) [tasyāḥ](tasyāḥ) [paryāya](paryāya) [sūktayaḥ](sūktayaḥ)
+[enjoyer](bhoginī) [enjoyment-lakshmi](bhogalakṣmīśca) [her](tasyāḥ) [synonyms](paryāya) [hymns](sūktayaḥ)
