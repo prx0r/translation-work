@@ -15,8 +15,8 @@
 "quick_gloss": "particle"
 },
 {
-"surface": "aṇaṃ",
-"quick_gloss": "fragment"
+"surface": "kaṇaṃ",
+"quick_gloss": "grain"
 },
 {
 "surface": "praveśena",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "asiśātanam",
-"quick_gloss": "striking"
+"quick_gloss": "weapon-cutting"
 }
 ]
 },
@@ -44,12 +44,8 @@
 "quick_gloss": "therein"
 },
 {
-"surface": "sūtra",
-"quick_gloss": "thread"
-},
-{
-"surface": "sambhrānte",
-"quick_gloss": "confusion"
+"surface": "sūtrasambhrānte",
+"quick_gloss": "thread-confusion"
 },
 {
 "surface": "rudro",
@@ -73,16 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣiped",
+"surface": "kṣipedvā",
 "quick_gloss": "throws"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
 "surface": "śūnyadoṣaghnaṃ",
-"quick_gloss": "void-fault-destroying"
+"quick_gloss": "void-defect-destroying"
 },
 {
 "surface": "hastāt",
@@ -123,7 +115,7 @@
 },
 {
 "surface": "amarorcite",
-"quick_gloss": "worshipped-by-gods"
+"quick_gloss": "god-worshipped"
 }
 ]
 },
@@ -144,7 +136,7 @@
 },
 {
 "surface": "proktam",
-"quick_gloss": "declared"
+"quick_gloss": "proclaimed"
 },
 {
 "surface": "ādyāmarārcitena",
@@ -164,24 +156,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page-74"
-},
-{
 "surface": "bhaveyuḥ",
-"quick_gloss": "would-be"
+"quick_gloss": "become"
 },
 {
 "surface": "vardhamānāni",
 "quick_gloss": "increasing"
 },
 {
-"surface": "śatāni",
-"quick_gloss": "hundreds"
+"surface": "vasudviṣaṭśatāni",
+"quick_gloss": "earth-six-hundred"
 },
 {
-"surface": "vasudviṣaṭ",
-"quick_gloss": "earth-enemies"
+"surface": "ca",
+"quick_gloss": "and"
 }
 ]
 },
@@ -202,7 +190,7 @@
 },
 {
 "surface": "vaktavyaṃ",
-"quick_gloss": "should-speak"
+"quick_gloss": "to-be-spoken"
 },
 {
 "surface": "pīṭhavartanam",
@@ -218,12 +206,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tac",
+"surface": "tacca",
 "quick_gloss": "that"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "samasamaṃ",
@@ -276,7 +260,7 @@
 },
 {
 "surface": "pitāmahaḥ",
-"quick_gloss": "pitāmaha"
+"quick_gloss": "grandfather"
 }
 ]
 },
@@ -292,12 +276,8 @@
 "quick_gloss": "up-to-head"
 },
 {
-"surface": "nābhitaś",
-"quick_gloss": "from-navel"
-},
-{
-"surface": "ūrdhvaṃ",
-"quick_gloss": "upward"
+"surface": "nābhitaścordhvaṃ",
+"quick_gloss": "from-navel-upward"
 },
 {
 "surface": "vṛttabhāge",
@@ -338,7 +318,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -354,12 +334,16 @@
 "quick_gloss": "five-linga-arrangement"
 },
 {
-"surface": "atha",
-"quick_gloss": "then"
+"surface": "iyam",
+"quick_gloss": "this"
 },
 {
-"surface": "śirovartinī",
-"quick_gloss": "head-located"
+"surface": "śirovartini",
+"quick_gloss": "head-turning"
+},
+{
+"surface": "atha",
+"quick_gloss": "then"
 },
 {
 "surface": "ucyate",
@@ -376,23 +360,23 @@
 "tokens": [
 {
 "surface": "ekaikasya",
-"quick_gloss": "one-by-one"
+"quick_gloss": "of-each"
 },
 {
 "surface": "caturbhedaiḥ",
-"quick_gloss": "four-divisions"
+"quick_gloss": "four-varieties"
 },
 {
 "surface": "kāmyarūpāt",
 "quick_gloss": "desired-form"
 },
 {
-"surface": "phala",
+"surface": "phalaṃ",
 "quick_gloss": "fruit"
 },
 {
 "surface": "vadet",
-"quick_gloss": "would-say"
+"quick_gloss": "would-speak"
 }
 ]
 },
@@ -404,10 +388,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page-75"
-},
-{
 "surface": "cirarājyaprada",
 "quick_gloss": "long-reign-giving"
 },
@@ -417,7 +397,7 @@
 },
 {
 "surface": "chatrabhedāḥ",
-"quick_gloss": "umbrella-divisions"
+"quick_gloss": "umbrella-varieties"
 },
 {
 "surface": "caturvidhāḥ",
@@ -434,7 +414,7 @@
 "tokens": [
 {
 "surface": "mānada",
-"quick_gloss": "measuring"
+"quick_gloss": "measure-giving"
 },
 {
 "surface": "pakṣa",
@@ -478,12 +458,16 @@
 "quick_gloss": "son-giving"
 },
 {
-"surface": "kūrma",
-"quick_gloss": "kūrma"
+"surface": "kurtu",
+"quick_gloss": "kurtu"
 },
 {
 "surface": "dakṣāṇḍaṃ",
 "quick_gloss": "dakṣa-egg"
+},
+{
+"surface": "syāt",
+"quick_gloss": "becomes"
 },
 {
 "surface": "caturvidham",
@@ -500,11 +484,11 @@
 "tokens": [
 {
 "surface": "puṣṭidaṃ",
-"quick_gloss": "nourishing"
+"quick_gloss": "nourishment-giving"
 },
 {
 "surface": "dvikṣayāt",
-"quick_gloss": "from-two-decay"
+"quick_gloss": "two-decay"
 },
 {
 "surface": "pūrṇaṃ",
@@ -512,7 +496,7 @@
 },
 {
 "surface": "mahāhlādakara",
-"quick_gloss": "great-delight-giving"
+"quick_gloss": "great-delight-causing"
 },
 {
 "surface": "sadā",
@@ -537,7 +521,7 @@
 },
 {
 "surface": "jñeyaṃ",
-"quick_gloss": "known"
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "candraṃ",
@@ -566,7 +550,7 @@
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "declared"
+"quick_gloss": "proclaimed"
 },
 {
 "surface": "vināśaṃ",
@@ -574,7 +558,7 @@
 },
 {
 "surface": "dvikṣayāt",
-"quick_gloss": "from-two-decay"
+"quick_gloss": "two-decay"
 },
 {
 "surface": "śriye",
@@ -594,12 +578,8 @@
 "quick_gloss": "ballabha-giving"
 },
 {
-"surface": "tac",
+"surface": "tacca",
 "quick_gloss": "that"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "caturdhā",
@@ -628,7 +608,7 @@
 },
 {
 "surface": "viprādikāryārtham",
-"quick_gloss": "for-brahmin-etc-work"
+"quick_gloss": "for-brāhmaṇa-etc-work"
 },
 {
 "surface": "ekaṃ",
@@ -660,8 +640,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "candra",
-"quick_gloss": "moon"
+"surface": "ardhendoḥ",
+"quick_gloss": "half-moon"
 },
 {
 "surface": "kṛkavākvaṇḍataḥ",
@@ -694,7 +674,7 @@
 },
 {
 "surface": "brahmādiveṣṭanam",
-"quick_gloss": "brahma-etc-wrapping"
+"quick_gloss": "brahmā-etc-enclosure"
 }
 ]
 },
@@ -715,11 +695,11 @@
 },
 {
 "surface": "aṃśatṛtīyāṃśa",
-"quick_gloss": "third-part"
+"quick_gloss": "part-third"
 },
 {
 "surface": "yutena",
-"quick_gloss": "with-added"
+"quick_gloss": "added"
 },
 {
 "surface": "ca",
@@ -736,11 +716,11 @@
 "tokens": [
 {
 "surface": "bhāgatṛtīyabhāgena",
-"quick_gloss": "third-part-of-part"
+"quick_gloss": "third-part-share"
 },
 {
 "surface": "nakhacandrānvitena",
-"quick_gloss": "with-nail-moon"
+"quick_gloss": "nail-moon-included"
 },
 {
 "surface": "ca",
