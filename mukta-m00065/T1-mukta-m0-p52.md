@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sūtra-madhye](sūtramadhye) [ardha-sūtreṇa](ardhasūtreṇa) [matsyān](matsyān) [koṇeṣu](koṇeṣu) [sarvataḥ](sarvataḥ)
+[thread-middle](sūtramadhye) [half-thread-instrumental](ardhasūtreṇa) [fish-acc](matsyān) [corners-loc](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[veda-asram](vedāsraṃ) [piṇḍikā-kṣetraṃ](piṇḍikākṣetraṃ) [kuṇḍānām](kuṇḍānām) [api](api) [sarvadā](sarvadā)
+[veda-weapon](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [of-kunds](kuṇḍānām) [always](api) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-[madhyāt](madhyānmadhyagataṃ) [madhya-gataṃ](madhyānmadhyagataṃ) [sūtraṃ](sūtraṃ) [koṇaṃ](koṇaṃ) [saṃveṣṭya](saṃveṣdya) [ca](ca) [aparam](aparam)
+[middle-from](madhyāt) [middle-gone](madhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [other](cāparam)
 
 ## mukta-m0-p52-v1279
-[tat-sūtra-dvaya-saṃyogāt](tatsūtradvayasaṃyogātsādhayedvā) [sādhayet](tatsūtradvayasaṃyogātsādhayedvā) [vā](tatsūtradvayasaṃyogātsādhayedvā) [tri-parṇikām](triparṇikām)
+[that-thread-pair-union](tatsūtradvayasaṃyogāt) [accomplish](sādhayed) [three-leaf](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[saṃbhrāmya](saṃbhrāmya) [madhyataḥ](madhyataḥ) [sūtraṃ](sūtraṃ) [sādhayet](sādhayedardhacandrikām) [ardha-candrikām](sādhayedardhacandrikām)
+[revolving](saṃbhrāmya) [from-middle](madhyataḥ) [thread](sūtraṃ) [accomplish](sādhayed) [half-moon](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[rakṣaḥ](rakṣo'gnisaumyakāṣṭhāsu) [agni](rakṣo'gnisaumyakāṣṭhāsu) [saumya](rakṣo'gnisaumyakāṣṭhāsu) [kāṣṭhāsu](rakṣo'gnisaumyakāṣṭhāsu) [tri-sūtrī](trisūtrya) [tri-koṇikām](trikoṇikām)
+[demon-fire-soma-wood](rakṣo'gnisaumyakāṣṭhāsu) [there](ta) [three-thread](trisūtrya) [triangle](trikoṇikām)
 
 ## mukta-m0-p52-v1282
-[madhyāt](madhyādhasūtrasaṃbhrāntaiḥ) [adha-sūtra](madhyādhasūtrasaṃbhrāntaiḥ) [saṃbhrāntaiḥ](madhyādhasūtrasaṃbhrāntaiḥ) [piṇḍikā](piṇḍikā) [vartulā](vartulā) [bhavet](bhavet)
+[middle-lower-thread-revolving](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-[turya-asra-vṛttayoḥ](turyāsravṛttayormadhye) [madhye](turyāsravṛttayormadhye) [yamandoḥ](yamandvoḥ) [sūtra-pātanam](sūtrapātanam)
+[fourth-weapon-circle](turyāsravṛttayoḥ) [middle](madhye) [pair](yamandvoḥ) [thread-falling](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[bhavet](bhavetṣaḍasrikāpiṇḍī) [ṣaḍ-asrikā](bhavetṣaḍasrikāpiṇḍī) [piṇḍī](bhavetṣaḍasrikāpiṇḍī) [śeṣa-rekhā](śeṣarekhāvithopanāt) [vithopanāt](śeṣarekhāvithopanāt)
+[becomes](bhavet) [six-cornered-pedestal](ṣaḍasrikāpiṇḍī) [remaining-line-removal](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[sūtra-madhyārdha](sūtramadhyārdha) [sa-bṛttāt](sabṛttādabjā) [abjā](sabṛttādabjā) [syāt](syāt) [pūrva-coditā](pūrvacoditā)
+[thread-middle-half](sūtramadhyārdha) [round](sabṛttāt) [lotus](abjā) [becomes](syāt) [previously-stated](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[madhya-sūtra-ardha-bhāgena](madhyasūtrārdha) [koṇāni](koṇāni) [hrāsayet](hrāsayedatha) [atha](atha)
+[middle-thread-half](madhyasūtrārdha) [portion](bhāgena) [corners](koṇāni) [reduce](hrāsayed) [then](atha)
 
 ## mukta-m0-p52-v1287
-[koṇaiḥ](koṇaiḥ) [sūtra-paricchinnaiḥ](sūtraparicchinnaiḥ) [kuryāt](kuryādaṣṭāsrikāṃ) [aṣṭāsrikām](kuryādaṣṭāsrikāṃ) [sadā](sadā)
+[corners](koṇaiḥ) [thread-delimited](sūtraparicchinnaiḥ) [make](kuryāt) [eight-cornered](aṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-[saṃchidya](saṃchidyāsrīṃśca) [asrīn](saṃchidyāsrīṃśca) [ca](saṃchidyāsrīṃśca) [saṃchidya](saṃchidya) [kṛtvā](kṛtvā) [tu](tu) [daśamāstrikam](daśamāstrikam)
+[cutting](saṃchidya) [weapon](asrīṃś) [ca](ca) [cutting](saṃchidya) [making](kṛtvā) [tu](tu) [ten-part](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[kartavyā](kartavyā) [ṣoḍakāṃśaiḥ](ṣoḍakāṃśaistu) [tu](tu) [piṇḍikā](piṇḍikā) [keśava-āśrayā](keśavāśrayā)
+[make](kartavyā) [sixteen-part](ṣoḍakāṃśaiḥ) [pedestal](piṇḍikā) [keśava-refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[pūrvavat](pūrvavatyoḍaśaṃśaistu) [yoḍaśaṃśaiḥ](pūrvavatyoḍaśaṃśaistu) [tu](pūrvavatyoḍaśaṃśaistu) [kuryāt](kuryād) [dvātriṃśat-asrikām](dvātriṃśadasrikām)
+[as-before](pūrvavat) [sixteen-part](yoḍaśaṃśaiḥ) [make](kuryāt) [thirty-two-cornered](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[āgneyī](āgneyī) [bodhi-patrābhā](bodhipatrābhā) [pintaro](pintarogāgnidāhakṛt) [gāgni](pintarogāgnidāhakṛt) [dāha-kṛt](pintarogāgnidāhakṛt)
+[āgneyī](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [pintaroga-fire-burning](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[tri-koṇā](trikoṇā) [rākṣasājām](rākṣasājāṃ) [tu](tu) [deśa](deśo) [cchada-karī](cchadakarī) [sadā](sadā)
+[triangle](trikoṇā) [rākṣasa-born](rākṣasājāṃ) [tu](tu) [region](deśo) [covering](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-[vāyavyā](vāyavyā) [ca](ca) [ṣaḍ-asrā](ṣaḍasroktā) [uktā](ṣaḍasroktā) [śatru-uccāṭana-kārikā](śatrūccāṭanakārikā)
+[vāyavyā](vāyavyā) [ca](ca) [six-cornered](ṣaḍasroktā) [enemy-expulsion](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[raudrī](raudrī) [tu](tu) [aṣṭāsrikā](aṣṭāsrikā) [jñeyā](jñeyā) [mukti-dā](muktidā) [sāri-nāśinī](sārināśinī)
+[raudrī](raudrī) [eight-cornered](tvaṣṭāsrikā) [known](jñeyā) [liberation-giving](muktidā) [sin-destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[dvātriṃśat-asrikā](dvātriṃśadasrikā) [vāhnī](vāhnī) [svarga-ākhyā](svargākhyā) [phala-dāyinī](phaladāyinī)
+[thirty-two-cornered](dvātriṃśadasrikā) [vāhnī](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[ardha-candra-upamā](ardhacandropamā) [nīlaṃ](nīlaṃ) [śeṣaḥ](śeṣaḥ) [kodaṇḍa-vat](kodaṇḍavadbhavet) [bhavet](kodaṇḍavadbhavet)
+[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-[piṇḍīm](piṇḍīmāmastakādīnāṃ) [āma](piṇḍīmāmastakādīnāṃ) [mastakādīnām](piṇḍīmāmastakādīnāṃ) [karoti](karotyevaṃ) [evaṃ](karotyevaṃ) [vidhaṃ](vidhaṃ) [phalam](phalam)
+[pedestal-head-etc](piṇḍīmāmastakādīnāṃ) [does](karotyevaṃ) [such](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-[bhaga-liṅga-aṅkita](bhagaliṅgāṅkita) [sarvaṃ](sarvaṃ) [trailokyaṃ](trailokyaṃ) [sa-cara-acaram](sacarācaram)
+[bhaga-liṅga-marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [moving-immoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[śiva-liṅgaṃ](śivaliṅgaṃ) [paraṃ](paraṃ) [taccaṃ](taccaṃ) [tayoḥ](tayoryogā) [yogāt](tayoryogā) [mahat-phalam](mahatphalam)
+[śiva-liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [their-union](tayoryogā) [great-fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-[dalāṅghri-gartikā](dalāṅghrigartikā) [kūrma](kūrmoṃ) [veda-asrā](vedāsrā) [valiṅga-artinī](valiṅgartinī)
+[petal-foot-cavity](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda-weapon](vedāsrā) [liṅga-cavity](valiṅgartinī)
