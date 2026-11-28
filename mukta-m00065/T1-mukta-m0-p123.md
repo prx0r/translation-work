@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
+gandhaṃ(fragrance) puṣpaṃ(flower) ca(and) dhūpādyaṃ(incense-etc) sākṣataṃ(with-rice) ca(and) pavitrakam(sacred-thread)
 
 ## mukta-m0-p123-v3052
-[śiva](śivaṃ) [offer](nivedayet) [on-head](mūrdhni) [by-exhalation](recakena) [nectar-made](amṛtīkṛtam)
+śivaṃ(śiva) nivedayet(should-offer) mūrdhni(on-head) recakena(by-exhalation) amṛtīkṛtam(made-nectar)
 
 ## mukta-m0-p123-v3053
-[morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [do](kuryāt) [according-to-wealth](svavittataḥ)
+prātaḥ(morning) snātaḥ(bathed) śuciḥ(pure) śuddhaḥ(clean) pūjāṃ(worship) kuryāt(should-do) svavittataḥ(according-to-wealth)
 
 ## mukta-m0-p123-v3054
-[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-pours](jalāntarair) [sprinkling](virukṣaṇam)
+pañcabhiḥ(with-five) madhuraiḥ(sweet-baths) snānaṃ(bathing) jalāntaraiḥ(water-intervals) virukṣaṇam(drying)
 
 ## mukta-m0-p123-v3055
-[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [worship](prapūjayet)
+aṣṭāṅgaḥ(eight-limbed) arghaṃ(argha) pradāya(offering) atha(then) samālabhya(anointing) prapūjayet(should-worship)
 
 ## mukta-m0-p123-v3056
-[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
+vastraiḥ(with-cloths) saṃchāditaṃ(covered) veśma(house) ghaṭa-pot + ācāmara-chowrie + bhūṣaṇaiḥ(ornaments)
 
 ## mukta-m0-p123-v3057
-[with-banana-mango-garlands](kadalīcūtamālābhir) [born-seed-fragrant](jātabījasarocakaiḥ)
+kadalī-banana + cūta-mango + mālābhiḥ(garlands) jāta-born + bīja-seed + sarocakaiḥ(ornaments)
 
 ## mukta-m0-p123-v3058
-[with-dance-song](nṛtyagītaiḥ) [gentle](kalaiḥ) [instruments](vādyaiḥ) [spend](nayed) [night](rātriṃ) [with-great-festivals](mahotsavaiḥ)
+nṛtya-dance + gītaiḥ(songs) kalaiḥ(sweet) vādyaiḥ(music) nayet(spend) rātriṃ(night) mahotsavaiḥ(great-festivals)
 
 ## mukta-m0-p123-v3059
-[with-devotion](bhaktyā) [please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
+bhaktyā(with-devotion) santoṣayet(satisfy) sarvān(all) vastra-cloth + dāna-gift + ādi-etc + bhojanaiḥ(food)
 
 ## mukta-m0-p123-v3060
-[from-all-sins-freed](sarvapāpavinirmuktaḥ) [in-rudra-world](rudraloke) [is-honored](mahīyate)
+sarva-all + pāpa-sin + vinirmuktaḥ(freed) rudra-loke(rudra-world) mahīyate(exalted)
 
 ## mukta-m0-p123-v3061
-[cot-sleeping-false-speech](khaṭvāśayanamithyokti) [women-travel-meat-avoider](strīyātrāmiṣavarjakaḥ)
+khaṭvā-bed + śayana-sleeping + mithyā-false + ukti-speech strī-woman + yātrā-travel + miṣa-meat + varjakaḥ(avoiding)
 
 ## mukta-m0-p123-v3062
-[worship](pūjāṃ) [having-done](kṛtvā) [śiva](śivaṃ) [having-bowed](natvā) [purifier](pavitraṃ) [and](ca) [dismiss](visarjayet)
+pūjāṃ(worship) kṛtvā(doing) śivaṃ(śiva) natvā(bowing) pavitraṃ(sacred-thread) ca(and) visarjayet(release)
 
 ## mukta-m0-p123-v3063
-[having-done](kṛtvā) [throw](kṣipet) [purifiers](pavitrāṇi) [in-śiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
+kṛtvā(doing) kṣipet(throw) pavitrāṇi(sacred-threads) śiva-śiva + agnau(fire) vā(or) sadā-always + ambhasi(water)
 
 ## mukta-m0-p123-v3064
-[becomes](syāt) [expiation-descending](prāyaścittyadhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [year-million](abdakoṭiśaḥ)
+syāt(becomes) prāyaścitta-expiation + adhogāmī(descending) kṛtaḥ(done) rudraḥ(rudra) abda-year + koṭiśaḥ(millions)
 
 ## mukta-m0-p123-v3065
-[copper-liṅga-worship-darkness](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
+tāmra-copper + liṅga-liṅga + arcanāt(worship) arkaḥ(sun) piśācaḥ(piśāca) vaṃśa-bamboo + sambhavāt(born)
 
 ## mukta-m0-p123-v3066
-[lead-born](sīsajāḥ) [yakṣas](yakṣāḥ) [all](sarve) [iron](lohāt) [rakshas](rakṣaḥ) [asura-enders](asurāntakāḥ)
+sīsa-lead + jāḥ(born) yakṣāḥ(yakṣas) sarve(all) loha-iron + rakṣaḥ-rakṣasa + asura-asura + antakāḥ(destroyers)
 
 ## mukta-m0-p123-v3067
-[ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [sapphire](indranīlāt) [arcana](arcana) [hari](hariḥ)
+padmarāga-ruby + hutāśaḥ(fire) ca(and) indranīla-sapphire + arcanāt(worship) hariḥ(hari)
 
 ## mukta-m0-p123-v3068
-[coral](vaidruma) [mouth](āsya) [arcana](arcana) [nāgas](nāgāḥ) [venus](śukraḥ) [from-cat's-eye](kārketanāt) [always](sadā)
+vaidruma-coral + āsya-mouth + arcanāt(worship) nāgāḥ(nāgas) śukraḥ(venus) kārketana-crystal + sadā(always)
 
 ## mukta-m0-p123-v3069
-[paulastya](paulastyaḥ) [from-jīva-types](jīvajātibhyaḥ) [eight](aṣṭa) [from-ṭṭibha](ṭṭibhāt) [siddhas-kinnaras](siddhakinnarāḥ)
+paulastyaḥ(paulastya) jīva-born + jātibhyaḥ(classes) aṣṭa-eight? ṭṭibhāt? siddha-kinnarāḥ(siddha-kinnaras)
 
 ## mukta-m0-p123-v3070
-[aśvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvāḥ) [from-wife-birth](dārasambhavāt)
+aśvinau(aśvins) pakva-baked + mṛt-clay + bhūtāt(born) gandharvāḥ(gandharvas) dāra-wife + sambhavāt(born)
 
 ## mukta-m0-p123-v3071
-[kūrma-kaushika](kūrmakauśi) [from-kasi](kasabhūtāt) [vāsuki-nāyaka](vāsukinayināyakaḥ)
+kūrma-tortoise + kauśi? kasa? bhūtāt(born) vāsuki-vāsuki + nāyakaḥ(leader)
 
 ## mukta-m0-p123-v3072
-[liṅga-installation-worship](liṅgasaṃsthāpanārcanāt)
+liṅga-liṅga + saṃsthāpana-installation + arcanāt(worship)
 
 ## mukta-m0-p123-v3073
-[soma-drinkers](somapāḥ)
+somapāḥ(soma-drinkers)
 
 ## mukta-m0-p123-v3074
-[various-fruit-born-liṅgas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
+nānā-various + phala-fruit + uttha-born + liṅgāni(liṅgas) vidhinā(by-rite) sevitāni(served) ca(and)
 
 ## mukta-m0-p123-v3075
-[from-sand](saikatāt) [viśvakarmā](viśvakarmā) [and](ca) [śacī-lord](śacīśaḥ) [from-salt](lavaṇa) [born](bhavāt)
+saikata-sand + viśvakarmā(viśvakarmā) ca(and) śacīśaḥ(indra) lavaṇa-salt + bhavāt(born)
