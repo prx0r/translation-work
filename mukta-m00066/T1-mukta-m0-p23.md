@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[pada-gloss](ānaṃdataṃtre) [pada-gloss](caivāsmin) [pada-gloss](catvāraḥ) [pada-gloss](paramīritāḥ)
+[bliss-tantra](ānaṃdataṃtre) [and-in-this](caivāsmin) [four](catvāraḥ) [supreme-declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[pada-gloss](tasmāccatvāra) [pada-gloss](ullāsā) [pada-gloss](iha) [pada-gloss](proktā) [pada-gloss](maheśvari)
+[therefore-four](tasmāccatvāra) [delights](ullāsā) [here](iha) [spoken](proktā) [great-lady](maheśvari)
 
 ## mukta-m0-p23-v553
-[pada-gloss](tasmādānaṃda) [pada-gloss](pūjāyā) [pada-gloss](mālaṃvyaṃte) [pada-gloss](tu) [pada-gloss](na) [pada-gloss](trayaḥ)
+[therefore-bliss](tasmādānaṃda) [worship](pūjāyā) [not-three](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
 
 ## mukta-m0-p23-v554
-[pada-gloss](tathā) [pada-gloss](tathā) [pada-gloss](parānaṃda) [pada-gloss](nāthavidyāṃ) [pada-gloss](parāmṛśet)
+[thus-thus](tathā+tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [touch](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[pada-gloss](dūtyā) [pada-gloss](saṃdhukṣita) [pada-gloss](svātmā) [pada-gloss](naṃdamūrttiṃ) [pada-gloss](guruṃ) [pada-gloss](smaret)
+[messenger](dūtyā) [kindled](saṃdhukṣita) [self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
 
 ## mukta-m0-p23-v556
-[pada-gloss](dvādaśāṃtagate) [pada-gloss](raktaśuklapāde) [pada-gloss](vinikṣipet)
+[twelve-limit](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[pada-gloss](śivatvasāmrājya) [pada-gloss](padābhiṣiktaṃ) [pada-gloss](svaṃviciṃtayet)
+[shiva-sovereignty](śivatvasāmrājya) [foot-anointed](padābhiṣiktaṃ) [own-contemplate](svaṃviciṃtayet)
 
 ## mukta-m0-p23-v558
-[pada-gloss](paśyan) [pada-gloss](pratyaṃgamaṃkūradanaṃ) [pada-gloss](gottuṃgamānasaḥ)
+[seeing](paśyan) [limb-mark](pratyaṃgamaṃkūradanaṃ) [gottuṃga-mind](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[pada-gloss](yathā) [pada-gloss](yauvanamullāsaṃ) [pada-gloss](saṃprāpnotyaṃba) [pada-gloss](dūtikā)
+[as](yathā) [youth-delight](yauvanamullāsaṃ) [obtain](saṃprāpnotyaṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[pada-gloss](ālokaneratiḥ) [pada-gloss](sākṣāt) [pada-gloss](smite) [pada-gloss](jāgarti) [pada-gloss](jāhnavī)
+[beholding-attachment](ālokaneratiḥ) [direct](sākṣāt) [smile](smite) [awakens](jāgarti) [jahnavi](jāhnavī)
 
 ## mukta-m0-p23-v561
-[pada-gloss](aśvinau) [pada-gloss](nāsikābhāge) [pada-gloss](tvoṣṭhe) [pada-gloss](ca) [pada-gloss](paramāmṛtam)
+[ashvins](aśvinau) [nose-place](nāsikābhāge) [and-lip](tvoṣṭhe) [supreme-nectar](ca+paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[pada-gloss](svede) [pada-gloss](ca) [pada-gloss](vāruṇī) [pada-gloss](devī) [pada-gloss](kāmanāthastvahaṃ) [pada-gloss](kṛtau)
+[sweat](svede) [varuni-goddess](ca+vāruṇī+devī) [desire-lord](kāmanāthastvahaṃ) [made](kṛtau)
 
 ## mukta-m0-p23-v563
-[pada-gloss](stanadvaye) [pada-gloss](merugirirnniḥ) [pada-gloss](śabdaṃ) [pada-gloss](brahmamadhyame)
+[breast-pair](stanadvaye) [meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[pada-gloss](valitraye) [pada-gloss](ca) [pada-gloss](trailokyaṃ) [pada-gloss](nābhigarbhe) [pada-gloss](guhāṃbikā)
+[three-folds](valitraye) [three-worlds](ca+trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[pada-gloss](nakheṣu) [pada-gloss](śītāṃ) [pada-gloss](śu) [pada-gloss](kalādormmūleṃkuśadevatāḥ)
+[nails](nakheṣu) [cool](śītāṃ) [kalas](śu+kalādormmūleṃkuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[pada-gloss](kāverī) [pada-gloss](caiva) [pada-gloss](niśvāse) [pada-gloss](godāsītkāra) [pada-gloss](karmaṇi)
+[kaveri](kāverī) [and](caiva) [breath](niśvāse) [goddess-servant](godāsītkāra) [action](karmaṇi)
 
 ## mukta-m0-p23-v567
-[pada-gloss](amalālāpakṛtyeṣu) [pada-gloss](cittaviśrāṃti) [pada-gloss](nāyakā)
+[pure-lip-action](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[pada-gloss](vākptiḥ) [pada-gloss](sukhahuṃkāre) [pada-gloss](gīṣpatīkākukādhvanau)
+[speech-lord](vākptiḥ) [pleasant-hum](sukhahuṃkāre) [gishpati](gīṣpatīkākukādhvanau)
 
 ## mukta-m0-p23-v569
-[pada-gloss](iṃdraścittasamunnatyāmagnirvastu) [pada-gloss](grasītviṣi)
+[indra](iṃdraścittasamunnatyāmagnirvastu) [grasping](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[pada-gloss](hastādicālane) [pada-gloss](yajñastvāśleṣe) [pada-gloss](yajñapūruṣaḥ)
+[hand-motion](hastādicālane) [sacrifice](yajñastvāśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[pada-gloss](lāsyaṃ) [pada-gloss](ca) [pada-gloss](tāṃḍavaṃ) [pada-gloss](devi) [pada-gloss](tasyā) [pada-gloss](dehādi) [pada-gloss](ghūrṇane)
+[dance](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [her-body](tasyā+dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[pada-gloss](tānisarvāṇi) [pada-gloss](varttate) [pada-gloss](tasyāgaṃḍūṣavastuni)
+[those-all](tānisarvāṇi) [occur](varttate) [her-gandusha-substance](tasyāgaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[pada-gloss](tatphalaṃ) [pada-gloss](labhate) [pada-gloss](dūtī) [pada-gloss](sudhāgaṃḍūṣa) [pada-gloss](sevanāt)
+[that-fruit](tatphalaṃ) [obtain](labhate) [messenger](dūtī) [nectar-gandusha](sudhāgaṃḍūṣa) [use](sevanāt)
 
 ## mukta-m0-p23-v574
-[pada-gloss](gaṃḍūṣamādiraṃ) [pada-gloss](devī) [pada-gloss](vīrasyānaṃda) [pada-gloss](varddhanam)
+[gandusha-first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero-bliss-increase](vīrasyānaṃda+varddhanam)
 
 ## mukta-m0-p23-v575
-[pada-gloss](nityaklinnāsudhā) [pada-gloss](devī) [pada-gloss](rati) [pada-gloss](prītiśca) [pada-gloss](tadbhage)
+[ever-wet-nectar](nityaklinnāsudhā) [goddess](devī) [love-delight](rati+prītiśca) [that-part](tadbhage)
