@@ -7,24 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāvrājyāt",
-"quick_gloss": "from-asceticism"
-},
-{
-"surface": "naśyate",
-"quick_gloss": "perishes"
+"surface": "prāvrājyānnaśyate",
+"quick_gloss": "first-perishes-by-renunciation"
 },
 {
 "surface": "pūrvaṃ",
 "quick_gloss": "first"
 },
 {
-"surface": "strīyogāt",
-"quick_gloss": "from-union-with-woman"
-},
-{
-"surface": "aparaṃ",
-"quick_gloss": "afterwards"
+"surface": "strīyogādaparaṃ",
+"quick_gloss": "then-by-woman-union"
 },
 {
 "surface": "tathā",
@@ -41,7 +33,7 @@
 "tokens": [
 {
 "surface": "trikarṇotthāḥ",
-"quick_gloss": "three-eared-born"
+"quick_gloss": "three-ear-born"
 },
 {
 "surface": "trikarṇāḥ",
@@ -49,7 +41,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "trikapānātma",
@@ -77,8 +69,12 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "katthosthaḥ",
-"quick_gloss": "boaster-lipped"
+"surface": "katthaḥ",
+"quick_gloss": "boaster"
+},
+{
+"surface": "osthaḥ",
+"quick_gloss": "lip-born"
 },
 {
 "surface": "tatsutāḥ",
@@ -99,7 +95,7 @@
 "tokens": [
 {
 "surface": "rāṣṭrakṣayakarāḥ",
-"quick_gloss": "destroyers-of-realm"
+"quick_gloss": "kingdom-destroying"
 },
 {
 "surface": "hi",
@@ -110,12 +106,8 @@
 "quick_gloss": "these"
 },
 {
-"surface": "ye",
-"quick_gloss": "ye"
-},
-{
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "paṣāṇḍinaḥ",
@@ -136,7 +128,7 @@
 "tokens": [
 {
 "surface": "śāstrāvalokanāt",
-"quick_gloss": "by-scripture-inspection"
+"quick_gloss": "by-scripture-viewing"
 },
 {
 "surface": "eva",
@@ -185,7 +177,7 @@
 },
 {
 "surface": "saha",
-"quick_gloss": "saha"
+"quick_gloss": "with"
 },
 {
 "surface": "daiśikaḥ",
@@ -209,12 +201,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "ācārya",
+"surface": "ācāryaḥ",
 "quick_gloss": "ācārya"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "kīrtyate",
@@ -235,7 +227,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "na"
+"quick_gloss": "not"
 },
 {
 "surface": "mānavīṃ",
@@ -243,7 +235,7 @@
 },
 {
 "surface": "buddhiṃ",
-"quick_gloss": "intellect"
+"quick_gloss": "mind"
 },
 {
 "surface": "kārayet",
@@ -251,7 +243,7 @@
 },
 {
 "surface": "daiśikaṃ",
-"quick_gloss": "towards-teacher"
+"quick_gloss": "toward-teacher"
 },
 {
 "surface": "prati",
@@ -268,7 +260,7 @@
 "tokens": [
 {
 "surface": "pañcavaktrāṇi",
-"quick_gloss": "five-faced"
+"quick_gloss": "five-faces"
 },
 {
 "surface": "devasya",
@@ -276,7 +268,7 @@
 },
 {
 "surface": "pañcāgamavivṛddhaye",
-"quick_gloss": "for-growth-of-five-āgamas"
+"quick_gloss": "for-five-āgama-growth"
 }
 ]
 },
@@ -300,16 +292,12 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "sāhasramaṃśu",
+"surface": "sāhasramaṃśuma",
 "quick_gloss": "thousand-rayed"
 },
 {
-"surface": "ma",
-"quick_gloss": "ma"
-},
-{
-"surface": "suprabhaṃ",
-"quick_gloss": "very-radiant"
+"surface": "tsuprabhaṃ",
+"quick_gloss": "well-radiant"
 },
 {
 "surface": "daśa",
@@ -334,7 +322,7 @@
 },
 {
 "surface": "niśvāsodgītasaṃjñakam",
-"quick_gloss": "named-breath-song"
+"quick_gloss": "named-exhalation-chant"
 }
 ]
 },
@@ -351,7 +339,7 @@
 },
 {
 "surface": "candrahāsaṃ",
-"quick_gloss": "candrahāsa"
+"quick_gloss": "moon-blade"
 },
 {
 "surface": "vīraṃ",
@@ -380,11 +368,15 @@
 },
 {
 "surface": "samākhyātāḥ",
-"quick_gloss": "are-declared"
+"quick_gloss": "declared"
 },
 {
-"surface": "daśāṣṭādaśa+cordhvagāḥ",
-"quick_gloss": "ten-eighteen-or-upward"
+"surface": "daśāṣṭādaśa",
+"quick_gloss": "ten-eighteen"
+},
+{
+"surface": "cordhvagāḥ",
+"quick_gloss": "or-upward"
 }
 ]
 },
@@ -397,7 +389,7 @@
 "tokens": [
 {
 "surface": "pañcabhūta",
-"quick_gloss": "five-element"
+"quick_gloss": "five-elements"
 },
 {
 "surface": "vibhāgaṃ",
@@ -475,7 +467,7 @@
 },
 {
 "surface": "īritāḥ",
-"quick_gloss": "are-said"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -637,7 +629,7 @@
 },
 {
 "surface": "taduttaram",
-"quick_gloss": "its-next"
+"quick_gloss": "thereafter"
 }
 ]
 },
@@ -650,7 +642,7 @@
 "tokens": [
 {
 "surface": "siddhanityodayaṃ",
-"quick_gloss": "siddha-nitya-udaya"
+"quick_gloss": "siddha-nityodaya"
 },
 {
 "surface": "jyeṣṭhaṃ",
