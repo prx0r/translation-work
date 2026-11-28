@@ -1,0 +1,92 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p18",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v426 ratio=0.872",
+  "ALIGN_NODISP v427 ratio=0.861",
+  "ALIGN_NODISP v450 ratio=0.889"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "5a16b8b8f2e98274",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 103
+ },
+ "align": {
+  "min_ratio": 0.861,
+  "sub090": {
+   "426": {
+    "ratio": 0.872,
+    "disposition": null
+   },
+   "427": {
+    "ratio": 0.861,
+    "disposition": null
+   },
+   "430": {
+    "ratio": 0.872,
+    "disposition": "sandhi-only: aa>ā, ḥ>r"
+   },
+   "450": {
+    "ratio": 0.889,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 30,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 103,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v426",
+  "fix: word-order/gloss vs source for v427",
+  "fix: word-order/gloss vs source for v450"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "8da0ab30a677ec93a49289c871b93d168db6d2ab0e8ce5a88d3fb217b6e2adca",
+  "l0": "defe4d563f0f3b2fb7515ee1dee9b172410c2f64a57ebb80be91c0769af827a5",
+  "argmap": "43e143d345110c4c949e8dc89fec6e441c747aff6e9654e482ab9697218ffdfc",
+  "l2": "22dd470b69b19e5b2ad515f9fb50826f83c30ad3d68641b1c0bb6877403e735b",
+  "c1": "9d6230287849daba39e1de9dca9145a9834ef18186e6c8b7479136ceddfa2a8c"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "5a16b8b8f2e98274",
+  "t1": "sva-p18/data/sva-p18.t1.json",
+  "l0": "sva-p18/data/sva-p18.l0.json",
+  "l2": "sva-p18/data/sva-p18.l2.json",
+  "c1": "sva-p18/data/sva-p18.c1.json"
+ }
+}

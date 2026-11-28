@@ -1,0 +1,931 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lābha",
+     "gloss": "availability",
+     "grounds": "obtaining or availability",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śilābhiḥ",
+     "gloss": "with-stones",
+     "grounds": "material for construction",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittistambhādayodikaṃ",
+     "gloss": "wall-pillar-and-so-forth",
+     "grounds": "compound: wall, pillar, and others",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of becoming or making",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What construction elements may be made according to the availability of stones?",
+   "premises": [
+    "Construction depends on available materials.",
+    "Stones may be used when available.",
+    "Walls, pillars, and similar elements can be made."
+   ],
+   "inference": "Walls, pillars, and other structural elements should be made with stones as available.",
+   "uncertainties": [],
+   "plain_english": "As stones are available, walls, pillars, and other such elements should be made with them."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśāṃgulā",
+     "gloss": "thirty-eight-fingers",
+     "grounds": "measure of length",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "extent marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyāmaṃ",
+     "gloss": "length",
+     "grounds": "dimension",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "part",
+     "grounds": "measured unit or brick-part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What maximum length in finger-units is prescribed for a brick or part?",
+   "premises": [
+    "A measured part has a prescribed length.",
+    "The length is specified in finger-units.",
+    "The upper limit is thirty-eight fingers."
+   ],
+   "inference": "The length of the part should be up to thirty-eight finger-units.",
+   "uncertainties": [
+    "kalā may refer to a brick or a measured component"
+   ],
+   "plain_english": "The part should have a length of up to thirty-eight finger-units."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "mānāṃgulena",
+     "gloss": "by-standard-finger",
+     "grounds": "standard unit of measurement",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "anyamānaṃ",
+     "gloss": "other-measure",
+     "grounds": "non-standard measurement",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "causative injunction",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "Which unit of measurement must be used and which must be avoided?",
+   "premises": [
+    "Measurement must follow a standard.",
+    "The standard finger-unit is prescribed.",
+    "Other measures must not be employed."
+   ],
+   "inference": "Work should be done using the standard finger-unit and no other measure should be used.",
+   "uncertainties": [],
+   "plain_english": "It should be made using the standard finger-unit, and no other measure should be employed."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "ekona catvāriṃśāntaṃ",
+     "gloss": "up-to-thirty-nine",
+     "grounds": "range ending at thirty-nine",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bhedabhojāṃgulena",
+     "gloss": "by-divided-bhoja-finger",
+     "grounds": "specific finger measure type",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What upper limit and finger-measure type apply in this measurement range?",
+   "premises": [
+    "A numerical range is specified.",
+    "The range extends up to thirty-nine.",
+    "The divided bhoja finger-unit is used."
+   ],
+   "inference": "The measurement extends up to thirty-nine using the divided bhoja finger-unit.",
+   "uncertainties": [
+    "exact meaning of bhedabhoja finger-unit is context-dependent"
+   ],
+   "plain_english": "The range goes up to thirty-nine, using the divided bhoja finger-unit."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "ekādi ṣoḍaśāntānāṃ",
+     "gloss": "from-one-up-to-sixteen",
+     "grounds": "range from one to sixteen",
+     "morph": "compound f.gen.pl"
+    },
+    {
+     "surface": "bhūmīnāṃ",
+     "gloss": "of-storeys",
+     "grounds": "levels or storeys of a structure",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kramaśocyate",
+     "gloss": "in-order-is-stated",
+     "grounds": "sequential prescription; sandhi kramaśaḥ+ucyate",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "For how many storeys is the sequential measurement rule stated?",
+   "premises": [
+    "A sequence of storeys is considered.",
+    "The range covers one to sixteen storeys.",
+    "The rule is stated in order."
+   ],
+   "inference": "The prescription is stated sequentially for storeys from one up to sixteen.",
+   "uncertainties": [],
+   "plain_english": "This is stated in order for storeys from one up to sixteen."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "ayugmaṃ",
+     "gloss": "odd",
+     "grounds": "uneven number",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṛjurekhā",
+     "gloss": "straight-lined",
+     "grounds": "having straight lines",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṃliṃgāya",
+     "gloss": "for-masculine-mark",
+     "grounds": "assigned to masculine type",
+     "morph": "compound n.dat.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "traditionally stated",
+     "morph": "f.nom.sg.past-pass-part √kīrt"
+    }
+   ],
+   "question": "What characteristics define the brick designated for the masculine type?",
+   "premises": [
+    "Bricks are classified by type.",
+    "The masculine type has specific features.",
+    "Oddness and straight lines are prescribed."
+   ],
+   "inference": "An odd and straight-lined brick is declared for the masculine type.",
+   "uncertainties": [],
+   "plain_english": "An odd brick with straight lines is declared for the masculine type."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "yugmarekhā",
+     "gloss": "even-lined",
+     "grounds": "having paired or even lines",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "sayugmaṃ",
+     "gloss": "with-even-number",
+     "grounds": "even in count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp-brick",
+     "grounds": "central or specific brick type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "napuṃsakā",
+     "gloss": "neuter",
+     "grounds": "assigned to neuter type",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What characteristics define the brick designated for the neuter type?",
+   "premises": [
+    "Bricks are classified by type.",
+    "The neuter type has specific features.",
+    "Even lines or even number are prescribed."
+   ],
+   "inference": "A brick with even lines or even number is designated as neuter.",
+   "uncertainties": [
+    "karṇikā may refer to a specific brick form"
+   ],
+   "plain_english": "That brick, having even lines or being even in number, is called neuter."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "varjitāni",
+     "gloss": "rejected-ones",
+     "grounds": "things to be avoided",
+     "morph": "n.acc.pl.past-pass-part √vṛj"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "carefully",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "doṣahīnaṃ",
+     "gloss": "faultless",
+     "grounds": "free from defects",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahet",
+     "gloss": "should-collect",
+     "grounds": "injunction to select",
+     "morph": "3.sg.opt.act √grah"
+    }
+   ],
+   "question": "What selection principle governs the collection of suitable bricks?",
+   "premises": [
+    "Some items must be rejected.",
+    "Selection requires careful effort.",
+    "Only faultless items should be collected."
+   ],
+   "inference": "One should carefully reject defective items and collect only faultless ones.",
+   "uncertainties": [],
+   "plain_english": "With care one should reject the defective ones and collect only what is faultless."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "ūrdhvabhāgamukhaṃ",
+     "gloss": "upper-part-face",
+     "grounds": "face oriented to upper part",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg.past-pass-part √khyā"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "the opposite part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūpatāṃśakam",
+     "gloss": "earth-lord-portion",
+     "grounds": "portion associated with earth side",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "How are the upper face and the opposite portion of the brick identified?",
+   "premises": [
+    "A brick has distinct parts.",
+    "The upper part is identified as the face.",
+    "The opposite part is identified as the earth portion."
+   ],
+   "inference": "The upper part is known as the face and the other as the earth portion.",
+   "uncertainties": [
+    "exact technical sense of bhūpatāṃśaka is uncertain"
+   ],
+   "plain_english": "The upper part is known as the face, and the other part as the earth portion."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "prāgudaksthakamaiśānyaṃ",
+     "gloss": "east-north-standing-northeast",
+     "grounds": "compound indicating northeast orientation; sandhi prāg-udak-sthakaṃ+aiśānyaṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "head",
+     "grounds": "top or head part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "fully stated",
+     "morph": "n.nom.sg.past-pass-part √kīrt"
+    }
+   ],
+   "question": "Which directional orientation is designated as the head of the brick?",
+   "premises": [
+    "The brick has a designated head.",
+    "Directional orientation determines the head.",
+    "The northeast direction is specified."
+   ],
+   "inference": "The part oriented toward the northeast is declared the head.",
+   "uncertainties": [
+    "compound analysis of prāgudaksthakamaiśānyaṃ is approximate"
+   ],
+   "plain_english": "The part facing the northeast is indeed declared to be the head."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "gavyairgandhodakaiḥ",
+     "gloss": "with-cow-products-fragrant-waters",
+     "grounds": "purifying substances; sandhi gavyaiḥ+gandha-udakaiḥ",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "snāpya",
+     "gloss": "having-bathed",
+     "grounds": "ritual bathing",
+     "morph": "absolutive √snā"
+    },
+    {
+     "surface": "pūrvarātrādhivāsayet",
+     "gloss": "should-consecrate-previous-night",
+     "grounds": "overnight consecration; compound pūrva-rātra-adhivāsayet",
+     "morph": "3.sg.opt.caus.act √vas"
+    }
+   ],
+   "question": "What purification and consecration procedure must precede use of the bricks?",
+   "premises": [
+    "Bricks require ritual preparation.",
+    "They must be bathed with cow products and fragrant waters.",
+    "They must be consecrated overnight."
+   ],
+   "inference": "After bathing the bricks with cow products and fragrant waters, one should consecrate them overnight.",
+   "uncertainties": [],
+   "plain_english": "Having bathed them with cow products and fragrant waters, one should consecrate them during the previous night."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "sarvalakṣaṇasaṃpanno",
+     "gloss": "endowed-with-all-marks",
+     "grounds": "possessing all required qualities",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "vedācārarataḥ",
+     "gloss": "devoted-to-veda-conduct",
+     "grounds": "engaged in Vedic practice",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "ritually clean",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualifications must the officiant possess for this ritual procedure?",
+   "premises": [
+    "The ritual requires a qualified officiant.",
+    "The officiant must have all proper marks.",
+    "The officiant must be pure and devoted to Vedic conduct."
+   ],
+   "inference": "The officiant should be endowed with all marks, devoted to Vedic conduct, and pure.",
+   "uncertainties": [],
+   "plain_english": "He should be endowed with all proper marks, devoted to Vedic conduct, and pure."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "navāmbaradharoṣṇīṣāḥ",
+     "gloss": "wearing-new-garment-turban",
+     "grounds": "attired in new cloth and turban",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "sottarīyānulepanaḥ",
+     "gloss": "with-upper-cloth-unguent",
+     "grounds": "having upper garment and anointment",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What ritual attire and adornment are required of the officiant?",
+   "premises": [
+    "The officiant must be properly attired.",
+    "New garments and a turban are required.",
+    "An upper cloth and unguent are required."
+   ],
+   "inference": "The officiant should wear a new garment and turban, along with an upper cloth and unguent.",
+   "uncertainties": [],
+   "plain_english": "He should wear a new garment and turban, with an upper cloth and unguent."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "paṃcāṃgabhūṣaṇairbhūṣya",
+     "gloss": "having-adorned-with-five-limb-ornaments",
+     "grounds": "adorned with five ornaments; sandhi paṃca-aṃga-bhūṣaṇaiḥ+bhūṣya",
+     "morph": "absolutive √bhūṣ"
+    },
+    {
+     "surface": "kṣālayetprathameṣṭakāḥ",
+     "gloss": "should-wash-first-bricks",
+     "grounds": "washing of first bricks; sandhi kṣālayet+prathama-iṣṭakāḥ",
+     "morph": "3.sg.opt.caus.act √kṣal"
+    }
+   ],
+   "question": "What preparatory action must be performed on the first bricks after adornment?",
+   "premises": [
+    "The officiant is ritually adorned.",
+    "The first bricks require preparation.",
+    "Washing is prescribed for them."
+   ],
+   "inference": "After adorning himself with five ornaments, he should wash the first bricks.",
+   "uncertainties": [
+    "paṃcāṃgabhūṣaṇa may refer to five specific ornaments"
+   ],
+   "plain_english": "Having adorned himself with the five ornaments, he should wash the first bricks."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "sthaṃḍile",
+     "gloss": "on-ritual-ground",
+     "grounds": "prepared ritual platform",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇikābāhye",
+     "gloss": "outside-pericarp",
+     "grounds": "outside the central area",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "mahāśāsu",
+     "gloss": "in-great-directions",
+     "grounds": "in the main cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.opt.caus.act √dhā"
+    }
+   ],
+   "question": "Where on the ritual ground should the bricks be placed?",
+   "premises": [
+    "Placement occurs on a prepared ground.",
+    "The location is outside the central pericarp.",
+    "The main directions are specified."
+   ],
+   "inference": "The bricks should be placed on the ritual ground outside the pericarp in the main directions.",
+   "uncertainties": [],
+   "plain_english": "He should place them on the ritual ground, outside the pericarp, in the main directions."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "rakāraṃ",
+     "gloss": "syllable-ra",
+     "grounds": "seed syllable ra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-western",
+     "grounds": "in the direction of Varuna",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "place",
+     "grounds": "location or direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yakāraṃ",
+     "gloss": "syllable-ya",
+     "grounds": "seed syllable ya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saumyagocare",
+     "gloss": "in-northern-region",
+     "grounds": "in the northern domain",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "Which seed syllables are assigned to the western and northern directions?",
+   "premises": [
+    "Seed syllables are placed directionally.",
+    "The western direction receives a specific syllable.",
+    "The northern direction receives a specific syllable."
+   ],
+   "inference": "The syllable ra is placed in the west and the syllable ya in the north.",
+   "uncertainties": [],
+   "plain_english": "Place the syllable ra in the western direction and the syllable ya in the northern region."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "pūrvāgraṃ",
+     "gloss": "east-pointing",
+     "grounds": "oriented toward the east",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saumya",
+     "gloss": "northern",
+     "grounds": "in the north",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-southern",
+     "grounds": "in the southern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣau",
+     "gloss": "remaining-two",
+     "grounds": "the other two",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral two",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottarāgrakau",
+     "gloss": "and-north-pointing",
+     "grounds": "oriented toward the north; sandhi ca+uttarāgrakau",
+     "morph": "compound m.nom.du"
+    }
+   ],
+   "question": "How should the remaining bricks be oriented in the northern and southern directions?",
+   "premises": [
+    "Brick orientation varies by direction.",
+    "One placement is east-pointing in the south.",
+    "The remaining two are north-pointing."
+   ],
+   "inference": "In the south it should be east-pointing, and the remaining two should be north-pointing.",
+   "uncertainties": [
+    "syntactic distribution across directions is compressed"
+   ],
+   "plain_english": "In the south it should point east, and the remaining two should point north."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "navasaṃkhyānavānkuṃbhān",
+     "gloss": "nine-number-new-pots",
+     "grounds": "nine new pots; sandhi navasaṃkhyā-navān+kuṃbhān",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "sasūtrānvastraveṣṭitān",
+     "gloss": "with-thread-cloth-wrapped",
+     "grounds": "tied with thread and wrapped in cloth; sandhi sa-sūtrān+vastra-veṣṭitān",
+     "morph": "compound m.acc.pl"
+    }
+   ],
+   "question": "What kind of pots must be prepared for the ritual installation?",
+   "premises": [
+    "Pots are required for the ritual.",
+    "They must be nine in number and new.",
+    "They must be tied with thread and wrapped in cloth."
+   ],
+   "inference": "Nine new pots, tied with thread and wrapped in cloth, should be prepared.",
+   "uncertainties": [],
+   "plain_english": "One should prepare nine new pots, tied with thread and wrapped in cloth."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "hemapaṃkajasaṃyuktān",
+     "gloss": "joined-with-gold-lotuses",
+     "grounds": "furnished with golden lotuses",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "madhyādikramaśo",
+     "gloss": "from-middle-in-order",
+     "grounds": "sequentially starting from the center",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "How and in what order should the prepared pots be placed?",
+   "premises": [
+    "The pots are specially prepared.",
+    "They are joined with golden lotuses.",
+    "Placement proceeds in order from the middle."
+   ],
+   "inference": "The pots joined with golden lotuses should be placed in order beginning from the middle.",
+   "uncertainties": [],
+   "plain_english": "He should place them, joined with golden lotuses, in order beginning from the middle."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "tattanmantraṃ",
+     "gloss": "each-respective-mantra",
+     "grounds": "the appropriate mantra for each",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "nyasetkumbhe",
+     "gloss": "should-place-in-pot",
+     "grounds": "install in the pot; sandhi nyaset+kuṃbhe",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "after visualization",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "gandhādibhiryajet",
+     "gloss": "should-worship-with-fragrance-etc",
+     "grounds": "worship with offerings; sandhi gandha-ādibhiḥ+yajet",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "What mantra installation and worship acts must be performed on each pot?",
+   "premises": [
+    "Each pot receives its own mantra.",
+    "Meditation precedes worship.",
+    "Worship is performed with fragrance and other offerings."
+   ],
+   "inference": "One should place the respective mantra in each pot, meditate, and worship with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "He should place the respective mantra in each pot, meditate, and worship with fragrance and other offerings."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "agnyādhānādikaṃ",
+     "gloss": "fire-establishment-and-so-forth",
+     "grounds": "fire installation and related rites",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "entire procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "agnikāryoktamācaret",
+     "gloss": "should-perform-as-stated-for-fire-rite",
+     "grounds": "perform as prescribed in fire ritual; sandhi agni-kārya-uktaṃ+ācaret",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "How should the fire-establishment and related rites be carried out?",
+   "premises": [
+    "Fire rites include establishment and related acts.",
+    "The full procedure is required.",
+    "It must follow the prescribed fire-ritual method."
+   ],
+   "inference": "One should perform the fire-establishment and all related acts as prescribed for the fire rite.",
+   "uncertainties": [],
+   "plain_english": "He should perform the fire-establishment and all related acts as prescribed in the fire ritual."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "samidhassadyamaṃtreṇa",
+     "gloss": "fuel-sticks-with-sadya-mantra",
+     "grounds": "oblations of fuel with sadya mantra; sandhi samidhaḥ+sadyama-mantreṇa",
+     "morph": "compound f.acc.pl"
+    },
+    {
+     "surface": "mūlenājyaṃ tu homayet",
+     "gloss": "with-root-mantra-ghee-indeed-should-offer",
+     "grounds": "ghee oblation with root mantra; sandhi mūlena+ājyaṃ+tu+homayet",
+     "morph": "3.sg.opt.caus.act √hu"
+    }
+   ],
+   "question": "Which mantras govern the oblations of fuel sticks and clarified butter?",
+   "premises": [
+    "Different oblations use different mantras.",
+    "Fuel sticks are offered with the sadya mantra.",
+    "Clarified butter is offered with the root mantra."
+   ],
+   "inference": "Fuel sticks should be offered with the sadya mantra and clarified butter with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "He should offer fuel sticks with the sadya mantra and clarified butter with the root mantra."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "sarṣapaṃ",
+     "gloss": "mustard-seed",
+     "grounds": "oblation substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kavacenaiva",
+     "gloss": "with-armor-mantra-alone",
+     "grounds": "using the kavaca mantra; sandhi kavacena+eva",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "pratyekāṣṭaśatāhutiḥ",
+     "gloss": "each-eight-hundred-oblations",
+     "grounds": "one hundred and eight oblations each",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What mantra and count govern the mustard-seed oblation in this rite?",
+   "premises": [
+    "Mustard seed is offered as an oblation.",
+    "The kavaca mantra is used.",
+    "Each offering consists of one hundred and eight oblations."
+   ],
+   "inference": "Mustard seed should be offered with the kavaca mantra in one hundred and eight oblations each.",
+   "uncertainties": [],
+   "plain_english": "He should offer mustard seed with the kavaca mantra, making one hundred and eight oblations for each."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāgaraṇaṃ",
+     "gloss": "vigil",
+     "grounds": "night-long wakefulness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "during the night",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prabhāte",
+     "gloss": "at-dawn",
+     "grounds": "in the morning",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "the foremost officiating teacher",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What concluding vigil must the foremost teacher maintain through the night until dawn?",
+   "premises": [
+    "The ritual includes a concluding observance.",
+    "A vigil is kept during the night.",
+    "The foremost teacher continues until dawn."
+   ],
+   "inference": "Thus the foremost teacher should keep vigil through the night until dawn.",
+   "uncertainties": [],
+   "plain_english": "Thus the foremost teacher should keep vigil through the night until dawn."
+  }
+ ]
+}

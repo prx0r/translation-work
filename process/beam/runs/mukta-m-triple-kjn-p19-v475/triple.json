@@ -1,0 +1,63 @@
+{
+ "song": "kjn-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past passive participle of kath, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
+    },
+    {
+     "surface": "melakaṃ",
+     "gloss": "union-place",
+     "grounds": "neuter singular accusative of melaka",
+     "morph": "noun.m.acc.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "abode",
+     "grounds": "neuter singular accusative of sthana",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "śrutaṃ",
+     "gloss": "heard",
+     "grounds": "past passive participle of shr, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
+    },
+    {
+     "surface": "te",
+     "gloss": "by-you",
+     "grounds": "second person singular pronoun, dative or genitive",
+     "morph": "pron.2.sg.dat/gen"
+    },
+    {
+     "surface": "ceṣṭitaṃ",
+     "gloss": "desired",
+     "grounds": "past passive participle of cesht, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "neuter singular accusative of shubha",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "What auspicious melaka sthana has been told and heard by you as desired?",
+   "premises": [
+    "Melaka sthana is told.",
+    "It is heard by you.",
+    "It is desired auspicious."
+   ],
+   "inference": "The auspicious melaka sthana is the told and heard desired abode.",
+   "uncertainties": [
+    "Exact case roles and sandhi are not fully recoverable from the isolated verse."
+   ],
+   "plain_english": "The auspicious union-place abode has been told; it has been heard by you and is desired."
+  }
+ ]
+}

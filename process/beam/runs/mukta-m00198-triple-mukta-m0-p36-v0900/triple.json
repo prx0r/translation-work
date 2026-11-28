@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "hārāntare",
+     "gloss": "in-gallery-interval",
+     "grounds": "locative of compound hāra+antara indicating the space between galleries",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental used adverbially to mark special emphasis",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "denotes a paired structural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmapaṃjaram",
+     "gloss": "paired-enclosure",
+     "grounds": "compound yugma+paṃjara denoting a paired cage-like enclosure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What structural arrangement is prescribed for the interval between the hāras?",
+   "premises": [
+    "The specified location is the interval between the hāras.",
+    "A pair is prescribed there with special emphasis.",
+    "A paired enclosure is given as an alternative arrangement."
+   ],
+   "inference": "The interval between the hāras may contain either a pair or a paired enclosure.",
+   "uncertainties": [
+    "The exact architectural referents of hāra and paṃjara in this context are not fully specified."
+   ],
+   "plain_english": "In the space between the galleries, there should especially be a pair, or alternatively a paired enclosure."
+  }
+ ]
+}

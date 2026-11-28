@@ -1,0 +1,569 @@
+{
+ "song": "kul-p56",
+ "items": [
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "nijaprāṇān",
+     "gloss": "own-life",
+     "grounds": "compound nija plus prāṇa in accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "gerund of pari-tyaj",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurukāryaṃ",
+     "gloss": "guru-work",
+     "grounds": "compound guru plus kārya in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular active of sam-ā-car",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should a disciple do for guru work?",
+   "premises": [
+    "own life is abandoned",
+    "guru work is performed",
+    "the action is prescribed"
+   ],
+   "inference": "The disciple should abandon even own life to perform the guru's work.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Abandoning one's own life, one should perform the guru's work."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular masculine pronoun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "santāḍito",
+     "gloss": "struck",
+     "grounds": "past passive participle of sam-taḍ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasādam",
+     "gloss": "grace",
+     "grounds": "accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "remember",
+     "grounds": "optative third singular active of sam-smṛ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one remember guru's striking or grace?",
+   "premises": [
+    "one is struck or graced",
+    "thus one remembers",
+    "the memory is prescribed"
+   ],
+   "inference": "Whether struck or graced by the guru, one should remember it as grace.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Whether struck by him or granted grace, one should remember it thus."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "taccheṣam",
+     "gloss": "that-remainder",
+     "grounds": "compound tat plus śeṣa in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sañcintya",
+     "gloss": "thinking",
+     "grounds": "gerund of sam-cint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānubhūyāt",
+     "gloss": "experience",
+     "grounds": "optative third singular active of anu-bhū with conjunction ca",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kuleśvari",
+     "grounds": "vocative singular feminine address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the remainder be experienced?",
+   "premises": [
+    "that remainder is considered",
+    "thinking thus one experiences",
+    "the addressee is kuleśvari"
+   ],
+   "inference": "One should think of the remainder as such and experience it accordingly.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thinking 'that is the remainder,' one should experience it, O Kuleshvari."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "tīrthayātrāṃ",
+     "gloss": "pilgrimage",
+     "grounds": "accusative singular feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na kuryācca",
+     "gloss": "not-do",
+     "grounds": "optative third singular active of kṛ with negation and conjunction ca",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na snāyād",
+     "gloss": "not-bathe",
+     "grounds": "optative third singular active of snā with negation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ātmaśuddhaye",
+     "gloss": "for-self-purification",
+     "grounds": "compound ātma plus śuddhi in dative singular feminine",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What pilgrimages and baths are forbidden for self-purification?",
+   "premises": [
+    "pilgrimage is not done",
+    "bathing is not done",
+    "the purpose is self-purification"
+   ],
+   "inference": "One should not undertake pilgrimage or bathe for self-purification in this way.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should not make pilgrimage, nor bathe for self-purification."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "na kuryād",
+     "gloss": "not-do",
+     "grounds": "optative third singular active of kṛ with negation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "gurubhiḥ sārddhaṃ",
+     "gloss": "with-gurus",
+     "grounds": "instrumental plural masculine gurus with indeclinable sārdham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "becoming",
+     "grounds": "gerund of bhū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a disciple act with gurus?",
+   "premises": [
+    "a disciple becomes one",
+    "he should not do it",
+    "it is with gurus in any way"
+   ],
+   "inference": "A disciple should in no way act improperly with the gurus.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "A disciple, having become one, should not do so with gurus in any way."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "vilokya",
+     "gloss": "seeing",
+     "grounds": "gerund of vi-lok",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrato",
+     "gloss": "from-afar",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchennāsīta",
+     "gloss": "go",
+     "grounds": "optative third singular active of gam and ās with negation",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "saha taiḥ",
+     "gloss": "with-them",
+     "grounds": "indeclinable saha with instrumental plural pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one behave when seeing gurus from afar?",
+   "premises": [
+    "seeing from afar",
+    "one should go or sit",
+    "not with them ever"
+   ],
+   "inference": "Seeing gurus from afar, one should not go or sit with them.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Seeing from afar, one should not go or sit with them ever."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "sa yāti",
+     "gloss": "he-goes",
+     "grounds": "present third singular active of yā",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "narakaṃ ghoraṃ",
+     "gloss": "to-terrible-hell",
+     "grounds": "accusative singular masculine adjective-noun phrase",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sā pūjā",
+     "gloss": "that-worship",
+     "grounds": "nominative singular feminine noun with pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What result follows from improper conduct toward gurus?",
+   "premises": [
+    "he goes to terrible hell",
+    "that worship becomes fruitless",
+    "the consequence is stated"
+   ],
+   "inference": "Improper conduct leads to terrible hell and makes worship fruitless.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He goes to terrible hell; that worship becomes fruitless."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "tadājñayā",
+     "gloss": "by-his-command",
+     "grounds": "compound tat plus ājñā in instrumental singular feminine",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karttavyam",
+     "gloss": "should-do",
+     "grounds": "neuter gerundive form of kṛ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ājñārūpo",
+     "gloss": "command-form",
+     "grounds": "compound ājñā plus rūpa in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past passive participle of smṛ in nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the guru's form according to command?",
+   "premises": [
+    "by his command it is to be done",
+    "the guru is remembered",
+    "his form is command-form"
+   ],
+   "inference": "The guru is remembered as command-form, and by his command action is to be done.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By his command it is to be done; the guru is remembered as command-form."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "gurvājñayā",
+     "gloss": "by-guru-command",
+     "grounds": "compound guru plus ājñā in instrumental singular feminine",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-take",
+     "grounds": "optative third singular active of grah",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tanniṣiddhaṃ",
+     "gloss": "that-forbidden",
+     "grounds": "compound tat plus niṣiddha in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "avoid",
+     "grounds": "optative third singular active of vi-vṛj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one take or avoid by guru command?",
+   "premises": [
+    "by guru command one should take",
+    "that forbidden thing is avoided",
+    "command governs both"
+   ],
+   "inference": "By the guru's command one should take what is permitted and avoid what is forbidden.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By the guru's command one should take; what is forbidden by that, one should avoid."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "says",
+     "grounds": "optative third singular active of brū",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samayāccyuta",
+     "gloss": "from-vow-fallen",
+     "grounds": "compound samaya plus cyuta in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "nominative singular masculine noun with negation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows if he says one has fallen from vow?",
+   "premises": [
+    "if he says",
+    "he is fallen from vow",
+    "there is no doubt"
+   ],
+   "inference": "If the guru says one has fallen from the vow, it is certainly so.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "If he says one has fallen from the vow, there is no doubt."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "ātmavat",
+     "gloss": "like-self",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvabhūtebhyo",
+     "gloss": "to-all-beings",
+     "grounds": "dative plural masculine noun",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "hitaṃ",
+     "gloss": "benefit",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative third singular active of kṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kuleśvari",
+     "grounds": "vocative singular feminine address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What benefit should be done for all beings?",
+   "premises": [
+    "like to oneself",
+    "benefit is done",
+    "to all beings"
+   ],
+   "inference": "One should do benefit for all beings as for oneself.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should do benefit for all beings as for oneself, O Kuleshvari."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "śuśrūṣayā",
+     "gloss": "by-service",
+     "grounds": "instrumental singular feminine noun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "with-mind",
+     "grounds": "instrumental singular feminine noun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "devi",
+     "grounds": "vocative singular feminine address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "santoṣayed",
+     "gloss": "please",
+     "grounds": "optative third singular active causative of tuṣ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should a disciple please the guru?",
+   "premises": [
+    "by service and mind",
+    "the disciple pleases",
+    "the guru is pleased"
+   ],
+   "inference": "The disciple should please the guru through service and mindful devotion.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By service and with mind, O Devi, the disciple should please the guru."
+  }
+ ]
+}

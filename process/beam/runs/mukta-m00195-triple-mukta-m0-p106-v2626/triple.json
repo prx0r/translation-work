@@ -1,0 +1,1000 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2626,
+   "rows": [
+    {
+     "surface": "lābhe",
+     "gloss": "in-gain",
+     "grounds": "occasion of acquisition or success",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-offering",
+     "grounds": "ritual fire offering context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahotsave",
+     "gloss": "in-great-festival",
+     "grounds": "major celebratory occasion",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which auspicious occasions call for the prescribed worship?",
+   "premises": [
+    "Gain is an auspicious occasion",
+    "Fire offering is an auspicious occasion",
+    "Great festival is an auspicious occasion"
+   ],
+   "inference": "Worship is appropriate in times of gain, offering, and great festival",
+   "uncertainties": [],
+   "plain_english": "In times of gain, in fire offerings, and in great festivals."
+  },
+  {
+   "verse": 2627,
+   "rows": [
+    {
+     "surface": "rogeṣu",
+     "gloss": "in-diseases",
+     "grounds": "conditions of illness",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "āpatsu",
+     "gloss": "in-calamities",
+     "grounds": "times of danger or misfortune",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "doṣeṣu",
+     "gloss": "in-faults",
+     "grounds": "states of defect or error",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dussaṅge",
+     "gloss": "in-bad-association",
+     "grounds": "harmful company or contact",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "durnimittake",
+     "gloss": "in-bad-omen",
+     "grounds": "inauspicious sign or portent",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which adverse circumstances also require the prescribed worship?",
+   "premises": [
+    "Diseases create adverse conditions",
+    "Calamities and faults create adverse conditions",
+    "Bad association and bad omens create adverse conditions"
+   ],
+   "inference": "Worship is also appropriate in diseases, calamities, faults, bad association, and bad omens",
+   "uncertainties": [],
+   "plain_english": "In diseases, calamities, faults, bad associations, and bad omens."
+  },
+  {
+   "verse": 2628,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative marker of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśaḥ",
+     "gloss": "place",
+     "grounds": "local region or circumstance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative result marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act of honoring",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √car+sam-ā"
+    }
+   ],
+   "question": "How should worship be adapted to local circumstances?",
+   "premises": [
+    "Places and circumstances vary",
+    "Worship is the prescribed action",
+    "The manner of worship should correspond to the place"
+   ],
+   "inference": "One should perform worship according to the nature of the place",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship according to the place and circumstances."
+  },
+  {
+   "verse": 2629,
+   "rows": [
+    {
+     "surface": "vighneśa",
+     "gloss": "vighnesha",
+     "grounds": "lord of obstacles, Ganesha",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "vishnu",
+     "grounds": "deity Vishnu",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "īśa",
+     "gloss": "isha",
+     "grounds": "lord, Shiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "shaktis",
+     "grounds": "divine powers or goddesses",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which deities and powers are invoked in this ritual context?",
+   "premises": [
+    "Vighnesha is named as a recipient",
+    "Vishnu and Isha are named as recipients",
+    "Shaktis are named as recipients"
+   ],
+   "inference": "The ritual addresses Vighnesha, Vishnu, Isha, and the Shaktis",
+   "uncertainties": [],
+   "plain_english": "O Vighnesha, Vishnu, Isha, and Shaktis."
+  },
+  {
+   "verse": 2630,
+   "rows": [
+    {
+     "surface": "varṣakṛta",
+     "gloss": "year-performed",
+     "grounds": "done over the course of a year",
+     "morph": "compound: varṣa+first, kṛta+second"
+    },
+    {
+     "surface": "āpūjāphalaṃ",
+     "gloss": "worship-fruit",
+     "grounds": "result or merit of worship; initial ā may intensify",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "takes",
+     "grounds": "receives or accepts",
+     "morph": "3.sg.act-present √grah"
+    },
+    {
+     "surface": "kāmarāṭ",
+     "gloss": "desire-king",
+     "grounds": "sovereign of desire, epithet of a deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who receives the fruit of worship performed throughout the year?",
+   "premises": [
+    "Worship may be performed over a year",
+    "Such worship yields a fruit",
+    "Kamarat is the agent who takes that fruit"
+   ],
+   "inference": "The lord of desire receives the fruit of year-long worship",
+   "uncertainties": [
+    "The exact identity of kāmarāṭ is context-dependent"
+   ],
+   "plain_english": "The lord of desire receives the fruit of worship performed throughout the year."
+  },
+  {
+   "verse": 2631,
+   "rows": [
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "ninth lunar day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paurṇamāsī",
+     "gloss": "full-moon-day",
+     "grounds": "day of the full moon",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśī",
+     "gloss": "fourteenth-day",
+     "grounds": "fourteenth lunar day",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which lunar days are specified for the ritual observance?",
+   "premises": [
+    "The ninth day is specified",
+    "The full-moon day is specified",
+    "The fourteenth day is specified"
+   ],
+   "inference": "The ritual is to be observed on the ninth, full-moon, and fourteenth days",
+   "uncertainties": [],
+   "plain_english": "On the ninth day, the full-moon day, and the fourteenth day."
+  },
+  {
+   "verse": 2632,
+   "rows": [
+    {
+     "surface": "kṛtanityakriyaḥ",
+     "gloss": "done-daily-rites",
+     "grounds": "one who has completed obligatory daily practices",
+     "morph": "m.nom.sg; compound: kṛta+first, nitya+second, kriya+third"
+    },
+    {
+     "surface": "śuddhaḥ",
+     "gloss": "pure",
+     "grounds": "ritually purified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "accompanied or prepared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmayikaiḥ",
+     "gloss": "with-initiated-companions",
+     "grounds": "those sharing the same observance or convention",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "janaiḥ",
+     "gloss": "with-people",
+     "grounds": "companions or participants",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What condition must the practitioner and companions meet before the rite?",
+   "premises": [
+    "The practitioner must have completed daily rites",
+    "The practitioner must be pure",
+    "The practitioner must be joined by initiated companions"
+   ],
+   "inference": "The rite requires a purified practitioner who has done daily rites and is accompanied by initiated people",
+   "uncertainties": [
+    "sāmayikaiḥ may refer specifically to those bound by the same tantric convention"
+   ],
+   "plain_english": "Having completed the daily rites, pure, and accompanied by initiated companions."
+  },
+  {
+   "verse": 2633,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "after performing a preparatory act",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "ṛṣyādīn",
+     "gloss": "seers-and-others",
+     "grounds": "the seers and related beings invoked",
+     "morph": "m.acc.pl; compound: ṛṣi+first, ādi+second"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.act-optative √nyas+vi"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual placement follows the preparatory acts?",
+   "premises": [
+    "Preparatory acts are completed first",
+    "The seers and others are to be invoked",
+    "Placement is the next prescribed action"
+   ],
+   "inference": "After the preparatory acts, one should then place the seers and others",
+   "uncertainties": [],
+   "plain_english": "Having done that, one should then place the seers and the others."
+  },
+  {
+   "verse": 2634,
+   "rows": [
+    {
+     "surface": "ṛṣi",
+     "gloss": "seer",
+     "grounds": "class of invoked beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gandharva",
+     "gloss": "gandharva",
+     "grounds": "celestial musician class",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devādīn",
+     "gloss": "gods-and-others",
+     "grounds": "gods and additional beings",
+     "morph": "m.acc.pl; compound: deva+first, ādi+second"
+    },
+    {
+     "surface": "mohanāya",
+     "gloss": "for-delusion",
+     "grounds": "purpose of enchanting or bewildering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ+astu",
+     "gloss": "obeisance-be",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.) + 3.sg.act-imperative √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressed recipient",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "To whom and for what purpose is the opening salutation directed?",
+   "premises": [
+    "Seers, gandharvas, gods and others are addressed",
+    "The stated purpose is delusion or enchantment",
+    "A salutation formula is uttered"
+   ],
+   "inference": "Salutation is offered to the seers, gandharvas, gods and others for the purpose of enchantment",
+   "uncertainties": [
+    "mohanāya may indicate subjugation or ritual fascination depending on context"
+   ],
+   "plain_english": "Salutation to you, seers, gandharvas, gods and others, for the purpose of enchantment."
+  },
+  {
+   "verse": 2635,
+   "rows": [
+    {
+     "surface": "samāyāhi",
+     "gloss": "come-here",
+     "grounds": "invocation to approach",
+     "morph": "2.sg.act-imperative √yā+sam-ā"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "request for pardon or forbearance",
+     "morph": "2.sg.mid-imperative √kṣam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ+astu",
+     "gloss": "obeisance-be",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.) + 3.sg.act-imperative √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressed recipient",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What requests accompany the salutation to the invoked beings?",
+   "premises": [
+    "The beings are asked to come",
+    "The beings are asked to forgive",
+    "Salutation is repeated to them"
+   ],
+   "inference": "The invocation asks the beings to come, to forgive, and receives salutation",
+   "uncertainties": [],
+   "plain_english": "Come here, forgive, and salutation be to you."
+  },
+  {
+   "verse": 2636,
+   "rows": [
+    {
+     "surface": "netavyaḥ+asi",
+     "gloss": "to-be-led-you-are",
+     "grounds": "statement of being guided or conducted",
+     "morph": "m.nom.sg future-passive-participle √nī + 2.sg.act-present √as"
+    },
+    {
+     "surface": "śivājñayā",
+     "gloss": "by-shiva-command",
+     "grounds": "authority of Shiva's order",
+     "morph": "f.inst.sg; compound: śiva+first, ājñā+second"
+    }
+   ],
+   "question": "By whose authority is the invoked being to be led?",
+   "premises": [
+    "The being is declared to be led",
+    "The command of Shiva is cited as authority"
+   ],
+   "inference": "The invoked being is to be led by the command of Shiva",
+   "uncertainties": [],
+   "plain_english": "You are to be led by the command of Shiva."
+  },
+  {
+   "verse": 2637,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that place or stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+tanmantreṇa",
+     "gloss": "with-that-mantra",
+     "grounds": "using the specified mantra",
+     "morph": "m.inst.sg; compound: tat+first, tanmantra+second"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual adept performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the worship there and by what means?",
+   "premises": [
+    "The practitioner is the agent",
+    "The location is specified as there",
+    "The worship is to be done with that mantra"
+   ],
+   "inference": "The practitioner should worship there with that mantra",
+   "uncertainties": [],
+   "plain_english": "There the practitioner should worship with that mantra."
+  },
+  {
+   "verse": 2638,
+   "rows": [
+    {
+     "surface": "kroṃ",
+     "gloss": "krom",
+     "grounds": "bīja syllable, kept as mantra sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratyai",
+     "gloss": "to-rati",
+     "grounds": "goddess Rati as recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "after reciting the formula",
+     "morph": "(indecl.) absolutive √vac+pra"
+    },
+    {
+     "surface": "ratyai",
+     "gloss": "to-rati",
+     "grounds": "goddess Rati as recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "hṛc+cāṣṭavarṇakaḥ",
+     "gloss": "heart-and-eight-syllabled",
+     "grounds": "mantra ending with heart syllable and totaling eight syllables",
+     "morph": "m.nom.sg; compound: hṛd+first, ca+second, aṣṭavarṇaka+third"
+    }
+   ],
+   "question": "What mantra formula is to be uttered for Rati in this step?",
+   "premises": [
+    "The syllable kroṃ is given",
+    "Salutation to Rati is included",
+    "The formula is described as heart-plus-eight-syllabled"
+   ],
+   "inference": "One should utter the eight-syllabled formula including kroṃ and salutation to Rati",
+   "uncertainties": [
+    "The exact syllabic breakdown of hṛc+cāṣṭavarṇakaḥ depends on mantra convention"
+   ],
+   "plain_english": "Having uttered 'kroṃ, obeisance to Rati,' the formula to Rati is the heart-syllable with eight syllables."
+  },
+  {
+   "verse": 2639,
+   "rows": [
+    {
+     "surface": "svagṛham",
+     "gloss": "own-house",
+     "grounds": "the practitioner's home",
+     "morph": "n.acc.sg; compound: sva+first, gṛha+second"
+    },
+    {
+     "surface": "āgacchet",
+     "gloss": "should-go",
+     "grounds": "return or proceed",
+     "morph": "3.sg.act-optative √gam+ā"
+    },
+    {
+     "surface": "dvitīye",
+     "gloss": "on-second",
+     "grounds": "the following or second",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "divase",
+     "gloss": "on-day",
+     "grounds": "daytime occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition on another day",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the practitioner go on the second day of the rite?",
+   "premises": [
+    "The action is set on the second day",
+    "The destination is one's own house",
+    "The instruction is to go again"
+   ],
+   "inference": "On the second day, the practitioner should go again to their own house",
+   "uncertainties": [],
+   "plain_english": "On the second day, one should go again to one's own house."
+  },
+  {
+   "verse": 2640,
+   "rows": [
+    {
+     "surface": "utpāṭayet",
+     "gloss": "should-uproot",
+     "grounds": "remove by pulling out",
+     "morph": "3.sg.act-causative-optative √paṭ+ud"
+    },
+    {
+     "surface": "chedayet",
+     "gloss": "should-cut",
+     "grounds": "sever or cut off",
+     "morph": "3.sg.act-causative-optative √chid"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svamūlena",
+     "gloss": "with-own-root-mantra",
+     "grounds": "using one's own root formula",
+     "morph": "n.inst.sg; compound: sva+first, mūla+second"
+    },
+    {
+     "surface": "astramantrataḥ",
+     "gloss": "by-weapon-mantra",
+     "grounds": "through application of the weapon mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative actions and mantras are prescribed for removal in this step?",
+   "premises": [
+    "Uprooting is a prescribed action",
+    "Cutting is an alternative prescribed action",
+    "The actions are done with the own-root and weapon mantra"
+   ],
+   "inference": "One should uproot or cut using one's own root mantra and the weapon mantra",
+   "uncertainties": [
+    "The object to be uprooted or cut is implied by context"
+   ],
+   "plain_english": "One should uproot or cut it with one's own root mantra and by means of the weapon mantra."
+  },
+  {
+   "verse": 2641,
+   "rows": [
+    {
+     "surface": "ghore",
+     "gloss": "o-fierce-one",
+     "grounds": "vocative address to a fierce form",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "hrīm",
+     "gloss": "hrim",
+     "grounds": "bīja syllable, kept as mantra sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtayet",
+     "gloss": "should-recite",
+     "grounds": "prescribed utterance",
+     "morph": "3.sg.act-causative-optative √kīrt"
+    }
+   ],
+   "question": "What recitation is prescribed in this fierce invocation?",
+   "premises": [
+    "A fierce form is addressed",
+    "The syllable hrīm is specified",
+    "Recitation is the prescribed action"
+   ],
+   "inference": "One should recite 'O fierce one, hrīm'",
+   "uncertainties": [],
+   "plain_english": "One should recite: 'O fierce one, hrīm.'"
+  },
+  {
+   "verse": 2642,
+   "rows": [
+    {
+     "surface": "rudrarūpebhyaḥ",
+     "gloss": "to-rudra-forms",
+     "grounds": "forms or manifestations of Rudra",
+     "morph": "n.dat.pl; compound: rudra+first, rūpa+second"
+    },
+    {
+     "surface": "hrīm",
+     "gloss": "hrim",
+     "grounds": "bīja syllable, kept as mantra sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīm",
+     "gloss": "shrim",
+     "grounds": "bīja syllable, kept as mantra sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally known or taught",
+     "morph": "m.nom.sg past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What mantra is traditionally taught for the forms of Rudra?",
+   "premises": [
+    "The forms of Rudra are the recipients",
+    "The syllables hrīm and śrīm are given",
+    "This formula is remembered as a mantra"
+   ],
+   "inference": "The mantra for the forms of Rudra is remembered as 'to the forms of Rudra, hrīm, śrīm'",
+   "uncertainties": [],
+   "plain_english": "The mantra is remembered as: 'To the forms of Rudra, hrīm, śrīm.'"
+  },
+  {
+   "verse": 2643,
+   "rows": [
+    {
+     "surface": "pīṭhādau",
+     "gloss": "in-pedestal-and-so-on",
+     "grounds": "on the pedestal or similar base",
+     "morph": "n.loc.sg; compound: pīṭha+first, ādi+second"
+    },
+    {
+     "surface": "navāṃśān",
+     "gloss": "nine-divisions",
+     "grounds": "nine parts or sections",
+     "morph": "m.acc.pl; compound: nava+first, aṃśa+second"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "of that object or base",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "cause to be made or arranged",
+     "morph": "3.sg.act-causative-optative √kṛ"
+    }
+   ],
+   "question": "How should the pedestal or base be divided for the ritual?",
+   "premises": [
+    "The pedestal or similar base is the locus",
+    "Nine divisions are specified",
+    "The practitioner should cause them to be made"
+   ],
+   "inference": "One should make nine divisions of it on the pedestal or similar base",
+   "uncertainties": [],
+   "plain_english": "On the pedestal and so forth, one should make nine divisions of it."
+  },
+  {
+   "verse": 2644,
+   "rows": [
+    {
+     "surface": "candana",
+     "gloss": "sandal",
+     "grounds": "sandalwood paste or substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aguru",
+     "gloss": "agallochum",
+     "grounds": "aloeswood substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "camphor substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candanair",
+     "gloss": "with-sandal-substances",
+     "grounds": "with sandal and related fragrant materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "should-anoint",
+     "grounds": "smear or coat ritually",
+     "morph": "3.sg.act-causative-optative √lip"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "the previously mentioned divisions or objects",
+     "morph": "pron.acc.pl.m"
+    }
+   ],
+   "question": "With what substances should the divisions be anointed?",
+   "premises": [
+    "Sandal, agallochum, and camphor are specified",
+    "Anointing is the prescribed action",
+    "The previously mentioned divisions are the objects"
+   ],
+   "inference": "One should anoint those divisions with sandal, agallochum, camphor, and sandal substances",
+   "uncertainties": [
+    "The repetition of candana/candanair may indicate specific sandal preparations"
+   ],
+   "plain_english": "And one should anoint them with sandal, agallochum, camphor, and sandal pastes."
+  },
+  {
+   "verse": 2645,
+   "rows": [
+    {
+     "surface": "tadbījaṃ",
+     "gloss": "its-seed-syllable",
+     "grounds": "the bīja mantra of that deity or object",
+     "morph": "n.acc.sg; compound: tad+first, bīja+second"
+    },
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "muttering or repeating the mantra",
+     "morph": "m.nom.sg present-participle √jap"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamāpayet",
+     "gloss": "should-appease",
+     "grounds": "ask forgiveness or pacify ritually",
+     "morph": "3.sg.act-causative-optative √kṣam"
+    }
+   ],
+   "question": "How should appeasement be performed in this ritual stage?",
+   "premises": [
+    "The seed syllable of that entity is to be recited",
+    "Recitation accompanies the act",
+    "Appeasement is the prescribed action"
+   ],
+   "inference": "While reciting its seed syllable here, one should perform appeasement",
+   "uncertainties": [],
+   "plain_english": "Reciting its seed syllable here, one should ask for forgiveness."
+  },
+  {
+   "verse": 2646,
+   "rows": [
+    {
+     "surface": "tasya+aṣṭadikṣu",
+     "gloss": "in-its-eight-directions",
+     "grounds": "in the eight directions around it",
+     "morph": "f.loc.pl; compound: tasya+first, aṣṭadik+second"
+    },
+    {
+     "surface": "saṃsthāpyāḥ",
+     "gloss": "to-be-established",
+     "grounds": "should be set in place",
+     "morph": "f.nom.pl future-passive-participle √sthā+sam"
+    },
+    {
+     "surface": "ghaṭāḥ",
+     "gloss": "jars",
+     "grounds": "ritual water vessels",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "svarṇādinirmitāḥ",
+     "gloss": "made-of-gold-and-others",
+     "grounds": "fashioned from gold and similar materials",
+     "morph": "f.nom.pl; compound: svarṇa+first, ādi+second, nirmita+third"
+    }
+   ],
+   "question": "Where and of what material should the ritual jars be placed?",
+   "premises": [
+    "Jars are to be established",
+    "They are placed in the eight directions around it",
+    "They are made of gold and other materials"
+   ],
+   "inference": "Jars made of gold and other materials should be established in its eight directions",
+   "uncertainties": [],
+   "plain_english": "In its eight directions, jars made of gold and other materials should be placed."
+  },
+  {
+   "verse": 2647,
+   "rows": [
+    {
+     "surface": "svāsanapūjādiyoga",
+     "gloss": "own-seat-worship-and-other",
+     "grounds": "sequence beginning with worship of one's own seat",
+     "morph": "m.inst.sg; compound: sva+first, āsana+second, pūjā+third, ādi+fourth, yoga+fifth"
+    },
+    {
+     "surface": "pīṭhāntam",
+     "gloss": "up-to-pedestal",
+     "grounds": "ending with the pedestal stage",
+     "morph": "n.acc.sg; compound: pīṭha+first, anta+second"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "perform ritual worship",
+     "morph": "3.sg.act-causative-optative √arc"
+    }
+   ],
+   "question": "What sequence of worship should be performed up to the pedestal stage?",
+   "premises": [
+    "Worship begins with one's own seat and related acts",
+    "The sequence extends up to the pedestal",
+    "Worship is the prescribed action"
+   ],
+   "inference": "One should perform worship from one's own seat and related acts up to the pedestal",
+   "uncertainties": [],
+   "plain_english": "One should perform worship beginning with one's own seat and so forth, up to the pedestal."
+  },
+  {
+   "verse": 2648,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescribed construction or arrangement",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "vṛttayugma",
+     "gloss": "circle-pair",
+     "grounds": "two concentric or paired circles",
+     "morph": "n.acc.sg; compound: vṛtta+first, yugma+second"
+    },
+    {
+     "surface": "veṣṭitaṃ",
+     "gloss": "enveloped",
+     "grounds": "surrounded or enclosed",
+     "morph": "n.acc.sg past-passive-participle √veṣṭ"
+    },
+    {
+     "surface": "bhūpureṇa",
+     "gloss": "by-earth-enclosure",
+     "grounds": "by the outer square enclosure of the diagram",
+     "morph": "n.inst.sg; compound: bhū+first, pura+second"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What diagrammatic structure should be constructed in this stage?",
+   "premises": [
+    "A pair of circles is to be made",
+    "The pair is enveloped",
+    "The enclosure is the bhūpura"
+   ],
+   "inference": "One should make a pair of circles enveloped by the bhūpura",
+   "uncertainties": [],
+   "plain_english": "One should make a pair of circles enclosed by the bhūpura."
+  },
+  {
+   "verse": 2649,
+   "rows": [
+    {
+     "surface": "prārthayitvā",
+     "gloss": "having-prayed",
+     "grounds": "after making a request or invocation",
+     "morph": "(indecl.) absolutive √arth+prā"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "the addressed deity or entity",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "perform ritual worship",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "candanādibhiḥ",
+     "gloss": "with-sandal-and-others",
+     "grounds": "with sandal and other offerings or substances",
+     "morph": "n.inst.pl; compound: candana+first, ādi+second"
+    }
+   ],
+   "question": "What actions conclude the worship of the addressed deity in this step?",
+   "premises": [
+    "Prayer is offered first",
+    "The deity is the object of worship",
+    "Sandal and other substances are used"
+   ],
+   "inference": "After praying to him, one should worship him with sandal and other substances",
+   "uncertainties": [],
+   "plain_english": "Having prayed to him, one should worship him with sandal and other offerings."
+  }
+ ]
+}

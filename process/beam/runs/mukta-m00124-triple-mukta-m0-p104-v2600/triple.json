@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "alindapārśvayoḥ",
+     "gloss": "alinda-sides",
+     "grounds": "fused compound; genitive dual of pārśva",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "karṇakūṭānāṃ",
+     "gloss": "corner-turrets",
+     "grounds": "genitive plural of karṇakūṭa",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "madhyadeśataḥ",
+     "gloss": "from-middle-region",
+     "grounds": "ablative sense from deśa",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the karṇakūṭas measured from on the sides of the alinda?",
+   "premises": [
+    "karṇakūṭas lie on alinda sides",
+    "measurement starts from middle region",
+    "genitive forms indicate spatial relation"
+   ],
+   "inference": "the karṇakūṭas are located relative to the alinda's side-middles",
+   "uncertainties": [
+    "exact architectural referent of karṇakūṭa uncertain"
+   ],
+   "plain_english": "The karṇakūṭas on the sides of the alinda are measured from their middle region."
+  }
+ ]
+}

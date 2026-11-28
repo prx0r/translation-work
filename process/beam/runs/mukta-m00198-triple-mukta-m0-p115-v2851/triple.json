@@ -1,0 +1,1019 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2851,
+   "rows": [
+    {
+     "surface": "tripaṃcamātram",
+     "gloss": "three-and-fifth-measure",
+     "grounds": "bahuvrīhi compound denoting extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityuktaṃ",
+     "gloss": "thus-said",
+     "grounds": "iti + ukta, quotation marker with past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādasya",
+     "gloss": "of-foot",
+     "grounds": "genitive of the measured part",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talāyatam",
+     "gloss": "palm-length",
+     "grounds": "compound indicating length of the palm",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure is prescribed for the length of the foot in this system?",
+   "premises": [
+    "The foot length is stated as three-and-fifth-measure.",
+    "This measure is specified as the palm-length."
+   ],
+   "inference": "The foot is defined as having a palm-length of three-and-a-fifth units.",
+   "uncertainties": [],
+   "plain_english": "The length of the foot is said to be three and a fifth measures, that is, the length of the palm."
+  },
+  {
+   "verse": 2852,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "iti + compound locative naming the text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṣṭatāla",
+     "gloss": "eight-tāla",
+     "grounds": "compound naming the measurement system",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "procedure",
+     "grounds": "noun denoting prescribed method",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun naming a textual section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvāṣaṣṭhitamaḥ",
+     "gloss": "sixty-second",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān-Kāśyapa concludes the eight-tāla procedure?",
+   "premises": [
+    "The text names the Aṃśumān-Kāśyapa.",
+    "The section concerns the eight-tāla procedure.",
+    "The chapter is identified as the sixty-second."
+   ],
+   "inference": "The sixty-second chapter of the Aṃśumān-Kāśyapa presents the eight-tāla procedure.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the sixty-second chapter, on the procedure of the eight-tāla system, in the Aṃśumān-Kāśyapa."
+  },
+  {
+   "verse": 2853,
+   "rows": [
+    {
+     "surface": "piśācapratimā",
+     "gloss": "piśāca-image",
+     "grounds": "compound naming the figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "accusative of extent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṣṭāśītyaṃśakaṃ",
+     "gloss": "eighty-eight-parts",
+     "grounds": "compound specifying division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What total height is prescribed for the image of a piśāca?",
+   "premises": [
+    "The subject is the image of a piśāca.",
+    "Its height is specified in parts.",
+    "The prescribed total is eighty-eight parts."
+   ],
+   "inference": "The piśāca image should have a height of eighty-eight parts.",
+   "uncertainties": [],
+   "plain_english": "The image of a piśāca should have a height of eighty-eight parts."
+  },
+  {
+   "verse": 2854,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "one-and-half-two-parts",
+     "grounds": "compound expressing fractional measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrāntaṃ",
+     "gloss": "up-to-eye-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhāgnyaṃśaṃ",
+     "gloss": "one-and-half-three-parts",
+     "grounds": "compound with agni as three",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṭāntakam",
+     "gloss": "up-to-navel-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements are assigned up to the eye-end and the navel-end?",
+   "premises": [
+    "The measure up to the eye-end is given as one and a half plus two parts.",
+    "The measure up to the navel-end is given as one and a half plus three parts."
+   ],
+   "inference": "The eye-end and navel-end are fixed at two-and-a-half and three-and-a-half parts respectively.",
+   "uncertainties": [
+    "puṭāntakam may indicate navel or hip region depending on convention"
+   ],
+   "plain_english": "Up to the end of the eyes is two and a half parts, and up to the end of the navel is three and a half parts."
+  },
+  {
+   "verse": 2855,
+   "rows": [
+    {
+     "surface": "stanāntaṃ",
+     "gloss": "up-to-breast-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptabhāgaṃ",
+     "gloss": "seven-parts",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrāṃśaṃ",
+     "gloss": "eleven-parts",
+     "grounds": "compound with rudra as eleven",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nābhisīmakam",
+     "gloss": "up-to-navel-boundary",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements are assigned up to the breast-end and the navel boundary?",
+   "premises": [
+    "The measure up to the breast-end is seven parts.",
+    "The measure up to the navel boundary is eleven parts."
+   ],
+   "inference": "The breast-end and navel boundary are fixed at seven and eleven parts respectively.",
+   "uncertainties": [],
+   "plain_english": "Up to the end of the breast is seven parts, and up to the boundary of the navel is eleven parts."
+  },
+  {
+   "verse": 2856,
+   "rows": [
+    {
+     "surface": "jānumānaṃ",
+     "gloss": "knee-measure",
+     "grounds": "compound naming the measure to the knee",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "instrumental indicating amount",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jaṃghā",
+     "gloss": "shank",
+     "grounds": "noun naming the lower leg",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "corusamā",
+     "gloss": "thigh-equal",
+     "grounds": "compound indicating equality with thigh",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "How are the knee measure, shank, and thigh related in this proportion scheme?",
+   "premises": [
+    "The knee measure is given as two parts.",
+    "The shank should be equal to the thigh."
+   ],
+   "inference": "The knee is set at two parts and the shank is made equal in measure to the thigh.",
+   "uncertainties": [
+    "exact reference point of jānumānaṃ is context-dependent"
+   ],
+   "plain_english": "The knee measure is two parts, and the shank should be equal to the thigh."
+  },
+  {
+   "verse": 2857,
+   "rows": [
+    {
+     "surface": "ūrudīrghasamaṃ",
+     "gloss": "thigh-length-equal",
+     "grounds": "compound indicating equality with thigh length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhu",
+     "gloss": "arm",
+     "grounds": "noun naming the upper arm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakoṣṭhadīrghaṃ",
+     "gloss": "forearm-length",
+     "grounds": "compound naming forearm length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripaṃcakam",
+     "gloss": "three-and-five",
+     "grounds": "compound expressing numerical measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What lengths are prescribed for the arm and the forearm?",
+   "premises": [
+    "The arm is equal to the length of the thigh.",
+    "The forearm length is three and five parts."
+   ],
+   "inference": "The arm matches the thigh in length and the forearm measures three and five parts.",
+   "uncertainties": [
+    "tripaṃcakam may mean fifteen or three-plus-five depending on convention"
+   ],
+   "plain_english": "The arm should be equal to the length of the thigh, and the forearm should be three and five parts long."
+  },
+  {
+   "verse": 2858,
+   "rows": [
+    {
+     "surface": "talāyāmasadṛśaṃ",
+     "gloss": "palm-length-equal",
+     "grounds": "compound indicating equality with palm length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamāṃguli",
+     "gloss": "middle-finger",
+     "grounds": "compound naming the finger",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīrghakam",
+     "gloss": "long",
+     "grounds": "adjective indicating length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed for the middle finger in this scheme?",
+   "premises": [
+    "The middle finger is described as long.",
+    "Its length is equal to the palm length."
+   ],
+   "inference": "The middle finger should be made equal in length to the palm.",
+   "uncertainties": [],
+   "plain_english": "The middle finger should be long, equal to the length of the palm."
+  },
+  {
+   "verse": 2859,
+   "rows": [
+    {
+     "surface": "saptatālaṃ",
+     "gloss": "seven-tāla",
+     "grounds": "compound naming the measurement system",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun for what remains",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgaparoditam",
+     "gloss": "before-after-stated",
+     "grounds": "compound referring to earlier and later statements",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the remainder of the seven-tāla system to be understood?",
+   "premises": [
+    "The seven-tāla system has been declared.",
+    "The remainder is said to be as stated before and after."
+   ],
+   "inference": "Details not specified here for the seven-tāla system follow earlier and later prescriptions.",
+   "uncertainties": [],
+   "plain_english": "The seven-tāla system has been declared; the rest is as stated before and elsewhere."
+  },
+  {
+   "verse": 2860,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "iti + compound locative naming the text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptatāla",
+     "gloss": "seven-tāla",
+     "grounds": "compound naming the measurement system",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "procedure",
+     "grounds": "noun denoting prescribed method",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun naming a textual section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṣaṣṭhitamaḥ",
+     "gloss": "sixty-third",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān-Kāśyapa concludes the seven-tāla procedure?",
+   "premises": [
+    "The text names the Aṃśumān-Kāśyapa.",
+    "The section concerns the seven-tāla procedure.",
+    "The chapter is identified as the sixty-third."
+   ],
+   "inference": "The sixty-third chapter of the Aṃśumān-Kāśyapa presents the seven-tāla procedure.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the sixty-third chapter, on the procedure of the seven-tāla system, in the Aṃśumān-Kāśyapa."
+  },
+  {
+   "verse": 2861,
+   "rows": [
+    {
+     "surface": "ārjavaṃ",
+     "gloss": "straightness",
+     "grounds": "noun denoting upright quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājasaṃ",
+     "gloss": "royal",
+     "grounds": "adjective qualifying the mood",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvaṃ",
+     "gloss": "mood",
+     "grounds": "noun denoting disposition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhadrapīṭhe",
+     "gloss": "on-auspicious-seat",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sukhāsanam",
+     "gloss": "comfortable-posture",
+     "grounds": "compound naming seated posture",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What posture and disposition are prescribed on the auspicious seat?",
+   "premises": [
+    "Straightness and a royal mood are specified.",
+    "The setting is on an auspicious seat.",
+    "A comfortable posture is prescribed."
+   ],
+   "inference": "On the auspicious seat one should adopt a comfortable posture with straightness and a royal mood.",
+   "uncertainties": [],
+   "plain_english": "On the auspicious seat, one should assume a comfortable posture with straightness and a royal bearing."
+  },
+  {
+   "verse": 2862,
+   "rows": [
+    {
+     "surface": "ūrdhvakāyopariṣṭāt",
+     "gloss": "above-upper-body",
+     "grounds": "compound with ablative sense of position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhavedāṃgulādhikam",
+     "gloss": "one-and-half-four-fingers-more",
+     "grounds": "compound expressing additional measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional measure is specified above the upper body?",
+   "premises": [
+    "The reference point is above the upper body.",
+    "An additional measure is prescribed.",
+    "The addition is one and a half plus four finger-units."
+   ],
+   "inference": "Above the upper body an extra measure of five and a half finger-units is specified.",
+   "uncertainties": [
+    "veda as four is a conventional numerical value"
+   ],
+   "plain_english": "Above the upper body, there should be an additional five and a half finger-units."
+  },
+  {
+   "verse": 2863,
+   "rows": [
+    {
+     "surface": "āsanāt",
+     "gloss": "from-seat",
+     "grounds": "ablative indicating starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūrvakeśāntaṃ",
+     "gloss": "up-to-front-hair-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jānvordhve",
+     "gloss": "above-knees",
+     "grounds": "locative compound indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhyāvasānakam",
+     "gloss": "outer-end",
+     "grounds": "compound indicating outer limit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What spatial limits are defined from the seat to the hair-end and above the knees?",
+   "premises": [
+    "A measure is taken from the seat up to the front hair-end.",
+    "A limit is specified above the knees.",
+    "The limit is described as the outer end."
+   ],
+   "inference": "The prescribed layout extends from the seat to the front hair-end and to the outer end above the knees.",
+   "uncertainties": [
+    "exact anatomical reference of pūrvakeśāntaṃ may vary"
+   ],
+   "plain_english": "From the seat up to the front hair-end, and above the knees to the outer end, the limits are defined."
+  },
+  {
+   "verse": 2864,
+   "rows": [
+    {
+     "surface": "parahastadvayormadhye",
+     "gloss": "between-two-other-hands",
+     "grounds": "locative compound indicating interval",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhyam",
+     "gloss": "outer",
+     "grounds": "adjective indicating position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyantaraṃ",
+     "gloss": "inner",
+     "grounds": "adjective indicating position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What distinction is made between the two other hands in their middle space?",
+   "premises": [
+    "The reference is the space between two other hands.",
+    "Both outer and inner positions are named."
+   ],
+   "inference": "The space between the two other hands is to be understood as having outer and inner aspects.",
+   "uncertainties": [],
+   "plain_english": "Between the two other hands there should be an outer and an inner space."
+  },
+  {
+   "verse": 2865,
+   "rows": [
+    {
+     "surface": "maulimadhye",
+     "gloss": "in-crown-middle",
+     "grounds": "locative compound indicating point",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsāgre",
+     "gloss": "at-nose-tip",
+     "grounds": "locative compound indicating point",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "stanānte",
+     "gloss": "at-breast-end",
+     "grounds": "locative compound indicating point",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhimadhyame",
+     "gloss": "at-navel-middle",
+     "grounds": "locative compound indicating point",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which vertical reference points are specified along the body axis?",
+   "premises": [
+    "The crown middle is named as a point.",
+    "The nose tip is named as a point.",
+    "The breast end and navel middle are named as points."
+   ],
+   "inference": "The axis is marked at the crown middle, nose tip, breast end, and navel middle.",
+   "uncertainties": [],
+   "plain_english": "The reference points are the middle of the crown, the tip of the nose, the end of the breast, and the middle of the navel."
+  },
+  {
+   "verse": 2866,
+   "rows": [
+    {
+     "surface": "sūtrāt",
+     "gloss": "from-thread",
+     "grounds": "ablative indicating reference line",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dakṣiṇajānvantaṃ",
+     "gloss": "up-to-right-knee-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekatriṃśāṃgulaṃ",
+     "gloss": "thirty-one-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What distance is prescribed from the thread to the end of the right knee?",
+   "premises": [
+    "The measurement starts from the thread.",
+    "The endpoint is the right knee end.",
+    "The distance is thirty-one finger-units."
+   ],
+   "inference": "The distance from the thread to the right knee end should be thirty-one finger-units.",
+   "uncertainties": [],
+   "plain_english": "From the thread to the end of the right knee should be thirty-one finger-units."
+  },
+  {
+   "verse": 2867,
+   "rows": [
+    {
+     "surface": "sūtrāt",
+     "gloss": "from-thread",
+     "grounds": "ablative indicating reference line",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "adaṃghrinalakāt",
+     "gloss": "from-that-foot-toe",
+     "grounds": "ablative compound indicating endpoint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "noun denoting distance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśāṃgulam",
+     "gloss": "twelve-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What interval is prescribed from the thread to the toe of that foot?",
+   "premises": [
+    "The measurement starts from the thread.",
+    "The endpoint is the toe of that foot.",
+    "The interval is twelve finger-units."
+   ],
+   "inference": "The interval from the thread to that foot’s toe should be twelve finger-units.",
+   "uncertainties": [
+    "adaṃghri refers to a previously identified foot"
+   ],
+   "plain_english": "From the thread to the toe of that foot, the interval should be twelve finger-units."
+  },
+  {
+   "verse": 2868,
+   "rows": [
+    {
+     "surface": "pīṭhāt",
+     "gloss": "from-seat",
+     "grounds": "ablative indicating starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tadaṃghripārṣṇyoḥ",
+     "gloss": "of-that-foot-heel",
+     "grounds": "genitive compound indicating reference",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "depression",
+     "grounds": "noun indicating lowered measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitryaṃgulaṃ",
+     "gloss": "two-or-three-fingers",
+     "grounds": "compound giving alternative measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What depression is allowed from the seat to the heel of that foot?",
+   "premises": [
+    "The measurement is taken from the seat to that foot’s heel.",
+    "A depression is specified.",
+    "The allowed measure is two or three finger-units."
+   ],
+   "inference": "The depression from the seat to that foot’s heel may be two or three finger-units.",
+   "uncertainties": [],
+   "plain_english": "From the seat to the heel of that foot, the depression should be two or three finger-units."
+  },
+  {
+   "verse": 2869,
+   "rows": [
+    {
+     "surface": "caturdaśāṃgulaṃ",
+     "gloss": "fourteen-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "noun denoting distance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What interval is declared to the best of the twice-born?",
+   "premises": [
+    "An interval is being declared.",
+    "The measure given is fourteen finger-units.",
+    "The statement is addressed to the best twice-born."
+   ],
+   "inference": "The declared interval is fourteen finger-units.",
+   "uncertainties": [
+    "the specific endpoints of this interval are given by context"
+   ],
+   "plain_english": "O best of the twice-born, the interval is declared to be fourteen finger-units."
+  },
+  {
+   "verse": 2870,
+   "rows": [
+    {
+     "surface": "tatsūtrāt",
+     "gloss": "from-that-thread",
+     "grounds": "ablative compound indicating reference line",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kaṭake",
+     "gloss": "at-bracelet",
+     "grounds": "locative indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "at-hand",
+     "grounds": "locative indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇibandhasya",
+     "gloss": "of-wrist",
+     "grounds": "genitive indicating reference point",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhyamāt",
+     "gloss": "from-middle",
+     "grounds": "ablative indicating midpoint",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Which reference points are established from that thread at the hand and wrist?",
+   "premises": [
+    "The measurement starts from that thread.",
+    "The bracelet and hand are named as locations.",
+    "The middle of the wrist is given as a reference point."
+   ],
+   "inference": "The layout is referenced from that thread to the bracelet, hand, and middle of the wrist.",
+   "uncertainties": [],
+   "plain_english": "From that thread, the reference is at the bracelet on the hand, from the middle of the wrist."
+  },
+  {
+   "verse": 2871,
+   "rows": [
+    {
+     "surface": "ūroḥ",
+     "gloss": "of-thigh",
+     "grounds": "genitive indicating starting region",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇibandhāntaṃ",
+     "gloss": "up-to-wrist-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekadvitryaṃgulaṃ",
+     "gloss": "one-two-or-three-fingers",
+     "grounds": "compound giving alternative measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distance is allowed from the thigh to the end of the wrist?",
+   "premises": [
+    "The span is measured from the thigh to the wrist end.",
+    "Alternative measures are given.",
+    "The allowed values are one, two, or three finger-units."
+   ],
+   "inference": "The distance from the thigh to the wrist end may be one, two, or three finger-units.",
+   "uncertainties": [],
+   "plain_english": "From the thigh to the end of the wrist, it may be one, two, or three finger-units."
+  },
+  {
+   "verse": 2872,
+   "rows": [
+    {
+     "surface": "tarjanyādi",
+     "gloss": "beginning-with-index-finger",
+     "grounds": "compound indicating starting member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kaniṣṭhāntaṃ",
+     "gloss": "up-to-little-finger-end",
+     "grounds": "compound indicating limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattanmūlāntavarji",
+     "gloss": "excluding-each-root-end",
+     "grounds": "compound indicating exclusion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kri?",
+     "gloss": "action",
+     "grounds": "abbreviated or uncertain token",
+     "morph": "(uncertain)"
+    }
+   ],
+   "question": "What range of fingers is specified while excluding each root end?",
+   "premises": [
+    "The range begins with the index finger.",
+    "The range extends to the end of the little finger.",
+    "Each root end is excluded."
+   ],
+   "inference": "The specified span runs from the index finger to the little finger while excluding their root ends.",
+   "uncertainties": [
+    "final token kri? is abbreviated or unclear in the source"
+   ],
+   "plain_english": "From the index finger to the little finger, excluding the end of each root, the action is indicated."
+  },
+  {
+   "verse": 2873,
+   "rows": [
+    {
+     "surface": "madhyānmadhyatalāntaṃ",
+     "gloss": "from-middle-to-middle-palm-end",
+     "grounds": "compound indicating span",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhamardhānta",
+     "gloss": "half-to-half-end",
+     "grounds": "compound indicating fractional limit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāmikā",
+     "gloss": "ring-finger",
+     "grounds": "noun naming the finger",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What span and limit are specified for the ring finger in this measurement?",
+   "premises": [
+    "A span from middle to middle palm end is named.",
+    "A half-to-half-end limit is indicated.",
+    "The ring finger is the subject."
+   ],
+   "inference": "The ring finger is measured from the middle to the middle palm end with a half-to-half-end limit.",
+   "uncertainties": [
+    "exact parsing of ardhamardhānta is context-dependent"
+   ],
+   "plain_english": "For the ring finger, from the middle to the end of the middle palm, the limit is half to half-end."
+  },
+  {
+   "verse": 2874,
+   "rows": [
+    {
+     "surface": "hikkāsūtrasamaṃ",
+     "gloss": "hiccup-thread-equal",
+     "grounds": "compound indicating equality with a reference line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act + kṛ"
+    },
+    {
+     "surface": "kartaryāgre",
+     "gloss": "at-scissors-tip",
+     "grounds": "locative compound indicating point",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karau",
+     "gloss": "two-hands",
+     "grounds": "dual noun for hands",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "parau",
+     "gloss": "other",
+     "grounds": "adjective qualifying the hands",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "How should the other two hands be positioned relative to the hiccup-thread and scissors-tip?",
+   "premises": [
+    "The other two hands are the object of the action.",
+    "They should be made equal to the hiccup-thread.",
+    "The reference point is the tip of the scissors."
+   ],
+   "inference": "The other two hands should be aligned equal to the hiccup-thread at the scissors-tip.",
+   "uncertainties": [
+    "hikkāsūtra and kartaryāgre are technical iconometric terms"
+   ],
+   "plain_english": "One should make the other two hands equal to the hiccup-thread at the tip of the scissors."
+  }
+ ]
+}

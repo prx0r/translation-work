@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "bhūtesaṃśodhane",
+     "gloss": "elemental-purification",
+     "grounds": "locative singular neuter of the compound bhūta-saṃśodhana",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "done",
+     "grounds": "past participle of jan, neuter nominative/locative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "neuter nominative/accusative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kāsti",
+     "gloss": "what-is",
+     "grounds": "fused interrogative kā with asti, third person singular present active of as",
+     "morph": "3.sg.act-pres (root as)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "great-lady",
+     "grounds": "vocative singular feminine address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "After elemental purification has occurred, what sin remains for the great lady?",
+   "premises": [
+    "elemental purification has occurred",
+    "sin is being questioned",
+    "great lady is addressed"
+   ],
+   "inference": "no sin remains after elemental purification",
+   "uncertainties": [
+    "exact internal sandhi of kāsti is not expanded"
+   ],
+   "plain_english": "When elemental purification has taken place, what sin is there, O great lady?"
+  }
+ ]
+}

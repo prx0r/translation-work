@@ -1,0 +1,605 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "dhūpayet",
+     "gloss": "should-fumigate",
+     "grounds": "root dhūp",
+     "morph": "3.sg.act-opt-dhūp"
+    },
+    {
+     "surface": "tām",
+     "gloss": "her",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "instrumental masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "lepayet",
+     "gloss": "should-anoint",
+     "grounds": "root lip",
+     "morph": "3.sg.act-opt-lip"
+    },
+    {
+     "surface": "puruṣeṇa",
+     "gloss": "with-puruṣa-mantra",
+     "grounds": "instrumental masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the garland be fumigated and anointed during consecration?",
+   "premises": [
+    "fumigation precedes anointing",
+    "mantras differ by action"
+   ],
+   "inference": "The rite assigns Aghora to fumigation and Puruṣa to anointing.",
+   "uncertainties": [
+    "exact garland referent"
+   ],
+   "plain_english": "Fumigate her with Aghora and anoint her with Puruṣa."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "merum",
+     "gloss": "meru",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamena",
+     "gloss": "with-fifth",
+     "grounds": "instrumental masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "should-consecrate",
+     "grounds": "root mantr",
+     "morph": "3.sg.act-opt-mantr"
+    }
+   ],
+   "question": "Which mantra consecrates Meru in this rite?",
+   "premises": [
+    "Meru is consecrated",
+    "fifth mantra is used"
+   ],
+   "inference": "Meru is consecrated with this fifth mantra.",
+   "uncertainties": [
+    "identity of fifth mantra"
+   ],
+   "plain_english": "Consecrate Meru with this fifth mantra."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīhitam",
+     "gloss": "desired",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muṇḍamālāyāṃ",
+     "gloss": "in-skull-garland",
+     "grounds": "locative feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃsmṛtā",
+     "gloss": "remembered",
+     "grounds": "feminine nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is that not desired in the skull garland?",
+   "premises": [
+    "that is not desired",
+    "skull garland is remembered"
+   ],
+   "inference": "The remembered skull garland excludes that desired element.",
+   "uncertainties": [
+    "antecedent of tat"
+   ],
+   "plain_english": "That is not desired in the skull garland, because it is remembered."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "padmākāre",
+     "gloss": "in-lotus-shape",
+     "grounds": "locative masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aśvatthapatranavakeḥ",
+     "gloss": "in-aśvattha-leaf-nine",
+     "grounds": "locative masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpayecca",
+     "gloss": "should-place",
+     "grounds": "root sthā with ca",
+     "morph": "3.sg.act-opt-sthā"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the object be placed as an alternative?",
+   "premises": [
+    "lotus shape is one site",
+    "aśvattha leaf nine is another"
+   ],
+   "inference": "Placement may be in a lotus shape or in nine aśvattha leaves.",
+   "uncertainties": [
+    "object being placed"
+   ],
+   "plain_english": "Place it in a lotus shape or in nine aśvattha leaves."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "mahāpretāsanaṃ",
+     "gloss": "great-corpse-seat",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "root nyas",
+     "morph": "3.sg.act-opt-nyas"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the practitioner place on the great corpse seat?",
+   "premises": [
+    "great corpse seat is named",
+    "seed is placed there"
+   ],
+   "inference": "The practitioner places the seed on the great corpse seat.",
+   "uncertainties": [
+    "specific seed syllable"
+   ],
+   "plain_english": "The practitioner places the seed on the great corpse seat."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "vidhivad",
+     "gloss": "according-to-rule",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-installed",
+     "grounds": "absolutive",
+     "morph": "abs-ārop"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental neuter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saktito",
+     "gloss": "with-devotion",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "root hu",
+     "morph": "3.sg.act-opt-hu"
+    }
+   ],
+   "question": "How should fire offerings be made after installation?",
+   "premises": [
+    "fire is installed",
+    "ghee is offered"
+   ],
+   "inference": "After installing fire by rule, offer ghee with devotion.",
+   "uncertainties": [
+    "recipient of offering"
+   ],
+   "plain_english": "Having installed fire by rule, offer ghee with devotion."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "aṣṭottarasataṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive",
+     "morph": "abs-jap"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "root ācar",
+     "morph": "3.sg.act-opt-ācar"
+    }
+   ],
+   "question": "What recitation count precedes garland performance by the guru?",
+   "premises": [
+    "one hundred eight is recited",
+    "guru performs garland rite"
+   ],
+   "inference": "The guru recites one hundred eight times before performing the garland rite.",
+   "uncertainties": [
+    "mantra being recited"
+   ],
+   "plain_english": "Having recited one hundred eight, the guru performs the garland rite."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "dative masculine",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "should-give",
+     "grounds": "root dā",
+     "morph": "3.sg.act-opt-dā"
+    },
+    {
+     "surface": "yathāvibhavapūrvakam",
+     "gloss": "according-to-wealth",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the guru fee be given?",
+   "premises": [
+    "fee is given to guru",
+    "according to wealth"
+   ],
+   "inference": "The fee should be given to the guru according to one's wealth.",
+   "uncertainties": [
+    "exact fee type"
+   ],
+   "plain_english": "Give the fee to the guru according to your wealth."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "abhyukṣyāt",
+     "gloss": "should-sprinkle",
+     "grounds": "root abhyukṣ",
+     "morph": "3.sg.act-opt-abhyukṣ"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "in-beginning",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "root jap",
+     "morph": "3.sg.act-opt-jap"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjānte",
+     "gloss": "at-worship-end",
+     "grounds": "locative masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should sprinkling and garland recitation occur?",
+   "premises": [
+    "sprinkle in beginning",
+    "recite garland at worship end"
+   ],
+   "inference": "Sprinkle first, then recite the garland likewise at the end of worship.",
+   "uncertainties": [
+    "substance sprinkled"
+   ],
+   "plain_english": "Sprinkle in the beginning; recite the garland at the end of worship likewise."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "hṛnmantrañ",
+     "gloss": "heart-mantra",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive",
+     "morph": "abs-samuccār"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "root pūj",
+     "morph": "3.sg.act-opt-pūj"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the best practitioner utter before worship?",
+   "premises": [
+    "heart mantra is uttered",
+    "best practitioner worships"
+   ],
+   "inference": "The best practitioner utters the heart mantra and then worships.",
+   "uncertainties": [
+    "exact heart mantra"
+   ],
+   "plain_english": "Having uttered the heart mantra, the best practitioner worships."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "caturvargaḥ",
+     "gloss": "four-aims",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvayi",
+     "gloss": "in-you",
+     "grounds": "locative second person",
+     "morph": "2.loc.sg"
+    },
+    {
+     "surface": "nyastaḥ",
+     "gloss": "placed",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "causal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative first person",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "success-giving",
+     "grounds": "nominative feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp-bhū"
+    }
+   ],
+   "question": "Why should the success-giving power be invoked?",
+   "premises": [
+    "four aims are placed in you",
+    "therefore be success-giving to me"
+   ],
+   "inference": "Because the four aims are placed in you, you should be success-giving to me.",
+   "uncertainties": [
+    "addressee identity"
+   ],
+   "plain_english": "The four aims are placed in you; therefore be success-giving to me."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhesvarīṃ",
+     "gloss": "success-goddess",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nentāṃ",
+     "gloss": "ending-in-na",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdayānto",
+     "gloss": "heart-ending",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra is remembered as ending in na?",
+   "premises": [
+    "māyā success goddess is named",
+    "heart-ending mantra is remembered"
+   ],
+   "inference": "The heart-ending mantra is remembered as the māyā success goddess ending in na.",
+   "uncertainties": [
+    "exact mantra form"
+   ],
+   "plain_english": "The heart-ending mantra is remembered as the māyā success goddess ending in na."
+  }
+ ]
+}

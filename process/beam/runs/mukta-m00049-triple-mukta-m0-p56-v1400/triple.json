@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "ubhayatra",
+     "gloss": "in-both",
+     "grounds": "locative adverb indicating two alternatives or places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśrame",
+     "gloss": "in-stage-of-life",
+     "grounds": "refers to the two life-stages under discussion in context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the interlocutor",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "universal quantifier indicating all persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhikāritā",
+     "gloss": "eligibility",
+     "grounds": "abstract noun denoting qualification or entitlement",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who possesses eligibility in both life-stages during the Kali age?",
+   "premises": [
+    "The context concerns conduct prescribed for the Kali age.",
+    "Eligibility is asserted in both āśramas.",
+    "This eligibility is attributed to all persons."
+   ],
+   "inference": "All persons possess eligibility in both life-stages in the Kali age.",
+   "uncertainties": [
+    "The precise identity of the two āśramas depends on the immediately preceding verses."
+   ],
+   "plain_english": "O goddess, in both stages of life, everyone has eligibility."
+  }
+ ]
+}

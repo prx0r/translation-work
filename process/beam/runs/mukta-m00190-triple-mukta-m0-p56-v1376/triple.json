@@ -1,0 +1,249 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "muhurmuhur",
+     "gloss": "again-and-again",
+     "grounds": "reduplicated adverb indicating repeated action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-recite",
+     "grounds": "optative expressing instruction or prescription",
+     "morph": "3.sg.optative-active √jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker introducing reported speech",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "said",
+     "grounds": "verb of speaking attributing the instruction",
+     "morph": "3.sg.perfect-active √ah"
+    },
+    {
+     "surface": "krodha",
+     "gloss": "anger",
+     "grounds": "first member of the speaker's name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "lord-of-earth",
+     "grounds": "second member and head of the speaker's name",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What instruction did Krodhabhūpati give regarding the recitation of the mantra?",
+   "premises": [
+    "Krodhabhūpati is the speaker of the instruction.",
+    "The instruction prescribes reciting the mantra.",
+    "The recitation is to be done again and again."
+   ],
+   "inference": "Krodhabhūpati instructed that the mantra should be recited repeatedly.",
+   "uncertainties": [],
+   "plain_english": "Krodhabhūpati said: one should recite the mantra again and again."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "denotes the target whose destruction is sought",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vināśāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose of the prescribed action",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ghanāya",
+     "gloss": "for-slaying",
+     "grounds": "parallel purpose reinforcing destruction of the enemy",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner in which the action should be performed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "by-good-people",
+     "grounds": "agents qualified to perform the action",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual or constant application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive expressing obligation or prescription",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "emphasizes the fixed or assured nature of the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyojyā",
+     "gloss": "to-be-employed",
+     "grounds": "gerundive indicating the rite or power should be applied",
+     "morph": "f.nom.sg.gerundive √ni-yuj"
+    }
+   ],
+   "question": "For what purpose and by whom should the prescribed rite be properly employed?",
+   "premises": [
+    "The action is aimed at the destruction and slaying of an enemy.",
+    "Good people are the agents who should perform it.",
+    "The rite must be given and employed properly, always, and certainly."
+   ],
+   "inference": "Good people should always and properly give and employ the prescribed rite for the certain destruction of an enemy.",
+   "uncertainties": [
+    "The exact object of deyaṃ and niyojyā is implicit from context rather than explicitly named in this verse."
+   ],
+   "plain_english": "For the destruction and slaying of an enemy, good people should always properly give and certainly employ it."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "gaditā",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating authoritative statement",
+     "morph": "f.nom.sg.past-passive-participle √gad"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "desired",
+     "grounds": "first member of compound describing the accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "second member of compound describing the accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dātrī",
+     "gloss": "giver",
+     "grounds": "head of compound indicating one who grants desired accomplishment",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of the declaration",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "anaphoric or connective particle referring to the preceding teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phetkāriṇī",
+     "gloss": "phetkāriṇī",
+     "grounds": "name of the deity or power being declared",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative indicating the scriptural context of the declaration",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What identity and power are attributed to Phetkāriṇī in this tantra?",
+   "premises": [
+    "The speaker declares Phetkāriṇī in this tantra.",
+    "Phetkāriṇī is described as the giver of desired accomplishment.",
+    "The declaration is made by the speaker as an authoritative teaching."
+   ],
+   "inference": "Phetkāriṇī is declared in this tantra to be the giver of desired accomplishment.",
+   "uncertainties": [],
+   "plain_english": "In this tantra, I have declared that Phetkāriṇī is the giver of desired accomplishment."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound qualifying the rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛtyā",
+     "gloss": "magical-rite",
+     "grounds": "head of compound denoting a powerful ritual force",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional recognition",
+     "morph": "f.nom.sg.past-passive-participle √smṛ"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "indicates constant or enduring characterization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśubha",
+     "gloss": "inauspicious",
+     "grounds": "first member of compound qualifying the enemy",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ari",
+     "gloss": "enemy",
+     "grounds": "second member of compound denoting the hostile target",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vināśinī",
+     "gloss": "destroyer",
+     "grounds": "head of compound indicating destructive power",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "How is Phetkāriṇī characterized in terms of her ritual power and destructive function?",
+   "premises": [
+    "Phetkāriṇī is remembered as a great magical rite.",
+    "She is characterized as always destroying inauspicious enemies.",
+    "This characterization presents her enduring ritual function."
+   ],
+   "inference": "Phetkāriṇī is traditionally known as a great magical rite that always destroys inauspicious enemies.",
+   "uncertainties": [],
+   "plain_english": "She is always remembered as a great magical rite, the destroyer of inauspicious enemies."
+  }
+ ]
+}

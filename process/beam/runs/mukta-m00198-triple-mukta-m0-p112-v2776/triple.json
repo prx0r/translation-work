@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2776,
+   "rows": [
+    {
+     "surface": "uṣṇīṣāt",
+     "gloss": "from-crown",
+     "grounds": "ablative source point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "front",
+     "grounds": "directional qualifier",
+     "morph": "indecl."
+    },
+    {
+     "surface": "keśāntaṃ",
+     "gloss": "to-hair-limit",
+     "grounds": "terminal point of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃcāṃgulam",
+     "gloss": "five-fingers",
+     "grounds": "measure of extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "authoritative declaration",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What measurement is prescribed from the crown to the front hairline?",
+   "premises": [
+    "The starting point is the crown.",
+    "The endpoint is the front hairline.",
+    "The extent is declared as five fingers."
+   ],
+   "inference": "The distance from the crown to the front hairline measures five fingers.",
+   "uncertainties": [],
+   "plain_english": "From the crown to the front hairline, the measure is stated to be five fingers."
+  },
+  {
+   "verse": 2777,
+   "rows": [
+    {
+     "surface": "keśāntāt",
+     "gloss": "from-hair-limit",
+     "grounds": "ablative source point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "akṣisūtrāntaṃ",
+     "gloss": "to-eye-line-end",
+     "grounds": "terminal point at eye level",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyomāṃśam",
+     "gloss": "space-portion",
+     "grounds": "named measure segment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "asserted existence",
+     "morph": "3.sg.pres.pass √vid"
+    }
+   ],
+   "question": "What portion is recognized from the hairline to the eye-line?",
+   "premises": [
+    "The starting point is the hairline.",
+    "The endpoint is the eye-line.",
+    "This segment is known as the space portion."
+   ],
+   "inference": "The segment from the hairline to the eye-line is recognized as the space portion.",
+   "uncertainties": [],
+   "plain_english": "From the hairline to the end of the eye-line is known as the space portion."
+  },
+  {
+   "verse": 2778,
+   "rows": [
+    {
+     "surface": "yavopeta",
+     "gloss": "with-barley-added",
+     "grounds": "measure qualified by barley grain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvimātraṃ",
+     "gloss": "two-measures",
+     "grounds": "quantity of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "netrayorantaraṃ",
+     "gloss": "space-between-eyes",
+     "grounds": "distance between the two eyes",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What is the prescribed distance between the two eyes?",
+   "premises": [
+    "The subject is the space between the eyes.",
+    "The measure is two units.",
+    "An additional barley grain is included."
+   ],
+   "inference": "The distance between the eyes is two measures plus one barley grain.",
+   "uncertainties": [],
+   "plain_english": "O twice-born one, the space between the two eyes is two measures plus a barley grain."
+  },
+  {
+   "verse": 2779,
+   "rows": [
+    {
+     "surface": "bhrūmadhyāt",
+     "gloss": "from-brow-middle",
+     "grounds": "ablative source point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ūrdhvakeśāntaṃ",
+     "gloss": "to-upper-hair-limit",
+     "grounds": "terminal point above",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptādaśa",
+     "gloss": "seventeen",
+     "grounds": "numerical quantity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yavastathā",
+     "gloss": "barley-grains-thus",
+     "grounds": "unit of measure stated",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many barley grains measure the distance from the middle of the brows to the upper hairline?",
+   "premises": [
+    "The starting point is the middle of the brows.",
+    "The endpoint is the upper hairline.",
+    "The measure is seventeen barley grains."
+   ],
+   "inference": "The distance from the middle of the brows to the upper hairline is seventeen barley grains.",
+   "uncertainties": [],
+   "plain_english": "From the middle of the brows to the upper hairline, the measure is seventeen barley grains."
+  },
+  {
+   "verse": 2780,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "six-parts",
+     "grounds": "division into six",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "netra",
+     "gloss": "eye",
+     "grounds": "object being measured",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ūrdhvavarma",
+     "gloss": "upper-lid",
+     "grounds": "upper covering of eye",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yavārdhakam",
+     "gloss": "half-barley",
+     "grounds": "measure of extent",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is assigned to the eye and its upper lid in this measurement system?",
+   "premises": [
+    "The eye width is divided into six parts.",
+    "The upper lid has a specified measure.",
+    "The upper lid measures half a barley grain."
+   ],
+   "inference": "The eye width is six parts and the upper lid is half a barley grain.",
+   "uncertainties": [
+    "The exact syntactic relation of ṣaḍaṃśaṃ to netra vistāraṃ is compact."
+   ],
+   "plain_english": "The width of the eye is six parts, and the upper lid is half a barley grain."
+  },
+  {
+   "verse": 2781,
+   "rows": [
+    {
+     "surface": "netrāyāmaṃ",
+     "gloss": "eye-length",
+     "grounds": "length of the eye",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "division into three",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "action of dividing",
+     "morph": "indecl.abs √kṛ"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "single portion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇamaṇḍalam",
+     "gloss": "black-orb",
+     "grounds": "dark circle of the eye",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What portion of the eye's length is occupied by the black orb?",
+   "premises": [
+    "The length of the eye is divided into three parts.",
+    "One of these parts is identified.",
+    "That one part is the black orb."
+   ],
+   "inference": "The black orb occupies one third of the eye's length.",
+   "uncertainties": [],
+   "plain_english": "Dividing the length of the eye into three parts, one part is the black orb."
+  },
+  {
+   "verse": 2782,
+   "rows": [
+    {
+     "surface": "yūkamānena",
+     "gloss": "by-louse-measure",
+     "grounds": "unit of very small measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dṛṣṭiḥ",
+     "gloss": "pupil",
+     "grounds": "seeing point of the eye",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "jyotirmaṇḍalam",
+     "gloss": "light-orb",
+     "grounds": "luminous circle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What measure defines the pupil within the central light orb of the eye?",
+   "premises": [
+    "The pupil is measured by the louse measure.",
+    "The light orb is located in the middle.",
+    "The pupil should be of that small measure."
+   ],
+   "inference": "The pupil in the middle light orb should measure one louse unit.",
+   "uncertainties": [],
+   "plain_english": "The pupil should be the measure of a louse, as the light orb in the middle."
+  },
+  {
+   "verse": 2783,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to prior context",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "keśāntayormadhye",
+     "gloss": "between-hair-limits",
+     "grounds": "location between two endpoints",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhrūsthitir",
+     "gloss": "brow-position",
+     "grounds": "placement of the brow",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vārdhacandravat",
+     "gloss": "like-half-moon",
+     "grounds": "comparison of shape",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What shape and position are prescribed for the brow between the hair limits?",
+   "premises": [
+    "The location is between the hair limits.",
+    "The subject is the position of the brow.",
+    "Its form is like a half moon."
+   ],
+   "inference": "The brow is positioned between the hair limits in the shape of a half moon.",
+   "uncertainties": [],
+   "plain_english": "Between those hair limits, the position of the brow is like a half moon."
+  },
+  {
+   "verse": 2784,
+   "rows": [
+    {
+     "surface": "ghrāṇamūlasya",
+     "gloss": "of-nose-root",
+     "grounds": "base of the nose",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yavamatram",
+     "gloss": "barley-measure",
+     "grounds": "measure of one barley grain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "authoritative declaration",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What width is prescribed for the root of the nose?",
+   "premises": [
+    "The subject is the root of the nose.",
+    "Its width is being specified.",
+    "The width is stated as one barley grain."
+   ],
+   "inference": "The width of the root of the nose is one barley grain.",
+   "uncertainties": [],
+   "plain_english": "The width of the root of the nose is stated to be one barley grain."
+  },
+  {
+   "verse": 2785,
+   "rows": [
+    {
+     "surface": "adharoṣṭhasya",
+     "gloss": "of-lower-lip",
+     "grounds": "lower lip as subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cāyāmaṃ",
+     "gloss": "and-length",
+     "grounds": "length dimension",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pakṣāṃgulam",
+     "gloss": "side-finger",
+     "grounds": "measure of one finger unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "authoritative declaration",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What length is prescribed for the lower lip?",
+   "premises": [
+    "The subject is the lower lip.",
+    "Its length is being specified.",
+    "The length is stated as one finger."
+   ],
+   "inference": "The length of the lower lip is one finger.",
+   "uncertainties": [
+    "The exact sense of pakṣa in pakṣāṃgulam is context-dependent."
+   ],
+   "plain_english": "The length of the lower lip is stated to be one finger."
+  },
+  {
+   "verse": 2786,
+   "rows": [
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same as previous measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "instructional directive",
+     "morph": "3.sg.opt.act √vid"
+    },
+    {
+     "surface": "nimnam",
+     "gloss": "depression",
+     "grounds": "hollow or depth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhayavaṃ",
+     "gloss": "half-barley",
+     "grounds": "measure of extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What width and depression are prescribed for the lower lip?",
+   "premises": [
+    "The width should be known as equal to its length.",
+    "The depression is separately specified.",
+    "The depression should be half a barley grain."
+   ],
+   "inference": "The lower lip's width equals its length and its depression is half a barley grain.",
+   "uncertainties": [],
+   "plain_english": "One should know its width to be the same, and its depression should be half a barley grain."
+  },
+  {
+   "verse": 2787,
+   "rows": [
+    {
+     "surface": "grīvāmūla",
+     "gloss": "neck-root",
+     "grounds": "base of the neck",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "breadth",
+     "grounds": "width dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vasvaṃgulam",
+     "gloss": "eight-fingers",
+     "grounds": "measure of eight fingers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "authoritative declaration",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What breadth is prescribed for the root of the neck?",
+   "premises": [
+    "The subject is the root of the neck.",
+    "Its breadth is being specified.",
+    "The breadth is stated as eight fingers."
+   ],
+   "inference": "The breadth of the root of the neck is eight fingers.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the root of the neck is stated to be eight fingers."
+  },
+  {
+   "verse": 2788,
+   "rows": [
+    {
+     "surface": "vakṣaḥsthalasya",
+     "gloss": "of-chest-region",
+     "grounds": "chest area as subject",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptatriṃśatimātrakam",
+     "gloss": "thirty-seven-measures",
+     "grounds": "quantity of measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the chest region?",
+   "premises": [
+    "The subject is the chest region.",
+    "Its width is being specified.",
+    "The width is thirty-seven measures."
+   ],
+   "inference": "The width of the chest region is thirty-seven measures.",
+   "uncertainties": [
+    "The specific unit of mātraka is not explicitly named in this verse."
+   ],
+   "plain_english": "The width of the chest region is thirty-seven measures."
+  },
+  {
+   "verse": 2789,
+   "rows": [
+    {
+     "surface": "tasmādadhara",
+     "gloss": "from-that-lower",
+     "grounds": "starting below that point",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niṣṭhāntaṃ",
+     "gloss": "to-end-limit",
+     "grounds": "terminal boundary",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "associative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yavaṃ",
+     "gloss": "barley",
+     "grounds": "barley grain unit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyomamātrakam",
+     "gloss": "space-measure",
+     "grounds": "measure of space unit",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure is prescribed from below that point to the end limit?",
+   "premises": [
+    "The starting point is below the previously mentioned region.",
+    "The endpoint is the terminal limit.",
+    "The measure is a space unit with a barley grain."
+   ],
+   "inference": "The distance from below that point to the end limit is one space measure plus a barley grain.",
+   "uncertainties": [
+    "The exact referent of tasmāt and the value of vyomamātraka depend on context."
+   ],
+   "plain_english": "From below that to the end limit, the measure is one space unit with a barley grain."
+  },
+  {
+   "verse": 2790,
+   "rows": [
+    {
+     "surface": "āyāmaṃ",
+     "gloss": "length",
+     "grounds": "dimension specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakoṣṭhasya",
+     "gloss": "of-forearm",
+     "grounds": "forearm as subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ekona-viṃśadaṃgulam",
+     "gloss": "nineteen-fingers-less-one",
+     "grounds": "measure of nineteen fingers",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed for the forearm?",
+   "premises": [
+    "The subject is the forearm.",
+    "Its length is being specified.",
+    "The length is nineteen fingers."
+   ],
+   "inference": "The length of the forearm is nineteen fingers.",
+   "uncertainties": [],
+   "plain_english": "The length of the forearm is nineteen fingers."
+  },
+  {
+   "verse": 2791,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half the previous measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "talāyāmaṃ",
+     "gloss": "palm-length",
+     "grounds": "length of the palm",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyāṃgulaṃ",
+     "gloss": "middle-finger",
+     "grounds": "middle finger as part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "part",
+     "grounds": "designated segment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the palm and middle finger lengths derived from the forearm measure?",
+   "premises": [
+    "Half of the forearm measure is the palm length.",
+    "The remainder is assigned to the middle finger.",
+    "These form distinct parts."
+   ],
+   "inference": "The palm is half the forearm length and the remainder constitutes the middle finger part.",
+   "uncertainties": [
+    "The exact division implied by śeṣaṃ in this proportional scheme is compact."
+   ],
+   "plain_english": "Half of that is the length of the palm, and the remainder is the part of the middle finger."
+  },
+  {
+   "verse": 2792,
+   "rows": [
+    {
+     "surface": "sārdhavedāṃgulaṃ",
+     "gloss": "four-and-half-fingers",
+     "grounds": "measure of four and a half fingers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "anāmikāyāstu",
+     "gloss": "but-of-ring-finger",
+     "grounds": "ring finger as subject",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dairghyakam",
+     "gloss": "length",
+     "grounds": "dimension specified",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is declared for the ring finger?",
+   "premises": [
+    "The subject is the ring finger.",
+    "Its length is being declared.",
+    "The length is four and a half fingers."
+   ],
+   "inference": "The length of the ring finger is declared to be four and a half fingers.",
+   "uncertainties": [],
+   "plain_english": "The length of the ring finger is declared to be four and a half fingers."
+  },
+  {
+   "verse": 2793,
+   "rows": [
+    {
+     "surface": "dharmābdhi",
+     "gloss": "dharma-ocean",
+     "grounds": "numerical code element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "vasu",
+     "grounds": "numerical code element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṣaḍbhūta",
+     "gloss": "six-elements",
+     "grounds": "numerical code element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yavāṃguṣṭhādi",
+     "gloss": "barley-thumb-etc",
+     "grounds": "measures for thumb and others",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "spread",
+     "grounds": "extent or width",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What coded measures define the spread of the thumb and related fingers?",
+   "premises": [
+    "The verse lists coded numerical terms.",
+    "These apply to the thumb and other fingers.",
+    "They specify the spread or extent."
+   ],
+   "inference": "The spread of the thumb and other fingers is defined by the coded measures given.",
+   "uncertainties": [
+    "The numerical values encoded by dharmābdhi, vasu, and ṣaḍbhūta require traditional decoding."
+   ],
+   "plain_english": "The spread of the thumb and so on is given by the measures coded as dharma-ocean, vasu, and six-elements in barley units."
+  },
+  {
+   "verse": 2794,
+   "rows": [
+    {
+     "surface": "agravyāse",
+     "gloss": "at-tip-width",
+     "grounds": "width at the tip",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "element-part",
+     "grounds": "coded measure portion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "veda-part",
+     "grounds": "coded measure portion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "spread",
+     "grounds": "extent or width",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "How is the width at the finger tips specified in contrast to the earlier spread?",
+   "premises": [
+    "The location is the width at the tip.",
+    "Coded parts are mentioned.",
+    "The spread is stated as not of that extent."
+   ],
+   "inference": "At the tip, the width is not the same spread but is given by the specified coded parts.",
+   "uncertainties": [
+    "The precise numerical interpretation of bhūtāṃśaṃ and vedāṃśaṃ is context-dependent."
+   ],
+   "plain_english": "But at the tip width, it is not spread the same way, being of element-part and veda-part measure."
+  },
+  {
+   "verse": 2795,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhaṃ",
+     "gloss": "thumb",
+     "grounds": "thumb as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviparva",
+     "gloss": "two-jointed",
+     "grounds": "having two joints",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "anyāṃgulyaḥ",
+     "gloss": "other-fingers",
+     "grounds": "remaining fingers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "striparvakāḥ",
+     "gloss": "three-jointed",
+     "grounds": "having three joints",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many joints are prescribed for the thumb and the other fingers?",
+   "premises": [
+    "The thumb is specified separately.",
+    "The thumb should have two joints.",
+    "The other fingers should have three joints."
+   ],
+   "inference": "The thumb has two joints while the other fingers have three joints.",
+   "uncertainties": [],
+   "plain_english": "The thumb should be two-jointed, and the other fingers should be three-jointed."
+  },
+  {
+   "verse": 2796,
+   "rows": [
+    {
+     "surface": "talamūlapradeśasya",
+     "gloss": "of-palm-root-region",
+     "grounds": "base region of the palm",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ghanaṃ",
+     "gloss": "thickness",
+     "grounds": "depth or solidity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kolakam",
+     "gloss": "kolaka-measure",
+     "grounds": "specific unit of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What thickness is prescribed for the middle of the palm's root region?",
+   "premises": [
+    "The subject is the root region of the palm.",
+    "The thickness at the middle is specified.",
+    "The thickness is one kolaka measure."
+   ],
+   "inference": "The thickness in the middle of the palm's root region is one kolaka.",
+   "uncertainties": [
+    "The exact value of the kolaka unit is not defined in this verse."
+   ],
+   "plain_english": "The thickness in the middle of the palm's root region is one kolaka."
+  },
+  {
+   "verse": 2797,
+   "rows": [
+    {
+     "surface": "talāyāmasamaṃ",
+     "gloss": "equal-to-palm-length",
+     "grounds": "same as palm length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "talasyaiva",
+     "gloss": "of-palm-itself",
+     "grounds": "palm as subject",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "width",
+     "grounds": "extent or breadth",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "How does the width of the palm relate to its length?",
+   "premises": [
+    "The subject is the width of the palm.",
+    "It is compared to the palm's length.",
+    "The width is equal to the palm's length."
+   ],
+   "inference": "The width of the palm is equal to its length.",
+   "uncertainties": [],
+   "plain_english": "And the width of the palm itself is equal to the length of the palm."
+  },
+  {
+   "verse": 2798,
+   "rows": [
+    {
+     "surface": "prakoṣṭhamūlavistāraṃ",
+     "gloss": "forearm-root-width",
+     "grounds": "width at base of forearm",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhabhūtāṃśam",
+     "gloss": "with-half-element-part",
+     "grounds": "coded measure with half",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "authoritative statement",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What width is said to belong to the root of the forearm?",
+   "premises": [
+    "The subject is the width at the root of the forearm.",
+    "A coded measure is given.",
+    "The measure includes a half element part."
+   ],
+   "inference": "The width of the root of the forearm is said to be one and a half element parts.",
+   "uncertainties": [
+    "The numerical value of bhūtāṃśa requires traditional decoding."
+   ],
+   "plain_english": "The width of the root of the forearm is said to be one and a half element parts."
+  },
+  {
+   "verse": 2799,
+   "rows": [
+    {
+     "surface": "bāhumadhyaviśālaṃ",
+     "gloss": "mid-arm-breadth",
+     "grounds": "breadth at middle of arm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptāṃgulam",
+     "gloss": "seven-fingers",
+     "grounds": "measure of seven fingers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "authoritative declaration",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What breadth is prescribed for the middle of the arm?",
+   "premises": [
+    "The subject is the middle of the arm.",
+    "Its breadth is being specified.",
+    "The breadth is stated as seven fingers."
+   ],
+   "inference": "The breadth of the middle of the arm is seven fingers.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the middle of the arm is stated to be seven fingers."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun referring to an unspecified agent whose practice is being introduced",
+     "morph": "pron.rel.gen.sg.m"
+    },
+    {
+     "surface": "anuṣṭhāna",
+     "gloss": "performance",
+     "grounds": "ritual or disciplined enactment; first member qualifying mātreṇa",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere-measure",
+     "grounds": "instrumental indicating sufficiency of the act alone, without additional requirements",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or formulaic marker introducing the cited expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "marks the beginning of an enumeration continued beyond the cited phrase",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sufficiency is attributed to the mere performance introduced by this phrase?",
+   "premises": [
+    "yasya identifies an unspecified subject whose act is under consideration",
+    "anuṣṭhāna-mātreṇa asserts that performance alone is sufficient",
+    "iti ādi signals that this phrase begins a larger enumerated statement"
+   ],
+   "inference": "The verse introduces the claim that mere performance by the indicated subject is sufficient for the result to be specified.",
+   "uncertainties": [
+    "The specific practice denoted by anuṣṭhāna and its resulting effect are not stated within this verse fragment."
+   ],
+   "plain_english": "By whose mere performance, thus beginning and so forth."
+  }
+ ]
+}

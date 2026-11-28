@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "tat+gātraṃ",
+     "gloss": "that-body",
+     "grounds": "tatpuruṣa compound referring to the body mentioned in the prior verse",
+     "morph": "compound.tatpuruṣa; acc.sg.n"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "absolutive indicating prior action of reaching or contacting",
+     "morph": "(gerund); root-prāp"
+    },
+    {
+     "surface": "śastrāṇi",
+     "gloss": "weapons",
+     "grounds": "instruments of attack subject to transformation",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "predicate expressing change of state",
+     "morph": "3.pl.pres.act; root-bhū"
+    },
+    {
+     "surface": "kusumāni",
+     "gloss": "flowers",
+     "grounds": "resulting harmless state of the weapons",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What transformation occurs to weapons upon contacting the protected body?",
+   "premises": [
+    "Weapons reach that body.",
+    "Upon reaching it, weapons undergo a change of state.",
+    "The resulting state of the weapons is that of flowers."
+   ],
+   "inference": "Contact with the protected body renders weapons harmless by transforming them into flowers.",
+   "uncertainties": [],
+   "plain_english": "Upon reaching that body, weapons become flowers."
+  }
+ ]
+}

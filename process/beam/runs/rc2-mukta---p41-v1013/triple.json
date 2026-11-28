@@ -1,0 +1,537 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Concluding particle indicating the preceding statement or formula.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "va",
+     "gloss": "speech",
+     "grounds": "First element of the fused form vacanāt, split across tokens in the source.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "canāt",
+     "gloss": "from-statement",
+     "grounds": "Ablative element completing vacanāt, indicating reason or authority.",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What authority establishes the preceding ritual instruction?",
+   "premises": [
+    "The instruction is concluded with iti.",
+    "The form vacanāt indicates derivation from a statement.",
+    "The statement serves as the basis for what precedes."
+   ],
+   "inference": "The preceding instruction is established by this authoritative statement.",
+   "uncertainties": [
+    "The tokenization splits vacanāt into va and canāt."
+   ],
+   "plain_english": "Thus, by this statement."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "Refers to the goddess mentioned in the preceding context.",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "Ritual worship of the deity.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "Ritual diagram used in worship.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects worship and diagram as subjects to be understood.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aitanya",
+     "gloss": "consciousness",
+     "grounds": "Element of the compound name Caitanya Bhairavī as given in the source spelling.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "Second element of the deity name Caitanya Bhairavī.",
+     "morph": "f.compound-member"
+    },
+    {
+     "surface": "vad",
+     "gloss": "like",
+     "grounds": "Comparative suffix indicating similarity to Caitanya Bhairavī.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhyam",
+     "gloss": "to-be-understood",
+     "grounds": "Gerundive indicating what must be known or applied.",
+     "morph": "n.nom.sg.gerundive"
+    }
+   ],
+   "question": "How should the worship and diagram of this goddess be understood?",
+   "premises": [
+    "Her worship and diagram are the subjects under consideration.",
+    "They are compared to Caitanya Bhairavī.",
+    "The comparison is prescribed as something to be understood."
+   ],
+   "inference": "Her worship and diagram should be understood in the same manner as those of Caitanya Bhairavī.",
+   "uncertainties": [
+    "The spelling aitanya differs from the expected caitanya."
+   ],
+   "plain_english": "Her worship and diagram should be understood as like those of Caitanya Bhairavī."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "Locative indicating the inner seat of the salutation.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhuvaneśvarībhairavyai",
+     "gloss": "to-bhuvaneśvarī-bhairavī",
+     "grounds": "Dative compound naming the goddess Bhuvaneśvarī Bhairavī as recipient.",
+     "morph": "f.dat.sg.compound"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-goddess",
+     "grounds": "Dative noun specifying the deity.",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "Formula of reverence addressed to the deity.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deity is the heart-centered salutation addressed?",
+   "premises": [
+    "The salutation is located in the heart.",
+    "The recipient is named as Bhuvaneśvarī Bhairavī.",
+    "The recipient is explicitly identified as the goddess."
+   ],
+   "inference": "The salutation in the heart is addressed to the goddess Bhuvaneśvarī Bhairavī.",
+   "uncertainties": [],
+   "plain_english": "Salutation in the heart to the goddess Bhuvaneśvarī Bhairavī."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "Indicates that the stated pattern applies in the same way.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "First member in the sequence of ritual placements.",
+     "morph": "n.compound-member"
+    },
+    {
+     "surface": "ādiṣu",
+     "gloss": "in-beginning-and-others",
+     "grounds": "Locative plural indicating the heart and the other limbs or positions.",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Where should the same formula be applied in the ritual sequence?",
+   "premises": [
+    "The word evaṃ extends the preceding application.",
+    "The heart is named as the starting point.",
+    "The suffix ādiṣu includes the other related positions."
+   ],
+   "inference": "The same formula should be applied in the heart and in the other corresponding positions.",
+   "uncertainties": [],
+   "plain_english": "Thus in the heart and so forth."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "Refers to the remaining elements of the ritual.",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "Indicates the entirety of the remaining procedure.",
+     "morph": "n.compound-member"
+    },
+    {
+     "surface": "caitanya",
+     "gloss": "consciousness",
+     "grounds": "First element of the deity name Caitanya Bhairavī.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "Second element of the deity name Caitanya Bhairavī.",
+     "morph": "f.compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "Comparative suffix indicating the model to be followed.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇīyam",
+     "gloss": "to-be-done",
+     "grounds": "Gerundive prescribing the required action.",
+     "morph": "n.nom.sg.gerundive"
+    }
+   ],
+   "question": "How should all the remaining ritual actions be performed?",
+   "premises": [
+    "All other elements of the rite are included.",
+    "Caitanya Bhairavī is given as the model.",
+    "The procedure is prescribed as obligatory."
+   ],
+   "inference": "All the remaining actions should be performed just as in the rite of Caitanya Bhairavī.",
+   "uncertainties": [],
+   "plain_english": "Everything else should be done as in the case of Caitanya Bhairavī."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "First element of the compound naming contemplative practice.",
+     "morph": "n.compound-member"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "Second element of the compound naming ritual worship.",
+     "morph": "f.compound-member"
+    },
+    {
+     "surface": "ādikantu",
+     "gloss": "beginning-and-others-but",
+     "grounds": "Fused form indicating meditation, worship, and so forth, with a contrastive particle.",
+     "morph": "n.nom.sg.compound+(indecl.)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "Refers to the earlier model or procedure.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "Comparative suffix indicating conformity with the previous model.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what model should meditation, worship, and related acts be performed?",
+   "premises": [
+    "Meditation, worship, and related acts are specified.",
+    "A previous procedure is invoked as the standard.",
+    "The comparative form requires conformity with that standard."
+   ],
+   "inference": "Meditation, worship, and related acts should be performed as before.",
+   "uncertainties": [
+    "The fused token ādikantu combines ādi and the particle tu."
+   ],
+   "plain_english": "Meditation, worship, and so forth, however, should be done as before."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "Numeral specifying the count of vowels.",
+     "morph": "num.compound-member"
+    },
+    {
+     "surface": "svara",
+     "gloss": "vowel",
+     "grounds": "Refers to the vowel sounds used in the rite.",
+     "morph": "m.compound-member"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "joined-with",
+     "grounds": "Indicates that the element is endowed or combined with fourteen vowels.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What vocal composition characterizes the prescribed ritual element?",
+   "premises": [
+    "A ritual element is described as joined with something.",
+    "The joining element consists of vowels.",
+    "The number of vowels is specified as fourteen."
+   ],
+   "inference": "The prescribed element is joined with the fourteen vowels.",
+   "uncertainties": [
+    "The exact referent joined with the vowels is supplied by context."
+   ],
+   "plain_english": "Joined with the fourteen vowels."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgam",
+     "gloss": "six-limb-rite",
+     "grounds": "Refers to the ritual of six limbs or parts.",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "ācared",
+     "gloss": "one-should-perform",
+     "grounds": "Optative verb prescribing the ritual action.",
+     "morph": "3.sg.optative-active √ā-car"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "Vocative address to the goddess.",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dvir",
+     "gloss": "twice",
+     "grounds": "Indicates twofold repetition.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvṛttyā",
+     "gloss": "by-repetition",
+     "grounds": "Instrumental noun specifying the manner of repetition.",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "Instrumental indicating sequential performance.",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "Emphatic or contrastive particle.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the six-limb rite be performed for the goddess?",
+   "premises": [
+    "The six-limb rite is the prescribed action.",
+    "The performance involves twofold repetition.",
+    "The repetition must follow the proper order."
+   ],
+   "inference": "One should perform the six-limb rite twice in due order.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should perform the six-limb rite twice, in proper order."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "itareṣāṃ",
+     "gloss": "of-others",
+     "grounds": "Refers to other cases or other mantras in contrast.",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "Numeral quantity for recitation.",
+     "morph": "n.compound-member"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "Ritual repetition of the mantra.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvidyā",
+     "gloss": "śrīvidyā",
+     "grounds": "Refers to the Śrīvidyā tradition or mantra as the basis of the rule.",
+     "morph": "f.compound-member"
+    },
+    {
+     "surface": "uktatvāt",
+     "gloss": "because-stated",
+     "grounds": "Ablative abstract indicating the reason: because it has been stated in Śrīvidyā.",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is a hundred-thousandfold recitation prescribed for the others?",
+   "premises": [
+    "A hundred-thousandfold recitation is mentioned for the others.",
+    "The rule is connected to Śrīvidyā.",
+    "The reason given is that it has been so stated."
+   ],
+   "inference": "For the others, a hundred-thousandfold recitation is prescribed because it is stated in Śrīvidyā.",
+   "uncertainties": [
+    "The exact scope of itareṣāṃ depends on the preceding context."
+   ],
+   "plain_english": "For the others, the recitation is one hundred thousand times, because this is stated in the Śrīvidyā."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "Demonstrative referring to the mantra or form under discussion.",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "visarga",
+     "gloss": "with-visarga",
+     "grounds": "First element indicating the presence of a visarga.",
+     "morph": "m.compound-member"
+    },
+    {
+     "surface": "vindvantā",
+     "gloss": "ending-with-dot",
+     "grounds": "Feminine form indicating the presence of a bindu or dot.",
+     "morph": "f.nom.sg.compound"
+    },
+    {
+     "surface": "śaptā",
+     "gloss": "cursed",
+     "grounds": "States that this form is under a curse.",
+     "morph": "f.nom.sg.past-participle"
+    }
+   ],
+   "question": "What ritual defect is attributed to this visarga-and-bindu form?",
+   "premises": [
+    "This form is characterized by visarga and bindu.",
+    "The form is explicitly described as śaptā.",
+    "The description presents a ritual condition affecting its use."
+   ],
+   "inference": "This form, having visarga and bindu, is regarded as cursed.",
+   "uncertainties": [
+    "The precise referent of eṣā depends on the immediate context."
+   ],
+   "plain_english": "This form, ending with visarga and bindu, is cursed."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "Refers back to the previously mentioned form.",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "jñānārṇava",
+     "gloss": "in-jñānārṇava",
+     "grounds": "Name of the textual source cited.",
+     "morph": "m.compound-member"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "stated",
+     "grounds": "Indicates that something is declared in the Jñānārṇava.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vindu",
+     "gloss": "dot",
+     "grounds": "Refers to the bindu element; spelling as in source.",
+     "morph": "m.compound-member"
+    },
+    {
+     "surface": "ghaṭitasya",
+     "gloss": "of-composed",
+     "grounds": "Genitive describing the form as composed with a bindu.",
+     "morph": "m.gen.sg.past-participle"
+    },
+    {
+     "surface": "śaptavyatvāt",
+     "gloss": "because-to-be-cursed",
+     "grounds": "Ablative abstract giving the reason: because it is to be regarded as cursed.",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What textual reason explains the cursed status of that bindu-composed form?",
+   "premises": [
+    "The form in question is composed with a bindu.",
+    "The Jñānārṇava is cited as the source.",
+    "The cited reason is its status as something to be cursed."
+   ],
+   "inference": "That bindu-composed form is cursed because the Jñānārṇava states it should be regarded as cursed.",
+   "uncertainties": [
+    "The spelling vindu differs from the more common bindu."
+   ],
+   "plain_english": "Because that form composed with a bindu is stated in the Jñānārṇava to be cursed."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇa",
+     "gloss": "to-be-stated",
+     "grounds": "Future passive participle indicating what will be stated.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sārasamuccaye",
+     "gloss": "in-sāra-samuccaya",
+     "grounds": "Locative naming the text Sārasamuccaya.",
+     "morph": "m.loc.sg.compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "Indicates agreement with the previously stated view.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanāt",
+     "gloss": "because-seen",
+     "grounds": "Ablative indicating the reason: because it is seen or found there.",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What additional textual evidence supports the same cursed-status claim?",
+   "premises": [
+    "The Sārasamuccaya is mentioned as a locus of statement.",
+    "The word tathā indicates the same conclusion.",
+    "The reason given is that it is seen there."
+   ],
+   "inference": "The same claim is supported because it is likewise found in the Sārasamuccaya.",
+   "uncertainties": [
+    "The relation between vakṣyamāṇa and the cited text depends on broader context."
+   ],
+   "plain_english": "Likewise, because it is seen in the Sārasamuccaya that will be discussed."
+  }
+ ]
+}

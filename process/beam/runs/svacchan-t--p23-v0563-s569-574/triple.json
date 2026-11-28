@@ -1,0 +1,211 @@
+{
+ "song": "sva-p23",
+ "items": [
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "śāstrapaddhatiṃ",
+     "gloss": "scripture-method",
+     "grounds": "accusative singular of śāstra-paddhati",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pārameśaśāstraprakriyām",
+     "gloss": "supreme-lord-scripture-procedure",
+     "grounds": "accusative singular compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which scripture method and supreme procedure are named?",
+   "premises": [
+    "The verse names a scripture method.",
+    "It names a supreme-lord scripture procedure."
+   ],
+   "inference": "The two named items are the objects under discussion.",
+   "uncertainties": [
+    "Compound member boundaries are inferred from legacy hints."
+   ],
+   "plain_english": "The scripture's method and the supreme lord's scripture procedure."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "prātarmadhyāhne",
+     "gloss": "morning-midday",
+     "grounds": "fused locative form",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhyāhne",
+     "gloss": "midday",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "indeclinable time word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which times is the rite performed?",
+   "premises": [
+    "Morning-midday is named.",
+    "Midday is named.",
+    "Evening is named."
+   ],
+   "inference": "The rite is tied to these daily times.",
+   "uncertainties": [
+    "The fused first token may contain sandhi."
+   ],
+   "plain_english": "In the morning-midday, at midday, in the evening, and."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "ityuktarūpam",
+     "gloss": "thus-described-form",
+     "grounds": "compound adjective or noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form has just been described?",
+   "premises": [
+    "The token refers to a previously described form."
+   ],
+   "inference": "It points back to the form just stated.",
+   "uncertainties": [
+    "Exact case function depends on syntax."
+   ],
+   "plain_english": "The form thus described."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "pṛthivyādyamadhvānaṃ",
+     "gloss": "earth-and-other-path",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvanayā",
+     "gloss": "by-meditation",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "vinyastaṃ",
+     "gloss": "placed",
+     "grounds": "past participle accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "should-purify",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt, root viśudh"
+    }
+   ],
+   "question": "What path is purified by meditation?",
+   "premises": [
+    "An earth-and-other path is named.",
+    "It is placed by meditation.",
+    "It should be purified."
+   ],
+   "inference": "Meditation places and purifies the named path.",
+   "uncertainties": [
+    "Compound member boundaries are inferred."
+   ],
+   "plain_english": "The earth-and-other path, placed by meditation, should be purified."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "cākṣaroccāram",
+     "gloss": "and-syllable-utterance",
+     "grounds": "accusative singular compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avicalitamantradhvanirūpaṃ",
+     "gloss": "unwavering-mantra-sound-form",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurvanniti",
+     "gloss": "doing-thus",
+     "grounds": "fused participle plus iti",
+     "morph": "(participle)+(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What utterance and form are to be made?",
+   "premises": [
+    "A syllable utterance is named.",
+    "An unwavering mantra sound form is named.",
+    "The remainder is stated."
+   ],
+   "inference": "The prescribed act concerns utterance and mantra sound form.",
+   "uncertainties": [
+    "The fused token kurvanniti is not split."
+   ],
+   "plain_english": "And the syllable utterance, as an unwavering mantra sound form, doing thus; thus the remainder."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "pāthīvarūpaguṇaśuddhikṛdityarthaḥ",
+     "gloss": "earth-form-quality-purification-doer-thus-meaning",
+     "grounds": "fused compound with iti and artha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is given for the purification doer?",
+   "premises": [
+    "The token states the meaning.",
+    "It concerns earth form quality purification."
+   ],
+   "inference": "The phrase gives the meaning of the purification doer.",
+   "uncertainties": [
+    "The fused token is analyzed as one surface."
+   ],
+   "plain_english": "Thus the meaning: the doer of purification of earth-form quality."
+  }
+ ]
+}

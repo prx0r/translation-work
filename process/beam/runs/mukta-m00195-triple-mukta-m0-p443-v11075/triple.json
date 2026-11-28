@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p443",
+ "items": [
+  {
+   "verse": 11075,
+   "rows": [
+    {
+     "surface": "trisahasraṃ",
+     "gloss": "three-thousand",
+     "grounds": "numeral compound indicating a count of three thousand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "verb of mantra recitation",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent who performs mantra recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "repeated verb emphasizing the injunction to recite",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "sandhyoktavartmanā",
+     "gloss": "by-twilight-stated-method",
+     "grounds": "compound: sandhyā+ukta+vartman, method prescribed for twilight",
+     "morph": "compound n.ins.sg"
+    }
+   ],
+   "question": "What quantity and prescribed method of mantra recitation must the practitioner observe?",
+   "premises": [
+    "The mantra-practitioner is the agent of the prescribed recitation.",
+    "The recitation is enjoined as three thousand repetitions.",
+    "The recitation must follow the method stated for twilight."
+   ],
+   "inference": "Therefore, the practitioner must mutter the mantra three thousand times according to the method prescribed for twilight.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner should mutter the mantra three thousand times, following the method prescribed for twilight."
+  }
+ ]
+}

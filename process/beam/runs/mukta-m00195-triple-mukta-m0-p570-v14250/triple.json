@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p570",
+ "items": [
+  {
+   "verse": 14250,
+   "rows": [
+    {
+     "surface": "kumbha",
+     "gloss": "pot-",
+     "grounds": "first member of compound with udakena",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udakena",
+     "gloss": "with-water",
+     "grounds": "instrumental of means/substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "karttāram",
+     "gloss": "the-performer",
+     "grounds": "object of sprinkling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (abhi-√sic)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "object of remembering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "concomitant mental act during sprinkling",
+     "morph": "m.nom.sg.pres.ptcp.act (√smṛ)"
+    }
+   ],
+   "question": "How should the performer be consecrated with water after completing the prescribed mantra recitation?",
+   "premises": [
+    "The performer is to be sprinkled with water from a pot.",
+    "The sprinkling is to be done while remembering the mantra.",
+    "This act constitutes a ritual application following mantra recitation."
+   ],
+   "inference": "Consecration of the performer is accomplished by sprinkling pot-water while mentally holding the mantra.",
+   "uncertainties": [
+    "Whether karttāram refers to the officiant himself or another participant."
+   ],
+   "plain_english": "One should sprinkle the performer with water from a pot while remembering the mantra."
+  }
+ ]
+}

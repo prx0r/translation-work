@@ -1,0 +1,1041 @@
+{
+ "song": "mukta-m0-p211",
+ "items": [
+  {
+   "verse": 5251,
+   "rows": [
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "absolutive of offering action",
+     "morph": "gerund (kṣip)"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "ritual bathing offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candrasya",
+     "gloss": "of-moon",
+     "grounds": "deity receiving the offering",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tuṣṭaye",
+     "gloss": "for-satisfaction",
+     "grounds": "purpose of the offering",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What offering action secures the satisfaction of the moon deity?",
+   "premises": [
+    "A bath is ritually offered",
+    "The offering is directed to the moon",
+    "The purpose is satisfaction"
+   ],
+   "inference": "Throwing or offering a bath is performed to satisfy the moon.",
+   "uncertainties": [],
+   "plain_english": "Having offered a bath for the satisfaction of the moon,"
+  },
+  {
+   "verse": 5252,
+   "rows": [
+    {
+     "surface": "muktāhāram",
+     "gloss": "pearl-necklace",
+     "grounds": "precious gift option",
+     "morph": "m.acc.sg (compound: muktā+hāra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhave",
+     "gloss": "in-wealth",
+     "grounds": "condition of sufficient means",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "silver",
+     "grounds": "alternative gift option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktitaḥ",
+     "gloss": "according-to-ability",
+     "grounds": "measure of giving",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "one-should-give",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (dā)"
+    }
+   ],
+   "question": "What gifts should be given according to one’s available wealth and ability?",
+   "premises": [
+    "A pearl necklace is a possible gift",
+    "Silver is an alternative gift",
+    "Giving depends on wealth and ability"
+   ],
+   "inference": "One should give a pearl necklace or silver according to wealth and ability.",
+   "uncertainties": [],
+   "plain_english": "One should give a pearl necklace, or if wealthy, silver, according to one’s ability."
+  },
+  {
+   "verse": 5253,
+   "rows": [
+    {
+     "surface": "phalaiḥ",
+     "gloss": "with-fruits",
+     "grounds": "accompanying ritual items",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined with fruits",
+     "morph": "n.acc.sg (past-participle, yuj)"
+    },
+    {
+     "surface": "somamūlaṃ",
+     "gloss": "soma-root",
+     "grounds": "ritual substance to be worn",
+     "morph": "n.acc.sg (compound: soma+mūla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-wear",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (dhṛ)"
+    }
+   ],
+   "question": "What ritual substance combined with fruits should be worn by the practitioner?",
+   "premises": [
+    "Soma root is specified",
+    "It is joined with fruits",
+    "Wearing it is prescribed"
+   ],
+   "inference": "One should wear soma root together with fruits.",
+   "uncertainties": [],
+   "plain_english": "One should also wear soma root together with fruits."
+  },
+  {
+   "verse": 5254,
+   "rows": [
+    {
+     "surface": "mahāpātakajān",
+     "gloss": "great-sin-born",
+     "grounds": "origin of the afflictions",
+     "morph": "m.acc.pl (compound: mahā+pātaka+ja)"
+    },
+    {
+     "surface": "rogān",
+     "gloss": "diseases",
+     "grounds": "afflictions to be removed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the practitioner or ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśayituṃ",
+     "gloss": "to-destroy",
+     "grounds": "purpose or capacity",
+     "morph": "infinitive (naś, causative)"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "capable",
+     "grounds": "ability resulting from ritual",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What capacity does the practitioner gain over diseases born from great sins?",
+   "premises": [
+    "Diseases arise from great sins",
+    "The agent is described as capable",
+    "The capacity is to destroy them"
+   ],
+   "inference": "He becomes capable of destroying diseases born from great sins.",
+   "uncertainties": [],
+   "plain_english": "He is indeed capable of destroying diseases born from great sins."
+  },
+  {
+   "verse": 5255,
+   "rows": [
+    {
+     "surface": "samuccārya",
+     "gloss": "having-pronounced",
+     "grounds": "prior verbal ritual act",
+     "morph": "gerund (sam+ud+car)"
+    },
+    {
+     "surface": "tannāśāya",
+     "gloss": "for-their-destruction",
+     "grounds": "purpose of the utterance",
+     "morph": "m.dat.sg (compound: tad+nāśa)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedet",
+     "gloss": "one-should-know",
+     "grounds": "injunctive instruction; legacy hint suggests perform/know",
+     "morph": "3.sg.act-optative (vid)"
+    }
+   ],
+   "question": "What action follows pronouncing the formula for the destruction of those afflictions?",
+   "premises": [
+    "A formula is pronounced",
+    "Its purpose is destruction of those afflictions",
+    "A subsequent action is prescribed"
+   ],
+   "inference": "After pronouncing it for their destruction, one should then know or apply it accordingly.",
+   "uncertainties": [
+    "The exact ritual sense of vedet in this context is ambiguous."
+   ],
+   "plain_english": "Having pronounced it for their destruction, one should then know or apply it."
+  },
+  {
+   "verse": 5256,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhyantaṃ",
+     "gloss": "ending-in-sixth-case",
+     "grounds": "grammatical form of the utterance",
+     "morph": "n.acc.sg (compound: ṣaṣṭhī+anta)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛcā",
+     "gloss": "with-verse",
+     "grounds": "ritual text used in procedure",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kalpena",
+     "gloss": "by-procedure",
+     "grounds": "method of performance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (ud+car)"
+    }
+   ],
+   "question": "How must the formula be grammatically formed and uttered in the ritual procedure?",
+   "premises": [
+    "The form ends in the sixth case",
+    "A verse and procedure are involved",
+    "Utterance is prescribed"
+   ],
+   "inference": "One should utter it in the sixth-case form with the verse according to the procedure.",
+   "uncertainties": [],
+   "plain_english": "Indeed, one should utter it in the sixth-case form with the verse and according to the procedure."
+  },
+  {
+   "verse": 5257,
+   "rows": [
+    {
+     "surface": "śikhābandhan",
+     "gloss": "tuft-binding",
+     "grounds": "ritual act of securing the hair tuft",
+     "morph": "n.acc.sg (compound: śikhā+bandhana, truncated form)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior ritual action",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "bhūtotsādanam",
+     "gloss": "spirit-driving-away",
+     "grounds": "ritual for expelling harmful beings",
+     "morph": "n.acc.sg (compound: bhūta+utsādana)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (ā+car)"
+    }
+   ],
+   "question": "What protective ritual action follows the binding of the hair tuft?",
+   "premises": [
+    "The hair tuft is bound",
+    "This action is completed first",
+    "Driving away spirits is prescribed next"
+   ],
+   "inference": "After binding the tuft, one should perform the driving away of spirits.",
+   "uncertainties": [],
+   "plain_english": "Then, having bound the tuft of hair, one should perform the driving away of spirits."
+  },
+  {
+   "verse": 5258,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of the ritual act",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "diśām",
+     "gloss": "of-directions",
+     "grounds": "object of protective binding",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bandhaṃ",
+     "gloss": "binding",
+     "grounds": "protective sealing act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (sam+ā+car)"
+    }
+   ],
+   "question": "How should the protective binding of the directions be ritually performed?",
+   "premises": [
+    "A mantra is used",
+    "The directions are to be bound",
+    "Performance is prescribed"
+   ],
+   "inference": "One should perform the binding of the directions with a mantra.",
+   "uncertainties": [],
+   "plain_english": "One should perform the binding of the directions with a mantra."
+  },
+  {
+   "verse": 5259,
+   "rows": [
+    {
+     "surface": "saśarāya",
+     "gloss": "with-arrow",
+     "grounds": "epithet in the mantra form",
+     "morph": "m.dat.sg (compound: sa+śara)"
+    },
+    {
+     "surface": "astrarājāya",
+     "gloss": "to-weapon-king",
+     "grounds": "epithet addressed to Sudarśana",
+     "morph": "m.dat.sg (compound: astra+rāja)"
+    },
+    {
+     "surface": "caturthyantaṃ",
+     "gloss": "ending-in-fourth-case",
+     "grounds": "grammatical form of the name",
+     "morph": "n.acc.sg (compound: caturthī+anta)"
+    },
+    {
+     "surface": "sudarśanam",
+     "gloss": "Sudarśana",
+     "grounds": "name of the weapon deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what grammatical form must the name Sudarśana be invoked in this mantra?",
+   "premises": [
+    "Sudarśana is named",
+    "Epithets include with-arrow and weapon-king",
+    "The form ends in the fourth case"
+   ],
+   "inference": "The name Sudarśana should be formed in the fourth case with the epithets 'with arrow' and 'king of weapons'.",
+   "uncertainties": [],
+   "plain_english": "One should form the name Sudarśana in the fourth case as 'to Sudarśana, with arrow, king of weapons'."
+  },
+  {
+   "verse": 5260,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior ritual action",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "prāṇasthāpanam",
+     "gloss": "breath-establishment",
+     "grounds": "ritual installation of vital force",
+     "morph": "n.acc.sg (compound: prāṇa+sthāpana)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (ā+car)"
+    }
+   ],
+   "question": "What vitalizing ritual act should be performed after the preceding steps?",
+   "premises": [
+    "A prior action is completed",
+    "Breath establishment is specified",
+    "Performance is prescribed"
+   ],
+   "inference": "Having done the preceding steps, one should perform the establishment of breath.",
+   "uncertainties": [],
+   "plain_english": "Having done that, one should perform the establishment of breath."
+  },
+  {
+   "verse": 5261,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "gerund (dhyai)"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual placement of mantras or powers",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indicates subsequent stage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual placement must follow meditation on the guru in this sequence?",
+   "premises": [
+    "The guru is meditated upon",
+    "Nyāsa is prescribed",
+    "It occurs after that meditation"
+   ],
+   "inference": "After meditating on the guru, one should perform the nyāsa.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the guru, one should then perform the nyāsa."
+  },
+  {
+   "verse": 5262,
+   "rows": [
+    {
+     "surface": "mitraḥ",
+     "gloss": "Mitra",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker in invocation series",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which solar deity is first invoked to grant protection to the practitioner?",
+   "premises": [
+    "Mitra is named",
+    "Protection is requested",
+    "The practitioner is the object"
+   ],
+   "inference": "Mitra is invoked to protect the practitioner.",
+   "uncertainties": [],
+   "plain_english": "Then may Mitra protect me."
+  },
+  {
+   "verse": 5263,
+   "rows": [
+    {
+     "surface": "vihitākaraṇāt",
+     "gloss": "from-prescribed-non-performance",
+     "grounds": "source of sin from omission",
+     "morph": "n.abl.sg (compound: vihita+a+karaṇa)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ravī",
+     "gloss": "Ravi",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what specific sin arising from omission is Ravi asked to grant protection?",
+   "premises": [
+    "Sin arises from not performing what is prescribed",
+    "Ravi is invoked",
+    "Protection is requested always"
+   ],
+   "inference": "Ravi is asked to always protect from the sin of omitting prescribed duties.",
+   "uncertainties": [],
+   "plain_english": "May Ravi always protect me from the sin of not performing what is prescribed."
+  },
+  {
+   "verse": 5264,
+   "rows": [
+    {
+     "surface": "sūryaḥ",
+     "gloss": "Sūrya",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ongoing protection is requested from the solar deity Sūrya?",
+   "premises": [
+    "Sūrya is invoked",
+    "Protection is requested",
+    "The protection is to be constant"
+   ],
+   "inference": "Sūrya is asked to protect the practitioner always.",
+   "uncertainties": [],
+   "plain_english": "May Sūrya always protect me."
+  },
+  {
+   "verse": 5265,
+   "rows": [
+    {
+     "surface": "sarvabhūtebhyaḥ",
+     "gloss": "from-all-beings",
+     "grounds": "source of potential harm",
+     "morph": "n.abl.pl (compound: sarva+bhūta)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    }
+   ],
+   "question": "From what universal range of beings is constant protection being requested?",
+   "premises": [
+    "All beings are named as a source",
+    "Protection is requested",
+    "The protection is always"
+   ],
+   "inference": "Protection is requested at all times from all beings.",
+   "uncertainties": [
+    "The protecting deity is not named in this verse and may be carried over from context."
+   ],
+   "plain_english": "And may he always protect me from all beings."
+  },
+  {
+   "verse": 5266,
+   "rows": [
+    {
+     "surface": "niṣiddhagamanāt",
+     "gloss": "from-forbidden-going",
+     "grounds": "source of sin from prohibited movement",
+     "morph": "n.abl.sg (compound: niṣiddha+gamana)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhānū",
+     "gloss": "Bhānu",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what sin caused by forbidden movement is Bhānu asked to protect?",
+   "premises": [
+    "Sin arises from forbidden going",
+    "Bhānu is invoked",
+    "Protection is requested always"
+   ],
+   "inference": "Bhānu is asked to always protect from the sin of forbidden movement.",
+   "uncertainties": [],
+   "plain_english": "May Bhānu always protect me from the sin of forbidden going."
+  },
+  {
+   "verse": 5267,
+   "rows": [
+    {
+     "surface": "ṛtustrīsaṅgasambhūtāt",
+     "gloss": "from-menstruating-woman-union-arisen",
+     "grounds": "source of sin from prohibited union",
+     "morph": "n.abl.sg (compound: ṛtu+strī+saṅga+sambhūta)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūṣā",
+     "gloss": "Pūṣan",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhi",
+     "gloss": "fully",
+     "grounds": "intensifying prefix with protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (rakṣ)"
+    }
+   ],
+   "question": "From what sin arising from union with a menstruating woman is Pūṣan invoked to protect?",
+   "premises": [
+    "Sin arises from union with a menstruating woman",
+    "Pūṣan is invoked",
+    "Protection is requested"
+   ],
+   "inference": "Pūṣan is asked to protect from the sin arising from union with a menstruating woman.",
+   "uncertainties": [],
+   "plain_english": "May Pūṣan protect from the sin arising from union with a menstruating woman."
+  },
+  {
+   "verse": 5268,
+   "rows": [
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "tamojāt",
+     "gloss": "from-darkness-born",
+     "grounds": "source of sin born of darkness or ignorance",
+     "morph": "n.abl.sg (compound: tamas+ja)"
+    },
+    {
+     "surface": "pāpataḥ",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what sin born of darkness is the practitioner seeking constant protection?",
+   "premises": [
+    "Sin is described as born of darkness",
+    "The practitioner is the object",
+    "Protection is requested always"
+   ],
+   "inference": "The practitioner seeks constant protection from sin born of darkness.",
+   "uncertainties": [
+    "The protecting deity is not named in this verse and may be carried over from context."
+   ],
+   "plain_english": "May he always protect me from sin born of darkness."
+  },
+  {
+   "verse": 5269,
+   "rows": [
+    {
+     "surface": "mukhajihvodbhavāt",
+     "gloss": "from-mouth-tongue-arisen",
+     "grounds": "source of sin arising from speech organs",
+     "morph": "n.abl.sg (compound: mukha+jihvā+udbhava)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "marīciḥ",
+     "gloss": "Marīci",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (av)"
+    }
+   ],
+   "question": "From what sin arising from the mouth and tongue is Marīci asked to protect?",
+   "premises": [
+    "Sin arises from mouth and tongue",
+    "Marīci is invoked",
+    "Protection is requested always"
+   ],
+   "inference": "Marīci is asked to always protect from sin arising from the mouth and tongue.",
+   "uncertainties": [],
+   "plain_english": "May Marīci always protect me from sin arising from the mouth and tongue."
+  },
+  {
+   "verse": 5270,
+   "rows": [
+    {
+     "surface": "dṛksamudbhava",
+     "gloss": "from-eye-arisen",
+     "grounds": "source of sin arising from sight; truncated compound form",
+     "morph": "n.abl.sg (compound: dṛk+samudbhava, truncated)"
+    },
+    {
+     "surface": "pātakāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What sin arising from the eye is identified as a source requiring protection?",
+   "premises": [
+    "Sin is described as arising from the eye",
+    "It is termed a serious sin",
+    "Protection is implied by context"
+   ],
+   "inference": "A sin arising from the eye is identified as needing protection.",
+   "uncertainties": [
+    "The protecting deity and verb are not stated in this verse and continue in the next."
+   ],
+   "plain_english": "From the sin arising from the eye,"
+  },
+  {
+   "verse": 5271,
+   "rows": [
+    {
+     "surface": "taddṛṣṭan",
+     "gloss": "from-that-seen",
+     "grounds": "source related to what was seen; form uncertain",
+     "morph": "n.abl.sg (compound: tad+dṛṣṭa, truncated form)"
+    },
+    {
+     "surface": "tatpāpāt",
+     "gloss": "from-that-sin",
+     "grounds": "specific sin referred to",
+     "morph": "n.abl.sg (compound: tad+pāpa)"
+    },
+    {
+     "surface": "savitā",
+     "gloss": "Savitṛ",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (av)"
+    }
+   ],
+   "question": "From what sin connected to seeing is Savitṛ asked to grant protection?",
+   "premises": [
+    "A sin connected to what was seen is indicated",
+    "Savitṛ is invoked",
+    "Protection is requested"
+   ],
+   "inference": "Savitṛ is asked to protect from that sin connected to seeing.",
+   "uncertainties": [
+    "The exact analysis of taddṛṣṭan is uncertain due to its truncated form."
+   ],
+   "plain_english": "May Savitṛ protect from that sin arising from what was seen."
+  },
+  {
+   "verse": 5272,
+   "rows": [
+    {
+     "surface": "tvaglomasambhavāt",
+     "gloss": "from-skin-hair-arisen",
+     "grounds": "source of sin arising from skin and hair",
+     "morph": "n.abl.sg (compound: tvac+loma+sambhava)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhānuḥ",
+     "gloss": "Bhānu",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "parirakṣatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (pari+rakṣ)"
+    }
+   ],
+   "question": "From what sin arising from skin and hair is Bhānu asked to provide protection?",
+   "premises": [
+    "Sin arises from skin and hair",
+    "Bhānu is invoked",
+    "Protection is requested"
+   ],
+   "inference": "Bhānu is asked to protect from sin arising from skin and hair.",
+   "uncertainties": [],
+   "plain_english": "May Bhānu protect me from sin arising from skin and hair."
+  },
+  {
+   "verse": 5273,
+   "rows": [
+    {
+     "surface": "vidveṣaṇakṛtāt",
+     "gloss": "from-hatred-done",
+     "grounds": "source of sin caused by acts of hatred",
+     "morph": "n.abl.sg (compound: vidveṣaṇa+kṛta)"
+    },
+    {
+     "surface": "pāpāt",
+     "gloss": "from-sin",
+     "grounds": "evil to be protected from",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhāskaraḥ",
+     "gloss": "Bhāskara",
+     "grounds": "solar deity invoked for protection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.act-imperative (av)"
+    }
+   ],
+   "question": "From what sin produced by acts of hatred is Bhāskara asked to protect?",
+   "premises": [
+    "Sin is caused by acts of hatred",
+    "Bhāskara is invoked",
+    "Protection is requested always"
+   ],
+   "inference": "Bhāskara is asked to always protect from sin produced by acts of hatred.",
+   "uncertainties": [],
+   "plain_english": "May Bhāskara always protect me from sin caused by acts of hatred."
+  },
+  {
+   "verse": 5274,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "prior ritual placement act",
+     "morph": "gerund (vi+ni+as)"
+    },
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "indicates repetition of earlier method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "injunctive contemplative instruction",
+     "morph": "3.sg.act-optative (dhyai)"
+    },
+    {
+     "surface": "divākaram",
+     "gloss": "on-Divākara",
+     "grounds": "solar deity as object of meditation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What meditative act on Divākara should follow the placement performed as before?",
+   "premises": [
+    "Placement is done as before",
+    "Meditation is prescribed",
+    "Divākara is the object of meditation"
+   ],
+   "inference": "After placing as before, one should meditate on Divākara.",
+   "uncertainties": [],
+   "plain_english": "Having placed as before, one should meditate on Divākara."
+  }
+ ]
+}

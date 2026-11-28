@@ -1,0 +1,988 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "vṛṣo",
+     "gloss": "bull",
+     "grounds": "vṛṣaḥ with sandhi before following word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛṣākṛtiḥ",
+     "gloss": "bull-form",
+     "grounds": "compound: vṛṣa-bull + ākṛti-form",
+     "morph": "compound"
+    },
+    {
+     "surface": "tryakṣaḥ",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri-three + akṣa-eye",
+     "morph": "compound"
+    },
+    {
+     "surface": "kundendutuhinadyutiḥ",
+     "gloss": "jasmine-moon-snow-radiance",
+     "grounds": "compound: kunda-jasmine + indu-moon + tuhina-snow + dyuti-radiance",
+     "morph": "compound"
+    }
+   ],
+   "question": "What visual form and radiance characterize the bull-associated figure described here?",
+   "premises": [
+    "The figure is a bull and has a bull-like form.",
+    "The figure is three-eyed.",
+    "The figure's radiance resembles jasmine, the moon, and snow."
+   ],
+   "inference": "The described figure is a three-eyed, bull-form being with a white, luminous radiance.",
+   "uncertainties": [
+    "The specific identity of this figure is implied by context but not named in this verse."
+   ],
+   "plain_english": "He is a bull, bull-shaped, three-eyed, and radiant like jasmine, the moon, and snow."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "nirmāṃsavigraho",
+     "gloss": "fleshless-body",
+     "grounds": "compound: nir-without + māṃsa-flesh + vigraha-body",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhṛṅgī",
+     "gloss": "Bhṛṅgī",
+     "grounds": "proper name of the attendant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śveto",
+     "gloss": "white",
+     "grounds": "śvetaḥ with sandhi before following word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāruṇadiggataḥ",
+     "gloss": "west-direction-gone",
+     "grounds": "compound: vāruṇa-of-Varuṇa + diś-direction + gata-gone",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is Bhṛṅgī's body, color, and directional placement specified for contemplation?",
+   "premises": [
+    "Bhṛṅgī has a fleshless body.",
+    "Bhṛṅgī is white in color.",
+    "Bhṛṅgī is located in the western direction."
+   ],
+   "inference": "Bhṛṅgī is to be contemplated as a white, fleshless figure situated in the west.",
+   "uncertainties": [],
+   "plain_english": "Bhṛṅgī has a fleshless body, is white, and is located in the western direction."
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "śaktikhaḍgapatākābjaprāsakukkuṭadaṇḍabhṛt",
+     "gloss": "spear-sword-banner-lotus-dart-rooster-staff-bearing",
+     "grounds": "compound: śakti-spear + khaḍga-sword + patākā-banner + abja-lotus + prāsa-dart + kukkuṭa-rooster + daṇḍa-staff + bhṛt-bearing",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which set of weapons and emblems does the described figure bear?",
+   "premises": [
+    "The figure bears a spear, sword, banner, lotus, dart, rooster, and staff.",
+    "All these items are held together as attributes of one figure."
+   ],
+   "inference": "The figure is characterized by carrying seven specific emblems and weapons.",
+   "uncertainties": [
+    "The distribution of these items across hands is not specified in this verse."
+   ],
+   "plain_english": "He bears a spear, sword, banner, lotus, dart, rooster, and staff."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "caturbhujo",
+     "gloss": "four-armed",
+     "grounds": "compound: catur-four + bhuja-arm; sandhi form before following word",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvibāhurvā",
+     "gloss": "or-two-armed",
+     "grounds": "compound: dvi-two + bāhu-arm, joined with vā-or",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavatyekānanaḥ",
+     "gloss": "becomes-one-faced",
+     "grounds": "bhavati-becomes joined with eka-one + ānana-face",
+     "morph": "3.sg.pres.act + compound"
+    },
+    {
+     "surface": "śriyai",
+     "gloss": "for-prosperity",
+     "grounds": "purpose or benefit expressed by dative",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What alternative bodily configurations are prescribed for attaining prosperity?",
+   "premises": [
+    "The figure may be four-armed or two-armed.",
+    "The figure becomes one-faced.",
+    "This form is for prosperity."
+   ],
+   "inference": "For prosperity, the figure may be contemplated as one-faced with either four or two arms.",
+   "uncertainties": [],
+   "plain_english": "He may be four-armed or two-armed, becomes one-faced, and is contemplated for prosperity."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vidrumābhāsaḥ",
+     "gloss": "coral-radiance",
+     "grounds": "compound: vidruma-coral + ābhāsa-radiance",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjanīyaḥ",
+     "gloss": "to-be-worshiped",
+     "grounds": "gerundive expressing obligation or fitness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalārthibhiḥ",
+     "gloss": "by-fruit-seekers",
+     "grounds": "compound: phala-fruit + arthin-seeker",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where and by whom should the coral-radiant figure be worshiped?",
+   "premises": [
+    "The figure has the radiance of coral.",
+    "The figure is located in the northwest.",
+    "The figure is to be worshiped by those seeking fruits."
+   ],
+   "inference": "Seekers of desired results should worship the coral-radiant figure in the northwest.",
+   "uncertainties": [],
+   "plain_english": "In the northwest, the coral-radiant one should be worshiped by those who seek desired results."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "feminine deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "ca-and joined with eva-also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍeśo",
+     "gloss": "Caṇḍeśa",
+     "grounds": "caṇḍeśaḥ with sandhi before following word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahākālo",
+     "gloss": "Mahākāla",
+     "grounds": "mahākālaḥ with sandhi before following word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛṣastathā",
+     "gloss": "bull-likewise",
+     "grounds": "vṛṣaḥ-bull joined with tathā-likewise",
+     "morph": "m.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Which additional deities are included alongside the previously described figures?",
+   "premises": [
+    "The goddess is included.",
+    "Caṇḍeśa is included.",
+    "Mahākāla and the bull are likewise included."
+   ],
+   "inference": "The group to be contemplated includes the goddess, Caṇḍeśa, Mahākāla, and the bull.",
+   "uncertainties": [],
+   "plain_english": "The goddess, and also Caṇḍeśa, Mahākāla, and likewise the bull are included."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "dhyāyed",
+     "gloss": "one-should-meditate",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the listed figures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "anudvignaḥ",
+     "gloss": "unagitated",
+     "grounds": "compound: an-not + udvigna-agitated",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmarāgasamaprabhān",
+     "gloss": "ruby-equal-radiant",
+     "grounds": "compound: padmarāga-ruby + sama-equal + prabhā-radiance",
+     "morph": "compound"
+    }
+   ],
+   "question": "In what mental state and with what radiance should these figures be meditated upon?",
+   "premises": [
+    "One should meditate on these figures.",
+    "The meditator should be unagitated.",
+    "The figures are radiant like ruby."
+   ],
+   "inference": "These figures should be calmly meditated upon as having a radiance equal to ruby.",
+   "uncertainties": [],
+   "plain_english": "One should meditate, unagitated, on these figures as radiant like ruby."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "dviradendrasamārūḍhaṃ",
+     "gloss": "elephant-lord-mounted",
+     "grounds": "compound: dvirada-elephant + indra-lord + samārūḍha-mounted",
+     "morph": "compound"
+    },
+    {
+     "surface": "pītavarṇaṃ",
+     "gloss": "yellow-colored",
+     "grounds": "compound: pīta-yellow + varṇa-color",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajriṇam",
+     "gloss": "thunderbolt-bearer",
+     "grounds": "epithet of Indra, bearer of the vajra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the thunderbolt-bearing deity be visualized in terms of mount and color?",
+   "premises": [
+    "The thunderbolt-bearer is mounted on the lord of elephants.",
+    "The thunderbolt-bearer is yellow in color."
+   ],
+   "inference": "The thunderbolt-bearer should be visualized as yellow and mounted on a great elephant.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the thunderbolt-bearer as yellow and mounted on the lord of elephants."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "jvālāmālāvṛtaṃ",
+     "gloss": "flame-garland-surrounded",
+     "grounds": "compound: jvālā-flame + mālā-garland + āvṛta-surrounded",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktidharam",
+     "gloss": "spear-bearer",
+     "grounds": "compound: śakti-spear + dhara-bearer",
+     "morph": "compound"
+    },
+    {
+     "surface": "agnimajāsanam",
+     "gloss": "fire-goat-seated",
+     "grounds": "compound: agni-fire + aja-goat + āsana-seat",
+     "morph": "compound"
+    }
+   ],
+   "question": "What attributes, weapon, and mount define the fire deity in this visualization?",
+   "premises": [
+    "The figure is surrounded by a garland of flames.",
+    "The figure bears a spear.",
+    "The figure is seated on a goat associated with fire."
+   ],
+   "inference": "The fire deity is visualized as flame-surrounded, spear-bearing, and seated on a goat.",
+   "uncertainties": [
+    "The deity is implied to be Agni by attributes but not explicitly named in this verse."
+   ],
+   "plain_english": "He is surrounded by a garland of flames, bears a spear, and is seated on a goat."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "nairṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nirṛtiṃ",
+     "gloss": "Nirṛti",
+     "grounds": "name of the guardian deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nīlaṃ",
+     "gloss": "blue",
+     "grounds": "color attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gadāhastaṃ",
+     "gloss": "mace-in-hand",
+     "grounds": "compound: gadā-mace + hasta-hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "narāsanam",
+     "gloss": "human-seated",
+     "grounds": "compound: nara-human + āsana-seat",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should Nirṛti be visualized in the southwest direction?",
+   "premises": [
+    "Nirṛti is located in the southwest.",
+    "Nirṛti is blue in color.",
+    "Nirṛti holds a mace and is seated on a human."
+   ],
+   "inference": "Nirṛti should be visualized in the southwest as blue, mace-bearing, and seated on a human.",
+   "uncertainties": [],
+   "plain_english": "In the southwest, contemplate Nirṛti as blue, holding a mace, and seated on a human."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "śabalaṃ",
+     "gloss": "mottled",
+     "grounds": "color or appearance attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhvajahastañca",
+     "gloss": "flag-in-hand-and",
+     "grounds": "compound: dhvaja-flag + hasta-hand, joined with ca-and",
+     "morph": "compound + (indecl.)"
+    },
+    {
+     "surface": "mṛgastham",
+     "gloss": "deer-seated",
+     "grounds": "compound: mṛga-deer + stha-seated",
+     "morph": "compound"
+    },
+    {
+     "surface": "anile",
+     "gloss": "in-wind-direction",
+     "grounds": "locative indicating the northwest direction of Vāyu",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anilam",
+     "gloss": "wind-god",
+     "grounds": "name of Vāyu, the wind deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the wind deity be visualized in the direction of wind?",
+   "premises": [
+    "The wind deity is in the wind direction.",
+    "The wind deity is mottled in appearance.",
+    "The wind deity holds a flag and is seated on a deer."
+   ],
+   "inference": "The wind deity should be visualized in his direction as mottled, flag-bearing, and deer-mounted.",
+   "uncertainties": [],
+   "plain_english": "In the direction of wind, contemplate the wind god as mottled, holding a flag, and seated on a deer."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "kapilaṃ",
+     "gloss": "tawny",
+     "grounds": "color attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlahastaṃ",
+     "gloss": "trident-in-hand",
+     "grounds": "compound: śūla-trident + hasta-hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣārūḍhaṃ",
+     "gloss": "bull-mounted",
+     "grounds": "compound: vṛṣa-bull + ārūḍha-mounted",
+     "morph": "compound"
+    },
+    {
+     "surface": "trilocanam",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri-three + locana-eye",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color, weapon, mount, and distinctive feature characterize this three-eyed deity?",
+   "premises": [
+    "The deity is tawny in color.",
+    "The deity holds a trident and is mounted on a bull.",
+    "The deity is three-eyed."
+   ],
+   "inference": "The deity should be visualized as tawny, three-eyed, trident-bearing, and bull-mounted.",
+   "uncertainties": [
+    "The deity is implied to be Īśāna or Śiva by attributes but not explicitly named in this verse."
+   ],
+   "plain_english": "Contemplate him as tawny, holding a trident, mounted on a bull, and three-eyed."
+  },
+  {
+   "verse": 988,
+   "rows": [
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "Viṣṇu",
+     "grounds": "name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvadhogataṃ",
+     "gloss": "downward-gone",
+     "grounds": "tu-and joined with adhas-below + gata-gone",
+     "morph": "(indecl.) + compound"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "dark",
+     "grounds": "color attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tārkṣyasthaṃ",
+     "gloss": "Garuḍa-seated",
+     "grounds": "compound: tārkṣya-Garuḍa + stha-seated",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakrapāṇinam",
+     "gloss": "discus-in-hand",
+     "grounds": "compound: cakra-discus + pāṇi-hand",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should Viṣṇu be visualized in the downward direction?",
+   "premises": [
+    "Viṣṇu is located in the downward direction.",
+    "Viṣṇu is dark in color.",
+    "Viṣṇu is seated on Garuḍa and holds a discus."
+   ],
+   "inference": "Viṣṇu should be visualized below as dark, Garuḍa-mounted, and discus-bearing.",
+   "uncertainties": [],
+   "plain_english": "Contemplate Viṣṇu below as dark, seated on Garuḍa, and holding a discus."
+  },
+  {
+   "verse": 989,
+   "rows": [
+    {
+     "surface": "ūrdhvagaṃ",
+     "gloss": "upward-gone",
+     "grounds": "compound: ūrdhva-upward + ga-gone",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "prājñaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svasvanāmādikākṣaraiḥ",
+     "gloss": "with-own-name-initial-letters",
+     "grounds": "compound: sva-sva-own-own + nāma-name + ādi-initial + akṣara-letter",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the wise practitioner worship the upward deity using mantric syllables?",
+   "premises": [
+    "The wise one should worship the upward-going deity.",
+    "The worship uses the initial letters of each deity's own name."
+   ],
+   "inference": "The upward deity is to be worshiped by the wise practitioner with the initial syllables of the respective names.",
+   "uncertainties": [
+    "The specific upward deity is not named in this verse."
+   ],
+   "plain_english": "The wise one should worship the upward deity using the initial letters of their own names."
+  },
+  {
+   "verse": 990,
+   "rows": [
+    {
+     "surface": "pūrvabhāge",
+     "gloss": "in-eastern-part",
+     "grounds": "compound: pūrva-east + bhāga-part",
+     "morph": "compound"
+    },
+    {
+     "surface": "yajedvajraṃ",
+     "gloss": "one-should-worship-thunderbolt",
+     "grounds": "yajet-should-worship joined with vajram-thunderbolt",
+     "morph": "3.sg.opt.act √yaj + m.acc.sg"
+    },
+    {
+     "surface": "pītavarṇaṃ",
+     "gloss": "yellow-colored",
+     "grounds": "compound: pīta-yellow + varṇa-color",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍaśrakam",
+     "gloss": "six-cornered",
+     "grounds": "compound: ṣaṣ-six + aśra-corner",
+     "morph": "compound"
+    }
+   ],
+   "question": "What weapon should be worshiped in the east and with what attributes?",
+   "premises": [
+    "The thunderbolt is to be worshiped in the eastern part.",
+    "The thunderbolt is yellow in color.",
+    "The thunderbolt is six-cornered."
+   ],
+   "inference": "In the east, one should worship a yellow, six-cornered thunderbolt.",
+   "uncertainties": [],
+   "plain_english": "In the eastern part, one should worship the thunderbolt, yellow in color and six-cornered."
+  },
+  {
+   "verse": 991,
+   "rows": [
+    {
+     "surface": "nirṛtau",
+     "gloss": "in-southwest",
+     "grounds": "directional location of Nirṛti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nīlakhaḍgaṃ",
+     "gloss": "blue-sword",
+     "grounds": "compound: nīla-blue + khaḍga-sword",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "color attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "weapon or emblem",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "directional location of Varuṇa",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which weapons are assigned to the southwest and western directions respectively?",
+   "premises": [
+    "A blue sword is assigned to the southwest.",
+    "A white noose is assigned to the west."
+   ],
+   "inference": "The southwest receives a blue sword and the west receives a white noose for worship.",
+   "uncertainties": [],
+   "plain_english": "In the southwest, worship the blue sword, and in the west, the white noose."
+  },
+  {
+   "verse": 992,
+   "rows": [
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "directional location of Īśāna",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jvalitaṃ",
+     "gloss": "blazing",
+     "grounds": "attribute of the trident",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "weapon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakramarkasamaprabham",
+     "gloss": "discus-sun-equal-radiant",
+     "grounds": "compound: cakra-discus + arka-sun + sama-equal + prabhā-radiance",
+     "morph": "compound"
+    }
+   ],
+   "question": "What weapon and radiance are prescribed for worship in the northeast?",
+   "premises": [
+    "A blazing trident is assigned to the northeast.",
+    "Its radiance is equal to that of the discus and the sun."
+   ],
+   "inference": "In the northeast, one should worship a blazing trident radiant like the discus and the sun.",
+   "uncertainties": [
+    "The compound cakramarkasamaprabham may compare radiance to the discus and sun together or separately."
+   ],
+   "plain_english": "In the northeast, worship the blazing trident, radiant like the discus and the sun."
+  },
+  {
+   "verse": 993,
+   "rows": [
+    {
+     "surface": "pañcāvaraṇapūja",
+     "gloss": "five-enclosure-worship",
+     "grounds": "compound: pañca-five + āvaraṇa-enclosure + pūjā-worship",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsāt",
+     "gloss": "in-brief",
+     "grounds": "ablative used adverbially",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the preceding ritual instruction summarized in terms of enclosure worship?",
+   "premises": [
+    "The worship of five enclosures has been described.",
+    "The description is given thus and in brief."
+   ],
+   "inference": "The preceding instructions constitute a brief declaration of the five-enclosure worship.",
+   "uncertainties": [],
+   "plain_english": "Thus, the worship of the five enclosures has been briefly declared."
+  },
+  {
+   "verse": 994,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalairaṅgaiḥ",
+     "gloss": "with-limbs-only",
+     "grounds": "kevalaiḥ-only with aṅgaiḥ-limbs",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kevalairbrahmabhiḥ",
+     "gloss": "with-brahmas-only",
+     "grounds": "kevalaiḥ-only with brahmabhiḥ-brahmas",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative ritual components may be used instead of the full enclosure worship?",
+   "premises": [
+    "An alternative procedure is introduced.",
+    "One may use only the limbs.",
+    "One may use only the Brahmas."
+   ],
+   "inference": "As an alternative, worship may be performed with only the limbs or only the Brahmas.",
+   "uncertainties": [
+    "The exact referents of 'limbs' and 'Brahmas' depend on prior ritual context."
+   ],
+   "plain_english": "Or else, one may perform the worship with only the limbs, or with only the Brahmas."
+  },
+  {
+   "verse": 995,
+   "rows": [
+    {
+     "surface": "hetibhiḥ",
+     "gloss": "with-weapons",
+     "grounds": "instrumental plural of weapon",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "sahitān",
+     "gloss": "accompanied",
+     "grounds": "together with",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "lokapālān",
+     "gloss": "world-guardians",
+     "grounds": "compound: loka-world + pāla-guardian",
+     "morph": "compound"
+    },
+    {
+     "surface": "abhyarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further alternative involves worshiping the world-guardians with their weapons?",
+   "premises": [
+    "The world-guardians may be worshiped.",
+    "They may be worshiped accompanied by their weapons.",
+    "This is presented as an alternative."
+   ],
+   "inference": "Another option is to worship the world-guardians together with their weapons.",
+   "uncertainties": [],
+   "plain_english": "Or one may worship the world-guardians accompanied by their weapons."
+  },
+  {
+   "verse": 996,
+   "rows": [
+    {
+     "surface": "yajed",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "gadādibhiḥ",
+     "gloss": "with-mace-and-others",
+     "grounds": "compound: gadā-mace + ādi-and-so-on",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarāvaraṇakramāt",
+     "gloss": "by-inner-enclosure-order",
+     "grounds": "compound: antara-inner + āvaraṇa-enclosure + krama-order",
+     "morph": "compound"
+    }
+   ],
+   "question": "How may worship proceed using weapons according to the inner enclosure sequence?",
+   "premises": [
+    "One should worship with the mace and other weapons.",
+    "This worship follows the order of the inner enclosure."
+   ],
+   "inference": "Worship with the mace and other weapons may be performed according to the inner enclosure sequence.",
+   "uncertainties": [],
+   "plain_english": "Thus one should worship with the mace and other weapons, following the order of the inner enclosure."
+  },
+  {
+   "verse": 997,
+   "rows": [
+    {
+     "surface": "evamāvaraṇaṃ",
+     "gloss": "thus-enclosure",
+     "grounds": "evam-thus joined with āvaraṇam-enclosure",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshiped",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √pūj"
+    },
+    {
+     "surface": "dadyānnaivedyam",
+     "gloss": "one-should-give-offering",
+     "grounds": "dadyāt-should-give joined with naivedyam-offering",
+     "morph": "3.sg.opt.act √dā + n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "quality of the offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering should be given after completing the enclosure worship?",
+   "premises": [
+    "The enclosure worship is completed in this manner.",
+    "After worship, an offering should be given.",
+    "The offering should be excellent."
+   ],
+   "inference": "After performing the enclosure worship, one should present an excellent food offering.",
+   "uncertainties": [],
+   "plain_english": "Having thus worshiped the enclosure, one should offer an excellent food offering."
+  },
+  {
+   "verse": 998,
+   "rows": [
+    {
+     "surface": "aṅgānām",
+     "gloss": "of-limbs",
+     "grounds": "ritual limbs or subsidiary deities",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal quantifier",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pṛthaṅnaivedyamardhataḥ",
+     "gloss": "separately-offering-by-half",
+     "grounds": "pṛthak-separately joined with naivedyam-offering and ardhataḥ-by-half",
+     "morph": "(indecl.) + n.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "How should food offerings be distributed to all the ritual limbs?",
+   "premises": [
+    "All the limbs are included.",
+    "A separate offering is to be given to them.",
+    "The offering is given by half measure."
+   ],
+   "inference": "Each of all the limbs should receive a separate offering of half the measure.",
+   "uncertainties": [
+    "The exact reference measure for 'half' is not specified in this verse."
+   ],
+   "plain_english": "For all the limbs as well, a separate food offering should be given, in half measure."
+  },
+  {
+   "verse": 999,
+   "rows": [
+    {
+     "surface": "pūteṣu",
+     "gloss": "in-purified",
+     "grounds": "locative plural referring to purified recipients or contexts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "itarathā",
+     "gloss": "otherwise",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekasmin",
+     "gloss": "in-one",
+     "grounds": "single location or vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haviṣyaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual food offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantrasaṃskṛtam",
+     "gloss": "mantra-consecrated",
+     "grounds": "compound: mantra-mantra + saṃskṛta-consecrated",
+     "morph": "compound"
+    }
+   ],
+   "question": "Under what alternative condition may a single mantra-consecrated oblation be offered?",
+   "premises": [
+    "Separate offerings apply in purified contexts.",
+    "Otherwise, an alternative is allowed.",
+    "A single oblation consecrated by mantra may be offered in one place."
+   ],
+   "inference": "If the fuller condition does not apply, one mantra-consecrated oblation may be offered in a single place.",
+   "uncertainties": [
+    "The precise contrast implied by 'in purified' is context-dependent."
+   ],
+   "plain_english": "In purified cases separately, but otherwise a single mantra-consecrated oblation may be offered in one place."
+  }
+ ]
+}

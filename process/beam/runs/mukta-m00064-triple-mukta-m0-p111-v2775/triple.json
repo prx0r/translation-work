@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal/sequence particle introducing subsequent salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aghanāśanapuraghātakāya",
+     "gloss": "to-destroyer-of-sin-and-fortresses",
+     "grounds": "dative of recipient of obeisance; compound: agha-nāśana (sin-destroying) + pura-ghātaka (fortress-slayer)",
+     "morph": "compound:m.dat.sg"
+    },
+    {
+     "surface": "hayādyarūpāya",
+     "gloss": "to-one-having-horse-etc-form",
+     "grounds": "dative epithet describing the deity's manifested form",
+     "morph": "compound:m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "indeclinable formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "repeated salutation formula; namas + te fused in form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form and destructive powers of the deity are honored in this subsequent salutation?",
+   "premises": [
+    "The salutation follows sequentially from the previous praise.",
+    "The deity is addressed as the destroyer of sin and fortresses.",
+    "The deity is addressed as having a horse and related forms."
+   ],
+   "inference": "Therefore, obeisance is offered to the deity who destroys sin and fortresses and manifests in a horse-like form.",
+   "uncertainties": [
+    "The specific referents included in 'ādi' (etc.) of hayādyarūpāya are not specified in this verse."
+   ],
+   "plain_english": "Then, obeisance and salutation to you, the destroyer of sin and fortresses, who takes the form of a horse and other forms."
+  }
+ ]
+}

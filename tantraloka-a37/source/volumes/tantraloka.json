@@ -1,0 +1,959 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantraloka-a37",
+ "vol": "tantraloka",
+ "source_file": "../ipvv/site/data/sanskrit/tantraloka.txt",
+ "source_id": "tantraloka-a37-tantraloka-6c84580d946fa3c9",
+ "content_sha256": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "bytes": 781387,
+ "edition": "Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.)",
+ "license": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tal-a37-v01",
+   "start": 766764,
+   "end": 766878,
+   "vol_lines": [
+    17388,
+    17389
+   ],
+   "legacy_coords": null,
+   "text_sha256": "451fbba9968769396a5a9b0d6402e462fdb6543671e5978e60d11fa5834404dc"
+  },
+  {
+   "passage_id": "tal-a37-v02",
+   "start": 766879,
+   "end": 767011,
+   "vol_lines": [
+    17391,
+    17392
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b2da7b755f2f785d8f80a014f5d218add06ee5769f9adad02bf3a57ca735b9ff"
+  },
+  {
+   "passage_id": "tal-a37-v03",
+   "start": 767012,
+   "end": 767129,
+   "vol_lines": [
+    17394,
+    17395
+   ],
+   "legacy_coords": null,
+   "text_sha256": "8e8e7f63783bdd3f2c030ef60ee6751f5d020d0041b150e7dd8d4e4a8bd9db07"
+  },
+  {
+   "passage_id": "tal-a37-v04",
+   "start": 767130,
+   "end": 767266,
+   "vol_lines": [
+    17397,
+    17398
+   ],
+   "legacy_coords": null,
+   "text_sha256": "95e4ee07b3672475f54c8af726f2a1f4484b123b3b54b7b90017be96b5d4e31f"
+  },
+  {
+   "passage_id": "tal-a37-v05",
+   "start": 767267,
+   "end": 767392,
+   "vol_lines": [
+    17400,
+    17401
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c807f304a0ba800caaa2f871310c5346c042d7b3fdf9cd1136ed577a2eb0128a"
+  },
+  {
+   "passage_id": "tal-a37-v06",
+   "start": 767393,
+   "end": 767519,
+   "vol_lines": [
+    17403,
+    17404
+   ],
+   "legacy_coords": null,
+   "text_sha256": "986b362d3fbeae64815c89695263a290c2a8d9db2c1d0aab93429defe8731dad"
+  },
+  {
+   "passage_id": "tal-a37-v07",
+   "start": 767520,
+   "end": 767647,
+   "vol_lines": [
+    17406,
+    17407
+   ],
+   "legacy_coords": null,
+   "text_sha256": "76b31eeb15236dba6f5bc5e6de8da1280296fa7892db00028c26a17d3e68c952"
+  },
+  {
+   "passage_id": "tal-a37-v08",
+   "start": 767648,
+   "end": 767763,
+   "vol_lines": [
+    17409,
+    17410
+   ],
+   "legacy_coords": null,
+   "text_sha256": "427554d09e6ff40ba2ec6a927a38e0f4f14de262a2588b7d68e8602462fb1fdd"
+  },
+  {
+   "passage_id": "tal-a37-v09",
+   "start": 767764,
+   "end": 767904,
+   "vol_lines": [
+    17412,
+    17413
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a32b2f5c62a589bfd7c0419640400cf90a6de16d74d7a8481bd91e68cebe3f23"
+  },
+  {
+   "passage_id": "tal-a37-v10",
+   "start": 767905,
+   "end": 768034,
+   "vol_lines": [
+    17415,
+    17416
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e246abd438c61ed138fafa4416a6dba5660b15c2f02a87f3c4aa1b621a6bf871"
+  },
+  {
+   "passage_id": "tal-a37-v11",
+   "start": 768035,
+   "end": 768161,
+   "vol_lines": [
+    17418,
+    17419
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9ec21bfa799ecaf4d82093f12b1884e08a845cf923fd7d3b825f5f4283c590f1"
+  },
+  {
+   "passage_id": "tal-a37-v12",
+   "start": 768162,
+   "end": 768299,
+   "vol_lines": [
+    17421,
+    17422
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d1d4335ca440100f417d5bbda2dba35cf24f2b6150c8ebfc9375762f646b1b7f"
+  },
+  {
+   "passage_id": "tal-a37-v13",
+   "start": 768300,
+   "end": 768434,
+   "vol_lines": [
+    17424,
+    17425
+   ],
+   "legacy_coords": null,
+   "text_sha256": "320388c6c25ca9227f19e2300ca517a7c597eb06d2bfc2ff0586d3863ff965d5"
+  },
+  {
+   "passage_id": "tal-a37-v14",
+   "start": 768435,
+   "end": 768563,
+   "vol_lines": [
+    17427,
+    17428
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9ba8b511044769d481f705409021a2a1aee1ee5c7a1c3c4ee044da8d7fdcceea"
+  },
+  {
+   "passage_id": "tal-a37-v15",
+   "start": 768564,
+   "end": 768698,
+   "vol_lines": [
+    17430,
+    17431
+   ],
+   "legacy_coords": null,
+   "text_sha256": "aec08b7343038b17830e402f49b10826bf7ccf49ac489491aa26d4a2ff915848"
+  },
+  {
+   "passage_id": "tal-a37-v16",
+   "start": 768699,
+   "end": 768834,
+   "vol_lines": [
+    17433,
+    17434
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9fd5a472b2771854e80e4606b5a76a2183ff1ce0355f45cc30a56a62f9ed9744"
+  },
+  {
+   "passage_id": "tal-a37-v17",
+   "start": 768835,
+   "end": 768981,
+   "vol_lines": [
+    17436,
+    17437
+   ],
+   "legacy_coords": null,
+   "text_sha256": "df6d0ebce523ce76a3a84a0c27461bc1105ba42ab657efbcef91886cde1824d7"
+  },
+  {
+   "passage_id": "tal-a37-v18",
+   "start": 768982,
+   "end": 769114,
+   "vol_lines": [
+    17439,
+    17440
+   ],
+   "legacy_coords": null,
+   "text_sha256": "eb6b1cc051a713a23844cd6f7c9e6e97ff531a2dbd6f943348af3649292d5b15"
+  },
+  {
+   "passage_id": "tal-a37-v19",
+   "start": 769115,
+   "end": 769247,
+   "vol_lines": [
+    17442,
+    17443
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5121ecaa3d73f15fb6c930f3cfc4812b0802f7f7e07715277f9c9bcd95e17d87"
+  },
+  {
+   "passage_id": "tal-a37-v20",
+   "start": 769248,
+   "end": 769366,
+   "vol_lines": [
+    17445,
+    17446
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a357f8a033da931592041abb31f970903e483833d8550207c5cc78d0390ef952"
+  },
+  {
+   "passage_id": "tal-a37-v21",
+   "start": 769367,
+   "end": 769503,
+   "vol_lines": [
+    17448,
+    17449
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c9c965e5cc2bf03452803b59f776776d783a0957350a865bca39a0b2745fbcf7"
+  },
+  {
+   "passage_id": "tal-a37-v22",
+   "start": 769504,
+   "end": 769636,
+   "vol_lines": [
+    17451,
+    17452
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e151f46bf5dd0825c805ba43a5864f07a274e0df4ed0fb8afcb41358ecb7ffa3"
+  },
+  {
+   "passage_id": "tal-a37-v23",
+   "start": 769637,
+   "end": 769773,
+   "vol_lines": [
+    17454,
+    17455
+   ],
+   "legacy_coords": null,
+   "text_sha256": "350293a6a635c8cbbb21a67e1faf3caf5c0fe1f6fbdf263be4ac9614320dc248"
+  },
+  {
+   "passage_id": "tal-a37-v24",
+   "start": 769774,
+   "end": 769905,
+   "vol_lines": [
+    17457,
+    17458
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3af1d1d1e2fc8ad351e6778a74b22308a2a147b31d51516e564d3dd955b351d9"
+  },
+  {
+   "passage_id": "tal-a37-v25",
+   "start": 769906,
+   "end": 770024,
+   "vol_lines": [
+    17460,
+    17461
+   ],
+   "legacy_coords": null,
+   "text_sha256": "1f59b0a96a69b4606f270a79b7dedb3fb6c712b9be322f133dabf39f0c9fb7f5"
+  },
+  {
+   "passage_id": "tal-a37-v26",
+   "start": 770025,
+   "end": 770153,
+   "vol_lines": [
+    17463,
+    17464
+   ],
+   "legacy_coords": null,
+   "text_sha256": "71b8e6a547456acab9408135d4e8db9aefe44db714e5c98114b290f9e1643c2f"
+  },
+  {
+   "passage_id": "tal-a37-v27",
+   "start": 770154,
+   "end": 770288,
+   "vol_lines": [
+    17466,
+    17467
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9bd6a47b86f3b524fd94a1f1d57572063c6247161b9484dbefe2dd9119e7529e"
+  },
+  {
+   "passage_id": "tal-a37-v28",
+   "start": 770289,
+   "end": 770417,
+   "vol_lines": [
+    17469,
+    17470
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5b67f0564d306a98bc486ad3eeb8ab85cbd072604f8ad28646a727ead4b2669d"
+  },
+  {
+   "passage_id": "tal-a37-v29",
+   "start": 770418,
+   "end": 770544,
+   "vol_lines": [
+    17472,
+    17473
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ae9c971585832b24e7bc1fb8a674bc2a0529ad2ef8106be5a94e999f0b6f56b6"
+  },
+  {
+   "passage_id": "tal-a37-v30",
+   "start": 770545,
+   "end": 770665,
+   "vol_lines": [
+    17475,
+    17476
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9a0e11f26b0a17bef456a613a14b3b1bc3ec6fe02dacc84459dbc5c5d306dadc"
+  },
+  {
+   "passage_id": "tal-a37-v31",
+   "start": 770666,
+   "end": 770784,
+   "vol_lines": [
+    17478,
+    17479
+   ],
+   "legacy_coords": null,
+   "text_sha256": "857d96150992cddb04a7f9c11800d155e73c18896281158f0df739f95625bd10"
+  },
+  {
+   "passage_id": "tal-a37-v32",
+   "start": 770785,
+   "end": 770900,
+   "vol_lines": [
+    17481,
+    17482
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9a8ded1b580153f4e45c06f26463fd5f949d43e8adf431bb63d528d0be574251"
+  },
+  {
+   "passage_id": "tal-a37-v33",
+   "start": 770901,
+   "end": 771130,
+   "vol_lines": [
+    17484,
+    17486
+   ],
+   "legacy_coords": null,
+   "text_sha256": "bb510d04f350b2365a28d6d145edea38971aa006694e32bdb4978ea8afbebd2f"
+  },
+  {
+   "passage_id": "tal-a37-v34",
+   "start": 771131,
+   "end": 771323,
+   "vol_lines": [
+    17488,
+    17489
+   ],
+   "legacy_coords": null,
+   "text_sha256": "8212cceefd91f946b8ab1b3f6e255990e82dd18831fc5ff89f453d9168f94d18"
+  },
+  {
+   "passage_id": "tal-a37-v35",
+   "start": 771324,
+   "end": 771513,
+   "vol_lines": [
+    17491,
+    17492
+   ],
+   "legacy_coords": null,
+   "text_sha256": "4d5ce32dc9c8b2cbb63ecd080cfd94ef1c6ebaf496abb7a87e467addb3055a92"
+  },
+  {
+   "passage_id": "tal-a37-v36",
+   "start": 771514,
+   "end": 771702,
+   "vol_lines": [
+    17494,
+    17495
+   ],
+   "legacy_coords": null,
+   "text_sha256": "13ac9d0fcadb27bc92b2f62fa8cf6dc115c1e0f4ab04a76d3636507b8950109d"
+  },
+  {
+   "passage_id": "tal-a37-v37",
+   "start": 771703,
+   "end": 771903,
+   "vol_lines": [
+    17497,
+    17498
+   ],
+   "legacy_coords": null,
+   "text_sha256": "cdf68030e195e03ec8e1c8af4adb650a4fd5281ba48b8c5acd9cf84d6613571f"
+  },
+  {
+   "passage_id": "tal-a37-v38",
+   "start": 771904,
+   "end": 772101,
+   "vol_lines": [
+    17500,
+    17501
+   ],
+   "legacy_coords": null,
+   "text_sha256": "0e4e33db185afa0b555f54331ae9cf40f3ba1c2e8fdcb098f0f3f8e8ef93cd87"
+  },
+  {
+   "passage_id": "tal-a37-v39",
+   "start": 772102,
+   "end": 772330,
+   "vol_lines": [
+    17503,
+    17504
+   ],
+   "legacy_coords": null,
+   "text_sha256": "bf6669f6008ff8b171e79f1e3da97948286d14693f7cf87ed24e47cd299e455d"
+  },
+  {
+   "passage_id": "tal-a37-v40",
+   "start": 772331,
+   "end": 772588,
+   "vol_lines": [
+    17506,
+    17507
+   ],
+   "legacy_coords": null,
+   "text_sha256": "21f9a769974964bfb430e94f752a1059b9270e1c9893c0e0619549f2e85fd0c0"
+  },
+  {
+   "passage_id": "tal-a37-v41",
+   "start": 772589,
+   "end": 772757,
+   "vol_lines": [
+    17509,
+    17510
+   ],
+   "legacy_coords": null,
+   "text_sha256": "357bfc1a078a23a49a797c0b51a6c17a0b30d9d2d235c23c2107f427d035c33b"
+  },
+  {
+   "passage_id": "tal-a37-v42",
+   "start": 772758,
+   "end": 773019,
+   "vol_lines": [
+    17512,
+    17513
+   ],
+   "legacy_coords": null,
+   "text_sha256": "068cfb78949da7c4deb4c59fef03cbc20ee41f47592b63d945875b884c31c123"
+  },
+  {
+   "passage_id": "tal-a37-v43",
+   "start": 773020,
+   "end": 773241,
+   "vol_lines": [
+    17515,
+    17516
+   ],
+   "legacy_coords": null,
+   "text_sha256": "02ae0bd74dccb4baee77d6f8de46507b62f1af11dd9bda55f82bd9f3609bffb2"
+  },
+  {
+   "passage_id": "tal-a37-v44",
+   "start": 773242,
+   "end": 773483,
+   "vol_lines": [
+    17518,
+    17519
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b0ca2ae24e41819d915b051b9b0316fb585b8600372d6543556aab8ba0f94949"
+  },
+  {
+   "passage_id": "tal-a37-v45",
+   "start": 773484,
+   "end": 773722,
+   "vol_lines": [
+    17521,
+    17522
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e09f107bdd0cf2a8278e3661edfcf621807122cc576450f9f7ab495b74222b3e"
+  },
+  {
+   "passage_id": "tal-a37-v46",
+   "start": 773723,
+   "end": 773959,
+   "vol_lines": [
+    17524,
+    17525
+   ],
+   "legacy_coords": null,
+   "text_sha256": "48996cd5e28f4ba7c2ba9aee5f6f1e21a49dcab6636de834fc7d362f4eb442a0"
+  },
+  {
+   "passage_id": "tal-a37-v47",
+   "start": 773960,
+   "end": 774161,
+   "vol_lines": [
+    17527,
+    17528
+   ],
+   "legacy_coords": null,
+   "text_sha256": "450f6924fae239ff7978cc543c534c7fd818affc2f87e24ab9a10bb90f6ab96f"
+  },
+  {
+   "passage_id": "tal-a37-v48",
+   "start": 774162,
+   "end": 774350,
+   "vol_lines": [
+    17530,
+    17531
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ebde9393b365513b613c236fb21bf3fd79326ee7083526cccd6de2b066f097da"
+  },
+  {
+   "passage_id": "tal-a37-v49",
+   "start": 774351,
+   "end": 774545,
+   "vol_lines": [
+    17533,
+    17534
+   ],
+   "legacy_coords": null,
+   "text_sha256": "6ce55e3f76d82293dc188438c292de411692ec0cabbd2fb5e78ad7c9d33fd810"
+  },
+  {
+   "passage_id": "tal-a37-v50",
+   "start": 774546,
+   "end": 774736,
+   "vol_lines": [
+    17536,
+    17537
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e358e7c00ed9193702b51bbf829204978c58665b3f6cb58e7b023d9581fd75c6"
+  },
+  {
+   "passage_id": "tal-a37-v51",
+   "start": 774737,
+   "end": 774924,
+   "vol_lines": [
+    17539,
+    17540
+   ],
+   "legacy_coords": null,
+   "text_sha256": "60d5f58316469051197e20303a06c49f2eb211232853dc71b82e0a921b3b286a"
+  },
+  {
+   "passage_id": "tal-a37-v52",
+   "start": 774925,
+   "end": 775112,
+   "vol_lines": [
+    17542,
+    17543
+   ],
+   "legacy_coords": null,
+   "text_sha256": "31906bb775cc04e46633bd696b2bbfd38e763b888928c690b4f5414bb8268f8b"
+  },
+  {
+   "passage_id": "tal-a37-v53",
+   "start": 775113,
+   "end": 775294,
+   "vol_lines": [
+    17545,
+    17546
+   ],
+   "legacy_coords": null,
+   "text_sha256": "06214f7aa2afadec178401915e72cf3d64e8ddae6df15b1747504d46a31c72f8"
+  },
+  {
+   "passage_id": "tal-a37-v54",
+   "start": 775295,
+   "end": 775494,
+   "vol_lines": [
+    17548,
+    17549
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a189d9bc489ed4e75591315c0c96bc470f3e1d0f4821b7c4a51d5f4e952c7dbd"
+  },
+  {
+   "passage_id": "tal-a37-v55",
+   "start": 775495,
+   "end": 775687,
+   "vol_lines": [
+    17551,
+    17552
+   ],
+   "legacy_coords": null,
+   "text_sha256": "295c18407575719b4afa715a3617ed9d3fc5f95a57e45e13dfe0bbfe486d257e"
+  },
+  {
+   "passage_id": "tal-a37-v56",
+   "start": 775688,
+   "end": 775883,
+   "vol_lines": [
+    17554,
+    17555
+   ],
+   "legacy_coords": null,
+   "text_sha256": "9fc14f00820b7fa3f74b78169721f0f8d2d886d8518b4dc656aee2f48791be4b"
+  },
+  {
+   "passage_id": "tal-a37-v57",
+   "start": 775884,
+   "end": 776045,
+   "vol_lines": [
+    17557,
+    17558
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b72e5125a4a49e161b12c39fb5bcf9348850e16dd7892ea2ff131c7d5dceb5d4"
+  },
+  {
+   "passage_id": "tal-a37-v58",
+   "start": 776046,
+   "end": 776241,
+   "vol_lines": [
+    17560,
+    17561
+   ],
+   "legacy_coords": null,
+   "text_sha256": "55d8e4a06b1c456abef8d61f480610034a2a2713977a9636a8face2144c18283"
+  },
+  {
+   "passage_id": "tal-a37-v59",
+   "start": 776242,
+   "end": 776408,
+   "vol_lines": [
+    17563,
+    17564
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5864d2e869b5d9977807f29386cca6945f5d168e96679dcf322159ff43bb53ad"
+  },
+  {
+   "passage_id": "tal-a37-v60",
+   "start": 776409,
+   "end": 776609,
+   "vol_lines": [
+    17566,
+    17567
+   ],
+   "legacy_coords": null,
+   "text_sha256": "7a42d9ba9ee96bcd05c2090519a55023acc0e3423ba38a17bc4a4d252fa7260e"
+  },
+  {
+   "passage_id": "tal-a37-v61",
+   "start": 776610,
+   "end": 776806,
+   "vol_lines": [
+    17569,
+    17570
+   ],
+   "legacy_coords": null,
+   "text_sha256": "7c5a8d27d0970a3c5bb9197b36314e75d55f4d0bff2bebfd423c6c441d5d18a0"
+  },
+  {
+   "passage_id": "tal-a37-v62",
+   "start": 776807,
+   "end": 776997,
+   "vol_lines": [
+    17572,
+    17573
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d1019931d055c124dc8103073f094fcbd2dc6bec8fd54c42c66d239a6bca592d"
+  },
+  {
+   "passage_id": "tal-a37-v63",
+   "start": 776998,
+   "end": 777239,
+   "vol_lines": [
+    17575,
+    17576
+   ],
+   "legacy_coords": null,
+   "text_sha256": "985ec655ca94082255bab276d60f058b72cfca70ec4ac0bea80e3dfcca4e9ecd"
+  },
+  {
+   "passage_id": "tal-a37-v64",
+   "start": 777240,
+   "end": 777443,
+   "vol_lines": [
+    17578,
+    17579
+   ],
+   "legacy_coords": null,
+   "text_sha256": "0982aee9a01482ccbdd3ab2429ecf857a959e76b8ea8514aca6da3f1b1e2cae9"
+  },
+  {
+   "passage_id": "tal-a37-v65",
+   "start": 777444,
+   "end": 777652,
+   "vol_lines": [
+    17581,
+    17582
+   ],
+   "legacy_coords": null,
+   "text_sha256": "a73367be71d83c70ae169c0a3d383d94d42cbc78f57b9bafb632cbe1bccf5987"
+  },
+  {
+   "passage_id": "tal-a37-v66",
+   "start": 777653,
+   "end": 777852,
+   "vol_lines": [
+    17584,
+    17585
+   ],
+   "legacy_coords": null,
+   "text_sha256": "02317b597a56e0051396a0f5010feb3452a34dc1ea32991bbaa6463735671b5f"
+  },
+  {
+   "passage_id": "tal-a37-v67",
+   "start": 777853,
+   "end": 778067,
+   "vol_lines": [
+    17587,
+    17588
+   ],
+   "legacy_coords": null,
+   "text_sha256": "c43e414561564ce39b7f7cd7d5a27ca8d67befe681a1cdde96d9911378326aaf"
+  },
+  {
+   "passage_id": "tal-a37-v68",
+   "start": 778068,
+   "end": 778228,
+   "vol_lines": [
+    17590,
+    17591
+   ],
+   "legacy_coords": null,
+   "text_sha256": "68829d672548027ed07cd127eaf8d99551787662ba71b91811299beb875ced1e"
+  },
+  {
+   "passage_id": "tal-a37-v69",
+   "start": 778229,
+   "end": 778422,
+   "vol_lines": [
+    17593,
+    17594
+   ],
+   "legacy_coords": null,
+   "text_sha256": "f7e0b39d4aac9fb1b23100b0d17a5771eb0f77c9da6b5e84e2e9740892e65d2f"
+  },
+  {
+   "passage_id": "tal-a37-v70",
+   "start": 778423,
+   "end": 778593,
+   "vol_lines": [
+    17596,
+    17597
+   ],
+   "legacy_coords": null,
+   "text_sha256": "2111ac0cf9d75334d6e9c8366baeaa5926df8be16b42f1ba7df5adb6e7575c04"
+  },
+  {
+   "passage_id": "tal-a37-v71",
+   "start": 778594,
+   "end": 778783,
+   "vol_lines": [
+    17599,
+    17600
+   ],
+   "legacy_coords": null,
+   "text_sha256": "69fba581e15334d47c35b59a594591048689bec90a3574630c46f4946193efa5"
+  },
+  {
+   "passage_id": "tal-a37-v72",
+   "start": 778784,
+   "end": 778971,
+   "vol_lines": [
+    17602,
+    17603
+   ],
+   "legacy_coords": null,
+   "text_sha256": "83bd6eaa547df11fee4ef88d124fb52b05578b7502d1ecf2d3a40a3de8449a19"
+  },
+  {
+   "passage_id": "tal-a37-v73",
+   "start": 778972,
+   "end": 779163,
+   "vol_lines": [
+    17605,
+    17606
+   ],
+   "legacy_coords": null,
+   "text_sha256": "145ffbf546a20ec5f462446af4e3fb387b138deaa4aa0ac482bd903582f3f6ca"
+  },
+  {
+   "passage_id": "tal-a37-v74",
+   "start": 779164,
+   "end": 779355,
+   "vol_lines": [
+    17608,
+    17609
+   ],
+   "legacy_coords": null,
+   "text_sha256": "5fe48b040908306ca464dac9a359b30c28b62409caa283dd6fd01e9371b402ac"
+  },
+  {
+   "passage_id": "tal-a37-v75",
+   "start": 779356,
+   "end": 779525,
+   "vol_lines": [
+    17611,
+    17612
+   ],
+   "legacy_coords": null,
+   "text_sha256": "2462d065dd120cbbf50946492f3bb52523e6da7a31962f573418b2b182adf540"
+  },
+  {
+   "passage_id": "tal-a37-v76",
+   "start": 779526,
+   "end": 779688,
+   "vol_lines": [
+    17614,
+    17615
+   ],
+   "legacy_coords": null,
+   "text_sha256": "60c254971a925c5c1180e850e79bf15c3bdf728e14ec3b01262743ca581d23e0"
+  },
+  {
+   "passage_id": "tal-a37-v77",
+   "start": 779689,
+   "end": 779888,
+   "vol_lines": [
+    17617,
+    17618
+   ],
+   "legacy_coords": null,
+   "text_sha256": "56a92630114aff9225b57f4d285a3cb58811d8d6fc0fa3a665ce710491999caa"
+  },
+  {
+   "passage_id": "tal-a37-v78",
+   "start": 779889,
+   "end": 780107,
+   "vol_lines": [
+    17620,
+    17621
+   ],
+   "legacy_coords": null,
+   "text_sha256": "2f9289690ceb90a0944a3ca362c5c1a7ae92ce9723aa8b5c4842f6e572031de4"
+  },
+  {
+   "passage_id": "tal-a37-v79",
+   "start": 780108,
+   "end": 780288,
+   "vol_lines": [
+    17623,
+    17624
+   ],
+   "legacy_coords": null,
+   "text_sha256": "58cadc6904ff1f415ecd27ba40e1f2c93f0c8b74fc8548afda712841cb349cc0"
+  },
+  {
+   "passage_id": "tal-a37-v80",
+   "start": 780289,
+   "end": 780454,
+   "vol_lines": [
+    17626,
+    17627
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b27b3eb9a8c421bef3c18d0aec1c88613ef13e61b6aef5070b0c77243fa25419"
+  },
+  {
+   "passage_id": "tal-a37-v81",
+   "start": 780455,
+   "end": 780653,
+   "vol_lines": [
+    17629,
+    17630
+   ],
+   "legacy_coords": null,
+   "text_sha256": "3965b813613f7750ab854352c903bca3dfa574e596db5734fba083498dae7365"
+  },
+  {
+   "passage_id": "tal-a37-v82",
+   "start": 780654,
+   "end": 780828,
+   "vol_lines": [
+    17632,
+    17633
+   ],
+   "legacy_coords": null,
+   "text_sha256": "235d384404867d17970a4c7fdc47b253937ff65741a369b94e4c79b25fbd6643"
+  },
+  {
+   "passage_id": "tal-a37-v83",
+   "start": 780829,
+   "end": 780990,
+   "vol_lines": [
+    17635,
+    17636
+   ],
+   "legacy_coords": null,
+   "text_sha256": "16ca0f0c44185d0acfdabe285cc43bfd39e43c1521023d2d7ade242089965600"
+  },
+  {
+   "passage_id": "tal-a37-v84",
+   "start": 780991,
+   "end": 781180,
+   "vol_lines": [
+    17638,
+    17639
+   ],
+   "legacy_coords": null,
+   "text_sha256": "fa83dd062bce448505b6a1eec43c6a07619ba8835a23e9fd923383c798502dfc"
+  },
+  {
+   "passage_id": "tal-a37-v85",
+   "start": 781181,
+   "end": 781387,
+   "vol_lines": [
+    17641,
+    17642
+   ],
+   "legacy_coords": null,
+   "text_sha256": "6203a3655fd4d38f9a155c49ac432876c92927f94abd2dcef24ce1cbc79d28dd"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 766764,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.) · CC BY-NC-SA 4.0\n###"
+  }
+ ],
+ "supersedes": null
+}

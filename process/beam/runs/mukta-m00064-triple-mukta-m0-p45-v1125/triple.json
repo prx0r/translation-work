@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a hypothetical protasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akārya",
+     "gloss": "wrong-deed",
+     "grounds": "object of ācaret; deed not to be done",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "quantifies akārya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "subject of the hypothetical action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphasizes personal agency of the subject",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "may-perform",
+     "grounds": "optative verb expressing hypothetical action; root ā-√car",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "Can a brahmin's personal commission of a hundred wrongful deeds be hypothetically supposed?",
+   "premises": [
+    "A conditional situation is introduced for consideration.",
+    "The agent in question is a brahmin acting personally.",
+    "The hypothetical action consists of a hundred wrongful deeds."
+   ],
+   "inference": "The verse poses the hypothetical case in which a brahmin himself performs a hundred wrongful deeds.",
+   "uncertainties": [
+    "The apodosis or consequence of this condition is not stated in this verse and depends on following context."
+   ],
+   "plain_english": "O goddess, if a brahmin himself were to commit a hundred wrongful deeds..."
+  }
+ ]
+}

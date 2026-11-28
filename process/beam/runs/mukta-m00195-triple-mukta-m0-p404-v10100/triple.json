@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p404",
+ "items": [
+  {
+   "verse": 10100,
+   "rows": [
+    {
+     "surface": "siddhamantras",
+     "gloss": "accomplished-mantra",
+     "grounds": "compound siddha-mantra; subject denoting one whose mantra is perfected",
+     "morph": "m.nom.sg (compound: siddha+mantra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkālam",
+     "gloss": "at-that-time",
+     "grounds": "temporal expression indicating immediacy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-become",
+     "grounds": "optative of √bhū expressing resulting state",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the sphere of manifestation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "balādhikaḥ",
+     "gloss": "superior-in-strength",
+     "grounds": "compound bala-adhika; predicate describing the resulting condition",
+     "morph": "m.nom.sg (compound: bala+adhika)"
+    }
+   ],
+   "question": "What immediate condition and strength does an accomplished-mantra practitioner attain on earth?",
+   "premises": [
+    "A practitioner possesses an accomplished mantra.",
+    "The resulting state arises at that very time.",
+    "The practitioner becomes superior in strength on earth."
+   ],
+   "inference": "Mantra accomplishment immediately confers superior strength upon the practitioner in the earthly realm.",
+   "uncertainties": [],
+   "plain_english": "But one whose mantra is accomplished immediately becomes superior in strength on earth."
+  }
+ ]
+}

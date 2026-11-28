@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "temporal adverb introducing the next action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kruddho",
+     "gloss": "angry",
+     "grounds": "adjective describing Vishukra's state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśukro",
+     "gloss": "vishukra",
+     "grounds": "proper name acting as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "also",
+     "grounds": "particle adding Vishukra to the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gadām",
+     "gloss": "mace",
+     "grounds": "object that is raised",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "udyamya",
+     "gloss": "raising",
+     "grounds": "absolutive expressing the action of lifting",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vegataḥ",
+     "gloss": "swiftly",
+     "grounds": "adverb indicating speed of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action does Vishukra take when angered in battle?",
+   "premises": [
+    "Vishukra becomes angry.",
+    "He raises his mace.",
+    "He acts swiftly."
+   ],
+   "inference": "Vishukra prepares a swift counterattack.",
+   "uncertainties": [
+    "The verse fragment does not state the result of the action."
+   ],
+   "plain_english": "Then Vishukra, angry, also raises his mace swiftly."
+  }
+ ]
+}

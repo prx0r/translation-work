@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular masculine/neuter of tad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sāṃvatsarī",
+     "gloss": "annual",
+     "grounds": "feminine nominative singular agreeing with pūjā",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of the sentence",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "predicate adjective with pūjā",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative third singular active of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Under what condition does the annual worship become fruitful?",
+   "premises": [
+    "annual worship becomes fruitful",
+    "otherwise it does not",
+    "proper performance is required"
+   ],
+   "inference": "The verse states that annual worship yields fruit only when performed as prescribed, not otherwise.",
+   "uncertainties": [
+    "the exact ritual conditions making the worship fruitful are not specified in this verse"
+   ],
+   "plain_english": "His annual worship becomes fruitful; otherwise it does not."
+  }
+ ]
+}

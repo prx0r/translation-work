@@ -1,0 +1,77 @@
+# mukta-m00166 mukta-m0-p73
+*Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
+
+## mukta-m0-p73-v1801
+[page](p.) [222](222) [skilled](dakṣā)
+
+## mukta-m0-p73-v1802
+[skilled](dakṣā) [other](tadanyā) [which](katamā) [exists](tadasti)
+
+## mukta-m0-p73-v1803
+[born-of-dakṣa](dakṣajā)
+
+## mukta-m0-p73-v1804
+[not](na) [but](tu) [because](yasmāt) [therefore](tataḥ) [truth](satyaṃ) [born-of-dakṣa](dakṣajā) [you-are](asi) [world-mother](jagatprasūḥ)
+
+## mukta-m0-p73-v1805
+[million-formed](koṭirūpiṇī)
+
+## mukta-m0-p73-v1806
+[million-formed-ness](koṭirūpitvam) [obtained](āptaḥ) [being](san) [one](ekaḥ) [am](asmi) [today](adya) [also](api) [certain](niścitam)
+
+## mukta-m0-p73-v1807
+[sacrifice](kratuḥ)
+
+## mukta-m0-p73-v1808
+[became](abhūt) [provision-pervading](sambhāranīvyāpi) [of-sacrifices](kratūnām) [also](api) [she](sā) [sacrifice](kratuḥ)
+
+## mukta-m0-p73-v1809
+[kātyāyanī](kātyāyanī)
+
+## mukta-m0-p73-v1810
+[kātyāyanī](kātyāyanī) [protect](pātu) [from-death-established](kṛtāntasiddhāt)
+
+## mukta-m0-p73-v1811
+[page](p.) [223](223) [pure](svacchā)
+
+## mukta-m0-p73-v1812
+[pure](svacchā) [vile](tucchā) [slayer-of-ego](ahantvahartrī) [yours](tavāstu)
+
+## mukta-m0-p73-v1813
+[self-willed](svacchandā)
+
+## mukta-m0-p73-v1814
+[self-willed](svacchandā) [may-be](syā) [not-by-self](nātmanā) [non-dual-attainable](advaitagamyā)
+
+## mukta-m0-p73-v1815
+[poet-beloved](kavipriyā)
+
+## mukta-m0-p73-v1816
+[renowned](prathitaṃ) [who](yo) [indeed](hi) [poet-beloved-disliked](kavipriyāpriyaḥ) [may-be](syāt)
+
+## mukta-m0-p73-v1817
+[truth-revealed](satyāgamā)
+
+## mukta-m0-p73-v1818
+[going](gamā) [non-going](agamaṃ) [unerring](nirbhramam) [you-spread](ātanoṣi)
+
+## mukta-m0-p73-v1819
+[page](p.) [224](224) [standing-outside](bahiḥsthā)
+
+## mukta-m0-p73-v1820
+[all-one-stream-flowing](sarvaikadhārāprasarā) [standing-outside](bahiḥsthā)
+
+## mukta-m0-p73-v1821
+[poetic-power](kāvyaśaktiḥ)
+
+## mukta-m0-p73-v1822
+[as-long-as](yāvat) [not-this](naiṣā) [shines](vilasati) [in-own](nije) [mind-sky](cittakhe) [poetic-power](kāvyaśaktiḥ)
+
+## mukta-m0-p73-v1823
+[poetry-giving](kavitvadā)
+
+## mukta-m0-p73-v1824
+[having-heard](cchrutvā) [mind](manāḥ) [may-be](syāt) [good-minded-group](sumanogaṇo) [also](api)
+
+## mukta-m0-p73-v1825
+[menā-daughter](menāputrī)

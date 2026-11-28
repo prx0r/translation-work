@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "sāraṃ",
+     "gloss": "essence",
+     "grounds": "object of pītaṃ; the essential part contrasted with takraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast between yogis and scholars",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "by-yogis",
+     "grounds": "agents who have drunk the essence",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "drunk",
+     "grounds": "past passive participle agreeing with sāraṃ; root pā",
+     "morph": "ppp.n.acc.sg√pā"
+    },
+    {
+     "surface": "takraṃ",
+     "gloss": "buttermilk",
+     "grounds": "object of pibanti; residue contrasted with sāraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pibanti",
+     "gloss": "drink",
+     "grounds": "present action attributed to scholars; root pā",
+     "morph": "3.pl.pres.act√pā"
+    },
+    {
+     "surface": "paṇḍitāḥ",
+     "gloss": "scholars",
+     "grounds": "subjects who consume the buttermilk rather than the essence",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What distinguishes the yogis' attainment of essence from the scholars' mere consumption?",
+   "premises": [
+    "Yogis have drunk the essence.",
+    "Scholars drink the buttermilk.",
+    "Essence and buttermilk represent superior and inferior portions of the same source."
+   ],
+   "inference": "Direct yogic realization attains the essential truth, while mere scholarship remains with its derivative residue.",
+   "uncertainties": [],
+   "plain_english": "The yogis have drunk the essence, but the scholars drink the buttermilk."
+  }
+ ]
+}

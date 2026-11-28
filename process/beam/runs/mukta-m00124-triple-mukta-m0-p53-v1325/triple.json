@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "agnaye+vāmataḥ",
+     "gloss": "to-fire-on-left",
+     "grounds": "Fused form: agnaye (to Agni) + vāmataḥ (on the left); indicates the deity and position for the oblation.",
+     "morph": "agnaye(d.dat.sg.m)+vāmataḥ(indecl.)"
+    },
+    {
+     "surface": "somāyeti",
+     "gloss": "to-soma-thus",
+     "grounds": "Fused form: somāya (to Soma) + iti (thus/so saying); marks the second deity invoked by the mantra.",
+     "morph": "somāya(d.dat.sg.m)+iti(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "Instrument by which the oblation is performed.",
+     "morph": "i.sg.m"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer",
+     "grounds": "Prescribes the ritual act of oblation.",
+     "morph": "3.sg.opt.act √hu"
+    }
+   ],
+   "question": "Which deities and mantra are prescribed for performing the oblation in this ritual arrangement?",
+   "premises": [
+    "The oblation is directed to Agni on the left.",
+    "The oblation is directed to Soma as indicated by the mantra.",
+    "The act of offering is to be performed using a mantra."
+   ],
+   "inference": "Therefore, one should perform the oblation with the mantra, addressing Agni on the left and Soma.",
+   "uncertainties": [
+    "The exact wording of the mantra referred to by iti is not specified in this verse."
+   ],
+   "plain_english": "One should offer the oblation with the mantra, addressing Agni on the left and Soma."
+  }
+ ]
+}

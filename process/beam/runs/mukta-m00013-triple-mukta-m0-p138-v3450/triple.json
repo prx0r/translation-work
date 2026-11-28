@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act-optative √likh"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tri+jagati",
+     "gloss": "in-three-worlds",
+     "grounds": "compound indicating scope; tri+three, jagat+world",
+     "morph": "compound loc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "correlative pronoun identifying the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "status attained by the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkarasya",
+     "gloss": "of-śaṅkara",
+     "grounds": "denotes one to whom guru status applies",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending the claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "denotes another to whom guru status applies",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What exalted status does one who writes this attain in the three worlds?",
+   "premises": [
+    "The prescribed act is writing the stated inscription.",
+    "The agent of this writing is identified as 'he who writes'.",
+    "The attained status is described as guru of Śaṅkara and even Viṣṇu."
+   ],
+   "inference": "Therefore, whoever writes this becomes a guru to Śaṅkara and even Viṣṇu throughout the three worlds.",
+   "uncertainties": [
+    "The precise ritual or symbolic sense of being guru to Śaṅkara and Viṣṇu is not specified."
+   ],
+   "plain_english": "Whoever writes this becomes, in the three worlds, a guru even to Śaṅkara and to Viṣṇu."
+  }
+ ]
+}

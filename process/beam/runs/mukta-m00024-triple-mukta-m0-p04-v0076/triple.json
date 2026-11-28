@@ -1,0 +1,463 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "nagnas",
+     "gloss": "naked",
+     "grounds": "describes an unconcealed state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitān",
+     "gloss": "described",
+     "grounds": "refers to what has been stated",
+     "morph": "m.acc.pl.past-participle"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "divine figures previously mentioned",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mukta",
+     "gloss": "loose",
+     "grounds": "first member indicating released state",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "keśān",
+     "gloss": "hair",
+     "grounds": "second member denoting hair",
+     "morph": "m.acc.pl.compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "signals sequence in instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to receive teaching",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What instruction follows the account of naked gods regarding the loose-haired state?",
+   "premises": [
+    "Naked gods have already been described",
+    "Loose-haired figures are introduced next",
+    "The listener is commanded to hear further"
+   ],
+   "inference": "The teaching proceeds from naked gods to the meaning of loose hair",
+   "uncertainties": [
+    "Whether nagnas qualifies devān or stands independently"
+   ],
+   "plain_english": "But the naked gods have been described; now listen about those with loose hair."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "dharmas",
+     "gloss": "dharma",
+     "grounds": "principle or prescribed nature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "indicates a single factor",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāśaś",
+     "gloss": "bond",
+     "grounds": "binding constraint or noose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "marks particular emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is dharma not determined by a single bond alone?",
+   "premises": [
+    "Dharma is named as the subject",
+    "A single factor is explicitly negated",
+    "Bondage is especially emphasized in the negation"
+   ],
+   "inference": "Dharma cannot be reduced to one bond in particular",
+   "uncertainties": [
+    "Exact syntactic relation between dharmas and pāśaś in this lacunose context"
+   ],
+   "plain_english": "But dharma is not by one alone, and especially not by a single bond."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "mukta",
+     "gloss": "loose",
+     "grounds": "first member indicating released state",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "keśaḥ",
+     "gloss": "haired",
+     "grounds": "second member denoting hair",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "samākhyāta",
+     "gloss": "declared",
+     "grounds": "states a defined identification",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "ānandaṃ",
+     "gloss": "bliss",
+     "grounds": "object of the next instruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to receive teaching",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "marks present stage of exposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identification of the loose-haired state leads into the teaching on bliss?",
+   "premises": [
+    "The loose-haired state is declared",
+    "Bliss is presented as the next topic",
+    "The listener is told to hear now"
+   ],
+   "inference": "The exposition moves from the loose-haired state to an explanation of bliss",
+   "uncertainties": [
+    "Whether samākhyāta completes a prior definition or begins a new one"
+   ],
+   "plain_english": "The loose-haired one is declared; now listen about bliss."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "pāna",
+     "gloss": "drink",
+     "grounds": "first member indicating drinking",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "union",
+     "grounds": "second member indicating yogic conjunction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "immortal or divine substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "qualifies the nectar as transcendent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogins",
+     "grounds": "identifies the practitioners concerned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samprakīrtitam",
+     "gloss": "well-proclaimed",
+     "grounds": "states authoritative teaching",
+     "morph": "n.nom.sg.past-participle"
+    }
+   ],
+   "question": "How is the divine nectar defined within the yogins' drink-union practice?",
+   "premises": [
+    "Drink-union is named as a compound practice",
+    "The nectar is called divine",
+    "This identification is proclaimed for yogins"
+   ],
+   "inference": "For yogins, the nectar of drink-union is taught as divine",
+   "uncertainties": [
+    "Whether pāna-yoga refers to ritual drinking or inner yogic absorption"
+   ],
+   "plain_english": "The divine nectar of drink-union is well proclaimed for yogins."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "madirā",
+     "gloss": "liquor",
+     "grounds": "first member indicating intoxicating drink",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ānandam",
+     "gloss": "bliss",
+     "grounds": "second member indicating joy",
+     "morph": "n.nom.sg.compound"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states a defined identification",
+     "morph": "n.nom.sg.past-participle"
+    },
+    {
+     "surface": "nairmālya",
+     "gloss": "offering-remnant",
+     "grounds": "first member indicating sacred remains",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālino",
+     "gloss": "garlanded",
+     "grounds": "second member indicating one bearing garlands",
+     "morph": "m.acc.sg.compound"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to receive teaching",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What esoteric meaning links liquor-bliss to the garlanded remnant-bearer?",
+   "premises": [
+    "Liquor-bliss is declared as a term",
+    "The garlanded remnant-bearer is introduced next",
+    "The listener is commanded to hear"
+   ],
+   "inference": "The teaching equates or connects liquor-bliss with the garlanded remnant-bearer",
+   "uncertainties": [
+    "Whether mālino is object of śṛṇu or part of a definition"
+   ],
+   "plain_english": "Liquor-bliss is declared; now listen about the garlanded one of sacred remnants."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "nairmālya",
+     "gloss": "offering-remnant",
+     "grounds": "first member indicating sacred remains",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mālino",
+     "gloss": "garlanded",
+     "grounds": "second member indicating one bearing garlands",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "practitioner of yoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "first member indicating yogic discipline",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "caryāṃ",
+     "gloss": "practice",
+     "grounds": "conduct or observance",
+     "morph": "f.acc.sg.compound"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "performs the stated practice",
+     "morph": "3.sg.pres.act √kṛ"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "identifies the subject",
+     "morph": "m.nom.sg.pronoun"
+    }
+   ],
+   "question": "What practice defines the yogin who bears sacred remnants and garlands?",
+   "premises": [
+    "The garlanded remnant-bearer is identified as a yogin",
+    "Yogic practice is named as the action",
+    "The subject performs that practice"
+   ],
+   "inference": "The garlanded remnant-bearing yogin is defined by performing yogic conduct",
+   "uncertainties": [
+    "Whether nairmālya-mālino is a title or descriptive epithet"
+   ],
+   "plain_english": "That garlanded yogin of sacred remnants performs yogic practice."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "a",
+     "gloss": "without",
+     "grounds": "negating prefix in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃhāyo",
+     "gloss": "companion",
+     "grounds": "one accompanied or supported",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "bhramate",
+     "gloss": "wanders",
+     "grounds": "moves freely or roams",
+     "morph": "3.sg.pres.mid √bhram"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "steadfast",
+     "grounds": "firm or resolute practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "identifies the subject",
+     "morph": "m.nom.sg.pronoun"
+    },
+    {
+     "surface": "ekākī",
+     "gloss": "solitary",
+     "grounds": "alone without dependence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namucyate",
+     "gloss": "is-called",
+     "grounds": "fused form expressing naming; internal sandhi noted",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "How is the steadfast solitary wanderer characterized in this yogic conduct?",
+   "premises": [
+    "The subject wanders without companion",
+    "The subject is described as steadfast",
+    "The subject is called solitary"
+   ],
+   "inference": "The steadfast one who wanders without companion is identified as solitary",
+   "uncertainties": [
+    "namucyate may reflect non-standard or fused expression for naming"
+   ],
+   "plain_english": "The steadfast one wanders without companion; he is called solitary."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "etac",
+     "gloss": "this",
+     "grounds": "points to the preceding teaching",
+     "morph": "n.nom.sg.pronoun"
+    },
+    {
+     "surface": "caryā",
+     "gloss": "practice",
+     "grounds": "conduct or observance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "declared",
+     "grounds": "states completion of explanation",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "viśa",
+     "gloss": "enter",
+     "grounds": "command to engage or penetrate",
+     "morph": "2.sg.imp.act √viś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects imperatives or elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member indicating gnosis",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhāraka",
+     "gloss": "holder",
+     "grounds": "one who bears or maintains knowledge",
+     "morph": "m.voc.sg.compound"
+    }
+   ],
+   "question": "What concluding instruction is given to the holder of knowledge after this practice is declared?",
+   "premises": [
+    "This practice has been declared",
+    "An imperative to enter is issued",
+    "The addressee is called holder of knowledge"
+   ],
+   "inference": "After declaring the practice, the teaching commands the knowledge-holder to enter it",
+   "uncertainties": [
+    "The object of viśa is implicit and may refer to the declared practice"
+   ],
+   "plain_english": "This practice has been declared; enter, O holder of knowledge."
+  }
+ ]
+}

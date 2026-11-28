@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "bhāgam",
+     "gloss": "part",
+     "grounds": "accusative object of samādāya",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "rasam",
+     "gloss": "mercury",
+     "grounds": "accusative object; mercury",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samādāyam",
+     "gloss": "to-be-taken",
+     "grounds": "absolutive of samādā, take together",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vajra+mūṣā",
+     "gloss": "diamond-crucible",
+     "grounds": "compound vajra+mūṣā; object of viracya",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "viracya",
+     "gloss": "having-fashioned",
+     "grounds": "absolutive of virac, fashion",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "te",
+     "gloss": "they-two",
+     "grounds": "subject dual",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "What two agents take a part of mercury and fashion a diamond crucible?",
+   "premises": [
+    "A part of mercury is taken.",
+    "A diamond crucible is fashioned.",
+    "Two agents perform these actions."
+   ],
+   "inference": "The verse describes two agents preparing a diamond crucible from a portion of mercury.",
+   "uncertainties": [
+    "samādāyam may be a sandhi variant of samādāya."
+   ],
+   "plain_english": "Taking a part of mercury, they fashion a diamond crucible."
+  }
+ ]
+}

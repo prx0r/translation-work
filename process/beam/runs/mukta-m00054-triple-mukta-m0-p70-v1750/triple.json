@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "dhanya",
+     "gloss": "blessed",
+     "grounds": "first member of compound describing the sound heard",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śabda",
+     "gloss": "sound",
+     "grounds": "second member of compound; the utterance 'dhanya'",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śruti",
+     "gloss": "hearing",
+     "grounds": "third member of compound indicating the act of hearing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prītā",
+     "gloss": "delighted",
+     "grounds": "describes the goddess as pleased by hearing the sound 'dhanya'",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhundhukārī",
+     "gloss": "dhundhukāra-making",
+     "grounds": "first member of compound qualifying the people who are cut off",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jana",
+     "gloss": "people",
+     "grounds": "second member of compound denoting the group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chidā",
+     "gloss": "cutter",
+     "grounds": "epithet describing the goddess as one who cuts off such people",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What delights the goddess and whom does she cut off?",
+   "premises": [
+    "The goddess is delighted by hearing the sound 'dhanya'.",
+    "The goddess is characterized as a cutter of certain people.",
+    "Those people are identified as makers of dhundhukāra."
+   ],
+   "inference": "The goddess takes pleasure in the utterance 'dhanya' and destroys people associated with dhundhukāra.",
+   "uncertainties": [
+    "The exact referent or nature of 'dhundhukāra' is not specified in this verse."
+   ],
+   "plain_english": "She is delighted by hearing the word 'blessed' and is the cutter of people who make the dhundhukāra sound."
+  }
+ ]
+}

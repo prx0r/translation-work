@@ -1,0 +1,777 @@
+{
+ "song": "mukta-m0-p195",
+ "items": [
+  {
+   "verse": 4851,
+   "rows": [
+    {
+     "surface": "sarvabāhyata",
+     "gloss": "from-all-external",
+     "grounds": "ablative sense indicating starting point from the outermost",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund expressing commencement of the sequence",
+     "morph": "gerund; root ā-rabh"
+    },
+    {
+     "surface": "yāvanmadhyaṃ",
+     "gloss": "until-middle",
+     "grounds": "compound indicating extent up to the middle",
+     "morph": "compound = yāvat+middle"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What spatial range of worship is prescribed to the great lady?",
+   "premises": [
+    "Worship begins from all external points",
+    "The range extends until the middle",
+    "The great lady is addressed as recipient"
+   ],
+   "inference": "The prescribed worship proceeds inward from the outermost domain to the middle.",
+   "uncertainties": [],
+   "plain_english": "O great lady, beginning from all that is external and extending up to the middle."
+  },
+  {
+   "verse": 4852,
+   "rows": [
+    {
+     "surface": "pūjayedrātrisamaye",
+     "gloss": "should-worship-at-night-time",
+     "grounds": "optative verb fused with time expression indicating when worship occurs",
+     "morph": "compound = pūjayet+rātri-samaye; verb 3.sg.optative-active + root pūj"
+    },
+    {
+     "surface": "kulācārakrameṇa",
+     "gloss": "by-kula-practice-order",
+     "grounds": "instrumental compound specifying the ritual method",
+     "morph": "compound = kula-ācāra-krameṇa; m.inst.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the worshipper",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform worship at night according to the kula practice order?",
+   "premises": [
+    "Worship is to be performed at night time",
+    "The method follows the kula practice order",
+    "A qualified worshipper is indicated by the relative pronoun"
+   ],
+   "inference": "One who worships at night following the kula practice order is the intended practitioner.",
+   "uncertainties": [],
+   "plain_english": "Whoever should worship at night according to the order of kula practice."
+  },
+  {
+   "verse": 4853,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "gerund indicating completion of worship",
+     "morph": "gerund; root pūj"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tadvadekatarau",
+     "gloss": "similarly-on-one",
+     "grounds": "compound expressing likeness and location on one of two places",
+     "morph": "compound = tadvat+ekatarau; m.loc.sg"
+    },
+    {
+     "surface": "girau",
+     "gloss": "on-mountain",
+     "grounds": "locative noun specifying place of worship",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where may worship be performed similarly after the initial rite to the great lady?",
+   "premises": [
+    "Worship has already been performed",
+    "The great lady is addressed",
+    "A similar rite may occur on one mountain"
+   ],
+   "inference": "After worshipping, one may similarly perform worship on a mountain.",
+   "uncertainties": [],
+   "plain_english": "O great lady, having worshipped, one may similarly do so on a mountain."
+  },
+  {
+   "verse": 4854,
+   "rows": [
+    {
+     "surface": "mahābhūtadine",
+     "gloss": "on-great-element-day",
+     "grounds": "locative compound indicating a special day",
+     "morph": "compound = mahā-bhūta-dine; n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "particles offering an alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative noun specifying an alternative place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing possibility",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb expressing the ritual act",
+     "morph": "3.sg.optative-active; root pūj"
+    }
+   ],
+   "question": "What alternative times or places are permitted for performing this worship?",
+   "premises": [
+    "A great element day is named as a time",
+    "A cremation ground is named as a place",
+    "Worship may be performed under these conditions"
+   ],
+   "inference": "The worship may alternatively be performed on a great element day or in a cremation ground.",
+   "uncertainties": [
+    "The exact meaning of mahābhūtadine is context-dependent"
+   ],
+   "plain_english": "Or if one should worship on a great-element day, or in a cremation ground."
+  },
+  {
+   "verse": 4855,
+   "rows": [
+    {
+     "surface": "pādukākhaḍgavetālasiddhadravyamahodayān",
+     "gloss": "sandal-sword-vetala-siddhi-substance-great-rises",
+     "grounds": "long compound listing powerful attainments or substances",
+     "morph": "compound = pādukā-khaḍga-vetāla-siddhi-dravya-mahā-udayān; m.acc.pl"
+    }
+   ],
+   "question": "What kinds of great attainments or substances result from such worship?",
+   "premises": [
+    "The compound names sandals, sword, and vetala",
+    "It includes siddhi substances",
+    "It culminates in great rises or manifestations"
+   ],
+   "inference": "The worship yields great manifestations such as sandals, sword, vetala, and other siddhi substances.",
+   "uncertainties": [
+    "Specific ritual referents of pādukā, khaḍga, and vetāla are traditional"
+   ],
+   "plain_english": "The great arising of siddhi substances such as sandals, the sword, and the vetala."
+  },
+  {
+   "verse": 4856,
+   "rows": [
+    {
+     "surface": "yatkiñcit",
+     "gloss": "whatever",
+     "grounds": "indefinite pronoun indicating any instance",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhisantānaṃ",
+     "gloss": "siddhi-continuity",
+     "grounds": "compound denoting a lineage or stream of attainments",
+     "morph": "compound = siddhi-santānaṃ; m.acc.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb asserting presence",
+     "morph": "3.sg.present-passive; root vid"
+    },
+    {
+     "surface": "bhuvanatraye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative compound specifying universal scope",
+     "morph": "compound = bhuvana-traye; n.loc.sg"
+    }
+   ],
+   "question": "What scope of siddhi continuities becomes available through this practice?",
+   "premises": [
+    "Any siddhi continuity is included",
+    "Such continuities are said to exist",
+    "Their scope is the three worlds"
+   ],
+   "inference": "Whatever continuity of siddhi exists in the three worlds becomes accessible.",
+   "uncertainties": [],
+   "plain_english": "Whatever continuity of siddhi exists in the three worlds."
+  },
+  {
+   "verse": 4857,
+   "rows": [
+    {
+     "surface": "dhavalāmbarasamvīto",
+     "gloss": "white-garment-clad",
+     "grounds": "compound describing the worshipper's attire",
+     "morph": "compound = dhavala-ambara-saṃvītaḥ; m.nom.sg"
+    },
+    {
+     "surface": "dhavalāmbaramadhyagaḥ",
+     "gloss": "standing-in-white-garment",
+     "grounds": "compound describing position within white cloth",
+     "morph": "compound = dhavala-ambara-madhya-gaḥ; m.nom.sg"
+    }
+   ],
+   "question": "What attire and setting are required for the worshipper in this rite?",
+   "premises": [
+    "The worshipper is clad in white garments",
+    "The worshipper is situated within white garments",
+    "Whiteness characterizes the ritual setting"
+   ],
+   "inference": "The worshipper must be clothed in white and situated amid white garments.",
+   "uncertainties": [],
+   "plain_english": "Clad in white garments and seated within white garments."
+  },
+  {
+   "verse": 4858,
+   "rows": [
+    {
+     "surface": "dhavalaireva",
+     "gloss": "with-white-only",
+     "grounds": "instrumental adjective with emphatic particle restricting offerings to white",
+     "morph": "compound = dhavalaiḥ+eva; m.inst.pl"
+    },
+    {
+     "surface": "naivedyairdadhikṣīraudanādibhiḥ",
+     "gloss": "offerings-curd-milk-rice-etc",
+     "grounds": "instrumental compound listing white food offerings",
+     "morph": "compound = naivedyaiḥ+dadhi-kṣīra-odana-ādibhiḥ; n.inst.pl"
+    }
+   ],
+   "question": "What kind of food offerings are prescribed for this white-clad worship?",
+   "premises": [
+    "Offerings must be white",
+    "Examples include curd, milk, and rice",
+    "These are presented as naivedya"
+   ],
+   "inference": "Only white offerings such as curd, milk, and rice should be used.",
+   "uncertainties": [],
+   "plain_english": "With white offerings only, such as curd, milk, rice, and the like."
+  },
+  {
+   "verse": 4859,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund indicating completion of worship",
+     "morph": "gerund; root pūj with sam"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-lady",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dhyāyedvāgīśvarīṃ",
+     "gloss": "should-meditate-on-speech-goddess",
+     "grounds": "optative verb fused with object indicating meditation on Vāgīśvarī",
+     "morph": "compound = dhyāyet+vāgīśvarīṃ; verb 3.sg.optative-active + root dhyai; f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the goddess as supreme",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom should the practitioner meditate upon after completing the prescribed worship?",
+   "premises": [
+    "Worship has been fully performed",
+    "The supreme lady is addressed",
+    "Meditation is directed to supreme Vāgīśvarī"
+   ],
+   "inference": "After worship, the practitioner should meditate on the supreme goddess Vāgīśvarī.",
+   "uncertainties": [],
+   "plain_english": "O supreme lady, having worshipped, one should meditate on the supreme Vāgīśvarī."
+  },
+  {
+   "verse": 4860,
+   "rows": [
+    {
+     "surface": "brahmagranthi",
+     "gloss": "brahma-knot",
+     "grounds": "object indicating the knot to be pierced",
+     "morph": "compound = brahma-granthiṃ; m.acc.sg"
+    },
+    {
+     "surface": "vinirbhidya",
+     "gloss": "piercing",
+     "grounds": "gerund expressing the act of breaking through",
+     "morph": "gerund; root bhid with vi-nir"
+    },
+    {
+     "surface": "jihvāgre",
+     "gloss": "at-tongue-tip",
+     "grounds": "locative compound indicating the place of manifestation",
+     "morph": "compound = jihvā-agre; n.loc.sg"
+    },
+    {
+     "surface": "bīja+rūpiṇīm",
+     "gloss": "seed-form",
+     "grounds": "compound describing the goddess as having seed form; @ marks sandhi fusion point",
+     "morph": "compound = bīja+rūpiṇīm; f.acc.sg"
+    }
+   ],
+   "question": "How is the supreme speech goddess visualized in relation to the brahma knot and tongue?",
+   "premises": [
+    "The brahma knot is pierced",
+    "The locus is the tip of the tongue",
+    "The goddess is visualized in seed form"
+   ],
+   "inference": "The practitioner visualizes her in seed form at the tongue tip after piercing the brahma knot.",
+   "uncertainties": [],
+   "plain_english": "Piercing the brahma knot, one should visualize her in seed form at the tip of the tongue."
+  },
+  {
+   "verse": 4861,
+   "rows": [
+    {
+     "surface": "śaṭho'pi",
+     "gloss": "even-deceitful",
+     "grounds": "noun with particle indicating even a dull or deceitful person",
+     "morph": "compound = śaṭhaḥ+api; m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "object denoting a word or phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "spaṣṭamakṣaraṃ",
+     "gloss": "clear-syllable",
+     "grounds": "compound describing clearly articulated syllables",
+     "morph": "compound = spaṣṭam+akṣaraṃ; n.acc.sg"
+    },
+    {
+     "surface": "vaktumakṣamaḥ",
+     "gloss": "unable-to-speak",
+     "grounds": "compound expressing inability to speak clearly",
+     "morph": "compound = vaktum+akṣamaḥ; m.nom.sg"
+    }
+   ],
+   "question": "What prior limitation of speech may be overcome by this meditation practice?",
+   "premises": [
+    "Even a deceitful or dull person is included",
+    "Such a person may be unable to speak clearly",
+    "The inability concerns clear words and syllables"
+   ],
+   "inference": "Even one previously unable to speak a clear word or syllable can be transformed by the practice.",
+   "uncertainties": [
+    "The term śaṭha may imply dullness or deceit depending on context"
+   ],
+   "plain_english": "Even one who is dull and unable to speak a clear word or syllable."
+  },
+  {
+   "verse": 4862,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "he-too",
+     "grounds": "pronoun with particle referring back to the previously described person",
+     "morph": "compound = saḥ+api; m.nom.sg"
+    },
+    {
+     "surface": "sañjāyate",
+     "gloss": "becomes",
+     "grounds": "verb indicating transformation",
+     "morph": "3.sg.present-middle; root jan with sam"
+    },
+    {
+     "surface": "vāgmī",
+     "gloss": "eloquent",
+     "grounds": "adjective describing mastery of speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vācaspatirivāparaḥ",
+     "gloss": "like-another-speech-lord",
+     "grounds": "compound comparing the person to Vācaspati",
+     "morph": "compound = vācaspatiḥ+iva+aparaḥ; m.nom.sg"
+    }
+   ],
+   "question": "What transformation in eloquence results for the previously inarticulate practitioner?",
+   "premises": [
+    "The same person undergoes change",
+    "He becomes eloquent",
+    "He is compared to another Vācaspati"
+   ],
+   "inference": "The previously inarticulate person becomes eloquent like another lord of speech.",
+   "uncertainties": [],
+   "plain_english": "He too becomes eloquent, like another Vācaspati, lord of speech."
+  },
+  {
+   "verse": 4863,
+   "rows": [
+    {
+     "surface": "sattarkapadavākyārthaśabdālaṅkārasāravit",
+     "gloss": "true-logic-word-sentence-meaning-sound-ornament-essence-knower",
+     "grounds": "long compound describing mastery of logic, language, meaning, and ornament",
+     "morph": "compound = sat-tarka-pada-vākya-artha-śabda-alaṅkāra-sāra-vit; m.nom.sg"
+    }
+   ],
+   "question": "What comprehensive linguistic and logical knowledge does the transformed practitioner attain?",
+   "premises": [
+    "True reasoning is included",
+    "Words, sentences, and meanings are included",
+    "Sound ornaments and their essence are known"
+   ],
+   "inference": "The practitioner becomes a knower of the essence of logic, words, sentences, meanings, sounds, and ornaments.",
+   "uncertainties": [],
+   "plain_english": "A knower of the essence of true reasoning, words, sentences, meanings, sounds, and literary ornaments."
+  },
+  {
+   "verse": 4864,
+   "rows": [
+    {
+     "surface": "sukumāratarasphārarītyalaṅkārapūrvakaiḥ",
+     "gloss": "with-very-delicate-expanded-style-ornament-foremost",
+     "grounds": "instrumental compound describing refined literary qualities",
+     "morph": "compound = sukumāra-tara-sphāra-rīti-alaṅkāra-pūrvakaiḥ; m.inst.pl"
+    }
+   ],
+   "question": "What stylistic qualities characterize the expression of the accomplished practitioner?",
+   "premises": [
+    "Expression is very delicate",
+    "Style is expansive",
+    "Ornament and refined manner are foremost"
+   ],
+   "inference": "The practitioner’s expression is marked by very delicate, expansive style and ornamentation.",
+   "uncertainties": [],
+   "plain_english": "Endowed with very delicate, expansive style and foremost literary ornaments."
+  },
+  {
+   "verse": 4865,
+   "rows": [
+    {
+     "surface": "vedavedāṅgavedāntasiddhāntajñānapāragaḥ",
+     "gloss": "veda-vedanga-vedanta-siddhanta-knowledge-far-shore",
+     "grounds": "compound describing mastery of major scriptural and doctrinal systems",
+     "morph": "compound = veda-vedāṅga-vedānta-siddhānta-jñāna-pāragaḥ; m.nom.sg"
+    }
+   ],
+   "question": "What range of scriptural and doctrinal knowledge does the practitioner master?",
+   "premises": [
+    "Veda and Vedāṅga are included",
+    "Vedānta and Siddhānta are included",
+    "The practitioner reaches the far shore of this knowledge"
+   ],
+   "inference": "The practitioner attains complete mastery of Veda, Vedāṅga, Vedānta, and Siddhānta knowledge.",
+   "uncertainties": [],
+   "plain_english": "One who has reached the far shore of knowledge of the Vedas, Vedāṅgas, Vedānta, and Siddhāntas."
+  },
+  {
+   "verse": 4866,
+   "rows": [
+    {
+     "surface": "prāṇarasavādādigāruḍānekamantravit",
+     "gloss": "breath-essence-alchemy-etc-garuda-many-mantra-knower",
+     "grounds": "compound listing diverse mantra sciences known by the practitioner",
+     "morph": "compound = prāṇa-rasa-vāda-ādi-gāruḍa-aneka-mantra-vit; m.nom.sg"
+    }
+   ],
+   "question": "What specialized mantra sciences become known to the accomplished practitioner?",
+   "premises": [
+    "Prāṇa and rasa sciences are included",
+    "Alchemy and related arts are included",
+    "Gāruḍa and many other mantras are known"
+   ],
+   "inference": "The practitioner becomes a knower of many mantras including those of prāṇa, rasa, alchemy, and Gāruḍa.",
+   "uncertainties": [
+    "The exact scope of vāda and related terms is traditional"
+   ],
+   "plain_english": "A knower of many mantras, including those of breath, alchemy, mercury lore, Gāruḍa, and others."
+  },
+  {
+   "verse": 4867,
+   "rows": [
+    {
+     "surface": "vicitracitrakarmādiśilpānekavicakṣaṇaḥ",
+     "gloss": "various-wonderful-art-etc-craft-many-skilled",
+     "grounds": "compound describing skill in diverse arts and crafts",
+     "morph": "compound = vicitra-citra-karma-ādi-śilpa-aneka-vicakṣaṇaḥ; m.nom.sg"
+    }
+   ],
+   "question": "What artistic and craft skills are gained by the accomplished practitioner?",
+   "premises": [
+    "Various wonderful arts are included",
+    "Crafts and related skills are included",
+    "The practitioner is skilled in many of them"
+   ],
+   "inference": "The practitioner becomes skilled in many varied and wonderful arts and crafts.",
+   "uncertainties": [],
+   "plain_english": "Skilled in many varied and wonderful arts, crafts, and related works."
+  },
+  {
+   "verse": 4868,
+   "rows": [
+    {
+     "surface": "sarvabhāṣārutajñānī",
+     "gloss": "all-language-sound-knower",
+     "grounds": "compound describing knowledge of all languages and sounds",
+     "morph": "compound = sarva-bhāṣā-ruta-jñānī; m.nom.sg"
+    },
+    {
+     "surface": "samastalipikarmakṛt",
+     "gloss": "all-script-work-doer",
+     "grounds": "compound describing ability to work with all scripts",
+     "morph": "compound = samasta-lipi-karma-kṛt; m.nom.sg"
+    }
+   ],
+   "question": "What mastery over languages and scripts does the practitioner acquire?",
+   "premises": [
+    "All languages and sounds are known",
+    "All scripts can be worked with",
+    "Both knowledge and practical ability are present"
+   ],
+   "inference": "The practitioner knows all languages and sounds and can perform all script-related work.",
+   "uncertainties": [],
+   "plain_english": "A knower of all languages and sounds, and one who can work with all scripts."
+  },
+  {
+   "verse": 4869,
+   "rows": [
+    {
+     "surface": "sarvavāṅmayavettā",
+     "gloss": "all-speech-knower",
+     "grounds": "compound describing knowledge of all verbal expression",
+     "morph": "compound = sarva-vāṅmaya-vettā; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another attribute",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvajño",
+     "gloss": "all-knowing",
+     "grounds": "adjective describing omniscience",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb indicating the resulting state",
+     "morph": "3.sg.present-middle; root jan"
+    }
+   ],
+   "question": "What ultimate cognitive attainment is promised to the practitioner, O goddess?",
+   "premises": [
+    "The practitioner knows all speech",
+    "The practitioner becomes all-knowing",
+    "The goddess is addressed as witness to this result"
+   ],
+   "inference": "The practitioner becomes a knower of all speech and all-knowing.",
+   "uncertainties": [],
+   "plain_english": "And, O goddess, he becomes a knower of all speech and all-knowing."
+  },
+  {
+   "verse": 4870,
+   "rows": [
+    {
+     "surface": "tatastu",
+     "gloss": "then-now",
+     "grounds": "particles marking transition to a new topic",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative calling for attention",
+     "morph": "2.sg.imperative-active; root śru"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāmarājasya",
+     "gloss": "of-kamaraja",
+     "grounds": "genitive specifying the subject of the sadhana",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "practice",
+     "grounds": "noun naming the ritual practice to be described",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What new ritual topic is introduced after describing the attainments of Vāgīśvarī worship?",
+   "premises": [
+    "A transition is marked by then",
+    "The goddess is asked to listen",
+    "The sadhana of Kāmarāja is named"
+   ],
+   "inference": "The discourse now turns to the sadhana of Kāmarāja.",
+   "uncertainties": [],
+   "plain_english": "Then listen, O goddess, to the sadhana of Kāmarāja."
+  },
+  {
+   "verse": 4871,
+   "rows": [
+    {
+     "surface": "udayādityabimbābhā",
+     "gloss": "rising-sun-disk-like",
+     "grounds": "compound describing radiance like the rising sun",
+     "morph": "compound = udaya-āditya-bimba-ābhā; f.nom.sg"
+    },
+    {
+     "surface": "samujjvalavapuḥ",
+     "gloss": "bright-bodied",
+     "grounds": "compound describing a brilliantly luminous body",
+     "morph": "compound = samujjvala-vapuḥ; f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the radiant form associated with Kāmarāja’s sadhana described to the beloved?",
+   "premises": [
+    "The form shines like the rising sun’s disk",
+    "The body is brilliantly luminous",
+    "The beloved is addressed"
+   ],
+   "inference": "The form is described as brilliantly radiant like the rising sun.",
+   "uncertainties": [],
+   "plain_english": "O beloved, she is radiant like the disk of the rising sun, with a brilliantly luminous body."
+  },
+  {
+   "verse": 4872,
+   "rows": [
+    {
+     "surface": "samastabhuvanābhogakavalīkṛtajīvitā",
+     "gloss": "all-worlds-expanse-devoured-life",
+     "grounds": "compound describing a power that has swallowed the life of all worlds",
+     "morph": "compound = samasta-bhuvana-ābhoga-kavalīkṛta-jīvitā; f.nom.sg"
+    }
+   ],
+   "question": "What cosmic power is attributed to the radiant form in Kāmarāja’s sadhana?",
+   "premises": [
+    "All worlds and their expanse are included",
+    "Their life is taken in as a mouthful",
+    "This describes the form’s power"
+   ],
+   "inference": "The radiant form is portrayed as having devoured the life of all the worlds.",
+   "uncertainties": [],
+   "plain_english": "She who has devoured the life of the entire expanse of all worlds."
+  },
+  {
+   "verse": 4873,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "gradually",
+     "grounds": "instrumental indicating sequential progression",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tato'naṅgaparyantaṃ",
+     "gloss": "then-up-to-ananga",
+     "grounds": "compound indicating progression up to Ananga; includes sandhi fusion",
+     "morph": "compound = tataḥ+anaṅga-paryantaṃ; indecl."
+    },
+    {
+     "surface": "prollasantyapi",
+     "gloss": "shining-forth-also",
+     "grounds": "present participle with particle indicating continued shining",
+     "morph": "compound = prollasantī+api; f.nom.sg"
+    }
+   ],
+   "question": "How does the radiant manifestation progress in the sequence toward Ananga?",
+   "premises": [
+    "The progression occurs gradually",
+    "It extends up to Ananga",
+    "The manifestation continues shining forth"
+   ],
+   "inference": "The radiant manifestation gradually shines forth up to the stage of Ananga.",
+   "uncertainties": [
+    "The precise ritual stage denoted by anaṅga is traditional"
+   ],
+   "plain_english": "Gradually, then, shining forth up to the stage of Ananga."
+  },
+  {
+   "verse": 4874,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating consequence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb indicating resulting state",
+     "morph": "3.sg.present-active; root bhū"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvaśṛṅgāramāninām",
+     "gloss": "of-all-charm-possessors",
+     "grounds": "compound genitive indicating those endowed with all charm",
+     "morph": "compound = sarva-śṛṅgāra-māninām; m.gen.pl"
+    }
+   ],
+   "question": "What effect on those possessing charm results from the progression to Ananga?",
+   "premises": [
+    "A consequence follows the prior progression",
+    "The goddess is addressed",
+    "Those possessing all charm are affected"
+   ],
+   "inference": "As a result, one becomes preeminent among all possessors of charm.",
+   "uncertainties": [],
+   "plain_english": "Then, O goddess, one becomes supreme among all who possess charm."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "prastha",
+     "gloss": "prastha-measure",
+     "grounds": "measure noun used with mātra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-measure",
+     "grounds": "instrumental of mātra",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "ṣaṇavatyā",
+     "gloss": "ninety-six",
+     "grounds": "numeral modifying the oblation count",
+     "morph": "adj.inst.sg.f"
+    },
+    {
+     "surface": "āhutīḥ",
+     "gloss": "oblations",
+     "grounds": "accusative plural object of kuryyāt",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative of root kṛ",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "to-that-extent",
+     "grounds": "limiting particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many oblations should be performed with a prastha measure in each drawn layer?",
+   "premises": [
+    "ninety-six oblations are prescribed",
+    "each oblation uses a prastha measure",
+    "the rite is performed to that extent"
+   ],
+   "inference": "The rite prescribes ninety-six prastha-measured oblations for each layer.",
+   "uncertainties": [
+    "the exact syntactic role of ṣaṇavatyā remains unclear"
+   ],
+   "plain_english": "Perform ninety-six oblations, each of a prastha measure, thus to that extent."
+  }
+ ]
+}

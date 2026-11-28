@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "sama",
+     "gloss": "equal",
+     "grounds": "qualifies the extent of the projection",
+     "morph": "adj."
+    },
+    {
+     "surface": "nirgamam",
+     "gloss": "projection",
+     "grounds": "architectural projection or offset",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "asmāt",
+     "gloss": "from-this",
+     "grounds": "refers to the previously described division or measure",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects specifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadraṃ",
+     "gloss": "central-projection",
+     "grounds": "the bhadra offset of the square plan",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "unit of division; first member of compound with arddha and nirgamaḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arddha",
+     "gloss": "half",
+     "grounds": "qualifies bhāga; middle member of compound with bhāga and nirgamaḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "projection",
+     "grounds": "final member of compound bhāga-arddha-nirgamaḥ, indicating extent of projection",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What projection measure defines the bhadra offset in this square division?",
+   "premises": [
+    "The instruction proceeds from the previously established division.",
+    "The bhadra is specified with an equal projection.",
+    "The projection is defined as half a part."
+   ],
+   "inference": "Therefore, the bhadra offset is to be laid out with a projection equal to half of one divided part.",
+   "uncertainties": [
+    "Whether sama nirgamam and bhāga-arddha-nirgamaḥ describe the same measure or two related specifications is not fully explicit."
+   ],
+   "plain_english": "And from this, the bhadra should have an equal projection, with its projection measuring half a part."
+  }
+ ]
+}

@@ -1,0 +1,1351 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2326,
+   "rows": [
+    {
+     "surface": "pradhāna",
+     "gloss": "main",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maṇḍapa",
+     "gloss": "hall",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgāraṃ",
+     "gloss": "chamber",
+     "grounds": "object described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cūlī",
+     "gloss": "crest",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "harmya",
+     "gloss": "mansion",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vivarjitam",
+     "gloss": "devoid-of",
+     "grounds": "describes chamber",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What architectural elements must be absent from the main hall and chamber?",
+   "premises": [
+    "The main hall and chamber are specified.",
+    "Crest and mansion elements are excluded.",
+    "The description defines a simpler upper structure."
+   ],
+   "inference": "The main hall and chamber on this level should lack crest and mansion features.",
+   "uncertainties": [
+    "Exact architectural meaning of cūlī-harmya in this context"
+   ],
+   "plain_english": "The main hall and chamber should be devoid of crest and mansion structures."
+  },
+  {
+   "verse": 2327,
+   "rows": [
+    {
+     "surface": "lūpa",
+     "gloss": "plaster",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āroha",
+     "gloss": "ascending",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "endowed-with",
+     "grounds": "describes other structure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "refers to remaining part",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previously",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "stated",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-method",
+     "grounds": "means of construction",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "By what method should the remaining plastered ascending work be executed?",
+   "premises": [
+    "Another part is endowed with plaster-ascending work.",
+    "A previously stated method exists.",
+    "That method governs the remaining construction."
+   ],
+   "inference": "The remaining plastered ascending work should follow the previously described method.",
+   "uncertainties": [
+    "Precise technical sense of lūpa-āroha-kriyā"
+   ],
+   "plain_english": "The other part, equipped for plastering and ascent work, should be made according to the method stated earlier."
+  },
+  {
+   "verse": 2328,
+   "rows": [
+    {
+     "surface": "ūrdhva",
+     "gloss": "upper",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūmiḥ",
+     "gloss": "floor",
+     "grounds": "subject named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "describes floor",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "dvitīyāṃ",
+     "gloss": "second",
+     "grounds": "object to be heard",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "śṛṇuta",
+     "gloss": "hear",
+     "grounds": "command to audience",
+     "morph": "2.pl.imp.act-√śru"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "o-twice-born",
+     "grounds": "addressed audience",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What designation applies to the upper floor and what follows next?",
+   "premises": [
+    "The upper floor is thus known.",
+    "A second floor is to be described.",
+    "The twice-born are addressed to listen."
+   ],
+   "inference": "After naming the upper floor, the text proceeds to describe the second floor.",
+   "uncertainties": [],
+   "plain_english": "This is known as the upper floor; now hear about the second, O twice-born ones."
+  },
+  {
+   "verse": 2329,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to second floor",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "bhūmiḥ",
+     "gloss": "floor",
+     "grounds": "subject described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maṇḍapa",
+     "gloss": "hall",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgāra",
+     "gloss": "chamber",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cūlī",
+     "gloss": "crest",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "harmya",
+     "gloss": "mansion",
+     "grounds": "fourth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vibhūṣitā",
+     "gloss": "adorned-with",
+     "grounds": "describes floor",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What architectural adornments characterize the second floor being described?",
+   "premises": [
+    "That floor is the subject.",
+    "Hall, chamber, crest, and mansion are named.",
+    "The floor is adorned with these elements."
+   ],
+   "inference": "The second floor is distinguished by being adorned with hall, chamber, crest, and mansion features.",
+   "uncertainties": [],
+   "plain_english": "That floor is adorned with halls, chambers, crests, and mansions."
+  },
+  {
+   "verse": 2330,
+   "rows": [
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvayena",
+     "gloss": "by-two",
+     "grounds": "measure of division",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to same floor",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyāsaḥ",
+     "gloss": "arrangement",
+     "grounds": "subject declared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripaṭhyate",
+     "gloss": "is-declared",
+     "grounds": "states prescription",
+     "morph": "3.sg.pass.pres-√paṭh"
+    }
+   ],
+   "question": "How is the arrangement of that floor proportionally divided?",
+   "premises": [
+    "The arrangement of that floor is discussed.",
+    "A division into two parts is specified.",
+    "This arrangement is formally declared."
+   ],
+   "inference": "The arrangement of that floor is declared to be made in two parts.",
+   "uncertainties": [
+    "Whether bhāga-dvayena refers to equal halves or another two-part division"
+   ],
+   "plain_english": "Its arrangement is indeed declared to be made in two parts."
+  },
+  {
+   "verse": 2331,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-division",
+     "grounds": "measure for placement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pṛṣṭha",
+     "gloss": "back",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvāsa",
+     "gloss": "dwelling",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sabhāṃ",
+     "gloss": "hall",
+     "grounds": "object to be made",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act-√nī"
+    }
+   ],
+   "question": "What proportional measure determines the placement of the rear dwelling hall?",
+   "premises": [
+    "A rear dwelling hall is to be made.",
+    "A measure of two parts out of four is specified.",
+    "The instruction is prescriptive."
+   ],
+   "inference": "The rear dwelling hall should be made using two out of four parts.",
+   "uncertainties": [
+    "Exact spatial interpretation of catur-bhāga-dvi-bhāgena"
+   ],
+   "plain_english": "One should make the rear dwelling hall with two parts out of four."
+  },
+  {
+   "verse": 2332,
+   "rows": [
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "location",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "on-both",
+     "grounds": "qualifies sides",
+     "morph": "adj.loc.du.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anta",
+     "gloss": "end",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "width",
+     "grounds": "measure specified",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What width should be assigned to the structures on both sides?",
+   "premises": [
+    "Both sides are considered.",
+    "A width is specified.",
+    "The measure is defined as extending to the end of four parts."
+   ],
+   "inference": "On both sides, the width should extend to the limit of four parts.",
+   "uncertainties": [
+    "Precise meaning of catur-bhāga-anta-vistaram"
+   ],
+   "plain_english": "On both sides, the width should extend to the end of four parts."
+  },
+  {
+   "verse": 2333,
+   "rows": [
+    {
+     "surface": "pradhāna",
+     "gloss": "main",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvāsa",
+     "gloss": "dwelling",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "netra",
+     "gloss": "window",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stha",
+     "gloss": "situated",
+     "grounds": "fourth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "netra",
+     "gloss": "window",
+     "grounds": "fifth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kūṭa",
+     "gloss": "pavilion",
+     "grounds": "sixth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act-√nī"
+    }
+   ],
+   "question": "What paired window pavilions should be placed at the main dwelling windows?",
+   "premises": [
+    "The main dwelling has window locations.",
+    "A pair of window pavilions is specified.",
+    "Their placement is prescribed."
+   ],
+   "inference": "One should make a pair of window pavilions situated at the windows of the main dwelling.",
+   "uncertainties": [
+    "Exact architectural form of netra-kūṭa"
+   ],
+   "plain_english": "One should place a pair of window pavilions at the windows of the main dwelling."
+  },
+  {
+   "verse": 2334,
+   "rows": [
+    {
+     "surface": "pṛṣṭha",
+     "gloss": "back",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvāsa",
+     "gloss": "dwelling",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sabhā",
+     "gloss": "hall",
+     "grounds": "subject compared",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "comparison marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "remaining elements",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of remainder",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "on-lower",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthale",
+     "gloss": "level",
+     "grounds": "location of comparison",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the remaining elements correspond to the lower level arrangement?",
+   "premises": [
+    "The rear dwelling hall is taken as a reference.",
+    "All other elements are included.",
+    "The lower level provides the model."
+   ],
+   "inference": "All other elements, like the rear dwelling hall, should follow the arrangement of the lower level.",
+   "uncertainties": [],
+   "plain_english": "Like the rear dwelling hall, everything else should be as on the lower level."
+  },
+  {
+   "verse": 2335,
+   "rows": [
+    {
+     "surface": "alindasya",
+     "gloss": "of-verandah",
+     "grounds": "reference structure",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "spatial extent",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "qualifies part",
+     "morph": "adj.ins.sg.m"
+    },
+    {
+     "surface": "vārakam",
+     "gloss": "enclosure",
+     "grounds": "object specified",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What enclosure measure should surround the verandah on all sides?",
+   "premises": [
+    "The verandah is the reference point.",
+    "An enclosure is specified.",
+    "The measure is one part all around."
+   ],
+   "inference": "An enclosure of one part should be made all around the verandah.",
+   "uncertainties": [
+    "Exact nature of vāraka as enclosure or screen"
+   ],
+   "plain_english": "All around the verandah, there should be an enclosure of one part."
+  },
+  {
+   "verse": 2336,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pradhāna",
+     "gloss": "of-main",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śālāyāḥ",
+     "gloss": "hall",
+     "grounds": "reference structure",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anusāreṇa",
+     "gloss": "according-to",
+     "grounds": "basis of arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "location",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "According to what reference should the side arrangements be made?",
+   "premises": [
+    "The sides are under consideration.",
+    "The main hall serves as a reference.",
+    "The arrangement follows that reference."
+   ],
+   "inference": "The arrangements on the sides should be made according to the main hall.",
+   "uncertainties": [],
+   "plain_english": "Likewise, on the sides, the arrangement should follow that of the main hall."
+  },
+  {
+   "verse": 2337,
+   "rows": [
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvaya",
+     "gloss": "two",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viniṣkrāmaḥ",
+     "gloss": "projection",
+     "grounds": "feature specified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvaya",
+     "gloss": "two",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśālataḥ",
+     "gloss": "in-width",
+     "grounds": "measure of breadth",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What projection and width measurements are prescribed for this section?",
+   "premises": [
+    "A projection is specified.",
+    "A width is specified.",
+    "Both measures are two parts."
+   ],
+   "inference": "The projection should be two parts and the width should be two parts.",
+   "uncertainties": [],
+   "plain_english": "The projection should be two parts, and the width should be two parts."
+  },
+  {
+   "verse": 2338,
+   "rows": [
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avasāna",
+     "gloss": "end",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antām",
+     "gloss": "up-to-limit",
+     "grounds": "extent of design",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "above",
+     "grounds": "vertical direction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "vertical direction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act-√kḷp"
+    }
+   ],
+   "question": "To what extent should the four-hall structure be designed vertically?",
+   "premises": [
+    "A four-hall structure is the subject.",
+    "Its terminal limit is specified.",
+    "Design must extend above and below."
+   ],
+   "inference": "One should design the structure up to the end of the four halls, both above and below.",
+   "uncertainties": [
+    "Exact architectural meaning of catuḥ-śālā-avasāna-antām"
+   ],
+   "plain_english": "One should design it up to the end of the four halls, both above and below."
+  },
+  {
+   "verse": 2339,
+   "rows": [
+    {
+     "surface": "ṣaṇṇāṃ",
+     "gloss": "of-six",
+     "grounds": "quantity of halls",
+     "morph": "num.gen.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "netra",
+     "gloss": "window",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śālānāṃ",
+     "gloss": "of-halls",
+     "grounds": "structures referenced",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "antarāle",
+     "gloss": "in-interval",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "dwelling",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthalam",
+     "gloss": "place",
+     "grounds": "area specified",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dwelling space should be located between the six windowed halls?",
+   "premises": [
+    "Six windowed halls are specified.",
+    "An interval between them exists.",
+    "A dwelling place is located there."
+   ],
+   "inference": "A dwelling place should be situated in the interval between the six windowed halls.",
+   "uncertainties": [],
+   "plain_english": "In the interval between the six windowed halls, there should be a dwelling place."
+  },
+  {
+   "verse": 2340,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis on direction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In which cardinal directions should this placement be especially observed?",
+   "premises": [
+    "Multiple directions are named.",
+    "South, north, and east are included.",
+    "Special emphasis is placed on these directions."
+   ],
+   "inference": "The placement should be observed in the south, north, and especially in the east.",
+   "uncertainties": [],
+   "plain_english": "In the south, in the north, and especially in the east."
+  },
+  {
+   "verse": 2341,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nairṛte",
+     "gloss": "in-southwest",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "in-northwest",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deity",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "portion",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "describes placement",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What alternative directional placement includes the deity portion?",
+   "premises": [
+    "An alternative is introduced.",
+    "Southwest and northwest directions are named.",
+    "The placement is endowed with the deity portion."
+   ],
+   "inference": "Alternatively, it may be placed in the southwest or northwest together with the deity portion.",
+   "uncertainties": [
+    "Exact meaning of deva-bhāga in this architectural context"
+   ],
+   "plain_english": "Or alternatively, in the southwest or northwest, endowed with the deity portion."
+  },
+  {
+   "verse": 2342,
+   "rows": [
+    {
+     "surface": "tadadhaḥ",
+     "gloss": "below-that",
+     "grounds": "relative location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhū",
+     "gloss": "floor",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "quantity of floors",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rajju",
+     "gloss": "string",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūtra",
+     "gloss": "moulding",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kapota",
+     "gloss": "cornice",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "endowed-with",
+     "grounds": "describes two floors",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What decorative features characterize the two floors below that level?",
+   "premises": [
+    "Two floors below are specified.",
+    "String moulding and cornice are named.",
+    "These floors are endowed with those features."
+   ],
+   "inference": "The two floors below that level should be endowed with string moulding and cornice.",
+   "uncertainties": [
+    "Precise architectural identification of rajju-sūtra-kapota"
+   ],
+   "plain_english": "Below that, the two floors should be furnished with string mouldings and cornices."
+  },
+  {
+   "verse": 2343,
+   "rows": [
+    {
+     "surface": "tadadhastāt",
+     "gloss": "below-that",
+     "grounds": "relative location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "spatial extent",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "qualifies part",
+     "morph": "adj.ins.sg.m"
+    },
+    {
+     "surface": "vārakam",
+     "gloss": "enclosure",
+     "grounds": "object specified",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What enclosure should be constructed below that level on all sides?",
+   "premises": [
+    "A level below that is specified.",
+    "An enclosure is required.",
+    "The measure is one part all around."
+   ],
+   "inference": "Below that, an enclosure of one part should be made all around.",
+   "uncertainties": [],
+   "plain_english": "Below that, all around, there should be an enclosure of one part."
+  },
+  {
+   "verse": 2344,
+   "rows": [
+    {
+     "surface": "tadadhastāt",
+     "gloss": "below-that",
+     "grounds": "relative location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "level",
+     "grounds": "structure specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūmikam",
+     "gloss": "storied",
+     "grounds": "describes level",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How many stories may the level below that structure contain?",
+   "premises": [
+    "A level below that is specified.",
+    "Eleven and twelve are given as counts.",
+    "The level is described as storied."
+   ],
+   "inference": "The level below that may be eleven or twelve stories high.",
+   "uncertainties": [
+    "Whether ekādaśa-dvādaśa-bhūmikam offers alternatives or a range"
+   ],
+   "plain_english": "Below that, the level should be eleven or twelve stories high."
+  },
+  {
+   "verse": 2345,
+   "rows": [
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "first type named",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "auspicious-on-all-sides",
+     "grounds": "name of first type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "second type named",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vardhamānakam",
+     "gloss": "increasing",
+     "grounds": "name of second type",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What names are assigned to the first and second structural types?",
+   "premises": [
+    "A first type is named.",
+    "A second type is named.",
+    "Specific designations are given to each."
+   ],
+   "inference": "The first type is called Sarvatobhadra and the second is called Vardhamānaka.",
+   "uncertainties": [],
+   "plain_english": "The first is Sarvatobhadra, and the second is Vardhamānaka."
+  },
+  {
+   "verse": 2346,
+   "rows": [
+    {
+     "surface": "carukaṃ",
+     "gloss": "caruka",
+     "grounds": "name of type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal position",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act-√vid"
+    },
+    {
+     "surface": "śālānām",
+     "gloss": "of-halls",
+     "grounds": "structures covered",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "apidhānakam",
+     "gloss": "covering",
+     "grounds": "function or name",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fifth type should be known as the covering of the halls?",
+   "premises": [
+    "A fifth type is specified.",
+    "It is related to halls.",
+    "It is identified as a covering."
+   ],
+   "inference": "One should know the fifth type, Caruka, as the covering of the halls.",
+   "uncertainties": [
+    "Whether apidhānakam is a descriptive function or part of the name"
+   ],
+   "plain_english": "One should know the fifth, Caruka, as the covering of the halls."
+  },
+  {
+   "verse": 2347,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "windowed",
+     "grounds": "describes structure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "svastikaṃ",
+     "gloss": "svastika",
+     "grounds": "name of type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "states designation",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What six-windowed structure is recognized in the south and north?",
+   "premises": [
+    "South and north directions are specified.",
+    "A six-windowed structure is described.",
+    "It is considered to be Svastika."
+   ],
+   "inference": "In the south and north, the six-windowed structure is considered Svastika.",
+   "uncertainties": [],
+   "plain_english": "In the south and north, the six-windowed structure is considered Svastika."
+  },
+  {
+   "verse": 2348,
+   "rows": [
+    {
+     "surface": "nandyāvartaṃ",
+     "gloss": "nandyāvarta",
+     "grounds": "name of type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtaṃ",
+     "gloss": "remembered",
+     "grounds": "states designation",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which structural type is remembered in the east, south, and west?",
+   "premises": [
+    "East, south, and west directions are named.",
+    "A specific type is remembered there.",
+    "That type is Nandyāvarta."
+   ],
+   "inference": "Nandyāvarta is remembered in the east, south, and west.",
+   "uncertainties": [],
+   "plain_english": "Nandyāvarta is remembered in the east, south, and likewise in the west."
+  },
+  {
+   "verse": 2349,
+   "rows": [
+    {
+     "surface": "niṣpaṭaṃ",
+     "gloss": "niṣpaṭa",
+     "grounds": "first name or qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "carukaṃ",
+     "gloss": "caruka",
+     "grounds": "name of type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act-√vid"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal location",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where should the Niṣpaṭa Caruka type be especially recognized?",
+   "premises": [
+    "The Niṣpaṭa Caruka type is specified.",
+    "Its recognition is prescribed.",
+    "It applies everywhere, with special emphasis."
+   ],
+   "inference": "One should know Niṣpaṭa Caruka especially everywhere.",
+   "uncertainties": [
+    "Whether niṣpaṭa is a distinct type or a qualifier of caruka"
+   ],
+   "plain_english": "One should know Niṣpaṭa Caruka especially everywhere."
+  }
+ ]
+}

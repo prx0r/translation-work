@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "arccayan",
+     "gloss": "worshipping",
+     "grounds": "present participle indicating the act of worship",
+     "morph": "pr.part.nom.sg.m~√arc"
+    },
+    {
+     "surface": "pārthivaṃ+liṅgaṃ",
+     "gloss": "earthen-liṅga",
+     "grounds": "object of worship, formed from clay",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "yathoktaphalabhāk",
+     "gloss": "as-stated-fruit-sharer",
+     "grounds": "one who obtains the fruit previously described",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "expresses the resulting attainment",
+     "morph": "3.sg.act-opt~√bhū"
+    }
+   ],
+   "question": "What attainment results from worshipping an earthen liṅga?",
+   "premises": [
+    "A person may worship an earthen liṅga.",
+    "The worship is performed as previously described.",
+    "The previously described practice yields a stated fruit."
+   ],
+   "inference": "Therefore the worshipper becomes a sharer in the stated fruit.",
+   "uncertainties": [],
+   "plain_english": "By worshipping an earthen liṅga, one becomes a sharer in the fruit as stated."
+  }
+ ]
+}

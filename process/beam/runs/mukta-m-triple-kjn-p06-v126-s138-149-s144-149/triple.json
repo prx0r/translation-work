@@ -1,0 +1,341 @@
+{
+ "song": "kjn-p06",
+ "items": [
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third singular present active of bhū",
+     "morph": "3.sg.act-pres bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsa",
+     "gloss": "months",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhyantareṇa",
+     "gloss": "within",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can six months of practice remove all doubt about this process?",
+   "premises": [
+    "six months practice removes doubt",
+    "no uncertainty remains after practice"
+   ],
+   "inference": "the practice is held to remove doubt within six months",
+   "uncertainties": [
+    "legacy glosses are terse"
+   ],
+   "plain_english": "There is no doubt that this happens within six months."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "sādravaṃ",
+     "gloss": "with-fluid",
+     "grounds": "compound adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "varṇañca",
+     "gloss": "color-and",
+     "grounds": "fused sandhi form with ca",
+     "morph": "adj"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svara",
+     "gloss": "svaras",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past participle",
+     "morph": "pp"
+    }
+   ],
+   "question": "What color and fluid adornment marks the sixteen svaras?",
+   "premises": [
+    "fluid accompanies the color",
+    "sixteen svaras are adorned"
+   ],
+   "inference": "the svaras are described as black and fluid-adorned",
+   "uncertainties": [
+    "exact sandhi of varṇañca"
+   ],
+   "plain_english": "With fluid, black in color, and adorned with sixteen svaras."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsa",
+     "gloss": "months",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asevanā",
+     "gloss": "service",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhyastāt",
+     "gloss": "practiced",
+     "grounds": "ablative participle",
+     "morph": "abl"
+    },
+    {
+     "surface": "vṛddhaḥ",
+     "gloss": "old",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taruṇā",
+     "gloss": "youthful",
+     "grounds": "instrumental adjective",
+     "morph": "inst"
+    },
+    {
+     "surface": "āyate",
+     "gloss": "becomes",
+     "grounds": "third singular present middle",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "Can an old person become youthful through six months of practice?",
+   "premises": [
+    "six months of practice",
+    "even an old person becomes youthful"
+   ],
+   "inference": "practice is said to restore youth even to the aged",
+   "uncertainties": [
+    "asevanā parsing is uncertain"
+   ],
+   "plain_english": "Even an old person becomes youthful through six months of practiced service."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "asitaṃ",
+     "gloss": "black",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "varṇakam",
+     "gloss": "colored",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What color is associated with the yoginī place?",
+   "premises": [
+    "resorting to the yoginī place",
+    "black color is indicated"
+   ],
+   "inference": "the yoginī place is linked with black coloration",
+   "uncertainties": [
+    "compound boundaries unclear"
+   ],
+   "plain_english": "Having resorted to the yoginī place, it is black and black-colored."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "keśa",
+     "gloss": "hair",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "skandha",
+     "gloss": "shoulder",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kapāla",
+     "gloss": "skull",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rañjayet",
+     "gloss": "one-should-color",
+     "grounds": "third singular optative active",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "masculine genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tejasā",
+     "gloss": "by-splendor",
+     "grounds": "instrumental singular",
+     "morph": "inst"
+    }
+   ],
+   "question": "How should hair, shoulder, and skull be colored?",
+   "premises": [
+    "hair shoulder and skull are situated",
+    "one should color them by splendor"
+   ],
+   "inference": "the coloring is performed by splendor",
+   "uncertainties": [
+    "sthaṃ agreement is unclear"
+   ],
+   "plain_english": "Hair, shoulder, and skull situated there should be colored by his splendor."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maraṇa",
+     "gloss": "death",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmuktaḥ",
+     "gloss": "freed-from",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "roga",
+     "gloss": "illness",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivarjitaḥ",
+     "gloss": "devoid-of",
+     "grounds": "masculine nominative singular participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What afflictions is the practitioner freed from?",
+   "premises": [
+    "freed from old age and death",
+    "devoid of disease and illness"
+   ],
+   "inference": "the practice liberates from aging, death, and sickness",
+   "uncertainties": [
+    "compound scope is uncertain"
+   ],
+   "plain_english": "Freed from old age and death, devoid of disease and illness."
+  }
+ ]
+}

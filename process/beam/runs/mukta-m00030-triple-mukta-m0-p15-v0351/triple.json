@@ -1,0 +1,1337 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "kadaryam",
+     "gloss": "miserly-person",
+     "grounds": "person to be avoided",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "niṣṭhuram",
+     "gloss": "harsh-person",
+     "grounds": "person to be avoided",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √parivṛj"
+    }
+   ],
+   "question": "Which kinds of people must a practitioner avoid in conduct?",
+   "premises": [
+    "A miserly person is unsuitable company",
+    "A harsh person is unsuitable company",
+    "The practitioner must avoid them"
+   ],
+   "inference": "One should avoid both the miserly and the harsh.",
+   "uncertainties": [],
+   "plain_english": "O Great Goddess, one should avoid the miserly and the harsh person."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "what should be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayet",
+     "gloss": "one-should-speak",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √kath"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithyām",
+     "gloss": "falsehood",
+     "grounds": "what must not be spoken",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal negation in time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What standard of speech must a practitioner always uphold?",
+   "premises": [
+    "Truth is to be spoken",
+    "Falsehood must not be spoken",
+    "This prohibition applies at all times"
+   ],
+   "inference": "One should always speak truth and never speak falsehood.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, one should speak truth and never speak falsehood at any time."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "object of worship",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ārādhanam",
+     "gloss": "worship",
+     "grounds": "act to be contemplated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pratyaham",
+     "gloss": "every-day",
+     "grounds": "daily frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How regularly must the wise practitioner contemplate worship of the guru?",
+   "premises": [
+    "The guru is the object of worship",
+    "Contemplation is prescribed",
+    "The wise one must do this every day"
+   ],
+   "inference": "The wise practitioner should contemplate the worship of the guru daily.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, the wise one should contemplate the worship of the guru every day."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound",
+     "morph": "eka+grāme compound"
+    },
+    {
+     "surface": "grāme",
+     "gloss": "village",
+     "grounds": "location",
+     "morph": "eka+grāme compound, m.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "dwelling",
+     "grounds": "guru's presence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+sandhyam",
+     "gloss": "three-twilights",
+     "grounds": "three daily junctions",
+     "morph": "tri+sandhyam compound, (indecl.)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √praṇam"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "to-guru",
+     "grounds": "object of reverence",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How often must one bow to a guru dwelling in the same village?",
+   "premises": [
+    "The guru may dwell in the same village",
+    "Bowing is prescribed",
+    "It must be done at the three twilights always"
+   ],
+   "inference": "One should always bow to a guru dwelling in the same village at the three twilights.",
+   "uncertainties": [],
+   "plain_english": "One should always bow at the three twilights to the guru who dwells in the same village."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "strīṇām",
+     "gloss": "of-women",
+     "grounds": "possessor of feet",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pada",
+     "gloss": "foot",
+     "grounds": "first member of compound",
+     "morph": "pada+talam compound"
+    },
+    {
+     "surface": "talam",
+     "gloss": "sole",
+     "grounds": "object seen",
+     "morph": "pada+talam compound, n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior action",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "guru+vat",
+     "gloss": "as-guru",
+     "grounds": "mode of regard",
+     "morph": "guru+vat compound, (indecl.)"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-regard",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-causative-active √bhū"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant attitude",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a practitioner regard the sight of women's feet?",
+   "premises": [
+    "The soles of women's feet may be seen",
+    "A specific attitude is prescribed",
+    "They should always be regarded as the guru"
+   ],
+   "inference": "Upon seeing women's feet, one should always regard them as the guru.",
+   "uncertainties": [],
+   "plain_english": "Having seen the soles of women's feet, one should always regard them as one regards the guru."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "śarīram",
+     "gloss": "body",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-causative-active √kṛ"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gandharva",
+     "gloss": "celestial-musician",
+     "grounds": "first member of compound",
+     "morph": "gandharva+deva compound"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "second member of compound",
+     "morph": "gandharva+deva compound"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "quality of body",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of body should the practitioner cultivate according to this teaching?",
+   "premises": [
+    "The body is to be cultivated",
+    "It should be made supreme",
+    "It should be like that of celestial musicians and gods"
+   ],
+   "inference": "One should make the body supreme, like that of gandharvas and gods.",
+   "uncertainties": [
+    "kārayet may imply ritual transformation rather than literal making"
+   ],
+   "plain_english": "O Goddess, one should make the body supreme, like that of the gandharvas and gods."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satva",
+     "gloss": "purity",
+     "grounds": "first member of compound",
+     "morph": "satva+guṇena compound"
+    },
+    {
+     "surface": "guṇena",
+     "gloss": "quality",
+     "grounds": "means of worship",
+     "morph": "satva+guṇena compound, m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "sura",
+     "gloss": "god",
+     "grounds": "first member of compound",
+     "morph": "sura+sundarīm compound"
+    },
+    {
+     "surface": "sundarīm",
+     "gloss": "beautiful-one",
+     "grounds": "object of worship",
+     "morph": "sura+sundarīm compound, f.acc.sg"
+    }
+   ],
+   "question": "With what quality must one always worship the beautiful goddess?",
+   "premises": [
+    "The beautiful goddess is to be worshipped",
+    "Worship must be constant",
+    "It must be performed with the quality of purity"
+   ],
+   "inference": "One should always worship the beautiful goddess with the quality of purity.",
+   "uncertainties": [],
+   "plain_english": "One should always worship the beautiful goddess of the gods with the quality of purity alone."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of identity claim",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "other",
+     "grounds": "exclusion of otherness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "existential assertion",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "dehake",
+     "gloss": "in-body",
+     "grounds": "locus of deity",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the deity located in relation to the practitioner's own body?",
+   "premises": [
+    "The deity is affirmed in the body",
+    "No other deity is present there",
+    "The body is identified as the locus"
+   ],
+   "inference": "The deity is not other than what is present in one's own body.",
+   "uncertainties": [],
+   "plain_english": "O Great Goddess, there is no deity other than the one in my own body."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "tri+puṇḍam",
+     "gloss": "triple-mark",
+     "grounds": "ritual mark",
+     "morph": "tri+puṇḍam compound, n.acc.sg"
+    },
+    {
+     "surface": "bhasmanā",
+     "gloss": "with-ashes",
+     "grounds": "material for mark",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "first member of compound",
+     "morph": "rakta+candanakena compound"
+    },
+    {
+     "surface": "candanakena",
+     "gloss": "sandalwood",
+     "grounds": "alternative material",
+     "morph": "rakta+candanakena compound, n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials may be used to apply the prescribed triple mark?",
+   "premises": [
+    "A triple mark is prescribed",
+    "Ashes may be used",
+    "Red sandalwood may be used as an alternative"
+   ],
+   "inference": "The triple mark may be made with ashes or with red sandalwood.",
+   "uncertainties": [],
+   "plain_english": "One may apply the triple mark with ashes or with red sandalwood."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "exclusive condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "identity assumed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior transformation",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sanātanīm",
+     "gloss": "eternal",
+     "grounds": "quality of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "In what identity must one worship the eternal goddess?",
+   "premises": [
+    "The eternal goddess is to be worshipped",
+    "A prior transformation is required",
+    "One must become Bhairava alone"
+   ],
+   "inference": "One should worship the eternal goddess only after having become Bhairava.",
+   "uncertainties": [],
+   "plain_english": "Having become Bhairava alone, one should worship the eternal Goddess."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "samayān",
+     "gloss": "observances",
+     "grounds": "ritual commitments",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "prior acceptance",
+     "morph": "(gerund) √grah"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "first member of compound",
+     "morph": "pūjā+ādau compound"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "beginning-and-so-forth",
+     "grounds": "ritual context",
+     "morph": "pūjā+ādau compound, m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must be undertaken before beginning worship and related rites?",
+   "premises": [
+    "Observances must be taken",
+    "Worship and related rites follow",
+    "Taking observances precedes them"
+   ],
+   "inference": "One must first take the observances before worship and other rites.",
+   "uncertainties": [
+    "pūjā+ādau implies worship and similar acts but scope is open"
+   ],
+   "plain_english": "O Great Lady, having taken the observances, one then proceeds in worship and so forth."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound; divine energy lineage",
+     "morph": "kula+vṛkṣam compound"
+    },
+    {
+     "surface": "vṛkṣam",
+     "gloss": "tree",
+     "grounds": "sacred object",
+     "morph": "kula+vṛkṣam compound, m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior action",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "should-be-done",
+     "grounds": "obligation",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What response is required upon seeing the sacred kula tree?",
+   "premises": [
+    "The kula tree may be seen",
+    "Seeing it creates an obligation",
+    "An appropriate act must be done"
+   ],
+   "inference": "Upon seeing the kula tree, one must perform the required act.",
+   "uncertainties": [
+    "The specific act to be done is not stated in this verse"
+   ],
+   "plain_english": "O Great Lady, likewise, having seen the kula tree, one should perform the proper act."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "prescribed time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "prohibited time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic inclusion in negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal negation in time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what time must worship of the goddess be performed or avoided?",
+   "premises": [
+    "Worship of the goddess is prescribed",
+    "Night is the proper time",
+    "Daytime worship is never permitted"
+   ],
+   "inference": "One should worship the goddess at night and never by day.",
+   "uncertainties": [],
+   "plain_english": "One should worship the Goddess at night, and never at any time by day."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "everything",
+     "grounds": "totality to be offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "para+deve",
+     "gloss": "to-supreme-goddess",
+     "grounds": "recipient of offering",
+     "morph": "para+deve compound, f.loc.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-causative-active √ṛ"
+    }
+   ],
+   "question": "To whom must the practitioner offer everything without exception?",
+   "premises": [
+    "Everything is to be offered",
+    "The supreme goddess is the recipient",
+    "The offering must be complete"
+   ],
+   "inference": "One should offer everything to the supreme goddess.",
+   "uncertainties": [],
+   "plain_english": "O Great Lady, one should offer everything indeed to the Supreme Goddess."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of prohibition",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālām",
+     "gloss": "rosary",
+     "grounds": "ritual object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "prohibited action",
+     "morph": "3.sg.optative-active √spṛś"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal negation in time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual objects must never be touched during the night?",
+   "premises": [
+    "The diagram and rosary are ritual objects",
+    "Touching them at night is addressed",
+    "Such touching is never permitted"
+   ],
+   "inference": "One should never touch the diagram or the rosary at night.",
+   "uncertainties": [],
+   "plain_english": "At night, one should never touch the yantra or the rosary."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "mantre",
+     "gloss": "in-mantra",
+     "grounds": "locus of wrong view",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "letter",
+     "grounds": "first member of compound",
+     "morph": "akṣara+buddhim compound"
+    },
+    {
+     "surface": "buddhim",
+     "gloss": "notion",
+     "grounds": "wrong understanding",
+     "morph": "akṣara+buddhim compound, f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aviśvāsaḥ",
+     "gloss": "disbelief",
+     "grounds": "wrong attitude",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "in-guru",
+     "grounds": "object of disbelief",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attitudes toward mantra and guru must always be avoided?",
+   "premises": [
+    "Mantra must not be reduced to mere letters",
+    "Disbelief in the guru is faulted",
+    "These faults must be avoided always"
+   ],
+   "inference": "One must always avoid seeing mantra as mere letters and disbelieving the guru.",
+   "uncertainties": [
+    "Verse lists faults without explicit verb; prohibition is inferred from context"
+   ],
+   "plain_english": "One must always avoid regarding the mantra as mere letters and having disbelief in the guru."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "nirāmiṣeṇa",
+     "gloss": "without-meat",
+     "grounds": "mode of worship",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatāyāḥ",
+     "gloss": "of-deity",
+     "grounds": "object of worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prapūjanam",
+     "gloss": "worship",
+     "grounds": "act described",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form of offering is condemned in the worship of the deity?",
+   "premises": [
+    "Worship of the deity is the context",
+    "Worship without meat is named",
+    "The verse presents this as a fault in this context"
+   ],
+   "inference": "Worship of the deity without meat is identified as a fault.",
+   "uncertainties": [
+    "Fault status is inferred from surrounding prohibitions; no explicit negative verb in this verse"
+   ],
+   "plain_english": "O Lady of the Gods, worship of the deity without meat is a fault."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "objects of criticism",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindām",
+     "gloss": "criticism",
+     "grounds": "faulty act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "mantra+kūryāt compound"
+    },
+    {
+     "surface": "kūryāt",
+     "gloss": "one-should-make",
+     "grounds": "faulty action",
+     "morph": "mantra+kūryāt compound, 3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What verbal and ritual faults toward others and mantra must be avoided?",
+   "premises": [
+    "Criticism of all is named as a fault",
+    "Misuse or making of mantra is named as a fault",
+    "These are to be avoided"
+   ],
+   "inference": "One must avoid criticizing all and committing faults regarding mantra.",
+   "uncertainties": [
+    "mantra+kūryāt is obscure; may mean making mantra into an object of fault or improper mantra-making"
+   ],
+   "plain_english": "O Great Lady, one must avoid criticizing everyone and committing faults with mantra."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "uttamaḥ",
+     "gloss": "highest",
+     "grounds": "rank",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divya",
+     "gloss": "divine",
+     "grounds": "first member of compound",
+     "morph": "divya+bhāvaḥ compound"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "disposition",
+     "grounds": "spiritual state",
+     "morph": "divya+bhāvaḥ compound, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīra",
+     "gloss": "heroic",
+     "grounds": "first member of compound",
+     "morph": "vīra+bhāvaḥ compound"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "disposition",
+     "grounds": "spiritual state",
+     "morph": "vīra+bhāvaḥ compound, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamaḥ",
+     "gloss": "middle",
+     "grounds": "rank",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the divine and heroic dispositions ranked in this teaching?",
+   "premises": [
+    "The divine disposition is named",
+    "The heroic disposition is named",
+    "They are ranked as highest and middle respectively"
+   ],
+   "inference": "The divine disposition is highest and the heroic disposition is middle.",
+   "uncertainties": [],
+   "plain_english": "The divine disposition is the highest, and the heroic disposition is the middle."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "paśu",
+     "gloss": "beast",
+     "grounds": "first member of compound",
+     "morph": "paśu+bhāve compound"
+    },
+    {
+     "surface": "bhāve",
+     "gloss": "disposition",
+     "grounds": "spiritual state",
+     "morph": "paśu+bhāve compound, m.loc.sg"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "condition of mantras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kevalāḥ",
+     "gloss": "merely",
+     "grounds": "limitation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "letter",
+     "grounds": "first member of compound",
+     "morph": "varṇa+rūpiṇaḥ compound"
+    },
+    {
+     "surface": "rūpiṇaḥ",
+     "gloss": "having-form",
+     "grounds": "reduced nature",
+     "morph": "varṇa+rūpiṇaḥ compound, m.nom.pl"
+    }
+   ],
+   "question": "How are mantras understood when confined to the beast disposition?",
+   "premises": [
+    "Mantras may be situated in the beast disposition",
+    "In that state they are merely letter-forms",
+    "Their nature is reduced to external form"
+   ],
+   "inference": "In the beast disposition, mantras are regarded as mere letter-forms.",
+   "uncertainties": [],
+   "plain_english": "Mantras situated in the beast disposition are merely forms made of letters."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior action",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "kula",
+     "grounds": "sacred group or energy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member of compound",
+     "morph": "kula+vṛkṣam compound"
+    },
+    {
+     "surface": "vṛkṣam",
+     "gloss": "tree",
+     "grounds": "sacred object",
+     "morph": "kula+vṛkṣam compound, m.acc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sacred sights especially call for reverent response in this context?",
+   "premises": [
+    "Seeing the kula is significant",
+    "Seeing the kula tree is significant",
+    "The kula tree is especially emphasized"
+   ],
+   "inference": "Upon seeing the kula, and especially the kula tree, one must respond appropriately.",
+   "uncertainties": [
+    "The required response is implied but not stated explicitly"
+   ],
+   "plain_english": "O Great Lady, having seen the kula, and especially the kula tree..."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "kūla",
+     "gloss": "kula",
+     "grounds": "first member of compound",
+     "morph": "kūla+striyam compound"
+    },
+    {
+     "surface": "striyam",
+     "gloss": "woman",
+     "grounds": "person to be honored",
+     "morph": "kūla+striyam compound, f.acc.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tantra",
+     "gloss": "tantra",
+     "grounds": "first member of compound",
+     "morph": "tantra+mantra compound"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "second member of compound",
+     "morph": "tantra+mantra compound"
+    },
+    {
+     "surface": "viśāradām",
+     "gloss": "skilled",
+     "grounds": "qualification",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which woman is singled out as worthy of special reverence?",
+   "premises": [
+    "A woman of the kula is named",
+    "She is skilled in tantra and mantra",
+    "Such a woman is to be honored"
+   ],
+   "inference": "A kula woman skilled in tantra and mantra is especially worthy of reverence.",
+   "uncertainties": [
+    "kūla spelling differs from kula; taken as same term in this context"
+   ],
+   "plain_english": "O Great Goddess, a woman of the kula who is skilled in tantra and mantra..."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "vṛddhām",
+     "gloss": "old",
+     "grounds": "possible age",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuvatīm",
+     "gloss": "young",
+     "grounds": "possible age",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskūryāt",
+     "gloss": "one-should-bow",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √namas+kṛ"
+    },
+    {
+     "surface": "vara+ānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "vara+ānane compound, f.voc.sg"
+    }
+   ],
+   "question": "Does age affect the obligation to bow to a qualified kula woman?",
+   "premises": [
+    "The woman may be old or young",
+    "Bowing is prescribed",
+    "Age does not remove the obligation"
+   ],
+   "inference": "One should bow to her whether she is old or young.",
+   "uncertainties": [],
+   "plain_english": "O fair-faced one, one should bow to her whether she is old or young."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "starting age",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varyam",
+     "gloss": "years",
+     "grounds": "age measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "starting point",
+     "morph": "(gerund) √samārabh"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "range limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "ending age",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārṣikī",
+     "gloss": "year-old",
+     "grounds": "age qualification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What age range is specified for the female subject in this injunction?",
+   "premises": [
+    "A starting age of five years is given",
+    "An upper limit of twelve years is given",
+    "The range defines the applicable subject"
+   ],
+   "inference": "The specified age range is from five years up to twelve years old.",
+   "uncertainties": [
+    "Connection to preceding verse's injunction is syntactic across verses; this verse gives the age range"
+   ],
+   "plain_english": "Beginning from five years of age up to twelve years old."
+  }
+ ]
+}

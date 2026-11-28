@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p177",
+ "items": [
+  {
+   "verse": 4425,
+   "rows": [
+    {
+     "surface": "vyaktāvyaktam",
+     "gloss": "manifest-unmanifest",
+     "grounds": "compound describing a form that is both manifest and unmanifest",
+     "morph": "compound: vyakta+avyaktam; n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the form under discussion",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past passive participle indicating what is recognized or declared",
+     "morph": "ppp.n.nom.sg; root khyā"
+    },
+    {
+     "surface": "vyaktaliṅgam",
+     "gloss": "having-manifest-mark",
+     "grounds": "compound indicating possession of a manifest characteristic sign",
+     "morph": "compound: vyakta+liṅgam; n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "indeclinable marking transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-spoken",
+     "grounds": "present passive verb introducing the description",
+     "morph": "3.sg.passive-present; root vac"
+    }
+   ],
+   "question": "How is the manifest-unmanifest form characterized by a manifest mark identified?",
+   "premises": [
+    "A form is described as both manifest and unmanifest.",
+    "This form is recognized as possessing a manifest mark.",
+    "The description of this form is now being presented."
+   ],
+   "inference": "The manifest-unmanifest form is identified as that which bears a manifest mark.",
+   "uncertainties": [],
+   "plain_english": "This manifest-unmanifest form is known as having a manifest mark; now it is being described."
+  }
+ ]
+}

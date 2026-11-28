@@ -1,0 +1,593 @@
+{
+ "song": "kul-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine singular nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter singular accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "neuter singular accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "destroys",
+     "grounds": "third singular active optative of han",
+     "morph": "3.sg.act-opt (han)"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "darkness",
+     "grounds": "neuter singular accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūryodayo",
+     "gloss": "sunrise",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the yogi destroy all sin?",
+   "premises": [
+    "he destroys all sin",
+    "sunrise dispels darkness"
+   ],
+   "inference": "all sin is destroyed as sunrise dispels darkness",
+   "uncertainties": [
+    "optative mood context unspecified"
+   ],
+   "plain_english": "As sunrise dispels darkness, he destroys all sin."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "that",
+     "grounds": "neuter singular nominative or accusative relative pronoun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "neuter singular accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṭiguṇitaṃ",
+     "gloss": "million-fold",
+     "grounds": "neuter singular accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "neuter singular accusative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "third singular active present of āp",
+     "morph": "3.sg.act-pres (āp)"
+    },
+    {
+     "surface": "tattvavit",
+     "gloss": "truth-knower",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fruit does the truth-knower obtain?",
+   "premises": [
+    "that fruit is million-fold",
+    "truth-knower obtains it"
+   ],
+   "inference": "the truth-knower obtains that fruit million-fold",
+   "uncertainties": [
+    "relative yat scope unspecified"
+   ],
+   "plain_english": "The truth-knower obtains that fruit million-fold."
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "japastutiḥ",
+     "gloss": "japa-praise",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "third singular active optative of as",
+     "morph": "3.sg.act-opt (as)"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "feminine singular nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "homapūjā",
+     "gloss": "homa-worship",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhamādhamā",
+     "gloss": "lowest-of-low",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which practices are called lowest?",
+   "premises": [
+    "japa-praise is lowest",
+    "homa-worship is lowest-of-low"
+   ],
+   "inference": "homa-worship ranks below japa-praise",
+   "uncertainties": [
+    "exact comparative scope unspecified"
+   ],
+   "plain_english": "Japa-praise is lowest; homa-worship is lowest of the low."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "śāstracintā",
+     "gloss": "scripture-thought",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "feminine singular nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "feminine singular nominative gerundive of jñā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokacintā",
+     "gloss": "world-thought",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhamādhamā",
+     "gloss": "lowest-of-low",
+     "grounds": "feminine singular nominative compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which thoughts are ranked lowest?",
+   "premises": [
+    "scripture-thought is lowest",
+    "world-thought is lowest-of-low"
+   ],
+   "inference": "world-thought ranks below scripture-thought",
+   "uncertainties": [
+    "gerundive force unspecified"
+   ],
+   "plain_english": "Scripture-thought is lowest; world-thought is lowest of the low."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "japakoṭisamaṃ",
+     "gloss": "japa-million-equal",
+     "grounds": "neuter singular nominative or accusative compound",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "neuter singular nominative or accusative noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dhyānakoṭisamo",
+     "gloss": "meditation-million-equal",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "layaḥ",
+     "gloss": "dissolution",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do meditation and dissolution compare?",
+   "premises": [
+    "meditation equals million japa",
+    "dissolution equals million meditation"
+   ],
+   "inference": "dissolution surpasses meditation as meditation surpasses japa",
+   "uncertainties": [
+    "exact comparative construction unspecified"
+   ],
+   "plain_english": "Meditation equals a million japa; dissolution equals a million meditation."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anusandhāt",
+     "gloss": "inquiry",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "feminine singular nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "feminine singular nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛpteḥ",
+     "gloss": "beyond-satisfaction",
+     "grounds": "feminine singular genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "neuter singular nominative or accusative noun",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "Why is supreme worship not inquiry?",
+   "premises": [
+    "supreme worship is not inquiry",
+    "its fruit is beyond satisfaction"
+   ],
+   "inference": "supreme worship transcends inquiry because its fruit is beyond satisfaction",
+   "uncertainties": [
+    "tṛpteḥ exact sense unspecified"
+   ],
+   "plain_english": "Supreme worship is not inquiry; indeed its fruit is beyond satisfaction."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "acintā",
+     "gloss": "thoughtless",
+     "grounds": "feminine singular nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "neuter singular nominative or accusative adjective",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "neuter singular nominative or accusative noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "anicchā",
+     "gloss": "desireless",
+     "grounds": "feminine singular nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "neuter singular nominative or accusative adjective",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "neuter singular nominative or accusative noun",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What makes meditation and fruit supreme?",
+   "premises": [
+    "thoughtless meditation is supreme",
+    "desireless fruit is supreme"
+   ],
+   "inference": "supremacy belongs to thoughtless meditation and desireless fruit",
+   "uncertainties": [
+    "iva and eva emphasis unspecified"
+   ],
+   "plain_english": "Thoughtless meditation is supreme; desireless fruit is supreme."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "offerings",
+     "grounds": "masculine plural instrumental noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "feminine singular accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "performs",
+     "grounds": "third singular active optative of samācar",
+     "morph": "3.sg.act-opt (samācar)"
+    }
+   ],
+   "question": "How does the yogi perform worship?",
+   "premises": [
+    "yogi performs worship always",
+    "worship is without offerings"
+   ],
+   "inference": "the yogi always performs worship without offerings",
+   "uncertainties": [
+    "optative force unspecified"
+   ],
+   "plain_english": "The yogi always performs worship without offerings."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "nijasvarūpanirmagnaḥ",
+     "gloss": "own-nature-immersed",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine singular nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paratattvavit",
+     "gloss": "supreme-truth-knower",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the supreme truth-knower?",
+   "premises": [
+    "he is immersed in own nature",
+    "he is yogi and supreme truth-knower"
+   ],
+   "inference": "the yogi immersed in own nature is supreme truth-knower",
+   "uncertainties": [
+    "compound internal relation unspecified"
+   ],
+   "plain_english": "Immersed in his own nature, that yogi is supreme truth-knower."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "tyajet",
+     "gloss": "abandon",
+     "grounds": "third singular active optative of tyaj",
+     "morph": "3.sg.act-opt (tyaj)"
+    },
+    {
+     "surface": "ajñānanirmālyaṃ",
+     "gloss": "ignorance-garland",
+     "grounds": "neuter singular accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "so",
+     "gloss": "he",
+     "grounds": "masculine singular nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahambhāvena",
+     "gloss": "I-am-attitude",
+     "grounds": "masculine singular instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worships",
+     "grounds": "third singular active optative of pūj",
+     "morph": "3.sg.act-opt (pūj)"
+    }
+   ],
+   "question": "How should ignorance be abandoned in worship?",
+   "premises": [
+    "he abandons ignorance-garland",
+    "he worships with I-am-attitude"
+   ],
+   "inference": "worship abandons ignorance-garland through I-am-attitude",
+   "uncertainties": [
+    "optative force unspecified"
+   ],
+   "plain_english": "He abandons the garland of ignorance and worships with I-am-attitude."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "pāśabaddhaḥ",
+     "gloss": "bond-bound",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛto",
+     "gloss": "called",
+     "grounds": "masculine singular nominative participle of smṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "soul",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāśamuktaḥ",
+     "gloss": "bond-free",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "Sadashiva",
+     "grounds": "masculine singular nominative proper noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When is a soul called Sadashiva?",
+   "premises": [
+    "bond-bound is called soul",
+    "bond-free is Sadashiva"
+   ],
+   "inference": "bonded state is soul and free state is Sadashiva",
+   "uncertainties": [
+    "smṛto participle tense unspecified"
+   ],
+   "plain_english": "Bond-bound is called soul; bond-free is Sadashiva."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "karmabaddhaḥ",
+     "gloss": "karma-bound",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛto",
+     "gloss": "called",
+     "grounds": "masculine singular nominative participle of smṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "soul",
+     "grounds": "masculine singular nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmamuktaḥ",
+     "gloss": "karma-free",
+     "grounds": "masculine singular nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "Sadashiva",
+     "grounds": "masculine singular nominative proper noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When is a soul called Sadashiva?",
+   "premises": [
+    "karma-bound is called soul",
+    "karma-free is Sadashiva"
+   ],
+   "inference": "karma-bound state is soul and karma-free state is Sadashiva",
+   "uncertainties": [
+    "smṛto participle tense unspecified"
+   ],
+   "plain_english": "Karma-bound is called soul; karma-free is Sadashiva."
+  }
+ ]
+}

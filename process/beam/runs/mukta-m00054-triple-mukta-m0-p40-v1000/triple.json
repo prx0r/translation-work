@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the hymn",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "restrictive particle emphasizing sufficiency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṭha",
+     "gloss": "recitation",
+     "grounds": "first member of instrumental compound with mātreṇa",
+     "morph": "pāṭha+first-member(compound)"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere-measure",
+     "grounds": "final member indicating mere extent or sufficiency",
+     "morph": "mātra+n.inst.sg(compound-final)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to future people mentioned in prior verse",
+     "morph": "pron.m.gen.pl"
+    },
+    {
+     "surface": "śreyo",
+     "gloss": "welfare",
+     "grounds": "supreme good or spiritual benefit",
+     "morph": "śreyas+n.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future result of recitation",
+     "morph": "bhū+3.sg.fut.act"
+    }
+   ],
+   "question": "What simple means ensures spiritual welfare for future generations of devotees?",
+   "premises": [
+    "Future people may lack direct access to teachers or rituals.",
+    "This hymn possesses inherent spiritual efficacy.",
+    "Mere recitation of this hymn constitutes sufficient practice."
+   ],
+   "inference": "Therefore mere recitation of this hymn will bring welfare to them.",
+   "uncertainties": [
+    "The exact referent of asya as this hymn or a broader teaching is context-dependent."
+   ],
+   "plain_english": "By the mere recitation of this alone, welfare will come to them."
+  }
+ ]
+}

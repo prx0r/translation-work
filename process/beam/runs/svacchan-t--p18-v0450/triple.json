@@ -1,0 +1,45 @@
+{
+ "song": "sva-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "vikasanti",
+     "gloss": "bloom",
+     "grounds": "present active third plural of vikas (bloom/open)",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvavāha",
+     "gloss": "upward-flow",
+     "grounds": "compound of ūrdhva (upward) and vāha (flow)",
+     "morph": "compound"
+    },
+    {
+     "surface": "unmukhībhavanti",
+     "gloss": "turning-toward",
+     "grounds": "present active third plural of unmukhī-bhū (become upward-facing)",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "How do the channels behave during upward flow?",
+   "premises": [
+    "channels bloom during kumbhaka",
+    "upward flow turns them upward",
+    "they become upward-facing"
+   ],
+   "inference": "upward flow makes the channels bloom and turn upward",
+   "uncertainties": [
+    "exact referent of 'they' is unspecified"
+   ],
+   "plain_english": "They bloom; thus, in upward flow, they turn upward."
+  }
+ ]
+}

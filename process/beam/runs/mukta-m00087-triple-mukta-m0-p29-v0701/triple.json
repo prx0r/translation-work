@@ -1,0 +1,1151 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "sattvān",
+     "gloss": "beings",
+     "grounds": "accusative plural masculine",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "bhageśvari",
+     "gloss": "o-goddess-of-bhaga",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "brūyād",
+     "gloss": "would-say",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-brū"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-mantra",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "blūṃja",
+     "gloss": "blūṃja",
+     "grounds": "mantra syllable indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra does the goddess instruct to speak for beings?",
+   "premises": [
+    "beings are addressed",
+    "goddess is invoked",
+    "vāgbhava mantra is spoken"
+   ],
+   "inference": "The verse prescribes speaking the vāgbhava mantra with blūṃja for beings.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "O goddess of Bhaga, one would say the vāgbhava mantra, blūṃja, thus also for beings."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "blū/",
+     "gloss": "blūṃ",
+     "grounds": "mantra syllable with slash",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klinne",
+     "gloss": "moist",
+     "grounds": "locative singular feminine adjective",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padasya",
+     "gloss": "of-word",
+     "grounds": "genitive singular neuter",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "accusative plural neuter",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagāni",
+     "gloss": "bhagas",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when blūṃ is moist at the end of the word?",
+   "premises": [
+    "blūṃ is moist",
+    "word-end is specified",
+    "all bhagas are included"
+   ],
+   "inference": "The moist blūṃ at word-end encompasses all bhagas.",
+   "uncertainties": [
+    "precise phonetic rule unclear"
+   ],
+   "plain_english": "When blūṃ is moist at the end of the word, all bhagas too are included."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "bhagamālā",
+     "gloss": "bhaga-garland",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "yoṣitkledanakāriṇī",
+     "gloss": "woman-moistening",
+     "grounds": "compound adjective feminine",
+     "morph": "adj.f"
+    }
+   ],
+   "question": "What is the bhaga-garland great vidyā said to do?",
+   "premises": [
+    "bhaga-garland is named",
+    "great vidyā is named",
+    "woman-moistening is attributed"
+   ],
+   "inference": "The bhaga-garland great vidyā is the woman-moistening power.",
+   "uncertainties": [
+    "exact deity identification not stated"
+   ],
+   "plain_english": "The bhaga-garland great vidyā is woman-moistening."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "vahnijāyānvito",
+     "gloss": "with-fire-consort",
+     "grounds": "compound adjective masculine",
+     "morph": "adj.m"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nityaklinna",
+     "gloss": "ever-moist",
+     "grounds": "compound adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "nominative singular feminine",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "past participle feminine",
+     "morph": "part.f"
+    }
+   ],
+   "question": "What mantra with fire consort is declared ever-moist?",
+   "premises": [
+    "mantra is with fire consort",
+    "it is ever-moist",
+    "it is declared"
+   ],
+   "inference": "The mantra accompanied by fire's consort is declared ever-moist.",
+   "uncertainties": [
+    "which fire consort is meant"
+   ],
+   "plain_english": "The mantra with fire's consort is declared ever-moist."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "tṛtīyāṃ",
+     "gloss": "third",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "tithim",
+     "gloss": "tithi",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-reached",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-nyas"
+    },
+    {
+     "surface": "tanau",
+     "gloss": "on-body",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Where is the third tithi placed on the body?",
+   "premises": [
+    "third tithi is reached",
+    "placement on body is prescribed",
+    "practitioner is concentrated"
+   ],
+   "inference": "The concentrated practitioner places the third tithi on the body.",
+   "uncertainties": [
+    "exact body location unspecified"
+   ],
+   "plain_english": "Having reached the third tithi, the concentrated one would place it on the body."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "accusative singular masculine",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkuśadvandvam",
+     "gloss": "goad-pair",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "bhroṅkāramālikhet",
+     "gloss": "bhroṅkāra-garland",
+     "grounds": "optative third singular active compound",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What is written in the middle with praṇava and goad-pair?",
+   "premises": [
+    "praṇava is included",
+    "goad-pair is included",
+    "middle placement is specified"
+   ],
+   "inference": "A bhroṅkāra garland is written in the middle with praṇava and goad-pair.",
+   "uncertainties": [
+    "exact script form unclear"
+   ],
+   "plain_english": "With praṇava and goad-pair in the middle, one would write a bhroṅkāra garland."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "vahnijāyānvito",
+     "gloss": "with-fire-consort",
+     "grounds": "compound adjective masculine",
+     "morph": "adj.m"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bheruṇḍāyāḥ",
+     "gloss": "of-bheruṇḍā",
+     "grounds": "genitive singular feminine",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "prakāśitaḥ",
+     "gloss": "manifested",
+     "grounds": "past participle masculine",
+     "morph": "part.m"
+    }
+   ],
+   "question": "Which mantra with fire consort is manifested for Bheruṇḍā?",
+   "premises": [
+    "mantra is with fire consort",
+    "Bheruṇḍā is genitive",
+    "manifestation is stated"
+   ],
+   "inference": "The fire-consort mantra is manifested for Bheruṇḍā.",
+   "uncertainties": [
+    "identity of Bheruṇḍā not explained"
+   ],
+   "plain_english": "The mantra with fire's consort is manifested for Bheruṇḍā."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "caturthyāṃ",
+     "gloss": "on-fourth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "yoni+bhāge",
+     "gloss": "yoni-place",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-sādhaka",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Where does the best sādhaka place on the fourth?",
+   "premises": [
+    "fourth is locative",
+    "yoni place is specified",
+    "best sādhaka acts"
+   ],
+   "inference": "The best sādhaka places on the yoni place on the fourth.",
+   "uncertainties": [
+    "exact ritual object unspecified"
+   ],
+   "plain_english": "On the fourth, the best sādhaka would place on the yoni place."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "hṛdantāṃ",
+     "gloss": "heart-ending",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "navel",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pañcamyāṃ",
+     "gloss": "on-fifth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "deśikāgraṇīḥ",
+     "gloss": "teacher-foremost",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Where does the foremost teacher place the heart-ending on the fifth?",
+   "premises": [
+    "heart-ending is accusative",
+    "navel is locative",
+    "fifth is locative"
+   ],
+   "inference": "The foremost teacher places the heart-ending at the navel on the fifth.",
+   "uncertainties": [
+    "heart-ending referent unclear"
+   ],
+   "plain_english": "The foremost teacher would place the heart-ending at the navel on the fifth."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "agnijāyā",
+     "gloss": "fire-consort",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mahānityeśvarīṃ",
+     "gloss": "great-eternal-īśvarī",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ṣaṣṭhyāṃ",
+     "gloss": "on-sixth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "kuce",
+     "gloss": "on-breast",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-nyas"
+    }
+   ],
+   "question": "Where is the great eternal īśvarī placed on the sixth?",
+   "premises": [
+    "fire consort is named",
+    "great eternal īśvarī is accusative",
+    "breast is locative"
+   ],
+   "inference": "On the sixth, the great eternal īśvarī is placed on the breast.",
+   "uncertainties": [
+    "relation to fire consort unclear"
+   ],
+   "plain_english": "On the sixth, one would place the great eternal īśvarī on the breast."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "saptamyāṃ",
+     "gloss": "on-seventh",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "enāṃ",
+     "gloss": "this",
+     "grounds": "accusative singular feminine",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "śivadūtīṃ",
+     "gloss": "śivadūtī",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Where is Śivadūtī placed on the seventh?",
+   "premises": [
+    "seventh is locative",
+    "Śivadūtī is accusative",
+    "heart is locative"
+   ],
+   "inference": "On the seventh, Śivadūtī is placed in the heart.",
+   "uncertainties": [
+    "svayaṃ scope unclear"
+   ],
+   "plain_english": "On the seventh, one would place Śivadūtī in the heart."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "throat",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tvaritāṃ",
+     "gloss": "tvaritā",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "dvādaśākṣarīm",
+     "gloss": "twelve-syllabled",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where is the twelve-syllabled Tvaritā placed on the eighth?",
+   "premises": [
+    "eighth is locative",
+    "throat is locative",
+    "Tvaritā is accusative"
+   ],
+   "inference": "On the eighth, the twelve-syllabled Tvaritā is placed at the throat.",
+   "uncertainties": [
+    "exact mantra form not given"
+   ],
+   "plain_english": "On the eighth, one would place the twelve-syllabled Tvaritā at the throat."
+  },
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "navamyāṃ",
+     "gloss": "on-ninth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "śuklapakṣe",
+     "gloss": "bright-fortnight",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gale",
+     "gloss": "throat",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative singular feminine",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-nyas"
+    }
+   ],
+   "question": "Where is she placed around on the ninth in bright fortnight?",
+   "premises": [
+    "ninth is locative",
+    "bright fortnight is locative",
+    "throat is locative"
+   ],
+   "inference": "On the ninth in bright fortnight, she is placed around the throat.",
+   "uncertainties": [
+    "antecedent of tāṃ unclear"
+   ],
+   "plain_english": "On the ninth in the bright fortnight, then, one would place her around the throat."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "pañcabāṇaṃ",
+     "gloss": "five-arrows",
+     "grounds": "accusative singular masculine",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mahānityāṃ",
+     "gloss": "great-eternal",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "daśamyām",
+     "gloss": "on-tenth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "adhare",
+     "gloss": "on-lower-lip",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-nyas"
+    }
+   ],
+   "question": "Where is the five-arrows great-eternal placed on the tenth?",
+   "premises": [
+    "five-arrows is accusative",
+    "great-eternal is accusative",
+    "lower lip is locative"
+   ],
+   "inference": "On the tenth, the five-arrows great-eternal is placed on the lower lip.",
+   "uncertainties": [
+    "compound relation unclear"
+   ],
+   "plain_english": "On the tenth, one would place the five-arrows great-eternal on the lower lip."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "savisargaḥ",
+     "gloss": "with-visarga",
+     "grounds": "nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcabāṇāḥ",
+     "gloss": "five-arrows",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "udāhṛtāḥ",
+     "gloss": "declared",
+     "grounds": "past participle plural masculine",
+     "morph": "part.pl.m"
+    }
+   ],
+   "question": "What is declared afterwards with visarga moon?",
+   "premises": [
+    "visarga moon is nominative",
+    "afterwards is specified",
+    "five-arrows are declared"
+   ],
+   "inference": "Afterwards, the five-arrows are declared with the visarga moon.",
+   "uncertainties": [
+    "exact phonetic usage unclear"
+   ],
+   "plain_english": "Afterwards, the five-arrows are declared with the visarga moon."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "ekādaśyāṃ",
+     "gloss": "on-eleventh",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-nyas"
+    },
+    {
+     "surface": "daṇḍe",
+     "gloss": "staff",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "vidyā",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "nīlapatākinīm",
+     "gloss": "blue-bannered",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where is the blue-bannered vidyā placed on the eleventh?",
+   "premises": [
+    "eleventh is locative",
+    "staff is locative",
+    "blue-bannered vidyā is accusative"
+   ],
+   "inference": "On the eleventh, the blue-bannered vidyā is placed on the staff.",
+   "uncertainties": [
+    "staff body-part sense unclear"
+   ],
+   "plain_english": "On the eleventh, one would place the blue-bannered vidyā on the staff."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "vijayāṃ",
+     "gloss": "vijayā",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "enāṃ",
+     "gloss": "this",
+     "grounds": "accusative singular feminine",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "dvādaśyām",
+     "gloss": "on-twelfth",
+     "grounds": "locative singular feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutau",
+     "gloss": "ear",
+     "grounds": "locative singular feminine",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Where does the wise one place Vijayā on the twelfth?",
+   "premises": [
+    "Vijayā is accusative",
+    "twelfth is locative",
+    "ear is locative"
+   ],
+   "inference": "On the twelfth, the wise one places Vijayā at the ear.",
+   "uncertainties": [
+    "enāṃ antecedent unclear"
+   ],
+   "plain_english": "The wise one would place Vijayā at the ear on the twelfth."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "maṅgalāyai",
+     "gloss": "to-maṅgalā",
+     "grounds": "dative singular feminine",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "netre",
+     "gloss": "eyes",
+     "grounds": "locative dual neuter",
+     "morph": "n.loc.du.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamaṅgalām",
+     "gloss": "all-auspicious",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What is said to Maṅgalā and placed at the eyes?",
+   "premises": [
+    "namaḥ is said to Maṅgalā",
+    "eyes are locative",
+    "all-auspicious is accusative"
+   ],
+   "inference": "Having said namaḥ to Maṅgalā, one places the all-auspicious at the eyes.",
+   "uncertainties": [
+    "exact placement object unclear"
+   ],
+   "plain_english": "Having said namaḥ to Maṅgalā, then one places the all-auspicious at the eyes."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "sarvapadānte",
+     "gloss": "all-word-end",
+     "grounds": "locative singular masculine",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtasaṃhārakārike",
+     "gloss": "bhūta-annihilating",
+     "grounds": "vocative singular feminine",
+     "morph": "adj.voc.sg.f"
+    }
+   ],
+   "question": "What is addressed at all word-end to the bhūta-annihilating goddess?",
+   "premises": [
+    "goddess is vocative",
+    "all word-end is locative",
+    "bhūta-annihilating is vocative"
+   ],
+   "inference": "The goddess is addressed as bhūta-annihilating at all word-end.",
+   "uncertainties": [
+    "missing main verb"
+   ],
+   "plain_english": "O goddess, bhūta-annihilating, at all word-end."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "jvaleti",
+     "gloss": "jvala",
+     "grounds": "quoted imperative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajvaladvandvaṃ",
+     "gloss": "blazing-pair",
+     "grounds": "accusative singular neuter",
+     "morph": "compound"
+    },
+    {
+     "surface": "huṃ+kāratritayaṃ",
+     "gloss": "huṃ-triad",
+     "grounds": "accusative singular neuter",
+     "morph": "compound"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "would-write",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-likh"
+    }
+   ],
+   "question": "What would one write with jvala, blazing-pair, and huṃ-triad?",
+   "premises": [
+    "jvala is quoted",
+    "blazing-pair is accusative",
+    "huṃ-triad is accusative"
+   ],
+   "inference": "One would write the blazing-pair and huṃ-triad with jvala.",
+   "uncertainties": [
+    "exact script placement unclear"
+   ],
+   "plain_english": "With jvala, one would write the blazing-pair and the huṃ-triad."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "kapāle",
+     "gloss": "skull",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative singular masculine",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "jvālāmālāṃ",
+     "gloss": "flame-garland",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-pravinyas"
+    }
+   ],
+   "question": "Where is the flame-garland placed on the skull?",
+   "premises": [
+    "skull is locative",
+    "right part is locative",
+    "flame-garland is accusative"
+   ],
+   "inference": "On the right part of the skull, one places the flame-garland.",
+   "uncertainties": [
+    "exact side convention unclear"
+   ],
+   "plain_english": "On the right part of the skull, one would place the flame-garland."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "vicitrā",
+     "gloss": "variegated",
+     "grounds": "nominative singular feminine",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyeyam",
+     "gloss": "vidyā",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "would-place",
+     "grounds": "optative third singular active",
+     "morph": "v.3.sg.act-opt root-vinyas"
+    },
+    {
+     "surface": "brahmarandhrake",
+     "gloss": "brahmarandhra",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "Where is the variegated vidyā placed?",
+   "premises": [
+    "variegated is nominative",
+    "vidyā is nominative",
+    "brahmarandhra is locative"
+   ],
+   "inference": "The variegated vidyā is placed at the brahmarandhra.",
+   "uncertainties": [
+    "vidyā identity not specified"
+   ],
+   "plain_english": "This variegated vidyā would be placed at the brahmarandhra."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "śuklapakṣe",
+     "gloss": "bright-fortnight",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "nyased+dakṣe",
+     "gloss": "would-place-right",
+     "grounds": "fused sandhi form",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "savye",
+     "gloss": "left",
+     "grounds": "locative singular masculine",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "dark",
+     "grounds": "locative singular masculine",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does the wise one place right and left in bright and dark fortnights?",
+   "premises": [
+    "bright fortnight is locative",
+    "right placement is fused",
+    "left dark is locative"
+   ],
+   "inference": "The wise one places right in bright fortnight and left in dark fortnight in order.",
+   "uncertainties": [
+    "fused verb exact split not expanded"
+   ],
+   "plain_english": "In bright fortnight one places right, in dark fortnight left, in order, says the wise one."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "śrīvidyāṃ",
+     "gloss": "śrīvidyā",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vinyasen+mūrdhni",
+     "gloss": "would-place-crown",
+     "grounds": "fused sandhi form",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tripañcatithigāminīm",
+     "gloss": "tri-five-tithi-going",
+     "grounds": "accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where is the śrīvidyā that goes through tri-five tithis placed?",
+   "premises": [
+    "śrīvidyā is accusative",
+    "crown is fused locative",
+    "tri-five-tithi-going is accusative"
+   ],
+   "inference": "The śrīvidyā going through tri-five tithis is placed at the crown.",
+   "uncertainties": [
+    "fused verb exact split not expanded"
+   ],
+   "plain_english": "One would place śrīvidyā, going through tri-five tithis, at the crown."
+  }
+ ]
+}

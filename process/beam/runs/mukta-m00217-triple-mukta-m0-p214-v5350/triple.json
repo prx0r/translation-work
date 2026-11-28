@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p214",
+ "items": [
+  {
+   "verse": 5350,
+   "rows": [
+    {
+     "surface": "sa+mahā+vīra+siddhim",
+     "gloss": "with-great-hero-accomplishment",
+     "grounds": "compound with prefix sa- 'with/together' and mahā-vīra-siddhi 'great-hero-accomplishment'; object continuing labhet from previous verse",
+     "morph": "compound(sa+mahā+vīra+siddhi).acc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle adding emphasis or further specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yakṣiṇī+ceṭaka+udbhavām",
+     "gloss": "arising-from-yakṣiṇī-servant",
+     "grounds": "compound yakṣiṇī-ceṭaka-udbhavā 'arising from yakṣiṇī and servant'; accomplishment obtained by the rite",
+     "morph": "compound(yakṣiṇī+ceṭaka+udbhava).acc.sg.f"
+    }
+   ],
+   "question": "What further accomplishments are granted to the cremation-ground cakra worshipper?",
+   "premises": [
+    "The previous verse states that the worshipper obtains sword-accomplishment, vetāla-accomplishment, and pill-accomplishment.",
+    "This verse adds attainment together with great-hero accomplishment.",
+    "This verse further specifies an accomplishment arising from a yakṣiṇī and a servant."
+   ],
+   "inference": "Therefore, the same ritual practice also yields great-hero accomplishment and an accomplishment arising from a yakṣiṇī-servant.",
+   "uncertainties": [
+    "Whether yakṣiṇī+ceṭaka+udbhavām qualifies an implied siddhi or names a distinct attainment is not explicit in this verse alone."
+   ],
+   "plain_english": "He also obtains, together with the great-hero accomplishment, that which arises from a yakṣiṇī and a servant."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "tilājyābhyāṃ",
+     "gloss": "with-sesame-and-ghee",
+     "grounds": "instrumental dual of a compound denoting sesame and clarified butter as oblation materials",
+     "morph": "n.instr.du.nt (compound)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "v.3.sg.opt.act √car"
+    },
+    {
+     "surface": "homam",
+     "gloss": "oblation",
+     "grounds": "direct object of the prescribed ritual action",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative qualifying the oblation",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "bhinnam",
+     "gloss": "separate",
+     "grounds": "predicate adjective marking the oblation as distinct",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing the desired purpose",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "arthayet",
+     "gloss": "one-may-desire",
+     "grounds": "optative expressing the practitioner's intended aim",
+     "morph": "v.3.sg.opt.act √arth"
+    }
+   ],
+   "question": "What distinct oblation with sesame and ghee may be performed for any desired purpose?",
+   "premises": [
+    "An oblation should be performed using sesame and ghee.",
+    "This oblation is characterized as a separate rite.",
+    "The rite may be undertaken for whatever purpose one desires."
+   ],
+   "inference": "The sesame-and-ghee oblation functions as a distinct optional rite adaptable to desired aims.",
+   "uncertainties": [
+    "The precise scope of purposes covered by 'yat arthayet' is not specified in this verse."
+   ],
+   "plain_english": "One should perform this oblation with sesame and ghee; it is a separate rite, to be done for whatever purpose one may desire."
+  }
+ ]
+}

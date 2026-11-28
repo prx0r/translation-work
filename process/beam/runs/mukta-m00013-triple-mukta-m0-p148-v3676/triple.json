@@ -1,0 +1,1151 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3676,
+   "rows": [
+    {
+     "surface": "śavāsanagataḥ",
+     "gloss": "seated-on-corpse-seat",
+     "grounds": "compound describing posture; seated on a corpse used as seat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "practitioner of heroic grade",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive recitation of mantra",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "aṣṭasahasrakam",
+     "gloss": "eight-thousand",
+     "grounds": "specified count of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What recitation count is prescribed for a hero seated on a corpse seat?",
+   "premises": [
+    "The practitioner is a hero seated on a corpse seat.",
+    "The prescribed action is mantra recitation.",
+    "The specified number of recitations is eight thousand."
+   ],
+   "inference": "A hero seated on a corpse seat should recite the mantra eight thousand times.",
+   "uncertainties": [],
+   "plain_english": "A hero seated on a corpse seat should recite the mantra eight thousand times."
+  },
+  {
+   "verse": 3677,
+   "rows": [
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut",
+     "grounds": "repeated cutting action",
+     "morph": "gerund √chid"
+    },
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut",
+     "grounds": "repeated cutting action",
+     "morph": "gerund √chid"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut",
+     "grounds": "repeated cutting action",
+     "morph": "gerund √chid"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "movement occurs after cutting",
+     "morph": "3.sg.pres.act √gam"
+    },
+    {
+     "surface": "ākṛṣyate",
+     "gloss": "is-drawn",
+     "grounds": "passive pulling back",
+     "morph": "3.sg.pres.pass √kṛṣ"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates renewed action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternating movement occurs after repeatedly cutting in this ritual action?",
+   "premises": [
+    "The action involves cutting repeatedly.",
+    "After cutting, something goes forth.",
+    "After going forth, it is drawn back again."
+   ],
+   "inference": "Repeated cutting produces an alternating motion of going forth and being drawn back.",
+   "uncertainties": [
+    "The object that goes and is drawn back is not explicitly named."
+   ],
+   "plain_english": "Having cut again and again, it goes forth and is drawn back again."
+  },
+  {
+   "verse": 3678,
+   "rows": [
+    {
+     "surface": "siddhāñjanaḥ",
+     "gloss": "accomplished-in-collyrium",
+     "grounds": "one who has perfected the magical collyrium",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "one who wields mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "should be undertaken",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "doubt",
+     "grounds": "deliberation or hesitation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attainment is assured for the mantra practitioner without any doubt?",
+   "premises": [
+    "The subject is a mantra practitioner.",
+    "The stated result is becoming accomplished in collyrium.",
+    "No deliberation or doubt is to be made in this matter."
+   ],
+   "inference": "The mantra practitioner becomes accomplished in collyrium without any doubt.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner becomes accomplished in the magical collyrium; there should be no doubt about this."
+  },
+  {
+   "verse": 3679,
+   "rows": [
+    {
+     "surface": "kāmasaṅkocam",
+     "gloss": "desire-contraction",
+     "grounds": "diminution or restraint of desire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-attained",
+     "grounds": "reaching a particular state",
+     "morph": "gerund ā-√sad"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "proceeds or moves",
+     "morph": "3.sg.pres.act √gam"
+    },
+    {
+     "surface": "avikalaḥ",
+     "gloss": "unimpaired",
+     "grounds": "whole, without defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the human practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition allows a man to proceed in an unimpaired state?",
+   "premises": [
+    "A man attains contraction of desire.",
+    "Having attained this state, he proceeds.",
+    "His resulting condition is unimpaired."
+   ],
+   "inference": "By attaining contraction of desire, a man proceeds unimpaired.",
+   "uncertainties": [],
+   "plain_english": "Having attained the contraction of desire, a man goes forth unimpaired."
+  },
+  {
+   "verse": 3680,
+   "rows": [
+    {
+     "surface": "bālaḥ",
+     "gloss": "child",
+     "grounds": "a young person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative possibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agmī",
+     "gloss": "eloquent",
+     "grounds": "skilled in speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "drutakaviḥ",
+     "gloss": "swift-poet",
+     "grounds": "compound: one who composes poetry quickly",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What verbal abilities may a child acquire through this practice?",
+   "premises": [
+    "The subject is a child.",
+    "One possible result is becoming eloquent.",
+    "Another possible result is becoming a swift poet."
+   ],
+   "inference": "A child may become eloquent or a swift poet.",
+   "uncertainties": [],
+   "plain_english": "A child becomes eloquent or a swift poet."
+  },
+  {
+   "verse": 3681,
+   "rows": [
+    {
+     "surface": "gandhacandanapuṣpaiḥ",
+     "gloss": "with-fragrance-sandal-flowers",
+     "grounds": "compound listing worship substances",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "tāriṇīṃ",
+     "gloss": "Tāriṇī",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śivām",
+     "gloss": "auspicious",
+     "grounds": "epithet of the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "With what offerings should the auspicious goddess Tāriṇī be worshipped?",
+   "premises": [
+    "The object of worship is the auspicious goddess Tāriṇī.",
+    "The prescribed act is worship.",
+    "The offerings include fragrance, sandal, and flowers."
+   ],
+   "inference": "One should worship the auspicious Tāriṇī with fragrance, sandal, and flowers.",
+   "uncertainties": [],
+   "plain_english": "One should worship the auspicious goddess Tāriṇī with fragrance, sandal, and flowers."
+  },
+  {
+   "verse": 3682,
+   "rows": [
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "the child's father",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "prescribed act of inscribing",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "other",
+     "grounds": "anyone else",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who alone is authorized to write the mantra in this ritual context?",
+   "premises": [
+    "The mantra must be written.",
+    "The father alone is permitted to write it.",
+    "No other person may ever write it."
+   ],
+   "inference": "Only the father should write the mantra, and no one else ever should.",
+   "uncertainties": [],
+   "plain_english": "Only the father should write the mantra; no one else should ever do so."
+  },
+  {
+   "verse": 3683,
+   "rows": [
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace-rite",
+     "grounds": "ritual for pacification",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "bālakasya",
+     "gloss": "of-child",
+     "grounds": "for the benefit of the child",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "brāhmaṇaiḥ",
+     "gloss": "with-brahmins",
+     "grounds": "ritual specialists accompanying the rite",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "in company with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the ritual performer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the peace rite for the child and with whom?",
+   "premises": [
+    "A peace rite is to be performed for the child.",
+    "The practitioner is the one who performs it.",
+    "The rite is performed together with brahmins."
+   ],
+   "inference": "The practitioner should perform the peace rite for the child together with brahmins.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should perform the peace rite for the child together with brahmins."
+  },
+  {
+   "verse": 3684,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding or indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "refers to specified substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuśodakena",
+     "gloss": "with-kuśa-water",
+     "grounds": "compound: water mixed with kuśa grass",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace-rite",
+     "grounds": "ritual for pacification",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "With what substance should the peace rite be performed in this manner?",
+   "premises": [
+    "A peace rite is to be performed.",
+    "The manner is indicated as thus.",
+    "The substance used is this kuśa water."
+   ],
+   "inference": "The peace rite should be performed in this manner with kuśa water.",
+   "uncertainties": [],
+   "plain_english": "Thus one should perform the peace rite with this kuśa water."
+  },
+  {
+   "verse": 3685,
+   "rows": [
+    {
+     "surface": "mahiṣe",
+     "gloss": "in-buffalo",
+     "grounds": "recipient or context of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanasamṛddhiḥ",
+     "gloss": "wealth-abundance",
+     "grounds": "compound: increase of wealth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "resulting condition",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "mṛge",
+     "gloss": "in-deer",
+     "grounds": "recipient or context of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mokṣaphalaṃ",
+     "gloss": "liberation-fruit",
+     "grounds": "compound: fruit of liberation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What different fruits result from offerings made in a buffalo and in a deer?",
+   "premises": [
+    "An offering in a buffalo yields wealth abundance.",
+    "An offering in a deer yields the fruit of liberation.",
+    "The results differ according to the recipient."
+   ],
+   "inference": "An offering in a buffalo brings wealth abundance, while an offering in a deer brings the fruit of liberation.",
+   "uncertainties": [
+    "The exact ritual context of 'in buffalo' and 'in deer' is not fully specified."
+   ],
+   "plain_english": "In the case of a buffalo there would be abundance of wealth; in the case of a deer there would be the fruit of liberation."
+  },
+  {
+   "verse": 3686,
+   "rows": [
+    {
+     "surface": "nare",
+     "gloss": "in-man",
+     "grounds": "recipient or context of offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "datte",
+     "gloss": "given",
+     "grounds": "when the offering is given",
+     "morph": "n.loc.sg.past-participle √dā"
+    },
+    {
+     "surface": "mahaddhiḥ",
+     "gloss": "great-prosperity",
+     "grounds": "great success or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "resulting condition",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "aṣṭasiddhiḥ",
+     "gloss": "eight-siddhis",
+     "grounds": "compound: the eight supernatural attainments",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuttamā",
+     "gloss": "unsurpassed",
+     "grounds": "highest, without superior",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What supreme attainments result when the offering is given in a human?",
+   "premises": [
+    "The offering is given in a human context.",
+    "One result is great prosperity.",
+    "Another result is the unsurpassed eight siddhis."
+   ],
+   "inference": "When given in a human, the offering yields great prosperity and the unsurpassed eight siddhis.",
+   "uncertainties": [
+    "The ritual meaning of giving in a human is not fully explicit."
+   ],
+   "plain_english": "When given in a human, there would be great prosperity and the unsurpassed eight siddhis."
+  },
+  {
+   "verse": 3687,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudhiraṃ",
+     "gloss": "blood",
+     "grounds": "ritual substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāṃsaṃ",
+     "gloss": "with-flesh",
+     "grounds": "compound: accompanied by flesh",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed offering action",
+     "morph": "3.sg.opt.act √dā"
+    }
+   ],
+   "question": "What offering should be given to the goddess at this stage of the rite?",
+   "premises": [
+    "The ritual proceeds to a subsequent stage.",
+    "The offering consists of blood together with flesh.",
+    "The recipient of the offering is the goddess."
+   ],
+   "inference": "Then one should give blood with flesh as an offering to the goddess.",
+   "uncertainties": [],
+   "plain_english": "Then one should give blood together with flesh as an offering to the goddess."
+  },
+  {
+   "verse": 3688,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "placing the offering down",
+     "morph": "gerund ni-√dhā"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed offering action",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadraktaṃ",
+     "gloss": "that-blood",
+     "grounds": "compound: the aforementioned blood",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrapūrvakam",
+     "gloss": "preceded-by-mantra",
+     "grounds": "compound: accompanied beforehand by mantra recitation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the blood offering be presented to the goddess in this ritual step?",
+   "premises": [
+    "The blood has been placed as an offering.",
+    "It is to be given to the goddess.",
+    "The giving must be preceded by mantra."
+   ],
+   "inference": "Having placed it, one should give that blood to the goddess preceded by mantra.",
+   "uncertainties": [],
+   "plain_english": "Having placed it, one should indeed give that blood to the goddess, preceded by mantra."
+  },
+  {
+   "verse": 3689,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "completing worship",
+     "morph": "gerund sam-√pūj"
+    },
+    {
+     "surface": "āgneyāṃ",
+     "gloss": "in-southeast",
+     "grounds": "directional location of offering",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "gaṇeśāya",
+     "gloss": "to-Gaṇeśa",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed offering action",
+     "morph": "3.sg.opt.act √dā"
+    }
+   ],
+   "question": "To whom and in which direction should an offering be given after worship?",
+   "premises": [
+    "Worship has been completed in the prescribed manner.",
+    "An offering is to be given afterward.",
+    "The offering is directed to Gaṇeśa in the southeast."
+   ],
+   "inference": "After worship, one should give an offering to Gaṇeśa in the southeast.",
+   "uncertainties": [],
+   "plain_english": "Thus, having completed the worship, one should give an offering to Gaṇeśa in the southeast."
+  },
+  {
+   "verse": 3690,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogāvilāt",
+     "gloss": "from-disease-afflicted",
+     "grounds": "compound: afflicted by disease",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "aṅgāt",
+     "gloss": "from-limb",
+     "grounds": "bodily part as source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyadhātāt",
+     "gloss": "from-other-element",
+     "grounds": "compound: from another bodily element or source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "O-Bhairava",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "From which bodily sources must the offering material not be taken, O Bhairava?",
+   "premises": [
+    "The offering material has restricted sources.",
+    "It must not come from a disease-afflicted limb.",
+    "It must not come from another element or improper source."
+   ],
+   "inference": "The material must not be taken from a disease-afflicted limb nor from another element, O Bhairava.",
+   "uncertainties": [
+    "The precise meaning of anyadhātāt in this ritual context is uncertain."
+   ],
+   "plain_english": "O Bhairava, it must not be taken from a disease-afflicted limb, nor indeed from any other improper source."
+  },
+  {
+   "verse": 3691,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "tripurādevīṃ",
+     "gloss": "Tripurā-goddess",
+     "grounds": "compound: the goddess Tripurā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvasaubhāgyahetave",
+     "gloss": "for-all-good-fortune-cause",
+     "grounds": "compound: for the sake of all good fortune",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the goddess Tripurā be worshipped in this rite?",
+   "premises": [
+    "The prescribed act is worship.",
+    "The deity worshipped is the goddess Tripurā.",
+    "The purpose is to obtain all good fortune."
+   ],
+   "inference": "One should worship the goddess Tripurā for the sake of all good fortune.",
+   "uncertainties": [],
+   "plain_english": "One should worship the goddess Tripurā for the sake of all good fortune."
+  },
+  {
+   "verse": 3692,
+   "rows": [
+    {
+     "surface": "svagātrarudhiraṃ",
+     "gloss": "own-body-blood",
+     "grounds": "compound: blood from one's own body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "offering one's own blood",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "gerund √nam"
+    },
+    {
+     "surface": "rājatvam",
+     "gloss": "kingship",
+     "grounds": "state of being a king",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.opt.act āp-√nu"
+    }
+   ],
+   "question": "What royal attainment follows from giving one's own blood and bowing in worship?",
+   "premises": [
+    "The practitioner gives blood from his own body.",
+    "The practitioner bows in reverence.",
+    "The stated result is obtaining kingship."
+   ],
+   "inference": "By giving one's own blood and bowing, one obtains kingship.",
+   "uncertainties": [],
+   "plain_english": "Having given one's own blood and bowed down, one obtains kingship."
+  },
+  {
+   "verse": 3693,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsābhyantare",
+     "gloss": "within-six-months",
+     "grounds": "compound: inside a period of six months",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāmam",
+     "gloss": "desire",
+     "grounds": "the wished-for object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired",
+     "grounds": "what is wished for",
+     "morph": "m.acc.sg.past-participle √iṣ"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.opt.act ava-āp-√nu"
+    }
+   ],
+   "question": "Within what time period does the practitioner obtain the desired wish?",
+   "premises": [
+    "The practitioner has a desired wish.",
+    "A specific time limit is stated.",
+    "The wish is obtained within six months."
+   ],
+   "inference": "Within six months, he obtains his desired wish.",
+   "uncertainties": [],
+   "plain_english": "Within six months, he obtains the desire he wishes for."
+  },
+  {
+   "verse": 3694,
+   "rows": [
+    {
+     "surface": "svagātrarudhiraṃ",
+     "gloss": "own-body-blood",
+     "grounds": "compound: blood from one's own body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "offering one's own blood",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "ātmahatyām",
+     "gloss": "self-killing",
+     "grounds": "compound: killing of oneself",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.opt.act ava-āp-√nu"
+    }
+   ],
+   "question": "What dire consequence follows from giving one's own blood in this context?",
+   "premises": [
+    "The act is giving blood from one's own body.",
+    "The stated result is obtaining self-killing.",
+    "This presents a severe negative outcome."
+   ],
+   "inference": "By giving one's own blood in this context, one incurs self-killing.",
+   "uncertainties": [
+    "The ritual conditions distinguishing this outcome from beneficial ones are not explicit in this verse."
+   ],
+   "plain_english": "Having given one's own blood, one incurs self-destruction."
+  },
+  {
+   "verse": 3695,
+   "rows": [
+    {
+     "surface": "strīṣu",
+     "gloss": "toward-women",
+     "grounds": "in relation to women",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "roṣaṃ",
+     "gloss": "anger",
+     "grounds": "wrath or hostility",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prahāram",
+     "gloss": "striking",
+     "grounds": "physical blow or violence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prescribed abstention",
+     "morph": "3.sg.opt.act √vṛj"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What behaviors toward women must the wise practitioner always avoid?",
+   "premises": [
+    "The subject is the wise practitioner.",
+    "Anger toward women is prohibited.",
+    "Striking women is prohibited at all times."
+   ],
+   "inference": "The wise one should always avoid anger and striking toward women.",
+   "uncertainties": [],
+   "plain_english": "The wise one should always avoid anger and striking toward women."
+  },
+  {
+   "verse": 3696,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "everything without exception",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuvatīrūpaṃ",
+     "gloss": "young-woman-form",
+     "grounds": "compound: form of a young woman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "prescribed meditative visualization",
+     "morph": "3.sg.opt.caus.act √bhū"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the wise practitioner contemplatively regard all things at all times?",
+   "premises": [
+    "The subject is the wise practitioner.",
+    "The object of contemplation is all things.",
+    "All things should be contemplated as having the form of a young woman."
+   ],
+   "inference": "The wise one should always contemplate everything as having the form of a young woman.",
+   "uncertainties": [],
+   "plain_english": "The wise one should always contemplate everything as having the form of a young woman."
+  },
+  {
+   "verse": 3697,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-those",
+     "grounds": "refers back to previously mentioned women or forms",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhagādidevīnām",
+     "gloss": "goddesses-beginning-with-bhagā",
+     "grounds": "compound: goddesses starting with Bhagā and others",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "Which group of goddesses is being identified in relation to those forms?",
+   "premises": [
+    "The verse refers to those previously mentioned.",
+    "They are identified as goddesses beginning with Bhagā.",
+    "This functions as a qualifying identification."
+   ],
+   "inference": "Those are identified as the goddesses beginning with Bhagā.",
+   "uncertainties": [
+    "This verse is fragmentary and depends on surrounding context for full sense."
+   ],
+   "plain_english": "Of those goddesses beginning with Bhagā."
+  },
+  {
+   "verse": 3698,
+   "rows": [
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "under all circumstances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescribed action or prohibition",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "and-otherwise",
+     "grounds": "fused form: ca + anyathā, doing differently",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhirodhakṛt",
+     "gloss": "siddhi-obstructing",
+     "grounds": "compound: causing obstruction to siddhi",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why must the practitioner never act otherwise in this ritual observance?",
+   "premises": [
+    "The practitioner must not act otherwise in any way.",
+    "Acting otherwise is prohibited.",
+    "Such contrary action obstructs siddhi."
+   ],
+   "inference": "One must never act otherwise in any way because doing so obstructs siddhi.",
+   "uncertainties": [],
+   "plain_english": "One should never act otherwise in any way, for that obstructs the attainment of siddhi."
+  },
+  {
+   "verse": 3699,
+   "rows": [
+    {
+     "surface": "taddhastāvacitaṃ",
+     "gloss": "collected-by-that-hand",
+     "grounds": "compound: gathered by that hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "material wealth or offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatābhyaḥ",
+     "gloss": "to-deities",
+     "grounds": "recipients of the offering",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "prescribed act of presenting or dedicating",
+     "morph": "3.sg.opt.caus.act ni-√vid"
+    }
+   ],
+   "question": "What should be done with the substance collected by that hand?",
+   "premises": [
+    "A substance has been collected by that hand.",
+    "The substance is to be ritually presented.",
+    "The recipients are the deities."
+   ],
+   "inference": "The substance collected by that hand should be offered to the deities.",
+   "uncertainties": [],
+   "plain_english": "One should offer to the deities the substance collected by that hand."
+  }
+ ]
+}

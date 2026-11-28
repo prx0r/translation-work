@@ -1,0 +1,1127 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2251,
+   "rows": [
+    {
+     "surface": "navavastradharaḥ",
+     "gloss": "wearing-new-cloth",
+     "grounds": "compound adjective describing the officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaivavipro",
+     "gloss": "shaiva-brahmin",
+     "grounds": "compound: śaiva + vipra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadyādbaliṃ",
+     "gloss": "should-give-oblation",
+     "grounds": "verb with object; baliṃ is oblation",
+     "morph": "3.sg.opt.act + √dā; m.acc.sg"
+    },
+    {
+     "surface": "pure",
+     "gloss": "in-city",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Who should offer the oblation in the city and in what attire?",
+   "premises": [
+    "The officiant is a Shaiva brahmin.",
+    "The officiant wears new cloth.",
+    "The oblation is given in the city."
+   ],
+   "inference": "A Shaiva brahmin wearing new cloth should offer the oblation in the city.",
+   "uncertainties": [],
+   "plain_english": "A Shaiva brahmin wearing new clothes should give the oblation in the city."
+  },
+  {
+   "verse": 2252,
+   "rows": [
+    {
+     "surface": "sarvadravyasamāyuktam",
+     "gloss": "endowed-with-all-materials",
+     "grounds": "compound describing the oblation or rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "enam",
+     "gloss": "this",
+     "grounds": "refers to the rite or oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes performance",
+     "morph": "3.sg.opt.act + sam-ā-√car"
+    }
+   ],
+   "question": "What alternative provision governs how the oblation rite may be performed?",
+   "premises": [
+    "The rite may include all materials.",
+    "An alternative is explicitly allowed.",
+    "The prescribed action is to perform it."
+   ],
+   "inference": "Alternatively, one should perform this rite endowed with all materials.",
+   "uncertainties": [
+    "The exact referent of enam may be the oblation or the whole procedure."
+   ],
+   "plain_english": "Or else, one should perform this rite furnished with all the required materials."
+  },
+  {
+   "verse": 2253,
+   "rows": [
+    {
+     "surface": "catuṣkuṇḍe",
+     "gloss": "in-four-fire-pits",
+     "grounds": "compound locative indicating ritual setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstudevānām",
+     "gloss": "of-vastu-deities",
+     "grounds": "genitive plural of deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satiation-offering",
+     "grounds": "ritual act of propitiation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √bhū"
+    }
+   ],
+   "question": "Where may the satiation offering to the Vastu deities be conducted?",
+   "premises": [
+    "A satiation offering is prescribed.",
+    "The recipients are the Vastu deities.",
+    "Four fire pits are specified as a possible location."
+   ],
+   "inference": "The satiation offering to the Vastu deities may be performed in four fire pits.",
+   "uncertainties": [],
+   "plain_english": "Or alternatively, the satiation offering to the Vastu deities should be made in four fire pits."
+  },
+  {
+   "verse": 2254,
+   "rows": [
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "qualifies the lowest scale of offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaniṣkaṃ",
+     "gloss": "five-nishkas",
+     "grounds": "compound indicating measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √as"
+    },
+    {
+     "surface": "dviguṇā",
+     "gloss": "double",
+     "grounds": "qualifies the middle scale",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "middle scale of offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √bhū"
+    }
+   ],
+   "question": "What monetary measures define the lowest and middle scales of the offering?",
+   "premises": [
+    "The lowest scale is specified as five nishkas.",
+    "The middle scale is double the lowest.",
+    "Both scales are prescribed as valid measures."
+   ],
+   "inference": "The lowest offering is five nishkas and the middle offering is double that amount.",
+   "uncertainties": [
+    "The highest scale is not stated in this verse."
+   ],
+   "plain_english": "The lowest scale should be five nishkas, and the middle scale should be double that."
+  },
+  {
+   "verse": 2255,
+   "rows": [
+    {
+     "surface": "agrahārādike",
+     "gloss": "in-brahmin-settlement-and-such",
+     "grounds": "compound locative with inclusive suffix",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devāgāre",
+     "gloss": "in-temple",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājñām",
+     "gloss": "of-kings",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dvijanmanām",
+     "gloss": "of-twice-born",
+     "grounds": "genitive plural referring to brahmins",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which locations and social groups are specified as contexts for the prescribed rites?",
+   "premises": [
+    "Brahmin settlements and similar places are mentioned.",
+    "Temples are mentioned as locations.",
+    "Kings and twice-born people are specified."
+   ],
+   "inference": "The rites apply in contexts such as brahmin settlements, temples, and places of kings and twice-born people.",
+   "uncertainties": [
+    "The governing verb is supplied by adjacent verses."
+   ],
+   "plain_english": "In brahmin settlements and the like, in temples, and in places belonging to kings and the twice-born."
+  },
+  {
+   "verse": 2256,
+   "rows": [
+    {
+     "surface": "caṇḍālādyuṣite",
+     "gloss": "inhabited-by-outcastes-and-others",
+     "grounds": "compound locative describing place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tajjanmamaraṇe",
+     "gloss": "at-their-birth-and-death",
+     "grounds": "compound locative of events",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What polluting circumstances require special ritual measures in inhabited areas?",
+   "premises": [
+    "Places inhabited by outcastes and others are included.",
+    "Birth and death occurring there are included.",
+    "These circumstances are marked as relevant cases."
+   ],
+   "inference": "Areas inhabited by outcastes and occasions of birth or death there require special ritual attention.",
+   "uncertainties": [
+    "The specific remedial action is stated in the following verse."
+   ],
+   "plain_english": "And also in places inhabited by outcastes and others, and at times of birth or death there."
+  },
+  {
+   "verse": 2257,
+   "rows": [
+    {
+     "surface": "kūpe",
+     "gloss": "in-well",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣkariṇyādau",
+     "gloss": "in-pond-and-such",
+     "grounds": "compound locative with inclusive suffix",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "object to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "quantifier for water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "direction of removal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √kṣip"
+    }
+   ],
+   "question": "What remedial action must be taken with water in wells or ponds after pollution?",
+   "premises": [
+    "Wells and ponds are specified locations.",
+    "All the water in them is the object.",
+    "The prescribed action is to throw it outside."
+   ],
+   "inference": "All water from a well or pond in such cases should be thrown outside.",
+   "uncertainties": [],
+   "plain_english": "One should throw out all the water from a well or from a pond and the like."
+  },
+  {
+   "verse": 2258,
+   "rows": [
+    {
+     "surface": "pañcagavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "ritual purifying mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) ni-√kṣip"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "ritual for pacification",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-perform",
+     "grounds": "causative prescription",
+     "morph": "3.sg.opt.caus.act + √kṛ"
+    }
+   ],
+   "question": "What purificatory rites must follow the removal of polluted water?",
+   "premises": [
+    "The five cow products are to be placed.",
+    "A peace fire offering is prescribed.",
+    "The officiant should cause the offering to be performed."
+   ],
+   "inference": "After placing the five cow products, one should have a peace fire offering performed.",
+   "uncertainties": [],
+   "plain_english": "Then, after placing the five products of the cow, one should have a peace fire offering performed."
+  },
+  {
+   "verse": 2259,
+   "rows": [
+    {
+     "surface": "devānām",
+     "gloss": "of-deities",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "brāhmaṇānām",
+     "gloss": "of-brahmins",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣatriyāṇām",
+     "gloss": "of-warriors",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb marking emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For which groups are the following architectural prescriptions especially intended?",
+   "premises": [
+    "Deities are mentioned as beneficiaries.",
+    "Brahmins are mentioned as beneficiaries.",
+    "Warriors are mentioned especially."
+   ],
+   "inference": "The following prescriptions are intended especially for deities, brahmins, and warriors.",
+   "uncertainties": [
+    "The specific prescriptions are given in subsequent verses."
+   ],
+   "plain_english": "Especially for deities, brahmins, and warriors."
+  },
+  {
+   "verse": 2260,
+   "rows": [
+    {
+     "surface": "ekadvitricatuḥsaptadaśaśālāḥ",
+     "gloss": "one-two-three-four-seven-ten-halls",
+     "grounds": "compound listing numbers of halls",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "past participle used predicatively",
+     "morph": "f.nom.pl (ppp) pra-√kīrt"
+    }
+   ],
+   "question": "How many halls are declared as valid configurations in this architectural scheme?",
+   "premises": [
+    "Specific numbers of halls are enumerated.",
+    "The enumeration includes one, two, three, four, seven, and ten.",
+    "These configurations are formally declared."
+   ],
+   "inference": "Structures with one, two, three, four, seven, or ten halls are declared valid.",
+   "uncertainties": [],
+   "plain_english": "Halls numbering one, two, three, four, seven, and ten are declared."
+  },
+  {
+   "verse": 2261,
+   "rows": [
+    {
+     "surface": "tā",
+     "gloss": "they",
+     "grounds": "refers to the halls",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikāḥ",
+     "gloss": "garland-structures",
+     "grounds": "technical term for rowed halls",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "are-called",
+     "grounds": "past participle used predicatively",
+     "morph": "f.nom.pl (ppp) pra-√vac"
+    },
+    {
+     "surface": "mālāvat",
+     "gloss": "like-garland",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-made",
+     "grounds": "passive verb explaining reason",
+     "morph": "3.sg.pres.pass + √kṛ"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are these hall configurations designated by the term garland structures?",
+   "premises": [
+    "The same halls are called garland structures.",
+    "They are made in a garland-like arrangement.",
+    "A causal reason is explicitly given."
+   ],
+   "inference": "They are called garland structures because they are arranged like a garland.",
+   "uncertainties": [],
+   "plain_english": "These very halls are called garland structures because they are made like a garland."
+  },
+  {
+   "verse": 2262,
+   "rows": [
+    {
+     "surface": "sārdhahastaṃ",
+     "gloss": "one-and-half-cubits",
+     "grounds": "compound measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "(gerund) sam-ā-√rabh"
+    },
+    {
+     "surface": "tritryaṅgulavivardhanāt",
+     "gloss": "by-increase-of-three-fingers-each",
+     "grounds": "compound ablative indicating increment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What starting measure and increment govern the initial dimensional progression?",
+   "premises": [
+    "The starting measure is one and a half cubits.",
+    "The progression begins from that measure.",
+    "The increment is three fingers at each step."
+   ],
+   "inference": "The dimension begins at one and a half cubits and increases by three fingers at a time.",
+   "uncertainties": [
+    "The dimension being measured is clarified by adjacent verses."
+   ],
+   "plain_english": "Beginning from one and a half cubits, with an increase of three fingers at each step."
+  },
+  {
+   "verse": 2263,
+   "rows": [
+    {
+     "surface": "vistārādardhahastaṃ",
+     "gloss": "half-cubit-in-width",
+     "grounds": "compound expressing width measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √as"
+    },
+    {
+     "surface": "triguṇāntaṃ",
+     "gloss": "up-to-threefold",
+     "grounds": "compound indicating upper limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāyatiḥ",
+     "gloss": "extent",
+     "grounds": "overall measure or length",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What width and maximum extent are prescribed for the measured structure?",
+   "premises": [
+    "A width of half a cubit is specified.",
+    "The extent reaches up to threefold.",
+    "These measures are prescribed as valid."
+   ],
+   "inference": "The width should be half a cubit and the extent may reach up to three times that.",
+   "uncertainties": [
+    "The base to which triguṇāntaṃ applies may depend on context."
+   ],
+   "plain_english": "The width should be half a cubit, and the extent should reach up to threefold."
+  },
+  {
+   "verse": 2264,
+   "rows": [
+    {
+     "surface": "ekahastaṃ",
+     "gloss": "one-cubit",
+     "grounds": "measure as starting point",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "(gerund) sam-ā-√rabh"
+    },
+    {
+     "surface": "tritryaṅgulavivardhanāt",
+     "gloss": "by-increase-of-three-fingers-each",
+     "grounds": "compound ablative indicating increment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What alternative starting measure and increment are prescribed for dimensional progression?",
+   "premises": [
+    "An alternative starting measure is one cubit.",
+    "The progression begins from that measure.",
+    "The increment remains three fingers at each step."
+   ],
+   "inference": "Alternatively, the dimension begins at one cubit and increases by three fingers at a time.",
+   "uncertainties": [],
+   "plain_english": "Beginning from one cubit, with an increase of three fingers at each step."
+  },
+  {
+   "verse": 2265,
+   "rows": [
+    {
+     "surface": "ekabhaktiviśālāttu",
+     "gloss": "from-one-bhakti-width",
+     "grounds": "compound ablative indicating starting width",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhabhaktivivardhanāt",
+     "gloss": "by-increase-of-half-bhakti",
+     "grounds": "compound ablative indicating increment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What bhakti-based starting width and increment are prescribed for the layout?",
+   "premises": [
+    "The starting width is one bhakti.",
+    "The increase is by half a bhakti.",
+    "These measures govern the progression."
+   ],
+   "inference": "The layout begins at one bhakti in width and increases by half a bhakti.",
+   "uncertainties": [
+    "The technical unit bhakti is a modular division in temple architecture."
+   ],
+   "plain_english": "Starting from a width of one bhakti, with an increase of half a bhakti."
+  },
+  {
+   "verse": 2266,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-width",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyate",
+     "gloss": "in-length",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyastāḥ",
+     "gloss": "arranged",
+     "grounds": "past participle describing placement",
+     "morph": "f.nom.pl (ppp) vi-ni-√as"
+    },
+    {
+     "surface": "bhaktayaśca",
+     "gloss": "and-bhakti-divisions",
+     "grounds": "compound with sandhi: bhaktayaḥ + ca",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative referring to divisions",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the bhakti divisions arranged across the width and length of the structure?",
+   "premises": [
+    "Both width and length are specified.",
+    "Bhakti divisions are the elements arranged.",
+    "The arrangement is explicitly stated as placed."
+   ],
+   "inference": "Those bhakti divisions are arranged across both the width and the length.",
+   "uncertainties": [],
+   "plain_english": "Those bhakti divisions are arranged in both the width and the length."
+  },
+  {
+   "verse": 2267,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-width",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyate",
+     "gloss": "in-length",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugmāḥ",
+     "gloss": "even",
+     "grounds": "qualifies number of divisions",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ojāśca",
+     "gloss": "and-odd",
+     "grounds": "compound with sandhi: ojāḥ + ca",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhaktayaḥ",
+     "gloss": "bhakti-divisions",
+     "grounds": "modular divisions",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What numerical patterns are permitted for bhakti divisions in width and length?",
+   "premises": [
+    "Width and length are both considered.",
+    "Bhakti divisions may be even.",
+    "Bhakti divisions may be odd."
+   ],
+   "inference": "The bhakti divisions in width and length may be either even or odd.",
+   "uncertainties": [],
+   "plain_english": "In both width and length, the bhakti divisions may be even or odd."
+  },
+  {
+   "verse": 2268,
+   "rows": [
+    {
+     "surface": "bhaktimadhyapramāṇaṃ",
+     "gloss": "measure-of-middle-bhakti",
+     "grounds": "compound indicating a reference measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsthapādāt",
+     "gloss": "from-foot-placed-there",
+     "grounds": "compound ablative indicating reference point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative reference measures may be used for determining the layout?",
+   "premises": [
+    "The measure of the middle bhakti is an option.",
+    "The foot placed there is another reference point.",
+    "Alternatives are explicitly allowed."
+   ],
+   "inference": "The layout may be determined either by the middle bhakti measure or from the foot placed there.",
+   "uncertainties": [
+    "The exact architectural referent of tatsthapādāt is context-dependent."
+   ],
+   "plain_english": "Alternatively, one may use the measure of the middle bhakti, or likewise from the foot placed there."
+  },
+  {
+   "verse": 2269,
+   "rows": [
+    {
+     "surface": "kṣatriyāṇām",
+     "gloss": "of-warriors",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "is-declared",
+     "grounds": "past participle used predicatively",
+     "morph": "n.nom.sg (ppp) pra-√vac"
+    },
+    {
+     "surface": "anyayor",
+     "gloss": "of-other-two",
+     "grounds": "genitive dual referring to other groups",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "āyatāśrakam",
+     "gloss": "rectangular-form",
+     "grounds": "compound describing shape",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the prescribed building form differ for warriors and the other two groups?",
+   "premises": [
+    "A form is declared for warriors.",
+    "The other two groups are also addressed.",
+    "The specified form is rectangular."
+   ],
+   "inference": "A rectangular form is declared for warriors and likewise for the other two groups.",
+   "uncertainties": [
+    "The identity of the other two groups depends on prior context."
+   ],
+   "plain_english": "For warriors, and likewise for the other two groups, a rectangular form is declared."
+  },
+  {
+   "verse": 2270,
+   "rows": [
+    {
+     "surface": "vistārasama",
+     "gloss": "equal-to-width",
+     "grounds": "compound describing height proportion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utsedhaḥ",
+     "gloss": "height",
+     "grounds": "vertical dimension",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sapādo",
+     "gloss": "with-quarter-more",
+     "grounds": "compound indicating added quarter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhakaḥ",
+     "gloss": "with-half-more",
+     "grounds": "compound indicating added half",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional options are prescribed for the height relative to the width?",
+   "premises": [
+    "Height may equal the width.",
+    "Height may include an additional quarter.",
+    "Height may include an additional half."
+   ],
+   "inference": "The height should be equal to the width, or greater by a quarter, or greater by a half.",
+   "uncertainties": [],
+   "plain_english": "The height should be equal to the width, or with an extra quarter, or with an extra half."
+  },
+  {
+   "verse": 2271,
+   "rows": [
+    {
+     "surface": "pādāyāmaiḥ",
+     "gloss": "by-foot-measures",
+     "grounds": "instrumental plural indicating units",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √kṛ"
+    },
+    {
+     "surface": "vakṣyamāṇaiḥ",
+     "gloss": "by-those-to-be-stated",
+     "grounds": "future passive participle referring ahead",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what measures and sequence should the construction alternatively be carried out?",
+   "premises": [
+    "Foot measures may be used.",
+    "Measures to be stated later are also allowed.",
+    "The work should follow due order."
+   ],
+   "inference": "One should construct it using foot measures or the measures to be stated, in proper order.",
+   "uncertainties": [],
+   "plain_english": "Or one should make it using foot measures, or those to be explained, in due order."
+  },
+  {
+   "verse": 2272,
+   "rows": [
+    {
+     "surface": "utsedhe",
+     "gloss": "in-height",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastānām",
+     "gloss": "of-cubits",
+     "grounds": "genitive plural of units",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samyaksampūrṇatām",
+     "gloss": "complete-fullness",
+     "grounds": "compound abstract noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-bring",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √nī"
+    }
+   ],
+   "question": "What requirement must be satisfied regarding cubit measures in the height?",
+   "premises": [
+    "The height is the dimension concerned.",
+    "Cubit measures are used.",
+    "They must be brought to complete fullness."
+   ],
+   "inference": "In the height, the cubit measures should be made fully complete.",
+   "uncertainties": [],
+   "plain_english": "In the height, one should bring the cubit measures to proper completeness."
+  },
+  {
+   "verse": 2273,
+   "rows": [
+    {
+     "surface": "vistārāyāmasaṃsargād",
+     "gloss": "from-combination-of-width-and-length",
+     "grounds": "compound ablative indicating basis",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "refers to the primary measure or result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parigṛhyatām",
+     "gloss": "should-be-taken",
+     "grounds": "passive imperative",
+     "morph": "3.sg.impv.pass + pari-√grah"
+    }
+   ],
+   "question": "What primary measure should be derived from combining width and length?",
+   "premises": [
+    "Width and length are combined.",
+    "A primary result is to be taken from that combination.",
+    "The instruction is prescriptive."
+   ],
+   "inference": "From the combination of width and length, the primary measure should be taken.",
+   "uncertainties": [
+    "The exact technical value of ādyaṃ depends on the calculation method."
+   ],
+   "plain_english": "From the combination of width and length, the first measure should be taken."
+  },
+  {
+   "verse": 2274,
+   "rows": [
+    {
+     "surface": "āyaḥ",
+     "gloss": "gain",
+     "grounds": "technical architectural calculation term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyayaḥ",
+     "gloss": "loss",
+     "grounds": "technical architectural calculation term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "source",
+     "grounds": "technical architectural calculation term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakṣatraṃ",
+     "gloss": "constellation",
+     "grounds": "technical architectural calculation term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣato",
+     "gloss": "from-remainder",
+     "grounds": "ablative indicating basis of calculation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act + √bhū"
+    }
+   ],
+   "question": "Which architectural factors are determined from the remainder in the calculation?",
+   "premises": [
+    "Gain and loss are listed as factors.",
+    "Source and constellation are listed as factors.",
+    "These factors arise from the remainder."
+   ],
+   "inference": "Gain, loss, source, and constellation should be determined from the remainder.",
+   "uncertainties": [
+    "The specific calculation procedure is not detailed in this verse."
+   ],
+   "plain_english": "Gain, loss, source, and constellation should be determined from the remainder."
+  }
+ ]
+}

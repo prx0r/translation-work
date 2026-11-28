@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "that-much",
+     "grounds": "correlative measure referring to previously stated dimensions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karkaṭakāt",
+     "gloss": "from-compass",
+     "grounds": "instrument or source for drawing the circle",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "geometric shape produced by the compass",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttakuṇḍam",
+     "gloss": "circular-fire-pit",
+     "grounds": "compound: vṛtta (circle) + kuṇḍa (fire-pit)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb of speaking or designation",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What shape and designation define the fire-pit drawn from the specified compass measurement?",
+   "premises": [
+    "A circle is drawn using that specified compass measurement.",
+    "The resulting figure is designated as a fire-pit.",
+    "This designation applies in the present ritual context."
+   ],
+   "inference": "Therefore, a circle drawn to that compass measurement is here designated as the circular fire-pit.",
+   "uncertainties": [
+    "The exact prior measurement referred to by tāvat depends on the preceding verses."
+   ],
+   "plain_english": "A circle drawn with that compass measurement is here called the circular fire-pit."
+  }
+ ]
+}

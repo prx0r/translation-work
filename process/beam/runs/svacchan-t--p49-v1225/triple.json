@@ -1,0 +1,32 @@
+{
+ "song": "sva-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "sandhyaṃśamānam",
+     "gloss": "twilight-portion-measure",
+     "grounds": "compound of twilight, portion, and measure; accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "knowable",
+     "grounds": "gerundive of root jñā, to be known",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What measure of the twilight portion is knowable?",
+   "premises": [
+    "Ten thousand years are thus described.",
+    "The twilight portion measure is knowable."
+   ],
+   "inference": "The twilight portion measure should be known.",
+   "uncertainties": [
+    "Exact syntactic role of sandhyaṃśamānam remains uncertain."
+   ],
+   "plain_english": "Thus ten thousand years; the measure of the twilight portion is to be known."
+  }
+ ]
+}

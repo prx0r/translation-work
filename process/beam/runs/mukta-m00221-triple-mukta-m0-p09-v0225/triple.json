@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "transition particle opening the next discourse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-will-speak",
+     "grounds": "first-person singular future of root vac",
+     "morph": "verb 1.sg.act-fut + root vac"
+    },
+    {
+     "surface": "śrīpurasya",
+     "gloss": "of-śrīpura",
+     "grounds": "genitive singular masculine/neuter noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "deed",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lokottaraṃ",
+     "gloss": "world-transcending",
+     "grounds": "accusative singular neuter adjective modifying vṛttaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "second-person singular imperative of root śru",
+     "morph": "verb 2.sg.act-imp + root śru"
+    }
+   ],
+   "question": "What world-transcending deed of Śrīpura will the speaker now declare for the listener to hear?",
+   "premises": [
+    "The speaker announces a forthcoming account.",
+    "The account concerns Śrīpura's deed.",
+    "The deed is described as world-transcending."
+   ],
+   "inference": "The verse frames a transition to narrating Śrīpura's transcendent deed.",
+   "uncertainties": [
+    "Whether Śrīpura denotes the city, goddess, or sacred domain remains context-dependent."
+   ],
+   "plain_english": "Now I will speak the world-transcending deed of Śrīpura; listen."
+  }
+ ]
+}

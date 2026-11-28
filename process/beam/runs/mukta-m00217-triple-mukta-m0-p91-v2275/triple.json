@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "prajānām",
+     "gloss": "of-people",
+     "grounds": "genitive plural of prajā, indicating those affected",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "āśvine",
+     "gloss": "in-ashvina",
+     "grounds": "locative singular of month name āśvina",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māse",
+     "gloss": "in-month",
+     "grounds": "locative singular of māsa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "indeclinable adverb indicating totality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "substantive adjective denoting favorable outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva hi",
+     "gloss": "indeed-certainly",
+     "grounds": "emphatic indeclinable particles",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What auspicious outcome arises for people in the month of Ashvina?",
+   "premises": [
+    "The month specified is Ashvina.",
+    "The affected group is the people.",
+    "The result is auspicious from all sides."
+   ],
+   "inference": "Therefore, the month of Ashvina brings universally auspicious results for people.",
+   "uncertainties": [],
+   "plain_english": "In the month of Ashvina, there is indeed auspiciousness for people in every respect."
+  }
+ ]
+}

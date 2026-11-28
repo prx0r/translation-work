@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p292",
+ "items": [
+  {
+   "verse": 7300,
+   "rows": [
+    {
+     "surface": "bhairavān",
+     "gloss": "bhairavas",
+     "grounds": "direct object of sprinkling implied by context",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "demonstrative referring to the Bhairavas",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence following prior actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhālodbhavāsṛjā",
+     "gloss": "with-blood-born-from-forehead",
+     "grounds": "compound: bhāla (forehead) + udbhava (arisen) + asṛj (blood), instrument of sprinkling",
+     "morph": "f.inst.sg, compound"
+    }
+   ],
+   "question": "What substance is used to consecrate those Bhairavas after the goddess's fierce acts?",
+   "premises": [
+    "The goddess has performed fierce acts involving blood.",
+    "The action then turns toward those Bhairavas.",
+    "The instrument named is blood arisen from the forehead."
+   ],
+   "inference": "Those Bhairavas are consecrated with blood born from the goddess's forehead.",
+   "uncertainties": [
+    "The verb governing the sprinkling is supplied from the preceding verse context."
+   ],
+   "plain_english": "And then she sprinkles those Bhairavas with the blood that has arisen from her forehead."
+  }
+ ]
+}

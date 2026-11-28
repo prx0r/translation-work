@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "yojanayā",
+     "gloss": "by-application",
+     "grounds": "instrumental of means indicating how the mantra is formed",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "hrī/",
+     "gloss": "hrī",
+     "grounds": "bīja syllable kept as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyavāsinyai",
+     "gloss": "to-nirmālyavāsinī",
+     "grounds": "dative of the deity addressed in the mantra",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation forming part of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the preceding words as the quoted mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "subject produced by the stated application",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "produced",
+     "grounds": "resultant state of the mantra",
+     "morph": "m.nom.sg.past-participle + jan"
+    }
+   ],
+   "question": "By what application is the mantra addressed to Nirmālyavāsinī formed?",
+   "premises": [
+    "A specific application is employed.",
+    "The elements hrī, nirmālyavāsinyai, and nama are combined.",
+    "The combination is identified as a mantra."
+   ],
+   "inference": "Through this application, the mantra 'hrī nirmālyavāsinyai nama' is produced.",
+   "uncertainties": [
+    "The exact ritual referent of yojanayā depends on the preceding instructions."
+   ],
+   "plain_english": "By this application, the mantra 'hrī nirmālyavāsinyai nama' is formed."
+  }
+ ]
+}

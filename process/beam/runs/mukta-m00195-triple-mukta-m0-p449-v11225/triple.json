@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p449",
+ "items": [
+  {
+   "verse": 11225,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier indicating totality of what becomes perceptible",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pratyakṣatāṃ",
+     "gloss": "direct-perceptibility",
+     "grounds": "state of being directly visible or evident",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "attain",
+     "grounds": "motion verb used for reaching a state",
+     "morph": "3.pl.pres.act √yā"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "those engaged in spiritual practice",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇām",
+     "gloss": "of-mantra-holders",
+     "grounds": "practitioners qualified by possession of mantras",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What becomes directly perceptible to practitioners who possess mantras?",
+   "premises": [
+    "Practitioners may be qualified as holders of mantras.",
+    "A state of direct perceptibility can be attained.",
+    "The attainment of perceptibility applies to all relevant things."
+   ],
+   "inference": "All things become directly perceptible to mantra-holding practitioners.",
+   "uncertainties": [
+    "The scope of sarve is not explicitly specified in this verse alone."
+   ],
+   "plain_english": "Indeed, all things become directly perceptible to the practitioners who are holders of mantras."
+  }
+ ]
+}

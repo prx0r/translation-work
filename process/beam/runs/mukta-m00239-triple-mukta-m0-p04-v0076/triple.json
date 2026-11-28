@@ -1,0 +1,1349 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "ekīkṛtya",
+     "gloss": "having-united",
+     "grounds": "absolutive of root kṛ with prefix ekī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āñjayet",
+     "gloss": "should-anoint",
+     "grounds": "optative of root añj",
+     "morph": "3.sg.act.opt+añj"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "accusative singular masculine relative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "present of root paś",
+     "morph": "3.sg.act.pres+paś"
+    },
+    {
+     "surface": "vaśī",
+     "gloss": "submissive",
+     "grounds": "adjective in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    }
+   ],
+   "question": "How does anointing the eye after uniting something make a seen person submissive?",
+   "premises": [
+    "uniting precedes anointing",
+    "the eye is anointed",
+    "the seen person becomes submissive"
+   ],
+   "inference": "The verse links anointing the eye to submissiveness of the person seen.",
+   "uncertainties": [
+    "the object united is not specified"
+   ],
+   "plain_english": "Having united, one should anoint the eye; whom one sees becomes submissive."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "maṃtritaṃ",
+     "gloss": "enchanted",
+     "grounds": "past participle of root mantr",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "passive present of root dā",
+     "morph": "3.sg.pass.pres+dā"
+    },
+    {
+     "surface": "yasmai",
+     "gloss": "to-whom",
+     "grounds": "dative singular masculine relative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vaśībhavati",
+     "gloss": "submissive-becomes",
+     "grounds": "compound verb of vaśī and bhavati",
+     "morph": "3.sg.act.pres+compound"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is an enchanted thing given so that he certainly becomes submissive?",
+   "premises": [
+    "an enchanted thing is given",
+    "the recipient becomes submissive",
+    "the result is certain"
+   ],
+   "inference": "Giving an enchanted object to someone makes him certainly submissive.",
+   "uncertainties": [
+    "the enchanted object is not named"
+   ],
+   "plain_english": "An enchanted thing is given to whom; he certainly becomes submissive."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "gavāṃ",
+     "gloss": "of-cows",
+     "grounds": "genitive plural feminine",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kṣīreṇa",
+     "gloss": "with-milk",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājavaśyakaraṃ",
+     "gloss": "king-subjugation-making",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "n.acc.sg+compound"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "surely",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forehead mark made with cow milk surely subjugates a king?",
+   "premises": [
+    "cow milk is used",
+    "a forehead mark is made",
+    "the mark subjugates a king"
+   ],
+   "inference": "A forehead mark made with cow milk surely subjugates a king.",
+   "uncertainties": [
+    "the exact mark is not specified"
+   ],
+   "plain_english": "With cow milk a forehead mark is made; it surely subjugates a king."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-collected",
+     "grounds": "absolutive of root gṛh with prefix sam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bharaṇī-ṛkṣe",
+     "gloss": "in-bharaṇī-constellation",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg+compound"
+    },
+    {
+     "surface": "puṣyarkṣe",
+     "gloss": "in-puṣya-constellation",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg+compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under which constellations and rule should the material be collected?",
+   "premises": [
+    "material is collected",
+    "bharaṇī or puṣya is used",
+    "collection follows rule"
+   ],
+   "inference": "The material should be collected under bharaṇī or puṣya according to rule.",
+   "uncertainties": [
+    "the material collected is not named"
+   ],
+   "plain_english": "Having collected according to rule, under bharaṇī or puṣya constellation."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sudarśanāmūlaṃ",
+     "gloss": "sudarśanā-root",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg+compound"
+    },
+    {
+     "surface": "vaddhvā",
+     "gloss": "having-tied",
+     "grounds": "absolutive of root bandh",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājapriyo",
+     "gloss": "king-dear",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    }
+   ],
+   "question": "What happens when sudarśanā root is tied on the hand?",
+   "premises": [
+    "sudarśanā root is tied",
+    "it is tied on the hand",
+    "one becomes dear to the king"
+   ],
+   "inference": "Tying sudarśanā root on the hand makes one dear to the king.",
+   "uncertainties": [
+    "the tying procedure is not detailed"
+   ],
+   "plain_english": "Having tied sudarśanā root on the hand, one becomes dear to the king."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "śākhāṃ",
+     "gloss": "branch",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśākhāyāṃ",
+     "gloss": "in-viśākhā",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hasta",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "leaf",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which branch and leaf are used in viśākhā and hasta?",
+   "premises": [
+    "a branch is used",
+    "viśākhā is named",
+    "a leaf is used in hasta"
+   ],
+   "inference": "The verse names a branch and leaf in connection with viśākhā and hasta.",
+   "uncertainties": [
+    "the exact plants are not specified"
+   ],
+   "plain_english": "A branch indeed in viśākhā, and likewise a leaf in hasta."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "tilākāt",
+     "gloss": "from-sesame",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśaṃ",
+     "gloss": "under-control",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present of root yā",
+     "morph": "3.sg.act.pres+yā"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣādarundhatī",
+     "gloss": "visible-arundhatī",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg+compound"
+    }
+   ],
+   "question": "When does a woman go under control from sesame if arundhatī is visible?",
+   "premises": [
+    "sesame is involved",
+    "a woman goes under control",
+    "arundhatī is visible"
+   ],
+   "inference": "The verse conditions a woman's submissiveness on visible arundhatī and sesame.",
+   "uncertainties": [
+    "the sesame operation is not described"
+   ],
+   "plain_english": "From sesame a woman goes under control if arundhatī is visible."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "oṃ namo bhagavate rudrāya cāmuṇḍe amukīṃ me vaśamānaya svāhā",
+     "gloss": "oṃ-namo-bhagavate-rudrāya-cāmuṇḍe-amukīṃ-me-vaśamānaya-svāhā",
+     "grounds": "mantra syllables kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktayogānām",
+     "gloss": "of-said-practices",
+     "grounds": "genitive plural masculine compound",
+     "morph": "m.gen.pl+compound"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃtraḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra is declared for the said practices?",
+   "premises": [
+    "a mantra is given",
+    "it belongs to said practices",
+    "it is called this mantra"
+   ],
+   "inference": "The given mantra is the mantra for the said practices.",
+   "uncertainties": [
+    "the mantra's application details are not specified"
+   ],
+   "plain_english": "This mantra indeed is the mantra of the said practices."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "genitive singular feminine relative",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drinks",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.act.opt+pā"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "submissive",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "surely",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does drinking water by whose name make a woman surely submissive?",
+   "premises": [
+    "water is drunk by name",
+    "the woman becomes submissive",
+    "the result is sure"
+   ],
+   "inference": "Drinking water by a woman's name makes her surely submissive.",
+   "uncertainties": [
+    "the ritual context is not specified"
+   ],
+   "plain_english": "Drinking water by whose name, that woman surely becomes submissive."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "oṃ namaḥ kṣiprakāminī amukīṃ me vaśamānaya svāhā",
+     "gloss": "oṃ-namaḥ-kṣiprakāminī-amukīṃ-me-vaśamānaya-svāhā",
+     "grounds": "mantra syllables kept byte-exact",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra is given for quick subjugation?",
+   "premises": [
+    "a mantra is given",
+    "it names kṣiprakāminī",
+    "it asks for subjugation"
+   ],
+   "inference": "The verse gives a mantra for quick subjugation.",
+   "uncertainties": [
+    "application details are not specified"
+   ],
+   "plain_english": "Oṃ namaḥ kṣiprakāminī amukīṃ me vaśamānaya svāhā."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "oṃ hūṃ svāhā",
+     "gloss": "oṃ-hūṃ-svāhā",
+     "grounds": "mantra syllables kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive of root mantr with prefix abhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative of root dā",
+     "morph": "3.sg.act.opt+dā"
+    }
+   ],
+   "question": "What should be given after consecrating with this mantra?",
+   "premises": [
+    "a mantra is used",
+    "consecration is performed",
+    "something should be given"
+   ],
+   "inference": "After consecrating with this mantra, something should be given.",
+   "uncertainties": [
+    "the object to be given is not named"
+   ],
+   "plain_english": "Having consecrated with this mantra, one should give."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "passive present of root dā",
+     "morph": "3.sg.pass.pres+dā"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yasyai",
+     "gloss": "to-whom",
+     "grounds": "dative singular feminine relative",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "submissive",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of root bhū",
+     "morph": "3.sg.act.pres+bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "surely",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is a flower given so she surely becomes submissive?",
+   "premises": [
+    "a flower is given",
+    "the recipient becomes submissive",
+    "the result is sure"
+   ],
+   "inference": "Giving a flower to someone makes her surely submissive.",
+   "uncertainties": [
+    "the flower type is not specified"
+   ],
+   "plain_english": "A flower is given to whom; she surely becomes submissive."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "optative of root sādh",
+     "morph": "3.sg.act.opt+sādh"
+    },
+    {
+     "surface": "mantramuttamam",
+     "gloss": "mantra-supreme",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg+compound"
+    }
+   ],
+   "question": "Why should this supreme mantra be accomplished with effort?",
+   "premises": [
+    "therefore is stated",
+    "this mantra is supreme",
+    "it should be accomplished with effort"
+   ],
+   "inference": "Because the mantra is supreme, it should be accomplished with effort.",
+   "uncertainties": [
+    "the reason for effort is not elaborated"
+   ],
+   "plain_english": "Therefore one should accomplish this supreme mantra with effort."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "on-hand",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-tied",
+     "grounds": "absolutive of root bandh",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "present of root kṛ",
+     "morph": "3.sg.act.pres+kṛ"
+    },
+    {
+     "surface": "vaśagāṃ",
+     "gloss": "under-control",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "varayoṣitam",
+     "gloss": "excellent-woman",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg+compound"
+    }
+   ],
+   "question": "What happens when something is tied on the hand regarding an excellent woman?",
+   "premises": [
+    "something is tied on the hand",
+    "an excellent woman is involved",
+    "she is made under control"
+   ],
+   "inference": "Tying something on the hand makes an excellent woman under control.",
+   "uncertainties": [
+    "the tied object is not named"
+   ],
+   "plain_english": "Having tied on the hand, one makes an excellent woman under control."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "yasyāḥ",
+     "gloss": "whose",
+     "grounds": "genitive singular feminine relative",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śirogatam",
+     "gloss": "on-head-gone",
+     "grounds": "nominative/accusative singular neuter compound",
+     "morph": "n.nom/acc.sg+compound"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "nominative/accusative singular neuter",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prepared",
+     "grounds": "nominative/accusative singular neuter participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "vicūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "nominative/accusative singular neuter",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dāsī",
+     "gloss": "slave",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "jhaṭiti",
+     "gloss": "instantly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taruṇī",
+     "gloss": "young-woman",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicitram",
+     "gloss": "wonderful",
+     "grounds": "nominative/accusative singular neuter",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What happens when prepared powder is placed on a young woman's head?",
+   "premises": [
+    "prepared powder is used",
+    "it is placed on the head",
+    "the young woman becomes a slave instantly"
+   ],
+   "inference": "Placing prepared powder on a young woman's head makes her instantly a slave.",
+   "uncertainties": [
+    "the powder's composition is not specified"
+   ],
+   "plain_english": "This prepared powder on the head makes the young woman instantly a slave, wonderful."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "vāmaṃ",
+     "gloss": "left",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vilimpati",
+     "gloss": "anoints",
+     "grounds": "present of root lip with prefix vi",
+     "morph": "3.sg.act.pres+vilip"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "foot",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sahasaiva",
+     "gloss": "suddenly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "genitive singular feminine relative",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vasya",
+     "gloss": "submissive",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "becomes",
+     "grounds": "present of root bhū",
+     "morph": "3.pl.act.pres+bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpabhāvaḥ",
+     "gloss": "doubt-state",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg+compound"
+    }
+   ],
+   "question": "What is the effect of anointing the left foot suddenly?",
+   "premises": [
+    "the left foot is anointed",
+    "it is done suddenly",
+    "she becomes submissive without doubt"
+   ],
+   "inference": "Anointing the left foot suddenly makes her submissive without doubt.",
+   "uncertainties": [
+    "the anointing substance is not named"
+   ],
+   "plain_english": "Anointing the left foot suddenly, she indeed becomes submissive; there is no doubt here."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes-to",
+     "grounds": "present of root yā",
+     "morph": "3.sg.act.pres+yā"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "man",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nūnaṃ",
+     "gloss": "indeed",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāsī",
+     "gloss": "slave",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manoharadivyamūrttiḥ",
+     "gloss": "mind-captivating-divine-form",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg+compound"
+    }
+   ],
+   "question": "What does a mind-captivating divine form not do regarding another man?",
+   "premises": [
+    "she does not go to another man",
+    "not even by mind",
+    "she becomes a slave"
+   ],
+   "inference": "A mind-captivating divine form does not go to another man even in mind and becomes a slave.",
+   "uncertainties": [
+    "the causal relation is compressed"
+   ],
+   "plain_english": "She does not go to another man even by mind; indeed she becomes a slave, thus a mind-captivating divine form."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "liptvā",
+     "gloss": "having-anointed",
+     "grounds": "absolutive of root lip",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhvajaṃ",
+     "gloss": "flag",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pariramaty",
+     "gloss": "sports-with",
+     "grounds": "present of root ram with prefix pari",
+     "morph": "3.sg.act.pres+pariram"
+    },
+    {
+     "surface": "abalāṃ",
+     "gloss": "woman",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "accusative singular feminine relative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukuṭatvam",
+     "gloss": "crown-state",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg+compound"
+    },
+    {
+     "surface": "eti",
+     "gloss": "attains",
+     "grounds": "present of root i",
+     "morph": "3.sg.act.pres+i"
+    }
+   ],
+   "question": "What does a man attain in the heart by anointing a flag and sporting with a woman?",
+   "premises": [
+    "a flag is anointed",
+    "a man sports with a woman",
+    "he attains crown-state in the heart"
+   ],
+   "inference": "By anointing a flag and sporting with a woman, a man attains crown-state in the heart.",
+   "uncertainties": [
+    "the flag's role is not explained"
+   ],
+   "plain_english": "Having anointed a flag, a man sports with a woman; he indeed attains crown-state in her heart."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "tāmbūlādau",
+     "gloss": "in-betel-etc",
+     "grounds": "locative singular masculine compound",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of root dā with prefix pra",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "submissive",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of root bhū",
+     "morph": "3.sg.act.pres+bhū"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be given in betel etc. so one certainly becomes submissive?",
+   "premises": [
+    "something is to be given",
+    "it is given in betel etc.",
+    "one certainly becomes submissive"
+   ],
+   "inference": "Giving the prescribed thing in betel etc. certainly makes one submissive.",
+   "uncertainties": [
+    "the prescribed thing is not named"
+   ],
+   "plain_english": "In betel etc. it should be given; one certainly becomes submissive."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "yasyāḥ",
+     "gloss": "whose",
+     "grounds": "genitive singular feminine relative",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśatāṃ",
+     "gloss": "to-submissiveness",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present of root yā",
+     "morph": "3.sg.act.pres+yā"
+    },
+    {
+     "surface": "bindumātreṇa",
+     "gloss": "by-drop-mere",
+     "grounds": "instrumental singular neuter compound",
+     "morph": "n.inst.sg+compound"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How quickly does she go to submissiveness by a mere drop?",
+   "premises": [
+    "she goes to submissiveness",
+    "a mere drop is used",
+    "it happens at that moment"
+   ],
+   "inference": "By a mere drop she goes to submissiveness at that moment.",
+   "uncertainties": [
+    "the drop's substance is not specified"
+   ],
+   "plain_english": "She goes to submissiveness by a mere drop, at that moment."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "taruṇyā",
+     "gloss": "of-young-woman",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "nominative/accusative singular neuter participle",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśā",
+     "gloss": "submissive",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act.opt+bhū"
+    }
+   ],
+   "question": "What happens when something is given in a young woman's heart?",
+   "premises": [
+    "something is given",
+    "it is given in the heart",
+    "the woman becomes submissive at that moment"
+   ],
+   "inference": "Giving something in a young woman's heart makes her submissive at that moment.",
+   "uncertainties": [
+    "the given thing is not named"
+   ],
+   "plain_english": "Given in a young woman's heart, at that moment the woman becomes submissive."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "prāṇānte",
+     "gloss": "at-life-end",
+     "grounds": "locative singular masculine compound",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naraṃ",
+     "gloss": "man",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "present of root muc with prefix vi",
+     "morph": "3.sg.act.pres+vimuc"
+    }
+   ],
+   "question": "What does a woman not do even at life's end regarding a man?",
+   "premises": [
+    "even at life's end",
+    "the woman does not release",
+    "the man is specified"
+   ],
+   "inference": "Even at life's end, the woman does not release that man.",
+   "uncertainties": [
+    "the reason for non-release is not stated"
+   ],
+   "plain_english": "Even at life's end, that woman does not release that man."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "ayuta",
+     "gloss": "ten-thousand",
+     "grounds": "nominative/accusative singular neuter",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "dvayena",
+     "gloss": "by-two",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many repetitions bring accomplishment?",
+   "premises": [
+    "ten thousand is named",
+    "two is named",
+    "accomplishment is the result"
+   ],
+   "inference": "Accomplishment comes by ten thousand times two.",
+   "uncertainties": [
+    "the repeated act is not specified"
+   ],
+   "plain_english": "Accomplishment by ten thousand times two."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "jaṭāmāṃsīṃ",
+     "gloss": "spikenard",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimbaṃ",
+     "gloss": "neem",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cūrṇayet",
+     "gloss": "should-powder",
+     "grounds": "optative of root cūrṇ",
+     "morph": "3.sg.act.opt+cūrṇ"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "mantra-knower-best",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg+compound"
+    }
+   ],
+   "question": "What should the best mantra knower powder equally?",
+   "premises": [
+    "spikenard is used",
+    "neem is used",
+    "they should be powdered equally"
+   ],
+   "inference": "The best mantra knower should powder spikenard and neem equally.",
+   "uncertainties": [
+    "the resulting powder's use is not specified"
+   ],
+   "plain_english": "The best mantra knower should powder spikenard and neem equally."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "kucaka",
+     "gloss": "breasts",
+     "grounds": "enumerated bodily mark in the contemplated female form",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "jajala",
+     "gloss": "collyrium",
+     "grounds": "enumerated cosmetic substance in the contemplated female form",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sīmanta",
+     "gloss": "parting",
+     "grounds": "enumerated bodily mark in the contemplated female form",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kaṅkaṇa",
+     "gloss": "bracelets",
+     "grounds": "enumerated ornament in the contemplated female form",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ābharaṇāni",
+     "gloss": "ornaments",
+     "grounds": "enumerated decorative items in the contemplated female form",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the enumerated items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily marks, cosmetics, and ornaments belong to the contemplated female form in this yoga practice?",
+   "premises": [
+    "The verse lists bodily marks and ornaments.",
+    "The listed items are connected by ca.",
+    "The context concerns contemplating a female form."
+   ],
+   "inference": "These items are to be included among the contemplated features of the female form.",
+   "uncertainties": [
+    "The exact grammatical case and ritual function of each listed item are not specified by the verse alone."
+   ],
+   "plain_english": "Breasts, collyrium, parting, bracelets, ornaments, and so on."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptākṣarī",
+     "gloss": "seven-syllabled",
+     "grounds": "compound of saptan and akṣara with feminine ending",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle of pra-vac, feminine nominative singular agreeing with saptākṣarī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktitantreṣu",
+     "gloss": "in-Shakti-tantras",
+     "grounds": "compound of śakti and tantra in locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "giving-accomplishment",
+     "grounds": "compound of siddhi and dā, feminine nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is the seven-syllabled mantra declared in the Shakti tantras as bestowing accomplishment?",
+   "premises": [
+    "The seven-syllabled mantra is declared.",
+    "It is declared in Shakti tantras.",
+    "It bestows accomplishment."
+   ],
+   "inference": "The verse identifies the seven-syllabled mantra as accomplishment-bestowing and locates its declaration in the Shakti tantras.",
+   "uncertainties": [
+    "The specific seven-syllabled mantra is not named in this verse."
+   ],
+   "plain_english": "Thus the seven-syllabled mantra is declared in the Shakti tantras as bestowing accomplishment."
+  }
+ ]
+}

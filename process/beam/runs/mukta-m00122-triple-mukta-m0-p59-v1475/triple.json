@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "haviṣyāṣī",
+     "gloss": "oblation-eater",
+     "grounds": "legacy hint oblation-eater; fused form retained",
+     "morph": "compound"
+    },
+    {
+     "surface": "payobhakṣaḥ",
+     "gloss": "milk-eater",
+     "grounds": "legacy hint milk-eater",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "legacy hint fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "legacy hint root",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśanaḥ",
+     "gloss": "eater",
+     "grounds": "legacy hint eater",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which food-types and eaters are enumerated as alternatives here?",
+   "premises": [
+    "Oblation-eater and milk-eater are named.",
+    "Fruit root and eater are named.",
+    "Alternatives are introduced by or."
+   ],
+   "inference": "The verse enumerates food or offering categories and eaters.",
+   "uncertainties": [
+    "Exact syntactic roles and sandhi are not resolved."
+   ],
+   "plain_english": "Oblation-eater, milk-eater, fruit, root, eater—or—or."
+  }
+ ]
+}

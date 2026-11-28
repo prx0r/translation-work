@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p553",
+ "items": [
+  {
+   "verse": 13801,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "location of drawing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśa+dalam",
+     "gloss": "ten-petaled",
+     "grounds": "describes lotus",
+     "morph": "compound=daśan+dala"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object to draw",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat+kiñjalkeṣu",
+     "gloss": "in-its-filaments",
+     "grounds": "location for writing",
+     "morph": "compound=tat+kiñjalka, n.loc.pl"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "Where must the practitioner draw the ten-petaled lotus and inscribe within its filaments?",
+   "premises": [
+    "A ten-petaled lotus is drawn outside",
+    "Writing occurs in its filaments",
+    "The action is prescribed as ritual inscription"
+   ],
+   "inference": "The ritual requires drawing an outer ten-petaled lotus and writing within its filaments.",
+   "uncertainties": [],
+   "plain_english": "Outside, one should draw a ten-petaled lotus and write in its filaments."
+  },
+  {
+   "verse": 13802,
+   "rows": [
+    {
+     "surface": "vāsudevāya",
+     "gloss": "to-vāsudeva",
+     "grounds": "dedication in mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "mantra word",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phaṭ+svāhā+antaḥ",
+     "gloss": "ending-with-phaṭ-svāhā",
+     "grounds": "describes mantra ending",
+     "morph": "compound=phaṭ+svāhā+anta"
+    },
+    {
+     "surface": "nakha+akṣaraḥ",
+     "gloss": "nail-syllabled",
+     "grounds": "syllable count designation",
+     "morph": "compound=nakha+akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What mantra formula and syllable count are specified for the Vāsudeva inscription?",
+   "premises": [
+    "The formula addresses Vāsudeva and includes kavaca",
+    "The mantra ends with phaṭ and svāhā",
+    "It is designated as nail-syllabled"
+   ],
+   "inference": "The prescribed mantra for Vāsudeva ends with phaṭ and svāhā and has the stated syllable count.",
+   "uncertainties": [
+    "The exact numeric value implied by nakha+akṣaraḥ is not explicit in the verse."
+   ],
+   "plain_english": "Write the mantra to Vāsudeva with 'kavaca', ending in 'phaṭ svāhā', having the nail-number of syllables."
+  },
+  {
+   "verse": 13803,
+   "rows": [
+    {
+     "surface": "p. 797",
+     "gloss": "page-797",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madana+ākrāntaṃ",
+     "gloss": "overcome-by-madana",
+     "grounds": "describes earth-house",
+     "morph": "compound=madana+ākrānta, n.acc.sg"
+    },
+    {
+     "surface": "bhū+gṛhaṃ",
+     "gloss": "earth-house",
+     "grounds": "diagram element to make",
+     "morph": "compound=bhū+gṛha, n.acc.sg"
+    },
+    {
+     "surface": "racayet",
+     "gloss": "one-should-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √rac"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What diagrammatic enclosure must be constructed next in the ritual sequence?",
+   "premises": [
+    "An earth-house is to be made",
+    "It is characterized as overcome by Madana",
+    "The action follows in sequence"
+   ],
+   "inference": "After the prior step, the practitioner should construct an earth-house marked by Madana.",
+   "uncertainties": [
+    "The token 'p. 797' is an editorial marker rather than part of the verse text."
+   ],
+   "plain_english": "Then one should make an earth-house overcome by Madana."
+  },
+  {
+   "verse": 13804,
+   "rows": [
+    {
+     "surface": "hema+paṭṭe",
+     "gloss": "on-gold-plate",
+     "grounds": "material support",
+     "morph": "compound=hema+paṭṭa, m.loc.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed method",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "guṭikī+kṛtya",
+     "gloss": "having-made-pill",
+     "grounds": "preparatory action",
+     "morph": "compound=guṭikī+kṛ, (gerund)"
+    },
+    {
+     "surface": "pūjitam",
+     "gloss": "worshipped",
+     "grounds": "state of prepared object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How must the prepared ritual object be formed and consecrated on a gold plate?",
+   "premises": [
+    "The object is made on a gold plate",
+    "It is formed into a pill according to rule",
+    "It is worshipped"
+   ],
+   "inference": "The ritual object should be properly made into a pill on a gold plate and worshipped.",
+   "uncertainties": [],
+   "plain_english": "On a gold plate, having made it into a pill according to rule, it should be worshipped."
+  },
+  {
+   "verse": 13805,
+   "rows": [
+    {
+     "surface": "gopāla+yantram",
+     "gloss": "gopāla-yantra",
+     "grounds": "ritual diagram named",
+     "morph": "compound=gopāla+yantra, n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "points to yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyavadbhiḥ",
+     "gloss": "by-meritorious-ones",
+     "grounds": "qualified bearers",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "place of holding",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhṛtam",
+     "gloss": "held",
+     "grounds": "action/state",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to hold the Gopāla yantra and where is it borne?",
+   "premises": [
+    "This is the Gopāla yantra",
+    "It is held in the hand",
+    "Meritorious persons hold it"
+   ],
+   "inference": "The Gopāla yantra is to be held in the hand by meritorious persons.",
+   "uncertainties": [],
+   "plain_english": "Indeed, this Gopāla yantra is held in the hand by meritorious people."
+  },
+  {
+   "verse": 13806,
+   "rows": [
+    {
+     "surface": "kīrti+ādi",
+     "gloss": "fame-and-so-on",
+     "grounds": "benefits listed",
+     "morph": "compound=kīrti+ādi"
+    },
+    {
+     "surface": "vardhanaṃ",
+     "gloss": "increasing",
+     "grounds": "effect of yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putra+pautra",
+     "gloss": "son-grandson",
+     "grounds": "progeny benefits",
+     "morph": "compound=putra+pautra"
+    },
+    {
+     "surface": "vivardhanam",
+     "gloss": "increasing",
+     "grounds": "effect on progeny",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What benefits of fame and progeny does the Gopāla yantra confer on its bearer?",
+   "premises": [
+    "It increases fame and related goods",
+    "It increases sons and grandsons",
+    "Both effects are affirmed"
+   ],
+   "inference": "The yantra brings increase in fame and in progeny.",
+   "uncertainties": [],
+   "plain_english": "It increases fame and the like, and indeed increases sons and grandsons."
+  },
+  {
+   "verse": 13807,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "points to yantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "object of remembrance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "mental practice",
+     "morph": "3.sg.opt.act √smṛ"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "context of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "result denied",
+     "morph": "3.sg.pres.act √naś"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "time of effect",
+     "morph": "compound=tat+kṣaṇa, m.abl.sg"
+    }
+   ],
+   "question": "What protective efficacy follows from remembering and reciting with this yantra?",
+   "premises": [
+    "One should remember this yantra there",
+    "One should perform recitation",
+    "Destruction does not occur from that moment"
+   ],
+   "inference": "Remembering and reciting with the yantra prevents perishing from that moment onward.",
+   "uncertainties": [
+    "The subject of naśyati is not explicitly stated."
+   ],
+   "plain_english": "One should remember this yantra there and recite; from that moment, one does not perish."
+  },
+  {
+   "verse": 13808,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initial step",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "shape to draw",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-drawn",
+     "grounds": "prior action",
+     "morph": "(gerund) √likh"
+    },
+    {
+     "surface": "tat+madhye",
+     "gloss": "in-its-middle",
+     "grounds": "location for seed",
+     "morph": "compound=tat+madhya, n.loc.sg"
+    },
+    {
+     "surface": "glauṃ",
+     "gloss": "glauṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "What initial geometric form and seed-syllable must be inscribed to begin the diagram?",
+   "premises": [
+    "A circle is drawn first",
+    "The middle of that circle is the locus",
+    "The seed-syllable glauṃ is written there"
+   ],
+   "inference": "The diagram begins with a circle containing the seed-syllable glauṃ at its center.",
+   "uncertainties": [],
+   "plain_english": "First, having drawn a circle, one should write 'glauṃ' in its middle."
+  },
+  {
+   "verse": 13809,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "tāra",
+     "grounds": "mantra element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namaś",
+     "gloss": "obeisance",
+     "grounds": "mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇāya",
+     "gloss": "to-kṛṣṇa",
+     "grounds": "dedication",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "daleṣu",
+     "gloss": "on-petals",
+     "grounds": "location of writing",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "eka+ekam",
+     "gloss": "one-by-one",
+     "grounds": "distribution",
+     "morph": "compound=eka+eka, n.acc.sg"
+    },
+    {
+     "surface": "akṣaram",
+     "gloss": "syllable",
+     "grounds": "unit to write",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are the mantra syllables to Kṛṣṇa distributed across the petals of the diagram?",
+   "premises": [
+    "The elements include tāra, namaḥ, and Kṛṣṇa",
+    "Writing is done on the petals",
+    "One syllable is placed on each"
+   ],
+   "inference": "The mantra syllables to Kṛṣṇa are to be written one by one on the petals.",
+   "uncertainties": [],
+   "plain_english": "Write 'tāra', 'namaḥ', and 'to Kṛṣṇa', placing one syllable on each petal."
+  },
+  {
+   "verse": 13810,
+   "rows": [
+    {
+     "surface": "ācakrāya",
+     "gloss": "to-ācakrāya",
+     "grounds": "mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "points to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṭ+akṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound=ṣaṣ+akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What is the form and syllable count of the first mantra in this sequence?",
+   "premises": [
+    "The mantra is addressed to ācakrāya",
+    "It ends with svāhā",
+    "It is identified as the first and six-syllabled"
+   ],
+   "inference": "The first mantra in the sequence is a six-syllabled formula ending with svāhā to ācakrāya.",
+   "uncertainties": [],
+   "plain_english": "Then 'to ācakrāya svāhā'—this is the first, six-syllabled mantra."
+  },
+  {
+   "verse": 13811,
+   "rows": [
+    {
+     "surface": "sucakrāya",
+     "gloss": "to-sucakrāya",
+     "grounds": "mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ+akṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound=ṣaṣ+akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What is the form and syllable count of the third mantra in this sequence?",
+   "premises": [
+    "The mantra is addressed to sucakrāya",
+    "It ends with svāhā",
+    "It is identified as the third and six-syllabled"
+   ],
+   "inference": "The third mantra in the sequence is a six-syllabled formula ending with svāhā to sucakrāya.",
+   "uncertainties": [
+    "The verse labels this as third though it follows the first in this excerpt; the second may be given elsewhere."
+   ],
+   "plain_english": "Then 'to sucakrāya svāhā'—this is also the third, six-syllabled mantra."
+  },
+  {
+   "verse": 13812,
+   "rows": [
+    {
+     "surface": "asurāntaka+cakrāya",
+     "gloss": "to-asurāntaka-cakra",
+     "grounds": "mantra address",
+     "morph": "compound=asurāntaka+cakra, m.dat.sg"
+    },
+    {
+     "surface": "svāhā+antaḥ",
+     "gloss": "ending-with-svāhā",
+     "grounds": "mantra ending",
+     "morph": "compound=svāhā+anta, m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "points to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nava+akṣaraḥ",
+     "gloss": "nine-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound=navan+akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What mantra addressed to the asurāntaka-cakra is specified with its syllable count?",
+   "premises": [
+    "The mantra is addressed to asurāntaka-cakra",
+    "It ends with svāhā",
+    "It is nine-syllabled"
+   ],
+   "inference": "A nine-syllabled mantra ending with svāhā is prescribed for asurāntaka-cakra.",
+   "uncertainties": [],
+   "plain_english": "This mantra to the asurāntaka-cakra, ending with 'svāhā', is nine-syllabled."
+  },
+  {
+   "verse": 13813,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "location",
+     "morph": "compound=tat+bāhya, n.loc.sg"
+    },
+    {
+     "surface": "aṣṭādaśa+dalam",
+     "gloss": "eighteen-petaled",
+     "grounds": "lotus description",
+     "morph": "compound=aṣṭādaśan+dala, n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location for writing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "items to write",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "imān",
+     "gloss": "these",
+     "grounds": "specifies letters",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "What structure outside the previous layer must receive the specified letters?",
+   "premises": [
+    "Outside that there is an eighteen-petaled form",
+    "These letters are to be written there",
+    "The action is prescribed"
+   ],
+   "inference": "An eighteen-petaled structure outside the previous layer must be inscribed with these letters.",
+   "uncertainties": [
+    "The specific letters referred to by imān are not listed in this verse."
+   ],
+   "plain_english": "Outside that, one should draw an eighteen-petaled lotus and write these letters there."
+  },
+  {
+   "verse": 13814,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "location",
+     "morph": "compound=tat+bāhya, n.loc.sg"
+    },
+    {
+     "surface": "jina+patreṣu",
+     "gloss": "on-jina-petals",
+     "grounds": "location for writing",
+     "morph": "compound=jina+patra, n.loc.pl"
+    },
+    {
+     "surface": "kṛṣṇa+gāyatrī",
+     "gloss": "kṛṣṇa-gāyatrī",
+     "grounds": "mantra to inscribe",
+     "morph": "compound=kṛṣṇa+gāyatrī"
+    },
+    {
+     "surface": "varṇakān",
+     "gloss": "syllables",
+     "grounds": "units to write",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which mantra syllables must be inscribed on the petals outside the previous layer?",
+   "premises": [
+    "The location is outside that on jina-petals",
+    "The syllables belong to the Kṛṣṇa-gāyatrī",
+    "They are to be written there"
+   ],
+   "inference": "The syllables of the Kṛṣṇa-gāyatrī must be inscribed on the jina-petals outside that layer.",
+   "uncertainties": [
+    "The exact number implied by jina+patreṣu is not explicit in the verse."
+   ],
+   "plain_english": "Outside that, on the jina-petals, one should write the syllables of the Kṛṣṇa-gāyatrī."
+  },
+  {
+   "verse": 13815,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "us",
+     "grounds": "mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "kṛṣṇa",
+     "grounds": "deity named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "may-inspire",
+     "grounds": "mantra petition",
+     "morph": "3.sg.opt.act pra-√cud"
+    }
+   ],
+   "question": "What concluding petition of the Kṛṣṇa-gāyatrī is given for inscription?",
+   "premises": [
+    "The words tat naḥ kṛṣṇaḥ are given",
+    "The verb pracodayāt expresses inspiration",
+    "This forms the mantra text"
+   ],
+   "inference": "The Kṛṣṇa-gāyatrī concludes with the petition that Kṛṣṇa may inspire us.",
+   "uncertainties": [],
+   "plain_english": "May that Kṛṣṇa inspire us."
+  },
+  {
+   "verse": 13816,
+   "rows": [
+    {
+     "surface": "tat+bāhye",
+     "gloss": "outside-that",
+     "grounds": "location",
+     "morph": "compound=tat+bāhya, n.loc.sg"
+    },
+    {
+     "surface": "danta+patreṣu",
+     "gloss": "on-tooth-petals",
+     "grounds": "location for writing",
+     "morph": "compound=danta+patra, n.loc.pl"
+    },
+    {
+     "surface": "gopāla+anuṣṭhubham",
+     "gloss": "gopāla-anuṣṭubh",
+     "grounds": "mantra to inscribe",
+     "morph": "compound=gopāla+anuṣṭubh, f.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "Which Gopāla mantra must be inscribed on the outer tooth-petaled layer?",
+   "premises": [
+    "The location is outside that on tooth-petals",
+    "The Gopāla-anuṣṭubh is specified",
+    "It is to be written there"
+   ],
+   "inference": "The Gopāla-anuṣṭubh mantra must be inscribed on the outer tooth-petaled layer.",
+   "uncertainties": [
+    "The exact number implied by danta+patreṣu is not explicit in the verse."
+   ],
+   "plain_english": "Outside that, on the tooth-petals, one should write the Gopāla anuṣṭubh."
+  },
+  {
+   "verse": 13817,
+   "rows": [
+    {
+     "surface": "vallabhāya+agni+jāyā+antaḥ",
+     "gloss": "ending-with-vallabhāya-agnijāyā",
+     "grounds": "mantra ending",
+     "morph": "compound=vallabhāya+agni+jāyā+anta, m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "points to mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rada+varṇakaḥ",
+     "gloss": "tooth-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound=rada+varṇaka, m.nom.sg"
+    }
+   ],
+   "question": "What ending and syllable count characterize the mantra inscribed on the tooth-petaled layer?",
+   "premises": [
+    "The mantra ends with vallabhāya and agnijāyā",
+    "It is identified as this mantra",
+    "It is tooth-syllabled"
+   ],
+   "inference": "The specified mantra ends with vallabhāya and agnijāyā and has the tooth-number of syllables.",
+   "uncertainties": [
+    "The exact numeric value implied by rada+varṇakaḥ is not explicit in the verse."
+   ],
+   "plain_english": "This mantra, ending with 'vallabhāya' and 'agnijāyā', has the tooth-number of syllables."
+  },
+  {
+   "verse": 13818,
+   "rows": [
+    {
+     "surface": "dvitīyāṃ",
+     "gloss": "second",
+     "grounds": "first object in sequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mātṛkā+varṇaiḥ",
+     "gloss": "with-mātṛkā-letters",
+     "grounds": "means of inscription",
+     "morph": "compound=mātṛkā+varṇa, m.ins.pl"
+    },
+    {
+     "surface": "āṃ+krīṃ+bhyāṃ",
+     "gloss": "with-āṃ-and-krīṃ",
+     "grounds": "specific syllables",
+     "morph": "compound=āṃ+krīṃ, n.ins.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyikām",
+     "gloss": "third",
+     "grounds": "second object in sequence",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How are the second and third ritual elements to be inscribed using mātṛkā letters and seed-syllables?",
+   "premises": [
+    "The second is associated with mātṛkā letters",
+    "The syllables āṃ and krīṃ are specified",
+    "The third element is also included"
+   ],
+   "inference": "The second and third elements are to be inscribed with mātṛkā letters and the syllables āṃ and krīṃ.",
+   "uncertainties": [
+    "The nouns qualified by dvitīyāṃ and tṛtīyikām are not explicitly stated in this verse."
+   ],
+   "plain_english": "One should inscribe the second with mātṛkā letters and the third with 'āṃ' and 'krīṃ'."
+  },
+  {
+   "verse": 13819,
+   "rows": [
+    {
+     "surface": "dharma+kāma+artha",
+     "gloss": "dharma-desire-wealth",
+     "grounds": "aims granted",
+     "morph": "compound=dharma+kāma+artha"
+    },
+    {
+     "surface": "phala+dam",
+     "gloss": "fruit-giving",
+     "grounds": "benefit of yantra",
+     "morph": "compound=phala+da, n.acc.sg"
+    },
+    {
+     "surface": "śatrūn",
+     "gloss": "enemies",
+     "grounds": "threats warded off",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dasyūn",
+     "gloss": "robbers",
+     "grounds": "threats warded off",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivārayet",
+     "gloss": "it-wards-off",
+     "grounds": "protective effect",
+     "morph": "3.sg.opt.act ni-√vṛ"
+    }
+   ],
+   "question": "What worldly fruits and protections does this ritual configuration provide to the practitioner?",
+   "premises": [
+    "It gives the fruits of dharma, desire, and wealth",
+    "It wards off enemies",
+    "It wards off robbers"
+   ],
+   "inference": "The configuration grants dharma, kāma, and artha while protecting against enemies and robbers.",
+   "uncertainties": [],
+   "plain_english": "It gives the fruits of dharma, desire, and wealth, and wards off enemies and robbers."
+  },
+  {
+   "verse": 13820,
+   "rows": [
+    {
+     "surface": "putra+pautra",
+     "gloss": "son-grandson",
+     "grounds": "progeny benefit",
+     "morph": "compound=putra+pautra"
+    },
+    {
+     "surface": "pradaṃ",
+     "gloss": "giving",
+     "grounds": "benefit conferred",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "sphere of effect",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūta+vetāla",
+     "gloss": "bhūta-vetāla",
+     "grounds": "malevolent beings",
+     "morph": "compound=bhūta+vetāla"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destroying",
+     "grounds": "protective effect",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What progeny benefits and supernatural protections does the yantra confer in the world?",
+   "premises": [
+    "It gives sons and grandsons in the world",
+    "It destroys bhūtas and vetālas",
+    "Both benefits are attributed to it"
+   ],
+   "inference": "The yantra grants progeny and destroys harmful beings such as bhūtas and vetālas.",
+   "uncertainties": [],
+   "plain_english": "In the world it gives sons and grandsons and destroys bhūtas and vetālas."
+  },
+  {
+   "verse": 13821,
+   "rows": [
+    {
+     "surface": "abhaktāya",
+     "gloss": "to-non-devotee",
+     "grounds": "excluded recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "restricted action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+brāhmaṇa",
+     "gloss": "god-brāhmaṇa",
+     "grounds": "objects of hostility",
+     "morph": "compound=deva+brāhmaṇa"
+    },
+    {
+     "surface": "dviṣe",
+     "gloss": "to-hater",
+     "grounds": "excluded recipient",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To whom must transmission of this ritual knowledge be refused?",
+   "premises": [
+    "It must not be given to a non-devotee",
+    "It must not be given to one who hates gods and brāhmaṇas",
+    "The prohibition is explicit"
+   ],
+   "inference": "The ritual knowledge is restricted from non-devotees and those hostile to gods and brāhmaṇas.",
+   "uncertainties": [],
+   "plain_english": "It must not be given to one without devotion, nor to one who hates gods and brāhmaṇas."
+  },
+  {
+   "verse": 13822,
+   "rows": [
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "sa+sādhyam",
+     "gloss": "with-target",
+     "grounds": "inclusion of sādhya",
+     "morph": "compound=sa+sādhya, n.acc.sg"
+    },
+    {
+     "surface": "glauṃ+bījaṃ",
+     "gloss": "glauṃ-seed",
+     "grounds": "seed-syllable to write",
+     "morph": "compound=glauṃ+bīja, n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "object to insert",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of insertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveṣṭayet",
+     "gloss": "one-should-insert",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.caus.opt.act pra-√viś"
+    }
+   ],
+   "question": "How must the glauṃ seed-syllable be written and inserted together with the ritual target?",
+   "premises": [
+    "The glauṃ seed is to be written with the sādhya",
+    "That must be properly inserted",
+    "Both writing and insertion are prescribed"
+   ],
+   "inference": "The practitioner should write the glauṃ seed with the sādhya and properly insert it.",
+   "uncertainties": [],
+   "plain_english": "One should write the 'glauṃ' seed together with the target and properly insert it."
+  },
+  {
+   "verse": 13823,
+   "rows": [
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "location",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "items to write",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "patra+akṣara",
+     "gloss": "petal-syllable",
+     "grounds": "source of letters",
+     "morph": "compound=patra+akṣara"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "mantra source",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra letters must be written in the corners of the diagram?",
+   "premises": [
+    "Writing is to be done in the corners",
+    "The letters come from the petal-syllables of the mantra",
+    "The instruction applies likewise"
+   ],
+   "inference": "The syllables of the mantra associated with the petals must likewise be written in the corners.",
+   "uncertainties": [],
+   "plain_english": "In the corners, one should likewise write the letters of the mantra's petal-syllables."
+  },
+  {
+   "verse": 13824,
+   "rows": [
+    {
+     "surface": "gopījana+vallabhāya",
+     "gloss": "to-beloved-of-gopīs",
+     "grounds": "mantra address",
+     "morph": "compound=gopījana+vallabha, m.dat.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśa+akṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "syllable count",
+     "morph": "compound=daśan+akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What final mantra formula and syllable count are prescribed for the beloved of the gopīs?",
+   "premises": [
+    "The mantra is addressed to the beloved of the gopīs",
+    "It ends with svāhā",
+    "It is ten-syllabled"
+   ],
+   "inference": "The prescribed mantra to the beloved of the gopīs is a ten-syllabled formula ending with svāhā.",
+   "uncertainties": [],
+   "plain_english": "The mantra 'to the beloved of the gopīs, svāhā' is ten-syllabled."
+  }
+ ]
+}

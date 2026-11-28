@@ -1,0 +1,464 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "candrasūryagrahe",
+     "gloss": "moon-sun-eclipse",
+     "grounds": "compound locative context",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarvadīkṣā",
+     "gloss": "all-initiation",
+     "grounds": "compound subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "predicate adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "participle predicate",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Is initiation during a solar or lunar eclipse considered auspicious for every initiation?",
+   "premises": [
+    "eclipse time is auspicious",
+    "all initiations are included"
+   ],
+   "inference": "Yes, initiation during a solar or lunar eclipse is considered auspicious for all initiations.",
+   "uncertainties": [],
+   "plain_english": "Initiation during a solar or lunar eclipse is considered auspicious for every initiation."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāratithi",
+     "gloss": "weekday-lunar-day",
+     "grounds": "compound object",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ṛkṣādi",
+     "gloss": "asterism-etc",
+     "grounds": "compound object",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsaniyamastathā",
+     "gloss": "month-rule-thus",
+     "grounds": "compound with thus",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Are weekday, lunar day, asterism, and month restrictions applicable to initiation?",
+   "premises": [
+    "weekday and lunar day are not restricted",
+    "asterism and month rule are not restricted"
+   ],
+   "inference": "No, weekday, lunar day, asterism, and month restrictions do not apply.",
+   "uncertainties": [],
+   "plain_english": "There is no restriction by weekday, lunar day, asterism, or month."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "damanotsave",
+     "gloss": "daman-festival",
+     "grounds": "locative context",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śravaṇyāṃ",
+     "gloss": "in-shravana",
+     "grounds": "locative context",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "grahaṇaṃ",
+     "gloss": "eclipse",
+     "grounds": "subject noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "occurs",
+     "grounds": "verb predicate",
+     "morph": "3.sg.act-pres+jan"
+    }
+   ],
+   "question": "If an eclipse occurs during the damana festival or in shravana, is that time praised?",
+   "premises": [
+    "eclipse may occur in damana festival",
+    "eclipse may occur in shravana"
+   ],
+   "inference": "Such an eclipse occasion is treated as a praised time.",
+   "uncertainties": [
+    "exact festival sense"
+   ],
+   "plain_english": "If an eclipse occurs during the damana festival or in shravana, that occasion is praised."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "candrasūryagrahakālāt",
+     "gloss": "moon-sun-eclipse-time",
+     "grounds": "ablative source",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "nānyaḥ",
+     "gloss": "not-other",
+     "grounds": "negated adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "subject noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive predicate",
+     "morph": "3.sg.pass-pres+praśaṃs"
+    }
+   ],
+   "question": "Is any time other than a solar or lunar eclipse praised for initiation?",
+   "premises": [
+    "eclipse time is the source",
+    "no other time is praised"
+   ],
+   "inference": "No, no time other than a solar or lunar eclipse is praised.",
+   "uncertainties": [],
+   "plain_english": "No time other than a solar or lunar eclipse is praised."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "ghaṭikārdhapūrvameva",
+     "gloss": "half-ghatika-before-only",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grahaṇaṃ",
+     "gloss": "eclipse",
+     "grounds": "subject noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parivartate",
+     "gloss": "changes",
+     "grounds": "verb predicate",
+     "morph": "3.sg.act-pres+parivṛt"
+    }
+   ],
+   "question": "Does the eclipse time shift by half a ghatika before?",
+   "premises": [
+    "half ghatika before is specified",
+    "eclipse changes accordingly"
+   ],
+   "inference": "Yes, the eclipse time changes by half a ghatika before.",
+   "uncertainties": [],
+   "plain_english": "The eclipse time changes by half a ghatika before."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "vimokṣāntaṃ",
+     "gloss": "until-release",
+     "grounds": "adverbial limit",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "japa",
+     "grounds": "object noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuryātsamyakjñāte",
+     "gloss": "should-do-well-known",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.opt.act+kṛ"
+    },
+    {
+     "surface": "samāpanam",
+     "gloss": "completion",
+     "grounds": "object noun",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Should japa be performed until release with completion known?",
+   "premises": [
+    "japa continues until release",
+    "completion is well known"
+   ],
+   "inference": "Yes, japa should be performed until release with completion known.",
+   "uncertainties": [],
+   "plain_english": "One should perform japa until release, with completion well known."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpanaṃ",
+     "gloss": "completion",
+     "grounds": "object noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryātsiddho",
+     "gloss": "should-do-accomplished",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.opt.act+kṛ"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaveddhruvam",
+     "gloss": "becomes-certainly",
+     "grounds": "verb with certainly",
+     "morph": "3.sg.opt.act+bhū"
+    }
+   ],
+   "question": "Does performing completion after japa certainly accomplish the mantra?",
+   "premises": [
+    "completion is performed then",
+    "mantra becomes accomplished certainly"
+   ],
+   "inference": "Yes, performing completion after japa certainly accomplishes the mantra.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform completion, and the mantra certainly becomes accomplished."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "yadyadaṅgaṃ",
+     "gloss": "whatever-limb",
+     "grounds": "compound subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vihīyeta",
+     "gloss": "is-omitted",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.opt+vi+hā"
+    },
+    {
+     "surface": "tatsāṅge",
+     "gloss": "in-that-limb",
+     "grounds": "locative context",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dvijabhojanam",
+     "gloss": "brahmin-feeding",
+     "grounds": "remedy noun",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What remedy is prescribed when a limb of the rite is omitted?",
+   "premises": [
+    "whatever limb is omitted",
+    "brahmin feeding applies in that limb"
+   ],
+   "inference": "When a limb is omitted, brahmin feeding is prescribed in that limb.",
+   "uncertainties": [],
+   "plain_english": "When any limb is omitted, brahmin feeding is prescribed in that limb."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "purification",
+     "grounds": "remedy noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "taddaśāṃśena",
+     "gloss": "that-ten-part",
+     "grounds": "instrumental measure",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "daśāṃśenābhiṣecanam",
+     "gloss": "ten-part-consecration",
+     "grounds": "compound remedy",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What purification and consecration measure applies to omitted limbs?",
+   "premises": [
+    "purification is prescribed",
+    "consecration by tenth part is prescribed"
+   ],
+   "inference": "Purification and consecration by a tenth part apply to omitted limbs.",
+   "uncertainties": [],
+   "plain_english": "Purification and consecration by a tenth part are prescribed."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "yadyadaṅgaṃ",
+     "gloss": "whatever-limb",
+     "grounds": "compound subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vihīyeta",
+     "gloss": "is-omitted",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.opt+vi+hā"
+    },
+    {
+     "surface": "tatsaṃkhyādviguṇo",
+     "gloss": "that-number-twofold",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "japa",
+     "grounds": "subject noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How much japa compensates for an omitted limb?",
+   "premises": [
+    "whatever limb is omitted",
+    "japa is twofold that number"
+   ],
+   "inference": "Japa twofold the number of the omitted limb compensates for it.",
+   "uncertainties": [],
+   "plain_english": "When any limb is omitted, japa twofold its number is prescribed."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "athavā'nyaprakāreṇa",
+     "gloss": "or-other-way",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraścaraṇamucyate",
+     "gloss": "preliminary-rite-is-said",
+     "grounds": "passive verb phrase",
+     "morph": "3.sg.pass.pres+vac"
+    }
+   ],
+   "question": "Is there another way to perform the preliminary rite?",
+   "premises": [
+    "another way is mentioned",
+    "preliminary rite is said thus"
+   ],
+   "inference": "Yes, the preliminary rite may be performed another way.",
+   "uncertainties": [],
+   "plain_english": "Or the preliminary rite is said to be performed another way."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "duṣṭamantro'pi",
+     "gloss": "corrupt-mantra-also",
+     "grounds": "compound subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "instrumental adverb",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "verb predicate",
+     "morph": "3.sg.act.pres+sadh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does even a corrupt mantra certainly succeed when performed in order?",
+   "premises": [
+    "corrupt mantra is included",
+    "orderly performance is specified",
+    "success is certain"
+   ],
+   "inference": "Yes, even a corrupt mantra certainly succeeds when performed in order.",
+   "uncertainties": [],
+   "plain_english": "Even a corrupt mantra, O goddess, certainly succeeds when performed in order."
+  }
+ ]
+}

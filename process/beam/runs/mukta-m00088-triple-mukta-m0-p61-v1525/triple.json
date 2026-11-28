@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "mudrāntu",
+     "gloss": "mudra-now",
+     "grounds": "token kept as given; internal sandhi not split",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣobhaṇīṃ",
+     "gloss": "agitating",
+     "grounds": "accusative feminine singular adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "absolutive of bandh",
+     "morph": "absolutive (bandh)"
+    },
+    {
+     "surface": "mantramaṣṭaśataṃ",
+     "gloss": "mantra-eight-hundred",
+     "grounds": "compound accusative singular masculine",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "third singular active optative of jap",
+     "morph": "3.sg.act.opt. (jap)"
+    }
+   ],
+   "question": "What ritual action follows binding the agitating mudra?",
+   "premises": [
+    "agitating mudra is bound first",
+    "mantra count is eight hundred",
+    "recitation follows binding"
+   ],
+   "inference": "After binding the agitating mudra, one should recite the mantra eight hundred times.",
+   "uncertainties": [
+    "mudrāntu parsing remains uncertain"
+   ],
+   "plain_english": "Having bound the agitating mudra, one should recite the mantra eight hundred times."
+  }
+ ]
+}

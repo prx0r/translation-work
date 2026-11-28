@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "dative of guru; recipient of the fee",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇārthāya",
+     "gloss": "for-fee",
+     "grounds": "dative singular of dakṣiṇārtha; purpose of offering the fee",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭavāraṃ",
+     "gloss": "eight-times",
+     "grounds": "accusative of aṣṭavāra; frequency of chanting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-chant",
+     "grounds": "optative of jap; prescriptive chanting",
+     "morph": "3.sg.act-opt+jap"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "accusative object of japen; mantra to be chanted",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many times should the mantra be chanted for the guru's fee?",
+   "premises": [
+    "guru receives dakshina",
+    "mantra chanted eight times",
+    "chanting follows ritual sequence"
+   ],
+   "inference": "The practitioner chants the mantra eight times as fee to the guru.",
+   "uncertainties": [
+    "exact compound sense of dakṣiṇārthāya remains context-dependent"
+   ],
+   "plain_english": "For the guru's fee, one should chant the mantra eight times."
+  }
+ ]
+}

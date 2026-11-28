@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p221",
+ "items": [
+  {
+   "verse": 5525,
+   "rows": [
+    {
+     "surface": "sarvatīrthamayaḥ",
+     "gloss": "consisting-of-all-sacred-sites",
+     "grounds": "bahuvrīhi/tatpuruṣa-based compound sarva-tīrtha-mayaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg, ppp, pra-√vac"
+    },
+    {
+     "surface": "sarvadevamayo",
+     "gloss": "consisting-of-all-deities",
+     "grounds": "bahuvrīhi/tatpuruṣa-based compound sarva-deva-mayaḥ; final visarga dropped before bhavet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing potential result",
+     "morph": "3.sg.act.opt, √bhū"
+    }
+   ],
+   "question": "What all-encompassing sacred identity is attained by one who honors the dūtikā?",
+   "premises": [
+    "One who honors the dūtikā is declared consisting of all sacred sites.",
+    "The same person would become consisting of all deities.",
+    "This sacred identity encompasses both pilgrimage sites and divine powers."
+   ],
+   "inference": "Honoring the dūtikā confers an identity that embodies all sacred sites and all deities.",
+   "uncertainties": [
+    "The subject is implied from the preceding verses rather than explicitly stated in this verse."
+   ],
+   "plain_english": "He is declared to consist of all sacred sites and would become one who consists of all deities."
+  }
+ ]
+}

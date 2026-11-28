@@ -1,0 +1,1111 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadevatābhāvam",
+     "gloss": "with-deity-nature",
+     "grounds": "compound expressing identity with the deity",
+     "morph": "m.acc.sg (sa+devatā+bhāva)"
+    },
+    {
+     "surface": "ācāreṣu",
+     "gloss": "in-observances",
+     "grounds": "ritual practices or conducts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāpyataḥ",
+     "gloss": "of-one-reciting",
+     "grounds": "present participle used possessively",
+     "morph": "m.gen.sg (pres.part, √jap)"
+    }
+   ],
+   "question": "What inner identification must accompany mantra recitation during ritual observances?",
+   "premises": [
+    "The mantra is the object of recitation.",
+    "Recitation occurs within ritual observances.",
+    "The reciter should maintain the nature of the deity."
+   ],
+   "inference": "Mantra recitation in observances requires the reciter to assume the nature of the deity.",
+   "uncertainties": [],
+   "plain_english": "In ritual observances, one who recites the mantra should do so while maintaining the nature of the deity."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "uccairjapāt",
+     "gloss": "than-loud-recitation",
+     "grounds": "comparison base for whispered recitation",
+     "morph": "m.abl.sg (uccais+japa)"
+    },
+    {
+     "surface": "viśiṣṭaṃ",
+     "gloss": "superior",
+     "grounds": "qualifies whispered recitation as better",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "upāṃśuḥ",
+     "gloss": "whispered-recitation",
+     "grounds": "mode of recitation done softly",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśabhiḥ",
+     "gloss": "by-ten",
+     "grounds": "numeral indicating degree of superiority",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "guṇaiḥ",
+     "gloss": "by-qualities",
+     "grounds": "measures of excellence or efficacy",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How much more effective is whispered recitation compared to loud recitation?",
+   "premises": [
+    "Loud recitation is a recognized mode of japa.",
+    "Whispered recitation is compared against loud recitation.",
+    "The comparison is measured in ten qualities."
+   ],
+   "inference": "Whispered recitation is superior to loud recitation by ten qualities.",
+   "uncertainties": [],
+   "plain_english": "Whispered recitation is superior to loud recitation by ten qualities."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "daśalakṣajapāt",
+     "gloss": "by-ten-lakh-recitation",
+     "grounds": "quantity of repetitions required",
+     "morph": "m.abl.sg (daśa+lakṣa+japa)"
+    },
+    {
+     "surface": "ekavarṇaḥ",
+     "gloss": "one-syllable",
+     "grounds": "describes the mantra's length",
+     "morph": "m.nom.sg (eka+varṇa)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject that becomes accomplished",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasidhyati",
+     "gloss": "becomes-accomplished",
+     "grounds": "attainment of mantra efficacy",
+     "morph": "3.sg.pres.act (pra+√sidh)"
+    }
+   ],
+   "question": "How many recitations accomplish a mantra consisting of a single syllable?",
+   "premises": [
+    "The mantra in question has one syllable.",
+    "Mantra accomplishment depends on repetition count.",
+    "Ten lakhs of recitations are specified."
+   ],
+   "inference": "A one-syllable mantra becomes accomplished through ten lakhs of recitations.",
+   "uncertainties": [],
+   "plain_english": "A one-syllable mantra becomes accomplished after ten lakhs of recitations."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "bījāt",
+     "gloss": "than-seed-mantra",
+     "grounds": "comparison base for longer mantras",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvitriguṇaṃ",
+     "gloss": "two-or-three-times",
+     "grounds": "multiplier for recitation count",
+     "morph": "m.acc.sg (dvi+tri+guṇa)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object whose recitation is increased",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mālāsandhau",
+     "gloss": "at-rosary-junction",
+     "grounds": "point in the rosary where action occurs",
+     "morph": "m.loc.sg (mālā+sandhi)"
+    },
+    {
+     "surface": "japakriyām",
+     "gloss": "recitation-action",
+     "grounds": "the act of performing japa",
+     "morph": "f.acc.sg (japa+kriyā)"
+    }
+   ],
+   "question": "How should recitation quantity change for mantras longer than seed syllables?",
+   "premises": [
+    "Seed mantras provide a baseline recitation measure.",
+    "Other mantras may require increased repetition.",
+    "The increase is two or three times at the rosary junction."
+   ],
+   "inference": "For a mantra beyond a seed, perform the recitation action two or three times as much at the rosary junction.",
+   "uncertainties": [
+    "The exact syntactic role of mālāsandhau in relation to the increased count is somewhat compressed."
+   ],
+   "plain_english": "For a mantra longer than a seed, perform two or three times the recitation at the junction of the rosary."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "daśākṣarādhikāḥ",
+     "gloss": "more-than-ten-syllables",
+     "grounds": "defines mantras exceeding ten syllables",
+     "morph": "m.nom.pl (daśa+akṣara+adhika)"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject classified by length",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadardhāḥ",
+     "gloss": "half-of-that",
+     "grounds": "defines mantras of five to ten syllables",
+     "morph": "m.nom.pl (tad+ardha)"
+    },
+    {
+     "surface": "bījasaṃjñakāḥ",
+     "gloss": "called-seed",
+     "grounds": "technical designation for shorter mantras",
+     "morph": "m.nom.pl (bīja+saṃjñaka)"
+    }
+   ],
+   "question": "Which mantra lengths are classified as mantras and which as seed mantras?",
+   "premises": [
+    "Mantras are classified by syllable count.",
+    "Those with more than ten syllables are called mantras.",
+    "Those with half that length are called seed mantras."
+   ],
+   "inference": "Mantras with more than ten syllables are mantras, while those with half that number are designated seed mantras.",
+   "uncertainties": [],
+   "plain_english": "Mantras with more than ten syllables are called mantras, and those with half that number are called seed mantras."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "pañcākṣarātmakāḥ",
+     "gloss": "consisting-of-five-syllables",
+     "grounds": "describes the composition of these mantras",
+     "morph": "m.nom.pl (pañca+akṣara+ātmaka)"
+    },
+    {
+     "surface": "bālye",
+     "gloss": "in-childhood",
+     "grounds": "early stage of mantra practice or life",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject that grants success",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers back to the five-syllable mantras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhidāḥ",
+     "gloss": "granting-success",
+     "grounds": "capacity to yield accomplishment",
+     "morph": "m.nom.pl (siddhi+da)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "later",
+     "grounds": "subsequent stage after childhood",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At what stage do five-syllable mantras grant accomplishment to practitioners?",
+   "premises": [
+    "Some mantras consist of five syllables.",
+    "Mantra efficacy can vary by stage.",
+    "These mantras grant success in childhood and later."
+   ],
+   "inference": "Five-syllable mantras grant accomplishment in childhood and also thereafter.",
+   "uncertainties": [
+    "Whether bālye and pare refer to the practitioner's age or the mantra's stage of maturation is not explicit."
+   ],
+   "plain_english": "Mantras consisting of five syllables grant success in childhood and also later on."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "dravyāśaktau",
+     "gloss": "in-lack-of-materials",
+     "grounds": "condition preventing oblation",
+     "morph": "f.loc.sg (dravya+aśakti)"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "specific oblation material mentioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-oblation",
+     "grounds": "ritual context of fire offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aśaktaḥ",
+     "gloss": "unable",
+     "grounds": "practitioner lacking capacity or means",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "in-all-cases",
+     "grounds": "general applicability of the substitute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescribed substitute action",
+     "morph": "3.sg.opt.act (√jap)"
+    }
+   ],
+   "question": "What substitute practice is prescribed when materials for oblation are unavailable?",
+   "premises": [
+    "Oblation may require materials such as ghee.",
+    "A practitioner may be unable to perform oblation.",
+    "Recitation can serve as an alternative."
+   ],
+   "inference": "When unable to offer materials like ghee in oblation, one should perform recitation in all cases.",
+   "uncertainties": [],
+   "plain_english": "If one lacks materials such as ghee for oblation, or is otherwise unable, one should recite instead."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "aśaktau",
+     "gloss": "in-inability",
+     "grounds": "condition preventing prescribed oblation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "uktahomasya",
+     "gloss": "of-prescribed-oblation",
+     "grounds": "the oblation previously enjoined",
+     "morph": "m.gen.sg (ukta+homa)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "substitute practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a specific adjustment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaḥ",
+     "gloss": "double",
+     "grounds": "increased quantity of recitation",
+     "morph": "m.nom.sg (dvi+guṇa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "How much recitation replaces an oblation that cannot be performed?",
+   "premises": [
+    "A prescribed oblation may be impossible to perform.",
+    "Recitation can substitute for oblation.",
+    "The substitute recitation must be doubled."
+   ],
+   "inference": "When unable to perform the prescribed oblation, one should perform double the recitation.",
+   "uncertainties": [],
+   "plain_english": "If one is unable to perform the prescribed oblation, the recitation should be done twice as much."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "refers to recitation and oblation practices",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "aṣṭasahasrāṇi",
+     "gloss": "eight-thousand",
+     "grounds": "specified numerical count",
+     "morph": "n.nom.pl (aṣṭa+sahasra)"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "the prescribed quantity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "stated",
+     "grounds": "declared in the teaching",
+     "morph": "f.nom.sg (past.part, √vac)"
+    },
+    {
+     "surface": "japahomayoḥ",
+     "gloss": "for-recitation-and-oblation",
+     "grounds": "the two ritual acts governed by this number",
+     "morph": "m.loc.dual (japa+homa)"
+    }
+   ],
+   "question": "What numerical count is prescribed for recitation and oblation practices?",
+   "premises": [
+    "Recitation and oblation require a specified number.",
+    "The teaching states a definite count.",
+    "That count is eight thousand."
+   ],
+   "inference": "The prescribed number for recitation and oblation is eight thousand.",
+   "uncertainties": [],
+   "plain_english": "For recitation and oblation, the prescribed number is stated to be eight thousand."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "namo'ntena",
+     "gloss": "ending-with-namas",
+     "grounds": "specifies the mantra ending for salutation",
+     "morph": "m.inst.sg (namas+anta)"
+    },
+    {
+     "surface": "namaskāram",
+     "gloss": "salutation",
+     "grounds": "act of reverential greeting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcanañca",
+     "gloss": "and-worship",
+     "grounds": "ritual worship performed together with salutation",
+     "morph": "n.acc.sg (arcana+ca)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (sam+ā+√car)"
+    }
+   ],
+   "question": "How should salutation and worship be performed with respect to mantra endings?",
+   "premises": [
+    "Salutation and worship are ritual acts to be performed.",
+    "The mantra form affects how they are done.",
+    "They should be performed with a mantra ending in namas."
+   ],
+   "inference": "One should perform salutation and worship using a mantra ending with namas.",
+   "uncertainties": [],
+   "plain_english": "One should perform salutation and worship with a mantra ending in namas."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "quantity for recitation or oblation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "noktā",
+     "gloss": "not-stated",
+     "grounds": "absence of an explicit prescription",
+     "morph": "f.nom.sg (na+ukta)"
+    },
+    {
+     "surface": "jape",
+     "gloss": "in-recitation",
+     "grounds": "context where number may be unspecified",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-oblation",
+     "grounds": "context where number may be unspecified",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottarasahasrakam",
+     "gloss": "thousand-and-eight",
+     "grounds": "default number to be used",
+     "morph": "n.nom.sg (aṣṭa+uttara+sahasraka)"
+    }
+   ],
+   "question": "What default count applies when recitation or oblation numbers are unspecified?",
+   "premises": [
+    "Recitation and oblation sometimes lack a stated number.",
+    "A default count is needed in such cases.",
+    "The default is one thousand and eight."
+   ],
+   "inference": "When no number is stated for recitation or oblation, one thousand and eight should be used.",
+   "uncertainties": [],
+   "plain_english": "If no number is stated for recitation or oblation, the count should be one thousand and eight."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "prārabdhavyāni",
+     "gloss": "to-be-begun",
+     "grounds": "ritual acts that must be initiated",
+     "morph": "n.nom.pl (gerundive, pra+ā+√rabh)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃprocyate",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement of the rule",
+     "morph": "3.sg.pres.pass (sam+pra+√vac)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker declaring the procedure",
+     "morph": "1.sg.inst"
+    }
+   ],
+   "question": "Under what authority and manner should ritual undertakings be commenced?",
+   "premises": [
+    "Ritual undertakings must be begun properly.",
+    "They should follow a prescribed rule.",
+    "The speaker declares that rule."
+   ],
+   "inference": "Ritual undertakings should be begun according to the rule declared by the speaker.",
+   "uncertainties": [],
+   "plain_english": "These undertakings should be begun according to rule, and that rule is declared by me."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "budhejyavārasaṃyuktā",
+     "gloss": "joined-with-wednesday-thursday",
+     "grounds": "specifies auspicious weekdays",
+     "morph": "f.nom.sg (budha+ijya+vāra+saṃyukta)"
+    },
+    {
+     "surface": "śāntikarmaṇi",
+     "gloss": "in-peace-rite",
+     "grounds": "ritual aimed at pacification",
+     "morph": "n.loc.sg (śānti+karman)"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "honored",
+     "grounds": "commended as suitable",
+     "morph": "f.nom.sg (past.part, √pūj)"
+    }
+   ],
+   "question": "Which weekdays are commended for performing a rite of pacification?",
+   "premises": [
+    "Peace rites require suitable timing.",
+    "Weekdays can be specified for ritual suitability.",
+    "Wednesday and Thursday are joined as suitable."
+   ],
+   "inference": "A day joined with Wednesday and Thursday is honored for a peace rite.",
+   "uncertainties": [
+    "The exact calendrical interpretation of being joined with both weekdays is compressed."
+   ],
+   "plain_english": "For a peace rite, a time joined with Wednesday and Thursday is commended."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "saptamī",
+     "gloss": "seventh-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pauṣṭike",
+     "gloss": "in-prosperity-rite",
+     "grounds": "ritual aimed at nourishment or prosperity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śastā",
+     "gloss": "commended",
+     "grounds": "declared auspicious",
+     "morph": "f.nom.sg (past.part, √śaṃs)"
+    },
+    {
+     "surface": "aṣṭamī",
+     "gloss": "eighth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends commendation to other days",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar days are commended for performing a prosperity rite?",
+   "premises": [
+    "Prosperity rites require auspicious lunar days.",
+    "The seventh day is commended.",
+    "The eighth and ninth days are likewise commended."
+   ],
+   "inference": "The seventh, eighth, and ninth lunar days are commended for a prosperity rite.",
+   "uncertainties": [],
+   "plain_english": "For a prosperity rite, the seventh day is commended, and likewise the eighth and ninth."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "ākarṣaṇe",
+     "gloss": "in-attraction-rite",
+     "grounds": "ritual aimed at attraction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "marks specification for this rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amāvāsyā",
+     "gloss": "new-moon-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratipat",
+     "gloss": "first-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends suitability to listed days",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar days are suitable for performing an attraction rite?",
+   "premises": [
+    "Attraction rites require specific lunar timing.",
+    "The new-moon day is suitable.",
+    "The ninth and first days are likewise suitable."
+   ],
+   "inference": "The new-moon day, ninth day, and first day are suitable for an attraction rite.",
+   "uncertainties": [],
+   "plain_english": "For an attraction rite, the new-moon day, the ninth, and the first day are likewise suitable."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "kārṣṇī",
+     "gloss": "of-dark-fortnight",
+     "grounds": "specifies the dark half of the lunar month",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturdaśī",
+     "gloss": "fourteenth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "similarly",
+     "grounds": "indicates comparable suitability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamī",
+     "gloss": "eighth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mandatārakā",
+     "gloss": "with-slow-planet",
+     "grounds": "astrological condition involving a slow-moving planet",
+     "morph": "f.nom.sg (manda+tāraka)"
+    }
+   ],
+   "question": "Which dark-fortnight days are indicated under a slow-planet condition?",
+   "premises": [
+    "Certain lunar days in the dark fortnight are specified.",
+    "The fourteenth day is included.",
+    "The eighth day is similarly included when associated with a slow planet."
+   ],
+   "inference": "The dark-fortnight fourteenth and eighth days are indicated, the latter with a slow planet.",
+   "uncertainties": [
+    "The precise ritual application and which planet is meant by mandatārakā are not explicit."
+   ],
+   "plain_english": "The fourteenth day of the dark fortnight, and similarly the eighth when associated with a slow planet, are indicated."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "caturdaśī",
+     "gloss": "fourteenth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭamī",
+     "gloss": "eighth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "dark-fortnight",
+     "grounds": "specifies the dark half of the month",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "amāvasyā",
+     "gloss": "new-moon-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "extends the listing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which days of the dark fortnight are further specified for ritual timing?",
+   "premises": [
+    "Ritual timing can be specified by lunar days.",
+    "The fourteenth and eighth days are named.",
+    "The dark new-moon day is likewise included."
+   ],
+   "inference": "The fourteenth, eighth, and new-moon day of the dark fortnight are specified.",
+   "uncertainties": [],
+   "plain_english": "The fourteenth, the eighth of the dark fortnight, and likewise the new-moon day are specified."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "budhacandradinopetā",
+     "gloss": "joined-with-wednesday-monday",
+     "grounds": "specifies weekdays associated with Mercury and Moon",
+     "morph": "f.nom.sg (budha+candra+dina+upeta)"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśamī",
+     "gloss": "tenth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends suitability to listed days",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar days joined with Mercury and Moon weekdays are specified?",
+   "premises": [
+    "Lunar days can be combined with weekday conditions.",
+    "Wednesday and Monday are indicated.",
+    "The fifth and tenth days are likewise specified."
+   ],
+   "inference": "The fifth and tenth days joined with Wednesday and Monday are specified.",
+   "uncertainties": [],
+   "plain_english": "The fifth and tenth days, when joined with Wednesday and Monday, are likewise specified."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "śubhagrahodaye",
+     "gloss": "at-auspicious-planet-rise",
+     "grounds": "astrological timing condition",
+     "morph": "m.loc.sg (śubha+graha+udaya)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "aśubhāni",
+     "gloss": "inauspicious-acts",
+     "grounds": "ritual acts of harmful intent",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aśubhodaye",
+     "gloss": "at-inauspicious-rise",
+     "grounds": "astrological timing condition",
+     "morph": "m.loc.sg (aśubha+udaya)"
+    }
+   ],
+   "question": "Under what planetary risings should inauspicious ritual acts be performed?",
+   "premises": [
+    "Ritual timing depends on planetary risings.",
+    "Inauspicious acts are the subject of timing.",
+    "Both auspicious and inauspicious risings are mentioned as conditions."
+   ],
+   "inference": "Inauspicious acts should be performed at the rising of an auspicious planet or at an inauspicious rising.",
+   "uncertainties": [
+    "The pairing of aśubhāni with śubhagrahodaye is counterintuitive and may reflect a specific ritual doctrine."
+   ],
+   "plain_english": "One should perform inauspicious acts at the rising of an auspicious planet or at an inauspicious rising."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "sūryodayaṃ",
+     "gloss": "sunrise",
+     "grounds": "starting point of the time division",
+     "morph": "m.acc.sg (sūrya+udaya)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun-from",
+     "grounds": "marks the starting point",
+     "morph": "(gerund, sam+ā+√rabh)"
+    },
+    {
+     "surface": "ghaṭikādaśakaṃ",
+     "gloss": "ten-ghaṭikās",
+     "grounds": "time period of ten ghaṭikās",
+     "morph": "n.acc.sg (ghaṭikā+daśaka)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "indicates ordered progression",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time division begins at sunrise and proceeds in sequence?",
+   "premises": [
+    "Ritual timing can be measured from sunrise.",
+    "A period of ten ghaṭikās is specified.",
+    "The division proceeds in sequence."
+   ],
+   "inference": "Beginning from sunrise, a sequence of ten ghaṭikās is to be taken in order.",
+   "uncertainties": [],
+   "plain_english": "Beginning from sunrise, one should take ten ghaṭikās in sequence."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "vasanta",
+     "gloss": "spring",
+     "grounds": "name of a season",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grīṣma",
+     "gloss": "summer",
+     "grounds": "name of a season",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṣā",
+     "gloss": "rainy-season",
+     "grounds": "name of a season",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākhyā",
+     "gloss": "named",
+     "grounds": "indicates designation of seasons",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śarat",
+     "gloss": "autumn",
+     "grounds": "name of a season",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hemanta",
+     "gloss": "early-winter",
+     "grounds": "name of a season",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaiśirāḥ",
+     "gloss": "late-winter",
+     "grounds": "name of a season",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which six seasons are named in the prescribed ritual sequence?",
+   "premises": [
+    "Ritual timing can be related to seasons.",
+    "A set of seasons is enumerated.",
+    "The list includes spring through late winter."
+   ],
+   "inference": "The named seasons are spring, summer, rainy season, autumn, early winter, and late winter.",
+   "uncertainties": [],
+   "plain_english": "The seasons named are spring, summer, the rainy season, autumn, early winter, and late winter."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "śiśiraḥ",
+     "gloss": "late-winter",
+     "grounds": "season assigned to a ritual purpose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stambhane",
+     "gloss": "in-immobilization",
+     "grounds": "ritual act of stopping or paralyzing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "prescriptive identification",
+     "morph": "m.nom.sg (gerundive, √jñā)"
+    },
+    {
+     "surface": "vidveṣe",
+     "gloss": "in-hostility-rite",
+     "grounds": "ritual act of causing enmity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "grīṣmaḥ",
+     "gloss": "summer",
+     "grounds": "season assigned to a ritual purpose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg (past.part, √īr)"
+    }
+   ],
+   "question": "Which seasons are assigned to immobilization and hostility rites respectively?",
+   "premises": [
+    "Ritual acts are correlated with seasons.",
+    "Immobilization requires a specific season.",
+    "Hostility requires a different specific season."
+   ],
+   "inference": "Late winter is to be known for immobilization, and summer is declared for hostility.",
+   "uncertainties": [],
+   "plain_english": "Late winter is to be known for immobilization, and summer is declared for hostility."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "saṃlikhet",
+     "gloss": "should-inscribe",
+     "grounds": "prescribed act of writing or drawing",
+     "morph": "3.sg.opt.act (sam+√likh)"
+    },
+    {
+     "surface": "stambhanaṃ",
+     "gloss": "immobilization",
+     "grounds": "ritual purpose or formula to be inscribed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "object on which inscription is made",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haryakṣe",
+     "gloss": "on-haryakṣa",
+     "grounds": "specific location or substrate named haryakṣa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛścikodaye",
+     "gloss": "at-scorpio-rise",
+     "grounds": "astrological timing condition",
+     "morph": "m.loc.sg (vṛścika+udaya)"
+    }
+   ],
+   "question": "Where and when should an immobilization inscription be made?",
+   "premises": [
+    "Immobilization can be effected through inscription.",
+    "The inscription has specified locations.",
+    "The timing is at the rising of Scorpio."
+   ],
+   "inference": "One should inscribe immobilization in a pot on haryakṣa at the rising of Scorpio.",
+   "uncertainties": [
+    "The meaning of haryakṣe as a location or material is unclear."
+   ],
+   "plain_english": "One should inscribe the immobilization rite in a pot on haryakṣa at the rising of Scorpio."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "meṣa",
+     "gloss": "aries",
+     "grounds": "zodiacal sign",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kanyā",
+     "gloss": "virgo",
+     "grounds": "zodiacal sign",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "sagittarius",
+     "grounds": "zodiacal sign",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mīne",
+     "gloss": "pisces",
+     "grounds": "zodiacal sign",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaśya",
+     "gloss": "subjugation",
+     "grounds": "ritual aim of bringing under control",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "pacification",
+     "grounds": "ritual aim of calming",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pauṣṭikam",
+     "gloss": "prosperity",
+     "grounds": "ritual aim of nourishment and growth",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which zodiacal signs are associated with subjugation, pacification, and prosperity rites?",
+   "premises": [
+    "Certain ritual aims are linked to zodiacal signs.",
+    "Aries, Virgo, Sagittarius, and Pisces are listed.",
+    "Subjugation, pacification, and prosperity are the associated aims."
+   ],
+   "inference": "In Aries, Virgo, Sagittarius, and Pisces, subjugation, pacification, and prosperity rites are indicated.",
+   "uncertainties": [
+    "The verse is elliptical and does not explicitly state the verb linking signs to rites."
+   ],
+   "plain_english": "In Aries, Virgo, Sagittarius, and Pisces, subjugation, pacification, and prosperity rites are performed."
+  }
+ ]
+}

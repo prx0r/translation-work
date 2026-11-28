@@ -1,0 +1,215 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1307,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pointing to the triad named next",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "collective set of three; refers to the threefold practice/meditation set in context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāmyam",
+     "gloss": "desire-based",
+     "grounds": "done for a desired fruit; qualifies the triad as kāmya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of triad is being designated here as the object in view?",
+   "premises": [
+    "This points to a specified triad.",
+    "The triad is described as desire-based.",
+    "The designation frames how that triad is to be treated."
+   ],
+   "inference": "The verse labels that triad as kāmya, marking it as undertaken for a desired end.",
+   "uncertainties": [
+    "Which exact three items constitute the triad is determined by immediate context."
+   ],
+   "plain_english": "This triad is desire-based."
+  },
+  {
+   "verse": 1308,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "injunctive/optative instruction to perform meditation on the stated form",
+     "morph": "3.sg.optative-root-dhyā"
+    }
+   ],
+   "question": "What meditative action is enjoined upon the practitioner in this instruction?",
+   "premises": [
+    "A verbal injunction directs meditation.",
+    "The object of meditation is supplied by the surrounding description.",
+    "The form is to be held in contemplative focus."
+   ],
+   "inference": "One should meditate on the specified terrifying/flowing-blood visage described in the verse sequence.",
+   "uncertainties": [
+    "The full visual details are carried by the compound in the next token/verse context."
+   ],
+   "plain_english": "One should meditate (on that form)."
+  },
+  {
+   "verse": 1309,
+   "rows": [
+    {
+     "surface": "sṛk+dvaya+galat+rakta+dhārā+visphurita+ānanām",
+     "gloss": "two-corners-flowing-blood-stream-flashing-face",
+     "grounds": "fused descriptive compound (as given) qualifying the meditated form: face flashing, with streams of blood flowing from the two corners; internal sandhi noted in form, row not split",
+     "morph": "compound=feminine-accusative-qualifier"
+    }
+   ],
+   "question": "What terrifying facial form is specified as the object of meditation in this description?",
+   "premises": [
+    "The compound describes a face with blood streams flowing from both corners.",
+    "The face is said to be flashing or radiant in that state.",
+    "This qualifies the deity/form to be meditated upon."
+   ],
+   "inference": "Meditation is directed to a face from whose two corners flow blood streams and which appears flashing.",
+   "uncertainties": [
+    "Exact mythic identification of the form depends on broader ritual context."
+   ],
+   "plain_english": "with a face flashing, blood streams flowing from both corners of the mouth."
+  },
+  {
+   "verse": 1310,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "anaphoric adverb referring back to the prescribed meditation/form just stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "gerundive action completed before the next rite",
+     "morph": "gerund-root-dhyā"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "by-mental",
+     "grounds": "instrumental means: offerings made in the mind",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund indicating worship performed after meditation",
+     "morph": "gerund-root-pūj"
+    },
+    {
+     "surface": "arghya+sthāpanaṃ",
+     "gloss": "arghya-placement",
+     "grounds": "compound action/object: placing/setting down arghya (as given, fused form)",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative injunction to perform the stated act",
+     "morph": "3.sg.optative-root-kṛ"
+    }
+   ],
+   "question": "What sequence of mental worship and rite is prescribed immediately after that meditation?",
+   "premises": [
+    "After meditating thus, one performs mental worship.",
+    "Having worshipped, one should carry out arghya placement.",
+    "The instruction is given as an optative injunction."
+   ],
+   "inference": "Thus having meditated and worshipped with mental offerings, one should perform the placing of arghya.",
+   "uncertainties": [
+    "The exact ritual details of arghya placement depend on the manual’s procedure."
+   ],
+   "plain_english": "Thus having meditated, having worshipped with mental offerings, one should perform the placing of arghya."
+  },
+  {
+   "verse": 1311,
+   "rows": [
+    {
+     "surface": "pīṭha+pūjām",
+     "gloss": "seat-worship",
+     "grounds": "compound object: worship of the seat/pīṭha (as given, fused form)",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "ārabhet",
+     "gloss": "should-begin",
+     "grounds": "optative injunction to commence the stated worship",
+     "morph": "3.sg.optative-root-ṛbh"
+    }
+   ],
+   "question": "What worship is to be begun after the arghya placement in this procedure?",
+   "premises": [
+    "The procedure moves to the next rite.",
+    "That rite is named as worship of the seat.",
+    "An injunction directs beginning it."
+   ],
+   "inference": "One should begin the worship of the seat (pīṭha-pūjā).",
+   "uncertainties": [
+    "The full components of pīṭha-pūjā are specified in surrounding verses."
+   ],
+   "plain_english": "One should begin the worship of the seat."
+  },
+  {
+   "verse": 1312,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating placement at the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive/affirming particle marking this step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaindavaṃ",
+     "gloss": "bindu-circle",
+     "grounds": "relating to bindu/vaindu; names the central circle/marking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "a circular diagram/arrangement placed at the center",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bīja+māyā+vibhūṣitam",
+     "gloss": "seed-illusion-adorned",
+     "grounds": "compound qualifier: adorned with seed and with māyā (as given, fused form)",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing marker indicating the statement ends here",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What central circular form is to be placed and how is it described in this step?",
+   "premises": [
+    "In the middle, a bindu-related circle is placed.",
+    "That circle is called a cakra.",
+    "It is described as adorned with seed and with māyā."
+   ],
+   "inference": "In the middle one places a bindu circle, a cakra adorned with seed and māyā; thus the instruction is stated.",
+   "uncertainties": [
+    "The specific bīja and the sense of māyā here depend on ritual notation in context."
+   ],
+   "plain_english": "In the middle, indeed, place a bindu circle, a cakra adorned with seed and māyā—thus."
+  }
+ ]
+}

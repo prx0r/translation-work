@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "oṃkārādyā",
+     "gloss": "beginning-with-om-syllable",
+     "grounds": "bahuvrīhi compound describing the series as starting from oṃkāra",
+     "morph": "oṃkāra+ādi, f.nom.pl"
+    },
+    {
+     "surface": "akārāntās",
+     "gloss": "ending-with-a-syllable",
+     "grounds": "bahuvrīhi compound describing the series as terminating with akāra",
+     "morph": "akāra+anta, f.nom.pl"
+    },
+    {
+     "surface": "tyaktaṣaṇḍanavasvarāḥ",
+     "gloss": "having-abandoned-nine-impure-vowels",
+     "grounds": "bahuvrīhi compound indicating exclusion of nine vowels classified as ṣaṇḍa",
+     "morph": "tyakta+ṣaṇḍa+nava+svara, f.nom.pl"
+    }
+   ],
+   "question": "Which mātṛkā syllables define the sequence contemplated in this arrangement?",
+   "premises": [
+    "The sequence begins with the syllable oṃkāra.",
+    "The sequence ends with the syllable akāra.",
+    "Nine vowels classified as ṣaṇḍa are excluded from the sequence."
+   ],
+   "inference": "The contemplated mātṛkā sequence runs from oṃkāra to akāra while omitting the nine ṣaṇḍa vowels.",
+   "uncertainties": [
+    "The specific identity of the nine vowels designated as ṣaṇḍa is not explicit in this verse."
+   ],
+   "plain_english": "The syllables begin with oṃkāra and end with akāra, with the nine impure vowels left out."
+  }
+ ]
+}

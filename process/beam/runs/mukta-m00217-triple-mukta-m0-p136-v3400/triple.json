@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "sarvamadhye",
+     "gloss": "in-all-middle",
+     "grounds": "compound sarva-madhye, location in the center of all",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-thoroughly-worshipped",
+     "grounds": "absolutive of sam-abhi-√arc, prior worship action",
+     "morph": "(gerund), sam-abhi-√arc"
+    },
+    {
+     "surface": "vāmadakṣāgrakoṇataḥ",
+     "gloss": "from-left-right-front-corners",
+     "grounds": "compound vāma-dakṣa-agra-koṇa with -tas, directional source",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "Where must worship proceed after honoring the central presence?",
+   "premises": [
+    "Worship is performed in the very center of all.",
+    "After central worship, further worship continues outward.",
+    "The next locations are the front corners on left and right."
+   ],
+   "inference": "Therefore, after worshipping at the center, the practitioner must worship from the front left and right corners.",
+   "uncertainties": [
+    "The exact referent of the central presence depends on the preceding ritual context."
+   ],
+   "plain_english": "Having worshipped thoroughly in the very middle, one should then worship from the front corners on the left and right."
+  }
+ ]
+}

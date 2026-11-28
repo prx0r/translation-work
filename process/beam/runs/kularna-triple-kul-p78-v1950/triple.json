@@ -1,0 +1,57 @@
+{
+ "song": "kul-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ, having done",
+     "morph": "indecl."
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "acts",
+     "grounds": "accusative plural neuter of karman",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ, should do",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vīravandite",
+     "gloss": "o-hero-honored-one",
+     "grounds": "vocative singular feminine address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What conduct does the verse prescribe after acts?",
+   "premises": [
+    "having done acts one should not do otherwise",
+    "vira-vandite is addressed directly",
+    "the verse gives a rule of conduct"
+   ],
+   "inference": "After performing acts, one should not act otherwise, O hero-honored one.",
+   "uncertainties": [
+    "exact vocative sense of vīravandite is uncertain"
+   ],
+   "plain_english": "Having done acts, one should not do otherwise, O hero-honored one."
+  }
+ ]
+}

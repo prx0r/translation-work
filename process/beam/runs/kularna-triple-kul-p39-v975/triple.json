@@ -1,0 +1,57 @@
+{
+ "song": "kul-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "yadbhavet",
+     "gloss": "whatever-may-be",
+     "grounds": "relative pronoun yad plus bhavet (may be)",
+     "morph": "rel.pron+verb 3.sg.act-opt-bhū"
+    },
+    {
+     "surface": "sumahat",
+     "gloss": "very-great",
+     "grounds": "intensified adjective modifying puṇyaṃ",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "neuter noun, object of bhavet",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tasyānto",
+     "gloss": "its-end",
+     "grounds": "fused sandhi tasya antaḥ, not split",
+     "morph": "pron.gen.sg.m+noun.nom.sg.m"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with emphatic eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "counted",
+     "grounds": "passive present of gaṇ",
+     "morph": "verb 3.sg.pass-pres-gaṇ"
+    }
+   ],
+   "question": "Is the end of even very great merit counted?",
+   "premises": [
+    "Very great merit has no counted end.",
+    "Merit's limit is not reckoned."
+   ],
+   "inference": "Even immense merit is reckoned as without end.",
+   "uncertainties": [
+    "sandhi fusion tasyānto is analyzed as fused, not split",
+    "case of puṇyaṃ is ambiguous between nominative and accusative"
+   ],
+   "plain_english": "Whatever very great merit there may be, its end is not counted."
+  }
+ ]
+}

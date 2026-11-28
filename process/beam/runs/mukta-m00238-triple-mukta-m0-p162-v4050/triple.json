@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4050,
+   "rows": [
+    {
+     "surface": "kaṃkālabhairavaṃ",
+     "gloss": "kaṃkālabhairava",
+     "grounds": "compound name in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃtraṃ",
+     "gloss": "tantra",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kālāgnyākhyaṃ",
+     "gloss": "called-kālāgni",
+     "grounds": "compound adjective in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavam",
+     "gloss": "bhairava",
+     "grounds": "masculine accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which tantras are named after kaṃkālabhairava and kālāgni?",
+   "premises": [
+    "kaṃkālabhairava tantra is named",
+    "kālāgni-named bhairava tantra follows",
+    "ca connects the two tantra names"
+   ],
+   "inference": "The verse lists two bhairava tantras.",
+   "uncertainties": [
+    "exact sandhi and compound boundaries uncertain"
+   ],
+   "plain_english": "The kaṃkālabhairava tantra and the kālāgni-named bhairava tantra."
+  }
+ ]
+}

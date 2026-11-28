@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p322",
+ "items": [
+  {
+   "verse": 8050,
+   "rows": [
+    {
+     "surface": "muni",
+     "gloss": "sage",
+     "grounds": "first member of compound denoting sages and others",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "second member of compound indicating inclusion of others",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devata",
+     "gloss": "deity",
+     "grounds": "final member of compound denoting deities as proclaimers",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "remnant",
+     "grounds": "first member of compound naming the form of Gaṇanātha",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇanāthaḥ",
+     "gloss": "lord-of-gaṇas",
+     "grounds": "name of the deity identified in the verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "predicate declaring the identification",
+     "morph": "m.nom.sg.ppp.pra-√kīrt"
+    }
+   ],
+   "question": "By which authorities is this form identified as Ucchiṣṭa Gaṇanātha?",
+   "premises": [
+    "Sages and other deities serve as proclaiming authorities.",
+    "The named form is Ucchiṣṭa Gaṇanātha.",
+    "The verse states this identification as proclaimed."
+   ],
+   "inference": "Therefore, sages and other deities proclaim this form to be Ucchiṣṭa Gaṇanātha.",
+   "uncertainties": [
+    "The exact scope of 'ādi' among the proclaiming deities is not specified."
+   ],
+   "plain_english": "Sages and other deities proclaim him to be Ucchiṣṭa Gaṇanātha."
+  }
+ ]
+}

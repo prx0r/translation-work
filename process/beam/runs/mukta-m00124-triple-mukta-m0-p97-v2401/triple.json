@@ -1,0 +1,1147 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2401,
+   "rows": [
+    {
+     "surface": "arkaḥ",
+     "gloss": "sun-plant",
+     "grounds": "name of a tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārpāsakaḥ",
+     "gloss": "cotton-tree",
+     "grounds": "name of a tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍete",
+     "gloss": "these-six",
+     "grounds": "ṣaṣ + ete",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhanāśanāḥ",
+     "gloss": "house-destroyers",
+     "grounds": "gṛha + nāśana",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which six kinds of trees are considered destructive to a house?",
+   "premises": [
+    "The sun-plant is listed among harmful trees.",
+    "The cotton-tree is listed among harmful trees.",
+    "These six are called house-destroyers."
+   ],
+   "inference": "The sun-plant and cotton-tree belong to a group of six trees that destroy houses.",
+   "uncertainties": [
+    "The other four trees of the six are not named in this verse."
+   ],
+   "plain_english": "The sun-plant, the cotton-tree, and these six are destroyers of houses."
+  },
+  {
+   "verse": 2402,
+   "rows": [
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "location of planting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīyāḥ",
+     "gloss": "to-be-grown",
+     "grounds": "from vṛdh",
+     "morph": "m.nom.pl.future-passive-participle"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "they-should-be",
+     "grounds": "from as",
+     "morph": "3.pl.optative-active + as"
+    },
+    {
+     "surface": "grāmādau",
+     "gloss": "in-village-and-such",
+     "grounds": "grāma + ādi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śubhadāḥ",
+     "gloss": "auspicious-givers",
+     "grounds": "śubha + da",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "from man",
+     "morph": "m.nom.pl.past-passive-participle + man"
+    }
+   ],
+   "question": "Where should house-destroying trees be avoided and where are they considered auspicious?",
+   "premises": [
+    "Such trees should not be grown in a house.",
+    "In a village and similar places they are considered auspicious givers.",
+    "The evaluation depends on location."
+   ],
+   "inference": "Trees harmful to houses must be excluded from homes but may be beneficial in villages.",
+   "uncertainties": [],
+   "plain_english": "They should not be grown in a house, but in a village and such places they are considered auspicious."
+  },
+  {
+   "verse": 2403,
+   "rows": [
+    {
+     "surface": "vyaya",
+     "gloss": "expenditure",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "excessive",
+     "grounds": "qualifies expenditure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "house",
+     "grounds": "subject of evaluation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśobhanam",
+     "gloss": "inauspicious",
+     "grounds": "negative quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence makes a house inauspicious according to this rule?",
+   "premises": [
+    "Excessive expenditure is indicated.",
+    "This leads to a resulting condition.",
+    "The house becomes inauspicious."
+   ],
+   "inference": "A house associated with excessive expenditure is deemed inauspicious.",
+   "uncertainties": [
+    "The exact cause of excessive expenditure is not specified."
+   ],
+   "plain_english": "Therefore, when expenditure is excessive, the house becomes inauspicious."
+  },
+  {
+   "verse": 2404,
+   "rows": [
+    {
+     "surface": "dvāre",
+     "gloss": "at-door",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "pillar-foot",
+     "grounds": "structural element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "from iṣ",
+     "morph": "n.nom.sg.past-passive-participle + iṣ"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "from as",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "udak",
+     "gloss": "water-side",
+     "grounds": "directional element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pratyakchiraḥ",
+     "gloss": "west-facing-head",
+     "grounds": "pratyak + śiras",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "from bhū",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "What placement rules govern a pillar at the door and the orientation of the water side?",
+   "premises": [
+    "A pillar-foot at the door is not desired.",
+    "The water side should have its head facing west.",
+    "Both are prescriptive architectural rules."
+   ],
+   "inference": "Door construction must avoid a pillar at the doorway and orient the water side westward.",
+   "uncertainties": [
+    "The precise architectural meaning of udak pratyakchiraḥ is context-dependent."
+   ],
+   "plain_english": "A pillar at the door is not desirable, and the water side should face west."
+  },
+  {
+   "verse": 2405,
+   "rows": [
+    {
+     "surface": "anuvaṃśagṛhadvāraṃ",
+     "gloss": "along-beam-house-door",
+     "grounds": "anuvaṃśa + gṛha + dvāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "na + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-made",
+     "grounds": "from kṛ",
+     "morph": "n.nom.sg.future-passive-participle + kṛ"
+    },
+    {
+     "surface": "śubhārthibhiḥ",
+     "gloss": "by-auspicious-seekers",
+     "grounds": "śubha + arthin",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What kind of house door must those seeking auspiciousness never construct?",
+   "premises": [
+    "A door aligned along the beam is specified.",
+    "It must not be made at all.",
+    "This prohibition applies to seekers of auspiciousness."
+   ],
+   "inference": "Those seeking auspiciousness must avoid constructing a house door aligned along the beam.",
+   "uncertainties": [
+    "The exact structural sense of anuvaṃśa is technical."
+   ],
+   "plain_english": "Those who seek auspiciousness should never make a house door aligned along the beam."
+  },
+  {
+   "verse": 2406,
+   "rows": [
+    {
+     "surface": "dve dve",
+     "gloss": "two-and-two",
+     "grounds": "reduplicated numeral",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "vāruṇayāmye",
+     "gloss": "in-west-and-south",
+     "grounds": "vāruṇa + yāmya",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "śāle",
+     "gloss": "halls",
+     "grounds": "rooms or halls",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "kārye",
+     "gloss": "to-be-made",
+     "grounds": "from kṛ",
+     "morph": "f.nom.du.future-passive-participle + kṛ"
+    },
+    {
+     "surface": "tvatandritaḥ",
+     "gloss": "diligently",
+     "grounds": "a + tandrita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many halls should be made in the western and southern directions and with what attitude?",
+   "premises": [
+    "Two halls are prescribed in the western and southern directions.",
+    "These halls must be made.",
+    "The work should be done diligently."
+   ],
+   "inference": "One should diligently construct two halls each in the west and south.",
+   "uncertainties": [],
+   "plain_english": "Two halls each should be made in the west and south, and this should be done diligently."
+  },
+  {
+   "verse": 2407,
+   "rows": [
+    {
+     "surface": "dvijagehasya",
+     "gloss": "of-twice-born-house",
+     "grounds": "dvija + geha",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vaṃśaṃ",
+     "gloss": "main-beam",
+     "grounds": "structural beam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvāgraṃ",
+     "gloss": "east-fronted",
+     "grounds": "pūrva + agra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "from pari-kḷp",
+     "morph": "3.sg.optative-active + pari-kḷp"
+    }
+   ],
+   "question": "How should the main beam be oriented in the house of a twice-born person?",
+   "premises": [
+    "The rule concerns the house of a twice-born person.",
+    "The main beam is the element to be arranged.",
+    "Its front should be oriented eastward."
+   ],
+   "inference": "In a twice-born person's house, the main beam should be arranged facing east.",
+   "uncertainties": [],
+   "plain_english": "In the house of a twice-born person, one should arrange the main beam with its front facing east."
+  },
+  {
+   "verse": 2408,
+   "rows": [
+    {
+     "surface": "śūdrāṇām",
+     "gloss": "of-śūdras",
+     "grounds": "social group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uttarasyāṃ",
+     "gloss": "in-north",
+     "grounds": "direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "from as",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṃśāgrakaḥ",
+     "gloss": "beam-front",
+     "grounds": "vaṃśa + agraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescription",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What orientation rule applies to the beam front in houses of śūdras?",
+   "premises": [
+    "The rule concerns śūdras.",
+    "The beam front is specified.",
+    "It should be in the north."
+   ],
+   "inference": "For śūdras, the prescribed rule is that the beam front should face north.",
+   "uncertainties": [],
+   "plain_english": "For śūdras, this is the rule: the front of the beam should be in the north."
+  },
+  {
+   "verse": 2409,
+   "rows": [
+    {
+     "surface": "śūdrāṇām",
+     "gloss": "of-śūdras",
+     "grounds": "social group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "anyajātīnām",
+     "gloss": "of-other-groups",
+     "grounds": "anya + jāti",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ayugmastambhaḥ",
+     "gloss": "odd-numbered-pillars",
+     "grounds": "ayugma + stambha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "from iṣ",
+     "morph": "3.sg.present-passive + iṣ"
+    }
+   ],
+   "question": "What number of pillars is prescribed for śūdras and other groups?",
+   "premises": [
+    "The rule applies to śūdras and other groups.",
+    "An odd number of pillars is specified.",
+    "This arrangement is desired."
+   ],
+   "inference": "Śūdras and other groups should have an odd number of pillars.",
+   "uncertainties": [
+    "The scope of other groups is not fully specified."
+   ],
+   "plain_english": "For śūdras and other groups, an odd number of pillars is desired."
+  },
+  {
+   "verse": 2410,
+   "rows": [
+    {
+     "surface": "silindhraḥ",
+     "gloss": "silindhra-tree",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "piśitaṃ",
+     "gloss": "flesh-tree",
+     "grounds": "tree name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhūkaḥ",
+     "gloss": "madhūka-tree",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiśyapādapaḥ",
+     "gloss": "vaiśya-tree",
+     "grounds": "vaiśya + pādapa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which trees are designated as suitable for vaiśyas in this construction context?",
+   "premises": [
+    "Silindhra is listed.",
+    "Piśita and madhūka are listed.",
+    "These are called trees for vaiśyas."
+   ],
+   "inference": "Silindhra, piśita, and madhūka are the trees designated for vaiśyas.",
+   "uncertainties": [],
+   "plain_english": "Silindhra, piśita, and madhūka are the trees for vaiśyas."
+  },
+  {
+   "verse": 2411,
+   "rows": [
+    {
+     "surface": "śūdrāṇām",
+     "gloss": "of-śūdras",
+     "grounds": "social group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "stambhayogyaṃ",
+     "gloss": "suitable-for-pillars",
+     "grounds": "stambha + yogya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "from as",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "tvaksārāḥ",
+     "gloss": "bark-essence-trees",
+     "grounds": "tvac + sāra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvayogyakāḥ",
+     "gloss": "suitable-for-all",
+     "grounds": "sarva + yogya + ka",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which types of wood are suitable for śūdra pillars and which are suitable for all?",
+   "premises": [
+    "Certain wood is suitable for pillars of śūdras.",
+    "Trees with bark essence are mentioned.",
+    "Bark-essence trees are suitable for all."
+   ],
+   "inference": "Bark-essence trees are suitable for all, including for pillars used by śūdras.",
+   "uncertainties": [
+    "The exact referent of stambhayogyaṃ syāt is slightly compressed."
+   ],
+   "plain_english": "For śūdras it should be suitable for pillars, and trees with bark essence are suitable for all."
+  },
+  {
+   "verse": 2412,
+   "rows": [
+    {
+     "surface": "pādavyāsaḥ",
+     "gloss": "pillar-width",
+     "grounds": "pāda + vyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "from pra-vac",
+     "morph": "m.nom.sg.past-passive-participle + pra-vac"
+    },
+    {
+     "surface": "gehavyāsakarāt",
+     "gloss": "from-house-width-measure",
+     "grounds": "geha + vyāsa + kara",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what measure is the width of a pillar said to be determined?",
+   "premises": [
+    "The width of a pillar is declared.",
+    "It is derived from the measure of the house width.",
+    "An alternative is indicated by or."
+   ],
+   "inference": "Pillar width is determined from the house width or by an alternative measure.",
+   "uncertainties": [
+    "The alternative measure is not explicitly stated in this verse."
+   ],
+   "plain_english": "The width of a pillar is declared to be derived from the width of the house, or otherwise."
+  },
+  {
+   "verse": 2413,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gehānām",
+     "gloss": "of-houses",
+     "grounds": "buildings",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "stambhavistāraḥ",
+     "gloss": "pillar-breadth",
+     "grounds": "stambha + vistāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "from iṣ",
+     "morph": "3.sg.present-passive + iṣ"
+    }
+   ],
+   "question": "To which houses does the prescribed rule for pillar breadth apply?",
+   "premises": [
+    "The rule concerns pillar breadth.",
+    "It applies to houses.",
+    "It applies to all houses."
+   ],
+   "inference": "The desired pillar breadth rule applies universally to all houses.",
+   "uncertainties": [],
+   "plain_english": "The breadth of pillars is desired for all houses as well."
+  },
+  {
+   "verse": 2414,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaiśyagehaṃ",
+     "gloss": "vaiśya-house",
+     "grounds": "vaiśya + geha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "from as",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūdrajātaye",
+     "gloss": "for-śūdra-group",
+     "grounds": "śūdra + jāti",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Where should the houses of vaiśyas and śūdras be situated according to direction?",
+   "premises": [
+    "The vaiśya house is placed in the south.",
+    "A placement in the west is for the śūdra group.",
+    "Directional assignment is prescriptive."
+   ],
+   "inference": "Vaiśya houses should be in the south and śūdra houses in the west.",
+   "uncertainties": [],
+   "plain_english": "The house of a vaiśya should be in the south, and for the śūdra group it should be in the west."
+  },
+  {
+   "verse": 2415,
+   "rows": [
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "refers to prior placement",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āśritya",
+     "gloss": "resorting-to",
+     "grounds": "from ā-śri",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulyābhaṃ",
+     "gloss": "stream-like",
+     "grounds": "kulyā + ābha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvāradvayam",
+     "gloss": "pair-of-doors",
+     "grounds": "dvāra + dvaya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iheṣyate",
+     "gloss": "is-desired-here",
+     "grounds": "iha + iṣyate",
+     "morph": "3.sg.present-passive + iṣ"
+    }
+   ],
+   "question": "What kind of double door arrangement is desired when following that placement?",
+   "premises": [
+    "The prior placement is taken as the basis.",
+    "A pair of doors is prescribed.",
+    "The arrangement should be stream-like."
+   ],
+   "inference": "Based on that placement, a stream-like pair of doors is desired.",
+   "uncertainties": [
+    "The architectural meaning of kulyābhaṃ is not fully explicit."
+   ],
+   "plain_english": "Taking that as the basis, a stream-like pair of doors is desired here."
+  },
+  {
+   "verse": 2416,
+   "rows": [
+    {
+     "surface": "devatāsthāpanaṃ",
+     "gloss": "deity-installation",
+     "grounds": "devatā + sthāpana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "pedestal",
+     "grounds": "ritual or structural base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śālāsu",
+     "gloss": "in-halls",
+     "grounds": "location",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "from vi-dhā",
+     "morph": "3.sg.present-passive + vi-dhā"
+    }
+   ],
+   "question": "Is the installation of a deity pedestal prescribed within halls?",
+   "premises": [
+    "Deity installation and a pedestal are mentioned.",
+    "The location considered is halls.",
+    "Such installation is not prescribed there."
+   ],
+   "inference": "Installing a deity pedestal in halls is not prescribed.",
+   "uncertainties": [
+    "The exact sense of piṇḍaṃ in this architectural context may vary."
+   ],
+   "plain_english": "The installation of a deity pedestal is not prescribed in halls."
+  },
+  {
+   "verse": 2417,
+   "rows": [
+    {
+     "surface": "anyāgārādiṣu",
+     "gloss": "in-other-buildings-and-such",
+     "grounds": "anya + āgāra + ādi",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dvau dvau",
+     "gloss": "two-and-two",
+     "grounds": "reduplicated numeral",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "they-may-be",
+     "grounds": "from as",
+     "morph": "3.pl.optative-active + as"
+    },
+    {
+     "surface": "yathecchayā",
+     "gloss": "as-desired",
+     "grounds": "yathā + icchā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How many elements may be placed in other buildings according to preference?",
+   "premises": [
+    "The rule applies to other buildings and such places.",
+    "Two and two or five are allowed.",
+    "The choice may follow desire."
+   ],
+   "inference": "In other buildings, one may have two pairs or five, as desired.",
+   "uncertainties": [
+    "The specific elements being counted are not named in this verse."
+   ],
+   "plain_english": "In other buildings and such places, there may be two and two or five, as desired."
+  },
+  {
+   "verse": 2418,
+   "rows": [
+    {
+     "surface": "tricūlī",
+     "gloss": "three-peaked",
+     "grounds": "tri + cūlī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiśyaśūdrāṇām",
+     "gloss": "of-vaiśyas-and-śūdras",
+     "grounds": "vaiśya + śūdra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahībhṛtām",
+     "gloss": "of-kings",
+     "grounds": "mahī + bhṛt",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How many peaks are prescribed for vaiśyas, śūdras, and kings respectively?",
+   "premises": [
+    "Three peaks are associated with vaiśyas and śūdras.",
+    "Five and seven are mentioned.",
+    "Kings are assigned a different number."
+   ],
+   "inference": "Vaiśyas and śūdras have three peaks, while kings have five or seven.",
+   "uncertainties": [
+    "The exact distribution of five and seven for kings is compressed."
+   ],
+   "plain_english": "Vaiśyas and śūdras should have three peaks, and kings five or seven."
+  },
+  {
+   "verse": 2419,
+   "rows": [
+    {
+     "surface": "pāṣaṇḍāśramiṇām",
+     "gloss": "of-heretics-and-ascetics",
+     "grounds": "pāṣaṇḍa + āśramin",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yugmasaṃkhyā",
+     "gloss": "even-number",
+     "grounds": "yugma + saṃkhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cūlī",
+     "gloss": "peak",
+     "grounds": "roof peak",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "from vi-dhā",
+     "morph": "3.sg.present-passive + vi-dhā"
+    }
+   ],
+   "question": "What number of peaks is prescribed for heretics and ascetics?",
+   "premises": [
+    "The rule concerns heretics and ascetics.",
+    "The number of peaks is specified.",
+    "An even number is prescribed."
+   ],
+   "inference": "Heretics and ascetics should have an even number of peaks.",
+   "uncertainties": [],
+   "plain_english": "For heretics and ascetics, an even number of peaks is prescribed."
+  },
+  {
+   "verse": 2420,
+   "rows": [
+    {
+     "surface": "tṛṇādyaiḥ",
+     "gloss": "with-grass-and-such",
+     "grounds": "tṛṇa + ādi",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mṛṇmayācchādyaṃ",
+     "gloss": "clay-structure-to-be-covered",
+     "grounds": "mṛṇmaya + ācchādya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "loṣṭācchādyaṃ",
+     "gloss": "to-be-covered-with-clods",
+     "grounds": "loṣṭa + ācchādya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛṇmayam",
+     "gloss": "clay-structure",
+     "grounds": "made of clay",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What covering materials are prescribed for clay structures in this rule?",
+   "premises": [
+    "Grass and similar materials are used for covering.",
+    "A clay structure may be covered with clods.",
+    "Different coverings apply to clay structures."
+   ],
+   "inference": "Clay structures should be covered with grass and such materials or with clods.",
+   "uncertainties": [
+    "The syntactic pairing of coverings is somewhat compressed."
+   ],
+   "plain_english": "A clay structure should be covered with grass and such materials, and a clay structure may be covered with clods."
+  },
+  {
+   "verse": 2421,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānaṃ",
+     "gloss": "foundation",
+     "grounds": "base of structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmyādi",
+     "gloss": "beginning-with-south",
+     "grounds": "yāmya + ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturgṛhavidhau",
+     "gloss": "in-four-house-rule",
+     "grounds": "catur + gṛha + vidhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "from bhū",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "Where should the foundation begin in the rule for four houses?",
+   "premises": [
+    "The foundation is the subject.",
+    "The context is the rule for four houses.",
+    "It should begin from the south and so on."
+   ],
+   "inference": "In the four-house arrangement, the foundation should begin from the south.",
+   "uncertainties": [
+    "The full sequence implied by ādi is not specified."
+   ],
+   "plain_english": "In the rule for four houses, the foundation should begin from the south and so forth."
+  },
+  {
+   "verse": 2422,
+   "rows": [
+    {
+     "surface": "unnatiḥ",
+     "gloss": "elevation",
+     "grounds": "raised level",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "external position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "from jñā",
+     "morph": "f.nom.sg.future-passive-participle + jñā"
+    },
+    {
+     "surface": "dvārasya",
+     "gloss": "of-door",
+     "grounds": "related to door",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ripuvardhanī",
+     "gloss": "enemy-increasing",
+     "grounds": "ripu + vardhana",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What effect is attributed to an outward elevation at the door?",
+   "premises": [
+    "An elevation outside the door is considered.",
+    "It is to be known by a specific effect.",
+    "That effect is the increase of enemies."
+   ],
+   "inference": "An outward elevation at the door is considered to increase enemies.",
+   "uncertainties": [],
+   "plain_english": "An elevation outside the door should be known as increasing enemies."
+  },
+  {
+   "verse": 2423,
+   "rows": [
+    {
+     "surface": "māhendraṃ",
+     "gloss": "māhendra-direction",
+     "grounds": "directional designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūbhujāṃ",
+     "gloss": "of-kings",
+     "grounds": "bhū + bhuj",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "from vid",
+     "morph": "3.sg.optative-active + vid"
+    },
+    {
+     "surface": "vaṇijām",
+     "gloss": "of-merchants",
+     "grounds": "trading class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rākṣasam",
+     "gloss": "rākṣasa-direction",
+     "grounds": "directional designation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which directional associations are assigned to kings and merchants?",
+   "premises": [
+    "The māhendra direction is associated with kings.",
+    "The rākṣasa direction is associated with merchants.",
+    "These associations are to be known."
+   ],
+   "inference": "Kings are associated with the māhendra direction and merchants with the rākṣasa direction.",
+   "uncertainties": [],
+   "plain_english": "One should know the māhendra direction for kings and the rākṣasa direction for merchants."
+  },
+  {
+   "verse": 2424,
+   "rows": [
+    {
+     "surface": "taddigīśān",
+     "gloss": "lords-of-those-directions",
+     "grounds": "tad + diś + īśa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samāśritya",
+     "gloss": "resorting-to",
+     "grounds": "from sam-ā-śri",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "entrance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhivad",
+     "gloss": "according-to-rule",
+     "grounds": "vidhi + vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-make",
+     "grounds": "from ā-car",
+     "morph": "3.sg.optative-active + ā-car"
+    }
+   ],
+   "question": "How should a door be placed in relation to the lords of those directions?",
+   "premises": [
+    "The lords of those directions are to be taken as reference.",
+    "The door is the element to be arranged.",
+    "The action must follow the prescribed rule."
+   ],
+   "inference": "One should place the door according to rule by resorting to the lords of those directions.",
+   "uncertainties": [],
+   "plain_english": "Resorting to the lords of those directions, one should make the door according to rule."
+  }
+ ]
+}

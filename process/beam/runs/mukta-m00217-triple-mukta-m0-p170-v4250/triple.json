@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4250,
+   "rows": [
+    {
+     "surface": "pūrṇendusadṛśaḥ",
+     "gloss": "full-moon-like",
+     "grounds": "compound pūrṇa-indu-sadṛśa; describes the perceived form as resembling the full moon",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "kāntyā",
+     "gloss": "in-radiance",
+     "grounds": "specifies the respect in which the form is like the full moon",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "gamane",
+     "gloss": "in-movement",
+     "grounds": "specifies the respect in which the form is like a bird",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vihagopamaḥ",
+     "gloss": "bird-like",
+     "grounds": "compound vihaga-upama; describes the perceived form as resembling a bird in motion",
+     "morph": "compound, m.nom.sg"
+    }
+   ],
+   "question": "How is the visionary form characterized in radiance and movement?",
+   "premises": [
+    "The form is likened to the full moon in radiance.",
+    "The form is likened to a bird in movement.",
+    "Both comparisons describe the same perceived appearance."
+   ],
+   "inference": "The visionary perceives a form that is luminous like the full moon and swift or graceful like a bird in motion.",
+   "uncertainties": [
+    "The subject of these descriptions is carried over from the preceding verse's perceiver."
+   ],
+   "plain_english": "In radiance it is like the full moon, and in movement it is like a bird."
+  }
+ ]
+}

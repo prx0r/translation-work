@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "tāmraiḥ",
+     "gloss": "with-copper",
+     "grounds": "instrumental of material; yantra fashioned from copper",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "racitam",
+     "gloss": "fashioned",
+     "grounds": "past passive participle describing the yantra",
+     "morph": "ppp.n.nom.sg (√rac)"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "yantra",
+     "grounds": "ritual diagram or instrument",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying aiśvarya",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aiśvarya",
+     "gloss": "sovereignty",
+     "grounds": "second member of compound denoting lordly power",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradam",
+     "gloss": "bestowing",
+     "grounds": "agentive adjective describing the yantra's effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past passive participle expressing traditional view",
+     "morph": "ppp.n.nom.sg (√man)"
+    }
+   ],
+   "question": "What power is attributed to a yantra fashioned from copper?",
+   "premises": [
+    "A yantra may be fashioned from specific materials.",
+    "This yantra is fashioned from copper.",
+    "Material composition determines the yantra's attributed effect."
+   ],
+   "inference": "Therefore, a yantra fashioned from copper is considered to bestow all sovereignty.",
+   "uncertainties": [],
+   "plain_english": "A yantra made of copper is considered to bestow all sovereignty."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "sarvamadhye",
+     "gloss": "in-middle-of-all",
+     "grounds": "compound sarva+madhya with locative sense; not split",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devyarccanācca",
+     "gloss": "by-goddess-worship-and",
+     "grounds": "fused devyā arcanāt ca; worship of the goddess",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "proktaphalasiddhiriti",
+     "gloss": "declared-fruit-accomplishment-thus",
+     "grounds": "prokta-phala-siddhiḥ iti; stated result",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What fruit is accomplished through goddess worship performed in the middle of all?",
+   "premises": [
+    "Goddess worship is performed in all-middle.",
+    "Declared fruit is accomplished thereby.",
+    "Thus states the verse."
+   ],
+   "inference": "Worship of the goddess in the midst of all yields the declared fruit.",
+   "uncertainties": [
+    "Exact sandhi expansion of devyarccanācca is kept fused in one row."
+   ],
+   "plain_english": "In the middle of all, by worship of the goddess, the declared fruit is accomplished."
+  }
+ ]
+}

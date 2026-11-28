@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2925,
+   "rows": [
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ninth; modifies lakṣmībījaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "lakṣmībījaṃ",
+     "gloss": "lakshmi-seed",
+     "grounds": "Lakshmi seed; object of the enumerated list",
+     "morph": "noun.acc.sg.n; compound=lakṣmī+bīja"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvalakṣmīprabodhanam",
+     "gloss": "all-lakshmi-awakening",
+     "grounds": "awakening all Lakshmi; descriptive of the seed",
+     "morph": "noun.acc.sg.n; compound=sarva+lakṣmī+prabodhana"
+    }
+   ],
+   "question": "What is the ninth seed and what does it awaken?",
+   "premises": [
+    "ninth seed is Lakshmi seed",
+    "Lakshmi seed awakens all Lakshmi",
+    "tu marks emphasis"
+   ],
+   "inference": "The ninth seed is the Lakshmi seed, which awakens all Lakshmi.",
+   "uncertainties": [
+    "the surrounding seed-list context is not supplied",
+    "whether Lakshmi denotes deity or prosperity is not specified"
+   ],
+   "plain_english": "The ninth seed is the Lakshmi seed, which awakens all Lakshmi."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "dhvastadurvāsanaṃ",
+     "gloss": "destroyed-bad-vasana",
+     "grounds": "fused compound modifying dhūpam; dhvasta (destroyed) + durvāsana (bad vasana)",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "adjective modifying dhūpam",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhūpam",
+     "gloss": "incense",
+     "grounds": "accusative object of unmīlayāmi",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "unmīlayāmyaham",
+     "gloss": "I-open",
+     "grounds": "sandhi fusion of unmīlayāmi + aham; first-person singular active present",
+     "morph": "verb.1.sg.act-pres (root unmīl) + pronoun.nom.sg.1"
+    }
+   ],
+   "question": "What declaration accompanies the offering of divine incense?",
+   "premises": [
+    "Incense is divine.",
+    "It destroys bad vasana.",
+    "Practitioner opens it."
+   ],
+   "inference": "The offering declares purification of latent tendencies through divine incense.",
+   "uncertainties": [
+    "durvāsana sense uncertain",
+    "gender of dhūpa uncertain"
+   ],
+   "plain_english": "I open divine incense that destroys bad latent tendencies."
+  }
+ ]
+}

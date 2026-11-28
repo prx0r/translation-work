@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "eka+viṃśā",
+     "gloss": "twenty-one-syllabled",
+     "grounds": "compound adjective qualifying mahā+vidyā; indicates a mantra of twenty-one syllables",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound noun denoting a supreme mantra or sacred knowledge",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "praṇava+ādyā",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound adjective indicating that the mantra begins with the syllable praṇava (oṃ)",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "mahā+īśvarī",
+     "gloss": "great-goddess",
+     "grounds": "compound noun identifying the great knowledge with the supreme goddess",
+     "morph": "compound; f.nom.sg"
+    }
+   ],
+   "question": "What form of great knowledge is identified as the twenty-one-syllabled great goddess beginning with praṇava?",
+   "premises": [
+    "A great knowledge is described as twenty-one-syllabled.",
+    "This great knowledge begins with praṇava.",
+    "This great knowledge is identified as the great goddess."
+   ],
+   "inference": "The twenty-one-syllabled great knowledge beginning with praṇava is the great goddess.",
+   "uncertainties": [
+    "The specific mantra corresponding to this twenty-one-syllabled form is not named in this verse."
+   ],
+   "plain_english": "The great knowledge of twenty-one syllables, beginning with praṇava, is the great goddess."
+  }
+ ]
+}

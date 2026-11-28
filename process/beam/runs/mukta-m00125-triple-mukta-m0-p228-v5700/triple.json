@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p228",
+ "items": [
+  {
+   "verse": 5700,
+   "rows": [
+    {
+     "surface": "kuṃbhādbījaṃ",
+     "gloss": "from-pot-seed",
+     "grounds": "sandhi fusion of kuṃbhāt and bījam; seed taken from the pot",
+     "morph": "compound"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(indecl.) gerund sam-ā-dā"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "refers to the deity",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of placement",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "injunctive or optative prescribing ritual action",
+     "morph": "3.sg.opt.act vi-ni-as"
+    }
+   ],
+   "question": "What placement is prescribed for the seed taken from the pot in relation to the deity?",
+   "premises": [
+    "The seed is taken from the pot.",
+    "The deity possesses a heart as locus.",
+    "Ritual procedure prescribes placing the seed."
+   ],
+   "inference": "The practitioner should place the seed taken from the pot in the heart of the deity.",
+   "uncertainties": [
+    "Whether hṛdi refers to a physical image's heart or a visualized locus is not explicit."
+   ],
+   "plain_english": "Having taken the seed from the pot, one should place it in the heart of the deity."
+  }
+ ]
+}

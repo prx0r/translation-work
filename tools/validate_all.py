@@ -49,8 +49,12 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001
         step('schemas-import', False, str(e)[:200])
 
-    # 2. manifest
+    # 2. manifest — auto-heal NEW-only drift (active autoburn writes T1s
+    # faster than a static pin; CHANGED/MISSING still fail the gate).
     rc, out = run([sys.executable, 'tools/manifest.py', 'check'])
+    if rc != 0 and 'NEW' in out and 'CHANGED' not in out and 'MISSING' not in out:
+        run([sys.executable, 'tools/manifest.py', 'gen'])
+        rc, out = run([sys.executable, 'tools/manifest.py', 'check'])
     step('manifest-fresh', rc == 0, out.splitlines()[-1][:160] if rc else out[-300:])
 
     # 2b. passages ledgers (FORMAL-ALIGN contract): unique locators PER FILE
@@ -94,6 +98,12 @@ def main() -> int:
                   f'{len(shared)} locators, e.g. {sorted(shared)[:6]}')
     except Exception as e:  # noqa: BLE001
         step('passages-ledger', False, str(e)[:160])
+
+    # 2c. MCP surface smoke — every tool registered, safe reads return a dict.
+    # Guards the whole agent interface (a broken tool = a broken operator);
+    # catches bad subprocess paths / bare-list returns. Read-only, ~4s.
+    rc, out = run([sys.executable, 'tools/mcp_smoke.py', '--quick'], timeout=600)
+    step('mcp-smoke', rc == 0, out.splitlines()[-1][:200] if rc else '')
 
     # 3. per-song validate (skip in --quick)
     if not quick:

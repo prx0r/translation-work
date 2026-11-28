@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p161",
+ "items": [
+  {
+   "verse": 4025,
+   "rows": [
+    {
+     "surface": "havanād",
+     "gloss": "from-offering",
+     "grounds": "ablative of havana, the ritual offering",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vairiṇo",
+     "gloss": "of-enemy",
+     "grounds": "genitive singular of vairin",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dāhajvara",
+     "gloss": "burning-fever",
+     "grounds": "compound of dāha (burning) and jvara (fever)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāptiḥ",
+     "gloss": "attainment",
+     "grounds": "nominative singular of prāpti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tribhir",
+     "gloss": "by-three",
+     "grounds": "instrumental plural of tri",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "dinaiḥ",
+     "gloss": "days",
+     "grounds": "instrumental plural of dina",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What affliction befalls the enemy after the offering within three days?",
+   "premises": [
+    "offering causes enemy's burning fever",
+    "fever is attained within three days",
+    "three days measure the result"
+   ],
+   "inference": "The offering produces the enemy's burning fever within three days.",
+   "uncertainties": [
+    "dāhajvara may denote feverish burning rather than literal fire"
+   ],
+   "plain_english": "From the offering, the enemy attains a burning fever within three days."
+  }
+ ]
+}

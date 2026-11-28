@@ -1,0 +1,51 @@
+{
+ "song": "sva-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "ityādirūpaḥ",
+     "gloss": "thus-beginning-form",
+     "grounds": "compound of ityādi and rūpaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puruṣākṛtīni",
+     "gloss": "man-shapes",
+     "grounds": "plural accusative of puruṣākṛti",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable adversative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyoktiḥ",
+     "gloss": "general-statement",
+     "grounds": "nominative singular of sāmānyokti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What general statement about man-shapes is introduced here?",
+   "premises": [
+    "The verse names man-shapes.",
+    "It calls the statement general.",
+    "It marks a contrast with but."
+   ],
+   "inference": "The verse presents a general statement about man-shaped forms.",
+   "uncertainties": [
+    "Exact syntactic role of ityādirūpaḥ is not fully resolved."
+   ],
+   "plain_english": "Thus-beginning form: man-shapes; but this is a general statement."
+  }
+ ]
+}

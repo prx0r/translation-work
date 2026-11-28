@@ -1,0 +1,505 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 4988,
+   "rows": [
+    {
+     "surface": "aṣṭanetrāyatā",
+     "gloss": "eight-eye-length",
+     "grounds": "compound of eight, eye, and length",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "grīvā",
+     "gloss": "neck",
+     "grounds": "neck measurement",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "kakuddairghyaṃ",
+     "gloss": "hump-height",
+     "grounds": "compound of hump and height",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "triṇetrataḥ",
+     "gloss": "three-eye-measure",
+     "grounds": "from three eyes",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the neck's eight-eye length related to the hump's three-eye height?",
+   "premises": [
+    "neck length equals eight eye-units",
+    "hump height equals three eye-units"
+   ],
+   "inference": "the neck is longer than the hump by five eye-units",
+   "uncertainties": [
+    "exact eye-unit definition not stated"
+   ],
+   "plain_english": "The neck is eight eye-units long, while the hump height is three eye-units."
+  },
+  {
+   "verse": 4989,
+   "rows": [
+    {
+     "surface": "kakudaḥ",
+     "gloss": "hump",
+     "grounds": "hump measurement",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "below the hump",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭanetraḥ",
+     "gloss": "eight-eye",
+     "grounds": "eight eye-units",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jaṅghā",
+     "gloss": "shank",
+     "grounds": "shank measurement",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "pañcadṛgāyatā",
+     "gloss": "five-eye-length",
+     "grounds": "compound of five, eye, and length",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "How do the hump's lower eight-eye measure and the shank's five-eye length compare?",
+   "premises": [
+    "below the hump measures eight eye-units",
+    "shank length measures five eye-units"
+   ],
+   "inference": "the lower hump measure exceeds the shank length by three eye-units",
+   "uncertainties": [
+    "spatial relation of below-hump measure is not fully explicit"
+   ],
+   "plain_english": "Below the hump is eight eye-units, while the shank is five eye-units long."
+  },
+  {
+   "verse": 4990,
+   "rows": [
+    {
+     "surface": "sārdhanetraṃ",
+     "gloss": "one-and-half-eye",
+     "grounds": "compound of half and eye",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gulpha",
+     "gloss": "ankle",
+     "grounds": "ankle measurement",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "dvinetrau",
+     "gloss": "two-eye-pair",
+     "grounds": "compound of two and eye",
+     "morph": "adj.nom.du.m"
+    },
+    {
+     "surface": "khurakau",
+     "gloss": "hoof-pair",
+     "grounds": "pair of hooves",
+     "morph": "noun.nom.du.m"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetitive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What measurements are given for the ankle and the hoof pair?",
+   "premises": [
+    "ankle measure is one and a half eye-units",
+    "hoof pair measure is two eye-units"
+   ],
+   "inference": "the hoof pair exceeds the ankle measure by half an eye-unit",
+   "uncertainties": [
+    "exact anatomical scope of ankle measure is not stated"
+   ],
+   "plain_english": "The ankle is one and a half eye-units, and the hoof pair is two eye-units."
+  },
+  {
+   "verse": 4991,
+   "rows": [
+    {
+     "surface": "jaṅghāmūlāvṛtiḥ",
+     "gloss": "shank-base-circumference",
+     "grounds": "compound of shank, base, and circumference",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "saptadaśamātrā",
+     "gloss": "seventeen-units",
+     "grounds": "compound of seventeen and unit",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle of declare",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What is the declared circumference at the base of the shank?",
+   "premises": [
+    "shank-base circumference is declared",
+    "its measure is seventeen units"
+   ],
+   "inference": "the base of the shank has a circumference of seventeen units",
+   "uncertainties": [
+    "unit type is not specified beyond mātrā"
+   ],
+   "plain_english": "The circumference at the base of the shank is declared to be seventeen units."
+  },
+  {
+   "verse": 4992,
+   "rows": [
+    {
+     "surface": "mūlāgre",
+     "gloss": "base-tip",
+     "grounds": "compound of base and tip",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "upajaṅghāyāḥ",
+     "gloss": "lower-shank",
+     "grounds": "compound of lower and shank",
+     "morph": "noun.gen.sg.f"
+    },
+    {
+     "surface": "veṣṭanaṃ",
+     "gloss": "wrapping",
+     "grounds": "wrapping measure",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle of declare",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What wrapping measure is declared at the base and tip of the lower shank?",
+   "premises": [
+    "wrapping is declared",
+    "it concerns base and tip of lower shank"
+   ],
+   "inference": "a wrapping measure is specified for the lower shank's base and tip",
+   "uncertainties": [
+    "numerical value is not given in this verse"
+   ],
+   "plain_english": "A wrapping measure is declared at the base and tip of the lower shank."
+  },
+  {
+   "verse": 4993,
+   "rows": [
+    {
+     "surface": "kakudaḥ",
+     "gloss": "hump",
+     "grounds": "hump measurement",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "pṛṣṭhamānaṃ",
+     "gloss": "back-measure",
+     "grounds": "compound of back and measure",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṭtriṃśanmānam",
+     "gloss": "thirty-six-units",
+     "grounds": "compound of thirty-six and measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "stated",
+     "grounds": "past participle of state",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What back measure is stated for the hump?",
+   "premises": [
+    "hump back measure is stated",
+    "its value is thirty-six units"
+   ],
+   "inference": "the hump's back measure is thirty-six units",
+   "uncertainties": [
+    "unit type is not specified beyond māna"
+   ],
+   "plain_english": "The hump's back measure is stated to be thirty-six units."
+  },
+  {
+   "verse": 4994,
+   "rows": [
+    {
+     "surface": "trikaṭānatimānaṃ",
+     "gloss": "three-hump-bend-measure",
+     "grounds": "compound of three, hump, bend, and measure",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvādaśāṅgulam",
+     "gloss": "twelve-fingers",
+     "grounds": "compound of twelve and finger",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "stated",
+     "grounds": "past participle of state",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What measure is stated for the three-hump bend?",
+   "premises": [
+    "three-hump bend measure is stated",
+    "its value is twelve fingers"
+   ],
+   "inference": "the three-hump bend measures twelve fingers",
+   "uncertainties": [
+    "anatomical referent of trikaṭa is not fully explicit"
+   ],
+   "plain_english": "The three-hump bend is stated to measure twelve fingers."
+  },
+  {
+   "verse": 4995,
+   "rows": [
+    {
+     "surface": "pucchamūlaṃ",
+     "gloss": "tail-base",
+     "grounds": "compound of tail and base",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "caturmātraṃ",
+     "gloss": "four-units",
+     "grounds": "compound of four and unit",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "at the tip",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṅgulavinirmitam",
+     "gloss": "finger-made",
+     "grounds": "compound of finger and made",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What measurements are given for the tail base and tip?",
+   "premises": [
+    "tail base measures four units",
+    "tip is made of fingers"
+   ],
+   "inference": "the tail base is four units and the tip is finger-made",
+   "uncertainties": [
+    "number of fingers at tip is not stated"
+   ],
+   "plain_english": "The tail base is four units, and the tip is made of fingers."
+  },
+  {
+   "verse": 4996,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgulapramāṇena",
+     "gloss": "six-finger-measure",
+     "grounds": "compound of six, finger, and measure",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of be",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "keśasantatiḥ",
+     "gloss": "hair-continuity",
+     "grounds": "compound of hair and continuity",
+     "morph": "noun.nom.sg.f"
+    }
+   ],
+   "question": "What measure should the hair continuity have from that point?",
+   "premises": [
+    "hair continuity should be",
+    "its measure is six fingers"
+   ],
+   "inference": "the hair continuity should measure six fingers",
+   "uncertainties": [
+    "reference point of tasmāt is not explicit"
+   ],
+   "plain_english": "From that point, the hair continuity should be six fingers."
+  },
+  {
+   "verse": 4997,
+   "rows": [
+    {
+     "surface": "vistāradehamadhye",
+     "gloss": "breadth-body-middle",
+     "grounds": "compound of breadth, body, and middle",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣoḍaśāṅgulaḥ",
+     "gloss": "sixteen-fingers",
+     "grounds": "compound of sixteen and finger",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive of say",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "What breadth is said for the middle of the body?",
+   "premises": [
+    "body middle breadth is said",
+    "its measure is sixteen fingers"
+   ],
+   "inference": "the middle of the body has a breadth of sixteen fingers",
+   "uncertainties": [
+    "whether breadth means width or girth is not explicit"
+   ],
+   "plain_english": "The middle of the body is said to have a breadth of sixteen fingers."
+  },
+  {
+   "verse": 4998,
+   "rows": [
+    {
+     "surface": "grīvādhastāt",
+     "gloss": "below-neck",
+     "grounds": "compound of neck and below",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturmātraṃ",
+     "gloss": "four-units",
+     "grounds": "compound of four and unit",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sāsnālambaḥ",
+     "gloss": "dewlap-hang",
+     "grounds": "compound of dewlap and hang",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle of declare",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What dewlap hang is declared below the neck?",
+   "premises": [
+    "dewlap hang is declared",
+    "it is below the neck",
+    "its measure is four units"
+   ],
+   "inference": "the dewlap hang below the neck measures four units",
+   "uncertainties": [
+    "unit type is not specified beyond mātra"
+   ],
+   "plain_english": "Below the neck, the dewlap hang is declared to be four units."
+  },
+  {
+   "verse": 4999,
+   "rows": [
+    {
+     "surface": "aśītyaṅgulavistārā",
+     "gloss": "eighty-finger-breadth",
+     "grounds": "compound of eighty, finger, and breadth",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kukṣiḥ",
+     "gloss": "belly",
+     "grounds": "belly measurement",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "nābheḥ",
+     "gloss": "of-navel",
+     "grounds": "genitive of navel",
+     "morph": "noun.gen.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle of declare",
+     "morph": "verb.3.sg.pass-perf"
+    }
+   ],
+   "question": "What belly breadth is declared in relation to the navel?",
+   "premises": [
+    "belly breadth is declared",
+    "its measure is eighty fingers",
+    "it is related to the navel"
+   ],
+   "inference": "the belly breadth is eighty fingers in relation to the navel",
+   "uncertainties": [
+    "exact relation to navel is not fully explicit"
+   ],
+   "plain_english": "The belly breadth is declared to be eighty fingers in relation to the navel."
+  }
+ ]
+}

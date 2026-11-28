@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedite",
+     "gloss": "having-been-divided",
+     "grounds": "describes the field",
+     "morph": "loc.sg.n. ppp (√bhid)"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-the-field",
+     "grounds": "locus of the action",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act (√nyas)"
+    },
+    {
+     "surface": "ubhayapārśvayoḥ",
+     "gloss": "on-both-sides",
+     "grounds": "location of placement",
+     "morph": "loc.du.n. (ubhaya+pārśva)"
+    }
+   ],
+   "question": "Where must placement occur once the field is divided fourfold?",
+   "premises": [
+    "The field has been divided fourfold.",
+    "A placement action is prescribed.",
+    "The placement is specified for both sides."
+   ],
+   "inference": "Therefore, when the field is divided fourfold, one should place on both sides.",
+   "uncertainties": [
+    "The specific object to be placed is not named in this verse."
+   ],
+   "plain_english": "When the field has been divided fourfold, one should place on both sides."
+  }
+ ]
+}

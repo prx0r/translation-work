@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2851,
+   "rows": [
+    {
+     "surface": "gomedaghaṭitaiḥ",
+     "gloss": "with-gomed-made",
+     "grounds": "compound adjective in instrumental plural",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural of puṣpa",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "svarṇapuṣpaiḥ",
+     "gloss": "with-gold-flowers",
+     "grounds": "compound in instrumental plural",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "yajed",
+     "gloss": "should-worship",
+     "grounds": "optative third singular active root yaj",
+     "morph": "v.3.sg.act-opt-yaj"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which flowers should the wise practitioner use to worship?",
+   "premises": [
+    "gomed-made flowers are prescribed",
+    "gold-flowers are prescribed",
+    "worship is performed by the wise"
+   ],
+   "inference": "The wise practitioner worships using gomed-made and gold flowers.",
+   "uncertainties": [
+    "exact ritual context is not specified"
+   ],
+   "plain_english": "The wise one should worship with gomed-made flowers and gold flowers."
+  },
+  {
+   "verse": 2852,
+   "rows": [
+    {
+     "surface": "saptāhād",
+     "gloss": "after-seven-days",
+     "grounds": "ablative singular from saptāha",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "vairiṇo",
+     "gloss": "of-enemy",
+     "grounds": "genitive singular masculine",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subjugated",
+     "grounds": "nominative singular feminine",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ghātaḥ",
+     "gloss": "destruction",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "locative plural masculine",
+     "morph": "pron.loc.pl.m"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "present third singular middle root jan",
+     "morph": "v.3.sg.mid-pres-jan"
+    }
+   ],
+   "question": "What arises among them after seven days regarding the enemy?",
+   "premises": [
+    "seven days have passed",
+    "the enemy becomes subjugated",
+    "destruction arises among them"
+   ],
+   "inference": "After seven days the enemy is subjugated and destruction arises among them.",
+   "uncertainties": [
+    "referent of them is implicit"
+   ],
+   "plain_english": "After seven days the enemy is subjugated and destruction arises among them."
+  },
+  {
+   "verse": 2853,
+   "rows": [
+    {
+     "surface": "svarṇaratnamayaiḥ",
+     "gloss": "with-gold-gem-made",
+     "grounds": "compound adjective in instrumental plural",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural of puṣpa",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "punarnavaiḥ",
+     "gloss": "with-punarnava",
+     "grounds": "instrumental plural of punarnava",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "prapūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "present third singular passive root pūj",
+     "morph": "v.3.sg.pass-pres-pūj"
+    }
+   ],
+   "question": "With what materials is the deity worshipped here?",
+   "premises": [
+    "gold-gem-made flowers are used",
+    "punarnava flowers are used",
+    "worship is performed"
+   ],
+   "inference": "The deity is worshipped with gold-gem-made flowers and punarnava flowers.",
+   "uncertainties": [
+    "exact deity is not named"
+   ],
+   "plain_english": "The deity is worshipped with gold-gem-made flowers and punarnava flowers."
+  },
+  {
+   "verse": 2854,
+   "rows": [
+    {
+     "surface": "kravyādayaḥ",
+     "gloss": "flesh-eaters",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tadvaśyā",
+     "gloss": "their-subjugated",
+     "grounds": "compound adjective nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present third plural active root bhū",
+     "morph": "v.3.pl.act-pres-bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Do the flesh-eaters become subjugated to them without doubt?",
+   "premises": [
+    "flesh-eaters are mentioned",
+    "they become subjugated",
+    "there is no doubt"
+   ],
+   "inference": "The flesh-eaters indeed become subjugated to them without doubt.",
+   "uncertainties": [
+    "antecedent of them is implicit"
+   ],
+   "plain_english": "The flesh-eaters indeed become subjugated to them, without doubt."
+  },
+  {
+   "verse": 2855,
+   "rows": [
+    {
+     "surface": "sacampakādibhiḥ",
+     "gloss": "with-campaka-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "stambhayet",
+     "gloss": "should-stupefy",
+     "grounds": "optative third singular active root stambh",
+     "morph": "v.3.sg.act-opt-stambh"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "ablative singular from kṣaṇa",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What can the wise one instantly stupefy with campaka and similar flowers?",
+   "premises": [
+    "campaka and similar flowers are used",
+    "the wise one acts",
+    "the three worlds are stupefied instantly"
+   ],
+   "inference": "The wise one can instantly stupefy the three worlds with campaka and similar flowers.",
+   "uncertainties": [
+    "exact flower list is abbreviated"
+   ],
+   "plain_english": "With campaka and similar flowers, the wise one can instantly stupefy the three worlds."
+  },
+  {
+   "verse": 2856,
+   "rows": [
+    {
+     "surface": "nirmālyabhūtaiḥ",
+     "gloss": "with-withered-flowers",
+     "grounds": "compound adjective in instrumental plural",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "kusumaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural of kusuma",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "arcitaiḥ",
+     "gloss": "worshipped",
+     "grounds": "past participle instrumental plural",
+     "morph": "part.instr.pl.m"
+    },
+    {
+     "surface": "parameśvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "Which goddess is worshipped with withered and worshipped flowers?",
+   "premises": [
+    "withered flowers are used",
+    "worshipped flowers are used",
+    "the supreme goddess is the object"
+   ],
+   "inference": "The supreme goddess is worshipped with withered and previously worshipped flowers.",
+   "uncertainties": [
+    "ritual purpose is not stated"
+   ],
+   "plain_english": "The supreme goddess is worshipped with withered and already-worshipped flowers."
+  },
+  {
+   "verse": 2857,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munayaḥ",
+     "gloss": "sages",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "pannagāḥ",
+     "gloss": "serpents",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "rākṣasādayaḥ",
+     "gloss": "demons-etc",
+     "grounds": "nominative plural masculine compound",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Who gathers then when this worship is performed?",
+   "premises": [
+    "then is the time",
+    "gods are included",
+    "sages serpents and demons are included"
+   ],
+   "inference": "Then gods, sages, serpents, demons, and others gather.",
+   "uncertainties": [
+    "exact gathering purpose is implicit"
+   ],
+   "plain_english": "Then gods, sages, serpents, demons, and others gather."
+  },
+  {
+   "verse": 2858,
+   "rows": [
+    {
+     "surface": "janmakoṭibhavaṃ",
+     "gloss": "birth-crore-born",
+     "grounds": "compound adjective accusative singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "should-destroy",
+     "grounds": "optative third singular active root naś",
+     "morph": "v.3.sg.act-opt-naś"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What sin is destroyed by this practice without doubt?",
+   "premises": [
+    "sin born across crores of births is meant",
+    "it should be destroyed",
+    "there is no doubt here"
+   ],
+   "inference": "This practice destroys sin accumulated across crores of births, without doubt.",
+   "uncertainties": [
+    "exact practice is implicit from context"
+   ],
+   "plain_english": "This practice destroys sin accumulated across crores of births, without doubt."
+  },
+  {
+   "verse": 2859,
+   "rows": [
+    {
+     "surface": "tadāśvamedhadaśakaphalaṃ",
+     "gloss": "then-horse-sacrifice-ten-fruit",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present third singular active root bhū",
+     "morph": "v.3.sg.act-pres-bhū"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit becomes equal to ten horse sacrifices then?",
+   "premises": [
+    "the fruit is named",
+    "it becomes present",
+    "it is always so"
+   ],
+   "inference": "The fruit then becomes equal to that of ten horse sacrifices, always.",
+   "uncertainties": [
+    "exact fruit is implicit"
+   ],
+   "plain_english": "The fruit then becomes equal to that of ten horse sacrifices, always."
+  },
+  {
+   "verse": 2860,
+   "rows": [
+    {
+     "surface": "pūrvoditasvapuṣpaiḥ",
+     "gloss": "with-previously-said-own-flowers",
+     "grounds": "compound instrumental plural",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "gerundive feminine singular",
+     "morph": "ger.nom.sg.f"
+    },
+    {
+     "surface": "susādhakaiḥ",
+     "gloss": "by-good-practitioners",
+     "grounds": "instrumental plural masculine",
+     "morph": "n.instr.pl.m"
+    }
+   ],
+   "question": "Who should perform worship with the previously mentioned own flowers?",
+   "premises": [
+    "previously mentioned own flowers are used",
+    "worship should be done",
+    "good practitioners are the agents"
+   ],
+   "inference": "Good practitioners should perform worship with the previously mentioned own flowers.",
+   "uncertainties": [
+    "exact flowers are not repeated here"
+   ],
+   "plain_english": "Good practitioners should perform worship with the previously mentioned own flowers."
+  },
+  {
+   "verse": 2861,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "gerundive neuter singular",
+     "morph": "ger.nom.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun nominative singular neuter",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "gerundive neuter singular",
+     "morph": "ger.nom.sg.n"
+    },
+    {
+     "surface": "sukhecchayā",
+     "gloss": "with-pleasant-wish",
+     "grounds": "instrumental singular feminine",
+     "morph": "n.instr.sg.f"
+    }
+   ],
+   "question": "What should be given there with a pleasant wish?",
+   "premises": [
+    "giving is prescribed there",
+    "what is to be given is repeated",
+    "it is done with pleasant wish"
+   ],
+   "inference": "There, whatever should be given is to be given with a pleasant wish.",
+   "uncertainties": [
+    "exact gift is not specified"
+   ],
+   "plain_english": "There, whatever should be given is to be given with a pleasant wish."
+  },
+  {
+   "verse": 2862,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonipuṣpaiḥ",
+     "gloss": "with-yoni-flowers",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "stambhayedbhṛśam",
+     "gloss": "should-stupefy-strongly",
+     "grounds": "optative third singular active root stambh",
+     "morph": "v.3.sg.act-opt-stambh"
+    }
+   ],
+   "question": "What can yoni flowers alone strongly stupefy?",
+   "premises": [
+    "only yoni flowers are used",
+    "the three worlds are the object",
+    "strong stupefaction is prescribed"
+   ],
+   "inference": "Yoni flowers alone can strongly stupefy the three worlds.",
+   "uncertainties": [
+    "exact flower identity is implicit"
+   ],
+   "plain_english": "Yoni flowers alone can strongly stupefy the three worlds."
+  },
+  {
+   "verse": 2863,
+   "rows": [
+    {
+     "surface": "nāśayet",
+     "gloss": "should-destroy",
+     "grounds": "optative third singular active root naś",
+     "morph": "v.3.sg.act-opt-naś"
+    },
+    {
+     "surface": "mohayet",
+     "gloss": "should-delude",
+     "grounds": "optative third singular active root moh",
+     "morph": "v.3.sg.act-opt-moh"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "accusative plural masculine",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "samudravalayāṃ",
+     "gloss": "ocean-girdled",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "dharām",
+     "gloss": "earth",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What can be destroyed and deluded across the ocean-girdled earth?",
+   "premises": [
+    "destruction is prescribed",
+    "delusion is prescribed",
+    "all beings on ocean-girdled earth are affected"
+   ],
+   "inference": "All beings on the ocean-girdled earth can be destroyed and deluded.",
+   "uncertainties": [
+    "agent is implicit"
+   ],
+   "plain_english": "All beings on the ocean-girdled earth can be destroyed and deluded."
+  },
+  {
+   "verse": 2864,
+   "rows": [
+    {
+     "surface": "śuklāmbaradharo",
+     "gloss": "white-garment-wearer",
+     "grounds": "compound nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "wise",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śuklagandhādibhūṣitaḥ",
+     "gloss": "white-perfume-etc-adorned",
+     "grounds": "compound nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How should the wise practitioner be dressed and adorned?",
+   "premises": [
+    "white garment is worn",
+    "wisdom is attributed",
+    "white perfume and adornment are used"
+   ],
+   "inference": "The wise practitioner wears white garments and is adorned with white perfume and similar items.",
+   "uncertainties": [
+    "exact adornment list is abbreviated"
+   ],
+   "plain_english": "The wise practitioner wears white garments and is adorned with white perfume and similar items."
+  },
+  {
+   "verse": 2865,
+   "rows": [
+    {
+     "surface": "śuklago",
+     "gloss": "white-cow",
+     "grounds": "compound nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "brahmacari",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklāsanaparigrahaḥ",
+     "gloss": "white-seat-grasper",
+     "grounds": "compound nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What ascetic and seat conditions accompany the white cow?",
+   "premises": [
+    "white cow is mentioned",
+    "brahmacari status is mentioned",
+    "white seat is grasped"
+   ],
+   "inference": "The practitioner is a brahmacari associated with a white cow and a white seat.",
+   "uncertainties": [
+    "exact ritual role is implicit"
+   ],
+   "plain_english": "The practitioner is a brahmacari associated with a white cow and a white seat."
+  },
+  {
+   "verse": 2866,
+   "rows": [
+    {
+     "surface": "piṣṭakaṃ",
+     "gloss": "cake",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dugdhaṃ",
+     "gloss": "milk",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bahuvidhaṃ",
+     "gloss": "many-kinds",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What foods are offered in many kinds?",
+   "premises": [
+    "cake is offered",
+    "rice pudding milk and food are offered",
+    "many kinds are included"
+   ],
+   "inference": "Cake, rice pudding, milk, food, and many other kinds are offered.",
+   "uncertainties": [
+    "exact offering context is implicit"
+   ],
+   "plain_english": "Cake, rice pudding, milk, food, and many other kinds are offered."
+  },
+  {
+   "verse": 2867,
+   "rows": [
+    {
+     "surface": "kṛtasaṅkalpavīrendraḥ",
+     "gloss": "having-made-resolve-hero-lord",
+     "grounds": "compound nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative third singular active root sādh",
+     "morph": "v.3.sg.act-opt-sādh"
+    },
+    {
+     "surface": "vāgbhavākṣaram",
+     "gloss": "vagbhava-letter",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What should the resolved hero-lord accomplish?",
+   "premises": [
+    "a resolved hero-lord is the agent",
+    "accomplishment is prescribed",
+    "the vagbhava letter is the object"
+   ],
+   "inference": "The resolved hero-lord should accomplish the vagbhava letter.",
+   "uncertainties": [
+    "exact accomplishment method is implicit"
+   ],
+   "plain_english": "The resolved hero-lord should accomplish the vagbhava letter."
+  },
+  {
+   "verse": 2868,
+   "rows": [
+    {
+     "surface": "kūrparadhavalāṃ",
+     "gloss": "elbow-white",
+     "grounds": "compound accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "śubhrapuṣpābharaṇabhūṣitām",
+     "gloss": "white-flower-ornament-adorned",
+     "grounds": "compound accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "How is the goddess described in her adornment?",
+   "premises": [
+    "elbow-white is an attribute",
+    "white-flower ornament adornment is an attribute",
+    "feminine accusative form is used"
+   ],
+   "inference": "The goddess is described as elbow-white and adorned with white-flower ornaments.",
+   "uncertainties": [
+    "exact goddess is implicit"
+   ],
+   "plain_english": "The goddess is described as elbow-white and adorned with white-flower ornaments."
+  },
+  {
+   "verse": 2869,
+   "rows": [
+    {
+     "surface": "muktāphalasamudbhūtajapamālālasatkarām",
+     "gloss": "pearl-born-prayer-bead-shining-hand",
+     "grounds": "compound accusative singular feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What hand ornament is described for the goddess?",
+   "premises": [
+    "pearl-born prayer bead is mentioned",
+    "shining hand is mentioned",
+    "feminine accusative form is used"
+   ],
+   "inference": "The goddess has a hand shining with a pearl-born prayer bead.",
+   "uncertainties": [
+    "exact goddess is implicit"
+   ],
+   "plain_english": "The goddess has a hand shining with a pearl-born prayer bead."
+  },
+  {
+   "verse": 2870,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive from dhyai",
+     "morph": "abs.dhyai"
+    },
+    {
+     "surface": "prapūjyaiva",
+     "gloss": "having-worshipped-indeed",
+     "grounds": "absolutive with emphatic particle",
+     "morph": "abs.pūj"
+    },
+    {
+     "surface": "vāgīśīṃ",
+     "gloss": "speech-goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the best practitioner do after meditating thus?",
+   "premises": [
+    "meditation is performed",
+    "worship is performed",
+    "the speech goddess is the object"
+   ],
+   "inference": "The best practitioner meditates thus and worships the speech goddess.",
+   "uncertainties": [
+    "exact meditation content is implicit"
+   ],
+   "plain_english": "The best practitioner meditates thus and worships the speech goddess."
+  },
+  {
+   "verse": 2871,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jotirmayīṃ",
+     "gloss": "light-filled",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative third singular active root dhyai",
+     "morph": "v.3.sg.act-opt-dhyai"
+    },
+    {
+     "surface": "jihvāgre",
+     "gloss": "tongue-tip",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "amṛtarūpiṇīm",
+     "gloss": "nectar-formed",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where should the light-filled nectar-formed goddess be meditated upon?",
+   "premises": [
+    "therefore introduces meditation",
+    "light-filled nectar-formed goddess is the object",
+    "tongue-tip is the location"
+   ],
+   "inference": "Therefore one should meditate on the light-filled nectar-formed goddess at the tongue-tip.",
+   "uncertainties": [
+    "exact goddess is implicit"
+   ],
+   "plain_english": "Therefore one should meditate on the light-filled nectar-formed goddess at the tongue-tip."
+  },
+  {
+   "verse": 2872,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naṣṭahṛdayo",
+     "gloss": "lost-heart",
+     "grounds": "compound nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "grāmyo",
+     "gloss": "village",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mūrkho",
+     "gloss": "fool",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "atipātakī",
+     "gloss": "great-sinner",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What kinds of persons are described as lost-hearted and foolish?",
+   "premises": [
+    "then is the time",
+    "lost-hearted village fool is described",
+    "great sinner is described"
+   ],
+   "inference": "Then a lost-hearted village fool and great sinner are described.",
+   "uncertainties": [
+    "exact causal relation is implicit"
+   ],
+   "plain_english": "Then a lost-hearted village fool and great sinner are described."
+  },
+  {
+   "verse": 2873,
+   "rows": [
+    {
+     "surface": "jaḍo",
+     "gloss": "dull",
+     "grounds": "nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mūrkho",
+     "gloss": "fool",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "atidurmedhā",
+     "gloss": "very-dull-minded",
+     "grounds": "nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "gataprajño",
+     "gloss": "lost-wisdom",
+     "grounds": "compound nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vinaṣṭadhīḥ",
+     "gloss": "destroyed-intellect",
+     "grounds": "compound nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What negative qualities describe the unqualified person?",
+   "premises": [
+    "dullness is attributed",
+    "foolishness is attributed",
+    "lost wisdom and destroyed intellect are attributed"
+   ],
+   "inference": "The unqualified person is dull, foolish, very dull-minded, wisdom-lost, and intellect-destroyed.",
+   "uncertainties": [
+    "exact subject is implicit"
+   ],
+   "plain_english": "The unqualified person is dull, foolish, very dull-minded, wisdom-lost, and intellect-destroyed."
+  },
+  {
+   "verse": 2874,
+   "rows": [
+    {
+     "surface": "satpaṇḍitaghaṭāṭopajetā",
+     "gloss": "true-scholar-crowd-arrogance-conqueror",
+     "grounds": "compound nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "apratihataprabhaḥ",
+     "gloss": "unobstructed-splendor",
+     "grounds": "compound nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What qualities belong to the accomplished practitioner?",
+   "premises": [
+    "true scholar crowd arrogance conqueror is named",
+    "unobstructed splendor is named",
+    "nominative singular masculine form is used"
+   ],
+   "inference": "The accomplished practitioner conquers the arrogance of true scholars and has unobstructed splendor.",
+   "uncertainties": [
+    "exact practitioner is implicit"
+   ],
+   "plain_english": "The accomplished practitioner conquers the arrogance of true scholars and has unobstructed splendor."
+  }
+ ]
+}

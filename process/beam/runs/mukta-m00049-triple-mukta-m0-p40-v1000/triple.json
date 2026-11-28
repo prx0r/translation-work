@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative form of root hu, prescribing an offering",
+     "morph": "3.sg.act-opt + root hu"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused token joining iti and arthaḥ to state the intended sense",
+     "morph": "(indecl.) compound = iti+arthaḥ"
+    }
+   ],
+   "question": "What ritual action is prescribed by the term juhuyāt in this context?",
+   "premises": [
+    "juhuyāt means one should offer",
+    "iti arthaḥ states the intended meaning"
+   ],
+   "inference": "the verse glosses juhuyāt as an offering injunction",
+   "uncertainties": [
+    "exact ritual object unspecified"
+   ],
+   "plain_english": "One should offer; that is the meaning."
+  }
+ ]
+}

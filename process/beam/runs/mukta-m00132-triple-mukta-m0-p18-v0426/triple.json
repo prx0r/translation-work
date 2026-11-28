@@ -1,0 +1,659 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating that state or place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dasyu+bhayaṃ",
+     "gloss": "bandit-fear",
+     "grounds": "compound denoting fear arising from bandits",
+     "morph": "compound: dasyu+bhaya (n.nom.sg)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negated existential verb",
+     "morph": "3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "graha+rāja+bhayaṃ",
+     "gloss": "planet-king-fear",
+     "grounds": "compound denoting fear from planets and kings",
+     "morph": "compound: graha+rāja+bhaya (n.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific fears are absent in that protected condition?",
+   "premises": [
+    "The verse locates a condition with tatra.",
+    "Fear from bandits does not exist there.",
+    "Fear from planets and kings also does not exist there."
+   ],
+   "inference": "That condition is characterized by the absence of threats from bandits, planets, and kings.",
+   "uncertainties": [
+    "The referent of tatra is not specified within this verse."
+   ],
+   "plain_english": "There, there is no fear of bandits, nor any fear of planets and kings."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parājayam+eṣāṃ",
+     "gloss": "defeat-of-them",
+     "grounds": "compound expressing defeat belonging to them",
+     "morph": "compound: parājaya (m.acc.sg)+eṣām (m.gen.pl)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "object of declaration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mayā+uditam",
+     "gloss": "by-me-declared",
+     "grounds": "compound phrase indicating speaker and past declaration",
+     "morph": "compound: mayā (1.inst.sg)+uditam (n.nom.sg.ppp, √vad)"
+    }
+   ],
+   "question": "What additional threat is explicitly denied by the speaker's declaration?",
+   "premises": [
+    "The speaker addresses the goddess directly.",
+    "The speaker declares something as not a fear.",
+    "The denied fear concerns their defeat."
+   ],
+   "inference": "The speaker asserts that defeat of those beings is not to be feared.",
+   "uncertainties": [
+    "The identity of eṣām is not specified within this verse."
+   ],
+   "plain_english": "Indeed, O goddess, I have declared that their defeat is not a fear."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "negated condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "indefinite locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal qualifier of the following group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vyāghra+ādīnāṃ",
+     "gloss": "tiger-and-others",
+     "grounds": "compound indicating tigers and similar beings",
+     "morph": "compound: vyāghra+ādi (m.gen.pl)"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise-indeed",
+     "grounds": "compound emphatic adverbial phrase extending previous denial",
+     "morph": "compound: tathā (indecl.)+eva (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which dangerous animals is fear said to be absent?",
+   "premises": [
+    "Fear is negated anywhere.",
+    "The negation applies to all tigers and similar beings.",
+    "The statement extends the previous assurances."
+   ],
+   "inference": "There is no fear anywhere from tigers and other such creatures.",
+   "uncertainties": [
+    "The exact range of beings included by ādīnāṃ is unspecified."
+   ],
+   "plain_english": "And likewise, there is nowhere any fear from all tigers and other such creatures."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "vināyakānāṃ",
+     "gloss": "of-vinayakas",
+     "grounds": "class of beings named as source of potential fear",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal qualifier",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gandharvāṇāṃ",
+     "gloss": "of-gandharvas",
+     "grounds": "class of celestial beings named as source of potential fear",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb extending previous negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which supernatural beings are included in the absence of fear?",
+   "premises": [
+    "All Vināyakas are mentioned.",
+    "Gandharvas are mentioned likewise.",
+    "The negation continues from the preceding context."
+   ],
+   "inference": "Fear is also absent from all Vināyakas and Gandharvas.",
+   "uncertainties": [
+    "The specific nature of threat from these beings is not detailed."
+   ],
+   "plain_english": "And likewise, there is no fear from all Vināyakas and all Gandharvas."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "hiṃsrā",
+     "gloss": "harmful",
+     "grounds": "describes injurious nature",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vighna+karāḥ+ca+eva",
+     "gloss": "obstacle-causing-and-indeed",
+     "grounds": "compound expressing causing obstacles, with emphatic conjunction",
+     "morph": "compound: vighna+kara (m.nom.pl)+ca (indecl.)+eva (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to those previously mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "negated condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are the previously mentioned beings characterized regarding harm and obstacles?",
+   "premises": [
+    "The beings could be harmful or obstacle-causing.",
+    "The speaker negates these effects for them.",
+    "Fear from them is also denied."
+   ],
+   "inference": "Those beings are neither harmful nor obstacle-causing, and they inspire no fear.",
+   "uncertainties": [
+    "The referent of teṣāṃ depends on the preceding verses."
+   ],
+   "plain_english": "O goddess, they are not harmful or obstacle-causing, and there is no fear of them."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+devi",
+     "gloss": "o-great-goddess",
+     "grounds": "compound vocative address",
+     "morph": "compound: mahā+devī (f.voc.sg)"
+    },
+    {
+     "surface": "śapathena",
+     "gloss": "by-oath",
+     "grounds": "instrument indicating solemn pledge",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vadāmi+aham",
+     "gloss": "speak-i",
+     "grounds": "compound phrase stating speaker and act of speaking",
+     "morph": "compound: vadāmi (1.sg.pres.act, √vad)+aham (1.nom.sg)"
+    }
+   ],
+   "question": "How does the speaker guarantee the truth of these assurances?",
+   "premises": [
+    "The word truth is repeated for emphasis.",
+    "The great goddess is addressed directly.",
+    "The speaker claims to speak under oath."
+   ],
+   "inference": "The speaker solemnly swears that the assurances given are true.",
+   "uncertainties": [],
+   "plain_english": "Truly, truly, O great goddess, I speak this under oath."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "subject described as immovable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise-indeed",
+     "grounds": "compound emphatic adverbial phrase",
+     "morph": "compound: tathā (indecl.)+eva (indecl.)"
+    },
+    {
+     "surface": "devvyāḥ+tu",
+     "gloss": "of-goddess-but",
+     "grounds": "compound phrase indicating source with contrastive particle",
+     "morph": "compound: devyāḥ (f.gen.sg)+tu (indecl.)"
+    },
+    {
+     "surface": "prasādāt+acalaḥ",
+     "gloss": "by-grace-immovable",
+     "grounds": "compound expressing immovability arising from grace",
+     "morph": "compound: prasādāt (m.abl.sg)+acalaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle indicating what is stated",
+     "morph": "m.nom.sg.ppp (√īr)"
+    }
+   ],
+   "question": "What makes the goddess's speech unshakeable according to this declaration?",
+   "premises": [
+    "Speech is the subject being described.",
+    "The speech is linked to the goddess's grace.",
+    "It is declared immovable."
+   ],
+   "inference": "The goddess's speech is declared unshakeable because of her grace.",
+   "uncertainties": [
+    "The exact referent of vāṇī could be speech in general or a specific utterance."
+   ],
+   "plain_english": "Likewise, speech is declared immovable by the grace of the goddess."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive expressing necessity of concealment",
+     "morph": "n.nom.sg.gerundive (√gup)"
+    },
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "repeated gerundive for emphasis",
+     "morph": "n.nom.sg.gerundive (√gup)"
+    },
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "repeated gerundive for emphasis",
+     "morph": "n.nom.sg.gerundive (√gup)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb indicating constant obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What obligation of secrecy is imposed on the teaching?",
+   "premises": [
+    "The need for concealment is stated three times.",
+    "The concealment is required always.",
+    "The beloved is addressed directly."
+   ],
+   "inference": "The teaching must be kept strictly and always secret.",
+   "uncertainties": [
+    "The specific content to be concealed is implied by context rather than named."
+   ],
+   "plain_english": "It must be concealed, concealed, concealed always, O beloved."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "bhraṣṭānāṃ",
+     "gloss": "of-fallen",
+     "grounds": "qualifies practitioners as lapsed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "class of persons in ritual practice",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sānnidhye",
+     "gloss": "in-presence",
+     "grounds": "locative indicating proximity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet+api",
+     "gloss": "should-speak-even",
+     "grounds": "compound with optative verb and emphatic particle",
+     "morph": "compound: vadet (3.sg.opt.act, √vad)+api (indecl.)"
+    }
+   ],
+   "question": "In whose presence must the secret teaching not be spoken?",
+   "premises": [
+    "Fallen practitioners are specified.",
+    "Their presence is the context of prohibition.",
+    "Speaking is forbidden even in that presence."
+   ],
+   "inference": "The teaching must not be spoken even in the presence of fallen practitioners.",
+   "uncertainties": [],
+   "plain_english": "One should not speak it even in the presence of fallen practitioners."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "udāsīna+janasya+eva",
+     "gloss": "of-indifferent-person-indeed",
+     "grounds": "compound denoting an indifferent person with emphasis",
+     "morph": "compound: udāsīna+jana (m.gen.sg)+eva (indecl.)"
+    },
+    {
+     "surface": "sānnidhye",
+     "gloss": "in-presence",
+     "grounds": "locative indicating proximity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet+api",
+     "gloss": "should-speak-even",
+     "grounds": "compound with optative verb and emphatic particle",
+     "morph": "compound: vadet (3.sg.opt.act, √vad)+api (indecl.)"
+    }
+   ],
+   "question": "Why is an indifferent person excluded from hearing the teaching?",
+   "premises": [
+    "An indifferent person is specified.",
+    "Their presence is the context of prohibition.",
+    "Speaking is forbidden even in that presence."
+   ],
+   "inference": "The teaching must not be spoken even in the presence of an indifferent person.",
+   "uncertainties": [],
+   "plain_english": "One should not speak it even in the presence of an indifferent person."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "mūrkhāya",
+     "gloss": "to-fool",
+     "grounds": "recipient unfit due to lack of understanding",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhāva+hīnāya",
+     "gloss": "devotion-devoid",
+     "grounds": "compound describing one lacking devotion",
+     "morph": "compound: bhāva+hīna (m.dat.sg)"
+    },
+    {
+     "surface": "daridrāya",
+     "gloss": "to-poor-person",
+     "grounds": "recipient described as poor",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mama+ājñayā",
+     "gloss": "by-my-command",
+     "grounds": "compound indicating authoritative injunction",
+     "morph": "compound: mama (1.gen.sg)+ājñayā (f.inst.sg)"
+    }
+   ],
+   "question": "Which categories of recipients are forbidden by the speaker's command?",
+   "premises": [
+    "A fool is named as an unfit recipient.",
+    "One devoid of devotion is named.",
+    "A poor person is named under the speaker's command."
+   ],
+   "inference": "By the speaker's command, the teaching must not be given to a fool, the devotionless, or a poor person.",
+   "uncertainties": [
+    "The sense of daridrāya may be literal poverty or spiritual lack; context is limited."
+   ],
+   "plain_english": "By my command, it must not be given to a fool, to one devoid of devotion, or to a poor person."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "kālī+bhaktāya",
+     "gloss": "to-kali-devotee",
+     "grounds": "compound denoting a devotee of Kālī",
+     "morph": "compound: kālī+bhakta (m.dat.sg)"
+    },
+    {
+     "surface": "śaivāya",
+     "gloss": "to-shaiva",
+     "grounds": "recipient identified as a Śaiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vaiṣṇavāya",
+     "gloss": "to-vaishnava",
+     "grounds": "recipient identified as a Vaiṣṇava",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śiva+ājñayā",
+     "gloss": "by-shiva-command",
+     "grounds": "compound indicating authoritative injunction of Śiva",
+     "morph": "compound: śiva+ājñā (f.inst.sg)"
+    }
+   ],
+   "question": "Which sectarian devotees are restricted by Śiva's command?",
+   "premises": [
+    "A devotee of Kālī is named.",
+    "A Śaiva and a Vaiṣṇava are named.",
+    "The restriction is stated by Śiva's command."
+   ],
+   "inference": "By Śiva's command, the teaching must not be given to a devotee of Kālī, a Śaiva, or a Vaiṣṇava.",
+   "uncertainties": [
+    "The rationale for excluding these specific devotees is not stated in this verse."
+   ],
+   "plain_english": "By Śiva’s command, it must not be given to a devotee of Kālī, to a Śaiva, or to a Vaiṣṇava."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "surā-strī-vandakāya+api",
+     "gloss": "to-wine-woman-worshipper-even",
+     "grounds": "compound denoting one who venerates with wine and women, with emphatic particle",
+     "morph": "compound: surā-strī-vandaka (m.dat.sg)+api (indecl.)"
+    },
+    {
+     "surface": "śiva+bali+pradāya",
+     "gloss": "to-shiva-offering-giver",
+     "grounds": "compound denoting one who gives bali to Śiva",
+     "morph": "compound: śiva+bali+prada (m.dat.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional ritual practitioners are excluded from receiving the teaching?",
+   "premises": [
+    "One who worships with wine and women is named.",
+    "One who offers bali to Śiva is named.",
+    "Both are included in the prohibition."
+   ],
+   "inference": "The teaching must not be given even to those who worship with wine and women or who offer bali to Śiva.",
+   "uncertainties": [
+    "The compound surā-strī-vandakāya is terse and its exact ritual sense depends on context."
+   ],
+   "plain_english": "And not even to one who worships with wine and women, nor to one who offers bali to Śiva."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "colophon marker indicating conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+kāmākhyā+tantre",
+     "gloss": "in-shri-kamakhya-tantra",
+     "grounds": "compound naming the text",
+     "morph": "compound: śrī+kāmākhyā+tantra (n.loc.sg)"
+    },
+    {
+     "surface": "pārvatī+īśvara+saṃvāde",
+     "gloss": "in-parvati-ishvara-dialogue",
+     "grounds": "compound naming the dialogue frame",
+     "morph": "compound: pārvatī+īśvara+saṃvāda (m.loc.sg)"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section of the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāptaḥ",
+     "gloss": "completed",
+     "grounds": "past participle indicating completion",
+     "morph": "m.nom.sg.ppp (√sam-āp)"
+    }
+   ],
+   "question": "What textual section concludes with this colophon statement?",
+   "premises": [
+    "The text is identified as the Śrī Kāmākhyā Tantra.",
+    "The frame is a dialogue between Pārvatī and Īśvara.",
+    "The ninth chapter is stated as completed."
+   ],
+   "inference": "This colophon marks the completion of the ninth chapter in the Pārvatī-Īśvara dialogue of the Śrī Kāmākhyā Tantra.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the Śrī Kāmākhyā Tantra, in the dialogue between Pārvatī and Īśvara, the ninth chapter is completed."
+  }
+ ]
+}

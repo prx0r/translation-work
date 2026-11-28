@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-was-said",
+     "grounds": "fused relative pronoun yad plus past participle uktaṃ; sandhi fusion retained",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "tāriṇīdevyā",
+     "gloss": "by-deliverer-goddess",
+     "grounds": "compound tāriṇī + devī; feminine ending ā may be genitive, ablative, or instrumental",
+     "morph": "fem.gen.sg"
+    },
+    {
+     "surface": "nijārādhanakarmaṇi",
+     "gloss": "in-own-worship-act",
+     "grounds": "compound nija + ārādhana + karmaṇi; locative singular neuter",
+     "morph": "neut.loc.sg"
+    }
+   ],
+   "question": "What did the deliverer goddess say in her own worship act?",
+   "premises": [
+    "The verse names a statement by Tāriṇīdevī.",
+    "It locates that statement in her own worship act.",
+    "It frames the statement as previously said."
+   ],
+   "inference": "The verse identifies the content to be recalled as Tāriṇīdevī's own words during her worship.",
+   "uncertainties": [
+    "The exact case of tāriṇīdevyā is ambiguous between genitive and instrumental.",
+    "Whether yaduktaṃ is a relative clause or a quoted statement is not explicit."
+   ],
+   "plain_english": "What was said by the deliverer goddess in her own act of worship."
+  }
+ ]
+}

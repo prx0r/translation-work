@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound sarva-artha",
+     "morph": "compound.member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "object",
+     "grounds": "second member of compound sarva-artha",
+     "morph": "compound.member"
+    },
+    {
+     "surface": "sādhakī",
+     "gloss": "accomplishing",
+     "grounds": "feminine adjective agreeing with śaktiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject noun of the verse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound sarva-āśā",
+     "morph": "compound.member"
+    },
+    {
+     "surface": "āśā",
+     "gloss": "hope",
+     "grounds": "second member of compound sarva-āśā",
+     "morph": "compound.member"
+    },
+    {
+     "surface": "paripūrakī",
+     "gloss": "fulfilling",
+     "grounds": "feminine adjective agreeing with śaktiḥ",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What power accomplishes all objects and fulfills all hopes?",
+   "premises": [
+    "Power accomplishes all objects.",
+    "Power fulfills all hopes.",
+    "Śakti is the subject."
+   ],
+   "inference": "The verse identifies śakti as the power that accomplishes every object and fulfills every hope.",
+   "uncertainties": [
+    "Compound boundaries are inferred from the verse's syntax."
+   ],
+   "plain_english": "The power that accomplishes every object and fulfills every hope."
+  }
+ ]
+}

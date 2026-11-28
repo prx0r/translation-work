@@ -1,0 +1,1215 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2476,
+   "rows": [
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "object of giving",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "injunctive/optative action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "manner of giving",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "rice-ball",
+     "grounds": "funerary offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "injunctive/optative action",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "place of offering",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What offerings must be made according to one's ability after death?",
+   "premises": [
+    "A gift should be made according to ability.",
+    "A rice-ball offering should be given.",
+    "That offering should be placed on the earth."
+   ],
+   "inference": "Funerary rites require both a gift according to ability and a rice-ball placed on the earth.",
+   "uncertainties": [],
+   "plain_english": "One should make a gift according to one's ability and should also give a rice-ball offering on the earth."
+  },
+  {
+   "verse": 2477,
+   "rows": [
+    {
+     "surface": "tyajeyuḥ",
+     "gloss": "should-abandon",
+     "grounds": "injunctive/optative action",
+     "morph": "3.pl.opt.act √tyaj"
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "for-three-days",
+     "grounds": "duration of suspension",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual activity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nityādanyat",
+     "gloss": "other-than-daily",
+     "grounds": "excludes daily obligatory rites; compound",
+     "morph": "n.acc.sg (compound nitya+anya)"
+    },
+    {
+     "surface": "japādikam",
+     "gloss": "japa-and-so-forth",
+     "grounds": "includes recitation and similar acts; compound",
+     "morph": "n.acc.sg (compound japa+ādika)"
+    }
+   ],
+   "question": "Which ritual activities must be suspended for three days during mourning?",
+   "premises": [
+    "Rites other than daily ones should be abandoned.",
+    "This suspension includes japa and similar activities.",
+    "The suspension lasts for three days."
+   ],
+   "inference": "For three days, all non-daily rites including japa must be set aside.",
+   "uncertainties": [],
+   "plain_english": "For three days they should abandon rites other than the daily ones, including japa and similar practices."
+  },
+  {
+   "verse": 2478,
+   "rows": [
+    {
+     "surface": "dinamekaṃ",
+     "gloss": "one-day",
+     "grounds": "duration of impurity observance",
+     "morph": "n.acc.sg (compound dina+eka)"
+    },
+    {
+     "surface": "kṣipeyuḥ",
+     "gloss": "should-pass",
+     "grounds": "injunctive/optative action",
+     "morph": "3.pl.opt.act √kṣip"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "subject, refers to initiated persons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāvāśaucāya",
+     "gloss": "for-corpse-impurity",
+     "grounds": "purpose of observance; compound",
+     "morph": "n.dat.sg (compound śāva+āśauca)"
+    },
+    {
+     "surface": "dīkṣitāḥ",
+     "gloss": "initiated-ones",
+     "grounds": "those who have received dīkṣā",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How long must initiated persons observe impurity due to a death?",
+   "premises": [
+    "The initiated persons are the subject.",
+    "They should pass one day.",
+    "This observance is for corpse-related impurity."
+   ],
+   "inference": "Initiated persons observe one day of impurity on account of a death.",
+   "uncertainties": [],
+   "plain_english": "The initiated should observe one day for impurity caused by a death."
+  },
+  {
+   "verse": 2479,
+   "rows": [
+    {
+     "surface": "ācāraṃ",
+     "gloss": "conduct",
+     "grounds": "prescribed behavior",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīkṣitāḥ",
+     "gloss": "initiated-ones",
+     "grounds": "those who have received dīkṣā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīran",
+     "gloss": "should-perform",
+     "grounds": "injunctive/optative action",
+     "morph": "3.pl.opt.mid √kṛ"
+    },
+    {
+     "surface": "lokasaṃvṛtim",
+     "gloss": "world-concealment",
+     "grounds": "conformity to worldly convention; compound",
+     "morph": "f.acc.sg (compound loka+saṃvṛti)"
+    }
+   ],
+   "question": "Why must initiated persons follow conventional worldly conduct in mourning?",
+   "premises": [
+    "Initiated persons are addressed.",
+    "They should perform conduct that conceals from the world.",
+    "This follows as a consequence of prior considerations."
+   ],
+   "inference": "Initiated persons should conform to worldly convention in their conduct.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the initiated should follow conduct that conforms to worldly convention."
+  },
+  {
+   "verse": 2480,
+   "rows": [
+    {
+     "surface": "pūrvāśramān",
+     "gloss": "former-stages",
+     "grounds": "prior life-stages; compound",
+     "morph": "m.acc.pl (compound pūrva+āśrama)"
+    },
+    {
+     "surface": "apekṣatvāt",
+     "gloss": "because-of-regard",
+     "grounds": "reason: consideration of former stages",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "astasaṃsāra",
+     "gloss": "ended-worldly-bondage",
+     "grounds": "state of having cast off saṃsāra; compound",
+     "morph": "m.nom.sg (compound asta+saṃsāra)"
+    },
+    {
+     "surface": "hetutaḥ",
+     "gloss": "as-cause",
+     "grounds": "causal basis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reason justifies conforming to former life-stage conventions despite ended bondage?",
+   "premises": [
+    "There is regard for former life-stages.",
+    "Worldly bondage is ended.",
+    "This ended state functions as a causal consideration."
+   ],
+   "inference": "Conformity is justified by regard for former stages even when worldly bondage has ended.",
+   "uncertainties": [
+    "The syntactic relation between astasaṃsāra and hetutaḥ is compressed and may link to the next verse."
+   ],
+   "plain_english": "This is because of regard for the former stages of life, even though worldly bondage has ended."
+  },
+  {
+   "verse": 2481,
+   "rows": [
+    {
+     "surface": "astasaṃsāra",
+     "gloss": "ended-worldly-bondage",
+     "grounds": "state of having cast off saṃsāra; compound",
+     "morph": "m.nom.sg (compound asta+saṃsāra)"
+    },
+    {
+     "surface": "bījasya",
+     "gloss": "of-seed",
+     "grounds": "seed of bondage",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jñāninaḥ",
+     "gloss": "of-knower",
+     "grounds": "one who possesses knowledge",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "satkriyāvataḥ",
+     "gloss": "performing-good-rites",
+     "grounds": "engaged in proper ritual action; compound",
+     "morph": "m.gen.sg (compound sat+kriyāvat)"
+    }
+   ],
+   "question": "What characterizes the knower who still performs proper ritual observances?",
+   "premises": [
+    "The knower's seed of worldly bondage has ended.",
+    "The knower performs proper rites.",
+    "These qualities belong to the same subject."
+   ],
+   "inference": "A knower whose seed of bondage has ended may still perform proper rites.",
+   "uncertainties": [
+    "This verse is syntactically linked to the preceding verse's argument."
+   ],
+   "plain_english": "This applies to the knower whose seed of worldly bondage has ended, yet who still performs proper rites."
+  },
+  {
+   "verse": 2482,
+   "rows": [
+    {
+     "surface": "vipre",
+     "gloss": "for-brahmin",
+     "grounds": "social class",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "end of impurity period",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśāhe",
+     "gloss": "in-ten-days",
+     "grounds": "duration; compound",
+     "morph": "n.loc.sg (compound daśa+aha)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kṣatriye",
+     "gloss": "for-kshatriya",
+     "grounds": "social class",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvādaśāhikā",
+     "gloss": "twelve-day-period",
+     "grounds": "duration of purification; compound",
+     "morph": "f.nom.sg (compound dvādaśa+āhika)"
+    }
+   ],
+   "question": "What are the prescribed purification periods for brahmins and kshatriyas after death?",
+   "premises": [
+    "Purification for a brahmin occurs in ten days.",
+    "Purification for a kshatriya occurs in twelve days.",
+    "These are distinct prescribed periods."
+   ],
+   "inference": "The mourning purification period is ten days for brahmins and twelve days for kshatriyas.",
+   "uncertainties": [],
+   "plain_english": "Purification occurs in ten days for a brahmin and in twelve days for a kshatriya."
+  },
+  {
+   "verse": 2483,
+   "rows": [
+    {
+     "surface": "udvāhitāḥ",
+     "gloss": "married",
+     "grounds": "women given in marriage",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "catasraḥ",
+     "gloss": "four",
+     "grounds": "number of women",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces specific case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇena",
+     "gloss": "by-brahmin",
+     "grounds": "agent of marriage",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "wives",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conditional circumstance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what marital circumstance does a special impurity rule for offspring apply?",
+   "premises": [
+    "Four women are married by a brahmin.",
+    "The condition concerns this specific marital situation.",
+    "This sets up the rule stated next."
+   ],
+   "inference": "A special case arises when a brahmin has married four women.",
+   "uncertainties": [
+    "The verse is protatic and depends on the following verse for its full rule."
+   ],
+   "plain_english": "But when four women have been married by a brahmin,"
+  },
+  {
+   "verse": 2484,
+   "rows": [
+    {
+     "surface": "sūtakaṃ",
+     "gloss": "birth-impurity",
+     "grounds": "impurity arising from birth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sutādīnāṃ",
+     "gloss": "of-sons-and-others",
+     "grounds": "offspring and related persons; compound",
+     "morph": "m.gen.pl (compound suta+ādi)"
+    },
+    {
+     "surface": "mātṛpakṣe",
+     "gloss": "on-mother-side",
+     "grounds": "maternal lineage; compound",
+     "morph": "m.loc.sg (compound mātṛ+pakṣa)"
+    },
+    {
+     "surface": "yathāmatam",
+     "gloss": "according-to-view",
+     "grounds": "as held by authoritative opinion; compound",
+     "morph": "(indecl.) (compound yathā+mata)"
+    }
+   ],
+   "question": "How is birth impurity determined for offspring on the maternal side in that case?",
+   "premises": [
+    "Birth impurity applies to sons and others.",
+    "The determination is made on the mother's side.",
+    "It follows the accepted authoritative view."
+   ],
+   "inference": "In that case, birth impurity for offspring is determined according to the maternal side as traditionally held.",
+   "uncertainties": [],
+   "plain_english": "then that birth impurity for sons and others is determined on the mother's side, according to the accepted view."
+  },
+  {
+   "verse": 2485,
+   "rows": [
+    {
+     "surface": "māsasaṃkhyā",
+     "gloss": "month-count",
+     "grounds": "number of months; compound",
+     "morph": "f.nom.sg (compound māsa+saṃkhyā)"
+    },
+    {
+     "surface": "uditā",
+     "gloss": "stated",
+     "grounds": "declared in scripture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātuḥ",
+     "gloss": "of-mother",
+     "grounds": "pertaining to the mother",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "strīpuṃsoḥ",
+     "gloss": "of-woman-and-man",
+     "grounds": "female and male; compound",
+     "morph": "m.gen.du (compound strī+puṃs)"
+    },
+    {
+     "surface": "garbhanāśane",
+     "gloss": "in-embryo-loss",
+     "grounds": "miscarriage or destruction of embryo; compound",
+     "morph": "n.loc.sg (compound garbha+nāśana)"
+    }
+   ],
+   "question": "What determines the impurity period for the mother after loss of an embryo?",
+   "premises": [
+    "A month-count is stated for impurity.",
+    "It applies to the mother.",
+    "It is determined in cases of embryo loss for female or male offspring."
+   ],
+   "inference": "The mother's impurity period after embryo loss is measured by a stated number of months.",
+   "uncertainties": [
+    "The exact month-count is not specified in this verse alone."
+   ],
+   "plain_english": "In the case of the loss of an embryo, male or female, a number of months is stated for the mother's impurity."
+  },
+  {
+   "verse": 2486,
+   "rows": [
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "purificatory bathing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekadinaṃ",
+     "gloss": "one-day",
+     "grounds": "duration; compound",
+     "morph": "n.nom.sg (compound eka+dina)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated in teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "three-days",
+     "grounds": "duration; compound",
+     "morph": "n.nom.sg (compound tri+dina)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "according to sequence",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bathing periods are prescribed in sequence for purification in these cases?",
+   "premises": [
+    "A bath of one day is declared.",
+    "A bath of three days is also declared.",
+    "These apply in due order."
+   ],
+   "inference": "Purificatory bathing periods of one day and three days are prescribed in sequence.",
+   "uncertainties": [
+    "The specific cases corresponding to each duration are not fully explicit in this verse."
+   ],
+   "plain_english": "A bath of one day and of three days is declared, in due order."
+  },
+  {
+   "verse": 2487,
+   "rows": [
+    {
+     "surface": "kṣaurāt",
+     "gloss": "from-shaving",
+     "grounds": "tonsure rite",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "aṣṭamam",
+     "gloss": "eighth",
+     "grounds": "ordinal marker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varṣāt",
+     "gloss": "from-year",
+     "grounds": "age reference",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects stages",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivāhāt",
+     "gloss": "from-marriage",
+     "grounds": "marriage rite",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "follows previous rule; compound",
+     "morph": "(indecl.) (compound pūrva+vat)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "in sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How do impurity rules apply progressively from tonsure through marriage?",
+   "premises": [
+    "The stages include shaving and the eighth year.",
+    "Marriage is another stage in sequence.",
+    "The rules apply as before and in order."
+   ],
+   "inference": "Impurity observances apply progressively through life-stage rites as previously prescribed.",
+   "uncertainties": [
+    "The exact rule applied at each stage is compressed and relies on prior context."
+   ],
+   "plain_english": "From the tonsure, from the eighth year, and from marriage onward, the rules apply in order as before."
+  },
+  {
+   "verse": 2488,
+   "rows": [
+    {
+     "surface": "pitrord",
+     "gloss": "of-parents",
+     "grounds": "father and mother; sandhi form of pitroḥ",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "daśāham",
+     "gloss": "ten-days",
+     "grounds": "duration of impurity; compound",
+     "morph": "n.nom.sg (compound daśa+aha)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "in-all-cases",
+     "grounds": "general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśaucam",
+     "gloss": "impurity",
+     "grounds": "mourning impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agrajāḥ",
+     "gloss": "elder-born",
+     "grounds": "elder siblings or elders",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What impurity period applies universally in the case of parents and elders?",
+   "premises": [
+    "Impurity for parents is ten days.",
+    "This applies in all cases.",
+    "Elder-born persons are included in this scope."
+   ],
+   "inference": "A ten-day impurity period applies universally for parents and elders.",
+   "uncertainties": [
+    "The exact scope of agrajāḥ (elder siblings or elders generally) is context-dependent."
+   ],
+   "plain_english": "For parents, impurity is indeed ten days in all cases, and likewise for elders."
+  },
+  {
+   "verse": 2489,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to impurity period",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sutānāṃ",
+     "gloss": "of-sons",
+     "grounds": "offspring",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prayāṇe",
+     "gloss": "at-departure",
+     "grounds": "at death",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣiṇī",
+     "gloss": "fortnight",
+     "grounds": "period of fifteen days or half-month",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to twice-born; compound",
+     "morph": "m.voc.pl (compound dvija+sattama)"
+    }
+   ],
+   "question": "What impurity period is prescribed at the death of sons, O best twice-born?",
+   "premises": [
+    "The case concerns the departure of sons.",
+    "The prescribed period is a fortnight.",
+    "The address is to the best of the twice-born."
+   ],
+   "inference": "At the death of sons, the impurity period is a fortnight.",
+   "uncertainties": [],
+   "plain_english": "And at the departure of sons, O best of the twice-born, that period is a fortnight."
+  },
+  {
+   "verse": 2490,
+   "rows": [
+    {
+     "surface": "dinaṃ",
+     "gloss": "one-day",
+     "grounds": "alternative duration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣiṇī",
+     "gloss": "fortnight",
+     "grounds": "alternative duration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityuktā",
+     "gloss": "thus-stated",
+     "grounds": "as declared; compound",
+     "morph": "f.nom.sg (compound iti+ukta)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding the rule",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-perform",
+     "grounds": "injunctive/optative causative action",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "How should one act after knowing whether the impurity period is one day or a fortnight?",
+   "premises": [
+    "The period is stated as either one day or a fortnight.",
+    "One should know this distinction.",
+    "Rites should be performed accordingly."
+   ],
+   "inference": "After determining whether the period is one day or a fortnight, one should have the rites performed accordingly.",
+   "uncertainties": [],
+   "plain_english": "Knowing that it is stated as either one day or a fortnight, one should have the rites performed accordingly."
+  },
+  {
+   "verse": 2491,
+   "rows": [
+    {
+     "surface": "samānodaka",
+     "gloss": "same-water",
+     "grounds": "kinship group sharing water offerings; compound",
+     "morph": "m.nom.sg (compound samāna+udaka)"
+    },
+    {
+     "surface": "vargāṇām",
+     "gloss": "of-groups",
+     "grounds": "classes of relatives",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āśaucaṃ",
+     "gloss": "impurity",
+     "grounds": "mourning impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "ordained by rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-rule",
+     "grounds": "in the prescribed ordinance",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "For which kinship groups is mourning impurity prescribed by the rule?",
+   "premises": [
+    "Impurity is prescribed in the rule.",
+    "It applies to groups sharing the same water offerings.",
+    "These groups are specified as the subjects of the rule."
+   ],
+   "inference": "Mourning impurity is prescribed for the samānodaka kinship groups.",
+   "uncertainties": [],
+   "plain_english": "Impurity is prescribed in the rule for the groups of relatives who share the same water offerings."
+  },
+  {
+   "verse": 2492,
+   "rows": [
+    {
+     "surface": "āmauñjībandhanāt",
+     "gloss": "until-girdle-binding",
+     "grounds": "before the muñja-girdle rite; compound",
+     "morph": "n.abl.sg (compound ā+mauñjībandhana)"
+    },
+    {
+     "surface": "vipraḥ",
+     "gloss": "brahmin",
+     "grounds": "member of brahmin class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣatriyaḥ",
+     "gloss": "kshatriya",
+     "grounds": "member of kshatriya class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects classes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanurgrahāt",
+     "gloss": "from-bow-taking",
+     "grounds": "before taking up the bow; compound",
+     "morph": "n.abl.sg (compound dhanus+graha)"
+    }
+   ],
+   "question": "What life-stage thresholds mark reduced impurity for brahmins and kshatriyas?",
+   "premises": [
+    "The brahmin is considered up to the girdle-binding rite.",
+    "The kshatriya is considered up to taking the bow.",
+    "These thresholds define a stage before full observance."
+   ],
+   "inference": "For brahmins and kshatriyas, specific pre-initiation thresholds determine the applicable impurity rule.",
+   "uncertainties": [
+    "The verse is protatic and completed by the following verse."
+   ],
+   "plain_english": "For a brahmin before the girdle-binding rite, and for a kshatriya before taking up the bow,"
+  },
+  {
+   "verse": 2493,
+   "rows": [
+    {
+     "surface": "pūrṇāśaucaṃ",
+     "gloss": "full-impurity",
+     "grounds": "complete period of impurity; compound",
+     "morph": "n.nom.sg (compound pūrṇa+āśauca)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "after that threshold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "dead",
+     "grounds": "if death occurs",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narottamāḥ",
+     "gloss": "best-men",
+     "grounds": "vocative address; compound",
+     "morph": "m.voc.pl (compound nara+uttama)"
+    }
+   ],
+   "question": "When does full impurity apply if death occurs after those thresholds?",
+   "premises": [
+    "The condition is death occurring after the stated threshold.",
+    "Full impurity is the prescribed result.",
+    "The address is to the best of men."
+   ],
+   "inference": "If death occurs after those thresholds, the full period of impurity applies.",
+   "uncertainties": [],
+   "plain_english": "O best of men, if one dies after that point, the full period of impurity applies."
+  },
+  {
+   "verse": 2494,
+   "rows": [
+    {
+     "surface": "vaiśyaḥ",
+     "gloss": "vaishya",
+     "grounds": "member of vaishya class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navabhiḥ",
+     "gloss": "by-nine",
+     "grounds": "nine days",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "śuddhaḥ",
+     "gloss": "purified",
+     "grounds": "freed from impurity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūdraḥ",
+     "gloss": "shudra",
+     "grounds": "member of shudra class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "twelve days",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "abhidinaiḥ",
+     "gloss": "by-days",
+     "grounds": "counted in days; compound",
+     "morph": "n.ins.pl (compound abhi+dina)"
+    }
+   ],
+   "question": "What purification periods apply to vaishyas and shudras after death?",
+   "premises": [
+    "A vaishya becomes purified in nine days.",
+    "A shudra becomes purified in twelve days.",
+    "These are class-specific periods."
+   ],
+   "inference": "The impurity period is nine days for a vaishya and twelve days for a shudra.",
+   "uncertainties": [],
+   "plain_english": "If it is a vaishya, purification comes in nine days; if a shudra, in twelve days."
+  },
+  {
+   "verse": 2495,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "trirātram",
+     "gloss": "three-nights",
+     "grounds": "duration of impurity; compound",
+     "morph": "n.nom.sg (compound tri+rātra)"
+    },
+    {
+     "surface": "āśaucam",
+     "gloss": "impurity",
+     "grounds": "mourning impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācārya",
+     "gloss": "teacher",
+     "grounds": "spiritual preceptor; compound member",
+     "morph": "m.nom.sg (compound ācārya+maraṇa)"
+    },
+    {
+     "surface": "maraṇe",
+     "gloss": "at-death",
+     "grounds": "occasion of death; compound member",
+     "morph": "n.loc.sg (compound ācārya+maraṇa)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-occurring",
+     "grounds": "locative absolute condition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What impurity period is required when a teacher dies?",
+   "premises": [
+    "The occasion is the death of a teacher.",
+    "The prescribed impurity lasts three nights.",
+    "This applies when that death occurs."
+   ],
+   "inference": "Three nights of impurity are observed at the death of a teacher.",
+   "uncertainties": [],
+   "plain_english": "When a teacher dies, there should be three nights of impurity."
+  },
+  {
+   "verse": 2496,
+   "rows": [
+    {
+     "surface": "śāvāśauce",
+     "gloss": "in-corpse-impurity",
+     "grounds": "impurity due to death; compound",
+     "morph": "n.loc.sg (compound śāva+āśauca)"
+    },
+    {
+     "surface": "samutpanne",
+     "gloss": "having-arisen",
+     "grounds": "when already present",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūtakaṃ",
+     "gloss": "birth-impurity",
+     "grounds": "impurity due to birth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conditional circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-arise",
+     "grounds": "comes into being",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What situation arises when birth impurity occurs during existing death impurity?",
+   "premises": [
+    "Corpse-related impurity has already arisen.",
+    "Birth impurity may arise during that period.",
+    "This sets up a rule for overlapping impurities."
+   ],
+   "inference": "A case of overlapping impurity occurs when birth impurity arises during death impurity.",
+   "uncertainties": [
+    "The resolution of the overlap is stated in subsequent verses."
+   ],
+   "plain_english": "But when birth impurity arises while corpse-related impurity is already present,"
+  },
+  {
+   "verse": 2497,
+   "rows": [
+    {
+     "surface": "sūtake",
+     "gloss": "in-birth-impurity",
+     "grounds": "during birth impurity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūtakaṃ",
+     "gloss": "birth-impurity",
+     "grounds": "another birth impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "repeated occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "even-if",
+     "grounds": "concessive condition; compound",
+     "morph": "(indecl.) (compound yadi+api)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-arise",
+     "grounds": "comes into being",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address; compound",
+     "morph": "m.voc.pl (compound dvija+uttama)"
+    }
+   ],
+   "question": "How should repeated birth impurity during an existing birth impurity be understood?",
+   "premises": [
+    "Birth impurity is already present.",
+    "Another birth impurity may arise again.",
+    "The address is to the best of the twice-born."
+   ],
+   "inference": "A further birth impurity may occur even while a birth impurity is ongoing.",
+   "uncertainties": [
+    "The specific resolution rule is implied rather than fully stated in this verse."
+   ],
+   "plain_english": "O best of the twice-born, even if another birth impurity arises during an existing birth impurity,"
+  },
+  {
+   "verse": 2498,
+   "rows": [
+    {
+     "surface": "sūtake",
+     "gloss": "in-birth-impurity",
+     "grounds": "during birth impurity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtakaṃ",
+     "gloss": "death-impurity",
+     "grounds": "impurity due to death",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-arise",
+     "grounds": "comes into being",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sūtake",
+     "gloss": "in-birth-impurity",
+     "grounds": "during birth impurity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūtakaṃ",
+     "gloss": "birth-impurity",
+     "grounds": "another birth impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel case",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are overlapping death and birth impurities treated when they coincide?",
+   "premises": [
+    "Death impurity may arise during birth impurity.",
+    "Birth impurity may likewise arise during birth impurity.",
+    "These cases are presented as parallel."
+   ],
+   "inference": "Overlapping death and birth impurities are treated as parallel cases of coinciding impurity.",
+   "uncertainties": [
+    "The exact procedural resolution is not fully specified in this verse."
+   ],
+   "plain_english": "If death impurity arises during birth impurity, or likewise another birth impurity during birth impurity,"
+  },
+  {
+   "verse": 2499,
+   "rows": [
+    {
+     "surface": "atikrānte",
+     "gloss": "having-passed",
+     "grounds": "after completion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśāhe",
+     "gloss": "ten-days",
+     "grounds": "period of ten days; compound",
+     "morph": "n.loc.sg (compound daśa+aha)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces exception or later case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trirātram",
+     "gloss": "three-nights",
+     "grounds": "duration of impurity; compound",
+     "morph": "n.acc.sg (compound tri+rātra)"
+    },
+    {
+     "surface": "aśuciḥ",
+     "gloss": "impure",
+     "grounds": "state of impurity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What impurity period remains if the event occurs after ten days have passed?",
+   "premises": [
+    "The ten-day period has already passed.",
+    "A state of impurity still arises.",
+    "The remaining period is three nights."
+   ],
+   "inference": "If the event occurs after ten days have passed, one remains impure for three nights.",
+   "uncertainties": [],
+   "plain_english": "But if the ten days have passed, one remains impure for three nights."
+  }
+ ]
+}

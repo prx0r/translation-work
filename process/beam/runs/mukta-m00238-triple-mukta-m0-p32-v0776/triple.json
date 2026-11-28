@@ -1,0 +1,1124 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 776,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khaḍgabāṇau",
+     "gloss": "sword-arrow",
+     "grounds": "compound",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāpaṃ",
+     "gloss": "bow",
+     "grounds": "weapon noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gadāṃdharam",
+     "gloss": "mace-bearing",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which weapons are held on the right and left sides of this form?",
+   "premises": [
+    "right side has sword and arrow",
+    "left side has bow",
+    "mace-bearing form is described"
+   ],
+   "inference": "The verse specifies a right-left weapon arrangement for the deity.",
+   "uncertainties": [
+    "exact deity identity not stated in this verse"
+   ],
+   "plain_english": "On the right are sword and arrow, and on the left are bow and mace-bearing form."
+  },
+  {
+   "verse": 777,
+   "rows": [
+    {
+     "surface": "ruṃḍamālāsamāyuktaṃ",
+     "gloss": "skull-garland-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādukoparisusthitam",
+     "gloss": "sandal-above-situated",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What adornment and placement characterize this fierce form?",
+   "premises": [
+    "skull garland is present",
+    "form is situated above sandals"
+   ],
+   "inference": "The verse describes a skull-garlanded form standing on sandals.",
+   "uncertainties": [
+    "subject deity is implied from context"
+   ],
+   "plain_english": "It is endowed with a skull garland and situated above sandals."
+  },
+  {
+   "verse": 778,
+   "rows": [
+    {
+     "surface": "bhadrakālīsamāyukaṃ",
+     "gloss": "bhadrakali-accompanied",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karālaṃ",
+     "gloss": "fierce",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdivinyaset",
+     "gloss": "heart-place",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root vinyas"
+    },
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should this fierce blue form accompanied by Bhadrakali be placed?",
+   "premises": [
+    "form is accompanied by Bhadrakali",
+    "form is fierce",
+    "heart placement is instructed",
+    "color is blue"
+   ],
+   "inference": "The verse directs placement of the fierce blue form at the heart.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Place the fierce blue form accompanied by Bhadrakali at the heart."
+  },
+  {
+   "verse": 779,
+   "rows": [
+    {
+     "surface": "ajavaktraṃ",
+     "gloss": "goat-faced",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvinayanaṃ",
+     "gloss": "two-eyed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṃgadvayavibhūṣitam",
+     "gloss": "horn-pair-adorned",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What facial and horn features define this goat-faced form?",
+   "premises": [
+    "face is goat-like",
+    "eyes are two",
+    "adorned with two horns"
+   ],
+   "inference": "The verse describes a goat-faced two-eyed form with two horns.",
+   "uncertainties": [
+    "deity identity not named here"
+   ],
+   "plain_english": "It is goat-faced, two-eyed, and adorned with a pair of horns."
+  },
+  {
+   "verse": 780,
+   "rows": [
+    {
+     "surface": "namaskārāṃ",
+     "gloss": "salutation",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jaliṃvipraṃ",
+     "gloss": "water-offering",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivadhyānaparāyaṇam",
+     "gloss": "shiva-meditation-devoted",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What devotional posture and color belong to this dark form?",
+   "premises": [
+    "salutation is present",
+    "water offering is present",
+    "devoted to Shiva meditation",
+    "color is dark"
+   ],
+   "inference": "The verse describes a dark form devoted to Shiva meditation with salutation and water offering.",
+   "uncertainties": [
+    "exact ritual action ambiguous"
+   ],
+   "plain_english": "It is dark-colored, devoted to Shiva meditation, with salutation and water offering."
+  },
+  {
+   "verse": 781,
+   "rows": [
+    {
+     "surface": "savye",
+     "gloss": "left-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṭaṃkā",
+     "gloss": "tank",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "itarakarayuge",
+     "gloss": "other-hand-pair",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaṃkha",
+     "gloss": "conch",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaumodaki",
+     "gloss": "kaumodaki",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "slightly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lālāṭanetraṃ",
+     "gloss": "forehead-eye",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vilasat",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "upurataḥ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīharerardhadeham",
+     "gloss": "hari-half-body",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the half-body of Hari arranged with weapons and forehead eye?",
+   "premises": [
+    "left side has tank and fearlessness",
+    "other hand pair has conch and kaumodaki",
+    "forehead eye is shining",
+    "half-body of Hari is before"
+   ],
+   "inference": "The verse describes Hari's half-body with specified weapons and a shining forehead eye.",
+   "uncertainties": [
+    "exact spatial relation of tank and fearlessness is compressed"
+   ],
+   "plain_english": "On the left are tank and fearlessness; the other hands hold conch and kaumodaki; a shining forehead eye appears before Hari's half-body."
+  },
+  {
+   "verse": 782,
+   "rows": [
+    {
+     "surface": "phālārdhe",
+     "gloss": "forehead-half",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "locanārdha",
+     "gloss": "eye-half",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "akalitasamapadaṃ",
+     "gloss": "equal-foot",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śubhayajñopavītaṃ",
+     "gloss": "auspicious-sacrificial-thread",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haryardhaṃ",
+     "gloss": "hari-half",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naumi",
+     "gloss": "salute",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres + root nam"
+    },
+    {
+     "surface": "śaṃbhuṃ",
+     "gloss": "shambhu",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sakalaśubhakaraṃ",
+     "gloss": "all-auspicious-doer",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvasaṃpatkarāḍhyam",
+     "gloss": "all-prosperity-rich",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why is Shambhu saluted as auspicious and prosperity-rich in this half-form?",
+   "premises": [
+    "forehead half and eye half are mentioned",
+    "equal foot is mentioned",
+    "auspicious sacrificial thread is mentioned",
+    "Hari half is mentioned",
+    "Shambhu is saluted",
+    "all-auspicious-doer and prosperity-rich are stated"
+   ],
+   "inference": "The verse salutes Shambhu in a half-form marked by auspicious and prosperous qualities.",
+   "uncertainties": [
+    "exact relation between Hari half and Shambhu half is compressed"
+   ],
+   "plain_english": "I salute Shambhu, the all-auspicious doer and rich in all prosperity, in this half-form with forehead, eye, equal foot, and auspicious thread."
+  },
+  {
+   "verse": 783,
+   "rows": [
+    {
+     "surface": "raktavarṇa",
+     "gloss": "red-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśkarabhāgaḥ",
+     "gloss": "isha-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇubhāgaḥ",
+     "gloss": "vishnu-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What colors are assigned to the Isha and Vishnu parts of this form?",
+   "premises": [
+    "Isha part is red-colored",
+    "Vishnu part is dark-colored"
+   ],
+   "inference": "The verse assigns red to the Isha part and dark to the Vishnu part.",
+   "uncertainties": [
+    "whether these are halves or parts is not explicit"
+   ],
+   "plain_english": "The Isha part is red-colored and the Vishnu part is dark-colored."
+  },
+  {
+   "verse": 784,
+   "rows": [
+    {
+     "surface": "vāmārdhaṃ",
+     "gloss": "left-half",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmabhāge",
+     "gloss": "left-side",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sīmaṃtatilakālakam",
+     "gloss": "sindoor-tilak-mark",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What mark appears on the left half and left side of this form?",
+   "premises": [
+    "left half is mentioned",
+    "left side is mentioned",
+    "sindoor tilak mark is mentioned"
+   ],
+   "inference": "The verse places a sindoor tilak mark on the left half and side.",
+   "uncertainties": [
+    "exact placement relative to half and side is compressed"
+   ],
+   "plain_english": "On the left half and left side there is a sindoor tilak mark."
+  },
+  {
+   "verse": 785,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṃḍalaṃ",
+     "gloss": "earring",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dadhaṃ",
+     "gloss": "dadhaṃ",
+     "grounds": "verb form",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patrakam",
+     "gloss": "leaf",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What earrings appear on the right and left ears of this form?",
+   "premises": [
+    "right side has earring",
+    "ear is mentioned",
+    "left side has leaf"
+   ],
+   "inference": "The verse assigns an earring to the right ear and a leaf to the left side.",
+   "uncertainties": [
+    "dadhaṃ is not fully parsed"
+   ],
+   "plain_english": "On the right is an earring at the ear, and on the left is a leaf."
+  },
+  {
+   "verse": 786,
+   "rows": [
+    {
+     "surface": "varadotpalake",
+     "gloss": "boon-lotus",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "keyūrakaṭakānvitam",
+     "gloss": "armlet-bracelet-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ornaments and lotus appear on the left side of this form?",
+   "premises": [
+    "boon lotus is mentioned",
+    "left side is mentioned",
+    "armlet and bracelet are present"
+   ],
+   "inference": "The verse describes a left side with boon lotus, armlet, and bracelet.",
+   "uncertainties": [
+    "exact hand or placement is compressed"
+   ],
+   "plain_english": "On the left side are boon lotus, armlet, and bracelet."
+  },
+  {
+   "verse": 787,
+   "rows": [
+    {
+     "surface": "śroṇyardhaṃ",
+     "gloss": "hip-half",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaṃbhoḥ",
+     "gloss": "shambhu",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vyāghracarmakṛtāṃbaram",
+     "gloss": "tiger-skin-made-garment",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What garment covers the right hip half of Shambhu?",
+   "premises": [
+    "hip half is mentioned",
+    "right side is mentioned",
+    "Shambhu is named",
+    "tiger-skin-made garment is mentioned"
+   ],
+   "inference": "The verse assigns a tiger-skin garment to Shambhu's right hip half.",
+   "uncertainties": [
+    "exact garment placement is compressed"
+   ],
+   "plain_english": "Shambhu's right hip half wears a tiger-skin-made garment."
+  },
+  {
+   "verse": 788,
+   "rows": [
+    {
+     "surface": "nūpurālaṃkṛtaṃ",
+     "gloss": "anklet-adorned",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left-side",
+     "grounds": "directional adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "savyapādaṃ",
+     "gloss": "right-foot",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṃcitam",
+     "gloss": "bent",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the left side and right foot described in this form?",
+   "premises": [
+    "anklet-adorned is stated",
+    "left side is mentioned",
+    "right foot is mentioned",
+    "bent is stated"
+   ],
+   "inference": "The verse describes an anklet-adorned left side with a bent right foot.",
+   "uncertainties": [
+    "exact relation between left side and right foot is compressed"
+   ],
+   "plain_english": "The left side is anklet-adorned, and the right foot is bent."
+  },
+  {
+   "verse": 789,
+   "rows": [
+    {
+     "surface": "devībhāgaḥ",
+     "gloss": "devi-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to the Devi part of this form?",
+   "premises": [
+    "Devi part is named",
+    "color is dark"
+   ],
+   "inference": "The verse states that the Devi part is dark-colored.",
+   "uncertainties": [
+    "whether this is a half or part is not explicit"
+   ],
+   "plain_english": "The Devi part is dark-colored."
+  },
+  {
+   "verse": 790,
+   "rows": [
+    {
+     "surface": "sarvābharaṇasaṃyuktaṃ",
+     "gloss": "all-ornament-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyāṃbarasamāvṛtam",
+     "gloss": "divine-garment-covered",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What adornment and covering characterize this form?",
+   "premises": [
+    "all ornaments are present",
+    "divine garment covers it"
+   ],
+   "inference": "The verse describes a form endowed with all ornaments and covered by divine garment.",
+   "uncertainties": [
+    "subject is implied from context"
+   ],
+   "plain_english": "It is endowed with all ornaments and covered by divine garment."
+  },
+  {
+   "verse": 791,
+   "rows": [
+    {
+     "surface": "upavītasamāyuktaṃ",
+     "gloss": "sacrificial-thread-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samabhaṃgatanuṃ",
+     "gloss": "straight-body",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "verb",
+     "morph": "2.sg.act-imp + root kṛ"
+    }
+   ],
+   "question": "What instruction is given for making this straight-bodied form?",
+   "premises": [
+    "sacrificial thread is present",
+    "body is straight",
+    "make is commanded"
+   ],
+   "inference": "The verse instructs making a straight-bodied form endowed with sacrificial thread.",
+   "uncertainties": [
+    "exact form identity is implied"
+   ],
+   "plain_english": "Make it straight-bodied and endowed with sacrificial thread."
+  },
+  {
+   "verse": 792,
+   "rows": [
+    {
+     "surface": "sarvābharaṇasaṃyuktaṃ",
+     "gloss": "all-ornament-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtāṃjalipuṭaṃ",
+     "gloss": "joined-palms",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What posture and adornment characterize this standing form?",
+   "premises": [
+    "all ornaments are present",
+    "joined palms are present",
+    "standing is stated"
+   ],
+   "inference": "The verse describes a standing form with all ornaments and joined palms.",
+   "uncertainties": [
+    "subject is implied from context"
+   ],
+   "plain_english": "It is standing, endowed with all ornaments, with joined palms."
+  },
+  {
+   "verse": 793,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kirātamākhyātam",
+     "gloss": "kirata-called",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "noun",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arjunaḥ",
+     "gloss": "arjuna",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What colors are assigned to Kirata and Arjuna in this form?",
+   "premises": [
+    "Kirata is called thus",
+    "god is addressed",
+    "Kirata is red-colored",
+    "Arjuna is dark-colored"
+   ],
+   "inference": "The verse states Kirata is red-colored and Arjuna is dark-colored.",
+   "uncertainties": [
+    "exact relation between Kirata and Arjuna is compressed"
+   ],
+   "plain_english": "Thus, O god, Kirata is red-colored and Arjuna is dark-colored."
+  },
+  {
+   "verse": 794,
+   "rows": [
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇamṛga",
+     "gloss": "black-deer",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "face",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "laṃbitakaraṃ",
+     "gloss": "hanging-hand",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baddheṃdu",
+     "gloss": "bound-moon",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cūḍaṃ",
+     "gloss": "crest",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haraṃ",
+     "gloss": "hara",
+     "grounds": "proper noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaṃde",
+     "gloss": "salute",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres + root vand"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deva",
+     "grounds": "noun",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ṛṣīśvaraiḥ",
+     "gloss": "rishi-lord",
+     "grounds": "compound",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "parivṛtaṃ",
+     "gloss": "surrounded",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaiyyāghracarmāṃbaram",
+     "gloss": "tiger-skin-garment",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is Hara saluted with trident, deer, moon crest, and tiger skin?",
+   "premises": [
+    "trident is mentioned",
+    "black deer face is mentioned",
+    "hanging hand is mentioned",
+    "bound moon crest is mentioned",
+    "Hara is saluted",
+    "surrounded by rishi lords",
+    "tiger-skin garment is mentioned"
+   ],
+   "inference": "The verse salutes Hara with trident, black deer, hanging hand, bound moon crest, and tiger-skin garment.",
+   "uncertainties": [
+    "exact arrangement of attributes is compressed"
+   ],
+   "plain_english": "I salute Hara with trident, black deer face, hanging hand, bound moon crest, surrounded by rishi lords, wearing tiger-skin garment."
+  },
+  {
+   "verse": 795,
+   "rows": [
+    {
+     "surface": "pādayoḥ",
+     "gloss": "feet",
+     "grounds": "noun",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "pādukāyuktaṃ",
+     "gloss": "sandal-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "somewhat",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaigamanonmukham",
+     "gloss": "outward-facing",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the feet and sandals oriented in this form?",
+   "premises": [
+    "feet are mentioned",
+    "sandal-endowed is stated",
+    "somewhat is stated",
+    "outward-facing is stated"
+   ],
+   "inference": "The verse describes feet with sandals somewhat outward-facing.",
+   "uncertainties": [
+    "exact orientation is compressed"
+   ],
+   "plain_english": "The feet are sandal-endowed and somewhat outward-facing."
+  },
+  {
+   "verse": 796,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃ",
+     "gloss": "conch",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmakarṇe",
+     "gloss": "left-ear",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣiṇe",
+     "gloss": "bird",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nakrakuṃḍalam",
+     "gloss": "crocodile-earring",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What conch and earring appear at the left ear and bird side?",
+   "premises": [
+    "conch is mentioned",
+    "left ear is mentioned",
+    "bird side is mentioned",
+    "crocodile earring is mentioned"
+   ],
+   "inference": "The verse places conch at left ear and crocodile earring at bird side.",
+   "uncertainties": [
+    "exact relation between left ear and bird side is compressed"
+   ],
+   "plain_english": "Conch is at the left ear, and crocodile earring is at the bird side."
+  },
+  {
+   "verse": 797,
+   "rows": [
+    {
+     "surface": "churikāṃ",
+     "gloss": "dagger",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣakaṭyāṃ",
+     "gloss": "right-hip",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhānaṃ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "bhūtasaṃyutam",
+     "gloss": "bhuta-endowed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What weapon and being accompany this form at the right hip?",
+   "premises": [
+    "dagger is mentioned",
+    "right hip is mentioned",
+    "holding is stated",
+    "bhuta-endowed is stated"
+   ],
+   "inference": "The verse describes a form holding a dagger at the right hip and endowed with bhuta.",
+   "uncertainties": [
+    "exact subject is implied"
+   ],
+   "plain_english": "It holds a dagger at the right hip and is endowed with bhuta."
+  },
+  {
+   "verse": 798,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "god",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāmapārśve",
+     "gloss": "left-side",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahābhūtaṃ",
+     "gloss": "great-bhuta",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "arrange",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root prakalp"
+    }
+   ],
+   "question": "Where should the great bhuta be arranged relative to the god?",
+   "premises": [
+    "god is genitive",
+    "left side is mentioned",
+    "great bhuta is mentioned",
+    "arrange is commanded"
+   ],
+   "inference": "The verse instructs arranging the great bhuta at the god's left side.",
+   "uncertainties": [
+    "exact ritual arrangement is compressed"
+   ],
+   "plain_english": "Arrange the great bhuta at the god's left side."
+  },
+  {
+   "verse": 799,
+   "rows": [
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "head",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "place",
+     "grounds": "participle",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "devavāme",
+     "gloss": "god-left",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where is the skull placed and where is the form situated?",
+   "premises": [
+    "skull is mentioned",
+    "head is mentioned",
+    "place is stated",
+    "god-left is mentioned",
+    "situated is stated"
+   ],
+   "inference": "The verse places a skull on the head and situates the form at the god's left.",
+   "uncertainties": [
+    "exact relation between skull placement and form placement is compressed"
+   ],
+   "plain_english": "Place the skull on the head; the form is situated at the god's left."
+  }
+ ]
+}

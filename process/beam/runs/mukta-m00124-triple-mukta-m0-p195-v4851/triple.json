@@ -1,0 +1,1241 @@
+{
+ "song": "mukta-m0-p195",
+ "items": [
+  {
+   "verse": 4851,
+   "rows": [
+    {
+     "surface": "vasavo",
+     "gloss": "vasus",
+     "grounds": "eight vasus",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṛṣayaḥ",
+     "gloss": "sages",
+     "grounds": "seven sages",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arkāḥ",
+     "gloss": "suns",
+     "grounds": "twelve suns",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rudrāḥ",
+     "gloss": "rudras",
+     "grounds": "eleven rudras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine groups are counted among the common parivāra elements?",
+   "premises": [
+    "vasus sages suns and rudras are listed",
+    "eleven rudras are specified",
+    "these groups are common to all enclosures"
+   ],
+   "inference": "The verse enumerates vasus, sages, suns, and eleven rudras as shared parivāra constituents.",
+   "uncertainties": [
+    "exact counts beyond eleven rudras are not stated here"
+   ],
+   "plain_english": "Vasus, sages, suns, and eleven rudras are indeed the common elements."
+  },
+  {
+   "verse": 4852,
+   "rows": [
+    {
+     "surface": "sarveṣu",
+     "gloss": "all",
+     "grounds": "all enclosures",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "parivāreṣu",
+     "gloss": "in-enclosures",
+     "grounds": "parivāra contexts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sāmānyaḥ",
+     "gloss": "common",
+     "grounds": "shared element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "the listed group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "stated as common",
+     "morph": "3.sg.pass-participle"
+    }
+   ],
+   "question": "Where is this common group declared to apply?",
+   "premises": [
+    "the group is common",
+    "it applies in all enclosures",
+    "it is declared as such"
+   ],
+   "inference": "The common group applies in every parivāra enclosure.",
+   "uncertainties": [
+    "no further ritual placement is given"
+   ],
+   "plain_english": "This common group is declared for all enclosures."
+  },
+  {
+   "verse": 4853,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "shrine pavilion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdvāraṃ",
+     "gloss": "four-doored",
+     "grounds": "four doors",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "let-him-make",
+     "grounds": "instruction to make",
+     "morph": "3.sg.opt-act + root kṛ"
+    },
+    {
+     "surface": "vṛṣabhasya",
+     "gloss": "of-bull",
+     "grounds": "bull's pavilion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of pavilion should be made for the bull?",
+   "premises": [
+    "a pavilion is to be made",
+    "it is four-doored",
+    "it belongs to the bull"
+   ],
+   "inference": "The bull's pavilion should be four-doored.",
+   "uncertainties": [
+    "exact dimensions are not stated"
+   ],
+   "plain_english": "Let him make a four-doored pavilion for the bull."
+  },
+  {
+   "verse": 4854,
+   "rows": [
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "second enclosure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parivāraḥ",
+     "gloss": "enclosure",
+     "grounds": "parivāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "existence",
+     "morph": "3.sg.opt-act + root as"
+    },
+    {
+     "surface": "sacaṇḍeśaḥ",
+     "gloss": "with-caṇḍeśa",
+     "grounds": "including caṇḍeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyakaḥ",
+     "gloss": "third",
+     "grounds": "third enclosure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the second and third enclosures?",
+   "premises": [
+    "the second enclosure is a parivāra",
+    "the third is tṛtīyaka",
+    "caṇḍeśa accompanies the second"
+   ],
+   "inference": "The second enclosure is a parivāra with caṇḍeśa, and the third is tṛtīyaka.",
+   "uncertainties": [
+    "full contents of tṛtīyaka are not given"
+   ],
+   "plain_english": "The second enclosure is a parivāra with caṇḍeśa; the third is tṛtīyaka."
+  },
+  {
+   "verse": 4855,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptārciṣā",
+     "gloss": "seven-flamed",
+     "grounds": "seven flames",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "joined with",
+     "morph": "m.nom.sg.participle"
+    },
+    {
+     "surface": "pañcamo",
+     "gloss": "fifth",
+     "grounds": "fifth enclosure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "now",
+     "grounds": "present instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīritaḥ",
+     "gloss": "declared",
+     "grounds": "stated",
+     "morph": "m.nom.sg.participle"
+    }
+   ],
+   "question": "What is declared about the fifth enclosure now?",
+   "premises": [
+    "the fifth is joined with seven-flamed",
+    "it is declared now",
+    "sequence follows previous enclosures"
+   ],
+   "inference": "The fifth enclosure is now declared as joined with the seven-flamed.",
+   "uncertainties": [
+    "identity of seven-flamed is not specified"
+   ],
+   "plain_english": "Now the fifth, joined with the seven-flamed, is declared."
+  },
+  {
+   "verse": 4856,
+   "rows": [
+    {
+     "surface": "aṣṭamaḥ",
+     "gloss": "eighth",
+     "grounds": "eighth enclosure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parivāraḥ",
+     "gloss": "enclosure",
+     "grounds": "parivāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "existence",
+     "morph": "3.sg.opt-act + root as"
+    },
+    {
+     "surface": "saṃyuktaḥ",
+     "gloss": "joined",
+     "grounds": "joined with",
+     "morph": "m.nom.sg.participle"
+    },
+    {
+     "surface": "saptamātṛbhiḥ",
+     "gloss": "seven-mothers",
+     "grounds": "seven mothers",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "What accompanies the eighth enclosure?",
+   "premises": [
+    "the eighth is a parivāra",
+    "it is joined with seven mothers",
+    "it should be so"
+   ],
+   "inference": "The eighth enclosure is a parivāra joined with the seven mothers.",
+   "uncertainties": [
+    "placement details are not given"
+   ],
+   "plain_english": "The eighth enclosure is a parivāra joined with the seven mothers."
+  },
+  {
+   "verse": 4857,
+   "rows": [
+    {
+     "surface": "parivārāṣṭakaiḥ",
+     "gloss": "enclosures-eight",
+     "grounds": "eight enclosures",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "without",
+     "grounds": "lacking",
+     "morph": "n.acc.sg.participle"
+    },
+    {
+     "surface": "vimāne",
+     "gloss": "in-shrine",
+     "grounds": "shrine context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "let-him-arrange",
+     "grounds": "arrangement instruction",
+     "morph": "3.sg.opt-act + root kḷp"
+    }
+   ],
+   "question": "How should the shrine be arranged without eight enclosures?",
+   "premises": [
+    "the shrine is arranged",
+    "it is without eight enclosures",
+    "arrangement is instructed"
+   ],
+   "inference": "The shrine should be arranged even when lacking the eight enclosures.",
+   "uncertainties": [
+    "alternative arrangement is not specified"
+   ],
+   "plain_english": "Let him arrange the shrine without the eight enclosures."
+  },
+  {
+   "verse": 4858,
+   "rows": [
+    {
+     "surface": "ādityaśca",
+     "gloss": "sun",
+     "grounds": "sun included",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "be",
+     "grounds": "existence",
+     "morph": "3.sg.opt-act + root as"
+    },
+    {
+     "surface": "gaṇavidyeśvarāḥ",
+     "gloss": "gaṇa-vidyeśvaras",
+     "grounds": "gaṇa vidyeśvaras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may be placed in order after the sun?",
+   "premises": [
+    "the sun is in order",
+    "gaṇa vidyeśvaras may follow",
+    "or is an alternative"
+   ],
+   "inference": "In order, the sun may be followed by gaṇa vidyeśvaras, or an alternative may apply.",
+   "uncertainties": [
+    "the alternative is not named"
+   ],
+   "plain_english": "The sun should be in order; gaṇa vidyeśvaras or another alternative may follow."
+  },
+  {
+   "verse": 4859,
+   "rows": [
+    {
+     "surface": "padmajaṃ",
+     "gloss": "lotus-born",
+     "grounds": "lotus-born deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "let-him-place",
+     "grounds": "placement instruction",
+     "morph": "3.sg.opt-act + root sthā"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "viṣṇu",
+     "grounds": "Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadvihīnam",
+     "gloss": "or-without-that",
+     "grounds": "without that",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What placement options are given for Viṣṇu?",
+   "premises": [
+    "Viṣṇu is to be placed",
+    "lotus-born is mentioned",
+    "without that is an alternative"
+   ],
+   "inference": "Viṣṇu may be placed as lotus-born, or without that, or another alternative.",
+   "uncertainties": [
+    "the exact alternative is not specified"
+   ],
+   "plain_english": "Let him place Viṣṇu, lotus-born, or without that, or another alternative."
+  },
+  {
+   "verse": 4860,
+   "rows": [
+    {
+     "surface": "caṇḍeśam",
+     "gloss": "caṇḍeśa",
+     "grounds": "caṇḍeśa deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īśadigbhāge",
+     "gloss": "īśa-direction",
+     "grounds": "īśa direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣetrapālaṃ",
+     "gloss": "kṣetrapāla",
+     "grounds": "field protector",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "vai",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should caṇḍeśa and kṣetrapāla be placed?",
+   "premises": [
+    "caṇḍeśa is placed",
+    "kṣetrapāla is placed",
+    "both are in the īśa direction"
+   ],
+   "inference": "Caṇḍeśa and kṣetrapāla are placed in the īśa direction.",
+   "uncertainties": [
+    "exact spatial relation is not detailed"
+   ],
+   "plain_english": "Caṇḍeśa and kṣetrapāla are placed in the īśa direction there."
+  },
+  {
+   "verse": 4861,
+   "rows": [
+    {
+     "surface": "vighnasarasvatīyuktāṃ",
+     "gloss": "vighna-sarasvatī-joined",
+     "grounds": "joined with vighna Sarasvatī",
+     "morph": "f.acc.sg.participle"
+    },
+    {
+     "surface": "tṛtīyāṃ",
+     "gloss": "third",
+     "grounds": "third item",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthaṅ",
+     "gloss": "separately",
+     "grounds": "separate placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "let-him-place",
+     "grounds": "placement instruction",
+     "morph": "3.sg.opt-act + root ni-as"
+    }
+   ],
+   "question": "How may the third, joined with vighna Sarasvatī, be placed?",
+   "premises": [
+    "the third is joined with vighna Sarasvatī",
+    "it may be placed separately",
+    "placement is instructed"
+   ],
+   "inference": "The third, joined with vighna Sarasvatī, may be placed separately.",
+   "uncertainties": [
+    "the alternative placement is not specified"
+   ],
+   "plain_english": "Let him place the third, joined with vighna Sarasvatī, separately or otherwise."
+  },
+  {
+   "verse": 4862,
+   "rows": [
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "eight-directions",
+     "grounds": "eight directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "viśālāḥ",
+     "gloss": "spacious",
+     "grounds": "spacious forms",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "existence",
+     "morph": "3.pl.opt-act + root as"
+    },
+    {
+     "surface": "sapīṭhāḥ",
+     "gloss": "with-pedestals",
+     "grounds": "with pedestals",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kevalāḥ",
+     "gloss": "or-alone",
+     "grounds": "alone",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forms may appear in the eight directions?",
+   "premises": [
+    "eight directions are mentioned",
+    "spacious forms with pedestals may appear",
+    "alone is an alternative"
+   ],
+   "inference": "In the eight directions there may be spacious forms with pedestals, or alone.",
+   "uncertainties": [
+    "the exact entities are not named"
+   ],
+   "plain_english": "In the eight directions there may be spacious forms with pedestals, or alone."
+  },
+  {
+   "verse": 4863,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "twelve",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "existence",
+     "morph": "3.pl.opt-act + root as"
+    },
+    {
+     "surface": "dviraṣṭau",
+     "gloss": "sixteen",
+     "grounds": "sixteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturviṃśati",
+     "gloss": "twenty-four",
+     "grounds": "twenty-four",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyakā",
+     "gloss": "numbered",
+     "grounds": "numbered count",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What numbered counts are possible?",
+   "premises": [
+    "twelve may be",
+    "sixteen may be",
+    "twenty-four may be numbered"
+   ],
+   "inference": "The possible numbered counts include twelve, sixteen, and twenty-four.",
+   "uncertainties": [
+    "what is being counted is not stated"
+   ],
+   "plain_english": "There may be twelve, sixteen, or twenty-four numbered items."
+  },
+  {
+   "verse": 4864,
+   "rows": [
+    {
+     "surface": "dviraṣṭaparivāro",
+     "gloss": "sixteen-enclosure",
+     "grounds": "sixteen-enclosure form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "this form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "among them",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saumyaṃ",
+     "gloss": "gentle",
+     "grounds": "gentle form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "3.sg.pass-act + root gad"
+    }
+   ],
+   "question": "What is declared about this sixteen-enclosure form?",
+   "premises": [
+    "this is a sixteen-enclosure form",
+    "it is among them",
+    "it is declared gentle"
+   ],
+   "inference": "This sixteen-enclosure form is declared gentle among them.",
+   "uncertainties": [
+    "the referent of them is not explicit"
+   ],
+   "plain_english": "This sixteen-enclosure form is declared gentle among them."
+  },
+  {
+   "verse": 4865,
+   "rows": [
+    {
+     "surface": "ādityaṃ",
+     "gloss": "sun",
+     "grounds": "sun deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suprajaṃ",
+     "gloss": "supraja",
+     "grounds": "supraja",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "fire deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kinnaraṃ",
+     "gloss": "kinnara",
+     "grounds": "kinnara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mātaraṃ",
+     "gloss": "mother",
+     "grounds": "mother deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "and so on",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are listed in this group?",
+   "premises": [
+    "sun is listed",
+    "supraja is listed",
+    "fire kinnara and mother are listed"
+   ],
+   "inference": "The group includes sun, supraja, fire, kinnara, and mother.",
+   "uncertainties": [
+    "the full list may continue"
+   ],
+   "plain_english": "The group includes sun, supraja, fire, kinnara, and mother, and so on."
+  },
+  {
+   "verse": 4866,
+   "rows": [
+    {
+     "surface": "skandaṃ",
+     "gloss": "skanda",
+     "grounds": "Skanda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jyeṣṭhāṃ",
+     "gloss": "jyeṣṭhā",
+     "grounds": "Jyeṣṭhā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "Durgā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "viṣṇu",
+     "grounds": "Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caṇḍeśvaraṃ",
+     "gloss": "caṇḍeśvara",
+     "grounds": "Caṇḍeśvara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "and so on",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities continue the listed group?",
+   "premises": [
+    "Skanda is listed",
+    "Jyeṣṭhā and Durgā are listed",
+    "Viṣṇu and Caṇḍeśvara are listed"
+   ],
+   "inference": "The group continues with Skanda, Jyeṣṭhā, Durgā, Viṣṇu, and Caṇḍeśvara.",
+   "uncertainties": [
+    "the list may continue further"
+   ],
+   "plain_english": "The group continues with Skanda, Jyeṣṭhā, Durgā, Viṣṇu, and Caṇḍeśvara, and so on."
+  },
+  {
+   "verse": 4867,
+   "rows": [
+    {
+     "surface": "asminneva",
+     "gloss": "in-this-very-place",
+     "grounds": "in this very place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pade",
+     "gloss": "pada",
+     "grounds": "pada",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarviṃdyeśāḥ",
+     "gloss": "inner-vindu-īśas",
+     "grounds": "inner vindu īśas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvārapāḥ",
+     "gloss": "doorkeepers",
+     "grounds": "doorkeepers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may be placed in this very pada?",
+   "premises": [
+    "this very pada is mentioned",
+    "inner vindu īśas may be placed",
+    "doorkeepers or an alternative may be placed"
+   ],
+   "inference": "In this very pada, inner vindu īśas, doorkeepers, or an alternative may be placed.",
+   "uncertainties": [
+    "the alternative is not specified"
+   ],
+   "plain_english": "In this very pada, inner vindu īśas, doorkeepers, or another alternative may be placed."
+  },
+  {
+   "verse": 4868,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-sthaṇḍila",
+     "grounds": "on sthaṇḍila",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pade",
+     "gloss": "pada",
+     "grounds": "pada",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "let-him-place",
+     "grounds": "placement instruction",
+     "morph": "absolutive + root sthā"
+    },
+    {
+     "surface": "dvātriṃśat",
+     "gloss": "thirty-two",
+     "grounds": "thirty-two",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ravibhāgataḥ",
+     "gloss": "ravi-parts",
+     "grounds": "ravi parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be placed on sthaṇḍila in the pada?",
+   "premises": [
+    "placement is on sthaṇḍila",
+    "thirty-two are mentioned",
+    "ravi parts are the basis"
+   ],
+   "inference": "Thirty-two should be placed on sthaṇḍila in the pada according to ravi parts.",
+   "uncertainties": [
+    "the exact thirty-two items are not listed here"
+   ],
+   "plain_english": "Let him place thirty-two on sthaṇḍila in the pada according to ravi parts."
+  },
+  {
+   "verse": 4869,
+   "rows": [
+    {
+     "surface": "yamaṃ",
+     "gloss": "yama",
+     "grounds": "Yama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suśāntaṃ",
+     "gloss": "very-peaceful",
+     "grounds": "very peaceful",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūteśaṃ",
+     "gloss": "bhūteśa",
+     "grounds": "Bhūteśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vighneśaṃ",
+     "gloss": "vighneśa",
+     "grounds": "Vighneśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāratīm",
+     "gloss": "bhāratī",
+     "grounds": "Bhāratī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are listed in this placement group?",
+   "premises": [
+    "Yama is listed",
+    "Bhūteśa and Vighneśa are listed",
+    "Bhāratī is also listed"
+   ],
+   "inference": "The placement group includes Yama, Bhūteśa, Vighneśa, and Bhāratī.",
+   "uncertainties": [
+    "the full sequence is not complete"
+   ],
+   "plain_english": "The group includes Yama, very peaceful, Bhūteśa, Vighneśa, and Bhāratī also."
+  },
+  {
+   "verse": 4870,
+   "rows": [
+    {
+     "surface": "brahmāṇaṃ",
+     "gloss": "brahmā",
+     "grounds": "Brahmā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "viṣṇu",
+     "grounds": "Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the end",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāśyapaṃ",
+     "gloss": "kāśyapa",
+     "grounds": "Kāśyapa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nandinaṃ",
+     "gloss": "nandin",
+     "grounds": "Nandin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "and so on",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities appear at the end of this list?",
+   "premises": [
+    "Brahmā and Viṣṇu are listed",
+    "Kāśyapa and Nandin are at the end",
+    "and so on may continue"
+   ],
+   "inference": "At the end of the list appear Kāśyapa and Nandin, with possible continuation.",
+   "uncertainties": [
+    "the exact endpoint is not stated"
+   ],
+   "plain_english": "Brahmā and Viṣṇu are listed, and at the end Kāśyapa and Nandin, and so on."
+  },
+  {
+   "verse": 4871,
+   "rows": [
+    {
+     "surface": "antarviṣadyeśvarān",
+     "gloss": "inner-viṣadyeśvaras",
+     "grounds": "inner viṣadyeśvaras",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṣīn",
+     "gloss": "sages",
+     "grounds": "sages",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "let-him-place",
+     "grounds": "placement instruction",
+     "morph": "3.sg.opt-act + root ni-as"
+    },
+    {
+     "surface": "vasūn",
+     "gloss": "vasus",
+     "grounds": "vasus",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What may be placed among the inner viṣadyeśvaras?",
+   "premises": [
+    "inner viṣadyeśvaras are mentioned",
+    "sages or vasus may be placed",
+    "placement is instructed"
+   ],
+   "inference": "Among the inner viṣadyeśvaras, sages or vasus may be placed.",
+   "uncertainties": [
+    "the choice between alternatives is not resolved"
+   ],
+   "plain_english": "Let him place inner viṣadyeśvaras, or sages, or vasus."
+  },
+  {
+   "verse": 4872,
+   "rows": [
+    {
+     "surface": "ekasālādisāleṣu",
+     "gloss": "single-hall-etc",
+     "grounds": "single hall etc",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "by-method",
+     "grounds": "by method",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "everywhere",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "let-him-join",
+     "grounds": "joining instruction",
+     "morph": "3.sg.opt-act + root yuj"
+    }
+   ],
+   "question": "How should halls be joined everywhere?",
+   "premises": [
+    "single hall etc are mentioned",
+    "joining is by method",
+    "it applies everywhere"
+   ],
+   "inference": "In single-hall and similar halls, joining should be done by method everywhere.",
+   "uncertainties": [
+    "the method is not specified"
+   ],
+   "plain_english": "Let him join by method everywhere in single-hall and similar halls."
+  },
+  {
+   "verse": 4873,
+   "rows": [
+    {
+     "surface": "vṛṣaṃ",
+     "gloss": "bull",
+     "grounds": "bull",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "trident",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍeśaṃ",
+     "gloss": "caṇḍeśa",
+     "grounds": "Caṇḍeśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāpīṭhaṃ",
+     "gloss": "great-pedestal",
+     "grounds": "great pedestal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaṇādhipam",
+     "gloss": "gaṇādhipa",
+     "grounds": "gaṇādhipa",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which items are listed for placement here?",
+   "premises": [
+    "bull is listed",
+    "trident and caṇḍeśa are listed",
+    "great pedestal and gaṇādhipa are listed"
+   ],
+   "inference": "The listed items include bull, trident, caṇḍeśa, great pedestal, and gaṇādhipa.",
+   "uncertainties": [
+    "their exact arrangement is not stated"
+   ],
+   "plain_english": "The items include bull, trident, caṇḍeśa, great pedestal, and gaṇādhipa."
+  },
+  {
+   "verse": 4874,
+   "rows": [
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "of these",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "madhyāt",
+     "gloss": "middle",
+     "grounds": "from the middle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atheṣṭān",
+     "gloss": "then",
+     "grounds": "then desired ones",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "let-him-place",
+     "grounds": "placement instruction",
+     "morph": "3.sg.opt-act + root ni-as"
+    },
+    {
+     "surface": "pañcādisālake",
+     "gloss": "five-etc-hall",
+     "grounds": "five etc hall",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What may be placed from among these in the five-etc hall?",
+   "premises": [
+    "from among these is specified",
+    "desired ones may be chosen",
+    "placement is in the five-etc hall"
+   ],
+   "inference": "From among these, desired ones may be placed in the five-etc hall.",
+   "uncertainties": [
+    "which desired ones are not specified"
+   ],
+   "plain_english": "Let him place desired ones from among these in the five-etc hall."
+  }
+ ]
+}

@@ -1,0 +1,911 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3776,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-indeed",
+     "grounds": "fused ta+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śikharaṃ",
+     "gloss": "peak",
+     "grounds": "noun accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural feminine",
+     "morph": "n.loc.pl.f"
+    },
+    {
+     "surface": "cārdhakoṣṭhakasaṃyutam",
+     "gloss": "and-half-cell-joined",
+     "grounds": "compound with sandhi c+a",
+     "morph": "compound"
+    }
+   ],
+   "question": "What peak form is joined with half-cells in the directions?",
+   "premises": [
+    "tadeva means that indeed",
+    "śikharaṃ means peak",
+    "dikṣu means in directions"
+   ],
+   "inference": "The peak is joined with half-cells in the directions.",
+   "uncertainties": [
+    "exact gender of dikṣu"
+   ],
+   "plain_english": "That peak is joined with half-cells in the directions."
+  },
+  {
+   "verse": 3777,
+   "rows": [
+    {
+     "surface": "nānādhiṣṭhānasaṃyuktaṃ",
+     "gloss": "various-bases-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāmnaitatsvastikaṃ",
+     "gloss": "name-this-svastika",
+     "grounds": "fused nāmnā+etat",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb third singular optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What name is given to the form joined with various bases?",
+   "premises": [
+    "nānādhiṣṭhānasaṃyuktaṃ means various bases joined",
+    "nāmnaitatsvastikaṃ means by name this svastika",
+    "bhavet means becomes"
+   ],
+   "inference": "The form joined with various bases becomes svastika by name.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "Joined with various bases, it becomes svastika by name."
+  },
+  {
+   "verse": 3778,
+   "rows": [
+    {
+     "surface": "hārapañjarasaṃyuktaṃ",
+     "gloss": "garland-lattice-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalyāṇamiṣyate",
+     "gloss": "auspicious-is-called",
+     "grounds": "compound verb",
+     "morph": "compound"
+    }
+   ],
+   "question": "What name is given to the form joined with garland lattice?",
+   "premises": [
+    "hārapañjarasaṃyuktaṃ means garland lattice joined",
+    "nāmnā means by name",
+    "kalyāṇamiṣyate means auspicious is called"
+   ],
+   "inference": "The garland-lattice-joined form is called auspicious by name.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "Joined with garland lattice, it is called auspicious by name."
+  },
+  {
+   "verse": 3779,
+   "rows": [
+    {
+     "surface": "caturṇāsisamāyuktam",
+     "gloss": "four-corners-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "etatpāñcālamiṣyate",
+     "gloss": "this-pancala-is-called",
+     "grounds": "fused etat+pāñcālam",
+     "morph": "compound"
+    }
+   ],
+   "question": "What name is given to the form joined at four corners?",
+   "premises": [
+    "caturṇāsisamāyuktam means four corners joined",
+    "etatpāñcālamiṣyate means this pancala is called"
+   ],
+   "inference": "The four-corner-joined form is called pancala.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "Joined at four corners, it is called pancala."
+  },
+  {
+   "verse": 3780,
+   "rows": [
+    {
+     "surface": "śikharāṣṭamahānāsiyuktaṃ",
+     "gloss": "peak-eight-great-nose-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "syādviṣṇukāntakam",
+     "gloss": "becomes-vishnu-beloved",
+     "grounds": "fused syāt+viṣṇukāntakam",
+     "morph": "compound"
+    }
+   ],
+   "question": "What form becomes vishnu-beloved when joined with eight great noses on the peak?",
+   "premises": [
+    "śikharāṣṭamahānāsiyuktaṃ means peak eight great nose joined",
+    "syādviṣṇukāntakam means becomes vishnu beloved"
+   ],
+   "inference": "The peak form with eight great noses becomes vishnu-beloved.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "With eight great noses on the peak, it becomes vishnu-beloved."
+  },
+  {
+   "verse": 3781,
+   "rows": [
+    {
+     "surface": "taccaturbhāgamānena",
+     "gloss": "that-four-part-measure",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāyataṃ",
+     "gloss": "and-elongated",
+     "grounds": "fused ca+āyataṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "noun accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What square form is elongated by that four-part measure?",
+   "premises": [
+    "taccaturbhāgamānena means that four part measure",
+    "cāyataṃ means and elongated",
+    "caturaśrakam means square"
+   ],
+   "inference": "The square form is elongated by that four-part measure.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "By that four-part measure, the square form is elongated."
+  },
+  {
+   "verse": 3782,
+   "rows": [
+    {
+     "surface": "sthūpitrayasamāyuktaṃ",
+     "gloss": "stupa-three-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tannāmnaitatsumaṅgalaṃ",
+     "gloss": "that-name-this-auspicious",
+     "grounds": "fused tat+nāmnā+etat+sumaṅgalam",
+     "morph": "compound"
+    }
+   ],
+   "question": "What name is given to the form joined with three stupas?",
+   "premises": [
+    "sthūpitrayasamāyuktaṃ means stupa three joined",
+    "tannāmnaitatsumaṅgalaṃ means that name this auspicious"
+   ],
+   "inference": "The form joined with three stupas is called auspicious by name.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "Joined with three stupas, it is called auspicious by name."
+  },
+  {
+   "verse": 3783,
+   "rows": [
+    {
+     "surface": "sarvāvayavasaṃyuktam",
+     "gloss": "all-parts-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "etadgāndhāramiṣyate",
+     "gloss": "this-gandhara-is-called",
+     "grounds": "fused etat+gāndhāram",
+     "morph": "compound"
+    }
+   ],
+   "question": "What name is given to the form joined with all parts?",
+   "premises": [
+    "sarvāvayavasaṃyuktam means all parts joined",
+    "etadgāndhāramiṣyate means this gandhara is called"
+   ],
+   "inference": "The form joined with all parts is called gandhara.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "Joined with all parts, it is called gandhara."
+  },
+  {
+   "verse": 3784,
+   "rows": [
+    {
+     "surface": "dvyaśravṛttaśiroyuktaṃ",
+     "gloss": "two-corner-round-head-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "netraśālāmukhānvitam",
+     "gloss": "window-hall-mouth-endowed",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What form is endowed with window-hall mouth and joined with two-corner round head?",
+   "premises": [
+    "dvyaśravṛttaśiroyuktaṃ means two corner round head joined",
+    "netraśālāmukhānvitam means window hall mouth endowed"
+   ],
+   "inference": "The form is joined with two-corner round head and endowed with window-hall mouth.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "It is joined with a two-corner round head and endowed with a window-hall mouth."
+  },
+  {
+   "verse": 3785,
+   "rows": [
+    {
+     "surface": "caturaśramadhiṣṭhānaṃ",
+     "gloss": "square-base",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "noun nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "syādgarbhagehakam",
+     "gloss": "becomes-womb-house",
+     "grounds": "fused syāt+garbhagehakam",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes a womb-house when the square base is round?",
+   "premises": [
+    "caturaśramadhiṣṭhānaṃ means square base",
+    "vṛttaṃ means round",
+    "syādgarbhagehakam means becomes womb house"
+   ],
+   "inference": "When the square base is round, it becomes a womb-house.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "When the square base is round, it becomes a womb-house."
+  },
+  {
+   "verse": 3786,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-indeed",
+     "grounds": "fused ta+eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "janmādyākumbhād",
+     "gloss": "birth-etc-pot-from",
+     "grounds": "compound ablative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "noun nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "cettu",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bahirbahiḥ",
+     "gloss": "outside-outside",
+     "grounds": "reduplicated adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What condition makes the round form outside from the birth-pot?",
+   "premises": [
+    "tadeva means that indeed",
+    "janmādyākumbhād means from birth etc pot",
+    "vṛttaṃ means round",
+    "cettu means if",
+    "bahirbahiḥ means outside outside"
+   ],
+   "inference": "If round from the birth-pot, it is outside outside.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "That round form, if from the birth-pot, is outside outside."
+  },
+  {
+   "verse": 3787,
+   "rows": [
+    {
+     "surface": "dvibhūmirevamākhyātā",
+     "gloss": "two-storied-thus-called",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhūmiradhunocyate",
+     "gloss": "three-storied-now-said",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is now said after the two-storied form?",
+   "premises": [
+    "dvibhūmirevamākhyātā means two storied thus called",
+    "tribhūmiradhunocyate means three storied now said"
+   ],
+   "inference": "After the two-storied form, the three-storied form is now said.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "The two-storied form is thus called; now the three-storied form is said."
+  },
+  {
+   "verse": 3788,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kūṭavistāraṃ",
+     "gloss": "peak-width",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "koṣṭhāddvitriguṇāyatam",
+     "gloss": "cell-from-two-three-times-elongated",
+     "grounds": "fused koṣṭhāt+dvitriguṇāyatam",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is peak width elongated from the cell?",
+   "premises": [
+    "bhāgena means by part",
+    "kūṭavistāraṃ means peak width",
+    "koṣṭhāddvitriguṇāyatam means from cell two three times elongated"
+   ],
+   "inference": "Peak width is elongated from the cell by two or three times.",
+   "uncertainties": [
+    "exact sandhi split"
+   ],
+   "plain_english": "Peak width is elongated from the cell by two or three times."
+  },
+  {
+   "verse": 3789,
+   "rows": [
+    {
+     "surface": "ūrdhvakṣmatāre",
+     "gloss": "upward-earth-star",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍbhāge",
+     "gloss": "six-part",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "part",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kūṭasya",
+     "gloss": "peak's",
+     "grounds": "genitive singular masculine",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "width",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the peak width at the upward earth-star six-part?",
+   "premises": [
+    "ūrdhvakṣmatāre means upward earth star",
+    "ṣaḍbhāge means six part",
+    "bhāgaḥ means part",
+    "kūṭasya means peak's",
+    "vistaraḥ means width"
+   ],
+   "inference": "The peak's width is a part at the upward earth-star six-part.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "At the upward earth-star six-part, the peak's width is one part."
+  },
+  {
+   "verse": 3790,
+   "rows": [
+    {
+     "surface": "ūrdhvabhūmer",
+     "gloss": "upper-storied",
+     "grounds": "compound genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "two-part",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhyabhadraṃ",
+     "gloss": "central-auspicious",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "prescribed",
+     "grounds": "verb third singular passive present",
+     "morph": "v.3.sg.pass"
+    }
+   ],
+   "question": "How is the central auspicious prescribed for the upper storied?",
+   "premises": [
+    "ūrdhvabhūmer means upper storied",
+    "dvibhāgena means by two part",
+    "madhyabhadraṃ means central auspicious",
+    "vidhīyate means prescribed"
+   ],
+   "inference": "The central auspicious is prescribed for the upper storied by two parts.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "For the upper storied, the central auspicious is prescribed by two parts."
+  },
+  {
+   "verse": 3791,
+   "rows": [
+    {
+     "surface": "vimānoccaṃ",
+     "gloss": "vimana-height",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhajeccaturviśatisaṃkhyayā",
+     "gloss": "divide-by-twenty-four-number",
+     "grounds": "compound verb",
+     "morph": "compound"
+    }
+   ],
+   "question": "By what number is vimana height divided?",
+   "premises": [
+    "vimānoccaṃ means vimana height",
+    "tu means but",
+    "vibhajeccaturviśatisaṃkhyayā means divide by twenty four number"
+   ],
+   "inference": "Vimana height is divided by twenty-four number.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "Vimana height is divided by twenty-four."
+  },
+  {
+   "verse": 3792,
+   "rows": [
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prastaraḥ",
+     "gloss": "cornice",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pādaḥ",
+     "gloss": "base",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "satripādaguṇāṃśakaiḥ",
+     "gloss": "with-three-foot-multiplied-parts",
+     "grounds": "compound instrumental plural",
+     "morph": "compound"
+    }
+   ],
+   "question": "What parts make up cornice and base?",
+   "premises": [
+    "dvibhāgaḥ means two part",
+    "prastaraḥ means cornice",
+    "pādaḥ means base",
+    "satripādaguṇāṃśakaiḥ means with three foot multiplied parts"
+   ],
+   "inference": "Cornice and base are made with two parts and three-foot multiplied parts.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "Cornice and base are made with two parts and three-foot multiplied parts."
+  },
+  {
+   "verse": 3793,
+   "rows": [
+    {
+     "surface": "sapādabhāgo",
+     "gloss": "one-and-quarter-part",
+     "grounds": "compound nominative",
+     "morph": "compound"
+    },
+    {
+     "surface": "mañcaḥ",
+     "gloss": "platform",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "verb third singular optative",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "sārdhakaṃ kaṇṭhamīritam",
+     "gloss": "half-neck-said",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes a platform with one-and-quarter part and half neck?",
+   "premises": [
+    "sapādabhāgo means one and quarter part",
+    "mañcaḥ means platform",
+    "syāt means becomes",
+    "sārdhakaṃ kaṇṭhamīritam means half neck said"
+   ],
+   "inference": "A platform becomes with one-and-quarter part and half neck.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "A platform becomes with one-and-quarter part and half neck."
+  },
+  {
+   "verse": 3794,
+   "rows": [
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "cell",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nīḍaṃ",
+     "gloss": "nest",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vasusaṃkhyāsamīritam",
+     "gloss": "eight-number-said",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What are peak, cell, and nest said to be?",
+   "premises": [
+    "kūṭaṃ means peak",
+    "koṣṭhaṃ means cell",
+    "nīḍaṃ means nest",
+    "vasusaṃkhyāsamīritam means eight number said"
+   ],
+   "inference": "Peak, cell, and nest are said to be eight in number.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "Peak, cell, and nest are said to be eight in number."
+  },
+  {
+   "verse": 3795,
+   "rows": [
+    {
+     "surface": "dvitīye",
+     "gloss": "second",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tṛtīye",
+     "gloss": "third",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakranīḍāstu",
+     "gloss": "wheel-nests-are",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "indeclinable numeral",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many wheel-nests are in the second and third?",
+   "premises": [
+    "dvitīye means second",
+    "tṛtīye means third",
+    "cakranīḍāstu means wheel nests are",
+    "ṣoḍaśa means sixteen"
+   ],
+   "inference": "In the second and third, wheel-nests are sixteen.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "In the second and third, wheel-nests are sixteen."
+  },
+  {
+   "verse": 3796,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-peak",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahānāsyaś",
+     "gloss": "great-nose",
+     "grounds": "compound nominative",
+     "morph": "compound"
+    },
+    {
+     "surface": "catasraḥ",
+     "gloss": "four",
+     "grounds": "nominative plural feminine",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "participle nominative plural feminine",
+     "morph": "part.nom.pl.f"
+    }
+   ],
+   "question": "How many great noses are proclaimed on the peak?",
+   "premises": [
+    "śikhare means on peak",
+    "mahānāsyaś means great nose",
+    "catasraḥ means four",
+    "parikīrtitāḥ means proclaimed"
+   ],
+   "inference": "Four great noses are proclaimed on the peak.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "Four great noses are proclaimed on the peak."
+  },
+  {
+   "verse": 3797,
+   "rows": [
+    {
+     "surface": "vimānākṛtikaṃ",
+     "gloss": "vimana-shaped",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvālaṅkārasaṃyutam",
+     "gloss": "all-ornaments-joined",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is vimana-shaped and joined with all ornaments?",
+   "premises": [
+    "vimānākṛtikaṃ means vimana shaped",
+    "nāmnā means by name",
+    "sarvālaṅkārasaṃyutam means all ornaments joined"
+   ],
+   "inference": "The vimana-shaped form is joined with all ornaments by name.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "The vimana-shaped form is joined with all ornaments by name."
+  },
+  {
+   "verse": 3798,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-width",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vasubhāgāḥ",
+     "gloss": "eight-parts",
+     "grounds": "compound nominative plural",
+     "morph": "compound"
+    },
+    {
+     "surface": "syur",
+     "gloss": "are",
+     "grounds": "verb third plural optative",
+     "morph": "v.3.pl.opt"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative singular masculine",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dvādaśāṃśakam",
+     "gloss": "twelve-parts",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many parts are in width and length?",
+   "premises": [
+    "vistāre means in width",
+    "vasubhāgāḥ means eight parts",
+    "syur means are",
+    "āyāme means in length",
+    "dvādaśāṃśakam means twelve parts"
+   ],
+   "inference": "In width there are eight parts and in length twelve parts.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "In width there are eight parts, and in length twelve parts."
+  },
+  {
+   "verse": 3799,
+   "rows": [
+    {
+     "surface": "masūrakācchiro'ntaṃ",
+     "gloss": "lentil-like-head-end",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvyaṃśavṛttaṃ",
+     "gloss": "two-part-round",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "make",
+     "grounds": "verb third singular optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should be made at the lentil-like head end?",
+   "premises": [
+    "masūrakācchiro'ntaṃ means lentil like head end",
+    "dvyaṃśavṛttaṃ means two part round",
+    "kārayet means make"
+   ],
+   "inference": "At the lentil-like head end, a two-part round form should be made.",
+   "uncertainties": [
+    "exact compound split"
+   ],
+   "plain_english": "At the lentil-like head end, make a two-part round form."
+  }
+ ]
+}

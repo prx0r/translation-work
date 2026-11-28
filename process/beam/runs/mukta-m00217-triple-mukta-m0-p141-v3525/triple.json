@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "staimityāt",
+     "gloss": "from-stupor",
+     "grounds": "ablative of cause; denotes inertia or dullness",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to prior causes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudyogāt",
+     "gloss": "from-exertion",
+     "grounds": "ablative of cause; denotes active undertaking",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "aśubheṣu",
+     "gloss": "in-inauspicious",
+     "grounds": "adjective qualifying actions; locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "in-actions",
+     "grounds": "locative plural noun denoting deeds",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What further conditions impel a person toward inauspicious actions?",
+   "premises": [
+    "Stupor can function as a motivating condition.",
+    "Exertion may be directed toward inauspicious actions.",
+    "These conditions extend the previously listed causes."
+   ],
+   "inference": "Stupor and exertion in inauspicious actions are additional impelling conditions.",
+   "uncertainties": [
+    "The exact syntactic scope of tu in relation to samudyogāt is slightly ambiguous."
+   ],
+   "plain_english": "And from stupor, and also from exertion in inauspicious actions."
+  }
+ ]
+}

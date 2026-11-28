@@ -1,0 +1,134 @@
+{
+ "song": "mukta-m00407-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrī",
+     "gloss": "hrim",
+     "grounds": "bija syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaumārya",
+     "gloss": "o-kaumari",
+     "grounds": "address to Kaumari; form as given",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hṛdaya+ādi+pūjā",
+     "gloss": "heart-etc-worship",
+     "grounds": "compound indicating worship beginning with the heart",
+     "morph": "compound=f.sg.nom"
+    },
+    {
+     "surface": "candana+akṣata+pūspa+dhūpa+dipa+naivedya+ādikaṃ",
+     "gloss": "sandal-unbroken-rice-flower-incense-lamp-food-offering-etc",
+     "grounds": "compound listing ritual offerings",
+     "morph": "compound=n.sg.acc"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund (√dā)"
+    },
+    {
+     "surface": "japya",
+     "gloss": "to-be-recited",
+     "grounds": "gerundive indicating required recitation",
+     "morph": "gerundive (√jap)"
+    },
+    {
+     "surface": "stotra",
+     "gloss": "hymn",
+     "grounds": "object of recitation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What offerings and recitations are prescribed after invoking Kaumari with the opening seed syllables?",
+   "premises": [
+    "The seed syllables om and hrim open the ritual address.",
+    "Worship beginning with the heart and various offerings are to be given.",
+    "A hymn is to be recited after giving the offerings."
+   ],
+   "inference": "The ritual sequence requires invoking Kaumari with seed syllables, performing heart-centered worship with offerings, and then reciting a hymn.",
+   "uncertainties": [
+    "The exact referent of hṛdaya+ādi+pūjā within this specific tradition is UNC."
+   ],
+   "plain_english": "Om, hrim. O Kaumari, after performing worship beginning with the heart and offering sandal, unbroken rice, flowers, incense, lamp, food offerings, and so forth, a hymn is to be recited."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "tuṃvureśvarīya",
+     "gloss": "for-tumburesvari",
+     "grounds": "address or dedication to Tumburesvari; form as given",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "āgnaya+ādi",
+     "gloss": "beginning-with-southeast-etc",
+     "grounds": "compound indicating directional sequence starting from southeast",
+     "morph": "compound"
+    },
+    {
+     "surface": "īśāna+antaṃ",
+     "gloss": "ending-with-northeast",
+     "grounds": "compound indicating directional sequence ending at northeast",
+     "morph": "compound=n.sg.acc"
+    },
+    {
+     "surface": "āvāhana+ādī",
+     "gloss": "invocation-etc",
+     "grounds": "compound indicating invocation and related acts",
+     "morph": "compound"
+    },
+    {
+     "surface": "tato+sala+pūjā",
+     "gloss": "then-water-offering-worship",
+     "grounds": "compound indicating subsequent worship with water offering; 'sala' form as given",
+     "morph": "compound=f.sg.nom"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānaṃtāya+tya+ādi",
+     "gloss": "beginning-with-anantaya-etc",
+     "grounds": "compound indicating sequence beginning with Anantaya; internal form as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "āvāhanā",
+     "gloss": "invocation",
+     "grounds": "ritual act of summoning",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the directional invocation and subsequent worship structured for Tumburesvari in this ritual sequence?",
+   "premises": [
+    "The ritual is directed to Tumburesvari.",
+    "Invocation and related acts proceed from the southeast direction to the northeast.",
+    "After that, water-offering worship and further invocation beginning with Anantaya are performed."
+   ],
+   "inference": "The worship of Tumburesvari involves a directional invocation from southeast to northeast, followed by water-offering worship and additional invocations starting with Anantaya.",
+   "uncertainties": [
+    "The exact reading and meaning of 'sala' in tato+sala+pūjā is UNC.",
+    "The internal segmentation of ānaṃtāya+tya+ādi is UNC."
+   ],
+   "plain_english": "For Tumburesvari, perform invocation and related acts beginning with the southeast and ending with the northeast; then perform water-offering worship. Om, invocation beginning with Anantaya and so forth."
+  }
+ ]
+}

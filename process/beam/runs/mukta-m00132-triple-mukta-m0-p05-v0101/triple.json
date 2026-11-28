@@ -1,0 +1,1131 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "svarge",
+     "gloss": "in-heaven",
+     "grounds": "locative of realm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "martye",
+     "gloss": "in-mortal-world",
+     "grounds": "locative of realm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātāle",
+     "gloss": "in-netherworld",
+     "grounds": "locative of realm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "repeated relative for distributive sense",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sidhyanti",
+     "gloss": "succeed",
+     "grounds": "attain accomplishment",
+     "morph": "3.pl.pres.act √sidh"
+    },
+    {
+     "surface": "sādhakāḥ",
+     "gloss": "practitioners",
+     "grounds": "ritual adepts",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "In which realms do practitioners attain spiritual accomplishment?",
+   "premises": [
+    "Heaven is a realm of attainment",
+    "The mortal world is a realm of attainment",
+    "The netherworld is a realm of attainment"
+   ],
+   "inference": "Practitioners can achieve accomplishment in all three realms.",
+   "uncertainties": [],
+   "plain_english": "Practitioners who succeed do so in heaven, in the mortal world, and in the netherworld."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "vadhūbījatrayaṃ",
+     "gloss": "bride-seed-triad",
+     "grounds": "compound naming three seed syllables",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmākhyā",
+     "gloss": "kāmākhyā",
+     "grounds": "name of the goddess or mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punarvadet",
+     "gloss": "again-should-say",
+     "grounds": "instruction to repeat",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "Which mantra elements must be uttered again in sequence?",
+   "premises": [
+    "The bride-seed triad is specified",
+    "Kāmākhyā is specified",
+    "The instruction requires repetition"
+   ],
+   "inference": "One should again utter the bride-seed triad and Kāmākhyā.",
+   "uncertainties": [
+    "The exact syllables of vadhūbījatrayaṃ are not specified here"
+   ],
+   "plain_english": "One should again utter the triad of bride-seeds and Kāmākhyā."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "ṭhadvayānte",
+     "gloss": "at-ṭha-pair-end",
+     "grounds": "compound indicating placement after two ṭha syllables",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "taught or stated",
+     "morph": "m.nom.sg (past participle)"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "across all tantric texts",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "difficult-to-obtain",
+     "grounds": "rare and hard to find",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How rare is the mantra ending with the pair of ṭha syllables?",
+   "premises": [
+    "The mantra is declared in all tantras",
+    "The mantra ends with a pair of ṭha syllables",
+    "It is described as difficult to obtain"
+   ],
+   "inference": "This mantra, though known in all tantras, is rare and difficult to obtain.",
+   "uncertainties": [
+    "The precise phonetic form indicated by ṭhadvayānte is not fully explicit"
+   ],
+   "plain_english": "The mantra ending with the pair of ṭha syllables is declared in all tantras and is difficult to obtain."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "caturvagapradā",
+     "gloss": "four-goals-granting",
+     "grounds": "bestowing the four aims of life",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "immediately, in person",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpātakanāśinī",
+     "gloss": "great-sin-destroying",
+     "grounds": "removing major transgressions",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "What direct benefits does this mantra bestow upon its practitioner?",
+   "premises": [
+    "The mantra grants the four goals",
+    "The mantra acts directly",
+    "The mantra destroys great sins"
+   ],
+   "inference": "The mantra directly grants the four goals and destroys great sins.",
+   "uncertainties": [],
+   "plain_english": "It directly grants the four aims of life and destroys great sins."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "naśyanti",
+     "gloss": "they-perish",
+     "grounds": "are destroyed",
+     "morph": "3.pl.pres.act √naś"
+    },
+    {
+     "surface": "dahane",
+     "gloss": "in-fire",
+     "grounds": "in blazing fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīpte",
+     "gloss": "blazing",
+     "grounds": "kindled, burning",
+     "morph": "m.loc.sg (past participle)"
+    },
+    {
+     "surface": "pataṅgā",
+     "gloss": "moths",
+     "grounds": "insects drawn to flame",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How completely are sins destroyed by the power of this mantra?",
+   "premises": [
+    "Sins perish through the mantra's power",
+    "Moths perish in blazing fire",
+    "The comparison indicates total destruction"
+   ],
+   "inference": "Sins are utterly destroyed, like moths in a blazing fire.",
+   "uncertainties": [
+    "The subject 'sins' is implied from the previous verse"
+   ],
+   "plain_english": "O Pārvatī, they perish like moths in a blazing fire."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "bhuktiḥ",
+     "gloss": "enjoyment",
+     "grounds": "worldly experience",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "spiritual release",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "within one's grasp",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "among all people",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "priyatāṃ",
+     "gloss": "dearness",
+     "grounds": "state of being beloved",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "he-attains",
+     "grounds": "he goes to, reaches",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "What personal attainments result for the practitioner of this mantra?",
+   "premises": [
+    "Enjoyment is in his hand",
+    "Liberation is in his hand",
+    "He attains dearness to all"
+   ],
+   "inference": "The practitioner gains both enjoyment and liberation and becomes dear to all.",
+   "uncertainties": [],
+   "plain_english": "Enjoyment and liberation are in his hand, and he becomes dear to all."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "putrāḥ",
+     "gloss": "sons",
+     "grounds": "male offspring",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pautrāḥ",
+     "gloss": "grandsons",
+     "grounds": "sons of sons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prapautrāḥ",
+     "gloss": "great-grandsons",
+     "grounds": "sons of grandsons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "come into being",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "cirajīvinaḥ",
+     "gloss": "long-lived",
+     "grounds": "living for a long time",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "What generational blessings arise for the practitioner of this mantra?",
+   "premises": [
+    "Sons are born to him",
+    "Grandsons and great-grandsons are born",
+    "They live long lives"
+   ],
+   "inference": "The practitioner gains long-lived descendants across generations.",
+   "uncertainties": [],
+   "plain_english": "He has sons, grandsons, and great-grandsons who live long lives."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "lipiḥ",
+     "gloss": "destiny",
+     "grounds": "written fate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ścalati",
+     "gloss": "moves",
+     "grounds": "shifts or changes",
+     "morph": "3.sg.pres.act √ścal"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "necessary",
+     "morph": "f.nom.sg (gerundive)"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "doubt or inquiry",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Can the fixed destiny of this practitioner be altered or doubted?",
+   "premises": [
+    "His destiny shifts",
+    "No deliberation is needed here",
+    "The change is presented as certain"
+   ],
+   "inference": "The practitioner's destiny changes, leaving no room for doubt.",
+   "uncertainties": [],
+   "plain_english": "His very destiny shifts; there is no need for deliberation about this."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "the name or mantra-name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "after hearing",
+     "morph": "(indecl., absolutive)"
+    },
+    {
+     "surface": "vāramekaṃ",
+     "gloss": "once",
+     "grounds": "a single time",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "palāyante",
+     "gloss": "flee",
+     "grounds": "run away",
+     "morph": "3.pl.pres.mid √palāy"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṃsakāḥ",
+     "gloss": "harmful-beings",
+     "grounds": "those who cause harm",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What effect does hearing the mantra's name have on harmful beings?",
+   "premises": [
+    "The name is heard once",
+    "Harmful beings are present",
+    "Hearing causes them to flee"
+   ],
+   "inference": "Harmful beings flee upon hearing the name even once.",
+   "uncertainties": [],
+   "plain_english": "Harmful beings flee upon hearing the name even once."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "of the adepts",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paricaryāṃ",
+     "gloss": "service",
+     "grounds": "attentive service",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvanti",
+     "gloss": "they-perform",
+     "grounds": "they carry out",
+     "morph": "3.pl.pres.act √kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Do others willingly serve the practitioners of this mantra?",
+   "premises": [
+    "Service to practitioners is performed",
+    "The statement asserts certainty",
+    "No doubt is admitted"
+   ],
+   "inference": "Others perform service for the practitioners without doubt.",
+   "uncertainties": [
+    "The agents performing service are not explicitly named"
+   ],
+   "plain_english": "They perform service for the practitioners; there is no doubt about this."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "sabhāyāṃ",
+     "gloss": "in-assembly",
+     "grounds": "in a gathering",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "koṭisūryābhaṃ",
+     "gloss": "crore-sun-splendor",
+     "grounds": "radiant like ten million suns",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "paśyanti",
+     "gloss": "they-see",
+     "grounds": "they behold",
+     "morph": "3.pl.pres.act √paś"
+    },
+    {
+     "surface": "sarvasajjanāḥ",
+     "gloss": "all-good-people",
+     "grounds": "all virtuous people",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "How do virtuous people perceive the practitioner in an assembly?",
+   "premises": [
+    "The practitioner appears in an assembly",
+    "He has splendor like ten million suns",
+    "All good people see him"
+   ],
+   "inference": "All virtuous people see the practitioner shining like ten million suns in an assembly.",
+   "uncertainties": [],
+   "plain_english": "In an assembly, all good people see him shining with the splendor of ten million suns."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "varṇituṃ",
+     "gloss": "to-describe",
+     "grounds": "to express in words",
+     "morph": "(indecl., infinitive)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaknomi",
+     "gloss": "i-am-able",
+     "grounds": "I have the power",
+     "morph": "1.sg.pres.act √śak"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "this particular one",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Can the full greatness of this mantra be adequately described?",
+   "premises": [
+    "The speaker attempts to describe the mantra",
+    "The speaker declares inability",
+    "The mantra is addressed to the great goddess"
+   ],
+   "inference": "The mantra's greatness is beyond the speaker's power to describe.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, I am truly unable to describe this mantra."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "puraścaryāvidhau",
+     "gloss": "in-preliminary-rite-procedure",
+     "grounds": "in the method of preparatory practice",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "however",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭsahasraṃ",
+     "gloss": "six-thousand",
+     "grounds": "a count of six thousand",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "the mantra formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-repeat",
+     "grounds": "one should recite",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What preliminary recitation count is required for this mantra?",
+   "premises": [
+    "A preliminary rite procedure is specified",
+    "A specific count is given",
+    "The mantra must be repeated"
+   ],
+   "inference": "One should repeat the mantra six thousand times in the preliminary rite.",
+   "uncertainties": [],
+   "plain_english": "But in the preliminary rite, one should repeat the mantra six thousand times."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "perfected, successful",
+     "morph": "m.nom.sg (past participle)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "mantrajñaḥ",
+     "gloss": "mantra-knower",
+     "grounds": "one who knows the mantra",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "in-applications",
+     "grounds": "in ritual applications",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "thereafter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamaḥ",
+     "gloss": "capable",
+     "grounds": "fit, competent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What capability follows successful completion of the preliminary recitation?",
+   "premises": [
+    "The mantra-knower becomes accomplished",
+    "Ritual applications exist",
+    "Capability follows accomplishment"
+   ],
+   "inference": "After accomplishment, the mantra-knower becomes capable in ritual applications.",
+   "uncertainties": [],
+   "plain_english": "Then the knower of the mantra becomes accomplished and capable in ritual applications."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "dāridryahananaṃ",
+     "gloss": "poverty-destruction",
+     "grounds": "removal of poverty",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣaṇena",
+     "gloss": "in-an-instant",
+     "grounds": "in a moment",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "and-otherwise",
+     "grounds": "and not in any other way",
+     "morph": "(indecl., compound)"
+    }
+   ],
+   "question": "How quickly does this mantra eliminate the practitioner's poverty?",
+   "premises": [
+    "Poverty is destroyed",
+    "The destruction happens in an instant",
+    "No alternative outcome is admitted"
+   ],
+   "inference": "The mantra destroys poverty instantly and without exception.",
+   "uncertainties": [],
+   "plain_english": "O goddess, it destroys poverty in an instant, and not otherwise."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "suratarutalapīṭhe",
+     "gloss": "wish-tree-base-seat",
+     "grounds": "on a seat at the base of a wish-fulfilling tree",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "ratnasiṃhāsanasthām",
+     "gloss": "jewel-lion-throne-seated",
+     "grounds": "seated on a jeweled lion-throne",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "Where is the goddess envisioned as seated in this meditation?",
+   "premises": [
+    "A seat at the base of a wish-fulfilling tree is described",
+    "A jeweled lion-throne is described",
+    "The goddess is seated there"
+   ],
+   "inference": "The goddess is envisioned seated on a jeweled lion-throne at the base of a wish-fulfilling tree.",
+   "uncertainties": [],
+   "plain_english": "I contemplate her seated on a jeweled lion-throne upon a seat at the base of a wish-fulfilling tree."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "kālikaluṣanihantrīṃ",
+     "gloss": "darkness-impurity-destroyer",
+     "grounds": "destroyer of the stains of the dark age",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "yonirūpāṃ",
+     "gloss": "womb-form",
+     "grounds": "having the form of the womb",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "bhajāmi",
+     "gloss": "i-worship",
+     "grounds": "I adore, I revere",
+     "morph": "1.sg.pres.act √bhaj"
+    }
+   ],
+   "question": "What form and function of the goddess are honored in worship?",
+   "premises": [
+    "The goddess destroys the impurities of the dark age",
+    "The goddess has the form of the womb",
+    "The speaker worships her"
+   ],
+   "inference": "The speaker worships the goddess as the womb-formed destroyer of dark-age impurities.",
+   "uncertainties": [],
+   "plain_english": "I worship her, the destroyer of the impurities of the dark age, whose form is the womb."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "gopitaṃ",
+     "gloss": "hidden",
+     "grounds": "kept secret",
+     "morph": "n.nom.sg (past participle)"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "throughout all tantric texts",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "by-your",
+     "grounds": "because of you",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhāvāt",
+     "gloss": "by-affection",
+     "grounds": "out of love or devotion",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "made manifest",
+     "morph": "n.nom.sg (past participle)"
+    }
+   ],
+   "question": "Why is this previously hidden teaching now being revealed?",
+   "premises": [
+    "The teaching was hidden in all tantras",
+    "Affection for the listener exists",
+    "The teaching is now revealed"
+   ],
+   "inference": "Out of affection, what was hidden in all tantras is now revealed.",
+   "uncertainties": [],
+   "plain_english": "What was hidden in all tantras has now been revealed out of affection for you."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "tūlikāyāṃ",
+     "gloss": "on-mattress",
+     "grounds": "on a cushioned bed",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulaśaktiṃ",
+     "gloss": "kula-power",
+     "grounds": "the power of the kula",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "samāviśet",
+     "gloss": "one-should-invoke",
+     "grounds": "one should cause to enter or invoke",
+     "morph": "3.sg.opt.act √viś (with sam-ā)"
+    }
+   ],
+   "question": "Where and how should the kula power be ritually invoked?",
+   "premises": [
+    "A mattress is the designated place",
+    "The kula power is the object",
+    "Invocation is instructed"
+   ],
+   "inference": "One should invoke the kula power upon a mattress.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, one should invoke the kula power upon a mattress."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-her",
+     "grounds": "of that invoked power",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "adharo",
+     "gloss": "lower-part",
+     "grounds": "lower region",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "in the manner of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhṛṅgo",
+     "gloss": "bee",
+     "grounds": "a black bee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīrajavyākulaḥ",
+     "gloss": "by-lotus-agitated",
+     "grounds": "eagerly drawn to a lotus",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the practitioner's approach to the invoked power described?",
+   "premises": [
+    "The lower part of the invoked power is the focus",
+    "A bee agitated by a lotus is the comparison",
+    "The comparison conveys eager attraction"
+   ],
+   "inference": "The practitioner approaches her lower part like a bee eagerly drawn to a lotus.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one approaches her lower part like a bee eagerly drawn to a lotus."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "āliṅgayet",
+     "gloss": "one-should-embrace",
+     "grounds": "one should hold closely",
+     "morph": "3.sg.opt.act √liṅg (with ā)"
+    },
+    {
+     "surface": "madonmattaḥ",
+     "gloss": "by-passion-intoxicated",
+     "grounds": "overcome with passion",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firmly",
+     "grounds": "with great firmness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kucamardanam",
+     "gloss": "breast-pressing",
+     "grounds": "pressing of the breasts",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What physical gestures are prescribed in this intimate ritual act?",
+   "premises": [
+    "The practitioner is intoxicated with passion",
+    "Embracing is instructed",
+    "Firm breast-pressing is instructed"
+   ],
+   "inference": "Intoxicated with passion, one should embrace firmly and press the breasts.",
+   "uncertainties": [],
+   "plain_english": "Intoxicated with passion, one should embrace her very firmly and press her breasts."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "once more",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repeated for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cumbanaṃ",
+     "gloss": "kissing",
+     "grounds": "act of kissing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonau",
+     "gloss": "in-womb",
+     "grounds": "in the yoni",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "one should perform",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-kula-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What repeated intimate action is directed toward the yoni?",
+   "premises": [
+    "Kissing is prescribed",
+    "The action is repeated again and again",
+    "The yoni is the locus of the action"
+   ],
+   "inference": "One should perform kissing again and again at the yoni.",
+   "uncertainties": [],
+   "plain_english": "O goddess of the kula, one should kiss again and again at the yoni."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "āghātaiḥ",
+     "gloss": "by-thrusts",
+     "grounds": "by strokes or impacts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "one should please",
+     "morph": "3.sg.opt.act (causative) √tuṣ"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "that invoked power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "but, and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhānabhedataḥ",
+     "gloss": "by-union-variation",
+     "grounds": "through variations of union",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the practitioner bring satisfaction through ritual union?",
+   "premises": [
+    "Thrusts are employed",
+    "Variations of union are used",
+    "The aim is to satisfy her"
+   ],
+   "inference": "One should satisfy her through thrusts and variations of union.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one should satisfy her with thrusts through variations of union."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "eight-above-hundred",
+     "grounds": "one hundred and eight",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the mantra formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-repeat",
+     "grounds": "one should recite",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "dhomādikāṅkṣayā",
+     "gloss": "for-oblation-etc-desire",
+     "grounds": "with desire for oblation and related rites",
+     "morph": "f.inst.sg (compound)"
+    }
+   ],
+   "question": "What mantra recitation count supports oblation and related rites?",
+   "premises": [
+    "A count of one hundred and eight is specified",
+    "The mantra is to be repeated",
+    "The purpose includes oblation and related rites"
+   ],
+   "inference": "One should repeat the mantra one hundred and eight times for oblation and related rites.",
+   "uncertainties": [
+    "The exact rites included in 'etc.' are not specified"
+   ],
+   "plain_english": "One should repeat the mantra one hundred and eight times, desiring oblation and related rites."
+  }
+ ]
+}

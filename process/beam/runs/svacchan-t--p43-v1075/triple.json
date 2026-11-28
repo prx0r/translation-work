@@ -1,0 +1,45 @@
+{
+ "song": "sva-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "anugrahārthaṃ",
+     "gloss": "for-grace",
+     "grounds": "compound anugraha+arthaṃ used adverbially for the sake of grace",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokānāṃ",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural of loka",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prādurbhūtā",
+     "gloss": "manifested",
+     "grounds": "feminine nominative singular participle of prādurbhū",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sanātanī",
+     "gloss": "eternal",
+     "grounds": "feminine nominative singular adjective sanātana",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why did the eternal one manifest for the worlds?",
+   "premises": [
+    "The eternal one manifested for grace of worlds.",
+    "Manifestation serves grace of worlds.",
+    "Eternal being appears for worlds."
+   ],
+   "inference": "Manifestation is for grace of worlds.",
+   "uncertainties": [
+    "Exact subject is supplied by prior context, not by this verse alone."
+   ],
+   "plain_english": "Manifested eternally for the grace of the worlds."
+  }
+ ]
+}

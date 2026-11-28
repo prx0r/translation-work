@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "kāraṇapādāna",
+     "gloss": "cause-offering",
+     "grounds": "compound noun denoting an offering of cause; fused form retained as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhikārārpaṇaṃ",
+     "gloss": "authority-offering",
+     "grounds": "compound noun denoting an offering of authority; fused form retained as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction linking the listed ritual items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings are named alongside purification in the ritual sequence?",
+   "premises": [
+    "cause-offering is listed",
+    "authority-offering is listed",
+    "tathā means and"
+   ],
+   "inference": "The verse names cause-offering and authority-offering among the ritual items.",
+   "uncertainties": [
+    "Exact case and syntactic role of the nouns are not explicit in the supplied token."
+   ],
+   "plain_english": "Cause-offering, authority-offering, and so on."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "tripadaṃ",
+     "gloss": "three-pada",
+     "grounds": "object named by the line; accusative neuter singular form",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "lumpet",
+     "gloss": "should-remove",
+     "grounds": "verbal form directing removal; root lup",
+     "morph": "3sg.opt.act-lup"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb in the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāmbujād",
+     "gloss": "from-middle-lotus",
+     "grounds": "compound source location in ablative; madhya+ambuja+āt",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "destination adverb for the removed item",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the three-pada be removed from the middle lotus and placed outside?",
+   "premises": [
+    "tripadaṃ is the object to be removed",
+    "madhyāmbujād marks the source location",
+    "bahiḥ marks the destination"
+   ],
+   "inference": "The operation moves the three-pada from the middle lotus to the outside.",
+   "uncertainties": [
+    "The exact ritual referent of tripadaṃ is not specified in this line."
+   ],
+   "plain_english": "Then remove the three-pada from the middle lotus to the outside."
+  }
+ ]
+}

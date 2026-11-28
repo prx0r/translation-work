@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "tarjanyā",
+     "gloss": "with-index-finger",
+     "grounds": "instrumental form indicating the index finger as the prohibited touching instrument",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle forbidding the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "optative verb expressing the prohibited act of touching",
+     "morph": "3.sg.opt.act (spṛś)"
+    },
+    {
+     "surface": "mālām",
+     "gloss": "garland",
+     "grounds": "accusative object of the prohibited touching",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṅguṣṭhāgreṇa",
+     "gloss": "with-thumb-tip",
+     "grounds": "instrumental compound naming the permitted moving instrument",
+     "morph": "m.ins.sg (aṅguṣṭha+agra)"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "should-move",
+     "grounds": "optative verb prescribing movement of the garland",
+     "morph": "3.sg.opt.act (caus. cal)"
+    }
+   ],
+   "question": "Should a practitioner touch the garland with the index finger or move it with the thumb tip?",
+   "premises": [
+    "Index finger must not touch garland.",
+    "Thumb tip moves garland.",
+    "Ritual handling follows prescribed finger."
+   ],
+   "inference": "Garland manipulation is restricted to the thumb tip, not the index finger.",
+   "uncertainties": [
+    "Exact ritual context of garland handling is unspecified."
+   ],
+   "plain_english": "Do not touch the garland with the index finger; move it with the tip of the thumb."
+  }
+ ]
+}

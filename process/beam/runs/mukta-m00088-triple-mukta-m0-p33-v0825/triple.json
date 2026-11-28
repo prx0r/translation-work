@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "paścimāṃ",
+     "gloss": "western",
+     "grounds": "western direction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pralaye",
+     "gloss": "at-dissolution",
+     "grounds": "dissolution",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-circle",
+     "grounds": "circle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "granthi",
+     "gloss": "in-knot",
+     "grounds": "knot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāneṣu",
+     "gloss": "places",
+     "grounds": "places",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarām",
+     "gloss": "northern",
+     "grounds": "northern direction",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which directions are assigned to dissolution and knot-places in the cakra?",
+   "premises": [
+    "western direction marks dissolution",
+    "northern direction marks knot-places",
+    "circle contains both directions"
+   ],
+   "inference": "the verse pairs western dissolution with northern knot-places in the cakra",
+   "uncertainties": [
+    "exact syntactic relation between pralaye and granthi sthāneṣu is unclear",
+    "whether cakre modifies both directions is not explicit"
+   ],
+   "plain_english": "At dissolution, the western direction; in the circle, in knot-places, and the northern direction."
+  }
+ ]
+}

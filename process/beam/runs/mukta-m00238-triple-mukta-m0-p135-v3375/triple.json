@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "putralābhaṃ",
+     "gloss": "son-gain",
+     "grounds": "compound putra+lābha in accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gavāṃ",
+     "gloss": "of-cows",
+     "grounds": "genitive plural of go",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vṛddhiṃ",
+     "gloss": "increase",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "root dā, present active",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which worldly and salvific benefits does this goddess grant?",
+   "premises": [
+    "She grants son-gain and liberation.",
+    "She grants increase of cows.",
+    "The benefits are objects of giving."
+   ],
+   "inference": "The goddess bestows progeny, liberation, and cattle prosperity.",
+   "uncertainties": [
+    "The verse fragment lacks an explicit subject beyond sā.",
+    "The referent of sā depends on prior context."
+   ],
+   "plain_english": "She gives gain of sons, likewise liberation, and increase of cows."
+  }
+ ]
+}

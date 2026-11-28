@@ -1,0 +1,311 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "dānavāḥ",
+     "gloss": "demons",
+     "grounds": "plural nominative of dānava",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rākṣasāḥ",
+     "gloss": "rakshasas",
+     "grounds": "plural nominative of rākṣasa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "martyāḥ",
+     "gloss": "mortals",
+     "grounds": "plural nominative of martya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "plural nominative of anya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devatāgaṇāḥ",
+     "gloss": "deity-groups",
+     "grounds": "compound devatā + gaṇa",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings, from demons and rakshasas to mortals and deity groups, are said to worship the command?",
+   "premises": [
+    "demons and rakshasas are named",
+    "mortals and other beings are named",
+    "deity groups are named"
+   ],
+   "inference": "The verse lists a broad range of beings as subject to or worshipping the command.",
+   "uncertainties": [
+    "exact scope of 'anye' is unspecified"
+   ],
+   "plain_english": "Demons, rakshasas, mortals, and other beings including deity groups are included."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "ājñāṃ",
+     "gloss": "command",
+     "grounds": "accusative singular of ājñā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajanti",
+     "gloss": "worship",
+     "grounds": "third person plural present of bhaj",
+     "morph": "3.pl.act-pres (root bhaj)"
+    },
+    {
+     "surface": "gandharvāḥ",
+     "gloss": "gandharvas",
+     "grounds": "plural nominative of gandharva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakinnarāḥ",
+     "gloss": "hell-kinnaras",
+     "grounds": "compound nara + kinnara",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "If gandharvas worship the command, what need be said of kinnaras and hell-beings?",
+   "premises": [
+    "gandharvas worship the command",
+    "the question intensifies the claim",
+    "kinnaras and hell-beings are named"
+   ],
+   "inference": "The verse argues from gandharvas to even more lowly beings by rhetorical intensification.",
+   "uncertainties": [
+    "'narakinnarāḥ' may be a compound or list"
+   ],
+   "plain_english": "Gandharvas worship the command, so what of kinnaras and hell-beings?"
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadgāminīṃ",
+     "gloss": "that-going",
+     "grounds": "feminine accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāṇīṃ",
+     "gloss": "speech",
+     "grounds": "accusative singular of vāṇī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajate",
+     "gloss": "worship",
+     "grounds": "third person singular present of bhaj",
+     "morph": "3.sg.act-pres (root bhaj)"
+    },
+    {
+     "surface": "vātiniścalā",
+     "gloss": "wind-still",
+     "grounds": "compound vāti + niścalā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What kind of speech is always worshipped by the wind-still one?",
+   "premises": [
+    "speech is always worshipped",
+    "the speech is that-going",
+    "the worshipper is wind-still"
+   ],
+   "inference": "The verse identifies a perpetually worshipped speech associated with a still, wind-like being.",
+   "uncertainties": [
+    "'vātiniścalā' may describe a deity or practitioner"
+   ],
+   "plain_english": "The wind-still one always worships that-going speech."
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "mokṣārthī",
+     "gloss": "liberation-seeker",
+     "grounds": "compound mokṣa + arthin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third person singular present of labh",
+     "morph": "3.sg.mid-pres (root labh)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular of mokṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhanārthī",
+     "gloss": "wealth-seeker",
+     "grounds": "compound dhana + arthin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third person singular present of labh",
+     "morph": "3.sg.mid-pres (root labh)"
+    },
+    {
+     "surface": "dhanam",
+     "gloss": "wealth",
+     "grounds": "accusative singular of dhana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does each seeker obtain according to the object of his seeking?",
+   "premises": [
+    "a liberation-seeker obtains liberation",
+    "a wealth-seeker obtains wealth",
+    "the verb is repeated for both"
+   ],
+   "inference": "The verse states a direct correspondence between the seeker's aim and the result obtained.",
+   "uncertainties": [
+    "whether this is universal or conditional is not stated"
+   ],
+   "plain_english": "A liberation-seeker obtains liberation, and a wealth-seeker obtains wealth."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "siddhaḥ",
+     "gloss": "perfected",
+     "grounds": "nominative singular of siddha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third person singular present of bhū",
+     "morph": "3.sg.act-pres (root bhū)"
+    },
+    {
+     "surface": "madbhaktyā",
+     "gloss": "by-my-devotion",
+     "grounds": "compound mad + bhakti, instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kathitaṃ ca",
+     "gloss": "told-and",
+     "grounds": "past participle plus conjunction in one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person instrumental of aham",
+     "morph": "1.sg.inst"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "second person dative of tvam",
+     "morph": "2.sg.dat"
+    }
+   ],
+   "question": "By what means does one become perfected, and who has told this to whom?",
+   "premises": [
+    "one becomes perfected",
+    "it is by my devotion",
+    "it was told by me to you"
+   ],
+   "inference": "The verse links perfection to devotion and frames the teaching as spoken by the deity to the devotee.",
+   "uncertainties": [
+    "'madbhaktyā' may mean devotion to me or my devotion"
+   ],
+   "plain_english": "One becomes perfected by devotion to me; this has been told by me to you."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "mahācīnakramaṃ",
+     "gloss": "great-China-rite",
+     "grounds": "compound mahā + cīna + krama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dvividhaṃ",
+     "gloss": "twofold",
+     "grounds": "neuter accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "past participle of sūc",
+     "morph": "n.acc.sg (participle)"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What has been indicated before concerning the great China rite?",
+   "premises": [
+    "the great China rite is named",
+    "it is twofold",
+    "it was indicated before"
+   ],
+   "inference": "The verse states that the twofold great China rite was indicated earlier.",
+   "uncertainties": [
+    "the two divisions are not specified here"
+   ],
+   "plain_english": "Goddess, the twofold great China rite was indicated before."
+  }
+ ]
+}

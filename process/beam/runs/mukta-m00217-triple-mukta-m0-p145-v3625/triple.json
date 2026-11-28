@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "vocative or nominative subject of the invocation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "imperative expressing a wish or command for protection",
+     "morph": "3.sg.act-imperative √rakṣ"
+    },
+    {
+     "surface": "divyāṅgī",
+     "gloss": "divine-limbed",
+     "grounds": "epithet describing the goddess; compound of divya and aṅga",
+     "morph": "f.nom.sg (compound: divya+aṅgī)"
+    },
+    {
+     "surface": "divyātmā",
+     "gloss": "divine-souled",
+     "grounds": "epithet describing the goddess; compound of divya and ātman",
+     "morph": "f.nom.sg (compound: divya+ātman)"
+    },
+    {
+     "surface": "bhogadāyinī",
+     "gloss": "bestower-of-enjoyment",
+     "grounds": "epithet describing the goddess; compound of bhoga and dāyinī",
+     "morph": "f.nom.sg (compound: bhoga+dāyinī)"
+    }
+   ],
+   "question": "What protective and bestowing qualities are attributed to the invoked goddess?",
+   "premises": [
+    "The goddess is called upon to protect.",
+    "She is described as having a divine body.",
+    "She is described as having a divine essence.",
+    "She is characterized as a bestower of enjoyment."
+   ],
+   "inference": "The invoked goddess possesses divine nature and the power both to protect and to grant enjoyment.",
+   "uncertainties": [],
+   "plain_english": "May the goddess, divine-limbed, divine-souled, and bestower of enjoyment, protect."
+  }
+ ]
+}

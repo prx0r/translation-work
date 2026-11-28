@@ -1,0 +1,76 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p465",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1cd8ee978f4beb81",
+ "source_digest_normalized_sha256": "1cd8ee978f4beb814c282cf95eab302f500aaddb671a59ecea8ab1855b08b77e",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 131
+ },
+ "align": {
+  "min_ratio": 0.935,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "One should offer libations with pure waters and also please the brahmins."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 75,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 131,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "3ce3862442d0b58d7efe1fbcfbe7c97a4763d1b34e298539cf8a9e6340f4d201",
+  "l0": "953aa26c14e2c597b76ad5793d9bd1d1ad8ebb50824233a264026f79b745b814",
+  "argmap": "06c1112d0d935c294b0905dabbc8908ee3744a89eeb4f1d7633b677ce43311fa",
+  "l2": "ee5a27fa42d47e7013a9db64ea309507c2a2ce5a880c54c55353aa9b2bf725ad",
+  "c1": "974d47e804d1f9219cfb3accdd511d06cd79230417d8829afca16823dd2e93a4"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1cd8ee978f4beb81",
+  "t1": "mukta-m0-p465/data/mukta-m0-p465.t1.json",
+  "l0": "mukta-m0-p465/data/mukta-m0-p465.l0.json",
+  "l2": "mukta-m0-p465/data/mukta-m0-p465.l2.json",
+  "c1": "mukta-m0-p465/data/mukta-m0-p465.c1.json"
+ }
+}

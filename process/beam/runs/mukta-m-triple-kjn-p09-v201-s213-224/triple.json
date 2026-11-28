@@ -1,0 +1,545 @@
+{
+ "song": "kjn-p09",
+ "items": [
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "sarvabhūcarīsarvagocarayoginīnāṃ",
+     "gloss": "of-all-earth-moving-and-all-sky-moving-yoginis",
+     "grounds": "compound genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "sarvakṣetrakam",
+     "gloss": "all-field-group",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which yoginī groups are named as all-earth-moving and all-sky-moving?",
+   "premises": [
+    "The verse names earth-moving yoginis.",
+    "The verse names sky-moving yoginis.",
+    "Both groups are addressed together."
+   ],
+   "inference": "The verse identifies a combined class of yoginis spanning earth and sky movement.",
+   "uncertainties": [
+    "Exact compound segmentation is not expanded in the row."
+   ],
+   "plain_english": "Of all earth-moving and sky-moving yoginis, the all-field group."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "sarvasahajāḥ",
+     "gloss": "all-innate",
+     "grounds": "adjective nominative plural",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "sarvakulajā",
+     "gloss": "all-family-born",
+     "grounds": "adjective nominative plural",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "sarvadvārapālikāḥ",
+     "gloss": "all-door-guardians",
+     "grounds": "compound nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What three qualities are attributed to these yoginis?",
+   "premises": [
+    "The verse calls them all innate.",
+    "The verse calls them all family-born.",
+    "The verse calls them all door guardians."
+   ],
+   "inference": "The yoginis are characterized as innate, family-born, and door-guarding.",
+   "uncertainties": [
+    "The exact referent of 'all' is context-dependent."
+   ],
+   "plain_english": "All innate, all family-born, all door guardians."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "guhyānāṃ",
+     "gloss": "of-secrets",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "adjective accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "by-your",
+     "grounds": "pronoun genitive singular",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "devotion",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "past participle accusative singular",
+     "morph": "pp.acc.sg"
+    }
+   ],
+   "question": "What supreme secret is said to be revealed through devotion?",
+   "premises": [
+    "The verse speaks of secrets.",
+    "It calls one secret supreme.",
+    "It says it was revealed by devotion."
+   ],
+   "inference": "A supreme secret among secrets is revealed through devotion.",
+   "uncertainties": [
+    "The exact secret is not named in this verse."
+   ],
+   "plain_english": "The supreme secret among secrets has been revealed to you through devotion."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "sāmprataṃ",
+     "gloss": "now",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "I-wish",
+     "grounds": "first person singular present",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "gurubhyaḥ",
+     "gloss": "from-the-gurus",
+     "grounds": "ablative plural",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "siddhapūjanam",
+     "gloss": "siddha-worship",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the speaker now wish to hear from the gurus?",
+   "premises": [
+    "The verse states a present wish.",
+    "It names gurus as source.",
+    "It names siddha worship as object."
+   ],
+   "inference": "The speaker wishes to hear about siddha worship from the gurus.",
+   "uncertainties": [
+    "Whether 'siddhapūjanam' is ritual or doctrinal is not specified."
+   ],
+   "plain_english": "Now I wish to hear siddha worship from the gurus."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "akṣaradvayavinyāsam",
+     "gloss": "two-syllable-arrangement",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anyanteṣu",
+     "gloss": "among-others",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "one-should-give",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.caus.opt"
+    }
+   ],
+   "question": "What arrangement should be given among others?",
+   "premises": [
+    "The verse names a two-syllable arrangement.",
+    "It places it among others.",
+    "It uses an optative giving verb."
+   ],
+   "inference": "A two-syllable arrangement is to be given among others.",
+   "uncertainties": [
+    "The exact recipients are not stated."
+   ],
+   "plain_english": "One should give the two-syllable arrangement among others."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "than-this",
+     "grounds": "instrumental singular",
+     "morph": "pron.instr.sg"
+    },
+    {
+     "surface": "sadṛśaṃ",
+     "gloss": "equal",
+     "grounds": "adjective accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "third person singular future",
+     "morph": "3.sg.act.fut"
+    }
+   ],
+   "question": "Is any knowledge said to equal this one?",
+   "premises": [
+    "The verse denies equality with this knowledge.",
+    "It denies future equality.",
+    "It uses two negations."
+   ],
+   "inference": "No knowledge is said to equal or surpass this one.",
+   "uncertainties": [
+    "The scope of 'this' depends on prior context."
+   ],
+   "plain_english": "No knowledge equal to this will be, nor has been."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "nāmavidhiṃ",
+     "gloss": "name-method",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-shall-speak",
+     "grounds": "first person singular future",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "second person singular imperative",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative singular",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "varalocane",
+     "gloss": "o-beautiful-eyed-one",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose name method will the speaker declare?",
+   "premises": [
+    "The verse refers to 'them'.",
+    "It names a name method.",
+    "It addresses a beautiful-eyed listener."
+   ],
+   "inference": "The speaker will declare the name method of those previously mentioned.",
+   "uncertainties": [
+    "The antecedent of 'them' is not in this verse."
+   ],
+   "plain_english": "I shall speak the name method of them; hear, O beautiful-eyed one."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "caturyuga",
+     "gloss": "four-ages",
+     "grounds": "compound indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "o-lord",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "svatantra",
+     "gloss": "independent",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "kulacodakāḥ",
+     "gloss": "family-impellers",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are called independent family impellers across four ages?",
+   "premises": [
+    "The verse names four ages.",
+    "It addresses the lord.",
+    "It calls family impellers independent."
+   ],
+   "inference": "Independent family impellers are named in relation to the four ages.",
+   "uncertainties": [
+    "The exact referent of 'family impellers' is context-dependent."
+   ],
+   "plain_english": "Thus, O lord, the independent family impellers of the four ages."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "daśakoṭipramāṇaṃ",
+     "gloss": "ten-crore-measure",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "pronoun accusative singular",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula-teaching",
+     "grounds": "adjective or noun accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parodbhavam",
+     "gloss": "supremely-arisen",
+     "grounds": "compound accusative singular",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What measure is given for this supremely arisen kaula teaching?",
+   "premises": [
+    "The verse gives a ten-crore measure.",
+    "It refers to this teaching.",
+    "It calls the teaching supremely arisen."
+   ],
+   "inference": "The kaula teaching is measured as ten crores and supremely arisen.",
+   "uncertainties": [
+    "The unit of 'ten crores' is not specified."
+   ],
+   "plain_english": "Indeed this kaula teaching, supremely arisen, is ten crores in measure."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "icchākhyā",
+     "gloss": "named-icchā",
+     "grounds": "compound nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhaiḥ",
+     "gloss": "by-the-siddhas",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "māyāntaṃ",
+     "gloss": "up-to-māyā",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "para-icchayā",
+     "gloss": "by-supreme-will",
+     "grounds": "compound instrumental singular",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "Who names the icchā yoginī and up to what limit?",
+   "premises": [
+    "The verse names an icchā yoginī.",
+    "It attributes the naming to siddhas.",
+    "It gives a limit up to māyā."
+   ],
+   "inference": "The siddhas name the icchā yoginī up to the limit of māyā by supreme will.",
+   "uncertainties": [
+    "The exact role of supreme will is not fully explained."
+   ],
+   "plain_english": "The icchā-named yoginī, by the siddhas, up to māyā, by supreme will."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "mātarāṇāṃ",
+     "gloss": "of-the-mothers",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "khecaraiḥ",
+     "gloss": "by-the-sky-movers",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "pp"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is said to have told the mothers again?",
+   "premises": [
+    "The verse refers to mothers.",
+    "It says told again.",
+    "It names sky movers as agents."
+   ],
+   "inference": "The sky movers are said to have told the mothers again.",
+   "uncertainties": [
+    "The content told is not specified."
+   ],
+   "plain_english": "Of the mothers, again, O goddess, told by the sky movers, O beloved."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "bhūcarīṇāṃ",
+     "gloss": "of-the-earth-movers",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "subhakṣāṇāṃ",
+     "gloss": "of-the-good-eaters",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhūcarī",
+     "gloss": "by-the-earth-mover",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "pp"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who told of the earth movers and good eaters?",
+   "premises": [
+    "The verse refers to earth movers.",
+    "It refers to good eaters.",
+    "It names an earth mover as agent."
+   ],
+   "inference": "An earth mover is said to have told of earth movers and good eaters.",
+   "uncertainties": [
+    "The exact relation between agent and groups is unclear."
+   ],
+   "plain_english": "Of the earth movers, of the good eaters, told by the earth mover, O beloved."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "kīlaṃ",
+     "gloss": "peg",
+     "grounds": "object to be chanted; acc.sg.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrasusiddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "purpose of the chanting; compound mantra-su-siddhi.",
+     "morph": "compound: mantra+susiddhi, f.dat.sg"
+    },
+    {
+     "surface": "japatu",
+     "gloss": "let-him-chant",
+     "grounds": "injunction to perform recitation.",
+     "morph": "verb: 3.sg.imp.act, √jap"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the peg as prepared.",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "prior action of joining.",
+     "morph": "gerund, √yuj with sam"
+    },
+    {
+     "surface": "saṃlopya",
+     "gloss": "having-blended",
+     "grounds": "prior action of blending or merging.",
+     "morph": "gerund, √lup with sam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two preparatory actions.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the peg be employed to secure the accomplishment of the mantra?",
+   "premises": [
+    "The peg is to be joined and blended.",
+    "The prepared peg is the object of chanting.",
+    "Chanting is performed for mantra accomplishment."
+   ],
+   "inference": "Chanting the joined and blended peg secures the accomplishment of the mantra.",
+   "uncertainties": [
+    "The precise ritual sense of saṃlopya in this context is not fully specified."
+   ],
+   "plain_english": "Let him chant that peg, having joined and blended it, for the accomplishment of the mantra."
+  }
+ ]
+}

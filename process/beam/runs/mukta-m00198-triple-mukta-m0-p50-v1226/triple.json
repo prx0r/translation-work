@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "element-part",
+     "grounds": "portion measured by elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum-house",
+     "grounds": "inner shrine chamber",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "divided into two parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhapiṇḍikā",
+     "gloss": "house-pedestal",
+     "grounds": "pedestal block of the house",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What proportional division defines the sanctum and its pedestal block?",
+   "premises": [
+    "The sanctum is measured as an element-part.",
+    "The house-pedestal is made two-part."
+   ],
+   "inference": "The sanctum and pedestal are fixed by specified proportional divisions.",
+   "uncertainties": [],
+   "plain_english": "The sanctum is an element-part, but the house-pedestal is two-part."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navabhāgena",
+     "gloss": "by-nine-part",
+     "grounds": "division into nine parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum-house",
+     "grounds": "inner shrine chamber",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "is laid down by rule",
+     "morph": "3.sg.pass-pres vi+dhā"
+    }
+   ],
+   "question": "What alternative proportional scheme may be prescribed for the sanctum?",
+   "premises": [
+    "An alternative measurement is allowed.",
+    "The sanctum is prescribed by a nine-part division."
+   ],
+   "inference": "The sanctum may alternatively be laid out using nine parts.",
+   "uncertainties": [],
+   "plain_english": "Or the sanctum is prescribed by a nine-part division."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "kuḍyamekena",
+     "gloss": "wall-by-one",
+     "grounds": "wall occupying one part",
+     "morph": "n.nom.sg+inst.sg"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "to be constructed",
+     "morph": "n.nom.sg.gerundive kṛ"
+    },
+    {
+     "surface": "alindaṃ",
+     "gloss": "portico",
+     "grounds": "verandah or terrace",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "śiva-part",
+     "grounds": "portion assigned to Śiva",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the wall, portico, and Śiva portion allotted in parts?",
+   "premises": [
+    "The wall takes one part.",
+    "The portico should be made with one part.",
+    "A Śiva-part is included in the allotment."
+   ],
+   "inference": "The layout assigns one part each to the wall and portico along with a Śiva-part.",
+   "uncertainties": [
+    "The exact syntactic role of śivāṃśakam in this allotment is unclear."
+   ],
+   "plain_english": "The wall is one part, the portico should be made one part, and there is a Śiva-part."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "vinyāsasūtrayorante",
+     "gloss": "at-layout-thread-ends",
+     "grounds": "at the ends of the layout lines",
+     "morph": "compound+n.loc.du"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the extremity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "the number thirteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhājite",
+     "gloss": "when-divided",
+     "grounds": "having been divided",
+     "morph": "n.loc.sg.ppp vi+bhaj"
+    }
+   ],
+   "question": "Into how many divisions is the space at the layout lines divided?",
+   "premises": [
+    "The reference point is the ends of the layout threads.",
+    "The area is divided into thirteen parts."
+   ],
+   "inference": "The layout ends are to be divided into thirteen sections.",
+   "uncertainties": [
+    "The repetition of ante alongside vinyāsasūtrayorante is ambiguous."
+   ],
+   "plain_english": "At the ends of the layout lines, when divided at the end, there are thirteen parts."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-part",
+     "grounds": "consisting of three parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyakoṣṭhaṃ",
+     "gloss": "middle-cell",
+     "grounds": "central compartment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.opt as"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "gallery-interval",
+     "grounds": "space between galleries",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should become",
+     "morph": "3.sg.opt bhū"
+    }
+   ],
+   "question": "How are the middle cell and remaining space apportioned in that division?",
+   "premises": [
+    "The middle cell should be three parts.",
+    "The remainder should form the gallery interval."
+   ],
+   "inference": "Three parts are assigned to the middle cell and the rest to the gallery interval.",
+   "uncertainties": [],
+   "plain_english": "The middle cell should be three parts, and the remainder should be the gallery interval."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "bhānukoṣṭhaṃ",
+     "gloss": "sun-cell",
+     "grounds": "cell associated with the sun measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuṣkūṭaṃ",
+     "gloss": "four-towered",
+     "grounds": "having four corner towers",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalāpaṃjarasaṃyutam",
+     "gloss": "joined-with-art-cages",
+     "grounds": "combined with decorative cage elements",
+     "morph": "n.nom.sg.ppp+compound"
+    }
+   ],
+   "question": "What structural features characterize the sun-cell in this design?",
+   "premises": [
+    "The sun-cell is four-towered.",
+    "It is joined with art-cages."
+   ],
+   "inference": "The sun-cell is designed with four towers and decorative cage elements.",
+   "uncertainties": [
+    "The precise architectural meaning of kalāpaṃjara is uncertain."
+   ],
+   "plain_english": "The sun-cell is four-towered and joined with art-cages."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "varṣasthalamalīndaṃ",
+     "gloss": "rain-platform-terrace",
+     "grounds": "terrace or platform for rain drainage",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.opt as"
+    },
+    {
+     "surface": "prastarāntaṃ",
+     "gloss": "ending-at-entablature",
+     "grounds": "extending up to the entablature",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghanīkṛtam",
+     "gloss": "made-solid",
+     "grounds": "made thick or compact",
+     "morph": "n.nom.sg.ppp ghanī+kṛ"
+    }
+   ],
+   "question": "How should the rain-platform terrace be constructed in this scheme?",
+   "premises": [
+    "The rain-platform terrace should extend to the entablature.",
+    "It should be made solid."
+   ],
+   "inference": "The rain-platform terrace is built solidly up to the entablature.",
+   "uncertainties": [
+    "The exact identification of varṣasthalamalīndaṃ is uncertain."
+   ],
+   "plain_english": "The rain-platform terrace should extend to the entablature and be made solid."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "corner-cell-etcetera",
+     "grounds": "corner cell and related elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvāṃgaṃ",
+     "gloss": "all-limbs",
+     "grounds": "with all its parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādibhūmimivaiva",
+     "gloss": "just-like-first-story",
+     "grounds": "exactly as in the first story",
+     "morph": "compound+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the corner cell and all its parts be arranged here?",
+   "premises": [
+    "The corner cell and related elements are considered with all limbs.",
+    "Their arrangement follows the first story exactly."
+   ],
+   "inference": "The corner cell and its parts should be made just as in the first story.",
+   "uncertainties": [],
+   "plain_english": "The corner cell and all its parts should be just like those of the first story."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-tower",
+     "grounds": "tower at the corner",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadekāṃśaṃ",
+     "gloss": "that-one-part",
+     "grounds": "one part of that",
+     "morph": "compound"
+    },
+    {
+     "surface": "śālādīrghaṃ",
+     "gloss": "hall-length",
+     "grounds": "having the length of a hall",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvibhāgayā",
+     "gloss": "by-two-part",
+     "grounds": "by a two-part measure",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What proportions govern the corner tower and hall length in this layout?",
+   "premises": [
+    "The corner tower is one part of that measure.",
+    "The hall length is determined by two parts."
+   ],
+   "inference": "The corner tower takes one part while the hall extends by two parts.",
+   "uncertainties": [],
+   "plain_english": "The corner tower is one part of that, and the hall length is two parts."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "cage-like architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhaṃ",
+     "gloss": "corner-cell",
+     "grounds": "corner compartment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyāvāditaloktavat",
+     "gloss": "as-stated-for-counted-story",
+     "grounds": "as declared for the numbered story",
+     "morph": "compound+(indecl.)"
+    }
+   ],
+   "question": "According to what prior rule are the cage and corner cell arranged?",
+   "premises": [
+    "The cage and corner cell are specified.",
+    "Their arrangement follows what was stated for the counted story."
+   ],
+   "inference": "The cage and corner cell should be arranged as previously declared for that story.",
+   "uncertainties": [
+    "The exact reference of saṃkhyāvāditala is uncertain."
+   ],
+   "plain_english": "The cage and the corner cell are as stated for the numbered story."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādisarvāṃgaṃ",
+     "gloss": "corner-cell-etc-all-limbs",
+     "grounds": "corner cell and all related parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānasaṃkhyaiva",
+     "gloss": "measure-count-only",
+     "grounds": "the measure and count alone",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "as previously",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What determines the measure of the corner cell and all its parts here?",
+   "premises": [
+    "The corner cell and all its parts are under consideration.",
+    "Their measure and count are the same as before."
+   ],
+   "inference": "The measure and count of these parts follow the previous specification.",
+   "uncertainties": [],
+   "plain_english": "The corner cell and all its parts have the same measure and count as before."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "hārāntaramathārdhāṃśaṃ",
+     "gloss": "gallery-interval-then-half-part",
+     "grounds": "gallery interval then a half part",
+     "morph": "compound"
+    },
+    {
+     "surface": "ardhāṃśaṃ",
+     "gloss": "half-part",
+     "grounds": "a half part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lambapaṃjarasaṃyutam",
+     "gloss": "joined-with-hanging-cage",
+     "grounds": "combined with a hanging cage",
+     "morph": "n.nom.sg.ppp+compound"
+    }
+   ],
+   "question": "What proportions and elements define the gallery interval in this case?",
+   "premises": [
+    "The gallery interval involves a half part.",
+    "Another half part is joined with a hanging cage."
+   ],
+   "inference": "The gallery interval is arranged with half-part measures including a hanging cage.",
+   "uncertainties": [
+    "The tokenization and exact division of hārāntaramathārdhāṃśaṃ is ambiguous."
+   ],
+   "plain_english": "The gallery interval is a half part, and a half part is joined with a hanging cage."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-tower",
+     "grounds": "tower at the corner",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadekāṃśaṃ",
+     "gloss": "that-one-part",
+     "grounds": "one part of that",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyeśālā",
+     "gloss": "middle-hall",
+     "grounds": "central hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhāgayā",
+     "gloss": "by-two-part",
+     "grounds": "by a two-part measure",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What proportions are assigned to the corner tower and middle hall?",
+   "premises": [
+    "The corner tower is one part of that measure.",
+    "The middle hall is measured by two parts."
+   ],
+   "inference": "The corner tower takes one part and the middle hall takes two parts.",
+   "uncertainties": [],
+   "plain_english": "The corner tower is one part of that, and the middle hall is two parts."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "catuṣkūṭaṃ",
+     "gloss": "four-towered",
+     "grounds": "having four corner towers",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuśśālā",
+     "gloss": "four-halled",
+     "grounds": "having four halls",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasupaṃjarasaṃyutam",
+     "gloss": "joined-with-eight-cages",
+     "grounds": "combined with eight cage elements",
+     "morph": "n.nom.sg.ppp+compound"
+    }
+   ],
+   "question": "What combination of towers, halls, and cages defines this structure?",
+   "premises": [
+    "The structure is four-towered.",
+    "It is four-halled.",
+    "It is joined with eight cages."
+   ],
+   "inference": "The structure comprises four towers, four halls, and eight cages.",
+   "uncertainties": [],
+   "plain_english": "It is four-towered, four-halled, and joined with eight cages."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "above that level",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "bhūviśālaṃ",
+     "gloss": "story-width",
+     "grounds": "the width of the story",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍbhāgaṃ",
+     "gloss": "six-part",
+     "grounds": "into six parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhajetsamam",
+     "gloss": "should-divide-equally",
+     "grounds": "should divide into equal parts",
+     "morph": "3.sg.opt vi+bhaj+adv"
+    }
+   ],
+   "question": "How should the width of the story above be divided?",
+   "premises": [
+    "The level above that is considered.",
+    "The story width should be divided into six equal parts."
+   ],
+   "inference": "The width of the upper story must be equally divided into six parts.",
+   "uncertainties": [],
+   "plain_english": "Above that, one should divide the width of the story equally into six parts."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "ardhāṃśaṃ",
+     "gloss": "half-part",
+     "grounds": "a half part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃjaravyāsaṃ",
+     "gloss": "cage-width",
+     "grounds": "the breadth of the cage",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hārāntaṃ",
+     "gloss": "gallery-end",
+     "grounds": "the gallery interval",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should become",
+     "morph": "3.sg.opt bhū"
+    }
+   ],
+   "question": "How are the cage width and gallery interval apportioned in those six parts?",
+   "premises": [
+    "The cage width should be a half part.",
+    "The remainder should be the gallery interval."
+   ],
+   "inference": "A half part is given to the cage width and the rest to the gallery interval.",
+   "uncertainties": [],
+   "plain_english": "The cage width should be a half part, and the remainder should be the gallery interval."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "kūṭātkoṣṭhastu",
+     "gloss": "from-tower-cell-but",
+     "grounds": "from the tower the cell however",
+     "morph": "compound+m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "nīvrā",
+     "gloss": "low",
+     "grounds": "lower in height",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaśālā",
+     "gloss": "middle-hall",
+     "grounds": "central hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīvrakam",
+     "gloss": "low",
+     "grounds": "lower in height",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What relative height is prescribed for the cell or middle hall compared to the tower?",
+   "premises": [
+    "The cell from the tower may be low.",
+    "The middle hall is prescribed as low."
+   ],
+   "inference": "Either the cell or the middle hall is made lower than the tower.",
+   "uncertainties": [
+    "The exact parsing of kūṭātkoṣṭhastu is uncertain."
+   ],
+   "plain_english": "The cell from the tower may be low, or the middle hall is low."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "saptasapta",
+     "gloss": "seven-seven",
+     "grounds": "seven and seven",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgena",
+     "gloss": "by-three-part",
+     "grounds": "by division into three parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "having divided",
+     "morph": "(gerund) kṛ"
+    },
+    {
+     "surface": "geha",
+     "gloss": "house",
+     "grounds": "the building",
+     "morph": "compound"
+    },
+    {
+     "surface": "samucchrayam",
+     "gloss": "height",
+     "grounds": "total elevation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the total height of the house be divided proportionally?",
+   "premises": [
+    "The house height is taken as the measure.",
+    "It is divided by a three-part scheme involving seven and seven."
+   ],
+   "inference": "The elevation of the house is calculated by dividing it into three parts based on seven and seven.",
+   "uncertainties": [
+    "The precise meaning of saptasapta in this division is uncertain."
+   ],
+   "plain_english": "Having divided the height of the house by three parts as seven and seven."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "prastaraṃ",
+     "gloss": "entablature",
+     "grounds": "lintel or entablature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "together with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādāgnisārdhaṣaṭkāṃghri",
+     "gloss": "foot-fire-half-six-foot",
+     "grounds": "measure involving foot, fire, half and six feet",
+     "morph": "compound"
+    },
+    {
+     "surface": "tuṃgakam",
+     "gloss": "height",
+     "grounds": "elevation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What height measure is prescribed for the entablature in this context?",
+   "premises": [
+    "The entablature height is specified.",
+    "Its measure is given as foot-fire-half-six-foot."
+   ],
+   "inference": "The entablature is assigned a height defined by that compound measure.",
+   "uncertainties": [
+    "The technical interpretation of pādāgnisārdhaṣaṭkāṃghri is uncertain."
+   ],
+   "plain_english": "The entablature height is with the foot-fire-half-six-foot measure."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "pādonāgnyaṃśa",
+     "gloss": "quarter-less-fire-part",
+     "grounds": "fire part less a quarter",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṃcaṃ",
+     "gloss": "platform",
+     "grounds": "upper platform or seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.opt as"
+    },
+    {
+     "surface": "sārdhabhūtāṃghrituṃgakam",
+     "gloss": "with-half-element-foot-height",
+     "grounds": "height of half plus element feet",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height is prescribed for the platform in this measurement scheme?",
+   "premises": [
+    "The platform is measured as a quarter-less fire part.",
+    "Its height is with half an element foot."
+   ],
+   "inference": "The platform should have the specified height combining those measures.",
+   "uncertainties": [
+    "The exact numerical value of the compound measures is uncertain."
+   ],
+   "plain_english": "The platform should be a quarter-less fire part, with a height of half an element foot."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "together with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "a foot measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃcabhāgaṃ",
+     "gloss": "five-part",
+     "grounds": "divided into five parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caraṇodayamīritam",
+     "gloss": "declared-as-pillar-rise",
+     "grounds": "stated as the rise of the pillar",
+     "morph": "n.nom.sg.ppp+compound"
+    }
+   ],
+   "question": "How is the rise of the pillar defined in terms of parts?",
+   "premises": [
+    "The measure includes a foot.",
+    "The pillar rise is declared as five parts."
+   ],
+   "inference": "The pillar rise is defined as a five-part measure including a foot.",
+   "uncertainties": [],
+   "plain_english": "With a foot, the rise of the pillar is declared as five parts."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "together with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādadvibhāgamaṃcaṃ",
+     "gloss": "foot-two-part-platform",
+     "grounds": "platform of a foot and two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.opt as"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "a foot measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādona",
+     "gloss": "quarter-less",
+     "grounds": "less by a quarter",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃcakam",
+     "gloss": "fivefold",
+     "grounds": "a group of five",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements determine the platform and the associated fivefold element?",
+   "premises": [
+    "The platform should be a foot and two parts.",
+    "There is a quarter-less fivefold measure of a foot."
+   ],
+   "inference": "The platform and the related element are set by these foot-based measures.",
+   "uncertainties": [
+    "The syntactic relation between pādaṃ pādona paṃcakam and the platform is unclear."
+   ],
+   "plain_english": "The platform should be a foot and two parts, with a quarter-less fivefold foot."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "together with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādāṃśamaṃcoccaṃ",
+     "gloss": "three-quarter-part-platform-height",
+     "grounds": "platform height of three-quarter parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "space-part",
+     "grounds": "a part of space",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedikodayam",
+     "gloss": "pedestal-rise",
+     "grounds": "the rise of the pedestal",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What heights are assigned to the platform and the pedestal rise?",
+   "premises": [
+    "The platform height is three-quarter parts.",
+    "The pedestal rise is a space-part."
+   ],
+   "inference": "The platform and pedestal rise are fixed by these specified part measures.",
+   "uncertainties": [
+    "The exact value of vyomāṃśa as a numerical measure is uncertain."
+   ],
+   "plain_english": "With a three-quarter-part platform height, the pedestal rise is a space-part."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "kaṇṭhamānasamaṃ",
+     "gloss": "equal-to-neck-measure",
+     "grounds": "equal in measure to the neck",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthūpī",
+     "gloss": "finial",
+     "grounds": "the crowning finial",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṃgamityeva",
+     "gloss": "height-thus-indeed",
+     "grounds": "indeed as the height",
+     "morph": "n.nom.sg+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-called",
+     "grounds": "is declared",
+     "morph": "3.sg.pass-pres muc"
+    }
+   ],
+   "question": "What measure defines the height of the finial in this prescription?",
+   "premises": [
+    "The finial is compared to the neck measure.",
+    "Its height is declared equal to that measure."
+   ],
+   "inference": "The finial's height is prescribed as equal to the neck measure.",
+   "uncertainties": [],
+   "plain_english": "The finial is declared to have a height equal to the neck measure."
+  }
+ ]
+}

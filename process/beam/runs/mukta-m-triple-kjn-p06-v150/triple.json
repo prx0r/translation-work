@@ -1,0 +1,69 @@
+{
+ "song": "kjn-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "kaṇṭha",
+     "gloss": "throat",
+     "grounds": "first member of compound describing location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kūpa",
+     "gloss": "cavity",
+     "grounds": "second member of compound with kaṇṭha",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthita",
+     "gloss": "situated",
+     "grounds": "describes the radiance located in the throat-cavity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udyotaṃ",
+     "gloss": "radiance",
+     "grounds": "object or subject of the participial phrase indicating light",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "first member of compound naming the aperture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "randhra",
+     "gloss": "aperture",
+     "grounds": "second member of compound with brahma",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "absorption",
+     "grounds": "state attained by the radiance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "past participle indicating attainment of absorption",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Into which locus does the radiance situated in the throat-cavity attain absorption?",
+   "premises": [
+    "A radiance is situated in the throat-cavity.",
+    "This radiance goes to a state of absorption.",
+    "The locus of this absorption is the brahma-aperture."
+   ],
+   "inference": "The radiance situated in the throat-cavity attains absorption in the brahma-aperture.",
+   "uncertainties": [
+    "The grammatical subject of gatā is not explicitly stated in this verse and is inferred from context."
+   ],
+   "plain_english": "The radiance situated in the cavity of the throat has gone to absorption in the brahma-aperture."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "cintāmaṇiriti",
+     "gloss": "cintamani-thus",
+     "grounds": "fused cintāmaṇi + iti; iti marks the quoted name",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khyāto",
+     "gloss": "known",
+     "grounds": "past participle of khyā, 'to be known or called'",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantro'yaṃ",
+     "gloss": "mantra-this",
+     "grounds": "sandhi fusion of mantraḥ + ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivavācakaḥ",
+     "gloss": "shiva-declarer",
+     "grounds": "compound śiva + vācaka, 'one who declares Śiva'",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is this mantra called cintāmaṇi and designated śivavācakaḥ?",
+   "premises": [
+    "The mantra is known by the name cintāmaṇi.",
+    "The same mantra is called śivavācakaḥ.",
+    "The verse identifies the mantra's name and designation."
+   ],
+   "inference": "This mantra is identified as cintāmaṇi and as śivavācakaḥ.",
+   "uncertainties": [
+    "Whether śivavācakaḥ means 'declarer of Śiva' or 'Śiva's declarer' in this context."
+   ],
+   "plain_english": "This mantra, known as cintāmaṇi, is śivavācakaḥ."
+  }
+ ]
+}

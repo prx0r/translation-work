@@ -1,0 +1,72 @@
+{
+ "song": "kul-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "primal-sound",
+     "grounds": "seed syllable oṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "auṃ",
+     "gloss": "augmented-primal-sound",
+     "grounds": "seed syllable auṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "seed-syllable-aṃ",
+     "grounds": "seed syllable aṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aḥ",
+     "gloss": "seed-syllable-aḥ",
+     "grounds": "seed syllable aḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcalakṣaṃ",
+     "gloss": "five-hundred-thousand",
+     "grounds": "compound pañca plus lakṣa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sūryādi",
+     "gloss": "sun-etc",
+     "grounds": "compound sūrya plus ādi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb pūrvavat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "superlative of para",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many repetitions and sequence are prescribed for the sūryādi mantra?",
+   "premises": [
+    "The verse lists four seed syllables.",
+    "It specifies five hundred thousand repetitions.",
+    "It refers to sun and following deities.",
+    "It says to perform as before.",
+    "It ends with beyond."
+   ],
+   "inference": "The mantra practice uses four bijas, five lakh repetitions, the sun series, the prior method, and a transcendent aim.",
+   "uncertainties": [
+    "Exact ritual referent of param is unclear.",
+    "Whether pañcalakṣaṃ counts repetitions or offerings is unclear."
+   ],
+   "plain_english": "Oṃ, auṃ, aṃ, aḥ: five hundred thousand, sun and the rest, as before, beyond."
+  }
+ ]
+}

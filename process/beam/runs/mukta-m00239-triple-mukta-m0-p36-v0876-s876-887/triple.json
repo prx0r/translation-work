@@ -1,0 +1,551 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "kadalīvāṭikāmadhye",
+     "gloss": "banana-garden-middle",
+     "grounds": "compound: banana garden + middle",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "verb nāśay",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kadalī",
+     "gloss": "banana",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is banana fruit destroyed by burying it in the middle of a banana garden?",
+   "premises": [
+    "The rite targets banana fruit.",
+    "The burial place is the banana garden middle."
+   ],
+   "inference": "Burying banana fruit in its own garden middle destroys it.",
+   "uncertainties": [
+    "Exact ritual agent is implicit."
+   ],
+   "plain_english": "Bury banana fruit in the middle of a banana garden to destroy it."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "śatābhimantritaṃ",
+     "gloss": "hundred-times-consecrated",
+     "grounds": "compound: hundred + consecrated",
+     "morph": "compound"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "garments",
+     "grounds": "noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "one-should-destroy",
+     "grounds": "verb nāśay",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How are a person's garments destroyed by a hundred-times consecrated object?",
+   "premises": [
+    "The object is consecrated a hundred times.",
+    "The garments belong to the target."
+   ],
+   "inference": "A hundred-times consecrated object destroys the target's garments.",
+   "uncertainties": [
+    "The object itself is not named."
+   ],
+   "plain_english": "A hundred-times consecrated object destroys his garments."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "aṣṭāṃgulaṃ",
+     "gloss": "eight-finger-long",
+     "grounds": "compound: eight + finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "verb nikhā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "verb nāśay",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dhīvare",
+     "gloss": "fisherman",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does burying an eight-finger-long object in a fisherman's house destroy it?",
+   "premises": [
+    "The object is eight fingers long.",
+    "The burial place is a fisherman's house."
+   ],
+   "inference": "Burying the object in a fisherman's house destroys it.",
+   "uncertainties": [
+    "The object's material is not specified."
+   ],
+   "plain_english": "Bury an eight-finger-long object in a fisherman's house to destroy it."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "saptāṃgulaṃ",
+     "gloss": "seven-finger-long",
+     "grounds": "compound: seven + finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "maghā-ṛkṣe",
+     "gloss": "in-maghā-constellation",
+     "grounds": "compound: Maghā + constellation",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhallātaṃ",
+     "gloss": "marking-nut",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāṣṭhakīlakam",
+     "gloss": "wooden-peg",
+     "grounds": "compound: wood + peg",
+     "morph": "compound"
+    }
+   ],
+   "question": "What wooden peg of marking-nut is used under the Maghā constellation?",
+   "premises": [
+    "The peg is seven fingers long.",
+    "The constellation is Maghā."
+   ],
+   "inference": "A seven-finger marking-nut wooden peg is used under Maghā.",
+   "uncertainties": [
+    "The exact ritual action is implied."
+   ],
+   "plain_english": "Use a seven-finger marking-nut wooden peg under the Maghā constellation."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "śatror",
+     "gloss": "enemy's",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāpīhradādau",
+     "gloss": "well-lake-etc",
+     "grounds": "compound: well + lake + etc",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matsyas",
+     "gloss": "fish",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "verb vinaś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to fish in an enemy's well or lake?",
+   "premises": [
+    "The water belongs to the enemy.",
+    "Fish are present there."
+   ],
+   "inference": "The fish in the enemy's well or lake perish.",
+   "uncertainties": [
+    "The cause of perishing is ritual."
+   ],
+   "plain_english": "Fish in the enemy's well or lake perish."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "verb nikhā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kumbhakārasya",
+     "gloss": "potter's",
+     "grounds": "noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śālāyāṃ",
+     "gloss": "in-workshop",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhāṇḍanāśakṛt",
+     "gloss": "pot-destroying",
+     "grounds": "compound: pot + destroying",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is a pot-destroying rite performed in a potter's workshop?",
+   "premises": [
+    "The burial place is a potter's workshop.",
+    "The rite is pot-destroying."
+   ],
+   "inference": "Bury the object in a potter's workshop for pot destruction.",
+   "uncertainties": [
+    "The buried object is not named."
+   ],
+   "plain_english": "Bury it in a potter's workshop to destroy pots."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "pañcāṃgulaṃ",
+     "gloss": "five-finger-long",
+     "grounds": "compound: five + finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "nimbakīlaṃ",
+     "gloss": "neem-peg",
+     "grounds": "compound: neem + peg",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadṛkṣe",
+     "gloss": "in-that-constellation",
+     "grounds": "compound: that + constellation",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvavatphalam",
+     "gloss": "as-before-result",
+     "grounds": "compound: as-before + result",
+     "morph": "compound"
+    }
+   ],
+   "question": "What result follows from burying a five-finger neem peg in that constellation?",
+   "premises": [
+    "The peg is five fingers long.",
+    "The constellation is the same as before."
+   ],
+   "inference": "The result is the same as before.",
+   "uncertainties": [
+    "The prior result is not restated."
+   ],
+   "plain_english": "A five-finger neem peg in that constellation gives the same result as before."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "pākasthāne",
+     "gloss": "cooking-place",
+     "grounds": "compound: cooking + place",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṇḍānāṃ",
+     "gloss": "of-pots",
+     "grounds": "noun",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kṣiptaṃ",
+     "gloss": "thrown",
+     "grounds": "participle kṣip",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "sphoṭayate",
+     "gloss": "breaks",
+     "grounds": "verb sphoṭ",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly happens when something is thrown among pots in a cooking place?",
+   "premises": [
+    "The place is a cooking place.",
+    "The pots are affected."
+   ],
+   "inference": "The pots certainly break.",
+   "uncertainties": [
+    "The thrown object is unspecified."
+   ],
+   "plain_english": "When thrown among pots in a cooking place, they certainly break."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "bhāṇḍāra",
+     "gloss": "storehouse",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sphuṭaṃtyeva",
+     "gloss": "they-break",
+     "grounds": "verb sphuṭ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "muktānāṃ",
+     "gloss": "of-pearls",
+     "grounds": "noun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-spoken",
+     "grounds": "verb vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What mantra is spoken when a storehouse of pearls is made to break?",
+   "premises": [
+    "The storehouse contains pearls.",
+    "The mantra is spoken."
+   ],
+   "inference": "A mantra is spoken for breaking a pearl storehouse.",
+   "uncertainties": [
+    "The mantra text is not given."
+   ],
+   "plain_english": "A mantra is spoken for breaking a storehouse of pearls."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "nikhanet",
+     "gloss": "one-should-bury",
+     "grounds": "verb nikhā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tailaśālāyāṃ",
+     "gloss": "oil-workshop",
+     "grounds": "compound: oil + workshop",
+     "morph": "compound"
+    },
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "verb vinaś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to oil when something is buried in an oil workshop?",
+   "premises": [
+    "The burial place is an oil workshop.",
+    "Oil is present there."
+   ],
+   "inference": "The oil perishes.",
+   "uncertainties": [
+    "The buried object is unspecified."
+   ],
+   "plain_english": "Bury it in an oil workshop and the oil perishes."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "aṣṭāṃgulaṃ",
+     "gloss": "eight-finger-long",
+     "grounds": "compound: eight + finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhako",
+     "gloss": "customer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "verb gam",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to customers when an eight-finger-long object is buried there?",
+   "premises": [
+    "The object is eight fingers long.",
+    "The place is a shop or workshop."
+   ],
+   "inference": "Customers do not come.",
+   "uncertainties": [
+    "The exact place is context-dependent."
+   ],
+   "plain_english": "Then no customer goes there."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "aṣṭāṃgulaṃ",
+     "gloss": "eight-finger-long",
+     "grounds": "compound: eight + finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "gopagehe",
+     "gloss": "cow-house",
+     "grounds": "compound: cow + house",
+     "morph": "compound"
+    },
+    {
+     "surface": "godugdhaṃ",
+     "gloss": "cow-milk",
+     "grounds": "compound: cow + milk",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "verb vinaś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to cow's milk when an eight-finger-long object is buried in a cow house?",
+   "premises": [
+    "The object is eight fingers long.",
+    "The place is a cow house."
+   ],
+   "inference": "The cow's milk perishes.",
+   "uncertainties": [
+    "The object's material is unspecified."
+   ],
+   "plain_english": "Cow's milk perishes when it is buried in a cow house."
+  }
+ ]
+}

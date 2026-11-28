@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "āhṛtya",
+     "gloss": "having-drawn",
+     "grounds": "absolute participle from ā-hṛ; action follows the preceding ritual instructions",
+     "morph": "verb.participle.act"
+    },
+    {
+     "surface": "pūrakeṇaiva",
+     "gloss": "by-puraka-indeed",
+     "grounds": "instrumental of puraka (inhalation/filling) with emphatic eva",
+     "morph": "noun.instr.sg.m; (indecl.)"
+    },
+    {
+     "surface": "dakṣanāsāpuṭena",
+     "gloss": "by-right-nostril-chamber",
+     "grounds": "instrumental of compound dakṣa-nāsā-puṭa (right nostril aperture)",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner draw the substance during this rite?",
+   "premises": [
+    "Drawing occurs after the prior ritual actions.",
+    "Puraka inhalation is the means.",
+    "Right nostril is the passage."
+   ],
+   "inference": "The rite requires drawing through right-nostril puraka.",
+   "uncertainties": [
+    "The exact object drawn is not explicit in this verse."
+   ],
+   "plain_english": "Having drawn by puraka indeed through the right nostril."
+  }
+ ]
+}

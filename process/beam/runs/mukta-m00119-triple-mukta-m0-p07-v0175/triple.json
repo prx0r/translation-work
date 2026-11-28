@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb indicating the manner just described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedo'pi",
+     "gloss": "difference-too",
+     "grounds": "bhedah nominative singular masculine plus api enclitic; apostrophe marks sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "future passive participle of kṛ in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kimanyacchrotumicchasi",
+     "gloss": "what-else-to-hear-wish",
+     "grounds": "fused form of kim anyat śrotum icchasi; interrogative plus infinitive plus second-person singular present active of iṣ",
+     "morph": "verb 2.sg.act-pres (iṣ)"
+    }
+   ],
+   "question": "What further distinction must still be enacted after these enumerated differences?",
+   "premises": [
+    "Difference too must be performed.",
+    "Speaker asks what else to hear.",
+    "Verse closes the enumeration."
+   ],
+   "inference": "The verse marks completion of one set of distinctions and invites further inquiry.",
+   "uncertainties": [
+    "Exact scope of bhedah is unspecified."
+   ],
+   "plain_english": "Thus this difference too must be done; what else do you wish to hear?"
+  }
+ ]
+}

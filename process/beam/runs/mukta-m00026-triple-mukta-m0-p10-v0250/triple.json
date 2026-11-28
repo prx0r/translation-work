@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśubho",
+     "gloss": "inauspicious",
+     "grounds": "nominal predicate; sandhi form of aśubhaḥ before vidyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "predicate of being found or present",
+     "morph": "3.sg.pres.pass-√vid"
+    },
+    {
+     "surface": "kālo",
+     "gloss": "time",
+     "grounds": "subject; sandhi form of kālaḥ before na",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśubho",
+     "gloss": "inauspicious",
+     "grounds": "nominal predicate; sandhi form of aśubhaḥ before vidyate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "predicate of being found or present",
+     "morph": "3.sg.pres.pass-√vid"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "indefinite locative adverb indicating any place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can any specific time or any location be inherently inauspicious for attaining wondrous accomplishment?",
+   "premises": [
+    "No time is found to be inauspicious.",
+    "No place anywhere is found to be inauspicious.",
+    "Inauspiciousness is not inherent to temporal or spatial conditions."
+   ],
+   "inference": "Therefore, the pursuit of wondrous accomplishment is not restricted by considerations of time or place.",
+   "uncertainties": [],
+   "plain_english": "There is no inauspicious time, nor is there any inauspicious place anywhere."
+  }
+ ]
+}

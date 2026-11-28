@@ -1,0 +1,75 @@
+{
+ "song": "sva-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "siddhirapyatratyā",
+     "gloss": "accomplishment-even-here-that",
+     "grounds": "fused sandhi form carrying siddhiḥ api atra tyā",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "fem.ins.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "noun in compound relation",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "paryavasāyinyeveti",
+     "gloss": "ending-in-liberation-only-thus",
+     "grounds": "fused sandhi form carrying paryavasāyinī eva iti",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "neuter adjective used substantively",
+     "morph": "neut.acc.sg"
+    }
+   ],
+   "question": "How does accomplishment relate to liberation here?",
+   "premises": [
+    "Accomplishment is even here.",
+    "Liberation is the final term.",
+    "Thus it is auspicious."
+   ],
+   "inference": "Accomplishment is subordinated to liberation.",
+   "uncertainties": [
+    "Fused token boundaries obscure exact sandhi."
+   ],
+   "plain_english": "Even accomplishment here is only that which ends in liberation; thus auspicious."
+  }
+ ]
+}

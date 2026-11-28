@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p324",
+ "items": [
+  {
+   "verse": 8100,
+   "rows": [
+    {
+     "surface": "vāmaṃ",
+     "gloss": "vāma",
+     "grounds": "object of knowing; technical term whose specific sense (e.g. left, reversed, or beautiful) depends on context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vijānāti",
+     "gloss": "knows",
+     "grounds": "predicate expressing discerning knowledge",
+     "morph": "3.sg.pres.act √jñā"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject, referring to the knower",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle emphasizing exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "qualifies the teacher as highest",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "predicate noun identifying the knower",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What knowledge of vāma establishes someone as the supreme teacher?",
+   "premises": [
+    "Knowing vāma constitutes a specific discernment.",
+    "A particular person possesses this knowledge of vāma.",
+    "That same person is identified as the supreme teacher."
+   ],
+   "inference": "Therefore, the one who knows vāma alone is the supreme teacher.",
+   "uncertainties": [
+    "The precise contextual sense of 'vāmaṃ' (e.g. left, reversed, or beautiful) is not fully determined here."
+   ],
+   "plain_english": "He alone who knows vāma is the supreme teacher."
+  }
+ ]
+}

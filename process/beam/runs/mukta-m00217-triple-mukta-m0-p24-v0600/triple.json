@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "śirovadanahṛdguhyapādadeśe",
+     "gloss": "head-face-heart-secret-foot-place",
+     "grounds": "compound of śiras, vadana, hṛd, guhya, pāda, and deśa indicating a series of bodily locations",
+     "morph": "compound+loc.sg.m"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "according-to-order",
+     "grounds": "indeclinable adverbial expression indicating sequential correspondence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily locations correspond sequentially to the previously named elements?",
+   "premises": [
+    "A sequence of bodily locations is specified.",
+    "The locations named are head, face, heart, secret part, and feet.",
+    "The correspondence follows the stated order."
+   ],
+   "inference": "The previously enumerated elements are assigned respectively to the head, face, heart, secret part, and feet.",
+   "uncertainties": [
+    "The specific elements being assigned depend on the preceding verses."
+   ],
+   "plain_english": "In the regions of the head, face, heart, secret part, and feet, in due order."
+  }
+ ]
+}

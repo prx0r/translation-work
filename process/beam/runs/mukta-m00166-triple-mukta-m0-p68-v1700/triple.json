@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "bhaveḥ",
+     "gloss": "may-you-be",
+     "grounds": "optative of bhū expressing a wish",
+     "morph": "2.sg.optative-active + bhū"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second-person pronoun addressing the goddess",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "parama+īśānī",
+     "gloss": "supreme-goddess",
+     "grounds": "compound epithet addressing the highest goddess",
+     "morph": "compound: parama+īśānī (voc.sg.f)"
+    },
+    {
+     "surface": "sahāyā",
+     "gloss": "helper",
+     "grounds": "companion or assistant in the desired role",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suspṛhā",
+     "gloss": "very-eager",
+     "grounds": "intensely desirous or willing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation forming the condition with cet",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle introducing the proviso",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition is the supreme goddess asked to become an eager helper?",
+   "premises": [
+    "The addressee is the supreme goddess.",
+    "The speaker wishes her to be a helper.",
+    "The desired help is characterized by eager willingness.",
+    "The request depends on the absence of unwillingness."
+   ],
+   "inference": "If she is willing, the supreme goddess is asked to become an eager helper.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, if you are willing, may you become my eager helper."
+  }
+ ]
+}

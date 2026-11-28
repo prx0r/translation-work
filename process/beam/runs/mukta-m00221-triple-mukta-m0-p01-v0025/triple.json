@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "sametāḥ",
+     "gloss": "gathered",
+     "grounds": "participle describing the assembled gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "himavacchṛṅge",
+     "gloss": "on-Himalaya-peak",
+     "grounds": "compound locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śakrādyāḥ",
+     "gloss": "Indra-and-others",
+     "grounds": "nominative plural masculine compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amarāḥ",
+     "gloss": "gods",
+     "grounds": "nominative plural masculine noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which divine beings gathered on the Himalaya peak from all sides?",
+   "premises": [
+    "Gods gathered on Himalaya peak.",
+    "Indra and others came from all sides.",
+    "They are immortal beings."
+   ],
+   "inference": "The verse describes a divine assembly on the Himalaya peak.",
+   "uncertainties": [
+    "The exact scope of śakrādyāḥ beyond Indra is not specified."
+   ],
+   "plain_english": "Gathered on the Himalaya peak, Indra and the other gods came from all sides."
+  }
+ ]
+}

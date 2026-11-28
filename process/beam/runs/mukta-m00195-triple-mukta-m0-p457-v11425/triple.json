@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p457",
+ "items": [
+  {
+   "verse": 11425,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative of madhya indicating position",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "kṛṣṇāya",
+     "gloss": "to-kṛṣṇa",
+     "grounds": "dative of the deity addressed",
+     "morph": "dat.sg.m."
+    },
+    {
+     "surface": "pañcārṇaḥ",
+     "gloss": "five-syllabled",
+     "grounds": "compound of pañca and arṇa describing the mantra",
+     "morph": "pañca+arṇa (compound, nom.sg.m.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "refers to the entire procedure",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "pūrvavadeva",
+     "gloss": "just-as-before",
+     "grounds": "compound of pūrvavat and eva indicating sameness with prior procedure",
+     "morph": "pūrvavat+eva (indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra and procedure apply to Kṛṣṇa in the middle position?",
+   "premises": [
+    "The context prescribes a five-syllabled formula for Kṛṣṇa.",
+    "The ritual procedure is to follow the previously stated pattern.",
+    "The placement specified is the middle position."
+   ],
+   "inference": "In the middle, the five-syllabled mantra for Kṛṣṇa is used and the entire procedure is performed just as before.",
+   "uncertainties": [
+    "The exact five syllables of the mantra are not specified in this verse."
+   ],
+   "plain_english": "In the middle, for Kṛṣṇa the five-syllabled mantra is used, and everything is indeed done just as before."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "kul-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "truth as the object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "gerund of prāp indicating completion before renunciation",
+     "morph": "absolutive (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "connects obtaining truth to subsequent renunciation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "agent who renounces",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "renounces",
+     "grounds": "action directed toward karmaparigraham",
+     "morph": "3.sg.act.opt (root tyaj)"
+    },
+    {
+     "surface": "karmaparigraham",
+     "gloss": "action-attachment",
+     "grounds": "compound of karma and parigraha as object renounced",
+     "morph": "compound (karma+parigraha), n.acc.sg"
+    }
+   ],
+   "question": "What does the yogi renounce after obtaining truth?",
+   "premises": [
+    "yogi obtains truth first",
+    "then renounces action-attachment",
+    "truth precedes renunciation"
+   ],
+   "inference": "The verse states that after obtaining truth, the yogi renounces attachment to action.",
+   "uncertainties": [
+    "No edition variant noted in supplied context"
+   ],
+   "plain_english": "Having obtained truth, the yogi thus renounces attachment to action."
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "song": "vij-p03",
+ "items": [
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "sarvasroto",
+     "gloss": "by-all-channels",
+     "grounds": "all-channels instrumental sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nibandhena",
+     "gloss": "by-binding",
+     "grounds": "binding instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "prāṇaśaktyādhvaśāsanaiḥ",
+     "gloss": "by-prana-shakti-path-control",
+     "grounds": "fused prana-shakti-path-control instrumental plural",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "How does prana-shakti control all channels?",
+   "premises": [
+    "all channels are bound",
+    "prana-shakti controls paths"
+   ],
+   "inference": "binding all channels through prana-shakti controls the path",
+   "uncertainties": [
+    "fused compound reading"
+   ],
+   "plain_english": "By binding all channels through prana-shakti path-control."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "vahnerviṣaya",
+     "gloss": "of-fire",
+     "grounds": "fire genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "middle locative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "mind accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "blissful",
+     "grounds": "bliss adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayaṃkṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "cast optative",
+     "morph": "3.sg.act.opt.√kṣip"
+    }
+   ],
+   "question": "Where should the blissful mind be cast?",
+   "premises": [
+    "fire's middle is the place",
+    "mind is blissful"
+   ],
+   "inference": "cast the blissful mind into fire's middle",
+   "uncertainties": [
+    "mayaṃkṣipet sandhi"
+   ],
+   "plain_english": "Cast the blissful mind into the middle of fire."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "śaktisaṅgamasaṃkṣubdhaṃ",
+     "gloss": "agitated-by-shakti-union",
+     "grounds": "agitated by shakti union",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-shakti",
+     "grounds": "shakti instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "veśāvasānikam",
+     "gloss": "final-entry",
+     "grounds": "final entry accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What completes the agitated shakti union?",
+   "premises": [
+    "shakti union agitates",
+    "shakti completes entry"
+   ],
+   "inference": "shakti union leads to final entry",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "Agitated by shakti union, final entry is by shakti."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "lehanāmaktanākoṭo",
+     "gloss": "licking-etc",
+     "grounds": "licking etc compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strīmukhasya",
+     "gloss": "of-woman's-face",
+     "grounds": "woman's face genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bharāt",
+     "gloss": "from-weight",
+     "grounds": "weight ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "smṛteḥ",
+     "gloss": "of-memory",
+     "grounds": "memory genitive",
+     "morph": "f.gen.sg"
+    }
+   ],
+   "question": "What arises from memory of a woman's face?",
+   "premises": [
+    "licking etc is named",
+    "woman's face weight remembered"
+   ],
+   "inference": "memory of a woman's face weight produces licking etc",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "From memory of a woman's face weight, licking and so on."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "ānande mahate",
+     "gloss": "in-great-bliss",
+     "grounds": "great bliss locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "obtained",
+     "grounds": "obtained locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭe",
+     "gloss": "seen",
+     "grounds": "seen locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bāndhave",
+     "gloss": "relative",
+     "grounds": "relative locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cirāt",
+     "gloss": "after-long-time",
+     "grounds": "long time ablative",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "When is great bliss obtained or seen?",
+   "premises": [
+    "great bliss is obtained",
+    "relative seen after long time"
+   ],
+   "inference": "great bliss is obtained or a relative is seen after long time",
+   "uncertainties": [
+    "locative sense"
+   ],
+   "plain_english": "In great bliss obtained, or a relative seen after long time."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "dagdhamānarasollāasa",
+     "gloss": "by-burning-etc",
+     "grounds": "burning etc compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "rasānandavijṛmbhanāt",
+     "gloss": "from-bliss-expansion",
+     "grounds": "bliss expansion ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What follows from bliss expansion?",
+   "premises": [
+    "burning etc is instrumental",
+    "bliss expansion is source"
+   ],
+   "inference": "burning etc arises from bliss expansion",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "By burning etc, from bliss expansion."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "gītādi viṣayā svādāt",
+     "gloss": "from-song-etc-objects-taste",
+     "grounds": "song etc objects taste ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "samasaukhyaikatanmanaḥ",
+     "gloss": "equal-bliss-one-pointed-mind",
+     "grounds": "equal bliss one-pointed mind",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What makes the mind one-pointed in equal bliss?",
+   "premises": [
+    "song etc objects are tasted",
+    "mind becomes one-pointed"
+   ],
+   "inference": "tasting song etc objects yields equal-bliss one-pointed mind",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "From tasting song and other objects, the mind becomes one-pointed in equal bliss."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "yatra yatra",
+     "gloss": "wherever",
+     "grounds": "wherever repeated",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manassṛṣṭir",
+     "gloss": "mind-creation",
+     "grounds": "mind creation nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manastatraiva",
+     "gloss": "mind-there-only",
+     "grounds": "mind there only",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-hold",
+     "grounds": "hold optative",
+     "morph": "3.sg.act.opt.√dhṛ"
+    }
+   ],
+   "question": "Where should mind-creation be held?",
+   "premises": [
+    "wherever mind creates",
+    "mind holds there only"
+   ],
+   "inference": "wherever mind creates, hold mind there only",
+   "uncertainties": [
+    "sandhi in manastatraiva"
+   ],
+   "plain_english": "Wherever mind creates, hold the mind there only."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "anāgatāyāṃ nidrāyāṃ",
+     "gloss": "in-approaching-sleep",
+     "grounds": "approaching sleep locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pranaṣṭe",
+     "gloss": "lost",
+     "grounds": "lost locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhyagocare",
+     "gloss": "external-objects",
+     "grounds": "external objects locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is lost in approaching sleep?",
+   "premises": [
+    "approaching sleep is locative",
+    "external objects are lost"
+   ],
+   "inference": "in approaching sleep external objects are lost",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "In approaching sleep, external objects are lost."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "tejasā",
+     "gloss": "by-light",
+     "grounds": "light instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sūrya dīpāder",
+     "gloss": "of-sun-lamp-etc",
+     "grounds": "sun lamp etc genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ākāśeśavalī kṛte",
+     "gloss": "in-sky-net-made",
+     "grounds": "sky net made locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is made in the sky by light?",
+   "premises": [
+    "light is instrumental",
+    "sun lamp etc genitive",
+    "sky net is made"
+   ],
+   "inference": "by light a sky net is made from sun lamp etc",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "By light, a sky net is made from sun, lamp, and so on."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "karaṅkiṇye",
+     "gloss": "skull-bearing",
+     "grounds": "skull-bearing locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krodhanayā",
+     "gloss": "wrathful",
+     "grounds": "wrathful instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "bhairavyā",
+     "gloss": "Bhairavi",
+     "grounds": "Bhairavi instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "lelihānayā",
+     "gloss": "licking",
+     "grounds": "licking instrumental",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "Who is skull-bearing and licking?",
+   "premises": [
+    "skull-bearing is locative",
+    "wrathful Bhairavi is licking"
+   ],
+   "inference": "the wrathful Bhairavi is skull-bearing and licking",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "Skull-bearing, the wrathful Bhairavi is licking."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "mṛdvāsanesphijaikena",
+     "gloss": "on-soft-seat",
+     "grounds": "soft seat compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "hastapādau",
+     "gloss": "hands-feet",
+     "grounds": "hands feet accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "nirāśrayam",
+     "gloss": "unsupported",
+     "grounds": "unsupported accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are hands and feet held unsupported?",
+   "premises": [
+    "soft seat is instrumental",
+    "hands feet are accusative",
+    "unsupported is accusative"
+   ],
+   "inference": "on a soft seat hold hands and feet unsupported",
+   "uncertainties": [
+    "compound reading"
+   ],
+   "plain_english": "On a soft seat, hold hands and feet unsupported."
+  }
+ ]
+}

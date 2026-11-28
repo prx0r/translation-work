@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "strīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "recipient category specified in genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vāma+kare",
+     "gloss": "on-left-hand",
+     "grounds": "locative compound indicating placement location",
+     "morph": "vāma+kara (loc.sg.m)"
+    },
+    {
+     "surface": "bandham",
+     "gloss": "binding",
+     "grounds": "object of placement continued from previous verse's wrapping instruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "contrasting recipient category in genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "qualifies following hand as placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "locative noun completing placement specification for others",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On which hands must the ritual binding be placed for women and for other recipients?",
+   "premises": [
+    "The binding is assigned to the left hand for women.",
+    "The binding is assigned to the right hand for others.",
+    "Hand placement of the binding differs by recipient category."
+   ],
+   "inference": "Therefore the ritual binding is placed on different hands depending on whether the recipient is a woman or another person.",
+   "uncertainties": [],
+   "plain_english": "For women, place the binding on the left hand; for others, place it on the right hand."
+  }
+ ]
+}

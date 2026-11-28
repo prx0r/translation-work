@@ -1,0 +1,1034 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "yonimudrāyā",
+     "gloss": "yoni-mudra-of",
+     "grounds": "genitive of yonimudrā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bandha",
+     "gloss": "bond",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "passive participle",
+     "morph": "m.nom.sg.pass"
+    }
+   ],
+   "question": "What bond is proclaimed as the yoni-mudra?",
+   "premises": [
+    "yonimudrāyā is genitive",
+    "bandha is nominative subject",
+    "prakīrtitaḥ means proclaimed"
+   ],
+   "inference": "The yoni-mudra is proclaimed as a bond.",
+   "uncertainties": [
+    "exact ritual referent of yoni-mudra"
+   ],
+   "plain_english": "Thus the bond of yoni-mudra is proclaimed."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "paścāttāḍanaṃ",
+     "gloss": "after-striking",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bodhanaṃ",
+     "gloss": "awakening",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two processes follow after striking?",
+   "premises": [
+    "paścāttāḍanaṃ means after-striking",
+    "bodhanaṃ means awakening",
+    "tathā coordinates terms"
+   ],
+   "inference": "After striking comes awakening and another listed process.",
+   "uncertainties": [
+    "second tathā referent unclear"
+   ],
+   "plain_english": "After-striking, awakening, and likewise."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "guptiḥ",
+     "gloss": "secrecies",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mantrasaṃskriyāḥ",
+     "gloss": "mantra-purifications",
+     "grounds": "compound plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What ten items are these mantra-purifications?",
+   "premises": [
+    "guptiḥ is nominative",
+    "daśa means ten",
+    "etāḥ means these",
+    "mantrasaṃskriyāḥ means mantra-purifications"
+   ],
+   "inference": "These ten are mantra-purifications called gupti.",
+   "uncertainties": [
+    "exact list of ten"
+   ],
+   "plain_english": "These ten secrecies are mantra-purifications."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sauvarṇalekhinyā",
+     "gloss": "golden-lettered",
+     "grounds": "instrumental adjective",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mātṛkārṇān",
+     "gloss": "mother-syllables",
+     "grounds": "accusative object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the mantrin write mother-syllables?",
+   "premises": [
+    "mantrī is agent",
+    "sauvarṇalekhinyā is instrumental",
+    "mātṛkārṇān is accusative object",
+    "yathākramam means in order"
+   ],
+   "inference": "The mantrin writes mother-syllables in order with golden letters.",
+   "uncertainties": [
+    "exact writing medium"
+   ],
+   "plain_english": "The mantrin writes mother-syllables in order with golden letters."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "avaśiṭaiḥ",
+     "gloss": "remaining",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mātṛkārṇaiḥ",
+     "gloss": "mother-syllables",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃpuṭīkṛtya",
+     "gloss": "enclosing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "he-recites",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What does one recite after enclosing remaining syllables?",
+   "premises": [
+    "avaśiṭaiḥ means remaining",
+    "mātṛkārṇaiḥ means mother-syllables",
+    "saṃpuṭīkṛtya means enclosing",
+    "taṃ is accusative",
+    "japet means he recites"
+   ],
+   "inference": "One recites that after enclosing remaining mother-syllables.",
+   "uncertainties": [
+    "referent of taṃ"
+   ],
+   "plain_english": "Having enclosed the remaining mother-syllables, he recites that."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "mantravarṇān",
+     "gloss": "mantra-letters",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recites",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who recites after making mantra-letters?",
+   "premises": [
+    "kṛtvā means having made",
+    "mantravarṇān means mantra-letters",
+    "japet means recites",
+    "sudhīḥ means wise one"
+   ],
+   "inference": "The wise one recites after making mantra-letters.",
+   "uncertainties": [
+    "exact making procedure"
+   ],
+   "plain_english": "Having made mantra-letters, the wise one recites."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "samālikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tāḍayet",
+     "gloss": "he-strikes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "candanāmbhasā",
+     "gloss": "sandal-water",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "With what does one strike after writing?",
+   "premises": [
+    "samālikhya means having written",
+    "tāḍayet means he strikes",
+    "candanāmbhasā means sandal-water"
+   ],
+   "inference": "One strikes with sandal-water after writing.",
+   "uncertainties": [
+    "object struck"
+   ],
+   "plain_english": "Having written, he strikes with sandal-water."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "samālikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "prasūnaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "karavīrajaiḥ",
+     "gloss": "of-karavīra",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With what flowers does one strike after writing?",
+   "premises": [
+    "samālikhya means having written",
+    "prasūnaiḥ means with flowers",
+    "karavīrajaiḥ means of karavīra"
+   ],
+   "inference": "One strikes with karavīra flowers after writing.",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "Having written, he strikes with karavīra flowers."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "aśvatthapallavaiḥ",
+     "gloss": "with-aśvattha-leaves",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "he-sprinkles",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "dative purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why does one sprinkle mantra with aśvattha leaves?",
+   "premises": [
+    "aśvatthapallavaiḥ means with aśvattha leaves",
+    "mantram is accusative",
+    "abhiṣiñcet means he sprinkles",
+    "viśuddhaye means for purification"
+   ],
+   "inference": "One sprinkles mantra with aśvattha leaves for purification.",
+   "uncertainties": [
+    "exact sprinkling substance"
+   ],
+   "plain_english": "He sprinkles the mantra with aśvattha leaves for purification."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "yonibandha",
+     "gloss": "yoni-bandha",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrdhvapavanaḥ",
+     "gloss": "upward-breath",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadutthajyotiṣā",
+     "gloss": "from-that-risen-light",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows yoni-bandha and upward breath?",
+   "premises": [
+    "yonibandha means yoni-bandha",
+    "ūrdhvapavanaḥ means upward breath",
+    "tadutthajyotiṣā means from that risen light",
+    "tataḥ means then"
+   ],
+   "inference": "After yoni-bandha and upward breath comes light and then action.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "Yoni-bandha, upward breath, then from that risen light."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimalīkaraṇaṃ",
+     "gloss": "purification",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purification does the mantrin perform?",
+   "premises": [
+    "mantrī is agent",
+    "vimalīkaraṇaṃ means purification",
+    "tu means indeed",
+    "idam means this"
+   ],
+   "inference": "The mantrin performs this purification.",
+   "uncertainties": [
+    "exact purification rite"
+   ],
+   "plain_english": "Indeed, this is the mantrin's purification."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "pratyarṇaṃ",
+     "gloss": "per-syllable",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "nominative/accusative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What sprinkling is done per syllable of mantra?",
+   "premises": [
+    "pratyarṇaṃ means per syllable",
+    "prokṣaṇaṃ means sprinkling",
+    "manoḥ means of mantra"
+   ],
+   "inference": "Sprinkling is done per syllable of the mantra.",
+   "uncertainties": [
+    "exact sprinkling agent"
+   ],
+   "plain_english": "Sprinkling per syllable of the mantra."
+  },
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "repeated noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "held",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass"
+    }
+   ],
+   "question": "What is held as libation in tantra?",
+   "premises": [
+    "tantre means in tantra",
+    "tarpaṇaṃ means libation",
+    "matam means held"
+   ],
+   "inference": "Libation is held as the view in tantra.",
+   "uncertainties": [
+    "repetition significance"
+   ],
+   "plain_english": "In tantra, libation is held as libation."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "gopanaṃ",
+     "gloss": "concealment",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aprakāśanam",
+     "gloss": "non-manifestation",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is concealment in this context?",
+   "premises": [
+    "gopanaṃ means concealment",
+    "tu means indeed",
+    "aprakāśanam means non-manifestation"
+   ],
+   "inference": "Concealment is non-manifestation.",
+   "uncertainties": [
+    "exact object concealed"
+   ],
+   "plain_english": "Concealment is indeed non-manifestation."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathoktaphalam",
+     "gloss": "stated-fruit",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "enjoys",
+     "grounds": "verb",
+     "morph": "3.sg.mid.pres"
+    }
+   ],
+   "question": "What does the mantrin enjoy by rite?",
+   "premises": [
+    "vidhinā means by rite",
+    "mantrī is agent",
+    "yathoktaphalam means stated fruit",
+    "aśnute means enjoys"
+   ],
+   "inference": "The mantrin enjoys the stated fruit by rite.",
+   "uncertainties": [
+    "exact rite"
+   ],
+   "plain_english": "By rite the mantrin enjoys the stated fruit."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "he-gives",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "right",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "he-places",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What does one give and place on the right?",
+   "premises": [
+    "dadyāt means he gives",
+    "varaṃ means boon",
+    "dakṣe means right",
+    "niveśayet means he places"
+   ],
+   "inference": "One gives a boon and places something on the right.",
+   "uncertainties": [
+    "object placed"
+   ],
+   "plain_english": "He gives a boon and places on the right."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "navanītaṃ",
+     "gloss": "fresh-butter",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhibhāṇḍaṃ",
+     "gloss": "curd-pot",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍam",
+     "gloss": "jaggery",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What offerings are listed with fresh butter?",
+   "premises": [
+    "navanītaṃ means fresh butter",
+    "ca means and",
+    "dadhibhāṇḍaṃ means curd-pot",
+    "tathā means and",
+    "guḍam means jaggery"
+   ],
+   "inference": "Fresh butter, curd-pot, and jaggery are listed.",
+   "uncertainties": [
+    "ritual use"
+   ],
+   "plain_english": "Fresh butter, curd-pot, and jaggery."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "vīṇāṃ",
+     "gloss": "vīṇā",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgaṃ",
+     "gloss": "serpent",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyañjanaṃ",
+     "gloss": "condiment",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kamaṇḍalum",
+     "gloss": "water-pot",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What objects are listed with vīṇā?",
+   "premises": [
+    "vīṇāṃ means vīṇā",
+    "tathā means and",
+    "nāgaṃ means serpent",
+    "vyañjanaṃ means condiment",
+    "ca means and",
+    "kamaṇḍalum means water-pot"
+   ],
+   "inference": "Vīṇā, serpent, condiment, and water-pot are listed.",
+   "uncertainties": [
+    "placement"
+   ],
+   "plain_english": "Vīṇā, serpent, condiment, and water-pot."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "pakṣiṇaṃ",
+     "gloss": "bird",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "he-employs",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What does one employ on the right?",
+   "premises": [
+    "pakṣiṇaṃ means bird",
+    "mudrāṃ means seal",
+    "dakṣiṇe means on right",
+    "viniyojayet means he employs"
+   ],
+   "inference": "One employs bird and seal on the right.",
+   "uncertainties": [
+    "exact employment"
+   ],
+   "plain_english": "He employs bird and seal on the right."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pustaṃ",
+     "gloss": "book",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "he-contemplates",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What does one contemplate on the left?",
+   "premises": [
+    "pāśaṃ means noose",
+    "ca means and",
+    "pustaṃ means book",
+    "pātraṃ means vessel",
+    "vāme means on left",
+    "vicintayet means he contemplates"
+   ],
+   "inference": "One contemplates noose, book, and vessel on the left.",
+   "uncertainties": [
+    "exact contemplation"
+   ],
+   "plain_english": "He contemplates noose, book, and vessel on the left."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ḍamaruṃ",
+     "gloss": "drum",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What weapons are listed with fruit?",
+   "premises": [
+    "phalaṃ means fruit",
+    "khaḍgaṃ means sword",
+    "triśūlaṃ means trident",
+    "ḍamaruṃ means drum",
+    "tathā means and"
+   ],
+   "inference": "Fruit, sword, trident, and drum are listed.",
+   "uncertainties": [
+    "placement"
+   ],
+   "plain_english": "Fruit, sword, trident, and drum."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "dhanurvāṇaṃ",
+     "gloss": "bow-arrow",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cobhayorhastakaṅkaṇaṃ",
+     "gloss": "on-both-hands",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mudrikāṃ",
+     "gloss": "ring",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gadām",
+     "gloss": "mace",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is placed on both hands?",
+   "premises": [
+    "dhanurvāṇaṃ means bow-arrow",
+    "ca means and",
+    "cobhayorhastakaṅkaṇaṃ means on both hands",
+    "mudrikāṃ means ring",
+    "gadām means mace"
+   ],
+   "inference": "Bow-arrow, ring, and mace are placed on both hands.",
+   "uncertainties": [
+    "exact hand assignment"
+   ],
+   "plain_english": "Bow-arrow, ring, and mace on both hands."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "arghapātraṃ",
+     "gloss": "offering-vessel",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cobhayostu",
+     "gloss": "on-both",
+     "grounds": "compound locative",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "he-gives",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does one give on both sides?",
+   "premises": [
+    "arghapātraṃ means offering-vessel",
+    "ca means and",
+    "cobhayostu means on both",
+    "dadyāt means he gives",
+    "puṣpāñjaliṃ means flower-offering",
+    "tathā means and"
+   ],
+   "inference": "One gives offering-vessel and flower-offering on both sides.",
+   "uncertainties": [
+    "exact sides"
+   ],
+   "plain_english": "He gives offering-vessel and flower-offering on both."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "sarvadevānāṃ",
+     "gloss": "of-all-gods",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "nominative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass"
+    }
+   ],
+   "question": "What color is declared for all gods and Viṣṇu?",
+   "premises": [
+    "sarvadevānāṃ means of all gods",
+    "pītaṃ means yellow",
+    "viṣṇoḥ means of Viṣṇu",
+    "samīritam means declared"
+   ],
+   "inference": "Yellow is declared for all gods and Viṣṇu.",
+   "uncertainties": [
+    "exact ritual application"
+   ],
+   "plain_english": "Yellow is declared for all gods and Viṣṇu."
+  }
+ ]
+}

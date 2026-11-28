@@ -1,0 +1,635 @@
+{
+ "song": "kul-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "sadbhaktisahitā",
+     "gloss": "with-true-devotion",
+     "grounds": "compound of sad-bhakti-sahitā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradā",
+     "gloss": "all-desire-fruit-giving",
+     "grounds": "compound of sarva-kāma-phala-pradā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What condition makes her all-desire-fruit-giving?",
+   "premises": [
+    "true devotion accompanies her",
+    "if that devotion is present",
+    "she gives all desired fruits"
+   ],
+   "inference": "Her fruit-giving power depends on true devotion being present.",
+   "uncertainties": [
+    "exact referent of sā is not explicit in this verse"
+   ],
+   "plain_english": "If she is accompanied by true devotion, she gives the fruits of all desires."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "sidhyanti",
+     "gloss": "are-accomplished",
+     "grounds": "root sidh, present active third plural",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sarvakāryāṇi",
+     "gloss": "all-tasks",
+     "grounds": "neuter plural nominative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "guruśuśrūṣayā",
+     "gloss": "by-service-to-guru",
+     "grounds": "compound in instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are all tasks accomplished for the dear one?",
+   "premises": [
+    "all tasks are accomplished",
+    "service to the guru is the means",
+    "the addressee is dear"
+   ],
+   "inference": "All tasks are accomplished through service to the guru.",
+   "uncertainties": [
+    "whether priye addresses Pārvatī or a disciple"
+   ],
+   "plain_english": "All tasks are accomplished, dear one, by service to the guru."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "gurudevārcako",
+     "gloss": "worshipper-of-guru-deity",
+     "grounds": "compound of guru-deva-arcaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "whoever",
+     "grounds": "relative pronoun with particle tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive of the relative",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "is-counted",
+     "grounds": "root gaṇ, present passive third singular",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What happens to the worshipper's merit?",
+   "premises": [
+    "whoever worships guru as deity",
+    "his merit is not counted",
+    "the merit is beyond ordinary reckoning"
+   ],
+   "inference": "The merit of one who worships the guru as deity is not merely counted.",
+   "uncertainties": [
+    "whether puṇyaṃ is nominative subject or accusative object"
+   ],
+   "plain_english": "Whoever worships the guru as deity has merit that is not counted."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "alpe",
+     "gloss": "small",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "great",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyam",
+     "gloss": "merit",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āḍhyadaridrayoḥ",
+     "gloss": "of-rich-and-poor",
+     "grounds": "compound genitive dual",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Is merit equal for rich and poor?",
+   "premises": [
+    "in small or great matters",
+    "merit is equal",
+    "for rich and poor alike"
+   ],
+   "inference": "Merit is equal for rich and poor, whether the matter is small or great.",
+   "uncertainties": [
+    "whether alpe and mahati modify puṇyam or the situation"
+   ],
+   "plain_english": "Whether the matter is small or great, merit is equal for rich and poor."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "root āp, present active third singular",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "bhaktireva",
+     "gloss": "devotion-indeed",
+     "grounds": "fused form of bhakti and eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does a disciple not obtain fruit?",
+   "premises": [
+    "the disciple does not obtain fruit",
+    "devotion alone is the cause",
+    "fruit depends on devotion"
+   ],
+   "inference": "A disciple fails to obtain fruit because devotion itself is the cause.",
+   "uncertainties": [
+    "whether bhaktireva is nominative subject or emphatic predicate"
+   ],
+   "plain_english": "The disciple does not obtain fruit, for devotion alone is the cause."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "adverbial indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāñchā",
+     "gloss": "desire",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "root as, optative third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "anubhūyāt",
+     "gloss": "should-experience",
+     "grounds": "root anubhū, passive optative third singular",
+     "morph": "3.sg.pass-opt"
+    },
+    {
+     "surface": "tadājñayā",
+     "gloss": "by-that-command",
+     "grounds": "compound in instrumental singular",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "When must a desire be experienced?",
+   "premises": [
+    "if desire necessarily exists",
+    "it should be experienced",
+    "it is experienced by that command"
+   ],
+   "inference": "When desire is present, it must be experienced according to that command.",
+   "uncertainties": [
+    "antecedent of tad in tadājñayā"
+   ],
+   "plain_english": "If desire necessarily exists, it should be experienced by that command."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mohāt",
+     "gloss": "from-delusion",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pacyeta",
+     "gloss": "is-cooked",
+     "grounds": "root pac, passive optative third singular",
+     "morph": "3.sg.pass-opt"
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trisaptake",
+     "gloss": "twenty-one-fold",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What happens to one driven by greed and delusion?",
+   "premises": [
+    "from greed and delusion",
+    "he is cooked in hell",
+    "for twenty-one-fold suffering"
+   ],
+   "inference": "One driven by greed and delusion is cooked in hell with twenty-one-fold suffering.",
+   "uncertainties": [
+    "whether trisaptake modifies duration or degree"
+   ],
+   "plain_english": "From greed and delusion, he is cooked in hell for twenty-one-fold suffering."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tiryag",
+     "gloss": "animal",
+     "grounds": "indeclinable adjective or adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonim",
+     "gloss": "womb",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpannaḥ",
+     "gloss": "having-attained",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kravyādaiḥ",
+     "gloss": "by-carnivores",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "bhakṣyate",
+     "gloss": "is-eaten",
+     "grounds": "root bhakṣ, present passive third singular",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What fate awaits him in animal birth?",
+   "premises": [
+    "he attains animal womb",
+    "he is eaten by carnivores",
+    "the addressee is dear"
+   ],
+   "inference": "Having attained animal birth, he is eaten by carnivores.",
+   "uncertainties": [
+    "whether tiryag modifies yonim or the subject"
+   ],
+   "plain_english": "He, having attained animal birth, is eaten by carnivores, dear one."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "patitasya",
+     "gloss": "of-fallen",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṣullakasya",
+     "gloss": "of-wretch",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "penance",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "root vid, present passive third singular",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is there penance for the fallen wretch?",
+   "premises": [
+    "for the fallen wretch",
+    "penance does not exist",
+    "no remedy is available"
+   ],
+   "inference": "There is no penance for the fallen wretch.",
+   "uncertainties": [
+    "whether patitasya and kṣullakasya are separate or appositional genitives"
+   ],
+   "plain_english": "For the fallen wretch, no penance exists."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "gurudroham",
+     "gloss": "guru-treachery",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāhuḥ",
+     "gloss": "they-call",
+     "grounds": "root prāh, present active third plural",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "root kṛ, present active third singular",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is called a sinner in this context?",
+   "premises": [
+    "they call this guru-treachery",
+    "whoever does it",
+    "he is a sinner"
+   ],
+   "inference": "Whoever commits this guru-treachery is a sinner.",
+   "uncertainties": [
+    "whether idaṃ refers to an act described earlier"
+   ],
+   "plain_english": "They call this guru-treachery; whoever does it is a sinner."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "anivedya",
+     "gloss": "without-offering",
+     "grounds": "absolutive form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "does",
+     "grounds": "root kṛ, optative active third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "root bhū, optative active third singular",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "brahmaghātakaḥ",
+     "gloss": "brahmin-killer",
+     "grounds": "compound masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes of one who acts without offering?",
+   "premises": [
+    "without offering, whoever acts",
+    "he becomes a brahmin-killer",
+    "the act is treated as grave"
+   ],
+   "inference": "One who acts without offering becomes a brahmin-killer.",
+   "uncertainties": [
+    "what must be offered is not specified here"
+   ],
+   "plain_english": "But whoever acts without offering becomes a brahmin-killer."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "gurubhiḥ",
+     "gloss": "by-gurus",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahiṣkāryo",
+     "gloss": "to-be-expelled",
+     "grounds": "gerundive masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṇḍyo",
+     "gloss": "punishable",
+     "grounds": "gerundive masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadhyaḥ",
+     "gloss": "killable",
+     "grounds": "gerundive masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghātakaiḥ",
+     "gloss": "by-executioners",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What sanctions apply to him by gurus?",
+   "premises": [
+    "by gurus he is to be expelled",
+    "he is punishable and killable",
+    "executioners carry out the killing"
+   ],
+   "inference": "He is to be expelled by gurus, punished, and killed by executioners.",
+   "uncertainties": [
+    "whether all three sanctions apply together or as alternatives"
+   ],
+   "plain_english": "By gurus he is to be expelled; he is punishable and killable by executioners."
+  }
+ ]
+}

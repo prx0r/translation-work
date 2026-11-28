@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "piśācayakṣasiddhāśca",
+     "gloss": "demons-yakshas-siddhas-and",
+     "grounds": "fused compound of piśāca, yakṣa, and siddha with enclitic ca; internal sandhi in siddhāśca",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "gandharvāpsarasāṃ gaṇāḥ",
+     "gloss": "gandharva-apsaras-groups",
+     "grounds": "two separate words: genitive plural of gandharva and apsaras modifying gaṇāḥ",
+     "morph": "m.nom.pl + f.gen.pl"
+    }
+   ],
+   "question": "Which classes of beings are named as present in this Kaula passage?",
+   "premises": [
+    "Piśācas yakṣas and siddhas are named.",
+    "Gandharva and apsaras groups are named.",
+    "The passage lists attending spirit classes."
+   ],
+   "inference": "The passage names piśācas, yakṣas, siddhas, gandharvas, and apsaras groups.",
+   "uncertainties": [
+    "The exact ritual function of the named beings is not stated."
+   ],
+   "plain_english": "Piśācas, yakṣas, siddhas, and groups of gandharvas and apsaras."
+  }
+ ]
+}

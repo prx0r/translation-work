@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p191",
+ "items": [
+  {
+   "verse": 4775,
+   "rows": [
+    {
+     "surface": "pradhānena",
+     "gloss": "with-principal",
+     "grounds": "instrumental qualifier indicating the primary element in the ritual action",
+     "morph": "adj.ins.sg.n"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "with-śiva",
+     "grounds": "instrumental noun referring to Śiva as the principal deity invoked",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "aṅgaiḥ",
+     "gloss": "with-limbs",
+     "grounds": "instrumental plural referring to the subsidiary limbs or ancillary mantras",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūrva-dik-sthaṇḍile",
+     "gloss": "in-eastern-direction-altar",
+     "grounds": "locative compound indicating the ritual location; pūrva-dik = eastern direction, sthaṇḍile = altar ground",
+     "morph": "compound:pūrva-dik+sthaṇḍile; n.loc.sg"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "prescribed",
+     "grounds": "past participle expressing what is enjoined or held as prescribed in the rite",
+     "morph": "ppp.nom.pl.m (√man)"
+    }
+   ],
+   "question": "By which principal deity and limbs are offerings prescribed in the eastern altar?",
+   "premises": [
+    "The ritual context involves offerings made after establishing the fire of Śiva.",
+    "Śiva is designated as the principal element in the prescribed action.",
+    "The limbs accompany the principal deity in the ritual performance.",
+    "The eastern altar is specified as the location for these prescribed acts."
+   ],
+   "inference": "Offerings in the eastern altar are prescribed to be performed with Śiva as the principal deity together with the limbs.",
+   "uncertainties": [
+    "Whether aṅgaiḥ refers specifically to mantra-limbs or to ritual accessories is not fully explicit."
+   ],
+   "plain_english": "They are prescribed to be performed with Śiva as the principal, together with the limbs, in the altar on the eastern side."
+  }
+ ]
+}

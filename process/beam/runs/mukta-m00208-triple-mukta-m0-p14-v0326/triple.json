@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "sitataṇḍulacūrṇena",
+     "gloss": "with-white-rice-flour",
+     "grounds": "instrumental compound indicating material used",
+     "morph": "compound=sita+taṇḍula+cūrṇa; n.ins.sg"
+    },
+    {
+     "surface": "padmaṣṭadalaṃ",
+     "gloss": "eight-petaled-lotus",
+     "grounds": "object describing the figure to be formed",
+     "morph": "compound=padma+aṣṭa+dala; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What ritual figure should be formed using white rice flour?",
+   "premises": [
+    "White rice flour serves as the prescribed material.",
+    "An eight-petaled lotus is the specified figure.",
+    "The formation is enjoined as a ritual action."
+   ],
+   "inference": "An eight-petaled lotus should be made with white rice flour.",
+   "uncertainties": [],
+   "plain_english": "An eight-petaled lotus should be made with white rice flour."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "ekonapañcāśatkoṣṭhacakram",
+     "gloss": "forty-nine-cell-diagram",
+     "grounds": "compound naming a grid with forty-nine compartments",
+     "morph": "compound=ekona+pañcāśat+koṣṭha+cakra; n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner following prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence to next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What diagrammatic structure should be formed next in the ritual sequence?",
+   "premises": [
+    "A forty-nine-cell diagram is specified.",
+    "The formation follows the previous step.",
+    "The action is prescribed for the next stage."
+   ],
+   "inference": "A forty-nine-cell diagram should then be made in that manner.",
+   "uncertainties": [],
+   "plain_english": "Then, in this way, a diagram of forty-nine cells should be made."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "daśāyudhāni",
+     "gloss": "ten-weapons",
+     "grounds": "objects to be placed in the ritual layout",
+     "morph": "compound=daśa+āyudha; n.acc.pl"
+    },
+    {
+     "surface": "vinyasyet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement action",
+     "morph": "3.sg.act.opt vi+ni+√as"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indicates surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "central ritual diagram around which placement occurs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "signals repetition or continuation of procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the ten weapons be placed relative to the mandala?",
+   "premises": [
+    "Ten weapons are the items to be arranged.",
+    "The mandala is the central reference point.",
+    "Placement around it is prescribed."
+   ],
+   "inference": "The ten weapons should be placed around the mandala.",
+   "uncertainties": [],
+   "plain_english": "One should again place the ten weapons around the mandala."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "directional location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāmaraṃ",
+     "gloss": "fly-whisk",
+     "grounds": "ritual object placed in the south",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "ritual object placed in the south",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nairṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "directional location for placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pañcakoṇakam",
+     "gloss": "five-cornered-figure",
+     "grounds": "geometric figure placed in the southwest",
+     "morph": "compound=pañca+koṇa+ka; n.acc.sg"
+    }
+   ],
+   "question": "Which ritual objects are assigned to the southern and southwestern directions?",
+   "premises": [
+    "The south receives specific ritual objects.",
+    "The southwest receives a distinct geometric figure.",
+    "Directional placement is explicitly prescribed."
+   ],
+   "inference": "A fly-whisk and umbrella belong in the south, and a five-cornered figure in the southwest.",
+   "uncertainties": [],
+   "plain_english": "Place the fly-whisk and umbrella in the south, and the five-cornered figure in the southwest."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "directional location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ḍamaruṃ",
+     "gloss": "drum",
+     "grounds": "ritual object placed in the north",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlam",
+     "gloss": "trident",
+     "grounds": "ritual object placed in the north",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aiśāne",
+     "gloss": "in-northeast",
+     "grounds": "directional location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭakoṇakam",
+     "gloss": "eight-cornered-figure",
+     "grounds": "geometric figure placed in the northeast",
+     "morph": "compound=aṣṭa+koṇa+ka; n.acc.sg"
+    }
+   ],
+   "question": "Which ritual objects are assigned to the northern and northeastern directions?",
+   "premises": [
+    "The north receives specific ritual objects.",
+    "The northeast receives a distinct geometric figure.",
+    "Directional placement is explicitly prescribed."
+   ],
+   "inference": "A drum and trident belong in the north, and an eight-cornered figure in the northeast.",
+   "uncertainties": [],
+   "plain_english": "Place the drum and trident in the north, and the eight-cornered figure in the northeast."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "bhadramaṇḍalam",
+     "gloss": "auspicious-mandala",
+     "grounds": "name of the described ritual diagram",
+     "morph": "compound=bhadra+maṇḍala; n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states the traditional designation",
+     "morph": "n.nom.sg.past-pass-part ā+√khyā"
+    },
+    {
+     "surface": "bhadradaṃ",
+     "gloss": "auspiciousness-giving",
+     "grounds": "describes the mandala's beneficial effect",
+     "morph": "compound=bhadra+da; n.nom.sg"
+    },
+    {
+     "surface": "muktidaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "describes the mandala's soteriological effect",
+     "morph": "compound=mukti+da; n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "emphasizes highest status",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and spiritual benefits are attributed to this auspicious mandala?",
+   "premises": [
+    "The diagram is explicitly named the auspicious mandala.",
+    "It is said to grant auspiciousness.",
+    "It is said to grant liberation and is called supreme."
+   ],
+   "inference": "This supreme auspicious mandala is declared to grant auspiciousness and liberation.",
+   "uncertainties": [],
+   "plain_english": "This is declared the auspicious mandala, supreme, granting auspiciousness and liberation."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "ṣaṇṇavatyuttaradvādaśaśatātmakakoṣṭhakam",
+     "gloss": "twelve-hundred-ninety-six-celled",
+     "grounds": "compound specifying a grid composed of 1296 cells",
+     "morph": "compound=ṣaṇṇavati+uttara+dvādaśaśata+ātmaka+koṣṭhaka; n.nom.sg"
+    }
+   ],
+   "question": "What is the specified cell count of the next ritual grid?",
+   "premises": [
+    "A grid structure is being specified.",
+    "The compound encodes a numerical composition.",
+    "The total indicated is twelve hundred ninety-six cells."
+   ],
+   "inference": "The next grid consists of twelve hundred ninety-six cells.",
+   "uncertainties": [],
+   "plain_english": "It is a grid made of twelve hundred and ninety-six cells."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "daśāyudhāni",
+     "gloss": "ten-weapons",
+     "grounds": "objects to be placed in the ritual layout",
+     "morph": "compound=daśa+āyudha; n.acc.pl"
+    },
+    {
+     "surface": "vinyasyet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement action",
+     "morph": "3.sg.act.opt vi+ni+√as"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indicates surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "central ritual diagram around which placement occurs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-practitioner",
+     "grounds": "agent qualified to perform the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should place the ten weapons around this mandala?",
+   "premises": [
+    "Ten weapons are to be arranged.",
+    "The placement is around the mandala.",
+    "A wise practitioner is specified as the agent."
+   ],
+   "inference": "The wise practitioner should place the ten weapons around the mandala.",
+   "uncertainties": [],
+   "plain_english": "The wise practitioner should place the ten weapons around the mandala."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "tattvamaṇḍalam",
+     "gloss": "reality-mandala",
+     "grounds": "name of the described ritual diagram",
+     "morph": "compound=tattva+maṇḍala; n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states the traditional designation",
+     "morph": "n.nom.sg.past-pass-part ā+√khyā"
+    },
+    {
+     "surface": "tattvānubhavasādhanam",
+     "gloss": "means-for-reality-experience",
+     "grounds": "describes the mandala's function as a means to realization",
+     "morph": "compound=tattva+anubhava+sādhana; n.nom.sg"
+    }
+   ],
+   "question": "What name and spiritual function are attributed to the reality mandala?",
+   "premises": [
+    "The diagram is explicitly named the reality mandala.",
+    "It is declared to be a means.",
+    "Its purpose is the experience of reality."
+   ],
+   "inference": "The reality mandala is declared a means for experiencing reality.",
+   "uncertainties": [],
+   "plain_english": "This is declared the reality mandala, a means for the experience of reality."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "bhadramaṇḍalamukhyāni",
+     "gloss": "auspicious-mandala-chief-ones",
+     "grounds": "principal mandalas beginning with the auspicious mandala",
+     "morph": "compound=bhadra+maṇḍala+mukhya; n.acc.pl"
+    },
+    {
+     "surface": "gurvyādiṣu",
+     "gloss": "in-guru-and-others",
+     "grounds": "contexts or occasions beginning with the guru rite",
+     "morph": "compound=gurvī+ādi; n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement action",
+     "morph": "3.sg.act.opt vi+ni+√as"
+    }
+   ],
+   "question": "In which ritual contexts should the principal auspicious mandalas be placed?",
+   "premises": [
+    "Principal mandalas beginning with the auspicious mandala are specified.",
+    "Contexts beginning with the guru rite are indicated.",
+    "Placement in those contexts is prescribed."
+   ],
+   "inference": "The principal auspicious mandalas should be placed in the guru rite and related contexts.",
+   "uncertainties": [
+    "The exact scope of 'gurvyādiṣu' is not fully specified."
+   ],
+   "plain_english": "One should place the principal mandalas, beginning with the auspicious mandala, in the guru rite and other such contexts."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "gurvyāṃ",
+     "gloss": "in-guru-rite",
+     "grounds": "ritual context for the prescribed options",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahatyām",
+     "gloss": "in-great-rite",
+     "grounds": "alternative or additional ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numerical option",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturo",
+     "gloss": "four",
+     "grounds": "numerical option",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numerical options are permitted in the guru rite or the great rite?",
+   "premises": [
+    "The guru rite and the great rite are named contexts.",
+    "Two is given as one option.",
+    "Four is given as another option."
+   ],
+   "inference": "In the guru rite or the great rite, one may use two or four.",
+   "uncertainties": [
+    "The items being counted are not explicitly named in this verse."
+   ],
+   "plain_english": "In the guru rite or in the great rite, one may use two, or else four."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avasarākhyaṃ",
+     "gloss": "occasion-named",
+     "grounds": "name of the third ritual form",
+     "morph": "compound=avasara+ākhya; n.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.act.opt sam+√pūj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the third ritual form called avasara be honored?",
+   "premises": [
+    "A third ritual form is identified.",
+    "It is named avasara.",
+    "Worship of it is prescribed in this manner."
+   ],
+   "inference": "The third form, called avasara, should be worshipped in this way.",
+   "uncertainties": [],
+   "plain_english": "Beloved, one should thus worship the third form, called avasara."
+  },
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "darśanākhyaṃ",
+     "gloss": "vision-named",
+     "grounds": "name of the first ritual form",
+     "morph": "compound=darśana+ākhya; n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states identification",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "avasarākhyaṃ",
+     "gloss": "occasion-named",
+     "grounds": "name of the second ritual form",
+     "morph": "compound=avasara+ākhya; n.nom.sg"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the names assigned to the first and second ritual forms?",
+   "premises": [
+    "The first ritual form is identified.",
+    "The second ritual form is identified.",
+    "Each is given a specific name."
+   ],
+   "inference": "The first is called darśana and the second is called avasara.",
+   "uncertainties": [],
+   "plain_english": "The first should be called darśana, and the second should be called avasara."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "karpūrākhyaṃ",
+     "gloss": "camphor-named",
+     "grounds": "name of the fifth ritual form",
+     "morph": "compound=karpūra+ākhya; n.nom.sg"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states identification",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṅgārasaṃjñakam",
+     "gloss": "erotic-named",
+     "grounds": "name of the sixth ritual form",
+     "morph": "compound=śṛṅgāra+saṃjñaka; n.nom.sg"
+    }
+   ],
+   "question": "What are the names assigned to the fifth and sixth ritual forms?",
+   "premises": [
+    "The fifth ritual form is identified.",
+    "The sixth ritual form is identified.",
+    "Each is given a specific name."
+   ],
+   "inference": "The fifth is called karpūra and the sixth is called śṛṅgāra.",
+   "uncertainties": [],
+   "plain_english": "The fifth should be called karpūra, and the sixth should be called śṛṅgāra."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "asaṃkhyātābhidhaṃ",
+     "gloss": "countless-named",
+     "grounds": "name of the ninth ritual form",
+     "morph": "compound=asaṃkhyāta+abhidha; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the named form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal designation of a ritual form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "states traditional declaration",
+     "morph": "n.nom.sg.past-pass-part pari+√kīrt"
+    }
+   ],
+   "question": "What name is proclaimed for the ninth ritual form in this sequence?",
+   "premises": [
+    "A ninth ritual form is identified.",
+    "It is given a specific name.",
+    "The name is traditionally proclaimed."
+   ],
+   "inference": "The ninth form is proclaimed as called asaṃkhyāta.",
+   "uncertainties": [],
+   "plain_english": "And this ninth form is proclaimed as called asaṃkhyāta, the countless."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "gurvarcane",
+     "gloss": "in-guru-worship",
+     "grounds": "ritual context of honoring the guru",
+     "morph": "compound=guru+arcana; n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "there-are",
+     "grounds": "states existence or occurrence",
+     "morph": "3.pl.act.pres √bhū"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "numerical count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyavrate",
+     "gloss": "beloved-vowed-one",
+     "grounds": "vocative address to the listener",
+     "morph": "compound=priya+vrata; f.voc.sg"
+    }
+   ],
+   "question": "How many ritual forms are present in the worship of the guru?",
+   "premises": [
+    "The context is guru worship.",
+    "A specific number is stated.",
+    "The statement is addressed emphatically to the listener."
+   ],
+   "inference": "In guru worship there are indeed eleven forms.",
+   "uncertainties": [
+    "The items counted as eleven are not explicitly named in this verse."
+   ],
+   "plain_english": "O beloved vowed one, in the worship of the guru there are indeed eleven."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numerical option for wicks",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numerical option for wicks",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "stated",
+     "grounds": "indicates traditional prescription",
+     "morph": "f.nom.sg.past-pass-part pra+√vac"
+    },
+    {
+     "surface": "vartikā",
+     "gloss": "wick",
+     "grounds": "ritual lamp wick",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "laghupūjane",
+     "gloss": "in-light-worship",
+     "grounds": "context of a brief or lesser worship",
+     "morph": "compound=laghu+pūjana; n.loc.sg"
+    }
+   ],
+   "question": "How many wicks are prescribed for use in a light worship?",
+   "premises": [
+    "The context is light worship.",
+    "Nine is given as one option.",
+    "Twelve is given as another option."
+   ],
+   "inference": "In light worship, nine or twelve wicks are prescribed.",
+   "uncertainties": [],
+   "plain_english": "In a light worship, nine or twelve wicks are prescribed."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "ānavakramasaṃkhyā",
+     "gloss": "small-order-number",
+     "grounds": "numerical option based on a lesser sequence",
+     "morph": "compound=āṇava+krama+saṃkhyā; f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "introduces another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṇṇavatiḥ",
+     "gloss": "ninety-six",
+     "grounds": "numerical option for wicks",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative wick counts are permitted beyond the basic light worship?",
+   "premises": [
+    "A number according to the lesser order is allowed.",
+    "Ninety-six is given as another option.",
+    "These are presented as alternatives."
+   ],
+   "inference": "One may use the number of the lesser order or ninety-six wicks.",
+   "uncertainties": [
+    "The exact value of 'ānavakramasaṃkhyā' is not specified here."
+   ],
+   "plain_english": "One may use the number of the lesser order, or likewise ninety-six."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "mahatyāṃ",
+     "gloss": "in-great",
+     "grounds": "qualifies the worship context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive indicating the deity's worship",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjāyāṃ",
+     "gloss": "in-worship",
+     "grounds": "ritual context for lighting wicks",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vartikā",
+     "gloss": "wick",
+     "grounds": "ritual lamp wick",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jvālayet",
+     "gloss": "one-should-light",
+     "grounds": "optative prescribing lighting action",
+     "morph": "3.sg.act.caus.opt √jval"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what kind of worship should one also light the prescribed wick?",
+   "premises": [
+    "A great worship is specified.",
+    "The worship is described as belonging to the speaker.",
+    "Lighting a wick in that context is prescribed."
+   ],
+   "inference": "One should also light a wick in my great worship.",
+   "uncertainties": [
+    "Whether singular wick implies one or stands generically is unclear."
+   ],
+   "plain_english": "One should also light a wick in my great worship."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result obtained from the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tisṛbhiḥ",
+     "gloss": "with-three",
+     "grounds": "instrumental indicating minimal number",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states resulting attainment",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "aṣṭottaraśatoditam",
+     "gloss": "stated-as-hundred-eight",
+     "grounds": "equates result of three with that of 108",
+     "morph": "compound=aṣṭa+uttara+śata+udita; n.nom.sg"
+    }
+   ],
+   "question": "What ritual result is obtained even when only three wicks are used?",
+   "premises": [
+    "Using three wicks is considered.",
+    "A result is affirmed for that number.",
+    "That result is equated with the result of one hundred eight."
+   ],
+   "inference": "Even with three wicks, one obtains the fruit stated for one hundred eight.",
+   "uncertainties": [],
+   "plain_english": "Even with just three, one obtains the fruit declared for one hundred and eight."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "nandyāvarta",
+     "gloss": "nandyavarta-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śriyāvarta",
+     "gloss": "shriyavarta-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karavīra",
+     "gloss": "oleander-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bakāni",
+     "gloss": "crane-flowers",
+     "grounds": "name of flowers used in worship",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers are listed first among those suitable for ritual offering?",
+   "premises": [
+    "Specific flowers are being enumerated.",
+    "Nandyāvarta, śriyāvarta, karavīra, and bakāni are named.",
+    "The list continues in subsequent verses."
+   ],
+   "inference": "Nandyāvarta, śriyāvarta, karavīra, and bakāni are among the prescribed flowers.",
+   "uncertainties": [
+    "Exact botanical identification of bakāni may vary."
+   ],
+   "plain_english": "Nandyāvarta, śriyāvarta, karavīra, and bakāni flowers are included."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "lodhra",
+     "gloss": "lodhra-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhuttūra",
+     "gloss": "datura-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirguṇḍī",
+     "gloss": "nirgundi-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vilva",
+     "gloss": "bilva-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśoka",
+     "gloss": "ashoka-flower",
+     "grounds": "name of a flower used in worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "munīni",
+     "gloss": "sage-flowers",
+     "grounds": "name of flowers used in worship",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional flowers continue the list of ritual offerings?",
+   "premises": [
+    "The enumeration of flowers continues.",
+    "Lodhra, dhuttūra, nirguṇḍī, vilva, aśoka, and munīni are named.",
+    "These are included among suitable offerings."
+   ],
+   "inference": "Lodhra, dhuttūra, nirguṇḍī, vilva, aśoka, and munīni are also prescribed flowers.",
+   "uncertainties": [
+    "Exact botanical identification of munīni may vary."
+   ],
+   "plain_english": "Lodhra, dhuttūra, nirguṇḍī, vilva, aśoka, and munīni flowers are also included."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative referring to previously listed flowers",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sāttvikāni",
+     "gloss": "sattvic",
+     "grounds": "classifies the flowers by quality",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "states classification",
+     "morph": "3.pl.act.opt √as"
+    },
+    {
+     "surface": "muktidaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "describes their spiritual effect",
+     "morph": "compound=mukti+da; n.nom.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "they-become",
+     "grounds": "states resulting efficacy",
+     "morph": "3.pl.act.pres √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual quality and spiritual effect are attributed to these listed flowers?",
+   "premises": [
+    "The previously listed flowers are referred to collectively.",
+    "They are classified as sattvic.",
+    "They are said to grant liberation."
+   ],
+   "inference": "These flowers are sattvic and indeed grant liberation.",
+   "uncertainties": [],
+   "plain_english": "These are sattvic and indeed grant liberation."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "miśrāṇi",
+     "gloss": "mixed",
+     "grounds": "classifies another group of flowers by quality",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pītavarṇāni",
+     "gloss": "yellow-colored",
+     "grounds": "describes the appearance of those flowers",
+     "morph": "compound=pīta+varṇa; n.nom.pl"
+    },
+    {
+     "surface": "bhogamokṣapradāni",
+     "gloss": "enjoyment-liberation-giving",
+     "grounds": "describes their dual spiritual effect",
+     "morph": "compound=bhoga+mokṣa+prada; n.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities and results are attributed to the mixed yellow-colored flowers?",
+   "premises": [
+    "A group of mixed flowers is identified.",
+    "They are described as yellow-colored.",
+    "They are said to grant both enjoyment and liberation."
+   ],
+   "inference": "Mixed yellow-colored flowers indeed grant both enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "Mixed yellow-colored flowers indeed grant both enjoyment and liberation."
+  }
+ ]
+}

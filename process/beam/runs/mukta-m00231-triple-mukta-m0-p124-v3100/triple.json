@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candrakalāḥ",
+     "gloss": "moon-digits",
+     "grounds": "compound candrakalā in plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "worshipful",
+     "grounds": "adjective agreeing with candrakalāḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "āśiraś",
+     "gloss": "from-head",
+     "grounds": "compound āśiras with ablative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caraṇāvadhi",
+     "gloss": "to-feet",
+     "grounds": "compound caraṇa-avadhi with terminative sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are the moon-digits to be worshipped from head to feet?",
+   "premises": [
+    "moon-digits are worshipful",
+    "worship extends from head",
+    "worship reaches to feet"
+   ],
+   "inference": "the lunar digits receive worship throughout the body",
+   "uncertainties": [
+    "exact ritual referent of moon-digits unspecified",
+    "whether the list names sixteen digits"
+   ],
+   "plain_english": "Then the moon-digits are to be worshipped from head to feet."
+  }
+ ]
+}

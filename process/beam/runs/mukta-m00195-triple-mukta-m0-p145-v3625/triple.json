@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "kadalīnārikerādiphalaiḥ",
+     "gloss": "with-banana-coconut-and-other-fruits",
+     "grounds": "compound of kadalī, nārikera, ādi, and phala; instrumental plural indicating means of offering",
+     "morph": "compound; n.inst.pl"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "refers to the female recipient brought for worship in the preceding verses",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative expressing a prescribed ritual action; root tuṣ with prefix pari",
+     "morph": "3.sg.act-opt; √tuṣ+pari"
+    }
+   ],
+   "question": "By what kinds of fruits should one bring complete satisfaction to her?",
+   "premises": [
+    "The prescribed offerings include bananas, coconuts, and other fruits.",
+    "These fruits serve as the means of pleasing her.",
+    "She is the designated recipient of this ritual satisfaction."
+   ],
+   "inference": "Therefore one should satisfy her by offering fruits such as bananas, coconuts, and others.",
+   "uncertainties": [
+    "The specific range of fruits included by ādi is not explicitly enumerated."
+   ],
+   "plain_english": "One should satisfy her with fruits such as bananas, coconuts, and others."
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "song": "kul-p18",
+ "items": [
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "aghora-sadyojātau",
+     "gloss": "aghora-and-sadyojāta",
+     "grounds": "compound naming two deities",
+     "morph": "compound(m.nom.du)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmadeva",
+     "gloss": "vāmadeva",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīritāḥ",
+     "gloss": "thus-declared",
+     "grounds": "states identification of the deities",
+     "morph": "m.nom.pl.past-passive-participle(√īr)"
+    }
+   ],
+   "question": "Which deities are declared to be Aghora, Sadyojāta, and Vāmadeva?",
+   "premises": [
+    "Aghora and Sadyojāta are named together.",
+    "Vāmadeva is named in addition.",
+    "These names are declared as identifications."
+   ],
+   "inference": "Aghora, Sadyojāta, and Vāmadeva are the deities being identified.",
+   "uncertainties": [],
+   "plain_english": "Aghora, Sadyojāta, and Vāmadeva are thus declared."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "chandomayī",
+     "gloss": "consisting-of-meters",
+     "grounds": "describes the deity's nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jagatsthānā",
+     "gloss": "abiding-in-world",
+     "grounds": "describes the deity's locus",
+     "morph": "compound(f.nom.sg)"
+    },
+    {
+     "surface": "jvalattārā",
+     "gloss": "blazing-star",
+     "grounds": "describes the deity's radiance",
+     "morph": "compound(f.nom.sg)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indicates what follows or is higher",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attributes characterize the deity described as coming next and beyond?",
+   "premises": [
+    "The deity is described as consisting of meters.",
+    "The deity abides in the world and is like a blazing star.",
+    "This description is given as what comes next and beyond."
+   ],
+   "inference": "The next deity is characterized as meter-formed, world-abiding, and blazing like a star.",
+   "uncertainties": [
+    "The exact referent of 'beyond' is context-dependent."
+   ],
+   "plain_english": "Then, beyond, comes the deity who consists of meters, abides in the world, and shines like a blazing star."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "kabhādīnāṃ",
+     "gloss": "beginning-with-ka-bha",
+     "grounds": "specifies the starting range of letters",
+     "morph": "compound(m.gen.pl)"
+    },
+    {
+     "surface": "ṭhaḍāntānāṃ",
+     "gloss": "ending-with-ṭha-ḍa",
+     "grounds": "specifies the ending range of letters",
+     "morph": "compound(m.gen.pl)"
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "of-letters",
+     "grounds": "the domain over which deities preside",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devatāstvimāḥ",
+     "gloss": "deities-and-these",
+     "grounds": "identifies the deities of that letter range; fused form",
+     "morph": "compound(f.nom.pl)"
+    }
+   ],
+   "question": "Which deities preside over the letters ranging from ka-bha to ṭha-ḍa?",
+   "premises": [
+    "A range of letters is specified from ka-bha to ṭha-ḍa.",
+    "These letters are the domain in question.",
+    "Certain deities are identified as belonging to them."
+   ],
+   "inference": "The deities mentioned are those presiding over the letters from ka-bha to ṭha-ḍa.",
+   "uncertainties": [
+    "The specific names of these deities are supplied by context."
+   ],
+   "plain_english": "These are the deities of the letters beginning with ka and bha and ending with ṭha and ḍa."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "hiraṇyagarbha",
+     "gloss": "golden-womb",
+     "grounds": "name or epithet of the first deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityuktāḥ",
+     "gloss": "thus-called",
+     "grounds": "indicates the naming of the group",
+     "morph": "m.nom.pl.past-passive-participle(√vac)"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-sequence",
+     "grounds": "indicates ordered enumeration",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "brahmādayo",
+     "gloss": "brahmā-and-others",
+     "grounds": "names the group beginning with Brahmā",
+     "morph": "compound(m.nom.pl)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "specifies the number of deities",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are the ten deities called Hiraṇyagarbha and others in sequence?",
+   "premises": [
+    "The group is called Hiraṇyagarbha and so forth.",
+    "The group begins with Brahmā and others.",
+    "The group consists of ten deities in sequence."
+   ],
+   "inference": "Ten deities, beginning with Brahmā and called Hiraṇyagarbha and others, are enumerated in order.",
+   "uncertainties": [],
+   "plain_english": "The ten deities, called Hiraṇyagarbha and others, are Brahmā and the rest in sequence."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "lalitā",
+     "gloss": "lalitā",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "kṣamā",
+     "grounds": "name of a deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "marks the end of enumeration; fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "states the identification",
+     "morph": "f.nom.sg.past-passive-participle(√vac)"
+    },
+    {
+     "surface": "yādyarṇadevatāḥ",
+     "gloss": "deities-of-letters-beginning-with-ya",
+     "grounds": "specifies the domain of these deities",
+     "morph": "compound(f.nom.pl)"
+    }
+   ],
+   "question": "Which deities are declared to preside over the letters beginning with ya?",
+   "premises": [
+    "Lalitā and Kṣamā are named.",
+    "They are declared as deities of certain letters.",
+    "Those letters begin with ya."
+   ],
+   "inference": "Lalitā and Kṣamā are the deities of the letters beginning with ya.",
+   "uncertainties": [],
+   "plain_english": "Lalitā and Kṣamā are declared to be the deities of the letters beginning with ya."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "caturthyā+namasā+yuktān",
+     "gloss": "joined-with-fourth-case-and-namas",
+     "grounds": "specifies the form of the names to be placed",
+     "morph": "compound(m.acc.pl.past-passive-participle(√yuj))"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānane",
+     "gloss": "on-face",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.act(√nyas)"
+    }
+   ],
+   "question": "In what form and on which body parts should the names be ritually placed?",
+   "premises": [
+    "The names are to be joined with the fourth case ending and 'namas'.",
+    "The head and the face are specified as locations.",
+    "A placement action is prescribed."
+   ],
+   "inference": "One should place the names, formed with the fourth case and 'namas', on the head and face.",
+   "uncertainties": [],
+   "plain_english": "One should place them, joined with the dative ending and 'namas', on the head and on the face."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "dakṣādivāmaparyantaṃ",
+     "gloss": "from-right-beginning-to-left-end",
+     "grounds": "specifies the direction and extent of placement",
+     "morph": "compound(m.acc.sg)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.act(√nyas)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which direction should the placement proceed, as addressed to the supreme goddess?",
+   "premises": [
+    "A directional range from right to left is specified.",
+    "A placement action is prescribed.",
+    "The instruction is addressed to the supreme goddess."
+   ],
+   "inference": "The placement should proceed from the right side to the left side.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, one should place them from the right side to the left."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "daśādhāreṣu",
+     "gloss": "in-ten-supports",
+     "grounds": "specifies the locations for placement",
+     "morph": "compound(m.loc.pl)"
+    },
+    {
+     "surface": "brahmādīn",
+     "gloss": "brahmā-and-others",
+     "grounds": "the deities to be placed",
+     "morph": "compound(m.acc.pl)"
+    },
+    {
+     "surface": "yādi",
+     "gloss": "beginning-with-ya",
+     "grounds": "qualifies the associated group or powers",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktiyutānnyaset",
+     "gloss": "joined-with-powers-one-should-place",
+     "grounds": "instruction to place them together with their powers; fused form",
+     "morph": "compound(m.acc.pl.past-passive-participle(√yuj)+3.sg.optative.act(√nyas))"
+    }
+   ],
+   "question": "Where should Brahmā and the others, together with their powers, be ritually placed?",
+   "premises": [
+    "Ten supports are specified as locations.",
+    "Brahmā and others are the objects of placement.",
+    "They are to be placed together with their powers."
+   ],
+   "inference": "Brahmā and the others, joined with their powers, should be placed in the ten supports.",
+   "uncertainties": [
+    "The exact referent of 'yādi' in this context is ambiguous."
+   ],
+   "plain_english": "One should place Brahmā and the others, together with their powers, in the ten supports."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "mūtīnyāsaṃ",
+     "gloss": "form-placement",
+     "grounds": "names the ritual placement of forms",
+     "morph": "compound(m.acc.sg)"
+    },
+    {
+     "surface": "vidhāyetthaṃ",
+     "gloss": "having-performed-thus",
+     "grounds": "indicates completion of the prior ritual step; fused form",
+     "morph": "compound(gerund(√vidhā)+(indecl.))"
+    },
+    {
+     "surface": "mantranyāsaṃ",
+     "gloss": "mantra-placement",
+     "grounds": "names the next ritual placement",
+     "morph": "compound(m.acc.sg)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.act(√sam-ā-car)"
+    }
+   ],
+   "question": "What ritual procedure should follow after completing the placement of forms?",
+   "premises": [
+    "The placement of forms is to be performed in this manner.",
+    "A subsequent placement of mantras is named.",
+    "The performance of that subsequent placement is prescribed."
+   ],
+   "inference": "After performing the placement of forms, one should perform the placement of mantras.",
+   "uncertainties": [],
+   "plain_english": "Having thus performed the placement of forms, one should carry out the placement of mantras."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "bhedaśca",
+     "gloss": "distinction-and",
+     "grounds": "introduces a differentiation; fused form",
+     "morph": "compound(m.nom.sg)"
+    },
+    {
+     "surface": "praṇavādyekākṣarātmākhilamantrataḥ",
+     "gloss": "from-all-mantras-whose-nature-is-praṇava-and-single-syllables",
+     "grounds": "specifies the class of mantras being distinguished",
+     "morph": "compound(m.abl.sg)"
+    }
+   ],
+   "question": "From which class of mantras is a distinction being drawn in this context?",
+   "premises": [
+    "A distinction is introduced.",
+    "The distinction concerns all mantras.",
+    "Those mantras have the nature of praṇava and single syllables."
+   ],
+   "inference": "A distinction is made among all mantras whose nature is praṇava and single syllables.",
+   "uncertainties": [
+    "The specific nature of the distinction is not fully stated in this verse."
+   ],
+   "plain_english": "And there is a distinction among all mantras whose nature is the praṇava and other single syllables."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "āyai",
+     "gloss": "to-her",
+     "grounds": "dative ending used in salutation",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tathaikakūṭeśvaryambādevyai",
+     "gloss": "and-to-one-peaked-sovereign-mother-goddess",
+     "grounds": "names the deity receiving salutation; fused compound",
+     "morph": "compound(f.dat.sg)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "formula of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "instruction for utterance",
+     "morph": "3.sg.optative.act(√vad)"
+    }
+   ],
+   "question": "What salutation should be uttered to the one-peaked sovereign mother goddess?",
+   "premises": [
+    "A dative form is used for the recipient of salutation.",
+    "The recipient is identified as the one-peaked sovereign mother goddess.",
+    "The utterance of 'namas' is prescribed."
+   ],
+   "inference": "One should utter 'namas' to the one-peaked sovereign mother goddess.",
+   "uncertainties": [],
+   "plain_english": "One should say: 'Salutation to the one-peaked sovereign mother goddess.'"
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "ṛṃ",
+     "gloss": "ṛṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṃ",
+     "gloss": "ṛṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḷṃ",
+     "gloss": "ḷṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "marks the start of a formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnyādi",
+     "gloss": "beginning-with-fire",
+     "grounds": "specifies another element of the formula",
+     "morph": "compound"
+    },
+    {
+     "surface": "trikūṭaṃ",
+     "gloss": "three-peaked",
+     "grounds": "names the mantra structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates continuity with prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the formula as highest",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme three-peaked formula is indicated by the syllables ṛṃ, ṛṃ, ḷṃ and fire?",
+   "premises": [
+    "The syllables ṛṃ, ṛṃ, and ḷṃ are given as a beginning.",
+    "An element beginning with fire is included.",
+    "A supreme three-peaked formula is referred to as before."
+   ],
+   "inference": "The supreme three-peaked formula begins with ṛṃ, ṛṃ, ḷṃ and includes the fire element, as previously described.",
+   "uncertainties": [
+    "The full expansion of the formula depends on prior context."
+   ],
+   "plain_english": "The supreme three-peaked formula, beginning with ṛṃ, ṛṃ, ḷṃ and with fire and so on, is as before."
+  }
+ ]
+}

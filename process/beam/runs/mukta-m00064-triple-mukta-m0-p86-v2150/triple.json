@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "nāgajais",
+     "gloss": "with-lead-born-substances",
+     "grounds": "nāgaja (nāga+ja, lead-born) in instrumental plural",
+     "morph": "ins.pl.nt"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "object of making",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuryān",
+     "gloss": "should-make",
+     "grounds": "optative expressing prohibition in context",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "mṛgacarmaṇi",
+     "gloss": "on-deer-skin",
+     "grounds": "mṛga-carman compound, locative of place",
+     "morph": "loc.sg.nt (mṛga+carman)"
+    },
+    {
+     "surface": "saṃviśet",
+     "gloss": "should-sit",
+     "grounds": "optative expressing prohibition in context",
+     "morph": "3.sg.act-opt sam+√viś"
+    }
+   ],
+   "question": "Are making a forehead-mark with lead substances and sitting on deer skin prohibited actions?",
+   "premises": [
+    "A forehead-mark should not be made with lead-born substances.",
+    "One should not sit upon a deer skin.",
+    "Both actions are enjoined as things to avoid."
+   ],
+   "inference": "Therefore, applying a lead forehead-mark and sitting on deer skin are forbidden.",
+   "uncertainties": [
+    "The precise substance denoted by nāgaja in this ritual context may be lead or another lead-derived material."
+   ],
+   "plain_english": "One should not make a forehead-mark with lead substances, nor should one sit on a deer skin."
+  }
+ ]
+}

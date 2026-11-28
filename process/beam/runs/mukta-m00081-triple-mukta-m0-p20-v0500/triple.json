@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "vikāsāhlādavantaśca",
+     "gloss": "and-possessing-expansion-and-delight",
+     "grounds": "fused form: vikāsa (expansion) + āhlāda (delight) + -vat (possessing) + ca (and); describes a universal quality",
+     "morph": "adj.nom.pl.m + (indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal subject continuing from previous verses",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "nirvṛtiyoginaḥ",
+     "gloss": "endowed-with-bliss",
+     "grounds": "nirvṛti (bliss, repose) + yogin (endowed-with, joined-to); compound possessive",
+     "morph": "compound.nom.pl.m"
+    }
+   ],
+   "question": "Are expansion, delight, and bliss inherent qualities of all beings?",
+   "premises": [
+    "All beings possess expansion and delight.",
+    "All beings are endowed with bliss.",
+    "These qualities are attributed universally without exception."
+   ],
+   "inference": "Therefore, expansion, delight, and bliss characterize all beings inherently.",
+   "uncertainties": [
+    "nirvṛti may denote bliss, cessation, or final repose depending on doctrinal emphasis."
+   ],
+   "plain_english": "And all are possessed of expansion and delight, endowed with bliss."
+  }
+ ]
+}

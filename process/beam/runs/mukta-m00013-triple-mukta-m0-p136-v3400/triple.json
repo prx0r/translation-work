@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+aṃguṣṭha+tarjanyau",
+     "gloss": "right-thumb-forefinger",
+     "grounds": "dvandva compound naming the right thumb and forefinger together",
+     "morph": "compound.nom.du.f"
+    },
+    {
+     "surface": "agra+lagne",
+     "gloss": "tip-joined",
+     "grounds": "compound adjective indicating joining at the tips, agreeing with the dual subject",
+     "morph": "compound.nom.du.f"
+    },
+    {
+     "surface": "para+aṃgulīḥ",
+     "gloss": "other-fingers",
+     "grounds": "refers to the remaining fingers of the hand",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Which finger arrangement constitutes the hand configuration being specified here?",
+   "premises": [
+    "The right thumb and forefinger are brought together.",
+    "Their tips are joined to each other.",
+    "The other fingers are positioned separately from this joining."
+   ],
+   "inference": "The specified hand configuration is formed by joining the tips of the right thumb and forefinger while keeping the remaining fingers apart.",
+   "uncertainties": [
+    "The exact posture of the remaining fingers is not explicitly stated."
+   ],
+   "plain_english": "Join the tips of the right thumb and forefinger, keeping the other fingers apart."
+  }
+ ]
+}

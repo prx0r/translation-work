@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-said",
+     "grounds": "relative pronoun compounded with past passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakalānāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural qualifying the referents whose measure is discussed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmānaṃ",
+     "gloss": "that-measure",
+     "grounds": "demonstrative compounded with noun denoting dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction with following particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhyatām",
+     "gloss": "let-be-taken",
+     "grounds": "imperative prescribing adoption of the stated measure",
+     "morph": "3.sg.passive-imperative √grah"
+    }
+   ],
+   "question": "Which measure should be adopted for determining the dimensions of all images?",
+   "premises": [
+    "A measure has already been stated in the preceding instruction.",
+    "That stated measure applies to all relevant cases.",
+    "An alternative option is presented for adoption."
+   ],
+   "inference": "Therefore, the previously stated measure for all may be taken as the applicable standard.",
+   "uncertainties": [
+    "The exact referent of sakalānāṃ depends on the preceding context of image characteristics."
+   ],
+   "plain_english": "Or else, let that measure which was stated for all be taken."
+  }
+ ]
+}

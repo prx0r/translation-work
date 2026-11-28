@@ -1,0 +1,734 @@
+{
+ "song": "kjn-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "śerakañ",
+     "gloss": "jackal",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgaṃ",
+     "gloss": "deer",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "gaṇḍakaṃ",
+     "gloss": "rhinoceros",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which animals are listed as objects in this ritual enumeration?",
+   "premises": [
+    "jackal deer buffalo rhinoceros are named",
+    "the list is presented as an enumeration",
+    "no further qualification is given"
+   ],
+   "inference": "The verse names jackal, deer, buffalo, and rhinoceros among the listed animals.",
+   "uncertainties": [],
+   "plain_english": "Jackal, deer, buffalo, and rhinoceros are likewise included."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "vijñānam",
+     "gloss": "knowledge",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "bala",
+     "gloss": "strength",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "sāmarthyaṃ",
+     "gloss": "capability",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "antikaṃ",
+     "gloss": "ending",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "paśu",
+     "gloss": "animal",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "What qualities and temporal span are associated with the animal here?",
+   "premises": [
+    "knowledge strength capability are named",
+    "seven births ending is named",
+    "the subject is animal"
+   ],
+   "inference": "The animal is associated with knowledge, strength, capability, and a span of seven births ending.",
+   "uncertainties": [],
+   "plain_english": "Knowledge, strength, capability, and seven births ending belong to the animal."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "pūjayed",
+     "gloss": "worship",
+     "grounds": "surface as given",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yogini",
+     "grounds": "surface as given",
+     "morph": "n.f.acc.sg"
+    },
+    {
+     "surface": "vṛndaṃ",
+     "gloss": "multitude",
+     "grounds": "surface as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "bhakṣya",
+     "gloss": "food",
+     "grounds": "surface as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "bhojya",
+     "gloss": "eatables",
+     "grounds": "surface as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "others",
+     "grounds": "surface as given",
+     "morph": "n.n.ins.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "surface as given",
+     "morph": "n.f.voc.sg"
+    }
+   ],
+   "question": "How should the multitude of yoginis be worshipped?",
+   "premises": [
+    "worship is commanded",
+    "yogini multitude is the object",
+    "food eatables and others are means",
+    "beloved is addressed"
+   ],
+   "inference": "The multitude of yoginis should be worshipped with food, eatables, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Worship the multitude of yoginis with food, eatables, and the rest, O beloved."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "piśitaṃ",
+     "gloss": "meat",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "surface as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "make",
+     "grounds": "surface as given",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "pakṣa",
+     "gloss": "alkaline",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "āmla",
+     "gloss": "sour",
+     "grounds": "surface as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "madhuram",
+     "gloss": "sweet",
+     "grounds": "surface as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is meat to be prepared in three ways?",
+   "premises": [
+    "meat is threefold",
+    "one should make it",
+    "alkaline sour sweet are named",
+    "likewise is added"
+   ],
+   "inference": "Meat should be made in three ways: alkaline, sour, and sweet.",
+   "uncertainties": [],
+   "plain_english": "Meat should be made threefold: alkaline, sour, and sweet."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "vṛkṣa",
+     "gloss": "tree",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "jā",
+     "gloss": "born",
+     "grounds": "surface as given",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "jā",
+     "gloss": "born",
+     "grounds": "surface as given",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "jā",
+     "gloss": "born",
+     "grounds": "surface as given",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "jā",
+     "gloss": "born",
+     "grounds": "surface as given",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of born substances are enumerated here?",
+   "premises": [
+    "tree-born root-born are named",
+    "flower-born fruit-born are named",
+    "also or extends the list"
+   ],
+   "inference": "The enumeration includes tree-born, root-born, flower-born, and fruit-born substances.",
+   "uncertainties": [],
+   "plain_english": "Tree-born, root-born, flower-born, and fruit-born substances are included."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "advaitam",
+     "gloss": "non-duality",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "surface as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "surface as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must non-duality be practiced according to what is declared?",
+   "premises": [
+    "non-duality is the topic",
+    "it is declared as to-be-done",
+    "not otherwise is stated twice",
+    "indeed confirms the rule"
+   ],
+   "inference": "Non-duality must be practiced exactly as declared, not otherwise.",
+   "uncertainties": [],
+   "plain_english": "Non-duality must be done as declared, not otherwise."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "patanti",
+     "gloss": "fall",
+     "grounds": "surface as given",
+     "morph": "v.3.pl.act-pres+root"
+    },
+    {
+     "surface": "narake",
+     "gloss": "hell",
+     "grounds": "surface as given",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "surface as given",
+     "morph": "adj.m.loc.sg"
+    },
+    {
+     "surface": "avīci",
+     "gloss": "avici",
+     "grounds": "surface as given",
+     "morph": "n.f.loc.sg"
+    },
+    {
+     "surface": "raurave",
+     "gloss": "raurava",
+     "grounds": "surface as given",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where do those who act otherwise fall?",
+   "premises": [
+    "they fall is stated",
+    "terrible hell is named",
+    "avici and raurava are named",
+    "likewise extends the result"
+   ],
+   "inference": "Those who act otherwise fall into terrible hell, avici, and raurava.",
+   "uncertainties": [],
+   "plain_english": "They fall into terrible hell, avici, and raurava."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "yoginī",
+     "gloss": "yogini",
+     "grounds": "surface as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "gaṇa",
+     "gloss": "group",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "madhyasthaṃ",
+     "gloss": "situated-middle",
+     "grounds": "surface as given",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "surface as given",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "animal",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "kīrtitaṃ",
+     "gloss": "called",
+     "grounds": "surface as given",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "kule",
+     "gloss": "kula",
+     "grounds": "surface as given",
+     "morph": "n.n.loc.sg"
+    }
+   ],
+   "question": "Who is called the animal situated in the middle of the yogini group?",
+   "premises": [
+    "yogini group is named",
+    "situated in middle is stated",
+    "he is called animal",
+    "in kula is added"
+   ],
+   "inference": "He who is situated in the middle of the yogini group is called the animal in kula.",
+   "uncertainties": [],
+   "plain_english": "He situated in the middle of the yogini group is called the animal in kula."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "jananī",
+     "gloss": "mother",
+     "grounds": "surface as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "jāra",
+     "gloss": "lover",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "garbham",
+     "gloss": "womb",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaputraṃ",
+     "gloss": "own-son",
+     "grounds": "surface as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "gopayet",
+     "gloss": "protect",
+     "grounds": "surface as given",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What analogy is given for protecting one's own son?",
+   "premises": [
+    "mother and lover are named",
+    "womb is named",
+    "own son should be protected",
+    "as introduces the analogy"
+   ],
+   "inference": "One should protect one's own son as a mother protects the child in the womb from a lover.",
+   "uncertainties": [],
+   "plain_english": "As a mother protects her own son in the womb from a lover, so protect him."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "aṇimā",
+     "gloss": "anima",
+     "grounds": "surface as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇa",
+     "gloss": "qualities",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.pl"
+    },
+    {
+     "surface": "aiśvarya",
+     "gloss": "lordship",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "surface as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasī",
+     "gloss": "mental",
+     "grounds": "surface as given",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "surface as given",
+     "morph": "v.3.sg.act-opt+root"
+    }
+   ],
+   "question": "What kind of accomplishment are anima and related powers?",
+   "premises": [
+    "anima and etc are named",
+    "qualities and lordship are named",
+    "accomplishment is named",
+    "mental may be is stated"
+   ],
+   "inference": "Anima and related powers are mental accomplishments or lordship.",
+   "uncertainties": [],
+   "plain_english": "Anima and related qualities become mental accomplishments."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "ajñāna",
+     "gloss": "ignorance",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "bandhana",
+     "gloss": "bondage",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "ājñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "surface as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "surface as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "vimocanam",
+     "gloss": "liberation",
+     "grounds": "surface as given",
+     "morph": "n.n.nom.sg"
+    }
+   ],
+   "question": "What is the relation between ignorance, bondage, knowledge, and liberation?",
+   "premises": [
+    "ignorance bondage is named",
+    "to-be-known is stated",
+    "knowledge is named",
+    "to-be-known and liberation are named"
+   ],
+   "inference": "Ignorance is bondage to be known, while knowledge is to be known for liberation.",
+   "uncertainties": [],
+   "plain_english": "Ignorance is bondage to be known; knowledge is to be known for liberation."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "surface as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "patre",
+     "gloss": "leaf",
+     "grounds": "surface as given",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toye",
+     "gloss": "water",
+     "grounds": "surface as given",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "surface as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "tainted",
+     "grounds": "surface as given",
+     "morph": "v.3.sg.pass-pres+root"
+    }
+   ],
+   "question": "What analogy shows non-attachment or non-tainting?",
+   "premises": [
+    "lotus leaf is named",
+    "water is named",
+    "as and likewise are stated",
+    "thus not tainted is stated"
+   ],
+   "inference": "Just as a lotus leaf is not tainted by water, so one is not tainted.",
+   "uncertainties": [],
+   "plain_english": "As a lotus leaf is not tainted by water, so one is not tainted."
+  }
+ ]
+}

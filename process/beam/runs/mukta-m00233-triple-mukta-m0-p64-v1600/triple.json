@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "oblation",
+     "grounds": "accusative object of dadyāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-offer",
+     "grounds": "optative of root dā",
+     "morph": "3.sg.act-opt-dā"
+    },
+    {
+     "surface": "pūrvāditaḥ",
+     "gloss": "from-east-onward",
+     "grounds": "adverbial direction of offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial sequence of offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order should the bali offering be presented starting from the east?",
+   "premises": [
+    "bali is offered",
+    "offering begins from east",
+    "sequence follows order"
+   ],
+   "inference": "The bali should be offered sequentially beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "He should offer the bali from the east onward in order."
+  }
+ ]
+}

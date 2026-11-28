@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p191",
+ "items": [
+  {
+   "verse": 4775,
+   "rows": [
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "absolutive expressing prior act of praise",
+     "morph": "(gerund), root stu"
+    },
+    {
+     "surface": "neka",
+     "gloss": "many",
+     "grounds": "qualifies the kinds or ways of praise",
+     "morph": "adj.stem"
+    },
+    {
+     "surface": "vidhaiḥ",
+     "gloss": "of-various-kinds",
+     "grounds": "specifies diversity of the hymns or methods",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "stotraiḥ",
+     "gloss": "with-hymns",
+     "grounds": "instrumental means of praising",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "amuṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pointing to the verse to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ślokaṃ",
+     "gloss": "verse",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act, root paṭh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence after preceding rite",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What acts of praise and recitation must follow the sprinkling rite?",
+   "premises": [
+    "The officiant first performs praise using hymns of many kinds.",
+    "After praising, a specific verse is designated for recitation.",
+    "The sequence is prescribed to occur after the preceding ritual action."
+   ],
+   "inference": "Following the sprinkling rite, the officiant should praise with various hymns and then recite this verse.",
+   "uncertainties": [
+    "The identity of the verse referred to by amuṃ ślokaṃ is not specified within this verse."
+   ],
+   "plain_english": "Having praised with hymns of many kinds, one should then recite this verse."
+  }
+ ]
+}

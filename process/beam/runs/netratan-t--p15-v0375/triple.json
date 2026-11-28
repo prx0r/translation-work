@@ -1,0 +1,33 @@
+{
+ "song": "net-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "netrodyote",
+     "gloss": "in-the-illumination-of-the-netra",
+     "grounds": "locative singular of netra-udyota, the eye's illumination; marks the chapter's setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṃśo'dhikāraḥ",
+     "gloss": "the-twentieth-chapter",
+     "grounds": "compound viṃśa + adhikāra, twentieth chapter; @ marks sandhi fusion of viṃśaḥ + adhikāraḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter does this colophon mark within the Netra's illumination?",
+   "premises": [
+    "netrodyote names the eye's illumination as the setting",
+    "viṃśo'dhikāraḥ names the twentieth chapter",
+    "the two tokens form a chapter colophon"
+   ],
+   "inference": "This verse is a colophon marking the twentieth chapter of the Netratantra.",
+   "uncertainties": [
+    "recension numbering may differ; M00038 compressed witness"
+   ],
+   "plain_english": "In the illumination of the Netra, the twentieth chapter."
+  }
+ ]
+}

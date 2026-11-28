@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "anāhatantu",
+     "gloss": "unstruck-sound-and",
+     "grounds": "sandhi fusion of anāhatam (unstruck sound) and tu (and/indeed); refers to the anāhata locus",
+     "morph": "compound+n.acc.sg+indecl."
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "sandhi fusion of tatra (there) and eva (indeed); specifies the location",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "taḍitkoṭisamaprabhām",
+     "gloss": "splendor-equal-to-crores-of-lightning",
+     "grounds": "bahuvrīhi compound taḍit-koṭi-sama-prabhā describing radiance; qualifies the unstruck sound/presence",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "What is the nature and radiance of the unstruck sound present at that location?",
+   "premises": [
+    "The unstruck sound is present at that very location.",
+    "Its radiance is equal to the splendor of crores of lightning flashes."
+   ],
+   "inference": "The unstruck sound situated there is characterized by an immeasurably brilliant, lightning-like radiance.",
+   "uncertainties": [
+    "Whether anāhatantu functions primarily as a locative reference or as the direct object qualified by taḍitkoṭisamaprabhām depends on the syntactic continuation beyond this verse."
+   ],
+   "plain_english": "And there indeed is the unstruck sound, whose splendor is equal to crores of lightning flashes."
+  }
+ ]
+}

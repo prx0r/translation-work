@@ -1,0 +1,45 @@
+{
+ "song": "kul-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraṃ",
+     "gloss": "śrī-prāsāda-supreme-mantra",
+     "grounds": "fused compound accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tattvalakṣaṃ",
+     "gloss": "that-many-lakhs",
+     "grounds": "fused quantity accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act.opt (root jap)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many lakhs of the supreme mantra should one recite, dear?",
+   "premises": [
+    "The supreme mantra is śrī-prāsāda.",
+    "One recites it that many lakhs.",
+    "The instruction is addressed to the dear one."
+   ],
+   "inference": "The recitation count is specified as that many lakhs.",
+   "uncertainties": [
+    "Exact internal parsing of tattvalakṣaṃ remains uncertain."
+   ],
+   "plain_english": "Dear one, recite the supreme śrī-prāsāda mantra that many lakhs of times."
+  }
+ ]
+}

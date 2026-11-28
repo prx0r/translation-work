@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p252",
+ "items": [
+  {
+   "verse": 6300,
+   "rows": [
+    {
+     "surface": "vetāla+sañjñā",
+     "gloss": "vetāla-named",
+     "grounds": "compound qualifying guṭikā, indicating the pill is designated as vetāla",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "guṭikā",
+     "gloss": "pill",
+     "grounds": "substantive object produced in the ritual",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍa+madhyāt",
+     "gloss": "from-fire-pit-middle",
+     "grounds": "ablative compound indicating the source location",
+     "morph": "compound.n.abl.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "comes-forth",
+     "grounds": "main verb describing emergence",
+     "morph": "3.sg.pres.act pra-√yā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the sequence of results",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual object emerges from the fire-pit following the prescribed worship?",
+   "premises": [
+    "The preceding worship involves offerings of flowers and sugar.",
+    "A pill designated by the name vetāla is the subject.",
+    "This pill comes forth from the middle of the fire-pit."
+   ],
+   "inference": "As a result of the prescribed worship, a vetāla-named pill emerges from the middle of the fire-pit.",
+   "uncertainties": [
+    "The specific nature or function of the vetāla-named pill is not specified in this verse."
+   ],
+   "plain_english": "And a pill named vetāla comes forth from the middle of the fire-pit."
+  }
+ ]
+}

@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "e8f6e462adbc7cd8",
+ "source_digest_normalized_sha256": "e8f6e462adbc7cd8a503ca4cd2fbdaedc1463b9df89ed44812dd49a6c4a7a30e",
+ "source_sha256_raw": "fe2939ad65c0e96e76343e2de34594a463855be4aef8b8d48e639ec28e0ae54d",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/sambandhasiddhi.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 64,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 64
@@ -20,15 +24,15 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 3,
- "c1_words": 269,
+ "c1_iast_prose_info": 0,
+ "c1_words": 37,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 9,
   "failures": []
  },
  "ledger": {
-  "pairs": 5,
+  "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "e8f6e462adbc7cd8",
-  "t1": "T1-samb-p02.md",
-  "l0": "T1-samb-p02.l0.jsonl",
-  "l2": "L2-samb-p02.md",
-  "c1": "c1/C1-samb-p02.md"
+  "t1": "samb-p02/data/samb-p02.t1.json",
+  "l0": "samb-p02/data/samb-p02.l0.json",
+  "l2": "samb-p02/data/samb-p02.l2.json",
+  "c1": "samb-p02/data/samb-p02.c1.json"
  }
 }

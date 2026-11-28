@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "cintāmaṇipravekātiracitaṃ",
+     "gloss": "wish-gem-excellent-very-made",
+     "grounds": "compound describing something made very excellently of wish-gem",
+     "morph": "compound (cintāmaṇi+praveka+ati+racita)"
+    },
+    {
+     "surface": "citracitritam",
+     "gloss": "variegated-painted",
+     "grounds": "adjective describing variegated painting",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the material and decorative character of the described abode?",
+   "premises": [
+    "The abode is made of excellent wish-gem.",
+    "It is variegatedly painted.",
+    "Its form is thus adorned."
+   ],
+   "inference": "The described structure is an excellently made wish-gem abode with variegated painting.",
+   "uncertainties": [
+    "Exact referent of the abode is not stated in this verse."
+   ],
+   "plain_english": "It is made very excellently of wish-gem and is variegatedly painted."
+  }
+ ]
+}

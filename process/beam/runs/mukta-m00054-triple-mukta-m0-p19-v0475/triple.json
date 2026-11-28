@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "hasta+trayam",
+     "gloss": "hand-three",
+     "grounds": "compound indicating a measure of three hand-lengths",
+     "morph": "compound: hasta+trayam (n.nom.sg)"
+    },
+    {
+     "surface": "bhaved+ūrdhvan",
+     "gloss": "should-be-above",
+     "grounds": "fused form expressing required upward position; internal sandhi noted",
+     "morph": "bhavet (3.sg.opt.act, √bhū) + ūrdhvam (indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negation applied to the present context or case",
+     "morph": "na (indecl.) + atra (indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or necessity",
+     "morph": "f.nom.sg (gerundive, √kṛ)"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "act of consideration or doubt regarding the measure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What upward measure in this context admits no further deliberation?",
+   "premises": [
+    "A measure of three hand-lengths is specified.",
+    "This measure is to be taken upward.",
+    "Deliberation is not to be undertaken here."
+   ],
+   "inference": "The prescribed upward measure of three hand-lengths is fixed and requires no further consideration.",
+   "uncertainties": [
+    "The exact reference point from which the upward measure is taken depends on the preceding context."
+   ],
+   "plain_english": "It should be three hand-lengths above; no deliberation is to be made in this matter."
+  }
+ ]
+}

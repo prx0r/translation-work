@@ -1,0 +1,56 @@
+{
+ "song": "kul-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "cakorā",
+     "gloss": "cakora-birds",
+     "grounds": "cakora bird; plural nominative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "verb know; third plural present active",
+     "morph": "3.pl.act-pres + root jñā"
+    },
+    {
+     "surface": "nānye",
+     "gloss": "not-others",
+     "grounds": "na + anye fused; not others",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "candragatāṃ",
+     "gloss": "moon-ray",
+     "grounds": "candra + gata; feminine accusative singular modifying rucim",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rucim",
+     "gloss": "beauty",
+     "grounds": "rucim beauty; accusative object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which beings know the beauty of moon-rays?",
+   "premises": [
+    "Only cakora birds know moon-ray beauty.",
+    "Others do not know it."
+   ],
+   "inference": "Knowledge of moon-ray beauty is exclusive to cakora birds.",
+   "uncertainties": [
+    "candragatāṃ may mean moon-residing rather than moon-ray."
+   ],
+   "plain_english": "Only cakora birds know the beauty of the moon-rays; no others do."
+  }
+ ]
+}

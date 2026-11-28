@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "viruddham",
+     "gloss": "contradictory",
+     "grounds": "adjective modifying implied object; opposed sense",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vedavāde",
+     "gloss": "in-vedic-debate",
+     "grounds": "compound veda+vāda; locative of debate context",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle; concessive force",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotavyam",
+     "gloss": "to-be-heard",
+     "grounds": "gerundive of śru; obligation to hear",
+     "morph": "gerundive.acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative subject of negated clause",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Should contradictory statements in Vedic debate still be heard without doubt here?",
+   "premises": [
+    "Contradictory Vedic statements are to be heard.",
+    "No doubt exists in this context.",
+    "Hearing remains prescribed despite contradiction."
+   ],
+   "inference": "The verse affirms hearing even contradictory Vedic statements here without doubt.",
+   "uncertainties": [
+    "The exact scope of viruddham may be broader than a single opposed statement.",
+    "vedavāde may mean either in Vedic debate or according to Vedic discussion."
+   ],
+   "plain_english": "Even contradictory statements in Vedic debate should be heard; there is no doubt about this here."
+  }
+ ]
+}

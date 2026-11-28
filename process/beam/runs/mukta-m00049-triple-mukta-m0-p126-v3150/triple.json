@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "niṣkāmānān",
+     "gloss": "for-those-without-desire",
+     "grounds": "refers to practitioners free from desire, contrasted with those seeking rewards",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with the previously described outcome",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvāṇaṃ",
+     "gloss": "liberation",
+     "grounds": "final release attained by the desireless",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punarāvṛttivarjitam",
+     "gloss": "return-devoid",
+     "grounds": "compound: punarāvṛtti (return) + varjita (devoid); qualifies nirvāṇaṃ",
+     "morph": "n.acc.sg, compound"
+    }
+   ],
+   "question": "What final state is attained by those free from desire, in contrast to return-bound rewards?",
+   "premises": [
+    "The preceding verses describe rewards that lead to continued return.",
+    "Those without desire are distinguished from seekers of such rewards.",
+    "Liberation devoid of return is presented as their attainment."
+   ],
+   "inference": "Therefore, those free from desire attain liberation without subsequent return.",
+   "uncertainties": [],
+   "plain_english": "But for those who are without desire, there is liberation, free from any return."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "saṃyukta",
+     "gloss": "joined",
+     "grounds": "describes fingers held together in the gesture",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "finger named in the gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅguṣṭhau",
+     "gloss": "thumbs",
+     "grounds": "two thumbs named in the gesture",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "counts the remaining fingers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "anyāḥ",
+     "gloss": "others",
+     "grounds": "refers to the remaining fingers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saṃprasāritāḥ",
+     "gloss": "extended",
+     "grounds": "describes the remaining fingers stretched out",
+     "morph": "f.nom.pl.ppp"
+    }
+   ],
+   "question": "Which fingers are joined and which are extended in this ritual hand gesture?",
+   "premises": [
+    "ring-finger and thumbs are joined",
+    "three other fingers are extended",
+    "gesture specifies finger positions"
+   ],
+   "inference": "The mudra joins the ring finger and thumbs while extending the remaining three fingers.",
+   "uncertainties": [
+    "exact ritual context is not specified in this verse"
+   ],
+   "plain_english": "The ring finger and thumbs are joined, while the other three fingers are extended."
+  }
+ ]
+}

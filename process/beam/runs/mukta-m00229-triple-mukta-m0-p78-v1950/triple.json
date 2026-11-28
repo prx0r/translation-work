@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "bhagavān",
+     "gloss": "lord",
+     "grounds": "divine title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣantrī",
+     "gloss": "kshatriya-woman",
+     "grounds": "feminine kshatriya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "generic woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīrghaṃtanucchadam",
+     "gloss": "long-covering",
+     "grounds": "compound long covering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the doctrinal significance of the long covering associated with the kshatriya woman and the Lord?",
+   "premises": [
+    "Bhagavan is named as lord.",
+    "Kshatriya woman is specified.",
+    "Long covering is mentioned."
+   ],
+   "inference": "The verse links divine lordship, kshatriya womanhood, and long covering.",
+   "uncertainties": [
+    "Exact ritual referent of long covering is unclear."
+   ],
+   "plain_english": "The Lord, the kshatriya woman, has a long covering."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "tvayi",
+     "gloss": "in-you",
+     "grounds": "locative of locus",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "duration of time",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "first member of compound with gatiṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gatiṃ",
+     "gloss": "course",
+     "grounds": "object abandoned; compounded with kāla",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund(vi-√hā)"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "refers to sun and moon from context",
+     "morph": "pron.nom.du.m"
+    },
+    {
+     "surface": "prāpatuḥ",
+     "gloss": "attained",
+     "grounds": "main verb of the clause",
+     "morph": "3.du.perf.act(pra-√āp)"
+    },
+    {
+     "surface": "kandukatām",
+     "gloss": "ball-state",
+     "grounds": "state attained by the two luminaries",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iti+indu",
+     "gloss": "thus-moon",
+     "grounds": "fused token marking quotation or conclusion with indu; @ not present but + indicates boundary in given form",
+     "morph": "indecl.+m.nom.sg"
+    }
+   ],
+   "question": "What transformation do the sun and moon undergo upon momentarily entering you?",
+   "premises": [
+    "The sun and moon enter you for a moment.",
+    "In you they abandon the course of time.",
+    "Having abandoned time's course, those two attain the state of a ball."
+   ],
+   "inference": "Within you, the sun and moon momentarily transcend temporal motion and become play-balls.",
+   "uncertainties": [
+    "The exact syntactic role of iti+indu in this verse is ambiguous without the following context."
+   ],
+   "plain_english": "For a moment in you, having abandoned the course of time, those two—the moon and sun—attained the state of being balls."
+  }
+ ]
+}

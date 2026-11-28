@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "prasaṅgāt",
+     "gloss": "by-digression",
+     "grounds": "ablative of occasion indicating incidental mention",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "gaditaṃ",
+     "gloss": "described",
+     "grounds": "past passive participle agreeing with śastram",
+     "morph": "ppp.n.nom.sg gad"
+    },
+    {
+     "surface": "śastram",
+     "gloss": "weapon",
+     "grounds": "subject of the description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣobhya",
+     "gloss": "o-akṣobhya",
+     "grounds": "vocative address to Akṣobhya",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yoginī+priyam",
+     "gloss": "dear-to-yoginīs",
+     "grounds": "compound qualifying śastram",
+     "morph": "yoginī+priya compound n.nom.sg"
+    }
+   ],
+   "question": "By what occasion is the weapon dear to yoginīs described to Akṣobhya?",
+   "premises": [
+    "The mention arises by digression from the main topic.",
+    "A weapon is being described in this statement.",
+    "The described weapon is characterized as dear to the yoginīs."
+   ],
+   "inference": "The weapon dear to the yoginīs is described incidentally in an address to Akṣobhya.",
+   "uncertainties": [
+    "The specific identity of the weapon is not named in this verse alone."
+   ],
+   "plain_english": "Incidentally, O Akṣobhya, the weapon dear to the yoginīs has been described."
+  }
+ ]
+}

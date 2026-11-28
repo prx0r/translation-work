@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "ānaṃdo",
+     "gloss": "bliss",
+     "grounds": "nominative singular masculine of ānanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lohito",
+     "gloss": "red",
+     "grounds": "nominative singular masculine of lohita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyāyannakṣamālāvabhūṣitaḥ",
+     "gloss": "meditating-rosary-adorned",
+     "grounds": "compound of dhyāyan, akṣamālā, and avabhūṣitaḥ; nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and adornment characterize the blissful meditative form?",
+   "premises": [
+    "The blissful form is red.",
+    "It is meditating.",
+    "It wears a rosary."
+   ],
+   "inference": "The blissful form is red and rosary-adorned while meditating.",
+   "uncertainties": [
+    "The exact deity or context of the color sequence is not specified."
+   ],
+   "plain_english": "The blissful one is red, meditating, and adorned with a rosary."
+  }
+ ]
+}

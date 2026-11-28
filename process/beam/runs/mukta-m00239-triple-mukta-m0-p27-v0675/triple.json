@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "gokṣuraṃ",
+     "gloss": "gokshura",
+     "grounds": "herb name in accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "ordinal adjective in locative",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "māse",
+     "gloss": "month",
+     "grounds": "time noun in locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "garbhakleśaharaṃ",
+     "gloss": "fetal-distress-removing",
+     "grounds": "compound garbha-kleśa-hara in accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "let-drink",
+     "grounds": "optative of root pā",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "What herb should be drunk in the fifth month to remove fetal distress?",
+   "premises": [
+    "gokshura is drunk in fifth month",
+    "it removes fetal distress",
+    "remedy is prescribed for pregnancy"
+   ],
+   "inference": "drinking gokshura in fifth month removes fetal distress",
+   "uncertainties": [
+    "exact dosage not specified",
+    "herb identification uncertain"
+   ],
+   "plain_english": "In the fifth month, drink gokshura to remove fetal distress."
+  }
+ ]
+}

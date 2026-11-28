@@ -1,0 +1,909 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "p. 37",
+     "gloss": "page-37",
+     "grounds": "editorial page marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "object of the prescribed act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription for the practitioner",
+     "morph": "3.sg.middle-optative √kṛ"
+    },
+    {
+     "surface": "sādhaka+abhīṣṭa+sādhanam",
+     "gloss": "practitioner-desired-accomplishing",
+     "grounds": "qualifies meditation as fulfilling the practitioner's aim",
+     "morph": "compound: sādhaka+abhīṣṭa+sādhana (dependent+dependent+head), n.acc.sg"
+    }
+   ],
+   "question": "What meditative practice should follow to accomplish the practitioner's desired aim?",
+   "premises": [
+    "A temporal sequence is indicated by 'then'.",
+    "Meditation is prescribed as the act to perform.",
+    "The meditation accomplishes what the practitioner desires."
+   ],
+   "inference": "After the preceding step, the practitioner should perform meditation that fulfills the desired aim.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform meditation that accomplishes what the practitioner desires."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "sakala+bhuvana+bījaṃ",
+     "gloss": "all-world-seed",
+     "grounds": "describes Brahman-consciousness as source of all worlds",
+     "morph": "compound: sakala+bhuvana+bīja (dependent+dependent+head), n.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "ultimate reality addressed or identified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitanyam",
+     "gloss": "consciousness",
+     "grounds": "identifies Brahman as consciousness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īḍe",
+     "gloss": "i-praise",
+     "grounds": "devotional act of the speaker",
+     "morph": "1.sg.middle-present √īḍ"
+    }
+   ],
+   "question": "How is Brahman characterized as the object of praise in meditation?",
+   "premises": [
+    "Brahman is identified as consciousness.",
+    "This consciousness is the seed of all worlds.",
+    "The speaker offers praise to this reality."
+   ],
+   "inference": "The practitioner praises Brahman as the conscious seed of all worlds.",
+   "uncertainties": [],
+   "plain_english": "I praise Brahman, the consciousness that is the seed of all worlds."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "marks continuation of the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+ādinā",
+     "gloss": "thus-beginning-with",
+     "grounds": "indicates recitation or formula starting as stated",
+     "morph": "compound: iti+ādi (indecl.+head), m.ins.sg"
+    }
+   ],
+   "question": "What formulaic continuation follows in the prescribed ritual sequence?",
+   "premises": [
+    "The sequence continues with 'then'.",
+    "A formula beginning with 'thus' is indicated.",
+    "The phrase points to preceding or standard wording."
+   ],
+   "inference": "The ritual proceeds with the formula beginning in this manner.",
+   "uncertainties": [
+    "The full content of the formula is not specified in this unit."
+   ],
+   "plain_english": "Then, with the words beginning thus."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual prescription",
+     "morph": "3.sg.active-optative √pūj"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "qualifies the devotion as highest",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "devotion",
+     "grounds": "means or attitude of worship",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "brahma+sāyujya+hetave",
+     "gloss": "brahman-union-for-sake-of",
+     "grounds": "states the purpose of worship",
+     "morph": "compound: brahma+sāyujya+hetu (dependent+dependent+head), m.dat.sg"
+    }
+   ],
+   "question": "For what ultimate purpose should worship be performed with supreme devotion?",
+   "premises": [
+    "Worship is prescribed as an obligatory act.",
+    "The worship must be accompanied by supreme devotion.",
+    "The stated purpose is union with Brahman."
+   ],
+   "inference": "One should worship with supreme devotion in order to attain union with Brahman.",
+   "uncertainties": [],
+   "plain_english": "One should worship with supreme devotion for the sake of union with Brahman."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "ritual offering to be given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "toya+tattvena",
+     "gloss": "water-element-by",
+     "grounds": "specifies the elemental mode or substance of offering",
+     "morph": "compound: toya+tattva (dependent+head), n.ins.sg"
+    },
+    {
+     "surface": "pradadyāt",
+     "gloss": "one-should-offer",
+     "grounds": "injunctive ritual act",
+     "morph": "3.sg.active-optative √dā"
+    },
+    {
+     "surface": "paramātmane",
+     "gloss": "to-supreme-self",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "How should the food offering be presented to the supreme self?",
+   "premises": [
+    "A food offering is the object to be given.",
+    "The offering is made through the water element.",
+    "The supreme self is the recipient."
+   ],
+   "inference": "The practitioner should offer naivedya to the supreme self by means of the water element.",
+   "uncertainties": [
+    "The exact ritual sense of 'by the water element' may be technical."
+   ],
+   "plain_english": "One should offer the food offering to the supreme self by means of the water element."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "samarpya",
+     "gloss": "having-offered",
+     "grounds": "completes prior offering before next act",
+     "morph": "(indecl., absolutive) √ṛ"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahman",
+     "grounds": "recipient of the completed offering",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indicates subsequent ritual stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahiḥ+pūjāṃ",
+     "gloss": "external-worship",
+     "grounds": "next ritual act to be undertaken",
+     "morph": "compound: vahis+pūjā (dependent+head), f.acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "injunctive prescription for next stage",
+     "morph": "3.sg.middle-optative √rabh"
+    }
+   ],
+   "question": "What ritual action should commence after offerings are made to Brahman?",
+   "premises": [
+    "An offering to Brahman is completed first.",
+    "The sequence continues afterwards.",
+    "External worship is prescribed as the next act."
+   ],
+   "inference": "After offering to Brahman, one should begin external worship.",
+   "uncertainties": [],
+   "plain_english": "Having offered to Brahman, one should afterwards begin the external worship."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "vastra+alaṅkaraṇa+ādīni",
+     "gloss": "garments-ornaments-and-so-on",
+     "grounds": "lists items suitable for offering",
+     "morph": "compound: vastra+alaṅkaraṇa+ādi (coordinative+coordinative+head), n.acc.pl"
+    },
+    {
+     "surface": "bhakṣya+peyāni",
+     "gloss": "eatables-drinkables",
+     "grounds": "additional consumable offerings",
+     "morph": "compound: bhakṣya+peya (coordinative+head), n.acc.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "refers to the items available or appropriate",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects categories of offerings",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which categories of items are included among the offerings to be presented?",
+   "premises": [
+    "Garments, ornaments, and similar items are mentioned.",
+    "Eatables and drinkables are also mentioned.",
+    "The items are presented as those which may be offered."
+   ],
+   "inference": "The offerings include garments, ornaments, and similar things, as well as eatables and drinkables.",
+   "uncertainties": [
+    "The governing verb for these items is supplied by the following verse."
+   ],
+   "plain_english": "Garments, ornaments, and so on, and whatever eatables and drinkables there are."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "nimīlya",
+     "gloss": "having-closed",
+     "grounds": "preparatory bodily action before offering",
+     "morph": "(indecl., absolutive) √mīl"
+    },
+    {
+     "surface": "netre",
+     "gloss": "eyes",
+     "grounds": "object of closing",
+     "morph": "n.acc.dual"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner performing the act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "should-offer",
+     "grounds": "injunctive act of mental or inner offering",
+     "morph": "3.sg.active-optative √ṛ"
+    },
+    {
+     "surface": "paramātmane",
+     "gloss": "to-supreme-self",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "How should the wise practitioner inwardly offer items to the supreme self?",
+   "premises": [
+    "The practitioner closes the eyes.",
+    "The practitioner is described as wise.",
+    "The items are to be offered to the supreme self."
+   ],
+   "inference": "The wise practitioner should close the eyes and offer the items to the supreme self.",
+   "uncertainties": [],
+   "plain_english": "Having closed the eyes, the wise one should offer them to the supreme self."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "brahma+eva",
+     "gloss": "brahman-alone",
+     "grounds": "asserts exclusive goal",
+     "morph": "compound: brahma+eva (head+indecl.), n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "refers to the practitioner or agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "gantavyaṃ",
+     "gloss": "to-be-attained",
+     "grounds": "expresses necessity or obligation of attainment",
+     "morph": "n.nom.sg (gerundive) √gam"
+    },
+    {
+     "surface": "brahma+karma+samādhinā",
+     "gloss": "brahman-action-absorption-by",
+     "grounds": "means by which Brahman is attained",
+     "morph": "compound: brahma+karma+samādhi (dependent+dependent+head), m.ins.sg"
+    }
+   ],
+   "question": "By what mode of practice is Brahman alone to be attained?",
+   "premises": [
+    "Brahman alone is the goal to be attained.",
+    "Attainment is expressed as obligatory.",
+    "Absorption in action dedicated to Brahman is the means."
+   ],
+   "inference": "Through absorption in action dedicated to Brahman, one must attain Brahman alone.",
+   "uncertainties": [],
+   "plain_english": "By him, Brahman alone is to be attained through absorption in action dedicated to Brahman."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "sakala+bhuvana+bījaṃ",
+     "gloss": "all-world-seed",
+     "grounds": "identifies the subject as source of all worlds",
+     "morph": "compound: sakala+bhuvana+bīja (dependent+dependent+head), n.nom.sg"
+    },
+    {
+     "surface": "samastasya",
+     "gloss": "of-the-entire",
+     "grounds": "emphasizes totality of the world",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "bhuvanasya",
+     "gloss": "of-the-world",
+     "grounds": "domain of which causation is asserted",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "predicates causal status",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What causal status is attributed to the seed of all worlds?",
+   "premises": [
+    "The seed of all worlds is named as the subject.",
+    "The entire world is specified as the domain.",
+    "The subject is declared to be its cause."
+   ],
+   "inference": "The seed of all worlds is the cause of the entire world.",
+   "uncertainties": [],
+   "plain_english": "The seed of all worlds is the cause of the entire world."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "gandham",
+     "gloss": "fragrance",
+     "grounds": "names an offering item in the formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti+ādinā",
+     "gloss": "thus-beginning-with",
+     "grounds": "indicates a formula starting with 'fragrance'",
+     "morph": "compound: iti+ādi (indecl.+head), m.ins.sg"
+    }
+   ],
+   "question": "What offering formula is introduced by the word for fragrance?",
+   "premises": [
+    "Fragrance is explicitly named.",
+    "The phrase indicates a formula beginning thus.",
+    "The full formula is abbreviated by this marker."
+   ],
+   "inference": "The ritual continues with the formula beginning with 'fragrance'.",
+   "uncertainties": [
+    "The remainder of the formula is not included in this unit."
+   ],
+   "plain_english": "With the words beginning with 'fragrance'."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "tat+japaṃ",
+     "gloss": "its-recitation",
+     "grounds": "refers to recitation of the preceding mantra or formula",
+     "morph": "compound: tad+japa (dependent+head), m.acc.sg"
+    },
+    {
+     "surface": "brahma+sāt",
+     "gloss": "to-brahman-made",
+     "grounds": "indicates dedication or transformation into Brahman",
+     "morph": "(indecl., compound: brahma+sāt)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completes the act of dedicatory recitation",
+     "morph": "(indecl., absolutive) √kṛ"
+    },
+    {
+     "surface": "stotram+ca",
+     "gloss": "hymn-and",
+     "grounds": "adds hymn to the recitation sequence",
+     "morph": "compound: stotra+ca (head+indecl.), n.acc.sg"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "protective hymn or formula to be recited",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive prescription for recitation",
+     "morph": "3.sg.active-optative √paṭh"
+    }
+   ],
+   "question": "What recitations should follow after dedicating the mantra to Brahman?",
+   "premises": [
+    "The recitation of that mantra is made over to Brahman.",
+    "A hymn is included in the sequence.",
+    "A protective armor text is also to be recited."
+   ],
+   "inference": "After dedicating its recitation to Brahman, one should recite the hymn and the armor.",
+   "uncertainties": [],
+   "plain_english": "Having made its recitation over to Brahman, one should recite the hymn and the armor."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "introduces the content whose hearing has an effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "act that leads to the stated result",
+     "morph": "(indecl., absolutive) √śru"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "subject who attains the result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address within the teaching",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahma+sāyujyam",
+     "gloss": "brahman-union",
+     "grounds": "result attained by the practitioner",
+     "morph": "compound: brahma+sāyujya (dependent+head), n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "attains",
+     "grounds": "states the fruit of hearing",
+     "morph": "3.sg.middle-present √aś"
+    }
+   ],
+   "question": "What spiritual attainment results from hearing the prescribed recitation?",
+   "premises": [
+    "The practitioner hears the stated recitation.",
+    "The teaching is addressed to the goddess.",
+    "Union with Brahman is declared as the attainment."
+   ],
+   "inference": "By hearing it, the practitioner attains union with Brahman.",
+   "uncertainties": [],
+   "plain_english": "O goddess, having heard which, the practitioner attains union with Brahman."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-brahman",
+     "grounds": "recipient of obeisance",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vyāpine",
+     "gloss": "all-pervading",
+     "grounds": "qualifies Brahman as pervasive",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "nirguṇāya",
+     "gloss": "without-qualities",
+     "grounds": "qualifies Brahman as beyond attributes",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What attributes of Brahman are affirmed in the act of obeisance?",
+   "premises": [
+    "Obeisance is directed to Brahman.",
+    "Brahman is described as all-pervading.",
+    "Brahman is described as without qualities."
+   ],
+   "inference": "The salutation affirms Brahman as all-pervading and without qualities.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to Brahman, the all-pervading, without qualities."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "brahma+eva",
+     "gloss": "brahman-alone",
+     "grounds": "asserts exclusivity of the goal",
+     "morph": "compound: brahma+eva (head+indecl.), n.nom.sg"
+    },
+    {
+     "surface": "gantavyaṃ",
+     "gloss": "to-be-attained",
+     "grounds": "states the goal as to be reached",
+     "morph": "n.nom.sg (gerundive) √gam"
+    },
+    {
+     "surface": "prāptavyaṃ",
+     "gloss": "to-be-reached",
+     "grounds": "reinforces the same goal",
+     "morph": "n.nom.sg (gerundive) √āp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates alternative results",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with other results",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phala+antaram",
+     "gloss": "other-result",
+     "grounds": "alternative fruit that is excluded",
+     "morph": "compound: phala+antara (dependent+head), n.nom.sg"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "glosses the intended sense of the statement",
+     "morph": "compound: iti+artha (indecl.+head), m.nom.sg"
+    }
+   ],
+   "question": "Why must Brahman alone be understood as the exclusive result sought?",
+   "premises": [
+    "Brahman alone is stated as to be attained and reached.",
+    "Any other result is explicitly negated.",
+    "The verse gives this as the intended meaning."
+   ],
+   "inference": "The intended meaning is that Brahman alone, and no other result, is to be attained.",
+   "uncertainties": [],
+   "plain_english": "Brahman alone is to be attained, to be reached, and not any other result; this is the meaning."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "brahma+sāt",
+     "gloss": "to-brahman-made",
+     "grounds": "term indicating dedication or assimilation to Brahman",
+     "morph": "(indecl., compound: brahma+sāt)"
+    },
+    {
+     "surface": "brahma+adhīnam",
+     "gloss": "brahman-dependent",
+     "grounds": "gloss explaining the term as dependent on Brahman",
+     "morph": "compound: brahma+adhīna (dependent+head), n.nom.sg"
+    }
+   ],
+   "question": "How is the expression meaning made over to Brahman to be understood?",
+   "premises": [
+    "The term 'brahma-sāt' is presented.",
+    "It is explained as dependent on Brahman.",
+    "The verse functions as a gloss."
+   ],
+   "inference": "To be made over to Brahman means to be dependent on Brahman.",
+   "uncertainties": [],
+   "plain_english": "'Made over to Brahman' means dependent on Brahman."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "stotram+iti",
+     "gloss": "hymn-thus",
+     "grounds": "marks the conclusion or reference to the hymn",
+     "morph": "compound: stotra+iti (head+indecl.), n.nom.sg"
+    },
+    {
+     "surface": "brahma+sāyujyam",
+     "gloss": "brahman-union",
+     "grounds": "first statement of the attained result",
+     "morph": "compound: brahma+sāyujya (dependent+head), n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "attains",
+     "grounds": "verb of attainment",
+     "morph": "3.sg.middle-present √aś"
+    },
+    {
+     "surface": "brahmatvaṃ",
+     "gloss": "brahman-hood",
+     "grounds": "restates the result as becoming Brahman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "reinforces attainment of the result",
+     "morph": "3.sg.active-present √āp"
+    }
+   ],
+   "question": "What result is promised through the hymn in terms of union and identity with Brahman?",
+   "premises": [
+    "The statement refers to the hymn.",
+    "Union with Brahman is said to be attained.",
+    "Brahman-hood is said to be obtained."
+   ],
+   "inference": "Through the hymn one attains union with Brahman and obtains Brahman-hood.",
+   "uncertainties": [],
+   "plain_english": "Thus the hymn: one attains union with Brahman, one obtains Brahman-hood."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "sattva+ādi+guṇa+rahitāya",
+     "gloss": "goodness-etc-quality-devoid",
+     "grounds": "describes the addressee as free from the qualities beginning with sattva",
+     "morph": "compound: sattva+ādi+guṇa+rahita (dependent+dependent+dependent+head), m.dat.sg"
+    }
+   ],
+   "question": "What transcendence of the qualities is attributed to the one addressed?",
+   "premises": [
+    "The qualities beginning with sattva are named.",
+    "The addressed reality is described as devoid of them.",
+    "The form indicates a recipient of salutation or address."
+   ],
+   "inference": "The addressed reality is beyond the qualities such as sattva.",
+   "uncertainties": [
+    "The governing salutation or verb is not present in this unit."
+   ],
+   "plain_english": "To the one devoid of the qualities beginning with sattva."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "direct address to the supreme reality",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "affirms unity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "affirms highest status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niścalaṃ",
+     "gloss": "immovable",
+     "grounds": "affirms unchanging nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirvikalpam",
+     "gloss": "without-conception",
+     "grounds": "affirms freedom from conceptual differentiation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What essential qualities define the supreme reality addressed as 'you'?",
+   "premises": [
+    "The reality is addressed directly as 'you'.",
+    "It is described as one and supreme.",
+    "It is described as immovable and without conception."
+   ],
+   "inference": "The addressed supreme reality is one, supreme, immovable, and free from conceptualization.",
+   "uncertainties": [],
+   "plain_english": "You are one, supreme, immovable, and without conception."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "pareṣāṃ",
+     "gloss": "of-the-supreme",
+     "grounds": "first comparative reference group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "asserts superiority beyond the supreme",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rakṣakaṃ",
+     "gloss": "protector",
+     "grounds": "identifies the addressed as protector",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rakṣakāṇām",
+     "gloss": "of-protectors",
+     "grounds": "second comparative reference group",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "How is the addressed reality exalted above other supreme beings and protectors?",
+   "premises": [
+    "The reality is called supreme beyond the supreme.",
+    "The reality is called protector.",
+    "It is related to protectors as their superior."
+   ],
+   "inference": "The addressed reality is the supreme beyond the supreme and the protector of protectors.",
+   "uncertainties": [],
+   "plain_english": "Supreme beyond the supreme, protector of protectors."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "jagat+bhāsaka+adhīśa",
+     "gloss": "world-illuminator-lord",
+     "grounds": "vocative or epithet of the lord who illuminates the world",
+     "morph": "compound: jagat+bhāsaka+adhīśa (dependent+dependent+head), m.voc.sg"
+    },
+    {
+     "surface": "pāyāt",
+     "gloss": "may-protect",
+     "grounds": "benedictive prayer for protection",
+     "morph": "3.sg.active-optative √pā"
+    },
+    {
+     "surface": "apāyāt",
+     "gloss": "from-calamity",
+     "grounds": "danger from which protection is sought",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What protection is sought from the lord who illuminates the world?",
+   "premises": [
+    "The lord is addressed as illuminator of the world.",
+    "A prayer for protection is expressed.",
+    "Calamity is named as what must be avoided."
+   ],
+   "inference": "The lord who illuminates the world is asked to protect from calamity.",
+   "uncertainties": [],
+   "plain_english": "O lord, illuminator of the world, may you protect us from calamity."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "śreṣṭham",
+     "gloss": "best",
+     "grounds": "affirms supreme excellence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirvikalpaṃ",
+     "gloss": "without-conception",
+     "grounds": "affirms freedom from conceptualization",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nānāvidha+kalpanā+śūnyam",
+     "gloss": "manifold-conception-devoid",
+     "grounds": "explains absence of diverse mental constructions",
+     "morph": "compound: nānāvidha+kalpanā+śūnya (dependent+dependent+head), n.acc.sg"
+    }
+   ],
+   "question": "In what sense is the supreme reality described as free from conceptual construction?",
+   "premises": [
+    "The reality is called the best.",
+    "It is described as without conception.",
+    "It is described as devoid of manifold mental constructions."
+   ],
+   "inference": "The supreme reality is the best, free from conception and devoid of manifold mental constructions.",
+   "uncertainties": [
+    "The syntactic role of these descriptors depends on surrounding context."
+   ],
+   "plain_english": "The best, without conception, devoid of manifold mental constructions."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "pareṣāṃ",
+     "gloss": "of-the-supreme",
+     "grounds": "reference group for comparison",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śreṣṭhānām+api",
+     "gloss": "of-the-best-even",
+     "grounds": "extends comparison to include even the best",
+     "morph": "compound: śreṣṭha+api (head+indecl.), m.gen.pl"
+    }
+   ],
+   "question": "How far does the comparative superiority of the addressed reality extend?",
+   "premises": [
+    "A group of supreme beings is referenced.",
+    "Even the best among them are included.",
+    "The phrasing implies superiority beyond them."
+   ],
+   "inference": "The addressed reality surpasses even the best among the supreme.",
+   "uncertainties": [
+    "The main predicate completing the comparison is not present in this unit."
+   ],
+   "plain_english": "Even of the best among the supreme."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "bhakti+buddhi+ādi+viśleṣāt",
+     "gloss": "devotion-intellect-etc-separation-because-of",
+     "grounds": "states a cause involving separation from devotion, intellect, and related faculties",
+     "morph": "compound: bhakti+buddhi+ādi+viśleṣa (dependent+dependent+dependent+head), m.abl.sg"
+    }
+   ],
+   "question": "What causal condition is attributed to separation from devotion and intellect?",
+   "premises": [
+    "Devotion and intellect are named among relevant faculties.",
+    "Separation from them is indicated.",
+    "The ablative form expresses cause or reason."
+   ],
+   "inference": "A consequence is attributed to separation from devotion, intellect, and similar faculties.",
+   "uncertainties": [
+    "The specific consequence governed by this cause is not stated in this unit."
+   ],
+   "plain_english": "Because of separation from devotion, intellect, and so on."
+  }
+ ]
+}

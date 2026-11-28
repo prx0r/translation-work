@@ -1,0 +1,445 @@
+{
+ "song": "sva-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "dvādaśāntaṃ",
+     "gloss": "twelfth-end",
+     "grounds": "compound dvādaśa+anta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "ta+ca sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsikyamiha",
+     "gloss": "nasal-here",
+     "grounds": "nāsikya+iha sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the twelfth end placed here?",
+   "premises": [
+    "The twelfth end is named.",
+    "That form is nasal here."
+   ],
+   "inference": "The nasal twelfth end is the indicated locus.",
+   "uncertainties": [
+    "Exact ritual referent remains implicit."
+   ],
+   "plain_english": "The twelfth end is that nasal locus here."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogāt",
+     "gloss": "from-application",
+     "grounds": "ablative of prayoga",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sūtradehayojitasyāsya",
+     "gloss": "of-thread-body-joined-this",
+     "grounds": "genitive of compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vyāpakatvabhāvanā",
+     "gloss": "pervasion-contemplation",
+     "grounds": "nominative of compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What arises from applying the salutation formula?",
+   "premises": [
+    "The formula is applied.",
+    "The joined thread-body is pervaded."
+   ],
+   "inference": "Contemplation of pervasion follows from the salutation application.",
+   "uncertainties": [
+    "The thread-body referent is not fully explicit."
+   ],
+   "plain_english": "From applying the salutation, contemplation of pervasion arises for the joined thread-body."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "dadyāditi",
+     "gloss": "should-give-thus",
+     "grounds": "optative plus iti fused",
+     "morph": "3.sg.opt.act + (indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative of śeṣa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains after the giving instruction?",
+   "premises": [
+    "The giving is enjoined.",
+    "The remainder is stated."
+   ],
+   "inference": "The remainder completes the stated giving instruction.",
+   "uncertainties": [
+    "The exact remainder is not specified here."
+   ],
+   "plain_english": "The remainder is what follows the instruction to give."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "guṇabhāvāpādanarūpameva",
+     "gloss": "quality-state-producing-form-only",
+     "grounds": "nominative of compound with eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāśatvam",
+     "gloss": "bondage-ness",
+     "grounds": "nominative of pāśatva",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the form of bondage here?",
+   "premises": [
+    "Bondage is named.",
+    "Its form produces a quality state."
+   ],
+   "inference": "Bondage consists in producing a quality state.",
+   "uncertainties": [
+    "The quality state is not enumerated."
+   ],
+   "plain_english": "Bondage is precisely the form that produces a quality state."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "ādhāratā",
+     "gloss": "support-ness",
+     "grounds": "nominative of ādhāratā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhogāśrayatā",
+     "gloss": "enjoyment-refuge-ness",
+     "grounds": "nominative of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādiśabdāt",
+     "gloss": "from-etc-word",
+     "grounds": "ablative of ādiśabda",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhāvāḥ",
+     "gloss": "states",
+     "grounds": "nominative plural of bhāva",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What states are included by the etcetera word?",
+   "premises": [
+    "Support-ness is named.",
+    "Enjoyment-refuge-ness is named.",
+    "The etcetera word extends the list."
+   ],
+   "inference": "The states include support and enjoyment-refuge among others.",
+   "uncertainties": [
+    "The full list is not given."
+   ],
+   "plain_english": "The states include support-ness, enjoyment-refuge-ness, and further items indicated by etcetera."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "bandhyānāmarthātteṣāmeva",
+     "gloss": "of-barren-ones-purpose-theirs-only",
+     "grounds": "genitive plural fused form",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bandhanahetuto",
+     "gloss": "from-bondage-cause",
+     "grounds": "ablative of bandhanahetu",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bandhanāyetyarthaḥ",
+     "gloss": "for-bondage-thus-meaning",
+     "grounds": "nominative of compound with iti",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are barren ones bound?",
+   "premises": [
+    "Their purpose is stated.",
+    "Bondage arises from its cause.",
+    "The meaning is for bondage."
+   ],
+   "inference": "Barren ones are bound because their purpose leads to bondage.",
+   "uncertainties": [
+    "The causal chain is compressed."
+   ],
+   "plain_english": "The purpose of barren ones is for bondage, arising from the cause of bondage."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "mantramuccārayan",
+     "gloss": "uttering-mantra",
+     "grounds": "present participle of uccāraya",
+     "morph": "m.nom.sg pres.part."
+    }
+   ],
+   "question": "What is being done while uttering the mantra?",
+   "premises": [
+    "A mantra is being uttered."
+   ],
+   "inference": "The action is mantra utterance.",
+   "uncertainties": [
+    "The object or context is not stated."
+   ],
+   "plain_english": "One is uttering the mantra."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "namaskārāntajātinānenaiva",
+     "gloss": "salutation-end-born-by-this-only",
+     "grounds": "instrumental of compound with eva",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrumental of mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāśasūtre",
+     "gloss": "in-bond-thread",
+     "grounds": "locative of pāśasūtra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "optative of yuj",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should the bond-thread be joined?",
+   "premises": [
+    "The salutation-end-born mantra is used.",
+    "The bond-thread is the locus."
+   ],
+   "inference": "One should join the bond-thread by this mantra.",
+   "uncertainties": [
+    "The exact joining operation is not detailed."
+   ],
+   "plain_english": "One should join the bond-thread with this salutation-ending mantra."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "sthānamatra",
+     "gloss": "place-here",
+     "grounds": "nominative of sthāna with atra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "instrumental of krama",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "mouth",
+     "grounds": "nominative of vaktra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "nominative of hṛd",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "nominative of guhya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "nominative dual of pāda",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What places are named in order here?",
+   "premises": [
+    "A place is named here.",
+    "The order lists mouth, heart, secret place, and feet."
+   ],
+   "inference": "The ordered places are mouth, heart, secret place, and feet.",
+   "uncertainties": [
+    "The exact sequence mapping is compressed."
+   ],
+   "plain_english": "Here the ordered places are mouth, heart, secret place, and feet."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "trayāṇāṃ",
+     "gloss": "of-three",
+     "grounds": "genitive plural of tri",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vyāpikā",
+     "gloss": "pervading",
+     "grounds": "nominative of vyāpikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "nominative of śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyākhyā",
+     "gloss": "called-action",
+     "grounds": "nominative of compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārameśvarī",
+     "gloss": "supreme-lady",
+     "grounds": "nominative of pārameśvarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the pervading power of the three?",
+   "premises": [
+    "Three are referenced.",
+    "The power is pervading.",
+    "It is called action and supreme lady."
+   ],
+   "inference": "The pervading power of the three is the supreme action-power.",
+   "uncertainties": [
+    "The three referents are not named."
+   ],
+   "plain_english": "The pervading power of the three is the supreme lady called action."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "prāptabhedānāmivāsāṃ",
+     "gloss": "of-obtained-differences-like-theirs",
+     "grounds": "genitive plural fused form",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "saṃśodhanam",
+     "gloss": "purification",
+     "grounds": "nominative of saṃśodhana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamupapannam",
+     "gloss": "all-established",
+     "grounds": "nominative of compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is established about purification?",
+   "premises": [
+    "Purification is named.",
+    "All is established."
+   ],
+   "inference": "The purification of obtained differences is established.",
+   "uncertainties": [
+    "The scope of all is not explicit."
+   ],
+   "plain_english": "Thus the purification of obtained differences is all established."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "ādheyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "nominative plural of ādheya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural of kalā",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ādhārā",
+     "gloss": "supports",
+     "grounds": "nominative plural of ādhāra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "malāḥ",
+     "gloss": "impurities",
+     "grounds": "nominative plural of mala",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is to be placed among supports and impurities?",
+   "premises": [
+    "Powers are to be placed.",
+    "Supports and impurities are named."
+   ],
+   "inference": "The powers are to be placed among supports and impurities.",
+   "uncertainties": [
+    "The exact placement relation is compressed."
+   ],
+   "plain_english": "The powers are to be placed, with supports and impurities."
+  }
+ ]
+}

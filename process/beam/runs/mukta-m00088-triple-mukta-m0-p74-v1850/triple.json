@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "bhavapāśād",
+     "gloss": "worldly-bond",
+     "grounds": "ablative singular masculine of bhavapāśa, from the bond of worldly existence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vinirmukto",
+     "gloss": "freed",
+     "grounds": "nominative singular masculine participle vinirmukta, freed from",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular of the first-person pronoun, of me",
+     "morph": "1st.gen.sg"
+    },
+    {
+     "surface": "tulyo",
+     "gloss": "equal",
+     "grounds": "nominative singular masculine adjective tulya, equal to",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine noun saṃśaya, doubt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certain status does one attain after being freed from the bond of worldly existence?",
+   "premises": [
+    "freedom from worldly bond precedes equality",
+    "the speaker declares equality with the freed one",
+    "no doubt remains about this status"
+   ],
+   "inference": "one freed from worldly bonds is certainly equal to the speaker",
+   "uncertainties": [
+    "the exact referent of mama is not specified in this verse",
+    "the scope of bhavapāśa is not further defined here"
+   ],
+   "plain_english": "Freed from the bond of worldly existence, he is equal to me; there is no doubt."
+  }
+ ]
+}

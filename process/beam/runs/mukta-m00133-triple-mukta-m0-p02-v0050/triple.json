@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "javāyāvakasaṃkāśā",
+     "gloss": "resembling-china-rose-and-red-lac",
+     "grounds": "bahuvrīhi/compound adjective describing bāmarekhā; javā = china-rose, yāvaka = red lac, saṃkāśā = resembling",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "bāmarekhā",
+     "gloss": "left-line",
+     "grounds": "subject of the description; bāma = left, rekhā = line",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address to the listener",
+     "morph": "compound=f.voc.sg"
+    }
+   ],
+   "question": "What is the appearance attributed to the left line?",
+   "premises": [
+    "The left line is the subject being described.",
+    "Its appearance is likened to the china-rose and red lac.",
+    "The description is addressed to the fair-faced one."
+   ],
+   "inference": "The left line is characterized as having the color or likeness of the china-rose and red lac.",
+   "uncertainties": [],
+   "plain_english": "O fair-faced one, the left line resembles the china-rose and red lac."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb of manner introducing the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "repeated relative pronoun yielding whoever",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sevāṃ",
+     "gloss": "service",
+     "grounds": "accusative object of kuryāt",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "does",
+     "grounds": "optative of root kṛ",
+     "morph": "3.sg.act-opt (root kṛ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis or transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "in-temple",
+     "grounds": "locative of place of service",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What conduct is prescribed for one who performs service in the temple?",
+   "premises": [
+    "Service is performed in the temple.",
+    "The verse addresses whoever performs it.",
+    "The manner is indicated by thus and as."
+   ],
+   "inference": "The verse introduces a rule for temple service.",
+   "uncertainties": [
+    "The verse is syntactically incomplete in isolation.",
+    "No explicit fruit or reward is stated."
+   ],
+   "plain_english": "Thus, here, as whoever performs service in the temple..."
+  }
+ ]
+}

@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2851,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vedabhāgaviśālataḥ",
+     "gloss": "veda-portion-wide",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the four directions to be measured from the veda portion?",
+   "premises": [
+    "the verse names four directions",
+    "it ties them to veda portion width"
+   ],
+   "inference": "the layout proceeds from the veda portion outward in four directions",
+   "uncertainties": [
+    "exact directional measure not specified"
+   ],
+   "plain_english": "There, in the four directions, the veda portion is wide."
+  },
+  {
+   "verse": 2852,
+   "rows": [
+    {
+     "surface": "tatpārśvayordvayoś",
+     "gloss": "its-sides-two",
+     "grounds": "compound",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarālā",
+     "gloss": "intervals",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dvyaṃśavistarāḥ",
+     "gloss": "two-part-extent",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What extent do the intervals on both sides have?",
+   "premises": [
+    "both sides are named",
+    "intervals have two-part extent"
+   ],
+   "inference": "the side intervals are measured in two parts",
+   "uncertainties": [
+    "exact unit of part not specified"
+   ],
+   "plain_english": "On both its sides, the intervals have a two-part extent."
+  },
+  {
+   "verse": 2853,
+   "rows": [
+    {
+     "surface": "madhyavāraṇabāhye",
+     "gloss": "middle-elephant-outside",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayordvyaṃśavistare",
+     "gloss": "sides-two-part-extent",
+     "grounds": "compound",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "Where outside the middle elephant are the side extents placed?",
+   "premises": [
+    "outside the middle elephant is named",
+    "side extents are two-part"
+   ],
+   "inference": "the side extents lie outside the middle elephant",
+   "uncertainties": [
+    "middle elephant refers to a structural element"
+   ],
+   "plain_english": "Outside the middle elephant, then, the sides have a two-part extent."
+  },
+  {
+   "verse": 2854,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two-halls",
+     "grounds": "numeral",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "śāle",
+     "gloss": "halls",
+     "grounds": "noun",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakartavye",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cottare",
+     "gloss": "left",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which sides are the two halls to be made?",
+   "premises": [
+    "two halls are to be made",
+    "right and left sides are named"
+   ],
+   "inference": "the two halls are made on the right and left",
+   "uncertainties": [
+    "exact hall type not specified"
+   ],
+   "plain_english": "Two halls are to be made on the right and also on the left."
+  },
+  {
+   "verse": 2855,
+   "rows": [
+    {
+     "surface": "viparītāyasaṃyuktāś",
+     "gloss": "reversed-iron-joined",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caikabhāgāntarālakāḥ",
+     "gloss": "one-part-intervals",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kind of intervals join the reversed iron elements?",
+   "premises": [
+    "reversed iron joined is named",
+    "one-part intervals are named"
+   ],
+   "inference": "the intervals are one-part and joined with reversed iron",
+   "uncertainties": [
+    "structural role of iron not specified"
+   ],
+   "plain_english": "They are joined with reversed iron and have one-part intervals."
+  },
+  {
+   "verse": 2856,
+   "rows": [
+    {
+     "surface": "purataḥ",
+     "gloss": "front",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhato",
+     "gloss": "back",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyavāraṇapūrvakam",
+     "gloss": "middle-elephant-first",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the middle elephant come first in front or back?",
+   "premises": [
+    "front and back are alternatives",
+    "middle elephant first is named"
+   ],
+   "inference": "the middle elephant may be placed first in either front or back",
+   "uncertainties": [
+    "choice conditions not specified"
+   ],
+   "plain_english": "In front or back, or with the middle elephant first."
+  },
+  {
+   "verse": 2857,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaṃśena",
+     "gloss": "fourth-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvavadīritā",
+     "gloss": "as-before-spoken",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What alternative hall measure is spoken as before?",
+   "premises": [
+    "or introduces alternative",
+    "fourth part is named",
+    "hall is as before spoken"
+   ],
+   "inference": "alternatively the hall is a fourth part as previously described",
+   "uncertainties": [
+    "relation to prior measure not specified"
+   ],
+   "plain_english": "Or the hall is a fourth part, as spoken before."
+  },
+  {
+   "verse": 2858,
+   "rows": [
+    {
+     "surface": "bhāgadvayāntarālaṃ",
+     "gloss": "two-part-interval",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇottarakūṭayoḥ",
+     "gloss": "right-left-peaks",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Where is the two-part interval located between peaks?",
+   "premises": [
+    "two-part interval is named",
+    "right and left peaks are named"
+   ],
+   "inference": "the interval lies between the right and left peaks",
+   "uncertainties": [
+    "peak meaning not specified"
+   ],
+   "plain_english": "Then the two-part interval is between the right and left peaks."
+  },
+  {
+   "verse": 2859,
+   "rows": [
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "other-all",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samānoktaṃ",
+     "gloss": "same-spoken",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "caitatsumaṅgalam",
+     "gloss": "this-auspicious",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the name of the otherwise same arrangement?",
+   "premises": [
+    "all else is same as spoken",
+    "this is called auspicious by name"
+   ],
+   "inference": "the otherwise identical arrangement is named auspicious",
+   "uncertainties": [
+    "exact name usage not specified"
+   ],
+   "plain_english": "All else is as spoken; this is called auspicious by name."
+  },
+  {
+   "verse": 2860,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāṅkaṇaṃ",
+     "gloss": "courtyard",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "chief",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāsaśālākhyamīritam",
+     "gloss": "residence-hall-called",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the chief courtyard called?",
+   "premises": [
+    "that same courtyard is chief",
+    "it is called residence hall"
+   ],
+   "inference": "the chief courtyard is called the residence hall",
+   "uncertainties": [
+    "distinction from other halls not specified"
+   ],
+   "plain_english": "That same courtyard, the chief one, is called the residence hall."
+  },
+  {
+   "verse": 2861,
+   "rows": [
+    {
+     "surface": "ahanyametaduddiṣṭam",
+     "gloss": "day-this-indicated",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "other-all",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remains as before for this indicated day?",
+   "premises": [
+    "this is indicated for the day",
+    "all else is as before"
+   ],
+   "inference": "for the indicated day, everything else follows the prior rule",
+   "uncertainties": [
+    "day-specific exception not specified"
+   ],
+   "plain_english": "This is indicated for the day; all else is as before."
+  },
+  {
+   "verse": 2862,
+   "rows": [
+    {
+     "surface": "vistārāyāmatorkāṃśaṃ",
+     "gloss": "extent-length-width-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manvaṃśena",
+     "gloss": "manu-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samāyutam",
+     "gloss": "together",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the extent, length, and width part combined?",
+   "premises": [
+    "extent length width part is named",
+    "manu part is named",
+    "together is named"
+   ],
+   "inference": "the measure is combined with the manu part",
+   "uncertainties": [
+    "manu part value not specified"
+   ],
+   "plain_english": "The extent, length, and width part is combined with the manu part."
+  },
+  {
+   "verse": 2863,
+   "rows": [
+    {
+     "surface": "śālāvyāso",
+     "gloss": "hall-measure",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "two-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what part is the hall measure declared everywhere?",
+   "premises": [
+    "hall measure is named",
+    "two-part is named",
+    "everywhere is named"
+   ],
+   "inference": "the hall measure is declared everywhere as two-part",
+   "uncertainties": [
+    "exact two-part ratio not specified"
+   ],
+   "plain_english": "The hall measure is declared everywhere as two-part."
+  },
+  {
+   "verse": 2864,
+   "rows": [
+    {
+     "surface": "mukhyadhāmno",
+     "gloss": "chief-dwelling",
+     "grounds": "compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "face",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "back",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nāsikādvayam",
+     "gloss": "two-nostrils",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where should the hall be relative to the chief dwelling?",
+   "premises": [
+    "chief dwelling face and back are named",
+    "hall should be",
+    "two nostrils are named"
+   ],
+   "inference": "the hall should be at face and back like two nostrils",
+   "uncertainties": [
+    "nostril metaphor not specified"
+   ],
+   "plain_english": "At the face and back of the chief dwelling, the hall should be like two nostrils."
+  },
+  {
+   "verse": 2865,
+   "rows": [
+    {
+     "surface": "agraśālāṃśake",
+     "gloss": "front-hall-part",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "corner",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kūṭe",
+     "gloss": "peak",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvyaṃśena",
+     "gloss": "two-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirmite",
+     "gloss": "made",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the front hall part made at corner and peak?",
+   "premises": [
+    "front hall part is named",
+    "corner and peak are named",
+    "two-part is named"
+   ],
+   "inference": "the front hall part is made with two parts at corner and peak",
+   "uncertainties": [
+    "exact construction not specified"
+   ],
+   "plain_english": "The front hall part is made with two parts at the corner and peak."
+  },
+  {
+   "verse": 2866,
+   "rows": [
+    {
+     "surface": "bahirāvṛtavāraṃ",
+     "gloss": "outside-covered-hall",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "patākākuḍyasaṃyutam",
+     "gloss": "banner-wall-joined",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should the outside covered hall be joined with?",
+   "premises": [
+    "outside covered hall should be",
+    "banner wall joined is named"
+   ],
+   "inference": "the outside covered hall should be joined with banner wall",
+   "uncertainties": [
+    "banner wall function not specified"
+   ],
+   "plain_english": "The outside covered hall should be joined with banner wall."
+  },
+  {
+   "verse": 2867,
+   "rows": [
+    {
+     "surface": "śālāsabhāmukhe",
+     "gloss": "hall-assembly-face",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "east",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvakāryāgraśālake",
+     "gloss": "previous-work-front-hall",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the hall assembly face placed in the east?",
+   "premises": [
+    "hall assembly face is named",
+    "east is named",
+    "previous work front hall is named"
+   ],
+   "inference": "the hall assembly face is placed eastward with the previous work front hall",
+   "uncertainties": [
+    "exact placement not specified"
+   ],
+   "plain_english": "The hall assembly face is in the east, with the previous work front hall."
+  },
+  {
+   "verse": 2868,
+   "rows": [
+    {
+     "surface": "khaṇḍaharmyasamāyuktaṃ",
+     "gloss": "fragment-palace-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samantāt",
+     "gloss": "all-around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the fragment palace joined be arranged?",
+   "premises": [
+    "fragment palace joined is named",
+    "all around is named",
+    "should arrange is named"
+   ],
+   "inference": "the fragment palace joined should be arranged all around",
+   "uncertainties": [
+    "fragment palace meaning not specified"
+   ],
+   "plain_english": "The fragment palace joined should be arranged all around."
+  },
+  {
+   "verse": 2869,
+   "rows": [
+    {
+     "surface": "śālāyāmaviśālena",
+     "gloss": "hall-width-wide",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pañcabhāgaviniṣkramāt",
+     "gloss": "five-part-departure",
+     "grounds": "compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What departure follows from the wide hall width?",
+   "premises": [
+    "hall width wide is named",
+    "five-part departure is named"
+   ],
+   "inference": "the wide hall width leads to a five-part departure",
+   "uncertainties": [
+    "departure meaning not specified"
+   ],
+   "plain_english": "From the wide hall width, there is a five-part departure."
+  },
+  {
+   "verse": 2870,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cottare",
+     "gloss": "left",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadrayoś",
+     "gloss": "auspicious-two",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayorapi",
+     "gloss": "two",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Where are the two auspicious elements placed?",
+   "premises": [
+    "right and left are named",
+    "two auspicious are named",
+    "both are named"
+   ],
+   "inference": "the two auspicious elements are placed on right and left",
+   "uncertainties": [
+    "exact elements not specified"
+   ],
+   "plain_english": "On the right or left, the two auspicious ones, both."
+  },
+  {
+   "verse": 2871,
+   "rows": [
+    {
+     "surface": "tadagre",
+     "gloss": "that-front",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇṭape",
+     "gloss": "pavilion",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vedabhāgena",
+     "gloss": "veda-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirmitam",
+     "gloss": "made",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the pavilion made in front and middle?",
+   "premises": [
+    "that front is named",
+    "pavilion middle is named",
+    "veda part is named"
+   ],
+   "inference": "the pavilion is made in front and middle by veda part",
+   "uncertainties": [
+    "exact veda part not specified"
+   ],
+   "plain_english": "In front, in the pavilion middle, it is made by veda part."
+  },
+  {
+   "verse": 2872,
+   "rows": [
+    {
+     "surface": "pārśvayormaṇṭapaṃ",
+     "gloss": "sides-pavilion",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedabhāgenaiva",
+     "gloss": "veda-part-only",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārsthalam",
+     "gloss": "courtyard",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is made on the sides by veda part only?",
+   "premises": [
+    "sides pavilion is named",
+    "veda part only is named",
+    "courtyard is named"
+   ],
+   "inference": "the side pavilion and courtyard are made by veda part only",
+   "uncertainties": [
+    "relation between pavilion and courtyard not specified"
+   ],
+   "plain_english": "On the sides, the pavilion and courtyard are made by veda part only."
+  },
+  {
+   "verse": 2873,
+   "rows": [
+    {
+     "surface": "tatpārśvayordvayor",
+     "gloss": "its-sides-two",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vedadvyaṃśenaiva",
+     "gloss": "veda-two-part",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmite",
+     "gloss": "made",
+     "grounds": "participle",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "How are both its sides made?",
+   "premises": [
+    "both its sides are named",
+    "veda two-part only is named",
+    "made is named"
+   ],
+   "inference": "both sides are made by veda two-part only",
+   "uncertainties": [
+    "exact two-part ratio not specified"
+   ],
+   "plain_english": "Both its sides are made by veda two-part only."
+  },
+  {
+   "verse": 2874,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "both",
+     "grounds": "pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "pārśvayorvāre",
+     "gloss": "sides-hall",
+     "grounds": "compound",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cārdhasabhāmukhā",
+     "gloss": "half-assembly-face",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should be made on both sides with half assembly face?",
+   "premises": [
+    "both sides are named",
+    "hall should be made",
+    "half assembly face is named"
+   ],
+   "inference": "on both sides the hall should be made with half assembly face",
+   "uncertainties": [
+    "half assembly face meaning not specified"
+   ],
+   "plain_english": "On both sides, the hall should be made with half assembly face."
+  }
+ ]
+}

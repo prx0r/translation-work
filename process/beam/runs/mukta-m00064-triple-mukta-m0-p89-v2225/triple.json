@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "sauvarṇa+yānam+ārūḍho",
+     "gloss": "mounted-on-golden-vehicle",
+     "grounds": "compound adjective describing one who has ascended a golden conveyance",
+     "morph": "compound (sauvarṇa+yāna+ārūḍha), m.nom.sg"
+    },
+    {
+     "surface": "modate",
+     "gloss": "rejoices",
+     "grounds": "expresses the state of delight or enjoyment",
+     "morph": "3.sg.pres.mid (√mud)"
+    },
+    {
+     "surface": "vasubhiḥ",
+     "gloss": "with-Vasus",
+     "grounds": "names the divine companions, the group of Vasus",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "indicates accompaniment with the Vasus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vehicle and companions accompany one who rejoices among the Vasus?",
+   "premises": [
+    "One is mounted upon a golden vehicle.",
+    "One rejoices in that mounted state.",
+    "The rejoicing occurs together with the Vasus."
+   ],
+   "inference": "Mounted on a golden vehicle, one rejoices in the company of the Vasus.",
+   "uncertainties": [
+    "The subject is implied from the preceding verses describing the one who attains these realms."
+   ],
+   "plain_english": "Mounted on a golden vehicle, he rejoices together with the Vasus."
+  }
+ ]
+}

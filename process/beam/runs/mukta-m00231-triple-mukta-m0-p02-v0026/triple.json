@@ -1,0 +1,1253 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "nirguṇaḥ",
+     "gloss": "without-qualities",
+     "grounds": "nir + guṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saccidānandaḥ",
+     "gloss": "being-consciousness-bliss",
+     "grounds": "sat + cit + ānanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadaṃśāḥ",
+     "gloss": "its-parts",
+     "grounds": "tat + aṃśa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jīvasaṃjñakāḥ",
+     "gloss": "called-living-beings",
+     "grounds": "jīva + saṃjñaka",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is the true nature of living beings in relation to the qualityless reality?",
+   "premises": [
+    "The reality is qualityless being-consciousness-bliss.",
+    "Living beings are its parts.",
+    "They are named living beings."
+   ],
+   "inference": "Living beings are portions of the one qualityless reality.",
+   "uncertainties": [
+    "Compound segmentation is interpretive."
+   ],
+   "plain_english": "The qualityless reality of being, consciousness, and bliss has parts called living beings."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "sarva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upādhi",
+     "gloss": "by-superimpositions",
+     "grounds": "upādhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhinnāḥ",
+     "gloss": "distinguished",
+     "grounds": "sam + bhid",
+     "morph": "m.nom.pl.pastpart"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "tat",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "karmabhiḥ",
+     "gloss": "by-actions",
+     "grounds": "karman",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "anādibhiḥ",
+     "gloss": "beginningless",
+     "grounds": "an + ādi",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Why do all living beings appear distinguished from the one reality?",
+   "premises": [
+    "All are distinguished by superimpositions.",
+    "They are distinguished by actions.",
+    "Those actions are beginningless."
+   ],
+   "inference": "Beginningless actions and superimpositions distinguish living beings.",
+   "uncertainties": [
+    "upādhi may be instrumental or ablative in sense."
+   ],
+   "plain_english": "All are distinguished by superimpositions and by beginningless actions."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "sukṛtaiḥ",
+     "gloss": "by-good-deeds",
+     "grounds": "su + kṛta",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "mānava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "becoming",
+     "grounds": "bhū",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "jñānin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "ced",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "mokṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "āp",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How does a human being obtain liberation after becoming a knower?",
+   "premises": [
+    "By good deeds one becomes human.",
+    "If one becomes a knower, liberation is obtained.",
+    "Liberation is the stated result."
+   ],
+   "inference": "Good deeds lead to human birth, and knowledge leads to liberation.",
+   "uncertainties": [
+    "ced makes the clause conditional."
+   ],
+   "plain_english": "Having become human through good deeds, if one becomes a knower, one obtains liberation."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣyam",
+     "gloss": "humanity",
+     "grounds": "mānuṣya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "vinā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "anyatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvajñānam",
+     "gloss": "truth-knowledge",
+     "grounds": "tattva + jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "labh",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "Can truth-knowledge be obtained anywhere without human birth?",
+   "premises": [
+    "Truth-knowledge is not obtained elsewhere.",
+    "It is not obtained without humanity.",
+    "Humanity is therefore necessary."
+   ],
+   "inference": "Truth-knowledge requires human birth.",
+   "uncertainties": [
+    "anyatra may modify labhyate broadly."
+   ],
+   "plain_english": "Truth-knowledge is not obtained elsewhere; it is not obtained without humanity."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "kadācit",
+     "gloss": "sometimes",
+     "grounds": "kadācit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "labh",
+     "morph": "3.sg.act.prs"
+    },
+    {
+     "surface": "jantuḥ",
+     "gloss": "creature",
+     "grounds": "jantu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānuṣyam",
+     "gloss": "humanity",
+     "grounds": "mānuṣya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyasañcayāt",
+     "gloss": "by-merit-accumulation",
+     "grounds": "puṇya + sañcaya",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does a creature sometimes obtain human birth?",
+   "premises": [
+    "A creature sometimes obtains humanity.",
+    "It obtains it by merit accumulation.",
+    "Merit accumulation is the cause."
+   ],
+   "inference": "Human birth arises from accumulated merit.",
+   "uncertainties": [
+    "kadācit qualifies frequency, not certainty."
+   ],
+   "plain_english": "Sometimes a creature obtains human birth through accumulated merit."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "ya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārayati",
+     "gloss": "saves",
+     "grounds": "tṛ",
+     "morph": "3.sg.act.prs"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "ātman",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "than-that",
+     "grounds": "tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpataraḥ",
+     "gloss": "more-sinful",
+     "grounds": "pāpa + tara",
+     "morph": "m.nom.sg.comp"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "ka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is more sinful than one who does not save himself?",
+   "premises": [
+    "One who does not save himself is sinful.",
+    "No one here is more sinful than that.",
+    "The question asks who could be."
+   ],
+   "inference": "Failing to save oneself is the height of sinfulness.",
+   "uncertainties": [
+    "tasmāt is comparative."
+   ],
+   "plain_english": "Who here is more sinful than one who does not save himself?"
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "vid",
+     "morph": "3.sg.act.prs"
+    },
+    {
+     "surface": "ātmahitam",
+     "gloss": "self-benefit",
+     "grounds": "ātman + hita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "ya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "tat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "bhū",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ātmaghātakaḥ",
+     "gloss": "self-killer",
+     "grounds": "ātman + ghātaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is one called who does not know his own benefit?",
+   "premises": [
+    "He does not know self-benefit.",
+    "He would be a self-killer.",
+    "Not knowing benefit is equated with self-destruction."
+   ],
+   "inference": "Ignorance of one's own good is self-destruction.",
+   "uncertainties": [
+    "bhavet is optative, not assertive."
+   ],
+   "plain_english": "He who does not know his own benefit would be a self-killer."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehadhanam",
+     "gloss": "body-wealth",
+     "grounds": "deha + dhana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rakṣan",
+     "gloss": "protecting",
+     "grounds": "rakṣ",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "puṇyakarmāṇi",
+     "gloss": "meritorious-actions",
+     "grounds": "puṇya + karman",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "sādh",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one accomplish while protecting the body and its wealth?",
+   "premises": [
+    "Therefore one should protect body-wealth.",
+    "One should accomplish meritorious actions.",
+    "Protection and merit are linked."
+   ],
+   "inference": "Protecting the body supports accomplishing meritorious actions.",
+   "uncertainties": [
+    "dehadhanam may mean body as wealth."
+   ],
+   "plain_english": "Therefore, protecting the body-wealth, one should accomplish meritorious actions."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "jñāninaḥ",
+     "gloss": "knowers",
+     "grounds": "jñānin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ajñāninaḥ",
+     "gloss": "non-knowers",
+     "grounds": "a + jñānin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "yāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dehasya",
+     "gloss": "of-body",
+     "grounds": "deha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rakṣaṇam",
+     "gloss": "protection",
+     "grounds": "rakṣaṇa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom is bodily protection necessary as long as the body remains?",
+   "premises": [
+    "Knowers and non-knowers are both mentioned.",
+    "As long as the body exists, protection is needed.",
+    "The distinction of knower does not remove bodily care."
+   ],
+   "inference": "Bodily protection applies to knowers and non-knowers alike.",
+   "uncertainties": [
+    "api may be emphatic."
+   ],
+   "plain_english": "For knowers and non-knowers alike, as long as the body exists, its protection is needed."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "karman",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "unmīlite",
+     "gloss": "awakened",
+     "grounds": "un + mīl",
+     "morph": "loc.sg.pastpart"
+    },
+    {
+     "surface": "jñāne",
+     "gloss": "knowledge",
+     "grounds": "jñāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñānena",
+     "gloss": "by-knowledge",
+     "grounds": "jñāna",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śivatām",
+     "gloss": "auspiciousness",
+     "grounds": "śiva + tā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "vraj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How does one reach auspiciousness through action and knowledge?",
+   "premises": [
+    "Action awakens knowledge.",
+    "By knowledge one goes to auspiciousness.",
+    "Action and knowledge cooperate."
+   ],
+   "inference": "Action awakens knowledge, and knowledge leads to auspiciousness.",
+   "uncertainties": [
+    "unmīlite may modify jñāne."
+   ],
+   "plain_english": "By action knowledge is awakened; by knowledge one goes to auspiciousness."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "sarvakarmāṇi",
+     "gloss": "all-actions",
+     "grounds": "sarva + karman",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "santyaktum",
+     "gloss": "to-abandon",
+     "grounds": "sam + tyaj",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyam",
+     "gloss": "possible",
+     "grounds": "śak",
+     "morph": "n.nom.sg.passpart"
+    },
+    {
+     "surface": "dehadhāriṇā",
+     "gloss": "by-body-bearer",
+     "grounds": "deha + dhārin",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Can one who bears a body abandon all actions?",
+   "premises": [
+    "All actions cannot be abandoned.",
+    "It is not possible for a body-bearer.",
+    "Bodily existence entails action."
+   ],
+   "inference": "A living body-bearer cannot abandon all action.",
+   "uncertainties": [
+    "dehadhāriṇā is instrumental agent."
+   ],
+   "plain_english": "All actions cannot be abandoned by one who bears a body."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "ahambhāvam",
+     "gloss": "ego-sense",
+     "grounds": "aham + bhāva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "apāsya",
+     "gloss": "having-removed",
+     "grounds": "apa + as",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "ya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "does",
+     "grounds": "kṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "tat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-stained",
+     "grounds": "lip",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "What happens to one who removes ego-sense and acts thus?",
+   "premises": [
+    "Having removed ego-sense, one acts.",
+    "Such a person is not stained.",
+    "Ego-removal prevents karmic staining."
+   ],
+   "inference": "Action without ego-sense does not stain.",
+   "uncertainties": [
+    "evam refers to prior conduct."
+   ],
+   "plain_english": "Having removed ego-sense, one who acts thus is not stained."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "kriyamāṇāni",
+     "gloss": "being-done",
+     "grounds": "kṛ",
+     "morph": "n.nom.pl.passpart"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "karman",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jñānaprāpteḥ",
+     "gloss": "after-knowledge-attainment",
+     "grounds": "jñāna + prāpti",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "anantaram",
+     "grounds": "anantara",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the status of actions being done after knowledge is attained?",
+   "premises": [
+    "Actions are being done.",
+    "This occurs after knowledge attainment.",
+    "The verse states their temporal relation."
+   ],
+   "inference": "Actions continue to be performed after knowledge is attained.",
+   "uncertainties": [
+    "anantaram may mean immediately or thereafter."
+   ],
+   "plain_english": "Actions being done occur after the attainment of knowledge."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "tattvaniṣṭhasya",
+     "gloss": "of-truth-abiding",
+     "grounds": "tattva + niṣṭha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "karman",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puṇyāpuṇyāni",
+     "gloss": "merit-demerit",
+     "grounds": "puṇya + apuṇya",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "saṃkṣayam",
+     "gloss": "destruction",
+     "grounds": "sam + kṣi",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens to merit and demerit for one abiding in truth?",
+   "premises": [
+    "For one abiding in truth, actions are merit and demerit.",
+    "They go to destruction.",
+    "Truth-abiding destroys karmic results."
+   ],
+   "inference": "Abiding in truth destroys merit and demerit.",
+   "uncertainties": [
+    "karmāṇi may be subject or object."
+   ],
+   "plain_english": "For one abiding in truth, merit and demerit actions are destroyed."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "utpannasahajānanda",
+     "gloss": "arisen-natural-bliss",
+     "grounds": "utpanna + sahaja + ānanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tattvajñāna",
+     "gloss": "truth-knowledge",
+     "grounds": "tattva + jñāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rataḥ",
+     "gloss": "devoted",
+     "grounds": "ram",
+     "morph": "m.nom.sg.pastpart"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "sadā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What characterizes one devoted to truth-knowledge with arisen natural bliss?",
+   "premises": [
+    "Natural bliss has arisen.",
+    "One is devoted to truth-knowledge.",
+    "This devotion is always."
+   ],
+   "inference": "The knower is constantly devoted to truth with natural bliss.",
+   "uncertainties": [
+    "utpannasahajānanda may be compound adjective."
+   ],
+   "plain_english": "With arisen natural bliss, one is always devoted to truth-knowledge."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "vṛthā",
+     "gloss": "in-vain",
+     "grounds": "vṛthā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaiḥ",
+     "gloss": "by-whom",
+     "grounds": "ya",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parityaktam",
+     "gloss": "abandoned",
+     "grounds": "pari + tyaj",
+     "morph": "n.nom.sg.passpart"
+    },
+    {
+     "surface": "karmakāṇḍam",
+     "gloss": "action-section",
+     "grounds": "karman + kāṇḍa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apaṇḍitaiḥ",
+     "gloss": "by-unwise",
+     "grounds": "a + paṇḍita",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is the judgment on unwise people abandoning the action section?",
+   "premises": [
+    "The action section is abandoned by some.",
+    "It is abandoned in vain.",
+    "Those who abandon it are unwise."
+   ],
+   "inference": "Abandoning the action section is vain and unwise.",
+   "uncertainties": [
+    "vṛthā modifies abandonment."
+   ],
+   "plain_english": "The action section is indeed abandoned in vain by the unwise."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "pra + āp",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "yathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛkṣaḥ",
+     "gloss": "tree",
+     "grounds": "vṛkṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajati",
+     "gloss": "abandons",
+     "grounds": "tyaj",
+     "morph": "3.sg.act.prs"
+    },
+    {
+     "surface": "nispṛhaḥ",
+     "gloss": "desireless",
+     "grounds": "nis + spṛhā",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does a desireless person do after obtaining fruit, like a tree?",
+   "premises": [
+    "Having obtained fruit, a tree abandons flower.",
+    "A desireless person acts similarly.",
+    "Desirelessness follows fulfillment."
+   ],
+   "inference": "After obtaining fruit, the desireless abandon prior attachments.",
+   "uncertainties": [
+    "yathā introduces simile."
+   ],
+   "plain_english": "As a tree abandons its flower after obtaining fruit, so does the desireless."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "aśvamedhaśatena",
+     "gloss": "by-hundred-horse-sacrifices",
+     "grounds": "aśvamedha + śata",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmahatyāśatena",
+     "gloss": "by-hundred-brahmin-murders",
+     "grounds": "brahmahatyā + śata",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is being compared through hundred horse sacrifices and hundred brahmin murders?",
+   "premises": [
+    "Hundred horse sacrifices are mentioned.",
+    "Hundred brahmin murders are mentioned.",
+    "The verse sets an extreme comparison."
+   ],
+   "inference": "Extreme merit and extreme demerit are juxtaposed.",
+   "uncertainties": [
+    "The comparison's conclusion is not in this verse."
+   ],
+   "plain_english": "By a hundred horse sacrifices and by a hundred brahmin murders."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "pṛthivyām",
+     "gloss": "on-earth",
+     "grounds": "pṛthivī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "ya",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "karman",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jihvopasthanimittataḥ",
+     "gloss": "tongue-genital-cause",
+     "grounds": "jihvā + upastha + nimitta",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "What actions on earth arise from tongue and genital causes?",
+   "premises": [
+    "Actions on earth are mentioned.",
+    "They arise from tongue and genital causes.",
+    "The verse identifies their source."
+   ],
+   "inference": "Earthly actions are caused by tongue and genital impulses.",
+   "uncertainties": [
+    "jihvopasthanimittataḥ is a long compound."
+   ],
+   "plain_english": "The actions on earth arise from tongue and genital causes."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "āgamottham",
+     "gloss": "scripture-born",
+     "grounds": "āgama + uttha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivekottham",
+     "gloss": "discrimination-born",
+     "grounds": "viveka + uttha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "dvidhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pracakṣate",
+     "gloss": "declare",
+     "grounds": "pra + cakṣ",
+     "morph": "3.pl.act.prs"
+    }
+   ],
+   "question": "How is knowledge declared to be twofold?",
+   "premises": [
+    "Knowledge is twofold.",
+    "One kind is scripture-born.",
+    "The other is discrimination-born."
+   ],
+   "inference": "Knowledge is divided into scripture-born and discrimination-born kinds.",
+   "uncertainties": [
+    "āgamottham may be adjective to jñānam."
+   ],
+   "plain_english": "They declare knowledge twofold: scripture-born and discrimination-born."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "advaitam",
+     "gloss": "non-duality",
+     "grounds": "a + dvaita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "kaścit",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "iṣ",
+     "morph": "3.pl.act.prs"
+    },
+    {
+     "surface": "dvaitam",
+     "gloss": "duality",
+     "grounds": "dvaita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "iṣ",
+     "morph": "3.pl.act.prs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apare",
+     "gloss": "others",
+     "grounds": "apara",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do some and others desire regarding non-duality and duality?",
+   "premises": [
+    "Some desire non-duality.",
+    "Others desire duality.",
+    "The verse records opposing desires."
+   ],
+   "inference": "People are divided between desiring non-duality and duality.",
+   "uncertainties": [
+    "icchanti may mean seek or prefer."
+   ],
+   "plain_english": "Some desire non-duality, and others desire duality."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "dvi",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "pade",
+     "gloss": "words",
+     "grounds": "pada",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "bandhamokṣāya",
+     "gloss": "for-bondage-liberation",
+     "grounds": "bandha + mokṣa",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "mine",
+     "grounds": "mad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmama",
+     "gloss": "not-mine",
+     "grounds": "nir + mama",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two words are given for bondage and liberation?",
+   "premises": [
+    "Two words are mentioned.",
+    "They are for bondage and liberation.",
+    "The words are mine and not-mine."
+   ],
+   "inference": "The sense of mine binds, and not-mine liberates.",
+   "uncertainties": [
+    "bandhamokṣāya may be dative of purpose."
+   ],
+   "plain_english": "Two words, mine and not-mine, are for bondage and liberation."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "avidyā",
+     "gloss": "ignorance",
+     "grounds": "a + vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "dvi",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "yogāt",
+     "gloss": "union",
+     "grounds": "yoga",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pakṣadvayam",
+     "gloss": "two-sides",
+     "grounds": "pakṣa + dvaya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "ud + īr",
+     "morph": "n.nom.sg.passpart"
+    }
+   ],
+   "question": "What is declared from the union of knowledge and ignorance?",
+   "premises": [
+    "Knowledge and ignorance are two.",
+    "From their union, two sides are declared.",
+    "The verse states this declaration."
+   ],
+   "inference": "The union of knowledge and ignorance yields two sides.",
+   "uncertainties": [
+    "yogāt may mean combination."
+   ],
+   "plain_english": "From the union of knowledge and ignorance, two sides are declared."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "ya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "na",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhāya",
+     "gloss": "for-bondage",
+     "grounds": "bandha",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "karman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "tat",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrttitā",
+     "gloss": "proclaimed",
+     "grounds": "pari + kīrt",
+     "morph": "f.nom.sg.passpart"
+    }
+   ],
+   "question": "What action and knowledge are proclaimed as not leading to bondage?",
+   "premises": [
+    "That action is not for bondage.",
+    "That is proclaimed as knowledge.",
+    "Non-bondage defines true knowledge."
+   ],
+   "inference": "True knowledge is action that does not bind.",
+   "uncertainties": [
+    "yat and tat are correlative."
+   ],
+   "plain_english": "That action which is not for bondage is proclaimed as knowledge."
+  }
+ ]
+}

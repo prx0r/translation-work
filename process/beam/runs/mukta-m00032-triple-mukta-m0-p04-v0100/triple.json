@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "Śiva",
+     "grounds": "the supreme reality Śiva, subject of the instruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chuya",
+     "gloss": "is",
+     "grounds": "copular assertion in present context",
+     "morph": "verb.3.sg.present"
+    },
+    {
+     "surface": "krūṭhu",
+     "gloss": "difficult",
+     "grounds": "characterizes the nature of the teaching or attainment",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "tāya",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cena",
+     "gloss": "your",
+     "grounds": "addresses the recipient of the teaching",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "upadeśa",
+     "gloss": "teaching",
+     "grounds": "instruction or guidance concerning Śiva",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is instruction concerning Śiva affirmed to be difficult for the recipient?",
+   "premises": [
+    "Śiva is the subject of the instruction.",
+    "The instruction is characterized as difficult.",
+    "The difficulty is emphatically directed to you."
+   ],
+   "inference": "Receiving teaching about Śiva is inherently difficult for the seeker.",
+   "uncertainties": [
+    "The exact syntactic relation between 'śiva' and 'upadeśa' in Kashmiri phrasing is context-dependent."
+   ],
+   "plain_english": "Śiva is indeed difficult—this is your teaching."
+  }
+ ]
+}

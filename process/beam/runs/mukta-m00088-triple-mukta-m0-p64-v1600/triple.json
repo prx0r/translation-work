@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "lohitaḥ",
+     "gloss": "red",
+     "grounds": "red-colored goat kind among the sixfold offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kapilaścaiva",
+     "gloss": "brown-and-also",
+     "grounds": "kapilaḥ + ca + eva fused; brown-colored goat kind",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhaḥ",
+     "gloss": "youngest",
+     "grounds": "youngest age-class among the goat kinds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrttitaḥ",
+     "gloss": "declared",
+     "grounds": "stated as one of the enumerated kinds",
+     "morph": "m.nom.sg (past passive participle)"
+    }
+   ],
+   "question": "Which colors and age-class of goats are declared among the sixfold goat offering for householders?",
+   "premises": [
+    "six kinds of goat are the supreme offering for householders",
+    "red, brown, and youngest are declared among them"
+   ],
+   "inference": "the verse enumerates red, brown, and youngest as declared goat kinds",
+   "uncertainties": [
+    "exact position of these three within the full sixfold list is not specified"
+   ],
+   "plain_english": "Red, brown, and the youngest are declared among the six kinds of goat offering for householders."
+  }
+ ]
+}

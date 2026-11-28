@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p481",
+ "items": [
+  {
+   "verse": 12025,
+   "rows": [
+    {
+     "surface": "veda+aṅgāni",
+     "gloss": "limbs-of-veda",
+     "grounds": "compound; accusative plural object of worship",
+     "morph": "compound n.acc.pl.nt"
+    },
+    {
+     "surface": "smṛtiṃ",
+     "gloss": "traditional-teaching",
+     "grounds": "accusative singular object of worship",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "nyāyaṃ",
+     "gloss": "logic",
+     "grounds": "accusative singular object of worship",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sarva+śāstrāṇi",
+     "gloss": "all-scriptures",
+     "grounds": "compound; accusative plural object of worship",
+     "morph": "compound n.acc.pl.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "What bodies of knowledge are to be worshipped in this ritual sequence?",
+   "premises": [
+    "The limbs of the Veda are objects of worship.",
+    "Traditional teaching and logic are objects of worship.",
+    "All scriptures are also included as objects of worship."
+   ],
+   "inference": "The ritual worship extends beyond deities to include authoritative bodies of knowledge.",
+   "uncertainties": [],
+   "plain_english": "One should worship the Vedāṅgas, Smṛti, Nyāya, and all the scriptures."
+  }
+ ]
+}

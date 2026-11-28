@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p420",
+ "items": [
+  {
+   "verse": 10500,
+   "rows": [
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "numeral base indicating a lakh; forms quantity with following token",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "group-of-six",
+     "grounds": "specifies six units of the preceding hundred-thousand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive verbal action of mantra repetition",
+     "morph": "3.sg.opt.act (√jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kevalena",
+     "gloss": "with-only",
+     "grounds": "qualifies the accompanying substance as exclusive",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "material used in the recitation rite",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What number of repetitions and what exclusive substance are prescribed for reciting the mantra?",
+   "premises": [
+    "The instruction prescribes reciting the mantra.",
+    "The prescribed quantity is six hundred-thousand repetitions.",
+    "The recitation is to be performed with ghee alone."
+   ],
+   "inference": "The mantra should be recited six hundred-thousand times using only ghee.",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra six hundred thousand times with only ghee."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative referring to the previously specified measure",
+     "morph": "pron.ins.sg.n"
+    },
+    {
+     "surface": "dviguṇa",
+     "gloss": "twofold",
+     "grounds": "qualifies the measure or projection as double",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "cornice",
+     "grounds": "architectural projection or cornice element",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "indicates the lower position relative to the preceding element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "architectural structure prescribed in that position",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative expressing the required construction",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What proportional rule governs the cornice and pavilion placed below the preceding element?",
+   "premises": [
+    "tena refers to the measure established in the preceding specification",
+    "dviguṇa prescribes a twofold proportion for the element",
+    "adhastāt locates the prescribed structure below the preceding element",
+    "maṇṭapaṃ bhavet enjoins that a pavilion should be present there"
+   ],
+   "inference": "Below that element, the cornice or pavilion is to be made twofold in proportion to the stated measure.",
+   "uncertainties": [
+    "Whether nīvraṃ qualifies maṇṭapaṃ or denotes a separate cornice element is not fully explicit from the verse alone."
+   ],
+   "plain_english": "By that measure, the cornice below should be twofold, and there should be a pavilion."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "piṇḍāraka+sama+prakhyaṃ",
+     "gloss": "piṇḍāraka-equal-splendor",
+     "grounds": "compound of piṇḍāraka, sama, and prakhyaṃ per legacy hint",
+     "morph": "compound (piṇḍāraka+sama+prakhyaṃ)"
+    },
+    {
+     "surface": "adhara+uttaram",
+     "gloss": "lower-upper",
+     "grounds": "compound of adhara and uttara per legacy hint",
+     "morph": "compound (adhara+uttara)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of root uc per legacy hint",
+     "morph": "verb.3.sg.pass-pres (root uc)"
+    }
+   ],
+   "question": "Which lower-upper form receives the name piṇḍāraka-equal-splendor?",
+   "premises": [
+    "The verse names a lower-upper form.",
+    "That form is called piṇḍāraka-equal-splendor.",
+    "The naming follows the preceding splendor description."
+   ],
+   "inference": "The lower-upper form is identified as piṇḍāraka-equal-splendor.",
+   "uncertainties": [
+    "Exact referent of piṇḍāraka remains unverified.",
+    "Verse context beyond supplied units is unavailable."
+   ],
+   "plain_english": "The lower-upper form is called piṇḍāraka-equal-splendor."
+  }
+ ]
+}

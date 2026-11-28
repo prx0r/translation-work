@@ -1,0 +1,323 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3438,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun in instrumental sense",
+     "morph": "rel.pron.instr.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "repeated relative pronoun",
+     "morph": "rel.pron.instr.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvena",
+     "gloss": "disposition",
+     "grounds": "instrumental of bhāva",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-united",
+     "grounds": "passive present of yuj",
+     "morph": "3.sg.pass-pres root-yuj"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāhakaḥ",
+     "gloss": "vehicle",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By which disposition is the vehicle united in its place?",
+   "premises": [
+    "disposition unites vehicle",
+    "location is specified",
+    "repeated yena emphasizes"
+   ],
+   "inference": "The verse states that a vehicle is united by disposition at a place.",
+   "uncertainties": [
+    "exact referent of yena unclear",
+    "vāhakaḥ referent unspecified"
+   ],
+   "plain_english": "By which disposition the vehicle is united, there it stands."
+  },
+  {
+   "verse": 3439,
+   "rows": [
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-say",
+     "grounds": "third person plural present of ah",
+     "morph": "3.pl.act-pres root-ah"
+    },
+    {
+     "surface": "śarīrasthaḥ",
+     "gloss": "body-dwelling",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the body said to dwell with the great lord?",
+   "premises": [
+    "body is located somewhere",
+    "they say thus",
+    "great lord dwells in body"
+   ],
+   "inference": "The verse reports that the great lord dwells in the body.",
+   "uncertainties": [
+    "yatra antecedent unspecified",
+    "quotation source unspecified"
+   ],
+   "plain_english": "They say the great lord dwells in the body where it is."
+  },
+  {
+   "verse": 3440,
+   "rows": [
+    {
+     "surface": "lākulai",
+     "gloss": "in-lākula",
+     "grounds": "locative plural form",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pāñcarātre",
+     "gloss": "in-pāñcarātra",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāruḍe",
+     "gloss": "in-gāruḍa",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhūtatantrake",
+     "gloss": "in-bhūta-tantra",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In which traditions is this teaching situated?",
+   "premises": [
+    "lākula is named",
+    "pāñcarātra is named",
+    "gāruḍa and bhūta-tantra named"
+   ],
+   "inference": "The verse lists several tantric traditions as contexts.",
+   "uncertainties": [
+    "exact doctrinal relation unspecified",
+    "list may be illustrative"
+   ],
+   "plain_english": "In Lākula, Pāñcarātra, Gāruḍa, and Bhūta Tantra."
+  },
+  {
+   "verse": 3441,
+   "rows": [
+    {
+     "surface": "etadbīja",
+     "gloss": "this-seed",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adverbial adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "third person singular present of as",
+     "morph": "3.sg.act-pres root-as"
+    },
+    {
+     "surface": "pañcākle",
+     "gloss": "in-pañcākṣara",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapañcake",
+     "gloss": "in-manifold",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Is this seed equal to the pañcākṣara and manifold?",
+   "premises": [
+    "this seed is named",
+    "equality is denied",
+    "pañcākṣara and manifold named"
+   ],
+   "inference": "The verse denies that this seed is equal to those.",
+   "uncertainties": [
+    "scope of prapañcake unclear",
+    "seed referent unspecified"
+   ],
+   "plain_english": "This seed is not equal in the pañcākṣara or the manifold."
+  },
+  {
+   "verse": 3442,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "with-all",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "effort",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kūṭarājam",
+     "gloss": "kūṭa-king",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anusmaret",
+     "gloss": "one-should-remember",
+     "grounds": "optative third singular of anusmṛ",
+     "morph": "3.sg.opt.act root-anusmṛ"
+    }
+   ],
+   "question": "Why should one remember the kūṭa-king with all effort?",
+   "premises": [
+    "therefore introduces conclusion",
+    "all effort is required",
+    "kūṭa-king is object"
+   ],
+   "inference": "The verse urges remembering the kūṭa-king with full effort.",
+   "uncertainties": [
+    "kūṭa-king identity unspecified",
+    "ritual context unspecified"
+   ],
+   "plain_english": "Therefore one should remember the kūṭa-king with all effort."
+  },
+  {
+   "verse": 3443,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "somena",
+     "gloss": "with-soma",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saṃpuṭya",
+     "gloss": "having-enclosed",
+     "grounds": "absolutive of saṃpuṭ",
+     "morph": "abs.root-saṃpuṭ"
+    },
+    {
+     "surface": "samarasī",
+     "gloss": "samarasī-state",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāvam",
+     "gloss": "disposition",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "one-should-resort-to",
+     "grounds": "optative third singular of āśri",
+     "morph": "3.sg.opt.act root-āśri"
+    }
+   ],
+   "question": "To what disposition should one resort after enclosing with soma?",
+   "premises": [
+    "enclosure with soma occurs",
+    "samarasī state is named",
+    "disposition is object"
+   ],
+   "inference": "The verse directs resorting to a samarasī disposition after soma enclosure.",
+   "uncertainties": [
+    "samarasī technical sense unspecified",
+    "enclosure procedure unspecified"
+   ],
+   "plain_english": "Again, having enclosed with soma, one should resort to the samarasī disposition."
+  }
+ ]
+}

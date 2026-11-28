@@ -1,0 +1,1181 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2801,
+   "rows": [
+    {
+     "surface": "tarjanyā",
+     "gloss": "with-index-finger",
+     "grounds": "instrument for the action of bringing",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "āvāyet",
+     "gloss": "one-should-bring",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-opt/√āvāy"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "first bodily location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "second bodily location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "on-side",
+     "grounds": "third bodily location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "fourth bodily location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "fifth bodily location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which bodily locations must be touched by bringing the index finger?",
+   "premises": [
+    "The index finger is the instrument of bringing.",
+    "The action is prescribed as bringing to specific places.",
+    "The named places are head, face, side, hand, and heart."
+   ],
+   "inference": "The index finger should be brought to the head, face, side, hand, and heart.",
+   "uncertainties": [],
+   "plain_english": "One should bring the index finger to the head, face, side, hand, and heart."
+  },
+  {
+   "verse": 2802,
+   "rows": [
+    {
+     "surface": "saṃyutā",
+     "gloss": "joined",
+     "grounds": "describes the state of the fingers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tips",
+     "grounds": "location where joining occurs",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumb",
+     "grounds": "first finger in the pair",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "kakaniṣṭhike",
+     "gloss": "and-little-fingers",
+     "grounds": "second finger in the pair, dual",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "Which fingers must be joined at their tips in this hand configuration?",
+   "premises": [
+    "A joined state is prescribed.",
+    "The joining occurs at the tips.",
+    "The thumb and little fingers are specified."
+   ],
+   "inference": "The thumb and little fingers should be joined together at their tips.",
+   "uncertainties": [],
+   "plain_english": "The thumb and little fingers should be joined at their tips."
+  },
+  {
+   "verse": 2803,
+   "rows": [
+    {
+     "surface": "śabdayet",
+     "gloss": "one-should-make-sound",
+     "grounds": "prescriptive action using the fingers",
+     "morph": "3.sg.act-opt/√śabd"
+    },
+    {
+     "surface": "tābhyāṃ",
+     "gloss": "with-those-two",
+     "grounds": "refers to the previously joined fingers",
+     "morph": "f.ins.du"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "middle-finger",
+     "grounds": "finger whose tip is involved",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "part of the middle finger",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "valita",
+     "gloss": "bent",
+     "grounds": "describes the curved tip",
+     "morph": "valita+past-participle"
+    },
+    {
+     "surface": "agrayā",
+     "gloss": "by-tip",
+     "grounds": "instrumental tip used in the action",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How should sound be produced using the joined fingers and middle finger tip?",
+   "premises": [
+    "Sound-making is prescribed with those two joined fingers.",
+    "The middle finger's tip is bent.",
+    "The bent tip of the middle finger is used in the action."
+   ],
+   "inference": "One should make a sound with those two fingers using the bent tip of the middle finger.",
+   "uncertainties": [
+    "The exact mechanical manner of producing the sound is not fully specified."
+   ],
+   "plain_english": "One should make a sound with those two, using the bent tip of the middle finger."
+  },
+  {
+   "verse": 2804,
+   "rows": [
+    {
+     "surface": "karayoḥ",
+     "gloss": "of-two-hands",
+     "grounds": "locates the fingers on both hands",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "tarjanī",
+     "gloss": "index-fingers",
+     "grounds": "first set of fingers named",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle-fingers",
+     "grounds": "second set of fingers named",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "nāmā+yuktā",
+     "gloss": "joined-with-ring-fingers",
+     "grounds": "compound indicating association with ring fingers",
+     "morph": "nāmā+f.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates bending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakritāḥ",
+     "gloss": "bent",
+     "grounds": "state to be avoided for these fingers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which fingers of both hands must remain unbent in this configuration?",
+   "premises": [
+    "The fingers of both hands are under discussion.",
+    "Index, middle, and ring fingers are specified together.",
+    "These fingers are explicitly said not to be bent."
+   ],
+   "inference": "The index, middle, and ring fingers of both hands should not be bent.",
+   "uncertainties": [],
+   "plain_english": "The index, middle, and ring fingers of both hands should not be bent."
+  },
+  {
+   "verse": 2805,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to previous instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds emphasis or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "specifies which shoulder",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "skandhe",
+     "gloss": "on-shoulder",
+     "grounds": "location for display",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "one-should-display",
+     "grounds": "prescriptive action of showing the gesture",
+     "morph": "3.sg.act-opt/√dṛś-caus"
+    }
+   ],
+   "question": "Where should this hand configuration be displayed according to the instruction?",
+   "premises": [
+    "A display action is prescribed.",
+    "The location specified is the shoulder.",
+    "The right shoulder is explicitly named."
+   ],
+   "inference": "One should display the configuration on the right shoulder.",
+   "uncertainties": [],
+   "plain_english": "And one should also display it on the right shoulder."
+  },
+  {
+   "verse": 2806,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "specifies left-side fingers",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aṃgulya",
+     "gloss": "fingers",
+     "grounds": "fingers involved in joining",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "part of the left fingers",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "specifies right-side thumb",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aṃguṣṭhasya",
+     "gloss": "of-thumb",
+     "grounds": "thumb joined with left finger tips",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-joining",
+     "grounds": "condition producing the result",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "states the resulting formation",
+     "morph": "3.sg.pass-pres/√jan"
+    }
+   ],
+   "question": "What hand formation arises from joining left finger tips with the right thumb?",
+   "premises": [
+    "The tips of the left fingers are involved.",
+    "They are joined with the right thumb.",
+    "This joining produces a specific formation."
+   ],
+   "inference": "A formation is produced when the tips of the left fingers are joined with the right thumb.",
+   "uncertainties": [
+    "The specific name of the produced formation is not stated in this verse."
+   ],
+   "plain_english": "When the tips of the left fingers are joined with the right thumb, the formation is produced."
+  },
+  {
+   "verse": 2807,
+   "rows": [
+    {
+     "surface": "śeṣā",
+     "gloss": "remaining",
+     "grounds": "refers to the other fingers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aṃgulyā",
+     "gloss": "fingers",
+     "grounds": "subject fingers in this configuration",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aṃguṣṭhāvat",
+     "gloss": "like-thumbs",
+     "grounds": "indicates their posture resembles thumbs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāmike",
+     "gloss": "without-ring-fingers",
+     "grounds": "excludes the ring fingers",
+     "morph": "f.nom.du"
+    }
+   ],
+   "question": "How should the remaining fingers be positioned excluding the ring fingers?",
+   "premises": [
+    "The remaining fingers are under instruction.",
+    "Their posture is compared to thumbs.",
+    "The ring fingers are excluded from this description."
+   ],
+   "inference": "The remaining fingers, excluding the ring fingers, should be positioned like thumbs.",
+   "uncertainties": [],
+   "plain_english": "The remaining fingers, except the ring fingers, should be positioned like thumbs."
+  },
+  {
+   "verse": 2808,
+   "rows": [
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "specifies which thumb or side",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action before moving",
+     "morph": "(gerund)/√nyas"
+    },
+    {
+     "surface": "aṃguṣṭhakau",
+     "gloss": "two-thumbs",
+     "grounds": "the pair of thumbs to be moved",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "one-should-move",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.act-opt/√cal-caus"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks completion of the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action must be performed with the two thumbs after placing the right one?",
+   "premises": [
+    "The right one is first placed.",
+    "The two thumbs are the objects of action.",
+    "Moving them is prescribed."
+   ],
+   "inference": "After placing the right one, one should move the two thumbs.",
+   "uncertainties": [
+    "The exact direction or manner of movement is not specified."
+   ],
+   "plain_english": "Having placed the right one, one should move the two thumbs thus."
+  },
+  {
+   "verse": 2809,
+   "rows": [
+    {
+     "surface": "anāmayoḥ",
+     "gloss": "of-two-ring-fingers",
+     "grounds": "fingers whose joint is the location",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "base part of the joint",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "parvaṇi",
+     "gloss": "at-joint",
+     "grounds": "specific placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṃguṣṭhau",
+     "gloss": "two-thumbs",
+     "grounds": "objects to be placed",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive placement action",
+     "morph": "3.sg.act-opt/√kṣip-ni"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "introduces the resulting condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must the two thumbs be placed at the ring fingers in this gesture?",
+   "premises": [
+    "The two thumbs are to be placed.",
+    "The location is the joint of the two ring fingers.",
+    "The placement is specified at the root joint."
+   ],
+   "inference": "One should then place the two thumbs at the root joint of the two ring fingers.",
+   "uncertainties": [],
+   "plain_english": "Then one should place the two thumbs at the root joint of the two ring fingers."
+  },
+  {
+   "verse": 2810,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the gesture or configuration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies the range of establishments",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "saṃsthāpane",
+     "gloss": "in-establishments",
+     "grounds": "contexts where capability applies",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "capable",
+     "grounds": "states the efficacy of the gesture",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In which ritual contexts is this gesture considered capable and effective?",
+   "premises": [
+    "A specific gesture is being evaluated.",
+    "A condition of capability is stated.",
+    "The scope is all establishments."
+   ],
+   "inference": "If so configured, that gesture is capable in all establishments.",
+   "uncertainties": [
+    "The precise technical scope of 'all establishments' is context-dependent."
+   ],
+   "plain_english": "If so, that gesture is capable in all establishments."
+  },
+  {
+   "verse": 2811,
+   "rows": [
+    {
+     "surface": "sthāpane",
+     "gloss": "in-establishment",
+     "grounds": "ritual context for the gesture",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "introduces the specific gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive or conditional state",
+     "morph": "3.sg.act-opt/√as"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumb",
+     "grounds": "element of the pair",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "indicates both thumbs",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktakam",
+     "gloss": "released",
+     "grounds": "state of the thumb pair",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What thumb configuration is required for the gesture used in establishment?",
+   "premises": [
+    "The context is establishment.",
+    "A specific gesture is identified.",
+    "The pair of thumbs is described as released."
+   ],
+   "inference": "In establishment, the gesture should have the pair of thumbs released.",
+   "uncertainties": [
+    "The exact meaning of 'released' for the thumb pair may depend on prior context."
+   ],
+   "plain_english": "In establishment, the gesture should be that in which the pair of thumbs is released."
+  },
+  {
+   "verse": 2812,
+   "rows": [
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "states the performance of placement",
+     "morph": "3.sg.pass-pres/√kṛ"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual act of placing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasizes the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgānām",
+     "gloss": "of-limbs",
+     "grounds": "parts being placed",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "aṅgine",
+     "gloss": "on-bodied-one",
+     "grounds": "recipient of the placement",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "specifies frequency of placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times should the placement of the limbs on the embodied one be performed?",
+   "premises": [
+    "Placement of the limbs is performed.",
+    "The placement is directed to the embodied one.",
+    "The frequency is specified as once."
+   ],
+   "inference": "The placement of the limbs on the embodied one should indeed be done once.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the placement of the limbs on the embodied one is done once."
+  },
+  {
+   "verse": 2813,
+   "rows": [
+    {
+     "surface": "hastasya",
+     "gloss": "of-hand",
+     "grounds": "hand involved in the action",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "savyasya",
+     "gloss": "of-left",
+     "grounds": "specifies the left hand",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "prescriptive rotational action",
+     "morph": "3.sg.act-opt/√bhram-caus"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "object to be rotated",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which hand should be used to rotate that gesture in this instruction?",
+   "premises": [
+    "A rotational action is prescribed.",
+    "The hand specified is the left hand.",
+    "That gesture is the object of rotation."
+   ],
+   "inference": "One should rotate that gesture with the left hand.",
+   "uncertainties": [
+    "The referent of 'that' depends on the immediately preceding gesture."
+   ],
+   "plain_english": "And one should rotate that with the left hand."
+  },
+  {
+   "verse": 2814,
+   "rows": [
+    {
+     "surface": "anyonya",
+     "gloss": "mutually",
+     "grounds": "indicates reciprocal interlacing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grathita",
+     "gloss": "interlaced",
+     "grounds": "describes the thumbs",
+     "morph": "grathita+past-participle"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumbs",
+     "grounds": "interlaced elements",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "prasārita",
+     "gloss": "extended",
+     "grounds": "describes the hand fingers",
+     "morph": "prasārita+past-participle"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "part of the finger description",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aṃgulī",
+     "gloss": "fingers",
+     "grounds": "extended fingers of the hands",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What finger arrangement defines this interlaced hand configuration?",
+   "premises": [
+    "The thumbs are mutually interlaced.",
+    "The hand fingers are extended.",
+    "Both features characterize the same configuration."
+   ],
+   "inference": "The configuration has mutually interlaced thumbs and extended hand fingers.",
+   "uncertainties": [],
+   "plain_english": "The thumbs are mutually interlaced and the fingers of the hands are extended."
+  },
+  {
+   "verse": 2815,
+   "rows": [
+    {
+     "surface": "jātau",
+     "gloss": "when-produced",
+     "grounds": "condition of the formation arising",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a specific condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃguṣṭhau",
+     "gloss": "two-thumbs",
+     "grounds": "thumbs whose position is specified",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ucchritau",
+     "gloss": "raised",
+     "grounds": "required position of the thumbs",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "marks the conditional state",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What thumb position is required when this hand formation is produced?",
+   "premises": [
+    "The formation is considered when produced.",
+    "The two thumbs are the focus.",
+    "A raised position is specified as the condition."
+   ],
+   "inference": "When produced, the formation requires the two thumbs to be raised.",
+   "uncertainties": [],
+   "plain_english": "But if, when produced, the two thumbs are raised."
+  },
+  {
+   "verse": 2816,
+   "rows": [
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "number of thumbs",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "aṃguṣṭhau",
+     "gloss": "thumbs",
+     "grounds": "elements involved in the joining",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "muṣṭi",
+     "gloss": "fist",
+     "grounds": "part of the joining description",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "joining",
+     "grounds": "state of the fists and thumbs",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niśchidraḥ",
+     "gloss": "without-gap",
+     "grounds": "quality of the joining",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the quality condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive condition",
+     "morph": "3.sg.act-opt/√bhū"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "marks the condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition must the joining of thumbs and fists satisfy in this gesture?",
+   "premises": [
+    "Two thumbs and a fist joining are involved.",
+    "A quality of being without gap is specified.",
+    "This quality is stated as a condition."
+   ],
+   "inference": "The joining of the two thumbs and fists should be without any gap.",
+   "uncertainties": [],
+   "plain_english": "If the joining of the two thumbs and fists should be without a gap."
+  },
+  {
+   "verse": 2817,
+   "rows": [
+    {
+     "surface": "madhya",
+     "gloss": "with-middle-fingers",
+     "grounds": "fingers involved in the fist",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "sarala",
+     "gloss": "straight",
+     "grounds": "describes the middle fingers",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "describes the fist",
+     "morph": "baddha+past-participle"
+    },
+    {
+     "surface": "muṣṭikā",
+     "gloss": "fist",
+     "grounds": "resulting hand formation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the fist formed when the middle fingers remain straight?",
+   "premises": [
+    "The middle fingers are involved.",
+    "The middle fingers are straight.",
+    "A bound fist is formed."
+   ],
+   "inference": "A bound fist is formed with the middle fingers kept straight.",
+   "uncertainties": [],
+   "plain_english": "A bound fist is made with the middle fingers kept straight."
+  },
+  {
+   "verse": 2818,
+   "rows": [
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-crossed",
+     "grounds": "prior action on the fist pair",
+     "morph": "(gerund)/√kṣip"
+    },
+    {
+     "surface": "baddhā",
+     "gloss": "bound",
+     "grounds": "describes the pair of fists",
+     "morph": "baddha+past-participle"
+    },
+    {
+     "surface": "muṣṭi",
+     "gloss": "fist",
+     "grounds": "element of the pair",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "yugaṃ",
+     "gloss": "pair",
+     "grounds": "indicates two fists",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarjanī",
+     "gloss": "of-index-finger",
+     "grounds": "first element in the union",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "aṃguṣṭhayoḥ",
+     "gloss": "and-thumb",
+     "grounds": "second element in the union",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "yutiḥ",
+     "gloss": "union",
+     "grounds": "joining of index finger and thumb",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What union is formed after crossing the bound pair of fists?",
+   "premises": [
+    "A bound pair of fists is crossed.",
+    "The index finger and thumb are involved.",
+    "Their union is specified."
+   ],
+   "inference": "After crossing the bound pair of fists, there is a union of the index finger and thumb.",
+   "uncertainties": [],
+   "plain_english": "Having crossed the bound pair of fists, there is a union of the index finger and thumb."
+  },
+  {
+   "verse": 2819,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continues the description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthitau",
+     "gloss": "raised",
+     "grounds": "position of the joined elements",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "lagnau",
+     "gloss": "joined",
+     "grounds": "state of contact",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "the hand seal being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśa+karī",
+     "gloss": "subduing",
+     "grounds": "compound naming the gesture's function",
+     "morph": "vaśa+f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states the traditional identification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named gesture is formed when the raised elements are joined together?",
+   "premises": [
+    "The elements are raised and joined.",
+    "This configuration is identified as a gesture.",
+    "The gesture is considered subduing."
+   ],
+   "inference": "When raised and joined, the configuration is considered the vaśakarī gesture.",
+   "uncertainties": [],
+   "plain_english": "And when raised and joined, this is considered the vaśakarī mudrā."
+  },
+  {
+   "verse": 2820,
+   "rows": [
+    {
+     "surface": "dṛḍhaṃ",
+     "gloss": "firmly",
+     "grounds": "manner of binding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "state of the ring fingers",
+     "morph": "baddha+past-participle"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-fingers",
+     "grounds": "fingers to be joined",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "location of joining",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a specific instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "prescriptive joining action",
+     "morph": "3.sg.act-opt/√yuj-caus"
+    }
+   ],
+   "question": "How should the firmly bound ring fingers be joined in this gesture?",
+   "premises": [
+    "The ring fingers are firmly bound.",
+    "A joining action is prescribed.",
+    "The joining is to occur at the tip."
+   ],
+   "inference": "One should join the firmly bound ring fingers at their tips.",
+   "uncertainties": [],
+   "plain_english": "But one should join the firmly bound ring fingers at their tips."
+  },
+  {
+   "verse": 2821,
+   "rows": [
+    {
+     "surface": "anyonya",
+     "gloss": "mutually",
+     "grounds": "indicates reciprocal joining",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃguṣṭhakau",
+     "gloss": "two-thumbs",
+     "grounds": "thumbs to be joined",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "lagnau",
+     "gloss": "joined",
+     "grounds": "state of the thumbs",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "the hand seal being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects features of the gesture",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmādinī",
+     "gloss": "maddening",
+     "grounds": "name or function of the gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states the traditional identification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which named gesture is formed when the two thumbs are mutually joined?",
+   "premises": [
+    "The two thumbs are mutually joined.",
+    "This configuration is identified as a gesture.",
+    "The gesture is considered maddening."
+   ],
+   "inference": "When the two thumbs are mutually joined, the configuration is considered the unmādinī gesture.",
+   "uncertainties": [],
+   "plain_english": "And when the two thumbs are mutually joined, this is considered the unmādinī mudrā."
+  },
+  {
+   "verse": 2822,
+   "rows": [
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "prior joining action",
+     "morph": "(gerund)/√yuj-caus"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "first finger in the pair",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "mukhyau",
+     "gloss": "and-index-finger",
+     "grounds": "second finger in the pair",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "saralau",
+     "gloss": "straight",
+     "grounds": "required posture of the joined fingers",
+     "morph": "f.acc.du"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states the resulting gesture",
+     "morph": "3.sg.act-opt/√as"
+    },
+    {
+     "surface": "mahā+aṃkuśā",
+     "gloss": "great-hook",
+     "grounds": "compound naming the gesture",
+     "morph": "mahā+f.nom.sg"
+    }
+   ],
+   "question": "Which gesture results from joining the ring and index fingers while keeping them straight?",
+   "premises": [
+    "The ring finger and index finger are joined.",
+    "They are kept straight.",
+    "This configuration is identified as a named gesture."
+   ],
+   "inference": "Joining the straight ring and index fingers forms the mahāaṃkuśā gesture.",
+   "uncertainties": [],
+   "plain_english": "Having joined the ring and index fingers straight, it should be the mahāaṃkuśā gesture."
+  },
+  {
+   "verse": 2823,
+   "rows": [
+    {
+     "surface": "madhyamā",
+     "gloss": "from-middle-finger",
+     "grounds": "finger from whose joint the thumb emerges",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "sandhi",
+     "gloss": "joint",
+     "grounds": "location of emergence",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "nirgata",
+     "gloss": "emerged",
+     "grounds": "describes the thumb's position",
+     "morph": "nirgata+past-participle"
+    },
+    {
+     "surface": "aṃguṣṭha",
+     "gloss": "thumb",
+     "grounds": "thumb emerging from the joint",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "muṣṭikā",
+     "gloss": "fist",
+     "grounds": "resulting hand formation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fist formation is created when the thumb emerges from the middle finger joint?",
+   "premises": [
+    "The thumb emerges from the middle finger joint.",
+    "The hand forms a fist.",
+    "This emergence defines the configuration."
+   ],
+   "inference": "A fist is formed with the thumb emerging from the joint of the middle finger.",
+   "uncertainties": [],
+   "plain_english": "It is a fist with the thumb emerging from the joint of the middle finger."
+  },
+  {
+   "verse": 2824,
+   "rows": [
+    {
+     "surface": "prasṛta",
+     "gloss": "extended",
+     "grounds": "describes the hands",
+     "morph": "prasṛta+past-participle"
+    },
+    {
+     "surface": "asaṃyutā",
+     "gloss": "unjoined",
+     "grounds": "describes the hands as not joined together",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hastā",
+     "gloss": "hands",
+     "grounds": "subject of the configuration",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "palm",
+     "grounds": "part brought together",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hasta+talāt",
+     "gloss": "with-palm",
+     "grounds": "compound indicating palm-to-palm relation",
+     "morph": "hasta+n.abl.sg"
+    },
+    {
+     "surface": "anvitam",
+     "gloss": "joined",
+     "grounds": "describes the palms being brought together",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the extended unjoined hands positioned with respect to their palms?",
+   "premises": [
+    "The hands are extended and unjoined.",
+    "The palms are brought into relation.",
+    "Palm is joined with palm."
+   ],
+   "inference": "The extended, unjoined hands are positioned with palm joined to palm.",
+   "uncertainties": [],
+   "plain_english": "The hands are extended and unjoined, with palm joined to palm."
+  }
+ ]
+}

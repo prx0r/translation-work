@@ -1,0 +1,998 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative of rātri",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhūtakrūreṇa",
+     "gloss": "by-cruel-spirit",
+     "grounds": "instrumental of bhūtakrūra",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "accusative of bali",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which offering is prescribed at night by the cruel spirit?",
+   "premises": [
+    "The verse names night as the time.",
+    "It names a cruel spirit as agent.",
+    "It names an offering as object."
+   ],
+   "inference": "The rite involves an offering made at night by a cruel spirit.",
+   "uncertainties": [
+    "The exact recipient and purpose are not specified."
+   ],
+   "plain_english": "At night, indeed, an offering is made by the cruel spirit."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "snapane",
+     "gloss": "bathing",
+     "grounds": "locative of snapana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śaivakathitāḥ",
+     "gloss": "by-Shiva-declared",
+     "grounds": "passive participle from kathita with śaiva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svāṅgamūlataḥ",
+     "gloss": "from-own-limb-root",
+     "grounds": "ablative compound svāṅga-mūla",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what root are the Shiva-declared bathing rites derived?",
+   "premises": [
+    "The verse concerns bathing.",
+    "The rites are declared by Shiva.",
+    "They derive from one's own limb root."
+   ],
+   "inference": "Shiva-declared bathing rites originate from the root of one's own limb.",
+   "uncertainties": [
+    "The precise limb and rite are unspecified."
+   ],
+   "plain_english": "In bathing, the Shiva-declared rites come from the root of one's own limb."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "gaṇādhīśam",
+     "gloss": "to-Ganesha",
+     "grounds": "accusative of gaṇādhīśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "with-offerings",
+     "grounds": "instrumental plural of upacāra",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yathoditaiḥ",
+     "gloss": "as-stated",
+     "grounds": "instrumental plural of yathodita",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "With what offerings is Ganesha to be worshipped as stated?",
+   "premises": [
+    "Ganesha is the object.",
+    "Offerings are the means.",
+    "They are as stated."
+   ],
+   "inference": "Ganesha is worshipped with the offerings previously stated.",
+   "uncertainties": [
+    "The exact offerings are not listed here."
+   ],
+   "plain_english": "Ganesha is to be worshipped with the offerings as stated."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhyante",
+     "gloss": "are-written",
+     "grounds": "passive present of likh",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "tantra[kh: tra]coditāḥ",
+     "gloss": "tantra-prescribed",
+     "grounds": "compound tantra-codita with editorial bracket",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are the tantra-prescribed items written?",
+   "premises": [
+    "The items are those written there.",
+    "They are prescribed by tantra."
+   ],
+   "inference": "The tantra-prescribed items are written in that place.",
+   "uncertainties": [
+    "The location and full list are not given."
+   ],
+   "plain_english": "Those written there are prescribed by tantra."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citrādibhedena",
+     "gloss": "by-various-differences",
+     "grounds": "instrumental of citrādi-bheda",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "śailī",
+     "gloss": "stone",
+     "grounds": "nominative of śailī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lohamayī",
+     "gloss": "iron-made",
+     "grounds": "nominative of lohamayī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials may be used as before with various differences?",
+   "premises": [
+    "The verse compares to before.",
+    "It mentions stone and iron-made forms.",
+    "Various differences apply."
+   ],
+   "inference": "Stone and iron-made forms may be used as before, with various differences.",
+   "uncertainties": [
+    "The full range of differences is not specified."
+   ],
+   "plain_english": "As before, stone and iron-made forms may be used, with various differences."
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "ṣaṇmukhī",
+     "gloss": "six-faced",
+     "grounds": "nominative of ṣaṇmukhī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṇmukhasya",
+     "gloss": "of-Skanda",
+     "grounds": "genitive of ṣaṇmukha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What six-faced form may belong to Skanda?",
+   "premises": [
+    "The verse allows a possibility.",
+    "It names a six-faced form.",
+    "It attributes it to Skanda."
+   ],
+   "inference": "A six-faced form may be Skanda's.",
+   "uncertainties": [
+    "The exact iconographic form is not fully specified."
+   ],
+   "plain_english": "Or there may be a six-faced form of Skanda."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "dvibhujān",
+     "gloss": "two-armed",
+     "grounds": "accusative plural of dvibhuja",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dvinetrān",
+     "gloss": "two-eyed",
+     "grounds": "accusative plural of dvinetra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "causative optative of kṛ",
+     "morph": "3.sg.caus-opt"
+    }
+   ],
+   "question": "How should the images be made in arm and eye count?",
+   "premises": [
+    "The images are two-armed.",
+    "They are two-eyed.",
+    "They should be made only thus."
+   ],
+   "inference": "The images should be made with only two arms and two eyes.",
+   "uncertainties": [
+    "The deity or material is not specified here."
+   ],
+   "plain_english": "One should make them only two-armed and two-eyed."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturhastaḥ",
+     "gloss": "four-armed",
+     "grounds": "nominative of caturhasta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayūrasthaḥ",
+     "gloss": "on-peacock",
+     "grounds": "nominative compound mayūra-stha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "nominative participle of sthā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative standing form on a peacock is allowed?",
+   "premises": [
+    "The verse offers an alternative.",
+    "The figure is four-armed.",
+    "It stands on a peacock."
+   ],
+   "inference": "Alternatively, a four-armed figure standing on a peacock is allowed.",
+   "uncertainties": [
+    "The deity is implied rather than named."
+   ],
+   "plain_english": "Or a four-armed figure standing on a peacock may be used."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "dhārayan",
+     "gloss": "holding",
+     "grounds": "nominative participle of dhṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭisparśivarapradam",
+     "gloss": "hip-touching-boon-giving",
+     "grounds": "compound kaṭi-sparśi-vara-prada",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What boon-giving object is held likewise?",
+   "premises": [
+    "The figure is holding something.",
+    "It is held likewise.",
+    "It touches the hip and gives boons."
+   ],
+   "inference": "Likewise, a hip-touching boon-giving object is held.",
+   "uncertainties": [
+    "The exact object is not named."
+   ],
+   "plain_english": "Holding likewise a hip-touching boon-giving object."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "adhohastāt",
+     "gloss": "from-lower-hands",
+     "grounds": "ablative of adhohasta",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "prabhṛtyūrdhvam",
+     "gloss": "upward",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "dvādaśabhujaḥ",
+     "gloss": "twelve-armed",
+     "grounds": "nominative of dvādaśabhuja",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "nominative of vibhu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many arms may the lord have upward from the lower hands?",
+   "premises": [
+    "The count begins from lower hands.",
+    "The lord may be twelve-armed.",
+    "The direction is upward."
+   ],
+   "inference": "The lord may be twelve-armed upward from the lower hands.",
+   "uncertainties": [
+    "The lower-hand count is not specified."
+   ],
+   "plain_english": "Upward from the lower hands, the lord may be twelve-armed."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "bibhrat",
+     "gloss": "bearing",
+     "grounds": "nominative participle of bhṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive of kṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṇmukhaḥ",
+     "gloss": "six-faced",
+     "grounds": "nominative of ṣaṇmukha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "nominative of vibhu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What six-faced lord is to be made bearing attributes?",
+   "premises": [
+    "The lord is six-faced.",
+    "He is to be made.",
+    "He is bearing attributes."
+   ],
+   "inference": "A six-faced lord bearing attributes is to be made.",
+   "uncertainties": [
+    "The borne attributes are not listed."
+   ],
+   "plain_english": "The six-faced lord, bearing attributes, is to be made."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "bibhrat",
+     "gloss": "bearing",
+     "grounds": "nominative participle of bhṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍvaktraḥ",
+     "gloss": "six-faced",
+     "grounds": "nominative of ṣaḍvaktra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekāsyaḥ",
+     "gloss": "or-one-faced",
+     "grounds": "nominative compound eka-āsya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhujaḥ",
+     "gloss": "four-armed",
+     "grounds": "nominative of caturbhuja",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What face and arm combinations are allowed for the bearing figure?",
+   "premises": [
+    "The figure is bearing attributes.",
+    "It may be six-faced.",
+    "It may be one-faced and four-armed."
+   ],
+   "inference": "The bearing figure may be six-faced, or one-faced and four-armed.",
+   "uncertainties": [
+    "The exact borne attributes are unspecified."
+   ],
+   "plain_english": "Bearing attributes, it may be six-faced, or one-faced and four-armed."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "daṇḍaśaktidharaḥ",
+     "gloss": "staff-shakti-holder",
+     "grounds": "compound daṇḍa-śakti-dhara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What staff-and-shakti-holding form is allowed?",
+   "premises": [
+    "The verse allows a possibility.",
+    "The figure holds staff and shakti."
+   ],
+   "inference": "A staff-and-shakti-holding form may be used.",
+   "uncertainties": [
+    "The deity and arm count are not specified."
+   ],
+   "plain_english": "Or there may be a staff-and-shakti-holding form."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "maulikuṇḍalahārādyaiḥ",
+     "gloss": "crown-earring-garland-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yuktāḥ",
+     "gloss": "endowed",
+     "grounds": "nominative plural participle of yuj",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.pl.opt"
+    },
+    {
+     "surface": "skandamūrtayaḥ",
+     "gloss": "Skanda-images",
+     "grounds": "nominative plural compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "With what ornaments may Skanda images be endowed?",
+   "premises": [
+    "Skanda images are the subject.",
+    "They may be endowed.",
+    "The ornaments include crown, earring, garland, etc."
+   ],
+   "inference": "Skanda images may be endowed with crown, earring, garland, and similar ornaments.",
+   "uncertainties": [
+    "The full ornament list is open-ended."
+   ],
+   "plain_english": "Skanda images may be endowed with crown, earrings, garlands, and the like."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāpyāḥ",
+     "gloss": "to-be-installed",
+     "grounds": "gerundive of pratiṣṭhā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtayaḥ",
+     "gloss": "images",
+     "grounds": "nominative plural of mūrti",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many images are to be installed?",
+   "premises": [
+    "Images are to be installed.",
+    "The number may be six.",
+    "The number may be twelve."
+   ],
+   "inference": "Either six or twelve images are to be installed.",
+   "uncertainties": [
+    "The deity or placement is not specified."
+   ],
+   "plain_english": "Six or twelve images are to be installed."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "toraṇāni",
+     "gloss": "arches",
+     "grounds": "nominative plural of toraṇa",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.pl.opt"
+    },
+    {
+     "surface": "lokesāstrāṅkitāḥ",
+     "gloss": "world-protectors-marked",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhvajāḥ",
+     "gloss": "banners",
+     "grounds": "nominative plural of dhvaja",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What arches and banners may be marked with world protectors?",
+   "premises": [
+    "Arches may be used.",
+    "Banners may be used.",
+    "They are marked with world protectors."
+   ],
+   "inference": "Arches and banners marked with world protectors may be used.",
+   "uncertainties": [
+    "The exact world protectors are not named."
+   ],
+   "plain_english": "There may be arches and banners marked with world protectors."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "pūrṇasenaḥ",
+     "gloss": "full-army",
+     "grounds": "nominative compound pūrṇa-sena",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What comes after the full army?",
+   "premises": [
+    "A full army is named.",
+    "Then comes what is beyond."
+   ],
+   "inference": "After the full army comes what is beyond.",
+   "uncertainties": [
+    "The beyond element is not specified."
+   ],
+   "plain_english": "Then, beyond, comes the full army."
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "pratidvāram",
+     "gloss": "at-each-door",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lājakumbhau",
+     "gloss": "parched-rice-pots",
+     "grounds": "nominative dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bījāṅkuraghaṭau",
+     "gloss": "seed-sprout-pots",
+     "grounds": "nominative dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What pots are placed at each door?",
+   "premises": [
+    "The location is each door.",
+    "Parched-rice pots are named.",
+    "Seed-sprout pots are also named."
+   ],
+   "inference": "At each door, parched-rice pots and seed-sprout pots are placed.",
+   "uncertainties": [
+    "The ritual purpose is not stated."
+   ],
+   "plain_english": "At each door, parched-rice pots and seed-sprout pots are also placed."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "dūrvākuśāgramāṣāḥ",
+     "gloss": "durva-kusha-grama-beans",
+     "grounds": "nominative plural compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrīhayaḥ",
+     "gloss": "rice",
+     "grounds": "nominative plural of vrīhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "taṇḍulāḥ",
+     "gloss": "grains",
+     "grounds": "nominative plural of taṇḍula",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tilāḥ",
+     "gloss": "sesame",
+     "grounds": "nominative plural of tila",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which grains and plants are included in the offering?",
+   "premises": [
+    "Durva, kusha, grama beans are named.",
+    "Rice, grains, and sesame are named."
+   ],
+   "inference": "The offering includes durva, kusha, grama beans, rice, grains, and sesame.",
+   "uncertainties": [
+    "The exact ritual use is not specified."
+   ],
+   "plain_english": "Durva, kusha, grama beans, rice, grains, and sesame are included."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "skandam",
+     "gloss": "Skanda",
+     "grounds": "accusative of skanda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayūrastham",
+     "gloss": "on-peacock",
+     "grounds": "accusative compound mayūra-stha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kukkuṭe",
+     "gloss": "rooster",
+     "grounds": "locative of kukkuṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "astram",
+     "gloss": "weapon",
+     "grounds": "accusative of astra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīm",
+     "gloss": "growth-vessel",
+     "grounds": "accusative of vardhanī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is placed with Skanda on the peacock and rooster?",
+   "premises": [
+    "Skanda is on a peacock.",
+    "A rooster is named.",
+    "A weapon and growth vessel are named."
+   ],
+   "inference": "With Skanda on the peacock and rooster, a weapon and growth vessel are included.",
+   "uncertainties": [
+    "The exact placement relation is compressed."
+   ],
+   "plain_english": "Skanda on the peacock, with rooster, weapon, and growth vessel."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "tvākaram",
+     "gloss": "?",
+     "grounds": "uncertain compound or term",
+     "morph": "(uncertain)"
+    },
+    {
+     "surface": "netramokṣam",
+     "gloss": "eye-release",
+     "grounds": "compound netra-mokṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "toyādhivāsanam",
+     "gloss": "water-consecration",
+     "grounds": "compound toya-adhivāsana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What water consecration and eye release are mentioned?",
+   "premises": [
+    "An uncertain term is named.",
+    "Eye release is named.",
+    "Water consecration is named."
+   ],
+   "inference": "The verse mentions an uncertain term, eye release, and water consecration.",
+   "uncertainties": [
+    "The meaning of tvākaram is uncertain."
+   ],
+   "plain_english": "An uncertain term, eye release, and water consecration are mentioned."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "kumārakumbhāstre",
+     "gloss": "Kumara-pots-weapons",
+     "grounds": "locative compound kumāra-kumbha-astra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūrtikumbhān",
+     "gloss": "image-pots",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative of nyas",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Where are six image pots to be placed?",
+   "premises": [
+    "Kumara pots and weapons are named.",
+    "Image pots are named.",
+    "Six are to be placed."
+   ],
+   "inference": "Six image pots are to be placed with Kumara pots and weapons.",
+   "uncertainties": [
+    "The exact placement is compressed."
+   ],
+   "plain_english": "Place six image pots with Kumara pots and weapons."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "ātmāditattvabhāgeṣu",
+     "gloss": "in-soul-etc-principles",
+     "grounds": "locative plural compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "brahmādīn",
+     "gloss": "Brahma-etc",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "triguṇānvitān",
+     "gloss": "with-three-gunas",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where are Brahma and others with three gunas placed?",
+   "premises": [
+    "Soul and other principles are named.",
+    "Brahma and others are named.",
+    "They are endowed with three gunas."
+   ],
+   "inference": "Brahma and others, endowed with three gunas, are placed in soul and other principles.",
+   "uncertainties": [
+    "The exact mapping is not specified."
+   ],
+   "plain_english": "In soul and other principles, Brahma and others are endowed with three gunas."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "sanatkumāraḥ",
+     "gloss": "Sanatkumara",
+     "grounds": "nominative of Sanatkumāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "skandaḥ",
+     "gloss": "Skanda",
+     "grounds": "nominative of skanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśākhaḥ",
+     "gloss": "Vishakha",
+     "grounds": "nominative of viśākha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṇmukhaḥ",
+     "gloss": "six-faced",
+     "grounds": "nominative of ṣaṇmukha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are named together with six-faced Skanda?",
+   "premises": [
+    "Sanatkumara is named.",
+    "Skanda is named.",
+    "Vishakha is named.",
+    "Six-faced is named."
+   ],
+   "inference": "Sanatkumara, Skanda, Vishakha, and the six-faced form are named together.",
+   "uncertainties": [
+    "The exact relation among them is not specified."
+   ],
+   "plain_english": "Sanatkumara, Skanda, Vishakha, and likewise the six-faced form."
+  }
+ ]
+}

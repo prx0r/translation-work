@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "abhiṣekeṇa",
+     "gloss": "by-consecration",
+     "grounds": "instrumental of abhiṣeka; consecration rite",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śāktena",
+     "gloss": "by-śākta",
+     "grounds": "instrumental adjective śākta; śākta method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūrṇāḥ",
+     "gloss": "full",
+     "grounds": "nominative plural adjective pūrṇa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "santu",
+     "gloss": "let-them-be",
+     "grounds": "imperative of as; optative wish",
+     "morph": "3.pl.act.impv"
+    },
+    {
+     "surface": "manorathāḥ",
+     "gloss": "desires",
+     "grounds": "nominative plural manoratha; wishes",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What ritual means makes a practitioner's desires become fully realized?",
+   "premises": [
+    "śākta consecration is the ritual means",
+    "desires are to be made full",
+    "the verse states the result directly"
+   ],
+   "inference": "Therefore śākta consecration fulfills desires.",
+   "uncertainties": [
+    "śākta may denote method or deity",
+    "context of prior verses affects scope"
+   ],
+   "plain_english": "By śākta consecration, let desires be fulfilled."
+  }
+ ]
+}

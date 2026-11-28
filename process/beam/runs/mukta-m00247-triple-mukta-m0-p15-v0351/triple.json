@@ -1,0 +1,1169 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "śyāmā",
+     "gloss": "śyāmā",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakalāgama",
+     "gloss": "all-scripture",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāgare",
+     "gloss": "in-ocean",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which goddess is declared by the speaker within the ocean of all scriptures?",
+   "premises": [
+    "śyāmā is named",
+    "the declaration occurs in tantra",
+    "the setting is the ocean of all scriptures"
+   ],
+   "inference": "The verse identifies śyāmā as the goddess declared across the scriptural ocean.",
+   "uncertainties": [
+    "exact syntactic role of sakalāgama sāgare"
+   ],
+   "plain_english": "Śyāmā is declared by me in the tantra, in the ocean of all scriptures."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "kṛṣṇāmbubhṛt",
+     "gloss": "dark-cloud-water-bearer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadṛśa",
+     "gloss": "similar",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpadharāṃ",
+     "gloss": "form-bearing",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trinetrām",
+     "gloss": "three-eyed",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form is attributed to the dark-cloud-like goddess?",
+   "premises": [
+    "she resembles a dark cloud",
+    "she bears a form",
+    "she is three-eyed"
+   ],
+   "inference": "The goddess is described as dark-cloud-like, form-bearing, and three-eyed.",
+   "uncertainties": [
+    "exact referent of kṛṣṇāmbubhṛt"
+   ],
+   "plain_english": "She is like a dark cloud bearing water, form-bearing and three-eyed."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "śyāmāṃ",
+     "gloss": "śyāmā",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "śavaśarīra",
+     "gloss": "corpse-body",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtāsanasthām",
+     "gloss": "made-seat-standing",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where is the worshipped śyāmā seated?",
+   "premises": [
+    "śyāmā is worshipped",
+    "she stands on a made seat",
+    "the seat is a corpse body"
+   ],
+   "inference": "The worshipper venerates śyāmā seated upon a corpse-body seat.",
+   "uncertainties": [
+    "precise parsing of kṛtāsanasthām"
+   ],
+   "plain_english": "I worship śyāmā, standing on a seat made of a corpse body."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmakeśvare",
+     "gloss": "in-vāmakeśvara",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which composed tantra is the goddess addressed?",
+   "premises": [
+    "the speaker composed it",
+    "the goddess is addressed",
+    "it is the vāmakeśvara tantra"
+   ],
+   "inference": "The address occurs in the tantra composed by the speaker, namely vāmakeśvara.",
+   "uncertainties": [
+    "whether devi is vocative or nominative"
+   ],
+   "plain_english": "By me composed, O goddess, indeed in the vāmakeśvara tantra."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "siṃhāsanasthāṃ",
+     "gloss": "lion-throne-seated",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhṛta+pītavastrāṃ",
+     "gloss": "wearing-yellow-garment",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "I-meditate",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "maheśīṃ",
+     "gloss": "great-goddess",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālarātrīm",
+     "gloss": "kālarātrī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess is meditated upon in the heart?",
+   "premises": [
+    "she is seated on a lion throne",
+    "she wears a yellow garment",
+    "she is the great goddess kālarātrī"
+   ],
+   "inference": "The meditated goddess is kālarātrī, seated on a lion throne and wearing yellow.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "I meditate in my heart on the great goddess kālarātrī, seated on a lion throne and wearing a yellow garment."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "śrīvajrayoginī",
+     "gloss": "śrī-vajrayoginī",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niḥsmṛtaṃ",
+     "gloss": "taught",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulikārṇave",
+     "gloss": "in-kulikārṇava",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the meditation on śrī vajrayoginī taught?",
+   "premises": [
+    "the meditation concerns śrī vajrayoginī",
+    "it is taught",
+    "the location is kulikārṇava"
+   ],
+   "inference": "The meditation on śrī vajrayoginī is taught in the kulikārṇava.",
+   "uncertainties": [
+    "whether niḥsmṛtaṃ means taught or remembered"
+   ],
+   "plain_english": "The meditation on śrī vajrayoginī is taught in the kulikārṇava."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "dvibhujāṃ",
+     "gloss": "two-armed",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siṃham",
+     "gloss": "lion",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "adhyasthāṃ",
+     "gloss": "mounted-upon",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "pronoun",
+     "morph": "1sg.nom"
+    },
+    {
+     "surface": "vajrayoginīm",
+     "gloss": "vajrayoginī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which two-armed goddess is worshipped while mounted on a lion?",
+   "premises": [
+    "she is two-armed",
+    "she is mounted on a lion",
+    "she is vajrayoginī"
+   ],
+   "inference": "The worshipper venerates two-armed vajrayoginī mounted on a lion.",
+   "uncertainties": [
+    "exact relation of siṃham"
+   ],
+   "plain_english": "I worship two-armed vajrayoginī, mounted upon a lion."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "yathābhīṣṭa+pradaṃ",
+     "gloss": "as-desired-giving",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulacūḍāmaṇau",
+     "gloss": "in-kulacūḍāmaṇi",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What gift is promised to the beloved goddess in kulacūḍāmaṇi?",
+   "premises": [
+    "the gift is as desired",
+    "the goddess is addressed",
+    "the text is kulacūḍāmaṇi"
+   ],
+   "inference": "The verse promises the beloved goddess a gift as desired in kulacūḍāmaṇi.",
+   "uncertainties": [
+    "whether yathābhīṣṭa+pradaṃ modifies gift or goddess"
+   ],
+   "plain_english": "As-desired-giving, O goddess, in kulacūḍāmaṇi, O beloved."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "sūryāgni+candrīkṛta",
+     "gloss": "sun-fire-moon-made",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭi+pātāṃ",
+     "gloss": "gaze-casting",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "I-meditate",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "hṛdabje",
+     "gloss": "in-heart-lotus",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vimalāṃ",
+     "gloss": "spotless",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "varāhīm",
+     "gloss": "varāhī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which spotless goddess is meditated upon in the heart lotus?",
+   "premises": [
+    "her gaze is sun-fire-moon made",
+    "she is meditated in the heart lotus",
+    "she is spotless varāhī"
+   ],
+   "inference": "The meditated goddess is spotless varāhī, with a gaze made of sun, fire, and moon.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "I meditate in the heart lotus on spotless varāhī, whose gaze is made of sun, fire, and moon."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "śāradāpaṭale",
+     "gloss": "in-śāradāpaṭala",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "racite",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "myself",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who composed the text in śāradāpaṭala?",
+   "premises": [
+    "the text is in śāradāpaṭala",
+    "it is composed",
+    "the composer is the speaker himself"
+   ],
+   "inference": "The speaker himself composed the text in śāradāpaṭala.",
+   "uncertainties": [
+    "whether api modifies composed or text"
+   ],
+   "plain_english": "In the text composed by me myself in śāradāpaṭala also."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "parvate",
+     "gloss": "on-mountain",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitavatīṃ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhṛtaśūlāṃ",
+     "gloss": "holding-trident",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śāradāṃ",
+     "gloss": "śāradā",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhagavatīṃ",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "I-meditate",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    }
+   ],
+   "question": "Which mountain-seated goddess holding a trident is meditated upon?",
+   "premises": [
+    "she is situated on a mountain",
+    "she holds a trident",
+    "she is śāradā the goddess"
+   ],
+   "inference": "The meditated goddess is śāradā, situated on a mountain and holding a trident.",
+   "uncertainties": [
+    "whether bhagavatīṃ is appositive"
+   ],
+   "plain_english": "I meditate in my heart on the goddess śāradā, situated on a mountain and holding a trident."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "kāmeśvaryāstripurāyāḥ",
+     "gloss": "of-kāmeśvarī-tripurā",
+     "grounds": "compound genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sarvasve",
+     "gloss": "in-essence",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tantrakottame",
+     "gloss": "tantra-best",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which best tantra is the essence of kāmeśvarī tripurā found?",
+   "premises": [
+    "the essence belongs to kāmeśvarī tripurā",
+    "the location is the best tantra"
+   ],
+   "inference": "The essence of kāmeśvarī tripurā is found in the best tantra.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "In the essence of kāmeśvarī tripurā, in the best tantra."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "pītāmbarāṃ",
+     "gloss": "yellow-garment-clad",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṣṇu+maheśa",
+     "gloss": "by-viṣṇu-maheśa",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "sevyāṃ",
+     "gloss": "served",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmeśvarīṃ",
+     "gloss": "kāmeśvarī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smarāmi",
+     "gloss": "I-remember",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    }
+   ],
+   "question": "Which yellow-clad goddess served by viṣṇu and maheśa is remembered?",
+   "premises": [
+    "she wears yellow garments",
+    "she is served by viṣṇu and maheśa",
+    "she is kāmeśvarī"
+   ],
+   "inference": "The remembered goddess is kāmeśvarī, yellow-clad and served by viṣṇu and maheśa.",
+   "uncertainties": [
+    "whether tāṃ is redundant"
+   ],
+   "plain_english": "I remember in my heart that kāmeśvarī, yellow-garment-clad and served by viṣṇu and maheśa."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parvateśvara",
+     "gloss": "O-mountain-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "nandini",
+     "gloss": "O-daughter",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is addressed in the text composed by the speaker?",
+   "premises": [
+    "the text is composed by the speaker",
+    "parvateśvara is addressed",
+    "nandinī is addressed"
+   ],
+   "inference": "The composed text addresses parvateśvara and nandinī.",
+   "uncertainties": [
+    "whether nandinī is daughter of parvateśvara"
+   ],
+   "plain_english": "In the text composed by me, O mountain lord, O daughter."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "candrodbhāsita",
+     "gloss": "moon-illuminated",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śekharāṃ",
+     "gloss": "crest",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smitamukhīṃ",
+     "gloss": "smiling-faced",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dorbhyāṃ",
+     "gloss": "with-two-arms",
+     "grounds": "instrumental",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "vahantīṃ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gadām",
+     "gloss": "mace",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is held by the smiling-faced goddess with a moon-illuminated crest?",
+   "premises": [
+    "her crest is moon-illuminated",
+    "she is smiling-faced",
+    "she holds a mace with two arms"
+   ],
+   "inference": "The goddess holds a mace with two arms.",
+   "uncertainties": [
+    "exact subject omitted"
+   ],
+   "plain_english": "Moon-illuminated crest, smiling-faced, holding a mace with two arms."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "gaurīṃ",
+     "gloss": "gaurī",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mānasa+paṅkajāṃ",
+     "gloss": "mind-lotus-born",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhagavatīṃ",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhakteṣṭadāṃ",
+     "gloss": "to-devotees-desired-giving",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    }
+   ],
+   "question": "Which mind-lotus-born goddess giving desired boons is worshipped?",
+   "premises": [
+    "she is gaurī",
+    "she is mind-lotus-born",
+    "she gives desired things to devotees"
+   ],
+   "inference": "The worshipped goddess is gaurī, born from the mind lotus and granting devotees' desires.",
+   "uncertainties": [
+    "whether bhagavatīṃ is appositive"
+   ],
+   "plain_english": "I worship that gaurī, mind-lotus-born goddess, giving desired things to devotees."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "niḥsmṛtaṃ",
+     "gloss": "taught",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairave",
+     "gloss": "in-bhairava",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prakāśite",
+     "gloss": "revealed",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the teaching revealed by the speaker?",
+   "premises": [
+    "it is taught",
+    "it is in the bhairava tantra",
+    "it is revealed by the speaker"
+   ],
+   "inference": "The teaching is revealed by the speaker in the bhairava tantra.",
+   "uncertainties": [
+    "whether niḥsmṛtaṃ and prakāśite are parallel"
+   ],
+   "plain_english": "Taught in the bhairava tantra, revealed by me, O goddess."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "eṇāsanasthāṃ",
+     "gloss": "deer-seat-seated",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhujagopavītāṃ",
+     "gloss": "serpent-sacred-threaded",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "annapūrṇāṃ",
+     "gloss": "annapūrṇā",
+     "grounds": "goddess name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smarāmi",
+     "gloss": "I-remember",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    }
+   ],
+   "question": "Which deer-seated goddess with serpent sacred thread is remembered?",
+   "premises": [
+    "she is seated on a deer",
+    "she wears a serpent sacred thread",
+    "she is annapūrṇā"
+   ],
+   "inference": "The remembered goddess is annapūrṇā, seated on a deer and wearing a serpent sacred thread.",
+   "uncertainties": [
+    "whether tām is redundant"
+   ],
+   "plain_english": "I remember in my heart that annapūrṇā, seated on a deer and wearing a serpent sacred thread."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "āgamāmṛtamañjaryāṃ",
+     "gloss": "in-āgamāmṛtamañjarī",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "durlabhāyāṃ",
+     "gloss": "in-rare",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "genitive",
+     "morph": "1sg.gen"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rare text of the speaker is mentioned?",
+   "premises": [
+    "the text is āgamāmṛtamañjarī",
+    "it is rare",
+    "it belongs to the speaker"
+   ],
+   "inference": "The verse mentions the speaker's rare text āgamāmṛtamañjarī.",
+   "uncertainties": [
+    "exact syntactic relation of api ca"
+   ],
+   "plain_english": "In the rare āgamāmṛtamañjarī of mine also and."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "tryakṣāṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siṃhāsanagatāṃ",
+     "gloss": "lion-throne-gone",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kulavāgīśvarīṃ",
+     "gloss": "kula-vāgīśvarī",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    }
+   ],
+   "question": "Which three-eyed goddess on a lion throne is worshipped?",
+   "premises": [
+    "she is three-eyed",
+    "she is on a lion throne",
+    "she is kulavāgīśvarī"
+   ],
+   "inference": "The worshipped goddess is three-eyed kulavāgīśvarī on a lion throne.",
+   "uncertainties": [
+    "exact parsing of kulavāgīśvarī"
+   ],
+   "plain_english": "I worship three-eyed kulavāgīśvarī, gone to the lion throne."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "āgamārṇavapīpūṣe",
+     "gloss": "in-āgamārṇava-moon",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "durlabhe",
+     "gloss": "in-rare",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhuvane",
+     "gloss": "in-world",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "O-mother",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What rare world context is addressed to the mother?",
+   "premises": [
+    "the context is āgamārṇava moon",
+    "it is rare",
+    "the world is addressed to ambikā"
+   ],
+   "inference": "The verse addresses ambikā in the rare world of āgamārṇava moon.",
+   "uncertainties": [
+    "exact compound parsing"
+   ],
+   "plain_english": "In the rare āgamārṇava moon, in the world, O mother."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "dvimṛgādhipa",
+     "gloss": "two-lion",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gāminaṃ",
+     "gloss": "riding",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trinetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivaputraṃ",
+     "gloss": "śiva-son",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dviradānanaṃ",
+     "gloss": "elephant-faced",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "pronoun",
+     "morph": "1sg.nom"
+    }
+   ],
+   "question": "Which three-eyed elephant-faced son of śiva is worshipped?",
+   "premises": [
+    "he rides two lions",
+    "he is three-eyed",
+    "he is śiva's son with elephant face"
+   ],
+   "inference": "The worshipped figure is śiva's three-eyed elephant-faced son riding two lions.",
+   "uncertainties": [
+    "whether dvimṛgādhipa means two lions or two lion-lords"
+   ],
+   "plain_english": "I worship the three-eyed elephant-faced son of śiva, riding two lions."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "niḥsmṛtam",
+     "gloss": "taught",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āgamoddyote",
+     "gloss": "in-āgamoddyota",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person",
+     "morph": "1sg.instr"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Where is the teaching composed by the speaker revealed?",
+   "premises": [
+    "it is taught",
+    "it is in āgamoddyota",
+    "it is composed by the speaker"
+   ],
+   "inference": "The teaching composed by the speaker is in āgamoddyota.",
+   "uncertainties": [
+    "whether śive is vocative or locative"
+   ],
+   "plain_english": "Taught in āgamoddyota, composed by me, O śiva."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "nāgendra+kanyā",
+     "gloss": "mountain-lord-daughter",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priyaputram",
+     "gloss": "dear-son",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "primordial",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smare",
+     "gloss": "I-remember",
+     "grounds": "first person verb",
+     "morph": "1sg.act-pres"
+    },
+    {
+     "surface": "abhīṣṭapradaṃ",
+     "gloss": "desired-giving",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kumāram",
+     "gloss": "kumāra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which primordial dear son of the mountain lord's daughter is remembered?",
+   "premises": [
+    "he is the dear son",
+    "he is primordial",
+    "he gives desired boons",
+    "he is kumāra"
+   ],
+   "inference": "The remembered figure is primordial kumāra, dear son of the mountain lord's daughter, giving desired boons.",
+   "uncertainties": [
+    "whether nāgendra+kanyā means daughter of mountain lord or serpent lord"
+   ],
+   "plain_english": "I remember in my heart the primordial kumāra, dear son of the mountain lord's daughter, giving desired boons."
+  }
+ ]
+}

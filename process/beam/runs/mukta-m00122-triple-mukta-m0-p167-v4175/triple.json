@@ -1,0 +1,24 @@
+{
+ "song": "mukta-m0-p167",
+ "items": [
+  {
+   "verse": 4175,
+   "rows": [
+    {
+     "surface": "maṇḍaladināvadhi",
+     "gloss": "circle-day-limit",
+     "grounds": "compound of maṇḍala (circle-period), dina (day), and avadhi (limit, boundary), indicating the duration up to the end of the maṇḍala days",
+     "morph": "compound: maṇḍala+member, dina+member, avadhi+head"
+    }
+   ],
+   "question": "What temporal boundary marks the endpoint of the prescribed maṇḍala period?",
+   "premises": [
+    "The preceding context specifies a duration measured in maṇḍala days.",
+    "The compound maṇḍaladināvadhi denotes a limit defined by those days."
+   ],
+   "inference": "The prescribed observance extends up to the limit of the maṇḍala days.",
+   "uncertainties": [],
+   "plain_english": "Up to the limit of the maṇḍala days."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p276",
+ "items": [
+  {
+   "verse": 6900,
+   "rows": [
+    {
+     "surface": "vacāṃ",
+     "gloss": "sweet-flag",
+     "grounds": "plant name vacā (Acorus calamus), taken here as part of the listed ritual substances",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dantīṃ",
+     "gloss": "danti-plant",
+     "grounds": "plant name dantī (Baliospermum montanum), object in the ritual list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gulūcīṃ",
+     "gloss": "guduchi-plant",
+     "grounds": "plant name gulūcī (Tinospora cordifolia), object in the ritual list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyaṅgvarjuna",
+     "gloss": "priyangu-arjuna",
+     "grounds": "compound naming priyaṅgu and arjuna plants; fused form kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃjñimam",
+     "gloss": "named",
+     "grounds": "qualifies the preceding compound as the one so designated",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which specific plants are prescribed for use in this ritual procedure?",
+   "premises": [
+    "The verse lists dantī as a prescribed substance.",
+    "The verse lists gulūcī as a prescribed substance.",
+    "The verse includes substances designated as vacā and priyaṅgu-arjuna."
+   ],
+   "inference": "The ritual procedure requires the use of vacā, dantī, gulūcī, and the substances named priyaṅgu and arjuna.",
+   "uncertainties": [
+    "The exact grammatical coordination and case agreement of vacāṃ with the following accusatives is somewhat unclear in isolation."
+   ],
+   "plain_english": "One should use sweet flag, dantī, gulūcī, and those called priyaṅgu and arjuna."
+  }
+ ]
+}

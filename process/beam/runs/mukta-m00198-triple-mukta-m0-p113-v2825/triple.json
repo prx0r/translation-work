@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "hikkādhobāhudīrghaṃ",
+     "gloss": "below-hiccup-to-arm-length",
+     "grounds": "compound of hikkā (hiccup), adhas (below), bāhu (arm), and dīrgha (length/long); accusative measure",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle indicating specification or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturviṃśatibhāgayā",
+     "gloss": "by-twenty-four-parts",
+     "grounds": "compound of caturviṃśati (twenty-four) and bhāga (part/division); instrumental of measure",
+     "morph": "compound f.inst.sg"
+    }
+   ],
+   "question": "What proportional measure defines the length from below the hiccup to the arm?",
+   "premises": [
+    "The segment below the hiccup to the arm is specified as a length.",
+    "This length is measured by twenty-four parts.",
+    "The measurement continues the proportional scheme of bodily divisions."
+   ],
+   "inference": "The length from below the hiccup to the arm is defined as twenty-four parts.",
+   "uncertainties": [
+    "The exact anatomical endpoints of hikkā-adhas and bāhu in this ritual measurement system are not fully explicit."
+   ],
+   "plain_english": "Indeed, the length from below the hiccup to the arm is twenty-four parts."
+  }
+ ]
+}

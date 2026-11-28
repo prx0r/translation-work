@@ -1,0 +1,951 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "paṃjaravyāsamākhyātaṃ",
+     "gloss": "cage-width-declared",
+     "grounds": "compound describing the width of the cage as stated",
+     "morph": "compound"
+    },
+    {
+     "surface": "kūṭabāhyasamogatim",
+     "gloss": "peak-outer-equal-extent",
+     "grounds": "compound indicating extent equal to the outer side of the peak",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What measure defines the width of the cage in relation to the peak?",
+   "premises": [
+    "The cage width is declared.",
+    "Its extent matches the outer side of the peak."
+   ],
+   "inference": "The cage width is set equal to the outer extent of the peak.",
+   "uncertainties": [],
+   "plain_english": "The width of the cage is declared to be equal in extent to the outer side of the peak."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "the architectural cage element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇakūṭābhaṃ",
+     "gloss": "corner-peak-resembling",
+     "grounds": "compound indicating resemblance to a corner peak",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsikākāra",
+     "gloss": "nose-shaped",
+     "grounds": "compound indicating a nose-like form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms may the architectural cage element take?",
+   "premises": [
+    "The cage may resemble a corner peak.",
+    "The cage may alternatively be nose-shaped."
+   ],
+   "inference": "The cage is prescribed as either corner-peak-like or nose-shaped.",
+   "uncertainties": [],
+   "plain_english": "The cage should be made resembling a corner peak or indeed in the shape of a nose."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "prāsādoccaṃ",
+     "gloss": "temple-height",
+     "grounds": "compound denoting the height of the temple",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "instruction to divide into parts",
+     "morph": "3.sg.optative-active √bhaj"
+    },
+    {
+     "surface": "aṣṭāviṃśati",
+     "gloss": "twenty-eight",
+     "grounds": "numeral specifying the count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "by means of a numerical division",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Into how many parts should the height of the temple be divided?",
+   "premises": [
+    "The temple height is the object of division.",
+    "The division is by the number twenty-eight."
+   ],
+   "inference": "The temple height must be divided into twenty-eight parts.",
+   "uncertainties": [],
+   "plain_english": "One should divide the height of the temple into twenty-eight parts."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "prastarotsedham",
+     "gloss": "entablature-height",
+     "grounds": "compound denoting the height of the entablature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "agnyaṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound indicating three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound indicating five parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-height",
+     "grounds": "compound denoting the height of the pillar",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the entablature and the pillar?",
+   "premises": [
+    "The entablature height is assigned three parts.",
+    "The pillar height is assigned five parts."
+   ],
+   "inference": "The entablature takes three parts and the pillar takes five parts.",
+   "uncertainties": [],
+   "plain_english": "The height of the entablature should be three parts and the height of the pillar five parts."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound indicating two parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "compound denoting the measure of the neck",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhavedāṃśaśīrṣakam",
+     "gloss": "four-and-half-parts-head",
+     "grounds": "compound indicating a head of four and a half parts",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What proportional measures are assigned to the neck and the head?",
+   "premises": [
+    "The neck measure is two parts.",
+    "The head is four and a half parts."
+   ],
+   "inference": "The neck takes two parts and the head takes four and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The measure of the neck should be two parts, and the head four and a half parts."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "catustriṃśati",
+     "gloss": "thirty-four",
+     "grounds": "numeral specifying the count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "parts",
+     "grounds": "division into parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadanodayam",
+     "gloss": "building-height",
+     "grounds": "compound denoting the height of the building",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Into how many parts should the height of the building be divided in this scheme?",
+   "premises": [
+    "The building height is to be divided.",
+    "The division is into thirty-four parts."
+   ],
+   "inference": "The building height must be divided into thirty-four parts.",
+   "uncertainties": [],
+   "plain_english": "Having divided the height of the building into thirty-four parts."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "prastaroccaṃ",
+     "gloss": "entablature-height",
+     "grounds": "compound denoting the height of the entablature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound indicating three parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "talipaṃ",
+     "gloss": "base",
+     "grounds": "the base or floor element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhaṣaḍbhavet",
+     "gloss": "six-and-half-should-be",
+     "grounds": "compound with verb indicating six and a half parts",
+     "morph": "compound+3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What proportional heights are prescribed for the entablature and base in the thirty-four-part scheme?",
+   "premises": [
+    "The entablature height should be three parts.",
+    "The base should be six and a half parts."
+   ],
+   "inference": "In this scheme the entablature is three parts and the base six and a half.",
+   "uncertainties": [
+    "The exact referent of talipaṃ is contextually architectural."
+   ],
+   "plain_english": "The entablature height should be three parts, and the base should be six and a half parts."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "two-and-half-parts",
+     "grounds": "compound indicating two and a half parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "galotsedhaṃ",
+     "gloss": "neck-height",
+     "grounds": "compound denoting the height of the neck",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound indicating five parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharodayam",
+     "gloss": "spire-height",
+     "grounds": "compound denoting the height of the spire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the neck and the spire in this scheme?",
+   "premises": [
+    "The neck height is two and a half parts.",
+    "The spire height is five parts."
+   ],
+   "inference": "The neck takes two and a half parts and the spire takes five parts.",
+   "uncertainties": [],
+   "plain_english": "The height of the neck should be two and a half parts, and the height of the spire five parts."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "referring back to the same element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "compound denoting the measure of the neck",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhadvyaṃśena",
+     "gloss": "by-two-and-half-parts",
+     "grounds": "instrumental indicating the measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-make",
+     "grounds": "instruction to fashion or assign",
+     "morph": "3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "How should the measure of the neck be determined in this design?",
+   "premises": [
+    "The same neck measure is under consideration.",
+    "It should be made with two and a half parts."
+   ],
+   "inference": "The neck measure should be set at two and a half parts.",
+   "uncertainties": [],
+   "plain_english": "One should make that same neck measure two and a half parts."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "jayadaṃ",
+     "gloss": "victory-giving",
+     "grounds": "compound indicating it grants victory",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "building",
+     "grounds": "the temple or dwelling",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyetat",
+     "gloss": "indeed-this",
+     "grounds": "emphatic demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadeva",
+     "gloss": "all-gods",
+     "grounds": "compound referring to all deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "priyāvaham",
+     "gloss": "dear-bringing",
+     "grounds": "compound indicating it brings favor to all gods",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefits are attributed to this prescribed temple design?",
+   "premises": [
+    "This building is described as victory-giving.",
+    "This building is pleasing to all gods."
+   ],
+   "inference": "The prescribed design yields victory and divine favor.",
+   "uncertainties": [],
+   "plain_english": "Indeed this building grants victory and is pleasing to all the gods."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "vasvaṃśapādamānaṃ",
+     "gloss": "eight-parts-base-measure",
+     "grounds": "compound indicating a base measure of eight parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhāgnyaṃśaṃ",
+     "gloss": "three-and-half-parts",
+     "grounds": "compound indicating three and a half parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastaram",
+     "gloss": "entablature",
+     "grounds": "the entablature element",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the base and entablature in this design?",
+   "premises": [
+    "The base measure is eight parts.",
+    "The entablature is three and a half parts."
+   ],
+   "inference": "This design assigns eight parts to the base and three and a half to the entablature.",
+   "uncertainties": [],
+   "plain_english": "The base measure should be eight parts, and the entablature three and a half parts."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "compound indicating one part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedikoccaṃ",
+     "gloss": "platform-height",
+     "grounds": "compound denoting the height of the platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound indicating three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galodayam",
+     "gloss": "neck-height",
+     "grounds": "compound denoting the height of the neck",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the platform and the neck here?",
+   "premises": [
+    "The platform height is one part.",
+    "The neck height is three parts."
+   ],
+   "inference": "The platform takes one part and the neck takes three parts.",
+   "uncertainties": [],
+   "plain_english": "The height of the platform should be one part, and the height of the neck three parts."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "adbhūtaṃ",
+     "gloss": "wondrous",
+     "grounds": "describing the building as marvelous",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "building",
+     "grounds": "the temple or dwelling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "emphatic particle indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayetkalpavittamaḥ",
+     "gloss": "should-design-best-ritual-knower",
+     "grounds": "compound with verb and agent indicating the best expert should design it",
+     "morph": "compound+3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "Who should design the wondrous building according to this prescription?",
+   "premises": [
+    "A wondrous building is to be designed thus.",
+    "The best knower of ritual design should fashion it."
+   ],
+   "inference": "The foremost expert in design should create this wondrous building.",
+   "uncertainties": [],
+   "plain_english": "Thus the best knower of design should fashion this wondrous building."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānoccaṃ",
+     "gloss": "base-height",
+     "grounds": "compound denoting the height of the base",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "compound indicating four parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "staṃbhaṃ",
+     "gloss": "pillar",
+     "grounds": "the pillar element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taddviguṇāyatam",
+     "gloss": "that-twice-extended",
+     "grounds": "compound indicating twice the extent of that",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What heights are prescribed for the base and the pillar in this scheme?",
+   "premises": [
+    "The base height is four parts.",
+    "The pillar is twice as extended as that."
+   ],
+   "inference": "The base is four parts and the pillar is eight parts in height.",
+   "uncertainties": [],
+   "plain_english": "The height of the base should be four parts, and the pillar twice that in extent."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound indicating three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prastarotsedhaṃ",
+     "gloss": "entablature-height",
+     "grounds": "compound denoting the height of the entablature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound indicating two parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedikodayam",
+     "gloss": "platform-height",
+     "grounds": "compound denoting the height of the platform",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the entablature and the platform here?",
+   "premises": [
+    "The entablature height is three parts.",
+    "The platform height is two parts."
+   ],
+   "inference": "The entablature takes three parts and the platform takes two parts.",
+   "uncertainties": [],
+   "plain_english": "The height of the entablature should be three parts, and the height of the platform two parts."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikhodayaṃ",
+     "gloss": "spire-height",
+     "grounds": "compound denoting the height of the spire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "instruction to understand or assign",
+     "morph": "3.sg.optative-active √vid"
+    },
+    {
+     "surface": "vimānaṃ",
+     "gloss": "shrine",
+     "grounds": "the temple structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvakāmikam",
+     "gloss": "all-desires-fulfilling",
+     "grounds": "compound indicating fulfillment of all desires",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the remaining height allocated and what is the nature of this shrine?",
+   "premises": [
+    "The remainder should be known as the spire height.",
+    "The shrine fulfills all desires."
+   ],
+   "inference": "The remaining portion forms the spire of a shrine that fulfills all desires.",
+   "uncertainties": [],
+   "plain_english": "One should know the remainder as the height of the spire; this shrine fulfills all desires."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "catuṣkūṭaṃ",
+     "gloss": "four-peaked",
+     "grounds": "compound indicating four peaks",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catuśśālā",
+     "gloss": "four-halled",
+     "grounds": "compound indicating four halls",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃjarāṣṭakasaṃyutam",
+     "gloss": "eight-cages-endowed",
+     "grounds": "compound indicating joined with eight cages",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What structural components characterize this temple configuration?",
+   "premises": [
+    "The structure has four peaks.",
+    "It has four halls and eight cages."
+   ],
+   "inference": "This configuration consists of four peaks, four halls, and eight cages.",
+   "uncertainties": [],
+   "plain_english": "It has four peaks, four halls, and is endowed with eight cages."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-spire",
+     "grounds": "location on the spire",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound indicating the four directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "mahānāsīsamanvitam",
+     "gloss": "great-noses-endowed",
+     "grounds": "compound indicating provided with great nose elements",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What features are placed on the spire in the four directions?",
+   "premises": [
+    "The spire is considered in the four directions.",
+    "It is endowed with great nose elements."
+   ],
+   "inference": "The spire is furnished with great noses on all four sides.",
+   "uncertainties": [],
+   "plain_english": "On the spire, in the four directions, it is endowed with great nose ornaments."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicating the described manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svastikam",
+     "gloss": "svastika",
+     "grounds": "name of the temple type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "stated or named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadeva",
+     "gloss": "all-gods",
+     "grounds": "compound referring to all deities",
+     "morph": "compound"
+    },
+    {
+     "surface": "priyāvaham",
+     "gloss": "dear-bringing",
+     "grounds": "compound indicating it brings favor to all gods",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What temple type is declared and what benefit does it confer?",
+   "premises": [
+    "The described structure is declared as svastika.",
+    "It is pleasing to all gods."
+   ],
+   "inference": "The svastika temple type is thus declared and brings favor to all gods.",
+   "uncertainties": [],
+   "plain_english": "Thus the svastika temple is declared, bringing favor to all the gods."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "svastibhadramitaṃ",
+     "gloss": "svastibhadra-thus-called",
+     "grounds": "compound giving the name svastibhadra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "renowned or designated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first person possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prītikaraṃ",
+     "gloss": "joy-causing",
+     "grounds": "compound indicating it causes delight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What is the name and effect of this related temple form?",
+   "premises": [
+    "It is known as svastibhadra.",
+    "It should be pleasing to me."
+   ],
+   "inference": "The svastibhadra form is renowned and causes delight.",
+   "uncertainties": [
+    "The referent of 'my' is not explicitly identified in this verse."
+   ],
+   "plain_english": "Known as svastibhadra, it should be pleasing to me."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "natapaṃjarasaṃyuktaṃ",
+     "gloss": "bent-cages-endowed",
+     "grounds": "compound indicating joined with bent cages",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipulasundaram",
+     "gloss": "broad-beautiful",
+     "grounds": "compound describing it as broad and beautiful",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distinguishing features define the vipulasundara temple form?",
+   "premises": [
+    "This form is endowed with bent cages.",
+    "It is described as broad and beautiful."
+   ],
+   "inference": "The vipulasundara form is characterized by bent cages and broad beauty.",
+   "uncertainties": [],
+   "plain_english": "This form, endowed with bent cages, is called vipulasundara, broad and beautiful."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "natapaṃjarasaṃyuktaṃ",
+     "gloss": "bent-cages-endowed",
+     "grounds": "compound indicating joined with bent cages",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatheṣṭākṛti",
+     "gloss": "as-desired-form",
+     "grounds": "compound indicating form according to desire",
+     "morph": "compound"
+    },
+    {
+     "surface": "śīrṣakam",
+     "gloss": "crest",
+     "grounds": "the top or head element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How may the crest be shaped in a structure endowed with bent cages?",
+   "premises": [
+    "The structure is endowed with bent cages.",
+    "The crest may take a form as desired."
+   ],
+   "inference": "A bent-cage structure may have its crest shaped according to preference.",
+   "uncertainties": [],
+   "plain_english": "Endowed with bent cages, its crest may be made in any desired form."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "referring back to the same structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navaśālāḥ",
+     "gloss": "nine-halls",
+     "grounds": "compound indicating nine halls",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.pl.optative-active √as"
+    },
+    {
+     "surface": "kūṭonnatasamaṃcakāḥ",
+     "gloss": "peak-height-equal-level",
+     "grounds": "compound indicating level equal in height to the peaks",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What hall arrangement and height alignment are prescribed for this same structure?",
+   "premises": [
+    "The same structure should have nine halls.",
+    "These halls should be level with the height of the peaks."
+   ],
+   "inference": "This structure is prescribed with nine halls equal in height to the peaks.",
+   "uncertainties": [],
+   "plain_english": "That same structure should have nine halls, level and equal in height to the peaks."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "referring back to the same structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhau",
+     "gloss": "peak-cells",
+     "grounds": "compound denoting two peak cells",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral indicating two",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "nimnonnatavihīnakau",
+     "gloss": "low-high-devoid",
+     "grounds": "compound indicating absence of depression and elevation",
+     "morph": "m.nom.dual"
+    }
+   ],
+   "question": "What condition is prescribed for the two peak cells in this structure?",
+   "premises": [
+    "The same structure has two peak cells.",
+    "These two are devoid of depression and elevation."
+   ],
+   "inference": "The two peak cells must be made without any difference in height.",
+   "uncertainties": [],
+   "plain_english": "That same structure has two peak cells, free from any depression or elevation."
+  }
+ ]
+}

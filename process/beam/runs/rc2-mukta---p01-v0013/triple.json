@@ -1,0 +1,617 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "caha",
+     "gloss": "one",
+     "grounds": "vernacular numeral; indicates singularity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kusa",
+     "gloss": "where",
+     "grounds": "interrogative of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bvaha",
+     "gloss": "two",
+     "grounds": "vernacular numeral; indicates duality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvassa",
+     "gloss": "where",
+     "grounds": "interrogative of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chuha",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdeha",
+     "gloss": "doubt",
+     "grounds": "state of uncertainty or confusion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What real ground remains for doubt concerning one or two locations?",
+   "premises": [
+    "Questions arise about where one is located",
+    "Questions arise about where two are located",
+    "Doubt presupposes distinct places or entities"
+   ],
+   "inference": "If no distinct locations can be established, doubt about one or two has no basis.",
+   "uncertainties": [
+    "Exact vernacular forms and syntax are partly opaque"
+   ],
+   "plain_english": "Where is the one, where are the two? What doubt can there be?"
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "svasya",
+     "gloss": "of-self",
+     "grounds": "refers to one's own being",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aikyaṃ",
+     "gloss": "oneness",
+     "grounds": "state of unity or identity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "addressed agent",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative expressing negation of basis",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āvām",
+     "gloss": "coming-and-going",
+     "grounds": "motion back and forth; transmigration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the content of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty or perplexity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can doubt about coming and going persist after recognizing the self's oneness?",
+   "premises": [
+    "The self's oneness is recognized by you",
+    "Coming and going imply division or movement between states",
+    "Recognition of oneness removes the basis for such division"
+   ],
+   "inference": "Therefore, once the self's oneness is known, doubt about coming and going cannot remain.",
+   "uncertainties": [
+    "āvām is taken as coming-and-going based on context and hint"
+   ],
+   "plain_english": "If you have recognized the oneness of the self, then what doubt can remain about coming and going?"
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "suha",
+     "gloss": "that",
+     "grounds": "vernacular demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suha",
+     "gloss": "that",
+     "grounds": "vernacular demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suha",
+     "gloss": "that",
+     "grounds": "vernacular demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suha",
+     "gloss": "that",
+     "grounds": "vernacular demonstrative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What meaningful distinction can be maintained among repeatedly identified alternatives?",
+   "premises": [
+    "Multiple alternatives are presented in sequence",
+    "Each alternative is indicated as the same",
+    "Repeated identification collapses apparent difference"
+   ],
+   "inference": "All the presented alternatives are ultimately the same.",
+   "uncertainties": [
+    "The referent of suha is not explicitly specified"
+   ],
+   "plain_english": "That or that or that or that—it is all the same."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "saṃsāra+rogeṇa",
+     "gloss": "by-world-disease",
+     "grounds": "compound: saṃsāra (world-cycle) + roga (disease), afflicting condition",
+     "morph": "compound=m.ins.sg"
+    },
+    {
+     "surface": "ākrāntām",
+     "gloss": "afflicted",
+     "grounds": "overcome or seized by",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avalāṃ",
+     "gloss": "weak",
+     "grounds": "lacking strength or protection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "the speaker seeking help",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "cikitsatu",
+     "gloss": "let-heal",
+     "grounds": "request for cure or remedy",
+     "morph": "3.sg.imp-act √cikits"
+    }
+   ],
+   "question": "Who can heal a person afflicted and weakened by the disease of worldly existence?",
+   "premises": [
+    "The speaker is afflicted by the disease of worldly existence",
+    "The speaker is weak and in need of healing",
+    "Healing requires an effective remedy or healer"
+   ],
+   "inference": "The afflicted speaker calls for healing from the disease of worldly existence.",
+   "uncertainties": [
+    "The intended healer is implicit rather than named"
+   ],
+   "plain_english": "Let him heal me, who am weak and afflicted by the disease of worldly existence."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "gaiya",
+     "gloss": "earth",
+     "grounds": "vernacular form for the earthly realm",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūra",
+     "gloss": "earth-realm",
+     "grounds": "first of the three worlds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvaḥ",
+     "gloss": "mid-realm",
+     "grounds": "atmospheric world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svara",
+     "gloss": "heaven-realm",
+     "grounds": "celestial world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mīlitha",
+     "gloss": "merged",
+     "grounds": "dissolved or absorbed together",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "katu",
+     "gloss": "where",
+     "grounds": "vernacular interrogative of place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where have the earth and the three worlds merged upon dissolution?",
+   "premises": [
+    "The earth and the three worlds are named",
+    "These realms are said to have merged",
+    "Merging raises the question of their locus"
+   ],
+   "inference": "The apparent worlds have no separate place once they are merged.",
+   "uncertainties": [
+    "Vernacular forms gaiya, mīlitha, and katu are interpreted contextually"
+   ],
+   "plain_english": "Where have the earth, the realms of earth, atmosphere, and heaven all merged?"
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "pṛthvī+ādi",
+     "gloss": "earth-and-so-on",
+     "grounds": "compound: pṛthvī (earth) + ādi (beginning/et cetera), the elements starting with earth",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "the present manifest world",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "moves or dissolves",
+     "morph": "3.sg.pres-act √gam"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "where",
+     "grounds": "interrogative indicating unknown place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "the entirety of manifestation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Into what location does this entire world beginning with earth ultimately go?",
+   "premises": [
+    "This world consists of earth and the other elements",
+    "The whole manifest totality is considered",
+    "Its going implies a destination or dissolution point"
+   ],
+   "inference": "The entire manifest world has no ascertainable separate destination.",
+   "uncertainties": [],
+   "plain_english": "Where does all this, beginning with earth, go?"
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "akṣara",
+     "gloss": "imperishable",
+     "grounds": "that which does not decay",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi+śīkhara",
+     "gloss": "like-peak",
+     "grounds": "compound: hi (like/as) + śīkhara (peak), simile marker with peak",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "kṣi+śīkhara",
+     "gloss": "perishable-peak",
+     "grounds": "compound: kṣi (perishable/decaying) + śīkhara (peak), peak of the perishable",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "hyatha",
+     "gloss": "like",
+     "grounds": "vernacular comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the imperishable and the perishable related as peaks in appearance?",
+   "premises": [
+    "The imperishable is described with the image of a peak",
+    "The perishable is also described with the image of a peak",
+    "A shared image suggests a relation or contrast"
+   ],
+   "inference": "The imperishable and perishable are presented through a common image that invites discernment of their relation.",
+   "uncertainties": [
+    "The exact syntactic relation among the compounded forms is compressed"
+   ],
+   "plain_english": "The imperishable is like a peak, and the perishable is like a peak."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātam",
+     "gloss": "known",
+     "grounds": "realized or understood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣaraṃ",
+     "gloss": "imperishable",
+     "grounds": "the undecaying reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the imperishable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "the knower",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "then",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative denying basis",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣatiḥ",
+     "gloss": "harm",
+     "grounds": "loss or injury",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What harm can remain once the imperishable reality has been truly known?",
+   "premises": [
+    "The imperishable can be known",
+    "Harm pertains to what is perishable or vulnerable",
+    "Knowledge of the imperishable removes vulnerability at that level"
+   ],
+   "inference": "If the imperishable is known, no real harm remains.",
+   "uncertainties": [],
+   "plain_english": "If you have known that imperishable reality, then what harm can there be?"
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "śūnyasa",
+     "gloss": "in-void",
+     "grounds": "vernacular locative sense; within emptiness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyāha",
+     "gloss": "voidness",
+     "grounds": "state or quality of emptiness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mīlitha",
+     "gloss": "merged",
+     "grounds": "absorbed or dissolved",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gauva",
+     "gloss": "gone",
+     "grounds": "departed or vanished",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remains when voidness itself has merged into the void?",
+   "premises": [
+    "Voidness is distinguished as a state",
+    "That voidness is said to merge into the void",
+    "Merging implies the loss of a separate remainder"
+   ],
+   "inference": "When voidness merges into the void, no separate residue remains.",
+   "uncertainties": [
+    "Vernacular endings in śūnyasa, śūnyāha, and gauva are interpreted from context"
+   ],
+   "plain_english": "Voidness has merged into the void and is gone."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "dṛśyaṃ",
+     "gloss": "seen",
+     "grounds": "object of perception",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "draṣṭā",
+     "gloss": "seer",
+     "grounds": "subject of perception",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyate",
+     "gloss": "remains",
+     "grounds": "is left over",
+     "morph": "3.sg.pres-pass √śiṣ"
+    },
+    {
+     "surface": "cit+svarūpaḥ",
+     "gloss": "consciousness-nature",
+     "grounds": "compound: cit (consciousness) + svarūpa (own-nature), essence as awareness",
+     "morph": "compound=m.nom.sg"
+    }
+   ],
+   "question": "What reality remains when the distinction between seen and seer falls away?",
+   "premises": [
+    "Experience is ordinarily divided into seen and seer",
+    "This verse states what remains after that division",
+    "What remains is identified as consciousness-nature"
+   ],
+   "inference": "Beyond the division of seen and seer, only consciousness-nature remains.",
+   "uncertainties": [],
+   "plain_english": "When the seen and the seer are gone, what remains is consciousness itself."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "jīvanta",
+     "gloss": "living",
+     "grounds": "while alive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mari-tāya",
+     "gloss": "having-died",
+     "grounds": "vernacular expression for the state of being dead",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suya",
+     "gloss": "that",
+     "grounds": "vernacular demonstrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chuya",
+     "gloss": "what",
+     "grounds": "vernacular interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "knowing or realization",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of knowledge is attained by dying while still living?",
+   "premises": [
+    "Living and having died are juxtaposed",
+    "The verse asks about a specific knowledge",
+    "The juxtaposition points to a paradoxical realization"
+   ],
+   "inference": "The verse points to a knowledge realized through dying to the ordinary self while alive.",
+   "uncertainties": [
+    "The vernacular phrase mari-tāya is interpreted as having died"
+   ],
+   "plain_english": "What is that knowledge of one who has died while still living?"
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "mṛtasya",
+     "gloss": "of-dead",
+     "grounds": "one who has died",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "is present",
+     "morph": "3.sg.pres-act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "the event or state of dying",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why can death never again apply to one who has already died in realization?",
+   "premises": [
+    "The subject is described as already dead",
+    "Death is denied for that subject",
+    "The denial is made absolute by not ever"
+   ],
+   "inference": "For one who has truly died, death does not exist at any time.",
+   "uncertainties": [
+    "Whether mṛtasya refers to physical or ego-death is context-dependent"
+   ],
+   "plain_english": "For one who is dead, there is indeed no death ever again."
+  }
+ ]
+}

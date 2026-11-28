@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "vegena",
+     "gloss": "with-speed",
+     "grounds": "instrumental of vega, indicating manner of movement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cetaḥ",
+     "gloss": "mind",
+     "grounds": "object surpassed in wonder or speed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle extending the comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sucitrayantam",
+     "gloss": "making-very-wondrous",
+     "grounds": "present participle describing the surpassing quality of the movement or gait",
+     "morph": "m.acc.sg.pres.part.act (su-√citr)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicitra+muktābha+pada+kramaṃ",
+     "gloss": "wondrous-pearl-like-step-sequence",
+     "grounds": "compound describing a gait or progression with variegated pearl-like radiance",
+     "morph": "m.acc.sg (vicitra+muktābha+pada-krama)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities characterize the swift outward progression beyond ordinary mental grasp?",
+   "premises": [
+    "The progression occurs with great speed.",
+    "It surpasses even the mind in its wondrous quality.",
+    "Its sequence of steps appears like wondrous pearl-like radiance."
+   ],
+   "inference": "The outward movement is extraordinarily swift and dazzling, exceeding ordinary mental comprehension.",
+   "uncertainties": [
+    "Whether pada-kramaṃ refers primarily to a sequence of steps or to a progression of positions is context-dependent."
+   ],
+   "plain_english": "And with speed, making even the mind seem surpassed in wonder, and with a sequence of steps shining like wondrous pearls."
+  }
+ ]
+}

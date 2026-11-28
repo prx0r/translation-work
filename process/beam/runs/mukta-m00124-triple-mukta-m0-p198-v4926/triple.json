@@ -1,0 +1,1061 @@
+{
+ "song": "mukta-m0-p198",
+ "items": [
+  {
+   "verse": 4926,
+   "rows": [
+    {
+     "surface": "niṣkādidaśaniṣkāntā",
+     "gloss": "from-niṣka-to-ten-niṣka",
+     "grounds": "compound range token",
+     "morph": "compound"
+    },
+    {
+     "surface": "gurāvanyeṣu",
+     "gloss": "to-guru-and-others",
+     "grounds": "fused sandhi token",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should offerings from one niṣka to ten niṣkas be distributed among guru and others?",
+   "premises": [
+    "range covers one to ten niṣkas",
+    "distribution follows prior rule",
+    "guru receives first share"
+   ],
+   "inference": "Offerings are apportioned by the stated range with guru priority.",
+   "uncertainties": [
+    "exact niṣka value not specified"
+   ],
+   "plain_english": "Offerings from one to ten niṣkas go to the guru and others as before."
+  },
+  {
+   "verse": 4927,
+   "rows": [
+    {
+     "surface": "kumbhādbījaṃ",
+     "gloss": "taking-seed-from-pot",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vinyasetsvasvadeśake",
+     "gloss": "place-in-own-place",
+     "grounds": "fused sandhi token",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the seed taken from the pot and placed in its own place?",
+   "premises": [
+    "seed comes from pot",
+    "placement is in own place",
+    "action is optional ritual step"
+   ],
+   "inference": "The rite takes seed from the pot and deposits it in its designated place.",
+   "uncertainties": [
+    "exact seed identity not specified"
+   ],
+   "plain_english": "Taking the seed from the pot, one places it in its own place."
+  },
+  {
+   "verse": 4928,
+   "rows": [
+    {
+     "surface": "samaṃ",
+     "gloss": "equal-with-quarter-or-half",
+     "grounds": "adverbial measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapādaṃ",
+     "gloss": "with-quarter",
+     "grounds": "compound measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "compound measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sajagat",
+     "gloss": "with-world",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādukā",
+     "gloss": "pādukā-outside",
+     "grounds": "noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure and placement apply to the pādukā outside the world?",
+   "premises": [
+    "measure may be equal quarter or half",
+    "pādukā is outside",
+    "world is included in measure"
+   ],
+   "inference": "The pādukā is placed outside with an equal, quarter, or half measure.",
+   "uncertainties": [
+    "exact measure choice not fixed"
+   ],
+   "plain_english": "The pādukā is placed outside, measured equally, with a quarter, or with a half."
+  },
+  {
+   "verse": 4929,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "consecration",
+     "grounds": "accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kārayen",
+     "gloss": "cause-to-do",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "releasing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ratnanyāsaṃ",
+     "gloss": "gem-deposit",
+     "grounds": "compound object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "clockwise",
+     "grounds": "adverbial direction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is consecration performed while releasing gem deposit clockwise?",
+   "premises": [
+    "consecration is caused",
+    "gem deposit is released",
+    "movement is clockwise"
+   ],
+   "inference": "Consecration is performed by releasing the gem deposit in clockwise order.",
+   "uncertainties": [
+    "exact gem types not specified"
+   ],
+   "plain_english": "One causes consecration, releasing the gem deposit clockwise."
+  },
+  {
+   "verse": 4930,
+   "rows": [
+    {
+     "surface": "mahāpīṭhapratiṣṭhāyā",
+     "gloss": "of-great-pīṭha-consecration",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "vidhānamadhunocyate",
+     "gloss": "vidhi-now-stated",
+     "grounds": "fused sandhi token",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "What is now stated about the vidhi of great pīṭha consecration?",
+   "premises": [
+    "topic is great pīṭha consecration",
+    "vidhi is now stated",
+    "statement follows prior rite"
+   ],
+   "inference": "The procedure for great pīṭha consecration is now declared.",
+   "uncertainties": [
+    "full vidhi details in following verses"
+   ],
+   "plain_english": "Now the procedure for consecrating the great pīṭha is stated."
+  },
+  {
+   "verse": 4931,
+   "rows": [
+    {
+     "surface": "vedaikasaṃkhyayā",
+     "gloss": "by-veda-number",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "kuṇḍa",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vedāśraṃ",
+     "gloss": "veda-cornered",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "sthaṇḍila-or",
+     "grounds": "alternative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu-vā",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what veda number is the kuṇḍa or veda-cornered sthaṇḍila chosen?",
+   "premises": [
+    "number follows veda count",
+    "kuṇḍa is one option",
+    "sthaṇḍila is alternative"
+   ],
+   "inference": "The kuṇḍa or sthaṇḍila is selected according to veda number.",
+   "uncertainties": [
+    "exact veda count not specified"
+   ],
+   "plain_english": "By veda number one chooses either a kuṇḍa or a veda-cornered sthaṇḍila."
+  },
+  {
+   "verse": 4932,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-sthaṇḍila",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vedikāyāṃ",
+     "gloss": "on-altar",
+     "grounds": "locative noun",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍanyāsaṃ",
+     "gloss": "kuṇḍa-deposit",
+     "grounds": "compound object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause-to-do",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the kuṇḍa deposit caused to be made?",
+   "premises": [
+    "location is sthaṇḍila",
+    "location is altar",
+    "kuṇḍa deposit is caused"
+   ],
+   "inference": "The kuṇḍa deposit is caused on the sthaṇḍila or altar.",
+   "uncertainties": [
+    "whether both locations apply"
+   ],
+   "plain_english": "On the sthaṇḍila or altar, one causes the kuṇḍa deposit."
+  },
+  {
+   "verse": 4933,
+   "rows": [
+    {
+     "surface": "avighnaṃ",
+     "gloss": "without-obstacle",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāmodaṃ",
+     "gloss": "thus-fragrance",
+     "grounds": "fused sandhi token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramodaṃ",
+     "gloss": "joy",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pramukhaṃ",
+     "gloss": "chief",
+     "grounds": "adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities are invoked without obstacle in this rite?",
+   "premises": [
+    "avighna means without obstacle",
+    "fragrance and joy are named",
+    "chief quality is included"
+   ],
+   "inference": "The rite invokes fragrance, joy, and chief quality without obstacle.",
+   "uncertainties": [
+    "exact ritual application not specified"
+   ],
+   "plain_english": "Without obstacle, thus fragrance, joy, and the chief quality are invoked."
+  },
+  {
+   "verse": 4934,
+   "rows": [
+    {
+     "surface": "avighnaṃ",
+     "gloss": "without-obstacle",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidrumaprakhyam",
+     "gloss": "coral-like",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āmodaṃ",
+     "gloss": "āmoda",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śyāmavarṇakam",
+     "gloss": "dark-colored",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize the āmoda without obstacle?",
+   "premises": [
+    "āmoda is named",
+    "form is coral-like",
+    "color is dark"
+   ],
+   "inference": "The āmoda is coral-like and dark-colored, invoked without obstacle.",
+   "uncertainties": [
+    "exact deity association not specified"
+   ],
+   "plain_english": "Without obstacle, the āmoda is coral-like and dark-colored."
+  },
+  {
+   "verse": 4935,
+   "rows": [
+    {
+     "surface": "durmukhaṃ",
+     "gloss": "durmukha",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuṅkumābhaṃ",
+     "gloss": "kuṅkuma-colored",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvaivaṃ",
+     "gloss": "having-meditated-thus",
+     "grounds": "fused sandhi token",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative agent",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who worships durmukha and kuṅkuma-colored forms after meditation?",
+   "premises": [
+    "guru is agent",
+    "meditation precedes worship",
+    "durmukha and kuṅkuma-colored form are worshipped"
+   ],
+   "inference": "The guru worships these forms after meditating thus.",
+   "uncertainties": [
+    "exact meditation content not specified"
+   ],
+   "plain_english": "Having meditated thus, the guru worships durmukha and the kuṅkuma-colored form."
+  },
+  {
+   "verse": 4936,
+   "rows": [
+    {
+     "surface": "jaṅghāgalakapadmāntam",
+     "gloss": "from-thigh-to-lotus-end",
+     "grounds": "compound range",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ātmatattvādikaṃ",
+     "gloss": "ātmatattva-etc",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "deposit",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What is deposited from thigh to lotus end?",
+   "premises": [
+    "range runs thigh to lotus end",
+    "ātmatattva and following are named",
+    "deposit action is prescribed"
+   ],
+   "inference": "The ātmatattva and related principles are deposited along that range.",
+   "uncertainties": [
+    "exact list of tattvas not specified"
+   ],
+   "plain_english": "From thigh to lotus end, one deposits ātmatattva and the rest."
+  },
+  {
+   "verse": 4937,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "offer",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "palāśodumbarau",
+     "gloss": "palāśa-udumbara-aśvattha",
+     "grounds": "compound",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "vaṭam",
+     "gloss": "vaṭam",
+     "grounds": "noun",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "In what order does the wise one offer palāśa, udumbara, aśvattha, and vaṭa?",
+   "premises": [
+    "wise one is agent",
+    "offering is in order",
+    "named woods are offered"
+   ],
+   "inference": "The wise one offers the named sacred woods in order.",
+   "uncertainties": [
+    "exact sequence beyond listed order"
+   ],
+   "plain_english": "The wise one offers palāśa, udumbara, aśvattha, and vaṭa in order."
+  },
+  {
+   "verse": 4938,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pīṭha",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kumbhāṃśca",
+     "gloss": "pots",
+     "grounds": "fused sandhi token",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāte",
+     "gloss": "at-dawn",
+     "grounds": "locative time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pāvakaṃ",
+     "gloss": "fire",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is worshipped at dawn along with pots and fire?",
+   "premises": [
+    "pīṭha is worshipped",
+    "pots are included",
+    "fire is included at dawn"
+   ],
+   "inference": "At dawn one worships the pīṭha, pots, and fire.",
+   "uncertainties": [
+    "exact dawn rite sequence"
+   ],
+   "plain_english": "Having worshipped the pīṭha and pots, one also tends the fire at dawn."
+  },
+  {
+   "verse": 4939,
+   "rows": [
+    {
+     "surface": "avighnaṃ",
+     "gloss": "without-obstacle",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇikāmadhye",
+     "gloss": "in-karṇikā-middle",
+     "grounds": "compound locative",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "deposit",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kumbhamadhyagam",
+     "gloss": "pot-middle",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Where is the pot-middle deposited without obstacle?",
+   "premises": [
+    "deposit occurs in karṇikā middle",
+    "object is pot-middle",
+    "action is without obstacle"
+   ],
+   "inference": "The pot-middle is deposited in the middle of the karṇikā without obstacle.",
+   "uncertainties": [
+    "exact pot identity"
+   ],
+   "plain_english": "Without obstacle, one deposits the pot-middle in the karṇikā's middle."
+  },
+  {
+   "verse": 4940,
+   "rows": [
+    {
+     "surface": "tattatkumbhodakenaiva",
+     "gloss": "by-that-pot-water",
+     "grounds": "fused sandhi token",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "bathe",
+     "grounds": "causative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pīṭha",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "respectfully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the pīṭha bathed with pot water?",
+   "premises": [
+    "water comes from that pot",
+    "pīṭha is bathed",
+    "action is respectful"
+   ],
+   "inference": "The pīṭha is respectfully bathed with water from that pot.",
+   "uncertainties": [
+    "exact pot selection"
+   ],
+   "plain_english": "Respectfully, one bathes the pīṭha with water from that pot."
+  },
+  {
+   "verse": 4941,
+   "rows": [
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamakumbhasya",
+     "gloss": "of-middle-pot",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nīlalohitam",
+     "gloss": "blue-red",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What color is placed in the middle of the middle pot?",
+   "premises": [
+    "middle pot is referenced",
+    "middle location is specified",
+    "color is blue-red"
+   ],
+   "inference": "The middle of the middle pot receives a blue-red item.",
+   "uncertainties": [
+    "exact item not specified"
+   ],
+   "plain_english": "But in the middle of the middle pot, the blue-red item is placed."
+  },
+  {
+   "verse": 4942,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣetrapālaṃ",
+     "gloss": "kṣetrapāla",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "some",
+     "gloss": "in-soma",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "viśvagaṇān",
+     "gloss": "viśvagaṇas",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "nyaset",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where are kṣetrapāla and viśvagaṇas deposited?",
+   "premises": [
+    "kṣetrapāla goes west",
+    "viśvagaṇas go soma direction",
+    "deposit action is prescribed"
+   ],
+   "inference": "Kṣetrapāla is deposited in the west and viśvagaṇas in the soma direction.",
+   "uncertainties": [
+    "exact soma direction"
+   ],
+   "plain_english": "One deposits kṣetrapāla in the west and viśvagaṇas in the soma direction."
+  },
+  {
+   "verse": 4943,
+   "rows": [
+    {
+     "surface": "gaṇān",
+     "gloss": "gaṇas",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "paścimadigbhāge",
+     "gloss": "in-west-direction",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yakṣān",
+     "gloss": "yakṣas",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "uttaradiggate",
+     "gloss": "in-north-direction",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where are gaṇas and yakṣas deposited?",
+   "premises": [
+    "gaṇas go west direction",
+    "yakṣas go north direction",
+    "deposit is implied"
+   ],
+   "inference": "Gaṇas are placed in the west and yakṣas in the north.",
+   "uncertainties": [
+    "exact gaṇa identity"
+   ],
+   "plain_english": "Gaṇas are placed in the west direction and yakṣas in the north direction."
+  },
+  {
+   "verse": 4944,
+   "rows": [
+    {
+     "surface": "rākṣasān",
+     "gloss": "rākṣasas",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "pitṛdeśe",
+     "gloss": "in-pitṛ-region",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "in-vāyu",
+     "grounds": "locative direction",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nāgagaṇān",
+     "gloss": "nāga-gaṇas",
+     "grounds": "compound accusative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "nyaset",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where are rākṣasas and nāga gaṇas deposited?",
+   "premises": [
+    "rākṣasas go pitṛ region",
+    "nāga gaṇas go vāyu direction",
+    "deposit action is prescribed"
+   ],
+   "inference": "Rākṣasas are deposited in the pitṛ region and nāga gaṇas in the vāyu direction.",
+   "uncertainties": [
+    "exact directional mapping"
+   ],
+   "plain_english": "One deposits rākṣasas in the pitṛ region and nāga gaṇas in the vāyu direction."
+  },
+  {
+   "verse": 4945,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "gandhapuṣpādyair",
+     "gloss": "with-sandal-flowers-etc",
+     "grounds": "compound instrumental",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "naivedyāntaṃ",
+     "gloss": "up-to-naivedya",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative agent",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the teacher worship up to naivedya?",
+   "premises": [
+    "teacher is agent",
+    "worship uses sandal flowers etc",
+    "endpoint is naivedya"
+   ],
+   "inference": "The teacher worships with sandal, flowers, and so on up to naivedya.",
+   "uncertainties": [
+    "exact offerings list"
+   ],
+   "plain_english": "The teacher worships with sandal, flowers, and so on up to naivedya."
+  },
+  {
+   "verse": 4946,
+   "rows": [
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-karṇikā",
+     "grounds": "locative noun",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "deposit",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pañcagaṇān",
+     "gloss": "five-gaṇas",
+     "grounds": "compound accusative",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daleṣu",
+     "gloss": "in-petals",
+     "grounds": "locative plural",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are five gaṇas and eight items deposited?",
+   "premises": [
+    "five gaṇas go in karṇikā",
+    "eight items go in petals",
+    "deposit action is prescribed"
+   ],
+   "inference": "Five gaṇas are deposited in the karṇikā and eight in the petals.",
+   "uncertainties": [
+    "exact eight items"
+   ],
+   "plain_english": "One deposits five gaṇas in the karṇikā and eight in the petals."
+  },
+  {
+   "verse": 4947,
+   "rows": [
+    {
+     "surface": "mantranyāsaviśeṣo",
+     "gloss": "mantra-deposit-special",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "ayaṃ",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "piśācabalipīṭhake",
+     "gloss": "piśāca-bali-pīṭhake",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What special mantra deposit applies to the piśāca bali pīṭha?",
+   "premises": [
+    "special mantra deposit is named",
+    "location is piśāca bali pīṭha",
+    "statement is declarative"
+   ],
+   "inference": "This special mantra deposit pertains to the piśāca bali pīṭha.",
+   "uncertainties": [
+    "exact mantra details"
+   ],
+   "plain_english": "This special mantra deposit is for the piśāca bali pīṭha."
+  },
+  {
+   "verse": 4948,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavayukra",
+     "gloss": "praṇava-yukta",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vasvavarṇo",
+     "gloss": "vasu-varṇa",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "viṣṇusamanvitaḥ",
+     "gloss": "viṣṇu-accompanied",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What first mantra element is praṇava-yukta and viṣṇu-accompanied?",
+   "premises": [
+    "first position is stated",
+    "praṇava-yukta quality is named",
+    "viṣṇu accompaniment is named"
+   ],
+   "inference": "The first element is a vasu-varṇa mantra joined with praṇava and accompanied by Viṣṇu.",
+   "uncertainties": [
+    "exact syllable sequence"
+   ],
+   "plain_english": "First comes a vasu-varṇa mantra joined with praṇava and accompanied by Viṣṇu."
+  },
+  {
+   "verse": 4949,
+   "rows": [
+    {
+     "surface": "namaskārādisaṃyuktaḥ",
+     "gloss": "namaskāra-etc-accompanied",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parivārārcane",
+     "gloss": "parivāra-worship",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What mantra is accompanied by namaskāra and used in parivāra worship?",
+   "premises": [
+    "mantra is named",
+    "namaskāra accompaniment is stated",
+    "use is parivāra worship"
+   ],
+   "inference": "The mantra accompanied by namaskāra is used in parivāra worship.",
+   "uncertainties": [
+    "exact mantra text"
+   ],
+   "plain_english": "The mantra accompanied by namaskāra is used in parivāra worship."
+  }
+ ]
+}

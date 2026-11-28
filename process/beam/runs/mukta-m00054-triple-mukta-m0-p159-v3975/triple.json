@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "nir+ālambo",
+     "gloss": "without-support",
+     "grounds": "nir + ālambo, lacking support",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "gagana+go",
+     "gloss": "sky-going",
+     "grounds": "gagana + go, moving through sky",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dharma+karma+prabhāva+kṛt",
+     "gloss": "effecting-power-of-dharma-and-karma",
+     "grounds": "dharma + karma + prabhāva + kṛt, agent effecting their power",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What qualities characterize the sky-going deity who effects the power of dharma and karma?",
+   "premises": [
+    "The deity lacks support.",
+    "The deity moves through sky.",
+    "The deity effects dharma and karma power."
+   ],
+   "inference": "Thus the deity is supportless, sky-going, and power-effecting.",
+   "uncertainties": [
+    "Case and gender inferred from surrounding verse context."
+   ],
+   "plain_english": "Supportless, sky-going, effecting the power of dharma and karma."
+  }
+ ]
+}

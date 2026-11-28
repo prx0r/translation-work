@@ -1,0 +1,599 @@
+{
+ "song": "kjn-p01",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "candra+dvīpa+vinirgate",
+     "gloss": "emerged-from-candra-dvīpa",
+     "grounds": "compound of candra, dvīpa, vinirgata",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter emerges from candra-dvīpa in this sequence?",
+   "premises": [
+    "candra-dvīpa is named",
+    "second chapter is named",
+    "emergence is stated"
+   ],
+   "inference": "The second chapter is the one emerging from candra-dvīpa.",
+   "uncertainties": [
+    "exact referent of candra-dvīpa"
+   ],
+   "plain_english": "The second chapter emerges from candra-dvīpa."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "first-person pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prasādī+bhava",
+     "gloss": "be-gracious",
+     "grounds": "compound verb form",
+     "morph": "2.sg.imp.√bhū"
+    },
+    {
+     "surface": "śaṅkaraḥ",
+     "gloss": "o-śaṅkara",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What doubt does the speaker ask Śaṅkara to resolve?",
+   "premises": [
+    "a doubt is stated",
+    "grace is requested",
+    "Śaṅkara is addressed"
+   ],
+   "inference": "The speaker asks Śaṅkara to graciously resolve the stated doubt.",
+   "uncertainties": [
+    "specific content of doubt"
+   ],
+   "plain_english": "This is my doubt, O Lord; be gracious, O Śaṅkara."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭiḥ",
+     "gloss": "sight",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūta+indriya+m+apudgalaḥ",
+     "gloss": "elements-senses-and-individual",
+     "grounds": "compound with sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where do sight, mind, elements, senses, and individual coincide?",
+   "premises": [
+    "sight and mind are named",
+    "elements senses and individual are named",
+    "correlation is stated"
+   ],
+   "inference": "Where sight and mind are, there also are elements, senses, and individual.",
+   "uncertainties": [
+    "ontological scope"
+   ],
+   "plain_english": "Where sight and mind are, there are elements, senses, and individual."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "mark",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "tetrad",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fourfold set is named as place, meditation, color, and mark?",
+   "premises": [
+    "place is named",
+    "meditation is named",
+    "color and mark are named",
+    "tetrad is named"
+   ],
+   "inference": "The tetrad consists of place, meditation, color, and mark.",
+   "uncertainties": [
+    "exact ritual referent"
+   ],
+   "plain_english": "Place, meditation, color, and mark indeed form the tetrad."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "varṇa+rūpaṃ",
+     "gloss": "having-color-form",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinirdiṣṭaṃ",
+     "gloss": "designated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "mark",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpa+varjitam",
+     "gloss": "devoid-of-form",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How do color-form and mark differ in form-status?",
+   "premises": [
+    "color-form is designated",
+    "mark is named",
+    "mark is devoid of form"
+   ],
+   "inference": "The designated color-form has form, while the mark is devoid of form.",
+   "uncertainties": [
+    "exact distinction intended"
+   ],
+   "plain_english": "Color-form is designated, while the mark is indeed devoid of form."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ekaikasya",
+     "gloss": "of-each-one",
+     "grounds": "distributive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is situated in each place in a fourfold manner?",
+   "premises": [
+    "place is repeated",
+    "situated is stated",
+    "each one is named",
+    "fourfold is stated"
+   ],
+   "inference": "For each one, a fourfold arrangement is situated in place.",
+   "uncertainties": [
+    "what each one refers to"
+   ],
+   "plain_english": "In each place, O goddess, each one is situated fourfold."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "pañca+āraṃ",
+     "gloss": "five-spoked",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśa+āram",
+     "gloss": "sixteen-spoked",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥ+ṣaṣṭi+dala+m",
+     "gloss": "sixty-four-petaled",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What wheel-spoke and petal counts are named for the beloved?",
+   "premises": [
+    "five-spoked is named",
+    "sixteen-spoked is named",
+    "sixty-four-petaled is named",
+    "beloved is addressed"
+   ],
+   "inference": "The named forms include five-spoked, sixteen-spoked, and sixty-four-petaled wheels.",
+   "uncertainties": [
+    "exact wheel identities"
+   ],
+   "plain_english": "Five-spoked, sixteen-spoked, and sixty-four-petaled, O beloved."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "koṭi+patraṃ",
+     "gloss": "million-petaled",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "su+teja+āḍhyaṃ",
+     "gloss": "endowed-with-great-splendor",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya+ūrdhe",
+     "gloss": "above-that",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative verb",
+     "morph": "2.sg.imp.√śru"
+    }
+   ],
+   "question": "What lies above the million-petaled splendor-laden form?",
+   "premises": [
+    "million-petaled is named",
+    "great splendor is named",
+    "above-that is named",
+    "listen is commanded"
+   ],
+   "inference": "Above that million-petaled splendor-laden form, something else is to be heard.",
+   "uncertainties": [
+    "what lies above"
+   ],
+   "plain_english": "Million-petaled and endowed with great splendor; above that, listen otherwise."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "karṇikā+keśaraiḥ+yuktaṃ",
+     "gloss": "endowed-with-pericarp-and-filaments",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīpyamānaṃ",
+     "gloss": "shining",
+     "grounds": "present participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shining form is endowed with pericarp and filaments?",
+   "premises": [
+    "pericarp and filaments are named",
+    "shining is stated",
+    "likewise is stated"
+   ],
+   "inference": "A shining form endowed with pericarp and filaments is likewise present.",
+   "uncertainties": [
+    "exact form identity"
+   ],
+   "plain_english": "Endowed with pericarp and filaments, shining, likewise and."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "svātantram",
+     "gloss": "autonomous",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abjam",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "acalaṃ",
+     "gloss": "immovable",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+vyāpī",
+     "gloss": "all-pervading",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirañjanam",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize the autonomous lotus?",
+   "premises": [
+    "autonomous is stated",
+    "lotus is named",
+    "immovable is stated",
+    "all-pervading is stated",
+    "stainless is stated"
+   ],
+   "inference": "The autonomous lotus is immovable, all-pervading, and stainless.",
+   "uncertainties": [
+    "exact metaphysical referent"
+   ],
+   "plain_english": "The autonomous lotus is immovable, all-pervading, and stainless."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "celebrated",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "līnaṃ",
+     "gloss": "dissolved",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cara+acaram",
+     "gloss": "moving-and-unmoving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the celebrated liṅga said to dissolve moving and unmoving?",
+   "premises": [
+    "liṅga is celebrated",
+    "where is stated",
+    "dissolved is stated",
+    "moving and unmoving are named"
+   ],
+   "inference": "The celebrated liṅga is where moving and unmoving are dissolved.",
+   "uncertainties": [
+    "exact locus"
+   ],
+   "plain_english": "By that, the celebrated liṅga is where moving and unmoving are dissolved."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandham",
+     "gloss": "bondage",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhaiḥ",
+     "gloss": "from-bonds",
+     "grounds": "ablative noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "one-is-released",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres.√muc"
+    }
+   ],
+   "question": "How does knowing or not knowing affect bondage and release?",
+   "premises": [
+    "without knowing bondage is declared",
+    "having known release from bonds occurs"
+   ],
+   "inference": "Not knowing declares bondage, while knowing releases from bonds.",
+   "uncertainties": [
+    "exact epistemic object"
+   ],
+   "plain_english": "Without knowing, bondage is declared; having known, one is released from bonds."
+  }
+ ]
+}

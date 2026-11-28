@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "yathotpannaṃ",
+     "gloss": "as-produced",
+     "grounds": "adverbial participle from utpanna",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyācca",
+     "gloss": "give-and",
+     "grounds": "optative of dā with enclitic ca",
+     "morph": "v.3.sg.act-opt + root dā"
+    },
+    {
+     "surface": "patrakam",
+     "gloss": "leaf",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which items must be offered in the yantra after they are produced?",
+   "premises": [
+    "Fruit and flower are produced.",
+    "Leaf is given likewise.",
+    "Offering occurs in yantra."
+   ],
+   "inference": "The rite requires offering produced fruit, flower, and leaf.",
+   "uncertainties": [
+    "Exact ritual sequence beyond verse not specified."
+   ],
+   "plain_english": "Offer the fruit and flower as produced, and likewise give a leaf."
+  }
+ ]
+}

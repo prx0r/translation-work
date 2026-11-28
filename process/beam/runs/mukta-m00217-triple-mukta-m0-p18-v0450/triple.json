@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "yāsāṃ",
+     "gloss": "of-which",
+     "grounds": "relative pronoun referring to previously mentioned feminine plural entities",
+     "morph": "pron.gen.pl.f"
+    },
+    {
+     "surface": "vijñānamātreṇa",
+     "gloss": "by-mere-knowledge",
+     "grounds": "instrumental of means; compound vijñāna-mātra",
+     "morph": "compound: vijñāna+ mātra; n.ins.sg"
+    },
+    {
+     "surface": "palāyante",
+     "gloss": "they-flee",
+     "grounds": "verb expressing the effect of that knowledge",
+     "morph": "3.pl.pres.mid (√palāy)"
+    },
+    {
+     "surface": "mahāpadaḥ",
+     "gloss": "great-dangers",
+     "grounds": "subject undergoing flight; compound mahā-pada",
+     "morph": "compound: mahā+ pada; m.nom.pl"
+    }
+   ],
+   "question": "What effect does mere discriminative knowledge have upon great dangers?",
+   "premises": [
+    "Discriminative knowledge is the means indicated in the preceding context.",
+    "Mere knowledge alone can act as an effective cause.",
+    "Great dangers are subject to removal by this knowledge."
+   ],
+   "inference": "Therefore, by the mere knowledge of that discrimination, great dangers flee.",
+   "uncertainties": [
+    "The feminine plural antecedent of yāsāṃ is not explicitly named in this verse and depends on prior context."
+   ],
+   "plain_english": "By the mere knowledge of which, great dangers flee away."
+  }
+ ]
+}

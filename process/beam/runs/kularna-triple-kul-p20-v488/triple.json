@@ -1,0 +1,451 @@
+{
+ "song": "kul-p20",
+ "items": [
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "tritāramūlamantrānte",
+     "gloss": "at-end-of-triple-tāra-root-mantra",
+     "grounds": "compound phrase indicating terminal position after the triple-tāra root mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛbhairavaśabdataḥ",
+     "gloss": "from-mātṛ-bhairava-word",
+     "grounds": "ablative sense from the word mātṛ-bhairava",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does the mātṛ-bhairava word occur in this sequence?",
+   "premises": [
+    "triple-tāra root mantra precedes",
+    "mātṛ-bhairava word follows"
+   ],
+   "inference": "The mātṛ-bhairava word marks the next point after the triple-tāra root mantra.",
+   "uncertainties": [
+    "exact ritual placement not specified"
+   ],
+   "plain_english": "After the triple-tāra root mantra, from the mātṛ-bhairava word."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "mātṛnyāsa",
+     "gloss": "mātṛ-nyāsa",
+     "grounds": "compound naming the mātṛ placement rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-maheśānī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kuryādevaṃ",
+     "gloss": "should-do-thus",
+     "grounds": "fused form carrying kuryāt and evaṃ sense",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "participial adjective describing the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the mātṛ-nyāsa be performed?",
+   "premises": [
+    "mātṛ-nyāsa is named",
+    "maheśānī is addressed",
+    "practitioner should be concentrated"
+   ],
+   "inference": "The concentrated practitioner should perform the mātṛ-nyāsa thus.",
+   "uncertainties": [
+    "fused token kuryādevaṃ retains both action and manner"
+   ],
+   "plain_english": "O Maheśānī, the concentrated one should perform the mātṛ-nyāsa thus."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "amṛtārṇavamadhyodyanmaṇidvīpe",
+     "gloss": "in-jewel-island-rising-in-middle-of-nectar-ocean",
+     "grounds": "long compound locating the island in the nectar ocean",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suśobhite",
+     "gloss": "beautifully-adorned",
+     "grounds": "adjective qualifying the island",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the beautifully adorned jewel island?",
+   "premises": [
+    "island rises in middle of nectar ocean",
+    "island is beautifully adorned"
+   ],
+   "inference": "The beautifully adorned jewel island lies in the middle of the nectar ocean.",
+   "uncertainties": [
+    "exact island name not given"
+   ],
+   "plain_english": "In the beautifully adorned jewel island rising in the middle of the nectar ocean."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "navaratnamaya",
+     "gloss": "made-of-nine-gems",
+     "grounds": "compound describing material composition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmatsiṃhāsanagatembuje",
+     "gloss": "in-lotus-on-glorious-throne",
+     "grounds": "compound locating the lotus on the glorious throne",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the nine-gem lotus situated?",
+   "premises": [
+    "lotus is made of nine gems",
+    "lotus is on glorious throne"
+   ],
+   "inference": "The nine-gem lotus is situated on the glorious throne.",
+   "uncertainties": [
+    "throne's larger setting not specified"
+   ],
+   "plain_english": "The nine-gem lotus on the glorious throne."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "arddhāmbikāsamāyuktaṃ",
+     "gloss": "joined-with-half-ambikā",
+     "grounds": "compound describing union with half Ambikā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pravibhaktavibhūṣaṇam",
+     "gloss": "with-distinct-ornaments",
+     "grounds": "compound describing ornament distribution",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the deity adorned and joined?",
+   "premises": [
+    "deity is joined with half Ambikā",
+    "ornaments are distinctly arranged"
+   ],
+   "inference": "The deity is joined with half Ambikā and adorned with distinct ornaments.",
+   "uncertainties": [
+    "exact deity identity inferred from context"
+   ],
+   "plain_english": "Joined with half Ambikā and adorned with distinct ornaments."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "mandasmitamukhāmbhojaṃ",
+     "gloss": "lotus-face-with-gentle-smile",
+     "grounds": "compound describing the face as a lotus with gentle smile",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trinetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "adjective describing the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "candraśekharam",
+     "gloss": "moon-crested",
+     "grounds": "compound describing crest with moon",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What are the deity's facial and cranial features?",
+   "premises": [
+    "face is lotus with gentle smile",
+    "deity is three-eyed",
+    "deity is moon-crested"
+   ],
+   "inference": "The deity has a gently smiling lotus face, three eyes, and a moon crest.",
+   "uncertainties": [
+    "gender not explicit in these tokens"
+   ],
+   "plain_english": "A gently smiling lotus face, three eyes, and a moon crest."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "pānapātrañca",
+     "gloss": "and-drinking-vessel",
+     "grounds": "compound with ca indicating addition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cinmudāṃ",
+     "gloss": "of-consciousness-bliss",
+     "grounds": "genitive compound modifying the vessel",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative object held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "accusative object held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrumental plural indicating hands",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What objects are held in the hands?",
+   "premises": [
+    "drinking vessel of consciousness-bliss is held",
+    "trident is held",
+    "book is held",
+    "hands are the instrument"
+   ],
+   "inference": "The hands hold a drinking vessel of consciousness-bliss, a trident, and a book.",
+   "uncertainties": [
+    "number of hands not specified"
+   ],
+   "plain_english": "With the hands: a drinking vessel of consciousness-bliss, a trident, and a book."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "mahāṣoḍhoditāśeṣadevatāgaṇasevitam",
+     "gloss": "served-by-all-deity-groups-arisen-from-great-ṣoḍhā",
+     "grounds": "long compound describing service by all deity groups from the great ṣoḍhā",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By whom is the deity served?",
+   "premises": [
+    "great ṣoḍhā gives rise to all deity groups",
+    "deity is served by those groups"
+   ],
+   "inference": "The deity is served by all deity groups arisen from the great ṣoḍhā.",
+   "uncertainties": [
+    "exact meaning of ṣoḍhā depends on ritual context"
+   ],
+   "plain_english": "Served by all deity groups arisen from the great ṣoḍhā."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "puṃrūpaṃ",
+     "gloss": "male-form",
+     "grounds": "compound describing male form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smareddevi",
+     "gloss": "should-remember-O-devī",
+     "grounds": "fused form carrying smaret and devi address",
+     "morph": "3.sg.act.opt.+voc"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-devī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "strīrūpaṃ",
+     "gloss": "female-form",
+     "grounds": "compound describing female form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "optative verb of contemplation",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Which form should be remembered or contemplated?",
+   "premises": [
+    "male form may be remembered",
+    "female form may be contemplated",
+    "devī is addressed"
+   ],
+   "inference": "One should remember the male form or contemplate the female form.",
+   "uncertainties": [
+    "fused token smareddevi carries both verb and address"
+   ],
+   "plain_english": "O Devī, one should remember the male form or contemplate the female form."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "savatejomayaṃ",
+     "gloss": "full-of-radiance",
+     "grounds": "compound describing radiance-filled form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-devī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sacarācaravigraham",
+     "gloss": "having-moving-and-unmoving-form",
+     "grounds": "compound describing form encompassing moving and unmoving beings",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of form is contemplated?",
+   "premises": [
+    "form is full of radiance",
+    "form includes moving and unmoving beings"
+   ],
+   "inference": "The contemplated form is radiant and includes moving and unmoving beings.",
+   "uncertainties": [
+    "exact referent of the form"
+   ],
+   "plain_english": "O Devī, the radiant form having moving and unmoving beings."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "noun naming the yoni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "liṅgañca",
+     "gloss": "and-liṅga",
+     "grounds": "fused form carrying liṅgaṃ and ca",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surabhi",
+     "gloss": "surabhi",
+     "grounds": "noun naming surabhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hetimudrācatuṣṭayam",
+     "gloss": "four-heti-mudrās",
+     "grounds": "compound naming the four heti mudrās",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fourfold set is named here?",
+   "premises": [
+    "yoni is named",
+    "liṅga is named",
+    "surabhi is named",
+    "four heti mudrās are named"
+   ],
+   "inference": "The set includes yoni, liṅga, surabhi, and the four heti mudrās.",
+   "uncertainties": [
+    "fused token liṅgañca carries both noun and conjunction"
+   ],
+   "plain_english": "Yoni, liṅga, surabhi, and the four heti mudrās."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "mūdhnī",
+     "gloss": "on-the-head",
+     "grounds": "locative sense indicating placement on the head",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sañcintayeddevi",
+     "gloss": "should-contemplate-O-devī",
+     "grounds": "fused form carrying sañcintayet and devi address",
+     "morph": "3.sg.act.opt.+voc"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-devī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śrīguruṃ",
+     "gloss": "glorious-guru",
+     "grounds": "compound honoring the guru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivarūpiṇam",
+     "gloss": "having-Śiva-form",
+     "grounds": "compound describing the guru as Śiva-formed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom should one contemplate on the head?",
+   "premises": [
+    "contemplation occurs on the head",
+    "guru is glorious",
+    "guru has Śiva form"
+   ],
+   "inference": "One should contemplate the glorious guru, who has Śiva form, on the head.",
+   "uncertainties": [
+    "fused token sañcintayeddevi carries both verb and address"
+   ],
+   "plain_english": "O Devī, contemplate the glorious guru, who has Śiva form, on the head."
+  }
+ ]
+}

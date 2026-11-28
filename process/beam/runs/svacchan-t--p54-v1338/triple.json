@@ -1,0 +1,570 @@
+{
+ "song": "sva-p54",
+ "items": [
+  {
+   "verse": 1338,
+   "rows": [
+    {
+     "surface": "trayodaśaḥ",
+     "gloss": "thirteenth",
+     "grounds": "thirteenth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "section",
+     "grounds": "section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is named in this line?",
+   "premises": [
+    "The line names a thirteenth chapter.",
+    "The same noun repeats three times."
+   ],
+   "inference": "The verse identifies a thirteenth chapter or section.",
+   "uncertainties": [
+    "Repeated paṭalaḥ may be editorial duplication."
+   ],
+   "plain_english": "Thirteenth chapter, section, chapter."
+  },
+  {
+   "verse": 1339,
+   "rows": [
+    {
+     "surface": "darśanīyā",
+     "gloss": "visible",
+     "grounds": "visible",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "darśanīyā",
+     "gloss": "beautiful",
+     "grounds": "beautiful",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "darśanīyā",
+     "gloss": "lovely",
+     "grounds": "lovely",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "darśanīyā",
+     "gloss": "fair",
+     "grounds": "fair",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities are attributed here?",
+   "premises": [
+    "Four identical forms carry four glosses.",
+    "Each form is feminine nominative singular."
+   ],
+   "inference": "The verse lists visible, beautiful, lovely, and fair qualities.",
+   "uncertainties": [
+    "The four glosses may be variant renderings of one adjective."
+   ],
+   "plain_english": "Visible, beautiful, lovely, fair."
+  },
+  {
+   "verse": 1340,
+   "rows": [
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "sword",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "seal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nibodha",
+     "gloss": "know",
+     "grounds": "know",
+     "morph": "2.sg.act-imp+root budh"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "me",
+     "morph": "1.sg.dat"
+    }
+   ],
+   "question": "What should be known about the sword seal?",
+   "premises": [
+    "A sword and seal are named.",
+    "The imperative asks the listener to know.",
+    "The pronoun is first person singular."
+   ],
+   "inference": "The speaker asks the listener to know the sword seal.",
+   "uncertainties": [
+    "The exact ritual sense of khaḍga mudrā is not specified."
+   ],
+   "plain_english": "Know the sword seal from me."
+  },
+  {
+   "verse": 1341,
+   "rows": [
+    {
+     "surface": "pāśaḥ",
+     "gloss": "noose",
+     "grounds": "noose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "spoken",
+     "grounds": "spoken",
+     "morph": "m.nom.sg.pass-ppp+root kath"
+    },
+    {
+     "surface": "hyeṣa",
+     "gloss": "this",
+     "grounds": "fused hi+eṣa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣṭa",
+     "gloss": "evil",
+     "grounds": "evil",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāla",
+     "gloss": "net",
+     "grounds": "net",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nibandhakaḥ",
+     "gloss": "binding",
+     "grounds": "binding",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the noose said to be?",
+   "premises": [
+    "The noose is spoken of.",
+    "This evil net is binding."
+   ],
+   "inference": "The noose is a binding evil net.",
+   "uncertainties": [
+    "hyeṣa is a fused form in the source."
+   ],
+   "plain_english": "Indeed, this noose is spoken of as a binding evil net."
+  },
+  {
+   "verse": 1342,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśa",
+     "gloss": "noose",
+     "grounds": "noose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhāraṇa",
+     "gloss": "holding",
+     "grounds": "holding",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśāt",
+     "gloss": "power",
+     "grounds": "power",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prathayānaḥ",
+     "gloss": "first",
+     "grounds": "first",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "you",
+     "morph": "2.sg.nom"
+    }
+   ],
+   "question": "What follows from holding the noose?",
+   "premises": [
+    "Thus the noose holding has power.",
+    "You become first in time and time."
+   ],
+   "inference": "By the power of holding the noose, you become first in time.",
+   "uncertainties": [
+    "prathayānaḥ may mean proclaiming rather than first."
+   ],
+   "plain_english": "Thus, by the power of holding the noose, you become first in time."
+  },
+  {
+   "verse": 1343,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "3.sg.act-pres+root bhū"
+    },
+    {
+     "surface": "asya",
+     "gloss": "its",
+     "grounds": "its",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satattva",
+     "gloss": "true",
+     "grounds": "true",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "spoken",
+     "grounds": "spoken",
+     "morph": "n.nom.sg.pass-ppp+root vac"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is also said to be true?",
+   "premises": [
+    "It becomes its true spoken form.",
+    "The statement is affirmed with indeed."
+   ],
+   "inference": "Its true nature has also been spoken.",
+   "uncertainties": [
+    "asya may refer to the noose or another item."
+   ],
+   "plain_english": "Its true nature has also indeed been spoken."
+  },
+  {
+   "verse": 1344,
+   "rows": [
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "teachers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "gurus",
+     "grounds": "gurus",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "preceptors",
+     "grounds": "preceptors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "masters",
+     "grounds": "masters",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who is named repeatedly here?",
+   "premises": [
+    "The same plural noun repeats four times.",
+    "Each gloss names a teacher."
+   ],
+   "inference": "The verse names teachers, gurus, preceptors, and masters.",
+   "uncertainties": [
+    "The repetition may be variant glossing rather than four distinct groups."
+   ],
+   "plain_english": "Teachers, gurus, preceptors, masters."
+  },
+  {
+   "verse": 1345,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "left",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "hand",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "below",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "making",
+     "morph": "ger+root kṛ"
+    },
+    {
+     "surface": "uttānaṃ",
+     "gloss": "upturned",
+     "grounds": "upturned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "composed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the left hand placed?",
+   "premises": [
+    "The left hand is made below.",
+    "It is upturned and composed."
+   ],
+   "inference": "The practitioner places the left hand below, upturned and composed.",
+   "uncertainties": [
+    "The exact mudrā posture is not fully described."
+   ],
+   "plain_english": "Making the left hand below, upturned, indeed composed."
+  },
+  {
+   "verse": 1346,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "both",
+     "grounds": "both",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅghṛṣya",
+     "gloss": "rubbing",
+     "grounds": "rubbing",
+     "morph": "ger+root ghṛṣ"
+    },
+    {
+     "surface": "vajra",
+     "gloss": "vajra",
+     "grounds": "vajra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "seal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "show",
+     "grounds": "show",
+     "morph": "3.sg.act-opt+root dṛś"
+    }
+   ],
+   "question": "What should be shown after rubbing both?",
+   "premises": [
+    "Both are rubbed together.",
+    "The vajra seal is shown."
+   ],
+   "inference": "After rubbing both, one shows the vajra seal.",
+   "uncertainties": [
+    "ubhayoḥ may refer to hands or other paired items."
+   ],
+   "plain_english": "Rubbing both, show the vajra seal."
+  },
+  {
+   "verse": 1347,
+   "rows": [
+    {
+     "surface": "suṣireṇa",
+     "gloss": "with",
+     "grounds": "with",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "suṣira",
+     "gloss": "hole",
+     "grounds": "hole",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined",
+     "grounds": "joined",
+     "morph": "n.acc.sg.pass-ppp+root yuj"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "show",
+     "grounds": "show",
+     "morph": "3.sg.act-opt+root dṛś"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "best",
+     "grounds": "best",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is shown joined with the hole?",
+   "premises": [
+    "Something is joined with a hole.",
+    "It is shown to the best one."
+   ],
+   "inference": "Show what is joined with the hole to the best one.",
+   "uncertainties": [
+    "The object joined with the hole is not named."
+   ],
+   "plain_english": "Show what is joined with the hole, indeed, to the best one."
+  },
+  {
+   "verse": 1348,
+   "rows": [
+    {
+     "surface": "tattva",
+     "gloss": "truth",
+     "grounds": "truth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "its",
+     "grounds": "its",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pradaśītam",
+     "gloss": "shown",
+     "grounds": "shown",
+     "morph": "n.nom.sg.pass-ppp+root daś"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What has been shown of its truth?",
+   "premises": [
+    "The truth of it has been shown.",
+    "The statement is affirmed with indeed."
+   ],
+   "inference": "Its truth has indeed been shown.",
+   "uncertainties": [
+    "asyāḥ may refer to a mudrā or practice."
+   ],
+   "plain_english": "Its truth has indeed been shown."
+  },
+  {
+   "verse": 1349,
+   "rows": [
+    {
+     "surface": "vallakīṃ",
+     "gloss": "vīṇā",
+     "grounds": "vīṇā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vīṇām",
+     "gloss": "vīṇā",
+     "grounds": "vīṇā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vallakīṃ",
+     "gloss": "lute",
+     "grounds": "lute",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vīṇām",
+     "gloss": "lute",
+     "grounds": "lute",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which instruments are named here?",
+   "premises": [
+    "Two accusative forms name vīṇā.",
+    "Two accusative forms name lute."
+   ],
+   "inference": "The verse names vīṇā and lute instruments.",
+   "uncertainties": [
+    "The repeated forms may be variant glosses rather than separate objects."
+   ],
+   "plain_english": "Vīṇā, vīṇā, lute, lute."
+  }
+ ]
+}

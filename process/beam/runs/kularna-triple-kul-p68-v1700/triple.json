@@ -1,0 +1,56 @@
+{
+ "song": "kul-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "dīkṣayā",
+     "gloss": "by-initiation",
+     "grounds": "instrumental of dīkṣā",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "should-purify",
+     "grounds": "optative of śodhayati",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "śiṣyam",
+     "gloss": "disciple",
+     "grounds": "accusative object of śodhayet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective with bhavet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhavati",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What happens if a disciple is not purified by initiation?",
+   "premises": [
+    "Initiation purifies the disciple.",
+    "Without initiation the rite becomes fruitless."
+   ],
+   "inference": "Initiation is necessary for fruitful purification.",
+   "uncertainties": [
+    "Optative mood implies prescription rather than description."
+   ],
+   "plain_english": "One should purify the disciple by initiation; otherwise it becomes fruitless."
+  }
+ ]
+}

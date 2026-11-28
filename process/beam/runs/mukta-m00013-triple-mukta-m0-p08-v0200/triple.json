@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "guḍavarjitam",
+     "gloss": "jaggery-devoid",
+     "grounds": "bahuvrīhi compound guḍa+varjita qualifying tilāḥ; analyzed as given",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "tilāḥ",
+     "gloss": "sesame-seeds",
+     "grounds": "approved food item",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sitā",
+     "gloss": "white",
+     "grounds": "qualifies mudgāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mudgāḥ",
+     "gloss": "mung-beans",
+     "grounds": "approved food item",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kandaḥ",
+     "gloss": "bulb",
+     "grounds": "edible tuber or root",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kemukavarjitaḥ",
+     "gloss": "kemuka-devoid",
+     "grounds": "bahuvrīhi compound kemuka+varjita qualifying kandaḥ; kemuka denotes a specific plant",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "Which specific food items qualify as wholesome for the practitioner?",
+   "premises": [
+    "The practitioner should consume praised food to avoid loss of success.",
+    "Sesame seeds devoid of jaggery are included among suitable foods.",
+    "White mung beans are included among suitable foods.",
+    "Bulb devoid of kemuka is included among suitable foods."
+   ],
+   "inference": "These specified items constitute part of the wholesome diet prescribed for the practitioner.",
+   "uncertainties": [
+    "The exact botanical identity of kemuka is not specified in the verse."
+   ],
+   "plain_english": "Sesame without jaggery, and indeed white mung beans, and bulb excluding kemuka are prescribed."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "sanātanaścāpi",
+     "gloss": "eternal-and-also",
+     "grounds": "fused form: sanātanaḥ (name) + ca + api; sandhi noted, token kept unsplit",
+     "morph": "m.nom.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "sanatkukārastu",
+     "gloss": "Sanatkumāra-but",
+     "grounds": "fused form: sanatkumāraḥ (name) + tu; sandhi noted, token kept unsplit",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "in-that-very-way",
+     "grounds": "fused form: tathā + eva",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional named figures are included in the ongoing enumerated sequence?",
+   "premises": [
+    "Sanātana is added to the enumeration.",
+    "Sanatkumāra is added to the enumeration.",
+    "Their inclusion follows in the same manner as the preceding figures."
+   ],
+   "inference": "The enumerated sequence continues by including Sanātana and Sanatkumāra as further members.",
+   "uncertainties": [
+    "The specific role of Sanātana and Sanatkumāra in this context (deities, gurus, or other figures) is not determined from this verse alone."
+   ],
+   "plain_english": "And also Sanātana, and Sanatkumāra likewise, and [others follow]."
+  }
+ ]
+}

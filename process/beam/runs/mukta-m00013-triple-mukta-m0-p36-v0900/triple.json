@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner; refers to the preceding statement or practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "first member in a series denoting locations beginning with the heart",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādiṣu",
+     "gloss": "and-so-forth",
+     "grounds": "locative plural of ādi, indicating the heart and other locations",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "In which locations is the preceding practice applied in this manner?",
+   "premises": [
+    "The term evaṃ indicates application in the stated manner.",
+    "The term hṛdaya names the heart as a location.",
+    "The term ādiṣu extends the application to other locations."
+   ],
+   "inference": "The preceding practice is applied in this manner in the heart and other specified locations.",
+   "uncertainties": [
+    "The specific additional locations implied by ādiṣu are not enumerated in this verse."
+   ],
+   "plain_english": "Thus in the heart and so forth."
+  }
+ ]
+}

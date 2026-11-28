@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "varaprayoge",
+     "gloss": "excellent-application",
+     "grounds": "locative singular masculine/neuter form of varaprayoga",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-deveśī",
+     "grounds": "vocative singular feminine of deveśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanasaṃhatiḥ",
+     "gloss": "seat-assembly",
+     "grounds": "nominative singular feminine compound of āsana and saṃhati",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How is the seat-assembly classified in excellent application?",
+   "premises": [
+    "seat-assembly is twofold in excellent application",
+    "or introduces an alternative classification",
+    "Deveśī is addressed directly"
+   ],
+   "inference": "The seat-assembly admits a twofold classification in excellent application.",
+   "uncertainties": [
+    "vā may connect to a following verse",
+    "the exact twofold division is not specified here"
+   ],
+   "plain_english": "In excellent application, O Deveśī, the seat-assembly is twofold, or..."
+  }
+ ]
+}

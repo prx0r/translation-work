@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "sapaśum",
+     "gloss": "with-animal",
+     "grounds": "compound indicating accompaniment by an animal victim",
+     "morph": "sa+paśu (compound, m.acc.sg)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive injunction to offer",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "niśāyām",
+     "gloss": "at-night",
+     "grounds": "specifies the time for the offering",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhairavam",
+     "gloss": "to-bhairava",
+     "grounds": "designates Bhairava as the recipient deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "balim",
+     "gloss": "oblation",
+     "grounds": "the ritual offering to be presented",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What specific oblation must be offered to Bhairava during the night?",
+   "premises": [
+    "A ritual oblation is to be given.",
+    "The oblation is directed to Bhairava.",
+    "The oblation includes an animal victim.",
+    "The offering is to be made at night."
+   ],
+   "inference": "One should offer an animal oblation to Bhairava at night.",
+   "uncertainties": [],
+   "plain_english": "At night, one should give an oblation accompanied by an animal to Bhairava."
+  }
+ ]
+}

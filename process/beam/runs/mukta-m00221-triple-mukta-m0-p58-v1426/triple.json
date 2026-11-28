@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1426,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun feminine",
+     "morph": "rel.pron.f.nom.sg"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "passive present root śru",
+     "morph": "verb.3.sg.pass-pres root-śru"
+    },
+    {
+     "surface": "śaktigaṇanāyikā",
+     "gloss": "power-army-leader",
+     "grounds": "compound noun",
+     "morph": "noun.f.nom.sg"
+    },
+    {
+     "surface": "lalitā'bhidhā",
+     "gloss": "Lalita-named",
+     "grounds": "sandhi fusion lalitā+abhidhā",
+     "morph": "noun.f.nom.sg"
+    }
+   ],
+   "question": "Who is the power-army leader named Lalita?",
+   "premises": [
+    "Lalita is named",
+    "she leads the power army",
+    "her name is heard"
+   ],
+   "inference": "The verse identifies Lalita as the named leader of the power army.",
+   "uncertainties": [
+    "exact sandhi resolution of lalitā'bhidhā"
+   ],
+   "plain_english": "Lalita, the leader of the power army, is the one whose name is heard."
+  },
+  {
+   "verse": 1427,
+   "rows": [
+    {
+     "surface": "aho",
+     "gloss": "alas",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.interr"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavelloke",
+     "gloss": "would-be-in-world",
+     "grounds": "fused bhavet+loke",
+     "morph": "verb.3.sg.opt + loc.sg"
+    },
+    {
+     "surface": "viparīte",
+     "gloss": "inverted",
+     "grounds": "adjective locative",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "fate",
+     "grounds": "noun locative",
+     "morph": "noun.m.loc.sg"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can fate be inverted in the world?",
+   "premises": [
+    "fate appears inverted",
+    "the world seems wrong",
+    "the speaker asks why"
+   ],
+   "inference": "The verse expresses astonishment at an inverted fate in the world.",
+   "uncertainties": [
+    "exact parsing of bhavelloke"
+   ],
+   "plain_english": "Alas, what would not be in an inverted world under fate?"
+  },
+  {
+   "verse": 1428,
+   "rows": [
+    {
+     "surface": "balaṃ",
+     "gloss": "strength",
+     "grounds": "noun accusative",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "kṣīṇaṃ",
+     "gloss": "weakened",
+     "grounds": "adjective accusative",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "caturthāṃ'śaṃ",
+     "gloss": "quarter-part",
+     "grounds": "sandhi fusion",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "sainyeśā",
+     "gloss": "in-army-lord",
+     "grounds": "compound noun",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "balino",
+     "gloss": "strong-ones",
+     "grounds": "adjective genitive",
+     "morph": "adj.m.gen.pl"
+    },
+    {
+     "surface": "hatāḥ",
+     "gloss": "slain",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.pl"
+    }
+   ],
+   "question": "What happens to strength when the army lord is weakened?",
+   "premises": [
+    "strength is weakened",
+    "only a quarter remains",
+    "strong ones are slain"
+   ],
+   "inference": "The verse states that army strength is reduced and strong warriors are slain.",
+   "uncertainties": [
+    "case of sainyeśā"
+   ],
+   "plain_english": "Strength is weakened to a quarter, and the strong ones in the army are slain."
+  },
+  {
+   "verse": 1429,
+   "rows": [
+    {
+     "surface": "pratijñāya",
+     "gloss": "having-promised",
+     "grounds": "absolutive",
+     "morph": "absolutive root-pratijñā"
+    },
+    {
+     "surface": "śaktijayaṃ",
+     "gloss": "power-victory",
+     "grounds": "compound accusative",
+     "morph": "noun.m.acc.sg"
+    },
+    {
+     "surface": "rājñe",
+     "gloss": "to-king",
+     "grounds": "dative noun",
+     "morph": "noun.m.dat.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "pronoun nominative",
+     "morph": "pron.1.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the promised victory over powers be fulfilled today?",
+   "premises": [
+    "victory over powers was promised",
+    "the promise was to the king",
+    "today fulfillment is questioned"
+   ],
+   "inference": "The speaker questions how he can fulfill his promised victory over the powers today.",
+   "uncertainties": [
+    "exact tense of pratijñāya"
+   ],
+   "plain_english": "Having promised victory over the powers to the king, how can I fulfill it today?"
+  },
+  {
+   "verse": 1430,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintāsamākrānte",
+     "gloss": "thought-overwhelmed",
+     "grounds": "participle locative",
+     "morph": "part.loc.sg"
+    },
+    {
+     "surface": "kuṭikākṣe",
+     "gloss": "in-hut-corner",
+     "grounds": "compound locative",
+     "morph": "noun.loc.sg"
+    },
+    {
+     "surface": "camūpatau",
+     "gloss": "army-commander",
+     "grounds": "compound locative",
+     "morph": "noun.m.loc.sg"
+    }
+   ],
+   "question": "Where is the army commander overwhelmed by thought?",
+   "premises": [
+    "the commander is overwhelmed",
+    "he is in a hut corner",
+    "the situation is thus"
+   ],
+   "inference": "The verse places the thought-overwhelmed army commander in a hut corner.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus the army commander, overwhelmed by thought, is in a hut corner."
+  },
+  {
+   "verse": 1431,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive",
+     "morph": "absolutive root-dṛś"
+    },
+    {
+     "surface": "viṣaṅgaṃ",
+     "gloss": "dejection",
+     "grounds": "noun accusative",
+     "morph": "noun.m.acc.sg"
+    },
+    {
+     "surface": "seneśaḥ",
+     "gloss": "army-lord",
+     "grounds": "compound nominative",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "kuṭikākṣaḥ",
+     "gloss": "Kutikaksha",
+     "grounds": "proper noun nominative",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "samutthitaḥ",
+     "gloss": "arose",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.sg"
+    }
+   ],
+   "question": "Who arises after seeing the dejection?",
+   "premises": [
+    "dejection is seen",
+    "the army lord arises",
+    "Kutikaksha is named"
+   ],
+   "inference": "Kutikaksha, the army lord, arises after seeing dejection.",
+   "uncertainties": [
+    "role of kuṭikākṣaḥ"
+   ],
+   "plain_english": "Seeing the dejection, the army lord Kutikaksha arose."
+  },
+  {
+   "verse": 1432,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "seeing",
+     "grounds": "absolutive",
+     "morph": "absolutive root-dṛś"
+    },
+    {
+     "surface": "viṣaṇṇā'syaṃ",
+     "gloss": "sad-faced",
+     "grounds": "sandhi fusion",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "viṣaṅgaḥ",
+     "gloss": "dejection",
+     "grounds": "noun nominative",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "sainyanāyakam",
+     "gloss": "army-leader",
+     "grounds": "compound accusative",
+     "morph": "noun.m.acc.sg"
+    }
+   ],
+   "question": "What does dejection see in the army leader?",
+   "premises": [
+    "dejection is present",
+    "the army leader is seen",
+    "his face is sad"
+   ],
+   "inference": "The verse shows dejection seeing the sad-faced army leader.",
+   "uncertainties": [
+    "sandhi in viṣaṇṇā'syaṃ"
+   ],
+   "plain_english": "Then, seeing the sad-faced army leader, dejection is present."
+  },
+  {
+   "verse": 1433,
+   "rows": [
+    {
+     "surface": "tayā",
+     "gloss": "by-her",
+     "grounds": "pronoun instrumental",
+     "morph": "pron.f.inst.sg"
+    },
+    {
+     "surface": "bhakteṣṭadāyinyā",
+     "gloss": "devotee-desire-giver",
+     "grounds": "compound instrumental",
+     "morph": "adj.f.inst.sg"
+    },
+    {
+     "surface": "mohito",
+     "gloss": "deluded",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.sg"
+    },
+    {
+     "surface": "daityapuṅgavaḥ",
+     "gloss": "demon-chief",
+     "grounds": "compound nominative",
+     "morph": "noun.m.nom.sg"
+    }
+   ],
+   "question": "Who is deluded by the devotee-desire-giving goddess?",
+   "premises": [
+    "she gives devotees' desires",
+    "the demon chief is deluded",
+    "her power acts on him"
+   ],
+   "inference": "The demon chief is deluded by the goddess who grants devotees' desires.",
+   "uncertainties": [
+    "exact compound sense"
+   ],
+   "plain_english": "The demon chief is deluded by her, the giver of devotees' desires."
+  },
+  {
+   "verse": 1434,
+   "rows": [
+    {
+     "surface": "tadvadā'śu",
+     "gloss": "therefore",
+     "grounds": "sandhi fusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "cause",
+     "grounds": "noun accusative",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "adj.n.acc.sg"
+    },
+    {
+     "surface": "karomyaham",
+     "gloss": "I-do",
+     "grounds": "fused verb",
+     "morph": "verb.1.sg.act-pres root-kṛ"
+    }
+   ],
+   "question": "Why should all be done together without cause?",
+   "premises": [
+    "the speaker asks why",
+    "all is to be done together",
+    "no cause is named"
+   ],
+   "inference": "The verse asks why everything should be done together without a stated cause.",
+   "uncertainties": [
+    "fusion in tadvadā'śu and karomyaham"
+   ],
+   "plain_english": "Therefore, why should I do all together without a cause?"
+  },
+  {
+   "verse": 1435,
+   "rows": [
+    {
+     "surface": "aviśāśañca",
+     "gloss": "unlimited",
+     "grounds": "adjective",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "noun genitive",
+     "morph": "noun.f.gen.pl"
+    },
+    {
+     "surface": "mahābhayam",
+     "gloss": "great-danger",
+     "grounds": "compound nominative",
+     "morph": "noun.n.nom.sg"
+    },
+    {
+     "surface": "upasthitam",
+     "gloss": "has-arrived",
+     "grounds": "participle nominative",
+     "morph": "part.n.nom.sg"
+    }
+   ],
+   "question": "What great danger has arrived from unlimited powers?",
+   "premises": [
+    "powers are unlimited",
+    "great danger has arrived",
+    "the danger is present"
+   ],
+   "inference": "The verse states that great danger from unlimited powers has arrived.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Great danger from unlimited powers has arrived."
+  },
+  {
+   "verse": 1436,
+   "rows": [
+    {
+     "surface": "mohito",
+     "gloss": "deluded",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.sg"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "by-illusion",
+     "grounds": "noun instrumental",
+     "morph": "noun.f.inst.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "noun instrumental/genitive",
+     "morph": "noun.f.inst.sg"
+    },
+    {
+     "surface": "babhdāṣe",
+     "gloss": "spoke",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-past root-bhāṣ"
+    },
+    {
+     "surface": "buddhimāniva",
+     "gloss": "wise-like",
+     "grounds": "compound",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "Who speaks like a wise man while deluded by the goddess?",
+   "premises": [
+    "he is deluded by illusion",
+    "the goddess is involved",
+    "he speaks like a wise man"
+   ],
+   "inference": "The verse depicts a man speaking wisely while deluded by the goddess's illusion.",
+   "uncertainties": [
+    "spelling babhdāṣe"
+   ],
+   "plain_english": "Deluded by the goddess's illusion, he spoke like a wise man."
+  },
+  {
+   "verse": 1437,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "strategy",
+     "grounds": "noun instrumental",
+     "morph": "noun.f.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīyeta",
+     "gloss": "is-defeated",
+     "grounds": "verb passive",
+     "morph": "verb.3.sg.pass-opt root-ji"
+    },
+    {
+     "surface": "mahābalavatā",
+     "gloss": "very-strong",
+     "grounds": "adjective instrumental",
+     "morph": "adj.m.inst.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "other",
+     "grounds": "adjective nominative",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "Can a very strong other be defeated without strategy?",
+   "premises": [
+    "strategy is absent",
+    "defeat is not possible",
+    "the other is very strong"
+   ],
+   "inference": "The verse says a very strong opponent cannot be defeated without strategy.",
+   "uncertainties": [
+    "voice of jīyeta"
+   ],
+   "plain_english": "Without strategy, a very strong opponent is not defeated."
+  },
+  {
+   "verse": 1438,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "pronoun instrumental",
+     "morph": "pron.1.inst.sg"
+    },
+    {
+     "surface": "śaktijayo",
+     "gloss": "power-victory",
+     "grounds": "compound nominative",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "prāyo",
+     "gloss": "mostly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścitaḥ",
+     "gloss": "decided",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.sg"
+    },
+    {
+     "surface": "sūkṣmabudhinā",
+     "gloss": "subtle-minded",
+     "grounds": "compound instrumental",
+     "morph": "adj.m.inst.sg"
+    }
+   ],
+   "question": "Who has mostly decided victory over powers by subtle mind?",
+   "premises": [
+    "victory over powers is decided",
+    "it is mostly decided",
+    "subtle mind is involved"
+   ],
+   "inference": "The verse states that victory over powers has been mostly decided by subtle-minded strategy.",
+   "uncertainties": [
+    "case of sūkṣmabudhinā"
+   ],
+   "plain_english": "By me, victory over powers is mostly decided through subtle mind."
+  },
+  {
+   "verse": 1439,
+   "rows": [
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "pronoun nominative",
+     "morph": "pron.1.nom.sg"
+    },
+    {
+     "surface": "manye",
+     "gloss": "think",
+     "grounds": "verb",
+     "morph": "verb.1.sg.act-pres root-man"
+    },
+    {
+     "surface": "hatāḥ",
+     "gloss": "slain",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.pl"
+    },
+    {
+     "surface": "śaktigaṇā",
+     "gloss": "power-groups",
+     "grounds": "compound nominative",
+     "morph": "noun.m.nom.pl"
+    },
+    {
+     "surface": "ityeva",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktitaḥ",
+     "gloss": "by-strategy",
+     "grounds": "noun instrumental",
+     "morph": "noun.f.inst.sg"
+    }
+   ],
+   "question": "Why does the speaker think the power groups are slain?",
+   "premises": [
+    "the speaker thinks",
+    "power groups are slain",
+    "strategy is the reason"
+   ],
+   "inference": "The verse says the speaker thinks the power groups are slain by strategy.",
+   "uncertainties": [
+    "exact sense of yuktitaḥ"
+   ],
+   "plain_english": "I think the power groups are slain, thus by strategy."
+  },
+  {
+   "verse": 1440,
+   "rows": [
+    {
+     "surface": "kūṭenaiva",
+     "gloss": "by-trick",
+     "grounds": "noun instrumental",
+     "morph": "noun.n.inst.sg"
+    },
+    {
+     "surface": "vijeyā",
+     "gloss": "to-be-conquered",
+     "grounds": "gerundive",
+     "morph": "gerundive.f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun nominative",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "tatkrmaṃ",
+     "gloss": "that-plan",
+     "grounds": "compound nominative",
+     "morph": "noun.n.nom.sg"
+    },
+    {
+     "surface": "niścitaṃ",
+     "gloss": "decided",
+     "grounds": "participle nominative",
+     "morph": "part.n.nom.sg"
+    },
+    {
+     "surface": "bruve",
+     "gloss": "I-speak",
+     "grounds": "verb",
+     "morph": "verb.1.sg.act-pres root-brū"
+    }
+   ],
+   "question": "How is she to be conquered by trick according to the plan?",
+   "premises": [
+    "she is to be conquered",
+    "trick is the means",
+    "the plan is decided"
+   ],
+   "inference": "The verse states that she is to be conquered by trick according to a decided plan.",
+   "uncertainties": [
+    "spelling tatkrmaṃ"
+   ],
+   "plain_english": "She is to be conquered by trick; I speak the decided plan."
+  },
+  {
+   "verse": 1441,
+   "rows": [
+    {
+     "surface": "mahatyā",
+     "gloss": "great",
+     "grounds": "adjective instrumental",
+     "morph": "adj.f.inst.sg"
+    },
+    {
+     "surface": "daṃśitāḥ",
+     "gloss": "armored",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective nominative",
+     "morph": "adj.m.nom.pl"
+    },
+    {
+     "surface": "viśukreṇā'pi",
+     "gloss": "by-Vishukra",
+     "grounds": "sandhi fusion",
+     "morph": "noun.m.inst.sg"
+    },
+    {
+     "surface": "saṃvṛtāḥ",
+     "gloss": "surrounded",
+     "grounds": "participle nominative",
+     "morph": "part.m.nom.pl"
+    }
+   ],
+   "question": "Who surrounds all the armored ones by Vishukra?",
+   "premises": [
+    "all are armored",
+    "Vishukra is involved",
+    "they are surrounded"
+   ],
+   "inference": "The verse says all armored ones are surrounded by Vishukra.",
+   "uncertainties": [
+    "sandhi in viśukreṇā'pi"
+   ],
+   "plain_english": "All are armored and surrounded by Vishukra."
+  },
+  {
+   "verse": 1442,
+   "rows": [
+    {
+     "surface": "gantavyameva",
+     "gloss": "to-be-gone",
+     "grounds": "gerundive",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "yaddhāya",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktigaṇāḥ",
+     "gloss": "power-groups",
+     "grounds": "compound nominative",
+     "morph": "noun.m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must one go as the power groups also go?",
+   "premises": [
+    "going is necessary",
+    "power groups are included",
+    "the action is certain"
+   ],
+   "inference": "The verse states that going is necessary, including for the power groups.",
+   "uncertainties": [
+    "fusion in gantavyameva"
+   ],
+   "plain_english": "Indeed, one must go, as the power groups also must."
+  },
+  {
+   "verse": 1443,
+   "rows": [
+    {
+     "surface": "tāvadrātrābandhakārairdetyairbahubhirāvṛtaḥ",
+     "gloss": "so-long",
+     "grounds": "long fused compound",
+     "morph": "part.m.nom.sg"
+    }
+   ],
+   "question": "Who is surrounded by many demons in the night?",
+   "premises": [
+    "many demons surround",
+    "the night is dark",
+    "the state lasts so long"
+   ],
+   "inference": "The verse describes being surrounded by many demons in the dark night.",
+   "uncertainties": [
+    "full internal parsing of fused compound"
+   ],
+   "plain_english": "So long, he is surrounded by many demons in the darkness of night."
+  },
+  {
+   "verse": 1444,
+   "rows": [
+    {
+     "surface": "tasyā",
+     "gloss": "her",
+     "grounds": "pronoun genitive",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "rathaṃ",
+     "gloss": "chariot",
+     "grounds": "noun accusative",
+     "morph": "noun.m.acc.sg"
+    },
+    {
+     "surface": "samāruhya",
+     "gloss": "having-mounted",
+     "grounds": "absolutive",
+     "morph": "absolutive root-āruh"
+    },
+    {
+     "surface": "tatratyā",
+     "gloss": "there",
+     "grounds": "adjective nominative",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāścana",
+     "gloss": "some",
+     "grounds": "pronoun nominative",
+     "morph": "pron.f.nom.pl"
+    }
+   ],
+   "question": "Who mounts her chariot and some remain there?",
+   "premises": [
+    "her chariot is mounted",
+    "some are there",
+    "the action is shared"
+   ],
+   "inference": "The verse says someone mounts her chariot while some remain there.",
+   "uncertainties": [
+    "subject of samāruhya"
+   ],
+   "plain_english": "Having mounted her chariot, some also remain there."
+  },
+  {
+   "verse": 1445,
+   "rows": [
+    {
+     "surface": "lalitām",
+     "gloss": "Lalita",
+     "grounds": "proper noun accusative",
+     "morph": "noun.f.acc.sg"
+    },
+    {
+     "surface": "abalāṃ",
+     "gloss": "woman",
+     "grounds": "adjective accusative",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "duṣṭāṃ",
+     "gloss": "wicked",
+     "grounds": "adjective accusative",
+     "morph": "adj.f.acc.sg"
+    },
+    {
+     "surface": "śaktisaṅghaśiphātmikām",
+     "gloss": "power-group-essence",
+     "grounds": "compound accusative",
+     "morph": "adj.f.acc.sg"
+    }
+   ],
+   "question": "Why is Lalita called a wicked woman and power-group essence?",
+   "premises": [
+    "Lalita is named",
+    "she is called wicked",
+    "she is power-group essence"
+   ],
+   "inference": "The verse describes Lalita as a wicked woman and essence of the power group.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Lalita, a wicked woman, is the essence of the power group."
+  },
+  {
+   "verse": 1446,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-her",
+     "grounds": "pronoun locative",
+     "morph": "pron.f.loc.sg"
+    },
+    {
+     "surface": "hatāyāṃ",
+     "gloss": "slain",
+     "grounds": "participle locative",
+     "morph": "part.f.loc.sg"
+    },
+    {
+     "surface": "baddhāyām",
+     "gloss": "bound",
+     "grounds": "participle locative",
+     "morph": "part.f.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktivāhinīm",
+     "gloss": "power-army",
+     "grounds": "compound accusative",
+     "morph": "noun.f.acc.sg"
+    }
+   ],
+   "question": "What happens to the power army if she is slain or bound?",
+   "premises": [
+    "she may be slain",
+    "she may be bound",
+    "the power army is involved"
+   ],
+   "inference": "The verse considers the power army in relation to her being slain or bound.",
+   "uncertainties": [
+    "exact relation of śaktivāhinīm"
+   ],
+   "plain_english": "If she is slain or bound, the power army is affected."
+  },
+  {
+   "verse": 1447,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "rel.pron.f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun nominative",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "lalitā",
+     "gloss": "Lalita",
+     "grounds": "proper noun nominative",
+     "morph": "noun.f.nom.sg"
+    },
+    {
+     "surface": "rājñī",
+     "gloss": "queen",
+     "grounds": "noun nominative",
+     "morph": "noun.f.nom.sg"
+    },
+    {
+     "surface": "sukumārakarāṅghrikā",
+     "gloss": "delicate-limbed",
+     "grounds": "compound nominative",
+     "morph": "adj.f.nom.sg"
+    }
+   ],
+   "question": "Who is the delicate-limbed queen named Lalita?",
+   "premises": [
+    "Lalita is named",
+    "she is queen",
+    "she is delicate-limbed"
+   ],
+   "inference": "The verse identifies Lalita as the delicate-limbed queen.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "She, indeed, is Lalita, the delicate-limbed queen."
+  },
+  {
+   "verse": 1448,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "pronoun instrumental",
+     "morph": "pron.1.inst.sg"
+    },
+    {
+     "surface": "vyavasitaṃ",
+     "gloss": "resolved",
+     "grounds": "participle nominative",
+     "morph": "part.n.nom.sg"
+    },
+    {
+     "surface": "buddhyā'tyantapragalmayā",
+     "gloss": "by-intellect",
+     "grounds": "sandhi fusion",
+     "morph": "noun.f.inst.sg"
+    }
+   ],
+   "question": "How has the plan been resolved by intellect?",
+   "premises": [
+    "the plan is resolved",
+    "intellect is the means",
+    "the resolution is thus"
+   ],
+   "inference": "The verse states that the plan has been resolved by intellect.",
+   "uncertainties": [
+    "sandhi in buddhyā'tyantapragalmayā"
+   ],
+   "plain_english": "Thus, by me, it has been resolved by intellect."
+  },
+  {
+   "verse": 1449,
+   "rows": [
+    {
+     "surface": "śrutvā",
+     "gloss": "hearing",
+     "grounds": "absolutive",
+     "morph": "absolutive root-śru"
+    },
+    {
+     "surface": "viṣaṅgavacanaṃ",
+     "gloss": "Vishanga-speech",
+     "grounds": "compound accusative",
+     "morph": "noun.n.acc.sg"
+    },
+    {
+     "surface": "kuṭilāks'śca",
+     "gloss": "Kutilaksha",
+     "grounds": "sandhi fusion",
+     "morph": "noun.m.nom.sg"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "king",
+     "grounds": "noun nominative",
+     "morph": "noun.m.nom.sg"
+    }
+   ],
+   "question": "Who hears Vishanga's speech and is king?",
+   "premises": [
+    "Vishanga's speech is heard",
+    "Kutilaksha is named",
+    "he is king"
+   ],
+   "inference": "The verse says Kutilaksha, the king, hears Vishanga's speech.",
+   "uncertainties": [
+    "sandhi in kuṭilāks'śca"
+   ],
+   "plain_english": "Hearing Vishanga's speech, Kutilaksha, the king, acts."
+  }
+ ]
+}

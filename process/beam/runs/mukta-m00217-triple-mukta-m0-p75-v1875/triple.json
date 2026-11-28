@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "object held by the deity described in the preceding verses",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāṇān",
+     "gloss": "arrows",
+     "grounds": "objects held by the deity described in the preceding verses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "akṣasūtraṃ",
+     "gloss": "rosary",
+     "grounds": "ritual implement held by the deity; compound of akṣa and sūtra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "spear",
+     "grounds": "weapon held by the deity described in the preceding verses",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paraśumeva",
+     "gloss": "axe-indeed",
+     "grounds": "weapon held by the deity; fused form of paraśum and emphatic particle eva",
+     "morph": "m.acc.sg+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific weapons and ritual implements are enumerated as held by the ten-armed deity?",
+   "premises": [
+    "The preceding verses describe a five-faced, ten-armed, three-eyed deity seated on a red lotus.",
+    "This verse lists objects held by that deity in accusative form.",
+    "The enumerated items include martial weapons and a rosary."
+   ],
+   "inference": "The ten-armed deity's iconography combines martial power with ritual practice through the objects held.",
+   "uncertainties": [
+    "The distribution of these items among specific hands is not specified in this verse alone."
+   ],
+   "plain_english": "She holds a sword, arrows, a rosary, a spear, and indeed an axe."
+  }
+ ]
+}

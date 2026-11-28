@@ -1,0 +1,1257 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "tārāyāḥ",
+     "gloss": "of-tārā",
+     "grounds": "genitive of the goddess Tārā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevyāḥ",
+     "gloss": "of-great-goddess",
+     "grounds": "genitive of Mahādevī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "subject identified as Mahāvidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle indicating declaration",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "What great knowledge is proclaimed in relation to Tārā and the great goddess?",
+   "premises": [
+    "Tārā is named as a referent",
+    "The great goddess is named alongside Tārā",
+    "A great knowledge is proclaimed"
+   ],
+   "inference": "The great knowledge is proclaimed as belonging to or associated with Tārā and the great goddess.",
+   "uncertainties": [
+    "The exact identity of mahādevyāḥ in this context is not specified"
+   ],
+   "plain_english": "The great knowledge of Tārā and of the great goddess is proclaimed."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "pañcaraśmiḥ",
+     "gloss": "five-rayed",
+     "grounds": "describes the great knowledge as having five rays",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "subject of the description",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaraśmi",
+     "gloss": "with-five-rays",
+     "grounds": "reiterates the five-rayed quality",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitā",
+     "gloss": "endowed",
+     "grounds": "past passive participle indicating possession",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "What defining characteristic is attributed to this great knowledge?",
+   "premises": [
+    "The great knowledge is called five-rayed",
+    "It is described as endowed with five rays"
+   ],
+   "inference": "The great knowledge is characterized by possessing five rays.",
+   "uncertainties": [
+    "The symbolic meaning of the five rays is not explained"
+   ],
+   "plain_english": "The great knowledge is five-rayed, endowed with five rays."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound referring to mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artham",
+     "gloss": "meaning",
+     "grounds": "object to be known",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative expressing injunction to understand",
+     "morph": "3.sg.optative.act √jñā"
+    },
+    {
+     "surface": "śatabhedā",
+     "gloss": "hundred-fold",
+     "grounds": "describes manifold divisions",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jaganmayī",
+     "gloss": "world-consisting",
+     "grounds": "describes as pervading or consisting of the world",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the meaning of the mantra and its nature be understood?",
+   "premises": [
+    "The mantra meaning should be known",
+    "It is described as hundred-fold",
+    "It is described as world-consisting"
+   ],
+   "inference": "One should understand the mantra meaning as manifold and pervading the world.",
+   "uncertainties": [
+    "The specific hundred divisions are not enumerated"
+   ],
+   "plain_english": "One should know the meaning of the mantra; it is hundred-fold and consists of the world."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "sādhanam",
+     "gloss": "practice",
+     "grounds": "object of instruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yantra",
+     "gloss": "diagram",
+     "grounds": "ritual diagram",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound referring to mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artham",
+     "gloss": "meaning",
+     "grounds": "meaning of the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suveśvari",
+     "gloss": "o-beautiful-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What elements of practice are addressed to the beautiful goddess?",
+   "premises": [
+    "Practice is mentioned",
+    "Diagram and mantra are mentioned",
+    "Mantra meaning is mentioned"
+   ],
+   "inference": "The practice, diagram, mantra, and mantra meaning are presented together as topics of instruction.",
+   "uncertainties": [
+    "The verb governing these objects is implied from context rather than stated"
+   ],
+   "plain_english": "O beautiful goddess, know the practice, the diagram, the mantra, and the meaning of the mantra."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "identifies Bhuvaneśī as Mahāvidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvāmnāyaiḥ",
+     "gloss": "by-all-traditions",
+     "grounds": "instrumental indicating agents of salutation",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "namaskṛtā",
+     "gloss": "saluted",
+     "grounds": "past passive participle indicating reverence",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "What status and recognition are attributed to Bhuvaneśī as great knowledge?",
+   "premises": [
+    "Bhuvaneśī is identified as great knowledge",
+    "She is saluted by all traditions"
+   ],
+   "inference": "Bhuvaneśī, as great knowledge, is universally honored across traditions.",
+   "uncertainties": [],
+   "plain_english": "Bhuvaneśī is the great knowledge, saluted by all traditions."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "rephaḥ",
+     "gloss": "repha",
+     "grounds": "the letter ra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candramasaḥ",
+     "gloss": "of-moon",
+     "grounds": "genitive relating repha to the moon",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jyotiḥ",
+     "gloss": "light",
+     "grounds": "identifies repha as lunar light",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rīkāraḥ",
+     "gloss": "rīkāra",
+     "grounds": "the syllable rī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramaḥ",
+     "gloss": "supreme",
+     "grounds": "qualifies rīkāra as supreme",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What symbolic identities are assigned to the syllables repha and rīkāra?",
+   "premises": [
+    "Repha is identified as the light of the moon",
+    "Rīkāra is described as supreme"
+   ],
+   "inference": "The syllables repha and rīkāra carry distinct symbolic values, lunar light and supremacy.",
+   "uncertainties": [
+    "The exact doctrinal role of rīkāra as supreme is not elaborated"
+   ],
+   "plain_english": "Repha is the light of the moon, and rīkāra is again supreme."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahmā",
+     "grounds": "agent who worshipped the knowledge",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "upāsitā",
+     "gloss": "worshipped",
+     "grounds": "past passive participle indicating worship",
+     "morph": "f.nom.sg.ppp"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "subject that was worshipped",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāpa",
+     "gloss": "curse",
+     "grounds": "first member of compound indicating affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "grastā",
+     "gloss": "seized",
+     "grounds": "past passive participle indicating being afflicted",
+     "morph": "f.nom.sg.ppp"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-beautiful-faced-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What condition and prior worship are attributed to the knowledge addressed to the beautiful-faced one?",
+   "premises": [
+    "The knowledge was worshipped by Brahmā",
+    "The knowledge is seized by a curse",
+    "The addressee is the beautiful-faced one"
+   ],
+   "inference": "The knowledge, though once worshipped by Brahmā, is now afflicted by a curse.",
+   "uncertainties": [
+    "The nature and cause of the curse are not specified"
+   ],
+   "plain_english": "O beautiful-faced one, the knowledge worshipped by Brahmā is seized by a curse."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "yoni",
+     "gloss": "womb",
+     "grounds": "first member of compound indicating form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpā",
+     "gloss": "form",
+     "grounds": "describes the goddess as having womb form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative or nominative address to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpātaka",
+     "gloss": "great-sin",
+     "grounds": "first member of compound indicating what is destroyed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśinī",
+     "gloss": "destroying",
+     "grounds": "agent noun indicating destruction",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form and purifying power are attributed to the great goddess?",
+   "premises": [
+    "The great goddess has the form of the womb",
+    "She destroys great sins"
+   ],
+   "inference": "The great goddess, in womb form, possesses the power to destroy great sins.",
+   "uncertainties": [],
+   "plain_english": "The great goddess, whose form is the womb, destroys great sins."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "īkāreṇa",
+     "gloss": "by-īkāra",
+     "grounds": "instrumental indicating the syllable ī",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sakala",
+     "gloss": "all",
+     "grounds": "first member of compound indicating totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "purpose",
+     "grounds": "second member of compound indicating aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradāyinī",
+     "gloss": "bestowing",
+     "grounds": "agent noun indicating granting",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What boon-granting power is associated with the syllable īkāra?",
+   "premises": [
+    "Īkāra is named as the means",
+    "The goddess is addressed",
+    "All purposes are bestowed"
+   ],
+   "inference": "Through īkāra, the great goddess bestows all purposes.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, by īkāra you bestow all purposes."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "ākārāt",
+     "gloss": "from-ākāra",
+     "grounds": "ablative indicating source syllable",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "first member of compound indicating solar form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpā",
+     "gloss": "form",
+     "grounds": "describes solar form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "identifies as Māyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśva",
+     "gloss": "universe",
+     "grounds": "first member of compound indicating what is illuminated",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakāśinī",
+     "gloss": "illuminating",
+     "grounds": "agent noun indicating illumination",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What forms and cosmic function arise from the syllable ākāra?",
+   "premises": [
+    "Ākāra is the source",
+    "A sun form is attributed",
+    "Māyā illuminates the universe"
+   ],
+   "inference": "From ākāra arises a solar form identified as Māyā that illuminates the universe.",
+   "uncertainties": [],
+   "plain_english": "From ākāra comes the sun-formed Māyā, who illuminates the universe."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "śakāraḥ",
+     "gloss": "śakāra",
+     "grounds": "the syllable śa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "dark",
+     "grounds": "first member of compound indicating dark form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpaḥ",
+     "gloss": "form",
+     "grounds": "describes the form of śakāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to śakāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating all beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jantu",
+     "gloss": "beings",
+     "grounds": "second member of compound indicating living beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hita",
+     "gloss": "welfare",
+     "grounds": "third member of compound indicating benefit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īrataḥ",
+     "gloss": "delighting",
+     "grounds": "describes as delighting in the welfare of all beings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form and benevolent disposition are attributed to the syllable śakāra?",
+   "premises": [
+    "Śakāra has a dark form",
+    "It delights in the welfare of all beings"
+   ],
+   "inference": "The syllable śakāra, though dark in form, is oriented toward the welfare of all beings.",
+   "uncertainties": [],
+   "plain_english": "This śakāra has a dark form and delights in the welfare of all beings."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "cit",
+     "gloss": "consciousness",
+     "grounds": "first member of compound indicating conscious form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpā",
+     "gloss": "form",
+     "grounds": "describes as having the form of consciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāda",
+     "gloss": "sound",
+     "grounds": "first member of compound identifying nāda-śakti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "identifies as nāda-śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "first member of compound qualifying bliss",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āhlāda",
+     "gloss": "bliss",
+     "grounds": "second member of compound indicating bliss",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāyinī",
+     "gloss": "bestowing",
+     "grounds": "agent noun indicating bestowal of bliss",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What essential nature and gift are attributed to nāda-śakti?",
+   "premises": [
+    "Nāda-śakti has the form of consciousness",
+    "She bestows supreme bliss"
+   ],
+   "inference": "Nāda-śakti is consciousness in form and grants supreme bliss.",
+   "uncertainties": [],
+   "plain_english": "Nāda-śakti, whose form is consciousness, bestows supreme bliss."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "hakāraḥ",
+     "gloss": "hakāra",
+     "grounds": "the syllable ha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāsudevaḥ",
+     "gloss": "vāsudeva",
+     "grounds": "identifies hakāra with Vāsudeva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rephaḥ",
+     "gloss": "repha",
+     "grounds": "the letter ra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭi",
+     "gloss": "creation",
+     "grounds": "first member of compound indicating what is bestowed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradāyakaḥ",
+     "gloss": "bestowing",
+     "grounds": "agent noun indicating bestowal of creation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine identities and functions are assigned to hakāra and repha?",
+   "premises": [
+    "Hakāra is identified as Vāsudeva",
+    "Repha bestows creation"
+   ],
+   "inference": "Hakāra corresponds to Vāsudeva, while repha functions as the bestower of creation.",
+   "uncertainties": [],
+   "plain_english": "Hakāra is Vāsudeva, and repha bestows creation."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "nakāre",
+     "gloss": "in-nakāra",
+     "grounds": "locative indicating the syllable na",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pālikā",
+     "gloss": "protecting",
+     "grounds": "describes the power as protective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject identified as śakti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "makāre",
+     "gloss": "in-makāra",
+     "grounds": "locative indicating the syllable ma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nāśa",
+     "gloss": "destruction",
+     "grounds": "first member of compound indicating causing destruction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāriṇī",
+     "gloss": "causing",
+     "grounds": "agent noun indicating causing destruction",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What contrasting powers are located in the syllables nakāra and makāra?",
+   "premises": [
+    "In nakāra there is a protecting power",
+    "In makāra there is a power causing destruction"
+   ],
+   "inference": "Nakāra embodies protection, while makāra embodies destruction.",
+   "uncertainties": [],
+   "plain_english": "In nakāra is the protecting power, and in makāra is the power that causes destruction."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "bhakāre",
+     "gloss": "in-bhakāra",
+     "grounds": "locative indicating the syllable bha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhagavatī",
+     "gloss": "blessed",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject identified as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vakārai",
+     "gloss": "in-vakāra",
+     "grounds": "locative indicating the syllable va; surface form as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varuṇa",
+     "gloss": "of-varuṇa",
+     "grounds": "first member of compound indicating nature of Varuṇa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmikā",
+     "gloss": "nature",
+     "grounds": "describes as having the nature of Varuṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What divine presences are identified within the syllables bhakāra and vakāra?",
+   "premises": [
+    "In bhakāra is the blessed goddess",
+    "In vakāra is a nature identified with Varuṇa"
+   ],
+   "inference": "Bhakāra contains the blessed goddess, and vakāra embodies the nature of Varuṇa.",
+   "uncertainties": [
+    "The locative form vakārai is nonstandard in the given surface"
+   ],
+   "plain_english": "In bhakāra is the blessed goddess, and in vakāra is the nature of Varuṇa."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "īkāre",
+     "gloss": "in-īkāra",
+     "grounds": "locative indicating the syllable ī",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "identifies as Mātṛkā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject identified as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jagatām",
+     "gloss": "of-worlds",
+     "grounds": "genitive indicating whose mother",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "jananī",
+     "gloss": "mother",
+     "grounds": "describes as mother of the worlds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional identification",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "What maternal identity is traditionally ascribed to the goddess in īkāra?",
+   "premises": [
+    "In īkāra is the goddess Mātṛkā",
+    "She is remembered as mother of the worlds"
+   ],
+   "inference": "The goddess in īkāra is traditionally known as Mātṛkā, mother of the worlds.",
+   "uncertainties": [],
+   "plain_english": "In īkāra is the goddess Mātṛkā, remembered as the mother of the worlds."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "akāre",
+     "gloss": "in-akāra",
+     "grounds": "locative indicating the syllable a",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rudra",
+     "gloss": "rudra",
+     "grounds": "first member of compound indicating Rudra form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpaḥ",
+     "gloss": "form",
+     "grounds": "describes as having Rudra form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvasya",
+     "gloss": "of-universe",
+     "grounds": "genitive indicating what is destroyed",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nāśa",
+     "gloss": "destruction",
+     "grounds": "first member of compound indicating destructive form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpiṇī",
+     "gloss": "form",
+     "grounds": "describes as having the form of destruction",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What destructive aspect is associated with the syllable akāra?",
+   "premises": [
+    "In akāra is a Rudra form",
+    "There is a form of destruction of the universe"
+   ],
+   "inference": "Akāra is associated with Rudra and the destructive aspect of the universe.",
+   "uncertainties": [
+    "The shift in grammatical gender between rūpaḥ and rūpiṇī is present in the text"
+   ],
+   "plain_english": "In akāra is the Rudra form, and the form of the destruction of the universe."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "ekāre",
+     "gloss": "in-ekāra",
+     "grounds": "locative indicating the syllable e",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jananī",
+     "gloss": "mother",
+     "grounds": "describes as mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject identified as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśva",
+     "gloss": "universe",
+     "grounds": "first member of compound indicating born from the universe or world-born",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "utpannā",
+     "gloss": "born",
+     "grounds": "past passive participle indicating arising",
+     "morph": "f.nom.sg.ppp"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "identifies as Mātṛkā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What generative identity is attributed to the goddess in ekāra?",
+   "premises": [
+    "In ekāra is the mother goddess",
+    "She is described as world-born",
+    "She is identified as Mātṛkā"
+   ],
+   "inference": "The goddess in ekāra is Mātṛkā, the mother associated with the arising of the universe.",
+   "uncertainties": [
+    "The compound viśva-utpannā admits multiple readings in relation to origin"
+   ],
+   "plain_english": "In ekāra is the mother goddess, indeed the world-born Mātṛkā."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "rephaḥ",
+     "gloss": "repha",
+     "grounds": "the letter ra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound indicating giving knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dā",
+     "gloss": "giving",
+     "grounds": "second member of compound indicating bestowal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies as goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating all knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "second member of compound indicating knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakāśinī",
+     "gloss": "illuminating",
+     "grounds": "agent noun indicating illumination of all knowledge",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What epistemic powers are attributed to repha as a goddess?",
+   "premises": [
+    "Repha is identified as a goddess who gives knowledge",
+    "She illuminates all knowledge"
+   ],
+   "inference": "Repha, as goddess, both grants and illuminates all knowledge.",
+   "uncertainties": [
+    "The gender shift from masculine rephaḥ to feminine devī is present in the text"
+   ],
+   "plain_english": "And repha is the goddess who gives knowledge and illuminates all knowledge."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle introducing a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imperative.act √śru"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rephe",
+     "gloss": "in-repha",
+     "grounds": "locative indicating the syllable ra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "life",
+     "grounds": "first member of compound indicating beloved of life",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vallabhaḥ",
+     "gloss": "beloved",
+     "grounds": "describes as beloved of life",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What presence is revealed within repha to the great goddess?",
+   "premises": [
+    "The great goddess is asked to listen",
+    "In repha there is one beloved of life"
+   ],
+   "inference": "Within repha resides the one who is beloved of life.",
+   "uncertainties": [
+    "The identity of prāṇa-vallabhaḥ is not explicitly named"
+   ],
+   "plain_english": "Now listen, O great goddess: in repha is the beloved of life."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation and seed term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "identifies svāhā as great knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "first member of compound indicating tongue of fire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "second member of compound indicating tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle indicating declaration",
+     "morph": "f.nom.sg.ppp"
+    }
+   ],
+   "question": "How is svāhā identified in terms of knowledge and ritual function?",
+   "premises": [
+    "Svāhā is proclaimed as great knowledge",
+    "Svāhā is proclaimed as the tongue of fire"
+   ],
+   "inference": "Svāhā is both a great knowledge and the tongue of fire.",
+   "uncertainties": [],
+   "plain_english": "Svāhā indeed is proclaimed as the great knowledge and as the tongue of fire."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "first member of compound indicating māyā-bīja",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal or conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member of compound indicating four aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varga",
+     "gloss": "aims",
+     "grounds": "second member of compound indicating the four aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradāyinī",
+     "gloss": "bestowing",
+     "grounds": "agent noun indicating bestowal of the four aims",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What benefit is attributed to the māyā seed syllable for the goddess's devotee?",
+   "premises": [
+    "The māyā seed is named",
+    "The goddess is addressed",
+    "It bestows the four aims"
+   ],
+   "inference": "The māyā seed is presented as bestowing the four aims of life.",
+   "uncertainties": [
+    "The syntactic role of yadā is somewhat ambiguous in this context"
+   ],
+   "plain_english": "O goddess, the māyā seed bestows the four aims of life."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "praṇave",
+     "gloss": "in-praṇava",
+     "grounds": "locative indicating enclosure in oṃ",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṭitām",
+     "gloss": "enclosed",
+     "grounds": "past passive participle indicating enclosure",
+     "morph": "f.acc.sg.ppp"
+    },
+    {
+     "surface": "vidyām",
+     "gloss": "knowledge",
+     "grounds": "object of recitation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.optative.act √jap"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject who should perform the recitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation practice is prescribed for the wise practitioner regarding the enclosed knowledge?",
+   "premises": [
+    "The knowledge is enclosed in praṇava",
+    "A thousand recitations are specified",
+    "The wise one should recite"
+   ],
+   "inference": "The wise practitioner should recite the praṇava-enclosed knowledge a thousand times.",
+   "uncertainties": [],
+   "plain_english": "The wise one should recite a thousand times the knowledge enclosed in praṇava."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative particle indicating comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "annapūrṇā",
+     "gloss": "annapūrṇā",
+     "grounds": "name of the goddess Annapūrṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle completing comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "describes as supreme",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What equivalence and supreme status are asserted between Bhuvaneśī and Annapūrṇā?",
+   "premises": [
+    "Bhuvaneśī is named",
+    "Annapūrṇā is named",
+    "A comparison equates them as supreme"
+   ],
+   "inference": "Bhuvaneśī is equated with Annapūrṇā and affirmed as supreme.",
+   "uncertainties": [],
+   "plain_english": "O goddess, as Bhuvaneśī, so is Annapūrṇā supreme."
+  }
+ ]
+}

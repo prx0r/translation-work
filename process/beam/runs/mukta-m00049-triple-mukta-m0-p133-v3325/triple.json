@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "sāgaram+ca",
+     "gloss": "ocean-and",
+     "grounds": "ocean plus conjunction and",
+     "morph": "acc.sg.n + (indecl.)"
+    },
+    {
+     "surface": "samutsṛjya",
+     "gloss": "having-released",
+     "grounds": "absolutive from root utsṛj",
+     "morph": "absolutive (indecl.) + root utsṛj"
+    },
+    {
+     "surface": "prārthayan",
+     "gloss": "praying",
+     "grounds": "present participle from root prārth",
+     "morph": "pres.participle (nom.sg.m) + root prārth"
+    },
+    {
+     "surface": "nāgam",
+     "gloss": "naga",
+     "grounds": "direct object of worship",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative from root arc",
+     "morph": "3.sg.act-optative + root arc"
+    }
+   ],
+   "question": "Which being should be prayed to and worshipped after the ocean is released?",
+   "premises": [
+    "ocean is released",
+    "prayer is offered",
+    "naga is worshipped"
+   ],
+   "inference": "the ritual sequence moves from ocean release to naga worship",
+   "uncertainties": [
+    "exact ritual referent of naga remains unclear"
+   ],
+   "plain_english": "Having released the ocean, one should pray and worship the naga."
+  }
+ ]
+}

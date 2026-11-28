@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "ekākṣarapradātāraṃ",
+     "gloss": "one-syllable-giver",
+     "grounds": "accusative object; compound of one-syllable and giver",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun subject of the verb",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative object of the verb",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamānayet",
+     "gloss": "dishonors",
+     "grounds": "finite verb governing the accusative objects",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens to one who dishonors the guru who gives the one-syllable mantra?",
+   "premises": [
+    "Dishonoring the one-syllable giver is condemned.",
+    "The guru is named as an object of reverence.",
+    "The act is stated as a serious offense."
+   ],
+   "inference": "The verse condemns disrespect toward the guru who imparts the single syllable.",
+   "uncertainties": [
+    "The exact consequence is not stated in this excerpt."
+   ],
+   "plain_english": "Whoever dishonors the guru who gives the one-syllable mantra is condemned."
+  }
+ ]
+}

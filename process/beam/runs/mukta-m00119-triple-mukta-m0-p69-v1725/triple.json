@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive of pā, 'to drink'; marks completed drinking before the following ritual state",
+     "morph": "absolutive (indecl.)"
+    },
+    {
+     "surface": "kularasaṃ",
+     "gloss": "kula-rasa",
+     "grounds": "compound kula + rasa; object of pītvā; tantric ritual substance or essence",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-devi",
+     "grounds": "vocative address to the goddess in the ritual dialogue",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "nānālaṅkārabhūṣitam",
+     "gloss": "various-ornaments-adorned",
+     "grounds": "compound nānā + alaṅkāra + bhūṣita; describes the adorned ritual condition, with syntactic attachment left open",
+     "morph": "adj.acc.sg.m/n"
+    }
+   ],
+   "question": "What ritual condition is described after drinking kula-rasa while adorned?",
+   "premises": [
+    "kula-rasa is drunk in ritual",
+    "the drinker is adorned with ornaments",
+    "devi is directly addressed"
+   ],
+   "inference": "drinking kula-rasa occurs within an adorned ritual addressed to devi",
+   "uncertainties": [
+    "whether nānālaṅkārabhūṣitam modifies kularasaṃ or the drinker",
+    "exact ritual referent of kula-rasa"
+   ],
+   "plain_english": "Having drunk kula-rasa, O Devi, adorned with various ornaments."
+  }
+ ]
+}

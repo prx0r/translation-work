@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "abhāvāt",
+     "gloss": "from-absence",
+     "grounds": "ablative expressing reason or lack",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ādi+śaivānāṃ",
+     "gloss": "of-primordial-shaivas",
+     "grounds": "compound denoting the Adi-Shaiva priestly lineage",
+     "morph": "m.gen.pl, compound ādi+śaiva"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmāḥ",
+     "gloss": "brahmins",
+     "grounds": "subject in apposition with śiva+dvijāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śiva+dvijāḥ",
+     "gloss": "shiva-twice-born",
+     "grounds": "compound qualifying brahmins as devoted to Shiva",
+     "morph": "m.nom.pl, compound śiva+dvija"
+    }
+   ],
+   "question": "Which priests are authorized to officiate in the absence of Adi-Shaivas?",
+   "premises": [
+    "Adi-Shaivas may be absent in that context.",
+    "Brahmins are present there as possible officiants.",
+    "Those brahmins are identified as Shiva-twice-born."
+   ],
+   "inference": "In the absence of Adi-Shaivas, Shiva-twice-born brahmins are authorized there.",
+   "uncertainties": [
+    "Whether brāhmāḥ and śiva+dvijāḥ denote the same group or a subset is contextually implied but not explicitly marked."
+   ],
+   "plain_english": "In the absence of Adi-Shaivas there, the brahmins who are twice-born devotees of Shiva serve."
+  }
+ ]
+}

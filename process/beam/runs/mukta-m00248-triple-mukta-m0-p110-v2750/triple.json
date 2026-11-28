@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "dvilakṣa",
+     "gloss": "two-hundred-thousand",
+     "grounds": "numeral meaning two hundred thousand",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūsuraiḥ",
+     "gloss": "by-brahmins",
+     "grounds": "instrumental plural of bhūsura",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "past participle of yuj",
+     "morph": "pp.nom.sg.n"
+    },
+    {
+     "surface": "adhamaṃ",
+     "gloss": "inferior",
+     "grounds": "adjective modifying grāmam",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "grāmam",
+     "gloss": "village",
+     "grounds": "accusative singular of grāma",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What number of brahmins makes a village classified as inferior?",
+   "premises": [
+    "A village with two hundred thousand brahmins is inferior.",
+    "Six hundred thousand brahmins marks a middle-best village."
+   ],
+   "inference": "Thus an inferior village is endowed with two hundred thousand brahmins.",
+   "uncertainties": [
+    "The exact scope of bhūsura and village classification is unclear."
+   ],
+   "plain_english": "A village endowed with two hundred thousand brahmins is called inferior."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "caturān",
+     "gloss": "four",
+     "grounds": "numeral in accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhakāndūre",
+     "gloss": "practitioners-far-away",
+     "grounds": "fused form of sādhakān and dūre",
+     "morph": "m.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "svarurūndūradeśakān",
+     "gloss": "good-form-distant-place-ones",
+     "grounds": "accusative plural masculine; internal sandhi not resolved",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which four practitioners are to be kept far away despite having good form?",
+   "premises": [
+    "Four practitioners are named.",
+    "They are to be kept far away.",
+    "They possess good form."
+   ],
+   "inference": "The verse identifies four practitioners to be distanced.",
+   "uncertainties": [
+    "The third token's surface appears fused or corrupted, so its gloss is provisional."
+   ],
+   "plain_english": "Four practitioners, though of good form, are to be kept far away."
+  }
+ ]
+}

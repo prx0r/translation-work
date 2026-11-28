@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "saṃvatsaraḥ",
+     "gloss": "year",
+     "grounds": "time division invoked as consecrating agent; continues subject series from previous verses",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking listed agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayanau",
+     "gloss": "two-solstices",
+     "grounds": "pair of half-year courses invoked as consecrating agents",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking listed agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsāḥ",
+     "gloss": "months",
+     "grounds": "time divisions invoked as consecrating agents",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pakṣau",
+     "gloss": "two-fortnights",
+     "grounds": "pair of lunar fortnights invoked as consecrating agents",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dināni",
+     "gloss": "days",
+     "grounds": "time divisions invoked as consecrating agents",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle completing the listed series",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divisions of time are invoked as agents in the consecration?",
+   "premises": [
+    "The year is named as a consecrating agent.",
+    "The two solstices, months, and two fortnights are named as consecrating agents.",
+    "The days are named as consecrating agents."
+   ],
+   "inference": "Multiple divisions of time, from year to day, participate as agents in the consecration.",
+   "uncertainties": [
+    "The governing verb abhiṣiñcantu is supplied from the preceding verse."
+   ],
+   "plain_english": "And may the year, the two solstices, the months, the two fortnights, and the days consecrate you."
+  }
+ ]
+}

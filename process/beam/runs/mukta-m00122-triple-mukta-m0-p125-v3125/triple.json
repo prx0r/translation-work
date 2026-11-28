@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "praharantīstathārātīn",
+     "gloss": "striking-enemies-thus",
+     "grounds": "fused sandhi form; participle with tathā and arātīn",
+     "morph": "fem.nom.pl"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "remembering",
+     "grounds": "gerund of smṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayamavāpnuyāt",
+     "gloss": "obtains-victory",
+     "grounds": "optative of āp with jayam",
+     "morph": "3.sg.act-opt (āp)"
+    }
+   ],
+   "question": "How does one obtain victory after striking enemies while remembering?",
+   "premises": [
+    "striking enemies thus precedes victory",
+    "remembering accompanies the striking",
+    "victory is obtained afterward"
+   ],
+   "inference": "Victory follows from striking enemies while remembering.",
+   "uncertainties": [
+    "exact sandhi segmentation of praharantīstathārātīn"
+   ],
+   "plain_english": "Striking the enemies thus and remembering, one obtains victory."
+  }
+ ]
+}

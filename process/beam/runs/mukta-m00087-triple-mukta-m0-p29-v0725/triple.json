@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "pañcāṅgulīṣu",
+     "gloss": "five-fingers",
+     "grounds": "locative plural of pañcāṅgulī, the five fingers",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "karayor",
+     "gloss": "hands",
+     "grounds": "genitive dual of kara, the two hands",
+     "morph": "gen.du.m"
+    },
+    {
+     "surface": "brahmarandhre",
+     "gloss": "brahmarandhra",
+     "grounds": "locative singular of brahmarandhra, the crown aperture",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "mouth",
+     "grounds": "locative singular of mukha, the mouth",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "heart",
+     "grounds": "locative singular of hṛd, the heart",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Which bodily loci receive the Śrīvidyā nyāsa after the crown placement?",
+   "premises": [
+    "Śrīvidyā is placed on the crown in the previous verse.",
+    "The five fingers of the hands are named as a nyāsa locus.",
+    "Brahmarandhra, mouth, and heart are named as nyāsa loci."
+   ],
+   "inference": "The nyāsa extends from the crown to the fingers, brahmarandhra, mouth, and heart.",
+   "uncertainties": [
+    "The exact ritual order and function of each locus are not specified."
+   ],
+   "plain_english": "On the five fingers of the hands, in the brahmarandhra, in the mouth, and in the heart."
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "song": "mukta-m0-p240",
+ "items": [
+  {
+   "verse": 5976,
+   "rows": [
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "first member of compound describing the image",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "citram",
+     "gloss": "picture",
+     "grounds": "object fashioned as an image",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "athā",
+     "gloss": "then",
+     "grounds": "introduces an alternative or next item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāsaṃ",
+     "gloss": "shining",
+     "grounds": "qualifies the image as radiant or reflective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭādi",
+     "gloss": "cloth-etc",
+     "grounds": "material or support such as cloth and the like",
+     "morph": "n.acc.sg compound-member+head"
+    },
+    {
+     "surface": "parikalpitam",
+     "gloss": "fashioned",
+     "grounds": "indicates what is to be prepared or imagined",
+     "morph": "n.acc.sg ppp (pari-kḷp)"
+    }
+   ],
+   "question": "What kind of image or representation should be fashioned for the ritual?",
+   "premises": [
+    "A half-picture may be fashioned.",
+    "A shining image on cloth or similar material may be fashioned."
+   ],
+   "inference": "The ritual representation may take the form of a half-picture or a radiant image on cloth.",
+   "uncertainties": [
+    "The exact contrast between ardha-citram and bhāsaṃ paṭādi is context-dependent."
+   ],
+   "plain_english": "One may fashion a half-picture, or else a shining image on cloth or a similar support."
+  },
+  {
+   "verse": 5977,
+   "rows": [
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "dimension to be determined",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tayośca",
+     "gloss": "of-those-two-and",
+     "grounds": "refers to the two items mentioned previously",
+     "morph": "m/n.gen.du + (indecl.)"
+    },
+    {
+     "surface": "saṃgrāhyā",
+     "gloss": "to-be-taken",
+     "grounds": "prescribes adoption of the measure",
+     "morph": "f.nom.sg gerundive (sam-grah)"
+    },
+    {
+     "surface": "harmyād",
+     "gloss": "from-palace",
+     "grounds": "possible source for the measure",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "garbhagṛhādatha",
+     "gloss": "from-inner-sanctum-then",
+     "grounds": "alternative source for the measure",
+     "morph": "n.abl.sg + (indecl.)"
+    }
+   ],
+   "question": "From what locations should the measure of those two representations be taken?",
+   "premises": [
+    "The measure of the two representations must be determined.",
+    "The palace is a possible source for that measure.",
+    "The inner sanctum is another possible source for that measure."
+   ],
+   "inference": "The measure of those two representations should be taken from the palace or from the inner sanctum.",
+   "uncertainties": [],
+   "plain_english": "The measure of those two should be taken from the palace or from the inner sanctum."
+  },
+  {
+   "verse": 5978,
+   "rows": [
+    {
+     "surface": "ṣaḍyavādi",
+     "gloss": "six-barley-etc",
+     "grounds": "standard unit series beginning with six barley grains",
+     "morph": "compound-member+head"
+    },
+    {
+     "surface": "prabhedena",
+     "gloss": "by-distinction",
+     "grounds": "according to the specified division or standard",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "karturmātrāṅgulena",
+     "gloss": "by-maker-own-finger",
+     "grounds": "alternative measure using the maker's own finger unit",
+     "morph": "m.gen.sg + n.inst.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative standard",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which standard units may the prescribed measurement be determined?",
+   "premises": [
+    "Measurement may follow the six-barley and related distinctions.",
+    "Measurement may alternatively use the maker's own finger unit."
+   ],
+   "inference": "The measurement may be determined either by the six-barley standard or by the maker's own finger measure.",
+   "uncertainties": [
+    "The full sequence implied by ṣaḍyavādi is not spelled out in this verse."
+   ],
+   "plain_english": "It may be measured by the six-barley standard and its divisions, or by the maker's own finger measure."
+  },
+  {
+   "verse": 5979,
+   "rows": [
+    {
+     "surface": "tryaṅgulāḍhvdyaṅgula",
+     "gloss": "three-finger-plus-two-finger",
+     "grounds": "indicates incremental finger measures in the range",
+     "morph": "compound"
+    },
+    {
+     "surface": "ddharyātu",
+     "gloss": "upward-range",
+     "grounds": "marks progression in the measurement scale; form is obscure in transmission",
+     "morph": "unresolved-form"
+    },
+    {
+     "surface": "ṣaṇṇavatyaṅgulāntakam",
+     "gloss": "ending-at-ninety-six-fingers",
+     "grounds": "specifies the upper limit of the measure",
+     "morph": "n.acc.sg compound"
+    }
+   ],
+   "question": "What range of finger measures is permitted for the prescribed dimension?",
+   "premises": [
+    "The measure proceeds in finger-based increments.",
+    "The upper limit reaches ninety-six fingers."
+   ],
+   "inference": "The permitted dimension ranges through finger increments up to ninety-six fingers.",
+   "uncertainties": [
+    "The exact parsing and meaning of ddharyātu is unclear in this transmitted form."
+   ],
+   "plain_english": "The measure should range in finger increments up to ninety-six fingers."
+  },
+  {
+   "verse": 5980,
+   "rows": [
+    {
+     "surface": "vasunanda",
+     "gloss": "eight-nine",
+     "grounds": "numerical factors in the calculation",
+     "morph": "compound"
+    },
+    {
+     "surface": "guṇārddhyā",
+     "gloss": "by-three-increase",
+     "grounds": "another numerical factor or increment in the calculation",
+     "morph": "f.inst.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a specific calculation step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānu",
+     "gloss": "twelve",
+     "grounds": "numerical factor symbolized by the sun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāḍyaṣṭabhirhatam",
+     "gloss": "multiplied-by-eight-nāḍīs",
+     "grounds": "result multiplied by eight nāḍī units",
+     "morph": "n.nom.sg compound + ppp (han)"
+    }
+   ],
+   "question": "What numerical operations are prescribed in this stage of the measurement calculation?",
+   "premises": [
+    "The calculation involves the factors eight, nine, three, and twelve.",
+    "The result is multiplied by eight nāḍīs."
+   ],
+   "inference": "This stage prescribes combining those numerical factors and multiplying the result by eight nāḍīs.",
+   "uncertainties": [
+    "The exact arithmetical sequence of vasunanda and guṇārddhyā is not fully explicit."
+   ],
+   "plain_english": "Using the factors eight, nine, three, and twelve, multiply the result by eight nāḍīs."
+  },
+  {
+   "verse": 5981,
+   "rows": [
+    {
+     "surface": "navavedahṛdaṃ",
+     "gloss": "reduced-by-nine-and-four",
+     "grounds": "numerical reduction expressed symbolically",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "another numerical element in the calculation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navasaṃkhyāhṛtaṃ",
+     "gloss": "divided-by-number-nine",
+     "grounds": "specifies division by nine",
+     "morph": "n.acc.sg compound + ppp (hṛ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "continues the calculation rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "refers to the resulting quantity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further numerical reductions are applied to the calculated quantity?",
+   "premises": [
+    "The quantity undergoes a reduction expressed as navavedahṛdaṃ.",
+    "The quantity is also divided by the number nine."
+   ],
+   "inference": "The calculated quantity must be further reduced by those specified numerical operations.",
+   "uncertainties": [
+    "The symbolic value of navavedahṛdaṃ is not explicit in this verse alone."
+   ],
+   "plain_english": "Take that quantity, reduce it as specified, include seven, and divide it by nine."
+  },
+  {
+   "verse": 5982,
+   "rows": [
+    {
+     "surface": "mṛtanāmākṣareṇānukūlitaṃ",
+     "gloss": "made-favorable-by-deceased-name-letter",
+     "grounds": "adjustment based on a letter from the deceased person's name",
+     "morph": "n.nom.sg compound + ppp (anukūl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds a further condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyatām",
+     "gloss": "let-be-fixed",
+     "grounds": "prescribes final determination",
+     "morph": "3.sg.pass.imp (vi-dhā)"
+    }
+   ],
+   "question": "How should the final measure be adjusted according to the deceased person's name?",
+   "premises": [
+    "The measure can be made favorable by a letter of the deceased person's name.",
+    "The final determination must be carried out accordingly."
+   ],
+   "inference": "The final measure should be fixed in a way favorable to the letter of the deceased person's name.",
+   "uncertainties": [
+    "The specific method of deriving favorability from the name-letter is not stated here."
+   ],
+   "plain_english": "Let it also be adjusted favorably according to a letter of the deceased person's name and then fixed."
+  },
+  {
+   "verse": 5983,
+   "rows": [
+    {
+     "surface": "tadukta",
+     "gloss": "that-stated",
+     "grounds": "refers to what has been described above",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "tālabhedena",
+     "gloss": "by-tāla-distinction",
+     "grounds": "according to differences in tāla measure or rhythm",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "prescribes the action",
+     "morph": "n.nom.sg gerundive (kṛ)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "expresses injunction",
+     "morph": "3.sg.opt (as)"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the recipients",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "According to what distinction should the stated procedure be carried out, O best twice-born?",
+   "premises": [
+    "The procedure has already been stated.",
+    "It should be performed according to distinctions of tāla."
+   ],
+   "inference": "The stated procedure should be carried out according to the relevant tāla distinctions.",
+   "uncertainties": [
+    "Whether tāla refers to measurement, rhythm, or a specific standard is context-dependent."
+   ],
+   "plain_english": "O best of the twice-born, it should be done according to the stated distinctions of tāla."
+  },
+  {
+   "verse": 5984,
+   "rows": [
+    {
+     "surface": "āsīnaṃ",
+     "gloss": "seated",
+     "grounds": "one possible posture of the figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snānakaṃ",
+     "gloss": "bathing",
+     "grounds": "another possible posture or state of the figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāhanārūḍhameva",
+     "gloss": "mounted-on-vehicle-indeed",
+     "grounds": "another possible depiction of the figure",
+     "morph": "n.acc.sg compound + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks a further alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What postures or states may the represented figure assume in this rite?",
+   "premises": [
+    "The figure may be represented as seated.",
+    "The figure may be represented as bathing.",
+    "The figure may be represented as mounted on a vehicle."
+   ],
+   "inference": "The represented figure may be depicted seated, bathing, or mounted on a vehicle.",
+   "uncertainties": [],
+   "plain_english": "It may be depicted seated, bathing, or mounted on a vehicle."
+  },
+  {
+   "verse": 5985,
+   "rows": [
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "specifies a lower placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayedvidvānubhayaṃ",
+     "gloss": "wise-one-should-arrange-both",
+     "grounds": "the knowledgeable practitioner may arrange both options",
+     "morph": "3.sg.opt (kḷp) + m.nom.sg + n.acc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyatām",
+     "gloss": "let-be-done",
+     "grounds": "prescribes execution of the arrangement",
+     "morph": "3.sg.pass.imp (vi-dhā)"
+    }
+   ],
+   "question": "How may the knowledgeable practitioner arrange the figure's placement in this context?",
+   "premises": [
+    "Placement below is an option.",
+    "The wise practitioner may arrange both possibilities."
+   ],
+   "inference": "The knowledgeable practitioner may place it below or arrange both options as prescribed.",
+   "uncertainties": [
+    "The exact referent of ubhayam is not specified in this verse."
+   ],
+   "plain_english": "The wise one may arrange it below, or arrange both; let it be done accordingly."
+  },
+  {
+   "verse": 5986,
+   "rows": [
+    {
+     "surface": "āsanonmāna",
+     "gloss": "seat-measure",
+     "grounds": "measure related to the seat",
+     "morph": "compound-member+head"
+    },
+    {
+     "surface": "vistārāyāmaṃ",
+     "gloss": "width-and-length",
+     "grounds": "dimensions of breadth and extent",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "likewise",
+     "grounds": "indicates the same manner as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alaṃkṛtim",
+     "gloss": "ornamentation",
+     "grounds": "decorative arrangement to be applied",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What dimensions and decoration should be applied in the same manner as before?",
+   "premises": [
+    "The seat's measure, width, and length must be considered.",
+    "The ornamentation should follow the same manner."
+   ],
+   "inference": "The seat's dimensions and its ornamentation should be arranged in the same manner as previously described.",
+   "uncertainties": [],
+   "plain_english": "Likewise, arrange the seat's measure, width, length, and ornamentation in the same way."
+  },
+  {
+   "verse": 5987,
+   "rows": [
+    {
+     "surface": "śikhī",
+     "gloss": "tufted",
+     "grounds": "figure with a tuft of hair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddhakeśī",
+     "gloss": "bound-hair",
+     "grounds": "figure with hair tied up",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṇḍito",
+     "gloss": "shaved",
+     "grounds": "figure with shaved head",
+     "morph": "m.nom.sg ppp (muṇḍ)"
+    },
+    {
+     "surface": "jaṭilothavā",
+     "gloss": "or-matted-haired",
+     "grounds": "figure with matted locks as another option",
+     "morph": "m.nom.sg + (indecl.) compound"
+    }
+   ],
+   "question": "What hairstyles may the represented figure have in the prescribed depiction?",
+   "premises": [
+    "The figure may be tufted.",
+    "The figure may have bound hair.",
+    "The figure may be shaved or have matted locks."
+   ],
+   "inference": "The figure may be depicted with a tuft, bound hair, a shaved head, or matted locks.",
+   "uncertainties": [],
+   "plain_english": "The figure may be tufted, have bound hair, be shaved, or have matted locks."
+  },
+  {
+   "verse": 5988,
+   "rows": [
+    {
+     "surface": "yatheṣṭāyudhayukto",
+     "gloss": "equipped-with-desired-weapon",
+     "grounds": "figure bearing any chosen weapon",
+     "morph": "m.nom.sg compound + ppp (yuj)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskārayuto'thavā",
+     "gloss": "or-equipped-with-salutation",
+     "grounds": "figure shown with hands in salutation",
+     "morph": "m.nom.sg compound + (indecl.)"
+    }
+   ],
+   "question": "What attributes may the represented figure bear in its hands or posture?",
+   "premises": [
+    "The figure may be equipped with any desired weapon.",
+    "The figure may alternatively be shown with hands in salutation."
+   ],
+   "inference": "The figure may be depicted bearing a chosen weapon or making a gesture of salutation.",
+   "uncertainties": [],
+   "plain_english": "It may be equipped with any desired weapon, or shown with hands joined in salutation."
+  },
+  {
+   "verse": 5989,
+   "rows": [
+    {
+     "surface": "gāyakāḥ",
+     "gloss": "singers",
+     "grounds": "attendant figures depicted as singers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nṛttayuktā",
+     "gloss": "joined-with-dance",
+     "grounds": "attendant figures engaged in dance",
+     "morph": "m.nom.pl compound + ppp (yuj)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjakā",
+     "gloss": "worshippers",
+     "grounds": "attendant figures depicted as worshippers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatheṣṭakam",
+     "gloss": "as-desired",
+     "grounds": "allows other desired depictions",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What accompanying figures or activities may be included in the depiction as desired?",
+   "premises": [
+    "Singers may be included.",
+    "Dancers may be included.",
+    "Worshippers or other desired figures may be included."
+   ],
+   "inference": "The depiction may include singers, dancers, worshippers, or other figures as desired.",
+   "uncertainties": [],
+   "plain_english": "There may be singers, dancers, worshippers, or whatever else is desired."
+  },
+  {
+   "verse": 5990,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "concludes the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇamākhyātaṃ",
+     "gloss": "characteristics-declared",
+     "grounds": "states that the defining features have been explained",
+     "morph": "n.nom.sg compound + ppp (ā-khyā)"
+    },
+    {
+     "surface": "pratiṣṭhādyaṃ",
+     "gloss": "consecration-etc",
+     "grounds": "introduces the next topic beginning with consecration",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-being-stated",
+     "grounds": "announces the forthcoming exposition",
+     "morph": "3.sg.pass.pres (ni-gad)"
+    }
+   ],
+   "question": "What topic is announced after the characteristics of the image have been declared?",
+   "premises": [
+    "The characteristics have thus been declared.",
+    "The next topic beginning with consecration is now stated."
+   ],
+   "inference": "After declaring the characteristics, the text proceeds to explain consecration and related rites.",
+   "uncertainties": [],
+   "plain_english": "Thus the characteristics have been declared; now consecration and the rest will be explained."
+  },
+  {
+   "verse": 5991,
+   "rows": [
+    {
+     "surface": "tato'ṅkurārpaṇaṃ",
+     "gloss": "then-sprout-offering",
+     "grounds": "ritual of offering sprouts",
+     "morph": "(indecl.) + n.acc.sg compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt (kṛ)"
+    },
+    {
+     "surface": "pratiṣṭhārthaṃ",
+     "gloss": "for-consecration",
+     "grounds": "states the purpose of the rite",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "purā",
+     "gloss": "before",
+     "grounds": "specifies that it is done beforehand",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory rite must be performed before the consecration?",
+   "premises": [
+    "The sprout-offering is performed for the sake of consecration.",
+    "It is to be done beforehand."
+   ],
+   "inference": "The sprout-offering should be performed beforehand for the purpose of consecration.",
+   "uncertainties": [],
+   "plain_english": "Then, before the consecration, one should perform the sprout-offering for its sake."
+  },
+  {
+   "verse": 5992,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "prepared ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavatkṛtvā",
+     "gloss": "having-made-as-before",
+     "grounds": "instructs to prepare it in the previously described manner",
+     "morph": "(indecl.) + gerund (kṛ)"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "specifies placement on top of the altar",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vinyasetpaṭam",
+     "gloss": "one-should-place-cloth",
+     "grounds": "prescribes placing a cloth on the altar",
+     "morph": "3.sg.opt (vi-ni-as) + m.acc.sg compound"
+    }
+   ],
+   "question": "How should the altar and cloth be arranged in preparation for the rite?",
+   "premises": [
+    "An altar-ground should be prepared as before.",
+    "A cloth should be placed above that altar-ground."
+   ],
+   "inference": "One should prepare the altar as before and place a cloth upon it.",
+   "uncertainties": [],
+   "plain_english": "Having prepared the altar-ground as before, one should place a cloth upon it."
+  },
+  {
+   "verse": 5993,
+   "rows": [
+    {
+     "surface": "hema sūci prahārābhiḥ",
+     "gloss": "by-gold-needle-strikes",
+     "grounds": "instrumental means for marking the cloth",
+     "morph": "n.compound + f.inst.pl compound"
+    },
+    {
+     "surface": "kṛṣṇamaṇḍalamālikhet",
+     "gloss": "one-should-draw-black-circle",
+     "grounds": "prescribes drawing a black circle",
+     "morph": "n.acc.sg compound + 3.sg.opt (ā-likh)"
+    }
+   ],
+   "question": "What marking should be drawn on the cloth and by what means?",
+   "premises": [
+    "A black circle is to be drawn.",
+    "The drawing is done by strikes of a gold needle."
+   ],
+   "inference": "One should draw a black circle on the cloth using a gold needle.",
+   "uncertainties": [],
+   "plain_english": "With strokes of a gold needle, one should draw a black circle."
+  },
+  {
+   "verse": 5994,
+   "rows": [
+    {
+     "surface": "netra mantraṃ",
+     "gloss": "eye-mantra",
+     "grounds": "the mantra associated with the eye",
+     "morph": "n.compound + m.acc.sg"
+    },
+    {
+     "surface": "samucārya",
+     "gloss": "having-uttered",
+     "grounds": "preparatory recitation before the act",
+     "morph": "gerund (sam-ud-car)"
+    },
+    {
+     "surface": "kriyāmetāṃ",
+     "gloss": "this-action",
+     "grounds": "refers to the act just prescribed",
+     "morph": "f.acc.sg + f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes carrying out the action",
+     "morph": "3.sg.opt (sam-ā-car)"
+    }
+   ],
+   "question": "What mantra must be recited when performing the prescribed drawing action?",
+   "premises": [
+    "The eye-mantra is to be uttered.",
+    "This action is to be performed after that utterance."
+   ],
+   "inference": "One should utter the eye-mantra and then perform this action.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the eye-mantra, one should perform this action."
+  },
+  {
+   "verse": 5995,
+   "rows": [
+    {
+     "surface": "madhvājya pūritaṃ",
+     "gloss": "filled-with-honey-ghee",
+     "grounds": "describes the contents of the vessels",
+     "morph": "n.compound + n.acc.sg ppp (pṛ)"
+    },
+    {
+     "surface": "pātradvayaṃ",
+     "gloss": "pair-of-vessels",
+     "grounds": "two vessels to be used",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "to-it",
+     "grounds": "refers to the image or ritual object",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "one-should-show",
+     "grounds": "prescribes presenting the vessels",
+     "morph": "3.sg.opt.caus (pra-dṛś)"
+    }
+   ],
+   "question": "What vessels and contents should be presented to the ritual object?",
+   "premises": [
+    "Two vessels are to be prepared.",
+    "They are filled with honey and ghee."
+   ],
+   "inference": "One should present two vessels filled with honey and ghee to it.",
+   "uncertainties": [
+    "The exact referent of tasya depends on the immediate ritual context."
+   ],
+   "plain_english": "One should show it two vessels filled with honey and ghee."
+  },
+  {
+   "verse": 5996,
+   "rows": [
+    {
+     "surface": "dhānyāni",
+     "gloss": "grains",
+     "grounds": "offerings of grain",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "gāṃ savatsāṃ",
+     "gloss": "cow-with-calf",
+     "grounds": "a cow accompanied by her calf",
+     "morph": "f.acc.sg + f.acc.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyakāṃ",
+     "gloss": "maiden",
+     "grounds": "a young girl included in the procession",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brahmaṇanāpi",
+     "gloss": "and-also-brahmin",
+     "grounds": "a brahmin also included; sandhi fused in token",
+     "morph": "m.acc.sg + (indecl.) compound"
+    }
+   ],
+   "question": "What persons and offerings are to be included alongside the ritual presentation?",
+   "premises": [
+    "Grains are to be included.",
+    "A cow with her calf is to be included.",
+    "A maiden and a brahmin are also to be included."
+   ],
+   "inference": "The presentation should include grains, a cow with calf, a maiden, and a brahmin.",
+   "uncertainties": [
+    "The exact form brahmaṇanāpi is a fused transmission; it is taken as brāhmaṇam api."
+   ],
+   "plain_english": "One should include grains, a cow with her calf, a maiden, and also a brahmin."
+  },
+  {
+   "verse": 5997,
+   "rows": [
+    {
+     "surface": "sarvālaṃkāra saṃyuktaṃ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "describes the fully decorated state of what is led",
+     "morph": "m.compound + n.acc.sg ppp (sam-yuj)"
+    },
+    {
+     "surface": "grāmādau",
+     "gloss": "in-village-etc",
+     "grounds": "location for the circumambulation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhramaṇaṃ",
+     "gloss": "circumambulation",
+     "grounds": "ritual procession or moving around",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "prescribes conducting the procession",
+     "morph": "3.sg.opt (nī)"
+    }
+   ],
+   "question": "Where and in what condition should the ritual circumambulation be conducted?",
+   "premises": [
+    "The procession is to be fully adorned with all ornaments.",
+    "The circumambulation takes place in the village and similar places."
+   ],
+   "inference": "One should lead a fully adorned circumambulation in the village and related areas.",
+   "uncertainties": [],
+   "plain_english": "Adorned with all ornaments, one should lead the circumambulation in the village and so forth."
+  },
+  {
+   "verse": 5998,
+   "rows": [
+    {
+     "surface": "yāgārthaṃ",
+     "gloss": "for-ritual",
+     "grounds": "states the purpose of the pavilion",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "ritual structure to be constructed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescribes construction",
+     "morph": "3.sg.opt (kṛ)"
+    },
+    {
+     "surface": "nāmenāgre'sya",
+     "gloss": "by-name-in-front-of-it",
+     "grounds": "indicates marking or placement by name in front; sandhi fused",
+     "morph": "n.inst.sg + n.loc.sg + m/n.gen.sg compound"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-both-sides",
+     "grounds": "specifies placement at the sides",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "For what purpose and with what placement should the ritual pavilion be constructed?",
+   "premises": [
+    "A pavilion should be made for the ritual.",
+    "Its placement involves the name in front and the two sides."
+   ],
+   "inference": "One should construct a ritual pavilion, arranging it by name in front and on both sides.",
+   "uncertainties": [
+    "The precise syntactic relation of nāmenāgre'sya to the pavilion is somewhat compressed."
+   ],
+   "plain_english": "One should make a pavilion for the ritual, with its name in front and on both sides."
+  },
+  {
+   "verse": 5999,
+   "rows": [
+    {
+     "surface": "udvāsya",
+     "gloss": "having-dismissed",
+     "grounds": "ritual dismissal of the artisan",
+     "morph": "gerund (ud-vas-caus)"
+    },
+    {
+     "surface": "śilpinaṃ",
+     "gloss": "artisan",
+     "grounds": "the craftsman who performed the work",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indicates the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprabhojanamācaret",
+     "gloss": "one-should-perform-brahmin-feeding",
+     "grounds": "prescribes feeding brahmins as the concluding act",
+     "morph": "n.acc.sg compound + 3.sg.opt (ā-car)"
+    }
+   ],
+   "question": "What concluding actions should follow after dismissing the artisan from the ritual work?",
+   "premises": [
+    "The artisan is to be dismissed after the work.",
+    "Feeding brahmins is to be performed afterwards."
+   ],
+   "inference": "After dismissing the artisan, one should perform the feeding of brahmins.",
+   "uncertainties": [],
+   "plain_english": "Having dismissed the artisan, one should afterwards perform the feeding of brahmins."
+  }
+ ]
+}

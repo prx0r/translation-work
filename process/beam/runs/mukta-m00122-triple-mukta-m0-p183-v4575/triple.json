@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p183",
+ "items": [
+  {
+   "verse": 4575,
+   "rows": [
+    {
+     "surface": "kuryyānmantramabhīṣṭārthagamakaṃ",
+     "gloss": "should-do-mantra-desired-object-attaining",
+     "grounds": "fused form analyzed as given; internal sandhi not split; optative of kṛ with accusative mantra and adjective",
+     "morph": "verb 3.sg.optative active + acc.sg.noun + acc.sg.adj"
+    },
+    {
+     "surface": "proktayogataḥ",
+     "gloss": "by-proclaimed-yoga",
+     "grounds": "compound form with taḥ ending; analyzed as given without splitting",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Should one make a mantra that attains the desired object by the proclaimed yoga?",
+   "premises": [
+    "One should make mantra.",
+    "Mantra attains desired object.",
+    "Proclaimed yoga is means."
+   ],
+   "inference": "By the proclaimed yoga, one should make a mantra that attains the desired object.",
+   "uncertainties": [
+    "Fused token parsing is uncertain; exact internal sandhi is not expanded."
+   ],
+   "plain_english": "By the proclaimed yoga, one should make a mantra that attains the desired object."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "śiva+ākāśa+vinirmuktaṃ",
+     "gloss": "freed-from-shiva-space",
+     "grounds": "compound of śiva, ākāśa, and vinirmukta; denotes what is freed from śiva-space",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gahanaṃ",
+     "gloss": "impenetrable",
+     "grounds": "adjective describing the freed space",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "mūla+nāśanam",
+     "gloss": "root-destruction",
+     "grounds": "compound of mūla and nāśana; denotes destruction of the root",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What is the nature of the space freed from śiva-space?",
+   "premises": [
+    "the freed space is impenetrable",
+    "it is called root-destruction",
+    "it lies beyond śiva-space"
+   ],
+   "inference": "The space beyond śiva-space is impenetrable and brings about root-destruction.",
+   "uncertainties": [
+    "exact referent of root-destruction remains unresolved"
+   ],
+   "plain_english": "The space freed from śiva-space is impenetrable and is root-destruction."
+  }
+ ]
+}

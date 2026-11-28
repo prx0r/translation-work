@@ -1,0 +1,81 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "śāradāpaṭale",
+     "gloss": "in-Śāradāpaṭala",
+     "grounds": "locative ending -e on compound noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "granthe",
+     "gloss": "in-text",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "trailokyaprathite",
+     "gloss": "renowned-in-three-worlds",
+     "grounds": "locative adjective modifying granthe",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative singular masculine",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "47",
+     "gloss": "forty-seven",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "section-end",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pha",
+     "gloss": "section-marker",
+     "grounds": "editorial section label",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "section-end",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which text is declared renowned throughout the three worlds?",
+   "premises": [
+    "Verse names Śāradāpaṭala as text.",
+    "Text is renowned in three worlds.",
+    "Address is to Śiva."
+   ],
+   "inference": "The colophon identifies Śāradāpaṭala as the renowned text.",
+   "uncertainties": [
+    "Exact grammatical case of trailokyaprathite is inferred from context."
+   ],
+   "plain_english": "In the Śāradāpaṭala, the text renowned in the three worlds, O Śiva."
+  }
+ ]
+}

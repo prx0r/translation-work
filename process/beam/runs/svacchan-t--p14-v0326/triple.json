@@ -1,0 +1,425 @@
+{
+ "song": "sva-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "pāśāḥ",
+     "gloss": "bonds",
+     "grounds": "nominative plural masculine noun",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular masculine noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the remainder called bonds?",
+   "premises": [
+    "pāśāḥ means bonds",
+    "śeṣaḥ means remainder"
+   ],
+   "inference": "The remainder is identified as bonds.",
+   "uncertainties": [],
+   "plain_english": "The remainder is bonds."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "bhittibhūte",
+     "gloss": "wall-become",
+     "grounds": "locative absolute participle",
+     "morph": "part.loc.sg.n"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute participle",
+     "morph": "part.loc.sg.n"
+    },
+    {
+     "surface": "anyanmaladvayam",
+     "gloss": "other-two-impurities",
+     "grounds": "nominative singular neuter compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "nominative singular masculine compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the meaning when wall-become being?",
+   "premises": [
+    "bhittibhūte sati sets condition",
+    "anyanmaladvayam names other two impurities"
+   ],
+   "inference": "The meaning is the other two impurities.",
+   "uncertainties": [],
+   "plain_english": "When wall-become being, the meaning is the other two impurities."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "dānakṣapaṇātmā",
+     "gloss": "giving-destruction-nature",
+     "grounds": "nominative singular masculine compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "nominative singular feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "third singular passive present verb",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What is done with giving-destruction nature?",
+   "premises": [
+    "dīkṣā means initiation",
+    "kriyate means is done"
+   ],
+   "inference": "Initiation of giving-destruction nature is done.",
+   "uncertainties": [],
+   "plain_english": "Initiation, whose nature is giving and destruction, is done."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirṇītameva",
+     "gloss": "determined-indeed",
+     "grounds": "nominative singular neuter participle",
+     "morph": "part.nom.sg.n"
+    }
+   ],
+   "question": "What has been determined indeed?",
+   "premises": [
+    "tathā means thus",
+    "nirṇītameva means determined indeed"
+   ],
+   "inference": "The matter is thus determined indeed.",
+   "uncertainties": [],
+   "plain_english": "Thus it is indeed determined."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "saṃnidhimudrābandhanapūrvam",
+     "gloss": "proximity-seal-binding-prior",
+     "grounds": "adverbial compound",
+     "morph": "adv"
+    },
+    {
+     "surface": "agnikuṇḍe",
+     "gloss": "fire-pit-in",
+     "grounds": "locative singular neuter noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "avasthāpayet",
+     "gloss": "place",
+     "grounds": "third singular optative active verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should one place with prior binding?",
+   "premises": [
+    "agnikuṇḍe means in fire pit",
+    "avasthāpayet means place"
+   ],
+   "inference": "One places in the fire pit after prior binding.",
+   "uncertainties": [],
+   "plain_english": "After prior proximity-seal binding, place in the fire pit."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "third singular optative active verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular masculine noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the remainder of should-give?",
+   "premises": [
+    "dadyāt means should give",
+    "śeṣaḥ means remainder"
+   ],
+   "inference": "The remainder concerns giving.",
+   "uncertainties": [],
+   "plain_english": "The remainder is should give."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "sūtrasthaṃ",
+     "gloss": "thread-placed",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "chindyāt",
+     "gloss": "cut",
+     "grounds": "third singular optative active verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be cut when thread-placed?",
+   "premises": [
+    "sūtrasthaṃ means thread-placed",
+    "chindyāt means cut"
+   ],
+   "inference": "One should cut the thread-placed thing.",
+   "uncertainties": [],
+   "plain_english": "Cut what is placed on the thread."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "dhruveṇa",
+     "gloss": "by-constant",
+     "grounds": "instrumental singular masculine noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "tatsthaṃ",
+     "gloss": "there-placed",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "saṃpuṭya",
+     "gloss": "enclose",
+     "grounds": "absolutive participle",
+     "morph": "abs"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mudrayātmani",
+     "gloss": "seal-in-self",
+     "grounds": "locative singular masculine compound",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What is sealed in self by constant?",
+   "premises": [
+    "dhruveṇa means by constant",
+    "mudrayātmani means seal in self"
+   ],
+   "inference": "Consciousness is sealed in self by constant.",
+   "uncertainties": [],
+   "plain_english": "By constant, enclose consciousness and seal it in self."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "saṃhārākhyayā",
+     "gloss": "by-dissolution-named",
+     "grounds": "instrumental singular feminine noun",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "ātmanī",
+     "gloss": "in-self",
+     "grounds": "locative singular masculine noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svahṛdaye",
+     "gloss": "own-heart",
+     "grounds": "locative singular neuter noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "bhairaveṇa",
+     "gloss": "by-bhairava",
+     "grounds": "instrumental singular masculine noun",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "niṣkalena",
+     "gloss": "partless",
+     "grounds": "instrumental singular masculine adjective",
+     "morph": "adj.inst.sg.m"
+    }
+   ],
+   "question": "Where is dissolution-named in self?",
+   "premises": [
+    "ātmanī means in self",
+    "svahṛdaye means own heart"
+   ],
+   "inference": "Dissolution-named in self is in own heart by Bhairava partless.",
+   "uncertainties": [],
+   "plain_english": "By dissolution-named in self, in own heart, by partless Bhairava."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "yojanaṃ",
+     "gloss": "joining",
+     "grounds": "nominative singular neuter noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vāgīśīgarbhe",
+     "gloss": "vāgīśī-womb",
+     "grounds": "locative singular feminine compound",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "bhavamudrā",
+     "gloss": "bhava-seal",
+     "grounds": "nominative singular feminine compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "liṅgamudrā",
+     "gloss": "liṅga-seal",
+     "grounds": "nominative singular feminine compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What joining occurs in vāgīśī womb?",
+   "premises": [
+    "yojanaṃ means joining",
+    "vāgīśīgarbhe means in vāgīśī womb"
+   ],
+   "inference": "Joining in vāgīśī womb is bhava-seal and liṅga-seal.",
+   "uncertainties": [],
+   "plain_english": "Joining in the womb of vāgīśī is bhava-seal and liṅga-seal."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "arthāt",
+     "gloss": "meaning",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhvanī",
+     "gloss": "path",
+     "grounds": "locative singular masculine noun",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛte",
+     "gloss": "in-context",
+     "grounds": "locative singular neuter participle",
+     "morph": "part.loc.sg.n"
+    },
+    {
+     "surface": "nivṛttikalāpradhāne",
+     "gloss": "withdrawal-kalā-predominant",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What is the meaning in context?",
+   "premises": [
+    "arthāt means meaning",
+    "prakṛte means in context"
+   ],
+   "inference": "The meaning is path in context of withdrawal-kalā-predominant.",
+   "uncertainties": [],
+   "plain_english": "Meaning: path, in context, withdrawal-kalā-predominant."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "bahutvam",
+     "gloss": "multiplicity",
+     "grounds": "nominative singular neuter noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "visṛṣṭiḥ",
+     "gloss": "emanation",
+     "grounds": "nominative singular feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "niyatabhogārthaṃ",
+     "gloss": "for-fixed-enjoyment",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "saṃyojanam",
+     "gloss": "joining",
+     "grounds": "nominative singular neuter noun",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What is multiplicity and emanation for?",
+   "premises": [
+    "bahutvam means multiplicity",
+    "visṛṣṭiḥ means emanation"
+   ],
+   "inference": "Multiplicity and emanation are for fixed enjoyment and joining.",
+   "uncertainties": [],
+   "plain_english": "Multiplicity, emanation, for fixed enjoyment, joining."
+  }
+ ]
+}

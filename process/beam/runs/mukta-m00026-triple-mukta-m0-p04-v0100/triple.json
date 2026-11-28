@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "jīrva",
+     "gloss": "individual-soul",
+     "grounds": "object to be established; surface form as given, possibly variant of jīva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuṇḍalinīṃ",
+     "gloss": "kuṇḍalinī",
+     "grounds": "coiled power placed together with the soul",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śabdañ",
+     "gloss": "sound",
+     "grounds": "sound principle; final m becomes ñ before ca by sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed entities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājñāpatre",
+     "gloss": "in-ājñā-lotus",
+     "grounds": "locus of placement; compound ājñā+patra",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction for yogic installation",
+     "morph": "3.sg.act-opt (ni-√dhā, caus.)"
+    }
+   ],
+   "question": "Which entities must be established in the ājñā lotus during this yogic installation?",
+   "premises": [
+    "The individual soul is designated for placement.",
+    "Kuṇḍalinī and sound are included as objects of placement.",
+    "The ājñā lotus serves as the specified locus for this placement."
+   ],
+   "inference": "The practitioner should establish the individual soul, kuṇḍalinī, and sound in the ājñā lotus.",
+   "uncertainties": [
+    "The surface form jīrva may be a textual variant of jīva."
+   ],
+   "plain_english": "One should place the individual soul, kuṇḍalinī, and sound in the ājñā lotus."
+  }
+ ]
+}

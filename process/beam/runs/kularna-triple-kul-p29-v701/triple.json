@@ -1,0 +1,563 @@
+{
+ "song": "kul-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "locative sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "phalake",
+     "gloss": "on-board",
+     "grounds": "locative sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūdhnī",
+     "gloss": "on-head",
+     "grounds": "locative sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīttītāḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are the ten declared forms placed?",
+   "premises": [
+    "forms are declared in ten places",
+    "placement includes circle board head heart"
+   ],
+   "inference": "the declared forms may be installed in several bodily or ritual loci",
+   "uncertainties": [
+    "exact referent of declared forms"
+   ],
+   "plain_english": "The ten declared forms are placed in the circle, board, head, or heart."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "arūpāṃ",
+     "gloss": "formless",
+     "grounds": "feminine accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rūpiṇīṃ",
+     "gloss": "formed",
+     "grounds": "feminine accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmakāṇḍaratā",
+     "gloss": "ritual-action-devoted",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "men",
+     "grounds": "plural nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do ritual-devoted men treat the formless and formed?",
+   "premises": [
+    "men devoted to ritual action make formless into formed",
+    "they thereby engage formed worship"
+   ],
+   "inference": "ritual practitioners transform the formless into a formed object of worship",
+   "uncertainties": [
+    "whether arūpāṃ and rūpiṇīṃ are one deity or two"
+   ],
+   "plain_english": "Men devoted to ritual action make the formless into a formed image."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvagato",
+     "gloss": "all-pervading",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratimādiṣu",
+     "gloss": "in-images-etc",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Where does the all-pervading god shine?",
+   "premises": [
+    "the god is all-pervading",
+    "the god shines in images and similar forms"
+   ],
+   "inference": "divine presence is not limited to one image but shines through many forms",
+   "uncertainties": [
+    "scope of ādi in pratimādiṣu"
+   ],
+   "plain_english": "Thus the all-pervading god shines in images and the like."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-practitioner",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvāsāt",
+     "gloss": "from-faith",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What makes the deity present for the practitioner?",
+   "premises": [
+    "the practitioner has faith",
+    "the deity becomes present in that presence"
+   ],
+   "inference": "faith of the practitioner brings the deity into presence",
+   "uncertainties": [
+    "whether sannidhau is physical or mental presence"
+   ],
+   "plain_english": "Through the practitioner's faith, the deity becomes present."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "svakarmaracitaṃ",
+     "gloss": "self-action-made",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmeva",
+     "gloss": "her-only",
+     "grounds": "emphatic pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "poṣayet",
+     "gloss": "nourishes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be nourished after giving?",
+   "premises": [
+    "what is made by one's own action is given",
+    "after giving it one nourishes her only"
+   ],
+   "inference": "the practitioner should continue to nourish the deity after offering",
+   "uncertainties": [
+    "identity of tām"
+   ],
+   "plain_english": "What one's own action has made and given should again nourish her alone."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "copāsanāṃ",
+     "gloss": "and-worship",
+     "grounds": "fused conjunction and noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Does worshipless ritual give fruit to men?",
+   "premises": [
+    "without worship the goddess does not give fruit",
+    "the fruit is for men"
+   ],
+   "inference": "ritual without worship does not yield fruit for people",
+   "uncertainties": [
+    "whether copāsanāṃ means and-worship or worship"
+   ],
+   "plain_english": "Without worship, O goddess, she does not give fruit to men."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāpyārcayeddevi",
+     "gloss": "having-installed",
+     "grounds": "fused compound verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "fused conjunction and adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens if installation and worship are not done properly?",
+   "premises": [
+    "one should install and worship",
+    "otherwise it becomes fruitless"
+   ],
+   "inference": "improper installation and worship make the rite fruitless",
+   "uncertainties": [
+    "exact parsing of fused verb"
+   ],
+   "plain_english": "Having installed and worshipped, O goddess; otherwise it becomes fruitless."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "kṣamayā",
+     "gloss": "by-patience",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplishes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hīnamaṅgaṃ",
+     "gloss": "deficient-limb",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "step",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is a deficient step accomplished?",
+   "premises": [
+    "by patience one accomplishes all",
+    "even a deficient step is so accomplished"
+   ],
+   "inference": "patience can complete what is lacking in ritual procedure",
+   "uncertainties": [
+    "whether hīnamaṅgaṃ modifies padaṃ or sarvaṃ"
+   ],
+   "plain_english": "By patience one accomplishes all, even a deficient step."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcidapyasya",
+     "gloss": "anything",
+     "grounds": "fused pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kramadoṣataḥ",
+     "gloss": "from-procedure-fault",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Does a procedural fault yield fruit?",
+   "premises": [
+    "nothing of its fruit succeeds",
+    "from a fault in procedure"
+   ],
+   "inference": "a faulty procedure prevents the rite from succeeding",
+   "uncertainties": [
+    "whether asya refers to rite or practitioner"
+   ],
+   "plain_english": "Nothing of its fruit succeeds because of a fault in procedure."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtānīha",
+     "gloss": "done",
+     "grounds": "fused participle and adverb",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "satkarmāṇi",
+     "gloss": "good-actions",
+     "grounds": "compound noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "phalanti",
+     "gloss": "bear-fruit",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do properly done good actions bear fruit?",
+   "premises": [
+    "good actions done according to rule",
+    "they indeed bear fruit here"
+   ],
+   "inference": "rule-governed good actions produce their fruit",
+   "uncertainties": [
+    "scope of iha"
+   ],
+   "plain_english": "Good actions done according to rule indeed bear fruit here."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "devatāprītidaṃ",
+     "gloss": "deity-pleasing-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūyād",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhuktimuktiphalapradam",
+     "gloss": "enjoyment-liberation-fruit-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should the rite be?",
+   "premises": [
+    "it should be deity-pleasing",
+    "it should give enjoyment liberation and fruit"
+   ],
+   "inference": "proper worship should please the deity and grant enjoyment, liberation, and fruit",
+   "uncertainties": [
+    "whether bhūyād is optative wish"
+   ],
+   "plain_english": "May it be deity-pleasing and grant enjoyment, liberation, and fruit."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "kṛtārcanādikāṃ",
+     "gloss": "done-worship-etc",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyarthaṃ",
+     "gloss": "useless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "śāmbhavi",
+     "gloss": "O-Shambhavi",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What becomes useless without proper completion?",
+   "premises": [
+    "all worship and the like done",
+    "becomes useless O Shambhavi"
+   ],
+   "inference": "incomplete or faulty worship renders all ritual effort useless",
+   "uncertainties": [
+    "exact referent of kṛtārcanādikāṃ"
+   ],
+   "plain_english": "All worship and the like done becomes useless, O Shambhavi."
+  }
+ ]
+}

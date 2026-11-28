@@ -1,0 +1,551 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "papraccha",
+     "gloss": "asked",
+     "grounds": "past-tense verb",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "appellative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śayanīye",
+     "gloss": "on-bed",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sukhoṣitā",
+     "gloss": "well-rested",
+     "grounds": "participle adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess asks after resting on the bed?",
+   "premises": [
+    "Bhairavi asks after resting.",
+    "The setting is a bed."
+   ],
+   "inference": "The verse opens with a rested goddess asking.",
+   "uncertainties": [
+    "Exact addressee is not stated in this verse."
+   ],
+   "plain_english": "Bhairavi, the goddess, asked after resting well on the bed."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "mantra",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "siddhau",
+     "gloss": "in-accomplishment",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "accusative pronoun",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What should the lord tell about mantra accomplishment?",
+   "premises": [
+    "The speaker asks the lord.",
+    "The topic is mantra accomplishment."
+   ],
+   "inference": "The verse requests instruction about two matters in mantra accomplishment.",
+   "uncertainties": [
+    "The referent of those-two is not explicit here."
+   ],
+   "plain_english": "By that mantra, O lord of gods, tell me those two things in accomplishment, O lord."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "ugratārā",
+     "gloss": "ugratara",
+     "grounds": "compound name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāmantraṃ",
+     "gloss": "great-mantra",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcārṇaṃ",
+     "gloss": "five-syllabled",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parijapya",
+     "gloss": "having-recited",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which great mantra is recited in five syllables?",
+   "premises": [
+    "Ugratara is named.",
+    "A five-syllabled great mantra is recited."
+   ],
+   "inference": "The verse links Ugratara with recitation of a five-syllabled great mantra.",
+   "uncertainties": [
+    "The exact mantra syllables are not given here."
+   ],
+   "plain_english": "Ugratara, having recited the five-syllabled great mantra, and..."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "vaśiṣṭha",
+     "gloss": "vasistha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārādhya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "nakṣatralokam",
+     "gloss": "star-world",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āgataḥ",
+     "gloss": "arrived",
+     "grounds": "participle verb",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who arrives at star world after worship?",
+   "premises": [
+    "Vasistha is named.",
+    "He arrives at star world after worship."
+   ],
+   "inference": "The verse states Vasistha's arrival at star world after worship.",
+   "uncertainties": [
+    "The object of worship is not specified here."
+   ],
+   "plain_english": "Vasistha also, having worshipped, arrived at the star world."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "taduddhāram",
+     "gloss": "that-extraction",
+     "grounds": "accusative compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ataṃ",
+     "gloss": "opinion",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveśvaraḥ",
+     "gloss": "lord-of-all",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Why will the speaker explain that extraction?",
+   "premises": [
+    "The speaker will speak that extraction.",
+    "The reason is becoming lord of all."
+   ],
+   "inference": "The verse gives a reason for explaining the extraction.",
+   "uncertainties": [
+    "The exact extraction procedure is not detailed here."
+   ],
+   "plain_english": "I will speak that extraction and opinion, because one becomes lord of all."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "kūrcamastraṃ",
+     "gloss": "kurcha-weapon",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrarājaḥ",
+     "gloss": "mantra-king",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devadrumaḥ",
+     "gloss": "divine-tree",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ivāparaḥ",
+     "gloss": "like-another",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is compared to divine tree?",
+   "premises": [
+    "Mantra king is named.",
+    "It is like another divine tree."
+   ],
+   "inference": "The verse compares the mantra king to a divine tree.",
+   "uncertainties": [
+    "The exact sense of kurcha-weapon is unclear."
+   ],
+   "plain_english": "The kurcha weapon, mantra king, is like another divine tree."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "durvvāsāḥ",
+     "gloss": "durvasa",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsa",
+     "gloss": "vyasa",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vālmīki",
+     "gloss": "valmiki",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāradvāja",
+     "gloss": "bharadvaja",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādikaḥ",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which poets are named as authorities?",
+   "premises": [
+    "Durvasa is named.",
+    "Vyasa, Valmiki, Bharadvaja and others are named."
+   ],
+   "inference": "The verse lists poets and authorities.",
+   "uncertainties": [
+    "Whether all are called poets or only the last is ambiguous."
+   ],
+   "plain_english": "Durvasa, Vyasa, Valmiki, Bharadvaja and others, poet."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "2.sg.dat"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "participle verb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramottamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What secret has been told to the goddess?",
+   "premises": [
+    "Something has been told to you.",
+    "It is a supreme secret."
+   ],
+   "inference": "The verse states a supreme secret has been told to the goddess.",
+   "uncertainties": [
+    "The content of the secret is not restated here."
+   ],
+   "plain_english": "Thus to you, O goddess, the supreme secret has been told."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snehaḥ",
+     "gloss": "affection",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "māṃ prati",
+     "gloss": "toward-me",
+     "grounds": "postposition phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should this be concealed with effort?",
+   "premises": [
+    "Concealment is required with effort.",
+    "The condition is affection toward me."
+   ],
+   "inference": "The verse makes concealment conditional on affection toward the speaker.",
+   "uncertainties": [
+    "The object to be concealed is implied from context."
+   ],
+   "plain_english": "It should be concealed with effort if there is affection toward me."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "bauddhadevena",
+     "gloss": "buddha-deity",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yaccīrṇaṃ",
+     "gloss": "what-done",
+     "grounds": "relative participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prātaḥ kṛtyaṃ",
+     "gloss": "morning-duty",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "tell",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun",
+     "morph": "1.sg.dat"
+    }
+   ],
+   "question": "What morning duty done by Buddha deity should be told?",
+   "premises": [
+    "Buddha deity is named.",
+    "A morning duty done is to be told."
+   ],
+   "inference": "The verse asks for narration of a morning duty performed by a Buddha deity.",
+   "uncertainties": [
+    "The exact duty is not specified in this verse."
+   ],
+   "plain_english": "Tell me what morning duty was done by the Buddha deity."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "uttaraprahare",
+     "gloss": "later-period",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahasradalapaṅkaje",
+     "gloss": "thousand-petaled-lotus",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where does the mantrin act in later period?",
+   "premises": [
+    "The mantrin is named.",
+    "The later period and lotus are named."
+   ],
+   "inference": "The verse places the mantrin in a later period at a thousand-petaled lotus.",
+   "uncertainties": [
+    "The exact action is not stated in this verse."
+   ],
+   "plain_english": "In the later period, the mantrin is at the thousand-petaled lotus."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "śuddhasphaṭikasaṅkāśaṃ",
+     "gloss": "pure-crystal-like",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śuddhakṣaumavirājitam",
+     "gloss": "pure-linen-radiant",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What pure crystal-like radiant form is described?",
+   "premises": [
+    "A pure crystal-like form is described.",
+    "It is radiant with pure linen."
+   ],
+   "inference": "The verse describes a form that is crystal-like and radiant with pure linen.",
+   "uncertainties": [
+    "The noun being modified is omitted in this verse."
+   ],
+   "plain_english": "Pure-crystal-like, radiant with pure linen."
+  }
+ ]
+}

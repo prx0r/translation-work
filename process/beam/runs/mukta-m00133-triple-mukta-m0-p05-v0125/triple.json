@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "triśaktisahitaṃ",
+     "gloss": "accompanied-by-three-powers",
+     "grounds": "compound adjective describing the syllable as endowed with three powers",
+     "morph": "compound: tri+śakti+sahita, m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "triśaktisahitaṃ",
+     "gloss": "accompanied-by-three-powers",
+     "grounds": "repeated compound adjective emphasizing the syllable's constant endowment with three powers",
+     "morph": "compound: tri+śakti+sahita, m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable indicating perpetual condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What perpetual endowment with the three powers characterizes the syllable addressed to the goddess?",
+   "premises": [
+    "The syllable is described as accompanied by three powers.",
+    "This accompaniment is affirmed twice in direct address to the goddess.",
+    "The quality is stated to hold always."
+   ],
+   "inference": "Therefore, the syllable addressed to the goddess is perpetually and emphatically endowed with the three powers.",
+   "uncertainties": [
+    "The specific identity of the three powers is not named in this unit."
+   ],
+   "plain_english": "O goddess, the syllable is accompanied by the three powers, accompanied by the three powers always."
+  }
+ ]
+}

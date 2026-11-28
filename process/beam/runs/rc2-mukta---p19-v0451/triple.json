@@ -1,0 +1,563 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "dṛṣṭi",
+     "gloss": "sight",
+     "grounds": "first member of compound indicating extent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "up-to-limit",
+     "grounds": "extent reached by sight",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "object to be offered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active + dā"
+    }
+   ],
+   "question": "To what extent should the lamp be offered in the ritual?",
+   "premises": [
+    "A lamp is to be given",
+    "The giving is limited by sight",
+    "The instruction is prescriptive"
+   ],
+   "inference": "The lamp should be offered within the range of sight.",
+   "uncertainties": [],
+   "plain_english": "One should offer the lamp as far as the sight reaches."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation of a statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "source of the instruction",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "upārāna",
+     "gloss": "on-ground",
+     "grounds": "place of placement or release",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arghyapātra",
+     "gloss": "arghya-vessel",
+     "grounds": "first member of compound naming vessel area",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthalena",
+     "gloss": "on-surface",
+     "grounds": "surface associated with the arghya vessel",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-released",
+     "grounds": "prior action before giving",
+     "morph": "gerund + utsṛj"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active + dā"
+    }
+   ],
+   "question": "Where must the offering be placed before it is given according to the cited statement?",
+   "premises": [
+    "A statement prescribes the action",
+    "Release occurs on the ground",
+    "Release occurs on the arghya-vessel surface"
+   ],
+   "inference": "One should release the offering on the ground at the arghya-vessel surface and then give it.",
+   "uncertainties": [
+    "The exact spatial relation implied by upārāna is context-dependent"
+   ],
+   "plain_english": "According to this statement, one should place it on the ground at the surface of the arghya vessel and then give it."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "vaiṣṇave",
+     "gloss": "in-vaiṣṇava",
+     "grounds": "qualifies the ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedye",
+     "gloss": "in-food-offering",
+     "grounds": "ritual offering context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣo",
+     "gloss": "special-rule",
+     "grounds": "distinct provision to be noted",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaktravyaḥ",
+     "gloss": "to-be-stated",
+     "grounds": "indicates requirement to declare",
+     "morph": "m.nom.sg.future-passive-participle + vac"
+    }
+   ],
+   "question": "What special rule must be stated for a Vaiṣṇava food offering?",
+   "premises": [
+    "The context is Vaiṣṇava",
+    "The context concerns food offering",
+    "A special rule must be stated"
+   ],
+   "inference": "A special rule is to be declared for the Vaiṣṇava food offering.",
+   "uncertainties": [
+    "The content of the special rule is not specified in this verse"
+   ],
+   "plain_english": "But in a Vaiṣṇava food offering, a special rule must be stated."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active + dā"
+    }
+   ],
+   "question": "What action is prescribed as the required ritual offering?",
+   "premises": [
+    "An action is prescribed",
+    "The action is giving",
+    "The form is injunctive-prescriptive"
+   ],
+   "inference": "One should give the offering.",
+   "uncertainties": [
+    "The specific object to be given is supplied by context"
+   ],
+   "plain_english": "One should give it."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "mantrāte",
+     "gloss": "at-mantra-end",
+     "grounds": "time point after mantra recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "first member of compound naming conjunction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sannipāta",
+     "gloss": "conjunction",
+     "grounds": "coincidence of ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks formulation of a maxim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāyāt",
+     "gloss": "by-maxim",
+     "grounds": "principle governing timing",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By what maxim is the ritual action timed at the end of the mantra?",
+   "premises": [
+    "The timing is at mantra end",
+    "There is conjunction of action",
+    "A maxim governs this timing"
+   ],
+   "inference": "By the maxim of conjunction of action, the act occurs at the end of the mantra.",
+   "uncertainties": [],
+   "plain_english": "By the maxim of the conjunction of action, it is done at the end of the mantra."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "namaskāra",
+     "gloss": "salutation",
+     "grounds": "first member of compound indicating sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anantaraṃ",
+     "gloss": "after",
+     "grounds": "indicates immediate sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative timing is allowed immediately after salutation?",
+   "premises": [
+    "Salutation is a reference point",
+    "An action may follow immediately after",
+    "An alternative is indicated"
+   ],
+   "inference": "The action may alternatively be performed immediately after salutation.",
+   "uncertainties": [
+    "The specific action is supplied by surrounding verses"
+   ],
+   "plain_english": "Or it may be done immediately after salutation."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes or marks the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "object to be offered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samarpyaṃ",
+     "gloss": "having-offered",
+     "grounds": "prior act of dedication",
+     "morph": "gerund + samarp"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior act of praise",
+     "morph": "gerund + stu"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "prior act of bowing",
+     "morph": "gerund + nam"
+    },
+    {
+     "surface": "aṣṭāṅga",
+     "gloss": "eight-limbed",
+     "grounds": "first member of compound describing prostration",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "prostration",
+     "grounds": "full bodily prostration to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-active + kṛ"
+    }
+   ],
+   "question": "What sequence of devotional acts culminates in an eight-limbed prostration?",
+   "premises": [
+    "Recitation is offered",
+    "Praise and bowing are performed",
+    "An eight-limbed prostration is to be done"
+   ],
+   "inference": "After offering recitation, praising, and bowing, one should perform an eight-limbed prostration.",
+   "uncertainties": [],
+   "plain_english": "Thus, having offered the recitation, praised, and bowed, one should perform an eight-limbed prostration."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "first member of compound indicating quantity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "second member of compound indicating births",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jaṃ",
+     "gloss": "born",
+     "grounds": "final member of compound indicating origin",
+     "morph": "n.acc.sg.compound-member"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object to be abandoned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior act of relinquishing sin",
+     "morph": "gerund + tyaj"
+    },
+    {
+     "surface": "vaikuṇṭham",
+     "gloss": "vaikuṇṭha",
+     "grounds": "destination attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-attains",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.optative-active + āp"
+    }
+   ],
+   "question": "What spiritual attainment follows from abandoning sin accumulated over a thousand births?",
+   "premises": [
+    "Sin born of a thousand births is abandoned",
+    "Abandonment precedes attainment",
+    "Vaikuṇṭha is the attained realm"
+   ],
+   "inference": "By abandoning sin accumulated over a thousand births, one attains Vaikuṇṭha.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned sin born of a thousand births, one attains Vaikuṇṭha."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "śaṅkha",
+     "gloss": "conch",
+     "grounds": "first member of compound naming instrument",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hastena",
+     "gloss": "with-hand",
+     "grounds": "hand holding the conch",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇaṃ",
+     "gloss": "circumambulation",
+     "grounds": "ritual act prescribed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-prescribed",
+     "grounds": "declared in tradition",
+     "morph": "n.nom.sg.past-passive-participle + prakīrt"
+    }
+   ],
+   "question": "How is circumambulation prescribed when performed with a conch in hand?",
+   "premises": [
+    "A conch is held in the hand",
+    "Circumambulation is performed",
+    "The prescription applies everywhere"
+   ],
+   "inference": "Circumambulation with a conch in hand is prescribed in all cases.",
+   "uncertainties": [],
+   "plain_english": "Circumambulation with a conch in hand is prescribed everywhere."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects sequential actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "to-right",
+     "grounds": "direction of movement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior movement",
+     "morph": "gerund + gam"
+    },
+    {
+     "surface": "namaskāraḥ",
+     "gloss": "salutation",
+     "grounds": "act performed after movement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trikoṇa",
+     "gloss": "triangle",
+     "grounds": "first member of comparison compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "indicates manner of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner should salutation be performed after going to the right?",
+   "premises": [
+    "One goes to the right",
+    "Salutation follows the movement",
+    "The manner is like a triangle"
+   ],
+   "inference": "After going to the right, one should perform salutation in a triangular manner.",
+   "uncertainties": [
+    "The exact spatial pattern of trikoṇa-vat is not fully specified"
+   ],
+   "plain_english": "Then, having gone to the right, one should make a salutation in the manner of a triangle."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "soma",
+     "gloss": "moon",
+     "grounds": "first member of compound naming channel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "channel",
+     "grounds": "channel associated with soma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member of compound naming outflow",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niḥsaraṇa",
+     "gloss": "outflow",
+     "grounds": "outflow of water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "location identified",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual location is identified as the soma channel and water outflow place?",
+   "premises": [
+    "A soma channel is named",
+    "A water outflow place is named",
+    "Both identify a location"
+   ],
+   "inference": "The location is identified as the soma channel, the place of water outflow.",
+   "uncertainties": [
+    "The precise ritual referent of soma-sūtra depends on context"
+   ],
+   "plain_english": "It is the soma channel, the place of water outflow."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "three-times",
+     "grounds": "number of encirclements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "one-should-encircle",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative-causative-active + veṣṭ"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāyāḥ",
+     "gloss": "of-deity",
+     "grounds": "object around which circumambulation is done",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pradakṣiṇe",
+     "gloss": "in-circumambulation",
+     "grounds": "ritual context of encircling",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many times should the deity be properly encircled during circumambulation?",
+   "premises": [
+    "Encircling is prescribed",
+    "The encircling concerns the deity",
+    "The number specified is three times"
+   ],
+   "inference": "One should properly encircle the deity three times in circumambulation.",
+   "uncertainties": [],
+   "plain_english": "And one should properly encircle the deity three times in circumambulation."
+  }
+ ]
+}

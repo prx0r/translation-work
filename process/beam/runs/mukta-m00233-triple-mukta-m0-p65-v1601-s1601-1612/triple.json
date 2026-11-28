@@ -1,0 +1,419 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "śivamiṣṭvā",
+     "gloss": "having-worshipped-śiva",
+     "grounds": "participle from iṣ with śiva object",
+     "morph": "verb.part.perf.act (iṣ)"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-ritual",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered ritual operations follow after worshipping Śiva according to rule?",
+   "premises": [
+    "Worship Śiva according to rule first.",
+    "Then offer ghee with mantra.",
+    "Give bhūta-bali at night."
+   ],
+   "inference": "The verse opens a sequence of post-worship offerings and balis.",
+   "uncertainties": [
+    "Exact participle parsing is not fully certain."
+   ],
+   "plain_english": "Having worshipped Śiva according to ritual, one proceeds with the prescribed offerings."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "juhuyād",
+     "gloss": "should-offer",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt (hu)"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "accusative object",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "śivāghorāstrimantrataḥ",
+     "gloss": "with-aghora-astra-mantra",
+     "grounds": "instrumental/ablative mantra phrase",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "With what substance and mantra should the offering be made?",
+   "premises": [
+    "The offering uses ghee.",
+    "The mantra is śiva-aghora-astra.",
+    "The verb is optative."
+   ],
+   "inference": "Ghee is offered with the aghora-astra mantra.",
+   "uncertainties": [
+    "Case ending of the mantra phrase is ambiguous."
+   ],
+   "plain_english": "One should offer ghee with the Śiva aghora-astra mantra."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "āgneyādiṣvaghorāstrāt",
+     "gloss": "from-āgneya-etc",
+     "grounds": "fused locative/ablative phrase",
+     "morph": "abl.pl.m"
+    },
+    {
+     "surface": "sāvitryā",
+     "gloss": "with-sāvitrī",
+     "grounds": "instrumental",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "śivājñayā",
+     "gloss": "by-śiva's-command",
+     "grounds": "instrumental",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "By whose command and with which mantra is the aghora-astra used?",
+   "premises": [
+    "The aghora-astra is used from āgneya onward.",
+    "Sāvitrī accompanies it.",
+    "Śiva's command authorizes it."
+   ],
+   "inference": "The aghora-astra operation proceeds under Śiva's command with Sāvitrī.",
+   "uncertainties": [
+    "Fused sandhi obscures exact case."
+   ],
+   "plain_english": "From āgneya onward, the aghora-astra is used with Sāvitrī by Śiva's command."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "devamabhyarcya",
+     "gloss": "having-worshipped-deity",
+     "grounds": "participle",
+     "morph": "verb.part.perf.act"
+    },
+    {
+     "surface": "dattvā bhūtabaliṃ",
+     "gloss": "having-given-bhūta-bali",
+     "grounds": "participle plus accusative",
+     "morph": "verb.part.perf.act + noun.acc.sg.m"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative time",
+     "morph": "loc.sg.f"
+    }
+   ],
+   "question": "When should bhūta-bali be given after deity worship?",
+   "premises": [
+    "The deity is worshipped first.",
+    "Bhūta-bali is given next.",
+    "The time is night."
+   ],
+   "inference": "Bhūta-bali follows deity worship at night.",
+   "uncertainties": [
+    "Participle parsing is approximate."
+   ],
+   "plain_english": "Having worshipped the deity and given bhūta-bali, one does so at night."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "ājyenaindyādikuṇḍeṣu",
+     "gloss": "with-ghee",
+     "grounds": "fused instrumental/locative phrase",
+     "morph": "instr.loc.pl.m"
+    },
+    {
+     "surface": "diśāṃ śāntyai",
+     "gloss": "for-peace-of-directions",
+     "grounds": "genitive plus dative purpose",
+     "morph": "gen.pl.f + dat.sg.f"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "present verb",
+     "morph": "verb.3.sg.act-pres (hu)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose is ghee offered in the directional kuṇḍas?",
+   "premises": [
+    "Ghee is offered in Indra and other kuṇḍas.",
+    "The purpose is peace of directions.",
+    "The offering is also made."
+   ],
+   "inference": "Ghee offerings in directional kuṇḍas secure peace of directions.",
+   "uncertainties": [
+    "Fused sandhi hides exact case."
+   ],
+   "plain_english": "With ghee in the Indra and other kuṇḍas, one offers for the peace of the directions."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "daśāṃśena",
+     "gloss": "with-tenth-part",
+     "grounds": "instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "bali",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt (dā)"
+    },
+    {
+     "surface": "ca pūrvavat",
+     "gloss": "as-before",
+     "grounds": "conjunction plus adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How much bali should be given and in what manner?",
+   "premises": [
+    "A tenth part is used.",
+    "Bali is the object.",
+    "It is given as before."
+   ],
+   "inference": "One should give bali with a tenth part, as before.",
+   "uncertainties": [
+    "Exact referent of pūrvavat is implicit."
+   ],
+   "plain_english": "One should give bali with a tenth part, as before."
+  },
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "kalaśairdevamaṣṭottaraśatāntakaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instrumental plural phrase",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "With what vessels is the deity worshipped in this rite?",
+   "premises": [
+    "Pots are used.",
+    "The count ends at one hundred eight.",
+    "The deity is the object."
+   ],
+   "inference": "The deity is worshipped with pots numbering up to one hundred eight.",
+   "uncertainties": [
+    "Compound segmentation is not fully certain."
+   ],
+   "plain_english": "With pots for the deity, ending at one hundred eight."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "śaktyā",
+     "gloss": "according-to-power",
+     "grounds": "instrumental",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "tattalliṅgānusārataḥ",
+     "gloss": "according-to-that-liṅga",
+     "grounds": "ablative/adverbial phrase",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "According to what factors should the rite be scaled?",
+   "premises": [
+    "Power determines capacity.",
+    "The liṅga determines correspondence.",
+    "Both factors govern practice."
+   ],
+   "inference": "The rite is scaled by power and by the corresponding liṅga.",
+   "uncertainties": [
+    "Exact case of the second phrase is ambiguous."
+   ],
+   "plain_english": "According to one's power and according to that liṅga."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt (as)"
+    },
+    {
+     "surface": "snapanānuguṇaṃ",
+     "gloss": "suitable-to-snapanā",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quality should the rite have in relation to snapanā?",
+   "premises": [
+    "The rite should be suitable.",
+    "It is suitable to snapanā.",
+    "The comparison is as appropriate."
+   ],
+   "inference": "The rite should be made suitable to snapanā.",
+   "uncertainties": [
+    "The exact comparative force of yathā is implicit."
+   ],
+   "plain_english": "And it should be suitable to snapanā, as appropriate."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "brahmāṅgairjuhuyāt",
+     "gloss": "with-brahmāṅgas",
+     "grounds": "instrumental plus optative",
+     "morph": "instr.pl.m + verb.3.sg.act-opt (hu)"
+    },
+    {
+     "surface": "prāgvacchivāgnau",
+     "gloss": "as-before-in-śiva-fire",
+     "grounds": "adverb plus locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śrapayeccarum",
+     "gloss": "should-cook-caru",
+     "grounds": "optative plus accusative",
+     "morph": "verb.3.sg.act-opt (śrap) + noun.acc.sg.m"
+    }
+   ],
+   "question": "Where and with what should the caru be cooked and offered?",
+   "premises": [
+    "Brahmāṅgas are used.",
+    "The fire is Śiva's fire.",
+    "Caru is cooked."
+   ],
+   "inference": "With brahmāṅgas, one offers in Śiva's fire and cooks caru.",
+   "uncertainties": [
+    "Fused sandhi in prāgvacchivāgnau is not split."
+   ],
+   "plain_english": "With brahmāṅgas one should offer as before in Śiva's fire and cook caru."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-power",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyur",
+     "gloss": "should-offer",
+     "grounds": "optative plural",
+     "morph": "verb.3.pl.act-opt (hu)"
+    },
+    {
+     "surface": "gurumūrtipāḥ",
+     "gloss": "guru-form-protectors",
+     "grounds": "nominative plural subject",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who should offer and according to what capacity?",
+   "premises": [
+    "The subject is guru-form protectors.",
+    "The offering is optative plural.",
+    "Capacity is according to power."
+   ],
+   "inference": "The guru-form protectors should offer according to their power.",
+   "uncertainties": [
+    "Exact referent of gurumūrtipāḥ is implicit."
+   ],
+   "plain_english": "According to their power, the guru-form protectors should offer."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "ghṛtaṃ hutvā",
+     "gloss": "having-offered-ghee",
+     "grounds": "accusative plus participle",
+     "morph": "noun.acc.sg.n + verb.part.perf.act (hu)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "present verb",
+     "morph": "verb.3.sg.act-pres (hu)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is ghee offered after the separate full offering?",
+   "premises": [
+    "Ghee is offered first.",
+    "The offering is separate.",
+    "A full offering is also made."
+   ],
+   "inference": "After offering ghee, one also makes a separate full offering.",
+   "uncertainties": [
+    "The exact object of pūrṇāṃ is implicit."
+   ],
+   "plain_english": "Having offered ghee separately, one also offers the full one."
+  }
+ ]
+}

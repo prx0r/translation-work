@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "tīvrasaṅkramaṇaṃ",
+     "gloss": "intense-transition",
+     "grounds": "compound: tīvrasaṅkramaṇa (tīvra+saṅkramaṇa); accusative object in context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "demonstrative pronoun referring to a contextually given case",
+     "morph": "pron.loc.sg.m/n"
+    },
+    {
+     "surface": "gṛhasya",
+     "gloss": "of-house",
+     "grounds": "possessive relation to house",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun qualifying house",
+     "morph": "pron.gen.sg.m/n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhanam",
+     "gloss": "auspicious",
+     "grounds": "predicate adjective describing the transition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is an intense transition deemed inauspicious for this particular house?",
+   "premises": [
+    "An intense transition is under consideration.",
+    "The transition pertains to this specific house.",
+    "Such a transition is declared not auspicious."
+   ],
+   "inference": "An intense transition should be avoided for this house because it is inauspicious.",
+   "uncertainties": [
+    "The precise architectural or ritual meaning of tīvrasaṅkramaṇa is not specified."
+   ],
+   "plain_english": "In that case, an intense transition is not auspicious for this house."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "tricaturhastam",
+     "gloss": "three-or-four-cubits",
+     "grounds": "compound: tri-catur-hasta; measure taken as starting point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "gerund (ā-rabh-)"
+    },
+    {
+     "surface": "dvidvihasta",
+     "gloss": "two-by-two-cubit",
+     "grounds": "compound: dvi-dvi-hasta; iterative increment",
+     "morph": "compound"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increase",
+     "grounds": "ablative expressing means or basis of progression",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How should house measurements be increased starting from three or four cubits?",
+   "premises": [
+    "Measurement begins from three or four cubits.",
+    "Increase proceeds in increments of two cubits.",
+    "The progression is defined by this incremental increase."
+   ],
+   "inference": "House dimensions are to be expanded stepwise by two-cubit increments from a base of three or four cubits.",
+   "uncertainties": [],
+   "plain_english": "Beginning from three or four cubits, the measurement increases by two cubits at a time."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "ekaśālā",
+     "gloss": "one-hall",
+     "grounds": "compound: eka-śālā; type of building",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dviśālā",
+     "gloss": "two-hall",
+     "grounds": "compound: dvi-śālā; type of building",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility or prescription",
+     "morph": "3.sg.opt.act (as-)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "passive verb indicating designation",
+     "morph": "3.sg.pres.pass (kath-)"
+    },
+    {
+     "surface": "dvitriśālake",
+     "gloss": "in-two-or-three-hall",
+     "grounds": "compound: dvi-tri-śālaka; locative context of classification",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What building types are designated within the two-or-three-hall classification?",
+   "premises": [
+    "A one-hall structure may exist.",
+    "A two-hall structure may exist.",
+    "These are spoken of in relation to two-or-three-hall buildings."
+   ],
+   "inference": "Within the two-or-three-hall category, structures are identified as one-hall or two-hall types.",
+   "uncertainties": [
+    "The exact classificatory boundary of dvitriśālaka is context-dependent."
+   ],
+   "plain_english": "There may be a one-hall or a two-hall building; this is stated in the context of two-or-three-hall structures."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "ekonaviṃśadratnyantāḥ",
+     "gloss": "up-to-nineteen-cubits-less-one",
+     "grounds": "compound: eka-ūna-viṃśat-ratni-antāḥ; measures ending at eighteen cubits",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "adverbial numeral indicating division into seven",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitriśālake",
+     "gloss": "in-two-or-three-hall",
+     "grounds": "compound: dvi-tri-śālaka; locative context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many measurement divisions apply to two-or-three-hall buildings up to eighteen cubits?",
+   "premises": [
+    "Measurements extend up to nineteen cubits less one.",
+    "These measurements are divided sevenfold.",
+    "The division applies to two-or-three-hall buildings."
+   ],
+   "inference": "Two-or-three-hall buildings have seven measurement divisions up to eighteen cubits.",
+   "uncertainties": [],
+   "plain_english": "For two-or-three-hall buildings, the measures up to eighteen cubits are divided sevenfold."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "pādādhikam",
+     "gloss": "quarter-more",
+     "grounds": "compound: pāda-adhika; measure exceeding by a quarter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing next item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyardhaṃ",
+     "gloss": "one-and-half",
+     "grounds": "measure of one and a half times",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādonadviguṇaṃ",
+     "gloss": "double-less-quarter",
+     "grounds": "compound: pāda-ūna-dvi-guṇa; twice minus a quarter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of series",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional length measures follow in the prescribed series of dimensions?",
+   "premises": [
+    "One measure is a quarter more than the base.",
+    "Another measure is one and a half times.",
+    "Another measure is double less a quarter."
+   ],
+   "inference": "The series of proportions includes a quarter more, one and a half, and double less a quarter.",
+   "uncertainties": [
+    "The base unit to which these proportions apply is implied from context."
+   ],
+   "plain_english": "Then there are measures of a quarter more, one and a half, and likewise double less a quarter."
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "triguṇāntapramāṇena",
+     "gloss": "by-measure-up-to-triple",
+     "grounds": "compound: tri-guṇa-anta-pramāṇa; instrumental indicating extent up to triple",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "āyāma",
+     "gloss": "length",
+     "grounds": "subject denoting longitudinal measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "adverbial numeral indicating eight divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "past passive participle expressing accepted view",
+     "morph": "m.nom.sg (past-pass-part, man-)"
+    }
+   ],
+   "question": "How many length divisions are accepted up to the triple measure?",
+   "premises": [
+    "The measure extends up to triple the base.",
+    "Length is classified in divisions.",
+    "Eight divisions are considered authoritative."
+   ],
+   "inference": "Length is regarded as eightfold when measured up to triple the base dimension.",
+   "uncertainties": [],
+   "plain_english": "The length, by measures extending up to triple, is considered eightfold."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "dviguṇādyāyatāḥ",
+     "gloss": "double-etc-lengths",
+     "grounds": "compound: dvi-guṇa-ādi-āyata; lengths beginning from double",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier applying to the structures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vihārāśramavāsinām",
+     "gloss": "of-monastery-hermitage-dwellers",
+     "grounds": "compound: vihāra-āśrama-vāsin; beneficiaries or occupants",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What length proportions are prescribed for dwellings of monastery and hermitage residents?",
+   "premises": [
+    "Lengths begin from double the base measure.",
+    "All such structures are included.",
+    "These apply to dwellers in monasteries and hermitages."
+   ],
+   "inference": "All dwellings for monastery and hermitage residents should have lengths starting from double the base.",
+   "uncertainties": [],
+   "plain_english": "All dwellings for those living in monasteries and hermitages should have lengths beginning from double."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "vistārasama",
+     "gloss": "equal-to-width",
+     "grounds": "compound: vistāra-sama; height equal to breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utsedhaḥ",
+     "gloss": "height",
+     "grounds": "subject denoting vertical measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāṅghriḥ",
+     "gloss": "with-base",
+     "grounds": "compound: sa-aṅghri; including the base or foot",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhastripādayuk",
+     "gloss": "joined-with-three-and-half-quarters",
+     "grounds": "compound: sa-ardha-tri-pāda-yuk; including three and a half quarters",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What height proportions are specified relative to the width of the structure?",
+   "premises": [
+    "Height may be equal to the width.",
+    "Height may include the base.",
+    "Height may be joined with three and a half quarters."
+   ],
+   "inference": "The prescribed height options are equal to width, including the base, or with three and a half quarters added.",
+   "uncertainties": [
+    "The exact reference unit for sārdhastripādayuk is implied by architectural convention."
+   ],
+   "plain_english": "The height should be equal to the width, including the base, or joined with three and a half quarters."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "śāntidaḥ",
+     "gloss": "peace-giving",
+     "grounds": "compound: śānti-da; conferring peace",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣṭidaḥ",
+     "gloss": "prosperity-giving",
+     "grounds": "compound: puṣṭi-da; conferring nourishment or prosperity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayado",
+     "gloss": "victory-giving",
+     "grounds": "compound: jaya-da; conferring victory",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanado",
+     "gloss": "wealth-giving",
+     "grounds": "compound: dhana-da; conferring wealth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing resulting condition",
+     "morph": "3.sg.opt.act (bhū-)"
+    }
+   ],
+   "question": "What beneficial results arise sequentially from the prescribed height proportions?",
+   "premises": [
+    "Certain proportions give peace and prosperity.",
+    "Other proportions follow in sequence.",
+    "Later proportions give victory and wealth."
+   ],
+   "inference": "The successive height proportions respectively confer peace, prosperity, victory, and wealth.",
+   "uncertainties": [
+    "The mapping of each specific proportion to each result relies on the preceding verse."
+   ],
+   "plain_english": "It gives peace and prosperity, and afterwards it may give victory and wealth."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "subject denoting building wing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiśeṣikī",
+     "gloss": "distinctive",
+     "grounds": "adjective indicating special suitability",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "for-people",
+     "grounds": "beneficiaries of the arrangement",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "In which directions is a hall considered especially suitable for people?",
+   "premises": [
+    "The south direction is specified.",
+    "The west direction is specified.",
+    "A hall in these directions is distinctive for people."
+   ],
+   "inference": "A hall located in the south or west is especially suitable for people.",
+   "uncertainties": [],
+   "plain_english": "A hall in the south and indeed in the west is especially suitable for people."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "tadyukte",
+     "gloss": "joined-with-that",
+     "grounds": "compound: tat-yukta; locative describing a house endowed with that hall",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lāṅgale",
+     "gloss": "in-plough-shaped",
+     "grounds": "locative describing a plough-shaped house type",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "locative noun denoting the dwelling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "subject denoting auspicious fortune",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṣṭiḥ",
+     "gloss": "nourishment",
+     "grounds": "subject denoting growth and well-being",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating traditional teaching",
+     "morph": "f.nom.sg (past-pass-part, pra-kīrt-)"
+    }
+   ],
+   "question": "What benefits are declared for a plough-shaped house joined with such a hall?",
+   "premises": [
+    "The house is joined with the previously mentioned hall.",
+    "The house is of the plough-shaped type.",
+    "Prosperity and nourishment are declared for it."
+   ],
+   "inference": "A plough-shaped house equipped with such a hall brings prosperity and nourishment.",
+   "uncertainties": [
+    "The exact architectural form of lāṅgala house is assumed from tradition."
+   ],
+   "plain_english": "In a plough-shaped house joined with that hall, prosperity and nourishment are declared."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "numeral adjective qualifying hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadviśālā",
+     "gloss": "good-two-hall",
+     "grounds": "compound: sat-dvi-śālā; a proper two-hall structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśālā",
+     "gloss": "three-hall",
+     "grounds": "compound: tri-śālā; three-hall structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvisandhikā",
+     "gloss": "two-jointed",
+     "grounds": "compound: dvi-sandhikā; having two junctions",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What alternative hall configurations are permitted in this building prescription?",
+   "premises": [
+    "A single hall is an option.",
+    "A proper two-hall or three-hall structure is an option.",
+    "A two-jointed configuration is an option."
+   ],
+   "inference": "The prescribed building may be configured as one hall, a proper two-hall, a three-hall, or a two-jointed structure.",
+   "uncertainties": [
+    "The precise meaning of dvisandhikā depends on architectural convention."
+   ],
+   "plain_english": "It may be one hall, or a proper two-hall, or a three-hall, or a two-jointed one."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "vaiśyānām",
+     "gloss": "of-merchants",
+     "grounds": "genitive indicating social group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdrāṇām",
+     "gloss": "of-servants",
+     "grounds": "genitive indicating social group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "pronoun indicating alternative category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyantarajanmanām",
+     "gloss": "of-those-born-between-two",
+     "grounds": "compound: dvi-antara-janman; those of intermediate birth",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For which social groups are the alternative building arrangements prescribed?",
+   "premises": [
+    "Merchants are included among the intended groups.",
+    "Servants are included among the intended groups.",
+    "Others of intermediate birth are also included."
+   ],
+   "inference": "These arrangements are prescribed for merchants, servants, and others of intermediate birth.",
+   "uncertainties": [
+    "The exact scope of dvyantarajanmanām is not explicitly defined here."
+   ],
+   "plain_english": "This also applies to merchants, servants, and others of intermediate birth."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitriśāle",
+     "gloss": "in-two-or-three-hall",
+     "grounds": "compound: dvi-tri-śāla; locative context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvagrāmādike",
+     "gloss": "in-all-villages-etc",
+     "grounds": "compound: sarva-grāma-ādika; locative indicating general settlements",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mate",
+     "gloss": "considered",
+     "grounds": "past passive participle expressing accepted view",
+     "morph": "n.loc.sg (past-pass-part, man-)"
+    }
+   ],
+   "question": "In what contexts are two-or-three-hall structures likewise considered appropriate?",
+   "premises": [
+    "The same rule applies in two-or-three-hall contexts.",
+    "It applies in all villages and similar settlements.",
+    "This application is considered authoritative."
+   ],
+   "inference": "Two-or-three-hall structures are likewise considered appropriate in all villages and similar settings.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in two-or-three-hall buildings and in all villages and so on, this is considered appropriate."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptaṣaṣṭihastāḥ",
+     "gloss": "six-seven-sixty-cubits",
+     "grounds": "compound: ṣaṭ-sapta-ṣaṣṭi-hasta; series of cubit measures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥśālāviśālatā",
+     "gloss": "four-hall-breadth",
+     "grounds": "compound: catuḥ-śālā-viśālatā; breadth of a four-hall building",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cubit measures define the breadth of a four-hall building?",
+   "premises": [
+    "Measures of six, seven, and sixty cubits are mentioned.",
+    "These relate to breadth.",
+    "The breadth pertains to a four-hall building."
+   ],
+   "inference": "The breadth of a four-hall building is defined by measures including six, seven, and sixty cubits.",
+   "uncertainties": [
+    "The exact sequence or range implied by ṣaṭ-sapta-ṣaṣṭi is compressed in the compound."
+   ],
+   "plain_english": "The breadth of a four-hall building is six, seven, and sixty cubits."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatimānāni",
+     "gloss": "twenty-eight-measures",
+     "grounds": "compound: aṣṭā-viṃśati-māna; twenty-eight distinct measures",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "catuḥśālāviśālake",
+     "gloss": "in-four-hall-breadth",
+     "grounds": "compound: catuḥ-śālā-viśālaka; locative context of four-hall breadth",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many distinct measures are recognized for the breadth of a four-hall building?",
+   "premises": [
+    "A set of measures is specified.",
+    "The count is twenty-eight.",
+    "These apply to the breadth of a four-hall building."
+   ],
+   "inference": "Twenty-eight measures are recognized for the breadth of a four-hall building.",
+   "uncertainties": [],
+   "plain_english": "There are twenty-eight measures for the breadth of a four-hall building."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "ablative demonstrative indicating starting point",
+     "morph": "pron.abl.sg.n"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "repeated ablative emphasizing successive progression",
+     "morph": "pron.abl.sg.n"
+    },
+    {
+     "surface": "dvihastābhyāṃ",
+     "gloss": "by-two-cubits",
+     "grounds": "instrumental dual indicating increment of two cubits",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "ṣaṭsaptakarapūrvakā",
+     "gloss": "beginning-with-six-seven-cubits",
+     "grounds": "compound: ṣaṭ-sapta-kara-pūrvaka; series starting from six or seven cubits",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the series of four-hall breadth measures progress from its starting point?",
+   "premises": [
+    "The progression proceeds step by step from each preceding measure.",
+    "The increment is by two cubits.",
+    "The series begins with six or seven cubits."
+   ],
+   "inference": "The four-hall breadth series starts at six or seven cubits and increases by two cubits at each step.",
+   "uncertainties": [],
+   "plain_english": "From each of those, increasing by two cubits, the series begins with six or seven cubits."
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "from-there",
+     "grounds": "adverb indicating continuation from prior point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive indicating starting action",
+     "morph": "gerund (ā-rabh-)"
+    },
+    {
+     "surface": "hastābhyāṃ",
+     "gloss": "by-two-cubits",
+     "grounds": "instrumental dual indicating increment",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "bandhayec",
+     "gloss": "one-should-construct",
+     "grounds": "optative expressing prescription for construction or delimitation",
+     "morph": "3.sg.opt.act (bandh-)"
+    },
+    {
+     "surface": "chataratnikam",
+     "gloss": "up-to-six-cubits",
+     "grounds": "compound: chatra-ratnika; measure extending to six cubits as per context",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Up to what limit should one construct by successive two-cubit increments?",
+   "premises": [
+    "Construction proceeds from the previously established point.",
+    "The increment is by two cubits.",
+    "The prescribed limit is indicated as chataratnikam."
+   ],
+   "inference": "One should continue constructing in two-cubit increments up to the stated limit.",
+   "uncertainties": [
+    "The exact numerical value intended by chataratnikam is unclear in this context."
+   ],
+   "plain_english": "Beginning from there, one should construct by increments of two cubits up to the stated cubit limit."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb indicating universal application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citram",
+     "gloss": "varied",
+     "grounds": "adjective describing the arrangement as manifold",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "past passive participle indicating teaching",
+     "morph": "n.nom.sg (past-pass-part, vac-)"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "instrumental indicating numerical reckoning",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭaṣaḍ",
+     "gloss": "eight-and-six",
+     "grounds": "compound numeral indicating forty-eight in context or eight and six divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing resulting count",
+     "morph": "3.sg.opt.act (bhū-)"
+    }
+   ],
+   "question": "What numerical total is stated for the varied arrangements in all cases?",
+   "premises": [
+    "The arrangement is described as varied everywhere.",
+    "This is stated as a teaching.",
+    "By number it amounts to eight and six."
+   ],
+   "inference": "The varied arrangements everywhere are numerically stated to be eight and six.",
+   "uncertainties": [
+    "Whether aṣṭaṣaḍ denotes forty-eight or a pair of counts depends on convention."
+   ],
+   "plain_english": "It is said to be varied everywhere; by number, however, it may be eight and six."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "adjective denoting intermediate grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing classification",
+     "morph": "3.sg.opt.act (as-)"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "alternative",
+     "grounds": "noun denoting a variant option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭham",
+     "gloss": "best",
+     "grounds": "adjective denoting superior grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ābhāsanāmabhāk",
+     "gloss": "bearing-appearance-name",
+     "grounds": "compound: ābhāsa-nāma-bhāj; bearing the name ābhāsa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the middle and superior alternatives classified and named?",
+   "premises": [
+    "One alternative is classified as middle.",
+    "Another alternative is classified as best.",
+    "The best alternative bears the name ābhāsa."
+   ],
+   "inference": "The alternatives are graded as middle and best, with the best called ābhāsa.",
+   "uncertainties": [
+    "The technical sense of ābhāsa in this architectural context is not fully explicit."
+   ],
+   "plain_english": "One alternative may be middle, but the best is that which bears the name ābhāsa."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "turaṅgāvadhimedhākhyā",
+     "gloss": "named-up-to-horse-and-sacrifice",
+     "grounds": "compound: turaṅga-avadhi-medhā-ākhyā; designation extending to horse and medhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb indicating attainment or designation",
+     "morph": "3.sg.pres.mid (labh-)"
+    },
+    {
+     "surface": "dīrghahīnakam",
+     "gloss": "deficient-in-length",
+     "grounds": "compound: dīrgha-hīnaka; lacking in length",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What designation is given to a structure that is deficient in length?",
+   "premises": [
+    "A structure may be deficient in length.",
+    "Such a structure receives a specific designation.",
+    "The designation is expressed as turaṅgāvadhimedhākhyā."
+   ],
+   "inference": "A length-deficient structure obtains the designation called turaṅgāvadhimedhākhyā.",
+   "uncertainties": [
+    "The precise technical meaning of turaṅgāvadhimedhākhyā is obscure."
+   ],
+   "plain_english": "That which is deficient in length obtains the designation called turaṅgāvadhimedhā."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adjective indicating equal sides",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "compound: catur-aśra; quadrangular form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daivamānuṣam",
+     "gloss": "divine-and-human",
+     "grounds": "compound: daiva-mānuṣa; pertaining to gods and humans",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating teaching",
+     "morph": "n.nom.sg (past-pass-part, īr-)"
+    }
+   ],
+   "question": "What form is declared suitable for both divine and human purposes?",
+   "premises": [
+    "The form is equal and four-cornered.",
+    "It is designated for divine and human use.",
+    "This designation is declared in the teaching."
+   ],
+   "inference": "An equal, four-cornered form is declared suitable for both divine and human purposes.",
+   "uncertainties": [],
+   "plain_english": "An equal, four-cornered form is declared to be for both divine and human use."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "staff-like",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maulikaṃ",
+     "gloss": "original",
+     "grounds": "name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svastibhadraṃ",
+     "gloss": "auspicious-blessed",
+     "grounds": "compound: svasti-bhadra; name of a layout type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturmukham",
+     "gloss": "four-faced",
+     "grounds": "compound: catur-mukha; name of a layout type",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which named layout types are enumerated for subsequent explanation?",
+   "premises": [
+    "The daṇḍaka type is named.",
+    "The maulika and svastibhadra types are named.",
+    "The caturmukha type is also named."
+   ],
+   "inference": "The enumerated layout types are daṇḍaka, maulika, svastibhadra, and caturmukha.",
+   "uncertainties": [],
+   "plain_english": "The types are daṇḍaka, maulika, svastibhadra, and also caturmukha."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "vinyāsaṃ",
+     "gloss": "arrangement",
+     "grounds": "object denoting layout or disposition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daṇḍakādīnāṃ",
+     "gloss": "of-staff-like-etc",
+     "grounds": "compound: daṇḍaka-ādi; genitive plural of the listed types",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-explain",
+     "grounds": "future verb indicating forthcoming exposition",
+     "morph": "1.sg.fut.act (pra-vac-)"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "compound: yathā-krama; adverbial expression of sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the speaker promise to explain regarding the daṇḍaka and other layouts?",
+   "premises": [
+    "The arrangement of daṇḍaka and other types is the topic.",
+    "The speaker commits to explaining it.",
+    "The explanation will follow due order."
+   ],
+   "inference": "The speaker will explain the arrangement of daṇḍaka and the other layouts in proper sequence.",
+   "uncertainties": [],
+   "plain_english": "I shall explain the arrangement of daṇḍaka and the others in due order."
+  }
+ ]
+}

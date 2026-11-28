@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "śiva+adhiṣṭhāna+rūpāya",
+     "gloss": "to-shiva-abode-formed",
+     "grounds": "dative epithet of the worshipped deity; compound denotes one whose form is the seat of Śiva",
+     "morph": "śiva+adhiṣṭhāna+rūpa, m.dat.sg"
+    },
+    {
+     "surface": "tintiḍī+vṛkṣa+rūpiṇe",
+     "gloss": "to-tamarind-tree-formed",
+     "grounds": "dative epithet of the worshipped deity; compound denotes one having the form of a tamarind tree",
+     "morph": "tintiḍī+vṛkṣa+rūpin, m.dat.sg"
+    }
+   ],
+   "question": "Which specific embodied forms identify the deity addressed in this worship mantra?",
+   "premises": [
+    "The preceding verse prescribes worship using this mantra.",
+    "The deity is addressed in the dative as having a form that is Śiva's abode.",
+    "The deity is addressed in the dative as having the form of a tamarind tree."
+   ],
+   "inference": "The mantra invokes a deity identified both as the abode-form of Śiva and as manifest in the form of a tamarind tree.",
+   "uncertainties": [
+    "The precise ritual or mythic significance of the tamarind-tree form is not specified in this verse."
+   ],
+   "plain_english": "Worship is offered to the one whose form is the abode of Śiva, to the one in the form of a tamarind tree."
+  }
+ ]
+}

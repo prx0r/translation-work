@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p178",
+ "items": [
+  {
+   "verse": 4450,
+   "rows": [
+    {
+     "surface": "pakṣaḥ",
+     "gloss": "side",
+     "grounds": "nominative subject of the descriptive clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kakṣāntaraṃ",
+     "gloss": "armpit-interval",
+     "grounds": "compound kakṣā + antara; accusative object of measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun referring to the described woman",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "tāraḥsaptadaśāṅgulam",
+     "gloss": "star-seventeen-angulas",
+     "grounds": "compound tāraḥ + saptadaśa + aṅgulam; fused sandhi form retained as one token",
+     "morph": "compound (tāraḥ+saptadaśa+aṅgulam)"
+    }
+   ],
+   "question": "What is the prescribed armpit interval measurement for a woman's side?",
+   "premises": [
+    "previous verse describes a woman's face",
+    "this verse gives a side measurement",
+    "the armpit interval is seventeen angulas"
+   ],
+   "inference": "the ideal female form has a seventeen-angula armpit interval on the side",
+   "uncertainties": [
+    "exact force of tāraḥ within the compound is unclear",
+    "whether the measurement is literal or symbolic is not stated"
+   ],
+   "plain_english": "The side's armpit interval is seventeen angulas."
+  }
+ ]
+}

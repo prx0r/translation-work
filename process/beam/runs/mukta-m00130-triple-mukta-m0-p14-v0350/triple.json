@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence after the preceding practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājñāpurīṃ",
+     "gloss": "command-city",
+     "grounds": "compound referring to the center of command; object of leading",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-led",
+     "grounds": "absolutive expressing prior action of leading",
+     "morph": "gerund(nī)"
+    },
+    {
+     "surface": "bhāvayediṣṭadevatām",
+     "gloss": "one-should-contemplate-chosen-deity",
+     "grounds": "fused form containing optative of bhāvay and iṣṭa-devatām as object; internal sandhi noted but token kept whole",
+     "morph": "opt.act.3sg(bhū-caus.)+compound.f.acc.sg"
+    }
+   ],
+   "question": "What contemplative act follows leading awareness to the command center?",
+   "premises": [
+    "The preceding practice establishes unity through mantra and mind.",
+    "Awareness is then led to the command-city.",
+    "The chosen deity becomes the object of contemplation."
+   ],
+   "inference": "After establishing unity and leading awareness to the command center, one should contemplate the chosen deity.",
+   "uncertainties": [
+    "The precise locus intended by ājñāpurīṃ is not explicitly defined in this verse."
+   ],
+   "plain_english": "Then, having led awareness to the command center, one should contemplate the chosen deity."
+  }
+ ]
+}

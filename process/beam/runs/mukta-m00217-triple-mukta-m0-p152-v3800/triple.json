@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "brūyāt",
+     "gloss": "one-should-recite",
+     "grounds": "optative verb expressing injunction to utter or recite",
+     "morph": "3.sg.optative-active + √brū"
+    },
+    {
+     "surface": "amukamantrasya",
+     "gloss": "of-the-specified-mantra",
+     "grounds": "genitive dependent indicating the mantra to be recited",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puraścaraṇasiddhaye",
+     "gloss": "for-preliminary-rite-success",
+     "grounds": "dative of purpose; compound of puraścaraṇa and siddhi",
+     "morph": "compound: puraścaraṇa+siddhi; f.dat.sg"
+    }
+   ],
+   "question": "What ritual accomplishment is secured by reciting the specified mantra?",
+   "premises": [
+    "Recitation of a mantra is enjoined as a ritual act.",
+    "The mantra in question is designated as a specific one.",
+    "The stated aim of this recitation is success in preliminary rites."
+   ],
+   "inference": "Reciting the specified mantra serves to accomplish the preliminary rite.",
+   "uncertainties": [
+    "The identity of the specified mantra is not named in this verse."
+   ],
+   "plain_english": "One should recite the specified mantra for the successful accomplishment of the preliminary rite."
+  }
+ ]
+}

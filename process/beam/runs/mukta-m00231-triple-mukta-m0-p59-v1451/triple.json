@@ -1,0 +1,1127 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1451,
+   "rows": [
+    {
+     "surface": "gurvagre",
+     "gloss": "before-guru",
+     "grounds": "compound guru+agre",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "upavāsavratādikam",
+     "gloss": "fasting-vow-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What austerity or fasting vow should a disciple not perform before the guru?",
+   "premises": [
+    "guru-presence forbids self-imposed austerity",
+    "fasting-vows are included in the prohibition"
+   ],
+   "inference": "The disciple must not undertake austerity or fasting vows before the guru.",
+   "uncertainties": [],
+   "plain_english": "One should not perform austerity or fasting vows before the guru."
+  },
+  {
+   "verse": 1452,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niyogaṃ",
+     "gloss": "command",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurordadyāt",
+     "gloss": "to-guru",
+     "grounds": "dative compound",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "duṣṭatāṃ",
+     "gloss": "wickedness",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "should-manifest",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What command and wickedness should not be given or manifested toward the guru?",
+   "premises": [
+    "commands to guru are prohibited",
+    "wickedness must not be manifested"
+   ],
+   "inference": "The disciple must not command the guru or manifest wickedness toward him.",
+   "uncertainties": [],
+   "plain_english": "One should not command the guru or manifest wickedness."
+  },
+  {
+   "verse": 1453,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vāñchā",
+     "gloss": "desire",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "anubhūya",
+     "gloss": "having-experienced",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ājñayā",
+     "gloss": "by-command",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "When desire necessarily arises, how should it be handled after experience?",
+   "premises": [
+    "desire may arise necessarily",
+    "experience precedes command"
+   ],
+   "inference": "If desire arises, it should be handled by the guru's command after experience.",
+   "uncertainties": [],
+   "plain_english": "If desire necessarily arises, then after experiencing it, one should act by command."
+  },
+  {
+   "verse": 1454,
+   "rows": [
+    {
+     "surface": "mohāllobhāt",
+     "gloss": "from-delusion-greed",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pated",
+     "gloss": "falls",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trisaptake",
+     "gloss": "tri-saptaka",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What consequence follows for one who falls from delusion and greed?",
+   "premises": [
+    "delusion and greed cause falling",
+    "hell and tri-saptaka are named consequences"
+   ],
+   "inference": "One who falls through delusion and greed goes to hell and tri-saptaka.",
+   "uncertainties": [],
+   "plain_english": "Whoever falls through delusion and greed goes to hell and tri-saptaka."
+  },
+  {
+   "verse": 1455,
+   "rows": [
+    {
+     "surface": "tiraścāṃ+yonim",
+     "gloss": "animal-womb",
+     "grounds": "compound with sandhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ālambya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "kravyādaiḥ",
+     "gloss": "by-carnivores",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bhakṣyate",
+     "gloss": "is-eaten",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What happens to one who takes an animal womb?",
+   "premises": [
+    "animal womb is taken",
+    "carnivores always eat"
+   ],
+   "inference": "One who takes an animal womb is always eaten by carnivores.",
+   "uncertainties": [],
+   "plain_english": "Having taken an animal womb, one is always eaten by carnivores."
+  },
+  {
+   "verse": 1456,
+   "rows": [
+    {
+     "surface": "patitasya",
+     "gloss": "of-fallen-one",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is expiation found for one who has fallen?",
+   "premises": [
+    "fallen one has no expiation",
+    "even for him none is found"
+   ],
+   "inference": "No expiation is found for one who has fallen.",
+   "uncertainties": [],
+   "plain_english": "For one who has fallen, no expiation is found."
+  },
+  {
+   "verse": 1457,
+   "rows": [
+    {
+     "surface": "gobrāhmaṇavadhaṃ",
+     "gloss": "cow-brahmin-slaying",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samavāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What sin is obtained by slaying a cow or brahmin?",
+   "premises": [
+    "cow or brahmin slaying is done",
+    "sin is obtained thereby"
+   ],
+   "inference": "By slaying a cow or brahmin, one obtains sin.",
+   "uncertainties": [],
+   "plain_english": "Having slain a cow or brahmin, one obtains sin."
+  },
+  {
+   "verse": 1458,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "indecl."
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guruṇā+sārddhaṃ",
+     "gloss": "with-guru",
+     "grounds": "compound with sandhi",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "svapityupaviśet",
+     "gloss": "sleeps-or-sits",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "yaḥ",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is prohibited when sleeping or sitting with the guru?",
+   "premises": [
+    "sleeping or sitting with guru is addressed",
+    "the one who does so is named"
+   ],
+   "inference": "The verse addresses one who sleeps or sits with the guru.",
+   "uncertainties": [],
+   "plain_english": "If one sleeps or sits with the guru here, that person is addressed."
+  },
+  {
+   "verse": 1459,
+   "rows": [
+    {
+     "surface": "guruvākyahataṃ",
+     "gloss": "guru-word-destroyed",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ātmavākyaṃ",
+     "gloss": "own-word",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ropayet",
+     "gloss": "should-raise",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one not do with the guru's word and one's own word?",
+   "premises": [
+    "guru's word is destroyed",
+    "own word is raised"
+   ],
+   "inference": "One should not destroy the guru's word and raise one's own word.",
+   "uncertainties": [],
+   "plain_english": "Having destroyed the guru's word, one should not raise one's own word."
+  },
+  {
+   "verse": 1460,
+   "rows": [
+    {
+     "surface": "anekadhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paśorannaṃ",
+     "gloss": "of-beast-food",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhuñjate",
+     "gloss": "eat",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ye",
+     "gloss": "ye",
+     "grounds": "relative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaulikāḥ",
+     "gloss": "kaulikas",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do Kaulikas eat in many ways?",
+   "premises": [
+    "Kaulikas are named",
+    "beast food is eaten in many ways"
+   ],
+   "inference": "Kaulikas eat beast food in many ways.",
+   "uncertainties": [],
+   "plain_english": "Kaulikas eat the food of beasts in many ways."
+  },
+  {
+   "verse": 1461,
+   "rows": [
+    {
+     "surface": "lakṣatrayaṃ",
+     "gloss": "lakh-three",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "japa",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "lopāṃ",
+     "gloss": "lopāṃ",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "lakh",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ajapāṃ",
+     "gloss": "ajapā",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "japet",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What japa counts are prescribed for lopā and ajapā?",
+   "premises": [
+    "three lakhs japa is prescribed",
+    "one lakh or ajapā japa is prescribed"
+   ],
+   "inference": "One should perform three lakhs japa, or one lakh, or ajapā japa.",
+   "uncertainties": [],
+   "plain_english": "One should perform three lakhs japa, or one lakh, or ajapā japa."
+  },
+  {
+   "verse": 1462,
+   "rows": [
+    {
+     "surface": "guruṇā+ālokitaḥ",
+     "gloss": "by-guru-seen",
+     "grounds": "compound with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttiṣṭhet",
+     "gloss": "should-rise",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should a disciple do when seen by the guru?",
+   "premises": [
+    "disciple is seen by guru",
+    "disciple should rise and abandon seat"
+   ],
+   "inference": "When seen by the guru, the disciple should rise and abandon the seat.",
+   "uncertainties": [],
+   "plain_english": "When seen by the guru, the disciple should rise and abandon the seat."
+  },
+  {
+   "verse": 1463,
+   "rows": [
+    {
+     "surface": "rabhasaṃ",
+     "gloss": "violent",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maithunaṃ",
+     "gloss": "intercourse",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mithyā",
+     "gloss": "false",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaded",
+     "gloss": "would-say",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gurumandire",
+     "gloss": "in-guru-temple",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What false statement about violent intercourse is prohibited in the guru's temple?",
+   "premises": [
+    "violent intercourse is named",
+    "false speech in guru temple is prohibited"
+   ],
+   "inference": "One should not falsely speak of violent intercourse in the guru's temple.",
+   "uncertainties": [],
+   "plain_english": "One should not falsely speak of violent intercourse in the guru's temple."
+  },
+  {
+   "verse": 1464,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśet",
+     "gloss": "should-enter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "seat",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhīraḥ",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatāgurusannidhau",
+     "gloss": "deity-guru-presence",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the wise not enter a seat?",
+   "premises": [
+    "wise person is addressed",
+    "seat entry is prohibited in deity and guru presence"
+   ],
+   "inference": "The wise should not enter a seat in the presence of deity and guru.",
+   "uncertainties": [],
+   "plain_english": "The wise should not enter a seat in the presence of deity and guru."
+  },
+  {
+   "verse": 1465,
+   "rows": [
+    {
+     "surface": "deśyāsanaṃ",
+     "gloss": "lower-seat",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaniṣṭhānām",
+     "gloss": "of-juniors",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "itareṣāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samāsanam",
+     "gloss": "same-seat",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What seating arrangement is prescribed for juniors and others?",
+   "premises": [
+    "lower seat belongs to juniors",
+    "same seat belongs to others"
+   ],
+   "inference": "Juniors should have a lower seat, while others may share the same seat.",
+   "uncertainties": [],
+   "plain_english": "Juniors should have a lower seat; others may share the same seat."
+  },
+  {
+   "verse": 1466,
+   "rows": [
+    {
+     "surface": "phalapuṣpādikaṃ",
+     "gloss": "fruit-flowers-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "ability",
+     "grounds": "instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should fruit, flowers, and similar offerings be given?",
+   "premises": [
+    "fruit and flowers are taken",
+    "offering is according to ability"
+   ],
+   "inference": "One should offer fruit, flowers, and similar items according to one's ability.",
+   "uncertainties": [],
+   "plain_english": "Having taken fruit, flowers, and so on, one should offer them according to ability."
+  },
+  {
+   "verse": 1467,
+   "rows": [
+    {
+     "surface": "āliṅganapradānena",
+     "gloss": "by-embrace-giving",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "in-guru",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tuṣṭe",
+     "gloss": "pleased",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What condition is stated when the guru is pleased by an embrace?",
+   "premises": [
+    "embrace-giving pleases guru",
+    "once is the stated condition"
+   ],
+   "inference": "If the guru is pleased by an embrace given once, that condition is stated.",
+   "uncertainties": [],
+   "plain_english": "If the guru is pleased by an embrace given once, that is the condition."
+  },
+  {
+   "verse": 1468,
+   "rows": [
+    {
+     "surface": "gurutyāge",
+     "gloss": "guru-abandonment",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhruvaḥ",
+     "gloss": "certain",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantratyāgāt",
+     "gloss": "mantra-abandonment",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "daridratā",
+     "gloss": "poverty",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What consequences follow from abandoning guru and mantra?",
+   "premises": [
+    "guru abandonment brings certain death",
+    "mantra abandonment brings poverty"
+   ],
+   "inference": "Abandoning the guru brings certain death, and abandoning the mantra brings poverty.",
+   "uncertainties": [],
+   "plain_english": "Abandoning the guru brings certain death; abandoning the mantra brings poverty."
+  },
+  {
+   "verse": 1469,
+   "rows": [
+    {
+     "surface": "gurutyāgakaraḥ",
+     "gloss": "guru-abandonment-doer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāyaścittī",
+     "gloss": "expiator",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What becomes of a disciple who abandons the guru?",
+   "premises": [
+    "disciple is guru-abandonment doer",
+    "he certainly becomes expiator"
+   ],
+   "inference": "A disciple who abandons the guru certainly becomes an expiator.",
+   "uncertainties": [],
+   "plain_english": "A disciple who abandons the guru certainly becomes an expiator."
+  },
+  {
+   "verse": 1470,
+   "rows": [
+    {
+     "surface": "mantratyāgakaraḥ",
+     "gloss": "mantra-abandonment-doer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatsaṅgaṃ",
+     "gloss": "that-association",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-do",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What association should not be caused by a disciple who abandons mantra?",
+   "premises": [
+    "disciple is mantra-abandonment doer",
+    "that association should not be caused"
+   ],
+   "inference": "A disciple who abandons mantra should not cause that association.",
+   "uncertainties": [],
+   "plain_english": "A disciple who abandons mantra should not cause that association."
+  },
+  {
+   "verse": 1471,
+   "rows": [
+    {
+     "surface": "brahmāparāśaravyāsaviśvāmitrādayaḥ",
+     "gloss": "brahma-parashara-vyasa-vishvamitra-etc",
+     "grounds": "compound list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which figures are named as returning again?",
+   "premises": [
+    "Brahma, Parashara, Vyasa, Vishvamitra and others are named",
+    "they return again"
+   ],
+   "inference": "Brahma, Parashara, Vyasa, Vishvamitra and others return again.",
+   "uncertainties": [],
+   "plain_english": "Brahma, Parashara, Vyasa, Vishvamitra and others return again."
+  },
+  {
+   "verse": 1472,
+   "rows": [
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruprasādena",
+     "gloss": "by-guru-grace",
+     "grounds": "instrumental compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarvavit",
+     "gloss": "all-knowing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvagaḥ",
+     "gloss": "all-pervading",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does Shiva become all-knowing, all-pervading lord?",
+   "premises": [
+    "Shiva is named",
+    "by guru grace he is all-knowing, all-pervading lord"
+   ],
+   "inference": "By guru grace, Shiva becomes all-knowing, all-pervading lord.",
+   "uncertainties": [],
+   "plain_english": "By guru grace, Shiva becomes all-knowing, all-pervading lord."
+  },
+  {
+   "verse": 1473,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kimvā",
+     "gloss": "kimvā",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "labhante",
+     "gloss": "obtain",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "sādhakāḥ",
+     "gloss": "sadhakas",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gurusevakāḥ",
+     "gloss": "guru-servants",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What do guru-servant sadhakas obtain then?",
+   "premises": [
+    "sadhakas are guru servants",
+    "they obtain something then"
+   ],
+   "inference": "Then guru-servant sadhakas obtain the stated result.",
+   "uncertainties": [],
+   "plain_english": "Then guru-servant sadhakas obtain it."
+  },
+  {
+   "verse": 1474,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gopayed",
+     "gloss": "should-conceal",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "enaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should always be concealed?",
+   "premises": [
+    "guru should be concealed",
+    "mantra should be concealed"
+   ],
+   "inference": "One should always conceal the guru and the mantra.",
+   "uncertainties": [],
+   "plain_english": "One should always conceal the guru and the mantra."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "militāste",
+     "gloss": "gathered-they",
+     "grounds": "fused sandhi form militāḥ + te; analyzed as given",
+     "morph": "participle.nom.pl.m + pron.nom.pl.m (fused)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal quantifier",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimiṣamātrataḥ",
+     "gloss": "in-an-instant",
+     "grounds": "compound nimiṣa + mātra + ablative ending",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What occurs when all gathered forces assemble then in an instant?",
+   "premises": [
+    "All forces gathered together.",
+    "They assembled in an instant.",
+    "Then action follows."
+   ],
+   "inference": "The verse states that all gathered forces assemble in an instant.",
+   "uncertainties": [
+    "Exact internal sandhi of militāste is not expanded."
+   ],
+   "plain_english": "All of them, gathered together, then assemble in an instant."
+  }
+ ]
+}

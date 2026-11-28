@@ -1,0 +1,85 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p404",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v10085 ratio=0.506",
+  "ALIGN_NODISP v10096 ratio=0.528"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ee8f4cd608f3b982",
+ "source_digest_normalized_sha256": "ee8f4cd608f3b982c0b78321ec42cfe6bf4e40c6deac881189d5b8b6254f97ef",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 121
+ },
+ "align": {
+  "min_ratio": 0.506,
+  "sub090": {
+   "10085": {
+    "ratio": 0.506,
+    "disposition": null
+   },
+   "10096": {
+    "ratio": 0.528,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 71,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 121,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v10085",
+  "fix: word-order/gloss vs source for v10096"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "1cdef7dcb4870e3b6bdd5b02c9624b08e672cbef5ba4ddef2776f4caa5b73d48",
+  "l0": "ff7a2d620c397fe24be8f753b2e7b16b65f5a254948399a4e908278b0dbd35f2",
+  "argmap": "6ec7224326a5292a915d5728b86b8d8522ee99c73359701e7985ff2cca6a4e9d",
+  "l2": "eebb3004cca851868b0db26583eae5b6fde59771e5b89da9b4c3471b25aa8eae",
+  "c1": "d1dacb43ccd764b8400e779a1eca4067a7ca417fceacaea19eceebc3debd19d9"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ee8f4cd608f3b982",
+  "t1": "mukta-m0-p404/data/mukta-m0-p404.t1.json",
+  "l0": "mukta-m0-p404/data/mukta-m0-p404.l0.json",
+  "l2": "mukta-m0-p404/data/mukta-m0-p404.l2.json",
+  "c1": "mukta-m0-p404/data/mukta-m0-p404.c1.json"
+ }
+}

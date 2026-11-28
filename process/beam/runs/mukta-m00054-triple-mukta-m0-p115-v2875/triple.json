@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "teṣā/",
+     "gloss": "of-them",
+     "grounds": "pronoun referring to a previously mentioned group",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "sahasrayojane",
+     "gloss": "at-thousand-yojanas",
+     "grounds": "compound indicating distance; locative of extent or location",
+     "morph": "sahasra-yojana+loc.sg.n"
+    },
+    {
+     "surface": "ava",
+     "gloss": "away",
+     "grounds": "preverbal particle modifying the following verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhannvāni",
+     "gloss": "bows",
+     "grounds": "object of the action",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tannmasi",
+     "gloss": "we-unstring",
+     "grounds": "verb expressing loosening or unbending with ava",
+     "morph": "1.pl.pres.act √tan"
+    }
+   ],
+   "question": "What action is performed on their bows at a distance of a thousand yojanas?",
+   "premises": [
+    "The referents are a previously mentioned group.",
+    "A distance of a thousand yojanas is specified.",
+    "Bows are the objects of an action performed by the speakers."
+   ],
+   "inference": "At a distance of a thousand yojanas, the speakers unstring those beings' bows.",
+   "uncertainties": [
+    "The exact nuance of ava with tannmasi in this context is inferred as unstringing or loosening."
+   ],
+   "plain_english": "At a distance of a thousand yojanas, we unstring their bows."
+  }
+ ]
+}

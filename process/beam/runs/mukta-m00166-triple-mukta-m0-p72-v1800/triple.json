@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "kṛpākarī",
+     "gloss": "compassion-maker",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇadā",
+     "gloss": "night-giver",
+     "grounds": "epithet meaning night, contrasted with auspiciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "auspicious-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāḥ",
+     "gloss": "may-you-be",
+     "grounds": "optative wish addressed to the goddess",
+     "morph": "2.sg.optative-act √as"
+    }
+   ],
+   "question": "Should the compassionate goddess manifest as darkness or as auspiciousness?",
+   "premises": [
+    "The goddess is addressed as compassion-maker.",
+    "Being a night-giver implies darkness.",
+    "Being auspicious is the desired alternative."
+   ],
+   "inference": "The compassionate goddess should not be a bringer of night but should be auspicious.",
+   "uncertainties": [
+    "kṣaṇadā may carry a secondary sense beyond literal night in this context."
+   ],
+   "plain_english": "O compassionate one, may you not be the giver of night, but be auspicious."
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2826,
+   "rows": [
+    {
+     "surface": "pādayoḥ",
+     "gloss": "at-feet",
+     "grounds": "location of placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "deva+deveśaṃ",
+     "gloss": "god-of-gods-lord",
+     "grounds": "compound epithet of the deity",
+     "morph": "m.acc.sg (deva+deva+īśa)"
+    },
+    {
+     "surface": "sarvāṅge",
+     "gloss": "in-all-limbs",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg (sarva+aṅga)"
+    },
+    {
+     "surface": "vaṭukaṃ",
+     "gloss": "vaṭuka",
+     "grounds": "deity to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act (√nyas)"
+    }
+   ],
+   "question": "Where should the practitioner ritually place the lord of gods and Vaṭuka?",
+   "premises": [
+    "The lord of gods is to be placed at the feet.",
+    "Vaṭuka is to be placed in all the limbs.",
+    "The act prescribed is ritual placement."
+   ],
+   "inference": "The practitioner should place the lord of gods at the feet and Vaṭuka in all the limbs.",
+   "uncertainties": [],
+   "plain_english": "One should place the lord of gods at the feet and Vaṭuka in all the limbs."
+  },
+  {
+   "verse": 2827,
+   "rows": [
+    {
+     "surface": "sarva+kāma+artha+siddhi+arthe",
+     "gloss": "for-all-desire-purpose-accomplishment-sake",
+     "grounds": "purpose of the application",
+     "morph": "m.loc.sg (sarva+kāma+artha+siddhi+artha)"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual application or assignment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "is-declared",
+     "grounds": "traditional declaration",
+     "morph": "m.nom.sg.past-pass.part (pra+√kīrt)"
+    }
+   ],
+   "question": "For what purpose is this ritual application declared to be used?",
+   "premises": [
+    "An application is being declared.",
+    "The declared purpose concerns all desires, aims, and accomplishments.",
+    "The statement presents this as a traditional prescription."
+   ],
+   "inference": "This application is declared for the accomplishment of all desires and aims.",
+   "uncertainties": [],
+   "plain_english": "This application is declared to be for the accomplishment of all desires and purposes."
+  },
+  {
+   "verse": 2828,
+   "rows": [
+    {
+     "surface": "kṣetradaḥ",
+     "gloss": "field-giver",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (kṣetra+da)"
+    },
+    {
+     "surface": "kṣetrapālaḥ",
+     "gloss": "field-protector",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (kṣetra+pāla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetrajñaḥ",
+     "gloss": "field-knower",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (kṣetra+jña)"
+    },
+    {
+     "surface": "kṣatriyaḥ",
+     "gloss": "warrior",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "virāṭ",
+     "gloss": "sovereign",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which epithets identifying the deity with fields, knowledge, and sovereignty are enumerated here?",
+   "premises": [
+    "The deity is called giver of the field.",
+    "The deity is called protector and knower of the field.",
+    "The deity is also called warrior and sovereign."
+   ],
+   "inference": "The deity is identified through epithets linking him to the field, martial power, and sovereign vastness.",
+   "uncertainties": [],
+   "plain_english": "He is the giver of the field, the protector of the field, the knower of the field, the warrior, and the sovereign."
+  },
+  {
+   "verse": 2829,
+   "rows": [
+    {
+     "surface": "raktapaḥ",
+     "gloss": "blood-drinker",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (rakta+pa)"
+    },
+    {
+     "surface": "prāṇapaḥ",
+     "gloss": "life-drinker",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (prāṇa+pa)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished-one",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhidaḥ",
+     "gloss": "accomplishment-giver",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (siddhi+da)"
+    },
+    {
+     "surface": "siddha+sevitaḥ",
+     "gloss": "served-by-accomplished-ones",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (siddha+sevita)"
+    }
+   ],
+   "question": "What epithets describe the deity's fierce consumption and relation to spiritual accomplishment?",
+   "premises": [
+    "The deity is described as drinking blood and life.",
+    "The deity is described as accomplished and a giver of accomplishment.",
+    "The deity is described as served by accomplished ones."
+   ],
+   "inference": "The deity combines fierce consuming power with mastery and bestowal of spiritual accomplishment.",
+   "uncertainties": [],
+   "plain_english": "He is the drinker of blood, the drinker of life, the accomplished one, the giver of accomplishment, and the one served by the accomplished."
+  },
+  {
+   "verse": 2830,
+   "rows": [
+    {
+     "surface": "trinetraḥ",
+     "gloss": "three-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (tri+netra)"
+    },
+    {
+     "surface": "bahu+netraḥ",
+     "gloss": "many-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (bahu+netra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṅgala+locanaḥ",
+     "gloss": "tawny-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (piṅgala+locana)"
+    }
+   ],
+   "question": "How do the enumerated epithets characterize the deity's eyes and vision?",
+   "premises": [
+    "The deity is called three-eyed.",
+    "The deity is called many-eyed.",
+    "The deity is likewise called tawny-eyed."
+   ],
+   "inference": "The deity is characterized by multiple and distinctive forms of vision.",
+   "uncertainties": [],
+   "plain_english": "He is three-eyed, many-eyed, and likewise tawny-eyed."
+  },
+  {
+   "verse": 2831,
+   "rows": [
+    {
+     "surface": "abhīruḥ",
+     "gloss": "fearless",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhairavo",
+     "gloss": "bhairava",
+     "grounds": "name or epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīmo",
+     "gloss": "terrible",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūta+paḥ",
+     "gloss": "lord-of-beings",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (bhūta+pa)"
+    },
+    {
+     "surface": "yoginī+patiḥ",
+     "gloss": "lord-of-yoginīs",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (yoginī+pati)"
+    }
+   ],
+   "question": "What epithets present the deity as fearless, terrible, and lord over beings and yoginīs?",
+   "premises": [
+    "The deity is called fearless, Bhairava, and terrible.",
+    "The deity is called lord of beings.",
+    "The deity is called lord of yoginīs."
+   ],
+   "inference": "The deity is portrayed as a fearsome and sovereign Bhairava ruling beings and yoginīs.",
+   "uncertainties": [],
+   "plain_english": "He is fearless, Bhairava, terrible, the lord of beings, and the lord of yoginīs."
+  },
+  {
+   "verse": 2832,
+   "rows": [
+    {
+     "surface": "nāga+hāro",
+     "gloss": "snake-garlanded",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg (nāga+hāra)"
+    },
+    {
+     "surface": "nāga+keśo",
+     "gloss": "snake-haired",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg (nāga+keśa)"
+    },
+    {
+     "surface": "vyoma+keśaḥ",
+     "gloss": "sky-haired",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (vyoma+keśa)"
+    },
+    {
+     "surface": "kapāla+bhṛt",
+     "gloss": "skull-bearer",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (kapāla+bhṛt)"
+    }
+   ],
+   "question": "Which iconographic attributes of snakes, sky, and skulls define the deity's appearance?",
+   "premises": [
+    "The deity is garlanded and haired with snakes.",
+    "The deity is described as having sky for hair.",
+    "The deity bears a skull."
+   ],
+   "inference": "The deity's appearance is marked by serpentine ornaments, cosmic hair, and a skull-bearing aspect.",
+   "uncertainties": [],
+   "plain_english": "He is garlanded with snakes, has snakes for hair, has the sky for hair, and bears a skull."
+  },
+  {
+   "verse": 2833,
+   "rows": [
+    {
+     "surface": "trilocano",
+     "gloss": "three-eyed",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg (tri+locana)"
+    },
+    {
+     "surface": "jvalat+netraḥ",
+     "gloss": "flaming-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (jvalat+netra)"
+    },
+    {
+     "surface": "triśikhī",
+     "gloss": "three-peaked",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (tri+śikhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+loka+pāt",
+     "gloss": "protector-of-three-worlds",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (tri+loka+pā)"
+    }
+   ],
+   "question": "How do the epithets link the deity's fiery vision and threefold form to cosmic protection?",
+   "premises": [
+    "The deity is three-eyed and flaming-eyed.",
+    "The deity is three-peaked.",
+    "The deity is protector of the three worlds."
+   ],
+   "inference": "The deity's threefold and fiery attributes are associated with protection of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "He is three-eyed, flaming-eyed, three-peaked, and the protector of the three worlds."
+  },
+  {
+   "verse": 2834,
+   "rows": [
+    {
+     "surface": "vaṭuko",
+     "gloss": "vaṭuka",
+     "grounds": "name or epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭuka+īśaḥ",
+     "gloss": "lord-of-vaṭukas",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (vaṭuka+īśa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṭvāṅga+vara+dhārakaḥ",
+     "gloss": "skull-staff-boon-holder",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (khaṭvāṅga+vara+dhāraka)"
+    }
+   ],
+   "question": "What identity and emblematic attribute are ascribed to Vaṭuka in this enumeration?",
+   "premises": [
+    "The deity is named Vaṭuka.",
+    "The deity is called lord of Vaṭukas.",
+    "The deity holds the excellent skull-staff."
+   ],
+   "inference": "Vaṭuka is identified both as the lord of Vaṭukas and as the bearer of the skull-staff.",
+   "uncertainties": [
+    "The middle member 'vara' in khaṭvāṅga+vara+dhārakaḥ may mean 'excellent' or 'boon'; glossed as 'boon' following the hint."
+   ],
+   "plain_english": "He is Vaṭuka, the lord of Vaṭukas, and the holder of the excellent skull-staff."
+  },
+  {
+   "verse": 2835,
+   "rows": [
+    {
+     "surface": "dhūrto",
+     "gloss": "crafty",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "digambaraḥ",
+     "gloss": "sky-clad",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (diś+ambara)"
+    },
+    {
+     "surface": "śauriḥ",
+     "gloss": "śauri",
+     "grounds": "name or epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hariṇaḥ",
+     "gloss": "hariṇa",
+     "grounds": "name or epithet of the deity; may also suggest deer-like quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṇḍu+locanaḥ",
+     "gloss": "pale-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (pāṇḍu+locana)"
+    }
+   ],
+   "question": "Which epithets convey the deity's cunning, nakedness, and distinctive appearance?",
+   "premises": [
+    "The deity is called crafty and sky-clad.",
+    "The deity is named Śauri and Hariṇa.",
+    "The deity is described as pale-eyed."
+   ],
+   "inference": "The deity is characterized by cunning, nakedness, specific names, and a pale-eyed appearance.",
+   "uncertainties": [
+    "The epithets 'śauriḥ' and 'hariṇaḥ' may carry specific mythic associations not explicit in this verse."
+   ],
+   "plain_english": "He is crafty, sky-clad, Śauri, Hariṇa, and pale-eyed."
+  },
+  {
+   "verse": 2836,
+   "rows": [
+    {
+     "surface": "aṣṭa+mūrtti+nidhi+īśaḥ",
+     "gloss": "eight-form-treasure-lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (aṣṭa+mūrti+nidhi+īśa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna+cakṣuḥ",
+     "gloss": "knowledge-eyed",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (jñāna+cakṣus)"
+    },
+    {
+     "surface": "tamaḥ+mayaḥ",
+     "gloss": "darkness-made",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (tamas+maya)"
+    }
+   ],
+   "question": "How do the epithets attribute lordship, knowledge, and darkness to the deity simultaneously?",
+   "premises": [
+    "The deity is lord of the eight forms and treasures.",
+    "The deity is described as having knowledge as his eye.",
+    "The deity is described as consisting of darkness."
+   ],
+   "inference": "The deity unites sovereign lordship and knowledge-vision with a nature composed of darkness.",
+   "uncertainties": [],
+   "plain_english": "He is the lord of the eight forms and treasures, the one whose eye is knowledge, and the one made of darkness."
+  },
+  {
+   "verse": 2837,
+   "rows": [
+    {
+     "surface": "bhūdharo",
+     "gloss": "earth-bearer",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg (bhū+dhara)"
+    },
+    {
+     "surface": "bhūdhara+adhīśo",
+     "gloss": "earth-bearer-lord",
+     "grounds": "epithet of the deity; final vowel shortened in sandhi context",
+     "morph": "m.nom.sg (bhūdhara+adhīśa)"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "lord-of-earth",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (bhū+pati)"
+    },
+    {
+     "surface": "bhūdhara+ātmakaḥ",
+     "gloss": "earth-bearer-natured",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg (bhūdhara+ātmaka)"
+    }
+   ],
+   "question": "In what ways do the epithets identify the deity with bearing and ruling the earth?",
+   "premises": [
+    "The deity is called earth-bearer.",
+    "The deity is called lord of earth-bearers and lord of the earth.",
+    "The deity is described as having the nature of an earth-bearer."
+   ],
+   "inference": "The deity is identified as both the supporter and sovereign of the earth, embodying that earth-bearing nature.",
+   "uncertainties": [],
+   "plain_english": "He is the bearer of the earth, the lord of the bearers of the earth, the lord of the earth, and one whose nature is that of an earth-bearer."
+  }
+ ]
+}

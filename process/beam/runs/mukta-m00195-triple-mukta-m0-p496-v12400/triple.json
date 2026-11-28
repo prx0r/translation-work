@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p496",
+ "items": [
+  {
+   "verse": 12400,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "locative of hṛd, indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "on-face",
+     "grounds": "locative of vaktra, indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃse",
+     "gloss": "on-right-shoulder",
+     "grounds": "locative of compound dakṣiṇa+aṃsa",
+     "morph": "compound: dakṣiṇa+aṃsa; n.loc.sg"
+    },
+    {
+     "surface": "vāmāṃse",
+     "gloss": "on-left-shoulder",
+     "grounds": "locative of compound vāma+aṃsa",
+     "morph": "compound: vāma+aṃsa; n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇoruke",
+     "gloss": "on-right-thigh",
+     "grounds": "locative of compound dakṣiṇa+ūru with internal sandhi",
+     "morph": "compound: dakṣiṇa+ūru; n.loc.sg"
+    }
+   ],
+   "question": "Which five bodily sites are designated for ritual placement in this sequence?",
+   "premises": [
+    "The heart is specified as a placement site.",
+    "The face is specified as a placement site.",
+    "The right shoulder is specified as a placement site.",
+    "The left shoulder is specified as a placement site.",
+    "The right thigh is specified as a placement site."
+   ],
+   "inference": "The ritual placement proceeds sequentially across these five specified bodily sites.",
+   "uncertainties": [
+    "The specific mantra or power being placed is supplied by the surrounding context."
+   ],
+   "plain_english": "On the heart, on the face, on the right shoulder, on the left shoulder, and on the right thigh."
+  }
+ ]
+}

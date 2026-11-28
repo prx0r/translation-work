@@ -1,0 +1,405 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "dvātriṃśat",
+     "gloss": "thirty-two",
+     "grounds": "numeral indicating count of deities",
+     "morph": "numeral"
+    },
+    {
+     "surface": "bāhyagā",
+     "gloss": "outside-going",
+     "grounds": "describes deities positioned on the exterior",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "deities of the vāstu body",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nābhi+pṛṣṭhe",
+     "gloss": "navel-back",
+     "grounds": "compound indicating location at navel and back",
+     "morph": "compound nābhi+first,pṛṣṭha+second n.loc.du"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "situated",
+     "grounds": "indicates placement of Brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "Brahmā",
+     "grounds": "name of the deity located at navel and back",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which thirty-two outward-going gods and which deity occupy the navel and back region?",
+   "premises": [
+    "Thirty-two gods are described as outside-going.",
+    "Brahmā is situated at the navel and back."
+   ],
+   "inference": "The vāstu body includes thirty-two exterior deities with Brahmā positioned at the navel and back.",
+   "uncertainties": [],
+   "plain_english": "There are thirty-two outward-going gods, and Brahmā is situated at the navel and back."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "vivasvān",
+     "gloss": "Vivasvān",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces the next pair of deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mitraḥ",
+     "gloss": "Mitra",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "Dakṣa",
+     "grounds": "name of a deity paired with Vivasvān",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāma+uru+gau",
+     "gloss": "left-thigh-going",
+     "grounds": "compound indicating location on the left thigh",
+     "morph": "compound vāma+first,uru+second,ga+third m.nom.du"
+    },
+    {
+     "surface": "ubhau",
+     "gloss": "both",
+     "grounds": "refers to the two deities as a pair",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which pair of deities is assigned to the left thigh in this arrangement?",
+   "premises": [
+    "Vivasvān and Dakṣa are named together.",
+    "Both are described as going to the left thigh."
+   ],
+   "inference": "Vivasvān and Dakṣa together occupy the left thigh.",
+   "uncertainties": [
+    "The placement of Mitra in relation to this pair is not explicitly stated in this verse."
+   ],
+   "plain_english": "Then Vivasvān and Dakṣa, both, are located on the left thigh, and Mitra is also named."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "sāvitraḥ",
+     "gloss": "Sāvitra",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savitā",
+     "gloss": "Savitṛ",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates parallel placement to the previous pair",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "hand",
+     "grounds": "body part serving as location",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇam",
+     "gloss": "right",
+     "grounds": "specifies which hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āśritau",
+     "gloss": "resorting-to",
+     "grounds": "indicates the two deities occupy that location",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which two deities likewise resort to the right hand in this bodily mapping?",
+   "premises": [
+    "Sāvitra and Savitṛ are named as a pair.",
+    "They likewise resort to the right hand."
+   ],
+   "inference": "Sāvitra and Savitṛ are assigned to the right hand.",
+   "uncertainties": [],
+   "plain_english": "Likewise, Sāvitra and Savitṛ resort to the right hand."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "bhadradāsaḥ",
+     "gloss": "Bhadradāsa",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds Bhadradāsa to the same location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the previously mentioned location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the same location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+mayaṃ",
+     "gloss": "god-filled",
+     "grounds": "compound describing the body as composed of deities",
+     "morph": "compound deva+first,maya+second n.nom.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "the vāstu body constituted by deities",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What conclusion is drawn about the body after placing Bhadradāsa in that same location?",
+   "premises": [
+    "Bhadradāsa is also placed there.",
+    "The enumeration is concluded with the term thus."
+   ],
+   "inference": "The described arrangement constitutes a body filled with gods.",
+   "uncertainties": [
+    "The exact referent of 'there' depends on the immediately preceding location."
+   ],
+   "plain_english": "Bhadradāsa is also there indeed; thus the body is filled with gods."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "vidārikā",
+     "gloss": "Vidārikā",
+     "grounds": "name of a goddess or directional power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agni+koṇe",
+     "gloss": "fire-corner",
+     "grounds": "compound indicating the southeast corner",
+     "morph": "compound agni+first,koṇa+second m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects two directional placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijṛmbhā",
+     "gloss": "Vijṛmbhā",
+     "grounds": "name of a goddess or directional power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "apāṃ+diga+sthitā",
+     "gloss": "west-situated",
+     "grounds": "compound indicating location in the western direction",
+     "morph": "compound ap+first,diś+second,sthita+third f.nom.sg"
+    }
+   ],
+   "question": "Which female powers are assigned to the fire corner and the western direction?",
+   "premises": [
+    "Vidārikā is located in the fire corner.",
+    "Vijṛmbhā is situated in the western direction."
+   ],
+   "inference": "Vidārikā occupies the southeast and Vijṛmbhā occupies the west.",
+   "uncertainties": [],
+   "plain_english": "Vidārikā is in the southeast corner, and Vijṛmbhā is situated in the west."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "pāparākṣasikā",
+     "gloss": "Pāparākṣasikā",
+     "grounds": "name of a goddess or directional power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saumye",
+     "gloss": "north",
+     "grounds": "indicates the northern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aryamā",
+     "gloss": "Aryaman",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "indicates worship in all directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive instruction for ritual worship",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "What worship instruction is given regarding Aryaman and the surrounding powers?",
+   "premises": [
+    "Pāparākṣasikā is placed in the north and Aryaman is named.",
+    "The text prescribes worship from all sides."
+   ],
+   "inference": "One should worship Aryaman and the associated powers from all sides.",
+   "uncertainties": [
+    "The syntactic scope of 'sarvataḥ arcayet' over all named figures is context-dependent."
+   ],
+   "plain_english": "Pāparākṣasikā is in the north, and one should indeed worship Aryaman from all sides."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "aparān",
+     "gloss": "others",
+     "grounds": "refers to additional deities or powers",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vaṭaka+annaiḥ",
+     "gloss": "with-vaṭaka-cakes",
+     "grounds": "compound indicating offerings of vaṭaka cakes",
+     "morph": "compound vaṭaka+first,anna+second n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects different types of offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "refers to all the deities collectively",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "svarṇa+sugandhibhiḥ",
+     "gloss": "with-gold-fragrances",
+     "grounds": "compound indicating offerings of gold and fragrant substances",
+     "morph": "compound svarṇa+first,sugandhi+second n.ins.pl"
+    }
+   ],
+   "question": "What offerings are prescribed for worshipping the other and all deities?",
+   "premises": [
+    "Others are to be worshipped with vaṭaka cakes.",
+    "All are to be worshipped with gold and fragrant substances."
+   ],
+   "inference": "The ritual requires vaṭaka cakes for some and gold with fragrances for all.",
+   "uncertainties": [
+    "The exact nature of 'svarṇa+sugandhibhiḥ' as material offerings is context-dependent."
+   ],
+   "plain_english": "One should worship the others with vaṭaka cakes and all with gold and fragrant substances."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the chapter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+sūtradhāra+maṇḍana+viracite",
+     "gloss": "composed-by-śrī-sūtradhāra-maṇḍana",
+     "grounds": "compound attributing authorship to Sūtradhāra Maṇḍana",
+     "morph": "compound śrī+first,sūtradhāra+second,maṇḍana+third,viracita+fourth n.loc.sg"
+    },
+    {
+     "surface": "vāstu+śāstre",
+     "gloss": "in-vāstu-treatise",
+     "grounds": "compound naming the genre or work",
+     "morph": "compound vāstu+first,śāstra+second n.loc.sg"
+    },
+    {
+     "surface": "prāsāda+maṇḍane",
+     "gloss": "in-prāsāda-maṇḍana",
+     "grounds": "compound naming the specific text",
+     "morph": "compound prāsāda+first,maṇḍana+second n.loc.sg"
+    },
+    {
+     "surface": "aṣṭamaḥ",
+     "gloss": "eighth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhyāyaḥ",
+     "gloss": "chapter",
+     "grounds": "section marker of the text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes in the Vāstuśāstra text Prāsādamaṇḍana composed by Sūtradhāra Maṇḍana?",
+   "premises": [
+    "The text is attributed to Śrī Sūtradhāra Maṇḍana.",
+    "The work is identified as Vāstuśāstra Prāsādamaṇḍana."
+   ],
+   "inference": "This marks the conclusion of the eighth chapter of Prāsādamaṇḍana.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the eighth chapter in the Prāsādamaṇḍana, a Vāstuśāstra composed by Śrī Sūtradhāra Maṇḍana."
+  }
+ ]
+}

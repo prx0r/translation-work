@@ -1,0 +1,485 @@
+{
+ "song": "kul-p49",
+ "items": [
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "vittaśāṭhyaṃ",
+     "gloss": "wealth-deceit",
+     "grounds": "wealth-deceit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "do",
+     "grounds": "root kṛ optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yadīcchet",
+     "gloss": "if-desire",
+     "grounds": "root iṣ optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "success",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "self genitive",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What conduct must be avoided to attain success of self?",
+   "premises": [
+    "wealth-deceit obstructs self-success",
+    "desire for self-success requires restraint"
+   ],
+   "inference": "avoid wealth-deceit for self-success",
+   "uncertainties": [
+    "edition punctuation not shown"
+   ],
+   "plain_english": "If one desires one's own success, one should not practice deceit regarding wealth."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "acītavyaṃ",
+     "gloss": "not-to-be-neglected",
+     "grounds": "not-to-be-neglected",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "effort instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-sādhakas",
+     "grounds": "sādhakas instrumental",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "sveṣṭasiddhaye",
+     "gloss": "for-desired-success",
+     "grounds": "desired success dative",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What must sādhakas diligently not neglect for desired success?",
+   "premises": [
+    "sādhakas act with effort",
+    "desired success requires diligence"
+   ],
+   "inference": "do not neglect the prescribed practice",
+   "uncertainties": [
+    "exact referent of acītavyaṃ not explicit"
+   ],
+   "plain_english": "Sādhakas should diligently not neglect what is needed for their desired success."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of pūj",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamīṃ",
+     "gloss": "seventh",
+     "grounds": "seventh feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "goddess accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "root pūj optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sarvasiddhaye",
+     "gloss": "for-all-success",
+     "grounds": "all success dative",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the seventh goddess worshipped after preliminary worship?",
+   "premises": [
+    "preliminary worship precedes seventh goddess worship",
+    "purpose is all success"
+   ],
+   "inference": "worship the seventh goddess for all success",
+   "uncertainties": [
+    "object of pūjayet is implied"
+   ],
+   "plain_english": "Having worshipped, one should worship the seventh goddess for all success."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "pratigṛhṇayugaṃ",
+     "gloss": "accept-yuga",
+     "grounds": "accept yuga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyasarjanam",
+     "gloss": "nirmālya-offering",
+     "grounds": "nirmālya offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What formula accompanies accepting the yuga and offering nirmālya?",
+   "premises": [
+    "yuga is accepted",
+    "nirmālya is offered with svāhā"
+   ],
+   "inference": "use svāhā in nirmālya offering",
+   "uncertainties": [
+    "ritual context not fully stated"
+   ],
+   "plain_english": "Accept the yuga, saying svāhā, in the nirmālya offering."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "kamaṇḍaluṃ",
+     "gloss": "kamaṇḍalu",
+     "grounds": "kamaṇḍalu accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karttṛkāñca",
+     "gloss": "and-karttṛkā",
+     "grounds": "karttṛkā with fused ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhārayantī",
+     "gloss": "holding",
+     "grounds": "present participle feminine",
+     "morph": "pres.part.nom.sg.f"
+    },
+    {
+     "surface": "varapradā",
+     "gloss": "boon-giving",
+     "grounds": "boon-giving feminine",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What implements does the boon-giving goddess hold?",
+   "premises": [
+    "boon-giving goddess holds implements",
+    "kamaṇḍalu and karttṛkā are named"
+   ],
+   "inference": "she holds kamaṇḍalu and karttṛkā",
+   "uncertainties": [
+    "exact goddess identity not named"
+   ],
+   "plain_english": "The boon-giving goddess holds a kamaṇḍalu and a karttṛkā."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "khaḍgakheṭakasaṃyuktā",
+     "gloss": "with-sword-shield",
+     "grounds": "sword and shield joined",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "saṃyuktā",
+     "gloss": "joined",
+     "grounds": "joined",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sarvālaṅkārabhūṣitā",
+     "gloss": "all-ornaments",
+     "grounds": "all ornaments",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bhūṣitā",
+     "gloss": "adorned",
+     "grounds": "adorned",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "How is the goddess described with sword, shield, and ornaments?",
+   "premises": [
+    "she is joined with sword and shield",
+    "she is adorned with all ornaments"
+   ],
+   "inference": "the goddess bears sword, shield, and ornaments",
+   "uncertainties": [
+    "possible repetitive verse wording"
+   ],
+   "plain_english": "The goddess is joined with sword and shield and adorned with all ornaments."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "pāṭalīpuṣpasaṅkāśā",
+     "gloss": "pāṭalī-flower-like",
+     "grounds": "pāṭalī flower resembling",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "saṅkāśā",
+     "gloss": "resembling",
+     "grounds": "resembling",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitā",
+     "gloss": "all-ornaments",
+     "grounds": "all ornaments",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bhūṣitā",
+     "gloss": "adorned",
+     "grounds": "adorned",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What flower-like appearance and ornamentation characterize the goddess?",
+   "premises": [
+    "she resembles pāṭalī flower",
+    "she is adorned with all ornaments"
+   ],
+   "inference": "the goddess is pāṭalī-flower-like and ornamented",
+   "uncertainties": [
+    "possible repetitive verse wording"
+   ],
+   "plain_english": "The goddess resembles a pāṭalī flower and is adorned with all ornaments."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "trimukhīṃ",
+     "gloss": "three-faced",
+     "grounds": "three-faced accusative",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "muṇḍasaṃyuktā",
+     "gloss": "with-skull",
+     "grounds": "with skull",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "success-giving",
+     "grounds": "success-giving",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sarvaśobhanā",
+     "gloss": "all-beautiful",
+     "grounds": "all-beautiful",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What form and qualities are attributed to the success-giving goddess?",
+   "premises": [
+    "she is three-faced",
+    "she is with skull and all-beautiful"
+   ],
+   "inference": "the success-giving goddess is three-faced and beautiful",
+   "uncertainties": [
+    "case mismatch in source wording"
+   ],
+   "plain_english": "The success-giving goddess is three-faced, joined with a skull, and all-beautiful."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "kuliśañca",
+     "gloss": "thunderbolt",
+     "grounds": "thunderbolt with fused ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "staff accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhārayanti",
+     "gloss": "holding",
+     "grounds": "root dhṛ present",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "śucismitā",
+     "gloss": "pure-smiling",
+     "grounds": "pure-smiling feminine",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "What implements do the pure-smiling goddesses hold?",
+   "premises": [
+    "pure-smiling goddesses hold implements",
+    "thunderbolt and staff are named"
+   ],
+   "inference": "they hold thunderbolt and staff",
+   "uncertainties": [
+    "plural subject implied"
+   ],
+   "plain_english": "The pure-smiling goddesses hold a thunderbolt and a staff."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "ekadvitricatuḥpañcaṣaṇmukhā",
+     "gloss": "one-to-six-faced",
+     "grounds": "one to six faces",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "sarabhābhayā",
+     "gloss": "with-fearlessness",
+     "grounds": "with fearlessness",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "What range of faces and quality are mentioned for the goddesses?",
+   "premises": [
+    "goddesses have one to six faces",
+    "they are with fearlessness"
+   ],
+   "inference": "the goddesses range from one to six faces and are fearless",
+   "uncertainties": [
+    "compound parsing is compressed"
+   ],
+   "plain_english": "The goddesses have one to six faces and are with fearlessness."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "in brief",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "kuleśānīs",
+     "grounds": "kuleśānīs",
+     "morph": "n.voc.pl"
+    },
+    {
+     "surface": "kimbhūyaḥ",
+     "gloss": "what-more",
+     "grounds": "what more",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotumicchasi",
+     "gloss": "to-hear",
+     "grounds": "root śru fused with icchasi",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "root iṣ present",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What more does the questioner wish to hear about kuleśānīs in brief?",
+   "premises": [
+    "the questioner asks in brief",
+    "more about kuleśānīs is desired"
+   ],
+   "inference": "the listener requests further teaching on kuleśānīs",
+   "uncertainties": [
+    "fused verb form śrotumicchasi"
+   ],
+   "plain_english": "In brief, what more do you wish to hear about the kuleśānīs?"
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "viśeṣadivasārcanaṃ",
+     "gloss": "special-day-worship",
+     "grounds": "special day worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "named",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśamollāsaḥ",
+     "gloss": "tenth-ullāsa",
+     "grounds": "tenth ullāsa",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the tenth ullāsa named?",
+   "premises": [
+    "the tenth ullāsa has a name",
+    "it is special-day-worship"
+   ],
+   "inference": "the tenth ullāsa is named special-day-worship",
+   "uncertainties": [
+    "chapter numbering varies by edition"
+   ],
+   "plain_english": "The tenth ullāsa is named special-day-worship."
+  }
+ ]
+}

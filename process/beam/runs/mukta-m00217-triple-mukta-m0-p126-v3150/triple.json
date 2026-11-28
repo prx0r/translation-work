@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "ūruyugme",
+     "gloss": "thigh-pair",
+     "grounds": "locative location for ritual placement; compound of ūru and yugma",
+     "morph": "compound: ūru+loc.du.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of the same procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānuyugme",
+     "gloss": "knee-pair",
+     "grounds": "locative location for ritual placement; compound of jānu and yugma",
+     "morph": "compound: jānu+loc.du.n"
+    },
+    {
+     "surface": "jaṅghādvaye",
+     "gloss": "shank-pair",
+     "grounds": "locative location for ritual placement; compound of jaṅghā and dvaya",
+     "morph": "compound: jaṅghā+loc.du.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates further continuation of the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which paired lower limbs receive the sequential placement of ritual limb-mantras?",
+   "premises": [
+    "The preceding instruction prescribes sequential placement of six aṅgas with paired syllables.",
+    "Specific body locations are named in paired form as sites of application.",
+    "The thighs, knees, and shanks are enumerated as successive paired locations."
+   ],
+   "inference": "The ritual limb-mantras are to be placed in sequence on the pairs of thighs, knees, and shanks.",
+   "uncertainties": [
+    "The exact mapping of each specific aṅga to each listed pair is not stated within this verse alone."
+   ],
+   "plain_english": "Likewise on the pair of thighs, on the pair of knees, and likewise on the pair of shanks."
+  }
+ ]
+}

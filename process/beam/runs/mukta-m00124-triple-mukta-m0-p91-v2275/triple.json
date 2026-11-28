@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-alternatively",
+     "grounds": "introduces an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "by-another-method",
+     "grounds": "instrumental of an alternative procedure",
+     "morph": "anya+prakāra (compound, m.inst.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyādyaṃ",
+     "gloss": "income-and-so-forth",
+     "grounds": "refers to income and related factors mentioned earlier",
+     "morph": "āya+ādi (compound, n.acc.sg)"
+    },
+    {
+     "surface": "parigṛhyatām",
+     "gloss": "let-be-accepted",
+     "grounds": "prescribes adoption of the stated factors",
+     "morph": "3.sg.passive-imperative √grah"
+    }
+   ],
+   "question": "Is an alternative method permissible for determining income and related factors?",
+   "premises": [
+    "A previous method for determining these factors has been presented.",
+    "An alternative procedure is also available.",
+    "Income and related factors can be accepted through that alternative procedure."
+   ],
+   "inference": "Therefore, one may optionally determine income and related factors by another method.",
+   "uncertainties": [
+    "The exact scope of factors included in āyādyaṃ depends on the preceding context."
+   ],
+   "plain_english": "Alternatively, income and the other related factors should be determined by another method."
+  }
+ ]
+}

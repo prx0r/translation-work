@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "ebhiryuktaṃ",
+     "gloss": "joined-with-these",
+     "grounds": "instrumental plural pronoun fused with past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāmbhaḥ",
+     "gloss": "shiva-water",
+     "grounds": "compound of śiva and ambhas",
+     "morph": "compound"
+    },
+    {
+     "surface": "syācchivamantrābhimantritam",
+     "gloss": "should-be-shiva-mantra-consecrated",
+     "grounds": "optative of as fused with compound past participle",
+     "morph": "3.sg.optative-present + root as; n.nom.sg"
+    }
+   ],
+   "question": "What consecration renders water fit for Śiva worship?",
+   "premises": [
+    "Water is joined with specified substances.",
+    "The water becomes Śiva-water.",
+    "Consecration occurs through Śiva mantras."
+   ],
+   "inference": "Water combined with prescribed substances and consecrated by Śiva mantras becomes Śiva-water.",
+   "uncertainties": [],
+   "plain_english": "Water joined with these substances becomes Śiva-water when consecrated with Śiva mantras."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśattattvaparyantān",
+     "gloss": "extending-to-thirty-six-principles",
+     "grounds": "compound ending in limit up to thirty-six tattvas",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kuśān",
+     "gloss": "kusha-grasses",
+     "grounds": "ritual grass blades",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tryādīnatha",
+     "gloss": "three-and-so-on-then",
+     "grounds": "compound with ādi followed by particle atha",
+     "morph": "m.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.optative-present + root nyas"
+    }
+   ],
+   "question": "How should kuśa grasses representing the tattvas be placed?",
+   "premises": [
+    "Kuśa grasses correspond to the thirty-six tattvas.",
+    "They are arranged in groups beginning with three.",
+    "The officiant should place them ritually."
+   ],
+   "inference": "Kuśa grasses representing up to the thirty-six tattvas should be placed in sets beginning with three.",
+   "uncertainties": [
+    "The exact grouping implied by tryādīn is not fully specified."
+   ],
+   "plain_english": "One should then place kuśa grasses representing up to the thirty-six tattvas, in groups beginning with three."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "vastrayugmena",
+     "gloss": "with-pair-of-cloths",
+     "grounds": "instrumental compound of two cloths",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive of wrapping action",
+     "morph": "(gerund) + root veṣṭ"
+    },
+    {
+     "surface": "śivakumbhaṃ",
+     "gloss": "shiva-pot",
+     "grounds": "ritual pot for Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīm",
+     "gloss": "sprinkler-vessel",
+     "grounds": "ritual vessel accompanying the main pot",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the Śiva pot and sprinkler vessel be covered?",
+   "premises": [
+    "A pair of cloths is used.",
+    "The Śiva pot is to be wrapped.",
+    "The sprinkler vessel is included in the wrapping."
+   ],
+   "inference": "Both the Śiva pot and the sprinkler vessel should be wrapped with a pair of cloths.",
+   "uncertainties": [],
+   "plain_english": "Having wrapped them with a pair of cloths, one should cover the Śiva pot and the sprinkler vessel."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "ritual offering for washing feet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācamanaṃ",
+     "gloss": "sipping-water",
+     "grounds": "ritual water for sipping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcagavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "mixture of five products from the cow",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdiśi",
+     "gloss": "in-four-directions",
+     "grounds": "locative compound indicating placement in four directions",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which ritual substances are placed in the four directions?",
+   "premises": [
+    "Foot-water is prescribed.",
+    "Sipping-water is prescribed.",
+    "The five cow-products are prescribed in the four directions."
+   ],
+   "inference": "Foot-water, sipping-water, and the five cow-products are to be placed in the four directions.",
+   "uncertainties": [
+    "The legacy hint suggests arghya for the third token, but the surface is ca."
+   ],
+   "plain_english": "Foot-water, sipping-water, and the five cow-products should be placed in the four directions."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "dvitīyasnapanaṃ",
+     "gloss": "second-bathing",
+     "grounds": "compound naming the second bath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating scriptural statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal referring to the third bath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb of declaration",
+     "morph": "3.sg.passive-present + root gad"
+    }
+   ],
+   "question": "How are the second and third ritual bathings identified?",
+   "premises": [
+    "A second bathing is declared.",
+    "A third bathing is also stated.",
+    "Both are part of the prescribed sequence."
+   ],
+   "inference": "The text declares the second bathing and states the third bathing in sequence.",
+   "uncertainties": [],
+   "plain_english": "The second bathing is declared, and the third is also stated."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "bhūtīkṣusārakadalītilasarṣapapānasāḥ",
+     "gloss": "ash-sugarcane-banana-sesame-mustard-jackfruit",
+     "grounds": "long compound listing ritual substances",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which substances are enumerated for the bathing sequence?",
+   "premises": [
+    "A series of ritual substances is listed.",
+    "The list includes ash, sugarcane, banana, sesame, mustard, and jackfruit.",
+    "These substances function in the prescribed rite."
+   ],
+   "inference": "The enumerated substances are ash, sugarcane essence, banana, sesame, mustard, and jackfruit.",
+   "uncertainties": [
+    "The exact identification of bhūti and pānasa follows common ritual usage but may vary by context."
+   ],
+   "plain_english": "The substances are ash, sugarcane essence, banana, sesame, mustard, and jackfruit."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatimadhye",
+     "gloss": "within-twenty-five",
+     "grounds": "locative compound indicating the middle of twenty-five",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃtyajed",
+     "gloss": "should-abandon",
+     "grounds": "optative instruction to omit",
+     "morph": "3.sg.optative-present + root tyaj"
+    },
+    {
+     "surface": "antarāvṛtam",
+     "gloss": "inner-enclosure",
+     "grounds": "compound referring to the inner surrounding set",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What omission is required within the twenty-fivefold arrangement?",
+   "premises": [
+    "The arrangement involves twenty-five elements.",
+    "An inner enclosure is identified within it.",
+    "That inner enclosure should be omitted."
+   ],
+   "inference": "Within the twenty-fivefold arrangement, the inner enclosure should be left out.",
+   "uncertainties": [],
+   "plain_english": "But within the twenty-five, one should omit the inner enclosure."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative compound for the cardinal directions",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locative plural for intermediate directions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pādyādyaṣṭakam",
+     "gloss": "eightfold-beginning-with-foot-water",
+     "grounds": "compound naming an eightfold set starting with pādya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle indicating prescription",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the eightfold set beginning with foot-water prescribed?",
+   "premises": [
+    "An eightfold set beginning with foot-water is named.",
+    "The four directions are specified.",
+    "The corners are also specified."
+   ],
+   "inference": "The eightfold set beginning with foot-water is prescribed in the four directions and the corners.",
+   "uncertainties": [],
+   "plain_english": "The eightfold set beginning with foot-water is declared for the four directions and the corners."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "prāguktatritayaṃ",
+     "gloss": "previously-stated-triad",
+     "grounds": "compound referring to a triad mentioned earlier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "ablative used adverbially",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nityakarmaṇi",
+     "gloss": "in-daily-rite",
+     "grounds": "locative compound for regular ritual",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which offerings apply especially in the daily ritual?",
+   "premises": [
+    "A previously stated triad is included.",
+    "The present set is also included.",
+    "These apply especially in daily ritual."
+   ],
+   "inference": "The previously stated triad and this set are especially applicable in the daily rite.",
+   "uncertainties": [
+    "The exact referent of etad depends on the immediately preceding context."
+   ],
+   "plain_english": "The previously stated triad and this set apply especially in the daily rite."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "uttamottamapūjāyām",
+     "gloss": "in-supreme-supreme-worship",
+     "grounds": "locative compound indicating the highest grade of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "aṣṭottaraśatāvadhi",
+     "gloss": "up-to-one-hundred-eight",
+     "grounds": "compound expressing an upper limit of 108",
+     "morph": "compound"
+    }
+   ],
+   "question": "What numerical limit applies in the highest grade of worship?",
+   "premises": [
+    "The context is the supreme grade of worship.",
+    "A numerical upper limit is specified.",
+    "That limit reaches one hundred and eight."
+   ],
+   "inference": "In the highest grade of worship, the prescribed number may extend up to one hundred and eight.",
+   "uncertainties": [
+    "The counted items are implied by context rather than named in this verse."
+   ],
+   "plain_english": "In the supreme grade of worship, the number may go up to one hundred and eight."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "dravyāṇyetāni",
+     "gloss": "these-substances",
+     "grounds": "sandhi fusion of dravyāṇi and etāni",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "quantifying adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental compound naming the primary mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.optative-present + root nyas"
+    }
+   ],
+   "question": "How should all these substances be ritually placed?",
+   "premises": [
+    "All the listed substances are included.",
+    "The root mantra is specified as the means.",
+    "The officiant should place them."
+   ],
+   "inference": "All these substances should be placed using the root mantra.",
+   "uncertainties": [],
+   "plain_english": "One should place all these substances with the root mantra."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of offering action",
+     "morph": "(gerund) + root dā"
+    },
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental compound naming the heart mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "cloths",
+     "grounds": "ritual garments or coverings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vividhāni",
+     "gloss": "various",
+     "grounds": "adjective indicating diversity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which mantra should various cloths be offered?",
+   "premises": [
+    "Various cloths are to be given.",
+    "The heart mantra is specified.",
+    "The offering follows the prescribed ritual action."
+   ],
+   "inference": "Various cloths should be offered using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Having offered them with the heart mantra, one should give various cloths."
+  },
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "brahmabhiḥ",
+     "gloss": "with-brahma-mantras",
+     "grounds": "instrumental plural referring to Brahma mantras",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sakalīkṛtya",
+     "gloss": "having-made-complete",
+     "grounds": "absolutive indicating ritual completion or integration",
+     "morph": "(gerund) + root kṛ"
+    },
+    {
+     "surface": "tatkalāḥ",
+     "gloss": "their-parts",
+     "grounds": "compound referring to the associated kalās",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.optative-present + root nyas"
+    }
+   ],
+   "question": "How are the associated kalās to be installed with Brahma mantras?",
+   "premises": [
+    "Brahma mantras are employed.",
+    "The ritual elements are made complete.",
+    "Their kalās are placed in that location."
+   ],
+   "inference": "After making the elements complete with Brahma mantras, one should place their kalās there.",
+   "uncertainties": [
+    "The precise referent of tatkalāḥ depends on prior ritual context."
+   ],
+   "plain_english": "Having made them complete with the Brahma mantras, one should place their kalās there."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "sthāpanādi",
+     "gloss": "beginning-with-installation",
+     "grounds": "compound indicating installation and related acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyādi",
+     "gloss": "beginning-with-foot-water",
+     "grounds": "compound indicating foot-water and related offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of performing action",
+     "morph": "(gerund) + root kṛ"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of offering action",
+     "morph": "(gerund) + root dā"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental referring to the heart mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of acts should the guru perform with the heart mantra?",
+   "premises": [
+    "Installation and related acts are performed.",
+    "Offerings beginning with foot-water are given.",
+    "The guru performs these acts with the heart mantra."
+   ],
+   "inference": "The guru should perform installation and related acts, then give offerings beginning with foot-water using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Having performed installation and the offerings beginning with foot-water, the guru should give them with the heart mantra."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "padarśya",
+     "gloss": "having-shown",
+     "grounds": "absolutive of displaying a gesture",
+     "morph": "(gerund) + root dṛś"
+    },
+    {
+     "surface": "liṅgamudrāṃ",
+     "gloss": "linga-seal",
+     "grounds": "ritual hand gesture representing the liṅga",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacenāvakuṇṭhayet",
+     "gloss": "should-enclose-with-armor-mantra",
+     "grounds": "optative fused with instrumental of kavaca mantra",
+     "morph": "3.sg.optative-present + root kuṇṭh"
+    }
+   ],
+   "question": "How should the liṅga seal be ritually protected after display?",
+   "premises": [
+    "The liṅga seal is shown.",
+    "The armor mantra is employed.",
+    "The seal should be enclosed or protected."
+   ],
+   "inference": "After showing the liṅga seal, one should enclose it with the armor mantra.",
+   "uncertainties": [],
+   "plain_english": "Having shown the liṅga seal, one should then enclose it with the armor mantra."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "pañcakḷptau",
+     "gloss": "in-fivefold-arrangement",
+     "grounds": "locative compound referring to a fivefold setup",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmāṇi",
+     "gloss": "brahma-mantras",
+     "grounds": "accusative plural referring to Brahma mantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "having-excluded",
+     "grounds": "absolutive of leaving out",
+     "morph": "(gerund) + root hā"
+    },
+    {
+     "surface": "īśānaṃ",
+     "gloss": "ishana",
+     "grounds": "name of the Īśāna mantra or aspect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative plural addressing qualified officiants",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "Which mantra is retained in the fivefold arrangement by qualified officiants?",
+   "premises": [
+    "The arrangement is fivefold.",
+    "The Brahma mantras are excluded.",
+    "Īśāna is retained by the best twice-born."
+   ],
+   "inference": "In the fivefold arrangement, the best twice-born exclude the Brahma mantras and retain Īśāna.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, in the fivefold arrangement, exclude the Brahma mantras and retain Īśāna."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "antare",
+     "gloss": "within",
+     "grounds": "locative adverb or noun indicating interior position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāmadevādyāḥ",
+     "gloss": "beginning-with-vamadeva",
+     "grounds": "compound naming Vāmadeva and others",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcaviṃśatisaṃkhyake",
+     "gloss": "in-twenty-five-count",
+     "grounds": "locative compound indicating a set numbered twenty-five",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which deities occupy the interior in the twenty-fivefold count?",
+   "premises": [
+    "The arrangement has twenty-five elements.",
+    "The interior position is specified.",
+    "Vāmadeva and others are placed there."
+   ],
+   "inference": "In the twenty-fivefold arrangement, Vāmadeva and the others occupy the interior.",
+   "uncertainties": [
+    "The full list beginning with Vāmadeva is not enumerated here."
+   ],
+   "plain_english": "Within the twenty-fivefold arrangement are Vāmadeva and the others."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "krodhādyāḥ",
+     "gloss": "beginning-with-krodha",
+     "grounds": "compound naming Krodha and others",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vasusaṃkhyātāḥ",
+     "gloss": "numbering-eight",
+     "grounds": "compound indicating a count of eight",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śatarudrādikāḥ",
+     "gloss": "beginning-with-shatarudra",
+     "grounds": "compound naming Śatarudra and others",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or-else",
+     "grounds": "particle used in alternative listing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative groups may be included in this arrangement?",
+   "premises": [
+    "A group beginning with Krodha is mentioned.",
+    "That group numbers eight.",
+    "A group beginning with Śatarudra is given as an alternative."
+   ],
+   "inference": "The arrangement may include the eight beginning with Krodha or alternatively those beginning with Śatarudra.",
+   "uncertainties": [],
+   "plain_english": "There are the eight beginning with Krodha, or alternatively those beginning with Śatarudra."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidyeśvarāḥ",
+     "gloss": "lords-of-knowledge",
+     "grounds": "plural name of the Vidyeśvaras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive indicating obligation to worship",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śatarudrāḥ",
+     "gloss": "hundred-rudras",
+     "grounds": "plural name of the Śatarudras",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bahirmatāḥ",
+     "gloss": "regarded-outside",
+     "grounds": "compound indicating placement outside",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the Vidyeśvaras and Śatarudras positioned for worship?",
+   "premises": [
+    "The Vidyeśvaras are to be worshipped.",
+    "Their position is in the middle.",
+    "The Śatarudras are regarded as outside."
+   ],
+   "inference": "The Vidyeśvaras are to be worshipped in the middle, while the Śatarudras are placed outside.",
+   "uncertainties": [],
+   "plain_english": "The Vidyeśvaras are to be worshipped in the middle, and the Śatarudras are regarded as outside."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmnāṃ",
+     "gloss": "of-names",
+     "grounds": "genitive plural of nāman",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sahasraiḥ",
+     "gloss": "with-thousands",
+     "grounds": "instrumental plural indicating thousands",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhyate",
+     "gloss": "is-recited",
+     "grounds": "passive verb of recitation",
+     "morph": "3.sg.passive-present + root paṭh"
+    },
+    {
+     "surface": "tadviśeṣataḥ",
+     "gloss": "especially-there",
+     "grounds": "compound adverbial expression emphasizing that context",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the deity especially invoked through recitation?",
+   "premises": [
+    "The deity is the object of recitation.",
+    "Recitation uses thousands of names.",
+    "This recitation is especially emphasized."
+   ],
+   "inference": "The deity is especially recited with thousands of names.",
+   "uncertainties": [],
+   "plain_english": "And he is especially recited with thousands of names."
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "svāhāntaṃ",
+     "gloss": "ending-with-svaha",
+     "grounds": "compound indicating a formula ending in svāhā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskāraprāntaṃ",
+     "gloss": "ending-with-namaskara",
+     "grounds": "compound indicating a formula ending in namaskāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇavapūrvakam",
+     "gloss": "prefixed-with-om",
+     "grounds": "compound indicating the praṇava comes first",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mantra endings and prefix are permitted in recitation?",
+   "premises": [
+    "A formula may end with svāhā.",
+    "Alternatively it may end with namaskāra.",
+    "The formula is prefixed with the praṇava."
+   ],
+   "inference": "The recitation may end with svāhā or namaskāra and should be prefixed with the praṇava.",
+   "uncertainties": [],
+   "plain_english": "It may end with svāhā or with namaskāra, and be prefixed with the praṇava."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "liṅgaśuddhikramāt",
+     "gloss": "by-linga-purification-sequence",
+     "grounds": "ablative compound indicating procedural order",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prāptā",
+     "gloss": "obtained",
+     "grounds": "past participle indicating what is reached or received",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathāvad",
+     "gloss": "properly",
+     "grounds": "adverbial compound meaning according to rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-explained",
+     "grounds": "passive verb of explanation",
+     "morph": "3.sg.passive-present + root dhā"
+    }
+   ],
+   "question": "How is the proper procedure derived from liṅga purification?",
+   "premises": [
+    "A sequence of liṅga purification is followed.",
+    "What is obtained comes from that sequence.",
+    "The procedure is explained properly."
+   ],
+   "inference": "The proper procedure is explained as obtained through the sequence of liṅga purification.",
+   "uncertainties": [
+    "The feminine subject of prāptā is not explicitly named in this verse."
+   ],
+   "plain_english": "What is obtained through the sequence of liṅga purification is properly explained."
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "svayambhūdevabāṇārṣapauruṣādyamanekadhā",
+     "gloss": "self-born-divine-arrow-sage-human-etc-many-ways",
+     "grounds": "long compound listing types and indicating manifold forms",
+     "morph": "compound"
+    }
+   ],
+   "question": "What manifold classifications of the liṅga are indicated here?",
+   "premises": [
+    "Multiple types are listed in sequence.",
+    "The types include self-born, divine, arrow, sage, and human forms.",
+    "These occur in many ways."
+   ],
+   "inference": "The liṅga is classified in many ways, including self-born, divine, bāṇa, sage, and human types.",
+   "uncertainties": [
+    "The exact technical sense of bāṇa-liṅga depends on broader Śaiva usage."
+   ],
+   "plain_english": "It is classified in many ways, such as self-born, divine, bāṇa, sage, human, and so on."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "paṭaṃ",
+     "gloss": "cloth-image",
+     "grounds": "painted cloth as ritual support",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhitticitraṃ",
+     "gloss": "wall-painting",
+     "grounds": "compound for an image on a wall",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "ritual seat or base",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasaṃskṛtam",
+     "gloss": "consecrated-by-mantra",
+     "grounds": "past participle compound indicating mantra consecration",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative supports may be used when consecrated by mantra?",
+   "premises": [
+    "A cloth image is a possible support.",
+    "A wall painting is a possible support.",
+    "A pedestal is a possible support when consecrated by mantra."
+   ],
+   "inference": "A cloth image, wall painting, or pedestal may be used if consecrated by mantra.",
+   "uncertainties": [],
+   "plain_english": "One may use a cloth image, a wall painting, or a pedestal, provided it is consecrated by mantra."
+  }
+ ]
+}

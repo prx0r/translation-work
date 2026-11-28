@@ -1,0 +1,539 @@
+{
+ "song": "kul-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "ekaikāmnāyajā",
+     "gloss": "one-one-tradition-born",
+     "grounds": "compound of eka+eka+āmnāya+jā",
+     "morph": "compound (m.nom.pl)"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhuktimuktiphalapradāḥ",
+     "gloss": "enjoyment-liberation-fruit-giving",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which mantras born from each tradition give enjoyment and liberation?",
+   "premises": [
+    "each tradition-born mantra gives enjoyment",
+    "each tradition-born mantra gives liberation",
+    "mantras are declared by the speaker"
+   ],
+   "inference": "the mantras are efficacious for both worldly enjoyment and liberation",
+   "uncertainties": [
+    "exact sandhi of ekaikāmnāyajā"
+   ],
+   "plain_english": "Mantras born from each tradition give both enjoyment and liberation."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "mayaiva",
+     "gloss": "by-me-alone",
+     "grounds": "instrumental pronoun with eva",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "kathitāste",
+     "gloss": "spoken-they",
+     "grounds": "fused participle and pronoun",
+     "morph": "verb 3pl perf passive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokānugrahakāṅkṣayā",
+     "gloss": "world-grace-desire",
+     "grounds": "compound in instrumental",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "Why did the speaker declare these mantras?",
+   "premises": [
+    "the speaker declared them",
+    "the declaration was by the speaker alone",
+    "the motive was desire for world-grace"
+   ],
+   "inference": "the mantras were taught for the grace of the world",
+   "uncertainties": [
+    "internal sandhi of kathitāste"
+   ],
+   "plain_english": "I alone spoke them, but from desire for the world's grace."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "āvayoraṃśasambhūtāḥ",
+     "gloss": "of-us-two",
+     "grounds": "compound participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "āvayoraṃśasambhūtāḥ",
+     "gloss": "born-from-portion",
+     "grounds": "repeated token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samuddiṣṭāḥ",
+     "gloss": "designated",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śucismite",
+     "gloss": "pure-smiling-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who are designated as born from portions of us two?",
+   "premises": [
+    "they are born from portions of us two",
+    "they are designated",
+    "the addressee is pure-smiling"
+   ],
+   "inference": "the designated ones arise from portions of both speakers",
+   "uncertainties": [
+    "duplicate token may be editorial"
+   ],
+   "plain_english": "Those born from portions of us two are designated, O pure-smiling one."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "matprasādena",
+     "gloss": "by-my-grace",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścidvetti",
+     "gloss": "someone-knows",
+     "grounds": "fused indefinite and verb",
+     "morph": "verb 3sg pres"
+    },
+    {
+     "surface": "mānavakoṭiṣu",
+     "gloss": "among-human-millions",
+     "grounds": "compound locative plural",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "Who among millions of humans knows by my grace?",
+   "premises": [
+    "knowledge comes by my grace",
+    "someone knows among human millions",
+    "the knower is singled out"
+   ],
+   "inference": "only a rare human knows through divine grace",
+   "uncertainties": [
+    "internal sandhi of kaścidvetti"
+   ],
+   "plain_english": "By my grace, someone among millions of humans knows."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaścaturāmnāyavettā",
+     "gloss": "more-four-tradition-knower",
+     "grounds": "fused adverb and compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturāmnāyavettā",
+     "gloss": "four-tradition-knower",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣācchivo",
+     "gloss": "directly-śiva",
+     "grounds": "fused adverb and noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "verb 3sg opt"
+    }
+   ],
+   "question": "What becomes one who knows all four traditions?",
+   "premises": [
+    "a four-tradition knower is mentioned",
+    "such a knower becomes directly śiva",
+    "the question asks the result"
+   ],
+   "inference": "knowing all four traditions makes one directly śiva",
+   "uncertainties": [
+    "fused token punaścaturāmnāyavettā"
+   ],
+   "plain_english": "What more? A knower of the four traditions becomes directly śiva."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "tasmāttadeva",
+     "gloss": "therefore-that-alone",
+     "grounds": "fused pronoun and particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-alone",
+     "grounds": "demonstrative with eva",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "jānīyād",
+     "gloss": "know",
+     "grounds": "optative verb",
+     "morph": "verb 3sg opt"
+    },
+    {
+     "surface": "yadīcchet",
+     "gloss": "if-desires",
+     "grounds": "conditional optative",
+     "morph": "verb 3sg opt"
+    },
+    {
+     "surface": "siddhimātmanaḥ",
+     "gloss": "perfection-of-self",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What should one know if desiring self-perfection?",
+   "premises": [
+    "one should know that alone",
+    "the condition is desire",
+    "the goal is self-perfection"
+   ],
+   "inference": "desire for perfection requires knowing that alone",
+   "uncertainties": [
+    "fused token tasmāttadeva"
+   ],
+   "plain_english": "Therefore one should know that alone, if one desires perfection of self."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayatyadhaḥsthañca",
+     "gloss": "leads-downward-standing-and",
+     "grounds": "fused verb and compound",
+     "morph": "verb 3sg pres"
+    },
+    {
+     "surface": "adhaḥsthañca",
+     "gloss": "downward-standing-and",
+     "grounds": "compound with ca",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvāmnāya",
+     "gloss": "upward-tradition",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīritaḥ",
+     "gloss": "thus-called",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is upward tradition said to lead?",
+   "premises": [
+    "upward tradition is named",
+    "it leads upward and downward-standing",
+    "it is thus called"
+   ],
+   "inference": "the upward tradition governs both ascent and descent",
+   "uncertainties": [
+    "fused token nayatyadhaḥsthañca"
+   ],
+   "plain_english": "Upward tradition leads upward and downward-standing, and is thus called."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "ūrdhvalokaikasevyatvādūrdhvāmnāya",
+     "gloss": "upward-world-only-served-ness",
+     "grounds": "long compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ūrdhvāmnāya",
+     "gloss": "upward-tradition",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is upward tradition remembered?",
+   "premises": [
+    "it is served only by the upward world",
+    "it is called upward tradition",
+    "it is remembered thus"
+   ],
+   "inference": "its exclusive service by the upward world gives its name",
+   "uncertainties": [
+    "long compound boundary"
+   ],
+   "plain_english": "Because it is served only by the upward world, it is remembered as upward tradition."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "sarvāmnāyādhikaphalamūrdhvāmnāyaṃ",
+     "gloss": "all-traditions-surpassing-fruit-upward-tradition",
+     "grounds": "long compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ūrdhvāmnāyaṃ",
+     "gloss": "upward-tradition",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parāt+param",
+     "gloss": "beyond-beyond",
+     "grounds": "compound with plus sign",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit surpasses all traditions?",
+   "premises": [
+    "upward tradition surpasses all traditions in fruit",
+    "it is beyond beyond",
+    "it is the highest tradition"
+   ],
+   "inference": "upward tradition yields fruit beyond all other traditions",
+   "uncertainties": [
+    "long compound boundary"
+   ],
+   "plain_english": "Upward tradition, surpassing all traditions in fruit, is beyond beyond."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "amnāyeṣu",
+     "gloss": "in-traditions",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "all",
+     "grounds": "locative plural adjective",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ūrdhvāmnāyastathā",
+     "gloss": "upward-tradition-so",
+     "grounds": "fused noun and adverb",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "śiva",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is upward tradition among all traditions?",
+   "premises": [
+    "it is among all traditions",
+    "it is so in śiva",
+    "the traditions are all included"
+   ],
+   "inference": "upward tradition stands among all traditions in śiva",
+   "uncertainties": [
+    "fused token ūrdhvāmnāyastathā"
+   ],
+   "plain_english": "Among all traditions, upward tradition is so in śiva."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "tīrthānāntu",
+     "gloss": "of-shrines-but",
+     "grounds": "fused genitive and particle",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāśī",
+     "gloss": "kāśī",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svarnadī",
+     "gloss": "golden-river",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saritāṃ",
+     "gloss": "of-rivers",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is compared to Kāśī among shrines?",
+   "premises": [
+    "Kāśī is among shrines",
+    "the golden river is among rivers",
+    "the comparison is as...as"
+   ],
+   "inference": "Kāśī stands among shrines as the golden river among rivers",
+   "uncertainties": [
+    "fused token tīrthānāntu"
+   ],
+   "plain_english": "As Kāśī is among shrines, so the golden river is among rivers."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "aśvamedhaḥ",
+     "gloss": "horse-sacrifice",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kratūnāñca",
+     "gloss": "of-rites-and",
+     "grounds": "fused genitive and conjunction",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṣāṇānāṃ",
+     "gloss": "of-stones",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇiḥ",
+     "gloss": "gem",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is compared to a gem among stones?",
+   "premises": [
+    "horse-sacrifice is among rites",
+    "a gem is among stones",
+    "the comparison is as...as"
+   ],
+   "inference": "horse-sacrifice stands among rites as a gem among stones",
+   "uncertainties": [
+    "fused token kratūnāñca"
+   ],
+   "plain_english": "As horse-sacrifice is among rites, so a gem is among stones."
+  }
+ ]
+}

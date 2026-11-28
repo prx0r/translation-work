@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "pravṛttiḥ",
+     "gloss": "activity",
+     "grounds": "noun pravṛtti in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+niṣpattau",
+     "gloss": "all-accomplishment",
+     "grounds": "compound sarva plus niṣpatti in locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "noun vyakti in nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "other",
+     "grounds": "feminine nominative singular of anya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+gatā",
+     "gloss": "that-gone",
+     "grounds": "compound tat plus gatā in nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is manifestation something other than activity gone into all accomplishment?",
+   "premises": [
+    "Manifestation is not other than activity.",
+    "Activity is present in all accomplishment.",
+    "That-gone indicates absorption into accomplishment."
+   ],
+   "inference": "Manifestation is activity absorbed into all accomplishment, not a separate entity.",
+   "uncertainties": [
+    "Exact force of tat+gatā remains unresolved.",
+    "Scope of sarva-niṣpattau is ambiguous."
+   ],
+   "plain_english": "Activity is in all accomplishment; manifestation is not something else, but has gone into that."
+  }
+ ]
+}

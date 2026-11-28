@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "pakṣa+antaram",
+     "gloss": "another-option",
+     "grounds": "compound denoting an alternative option; nominative singular neuter in apposition",
+     "morph": "compound; n.nom.sg"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the previously stated alternative",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "gauṇaḥ",
+     "gloss": "secondary",
+     "grounds": "adjective qualifying the stated option as subordinate",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "pakṣaḥ",
+     "gloss": "option",
+     "grounds": "noun restating the alternative as a ritual option",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What doctrinal status is assigned to this alternative ritual option?",
+   "premises": [
+    "An alternative option is being identified.",
+    "This identified option is characterized as secondary.",
+    "The characterization applies to the previously mentioned ritual alternative."
+   ],
+   "inference": "The previously mentioned alternative is a secondary option rather than a primary one.",
+   "uncertainties": [
+    "The exact scope of what counts as primary in contrast to this secondary option is not specified within this verse alone."
+   ],
+   "plain_english": "This other option is a secondary alternative."
+  }
+ ]
+}

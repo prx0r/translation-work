@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "kāśmīraṃ",
+     "gloss": "saffron",
+     "grounds": "accusative object naming a ritual substance for inscription",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kasturīṃ",
+     "gloss": "musk",
+     "grounds": "accusative object naming a ritual substance for inscription",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lākṣāṃ",
+     "gloss": "lac",
+     "grounds": "accusative object naming a ritual substance for inscription",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sindūrañca",
+     "gloss": "vermilion-and",
+     "grounds": "fused form sindūram+ca; accusative substance conjoined by indeclinable ca",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "varānane",
+     "gloss": "beautiful-faced-one",
+     "grounds": "vocative address to the goddess receiving the instruction",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which specific substances are prescribed for the ritual inscription addressed to the beautiful-faced goddess?",
+   "premises": [
+    "The preceding instruction concerns inscribing for the sake of increase.",
+    "Saffron, musk, lac, and vermilion are named as materials.",
+    "The instruction is directed to the beautiful-faced goddess."
+   ],
+   "inference": "Saffron, musk, lac, and vermilion are the prescribed substances for that ritual inscription.",
+   "uncertainties": [
+    "The exact ritual application of these substances is supplied by the preceding verses."
+   ],
+   "plain_english": "O beautiful-faced one, use saffron, musk, lac, and vermilion."
+  }
+ ]
+}

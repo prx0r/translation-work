@@ -1,0 +1,467 @@
+{
+ "song": "kul-p45",
+ "items": [
+  {
+   "verse": 1113,
+   "rows": [
+    {
+     "surface": "manojñāḥ",
+     "gloss": "pleasing",
+     "grounds": "manojñāḥ = pleasing",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "pūjayedbhaktyā",
+     "gloss": "worship-with-devotion",
+     "grounds": "pūjayed + bhaktyā",
+     "morph": "verb.3.sg.act-opt+indecl."
+    },
+    {
+     "surface": "navarātriṣu",
+     "gloss": "in-navarātris",
+     "grounds": "navarātriṣu = in navarātris",
+     "morph": "noun.loc.pl.f"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "mantravit = mantra-knower",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "How should pleasing worship be performed during navarātris?",
+   "premises": [
+    "mantra-knower performs worship",
+    "worship is with devotion",
+    "navarātris are the occasion"
+   ],
+   "inference": "A mantra-knower should worship pleasingly with devotion during navarātris.",
+   "uncertainties": [
+    "exact number of navarātris not specified"
+   ],
+   "plain_english": "A mantra-knower should worship pleasingly with devotion during the navarātris."
+  },
+  {
+   "verse": 1114,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "pūrvavat = as before",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvamadyādyaiḥ",
+     "gloss": "with-first-middle-etc",
+     "grounds": "pūrva-madhya-ādyaiḥ",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "padārthaiḥ",
+     "gloss": "substances",
+     "grounds": "padārthaiḥ = substances",
+     "morph": "noun.instr.pl.m"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "satisfy",
+     "grounds": "paritoṣayet = satisfy",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should one satisfy as before?",
+   "premises": [
+    "satisfaction follows prior method",
+    "first-middle-etc substances are used",
+    "substances are instrumental"
+   ],
+   "inference": "One should satisfy as before using first, middle, and other substances.",
+   "uncertainties": [
+    "exact substance list not given"
+   ],
+   "plain_english": "As before, one should satisfy using first, middle, and other substances."
+  },
+  {
+   "verse": 1115,
+   "rows": [
+    {
+     "surface": "sādhakastuṣṭimāsādya",
+     "gloss": "adept-having-obtained-satisfaction",
+     "grounds": "sādhaka + tuṣṭim + āsādya",
+     "morph": "noun.nom.sg.m+acc.sg.f+absol."
+    },
+    {
+     "surface": "nivasettava",
+     "gloss": "dwell-in-your-presence",
+     "grounds": "nivaset + tava",
+     "morph": "verb.3.sg.act-opt+pron.gen.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "sannidhau = in presence",
+     "morph": "noun.loc.sg.m"
+    }
+   ],
+   "question": "Where should the adept dwell after satisfaction?",
+   "premises": [
+    "adept obtains satisfaction",
+    "adept should dwell",
+    "dwelling is in your presence"
+   ],
+   "inference": "Having obtained satisfaction, the adept should dwell in your presence.",
+   "uncertainties": [
+    "identity of 'your' not specified"
+   ],
+   "plain_english": "Having obtained satisfaction, the adept should dwell in your presence."
+  },
+  {
+   "verse": 1116,
+   "rows": [
+    {
+     "surface": "ṣaṇmāse",
+     "gloss": "in-six-months",
+     "grounds": "ṣaṇmāse = in six months",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā = or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "trimāse",
+     "gloss": "in-three-months",
+     "grounds": "trimāse = in three months",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā = or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māse",
+     "gloss": "in-month",
+     "grounds": "māse = in month",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "māse",
+     "gloss": "in-month",
+     "grounds": "māse = in month",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "athavā = or",
+     "morph": "indecl."
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "priye = beloved",
+     "morph": "adj.voc.sg.f"
+    }
+   ],
+   "question": "What time intervals are offered for practice?",
+   "premises": [
+    "six months is an option",
+    "three months is an option",
+    "month by month is an option"
+   ],
+   "inference": "Practice may be done in six months, three months, or month by month, beloved.",
+   "uncertainties": [
+    "exact practice not named"
+   ],
+   "plain_english": "Practice may be done in six months, three months, or month by month, beloved."
+  },
+  {
+   "verse": 1117,
+   "rows": [
+    {
+     "surface": "sarvaiśvaryasamṛddhātmā",
+     "gloss": "with-all-prosperity-wealthy-self",
+     "grounds": "sarva-aiśvarya-samṛddha-ātmā",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "sa = he",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhavedāvayoḥ",
+     "gloss": "becomes-dear-to-us",
+     "grounds": "bhaved + āvayoḥ",
+     "morph": "verb.3.sg.act-opt+pron.gen.du"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "priyaḥ = dear",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What becomes of the prosperous self?",
+   "premises": [
+    "self is wealthy in all prosperity",
+    "he becomes dear",
+    "dearness is to us"
+   ],
+   "inference": "The self wealthy in all prosperity becomes dear to us.",
+   "uncertainties": [
+    "'us' refers to unspecified pair"
+   ],
+   "plain_english": "The self wealthy in all prosperity becomes dear to us."
+  },
+  {
+   "verse": 1118,
+   "rows": [
+    {
+     "surface": "sarvalakṣaṇasampannāmanukūlāṃ",
+     "gloss": "with-all-auspicious-marks-favorable",
+     "grounds": "sarva-lakṣaṇa-sampannā-manukūlāṃ",
+     "morph": "compound.acc.sg.f"
+    },
+    {
+     "surface": "manoramām",
+     "gloss": "pleasing",
+     "grounds": "manoramām = pleasing",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What kind of pleasing one is described?",
+   "premises": [
+    "one has all auspicious marks",
+    "one is favorable",
+    "one is pleasing"
+   ],
+   "inference": "The one with all auspicious marks and favorable nature is pleasing.",
+   "uncertainties": [
+    "referent not specified"
+   ],
+   "plain_english": "The one with all auspicious marks and favorable nature is pleasing."
+  },
+  {
+   "verse": 1119,
+   "rows": [
+    {
+     "surface": "abhyaṅgasnānaśuddhāṅgīmāsane",
+     "gloss": "with-oil-bath-purified-limbs-on-seat",
+     "grounds": "abhyaṅga-snāna-śuddha-aṅgīm-āsane",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "copaveśayet",
+     "gloss": "seat",
+     "grounds": "ca + upaveśayet",
+     "morph": "indecl.+verb.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the purified one be seated?",
+   "premises": [
+    "limbs are purified by oil bath",
+    "seating is on a seat",
+    "ca connects the action"
+   ],
+   "inference": "One purified by oil bath should be seated on a seat.",
+   "uncertainties": [
+    "exact seat type not specified"
+   ],
+   "plain_english": "One purified by oil bath should be seated on a seat."
+  },
+  {
+   "verse": 1120,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "ātmānaṃ = self",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "gandhapuṣpādyairalaṅkuryāt",
+     "gloss": "with-sandal-paste-flowers-etc-adorn",
+     "grounds": "gandha-puṣpa-ādyaiḥ + alaṅkuryāt",
+     "morph": "noun.instr.pl.m+verb.3.sg.act-opt"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-lady-of-family",
+     "grounds": "kuleśvari = o lady of family",
+     "morph": "noun.voc.sg.f"
+    }
+   ],
+   "question": "How should the self be adorned?",
+   "premises": [
+    "self is the object",
+    "sandal paste and flowers adorn",
+    "lady of family is addressed"
+   ],
+   "inference": "O lady of family, one should adorn the self with sandal paste, flowers, and so on.",
+   "uncertainties": [
+    "exact adornment list not given"
+   ],
+   "plain_english": "O lady of family, one should adorn the self with sandal paste, flowers, and so on."
+  },
+  {
+   "verse": 1121,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "kṛtvā = having done",
+     "morph": "absol."
+    },
+    {
+     "surface": "kramārcanaṃ",
+     "gloss": "sequential-worship",
+     "grounds": "krama-arcanaṃ = sequential worship",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "dhūpadīpāñca",
+     "gloss": "incense-lamp",
+     "grounds": "dhūpa-dīpa-añca",
+     "morph": "compound.acc.pl.m"
+    },
+    {
+     "surface": "kuladīpakān",
+     "gloss": "family-lamps",
+     "grounds": "kula-dīpakān = family lamps",
+     "morph": "compound.acc.pl.m"
+    }
+   ],
+   "question": "What follows after sequential worship?",
+   "premises": [
+    "sequential worship is done",
+    "incense and lamps are used",
+    "family lamps are included"
+   ],
+   "inference": "Having done sequential worship, one uses incense, lamps, and family lamps.",
+   "uncertainties": [
+    "exact ritual sequence not specified"
+   ],
+   "plain_english": "Having done sequential worship, one uses incense, lamps, and family lamps."
+  },
+  {
+   "verse": 1122,
+   "rows": [
+    {
+     "surface": "māṃsādibhakṣyabhojyādyaistoṣayeddevi",
+     "gloss": "with-meat-etc-foods-satisfy-devi",
+     "grounds": "māṃsa-ādi-bhakṣya-bhojya-ādyaiḥ + toṣayed + devi",
+     "morph": "compound.instr.pl.m+verb.3.sg.act-opt+indecl."
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "bhaktitaḥ = with devotion",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should devi be satisfied?",
+   "premises": [
+    "meat and other foods are used",
+    "devi is to be satisfied",
+    "satisfaction is with devotion"
+   ],
+   "inference": "Devi should be satisfied with meat and other foods, with devotion.",
+   "uncertainties": [
+    "exact food list not given"
+   ],
+   "plain_english": "Devi should be satisfied with meat and other foods, with devotion."
+  },
+  {
+   "verse": 1123,
+   "rows": [
+    {
+     "surface": "yauvanollāsasahitaḥ",
+     "gloss": "with-youthful-glow",
+     "grounds": "yauvana-ullāsa-sahitaḥ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "svayaṃ = himself",
+     "morph": "indecl."
+    },
+    {
+     "surface": "taddhyānatatparaḥ",
+     "gloss": "absorbed-in-meditation",
+     "grounds": "tad-dhyāna-tatparaḥ",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What state accompanies youthful glow?",
+   "premises": [
+    "one has youthful glow",
+    "one is himself",
+    "one is absorbed in meditation"
+   ],
+   "inference": "Himself, with youthful glow, is absorbed in meditation on that.",
+   "uncertainties": [
+    "'that' refers to unspecified object"
+   ],
+   "plain_english": "Himself, with youthful glow, is absorbed in meditation on that."
+  },
+  {
+   "verse": 1124,
+   "rows": [
+    {
+     "surface": "japādikaṃ",
+     "gloss": "japa-etc",
+     "grounds": "japa-ādikaṃ = japa etc",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "samarpyātha",
+     "gloss": "having-offered-then",
+     "grounds": "samarpya + atha",
+     "morph": "absol.+indecl."
+    },
+    {
+     "surface": "tayā",
+     "gloss": "with-her",
+     "grounds": "tayā = with her",
+     "morph": "pron.instr.sg.f"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "saha = together",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niśāṃ",
+     "gloss": "night",
+     "grounds": "niśāṃ = night",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "spend",
+     "grounds": "nayet = spend",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done after offering japa?",
+   "premises": [
+    "japa and so on are offered",
+    "then one spends night",
+    "night is spent with her"
+   ],
+   "inference": "After offering japa and so on, one should spend the night with her.",
+   "uncertainties": [
+    "identity of 'her' not specified"
+   ],
+   "plain_english": "After offering japa and so on, one should spend the night with her."
+  }
+ ]
+}

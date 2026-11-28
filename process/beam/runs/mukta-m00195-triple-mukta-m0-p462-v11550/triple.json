@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p462",
+ "items": [
+  {
+   "verse": 11550,
+   "rows": [
+    {
+     "surface": "dakṣorumūle",
+     "gloss": "right-thigh-root-in",
+     "grounds": "compound dakṣa-uru-mūla, location of placement",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "jānau",
+     "gloss": "knee-in",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gulphe",
+     "gloss": "ankle-in",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcāṃgulīṣu",
+     "gloss": "five-fingers-in",
+     "grounds": "compound pañca-aṅgulī, location of placement",
+     "morph": "compound loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific right-side limb locations receive syllable placement in this stage of the ritual sequence?",
+   "premises": [
+    "The sequence specifies the root of the right thigh as a placement location.",
+    "The sequence specifies the knee and the ankle as placement locations.",
+    "The sequence specifies the five fingers as placement locations."
+   ],
+   "inference": "The syllables are to be placed successively at the root of the right thigh, the knee, the ankle, and the five fingers.",
+   "uncertainties": [
+    "Whether pañcāṃgulīṣu refers to fingers of the hand or toes of the foot is not explicit in this verse alone."
+   ],
+   "plain_english": "One should place them at the root of the right thigh, at the knee, at the ankle, and on the five fingers."
+  }
+ ]
+}

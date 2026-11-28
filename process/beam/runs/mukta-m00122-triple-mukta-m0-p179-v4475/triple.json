@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p179",
+ "items": [
+  {
+   "verse": 4475,
+   "rows": [
+    {
+     "surface": "mārjayed",
+     "gloss": "cleanse",
+     "grounds": "optative of mārj, cleanse; third singular active",
+     "morph": "3.sg.act.opt-mārj"
+    },
+    {
+     "surface": "bāhyavīthīṣu",
+     "gloss": "outer-paths",
+     "grounds": "locative plural feminine of bāhyavīthī, outer path; token kept as given",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "pañcapañca",
+     "gloss": "five-five",
+     "grounds": "indeclinable compound numeral, five and five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekadhā",
+     "gloss": "one-way",
+     "grounds": "indeclinable adverb, in one manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the outer paths be cleansed in this ritual sequence?",
+   "premises": [
+    "outer paths require cleansing",
+    "cleansing proceeds five by five",
+    "the procedure is done one way"
+   ],
+   "inference": "cleanse the outer paths five by five, thus in one way",
+   "uncertainties": [
+    "exact ritual referent of outer paths remains unspecified",
+    "whether five-five denotes groups or repetitions is unclear"
+   ],
+   "plain_english": "Cleanse the outer paths, five by five, thus in one way."
+  }
+ ]
+}

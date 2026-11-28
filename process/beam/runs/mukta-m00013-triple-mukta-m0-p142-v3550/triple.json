@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "quantity of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japyāt",
+     "gloss": "one-should-mutter",
+     "grounds": "prescribed recitation",
+     "morph": "opt.act.3sg (√jap)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the resolve or thought",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "mental resolve preceding effect",
+     "morph": "gerund (√dhyai)"
+    },
+    {
+     "surface": "āpadbhyaḥ",
+     "gloss": "from-calamities",
+     "grounds": "dangers from which release occurs",
+     "morph": "f.abl.pl"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "resulting liberation",
+     "morph": "pass.pres.3sg (√muc)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain liberation from calamities follows from resolving on a hundred-thousand recitations?",
+   "premises": [
+    "A hundred-thousand recitations are resolved upon as the practice.",
+    "This resolve is held through meditation expressed as 'one should mutter a hundred-thousand'.",
+    "Release from calamities is stated to occur as a certain result."
+   ],
+   "inference": "Therefore, meditating on the resolve to perform a hundred-thousand recitations certainly brings release from calamities.",
+   "uncertainties": [
+    "Whether japyāt functions strictly as an optative injunction or as part of the contemplated thought marked by iti is context-dependent."
+   ],
+   "plain_english": "Having meditated, 'One should mutter a hundred thousand,' one is certainly released from calamities."
+  }
+ ]
+}

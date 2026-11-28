@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p471",
+ "items": [
+  {
+   "verse": 11775,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative indicating the locus of meditation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakṣmī",
+     "gloss": "lakṣmī",
+     "grounds": "first member of compound describing the deity as holding Lakṣmī",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dharaṃ",
+     "gloss": "holder",
+     "grounds": "second member of compound qualifying Śrīdhara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative prescribing the meditative act",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "śrīdharam",
+     "gloss": "śrīdhara",
+     "grounds": "name of the deity as object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puruṣārtha",
+     "gloss": "human-goals",
+     "grounds": "first member of compound denoting the aims of human life",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dam",
+     "gloss": "giver",
+     "grounds": "second member of compound qualifying Śrīdhara as bestower of human goals",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What form of Śrīdhara should be meditated upon in the heart to obtain human goals?",
+   "premises": [
+    "Meditation is to be performed in the heart.",
+    "The object of meditation is Śrīdhara, the holder of Lakṣmī.",
+    "Śrīdhara is characterized as the giver of human goals."
+   ],
+   "inference": "By meditating in the heart on Śrīdhara, who holds Lakṣmī and grants human goals, the practitioner aligns with the bestower of those aims.",
+   "uncertainties": [
+    "The compound puruṣārthadam may be read as giving all four human goals or human aims generally."
+   ],
+   "plain_english": "One should meditate in the heart on Śrīdhara, the holder of Lakṣmī, who grants the goals of human life."
+  }
+ ]
+}

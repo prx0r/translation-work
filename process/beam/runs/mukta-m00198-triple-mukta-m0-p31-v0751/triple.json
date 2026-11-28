@@ -1,0 +1,1023 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "kāṃsyenaivāyasā",
+     "gloss": "with-bronze-or-with-iron",
+     "grounds": "instrumental of material; fused with eva and vā/ayasā indicating alternative materials",
+     "morph": "compound-instr.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "prescribes obligatory making",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "garbhabhājanam",
+     "gloss": "womb-vessel",
+     "grounds": "ritual container for deposits",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "From which materials must the ritual womb-vessel be made?",
+   "premises": [
+    "A womb-vessel is required for the ritual.",
+    "Bronze and iron are specified as materials.",
+    "The making of the vessel is obligatory."
+   ],
+   "inference": "The womb-vessel must be made from bronze or from iron.",
+   "uncertainties": [],
+   "plain_english": "The womb-vessel should be made of bronze or of iron."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "ekāṃgula",
+     "gloss": "one-finger",
+     "grounds": "unit of incremental measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vivṛddhyā",
+     "gloss": "by-increase",
+     "grounds": "instrumental indicating gradual enlargement",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāsaṃkhyā",
+     "gloss": "by-parts-count",
+     "grounds": "measure determined by number of parts",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "object whose size is specified",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the size of the vessel increase according to the prescribed count?",
+   "premises": [
+    "The vessel's size is subject to increase.",
+    "The increase proceeds by one finger-breadth.",
+    "The increase follows a count of parts."
+   ],
+   "inference": "The vessel should be increased by one finger-breadth according to the number of parts.",
+   "uncertainties": [
+    "The exact referent of kalāsaṃkhyā in this ritual context is not fully specified."
+   ],
+   "plain_english": "The vessel should be increased by one finger-breadth at a time, according to the number of parts."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "garbhabhājanatārāste",
+     "gloss": "womb-vessel-measures-are",
+     "grounds": "fused form stating measures of the womb-vessel",
+     "morph": "compound+3.pl.pres.act (as given)"
+    },
+    {
+     "surface": "svāṃghrimūlatadantu",
+     "gloss": "own-foot-root-or-its-tooth",
+     "grounds": "alternative bases for measurement; fused compound",
+     "morph": "compound (as given)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative bases determine the measure of the womb-vessel?",
+   "premises": [
+    "The womb-vessel has prescribed measures.",
+    "One basis is the root of one's own foot.",
+    "Another alternative basis is indicated by tadantu."
+   ],
+   "inference": "The womb-vessel may be measured from the root of one's own foot or by that alternative standard.",
+   "uncertainties": [
+    "The precise meaning of tadantu as a measurement standard is unclear."
+   ],
+   "plain_english": "The measures of the womb-vessel are taken from the root of one's own foot, or alternatively by that other standard."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "bhājanocca",
+     "gloss": "vessel-height",
+     "grounds": "height of the vessel as reference measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-third-part",
+     "grounds": "specifies one of three equal parts",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "pidhānasyocchrayaṃ",
+     "gloss": "of-lid-the-height",
+     "grounds": "height of the lid; fused genitive and accusative",
+     "morph": "n.gen.sg+n.acc.sg (fused)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What proportion of the vessel's height should the lid's height be?",
+   "premises": [
+    "The vessel has a defined height.",
+    "The lid requires a prescribed height.",
+    "The proportion is one third."
+   ],
+   "inference": "The height of the lid should be one third of the height of the vessel.",
+   "uncertainties": [],
+   "plain_english": "The height of the lid should be one third of the height of the vessel."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "yavaikavyāsamārabhya",
+     "gloss": "starting-from-one-barley-width",
+     "grounds": "beginning point of a graduated measure",
+     "morph": "compound+gerund"
+    },
+    {
+     "surface": "yāvārdhaṃ",
+     "gloss": "up-to-half",
+     "grounds": "upper limit of the range",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle marking progression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increasing",
+     "grounds": "ablative indicating gradual increase",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What range of gradual increase is prescribed for the width measure?",
+   "premises": [
+    "A starting width is specified as one barley grain.",
+    "An upper limit is specified as half.",
+    "The measure proceeds by gradual increase."
+   ],
+   "inference": "The width should increase gradually from one barley grain up to half.",
+   "uncertainties": [
+    "The unit of the upper limit 'half' is not explicitly stated."
+   ],
+   "plain_english": "Beginning from the width of one barley grain, it should be increased gradually up to half."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "prāguktānāṃ",
+     "gloss": "of-previously-stated",
+     "grounds": "refers back to items already mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phelāyāṃ",
+     "gloss": "in-the-casket",
+     "grounds": "location for arrangement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act pari-√kḷp"
+    }
+   ],
+   "question": "How should the previously mentioned items be arranged within the casket?",
+   "premises": [
+    "Certain items were previously stated.",
+    "These items are to be placed in the casket.",
+    "Their placement must follow an order."
+   ],
+   "inference": "The previously stated items should be arranged in order within the casket.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the previously mentioned items in order within the casket."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "phelābhitti",
+     "gloss": "casket-wall",
+     "grounds": "wall of the casket as subject of measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśālārdhaṃ",
+     "gloss": "half-the-width",
+     "grounds": "specifies thickness as half the width",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "ekorvā",
+     "gloss": "or-one",
+     "grounds": "alternative measure; fused form",
+     "morph": "compound (fused)"
+    },
+    {
+     "surface": "bhittestu",
+     "gloss": "but-of-wall",
+     "grounds": "genitive of wall with contrastive particle; fused",
+     "morph": "f.gen.sg+(indecl.) (fused)"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What thickness is prescribed for the wall of the casket?",
+   "premises": [
+    "The casket wall requires a specified thickness.",
+    "One option is half the width.",
+    "An alternative single measure is also allowed."
+   ],
+   "inference": "The casket wall should be half the width, or alternatively one unit in thickness.",
+   "uncertainties": [
+    "The exact unit implied by ekā/ekorvā is not explicit."
+   ],
+   "plain_english": "O best of the twice-born, the wall of the casket should be half as wide, or one unit thick."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "location external to the previously mentioned area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśe",
+     "gloss": "in-sixteenth",
+     "grounds": "ordinal location or division",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-compartment",
+     "grounds": "cell or compartment for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "directional sequence starting from the east",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kramayogataḥ",
+     "gloss": "by-sequential-order",
+     "grounds": "ablative indicating ordered procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what spatial order should items be placed in the outer compartments?",
+   "premises": [
+    "Placement occurs outside the previously mentioned area.",
+    "There are compartments arranged in a sixteenfold division.",
+    "The sequence begins from the east."
+   ],
+   "inference": "Items should be placed in the outer compartments in sequence beginning from the east.",
+   "uncertainties": [
+    "Whether ṣoḍaśe qualifies koṣṭhe as one of sixteen or a sixteenth division is slightly ambiguous."
+   ],
+   "plain_english": "Outside that, in the compartments, one should proceed in order beginning from the east."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "ratnalohāni",
+     "gloss": "gems-and-metals",
+     "grounds": "objects to be deposited",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dhātūṃśca",
+     "gloss": "and-minerals",
+     "grounds": "additional substances to be deposited",
+     "morph": "m.acc.pl+(indecl.)"
+    },
+    {
+     "surface": "phelāyā",
+     "gloss": "of-the-casket",
+     "grounds": "genitive specifying the container",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhyantare",
+     "gloss": "inside",
+     "grounds": "location within the casket",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act ni-√as"
+    }
+   ],
+   "question": "What substances must be placed inside the casket during the ritual?",
+   "premises": [
+    "The casket has an interior space for deposits.",
+    "Gems and metals are prescribed items.",
+    "Mineral substances are also prescribed."
+   ],
+   "inference": "One should place gems, metals, and minerals inside the casket.",
+   "uncertainties": [],
+   "plain_english": "One should place gems, metals, and minerals inside the casket."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "phelāśuciṃ",
+     "gloss": "casket-impurity",
+     "grounds": "impurity associated with the casket to be removed",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gavyaiḥ",
+     "gloss": "with-cow-products",
+     "grounds": "purifying substances used in the rite",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "astramaṃtram",
+     "gloss": "weapon-mantra",
+     "grounds": "mantra recited during purification",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "udāharan",
+     "gloss": "uttering",
+     "grounds": "concurrent recitation of the mantra",
+     "morph": "m.nom.sg.pres.part.act ud-ā-√hṛ"
+    }
+   ],
+   "question": "How should the casket be purified before the deposits are made?",
+   "premises": [
+    "The casket may have impurity requiring removal.",
+    "Cow products are used for purification.",
+    "The weapon-mantra must be uttered during the act."
+   ],
+   "inference": "The casket should be purified with cow products while uttering the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, while uttering the weapon-mantra, one should purify the casket with the products of the cow."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "anante",
+     "gloss": "in-ananta",
+     "grounds": "location or principle associated with Ananta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinyasedvajraṃ",
+     "gloss": "one-should-place-diamond",
+     "grounds": "fused verb and object prescribing placement",
+     "morph": "3.sg.opt.act vi-ni-√as+n.acc.sg (fused)"
+    },
+    {
+     "surface": "sūkṣme",
+     "gloss": "in-subtle",
+     "grounds": "location or principle associated with Sūkṣma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle connecting placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mauktikaṃ",
+     "gloss": "pearl",
+     "grounds": "gem to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act ni-√as"
+    }
+   ],
+   "question": "Which gems are assigned to Ananta and Sūkṣma in the placement sequence?",
+   "premises": [
+    "Specific placements are made in named loci.",
+    "Ananta is associated with a diamond.",
+    "Sūkṣma is associated with a pearl."
+   ],
+   "inference": "One should place a diamond in Ananta and a pearl in Sūkṣma.",
+   "uncertainties": [],
+   "plain_english": "One should place a diamond in Ananta, and a pearl in Sūkṣma."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "ekarudre",
+     "gloss": "in-ekarudra",
+     "grounds": "location or principle associated with Ekarudra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle connecting placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃkhaṃ",
+     "gloss": "conch",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "trimūrtau",
+     "gloss": "in-trimurti",
+     "grounds": "location or principle associated with Trimūrti",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣyarāgakam",
+     "gloss": "topaz",
+     "grounds": "gem to be placed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which items are assigned to Ekarudra and Trimūrti in the placement sequence?",
+   "premises": [
+    "Specific placements are made in named loci.",
+    "Ekarudra is associated with a conch.",
+    "Trimūrti is associated with a topaz."
+   ],
+   "inference": "A conch should be placed in Ekarudra and a topaz in Trimūrti.",
+   "uncertainties": [],
+   "plain_english": "A conch should be in Ekarudra, and a topaz in Trimūrti."
+  },
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "svarṇe",
+     "gloss": "in-gold",
+     "grounds": "material from which the object is made",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle; fused na+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajaṃ",
+     "gloss": "elephant",
+     "grounds": "figure to be fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action of fashioning",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "akāre",
+     "gloss": "in-letter-a",
+     "grounds": "placement locus identified by the syllable a",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinyasedbudhaḥ",
+     "gloss": "wise-one-should-place",
+     "grounds": "fused verb and agent prescribing placement",
+     "morph": "3.sg.opt.act vi-ni-√as+m.nom.sg (fused)"
+    }
+   ],
+   "question": "What golden figure should the wise practitioner place in the locus of the letter a?",
+   "premises": [
+    "A figure must be fashioned from gold.",
+    "The figure is an elephant.",
+    "The placement locus is the letter a."
+   ],
+   "inference": "The wise practitioner should fashion a golden elephant and place it in the locus of the letter a.",
+   "uncertainties": [],
+   "plain_english": "Having made an elephant of gold, the wise one should place it in the locus of the letter a."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "tāmreṇaiva",
+     "gloss": "with-copper-indeed",
+     "grounds": "material used for making; fused with eva",
+     "morph": "n.instr.sg+(indecl.) (fused)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "made",
+     "grounds": "past participle describing the object",
+     "morph": "m.acc.sg.past.part √kṛ"
+    },
+    {
+     "surface": "kuṃbhaṃ",
+     "gloss": "pot",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ukāre",
+     "gloss": "in-letter-u",
+     "grounds": "placement locus identified by the syllable u",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What copper object should be placed in the locus of the letter u?",
+   "premises": [
+    "An object must be made of copper.",
+    "The object is a pot.",
+    "The placement locus is the letter u."
+   ],
+   "inference": "A pot made of copper should be placed in the locus of the letter u.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, a pot made of copper should be placed in the locus of the letter u."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "svarṇena",
+     "gloss": "with-gold",
+     "grounds": "material from which the object is made",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "bull",
+     "grounds": "figure to be fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action of fashioning",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "kūṭākṣare",
+     "gloss": "in-peak-syllable",
+     "grounds": "placement locus identified as the kūṭa syllable",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-deposit",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.caus.act ni-√dhā"
+    }
+   ],
+   "question": "What golden figure should be deposited in the locus of the peak syllable?",
+   "premises": [
+    "A figure must be fashioned from gold.",
+    "The figure is a bull.",
+    "The placement locus is the kūṭa syllable."
+   ],
+   "inference": "One should fashion a golden bull and deposit it in the locus of the peak syllable.",
+   "uncertainties": [
+    "The exact identity of the kūṭākṣara is not specified in this verse."
+   ],
+   "plain_english": "Having made a bull of gold, one should deposit it in the locus of the peak syllable."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "ūkāre",
+     "gloss": "in-letter-ū",
+     "grounds": "placement locus identified by the syllable ū",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jātiliṃgaṃ",
+     "gloss": "natural-linga",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle connecting placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛkāre",
+     "gloss": "in-letter-ṛ",
+     "grounds": "placement locus identified by the syllable ṛ",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gairikaṃ",
+     "gloss": "red-ochre",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act ni-√as"
+    }
+   ],
+   "question": "Which items are assigned to the loci of the letters ū and ṛ?",
+   "premises": [
+    "Specific placements are made in syllabic loci.",
+    "The locus of ū receives a natural linga.",
+    "The locus of ṛ receives red ochre."
+   ],
+   "inference": "One should place a natural linga in the locus of ū and red ochre in the locus of ṛ.",
+   "uncertainties": [],
+   "plain_english": "One should place a natural linga in the locus of the letter ū, and red ochre in the locus of the letter ṛ."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "gorocanaṃ",
+     "gloss": "yellow-pigment",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaukāre",
+     "gloss": "likewise-in-letter-au",
+     "grounds": "placement locus identified by the syllable au; fused with tathā",
+     "morph": "(indecl.)+m.loc.sg (fused)"
+    },
+    {
+     "surface": "visarge",
+     "gloss": "in-visarga",
+     "grounds": "placement locus identified by the visarga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haritālakam",
+     "gloss": "orpiment",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances are assigned to the loci of the letter au and the visarga?",
+   "premises": [
+    "Specific placements are made in syllabic loci.",
+    "The locus of au receives yellow pigment.",
+    "The locus of visarga receives orpiment."
+   ],
+   "inference": "Yellow pigment should be placed in the locus of au and orpiment in the locus of visarga.",
+   "uncertainties": [],
+   "plain_english": "One should place yellow pigment in the locus of the letter au, and orpiment in the locus of the visarga."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "yavanī",
+     "gloss": "yavanī-grain",
+     "grounds": "grain or seed to be placed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāraśālī",
+     "gloss": "or-rice",
+     "grounds": "alternative or additional grain; fused form",
+     "morph": "compound.f.nom.sg (fused)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyaṃgutilasarṣapam",
+     "gloss": "priyaṅgu-sesame-mustard",
+     "grounds": "compound listing seeds to be placed",
+     "morph": "compound.n.nom.sg"
+    }
+   ],
+   "question": "Which grains and seeds are included among the ritual deposits?",
+   "premises": [
+    "Additional deposits include plant materials.",
+    "Yavanī and rice are specified.",
+    "Priyaṅgu, sesame, and mustard are specified."
+   ],
+   "inference": "The deposits include yavanī, rice, priyaṅgu, sesame, and mustard.",
+   "uncertainties": [
+    "The exact identification of yavanī is uncertain."
+   ],
+   "plain_english": "Yavanī or rice, and priyaṅgu, sesame, and mustard should be included."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "bhājanordhve",
+     "gloss": "above-the-vessel",
+     "grounds": "location on top of the vessel; fused form",
+     "morph": "n.loc.sg (fused)"
+    },
+    {
+     "surface": "pidhānena",
+     "gloss": "with-lid",
+     "grounds": "instrument used to cover",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "susnigdhaṃ",
+     "gloss": "very-smooth",
+     "grounds": "quality of the sealing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "quality of the sealing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative command",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "How should the vessel be sealed with its lid?",
+   "premises": [
+    "The vessel must be covered from above.",
+    "A lid is used for covering.",
+    "The seal must be very smooth and very firm."
+   ],
+   "inference": "The vessel should be made very smooth and very firm above with its lid.",
+   "uncertainties": [],
+   "plain_english": "Make the top of the vessel very smooth and very firm with the lid."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "ṣoḍaśastaṃbhasaṃyuktaṃ",
+     "gloss": "joined-with-sixteen-pillars",
+     "grounds": "describes the structure as having sixteen pillars",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "prapāṃ",
+     "gloss": "canopy",
+     "grounds": "ritual pavilion to be constructed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvāti",
+     "gloss": "having-made-very",
+     "grounds": "prior action with intensifier; fused form",
+     "morph": "gerund √kṛ+(indecl.) (fused)"
+    },
+    {
+     "surface": "sundaram",
+     "gloss": "beautiful",
+     "grounds": "quality of the constructed canopy",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of ritual canopy should be constructed for the rite?",
+   "premises": [
+    "A canopy is to be constructed.",
+    "The canopy must have sixteen pillars.",
+    "The canopy should be very beautiful."
+   ],
+   "inference": "One should construct a very beautiful canopy supported by sixteen pillars.",
+   "uncertainties": [],
+   "plain_english": "Having made a very beautiful canopy supported by sixteen pillars,"
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "dvāratoraṇasaṃyuktaṃ",
+     "gloss": "joined-with-door-and-arch",
+     "grounds": "describes the structure as having a door and archway",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "darbhamālādi",
+     "gloss": "kuśa-garland-and-others",
+     "grounds": "decorative elements beginning with kuśa garlands",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past participle describing decoration",
+     "morph": "f.acc.sg.past.part √bhūṣ"
+    }
+   ],
+   "question": "How should the ritual canopy be adorned and equipped?",
+   "premises": [
+    "The canopy requires structural features.",
+    "It must have a door and an archway.",
+    "It must be adorned with kuśa garlands and other decorations."
+   ],
+   "inference": "The canopy should be equipped with a door and archway and adorned with kuśa garlands and other ornaments.",
+   "uncertainties": [],
+   "plain_english": "equipped with a door and archway, and adorned with kuśa garlands and other decorations."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "hastamātrasamutsedhaṃ",
+     "gloss": "height-of-one-cubit-measure",
+     "grounds": "specifies height as one cubit",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "tālamātramathāpi",
+     "gloss": "or-else-palm-measure",
+     "grounds": "alternative height measure; fused with atha and api",
+     "morph": "compound.n.acc.sg+(indecl.) (fused)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative heights are permitted for the ritual structure?",
+   "premises": [
+    "The structure requires a prescribed height.",
+    "One permitted height is one cubit.",
+    "Another permitted height is one palm measure."
+   ],
+   "inference": "The structure may be one cubit high or alternatively one palm measure high.",
+   "uncertainties": [],
+   "plain_english": "It should be one cubit high, or else one palm measure high."
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "shape prescribed for one direction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanurvṛttaṃ",
+     "gloss": "bow-shaped-round",
+     "grounds": "shape prescribed for another direction",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus-shaped",
+     "grounds": "shape prescribed for another direction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgādiṣu",
+     "gloss": "in-east-and-others",
+     "grounds": "directional locations starting from the east",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "ablative indicating ordered assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shapes should be assigned in sequence to the directions beginning with the east?",
+   "premises": [
+    "Different shapes are prescribed for different directions.",
+    "The sequence begins from the east.",
+    "The shapes named are square, bow-shaped, and lotus-shaped."
+   ],
+   "inference": "In sequence from the east onward, the forms should be square, bow-shaped, and lotus-shaped.",
+   "uncertainties": [
+    "The full mapping of all directional quarters to shapes is not completed in this verse alone."
+   ],
+   "plain_english": "In sequence beginning from the east, make them square, bow-shaped, and lotus-shaped."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "darpaṇodarasaṃkāśaṃ",
+     "gloss": "resembling-mirror-surface",
+     "grounds": "describes the desired smooth, reflective appearance",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "kuṇḍavedīṃstvalaṃ",
+     "gloss": "fire-pits-and-altars-well",
+     "grounds": "objects to be prepared; fused with tu and alam",
+     "morph": "compound.acc.pl+(indecl.) (fused)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative command",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What finish should the fire-pits and altars have when prepared?",
+   "premises": [
+    "Fire-pits and altars must be prepared.",
+    "Their surface requires a specified finish.",
+    "The finish should resemble the surface of a mirror."
+   ],
+   "inference": "The fire-pits and altars should be made smooth like the surface of a mirror.",
+   "uncertainties": [],
+   "plain_english": "Make the fire-pits and altars smooth and shining like the surface of a mirror."
+  }
+ ]
+}

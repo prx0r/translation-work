@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-alternatively",
+     "grounds": "introduces an alternative to the previously stated measures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kikṣuhastaṃ",
+     "gloss": "sugarcane-cubit",
+     "grounds": "compound denoting a specific hand-measure; object of the stated suitability",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic particle marking the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvajātyarhakaṃ",
+     "gloss": "worthy-for-all-classes",
+     "grounds": "compound qualifying the sugarcane-cubit as fit for every class",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses prescriptive possibility or suitability",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Which alternative cubit-measure is declared suitable for all ritual classes?",
+   "premises": [
+    "Earlier prescriptions assign different cubit-measures according to class rank.",
+    "The sugarcane-cubit is presented as an alternative measure.",
+    "This sugarcane-cubit is characterized as worthy for all classes."
+   ],
+   "inference": "Therefore the sugarcane-cubit may serve as a universally acceptable measure across all classes.",
+   "uncertainties": [
+    "The exact technical definition of kikṣuhasta in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "Alternatively, the sugarcane-cubit may be the measure suitable for all classes."
+  }
+ ]
+}

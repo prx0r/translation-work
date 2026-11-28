@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "catūr+varga+pradaṃ",
+     "gloss": "four-aims-giving",
+     "grounds": "compound of catūr (four), varga (aims), and prada (giving); accusative singular neuter agreeing with mantra",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "middle imperative second person singular from root śru",
+     "morph": "2.sg.mid.imp+root śru"
+    },
+    {
+     "surface": "hara+vallabhe",
+     "gloss": "hara-beloved",
+     "grounds": "vocative compound addressing the goddess as beloved of Hara",
+     "morph": "f.voc.sg compound"
+    }
+   ],
+   "question": "What fourfold aims does this mantra bestow upon the devotee?",
+   "premises": [
+    "The mantra is described as giving",
+    "The four aims are named as its gift",
+    "The goddess is asked to listen"
+   ],
+   "inference": "The verse presents the mantra as bestowing the four aims upon the devotee.",
+   "uncertainties": [
+    "The exact four aims are not enumerated in this verse"
+   ],
+   "plain_english": "O goddess, beloved of Hara, listen: this mantra bestows the four aims."
+  }
+ ]
+}

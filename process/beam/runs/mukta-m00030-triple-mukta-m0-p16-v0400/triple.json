@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "japā+puṣpañ",
+     "gloss": "japā-flower",
+     "grounds": "compound of japā and puṣpa; accusative object in the flower list",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rakta+puṣpaṃ",
+     "gloss": "red-flower",
+     "grounds": "compound of rakta and puṣpa; accusative object in the flower list",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb marking special emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers receive special emphasis as offerings to the goddess?",
+   "premises": [
+    "The japā flower is included in the enumerated offerings.",
+    "Red flowers are named alongside the japā flower.",
+    "The term viśeṣataḥ marks red flowers as especially emphasized."
+   ],
+   "inference": "Red flowers, including the japā flower, are given special prominence among offerings to the goddess.",
+   "uncertainties": [
+    "Whether rakta-puṣpam refers to red flowers in general or specifies the japā flower again is contextually ambiguous."
+   ],
+   "plain_english": "And the japā flower, O Goddess, and red flowers especially."
+  }
+ ]
+}

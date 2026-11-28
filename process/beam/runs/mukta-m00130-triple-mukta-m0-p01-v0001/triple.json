@@ -1,0 +1,1073 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "bhūta+śuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "compound: bhūta (element) + śuddhi (purification), object of implied practice",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "deha+śuddhiṃ",
+     "gloss": "body-purification",
+     "grounds": "compound: deha (body) + śuddhi (purification)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "practice of regulating breath",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the following or culminating practice",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which purifications and breath-control constitute the supreme subsequent practice?",
+   "premises": [
+    "Element purification is named as a practice.",
+    "Body purification is named as a practice.",
+    "Breath-control follows thereafter as supreme."
+   ],
+   "inference": "The supreme sequence includes purification of elements, purification of the body, and then breath-control.",
+   "uncertainties": [
+    "The governing verb is implicit in this verse."
+   ],
+   "plain_english": "Element purification, body purification, and then breath-control are the supreme practices."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred utterance used in practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "ritual diagram used in practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "o-great-god",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental relative referring to means of purification",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śudhyati",
+     "gloss": "is-purified",
+     "grounds": "describes the result of the means",
+     "morph": "3.sg.pres.pass. √śudh"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the sphere of purification",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "By which mantra and yantra does purification occur on earth, O great god?",
+   "premises": [
+    "A mantra is sought as a means of purification.",
+    "A yantra is sought as a means of purification.",
+    "Purification occurs on earth through that means."
+   ],
+   "inference": "The verse asks for the specific mantra and yantra by which one becomes purified on earth.",
+   "uncertainties": [
+    "Whether yena refers to mantra, yantra, or both together is contextually open."
+   ],
+   "plain_english": "O great god, by which mantra and yantra is one purified on earth?"
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "tattva+trayaṃ",
+     "gloss": "principle-triad",
+     "grounds": "compound: tattva (principle) + traya (triad)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "speaker promises to reveal the teaching",
+     "morph": "1.sg.fut.act. pra+√vac"
+    },
+    {
+     "surface": "guhyād",
+     "gloss": "than-secret",
+     "grounds": "comparative standard indicating secrecy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "guhyataraṃ",
+     "gloss": "more-secret",
+     "grounds": "comparative degree of secrecy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "qualifies the triad as important",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What great triad of principles is declared more secret than secret?",
+   "premises": [
+    "A triad of principles will be declared.",
+    "This triad is described as great.",
+    "This triad is more secret than what is already secret."
+   ],
+   "inference": "The teaching to be revealed is a great triad of principles of supreme secrecy.",
+   "uncertainties": [],
+   "plain_english": "I will declare the great triad of principles, more secret than the secret."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the previously mentioned triad or its knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sarvārtha+hāniḥ",
+     "gloss": "all-purpose-loss",
+     "grounds": "compound: sarvārtha (all purposes) + hāni (loss)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses a resulting condition",
+     "morph": "3.sg.opt.act. √as"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "ritual repetition of mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "describes recitation lacking result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What loss and fruitlessness result from neglecting that triad, beloved?",
+   "premises": [
+    "Neglect related to that triad leads to loss of all purposes.",
+    "Recitation becomes fruitless in that condition.",
+    "The consequence is addressed to the beloved."
+   ],
+   "inference": "Without that triad, one suffers total loss of aims and recitation yields no fruit.",
+   "uncertainties": [
+    "The exact condition causing the loss is implied rather than explicitly stated."
+   ],
+   "plain_english": "Beloved, without that, there would be loss of all purposes and recitation would be fruitless."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "practice to be performed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence in practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive or optative instruction",
+     "morph": "3.sg.opt.act. √kṛ"
+    },
+    {
+     "surface": "tattva+trayaṃ",
+     "gloss": "principle-triad",
+     "grounds": "compound: tattva (principle) + traya (triad), the remembered teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "indicates the triad is traditionally known or to be recalled",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why must breath-control be performed before engaging the remembered triad of principles?",
+   "premises": [
+    "Breath-control is to be performed.",
+    "It is performed before the triad.",
+    "The triad is remembered or prescribed."
+   ],
+   "inference": "Breath-control is a preparatory act that should precede application of the remembered triad.",
+   "uncertainties": [
+    "The syntactic role of tattva+trayaṃ smṛtam may be appositional or part of a broader instruction."
+   ],
+   "plain_english": "Then one should perform breath-control; this triad of principles is remembered."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "akārādi+kṣakārāntāṃ",
+     "gloss": "beginning-with-a-ending-with-kṣa",
+     "grounds": "compound: akārādi (beginning with a) + kṣakārānta (ending with kṣa), describes the range of syllables",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mātṛkā+akṣara+rūpiṇīm",
+     "gloss": "mother-syllable-formed",
+     "grounds": "compound: mātṛkā (mother) + akṣara (syllable) + rūpiṇī (having form)",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form of the syllable-mother spans from the syllable a to kṣa?",
+   "premises": [
+    "The syllable-mother is described in a specific form.",
+    "That form spans from a to kṣa.",
+    "The description identifies the full range of syllables."
+   ],
+   "inference": "The syllable-mother is to be understood as the complete sequence of syllables from a to kṣa.",
+   "uncertainties": [
+    "The verb governing these accusatives is supplied by context."
+   ],
+   "plain_english": "She has the form of the syllable-mother, extending from a to kṣa."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "absolutive indicating prior arrival",
+     "morph": "(gerund) ā+√gam"
+    },
+    {
+     "surface": "deva+deveśi",
+     "gloss": "o-god-of-gods-lady",
+     "grounds": "compound vocative: deva (god) + deveśī (lady of gods)",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yāga+maṇḍala+sanīdhim",
+     "gloss": "ritual-circle-presence",
+     "grounds": "compound: yāga (ritual) + maṇḍala (circle) + sanidhi (presence/proximity)",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where must one arrive in the presence of the ritual circle, O lady of the gods?",
+   "premises": [
+    "Arrival is indicated as a prior action.",
+    "The destination is the presence of the ritual circle.",
+    "The instruction is addressed to the lady of the gods."
+   ],
+   "inference": "One must come into the presence of the ritual circle before proceeding.",
+   "uncertainties": [
+    "The subject who arrives is not explicitly stated."
+   ],
+   "plain_english": "O lady of the gods, having come into the presence of the ritual circle."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "antaḥ+snānaṃ",
+     "gloss": "inner-bathing",
+     "grounds": "compound: antaḥ (inner) + snāna (bathing)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects practices",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyāṃ",
+     "gloss": "twilight-rite",
+     "grounds": "ritual observance at junction times, here internalized",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker announces instruction",
+     "morph": "1.sg.pres.act. √kath"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative urging attention",
+     "morph": "2.sg.imp.act. √śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What internal bathing and twilight rite are about to be taught, beloved?",
+   "premises": [
+    "Inner bathing is to be explained.",
+    "The twilight rite is to be explained.",
+    "The listener is urged to attend."
+   ],
+   "inference": "The speaker will teach the practices of inner bathing and inner twilight observance.",
+   "uncertainties": [],
+   "plain_english": "Beloved, listen: I will tell you about inner bathing and the twilight rite."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "praṇavena",
+     "gloss": "by-om",
+     "grounds": "instrumental of the sacred syllable Om",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "individual-soul",
+     "grounds": "the living self or embodied soul",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "absolutive indicating holding or fixing",
+     "morph": "(gerund) √dhṛ"
+    },
+    {
+     "surface": "śuci+smite",
+     "gloss": "o-pure-smiling",
+     "grounds": "compound vocative: śuci (pure) + smita (smiling)",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the individual soul held by Om for inner practice, O pure-smiling great goddess?",
+   "premises": [
+    "Om is used as the means.",
+    "The individual soul is held or fixed.",
+    "The instruction is addressed to the great goddess."
+   ],
+   "inference": "The practice involves holding the individual soul by means of Om.",
+   "uncertainties": [
+    "The precise sense of holding the soul may be contemplative or ritual."
+   ],
+   "plain_english": "O great goddess, pure-smiling one, having held the individual soul with Om."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "snāyāt",
+     "gloss": "one-should-bathe",
+     "grounds": "prescriptive instruction for bathing",
+     "morph": "3.sg.opt.act. √snā"
+    },
+    {
+     "surface": "vimale+tīrthe",
+     "gloss": "in-pure-sacred-place",
+     "grounds": "compound: vimala (pure) + tīrtha (sacred ford/place)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣkare",
+     "gloss": "in-puṣkara",
+     "grounds": "named sacred place, also evocative in inner practice",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdayānvite",
+     "gloss": "endowed-with-heart",
+     "grounds": "compound: hṛdaya (heart) + anvita (endowed with), indicating inward focus",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should one bathe inwardly with the heart fully engaged?",
+   "premises": [
+    "Bathing is prescribed as a practice.",
+    "The place is described as a pure sacred ford, Puṣkara.",
+    "The practice is endowed with the heart."
+   ],
+   "inference": "One should perform an inward, heart-centered bathing in the pure sacred place of Puṣkara.",
+   "uncertainties": [
+    "Puṣkara may refer to an external site, an inner locus, or both."
+   ],
+   "plain_english": "One should bathe in the pure sacred place of Puṣkara, with the heart engaged."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "saṅgaṃ",
+     "gloss": "union",
+     "grounds": "contact or union in practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "para+śive",
+     "gloss": "with-supreme-śiva",
+     "grounds": "compound: para (supreme) + śiva (Śiva)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating accomplishment of union",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "ānanda",
+     "gloss": "bliss",
+     "grounds": "state arising from union",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upajāyate",
+     "gloss": "arises",
+     "grounds": "describes the emergence of bliss",
+     "morph": "3.sg.pres.pass. upa+√jan"
+    }
+   ],
+   "question": "What bliss arises from making union with the supreme Śiva?",
+   "premises": [
+    "Union with supreme Śiva is made.",
+    "Bliss arises as a result.",
+    "The arising follows that union."
+   ],
+   "inference": "Union with supreme Śiva gives rise to bliss.",
+   "uncertainties": [],
+   "plain_english": "Having made union with supreme Śiva, bliss arises."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ajapāṃ",
+     "gloss": "unuttered-recitation",
+     "grounds": "the spontaneous or non-verbal mantra practice",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāṇa+rūpiṇīm",
+     "gloss": "breath-formed",
+     "grounds": "compound: prāṇa (breath) + rūpiṇī (having form)",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What breath-formed unuttered recitation is introduced next, O supreme goddess?",
+   "premises": [
+    "The instruction moves to a next step.",
+    "The unuttered recitation is named.",
+    "It is characterized as having the form of breath."
+   ],
+   "inference": "After the previous practice, the breath-formed ajapā is to be taken up.",
+   "uncertainties": [
+    "The verb governing ajapāṃ is implied by the sequence."
+   ],
+   "plain_english": "Then, O supreme goddess, comes the unuttered recitation whose form is the breath."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "antaḥ+sandhyāṃ",
+     "gloss": "inner-twilight-rite",
+     "grounds": "compound: antaḥ (inner) + sandhyā (twilight rite)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.imp.act. √kṛ"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "indicates careful exertion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the inner twilight rite be performed with effort, O Pārvatī?",
+   "premises": [
+    "The inner twilight rite is the object of practice.",
+    "It must be performed.",
+    "It must be performed with effort."
+   ],
+   "inference": "The inner twilight rite should be carried out diligently.",
+   "uncertainties": [],
+   "plain_english": "O great goddess Pārvatī, perform the inner twilight rite with effort."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the inner twilight rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight-rite",
+     "grounds": "the rite previously mentioned",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kula+sādhūnāṃ",
+     "gloss": "of-kula-practitioners",
+     "grounds": "compound: kula (divine energy/lineage) + sādhu (practitioner), those engaged in Kula practice",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samādhi+sthaḥ",
+     "gloss": "established-in-absorption",
+     "grounds": "compound: samādhi (absorption) + stha (established in)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratīyate",
+     "gloss": "is-perceived",
+     "grounds": "describes how the rite is known or experienced",
+     "morph": "3.sg.pres.pass. prati+√i"
+    }
+   ],
+   "question": "How is that twilight rite perceived by Kula practitioners established in absorption?",
+   "premises": [
+    "That twilight rite is identified.",
+    "Kula practitioners are the relevant experiencers.",
+    "One established in absorption perceives it."
+   ],
+   "inference": "The inner twilight rite is directly perceived by Kula practitioners abiding in absorption.",
+   "uncertainties": [
+    "The relation between samādhi+sthaḥ and kula+sādhūnāṃ may be read as appositional or descriptive."
+   ],
+   "plain_english": "That twilight rite is perceived by the Kula practitioners, by one established in absorption."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "ajapāṃ",
+     "gloss": "unuttered-recitation",
+     "grounds": "the ajapā practice asked about",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parameśāna",
+     "gloss": "o-supreme-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-it-be-told",
+     "grounds": "request for explanation",
+     "morph": "3.sg.imp.pass. √kath"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "dayā+nidhe",
+     "gloss": "o-ocean-of-compassion",
+     "grounds": "compound vocative: dayā (compassion) + nidhi (treasury/ocean)",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What explanation of the unuttered recitation is requested from the ocean of compassion?",
+   "premises": [
+    "The unuttered recitation is the topic.",
+    "An explanation is requested.",
+    "The request is addressed to the compassionate supreme lord."
+   ],
+   "inference": "The speaker asks the supreme lord to explain the nature of ajapā.",
+   "uncertainties": [],
+   "plain_english": "O supreme lord, ocean of compassion, tell me about the unuttered recitation."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "contemplative visualization or focus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-this",
+     "grounds": "refers to the ajapā previously mentioned",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "speaker promises instruction",
+     "morph": "1.sg.fut.act. pra+√vac"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "introduces the manner of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior meditation",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive instruction for recitation",
+     "morph": "3.sg.opt.act. √jap"
+    }
+   ],
+   "question": "What meditation on the unuttered recitation enables a person to perform it properly?",
+   "premises": [
+    "A meditation of this practice will be declared.",
+    "A person meditates in that manner.",
+    "After meditating, the person should recite."
+   ],
+   "inference": "Proper recitation of ajapā depends on first performing its prescribed meditation.",
+   "uncertainties": [],
+   "plain_english": "I will declare its meditation, by which a person, having meditated, should perform the recitation."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "ṣaṭ+cakraṃ",
+     "gloss": "six-centers",
+     "grounds": "compound: ṣaṭ (six) + cakra (center/wheel)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhya+gaṃ",
+     "gloss": "going-to-middle",
+     "grounds": "compound: madhya (middle) + ga (going), located in the middle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement or making",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "ajapāṃ",
+     "gloss": "unuttered-recitation",
+     "grounds": "the ajapā practice",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parama+akṣarām",
+     "gloss": "supreme-syllable",
+     "grounds": "compound: parama (supreme) + akṣara (syllable/imperishable)",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the supreme-syllable unuttered recitation placed within the six centers?",
+   "premises": [
+    "The six centers are involved in the practice.",
+    "The ajapā is placed in their middle.",
+    "The ajapā is characterized as the supreme syllable."
+   ],
+   "inference": "The supreme-syllable ajapā should be established in the middle of the six centers.",
+   "uncertainties": [
+    "The exact referent of madhya+gaṃ may be the central channel or a specific locus."
+   ],
+   "plain_english": "Having placed it in the middle of the six centers, contemplate the unuttered recitation as the supreme syllable."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "bindu+arddhaṃ",
+     "gloss": "bindu-crescent",
+     "grounds": "compound: bindu (point) + arddha (half/crescent), a visual form in meditation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candra+saṃyuktaṃ",
+     "gloss": "joined-with-moon",
+     "grounds": "compound: candra (moon) + saṃyukta (joined with)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction to form or visualize",
+     "morph": "2.sg.imp.act. √kṛ"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "indicates careful exertion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What form joined with bindu and crescent moon must be fashioned with effort, beautiful one?",
+   "premises": [
+    "A form involving bindu and crescent is specified.",
+    "It is joined with the moon.",
+    "It must be fashioned with effort."
+   ],
+   "inference": "The practitioner should carefully form or visualize the bindu-crescent joined with the moon.",
+   "uncertainties": [
+    "The exact iconographic configuration is compressed in the compound."
+   ],
+   "plain_english": "O beautiful one, with effort form the bindu and crescent joined with the moon."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "etad+japaṃ",
+     "gloss": "this-recitation",
+     "grounds": "compound: etad (this) + japa (recitation)",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indicates absence of the recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhūta+śuddhiḥ",
+     "gloss": "element-purification",
+     "grounds": "compound: bhūta (element) + śuddhi (purification)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "lacking effective result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is purification of the elements fruitless without this recitation, O goddess?",
+   "premises": [
+    "This recitation is required.",
+    "Element purification is performed as a practice.",
+    "Without this recitation, that purification is fruitless."
+   ],
+   "inference": "The effectiveness of element purification depends on performing this recitation.",
+   "uncertainties": [],
+   "plain_english": "O goddess, without this recitation, purification of the elements is fruitless."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "aṣṭottara+śataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound: aṣṭottara (eight more) + śata (hundred), a standard count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive indicating completion of recitation",
+     "morph": "(gerund) √jap"
+    },
+    {
+     "surface": "bhūta+śuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "compound: bhūta (element) + śuddhi (purification)",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act. sam+ā+√car"
+    }
+   ],
+   "question": "How many recitations must precede the performance of element purification?",
+   "premises": [
+    "Recitation is performed first.",
+    "The count is one hundred and eight.",
+    "Element purification should be performed after that recitation."
+   ],
+   "inference": "One should recite one hundred and eight times before performing element purification.",
+   "uncertainties": [
+    "The object of recitation is implied from the previous verse."
+   ],
+   "plain_english": "Having recited one hundred and eight times, one should perform the purification of the elements."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative referring to the elements or constituents",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality of the referents",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "individual-soul",
+     "grounds": "the living self to be placed or offered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃnyasya",
+     "gloss": "having-deposited",
+     "grounds": "absolutive indicating placing or offering",
+     "morph": "(gerund) sam+ni+√as"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must be done with all those elements and the individual soul, O goddess Pārvatī?",
+   "premises": [
+    "All those elements are taken as objects.",
+    "The individual soul is also involved.",
+    "They are to be deposited or placed in the prescribed manner."
+   ],
+   "inference": "The practice requires depositing all those elements together with the individual soul.",
+   "uncertainties": [
+    "The locus into which they are deposited is supplied by the following verses."
+   ],
+   "plain_english": "O goddess Pārvatī, having deposited all those and the individual soul."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "mūlādhārāt",
+     "gloss": "from-root-support",
+     "grounds": "ablative indicating the starting center, mūlādhāra",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mūla+padmaṃ",
+     "gloss": "root-lotus",
+     "grounds": "compound: mūla (root) + padma (lotus)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śuci+smite",
+     "gloss": "o-pure-smiling",
+     "grounds": "compound vocative: śuci (pure) + smita (smiling)",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "From which root center is the foundational lotus to be contemplated, O pure-smiling great goddess?",
+   "premises": [
+    "The root support is named as a locus.",
+    "The root lotus is identified.",
+    "The instruction is addressed to the great goddess."
+   ],
+   "inference": "The practice begins from the mūlādhāra with attention to the root lotus.",
+   "uncertainties": [
+    "The governing verb is carried over from the surrounding context."
+   ],
+   "plain_english": "O great goddess, pure-smiling one, from the root support, contemplate the root lotus."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "rakta+varṇaṃ",
+     "gloss": "red-colored",
+     "grounds": "compound: rakta (red) + varṇa (color)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual regard",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyaṃ",
+     "gloss": "to-be-served",
+     "grounds": "gerundive indicating worthiness of service or contemplation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "by-yogins",
+     "grounds": "agents who serve or contemplate it",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What qualities make the root lotus always worthy of service by yogins, O supreme goddess?",
+   "premises": [
+    "The root lotus is red-colored.",
+    "It is always to be served or honored.",
+    "Yogins are the ones who serve it."
+   ],
+   "inference": "The red-colored root lotus is continually to be honored by yogins.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, it is red-colored and always to be served by yogins."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tan+madhye",
+     "gloss": "in-its-middle",
+     "grounds": "compound: tad (that) + madhya (middle), locative referring to the lotus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-visualize",
+     "grounds": "prescriptive instruction for meditation",
+     "morph": "3.sg.opt.act. √bhū (caus.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "name of the deity visualized",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śyāmala+sundaram",
+     "gloss": "dark-beautiful",
+     "grounds": "compound: śyāmala (dark) + sundara (beautiful), describing Śiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity should be visualized in the middle of that lotus as dark and beautiful?",
+   "premises": [
+    "The locus is the middle of that lotus.",
+    "Visualization is prescribed.",
+    "The deity visualized is Śiva, dark and beautiful."
+   ],
+   "inference": "One should visualize Śiva, dark and beautiful, in the middle of that lotus.",
+   "uncertainties": [],
+   "plain_english": "In its middle, one should visualize the god Śiva, dark and beautiful."
+  }
+ ]
+}

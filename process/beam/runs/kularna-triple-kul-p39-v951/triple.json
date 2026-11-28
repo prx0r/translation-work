@@ -1,0 +1,491 @@
+{
+ "song": "kul-p39",
+ "items": [
+  {
+   "verse": 951,
+   "rows": [
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental of manas",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "mātrasamvedyaṃ",
+     "gloss": "perceived-by-senses",
+     "grounds": "compound mātra+samvedya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tajjñānaṃ",
+     "gloss": "that-knowledge",
+     "grounds": "tat + jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmasaṃjñitam",
+     "gloss": "called-brahman",
+     "grounds": "brahma + saṃjñita",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What knowledge perceived by the mind is called brahman?",
+   "premises": [
+    "mind perceives sense-objects",
+    "that knowledge is brahman"
+   ],
+   "inference": "brahman is mind-perceived knowledge",
+   "uncertainties": [],
+   "plain_english": "Knowledge perceived by the mind is called brahman."
+  },
+  {
+   "verse": 952,
+   "rows": [
+    {
+     "surface": "parajīvaikadhāmajño",
+     "gloss": "knowing-one-abode",
+     "grounds": "para + jīva + eka + dhāma + jña",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "yoga practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogaviducyate",
+     "gloss": "called-yoga-knower",
+     "grounds": "yoga + vid + ucyate",
+     "morph": "3.sg.pass.prs root vac"
+    }
+   ],
+   "question": "Who is called a knower of yoga?",
+   "premises": [
+    "yogin knows one abode",
+    "such yogin is yoga-knower"
+   ],
+   "inference": "the yogin knowing one abode is called yoga-knower",
+   "uncertainties": [],
+   "plain_english": "The yogin who knows one abode is called a knower of yoga."
+  },
+  {
+   "verse": 953,
+   "rows": [
+    {
+     "surface": "svarūpaśūnyaṃ",
+     "gloss": "empty-of-own-form",
+     "grounds": "sva + rūpa + śūnya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "taddhyānaṃ",
+     "gloss": "that-meditation",
+     "grounds": "tat + dhyāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samādhirabhidhīyate",
+     "gloss": "samadhi",
+     "grounds": "samādhi + abhidhīyate",
+     "morph": "3.sg.pass.prs root dhā"
+    }
+   ],
+   "question": "What meditation empty of own form is called samadhi?",
+   "premises": [
+    "meditation empty of own form",
+    "that meditation is samadhi"
+   ],
+   "inference": "samadhi is meditation empty of own form",
+   "uncertainties": [],
+   "plain_english": "Meditation empty of its own form is called samadhi."
+  },
+  {
+   "verse": 954,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self-manifested",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśite",
+     "gloss": "in-truth",
+     "grounds": "locative of prakāśita",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tattve",
+     "gloss": "tattve",
+     "grounds": "locative of tattva",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tatkṣaṇāttanmayo",
+     "gloss": "then-instant",
+     "grounds": "tat + kṣaṇāt + tanmaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt.act root bhū"
+    }
+   ],
+   "question": "What happens when truth is self-manifested?",
+   "premises": [
+    "truth becomes self-manifested",
+    "then one becomes tanmaya"
+   ],
+   "inference": "one becomes identified with truth in that instant",
+   "uncertainties": [],
+   "plain_english": "When truth is self-manifested, one becomes identified with it in that instant."
+  },
+  {
+   "verse": 955,
+   "rows": [
+    {
+     "surface": "niśvāsocchvāsahīnaśca",
+     "gloss": "without-inhalation-exhalation",
+     "grounds": "niśvāsa + ucchvāsa + hīna + ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niścitaṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta",
+     "gloss": "liberated",
+     "grounds": "past participle of muc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is certainly liberated without breath?",
+   "premises": [
+    "without inhalation and exhalation",
+    "he is certainly liberated"
+   ],
+   "inference": "one without breath is certainly liberated",
+   "uncertainties": [],
+   "plain_english": "One without inhalation and exhalation is certainly liberated."
+  },
+  {
+   "verse": 956,
+   "rows": [
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āste",
+     "gloss": "sits",
+     "grounds": "present middle of ās",
+     "morph": "3.sg.mid.prs root ās"
+    },
+    {
+     "surface": "mṛtavatsākṣāt",
+     "gloss": "like-dead",
+     "grounds": "mṛta + vat + sākṣāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanmuktaḥ",
+     "gloss": "living-liberated",
+     "grounds": "jīvan + mukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass.prs root vac"
+    }
+   ],
+   "question": "Who sitting like dead is called living-liberated?",
+   "premises": [
+    "one sits like dead",
+    "such one is living-liberated"
+   ],
+   "inference": "one who sits like dead is called living-liberated",
+   "uncertainties": [],
+   "plain_english": "One who sits like dead is called living-liberated."
+  },
+  {
+   "verse": 957,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "present active of jñā",
+     "morph": "3.sg.act.prs root jñā"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "pleasure",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "pain",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkalpayate",
+     "gloss": "imagines",
+     "grounds": "present middle of saṃkalp",
+     "morph": "3.sg.mid.prs root saṃkalp"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the liberated mind not know or imagine?",
+   "premises": [
+    "does not know pleasure or pain",
+    "mind does not imagine"
+   ],
+   "inference": "the liberated mind neither knows pleasure and pain nor imagines",
+   "uncertainties": [],
+   "plain_english": "He neither knows pleasure and pain nor does the mind imagine."
+  },
+  {
+   "verse": 958,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "locative singular masculine",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vilīnātmā",
+     "gloss": "dissolved-self",
+     "grounds": "vilīna + ātmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samādhistha",
+     "gloss": "in-samadhi",
+     "grounds": "samādhi + stha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass.prs root vac"
+    }
+   ],
+   "question": "Who dissolved in Shiva in samadhi is called so here?",
+   "premises": [
+    "self dissolved in Shiva",
+    "one in samadhi is called so"
+   ],
+   "inference": "one dissolved in Shiva in samadhi is so called",
+   "uncertainties": [],
+   "plain_english": "Thus one whose self is dissolved in Shiva in samadhi is called so here."
+  },
+  {
+   "verse": 959,
+   "rows": [
+    {
+     "surface": "aviśeṣo",
+     "gloss": "without-distinction",
+     "grounds": "a + viśeṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavettadvajjīvātmaparamātmanoḥ",
+     "gloss": "becomes",
+     "grounds": "fused bhavet + tadvat + jīvātma-paramātmanoḥ",
+     "morph": "3.sg.opt.act root bhū fused with genitive dual"
+    }
+   ],
+   "question": "What becomes without distinction between jiva and paramatman?",
+   "premises": [
+    "no distinction remains",
+    "between jivatman and paramatman"
+   ],
+   "inference": "jivatman and paramatman become without distinction",
+   "uncertainties": [],
+   "plain_english": "There becomes no distinction between jivatman and paramatman."
+  },
+  {
+   "verse": 960,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādhisāmarthyād",
+     "gloss": "by-samadhi-power",
+     "grounds": "samādhi + sāmarthya + āt",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "brahmabhūto",
+     "gloss": "becomes-brahman",
+     "grounds": "brahma + bhūta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavennaraḥ",
+     "gloss": "man",
+     "grounds": "fused bhavet + naraḥ",
+     "morph": "3.sg.opt.act root bhū fused with naraḥ"
+    }
+   ],
+   "question": "How does a man become brahman?",
+   "premises": [
+    "by power of samadhi",
+    "man becomes brahman"
+   ],
+   "inference": "through samadhi power a man becomes brahman",
+   "uncertainties": [],
+   "plain_english": "Thus by the power of samadhi a man becomes brahman."
+  },
+  {
+   "verse": 961,
+   "rows": [
+    {
+     "surface": "pṛthakkṛto",
+     "gloss": "separate",
+     "grounds": "pṛthak + kṛta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇebhyaḥ",
+     "gloss": "from-qualities",
+     "grounds": "ablative plural masculine",
+     "morph": "abl.pl.m"
+    },
+    {
+     "surface": "syādātmā",
+     "gloss": "syādātmā",
+     "grounds": "fused syāt + ātmā",
+     "morph": "3.sg.opt.act root as fused with ātmā nom.sg.m"
+    },
+    {
+     "surface": "tadvadihocyate",
+     "gloss": "tadvadihocyate",
+     "grounds": "fused tadvat + iha + ucyate",
+     "morph": "3.sg.pass.prs root vac fused"
+    }
+   ],
+   "question": "How is the self said to be separate from qualities?",
+   "premises": [
+    "self is separate from qualities",
+    "thus it is said here"
+   ],
+   "inference": "the self is said to be separate from qualities",
+   "uncertainties": [],
+   "plain_english": "The self, separated from qualities, is thus said here."
+  },
+  {
+   "verse": 962,
+   "rows": [
+    {
+     "surface": "alakṣyañca",
+     "gloss": "unseen",
+     "grounds": "a + lakṣya + ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prapañcaṃ",
+     "gloss": "world",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not",
+     "grounds": "na + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "present active of paś",
+     "morph": "3.sg.act.prs root paś"
+    }
+   ],
+   "question": "What does the yogin not see?",
+   "premises": [
+    "yogin is unseen",
+    "he does not see the world"
+   ],
+   "inference": "the yogin does not see the world",
+   "uncertainties": [],
+   "plain_english": "Thus the yogin, himself unseen, does not see the world."
+  }
+ ]
+}

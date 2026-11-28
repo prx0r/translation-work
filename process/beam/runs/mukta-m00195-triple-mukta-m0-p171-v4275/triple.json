@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p171",
+ "items": [
+  {
+   "verse": 4275,
+   "rows": [
+    {
+     "surface": "sādhya+nāma+anvitāṃ",
+     "gloss": "endowed-with-target-name",
+     "grounds": "compound: sādhya (target) + nāma (name) + anvitā (endowed-with), accusative singular feminine qualifying māyāṃ",
+     "morph": "compound: sādhya+nāma+anvitā; acc.sg.f"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā",
+     "grounds": "object of saṃlikhet",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "madhya+koṣṭhe",
+     "gloss": "in-middle-cell",
+     "grounds": "compound: madhya (middle) + koṣṭha (cell), locative of place",
+     "morph": "compound: madhya+koṣṭha; loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "should-write",
+     "grounds": "injunctive instruction continuing the writing procedure",
+     "morph": "3.sg.opt.act; root sam+likh"
+    }
+   ],
+   "question": "In which cell must the māyā marked with the target's name be inscribed?",
+   "premises": [
+    "The preceding instruction directs writing to proceed clockwise from the upper cell.",
+    "The object to be written is the māyā endowed with the target's name.",
+    "The middle cell is specified as the location for this inscription."
+   ],
+   "inference": "Therefore, the practitioner should inscribe the māyā marked with the target's name in the middle cell.",
+   "uncertainties": [
+    "The precise referent of the previously stated result in the immediate context is not fully explicit within this verse alone."
+   ],
+   "plain_english": "One should write the māyā, marked with the name of the target, in the middle cell."
+  }
+ ]
+}

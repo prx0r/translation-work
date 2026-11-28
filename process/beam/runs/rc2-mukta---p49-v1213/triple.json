@@ -1,0 +1,525 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "brahma+randhre",
+     "gloss": "in-brahma-aperture",
+     "grounds": "locative compound indicating the location at the crown aperture",
+     "morph": "loc.sg.n (compound: brahma+randhra)"
+    },
+    {
+     "surface": "parama+ātma+rahasya+yoginībhyaḥ",
+     "gloss": "to-supreme-self-secret-yoginīs",
+     "grounds": "dative plural recipient of obeisance; compound naming the yoginīs of the supreme self's secret",
+     "morph": "dat.pl.f (compound: parama+ātman+rahasya+yoginī)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which yoginīs receive obeisance at the brahma aperture?",
+   "premises": [
+    "The location specified is the brahma aperture.",
+    "The recipients are the yoginīs of the supreme self's secret.",
+    "Obeisance is formally offered to them."
+   ],
+   "inference": "The yoginīs of the supreme self's secret are to be saluted at the brahma aperture.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the yoginīs of the secret of the supreme self at the brahma aperture."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "pāśāya",
+     "gloss": "to-noose",
+     "grounds": "dative recipient of obeisance, referring to the noose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle marking the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāma+ūrdhve",
+     "gloss": "on-left-upper",
+     "grounds": "locative compound specifying the upper left position",
+     "morph": "loc.sg.n (compound: vāma+ūrdhva)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual placement",
+     "morph": "3.sg.opt.act (√nyas with vi)"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "locative indicating the hand as the site of placement",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should the salutation to the noose be placed on the hand?",
+   "premises": [
+    "The formula 'obeisance to the noose' is given.",
+    "Placement is to be performed in this manner.",
+    "The specified location is the upper left of the hand."
+   ],
+   "inference": "The salutation to the noose should be placed on the upper left part of the hand.",
+   "uncertainties": [],
+   "plain_english": "Saying 'obeisance to the noose,' one should place it thus on the upper left part of the hand."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "kha",
+     "gloss": "kha",
+     "grounds": "bīja syllable, kept as mantra material",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "phreṃ",
+     "gloss": "phreṃ",
+     "grounds": "bīja syllable, kept as mantra material",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "khecarīṃ",
+     "gloss": "khecarī",
+     "grounds": "name of a power or gesture invoked by the mantra",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "hsauḥ",
+     "gloss": "hsauḥ",
+     "grounds": "bīja syllable, kept as mantra material",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "bīja+mudrām",
+     "gloss": "seed-gesture",
+     "grounds": "accusative object naming the seed gesture",
+     "morph": "acc.sg.f (compound: bīja+mudrā)"
+    },
+    {
+     "surface": "aiṃ",
+     "gloss": "aiṃ",
+     "grounds": "bīja syllable, kept as mantra material",
+     "morph": "(indecl., mantra)"
+    },
+    {
+     "surface": "yoginī+mudrām",
+     "gloss": "yoginī-gesture",
+     "grounds": "accusative object naming the yoginī gesture",
+     "morph": "acc.sg.f (compound: yoginī+mudrā)"
+    }
+   ],
+   "question": "Which mantra syllables and gestures are specified in this sequence?",
+   "premises": [
+    "The syllables kha, phreṃ, hsauḥ, and aiṃ are given.",
+    "Khecarī, the seed gesture, and the yoginī gesture are named.",
+    "These elements form a ritual sequence."
+   ],
+   "inference": "The sequence specifies the mantras and gestures kha, phreṃ, khecarī, hsauḥ, the seed gesture, aiṃ, and the yoginī gesture.",
+   "uncertainties": [
+    "The exact syntactic linkage between individual syllables and named gestures is compressed."
+   ],
+   "plain_english": "Kha, phreṃ, khecarī, hsauḥ, the seed gesture, aiṃ, and the yoginī gesture."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "pūjā+kāle",
+     "gloss": "at-worship-time",
+     "grounds": "locative compound indicating the time of worship",
+     "morph": "loc.sg.m (compound: pūjā+kāla)"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "all",
+     "grounds": "accusative object indicating the entirety of the rite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle allowing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative injunction prescribing action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "sādhaka+sattamaḥ",
+     "gloss": "practitioner-best",
+     "grounds": "nominative subject, the most excellent practitioner",
+     "morph": "nom.sg.m (compound: sādhaka+sattama)"
+    }
+   ],
+   "question": "Who may perform the entire rite at the time of worship?",
+   "premises": [
+    "The time specified is the time of worship.",
+    "The action may encompass all elements.",
+    "The agent is the most excellent practitioner."
+   ],
+   "inference": "The most excellent practitioner may perform the entire rite at the time of worship.",
+   "uncertainties": [],
+   "plain_english": "At the time of worship, the best practitioner may perform the entire rite."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "tri+valī+valaya",
+     "gloss": "with-three-fold-circle",
+     "grounds": "compound describing adornment with three folds or circles",
+     "morph": "nom./acc. (compound: tri+valī+valaya)"
+    },
+    {
+     "surface": "āyukta",
+     "gloss": "endowed",
+     "grounds": "adjectival participle indicating being furnished with",
+     "morph": "nom./acc. (past participle, √yuj with ā)"
+    },
+    {
+     "surface": "madhya+deśa",
+     "gloss": "middle-region",
+     "grounds": "compound naming the middle region",
+     "morph": "nom./acc. (compound: madhya+deśa)"
+    },
+    {
+     "surface": "su+śobhitām",
+     "gloss": "well-adorned",
+     "grounds": "accusative feminine describing something beautifully adorned",
+     "morph": "acc.sg.f (compound: su+śobhita)"
+    }
+   ],
+   "question": "How is the middle region described in terms of its adornment?",
+   "premises": [
+    "The middle region is the subject of description.",
+    "It is endowed with a threefold circle.",
+    "It is characterized as well adorned."
+   ],
+   "inference": "The middle region is well adorned and endowed with a threefold circle.",
+   "uncertainties": [
+    "The exact referent of the described feminine object is supplied by context."
+   ],
+   "plain_english": "The middle region, endowed with a threefold circle, is well adorned."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahiḥ+pūjām",
+     "gloss": "external-worship",
+     "grounds": "accusative object naming the external worship",
+     "morph": "acc.sg.f (compound: vahiḥ+pūjā)"
+    },
+    {
+     "surface": "ārabheta",
+     "gloss": "one-should-begin",
+     "grounds": "optative injunction to commence the rite",
+     "morph": "3.sg.opt.mid (√rabh with ā)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating subsequent sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghya+sthāpanam",
+     "gloss": "arghya-placement",
+     "grounds": "accusative or nominative action noun naming the placement of the arghya",
+     "morph": "acc.sg.n (compound: arghya+sthāpana)"
+    }
+   ],
+   "question": "What ritual actions should follow in sequence after this point?",
+   "premises": [
+    "External worship is to be begun.",
+    "The placement of the arghya follows.",
+    "Both actions are ordered sequentially."
+   ],
+   "inference": "One should begin the external worship and then perform the placement of the arghya.",
+   "uncertainties": [],
+   "plain_english": "Then one should begin the external worship, and then the placement of the arghya."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "sphuṭa+mantra+siddhi+janakaṃ",
+     "gloss": "clear-mantra-accomplishment-producing",
+     "grounds": "accusative compound describing something that produces clear mantra accomplishment",
+     "morph": "acc.sg.n (compound: sphuṭa+mantra+siddhi+janaka)"
+    },
+    {
+     "surface": "mukti+pradaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "accusative compound describing something that grants liberation",
+     "morph": "acc.sg.n (compound: mukti+prada)"
+    },
+    {
+     "surface": "mauktikam",
+     "gloss": "pearl",
+     "grounds": "accusative noun naming a pearl vessel or material",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What qualities are attributed to the pearl vessel in ritual use?",
+   "premises": [
+    "The pearl is the object described.",
+    "It produces clear accomplishment of mantra.",
+    "It grants liberation."
+   ],
+   "inference": "The pearl vessel is held to produce clear mantra accomplishment and grant liberation.",
+   "uncertainties": [
+    "The noun is taken as referring to a pearl vessel in the arghya context."
+   ],
+   "plain_english": "The pearl vessel produces clear mantra accomplishment and grants liberation."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "kalpaṃ",
+     "gloss": "alternative",
+     "grounds": "accusative noun indicating a secondary option",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "su+madhyamaṃ",
+     "gloss": "very-middling",
+     "grounds": "accusative adjective qualifying the alternative as moderately good",
+     "morph": "acc.sg.m (compound: su+madhyama)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "nom./acc.sg.n (past participle, √vac with pra)"
+    },
+    {
+     "surface": "mṛṇmaya+mayaṃ",
+     "gloss": "made-of-clay",
+     "grounds": "compound indicating material made of clay; repeated formative noted in surface",
+     "morph": "nom./acc.sg.n (compound: mṛṇmaya+maya)"
+    },
+    {
+     "surface": "kalpa+madhyamam",
+     "gloss": "alternative-middling",
+     "grounds": "compound qualifying the clay option as a middling alternative",
+     "morph": "nom./acc.sg.n (compound: kalpa+madhyama)"
+    }
+   ],
+   "question": "How is the clay vessel ranked among ritual alternatives?",
+   "premises": [
+    "A very middling alternative is declared.",
+    "The clay-made option is specified.",
+    "It is described as a middling alternative."
+   ],
+   "inference": "The clay vessel is declared to be a middling alternative.",
+   "uncertainties": [
+    "The form mṛṇmaya+mayaṃ contains a reduplicated formative whose emphasis is unclear."
+   ],
+   "plain_english": "A very middling alternative is declared: the clay vessel is a middling option."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "śāntike",
+     "gloss": "in-pacification",
+     "grounds": "locative indicating the ritual purpose of pacification",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pauṣṭike",
+     "gloss": "in-nourishment",
+     "grounds": "locative indicating the ritual purpose of nourishment",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle linking alternative purposes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājataṃ",
+     "gloss": "silver",
+     "grounds": "accusative object naming the silver material",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative causative injunction to have it made",
+     "morph": "3.sg.opt.caus.act (√kṛ)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What material should be used for pacification or nourishment rites?",
+   "premises": [
+    "The ritual purposes named are pacification and nourishment.",
+    "Silver is specified as the material.",
+    "The practitioner is instructed to have it made."
+   ],
+   "inference": "For pacification or nourishment rites, one should have a silver vessel made.",
+   "uncertainties": [],
+   "plain_english": "O beloved, for pacification or nourishment rites one should have a silver vessel made."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "stambha+kāryeṣu",
+     "gloss": "in-paralyzing-acts",
+     "grounds": "locative plural compound indicating acts of immobilization",
+     "morph": "loc.pl.n (compound: stambha+kārya)"
+    },
+    {
+     "surface": "pāṣāṇaṃ",
+     "gloss": "stone",
+     "grounds": "accusative noun naming stone as the material",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vidveṣe",
+     "gloss": "in-hostility",
+     "grounds": "locative indicating the ritual purpose of causing enmity",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "lauha+mṛṇmayam",
+     "gloss": "iron-clay-made",
+     "grounds": "compound indicating material made of iron and clay",
+     "morph": "nom./acc.sg.n (compound: lauha+mṛṇmaya)"
+    }
+   ],
+   "question": "Which materials are prescribed for paralyzing and hostility rites?",
+   "premises": [
+    "Paralyzing acts require a specific material.",
+    "Hostility rites require a different material.",
+    "Stone and iron-clay are respectively specified."
+   ],
+   "inference": "Stone is prescribed for paralyzing acts, and iron-clay for hostility rites.",
+   "uncertainties": [],
+   "plain_english": "In acts of paralyzing use stone, and in acts of hostility use iron and clay."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "kula+utsādana+kāryeṣu",
+     "gloss": "in-family-destruction-acts",
+     "grounds": "locative plural compound indicating acts aimed at destroying a family or lineage",
+     "morph": "loc.pl.n (compound: kula+utsādana+kārya)"
+    },
+    {
+     "surface": "kāca+pātraṃ",
+     "gloss": "glass-vessel",
+     "grounds": "accusative compound naming a glass vessel",
+     "morph": "acc.sg.n (compound: kāca+pātra)"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-preferred",
+     "grounds": "passive verb indicating special preference or distinction",
+     "morph": "3.sg.pres.pass (√śiṣ with vi)"
+    }
+   ],
+   "question": "What vessel is preferred for rites aimed at family destruction?",
+   "premises": [
+    "The ritual context is acts of family destruction.",
+    "A glass vessel is named.",
+    "This vessel is singled out as preferred."
+   ],
+   "inference": "A glass vessel is preferred for rites of family destruction.",
+   "uncertainties": [],
+   "plain_english": "In acts aimed at destroying a family, a glass vessel is preferred."
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "nara+pātraḥ",
+     "gloss": "human-vessel",
+     "grounds": "compound naming a vessel made from a human skull or human material",
+     "morph": "nom.sg.m (compound: nara+pātra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle introducing a special case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "one-should-take",
+     "grounds": "optative injunction to take or adopt",
+     "morph": "3.sg.opt.act (√grah)"
+    },
+    {
+     "surface": "bhukti+mukti+pradāyakam",
+     "gloss": "enjoyment-liberation-giving",
+     "grounds": "accusative compound describing something that grants both enjoyment and liberation",
+     "morph": "acc.sg.m (compound: bhukti+mukti+pradāyaka)"
+    }
+   ],
+   "question": "What special benefit is attributed to using a human vessel?",
+   "premises": [
+    "The human vessel is presented as a distinct option.",
+    "One is instructed to take it.",
+    "It is said to grant both enjoyment and liberation."
+   ],
+   "inference": "The human vessel should be taken because it grants both enjoyment and liberation.",
+   "uncertainties": [
+    "The exact material referent of nara+pātraḥ is understood from ritual context."
+   ],
+   "plain_english": "But one should take the human vessel, for it grants both enjoyment and liberation."
+  }
+ ]
+}

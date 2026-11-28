@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "gandha+ādyaiḥ",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "instrumental plural of the compound gandha+ādi, indicating offerings beginning with fragrance",
+     "morph": "compound:gandha+ādi.ins.pl.m/n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb enjoining the act of worship",
+     "morph": "3.sg.act.opt~pūj"
+    }
+   ],
+   "question": "What material offerings must be used in performing the prescribed worship?",
+   "premises": [
+    "The ritual act of worship is enjoined as obligatory.",
+    "Offerings beginning with fragrance are specified for this worship.",
+    "The prescribed worship employs these material substances."
+   ],
+   "inference": "The prescribed worship must be performed using fragrance and other such offerings.",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship with fragrance and other such offerings."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "daityasenāhṛdaṃ",
+     "gloss": "demon-army-heart",
+     "grounds": "compound daitya+senā+hṛda; accusative object of surrounding",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaktisenāstrotaḥ",
+     "gloss": "shakti-army-stream",
+     "grounds": "compound śakti+senā+strotaḥ; nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "adverb indicating complete surrounding",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How did the Shakti army's stream surround the demon army's heart?",
+   "premises": [
+    "shakti army stream surrounded demon army heart",
+    "samantataḥ means all around",
+    "the heart is the object of surrounding"
+   ],
+   "inference": "The Shakti army's stream flowed all around the heart of the demon army.",
+   "uncertainties": [
+    "hṛdaṃ may represent hṛdaya in accusative",
+    "strotaḥ may be nominative subject",
+    "the main verb is omitted"
+   ],
+   "plain_english": "The stream of the Shakti army surrounded the heart of the demon army on every side."
+  }
+ ]
+}

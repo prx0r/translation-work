@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "yenaiva",
+     "gloss": "by-which-indeed",
+     "grounds": "fused form of yena (relative pronoun) and eva (emphatic particle); analyzed as given",
+     "morph": "pron.ins.sg.m+indecl."
+    },
+    {
+     "surface": "kṛtamātreṇa",
+     "gloss": "by-mere-doing",
+     "grounds": "compound of kṛta (done) and mātra (mere), expressing sufficiency of the act alone",
+     "morph": "kṛta+ mātra.ins.sg.n"
+    },
+    {
+     "surface": "bhūto",
+     "gloss": "spirit",
+     "grounds": "being or spirit that acts as the seizing agent",
+     "morph": "m.nom.sg.m"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "seizes",
+     "grounds": "denotes the act of taking possession of a person",
+     "morph": "3.sg.act.pres √grah"
+    },
+    {
+     "surface": "mānavam",
+     "gloss": "human",
+     "grounds": "the human being who is seized",
+     "morph": "m.acc.sg.m"
+    }
+   ],
+   "question": "By what mere act can a spirit seize a human being?",
+   "premises": [
+    "A particular act is identified as the operative cause.",
+    "The mere performance of that act is sufficient.",
+    "Upon that mere performance a spirit seizes a human."
+   ],
+   "inference": "Therefore the specified mere act enables a spirit to seize a human being.",
+   "uncertainties": [
+    "The specific act referred to by yenaiva depends on the preceding context."
+   ],
+   "plain_english": "By the mere doing of which, a spirit seizes a human being."
+  }
+ ]
+}

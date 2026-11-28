@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p136",
+ "items": [
+  {
+   "verse": 3400,
+   "rows": [
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "past passive participle qualifying pādyam; enjoined by ritual rule",
+     "morph": "n.acc.sg.ppp(vi-√dhā)"
+    },
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "ritual offering of water for washing feet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund expressing prior action before utterance",
+     "morph": "(indecl.)gerund(ā-√dā)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance to be recited; kept as functional term",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "enam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying mantram",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive ritual instruction for recitation",
+     "morph": "3.sg.optative.active(ud-√īr)"
+    }
+   ],
+   "question": "What ritual utterance must accompany taking the prescribed foot-water offering?",
+   "premises": [
+    "The prescribed foot-water is to be taken as an offering.",
+    "Taking the foot-water is followed by a verbal act.",
+    "A specific mantra is designated for that utterance."
+   ],
+   "inference": "Therefore, upon taking the prescribed foot-water, one should utter this mantra.",
+   "uncertainties": [
+    "The specific content of enam mantram is not identified within this verse."
+   ],
+   "plain_english": "Having taken the prescribed foot-water, one should utter this mantra."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "samagrīvaśiroyuktaṃ",
+     "gloss": "uniform-neck-head-joined",
+     "grounds": "describes the Kailasa form as joined with uniform neck and head",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kūṭakoṣṭhakasaṃyutam",
+     "gloss": "peak-compartment-joined",
+     "grounds": "adds peak and compartment as joined features of the same form",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What structural features complete the described Kailasa form?",
+   "premises": [
+    "The form has uniform neck and head.",
+    "The form has peak and compartment joined."
+   ],
+   "inference": "The described Kailasa form is fully joined and compartmented.",
+   "uncertainties": [
+    "Exact architectural referents of neck, head, peak, and compartment remain uncertain."
+   ],
+   "plain_english": "It is joined with uniform neck and head, and fitted with peak and compartment."
+  }
+ ]
+}

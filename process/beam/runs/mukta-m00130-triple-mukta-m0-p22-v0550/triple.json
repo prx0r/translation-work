@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "prathamam",
+     "gloss": "first",
+     "grounds": "indicates the initial step in the sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anulome",
+     "gloss": "in-natural-order",
+     "grounds": "specifies forward progression of the matrix",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast between the two stages",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilomaṃ",
+     "gloss": "in-reverse-order",
+     "grounds": "specifies backward progression of the matrix",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "immediately-after-that",
+     "grounds": "compound indicating temporal succession; tat+anantaram",
+     "morph": "compound"
+    }
+   ],
+   "question": "What sequential order governs the recitation of the fifty-letter matrix?",
+   "premises": [
+    "The initial recitation proceeds in natural order.",
+    "A contrasting recitation proceeds in reverse order.",
+    "The reverse recitation follows immediately after the first."
+   ],
+   "inference": "The fifty-letter matrix must be recited first in natural order and then immediately in reverse order.",
+   "uncertainties": [],
+   "plain_english": "First in natural order, but then in reverse order immediately after that."
+  }
+ ]
+}

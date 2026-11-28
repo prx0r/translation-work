@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "lohitavarṇaḥ",
+     "gloss": "red-colored",
+     "grounds": "masculine nominative singular adjective/noun describing color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃcabhūtasthavahnivat 4 ni0",
+     "gloss": "like-fire-in-five-elements",
+     "grounds": "compound simile with indeclinable comparative ending vat; editor marker 4 ni0 retained",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What color and simile characterize this deity's form?",
+   "premises": [
+    "The verse gives the color red.",
+    "It compares the form to fire.",
+    "The fire is said to abide in five elements."
+   ],
+   "inference": "The deity's form is red like fire residing in the five elements.",
+   "uncertainties": [
+    "The excerpt does not name the deity explicitly."
+   ],
+   "plain_english": "Red-colored, like fire abiding in the five elements."
+  }
+ ]
+}

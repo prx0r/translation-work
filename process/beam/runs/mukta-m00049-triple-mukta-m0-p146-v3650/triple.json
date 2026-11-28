@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "tyājyā",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive expressing what should be given up",
+     "morph": "gerundive.f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle introducing an alternative question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-which",
+     "grounds": "interrogative asking for the cause or reason",
+     "morph": "interrogative.m.inst.sg"
+    },
+    {
+     "surface": "doṣeṇa",
+     "gloss": "by-fault",
+     "grounds": "names the defect or flaw as the reason",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tat+upāyaḥ",
+     "gloss": "its-remedy",
+     "grounds": "compound indicating the means to address that fault",
+     "morph": "compound:tat+upāyaḥ.m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle adding a further request",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaṇyatām",
+     "gloss": "let-be-told",
+     "grounds": "imperative request for an explanation",
+     "morph": "3.sg.passive-imperative √bhaṇ"
+    }
+   ],
+   "question": "What fault warrants abandoning the prescribed practice, and what remedy corrects that fault?",
+   "premises": [
+    "A prescribed practice may be subject to abandonment.",
+    "Abandonment would be warranted by some specific fault.",
+    "A remedy corresponding to that fault can be identified."
+   ],
+   "inference": "The specific fault requiring abandonment and its corrective remedy must be stated.",
+   "uncertainties": [
+    "The referent of the practice to be abandoned is implicit from the preceding verses."
+   ],
+   "plain_english": "For what fault should it be abandoned, and let its remedy be told."
+  }
+ ]
+}

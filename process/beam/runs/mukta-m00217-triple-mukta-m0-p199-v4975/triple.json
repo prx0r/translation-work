@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p199",
+ "items": [
+  {
+   "verse": 4975,
+   "rows": [
+    {
+     "surface": "japāpuṣpaiḥ",
+     "gloss": "with-china-rose-flowers",
+     "grounds": "instrumental of means indicating the ritual substance used",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "jagadvaśyaṃ",
+     "gloss": "world-subjugation",
+     "grounds": "compound denoting the effect achieved; object of implied ritual action",
+     "morph": "compound=jagat+vaśya; n.acc.sg"
+    },
+    {
+     "surface": "bāṇapuṣpaiḥ",
+     "gloss": "with-arrow-flowers",
+     "grounds": "instrumental of means indicating the ritual substance used",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking two ritual means and their effects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mohanam",
+     "gloss": "enchantment",
+     "grounds": "effect achieved through the stated ritual means; object of implied ritual action",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What distinct ritual effects arise from using china-rose flowers and arrow flowers?",
+   "premises": [
+    "China-rose flowers are specified as the ritual means.",
+    "World-subjugation is named as the effect associated with china-rose flowers.",
+    "Arrow flowers are specified as another ritual means.",
+    "Enchantment is named as the effect associated with arrow flowers."
+   ],
+   "inference": "Different ritual flowers produce different specific effects: china-rose flowers bring world-subjugation, while arrow flowers bring enchantment.",
+   "uncertainties": [
+    "The governing verb is implied from the preceding context rather than stated in this verse."
+   ],
+   "plain_english": "With china-rose flowers one achieves subjugation of the world, and with arrow flowers one achieves enchantment."
+  }
+ ]
+}

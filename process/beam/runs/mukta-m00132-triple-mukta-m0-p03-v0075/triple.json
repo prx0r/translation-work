@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "śaktyucchiṣṭaṃ",
+     "gloss": "power-remnant",
+     "grounds": "compound of śakti and ucchiṣṭa; object of passive drinking",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "pīyate",
+     "gloss": "is-drunk",
+     "grounds": "passive verb indicating required consumption",
+     "morph": "3.sg.pass-pres √pā"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negative compound indicating absence of alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "verb describing consequence for those who do not comply",
+     "morph": "3.pl.act-pres √yā"
+    },
+    {
+     "surface": "rauravam",
+     "gloss": "to-raurava",
+     "grounds": "name of a hell as destination",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why must the remnant of śakti be consumed to avoid Raurava hell?",
+   "premises": [
+    "The remnant of śakti is to be drunk.",
+    "No alternative course is available.",
+    "Otherwise beings go to Raurava hell."
+   ],
+   "inference": "Consuming the remnant of śakti is necessary to prevent falling into Raurava hell.",
+   "uncertainties": [
+    "The precise ritual or doctrinal sense of śaktyucchiṣṭa is not fully specified in this verse alone."
+   ],
+   "plain_english": "Indeed, the remnant of śakti must be drunk; otherwise, they go to Raurava hell."
+  }
+ ]
+}

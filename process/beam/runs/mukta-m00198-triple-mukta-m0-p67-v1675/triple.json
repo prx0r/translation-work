@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "toraṇāṣṭakasaṃyuktaṃ",
+     "gloss": "endowed-with-eight-arches",
+     "grounds": "compound of toraṇa, aṣṭaka, and saṃyukta describing accompaniment by eight arches",
+     "morph": "compound: toraṇa+āṣṭaka+saṃyukta, acc.sg.n"
+    },
+    {
+     "surface": "caturthaṃ maṇṭapānvitam",
+     "gloss": "fourth-endowed-with-pavilion",
+     "grounds": "caturtha qualifies the element as fourth; compound maṇṭapa+anvita indicates possession of a pavilion",
+     "morph": "caturtha: adj.acc.sg.n; compound: maṇṭapa+anvita, acc.sg.n"
+    }
+   ],
+   "question": "What specific features must the fourth element possess in this prescribed arrangement?",
+   "premises": [
+    "A fourth element is specified in the arrangement.",
+    "This element is endowed with eight arches.",
+    "This element is provided with a pavilion."
+   ],
+   "inference": "The prescribed fourth component is a pavilion-equipped structure distinguished by eight arches.",
+   "uncertainties": [
+    "The exact syntactic relation between maṇṭapānvitam and the object arranged in the preceding verse is inferred from context."
+   ],
+   "plain_english": "One should arrange the fourth as endowed with eight arches and provided with a pavilion."
+  }
+ ]
+}

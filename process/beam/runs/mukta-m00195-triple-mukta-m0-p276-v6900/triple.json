@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p276",
+ "items": [
+  {
+   "verse": 6900,
+   "rows": [
+    {
+     "surface": "naranārīnṛpāḥ",
+     "gloss": "men-women-kings",
+     "grounds": "bahuvrīhi/dvandva-style compound nara-nārī-nṛpa, subjects who become submissive",
+     "morph": "compound:nara-nārī-nṛpa;m.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner performing the mantra recitation described previously",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "submissive",
+     "grounds": "predicate adjective indicating being under control or influence",
+     "morph": "adj.m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative expressing the result or potential outcome of the ritual",
+     "morph": "verb.3.pl.opt.act;√as"
+    },
+    {
+     "surface": "maraṇāvadhi",
+     "gloss": "until-death",
+     "grounds": "compound maraṇa-avadhi indicating the temporal limit of the effect",
+     "morph": "compound:maraṇa-avadhi;(indecl.)"
+    }
+   ],
+   "question": "What power over men, women, and kings does this mantra recitation grant the practitioner, and for how long?",
+   "premises": [
+    "The practitioner recites the mantra a thousand times while touching the prepared mixture.",
+    "Men, women, and kings become submissive to that practitioner.",
+    "This state of subjugation persists until death."
+   ],
+   "inference": "Therefore, the prescribed mantra ritual grants the practitioner lifelong control over people, including rulers.",
+   "uncertainties": [],
+   "plain_english": "Men, women, and kings shall be submissive to him until death."
+  }
+ ]
+}

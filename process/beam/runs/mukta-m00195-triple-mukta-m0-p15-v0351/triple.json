@@ -1,0 +1,1163 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "tāmrādi",
+     "gloss": "copper-and-so-on",
+     "grounds": "compound indicating copper and similar metals",
+     "morph": "tāmra+ādi (compound)"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "container for ritual water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "fragrant substance used for scenting",
+     "morph": "karpūra+ (compound-member)"
+    },
+    {
+     "surface": "vāsitena",
+     "gloss": "scented",
+     "grounds": "perfumed or infused",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "ritual liquid medium",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of vessel and scented water should be prepared for the ritual?",
+   "premises": [
+    "A vessel of copper or similar material is specified",
+    "The water is scented with camphor"
+   ],
+   "inference": "Ritual water should be prepared in a copper vessel and scented with camphor",
+   "uncertainties": [
+    "Exact range of metals implied by tāmrādi is unspecified"
+   ],
+   "plain_english": "And in a vessel of copper or the like, with water scented with camphor."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "ritual water to be used",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "refers to the specified mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "sacred formula for consecration",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kuśa",
+     "gloss": "kuśa-grass",
+     "grounds": "sacred grass used in sprinkling",
+     "morph": "kuśa+ (compound-member)"
+    },
+    {
+     "surface": "bindubhiḥ",
+     "gloss": "with-drops",
+     "grounds": "drops sprinkled using kuśa grass",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How should the prepared water be applied using mantra and kuśa grass?",
+   "premises": [
+    "The water is used together with a mantra",
+    "Drops are applied using kuśa grass"
+   ],
+   "inference": "The mantra-empowered water should be sprinkled in drops with kuśa grass",
+   "uncertainties": [
+    "The specific mantra referred to by tena is not named here"
+   ],
+   "plain_english": "With that mantra, sprinkle the water in drops using kuśa grass."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "puraścaryā",
+     "gloss": "by-preliminary-rites",
+     "grounds": "preparatory ritual observances",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kleśitānāṃ",
+     "gloss": "of-those-afflicted",
+     "grounds": "persons troubled or exhausted by rites",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samāvartanavat",
+     "gloss": "like-returning",
+     "grounds": "comparative indicating restorative return",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "refers to the described rite",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What restorative function does this rite serve for those afflicted by preliminary rites?",
+   "premises": [
+    "Some practitioners are afflicted by preliminary rites",
+    "This act functions like a returning or restoration"
+   ],
+   "inference": "This rite restores those who have been wearied by preliminary observances",
+   "uncertainties": [
+    "The exact nature of the affliction is not specified"
+   ],
+   "plain_english": "This is like a restoration for those afflicted by preliminary rites."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "pātrāntare",
+     "gloss": "in-another-vessel",
+     "grounds": "a separate container",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "fragrant substance",
+     "morph": "karpūra+ (compound-member)"
+    },
+    {
+     "surface": "guṭikā",
+     "gloss": "pill",
+     "grounds": "small prepared pellet",
+     "morph": "guṭikā+ (compound-member)"
+    },
+    {
+     "surface": "vāsitaṃ",
+     "gloss": "scented",
+     "grounds": "infused or perfumed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "ritual water in another vessel",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional preparation of scented water is required in another vessel?",
+   "premises": [
+    "Another vessel is to be used",
+    "Water there is scented with a camphor pill"
+   ],
+   "inference": "A separate vessel should contain water scented with a camphor pill",
+   "uncertainties": [],
+   "plain_english": "And in another vessel, there should be water scented with a camphor pill."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "perform mantra recitation",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the prepared water or rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpanaṃ",
+     "gloss": "kindling",
+     "grounds": "act of energizing or activating",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "expresses intended result",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal scope",
+     "morph": "sarva+ (compound-member)"
+    },
+    {
+     "surface": "mantreṣu",
+     "gloss": "in-mantras",
+     "grounds": "mantric formulas generally",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "is approved or intended",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "What activating effect is achieved by muttering over this preparation for all mantras?",
+   "premises": [
+    "One should mutter over this preparation",
+    "It is desired as a kindling for all mantras"
+   ],
+   "inference": "Muttering over this preparation serves to kindle or activate all mantras",
+   "uncertainties": [],
+   "plain_english": "One should mutter over this; it should be a kindling and is desired for all mantras as well."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "samproktāḥ",
+     "gloss": "declared",
+     "grounds": "taught or stated in texts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal scope",
+     "morph": "sarva+ (compound-member)"
+    },
+    {
+     "surface": "tantreṣu",
+     "gloss": "in-tantras",
+     "grounds": "tantric scriptures",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "gopitāḥ",
+     "gloss": "hidden",
+     "grounds": "kept secret or concealed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are these teachings presented across all tantric scriptures?",
+   "premises": [
+    "They are declared in all tantras",
+    "They are also kept hidden"
+   ],
+   "inference": "These teachings are both proclaimed in all tantras and kept secret",
+   "uncertainties": [
+    "The referent of the teachings is implied from context"
+   ],
+   "plain_english": "They are declared in all tantras, yet kept hidden."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇā",
+     "gloss": "to-be-stated",
+     "grounds": "about to be explained",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "japo",
+     "gloss": "muttering",
+     "grounds": "mantra recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "libation",
+     "grounds": "ritual offering of satisfaction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ritual practices are about to be explained next in the teaching?",
+   "premises": [
+    "Certain practices are to be stated",
+    "These include muttering, oblation, and libation"
+   ],
+   "inference": "The upcoming teaching will explain muttering, oblation, and libation",
+   "uncertainties": [],
+   "plain_english": "Muttering, oblation, and libation are to be stated next."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "saṃskārāḥ",
+     "gloss": "consecrations",
+     "grounds": "ritual consecratory acts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "additional matter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "purpose of listening",
+     "morph": "infinitive √śru"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-wish",
+     "grounds": "addressed desire of the listener",
+     "morph": "2.sg.act-present √iṣ"
+    }
+   ],
+   "question": "What additional topic besides consecrations does the listener wish to hear?",
+   "premises": [
+    "Consecrations have been mentioned",
+    "The listener is asked about other desired topics"
+   ],
+   "inference": "The speaker inquires whether the listener wishes to hear anything beyond consecrations",
+   "uncertainties": [],
+   "plain_english": "Consecrations—what else do you wish to hear?"
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "saṃskāra",
+     "gloss": "consecration",
+     "grounds": "ritual consecration",
+     "morph": "saṃskāra+ (compound-member)"
+    },
+    {
+     "surface": "prakāśo",
+     "gloss": "exposition",
+     "grounds": "revelation or explanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal designation of section",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which section of the teaching is identified as the second exposition of consecration?",
+   "premises": [
+    "The topic is the exposition of consecration",
+    "It is designated as the second"
+   ],
+   "inference": "This marks the second section on the exposition of consecration",
+   "uncertainties": [],
+   "plain_english": "The second exposition of consecration."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaśyakaṃ",
+     "gloss": "necessary",
+     "grounds": "required or essential",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "speaker requesting instruction",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "nirṇayaṃ",
+     "gloss": "determination",
+     "grounds": "definite conclusion or ruling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "command to explain",
+     "morph": "2.sg.act-imperative √vad"
+    }
+   ],
+   "question": "What necessary ritual action does the speaker request to be definitively explained?",
+   "premises": [
+    "The speaker asks about necessary action in that context",
+    "A definitive determination is requested"
+   ],
+   "inference": "The speaker requests a clear determination of the necessary ritual action",
+   "uncertainties": [],
+   "plain_english": "Tell me the determination of the necessary action there."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "pañcavidhaṃ",
+     "gloss": "fivefold",
+     "grounds": "divided into five kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the ritual action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rājñām",
+     "gloss": "of-kings",
+     "grounds": "pertaining to royal practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uttamottamam",
+     "gloss": "best-of-the-best",
+     "grounds": "highest or most excellent form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fivefold form of the ritual is considered supreme for kings?",
+   "premises": [
+    "The ritual is described as fivefold",
+    "For kings it is the best of the best"
+   ],
+   "inference": "The fivefold form of the ritual is the supreme version prescribed for kings",
+   "uncertainties": [
+    "The specific five divisions are not enumerated here"
+   ],
+   "plain_english": "That is fivefold and the very best for kings."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "brāhmaṇānām",
+     "gloss": "of-brāhmaṇas",
+     "grounds": "pertaining to brāhmaṇa practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "alpam",
+     "gloss": "little",
+     "grounds": "reduced or minimal form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "declared in teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatīnām",
+     "gloss": "of-ascetics",
+     "grounds": "pertaining to renunciants",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alpakam",
+     "gloss": "little",
+     "grounds": "reduced or minimal form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What reduced form of the ritual is prescribed for brāhmaṇas and ascetics?",
+   "premises": [
+    "A little form is stated for brāhmaṇas",
+    "A little form is also stated for ascetics"
+   ],
+   "inference": "Both brāhmaṇas and ascetics are prescribed a reduced form of the ritual",
+   "uncertainties": [],
+   "plain_english": "For brāhmaṇas a little is stated, and for ascetics also a little."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttama",
+     "gloss": "best",
+     "grounds": "highest category",
+     "morph": "uttama+ (compound-member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates a series beginning with best",
+     "morph": "uttama+ādi (compound)"
+    },
+    {
+     "surface": "bhedānāṃ",
+     "gloss": "of-divisions",
+     "grounds": "different categories or grades",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "viṣayo",
+     "gloss": "scope",
+     "grounds": "domain of application",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "expresses applicability",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How should the scope of the ritual apply across the best and other divisions?",
+   "premises": [
+    "There are divisions beginning with the best",
+    "The ritual has a scope of application"
+   ],
+   "inference": "The ritual's scope should extend across the best and other divisions",
+   "uncertainties": [
+    "The full list of divisions is not specified"
+   ],
+   "plain_english": "And it should be within the scope of the divisions beginning with the best."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "sthala",
+     "gloss": "site",
+     "grounds": "ritual ground",
+     "morph": "sthala+ (compound-member)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "fractional measure",
+     "morph": "ardha+ (compound-member)"
+    },
+    {
+     "surface": "aṅgula",
+     "gloss": "finger",
+     "grounds": "unit of measurement",
+     "morph": "aṅgula+ (compound-member)"
+    },
+    {
+     "surface": "ucchrāyaṃ",
+     "gloss": "height",
+     "grounds": "raised elevation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇḍapa",
+     "gloss": "pavilion",
+     "grounds": "ritual pavilion",
+     "morph": "maṇḍapa+ (compound-member)"
+    },
+    {
+     "surface": "sthalam",
+     "gloss": "ground",
+     "grounds": "prepared floor or site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "stated as prescribed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What elevation is prescribed for the pavilion ground in the ritual site?",
+   "premises": [
+    "The pavilion ground is discussed",
+    "A height of half a finger is declared"
+   ],
+   "inference": "The pavilion ground should be raised to a height of half a finger",
+   "uncertainties": [
+    "The exact base reference for the measurement is implicit"
+   ],
+   "plain_english": "The pavilion ground is declared to have a height of half a finger."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "asthi",
+     "gloss": "bone",
+     "grounds": "impure material to be absent",
+     "morph": "asthi+ (compound-member)"
+    },
+    {
+     "surface": "kīṭa",
+     "gloss": "insect",
+     "grounds": "impure creature to be absent",
+     "morph": "kīṭa+ (compound-member)"
+    },
+    {
+     "surface": "tuṣa",
+     "gloss": "husk",
+     "grounds": "waste material to be absent",
+     "morph": "tuṣa+ (compound-member)"
+    },
+    {
+     "surface": "aṅgāra",
+     "gloss": "charcoal",
+     "grounds": "burnt residue to be absent",
+     "morph": "aṅgāra+ (compound-member)"
+    },
+    {
+     "surface": "mala",
+     "gloss": "impurity",
+     "grounds": "defilement to be absent",
+     "morph": "mala+ (compound-member)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "devoid-of",
+     "grounds": "lacking the listed impurities",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubhāvaham",
+     "gloss": "auspicious",
+     "grounds": "bringing good results",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities must the ritual ground lack to be considered auspicious?",
+   "premises": [
+    "The ground must be devoid of bone, insects, husk, charcoal, and impurity",
+    "Such a ground brings auspiciousness"
+   ],
+   "inference": "A ground free from these impurities is auspicious for the ritual",
+   "uncertainties": [],
+   "plain_english": "It should be free of bones, insects, husks, charcoal, and impurities, and bring auspiciousness."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "grāmāt",
+     "gloss": "from-village",
+     "grounds": "outside the settlement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "external location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthayā",
+     "gloss": "situated",
+     "grounds": "located in that place",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that site",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprādyaiḥ",
+     "gloss": "by-brāhmaṇas-and-others",
+     "grounds": "by brāhmaṇas and other qualified persons",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "one's own",
+     "morph": "sva+ (compound-member)"
+    },
+    {
+     "surface": "varṇayā",
+     "gloss": "by-caste",
+     "grounds": "according to one's social class",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "Where and by whom should the ritual site be prepared according to social class?",
+   "premises": [
+    "The site is situated outside the village",
+    "Preparation is done by brāhmaṇas and others according to their own caste"
+   ],
+   "inference": "The ritual site outside the village should be prepared by qualified persons according to their caste",
+   "uncertainties": [
+    "The exact action performed is completed in the next verse"
+   ],
+   "plain_english": "Situated outside the village, there by brāhmaṇas and others according to their own caste."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "surekhyā",
+     "gloss": "well-drawn",
+     "grounds": "properly marked or delineated",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrayitvā",
+     "gloss": "having-filled",
+     "grounds": "after filling in the area",
+     "morph": "absolutive √pṝ"
+    },
+    {
+     "surface": "pracālayet",
+     "gloss": "one-should-level",
+     "grounds": "make even or smooth",
+     "morph": "3.sg.act-optative √cal (causative)"
+    }
+   ],
+   "question": "How should the well-marked ritual site be finished after being filled?",
+   "premises": [
+    "The site is well marked and filled",
+    "It should then be leveled"
+   ],
+   "inference": "After filling the well-marked site, one should level it",
+   "uncertainties": [],
+   "plain_english": "Having filled that well-marked site, one should level it."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "in whichever place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unaṃ",
+     "gloss": "high",
+     "grounds": "elevated area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nimnayet",
+     "gloss": "one-should-lower",
+     "grounds": "reduce the height",
+     "morph": "3.sg.act-optative √nam (causative)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthalaṃ",
+     "gloss": "place",
+     "grounds": "ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "the-wise",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What corrective action should a wise person take where the ground is too high?",
+   "premises": [
+    "Some parts of the ground may be high",
+    "The wise person should lower that place"
+   ],
+   "inference": "A wise practitioner should lower any elevated part of the ritual ground",
+   "uncertainties": [],
+   "plain_english": "Where the ground is high, the wise person should lower that place."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "sūtra",
+     "gloss": "thread",
+     "grounds": "cord for measuring or drawing",
+     "morph": "sūtra+ (compound-member)"
+    },
+    {
+     "surface": "karkaṭa",
+     "gloss": "compass",
+     "grounds": "instrument for drawing circles",
+     "morph": "karkaṭa+ (compound-member)"
+    },
+    {
+     "surface": "kīlāni",
+     "gloss": "pegs",
+     "grounds": "stakes for fixing positions",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "after taking up the tools",
+     "morph": "absolutive √grah"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśāntare",
+     "gloss": "at-night",
+     "grounds": "during the night time",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What tools should be taken up at night to begin marking the ritual ground?",
+   "premises": [
+    "Thread, compass, and pegs are required",
+    "These are taken at night"
+   ],
+   "inference": "One should take thread, compass, and pegs at night to mark the ground",
+   "uncertainties": [
+    "The reason for performing this at night is not stated"
+   ],
+   "plain_english": "Having taken thread, compass, and pegs, indeed at night."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "in the middle of that ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kendrāt",
+     "gloss": "from-center",
+     "grounds": "starting from the central point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vattaṃ",
+     "gloss": "circle",
+     "grounds": "circular figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "mark out by drawing",
+     "morph": "3.sg.act-optative √likh (with sam+ā)"
+    }
+   ],
+   "question": "What geometric figure should be drawn from the center of the prepared ground?",
+   "premises": [
+    "The action takes place in the middle of the ground",
+    "A circle is drawn from the center"
+   ],
+   "inference": "One should draw a circle from the center in the middle of the ground",
+   "uncertainties": [],
+   "plain_english": "In its middle, one should draw a circle from the center."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "bow-shaped arc or chord figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "construct or draw",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpaṃ",
+     "gloss": "arc",
+     "grounds": "curved segment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "bow-shaped figure again",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "construct or draw",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition of the action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What repeated construction of bows and arcs should follow the initial circle?",
+   "premises": [
+    "A bow is to be made, then an arc",
+    "The making of a bow is repeated again"
+   ],
+   "inference": "One should successively construct bows and arcs in repeated steps",
+   "uncertainties": [
+    "The precise geometric distinction between dhanuḥ and cāpaṃ here is context-dependent"
+   ],
+   "plain_english": "Then one should make a bow, then an arc, and then make a bow again."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "a set of three",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after constructing",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "dalānāṃ",
+     "gloss": "of-petals",
+     "grounds": "petal divisions of the diagram",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "madhyadeśataḥ",
+     "gloss": "from-middle-region",
+     "grounds": "from the central area",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many petal divisions should be made from the middle region of the diagram?",
+   "premises": [
+    "Three are to be made",
+    "They are made from the middle region of the petals"
+   ],
+   "inference": "Three divisions should be made from the middle region of the petals",
+   "uncertainties": [
+    "The exact referent of dalānāṃ in this geometric step is partly contextual"
+   ],
+   "plain_english": "Having made three, from the middle region of the petals."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "yāmya",
+     "gloss": "south",
+     "grounds": "southern direction",
+     "morph": "yāmya+ (compound-member)"
+    },
+    {
+     "surface": "paścimayoḥ",
+     "gloss": "and-west",
+     "grounds": "south and west pair",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "saumya",
+     "gloss": "north",
+     "grounds": "northern direction",
+     "morph": "saumya+ (compound-member)"
+    },
+    {
+     "surface": "pūrvayoḥ",
+     "gloss": "and-east",
+     "grounds": "north and east pair",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "uparisthayoḥ",
+     "gloss": "of-those-situated-above",
+     "grounds": "of the upper positioned pair",
+     "morph": "m.loc.dual"
+    }
+   ],
+   "question": "Which directional pairs are identified as the upper positions in the diagram?",
+   "premises": [
+    "South-west and north-east pairs are named",
+    "These are described as situated above"
+   ],
+   "inference": "The south-west and north-east pairs are identified as the upper positions",
+   "uncertainties": [
+    "The spatial orientation depends on the diagrammatic convention"
+   ],
+   "plain_english": "Of the south and west, and of the north and east, those situated above."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "anyayoḥ",
+     "gloss": "of-the-other-two",
+     "grounds": "the remaining pair",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpayoḥ",
+     "gloss": "of-the-arcs",
+     "grounds": "the two arcs",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgneyī",
+     "gloss": "south-eastern",
+     "grounds": "direction of Agni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāyavī",
+     "gloss": "north-western",
+     "grounds": "direction of Vāyu",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "resulting identification",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "Which intermediate directions result from the placement of the other two arcs?",
+   "premises": [
+    "The other two arcs are considered",
+    "Their placement yields south-eastern and north-western directions"
+   ],
+   "inference": "The remaining two arcs should produce the south-eastern and north-western directions",
+   "uncertainties": [],
+   "plain_english": "And of the other two arcs, thus there should be the south-eastern and the north-western."
+  }
+ ]
+}

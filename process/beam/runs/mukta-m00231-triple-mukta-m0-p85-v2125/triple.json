@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "lohitā'nantaraṃ",
+     "gloss": "red-then",
+     "grounds": "red tongue follows; @ marks sandhi fusion",
+     "morph": "adj.f.nom.sg + indecl."
+    },
+    {
+     "surface": "śvetā",
+     "gloss": "white",
+     "grounds": "white tongue",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "dhūminī ca",
+     "gloss": "smoky-and",
+     "grounds": "smoky tongue and",
+     "morph": "adj.f.nom.sg + indecl."
+    },
+    {
+     "surface": "karālikā",
+     "gloss": "fiery",
+     "grounds": "fiery tongue",
+     "morph": "adj.f.nom.sg"
+    }
+   ],
+   "question": "What four tongue-colors follow the sātvika yāga tongues in this Kaula classification?",
+   "premises": [
+    "The verse lists four tongue colors.",
+    "They follow the sātvika yāga tongues.",
+    "The colors are red white smoky fiery."
+   ],
+   "inference": "The Kaula classification adds four colored tongues after the sātvika yāga tongues.",
+   "uncertainties": [
+    "The exact referent of tongues is not explicit in this verse."
+   ],
+   "plain_english": "Then red, white, smoky, and fiery."
+  }
+ ]
+}

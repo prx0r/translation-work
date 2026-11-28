@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "sarva+īśī",
+     "gloss": "lady-of-all",
+     "grounds": "compound epithet naming universal sovereignty",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarva+dā",
+     "gloss": "always-giving",
+     "grounds": "compound epithet naming perpetual generosity",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "feminine form of universal totality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+jñā",
+     "gloss": "all-knowing",
+     "grounds": "compound epithet naming universal knowledge",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarva+dāyinī",
+     "gloss": "giver-of-all",
+     "grounds": "compound epithet naming universal bestowal",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which five all-encompassing epithets identify the goddess as universal sovereign and benefactress?",
+   "premises": [
+    "The verse lists five epithets.",
+    "Each epithet begins with sarva.",
+    "The epithets describe universal scope."
+   ],
+   "inference": "The goddess is praised as all-ruling, ever-giving, all, all-knowing, and giver of all.",
+   "uncertainties": [
+    "Exact grammatical case of compound epithets is not specified."
+   ],
+   "plain_english": "She is lady of all, always giving, all, all-knowing, giver of all."
+  }
+ ]
+}

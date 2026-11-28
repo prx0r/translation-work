@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "sitāruṇaśyāmaharitpītānyanupamā",
+     "gloss": "white-red-dark-green-yellow-incomparable",
+     "grounds": "single fused compound token listing five colors plus anupamā; transcribed exactly as given",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable adverb indicating sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are the five nyāsa positions colored white, red, dark, green, and yellow in sequence?",
+   "premises": [
+    "The verse lists five colors.",
+    "The colors follow a fixed order.",
+    "The final term marks incomparability."
+   ],
+   "inference": "The nyāsa sequence is colored white, red, dark, green, and yellow.",
+   "uncertainties": [
+    "The exact referent of the colored positions is not stated in this verse."
+   ],
+   "plain_english": "White, red, dark, green, and yellow, incomparable, in order."
+  }
+ ]
+}

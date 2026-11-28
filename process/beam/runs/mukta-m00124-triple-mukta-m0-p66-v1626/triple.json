@@ -1,0 +1,937 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1626,
+   "rows": [
+    {
+     "surface": "īśānapaścimārdhe",
+     "gloss": "in-īśāna-west-half",
+     "grounds": "locative compound indicating the western half of the īśāna direction",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ditirīśastu",
+     "gloss": "diti-and-īśa",
+     "grounds": "compound with sandhi joining diti, īśa and tu",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "pūrvagaḥ",
+     "gloss": "east-going",
+     "grounds": "adjective describing position or movement toward the east",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which deities occupy the western half of the īśāna direction?",
+   "premises": [
+    "Location is īśāna-paścimārdha",
+    "Diti and Īśa are named",
+    "They are described as pūrvaga"
+   ],
+   "inference": "Diti and Īśa are situated in the western half of the īśāna direction as east-going.",
+   "uncertainties": [],
+   "plain_english": "In the western half of the īśāna direction are Diti and Īśa, positioned toward the east."
+  },
+  {
+   "verse": 1627,
+   "rows": [
+    {
+     "surface": "jayanteśo",
+     "gloss": "jayanta-and-īśa",
+     "grounds": "compound with sandhi joining jayanta and īśa",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "mahendraśca",
+     "gloss": "mahendra-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ādityaḥ",
+     "gloss": "āditya",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "satyakastathā",
+     "gloss": "satyaka-likewise",
+     "grounds": "deity name joined with tathā by sandhi",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which deities are listed as occupying the next positions in sequence?",
+   "premises": [
+    "Jayanta and Īśa are named",
+    "Mahendra and Āditya are named",
+    "Satyaka is included likewise"
+   ],
+   "inference": "Jayanta, Īśa, Mahendra, Āditya, and Satyaka are enumerated in this sequence.",
+   "uncertainties": [],
+   "plain_english": "Jayanta, Īśa, Mahendra, Āditya, and likewise Satyaka are listed."
+  },
+  {
+   "verse": 1628,
+   "rows": [
+    {
+     "surface": "gandharvaśca",
+     "gloss": "gandharva-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāś",
+     "gloss": "gods",
+     "grounds": "plural noun referring to deities",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "catvāraḥ",
+     "gloss": "four",
+     "grounds": "numeral qualifying devāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "padabhoginaḥ",
+     "gloss": "pada-enjoyers",
+     "grounds": "compound describing those who enjoy or occupy padas",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How many deities are identified as pada-enjoyers in this group?",
+   "premises": [
+    "Gandharva is included",
+    "Four gods are mentioned",
+    "They are called padabhoginaḥ"
+   ],
+   "inference": "Four gods, including Gandharva, are identified as enjoyers of padas.",
+   "uncertainties": [],
+   "plain_english": "Gandharva and likewise four gods are the enjoyers of the padas."
+  },
+  {
+   "verse": 1629,
+   "rows": [
+    {
+     "surface": "asuraśca",
+     "gloss": "asura-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāś",
+     "gloss": "gods",
+     "grounds": "plural noun referring to deities",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "catvāraścottare",
+     "gloss": "four-in-north",
+     "grounds": "numeral joined with uttare by sandhi",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted view",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which deities are considered to occupy the northern side in this arrangement?",
+   "premises": [
+    "Asura is included",
+    "Four gods are mentioned",
+    "They are located in the north"
+   ],
+   "inference": "Asura and four gods are considered to be in the northern side.",
+   "uncertainties": [],
+   "plain_english": "Asura and likewise four gods are considered to be in the north."
+  },
+  {
+   "verse": 1630,
+   "rows": [
+    {
+     "surface": "ugrapīṭham",
+     "gloss": "ugra-seat",
+     "grounds": "compound name of a pīṭha",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāmādīnāṃ",
+     "gloss": "of-villages-and-others",
+     "grounds": "genitive plural compound referring to villages etc.",
+     "morph": "compound gen.pl.m"
+    },
+    {
+     "surface": "supūjitam",
+     "gloss": "well-worshipped",
+     "grounds": "past participle describing reverence",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "What name and status are assigned to this pīṭha for villages and other settlements?",
+   "premises": [
+    "The seat is called Ugrapīṭha",
+    "It pertains to villages and others",
+    "It is described as well-worshipped"
+   ],
+   "inference": "This seat, named Ugrapīṭha, is well-worshipped for villages and similar settlements.",
+   "uncertainties": [],
+   "plain_english": "This is called Ugrapīṭha, well-worshipped for villages and other settlements."
+  },
+  {
+   "verse": 1631,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "navapadaṃ",
+     "gloss": "nine-pada",
+     "grounds": "compound describing a division of nine padas",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "brāhmam",
+     "gloss": "brahma",
+     "grounds": "adjective or name referring to Brahmā's portion",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarāvaraṇe",
+     "gloss": "in-inner-enclosure",
+     "grounds": "locative compound referring to the inner enclosure",
+     "morph": "compound loc.sg.nt"
+    }
+   ],
+   "question": "What central division and subsequent enclosure are specified in this layout?",
+   "premises": [
+    "The middle has nine padas",
+    "That central portion is Brāhma",
+    "An inner enclosure follows"
+   ],
+   "inference": "The center is the nine-pada Brāhma portion, followed by the inner enclosure.",
+   "uncertainties": [],
+   "plain_english": "In the middle is the nine-pada Brāhma portion, and then comes the inner enclosure."
+  },
+  {
+   "verse": 1632,
+   "rows": [
+    {
+     "surface": "pūrvādikramayogena",
+     "gloss": "by-east-etc-order-connection",
+     "grounds": "instrumental compound indicating sequence starting from the east",
+     "morph": "compound ins.sg.m"
+    },
+    {
+     "surface": "tripadaṃ",
+     "gloss": "three-pada",
+     "grounds": "compound describing a division of three padas",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "bhuñjate",
+     "gloss": "enjoy",
+     "grounds": "verb indicating occupation or enjoyment of padas",
+     "morph": "3.pl.pres.middle bhuj"
+    },
+    {
+     "surface": "surāḥ",
+     "gloss": "gods",
+     "grounds": "plural noun referring to deities",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How do the gods occupy the three-pada divisions in the prescribed order?",
+   "premises": [
+    "Order proceeds from the east",
+    "Divisions consist of three padas",
+    "Gods enjoy these divisions"
+   ],
+   "inference": "The gods enjoy three-pada divisions in sequence beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "Following the order beginning from the east, the gods enjoy three-pada divisions."
+  },
+  {
+   "verse": 1633,
+   "rows": [
+    {
+     "surface": "sāvitraścendrajaścaiva",
+     "gloss": "sāvitra-and-indra-born-and-indeed",
+     "grounds": "compound with sandhi joining sāvitra, indraja, ca and eva",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "rudrajastvāpajastathā",
+     "gloss": "rudra-born-and-water-born-likewise",
+     "grounds": "compound with sandhi joining rudraja, tu, āpaja and tathā",
+     "morph": "compound nom.sg.m"
+    }
+   ],
+   "question": "Which deities are enumerated as occupants in this part of the sequence?",
+   "premises": [
+    "Sāvitra and Indraja are named",
+    "Rudraja and Āpaja are named",
+    "They are listed in sequence"
+   ],
+   "inference": "Sāvitra, Indraja, Rudraja, and Āpaja are enumerated as occupants.",
+   "uncertainties": [],
+   "plain_english": "Sāvitra, Indraja, Rudraja, and likewise Āpaja are listed."
+  },
+  {
+   "verse": 1634,
+   "rows": [
+    {
+     "surface": "īśānaśca",
+     "gloss": "īśāna-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jayantaśca",
+     "gloss": "jayanta-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mahendrādityasatyakāḥ",
+     "gloss": "mahendra-āditya-satyaka",
+     "grounds": "compound listing three deities",
+     "morph": "compound nom.pl.m"
+    }
+   ],
+   "question": "Which additional deities continue the enumeration of pada occupants?",
+   "premises": [
+    "Īśāna and Jayanta are named",
+    "Mahendra, Āditya, and Satyaka are named",
+    "They continue the sequence"
+   ],
+   "inference": "Īśāna, Jayanta, Mahendra, Āditya, and Satyaka continue the enumeration.",
+   "uncertainties": [],
+   "plain_english": "Īśāna, Jayanta, Mahendra, Āditya, and Satyaka are listed."
+  },
+  {
+   "verse": 1635,
+   "rows": [
+    {
+     "surface": "vitatho",
+     "gloss": "vitatha",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gṛhakṣataścaiva",
+     "gloss": "gṛhakṣata-and-indeed",
+     "grounds": "deity name joined with ca and eva by sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yamo",
+     "gloss": "yama",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gandharva eva ca",
+     "gloss": "gandharva-indeed-and",
+     "grounds": "deity name with emphatic and connective particles",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which deities are named in this segment of the directional enumeration?",
+   "premises": [
+    "Vitatha and Gṛhakṣata are named",
+    "Yama is named",
+    "Gandharva is included"
+   ],
+   "inference": "Vitatha, Gṛhakṣata, Yama, and Gandharva are named in this segment.",
+   "uncertainties": [],
+   "plain_english": "Vitatha, Gṛhakṣata, Yama, and Gandharva are listed."
+  },
+  {
+   "verse": 1636,
+   "rows": [
+    {
+     "surface": "sugrīvapuṣpadantau",
+     "gloss": "sugrīva-puṣpadanta",
+     "grounds": "dual compound naming two deities",
+     "morph": "compound nom.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varuṇāsuraśeṣakāḥ",
+     "gloss": "varuṇa-asura-śeṣaka",
+     "grounds": "compound listing three deities",
+     "morph": "compound nom.pl.m"
+    }
+   ],
+   "question": "Which deities complete this portion of the enumerated list?",
+   "premises": [
+    "Sugrīva and Puṣpadanta are named",
+    "Varuṇa, Asura, and Śeṣaka are named",
+    "They form a continuing list"
+   ],
+   "inference": "Sugrīva, Puṣpadanta, Varuṇa, Asura, and Śeṣaka complete this portion.",
+   "uncertainties": [],
+   "plain_english": "Sugrīva and Puṣpadanta, and also Varuṇa, Asura, and Śeṣaka are listed."
+  },
+  {
+   "verse": 1637,
+   "rows": [
+    {
+     "surface": "mukhyo",
+     "gloss": "mukhya",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhallāṭakaḥ",
+     "gloss": "bhallāṭaka",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "somo",
+     "gloss": "soma",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ṛbhurhyaditireva ca",
+     "gloss": "ṛbhu-indeed-aditi-indeed-and",
+     "grounds": "compound with sandhi joining ṛbhu, hi, aditi, eva and ca",
+     "morph": "compound nom.sg.m"
+    }
+   ],
+   "question": "Which deities are included in this concluding segment of the list?",
+   "premises": [
+    "Mukhya, Bhallāṭaka, and Soma are named",
+    "Ṛbhu and Aditi are named",
+    "They conclude the enumeration"
+   ],
+   "inference": "Mukhya, Bhallāṭaka, Soma, Ṛbhu, and Aditi are included in this segment.",
+   "uncertainties": [],
+   "plain_english": "Mukhya, Bhallāṭaka, Soma, Ṛbhu, and Aditi are listed."
+  },
+  {
+   "verse": 1638,
+   "rows": [
+    {
+     "surface": "sthaṇḍilākhyapadaṃ",
+     "gloss": "sthaṇḍila-named-pada",
+     "grounds": "compound naming the pada called Sthaṇḍila",
+     "morph": "compound nom.sg.nt"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "demonstrative pronoun joined with ca by sandhi",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "gṛhārāmādipūjitam",
+     "gloss": "house-garden-etc-worshipped",
+     "grounds": "compound describing suitability for houses, gardens and others",
+     "morph": "compound nom.sg.nt"
+    }
+   ],
+   "question": "What designation and ritual suitability characterize this pada layout?",
+   "premises": [
+    "The pada is named Sthaṇḍila",
+    "It is identified as this layout",
+    "It is worshipped for houses and gardens"
+   ],
+   "inference": "This layout is the Sthaṇḍila-named pada, worshipped for houses, gardens, and similar uses.",
+   "uncertainties": [],
+   "plain_english": "This is the pada called Sthaṇḍila, worshipped for houses, gardens, and the like."
+  },
+  {
+   "verse": 1639,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "catuṣpadaṃ",
+     "gloss": "four-pada",
+     "grounds": "compound describing a division of four padas",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "name of the deity occupying the center",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tanmukhasthāścatuḥ surāḥ",
+     "gloss": "at-its-face-situated-four-gods",
+     "grounds": "compound with sandhi describing four gods situated at Brahmā's faces",
+     "morph": "compound nom.pl.m"
+    }
+   ],
+   "question": "How is the central four-pada area occupied by Brahmā and associated gods?",
+   "premises": [
+    "The middle is four-pada",
+    "Brahmā occupies the center",
+    "Four gods are situated at his faces"
+   ],
+   "inference": "Brahmā occupies the central four-pada area with four gods situated at his faces.",
+   "uncertainties": [],
+   "plain_english": "In the middle is a four-pada area for Brahmā, with four gods situated at his faces."
+  },
+  {
+   "verse": 1640,
+   "rows": [
+    {
+     "surface": "caturdiśi",
+     "gloss": "in-four-directions",
+     "grounds": "locative compound indicating the four directions",
+     "morph": "compound loc.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "past participle indicating placement",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative indicating the outer area",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral qualifying the lords",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "dvipadeśvarāḥ",
+     "gloss": "two-pada-lords",
+     "grounds": "compound naming lords of two-pada divisions",
+     "morph": "compound nom.pl.m"
+    }
+   ],
+   "question": "Where are the sixteen lords of two-pada divisions situated in this layout?",
+   "premises": [
+    "They are in the four directions",
+    "They are situated outside",
+    "They are sixteen two-pada lords"
+   ],
+   "inference": "Sixteen lords of two-pada divisions are situated outside in the four directions.",
+   "uncertainties": [],
+   "plain_english": "Outside, in the four directions, are situated sixteen lords of two-pada divisions."
+  },
+  {
+   "verse": 1641,
+   "rows": [
+    {
+     "surface": "agrahārādiyogyaṃ",
+     "gloss": "agrahāra-etc-suitable",
+     "grounds": "compound describing suitability for agrahāras and similar uses",
+     "morph": "compound nom.sg.nt"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "maṇḍūkākhyapadaṃ",
+     "gloss": "maṇḍūka-named-pada",
+     "grounds": "compound naming the pada called Maṇḍūka",
+     "morph": "compound nom.sg.nt"
+    },
+    {
+     "surface": "tviha",
+     "gloss": "indeed-here",
+     "grounds": "particles tu and iha joined by sandhi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What name and practical suitability are assigned to this pada layout here?",
+   "premises": [
+    "The layout is suitable for agrahāras and others",
+    "It is named Maṇḍūka-pada",
+    "This designation applies here"
+   ],
+   "inference": "This layout here is the Maṇḍūka-named pada, suitable for agrahāras and similar purposes.",
+   "uncertainties": [],
+   "plain_english": "That pada called Maṇḍūka is suitable here for agrahāras and the like."
+  },
+  {
+   "verse": 1642,
+   "rows": [
+    {
+     "surface": "karṇasūtradvayopetaṃ",
+     "gloss": "diagonal-line-two-equipped",
+     "grounds": "compound describing being equipped with two diagonal lines",
+     "morph": "compound nom.sg.nt"
+    },
+    {
+     "surface": "kalpanīyaṃ",
+     "gloss": "to-be-conceived",
+     "grounds": "gerundive indicating what should be planned or imagined",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-experts",
+     "grounds": "instrumental plural referring to skilled persons",
+     "morph": "ins.pl.m"
+    }
+   ],
+   "question": "How should experts construct the Maṇḍūka-pada layout with diagonal lines?",
+   "premises": [
+    "Two diagonal lines are required",
+    "The layout must be conceived accordingly",
+    "Experts are the agents"
+   ],
+   "inference": "Experts should conceive this layout as equipped with two diagonal lines.",
+   "uncertainties": [],
+   "plain_english": "Experts should conceive it as equipped with two diagonal lines."
+  },
+  {
+   "verse": 1643,
+   "rows": [
+    {
+     "surface": "catasro",
+     "gloss": "four",
+     "grounds": "numeral qualifying devatāḥ",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "plural noun referring to deities",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ṣaṭ ṣaṭ",
+     "gloss": "six-six",
+     "grounds": "repeated numeral indicating six padas each",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padabhogaparāḥ",
+     "gloss": "pada-enjoyment-devoted",
+     "grounds": "compound describing devotion to enjoying padas",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "How many deities and pada shares are traditionally assigned in this arrangement?",
+   "premises": [
+    "Four deities are mentioned",
+    "Each is devoted to six padas",
+    "This is traditionally remembered"
+   ],
+   "inference": "Four deities are traditionally remembered as each enjoying six padas.",
+   "uncertainties": [],
+   "plain_english": "Four deities are remembered as each devoted to enjoying six padas."
+  },
+  {
+   "verse": 1644,
+   "rows": [
+    {
+     "surface": "maṇḍūke'tra",
+     "gloss": "in-maṇḍūka-here",
+     "grounds": "locative with sandhi joining maṇḍūke and atra",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "samā",
+     "gloss": "equal",
+     "grounds": "adjective indicating equal shares",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "plural noun referring to deities",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kathyante",
+     "gloss": "are-told",
+     "grounds": "verb indicating traditional statement",
+     "morph": "3.pl.pres.passive kath"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-due-order",
+     "grounds": "indeclinable compound indicating sequential order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the gods distributed in the Maṇḍūka layout according to order?",
+   "premises": [
+    "The context is the Maṇḍūka layout here",
+    "The gods are equal",
+    "They are told in due order"
+   ],
+   "inference": "In this Maṇḍūka layout, the gods are said to be equal and enumerated in due order.",
+   "uncertainties": [],
+   "plain_english": "In this Maṇḍūka layout, the gods are said to be equal and are enumerated in due order."
+  },
+  {
+   "verse": 1645,
+   "rows": [
+    {
+     "surface": "ādityaḥ",
+     "gloss": "āditya",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "satyakabhraṃśā",
+     "gloss": "satyaka-bhraṃśa",
+     "grounds": "compound or name referring to Satyaka and Bhraṃśa; exact division uncertain",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "antarikṣaśca",
+     "gloss": "antarikṣa-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūrvagāḥ",
+     "gloss": "east-going",
+     "grounds": "adjective indicating those situated in the east",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which deities are assigned to the eastern side in the Maṇḍūka layout?",
+   "premises": [
+    "Āditya is named",
+    "Satyakabhraṃśā is named",
+    "Antarikṣa is named as east-going"
+   ],
+   "inference": "Āditya, Satyakabhraṃśā, and Antarikṣa are assigned to the eastern side.",
+   "uncertainties": [
+    "The internal analysis of satyakabhraṃśā is uncertain."
+   ],
+   "plain_english": "Āditya, Satyakabhraṃśā, and Antarikṣa are the ones in the east."
+  },
+  {
+   "verse": 1646,
+   "rows": [
+    {
+     "surface": "gandharvo",
+     "gloss": "gandharva",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhṛṅgarājaśca",
+     "gloss": "bhṛṅgarāja-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mṛgaścaiva tu",
+     "gloss": "mṛga-and-indeed-but",
+     "grounds": "deity name joined with ca, eva and tu by sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative indicating the southern direction",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "Which deities are assigned to the southern side in the Maṇḍūka layout?",
+   "premises": [
+    "Gandharva is named",
+    "Bhṛṅgarāja is named",
+    "Mṛga is named in the south"
+   ],
+   "inference": "Gandharva, Bhṛṅgarāja, and Mṛga are assigned to the southern side.",
+   "uncertainties": [],
+   "plain_english": "Gandharva, Bhṛṅgarāja, and Mṛga are in the south."
+  },
+  {
+   "verse": 1647,
+   "rows": [
+    {
+     "surface": "varuṇaścāsuraścaiva",
+     "gloss": "varuṇa-and-asura-and-indeed",
+     "grounds": "compound with sandhi joining varuṇa, ca, asura, ca and eva",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "śeṣo",
+     "gloss": "śeṣa",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rogastu",
+     "gloss": "roga-but",
+     "grounds": "deity name joined with tu by sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative indicating the western direction",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "Which deities are assigned to the western side in the Maṇḍūka layout?",
+   "premises": [
+    "Varuṇa and Asura are named",
+    "Śeṣa and Roga are named",
+    "They are located in the west"
+   ],
+   "inference": "Varuṇa, Asura, Śeṣa, and Roga are assigned to the western side.",
+   "uncertainties": [],
+   "plain_english": "Varuṇa, Asura, Śeṣa, and Roga are in the west."
+  },
+  {
+   "verse": 1648,
+   "rows": [
+    {
+     "surface": "gajaścāpyaditiścaiva",
+     "gloss": "gaja-and-also-aditi-and-indeed",
+     "grounds": "compound with sandhi joining gaja, ca, api, aditi, ca and eva",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "ditiścaiva",
+     "gloss": "diti-and-indeed",
+     "grounds": "deity name joined with ca and eva by sandhi",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative indicating the northern direction",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "Which deities are assigned to the northern side in the Maṇḍūka layout?",
+   "premises": [
+    "Gaja and Aditi are named",
+    "Diti is named",
+    "They are located in the north"
+   ],
+   "inference": "Gaja, Aditi, and Diti are assigned to the northern side.",
+   "uncertainties": [],
+   "plain_english": "Gaja, Aditi, and likewise Diti are in the north."
+  },
+  {
+   "verse": 1649,
+   "rows": [
+    {
+     "surface": "aryamā",
+     "gloss": "aryaman",
+     "grounds": "name of a deity",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivasvāṃśca",
+     "gloss": "vivasvat-and",
+     "grounds": "deity name joined by ca with sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mitraśca",
+     "gloss": "mitra-and",
+     "grounds": "deity name joined by ca",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pṛthivīdharaḥ",
+     "gloss": "earth-holder",
+     "grounds": "compound name of a deity",
+     "morph": "compound nom.sg.m"
+    }
+   ],
+   "question": "Which additional deities are enumerated in this part of the Maṇḍūka layout?",
+   "premises": [
+    "Aryaman is named",
+    "Vivasvat and Mitra are named",
+    "Pṛthivīdhara is named"
+   ],
+   "inference": "Aryaman, Vivasvat, Mitra, and Pṛthivīdhara are enumerated in this part.",
+   "uncertainties": [],
+   "plain_english": "Aryaman, Vivasvat, Mitra, and Pṛthivīdhara are listed."
+  }
+ ]
+}

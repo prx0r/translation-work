@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "liṅga+svarūpī",
+     "gloss": "having-liṅga-form",
+     "grounds": "bahuvrīhi compound: liṅga (emblem) + svarūpin (having-form)",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "Lord",
+     "grounds": "epithet of a revered deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śambhus",
+     "gloss": "Śambhu",
+     "grounds": "name of Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the previously mentioned place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "is-established",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.past-participle vi+ava+√sthā"
+    }
+   ],
+   "question": "In what form is Lord Śambhu established at that sacred location?",
+   "premises": [
+    "Lord Śambhu is present at that location.",
+    "His presence is characterized as having the form of a liṅga.",
+    "The deity is described as firmly established there."
+   ],
+   "inference": "Lord Śambhu is established at that place in the form of a liṅga.",
+   "uncertainties": [],
+   "plain_english": "There, Lord Śambhu is established in the form of a liṅga."
+  }
+ ]
+}

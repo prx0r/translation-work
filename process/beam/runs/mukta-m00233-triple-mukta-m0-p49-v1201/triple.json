@@ -1,0 +1,947 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√as"
+    },
+    {
+     "surface": "parahastau",
+     "gloss": "two-hands-of-other",
+     "grounds": "legacy hint",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "yathāpuram",
+     "gloss": "as-before",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the two hands of the other be arranged as before?",
+   "premises": [
+    "syāt means should-be",
+    "parahastau means two-hands-of-other",
+    "yathāpuram means as-before"
+   ],
+   "inference": "The two hands of the other should be arranged as before.",
+   "uncertainties": [
+    "exact ritual referent of other"
+   ],
+   "plain_english": "The two hands of the other should be as before."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "śrībhūmibhyām",
+     "gloss": "by-śrī-and-bhūmi",
+     "grounds": "legacy hint",
+     "morph": "f.ins.du"
+    },
+    {
+     "surface": "anugatā",
+     "gloss": "accompanied",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg.past.part"
+    },
+    {
+     "surface": "gaurī",
+     "gloss": "gaurī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devānugāminī",
+     "gloss": "following-gods",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who accompanies Gaurī and follows the gods?",
+   "premises": [
+    "śrībhūmibhyām means by-śrī-and-bhūmi",
+    "anugatā means accompanied",
+    "gaurī means gaurī",
+    "devānugāminī means following-gods"
+   ],
+   "inference": "Gaurī is accompanied by Śrī and Bhūmi and follows the gods.",
+   "uncertainties": [
+    "exact iconographic role"
+   ],
+   "plain_english": "Gaurī, accompanied by Śrī and Bhūmi, follows the gods."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "sarvadevarṣigandharvayakṣādyaiḥ",
+     "gloss": "by-all-gods-sages-gandharvas-yakshas-etc",
+     "grounds": "legacy hint",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vandito",
+     "gloss": "worshipped",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.past.part"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "By whom should the form be worshipped?",
+   "premises": [
+    "sarvadevarṣigandharvayakṣādyaiḥ means by-all-gods-sages-gandharvas-yakshas-etc",
+    "vandito means worshipped",
+    "bhavet means should-be"
+   ],
+   "inference": "The form should be worshipped by all gods, sages, gandharvas, yakṣas, and others.",
+   "uncertainties": [
+    "exact form referenced"
+   ],
+   "plain_english": "It should be worshipped by all gods, sages, gandharvas, yakṣas, and others."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "dvibhujo",
+     "gloss": "two-armed",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇāṅghriḥ",
+     "gloss": "right-foot",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.past.part"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "legacy hint",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the two-armed form stand with the right foot?",
+   "premises": [
+    "dvibhujo means two-armed",
+    "dakṣiṇāṅghriḥ means right-foot",
+    "sthito means standing",
+    "asya means his",
+    "tu means but"
+   ],
+   "inference": "The two-armed form stands with the right foot, but his arrangement follows the prior rule.",
+   "uncertainties": [
+    "exact prior rule"
+   ],
+   "plain_english": "The two-armed form stands with the right foot, but otherwise as before."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "sarvaṃ",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvadūhena",
+     "gloss": "as-before",
+     "grounds": "legacy hint",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√kḷp"
+    }
+   ],
+   "question": "How should all the remaining details be arranged?",
+   "premises": [
+    "tu means but",
+    "yat means all",
+    "sarvaṃ means sarvaṃ",
+    "prāgvadūhena means as-before",
+    "kalpayet means should-arrange"
+   ],
+   "inference": "All remaining details should be arranged as before.",
+   "uncertainties": [
+    "exact scope of all"
+   ],
+   "plain_english": "But all else should be arranged as before."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "raudra",
+     "gloss": "raudra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ūrdhvakeśo",
+     "gloss": "upward-hair",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bṛhattanuḥ",
+     "gloss": "large-bodied",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the bodily marks of the raudra form?",
+   "premises": [
+    "raudra means raudra",
+    "ūrdhvakeśo means upward-hair",
+    "bṛhattanuḥ means large-bodied"
+   ],
+   "inference": "The raudra form has upward hair and a large body.",
+   "uncertainties": [
+    "exact form context"
+   ],
+   "plain_english": "The raudra form has upward hair and a large body."
+  },
+  {
+   "verse": 1207,
+   "rows": [
+    {
+     "surface": "kaṅkālā",
+     "gloss": "skeletons",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gamanodyuktaś",
+     "gloss": "ready-to-go",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākrāntamaṇipādukaḥ",
+     "gloss": "overcome-jeweled-sandals",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attendants and ornaments belong to this form?",
+   "premises": [
+    "kaṅkālā means skeletons",
+    "gamanodyuktaś means ready-to-go",
+    "ca means and",
+    "ākrāntamaṇipādukaḥ means overcome-jeweled-sandals"
+   ],
+   "inference": "Skeletons ready to go and jeweled sandals overcome accompany the form.",
+   "uncertainties": [
+    "exact syntax of ākrānta"
+   ],
+   "plain_english": "Skeletons ready to go and jeweled sandals accompany the form."
+  },
+  {
+   "verse": 1208,
+   "rows": [
+    {
+     "surface": "mṛgapotānanaṃ",
+     "gloss": "deer-fawn-face",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "spṛśan",
+     "gloss": "touching",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.pres.part"
+    }
+   ],
+   "question": "What does the form touch with its deer-fawn face?",
+   "premises": [
+    "mṛgapotānanaṃ means deer-fawn-face",
+    "spṛśan means touching"
+   ],
+   "inference": "The form touches with a deer-fawn face.",
+   "uncertainties": [
+    "object of touching omitted"
+   ],
+   "plain_english": "It touches with a deer-fawn face."
+  },
+  {
+   "verse": 1209,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "by-head",
+     "grounds": "legacy hint",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vahadbhūta",
+     "gloss": "bearing",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.pres.part"
+    },
+    {
+     "surface": "purogataḥ",
+     "gloss": "preceded-by-spirits",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the form preceded by spirits?",
+   "premises": [
+    "tu means but",
+    "śirasā means by-head",
+    "vahadbhūta means bearing",
+    "purogataḥ means preceded-by-spirits"
+   ],
+   "inference": "The form is preceded by spirits while bearing something on the head.",
+   "uncertainties": [
+    "exact borne object"
+   ],
+   "plain_english": "But it is preceded by spirits, bearing something on the head."
+  },
+  {
+   "verse": 1210,
+   "rows": [
+    {
+     "surface": "tacchatracāmarakaragaṇāḥ",
+     "gloss": "umbrella-flywhisk-hand-group",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuyāyinaḥ",
+     "gloss": "followers",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who follows with umbrella and fly-whisk?",
+   "premises": [
+    "tacchatracāmarakaragaṇāḥ means umbrella-flywhisk-hand-group",
+    "ca means and",
+    "eva means eva",
+    "anuyāyinaḥ means followers"
+   ],
+   "inference": "The umbrella and fly-whisk hand group are followers.",
+   "uncertainties": [
+    "exact attendant identity"
+   ],
+   "plain_english": "The umbrella and fly-whisk attendants follow."
+  },
+  {
+   "verse": 1211,
+   "rows": [
+    {
+     "surface": "vāmakaraḥ",
+     "gloss": "left-hand",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sābhayo",
+     "gloss": "with-abhaya",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇo",
+     "gloss": "right",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "How should the left and right hands be held?",
+   "premises": [
+    "vāmakaraḥ means left-hand",
+    "sābhayo means with-abhaya",
+    "dakṣiṇo means right",
+    "bhavet means should-be"
+   ],
+   "inference": "The left hand should be with abhaya and the right should be as stated.",
+   "uncertainties": [
+    "exact right-hand gesture"
+   ],
+   "plain_english": "The left hand should be with abhaya and the right as stated."
+  },
+  {
+   "verse": 1212,
+   "rows": [
+    {
+     "surface": "kirīṭārdhaṃ",
+     "gloss": "half-crown",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kapardārdhaṃ",
+     "gloss": "half-matted-hair",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What crown and hair arrangement is on the right?",
+   "premises": [
+    "kirīṭārdhaṃ means half-crown",
+    "kapardārdhaṃ means half-matted-hair",
+    "ca means and",
+    "dakṣiṇe means on-right"
+   ],
+   "inference": "Half crown and half matted hair are on the right.",
+   "uncertainties": [
+    "exact iconographic split"
+   ],
+   "plain_english": "Half crown and half matted hair are on the right."
+  },
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "ramyā",
+     "gloss": "beautiful",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-made",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg.gerundive"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūrtiḥ",
+     "gloss": "form",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "harīśayoḥ",
+     "gloss": "of-hari-and-īśa",
+     "grounds": "legacy hint",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What beautiful form should be made of Hari and Īśa?",
+   "premises": [
+    "ramyā means beautiful",
+    "tathā means thus",
+    "kāryā means should-be-made",
+    "hy means indeed",
+    "ekā means one",
+    "mūrtiḥ means form",
+    "harīśayoḥ means of-hari-and-īśa"
+   ],
+   "inference": "One beautiful form of Hari and Īśa should be made.",
+   "uncertainties": [
+    "exact combined iconography"
+   ],
+   "plain_english": "One beautiful form of Hari and Īśa should be made."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "viprakīrṇajaṭābhāro",
+     "gloss": "scattered-matted-hair-load",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "digvāsā",
+     "gloss": "sky-clad",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gamanodyataḥ",
+     "gloss": "ready-to-go",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marks the sky-clad form ready to go?",
+   "premises": [
+    "viprakīrṇajaṭābhāro means scattered-matted-hair-load",
+    "digvāsā means sky-clad",
+    "gamanodyataḥ means ready-to-go"
+   ],
+   "inference": "The sky-clad form has scattered matted hair and is ready to go.",
+   "uncertainties": [
+    "exact form identity"
+   ],
+   "plain_english": "The sky-clad form has scattered matted hair and is ready to go."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "vāmaḥ",
+     "gloss": "left",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "legacy hint",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ūrdhvakaradvaye",
+     "gloss": "upward-two-hands",
+     "grounds": "legacy hint",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "What is on the left in the two upward hands?",
+   "premises": [
+    "vāmaḥ means left",
+    "tathā means thus",
+    "asya means his",
+    "ūrdhvakaradvaye means upward-two-hands"
+   ],
+   "inference": "The left is in the two upward hands.",
+   "uncertainties": [
+    "exact object or gesture"
+   ],
+   "plain_english": "The left is in the two upward hands."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "bhujaṅgahāropavītakaṭisūtravibhūṣitaḥ",
+     "gloss": "snake-garland-sacred-thread-hip-cord-adorned",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "With what ornaments is the form adorned?",
+   "premises": [
+    "bhujaṅgahāropavītakaṭisūtravibhūṣitaḥ means snake-garland-sacred-thread-hip-cord-adorned"
+   ],
+   "inference": "The form is adorned with snake garland, sacred thread, and hip cord.",
+   "uncertainties": [
+    "exact form identity"
+   ],
+   "plain_english": "The form is adorned with snake garland, sacred thread, and hip cord."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "umāsahitavat",
+     "gloss": "with-umā",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√kṛ"
+    },
+    {
+     "surface": "caṇḍānugrahakaṃ",
+     "gloss": "caṇḍa-grace-supreme",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "param",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the supreme Caṇḍa-grace form be made?",
+   "premises": [
+    "umāsahitavat means with-umā",
+    "kuryāt means should-make",
+    "caṇḍānugrahakaṃ means caṇḍa-grace-supreme",
+    "param means param"
+   ],
+   "inference": "The supreme Caṇḍa-grace form should be made with Umā.",
+   "uncertainties": [
+    "exact iconographic details"
+   ],
+   "plain_english": "The supreme Caṇḍa-grace form should be made with Umā."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "kṛtāñjalipuṭaḥ",
+     "gloss": "joined-palms",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caṇḍa",
+     "gloss": "caṇḍa",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āsīno",
+     "gloss": "seated",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.past.part"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāsanaḥ",
+     "gloss": "śiva-seat",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is Caṇḍa seated below the Śiva seat?",
+   "premises": [
+    "kṛtāñjalipuṭaḥ means joined-palms",
+    "caṇḍa means caṇḍa",
+    "āsīno means seated",
+    "adhaḥ means below",
+    "śivāsanaḥ means śiva-seat"
+   ],
+   "inference": "Caṇḍa is seated with joined palms below the Śiva seat.",
+   "uncertainties": [
+    "exact spatial relation"
+   ],
+   "plain_english": "Caṇḍa is seated with joined palms below the Śiva seat."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "ardharjubadanaḥ",
+     "gloss": "half-straight-face",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cārujaṭājūṭavibhūṣitaḥ",
+     "gloss": "beautiful-matted-hair-knot-adorned",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What facial and hair marks belong to this form?",
+   "premises": [
+    "ardharjubadanaḥ means half-straight-face",
+    "cārujaṭājūṭavibhūṣitaḥ means beautiful-matted-hair-knot-adorned"
+   ],
+   "inference": "The form has a half-straight face and beautiful matted hair knot.",
+   "uncertainties": [
+    "exact form identity"
+   ],
+   "plain_english": "The form has a half-straight face and beautiful matted hair knot."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "sākṣamālānalakaraḥ",
+     "gloss": "with-akṣamālā-and-fire",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvadho",
+     "gloss": "tvadho",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇavāmayoḥ",
+     "gloss": "right-and-left",
+     "grounds": "legacy hint",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What is held in the right and left hands?",
+   "premises": [
+    "sākṣamālānalakaraḥ means with-akṣamālā-and-fire",
+    "tvadho means tvadho",
+    "dakṣiṇavāmayoḥ means right-and-left"
+   ],
+   "inference": "The right and left hands hold akṣamālā and fire.",
+   "uncertainties": [
+    "exact distribution"
+   ],
+   "plain_english": "The right and left hands hold akṣamālā and fire."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "dakṣiṇorusthavāmāṅghriḥ",
+     "gloss": "right-thigh-left-foot",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lambitā",
+     "gloss": "hanging",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg.past.part"
+    },
+    {
+     "surface": "nyapadāmbujaḥ",
+     "gloss": "other-lotus-foot",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the right thigh and left foot arranged?",
+   "premises": [
+    "dakṣiṇorusthavāmāṅghriḥ means right-thigh-left-foot",
+    "lambitā means hanging",
+    "nyapadāmbujaḥ means other-lotus-foot"
+   ],
+   "inference": "The right thigh and left foot hang, with the other lotus foot placed.",
+   "uncertainties": [
+    "exact posture"
+   ],
+   "plain_english": "The right thigh and left foot hang, with the other lotus foot placed."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "vidhātavyo",
+     "gloss": "should-be-arranged",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg.gerundive"
+    },
+    {
+     "surface": "vyākhyānavyāpṛto",
+     "gloss": "explanation-engaged",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "lord",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the lord engaged in explanation be arranged?",
+   "premises": [
+    "vidhātavyo means should-be-arranged",
+    "vyākhyānavyāpṛto means explanation-engaged",
+    "vibhuḥ means lord"
+   ],
+   "inference": "The lord engaged in explanation should be arranged.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "The lord engaged in explanation should be arranged."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "dakṣiṇabhujo",
+     "gloss": "right-arm",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt-√bhū"
+    },
+    {
+     "surface": "ākarṇamudbhṛtaḥ",
+     "gloss": "raised-to-ear",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the right arm be raised?",
+   "premises": [
+    "dakṣiṇabhujo means right-arm",
+    "bhaved means should-be",
+    "ākarṇamudbhṛtaḥ means raised-to-ear"
+   ],
+   "inference": "The right arm should be raised to the ear.",
+   "uncertainties": [
+    "exact gesture"
+   ],
+   "plain_english": "The right arm should be raised to the ear."
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "bhya",
+     "gloss": "bya",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "antaḥ",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparaḥ",
+     "gloss": "aparaḥ",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hala",
+     "gloss": "plow",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pallavasaṃyutaḥ",
+     "gloss": "sprout-together",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What plow and sprout belong there?",
+   "premises": [
+    "bhya means bya",
+    "antaḥ means antaḥ",
+    "ca means ca",
+    "aparaḥ means aparaḥ",
+    "tatra means there",
+    "hala means plow",
+    "pallavasaṃyutaḥ means sprout-together"
+   ],
+   "inference": "There is another plow together with a sprout.",
+   "uncertainties": [
+    "fragmentary verse"
+   ],
+   "plain_english": "There is another plow together with a sprout."
+  }
+ ]
+}

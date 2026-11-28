@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "jāti",
+     "gloss": "birth-class",
+     "grounds": "first member of compound with sāmyena",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāmyena",
+     "gloss": "by-sameness",
+     "grounds": "instrumental expressing basis of commonality",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing clause",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dharmāḥ",
+     "gloss": "qualities",
+     "grounds": "subject of relative clause",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "correlative demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dharmā",
+     "gloss": "qualities",
+     "grounds": "predicate nominative in main clause",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nara",
+     "gloss": "human",
+     "grounds": "first member of compound with jātiṣu",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jātiṣu",
+     "gloss": "in-birth-classes",
+     "grounds": "locative indicating domain of application",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "Which qualities pertain to human birth-classes by virtue of shared class nature?",
+   "premises": [
+    "Certain qualities arise from sameness of birth-class.",
+    "These qualities are identified by that shared class basis.",
+    "Human birth-classes constitute a domain where such qualities apply."
+   ],
+   "inference": "Therefore, the qualities grounded in sameness of birth-class are the qualities present in human birth-classes.",
+   "uncertainties": [
+    "The exact scope of dharmāḥ as duties, properties, or characteristics is context-dependent."
+   ],
+   "plain_english": "Whatever qualities belong by sameness of birth-class, those same qualities are found in human birth-classes."
+  }
+ ]
+}

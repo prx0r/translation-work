@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "trailokyavartiṣu",
+     "gloss": "in-three-worlds-abiding",
+     "grounds": "compound trailokya-vartin, locating objects within the three worlds",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending scope without exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "universal quantifier applying to every member of the set",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing totality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "artheṣu",
+     "gloss": "in-objects",
+     "grounds": "things or entities present in experience",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "present",
+     "grounds": "past participle of gam, indicating pervasion or presence",
+     "morph": "n.nom.sg.ppp+gam"
+    },
+    {
+     "surface": "śivarūpam",
+     "gloss": "śiva-nature",
+     "grounds": "compound śiva-rūpa, the essential form or nature of Śiva",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How universally is Śiva's nature present within all objects of the three worlds?",
+   "premises": [
+    "Objects abide throughout the three worlds.",
+    "Every object without exception is included.",
+    "Śiva's nature is present in those objects."
+   ],
+   "inference": "Therefore, Śiva's nature pervades all objects throughout the three worlds without exception.",
+   "uncertainties": [
+    "gataṃ may emphasize arrival, pervasion, or realized presence depending on context."
+   ],
+   "plain_english": "Indeed, in all objects abiding in the three worlds, the nature of Śiva is present."
+  }
+ ]
+}

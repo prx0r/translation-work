@@ -1,0 +1,1134 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2576,
+   "rows": [
+    {
+     "surface": "sahasraiḥ",
+     "gloss": "with-thousands",
+     "grounds": "instrumental plural of sahasra",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "daśabhiḥ",
+     "gloss": "by-ten",
+     "grounds": "instrumental plural of daśa",
+     "morph": "num.instr.pl"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instrumental plural of kalaśa",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "ayutaiḥ",
+     "gloss": "with-ten-thousands",
+     "grounds": "instrumental plural of ayuta",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative of kṛ",
+     "morph": "v.2.sg.act-imp"
+    }
+   ],
+   "question": "How many pots and thousands are to be used in this bathing rite?",
+   "premises": [
+    "thousands and ten-thousands of pots are specified",
+    "the rite is commanded to be performed"
+   ],
+   "inference": "the bathing rite requires vast counted quantities of pots",
+   "uncertainties": [
+    "exact ritual context beyond counts"
+   ],
+   "plain_english": "With thousands, by ten, o child, with pots, with ten-thousands, do it."
+  },
+  {
+   "verse": 2577,
+   "rows": [
+    {
+     "surface": "nyarbudaiḥ",
+     "gloss": "with-hundred-millions",
+     "grounds": "instrumental plural of nyarbuda",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "śatasahasreṇaṃ",
+     "gloss": "with-hundred-thousand",
+     "grounds": "instrumental singular of śatasahasra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental singular of ghṛta",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "paripūrayet",
+     "gloss": "fill-completely",
+     "grounds": "optative of paripūraya",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What substance completely fills the hundred-thousand measure?",
+   "premises": [
+    "hundred-millions and hundred-thousand measures are named",
+    "ghee is the substance used",
+    "complete filling is commanded"
+   ],
+   "inference": "ghee is to fill the specified large measure completely",
+   "uncertainties": [
+    "whether nyarbuda modifies pots or ghee"
+   ],
+   "plain_english": "With hundred-millions, with hundred-thousand, with ghee, one should fill completely."
+  },
+  {
+   "verse": 2578,
+   "rows": [
+    {
+     "surface": "niyutaiḥ",
+     "gloss": "with-millions",
+     "grounds": "instrumental plural of niyuta",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instrumental plural of kalaśa",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "snapanaiḥ",
+     "gloss": "with-bathings",
+     "grounds": "instrumental plural of snapana",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "daśasahasra+kṛtaṃ",
+     "gloss": "ten-thousand-times-done",
+     "grounds": "compound: daśasahasra + kṛta",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How many pots and bathings make the rite ten-thousand times done?",
+   "premises": [
+    "millions of pots and bathings are named",
+    "the result is ten-thousand times done"
+   ],
+   "inference": "the rite is constituted by millions of pots and bathings",
+   "uncertainties": [
+    "exact relation of millions to ten-thousand"
+   ],
+   "plain_english": "With millions of pots and bathings, it should be ten-thousand times done."
+  },
+  {
+   "verse": 2579,
+   "rows": [
+    {
+     "surface": "sahasraiḥ",
+     "gloss": "with-thousands",
+     "grounds": "instrumental plural of sahasra",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "accusative singular of śata",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "pūrya",
+     "gloss": "having-filled",
+     "grounds": "absolutive of pūr",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative singular of snapana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "optative causative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular of budha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who should cause the bathing to be done after filling a hundred?",
+   "premises": [
+    "thousands are used",
+    "a hundred is filled",
+    "the wise one causes bathing"
+   ],
+   "inference": "the wise one arranges bathing after filling a hundred",
+   "uncertainties": [
+    "what the hundred counts"
+   ],
+   "plain_english": "With thousands indeed, having filled a hundred, the wise one should cause bathing."
+  },
+  {
+   "verse": 2580,
+   "rows": [
+    {
+     "surface": "ghṛtasya",
+     "gloss": "of-ghee",
+     "grounds": "genitive singular of ghṛta",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "accusative singular of ardha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "verily",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "nominative singular of kṣīra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīrasya",
+     "gloss": "of-milk",
+     "grounds": "genitive singular of kṣīra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "accusative singular of ardha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "nominative singular of dadhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What proportions of ghee, milk, and curd are prescribed?",
+   "premises": [
+    "half of ghee is milk",
+    "half of milk is curd"
+   ],
+   "inference": "the substances are mixed in halving proportions",
+   "uncertainties": [
+    "whether these are sequential or parallel"
+   ],
+   "plain_english": "Half of ghee indeed verily is milk; half of milk should be curd."
+  },
+  {
+   "verse": 2581,
+   "rows": [
+    {
+     "surface": "nālikerasya",
+     "gloss": "of-coconut",
+     "grounds": "genitive singular of nālikera",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "salilaṃ",
+     "gloss": "water",
+     "grounds": "nominative singular of salila",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣīreṇa",
+     "gloss": "with-milk",
+     "grounds": "instrumental singular of kṣīra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adverbial accusative of sama",
+     "morph": "adv"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should coconut water relate to milk in the mixture?",
+   "premises": [
+    "coconut water is named",
+    "milk is the measure",
+    "equality is prescribed"
+   ],
+   "inference": "coconut water should equal milk",
+   "uncertainties": [
+    "whether equal by volume or amount"
+   ],
+   "plain_english": "Coconut water indeed should be equal with milk."
+  },
+  {
+   "verse": 2582,
+   "rows": [
+    {
+     "surface": "tuṣāra+salilaṃ",
+     "gloss": "camphor-water",
+     "grounds": "compound: tuṣāra + salila",
+     "morph": "compound"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "pañcaviṃśat",
+     "gloss": "twenty-five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "nominative singular of viṃśati",
+     "morph": "num.nom.sg"
+    }
+   ],
+   "question": "What counts of camphor-water are given for the child?",
+   "premises": [
+    "camphor-water is named",
+    "twenty-five and twenty are given"
+   ],
+   "inference": "two counts of camphor-water are specified",
+   "uncertainties": [
+    "what each count measures"
+   ],
+   "plain_english": "Camphor-water, o child, twenty-five indeed, twenty."
+  },
+  {
+   "verse": 2583,
+   "rows": [
+    {
+     "surface": "sahasrakaṃ",
+     "gloss": "thousand",
+     "grounds": "accusative singular of sahasraka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣāra+salilaṃ",
+     "gloss": "camphor-water",
+     "grounds": "compound: tuṣāra + salila",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative of kalpay",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vai",
+     "gloss": "verily",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "o-six-faced-one",
+     "grounds": "vocative of ṣaḍānana",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "How much camphor-water should be arranged for the six-faced one?",
+   "premises": [
+    "a thousand is specified",
+    "camphor-water is to be arranged",
+    "the six-faced one is addressed"
+   ],
+   "inference": "one thousand camphor-water is to be arranged",
+   "uncertainties": [
+    "whether thousand pots or measures"
+   ],
+   "plain_english": "A thousand indeed of camphor-water one should arrange, verily, o six-faced one."
+  },
+  {
+   "verse": 2584,
+   "rows": [
+    {
+     "surface": "viṃśat",
+     "gloss": "twenty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "pañcaka",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num"
+    }
+   ],
+   "question": "What sequence of numbers is listed for the rite?",
+   "premises": [
+    "twenty, fifteen, ten, six, five, and two are listed"
+   ],
+   "inference": "a descending numeric series is prescribed",
+   "uncertainties": [
+    "what each number counts"
+   ],
+   "plain_english": "Twenty, fifteen, and indeed ten, six, five, two."
+  },
+  {
+   "verse": 2585,
+   "rows": [
+    {
+     "surface": "mahā+snapanam",
+     "gloss": "great-bathing",
+     "grounds": "compound: mahā + snapana",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣān",
+     "gloss": "remaining",
+     "grounds": "accusative plural of śeṣa",
+     "morph": "adj.acc.pl"
+    },
+    {
+     "surface": "nṛttān",
+     "gloss": "in-dances",
+     "grounds": "accusative plural of nṛtta",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-employ",
+     "grounds": "optative of niyojaya",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done with the remaining dances after the great bathing?",
+   "premises": [
+    "great bathing is named",
+    "remaining dances are named",
+    "employment is commanded"
+   ],
+   "inference": "remaining dances are to be employed after great bathing",
+   "uncertainties": [
+    "how many dances remain"
+   ],
+   "plain_english": "Great bathing thus indeed; one should employ the remaining dances."
+  },
+  {
+   "verse": 2586,
+   "rows": [
+    {
+     "surface": "viṃśat+paṅktiṃ",
+     "gloss": "twenty-rows",
+     "grounds": "compound: viṃśat + paṅkti",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakīrya",
+     "gloss": "having-spread",
+     "grounds": "absolutive of prakṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇa+uttara+gaṃ",
+     "gloss": "south-north-going",
+     "grounds": "compound: dakṣiṇa + uttara + ga",
+     "morph": "compound"
+    },
+    {
+     "surface": "guha",
+     "gloss": "o-guha",
+     "grounds": "vocative of guha",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "How should the twenty rows be arranged for Guha?",
+   "premises": [
+    "twenty rows are spread",
+    "south-north going is specified",
+    "Guha is addressed"
+   ],
+   "inference": "twenty rows are spread in a south-north arrangement",
+   "uncertainties": [
+    "exact spatial layout"
+   ],
+   "plain_english": "Having spread twenty rows, then south-north-going, o Guha."
+  },
+  {
+   "verse": 2587,
+   "rows": [
+    {
+     "surface": "eka+ekena",
+     "gloss": "by-each-one",
+     "grounds": "compound: eka + ekena",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "place",
+     "grounds": "accusative singular of pada",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścima+pūrvake",
+     "gloss": "in-west-east",
+     "grounds": "compound: paścima + pūrvaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many places are assigned in the west-east arrangement?",
+   "premises": [
+    "by each one is specified",
+    "fifty places are named",
+    "west-east is specified"
+   ],
+   "inference": "fifty places are assigned in west-east order",
+   "uncertainties": [
+    "whether per row or total"
+   ],
+   "plain_english": "By each one indeed fifty places in west-east."
+  },
+  {
+   "verse": 2588,
+   "rows": [
+    {
+     "surface": "eka+ekaṃ",
+     "gloss": "at-each",
+     "grounds": "compound: eka + ekaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalaśa+mūle",
+     "gloss": "pot-base",
+     "grounds": "compound: kalaśa + mūle",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvi+prasthaṃ",
+     "gloss": "two-prasthas",
+     "grounds": "compound: dvi + prastha",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāliṃ",
+     "gloss": "rice",
+     "grounds": "accusative singular of śāli",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative of nikṣip",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be placed at each pot base?",
+   "premises": [
+    "at each pot base is specified",
+    "two prasthas of rice are named",
+    "placement is commanded"
+   ],
+   "inference": "two prasthas of rice are placed at each pot base",
+   "uncertainties": [
+    "measure of prastha"
+   ],
+   "plain_english": "At each pot base indeed two-prasthas of rice one should place."
+  },
+  {
+   "verse": 2589,
+   "rows": [
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural of kalaśa",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kṣālitān",
+     "gloss": "washed",
+     "grounds": "accusative plural participle of kṣālay",
+     "morph": "part.acc.pl"
+    },
+    {
+     "surface": "śuddhān",
+     "gloss": "pure",
+     "grounds": "accusative plural of śuddha",
+     "morph": "adj.acc.pl"
+    },
+    {
+     "surface": "dhūpitān",
+     "gloss": "fumigated",
+     "grounds": "accusative plural participle of dhūpay",
+     "morph": "part.acc.pl"
+    },
+    {
+     "surface": "gandha+lepitān",
+     "gloss": "smeared-with-fragrance",
+     "grounds": "compound: gandha + lepitān",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the pots be prepared before use?",
+   "premises": [
+    "pots are washed",
+    "pots are pure",
+    "pots are fumigated",
+    "pots are smeared with fragrance"
+   ],
+   "inference": "pots must be washed, pure, fumigated, and fragrant",
+   "uncertainties": [
+    "order of preparation"
+   ],
+   "plain_english": "Pots washed, pure, fumigated, smeared with fragrance."
+  },
+  {
+   "verse": 2590,
+   "rows": [
+    {
+     "surface": "āmra+pallava+saṃdhinnān",
+     "gloss": "joined-with-mango-leaves",
+     "grounds": "compound: āmra + pallava + saṃdhinna",
+     "morph": "compound"
+    },
+    {
+     "surface": "sugandhena",
+     "gloss": "with-fragrance",
+     "grounds": "instrumental singular of sugandha",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varcitān",
+     "gloss": "adorned",
+     "grounds": "accusative plural participle of varc",
+     "morph": "part.acc.pl"
+    }
+   ],
+   "question": "How are the mango-leaf-joined pots adorned?",
+   "premises": [
+    "joined with mango leaves is specified",
+    "fragrance is used",
+    "adornment is stated"
+   ],
+   "inference": "the pots are adorned with fragrance",
+   "uncertainties": [
+    "whether sugandha modifies varcita"
+   ],
+   "plain_english": "Joined with mango leaves, with fragrance indeed, adorned."
+  },
+  {
+   "verse": 2591,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāra",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "priests",
+     "grounds": "nominative plural of ācārya",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative singular of snapana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "optative causative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "guha",
+     "gloss": "o-guha",
+     "grounds": "vocative of guha",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "Who may cause the bathing when the alternative is chosen?",
+   "premises": [
+    "or is stated",
+    "four priests are named",
+    "bathing is to be caused",
+    "Guha is addressed"
+   ],
+   "inference": "four priests may cause the bathing",
+   "uncertainties": [
+    "whether four is minimum or exact"
+   ],
+   "plain_english": "Or four priests should cause bathing, o Guha."
+  },
+  {
+   "verse": 2592,
+   "rows": [
+    {
+     "surface": "nava+vastra+dharāḥ",
+     "gloss": "wearing-new-garments",
+     "grounds": "compound: nava + vastra + dhara",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhāḥ",
+     "gloss": "pure",
+     "grounds": "nominative plural of śuddha",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "sarva+ābharaṇa+bhūṣitāḥ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva + ābharaṇa + bhūṣita",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the priests be dressed and adorned?",
+   "premises": [
+    "new garments are worn",
+    "purity is required",
+    "all ornaments adorn them"
+   ],
+   "inference": "priests wear new garments, are pure, and adorned with all ornaments",
+   "uncertainties": [
+    "whether all three apply to priests"
+   ],
+   "plain_english": "Wearing new garments, pure, adorned with all ornaments."
+  },
+  {
+   "verse": 2593,
+   "rows": [
+    {
+     "surface": "suvarṇa+puṣpa+saṃyuktaiḥ",
+     "gloss": "endowed-with-gold-flowers",
+     "grounds": "compound: suvarṇa + puṣpa + saṃyukta",
+     "morph": "compound"
+    },
+    {
+     "surface": "soṣṇīṣaiḥ",
+     "gloss": "with-turbans",
+     "grounds": "instrumental plural of soṣṇīṣa",
+     "morph": "adj.instr.pl"
+    },
+    {
+     "surface": "sa+uttarīyakaiḥ",
+     "gloss": "with-upper-garments",
+     "grounds": "compound: sa + uttarīyaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "What additional adornments accompany the priests?",
+   "premises": [
+    "gold flowers are included",
+    "turbans are included",
+    "upper garments are included"
+   ],
+   "inference": "priests are endowed with gold flowers, turbans, and upper garments",
+   "uncertainties": [
+    "whether these are separate or combined"
+   ],
+   "plain_english": "Endowed with gold flowers, with turbans, with upper garments."
+  },
+  {
+   "verse": 2594,
+   "rows": [
+    {
+     "surface": "catuḥ+toraṇa+saṃyuktaṃ",
+     "gloss": "endowed-with-four-arches",
+     "grounds": "compound: catuḥ + toraṇa + saṃyukta",
+     "morph": "compound"
+    },
+    {
+     "surface": "catur+dvāra+samanvitam",
+     "gloss": "provided-with-four-doors",
+     "grounds": "compound: catur + dvāra + samanvita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What architectural features must the structure have?",
+   "premises": [
+    "four arches are included",
+    "four doors are included"
+   ],
+   "inference": "the structure has four arches and four doors",
+   "uncertainties": [
+    "whether this is the bathing pavilion"
+   ],
+   "plain_english": "Endowed with four arches, provided with four doors."
+  },
+  {
+   "verse": 2595,
+   "rows": [
+    {
+     "surface": "muktā+dāmaiḥ",
+     "gloss": "with-pearl-strings",
+     "grounds": "compound: muktā + dāma",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣpa+dānaiḥ",
+     "gloss": "with-flower-offerings",
+     "grounds": "compound: puṣpa + dāna",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "on-all-sides",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alaṃkṛtam",
+     "gloss": "decorated",
+     "grounds": "accusative singular participle of alaṃkṛ",
+     "morph": "part.acc.sg"
+    }
+   ],
+   "question": "How is the structure decorated on all sides?",
+   "premises": [
+    "pearl strings are used",
+    "flower offerings are used",
+    "decoration is stated"
+   ],
+   "inference": "the structure is decorated with pearl strings and flower offerings on all sides",
+   "uncertainties": [
+    "whether ca api adds more"
+   ],
+   "plain_english": "With pearl strings, with flower offerings, on all sides and also decorated."
+  },
+  {
+   "verse": 2596,
+   "rows": [
+    {
+     "surface": "kula+parvata+aṣṭa+dikṣu",
+     "gloss": "in-the-eight-directions-of-principal-mountains",
+     "grounds": "compound: kula + parvata + aṣṭa + dikṣu",
+     "morph": "compound"
+    },
+    {
+     "surface": "vipra+ādeśa+ucchritaṃ",
+     "gloss": "raised-in-brahmin-region",
+     "grounds": "compound: vipra + ādeśa + ucchrita",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the principal mountain be raised?",
+   "premises": [
+    "eight directions of principal mountains are named",
+    "brahmin region is named",
+    "raising is prescribed"
+   ],
+   "inference": "the principal mountain should be raised in the brahmin region among eight directions",
+   "uncertainties": [
+    "exact geography"
+   ],
+   "plain_english": "In the eight directions of principal mountains, raised in brahmin region, it should be."
+  },
+  {
+   "verse": 2597,
+   "rows": [
+    {
+     "surface": "kailāsaṃ",
+     "gloss": "Kailasa",
+     "grounds": "accusative singular of Kailāsa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śveta+mṛtsābhiḥ",
+     "gloss": "with-white-clay",
+     "grounds": "compound: śveta + mṛtsā",
+     "morph": "compound"
+    },
+    {
+     "surface": "meru+mātraṃ",
+     "gloss": "of-Meru-measure",
+     "grounds": "compound: Meru + mātra",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative causative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should Kailasa be made?",
+   "premises": [
+    "Kailasa is named",
+    "white clay is used",
+    "Meru measure is specified",
+    "making is commanded"
+   ],
+   "inference": "Kailasa should be made of white clay to Meru measure",
+   "uncertainties": [
+    "whether Kailasa is a model mountain"
+   ],
+   "plain_english": "Kailasa with white clay, of Meru measure indeed, one should make."
+  },
+  {
+   "verse": 2598,
+   "rows": [
+    {
+     "surface": "himaṃ",
+     "gloss": "Hima",
+     "grounds": "accusative singular of Hima",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vindhyaṃ",
+     "gloss": "Vindhya",
+     "grounds": "accusative singular of Vindhya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sucakraṃ",
+     "gloss": "Sucakra",
+     "grounds": "accusative singular of Sucakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahendraṃ",
+     "gloss": "Mahendra",
+     "grounds": "accusative singular of Mahendra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāriyātrakam",
+     "gloss": "Pariyatraka",
+     "grounds": "accusative singular of Pāriyātraka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mountains may be named in this list?",
+   "premises": [
+    "Hima, Vindhya, Sucakra are named",
+    "Mahendra and Pariyatraka are named",
+    "or connects alternatives"
+   ],
+   "inference": "several named mountains are alternatives in the list",
+   "uncertainties": [
+    "whether all are to be made or chosen"
+   ],
+   "plain_english": "Hima, Vindhya, Sucakra, or Mahendra, Pariyatraka."
+  },
+  {
+   "verse": 2599,
+   "rows": [
+    {
+     "surface": "niṣadhaṃ",
+     "gloss": "Nishadha",
+     "grounds": "accusative singular of Niṣadha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrva+dig+bhāge",
+     "gloss": "in-the-eastern-direction",
+     "grounds": "compound: pūrva + dig + bhāga",
+     "morph": "compound"
+    },
+    {
+     "surface": "himavān",
+     "gloss": "Himavan",
+     "grounds": "nominative singular of Himavān",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agni+gocare",
+     "gloss": "in-the-southeast-region",
+     "grounds": "compound: agni + gocara",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where are Nishadha and Himavan placed?",
+   "premises": [
+    "Nishadha is in the eastern direction",
+    "Himavan is in the southeast region"
+   ],
+   "inference": "Nishadha and Himavan occupy eastern and southeastern positions",
+   "uncertainties": [
+    "whether these are among the principal mountains"
+   ],
+   "plain_english": "Nishadha in the eastern direction, Himavan in the southeast region."
+  }
+ ]
+}

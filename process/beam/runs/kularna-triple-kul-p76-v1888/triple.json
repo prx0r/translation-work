@@ -1,0 +1,521 @@
+{
+ "song": "kul-p76",
+ "items": [
+  {
+   "verse": 1888,
+   "rows": [
+    {
+     "surface": "sarvarogapraharaṇaṃ",
+     "gloss": "all-disease-destroying",
+     "grounds": "compound sarva-roga-praharaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyārogyapradaṃ",
+     "gloss": "knowledge-health-giving",
+     "grounds": "compound vidyā-ārogya-prada",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative of priya",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is this knowledge called for the dear one?",
+   "premises": [
+    "It destroys all disease.",
+    "It gives knowledge and health.",
+    "It is addressed to the dear one."
+   ],
+   "inference": "This knowledge is an all-disease-destroying, health-giving gift for the dear one.",
+   "uncertainties": [
+    "Gender and case of vidyārogyapradaṃ inferred from context."
+   ],
+   "plain_english": "This is all-disease-destroying and knowledge-and-health-giving, dear one."
+  },
+  {
+   "verse": 1889,
+   "rows": [
+    {
+     "surface": "sāttvikadhyānajaṃ",
+     "gloss": "sattvic-meditation-born",
+     "grounds": "compound sāttvika-dhyāna-ja",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "phalametad",
+     "gloss": "fruit-this",
+     "grounds": "phalam + etad sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "ud-īrita past participle",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What fruit is declared from sattvic meditation?",
+   "premises": [
+    "The fruit is born of sattvic meditation.",
+    "The fruit is declared.",
+    "The address is to the goddess."
+   ],
+   "inference": "The declared fruit arises from sattvic meditation.",
+   "uncertainties": [
+    "Exact sandhi split of phalametad is editorially fused."
+   ],
+   "plain_english": "This fruit, born of sattvic meditation, is declared, O goddess."
+  },
+  {
+   "verse": 1890,
+   "rows": [
+    {
+     "surface": "vidhinānena",
+     "gloss": "by-this-rite",
+     "grounds": "vidhi + anena sandhi",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative of deveśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "saubhāgyamatulaṃ",
+     "gloss": "fortune-incomparable",
+     "grounds": "saubhāgyam + atulaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū root optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What fortune becomes available by this rite?",
+   "premises": [
+    "The rite is this one.",
+    "The fortune is incomparable.",
+    "The result becomes for the goddess."
+   ],
+   "inference": "By this rite incomparable fortune becomes.",
+   "uncertainties": [
+    "Case of saubhāgyamatulaṃ inferred as accusative."
+   ],
+   "plain_english": "By this rite, O goddess, incomparable fortune becomes."
+  },
+  {
+   "verse": 1891,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "bīja noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sañcintayed",
+     "gloss": "meditate",
+     "grounds": "sam-cint optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "yaḥ + tu sandhi",
+     "morph": "rel.pron.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun sa",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "bhū root optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ajarāmaraḥ",
+     "gloss": "ageless-immortal",
+     "grounds": "compound ajara-amara",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who becomes ageless and immortal?",
+   "premises": [
+    "One meditates on the seed.",
+    "That one becomes ageless and immortal.",
+    "The subject is introduced by who."
+   ],
+   "inference": "Whoever meditates on the seed becomes ageless and immortal.",
+   "uncertainties": [
+    "Optative force rendered as future-like result."
+   ],
+   "plain_english": "Whoever meditates on the seed becomes ageless and immortal."
+  },
+  {
+   "verse": 1892,
+   "rows": [
+    {
+     "surface": "ṣaḍādhārasthadevībhiḥ",
+     "gloss": "six-support-residing-goddesses",
+     "grounds": "compound ṣaḍ-ādhāra-stha-devī",
+     "morph": "instr.pl.f"
+    },
+    {
+     "surface": "pūjyate",
+     "gloss": "worshipped",
+     "grounds": "pūj passive present",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "clan-leader",
+     "grounds": "vocative of kulanāyikā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "By whom is the clan leader worshipped?",
+   "premises": [
+    "The goddesses reside in six supports.",
+    "The clan leader is worshipped.",
+    "The address is to the clan leader."
+   ],
+   "inference": "The clan leader is worshipped by the six-support-residing goddesses.",
+   "uncertainties": [
+    "Instrumental plural feminine inferred from ending."
+   ],
+   "plain_english": "O clan leader, you are worshipped by the goddesses residing in the six supports."
+  },
+  {
+   "verse": 1893,
+   "rows": [
+    {
+     "surface": "parāprāsādabījantu",
+     "gloss": "supreme-prāsāda-seed",
+     "grounds": "bījam + tu sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taruṇāruṇasannibham",
+     "gloss": "young-red-resembling",
+     "grounds": "compound taruṇa-aruṇa-sannibha",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What does the supreme prāsāda seed resemble?",
+   "premises": [
+    "The seed is supreme prāsāda.",
+    "It resembles young red.",
+    "The adjective agrees with the seed."
+   ],
+   "inference": "The supreme prāsāda seed resembles young red.",
+   "uncertainties": [
+    "Accusative agreement inferred from adjective ending."
+   ],
+   "plain_english": "The supreme prāsāda seed resembles young red."
+  },
+  {
+   "verse": 1894,
+   "rows": [
+    {
+     "surface": "pañcaviśatibhiḥ",
+     "gloss": "twenty-five",
+     "grounds": "pañcaviṃśati instrumental plural",
+     "morph": "instr.pl.f"
+    },
+    {
+     "surface": "sparśākṣaraiḥ",
+     "gloss": "touch-letters",
+     "grounds": "compound sparśa-akṣara instrumental plural",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "saṃvītam",
+     "gloss": "surrounded",
+     "grounds": "sam-vī past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "mother",
+     "grounds": "vocative of ambikā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "By what is it surrounded?",
+   "premises": [
+    "It is surrounded.",
+    "Twenty-five touch-letters surround it.",
+    "The address is to the mother."
+   ],
+   "inference": "It is surrounded by twenty-five touch-letters, O mother.",
+   "uncertainties": [
+    "Antecedent of saṃvītam is not explicit in this verse."
+   ],
+   "plain_english": "It is surrounded by twenty-five touch-letters, O mother."
+  },
+  {
+   "verse": 1895,
+   "rows": [
+    {
+     "surface": "ātmānañca",
+     "gloss": "self",
+     "grounds": "ātmānam + ca sandhi",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "smared",
+     "gloss": "remember",
+     "grounds": "smṛ optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "niścalenāntarātmanā",
+     "gloss": "immovable-inner-self",
+     "grounds": "compound niścala-antar-ātman instrumental",
+     "morph": "instr.sg.m"
+    }
+   ],
+   "question": "How should the self be remembered?",
+   "premises": [
+    "One should remember the self.",
+    "The remembering is by immovable inner self.",
+    "The address is to the goddess."
+   ],
+   "inference": "One should remember the self with an immovable inner self.",
+   "uncertainties": [
+    "ātmānañca may be accusative object of smared."
+   ],
+   "plain_english": "O goddess, one should remember the self with an immovable inner self."
+  },
+  {
+   "verse": 1896,
+   "rows": [
+    {
+     "surface": "aṣṭottarasahasrantu",
+     "gloss": "one-thousand-eight",
+     "grounds": "sahasram + tu sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "maṇḍala accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "chant",
+     "grounds": "pra-jap optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise",
+     "grounds": "sudhī nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What should the wise one chant?",
+   "premises": [
+    "The wise one chants.",
+    "The object is a maṇḍala.",
+    "The number is one thousand eight."
+   ],
+   "inference": "The wise one should chant a maṇḍala one thousand eight times.",
+   "uncertainties": [
+    "aṣṭottarasahasrantu may modify repetition count rather than maṇḍala."
+   ],
+   "plain_english": "The wise one should chant the maṇḍala one thousand eight times."
+  },
+  {
+   "verse": 1897,
+   "rows": [
+    {
+     "surface": "vidyādharān",
+     "gloss": "vidyādharas",
+     "grounds": "vidyādhara accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "munīn",
+     "gloss": "sages",
+     "grounds": "muni accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "yakṣān",
+     "gloss": "yakṣas",
+     "grounds": "yakṣa accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "nāgān",
+     "gloss": "nāgas",
+     "grounds": "nāga accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "apsarasaḥ",
+     "gloss": "apsarasas",
+     "grounds": "apsaras accusative plural",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "strī accusative plural",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "Who are made subject in this list?",
+   "premises": [
+    "Vidyādharas are listed.",
+    "Sages, yakṣas, nāgas, apsarasas, and women are listed.",
+    "All are accusative plural objects."
+   ],
+   "inference": "The listed beings are the ones made subject.",
+   "uncertainties": [
+    "The governing verb appears in the next verse."
+   ],
+   "plain_english": "Vidyādharas, sages, yakṣas, nāgas, apsarasas, and women."
+  },
+  {
+   "verse": 1898,
+   "rows": [
+    {
+     "surface": "vaśyān",
+     "gloss": "subjugated",
+     "grounds": "vaśya accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "kṛ present active",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "asandehaṃ",
+     "gloss": "without-doubt",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what-more",
+     "grounds": "interrogative indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānavādikān",
+     "gloss": "humans-etc",
+     "grounds": "mānava-ādika accusative plural",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "What does he make subjugated without doubt?",
+   "premises": [
+    "He makes them subjugated.",
+    "It is without doubt.",
+    "Humans and others are also included."
+   ],
+   "inference": "He makes them subjugated without doubt, and humans too.",
+   "uncertainties": [
+    "Pronoun antecedent for karoti is supplied from context."
+   ],
+   "plain_english": "He makes them subjugated without doubt; what then of humans and others?"
+  },
+  {
+   "verse": 1899,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūdhnī",
+     "gloss": "on-head",
+     "grounds": "mūrdhan locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "smṛ present participle",
+     "morph": "pres.part.nom.sg.m"
+    },
+    {
+     "surface": "japyāt",
+     "gloss": "from-chanting",
+     "grounds": "japa ablative",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun sa",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "vaśyo",
+     "gloss": "subjugated",
+     "grounds": "vaśya nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "jan middle present",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "forcibly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who becomes forcibly subjugated from chanting?",
+   "premises": [
+    "One remembers on the head.",
+    "From chanting he becomes subjugated.",
+    "The subjugation is forcible."
+   ],
+   "inference": "From chanting, remembering on the head, he becomes forcibly subjugated.",
+   "uncertainties": [
+    "The exact referent of yasya is not explicit."
+   ],
+   "plain_english": "Remembering on the head, from chanting he becomes forcibly subjugated."
+  }
+ ]
+}

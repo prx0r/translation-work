@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "ājya+sthālīm",
+     "gloss": "ghee-vessel",
+     "grounds": "compound of ājya (clarified-butter) and sthālī (vessel); object in the ritual arrangement",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paridhīn",
+     "gloss": "enclosing-sticks",
+     "grounds": "ritual sticks placed around the fire; continues the item mentioned in prior verses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise",
+     "grounds": "emphatic adverbial compound indicating the same manner of arrangement",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "kuśa+muṣṭayaḥ",
+     "gloss": "kuśa-grass-handfuls",
+     "grounds": "compound of kuśa (sacred grass) and muṣṭi (handful); additional ritual items",
+     "morph": "compound.m.nom.pl"
+    }
+   ],
+   "question": "Which additional ritual implements must be arranged together with the enclosing sticks in this procedure?",
+   "premises": [
+    "A ghee vessel is included among the required items.",
+    "The enclosing sticks are again specified in the arrangement.",
+    "Handfuls of kuśa grass are likewise to be included."
+   ],
+   "inference": "The ritual arrangement requires the ghee vessel, the enclosing sticks, and handfuls of kuśa grass together.",
+   "uncertainties": [
+    "The exact syntactic role of kuśa+muṣṭayaḥ in the nominative alongside accusative items is context-dependent."
+   ],
+   "plain_english": "The ghee vessel, the enclosing sticks, and likewise handfuls of kuśa grass are to be arranged."
+  }
+ ]
+}

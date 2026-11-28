@@ -1,0 +1,822 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1201,
+   "rows": [
+    {
+     "surface": "sapādāgnimadhiṣṭhānaṃ",
+     "gloss": "with-quarter-fire-base",
+     "grounds": "compound: sa-pāda-agni-adhiṣṭhāna; base measure including a quarter and three parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhaṣaṭkāṃghri",
+     "gloss": "with-half-six-feet",
+     "grounds": "compound: sa-ardha-ṣaṭka-aṅghri; six and a half feet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṃgakam",
+     "gloss": "lofty-height",
+     "grounds": "height or elevation of the structure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What base and height measurements define the lofty structure?",
+   "premises": [
+    "The base includes a quarter and three parts.",
+    "The height measures six and a half feet.",
+    "The structure is described as lofty."
+   ],
+   "inference": "The prescribed lofty structure has a base of three and a quarter parts and a height of six and a half feet.",
+   "uncertainties": [
+    "Exact unit implied by agni and aṅghri is context-dependent."
+   ],
+   "plain_english": "The lofty structure has a base measuring three and a quarter parts and a height of six and a half feet."
+  },
+  {
+   "verse": 1202,
+   "rows": [
+    {
+     "surface": "sa tripāda",
+     "gloss": "with-three-quarters",
+     "grounds": "sa + tri-pāda; three quarters",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu maṃcamānamudāhṛtam",
+     "gloss": "but-platform-measure-declared",
+     "grounds": "tu + mañca-māna + udāhṛtam; the platform measure is stated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurement is declared for the platform element?",
+   "premises": [
+    "A measure of three quarters is specified.",
+    "A measure of two parts is specified.",
+    "This is declared as the platform measure."
+   ],
+   "inference": "The platform measure is declared as two and three-quarter parts.",
+   "uncertainties": [],
+   "plain_english": "The platform measure is declared to be two and three-quarter parts."
+  },
+  {
+   "verse": 1203,
+   "rows": [
+    {
+     "surface": "sapādaṃ",
+     "gloss": "with-quarter",
+     "grounds": "sa-pāda; including one quarter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃcabhāgaṃ",
+     "gloss": "five-parts",
+     "grounds": "measure of five parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu staṃbhamānamudīritam",
+     "gloss": "but-pillar-measure-stated",
+     "grounds": "tu + stambha-māna + udīritam; the pillar measure is stated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurement is stated for the pillar element?",
+   "premises": [
+    "A measure of one quarter is included.",
+    "A measure of five parts is specified.",
+    "This is stated as the pillar measure."
+   ],
+   "inference": "The pillar measure is stated as five and a quarter parts.",
+   "uncertainties": [],
+   "plain_english": "The pillar measure is stated to be five and a quarter parts."
+  },
+  {
+   "verse": 1204,
+   "rows": [
+    {
+     "surface": "sapādadvibhāgamaṃcaṃ",
+     "gloss": "with-quarter-two-part-platform",
+     "grounds": "compound: sa-pāda-dvi-bhāga-mañca; platform of two and a quarter parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt sa tripādayugāṃśakam",
+     "gloss": "should-be-with-three-quarter-four-part",
+     "grounds": "syāt + sa + tri-pāda-yuga-aṃśaka; should be four and three-quarter parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative proportional measure applies to the platform?",
+   "premises": [
+    "The platform is described as two and a quarter parts.",
+    "An alternative measure of four and three-quarter parts is given.",
+    "The form syāt indicates prescription."
+   ],
+   "inference": "The platform may alternatively measure four and three-quarter parts.",
+   "uncertainties": [
+    "Whether this is an alternative or a related dimension is unclear."
+   ],
+   "plain_english": "The platform should be two and a quarter parts, or alternatively four and three-quarter parts."
+  },
+  {
+   "verse": 1205,
+   "rows": [
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "quarter-height",
+     "grounds": "pāda-ucca; height of a quarter part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhavedāṃśaṃ",
+     "gloss": "with-half-four-part",
+     "grounds": "sa-ardha-veda-aṃśa; four and a half parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādona dvyaṃśamaṃcakam",
+     "gloss": "quarter-less-two-part-platform",
+     "grounds": "pāda-ūna + dvi-aṃśa-mañcaka; platform of two parts less a quarter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What specific height and platform proportions are prescribed here?",
+   "premises": [
+    "A height of a quarter part is given.",
+    "A measure of four and a half parts is specified.",
+    "The platform is two parts less a quarter."
+   ],
+   "inference": "The prescribed proportions include a quarter-part height, four and a half parts, and a platform of one and three-quarter parts.",
+   "uncertainties": [
+    "The exact assignment of each measure to architectural members is ambiguous."
+   ],
+   "plain_english": "The height is a quarter part, another measure is four and a half parts, and the platform is one and three-quarter parts."
+  },
+  {
+   "verse": 1206,
+   "rows": [
+    {
+     "surface": "ardhādhika yugāṃśaṃ",
+     "gloss": "half-more-four-part",
+     "grounds": "ardha-adhika + yuga-aṃśa; four and a half parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu śīrṣakodayamiṣyate",
+     "gloss": "but-head-rise-desired",
+     "grounds": "tu + śīrṣaka-udaya + iṣyate; the rise of the head is desired",
+     "morph": "3.sg.pass-pres.ind"
+    }
+   ],
+   "question": "What rise is prescribed for the head element?",
+   "premises": [
+    "A measure of four and a half parts is specified.",
+    "This measure applies to the rise of the head.",
+    "The prescription is expressed as desired."
+   ],
+   "inference": "The rise of the head element is prescribed as four and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The rise of the head is prescribed to be four and a half parts."
+  },
+  {
+   "verse": 1207,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "architectural member pañjara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭa",
+     "gloss": "peak",
+     "grounds": "architectural member kūṭa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "cell",
+     "grounds": "architectural member koṣṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samasūtre",
+     "gloss": "on-equal-line",
+     "grounds": "sama-sūtra; on the same alignment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpitam",
+     "gloss": "arranged",
+     "grounds": "arranged or constructed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How must the cage, peak, and cell elements be aligned?",
+   "premises": [
+    "The cage, peak, and cell are named.",
+    "They are to be arranged on an equal line.",
+    "The arrangement is prescribed."
+   ],
+   "inference": "The cage, peak, and cell must be arranged on the same alignment.",
+   "uncertainties": [],
+   "plain_english": "The cage, peak, and cell should be arranged on the same alignment."
+  },
+  {
+   "verse": 1208,
+   "rows": [
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "architectural member śālā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśatiryuktaṃ",
+     "gloss": "thirty-six-joined",
+     "grounds": "ṣaṭ-triṃśati + yukta; joined with thirty-six",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhānuddviguṇakūṭakam",
+     "gloss": "sun-double-peak",
+     "grounds": "bhānu-dvi-guṇa-kūṭaka; peaks double the number twelve",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What counts of halls and peaks are specified for this design?",
+   "premises": [
+    "Thirty-six halls are specified.",
+    "Peaks numbering twice twelve are specified.",
+    "These elements are joined in the design."
+   ],
+   "inference": "The design includes thirty-six halls and twenty-four peaks.",
+   "uncertainties": [
+    "The exact interpretation of bhānu as twelve follows traditional numeric symbolism."
+   ],
+   "plain_english": "The design has thirty-six halls and twenty-four peaks."
+  },
+  {
+   "verse": 1209,
+   "rows": [
+    {
+     "surface": "nānādhiṣṭhānasaṃyuktaṃ",
+     "gloss": "various-bases-joined",
+     "grounds": "nānā-adhiṣṭhāna-saṃyukta; joined with various bases",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekākāramathāpi vā",
+     "gloss": "one-form-or-also",
+     "grounds": "eka-ākāra + atha + api + vā; or else of one form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative base configurations are permitted for the structure?",
+   "premises": [
+    "The structure may be joined with various bases.",
+    "Alternatively it may be of one uniform form.",
+    "Both options are presented as permissible."
+   ],
+   "inference": "The structure may have either various bases or a single uniform form.",
+   "uncertainties": [],
+   "plain_english": "The structure may have various bases or, alternatively, a single uniform form."
+  },
+  {
+   "verse": 1210,
+   "rows": [
+    {
+     "surface": "tadevonnatakūṭāḥ",
+     "gloss": "that-same-raised-peaks",
+     "grounds": "tad + eva + unnata-kūṭāḥ; that same with raised peaks",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative of as; they should be",
+     "morph": "3.pl.opt.act"
+    },
+    {
+     "surface": "sāntaraprastarānvitam",
+     "gloss": "with-interval-entablature-endowed",
+     "grounds": "sa-antara-prastara-anvita; endowed with entablature and interval",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What features characterize the variant with raised peaks?",
+   "premises": [
+    "The same structure may have raised peaks.",
+    "It should be endowed with intervals and entablature.",
+    "This is presented as a prescribed variant."
+   ],
+   "inference": "The raised-peak variant should include intervals and an entablature.",
+   "uncertainties": [],
+   "plain_english": "That same structure should have raised peaks and be endowed with intervals and an entablature."
+  },
+  {
+   "verse": 1211,
+   "rows": [
+    {
+     "surface": "tadeva natakūṭaṃ",
+     "gloss": "that-same-lowered-peak",
+     "grounds": "tad + eva + nata-kūṭa; that same with lowered peak",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhonnatasamaṃcakāḥ",
+     "gloss": "cell-raised-equal-platforms",
+     "grounds": "koṣṭha-unnata-sama-mañcaka; platforms equal to the raised cell",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What platform arrangement accompanies the lowered-peak variant?",
+   "premises": [
+    "The same structure may have a lowered peak.",
+    "Its platforms are equal to the raised cell.",
+    "This defines the variant's arrangement."
+   ],
+   "inference": "In the lowered-peak variant, the platforms are made equal in height to the raised cell.",
+   "uncertainties": [],
+   "plain_english": "In that same form with a lowered peak, the platforms should be equal in height to the raised cell."
+  },
+  {
+   "verse": 1212,
+   "rows": [
+    {
+     "surface": "tadeva śīrṣaṃ",
+     "gloss": "that-same-head",
+     "grounds": "tad + eva + śīrṣa; that same head",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "corner",
+     "grounds": "architectural corner element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "lacuna",
+     "grounds": "missing text in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "* śraṃ vedikāyatam",
+     "gloss": "lacuna-extended-to-platform",
+     "grounds": "text damaged; ends with vedikā-āyata, extended to the platform",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What head and corner configuration is indicated despite textual damage?",
+   "premises": [
+    "The same head and corner are mentioned.",
+    "Part of the text is missing.",
+    "The remaining text indicates extension to the platform."
+   ],
+   "inference": "The head and corner configuration extends to the platform, though details are lost.",
+   "uncertainties": [
+    "Text is lacunose at the fourth and fifth tokens.",
+    "The full description of the configuration cannot be recovered."
+   ],
+   "plain_english": "That same head and corner are described as extending to the platform, but part of the text is missing."
+  },
+  {
+   "verse": 1213,
+   "rows": [
+    {
+     "surface": "samaṃ connatakūṭaṃ",
+     "gloss": "equal-or-raised-peak",
+     "grounds": "samaṃ + ca + unnata-kūṭa; with equal or raised peak",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpradaṃ",
+     "gloss": "prosperity-giving",
+     "grounds": "śrī-prada; bestowing prosperity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "tad + udāhṛtam; that is declared",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What auspicious effect is attributed to the equal or raised peak form?",
+   "premises": [
+    "The form may have an equal or raised peak.",
+    "This form is declared to bestow prosperity.",
+    "The declaration presents it as auspicious."
+   ],
+   "inference": "A structure with an equal or raised peak is declared to bestow prosperity.",
+   "uncertainties": [],
+   "plain_english": "That form, with an equal or raised peak, is declared to bestow prosperity."
+  },
+  {
+   "verse": 1214,
+   "rows": [
+    {
+     "surface": "rudrakāntamidaṃ",
+     "gloss": "rudra-beloved-this",
+     "grounds": "rudra-kānta + idam; this beloved of Rudra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "known or renowned",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudraprītikaram param",
+     "gloss": "rudra-delight-causing-supreme",
+     "grounds": "rudra-prīti-kara + param; supremely causing Rudra's delight",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What religious significance is claimed for this architectural form?",
+   "premises": [
+    "This form is renowned as beloved of Rudra.",
+    "It is said to cause Rudra's delight.",
+    "Its effect is described as supreme."
+   ],
+   "inference": "This architectural form is renowned as supremely pleasing to Rudra.",
+   "uncertainties": [],
+   "plain_english": "This form is renowned as beloved of Rudra and supremely pleasing to him."
+  },
+  {
+   "verse": 1215,
+   "rows": [
+    {
+     "surface": "krameṇādi talātkalpya",
+     "gloss": "gradually-from-base-arranged",
+     "grounds": "krameṇa + ādi + talāt + kalpya; arranged gradually from the base upward",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "vṛttabhadramidaṃ smṛtam",
+     "gloss": "round-bhadra-this-remembered",
+     "grounds": "vṛtta-bhadra + idam + smṛtam; this is remembered as Vṛttabhadra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name is given to the form arranged gradually from the base?",
+   "premises": [
+    "The form is arranged gradually from the base upward.",
+    "This arrangement is given a specific name.",
+    "The name is remembered as Vṛttabhadra."
+   ],
+   "inference": "The form arranged gradually from the base is called Vṛttabhadra.",
+   "uncertainties": [],
+   "plain_english": "When arranged gradually from the base upward, this form is known as Vṛttabhadra."
+  },
+  {
+   "verse": 1216,
+   "rows": [
+    {
+     "surface": "kūṭānāṃ mastakaṃ",
+     "gloss": "of-peaks-head",
+     "grounds": "kūṭānām + mastaka; the head of the peaks",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "circular in form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suvṛttamiti vidyate",
+     "gloss": "well-round-thus-known",
+     "grounds": "su-vṛttam + iti + vidyate; it is known as well-rounded",
+     "morph": "3.sg.pass-pres.ind"
+    }
+   ],
+   "question": "What shape characterizes the top of the peaks in this form?",
+   "premises": [
+    "The head of the peaks is described.",
+    "It is round in shape.",
+    "It is known as well-rounded."
+   ],
+   "inference": "The top of the peaks is round and known as well-rounded.",
+   "uncertainties": [],
+   "plain_english": "The top of the peaks is round and is known as well-rounded."
+  },
+  {
+   "verse": 1217,
+   "rows": [
+    {
+     "surface": "yatheṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "according to desire or choice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikharākāraṃ",
+     "gloss": "spire-form",
+     "grounds": "śikhara-ākāra; having the form of a spire",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhaḥ",
+     "gloss": "neck",
+     "grounds": "architectural neck element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthūpī",
+     "gloss": "finial",
+     "grounds": "crowning finial element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghaṭastathā",
+     "gloss": "pot-likewise",
+     "grounds": "ghaṭa + tathā; and likewise the pot element",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What flexibility is allowed in shaping the spire and its upper elements?",
+   "premises": [
+    "The spire form may be made as desired.",
+    "The neck, finial, and pot elements are included.",
+    "These elements follow the chosen form."
+   ],
+   "inference": "The spire, neck, finial, and pot may be shaped as desired.",
+   "uncertainties": [],
+   "plain_english": "The spire may be shaped as desired, along with the neck, finial, and pot elements."
+  },
+  {
+   "verse": 1218,
+   "rows": [
+    {
+     "surface": "śivabhadramiti khyātaṃ",
+     "gloss": "shiva-bhadra-thus-renowned",
+     "grounds": "śiva-bhadra + iti + khyāta; renowned as Śivabhadra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaprītikaraṃ param",
+     "gloss": "shiva-delight-causing-supreme",
+     "grounds": "śiva-prīti-kara + param; supremely causing Śiva's delight",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and religious benefit are attributed to this form?",
+   "premises": [
+    "This form is renowned as Śivabhadra.",
+    "It is said to cause Śiva's delight.",
+    "Its effect is described as supreme."
+   ],
+   "inference": "The form called Śivabhadra is supremely pleasing to Śiva.",
+   "uncertainties": [],
+   "plain_english": "This form is renowned as Śivabhadra and is supremely pleasing to Śiva."
+  },
+  {
+   "verse": 1219,
+   "rows": [
+    {
+     "surface": "dvidaṇḍaṃ vātha",
+     "gloss": "two-staff-or-else",
+     "grounds": "dvi-daṇḍa + vā + atha; or else two-staffed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣkāntaṃ",
+     "gloss": "projecting-out",
+     "grounds": "projecting or extended outward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadraṃ vā",
+     "gloss": "bhadra-or",
+     "grounds": "bhadra + vā; or a bhadra projection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadrapaṃjaram",
+     "gloss": "bhadra-cage",
+     "grounds": "bhadra-pañjara; a cage with bhadra projection",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative projection configurations are permitted in this design?",
+   "premises": [
+    "A two-staffed projection is permitted.",
+    "A projecting or bhadra form is permitted.",
+    "A bhadra-cage configuration is permitted."
+   ],
+   "inference": "The design allows two-staffed, projecting, bhadra, or bhadra-cage configurations.",
+   "uncertainties": [
+    "The precise architectural distinction between these terms is context-dependent."
+   ],
+   "plain_english": "The design may have a two-staffed projection, a projecting form, a bhadra, or a bhadra-cage."
+  },
+  {
+   "verse": 1220,
+   "rows": [
+    {
+     "surface": "nānācitrairvicitraṃ",
+     "gloss": "with-various-ornaments-variegated",
+     "grounds": "nānā-citra + vicitra; variegated with various ornaments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivasaukhyamudāhṛtam",
+     "gloss": "shiva-happiness-declared",
+     "grounds": "śiva-saukhya + udāhṛtam; declared as Śivasaukhya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name is given to the richly ornamented variant?",
+   "premises": [
+    "The variant is variegated with various ornaments.",
+    "This ornamented form is given a name.",
+    "It is declared as Śivasaukhya."
+   ],
+   "inference": "The richly ornamented variant is declared as Śivasaukhya.",
+   "uncertainties": [],
+   "plain_english": "When variegated with various ornaments, this form is declared as Śivasaukhya."
+  },
+  {
+   "verse": 1221,
+   "rows": [
+    {
+     "surface": "vṛttamevaṃ hi bāhyaṃ",
+     "gloss": "round-thus-indeed-outer",
+     "grounds": "vṛttam + evam + hi + bāhyam; the outer part is thus round",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttābhaṃ sauṣṭikānvitam",
+     "gloss": "round-like-elegance-endowed",
+     "grounds": "vṛtta-ābha + sauṣṭika-anvita; round-like and endowed with elegance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What outer form and aesthetic quality are prescribed for this structure?",
+   "premises": [
+    "The outer part is prescribed as round.",
+    "It appears round-like in form.",
+    "It is endowed with elegance."
+   ],
+   "inference": "The outer structure should be round and endowed with elegant appearance.",
+   "uncertainties": [],
+   "plain_english": "The outer part should be round, round-like in appearance, and endowed with elegance."
+  },
+  {
+   "verse": 1222,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "architectural member pañjara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭakoṣṭhaṃ",
+     "gloss": "peak-cell",
+     "grounds": "compound: kūṭa-koṣṭha; peak and cell",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "intermediate space or interval",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prastarānvitam",
+     "gloss": "entablature-endowed",
+     "grounds": "prastara-anvita; endowed with entablature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What architectural members and features complete this configuration?",
+   "premises": [
+    "The cage, peak, and cell are included.",
+    "An interval is included.",
+    "The configuration is endowed with an entablature."
+   ],
+   "inference": "The configuration includes cage, peak, cell, interval, and entablature.",
+   "uncertainties": [],
+   "plain_english": "The configuration includes the cage, peak, cell, and interval, and is endowed with an entablature."
+  },
+  {
+   "verse": 1223,
+   "rows": [
+    {
+     "surface": "evaṃ saptatalaṃ khyātaṃ",
+     "gloss": "thus-seven-storey-renowned",
+     "grounds": "evam + sapta-tala + khyāta; thus renowned as seven-storeyed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasubhaumamathocyate",
+     "gloss": "vasubhauma-now-stated",
+     "grounds": "vasubhauma + atha + ucyate; now called Vasubhauma",
+     "morph": "3.sg.pass-pres.ind"
+    }
+   ],
+   "question": "What name is assigned to the seven-storeyed structure described here?",
+   "premises": [
+    "The structure is described as seven-storeyed.",
+    "It is renowned in this form.",
+    "It is now stated to be called Vasubhauma."
+   ],
+   "inference": "The seven-storeyed structure is called Vasubhauma.",
+   "uncertainties": [],
+   "plain_english": "This seven-storeyed structure is renowned and is now called Vasubhauma."
+  },
+  {
+   "verse": 1224,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshumat-kashyapa",
+     "grounds": "iti + aṃśumān-kāśyape; thus in the Aṃśumān Kāśyapa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptabhūmividhānapaṭalaḥ",
+     "gloss": "seven-storey-arrangement-chapter",
+     "grounds": "sapta-bhūmi-vidhāna-paṭala; chapter on the arrangement of seven storeys",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trayastriṃśaḥ",
+     "gloss": "thirty-third",
+     "grounds": "ordinal number thirty-three",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter and position in the text does this colophon identify?",
+   "premises": [
+    "The colophon refers to the Aṃśumān Kāśyapa text.",
+    "It names the chapter on seven-storey arrangement.",
+    "It identifies this as the thirty-third chapter."
+   ],
+   "inference": "This is the thirty-third chapter, on seven-storey arrangement, in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the thirty-third chapter, on the arrangement of seven storeys, in the Aṃśumān Kāśyapa."
+  }
+ ]
+}

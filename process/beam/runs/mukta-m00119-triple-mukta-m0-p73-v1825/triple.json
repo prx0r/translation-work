@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "madhumiśrā",
+     "gloss": "honey-mixed",
+     "grounds": "compound madhu+miśrā; feminine nominative singular agreeing with vijayā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayā",
+     "gloss": "vijayā",
+     "grounds": "subject noun in nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gauḍabrāhmaṇakarmaṇi",
+     "gloss": "in-gauḍa-brāhmaṇa-rite",
+     "grounds": "locative singular of compound gauḍa-brāhmaṇa-karman",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What substance is mixed with vijayā in the Gauḍa Brāhmaṇa rite?",
+   "premises": [
+    "vijayā is mixed with honey",
+    "the rite named is Gauḍa Brāhmaṇa",
+    "the mixture is specified for that rite"
+   ],
+   "inference": "The verse specifies honey-mixed vijayā for the Gauḍa Brāhmaṇa rite.",
+   "uncertainties": [
+    "exact ritual referent of vijayā is not specified in this verse"
+   ],
+   "plain_english": "But vijayā mixed with honey is used in the Gauḍa Brāhmaṇa rite."
+  }
+ ]
+}

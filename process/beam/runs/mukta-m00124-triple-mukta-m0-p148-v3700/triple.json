@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "śayitasthitipaṭṭābhyām",
+     "gloss": "sleeping-standing-band",
+     "grounds": "fused compound form analyzed as one token; instrumental dual ending -ābhyām",
+     "morph": "compound (śayita-sthiti-paṭṭa)+instr.dual"
+    },
+    {
+     "surface": "aṅgulādyaiḥ",
+     "gloss": "finger-etc",
+     "grounds": "fused compound form analyzed as one token; instrumental plural ending -aiḥ",
+     "morph": "compound (aṅgula-ādi)+instr.pl"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past passive participle of vibhūṣ",
+     "morph": "ppp.acc.sg.n"
+    }
+   ],
+   "question": "Which adornment completes the linga's sleeping-standing band measured by fingers?",
+   "premises": [
+    "The band is named sleeping-standing.",
+    "Finger-measures adorn it.",
+    "The participle marks completed adornment."
+   ],
+   "inference": "The verse states that the sleeping-standing band is adorned by finger-measures.",
+   "uncertainties": [
+    "Exact referent of the adorned object is not explicit in this verse."
+   ],
+   "plain_english": "It is adorned with the sleeping-standing band by fingers and the like."
+  }
+ ]
+}

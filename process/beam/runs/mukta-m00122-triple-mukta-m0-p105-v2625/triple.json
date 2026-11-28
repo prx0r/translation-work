@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun neuter singular nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun neuter singular nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "pronoun instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "īritaṃ",
+     "gloss": "spoken",
+     "grounds": "past passive participle of root īr",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun or adjective neuter singular nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryyam",
+     "gloss": "task",
+     "grounds": "neuter singular nominative noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun neuter singular nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "su+sādhayet",
+     "gloss": "well-one-should-accomplish",
+     "grounds": "prefix su with causative optative third singular of root sādh",
+     "morph": "indecl.+v.3.sg.opt.act (root sādh)"
+    }
+   ],
+   "question": "What must be accomplished well regarding everything spoken by them?",
+   "premises": [
+    "Whatever by them spoken is a task.",
+    "All of it must be well accomplished.",
+    "The instruction concerns spoken directives."
+   ],
+   "inference": "All directives given by those authorities should be carried out carefully.",
+   "uncertainties": [
+    "The exact referents of 'them' and 'this' depend on prior context."
+   ],
+   "plain_english": "Whatever they have spoken, all of it is a task; this should be well accomplished."
+  }
+ ]
+}

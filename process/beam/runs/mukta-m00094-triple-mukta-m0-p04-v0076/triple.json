@@ -1,0 +1,1131 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "ritual exclamation of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation for offerings to deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svadhāñcaiva",
+     "gloss": "svadhā-and-also",
+     "grounds": "svadhā (exclamation for ancestors) + ca + eva fused by sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "sandhi form of namaḥ before vauṣaṭ context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "ritual exclamation used in offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates manner or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential application",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What sequence of ritual exclamations governs the offering procedure?",
+   "premises": [
+    "namaḥ, svāhā, svadhā, namo, and vauṣaṭ are ritual exclamations.",
+    "These exclamations are to be applied in a specific order."
+   ],
+   "inference": "The offering procedure requires these exclamations to be uttered sequentially.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, svāhā, svadhā, obeisance, and vauṣaṭ are to be used in that order."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "material offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-pronounced",
+     "grounds": "uttering the offering formula",
+     "morph": "gerund (pra+vac)"
+    },
+    {
+     "surface": "devatābodhanaṃ",
+     "gloss": "deity-awakening",
+     "grounds": "devatā + bodhana; act of invoking or awakening the deity",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action follows the pronouncement of the offered substance?",
+   "premises": [
+    "The substance is first identified and pronounced.",
+    "After pronouncing the substance, the deity must be awakened."
+   ],
+   "inference": "The awakening of the deity follows the verbal presentation of the offering.",
+   "uncertainties": [],
+   "plain_english": "Having pronounced 'this substance,' one should then perform the awakening of the deity."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "mūla + mantra; primary mantra of the deity",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "clearly pronouncing the mantra",
+     "morph": "gerund (sam+ud+car)"
+    },
+    {
+     "surface": "ṅentaṃ",
+     "gloss": "ending-in-ṅ",
+     "grounds": "name formed with a dative-like ending in ṅ (grammatical form)",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "name of the deity or recipient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-apply",
+     "grounds": "prescriptive instruction to employ the name",
+     "morph": "3.sg.optative.active (ni+yuj)"
+    }
+   ],
+   "question": "How must the root mantra and deity name be applied in the ritual?",
+   "premises": [
+    "The root mantra is to be uttered.",
+    "The deity's name is to be applied in a form ending in ṅ."
+   ],
+   "inference": "After uttering the root mantra, one should apply the deity's name in the specified grammatical form.",
+   "uncertainties": [
+    "The exact grammatical function of 'ṅentaṃ' in this ritual context is not fully specified."
+   ],
+   "plain_english": "Having uttered the root mantra, one should apply the name ending in ṅ."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "material offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samucārya",
+     "gloss": "having-uttered",
+     "grounds": "pronouncing the offering formula",
+     "morph": "gerund (sam+ud+car)"
+    },
+    {
+     "surface": "parivārebhyo",
+     "gloss": "to-retinue",
+     "grounds": "attendant deities or followers",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "namo'ntataḥ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "namaḥ + antataḥ; formula concluding with obeisance",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "How should offerings be directed to the deity's retinue?",
+   "premises": [
+    "The substance is pronounced as an offering.",
+    "The offering is addressed to the retinue.",
+    "The formula concludes with obeisance."
+   ],
+   "inference": "After pronouncing the substance, one should offer it to the retinue with a formula ending in obeisance.",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'this substance,' one should offer it to the retinue, ending with 'obeisance.'"
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "akṣobhyaṃ",
+     "gloss": "to-akṣobhya",
+     "grounds": "name of a deity or figure placed in the crown region",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "textual marker or lacuna in source",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "maulideśe",
+     "gloss": "in-crown-region",
+     "grounds": "mauli + deśa; location at the crown of the head or diagram",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgādyaṣṭadaleṣu",
+     "gloss": "in-east-etc-eight-petals",
+     "grounds": "prāk + ādi + aṣṭa + dala; eight petals beginning from the east",
+     "morph": "compound n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are Akṣobhya and other elements placed in the ritual diagram?",
+   "premises": [
+    "Akṣobhya is placed in the crown region.",
+    "Other elements are placed in the eight petals beginning from the east."
+   ],
+   "inference": "The ritual layout assigns Akṣobhya to the crown and distributes elements across the eight directional petals.",
+   "uncertainties": [
+    "The token '*' indicates an unclear or missing element in the text."
+   ],
+   "plain_english": "Place Akṣobhya in the crown region, and in the eight petals beginning from the east."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "vāyavyādīśaparyantaṃ",
+     "gloss": "from-northwest-to-northeast",
+     "grounds": "vāyavya + ādi + īśa + paryanta; range from northwest up to northeast",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "gurupaṅktir",
+     "gloss": "guru-lineage",
+     "grounds": "guru + paṅkti; line or row of teachers",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "vyavasthitā",
+     "gloss": "is-situated",
+     "grounds": "arranged or established in position",
+     "morph": "f.nom.sg past-participle (vi+ava+sthā)"
+    }
+   ],
+   "question": "How is the lineage of gurus arranged in the directional layout?",
+   "premises": [
+    "The guru lineage occupies a specific directional range.",
+    "This range extends from the northwest to the northeast."
+   ],
+   "inference": "The guru lineage is situated along the arc from the northwest to the northeast.",
+   "uncertainties": [],
+   "plain_english": "The lineage of gurus is situated from the northwest up to the northeast."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "consecrated food presented to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhakebhyaśca",
+     "gloss": "to-practitioners-and",
+     "grounds": "sādhakebhyaḥ + ca; to practitioners as well",
+     "morph": "m.dat.pl + (indecl.)"
+    },
+    {
+     "surface": "strībhyo",
+     "gloss": "to-women",
+     "grounds": "female recipients",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "dadyānna",
+     "gloss": "one-should-give-not",
+     "grounds": "dadyāt + na; prohibitive injunction",
+     "morph": "3.sg.optative.active (dā) + (indecl.)"
+    },
+    {
+     "surface": "kutracit",
+     "gloss": "anywhere",
+     "grounds": "in any circumstance or place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom must the consecrated food offering never be given?",
+   "premises": [
+    "Naivedya is a consecrated food offering.",
+    "The text issues a prohibition regarding its distribution.",
+    "Practitioners and women are specified as recipients in the prohibition."
+   ],
+   "inference": "The consecrated food offering must not be given to practitioners or to women under any circumstances.",
+   "uncertainties": [],
+   "plain_english": "One should never give the food offering to practitioners or to women anywhere."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "performed in the mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāntrikañcaiva",
+     "gloss": "pertaining-to-yantra-and-also",
+     "grounds": "yāntrikam + ca + eva; worship using a yantra",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "regular, obligatory practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛṇāmiti",
+     "gloss": "of-humans-thus",
+     "grounds": "nṛṇām + iti; stated as pertaining to people",
+     "morph": "m.gen.pl + (indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "traditionally taught or prescribed",
+     "morph": "n.nom.sg past-participle (smṛ)"
+    }
+   ],
+   "question": "What forms of daily worship are prescribed for human practitioners?",
+   "premises": [
+    "Worship can be mental or performed with a yantra.",
+    "Such worship is prescribed as a daily practice for humans."
+   ],
+   "inference": "Humans are enjoined to perform daily mental worship and worship using a yantra.",
+   "uncertainties": [],
+   "plain_english": "Mental and yantra-based worship are remembered as the daily practices for humans."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-performed",
+     "grounds": "enjoined or prescribed",
+     "morph": "n.nom.sg gerundive (vi+dhā)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act of worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation marker",
+     "morph": "(punct)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādvā",
+     "gloss": "one-should-do-or",
+     "grounds": "kuryāt + vā; alternative or prohibition in context",
+     "morph": "3.sg.optative.active (kṛ) + (indecl.)"
+    },
+    {
+     "surface": "nijecchayā",
+     "gloss": "by-own-will",
+     "grounds": "nija + icchā; according to personal desire",
+     "morph": "compound f.ins.sg"
+    }
+   ],
+   "question": "May worship be performed according to one's own personal will?",
+   "premises": [
+    "Worship is prescribed as something to be performed.",
+    "The text addresses the goddess regarding this rule.",
+    "Acting by one's own will is contrasted with prescribed performance."
+   ],
+   "inference": "Worship must be performed as prescribed and not according to one's own will.",
+   "uncertainties": [],
+   "plain_english": "O goddess, worship is to be performed as prescribed; one should not do it according to one's own will."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual cup or container",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "number of vessels",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "number of vessels",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "vā + api; alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "number of vessels",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of vessels",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What numbers of ritual vessels are permitted in the practice?",
+   "premises": [
+    "The ritual involves the use of vessels.",
+    "Multiple numerical options are given as alternatives."
+   ],
+   "inference": "One may use one, two, three, or five vessels in the ritual.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one vessel, or two, or three, or five may be used."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "sambidānandayogena",
+     "gloss": "by-consciousness-bliss-union",
+     "grounds": "sambid + ānanda + yoga; union of awareness and bliss",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to intoxication",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇamado",
+     "gloss": "ritual-substance-intoxication",
+     "grounds": "kāraṇa + mada; intoxication arising from the ritual substance",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential or conditional occurrence",
+     "morph": "3.sg.optative.active (bhū)"
+    }
+   ],
+   "question": "What kind of intoxication arises through union with consciousness and bliss?",
+   "premises": [
+    "Intoxication can arise from a ritual substance.",
+    "This intoxication is linked to the union of consciousness and bliss."
+   ],
+   "inference": "The intoxication from the ritual substance is that which arises through the union of consciousness and bliss.",
+   "uncertainties": [
+    "The specific ritual substance denoted by 'kāraṇa' is context-dependent."
+   ],
+   "plain_english": "That intoxication from the ritual substance which may arise through the union of consciousness and bliss."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "draws consequence from previous statement",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-consumed",
+     "grounds": "partaking of the offering or substance",
+     "morph": "gerund (bhuj)"
+    },
+    {
+     "surface": "siddhimūlaṃ",
+     "gloss": "accomplishment-root",
+     "grounds": "siddhi + mūla; root cause of spiritual accomplishment",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "ritual-substance",
+     "grounds": "the consecrated substance used in practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pivet",
+     "gloss": "should-drink",
+     "grounds": "prescriptive instruction to drink",
+     "morph": "3.sg.optative.active (pā)"
+    }
+   ],
+   "question": "What should the practitioner do with the ritual substance after consuming?",
+   "premises": [
+    "The ritual substance is the root of accomplishment.",
+    "The practitioner has already consumed in some manner.",
+    "A further action regarding the substance is prescribed."
+   ],
+   "inference": "Therefore, after consuming, the practitioner should drink the ritual substance as the root of accomplishment.",
+   "uncertainties": [
+    "The distinction between 'bhuktvā' and 'pivet' in this ritual sequence is not fully explicit."
+   ],
+   "plain_english": "Therefore, having consumed, the practitioner should drink the ritual substance, the root of accomplishment."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "tanna",
+     "gloss": "that-not",
+     "grounds": "tat + na; negation applied to that",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānanda-janakaṃ",
+     "gloss": "bliss-producing",
+     "grounds": "ānanda + janaka; that which generates bliss",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bauddhadeva-vaco",
+     "gloss": "buddha-god-word",
+     "grounds": "bauddha + deva + vacas; word or teaching of the Buddha deity",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "introduces comparison or citation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the bliss-producing nature affirmed by the word of the Buddha deity?",
+   "premises": [
+    "Something is described as not merely ordinary but bliss-producing.",
+    "The word of the Buddha deity is cited as authority."
+   ],
+   "inference": "As stated by the word of the Buddha deity, that is indeed bliss-producing.",
+   "uncertainties": [
+    "The exact referent of 'tat' and the source of the cited word are not specified."
+   ],
+   "plain_english": "And that is bliss-producing, as stated in the word of the Buddha deity."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "tatpatnī",
+     "gloss": "his-wife",
+     "grounds": "tat + patnī; wife of that person",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "sarvabhāvena",
+     "gloss": "with-whole-being",
+     "grounds": "sarva + bhāva; with complete devotion or entirety",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikapūruṣaiḥ",
+     "gloss": "by-kaula-men",
+     "grounds": "kaulika + pūruṣa; men of the Kaula tradition",
+     "morph": "compound m.ins.pl"
+    }
+   ],
+   "question": "How should Kaula men relate to the wife of that person?",
+   "premises": [
+    "The wife of a specified person is mentioned.",
+    "Kaula men are the agents of the prescribed attitude or action.",
+    "The attitude must be with whole being and always."
+   ],
+   "inference": "Kaula men should always regard or treat his wife with their whole being.",
+   "uncertainties": [
+    "The precise nature of the prescribed conduct is not explicitly stated."
+   ],
+   "plain_english": "His wife should always be regarded with whole being by Kaula men."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from previous statement",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "stotrairdhanairvākyai",
+     "gloss": "with-hymns-with-wealth-with-words",
+     "grounds": "stotraiḥ + dhanaiḥ + vākyaiḥ; by hymns, wealth, and speech fused by sandhi",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "stoṣayet",
+     "gloss": "one-should-please",
+     "grounds": "prescriptive instruction to propitiate or praise",
+     "morph": "3.sg.optative.causative.active (stu)"
+    },
+    {
+     "surface": "brahmadāyakam",
+     "gloss": "brahman-giver",
+     "grounds": "brahma + dāyaka; one who imparts Brahman or sacred knowledge",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "How should one propitiate the giver of Brahman?",
+   "premises": [
+    "The giver of Brahman is to be honored.",
+    "Hymns, wealth, and words are available means of propitiation."
+   ],
+   "inference": "Therefore, one should please the giver of Brahman with hymns, wealth, and words.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one should please the giver of Brahman with hymns, wealth, and words."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initial stage of the procedure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaṅaṅgaṃ",
+     "gloss": "six-limb",
+     "grounds": "ṣaṭ + aṅga; six-limb ritual installation (nyāsa)",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-installed",
+     "grounds": "placing or assigning ritually",
+     "morph": "gerund (vi+ni+as)"
+    },
+    {
+     "surface": "gurordhyānaṃ",
+     "gloss": "of-guru-meditation",
+     "grounds": "guroḥ + dhyānam; meditation on the guru",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tataḥparam",
+     "gloss": "then-after",
+     "grounds": "tataḥ + param; subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual steps precede meditation on the guru?",
+   "premises": [
+    "The procedure begins with an initial action.",
+    "The six-limb installation is performed first.",
+    "Meditation on the guru follows afterward."
+   ],
+   "inference": "One must first perform the six-limb installation and then meditate on the guru.",
+   "uncertainties": [],
+   "plain_english": "First, having installed the six limbs, one should then meditate on the guru."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "seturūpaṃ",
+     "gloss": "bridge-form",
+     "grounds": "setu + rūpa; in the form of a bridge or link",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "tata",
+     "gloss": "then",
+     "grounds": "indicates next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stāraṃ",
+     "gloss": "seed-syllable",
+     "grounds": "the syllable oṃ or another seed mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "reciting the mantra",
+     "morph": "gerund (jap)"
+    },
+    {
+     "surface": "japamathācaret",
+     "gloss": "recitation-then-perform",
+     "grounds": "japam + atha + ācaret; then one should perform recitation",
+     "morph": "compound 3.sg.optative.active (ā+car)"
+    }
+   ],
+   "question": "What recitation practice follows the muttering of the seed syllable?",
+   "premises": [
+    "The seed syllable is muttered in a bridge-like form.",
+    "A further recitation practice is to be performed afterward."
+   ],
+   "inference": "After muttering the seed syllable as a bridge, one should then perform the recitation.",
+   "uncertainties": [
+    "The exact meaning of 'seturūpaṃ' in this ritual context is interpretive."
+   ],
+   "plain_english": "Then, having muttered the seed syllable in the form of a bridge, one should perform the recitation."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "śivo'haṃ",
+     "gloss": "śiva-i-am",
+     "grounds": "śivaḥ + aham; identity statement 'I am Śiva'",
+     "morph": "compound m.nom.sg + 1.sg.pronoun"
+    },
+    {
+     "surface": "tāriṇīrūpam",
+     "gloss": "tāriṇī-form",
+     "grounds": "tāriṇī + rūpa; having the form of Tāriṇī",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "one's own self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the content of contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "prescriptive instruction for meditation",
+     "morph": "3.sg.optative.active (cint)"
+    }
+   ],
+   "question": "How should the practitioner contemplate their own identity during practice?",
+   "premises": [
+    "The practitioner is instructed to contemplate the self.",
+    "The contemplation involves the identity 'I am Śiva'.",
+    "The self is to be contemplated in the form of Tāriṇī."
+   ],
+   "inference": "One should contemplate oneself as 'I am Śiva' in the form of Tāriṇī.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the self thus: 'I am Śiva,' in the form of Tāriṇī."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "2.sg.dat.pronoun"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "declared or revealed",
+     "morph": "n.nom.sg past-participle (kath)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation marker",
+     "morph": "(punct)"
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "esoteric teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāriṇīmayam",
+     "gloss": "consisting-of-tāriṇī",
+     "grounds": "tāriṇī + maya; pervaded by or composed of Tāriṇī",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What esoteric teaching has been revealed to the goddess?",
+   "premises": [
+    "A teaching has been communicated to the goddess.",
+    "The teaching is described as a secret.",
+    "The secret is characterized as consisting of Tāriṇī."
+   ],
+   "inference": "The secret teaching revealed is that which consists of Tāriṇī.",
+   "uncertainties": [],
+   "plain_english": "Thus, O goddess, the secret consisting of Tāriṇī has been told to you."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "must not be transmitted",
+     "morph": "n.nom.sg gerundive (dā)"
+    },
+    {
+     "surface": "paśave",
+     "gloss": "to-beast-like-person",
+     "grounds": "paśu; uninitiated or bound person in tantric classification",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from secrecy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śapatho",
+     "gloss": "oath",
+     "grounds": "solemn vow or binding declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-me",
+     "grounds": "speaker's oath",
+     "morph": "1.sg.gen.pronoun"
+    },
+    {
+     "surface": "tvayi",
+     "gloss": "upon-you",
+     "grounds": "directed to the listener",
+     "morph": "2.sg.loc.pronoun"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation marker",
+     "morph": "(punct)"
+    }
+   ],
+   "question": "To whom must the secret teaching not be transmitted?",
+   "premises": [
+    "The teaching is a secret.",
+    "Transmission to a paśu is prohibited.",
+    "The speaker binds the listener with an oath."
+   ],
+   "inference": "Because it is secret, it must not be given to a paśu, and this is bound by the speaker's oath.",
+   "uncertainties": [],
+   "plain_english": "It must not be given to a paśu; therefore, O beloved, this is my oath upon you."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "tasyaivādyantamāhātmyaṃ",
+     "gloss": "of-that-indeed-beginning-end-greatness",
+     "grounds": "tasya + eva + ādi + anta + māhātmya; the full greatness from beginning to end of that",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "desire to listen to the teaching",
+     "morph": "infinitive (śru)"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-wish",
+     "grounds": "expression of desire by the speaker",
+     "morph": "1.sg.present.active (iṣ)"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "at this time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the speaker now wish to hear about that teaching?",
+   "premises": [
+    "A teaching has been mentioned previously.",
+    "The speaker expresses a desire to hear more.",
+    "The desired content concerns its greatness from beginning to end."
+   ],
+   "inference": "The speaker now wishes to hear the complete greatness of that teaching from beginning to end.",
+   "uncertainties": [],
+   "plain_english": "I now wish to hear the greatness of that, from beginning to end."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "parameṣṭiguruścaiva",
+     "gloss": "supreme-guru-and-also",
+     "grounds": "parameṣṭhi + guruḥ + ca + eva; the supreme guru as well",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "catvāro",
+     "gloss": "four",
+     "grounds": "number of gurus",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "gurus",
+     "grounds": "spiritual teachers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "traditionally recognized",
+     "morph": "m.nom.pl past-participle (smṛ)"
+    }
+   ],
+   "question": "How many gurus, including the supreme guru, are traditionally recognized?",
+   "premises": [
+    "The supreme guru is included in the count.",
+    "A total number of gurus is stated.",
+    "This classification is traditionally remembered."
+   ],
+   "inference": "Including the supreme guru, four gurus are traditionally recognized.",
+   "uncertainties": [],
+   "plain_english": "The supreme guru and four gurus in all are remembered."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "parāparaguruścāhaṃ",
+     "gloss": "higher-lower-guru-and-i",
+     "grounds": "para + apara + guruḥ + ca + aham; I am the guru of the higher and lower",
+     "morph": "compound m.nom.sg + 1.sg.pronoun"
+    },
+    {
+     "surface": "tvameva",
+     "gloss": "you-indeed",
+     "grounds": "tvam + eva; emphatic identification of the listener",
+     "morph": "2.sg.nom.pronoun + (indecl.)"
+    },
+    {
+     "surface": "parameṣṭikā",
+     "gloss": "supreme",
+     "grounds": "the supreme one (feminine), highest in the hierarchy",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identities are assigned to the speaker and the listener in the guru hierarchy?",
+   "premises": [
+    "The speaker identifies as the guru of the higher and lower.",
+    "The listener is emphatically identified as the supreme one."
+   ],
+   "inference": "The speaker is the guru of the higher and lower, and the listener is indeed the supreme.",
+   "uncertainties": [],
+   "plain_english": "I am the guru of the higher and lower, and you indeed are the supreme."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "gurorvinā",
+     "gloss": "without-guru",
+     "grounds": "guroḥ + vinā; in the absence of a guru",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "mahāmokṣaṃ",
+     "gloss": "great-liberation",
+     "grounds": "mahā + mokṣa; supreme liberation",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāśī",
+     "gloss": "kāśī",
+     "grounds": "sacred city of Kāśī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅgayā",
+     "gloss": "by-gaṅgā",
+     "grounds": "the river Gaṅgā as means of liberation",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "?",
+     "gloss": "?",
+     "grounds": "punctuation marker indicating rhetorical question",
+     "morph": "(punct)"
+    }
+   ],
+   "question": "Can great liberation be attained without a guru through Kāśī or the Gaṅgā?",
+   "premises": [
+    "Great liberation is the goal in question.",
+    "The absence of a guru is considered.",
+    "Kāśī and the Gaṅgā are proposed as alternative means."
+   ],
+   "inference": "Without a guru, neither Kāśī nor the Gaṅgā can grant great liberation.",
+   "uncertainties": [
+    "The verse is elliptical and framed as a rhetorical question."
+   ],
+   "plain_english": "Without a guru, can there be great liberation through Kāśī or through the Gaṅgā?"
+  }
+ ]
+}

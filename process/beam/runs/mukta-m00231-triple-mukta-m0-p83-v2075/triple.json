@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "vaiśyānām",
+     "gloss": "of-vaiśyas",
+     "grounds": "genitive plural masculine of vaiśya",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ardhacandrābhaṃ",
+     "gloss": "half-moon-like",
+     "grounds": "compound adjective describing a half-moon resemblance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "of-śūdras",
+     "grounds": "genitive plural masculine of śūdra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tryasram",
+     "gloss": "triangle",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "passive past participle from root īr",
+     "morph": "n.nom.sg.pass.past.part"
+    }
+   ],
+   "question": "What geometric yantra shape is prescribed for vaiśyas and śūdras?",
+   "premises": [
+    "vaiśyas receive half-moon shape",
+    "śūdras receive triangle shape",
+    "shapes are declared"
+   ],
+   "inference": "The verse assigns distinct yantra geometries to vaiśyas and śūdras.",
+   "uncertainties": [
+    "exact ritual context of yantra assignment not specified"
+   ],
+   "plain_english": "For vaiśyas, a half-moon-like shape; for śūdras, a triangle is declared."
+  }
+ ]
+}

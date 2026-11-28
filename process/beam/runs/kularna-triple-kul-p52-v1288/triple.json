@@ -1,0 +1,551 @@
+{
+ "song": "kul-p52",
+ "items": [
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kācit",
+     "gloss": "any",
+     "grounds": "indefinite pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅganā",
+     "gloss": "woman",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative of loka",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛ",
+     "gloss": "mother",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulasambhavā",
+     "gloss": "kula-born",
+     "grounds": "compound kula+sambhavā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who in the world is called mother?",
+   "premises": [
+    "Any woman in the world is she.",
+    "She is mother and kula-born."
+   ],
+   "inference": "Every woman is to be regarded as mother born of kula.",
+   "uncertainties": [],
+   "plain_english": "Any woman in the world is she, mother born of kula."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "doṣān",
+     "gloss": "faults",
+     "grounds": "accusative plural of doṣa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "should-count",
+     "grounds": "optative of gaṇ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "strīṇām",
+     "gloss": "of-women",
+     "grounds": "genitive plural of strī",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "guṇān",
+     "gloss": "virtues",
+     "grounds": "accusative plural of guṇa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "should-manifest",
+     "grounds": "optative of prakāś",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should faults and virtues of women be treated?",
+   "premises": [
+    "Faults of women should not be counted.",
+    "Virtues of women should only be manifested."
+   ],
+   "inference": "One should ignore women's faults and reveal their virtues.",
+   "uncertainties": [],
+   "plain_english": "Do not count women's faults; manifest only their virtues."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "tatpatreṣu",
+     "gloss": "on-its-leaves",
+     "grounds": "locative plural compound",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktavyam",
+     "gloss": "should-eat",
+     "grounds": "gerundive of bhuj",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of arc",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done with its leaves?",
+   "premises": [
+    "On its leaves one should not eat.",
+    "One should worship especially."
+   ],
+   "inference": "Its leaves are not for eating but for worship.",
+   "uncertainties": [],
+   "plain_english": "On its leaves one should not eat, but worship especially."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive of dṛś",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of bhakti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "namaskuryāt",
+     "gloss": "should-salute",
+     "grounds": "optative of namaskṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "chedayet",
+     "gloss": "should-cut",
+     "grounds": "optative of chid",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one act after seeing it?",
+   "premises": [
+    "Having seen, one should salute with devotion.",
+    "One should never cut."
+   ],
+   "inference": "After seeing, salute devoutly and never cut.",
+   "uncertainties": [],
+   "plain_english": "Having seen, salute with devotion; never cut."
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "bilva",
+     "gloss": "bilva",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭa",
+     "gloss": "banyan",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uḍumbara",
+     "gloss": "udumbara",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tintiḍī",
+     "gloss": "tamarind",
+     "grounds": "tree name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth",
+     "grounds": "ordinal adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle of smṛ",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which trees are remembered as ninth?",
+   "premises": [
+    "Bilva, banyan, udumbara, and tamarind are named.",
+    "They are remembered as ninth."
+   ],
+   "inference": "These trees are remembered among the ninth.",
+   "uncertainties": [],
+   "plain_english": "Bilva, banyan, udumbara, and tamarind are remembered as ninth."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "tīrthayātrābhigamanam",
+     "gloss": "pilgrimage-going",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulaḥ",
+     "gloss": "kaula",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative of vivarj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should the kaula avoid regarding pilgrimage?",
+   "premises": [
+    "Pilgrimage-going is named.",
+    "The kaula should avoid five."
+   ],
+   "inference": "The kaula should avoid five pilgrimage-goings.",
+   "uncertainties": [],
+   "plain_english": "The kaula should avoid five pilgrimage-goings."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "mahāpātakam",
+     "gloss": "great-sin",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle of vac",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulikānām",
+     "gloss": "of-kaulas",
+     "grounds": "genitive plural of kaulika",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kulānvaye",
+     "gloss": "in-kula-lineage",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is said for kaulas in kula lineage?",
+   "premises": [
+    "Great sin is thus said.",
+    "It is said for kaulas in kula lineage."
+   ],
+   "inference": "Great sin is declared for kaulas in the kula lineage.",
+   "uncertainties": [],
+   "plain_english": "Thus great sin is said for kaulas in the kula lineage."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "jyotiṣe",
+     "gloss": "in-astrology",
+     "grounds": "locative of jyotiṣa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "grahaṇam",
+     "gloss": "eclipse",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāram",
+     "gloss": "essence",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaule",
+     "gloss": "in-kaula",
+     "grounds": "locative of kaula",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anugrahanigrahau",
+     "gloss": "grace-and-restraint",
+     "grounds": "dvandva compound dual",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What is essence in astrology and kaula?",
+   "premises": [
+    "In astrology eclipse is essence.",
+    "In kaula grace and restraint are essence."
+   ],
+   "inference": "Eclipse is the astrological essence; grace and restraint are the kaula essence.",
+   "uncertainties": [],
+   "plain_english": "In astrology eclipse is essence; in kaula, grace and restraint."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "vidyācauraḥ",
+     "gloss": "knowledge-thief",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurudrohī",
+     "gloss": "guru-betrayer",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmarākṣasatām",
+     "gloss": "brahmarakshasa-state",
+     "grounds": "abstract noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative of vraj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes of knowledge thief and guru betrayer?",
+   "premises": [
+    "Knowledge thief and guru betrayer are named.",
+    "They should go to brahmarakshasa state."
+   ],
+   "inference": "A knowledge thief and guru betrayer should become a brahmarakshasa.",
+   "uncertainties": [],
+   "plain_english": "A knowledge thief and guru betrayer should go to brahmarakshasa state."
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "vikalpya",
+     "gloss": "having-distorted",
+     "grounds": "absolutive of vikalp",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaśāstrāṇi",
+     "gloss": "kula-scriptures",
+     "grounds": "accusative plural compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present of bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "brahmarākṣasāḥ",
+     "gloss": "brahmarakshasas",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What happens to those who distort kula scriptures?",
+   "premises": [
+    "Having distorted kula scriptures, they become.",
+    "They become brahmarakshasas."
+   ],
+   "inference": "Those who distort kula scriptures become brahmarakshasas.",
+   "uncertainties": [],
+   "plain_english": "Having distorted kula scriptures, they become brahmarakshasas."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "śvānam",
+     "gloss": "dog",
+     "grounds": "accusative of śvan",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yoniśatam",
+     "gloss": "hundred-wombs",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive of gam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍālatvam",
+     "gloss": "chandala-state",
+     "grounds": "abstract noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "should-obtain",
+     "grounds": "optative of avāp",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What follows from going through hundred dog wombs?",
+   "premises": [
+    "Having gone through hundred dog wombs, one should obtain.",
+    "One should obtain chandala state."
+   ],
+   "inference": "After a hundred dog wombs, one obtains chandala state.",
+   "uncertainties": [],
+   "plain_english": "Having gone through a hundred dog wombs, one should obtain chandala state."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "kulanindākaram",
+     "gloss": "kula-slanderer",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "should-kill",
+     "grounds": "optative of han",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avicārayan",
+     "gloss": "without-deliberation",
+     "grounds": "absolutive/participle of vicār",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be done to a kula slanderer?",
+   "premises": [
+    "O goddess, a kula slanderer is named.",
+    "One should kill indeed without deliberation."
+   ],
+   "inference": "A kula slanderer should be killed without deliberation.",
+   "uncertainties": [],
+   "plain_english": "O goddess, a kula slanderer should indeed be killed without deliberation."
+  }
+ ]
+}

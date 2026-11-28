@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "bhaktebhyo",
+     "gloss": "to-devotees",
+     "grounds": "recipients of the salutation's benefit",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "varade",
+     "gloss": "boon-giving",
+     "grounds": "epithet addressing the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "direct address to the deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahiṣāghni",
+     "gloss": "Mahiṣa-slayer",
+     "grounds": "compound epithet: mahiṣa+aghni",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "optative expression of offering",
+     "morph": "3.sg.imperative (√as)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the salutation",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What salutation is directed to the boon-giving, Mahiṣa-slaying goddess on behalf of devotees?",
+   "premises": [
+    "The goddess is addressed as boon-giving.",
+    "The goddess is addressed as the slayer of Mahiṣa.",
+    "Salutation is offered to her for the sake of devotees."
+   ],
+   "inference": "Devotees offer reverent salutation to the boon-granting, Mahiṣa-slaying goddess.",
+   "uncertainties": [],
+   "plain_english": "O boon-giving goddess, slayer of Mahiṣa, may this salutation be to you for the sake of the devotees."
+  }
+ ]
+}

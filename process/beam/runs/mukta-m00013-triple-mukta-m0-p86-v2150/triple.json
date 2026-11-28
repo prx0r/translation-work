@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "māna",
+     "gloss": "measurement",
+     "grounds": "the act or standard of measuring",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃgulena",
+     "gloss": "by-finger",
+     "grounds": "aṅgula as the unit of measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "karttavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "gerundive.n.nom.sg (kṛ)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyena",
+     "gloss": "by-other",
+     "grounds": "any alternative unit",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle reinforcing exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What unit of measurement is exclusively required for constructing the ritual fire-pit?",
+   "premises": [
+    "The measurement must be made using the finger unit.",
+    "No other unit of measurement may be used.",
+    "This restriction applies at all times without exception."
+   ],
+   "inference": "The ritual fire-pit must always be measured exclusively in finger units.",
+   "uncertainties": [
+    "The specific length standard of the aṅgula unit is not defined in this verse."
+   ],
+   "plain_english": "The measurement should be made by the finger, and never by any other unit at any time."
+  }
+ ]
+}

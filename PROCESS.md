@@ -1,0 +1,115 @@
+> **STATUS 2026-11-11:** steps/commands live in MUKTABODHA-RUNBOOK.md. This file supplies detail/reasoning only; runbook wins on procedure.
+
+# PROCESS — the translation pipeline (canonical, 2026-11-11)
+
+*Owner directive: reach FULL gold in passes. Never block pass 1 on pass 3.*
+*DONE = machine-translated. Free beam only. Beam never writes data/.*
+
+## Pass model
+
+| Pass | Scope | Gate to advance |
+|---|---|---|
+| **1 MINIMAL (default)** | onboard → T1 → 12v triples → assemble → validate | `validate_song` PASS, `next` = "minimal gold complete; L3/L4 waived" |
+| **2 REVIEW + CORE** | read output; web-search → knowledge core (IPVV-style) or lore brief | core file in `lore/` + STATUS updated |
+| **3 FULL GOLD** | C1 depth, L3, L4, C2 renders | full layer set + human spot-check |
+
+## Pass 1 mechanics (exact steps, all runnable by an agent)
+
+1. **Source intake** (once per work): `source/edition.txt` (verses joined by
+   `\n\n`), `source/segments.json` (`{song, verse, verse_id, start, end}`
+   byte offsets, songs = 25-verse passages), `source/manifest.json`
+   (`format: source-intake/1`, sha256 of both). Validate with
+   `tools/intake.py::validate_segments`. This auto-registers the work in
+   `workcfg.source_spans` — required by build_l0/tal_stage.
+2. **Lore brief** (required before seeding): `process/beam/lore/<work>.md`
+   (WHAT IT IS / MOVES / TRAPS / APPROACH + ledger). Unbriefed seeds
+   degenerate. Optional pass-2 upgrade: full knowledge core.
+3. **T1** — labeled verses only, max 25/call: pre-split verses with fixed
+   numbers, ask for `[gloss](surface +split)` per pada. Then
+   `tools/spanda_t1_parse.py --work <w> --song <s>` → `working-t1-<song>.json`
+   + **coverage gate** difflib ≥ 0.85 per verse; below gate = redo with
+   labeled input (never ship).
+4. **Seed** `tal_triple` tasks, **24 verses per group** (25v groups bounce
+   review: "premise too short"). Append to `process/beam/queue.json`.
+5. **Drain** — workers (`tools/beam_swarm.py worker wN`, max 3) on
+   `beam-free`/`iceman`, dual-account rotation; 429 → other account →
+   park model 30 min only if both.
+6. **Assemble** — `build_l0.py --work <w> --cm <cm-dict>` (CM rows →
+   working-l0) then `tal_stage.py` assemble → `data/*.json` + validate_song
+   + proof_record. Fix `working-l0-<song>.json` gaps by converting
+   `runs/<song>-cm-vNN/cm.json` rows to the `{verse:[[lemma,morph,grounds]]}`
+   shape.
+7. **Close** — `STATUS.json`: `next` = "minimal gold complete; L3/L4 waived;
+   human review pending", counts from validate. `work_state.py` then
+   resolves it as machine-complete (the ONLY status source).
+
+## Hard rules
+
+- **Single status source**: `tools/work_state.py` (dir + STATUS.json).
+  Never copy status into derived JSON (that caused redoing finished work).
+- **Coverage gate** on every T1 batch; labeled verses only; never renumber.
+- **12-verse seeds**; halve any failing group; triple-split merger is fixed
+  (unique child ids + merged parent).
+- **Realm**: Hindu/Śaiva/Śākta/Trika/Krama/Kaula/Siddhānta; Buddhist
+  (Mantranaya) excluded from burn, kept in catalogue.
+- **Traditions**: authority = Muktabodha browse pages
+  (`muktabodha-traditions-verbatim.md` / `_authority_traditions.json`),
+  never keyword guesses where authority speaks.
+- No pushes by agents; owner merges PR #18.
+
+## Evidence / discovery layer
+
+- `deepfind*.jsonl` — OpenLibrary/archive/Wisdomlib hits (T counts).
+- `curated_hits.jsonl` — Magee/Dyczkowski/Wallis/Pradīpaka indexes.
+- `seed_evidence.json` — bibliographySeed verified pairs (URLs).
+- `ranked_burn.json` — burn order (T asc, verses asc, prose tail).
+- Manual research: `burn_research.csv` + `RESEARCH-BRIEF.md` (print/Hindi/
+  thesis layers) — merge on `catalog`.
+
+## Root rules learned the hard way (see BUGS.md for each)
+
+1. Status lives ONLY in `work_state.py`; aliases (work_aliases.json) beat
+   title matching; derived JSON references status, never copies it.
+2. Every seeding path passes `queue_guard` (id uniqueness + range overlap).
+3. Emit data objects as the UNION of consumer key contracts
+   (`sanskrit/surface/iast/gloss/quick_gloss`); merge `+` splits to source
+   words.
+4. Citations come from the source text, never from token streams.
+5. Digests mirror the validator's own computation — read it first
+   (sanskrit_sha is SONG-scoped).
+6. One id format (unpadded) from earliest producer.
+7. FK children move before parents; one owner per site slug.
+
+## Dating / scholarly metadata (plan, 2026-11-11)
+
+Tiered, cheapest-first — do NOT web-guess dates:
+1. **Edition metadata (done):** Muktabodha headers carry edition
+   publication year + publisher → `EDITION_YEAR` / `EDITION_PUBLISHER`
+   assertions. This dates the EDITION, never the text.
+2. **PANDiT (next, adapter exists):** `patalacheckpoints/ingestion/adapters/
+   pandit.py` + 200 `PTCND_pandit_*` works in the DB. PANDiT holds author/
+   text floruits — but its local gold carries TITLE only, so dates need a
+   live fetch (API) or a fresh dump. This is THE scholarly dating source.
+3. **Sanderson, "The Śaiva Literature" (authority):** chronologically
+   ordered map — curate period for the ~40 core Trika/Siddhānta works from
+   it (open-access PDF linked in the curated registry).
+4. **External researcher lane:** add `date_text / century / confidence`
+   columns to the batch6 brief format for the long tail.
+Rule: record source + confidence with every date; edition year ≠ text date.
+
+## Chunking like Tantraloka — finding (2026-11-11)
+
+Tantraloka chunks cleanly because its source chains carry explicit
+`## tal-aNN (x.y-z.w)` ahnika headings. **The three tantra e-texts do NOT
+carry usable chapter markers**: kularnava has only 6 `ullāsa` mentions and
+incidental `paṭala` words; netra has zero adhikāra headers in the body;
+svacchanda's `paṭalaḥ` colophons are offset-corrupt.
+
+Consequence: `tools/rechunk_chapters.py` (report mode) is the probe; a
+regex rechunk is a DEAD END for these works. Proper chapter chunking needs
+a **curated chapter→verse-range table per work** (from the editions:
+Kularnava 17 ullāsas per Avalon's contents; Netra 22 adhikāras per the
+OCHS summary; Svacchanda paṭalas per GRETIL's colophons). Build the table,
+verify sum == verse count, then apply — never trust regex for boundaries.
+Until then the 25-verse grid is honest (it never crosses a verified
+boundary it can't see) and every passage keeps its true verse range.

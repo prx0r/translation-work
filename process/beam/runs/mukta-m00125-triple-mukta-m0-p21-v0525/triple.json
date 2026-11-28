@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "mukha",
+     "gloss": "mouth",
+     "grounds": "first member of compound describing the offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsana",
+     "gloss": "fragrance",
+     "grounds": "second member of compound describing the offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "head of compound; object of offering",
+     "morph": "n.acc.sg (compound-head)"
+    },
+    {
+     "surface": "vṛṣabhāya",
+     "gloss": "to-bull",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescribes the ritual act of offering",
+     "morph": "3.sg.opt.act (√nived)"
+    }
+   ],
+   "question": "What offering must be presented to the bull in this ritual context?",
+   "premises": [
+    "Mouth-fragrance and betel together constitute the offering.",
+    "The bull is designated as the recipient.",
+    "The prescribed ritual action is to offer."
+   ],
+   "inference": "Therefore one should offer mouth-fragrance and betel to the bull.",
+   "uncertainties": [
+    "Whether mukha-vāsana refers specifically to mouth-perfume or more generally to facial fragrance is context-dependent."
+   ],
+   "plain_english": "One should offer mouth-fragrance and betel to the bull."
+  }
+ ]
+}

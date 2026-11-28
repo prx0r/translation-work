@@ -1,0 +1,611 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3076,
+   "rows": [
+    {
+     "surface": "cetyathaiteṣāṃ",
+     "gloss": "and-thus-of-these",
+     "grounds": "fused sandhi form; legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūlayordvārakumbhagāḥ",
+     "gloss": "of-roots-door-jar-dwelling",
+     "grounds": "compound form; legacy hint",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which roots and door-jar dwellers are being named in this ritual sequence?",
+   "premises": [
+    "The verse names roots and door-jar dwellers.",
+    "It continues the ritual sequence.",
+    "The token is a fused compound."
+   ],
+   "inference": "The verse identifies roots and door-jar dwellers as part of the ritual setup.",
+   "uncertainties": [
+    "Exact sandhi split not expanded."
+   ],
+   "plain_english": "And thus of these, the roots and door-jar dwellers."
+  },
+  {
+   "verse": 3077,
+   "rows": [
+    {
+     "surface": "caiva",
+     "gloss": "and",
+     "grounds": "fused form; legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaṅkhinī",
+     "gloss": "conch-bearing",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padminī",
+     "gloss": "lotus-bearing",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca tāḥ",
+     "gloss": "and-those",
+     "grounds": "fused token with space; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which conch-bearing and lotus-bearing entities are included among those?",
+   "premises": [
+    "The verse names conch-bearing and lotus-bearing entities.",
+    "It refers to those entities.",
+    "The token is fused."
+   ],
+   "inference": "The verse includes conch-bearing and lotus-bearing entities among those named.",
+   "uncertainties": [
+    "Exact referent of tāḥ not specified."
+   ],
+   "plain_english": "And also conch-bearing and lotus-bearing, those."
+  },
+  {
+   "verse": 3078,
+   "rows": [
+    {
+     "surface": "gṛdhrapaiśācavṛṣabhair",
+     "gloss": "vulture-piśāca-bull",
+     "grounds": "compound form; legacy hint",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mūṣikena",
+     "gloss": "mouse",
+     "grounds": "legacy hint",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca cihnitāḥ",
+     "gloss": "and-marked",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "By which vulture, piśāca, bull, and mouse marks are entities identified?",
+   "premises": [
+    "The verse lists vulture, piśāca, bull, and mouse.",
+    "It says they are marked.",
+    "The token is fused."
+   ],
+   "inference": "The verse identifies entities by vulture, piśāca, bull, and mouse marks.",
+   "uncertainties": [
+    "Exact grammatical relation of cihnitāḥ not fully resolved."
+   ],
+   "plain_english": "Marked by vulture, piśāca, bull, and mouse."
+  },
+  {
+   "verse": 3079,
+   "rows": [
+    {
+     "surface": "puṇyāhavikirakṣepāt",
+     "gloss": "purification-sprinkling-throwing",
+     "grounds": "compound form; legacy hint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kumbhāstrāvabhipūjayet",
+     "gloss": "jar-stream-worship",
+     "grounds": "compound form; legacy hint",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How is the jar stream worshipped after purification sprinkling and throwing?",
+   "premises": [
+    "The verse mentions purification sprinkling and throwing.",
+    "It mentions jar stream worship.",
+    "The token is compound."
+   ],
+   "inference": "The verse prescribes worship of the jar stream after purification sprinkling and throwing.",
+   "uncertainties": [
+    "Exact ritual sequence beyond token hints."
+   ],
+   "plain_english": "From purification sprinkling and throwing, worship the jar stream."
+  },
+  {
+   "verse": 3080,
+   "rows": [
+    {
+     "surface": "siṃhagaṃ",
+     "gloss": "lion-going",
+     "grounds": "compound form; legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvasraṃ",
+     "gloss": "then-arrow",
+     "grounds": "fused token; legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "strīrūpabhīṣaṇam",
+     "gloss": "woman-form-terrifying",
+     "grounds": "compound form; legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What black terrifying woman-form arrow goes like a lion?",
+   "premises": [
+    "The verse describes a lion-going form.",
+    "It describes a black terrifying woman-form arrow.",
+    "The tokens are compound."
+   ],
+   "inference": "The verse describes a black terrifying woman-form arrow going like a lion.",
+   "uncertainties": [
+    "Exact ritual referent not specified."
+   ],
+   "plain_english": "A lion-going, then black, terrifying woman-form arrow."
+  },
+  {
+   "verse": 3081,
+   "rows": [
+    {
+     "surface": "tatparibhramaṇādūrdhvaṃ",
+     "gloss": "after-circumambulation-upward",
+     "grounds": "compound form; legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navakuṇḍeṣu pūrvavat",
+     "gloss": "nine-kettles-as-before",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is done in nine kettles after circumambulation upward?",
+   "premises": [
+    "The verse mentions after circumambulation upward.",
+    "It mentions nine kettles as before.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs action in nine kettles after circumambulation upward, as before.",
+   "uncertainties": [
+    "Exact action not specified beyond as-before."
+   ],
+   "plain_english": "After circumambulation upward, in nine kettles as before."
+  },
+  {
+   "verse": 3082,
+   "rows": [
+    {
+     "surface": "brahmāṇyādyāstu",
+     "gloss": "brahmā-and-others-from-east",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvādikuṇḍeṣviṣṭvā juhoti ca",
+     "gloss": "in-eastern-kettles-worship-and-offer",
+     "grounds": "fused token with spaces; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which eastern-kettle worship and offering is performed for Brahmā and others?",
+   "premises": [
+    "The verse names Brahmā and others from the east.",
+    "It mentions worship and offering in eastern kettles.",
+    "The token is fused."
+   ],
+   "inference": "The verse prescribes worship and offering in eastern kettles for Brahmā and others.",
+   "uncertainties": [
+    "Exact list of others not specified."
+   ],
+   "plain_english": "Brahmā and others from the east, worship and offer in eastern kettles."
+  },
+  {
+   "verse": 3083,
+   "rows": [
+    {
+     "surface": "sarṣapāñchāisiddhārthān",
+     "gloss": "mustard-five-accomplished-seeds",
+     "grounds": "compound form; legacy hint",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saktūṃśca juhuyāt kramāt",
+     "gloss": "roasted-grain-and-offer-in-order",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which mustard seeds and roasted grain are offered in order?",
+   "premises": [
+    "The verse names mustard and five accomplished seeds.",
+    "It names roasted grain offered in order.",
+    "The token is fused."
+   ],
+   "inference": "The verse prescribes offering mustard seeds and roasted grain in order.",
+   "uncertainties": [
+    "Exact count and order details not specified."
+   ],
+   "plain_english": "Mustard and five accomplished seeds, and roasted grain, offer in order."
+  },
+  {
+   "verse": 3084,
+   "rows": [
+    {
+     "surface": "audumbaryastathā bailvāḥ karañjendratarūdbhavāḥ",
+     "gloss": "audumbara-and-bilva-karañja-indra-tree-born",
+     "grounds": "compound form; legacy hint",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which audumbara, bilva, karañja, and indra-tree born items are named?",
+   "premises": [
+    "The verse names audumbara, bilva, karañja, and indra-tree born items.",
+    "It is a single compound token.",
+    "The legacy hint gives the gloss."
+   ],
+   "inference": "The verse names audumbara, bilva, karañja, and indra-tree born items.",
+   "uncertainties": [
+    "Exact ritual use not specified in this token."
+   ],
+   "plain_english": "Audumbara and bilva, karañja and indra-tree born."
+  },
+  {
+   "verse": 3085,
+   "rows": [
+    {
+     "surface": "yāsāṃ grāhyāstatra palāśajāḥ",
+     "gloss": "of-which-grasp-those-palāśa-born",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which palāśa-born items are to be grasped among those?",
+   "premises": [
+    "The verse says of which grasp those.",
+    "It specifies palāśa-born items.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs grasping palāśa-born items among those named.",
+   "uncertainties": [
+    "Exact antecedent of yāsāṃ not specified."
+   ],
+   "plain_english": "Of which, grasp those born of palāśa."
+  },
+  {
+   "verse": 3086,
+   "rows": [
+    {
+     "surface": "kuryādākāraśuddhiṃ ca netronmīlanakarma ca",
+     "gloss": "make-form-purification-and-eye-opening-rite",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What form purification and eye-opening rite is to be made?",
+   "premises": [
+    "The verse says make form purification.",
+    "It says make eye-opening rite.",
+    "The token is fused."
+   ],
+   "inference": "The verse prescribes making form purification and the eye-opening rite.",
+   "uncertainties": [
+    "Exact object of the rite not specified."
+   ],
+   "plain_english": "Make form purification and eye-opening rite."
+  },
+  {
+   "verse": 3087,
+   "rows": [
+    {
+     "surface": "pūrvavad vediṃ śālibhistaṇḍulairapi",
+     "gloss": "as-before-altar-with-rice-grains",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the altar prepared with rice grains as before?",
+   "premises": [
+    "The verse says as before.",
+    "It mentions altar with rice grains.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs preparing the altar with rice grains as before.",
+   "uncertainties": [
+    "Exact quantity not specified."
+   ],
+   "plain_english": "As before, the altar with rice grains."
+  },
+  {
+   "verse": 3088,
+   "rows": [
+    {
+     "surface": "śayyā syāt pañcāṅgī vedimadhyataḥ",
+     "gloss": "bed-five-limbed-in-altar-middle",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What five-limbed bed is placed in the altar middle?",
+   "premises": [
+    "The verse says bed five-limbed.",
+    "It says in altar middle.",
+    "The token is fused."
+   ],
+   "inference": "The verse prescribes a five-limbed bed in the middle of the altar.",
+   "uncertainties": [
+    "Exact limbs not specified."
+   ],
+   "plain_english": "A five-limbed bed in the altar middle."
+  },
+  {
+   "verse": 3089,
+   "rows": [
+    {
+     "surface": "pratyekaṃ kumbhamekaikaṃ berā[redvinya]dīn nyasya tūttare",
+     "gloss": "each-one-jar-one-by-one-image-etc-place-north",
+     "grounds": "fused token with bracket; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are jars and images placed one by one toward the north?",
+   "premises": [
+    "The verse says each one jar one by one.",
+    "It says image etc place north.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs placing jars and images one by one toward the north.",
+   "uncertainties": [
+    "Bracketed editorial text not expanded."
+   ],
+   "plain_english": "Each one jar, one by one, image etc, place north."
+  },
+  {
+   "verse": 3090,
+   "rows": [
+    {
+     "surface": "madhyādikramāt kumbheṣu vinyaset",
+     "gloss": "middle-etc-order-in-jars-place",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In what middle-etc order are items placed in jars?",
+   "premises": [
+    "The verse says middle etc order.",
+    "It says in jars place.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs placing items in jars in middle-etc order.",
+   "uncertainties": [
+    "Exact sequence beyond middle etc not specified."
+   ],
+   "plain_english": "In middle etc order, place in jars."
+  },
+  {
+   "verse": 3091,
+   "rows": [
+    {
+     "surface": "pighānakūrcavastrādyaiḥ prāgvadābhūṣya pūjayet",
+     "gloss": "with-pig-tail-cloth-etc-as-before-adorn-worship",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are items adorned and worshipped with pig tail cloth etc as before?",
+   "premises": [
+    "The verse mentions pig tail cloth etc.",
+    "It says as before adorn worship.",
+    "The token is fused."
+   ],
+   "inference": "The verse prescribes adorning and worshipping with pig tail cloth etc as before.",
+   "uncertainties": [
+    "Exact items not specified."
+   ],
+   "plain_english": "With pig tail, cloth etc, as before adorn and worship."
+  },
+  {
+   "verse": 3092,
+   "rows": [
+    {
+     "surface": "bahirdikṣu parivāraghaṭāṣṭakam",
+     "gloss": "outside-directions-surrounding-jar-octad",
+     "grounds": "compound form; legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What surrounding jar octad is placed in outside directions?",
+   "premises": [
+    "The verse says outside directions.",
+    "It says surrounding jar octad.",
+    "The token is compound."
+   ],
+   "inference": "The verse names a surrounding jar octad in outside directions.",
+   "uncertainties": [
+    "Exact directions not enumerated."
+   ],
+   "plain_english": "In outside directions, a surrounding jar octad."
+  },
+  {
+   "verse": 3093,
+   "rows": [
+    {
+     "surface": "ca yāmyā ca nair-ṛtī vāruṇī tathā",
+     "gloss": "and-south-and-southwest-west",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which south, southwest, and west directions are named?",
+   "premises": [
+    "The verse names south.",
+    "It names southwest and west.",
+    "The token is fused."
+   ],
+   "inference": "The verse names south, southwest, and west directions.",
+   "uncertainties": [
+    "Exact list of directions incomplete."
+   ],
+   "plain_english": "And south, and southwest, west thus."
+  },
+  {
+   "verse": 3094,
+   "rows": [
+    {
+     "surface": "caturbhujāstriṇetrāstāḥ śūlapāśordhvapāṇayaḥ",
+     "gloss": "four-armed-three-eyed-those-trident-noose-raised-hands",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What four-armed three-eyed forms have trident noose raised hands?",
+   "premises": [
+    "The verse says four-armed three-eyed those.",
+    "It says trident noose raised hands.",
+    "The token is fused."
+   ],
+   "inference": "The verse describes four-armed three-eyed forms with trident, noose, and raised hands.",
+   "uncertainties": [
+    "Exact deities not specified."
+   ],
+   "plain_english": "Four-armed, three-eyed, those with trident, noose, raised hands."
+  },
+  {
+   "verse": 3095,
+   "rows": [
+    {
+     "surface": "ṭha] pratiṣṭhārthaṃ pūtamanyaṃ ghaṭaṃ nyaset",
+     "gloss": "for-consecration-purified-other-jar-place",
+     "grounds": "fused token with bracket; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where is another purified jar placed for consecration?",
+   "premises": [
+    "The verse says for consecration.",
+    "It says purified other jar place.",
+    "The token is fused."
+   ],
+   "inference": "The verse directs placing another purified jar for consecration.",
+   "uncertainties": [
+    "Bracketed editorial text not expanded."
+   ],
+   "plain_english": "For consecration, place another purified jar."
+  },
+  {
+   "verse": 3096,
+   "rows": [
+    {
+     "surface": "khaḍgaṃ dakṣiṇahastena vāmena svakaṭispṛśam",
+     "gloss": "sword-right-hand-left-own-hip-touch",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the sword held in right hand and left hip touch?",
+   "premises": [
+    "The verse says sword right hand.",
+    "It says left own hip touch.",
+    "The token is fused."
+   ],
+   "inference": "The verse describes a sword in the right hand touching the left hip.",
+   "uncertainties": [
+    "Exact posture not specified."
+   ],
+   "plain_english": "Sword in right hand, left touching own hip."
+  },
+  {
+   "verse": 3097,
+   "rows": [
+    {
+     "surface": "ātmāditattvatattveśān mūrtimūrtīśvarānapi",
+     "gloss": "from-self-principle-principle-lord-form-form-lord",
+     "grounds": "compound form; legacy hint",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which self-principle lords and form-form lords are named?",
+   "premises": [
+    "The verse names self-principle principle lord.",
+    "It names form form lord also.",
+    "The token is compound."
+   ],
+   "inference": "The verse names self-principle lords and form-form lords.",
+   "uncertainties": [
+    "Exact list not specified."
+   ],
+   "plain_english": "From self principle, principle lord, form form lord also."
+  },
+  {
+   "verse": 3098,
+   "rows": [
+    {
+     "surface": "tattvatattveśapṛthvyādyāḥ śarvādyāśca yathāpuram",
+     "gloss": "principle-principle-lord-earth-etc-śarva-etc-as-before",
+     "grounds": "fused token; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which principle lords, earth etc, and śarva etc are as before?",
+   "premises": [
+    "The verse names principle principle lord.",
+    "It names earth etc and śarva etc as before.",
+    "The token is fused."
+   ],
+   "inference": "The verse names principle lords, earth etc, and śarva etc as before.",
+   "uncertainties": [
+    "Exact enumeration not specified."
+   ],
+   "plain_english": "Principle principle lord, earth etc, śarva etc as before."
+  },
+  {
+   "verse": 3099,
+   "rows": [
+    {
+     "surface": "tanmantrairgururmūrtidharāstathā",
+     "gloss": "by-those-mantras-teacher-form-bearing-thus",
+     "grounds": "compound form; legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does the teacher bear forms by those mantras thus?",
+   "premises": [
+    "The verse says by those mantras.",
+    "It says teacher form-bearing thus.",
+    "The token is compound."
+   ],
+   "inference": "The verse says the teacher bears forms by those mantras thus.",
+   "uncertainties": [
+    "Exact forms not specified."
+   ],
+   "plain_english": "By those mantras, the teacher form-bearing thus."
+  }
+ ]
+}

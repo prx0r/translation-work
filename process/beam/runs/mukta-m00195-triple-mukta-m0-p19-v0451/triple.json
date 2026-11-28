@@ -1,0 +1,1141 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "caturasrasya",
+     "gloss": "of-four-cornered",
+     "grounds": "qualifies the fire-pit as square",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-fire-pit",
+     "grounds": "object whose rule is stated",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescriptive procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces the prescription",
+     "morph": "3.sg.pass-pres.ind + √vac"
+    }
+   ],
+   "question": "What rule governs the construction of a square fire-pit?",
+   "premises": [
+    "A square fire-pit is the subject",
+    "A specific rule applies to it",
+    "That rule is now being stated"
+   ],
+   "inference": "The text proceeds to prescribe the rule for a square fire-pit.",
+   "uncertainties": [],
+   "plain_english": "The rule for the square fire-pit is now stated."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "dvimekhalaṃ",
+     "gloss": "two-rimmed",
+     "grounds": "describes a fire-pit with two rims",
+     "morph": "n.nom.sg (compound: dvi+mekhala)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "of-śūdras",
+     "grounds": "group for whom the two-rimmed form applies",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃkarāṇāṃ",
+     "gloss": "of-mixed-castes",
+     "grounds": "group for whom the single-rimmed form applies",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kumekhalam",
+     "gloss": "single-rimmed",
+     "grounds": "describes a fire-pit with one rim",
+     "morph": "n.nom.sg (compound: ku+mekhala)"
+    }
+   ],
+   "question": "How many rims should the fire-pit have for śūdras and mixed castes?",
+   "premises": [
+    "A two-rimmed fire-pit is prescribed for śūdras",
+    "A single-rimmed fire-pit is prescribed for mixed castes",
+    "Rim count varies by social group"
+   ],
+   "inference": "The fire-pit should have two rims for śūdras and one rim for mixed castes.",
+   "uncertainties": [
+    "The exact syntactic distribution between the two groups is compressed and inferred from context."
+   ],
+   "plain_english": "For śūdras the fire-pit should have two rims, and for mixed castes it should have one rim."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "correlative indicating extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "object whose size is considered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "chosen or intended size",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative condition",
+     "morph": "3.sg.act-opt.pres + √as"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "correlative matching extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diksadhane",
+     "gloss": "in-direction-fixing",
+     "grounds": "ritual act of establishing directions",
+     "morph": "n.loc.sg (compound: dik+sadhana)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "being-done",
+     "grounds": "when the directional fixing is performed",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the extent of direction-fixing relate to the desired size of the fire-pit?",
+   "premises": [
+    "The fire-pit may be desired at a certain size",
+    "Direction-fixing is performed for the fire-pit",
+    "The two extents are correlated"
+   ],
+   "inference": "The extent of direction-fixing should match the desired size of the fire-pit.",
+   "uncertainties": [],
+   "plain_english": "Whatever size is desired for the fire-pit here, the fixing of directions should be done to that same extent."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇaḥ",
+     "gloss": "diagonal",
+     "grounds": "diagonal line of the square",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhujā",
+     "gloss": "side",
+     "grounds": "side of the square",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the measured element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karadvayī",
+     "gloss": "two-hands",
+     "grounds": "measure of two hand-lengths",
+     "morph": "f.nom.sg (compound: kara+dvayī)"
+    }
+   ],
+   "question": "What measurement of two hands applies to the diagonal or side of the fire-pit?",
+   "premises": [
+    "A diagonal and a side are being measured",
+    "A measure of two hands is specified",
+    "The measure relates to that element"
+   ],
+   "inference": "The relevant diagonal or side is measured as two hands.",
+   "uncertainties": [
+    "The verse is elliptical; the precise geometric assignment of the two-hand measure is not fully explicit."
+   ],
+   "plain_english": "Whichever is the diagonal or the side, its measure is two hands."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "caturhastādike",
+     "gloss": "beginning-with-four-hands",
+     "grounds": "sizes starting from four hands",
+     "morph": "n.loc.sg (compound: catur+hasta+ādika)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍaḥ",
+     "gloss": "fire-pit",
+     "grounds": "subject of the prescription",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūsamaḥ",
+     "gloss": "ground-level",
+     "grounds": "level with the ground",
+     "morph": "m.nom.sg (compound: bhū+sama)"
+    }
+   ],
+   "question": "At what level should fire-pits of four hands and larger be constructed?",
+   "premises": [
+    "Fire-pits may be four hands or larger",
+    "The same rule applies in all cases",
+    "The fire-pit should be level with the ground"
+   ],
+   "inference": "In all cases, including those beginning with four hands, the fire-pit should be level with the ground.",
+   "uncertainties": [],
+   "plain_english": "Thus, even for fire-pits of four hands and so on, the fire-pit should everywhere be level with the ground."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "dvādaśāṅgula",
+     "gloss": "twelve-fingers",
+     "grounds": "measure of twelve finger-widths",
+     "morph": "f.nom.sg (compound: dvādaśa+aṅgula)"
+    },
+    {
+     "surface": "vistārā",
+     "gloss": "wide",
+     "grounds": "breadth measurement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsedhā",
+     "gloss": "height",
+     "grounds": "vertical measurement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturaṅgulā",
+     "gloss": "four-fingers",
+     "grounds": "measure of four finger-widths",
+     "morph": "f.nom.sg (compound: catur+aṅgula)"
+    }
+   ],
+   "question": "What breadth and height measurements are prescribed for the rim in finger-widths?",
+   "premises": [
+    "A breadth measurement is specified",
+    "A height measurement is specified",
+    "The measures are twelve and four finger-widths respectively"
+   ],
+   "inference": "The rim should be twelve finger-widths wide and four finger-widths high.",
+   "uncertainties": [
+    "The subject is implied from context as a rim or ledge of the fire-pit."
+   ],
+   "plain_english": "It should be twelve finger-widths wide and four finger-widths high."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "quantity of four",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "aṅgulaiḥ",
+     "gloss": "by-fingers",
+     "grounds": "finger-width units",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "dīrghā",
+     "gloss": "long",
+     "grounds": "length measurement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "equal extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccā",
+     "gloss": "high",
+     "grounds": "height measurement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "by-half-of-that",
+     "grounds": "half of the stated measure",
+     "morph": "(indecl.) (compound: tad+ardha+tas)"
+    }
+   ],
+   "question": "What length and height proportions are specified using four finger-widths and half that measure?",
+   "premises": [
+    "A length of four finger-widths is given",
+    "A corresponding height is indicated",
+    "The height is half of that measure"
+   ],
+   "inference": "It should be four finger-widths long and two finger-widths high.",
+   "uncertainties": [
+    "The exact referent of the measurements is context-dependent."
+   ],
+   "plain_english": "It should be four finger-widths long and half that in height."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "ekāṅgula",
+     "gloss": "one-finger",
+     "grounds": "measure of one finger-width",
+     "morph": "f.nom.sg (compound: eka+aṅgula)"
+    },
+    {
+     "surface": "ucchritā",
+     "gloss": "raised",
+     "grounds": "elevated above",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praviṣṭā",
+     "gloss": "entered",
+     "grounds": "set inward",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhyantare",
+     "gloss": "inside",
+     "grounds": "toward the interior",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How far should the rim be raised and set inward relative to the interior?",
+   "premises": [
+    "The rim is raised by one finger-width",
+    "The rim is set inward",
+    "This inward placement is toward the interior"
+   ],
+   "inference": "The rim should be raised one finger-width and likewise set inward on the inside.",
+   "uncertainties": [],
+   "plain_english": "That part should be raised one finger-width and likewise set inward on the inside."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "aṅguṣṭha",
+     "gloss": "thumb",
+     "grounds": "thumb-width measure",
+     "morph": "m.nom.sg (compound member: aṅguṣṭha+mekhalā+yukta)"
+    },
+    {
+     "surface": "mekhalāyuktā",
+     "gloss": "with-rim",
+     "grounds": "provided with a rim",
+     "morph": "f.nom.sg (compound: mekhalā+yukta)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "outer position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "support",
+     "grounds": "supporting structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "suitable",
+     "grounds": "appropriate or fit",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where should a thumb-width rim and suitable support be placed on the fire-pit?",
+   "premises": [
+    "A thumb-width rim is specified",
+    "Middle and outer positions are mentioned",
+    "A suitable support is required"
+   ],
+   "inference": "A thumb-width rim should be placed in the middle and a suitable support on the outside.",
+   "uncertainties": [
+    "The syntactic linkage between middle, outside, and support is somewhat compressed."
+   ],
+   "plain_english": "It should have a thumb-width rim in the middle and a suitable support on the outside."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt.pres + √bhū"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "base or platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "subject of measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭāṃśa",
+     "gloss": "eight-part",
+     "grounds": "one-eighth proportion",
+     "morph": "n.nom.sg (compound: aṣṭa+aṃśa)"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "extended",
+     "grounds": "spread or widened",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional width should the pedestal of the fire-pit have?",
+   "premises": [
+    "A pedestal is prescribed for the fire-pit",
+    "The pedestal has a specified extension",
+    "The extension is one-eighth"
+   ],
+   "inference": "The pedestal of the fire-pit should extend by one-eighth.",
+   "uncertainties": [
+    "The base of comparison for the one-eighth measure is not explicitly stated."
+   ],
+   "plain_english": "The pedestal of the fire-pit should extend by one-eighth."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the pedestal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circular",
+     "grounds": "round in shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "compound member indicating relation to fire-pit",
+     "morph": "n.nom.sg (compound member: kuṇḍa+ṣaṣṭhaṃśa)"
+    },
+    {
+     "surface": "ṣaṣṭhaṃśa",
+     "gloss": "sixth-part",
+     "grounds": "one-sixth proportion",
+     "morph": "n.nom.sg (compound: ṣaṣṭha+aṃśa)"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "measured",
+     "grounds": "by measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shape and proportional measure should the fire-pit pedestal have by measurement?",
+   "premises": [
+    "The pedestal is described as circular",
+    "A proportional measure is given",
+    "The measure is one-sixth"
+   ],
+   "inference": "That pedestal should be circular and measure one-sixth.",
+   "uncertainties": [
+    "The exact reference dimension for the one-sixth measure is implied rather than explicit."
+   ],
+   "plain_english": "That pedestal should be circular, measuring one-sixth of the fire-pit."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "pūrvamukhā",
+     "gloss": "east-facing",
+     "grounds": "oriented toward the east",
+     "morph": "f.nom.sg (compound: pūrva+mukha)"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "channel",
+     "grounds": "outlet or channel of the fire-pit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "compound member indicating relation to fire-pit",
+     "morph": "n.nom.sg (compound member: kuṇḍa+yoni)"
+    },
+    {
+     "surface": "yoniñca",
+     "gloss": "and-channel",
+     "grounds": "channel of the fire-pit; sandhi with following ca",
+     "morph": "f.acc.sg (sandhi: yoniṃ+ca)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prohibitive instruction",
+     "morph": "3.sg.act-opt.pres + √vṛj"
+    }
+   ],
+   "question": "What orientation of the channel is prescribed and what channel must be avoided?",
+   "premises": [
+    "The channel should face east",
+    "A fire-pit channel is mentioned as to be avoided",
+    "The instruction distinguishes proper and improper channels"
+   ],
+   "inference": "The channel should face east, and one should avoid the fire-pit channel as specified.",
+   "uncertainties": [
+    "The phrase 'kuṇḍa yoniñca varjayet' is ambiguous; it may prohibit a wrongly placed channel."
+   ],
+   "plain_english": "The channel should face east, and one should avoid the fire-pit channel."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "vyāsa",
+     "gloss": "by-diameter",
+     "grounds": "compound member indicating diameter-based measure",
+     "morph": "m.nom.sg (compound member: vyāsa+arka+bhāga)"
+    },
+    {
+     "surface": "arkabhāga",
+     "gloss": "twelve-part",
+     "grounds": "one-twelfth division; arka signifies twelve",
+     "morph": "m.nom.sg (compound: arka+bhāga)"
+    },
+    {
+     "surface": "tulyena",
+     "gloss": "equal-to",
+     "grounds": "equal in measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the measured element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "further or beyond that point",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What twelfth-part measure of the diameter determines the extent beyond that point?",
+   "premises": [
+    "The diameter is divided into twelve parts",
+    "A measure equal to one such part is taken",
+    "That measure defines what lies beyond"
+   ],
+   "inference": "Beyond that point, the measure is equal to one-twelfth of the diameter.",
+   "uncertainties": [
+    "The referent of 'tat param' is not fully explicit without the following verse."
+   ],
+   "plain_english": "Beyond that, it should be equal to one-twelfth of the diameter."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "karṇikāgre",
+     "gloss": "at-pericarp-tip",
+     "grounds": "at the tip of the central pericarp",
+     "morph": "n.loc.sg (compound: karṇikā+agra)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "outer region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛtta",
+     "gloss": "circle",
+     "grounds": "circular form",
+     "morph": "n.nom.sg (compound member: vṛtta+abhyantare)"
+    },
+    {
+     "surface": "abhyantare",
+     "gloss": "inside",
+     "grounds": "inner region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭadalāni",
+     "gloss": "eight-petals",
+     "grounds": "eight petal divisions",
+     "morph": "n.nom.pl (compound: aṣṭa+dala)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the circle and eight petals be placed relative to the pericarp tip?",
+   "premises": [
+    "The pericarp tip is a reference point",
+    "Outer and inner regions are distinguished",
+    "Eight petals are to be placed"
+   ],
+   "inference": "Outside at the pericarp tip and inside the circle, eight petals should be placed.",
+   "uncertainties": [
+    "The spatial construction is terse and may depend on diagrammatic convention."
+   ],
+   "plain_english": "At the tip of the pericarp, outside and inside the circle, there should be eight petals."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "caturasrasya",
+     "gloss": "of-square",
+     "grounds": "refers to the square figure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "jināṃśaḥ",
+     "gloss": "twenty-fourth-part",
+     "grounds": "one twenty-fourth division; jina signifies twenty-four",
+     "morph": "m.nom.sg (compound: jina+aṃśa)"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "portion",
+     "grounds": "a measured part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces the prescribed portion",
+     "morph": "3.sg.pass-pres.ind + √vac"
+    }
+   ],
+   "question": "What fractional portion of the square is prescribed as one twenty-fourth?",
+   "premises": [
+    "A square is the reference figure",
+    "A fractional portion is defined",
+    "That portion is one twenty-fourth"
+   ],
+   "inference": "One twenty-fourth part of the square is stated as the portion.",
+   "uncertainties": [],
+   "plain_english": "A twenty-fourth part of the square is stated."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "prakuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act-opt.pres + pra√kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "into four parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasrakam",
+     "gloss": "square",
+     "grounds": "the square figure to be divided",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Into how many parts should the square be divided in this construction step?",
+   "premises": [
+    "The square is the object of action",
+    "A division is prescribed",
+    "The division is fourfold"
+   ],
+   "inference": "One should divide the square into four parts.",
+   "uncertainties": [],
+   "plain_english": "And one should divide the square into four parts."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "pātayet",
+     "gloss": "one-should-cast",
+     "grounds": "lay down or draw",
+     "morph": "3.sg.act-opt.caus.pres + √pat"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "cord or line used for marking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-both",
+     "grounds": "across two points or parts",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "it-should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-opt.pres + √bhū"
+    }
+   ],
+   "question": "What construction action with a thread across two points should be performed next?",
+   "premises": [
+    "A thread is to be laid down",
+    "It is laid across two points",
+    "This produces the required result"
+   ],
+   "inference": "One should then cast a thread across both points.",
+   "uncertainties": [
+    "The specific two points are implied by the preceding division."
+   ],
+   "plain_english": "Then one should lay a thread across both, and it will be so."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "into ten parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "prescriptive instruction to divide",
+     "morph": "3.sg.act-opt.pres + vi√bhaj"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Into how many parts should the wise practitioner divide the construction?",
+   "premises": [
+    "A division is prescribed",
+    "The division is tenfold",
+    "The wise practitioner performs it"
+   ],
+   "inference": "The wise one should divide it into ten parts.",
+   "uncertainties": [
+    "The object of division is implied from the preceding verses."
+   ],
+   "plain_english": "The wise one should divide it into ten parts."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "subject of the result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ramaṇīyam",
+     "gloss": "delightful",
+     "grounds": "pleasing or beautiful",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the constructed fire-pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-opt.pres + √bhū"
+    }
+   ],
+   "question": "What aesthetic quality should the resulting fire-pit possess after proper construction?",
+   "premises": [
+    "The construction steps have been followed",
+    "The fire-pit is the result",
+    "It should be delightful in appearance"
+   ],
+   "inference": "When properly constructed, this fire-pit should be delightful.",
+   "uncertainties": [],
+   "plain_english": "This fire-pit should be delightful."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "saumyapṛṣṭhaṃ",
+     "gloss": "north-backed",
+     "grounds": "having its back toward the north",
+     "morph": "n.nom.sg (compound: saumya+pṛṣṭha)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "thereafter or from that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "channel",
+     "grounds": "outlet of the fire-pit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścimadigmatā",
+     "gloss": "west-direction-going",
+     "grounds": "directed toward the west",
+     "morph": "f.nom.sg (compound: paścima+dik+gata)"
+    }
+   ],
+   "question": "How should the channel be oriented when the fire-pit is north-backed or in other cases?",
+   "premises": [
+    "A north-backed configuration is mentioned",
+    "Other cases are distinguished",
+    "The channel may be directed westward"
+   ],
+   "inference": "With a north-backed arrangement, or elsewhere, the channel should go toward the west.",
+   "uncertainties": [
+    "The contrast between 'saumyapṛṣṭhaṃ' and 'anyatra' is compressed and open to interpretation."
+   ],
+   "plain_english": "Then, with its back to the north, or elsewhere, the channel should be directed toward the west."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "across all tantric texts",
+     "morph": "n.loc.pl (compound: sarva+tantra)"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "taught or stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirantaram",
+     "gloss": "continuously",
+     "grounds": "without exception or consistently",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What authority supports the continuous teaching of this rule across all tantras?",
+   "premises": [
+    "The rule is declared in all tantras",
+    "The declaration is consistent",
+    "This context affirms that teaching"
+   ],
+   "inference": "This is consistently declared in all tantras.",
+   "uncertainties": [],
+   "plain_english": "This is consistently declared in all the tantras."
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "numeral three",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trihaste",
+     "gloss": "in-three-hands",
+     "grounds": "for a three-hand measure",
+     "morph": "n.loc.sg (compound: tri+hasta)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arka",
+     "gloss": "twelve",
+     "grounds": "numeral twelve; arka as symbolic number",
+     "morph": "m.nom.sg (compound member: arka+bhūmi)"
+    },
+    {
+     "surface": "bhūmayaḥ",
+     "gloss": "earths",
+     "grounds": "levels or measures; symbolic numeral term",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What numerical measures are assigned for the three-hand fire-pit configuration?",
+   "premises": [
+    "A three-hand measure is the context",
+    "The numbers three, five, and twelve are given",
+    "These numbers specify divisions or measures"
+   ],
+   "inference": "For the three-hand case, the measures are three, five, and twelve.",
+   "uncertainties": [
+    "The terms 'arka' and 'bhūmayaḥ' function as symbolic numerals; their exact mapping is traditional."
+   ],
+   "plain_english": "In the three-hand measure, there are three, five, and twelve."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "tryabda",
+     "gloss": "three-years",
+     "grounds": "symbolic numeral three",
+     "morph": "m.nom.pl (compound member: tri+abda)"
+    },
+    {
+     "surface": "rāmāḥ",
+     "gloss": "and-rāmas",
+     "grounds": "symbolic numeral three; rāma as traditional number word",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nage",
+     "gloss": "in-mountain",
+     "grounds": "symbolic numeral seven; naga as traditional number word",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trikṛti",
+     "gloss": "three-kṛtis",
+     "grounds": "symbolic numeral; kṛti often denotes twenty in number systems",
+     "morph": "f.nom.pl (compound: tri+kṛti)"
+    },
+    {
+     "surface": "sāgarāḥ",
+     "gloss": "and-oceans",
+     "grounds": "symbolic numeral four; sāgara as traditional number word",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What symbolic numerical values are specified for the next fire-pit measurement series?",
+   "premises": [
+    "A series of symbolic number words is given",
+    "These words encode numerical measures",
+    "The measures apply to the fire-pit construction"
+   ],
+   "inference": "The verse encodes a sequence of numerical measures using traditional symbolic number terms.",
+   "uncertainties": [
+    "The exact numeric values of 'tryabda', 'rāmāḥ', 'nage', 'trikṛti', and 'sāgarāḥ' depend on traditional bhūtasaṅkhyā conventions."
+   ],
+   "plain_english": "Three, three, and in seven, there are three twenties and four."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "veda",
+     "gloss": "four",
+     "grounds": "symbolic numeral four; veda as traditional number word",
+     "morph": "m.nom.sg (compound member: veda+agni)"
+    },
+    {
+     "surface": "agni",
+     "gloss": "three",
+     "grounds": "symbolic numeral three; agni as traditional number word",
+     "morph": "m.nom.sg (compound member: agni+dhṛti)"
+    },
+    {
+     "surface": "dhṛti",
+     "gloss": "eighteen",
+     "grounds": "symbolic numeral eighteen; dhṛti as traditional number word",
+     "morph": "f.nom.sg (compound member: dhṛti+yugma)"
+    },
+    {
+     "surface": "yugmāni",
+     "gloss": "pairs",
+     "grounds": "pairs or sets of two",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "daśahasta",
+     "gloss": "ten-hand",
+     "grounds": "measure of ten hands",
+     "morph": "m.nom.pl (compound: daśa+hasta)"
+    },
+    {
+     "surface": "bhujāḥ",
+     "gloss": "sides",
+     "grounds": "sides or arms of the figure",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "traditionally taught",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What paired numerical measures are traditionally remembered for the ten-hand sides?",
+   "premises": [
+    "Symbolic numbers four, three, and eighteen are given",
+    "These form pairs",
+    "They apply to ten-hand sides and are traditionally remembered"
+   ],
+   "inference": "For the ten-hand sides, the pairs four, three, and eighteen are traditionally remembered.",
+   "uncertainties": [
+    "The interpretation of 'yugmāni' and the sequence of symbolic numerals follows traditional bhūtasaṅkhyā usage."
+   ],
+   "plain_english": "For the ten-hand sides, the pairs four, three, and eighteen are traditionally remembered."
+  }
+ ]
+}

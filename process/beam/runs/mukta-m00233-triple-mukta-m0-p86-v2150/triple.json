@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "vishnu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vicakrama",
+     "gloss": "strode",
+     "grounds": "verb past",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "plural noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣṭhā",
+     "gloss": "abode",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mayobhuvaḥ",
+     "gloss": "bliss-makers",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What is the doctrinal significance of Vishnu's stride and waters as bliss-abode?",
+   "premises": [
+    "Vishnu strode in this manner.",
+    "Waters are bliss-abodes.",
+    "The verse links stride to waters."
+   ],
+   "inference": "Vishnu's cosmic stride establishes waters as blissful abode.",
+   "uncertainties": [
+    "Exact sandhi and compound analysis uncertain."
+   ],
+   "plain_english": "This is Vishnu's stride; waters are indeed the abode of bliss."
+  }
+ ]
+}

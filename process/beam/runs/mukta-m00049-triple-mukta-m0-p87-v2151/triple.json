@@ -1,0 +1,1023 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2151,
+   "rows": [
+    {
+     "surface": "vyāhṛti+trayam",
+     "gloss": "three-utterances",
+     "grounds": "compound of vyāhṛti and traya; the three sacred utterances",
+     "morph": "compound: vyāhṛti+trayam (n.acc.sg)"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive participle indicating prior action",
+     "morph": "gerund (√uc-car)"
+    },
+    {
+     "surface": "sāvitrīṃ",
+     "gloss": "sāvitrī",
+     "grounds": "name of the mantra addressed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrāvayet",
+     "gloss": "should-make-hear",
+     "grounds": "causative optative expressing instruction",
+     "morph": "3.sg.opt.act-caus (√śru)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "agent performing the ritual instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual action must the teacher perform with the three utterances and Sāvitrī?",
+   "premises": [
+    "The three utterances are pronounced first",
+    "The Sāvitrī mantra follows the utterances",
+    "The teacher causes the disciple to hear it"
+   ],
+   "inference": "The teacher must utter the three vyāhṛtis and then make the disciple hear the Sāvitrī.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the three vyāhṛtis, the teacher should make the disciple hear the Sāvitrī."
+  },
+  {
+   "verse": 2152,
+   "rows": [
+    {
+     "surface": "adhiṣṭhātrī",
+     "gloss": "presiding-deity",
+     "grounds": "feminine agent noun indicating presiding power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvitrī",
+     "gloss": "sāvitrī",
+     "grounds": "name of the mantra identified as presiding",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣa+arthe",
+     "gloss": "for-liberation",
+     "grounds": "compound indicating purpose; mokṣa as goal",
+     "morph": "compound: mokṣa+arthe (m.loc.sg)"
+    },
+    {
+     "surface": "viniyogitā",
+     "gloss": "employed",
+     "grounds": "past participle used as predicate indicating application",
+     "morph": "f.nom.sg (past participle, √ni-yuj)"
+    }
+   ],
+   "question": "For what purpose is Sāvitrī employed as the presiding deity?",
+   "premises": [
+    "Sāvitrī is identified as the presiding deity",
+    "The context specifies a particular goal",
+    "That goal is liberation"
+   ],
+   "inference": "Sāvitrī, as the presiding deity, is employed for the purpose of liberation.",
+   "uncertainties": [],
+   "plain_english": "Sāvitrī is indeed the presiding deity, employed for the sake of liberation."
+  },
+  {
+   "verse": 2153,
+   "rows": [
+    {
+     "surface": "bhargaḥ",
+     "gloss": "bhargaḥ",
+     "grounds": "mantra word retained as sacred term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pada+ante",
+     "gloss": "at-word-end",
+     "grounds": "compound indicating position at the end of a word or phrase",
+     "morph": "compound: pada+ante (m.loc.sg)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "refers to the deity in the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhīmahi+iti",
+     "gloss": "dhīmahi-thus",
+     "grounds": "mantra word followed by quotative particle",
+     "morph": "compound: dhīmahi+iti (1.pl.opt.ātmanepada √dhyai + indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "refers to the mantra unit to be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative expressing ritual instruction",
+     "morph": "3.sg.opt.act (√vad)"
+    }
+   ],
+   "question": "Which mantra words must be spoken at the specified position in the recitation?",
+   "premises": [
+    "The word bhargaḥ is placed at the end of a pada",
+    "The phrase relates to devasya",
+    "The word dhīmahi is to be spoken"
+   ],
+   "inference": "One should say the word bhargaḥ at the end of the pada of devasya and then say dhīmahi.",
+   "uncertainties": [],
+   "plain_english": "At the end of the word of 'devasya', one should say 'bhargaḥ', and then say the word 'dhīmahi'."
+  },
+  {
+   "verse": 2154,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition or sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "the sacred syllable Om",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive participle indicating prior action",
+     "morph": "gerund (√uc-car)"
+    },
+    {
+     "surface": "sāvitrī+arthaṃ",
+     "gloss": "sāvitrī-meaning",
+     "grounds": "compound indicating the meaning of the Sāvitrī mantra",
+     "morph": "compound: sāvitrī+arthaṃ (m.acc.sg)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "agent performing the instruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-tell",
+     "grounds": "optative expressing instruction to explain",
+     "morph": "3.sg.opt.act (√vad)"
+    }
+   ],
+   "question": "What must the teacher explain after uttering the praṇava again?",
+   "premises": [
+    "The praṇava is uttered again",
+    "The teacher is the speaker",
+    "The subject to be told is the meaning of Sāvitrī"
+   ],
+   "inference": "After uttering the praṇava again, the teacher should explain the meaning of the Sāvitrī.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the praṇava again, the teacher should explain the meaning of the Sāvitrī."
+  },
+  {
+   "verse": 2155,
+   "rows": [
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "name of the mantra to be heard",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrāvayet",
+     "gloss": "should-make-hear",
+     "grounds": "causative optative expressing instruction",
+     "morph": "3.sg.opt.act-caus (√śru)"
+    }
+   ],
+   "question": "Which mantra must be made audible to the disciple at this stage?",
+   "premises": [
+    "The action is causing someone to hear",
+    "The object of hearing is the Gāyatrī",
+    "The instruction is prescriptive"
+   ],
+   "inference": "The teacher should make the disciple hear the Gāyatrī.",
+   "uncertainties": [
+    "The agent guruḥ is implied from context but not explicitly stated in this verse."
+   ],
+   "plain_english": "He should make the disciple hear the Gāyatrī."
+  },
+  {
+   "verse": 2156,
+   "rows": [
+    {
+     "surface": "ṛṣi+nyāsaṃ",
+     "gloss": "seer-installation",
+     "grounds": "compound referring to ritual placement associated with the seer",
+     "morph": "compound: ṛṣi+nyāsaṃ (m.acc.sg)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive participle indicating prior ritual action",
+     "morph": "gerund (√vi-dhā)"
+    },
+    {
+     "surface": "sāvitryā",
+     "gloss": "of-sāvitrī",
+     "grounds": "indicates the mantra with which recitation is performed",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "ritual repetition of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidheyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.sg (gerundive, √vi-dhā)"
+    }
+   ],
+   "question": "What ritual sequence must precede the recitation of the Sāvitrī mantra?",
+   "premises": [
+    "The ṛṣi-nyāsa must be performed first",
+    "Recitation is done with the Sāvitrī",
+    "The recitation is prescribed as obligatory"
+   ],
+   "inference": "After performing the ṛṣi-nyāsa, one must perform the recitation of the Sāvitrī.",
+   "uncertainties": [],
+   "plain_english": "Having performed the ṛṣi-nyāsa, the recitation of the Sāvitrī should be done."
+  },
+  {
+   "verse": 2157,
+   "rows": [
+    {
+     "surface": "pātā",
+     "gloss": "protector",
+     "grounds": "agent noun describing divine function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hartā",
+     "gloss": "destroyer",
+     "grounds": "agent noun describing divine function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsraṣṭā",
+     "gloss": "creator",
+     "grounds": "agent noun describing divine function of emanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "the divine being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakṛteḥ",
+     "gloss": "beyond-nature",
+     "grounds": "ablative indicating transcendence of primordial nature",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "beyond",
+     "grounds": "adjective indicating transcendence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine functions and transcendence characterize the deity described here?",
+   "premises": [
+    "The deity is protector, destroyer, and creator",
+    "The deity is identified by a relative clause",
+    "The deity is beyond prakṛti"
+   ],
+   "inference": "The deity who protects, destroys, and creates is beyond primordial nature.",
+   "uncertainties": [],
+   "plain_english": "The god who is protector, destroyer, and creator is beyond primordial nature."
+  },
+  {
+   "verse": 2158,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive adverb linking to previous description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśva+mayaṃ",
+     "gloss": "universe-consisting",
+     "grounds": "compound indicating composed of the universe",
+     "morph": "compound: viśva+mayaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "the ultimate reality to be expressed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācyaṃ",
+     "gloss": "to-be-expressed",
+     "grounds": "gerundive indicating what is to be denoted",
+     "morph": "n.acc.sg (gerundive, √vac)"
+    },
+    {
+     "surface": "vyāhṛtibhiḥ",
+     "gloss": "by-utterances",
+     "grounds": "instrumental indicating means of expression",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "numeral qualifying the utterances",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "How is the universe-consisting Brahman to be expressed according to this teaching?",
+   "premises": [
+    "Brahman is described as consisting of the universe",
+    "Brahman is to be expressed",
+    "The three vyāhṛtis are the means of expression"
+   ],
+   "inference": "Therefore, the universe-consisting Brahman is to be expressed by the three vyāhṛtis.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the universe-consisting Brahman is to be expressed by the three vyāhṛtis."
+  },
+  {
+   "verse": 2159,
+   "rows": [
+    {
+     "surface": "jagat+rūpasya",
+     "gloss": "of-world-form",
+     "grounds": "compound describing the deity as having the world as form",
+     "morph": "compound: jagat+rūpasya (m.gen.sg)"
+    },
+    {
+     "surface": "savituḥ",
+     "gloss": "of-savitṛ",
+     "grounds": "name of the solar deity invoked",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃsraṣṭuḥ",
+     "gloss": "of-creator",
+     "grounds": "agent noun describing creative function",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dīvyataḥ",
+     "gloss": "of-shining",
+     "grounds": "present participle describing radiant nature",
+     "morph": "m.gen.sg (present participle, √div)"
+    },
+    {
+     "surface": "vibhoḥ",
+     "gloss": "of-lord",
+     "grounds": "epithet indicating sovereign power",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which attributes of Savitṛ, the lord, are emphasized in this description?",
+   "premises": [
+    "Savitṛ is described as having the world as his form",
+    "Savitṛ is described as creator and shining",
+    "Savitṛ is called the lord"
+   ],
+   "inference": "Savitṛ is characterized as the world-formed, creating, shining lord.",
+   "uncertainties": [],
+   "plain_english": "Of Savitṛ, whose form is the world, the creator, the shining lord."
+  },
+  {
+   "verse": 2160,
+   "rows": [
+    {
+     "surface": "dhyāyema",
+     "gloss": "may-we-meditate",
+     "grounds": "optative expressing meditative aspiration",
+     "morph": "1.pl.opt.act (√dhyai)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the divine reality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective indicating highest status",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "adjective or noun indicating ultimate reality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+vyāpi",
+     "gloss": "all-pervading",
+     "grounds": "compound indicating omnipresence",
+     "morph": "compound: sarva+vyāpi (n.acc.sg)"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "adjective indicating timelessness",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities of the supreme reality are the object of meditation here?",
+   "premises": [
+    "The object of meditation is that supreme reality",
+    "It is characterized as truth",
+    "It is all-pervading and eternal"
+   ],
+   "inference": "One should meditate on that supreme, true, all-pervading, eternal reality.",
+   "uncertainties": [],
+   "plain_english": "May we meditate on that supreme, true, all-pervading, eternal reality."
+  },
+  {
+   "verse": 2161,
+   "rows": [
+    {
+     "surface": "dharma+artha+kāma+mokṣeṣu",
+     "gloss": "in-duty-wealth-desire-liberation",
+     "grounds": "compound listing the four aims of human life",
+     "morph": "compound: dharma+artha+kāma+mokṣeṣu (m.loc.pl)"
+    },
+    {
+     "surface": "prerayet",
+     "gloss": "may-impel",
+     "grounds": "causative optative expressing divine prompting",
+     "morph": "3.sg.opt.act-caus (√pra-īr)"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "may-engage",
+     "grounds": "causative optative expressing direction or application",
+     "morph": "3.sg.opt.act-caus (√vi-ni-yuj)"
+    }
+   ],
+   "question": "In which four aims of life should the divine power impel and engage one?",
+   "premises": [
+    "The four aims dharma, artha, kāma, and mokṣa are named",
+    "The actions are impelling and engaging",
+    "The verbs express a wish or injunction"
+   ],
+   "inference": "The divine power should impel and engage one in dharma, artha, kāma, and mokṣa.",
+   "uncertainties": [
+    "The subject of the verbs is not explicit in this verse."
+   ],
+   "plain_english": "May it impel and engage us in duty, wealth, desire, and liberation."
+  },
+  {
+   "verse": 2162,
+   "rows": [
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "the recipient of instruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-engage",
+     "grounds": "causative optative expressing instruction",
+     "morph": "3.sg.opt.act-caus (√ni-yuj)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative addressing the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gṛhastha+āśrama+karmasu",
+     "gloss": "in-householder-stage-duties",
+     "grounds": "compound referring to duties of the householder stage",
+     "morph": "compound: gṛhastha+āśrama+karmasu (n.loc.pl)"
+    }
+   ],
+   "question": "In what duties should the disciple be engaged according to the address to the goddess?",
+   "premises": [
+    "The disciple is the object to be engaged",
+    "The sphere of engagement is specified",
+    "The duties belong to the householder stage"
+   ],
+   "inference": "The disciple should be engaged in the duties of the householder stage.",
+   "uncertainties": [
+    "The agent who should engage the disciple is implied rather than explicit."
+   ],
+   "plain_english": "O goddess, one should engage the disciple in the duties of the householder stage."
+  },
+  {
+   "verse": 2163,
+   "rows": [
+    {
+     "surface": "śāmbhava+udita+mārgeṇa",
+     "gloss": "by-path-taught-by-śambhu",
+     "grounds": "compound indicating the path proclaimed by Śambhu",
+     "morph": "compound: śāmbhava+udita+mārgeṇa (m.inst.sg)"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "divine beings to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "ancestral beings to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samarcaya",
+     "gloss": "worship",
+     "grounds": "imperative commanding ritual worship",
+     "morph": "2.sg.imp.act (√sam-arc)"
+    }
+   ],
+   "question": "By which path and whom must one worship according to this instruction?",
+   "premises": [
+    "The path is that taught by Śambhu",
+    "The objects of worship are gods and ancestors",
+    "The verb is a direct command to worship"
+   ],
+   "inference": "One must worship the gods and ancestors by the path taught by Śambhu.",
+   "uncertainties": [],
+   "plain_english": "Worship the gods and ancestors by the path taught by Śambhu."
+  },
+  {
+   "verse": 2164,
+   "rows": [
+    {
+     "surface": "prāptā",
+     "gloss": "obtained",
+     "grounds": "past participle indicating attainment",
+     "morph": "f.nom.sg (past participle, √pra-āp)"
+    },
+    {
+     "surface": "gṛhastha+āśramitā",
+     "gloss": "householder-state",
+     "grounds": "compound denoting the state of being a householder",
+     "morph": "compound: gṛhastha+āśramitā (f.nom.sg)"
+    },
+    {
+     "surface": "tat+uktaṃ",
+     "gloss": "that-prescribed",
+     "grounds": "compound referring to what is prescribed for that state",
+     "morph": "compound: tat+uktaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "duty",
+     "grounds": "ritual or prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpaya",
+     "gloss": "perform",
+     "grounds": "imperative commanding execution of duty",
+     "morph": "2.sg.imp.act-caus (√kḷp)"
+    }
+   ],
+   "question": "What action must be performed once the householder state has been obtained?",
+   "premises": [
+    "The householder state has been obtained",
+    "There is duty prescribed for that state",
+    "The command is to perform that duty"
+   ],
+   "inference": "Having obtained the householder state, one must perform the duties prescribed for it.",
+   "uncertainties": [],
+   "plain_english": "Having obtained the householder state, perform the duties prescribed for it."
+  },
+  {
+   "verse": 2165,
+   "rows": [
+    {
+     "surface": "sat+guruḥ",
+     "gloss": "true-teacher",
+     "grounds": "compound denoting a genuine spiritual teacher",
+     "morph": "compound: sat+guruḥ (m.nom.sg)"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "the recipient of guidance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhastha+āśrama+karmasu",
+     "gloss": "in-householder-stage-duties",
+     "grounds": "compound referring to duties of the householder stage",
+     "morph": "compound: gṛhastha+āśrama+karmasu (n.loc.pl)"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-engage",
+     "grounds": "causative optative expressing instruction",
+     "morph": "3.sg.opt.act-caus (√ni-yuj)"
+    },
+    {
+     "surface": "pravartayet",
+     "gloss": "should-set-forth",
+     "grounds": "causative optative expressing initiation into action",
+     "morph": "3.sg.opt.act-caus (√pra-vṛt)"
+    }
+   ],
+   "question": "What responsibilities does the true teacher have toward the disciple in householder duties?",
+   "premises": [
+    "The true teacher is the agent",
+    "The disciple is to be engaged in householder duties",
+    "The disciple is to be set forth in those duties"
+   ],
+   "inference": "The true teacher should engage and set the disciple forth in the duties of the householder stage.",
+   "uncertainties": [],
+   "plain_english": "The true teacher should engage the disciple in the duties of the householder stage and set him forth in them."
+  },
+  {
+   "verse": 2166,
+   "rows": [
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "divine beings to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pitṝṃḥ",
+     "gloss": "ancestors",
+     "grounds": "ancestral beings to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcaya",
+     "gloss": "worship",
+     "grounds": "imperative commanding ritual worship",
+     "morph": "2.sg.imp.act (√sam-arc)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb indicating correct performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjaya",
+     "gloss": "honor",
+     "grounds": "imperative commanding reverential worship",
+     "morph": "2.sg.imp.act-caus (√pūj)"
+    }
+   ],
+   "question": "How should the gods and ancestors be worshipped according to this command?",
+   "premises": [
+    "The gods and ancestors are the objects of worship",
+    "Two commands to worship and honor are given",
+    "The worship must be done properly"
+   ],
+   "inference": "One must properly worship and honor the gods and ancestors.",
+   "uncertainties": [],
+   "plain_english": "Worship the gods and ancestors, and honor them properly."
+  },
+  {
+   "verse": 2167,
+   "rows": [
+    {
+     "surface": "tat+uktaṃ",
+     "gloss": "that-prescribed",
+     "grounds": "compound referring to duties prescribed for that context",
+     "morph": "compound: tat+uktaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "duty",
+     "grounds": "prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpaya",
+     "gloss": "perform",
+     "grounds": "imperative commanding execution",
+     "morph": "2.sg.imp.act-caus (√kḷp)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative reinforcing the command to act",
+     "morph": "2.sg.imp.act (√kṛ)"
+    }
+   ],
+   "question": "What is the disciple commanded to do regarding the prescribed duties?",
+   "premises": [
+    "The duty is that which has been prescribed",
+    "Two imperatives command action",
+    "The object of action is the prescribed duty"
+   ],
+   "inference": "The disciple must perform and carry out the prescribed duty.",
+   "uncertainties": [],
+   "plain_english": "Perform the prescribed duty; do it."
+  },
+  {
+   "verse": 2168,
+   "rows": [
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "take",
+     "grounds": "imperative commanding acceptance of items",
+     "morph": "2.sg.imp.act (√grah)"
+    },
+    {
+     "surface": "pādukā+chatraṃ",
+     "gloss": "sandals-and-parasol",
+     "grounds": "compound listing ritual or practical items",
+     "morph": "compound: pādukā+chatraṃ (n.acc.sg)"
+    },
+    {
+     "surface": "gandha+mālya+anulepanam",
+     "gloss": "fragrance-garland-unguent",
+     "grounds": "compound listing items for worship or adornment",
+     "morph": "compound: gandha+mālya+anulepanam (n.acc.sg)"
+    }
+   ],
+   "question": "Which items is the disciple instructed to take at this point?",
+   "premises": [
+    "The command is to take",
+    "Sandals and a parasol are specified",
+    "Fragrance, garland, and unguent are specified"
+   ],
+   "inference": "The disciple should take sandals, a parasol, fragrance, a garland, and unguent.",
+   "uncertainties": [],
+   "plain_english": "Take sandals and a parasol, and fragrance, garland, and unguent."
+  },
+  {
+   "verse": 2169,
+   "rows": [
+    {
+     "surface": "yajña+sūtraṃ",
+     "gloss": "sacred-thread",
+     "grounds": "compound denoting the ritual thread",
+     "morph": "compound: yajña+sūtraṃ (n.acc.sg)"
+    },
+    {
+     "surface": "mekhalām",
+     "gloss": "girdle",
+     "grounds": "ritual belt or girdle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "ritual staff",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhikṣā+karaṇḍakam",
+     "gloss": "alms-bowl",
+     "grounds": "compound denoting a container for alms",
+     "morph": "compound: bhikṣā+karaṇḍakam (m.acc.sg)"
+    }
+   ],
+   "question": "What additional ritual items must be taken by the disciple?",
+   "premises": [
+    "The sacred thread is listed",
+    "A girdle and staff are listed",
+    "An alms bowl is listed"
+   ],
+   "inference": "The disciple should take the sacred thread, girdle, staff, and alms bowl.",
+   "uncertainties": [
+    "The imperative gṛhāṇa is implied from the previous verse."
+   ],
+   "plain_english": "Take the sacred thread, the girdle, the staff, and the alms bowl."
+  },
+  {
+   "verse": 2170,
+   "rows": [
+    {
+     "surface": "śuddha+upavīta+yugalaṃ",
+     "gloss": "pure-sacred-thread-pair",
+     "grounds": "compound denoting a pair of pure sacred threads",
+     "morph": "compound: śuddha+upavīta+yugalaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "paridhāya",
+     "gloss": "having-put-on",
+     "grounds": "absolutive participle indicating prior action of wearing",
+     "morph": "gerund (√pari-dhā)"
+    },
+    {
+     "surface": "ambare",
+     "gloss": "garments",
+     "grounds": "clothing worn by the disciple",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "adjective qualifying the garments",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "What garments and sacred threads must be worn before proceeding?",
+   "premises": [
+    "A pair of pure sacred threads is to be put on",
+    "Auspicious garments are to be worn",
+    "The action precedes further instruction"
+   ],
+   "inference": "One must put on a pair of pure sacred threads and auspicious garments.",
+   "uncertainties": [],
+   "plain_english": "Having put on a pair of pure sacred threads and auspicious garments."
+  },
+  {
+   "verse": 2171,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhastha+āśramiṇaṃ",
+     "gloss": "to-householder-disciple",
+     "grounds": "compound indicating a disciple in the householder stage",
+     "morph": "compound: gṛhastha+āśramiṇaṃ (m.acc.sg)"
+    },
+    {
+     "surface": "śiṣyam",
+     "gloss": "disciple",
+     "grounds": "recipient of the teacher's words",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the instruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative expressing instruction",
+     "morph": "3.sg.opt.act (√vad)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "agent delivering the instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To whom and by whom should the following instruction be spoken?",
+   "premises": [
+    "The instruction follows previous actions",
+    "The recipient is the householder disciple",
+    "The speaker is the teacher"
+   ],
+   "inference": "Then the teacher should say this to the disciple who is a householder.",
+   "uncertainties": [],
+   "plain_english": "Then the teacher should say this to the disciple who is in the householder stage."
+  },
+  {
+   "verse": 2172,
+   "rows": [
+    {
+     "surface": "svādhyāya+āśrama+karmāṇi",
+     "gloss": "self-study-and-stage-duties",
+     "grounds": "compound listing study and duties of the stage",
+     "morph": "compound: svādhyāya+āśrama+karmāṇi (n.acc.pl)"
+    },
+    {
+     "surface": "yathā+dharmeṇa",
+     "gloss": "according-to-dharma",
+     "grounds": "compound indicating conformity with dharma",
+     "morph": "compound: yathā+dharmeṇa (m.inst.sg)"
+    },
+    {
+     "surface": "sādhaya",
+     "gloss": "accomplish",
+     "grounds": "imperative commanding fulfillment",
+     "morph": "2.sg.imp.act-caus (√sādh)"
+    }
+   ],
+   "question": "How must the disciple accomplish self-study and the duties of his stage?",
+   "premises": [
+    "Self-study and stage duties are the objects",
+    "The manner is according to dharma",
+    "The command is to accomplish them"
+   ],
+   "inference": "The disciple must accomplish self-study and the duties of his stage according to dharma.",
+   "uncertainties": [],
+   "plain_english": "Accomplish self-study and the duties of your stage according to dharma."
+  },
+  {
+   "verse": 2173,
+   "rows": [
+    {
+     "surface": "māyā+ādi+praṇava+antena",
+     "gloss": "beginning-with-māyā-ending-with-praṇava",
+     "grounds": "compound describing a formula bounded by māyā and praṇava",
+     "morph": "compound: māyā+ādi+praṇava+antena (m.inst.sg)"
+    },
+    {
+     "surface": "bhūr+bhuvaḥ+svaḥ+trayeṇa",
+     "gloss": "with-bhūr-bhuvaḥ-svaḥ-triad",
+     "grounds": "compound referring to the three vyāhṛtis bhūr, bhuvaḥ, svaḥ",
+     "morph": "compound: bhūr+bhuvaḥ+svaḥ+trayeṇa (n.inst.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking ritual elements",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra elements are specified for use in this ritual instruction?",
+   "premises": [
+    "A formula beginning with māyā and ending with praṇava is named",
+    "The triad bhūr, bhuvaḥ, svaḥ is named",
+    "Both elements are conjoined"
+   ],
+   "inference": "The ritual involves a formula beginning with māyā and ending with praṇava together with the bhūr-bhuvaḥ-svaḥ triad.",
+   "uncertainties": [
+    "The exact ritual action performed with these elements is not stated in this verse."
+   ],
+   "plain_english": "With that which begins with māyā and ends with praṇava, and with the triad bhūr, bhuvaḥ, svaḥ."
+  },
+  {
+   "verse": 2174,
+   "rows": [
+    {
+     "surface": "gandha+mālya+anulepanam",
+     "gloss": "fragrance-garland-unguent",
+     "grounds": "compound listing items for worship or adornment",
+     "morph": "compound: gandha+mālya+anulepanam (n.acc.sg)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "take",
+     "grounds": "imperative commanding acceptance",
+     "morph": "2.sg.imp.act (√grah)"
+    }
+   ],
+   "question": "What additional items must the disciple take as part of this instruction?",
+   "premises": [
+    "Fragrance, garland, and unguent are specified",
+    "The particle indicates inclusion",
+    "The command is to take them"
+   ],
+   "inference": "The disciple must also take fragrance, garland, and unguent.",
+   "uncertainties": [],
+   "plain_english": "Also take fragrance, garland, and unguent."
+  }
+ ]
+}

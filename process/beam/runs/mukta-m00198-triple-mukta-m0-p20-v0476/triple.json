@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "toraṇāgraviśālaṃ",
+     "gloss": "arch-top-wide",
+     "grounds": "compound describing width at arch top",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuḍyastaṃbhodayārdhakam",
+     "gloss": "wall-pillar-height-half",
+     "grounds": "compound indicating half the height of wall pillar",
+     "morph": "compound"
+    }
+   ],
+   "question": "What width and height define the upper part of the wall arch?",
+   "premises": [
+    "The arch top is wide.",
+    "Its height equals half the wall pillar height."
+   ],
+   "inference": "The upper wall arch is specified as wide at the top and half the height of the wall pillar.",
+   "uncertainties": [],
+   "plain_english": "The top of the arch should be wide and its height should be half the height of the wall pillar."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "aṃghrivetrāvasānaṃ",
+     "gloss": "foot-cane-end",
+     "grounds": "compound indicating termination at foot cane",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāddaṇḍādhikaṃ",
+     "gloss": "from-that-rod-more",
+     "grounds": "compound indicating one rod more than that",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative lower limits are prescribed for the wall arch extent?",
+   "premises": [
+    "One option ends at the foot cane.",
+    "Another option extends one rod beyond that."
+   ],
+   "inference": "The wall arch may terminate at the foot cane or extend one rod further.",
+   "uncertainties": [
+    "Exact referent of aṃghri-vetra in this architectural context is unclear."
+   ],
+   "plain_english": "It may end at the foot-cane, or alternatively extend one rod beyond that."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "kuḍyatoraṇamākhyātaṃ",
+     "gloss": "wall-arch-declared",
+     "grounds": "compound with past participle indicating declaration",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvāratoraṇamucyate",
+     "gloss": "door-arch-is-called",
+     "grounds": "compound with passive verb indicating naming",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the wall arch and door arch distinguished by name?",
+   "premises": [
+    "The wall arch has been declared.",
+    "The door arch is now being named."
+   ],
+   "inference": "The text distinguishes and names the wall arch and the door arch as separate types.",
+   "uncertainties": [],
+   "plain_english": "Thus the wall arch has been described, and now the door arch is explained."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "uttaraṃ",
+     "gloss": "upper-beam",
+     "grounds": "architectural member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "cross-beam",
+     "grounds": "architectural member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abjakṣepaṇaṃ",
+     "gloss": "lotus-projection",
+     "grounds": "compound naming decorative element",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamaṃgalam",
+     "gloss": "eight-auspicious-marks",
+     "grounds": "compound naming auspicious set",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which structural and auspicious elements constitute the door arch?",
+   "premises": [
+    "The upper beam and cross beam are included.",
+    "The lotus projection and eight auspicious marks are included."
+   ],
+   "inference": "The door arch comprises the upper beam, cross beam, lotus projection, and the eight auspicious marks.",
+   "uncertainties": [
+    "Precise identification of vājana and abjakṣepaṇa is uncertain."
+   ],
+   "plain_english": "The door arch includes the upper beam, the cross beam, the lotus projection, and the eight auspicious marks."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "patrākhyaṃ",
+     "gloss": "leaf-named",
+     "grounds": "compound indicating type named after leaf",
+     "morph": "compound"
+    },
+    {
+     "surface": "makarākhyaṃ",
+     "gloss": "makara-named",
+     "grounds": "compound indicating type named after makara",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citratoraṇameva",
+     "gloss": "ornate-arch-indeed",
+     "grounds": "compound with emphatic particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative decorative types may the ornate arch take?",
+   "premises": [
+    "One type is named after the leaf.",
+    "Another type is named after the makara."
+   ],
+   "inference": "The ornate arch may be of the leaf type or the makara type.",
+   "uncertainties": [],
+   "plain_english": "The ornate arch may be of the leaf type or of the makara type."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "darpaṇaṃ",
+     "gloss": "mirror",
+     "grounds": "auspicious object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇakuṃbhaṃ",
+     "gloss": "full-pot",
+     "grounds": "compound naming auspicious object",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "bull",
+     "grounds": "auspicious symbol",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yugmacāmaram",
+     "gloss": "pair-chowries",
+     "grounds": "compound naming pair of chowries",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which auspicious symbols are listed for placement in the arch design?",
+   "premises": [
+    "The mirror and full pot are included.",
+    "The bull and a pair of chowries are included."
+   ],
+   "inference": "The mirror, full pot, bull, and pair of chowries are among the prescribed auspicious symbols.",
+   "uncertainties": [],
+   "plain_english": "The mirror, the full pot, the bull, and a pair of chowries are included."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "śrīvatsaṃ",
+     "gloss": "śrīvatsa-mark",
+     "grounds": "auspicious symbol",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "śeṣāstu",
+     "gloss": "remaining-but",
+     "grounds": "compound of remaining and particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers to middle element",
+     "morph": "m./n.gen.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-two-sides",
+     "grounds": "location on sides",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "Where should the śrīvatsa and remaining symbols be placed on the arch?",
+   "premises": [
+    "The śrīvatsa should be placed in the middle.",
+    "The remaining symbols should be placed on its two sides."
+   ],
+   "inference": "The śrīvatsa occupies the center while the other symbols are arranged on both sides.",
+   "uncertainties": [],
+   "plain_english": "One should place the śrīvatsa in the middle and the remaining symbols on its two sides."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "dvāratoraṇamevaṃ",
+     "gloss": "door-arch-thus",
+     "grounds": "compound summarizing previous description",
+     "morph": "compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "staṃbhatoraṇamucyate",
+     "gloss": "pillar-arch-is-called",
+     "grounds": "compound with passive verb introducing next type",
+     "morph": "compound"
+    }
+   ],
+   "question": "What transition marks the shift from door arch to pillar arch description?",
+   "premises": [
+    "The door arch has been described thus.",
+    "The pillar arch is now being named."
+   ],
+   "inference": "The text concludes the door arch account and introduces the pillar arch.",
+   "uncertainties": [],
+   "plain_english": "Thus the door arch is described; now the pillar arch is explained."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "pādaṃ",
+     "gloss": "base",
+     "grounds": "architectural base element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvāṃgasaṃyuktaṃ",
+     "gloss": "all-parts-endowed",
+     "grounds": "compound indicating completeness of parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "bodhikārahitaṃ",
+     "gloss": "capital-devoid",
+     "grounds": "compound indicating absence of capital",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What features must the base of the pillar arch possess or lack?",
+   "premises": [
+    "The base should be endowed with all parts.",
+    "The base should be devoid of a capital."
+   ],
+   "inference": "The pillar arch base is to be made complete in its parts but without a capital.",
+   "uncertainties": [
+    "Exact meaning of bodhikā in this context is uncertain."
+   ],
+   "plain_english": "Make the base complete with all its parts but without a capital."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "compound indicating position above",
+     "morph": "compound"
+    },
+    {
+     "surface": "jhaṣakhaṇḍaṃ",
+     "gloss": "fish-section",
+     "grounds": "compound naming decorative section",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānācitrairvicitritam",
+     "gloss": "various-designs-adorned",
+     "grounds": "compound indicating decoration with various designs",
+     "morph": "compound"
+    }
+   ],
+   "question": "What decorative element should be placed above the pillar arch base?",
+   "premises": [
+    "A fish section is placed above that.",
+    "It is adorned with various designs."
+   ],
+   "inference": "Above the base, a fish-shaped section decorated with various designs should be installed.",
+   "uncertainties": [
+    "Exact architectural form of jhaṣakhaṇḍa is uncertain."
+   ],
+   "plain_english": "Above that, place a fish section adorned with various designs."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "dyuḍānalātmasaṃyuktaṃ",
+     "gloss": "sky-gift-form-endowed",
+     "grounds": "compound describing additional features; exact sense unclear",
+     "morph": "compound"
+    },
+    {
+     "surface": "etatsyātstaṃbhatoraṇam",
+     "gloss": "this-should-be-pillar-arch",
+     "grounds": "compound with verb and subject naming the result",
+     "morph": "compound"
+    }
+   ],
+   "question": "What final characterization defines the completed pillar arch?",
+   "premises": [
+    "The structure is endowed with the specified features.",
+    "This constitutes the pillar arch."
+   ],
+   "inference": "When endowed with these features, the structure is identified as the pillar arch.",
+   "uncertainties": [
+    "The meaning of dyuḍānalātmasaṃyuktaṃ is highly uncertain."
+   ],
+   "plain_english": "Endowed with these features, this should be the pillar arch."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "śālāmadhyāntarālāyāṃ",
+     "gloss": "hall-middle-interspace-in",
+     "grounds": "compound indicating location in middle interspace of hall",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "sarvadhāmasu",
+     "gloss": "in-all-buildings",
+     "grounds": "compound indicating all structures",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Where must the pillar arch be constructed in all buildings?",
+   "premises": [
+    "It is to be made in the middle interspace of the hall.",
+    "This applies in all buildings."
+   ],
+   "inference": "The pillar arch should be constructed in the middle interspace of the hall in all buildings.",
+   "uncertainties": [],
+   "plain_english": "It should be made in the middle interspace of the hall in all buildings."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon compound naming text",
+     "morph": "compound"
+    },
+    {
+     "surface": "toraṇalakṣaṇa",
+     "gloss": "arch-characteristics",
+     "grounds": "compound naming chapter topic",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section title word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteenth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the treatment of arch characteristics in this text?",
+   "premises": [
+    "The text is the Aṃśumān Kāśyapa.",
+    "The topic is the characteristics of arches."
+   ],
+   "inference": "This marks the end of the thirteenth chapter on arch characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the thirteenth chapter, on the characteristics of arches, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "staṃbhamūle",
+     "gloss": "at-pillar-base",
+     "grounds": "compound indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedyūrdhve",
+     "gloss": "above-platform",
+     "grounds": "compound indicating position above platform",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmāsanaṃ",
+     "gloss": "lotus-seat",
+     "grounds": "compound naming architectural element",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act pra-√kḷp"
+    }
+   ],
+   "question": "Where should a lotus seat be fashioned in relation to the pillar and platform?",
+   "premises": [
+    "The location is at the pillar base.",
+    "It is above the platform."
+   ],
+   "inference": "A lotus seat should be fashioned at the base of the pillar above the platform.",
+   "uncertainties": [],
+   "plain_english": "At the base of the pillar, above the platform, one should fashion a lotus seat."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "padmoccaṃ",
+     "gloss": "lotus-height",
+     "grounds": "compound indicating height of lotus",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasudhā",
+     "gloss": "into-parts",
+     "grounds": "instrumental sense indicating division; exact form unclear",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhajya",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating division",
+     "morph": "gerund √bhaj"
+    },
+    {
+     "surface": "kampamekāṃśamucyate",
+     "gloss": "fillet-one-part-is-called",
+     "grounds": "compound with passive verb stating proportion",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the fillet proportion determined from the lotus height?",
+   "premises": [
+    "The lotus height is divided into parts.",
+    "One part is designated as the fillet."
+   ],
+   "inference": "Dividing the lotus height yields one part that is called the fillet.",
+   "uncertainties": [
+    "The exact number of divisions implied by vasudhā is unclear."
+   ],
+   "plain_english": "Divide the height of the lotus into parts; one part is called the fillet."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "ūrdhvapadmaṃ",
+     "gloss": "upper-lotus",
+     "grounds": "compound naming upper lotus element",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound indicating two parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampamekena",
+     "gloss": "fillet-with-one",
+     "grounds": "compound indicating fillet of one part",
+     "morph": "compound"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "causative injunctive instruction",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "What proportions are prescribed for the upper lotus and its fillet?",
+   "premises": [
+    "The upper lotus should be two parts.",
+    "The fillet should be made with one part."
+   ],
+   "inference": "The upper lotus is allotted two parts and the fillet one part.",
+   "uncertainties": [],
+   "plain_english": "One should make the upper lotus two parts and the fillet one part."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "tattuṃgadviguṇaṃ",
+     "gloss": "its-height-double",
+     "grounds": "compound indicating twice its height",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṃbhaṃ",
+     "gloss": "pot",
+     "grounds": "architectural element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyāsamityucyate",
+     "gloss": "width-thus-is-called",
+     "grounds": "compound with passive verb stating definition",
+     "morph": "compound"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker reference",
+     "morph": "1.sg.inst"
+    }
+   ],
+   "question": "How is the width of the pot defined relative to its height?",
+   "premises": [
+    "The pot's width is twice its height.",
+    "This is stated by the speaker."
+   ],
+   "inference": "The width of the pot is defined as double its height.",
+   "uncertainties": [],
+   "plain_english": "I declare that the width of the pot is twice its height."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "kuṃbhamaṃḍyādisaṃyuktaṃ",
+     "gloss": "pot-rim-etc-endowed",
+     "grounds": "compound indicating inclusion of pot rim and other parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "vīrakāṇḍavihīnakam",
+     "gloss": "vīra-stem-devoid",
+     "grounds": "compound indicating absence of vīra stem",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which components must the pot element include and exclude?",
+   "premises": [
+    "It is endowed with the pot rim and related parts.",
+    "It is devoid of the vīra stem."
+   ],
+   "inference": "The pot element should include the rim and similar parts but exclude the vīra stem.",
+   "uncertainties": [
+    "Exact meanings of maṃḍi and vīrakāṇḍa are uncertain."
+   ],
+   "plain_english": "It should be furnished with the pot rim and other parts, but without the vīra stem."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "kuṃbhaṃ",
+     "gloss": "pot",
+     "grounds": "architectural element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuṃbhaṃ",
+     "gloss": "pot",
+     "grounds": "repeated term",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "latāṃ",
+     "gloss": "creeper",
+     "grounds": "decorative element",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hyetāṃ",
+     "gloss": "indeed-this",
+     "grounds": "compound of emphatic particle and demonstrative",
+     "morph": "compound"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-explained",
+     "grounds": "future passive statement",
+     "morph": "3.sg.fut.pass √vac"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "agent of explanation",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How do the wise alternatively explain the pot and creeper elements?",
+   "premises": [
+    "The pot and creeper are mentioned.",
+    "The wise will explain them otherwise."
+   ],
+   "inference": "An alternative explanation of the pot and creeper is attributed to the wise.",
+   "uncertainties": [
+    "The repetition of kuṃbhaṃ and the exact alternative view are unclear."
+   ],
+   "plain_english": "The wise will explain this pot and creeper otherwise."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "bodhikārahitaṃ",
+     "gloss": "capital-devoid",
+     "grounds": "compound indicating absence of capital",
+     "morph": "compound"
+    },
+    {
+     "surface": "yattat",
+     "gloss": "which-that",
+     "grounds": "compound relative-correlative",
+     "morph": "compound"
+    },
+    {
+     "surface": "staṃbhakuṃbhalatā",
+     "gloss": "pillar-pot-creeper",
+     "grounds": "compound naming the element",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional designation",
+     "morph": "f.nom.sg.ppp √smṛ"
+    }
+   ],
+   "question": "What designation applies to the form lacking a capital in this context?",
+   "premises": [
+    "The form is devoid of a capital.",
+    "It is traditionally known as pillar-pot-creeper."
+   ],
+   "inference": "The capital-less form is designated as the pillar-pot-creeper.",
+   "uncertainties": [],
+   "plain_english": "That which is without a capital is known as the pillar-pot-creeper."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summary adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhinītyā",
+     "gloss": "by-threefold-method",
+     "grounds": "compound indicating threefold procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "passive statement",
+     "morph": "3.sg.pres.pass pra-√vac"
+    },
+    {
+     "surface": "kuṃbhalatā",
+     "gloss": "pot-creeper",
+     "grounds": "compound naming the element",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what method is the pot-creeper declared to the twice-born?",
+   "premises": [
+    "The pot-creeper is being declared.",
+    "It is explained by a threefold method."
+   ],
+   "inference": "The pot-creeper is declared to the twice-born according to a threefold method.",
+   "uncertainties": [],
+   "plain_english": "Thus, O twice-born, the pot-creeper is declared according to a threefold method."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon compound naming text",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṃbhalatāvidhipaṭalaḥ",
+     "gloss": "pot-creeper-rule-chapter",
+     "grounds": "compound naming chapter topic",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteenth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the rules for the pot-creeper in this text?",
+   "premises": [
+    "The text is the Aṃśumān Kāśyapa.",
+    "The topic is the rule for the pot-creeper."
+   ],
+   "inference": "This marks the end of the fourteenth chapter on the rules for the pot-creeper in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fourteenth chapter, on the rules for the pot-creeper, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃgulaṃ",
+     "gloss": "six-fingers",
+     "grounds": "compound indicating measure of six aṅgulas",
+     "morph": "compound"
+    },
+    {
+     "surface": "samārabhyaṃ",
+     "gloss": "beginning-with",
+     "grounds": "gerundive indicating starting point",
+     "morph": "n.nom.sg.gerundive sam-ā-√rabh"
+    },
+    {
+     "surface": "dvidvyaṃgulavivardhanāt",
+     "gloss": "by-two-two-finger-increase",
+     "grounds": "compound indicating increment of two aṅgulas at a time",
+     "morph": "compound"
+    }
+   ],
+   "question": "What starting measure and increment govern the prescribed dimension?",
+   "premises": [
+    "The measure begins at six aṅgulas.",
+    "It increases by two aṅgulas at a time."
+   ],
+   "inference": "The dimension starts at six aṅgulas and increases in steps of two aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "Beginning with six aṅgulas, it should increase by two aṅgulas at a time."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "vitārārdhaṃ",
+     "gloss": "breadth-half",
+     "grounds": "compound indicating half the breadth",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannivraṃ",
+     "gloss": "its-thickness",
+     "grounds": "compound indicating its thickness",
+     "morph": "compound"
+    },
+    {
+     "surface": "tridvyaṃśaṃ",
+     "gloss": "three-two-parts",
+     "grounds": "compound indicating two-thirds proportion",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgikam",
+     "gloss": "three-parted",
+     "grounds": "compound indicating one-third proportion",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative thickness proportions are prescribed relative to the breadth?",
+   "premises": [
+    "The thickness may be half the breadth.",
+    "Alternatively it may be two-thirds or one-third."
+   ],
+   "inference": "The thickness is prescribed as half the breadth, or alternatively as two-thirds or one-third.",
+   "uncertainties": [
+    "The exact parsing of tridvyaṃśaṃ as two-thirds is interpretive."
+   ],
+   "plain_english": "Its thickness should be half the breadth, or alternatively two-thirds or one-third."
+  }
+ ]
+}

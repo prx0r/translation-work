@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "hṛtpadme",
+     "gloss": "in-heart-lotus",
+     "grounds": "locative of place indicating where the extracted element is to be placed",
+     "morph": "compound hṛt-padma loc.sg.nt"
+    },
+    {
+     "surface": "rañjitaśivā",
+     "gloss": "o-delighter-of-shiva",
+     "grounds": "vocative epithet addressing the recipient of the instruction",
+     "morph": "compound rañjita-śiva voc.sg.f"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior action of drawing out the śiva-seed mentioned in context",
+     "morph": "gerund sam-ud-√hṛ"
+    },
+    {
+     "surface": "śucismite",
+     "gloss": "o-pure-smiled-one",
+     "grounds": "vocative epithet addressing the goddess or practitioner",
+     "morph": "compound śuci-smita voc.sg.f"
+    }
+   ],
+   "question": "What locus and addressee are specified for the placement of the extracted śiva-seed?",
+   "premises": [
+    "The śiva-seed has been extracted as a prior action.",
+    "The heart-lotus is named as the locus of placement.",
+    "The instruction is addressed to one called delighter-of-shiva and pure-smiled-one."
+   ],
+   "inference": "The extracted śiva-seed is to be placed in the heart-lotus, as directed to the addressed recipient.",
+   "uncertainties": [
+    "The precise referent of the vocative epithets rañjitaśivā and śucismite is not explicitly identified in this verse."
+   ],
+   "plain_english": "O delighter of Shiva, O pure-smiled one, having extracted it, place it in the heart-lotus."
+  }
+ ]
+}

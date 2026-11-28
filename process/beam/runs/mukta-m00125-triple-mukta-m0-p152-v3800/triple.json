@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "bere",
+     "gloss": "in-image",
+     "grounds": "locative of material or medium for installation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śilā+mayem",
+     "gloss": "stone-made",
+     "grounds": "compound adjective describing material; locative singular",
+     "morph": "compound: śilā+maya; n.loc.sg"
+    },
+    {
+     "surface": "āmarde",
+     "gloss": "in-unbaked",
+     "grounds": "locative of unbaked material, such as clay",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pakve",
+     "gloss": "in-baked",
+     "grounds": "locative of baked material, such as fired clay",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārkṣe",
+     "gloss": "in-wooden",
+     "grounds": "locative of material derived from wood",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "particle introducing a further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratna+je",
+     "gloss": "jewel-born",
+     "grounds": "compound adjective indicating material made of gems; locative singular",
+     "morph": "compound: ratna+ja; n.loc.sg"
+    }
+   ],
+   "question": "What alternative materials are prescribed for the installation of the liṅga?",
+   "premises": [
+    "The verse lists several material options in the locative case.",
+    "The options include image, stone-made, unbaked, baked, wooden, and jewel-born forms.",
+    "Disjunctive particles indicate that these materials are alternatives."
+   ],
+   "inference": "The liṅga may be installed in any of the specified alternative materials.",
+   "uncertainties": [
+    "The exact referent of 'bere' as image or painted form is context-dependent."
+   ],
+   "plain_english": "It may be installed in an image, in something made of stone, in unbaked or baked material, or else in wood or in something made of jewels."
+  }
+ ]
+}

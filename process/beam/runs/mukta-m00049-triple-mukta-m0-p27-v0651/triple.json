@@ -1,0 +1,887 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "prajapya",
+     "gloss": "having-muttered",
+     "grounds": "absolutive of pra-jap, prior muttering action",
+     "morph": "gerund (pra-√jap)"
+    },
+    {
+     "surface": "vedadhā",
+     "gloss": "three-times",
+     "grounds": "adverbial expression indicating triple repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "object to be brought into the hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣa+haste",
+     "gloss": "in-right-hand",
+     "grounds": "compound locative indicating location",
+     "morph": "compound: dakṣa+hasta; m.loc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "one-should-bring",
+     "grounds": "injunctive/optative ritual instruction",
+     "morph": "3.sg.opt.act (sam-ā-√nī)"
+    }
+   ],
+   "question": "What preparatory action with water follows triple muttering in the ritual sequence?",
+   "premises": [
+    "The practitioner first mutters the mantra three times.",
+    "Water is the substance to be handled.",
+    "The water should be brought into the right hand."
+   ],
+   "inference": "After muttering three times, the practitioner should bring water into the right hand.",
+   "uncertainties": [
+    "The specific mantra to be muttered is not named in this verse."
+   ],
+   "plain_english": "Having muttered three times, one should bring water into the right hand."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "aṅkuśa+ākhyā",
+     "gloss": "hook-named",
+     "grounds": "compound naming the seal by the term aṅkuśa",
+     "morph": "compound: aṅkuśa+ākhyā; f.nom.sg"
+    },
+    {
+     "surface": "mahā+mudrā",
+     "gloss": "great-seal",
+     "grounds": "compound designating a ritual hand gesture",
+     "morph": "compound: mahā+mudrā; f.nom.sg"
+    },
+    {
+     "surface": "trailokya+ākarṣaṇa+kṣamā",
+     "gloss": "capable-of-attracting-three-worlds",
+     "grounds": "compound describing the seal's power",
+     "morph": "compound: trailokya+ākarṣaṇa+kṣamā; f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual seal is identified as capable of attracting the three worlds?",
+   "premises": [
+    "A great seal is named by the term hook.",
+    "This seal possesses a specific power.",
+    "Its power is the capacity to attract the three worlds."
+   ],
+   "inference": "The great seal called the hook-seal is declared capable of attracting the three worlds.",
+   "uncertainties": [
+    "The physical formation of the seal is not described here."
+   ],
+   "plain_english": "Thus, the great seal called the hook-seal is capable of attracting the three worlds."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "vinikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction to deposit or cast down",
+     "morph": "3.sg.opt.act (vi-ni-√kṣip)"
+    }
+   ],
+   "question": "What action must be performed with the prepared water at this stage?",
+   "premises": [
+    "A ritual action is prescribed.",
+    "The action involves placing or casting down.",
+    "The object is implied from the preceding context."
+   ],
+   "inference": "The practitioner should place or cast down the water.",
+   "uncertainties": [
+    "The exact location or manner of placing is not specified in this verse alone."
+   ],
+   "plain_english": "One should place it down."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "object taken and handled in the rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating prior taking",
+     "morph": "gerund (sam-ā-√dā)"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-grasped",
+     "grounds": "absolutive indicating grasping with the hand",
+     "morph": "gerund (√grah)"
+    },
+    {
+     "surface": "dakṣa+pāṇinā",
+     "gloss": "with-right-hand",
+     "grounds": "compound instrumental indicating the instrument used",
+     "morph": "compound: dakṣa+pāṇi; m.inst.sg"
+    },
+    {
+     "surface": "ācchādayet",
+     "gloss": "one-should-cover",
+     "grounds": "ritual instruction to cover or conceal",
+     "morph": "3.sg.opt.act (ā-√chad)"
+    }
+   ],
+   "question": "How should the practitioner handle and use the water with the right hand?",
+   "premises": [
+    "Water is taken and grasped.",
+    "The right hand is the instrument.",
+    "The prescribed action is to cover."
+   ],
+   "inference": "Having taken and grasped water with the right hand, one should cover with it.",
+   "uncertainties": [
+    "What is to be covered is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having taken and grasped water with the right hand, one should cover."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "dakṣa+haste",
+     "gloss": "in-right-hand",
+     "grounds": "compound locative indicating location",
+     "morph": "compound: dakṣa+hasta; m.loc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual instruction to bring together or collect",
+     "morph": "3.sg.opt.act (sam-ā-√nī)"
+    }
+   ],
+   "question": "Where should the practitioner bring the ritual substance in this step?",
+   "premises": [
+    "A bringing action is prescribed.",
+    "The location specified is the right hand.",
+    "This continues the handling sequence."
+   ],
+   "inference": "The practitioner should bring the substance into the right hand.",
+   "uncertainties": [
+    "The substance is implied from context rather than named."
+   ],
+   "plain_english": "One should bring it into the right hand."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "deha+antaḥ+kaluṣaṃ",
+     "gloss": "impurity-within-body",
+     "grounds": "compound naming internal bodily impurity as object",
+     "morph": "compound: deha+antaḥ+kaluṣa; n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring to prior means",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "recayet",
+     "gloss": "one-should-expel",
+     "grounds": "causative ritual instruction to expel",
+     "morph": "3.sg.opt.act.caus (√ric)"
+    },
+    {
+     "surface": "piṅgalā+ākhyayā",
+     "gloss": "by-piṅgalā-named",
+     "grounds": "compound instrumental naming the channel or method",
+     "morph": "compound: piṅgalā+ākhyā; f.inst.sg"
+    }
+   ],
+   "question": "By what means should the impurity within the body be expelled?",
+   "premises": [
+    "Impurity within the body is the object to be removed.",
+    "Expulsion is the prescribed action.",
+    "The means is designated as piṅgalā-named."
+   ],
+   "inference": "One should expel the impurity within the body by means of that which is called piṅgalā.",
+   "uncertainties": [
+    "Whether piṅgalā refers to the subtle channel, breath, or a mantra is not explicit."
+   ],
+   "plain_english": "By that means called piṅgalā, one should expel the impurity within the body."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "trivāraṃ",
+     "gloss": "three-times",
+     "grounds": "adverbial expression indicating triple repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḍayan",
+     "gloss": "striking",
+     "grounds": "present participle describing accompanying action",
+     "morph": "m.nom.sg.pres.part.act (√taḍ)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing the ritual actions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "both-hands",
+     "grounds": "object to be washed",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "prakṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "ritual instruction to wash thoroughly",
+     "morph": "3.sg.opt.act.caus (pra-√kṣal)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What physical actions must the mantra practitioner perform after expelling impurity?",
+   "premises": [
+    "The mantra practitioner performs the actions.",
+    "Striking is done three times.",
+    "Both hands should then be washed."
+   ],
+   "inference": "The mantra practitioner, striking three times, should then wash both hands.",
+   "uncertainties": [
+    "What is struck is not specified in this verse."
+   ],
+   "plain_english": "Striking three times, the mantra practitioner should then wash both hands."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "absolutive indicating ritual sipping for purification",
+     "morph": "gerund (ā-√cam)"
+    },
+    {
+     "surface": "uktena+mantreṇa",
+     "gloss": "with-stated-mantra",
+     "grounds": "compound instrumental referring to previously mentioned mantra",
+     "morph": "compound: ukta+mantra; m.inst.sg"
+    },
+    {
+     "surface": "sūryāya",
+     "gloss": "to-sun",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction to present an offering",
+     "morph": "3.sg.opt.act.caus (ni-√vid)"
+    }
+   ],
+   "question": "To whom and with what should the water offering be presented after sipping?",
+   "premises": [
+    "Ritual sipping precedes the offering.",
+    "The stated mantra is used.",
+    "The offering is directed to the sun."
+   ],
+   "inference": "After sipping water, one should offer arghya to the sun with the stated mantra.",
+   "uncertainties": [
+    "The exact wording of the stated mantra is not given here."
+   ],
+   "plain_english": "Having sipped water, one should offer the water offering to the sun with the stated mantra."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "idam+arghyaṃ",
+     "gloss": "this-water-offering",
+     "grounds": "compound object of the utterance and gift",
+     "morph": "compound: idam+arghya; n.acc.sg"
+    },
+    {
+     "surface": "tubhyam",
+     "gloss": "to-you",
+     "grounds": "recipient pronoun addressed to the deity",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive indicating prior utterance",
+     "morph": "gerund (√vac)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual instruction to give the offering",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation accompanying oblation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+udīrayan",
+     "gloss": "uttering-thus",
+     "grounds": "compound participle describing the spoken formula",
+     "morph": "compound: iti+udīrayat; m.nom.sg.pres.part.act (ud-√īr)"
+    }
+   ],
+   "question": "What formula should accompany the giving of the water offering to the deity?",
+   "premises": [
+    "The offering is identified as this water offering.",
+    "It is addressed to the deity.",
+    "The utterance includes the word svāhā."
+   ],
+   "inference": "One should give the offering saying 'this water offering to you' while uttering 'svāhā'.",
+   "uncertainties": [],
+   "plain_english": "Having said 'this water offering to you,' one should give it while uttering 'svāhā'."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "prātaḥ+madhyāhna+sāyāhne",
+     "gloss": "in-morning-midday-evening",
+     "grounds": "compound locative listing three times of day",
+     "morph": "compound: prātaḥ+madhyāhna+sāyāhna; m.loc.sg"
+    },
+    {
+     "surface": "trirūpāṃ",
+     "gloss": "three-formed",
+     "grounds": "describes the deity's triple form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guṇa+bhedataḥ",
+     "gloss": "by-difference-of-qualities",
+     "grounds": "compound ablative indicating basis of differentiation",
+     "morph": "compound: guṇa+bheda; m.abl.sg"
+    }
+   ],
+   "question": "How is the deity's threefold form related to the times of day and qualities?",
+   "premises": [
+    "Three times of day are specified: morning, midday, and evening.",
+    "The deity is described as three-formed.",
+    "The differentiation is based on qualities."
+   ],
+   "inference": "At morning, midday, and evening the deity is three-formed according to differences in qualities.",
+   "uncertainties": [
+    "The specific mapping of each quality to each time is not fully detailed here."
+   ],
+   "plain_english": "In the morning, midday, and evening, she is three-formed according to the difference of qualities."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+ajina+ambara+dharāṃ",
+     "gloss": "wearing-black-antelope-skin-garment",
+     "grounds": "compound describing the deity's attire",
+     "morph": "compound: kṛṣṇa+ajina+ambara+dhara; f.acc.sg"
+    },
+    {
+     "surface": "haṃsa+ārūḍhāṃ",
+     "gloss": "mounted-on-swan",
+     "grounds": "compound describing the deity's vehicle",
+     "morph": "compound: haṃsa+ārūḍha; f.acc.sg"
+    },
+    {
+     "surface": "śuci+smitām",
+     "gloss": "with-pure-smile",
+     "grounds": "compound describing the deity's expression",
+     "morph": "compound: śuci+smita; f.acc.sg"
+    }
+   ],
+   "question": "What visual attributes characterize the deity in this described form?",
+   "premises": [
+    "The deity wears a black antelope skin garment.",
+    "The deity is mounted on a swan.",
+    "The deity has a pure smile."
+   ],
+   "inference": "This form of the deity is characterized by black antelope skin attire, a swan mount, and a pure smile.",
+   "uncertainties": [
+    "Which time of day or quality this form corresponds to is implied by context."
+   ],
+   "plain_english": "She wears a black antelope skin garment, is mounted on a swan, and has a pure smile."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "śarīra+antaḥ+pāpaṃ",
+     "gloss": "sin-within-body",
+     "grounds": "compound naming internal sin as object",
+     "morph": "compound: śarīra+antaḥ+pāpa; n.acc.sg"
+    },
+    {
+     "surface": "recayet",
+     "gloss": "one-should-expel",
+     "grounds": "causative ritual instruction to expel",
+     "morph": "3.sg.opt.act.caus (√ric)"
+    },
+    {
+     "surface": "niṣkarṣayet",
+     "gloss": "one-should-extract",
+     "grounds": "causative ritual instruction to draw out",
+     "morph": "3.sg.opt.act.caus (nis-√kṛṣ)"
+    }
+   ],
+   "question": "What must be done to the sin residing within the body during purification?",
+   "premises": [
+    "Sin within the body is the target.",
+    "Expulsion is prescribed.",
+    "Extraction is also prescribed."
+   ],
+   "inference": "One should expel and extract the sin within the body.",
+   "uncertainties": [],
+   "plain_english": "One should expel and extract the sin within the body."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "hastau",
+     "gloss": "both-hands",
+     "grounds": "object of washing and cleansing",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "prakṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "ritual instruction to wash thoroughly",
+     "morph": "3.sg.opt.act.caus (pra-√kṣal)"
+    },
+    {
+     "surface": "dhāvet",
+     "gloss": "one-should-cleanse",
+     "grounds": "ritual instruction to cleanse or rinse",
+     "morph": "3.sg.opt.act.caus (√dhāv)"
+    }
+   ],
+   "question": "What cleansing actions are required for the hands in this purification step?",
+   "premises": [
+    "Both hands are the objects.",
+    "Washing is prescribed.",
+    "Cleansing is prescribed."
+   ],
+   "inference": "One should wash and cleanse both hands.",
+   "uncertainties": [],
+   "plain_english": "One should wash and cleanse both hands."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction to present an offering",
+     "morph": "3.sg.opt.act.caus (ni-√vid)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual instruction to give",
+     "morph": "3.sg.opt.act (√dā)"
+    }
+   ],
+   "question": "What ritual acts of presentation and giving are enjoined at this point?",
+   "premises": [
+    "Offering is prescribed.",
+    "Giving is prescribed.",
+    "The object is implied from prior context."
+   ],
+   "inference": "One should offer and give the ritual substance.",
+   "uncertainties": [
+    "The specific object to be offered and given is not named in this verse."
+   ],
+   "plain_english": "One should offer and give."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental indicating the mantra used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction to present an offering",
+     "morph": "3.sg.opt.act.caus (ni-√vid)"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound explanatory gloss indicating intended sense",
+     "morph": "compound: iti+artha; m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of the preceding offering instructions?",
+   "premises": [
+    "A mantra is the instrument.",
+    "The water offering is the object.",
+    "The verse states the meaning explicitly."
+   ],
+   "inference": "The meaning is that one should offer the water offering with the mantra.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: one should offer the water offering with the mantra."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "śaṅkha+cakra+gadā+padma+dhāriṇīṃ",
+     "gloss": "bearing-conch-disc-mace-lotus",
+     "grounds": "compound describing the deity's attributes",
+     "morph": "compound: śaṅkha+cakra+gadā+padma+dhāriṇī; f.acc.sg"
+    },
+    {
+     "surface": "garuḍa+āsanām",
+     "gloss": "seated-on-garuḍa",
+     "grounds": "compound describing the deity's seat or vehicle",
+     "morph": "compound: garuḍa+āsana; f.acc.sg"
+    }
+   ],
+   "question": "What emblems and vehicle distinguish this form of the deity?",
+   "premises": [
+    "The deity bears conch, disc, mace, and lotus.",
+    "The deity is seated on Garuḍa.",
+    "These are defining visual attributes."
+   ],
+   "inference": "This form of the deity bears conch, disc, mace, and lotus and is seated on Garuḍa.",
+   "uncertainties": [
+    "The correspondence to a specific time or quality is implied by context."
+   ],
+   "plain_english": "She bears the conch, disc, mace, and lotus, and is seated on Garuḍa."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "yuvatīṃ",
+     "gloss": "youthful-woman",
+     "grounds": "describes the deity's age and form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "adverb indicating continual meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "ritual instruction for visualization",
+     "morph": "3.sg.opt.act (√dhyai)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position within",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mārtaṇḍa+maṇḍale",
+     "gloss": "in-sun-disc",
+     "grounds": "compound locative specifying the locus of meditation",
+     "morph": "compound: mārtaṇḍa+maṇḍala; n.loc.sg"
+    }
+   ],
+   "question": "Where and in what form should the deity be continually meditated upon?",
+   "premises": [
+    "The deity is visualized as a youthful woman.",
+    "Meditation should be continual.",
+    "The locus of meditation is the middle of the sun's disc."
+   ],
+   "inference": "One should always meditate on her as a youthful woman in the middle of the sun's disc.",
+   "uncertainties": [],
+   "plain_english": "One should always meditate on her as a youthful woman in the middle of the sun's disc."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "śuklāṃ",
+     "gloss": "white",
+     "grounds": "describes the deity's color",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śukla+ambara+dharāṃ",
+     "gloss": "wearing-white-garment",
+     "grounds": "compound describing the deity's attire",
+     "morph": "compound: śukla+ambara+dhara; f.acc.sg"
+    },
+    {
+     "surface": "vṛṣa+āsana+kṛta+āśrayām",
+     "gloss": "taking-refuge-on-bull-seat",
+     "grounds": "compound describing the deity's seat",
+     "morph": "compound: vṛṣa+āsana+kṛta+āśraya; f.acc.sg"
+    }
+   ],
+   "question": "What color, attire, and seat characterize this form of the deity?",
+   "premises": [
+    "The deity is white in color.",
+    "The deity wears white garments.",
+    "The deity takes refuge on a bull seat."
+   ],
+   "inference": "This form of the deity is white, wears white garments, and is seated on a bull.",
+   "uncertainties": [],
+   "plain_english": "She is white, wears white garments, and is seated upon a bull."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "vibhratīṃ",
+     "gloss": "bearing",
+     "grounds": "present participle describing what she holds",
+     "morph": "f.acc.sg.pres.part.act (vi-√bhṛ)"
+    },
+    {
+     "surface": "kara+padmaiḥ",
+     "gloss": "with-lotus-hands",
+     "grounds": "compound instrumental describing hands like lotuses",
+     "morph": "compound: kara+padma; n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛddhāṃ",
+     "gloss": "old-woman",
+     "grounds": "describes the deity's aged form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "galita+yauvanām",
+     "gloss": "with-faded-youth",
+     "grounds": "compound describing loss of youth",
+     "morph": "compound: galita+yauvana; f.acc.sg"
+    }
+   ],
+   "question": "How is the aged form of the deity described in terms of bearing and appearance?",
+   "premises": [
+    "The deity bears things with lotus-like hands.",
+    "The deity is described as an old woman.",
+    "Her youth has faded."
+   ],
+   "inference": "The deity is visualized as an old woman with faded youth, bearing attributes with lotus-like hands.",
+   "uncertainties": [
+    "The specific objects borne are not named in this verse."
+   ],
+   "plain_english": "Bearing with her lotus-like hands, she is an old woman whose youth has faded."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "prātaḥ+kāle",
+     "gloss": "in-morning-time",
+     "grounds": "compound locative specifying time",
+     "morph": "compound: prātaḥ+kāla; m.loc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "ritual instruction for visualization",
+     "morph": "3.sg.opt.act (√dhyai)"
+    },
+    {
+     "surface": "agre",
+     "gloss": "further",
+     "grounds": "adverb indicating continuation ahead",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion or extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam+eva",
+     "gloss": "thus-indeed",
+     "grounds": "compound emphatic adverbial expression",
+     "morph": "compound: evam+eva; (indecl.)"
+    },
+    {
+     "surface": "anvayaḥ",
+     "gloss": "connection",
+     "grounds": "syntactic or logical connection to be applied",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive indicating obligation",
+     "morph": "m.nom.sg.gerundive (√kṛ)"
+    }
+   ],
+   "question": "How should the meditative pattern established for morning be applied to later times?",
+   "premises": [
+    "Meditation in the morning time is prescribed.",
+    "The instruction extends further.",
+    "The same connection should be applied."
+   ],
+   "inference": "One should meditate in the morning, and the same connection should likewise be applied further.",
+   "uncertainties": [
+    "The exact scope of 'further' depends on the surrounding verses."
+   ],
+   "plain_english": "One should meditate in the morning time, and further also the same connection should be made."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "madhyāhne",
+     "gloss": "at-midday",
+     "grounds": "locative specifying the time of day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker indicating specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gāyatrīm",
+     "gloss": "gāyatrī",
+     "grounds": "name of the deity or mantra-form",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "At which time is that Gāyatrī form specifically to be contemplated?",
+   "premises": [
+    "Midday is specified as the time.",
+    "The object of contemplation is that Gāyatrī.",
+    "The verse marks a temporal specification."
+   ],
+   "inference": "At midday, that Gāyatrī is to be contemplated.",
+   "uncertainties": [
+    "The specific attributes for midday are supplied by adjacent verses."
+   ],
+   "plain_english": "At midday, thus, that Gāyatrī."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "tathā+bhūtām",
+     "gloss": "being-in-that-form",
+     "grounds": "compound describing the deity as having that nature or form",
+     "morph": "compound: tathā+bhūta; f.acc.sg"
+    }
+   ],
+   "question": "In what manner should the deity be understood in this specified form?",
+   "premises": [
+    "The deity is described as being in that form.",
+    "The description refers back to prior attributes.",
+    "The form is to be taken as specified."
+   ],
+   "inference": "The deity should be contemplated as being in that very form.",
+   "uncertainties": [
+    "The referent of 'that form' depends on the immediately preceding description."
+   ],
+   "plain_english": "Being in that form."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "tathā+bhūtām",
+     "gloss": "being-in-that-form",
+     "grounds": "compound describing the deity as having that nature or form",
+     "morph": "compound: tathā+bhūta; f.acc.sg"
+    }
+   ],
+   "question": "How is the deity's form reiterated for the corresponding contemplative context?",
+   "premises": [
+    "The deity is again described as being in that form.",
+    "The repetition reinforces the specified visualization.",
+    "The form corresponds to the contextual time or quality."
+   ],
+   "inference": "The deity should again be contemplated as being in that very form.",
+   "uncertainties": [
+    "The specific contextual referent is determined by adjacent verses."
+   ],
+   "plain_english": "Being in that form."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "dhvasta+tāruṇyām",
+     "gloss": "with-destroyed-youth",
+     "grounds": "compound describing the loss of youth",
+     "morph": "compound: dhvasta+tāruṇya; f.acc.sg"
+    }
+   ],
+   "question": "What condition of youth characterizes the deity in this final described form?",
+   "premises": [
+    "The deity's youth is described as destroyed.",
+    "This marks an aged condition.",
+    "The attribute qualifies the contemplated form."
+   ],
+   "inference": "The deity in this form is characterized by destroyed or vanished youth.",
+   "uncertainties": [
+    "This likely corresponds to the evening form but is not explicitly labeled here."
+   ],
+   "plain_english": "With her youth destroyed."
+  }
+ ]
+}

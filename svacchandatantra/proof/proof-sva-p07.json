@@ -1,0 +1,92 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p07",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v152 ratio=0.721",
+  "L2_CITE_FAIL 5",
+  "DATA_OBJECTS 5 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ea535f8b9d0f3959",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 97
+ },
+ "align": {
+  "min_ratio": 0.721,
+  "sub090": {
+   "152": {
+    "ratio": 0.721,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 49,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "homo'gnerdakṣiṇe bhāge evaṃ vāme'pi jñeyam",
+   "agnisūryābhyāmiti anyattu pūrvavat",
+   "svāhā\" ityantaḥ prayogaḥ pūrṇāyāmitikartavyatā bhaviṣyati",
+   "antarikṣaṃ bhuvolokaḥ spaṣṭamanyat",
+   "uktavānahamityarthaḥ diśāsvityādiraiśaḥ pāṭhaḥ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p07-v151]: cite part not byte-exact in source: homo'gnerdakṣiṇe bhāge evaṃ vāme'pi jñeyam",
+   "l2[sva-p07-v153]: cite part not byte-exact in source: agnisūryābhyāmiti anyattu pūrvavat",
+   "l2[sva-p07-v154]: cite part not byte-exact in source: svāhā\" ityantaḥ prayogaḥ pūrṇāyāmitikartavyatā bhaviṣyati",
+   "l2[sva-p07-v171]: cite part not byte-exact in source: antarikṣaṃ bhuvolokaḥ spaṣṭamanyat",
+   "l2[sva-p07-v175]: cite part not byte-exact in source: uktavānahamityarthaḥ diśāsvityādiraiśaḥ pāṭhaḥ"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 97,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v152"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "537bc91d04e8cee973615b2efd298ea57acaa2e2dc444210ea02d28a15b78cd2",
+  "l0": "6457719178f16fa75dfb11e687f951adacbdbfa05ecfbc097855048999686fed",
+  "argmap": "981c4abaead34dfb224ad947fdb4cce9c900ffe5db6646eb0d16f38c31188921",
+  "l2": "b01e3f9cf30a842969a1f3dbaa99223d160510aa6dfca8f4b9787cc77e8fcece",
+  "c1": "c2e09bc1939b0d6e20c484562166549db355c80af654daec47108beb3e528ece"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ea535f8b9d0f3959",
+  "t1": "sva-p07/data/sva-p07.t1.json",
+  "l0": "sva-p07/data/sva-p07.l0.json",
+  "l2": "sva-p07/data/sva-p07.l2.json",
+  "c1": "sva-p07/data/sva-p07.c1.json"
+ }
+}

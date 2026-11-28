@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2026,
+   "rows": [
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vibudha+śreṣṭha",
+     "gloss": "best-of-gods",
+     "grounds": "epithet of addressed deity",
+     "morph": "compound=vibudha+śreṣṭha; m.voc.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kamala+udbhava",
+     "gloss": "lotus-born",
+     "grounds": "epithet of addressed deity",
+     "morph": "compound=kamala+udbhava; m.voc.sg"
+    }
+   ],
+   "question": "What reverence is offered to the best of gods who is lotus-born?",
+   "premises": [
+    "The speaker offers obeisance to the addressed deity.",
+    "The deity is called best of gods.",
+    "The deity is called lotus-born."
+   ],
+   "inference": "The verse expresses repeated reverential salutation to a deity identified by these epithets.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to you, best of the gods; obeisance to you, lotus-born one."
+  },
+  {
+   "verse": 2027,
+   "rows": [
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "nīla+megha+ābha",
+     "gloss": "blue-cloud-hued",
+     "grounds": "epithet describing appearance",
+     "morph": "compound=nīla+megha+ābha; m.voc.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "tridaśa+arcita",
+     "gloss": "worshipped-by-gods",
+     "grounds": "epithet indicating divine worship",
+     "morph": "compound=tridaśa+arcita; m.voc.sg"
+    }
+   ],
+   "question": "What reverence is offered to the blue-cloud-hued deity worshipped by the gods?",
+   "premises": [
+    "The speaker offers obeisance to the addressed deity.",
+    "The deity is described as blue-cloud-hued.",
+    "The deity is worshipped by the gods."
+   ],
+   "inference": "The verse salutes a deity distinguished by divine appearance and universal divine worship.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to you, who are blue like a cloud; obeisance to you, worshipped by the gods."
+  },
+  {
+   "verse": 2028,
+   "rows": [
+    {
+     "surface": "narasiṃha",
+     "gloss": "man-lion",
+     "grounds": "epithet invoking Narasiṃha form",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mahā+vīrya",
+     "gloss": "great-heroism",
+     "grounds": "epithet indicating great power",
+     "morph": "compound=mahā+vīrya; m.voc.sg"
+    },
+    {
+     "surface": "trāhi",
+     "gloss": "protect",
+     "grounds": "imperative request for protection",
+     "morph": "2.sg.imp.act √trā"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "speaker as object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "dīpta+locana",
+     "gloss": "blazing-eyed",
+     "grounds": "epithet describing fierce eyes",
+     "morph": "compound=dīpta+locana; m.voc.sg"
+    }
+   ],
+   "question": "What protection is sought from the great-heroic, blazing-eyed man-lion deity?",
+   "premises": [
+    "The speaker directly addresses Narasiṃha.",
+    "Narasiṃha is described as greatly heroic and blazing-eyed.",
+    "The speaker asks to be protected."
+   ],
+   "inference": "The verse is a plea for protection directed to the powerful Narasiṃha form.",
+   "uncertainties": [],
+   "plain_english": "O Narasiṃha, of great heroism and blazing eyes, protect me."
+  },
+  {
+   "verse": 2029,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-the-deity",
+     "grounds": "reference point for location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nair-ṛte",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanuḥ+pañca+pramāṇataḥ",
+     "gloss": "bow-five-in-measure",
+     "grounds": "specifies distance or extent",
+     "morph": "compound=dhanuḥ+pañca+pramāṇataḥ; (indecl.)"
+    }
+   ],
+   "question": "What spatial measure is specified in the southwest direction of the deity?",
+   "premises": [
+    "The location is relative to the deity.",
+    "The direction specified is the southwest.",
+    "The extent is measured as five bows."
+   ],
+   "inference": "The verse defines a ritual or sacred area in the southwest by a five-bow measure.",
+   "uncertainties": [
+    "Exact length of a bow measure is not specified in the verse."
+   ],
+   "plain_english": "In the southwest of the deity, at a measure of five bows."
+  },
+  {
+   "verse": 2030,
+   "rows": [
+    {
+     "surface": "saṃhitāṃ",
+     "gloss": "collection",
+     "grounds": "text or recitation to be uttered",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gīta+śāstraḥ",
+     "gloss": "song-scripture",
+     "grounds": "additional text or chant to be uttered",
+     "morph": "compound=gīta+śāstra; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects recitations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sañjapet",
+     "gloss": "one-should-chant",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What recitations should be performed at the specified location?",
+   "premises": [
+    "The verse prescribes reciting a collection there.",
+    "The verse also prescribes chanting the song-scripture.",
+    "Both actions are enjoined at the same place."
+   ],
+   "inference": "At that location one should perform both recitation of the collection and chanting of the song-scripture.",
+   "uncertainties": [
+    "The specific identity of the saṃhitā and gīta+śāstra is not stated."
+   ],
+   "plain_english": "There one should recite the collection, and one should also chant the song-scripture."
+  },
+  {
+   "verse": 2031,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "one-obtains",
+     "grounds": "result of ritual action",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandeha",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eka+āvarte",
+     "gloss": "in-one-repetition",
+     "grounds": "condition for obtaining result",
+     "morph": "compound=eka+āvarta; m.loc.sg"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "quantity obtained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result is assured from a single repetition without any doubt?",
+   "premises": [
+    "One obtains a thousand in one repetition.",
+    "The verse explicitly denies doubt in this matter.",
+    "The result is stated as certain."
+   ],
+   "inference": "A single repetition is claimed to yield a thousandfold result without doubt.",
+   "uncertainties": [
+    "What is counted as a thousand is not specified."
+   ],
+   "plain_english": "In one repetition one obtains a thousand; there is no doubt about this."
+  },
+  {
+   "verse": 2032,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-the-deity",
+     "grounds": "reference point for location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrva+bhāge",
+     "gloss": "in-eastern-part",
+     "grounds": "directional location",
+     "morph": "compound=pūrva+bhāga; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuḥ+tāvat",
+     "gloss": "bow-that-much",
+     "grounds": "specifies extent",
+     "morph": "compound=dhanuḥ+tāvat; (indecl.)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-measure",
+     "grounds": "indicates measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spatial measure is specified in the eastern part of the deity?",
+   "premises": [
+    "The location is relative to the deity.",
+    "The direction specified is the eastern part.",
+    "The extent is given as that much in bow measure."
+   ],
+   "inference": "The verse defines an area in the east by a corresponding bow measure.",
+   "uncertainties": [
+    "The exact value of 'that much' depends on prior context."
+   ],
+   "plain_english": "In the eastern part of the deity, to that extent in bow measure."
+  },
+  {
+   "verse": 2033,
+   "rows": [
+    {
+     "surface": "śrī+bījena",
+     "gloss": "with-śrī-seed",
+     "grounds": "ritual means of worship",
+     "morph": "compound=śrī+bīja; n.inst.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "gerund √arc"
+    },
+    {
+     "surface": "mālatī+kusumaiḥ",
+     "gloss": "with-mālatī-flowers",
+     "grounds": "offerings used in worship",
+     "morph": "compound=mālatī+kusuma; n.inst.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "How should worship be performed using the śrī seed and mālatī flowers?",
+   "premises": [
+    "Worship involves the śrī seed.",
+    "Worship involves mālatī flowers.",
+    "The verse prescribes performing worship with these means."
+   ],
+   "inference": "One should worship by using the śrī seed and offering mālatī flowers.",
+   "uncertainties": [
+    "The specific form of the śrī seed is not spelled out."
+   ],
+   "plain_english": "Having worshipped with the śrī seed, one should worship with mālatī flowers."
+  },
+  {
+   "verse": 2034,
+   "rows": [
+    {
+     "surface": "paurṇamāsyāṃ",
+     "gloss": "on-full-moon-day",
+     "grounds": "ritual time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tulā+arke",
+     "gloss": "when-sun-in-libra",
+     "grounds": "astrological time condition",
+     "morph": "compound=tulā+arka; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "goddess who becomes pleased",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "to-him",
+     "grounds": "recipient of favor",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "is-pleased",
+     "grounds": "resulting divine favor",
+     "morph": "3.sg.pres.act √sad"
+    }
+   ],
+   "question": "Under what conditions does Lakṣmī become pleased with the worshipper?",
+   "premises": [
+    "The time specified is the full-moon day.",
+    "The sun is in Libra at that time.",
+    "Lakṣmī becomes pleased with that person."
+   ],
+   "inference": "Lakṣmī’s favor is promised when worship occurs on a full-moon day with the sun in Libra.",
+   "uncertainties": [],
+   "plain_english": "On the full-moon day, when the sun is in Libra, Lakṣmī is pleased with him."
+  },
+  {
+   "verse": 2035,
+   "rows": [
+    {
+     "surface": "dhanuḥ+aṣṭa+pramāṇam",
+     "gloss": "bow-eight-in-measure",
+     "grounds": "specifies extent of area",
+     "morph": "compound=dhanuḥ+aṣṭa+pramāṇa; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kola+kṣetraṃ",
+     "gloss": "Kola-field",
+     "grounds": "named sacred area",
+     "morph": "compound=kola+kṣetra; n.acc.sg"
+    },
+    {
+     "surface": "vijānīhi",
+     "gloss": "you-should-know",
+     "grounds": "instruction to recognize",
+     "morph": "2.sg.imp.act √jñā"
+    }
+   ],
+   "question": "What extent and identity should be recognized for the Kola field?",
+   "premises": [
+    "The Kola field is named.",
+    "Its measure is eight bows.",
+    "The listener is instructed to know this."
+   ],
+   "inference": "The verse identifies the Kola field as an area measuring eight bows.",
+   "uncertainties": [],
+   "plain_english": "Know the Kola field to be eight bows in measure."
+  },
+  {
+   "verse": 2036,
+   "rows": [
+    {
+     "surface": "lolaṃ",
+     "gloss": "Lola",
+     "grounds": "deity or sacred form to be seen",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior act of seeing",
+     "morph": "gerund √dṛś"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed worship",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "manner of worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viṣṇu+lokaṃ",
+     "gloss": "Viṣṇu-world",
+     "grounds": "destination attained",
+     "morph": "compound=viṣṇu+loka; m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the worshipper",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.pres.act √gam"
+    }
+   ],
+   "question": "What reward follows from seeing and worshipping Lola with devotion?",
+   "premises": [
+    "One sees Lola.",
+    "One worships with devotion.",
+    "That person goes to the world of Viṣṇu."
+   ],
+   "inference": "Devotional seeing and worship of Lola leads to attaining Viṣṇu’s world.",
+   "uncertainties": [
+    "The identity of Lola is not further specified."
+   ],
+   "plain_english": "Having seen Lola, one should worship with devotion; that person goes to the world of Viṣṇu."
+  },
+  {
+   "verse": 2037,
+   "rows": [
+    {
+     "surface": "dhanuḥ+yugma+pramāṇena",
+     "gloss": "bow-pair-in-measure",
+     "grounds": "specifies extent of area",
+     "morph": "compound=dhanuḥ+yugma+pramāṇa; n.inst.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of bathing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act",
+     "morph": "gerund √snā"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "benefit obtained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "possible result",
+     "morph": "3.sg.opt.act √labh"
+    }
+   ],
+   "question": "What benefit is obtained by bathing at the place measuring two bows?",
+   "premises": [
+    "The place is measured as two bows.",
+    "One bathes there.",
+    "One may obtain prosperity."
+   ],
+   "inference": "Bathing at that two-bow area is said to yield prosperity.",
+   "uncertainties": [],
+   "plain_english": "Having bathed there, in an area measuring two bows, one may obtain prosperity."
+  },
+  {
+   "verse": 2038,
+   "rows": [
+    {
+     "surface": "mantrena",
+     "gloss": "with-mantra",
+     "grounds": "ritual means accompanying bathing",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act",
+     "morph": "gerund √snā"
+    },
+    {
+     "surface": "śrī+tīrthe",
+     "gloss": "at-Śrī-tīrtha",
+     "grounds": "sacred bathing place",
+     "morph": "compound=śrī+tīrtha; n.loc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "spiritual attainment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "result of ritual act",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "anuttamām",
+     "gloss": "unsurpassed",
+     "grounds": "quality of the attained state",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What unsurpassed attainment results from bathing with a mantra at Śrī-tīrtha?",
+   "premises": [
+    "One bathes with a mantra.",
+    "The bathing occurs at Śrī-tīrtha.",
+    "One obtains an unsurpassed state."
+   ],
+   "inference": "Mantra-accompanied bathing at Śrī-tīrtha leads to the highest attainment.",
+   "uncertainties": [
+    "The specific mantra is not identified."
+   ],
+   "plain_english": "Having bathed with a mantra at Śrī-tīrtha, one obtains the unsurpassed state."
+  },
+  {
+   "verse": 2039,
+   "rows": [
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "object requested",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √dā"
+    },
+    {
+     "surface": "yaśo",
+     "gloss": "fame",
+     "grounds": "object requested",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √dā"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hara",
+     "gloss": "remove",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √hṛ"
+    },
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "optative formula",
+     "morph": "3.sg.imp.act √as"
+    }
+   ],
+   "question": "What gifts and removal of sin are requested in this prayer of obeisance?",
+   "premises": [
+    "The speaker asks for prosperity.",
+    "The speaker asks for fame.",
+    "The speaker asks for sin to be removed and offers obeisance."
+   ],
+   "inference": "The verse is a prayer seeking prosperity, fame, removal of sin, and expressing reverence.",
+   "uncertainties": [],
+   "plain_english": "Give prosperity, give fame, remove sin; let there be obeisance."
+  },
+  {
+   "verse": 2040,
+   "rows": [
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "tīrtha",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kanakhalaṃ",
+     "gloss": "Kanakhala",
+     "grounds": "name of the tīrtha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg.ppp √vac"
+    },
+    {
+     "surface": "mahā+pātaka+nāśanam",
+     "gloss": "great-sin-destroying",
+     "grounds": "purifying power of the tīrtha",
+     "morph": "compound=mahā+pātaka+nāśana; n.nom.sg"
+    }
+   ],
+   "question": "What purifying power is attributed to the tīrtha known as Kanakhala?",
+   "premises": [
+    "The tīrtha is identified as Kanakhala.",
+    "It is declared to be great-sin-destroying.",
+    "The statement presents this as its nature."
+   ],
+   "inference": "Kanakhala is proclaimed as a tīrtha that destroys great sins.",
+   "uncertainties": [],
+   "plain_english": "The tīrtha called Kanakhala is declared to destroy great sins."
+  },
+  {
+   "verse": 2041,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrti+mantreṇa",
+     "gloss": "with-Dakṣiṇāmūrti-mantra",
+     "grounds": "ritual means accompanying bathing",
+     "morph": "compound=dakṣiṇāmūrti+mantra; m.inst.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act",
+     "morph": "gerund √snā"
+    },
+    {
+     "surface": "svarge",
+     "gloss": "in-heaven",
+     "grounds": "realm of honor",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "one-is-honored",
+     "grounds": "resulting status",
+     "morph": "3.sg.pres.pass √mah"
+    }
+   ],
+   "question": "What honor is attained by bathing with the Dakṣiṇāmūrti mantra?",
+   "premises": [
+    "One bathes with the Dakṣiṇāmūrti mantra.",
+    "The result is honor in heaven.",
+    "The verse states this as the outcome."
+   ],
+   "inference": "Bathing with the Dakṣiṇāmūrti mantra leads to being honored in heaven.",
+   "uncertainties": [],
+   "plain_english": "Having bathed with the Dakṣiṇāmūrti mantra, one is honored in heaven."
+  },
+  {
+   "verse": 2042,
+   "rows": [
+    {
+     "surface": "daśa+janma+arjitaṃ",
+     "gloss": "ten-birth-accumulated",
+     "grounds": "describes long-accumulated sin",
+     "morph": "compound=daśa+janma+arjita; n.acc.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hara",
+     "gloss": "remove",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √hṛ"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "tīrtha",
+     "grounds": "addressed sacred site",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "optative formula",
+     "morph": "3.sg.imp.act √as"
+    }
+   ],
+   "question": "What removal of long-accumulated sin is requested from the tīrtha?",
+   "premises": [
+    "Sin accumulated over ten births is named.",
+    "The tīrtha is asked to remove that sin.",
+    "The speaker offers obeisance to the tīrtha."
+   ],
+   "inference": "The verse prays to the tīrtha for removal of sin accumulated across ten births.",
+   "uncertainties": [],
+   "plain_english": "O tīrtha, remove the sin accumulated over ten births; let there be obeisance."
+  },
+  {
+   "verse": 2043,
+   "rows": [
+    {
+     "surface": "dhanuḥ+veda+pramāṇam",
+     "gloss": "bow-four-in-measure",
+     "grounds": "specifies extent of area",
+     "morph": "compound=dhanuḥ+veda+pramāṇa; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "campakeśaṃ",
+     "gloss": "Campakeśa",
+     "grounds": "deity or sacred site to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed worship",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "What worship is prescribed at the four-bow area associated with Campakeśa?",
+   "premises": [
+    "The area is measured as four bows.",
+    "Campakeśa is the object of worship.",
+    "Worship is prescribed."
+   ],
+   "inference": "One should worship Campakeśa in the area measuring four bows.",
+   "uncertainties": [
+    "Whether Campakeśa names a deity or place is not explicit."
+   ],
+   "plain_english": "One should worship Campakeśa in an area measuring four bows."
+  },
+  {
+   "verse": 2044,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "is-freed",
+     "grounds": "liberation from sin",
+     "morph": "3.sg.pres.pass √muc"
+    },
+    {
+     "surface": "sarva+pāpaiḥ",
+     "gloss": "from-all-sins",
+     "grounds": "what one is freed from",
+     "morph": "compound=sarva+pāpa; n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+lokaṃ",
+     "gloss": "Brahma-world",
+     "grounds": "destination attained",
+     "morph": "compound=brahma+loka; m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.opt.act √vraj"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces reason",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What liberation and destination are promised as a result of the prescribed worship?",
+   "premises": [
+    "One is freed from all sins.",
+    "One would go to the world of Brahmā.",
+    "The verse presents this as a consequence."
+   ],
+   "inference": "The worship results in freedom from all sins and attainment of Brahmā’s world.",
+   "uncertainties": [],
+   "plain_english": "One is freed from all sins and would go to the world of Brahmā."
+  },
+  {
+   "verse": 2045,
+   "rows": [
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "tīrtha",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trailokya+vikhyātaṃ",
+     "gloss": "famous-in-three-worlds",
+     "grounds": "renown of the tīrtha",
+     "morph": "compound=trailokya+vikhyāta; n.nom.sg"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-Brahmā",
+     "grounds": "association with Brahmā",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parameṣṭhinaḥ",
+     "gloss": "supreme",
+     "grounds": "epithet of Brahmā",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What renown and association are attributed to this tīrtha of supreme Brahmā?",
+   "premises": [
+    "The site is a tīrtha.",
+    "It is famous in the three worlds.",
+    "It is associated with supreme Brahmā."
+   ],
+   "inference": "The verse identifies a tīrtha renowned in the three worlds as belonging to supreme Brahmā.",
+   "uncertainties": [],
+   "plain_english": "It is a tīrtha famous in the three worlds, belonging to the supreme Brahmā."
+  },
+  {
+   "verse": 2046,
+   "rows": [
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "mental act of remembrance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "remembers",
+     "grounds": "act of recollection",
+     "morph": "3.sg.opt.act √smṛ"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "subject of the condition",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣkaram",
+     "gloss": "Puṣkara",
+     "grounds": "sacred place remembered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahā+īśvari",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address",
+     "morph": "compound=mahā+īśvarī; f.voc.sg"
+    }
+   ],
+   "question": "What mental remembrance of Puṣkara is addressed to the great goddess?",
+   "premises": [
+    "The speaker addresses the great goddess.",
+    "The act described is mental remembrance.",
+    "The object remembered is Puṣkara."
+   ],
+   "inference": "The verse sets up the merit of one who mentally remembers Puṣkara.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, whoever remembers Puṣkara with the mind."
+  },
+  {
+   "verse": 2047,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "divine beings present",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sa+gandharvāḥ",
+     "gloss": "with-gandharvas",
+     "grounds": "accompanying beings",
+     "morph": "compound=sa+gandharva; m.nom.pl"
+    },
+    {
+     "surface": "sa+yakṣa+uraga+rākṣasāḥ",
+     "gloss": "with-yakṣas-serpents-rākṣasas",
+     "grounds": "other accompanying beings",
+     "morph": "compound=sa+yakṣa+uraga+rākṣasa; m.nom.pl"
+    }
+   ],
+   "question": "What divine and semi-divine beings are said to be present there?",
+   "premises": [
+    "Gods are present there.",
+    "Gandharvas are present with them.",
+    "Yakṣas, serpents, and rākṣasas are also present."
+   ],
+   "inference": "The place is described as inhabited by a wide assembly of divine and other beings.",
+   "uncertainties": [],
+   "plain_english": "There are the gods, together with gandharvas, yakṣas, serpents, and rākṣasas."
+  },
+  {
+   "verse": 2048,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of bathing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual act",
+     "morph": "gerund √snā"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "spiritual result",
+     "morph": "m.nom.sg.ppp √muc"
+    },
+    {
+     "surface": "brahmāṇaṃ",
+     "gloss": "Brahmā",
+     "grounds": "deity approached or attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameṣṭhinam",
+     "gloss": "supreme",
+     "grounds": "epithet of Brahmā",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What liberation is attained by bathing there in relation to supreme Brahmā?",
+   "premises": [
+    "One bathes there.",
+    "One becomes liberated.",
+    "Supreme Brahmā is named in that context."
+   ],
+   "inference": "Bathing at that place leads to liberation connected with supreme Brahmā.",
+   "uncertainties": [
+    "The syntactic relation to Brahmā may also imply approaching him."
+   ],
+   "plain_english": "Having bathed there, one becomes liberated and reaches the supreme Brahmā."
+  },
+  {
+   "verse": 2049,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhigamya",
+     "gloss": "having-approached",
+     "grounds": "act of going to",
+     "morph": "gerund √gam"
+    },
+    {
+     "surface": "deva+īśaṃ",
+     "gloss": "lord-of-gods",
+     "grounds": "epithet of addressed deity",
+     "morph": "compound=deva+īśa; m.acc.sg"
+    },
+    {
+     "surface": "purūhūtam",
+     "gloss": "Indra",
+     "grounds": "name or epithet of Indra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aninditam",
+     "gloss": "blameless",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which blameless lord of the gods is approached at that time?",
+   "premises": [
+    "The action occurs then.",
+    "One approaches the lord of gods.",
+    "That lord is identified as blameless Purūhūta."
+   ],
+   "inference": "The verse describes approaching the blameless lord of gods, Purūhūta.",
+   "uncertainties": [],
+   "plain_english": "Then, having approached the blameless lord of the gods, Purūhūta."
+  }
+ ]
+}

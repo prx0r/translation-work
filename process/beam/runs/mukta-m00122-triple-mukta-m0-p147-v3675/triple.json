@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3675,
+   "rows": [
+    {
+     "surface": "svoccayoḥ",
+     "gloss": "own-exaltation",
+     "grounds": "compound of sva (own) and uccaya (exaltation); fused form",
+     "morph": "gen.loc.du.m"
+    },
+    {
+     "surface": "sthitapūjāñca",
+     "gloss": "established-worship-and",
+     "grounds": "sthitapūjām plus ca with sandhi; accusative object with conjunction",
+     "morph": "acc.sg.f + (indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "direct object of śṛṇu",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative address to Pārvatī",
+     "morph": "2.sg.act.impv. (śru)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "vocative addressee",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What established worship and own exaltation circle should Pārvatī hear?",
+   "premises": [
+    "Pārvatī is addressed directly.",
+    "Established worship is to be heard.",
+    "Own exaltation belongs to the circle."
+   ],
+   "inference": "The verse introduces a circle of established worship and own exaltation for Pārvatī to hear.",
+   "uncertainties": [
+    "The exact syntactic role of svoccayoḥ remains ambiguous between genitive and locative."
+   ],
+   "plain_english": "Hear, Pārvatī, the circle of established worship and own exaltation."
+  }
+ ]
+}

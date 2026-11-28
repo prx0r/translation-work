@@ -1,0 +1,910 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "spatial adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "spatial adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṃsyatāmramayasthalayutā'ntaraḥ",
+     "gloss": "bronze-copper-made-place-joined-inner",
+     "grounds": "fused sandhi form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What spatial relation is described between outside and inside?",
+   "premises": [
+    "outside is named",
+    "inside is named",
+    "joined inner place is named"
+   ],
+   "inference": "The verse names an outside-inside relation with a joined inner place.",
+   "uncertainties": [
+    "exact compound segmentation"
+   ],
+   "plain_english": "Outside and inside are named with a joined inner place."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "gṛheṣu",
+     "gloss": "in-houses",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vasantartuḥ",
+     "gloss": "dwelling-season",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "supeśalaḥ",
+     "gloss": "very-beautiful",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What shines in those houses during the dwelling season?",
+   "premises": [
+    "houses are named",
+    "those are named",
+    "dwelling season is named"
+   ],
+   "inference": "The verse describes shining in houses during the dwelling season.",
+   "uncertainties": [
+    "exact season reference"
+   ],
+   "plain_english": "In those houses the dwelling season shines very beautifully."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "saṃyutaḥ",
+     "gloss": "united",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svaparīvāraiḥ",
+     "gloss": "with-own-retinue",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samedhate",
+     "gloss": "prospers",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "nijaśriyā",
+     "gloss": "with-own-splendor",
+     "grounds": "instrumental singular",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "With what does the united one prosper?",
+   "premises": [
+    "united is named",
+    "own retinue is named",
+    "own splendor is named"
+   ],
+   "inference": "Prosperity occurs with own retinue and own splendor.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "United with his own retinue, he prospers with his own splendor."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "proktarītyaiva",
+     "gloss": "as-stated-method",
+     "grounds": "fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the distinction to be known and declared?",
+   "premises": [
+    "as-stated-method is named",
+    "distinction is named",
+    "in-order is named"
+   ],
+   "inference": "The distinction is to be known by the stated method and declared in order.",
+   "uncertainties": [
+    "exact method"
+   ],
+   "plain_english": "The distinction is to be known as stated and declared in order."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "grīṣmartuḥ",
+     "gloss": "summer-season",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukra",
+     "gloss": "Venus",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuciśaktiparīvṛtaḥ",
+     "gloss": "pure-power-retinue",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is situated in the summer season with pure power retinue?",
+   "premises": [
+    "summer season is named",
+    "situated is named",
+    "Venus is named"
+   ],
+   "inference": "Venus is situated in summer with pure power retinue.",
+   "uncertainties": [
+    "exact power identity"
+   ],
+   "plain_english": "In summer, Venus is situated surrounded by pure power."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "nabhonabhasyaśaktibhyāṃ",
+     "gloss": "by-sky-and-cloud-powers",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "varṣartuḥ",
+     "gloss": "rainy-season",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "What shines there in the rainy season by sky and cloud powers?",
+   "premises": [
+    "sky and cloud powers are named",
+    "rainy season is named",
+    "there is named"
+   ],
+   "inference": "The rainy season shines there by sky and cloud powers.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "There the rainy season shines by sky and cloud powers."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "śaradṛtuḥ",
+     "gloss": "autumn-season",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "iṣorjā?bhyāṃ",
+     "gloss": "by-Isha-and-Urja-powers",
+     "grounds": "fused form with question mark",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "śaktibhyāṃ",
+     "gloss": "by-powers",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "What shines there in autumn by Isha and Urja powers?",
+   "premises": [
+    "autumn season is named",
+    "Isha and Urja powers are named",
+    "there is named"
+   ],
+   "inference": "Autumn shines there by those powers.",
+   "uncertainties": [
+    "token spelling with question mark"
+   ],
+   "plain_english": "There autumn shines by Isha and Urja powers."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "sahassahasyaśaktibhyāṃ",
+     "gloss": "by-Sahasya-and-Sahasya-powers",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "himantaḥ",
+     "gloss": "winter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    }
+   ],
+   "question": "What shines there in winter by Sahasya powers?",
+   "premises": [
+    "Sahasya powers are named",
+    "winter is named",
+    "there is named"
+   ],
+   "inference": "Winter shines there by Sahasya powers.",
+   "uncertainties": [
+    "repeated Sahasya reading"
+   ],
+   "plain_english": "There winter shines by Sahasya powers."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "kadambavipinaṃ",
+     "gloss": "kadamba-grove",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hālā'modasumeduram",
+     "gloss": "liquor-fragrance-sweet",
+     "grounds": "fused sandhi form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is there in the kadamba grove?",
+   "premises": [
+    "kadamba grove is named",
+    "there is named",
+    "liquor fragrance sweet is named"
+   ],
+   "inference": "The kadamba grove there is sweet with liquor fragrance.",
+   "uncertainties": [
+    "exact compound segmentation"
+   ],
+   "plain_english": "There the kadamba grove is sweet with liquor fragrance."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "kīramaṇḍalacāṭūktimadhuradhvanisundaram",
+     "gloss": "bee-circle-flattery-sweet-sound-beautiful",
+     "grounds": "long compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What beautiful quality is described by bee circle flattery sweet sound?",
+   "premises": [
+    "bee circle is named",
+    "flattery sweet sound is named",
+    "beautiful is named"
+   ],
+   "inference": "The verse describes a beautiful quality involving bee circle and sweet sound.",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "It is beautiful with bee-circle flattery and sweet sound."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "saṅgītamāṭṛkā",
+     "gloss": "song-mother-goddess",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātaṅgī",
+     "gloss": "Matangi",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tyabhiviśrutā",
+     "gloss": "thus-famous",
+     "grounds": "fused form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is the famous song mother goddess?",
+   "premises": [
+    "song mother goddess is named",
+    "goddess is named",
+    "Matangi is named"
+   ],
+   "inference": "Matangi is the famous song mother goddess.",
+   "uncertainties": [
+    "exact epithet scope"
+   ],
+   "plain_english": "The goddess Matangi is the famous song mother goddess."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "vīṇāveṇumukhā",
+     "gloss": "vina-venu-faced",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadvac",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyāmalā",
+     "gloss": "dark",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "laghupūrvikā",
+     "gloss": "light-first",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is described as vina-venu-faced dark and light-first?",
+   "premises": [
+    "vina venu faced is named",
+    "dark is named",
+    "light first is named"
+   ],
+   "inference": "The verse describes a dark vina-venu-faced light-first figure.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Thus the dark vina-venu-faced one is light-first."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "śrīmātṛkā",
+     "gloss": "Shri-Matrika",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatpriyā'nyā",
+     "gloss": "her-dear-other",
+     "grounds": "fused form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cetyevamaṣṭadiksthitāḥ",
+     "gloss": "thus-eight-directions-situated",
+     "grounds": "fused form",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are situated in the eight directions thus?",
+   "premises": [
+    "Shri-Matrika is named",
+    "her dear other is named",
+    "eight directions situated is named"
+   ],
+   "inference": "Shri-Matrika and her dear other are situated in eight directions.",
+   "uncertainties": [
+    "exact list"
+   ],
+   "plain_english": "Thus Shri-Matrika and her dear other are situated in eight directions."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vapraḥ",
+     "gloss": "rampart",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣparāgamayaḥ",
+     "gloss": "ruby-made",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvoktavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rampart is situated as before?",
+   "premises": [
+    "then is named",
+    "rampart is named",
+    "ruby-made is named"
+   ],
+   "inference": "A ruby-made rampart is situated as before.",
+   "uncertainties": [
+    "exact location"
+   ],
+   "plain_english": "Then a ruby-made rampart is situated as before."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "padmarāgamayo",
+     "gloss": "ruby-made",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vapraḥ",
+     "gloss": "rampart",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadantaḥ",
+     "gloss": "that-end",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "agniśikhā'ruṇaḥ",
+     "gloss": "fire-flame-red",
+     "grounds": "fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the rampart and its end like?",
+   "premises": [
+    "ruby-made is named",
+    "rampart is named",
+    "fire-flame-red is named"
+   ],
+   "inference": "The rampart is ruby-made and its end is fire-flame-red.",
+   "uncertainties": [
+    "exact end reference"
+   ],
+   "plain_english": "The ruby-made rampart has a fire-flame-red end."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "sālaḥ",
+     "gloss": "sal-tree",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gomedamaṇijastatra",
+     "gloss": "gomed-gem-made",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhairavanāyakaiḥ",
+     "gloss": "by-Bhairava-lords",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What sal tree is made of gomed gem and associated with Bhairava lords?",
+   "premises": [
+    "sal tree is named",
+    "gomed gem made is named",
+    "Bhairava lords are named"
+   ],
+   "inference": "The sal tree is gomed-gem-made and associated with Bhairava lords.",
+   "uncertainties": [
+    "exact association"
+   ],
+   "plain_english": "The sal tree is made of gomed gem by Bhairava lords."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "karālā",
+     "gloss": "terrible",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālameghābhā",
+     "gloss": "black-cloud-colored",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karavālakṛtā'yudhā",
+     "gloss": "sword-made-weapon",
+     "grounds": "fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What terrible black-cloud-colored figure has sword-made weapon?",
+   "premises": [
+    "terrible is named",
+    "black-cloud-colored is named",
+    "sword-made-weapon is named"
+   ],
+   "inference": "A terrible black-cloud-colored figure has a sword-made weapon.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "The terrible black-cloud-colored one has a sword-made weapon."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "dvātriśatkoṭibaṭukayutaḥ",
+     "gloss": "thirty-two-crore-Batuka-united",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃsevitā",
+     "gloss": "always-served",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is united with thirty-two crore Batukas and always served?",
+   "premises": [
+    "thirty-two crore Batuka united is named",
+    "always served is named",
+    "always is named"
+   ],
+   "inference": "The figure is united with thirty-two crore Batukas and always served.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "United with thirty-two crore Batukas, she is always served."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajramayaḥ",
+     "gloss": "diamond-made",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sālaḥ",
+     "gloss": "sal-tree",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajrā",
+     "gloss": "diamond-river",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nadī sthitā",
+     "gloss": "situated",
+     "grounds": "fused phrase",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What diamond-made sal tree and river are situated there?",
+   "premises": [
+    "then is named",
+    "diamond-made sal tree is named",
+    "diamond river situated is named"
+   ],
+   "inference": "A diamond-made sal tree and diamond river are situated there.",
+   "uncertainties": [
+    "exact river name"
+   ],
+   "plain_english": "Then a diamond-made sal tree and diamond river are situated there."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "taṭābhyāṃ",
+     "gloss": "by-two-banks",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "gaomedavajramayābhyāṃ",
+     "gloss": "gomed-diamond-made",
+     "grounds": "instrumental dual",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "pravibhāsinī",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What shines by two gomed-diamond-made banks?",
+   "premises": [
+    "two banks are named",
+    "gomed diamond made is named",
+    "shining is named"
+   ],
+   "inference": "The shining one is by two gomed-diamond-made banks.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Shining by two gomed-diamond-made banks."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "vajrapradānasantuṣṭā",
+     "gloss": "diamond-gift-satisfied",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vajripramukhapūjitā",
+     "gloss": "by-Vajri-and-chief-worshipped",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is satisfied by diamond gift and worshipped by Vajri?",
+   "premises": [
+    "diamond gift satisfied is named",
+    "Vajri and chief worshipped is named"
+   ],
+   "inference": "The figure is satisfied by diamond gift and worshipped by Vajri.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Satisfied by diamond gift, she is worshipped by Vajri and chiefs."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "nirantara",
+     "gloss": "continuously",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyamānāḥ",
+     "gloss": "meditating",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parāmbāpādapaṅkajam",
+     "gloss": "supreme-mother-lotus-feet",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is continuously meditated upon?",
+   "premises": [
+    "continuously is named",
+    "meditating is named",
+    "supreme mother lotus feet is named"
+   ],
+   "inference": "The supreme mother's lotus feet are continuously meditated upon.",
+   "uncertainties": [
+    "meditators"
+   ],
+   "plain_english": "Continuously meditating on the supreme mother's lotus feet."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "muktāvaprastadantasthā",
+     "gloss": "pearl-rampart-end-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dikpālā",
+     "gloss": "direction-guardians",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the direction guardians situated in order?",
+   "premises": [
+    "pearl rampart end situated is named",
+    "direction guardians are named",
+    "in directions is named"
+   ],
+   "inference": "Direction guardians are situated at the pearl rampart end in directions in order.",
+   "uncertainties": [
+    "exact directions"
+   ],
+   "plain_english": "Direction guardians are situated at the pearl rampart end in directions in order."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "tāladrusyandadatyantahālāsaurabhasambhūtaḥ",
+     "gloss": "palm-tree-sap-very-liquor-fragrance-born",
+     "grounds": "long compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is born from palm tree sap and very liquor fragrance?",
+   "premises": [
+    "palm tree sap is named",
+    "very liquor fragrance is named",
+    "born is named"
+   ],
+   "inference": "Something is born from palm tree sap and very liquor fragrance.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Born from palm tree sap and very liquor fragrance."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "song": "kul-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "papraccheśaṃ",
+     "gloss": "asked-the-lord",
+     "grounds": "fused papraccha (asked) + īśam (lord)",
+     "morph": "3.sg.act-aor (prach) + acc.sg.m"
+    },
+    {
+     "surface": "parānandaṃ",
+     "gloss": "supreme-bliss",
+     "grounds": "parā (supreme) + ānanda (bliss)",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "parvati",
+     "grounds": "proper name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "parama (supreme) + īśvara (lord)",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Who asked the supreme lord about supreme bliss?",
+   "premises": [
+    "Pārvatī addresses Parameśvara.",
+    "The verse names supreme bliss.",
+    "The question opens the teaching."
+   ],
+   "inference": "Pārvatī's inquiry to the supreme lord frames the Kula discourse.",
+   "uncertainties": [
+    "Internal sandhi of papraccheśaṃ is editor-resolved."
+   ],
+   "plain_english": "Pārvatī asked the supreme lord, the supreme bliss."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "sukṛtānmānavo",
+     "gloss": "human-by-good-deeds",
+     "grounds": "fused sukṛtāt (from good deeds) + mānavaḥ (human)",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive of bhū",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānī",
+     "gloss": "knower",
+     "grounds": "jñāna (knowledge) + ī (possessor)",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "cenmokṣamāpnuyāt",
+     "gloss": "if-liberation-obtained",
+     "grounds": "fused ce (if) + mokṣam + āpnuyāt (obtains)",
+     "morph": "3.sg.act-opt (āp)"
+    }
+   ],
+   "question": "How does a human obtain liberation through knowledge?",
+   "premises": [
+    "A human becomes a knower by good deeds.",
+    "Knowledge is the condition for liberation.",
+    "Liberation is obtained if that condition holds."
+   ],
+   "inference": "Good deeds make a human a knower, and such knowledge leads to liberation.",
+   "uncertainties": [
+    "The fused conditional form cenmokṣamāpnuyāt is transcribed whole."
+   ],
+   "plain_english": "A human, having become a knower by good deeds, obtains liberation if knowledge is present."
+  }
+ ]
+}

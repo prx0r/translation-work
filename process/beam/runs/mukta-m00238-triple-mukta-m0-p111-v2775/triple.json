@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "man",
+     "grounds": "nominative singular masculine subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karbura",
+     "gloss": "spotted",
+     "grounds": "adjective agreeing with varṇaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative singular masculine predicate noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What variegated color characterizes the puruṣa in this description?",
+   "premises": [
+    "puruṣaḥ names the subject",
+    "karbura qualifies the color",
+    "varṇaḥ means color"
+   ],
+   "inference": "the puruṣa has spotted color",
+   "uncertainties": [
+    "ritual context unspecified"
+   ],
+   "plain_english": "The man is of spotted color."
+  }
+ ]
+}

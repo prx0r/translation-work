@@ -1,0 +1,1149 @@
+{
+ "song": "mukta-m0-p501",
+ "items": [
+  {
+   "verse": 12501,
+   "rows": [
+    {
+     "surface": "mukheṣu",
+     "gloss": "in-faces",
+     "grounds": "locative plural of mukha; locations for placement",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative of vi-ni-as; ritual placement instruction",
+     "morph": "3.sg.opt.act √vi-ni-as"
+    },
+    {
+     "surface": "īśānādīn",
+     "gloss": "īśāna-and-others",
+     "grounds": "compound īśāna-ādi with accusative plural ending",
+     "morph": "m.acc.pl (compound: īśāna+ādi)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral indicating count of deities or mantras",
+     "morph": "num.acc.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially to indicate sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what sequence and locations should the five beginning with Īśāna be placed on the faces?",
+   "premises": [
+    "The instruction concerns placement on the faces.",
+    "Five entities beginning with Īśāna are specified.",
+    "The placement must follow a sequential order."
+   ],
+   "inference": "One should place the five beginning with Īśāna in the faces in due order.",
+   "uncertainties": [],
+   "plain_english": "One should place the five, beginning with Īśāna, in the faces in proper order."
+  },
+  {
+   "verse": 12502,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative of ni-as; continues placement instruction",
+     "morph": "3.sg.opt.act √ni-as"
+    },
+    {
+     "surface": "tiryyak+chiraḥ+vaktra+hṛdaya+aṃghriṣu",
+     "gloss": "in-side-head-face-heart-feet",
+     "grounds": "compound listing body locations in locative plural",
+     "morph": "n.loc.pl (compound: tiryak+śiras+vaktra+hṛdaya+aṅghri)"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal indicating the fifth item in the sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where must the fifth element of the sequence be ritually placed on the body?",
+   "premises": [
+    "A fifth element in the sequence is specified.",
+    "Multiple body locations are listed together.",
+    "The act prescribed is placement."
+   ],
+   "inference": "The fifth should be placed in the side, head, face, heart, and feet.",
+   "uncertainties": [
+    "The exact referent of tiryak in this bodily context is somewhat ambiguous."
+   ],
+   "plain_english": "One should place the fifth in the side, head, face, heart, and feet."
+  },
+  {
+   "verse": 12503,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśat+kalā+nyāsaṃ",
+     "gloss": "thirty-eight-kalā-placement",
+     "grounds": "compound naming the ritual placement of thirty-eight kalās",
+     "morph": "m.acc.sg (compound: aṣṭatriṃśat+kalā+nyāsa)"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "should-perform",
+     "grounds": "optative of kṛ; prescriptive ritual action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tejaḥ+abhivṛddhaye",
+     "gloss": "for-splendor-increase",
+     "grounds": "dative compound expressing purpose of the rite",
+     "morph": "f.dat.sg (compound: tejas+abhivṛddhi)"
+    }
+   ],
+   "question": "For what purpose should the placement of the thirty-eight kalās be performed?",
+   "premises": [
+    "A placement of thirty-eight kalās is prescribed.",
+    "The action is to be performed by the practitioner.",
+    "A purpose is stated in the dative."
+   ],
+   "inference": "The thirty-eight-kalā placement should be performed to increase splendor.",
+   "uncertainties": [],
+   "plain_english": "One should perform the placement of the thirty-eight kalās for the increase of splendor."
+  },
+  {
+   "verse": 12504,
+   "rows": [
+    {
+     "surface": "praṇavādyaṃ",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound describing mantra-pada as starting with praṇava",
+     "morph": "n.acc.sg (compound: praṇava+ādya)"
+    },
+    {
+     "surface": "mantra+padaṃ",
+     "gloss": "mantra-word",
+     "grounds": "compound referring to a mantra unit or phrase",
+     "morph": "n.acc.sg (compound: mantra+pada)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalās",
+     "grounds": "subject or object in context of mantra formation for kalās",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṅentā",
+     "gloss": "ending-in-ṅe",
+     "grounds": "describes grammatical ending of the kalā names in the mantra",
+     "morph": "f.nom.pl (compound: ṅe+anta)"
+    },
+    {
+     "surface": "namaḥ+antakāḥ",
+     "gloss": "ending-in-namas",
+     "grounds": "describes mantra-padas as concluding with namaḥ",
+     "morph": "f.nom.pl (compound: namas+antaka)"
+    }
+   ],
+   "question": "What structural form must the mantra-words for the kalās take in this placement?",
+   "premises": [
+    "The mantra-words begin with the praṇava.",
+    "The kalā names take an ending in ṅe.",
+    "The mantra-words conclude with namaḥ."
+   ],
+   "inference": "Each kalā mantra-word should begin with praṇava, use the kalā name ending in ṅe, and end with namaḥ.",
+   "uncertainties": [
+    "The exact grammatical analysis of ṅentā follows the traditional mantra-formation rule."
+   ],
+   "plain_english": "The mantra-words for the kalās should begin with the praṇava, have the kalā names ending in ṅe, and conclude with namaḥ."
+  },
+  {
+   "verse": 12505,
+   "rows": [
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "īśvaraḥ",
+     "grounds": "mantra word or name used in the formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhūtānām",
+     "gloss": "of-all-beings",
+     "grounds": "genitive plural compound qualifying īśvaraḥ",
+     "morph": "n.gen.pl (compound: sarva+bhūta)"
+    },
+    {
+     "surface": "aṅgadā+ākhyā",
+     "gloss": "named-aṅgadā",
+     "grounds": "compound giving the name of the kalā",
+     "morph": "f.nom.sg (compound: aṅgadā+ākhyā)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "adverb indicating what follows next",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which kalā named Aṅgadā is associated with the formula beginning with Īśvaraḥ sarvabhūtānām?",
+   "premises": [
+    "The mantra phrase includes īśvaraḥ sarvabhūtānām.",
+    "A kalā named Aṅgadā is identified.",
+    "The verse marks progression to the next item."
+   ],
+   "inference": "The kalā named Aṅgadā is linked to the formula īśvaraḥ sarvabhūtānām, after which the next follows.",
+   "uncertainties": [],
+   "plain_english": "Then comes the kalā named Aṅgadā, associated with ‘īśvaraḥ sarvabhūtānām’."
+  },
+  {
+   "verse": 12506,
+   "rows": [
+    {
+     "surface": "śivaḥ",
+     "gloss": "śivaḥ",
+     "grounds": "mantra word in the formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me+trāstu",
+     "gloss": "be-my-protector",
+     "grounds": "mantra phrase combining pronoun and imperative of trā",
+     "morph": "phrase (me: pron.gen.sg; trāstu: 3.sg.imp.act √trā)"
+    },
+    {
+     "surface": "mārīcī",
+     "gloss": "mārīcī",
+     "grounds": "name of the kalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturthī",
+     "gloss": "fourth",
+     "grounds": "ordinal indicating position in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past participle indicating it is stated as such",
+     "morph": "f.nom.sg.past-pass-part √kath"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "the ritual element being named and numbered",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which fourth kalā is declared in connection with the mantra phrase śivaḥ me trāstu?",
+   "premises": [
+    "The mantra phrase śivaḥ me trāstu is given.",
+    "A kalā named Mārīcī is identified.",
+    "This kalā is declared to be the fourth."
+   ],
+   "inference": "The fourth kalā, declared as Mārīcī, is associated with the phrase śivaḥ me trāstu.",
+   "uncertainties": [],
+   "plain_english": "The fourth kalā, named Mārīcī, is declared with the phrase ‘śivaḥ me trāstu’."
+  },
+  {
+   "verse": 12507,
+   "rows": [
+    {
+     "surface": "tatpuruṣāya",
+     "gloss": "to-tatpuruṣa",
+     "grounds": "dative mantra word addressed to Tatpuruṣa",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "mantra verb form in the formula",
+     "morph": "1.pl.pres.mid √vid"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "śānti",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrva+mukhe",
+     "gloss": "in-east-face",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: pūrva+mukha)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "In which facial location should the kalā Śānti be placed with the Tatpuruṣa mantra?",
+   "premises": [
+    "The mantra includes tatpuruṣāya vidmahe.",
+    "The kalā to be placed is Śānti.",
+    "The specified location is the eastern face."
+   ],
+   "inference": "One should place the kalā Śānti in the eastern face with the Tatpuruṣa mantra.",
+   "uncertainties": [],
+   "plain_english": "With ‘tatpuruṣāya vidmahe’, one should place the kalā Śānti in the eastern face."
+  },
+  {
+   "verse": 12508,
+   "rows": [
+    {
+     "surface": "tanno",
+     "gloss": "that-to-us",
+     "grounds": "mantra phrase combining tad and naḥ",
+     "morph": "phrase (tat: pron.n.nom.sg; naḥ: pron.dat.pl)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudraḥ",
+     "grounds": "mantra word naming Rudra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhā+ākhyāṃ",
+     "gloss": "named-pratiṣṭhā",
+     "grounds": "compound giving the kalā’s name in accusative",
+     "morph": "f.acc.sg (compound: pratiṣṭhā+ākhyā)"
+    },
+    {
+     "surface": "yāmya+āsye",
+     "gloss": "in-south-face",
+     "grounds": "locative compound indicating southern face",
+     "morph": "n.loc.sg (compound: yāmya+āsya)"
+    },
+    {
+     "surface": "tvaṣṭamīṃ",
+     "gloss": "eighth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the eighth kalā named Pratiṣṭhā be placed with the mantra tanno rudraḥ?",
+   "premises": [
+    "The mantra includes tanno rudraḥ.",
+    "The eighth kalā is named Pratiṣṭhā.",
+    "The placement location is the southern face."
+   ],
+   "inference": "One should place the eighth kalā named Pratiṣṭhā in the southern face with tanno rudraḥ.",
+   "uncertainties": [],
+   "plain_english": "With ‘tanno rudraḥ’, one should place the eighth kalā, named Pratiṣṭhā, in the southern face."
+  },
+  {
+   "verse": 12509,
+   "rows": [
+    {
+     "surface": "aghorebhyaḥ",
+     "gloss": "to-aghora-ones",
+     "grounds": "dative plural mantra word",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "tāmasīṃ",
+     "gloss": "tāmasī",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśamīṃ",
+     "gloss": "tenth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √vi-ni-as"
+    }
+   ],
+   "question": "In which bodily location should the tenth kalā Tāmasī be placed with the Aghora mantra?",
+   "premises": [
+    "The mantra begins with aghorebhyaḥ.",
+    "The tenth kalā is named Tāmasī.",
+    "The specified location is the heart."
+   ],
+   "inference": "One should place the tenth kalā Tāmasī in the heart with the Aghora mantra.",
+   "uncertainties": [],
+   "plain_english": "With ‘aghorebhyaḥ’, one should place the tenth kalā, Tāmasī, in the heart."
+  },
+  {
+   "verse": 12510,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+aṃse",
+     "gloss": "in-right-shoulder",
+     "grounds": "locative compound indicating placement location",
+     "morph": "m.loc.sg (compound: dakṣiṇa+aṃsa)"
+    },
+    {
+     "surface": "ghorarūpāṃ",
+     "gloss": "ghorarūpā",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √vi-ni-as"
+    },
+    {
+     "surface": "dvādaśīṃ",
+     "gloss": "twelfth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kalām",
+     "gloss": "kalā",
+     "grounds": "object of placement",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should the twelfth kalā Ghorarūpā be ritually placed on the practitioner’s body?",
+   "premises": [
+    "The twelfth kalā is named Ghorarūpā.",
+    "The placement action is prescribed.",
+    "The specified location is the right shoulder."
+   ],
+   "inference": "One should place the twelfth kalā Ghorarūpā in the right shoulder.",
+   "uncertainties": [],
+   "plain_english": "One should place the twelfth kalā, Ghorarūpā, in the right shoulder."
+  },
+  {
+   "verse": 12511,
+   "rows": [
+    {
+     "surface": "sarvebhyaḥ",
+     "gloss": "to-all",
+     "grounds": "dative plural mantra word",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "nābhi+madhye",
+     "gloss": "in-navel-middle",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: nābhi+madhya)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyācitā+ākhyāṃ",
+     "gloss": "named-vyācitā",
+     "grounds": "compound giving the kalā’s name in accusative",
+     "morph": "f.acc.sg (compound: vyācitā+ākhyā)"
+    },
+    {
+     "surface": "caturdaśīm",
+     "gloss": "fourteenth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should the fourteenth kalā named Vyācitā be placed with the mantra sarvebhyaḥ?",
+   "premises": [
+    "The mantra includes sarvebhyaḥ.",
+    "The fourteenth kalā is named Vyācitā.",
+    "The specified location is the middle of the navel."
+   ],
+   "inference": "One should place the fourteenth kalā named Vyācitā in the middle of the navel with sarvebhyaḥ.",
+   "uncertainties": [],
+   "plain_english": "With ‘sarvebhyaḥ’, one should place the fourteenth kalā, named Vyācitā, in the middle of the navel."
+  },
+  {
+   "verse": 12512,
+   "rows": [
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "mantra phrase combining namaḥ and te",
+     "morph": "phrase (namaḥ: (indecl.); te: pron.dat.sg)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "imperative mantra verb",
+     "morph": "3.sg.imp.act √as"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhā+ākhyā",
+     "gloss": "named-sudhā",
+     "grounds": "compound giving the kalā’s name",
+     "morph": "f.nom.sg (compound: sudhā+ākhyā)"
+    },
+    {
+     "surface": "ṣoḍaśī",
+     "gloss": "sixteenth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "the ritual element being placed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where should the sixteenth kalā named Sudhā be placed with the mantra namaste astu?",
+   "premises": [
+    "The mantra includes namaste astu.",
+    "The sixteenth kalā is named Sudhā.",
+    "The specified location is the back."
+   ],
+   "inference": "One should place the sixteenth kalā named Sudhā on the back with namaste astu.",
+   "uncertainties": [],
+   "plain_english": "With ‘namaste astu’, one should place the sixteenth kalā, named Sudhā, on the back."
+  },
+  {
+   "verse": 12513,
+   "rows": [
+    {
+     "surface": "vāmadevāya",
+     "gloss": "to-vāmadeva",
+     "grounds": "dative mantra word addressed to Vāmadeva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "virajāṃ",
+     "gloss": "virajā",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guhye",
+     "gloss": "in-private-part",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaṣṭādaśīṃ",
+     "gloss": "eighteenth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the eighteenth kalā Virajā be placed with the Vāmadeva mantra?",
+   "premises": [
+    "The mantra includes vāmadevāya.",
+    "The eighteenth kalā is named Virajā.",
+    "The specified location is the private part."
+   ],
+   "inference": "One should place the eighteenth kalā Virajā in the private part with the Vāmadeva mantra.",
+   "uncertainties": [],
+   "plain_english": "With ‘vāmadevāya’, one should place the eighteenth kalā, Virajā, in the private part."
+  },
+  {
+   "verse": 12514,
+   "rows": [
+    {
+     "surface": "śreṣṭhāya",
+     "gloss": "to-śreṣṭha",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking quotation of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive indicating prior utterance",
+     "morph": "abs √vac"
+    },
+    {
+     "surface": "vāma+aṃse",
+     "gloss": "in-left-shoulder",
+     "grounds": "locative compound indicating placement location",
+     "morph": "m.loc.sg (compound: vāma+aṃsa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratiṃ",
+     "gloss": "rati",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the kalā Rati be placed after uttering the mantra śreṣṭhāya namaḥ?",
+   "premises": [
+    "The mantra śreṣṭhāya namaḥ is to be uttered.",
+    "The kalā to be placed is Rati.",
+    "The specified location is the left shoulder."
+   ],
+   "inference": "After uttering śreṣṭhāya namaḥ, one should place Rati in the left shoulder.",
+   "uncertainties": [],
+   "plain_english": "Having said ‘śreṣṭhāya namaḥ’, one should place Rati in the left shoulder."
+  },
+  {
+   "verse": 12515,
+   "rows": [
+    {
+     "surface": "kālāya",
+     "gloss": "to-kāla",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāviṃśa+saṃjñāṃ",
+     "gloss": "twenty-second-named",
+     "grounds": "compound indicating the twenty-second kalā by designation",
+     "morph": "f.acc.sg (compound: dvāviṃśa+saṃjñā)"
+    },
+    {
+     "surface": "vāma+ūruke",
+     "gloss": "in-left-thigh",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: vāma+ūru)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the twenty-second kalā be placed with the mantra kālāya namaḥ?",
+   "premises": [
+    "The mantra includes kālāya namaḥ.",
+    "The kalā is identified as the twenty-second.",
+    "The specified location is the left thigh."
+   ],
+   "inference": "One should place the twenty-second kalā in the left thigh with kālāya namaḥ.",
+   "uncertainties": [
+    "The specific name of the twenty-second kalā is not stated explicitly in this verse."
+   ],
+   "plain_english": "With ‘kālāya namaḥ’, one should place the twenty-second kalā in the left thigh."
+  },
+  {
+   "verse": 12516,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "śrī",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vikarṇāya",
+     "gloss": "to-vikarṇa",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "locative adjective qualifying the location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānuni",
+     "gloss": "knee",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the kalā Śrī be placed with the mantra vikarṇāya namaḥ?",
+   "premises": [
+    "The mantra includes vikarṇāya namaḥ.",
+    "The kalā to be placed is Śrī.",
+    "The specified location is the left knee."
+   ],
+   "inference": "One should place Śrī in the left knee with vikarṇāya namaḥ.",
+   "uncertainties": [],
+   "plain_english": "With ‘vikarṇāya namaḥ’, one should place Śrī in the left knee."
+  },
+  {
+   "verse": 12517,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    },
+    {
+     "surface": "jñānāṃ",
+     "gloss": "jñānā",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vikarṇāya",
+     "gloss": "to-vikarṇa",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "locative adjective qualifying the location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṃghake",
+     "gloss": "shin",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the kalā Jñānā be placed with the mantra vikarṇāya namaḥ?",
+   "premises": [
+    "The mantra includes vikarṇāya namaḥ.",
+    "The kalā to be placed is Jñānā.",
+    "The specified location is the left shin."
+   ],
+   "inference": "One should place Jñānā in the left shin with vikarṇāya namaḥ.",
+   "uncertainties": [],
+   "plain_english": "With ‘vikarṇāya namaḥ’, one should place Jñānā in the left shin."
+  },
+  {
+   "verse": 12518,
+   "rows": [
+    {
+     "surface": "kaṭyāṃ",
+     "gloss": "at-hip",
+     "grounds": "locative indicating placement location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "balapramathanāya",
+     "gloss": "to-balapramathana",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyake",
+     "gloss": "guhyakā",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the kalā Guhyakā be placed with the mantra balapramathanāya namaḥ?",
+   "premises": [
+    "The mantra includes balapramathanāya namaḥ.",
+    "The kalā to be placed is Guhyakā.",
+    "The specified location is the hip."
+   ],
+   "inference": "One should place Guhyakā at the hip with balapramathanāya namaḥ.",
+   "uncertainties": [
+    "The form guhyake is taken as the kalā name in context, though its ending is unusual."
+   ],
+   "plain_english": "With ‘balapramathanāya namaḥ’, one should place Guhyakā at the hip."
+  },
+  {
+   "verse": 12519,
+   "rows": [
+    {
+     "surface": "vāma+pārśve",
+     "gloss": "in-left-side",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: vāma+pārśva)"
+    },
+    {
+     "surface": "manonmanāya",
+     "gloss": "to-manonmana",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayaṃ",
+     "gloss": "both",
+     "grounds": "indicates placement on both sides or as a pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "How should placement be performed on the left side with the mantra manonmanāya namaḥ?",
+   "premises": [
+    "The mantra includes manonmanāya namaḥ.",
+    "The specified location is the left side.",
+    "The verse states that both should be placed."
+   ],
+   "inference": "With manonmanāya namaḥ, one should place both on the left side.",
+   "uncertainties": [
+    "The referent of ubhayam is not explicitly named in this verse."
+   ],
+   "plain_english": "With ‘manonmanāya namaḥ’, one should place both on the left side."
+  },
+  {
+   "verse": 12520,
+   "rows": [
+    {
+     "surface": "ṛddhiṃ",
+     "gloss": "ṛddhi",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udak+pāda+tale",
+     "gloss": "on-right-foot-sole",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: udak+pāda+tala)"
+    },
+    {
+     "surface": "sadyojātāya",
+     "gloss": "to-sadyojāta",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the kalā Ṛddhi be placed with the mantra sadyojātāya namaḥ?",
+   "premises": [
+    "The mantra includes sadyojātāya namaḥ.",
+    "The kalā to be placed is Ṛddhi.",
+    "The specified location is the sole of the right foot."
+   ],
+   "inference": "One should place Ṛddhi on the sole of the right foot with sadyojātāya namaḥ.",
+   "uncertainties": [
+    "The element udak is interpreted as indicating the right side in this context."
+   ],
+   "plain_english": "With ‘sadyojātāya namaḥ’, one should place Ṛddhi on the sole of the right foot."
+  },
+  {
+   "verse": 12521,
+   "rows": [
+    {
+     "surface": "vāma+hasta+tale",
+     "gloss": "in-left-hand-palm",
+     "grounds": "locative compound indicating placement location",
+     "morph": "n.loc.sg (compound: vāma+hasta+tala)"
+    },
+    {
+     "surface": "lakṣmīṃ",
+     "gloss": "lakṣmī",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "catustriṃśat+kalāṃ",
+     "gloss": "thirty-fourth-kalā",
+     "grounds": "compound identifying Lakṣmī as the thirty-fourth kalā",
+     "morph": "f.acc.sg (compound: catustriṃśat+kalā)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should the thirty-fourth kalā Lakṣmī be ritually placed on the body?",
+   "premises": [
+    "The kalā to be placed is Lakṣmī.",
+    "Lakṣmī is identified as the thirty-fourth kalā.",
+    "The specified location is the palm of the left hand."
+   ],
+   "inference": "One should place the thirty-fourth kalā Lakṣmī in the palm of the left hand.",
+   "uncertainties": [],
+   "plain_english": "One should place Lakṣmī, the thirty-fourth kalā, in the palm of the left hand."
+  },
+  {
+   "verse": 12522,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśīṃ",
+     "gloss": "thirty-sixth",
+     "grounds": "ordinal indicating the kalā’s position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūrddhani",
+     "gloss": "on-head",
+     "grounds": "locative indicating placement location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣāntiṃ",
+     "gloss": "kṣānti",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √vi-ni-as"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuje",
+     "gloss": "on-arm",
+     "grounds": "locative indicating placement location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ramām",
+     "gloss": "ramā",
+     "grounds": "name of the kalā to be placed",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should the thirty-sixth kalā Kṣānti and the kalā Ramā be placed on the body?",
+   "premises": [
+    "The thirty-sixth kalā is named Kṣānti.",
+    "Another kalā named Ramā is also to be placed.",
+    "The locations specified are the head and the arm."
+   ],
+   "inference": "One should place the thirty-sixth kalā Kṣānti on the head and Ramā on the arm.",
+   "uncertainties": [
+    "The ordinal position of Ramā is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should place the thirty-sixth kalā, Kṣānti, on the head, and Ramā on the arm."
+  },
+  {
+   "verse": 12523,
+   "rows": [
+    {
+     "surface": "udbhavāya",
+     "gloss": "to-udbhava",
+     "grounds": "dative mantra word",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "mantra word of obeisance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive indicating prior utterance",
+     "morph": "abs √pra-vac"
+    },
+    {
+     "surface": "tiryyak+vāma+bhuje",
+     "gloss": "on-side-left-arm",
+     "grounds": "locative compound indicating placement location",
+     "morph": "m.loc.sg (compound: tiryak+vāma+bhuja)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "Where should placement be made after uttering the mantra udbhavāya namaḥ?",
+   "premises": [
+    "The mantra udbhavāya namaḥ is to be uttered.",
+    "The placement action follows the utterance.",
+    "The specified location is the side of the left arm."
+   ],
+   "inference": "After uttering udbhavāya namaḥ, one should place on the side of the left arm.",
+   "uncertainties": [
+    "The specific kalā to be placed is not named in this verse."
+   ],
+   "plain_english": "Having uttered ‘udbhavāya namaḥ’, one should place on the side of the left arm."
+  },
+  {
+   "verse": 12524,
+   "rows": [
+    {
+     "surface": "sadyojāta+ādikān",
+     "gloss": "beginning-with-sadyojāta",
+     "grounds": "compound referring to the group starting with Sadyojāta",
+     "morph": "m.acc.pl (compound: sadyojāta+ādi)"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating completion of prior placements",
+     "morph": "abs √ni-as"
+    },
+    {
+     "surface": "vyāpaka+nyāsam",
+     "gloss": "pervading-placement",
+     "grounds": "compound naming the all-pervading placement rite",
+     "morph": "m.acc.sg (compound: vyāpaka+nyāsa)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing the concluding ritual action",
+     "morph": "3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What ritual action should follow after placing the group beginning with Sadyojāta?",
+   "premises": [
+    "The placements beginning with Sadyojāta have been completed.",
+    "A further placement called vyāpaka-nyāsa is specified.",
+    "The practitioner is instructed to perform it."
+   ],
+   "inference": "After placing those beginning with Sadyojāta, one should perform the pervading placement.",
+   "uncertainties": [],
+   "plain_english": "Having placed those beginning with Sadyojāta, one should perform the pervading placement."
+  }
+ ]
+}

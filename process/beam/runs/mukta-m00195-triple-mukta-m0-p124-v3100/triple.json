@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the series of epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāvaka",
+     "gloss": "fire-like",
+     "grounds": "first member of compound qualifying tejase",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "amita",
+     "gloss": "immeasurable",
+     "grounds": "second member of compound qualifying tejase",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tejase",
+     "gloss": "to-splendor",
+     "grounds": "dative epithet of the addressed deity, parallel to hitāya in prior context",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What immeasurable fiery splendor is attributed to the addressed deity for beneficent purpose?",
+   "premises": [
+    "The addressed deity is described with a series of epithets.",
+    "The deity possesses immeasurable fire-like splendor.",
+    "This splendor is invoked in a beneficent dative context."
+   ],
+   "inference": "The deity is characterized as having boundless, purifying radiance directed toward welfare.",
+   "uncertainties": [
+    "The exact compound structure of pāvaka-amita-tejase is inferred from token sequence and context."
+   ],
+   "plain_english": "And indeed, to the one of immeasurable, fire-like splendor."
+  }
+ ]
+}

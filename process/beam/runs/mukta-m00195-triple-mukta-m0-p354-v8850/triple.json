@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p354",
+ "items": [
+  {
+   "verse": 8850,
+   "rows": [
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "names the mantra's seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "Brahmā",
+     "grounds": "identifies the seer as Brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed ritual attributions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "Gāyatrī",
+     "grounds": "names the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "specifies the metrical attribution",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vajreśvarī",
+     "gloss": "Vajreśvarī",
+     "grounds": "names the presiding goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surī",
+     "gloss": "goddess",
+     "grounds": "identifies Vajreśvarī as the deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which seer, meter, and deity are assigned to this mantra?",
+   "premises": [
+    "Brahmā is named as the seer.",
+    "Gāyatrī is named as the meter.",
+    "Vajreśvarī is named as the goddess."
+   ],
+   "inference": "The mantra is ritually attributed to Brahmā as seer, Gāyatrī as meter, and Vajreśvarī as deity.",
+   "uncertainties": [],
+   "plain_english": "The seer is Brahmā, the meter is Gāyatrī, and the goddess is Vajreśvarī."
+  }
+ ]
+}

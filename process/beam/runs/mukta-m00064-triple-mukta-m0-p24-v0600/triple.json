@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "sa+dantau",
+     "gloss": "with-teeth-biting",
+     "grounds": "compound adjective describing the two; legacy hint 'always-biting'",
+     "morph": "compound"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "adverb of continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vismṛtaṃ",
+     "gloss": "forgotten",
+     "grounds": "past passive participle used substantively; root smṛ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ki",
+     "gloss": "what",
+     "grounds": "interrogative pronoun; sandhi form of kim",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future verb expressing resulting state; root bhū",
+     "morph": "3.sg.act-future"
+    }
+   ],
+   "question": "What consequence of forgetting arises from the two constantly biting, O goddess?",
+   "premises": [
+    "The two are characterized as constantly biting.",
+    "The goddess is addressed regarding a resulting state.",
+    "The outcome is posed as a question about what will be forgotten."
+   ],
+   "inference": "Constant biting by the two raises the issue of what, if anything, will come to be forgotten.",
+   "uncertainties": [
+    "The exact referent and effect of 'sa+dantau' depend on the preceding context of the two entities."
+   ],
+   "plain_english": "O goddess, if those two are constantly biting, what will be forgotten?"
+  }
+ ]
+}

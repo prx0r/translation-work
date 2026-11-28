@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "prabale",
+     "gloss": "in-mighty",
+     "grounds": "locative adjective qualifying kali+kāle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kali+kāle",
+     "gloss": "kali-age",
+     "grounds": "compound kali+kāla in locative",
+     "morph": "compound:m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying rūpam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat+hitam",
+     "gloss": "world-beneficial",
+     "grounds": "compound jagat+hita as predicate",
+     "morph": "compound:n.nom.sg"
+    }
+   ],
+   "question": "What makes this form beneficial for the world during the mighty Kali age?",
+   "premises": [
+    "The Kali age is characterized as mighty and intense.",
+    "This specific form is declared beneficial for the world.",
+    "The preceding context emphasizes special efficacy in the Kali age."
+   ],
+   "inference": "Therefore this form is especially suited and beneficial for beings in the mighty Kali age.",
+   "uncertainties": [
+    "prabale is taken as qualifying kali+kāle, though it could be read more generally."
+   ],
+   "plain_english": "In the mighty Kali age, indeed, this form is beneficial for the world."
+  }
+ ]
+}

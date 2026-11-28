@@ -1,0 +1,593 @@
+{
+ "song": "kul-p66",
+ "items": [
+  {
+   "verse": 1626,
+   "rows": [
+    {
+     "surface": "punavīpulahṛṣṭāste",
+     "gloss": "again-great-joyful-they",
+     "grounds": "compound puna-vīpula-hṛṣṭa plus te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādiyogyā",
+     "gloss": "first-worthy",
+     "grounds": "compound ādi-yogyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritāḥ",
+     "gloss": "thus-spoken",
+     "grounds": "iti plus īritāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the first-worthy ones described as joyful?",
+   "premises": [
+    "They are again great and joyful.",
+    "They are first-worthy.",
+    "They are thus spoken."
+   ],
+   "inference": "The first-worthy are the joyful ones spoken of.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Those first-worthy ones are again great and joyful, as thus spoken."
+  },
+  {
+   "verse": 1627,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "instrumental bhakti",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "pradhvastaparyāyā",
+     "gloss": "destroyed-alternatives",
+     "grounds": "compound pradhvasta-paryāya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "madhyayogyāśca",
+     "gloss": "middle-worthy-and",
+     "grounds": "compound madhya-yogyā plus ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "participle smṛ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the middle-worthy ones remembered?",
+   "premises": [
+    "They are destroyed in alternatives.",
+    "They are middle-worthy and.",
+    "They are remembered."
+   ],
+   "inference": "The middle-worthy are those remembered by devotion.",
+   "uncertainties": [
+    "sandhi boundaries inferred"
+   ],
+   "plain_english": "By devotion, those with destroyed alternatives are middle-worthy and remembered."
+  },
+  {
+   "verse": 1628,
+   "rows": [
+    {
+     "surface": "uttamajñānasaṃjñāścetyupadeśastridhā",
+     "gloss": "highest-knowledge-named-and-thus-instruction-threefold",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeśaḥ",
+     "gloss": "instruction",
+     "grounds": "noun upadeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the threefold instruction named highest knowledge?",
+   "premises": [
+    "The instruction is threefold.",
+    "It is named highest knowledge.",
+    "It is addressed to the dear one."
+   ],
+   "inference": "The threefold instruction is the highest knowledge teaching.",
+   "uncertainties": [
+    "fused token analyzed as given"
+   ],
+   "plain_english": "The threefold instruction, thus named highest knowledge, is given to the dear one."
+  },
+  {
+   "verse": 1629,
+   "rows": [
+    {
+     "surface": "cireṇāpnoti",
+     "gloss": "slowly-obtains",
+     "grounds": "fused cireṇa plus āpnoti",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "verb āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "karmopadeśaścāpi",
+     "gloss": "karma-instruction-and-also",
+     "grounds": "fused compound plus ca api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "participle smṛ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is remembered as karma instruction?",
+   "premises": [
+    "It slowly obtains.",
+    "It is karma instruction and also.",
+    "It is thus remembered."
+   ],
+   "inference": "Karma instruction is remembered as slowly obtaining.",
+   "uncertainties": [
+    "duplicate obtains token retained"
+   ],
+   "plain_english": "Karma instruction, slowly obtaining, is also thus remembered."
+  },
+  {
+   "verse": 1630,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "noun phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb prāp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dharmasya",
+     "gloss": "of-dharma",
+     "grounds": "genitive dharma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeśastathā",
+     "gloss": "instruction-thus",
+     "grounds": "fused upadeśa plus tathā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What fruit does dharma instruction bring?",
+   "premises": [
+    "It obtains fruit.",
+    "It is of dharma.",
+    "Instruction is thus given."
+   ],
+   "inference": "Dharma instruction brings its fruit.",
+   "uncertainties": [
+    "fused token analyzed as given"
+   ],
+   "plain_english": "One obtains the fruit of dharma, and instruction is thus given, dear one."
+  },
+  {
+   "verse": 1631,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānopadeśaśca",
+     "gloss": "knowledge-instruction-and",
+     "grounds": "fused compound plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "told",
+     "grounds": "participle kath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-leader",
+     "grounds": "compound kula-nāyikā vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is told to the kula leader?",
+   "premises": [
+    "Thus knowledge instruction and.",
+    "It is told.",
+    "It is addressed to the kula leader."
+   ],
+   "inference": "Knowledge instruction is told to the kula leader.",
+   "uncertainties": [
+    "compound boundary inferred"
+   ],
+   "plain_english": "Thus knowledge instruction is told to the kula leader."
+  },
+  {
+   "verse": 1632,
+   "rows": [
+    {
+     "surface": "kriyāyāsādirahitā",
+     "gloss": "action-effort-beginning-free",
+     "grounds": "compound kriyā-ādi-rahita",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "noun deva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "noun dīkṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "participle smṛ",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is initiation remembered without action?",
+   "premises": [
+    "It is free from action and effort.",
+    "It is initiation.",
+    "It is remembered threefold."
+   ],
+   "inference": "Initiation free from action is remembered threefold.",
+   "uncertainties": [
+    "compound boundary inferred"
+   ],
+   "plain_english": "Initiation free from action and effort is remembered as threefold."
+  },
+  {
+   "verse": 1633,
+   "rows": [
+    {
+     "surface": "sparśadīkṣopadeśacca",
+     "gloss": "touch-initiation-instruction-and",
+     "grounds": "fused compound plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "told",
+     "grounds": "participle kath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What touch initiation instruction is told?",
+   "premises": [
+    "Touch initiation instruction and.",
+    "It is such.",
+    "It is told to the dear one."
+   ],
+   "inference": "Such touch initiation instruction is told.",
+   "uncertainties": [
+    "fused token analyzed as given"
+   ],
+   "plain_english": "Such touch initiation instruction is told to the dear one."
+  },
+  {
+   "verse": 1634,
+   "rows": [
+    {
+     "surface": "dṛgbhyāṃ",
+     "gloss": "by-two-sights",
+     "grounds": "instrumental dual dṛś",
+     "morph": "f.instr.du"
+    },
+    {
+     "surface": "dīkṣopadeśaśca",
+     "gloss": "initiation-instruction-and",
+     "grounds": "fused compound plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-lady",
+     "grounds": "vocative parameśvarī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What initiation instruction comes by two sights?",
+   "premises": [
+    "It is by two sights.",
+    "Initiation instruction and.",
+    "It is such."
+   ],
+   "inference": "Such initiation instruction comes by two sights.",
+   "uncertainties": [
+    "fused token analyzed as given"
+   ],
+   "plain_english": "Such initiation instruction by two sights is given, supreme lady."
+  },
+  {
+   "verse": 1635,
+   "rows": [
+    {
+     "surface": "vedhadīkṣopadeśaśca",
+     "gloss": "piercing-initiation-instruction-and",
+     "grounds": "fused compound plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasaḥ",
+     "gloss": "mental",
+     "grounds": "adjective mānasa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "verb as optative",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "tathāvidhaḥ",
+     "gloss": "such",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What may be mental piercing initiation?",
+   "premises": [
+    "Piercing initiation instruction and.",
+    "It may be mental.",
+    "It is such."
+   ],
+   "inference": "Mental piercing initiation may be such.",
+   "uncertainties": [
+    "fused token analyzed as given"
+   ],
+   "plain_english": "Piercing initiation instruction may be mental and such."
+  },
+  {
+   "verse": 1636,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktirna",
+     "gloss": "power-not",
+     "grounds": "fused śaktiḥ plus na",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "verb pat",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhirna",
+     "gloss": "success-not",
+     "grounds": "fused siddhiḥ plus na",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "verb jan passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where does success not arise?",
+   "premises": [
+    "Where power does not fall.",
+    "There success does not arise.",
+    "Power and success are negated."
+   ],
+   "inference": "Success does not arise where power does not fall.",
+   "uncertainties": [
+    "fused sandhi retained"
+   ],
+   "plain_english": "Where power does not fall, success is not born."
+  },
+  {
+   "verse": 1637,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "noun dīkṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣapradā",
+     "gloss": "liberation-giving",
+     "grounds": "compound mokṣa-pradā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīttītā",
+     "gloss": "proclaimed",
+     "grounds": "participle parikīrt",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is liberation-giving initiation proclaimed?",
+   "premises": [
+    "Initiation gives liberation.",
+    "It is proclaimed sevenfold.",
+    "It is addressed to the goddess."
+   ],
+   "inference": "Liberation-giving initiation is proclaimed sevenfold.",
+   "uncertainties": [
+    "token spelling retained"
+   ],
+   "plain_english": "Initiation that gives liberation is proclaimed sevenfold, goddess."
+  }
+ ]
+}

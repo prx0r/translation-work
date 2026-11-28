@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p537",
+ "items": [
+  {
+   "verse": 13425,
+   "rows": [
+    {
+     "surface": "arccana+ādi",
+     "gloss": "worship-and-so-forth",
+     "grounds": "compound denoting worship and other related acts; object of kṛtvā",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating manner in accordance with what precedes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive expressing completion of the act prior to the next",
+     "morph": "abs. (kṛ)"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive expressing completion of recitation",
+     "morph": "abs. (jap)"
+    },
+    {
+     "surface": "aṣṭa+uttaraṃ",
+     "gloss": "eight-more",
+     "grounds": "compound qualifying śatam as exceeding by eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral indicating the count of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions and recitation count must follow the preceding preparatory measures?",
+   "premises": [
+    "Worship and related acts are to be performed.",
+    "The performance is done in the manner previously indicated.",
+    "Recitation is to be completed a hundred and eight times."
+   ],
+   "inference": "After the preceding preparation, one must perform worship and related acts and recite one hundred and eight times.",
+   "uncertainties": [
+    "The specific acts included in arccana+ādi are not enumerated in this verse."
+   ],
+   "plain_english": "Having likewise performed worship and the other acts, and having recited one hundred and eight times."
+  }
+ ]
+}

@@ -1,0 +1,978 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "arcanāṅgaṃ",
+     "gloss": "worship-limb",
+     "grounds": "compound arcanā + aṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyavidhiḥ",
+     "gloss": "food-offering-rite",
+     "grounds": "compound naivedya + vidhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-kunda",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the worship-limb and food-offering rite characteristics of the kunda?",
+   "premises": [
+    "arcanāṅgaṃ names a worship limb",
+    "naivedyavidhiḥ names a food-offering rite",
+    "kuṇḍasya lakṣaṇam gives the kunda's characteristic"
+   ],
+   "inference": "The verse lists worship-limb and food-offering rite as kunda characteristics.",
+   "uncertainties": [
+    "exact grammatical case of lakṣaṇam in context"
+   ],
+   "plain_english": "The worship-limb and the food-offering rite are characteristics of the kunda."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "bhūparīkṣā",
+     "gloss": "earth-examination",
+     "grounds": "compound bhū + parīkṣā",
+     "morph": "compound"
+    },
+    {
+     "surface": "praveśārthabalirgrāmādilakṣaṇam",
+     "gloss": "entrance-purpose-offering-village-etc-characteristic",
+     "grounds": "compound praveśa + artha + bali + grāma + ādi + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What are the earth-examination and entrance-purpose offering characteristics for village and related matters?",
+   "premises": [
+    "bhūparīkṣā names earth examination",
+    "praveśārthabalirgrāmādilakṣaṇam names entrance-purpose offering and village characteristics"
+   ],
+   "inference": "The verse pairs earth examination with entrance-purpose offering characteristics.",
+   "uncertainties": [
+    "internal sandhi and compound boundaries"
+   ],
+   "plain_english": "Earth examination and entrance-purpose offering characteristics for village and related matters are listed."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "padavinyāsabhedaḥ",
+     "gloss": "foot-placement-difference",
+     "grounds": "compound pada + vinyāsa + bheda",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtramarmādilakṣaṇam",
+     "gloss": "thread-vitalpoint-etc-characteristic",
+     "grounds": "compound sūtra + marma + ādi + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What foot-placement difference and thread vital-point characteristics are included?",
+   "premises": [
+    "padavinyāsabhedaḥ names foot-placement difference",
+    "sūtramarmādilakṣaṇam names thread vital-point characteristics"
+   ],
+   "inference": "The verse lists foot-placement difference and thread vital-point characteristics.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Foot-placement difference and thread vital-point characteristics are included."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "vistārāyāma",
+     "gloss": "extent-length",
+     "grounds": "compound vistāra + āyāma",
+     "morph": "compound"
+    },
+    {
+     "surface": "āyādilakṣyaṃ",
+     "gloss": "arrival-etc-mark",
+     "grounds": "compound āya + ādi + lakṣya",
+     "morph": "compound"
+    },
+    {
+     "surface": "nakṣatracakrakam",
+     "gloss": "constellation-wheel",
+     "grounds": "compound nakṣatra + cakra",
+     "morph": "compound"
+    }
+   ],
+   "question": "What extent-length, arrival-mark, and constellation-wheel topics are listed?",
+   "premises": [
+    "vistārāyāma names extent length",
+    "āyādilakṣyaṃ names arrival mark",
+    "nakṣatracakrakam names constellation wheel"
+   ],
+   "inference": "The verse lists extent-length, arrival-mark, and constellation-wheel topics.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Extent-length, arrival-mark, and constellation-wheel topics are listed."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "grāmādidevatāsthānaṃ",
+     "gloss": "village-etc-deity-place",
+     "grounds": "compound grāma + ādi + devatā + sthāna",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvijasaṃkhyāvidhānakam",
+     "gloss": "twice-born-count-rite",
+     "grounds": "compound dvija + saṃkhyā + vidhāna",
+     "morph": "compound"
+    }
+   ],
+   "question": "What village-deity place and twice-born count rite are listed?",
+   "premises": [
+    "grāmādidevatāsthānaṃ names village-deity place",
+    "dvijasaṃkhyāvidhānakam names twice-born count rite"
+   ],
+   "inference": "The verse lists village-deity place and twice-born count rite.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Village-deity place and twice-born count rite are listed."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "aṅgopajīvināṃ",
+     "gloss": "of-limb-subservient-ones",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "garbhanyāsasya",
+     "gloss": "of-embryo-placement",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What place of limb-subservient ones and embryo-placement characteristic are listed?",
+   "premises": [
+    "aṅgopajīvināṃ sthānaṃ names place of limb-subservient ones",
+    "garbhanyāsasya lakṣaṇam names embryo-placement characteristic"
+   ],
+   "inference": "The verse lists place of limb-subservient ones and embryo-placement characteristic.",
+   "uncertainties": [
+    "case of sthānaṃ in context"
+   ],
+   "plain_english": "The place of limb-subservient ones and the characteristic of embryo placement are listed."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "vāstuśāntiḥ",
+     "gloss": "site-pacification",
+     "grounds": "compound vāstu + śānti",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālāyā",
+     "gloss": "of-hall",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rite",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What site-pacification and hall rite come thereafter beyond?",
+   "premises": [
+    "vāstuśāntiḥ names site pacification",
+    "śālāyā vidhānaṃ names hall rite",
+    "tataḥ param marks thereafter beyond"
+   ],
+   "inference": "The verse lists site-pacification and hall rite as subsequent topics.",
+   "uncertainties": [
+    "exact scope of param"
+   ],
+   "plain_english": "Site-pacification and the hall rite come thereafter beyond."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "vardhamānaṃ",
+     "gloss": "increasing",
+     "grounds": "present participle masculine/neuter nominative/accusative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khastikaṃ",
+     "gloss": "swastika",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūcakāravyam",
+     "gloss": "ornament-work",
+     "grounds": "compound rūcaka + āravya",
+     "morph": "compound"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What increasing swastika and ornament-work come thereafter beyond?",
+   "premises": [
+    "vardhamānaṃ khastikaṃ names increasing swastika",
+    "rūcakāravyam names ornament work",
+    "ataḥ param marks thereafter beyond"
+   ],
+   "inference": "The verse lists increasing swastika and ornament-work as subsequent topics.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Increasing swastika and ornament-work come thereafter beyond."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "lāṅgalākhyaṃ",
+     "gloss": "plow-named",
+     "grounds": "compound lāṅgala + ākhya",
+     "morph": "compound"
+    },
+    {
+     "surface": "maulikaṃ",
+     "gloss": "root",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikāpadmakaṃ",
+     "gloss": "garland-lotus",
+     "grounds": "compound mālikā + padmaka",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What plow-named root and garland-lotus come beyond?",
+   "premises": [
+    "lāṅgalākhyaṃ maulikaṃ names plow-named root",
+    "mālikāpadmakaṃ names garland-lotus",
+    "param marks beyond"
+   ],
+   "inference": "The verse lists plow-named root and garland-lotus as subsequent topics.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Plow-named root and garland-lotus come beyond."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "ādyeṣṭakopapīṭhaṃ",
+     "gloss": "first-brick-sub-base",
+     "grounds": "compound ādya + iṣṭaka + upapīṭha",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādānāṃ",
+     "gloss": "of-feet",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mānalakṣaṇam",
+     "gloss": "measure-characteristic",
+     "grounds": "compound māna + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What first-brick sub-base and feet measure characteristic are listed?",
+   "premises": [
+    "ādyeṣṭakopapīṭhaṃ names first-brick sub-base",
+    "pādānāṃ mānalakṣaṇam names feet measure characteristic"
+   ],
+   "inference": "The verse lists first-brick sub-base and feet measure characteristic.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "First-brick sub-base and feet measure characteristic are listed."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "kaṇṭhasya",
+     "gloss": "of-neck",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śikharasya",
+     "gloss": "of-spire",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthūpikāyāḥ",
+     "gloss": "of-finial",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristics of neck, spire, and finial are listed?",
+   "premises": [
+    "kaṇṭhasya names neck",
+    "śikharasya names spire",
+    "sthūpikāyāḥ names finial",
+    "lakṣaṇam names characteristic"
+   ],
+   "inference": "The verse lists characteristics of neck, spire, and finial.",
+   "uncertainties": [
+    "exact case of lakṣaṇam in context"
+   ],
+   "plain_english": "Characteristics of neck, spire, and finial are listed."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "mūrdheṣṭakāvidhānaṃ",
+     "gloss": "head-brick-rite",
+     "grounds": "compound mūrdha + iṣṭakā + vidhāna",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgalakṣmāṅkurārpaṇam",
+     "gloss": "linga-mark-sprout-offering",
+     "grounds": "compound liṅga + lakṣma + aṅkura + arpaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What head-brick rite and linga-mark sprout offering are listed?",
+   "premises": [
+    "mūrdheṣṭakāvidhānaṃ names head-brick rite",
+    "liṅgalakṣmāṅkurārpaṇam names linga-mark sprout offering"
+   ],
+   "inference": "The verse lists head-brick rite and linga-mark sprout offering.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Head-brick rite and linga-mark sprout offering are listed."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "śūlasaṃsthāpanaṃ",
+     "gloss": "trident-installation",
+     "grounds": "compound śūla + saṃsthāpana",
+     "morph": "compound"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasthāpanasaṃjñakam",
+     "gloss": "deity-installation-named",
+     "grounds": "compound deva + sthāpana + saṃjñaka",
+     "morph": "compound"
+    }
+   ],
+   "question": "What trident installation and deity installation named afterwards are listed?",
+   "premises": [
+    "śūlasaṃsthāpanaṃ names trident installation",
+    "paścād marks afterwards",
+    "devasthāpanasaṃjñakam names deity installation"
+   ],
+   "inference": "The verse lists trident installation and deity installation afterwards.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Trident installation and deity installation afterwards are listed."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapānāṃ",
+     "gloss": "of-pavilions",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākārāṇāṃ",
+     "gloss": "of-walls",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristics of pavilions and walls are listed?",
+   "premises": [
+    "maṇṭapānāṃ lakṣaṇaṃ names pavilion characteristic",
+    "prākārāṇāṃ lakṣaṇam names wall characteristic"
+   ],
+   "inference": "The verse lists characteristics of pavilions and walls.",
+   "uncertainties": [
+    "case of lakṣaṇaṃ in context"
+   ],
+   "plain_english": "Characteristics of pavilions and walls are listed."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "vṛṣabhasthāpanaṃ",
+     "gloss": "bull-installation",
+     "grounds": "compound vṛṣabha + sthāpana",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopurasthāpanaṃ",
+     "gloss": "gateway-installation",
+     "grounds": "compound gopura + sthāpana",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bull installation and gateway installation at end beyond are listed?",
+   "premises": [
+    "vṛṣabhasthāpanaṃ names bull installation",
+    "ante marks at end",
+    "gopurasthāpanaṃ names gateway installation",
+    "param marks beyond"
+   ],
+   "inference": "The verse lists bull installation and gateway installation at end beyond.",
+   "uncertainties": [
+    "scope of ante and param"
+   ],
+   "plain_english": "Bull installation and gateway installation at end beyond are listed."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakalānāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural masculine/neuter",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāsnapanalakṣaṇam",
+     "gloss": "great-bathing-characteristic",
+     "grounds": "compound mahā + snapana + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What worship of all and great-bathing characteristic are listed?",
+   "premises": [
+    "arcanaṃ sakalānāṃ names worship of all",
+    "mahāsnapanalakṣaṇam names great-bathing characteristic"
+   ],
+   "inference": "The verse lists worship of all and great-bathing characteristic.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Worship of all and great-bathing characteristic are listed."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "nīrājanakriyā",
+     "gloss": "lamp-waving-rite",
+     "grounds": "compound nīrājana + kriyā",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvā",
+     "gloss": "prior",
+     "grounds": "nominative feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phalgunīpūjanaṃ",
+     "gloss": "phalguni-worship",
+     "grounds": "compound phalgunī + pūjana",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prior lamp-waving rite and phalguni worship beyond are listed?",
+   "premises": [
+    "nīrājanakriyā names lamp-waving rite",
+    "pūrvā marks prior",
+    "phalgunīpūjanaṃ names phalguni worship",
+    "param marks beyond"
+   ],
+   "inference": "The verse lists prior lamp-waving rite and phalguni worship beyond.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Prior lamp-waving rite and phalguni worship beyond are listed."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "dīpāvalividhānaṃ",
+     "gloss": "lamp-row-rite",
+     "grounds": "compound dīpāvali + vidhāna",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtakambalapūjanam",
+     "gloss": "ghee-blanket-worship",
+     "grounds": "compound ghṛta + kambala + pūjana",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lamp-row rite and ghee-blanket worship are listed?",
+   "premises": [
+    "dīpāvalividhānaṃ names lamp-row rite",
+    "ghṛtakambalapūjanam names ghee-blanket worship"
+   ],
+   "inference": "The verse lists lamp-row rite and ghee-blanket worship.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Lamp-row rite and ghee-blanket worship are listed."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "vasantejyā",
+     "gloss": "spring-sacrifice",
+     "grounds": "compound vasanta + ijyā",
+     "morph": "compound"
+    },
+    {
+     "surface": "śītakumbhaṃ",
+     "gloss": "cool-pot",
+     "grounds": "compound śīta + kumbha",
+     "morph": "compound"
+    },
+    {
+     "surface": "phalapūjā",
+     "gloss": "fruit-worship",
+     "grounds": "compound phala + pūjā",
+     "morph": "compound"
+    },
+    {
+     "surface": "pavitrakam",
+     "gloss": "purifier",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What spring sacrifice, cool pot, fruit worship, and purifier are listed?",
+   "premises": [
+    "vasantejyā names spring sacrifice",
+    "śītakumbhaṃ names cool pot",
+    "phalapūjā names fruit worship",
+    "pavitrakam names purifier"
+   ],
+   "inference": "The verse lists spring sacrifice, cool pot, fruit worship, and purifier.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Spring sacrifice, cool pot, fruit worship, and purifier are listed."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "sthālīpākavidhiḥ",
+     "gloss": "pot-cooking-rite",
+     "grounds": "compound sthālī + pāka + vidhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "svapnādhyāyaḥ",
+     "gloss": "dream-chapter",
+     "grounds": "compound svapna + adhyāya",
+     "morph": "compound"
+    },
+    {
+     "surface": "nirvāṇasaṃskṛtiḥ",
+     "gloss": "liberation-rite",
+     "grounds": "compound nirvāṇa + saṃskṛti",
+     "morph": "compound"
+    }
+   ],
+   "question": "What pot-cooking rite, dream chapter, and liberation rite are listed?",
+   "premises": [
+    "sthālīpākavidhiḥ names pot-cooking rite",
+    "svapnādhyāyaḥ names dream chapter",
+    "nirvāṇasaṃskṛtiḥ names liberation rite"
+   ],
+   "inference": "The verse lists pot-cooking rite, dream chapter, and liberation rite.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Pot-cooking rite, dream chapter, and liberation rite are listed."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "śatābhiṣekaḥ",
+     "gloss": "hundred-ablution",
+     "grounds": "compound śata + abhiṣeka",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antyeṣṭiḥ",
+     "gloss": "final-rite",
+     "grounds": "compound antya + iṣṭi",
+     "morph": "compound"
+    },
+    {
+     "surface": "pitṛyajñavidhiḥ",
+     "gloss": "ancestors-sacrifice-rite",
+     "grounds": "compound pitṛ + yajña + vidhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What hundred-ablution, final rite, and ancestors-sacrifice rite thereafter are listed?",
+   "premises": [
+    "śatābhiṣekaḥ names hundred ablution",
+    "antyeṣṭiḥ names final rite",
+    "pitṛyajñavidhiḥ names ancestors sacrifice rite",
+    "tataḥ marks thereafter"
+   ],
+   "inference": "The verse lists hundred-ablution, final rite, and ancestors-sacrifice rite thereafter.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Hundred-ablution, final rite, and ancestors-sacrifice rite thereafter are listed."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "nityanaimittikaprāyaścittam",
+     "gloss": "daily-occasional-expiation",
+     "grounds": "compound nitya + naimittika + prāyaścitta",
+     "morph": "compound"
+    },
+    {
+     "surface": "utsavaniṣkṛtiḥ",
+     "gloss": "festival-expiation",
+     "grounds": "compound utsava + niṣkṛti",
+     "morph": "compound"
+    }
+   ],
+   "question": "What daily-occasional expiation and festival expiation are listed?",
+   "premises": [
+    "nityanaimittikaprāyaścittam names daily-occasional expiation",
+    "utsavaniṣkṛtiḥ names festival expiation"
+   ],
+   "inference": "The verse lists daily-occasional expiation and festival expiation.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Daily-occasional expiation and festival expiation are listed."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "saṃprokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-base",
+     "grounds": "genitive singular masculine/neuter",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "nominative/accusative neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sprinkling and base installation thereafter beyond are listed?",
+   "premises": [
+    "saṃprokṣaṇaṃ names sprinkling",
+    "pīṭhasya sthāpanaṃ names base installation",
+    "tataḥ param marks thereafter beyond"
+   ],
+   "inference": "The verse lists sprinkling and base installation thereafter beyond.",
+   "uncertainties": [
+    "case of sthāpanaṃ in context"
+   ],
+   "plain_english": "Sprinkling and base installation thereafter beyond are listed."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "prāsādalakṣaṇaṃ",
+     "gloss": "temple-characteristic",
+     "grounds": "compound prāsāda + lakṣaṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṅgavaśāt",
+     "gloss": "by-linga",
+     "grounds": "compound liṅga + vaśāt",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsādalakṣaṇam",
+     "gloss": "temple-characteristic",
+     "grounds": "compound prāsāda + lakṣaṇa",
+     "morph": "compound"
+    }
+   ],
+   "question": "What temple characteristic by linga and temple characteristic are listed?",
+   "premises": [
+    "prāsādalakṣaṇaṃ names temple characteristic",
+    "liṅgavaśāt marks by linga",
+    "prāsādalakṣaṇam names temple characteristic"
+   ],
+   "inference": "The verse lists temple characteristic by linga and temple characteristic.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Temple characteristic by linga and temple characteristic are listed."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "indeclinable compound of tatra and eva indicating emphasis on that very place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekadine",
+     "gloss": "on-one-day",
+     "grounds": "locative compound expressing a single specific day",
+     "morph": "compound: eka+dinam, loc.sg.nt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūjayitum",
+     "gloss": "to-worship",
+     "grounds": "infinitive expressing purpose of ritual worship",
+     "morph": "infinitive, root pūj"
+    },
+    {
+     "surface": "japtum caiva",
+     "gloss": "to-recite-and-indeed",
+     "grounds": "fused token containing infinitive japtum with indeclinables ca and eva; expresses an additional emphasized purpose",
+     "morph": "infinitive, root jap + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "sureśvarīm",
+     "gloss": "goddess-of-gods",
+     "grounds": "accusative object denoting the supreme goddess as recipient of worship and recitation",
+     "morph": "compound: sura+īśvarī, f.acc.sg"
+    }
+   ],
+   "question": "On what specific day and for what ritual purposes was the goddess of gods approached in that very place?",
+   "premises": [
+    "The action takes place in that very location.",
+    "The occasion is a single specific day.",
+    "The intended acts are worship and recitation directed to the goddess of gods."
+   ],
+   "inference": "On that particular day in that very place, the purpose was to worship and recite to the goddess of gods.",
+   "uncertainties": [
+    "The subject performing the worship and recitation is not stated in this verse."
+   ],
+   "plain_english": "O goddess, there on one day, it was to worship and indeed to recite to the goddess of gods."
+  }
+ ]
+}

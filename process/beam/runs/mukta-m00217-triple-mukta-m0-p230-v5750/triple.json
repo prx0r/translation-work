@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p230",
+ "items": [
+  {
+   "verse": 5750,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "not-having-known",
+     "grounds": "absolutive expressing prior absence of knowledge",
+     "morph": "(indecl., gerund) √jñā"
+    },
+    {
+     "surface": "kullikām",
+     "gloss": "kullikā",
+     "grounds": "name of the mantra or power referred to",
+     "morph": "acc.sg.f."
+    },
+    {
+     "surface": "enāṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pointing to the specified Kullikā",
+     "morph": "acc.sg.f."
+    },
+    {
+     "surface": "japate",
+     "gloss": "chants",
+     "grounds": "ritual recitation of the mantra",
+     "morph": "3.sg.middle-present √jap"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "adhamaḥ",
+     "gloss": "lowest",
+     "grounds": "qualifies the person as spiritually inferior or unfit",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f."
+    }
+   ],
+   "question": "What is the spiritual status of one who chants without knowing this Kullikā?",
+   "premises": [
+    "Chanting is performed by a person.",
+    "This chanting occurs without knowing this Kullikā.",
+    "Such a person is declared to be the lowest."
+   ],
+   "inference": "Therefore, chanting without knowledge of this Kullikā marks the practitioner as spiritually unfit or lowest.",
+   "uncertainties": [
+    "The specific identity and function of Kullikā in this context is not fully specified in the verse."
+   ],
+   "plain_english": "O beloved, whoever chants without knowing this Kullikā is the lowest."
+  }
+ ]
+}

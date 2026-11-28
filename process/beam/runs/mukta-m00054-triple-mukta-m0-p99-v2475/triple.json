@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "tvān",
+     "gloss": "you",
+     "grounds": "object of satisfaction; accusative form of second-person pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "indicates perpetual continuity of the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritarpayāmi",
+     "gloss": "i-fully-satisfy",
+     "grounds": "first-person declaration of complete ritual satisfaction",
+     "morph": "1.sg.pres.act.ind √tṛp+pari"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "whole",
+     "grounds": "qualifies the object as satisfied in entirety",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "śvetābjamadhyāsane",
+     "gloss": "seated-in-white-lotus-center",
+     "grounds": "locative compound describing the deity's seat: śveta-abja-madhya-āsana",
+     "morph": "compound.loc.sg.n"
+    }
+   ],
+   "question": "In what form and manner is the addressed deity perpetually and completely satisfied?",
+   "premises": [
+    "The speaker performs an act of complete satisfaction.",
+    "This act of satisfaction is performed perpetually.",
+    "The addressed deity is whole and seated in the center of a white lotus."
+   ],
+   "inference": "Therefore, the deity is perpetually and wholly satisfied in the form seated at the center of a white lotus.",
+   "uncertainties": [
+    "The exact referent of 'tvān' depends on the preceding ritual sequence and is not fully specified within this verse alone."
+   ],
+   "plain_english": "I always fully satisfy you, whole and complete, as you are seated in the center of a white lotus."
+  }
+ ]
+}

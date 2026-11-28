@@ -1,0 +1,548 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2838,
+   "rows": [
+    {
+     "surface": "raktapuṣpādiṣu",
+     "gloss": "among-red-flowers-etc",
+     "grounds": "locative plural of red-flower group",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "anyatamena",
+     "gloss": "by-any-one",
+     "grounds": "instrumental singular of any-one",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Which flower among red flowers etc is to be used here?",
+   "premises": [
+    "red flowers are listed",
+    "one is chosen among them"
+   ],
+   "inference": "the rite selects one red flower from the group",
+   "uncertainties": [
+    "exact flower not specified"
+   ],
+   "plain_english": "Among red flowers and the rest, one is chosen."
+  },
+  {
+   "verse": 2839,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityārccānirataḥ",
+     "gloss": "devoted-to-daily-worship",
+     "grounds": "compound of daily worship and devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puraścaraṇānantaram",
+     "gloss": "after-puraścaraṇa",
+     "grounds": "ablative or locative sense after puraścaraṇa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "practices",
+     "grounds": "accusative plural of practice",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "After puraścaraṇa does daily worship still apply to those practices?",
+   "premises": [
+    "daily worship is named",
+    "puraścaraṇa has ended",
+    "those practices remain"
+   ],
+   "inference": "the verse links daily worship to practices after puraścaraṇa",
+   "uncertainties": [
+    "scope of api unclear"
+   ],
+   "plain_english": "There, even after puraścaraṇa, one devoted to daily worship uses those practices."
+  },
+  {
+   "verse": 2840,
+   "rows": [
+    {
+     "surface": "padmaiḥ",
+     "gloss": "with-lotuses",
+     "grounds": "instrumental plural of lotus",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sitaiḥ",
+     "gloss": "white",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "lohitaiḥ",
+     "gloss": "red",
+     "grounds": "instrumental plural adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular of worship",
+     "morph": "3.sg.act.opt. root pūj"
+    },
+    {
+     "surface": "indirāptaye",
+     "gloss": "for-indirā",
+     "grounds": "dative singular for Indirā",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Which lotuses are used to worship Indira here?",
+   "premises": [
+    "white lotuses are named",
+    "red lotuses are named",
+    "worship is for Indirā"
+   ],
+   "inference": "white and red lotuses are used to worship Indirā",
+   "uncertainties": [
+    "exact ritual order not stated"
+   ],
+   "plain_english": "One should worship Indirā with white and red lotuses."
+  },
+  {
+   "verse": 2841,
+   "rows": [
+    {
+     "surface": "japāvandhūkakusumaiḥ",
+     "gloss": "with-japā-bandhūka-flowers",
+     "grounds": "instrumental plural compound of flowers",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāḍimajaiḥ",
+     "gloss": "with-pomegranate-born",
+     "grounds": "instrumental plural from pomegranate",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers are used besides lotuses for this worship?",
+   "premises": [
+    "japā and bandhūka flowers are named",
+    "pomegranate-born flowers are named",
+    "also is added"
+   ],
+   "inference": "these flowers supplement the lotus worship",
+   "uncertainties": [
+    "whether all are simultaneous"
+   ],
+   "plain_english": "Thus also with japā, bandhūka, and pomegranate-born flowers."
+  },
+  {
+   "verse": 2842,
+   "rows": [
+    {
+     "surface": "punnāgajaiḥ",
+     "gloss": "with-punnāga-born",
+     "grounds": "instrumental plural from punnāga",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pāṭalaiḥ",
+     "gloss": "with-pāṭala",
+     "grounds": "instrumental plural of pāṭala",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "campakotthaiḥ",
+     "gloss": "with-campaka-born",
+     "grounds": "instrumental plural from campaka",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-sacrifice",
+     "grounds": "optative third singular of sacrifice",
+     "morph": "3.sg.act.opt. root yaj"
+    },
+    {
+     "surface": "śive",
+     "gloss": "to-śiva",
+     "grounds": "dative singular to Śiva",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Which flowers are offered to Śiva in sacrifice here?",
+   "premises": [
+    "punnāga-born flowers are named",
+    "pāṭala flowers are named",
+    "campaka-born flowers are named",
+    "sacrifice is to Śiva"
+   ],
+   "inference": "these flowers are offered to Śiva",
+   "uncertainties": [
+    "exact offering sequence not stated"
+   ],
+   "plain_english": "One should sacrifice to Śiva with punnāga-born, pāṭala, and campaka-born flowers."
+  },
+  {
+   "verse": 2843,
+   "rows": [
+    {
+     "surface": "proktakāleṣu",
+     "gloss": "at-stated-times",
+     "grounds": "locative plural of stated time",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vittāṭyaḥ",
+     "gloss": "wealth-lord",
+     "grounds": "nominative singular of wealth lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharādhānyāṃśukādimān",
+     "gloss": "earth-grain-cloth-etc",
+     "grounds": "compound of earth grain cloth and more",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third singular middle of obtain",
+     "morph": "3.sg.mid.pres. root labh"
+    }
+   ],
+   "question": "What does the wealth lord obtain at stated times?",
+   "premises": [
+    "stated times are named",
+    "wealth lord is subject",
+    "earth grain cloth etc are obtained"
+   ],
+   "inference": "the wealth lord obtains earth, grain, cloth, and more at stated times",
+   "uncertainties": [
+    "exact list of etcetera"
+   ],
+   "plain_english": "At stated times the wealth lord obtains earth, grain, cloth, and more."
+  },
+  {
+   "verse": 2844,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third singular middle of obtain",
+     "morph": "3.sg.mid.pres. root labh"
+    },
+    {
+     "surface": "proktakālena",
+     "gloss": "at-stated-time",
+     "grounds": "instrumental singular of stated time",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālāgurudravaiḥ",
+     "gloss": "with-agaru-liquids",
+     "grounds": "instrumental plural of agaru liquids",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is obtained at stated time with agaru liquids?",
+   "premises": [
+    "obtaining is stated",
+    "stated time is named",
+    "agaru liquids are used"
+   ],
+   "inference": "the stated result is obtained with agaru liquids at the stated time",
+   "uncertainties": [
+    "result object omitted in this verse"
+   ],
+   "plain_english": "Thus one obtains at the stated time with agaru liquids."
+  },
+  {
+   "verse": 2845,
+   "rows": [
+    {
+     "surface": "karpūraiḥ",
+     "gloss": "with-camphor",
+     "grounds": "instrumental plural of camphor",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āyuṣaḥ",
+     "gloss": "for-lifespan",
+     "grounds": "genitive singular of lifespan",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhaiḥ",
+     "gloss": "with-siddha",
+     "grounds": "instrumental plural of siddha",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vaśyastrīdhanasiddhaye",
+     "gloss": "for-subjugation-women-wealth-success",
+     "grounds": "dative singular of success in subjugation",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What is achieved with camphor for lifespan and siddha success?",
+   "premises": [
+    "camphor is used",
+    "lifespan is named",
+    "siddha means are named",
+    "subjugation of women and wealth is named"
+   ],
+   "inference": "camphor and siddha means serve lifespan and subjugation success",
+   "uncertainties": [
+    "exact relation of lifespan to success"
+   ],
+   "plain_english": "With camphor for lifespan and siddha means, one gains success in subjugating women and wealth."
+  },
+  {
+   "verse": 2846,
+   "rows": [
+    {
+     "surface": "kandarpasama",
+     "gloss": "equal-to-kandarpa",
+     "grounds": "compound adjective equal to Kandarpa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saubhāgyaḥ",
+     "gloss": "in-auspiciousness",
+     "grounds": "locative sense of auspiciousness",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vanitāsu",
+     "gloss": "among-women",
+     "grounds": "locative plural among women",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative singular of man",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular of become",
+     "morph": "3.sg.act.opt. root bhū"
+    }
+   ],
+   "question": "What becomes of a man equal to Kandarpa among women?",
+   "premises": [
+    "man is subject",
+    "equal to Kandarpa is stated",
+    "among women is stated",
+    "becomes is stated"
+   ],
+   "inference": "such a man becomes auspicious among women",
+   "uncertainties": [
+    "exact degree of auspiciousness"
+   ],
+   "plain_english": "A man equal to Kandarpa becomes auspicious among women."
+  },
+  {
+   "verse": 2847,
+   "rows": [
+    {
+     "surface": "abdamātram",
+     "gloss": "for-a-year",
+     "grounds": "accusative singular for a year",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "locative singular of world",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśrutaḥ",
+     "gloss": "famous",
+     "grounds": "nominative singular of famous",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative third singular of be",
+     "morph": "3.sg.act.opt. root as"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaibhavaiḥ",
+     "gloss": "with-splendors",
+     "grounds": "instrumental plural of splendor",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "When does one become famous in world with splendors?",
+   "premises": [
+    "for a year is stated",
+    "then is stated",
+    "in world is stated",
+    "famous with splendors is stated"
+   ],
+   "inference": "after a year one becomes famous in the world with splendors",
+   "uncertainties": [
+    "whether year is exact duration"
+   ],
+   "plain_english": "Then, after a year, he becomes famous in the world with splendors."
+  },
+  {
+   "verse": 2848,
+   "rows": [
+    {
+     "surface": "pūjitaiḥ",
+     "gloss": "by-worshipped",
+     "grounds": "instrumental plural of worshipped things",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "those",
+     "grounds": "instrumental plural pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagdhaiḥ",
+     "gloss": "eaten",
+     "grounds": "instrumental plural of eaten",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative third singular of be",
+     "morph": "3.sg.act.opt. root as"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative singular of man",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "third singular present of go",
+     "morph": "3.sg.act.pres. root yā"
+    },
+    {
+     "surface": "akhilapriyaḥ",
+     "gloss": "all-dear",
+     "grounds": "nominative singular all-dear",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to a man who eats worshipped offerings?",
+   "premises": [
+    "worshipped things are named",
+    "those are eaten",
+    "man is subject",
+    "all-dear is result"
+   ],
+   "inference": "a man who eats those worshipped offerings becomes all-dear",
+   "uncertainties": [
+    "whether all-dear means beloved by all"
+   ],
+   "plain_english": "A man who eats those worshipped offerings becomes dear to all."
+  },
+  {
+   "verse": 2849,
+   "rows": [
+    {
+     "surface": "kumudadvayaiḥ",
+     "gloss": "with-two-kumuda",
+     "grounds": "instrumental plural of two kumuda",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "raktasitaiḥ",
+     "gloss": "red-white",
+     "grounds": "instrumental plural adjective red-white",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which kumuda pair is used in this rite?",
+   "premises": [
+    "two kumuda are named",
+    "red and white are named"
+   ],
+   "inference": "the rite uses a pair of red and white kumuda",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "With two kumuda, red and white."
+  }
+ ]
+}

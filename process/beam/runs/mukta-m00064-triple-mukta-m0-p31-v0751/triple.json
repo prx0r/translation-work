@@ -1,0 +1,1177 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the previously mentioned moment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣaṇam",
+     "gloss": "moment",
+     "grounds": "time unit indicated earlier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent of declaration",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "past statement made by the speaker",
+     "morph": "n.nom.sg ppp pra+√vac"
+    },
+    {
+     "surface": "hṛt-madhye",
+     "gloss": "in-heart-middle",
+     "grounds": "location within the heart; compound hṛt+madhya",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sulocane",
+     "gloss": "o-beautiful-eyed-one",
+     "grounds": "vocative address to the goddess; compound su+locana",
+     "morph": "f.voc.sg compound"
+    }
+   ],
+   "question": "What moment and inner location were previously declared to the beautiful-eyed goddess?",
+   "premises": [
+    "A specific moment was declared by the speaker.",
+    "That declaration concerns the middle of the heart.",
+    "The beautiful-eyed goddess is being addressed."
+   ],
+   "inference": "The verse recalls an earlier teaching about a particular moment in the heart.",
+   "uncertainties": [],
+   "plain_english": "O beautiful-eyed one, I indeed declared that moment in the middle of the heart."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "argham",
+     "gloss": "offering",
+     "grounds": "ritual offering or its duration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jālandhare",
+     "gloss": "in-jalandhara",
+     "grounds": "sacred site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "prescribed understanding",
+     "morph": "n.nom.sg gerundive √jñā"
+    },
+    {
+     "surface": "uḍḍīyāne",
+     "gloss": "in-uddiyana",
+     "grounds": "sacred site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tad-ardhakam",
+     "gloss": "its-half",
+     "grounds": "half of that offering measure; compound tad+ardhaka",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "How should the offering measure be understood at Jalandhara and Uddiyana?",
+   "premises": [
+    "The offering is to be known in Jalandhara.",
+    "In Uddiyana the measure is half of that.",
+    "The two sites have different prescribed measures."
+   ],
+   "inference": "The offering measure at Uddiyana is half the measure at Jalandhara.",
+   "uncertainties": [
+    "Whether argham refers to duration or quantity is context-dependent."
+   ],
+   "plain_english": "The offering should be known as full in Jalandhara and as half of that in Uddiyana."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "nīlakaṇṭha-samīpe",
+     "gloss": "near-nilakantha",
+     "grounds": "location near Nilakantha; compound nīlakaṇṭha+samīpa",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "required action",
+     "morph": "f.nom.sg gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "consideration or calculation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is no deliberation required in the vicinity of Nilakantha?",
+   "premises": [
+    "The location near Nilakantha is specified.",
+    "Deliberation is negated in this context.",
+    "No calculation or consideration is to be made there."
+   ],
+   "inference": "Near Nilakantha, one should not engage in deliberation about the measure.",
+   "uncertainties": [],
+   "plain_english": "But near Nilakantha, no deliberation is to be made here."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "trayodaśa-ahe",
+     "gloss": "in-thirteen-days",
+     "grounds": "time period of thirteen days; compound trayodaśa+aha",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "mahā-siddhiḥ",
+     "gloss": "great-accomplishment",
+     "grounds": "supreme spiritual attainment; compound mahā+siddhi",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "ekābhra-ānane",
+     "gloss": "o-one-cloud-faced-one",
+     "grounds": "vocative address to the goddess; compound eka+abhra+ānana",
+     "morph": "f.voc.sg compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Within what period is great accomplishment attained, O one-cloud-faced goddess?",
+   "premises": [
+    "A period of thirteen days is specified.",
+    "Great accomplishment is the result.",
+    "The goddess is addressed directly."
+   ],
+   "inference": "Great accomplishment arises within thirteen days.",
+   "uncertainties": [],
+   "plain_english": "O one-cloud-faced one, great accomplishment is attained in thirteen days."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "rāḍhāyāṃ",
+     "gloss": "in-radha",
+     "grounds": "sacred site name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vikaṭākṣāyāṃ",
+     "gloss": "in-vikataksha",
+     "grounds": "sacred site name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "speed of attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvata-ātmaje",
+     "gloss": "o-mountain-daughter",
+     "grounds": "vocative address to the goddess; compound parvata+ātmajā",
+     "morph": "f.voc.sg compound"
+    }
+   ],
+   "question": "How quickly is accomplishment gained at Radha and Vikataksha, O mountain daughter?",
+   "premises": [
+    "Radha is named as a site.",
+    "Vikataksha is named as a site.",
+    "The attainment occurs quickly."
+   ],
+   "inference": "At Radha and Vikataksha, accomplishment comes quickly.",
+   "uncertainties": [],
+   "plain_english": "O daughter of the mountain, accomplishment comes quickly in Radha and in Vikataksha."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "puṣkara-ākhye",
+     "gloss": "in-pushkara-named",
+     "grounds": "place called Pushkara; compound puṣkara+ākhya",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣeṇa",
+     "gloss": "by-one-hundred-thousand",
+     "grounds": "count of repetitions or practices",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "prayoge",
+     "gloss": "in-practice",
+     "grounds": "ritual application",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṃśati-lakṣataḥ",
+     "gloss": "from-twenty-hundred-thousand",
+     "grounds": "count of twenty hundred thousand; compound viṃśati+lakṣa",
+     "morph": "(indecl.) compound"
+    }
+   ],
+   "question": "What number of repetitions is required at the place called Pushkara?",
+   "premises": [
+    "The place called Pushkara is specified.",
+    "One hundred thousand repetitions are mentioned.",
+    "Twenty hundred thousand repetitions are also mentioned."
+   ],
+   "inference": "At Pushkara, practice requires one hundred thousand or up to twenty hundred thousand repetitions.",
+   "uncertainties": [
+    "The exact distinction between lakṣeṇa and viṃśati-lakṣataḥ in practice is unclear."
+   ],
+   "plain_english": "And in the place called Pushkara, in practice, it is by one hundred thousand or by twenty hundred thousand."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same manner; compound tathā+eva",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "viraje kṣetre",
+     "gloss": "in-viraja-field",
+     "grounds": "sacred field named Viraja; compound viraja+kṣetra",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "lakṣa-dvādaśataḥ",
+     "gloss": "from-twelve-hundred-thousand",
+     "grounds": "count of twelve hundred thousand; compound lakṣa+dvādaśan",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many repetitions are prescribed in the sacred field of Viraja, O auspicious one?",
+   "premises": [
+    "The sacred field of Viraja is specified.",
+    "The practice is said to be likewise.",
+    "Twelve hundred thousand repetitions are stated."
+   ],
+   "inference": "In the field of Viraja, twelve hundred thousand repetitions are required.",
+   "uncertainties": [],
+   "plain_english": "Likewise, O auspicious one, in the field of Viraja it is by twelve hundred thousand."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "kailāse",
+     "gloss": "in-kailasa",
+     "grounds": "sacred mountain site",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "daśa-lakṣeṇa",
+     "gloss": "by-ten-hundred-thousand",
+     "grounds": "count of ten hundred thousand; compound daśa+lakṣa",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "jayantyāṃ",
+     "gloss": "in-jayanti",
+     "grounds": "sacred site name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pañca-lakṣataḥ",
+     "gloss": "from-five-hundred-thousand",
+     "grounds": "count of five hundred thousand; compound pañca+lakṣa",
+     "morph": "(indecl.) compound"
+    }
+   ],
+   "question": "What repetition counts are prescribed at Kailasa and at Jayanti?",
+   "premises": [
+    "Kailasa is specified as a site.",
+    "Ten hundred thousand repetitions are given for Kailasa.",
+    "Five hundred thousand repetitions are given for Jayanti."
+   ],
+   "inference": "Kailasa requires ten hundred thousand repetitions and Jayanti requires five hundred thousand.",
+   "uncertainties": [],
+   "plain_english": "In Kailasa it is by ten hundred thousand, and in Jayanti by five hundred thousand."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "avaśyam",
+     "gloss": "necessarily",
+     "grounds": "certainty of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra-siddhiḥ",
+     "gloss": "mantra-accomplishment",
+     "grounds": "successful attainment of the mantra; compound mantra+siddhi",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or assured result",
+     "morph": "3.sg.act.optative √as"
+    },
+    {
+     "surface": "japanāt",
+     "gloss": "from-repetition",
+     "grounds": "cause through recitation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "from-worship",
+     "grounds": "cause through ritual worship",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What result necessarily arises from repetition and worship, O auspicious one?",
+   "premises": [
+    "Repetition is named as a cause.",
+    "Worship is named as a cause.",
+    "Mantra accomplishment is stated as necessary."
+   ],
+   "inference": "Repetition and worship necessarily bring mantra accomplishment.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, mantra accomplishment would necessarily arise from repetition and from worship."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "mātṛ-jāra-samam",
+     "gloss": "like-mother-lover",
+     "grounds": "comparison to a secret affair with one's mother; compound mātṛ+jāra+sama",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parigopayet",
+     "gloss": "one-should-conceal",
+     "grounds": "injunction to keep secret",
+     "morph": "3.sg.act.optative pari+√gup"
+    }
+   ],
+   "question": "How strictly must this teaching be concealed at all times, O goddess?",
+   "premises": [
+    "The teaching is compared to a mother's lover.",
+    "Concealment is enjoined.",
+    "The concealment must be constant."
+   ],
+   "inference": "This teaching must always be guarded with utmost secrecy.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should always conceal it as one would conceal a mother's lover."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "kāmākhyā-yoni-māhātmyam",
+     "gloss": "kamakhya-yoni-greatness",
+     "grounds": "glory of the Kamakhya yoni; compound kāmākhyā+yoni+māhātmya",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the topic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "spoken",
+     "grounds": "previously declared",
+     "morph": "n.nom.sg ppp √vac"
+    },
+    {
+     "surface": "me",
+     "gloss": "by-me",
+     "grounds": "speaker as agent",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "2.inst.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What greatness of the Kamakhya yoni was previously spoken to the auspicious one?",
+   "premises": [
+    "The greatness of the Kamakhya yoni is the topic.",
+    "It was spoken by the speaker.",
+    "It was addressed to the listener."
+   ],
+   "inference": "The verse refers back to the previously declared greatness of the Kamakhya yoni.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, that greatness of the Kamakhya yoni which was spoken by me to you."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "tattvena",
+     "gloss": "by-truth",
+     "grounds": "in essence or reality",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tantrena",
+     "gloss": "by-tantra",
+     "grounds": "through tantric teaching",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tanmayā",
+     "gloss": "by-me",
+     "grounds": "speaker as knower",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "jñātam",
+     "gloss": "known",
+     "grounds": "understood or realized",
+     "morph": "n.nom.sg ppp √jñā"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the Kali era",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation in rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su-siddhi-dam",
+     "gloss": "good-accomplishment-giving",
+     "grounds": "that which grants excellent accomplishment; compound su+siddhi+da",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What in the Kali age fails to grant excellent accomplishment when known through truth and tantra?",
+   "premises": [
+    "Knowledge is gained through truth and tantra.",
+    "The context is the Kali age.",
+    "The rhetorical question implies universal efficacy."
+   ],
+   "inference": "In the Kali age, what is known through truth and tantra grants excellent accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Known by me in truth and through tantra, what in the Kali age does not grant excellent accomplishment?"
+  },
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "kim etat",
+     "gloss": "what-this",
+     "grounds": "question about this matter; compound kim+etad",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "reason or explanation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "request for explanation",
+     "morph": "2.sg.act.imperative √vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the answer",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "karuṇā-maya",
+     "gloss": "o-compassion-filled-one",
+     "grounds": "vocative address emphasizing compassion; compound karuṇā+maya",
+     "morph": "m.voc.sg compound"
+    }
+   ],
+   "question": "What is the cause of this, O compassionate lord, that must be explained?",
+   "premises": [
+    "A cause is being asked for.",
+    "The lord is addressed as compassionate.",
+    "The speaker requests an explanation."
+   ],
+   "inference": "The speaker asks the compassionate lord to explain the reason for this.",
+   "uncertainties": [],
+   "plain_english": "O lord, O compassionate one, tell me what is the cause of this."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "pṛthivī-garbha-sambhūtaḥ",
+     "gloss": "earth-womb-born",
+     "grounds": "born from the womb of the earth; compound pṛthivī+garbha+sambhūta",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "dānavānām",
+     "gloss": "of-danavas",
+     "grounds": "among the Danava beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "addhīśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "great ruler; compound addhā+īśvara",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "Who was the supreme lord of the Danavas born from the womb of the earth?",
+   "premises": [
+    "A being was born from the earth's womb.",
+    "He was among the Danavas.",
+    "He was their supreme lord."
+   ],
+   "inference": "The supreme lord of the Danavas was born from the womb of the earth.",
+   "uncertainties": [
+    "The exact form addhīśvaraḥ may be a variant spelling of adhīśvaraḥ."
+   ],
+   "plain_english": "Born from the womb of the earth, he was the supreme lord of the Danavas."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "pṛthivī-vacanāt",
+     "gloss": "from-earth-word",
+     "grounds": "because of the earth's request; compound pṛthivī+vacana",
+     "morph": "n.abl.sg compound"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "that same being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dānavaḥ",
+     "gloss": "danava",
+     "grounds": "member of the Danava class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuddha-durdharaḥ",
+     "gloss": "battle-hard-to-withstand",
+     "grounds": "difficult to conquer in battle; compound yuddha+durdhara",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "Why did that Danava become difficult to withstand in battle?",
+   "premises": [
+    "The earth's word was a cause.",
+    "That Danava is the subject.",
+    "He became hard to withstand in battle."
+   ],
+   "inference": "By the word of the earth, that Danava became difficult to withstand in battle.",
+   "uncertainties": [],
+   "plain_english": "By the word of the earth, that Danava also became difficult to withstand in battle."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "blessed-lord",
+     "grounds": "revered divine figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient of the gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivāsāya",
+     "gloss": "for-residence",
+     "grounds": "purpose of dwelling",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadau",
+     "gloss": "gave",
+     "grounds": "act of granting",
+     "morph": "3.sg.act.perfect √dā"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "joyful manner",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What did the blessed lord joyfully grant to him for residence?",
+   "premises": [
+    "The blessed lord acted again.",
+    "He gave something to that Danava.",
+    "The gift was for residence and given with joy."
+   ],
+   "inference": "The blessed lord joyfully granted him a place of residence.",
+   "uncertainties": [
+    "The specific object given for residence is not named in this verse."
+   ],
+   "plain_english": "And again, the blessed lord joyfully gave to him a place for residence."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "after victory",
+     "morph": "gerund √ji"
+    },
+    {
+     "surface": "abhiṣecanam",
+     "gloss": "consecration",
+     "grounds": "ritual anointing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājye",
+     "gloss": "in-kingdom",
+     "grounds": "in the realm or kingship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "vishnu",
+     "grounds": "the deity Vishnu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "power",
+     "grounds": "authority or strength",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadāv",
+     "gloss": "gave",
+     "grounds": "act of granting",
+     "morph": "3.sg.act.perfect √dā"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What did Vishnu grant after conquering and consecrating him in the kingdom?",
+   "premises": [
+    "Vishnu conquered and performed consecration.",
+    "The consecration was in the kingdom.",
+    "Vishnu also gave power."
+   ],
+   "inference": "After conquest and consecration, Vishnu granted him power in the kingdom.",
+   "uncertainties": [],
+   "plain_english": "Having conquered, Vishnu also performed his consecration in the kingdom and gave him power."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "su-snātam",
+     "gloss": "well-bathed",
+     "grounds": "ritually well bathed; compound su+snāta",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "naraka",
+     "grounds": "the Danava named Naraka",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "in-that-way",
+     "grounds": "likewise; compound tad+vat",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "vidheyāmāsa",
+     "gloss": "he-made",
+     "grounds": "he arranged or performed",
+     "morph": "3.sg.act.perfect vi+√dhā"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action was performed for Naraka after he was well bathed?",
+   "premises": [
+    "Naraka was well bathed.",
+    "An action was performed in that manner.",
+    "The action took place then."
+   ],
+   "inference": "Then Naraka, well bathed, was ritually prepared in that way.",
+   "uncertainties": [
+    "The exact ritual implied by vidheyāmāsa is not fully specified."
+   ],
+   "plain_english": "Then he indeed made Naraka, well bathed, prepared in that way."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "brahmatvam",
+     "gloss": "brahma-state",
+     "grounds": "status or nature of Brahma; compound brahma+tva",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahma",
+     "grounds": "by the deity Brahma",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prāptam",
+     "gloss": "obtained",
+     "grounds": "attained or granted",
+     "morph": "n.nom.sg ppp pra+√āp"
+    },
+    {
+     "surface": "viṣṇutvam",
+     "gloss": "vishnu-state",
+     "grounds": "status or nature of Vishnu; compound viṣṇu+tva",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divine statuses were obtained through Brahma and through the speaker?",
+   "premises": [
+    "The state of Brahma was obtained through Brahma.",
+    "The state of Vishnu was obtained through the speaker.",
+    "Both attainments are stated."
+   ],
+   "inference": "Brahma granted the state of Brahma, and the speaker granted the state of Vishnu.",
+   "uncertainties": [],
+   "plain_english": "The state of Brahma was obtained through Brahma, and again the state of Vishnu through me."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "for that reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonim",
+     "gloss": "yoni",
+     "grounds": "the sacred yoni",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayasva",
+     "gloss": "worship",
+     "grounds": "command to perform worship",
+     "morph": "2.sg.middle.imperative √pūj"
+    },
+    {
+     "surface": "yatnāt",
+     "gloss": "with-effort",
+     "grounds": "with diligence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarva-ātmabhiḥ",
+     "gloss": "with-all-beings",
+     "grounds": "with one's whole being or all selves; compound sarva+ātman",
+     "morph": "m.inst.pl compound"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "addressee",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "ūm",
+     "gloss": "um",
+     "grounds": "sacred syllable or exclamation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why and how should the yoni be worshipped with full effort?",
+   "premises": [
+    "A reason has been given previously.",
+    "Worship of the yoni is commanded.",
+    "The worship must be done with effort and with all one's being."
+   ],
+   "inference": "Therefore, one should worship the yoni diligently with one's whole being.",
+   "uncertainties": [
+    "The function of ūm at the end is unclear."
+   ],
+   "plain_english": "Therefore, you should worship the yoni with effort and with your whole being, um."
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee affected",
+     "morph": "2.dat.sg"
+    },
+    {
+     "surface": "vimukhī",
+     "gloss": "turned-away",
+     "grounds": "averse or unfavorable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "the mother goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "consequent time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee affected",
+     "morph": "2.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "good fortune or welfare",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suta",
+     "gloss": "o-son",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What consequence follows when the mother turns away from the devotee, O son?",
+   "premises": [
+    "The mother may become turned away.",
+    "This condition affects the devotee.",
+    "Auspiciousness is negated in that case."
+   ],
+   "inference": "When the mother is averse, there is no auspiciousness for the devotee.",
+   "uncertainties": [],
+   "plain_english": "O son, when the mother is turned away from you, then there is no auspiciousness for you."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding the preceding statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding",
+     "morph": "gerund √jñā"
+    },
+    {
+     "surface": "pūjayasva",
+     "gloss": "worship",
+     "grounds": "command to perform worship",
+     "morph": "2.sg.middle.imperative √pūj"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "with special care",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vadāmi",
+     "gloss": "i-say",
+     "grounds": "speaker's declaration",
+     "morph": "1.sg.act.present √vad"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question implying nothing more need be said",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What action should be taken especially after knowing this truth?",
+   "premises": [
+    "The preceding truth is to be known.",
+    "Worship is commanded.",
+    "The command is emphasized as sufficient."
+   ],
+   "inference": "Knowing this, one should worship especially; nothing more needs to be said.",
+   "uncertainties": [],
+   "plain_english": "Knowing this, worship especially; what more shall I say?"
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "narakaḥ",
+     "gloss": "naraka",
+     "grounds": "the Danava named Naraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pālayāmāsa",
+     "gloss": "protected",
+     "grounds": "ruled or guarded",
+     "morph": "3.sg.act.perfect √pāl"
+    },
+    {
+     "surface": "viṣṇuvat",
+     "gloss": "like-vishnu",
+     "grounds": "in the manner of Vishnu; compound viṣṇu+vat",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "yadyad",
+     "gloss": "whatever",
+     "grounds": "all that; reduplicated relative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner did Naraka protect and rule whatever he governed?",
+   "premises": [
+    "Naraka acted as protector or ruler.",
+    "His manner was like Vishnu's.",
+    "His rule extended to whatever was under him."
+   ],
+   "inference": "Naraka protected everything indeed in the manner of Vishnu.",
+   "uncertainties": [],
+   "plain_english": "Naraka indeed protected everything, just like Vishnu."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahma",
+     "grounds": "belonging to Brahma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mānasaḥ putraḥ",
+     "gloss": "mind-born-son",
+     "grounds": "son born from the mind; compound mānasa+putra",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vaśiṣṭhaḥ",
+     "gloss": "vashishtha",
+     "grounds": "the sage Vashishtha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atīva",
+     "gloss": "very",
+     "grounds": "intensifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyati",
+     "gloss": "is-self-restrained",
+     "grounds": "is disciplined or restrained",
+     "morph": "3.sg.act.present √sady"
+    }
+   ],
+   "question": "Who is the highly self-restrained mind-born son of Brahma mentioned here?",
+   "premises": [
+    "A mind-born son of Brahma is named.",
+    "That son is Vashishtha.",
+    "He is described as very self-restrained."
+   ],
+   "inference": "Vashishtha, the mind-born son of Brahma, is very self-restrained.",
+   "uncertainties": [
+    "The verb sadyati is unusual; it may be a textual variant or rare form."
+   ],
+   "plain_english": "Vashishtha, the mind-born son of Brahma, is very self-restrained."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4850,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative conjunction introducing another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadeveśi",
+     "gloss": "O-goddess-of-gods",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the condition or object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekānte",
+     "gloss": "in-a-secluded-place",
+     "grounds": "locative indicating a solitary location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-a-crossroads",
+     "grounds": "locative indicating a crossroads location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What alternative ritual locations are offered to the goddess of gods for the prescribed act?",
+   "premises": [
+    "The particle athavā introduces an alternative to previously stated options.",
+    "The goddess is addressed directly as devadeveśi.",
+    "The locations specified are a secluded place and a crossroads."
+   ],
+   "inference": "An alternative ritual condition is presented by specifying either a secluded place or a crossroads as the location.",
+   "uncertainties": [
+    "The specific ritual act performed at these locations is supplied by the surrounding context and not stated in this verse."
+   ],
+   "plain_english": "Or, O goddess of gods, that which is done in a secluded place or at a crossroads."
+  }
+ ]
+}

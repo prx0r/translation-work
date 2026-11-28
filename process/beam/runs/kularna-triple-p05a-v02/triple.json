@@ -1,0 +1,91 @@
+{
+ "song": "kul-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "varṣasahasrāyuḥ",
+     "gloss": "thousand-year-lifespan",
+     "grounds": "compound denoting one whose lifespan is a thousand years",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstrāntaṃ",
+     "gloss": "end-of-scriptures",
+     "grounds": "compound object meaning the end of the scriptures",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "present indicative of root gam",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Does even a goddess with thousand-year lifespan reach scripture's end?",
+   "premises": [
+    "A thousand-year lifespan is vast.",
+    "Scripture's end remains unreached.",
+    "The goddess is addressed directly."
+   ],
+   "inference": "Even immense lifespan does not suffice to exhaust scripture.",
+   "uncertainties": [
+    "Whether devi is vocative or nominative in context."
+   ],
+   "plain_english": "O goddess, one with a thousand-year lifespan does not indeed reach the end of the scriptures."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "yāvadindriyacāpalyaṃ",
+     "gloss": "as-long-as-sense-restlessness",
+     "grounds": "compound expressing duration of restless senses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative adverb matching yāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvakathā",
+     "gloss": "truth-discourse",
+     "grounds": "compound naming discourse on truth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative adverb asking source or possibility",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whence truth-discourse while the senses remain restless?",
+   "premises": [
+    "Sense-restlessness persists for a duration.",
+    "Truth-discourse is questioned during that duration.",
+    "The correlative links duration to discourse."
+   ],
+   "inference": "Restless senses obstruct or delay truth-discourse.",
+   "uncertainties": [
+    "Whether tattvakathā is subject or object in the rhetorical question."
+   ],
+   "plain_english": "As long as there is restlessness of the senses, so long, whence is discourse on truth?"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p246",
+ "items": [
+  {
+   "verse": 6150,
+   "rows": [
+    {
+     "surface": "catuścatvāriṃśadākhyaṃ",
+     "gloss": "forty-four-named",
+     "grounds": "compound qualifying the count as four hundred and forty-four",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuḥśatam",
+     "gloss": "four-hundred",
+     "grounds": "numerical quantity of the prescribed acts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atandritaḥ",
+     "gloss": "unwearied",
+     "grounds": "describes the manner in which the practitioner performs the acts",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what quantity and manner must the prescribed ritual acts be performed?",
+   "premises": [
+    "The prescribed acts number four hundred and forty-four.",
+    "The practitioner must perform these acts.",
+    "The practitioner must remain unwearied while performing them."
+   ],
+   "inference": "Therefore, the ritual requires four hundred and forty-four acts performed without weariness.",
+   "uncertainties": [
+    "The specific act counted (oblations, recitations, or offerings) is supplied by the preceding verses."
+   ],
+   "plain_english": "Unwearied, one should perform four hundred and forty-four of them."
+  }
+ ]
+}

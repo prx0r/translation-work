@@ -1,0 +1,954 @@
+{
+ "song": "mukta-m0-p192",
+ "items": [
+  {
+   "verse": 4776,
+   "rows": [
+    {
+     "surface": "tattvādyaiśca",
+     "gloss": "tattva-and-others-by",
+     "grounds": "compound tattva-ādi + instrumental plural + ca",
+     "morph": "compound.instr.pl"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "tatas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of hu",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pūrṇāhutimathācaret",
+     "gloss": "purnahuti-then-should-perform",
+     "grounds": "fused pūrṇāhutim + atha + ācaret",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What sequence of offerings and final purnahuti follows the tattva offerings?",
+   "premises": [
+    "tattva and other offerings are made first",
+    "then purnahuti is performed"
+   ],
+   "inference": "the rite concludes with purnahuti after tattva offerings",
+   "uncertainties": [
+    "exact ritual context not specified"
+   ],
+   "plain_english": "After offering tattva and the rest, one then performs the purnahuti."
+  },
+  {
+   "verse": 4777,
+   "rows": [
+    {
+     "surface": "navavastradhṛguṣṇīṣī",
+     "gloss": "new-cloth-wearing-turbaned",
+     "grounds": "navavastra-dhṛk-uṣṇīṣī",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "sottarīyaḥ",
+     "gloss": "with-upper-garment",
+     "grounds": "sa-uttarīyaḥ",
+     "morph": "compound.nom.sg"
+    },
+    {
+     "surface": "samālakaḥ",
+     "gloss": "well-adorned",
+     "grounds": "samālaka",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What attire is prescribed for the officiant at this stage?",
+   "premises": [
+    "new cloth is worn",
+    "upper garment is included",
+    "ornamentation is present"
+   ],
+   "inference": "the officiant wears new cloth, upper garment, and adornment",
+   "uncertainties": [
+    "exact garment details not specified"
+   ],
+   "plain_english": "The officiant is clad in new cloth, an upper garment, and adornment."
+  },
+  {
+   "verse": 4778,
+   "rows": [
+    {
+     "surface": "sumuhūrte",
+     "gloss": "auspicious-moment",
+     "grounds": "su-muhūrte",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "sulagne",
+     "gloss": "auspicious-lagna",
+     "grounds": "su-lagne",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantranyāsaṃ",
+     "gloss": "mantra-nyasa",
+     "grounds": "mantra-nyāsaṃ",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "should-begin",
+     "grounds": "samārabhet",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "When and how should mantra nyasa be begun?",
+   "premises": [
+    "an auspicious moment is chosen",
+    "an auspicious lagna is chosen",
+    "mantra nyasa is begun"
+   ],
+   "inference": "mantra nyasa begins at an auspicious time and lagna",
+   "uncertainties": [
+    "exact astrological criteria not specified"
+   ],
+   "plain_english": "At an auspicious moment and lagna, one should begin mantra nyasa."
+  },
+  {
+   "verse": 4779,
+   "rows": [
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "prāyaścittam",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "by-aghora",
+     "grounds": "aghoreṇa",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "kṛtvā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full",
+     "grounds": "pūrṇāṃ",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "samācaret",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What expiation and final offering are prescribed here?",
+   "premises": [
+    "expiation is done by aghora",
+    "then the full offering is performed"
+   ],
+   "inference": "aghoric expiation precedes the full offering",
+   "uncertainties": [
+    "exact scope of expiation not specified"
+   ],
+   "plain_english": "Having performed expiation with aghora, one should perform the full offering."
+  },
+  {
+   "verse": 4780,
+   "rows": [
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "nyastvā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tadadbhiḥ",
+     "gloss": "with-those-waters",
+     "grounds": "tad-adbhiḥ",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "saṃprokṣya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "gandhapuṣpādibhiryajet",
+     "gloss": "should-worship-with-sandal-flowers-and-rest",
+     "grounds": "gandha-puṣpa-ādibhiḥ-yajet",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What purification and worship follow the placement?",
+   "premises": [
+    "placement is done",
+    "sprinkling with those waters follows",
+    "worship with sandal flowers and rest follows"
+   ],
+   "inference": "placement, sprinkling, and worship form the sequence",
+   "uncertainties": [
+    "exact objects placed not specified"
+   ],
+   "plain_english": "After placing, sprinkle with those waters and worship with sandal, flowers, and the rest."
+  },
+  {
+   "verse": 4781,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "thus-only",
+     "grounds": "evam-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhādīnāṃ",
+     "gloss": "of-hall-and-rest",
+     "grounds": "sabhā-ādīnāṃ",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "vidheyaṃ",
+     "morph": "part.nom.sg.n"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "prokṣaṇaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "budhāḥ",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "How is sprinkling of halls and similar spaces to be done?",
+   "premises": [
+    "the same method applies",
+    "halls and similar spaces are sprinkled",
+    "the wise know this"
+   ],
+   "inference": "sprinkling of halls follows the same prescribed method",
+   "uncertainties": [
+    "exact method not restated here"
+   ],
+   "plain_english": "Thus the sprinkling of halls and similar spaces is to be done, as the wise know."
+  },
+  {
+   "verse": 4782,
+   "rows": [
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "prāsādasya",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "viśālārdhaṃ",
+     "gloss": "half-of-width",
+     "grounds": "viśāla-ardhaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "daṇḍamityabhidhīyate",
+     "gloss": "rod-is-called",
+     "grounds": "daṇḍam-iti-abhidhīyate",
+     "morph": "verb.3.sg.pass"
+    }
+   ],
+   "question": "What is the rod measure of a temple?",
+   "premises": [
+    "the temple has a width",
+    "half of that width is the rod"
+   ],
+   "inference": "the rod is half the temple width",
+   "uncertainties": [
+    "exact width standard not specified"
+   ],
+   "plain_english": "The rod of a temple is said to be half its width."
+  },
+  {
+   "verse": 4783,
+   "rows": [
+    {
+     "surface": "ekaprākārakḷptistu",
+     "gloss": "single-enclosure-arrangement-but",
+     "grounds": "eka-prākāra-kḷptiḥ-tu",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "pañcadhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "is-declared",
+     "grounds": "parikīrtitā",
+     "morph": "part.nom.sg.f"
+    }
+   ],
+   "question": "How many arrangements are declared for a single enclosure?",
+   "premises": [
+    "single enclosure arrangement is considered",
+    "it is declared fivefold"
+   ],
+   "inference": "a single enclosure has five declared arrangements",
+   "uncertainties": [
+    "the five arrangements are not listed here"
+   ],
+   "plain_english": "The arrangement of a single enclosure is declared to be fivefold."
+  },
+  {
+   "verse": 4784,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "tena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "part",
+     "grounds": "bhāgena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "tad-bāhye",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "dviguṇaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "triguṇaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What multiples may the outer enclosure take relative to the inner part?",
+   "premises": [
+    "the inner part is measured by that part",
+    "outside it may be twofold or threefold"
+   ],
+   "inference": "the outer enclosure may be double or triple the inner measure",
+   "uncertainties": [
+    "which multiple applies is not fixed here"
+   ],
+   "plain_english": "Outside that part, the enclosure may be twofold or threefold."
+  },
+  {
+   "verse": 4785,
+   "rows": [
+    {
+     "surface": "pañcaṣaḍguṇamiṣṭaṃ",
+     "gloss": "five-or-six-fold-desired",
+     "grounds": "pañca-ṣaḍ-guṇam-iṣṭaṃ",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākāradvayakalpanam",
+     "gloss": "two-enclosure-plan",
+     "grounds": "prākāra-dvaya-kalpanam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is desired for a two-enclosure plan?",
+   "premises": [
+    "a two-enclosure plan is considered",
+    "fivefold or sixfold is desired"
+   ],
+   "inference": "a two-enclosure plan should be fivefold or sixfold",
+   "uncertainties": [
+    "exact measurement basis not specified"
+   ],
+   "plain_english": "For a two-enclosure plan, fivefold or sixfold is desired."
+  },
+  {
+   "verse": 4786,
+   "rows": [
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "prāsādasya",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "caturbhāge",
+     "gloss": "in-fourth-part",
+     "grounds": "catur-bhāge",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "which-but",
+     "grounds": "yaḥ-tu",
+     "morph": "rel.nom.sg.m"
+    },
+    {
+     "surface": "daṇḍamihocyate",
+     "gloss": "rod-here-is-called",
+     "grounds": "daṇḍam-iha-ucyate",
+     "morph": "verb.3.sg.pass"
+    }
+   ],
+   "question": "Where is the rod measure located in the temple?",
+   "premises": [
+    "the temple is divided",
+    "the rod is in the fourth part"
+   ],
+   "inference": "the rod measure is located in the temple's fourth part",
+   "uncertainties": [
+    "exact fourth-part reference not specified"
+   ],
+   "plain_english": "The rod here is said to be in the fourth part of the temple."
+  },
+  {
+   "verse": 4787,
+   "rows": [
+    {
+     "surface": "catuṣpañcaṣaḍaṃśaistu",
+     "gloss": "with-four-five-six-parts-but",
+     "grounds": "catuṣ-pañca-ṣaḍ-aṃśaiḥ-tu",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "pañcaṣaṭsaptabhistathā",
+     "gloss": "with-five-six-seven-thus",
+     "grounds": "pañca-ṣaṭ-sapta-bhiḥ-tathā",
+     "morph": "instr.pl"
+    }
+   ],
+   "question": "What part divisions are used for these enclosure measures?",
+   "premises": [
+    "four, five, and six parts are used",
+    "five, six, and seven parts are used thus"
+   ],
+   "inference": "the measures are expressed through these part divisions",
+   "uncertainties": [
+    "exact mapping to enclosures not specified"
+   ],
+   "plain_english": "The measures use four, five, and six parts, and likewise five, six, and seven parts."
+  },
+  {
+   "verse": 4788,
+   "rows": [
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "pañcadhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "is-told",
+     "grounds": "kathitaṃ",
+     "morph": "part.nom.sg.n"
+    },
+    {
+     "surface": "vedaprākāraṃ",
+     "gloss": "veda-enclosure",
+     "grounds": "veda-prākāraṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇuta",
+     "gloss": "listen",
+     "grounds": "śṛṇuta",
+     "morph": "verb.2.pl.act-imp"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "dvijāḥ",
+     "morph": "voc.pl.m"
+    }
+   ],
+   "question": "What is declared about the veda enclosure?",
+   "premises": [
+    "the veda enclosure is declared",
+    "it is fivefold",
+    "the twice-born are addressed"
+   ],
+   "inference": "the veda enclosure is fivefold",
+   "uncertainties": [
+    "the five divisions are not listed here"
+   ],
+   "plain_english": "Listen, twice-born: the veda enclosure is declared fivefold."
+  },
+  {
+   "verse": 4789,
+   "rows": [
+    {
+     "surface": "navabhāgāvasānaṃ",
+     "gloss": "ending-in-ninth-part",
+     "grounds": "navabhāga-avasānaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samantātparivardhayet",
+     "gloss": "should-increase-all-around",
+     "grounds": "samantāt-parivardhayet",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the enclosure be increased all around?",
+   "premises": [
+    "the ending is in the ninth part",
+    "increase is made all around"
+   ],
+   "inference": "the enclosure is increased all around from the ninth-part ending",
+   "uncertainties": [
+    "exact increase amount not specified"
+   ],
+   "plain_english": "Ending in the ninth part, one should increase it all around."
+  },
+  {
+   "verse": 4790,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "evaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣprākāre'pi",
+     "gloss": "even-in-four-enclosure",
+     "grounds": "catuṣ-prākāre-api",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "prāsādasya",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "viśālakam",
+     "gloss": "spacious-one",
+     "grounds": "viśālakam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What applies to a temple with four enclosures?",
+   "premises": [
+    "the same method applies",
+    "even with four enclosures",
+    "the temple is spacious"
+   ],
+   "inference": "the same spacious temple rule applies to four enclosures",
+   "uncertainties": [
+    "exact spaciousness measure not specified"
+   ],
+   "plain_english": "Thus even for a temple with four enclosures, the spacious measure applies."
+  },
+  {
+   "verse": 4791,
+   "rows": [
+    {
+     "surface": "daṇḍārdhaṃ",
+     "gloss": "half-of-rod",
+     "grounds": "daṇḍa-ardhaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yojayeddhiīmān",
+     "gloss": "wise-one-should-join",
+     "grounds": "yojayet-dhīmān",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "hastamānena",
+     "gloss": "by-hand-measure",
+     "grounds": "hasta-mānena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "cocyate",
+     "gloss": "and-is-said",
+     "grounds": "ca-ucyate",
+     "morph": "verb.3.sg.pass"
+    }
+   ],
+   "question": "How is half the rod to be joined?",
+   "premises": [
+    "half the rod is taken",
+    "the wise join it by hand measure",
+    "it is also said thus"
+   ],
+   "inference": "half the rod is joined by hand measure",
+   "uncertainties": [
+    "exact joining operation not specified"
+   ],
+   "plain_english": "The wise should join half the rod by hand measure, as is said."
+  },
+  {
+   "verse": 4792,
+   "rows": [
+    {
+     "surface": "eṣu",
+     "gloss": "in-these",
+     "grounds": "eṣu",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "prākāramānaṃ",
+     "gloss": "enclosure-measure",
+     "grounds": "prākāra-mānaṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudrāṇāmaṣṭadhā",
+     "gloss": "of-small-ones-eightfold",
+     "grounds": "kṣudrāṇām-aṣṭadhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "is-opined",
+     "grounds": "matam",
+     "morph": "part.nom.sg.n"
+    }
+   ],
+   "question": "How is enclosure measure reckoned for small temples?",
+   "premises": [
+    "in these cases enclosure measure is considered",
+    "for small ones it is eightfold"
+   ],
+   "inference": "small temples have an eightfold enclosure measure",
+   "uncertainties": [
+    "exact small-temple class not specified"
+   ],
+   "plain_english": "In these, the enclosure measure for small temples is opined to be eightfold."
+  },
+  {
+   "verse": 4793,
+   "rows": [
+    {
+     "surface": "catuṣpañcakaraṃ",
+     "gloss": "four-or-five-hands",
+     "grounds": "catuṣ-pañca-karaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaṣaṭkarameva",
+     "gloss": "five-or-six-hands-indeed",
+     "grounds": "pañca-ṣaṭ-karam-eva",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What hand measures are given for these enclosures?",
+   "premises": [
+    "four or five hands are given",
+    "five or six hands are given"
+   ],
+   "inference": "the enclosure measures are expressed in four-to-six hands",
+   "uncertainties": [
+    "exact assignment not specified"
+   ],
+   "plain_english": "The measures are four or five hands, and indeed five or six hands."
+  },
+  {
+   "verse": 4794,
+   "rows": [
+    {
+     "surface": "nandadīrghāṣṭakaṃ",
+     "gloss": "nanda-length-eightfold",
+     "grounds": "nanda-dīrgha-aṣṭakaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviprākārapramāṇakam",
+     "gloss": "two-enclosure-measure",
+     "grounds": "dvi-prākāra-pramāṇakam",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What measure is given for a two-enclosure temple?",
+   "premises": [
+    "nanda length eightfold is given",
+    "it is for two-enclosure measure"
+   ],
+   "inference": "a two-enclosure temple uses nanda length eightfold",
+   "uncertainties": [
+    "exact nanda length not specified"
+   ],
+   "plain_english": "Nanda length eightfold is indeed the measure for two enclosures."
+  },
+  {
+   "verse": 4795,
+   "rows": [
+    {
+     "surface": "triprakārapramāṇaṃ",
+     "gloss": "three-enclosure-measure",
+     "grounds": "tri-prakāra-pramāṇaṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedaprākārakaṃ",
+     "gloss": "veda-enclosure-one",
+     "grounds": "veda-prākārakaṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "tathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is given for a three-enclosure temple?",
+   "premises": [
+    "three-enclosure measure is considered",
+    "it is the veda enclosure one"
+   ],
+   "inference": "a three-enclosure temple uses the veda enclosure measure",
+   "uncertainties": [
+    "exact measure not specified"
+   ],
+   "plain_english": "The three-enclosure measure is thus the veda enclosure one."
+  },
+  {
+   "verse": 4796,
+   "rows": [
+    {
+     "surface": "catuṣprākāramānaṃ",
+     "gloss": "four-enclosure-measure",
+     "grounds": "catuṣ-prākāra-mānaṃ",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudrādīnāṃ",
+     "gloss": "of-small-and-rest",
+     "grounds": "kṣudra-ādīnāṃ",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "prakīrtitam",
+     "morph": "part.nom.sg.n"
+    }
+   ],
+   "question": "What is declared for small temples with four enclosures?",
+   "premises": [
+    "four-enclosure measure is considered",
+    "it is declared for small and similar temples"
+   ],
+   "inference": "small temples with four enclosures have a declared measure",
+   "uncertainties": [
+    "exact measure not specified"
+   ],
+   "plain_english": "The four-enclosure measure is declared for small temples and the rest."
+  },
+  {
+   "verse": 4797,
+   "rows": [
+    {
+     "surface": "niyamo",
+     "gloss": "rule",
+     "grounds": "niyamo",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "vidyate",
+     "morph": "verb.3.sg.pass"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "na-eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "prāsāde",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "sārvadeśike",
+     "gloss": "universal",
+     "grounds": "sārva-deśike",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Is there a universal rule for temples?",
+   "premises": [
+    "a rule exists",
+    "it is not universal in temples"
+   ],
+   "inference": "no single universal rule governs all temples",
+   "uncertainties": [
+    "scope of non-universality not specified"
+   ],
+   "plain_english": "No universal rule exists for temples everywhere."
+  },
+  {
+   "verse": 4798,
+   "rows": [
+    {
+     "surface": "ardhatryaṃśacaturbhāgairdvibhāgaiśca",
+     "gloss": "with-half-third-fourth-double-parts-and",
+     "grounds": "ardha-tryaṃśa-catur-bhāgaiḥ-dvi-bhāgaiḥ-ca",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "krameṇa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional parts are used in order?",
+   "premises": [
+    "half, third, fourth, and double parts are used",
+    "they are applied in order"
+   ],
+   "inference": "the temple measures use these proportional parts in sequence",
+   "uncertainties": [
+    "exact sequence mapping not specified"
+   ],
+   "plain_english": "Half, third, fourth, and double parts are used in order."
+  },
+  {
+   "verse": 4799,
+   "rows": [
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "prāsādasya",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "viśālena",
+     "gloss": "with-spacious",
+     "grounds": "viśālena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "sapādena",
+     "gloss": "with-quarter",
+     "grounds": "sa-pādena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "samena",
+     "gloss": "with-even",
+     "grounds": "samena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities accompany the temple's spacious measure?",
+   "premises": [
+    "the temple has a spacious measure",
+    "it is with quarter and even"
+   ],
+   "inference": "the spacious temple measure includes quarter and even proportions",
+   "uncertainties": [
+    "exact proportion not specified"
+   ],
+   "plain_english": "The temple's spacious measure is with quarter and even proportions."
+  }
+ ]
+}

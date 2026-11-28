@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2326,
+   "rows": [
+    {
+     "surface": "yathocitam",
+     "gloss": "as-appropriate",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guro",
+     "gloss": "of-guru",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuruṣva",
+     "gloss": "do",
+     "grounds": "imperative second singular",
+     "morph": "v.2sg.imp.ātmane+root-kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadecchiśuḥ",
+     "gloss": "would-say-child",
+     "grounds": "fused sandhi form",
+     "morph": "v.3sg.opt. parasmai+root-vad"
+    }
+   ],
+   "question": "What instruction does the child give the guru before the rite begins?",
+   "premises": [
+    "The child speaks to the guru.",
+    "The speech concerns appropriate action.",
+    "The guru is addressed in genitive."
+   ],
+   "inference": "The child directs the guru to perform fitting action.",
+   "uncertainties": [
+    "Exact sandhi of vadecchiśuḥ not expanded."
+   ],
+   "plain_english": "The child says to the guru, 'Do the appropriate action.'"
+  },
+  {
+   "verse": 2327,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyeṇa+sahitaḥ",
+     "gloss": "with-disciple",
+     "grounds": "compound with sahita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāyāt",
+     "gloss": "would-go",
+     "grounds": "optative third singular",
+     "morph": "v.3sg.opt. parasmai+root-yā"
+    },
+    {
+     "surface": "yāgagṛham",
+     "gloss": "to-sacrifice-house",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where does the guru go together with the disciple?",
+   "premises": [
+    "The guru is accompanied by the disciple.",
+    "The destination is the sacrifice house.",
+    "The verb is optative."
+   ],
+   "inference": "The guru would go to the sacrifice house with the disciple.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Then the guru, accompanied by the disciple, would go to the sacrifice house."
+  },
+  {
+   "verse": 2328,
+   "rows": [
+    {
+     "surface": "hārakuṇḍalakeyūramudrikāṅgadabhūṣaṇaiḥ",
+     "gloss": "with-garlands-earrings-armlets-rings-bracelets-ornaments",
+     "grounds": "long compound instrumental",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What ornaments are used in the worship preparation?",
+   "premises": [
+    "The token is a single compound.",
+    "It lists ornaments in instrumental case.",
+    "It modifies preparation context."
+   ],
+   "inference": "The rite uses garlands, earrings, armlets, rings, bracelets, and ornaments.",
+   "uncertainties": [
+    "Internal compound members not split."
+   ],
+   "plain_english": "With garlands, earrings, armlets, rings, bracelets, and ornaments."
+  },
+  {
+   "verse": 2329,
+   "rows": [
+    {
+     "surface": "mahārghavastratāmbūlaiḥ+phalapuṣpasugandhakaiḥ",
+     "gloss": "with-costly-cloths-betel-leaves-fruits-flowers-fragrances",
+     "grounds": "fused compound instrumental",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What costly offerings and fragrances accompany the rite?",
+   "premises": [
+    "The token is a single fused compound.",
+    "It is instrumental plural.",
+    "It names cloths, betel, fruits, flowers, fragrances."
+   ],
+   "inference": "Costly cloths, betel leaves, fruits, flowers, and fragrances are used.",
+   "uncertainties": [
+    "Sandhi fusion retained."
+   ],
+   "plain_english": "With costly cloths, betel leaves, fruits, flowers, and fragrances."
+  },
+  {
+   "verse": 2330,
+   "rows": [
+    {
+     "surface": "ṛtvijaḥ",
+     "gloss": "priests",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-arc"
+    },
+    {
+     "surface": "vṛṇuyāt",
+     "gloss": "would-choose",
+     "grounds": "optative third singular",
+     "morph": "v.3sg.opt. parasmai+root-vṛ"
+    },
+    {
+     "surface": "uktasaṃkhyakān",
+     "gloss": "of-stated-number",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How are the priests selected after worship?",
+   "premises": [
+    "Priests are worshipped first.",
+    "Then one chooses them.",
+    "The number is stated."
+   ],
+   "inference": "After worshipping the priests, one chooses the stated number.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Having worshipped the priests also thus, one would choose the stated number."
+  },
+  {
+   "verse": 2331,
+   "rows": [
+    {
+     "surface": "śrīparṇīvṛkṣapīṭhāni",
+     "gloss": "śrīparṇī-tree-seats",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "hastamānāniḥ",
+     "gloss": "hand-measure",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "by-measure",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What measure governs the śrīparṇī tree seats?",
+   "premises": [
+    "The seats are named.",
+    "The measure is hand-measure.",
+    "The measure is by measure."
+   ],
+   "inference": "The śrīparṇī tree seats are measured by hand-measure.",
+   "uncertainties": [
+    "Spelling hastamānāniḥ retained."
+   ],
+   "plain_english": "The śrīparṇī tree seats are of hand-measure by measure."
+  },
+  {
+   "verse": 2332,
+   "rows": [
+    {
+     "surface": "saptaviṃśatidarbhāṇām",
+     "gloss": "of-twenty-seven-darbha-grasses",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "veṇyaḥ",
+     "gloss": "braids",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "granthibhūṣitāḥ",
+     "gloss": "with-knots-adorned",
+     "grounds": "compound nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the twenty-seven darbha braids adorned?",
+   "premises": [
+    "There are twenty-seven darbha grasses.",
+    "They form braids.",
+    "The braids are adorned with knots at the tip."
+   ],
+   "inference": "The braids of twenty-seven darbha grasses are adorned with knots at the tip.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Braids of twenty-seven darbha grasses, adorned with knots at the tip."
+  },
+  {
+   "verse": 2333,
+   "rows": [
+    {
+     "surface": "sukhoṣṇodakasampūrṇāḥ",
+     "gloss": "with-warm-water-filled",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pādyārthe",
+     "gloss": "for-foot-washing",
+     "grounds": "dative singular",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "tāmragaṇḍakāḥ",
+     "gloss": "copper-vessels",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What vessels are filled with warm water for foot washing?",
+   "premises": [
+    "The vessels are copper.",
+    "They are filled with warm water.",
+    "The purpose is foot washing."
+   ],
+   "inference": "Copper vessels filled with warm water are for foot washing.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Copper vessels filled with warm water are for foot washing."
+  },
+  {
+   "verse": 2334,
+   "rows": [
+    {
+     "surface": "dūrvodakasamāyuktāḥ",
+     "gloss": "with-dūrvā-water-mixed",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthāpanīyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "gerundive nominative plural",
+     "morph": "m.nom.pl.gerundive"
+    },
+    {
+     "surface": "pṛthakpṛthak",
+     "gloss": "separately",
+     "grounds": "reduplicated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the dūrvā-water vessels be placed?",
+   "premises": [
+    "The vessels are mixed with dūrvā water.",
+    "They are to be placed.",
+    "Placement is separate."
+   ],
+   "inference": "The dūrvā-water vessels should be placed separately.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Vessels mixed with dūrvā water should be placed separately."
+  },
+  {
+   "verse": 2335,
+   "rows": [
+    {
+     "surface": "sampuṭāḥ",
+     "gloss": "cups",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "madhuparkārtham",
+     "gloss": "for-madhu-parka",
+     "grounds": "dative singular",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kāṃsyāḥ",
+     "gloss": "bronze",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daghyādipūritāḥ",
+     "gloss": "with-ghee-etc-filled",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What cups are filled with ghee for madhu-parka?",
+   "premises": [
+    "The cups are bronze.",
+    "They are filled with ghee and so on.",
+    "The purpose is madhu-parka."
+   ],
+   "inference": "Bronze cups filled with ghee and so on are for madhu-parka.",
+   "uncertainties": [
+    "daghyādipūritāḥ spelling retained."
+   ],
+   "plain_english": "Bronze cups filled with ghee and so on are for madhu-parka."
+  },
+  {
+   "verse": 2336,
+   "rows": [
+    {
+     "surface": "mayūrapatracchatrāṇi",
+     "gloss": "peacock-feather-umbrellas",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "soṣṇīṣāṇi",
+     "gloss": "with-turbans",
+     "grounds": "compound nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "should-gather",
+     "grounds": "optative third singular",
+     "morph": "v.3sg.opt. parasmai+root-hṛ"
+    }
+   ],
+   "question": "What peacock-feather items should be gathered?",
+   "premises": [
+    "The items are peacock-feather umbrellas.",
+    "They include turbans.",
+    "One should gather them."
+   ],
+   "inference": "One should gather peacock-feather umbrellas with turbans.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "One should gather peacock-feather umbrellas with turbans."
+  },
+  {
+   "verse": 2337,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smārte",
+     "gloss": "in-smārta",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle nominative singular",
+     "morph": "n.nom.sg.pastpart"
+    },
+    {
+     "surface": "madhuparkasya+pūjane",
+     "gloss": "in-madhu-parka-worship",
+     "grounds": "compound locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What else is said in smārta madhu-parka worship?",
+   "premises": [
+    "The context is smārta worship.",
+    "The topic is madhu-parka worship.",
+    "Other things are said."
+   ],
+   "inference": "Other things are also said in smārta madhu-parka worship.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Other things are also said in smārta madhu-parka worship."
+  },
+  {
+   "verse": 2338,
+   "rows": [
+    {
+     "surface": "anyebhyaḥ",
+     "gloss": "to-others",
+     "grounds": "dative plural",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "madhuparkasya",
+     "gloss": "madhu-parka",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "viprebhyaḥ",
+     "gloss": "of-brāhmaṇas",
+     "grounds": "dative plural",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle nominative singular",
+     "morph": "n.nom.sg.pastpart"
+    }
+   ],
+   "question": "To whom is madhu-parka worship remembered for others?",
+   "premises": [
+    "Madhu-parka worship is remembered.",
+    "It is for others.",
+    "Brāhmaṇas are mentioned."
+   ],
+   "inference": "Madhu-parka worship is remembered for others among brāhmaṇas.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Madhu-parka worship is remembered for others among brāhmaṇas."
+  },
+  {
+   "verse": 2339,
+   "rows": [
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dvijaiḥ",
+     "gloss": "brāhmaṇas",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikasya",
+     "gloss": "of-teacher",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prapūjanam",
+     "gloss": "full-worship",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "When is the teacher's full worship equal to that by other brāhmaṇas?",
+   "premises": [
+    "Other brāhmaṇas perform worship.",
+    "The teacher's full worship is equal.",
+    "The condition is where."
+   ],
+   "inference": "Where the teacher's full worship is equal, other brāhmaṇas are involved.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Where the teacher's full worship is equal, other brāhmaṇas are involved."
+  },
+  {
+   "verse": 2340,
+   "rows": [
+    {
+     "surface": "deśikendraḥ",
+     "gloss": "teacher-chief",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-rite",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-snā"
+    },
+    {
+     "surface": "nirvatitāhnikaḥ",
+     "gloss": "having-completed-daily-rite",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the chief teacher do before the rite?",
+   "premises": [
+    "The chief teacher bathes.",
+    "He completes the daily rite.",
+    "The rite is by prescribed rite."
+   ],
+   "inference": "The chief teacher bathes and completes the daily rite by prescribed rite.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "The chief teacher, having bathed and completed the daily rite by rite."
+  },
+  {
+   "verse": 2341,
+   "rows": [
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvadivase",
+     "gloss": "previous-day",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "upaveśya",
+     "gloss": "having-seated",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-viś"
+    },
+    {
+     "surface": "samāsane",
+     "gloss": "on-seat",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "When is the teacher seated on the seat?",
+   "premises": [
+    "The teacher is seated.",
+    "The seating is on a seat.",
+    "It occurs on the previous day."
+   ],
+   "inference": "On the previous day the teacher is seated on the seat.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "On the previous day the teacher, having seated, is on the seat."
+  },
+  {
+   "verse": 2342,
+   "rows": [
+    {
+     "surface": "dantān",
+     "gloss": "teeth",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "viśodhya",
+     "gloss": "having-cleansed",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-śudh"
+    },
+    {
+     "surface": "purataḥ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hastamātrake",
+     "gloss": "hand-measure",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where are the teeth cleansed before the altar?",
+   "premises": [
+    "Teeth are cleansed.",
+    "The place is before the altar.",
+    "The altar is hand-measure."
+   ],
+   "inference": "Teeth are cleansed before the hand-measure altar.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Having cleansed the teeth before the hand-measure altar."
+  },
+  {
+   "verse": 2343,
+   "rows": [
+    {
+     "surface": "īśānāgre",
+     "gloss": "northeast",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñānalābhaḥ",
+     "gloss": "knowledge-gain",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāgagre",
+     "gloss": "east",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūtiruttamā",
+     "gloss": "prosperity-best",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results are associated with northeast and east directions?",
+   "premises": [
+    "Northeast is linked to knowledge gain.",
+    "East is linked to best prosperity.",
+    "Both are locative directions."
+   ],
+   "inference": "Northeast yields knowledge gain, while east yields best prosperity.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "In the northeast, knowledge gain; in the east, best prosperity."
+  },
+  {
+   "verse": 2344,
+   "rows": [
+    {
+     "surface": "rākṣasāgre",
+     "gloss": "southwest",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyubhayaṃ",
+     "gloss": "death-fear",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāruṇyagre",
+     "gloss": "northwest",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "manaḥśucam",
+     "gloss": "mind-impurity",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dangers are associated with southwest and northwest directions?",
+   "premises": [
+    "Southwest is linked to death fear.",
+    "Northwest is linked to mind impurity.",
+    "Both are locative directions."
+   ],
+   "inference": "Southwest brings death fear, while northwest brings mind impurity.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "In the southwest, death fear; in the northwest, mind impurity."
+  },
+  {
+   "verse": 2345,
+   "rows": [
+    {
+     "surface": "amaṅgalasthānapāte",
+     "gloss": "inauspicious-place-fall",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular",
+     "morph": "v.3sg.opt. parasmai+root-car"
+    }
+   ],
+   "question": "What should be performed when falling in an inauspicious place?",
+   "premises": [
+    "The fall is in an inauspicious place.",
+    "Expiation is named.",
+    "One should perform it."
+   ],
+   "inference": "One should perform expiation when falling in an inauspicious place.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "When falling in an inauspicious place, one should perform expiation."
+  },
+  {
+   "verse": 2346,
+   "rows": [
+    {
+     "surface": "krūrasvapne",
+     "gloss": "cruel-dream",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "adhamā+dīkṣā",
+     "gloss": "lowest-initiation",
+     "grounds": "fused compound nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akrūre",
+     "gloss": "non-cruel",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle nominative singular",
+     "morph": "f.nom.sg.pastpart"
+    }
+   ],
+   "question": "How is initiation graded by dream quality?",
+   "premises": [
+    "A cruel dream gives lowest initiation.",
+    "A non-cruel dream gives middle initiation.",
+    "The grading is considered."
+   ],
+   "inference": "Cruel dreams yield lowest initiation, while non-cruel dreams yield middle initiation.",
+   "uncertainties": [
+    "Fused adhamā+dīkṣā retained."
+   ],
+   "plain_english": "In a cruel dream, lowest initiation; indeed, in a non-cruel dream, middle initiation is considered."
+  },
+  {
+   "verse": 2347,
+   "rows": [
+    {
+     "surface": "vidhāyācamanaṃ",
+     "gloss": "having-done-ācamana",
+     "grounds": "compound absolutive",
+     "morph": "v.abs. parasmai+root-dhā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyārghyaṃ",
+     "gloss": "common-arghya",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What common offering is made after ācamana?",
+   "premises": [
+    "Ācamana is performed.",
+    "There, common arghya is made.",
+    "The action is done."
+   ],
+   "inference": "After performing ācamana, one makes common arghya there.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Having performed ācamana, there one makes common arghya and does it."
+  },
+  {
+   "verse": 2348,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighnān",
+     "gloss": "obstacles",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "divyān",
+     "gloss": "divine",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ālokanena",
+     "gloss": "by-vision",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the teacher remove divine obstacles?",
+   "premises": [
+    "The teacher acts.",
+    "Divine obstacles are named.",
+    "Removal is by vision."
+   ],
+   "inference": "The teacher removes divine obstacles by vision.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Then the teacher removes divine obstacles by vision."
+  },
+  {
+   "verse": 2349,
+   "rows": [
+    {
+     "surface": "pārthivān",
+     "gloss": "earthly",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pārṣṇighātaiḥ",
+     "gloss": "by-heel-blows",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "those-three",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "utsārya",
+     "gloss": "having-driven-away",
+     "grounds": "absolutive",
+     "morph": "v.abs. parasmai+root-sṛ"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are earthly obstacles driven away?",
+   "premises": [
+    "Earthly obstacles are named.",
+    "They are driven away.",
+    "The means is three heel blows."
+   ],
+   "inference": "Earthly obstacles are carefully driven away by three heel blows.",
+   "uncertainties": [
+    "No uncertainty."
+   ],
+   "plain_english": "Having carefully driven away earthly obstacles by three heel blows."
+  }
+ ]
+}

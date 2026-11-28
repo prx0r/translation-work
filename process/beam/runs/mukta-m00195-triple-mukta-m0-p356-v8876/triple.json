@@ -1,0 +1,1179 @@
+{
+ "song": "mukta-m0-p356",
+ "items": [
+  {
+   "verse": 8876,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "correlative adverb indicating extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "prescribes recitation",
+     "morph": "3.sg.optative-active + √jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homānte",
+     "gloss": "at-oblation-end",
+     "grounds": "locative compound indicating time after fire offering",
+     "morph": "compound=homa+anta; m.loc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "correlative adverb matching tāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyaṃ",
+     "gloss": "number",
+     "grounds": "quantity of offerings",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hutaṃ",
+     "gloss": "offered",
+     "grounds": "past passive participle referring to oblations",
+     "morph": "n.nom.sg.past-passive-participle + √hu"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "past passive participle indicating completion",
+     "morph": "n.nom.sg.past-passive-participle + √kṛ"
+    }
+   ],
+   "question": "How much recitation must be performed after the fire oblation is completed?",
+   "premises": [
+    "Recitation is prescribed after the oblation ends",
+    "The amount of recitation corresponds to the number offered",
+    "The oblations have already been completed"
+   ],
+   "inference": "One should chant as many times after the oblation as the number of offerings made.",
+   "uncertainties": [],
+   "plain_english": "And at the end of the oblation, one should chant as many times as the number of offerings that were made."
+  },
+  {
+   "verse": 8877,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "states the result gained",
+     "morph": "3.sg.present-middle + √labh"
+    },
+    {
+     "surface": "svarṇa+niṣkāṇāṃ",
+     "gloss": "of-gold-coins",
+     "grounds": "genitive compound specifying the object obtained",
+     "morph": "compound=svarṇa+niṣka; m.gen.pl"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numerical quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "instrumental indicating time within which result occurs",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb referring to previous procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material gain is obtained within a month by following the previous procedure?",
+   "premises": [
+    "The practitioner follows the procedure as before",
+    "A specific time period of one month is given",
+    "The result is a quantified acquisition"
+   ],
+   "inference": "By following the previous procedure, one obtains a hundred gold coins within a month.",
+   "uncertainties": [],
+   "plain_english": "Following the procedure as before, one obtains a hundred gold coins in a month."
+  },
+  {
+   "verse": 8878,
+   "rows": [
+    {
+     "surface": "darśa+ādi+māsāt",
+     "gloss": "from-new-moon-etc-month",
+     "grounds": "ablative compound indicating starting point in time",
+     "morph": "compound=darśa+ādi+māsa; m.abl.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "states the result gained",
+     "morph": "3.sg.present-middle + √labh"
+    },
+    {
+     "surface": "citrāṇi",
+     "gloss": "variegated",
+     "grounds": "describes the garments",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vasanāni",
+     "gloss": "garments",
+     "grounds": "objects obtained",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of garments are obtained starting from the month of the new moon?",
+   "premises": [
+    "A time period beginning with the new-moon month is specified",
+    "The practitioner obtains garments",
+    "The garments are described as variegated"
+   ],
+   "inference": "Starting from the new-moon month and following months, one obtains variegated garments.",
+   "uncertainties": [
+    "The exact scope of 'ādi' (etc.) in the time period is not specified"
+   ],
+   "plain_english": "And starting from the month of the new moon and so on, one obtains variegated garments."
+  },
+  {
+   "verse": 8879,
+   "rows": [
+    {
+     "surface": "vastūni",
+     "gloss": "things",
+     "grounds": "objects obtained",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "states the result gained",
+     "morph": "3.sg.present-middle + √labh"
+    },
+    {
+     "surface": "hṛdyaiḥ",
+     "gloss": "with-pleasing",
+     "grounds": "describes accompanying things",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vastubhiḥ",
+     "gloss": "with-things",
+     "grounds": "instrumental indicating accompaniment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bhāga+yogibhiḥ",
+     "gloss": "with-fortune-endowed",
+     "grounds": "compound describing things as bringing good fortune",
+     "morph": "compound=bhāga+yogin; n.inst.pl"
+    }
+   ],
+   "question": "What additional desirable things accompany the objects obtained by the practitioner?",
+   "premises": [
+    "The practitioner obtains things",
+    "These things come with other pleasing things",
+    "The accompanying things are endowed with good fortune"
+   ],
+   "inference": "One obtains things accompanied by pleasing and fortune-endowed things.",
+   "uncertainties": [],
+   "plain_english": "One obtains things along with pleasing things endowed with good fortune."
+  },
+  {
+   "verse": 8880,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the preceding practice",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śāli+samṛddhiḥ",
+     "gloss": "rice-prosperity",
+     "grounds": "compound denoting abundance of rice",
+     "morph": "compound=śāli+samṛddhi; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "will-be",
+     "grounds": "expresses future result",
+     "morph": "3.sg.optative-active + √as"
+    },
+    {
+     "surface": "māsaiḥ",
+     "gloss": "in-months",
+     "grounds": "instrumental indicating time period",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ṣaḍbhiḥ",
+     "gloss": "six",
+     "grounds": "numerical quantity of months",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "asaṃśayam",
+     "gloss": "without-doubt",
+     "grounds": "adverbial phrase asserting certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What agricultural prosperity results within six months from the prescribed practice?",
+   "premises": [
+    "The result arises from that practice",
+    "A period of six months is specified",
+    "The outcome is stated with certainty"
+   ],
+   "inference": "By that practice, prosperity in rice will arise within six months without doubt.",
+   "uncertainties": [],
+   "plain_english": "By that, there will be prosperity in rice within six months, without doubt."
+  },
+  {
+   "verse": 8881,
+   "rows": [
+    {
+     "surface": "nirātaṅkaḥ",
+     "gloss": "free-from-danger",
+     "grounds": "describes the practitioner's condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahābhāgaḥ",
+     "gloss": "greatly-fortunate",
+     "grounds": "describes the practitioner's status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numerical quantity of years",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varṣāṇi",
+     "gloss": "years",
+     "grounds": "duration of life",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "states longevity",
+     "morph": "3.sg.present-active + √jīv"
+    }
+   ],
+   "question": "What kind of long and secure life is attained through this practice?",
+   "premises": [
+    "The practitioner becomes free from danger",
+    "The practitioner becomes greatly fortunate",
+    "A lifespan of a hundred years is stated"
+   ],
+   "inference": "The practitioner lives for a hundred years, free from danger and greatly fortunate.",
+   "uncertainties": [],
+   "plain_english": "Free from danger and greatly fortunate, he lives for a hundred years."
+  },
+  {
+   "verse": 8882,
+   "rows": [
+    {
+     "surface": "cira+āyuḥ",
+     "gloss": "long-lived",
+     "grounds": "compound describing extended lifespan",
+     "morph": "compound=cira+āyus; m.nom.sg"
+    },
+    {
+     "surface": "śrī+yaśaḥ+bhāgya+puṇya+dṛṣṭi+ādi+bhiḥ",
+     "gloss": "with-prosperity-fame-fortune-merit-regard-etc",
+     "grounds": "instrumental compound listing endowments",
+     "morph": "compound=śrī+yaśas+bhāgya+puṇya+dṛṣṭi+ādi; n.inst.pl"
+    },
+    {
+     "surface": "bhāk",
+     "gloss": "endowed",
+     "grounds": "nominal agent indicating possession or share",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "What qualities and endowments characterize the long-lived practitioner resulting from this practice?",
+   "premises": [
+    "The practitioner becomes long-lived",
+    "The practitioner is endowed with prosperity, fame, fortune, merit, regard, and more",
+    "These are presented as resulting states"
+   ],
+   "inference": "The practitioner becomes long-lived and endowed with prosperity, fame, fortune, merit, regard, and other qualities.",
+   "uncertainties": [
+    "The full scope of 'ādi' (etc.) is unspecified"
+   ],
+   "plain_english": "He becomes long-lived, endowed with prosperity, fame, fortune, merit, regard, and so forth."
+  },
+  {
+   "verse": 8883,
+   "rows": [
+    {
+     "surface": "āyuḥ+ārogya+vibhavaiḥ",
+     "gloss": "with-life-health-wealth",
+     "grounds": "instrumental compound listing endowments",
+     "morph": "compound=āyus+ārogya+vibhava; m.inst.pl"
+    },
+    {
+     "surface": "jana+mānyaḥ",
+     "gloss": "honored-by-people",
+     "grounds": "compound describing social esteem",
+     "morph": "compound=jana+mānya; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating that time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What social status and personal endowments does the practitioner attain at that time?",
+   "premises": [
+    "The result occurs at that time",
+    "The practitioner gains life, health, and wealth",
+    "The practitioner becomes honored by people"
+   ],
+   "inference": "At that time, the practitioner becomes endowed with life, health, and wealth, and honored by people.",
+   "uncertainties": [],
+   "plain_english": "Then he becomes endowed with long life, health, and wealth, and honored by people."
+  },
+  {
+   "verse": 8884,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsāt",
+     "gloss": "from-six-months",
+     "grounds": "ablative indicating time period",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abdataḥ",
+     "gloss": "from-a-year",
+     "grounds": "ablative indicating alternative time period",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "roga+muktaḥ",
+     "gloss": "freed-from-disease",
+     "grounds": "compound describing liberation from illness",
+     "morph": "compound=roga+mukta; m.nom.sg"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "describes resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "Within what time frame does the practitioner become free from disease and happy?",
+   "premises": [
+    "Two alternative time periods are given: six months or a year",
+    "The practitioner becomes freed from disease",
+    "The practitioner becomes happy"
+   ],
+   "inference": "Within six months or even a year, the practitioner becomes free from disease and happy.",
+   "uncertainties": [],
+   "plain_english": "In six months or even in a year, he becomes free from disease and happy."
+  },
+  {
+   "verse": 8885,
+   "rows": [
+    {
+     "surface": "pāka+ādyam",
+     "gloss": "cooking-etc",
+     "grounds": "compound referring to cooking and related acts",
+     "morph": "compound=pāka+ādi; n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the same means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-do",
+     "grounds": "prescribes an action",
+     "morph": "3.sg.optative-active + √kṛ"
+    },
+    {
+     "surface": "roga+vimuktaye",
+     "gloss": "for-disease-liberation",
+     "grounds": "dative compound indicating purpose",
+     "morph": "compound=roga+vimukti; f.dat.sg"
+    }
+   ],
+   "question": "For what therapeutic purpose should cooking and related acts be performed by that same means?",
+   "premises": [
+    "Cooking and related acts are to be performed",
+    "They are performed by that same means",
+    "The purpose is liberation from disease"
+   ],
+   "inference": "One should perform cooking and related acts by that same means for the purpose of liberation from disease.",
+   "uncertainties": [
+    "The exact scope of 'ādi' (etc.) in pāka+ādyam is unspecified"
+   ],
+   "plain_english": "One should also perform cooking and such acts by that very means for liberation from disease."
+  },
+  {
+   "verse": 8886,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive + √kṛ"
+    },
+    {
+     "surface": "puttalikā+antaiḥ",
+     "gloss": "with-doll-etc",
+     "grounds": "instrumental compound referring to effigies and related items",
+     "morph": "compound=puttalikā+anta; n.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayena",
+     "gloss": "with-heart-mantra",
+     "grounds": "instrumental referring to the heart mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutām",
+     "gloss": "endowed",
+     "grounds": "describes the prepared object as joined with the mantra",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How must an effigy be prepared and empowered with the heart mantra for the ritual?",
+   "premises": [
+    "An effigy or similar object is made",
+    "The heart mantra is used",
+    "The object is endowed or joined with that mantra"
+   ],
+   "inference": "Having made an effigy and such, one should endow it with the heart mantra.",
+   "uncertainties": [
+    "The exact referent of saṃyutām depends on the following verse"
+   ],
+   "plain_english": "Having made a doll and such, one should endow it with the heart mantra."
+  },
+  {
+   "verse": 8887,
+   "rows": [
+    {
+     "surface": "śata+yojana+dūrāt",
+     "gloss": "from-hundred-yojana-distance",
+     "grounds": "ablative compound indicating great distance",
+     "morph": "compound=śata+yojana+dūra; n.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-may-bring",
+     "grounds": "expresses the ritual power to attract",
+     "morph": "3.sg.optative-active + ā-√nī"
+    },
+    {
+     "surface": "vanitā",
+     "gloss": "woman",
+     "grounds": "object of attraction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "balāt",
+     "gloss": "by-force",
+     "grounds": "ablative used adverbially indicating compulsion",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what distance can a woman be forcibly attracted through this ritual procedure?",
+   "premises": [
+    "The ritual empowers attraction",
+    "A distance of a hundred yojanas is specified",
+    "The attraction is described as forceful"
+   ],
+   "inference": "By this procedure, one may forcibly bring a woman even from a distance of a hundred yojanas.",
+   "uncertainties": [],
+   "plain_english": "One may forcibly bring a woman even from a distance of a hundred yojanas."
+  },
+  {
+   "verse": 8888,
+   "rows": [
+    {
+     "surface": "taiḥ",
+     "gloss": "from-those",
+     "grounds": "demonstrative referring to previously mentioned afflictions",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kleśaiḥ",
+     "gloss": "afflictions",
+     "grounds": "troubles from which one is freed",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the practitioner or beneficiary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinirmuktaḥ",
+     "gloss": "freed",
+     "grounds": "past passive participle indicating liberation",
+     "morph": "m.nom.sg.past-passive-participle + vi-nis-√muc"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "describes resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "states ongoing life",
+     "morph": "3.sg.present-active + √jīv"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative indicating place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What condition does a person attain on earth after being freed from those afflictions?",
+   "premises": [
+    "The person is freed from those afflictions",
+    "The person becomes happy",
+    "The person continues to live on earth"
+   ],
+   "inference": "Freed from those afflictions, he lives happily on earth.",
+   "uncertainties": [],
+   "plain_english": "Freed from those afflictions, he lives happily on earth."
+  },
+  {
+   "verse": 8889,
+   "rows": [
+    {
+     "surface": "vairī",
+     "gloss": "enemy",
+     "grounds": "subject affected by the ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghora+jvareṇa",
+     "gloss": "by-terrible-fever",
+     "grounds": "instrumental compound indicating affliction",
+     "morph": "compound=ghora+jvara; m.inst.sg"
+    },
+    {
+     "surface": "ārttaḥ",
+     "gloss": "afflicted",
+     "grounds": "describes the enemy's suffering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "locative absolute indicating ritual performance",
+     "morph": "n.loc.sg.past-passive-participle + √kṛ"
+    },
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb referring to previous method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "describes resulting state of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "What happens to an enemy and to the practitioner when the ritual is performed as before?",
+   "premises": [
+    "The ritual is performed as before",
+    "The enemy becomes afflicted by terrible fever",
+    "The practitioner becomes happy"
+   ],
+   "inference": "When performed as before, the enemy is afflicted by terrible fever and the practitioner becomes happy.",
+   "uncertainties": [
+    "The subject of sukhī bhavet is implied as the practitioner rather than the enemy"
+   ],
+   "plain_english": "When it is done as before, the enemy is afflicted by terrible fever, and one becomes happy."
+  },
+  {
+   "verse": 8890,
+   "rows": [
+    {
+     "surface": "tat+vidhānena",
+     "gloss": "with-that-procedure",
+     "grounds": "instrumental compound referring to the prescribed method",
+     "morph": "compound=tad+vidhāna; n.inst.sg"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "indicates application of the procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "subject affected by the ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "unmādavān",
+     "gloss": "mad",
+     "grounds": "describes the enemy's resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "What mental affliction befalls an enemy when subjected to that prescribed procedure?",
+   "premises": [
+    "The enemy is subjected to that procedure",
+    "The procedure produces a specific mental state",
+    "The resulting state is madness"
+   ],
+   "inference": "When accompanied by that procedure, the enemy becomes mad.",
+   "uncertainties": [],
+   "plain_english": "When subjected to that procedure, the enemy becomes mad."
+  },
+  {
+   "verse": 8891,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "mantra syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrūṃ",
+     "gloss": "hrūṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kheṃ",
+     "gloss": "kheṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ceṃ",
+     "gloss": "ceṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaiṃ",
+     "gloss": "kṣaiṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaḥ",
+     "gloss": "kṣaḥ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrūṃ",
+     "gloss": "hrūṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣeṃ",
+     "gloss": "kṣeṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the sequence as a mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "is",
+     "grounds": "states identity",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "What sequence of syllables constitutes the mantra prescribed in this context?",
+   "premises": [
+    "A specific sequence of syllables is listed",
+    "The sequence is identified as a mantra",
+    "The syllables are given in fixed order"
+   ],
+   "inference": "The mantra is: oṃ hrīṃ hrūṃ kheṃ ceṃ kṣaiṃ kṣaḥ śrīṃ hrūṃ kṣeṃ hrīṃ phaṭ.",
+   "uncertainties": [],
+   "plain_english": "The mantra is: oṃ hrīṃ hrūṃ kheṃ ceṃ kṣaiṃ kṣaḥ śrīṃ hrūṃ kṣeṃ hrīṃ phaṭ."
+  },
+  {
+   "verse": 8892,
+   "rows": [
+    {
+     "surface": "virāṭ",
+     "gloss": "virāṭ",
+     "grounds": "name of the meter, transliterated as technical term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "identifies the metrical form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "mantra syllable identified as bīja, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "identifies the seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable identified as śakti, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "identifies the power aspect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvaritā",
+     "gloss": "tvaritā",
+     "grounds": "name of the goddess, transliterated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surī",
+     "gloss": "goddess",
+     "grounds": "identifies the deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What meter, seed, power, and deity are assigned to this mantra?",
+   "premises": [
+    "The meter is specified as virāṭ",
+    "The seed syllable is oṃ and the power is hrīṃ",
+    "The deity is the goddess Tvaritā"
+   ],
+   "inference": "The mantra's meter is virāṭ, its seed is oṃ, its power is hrīṃ, and its deity is the goddess Tvaritā.",
+   "uncertainties": [],
+   "plain_english": "The meter is virāṭ, the seed is oṃ, the power is hrīṃ, and the deity is the goddess Tvaritā."
+  },
+  {
+   "verse": 8893,
+   "rows": [
+    {
+     "surface": "kṣaiṃ",
+     "gloss": "kṣaiṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaḥ",
+     "gloss": "kṣaḥ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "ritual placement on the crest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varmma",
+     "gloss": "armor",
+     "grounds": "ritual placement as armor",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrūṃ",
+     "gloss": "hrūṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣeṃ",
+     "gloss": "kṣeṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netram",
+     "gloss": "eye",
+     "grounds": "ritual placement on the eyes",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrttitam",
+     "gloss": "is-declared",
+     "grounds": "states the prescribed assignment",
+     "morph": "n.nom.sg.past-passive-participle + pra-√kīrt"
+    }
+   ],
+   "question": "Which syllables are assigned to the crest, armor, and eye placements in this mantra?",
+   "premises": [
+    "Specific syllables are assigned to ritual body placements",
+    "kṣaiṃ kṣaḥ are assigned to the crest and armor",
+    "śrīṃ hrūṃ kṣeṃ are assigned to the eyes"
+   ],
+   "inference": "kṣaiṃ kṣaḥ are declared for the crest and armor, and śrīṃ hrūṃ kṣeṃ for the eyes.",
+   "uncertainties": [
+    "The exact distribution between śikhā and varmma for kṣaiṃ kṣaḥ is not explicitly separated"
+   ],
+   "plain_english": "kṣaiṃ kṣaḥ are declared for the crest and armor, and śrīṃ hrūṃ kṣeṃ for the eyes."
+  },
+  {
+   "verse": 8894,
+   "rows": [
+    {
+     "surface": "jaṅghayoḥ",
+     "gloss": "on-calves",
+     "grounds": "locative dual indicating body parts",
+     "morph": "f.loc.dual"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "on-feet",
+     "grounds": "locative dual indicating body parts",
+     "morph": "m.loc.dual"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "the one who performs the mantra practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarveṇa",
+     "gloss": "with-all",
+     "grounds": "instrumental indicating use of the whole mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vyāpakañ",
+     "gloss": "pervasion",
+     "grounds": "ritual act of pervading the body with the mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.optative-active + √car"
+    }
+   ],
+   "question": "How should the practitioner perform the pervasion of the mantra on the calves and feet?",
+   "premises": [
+    "The practitioner performs a ritual action",
+    "The action involves pervasion with the whole mantra",
+    "The calves and feet are specified locations"
+   ],
+   "inference": "The practitioner should perform the pervasion with the entire mantra on the calves and feet.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should perform the pervasion with the entire mantra on the calves and feet."
+  },
+  {
+   "verse": 8895,
+   "rows": [
+    {
+     "surface": "tāṭaṅka+ātaṅka+vidyoti+raśanā+nūpura+ātmakaiḥ",
+     "gloss": "consisting-of-ear-ornaments-girdle-anklets",
+     "grounds": "compound describing ornaments forming the goddess's adornments",
+     "morph": "compound=tāṭaṅka+ātaṅka+vidyoti+raśanā+nūpura+ātmaka; n.inst.pl"
+    }
+   ],
+   "question": "What ornaments constitute the adornments described for the goddess in this visualization?",
+   "premises": [
+    "The goddess is described with specific ornaments",
+    "The ornaments include ear ornaments, girdle, and anklets",
+    "These form the nature of her adornment"
+   ],
+   "inference": "Her adornments consist of ear ornaments, a shining girdle, and anklets.",
+   "uncertainties": [
+    "The exact parsing of 'ātaṅka' and 'vidyoti' within the compound is uncertain"
+   ],
+   "plain_english": "Adorned with ornaments consisting of ear ornaments, a girdle, and anklets."
+  },
+  {
+   "verse": 8896,
+   "rows": [
+    {
+     "surface": "dvidvi+kramāt",
+     "gloss": "by-pairs-in-sequence",
+     "grounds": "ablative compound indicating arrangement in twos",
+     "morph": "compound=dvidvi+krama; m.abl.sg"
+    },
+    {
+     "surface": "aṣṭa+nāgaiḥ",
+     "gloss": "with-eight-serpents",
+     "grounds": "instrumental compound specifying the number and type",
+     "morph": "compound=aṣṭa+nāga; m.inst.pl"
+    },
+    {
+     "surface": "kalpita",
+     "gloss": "fashioned",
+     "grounds": "past passive participle indicating imagined or formed adornments",
+     "morph": "compound-member; past-passive-participle + √kḷp"
+    },
+    {
+     "surface": "udyat+su+bhūṣaṇām",
+     "gloss": "with-rising-beautiful-ornaments",
+     "grounds": "compound describing shining beautiful ornaments",
+     "morph": "compound=udyat+su+bhūṣaṇa; f.acc.sg"
+    }
+   ],
+   "question": "How are the eight serpents arranged to form the goddess's shining ornaments?",
+   "premises": [
+    "Eight serpents are used as ornaments",
+    "They are arranged in pairs in sequence",
+    "They form rising, beautiful adornments"
+   ],
+   "inference": "The goddess is visualized with shining beautiful ornaments fashioned from eight serpents arranged in pairs.",
+   "uncertainties": [],
+   "plain_english": "With shining beautiful ornaments fashioned from eight serpents arranged in pairs."
+  },
+  {
+   "verse": 8897,
+   "rows": [
+    {
+     "surface": "valayaiḥ",
+     "gloss": "with-bracelets",
+     "grounds": "instrumental indicating adornment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bhūṣita+bhujām",
+     "gloss": "with-adorned-arms",
+     "grounds": "compound describing arms decorated with bracelets",
+     "morph": "compound=bhūṣita+bhuja; f.acc.sg"
+    },
+    {
+     "surface": "māṇikya+mukuṭa+ujjvalām",
+     "gloss": "radiant-with-ruby-crown",
+     "grounds": "compound describing radiance from a ruby crown",
+     "morph": "compound=māṇikya+mukuṭa+ujjvala; f.acc.sg"
+    }
+   ],
+   "question": "What arm ornaments and crown characterize the goddess's radiant appearance?",
+   "premises": [
+    "The goddess's arms are adorned with bracelets",
+    "She wears a crown",
+    "The crown is radiant with rubies"
+   ],
+   "inference": "The goddess has arms adorned with bracelets and is radiant with a ruby crown.",
+   "uncertainties": [],
+   "plain_english": "Her arms are adorned with bracelets, and she is radiant with a ruby crown."
+  },
+  {
+   "verse": 8898,
+   "rows": [
+    {
+     "surface": "guñjā+phala+lasat+dhāra",
+     "gloss": "with-shining-guñjā-fruit-garland",
+     "grounds": "compound describing a garland of guñjā fruits",
+     "morph": "compound=guñjā+phala+lasat+dhāra; f.acc.sg"
+    },
+    {
+     "surface": "vilasat+kuca+maṇḍalām",
+     "gloss": "with-shining-breast-region",
+     "grounds": "compound describing the shining area of the breasts",
+     "morph": "compound=vilasat+kuca+maṇḍala; f.acc.sg"
+    }
+   ],
+   "question": "What garland and bodily radiance are featured in the goddess's visualization?",
+   "premises": [
+    "The goddess wears a garland of guñjā fruits",
+    "The garland is shining",
+    "Her breast region is described as shining"
+   ],
+   "inference": "The goddess is visualized with a shining garland of guñjā fruits and a radiant breast region.",
+   "uncertainties": [],
+   "plain_english": "She wears a shining garland of guñjā fruits and has a radiant breast region."
+  },
+  {
+   "verse": 8899,
+   "rows": [
+    {
+     "surface": "vara+abhaya+karāṃ",
+     "gloss": "with-boon-and-fearlessness-hands",
+     "grounds": "compound describing hands showing boon-giving and fearlessness gestures",
+     "morph": "compound=vara+abhaya+kara; f.acc.sg"
+    },
+    {
+     "surface": "gaṇḍa+dvayām",
+     "gloss": "with-two-cheeks",
+     "grounds": "compound referring to both cheeks",
+     "morph": "compound=gaṇḍa+dvaya; f.acc.sg"
+    },
+    {
+     "surface": "mukuṭa+śobhitām",
+     "gloss": "adorned-with-crown",
+     "grounds": "compound describing beautification by a crown",
+     "morph": "compound=mukuṭa+śobhita; f.acc.sg"
+    }
+   ],
+   "question": "What hand gestures and facial adornments complete the goddess's described form?",
+   "premises": [
+    "The goddess displays boon-giving and fearlessness gestures",
+    "Her two cheeks are mentioned as part of the description",
+    "She is adorned with a crown"
+   ],
+   "inference": "The goddess is described with hands showing boon and fearlessness, with both cheeks, and adorned with a crown.",
+   "uncertainties": [
+    "The syntactic role of gaṇḍa+dvayām in the visual description is somewhat compressed"
+   ],
+   "plain_english": "She displays the gestures of boon-giving and fearlessness, has beautiful cheeks, and is adorned with a crown."
+  }
+ ]
+}

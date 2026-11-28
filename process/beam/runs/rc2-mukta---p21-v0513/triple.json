@@ -1,0 +1,589 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative verb expressing injunction to meditate",
+     "morph": "3.sg.optative-active + dhyai"
+    },
+    {
+     "surface": "śaśi+mukhīṃ",
+     "gloss": "moon-faced",
+     "grounds": "compound describing Hākinī's face; sandhi within token",
+     "morph": "compound: śaśi+moon + mukhīṃ+f.acc.sg"
+    },
+    {
+     "surface": "nityāṃ",
+     "gloss": "eternal",
+     "grounds": "qualifies Hākinī as ever-present",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hākinīm",
+     "gloss": "hākinī",
+     "grounds": "name of the deity to be meditated upon",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "antra+siddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "compound indicating purpose; sandhi within token",
+     "morph": "compound: antra+mantra + siddhaye+f.dat.sg"
+    }
+   ],
+   "question": "What meditative focus secures accomplishment of the mantra?",
+   "premises": [
+    "Meditation on Hākinī is enjoined",
+    "Hākinī is described as moon-faced and eternal",
+    "The purpose of this meditation is mantra accomplishment"
+   ],
+   "inference": "One should meditate on the eternal moon-faced Hākinī to attain mantra accomplishment",
+   "uncertainties": [
+    "Legacy hint glossed śaśi+mukhīṃ as hare-faced; taken here as moon-faced based on śaśi"
+   ],
+   "plain_english": "One should meditate on the eternal, moon-faced Hākinī for the accomplishment of the mantra."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "speaker announces forthcoming teaching",
+     "morph": "1.sg.future-active + saṃ-pra-vac"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "of-mātṛkās",
+     "grounds": "refers to the Mātṛkās; form as given",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "adhyānam",
+     "gloss": "meditation",
+     "grounds": "object of the declaration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualifies the meditation as highest",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme teaching is the speaker about to declare?",
+   "premises": [
+    "The speaker signals a new declaration",
+    "The subject is meditation on the Mātṛkās",
+    "This meditation is described as supreme"
+   ],
+   "inference": "The speaker will now declare the supreme meditation on the Mātṛkās",
+   "uncertainties": [],
+   "plain_english": "Now I shall declare the supreme meditation on the Mātṛkās."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "bibhrāṇāṃ",
+     "gloss": "bearing",
+     "grounds": "describes the deity as bearing splendor",
+     "morph": "f.acc.sg.present-participle-middle + bhṛ"
+    },
+    {
+     "surface": "viśada",
+     "gloss": "bright",
+     "grounds": "qualifies the splendor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prabhāṃ",
+     "gloss": "splendor",
+     "grounds": "object borne by the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tri+nayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound describing the deity; sandhi within token",
+     "morph": "compound: tri+three + nayanāṃ+f.acc.sg"
+    },
+    {
+     "surface": "vāg+devatām",
+     "gloss": "goddess-of-speech",
+     "grounds": "identifies the deity as Vāgdevatā; sandhi within token",
+     "morph": "compound: vāg+speech + devatām+f.acc.sg"
+    },
+    {
+     "surface": "āśraye",
+     "gloss": "i-take-refuge",
+     "grounds": "speaker expresses refuge in the deity",
+     "morph": "1.sg.present-middle + ā-śri"
+    }
+   ],
+   "question": "Which form of the goddess of speech is taken as refuge?",
+   "premises": [
+    "The deity bears bright splendor",
+    "The deity is three-eyed",
+    "The deity is identified as the goddess of speech"
+   ],
+   "inference": "The speaker takes refuge in the three-eyed goddess of speech bearing bright splendor",
+   "uncertainties": [],
+   "plain_english": "I take refuge in the three-eyed goddess of speech, bearing a bright splendor."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "pūrvoktaḥ",
+     "gloss": "previously-stated",
+     "grounds": "refers back to earlier teaching; sandhi within token",
+     "morph": "compound: pūrva+previous + uktaḥ+m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun introducing correlation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun specifying seed-syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "bīja associated with a deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun specifying mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "mantra associated with a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "correlative pronoun referring back",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirṇayam",
+     "gloss": "determination",
+     "grounds": "object indicating definitive explanation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are previously stated seed-syllables and mantras to be determined?",
+   "premises": [
+    "A seed-syllable and mantra were previously stated",
+    "Each belongs to a particular referent",
+    "A determination of that referent is indicated"
+   ],
+   "inference": "The determination concerns whichever seed-syllable and mantra were previously stated for each",
+   "uncertainties": [
+    "The verse is syntactically incomplete and likely continues into the next verse"
+   ],
+   "plain_english": "For whomever the seed-syllable and mantra were previously stated, their determination is given."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "ṭaṃ",
+     "gloss": "ṭaṃ",
+     "grounds": "bīja syllable, transliterated as mantra material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lākinyai",
+     "gloss": "to-lākinī",
+     "grounds": "recipient deity in mantra formula",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation, transliterated as mantra material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃ",
+     "gloss": "paṃ",
+     "grounds": "bīja syllable, transliterated as mantra material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kākinyai",
+     "gloss": "to-kākinī",
+     "grounds": "recipient deity in mantra formula",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence after mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formulas are prescribed for Lākinī and Kākinī?",
+   "premises": [
+    "The syllable ṭaṃ is addressed to Lākinī with obeisance and svāhā",
+    "The syllable paṃ is addressed to Kākinī with obeisance",
+    "These formulas are given in sequence"
+   ],
+   "inference": "The prescribed formulas are ṭaṃ to Lākinī with namaḥ and svāhā, then paṃ to Kākinī with namaḥ",
+   "uncertainties": [],
+   "plain_english": "Ṭaṃ, obeisance to Lākinī, svāhā; then paṃ, obeisance to Kākinī."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "tat+tat",
+     "gloss": "each-respective",
+     "grounds": "distributive compound indicating corresponding items; sandhi within token",
+     "morph": "compound: tat+that + tat+that"
+    },
+    {
+     "surface": "dhyānena",
+     "gloss": "with-meditation",
+     "grounds": "instrument specifying mode of practice",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "iti+uktvā",
+     "gloss": "having-said-thus",
+     "grounds": "absolutive indicating prior utterance; sandhi within token",
+     "morph": "compound: iti+thus + uktvā+absolutive + vac"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.optative-active + pūj"
+    },
+    {
+     "surface": "upacārataḥ",
+     "gloss": "with-offerings",
+     "grounds": "specifies worship with ritual offerings",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should worship be performed after reciting the prescribed formulas?",
+   "premises": [
+    "Each corresponding meditation is to be applied",
+    "The formulas are to be uttered",
+    "Worship is to be performed with offerings"
+   ],
+   "inference": "After uttering the formulas with their respective meditations, one should worship with offerings",
+   "uncertainties": [],
+   "plain_english": "Having said this with each respective meditation, one should worship with the proper offerings."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the result at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "describes the state of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject that becomes accomplished",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāpā+ādi",
+     "gloss": "curse-and-so-forth",
+     "grounds": "compound indicating causes of defect; sandhi within token",
+     "morph": "compound: śāpa+curse + ādi+etc"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "defect affecting the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dūṣitaḥ",
+     "gloss": "tainted",
+     "grounds": "describes mantra as previously tainted",
+     "morph": "m.nom.sg.past-passive-participle + duṣ"
+    }
+   ],
+   "question": "What result follows for a mantra tainted by curse and other faults?",
+   "premises": [
+    "A mantra may be tainted by curse and other faults",
+    "The prescribed practice has been performed",
+    "The mantra then becomes accomplished"
+   ],
+   "inference": "Even a mantra tainted by curse and other faults becomes accomplished through this practice",
+   "uncertainties": [],
+   "plain_english": "Then the mantra, even if tainted by a curse or other faults, becomes accomplished."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "specifies the cosmic age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhārata+varṣe",
+     "gloss": "in-land-of-bhārata",
+     "grounds": "specifies the geographical region; sandhi within token",
+     "morph": "compound: bhārata+bhārata + varṣe+n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates applicability elsewhere",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat+varṣe",
+     "gloss": "in-another-land",
+     "grounds": "contrasts with Bhārata; sandhi within token",
+     "morph": "compound: anyat+other + varṣe+n.loc.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes absolute exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the efficacy of this practice geographically restricted in the Kali age?",
+   "premises": [
+    "The context is the Kali age",
+    "The practice is located in the land of Bhārata",
+    "It is explicitly excluded from any other land"
+   ],
+   "inference": "In the Kali age this practice is effective in the land of Bhārata and never in any other land",
+   "uncertainties": [
+    "The verse states restriction but does not explicitly repeat the subject; efficacy is inferred from context"
+   ],
+   "plain_english": "In the Kali age, this holds in the land of Bhārata, and never in any other land."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "caṇḍikā+ādi",
+     "gloss": "caṇḍikā-and-so-forth",
+     "grounds": "compound naming a group beginning with Caṇḍikā; sandhi within token",
+     "morph": "compound: caṇḍikā+caṇḍikā + ādi+etc"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "specifies number in the group",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṇḍāraṃ",
+     "gloss": "treasury",
+     "grounds": "term for a collection or treasury",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kākinī+siddhi+saṃyutam",
+     "gloss": "joined-with-kākinī-accomplishment",
+     "grounds": "compound describing association with Kākinī accomplishment; sandhi within token",
+     "morph": "compound: kākinī+kākinī + siddhi+accomplishment + saṃyutam+n.acc.sg"
+    }
+   ],
+   "question": "What treasury is associated with the accomplishment of Kākinī in this group?",
+   "premises": [
+    "A group beginning with Caṇḍikā is named",
+    "This group consists of ten",
+    "It is described as a treasury joined with Kākinī accomplishment"
+   ],
+   "inference": "The tenfold treasury beginning with Caṇḍikā is associated with Kākinī accomplishment",
+   "uncertainties": [
+    "The syntactic role of bhāṇḍāraṃ is compressed and may depend on surrounding verses"
+   ],
+   "plain_english": "The tenfold treasury beginning with Caṇḍikā is joined with the accomplishment of Kākinī."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "gadā+ādi",
+     "gloss": "gadā-and-so-forth",
+     "grounds": "compound naming a group beginning with Gadā; sandhi within token",
+     "morph": "compound: gadā+gadā + ādi+etc"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "specifies number in the group",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṇḍāraṃ",
+     "gloss": "treasury",
+     "grounds": "term for a collection or treasury",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kākinī+siddhi",
+     "gloss": "kākinī-accomplishment",
+     "grounds": "compound naming the accomplishment; sandhi within token",
+     "morph": "compound: kākinī+kākinī + siddhi+accomplishment"
+    },
+    {
+     "surface": "nirṇayam",
+     "gloss": "determination",
+     "grounds": "indicates definitive explanation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What determination concerns the tenfold treasury beginning with Gadā?",
+   "premises": [
+    "A group beginning with Gadā is named",
+    "This group consists of ten as a treasury",
+    "It is linked to the determination of Kākinī accomplishment"
+   ],
+   "inference": "The determination of Kākinī accomplishment concerns the tenfold treasury beginning with Gadā",
+   "uncertainties": [
+    "The verse is compressed and its full syntactic connection may depend on adjacent verses"
+   ],
+   "plain_english": "The tenfold treasury beginning with Gadā is the determination of Kākinī accomplishment."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "baddhā+ādi",
+     "gloss": "baddhā-and-so-forth",
+     "grounds": "compound naming a group beginning with Baddhā; sandhi within token",
+     "morph": "compound: baddhā+baddhā + ādi+etc"
+    },
+    {
+     "surface": "vilakṣaṇā+antaṃ",
+     "gloss": "ending-with-vilakṣaṇā",
+     "grounds": "compound indicating the end of the range; sandhi within token",
+     "morph": "compound: vilakṣaṇā+vilakṣaṇā + antaṃ+m.acc.sg"
+    },
+    {
+     "surface": "hākinī+siddhi",
+     "gloss": "hākinī-accomplishment",
+     "grounds": "compound naming the accomplishment; sandhi within token",
+     "morph": "compound: hākinī+hākinī + siddhi+accomplishment"
+    },
+    {
+     "surface": "nirṇayam",
+     "gloss": "determination",
+     "grounds": "indicates definitive explanation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What range is covered by the determination of Hākinī accomplishment?",
+   "premises": [
+    "A range beginning with Baddhā is named",
+    "The range ends with Vilakṣaṇā",
+    "It is linked to the determination of Hākinī accomplishment"
+   ],
+   "inference": "The determination of Hākinī accomplishment covers the range from Baddhā to Vilakṣaṇā",
+   "uncertainties": [
+    "The verse is compressed and its full syntactic connection may depend on adjacent verses"
+   ],
+   "plain_english": "From Baddhā and so forth up to Vilakṣaṇā is the determination of Hākinī accomplishment."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "kalikāle",
+     "gloss": "in-kali-age",
+     "grounds": "specifies the cosmic age; sandhi within token",
+     "morph": "compound: kali+kali + kāle+m.loc.sg"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "o-fair-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kalahaṃ",
+     "gloss": "quarrel",
+     "grounds": "names the conflict mentioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guru+śiṣyayoḥ",
+     "gloss": "of-guru-and-disciple",
+     "grounds": "compound indicating the two parties; sandhi within token",
+     "morph": "compound: guru+teacher + śiṣyayoḥ+m.gen.dual"
+    }
+   ],
+   "question": "What conflict between teacher and disciple is noted in the Kali age?",
+   "premises": [
+    "The setting is the Kali age",
+    "The listener is addressed as fair one",
+    "A quarrel of guru and disciple is named"
+   ],
+   "inference": "In the Kali age there is a quarrel between guru and disciple",
+   "uncertainties": [
+    "The verse is fragmentary and likely continues in the following verse"
+   ],
+   "plain_english": "O fair one, in the Kali age there is quarrel between guru and disciple."
+  }
+ ]
+}

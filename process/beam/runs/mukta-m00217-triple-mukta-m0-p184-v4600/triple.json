@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p184",
+ "items": [
+  {
+   "verse": 4600,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating continuation of prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatatrayādūrdhva",
+     "gloss": "beyond-three-hundred",
+     "grounds": "compound expressing a time threshold after three hundred units; internal sandhi within fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "object of ritual satisfaction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual action of offering satisfaction",
+     "morph": "3.sg.opt.act √tṛp"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "ritual substance used for the act of satisfaction",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "By what means must the deity be satisfied after more than three hundred days?",
+   "premises": [
+    "A prescribed period extends beyond three hundred days.",
+    "The deity is the recipient of ritual satisfaction.",
+    "Waters serve as the means of performing this satisfaction."
+   ],
+   "inference": "Therefore, after more than three hundred days, one should satisfy the deity with waters.",
+   "uncertainties": [
+    "The exact unit counted as three hundred (days or another measure) is not specified in this verse alone."
+   ],
+   "plain_english": "Thus, after more than three hundred, one should satisfy the deity with waters."
+  }
+ ]
+}

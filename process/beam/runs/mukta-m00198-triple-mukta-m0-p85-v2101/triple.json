@@ -1,0 +1,845 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "sitavastradharaṃ",
+     "gloss": "white-garment-wearing",
+     "grounds": "compound: sita-vastra-dhara + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "adjective qualifying the figure",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri-netra + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "padmasaṃsthitam",
+     "gloss": "lotus-seated",
+     "grounds": "compound: padma-saṃsthita + accusative ending",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "What iconographic attributes characterize the white-garmented peaceful three-eyed lotus-seated figure?",
+   "premises": [
+    "The figure wears white garments.",
+    "The figure is peaceful and three-eyed.",
+    "The figure is seated on a lotus."
+   ],
+   "inference": "The described figure is defined by white garments, peacefulness, three eyes, and a lotus seat.",
+   "uncertainties": [],
+   "plain_english": "He wears white garments, is peaceful, three-eyed, and seated on a lotus."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "ācāryaṃ",
+     "gloss": "teacher",
+     "grounds": "object of description",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "caturbhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound: catur-bhuja + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "adjective qualifying the teacher",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva-ābharaṇa-bhūṣita + accusative ending",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "What iconographic attributes characterize the teacher described in this passage?",
+   "premises": [
+    "The teacher is four-armed.",
+    "The teacher is peaceful.",
+    "The teacher is adorned with all ornaments."
+   ],
+   "inference": "The teacher is identified by four arms, peacefulness, and complete ornamentation.",
+   "uncertainties": [],
+   "plain_english": "The teacher is four-armed, peaceful, and adorned with all ornaments."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness-gesture",
+     "grounds": "object or attribute held/displayed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varadopetaṃ",
+     "gloss": "endowed-with-boon-gesture",
+     "grounds": "compound: varada-upeta + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "khaḍgakheṭakadhāriṇam",
+     "gloss": "holding-sword-and-shield",
+     "grounds": "compound: khaḍga-kheṭaka-dhārin + accusative ending",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "Which hand gestures and weapons define the figure's iconographic form here?",
+   "premises": [
+    "The figure displays the fearlessness gesture.",
+    "The figure is endowed with the boon-giving gesture.",
+    "The figure holds a sword and a shield."
+   ],
+   "inference": "The figure is characterized by fearlessness and boon gestures together with sword and shield.",
+   "uncertainties": [],
+   "plain_english": "He shows the gesture of fearlessness, is endowed with the boon-giving gesture, and holds a sword and shield."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "abhayaścaturbhujaśśānto",
+     "gloss": "fearless-four-armed-peaceful",
+     "grounds": "fused compound chain with internal sandhi: abhayaḥ + caturbhujaḥ + śāntaḥ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "jaṭāmakuṭamaṇḍitaḥ",
+     "gloss": "adorned-with-matted-hair-crown",
+     "grounds": "compound: jaṭā-makuṭa-maṇḍita + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What combined attributes distinguish the fearless four-armed peaceful crowned figure?",
+   "premises": [
+    "The figure is fearless, four-armed, and peaceful.",
+    "The figure is adorned with a crown of matted hair."
+   ],
+   "inference": "The figure is identified by fearlessness, four arms, peacefulness, and a matted-hair crown.",
+   "uncertainties": [],
+   "plain_english": "He is fearless, four-armed, peaceful, and adorned with a crown of matted hair."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness-gesture",
+     "grounds": "object or attribute displayed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varadopetaḥ",
+     "gloss": "endowed-with-boon-gesture",
+     "grounds": "compound: varada-upeta + nominative ending",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "śūlapāśadharo",
+     "gloss": "bearing-trident-and-noose",
+     "grounds": "compound: śūla-pāśa-dhara + nominative ending",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed form",
+     "morph": "3.sg.optative.act √bhū"
+    }
+   ],
+   "question": "What prescribed attributes should the trident-and-noose-bearing figure possess?",
+   "premises": [
+    "The figure should display the fearlessness gesture.",
+    "The figure should be endowed with the boon-giving gesture.",
+    "The figure should bear a trident and a noose."
+   ],
+   "inference": "The prescribed form includes fearlessness and boon gestures along with trident and noose.",
+   "uncertainties": [],
+   "plain_english": "He should display fearlessness, be endowed with the boon-giving gesture, and bear a trident and noose."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "atyanta",
+     "gloss": "extremely",
+     "grounds": "intensifier modifying the following adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sundarā",
+     "gloss": "beautiful",
+     "grounds": "adjective qualifying the figure",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śāntā",
+     "gloss": "peaceful",
+     "grounds": "adjective qualifying the figure",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitā",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva-ābharaṇa-bhūṣita + nominative ending",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What qualities and adornments characterize the extremely beautiful female figure?",
+   "premises": [
+    "The figure is extremely beautiful.",
+    "The figure is peaceful.",
+    "The figure is adorned with all ornaments."
+   ],
+   "inference": "The female figure is defined by great beauty, peacefulness, and complete ornamentation.",
+   "uncertainties": [],
+   "plain_english": "She is extremely beautiful, peaceful, and adorned with all ornaments."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "karaṇḍamakuṭopetā",
+     "gloss": "endowed-with-basket-crown",
+     "grounds": "compound: karaṇḍa-makuṭa-upeta + nominative ending",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "padmapīṭhopari",
+     "gloss": "upon-lotus-seat",
+     "grounds": "compound: padma-pīṭha-upari with internal sandhi",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "standing",
+     "grounds": "past participle indicating posture",
+     "morph": "nom.sg.f.past-participle √sthā"
+    }
+   ],
+   "question": "What crown and posture identify the female figure upon the lotus seat?",
+   "premises": [
+    "The figure is endowed with a basket-shaped crown.",
+    "The figure is upon a lotus seat.",
+    "The figure is standing."
+   ],
+   "inference": "The female figure stands upon a lotus seat wearing a basket-shaped crown.",
+   "uncertainties": [],
+   "plain_english": "She wears a basket-shaped crown and stands upon a lotus seat."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "dukūlapaṭṭadevāṃgaiḥ",
+     "gloss": "with-silk-cloth-divine-limbs",
+     "grounds": "compound: dukūla-paṭṭa-deva-aṅga with instrumental ending; internal sandhi in devāṃgaiḥ",
+     "morph": "compound.ins.pl.n"
+    },
+    {
+     "surface": "nānāvastradharā",
+     "gloss": "wearing-various-garments",
+     "grounds": "compound: nānā-vastra-dhara + nominative ending",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "varā",
+     "gloss": "excellent",
+     "grounds": "adjective qualifying the figure",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What garments and bodily adornments distinguish the excellent female figure?",
+   "premises": [
+    "The figure has divine limbs adorned with silk cloth.",
+    "The figure wears various garments.",
+    "The figure is excellent."
+   ],
+   "inference": "The excellent female figure is distinguished by silk adornment and various garments.",
+   "uncertainties": [
+    "The exact syntactic relation of dukūlapaṭṭadevāṃgaiḥ is somewhat compressed."
+   ],
+   "plain_english": "She is excellent, with divine limbs adorned in silk cloth, and wearing various garments."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "ājānulambya",
+     "gloss": "hanging-to-knees",
+     "grounds": "compound or gerundive form indicating extension to the knees",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastā",
+     "gloss": "hand",
+     "grounds": "noun indicating the hand",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samabhaṃgikā",
+     "gloss": "evenly-bent-posture",
+     "grounds": "adjective describing posture",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What hand position and bodily posture are prescribed for the figure's left side?",
+   "premises": [
+    "The left hand hangs down to the knees.",
+    "The figure has an evenly bent posture."
+   ],
+   "inference": "The figure is characterized by a knee-length left hand and an evenly bent posture.",
+   "uncertainties": [
+    "The grammatical role of hastā in this compressed description is slightly ambiguous."
+   ],
+   "plain_english": "On the left, her hand hangs down to the knees, and she stands in an evenly bent posture."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "caturbhujā",
+     "gloss": "four-armed",
+     "grounds": "compound: catur-bhuja + nominative ending",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "triṇetrā",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri-netra + nominative ending",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitā",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva-ābharaṇa-bhūṣita + nominative ending",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What bodily and ornamental attributes define the four-armed female figure?",
+   "premises": [
+    "The figure is four-armed.",
+    "The figure is three-eyed.",
+    "The figure is adorned with all ornaments."
+   ],
+   "inference": "The female figure is defined by four arms, three eyes, and complete ornamentation.",
+   "uncertainties": [],
+   "plain_english": "She is four-armed, three-eyed, and adorned with all ornaments."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "gaurīlakṣaṇamākhyātaṃ",
+     "gloss": "gauri-marks-declared",
+     "grounds": "compound: gaurī-lakṣaṇa-ākhyāta with nominative ending; internal sandhi",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner or comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalalakṣaṇam",
+     "gloss": "with-all-marks",
+     "grounds": "compound: sakala-lakṣaṇa + accusative ending",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "How completely are the defining marks of Gauri declared in this account?",
+   "premises": [
+    "The marks of Gauri have been declared.",
+    "They are declared as comprising all marks."
+   ],
+   "inference": "The account presents the marks of Gauri as fully and completely stated.",
+   "uncertainties": [],
+   "plain_english": "Thus the marks of Gauri have been declared in their entirety."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "śivaścaturbhujaḥ",
+     "gloss": "shiva-four-armed",
+     "grounds": "compound with internal sandhi: śivaḥ + caturbhujaḥ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "adjective qualifying Shiva",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitaḥ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva-ābharaṇa-bhūṣita + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What iconographic attributes characterize Shiva in this description?",
+   "premises": [
+    "Shiva is four-armed.",
+    "Shiva is peaceful.",
+    "Shiva is adorned with all ornaments."
+   ],
+   "inference": "Shiva is identified by four arms, peacefulness, and complete ornamentation.",
+   "uncertainties": [],
+   "plain_english": "Shiva is four-armed, peaceful, and adorned with all ornaments."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness-gesture",
+     "grounds": "object or attribute displayed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varadopetaḥ",
+     "gloss": "endowed-with-boon-gesture",
+     "grounds": "compound: varada-upeta + nominative ending",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "khaḍgakheṭakadhāraṇaḥ",
+     "gloss": "holding-sword-and-shield",
+     "grounds": "compound: khaḍga-kheṭaka-dhāraṇa + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "Which gestures and weapons are attributed to Shiva in this form?",
+   "premises": [
+    "Shiva displays the fearlessness gesture.",
+    "Shiva is endowed with the boon-giving gesture.",
+    "Shiva holds a sword and a shield."
+   ],
+   "inference": "Shiva's form includes fearlessness and boon gestures together with sword and shield.",
+   "uncertainties": [],
+   "plain_english": "He shows the gesture of fearlessness, is endowed with the boon-giving gesture, and holds a sword and shield."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "caturvaktraścaturbāhuḥ",
+     "gloss": "four-faced-four-armed",
+     "grounds": "compound with internal sandhi: caturvaktraḥ + caturbāhuḥ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "haritālasamaprabhaḥ",
+     "gloss": "with-luster-like-orpiment",
+     "grounds": "compound: haritāla-sama-prabha + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What facial, bodily, and luminous features define this four-faced figure?",
+   "premises": [
+    "The figure is four-faced and four-armed.",
+    "The figure has a luster like orpiment."
+   ],
+   "inference": "The figure is identified by four faces, four arms, and an orpiment-like radiance.",
+   "uncertainties": [],
+   "plain_english": "He is four-faced, four-armed, and radiant like orpiment."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "kṛṣṇājinottarīyaśca",
+     "gloss": "with-black-antelope-skin-upper-garment",
+     "grounds": "compound: kṛṣṇa-ajina-uttarīya with nominative ending and appended ca; internal sandhi",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "yajñasūtrasamanvitaḥ",
+     "gloss": "endowed-with-sacred-thread",
+     "grounds": "compound: yajñasūtra-samanvita + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What ritual garments and insignia characterize the described figure?",
+   "premises": [
+    "The figure wears a black antelope skin as an upper garment.",
+    "The figure is endowed with the sacred thread."
+   ],
+   "inference": "The figure is marked by a black antelope skin upper garment and the sacred thread.",
+   "uncertainties": [],
+   "plain_english": "He wears a black antelope skin as an upper garment and is endowed with the sacred thread."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "śuklamālyānulepaśca",
+     "gloss": "with-white-garland-and-unguent",
+     "grounds": "compound: śukla-mālya-anulepa with nominative ending and appended ca; internal sandhi",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "karṇakuṇḍalamaṇḍitaḥ",
+     "gloss": "adorned-with-ear-earrings",
+     "grounds": "compound: karṇa-kuṇḍala-maṇḍita + nominative ending",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What floral, cosmetic, and jewelry adornments distinguish the figure?",
+   "premises": [
+    "The figure has white garlands and unguents.",
+    "The figure is adorned with earrings."
+   ],
+   "inference": "The figure is distinguished by white garlands, unguents, and earrings.",
+   "uncertainties": [],
+   "plain_english": "He is adorned with white garlands and unguents, and decorated with earrings."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "kamaṇḍalaṃ",
+     "gloss": "water-pot",
+     "grounds": "object held",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuśaṃ",
+     "gloss": "kusha-grass",
+     "grounds": "object held",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sruksruvau",
+     "gloss": "ladle-and-spoon",
+     "grounds": "dual compound object: sruk + sruva",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "dharaḥ",
+     "gloss": "bearing",
+     "grounds": "agent noun indicating holder",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which ritual implements are assigned to the figure's left and right hands?",
+   "premises": [
+    "The figure bears a water pot and kusha grass in the left.",
+    "The figure bears the ladle and spoon in the right."
+   ],
+   "inference": "The figure's hands are distinguished by specific Vedic ritual implements on each side.",
+   "uncertainties": [],
+   "plain_english": "He holds a water pot and kusha grass in the left, and the sacrificial ladle and spoon in the right."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness-gesture",
+     "grounds": "object or attribute displayed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varadau",
+     "gloss": "boon-giving",
+     "grounds": "dual adjective describing the hands",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "front",
+     "grounds": "adjective indicating foremost hands",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "two-hands",
+     "grounds": "dual noun",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "What alternative gesture is prescribed for the figure's front hands?",
+   "premises": [
+    "The front hands may display fearlessness and boon-giving.",
+    "The instruction is addressed to the best of the twice-born."
+   ],
+   "inference": "As an alternative, the front hands are prescribed to show fearlessness and boon-giving gestures.",
+   "uncertainties": [],
+   "plain_english": "Or, O best of the twice-born, the front two hands may show the gestures of fearlessness and boon-giving."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "meḍhramūlopariṣṭāttu",
+     "gloss": "above-root-of-genitals",
+     "grounds": "compound: meḍhra-mūla-upariṣṭāt with appended tu; internal sandhi",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "vāmahastordhvavaktrakam",
+     "gloss": "left-hand-upward-facing",
+     "grounds": "compound: vāma-hasta-ūrdhva-vaktraka with accusative ending; internal sandhi",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "Where and in what orientation is the left hand positioned in this prescription?",
+   "premises": [
+    "The position is above the root of the genitals.",
+    "The left hand is turned upward."
+   ],
+   "inference": "The left hand is prescribed to be placed above the root of the genitals facing upward.",
+   "uncertainties": [],
+   "plain_english": "Above the root of the genitals, the left hand should be turned upward."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locative indicating side",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "cākṣamālāṃ",
+     "gloss": "and-rosary",
+     "grounds": "accusative object with prefixed ca; internal sandhi",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "compound: vāma-hasta + locative ending",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "kamaṇḍalum",
+     "gloss": "water-pot",
+     "grounds": "object held",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which sacred objects are placed in the right and left hands respectively?",
+   "premises": [
+    "A rosary is placed in the right hand.",
+    "A water pot is placed in the left hand."
+   ],
+   "inference": "The right hand holds a rosary and the left hand holds a water pot.",
+   "uncertainties": [],
+   "plain_english": "In the right hand is a rosary, and in the left hand is a water pot."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "āsīno",
+     "gloss": "seated",
+     "grounds": "present participle indicating posture",
+     "morph": "nom.sg.m.present-participle √ās"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "past participle indicating posture",
+     "morph": "nom.sg.m.past-participle √sthā"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "compound particle: vā + api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmapīṭhopari",
+     "gloss": "upon-lotus-seat",
+     "grounds": "compound: padma-pīṭha-upari with internal sandhi",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "placed",
+     "grounds": "past participle indicating position",
+     "morph": "nom.sg.m.past-participle √sthā"
+    }
+   ],
+   "question": "What alternative postures are permitted for the figure upon the lotus seat?",
+   "premises": [
+    "The figure may be seated.",
+    "The figure may be standing.",
+    "The figure is upon a lotus seat."
+   ],
+   "inference": "The figure may be depicted either seated or standing upon a lotus seat.",
+   "uncertainties": [],
+   "plain_english": "He may be seated or standing, placed upon a lotus seat."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "sarvābharaṇasaṃyuktaṃ",
+     "gloss": "endowed-with-all-ornaments",
+     "grounds": "compound: sarva-ābharaṇa-saṃyukta + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śuklavastropavītakam",
+     "gloss": "with-white-garment-and-sacred-thread",
+     "grounds": "compound: śukla-vastra-upavītaka + accusative ending; internal sandhi",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "What ornaments and garments characterize the figure in this description?",
+   "premises": [
+    "The figure is endowed with all ornaments.",
+    "The figure wears white garments and the sacred thread."
+   ],
+   "inference": "The figure is distinguished by complete ornamentation, white garments, and the sacred thread.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with all ornaments, wearing white garments and the sacred thread."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "abhayavaradopetaṃ",
+     "gloss": "endowed-with-fearlessness-and-boon",
+     "grounds": "compound: abhaya-varada-upeta + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śūlapāśadhṛtaṃ",
+     "gloss": "holding-trident-and-noose",
+     "grounds": "compound: śūla-pāśa-dhṛta + accusative ending",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "śucim",
+     "gloss": "pure",
+     "grounds": "adjective qualifying the figure",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What gestures, weapons, and quality define the pure figure described here?",
+   "premises": [
+    "The figure is endowed with fearlessness and boon gestures.",
+    "The figure holds a trident and a noose.",
+    "The figure is pure."
+   ],
+   "inference": "The pure figure is characterized by fearlessness and boon gestures together with trident and noose.",
+   "uncertainties": [],
+   "plain_english": "He is pure, endowed with the gestures of fearlessness and boon-giving, and holding a trident and noose."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "bhṛgu",
+     "grounds": "proper name of the figure",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śuklanibhaśśāntaḥ",
+     "gloss": "white-like-peaceful",
+     "grounds": "compound with internal sandhi: śuklanibhaḥ + śāntaḥ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "adjective qualifying Bhṛgu",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śuklavastradharastataḥ",
+     "gloss": "then-white-garment-wearing",
+     "grounds": "compound: śukla-vastra-dhara with nominative ending and appended tataḥ; internal sandhi",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What appearance and attire characterize Bhṛgu in this iconographic description?",
+   "premises": [
+    "Bhṛgu is white in appearance and peaceful.",
+    "Bhṛgu is peaceful and wears white garments."
+   ],
+   "inference": "Bhṛgu is characterized by a white appearance, peacefulness, and white garments.",
+   "uncertainties": [
+    "The repetition of śāntaḥ may be emphatic or a textual redundancy."
+   ],
+   "plain_english": "Bhṛgu is white in appearance, peaceful, and then described as wearing white garments."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "ghṛta+sruvam",
+     "gloss": "ghee-ladle",
+     "grounds": "fused sandhi form as given; compound naming the ghee ladle",
+     "morph": "compound = ghee+ladle"
+    },
+    {
+     "surface": "ghṛta+pūrṇa+sruvam",
+     "gloss": "ghee-filled-ladle",
+     "grounds": "fused sandhi form as given; compound naming the ladle filled with ghee",
+     "morph": "compound = ghee+filled+ladle"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative form of the root dā",
+     "morph": "3.sg.act.opt.+dā"
+    }
+   ],
+   "question": "Which ladle is to be given when the cooked offering is presented?",
+   "premises": [
+    "the cooked offering requires a ladle",
+    "the ladle is filled with ghee",
+    "the officiant should give that ladle"
+   ],
+   "inference": "The ritual prescribes giving a ghee-filled ladle.",
+   "uncertainties": [
+    "exact ritual context is not fully supplied by the verse alone"
+   ],
+   "plain_english": "He should give a ghee-filled ladle."
+  }
+ ]
+}

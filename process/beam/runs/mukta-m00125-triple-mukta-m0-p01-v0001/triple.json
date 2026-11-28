@@ -1,0 +1,1041 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "miśre",
+     "gloss": "in-mixed",
+     "grounds": "locative context of mixed practice",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhiṇāṃ",
+     "gloss": "for-householders",
+     "grounds": "beneficiaries of the practice",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yogyaṃ",
+     "gloss": "suitable",
+     "grounds": "predicate of appropriateness",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "parārthayajanārthakam",
+     "gloss": "for-worship-for-others",
+     "grounds": "compound: parārtha+yajana+arthaka",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "For whom and for what purpose is the mixed form of practice suitable?",
+   "premises": [
+    "The context is a mixed practice",
+    "Householders are the intended practitioners",
+    "The practice serves worship performed for others"
+   ],
+   "inference": "In the mixed mode, the practice is suitable for householders when performing worship on behalf of others.",
+   "uncertainties": [],
+   "plain_english": "And in the mixed mode, it is suitable for householders for the purpose of performing worship for others."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "prātarāvaśyakaṃ",
+     "gloss": "morning-obligatory",
+     "grounds": "compound: prātar+āvaśyaka",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śaucaṃ",
+     "gloss": "purification",
+     "grounds": "object of the preparatory act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of completion",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual bathing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive of performance",
+     "morph": "abs.(vi-dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory acts must be completed at the start of the morning obligatory routine?",
+   "premises": [
+    "Morning obligatory purification must be done",
+    "Ritual bathing must be performed",
+    "These acts precede further rites"
+   ],
+   "inference": "The morning obligatory routine begins with purification followed by ritual bathing.",
+   "uncertainties": [],
+   "plain_english": "Having done the morning obligatory purification and having performed the bath,"
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "pītvā",
+     "gloss": "having-sipped",
+     "grounds": "ritual sipping of water",
+     "morph": "abs.(pā)"
+    },
+    {
+     "surface": "saṃmārjayet",
+     "gloss": "one-should-cleanse",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(sam-mṛj)"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates conformity with prior manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhi krāviṇṇeti cādibhiḥ",
+     "gloss": "with-dadhi-krāviṇṇa-and-others",
+     "grounds": "mantra formula and similar ones; kept as given",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How should cleansing be performed after sipping water in the morning rite?",
+   "premises": [
+    "Sipping water precedes cleansing",
+    "Cleansing should be done in the prescribed manner",
+    "The formulas beginning with dadhi krāviṇṇa are to be used"
+   ],
+   "inference": "After sipping water, one should cleanse likewise using the formula dadhi krāviṇṇa and similar ones.",
+   "uncertainties": [
+    "The exact mantra text and extent of 'and others' are not specified here."
+   ],
+   "plain_english": "Having sipped water, one should cleanse likewise with the formula 'dadhi krāviṇṇa' and others."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "punastenaiva",
+     "gloss": "again-with-that-very",
+     "grounds": "compound: punar+tena+eva",
+     "morph": "(indecl.)+m.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of recitation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "daśavāraṃ",
+     "gloss": "ten-times",
+     "grounds": "compound indicating repetition count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japannayet",
+     "gloss": "should-perform-recitation",
+     "grounds": "prescriptive act of japa",
+     "morph": "3.sg.opt.act.(jap+nī)"
+    }
+   ],
+   "question": "How many times and with which mantra should the recitation be performed again?",
+   "premises": [
+    "The same mantra is to be used again",
+    "The recitation is repeated ten times",
+    "The act is prescribed as obligatory"
+   ],
+   "inference": "One should again perform recitation ten times with that very same mantra.",
+   "uncertainties": [],
+   "plain_english": "Again, one should perform recitation ten times with that very same mantra."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "śruti smṛtyādi",
+     "gloss": "revelation-tradition-and-others",
+     "grounds": "compound: śruti+smṛti+ādi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsiddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "result or perfection attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "anuṣṭhānantu",
+     "gloss": "but-practice",
+     "grounds": "sandhi: anuṣṭhānam+tu",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "yadbhavet",
+     "gloss": "whatever-may-be",
+     "grounds": "sandhi: yat+bhavet; general condition",
+     "morph": "n.nom.sg+3.sg.opt.act.(bhū)"
+    }
+   ],
+   "question": "What role does practice play in attaining accomplishment grounded in revelation and tradition?",
+   "premises": [
+    "Accomplishment is associated with revelation, tradition, and related sources",
+    "Practice is the operative factor",
+    "The specific form of practice may vary"
+   ],
+   "inference": "Whatever practice may be undertaken, it serves the accomplishment grounded in revelation, tradition, and the like.",
+   "uncertainties": [
+    "The syntactic completion of the clause may continue beyond this verse."
+   ],
+   "plain_english": "Whatever the practice may be, it leads to accomplishment grounded in revelation, tradition, and so forth."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "saṃdhyāyāṃ",
+     "gloss": "at-twilight-rite",
+     "grounds": "locative of ritual occasion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vandane",
+     "gloss": "in-veneration",
+     "grounds": "locative of ritual act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "sandhi: vā+api; alternative",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "tarpaṇe",
+     "gloss": "in-libation",
+     "grounds": "locative of ritual act",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "homakarmaṇi",
+     "gloss": "in-fire-offering-rite",
+     "grounds": "compound: homa+karman",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which ritual contexts does the question of obligatory observance arise?",
+   "premises": [
+    "The twilight rite is a possible context",
+    "Veneration and libation are possible contexts",
+    "The fire-offering rite is a possible context"
+   ],
+   "inference": "The issue applies to contexts such as the twilight rite, veneration, libation, or the fire-offering rite.",
+   "uncertainties": [],
+   "plain_english": "At the twilight rite, in veneration, or in libation, or in the fire-offering rite,"
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "gerundive.nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na kartavyaṃ",
+     "gloss": "not-to-be-done",
+     "grounds": "negated gerundive; kept as given token",
+     "morph": "(indecl.)+gerundive.nom.sg.n"
+    },
+    {
+     "surface": "śaivamāvaśyakaṃ",
+     "gloss": "śaiva-obligatory-duty",
+     "grounds": "compound: śaiva+āvaśyaka",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle indicating doctrinal view",
+     "morph": "ppp.nom.sg.n.(man)"
+    }
+   ],
+   "question": "Is the Śaiva obligatory duty required within the listed ritual contexts?",
+   "premises": [
+    "The Śaiva obligatory duty is under consideration",
+    "It may be deemed to be done or not done",
+    "The determination depends on doctrinal judgment"
+   ],
+   "inference": "The Śaiva obligatory duty is considered either to be performed or not performed in those contexts.",
+   "uncertainties": [
+    "The verse states the alternatives without resolving which view is preferred."
+   ],
+   "plain_english": "The Śaiva obligatory duty is considered either to be done or not to be done."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "vrajeddevālayādyaṃ",
+     "gloss": "should-go-to-temple-and-others",
+     "grounds": "sandhi: vrajet+devālaya+ādyam",
+     "morph": "3.sg.opt.act.(vraj)+n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaśaucaṃ",
+     "gloss": "foot-purification",
+     "grounds": "compound: pāda+śauca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive of performance",
+     "morph": "abs.(vi-dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions should precede entering a temple or similar sacred place?",
+   "premises": [
+    "One should go to a temple or similar place",
+    "Foot purification must be performed",
+    "This purification precedes further rites"
+   ],
+   "inference": "Before proceeding in the temple, one should go there and perform foot purification.",
+   "uncertainties": [],
+   "plain_english": "One should go to the temple or such places, and having performed foot purification,"
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "three-lines-mark",
+     "grounds": "ritual mark of three horizontal lines",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasmanā",
+     "gloss": "with-ash",
+     "grounds": "instrumental material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of making",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "sāndreṇa",
+     "gloss": "with-thick",
+     "grounds": "quality of the ash",
+     "morph": "adj.ins.sg.n"
+    },
+    {
+     "surface": "dhavalena",
+     "gloss": "with-white",
+     "grounds": "quality of the ash",
+     "morph": "adj.ins.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the tripuṇḍra mark be prepared and applied before worship?",
+   "premises": [
+    "The tripuṇḍra mark is to be made",
+    "Ash is the material used",
+    "The ash should be thick and white"
+   ],
+   "inference": "One should make the tripuṇḍra mark with thick, white ash.",
+   "uncertainties": [],
+   "plain_english": "And having made the tripuṇḍra mark with thick, white ash,"
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of meditation",
+     "morph": "abs.(dhyai)"
+    },
+    {
+     "surface": "jvalantaṃ",
+     "gloss": "blazing",
+     "grounds": "describes the meditated sound-form",
+     "morph": "pres.part.acc.sg.m.(jval)"
+    },
+    {
+     "surface": "huṃkāraṃ",
+     "gloss": "huṃ-sound",
+     "grounds": "bīja syllable form; transliterated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "breaths",
+     "grounds": "vital breaths to be controlled",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃyamya",
+     "gloss": "having-restrained",
+     "grounds": "absolutive of restraint",
+     "morph": "abs.(sam-yam)"
+    },
+    {
+     "surface": "niścalam",
+     "gloss": "motionless",
+     "grounds": "resulting state of restraint",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What meditative and breath-control actions prepare the practitioner for inner ascent?",
+   "premises": [
+    "One meditates on the blazing huṃ-sound",
+    "The breaths are restrained",
+    "The restraint aims at a motionless state"
+   ],
+   "inference": "Meditating on the blazing huṃ-sound and restraining the breaths motionlessly prepares the practitioner.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the blazing huṃ-sound, and having restrained the breaths motionlessly,"
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "pañcagranthīṃ",
+     "gloss": "five-knots",
+     "grounds": "compound: pañca+granthi; internal blockages",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "stato",
+     "gloss": "then",
+     "grounds": "sandhi: stataḥ; sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhitvā",
+     "gloss": "having-pierced",
+     "grounds": "absolutive of piercing",
+     "morph": "abs.(bhid)"
+    },
+    {
+     "surface": "tasmātprati",
+     "gloss": "from-that-back",
+     "grounds": "compound: tasmāt+prati; indicates reversal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivṛtya",
+     "gloss": "having-turned-back",
+     "grounds": "absolutive of returning",
+     "morph": "abs.(ni-vṛt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What internal action follows the piercing of the five knots in this yogic sequence?",
+   "premises": [
+    "The five knots are pierced",
+    "A reversal or return follows from that point",
+    "The sequence continues after turning back"
+   ],
+   "inference": "After piercing the five knots, one turns back from that point to continue the process.",
+   "uncertainties": [
+    "The precise referent of 'from that' is context-dependent."
+   ],
+   "plain_english": "Then, having pierced the five knots, and having turned back from that point,"
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "kuṃbhakena",
+     "gloss": "with-breath-retention",
+     "grounds": "yogic retention of breath",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "endowed-with",
+     "grounds": "compound: sama+upeta; accompanied by",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "vāyumūrdhvagataṃ",
+     "gloss": "upward-moving-breath",
+     "grounds": "compound: vāyu+ūrdhva+gata",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(nī)"
+    }
+   ],
+   "question": "How should the upward-moving breath be guided during retention?",
+   "premises": [
+    "Breath retention is employed",
+    "The breath is directed upward",
+    "The practitioner actively leads the breath"
+   ],
+   "inference": "One should lead the upward-moving breath while endowed with breath retention.",
+   "uncertainties": [],
+   "plain_english": "One should lead the upward-moving breath, accompanied by breath retention."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "ātmayojana",
+     "gloss": "union-with-self",
+     "grounds": "compound: ātma+yojana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "metatsyāt",
+     "gloss": "this-should-be",
+     "grounds": "sandhi: etat+syāt",
+     "morph": "n.nom.sg+3.sg.opt.act.(as)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtādi",
+     "gloss": "elements-and-others",
+     "grounds": "compound: bhūta+ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(śudh-caus.)"
+    }
+   ],
+   "question": "What purification follows the establishment of union with the self?",
+   "premises": [
+    "This constitutes union with the self",
+    "Purification follows afterward",
+    "The elements and related constituents are the objects of purification"
+   ],
+   "inference": "After this union with the self, one should purify the elements and so forth.",
+   "uncertainties": [],
+   "plain_english": "This should be union with the self; then one should purify the elements and so forth."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "vyāpya",
+     "gloss": "having-pervaded",
+     "grounds": "absolutive indicating pervasive awareness",
+     "morph": "abs.(vi-āp)"
+    },
+    {
+     "surface": "vyavasthitānīti",
+     "gloss": "as-established-thus",
+     "grounds": "sandhi: vyavasthitān+iti",
+     "morph": "ppp.acc.pl.m.(vi-ava-sthā)+(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-considered",
+     "grounds": "absolutive of cognition",
+     "morph": "abs.(man)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers to the elements",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(vi-śudh-caus.)"
+    }
+   ],
+   "question": "How must the elements be apprehended before their purification is carried out?",
+   "premises": [
+    "The elements are pervaded by awareness",
+    "They are recognized as established in their places",
+    "Purification follows this recognition"
+   ],
+   "inference": "Having pervaded and recognized the elements as established, one should purify them.",
+   "uncertainties": [],
+   "plain_english": "Having pervaded them and considered them as established, one should purify those elements."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "maṇḍalādi",
+     "gloss": "circles-and-others",
+     "grounds": "compound: maṇḍala+ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "compound: sam+āyukta",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "bhūtaśuddhirihoditā",
+     "gloss": "element-purification-here-declared",
+     "grounds": "sandhi: bhūtaśuddhiḥ+iha+uditā",
+     "morph": "f.nom.sg+(indecl.)+ppp.nom.sg.f.(vad)"
+    }
+   ],
+   "question": "What constitutes the element purification taught in this context?",
+   "premises": [
+    "Element purification is being defined",
+    "It is joined with circles and related elements",
+    "This form is declared in the present teaching"
+   ],
+   "inference": "Element purification, as taught here, is that which is joined with the circles and so forth.",
+   "uncertainties": [],
+   "plain_english": "Element purification, as taught here, is that which is joined with the circles and so forth."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "vicintya",
+     "gloss": "having-contemplated",
+     "grounds": "absolutive of contemplation",
+     "morph": "abs.(vi-cint)"
+    },
+    {
+     "surface": "divyadehārtha",
+     "gloss": "for-divine-body",
+     "grounds": "compound: divya+deha+artha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mamṛtāplāvanaṃ",
+     "gloss": "immersion-in-nectar",
+     "grounds": "sandhi: amṛta+āplāvanam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-bring-about",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(nī)"
+    }
+   ],
+   "question": "What contemplative act produces the nectar immersion for attaining a divine body?",
+   "premises": [
+    "A divine body is the intended aim",
+    "Immersion in nectar is the means",
+    "Contemplation precedes bringing it about"
+   ],
+   "inference": "Having contemplated for the sake of a divine body, one should bring about immersion in nectar.",
+   "uncertainties": [],
+   "plain_english": "Having contemplated for the sake of a divine body, one should bring about immersion in nectar."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "tadud",
+     "gloss": "from-that-arisen",
+     "grounds": "sandhi: tat+ud; born from that",
+     "morph": "pron.nom.sg.n+(indecl.)"
+    },
+    {
+     "surface": "bhūtāmṛtastrāvaissiktāṃ",
+     "gloss": "sprinkled-by-streams-of-element-nectar",
+     "grounds": "compound: bhūta+amṛta+srāva+sikta; sandhi in form",
+     "morph": "ppp.acc.sg.f.(sic)"
+    },
+    {
+     "surface": "divyāṃ",
+     "gloss": "divine",
+     "grounds": "qualifies the digit",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kalāṃ",
+     "gloss": "digit",
+     "grounds": "subtle part or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescriptive meditation",
+     "morph": "3.sg.opt.act.(smṛ)"
+    }
+   ],
+   "question": "What divine digit should be visualized as sprinkled by streams of nectar arising from the elements?",
+   "premises": [
+    "Streams of nectar arise from the purified elements",
+    "A divine digit is sprinkled by these streams",
+    "This digit should be remembered in meditation"
+   ],
+   "inference": "One should remember the divine digit sprinkled by streams of nectar arising from those elements.",
+   "uncertainties": [
+    "The specific identity of the 'divine digit' is not named in this verse."
+   ],
+   "plain_english": "One should remember the divine digit, sprinkled by streams of nectar arising from those elements."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "punarāplāvanaṃ",
+     "gloss": "again-immersion",
+     "grounds": "compound: punar+āplāvana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of completion",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "karanyāsaṃ",
+     "gloss": "hand-placement",
+     "grounds": "ritual placement on the hands",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.ātman.(sam-ā-rabh)"
+    }
+   ],
+   "question": "What ritual action should be begun after performing immersion once again?",
+   "premises": [
+    "Immersion is performed again",
+    "Hand placement is the next rite",
+    "The practitioner should begin it"
+   ],
+   "inference": "After performing immersion again, one should begin the hand placement.",
+   "uncertainties": [],
+   "plain_english": "Having performed immersion again, one should begin the hand placement."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "tayorbrahmāṇi",
+     "gloss": "on-those-two-brahman-formulas",
+     "grounds": "sandhi: tayoḥ+brahmāṇi; refers to two hands",
+     "morph": "pron.gen.du+n.acc.pl"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of placement",
+     "morph": "abs.(vi-ni-as)"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye-formula",
+     "grounds": "mantra associated with the eye",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karatale",
+     "gloss": "on-palm",
+     "grounds": "compound: kara+tala",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(ni-as)"
+    }
+   ],
+   "question": "Where and how should the brahman formulas and the eye formula be placed during hand placement?",
+   "premises": [
+    "Brahman formulas are placed on the two hands",
+    "The eye formula is placed on the palm",
+    "These placements follow a prescribed order"
+   ],
+   "inference": "Having placed the brahman formulas on the two hands, one should place the eye formula on the palm.",
+   "uncertainties": [
+    "The exact identity of the brahman formulas is not specified in this verse."
+   ],
+   "plain_english": "Having placed the brahman formulas on the two hands, one should place the eye formula on the palm."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "kavacenāva",
+     "gloss": "with-armor-protect",
+     "grounds": "sandhi: kavacena+ava; armor mantra used for protection",
+     "morph": "n.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "kuṇṭhayātha",
+     "gloss": "restrain-then",
+     "grounds": "sandhi: kuṇṭhaya+atha; ward off or blunt",
+     "morph": "2.sg.imp.act.(kuṇṭh)+ (indecl.)"
+    },
+    {
+     "surface": "sarvakarmasu",
+     "gloss": "in-all-rites",
+     "grounds": "compound: sarva+karman",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-employ",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(yuj-caus.)"
+    }
+   ],
+   "question": "How should the armor mantra be employed to provide protection in all rites?",
+   "premises": [
+    "The armor mantra is used as protection",
+    "It restrains or wards off obstacles",
+    "It should be employed in all rites"
+   ],
+   "inference": "One should employ the armor mantra to protect and restrain obstacles in all rites.",
+   "uncertainties": [
+    "The exact parsing of 'kavacenāva kuṇṭhayātha' is somewhat compressed."
+   ],
+   "plain_english": "With the armor mantra protect and restrain, and employ it in all rites."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "mūrdhādi pādaparyantaṃ",
+     "gloss": "from-head-to-foot",
+     "grounds": "compound: mūrdhan+ādi+pāda+paryanta; kept as given token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgabrahmāṇi",
+     "gloss": "limb-brahman-formulas",
+     "grounds": "compound: aṅga+brahman",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(vi-ni-as)"
+    }
+   ],
+   "question": "Over what range of the body should the limb-brahman formulas be placed?",
+   "premises": [
+    "Limb-brahman formulas are to be placed",
+    "The placement spans the whole body",
+    "The range extends from head to foot"
+   ],
+   "inference": "One should place the limb-brahman formulas from the head down to the feet.",
+   "uncertainties": [],
+   "plain_english": "One should place the limb-brahman formulas from the head to the feet."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "deity or mantra principle to be installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yathāsthānaṃ",
+     "gloss": "in-proper-place",
+     "grounds": "compound: yathā+sthāna",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛ",
+     "gloss": "hṛ",
+     "grounds": "fragmentary seed or abbreviation as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayādyaṃ",
+     "gloss": "heart-and-others",
+     "grounds": "compound: hṛdaya+ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "one-should-install",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.caus.act.(ni-viś)"
+    }
+   ],
+   "question": "Where should Śiva and the heart-mantra group be installed in the body?",
+   "premises": [
+    "Śiva is to be installed in the heart",
+    "The heart and related formulas are placed in their proper locations",
+    "Installation follows a prescribed arrangement"
+   ],
+   "inference": "One should install Śiva in the heart and place the heart-mantra group in their proper places.",
+   "uncertainties": [
+    "The token 'hṛ' is fragmentary and its exact role is unclear."
+   ],
+   "plain_english": "One should install Śiva in the heart and, in their proper places, install the heart and the other formulas."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "mahāmudrāṃ",
+     "gloss": "great-seal",
+     "grounds": "ritual hand gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of making",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "śivamantraṃ",
+     "gloss": "śiva-mantra",
+     "grounds": "compound: śiva+mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "present participle of recollection",
+     "morph": "pres.part.nom.sg.m.(anu-smṛ)"
+    }
+   ],
+   "question": "What gesture and recollection should accompany the next stage of the rite?",
+   "premises": [
+    "The great seal is to be made",
+    "The Śiva mantra is to be remembered",
+    "These actions occur in sequence"
+   ],
+   "inference": "After making the great seal, one should proceed while remembering the Śiva mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, having made the great seal, remembering the Śiva mantra,"
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "lipinyāsaṃ",
+     "gloss": "letter-placement",
+     "grounds": "ritual placement of letters",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act.(kṛ)"
+    },
+    {
+     "surface": "rudraśakti",
+     "gloss": "with-rudra-power",
+     "grounds": "compound: rudra+śakti",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What kind of letter placement should be performed after the preceding steps?",
+   "premises": [
+    "Letter placement is the next prescribed act",
+    "It is endowed with Rudra's power",
+    "It follows the earlier ritual sequence"
+   ],
+   "inference": "One should then perform the letter placement endowed with Rudra's power.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the letter placement, endowed with Rudra's power."
+  }
+ ]
+}

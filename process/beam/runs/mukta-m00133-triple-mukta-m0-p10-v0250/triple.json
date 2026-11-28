@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "dīkṣāyāṃ",
+     "gloss": "in-initiation",
+     "grounds": "locative of dīkṣā indicating the context of initiation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cañcala+apāṅgi",
+     "gloss": "o-trembling-eyed-one",
+     "grounds": "vocative address; compound of cañcala (trembling) and apāṅga (side-glance/eye-corner)",
+     "morph": "f.voc.sg, compound: cañcala+apāṅga"
+    },
+    {
+     "surface": "praśastā",
+     "gloss": "praised",
+     "grounds": "predicate adjective describing what is commended",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuvatī+kalā",
+     "gloss": "youthful-aspect",
+     "grounds": "compound subject denoting a youthful phase or quality",
+     "morph": "f.nom.sg, compound: yuvatī+kalā"
+    }
+   ],
+   "question": "Which youthful aspect is commended as praiseworthy in initiation, O trembling-eyed one?",
+   "premises": [
+    "The context is initiation.",
+    "A youthful aspect is the subject under consideration.",
+    "This youthful aspect is declared praiseworthy."
+   ],
+   "inference": "Therefore, the youthful aspect is commended in the context of initiation.",
+   "uncertainties": [
+    "The precise referent of yuvatī+kalā (youthful phase, art, or quality) is context-dependent."
+   ],
+   "plain_english": "And, O trembling-eyed one, the youthful aspect is praised in initiation."
+  }
+ ]
+}

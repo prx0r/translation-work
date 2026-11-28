@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "dharmam",
+     "gloss": "righteous-order",
+     "grounds": "object of seeking; accusative singular of dharma",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "īmahe",
+     "gloss": "we-seek",
+     "grounds": "first person plural present middle indicative of √ī (to go, seek, implore)",
+     "morph": "1.pl.pres.mid.ind(√ī)"
+    }
+   ],
+   "question": "What righteous principle do the supplicants implore in this petition?",
+   "premises": [
+    "The verb īmahe expresses a collective act of seeking or imploring.",
+    "The object dharmam denotes righteous order or sacred duty.",
+    "The petition follows a request for a remedy in the preceding context."
+   ],
+   "inference": "The supplicants collectively implore the attainment or bestowal of righteous order.",
+   "uncertainties": [
+    "Whether dharmam refers to moral duty, cosmic order, or ritual law in this specific context is not fully determined."
+   ],
+   "plain_english": "We seek righteous order."
+  }
+ ]
+}

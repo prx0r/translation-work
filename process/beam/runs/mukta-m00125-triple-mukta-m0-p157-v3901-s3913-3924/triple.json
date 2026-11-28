@@ -1,0 +1,521 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3913,
+   "rows": [
+    {
+     "surface": "asitāṅgādibhinnityamāvṛto",
+     "gloss": "by-asitāṅga-and-others-always-covered",
+     "grounds": "fused form as given; legacy hint points to Asitāṅga-and-others context; analyzed as compound-like string covering Asitāṅga-ādi-bhinna-nityam-āvṛta (masc.) in context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirāvṛtaḥ",
+     "gloss": "uncovered",
+     "grounds": "from nir-āvṛta; describes state (masculine)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Under what alternating condition are the forms beginning with Asitāṅga described as either always covered or uncovered?",
+   "premises": [
+    "Forms beginning with Asitāṅga are named in this sequence.",
+    "The verse states a covered state or an uncovered state.",
+    "The alternation is marked by the disjunctive particle."
+   ],
+   "inference": "The Asitāṅga-led forms are presented as either perpetually covered or as uncovered, joined by an explicit alternative.",
+   "uncertainties": [
+    "Exact internal sandhi breaks of the long fused first token are not fully resolved here."
+   ],
+   "plain_english": "By Asitāṅga and the others, (he is) always covered, or uncovered."
+  },
+  {
+   "verse": 3914,
+   "rows": [
+    {
+     "surface": "kapālī",
+     "gloss": "skull-bearer",
+     "grounds": "name/epithet form; legacy hint skull-bearer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhiṣaṇaścaiva",
+     "gloss": "terrifying-and-also",
+     "grounds": "bhiṣaṇa + ca + eva fused in writing as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃhāraścāṣṭamassmṛtaḥ",
+     "gloss": "destroyer-and-eighth-is-remembered",
+     "grounds": "saṃhāra + ca + aṣṭama + smṛta fused as given; legacy hint destroyer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which named form is identified as the terrifying skull-bearer also called the eighth destroyer?",
+   "premises": [
+    "Kapālī is named as terrifying and also.",
+    "That same figure is called the eighth, remembered as destroyer.",
+    "The verse links these epithets to one form."
+   ],
+   "inference": "Kapālī, also terrifying, is remembered as the eighth destroyer (Saṃhāra).",
+   "uncertainties": [
+    "Whether all three tokens refer to a single deity or a list is read from context."
+   ],
+   "plain_english": "Kapālī, also terrifying, and the destroyer is remembered as the eighth."
+  },
+  {
+   "verse": 3915,
+   "rows": [
+    {
+     "surface": "triśūlamuṇḍasaṃyuktā",
+     "gloss": "trident-skull-endowed",
+     "grounds": "triśūla + muṇḍa + saṃyuktā fused as given; legacy hint trident-skull-endowed",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hṛdayāñjali",
+     "gloss": "heart-anjali",
+     "grounds": "hṛdaya + añjali fused as given; legacy hint heart-anjali-endowed (contextual)",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saṃyutāḥ",
+     "gloss": "joined",
+     "grounds": "from saṃyuta; plural feminine ending as given",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What combined emblems and gesture characterize the figures described as endowed with trident and skull and joined in heart-anjali?",
+   "premises": [
+    "The figures are described as trident-and-skull endowed.",
+    "They are described with heart-anjali and as joined.",
+    "The descriptors apply to the same group."
+   ],
+   "inference": "Those figures bear trident and skull, are joined, and are characterized by heart-anjali.",
+   "uncertainties": [
+    "Exact syntactic attachment of hṛdayāñjali to the group is inferred from context."
+   ],
+   "plain_english": "Endowed with trident and skull, with heart in añjali, they are joined."
+  },
+  {
+   "verse": 3916,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable; mantra material kept as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juṃsaḥ",
+     "gloss": "jum-sah",
+     "grounds": "bīja/mantra syllables string as given; legacy hint mantra-this",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative/closing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantro'yaṃ",
+     "gloss": "this-mantra",
+     "grounds": "mantra + ayam with elision marked in form as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "deity",
+     "grounds": "deva in nominative masculine as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjidāhvayaḥ",
+     "gloss": "mṛtyuñjaya-named",
+     "grounds": "mṛtyuñjit + āhvaya fused as given; legacy hint mṛtyuñjaya-named",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra string is identified here as belonging to the deity named Mṛtyuñjit?",
+   "premises": [
+    "The string om juṃsaḥ is given with iti.",
+    "This is called this mantra.",
+    "The deity is named Mṛtyuñjit (mṛtyuñjidāhvaya)."
+   ],
+   "inference": "The mantra om juṃsaḥ is declared as this mantra of the deity called Mṛtyuñjit.",
+   "uncertainties": [
+    "Exact pronunciation/segmentation of juṃsaḥ is kept as surface."
+   ],
+   "plain_english": "Om, juṃsaḥ—thus (is) this mantra; the deity is named Mṛtyuñjit."
+  },
+  {
+   "verse": 3917,
+   "rows": [
+    {
+     "surface": "rasādiśuklaparyantadhātu",
+     "gloss": "from-rasa-to-white-dhātu",
+     "grounds": "rasa-ādi-śukla-paryanta-dhātu fused as given; legacy hint from-rasa-to-white",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptākṣarānvitam",
+     "gloss": "seven-syllable-endowed",
+     "grounds": "sapta-akṣara-anvita fused as given; legacy hint seven-syllabled",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of seven-syllabled formulation is said to extend from rasa through the white dhātu?",
+   "premises": [
+    "A dhātu range from rasa to white is named.",
+    "That is described as endowed with seven syllables.",
+    "The phrase qualifies a mantra/formulation in context."
+   ],
+   "inference": "A seven-syllabled formulation is specified as spanning from rasa up to the white dhātu.",
+   "uncertainties": [
+    "Whether dhātu means bodily elements here follows common mantra-context usage but is not explicit in this verse alone."
+   ],
+   "plain_english": "(A mantra) from rasa to the white dhātu, endowed with seven syllables."
+  },
+  {
+   "verse": 3918,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative of anta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣa",
+     "gloss": "protect",
+     "grounds": "imperative/root form as given",
+     "morph": "2.sg.impv"
+    },
+    {
+     "surface": "rakṣeti",
+     "gloss": "protect-thus",
+     "grounds": "rakṣa + iti fused as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīpsitaṃ",
+     "gloss": "repeated",
+     "grounds": "vīpsita past participle/adjectival as given; legacy hint repeated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "pada accusative/nominal as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "optative of paṭh",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What repeated protective phrase should be recited at the end according to this instruction?",
+   "premises": [
+    "At the end, rakṣa is said.",
+    "Rakṣa iti is given as repeated.",
+    "One should recite that word/phrase."
+   ],
+   "inference": "At the end one should recite the repeated word expressed as rakṣa, rakṣa iti.",
+   "uncertainties": [
+    "Whether the exact recitation form is rakṣa rakṣa or the written rakṣeti form is read as given."
+   ],
+   "plain_english": "And at the end, (say) protect, protect—thus the repeated word should be recited."
+  },
+  {
+   "verse": 3919,
+   "rows": [
+    {
+     "surface": "prāṇaṃ",
+     "gloss": "life-breath",
+     "grounds": "prāṇa accusative as given; legacy hint life",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadattasya",
+     "gloss": "of-devadatta",
+     "grounds": "proper/name genitive as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "mūla + mantra fused as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "should-employ",
+     "grounds": "causative optative of yuj",
+     "morph": "3.sg.opt-caus"
+    }
+   ],
+   "question": "In this procedure, what is to be employed in relation to Devadatta’s life-breath using the root mantra?",
+   "premises": [
+    "Life-breath of Devadatta is mentioned.",
+    "The root mantra is named.",
+    "One should employ (niyojayet) them in relation."
+   ],
+   "inference": "One should employ the root mantra with regard to Devadatta’s life-breath.",
+   "uncertainties": [
+    "The ritual technical sense of niyojayet here is inferred from mantra context."
+   ],
+   "plain_english": "And one should employ the root mantra for the life-breath of Devadatta."
+  },
+  {
+   "verse": 3920,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of madhya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niveśayetkūṭaṃ",
+     "gloss": "should-place-kūṭa",
+     "grounds": "niveśayet + kūṭa fused as given; legacy hint place",
+     "morph": "3.sg.opt-caus"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda-mantra",
+     "grounds": "prāsāda accusative as given; legacy hint prāsāda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navātmakam",
+     "gloss": "nine-essenced",
+     "grounds": "nava-ātmaka fused as given; legacy hint nine-syllabled",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be placed in the middle: the kūṭa, or the nine-essenced Prāsāda?",
+   "premises": [
+    "In the middle one should place (something).",
+    "Options given are kūṭa or Prāsāda.",
+    "Prāsāda is described as nine-essenced."
+   ],
+   "inference": "In the middle one should place the kūṭa, or alternatively the nine-essenced Prāsāda.",
+   "uncertainties": [
+    "Technical identity of kūṭa/prāsāda here is not expanded in this verse."
+   ],
+   "plain_english": "In the middle one should place the kūṭa, or the Prāsāda that is nine-essenced."
+  },
+  {
+   "verse": 3921,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental of idam",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sadṛśo",
+     "gloss": "equal",
+     "grounds": "sadṛśa nominative masculine as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "na + asti",
+     "morph": "3.sg.pres"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "mantra nominative masculine as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuñjayo",
+     "gloss": "mṛtyuñjaya",
+     "grounds": "name/title nominative masculine as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative/nominal plural as given; legacy hint brahmins",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What claim is made to the twice-born about any mantra equal to this Mṛtyuñjaya?",
+   "premises": [
+    "By this (mantra) is meant.",
+    "No equal mantra exists.",
+    "That mantra is Mṛtyuñjaya, addressed to twice-born."
+   ],
+   "inference": "O twice-born, there is no mantra equal to this Mṛtyuñjaya.",
+   "uncertainties": [
+    "Context of ‘by this’ points to prior mantra but is not repeated in this verse text."
+   ],
+   "plain_english": "By this there is no equal mantra, O twice-born: Mṛtyuñjaya."
+  },
+  {
+   "verse": 3922,
+   "rows": [
+    {
+     "surface": "caturbhujastriṇetraśca",
+     "gloss": "four-armed-three-eyed-and",
+     "grounds": "caturbhuja + triṇetra + ca fused as given; legacy hint four-armed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṇetraśca",
+     "gloss": "three-eyed-and",
+     "grounds": "triṇetra + ca fused as given; legacy hint three-eyed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jaṭākhaṇḍendumaṇḍitaḥ",
+     "gloss": "matted-hair-crescent-moon-adorned",
+     "grounds": "jaṭā-khaṇḍa-indu-maṇḍita fused as given; legacy hint matted-hair-crescent-moon-adorned",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which iconographic features are ascribed to the deity described as four-armed, three-eyed, and adorned with matted hair and crescent moon?",
+   "premises": [
+    "He is described as four-armed and three-eyed.",
+    "He is also described as three-eyed and adorned with matted hair and crescent moon.",
+    "These are attributes of the same form."
+   ],
+   "inference": "The form is four-armed, three-eyed, and adorned with matted hair and a crescent moon.",
+   "uncertainties": [
+    "Repetition of triṇetraśca may be emphatic or textual; read as given."
+   ],
+   "plain_english": "Four-armed and three-eyed, and three-eyed, adorned with matted hair and the crescent moon."
+  },
+  {
+   "verse": 3923,
+   "rows": [
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "triśūla accusative as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cābhyaṃ",
+     "gloss": "and-fearlessness",
+     "grounds": "ca + abhaya fused as given; legacy hint ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cordhve",
+     "gloss": "and-above",
+     "grounds": "ca + ūrdhve fused as given; legacy hint upward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhākalaśamadhyayoḥ",
+     "gloss": "nectar-pot-in-middle-of-two",
+     "grounds": "sudhā-kalaśa-madhya fused as given; legacy hint nectar-pot",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "Which objects are held or placed, with trident and fearlessness noted and positions indicated above and between nectar pots?",
+   "premises": [
+    "Trident and fearlessness are mentioned.",
+    "Above is indicated.",
+    "Placement is described in the middle of two nectar pots."
+   ],
+   "inference": "The description lists trident and fearlessness with placement above and between two nectar pots.",
+   "uncertainties": [
+    "Exact hand assignments are not fully specified in these tokens alone."
+   ],
+   "plain_english": "Trident and fearlessness, and above, in the middle of two nectar pots."
+  },
+  {
+   "verse": 3924,
+   "rows": [
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "kapāla accusative as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍikāṃ",
+     "gloss": "water-pot",
+     "grounds": "kuṇḍikā accusative as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "locative of vāma as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "repeated as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yogamudrāṃ",
+     "gloss": "yoga-mudra",
+     "grounds": "yoga-mudrā accusative as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karadvaye",
+     "gloss": "in-two-hands",
+     "grounds": "kara-dvaya locative as given",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which items are assigned to the left side and to the two hands in this description of attributes?",
+   "premises": [
+    "Skull and water-pot are mentioned.",
+    "Left side is indicated (repeated).",
+    "Yoga-mudra is placed in the two hands."
+   ],
+   "inference": "Skull and water-pot are associated with the left, while yoga-mudra is held in the two hands.",
+   "uncertainties": [
+    "The repeated vāme may indicate two left-held items; read as given."
+   ],
+   "plain_english": "Skull, water-pot, in the left, in the left; yoga-mudra in the two hands."
+  }
+ ]
+}

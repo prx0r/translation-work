@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "kāśyapī",
+     "gloss": "belonging-to-kashyapa",
+     "grounds": "epithet of the goddess linked to Kashyapa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāśyapārādhyā",
+     "gloss": "worshipped-by-kashyapa",
+     "grounds": "compound: kāśyapa + ārādhyā",
+     "morph": "kāśyapa+ārādhyā (compound, f.nom.sg)"
+    },
+    {
+     "surface": "kāśyapānandadāyinī",
+     "gloss": "giver-of-bliss-to-kashyapa",
+     "grounds": "compound: kāśyapa + ānanda + dāyinī",
+     "morph": "kāśyapa+ānanda+dāyinī (compound, f.nom.sg)"
+    }
+   ],
+   "question": "By what epithets is the goddess identified in relation to Kashyapa?",
+   "premises": [
+    "The goddess is called Kashyapi.",
+    "The goddess is worshipped by Kashyapa.",
+    "The goddess grants bliss to Kashyapa."
+   ],
+   "inference": "These epithets establish the goddess's intimate and reciprocal connection with Kashyapa.",
+   "uncertainties": [],
+   "plain_english": "She is Kashyapi, worshipped by Kashyapa, and the giver of bliss to Kashyapa."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "kaṭākṣeṇa+eva",
+     "gloss": "by-sidelong-glance+alone",
+     "grounds": "kaṭākṣa (sidelong glance) in instrumental singular fused with emphatic particle eva; denotes the sole means",
+     "morph": "kaṭākṣa+i.sg.m+eva(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all-things",
+     "grounds": "refers back to the effects listed in the preceding verses (drāvaṇa, bhīṣaṇa, etc.)",
+     "morph": "sarva+n.nom.pl"
+    },
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-practitioner",
+     "grounds": "genitive indicating the agent for whom the accomplishments occur",
+     "morph": "sādhaka+m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle excluding alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+anyathā",
+     "gloss": "and+otherwise",
+     "grounds": "conjunction ca with adverb anyathā, reinforcing exclusion of any other way",
+     "morph": "ca(indecl.)+anyathā(indecl.)"
+    }
+   ],
+   "question": "What sole means enables the practitioner to accomplish all these effects?",
+   "premises": [
+    "The excellent practitioner accomplishes various powerful effects.",
+    "All these effects are accomplished by a sidelong glance alone.",
+    "No other means brings about these accomplishments for the practitioner."
+   ],
+   "inference": "Therefore the practitioner's sidelong glance alone suffices for all these accomplishments.",
+   "uncertainties": [
+    "sarvāṇi is understood to refer to the effects enumerated in verses 23–24."
+   ],
+   "plain_english": "For the practitioner, all these are accomplished by a mere sidelong glance alone, and not otherwise."
+  }
+ ]
+}

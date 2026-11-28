@@ -1,0 +1,851 @@
+{
+ "song": "mukta-m0-p199",
+ "items": [
+  {
+   "verse": 4951,
+   "rows": [
+    {
+     "surface": "iṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of worship performed prior to main rite",
+     "morph": "gerund (√yaj)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of oblation into fire",
+     "morph": "gerund (√hu)"
+    },
+    {
+     "surface": "gaṇeśānaṃ",
+     "gloss": "lord-of-gaṇas",
+     "grounds": "deity Gaṇeśa as object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of contemplative visualization",
+     "morph": "gerund (√dhyai)"
+    },
+    {
+     "surface": "hṛnnābhibinduṣu",
+     "gloss": "in-heart-navel-points",
+     "grounds": "locations of meditation in subtle body",
+     "morph": "compound n.loc.pl (hṛt+nābhi+bindu)"
+    }
+   ],
+   "question": "What preparatory ritual acts must be performed for Gaṇeśa at the heart, navel, and bindu points?",
+   "premises": [
+    "Worship and oblation to Gaṇeśa are performed first.",
+    "Meditation on Gaṇeśa is directed to heart, navel, and bindu.",
+    "These acts precede subsequent purification procedures."
+   ],
+   "inference": "The rite begins with worship, oblation, and meditation on Gaṇeśa at specified subtle centers.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped, offered oblations, and meditated on Gaṇeśa in the heart, navel, and bindu points,"
+  },
+  {
+   "verse": 4952,
+   "rows": [
+    {
+     "surface": "gandhapuṣpākṣatopetaṃ",
+     "gloss": "endowed-with-fragrance-flowers-rice",
+     "grounds": "describes materials prepared for the rite",
+     "morph": "compound n.acc.sg (gandha+puṣpa+akṣata+upeta)"
+    },
+    {
+     "surface": "pūrvadravyayutaṃ",
+     "gloss": "joined-with-prior-materials",
+     "grounds": "optionally combined with previously mentioned substances",
+     "morph": "compound n.acc.sg (pūrva+dravya+yuta)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation forming alternative with vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks optional alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are previously prepared materials required together with fragrance, flowers, and unbroken rice?",
+   "premises": [
+    "The offering may be endowed with fragrance, flowers, and unbroken rice.",
+    "It may be joined with prior materials.",
+    "The particles na vā indicate this combination is optional."
+   ],
+   "inference": "The prepared materials may optionally include or exclude the previously mentioned substances.",
+   "uncertainties": [],
+   "plain_english": "endowed with fragrance, flowers, and unbroken rice, and either joined with the prior materials or not."
+  },
+  {
+   "verse": 4953,
+   "rows": [
+    {
+     "surface": "saṃprokṣyārghyajalenaiva",
+     "gloss": "having-sprinkled-with-arghya-water-alone",
+     "grounds": "sprinkling act using only arghya water; eva restricts means",
+     "morph": "compound gerund (saṃprokṣya+arghya+jala+eva)"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "indicates application to every item separately",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyasaṃhitam",
+     "gloss": "accompanied-by-materials",
+     "grounds": "refers to the assembled ritual substances",
+     "morph": "compound n.acc.sg (dravya+saṃhita)"
+    }
+   ],
+   "question": "How should each assembled ritual material be consecrated before purification?",
+   "premises": [
+    "Each material item is treated separately.",
+    "Sprinkling is performed with arghya water alone.",
+    "The assembled materials are thus consecrated."
+   ],
+   "inference": "Every ritual material must be individually sprinkled with arghya water.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled each assembled material with arghya water alone,"
+  },
+  {
+   "verse": 4954,
+   "rows": [
+    {
+     "surface": "mantraśuddhiṃ",
+     "gloss": "mantra-purification",
+     "grounds": "purification of the mantra as ritual object",
+     "morph": "compound f.acc.sg (mantra+śuddhi)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence after sprinkling",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive completing mantra purification",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "beraśuddhiṃ",
+     "gloss": "image-purification",
+     "grounds": "purification of the image or icon",
+     "morph": "compound f.acc.sg (bera+śuddhi)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "injunctive/optative sense directing the officiant",
+     "morph": "3.sg.act.optative (√nī)"
+    }
+   ],
+   "question": "In what sequence must mantra purification and image purification be carried out?",
+   "premises": [
+    "Mantra purification is performed first.",
+    "Image purification follows after mantra purification.",
+    "The officiant is directed to carry out this sequence."
+   ],
+   "inference": "The officiant should perform mantra purification and then proceed to image purification.",
+   "uncertainties": [],
+   "plain_english": "then, having performed mantra purification, one should next carry out image purification."
+  },
+  {
+   "verse": 4955,
+   "rows": [
+    {
+     "surface": "ityuktvā",
+     "gloss": "thus-having-said",
+     "grounds": "introduces recitation of a formula",
+     "morph": "gerund (iti+√vac)"
+    },
+    {
+     "surface": "hastivaktrāya",
+     "gloss": "to-elephant-faced-one",
+     "grounds": "dative address to Gaṇeśa in mantra",
+     "morph": "compound m.dat.sg (hastin+vaktra)"
+    },
+    {
+     "surface": "dhīmahīti",
+     "gloss": "we-meditate-thus",
+     "grounds": "mantra phrase ending with iti marking quotation",
+     "morph": "compound (1.pl.act.present √dhyai+iti)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "refers to the uttered mantra phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks continuation after utterance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra phrase is uttered after declaring the intention to proceed?",
+   "premises": [
+    "The officiant first says 'thus' as an introduction.",
+    "The phrase addressed to the elephant-faced one includes 'we meditate'.",
+    "This utterance is treated as the mantra word to be spoken."
+   ],
+   "inference": "The officiant should utter the phrase 'to the elephant-faced one, we meditate' as the mantra.",
+   "uncertainties": [
+    "Exact mantra boundaries depend on surrounding liturgical context."
+   ],
+   "plain_english": "Having said thus, one then utters the phrase: 'to the elephant-faced one, we meditate.'"
+  },
+  {
+   "verse": 4956,
+   "rows": [
+    {
+     "surface": "ityuccaraṃstato'rghyeṇa",
+     "gloss": "thus-uttering-then-with-arghya",
+     "grounds": "continuous utterance followed by offering with arghya; sandhi tato+arghyeṇa",
+     "morph": "compound (iti+uccaran+tatas+arghya, m.nom.sg.pres.part+indecl.+n.inst.sg)"
+    },
+    {
+     "surface": "sāmānyārghyeṇa",
+     "gloss": "with-common-arghya",
+     "grounds": "alternative use of general arghya water",
+     "morph": "compound n.inst.sg (sāmānya+arghya)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative between specific and common arghya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "injunction to perform worship",
+     "morph": "3.sg.act.optative (√arc)"
+    }
+   ],
+   "question": "With what kind of arghya should worship be performed while uttering the mantra?",
+   "premises": [
+    "The mantra is uttered continuously during the act.",
+    "Worship may be done with arghya.",
+    "Alternatively, common arghya may be used."
+   ],
+   "inference": "While uttering the mantra, one should worship with arghya or with common arghya.",
+   "uncertainties": [],
+   "plain_english": "Thus uttering, one should then worship with arghya or with the common arghya."
+  },
+  {
+   "verse": 4957,
+   "rows": [
+    {
+     "surface": "tyajedvāberasaṃśuddhiṃ",
+     "gloss": "should-abandon-or-image-purification",
+     "grounds": "option to omit image purification; sandhi tyajet+vā+bera+saṃśuddhim",
+     "morph": "compound (3.sg.act.optative √tyaj+vā+bera+saṃśuddhi, f.acc.sg)"
+    },
+    {
+     "surface": "kārayeduktavartamanā",
+     "gloss": "should-cause-done-by-stated-method",
+     "grounds": "alternative to have it performed according to prescribed procedure",
+     "morph": "compound (3.sg.act.caus.optative √kṛ+ukta+vartman, n.inst.sg)"
+    }
+   ],
+   "question": "Under what procedural choice may image purification be omitted or performed?",
+   "premises": [
+    "Image purification may be abandoned as an option.",
+    "Alternatively it may be caused to be done.",
+    "If performed, it follows the stated method."
+   ],
+   "inference": "The officiant may either omit image purification or have it performed according to the prescribed method.",
+   "uncertainties": [],
+   "plain_english": "One may omit the image purification, or have it performed according to the stated procedure."
+  },
+  {
+   "verse": 4958,
+   "rows": [
+    {
+     "surface": "citrādikaṃ",
+     "gloss": "painted-and-such",
+     "grounds": "refers to painted images and similar forms",
+     "morph": "compound n.nom.sg (citra+ādika)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmārcāśuddhyā",
+     "gloss": "by-ritual-image-purification",
+     "grounds": "instrumental cause of purification in this case",
+     "morph": "compound f.inst.sg (karman+arcā+śuddhi)"
+    },
+    {
+     "surface": "śuddhirmatā",
+     "gloss": "purification-is-accepted",
+     "grounds": "states accepted validity of purification",
+     "morph": "compound f.nom.sg (śuddhi+mata)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative or nominative address to qualified officiants",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What purification is accepted for painted images and similar ritual supports?",
+   "premises": [
+    "The case concerns painted images and the like.",
+    "Purification of the ritual image is applied.",
+    "This purification is accepted as valid for the twice-born."
+   ],
+   "inference": "For painted and similar images, purification through ritual-image purification is accepted.",
+   "uncertainties": [],
+   "plain_english": "If the image is painted or of that kind, O twice-born ones, purification by the purification of the ritual image is accepted."
+  },
+  {
+   "verse": 4959,
+   "rows": [
+    {
+     "surface": "kṛtvetthamātmabhūdravyamantrabimbaviśodhanam",
+     "gloss": "having-done-thus-self-place-material-mantra-image-purification",
+     "grounds": "summarizes completion of purifications of self, site, materials, mantra, and image",
+     "morph": "compound n.acc.sg (kṛtvā+ittham+ātman+bhū+dravya+mantra+bimba+viśodhana)"
+    }
+   ],
+   "question": "What comprehensive set of purifications must be completed before establishing the seat?",
+   "premises": [
+    "The purification of self is included.",
+    "The purification of place, materials, mantra, and image is included.",
+    "All these are completed in the manner described."
+   ],
+   "inference": "The officiant must complete the purification of self, place, materials, mantra, and image.",
+   "uncertainties": [
+    "The element bhū is taken as place/site in this ritual context."
+   ],
+   "plain_english": "Having thus performed the purification of self, place, materials, mantra, and image,"
+  },
+  {
+   "verse": 4960,
+   "rows": [
+    {
+     "surface": "adharmādīnadhaścordhvacchadane",
+     "gloss": "on-unrighteousness-etc-below-and-above-covers",
+     "grounds": "locative describing layered supports below and above; sandhi adhaḥ+ca+ūrdhva",
+     "morph": "compound n.loc.sg (adharma+ādi+adhas+ca+ūrdhva+cchadana)"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "lotus seat placed between the coverings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "antarā",
+     "gloss": "between",
+     "grounds": "indicates intermediate placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the lotus seat be placed in relation to the lower and upper coverings?",
+   "premises": [
+    "There are coverings below and above beginning with unrighteousness and so forth.",
+    "A lotus is to be placed in relation to these coverings.",
+    "The placement is between them."
+   ],
+   "inference": "The lotus seat should be placed between the lower and upper coverings starting with unrighteousness.",
+   "uncertainties": [],
+   "plain_english": "one should place a lotus between the lower and upper coverings, beginning with unrighteousness and so forth."
+  },
+  {
+   "verse": 4961,
+   "rows": [
+    {
+     "surface": "śaktyanvitaścettasyoktamārgeṇāsanamācaret",
+     "gloss": "if-endowed-with-power-by-stated-path-seat-should-perform",
+     "grounds": "conditional instruction for empowered officiant to prepare seat by prescribed method; sandhi śaktyanvitaḥ+cet+tasya+ukta+mārgeṇa+āsanam+ācaret",
+     "morph": "compound (śakti+anvita m.nom.sg+cet+tasya m.gen.sg+ukta+mārga m.inst.sg+āsana n.acc.sg+3.sg.act.optative √ācar)"
+    }
+   ],
+   "question": "How should an officiant endowed with power establish the ritual seat?",
+   "premises": [
+    "The officiant may be endowed with power.",
+    "A prescribed path for the seat has been stated.",
+    "The seat is to be performed according to that path."
+   ],
+   "inference": "If endowed with power, the officiant should establish the seat according to the stated method.",
+   "uncertainties": [
+    "The specific 'stated path' refers to earlier instructions in the text."
+   ],
+   "plain_english": "If endowed with power, one should prepare the seat according to the method stated for it."
+  },
+  {
+   "verse": 4962,
+   "rows": [
+    {
+     "surface": "mūrtimāvāhya",
+     "gloss": "having-invoked-form",
+     "grounds": "invocation of the deity's form; sandhi mūrtim+āvāhya",
+     "morph": "compound (mūrti f.acc.sg+gerund ā-√vah)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers back to the invoked form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāgvaddehaṃ",
+     "gloss": "body-as-before",
+     "grounds": "visualization of the body as previously described; sandhi prākvat+deham",
+     "morph": "compound (prākvat+deha m.acc.sg)"
+    },
+    {
+     "surface": "saṃklpya",
+     "gloss": "having-conceived",
+     "grounds": "mental construction of the deity's body",
+     "morph": "gerund (sam-√kḷp)"
+    },
+    {
+     "surface": "mantrakaiḥ",
+     "gloss": "with-mantras",
+     "grounds": "instrumental use of mantras in the process",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What steps follow the invocation of the deity's form in constructing its presence?",
+   "premises": [
+    "The deity's form is invoked.",
+    "That form is conceived as a body as before.",
+    "Mantras are used in this conception."
+   ],
+   "inference": "After invoking the form, the officiant should conceive that body as before using mantras.",
+   "uncertainties": [],
+   "plain_english": "Having invoked the form, one should conceive that body as before by means of mantras."
+  },
+  {
+   "verse": 4963,
+   "rows": [
+    {
+     "surface": "hṛdayānugatenaiva",
+     "gloss": "by-heart-following-alone",
+     "grounds": "action guided by the heart mantra or heart-centered awareness; eva restricts",
+     "morph": "compound n.inst.sg (hṛdaya+anugata+eva)"
+    },
+    {
+     "surface": "puṣpāpūritasatkaraḥ",
+     "gloss": "with-hands-filled-with-flowers",
+     "grounds": "officiant holding flowers in cupped hands as offering gesture",
+     "morph": "compound m.nom.sg (puṣpa+āpūrita+satkara)"
+    }
+   ],
+   "question": "In what manner and with what gesture should the officiant proceed after conceiving the deity?",
+   "premises": [
+    "The action is guided by what follows the heart alone.",
+    "The officiant's hands are filled with flowers.",
+    "This describes the posture for the next rite."
+   ],
+   "inference": "The officiant should proceed guided by the heart, with hands filled with flowers.",
+   "uncertainties": [
+    "hṛdayānugata may refer to the heart mantra or heart-centered procedure."
+   ],
+   "plain_english": "Guided solely by the heart, with hands filled with flowers,"
+  },
+  {
+   "verse": 4964,
+   "rows": [
+    {
+     "surface": "hṛdādyaṇubhirastrāntairmahāmudrāṃ",
+     "gloss": "with-heart-etc-subtle-mantras-ending-in-weapon-great-seal",
+     "grounds": "mantra sequence from heart to weapon accompanies display; sandhi hṛdādi+aṇubhiḥ+astra+antaiḥ+mahāmudrām",
+     "morph": "compound (hṛd+ādi+aṇu m.inst.pl+astra+anta m.inst.pl+mahāmudrā f.acc.sg)"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-display",
+     "grounds": "injunction to show the great seal",
+     "morph": "3.sg.act.caus.optative (pra-√dṛś)"
+    }
+   ],
+   "question": "Which mantra sequence accompanies the display of the great seal?",
+   "premises": [
+    "The great seal is to be displayed.",
+    "Mantras beginning with the heart and ending with the weapon are used.",
+    "These subtle mantras accompany the gesture."
+   ],
+   "inference": "The officiant should display the great seal while using the mantras from heart to weapon.",
+   "uncertainties": [],
+   "plain_english": "one should display the great seal with the subtle mantras beginning with the heart and ending with the weapon."
+  },
+  {
+   "verse": 4965,
+   "rows": [
+    {
+     "surface": "arghyamīśaṃ",
+     "gloss": "arghya-to-lord",
+     "grounds": "arghya offered while contemplating the Lord; sandhi arghyam+īśam",
+     "morph": "compound (arghya n.acc.sg+īśa m.acc.sg)"
+    },
+    {
+     "surface": "smarandatvā",
+     "gloss": "remembering-having-given",
+     "grounds": "mental recollection accompanying the offering; sandhi smaran+datvā",
+     "morph": "compound (pres.part √smṛ m.nom.sg+gerund √dā)"
+    },
+    {
+     "surface": "gandhapuṣpaṃ",
+     "gloss": "fragrance-and-flower",
+     "grounds": "offerings presented together",
+     "morph": "compound n.acc.sg (gandha+puṣpa)"
+    },
+    {
+     "surface": "sadhūpakam",
+     "gloss": "with-incense",
+     "grounds": "includes incense along with fragrance and flower",
+     "morph": "compound n.acc.sg (sa+dhūpaka)"
+    }
+   ],
+   "question": "What offerings are given to the Lord while maintaining remembrance during worship?",
+   "premises": [
+    "The Lord is remembered during the act.",
+    "Arghya is given.",
+    "Fragrance, flowers, and incense are offered together."
+   ],
+   "inference": "Remembering the Lord, one should give arghya, fragrance, flowers, and incense.",
+   "uncertainties": [],
+   "plain_english": "Remembering the Lord, one should give arghya, fragrance, flowers, and incense."
+  },
+  {
+   "verse": 4966,
+   "rows": [
+    {
+     "surface": "unmṛjya",
+     "gloss": "having-wiped",
+     "grounds": "cleansing action performed before clothing",
+     "morph": "gerund (ud-√mṛj)"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrument used for wiping",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "paścādvāsasā",
+     "gloss": "afterwards-with-cloth",
+     "grounds": "subsequent act of clothing with a garment; sandhi paścāt+vāsasā",
+     "morph": "compound (paścāt+vāsas n.inst.sg)"
+    },
+    {
+     "surface": "paridhāpayet",
+     "gloss": "should-clothe",
+     "grounds": "causative injunction to dress the deity/image",
+     "morph": "3.sg.act.caus.optative (pari-√dhā)"
+    }
+   ],
+   "question": "What sequence of wiping and clothing should be performed for the deity?",
+   "premises": [
+    "The image is first wiped with a cloth.",
+    "Afterwards a cloth is used again.",
+    "The deity is then to be clothed."
+   ],
+   "inference": "One should wipe with a cloth and afterwards clothe the deity with a garment.",
+   "uncertainties": [],
+   "plain_english": "Having wiped with a cloth, one should afterwards clothe the deity with a garment."
+  },
+  {
+   "verse": 4967,
+   "rows": [
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "preparation of paste for application",
+     "morph": "gerund (√piṣ)"
+    },
+    {
+     "surface": "karpūrasaṃyuktān",
+     "gloss": "mixed-with-camphor",
+     "grounds": "describes sandal prepared with camphor",
+     "morph": "compound m.acc.pl (karpūra+saṃyukta)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "marks alternative of sandal alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandal",
+     "grounds": "substance to be ground and offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks optional alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forms of sandal paste are permitted for offering in this ritual stage?",
+   "premises": [
+    "Sandal may be ground mixed with camphor.",
+    "Alternatively sandal may be used alone.",
+    "Both options are presented as permissible."
+   ],
+   "inference": "One may offer sandal ground with camphor or sandal alone.",
+   "uncertainties": [],
+   "plain_english": "Having ground sandal mixed with camphor, or else sandal alone,"
+  },
+  {
+   "verse": 4968,
+   "rows": [
+    {
+     "surface": "laghucandananiryāsakarpūrairdhūpameva",
+     "gloss": "with-light-sandal-resin-camphor-incense-alone",
+     "grounds": "specifies incense ingredients; eva restricts to this form; sandhi karpūraiḥ+dhūpam+eva",
+     "morph": "compound (laghu+candana+niryāsa+karpūra m.inst.pl+dhūpa m.acc.sg+eva)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative incense option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative incense composition may be used in the worship?",
+   "premises": [
+    "Incense may be prepared with light sandal, resin, and camphor.",
+    "The particle eva emphasizes this composition.",
+    "The particle vā presents it as an alternative."
+   ],
+   "inference": "Incense made of light sandal, resin, and camphor may be used as an alternative.",
+   "uncertainties": [],
+   "plain_english": "or incense made only of light sandal, resin, and camphor."
+  },
+  {
+   "verse": 4969,
+   "rows": [
+    {
+     "surface": "tatkṣaṇapratibuddhāni",
+     "gloss": "awakened-at-that-moment",
+     "grounds": "describes freshly opened flowers",
+     "morph": "compound n.acc.pl (tad+kṣaṇa+pratibuddha)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates procedure follows earlier instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "objects to be offered",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-cause-to-offer",
+     "grounds": "causative injunction to present flowers",
+     "morph": "3.sg.act.caus.optative (√dā)"
+    }
+   ],
+   "question": "What kind of flowers should be offered and according to what prior manner?",
+   "premises": [
+    "The flowers are freshly awakened at that moment.",
+    "The offering follows the previous manner.",
+    "The officiant should cause them to be offered."
+   ],
+   "inference": "Freshly opened flowers should be offered as before.",
+   "uncertainties": [],
+   "plain_english": "One should offer flowers freshly opened at that moment, as before."
+  },
+  {
+   "verse": 4970,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "ritual food presented to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dāpayetpaścānmudgānnādiyutaṃ",
+     "gloss": "should-cause-to-offer-after-with-mung-bean-rice-etc",
+     "grounds": "food offering given afterwards, optionally with mung beans and rice; sandhi dāpayet+paścāt+mudga+anna+ādi+yutam",
+     "morph": "compound (3.sg.act.caus.optative √dā+paścāt+mudga+anna+ādi+yuta n.acc.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation forming alternative with vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks optional alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the food offering required to include mung beans, rice, and similar items?",
+   "premises": [
+    "A food offering is given afterwards.",
+    "It may be accompanied by mung beans, rice, and so forth.",
+    "The particles na vā indicate this accompaniment is optional."
+   ],
+   "inference": "The food offering may optionally include mung beans, rice, and similar items.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should offer food, either accompanied by mung beans, rice, and so forth, or not."
+  },
+  {
+   "verse": 4971,
+   "rows": [
+    {
+     "surface": "pūjayedāvṛtiṃ",
+     "gloss": "should-worship-retinue",
+     "grounds": "worship of surrounding deities or enclosure; sandhi pūjayet+āvṛtim",
+     "morph": "compound (3.sg.act.optative √pūj+āvṛti f.acc.sg)"
+    },
+    {
+     "surface": "paścāddhūpadānāvasānake",
+     "gloss": "after-at-end-of-incense-offering",
+     "grounds": "timing after completion of incense offering; sandhi paścāt+dhūpa+dāna+avasānake",
+     "morph": "compound n.loc.sg (paścāt+dhūpa+dāna+avasānaka)"
+    }
+   ],
+   "question": "When should the worship of the surrounding retinue be performed in the sequence?",
+   "premises": [
+    "The retinue is to be worshipped.",
+    "Incense offering has a defined conclusion.",
+    "The retinue worship occurs after that conclusion."
+   ],
+   "inference": "The surrounding retinue should be worshipped after the incense offering is completed.",
+   "uncertainties": [
+    "āvṛti may refer to an enclosure or a circle of attendant deities."
+   ],
+   "plain_english": "Afterwards, at the conclusion of the incense offering, one should worship the surrounding retinue."
+  },
+  {
+   "verse": 4972,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "location external to the previously worshipped area; sandhi tad+bāhye",
+     "morph": "compound n.loc.sg (tad+bāhya)"
+    },
+    {
+     "surface": "hastivaktrādīnāmodapramukhānatha",
+     "gloss": "elephant-faced-etc-beginning-with-āmoda-then",
+     "grounds": "names attendant deities starting with Hastivaktra and Āmoda; sandhi hastivaktra+ādīn+āmoda+pramukhān+atha",
+     "morph": "compound m.acc.pl (hastivaktra+ādi+āmoda+pramukha+atha)"
+    }
+   ],
+   "question": "Which attendant deities are to be worshipped outside the main enclosure?",
+   "premises": [
+    "The location is outside the previously mentioned area.",
+    "Attendants include Hastivaktra and others.",
+    "The group begins with Āmoda and similar figures."
+   ],
+   "inference": "Outside that area, one should worship Hastivaktra and other attendants beginning with Āmoda.",
+   "uncertainties": [
+    "The exact list of attendants depends on prior context."
+   ],
+   "plain_english": "Outside that, one should then worship Hastivaktra and the others, beginning with Āmoda."
+  },
+  {
+   "verse": 4973,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "with-one",
+     "grounds": "option of a single enclosure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajeddvābhyāṃ",
+     "gloss": "should-worship-or-with-two",
+     "grounds": "option of worship with two enclosures; sandhi yajet+vā+dvābhyām",
+     "morph": "compound (3.sg.act.optative √yaj+vā+dvābhyām n.inst.dual)"
+    },
+    {
+     "surface": "tribhirvāvaraṇairgaṇam",
+     "gloss": "or-with-three-enclosures-the-group",
+     "grounds": "option of three enclosures for the gaṇa; sandhi tribhiḥ+vā+āvaraṇaiḥ+gaṇam",
+     "morph": "compound (tribhiḥ n.inst.pl+vā+āvaraṇa n.inst.pl+gaṇa m.acc.sg)"
+    }
+   ],
+   "question": "How many surrounding enclosures may be used when worshipping the attendant group?",
+   "premises": [
+    "The attendant group is the object of worship.",
+    "Worship may be performed with one enclosure.",
+    "It may alternatively be performed with two or three enclosures."
+   ],
+   "inference": "The attendant group may be worshipped with one, two, or three enclosures.",
+   "uncertainties": [],
+   "plain_english": "One may worship the group with one enclosure, or with two, or with three enclosures."
+  },
+  {
+   "verse": 4974,
+   "rows": [
+    {
+     "surface": "naivedyabalihomāṃśca",
+     "gloss": "food-offering-bali-and-oblations",
+     "grounds": "lists concluding ritual acts; sandhi homān+ca",
+     "morph": "compound m.acc.pl (naivedya+bali+homa+ca)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-perform",
+     "grounds": "causative injunction to have rites performed",
+     "morph": "3.sg.act.caus.optative (√kṛ)"
+    },
+    {
+     "surface": "pūrvavartmanā",
+     "gloss": "by-previous-method",
+     "grounds": "indicates adherence to earlier prescribed procedure",
+     "morph": "compound n.inst.sg (pūrva+vartman)"
+    }
+   ],
+   "question": "By what established procedure should the concluding offerings and oblations be performed?",
+   "premises": [
+    "Food offering, bali, and oblations are to be performed.",
+    "These acts are caused to be done by the officiant.",
+    "They follow the previously stated method."
+   ],
+   "inference": "The officiant should have the food offering, bali, and oblations performed according to the previous method.",
+   "uncertainties": [],
+   "plain_english": "One should have the food offering, bali, and fire oblations performed according to the previous procedure."
+  }
+ ]
+}

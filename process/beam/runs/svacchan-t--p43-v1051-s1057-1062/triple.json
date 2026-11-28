@@ -1,0 +1,263 @@
+{
+ "song": "sva-p43",
+ "items": [
+  {
+   "verse": 1057,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratra",
+     "gloss": "later",
+     "grounds": "adverb of place or time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who are addressed for later treatment?",
+   "premises": [
+    "ye refers to beings in brahmaṇḍa",
+    "evam marks the stated manner",
+    "uttaratra points to later treatment"
+   ],
+   "inference": "the verse directs attention to later discussion of those beings",
+   "uncertainties": [
+    "legacy hints are not authoritative"
+   ],
+   "plain_english": "Those who are thus in the brahmaṇḍa are treated later."
+  },
+  {
+   "verse": 1058,
+   "rows": [
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "adjective neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "noun neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parimaṇḍalam",
+     "gloss": "round",
+     "grounds": "adjective neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of equal round maṇḍala?",
+   "premises": [
+    "tulyaṃ modifies maṇḍalaṃ",
+    "parimaṇḍalam gives its shape",
+    "ityarthaḥ states the meaning"
+   ],
+   "inference": "the maṇḍala is equal and round in meaning",
+   "uncertainties": [
+    "exact syntactic scope of ca"
+   ],
+   "plain_english": "The meaning is an equal, round maṇḍala."
+  },
+  {
+   "verse": 1059,
+   "rows": [
+    {
+     "surface": "brahmaṇo",
+     "gloss": "of-brahman",
+     "grounds": "noun masculine genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannirmātṛtvābhimānaḥ",
+     "gloss": "that-creatorship-pride",
+     "grounds": "compound noun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stenaiva",
+     "gloss": "by-that-given",
+     "grounds": "fused form with eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattaḥ",
+     "gloss": "given",
+     "grounds": "past participle masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is brahman's creatorship pride given?",
+   "premises": [
+    "brahmaṇo is in genitive relation",
+    "tannirmātṛtvābhimānaḥ is the subject",
+    "dattaḥ states what is given"
+   ],
+   "inference": "brahman's pride in creatorship is given by that",
+   "uncertainties": [
+    "internal sandhi of stenaiva"
+   ],
+   "plain_english": "Brahman's pride in being creator is also given by that."
+  },
+  {
+   "verse": 1060,
+   "rows": [
+    {
+     "surface": "sūryasomātmakaṃ",
+     "gloss": "sun-moon-natured",
+     "grounds": "compound adjective neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūtīdvayaṃ",
+     "gloss": "two-forms",
+     "grounds": "compound noun neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāraṇatayā",
+     "gloss": "as-cause",
+     "grounds": "noun feminine instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "exists",
+     "grounds": "verb third singular active present root vṛt",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "How do the two sun-moon forms exist?",
+   "premises": [
+    "sūryasomātmakaṃ modifies mūtīdvayaṃ",
+    "kāraṇatayā gives causal role",
+    "vartate states existence"
+   ],
+   "inference": "the two sun-moon forms exist as cause",
+   "uncertainties": [
+    "exact sense of mūtīdvayaṃ"
+   ],
+   "plain_english": "The two sun-moon forms exist as cause."
+  },
+  {
+   "verse": 1061,
+   "rows": [
+    {
+     "surface": "prakāśakaṃ",
+     "gloss": "illuminating",
+     "grounds": "adjective neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "maṇḍala",
+     "grounds": "noun neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityuktam",
+     "gloss": "said",
+     "grounds": "past participle neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryasannimam",
+     "gloss": "sun-related",
+     "grounds": "compound adjective neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why is the maṇḍala sun-related?",
+   "premises": [
+    "prakāśakaṃ maṇḍalam is said",
+    "ata eva gives the reason",
+    "sūryasannimam qualifies it"
+   ],
+   "inference": "the illuminating maṇḍala is therefore sun-related",
+   "uncertainties": [
+    "exact compound analysis of sūryasannimam"
+   ],
+   "plain_english": "The illuminating maṇḍala is said to be sun-related."
+  },
+  {
+   "verse": 1062,
+   "rows": [
+    {
+     "surface": "pratilomakrameṇa",
+     "gloss": "reverse-order",
+     "grounds": "noun masculine instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhuvanasaṃśodhanaṃ",
+     "gloss": "world-purification",
+     "grounds": "compound noun neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive neuter accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should world purification be done?",
+   "premises": [
+    "pratilomakrameṇa gives the order",
+    "bhuvanasaṃśodhanaṃ is the action",
+    "kāryam marks obligation"
+   ],
+   "inference": "world purification is to be done in reverse order",
+   "uncertainties": [
+    "exact ritual referent of bhuvanasaṃśodhanaṃ"
+   ],
+   "plain_english": "World purification is to be done in reverse order."
+  }
+ ]
+}

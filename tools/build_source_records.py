@@ -54,14 +54,19 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument('--update', action='store_true',
                     help='rewrite records whose volume bytes changed')
+    ap.add_argument('--work', action='append', default=[],
+                    help='limit this run to one or more works (repeatable)')
     args = ap.parse_args()
     import workcfg
     registry = json.loads((ROOT / 'REGISTRY.json').read_text(encoding='utf-8'))
     names = set()
     for w in registry.get('works', []):
         if isinstance(w, dict) and (w.get('work') or w.get('id')):
-            names.add(w.get('work') or w.get('id'))
-    names.add('ipvv')
+            requested = w.get('work') or w.get('id')
+            if not args.work or requested in args.work:
+                names.add(requested)
+    if not args.work:
+        names.add('ipvv')
     try:
         omap = json.loads((ROOT / 'source-maps' / 'openpatala.json').read_text(
             encoding='utf-8'))['works']

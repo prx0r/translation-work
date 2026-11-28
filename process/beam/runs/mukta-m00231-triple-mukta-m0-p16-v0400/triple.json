@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "yajñakarttā",
+     "gloss": "sacrifice-doer",
+     "grounds": "compound yajña + karttā; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāyogī",
+     "gloss": "great-yogi",
+     "grounds": "compound mahā + yogī; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvamantraṃ",
+     "gloss": "all-mantras",
+     "grounds": "compound sarva + mantra; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative third singular active from root jap",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should recite all mantras again after performing the great inner sacrifice?",
+   "premises": [
+    "The sacrifice-doer is a great yogi.",
+    "He should recite all mantras.",
+    "Recitation happens again."
+   ],
+   "inference": "The great yogi repeats all mantras after sacrifice.",
+   "uncertainties": [
+    "Exact ritual sequence is not fully specified by this verse alone."
+   ],
+   "plain_english": "The great yogi who performs the sacrifice should recite all mantras again."
+  }
+ ]
+}

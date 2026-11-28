@@ -1,0 +1,1221 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1801,
+   "rows": [
+    {
+     "surface": "vidyāsthānaṃ",
+     "gloss": "place-of-learning",
+     "grounds": "compound denoting a site for knowledge",
+     "morph": "vidyā+sthāna (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle indicating contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvatsyād",
+     "gloss": "should-be-like-that",
+     "grounds": "tadvat + syāt expressing similarity",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "bahusenāsamanvitam",
+     "gloss": "endowed-with-large-army",
+     "grounds": "compound describing accompaniment by many forces",
+     "morph": "bahu+senā+samanvita (compound).n.nom.sg.nt"
+    }
+   ],
+   "question": "What qualities must a place of learning possess according to this prescription?",
+   "premises": [
+    "A place of learning is the subject under consideration.",
+    "It should be like that previously described.",
+    "It must be endowed with a large army."
+   ],
+   "inference": "A place of learning should resemble the prior model and be accompanied by a large army.",
+   "uncertainties": [
+    "The exact referent of 'like that' depends on prior context."
+   ],
+   "plain_english": "A place of learning should be like that and endowed with a large army."
+  },
+  {
+   "verse": 1802,
+   "rows": [
+    {
+     "surface": "grāmādīnāṃ",
+     "gloss": "of-villages-and-others",
+     "grounds": "compound indicating villages etc.",
+     "morph": "grāma+ādi (compound).m.gen.pl"
+    },
+    {
+     "surface": "samīpaṃ",
+     "gloss": "near",
+     "grounds": "proximity to the mentioned locations",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the place",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "site or location",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "kubjam",
+     "gloss": "kubja",
+     "grounds": "technical designation of the place type",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditionally known or declared",
+     "morph": "n.nom.sg.nt (past-participle, smṛ)"
+    }
+   ],
+   "question": "What designation applies to a place situated near villages and similar settlements?",
+   "premises": [
+    "A place near villages and others is being defined.",
+    "This place is identified by a specific name.",
+    "Tradition remembers this place as kubja."
+   ],
+   "inference": "A place located near villages and similar settlements is traditionally called kubja.",
+   "uncertainties": [
+    "The precise technical meaning of 'kubja' in this context is not fully specified."
+   ],
+   "plain_english": "A place near villages and the like is traditionally known as kubja."
+  },
+  {
+   "verse": 1803,
+   "rows": [
+    {
+     "surface": "vistārāyāmamānaṃ",
+     "gloss": "width-length-measure",
+     "grounds": "compound denoting measurement of breadth and length",
+     "morph": "vistāra+āyāma+māna (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "applying to all cases",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "traditional or perennial standard",
+     "morph": "n.nom.sg.nt"
+    }
+   ],
+   "question": "What status holds for the width and length measurements of all such places?",
+   "premises": [
+    "The measure of width and length is under discussion.",
+    "This measure applies to all cases.",
+    "The measure is described as eternal or traditional."
+   ],
+   "inference": "The width and length measurement for all such places is established as a perennial standard.",
+   "uncertainties": [],
+   "plain_english": "The measure of width and length for all of them is indeed eternal."
+  },
+  {
+   "verse": 1804,
+   "rows": [
+    {
+     "surface": "pañcadaṇḍaṃ",
+     "gloss": "five-rods",
+     "grounds": "starting measure of five daṇḍas",
+     "morph": "pañca+daṇḍa (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "samarabhya",
+     "gloss": "beginning-with",
+     "grounds": "gerund indicating starting point",
+     "morph": "(gerund, sam-ā-rabh)"
+    },
+    {
+     "surface": "daṇḍābhyāṃ",
+     "gloss": "by-two-rods",
+     "grounds": "increment of two daṇḍas",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "vardhayet",
+     "gloss": "one-should-increase",
+     "grounds": "prescriptive instruction to increase",
+     "morph": "3.sg.opt.act (vṛdh, caus.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "gradual sequential progression",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the measurement be increased starting from the initial base unit?",
+   "premises": [
+    "The starting point is five rods.",
+    "The increase is by two rods.",
+    "The increase should proceed in order."
+   ],
+   "inference": "Beginning with five rods, one should increase the measure by two rods sequentially.",
+   "uncertainties": [],
+   "plain_english": "Beginning with five daṇḍas, one should increase it by two daṇḍas in order."
+  },
+  {
+   "verse": 1805,
+   "rows": [
+    {
+     "surface": "adhame",
+     "gloss": "in-inferior",
+     "grounds": "referring to the lowest grade",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "the next higher level",
+     "morph": "tad+ūrdhva (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same measure as the previous",
+     "morph": "tad+sama (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "cottamaṃ",
+     "gloss": "and-superior",
+     "grounds": "ca + uttama indicating the highest grade",
+     "morph": "ca+uttama (sandhi).n.nom.sg.nt"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "How do the measurements differ across inferior, middle, and superior grades?",
+   "premises": [
+    "An inferior grade is specified.",
+    "The level above that is equal to it.",
+    "The superior grade is also defined in relation."
+   ],
+   "inference": "In the inferior grade it is set, above that it is equal, and in the superior grade it should be accordingly determined.",
+   "uncertainties": [
+    "The exact numerical values for each grade are implied by prior verses."
+   ],
+   "plain_english": "In the inferior case it is so, above that it is equal to that, and in the superior case it should be so."
+  },
+  {
+   "verse": 1806,
+   "rows": [
+    {
+     "surface": "kuṭumbabhūmimānaṃ",
+     "gloss": "family-land-measure",
+     "grounds": "measurement of land for a household",
+     "morph": "kuṭumba+bhūmi+māna (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking topic shift",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāṭakṣetravivarjitam",
+     "gloss": "excluding-enclosure-and-field",
+     "grounds": "excluding vāṭa and kṣetra areas",
+     "morph": "vāṭa+kṣetra+vivarjita (compound).n.nom.sg.nt"
+    }
+   ],
+   "question": "What exclusions apply when determining the measure of family land?",
+   "premises": [
+    "The measure of family land is being specified.",
+    "Certain areas must be excluded from this measure.",
+    "Enclosures and fields are excluded."
+   ],
+   "inference": "The measure of family land should be determined excluding enclosures and fields.",
+   "uncertainties": [
+    "The precise definitions of vāṭa and kṣetra are context-dependent."
+   ],
+   "plain_english": "The measure of family land, however, excludes the enclosure and the field."
+  },
+  {
+   "verse": 1807,
+   "rows": [
+    {
+     "surface": "caturaśrārdhabhāgaṃ",
+     "gloss": "square-half-part",
+     "grounds": "half part of a square area",
+     "morph": "caturaśra+ardha+bhāga (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhāgam",
+     "gloss": "fourth-part",
+     "grounds": "one quarter part",
+     "morph": "catur+bhāga (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-also",
+     "grounds": "introducing another alternative",
+     "morph": "atha+api (sandhi, indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fractional divisions of the area are permitted as alternatives?",
+   "premises": [
+    "A half part of a square is one option.",
+    "A fourth part is another option.",
+    "Further alternatives are also allowed."
+   ],
+   "inference": "The area may be taken as a half part of a square, or a fourth part, or other alternatives.",
+   "uncertainties": [],
+   "plain_english": "One may take a half part of the square, or a fourth part, or also another option."
+  },
+  {
+   "verse": 1808,
+   "rows": [
+    {
+     "surface": "pañcaṣaṭsaptamūrtyaṃśa",
+     "gloss": "five-six-seven-unit-part",
+     "grounds": "parts corresponding to five, six, or seven units",
+     "morph": "pañca+ṣaṣ+saptama+ūrti+aṃśa (compound).m.nom.sg"
+    },
+    {
+     "surface": "paṅktibhāgam",
+     "gloss": "row-part",
+     "grounds": "a division by rows",
+     "morph": "paṅkti+bhāga (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "athāpi",
+     "gloss": "or-also",
+     "grounds": "introducing another alternative",
+     "morph": "atha+api (sandhi, indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional fractional divisions by rows are permitted for the area?",
+   "premises": [
+    "Divisions into five, six, or seven parts are considered.",
+    "A row-based division is specified.",
+    "Alternatives are allowed."
+   ],
+   "inference": "One may also take a fifth, sixth, or seventh part as a row division, or another alternative.",
+   "uncertainties": [
+    "The exact technical sense of 'mūrtyaṃśa' and 'paṅktibhāga' is context-dependent."
+   ],
+   "plain_english": "One may take a fifth, sixth, or seventh part as a row division, or also another option."
+  },
+  {
+   "verse": 1809,
+   "rows": [
+    {
+     "surface": "triguṇāntapramāṇena",
+     "gloss": "up-to-threefold-measure",
+     "grounds": "measure extending up to three times",
+     "morph": "tri+guṇa+anta+pramāṇa (compound).n.inst.sg"
+    },
+    {
+     "surface": "cāyāmaṃ",
+     "gloss": "and-length",
+     "grounds": "ca + āyāma indicating length",
+     "morph": "ca+āyāma (sandhi).m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-determine",
+     "grounds": "prescriptive instruction to fix or plan",
+     "morph": "3.sg.opt.act (pari-kḷp, caus.)"
+    }
+   ],
+   "question": "Up to what limit should the length of the area be determined?",
+   "premises": [
+    "The length is to be determined.",
+    "The measure can extend up to threefold.",
+    "This determination is prescriptive."
+   ],
+   "inference": "One should determine the length up to a threefold measure.",
+   "uncertainties": [
+    "The base unit for the threefold measure is implied by context."
+   ],
+   "plain_english": "One should determine the length up to a threefold measure."
+  },
+  {
+   "verse": 1810,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the entirety of what was stated",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "deve",
+     "gloss": "for-god",
+     "grounds": "in relation to the deity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipre",
+     "gloss": "for-priest",
+     "grounds": "in relation to the priest",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyam",
+     "gloss": "common",
+     "grounds": "applicable generally",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "n.nom.sg.nt (past-participle, kīrt)"
+    }
+   ],
+   "question": "To whom do the previously stated general rules commonly apply?",
+   "premises": [
+    "All the preceding rules are considered.",
+    "They apply in relation to the god and the priest.",
+    "They are declared as common here."
+   ],
+   "inference": "All these rules are declared here as common for both the god and the priest.",
+   "uncertainties": [],
+   "plain_english": "All this is declared here as common for the god and for the priest."
+  },
+  {
+   "verse": 1811,
+   "rows": [
+    {
+     "surface": "vistāreṇa",
+     "gloss": "by-width",
+     "grounds": "using the breadth as factor",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhyased",
+     "gloss": "one-should-multiply",
+     "grounds": "prescriptive instruction to multiply",
+     "morph": "3.sg.opt.act (abhyas)"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "the length measure",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "multiplied by three",
+     "morph": "tri+guṇa (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhir",
+     "gloss": "by-eight",
+     "grounds": "divisor of eight",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "hṛtam",
+     "gloss": "divided",
+     "grounds": "result of division",
+     "morph": "n.acc.sg.nt (past-participle, hṛ)"
+    }
+   ],
+   "question": "What calculation determines the derived measure from width and length?",
+   "premises": [
+    "The length should be multiplied by the width.",
+    "The result is made threefold.",
+    "The result is divided by eight."
+   ],
+   "inference": "One should multiply the length by the width, make it threefold, and divide by eight.",
+   "uncertainties": [],
+   "plain_english": "One should multiply the length by the width, make it threefold, and divide it by eight."
+  },
+  {
+   "verse": 1812,
+   "rows": [
+    {
+     "surface": "dhvajo",
+     "gloss": "flag",
+     "grounds": "name of an auspicious category",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhūmaḥ",
+     "gloss": "smoke",
+     "grounds": "name of a category",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvasiṃhau",
+     "gloss": "dog-lion",
+     "grounds": "dual compound naming two categories",
+     "morph": "śva+siṃha (compound).m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣaḥ",
+     "gloss": "bull",
+     "grounds": "name of a category",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kharagajottamau",
+     "gloss": "donkey-elephant-best",
+     "grounds": "compound naming donkey and best elephant categories",
+     "morph": "khara+gaja+uttama (compound).m.nom.du"
+    }
+   ],
+   "question": "Which named categories are listed as the relevant types in this classification?",
+   "premises": [
+    "Several categories are enumerated.",
+    "The list includes flag, smoke, dog, lion, bull, donkey, and elephant.",
+    "These form a set of types."
+   ],
+   "inference": "The categories listed are flag, smoke, dog and lion, bull, and donkey and the best elephant.",
+   "uncertainties": [
+    "The technical application of these category names depends on the broader ritual context."
+   ],
+   "plain_english": "The categories are flag, smoke, dog and lion, bull, and donkey and the best elephant."
+  },
+  {
+   "verse": 1813,
+   "rows": [
+    {
+     "surface": "śastāḥ",
+     "gloss": "auspicious",
+     "grounds": "approved or favorable",
+     "morph": "m.nom.pl (past-participle, śaṃs)"
+    },
+    {
+     "surface": "syur",
+     "gloss": "should-be",
+     "grounds": "optative expression of result",
+     "morph": "3.pl.opt.act (as)"
+    },
+    {
+     "surface": "ninditāś",
+     "gloss": "condemned",
+     "grounds": "disapproved or unfavorable",
+     "morph": "m.nom.pl (past-participle, nind, sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānye",
+     "gloss": "others",
+     "grounds": "the remaining categories",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhūmādyā",
+     "gloss": "beginning-with-smoke",
+     "grounds": "categories starting with smoke",
+     "morph": "dhūma+ādi (compound).m.nom.pl"
+    },
+    {
+     "surface": "yonayas",
+     "gloss": "origins",
+     "grounds": "classes or sources",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which categories are considered auspicious and which are condemned in this system?",
+   "premises": [
+    "Some categories are auspicious.",
+    "Others are condemned.",
+    "The origins beginning with smoke are specified here."
+   ],
+   "inference": "Some origins are auspicious while others, beginning with smoke, are condemned here.",
+   "uncertainties": [
+    "The exact mapping of which specific categories are auspicious versus condemned is not fully explicit."
+   ],
+   "plain_english": "Some should be auspicious and others condemned; the origins beginning with smoke are indeed specified here."
+  },
+  {
+   "verse": 1814,
+   "rows": [
+    {
+     "surface": "śiṣṭam",
+     "gloss": "remainder",
+     "grounds": "what remains after calculation",
+     "morph": "n.nom.sg.nt (past-participle, śiṣ)"
+    },
+    {
+     "surface": "aśvayujādyaṃ",
+     "gloss": "beginning-with-aśvayuj",
+     "grounds": "counting starting from the aśvayuj lunar mansion",
+     "morph": "aśvayuj+ādi (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakṣatram",
+     "gloss": "lunar-mansion",
+     "grounds": "the resulting nakṣatra",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "n.nom.sg.nt (past-participle, kīrt)"
+    }
+   ],
+   "question": "How is the resulting lunar mansion determined from the remainder?",
+   "premises": [
+    "A remainder is obtained.",
+    "Counting begins with aśvayuj.",
+    "The result is declared as a lunar mansion."
+   ],
+   "inference": "The remainder, counted beginning with aśvayuj, is declared here as the lunar mansion.",
+   "uncertainties": [],
+   "plain_english": "The remainder, counted beginning with Aśvayuj, is declared here as the lunar mansion."
+  },
+  {
+   "verse": 1815,
+   "rows": [
+    {
+     "surface": "trayodaśadinaṃ",
+     "gloss": "thirteenth-day",
+     "grounds": "the thirteenth lunar day",
+     "morph": "trayodaśa+dina (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "tyājyaṃ",
+     "gloss": "should-be-avoided",
+     "grounds": "to be rejected",
+     "morph": "n.acc.sg.nt (gerundive, tyaj)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśoḍukam",
+     "gloss": "fifteenth-lunar-mansion",
+     "grounds": "the fifteenth nakṣatra",
+     "morph": "pañcadaśa+uḍuka (compound).n.acc.sg.nt"
+    }
+   ],
+   "question": "Which specific day and lunar mansion must be avoided in this calculation?",
+   "premises": [
+    "The thirteenth day is mentioned.",
+    "The fifteenth lunar mansion is mentioned.",
+    "Both should be avoided."
+   ],
+   "inference": "The thirteenth day and likewise the fifteenth lunar mansion should be avoided.",
+   "uncertainties": [],
+   "plain_english": "The thirteenth day should be avoided, and likewise the fifteenth lunar mansion."
+  },
+  {
+   "verse": 1816,
+   "rows": [
+    {
+     "surface": "saptaviṃśatinakṣatraṃ",
+     "gloss": "twenty-seventh-lunar-mansion",
+     "grounds": "the twenty-seventh nakṣatra",
+     "morph": "saptaviṃśati+nakṣatra (compound).n.acc.sg.nt"
+    },
+    {
+     "surface": "tyājyam",
+     "gloss": "should-be-avoided",
+     "grounds": "to be rejected",
+     "morph": "n.acc.sg.nt (gerundive, tyaj)"
+    },
+    {
+     "surface": "anyac",
+     "gloss": "and-other",
+     "grounds": "ca + anyat indicating the rest",
+     "morph": "anya+ca (sandhi).n.nom.sg.nt"
+    },
+    {
+     "surface": "chubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "favorable",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditionally regarded",
+     "morph": "n.nom.sg.nt (past-participle, smṛ)"
+    }
+   ],
+   "question": "What is the status of the twenty-seventh lunar mansion compared to the others?",
+   "premises": [
+    "The twenty-seventh lunar mansion should be avoided.",
+    "Other lunar mansions are considered.",
+    "The others are remembered as auspicious."
+   ],
+   "inference": "The twenty-seventh lunar mansion should be avoided, while the others are regarded as auspicious.",
+   "uncertainties": [],
+   "plain_english": "The twenty-seventh lunar mansion should be avoided, and the others are remembered as auspicious."
+  },
+  {
+   "verse": 1817,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "emphatic reference to the same",
+     "morph": "tad+eva (sandhi).n.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrāhyaṃ",
+     "gloss": "should-be-taken",
+     "grounds": "to be accepted",
+     "morph": "n.acc.sg.nt (gerundive, sam-grah)"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "opposite",
+     "grounds": "the contrary case",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "one-should-abandon",
+     "grounds": "prescriptive instruction to reject",
+     "morph": "3.sg.opt.act (pari-tyaj)"
+    }
+   ],
+   "question": "What principle governs acceptance and rejection in this evaluative context?",
+   "premises": [
+    "That very thing should be taken here.",
+    "The opposite is identified.",
+    "The opposite should be abandoned."
+   ],
+   "inference": "One should accept that very thing here and abandon what is opposite.",
+   "uncertainties": [
+    "The referent of 'that very thing' depends on the immediately preceding criteria."
+   ],
+   "plain_english": "One should accept that very thing here and abandon the opposite."
+  },
+  {
+   "verse": 1818,
+   "rows": [
+    {
+     "surface": "nāmajanmarkṣayor",
+     "gloss": "of-name-and-birth-star",
+     "grounds": "dual compound referring to name and birth lunar mansion",
+     "morph": "nāma+janma+ṛkṣa (compound).n.gen.du"
+    },
+    {
+     "surface": "ānukūlyaś",
+     "gloss": "favorableness",
+     "grounds": "concordance or compatibility",
+     "morph": "n.nom.sg (sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttama",
+     "gloss": "best",
+     "grounds": "highest or most excellent",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is designated",
+     "morph": "3.sg.pres.pass.ind (vac)"
+    }
+   ],
+   "question": "What is considered the best condition regarding name and birth lunar mansion?",
+   "premises": [
+    "The name and birth lunar mansion are considered together.",
+    "Their favorableness is evaluated.",
+    "Such favorableness is called the best."
+   ],
+   "inference": "Favorableness between the name and birth lunar mansion is called the best condition.",
+   "uncertainties": [],
+   "plain_english": "Favorableness between the name and the birth lunar mansion is called the best."
+  },
+  {
+   "verse": 1819,
+   "rows": [
+    {
+     "surface": "nakṣatrasya",
+     "gloss": "of-lunar-mansion",
+     "grounds": "pertaining to the nakṣatra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "outcome or fruit",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vayastasya",
+     "gloss": "its-age",
+     "grounds": "vayas + tasya indicating the age of that",
+     "morph": "vayas+n.gen.sg (compound/sandhi)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "n.nom.sg.nt (past-participle, pra-kīrt)"
+    }
+   ],
+   "question": "How is the result associated with a lunar mansion identified in terms of age?",
+   "premises": [
+    "A result of the lunar mansion is considered.",
+    "This result is related to age.",
+    "It is declared as the age of that."
+   ],
+   "inference": "Whatever result belongs to the lunar mansion is declared as its age.",
+   "uncertainties": [
+    "The technical meaning of 'age' in this astrological calculation is context-dependent."
+   ],
+   "plain_english": "Whatever result belongs to the lunar mansion is declared as its age."
+  },
+  {
+   "verse": 1820,
+   "rows": [
+    {
+     "surface": "sakalañ",
+     "gloss": "whole",
+     "grounds": "the entire amount",
+     "morph": "n.acc.sg.nt (sandhi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭabhir",
+     "gloss": "by-eight",
+     "grounds": "multiplier of eight",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "hanyād",
+     "gloss": "one-should-multiply",
+     "grounds": "prescriptive instruction to multiply",
+     "morph": "3.sg.opt.act (han)"
+    },
+    {
+     "surface": "āyaḥ",
+     "gloss": "income",
+     "grounds": "gain or income",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so'",
+     "gloss": "that",
+     "grounds": "saḥ with elision before api",
+     "morph": "m.nom.sg (sandhi)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "in another way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is designated",
+     "morph": "3.sg.pres.pass.ind (vac)"
+    }
+   ],
+   "question": "How is the total value processed to determine income in this calculation?",
+   "premises": [
+    "The whole amount is taken.",
+    "It should be multiplied by eight.",
+    "The result is called income, though also described otherwise."
+   ],
+   "inference": "One should multiply the whole by eight, and that is called income, though it is also described otherwise.",
+   "uncertainties": [
+    "The alternative designation implied by 'otherwise' is not fully explained here."
+   ],
+   "plain_english": "One should multiply the whole by eight; that is called income, and it is also described otherwise."
+  },
+  {
+   "verse": 1821,
+   "rows": [
+    {
+     "surface": "śiṣṭas",
+     "gloss": "remainder",
+     "grounds": "what remains",
+     "morph": "m.nom.sg (past-participle, śiṣ, sandhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyaḥ",
+     "gloss": "income",
+     "grounds": "gain or income",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "is-called",
+     "grounds": "is designated",
+     "morph": "m.nom.sg (past-participle, sam-ā-khyā, sandhi)"
+    },
+    {
+     "surface": "vyayas",
+     "gloss": "expenditure",
+     "grounds": "loss or expense",
+     "morph": "m.nom.sg (sandhi)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtyate",
+     "gloss": "is-declared",
+     "grounds": "is stated",
+     "morph": "3.sg.pres.pass.ind (pra-kīrt)"
+    }
+   ],
+   "question": "How are the remainder values designated as income and expenditure in this step?",
+   "premises": [
+    "A remainder is obtained.",
+    "That remainder is called income.",
+    "Expenditure is declared in that context."
+   ],
+   "inference": "The remainder is called income, and expenditure is declared there accordingly.",
+   "uncertainties": [
+    "The precise assignment rule distinguishing income and expenditure remainders is compressed."
+   ],
+   "plain_english": "The remainder is called income, and expenditure is declared there."
+  },
+  {
+   "verse": 1822,
+   "rows": [
+    {
+     "surface": "vyayaḥ",
+     "gloss": "expenditure",
+     "grounds": "loss or expense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣṭa",
+     "gloss": "remainder",
+     "grounds": "what remains",
+     "morph": "m.nom.sg (past-participle, śiṣ, sandhi)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktas",
+     "gloss": "declared",
+     "grounds": "stated",
+     "morph": "m.nom.sg (past-participle, pra-vac, sandhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "in another way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "is described",
+     "morph": "3.sg.pres.pass.ind (kath)"
+    }
+   ],
+   "question": "How is the remainder alternatively identified as expenditure in this context?",
+   "premises": [
+    "Expenditure is identified with the remainder here.",
+    "This is declared in one way.",
+    "It is also stated otherwise."
+   ],
+   "inference": "The remainder is declared here as expenditure, and it is also described in another way.",
+   "uncertainties": [
+    "The alternative method of identification is not specified in this verse."
+   ],
+   "plain_english": "The remainder is declared here as expenditure, and it is also stated otherwise."
+  },
+  {
+   "verse": 1823,
+   "rows": [
+    {
+     "surface": "āyādhikyaṃ",
+     "gloss": "income-excess",
+     "grounds": "surplus of income over expenditure",
+     "morph": "āya+ādhikya (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhadaṃ",
+     "gloss": "giving-auspiciousness",
+     "grounds": "productive of good results",
+     "morph": "śubha+da (compound).n.nom.sg.nt"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "income and expenditure being equal",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "income being deficient",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive instruction to reject",
+     "morph": "3.sg.opt.act (vṛj)"
+    }
+   ],
+   "question": "What outcomes of income versus expenditure are auspicious and which should be avoided?",
+   "premises": [
+    "An excess of income is auspicious.",
+    "Equality and deficiency are considered.",
+    "Equal or deficient cases should be avoided."
+   ],
+   "inference": "An excess of income is auspicious, but one should avoid cases where income is equal or less.",
+   "uncertainties": [],
+   "plain_english": "An excess of income is auspicious, but one should avoid what is equal or less."
+  },
+  {
+   "verse": 1824,
+   "rows": [
+    {
+     "surface": "triṃśadbhir",
+     "gloss": "by-thirty",
+     "grounds": "divisor of thirty",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "vibhajec",
+     "gloss": "one-should-divide",
+     "grounds": "prescriptive instruction to divide",
+     "morph": "3.sg.opt.act (vi-bhaj, sandhi)"
+    },
+    {
+     "surface": "chiṣṭaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains after division",
+     "morph": "n.acc.sg.nt (past-participle, śiṣ)"
+    },
+    {
+     "surface": "tithināgāvaṭaistu",
+     "gloss": "by-lunar-day-nāga-avaṭa",
+     "grounds": "compound indicating divisors tithi, nāga, avaṭa",
+     "morph": "tithi+nāga+avaṭa (compound).m.inst.pl (sandhi with tu)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what divisors should one divide to obtain the relevant remainder?",
+   "premises": [
+    "Division by thirty is prescribed.",
+    "Division by lunar days, nāgas, and avaṭas is an alternative.",
+    "The remainder is the object of interest."
+   ],
+   "inference": "One should divide by thirty, or alternatively by lunar days, nāgas, and avaṭas, to obtain the remainder.",
+   "uncertainties": [
+    "The technical values of nāga and avaṭa as divisors are not specified here."
+   ],
+   "plain_english": "One should divide by thirty, or alternatively by lunar days, nāgas, and avaṭas, and take the remainder."
+  }
+ ]
+}

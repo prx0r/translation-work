@@ -1,0 +1,789 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3851,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive of establishing a preliminary image",
+     "morph": "gerund (sam-sthā)"
+    },
+    {
+     "surface": "bālaliṅgādyaṃ",
+     "gloss": "child-linga-etc",
+     "grounds": "preliminary or temporary linga and similar objects",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tanmadhyevinyasenmanum",
+     "gloss": "in-its-middle-should-place-mantra",
+     "grounds": "fused instruction to install the mantra within that object",
+     "morph": "compound+verb 3.sg.opt.act (vi-ni-as)"
+    }
+   ],
+   "question": "Where must the mantra be installed after establishing a preliminary linga?",
+   "premises": [
+    "A preliminary linga or similar object is first established.",
+    "The mantra must be placed within that established object.",
+    "Placement occurs in the middle of that object."
+   ],
+   "inference": "After establishing a preliminary linga, the officiant installs the mantra in its middle.",
+   "uncertainties": [
+    "The exact scope of -ādyaṃ is not specified."
+   ],
+   "plain_english": "Having established a preliminary linga or the like, one should place the mantra in its middle."
+  },
+  {
+   "verse": 3852,
+   "rows": [
+    {
+     "surface": "tasmādādāya",
+     "gloss": "from-that-having-taken",
+     "grounds": "taking the deity or presence from the preliminary installation",
+     "morph": "indecl.+gerund (ā-dā)"
+    },
+    {
+     "surface": "deveśaṃ",
+     "gloss": "lord-of-gods",
+     "grounds": "the divine presence to be transferred",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlaliṅgeniveśayet",
+     "gloss": "in-root-linga-should-install",
+     "grounds": "fused instruction to install into the principal linga",
+     "morph": "compound+verb 3.sg.opt.act.caus (ni-viś)"
+    }
+   ],
+   "question": "Into what object should the lord be transferred from the preliminary installation?",
+   "premises": [
+    "The lord is taken from the preliminary installation.",
+    "A principal linga serves as the final locus.",
+    "The transfer is performed by installation."
+   ],
+   "inference": "The lord taken from the preliminary object should be installed in the root linga.",
+   "uncertainties": [],
+   "plain_english": "Taking the Lord from there, one should install him in the principal linga."
+  },
+  {
+   "verse": 3853,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadabdāparyante",
+     "gloss": "up-to-thirty-six-years-limit",
+     "grounds": "time limit for the preliminary arrangement",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "mūlaliṅgeniveśayet",
+     "gloss": "in-root-linga-should-install",
+     "grounds": "installation into the principal linga at that limit",
+     "morph": "compound+verb 3.sg.opt.act.caus (ni-viś)"
+    }
+   ],
+   "question": "By what maximum period must installation in the root linga be completed?",
+   "premises": [
+    "A time limit is specified for the arrangement.",
+    "The limit is thirty-six years.",
+    "Installation in the root linga is required by that limit."
+   ],
+   "inference": "The installation in the root linga must be completed within thirty-six years.",
+   "uncertainties": [
+    "Whether the period counts from initial establishment is implied but not explicit."
+   ],
+   "plain_english": "One should install the deity in the principal linga within a limit of thirty-six years."
+  },
+  {
+   "verse": 3854,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "a doubled duration or measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇantasya",
+     "gloss": "threefold-of-that",
+     "grounds": "a tripled measure related to the same basis",
+     "morph": "compound m.gen.sg"
+    },
+    {
+     "surface": "caturviśativatsare",
+     "gloss": "in-twenty-four-years",
+     "grounds": "a twenty-four-year period as reference point",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "What scaled time measures are associated with a twenty-four-year period?",
+   "premises": [
+    "A base period of twenty-four years is mentioned.",
+    "A twofold measure is indicated.",
+    "A threefold measure of that basis is indicated."
+   ],
+   "inference": "The twenty-four-year period admits twofold and threefold extensions.",
+   "uncertainties": [
+    "The syntactic relation to the preceding installation rule is compressed."
+   ],
+   "plain_english": "In relation to twenty-four years, there are twofold and threefold measures of that period."
+  },
+  {
+   "verse": 3855,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadvatsarorddhantu",
+     "gloss": "above-thirty-six-years-but",
+     "grounds": "period exceeding thirty-six years",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "mūlasthānantadevahi",
+     "gloss": "in-root-place-then-god-indeed",
+     "grounds": "fused assertion that the deity remains in the root location",
+     "morph": "compound+indecl."
+    }
+   ],
+   "question": "Where does the deity remain after the thirty-six-year period has passed?",
+   "premises": [
+    "A period above thirty-six years is considered.",
+    "The deity is associated with the root location.",
+    "The statement asserts this as definitive."
+   ],
+   "inference": "After thirty-six years, the deity indeed remains in the root location.",
+   "uncertainties": [
+    "The exact nuance of -hi in this compressed form is emphatic."
+   ],
+   "plain_english": "But after thirty-six years, the deity indeed remains in the principal place."
+  },
+  {
+   "verse": 3856,
+   "rows": [
+    {
+     "surface": "sakalepyevamevaṃ",
+     "gloss": "in-all-also-just-so",
+     "grounds": "the same rule applies in all cases",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "syādviśeṣaḥ",
+     "gloss": "may-be-difference",
+     "grounds": "possibility of a special distinction",
+     "morph": "verb 3.sg.opt.act (as)+m.nom.sg"
+    },
+    {
+     "surface": "kaścidiṣyate",
+     "gloss": "some-is-desired",
+     "grounds": "some particular difference may be intended",
+     "morph": "pron.m.nom.sg+verb 3.sg.pres.pass (iṣ)"
+    }
+   ],
+   "question": "Does the same installation rule apply universally or admit specific exceptions?",
+   "premises": [
+    "The rule is stated to apply in all cases.",
+    "A difference may still be possible.",
+    "Some particular difference may be desired."
+   ],
+   "inference": "The rule is generally universal, though some specific difference may be desired.",
+   "uncertainties": [
+    "The nature of the desired difference is unspecified."
+   ],
+   "plain_english": "In all cases it is just so, though some particular difference may be desired."
+  },
+  {
+   "verse": 3857,
+   "rows": [
+    {
+     "surface": "nocettatraiva",
+     "gloss": "if-not-then-there-only",
+     "grounds": "condition when no difference is desired",
+     "morph": "indecl.+indecl.+indecl."
+    },
+    {
+     "surface": "saṃsthāpyamūla",
+     "gloss": "to-be-established-root",
+     "grounds": "the principal image to be established",
+     "morph": "compound"
+    },
+    {
+     "surface": "beraṃviśeṣataḥ",
+     "gloss": "image-especially",
+     "grounds": "emphasis on establishing the principal image there",
+     "morph": "n.nom.sg+indecl."
+    }
+   ],
+   "question": "What must be established in that place when no special difference is desired?",
+   "premises": [
+    "A condition of no desired difference is stated.",
+    "The location remains the same.",
+    "The principal image is to be established especially."
+   ],
+   "inference": "If no difference is desired, the principal image must be established there itself.",
+   "uncertainties": [
+    "The exact referent of tatra depends on prior context."
+   ],
+   "plain_english": "If not, then the principal image should be established there itself, especially."
+  },
+  {
+   "verse": 3858,
+   "rows": [
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "introduces a qualification to the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaḍge'male",
+     "gloss": "in-sword-pure",
+     "grounds": "in the pure sword, likely a ritual implement or locus",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "mantrānvinyasyāparamārabhet",
+     "gloss": "mantras-having-placed-other-should-begin",
+     "grounds": "fused instruction to place mantras and begin another rite",
+     "morph": "m.acc.pl+gerund (vi-ni-as)+verb 3.sg.opt.act (ā-rabh)"
+    }
+   ],
+   "question": "What procedural step follows placing mantras in the pure sword?",
+   "premises": [
+    "A qualification to the procedure is introduced.",
+    "Mantras are placed in the pure sword.",
+    "Another action is to be begun after that placement."
+   ],
+   "inference": "After placing the mantras in the pure sword, one should begin the other procedure.",
+   "uncertainties": [
+    "The ritual identity of khaḍga in this context is not fully specified."
+   ],
+   "plain_english": "But, having placed the mantras in the pure sword, one should begin the other procedure."
+  },
+  {
+   "verse": 3859,
+   "rows": [
+    {
+     "surface": "śivaliṅgādiyadvastu",
+     "gloss": "śiva-linga-etc-whatever-object",
+     "grounds": "any object such as a Śiva linga",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "yadajñena",
+     "gloss": "when-by-ignorant",
+     "grounds": "consecration performed by an unqualified or ignorant person",
+     "morph": "indecl.+m.inst.sg"
+    },
+    {
+     "surface": "pratiṣṭhitam",
+     "gloss": "consecrated",
+     "grounds": "object that has undergone installation",
+     "morph": "n.nom.sg past-passive-participle (prati-sthā)"
+    }
+   ],
+   "question": "What condition of consecration requires corrective ritual attention for a Śiva linga?",
+   "premises": [
+    "The object may be a Śiva linga or similar item.",
+    "It may have been consecrated by an ignorant person.",
+    "Such consecration is treated as a special case."
+   ],
+   "inference": "A Śiva linga or similar object consecrated by an ignorant person requires correction.",
+   "uncertainties": [],
+   "plain_english": "Whatever object, such as a Śiva linga, has been consecrated by an ignorant person—"
+  },
+  {
+   "verse": 3860,
+   "rows": [
+    {
+     "surface": "bhūyopi",
+     "gloss": "again-also",
+     "grounds": "repetition of the ritual action",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the improperly consecrated object",
+     "morph": "pron.n.gen.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "injunctive prescription for the guru",
+     "morph": "verb 3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "pūrvoktavat",
+     "gloss": "as-before-said",
+     "grounds": "procedure follows the earlier prescription",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "qualified teacher performs the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must reconsecrate an object previously installed by an ignorant person?",
+   "premises": [
+    "The object was previously consecrated improperly.",
+    "The rite must be performed again.",
+    "The procedure follows the earlier method and is done by the guru."
+   ],
+   "inference": "The guru should perform the consecration again as previously prescribed.",
+   "uncertainties": [],
+   "plain_english": "the guru should perform its consecration again, just as prescribed before."
+  },
+  {
+   "verse": 3861,
+   "rows": [
+    {
+     "surface": "tairapisthāpi",
+     "gloss": "by-them-also-established",
+     "grounds": "fused reference to establishment done by those persons",
+     "morph": "compound"
+    },
+    {
+     "surface": "taṃliṅgaṃ",
+     "gloss": "that-linga",
+     "grounds": "the same linga previously established",
+     "morph": "pron.n.acc.sg+n.acc.sg"
+    },
+    {
+     "surface": "punassaṃskṛtya",
+     "gloss": "again-having-purified",
+     "grounds": "reconsecration or purification before worship",
+     "morph": "indecl.+gerund (sam-kṛ)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "worship follows proper purification",
+     "morph": "verb 3.sg.opt.act (pūj)"
+    }
+   ],
+   "question": "What must be done before worshipping a linga established by unqualified persons?",
+   "premises": [
+    "The linga was established by those persons.",
+    "It requires renewed purification.",
+    "Worship is appropriate only after that purification."
+   ],
+   "inference": "A linga established by them must be purified again and then worshipped.",
+   "uncertainties": [
+    "The identity of tair is carried from prior context."
+   ],
+   "plain_english": "Even if established by them, that linga should be purified again and then worshipped."
+  },
+  {
+   "verse": 3862,
+   "rows": [
+    {
+     "surface": "lākulāstvaparejñeyāḥ",
+     "gloss": "lākula-but-others-to-be-known",
+     "grounds": "identifies another group as Lākula",
+     "morph": "m.nom.pl+indecl.+m.nom.pl+gerundive m.nom.pl (jñā)"
+    },
+    {
+     "surface": "pratyekaṃtrividhāsmṛtāḥ",
+     "gloss": "each-threefold-remembered",
+     "grounds": "each is remembered as threefold",
+     "morph": "indecl.+m.nom.pl+past-passive-participle m.nom.pl (smṛ)"
+    }
+   ],
+   "question": "How are the Lākula traditions classified in terms of internal divisions?",
+   "premises": [
+    "Another group is identified as Lākula.",
+    "They are to be known distinctly.",
+    "Each is remembered as threefold."
+   ],
+   "inference": "The Lākula traditions are each classified as threefold.",
+   "uncertainties": [],
+   "plain_english": "Others are to be known as Lākula, and each of them is remembered as threefold."
+  },
+  {
+   "verse": 3863,
+   "rows": [
+    {
+     "surface": "śaivāścaturvidhāstvanye",
+     "gloss": "śaiva-fourfold-but-others",
+     "grounds": "another set of Śaiva traditions is fourfold",
+     "morph": "m.nom.pl+indecl.+m.nom.pl"
+    },
+    {
+     "surface": "mantratantravyavasthitāḥ",
+     "gloss": "arranged-by-mantra-and-tantra",
+     "grounds": "their arrangement is based on mantra and tantra",
+     "morph": "compound m.nom.pl"
+    }
+   ],
+   "question": "On what basis are other Śaiva traditions arranged into four kinds?",
+   "premises": [
+    "Other Śaiva traditions are distinguished.",
+    "They are said to be fourfold.",
+    "Their arrangement is determined by mantra and tantra."
+   ],
+   "inference": "Other Śaiva traditions are fourfold, arranged according to mantra and tantra.",
+   "uncertainties": [],
+   "plain_english": "Other Śaiva traditions are fourfold, arranged according to mantra and tantra."
+  },
+  {
+   "verse": 3864,
+   "rows": [
+    {
+     "surface": "pratyekaṃtritribhedena",
+     "gloss": "each-by-three-three-division",
+     "grounds": "each is further divided into three parts",
+     "morph": "indecl.+compound m.inst.sg"
+    },
+    {
+     "surface": "pūrvavatsaṃvyavasthitāḥ",
+     "gloss": "as-before-arranged",
+     "grounds": "arranged in the same manner as before",
+     "morph": "indecl.+m.nom.pl past-passive-participle (sam-vi-avasthā)"
+    }
+   ],
+   "question": "How are the fourfold Śaiva traditions further subdivided and organized?",
+   "premises": [
+    "Each tradition admits further division.",
+    "The division is threefold in each case.",
+    "The arrangement follows the previous pattern."
+   ],
+   "inference": "Each of those traditions is subdivided into three, arranged as before.",
+   "uncertainties": [
+    "The exact referent of pūrvavat is contextual."
+   ],
+   "plain_english": "Each of them is arranged in threefold divisions, just as before."
+  },
+  {
+   "verse": 3865,
+   "rows": [
+    {
+     "surface": "yāmalatvaparaṃjñeyaṃ",
+     "gloss": "yāmala-but-other-to-be-known",
+     "grounds": "identifies another system as Yāmala",
+     "morph": "n.nom.sg+indecl.+n.nom.sg+gerundive n.nom.sg (jñā)"
+    },
+    {
+     "surface": "taccamiśramihocyate",
+     "gloss": "and-that-mixed-here-is-said",
+     "grounds": "that Yāmala is described here as mixed",
+     "morph": "pron.n.nom.sg+indecl.+n.nom.sg+indecl.+verb 3.sg.pres.pass (vac)"
+    }
+   ],
+   "question": "What character is attributed to the Yāmala system in this classification?",
+   "premises": [
+    "Another system is identified as Yāmala.",
+    "It is to be known as distinct.",
+    "It is described here as mixed."
+   ],
+   "inference": "The Yāmala system is to be known as a mixed system.",
+   "uncertainties": [
+    "The elements that are mixed are not specified in this verse."
+   ],
+   "plain_english": "Another system is to be known as Yāmala, and here it is said to be mixed."
+  },
+  {
+   "verse": 3866,
+   "rows": [
+    {
+     "surface": "vāmaṃ",
+     "gloss": "left",
+     "grounds": "the left division of the mixed system",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāraśivārhaṃ",
+     "gloss": "worthy-of-supreme-śiva",
+     "grounds": "suited to or belonging to the supreme Śiva",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states the classification",
+     "morph": "verb 3.sg.opt.act (as)"
+    },
+    {
+     "surface": "dakṣiṇaṃbhairavārhakam",
+     "gloss": "right-worthy-of-bhairava",
+     "grounds": "the right division is suited to Bhairava",
+     "morph": "n.nom.sg+compound n.nom.sg"
+    }
+   ],
+   "question": "How are the left and right divisions of the Yāmala system assigned?",
+   "premises": [
+    "The system has a left division.",
+    "The system has a right division.",
+    "The left is assigned to the supreme Śiva and the right to Bhairava."
+   ],
+   "inference": "In the Yāmala system, the left is for the supreme Śiva and the right for Bhairava.",
+   "uncertainties": [],
+   "plain_english": "The left should be worthy of the supreme Śiva, and the right worthy of Bhairava."
+  },
+  {
+   "verse": 3867,
+   "rows": [
+    {
+     "surface": "vyatiriktantu",
+     "gloss": "distinct-but",
+     "grounds": "what is distinct from Siddhānta",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "siddhāntāt",
+     "gloss": "from-siddhānta",
+     "grounds": "Siddhānta as the point of contrast",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "raudraṃsarvamudīritam",
+     "gloss": "raudra-all-declared",
+     "grounds": "all such distinct systems are declared Raudra",
+     "morph": "n.nom.sg+n.nom.sg+past-passive-participle n.nom.sg (ud-īr)"
+    }
+   ],
+   "question": "How are all systems distinct from Siddhānta classified in this scheme?",
+   "premises": [
+    "Some systems are distinct from Siddhānta.",
+    "These are considered collectively.",
+    "They are declared to be Raudra."
+   ],
+   "inference": "Everything distinct from Siddhānta is declared Raudra.",
+   "uncertainties": [],
+   "plain_english": "But everything distinct from Siddhānta is declared to be Raudra."
+  },
+  {
+   "verse": 3868,
+   "rows": [
+    {
+     "surface": "laukikaṃ",
+     "gloss": "worldly",
+     "grounds": "a worldly path or teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaudikañcānya",
+     "gloss": "vedic-and-other",
+     "grounds": "vedic and another category grouped together",
+     "morph": "n.nom.sg+indecl.+n.nom.sg"
+    },
+    {
+     "surface": "dadhyātmamatimārgakam",
+     "gloss": "and-spiritual-path",
+     "grounds": "fused reference to an adhyātma or spiritual path",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "Which categories are included among the paths listed in this classification?",
+   "premises": [
+    "A worldly category is named.",
+    "A vedic and another category are named.",
+    "A spiritual path is included."
+   ],
+   "inference": "The list includes worldly, vedic, other, and spiritual paths.",
+   "uncertainties": [
+    "The exact parsing of the fused final token is uncertain."
+   ],
+   "plain_english": "The worldly, the Vedic and other, and the spiritual path—"
+  },
+  {
+   "verse": 3869,
+   "rows": [
+    {
+     "surface": "gāruḍhaṃ",
+     "gloss": "gāruḍa",
+     "grounds": "the Gāruḍa tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "the Bhairava tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāmaṃ",
+     "gloss": "vāma",
+     "grounds": "the Vāma tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtatantrañcayāmalam",
+     "gloss": "bhūta-tantra-and-yāmala",
+     "grounds": "Bhūta-tantra and Yāmala included together",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "Which additional tantric traditions are enumerated in this list of paths?",
+   "premises": [
+    "Several named traditions are listed.",
+    "Gāruḍa, Bhairava, and Vāma are included.",
+    "Bhūta-tantra and Yāmala are included."
+   ],
+   "inference": "The enumeration includes Gāruḍa, Bhairava, Vāma, Bhūta-tantra, and Yāmala.",
+   "uncertainties": [],
+   "plain_english": "Gāruḍa, Bhairava, Vāma, and the Bhūta-tantra and Yāmala—"
+  },
+  {
+   "verse": 3870,
+   "rows": [
+    {
+     "surface": "bṛhaspatimataṃ",
+     "gloss": "teaching-of-bṛhaspati",
+     "grounds": "the doctrine associated with Bṛhaspati",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāṃkhyaṃ",
+     "gloss": "sāṃkhya",
+     "grounds": "the Sāṃkhya system",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "the Yoga system",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaikhānasantathā",
+     "gloss": "vaikhānasa-and-also",
+     "grounds": "the Vaikhānasa tradition included likewise",
+     "morph": "n.nom.sg+indecl."
+    }
+   ],
+   "question": "Which philosophical and ritual systems continue the enumerated list of paths?",
+   "premises": [
+    "The list continues with named systems.",
+    "Bṛhaspati's teaching, Sāṃkhya, and Yoga are included.",
+    "Vaikhānasa is also included."
+   ],
+   "inference": "The list further includes Bṛhaspati's teaching, Sāṃkhya, Yoga, and Vaikhānasa.",
+   "uncertainties": [],
+   "plain_english": "the teaching of Bṛhaspati, Sāṃkhya, Yoga, and likewise Vaikhānasa—"
+  },
+  {
+   "verse": 3871,
+   "rows": [
+    {
+     "surface": "vāstuśāstrantathāsautraṃ",
+     "gloss": "vāstu-śāstra-and-also-sautra",
+     "grounds": "Vāstu-śāstra and a Sautra tradition included",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgamitihāsakam",
+     "gloss": "six-limbs-and-itihāsa",
+     "grounds": "the six auxiliary disciplines and Itihāsa included",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "Which textual and auxiliary disciplines are added to the classified list?",
+   "premises": [
+    "Additional disciplines are enumerated.",
+    "Vāstu-śāstra and a Sautra category are included.",
+    "The six limbs and Itihāsa are included."
+   ],
+   "inference": "The list also includes Vāstu-śāstra, Sautra, the six limbs, and Itihāsa.",
+   "uncertainties": [
+    "The precise referent of sautra is not specified."
+   ],
+   "plain_english": "Vāstu-śāstra and likewise the Sautra, and the six limbs together with Itihāsa—"
+  },
+  {
+   "verse": 3872,
+   "rows": [
+    {
+     "surface": "sarvaṃraudraṃsamādiṣṭaṃ",
+     "gloss": "all-raudra-declared",
+     "grounds": "all the aforementioned are designated Raudra",
+     "morph": "n.nom.sg+n.nom.sg+past-passive-participle n.nom.sg (sam-ā-diś)"
+    },
+    {
+     "surface": "siddhāntaṃsaumyamiṣyate",
+     "gloss": "siddhānta-gentle-is-regarded",
+     "grounds": "Siddhānta is regarded as gentle or saumya",
+     "morph": "n.nom.sg+n.nom.sg+verb 3.sg.pres.pass (iṣ)"
+    }
+   ],
+   "question": "How are the enumerated paths contrasted with Siddhānta in this classification?",
+   "premises": [
+    "All the listed paths are collectively classified.",
+    "They are declared Raudra.",
+    "Siddhānta is regarded as gentle."
+   ],
+   "inference": "All those paths are Raudra, whereas Siddhānta is regarded as gentle.",
+   "uncertainties": [],
+   "plain_english": "All of this is declared Raudra, while Siddhānta is regarded as gentle."
+  },
+  {
+   "verse": 3873,
+   "rows": [
+    {
+     "surface": "tatsarvaṃśaivamāpādya",
+     "gloss": "that-all-śaiva-having-made",
+     "grounds": "bringing all of that into a Śaiva framework",
+     "morph": "pron.n.acc.sg+n.acc.sg+n.acc.sg+gerund (ā-pad caus.)"
+    },
+    {
+     "surface": "śaivassarvaṃsamarcayet",
+     "gloss": "śaiva-all-should-worship",
+     "grounds": "a Śaiva practitioner should worship all in that form",
+     "morph": "m.nom.sg+n.acc.sg+verb 3.sg.opt.act (sam-arc)"
+    }
+   ],
+   "question": "How should a Śaiva practitioner relate to all the paths classified as Raudra?",
+   "premises": [
+    "All those paths can be brought into a Śaiva form.",
+    "The practitioner in question is Śaiva.",
+    "Worship of all is prescribed in that transformed mode."
+   ],
+   "inference": "A Śaiva should render all those paths Śaiva and worship them accordingly.",
+   "uncertainties": [
+    "The practical mode of making them Śaiva is not detailed."
+   ],
+   "plain_english": "Having made all of that Śaiva, a Śaiva should worship all of it."
+  },
+  {
+   "verse": 3874,
+   "rows": [
+    {
+     "surface": "tadrūpaṃ",
+     "gloss": "in-that-form",
+     "grounds": "in the form thus established or worshipped",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "pūjitantaiśce",
+     "gloss": "worshipped-by-them-and-if",
+     "grounds": "fused condition referring to worship performed by them",
+     "morph": "n.acc.sg+m.inst.pl+indecl.+indecl."
+    },
+    {
+     "surface": "drāṣṭaṃ",
+     "gloss": "to-be-seen",
+     "grounds": "prescribes how it should be regarded or seen",
+     "morph": "gerundive n.nom.sg (dṛś)"
+    },
+    {
+     "surface": "rājānamevaca",
+     "gloss": "king-indeed-and",
+     "grounds": "includes the king in the same regard",
+     "morph": "m.acc.sg+indecl.+indecl."
+    }
+   ],
+   "question": "How should a king worshipped in that form by others be regarded?",
+   "premises": [
+    "Something is worshipped by them in that form.",
+    "The king is included in this consideration.",
+    "A prescribed way of seeing or regarding is stated."
+   ],
+   "inference": "If worshipped by them in that form, the king too should be regarded accordingly.",
+   "uncertainties": [
+    "The compressed syntax leaves the exact subject-object relation somewhat ambiguous."
+   ],
+   "plain_english": "And if worshipped by them in that form, the king too should be regarded in that way."
+  }
+ ]
+}

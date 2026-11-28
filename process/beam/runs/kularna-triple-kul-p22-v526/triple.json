@@ -1,0 +1,489 @@
+{
+ "song": "kul-p22",
+ "items": [
+  {
+   "verse": 526,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāropya",
+     "gloss": "place-on",
+     "grounds": "place on",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "jambālasadṛśaṃ",
+     "gloss": "mud-like",
+     "grounds": "mud-like",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pacet",
+     "gloss": "cook",
+     "grounds": "cook",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the fire be prepared for cooking?",
+   "premises": [
+    "therefore fire is placed",
+    "mud-like substance is cooked"
+   ],
+   "inference": "the fire is set up and the mud-like mixture is cooked",
+   "uncertainties": [],
+   "plain_english": "Therefore, place the fire and cook the mud-like mixture."
+  },
+  {
+   "verse": 527,
+   "rows": [
+    {
+     "surface": "pādonaprasthakaiḥ",
+     "gloss": "quarter-measure",
+     "grounds": "quarter-measure",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "grind",
+     "grounds": "grind",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "hastābhyāṃ",
+     "gloss": "hands",
+     "grounds": "hands",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "melayet",
+     "gloss": "mix",
+     "grounds": "mix",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "wise-one",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the wise one mix the ground ingredients?",
+   "premises": [
+    "quarter-measure ingredients are ground",
+    "hands are used for mixing"
+   ],
+   "inference": "the wise one grinds and mixes with the hands",
+   "uncertainties": [],
+   "plain_english": "The wise one grinds with quarter-measures and mixes with the hands."
+  },
+  {
+   "verse": 528,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paiṣṭī",
+     "gloss": "flour-liquor",
+     "grounds": "flour-liquor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "famous",
+     "grounds": "famous",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "worshipped",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devadānavaiḥ",
+     "gloss": "gods-demons",
+     "grounds": "gods-demons",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is this flour-liquor called and by whom is it honored?",
+   "premises": [
+    "this flour-liquor is famous",
+    "it is worshipped by gods and demons"
+   ],
+   "inference": "the flour-liquor is renowned and honored by gods and demons",
+   "uncertainties": [],
+   "plain_english": "This flour-liquor is famous and worshipped by gods and demons."
+  },
+  {
+   "verse": 529,
+   "rows": [
+    {
+     "surface": "daśaprasthaṃ",
+     "gloss": "ten-measures",
+     "grounds": "ten-measures",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "mistress",
+     "grounds": "mistress",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dhātakīkusumaṃ",
+     "gloss": "dhataki-flower",
+     "grounds": "dhataki-flower",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "auspicious",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What auspicious dhataki flower measure is addressed to the mistress?",
+   "premises": [
+    "ten measures are given",
+    "dhataki flower is auspicious"
+   ],
+   "inference": "the mistress receives ten measures of auspicious dhataki flower",
+   "uncertainties": [],
+   "plain_english": "O mistress, ten measures of auspicious dhataki flower."
+  },
+  {
+   "verse": 530,
+   "rows": [
+    {
+     "surface": "harītakī",
+     "gloss": "haritaki",
+     "grounds": "haritaki",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cākṣaphalaṃ",
+     "gloss": "and-aksha-fruit",
+     "grounds": "and-aksha-fruit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vasuniṣkapramāṇataḥ",
+     "gloss": "gold-nishka-measure",
+     "grounds": "gold-nishka-measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is used for haritaki and aksha fruit?",
+   "premises": [
+    "haritaki is included",
+    "aksha fruit is included",
+    "gold nishka measure applies"
+   ],
+   "inference": "haritaki and aksha fruit are measured by gold nishka",
+   "uncertainties": [],
+   "plain_english": "Haritaki and aksha fruit are measured by gold nishka."
+  },
+  {
+   "verse": 531,
+   "rows": [
+    {
+     "surface": "aśītiguḍasammiśra",
+     "gloss": "eighty-jaggery-mixed",
+     "grounds": "eighty-jaggery-mixed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekasmin",
+     "gloss": "in-one",
+     "grounds": "in-one",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "join",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ghaṭe",
+     "gloss": "pot",
+     "grounds": "pot",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the eighty-jaggery mixture joined?",
+   "premises": [
+    "eighty jaggery is mixed",
+    "it is joined in one pot"
+   ],
+   "inference": "the mixed jaggery is joined in a single pot",
+   "uncertainties": [],
+   "plain_english": "Mix eighty jaggery and join it in one pot."
+  },
+  {
+   "verse": 532,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśatāvṛttyā",
+     "gloss": "hundred-eight-repetitions",
+     "grounds": "hundred-eight-repetitions",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "trisandhyaṃ",
+     "gloss": "three-junctures",
+     "grounds": "three-junctures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prativāsaram",
+     "gloss": "daily",
+     "grounds": "daily",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How often is the hundred-eight repetition performed?",
+   "premises": [
+    "hundred-eight repetitions are done",
+    "three junctures are observed",
+    "daily practice applies"
+   ],
+   "inference": "the repetition is performed daily at three junctures",
+   "uncertainties": [],
+   "plain_english": "Perform hundred-eight repetitions daily at the three junctures."
+  },
+  {
+   "verse": 533,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gauḍī",
+     "gloss": "gaudi",
+     "grounds": "gaudi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "called",
+     "grounds": "called",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivasāyujyahetukī",
+     "gloss": "shiva-union-cause",
+     "grounds": "shiva-union-cause",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this gaudi liquor said to cause?",
+   "premises": [
+    "this gaudi is called so",
+    "it causes union with Shiva"
+   ],
+   "inference": "gaudi liquor is named as causing union with Shiva",
+   "uncertainties": [],
+   "plain_english": "This is called gaudi, the cause of union with Shiva."
+  },
+  {
+   "verse": 534,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mādhvī",
+     "gloss": "madhvi",
+     "grounds": "madhvi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samuddiṣṭā",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatāprītikāriṇī",
+     "gloss": "deity-pleasing",
+     "grounds": "deity-pleasing",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What effect is declared for this madhvi liquor?",
+   "premises": [
+    "this madhvi is declared",
+    "it pleases deities"
+   ],
+   "inference": "madhvi liquor is declared to please deities",
+   "uncertainties": [],
+   "plain_english": "This madhvi is declared to please the deities."
+  },
+  {
+   "verse": 535,
+   "rows": [
+    {
+     "surface": "dhātakī",
+     "gloss": "dhataki",
+     "grounds": "dhataki",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkaṃ",
+     "gloss": "four",
+     "grounds": "four",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "five",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "flowers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaṇmadhu",
+     "gloss": "six-honey",
+     "grounds": "six-honey",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What quantities of dhataki, flowers, and honey are given?",
+   "premises": [
+    "dhataki is four",
+    "flowers are five",
+    "honey is six"
+   ],
+   "inference": "the recipe uses four dhataki, five flowers, and six honey",
+   "uncertainties": [],
+   "plain_english": "Let dhataki be four, flowers five, and honey six."
+  },
+  {
+   "verse": 536,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manoharaṃ",
+     "gloss": "charming",
+     "grounds": "charming",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginīpānamuttamam",
+     "gloss": "yogini-drink-supreme",
+     "grounds": "yogini-drink-supreme",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is this charming substance called?",
+   "premises": [
+    "this substance is charming",
+    "it is supreme yogini drink"
+   ],
+   "inference": "the charming substance is the supreme drink for yoginis",
+   "uncertainties": [],
+   "plain_english": "This charming substance is the supreme drink for yoginis."
+  },
+  {
+   "verse": 537,
+   "rows": [
+    {
+     "surface": "mocāpakvaśatañcāpi",
+     "gloss": "plantain-ripe-hundred",
+     "grounds": "plantain-ripe-hundred",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogo'yaṃ",
+     "gloss": "yoga-this",
+     "grounds": "yoga-this",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madirā",
+     "gloss": "wine",
+     "grounds": "wine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "auspicious",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What auspicious wine yoga is described with ripe plantain?",
+   "premises": [
+    "ripe plantain hundred is included",
+    "this yoga is wine",
+    "it is auspicious"
+   ],
+   "inference": "the auspicious wine yoga includes ripe plantain",
+   "uncertainties": [],
+   "plain_english": "This yoga with ripe plantain is auspicious wine."
+  }
+ ]
+}

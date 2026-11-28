@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "vadet+iti",
+     "gloss": "should-say-thus",
+     "grounds": "fused form with quotative particle; optative verb followed by iti",
+     "morph": "opt.act.3.sg(vad)+indecl.(iti)"
+    },
+    {
+     "surface": "apekṣāyām",
+     "gloss": "in-expectation",
+     "grounds": "locative expressing the circumstance or condition",
+     "morph": "f.loc.sg(apekṣā)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "verb of speaking introducing the prescribed formula",
+     "morph": "perf.act.3.sg(ah)"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "sense-conqueror",
+     "grounds": "compound denoting one who has mastered the senses",
+     "morph": "m.nom.sg(jita+indriya)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "compound indicating continuation of the cited formula",
+     "morph": "indecl.(iti+ādi)"
+    }
+   ],
+   "question": "What utterance is prescribed for the sense-conquered practitioner when expectation arises?",
+   "premises": [
+    "A condition of expectation may arise in the ritual context.",
+    "A specific verbal formula is prescribed for that condition.",
+    "The sense-conquered authority declares this prescribed utterance."
+   ],
+   "inference": "When expectation arises, the sense-conquered practitioner should utter the prescribed formula.",
+   "uncertainties": [
+    "The exact content of the formula abbreviated by ityādi is not specified in this verse."
+   ],
+   "plain_english": "In case of expectation, the sense-conquered one says: one should say thus, and so forth."
+  }
+ ]
+}

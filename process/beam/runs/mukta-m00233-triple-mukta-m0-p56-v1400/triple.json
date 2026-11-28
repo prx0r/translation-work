@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "kṣālitāṅghriḥ",
+     "gloss": "having-washed-feet",
+     "grounds": "past participle kṣālita joined with aṅghri in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samācamya",
+     "gloss": "having-sipped",
+     "grounds": "absolutive of sam-ā-cam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "absolutive of pra-viś",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānamaṇḍapam",
+     "gloss": "bath-pavilion",
+     "grounds": "compound of snāna and maṇḍapa in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preparatory bodily purification must the officiant complete before entering the bath pavilion?",
+   "premises": [
+    "feet are washed first",
+    "water is sipped next",
+    "entry follows purification"
+   ],
+   "inference": "the officiant enters the bath pavilion only after washing the feet and sipping water",
+   "uncertainties": [
+    "whether samācamya implies ritual sipping or ordinary drinking",
+    "whether kṣālitāṅghriḥ describes the officiant or an attendant"
+   ],
+   "plain_english": "Having washed his feet and sipped water, he enters the bath pavilion."
+  }
+ ]
+}

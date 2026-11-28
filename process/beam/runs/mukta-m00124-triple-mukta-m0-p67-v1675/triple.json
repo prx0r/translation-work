@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "vṛttābhogamidaṃ",
+     "gloss": "this-circular-enjoyment",
+     "grounds": "fused form of compound vṛtta-ābhoga with demonstrative idam, referring to the circular arrangement described",
+     "morph": "compound(vṛtta+ābhoga)+idam.pron.n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been stated",
+     "morph": "ppp.n.nom.sg(pra-√vac)"
+    },
+    {
+     "surface": "grāmādau",
+     "gloss": "in-village-and-so-on",
+     "grounds": "locative of compound grāma-ādi indicating village and similar contexts",
+     "morph": "compound(grāma+ādi).m.loc.sg"
+    },
+    {
+     "surface": "saṃprayojayet",
+     "gloss": "one-should-apply",
+     "grounds": "optative expressing prescriptive application",
+     "morph": "3.sg.opt.act(sam-pra-√yuj)"
+    }
+   ],
+   "question": "In what contexts should the declared circular arrangement be applied?",
+   "premises": [
+    "A circular arrangement has been declared in the preceding description.",
+    "Villages and similar places are indicated as contexts for application.",
+    "The instruction prescribes applying this arrangement in those contexts."
+   ],
+   "inference": "The declared circular arrangement should be applied in villages and similar contexts.",
+   "uncertainties": [
+    "The full range of contexts included by 'grāmādau' is not explicitly specified."
+   ],
+   "plain_english": "This declared circular arrangement should be applied in villages and similar places."
+  }
+ ]
+}

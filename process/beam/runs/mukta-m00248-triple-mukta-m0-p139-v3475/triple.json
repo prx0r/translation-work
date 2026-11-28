@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "locative of samara (battle)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trailokya",
+     "gloss": "three-worlds",
+     "grounds": "compound tri (three) + loka (world)",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃpunar",
+     "gloss": "how-much-more",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyunāśanam",
+     "gloss": "death-destruction",
+     "grounds": "compound mṛtyu (death) + nāśana (destruction)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does battle-accomplishment of three worlds imply about death-destruction?",
+   "premises": [
+    "battle yields three-world accomplishment",
+    "death-destruction is greater still"
+   ],
+   "inference": "If three-world accomplishment occurs in battle, death-destruction follows even more strongly.",
+   "uncertainties": [
+    "exact syntactic role of mṛtyunāśanam remains unresolved"
+   ],
+   "plain_english": "In battle there is accomplishment of the three worlds; how much more then death-destruction."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "devatā+sannidhiṃ",
+     "gloss": "to-deity-presence",
+     "grounds": "compound of devatā and sannidhi in accusative singular",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive from root gam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "optative form from root prārth",
+     "morph": "verb.3.sg.opt.act+prārth"
+    },
+    {
+     "surface": "vihita+añjaliḥ",
+     "gloss": "with-folded-hands",
+     "grounds": "compound of vihita and añjali in nominative singular",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "How should one approach the deity's presence and pray with folded hands?",
+   "premises": [
+    "One goes to deity presence.",
+    "One prays with folded hands.",
+    "Ritual approach requires folded hands."
+   ],
+   "inference": "Approaching the deity's presence and praying with folded hands constitutes proper ritual supplication.",
+   "uncertainties": [
+    "Exact grammatical voice of prārthayet is uncertain.",
+    "Compound gender and number are inferred from form."
+   ],
+   "plain_english": "Having gone to the presence of the deity, one should pray with folded hands."
+  }
+ ]
+}

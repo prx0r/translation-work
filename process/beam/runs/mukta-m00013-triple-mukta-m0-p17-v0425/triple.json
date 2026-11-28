@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "sarvavighnaiḥ",
+     "gloss": "by-all-obstacles",
+     "grounds": "instrumental plural indicating agents of obstruction",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "anaphoric pronoun referring to the person in question",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bādhyaḥ",
+     "gloss": "to-be-afflicted",
+     "grounds": "gerundive expressing necessity or potentiality of being harmed",
+     "morph": "gerundive.nom.sg.m (√bādh)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing a hypothetical or potential state",
+     "morph": "3.sg.optative.act (√as)"
+    },
+    {
+     "surface": "vyāghraiḥ",
+     "gloss": "by-tigers",
+     "grounds": "instrumental plural in simile indicating overpowering agents",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "mṛgaśiśuḥ",
+     "gloss": "deer-calf",
+     "grounds": "compound denoting a young deer as the vulnerable subject of comparison",
+     "morph": "compound.nom.sg.m (mṛga+śiśu)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "indeclinable particle introducing a simile",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fate befalls a person who is overwhelmed by all obstacles?",
+   "premises": [
+    "A person can be subject to affliction by all obstacles.",
+    "Tigers overpower and afflict a helpless deer-calf.",
+    "The simile equates vulnerability to obstacles with a fawn's vulnerability to tigers."
+   ],
+   "inference": "Without protective power, a person is utterly vulnerable to being afflicted by all obstacles.",
+   "uncertainties": [
+    "The implicit contrast with the protected state described in the preceding verse is inferred from context."
+   ],
+   "plain_english": "He would be afflicted by all obstacles, just as a deer-calf is afflicted by tigers."
+  }
+ ]
+}

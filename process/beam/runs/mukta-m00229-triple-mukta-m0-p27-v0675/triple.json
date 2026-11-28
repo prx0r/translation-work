@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "tatkarṇikāsaṃstha",
+     "gloss": "that-pericarp-situated",
+     "grounds": "compound of tat + karṇikā + saṃstha; adjective describing residence in the pericarp",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivasāyujyam",
+     "gloss": "shiva-union",
+     "grounds": "compound of śiva + sāyujya; object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "attains",
+     "grounds": "root āp, optative third singular",
+     "morph": "3.sg.opt-āp"
+    }
+   ],
+   "question": "What attainment results from being situated in the pericarp of that lotus?",
+   "premises": [
+    "Yogi unites self with kundalini.",
+    "Yogi enters citranadi lotus.",
+    "Pericarp situation yields Shiva union."
+   ],
+   "inference": "Therefore residence in that pericarp brings union with Shiva.",
+   "uncertainties": [
+    "Final visarga is absent in the supplied token."
+   ],
+   "plain_english": "Situated in the pericarp of that lotus, one attains union with Shiva."
+  }
+ ]
+}

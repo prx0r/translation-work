@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "guḍamiśreṇa",
+     "gloss": "with-jaggery-mixed",
+     "grounds": "instrumental of compound guḍa-miśra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "takreṇa",
+     "gloss": "with-buttermilk",
+     "grounds": "instrumental of takra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tarpayen",
+     "gloss": "satisfy",
+     "grounds": "optative of causative tarpay from root tṛp",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "madhuyojitam",
+     "gloss": "honey-joined",
+     "grounds": "accusative of past participle madhu-yujita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which jaggery-buttermilk-honey mixture is prescribed for satisfying the recipient?",
+   "premises": [
+    "jaggery-mixed buttermilk is used",
+    "honey-joined substance is included",
+    "tarpayen means satisfy"
+   ],
+   "inference": "The verse prescribes satisfying with jaggery-mixed buttermilk and honey-joined substance.",
+   "uncertainties": [
+    "exact recipient and object are not specified in this verse"
+   ],
+   "plain_english": "Satisfy with buttermilk mixed with jaggery and honey-joined."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparative particle introducing analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "dead-ones",
+     "grounds": "those deprived of life",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "perceive or apprehend",
+     "morph": "3.pl.pres.act √jñā"
+    },
+    {
+     "surface": "svādaṃ",
+     "gloss": "taste",
+     "grounds": "flavor or savor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaṭu+madhurasya",
+     "gloss": "of-pungent-and-sweet",
+     "grounds": "compound denoting contrasting flavors; internal sandhi in fused form",
+     "morph": "kaṭu+madhura+asya (compound, gen.sg.n)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prevents beings lacking vital awareness from discerning experiential qualities?",
+   "premises": [
+    "The dead lack the capacity for sensory experience.",
+    "Taste distinguishes qualities such as pungent and sweet.",
+    "Without vital awareness, such distinctions cannot be known."
+   ],
+   "inference": "Absence of vital awareness entails inability to apprehend experiential distinctions.",
+   "uncertainties": [
+    "The intended analogical target of the dead is not explicit in this verse alone."
+   ],
+   "plain_english": "Just as the dead do not know the taste of what is pungent and sweet, so those without vital awareness cannot discern such qualities."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "etat+mantram",
+     "gloss": "this-mantra",
+     "grounds": "demonstrative pronoun compounded with mantra; object of avijñāya",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "avijñāya",
+     "gloss": "without-knowing",
+     "grounds": "absolutive expressing prior condition of not knowing",
+     "morph": "gerund.(a-√jñā)"
+    },
+    {
+     "surface": "purāṇaṃ",
+     "gloss": "purāṇa",
+     "grounds": "scriptural genre named as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃhitāṃ",
+     "gloss": "saṃhitā",
+     "grounds": "scriptural compilation named as object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smṛtim",
+     "gloss": "smṛti",
+     "grounds": "traditional remembered text named as object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What scriptural study remains incomplete without knowledge of this mantra?",
+   "premises": [
+    "This mantra is a specific object of knowledge.",
+    "Purāṇa, saṃhitā, and smṛti are named scriptural texts.",
+    "Engagement with these texts can occur without knowing this mantra."
+   ],
+   "inference": "Study of purāṇa, saṃhitā, and smṛti without knowing this mantra lacks that essential knowledge.",
+   "uncertainties": [
+    "The main verb governing the listed texts is not present in this verse and must be supplied from context."
+   ],
+   "plain_english": "Without knowing this mantra, one may engage with purāṇa, saṃhitā, and smṛti."
+  }
+ ]
+}

@@ -1,0 +1,509 @@
+{
+ "song": "sva-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "naiṣṭhikavat",
+     "gloss": "like-permanent-vow-holder",
+     "grounds": "comparative formation indicating manner of a naiṣṭhika",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣiddham",
+     "gloss": "forbidden",
+     "grounds": "past passive participle expressing prohibition",
+     "morph": "n.nom.sg.ppp √niṣ-ṣidh"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "states the sense of the preceding statement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What restriction applies to one who follows the permanent vow-holder discipline?",
+   "premises": [
+    "The comparison is made to a permanent vow-holder.",
+    "Something is declared forbidden in that manner.",
+    "The statement gives the intended meaning."
+   ],
+   "inference": "The meaning is that the act is forbidden for one like a permanent vow-holder.",
+   "uncertainties": [
+    "The specific forbidden act is supplied by context."
+   ],
+   "plain_english": "The meaning is that it is forbidden, as for a permanent vow-holder."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "kalaśamudrayā",
+     "gloss": "with-pot-seal",
+     "grounds": "instrumental of ritual hand gesture",
+     "morph": "f.inst.sg compound kalaśa+mudrā"
+    },
+    {
+     "surface": "kalaśamudrayā",
+     "gloss": "with-pot-seal",
+     "grounds": "repeated token as given",
+     "morph": "f.inst.sg compound kalaśa+mudrā"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "locative indicating place of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "repeated token as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jalapātaḥ",
+     "gloss": "water-falling",
+     "grounds": "compound naming the act of pouring water",
+     "morph": "m.nom.sg compound jala+pāta"
+    },
+    {
+     "surface": "jalapātaḥ",
+     "gloss": "water-falling",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg compound jala+pāta"
+    }
+   ],
+   "question": "What ritual action is performed on the head using the pot seal?",
+   "premises": [
+    "The pot seal is employed as the means.",
+    "The head is the location of the action.",
+    "The action is described as the falling or pouring of water."
+   ],
+   "inference": "Water is poured on the head using the pot seal.",
+   "uncertainties": [],
+   "plain_english": "With the pot seal, water is poured on the head."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "saṅgṛhyati",
+     "gloss": "grasps",
+     "grounds": "verb expressing taking hold",
+     "morph": "3.sg.act.pres √sam-grah"
+    },
+    {
+     "surface": "aṅkuśamudrayā",
+     "gloss": "with-hook-seal",
+     "grounds": "instrumental of ritual hand gesture",
+     "morph": "f.inst.sg compound aṅkuśa+mudrā"
+    },
+    {
+     "surface": "aṅkuśamudrayā",
+     "gloss": "with-hook-seal",
+     "grounds": "repeated token as given",
+     "morph": "f.inst.sg compound aṅkuśa+mudrā"
+    },
+    {
+     "surface": "ākṛṣya",
+     "gloss": "having-drawn",
+     "grounds": "gerund expressing prior action of pulling",
+     "morph": "(gerund) √ā-kṛṣ"
+    }
+   ],
+   "question": "How is the object seized and drawn in using the hook seal?",
+   "premises": [
+    "The hook seal is used as the instrument.",
+    "An act of drawing is performed.",
+    "An act of grasping is performed."
+   ],
+   "inference": "One draws in and grasps with the hook seal.",
+   "uncertainties": [
+    "The object being grasped is not specified in this verse."
+   ],
+   "plain_english": "Having drawn it in with the hook seal, one grasps it."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "anupraviṣṭam",
+     "gloss": "entered-within",
+     "grounds": "past passive participle indicating entry",
+     "morph": "n.acc.sg.ppp √anu-pra-viś"
+    },
+    {
+     "surface": "anupraviṣṭam",
+     "gloss": "entered-within",
+     "grounds": "repeated token as given",
+     "morph": "n.acc.sg.ppp √anu-pra-viś"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative expressing prescribed contemplation",
+     "morph": "3.sg.act.opt √dhyai"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.act.opt √dhyai"
+    }
+   ],
+   "question": "What contemplative act should be performed regarding what has entered within?",
+   "premises": [
+    "Something is described as having entered within.",
+    "Meditation is prescribed as the appropriate act.",
+    "The entered state is the object of contemplation."
+   ],
+   "inference": "One should meditate on that which has entered within.",
+   "uncertainties": [
+    "The identity of what has entered is supplied by context."
+   ],
+   "plain_english": "One should meditate on it as having entered within."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "bhairavavyāptim",
+     "gloss": "bhairava-pervasion",
+     "grounds": "compound naming pervasive presence of Bhairava",
+     "morph": "f.acc.sg compound bhairava+vyāpti"
+    },
+    {
+     "surface": "bhairavavyāptim",
+     "gloss": "bhairava-pervasion",
+     "grounds": "repeated token as given",
+     "morph": "f.acc.sg compound bhairava+vyāpti"
+    },
+    {
+     "surface": "ātmano",
+     "gloss": "of-self",
+     "grounds": "genitive indicating whose pervasion is contemplated",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vibhāvayan",
+     "gloss": "manifesting",
+     "grounds": "present participle expressing active realization",
+     "morph": "m.nom.sg.act.pres.part √vi-bhāvay"
+    }
+   ],
+   "question": "What realization of the self is to be actively manifested in contemplation?",
+   "premises": [
+    "The object of realization is Bhairava-pervasion.",
+    "This pervasion pertains to the self.",
+    "The practitioner is actively manifesting this realization."
+   ],
+   "inference": "One should manifest the realization of the self's pervasion by Bhairava.",
+   "uncertainties": [],
+   "plain_english": "One should manifest the pervasion of the self by Bhairava."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "mūrdhādi",
+     "gloss": "from-head-onward",
+     "grounds": "compound indicating starting point of range",
+     "morph": "n.nom.sg compound mūrdhan+ādi"
+    },
+    {
+     "surface": "pādāntam",
+     "gloss": "to-foot-end",
+     "grounds": "compound indicating endpoint of range",
+     "morph": "n.acc.sg compound pāda+anta"
+    },
+    {
+     "surface": "uddhūlayet",
+     "gloss": "one-should-anoint",
+     "grounds": "optative prescribing ritual application",
+     "morph": "3.sg.act.opt.caus √ud-dhūl"
+    },
+    {
+     "surface": "uddhūlayet",
+     "gloss": "one-should-anoint",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.act.opt.caus √ud-dhūl"
+    }
+   ],
+   "question": "Over what bodily range should the ritual anointing be applied?",
+   "premises": [
+    "The starting point is the head.",
+    "The endpoint is the feet.",
+    "Anointing is prescribed as the action."
+   ],
+   "inference": "One should anoint from the head down to the feet.",
+   "uncertainties": [
+    "The substance used for anointing is not specified here."
+   ],
+   "plain_english": "One should anoint from the head to the feet."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "tripuṇḍrakamātram",
+     "gloss": "three-marks-only",
+     "grounds": "compound limiting the extent of application",
+     "morph": "n.nom.sg compound tripuṇḍraka+mātra"
+    },
+    {
+     "surface": "tripuṇḍrakamātram",
+     "gloss": "three-marks-only",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg compound tripuṇḍraka+mātra"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction offering an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhasthena",
+     "gloss": "by-householder",
+     "grounds": "instrumental identifying the agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or option",
+     "morph": "n.nom.sg.gerundive √kṛ"
+    }
+   ],
+   "question": "What alternative ritual marking is permitted for a householder practitioner?",
+   "premises": [
+    "An alternative is introduced.",
+    "The agent specified is a householder.",
+    "The action is limited to making only the three marks."
+   ],
+   "inference": "A householder may alternatively apply only the three marks.",
+   "uncertainties": [],
+   "plain_english": "Or a householder should apply only the three marks."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "smṛtvā",
+     "gloss": "having-remembered",
+     "grounds": "gerund expressing preparatory recollection",
+     "morph": "(gerund) √smṛ"
+    },
+    {
+     "surface": "śikhām",
+     "gloss": "crest",
+     "grounds": "object of recollection or ritual focus",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "madhyaśaktim",
+     "gloss": "middle-power",
+     "grounds": "compound naming the central power",
+     "morph": "f.acc.sg compound madhya+śakti"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "gerund expressing act of binding",
+     "morph": "(gerund) √bandh"
+    },
+    {
+     "surface": "avaṣṭabhya",
+     "gloss": "having-supported",
+     "grounds": "gerund expressing act of stabilizing",
+     "morph": "(gerund) √ava-stabh"
+    }
+   ],
+   "question": "What sequence of preparatory acts involves the crest and the middle power?",
+   "premises": [
+    "The crest is remembered.",
+    "The middle power is bound.",
+    "A supporting or stabilizing act is performed."
+   ],
+   "inference": "One should remember the crest, bind the middle power, and stabilize it.",
+   "uncertainties": [
+    "The precise ritual referent of binding and supporting is context-dependent."
+   ],
+   "plain_english": "Having remembered the crest, having bound the middle power, and having stabilized it."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "sūcayati",
+     "gloss": "indicates",
+     "grounds": "verb expressing signification",
+     "morph": "3.sg.act.pres.caus √sūc"
+    },
+    {
+     "surface": "sūcayati",
+     "gloss": "indicates",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.act.pres.caus √sūc"
+    },
+    {
+     "surface": "sūcayati",
+     "gloss": "indicates",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.act.pres.caus √sūc"
+    },
+    {
+     "surface": "sūcayati",
+     "gloss": "indicates",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.act.pres.caus √sūc"
+    }
+   ],
+   "question": "What function is being emphasized by the repeated act of indicating?",
+   "premises": [
+    "The same verbal action is repeated.",
+    "The action denotes indicating or pointing out.",
+    "Repetition emphasizes the act of signification."
+   ],
+   "inference": "The verse emphasizes that something is being indicated or shown.",
+   "uncertainties": [
+    "The object being indicated is not stated in this verse."
+   ],
+   "plain_english": "It indicates, indicates, indicates, indicates."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "śabdāntena",
+     "gloss": "by-sound-ending",
+     "grounds": "instrumental compound describing the mantra's final sound",
+     "morph": "m.inst.sg compound śabda+anta"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrumental naming the means of worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing ritual worship",
+     "morph": "3.sg.act.opt √pūj"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "names the prescribed sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What prescribed order governs worship using a mantra ending in a sound?",
+   "premises": [
+    "Worship is to be performed with a mantra.",
+    "The mantra is characterized by its ending sound.",
+    "The statement concludes by naming this as the order."
+   ],
+   "inference": "The prescribed order is to worship with a mantra ending in that sound.",
+   "uncertainties": [
+    "The specific final sound is not identified in this verse."
+   ],
+   "plain_english": "One should worship with a mantra ending in that sound; such is the order."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "viparyāsayanti",
+     "gloss": "they-invert",
+     "grounds": "verb expressing reversal or inversion",
+     "morph": "3.pl.act.pres.caus √vi-pari-as"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun identifying the agents",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viparyastā",
+     "gloss": "inverted",
+     "grounds": "past passive participle describing their state",
+     "morph": "m.nom.pl.ppp √vi-pari-as"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows for those who invert the prescribed understanding or practice?",
+   "premises": [
+    "Certain agents perform inversion.",
+    "Those same agents are described as inverted.",
+    "The emphatic particle stresses the identity of action and state."
+   ],
+   "inference": "Those who invert are themselves indeed inverted.",
+   "uncertainties": [
+    "The specific object or doctrine being inverted is context-dependent."
+   ],
+   "plain_english": "They invert it, and they themselves are indeed inverted."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "prakṣipan",
+     "gloss": "throwing",
+     "grounds": "present participle expressing the act of casting",
+     "morph": "m.nom.sg.act.pres.part √pra-kṣip"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or completion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "indicates omitted or remaining text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual completion is indicated after the act of throwing is mentioned?",
+   "premises": [
+    "The act of throwing is stated.",
+    "The word for remainder or ellipsis follows.",
+    "The remainder marker is repeated."
+   ],
+   "inference": "After mentioning throwing, the rest is to be supplied as remainder.",
+   "uncertainties": [
+    "The omitted content is not recoverable from this verse alone."
+   ],
+   "plain_english": "Throwing, thus; the rest is to be supplied."
+  }
+ ]
+}

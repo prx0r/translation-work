@@ -1,0 +1,642 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "īśāna+koṇe",
+     "gloss": "northeast-corner",
+     "grounds": "compound placement",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-places",
+     "grounds": "verb sthā",
+     "morph": "3.sg.act.opt-sthā"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mukha+bandhanam",
+     "gloss": "mouth-binding",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "stambhanam",
+     "gloss": "paralysis",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act-pres-bhū"
+    }
+   ],
+   "question": "Which placement and binding produce mouth paralysis according to the ritual instruction?",
+   "premises": [
+    "Placing binding in northeast corner paralyzes mouth.",
+    "The result becomes mouth paralysis."
+   ],
+   "inference": "The verse prescribes a northeast-corner placement for mouth-binding paralysis.",
+   "uncertainties": [
+    "Exact ritual object is not specified."
+   ],
+   "plain_english": "Placing the mouth-binding in the northeast corner produces paralysis of the mouth."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "nidrā+stambhanam",
+     "gloss": "sleep-paralysis",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūla+devena",
+     "gloss": "by-root-deity",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is said to have spoken this sleep-paralysis teaching?",
+   "premises": [
+    "This sleep paralysis was spoken.",
+    "It was spoken by the root deity."
+   ],
+   "inference": "The root deity is the source of the sleep-paralysis teaching.",
+   "uncertainties": [
+    "Identity of root deity is context-dependent."
+   ],
+   "plain_english": "This sleep paralysis was indeed spoken by the root deity."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "naukā+madhye",
+     "gloss": "in-boat-middle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naukā+stambhanam",
+     "gloss": "boat-paralysis",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb jan",
+     "morph": "3.sg.mid-pres-jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly arises when the rite is performed in a boat?",
+   "premises": [
+    "In boat middle then boat paralysis arises.",
+    "The arising is certain."
+   ],
+   "inference": "The verse guarantees boat paralysis in that setting.",
+   "uncertainties": [
+    "Exact ritual action is omitted."
+   ],
+   "plain_english": "Then boat paralysis certainly arises in the middle of the boat."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "śvetā+aparājitā",
+     "gloss": "white-aparājitā",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṃsā",
+     "gloss": "by-man",
+     "grounds": "noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ha",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kākajaṅghikā",
+     "gloss": "kākajaṅghikā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which plants or goddesses are named as alternatives for the rite?",
+   "premises": [
+    "White aparājitā is used by a man.",
+    "She or the goddess kākajaṅghikā is named."
+   ],
+   "inference": "The verse lists alternative substances or divine agents.",
+   "uncertainties": [
+    "Whether these are plants or goddesses is unclear."
+   ],
+   "plain_english": "White aparājitā by a man, or she, or the goddess kākajaṅghikā."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "eka+ekam",
+     "gloss": "one-by-one",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vārayati",
+     "gloss": "wards-off",
+     "grounds": "verb vṛ",
+     "morph": "3.sg.act-pres-vṛ"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastra+saṅghaṭṭane",
+     "gloss": "in-weapon-clash",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "noun",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What does the one-by-one application ward off during weapon clashes?",
+   "premises": [
+    "One by one it wards off.",
+    "This occurs in weapon clash of men."
+   ],
+   "inference": "The rite wards off weapons one by one in combat.",
+   "uncertainties": [
+    "The exact substance is not named here."
+   ],
+   "plain_english": "It wards off weapons one by one in the clash of men's weapons."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "jātī+mūlam",
+     "gloss": "jātī-root",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣiptam",
+     "gloss": "placed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatru+stambhanam",
+     "gloss": "enemy-paralysis",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What excellent result follows from placing jātī root in the mouth?",
+   "premises": [
+    "Jātī root placed in mouth.",
+    "Enemy paralysis is excellent."
+   ],
+   "inference": "Placing jātī root in the mouth excellently paralyzes enemies.",
+   "uncertainties": [
+    "Preparation details are omitted."
+   ],
+   "plain_english": "Placing jātī root in the mouth is an excellent enemy-paralysis rite."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "puṅkhāyāḥ",
+     "gloss": "of-puṅkhā",
+     "grounds": "noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pāṭalāyāḥ",
+     "gloss": "of-pāṭalā",
+     "grounds": "noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukha+stham",
+     "gloss": "in-mouth-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāṇḍa+śastra+hṛt",
+     "gloss": "arrow-weapon-destroying",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which plant roots in the mouth destroy arrows and weapons?",
+   "premises": [
+    "Puṅkhā or pāṭalā is used.",
+    "In mouth situated it destroys arrow weapons."
+   ],
+   "inference": "Either plant root in the mouth destroys arrows and weapons.",
+   "uncertainties": [
+    "Botanical identification is uncertain."
+   ],
+   "plain_english": "Puṅkhā or pāṭalā root situated in the mouth destroys arrows and weapons."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "vakra+saṃstham",
+     "gloss": "curved-mouth-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "verb as",
+     "morph": "3.sg.act.opt-as"
+    },
+    {
+     "surface": "khaḍga+stambha+karam",
+     "gloss": "sword-paralysis-causing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supreme effect arises when the root is curved in the mouth?",
+   "premises": [
+    "That indeed becomes curved in mouth.",
+    "It causes sword paralysis supreme."
+   ],
+   "inference": "The curved-mouth placement supremely causes sword paralysis.",
+   "uncertainties": [
+    "Meaning of vakra is ambiguous."
+   ],
+   "plain_english": "That indeed becomes a supreme sword-paralysis-causing rite when curved in the mouth."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "kharjjūram",
+     "gloss": "date-palm",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khaḍga+stambhaḥ",
+     "gloss": "sword-paralysis",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "verb jan",
+     "morph": "3.sg.mid-pres-jan"
+    }
+   ],
+   "question": "What arises from holding date palm in the hand during battle?",
+   "premises": [
+    "Date palm and in battle in hand.",
+    "Sword paralysis arises."
+   ],
+   "inference": "Holding date palm in battle causes sword paralysis.",
+   "uncertainties": [
+    "Whether fruit or leaf is meant is unclear."
+   ],
+   "plain_english": "Holding date palm in the hand in battle causes sword paralysis."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "tri+aham",
+     "gloss": "for-three-days",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "by-all",
+     "grounds": "pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yāvat+jīvam",
+     "gloss": "as-long-as-life",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-harmed",
+     "grounds": "verb badh",
+     "morph": "3.sg.pass-pres-badh"
+    }
+   ],
+   "question": "For how long and by whom is the practitioner not harmed?",
+   "premises": [
+    "For three days at night then.",
+    "By all as long as life not harmed."
+   ],
+   "inference": "The rite protects from harm for three nights and life.",
+   "uncertainties": [
+    "Scope of 'all' is unspecified."
+   ],
+   "plain_english": "For three nights, then by all, one is not harmed as long as one lives."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aho",
+     "gloss": "aho",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown-syllable",
+     "grounds": "undeciphered token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhakarṇa",
+     "gloss": "kumbhakarṇa",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mahā+rākṣasa",
+     "gloss": "great-demon",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaikasī+garbha+saṃbhūta",
+     "gloss": "kaikasī-womb-born",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "para+sainyam",
+     "gloss": "enemy-army",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "stambhaya",
+     "gloss": "paralyze",
+     "grounds": "imperative",
+     "morph": "2.sg.act.imp-stambh"
+    },
+    {
+     "surface": "mahā+bhagavān",
+     "gloss": "great-lord",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ājñāpayati",
+     "gloss": "commands",
+     "grounds": "verb ājñā",
+     "morph": "3.sg.act-pres-ājñā"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+yogānām",
+     "gloss": "of-all-applications",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭa+uttara+śatam",
+     "gloss": "one-hundred-and-eight",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "verb jap",
+     "morph": "3.sg.act.opt-jap"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What mantra and repetition count are prescribed to paralyze an enemy army?",
+   "premises": [
+    "The mantra addresses Kumbhakarṇa born from Kaikasī.",
+    "Rudra commands paralysis of enemy army.",
+    "Chant one hundred eight times for success."
+   ],
+   "inference": "The verse gives a mantra and repetition count for enemy-army paralysis.",
+   "uncertainties": [
+    "One syllable is undeciphered."
+   ],
+   "plain_english": "The mantra commands paralysis of the enemy army, and chanting it one hundred eight times brings success."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "deha+sthā",
+     "gloss": "on-body-situated",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṃsām",
+     "gloss": "of-men",
+     "grounds": "noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarva+āyudha+nivāriṇī",
+     "gloss": "all-weapons-warding-off",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What body-situated rite wards off all weapons for men in battle?",
+   "premises": [
+    "On body situated in battle of men.",
+    "All weapons warding off."
+   ],
+   "inference": "A body-situated rite wards off all weapons in battle.",
+   "uncertainties": [
+    "Exact bodily placement is unspecified."
+   ],
+   "plain_english": "A body-situated rite wards off all weapons for men in battle."
+  }
+ ]
+}

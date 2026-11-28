@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "tiryak",
+     "gloss": "obliquely",
+     "grounds": "adverbial direction of contact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśi",
+     "gloss": "touching",
+     "grounds": "present participle of contact",
+     "morph": "pres.part.sg.n"
+    },
+    {
+     "surface": "mārutasya",
+     "gloss": "wind's",
+     "grounds": "genitive of māruta",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "circumpositional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛṣṭe",
+     "gloss": "touched",
+     "grounds": "past passive participle in locative",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "marudvartmanaḥ",
+     "gloss": "wind-path's",
+     "grounds": "compound genitive of marut and vartman",
+     "morph": "m.gen.sg (compound)"
+    }
+   ],
+   "question": "How does wind's oblique touching around a touched wind-path describe subtle bodily circulation?",
+   "premises": [
+    "wind touches obliquely around path",
+    "touched wind-path remains central",
+    "circulation is described spatially"
+   ],
+   "inference": "the verse maps wind movement around a touched channel",
+   "uncertainties": [
+    "exact syntactic role of saṃspṛśi remains unclear",
+    "whether spṛṣṭe is locative or nominative is unresolved"
+   ],
+   "plain_english": "Obliquely touching the wind's [path], around the touched wind-path."
+  }
+ ]
+}

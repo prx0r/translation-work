@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb of manner; introduces the concluding statement about the yantras",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "neuter nominative/accusative plural of etad, referring to the yantras just enumerated",
+     "morph": "pron.nom.pl.n"
+    },
+    {
+     "surface": "yantrāṇi",
+     "gloss": "yantras",
+     "grounds": "neuter nominative plural of yantra; the ritual diagrams/devices under discussion",
+     "morph": "noun.nom.pl.n"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "adverbial ablative sense from nāman; indicates classification or designation by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāryakṛt",
+     "gloss": "all-work-doing",
+     "grounds": "compound of sarva, kārya, and kṛt; describes the yantras as accomplishing every work",
+     "morph": "compound adj.nom.sg.m"
+    }
+   ],
+   "question": "What functional designation is given to these yantras when they are named?",
+   "premises": [
+    "evam introduces the concluding statement",
+    "etāni yantrāṇi names the devices under discussion",
+    "nāmataḥ indicates designation by name",
+    "sarvakāryakṛt states their all-accomplishing function"
+   ],
+   "inference": "These yantras are, by name, designated as all-work-doing devices.",
+   "uncertainties": [
+    "The exact syntactic agreement of sarvakāryakṛt with the plural yantrāṇi is not fully resolved by the five-token line alone."
+   ],
+   "plain_english": "Thus these yantras are, by name, all-work-doing."
+  }
+ ]
+}

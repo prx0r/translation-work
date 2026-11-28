@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "p. 277",
+     "gloss": "page-277",
+     "grounds": "editorial page marker in the source text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "identifies the śrāddhadevatā named in the preceding context as the mother",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identity is assigned to the śrāddhadevatā in this passage?",
+   "premises": [
+    "The preceding verse defines śrāddhadevatā as the deity to whom offerings go.",
+    "This verse names mātā as that deity."
+   ],
+   "inference": "The śrāddhadevatā is identified as the mother.",
+   "uncertainties": [
+    "Whether mātā refers to a specific goddess or to the mother principle in general is not specified in this verse alone."
+   ],
+   "plain_english": "The śrāddhadevatā is the mother."
+  }
+ ]
+}

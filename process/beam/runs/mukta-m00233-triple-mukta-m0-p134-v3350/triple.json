@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "vaṃśadārvādiracitāṃ",
+     "gloss": "bamboo-wood-etc-made",
+     "grounds": "adjective modifying śibikāṃ; describes material construction",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "sudṛḍhāṃ",
+     "gloss": "firm",
+     "grounds": "adjective modifying śibikāṃ; describes sturdiness",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "śibikāṃ",
+     "gloss": "bier",
+     "grounds": "direct object of preparation; funeral litter",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "navām",
+     "gloss": "new",
+     "grounds": "adjective modifying śibikāṃ; describes freshness",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What material and condition must the funeral bier have?",
+   "premises": [
+    "bier made of bamboo wood etc",
+    "bier must be firm",
+    "bier must be new"
+   ],
+   "inference": "the funeral bier is a new firm construction of bamboo wood and similar materials",
+   "uncertainties": [
+    "no mantra or ritual timing specified",
+    "context gives only material and condition"
+   ],
+   "plain_english": "A new, firm bier made of bamboo, wood, and similar materials."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "sadāśivāḥ",
+     "gloss": "sadashivas",
+     "grounds": "plural nominative form of sadāśiva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "īśvarāḥ",
+     "gloss": "lords",
+     "grounds": "plural nominative form of īśvara",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tebhyaḥ",
+     "gloss": "to-them",
+     "grounds": "dative plural pronoun",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "sarvebhyaḥ",
+     "gloss": "to-all",
+     "grounds": "dative plural form of sarva",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine beings receive the instruction after Sadashiva meditates on the goddess's words?",
+   "premises": [
+    "Sadashiva meditates after hearing the goddess's words.",
+    "Sadashivas and lords are named as recipients.",
+    "The dative forms indicate direction toward them."
+   ],
+   "inference": "The verse identifies Sadashivas and lords as recipients of the teaching.",
+   "uncertainties": [
+    "The verse fragment lacks the main verb."
+   ],
+   "plain_english": "Sadashivas and lords, to all of them indeed, and..."
+  }
+ ]
+}

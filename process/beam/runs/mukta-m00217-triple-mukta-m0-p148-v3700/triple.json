@@ -1,0 +1,73 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "kṣudhā",
+     "gloss": "hunger",
+     "grounds": "Lexical noun denoting hunger; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tṛṣṇā",
+     "gloss": "thirst",
+     "grounds": "Lexical noun denoting thirst; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "Indeclinable particle connecting items in the list.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidrā",
+     "gloss": "sleep",
+     "grounds": "Lexical noun denoting sleep; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "beauty",
+     "grounds": "Lexical noun denoting beauty or lustre; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "Lexical noun denoting intellect; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "Indeclinable particle connecting items in the list.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dyutiḥ",
+     "gloss": "radiance",
+     "grounds": "Lexical noun denoting radiance or brilliance; listed as an item in the enumeration.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which qualities or powers are included in this enumerated series?",
+   "premises": [
+    "The verse lists kṣudhā as hunger.",
+    "The verse lists tṛṣṇā as thirst.",
+    "The verse lists nidrā as sleep.",
+    "The verse lists kāntiḥ as beauty.",
+    "The verse lists buddhiḥ as intellect.",
+    "The verse lists dyutiḥ as radiance.",
+    "The particle tathā connects these items."
+   ],
+   "inference": "This verse enumerates hunger, thirst, sleep, beauty, intellect, and radiance as members of the series.",
+   "uncertainties": [
+    "Whether these terms name personified powers or abstract qualities is not specified in this verse alone."
+   ],
+   "plain_english": "Hunger, thirst, and also sleep, beauty, intellect, and also radiance."
+  }
+ ]
+}

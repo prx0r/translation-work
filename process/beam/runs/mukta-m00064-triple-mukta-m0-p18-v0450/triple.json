@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "time adverb indicating prior occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the telling",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past passive participle of √kath",
+     "morph": "ppp.n.nom.sg √kath"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yogināṃ",
+     "gloss": "of-yogins",
+     "grounds": "possessive plural referring to practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "jñānasambhavam",
+     "gloss": "knowledge-born",
+     "grounds": "compound: jñāna+saṃbhava, arising from knowledge",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What prior teaching to the goddess concerns the knowledge-born attainment of yogins?",
+   "premises": [
+    "A teaching was formerly communicated to the goddess.",
+    "The teaching pertains to yogins.",
+    "The subject of that teaching is something born of knowledge."
+   ],
+   "inference": "The goddess was previously instructed about the knowledge-born attainment belonging to yogins.",
+   "uncertainties": [
+    "The exact referent of jñānasambhavam (state, means, or result) depends on the broader context."
+   ],
+   "plain_english": "O goddess, I have formerly told you about that which arises from knowledge for the yogins."
+  }
+ ]
+}

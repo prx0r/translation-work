@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental of krama",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "āsanāni",
+     "gloss": "seats",
+     "grounds": "plural of āsana",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bahūni",
+     "gloss": "many",
+     "grounds": "plural adjective agreeing with seats",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the many seats arranged in sequence for the goddess?",
+   "premises": [
+    "seats are many",
+    "arrangement follows order",
+    "goddess is addressed"
+   ],
+   "inference": "The verse states that many seats are also arranged in order for the goddess.",
+   "uncertainties": [
+    "exact ritual sequence unspecified"
+   ],
+   "plain_english": "Thus, O goddess, many seats are also arranged in order."
+  }
+ ]
+}

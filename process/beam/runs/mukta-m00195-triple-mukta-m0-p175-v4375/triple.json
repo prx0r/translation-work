@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4375,
+   "rows": [
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "with-powers",
+     "grounds": "instrumental plural of śakti, denoting the powers or goddesses accompanying the worship",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable indicating subsequent sequence in the ritual",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb expressing a ritual injunction",
+     "morph": "3.sg.opt.act (√pūj)"
+    },
+    {
+     "surface": "āvṛti+trayam",
+     "gloss": "three-enclosures",
+     "grounds": "compound object denoting a triad of surrounding circuits in worship",
+     "morph": "n.acc.sg (compound: āvṛti+traya)"
+    }
+   ],
+   "question": "In what manner and with what enclosures should the powers be worshipped afterward?",
+   "premises": [
+    "The ritual sequence requires an action to be performed afterward.",
+    "The powers are the entities to be worshipped.",
+    "The worship is to be carried out in three enclosures."
+   ],
+   "inference": "Therefore, one should subsequently worship the powers within three enclosures.",
+   "uncertainties": [
+    "Whether śaktibhiḥ denotes attendant goddesses or abstract powers is context-dependent."
+   ],
+   "plain_english": "Afterwards, one should worship with the powers in three enclosures."
+  }
+ ]
+}

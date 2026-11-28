@@ -1,0 +1,593 @@
+{
+ "song": "kul-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "svalpā",
+     "gloss": "small",
+     "grounds": "small feminine plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nadyo",
+     "gloss": "rivers",
+     "grounds": "rivers feminine plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vivarddhante",
+     "gloss": "increase",
+     "grounds": "increase in middle voice",
+     "morph": "3.pl.mid-pres root-vṛdh"
+    },
+    {
+     "surface": "jyotsnayā",
+     "gloss": "by-moonlight",
+     "grounds": "instrumental of moonlight",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samudravat",
+     "gloss": "ocean-like",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do small rivers swell by moonlight while the ocean remains unchanged?",
+   "premises": [
+    "small rivers swell by moonlight",
+    "the ocean is not like small rivers"
+   ],
+   "inference": "kaula exceeds ordinary rites as the ocean exceeds rivers",
+   "uncertainties": [
+    "exact comparative force of samudravat"
+   ],
+   "plain_english": "Small rivers swell by moonlight; what of the ocean?"
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "bhṛṅgāḥ",
+     "gloss": "bees",
+     "grounds": "bees masculine plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puṣpāntaraṃ",
+     "gloss": "other-flower",
+     "grounds": "other flower accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lubdhā",
+     "gloss": "greedy",
+     "grounds": "greedy masculine plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mandārāmodasevinaḥ",
+     "gloss": "mandāra-fragrance-serving",
+     "grounds": "compound serving mandāra fragrance",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do bees greedy for other flowers still serve mandāra fragrance?",
+   "premises": [
+    "bees are greedy for other flowers",
+    "bees serve mandāra fragrance"
+   ],
+   "inference": "desire for lesser objects coexists with service to the supreme",
+   "uncertainties": [
+    "whether lubdhā modifies bees or flowers"
+   ],
+   "plain_english": "Bees greedy for other flowers are servants of mandāra fragrance."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "Śiva nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "locative of head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhatte",
+     "gloss": "holds",
+     "grounds": "holds third singular middle present",
+     "morph": "3.sg.mid-pres root-dhā"
+    },
+    {
+     "surface": "abjaṃ",
+     "gloss": "lotus",
+     "grounds": "lotus accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saiṃhikeyā",
+     "gloss": "rāhu-descendant",
+     "grounds": "descendant of Rāhu nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gilati",
+     "gloss": "swallows",
+     "grounds": "swallows third singular active present",
+     "morph": "3.sg.act-pres root-gil"
+    },
+    {
+     "surface": "aho",
+     "gloss": "alas",
+     "grounds": "exclamation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can Rāhu's descendant swallow the lotus held by Śiva?",
+   "premises": [
+    "Śiva holds a lotus on his head",
+    "Rāhu's descendant swallows it"
+   ],
+   "inference": "even divine symbols face eclipse by lower forces",
+   "uncertainties": [
+    "whether saiṃhikeyā is Rāhu or his son"
+   ],
+   "plain_english": "Śiva holds a lotus on his head; Rāhu's descendant swallows it—alas."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "jalamiśrapayaḥpānaṃ",
+     "gloss": "water-mixed-milk-drinking",
+     "grounds": "compound drinking milk mixed with water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bakaḥ",
+     "gloss": "crane",
+     "grounds": "crane nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "knows third singular active present",
+     "morph": "3.sg.act-pres root-vid"
+    },
+    {
+     "surface": "haṃsavat",
+     "gloss": "like-swan",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does a crane drinking water-mixed milk know like a swan?",
+   "premises": [
+    "a crane drinks milk mixed with water",
+    "a swan discerns milk from water"
+   ],
+   "inference": "mere contact with purity does not confer discernment",
+   "uncertainties": [
+    "whether bakaḥ is subject or object"
+   ],
+   "plain_english": "A crane drinks milk mixed with water; what does it know like a swan?"
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvādhikaṃ",
+     "gloss": "all-supreme",
+     "grounds": "supreme over all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "kaula nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasādhāraṇaṃ",
+     "gloss": "all-common",
+     "grounds": "common to all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can kaula be all-supreme yet all-common?",
+   "premises": [
+    "kaula is supreme over all",
+    "kaula is common to all"
+   ],
+   "inference": "supremacy and universality are not contradictory in kaula",
+   "uncertainties": [
+    "whether sarvasādhāraṇaṃ is praise or objection"
+   ],
+   "plain_english": "Therefore kaula is supreme over all; how can it be common to all?"
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "locative plural of those",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "bhedaṃ",
+     "gloss": "difference",
+     "grounds": "difference accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "makes",
+     "grounds": "makes third singular optative active",
+     "morph": "3.sg.opt.act root-kṛ"
+    },
+    {
+     "surface": "mamāṅgaṃ",
+     "gloss": "my-limb",
+     "grounds": "my limb accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cchedayet",
+     "gloss": "cuts",
+     "grounds": "cuts third singular optative causative",
+     "morph": "3.sg.opt.caus root-chid"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "he nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whoever makes a difference among them cuts whose limb?",
+   "premises": [
+    "making a difference among them is forbidden",
+    "such a person cuts my limb"
+   ],
+   "inference": "division among kaula practitioners harms the teacher's body",
+   "uncertainties": [
+    "whether mamāṅgaṃ refers to Śiva or guru"
+   ],
+   "plain_english": "Whoever makes a difference among them cuts my limb."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedātmakaṃ",
+     "gloss": "veda-natured",
+     "grounds": "having veda nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "scripture nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "know second singular imperative active",
+     "morph": "2.sg.imp.act root-vid"
+    },
+    {
+     "surface": "kaulātmakaṃ",
+     "gloss": "kaula-natured",
+     "grounds": "having kaula nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why should the beloved know scripture as both veda-natured and kaula-natured?",
+   "premises": [
+    "scripture is veda-natured",
+    "scripture is kaula-natured"
+   ],
+   "inference": "vedic and kaula natures are not opposed",
+   "uncertainties": [
+    "whether viddhi addresses Pārvatī or disciple"
+   ],
+   "plain_english": "Therefore know, beloved, that scripture is veda-natured and kaula-natured."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "bhuktimuktipradaṃ",
+     "gloss": "bliss-liberation-giving",
+     "grounds": "giving bliss and liberation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛṇāṃ",
+     "gloss": "to-men",
+     "grounds": "dative plural of men",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kule",
+     "gloss": "in-kula",
+     "grounds": "locative singular of kula",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "asmin",
+     "grounds": "demonstrative locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daivataṃ",
+     "gloss": "deity",
+     "grounds": "deity nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What deity in this kula gives bliss and liberation to men?",
+   "premises": [
+    "this kula contains a deity",
+    "that deity gives bliss and liberation to men"
+   ],
+   "inference": "kaula practice yields both enjoyment and liberation",
+   "uncertainties": [
+    "whether daivataṃ is subject or predicate"
+   ],
+   "plain_english": "In this kula, beloved, the deity gives bliss and liberation to men."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "kula nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇatāṃ",
+     "gloss": "authority",
+     "grounds": "state of being authority accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "attains",
+     "grounds": "attains third singular active present",
+     "morph": "3.sg.act-pres root-yā"
+    },
+    {
+     "surface": "pratyakṣaphaladaṃ",
+     "gloss": "direct-fruit-giving",
+     "grounds": "giving direct fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does kula attain authority?",
+   "premises": [
+    "kula attains authority",
+    "kula gives direct fruit"
+   ],
+   "inference": "direct perceptible results establish kula's authority",
+   "uncertainties": [
+    "whether pratyakṣaphaladaṃ modifies kula or authority"
+   ],
+   "plain_english": "Kula attains authority because it gives direct fruit."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "upalabdhibalāt",
+     "gloss": "by-perception-power",
+     "grounds": "ablative of perception power",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive singular of it",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "hatāḥ",
+     "gloss": "slain",
+     "grounds": "slain masculine plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all masculine plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kutākīkāḥ",
+     "gloss": "doubters",
+     "grounds": "doubters masculine plural nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are slain by the power of perception of it?",
+   "premises": [
+    "perception power slays doubters",
+    "all doubters are slain"
+   ],
+   "inference": "direct experience refutes every skeptic of kaula",
+   "uncertainties": [
+    "whether tasya refers to kula or fruit"
+   ],
+   "plain_english": "By the power of perception, all doubters of it are slain."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyakṣaphaladaṃ",
+     "gloss": "direct-fruit-giving",
+     "grounds": "giving direct fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamadarśanam",
+     "gloss": "best-vision",
+     "grounds": "best vision nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is direct fruit-giving itself the best vision?",
+   "premises": [
+    "direct fruit-giving is a candidate",
+    "it is the best vision"
+   ],
+   "inference": "perceptible result is the highest seeing",
+   "uncertainties": [
+    "whether yadvā opens an alternative or conclusion"
+   ],
+   "plain_english": "Or that direct fruit-giving itself is the best vision."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "thinking",
+     "grounds": "absolutive of think",
+     "morph": "abs root-man"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative singular of great goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental singular of I",
+     "morph": "1.sg.ins"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "kaula accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vigahītam",
+     "gloss": "investigated",
+     "grounds": "investigated past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does the speaker say kaula has been investigated?",
+   "premises": [
+    "the speaker thought thus",
+    "the speaker investigated kaula"
+   ],
+   "inference": "the preceding reasoning justifies the investigation of kaula",
+   "uncertainties": [
+    "whether vigahītam is passive participle or adjective"
+   ],
+   "plain_english": "Thus thinking, great goddess, I have investigated kaula."
+  }
+ ]
+}

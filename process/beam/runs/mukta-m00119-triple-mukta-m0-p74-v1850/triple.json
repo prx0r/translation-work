@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "kṛṣṇapakṣe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "locative of kṛṣṇapakṣa; dark fortnight",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental of viśeṣa",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-perform",
+     "grounds": "causative optative of root kṛ",
+     "morph": "3.sg.act.opt.+caus"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "locative of gṛha",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Should the rite be performed especially in the dark fortnight and always in the house?",
+   "premises": [
+    "dark fortnight is especially emphasized",
+    "performance is to be done always",
+    "house is specified as place"
+   ],
+   "inference": "the prescribed practice is to be carried out in the house, especially during the dark fortnight",
+   "uncertainties": [
+    "exact ritual object is not stated in this verse"
+   ],
+   "plain_english": "One should perform it especially in the dark fortnight, always in the house."
+  }
+ ]
+}

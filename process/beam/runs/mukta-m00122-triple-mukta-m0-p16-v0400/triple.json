@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "sarveśvaryāḥ",
+     "gloss": "of-sarveśvarī",
+     "grounds": "genitive feminine singular of sarveśvarī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "samākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle of samākhyā",
+     "morph": "m.nom.sg.passive-participle"
+    },
+    {
+     "surface": "sarva+siddhi+karaḥ",
+     "gloss": "all-accomplishment-causing",
+     "grounds": "compound of sarva, siddhi, and kara",
+     "morph": "m.nom.sg.compound"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is declared to be always the cause of all accomplishments of Sarveśvarī?",
+   "premises": [
+    "Sarveśvarī is the all-lady.",
+    "The form is declared.",
+    "It causes all accomplishments.",
+    "It is always so."
+   ],
+   "inference": "The verse identifies the declared form as always causing all accomplishments of Sarveśvarī.",
+   "uncertainties": [
+    "The exact syntactic relation of samākhyātaḥ to the preceding context is not fully recoverable from this isolated verse."
+   ],
+   "plain_english": "Declared as always causing all accomplishments, of Sarveśvarī."
+  }
+ ]
+}

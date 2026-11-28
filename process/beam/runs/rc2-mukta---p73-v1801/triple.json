@@ -1,0 +1,671 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1801,
+   "rows": [
+    {
+     "surface": "dharm",
+     "gloss": "duty",
+     "grounds": "first member of compound listing aims; sandhi form as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārtha",
+     "gloss": "wealth",
+     "grounds": "second member of compound listing aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "third member of compound listing aims",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mokṣeṣu",
+     "gloss": "liberations",
+     "grounds": "fourth aim in the series, locus of application",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "subject of the declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "declared",
+     "grounds": "predicate stating what is taught",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which four human aims is the mantra's application declared?",
+   "premises": [
+    "Duty, wealth, desire, and liberation are named together.",
+    "An application is explicitly declared for these aims."
+   ],
+   "inference": "The mantra is prescribed for use in pursuit of all four human aims.",
+   "uncertainties": [
+    "The specific mantra referred to depends on the preceding context."
+   ],
+   "plain_english": "Its application in duty, wealth, desire, and liberation is thus declared."
+  },
+  {
+   "verse": 1802,
+   "rows": [
+    {
+     "surface": "vākyantu",
+     "gloss": "but-formula",
+     "grounds": "introduces the verbal formula; sandhi fusion vākyam+tu",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja/mantra syllable, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrāṃ",
+     "gloss": "hrāṃ",
+     "grounds": "bīja/mantra syllable, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayāya",
+     "gloss": "to-heart",
+     "grounds": "mantra limb formula addressed to the heart",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "mantra closing salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks end of quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of similar formulas",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What verbal formula begins the mantra sequence described here?",
+   "premises": [
+    "A formula is introduced explicitly.",
+    "The formula includes oṃ, hrāṃ, hṛdayāya, and namaḥ."
+   ],
+   "inference": "The mantra sequence begins with the formula oṃ hrāṃ hṛdayāya namaḥ and continues similarly.",
+   "uncertainties": [
+    "The full set of subsequent formulas implied by ādi is not specified."
+   ],
+   "plain_english": "The formula is: oṃ hrāṃ hṛdayāya namaḥ, and so forth."
+  },
+  {
+   "verse": 1803,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the preceding manner of meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act before worship",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mahādevīm",
+     "gloss": "great-goddess",
+     "grounds": "object of meditation and worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "with-offerings",
+     "grounds": "means by which worship is performed",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the great goddess be worshipped after meditation?",
+   "premises": [
+    "Meditation on the great goddess is performed first.",
+    "Worship is to be carried out with offerings."
+   ],
+   "inference": "After meditating on the great goddess, one should worship her with ritual offerings.",
+   "uncertainties": [],
+   "plain_english": "Thus, having meditated on the great goddess, one should worship her with offerings."
+  },
+  {
+   "verse": 1804,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "introduces measure or capacity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "capacity",
+     "grounds": "degree of ability for recitation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "mantra recitation performed after worship",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates continuity with prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects recitation with further action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction to continue the rite",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions should follow worship in the prescribed ritual sequence?",
+   "premises": [
+    "Recitation is to be done according to one's capacity.",
+    "The procedure should continue as before."
+   ],
+   "inference": "After worship, one should recite according to capacity and continue the rite as before.",
+   "uncertainties": [],
+   "plain_english": "Then, having recited according to one's capacity, one should perform the rite as before."
+  },
+  {
+   "verse": 1805,
+   "rows": [
+    {
+     "surface": "dviṭhāntaḥ",
+     "gloss": "ending-in-dviṭha",
+     "grounds": "describes the mantra's final element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśārṇo",
+     "gloss": "sixteen-syllabled",
+     "grounds": "specifies the mantra's syllable count; sandhi ṣoḍaśa+arṇaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the mantra; sandhi form ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject being characterized",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadbhir",
+     "gloss": "by-the-wise",
+     "grounds": "authoritative transmitters of the teaching",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "udāhṛta",
+     "gloss": "declared",
+     "grounds": "predicate reporting traditional statement; form as given",
+     "morph": "m.nom.sg.past-participle"
+    }
+   ],
+   "question": "What defining features characterize the mantra declared by the wise?",
+   "premises": [
+    "The mantra ends in dviṭha.",
+    "The mantra consists of sixteen syllables."
+   ],
+   "inference": "The wise declare this to be a sixteen-syllabled mantra ending in dviṭha.",
+   "uncertainties": [
+    "The exact phonetic form indicated by dviṭhāntaḥ is not fully explicit here."
+   ],
+   "plain_english": "This mantra, ending in dviṭha and consisting of sixteen syllables, is declared by the wise."
+  },
+  {
+   "verse": 1806,
+   "rows": [
+    {
+     "surface": "hrāṃ",
+     "gloss": "hrāṃ",
+     "grounds": "bīja/mantra syllable, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayāya",
+     "gloss": "to-heart",
+     "grounds": "mantra limb formula addressed to the heart",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "mantra closing salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks end of quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of similar formulas",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra formula is cited again as the beginning of a sequence?",
+   "premises": [
+    "The syllables hrāṃ, hṛdayāya, and namaḥ are given.",
+    "The marker ādi indicates further continuation."
+   ],
+   "inference": "The sequence beginning with hrāṃ hṛdayāya namaḥ is cited again as a continuing formula set.",
+   "uncertainties": [
+    "The subsequent formulas implied by ādi are not listed."
+   ],
+   "plain_english": "Hrāṃ hṛdayāya namaḥ, and so forth."
+  },
+  {
+   "verse": 1807,
+   "rows": [
+    {
+     "surface": "pīṭha",
+     "gloss": "seat",
+     "grounds": "first member of compound referring to the ritual base and its mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manvantaṃ",
+     "gloss": "with-mantra",
+     "grounds": "second member indicating inclusion up to the mantra; form as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior act of worshipping the seat and mantra",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition or next stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "contemplative act before invocation",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "ritual act of calling the goddess",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of invocation and worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What sequence of ritual acts leads to worship of the goddess?",
+   "premises": [
+    "The seat and its mantra are worshipped first.",
+    "Meditation and invocation of the goddess follow."
+   ],
+   "inference": "One should worship the seat and mantra, then meditate, invoke, and worship the goddess.",
+   "uncertainties": [
+    "The exact scope of pīṭha manvantaṃ is context-dependent."
+   ],
+   "plain_english": "Having worshipped the seat and its mantra, one should again meditate, invoke the goddess, and worship her."
+  },
+  {
+   "verse": 1808,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next stage of the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "first member indicating offerings beginning with incense",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional offerings or acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjana",
+     "gloss": "dismissal",
+     "grounds": "first member indicating the concluding act",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "ending-with",
+     "grounds": "marks the terminal point of the ritual sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "the ritual procedure to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive injunction to finish the rite",
+     "morph": "3.sg.causative-optative-active"
+    }
+   ],
+   "question": "How far should the ritual procedure be carried to completion?",
+   "premises": [
+    "The rite proceeds from incense and related offerings.",
+    "The sequence concludes with dismissal."
+   ],
+   "inference": "One should complete the rite from incense onward through dismissal.",
+   "uncertainties": [
+    "The intermediate steps implied by ādi are not enumerated."
+   ],
+   "plain_english": "Then one should complete the rite, from incense and so forth up to dismissal."
+  },
+  {
+   "verse": 1809,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "specifies the proportion to be offered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire-offering injunction",
+     "morph": "3.sg.causative-optative-active"
+    },
+    {
+     "surface": "ājyaiḥ",
+     "gloss": "with-clarified-butter",
+     "grounds": "oblation substance used in the offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "puraścaraṇa",
+     "gloss": "preliminary-rite",
+     "grounds": "first member of compound naming the rite's purpose",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of performing the fire offering",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What fire offering is prescribed for accomplishing the preliminary rite?",
+   "premises": [
+    "A tenth part is to be offered.",
+    "The offering is made with clarified butter for accomplishment of the preliminary rite."
+   ],
+   "inference": "One should offer a tenth part with clarified butter to accomplish the preliminary rite.",
+   "uncertainties": [
+    "The base quantity of which a tenth is offered is not stated in this verse."
+   ],
+   "plain_english": "One should offer a tenth part with clarified butter for the accomplishment of the preliminary rite."
+  },
+  {
+   "verse": 1810,
+   "rows": [
+    {
+     "surface": "yasmai",
+     "gloss": "to-whom",
+     "grounds": "indefinite relative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kasmai",
+     "gloss": "to-anyone",
+     "grounds": "reinforces indefiniteness of the recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "describes the act of giving",
+     "morph": "3.sg.present-passive"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that-person",
+     "grounds": "refers back to the recipient",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaśyo",
+     "gloss": "subdued",
+     "grounds": "resulting state of the recipient; sandhi vaśyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "predicate stating the outcome",
+     "morph": "3.sg.present-active"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is assured when the rite is directed toward any recipient?",
+   "premises": [
+    "The rite may be given or directed to any person.",
+    "The outcome is stated as certain."
+   ],
+   "inference": "Whoever receives it certainly becomes subdued.",
+   "uncertainties": [
+    "What is given (dīyate) is implied by context rather than named explicitly."
+   ],
+   "plain_english": "To whomever it is given, that person certainly becomes subdued."
+  },
+  {
+   "verse": 1811,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the described practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "first member of compound naming the practice and its extensions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "beginning-with",
+     "grounds": "indicates worship and related acts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saubhāgya",
+     "gloss": "good-fortune",
+     "grounds": "first benefit produced",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśya",
+     "gloss": "subjugation",
+     "grounds": "second benefit produced",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies prosperity as complete",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sampat",
+     "gloss": "prosperity",
+     "grounds": "third benefit produced",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karam",
+     "gloss": "causing",
+     "grounds": "predicate describing the effects of the practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefits are produced by this worship and related practices?",
+   "premises": [
+    "The practice includes worship and related acts.",
+    "It is described as causing good fortune, subjugation, and all prosperity."
+   ],
+   "inference": "This worship and related practice brings good fortune, subjugation, and complete prosperity.",
+   "uncertainties": [],
+   "plain_english": "This worship and related practice brings good fortune, subjugation, and all prosperity."
+  },
+  {
+   "verse": 1812,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies the people to be subdued",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "first category in the compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puruṣa",
+     "gloss": "man",
+     "grounds": "second category in the compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśaṅkari",
+     "gloss": "subduing",
+     "grounds": "describes the power over all women and men; form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suyuddha",
+     "gloss": "suyuddha",
+     "grounds": "mantra element, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durghorāṃ",
+     "gloss": "durghorāṃ",
+     "grounds": "mantra element, transliterated as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja/mantra syllable, transliterated as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra oblation syllable, transliterated as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What subduing power and mantra elements are presented in this formula?",
+   "premises": [
+    "A power that subdues all women and men is named.",
+    "The mantra elements suyuddha, durghorāṃ, hrīṃ, and svāhā are given."
+   ],
+   "inference": "The formula expresses subjugation of all women and men and includes the mantra elements suyuddha durghorāṃ hrīṃ svāhā.",
+   "uncertainties": [
+    "The syntactic role of durghorāṃ within the mantra string is not fully explicit."
+   ],
+   "plain_english": "Subduing all women and men: suyuddha durghorāṃ hrīṃ svāhā."
+  }
+ ]
+}

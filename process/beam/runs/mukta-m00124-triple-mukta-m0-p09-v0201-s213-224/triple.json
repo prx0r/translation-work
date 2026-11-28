@@ -1,0 +1,481 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "vyoma+tattva+padānāṃ",
+     "gloss": "of-space-element-words",
+     "grounds": "compound genitive plural; refers to syllables/words of the space element",
+     "morph": "compound: vyoma+tattva+pada, m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyakā+aṅga+gaṇo",
+     "gloss": "maiden-limb-group",
+     "grounds": "compound nominative singular; group associated with maiden limbs",
+     "morph": "compound: kanyakā+aṅga+gaṇa, m.nom.sg"
+    },
+    {
+     "surface": "davaḥ",
+     "gloss": "dava",
+     "grounds": "syllable or name as given; exact referent unclear",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What group is designated for the syllables of the space element?",
+   "premises": [
+    "The verse refers to the words or syllables of the space element.",
+    "A group called kanyakā-aṅga-gaṇa is named.",
+    "The term davaḥ is specified in this context."
+   ],
+   "inference": "The group associated with the maiden limbs, identified as davaḥ, belongs to the syllables of the space element.",
+   "uncertainties": [
+    "The precise meaning of kanyakā+aṅga+gaṇo in this ritual context is unclear.",
+    "davaḥ may be a syllable-name or technical term whose referent is uncertain."
+   ],
+   "plain_english": "Indeed, for the syllables of the space element, the group of the maiden-limbs is davaḥ."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "dīpako",
+     "gloss": "dīpaka",
+     "grounds": "syllable or name as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyo",
+     "gloss": "vyo",
+     "grounds": "syllable or abbreviated form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā+āpyā+ca",
+     "gloss": "yadā-āpyā-and",
+     "grounds": "compound or sequence with conjunction; mantra elements",
+     "morph": "compound/sequence + (indecl.) ca"
+    },
+    {
+     "surface": "dīkṣarvā+ca",
+     "gloss": "dīkṣarvā-and",
+     "grounds": "form as given with conjunction; possible syllable sequence",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "tathā+ca+nā",
+     "gloss": "thus-and-nā",
+     "grounds": "sequence including particle and syllable nā",
+     "morph": "(indecl.) tathā + (indecl.) ca + syllable nā"
+    }
+   ],
+   "question": "Which syllables or elements are enumerated in this sequence of the placement?",
+   "premises": [
+    "The terms dīpako and vyo are listed.",
+    "The sequence includes yadā+āpyā+ca and dīkṣarvā+ca.",
+    "The sequence concludes with tathā+ca+nā."
+   ],
+   "inference": "This verse enumerates a specific sequence of syllables or mantra elements including dīpaka, vyo, and others.",
+   "uncertainties": [
+    "Several tokens appear to be mantra syllables or technical names with unclear referents.",
+    "The exact parsing of yadā+āpyā+ca and dīkṣarvā+ca is uncertain."
+   ],
+   "plain_english": "Dīpaka, vyo, yadā-āpyā, dīkṣarvā, and likewise nā are given in sequence."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "sad+dvayañ+ca",
+     "gloss": "sat-pair-and",
+     "grounds": "compound with conjunction; pair of sat elements",
+     "morph": "compound: sat+dvaya, n.nom.sg + (indecl.) ca"
+    },
+    {
+     "surface": "āyatañ+ca+eva",
+     "gloss": "āyata-and-indeed",
+     "grounds": "form with conjunction and emphatic particle",
+     "morph": "form + (indecl.) ca + (indecl.) eva"
+    },
+    {
+     "surface": "svarādyo+vyā+naye+iṣṭade",
+     "gloss": "beginning-with-svara-vyā-in-desired",
+     "grounds": "complex compound or sequence; refers to placement in desired context beginning with svara",
+     "morph": "compound/sequence, locative sense in final member"
+    }
+   ],
+   "question": "Which additional elements are included in the desired placement beginning with svara?",
+   "premises": [
+    "A pair of sat elements is included.",
+    "The element āyata is also included with emphasis.",
+    "These are placed in the desired context beginning with svara and vyā."
+   ],
+   "inference": "The sat-pair and āyata are to be included in the desired placement beginning with svara.",
+   "uncertainties": [
+    "The internal structure of svarādyo+vyā+naye+iṣṭade is unclear.",
+    "āyatañ may be a syllable-name or descriptive term."
+   ],
+   "plain_english": "The pair of sat, and indeed āyata, are included in the desired placement beginning with svara and vyā."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "dyā+kāla+ta+dhana+āsyāṃś+ca",
+     "gloss": "dyā-kāla-ta-dhana-āsyān-and",
+     "grounds": "compound accusative plural with conjunction; sequence of elements to be written",
+     "morph": "compound, m.acc.pl + (indecl.) ca"
+    },
+    {
+     "surface": "saṃllikhet",
+     "gloss": "should-write",
+     "grounds": "optative verb indicating instruction to inscribe",
+     "morph": "3.sg.optative, root likh with sam"
+    },
+    {
+     "surface": "ādya+paṃktike",
+     "gloss": "in-first-row",
+     "grounds": "compound locative singular; first line or row",
+     "morph": "compound: ādya+paṅkti, f.loc.sg"
+    }
+   ],
+   "question": "Where should the elements dyā, kāla, ta, dhana, and āsyān be inscribed?",
+   "premises": [
+    "The elements dyā, kāla, ta, dhana, and āsyān are specified.",
+    "The action prescribed is writing or inscribing.",
+    "The location specified is the first row."
+   ],
+   "inference": "One should inscribe dyā, kāla, ta, dhana, and āsyān in the first row.",
+   "uncertainties": [
+    "The exact identity of each member in dyā+kāla+ta+dhana+āsyāṃś is uncertain; they may be syllables or technical terms."
+   ],
+   "plain_english": "One should write dyā, kāla, ta, dhana, and āsyān in the first row."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "tvamānālaṃ+ca",
+     "gloss": "tvamānāla-and",
+     "grounds": "form with conjunction; element to be placed",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "bhāśiś+ca",
+     "gloss": "bhāśi-and",
+     "grounds": "form with conjunction; element to be placed",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "bhuvaṃ",
+     "gloss": "bhuva",
+     "grounds": "accusative singular; syllable or world-name bhuvaḥ/bhuva",
+     "morph": "m.acc.sg or syllable form"
+    },
+    {
+     "surface": "dadhacito+tathā",
+     "gloss": "dadhacita-thus",
+     "grounds": "form with particle tathā; sequence element",
+     "morph": "form + (indecl.) tathā"
+    }
+   ],
+   "question": "Which elements are added next in the prescribed inscription sequence?",
+   "premises": [
+    "The elements tvamānāla and bhāśi are included.",
+    "The element bhuvaṃ is included.",
+    "The element dadhacita is included likewise."
+   ],
+   "inference": "The sequence continues with tvamānāla, bhāśi, bhuvaṃ, and dadhacita.",
+   "uncertainties": [
+    "The tokens appear to be mantra syllables or technical names with uncertain parsing.",
+    "bhuvaṃ may refer to the vyāhṛti bhuvaḥ or a syllable form."
+   ],
+   "plain_english": "And tvamānāla, bhāśi, bhuvaṃ, and likewise dadhacita are included."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "praś+ca",
+     "gloss": "pra-and",
+     "grounds": "syllable or element with conjunction",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "saś+ca",
+     "gloss": "sa-and",
+     "grounds": "syllable or element with conjunction",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "dvitīya+ante",
+     "gloss": "in-second-end",
+     "grounds": "compound locative; at the end of the second",
+     "morph": "compound: dvitīya+anta, m.loc.sg"
+    },
+    {
+     "surface": "netavā",
+     "gloss": "to-be-led",
+     "grounds": "gerundive or form indicating placement/leading; exact sense unclear",
+     "morph": "gerundive-like form"
+    },
+    {
+     "surface": "viśva+dīpakaḥ",
+     "gloss": "universal-dīpaka",
+     "grounds": "compound nominative singular; name or epithet",
+     "morph": "compound: viśva+dīpaka, m.nom.sg"
+    }
+   ],
+   "question": "What is to be placed at the end of the second row with viśva-dīpaka?",
+   "premises": [
+    "The elements pra and sa are specified.",
+    "The location is the end of the second row.",
+    "The term viśva-dīpaka is associated with this placement."
+   ],
+   "inference": "Pra and sa, along with viśva-dīpaka, are to be placed at the end of the second row.",
+   "uncertainties": [
+    "The form netavā is morphologically unclear in this context.",
+    "viśva+dīpakaḥ may be a technical name or syllable designation."
+   ],
+   "plain_english": "Pra and sa are to be placed at the end of the second row, with viśva-dīpaka."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "dagusāś+ca",
+     "gloss": "dagusā-and",
+     "grounds": "form with conjunction; element in sequence",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṇeru",
+     "gloss": "ṇeru",
+     "grounds": "syllable or name as given",
+     "morph": "indeclinable or syllable form"
+    },
+    {
+     "surface": "vivilāma",
+     "gloss": "vivilāma",
+     "grounds": "form as given; possible syllable sequence or name",
+     "morph": "form unclear"
+    },
+    {
+     "surface": "tathā+eva+ca",
+     "gloss": "likewise-indeed-and",
+     "grounds": "emphatic continuation particles",
+     "morph": "(indecl.) tathā + (indecl.) eva + (indecl.) ca"
+    }
+   ],
+   "question": "Which further elements are enumerated in this continuing sequence?",
+   "premises": [
+    "The element dagusā is included.",
+    "The elements ṇeru and vivilāma are included.",
+    "The sequence is continued with emphatic particles."
+   ],
+   "inference": "The sequence further includes dagusā, ṇeru, and vivilāma.",
+   "uncertainties": [
+    "dagusāś, ṇeru, and vivilāma appear to be mantra syllables or technical names with unclear referents."
+   ],
+   "plain_english": "Dagusā, likewise ṇeru, and vivilāma are also included."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "trepapūstraḥ+tuś+ca+eva",
+     "gloss": "trepapūstra-tu-and-indeed",
+     "grounds": "complex form with particles; element in sequence",
+     "morph": "form + particles (indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb indicating permanence or regularity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātre",
+     "gloss": "in-nātra",
+     "grounds": "locative form; location or context named nātra",
+     "morph": "m.loc.sg or locative form"
+    },
+    {
+     "surface": "tṛtīyake",
+     "gloss": "in-third",
+     "grounds": "locative singular; in the third row or position",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the element trepapūstraḥ to be placed permanently?",
+   "premises": [
+    "The element trepapūstraḥ is specified with emphasis.",
+    "The placement is described as always or constant.",
+    "The location is the third position or row, in nātra."
+   ],
+   "inference": "Trepapūstraḥ is always to be placed in nātra in the third position.",
+   "uncertainties": [
+    "The parsing of trepapūstraḥ+tuś+ca+eva is uncertain.",
+    "nātre may be a technical location name or a form requiring emendation."
+   ],
+   "plain_english": "Trepapūstraḥ indeed is always placed in nātra, in the third."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "repha+pūrva+upeta+ayau",
+     "gloss": "preceded-by-repha-joined-ayau",
+     "grounds": "compound describing syllables ayau joined with preceding repha",
+     "morph": "compound, dual or form as given"
+    },
+    {
+     "surface": "yavayāpyamas+tathā+eva+ca",
+     "gloss": "yavayāpyama-likewise-indeed-and",
+     "grounds": "form with emphatic continuation particles",
+     "morph": "form + (indecl.) tathā + (indecl.) eva + (indecl.) ca"
+    }
+   ],
+   "question": "Which syllabic forms joined with repha are included in this placement?",
+   "premises": [
+    "The syllables ayau are joined with a preceding repha.",
+    "The element yavayāpyama is included likewise with emphasis."
+   ],
+   "inference": "The repha-preceded ayau and yavayāpyama are to be included in the placement.",
+   "uncertainties": [
+    "The exact syllabic realization of repha+pūrva+upeta+ayau is unclear.",
+    "yavayāpyamas is an obscure form, possibly a mantra element."
+   ],
+   "plain_english": "The ayau joined with a preceding repha, and likewise yavayāpyama, are included."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "nantaś+ca",
+     "gloss": "ending-in-n-and",
+     "grounds": "descriptive form with conjunction; element ending in n",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "adbhi+vyāpī+ca",
+     "gloss": "water-pervading-and",
+     "grounds": "compound with conjunction; pervading the waters",
+     "morph": "compound: ap+vyāpin, m.nom.sg + (indecl.) ca"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-write",
+     "grounds": "optative verb indicating instruction to inscribe",
+     "morph": "3.sg.optative, root likh with vi"
+    },
+    {
+     "surface": "veda+paṅktike",
+     "gloss": "in-fourth-row",
+     "grounds": "compound locative singular; row associated with veda/four",
+     "morph": "compound: veda+paṅkti, f.loc.sg"
+    }
+   ],
+   "question": "What should be inscribed in the fourth row according to this instruction?",
+   "premises": [
+    "An element ending in n is specified.",
+    "An element pervading the waters is specified.",
+    "The prescribed action is writing in the fourth row."
+   ],
+   "inference": "One should inscribe the n-ending element and the water-pervading element in the fourth row.",
+   "uncertainties": [
+    "The exact referents of nantaś and adbhi+vyāpī are unclear in this mantra context."
+   ],
+   "plain_english": "One should write the element ending in n and the water-pervading element in the fourth row."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "ṣṭāli+traya+ga+kāraś+ca",
+     "gloss": "ṣṭāli-triad-ga-letter-and",
+     "grounds": "compound with conjunction; letter ka in a triad related to ṣṭāli",
+     "morph": "compound, m.nom.sg + (indecl.) ca"
+    },
+    {
+     "surface": "ādadaś+ca",
+     "gloss": "ādada-and",
+     "grounds": "form with conjunction; element in sequence",
+     "morph": "form + (indecl.) ca"
+    },
+    {
+     "surface": "eyayau+tathā",
+     "gloss": "eyayau-likewise",
+     "grounds": "form with particle tathā; sequence element",
+     "morph": "form + (indecl.) tathā"
+    }
+   ],
+   "question": "Which letter and accompanying elements are specified in this part of the sequence?",
+   "premises": [
+    "The letter ka in the ṣṭāli-triad is specified.",
+    "The element ādada is included.",
+    "The element eyayau is included likewise."
+   ],
+   "inference": "The sequence includes the ṣṭāli-triad ga-letter, ādada, and eyayau.",
+   "uncertainties": [
+    "The meaning of ṣṭāli+traya is unclear.",
+    "ādadaś and eyayau appear to be mantra syllables or technical forms."
+   ],
+   "plain_english": "The ga-letter of the ṣṭāli-triad, ādada, and likewise eyayau are included."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "puna+drahe",
+     "gloss": "puna-drahe",
+     "grounds": "compound or sequence as given; possible locative or name",
+     "morph": "form unclear"
+    },
+    {
+     "surface": "tapaś+ca+eva",
+     "gloss": "tapas-and-indeed",
+     "grounds": "noun with conjunction and emphatic particle; tapas or syllable",
+     "morph": "n.nom.sg + (indecl.) ca + (indecl.) eva"
+    },
+    {
+     "surface": "vyo+kāraś+ca",
+     "gloss": "vyo-letter-and",
+     "grounds": "compound with conjunction; the letter/syllable vyo",
+     "morph": "compound: vyo+kāra, m.nom.sg + (indecl.) ca"
+    },
+    {
+     "surface": "anevajāḥ",
+     "gloss": "anevajāḥ",
+     "grounds": "form as given; possible plural or name",
+     "morph": "m.nom.pl or form unclear"
+    }
+   ],
+   "question": "Which final elements are included in this concluding part of the inscription?",
+   "premises": [
+    "The element puna+drahe is specified.",
+    "Tapas and the vyo-letter are included with emphasis.",
+    "The element anevajāḥ is included."
+   ],
+   "inference": "The concluding sequence includes puna+drahe, tapas, the vyo-letter, and anevajāḥ.",
+   "uncertainties": [
+    "puna+drahe and anevajāḥ are obscure forms, likely mantra syllables or technical names.",
+    "tapaś may refer to the concept tapas or function as a syllable element."
+   ],
+   "plain_english": "Puna-drahe, indeed tapas, the vyo-letter, and anevajāḥ are included."
+  }
+ ]
+}

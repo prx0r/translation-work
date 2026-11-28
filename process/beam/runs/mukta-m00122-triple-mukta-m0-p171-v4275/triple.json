@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p171",
+ "items": [
+  {
+   "verse": 4275,
+   "rows": [
+    {
+     "surface": "paścāt+nāthān+pārśvayoḥ+ca",
+     "gloss": "after-lords-sides-and",
+     "grounds": "fused sandhi token kept whole; indicates sequence and placement around lords",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hetīḥ+anyāḥ+tathā+arcayet",
+     "gloss": "weapons-other-thus-worship",
+     "grounds": "fused sandhi token kept whole; arcayet is the worship verb",
+     "morph": "verb.3sg.act.opt.√arc"
+    }
+   ],
+   "question": "Which weapons should be worshipped after the lords on the sides?",
+   "premises": [
+    "Worship occurs after the lords.",
+    "Other weapons are placed on sides.",
+    "Thus indicates ritual order."
+   ],
+   "inference": "The verse prescribes worshipping additional weapons beside the lords after their worship.",
+   "uncertainties": [
+    "Exact ritual referents of lords and weapons are not specified in this verse."
+   ],
+   "plain_english": "Afterwards, worship other weapons on the sides of the lords."
+  }
+ ]
+}

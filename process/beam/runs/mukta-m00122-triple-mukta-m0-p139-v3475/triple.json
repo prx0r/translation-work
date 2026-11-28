@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral modifying the five elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "element",
+     "grounds": "compound member naming the five elements",
+     "morph": "compound member (m.nom.pl)"
+    },
+    {
+     "surface": "ātmaka",
+     "gloss": "having-nature-of",
+     "grounds": "compound member indicating constitution by the five elements",
+     "morph": "compound member (adj)"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "the unit whose elemental constitution is stated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmikā",
+     "gloss": "having-nature-of",
+     "grounds": "feminine adjective agreeing with the stated varṇa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "is",
+     "grounds": "states the elemental constitution of the varṇa",
+     "morph": "3.sg.act-pres, root bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the quoted doctrinal statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What elemental constitution characterizes the varṇa that the mantra practitioner contemplates?",
+   "premises": [
+    "The varṇa is constituted by five elements.",
+    "The statement is introduced as a doctrinal conclusion."
+   ],
+   "inference": "Therefore the varṇa embodies the nature of the five elements.",
+   "uncertainties": [
+    "The exact ritual referent of varṇa in this passage is not specified."
+   ],
+   "plain_english": "The varṇa is of the nature of the five elements, thus."
+  }
+ ]
+}

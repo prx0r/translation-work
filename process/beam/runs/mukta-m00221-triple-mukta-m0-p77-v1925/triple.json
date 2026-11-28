@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "vijayañca",
+     "gloss": "victory-and",
+     "grounds": "fused form vijayam + ca; accusative object of hearing",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "absolutive of root śru",
+     "morph": "v.abs (śru)"
+    },
+    {
+     "surface": "tuṣṭā",
+     "gloss": "pleased",
+     "grounds": "participle/adjective in feminine nominative",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śrīlalitāmbikā",
+     "gloss": "shri-lalita-ambika",
+     "grounds": "compound name in feminine nominative",
+     "morph": "n.nom.sg.f (compound)"
+    }
+   ],
+   "question": "What response does Sri Lalita Ambika give upon hearing of victory?",
+   "premises": [
+    "Victory is heard by the goddess.",
+    "Hearing victory produces pleasure.",
+    "Sri Lalita Ambika is pleased."
+   ],
+   "inference": "Sri Lalita Ambika becomes pleased after hearing of victory.",
+   "uncertainties": [
+    "The exact case and syntactic role of vijayañca depend on the fused sandhi form."
+   ],
+   "plain_english": "Then, hearing of victory, Sri Lalita Ambika is pleased."
+  }
+ ]
+}

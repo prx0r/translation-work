@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p537",
+ "items": [
+  {
+   "verse": 13401,
+   "rows": [
+    {
+     "surface": "āgacchanti",
+     "gloss": "they-come",
+     "grounds": "finite verb expressing arrival",
+     "morph": "3.pl.act-pres √gam"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty asserted",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "mantra-holders",
+     "grounds": "practitioners possessing the mantra",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "klinna+cetasaḥ",
+     "gloss": "melted-hearts",
+     "grounds": "compound describing softened inner state",
+     "morph": "compound: klinna+cetasaḥ (bahuvrīhi), m.nom.pl"
+    }
+   ],
+   "question": "What certainty attends the arrival of softened-hearted mantra practitioners?",
+   "premises": [
+    "Mantra practitioners with melted hearts come.",
+    "No doubt exists regarding their coming."
+   ],
+   "inference": "The arrival of such practitioners is assured.",
+   "uncertainties": [],
+   "plain_english": "Mantra practitioners with softened hearts come; there is no doubt."
+  },
+  {
+   "verse": 13402,
+   "rows": [
+    {
+     "surface": "pūjitaṃ",
+     "gloss": "worshipped",
+     "grounds": "object prepared by worship",
+     "morph": "m.acc.sg (past participle √pūj)"
+    },
+    {
+     "surface": "sthāpita+prāṇaṃ",
+     "gloss": "established-life-breath",
+     "grounds": "compound indicating vitalization through ritual installation",
+     "morph": "compound: sthāpita+prāṇaṃ (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "dugdhena+eva",
+     "gloss": "with-milk-indeed",
+     "grounds": "instrument specified with emphasis; fused form kept as given",
+     "morph": "compound/indecl. fusion: dugdhena (n.ins.sg)+eva (indecl.)"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual injunction to perform ablution",
+     "morph": "3.sg.act-opt √sic (abhi-)"
+    }
+   ],
+   "question": "How should a worshipped and vitalized object be ritually sprinkled?",
+   "premises": [
+    "The object has been worshipped.",
+    "The object has had life-breath established in it.",
+    "Milk is the specified substance for sprinkling."
+   ],
+   "inference": "One should sprinkle the worshipped, vitalized object with milk.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the worshipped object, in which life-breath has been established, with milk."
+  },
+  {
+   "verse": 13403,
+   "rows": [
+    {
+     "surface": "p. 775",
+     "gloss": "page-775",
+     "grounds": "editorial page marker in the text stream",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "ānayet+nūnaṃ",
+     "gloss": "should-bring-certainly",
+     "grounds": "injunction with emphatic certainty; fused form kept as given",
+     "morph": "fusion: ānayet (3.sg.act-opt √nī, ā-)+nūnaṃ (indecl.)"
+    },
+    {
+     "surface": "kāmayānāṃ",
+     "gloss": "of-desiring-women",
+     "grounds": "group characterized by desire",
+     "morph": "f.gen.pl (present participle √kam)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sundarīm",
+     "gloss": "beautiful-woman",
+     "grounds": "specific target to be brought",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which beautiful woman among those filled with desire can certainly be brought?",
+   "premises": [
+    "There are women characterized by desire.",
+    "A beautiful woman among them is specified.",
+    "The ritual act can certainly bring her."
+   ],
+   "inference": "One can certainly bring a beautiful desiring woman.",
+   "uncertainties": [
+    "The token 'p. 775' is an editorial marker rather than verse content."
+   ],
+   "plain_english": "One should certainly bring a beautiful woman from among those who are filled with desire."
+  },
+  {
+   "verse": 13404,
+   "rows": [
+    {
+     "surface": "svinnena",
+     "gloss": "with-sweated",
+     "grounds": "instrumental substance or state used in the rite",
+     "morph": "n.ins.sg (past participle √svid)"
+    },
+    {
+     "surface": "mardayitvā",
+     "gloss": "having-massaged",
+     "grounds": "prior action performed on the material",
+     "morph": "absolutive √mṛd (causative)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking procedural step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "action of fashioning a form",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "sādhya+ākṛtiṃ",
+     "gloss": "target-form",
+     "grounds": "compound denoting the image of the intended person",
+     "morph": "compound: sādhya+ākṛtiṃ (tatpuruṣa), f.acc.sg"
+    },
+    {
+     "surface": "śubhām",
+     "gloss": "auspicious",
+     "grounds": "quality of the fashioned form",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What preparatory actions produce an auspicious form of the intended target?",
+   "premises": [
+    "A sweated substance is used.",
+    "It is massaged.",
+    "An auspicious form of the target is fashioned."
+   ],
+   "inference": "Massaging the sweated material and fashioning it yields an auspicious target form.",
+   "uncertainties": [
+    "The exact referent of 'svinnena' (sweated material or sweat) is context-dependent."
+   ],
+   "plain_english": "Having massaged it with the sweated material, one should fashion an auspicious form of the intended target."
+  },
+  {
+   "verse": 13405,
+   "rows": [
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "in-a-moment",
+     "grounds": "indicates immediacy of result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "arrival of the desired person",
+     "morph": "3.sg.act-pres √yā (ā-)"
+    },
+    {
+     "surface": "kāma+ārttā",
+     "gloss": "love-tormented",
+     "grounds": "compound describing state of passionate distress",
+     "morph": "compound: kāma+ārttā (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "vāñchitā",
+     "gloss": "desired",
+     "grounds": "identifies the woman as the intended one",
+     "morph": "f.nom.sg (past participle √vāñch)"
+    },
+    {
+     "surface": "vara+varṇinī",
+     "gloss": "excellent-complexioned-woman",
+     "grounds": "compound praising the woman's appearance",
+     "morph": "compound: vara+varṇinī (bahuvrīhi), f.nom.sg"
+    }
+   ],
+   "question": "How quickly does the desired, love-tormented, beautiful woman arrive after the rite?",
+   "premises": [
+    "The woman is desired and tormented by love.",
+    "The ritual procedure has been performed.",
+    "Arrival occurs within a moment."
+   ],
+   "inference": "The desired, love-tormented, beautiful woman comes at once.",
+   "uncertainties": [],
+   "plain_english": "In a moment, the desired, love-tormented, beautiful woman comes."
+  },
+  {
+   "verse": 13406,
+   "rows": [
+    {
+     "surface": "sīmantinī",
+     "gloss": "woman",
+     "grounds": "subject who arrives",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāyāti",
+     "gloss": "comes",
+     "grounds": "verb of arrival",
+     "morph": "3.sg.act-pres √yā (sam-ā-)"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "speed of arrival",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yauvana+garvitā",
+     "gloss": "youth-proud",
+     "grounds": "compound describing her proud youthful state",
+     "morph": "compound: yauvana+garvitā (tatpuruṣa), f.nom.sg"
+    }
+   ],
+   "question": "What kind of woman arrives quickly as a result of this practice?",
+   "premises": [
+    "A woman comes.",
+    "She comes quickly.",
+    "She is proud in her youth."
+   ],
+   "inference": "A woman proud of her youth arrives quickly.",
+   "uncertainties": [],
+   "plain_english": "A woman proud of her youth comes quickly."
+  },
+  {
+   "verse": 13407,
+   "rows": [
+    {
+     "surface": "yam",
+     "gloss": "whom",
+     "grounds": "relative object indicating the intended person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-indicated",
+     "grounds": "act of mentally or ritually targeting someone",
+     "morph": "absolutive √diś (ud-)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative particle situating the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the woman affected",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "in-a-moment",
+     "grounds": "immediacy of effect",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ākṛṣṭi+kārakam",
+     "gloss": "attraction-causing",
+     "grounds": "compound describing the effect produced for her",
+     "morph": "compound: ākṛṣṭi+kārakam (tatpuruṣa), n.nom.sg"
+    }
+   ],
+   "question": "What immediate effect arises for a woman when a specific person is ritually indicated?",
+   "premises": [
+    "A specific person is indicated here.",
+    "The effect concerns her as well.",
+    "The effect occurs in a moment and causes attraction."
+   ],
+   "inference": "Indicating a specific person causes her immediate attraction.",
+   "uncertainties": [
+    "The syntactic subject of 'ākṛṣṭi+kārakam' is implied rather than explicit."
+   ],
+   "plain_english": "When one indicates a particular person here, it causes her attraction in a moment."
+  },
+  {
+   "verse": 13408,
+   "rows": [
+    {
+     "surface": "śata+yojana+dūrāt",
+     "gloss": "hundred-yojana-distance",
+     "grounds": "compound expressing great distance as source",
+     "morph": "compound: śata+yojana+dūrāt (tatpuruṣa), n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyam",
+     "gloss": "target",
+     "grounds": "the person to be attracted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākarṣayet",
+     "gloss": "one-should-attract",
+     "grounds": "ritual injunction to draw the target",
+     "morph": "3.sg.act-opt √kṛṣ (ā-)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From how great a distance can the intended target certainly be attracted?",
+   "premises": [
+    "The target may be a hundred yojanas away.",
+    "The practitioner performs the attraction rite.",
+    "The result is declared certain."
+   ],
+   "inference": "One can certainly attract the target even from a hundred yojanas away.",
+   "uncertainties": [],
+   "plain_english": "One should certainly attract the intended target even from a distance of a hundred yojanas."
+  },
+  {
+   "verse": 13409,
+   "rows": [
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "ritual formula used in the procedure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "enaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative specifying the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-method",
+     "grounds": "prescribed procedure for application",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the practitioner performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time of performing the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākarṣayet",
+     "gloss": "should-attract",
+     "grounds": "injunction to perform attraction",
+     "morph": "3.sg.act-opt √kṛṣ (ā-)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "the target to be attracted",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By what means should the practitioner attract the intended person using this mantra?",
+   "premises": [
+    "This mantra is employed.",
+    "A prescribed method is followed.",
+    "The practitioner acts at that time."
+   ],
+   "inference": "By this method he should attract that person with this mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, by this method, he should indeed attract that person with this mantra."
+  },
+  {
+   "verse": 13410,
+   "rows": [
+    {
+     "surface": "tat+sthāne",
+     "gloss": "in-that-place",
+     "grounds": "compound indicating the specified location",
+     "morph": "compound: tat+sthāne (tatpuruṣa), n.loc.sg"
+    },
+    {
+     "surface": "kāma+bījaṃ",
+     "gloss": "love-seed-syllable",
+     "grounds": "compound naming the seed-syllable of desire",
+     "morph": "compound: kāma+bījaṃ (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāma+madhye",
+     "gloss": "in-love-middle",
+     "grounds": "compound indicating the middle position related to the love seed-syllable",
+     "morph": "compound: kāma+madhye (tatpuruṣa), n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gaṃ",
+     "grounds": "seed-syllable to be written, kept untranslated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunction to inscribe the syllable",
+     "morph": "3.sg.act-opt √likh"
+    }
+   ],
+   "question": "Where should the love seed-syllable and the syllable gaṃ be written in the diagram?",
+   "premises": [
+    "A specific place is designated.",
+    "The love seed-syllable is to be placed there.",
+    "The syllable gaṃ is to be written in the middle."
+   ],
+   "inference": "One should write the love seed-syllable in that place and gaṃ in its middle.",
+   "uncertainties": [
+    "The exact diagrammatic referent of 'tat+sthāne' and 'kāma+madhye' depends on prior context."
+   ],
+   "plain_english": "In that place one should write the love seed-syllable, and in the middle one should write gaṃ."
+  },
+  {
+   "verse": 13411,
+   "rows": [
+    {
+     "surface": "veṣṭayet",
+     "gloss": "one-should-enclose",
+     "grounds": "injunction to surround or encircle",
+     "morph": "3.sg.act-opt √veṣṭ (causative)"
+    },
+    {
+     "surface": "kāma+bījena",
+     "gloss": "with-love-seed-syllable",
+     "grounds": "instrument used for enclosing",
+     "morph": "compound: kāma+bījena (tatpuruṣa), n.ins.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining part to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrva+vat",
+     "gloss": "as-before",
+     "grounds": "compound indicating conformity with prior procedure",
+     "morph": "compound: pūrva+vat (avyayībhāva), (indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the remaining part of the inscription be completed around the diagram?",
+   "premises": [
+    "The love seed-syllable is used as the enclosing element.",
+    "A remainder of the procedure remains.",
+    "The earlier method is to be followed."
+   ],
+   "inference": "One should enclose the remainder with the love seed-syllable just as before.",
+   "uncertainties": [],
+   "plain_english": "One should enclose the remainder with the love seed-syllable, exactly as before."
+  },
+  {
+   "verse": 13412,
+   "rows": [
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "prescribed ritual procedure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sthāpita+prāṇaṃ",
+     "gloss": "established-life-breath",
+     "grounds": "compound indicating ritual vitalization",
+     "morph": "compound: sthāpita+prāṇaṃ (bahuvrīhi), m.acc.sg"
+    },
+    {
+     "surface": "śare",
+     "gloss": "on-arrow",
+     "grounds": "location where the object is placed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "prior act of placing",
+     "morph": "absolutive √as (vi-ni-)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunction to perform mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    }
+   ],
+   "question": "What should be done with the vitalized object after placing it on an arrow?",
+   "premises": [
+    "Life-breath has been established by the prescribed method.",
+    "The object is placed on an arrow.",
+    "Recitation is to be performed."
+   ],
+   "inference": "After placing the vitalized object on an arrow, one should recite over it.",
+   "uncertainties": [
+    "The referent of 'taṃ' (the mantra or the object) is implied by context."
+   ],
+   "plain_english": "Having placed that vitalized object on an arrow according to the method, one should recite."
+  },
+  {
+   "verse": 13413,
+   "rows": [
+    {
+     "surface": "manau",
+     "gloss": "in-mantra",
+     "grounds": "location within the mantra formula",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sādhya+abhidhāṃ",
+     "gloss": "target-name",
+     "grounds": "compound denoting the name of the intended person",
+     "morph": "compound: sādhya+abhidhāṃ (tatpuruṣa), f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "act of inserting the name",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "specified position for insertion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrva+samīrite",
+     "gloss": "previously-mentioned",
+     "grounds": "compound indicating the place was stated earlier",
+     "morph": "compound: pūrva+samīrite (karmadhāraya), n.loc.sg"
+    }
+   ],
+   "question": "Where must the intended target's name be inserted within the mantra?",
+   "premises": [
+    "The target's name is to be inserted.",
+    "The insertion occurs in the mantra.",
+    "The place was previously mentioned."
+   ],
+   "inference": "One should insert the target's name in the previously mentioned place in the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having inserted the target's name in the previously mentioned place within the mantra."
+  },
+  {
+   "verse": 13414,
+   "rows": [
+    {
+     "surface": "sādhya+dik+sammukhaḥ",
+     "gloss": "target-direction-facing",
+     "grounds": "compound describing orientation toward the target's direction",
+     "morph": "compound: sādhya+dik+sammukhaḥ (tatpuruṣa), m.nom.sg"
+    },
+    {
+     "surface": "bhūttvā",
+     "gloss": "having-become",
+     "grounds": "assuming the specified orientation",
+     "morph": "absolutive √bhū"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "the one who holds and uses the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "state of focused attention",
+     "morph": "m.nom.sg (past participle √dhā, sam-ā-)"
+    }
+   ],
+   "question": "In what posture and mental state should the practitioner recite the mantra toward the target?",
+   "premises": [
+    "The practitioner faces the target's direction.",
+    "The practitioner is concentrated.",
+    "The mantra is recited."
+   ],
+   "inference": "The concentrated practitioner should recite the mantra facing the target's direction.",
+   "uncertainties": [],
+   "plain_english": "Facing the direction of the target, the concentrated practitioner should recite the mantra."
+  },
+  {
+   "verse": 13415,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the procedure described above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dina+trayaṃ",
+     "gloss": "day-three",
+     "grounds": "compound indicating a duration of three days",
+     "morph": "compound: dina+trayaṃ (dvigu), n.acc.sg"
+    },
+    {
+     "surface": "kurvan",
+     "gloss": "doing",
+     "grounds": "continuing the practice over time",
+     "morph": "m.nom.sg (present participle √kṛ)"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "number of days until result",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "divasaiḥ",
+     "gloss": "days",
+     "grounds": "time period for the outcome",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "For how long must the wise practitioner perform this rite to achieve the result?",
+   "premises": [
+    "The rite is performed in this manner.",
+    "It is done for three days.",
+    "The result comes within seven days."
+   ],
+   "inference": "By doing this for three days, the wise one achieves the result within seven days.",
+   "uncertainties": [],
+   "plain_english": "Thus doing this for three days, the wise one achieves the result within seven days."
+  },
+  {
+   "verse": 13416,
+   "rows": [
+    {
+     "surface": "vaśayet",
+     "gloss": "should-subjugate",
+     "grounds": "injunction to bring under control",
+     "morph": "3.sg.act-opt √vaś (causative)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the one performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "speed of the effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat+jīvaṃ",
+     "gloss": "as-long-as-life",
+     "grounds": "compound indicating lifelong duration",
+     "morph": "compound: yāvat+jīvaṃ (avyayībhāva), (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty asserted",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What duration and certainty characterize the subjugation achieved by the practitioner?",
+   "premises": [
+    "The practitioner subjugates the target quickly.",
+    "The effect lasts as long as life.",
+    "There is no doubt about this."
+   ],
+   "inference": "The practitioner quickly achieves lifelong subjugation without doubt.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should quickly subjugate the target for as long as life; there is no doubt."
+  },
+  {
+   "verse": 13417,
+   "rows": [
+    {
+     "surface": "acalāṃ",
+     "gloss": "unmoving",
+     "grounds": "epithet of the goddess obtained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kamalāṃ",
+     "gloss": "Kamala",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "prior attainment of the goddess's favor or presence",
+     "morph": "absolutive √labh"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "one-should-subjugate",
+     "grounds": "injunction to bring under control",
+     "morph": "3.sg.act-opt √vaś (causative)"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "universe",
+     "grounds": "totality brought under control",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "añjasā",
+     "gloss": "easily",
+     "grounds": "manner of achieving subjugation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What power follows from obtaining the unmoving goddess Kamala?",
+   "premises": [
+    "The unmoving Kamala is obtained.",
+    "Subjugation is performed thereafter.",
+    "The universe can be subjugated easily."
+   ],
+   "inference": "Having obtained unmoving Kamala, one can easily subjugate the universe.",
+   "uncertainties": [],
+   "plain_english": "Having obtained the unmoving Kamala, one should easily subjugate the universe."
+  },
+  {
+   "verse": 13418,
+   "rows": [
+    {
+     "surface": "tat+samena",
+     "gloss": "with-that-equal",
+     "grounds": "compound indicating equal measure to the prior substance",
+     "morph": "compound: tat+samena (tatpuruṣa), m.ins.sg"
+    },
+    {
+     "surface": "guḍena",
+     "gloss": "with-molasses",
+     "grounds": "one of the substances used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhunā",
+     "gloss": "with-honey",
+     "grounds": "another substance used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saindhavena",
+     "gloss": "with-rock-salt",
+     "grounds": "another substance used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which substances in equal measure are combined for fashioning the ritual figure?",
+   "premises": [
+    "Molasses equal to the prior amount is used.",
+    "Honey is included.",
+    "Rock salt is included."
+   ],
+   "inference": "Molasses, honey, and rock salt are combined in equal measure.",
+   "uncertainties": [
+    "The referent of 'tat' in 'tat+samena' depends on prior context."
+   ],
+   "plain_english": "With molasses equal to that, and also with honey and rock salt."
+  },
+  {
+   "verse": 13419,
+   "rows": [
+    {
+     "surface": "nirmāya",
+     "gloss": "having-fashioned",
+     "grounds": "act of creating the figure",
+     "morph": "absolutive √mā (nir-)"
+    },
+    {
+     "surface": "gaṇapaṃ",
+     "gloss": "Gaṇapa",
+     "grounds": "the deity figure fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental reference to the prepared material or figure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat+hṛdi",
+     "gloss": "in-its-heart",
+     "grounds": "compound indicating placement in the heart of the figure",
+     "morph": "compound: tat+hṛdi (tatpuruṣa), n.loc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "one-should-place",
+     "grounds": "injunction to insert the diagram",
+     "morph": "3.sg.act-opt √kṣip (niḥ-)"
+    }
+   ],
+   "question": "Where should the ritual diagram be placed after fashioning the figure of Gaṇapa?",
+   "premises": [
+    "A figure of Gaṇapa is fashioned.",
+    "A ritual diagram is prepared.",
+    "The diagram is to be placed in the figure's heart."
+   ],
+   "inference": "After fashioning Gaṇapa, one should place the diagram in its heart.",
+   "uncertainties": [],
+   "plain_english": "Having fashioned Gaṇapa, one should place the diagram in its heart."
+  },
+  {
+   "verse": 13420,
+   "rows": [
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "the fashioned figure to be consumed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "one-should-eat",
+     "grounds": "injunction to consume the image",
+     "morph": "3.sg.act-opt √bhakṣ (causative)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence following placement of the diagram",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyā",
+     "gloss": "target",
+     "grounds": "the person intended to be controlled",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subjugated",
+     "grounds": "resulting state of the target",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain result follows from eating the prepared image afterward?",
+   "premises": [
+    "The image is eaten afterward.",
+    "The target is the intended person.",
+    "The result is declared certain."
+   ],
+   "inference": "After eating the image, the target certainly becomes subjugated.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should eat the image; the intended target will certainly become subjugated."
+  },
+  {
+   "verse": 13421,
+   "rows": [
+    {
+     "surface": "aṣṭa+adhika+śataṃ",
+     "gloss": "eight-more-hundred",
+     "grounds": "compound indicating the number one hundred and eight",
+     "morph": "compound: aṣṭa+adhika+śataṃ (dvigu), n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "prior act of mantra recitation",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "pūjitāṃ",
+     "gloss": "worshipped",
+     "grounds": "object prepared by worship",
+     "morph": "f.acc.sg (past participle √pūj)"
+    },
+    {
+     "surface": "sthāpita+anilām",
+     "gloss": "established-breath",
+     "grounds": "compound indicating vitalization by establishing breath",
+     "morph": "compound: sthāpita+anilām (bahuvrīhi), f.acc.sg"
+    }
+   ],
+   "question": "What preparatory acts of recitation and vitalization precede the next subjugation rite?",
+   "premises": [
+    "Recitation is performed one hundred and eight times.",
+    "The object is worshipped.",
+    "Breath is established in it."
+   ],
+   "inference": "One prepares by reciting one hundred and eight times over a worshipped, breath-established object.",
+   "uncertainties": [
+    "The object of these actions is implied from the following verse."
+   ],
+   "plain_english": "Having recited one hundred and eight times, over the worshipped object in which breath has been established."
+  },
+  {
+   "verse": 13422,
+   "rows": [
+    {
+     "surface": "vaśayet",
+     "gloss": "one-should-subjugate",
+     "grounds": "injunction to bring under control",
+     "morph": "3.sg.act-opt √vaś (causative)"
+    },
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "quality of the intended target",
+     "morph": "m.acc.sg (past participle √vāñch)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "target",
+     "grounds": "the person to be controlled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous duration of the effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+sva+dāyinam",
+     "gloss": "all-wealth-giving",
+     "grounds": "compound describing the target as giving all possessions",
+     "morph": "compound: sarva+sva+dāyinam (tatpuruṣa), m.acc.sg"
+    }
+   ],
+   "question": "What kind of desired target can be made to give all possessions permanently?",
+   "premises": [
+    "The target is desired.",
+    "The rite subjugates the target.",
+    "The target becomes one who gives all wealth always."
+   ],
+   "inference": "One can always subjugate the desired target so that they give all their wealth.",
+   "uncertainties": [],
+   "plain_english": "One should subjugate the desired target so that they always give all their wealth."
+  },
+  {
+   "verse": 13423,
+   "rows": [
+    {
+     "surface": "lakṣeṇa",
+     "gloss": "with-a-lakh",
+     "grounds": "quantity of recitations performed",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vaśayet",
+     "gloss": "one-should-subjugate",
+     "grounds": "injunction to bring under control",
+     "morph": "3.sg.act-opt √vaś (causative)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "target",
+     "grounds": "the person to be controlled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vasu+mātrasya",
+     "gloss": "wealth-measure",
+     "grounds": "compound indicating the extent of wealth involved",
+     "morph": "compound: vasu+mātrasya (tatpuruṣa), n.gen.sg"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "accomplisher",
+     "grounds": "one who brings about or provides the wealth",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What result is achieved by performing a lakh recitations upon the intended target?",
+   "premises": [
+    "A lakh recitations are performed.",
+    "The target is subjugated.",
+    "The target becomes an accomplisher of a measure of wealth."
+   ],
+   "inference": "With a lakh recitations one can subjugate the target into providing wealth.",
+   "uncertainties": [
+    "The precise sense of 'vasu+mātrasya' (limited wealth or wealth alone) is ambiguous."
+   ],
+   "plain_english": "With a lakh recitations one should subjugate the target so that they become a provider of wealth."
+  },
+  {
+   "verse": 13424,
+   "rows": [
+    {
+     "surface": "mṛga+ibha+mada+saṃyuktā",
+     "gloss": "deer-elephant-musk-combined",
+     "grounds": "compound describing a mixture including musk substances",
+     "morph": "compound: mṛga+ibha+mada+saṃyuktā (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+aṅgaṃ",
+     "gloss": "eight-part",
+     "grounds": "compound indicating an eight-part preparation",
+     "morph": "compound: aṣṭa+aṅgaṃ (bahuvrīhi), n.nom.sg"
+    },
+    {
+     "surface": "vighna+nāśane",
+     "gloss": "in-obstacle-destroyer",
+     "grounds": "compound indicating the context of destroying obstacles",
+     "morph": "compound: vighna+nāśane (tatpuruṣa), n.loc.sg"
+    }
+   ],
+   "question": "What eight-part mixture combined with musk is used in the context of destroying obstacles?",
+   "premises": [
+    "A mixture is combined with deer and elephant musk.",
+    "The preparation has eight parts.",
+    "It is used in the context of obstacle destruction."
+   ],
+   "inference": "An eight-part mixture combined with musk is employed for destroying obstacles.",
+   "uncertainties": [
+    "The full list of the eight parts is not specified in this verse.",
+    "The verse is syntactically elliptical and may continue into the next verse."
+   ],
+   "plain_english": "Indeed, an eight-part mixture combined with deer and elephant musk is used in the context of destroying obstacles."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "fused tad+eva; refers to the previously mentioned enclosure",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "pṛthuvāraṃ",
+     "gloss": "wide-enclosure",
+     "grounds": "wide enclosure; accusative object of the statement",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍikāvārasaṃyutam",
+     "gloss": "staff-enclosure-joined",
+     "grounds": "joined together with the staff-enclosure",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "Which wide enclosure is to be joined with the staff-enclosure?",
+   "premises": [
+    "That same wide enclosure is joined with staff-enclosure.",
+    "The preceding lines describe suitable royal residence arrangements."
+   ],
+   "inference": "The wide enclosure named here is the one joined to the staff-enclosure.",
+   "uncertainties": [
+    "The precise ritual or architectural role of the staff-enclosure remains unclear."
+   ],
+   "plain_english": "That same wide enclosure is joined with the staff-enclosure."
+  }
+ ]
+}

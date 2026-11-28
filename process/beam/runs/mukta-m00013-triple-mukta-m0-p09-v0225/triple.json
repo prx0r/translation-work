@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as expressing modal should-be",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "upāṃśuḥ",
+     "gloss": "whispered",
+     "grounds": "adjective or noun denoting whispered recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the japa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "muttering",
+     "grounds": "noun denoting muttering recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "passive participle of smṛ in remembered sense",
+     "morph": "m.nom.sg.pass.past.part + smṛ"
+    }
+   ],
+   "question": "Should the muttering japa be performed in a whispered mode?",
+   "premises": [
+    "saḥ japaḥ denotes muttering recitation",
+    "upāṃśuḥ denotes whispered recitation",
+    "smṛtaḥ marks authoritative remembrance"
+   ],
+   "inference": "therefore muttering japa is to be whispered",
+   "uncertainties": [
+    "modal force of syāt remains contextually inferred",
+    "whether upāṃśuḥ is adjective or noun is not fully resolved"
+   ],
+   "plain_english": "That muttering is remembered as whispered japa."
+  }
+ ]
+}

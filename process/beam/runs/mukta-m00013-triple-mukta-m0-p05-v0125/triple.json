@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "candra+tārā+anukūle",
+     "gloss": "moon-star-favorable",
+     "grounds": "compound adjective indicating favorable condition of moon and star; locative sense in context",
+     "morph": "compound.loc.sg.nt (candra+tārā+anukūla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle adding a further condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt+dīkṣā+pravarttanam",
+     "gloss": "should-perform-initiation-commencement",
+     "grounds": "fused form: optative verb governing a compound object denoting the commencement of initiation (dīkṣā+pravarttana)",
+     "morph": "3.sg.opt.act (√kṛ) + compound.acc.sg.nt (dīkṣā+pravarttana)"
+    }
+   ],
+   "question": "Under what celestial conditions should the commencement of initiation be performed?",
+   "premises": [
+    "The commencement of initiation is an action to be undertaken.",
+    "Favorable conditions of the moon and stars are specified as relevant.",
+    "The text prescribes performing this commencement under such favorable conditions."
+   ],
+   "inference": "Therefore, the commencement of initiation should be performed when the moon and stars are favorable.",
+   "uncertainties": [
+    "The specific astrological criteria defining 'favorable' are not detailed in this verse."
+   ],
+   "plain_english": "And one should perform the commencement of initiation when the moon and stars are favorable."
+  }
+ ]
+}

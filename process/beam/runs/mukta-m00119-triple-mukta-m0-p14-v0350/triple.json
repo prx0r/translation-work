@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "laghuṣoḍhā",
+     "gloss": "light-shodha",
+     "grounds": "compound of laghu (light) and ṣoḍhā; feminine nominative singular form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāṣoḍhā",
+     "gloss": "great-shodha",
+     "grounds": "compound of mahā (great) and ṣoḍhā; feminine nominative singular form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvitayaṃ",
+     "gloss": "pair",
+     "grounds": "neuter nominative singular of dvitaya, denoting a twofold set",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative singular address to the supreme goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which two shodha forms are paired and addressed to the supreme goddess?",
+   "premises": [
+    "laghuṣoḍhā and mahāṣoḍhā form a pair",
+    "the pair is addressed to parameśvari",
+    "the verse names both shodha forms together"
+   ],
+   "inference": "The verse presents the light-shodha and great-shodha as a paired set for the supreme goddess.",
+   "uncertainties": [
+    "the exact ritual sense of ṣoḍhā is not specified in this verse"
+   ],
+   "plain_english": "The light-shodha and great-shodha are a pair, O supreme goddess."
+  }
+ ]
+}

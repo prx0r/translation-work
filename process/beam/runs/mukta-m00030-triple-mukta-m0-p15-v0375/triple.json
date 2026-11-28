@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral indicating lower bound of age range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣam",
+     "gloss": "year",
+     "grounds": "unit of age marking starting point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "gerund expressing commencement from stated age",
+     "morph": "gerund (sam-ā-√rabh)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "particle marking upper limit of range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective linking bounds of the range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral indicating upper bound of age range",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārṣikī",
+     "gloss": "year-old",
+     "grounds": "adjective qualifying subject at upper age limit",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What specific age range beginning at six years extends up to nine years old?",
+   "premises": [
+    "The stated range begins at six years.",
+    "The stated range extends up to nine.",
+    "The upper limit is expressed as nine years old."
+   ],
+   "inference": "The specified age span runs from six years up to nine years old.",
+   "uncertainties": [
+    "The syntactic role of this range within the broader ritual instruction depends on the preceding verses."
+   ],
+   "plain_english": "Beginning from six years and up to nine years old."
+  }
+ ]
+}

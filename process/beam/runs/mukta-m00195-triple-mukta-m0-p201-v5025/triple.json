@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p201",
+ "items": [
+  {
+   "verse": 5025,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility or result",
+     "morph": "3.sg.act-opt.√bhū"
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired",
+     "grounds": "the wished-for outcome of the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tridinārvāk",
+     "gloss": "within-three-days",
+     "grounds": "time limit for manifestation; compound indicating period",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "milet",
+     "gloss": "may-occur",
+     "grounds": "optative expressing attainment or coming to pass",
+     "morph": "3.sg.act-opt.√mil"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or assurance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How quickly can the desired outcome manifest after the prescribed bali offering?",
+   "premises": [
+    "The desired outcome may come to be.",
+    "Its fulfillment may occur within three days.",
+    "The result is affirmed with certainty."
+   ],
+   "inference": "The prescribed bali offering can swiftly bring about the wished-for result.",
+   "uncertainties": [],
+   "plain_english": "The desired result may indeed come to pass within three days."
+  }
+ ]
+}

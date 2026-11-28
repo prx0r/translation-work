@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "predicate adjective indicating singularity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle restricting to singularity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā+śaktiḥ",
+     "gloss": "supreme-power",
+     "grounds": "compound denoting the highest power",
+     "morph": "compound: parā+śaktiḥ (f.nom.sg)"
+    },
+    {
+     "surface": "bahu+bheda+prakāśinī",
+     "gloss": "manifesting-in-many-divisions",
+     "grounds": "compound describing the power's manifold manifestation",
+     "morph": "compound: bahu+bheda+prakāśinī (f.nom.sg)"
+    }
+   ],
+   "question": "How can the supreme power remain singular while manifesting in many divisions?",
+   "premises": [
+    "The supreme power is one alone.",
+    "This same power manifests in many divisions.",
+    "Singularity and manifold manifestation are attributed to the same power."
+   ],
+   "inference": "The supreme power is singular in essence yet expresses itself through multiple divisions.",
+   "uncertainties": [],
+   "plain_english": "The supreme power is one alone, yet she manifests in many divisions."
+  }
+ ]
+}

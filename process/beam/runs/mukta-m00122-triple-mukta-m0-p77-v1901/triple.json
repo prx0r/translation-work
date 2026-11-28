@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "vijayākhyā",
+     "gloss": "vijaya-named",
+     "grounds": "named Vijayā",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "great vidyā",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśvasaṃtrāṇatatparā",
+     "gloss": "universe-protection-devoted",
+     "grounds": "devoted to protecting universe",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which great vidyā named Vijayā is devoted to protecting the universe?",
+   "premises": [
+    "Vijayā is a great vidyā.",
+    "It is devoted to universe protection."
+   ],
+   "inference": "The verse identifies Vijayā as a universe-protecting great vidyā.",
+   "uncertainties": [
+    "Exact ritual function beyond protection is not stated."
+   ],
+   "plain_english": "The vidyā named Vijayā is a great vidyā devoted to protecting the universe."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "dvayorniyojanāt",
+     "gloss": "of-two-union",
+     "grounds": "from union of two",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "in them",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "arises",
+     "morph": "3.sg.mid-pres root jan"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "āvayorvapuḥ",
+     "gloss": "our-body",
+     "grounds": "our body",
+     "morph": "compound"
+    }
+   ],
+   "question": "What arises in them from the union of two?",
+   "premises": [
+    "Union of two is the cause.",
+    "Something arises in them."
+   ],
+   "inference": "From the union of two, that body of ours arises in them.",
+   "uncertainties": [
+    "The two united principles are not named here."
+   ],
+   "plain_english": "From the union of the two, that body of ours arises in them."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "in them",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "dāhasamāyogāt",
+     "gloss": "by-burning-union",
+     "grounds": "by burning union",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "viśvākhyā",
+     "gloss": "universe-named",
+     "grounds": "named universe",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśvavigrahā",
+     "gloss": "universe-bodied",
+     "grounds": "having universe body",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is produced in them by burning union?",
+   "premises": [
+    "Burning union occurs in them.",
+    "A universe-named form results."
+   ],
+   "inference": "By burning union in them arises the universe-named, universe-bodied form.",
+   "uncertainties": [
+    "The exact nature of the burning union is not explained."
+   ],
+   "plain_english": "In them, by burning union, arises the universe-named, universe-bodied form."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "their",
+     "grounds": "their",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "saṃkhyāsvarūpaṃ",
+     "gloss": "number-form",
+     "grounds": "number and form",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñātuṃ",
+     "gloss": "to-know",
+     "grounds": "to know",
+     "morph": "inf"
+    },
+    {
+     "surface": "vaktuṃ",
+     "gloss": "to-speak",
+     "grounds": "to speak",
+     "morph": "inf"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-anyone",
+     "grounds": "by anyone",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "śakyam",
+     "gloss": "possible",
+     "grounds": "possible",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can anyone know or state their number and form?",
+   "premises": [
+    "Their number and form are at issue.",
+    "No one can know or speak them."
+   ],
+   "inference": "The verse states that no one can know or speak their number and form.",
+   "uncertainties": [
+    "The referent of 'their' depends on prior context."
+   ],
+   "plain_english": "No one can know or speak their number and form."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "asamīcīna+taddvaya+pratipādaka+vidyābhyaḥ+viśeṣayati",
+     "gloss": "improper-two-teaching-vidyās-from-distinguishes",
+     "grounds": "distinguishes from improper vidyās teaching two",
+     "morph": "3.sg.act-pres root viśeṣ"
+    }
+   ],
+   "question": "From which improper vidyās teaching two does this distinguish?",
+   "premises": [
+    "There are improper vidyās teaching two.",
+    "This distinguishes from them."
+   ],
+   "inference": "The verse distinguishes this from improper vidyās that teach two.",
+   "uncertainties": [
+    "The exact improper vidyās are not named."
+   ],
+   "plain_english": "It distinguishes this from improper vidyās that teach two."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "khecarāmburasopetamāyābhyāṃ",
+     "gloss": "sky-goers-water-with-māyās",
+     "grounds": "by sky-goers water and māyās",
+     "morph": "inst.du"
+    },
+    {
+     "surface": "puṭitā",
+     "gloss": "covered",
+     "grounds": "covered",
+     "morph": "nom.sg.f.past.part"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What covers that vidyā by sky-goers water and māyās?",
+   "premises": [
+    "That vidyā is covered.",
+    "The covering agents are sky-goers, water, and māyās."
+   ],
+   "inference": "That vidyā is covered by sky-goers, water, and māyās.",
+   "uncertainties": [
+    "The exact covering relation is condensed."
+   ],
+   "plain_english": "That vidyā is covered by sky-goers, water, and māyās."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "māyādyā",
+     "gloss": "māyā-first",
+     "grounds": "māyā first",
+     "morph": "compound"
+    },
+    {
+     "surface": "mohinī",
+     "gloss": "deluding",
+     "grounds": "deluding",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "called",
+     "grounds": "called",
+     "morph": "nom.sg.f.past.part"
+    },
+    {
+     "surface": "tanmadhyā",
+     "gloss": "middle",
+     "grounds": "middle",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣobhiṇī",
+     "gloss": "agitating",
+     "grounds": "agitating",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "considered",
+     "morph": "nom.sg.f.past.part"
+    }
+   ],
+   "question": "Which māyā is called deluding and which agitating?",
+   "premises": [
+    "The first māyā is called deluding.",
+    "The middle one is considered agitating."
+   ],
+   "inference": "The first māyā is called deluding, while the middle one is considered agitating.",
+   "uncertainties": [
+    "The full list of māyās is not given."
+   ],
+   "plain_english": "The first māyā is called deluding, and the middle one is considered agitating."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "thirteen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "said",
+     "grounds": "said",
+     "morph": "nom.pl.f.past.part"
+    },
+    {
+     "surface": "tripurāvidhayaḥ",
+     "gloss": "tripurā-rites",
+     "grounds": "tripurā rites",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "remembered",
+     "morph": "nom.pl.f.past.part"
+    }
+   ],
+   "question": "How many tripurā rites are remembered?",
+   "premises": [
+    "Tripurā rites are remembered.",
+    "Their number is thirteen."
+   ],
+   "inference": "Thirteen tripurā rites are remembered.",
+   "uncertainties": [
+    "The individual rites are not enumerated."
+   ],
+   "plain_english": "Thirteen tripurā rites are remembered."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "their",
+     "grounds": "their",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rite",
+     "grounds": "rite",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "to you",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "told",
+     "grounds": "told",
+     "morph": "nom.sg.n.past.part"
+    },
+    {
+     "surface": "aśeṣaṃ",
+     "gloss": "entire",
+     "grounds": "entire",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣasāgare",
+     "gloss": "lakṣa-sāgara",
+     "grounds": "in lakṣa-sāgara",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Where was their entire rite told to you?",
+   "premises": [
+    "Their entire rite was told.",
+    "It was told to you in lakṣa-sāgara."
+   ],
+   "inference": "Their entire rite was told to you in lakṣa-sāgara.",
+   "uncertainties": [
+    "The exact textual location is named only by tantra title."
+   ],
+   "plain_english": "Their entire rite was told to you in lakṣa-sāgara."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "I will speak",
+     "morph": "1.sg.act-fut root vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "hear",
+     "morph": "2.sg.act-imp root śru"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "O goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "sādhābhīṣṭasiddhaye",
+     "gloss": "for-desired-accomplishment",
+     "grounds": "for desired accomplishment",
+     "morph": "dat.sg"
+    }
+   ],
+   "question": "Why will the speaker declare that to the goddess?",
+   "premises": [
+    "The speaker will declare that.",
+    "The purpose is desired accomplishment."
+   ],
+   "inference": "The speaker will declare that to the goddess for desired accomplishment.",
+   "uncertainties": [
+    "The exact desired accomplishment is unspecified."
+   ],
+   "plain_english": "I will declare that; hear, O goddess, for desired accomplishment."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "tripurāratnākhyā",
+     "gloss": "tripurā-ratna-named",
+     "grounds": "named tripurā-ratna",
+     "morph": "compound"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "nom.sg.f.past.part"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is declared named tripurā-ratna?",
+   "premises": [
+    "Something named tripurā-ratna is declared.",
+    "The declaration is marked thus."
+   ],
+   "inference": "The tripurā-ratna-named item is declared.",
+   "uncertainties": [
+    "The declared item's full content is not given."
+   ],
+   "plain_english": "The tripurā-ratna-named rite is declared."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rite",
+     "grounds": "rite",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "lakṣasāgarākhyāgame",
+     "gloss": "lakṣa-sāgara-named-tantra",
+     "grounds": "in lakṣa-sāgara-named tantra",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "samupadiṣṭam",
+     "gloss": "taught",
+     "grounds": "taught",
+     "morph": "nom.sg.n.past.part"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "instructs",
+     "grounds": "instructs",
+     "morph": "3.sg.act-pres root upadiś"
+    }
+   ],
+   "question": "Where is the rite taught and who instructs?",
+   "premises": [
+    "The rite is taught in lakṣa-sāgara-named tantra.",
+    "It is also instructed."
+   ],
+   "inference": "The rite is taught in the lakṣa-sāgara-named tantra and is also instructed.",
+   "uncertainties": [
+    "The instructor is not explicitly named."
+   ],
+   "plain_english": "The rite is taught in the lakṣa-sāgara-named tantra, and it is also instructed."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "vātena",
+     "gloss": "by-wind",
+     "grounds": "wind instrument",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carasvābhyāṃ",
+     "gloss": "by-movement",
+     "grounds": "movement instrument dual",
+     "morph": "n.instr.du"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "second ordinal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "How is the second rite performed by wind and movement for Pārvatī?",
+   "premises": [
+    "wind and movement are instruments",
+    "the second rite is specified",
+    "Pārvatī is addressed"
+   ],
+   "inference": "The verse prescribes a second rite using wind and movement for Pārvatī.",
+   "uncertainties": [
+    "carasvābhyāṃ exact derivation"
+   ],
+   "plain_english": "By wind and by movement, the second rite too, O Pārvatī."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trivarṇā",
+     "gloss": "three-lettered",
+     "grounds": "three letters",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "mantra knowledge",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "rite",
+     "grounds": "procedure",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive present",
+     "morph": "verb.3.sg.pass-pres root kath"
+    }
+   ],
+   "question": "How is the three-lettered vidyā and its rite then told?",
+   "premises": [
+    "the vidyā is three-lettered",
+    "its rite is named",
+    "the telling follows"
+   ],
+   "inference": "The verse states that the three-lettered vidyā and its rite are then told.",
+   "uncertainties": [
+    "trivarṇā exact letters"
+   ],
+   "plain_english": "Thus the three-lettered vidyā and its rite are then told."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root kṛ"
+    },
+    {
+     "surface": "karāṅgayoḥ",
+     "gloss": "of-hands-limbs",
+     "grounds": "genitive dual",
+     "morph": "n.gen.du.n"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root dhyai"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done with hands and limbs before meditating on her?",
+   "premises": [
+    "hands and limbs are specified",
+    "meditation on her follows",
+    "the order is given"
+   ],
+   "inference": "The verse instructs doing as before with hands and limbs, then meditating on her.",
+   "uncertainties": [
+    "karāṅgayoḥ exact scope"
+   ],
+   "plain_english": "One should do as before with hands and limbs, and then meditate on her."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "caturbhujāṃ",
+     "gloss": "four-armed",
+     "grounds": "four arms",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "trinayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "three eyes",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "prasannasmeravaktrakām",
+     "gloss": "pleasant-smiling-faced",
+     "grounds": "pleasant smiling face",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form does the meditated goddess take in these verses?",
+   "premises": [
+    "she is four-armed",
+    "she is three-eyed",
+    "her face is pleasant and smiling"
+   ],
+   "inference": "The goddess is visualized as four-armed, three-eyed, and pleasant-smiling-faced.",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Four-armed, three-eyed, with a pleasant smiling face."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "locative triangle",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "svastikāsīnāṃ",
+     "gloss": "svastika-seated",
+     "grounds": "svastika seat",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "karuṇānandamandirām",
+     "gloss": "compassion-bliss-abode",
+     "grounds": "abode of compassion and bliss",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Where and in what posture is the goddess seated?",
+   "premises": [
+    "she is in a triangle",
+    "she is svastika-seated",
+    "she is an abode of compassion and bliss"
+   ],
+   "inference": "The goddess is seated in svastika posture within a triangle as an abode of compassion and bliss.",
+   "uncertainties": [
+    "trikoṇe exact diagram"
+   ],
+   "plain_english": "In a triangle, svastika-seated, an abode of compassion and bliss."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "pustakaṃ",
+     "gloss": "book",
+     "grounds": "object held",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "object held",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hastair",
+     "gloss": "hands",
+     "grounds": "instrumental hands",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "dadhānāṃ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "sarvamaṅgalām",
+     "gloss": "all-auspicious",
+     "grounds": "all auspicious",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What does the goddess hold in her hands?",
+   "premises": [
+    "she holds a book",
+    "she holds a boon",
+    "her hands are specified"
+   ],
+   "inference": "The goddess holds a book and a boon in her hands and is all-auspicious.",
+   "uncertainties": [
+    "number of hands"
+   ],
+   "plain_english": "Holding a book and a boon in her hands, all-auspicious."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "kulāsane",
+     "gloss": "in-kula-seat",
+     "grounds": "locative seat",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "halakṣārṇamadhye",
+     "gloss": "h-lakṣa-letters-middle",
+     "grounds": "middle of h-lakṣa letters",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tadvidyayānvite",
+     "gloss": "with-that-vidyā",
+     "grounds": "endowed with that vidyā",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Where is the vidyā placed among the letters?",
+   "premises": [
+    "it is in the kula seat",
+    "it is in the middle of h-lakṣa letters",
+    "it is endowed with that vidyā"
+   ],
+   "inference": "The vidyā is placed in the kula seat, in the middle of the h-lakṣa letters, endowed with that vidyā.",
+   "uncertainties": [
+    "halakṣārṇa exact set"
+   ],
+   "plain_english": "In the kula seat, in the middle of the h-lakṣa letters, endowed with that vidyā."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "dakṣiṇordhvādi",
+     "gloss": "right-upward-etc",
+     "grounds": "right upward etc",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmādharāntaṃ",
+     "gloss": "left-downward-end",
+     "grounds": "left downward end",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhāryāṇi",
+     "gloss": "to-be-held",
+     "grounds": "gerundive",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "pārśvakrameṇa",
+     "gloss": "side-order",
+     "grounds": "side order",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root kalp"
+    }
+   ],
+   "question": "How should the held items be arranged from right to left?",
+   "premises": [
+    "right upward is the start",
+    "left downward is the end",
+    "arrangement is by side order"
+   ],
+   "inference": "The items to be held should be arranged from right upward to left downward in side order.",
+   "uncertainties": [
+    "exact items"
+   ],
+   "plain_english": "From right upward to left downward, the items to be held should be arranged in side order."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative middle",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "trikoṇakoṇeṣu",
+     "gloss": "triangle-corners",
+     "grounds": "locative plural corners",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "ratiprītimanobhavān",
+     "gloss": "rati-prīti-manobhava",
+     "grounds": "rati prīti manobhava",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "What is placed in the middle and triangle corners?",
+   "premises": [
+    "the middle is specified",
+    "triangle corners are specified",
+    "rati prīti and manobhava are named"
+   ],
+   "inference": "Rati, prīti, and manobhava are placed in the middle and triangle corners.",
+   "uncertainties": [
+    "exact placement distribution"
+   ],
+   "plain_english": "In the middle and triangle corners: rati, prīti, and manobhava."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "caturasre",
+     "gloss": "in-square",
+     "grounds": "locative square",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "lokapālān",
+     "gloss": "world-guardians",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root arc"
+    }
+   ],
+   "question": "What should be worshipped in the square as before?",
+   "premises": [
+    "the square is specified",
+    "world guardians are named",
+    "powers are named"
+   ],
+   "inference": "In the square, world guardians and powers should be worshipped as before.",
+   "uncertainties": [
+    "exact guardian list"
+   ],
+   "plain_english": "In the square, world guardians and powers should be worshipped as before."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "balidvayaṃ",
+     "gloss": "two-offerings",
+     "grounds": "two offerings",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "homa",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "neuter accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samunnayet",
+     "gloss": "should-raise",
+     "grounds": "optative",
+     "morph": "verb.3.sg.opt.act root unnī"
+    }
+   ],
+   "question": "What offerings and homa should be raised as before?",
+   "premises": [
+    "two offerings are named",
+    "homa is named",
+    "other items are raised"
+   ],
+   "inference": "Two offerings and homa, along with other items, should be raised as before.",
+   "uncertainties": [
+    "anyat scope"
+   ],
+   "plain_english": "Two offerings and homa, and other items, should be raised as before."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "brāhmīrasavacādugdhe",
+     "gloss": "brāhmī-rasa-vacā-milk",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "śṛtaṃ",
+     "gloss": "boiled",
+     "grounds": "past participle",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarpis",
+     "gloss": "ghee",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tribhirdinaiḥ",
+     "gloss": "three-days",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl.n"
+    }
+   ],
+   "question": "How is ghee prepared with brāhmī rasa vacā and milk?",
+   "premises": [
+    "brāhmī rasa vacā and milk are named",
+    "ghee is boiled",
+    "three days are specified"
+   ],
+   "inference": "Ghee is boiled with brāhmī rasa, vacā, and milk over three days.",
+   "uncertainties": [
+    "exact preparation"
+   ],
+   "plain_english": "Ghee boiled with brāhmī rasa, vacā, and milk for three days."
+  }
+ ]
+}

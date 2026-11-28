@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "mithyā+jñāna+vikalpyānāṃ",
+     "gloss": "of-false-knowledge-imaginations",
+     "grounds": "genitive plural of a compound denoting things constructed or imagined through false knowledge",
+     "morph": "compound: mithyā+false, jñāna+knowledge, vikalpya+imagined; gen.pl.n"
+    },
+    {
+     "surface": "sattvaṃ",
+     "gloss": "being",
+     "grounds": "denotes existence or reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cid+vyakti+śaktatā",
+     "gloss": "consciousness-manifestation-capability",
+     "grounds": "compound expressing the capacity or power for the manifestation of consciousness",
+     "morph": "compound: cit+consciousness, vyakti+manifestation, śaktatā+capability; f.nom.sg"
+    }
+   ],
+   "question": "What constitutes the reality of entities constructed by false knowledge?",
+   "premises": [
+    "Entities can be constructed through false knowledge and imagination.",
+    "Such imagined entities are not denied all being.",
+    "Their being consists in the capacity for consciousness to manifest."
+   ],
+   "inference": "Therefore, even falsely imagined entities have reality only as expressions of consciousness's power of manifestation.",
+   "uncertainties": [
+    "Whether sattvaṃ is to be taken as mere apparent existence or as grounded reality within consciousness is not fully explicit."
+   ],
+   "plain_english": "The being of things imagined through false knowledge is nothing other than the capacity for consciousness to manifest."
+  }
+ ]
+}

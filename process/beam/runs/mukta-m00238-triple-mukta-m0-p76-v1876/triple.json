@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1876,
+   "rows": [
+    {
+     "surface": "lokaprasiddhaḥ",
+     "gloss": "world-famous",
+     "grounds": "compound lokaprasiddha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaphavān",
+     "gloss": "phlegmatic",
+     "grounds": "kapha + vān",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadānyaḥ",
+     "gloss": "generous",
+     "grounds": "vadānya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrāvaṇe",
+     "gloss": "in-śrāvaṇa",
+     "grounds": "locative month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṇyaguṇaiḥ",
+     "gloss": "with-merit-qualities",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sapūrṇaḥ",
+     "gloss": "full",
+     "grounds": "sa + pūrṇa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize a person born in the month Śrāvaṇa?",
+   "premises": [
+    "The verse lists world-famous phlegmatic generous traits.",
+    "It places them in Śrāvaṇa with merit qualities.",
+    "It calls the person full."
+   ],
+   "inference": "A Śrāvaṇa-born person is world-famous, phlegmatic, generous, and full of merit qualities.",
+   "uncertainties": [
+    "Exact astrological mapping is not stated."
+   ],
+   "plain_english": "A person born in Śrāvaṇa is world-famous, phlegmatic, generous, and full of merit qualities."
+  },
+  {
+   "verse": 1877,
+   "rows": [
+    {
+     "surface": "sukhaiḥ",
+     "gloss": "with-pleasures",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkhaiḥ",
+     "gloss": "with-pains",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vikṛtaḥ",
+     "gloss": "changed",
+     "grounds": "vikṛta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "martyaḥ",
+     "gloss": "mortal",
+     "grounds": "martya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhūrtaḥ",
+     "gloss": "cunning",
+     "grounds": "dhūrta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū root",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhādrapade",
+     "gloss": "in-bhādrapada",
+     "grounds": "locative month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sujanmā",
+     "gloss": "good-born",
+     "grounds": "su + janman",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to a mortal born in Bhādrapada?",
+   "premises": [
+    "The verse says a mortal becomes changed by pleasures and pains.",
+    "It calls him cunning.",
+    "It names Bhādrapada and good birth."
+   ],
+   "inference": "A mortal born in Bhādrapada becomes changed by pleasures and pains and is cunning.",
+   "uncertainties": [
+    "Whether 'good-born' modifies the person or birth is ambiguous."
+   ],
+   "plain_english": "A mortal born in Bhādrapada is changed by pleasures and pains and becomes cunning."
+  },
+  {
+   "verse": 1878,
+   "rows": [
+    {
+     "surface": "dātā",
+     "gloss": "giver",
+     "grounds": "dātṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇajñaḥ",
+     "gloss": "virtue-knower",
+     "grounds": "guṇa + jña",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahuputrasaṃtatiḥ",
+     "gloss": "many-sons-progeny",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "as root",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "āśvine",
+     "gloss": "in-āśvina",
+     "grounds": "locative month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aśvādi",
+     "gloss": "horse-etc",
+     "grounds": "aśva + ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samṛddhibhājī",
+     "gloss": "prosperity-possessor",
+     "grounds": "samṛddhi + bhāj",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits belong to one born in Āśvina?",
+   "premises": [
+    "The verse says he becomes a giver and virtue-knower.",
+    "It mentions many sons and progeny.",
+    "It adds horse etc and prosperity possession."
+   ],
+   "inference": "One born in Āśvina becomes a giver, virtue-knower, with many sons, and possessor of prosperity including horses.",
+   "uncertainties": [
+    "'aśvādi' scope is not fully specified."
+   ],
+   "plain_english": "One born in Āśvina becomes a giver, knower of virtue, with many sons, and possessor of prosperity including horses."
+  },
+  {
+   "verse": 1879,
+   "rows": [
+    {
+     "surface": "kāmam",
+     "gloss": "desire",
+     "grounds": "kāma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "kāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krayavikrayārtha",
+     "gloss": "buy-sell-purpose",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satkāryakṛt",
+     "gloss": "good-deed-doer",
+     "grounds": "sat + kārya + kṛt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārtikajāta",
+     "gloss": "kārtika-born",
+     "grounds": "kārtika + jāta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "janmā",
+     "gloss": "birth",
+     "grounds": "janman",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said about one born in Kārtika?",
+   "premises": [
+    "The verse mentions desire and buy-sell purpose.",
+    "It calls him a doer of good deeds.",
+    "It names Kārtika-born birth."
+   ],
+   "inference": "One born in Kārtika is associated with desire, trade purpose, and good deeds.",
+   "uncertainties": [
+    "The phrase 'kāmam sa kāmaḥ' is obscure."
+   ],
+   "plain_english": "One born in Kārtika is linked with desire, trade, and doing good deeds."
+  },
+  {
+   "verse": 1880,
+   "rows": [
+    {
+     "surface": "paropakarttā",
+     "gloss": "others-helper",
+     "grounds": "para + upakartṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhṛtasādhumārgaḥ",
+     "gloss": "holding-good-path",
+     "grounds": "dhṛta + sādhu + mārga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgodbhavaḥ",
+     "gloss": "path-born",
+     "grounds": "mārga + udbhava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhavaiḥ",
+     "gloss": "with-wealths",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sametaḥ",
+     "gloss": "accompanied",
+     "grounds": "sam + ita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marks one born on the path in Mārgaśīrṣa?",
+   "premises": [
+    "The verse calls him helper of others.",
+    "It says he holds the good path.",
+    "It says he is accompanied by wealths."
+   ],
+   "inference": "One born on the path is a helper of others, holds the good path, and is accompanied by wealths.",
+   "uncertainties": [
+    "Month name is implied by mārga, not explicit."
+   ],
+   "plain_english": "One born on the path helps others, holds the good path, and is accompanied by wealth."
+  },
+  {
+   "verse": 1881,
+   "rows": [
+    {
+     "surface": "suguptamaṃtraḥ",
+     "gloss": "well-hidden-mantra",
+     "grounds": "su + gupta + mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtaśāstrayuktaḥ",
+     "gloss": "done-science-joined",
+     "grounds": "kṛta + śāstra + yukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pauṣeviśeṣī",
+     "gloss": "in-pauṣa-special",
+     "grounds": "pauṣa + viśeṣin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "person",
+     "grounds": "puruṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalāvān",
+     "gloss": "skilled",
+     "grounds": "kalā + vān",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities mark a person born in Pauṣa?",
+   "premises": [
+    "The verse says he has well-hidden mantra.",
+    "It says he is joined with done science.",
+    "It calls him special in Pauṣa and skilled."
+   ],
+   "inference": "A person born in Pauṣa has hidden mantra, science, and skill.",
+   "uncertainties": [
+    "'kṛtaśāstra' may mean completed science."
+   ],
+   "plain_english": "A person born in Pauṣa has hidden mantra, science, and skill."
+  },
+  {
+   "verse": 1882,
+   "rows": [
+    {
+     "surface": "buddherviśeṣāt",
+     "gloss": "by-intellect-distinction",
+     "grounds": "buddhi + viśeṣa + ablative",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "vijitārisaṃghaḥ",
+     "gloss": "conquered-enemy-host",
+     "grounds": "vijita + ari + saṃgha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māghodbhavaḥ",
+     "gloss": "māgha-born",
+     "grounds": "māgha + udbhava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "as root",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "anaghaḥ",
+     "gloss": "sinless",
+     "grounds": "an + agha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuṣyaḥ",
+     "gloss": "man",
+     "grounds": "manuṣya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said of one born in Māgha?",
+   "premises": [
+    "The verse says by intellect distinction he conquers enemy host.",
+    "It says he becomes sinless man.",
+    "It names Māgha-born."
+   ],
+   "inference": "One born in Māgha becomes a sinless man who conquers enemies by intellect.",
+   "uncertainties": [
+    "'buddherviśeṣāt' could mean by special intellect."
+   ],
+   "plain_english": "One born in Māgha becomes a sinless man who conquers enemies by intellect."
+  },
+  {
+   "verse": 1883,
+   "rows": [
+    {
+     "surface": "vilāsinīkelividhānaśīlaḥ",
+     "gloss": "pleasure-woman-play-conduct-natured",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phālgune",
+     "gloss": "in-phālguna",
+     "grounds": "locative month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "phalguvacaḥ",
+     "gloss": "trivial-speech",
+     "grounds": "phalgu + vacas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vilāsaḥ",
+     "gloss": "sport",
+     "grounds": "vilāsa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What characterizes one born in Phālguna?",
+   "premises": [
+    "The verse describes pleasure-woman-play conduct.",
+    "It places it in Phālguna.",
+    "It mentions trivial speech and sport."
+   ],
+   "inference": "One born in Phālguna is natured toward pleasure-woman play, trivial speech, and sport.",
+   "uncertainties": [
+    "The compound is dense and may be parsed differently."
+   ],
+   "plain_english": "One born in Phālguna is inclined to pleasure, woman-play, trivial speech, and sport."
+  },
+  {
+   "verse": 1884,
+   "rows": [
+    {
+     "surface": "pūjāḥ",
+     "gloss": "worships",
+     "grounds": "pūjā",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "krama + ena",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māseṣu",
+     "gloss": "in-months",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sarvasaṃpatsamṛddhaye",
+     "gloss": "all-prosperity-increase",
+     "grounds": "dative purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why are worships performed in order in the months?",
+   "premises": [
+    "The verse says worships in order in months.",
+    "It gives purpose all prosperity increase.",
+    "It is a ritual instruction."
+   ],
+   "inference": "Worships are performed in order in the months for increase of all prosperity.",
+   "uncertainties": [
+    "Which deities or months are not specified here."
+   ],
+   "plain_english": "Worships are performed in order in the months for the increase of all prosperity."
+  },
+  {
+   "verse": 1885,
+   "rows": [
+    {
+     "surface": "eṣām",
+     "gloss": "of-these",
+     "grounds": "pronoun genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "lakṣaṇāni",
+     "gloss": "marks",
+     "grounds": "lakṣaṇa",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "keśavādi",
+     "gloss": "keśava-etc",
+     "grounds": "keśava + ādi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturviśatimūrti",
+     "gloss": "twenty-four-forms",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ni",
+     "gloss": "ni",
+     "grounds": "prefix",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the marks of these twenty-four forms like Keśava?",
+   "premises": [
+    "The verse says marks of these.",
+    "It names Keśava etc.",
+    "It says twenty-four forms like."
+   ],
+   "inference": "The marks of these are like those of the twenty-four forms beginning with Keśava.",
+   "uncertainties": [
+    "'ni' is an incomplete or editorial token."
+   ],
+   "plain_english": "The marks of these are like those of the twenty-four forms beginning with Keśava."
+  },
+  {
+   "verse": 1886,
+   "rows": [
+    {
+     "surface": "kapālābhayahasta",
+     "gloss": "skull-fearless-hand",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "her",
+     "grounds": "pronoun genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ekavaktrā",
+     "gloss": "one-face",
+     "grounds": "eka + vaktra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karālikā",
+     "gloss": "terrible",
+     "grounds": "karāla + kā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form is described with skull and fearless hand?",
+   "premises": [
+    "The verse says skull-fearless-hand.",
+    "It says her one-faced.",
+    "It calls her terrible."
+   ],
+   "inference": "The described form has skull and fearless hand, one face, and is terrible.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "The described form has skull and fearless hand, one face, and is terrible."
+  },
+  {
+   "verse": 1887,
+   "rows": [
+    {
+     "surface": "raktavarṇā",
+     "gloss": "red-colored",
+     "grounds": "rakta + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is this form?",
+   "premises": [
+    "The verse gives one color term.",
+    "It is red-colored.",
+    "No further attributes are stated."
+   ],
+   "inference": "This form is red-colored.",
+   "uncertainties": [
+    "Which form is referenced depends on context."
+   ],
+   "plain_english": "This form is red-colored."
+  },
+  {
+   "verse": 1888,
+   "rows": [
+    {
+     "surface": "śvetavarṇā",
+     "gloss": "white-colored",
+     "grounds": "śveta + varṇa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāghorā",
+     "gloss": "very-terrible",
+     "grounds": "mahā + ghora",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kapālābhayasaṃyutā",
+     "gloss": "skull-fearless-joined",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attributes belong to this white-colored form?",
+   "premises": [
+    "The verse says white-colored.",
+    "It says very terrible.",
+    "It says joined with skull and fearlessness."
+   ],
+   "inference": "This white-colored form is very terrible and joined with skull and fearlessness.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "This white-colored form is very terrible and joined with skull and fearlessness."
+  },
+  {
+   "verse": 1889,
+   "rows": [
+    {
+     "surface": "śvetavarṇā",
+     "gloss": "white-colored",
+     "grounds": "śveta + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is this form?",
+   "premises": [
+    "The verse gives one color term.",
+    "It is white-colored.",
+    "No further attributes are stated."
+   ],
+   "inference": "This form is white-colored.",
+   "uncertainties": [
+    "Which form is referenced depends on context."
+   ],
+   "plain_english": "This form is white-colored."
+  },
+  {
+   "verse": 1890,
+   "rows": [
+    {
+     "surface": "abhayam",
+     "gloss": "fearlessness",
+     "grounds": "abhaya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapālam",
+     "gloss": "skull",
+     "grounds": "kapāla",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhānā",
+     "gloss": "holding",
+     "grounds": "dhā root participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekamukhī",
+     "gloss": "one-faced",
+     "grounds": "eka + mukha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "śubha",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does this one-faced auspicious form hold?",
+   "premises": [
+    "The verse says fearlessness and skull.",
+    "It says holding.",
+    "It says one-faced and auspicious."
+   ],
+   "inference": "This one-faced auspicious form holds fearlessness and skull.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "This one-faced auspicious form holds fearlessness and skull."
+  },
+  {
+   "verse": 1891,
+   "rows": [
+    {
+     "surface": "pāṭalāṃgī",
+     "gloss": "pale-bodied",
+     "grounds": "pāṭala + aṅga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvihastā",
+     "gloss": "two-handed",
+     "grounds": "dvi + hasta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapālābhayadhāriṇī",
+     "gloss": "skull-fearless-holder",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form is pale-bodied and two-handed?",
+   "premises": [
+    "The verse says pale-bodied.",
+    "It says two-handed.",
+    "It says holder of skull and fearlessness."
+   ],
+   "inference": "The form is pale-bodied, two-handed, and holds skull and fearlessness.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "The form is pale-bodied, two-handed, and holds skull and fearlessness."
+  },
+  {
+   "verse": 1892,
+   "rows": [
+    {
+     "surface": "pāṭalavarṇā",
+     "gloss": "pale-colored",
+     "grounds": "pāṭala + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is this form?",
+   "premises": [
+    "The verse gives one color term.",
+    "It is pale-colored.",
+    "No further attributes are stated."
+   ],
+   "inference": "This form is pale-colored.",
+   "uncertainties": [
+    "Which form is referenced depends on context."
+   ],
+   "plain_english": "This form is pale-colored."
+  },
+  {
+   "verse": 1893,
+   "rows": [
+    {
+     "surface": "jihmikā",
+     "gloss": "crooked",
+     "grounds": "jihma + kā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siṃhasaṃkrāntiḥ",
+     "gloss": "lion-transit",
+     "grounds": "siṃha + saṃkrānti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekavaktrā",
+     "gloss": "one-faced",
+     "grounds": "eka + vaktra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasīdatu",
+     "gloss": "be-gracious",
+     "grounds": "pra + sad root",
+     "morph": "3.sg.act.imp"
+    }
+   ],
+   "question": "What is requested of the crooked lion-transit form?",
+   "premises": [
+    "The verse names crooked lion-transit.",
+    "It says one-faced.",
+    "It asks be gracious."
+   ],
+   "inference": "The crooked one-faced lion-transit form is asked to be gracious.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "The crooked one-faced lion-transit form is asked to be gracious."
+  },
+  {
+   "verse": 1894,
+   "rows": [
+    {
+     "surface": "raktavarṇā",
+     "gloss": "red-colored",
+     "grounds": "rakta + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is this form?",
+   "premises": [
+    "The verse gives one color term.",
+    "It is red-colored.",
+    "No further attributes are stated."
+   ],
+   "inference": "This form is red-colored.",
+   "uncertainties": [
+    "Which form is referenced depends on context."
+   ],
+   "plain_english": "This form is red-colored."
+  },
+  {
+   "verse": 1895,
+   "rows": [
+    {
+     "surface": "siṃhikānāma",
+     "gloss": "simhika-named",
+     "grounds": "siṃhikā + nāma",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "known",
+     "grounds": "vi + jñā root",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kapālābhayaśobhitā",
+     "gloss": "skull-fearless-adorned",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the Simhika-named form known?",
+   "premises": [
+    "The verse says Simhika-named.",
+    "It says known.",
+    "It says adorned with skull and fearlessness."
+   ],
+   "inference": "The Simhika-named form is known as adorned with skull and fearlessness.",
+   "uncertainties": [
+    "Whether 'vijñeyā' is passive or adjectival is unclear."
+   ],
+   "plain_english": "The Simhika-named form is known as adorned with skull and fearlessness."
+  },
+  {
+   "verse": 1896,
+   "rows": [
+    {
+     "surface": "mukhekṛṣṇavarṇā",
+     "gloss": "face-black-colored",
+     "grounds": "mukha + kṛṣṇa + varṇa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deheraktavarṇā",
+     "gloss": "body-red-colored",
+     "grounds": "deha + rakta + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What colors are assigned to face and body?",
+   "premises": [
+    "The verse says face black-colored.",
+    "It says body red-colored.",
+    "It gives a two-part color description."
+   ],
+   "inference": "The face is black-colored and the body is red-colored.",
+   "uncertainties": [
+    "Deity identity is not named in this verse."
+   ],
+   "plain_english": "The face is black-colored and the body is red-colored."
+  },
+  {
+   "verse": 1897,
+   "rows": [
+    {
+     "surface": "maṃdātriṇetrasahitā",
+     "gloss": "slow-three-eyed-with",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kapālābhayadhāriṇī",
+     "gloss": "skull-fearless-holder",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attributes are given to this form?",
+   "premises": [
+    "The verse says slow three-eyed with.",
+    "It says holder of skull and fearlessness.",
+    "It gives a two-part description."
+   ],
+   "inference": "This form is slow, three-eyed, and holds skull and fearlessness.",
+   "uncertainties": [
+    "'maṃdātri' parsing is uncertain."
+   ],
+   "plain_english": "This form is slow, three-eyed, and holds skull and fearlessness."
+  },
+  {
+   "verse": 1898,
+   "rows": [
+    {
+     "surface": "nīlavarṇā",
+     "gloss": "blue-colored",
+     "grounds": "nīla + varṇa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is this form?",
+   "premises": [
+    "The verse gives one color term.",
+    "It is blue-colored.",
+    "No further attributes are stated."
+   ],
+   "inference": "This form is blue-colored.",
+   "uncertainties": [
+    "Which form is referenced depends on context."
+   ],
+   "plain_english": "This form is blue-colored."
+  },
+  {
+   "verse": 1899,
+   "rows": [
+    {
+     "surface": "kapālaśaktihasta",
+     "gloss": "skull-shakti-hand",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkrāntiḥ",
+     "gloss": "transit",
+     "grounds": "saṃkrānti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛścikābhidhā",
+     "gloss": "scorpion-named",
+     "grounds": "vṛścika + abhidhā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the scorpion-named transit form said to hold?",
+   "premises": [
+    "The verse says skull-shakti-hand.",
+    "It says transit.",
+    "It says scorpion-named."
+   ],
+   "inference": "The scorpion-named transit form holds skull and shakti in hand.",
+   "uncertainties": [
+    "Whether 'ca' connects additional unlisted attributes is unclear."
+   ],
+   "plain_english": "The scorpion-named transit form holds skull and shakti in hand."
+  }
+ ]
+}

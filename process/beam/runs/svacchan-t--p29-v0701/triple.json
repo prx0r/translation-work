@@ -1,0 +1,479 @@
+{
+ "song": "sva-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "valī",
+     "gloss": "wrinkles",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhāvaḥ",
+     "gloss": "absence",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What marks the absence of wrinkles and gray hair?",
+   "premises": [
+    "wrinkles are absent",
+    "gray hair is absent"
+   ],
+   "inference": "The verse names absence of aging signs.",
+   "uncertainties": [
+    "context not supplied"
+   ],
+   "plain_english": "Wrinkles, gray hair, and so on are absent."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-stated",
+     "grounds": "compound sense",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "uttaraviṣuvat",
+     "gloss": "northern-equinox",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "lexical sense",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "viṣuvatkāla",
+     "gloss": "equinox-time",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the other equinox time explained?",
+   "premises": [
+    "previous statement is recalled",
+    "another equinox time is named"
+   ],
+   "inference": "The verse glosses another equinox time.",
+   "uncertainties": [
+    "exact astronomical referent unclear"
+   ],
+   "plain_english": "The previously stated northern equinox is another equinox time, thus the meaning."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇavṛttim",
+     "gloss": "breath-activity",
+     "grounds": "compound sense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrayati",
+     "gloss": "resorts-to",
+     "grounds": "verbal root",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does breath activity resort to again?",
+   "premises": [
+    "breath activity is mentioned",
+    "resorting occurs again"
+   ],
+   "inference": "The verse states breath activity is resorted to again.",
+   "uncertainties": [
+    "object of resorting implicit"
+   ],
+   "plain_english": "Again, breath activity is resorted to, thus the meaning."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvam",
+     "gloss": "life",
+     "grounds": "lexical sense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What lasts as long as life?",
+   "premises": [
+    "duration is tied to life",
+    "meaning is stated"
+   ],
+   "inference": "The verse gives life as the duration limit.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "As long as life, thus the meaning."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "tatrasthaḥ",
+     "gloss": "there-abiding",
+     "grounds": "compound sense",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japadhyānāt",
+     "gloss": "from-japa-and-meditation",
+     "grounds": "compound sense",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mokṣasiddhim",
+     "gloss": "liberation-perfection",
+     "grounds": "compound sense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "verbal root",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What does one abiding there obtain?",
+   "premises": [
+    "one abides there",
+    "japa and meditation are practiced"
+   ],
+   "inference": "The verse promises liberation perfection through japa and meditation.",
+   "uncertainties": [
+    "agent unspecified"
+   ],
+   "plain_english": "One abiding there indeed obtains liberation perfection from japa and meditation."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "verbal root",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "it",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of liberation?",
+   "premises": [
+    "liberation is stated",
+    "meaning is given"
+   ],
+   "inference": "The verse explains that one is liberated.",
+   "uncertainties": [
+    "referent of tad unclear"
+   ],
+   "plain_english": "One is liberated, thus the meaning; it."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "num.nom.pl"
+    },
+    {
+     "surface": "caitrādayaḥ",
+     "gloss": "caitra-etc",
+     "grounds": "compound sense",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "abdamāsasamānasamākhyāḥ",
+     "gloss": "year-month-equal-named",
+     "grounds": "compound sense",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "What twelve items are named there?",
+   "premises": [
+    "twelve are counted",
+    "caitra and others are named"
+   ],
+   "inference": "The verse names twelve year-month equals.",
+   "uncertainties": [
+    "full list omitted"
+   ],
+   "plain_english": "There, twelve, beginning with Caitra, are named as year-month equals."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "tadādi",
+     "gloss": "beginning-there",
+     "grounds": "compound sense",
+     "morph": "adv"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitranāmānam",
+     "gloss": "caitra-named",
+     "grounds": "compound sense",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "saṃvatsaramādibhūtaṃ",
+     "gloss": "year-beginning-made",
+     "grounds": "compound sense",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "verbal participle",
+     "morph": "v.abs"
+    }
+   ],
+   "question": "How is the Caitra-named year beginning made?",
+   "premises": [
+    "beginning there is stated",
+    "Caitra-named year beginning is made"
+   ],
+   "inference": "The verse describes making the Caitra-named year beginning.",
+   "uncertainties": [
+    "ritual context implicit"
+   ],
+   "plain_english": "Beginning there, thus, having made the Caitra-named year beginning."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "māsadvayam",
+     "gloss": "two-months",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "lexical sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "is",
+     "grounds": "verbal root",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What is the meaning of two months?",
+   "premises": [
+    "two months are stated",
+    "meaning is given"
+   ],
+   "inference": "The verse states two months as the meaning.",
+   "uncertainties": [
+    "referent implicit"
+   ],
+   "plain_english": "Two months, thus the meaning, is."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "yadvat",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgulakalanayā",
+     "gloss": "six-finger-measurement",
+     "grounds": "compound sense",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalanayā",
+     "gloss": "calculation",
+     "grounds": "lexical sense",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How is the six-finger measurement used?",
+   "premises": [
+    "comparison is introduced",
+    "six-finger measurement is used"
+   ],
+   "inference": "The verse compares by six-finger measurement and calculation.",
+   "uncertainties": [
+    "compared object omitted"
+   ],
+   "plain_english": "As, thus, by six-finger measurement and calculation."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭyabdodaye",
+     "gloss": "at-sixty-year-rise",
+     "grounds": "compound sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varṣamānam",
+     "gloss": "year-measure",
+     "grounds": "compound sense",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "verbal participle",
+     "morph": "v.past.part"
+    }
+   ],
+   "question": "What is stated at the sixty-year rise?",
+   "premises": [
+    "sixty-year rise is named",
+    "year measure is stated"
+   ],
+   "inference": "The verse states year measure at the sixty-year rise.",
+   "uncertainties": [
+    "exact measure omitted"
+   ],
+   "plain_english": "Thus, at the sixty-year rise, year measure is stated."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "bāhyāhorātragataprāṇacārasaṃkhyāḥ",
+     "gloss": "external-day-night-going-breath-movement-numbers",
+     "grounds": "compound sense",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What numbers are named in this compound?",
+   "premises": [
+    "external day-night movement is named",
+    "breath movement numbers are named"
+   ],
+   "inference": "The verse names numbers of external day-night breath movement.",
+   "uncertainties": [
+    "numerical values omitted"
+   ],
+   "plain_english": "Numbers of external day-night going breath movement."
+  }
+ ]
+}

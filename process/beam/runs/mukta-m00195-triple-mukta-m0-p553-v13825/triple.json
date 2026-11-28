@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p553",
+ "items": [
+  {
+   "verse": 13825,
+   "rows": [
+    {
+     "surface": "tat+bahiḥ",
+     "gloss": "outside-that",
+     "grounds": "tat (that) + bahiḥ (outside); indicates the region external to the previously described figure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa+dalam",
+     "gloss": "sixteen-petalled",
+     "grounds": "ṣoḍaśa (sixteen) + dala (petal); describes a lotus-form to be drawn",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "keśareṣu",
+     "gloss": "in-filaments",
+     "grounds": "locative specifying where the vowels are to be written",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "svarān",
+     "gloss": "vowels",
+     "grounds": "object of writing; the vowel sounds",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive instruction for inscribing the diagram",
+     "morph": "3.sg.opt.act (√likh)"
+    }
+   ],
+   "question": "What diagrammatic form and syllabic contents must be inscribed outside the previously established mantra arrangement?",
+   "premises": [
+    "The instruction directs action to the region outside the prior structure.",
+    "A sixteen-petalled form is specified for that outer region.",
+    "The vowels are designated to be written in the filaments."
+   ],
+   "inference": "The ritual diagram is expanded outward by adding a sixteen-petalled lotus whose filaments bear the inscribed vowels.",
+   "uncertainties": [
+    "The exact referent of 'that' depends on the immediately preceding diagrammatic layout."
+   ],
+   "plain_english": "Outside that, one should draw a sixteen-petalled lotus and write the vowels in its filaments."
+  }
+ ]
+}

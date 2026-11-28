@@ -1,0 +1,547 @@
+{
+ "song": "kjn-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "perfect participle of pūj",
+     "morph": "verb.3.sg.act-participle"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "noun cakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "noun dhyāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayuñjati",
+     "gloss": "one-applies",
+     "grounds": "root prayuj present",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What occurs while one worships this circle and applies meditation?",
+   "premises": [
+    "worship of this circle is performed",
+    "meditation is applied during that worship"
+   ],
+   "inference": "the verse describes the concurrent practice and its result",
+   "uncertainties": [],
+   "plain_english": "Having worshipped this circle, one applies meditation as long as the worship continues."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "bhāṣās",
+     "gloss": "languages",
+     "grounds": "noun bhāṣā feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vividhākārā",
+     "gloss": "of-various-forms",
+     "grounds": "adjective vividhākāra",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aśrutāni",
+     "gloss": "unheard",
+     "grounds": "past participle aśruta neuter plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śrutāni",
+     "gloss": "heard",
+     "grounds": "past participle śruta neuter plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of languages arise in this practice?",
+   "premises": [
+    "languages are of various forms",
+    "some are unheard and some are heard"
+   ],
+   "inference": "the practice yields diverse languages, both unheard and heard",
+   "uncertainties": [],
+   "plain_english": "Languages of various forms, both unheard and heard, arise."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "by-oneself",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanā",
+     "gloss": "by-oneself",
+     "grounds": "noun ātman instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ātmane",
+     "gloss": "to-oneself",
+     "grounds": "noun ātman dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "root śru passive present",
+     "morph": "verb.3.sg.pass-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-oneself",
+     "grounds": "noun ātman locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ātmanā",
+     "gloss": "by-oneself",
+     "grounds": "noun ātman instrumental",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How are these languages heard and by whom?",
+   "premises": [
+    "one hears by oneself",
+    "one hears to oneself",
+    "one hears in oneself by oneself"
+   ],
+   "inference": "the hearing is self-originated and self-directed within the self",
+   "uncertainties": [],
+   "plain_english": "By oneself indeed, by oneself to oneself, it is heard; and in oneself by oneself."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "balīpalitanirmuktaḥ",
+     "gloss": "wrinkle-grey-hair-freed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmadevaḥ",
+     "gloss": "god-of-love",
+     "grounds": "noun kāmadeva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyakaḥ",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformation is described for the practitioner?",
+   "premises": [
+    "one becomes freed from wrinkles and grey hair",
+    "one becomes a second god of love"
+   ],
+   "inference": "the practice rejuvenates and transforms the practitioner",
+   "uncertainties": [],
+   "plain_english": "Freed from wrinkles and grey hair, one becomes a second god of love."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "vāyvādeḥ",
+     "gloss": "wind-and-so-forth",
+     "grounds": "genitive of vāyu-ādi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "one-should-destroy",
+     "grounds": "causative optative of naś",
+     "morph": "verb.3.sg.caus-opt"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "by-speech",
+     "grounds": "noun vāc instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mūkavat",
+     "gloss": "like-a-mute",
+     "grounds": "indeclinable comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhate",
+     "gloss": "stands",
+     "grounds": "root sthā middle present",
+     "morph": "verb.3.sg.mid-pres"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun sa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does speech gain over wind and similar forces?",
+   "premises": [
+    "one should destroy wind and so forth by speech",
+    "he stands like a mute"
+   ],
+   "inference": "speech becomes a force that can nullify elemental powers",
+   "uncertainties": [],
+   "plain_english": "One should destroy wind and so forth by speech; indeed he stands like a mute."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "noun cakra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative deveśī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sainyastambhakaraṃ",
+     "gloss": "army-paralyzing-making",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective parama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the seventh circle and its power?",
+   "premises": [
+    "the seventh circle is supreme",
+    "it makes armies paralyzed"
+   ],
+   "inference": "the seventh circle has supreme paralyzing power over armies",
+   "uncertainties": [],
+   "plain_english": "O goddess, the seventh circle is supreme and makes armies paralyzed."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "dūrāt",
+     "gloss": "from-afar",
+     "grounds": "ablative of dūra",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "vision",
+     "grounds": "noun darśana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "pronoun tad locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjādhyānaratasya",
+     "gloss": "of-one-devoted-to-worship-and-meditation",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vision arises for one devoted to worship and meditation?",
+   "premises": [
+    "vision arises from afar",
+    "it arises in that circle for one devoted to worship and meditation"
+   ],
+   "inference": "distant vision is granted to the devoted practitioner",
+   "uncertainties": [],
+   "plain_english": "And indeed vision from afar arises in that circle for one devoted to worship and meditation."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "māraṇoccāṭanaṃ",
+     "gloss": "killing-uprooting",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fortunate-one",
+     "grounds": "vocative bhadra feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "stambhamohādikaṃ",
+     "gloss": "paralyzing-deluding-and-so-forth",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative priya feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What powers are associated with this circle?",
+   "premises": [
+    "killing and uprooting are named",
+    "paralyzing, deluding, and so forth are named"
+   ],
+   "inference": "the circle's powers include destructive and deluding operations",
+   "uncertainties": [],
+   "plain_english": "O fortunate one, O beloved, killing, uprooting, paralyzing, deluding, and so forth."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "aṣṭāṣṭakavidhānaṃ",
+     "gloss": "eight-times-eight-method",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "one-succeeds",
+     "grounds": "root sidh present",
+     "morph": "verb.3.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition is required for success in this method?",
+   "premises": [
+    "the eight-times-eight method must be known",
+    "success follows from knowing it",
+    "success does not follow otherwise"
+   ],
+   "inference": "knowledge of the method is necessary for success",
+   "uncertainties": [],
+   "plain_english": "Indeed, having known the eight-times-eight method, one succeeds; not otherwise."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "niḥsandigdhaṃ",
+     "gloss": "without-doubt",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "pronoun aham instrumental",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle pra-vac",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktiyuktyā",
+     "gloss": "with-devotion-and-reasoning",
+     "grounds": "compound instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "avadhāram",
+     "gloss": "ascertainment",
+     "grounds": "noun avadhāra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How has this teaching been declared?",
+   "premises": [
+    "it is declared by me without doubt",
+    "it is declared with devotion and reasoning",
+    "it is ascertainment"
+   ],
+   "inference": "the teaching is presented as certain, reasoned, and devotional",
+   "uncertainties": [],
+   "plain_english": "Indeed, without doubt, by me it is declared with devotion and reasoning as ascertainment."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "candradvīpavinirgate",
+     "gloss": "in-the-Candradvīpa-emerged",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṣṭamaḥ",
+     "gloss": "eighth",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun paṭala",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter follows in the Candradvīpa section?",
+   "premises": [
+    "the eighth chapter is in the Candradvīpa emerged section"
+   ],
+   "inference": "the text moves to the eighth chapter of that section",
+   "uncertainties": [],
+   "plain_english": "In the Candradvīpa emerged section, the eighth chapter."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "yoginīpañktivinyāsaṃ",
+     "gloss": "yoginī-row-arrangement",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "root kath future",
+     "morph": "verb.1.sg.act-fut"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "pronoun yuṣmad genitive",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative priya feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What will be told to the beloved?",
+   "premises": [
+    "the yoginī row arrangement will be told",
+    "it will be told to you, O beloved"
+   ],
+   "inference": "the next topic is the arrangement of yoginī rows",
+   "uncertainties": [],
+   "plain_english": "O beloved, I shall tell you the arrangement of the yoginī rows."
+  }
+ ]
+}

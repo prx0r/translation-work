@@ -1,0 +1,56 @@
+{
+ "song": "kul-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun genitive of yaḥ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ālokanamātreṇa",
+     "gloss": "mere-sight",
+     "grounds": "instrumental of ālokanamātra, sight plus mere",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "passive present third singular of muc",
+     "morph": "3.sg.pass-pres root-muc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By whose mere sight is one liberated here?",
+   "premises": [
+    "mere sight of the guru liberates",
+    "no doubt exists in this matter"
+   ],
+   "inference": "the guru's mere sight liberates without doubt",
+   "uncertainties": [
+    "gender and referent of yasya are contextually inferred"
+   ],
+   "plain_english": "By whose mere sight one is liberated, there is no doubt here."
+  }
+ ]
+}

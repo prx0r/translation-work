@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p198",
+ "items": [
+  {
+   "verse": 4950,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle introducing another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekakālaṃ",
+     "gloss": "at-one-time",
+     "grounds": "compound ekakāla; adverbial accusative of time",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "other-all",
+     "grounds": "compound anyat-sarva; all other things",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worship",
+     "grounds": "causative/optative form of samarcayati",
+     "morph": "3.sg.act.opt. root sam-arc"
+    }
+   ],
+   "question": "May all remaining deities be worshipped together at one time instead?",
+   "premises": [
+    "Alternative worship mode is permitted.",
+    "All other deities may be worshipped together.",
+    "Single-time worship is allowed."
+   ],
+   "inference": "The verse permits worshipping all remaining deities together at one time as an alternative.",
+   "uncertainties": [
+    "Exact ritual scope of 'all other' is not specified.",
+    "Whether ekakālaṃ modifies samarcayet or the whole rite is ambiguous."
+   ],
+   "plain_english": "Or, one may worship all the other deities together at one time."
+  }
+ ]
+}

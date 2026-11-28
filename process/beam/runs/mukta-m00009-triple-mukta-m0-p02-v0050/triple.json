@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "sadāśivāditattvaugho",
+     "gloss": "sadāśiva-and-other-principle-group",
+     "grounds": "compound of sadāśiva, ādi, tattva, and ugha; fused form retained as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityopādānakāraṇaḥ",
+     "gloss": "eternal-material-cause",
+     "grounds": "compound of nitya, upādāna, and kāraṇa; nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is the group of principles beginning with Sadāśiva the eternal material cause?",
+   "premises": [
+    "The verse names a principle group.",
+    "It calls that group eternal material cause.",
+    "The group begins with Sadāśiva."
+   ],
+   "inference": "Therefore the principle group beginning with Sadāśiva is the eternal material cause.",
+   "uncertainties": [
+    "Exact scope of ādi within the compound.",
+    "Whether ugha functions as subject or predicate."
+   ],
+   "plain_english": "The group of principles beginning with Sadāśiva is the eternal material cause."
+  }
+ ]
+}

@@ -1,0 +1,1057 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3426,
+   "rows": [
+    {
+     "surface": "māghamāsasya",
+     "gloss": "of-māgha-month",
+     "grounds": "time specification for the ritual action",
+     "morph": "compound.gen.sg.m"
+    },
+    {
+     "surface": "saptamyāṃ",
+     "gloss": "on-seventh-day",
+     "grounds": "lunar day of the prescribed observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nayet+ca",
+     "gloss": "should-lead-and",
+     "grounds": "injunctive instruction with connective",
+     "morph": "3.sg.opt.act √nī + (indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "southern",
+     "grounds": "qualifies the direction to be taken",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "diśam",
+     "gloss": "direction",
+     "grounds": "object indicating spatial orientation",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "On which date and toward which direction must one proceed in the month of Māgha?",
+   "premises": [
+    "The time is the seventh day of the month of Māgha.",
+    "The prescribed action is to proceed.",
+    "The direction specified is the southern quarter."
+   ],
+   "inference": "On the seventh day of Māgha one should proceed toward the southern direction.",
+   "uncertainties": [],
+   "plain_english": "On the seventh day of the month of Māgha, one should go toward the southern direction."
+  },
+  {
+   "verse": 3427,
+   "rows": [
+    {
+     "surface": "varṣāsu",
+     "gloss": "in-rains",
+     "grounds": "seasonal time frame for the rite",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "caturo",
+     "gloss": "four",
+     "grounds": "number of months in the period",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "māsān",
+     "gloss": "months",
+     "grounds": "duration of the rainy season period",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "lunar day for the observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "divā+āgame",
+     "gloss": "at-day-arrival",
+     "grounds": "time of day when the rite occurs",
+     "morph": "compound.loc.sg.m"
+    }
+   ],
+   "question": "At what seasonal period, lunar day, and time of day is the next rite to be performed?",
+   "premises": [
+    "The period is the four months of the rainy season.",
+    "The lunar day specified is the fourteenth.",
+    "The time specified is the arrival of day."
+   ],
+   "inference": "During the four months of the rains, on the fourteenth day at daytime, the rite is to be performed.",
+   "uncertainties": [
+    "divā+āgame may indicate daytime arrival or a specific daytime occasion"
+   ],
+   "plain_english": "During the four months of the rainy season, on the fourteenth day, at the coming of day, one should perform the rite."
+  },
+  {
+   "verse": 3428,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "injunctive prescribing the ritual act",
+     "morph": "3.sg.opt.act √dṛś-caus"
+    },
+    {
+     "surface": "divya+yānam+ca",
+     "gloss": "divine-vehicle-and",
+     "grounds": "object to be revealed in the rite",
+     "morph": "compound.n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to the ritual place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā+ca",
+     "gloss": "having-seen-and",
+     "grounds": "prior act leading to the result",
+     "morph": "absolutive √dṛś + (indecl.)"
+    },
+    {
+     "surface": "mukti+bhāk",
+     "gloss": "liberation-sharer",
+     "grounds": "result attained by the seer",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "What ritual vision is to be shown and what spiritual result follows from seeing it?",
+   "premises": [
+    "A divine vehicle is to be shown there.",
+    "The participant sees that divine vehicle.",
+    "Seeing it makes one a sharer in liberation."
+   ],
+   "inference": "One should show the divine vehicle there, and whoever sees it attains a share in liberation.",
+   "uncertainties": [],
+   "plain_english": "One should reveal the divine vehicle there; having seen it, one becomes a partaker of liberation."
+  },
+  {
+   "verse": 3429,
+   "rows": [
+    {
+     "surface": "kapilā+śata+dānena",
+     "gloss": "by-gift-of-hundred-brown-cows",
+     "grounds": "comparative meritorious gift",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "yat+phalam",
+     "gloss": "what-fruit",
+     "grounds": "merit or result being compared",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "puṣkare",
+     "gloss": "at-puṣkara",
+     "grounds": "sacred place of the gift",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional declaration of that merit",
+     "morph": "n.nom.sg.ppp √smṛ"
+    }
+   ],
+   "question": "What traditionally remembered merit is gained by giving a hundred brown cows at Puṣkara?",
+   "premises": [
+    "A gift of a hundred brown cows is performed.",
+    "The gift takes place at Puṣkara.",
+    "A specific fruit of that gift is traditionally remembered."
+   ],
+   "inference": "The verse invokes the merit traditionally remembered for giving a hundred brown cows at Puṣkara.",
+   "uncertainties": [],
+   "plain_english": "It recalls the fruit traditionally said to come from giving a hundred brown cows at Puṣkara."
+  },
+  {
+   "verse": 3430,
+   "rows": [
+    {
+     "surface": "kanyā+śata+pradānena",
+     "gloss": "by-gift-of-hundred-maidens",
+     "grounds": "comparative meritorious gift",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative marker of the merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or merit obtained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "makare",
+     "gloss": "in-capricorn",
+     "grounds": "astrological condition of the gift",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ravau",
+     "gloss": "sun",
+     "grounds": "celestial body in that sign",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What merit is associated with giving a hundred maidens when the sun is in Capricorn?",
+   "premises": [
+    "A gift of a hundred maidens is performed.",
+    "The sun is in Capricorn at that time.",
+    "A specific fruit is associated with this gift."
+   ],
+   "inference": "The verse invokes the merit obtained by giving a hundred maidens when the sun is in Capricorn.",
+   "uncertainties": [],
+   "plain_english": "It recalls the fruit gained by giving a hundred maidens when the sun is in Capricorn."
+  },
+  {
+   "verse": 3431,
+   "rows": [
+    {
+     "surface": "vali+dānena",
+     "gloss": "by-offering-gift",
+     "grounds": "ritual offering as source of merit",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "vidhi+vat",
+     "gloss": "according-to-rule",
+     "grounds": "manner conforming to prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat+phalam",
+     "gloss": "what-fruit",
+     "grounds": "merit or result being compared",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "authoritative statement of that merit",
+     "morph": "n.nom.sg.ppp sam-ud-ā-√hṛ"
+    }
+   ],
+   "question": "What merit is declared for making an offering in accordance with prescribed ritual rule?",
+   "premises": [
+    "An offering gift is made.",
+    "The offering is performed according to rule.",
+    "A specific fruit of this act is declared."
+   ],
+   "inference": "The verse invokes the merit declared for making an offering properly according to rule.",
+   "uncertainties": [],
+   "plain_english": "It recalls the fruit declared for giving an offering in the proper prescribed manner."
+  },
+  {
+   "verse": 3432,
+   "rows": [
+    {
+     "surface": "suvarṇa+śata+niṣkena",
+     "gloss": "by-gold-hundred-niṣka",
+     "grounds": "comparative gift measured in gold niṣkas",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "dattena",
+     "gloss": "given",
+     "grounds": "act of giving that gift",
+     "morph": "n.inst.sg.ppp √dā"
+    },
+    {
+     "surface": "yat+phalam",
+     "gloss": "what-fruit",
+     "grounds": "merit or result being compared",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional declaration of that merit",
+     "morph": "n.nom.sg.ppp √smṛ"
+    }
+   ],
+   "question": "What traditionally remembered merit is gained by giving a hundred niṣkas of gold?",
+   "premises": [
+    "A gift of a hundred niṣkas of gold is given.",
+    "A specific fruit is associated with that gift.",
+    "That fruit is traditionally remembered."
+   ],
+   "inference": "The verse invokes the merit traditionally remembered for giving a hundred niṣkas of gold.",
+   "uncertainties": [],
+   "plain_english": "It recalls the fruit traditionally said to come from giving a hundred niṣkas of gold."
+  },
+  {
+   "verse": 3433,
+   "rows": [
+    {
+     "surface": "pañcamyāṃ",
+     "gloss": "on-fifth",
+     "grounds": "lunar day for the observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu+amāvasyāyāṃ",
+     "gloss": "on-new-moon-day-and",
+     "grounds": "additional lunar occasion; sandhi fused in token",
+     "morph": "(indecl.) + f.loc.sg"
+    },
+    {
+     "surface": "daśamyāṃ",
+     "gloss": "on-tenth",
+     "grounds": "another lunar day for the observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "grahaṇeṣu+ca",
+     "gloss": "at-eclipses-and",
+     "grounds": "additional auspicious occasions",
+     "morph": "n.loc.pl + (indecl.)"
+    }
+   ],
+   "question": "On which lunar days and special occasions is the prescribed vision or rite especially effective?",
+   "premises": [
+    "The fifth lunar day is specified.",
+    "The new-moon day and the tenth day are specified.",
+    "Times of eclipses are also included."
+   ],
+   "inference": "The rite or vision is prescribed for the fifth, new-moon, tenth days, and during eclipses.",
+   "uncertainties": [],
+   "plain_english": "This applies on the fifth day, on the new-moon day, on the tenth day, and also during eclipses."
+  },
+  {
+   "verse": 3434,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to the ritual place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of witnessing the sacred object",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "sacred seat or installation seen there",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhānyaṃ",
+     "gloss": "grain",
+     "grounds": "object of the stated effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of the grain affected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "effect produced by the vision",
+     "morph": "3.sg.pres.act √han"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation within emphatic formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from seeing the sacred seat there, and how certain is that consequence?",
+   "premises": [
+    "One sees the seat there.",
+    "Seeing it destroys all grain.",
+    "The text asserts there is no doubt."
+   ],
+   "inference": "Seeing the seat there destroys all grain, without any doubt.",
+   "uncertainties": [
+    "The destructive effect on grain may be literal or symbolic"
+   ],
+   "plain_english": "Having seen the seat there, it destroys all grain; there is no doubt about this."
+  },
+  {
+   "verse": 3435,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇena",
+     "gloss": "with-to-be-spoken",
+     "grounds": "refers forward to the mantra to be given",
+     "morph": "m.inst.sg.fut.pass.part √vac"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "mantra",
+     "grounds": "sacred formula used in worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prati+puṣpeṇa",
+     "gloss": "with-each-flower",
+     "grounds": "repetition of offering for every flower",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive prescribing the ritual act",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "How must worship be performed using the mantra that is about to be stated?",
+   "premises": [
+    "A mantra is about to be spoken.",
+    "Worship is to be performed with that mantra.",
+    "The mantra is applied with each flower."
+   ],
+   "inference": "One should worship with the forthcoming mantra, offering it with each flower.",
+   "uncertainties": [],
+   "plain_english": "One should worship with the mantra that will be spoken, using it with each flower."
+  },
+  {
+   "verse": 3436,
+   "rows": [
+    {
+     "surface": "paśūnāṃ+pataye",
+     "gloss": "to-lord-of-beasts",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective particles",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "divya+īśāya",
+     "gloss": "to-divine-lord",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "namaḥ+astu",
+     "gloss": "obeisance-be",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.) + 3.sg.imp.act √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "direct address to the deity",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "To which divine lord is obeisance first offered in the mantra sequence?",
+   "premises": [
+    "The addressed deity is lord of beasts.",
+    "The addressed deity is the divine lord.",
+    "Obeisance is offered to that deity."
+   ],
+   "inference": "The mantra offers obeisance to you, the lord of beasts and divine lord.",
+   "uncertainties": [],
+   "plain_english": "Obeisance be to you, the lord of beings, the divine lord."
+  },
+  {
+   "verse": 3437,
+   "rows": [
+    {
+     "surface": "tryambakāya",
+     "gloss": "to-three-eyed-one",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tri+netrāya",
+     "gloss": "to-three-eyed",
+     "grounds": "epithet emphasizing three eyes",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "vaibhavāya",
+     "gloss": "to-glorious",
+     "grounds": "epithet of majesty",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which epithets of the three-eyed deity receive repeated obeisance in this mantra verse?",
+   "premises": [
+    "The deity is addressed as Tryambaka.",
+    "The deity is addressed as three-eyed and glorious.",
+    "Obeisance is repeated to that deity."
+   ],
+   "inference": "The mantra offers repeated obeisance to the three-eyed, glorious Tryambaka.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, obeisance to Tryambaka, the three-eyed, the glorious one."
+  },
+  {
+   "verse": 3438,
+   "rows": [
+    {
+     "surface": "daṇḍine",
+     "gloss": "to-staff-bearer",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śaṅku+karṇāya",
+     "gloss": "to-conch-eared",
+     "grounds": "epithet describing the deity's ears",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "kāma+ratnāya",
+     "gloss": "to-desire-jewel",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which distinctive epithets of the deity are honored with obeisance in this mantra verse?",
+   "premises": [
+    "The deity is addressed as staff-bearer.",
+    "The deity is addressed as conch-eared.",
+    "The deity is addressed as jewel of desire and receives obeisance."
+   ],
+   "inference": "The mantra offers obeisance to the staff-bearer, conch-eared, jewel-of-desire deity.",
+   "uncertainties": [
+    "The precise sense of śaṅku+karṇāya and kāma+ratnāya is uncertain"
+   ],
+   "plain_english": "Obeisance indeed to the staff-bearer, the one with conch-like ears, the jewel of desire."
+  },
+  {
+   "verse": 3439,
+   "rows": [
+    {
+     "surface": "vilohitāya",
+     "gloss": "to-reddish",
+     "grounds": "epithet describing the deity's color",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dhūmrāya",
+     "gloss": "to-smoky",
+     "grounds": "epithet describing the deity's appearance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kamalāya",
+     "gloss": "to-lotus-like",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which color and form epithets of the deity receive repeated obeisance in this mantra verse?",
+   "premises": [
+    "The deity is addressed as reddish.",
+    "The deity is addressed as smoky.",
+    "The deity is addressed as lotus-like and receives repeated obeisance."
+   ],
+   "inference": "The mantra offers repeated obeisance to the reddish, smoky, lotus-like deity.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, obeisance to the reddish one, the smoky one, the lotus-like one."
+  },
+  {
+   "verse": 3440,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stutāya",
+     "gloss": "to-praised",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg.ppp √stu"
+    },
+    {
+     "surface": "guhyāya",
+     "gloss": "to-hidden",
+     "grounds": "epithet indicating secrecy",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gopa+īśāya",
+     "gloss": "to-lord-of-cowherds",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which praised, hidden, and protective epithets of the deity are saluted in this mantra verse?",
+   "premises": [
+    "The deity is addressed as praised.",
+    "The deity is addressed as hidden.",
+    "The deity is addressed as lord of cowherds and receives repeated obeisance."
+   ],
+   "inference": "The mantra offers repeated obeisance to the praised, hidden lord of cowherds.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the praised one, the hidden one, the lord of cowherds; obeisance, obeisance."
+  },
+  {
+   "verse": 3441,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyeṣṭhāya",
+     "gloss": "to-eldest",
+     "grounds": "epithet of seniority",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "proṣṭhāya",
+     "gloss": "to-preeminent",
+     "grounds": "epithet of eminence",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gopa+īśāya",
+     "gloss": "to-lord-of-cowherds",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which epithets of seniority and eminence are attributed to the lord of cowherds in this salutation?",
+   "premises": [
+    "The deity is addressed as eldest.",
+    "The deity is addressed as preeminent.",
+    "The deity is addressed as lord of cowherds and receives repeated obeisance."
+   ],
+   "inference": "The mantra offers repeated obeisance to the eldest, preeminent lord of cowherds.",
+   "uncertainties": [
+    "The precise sense of proṣṭhāya is uncertain"
+   ],
+   "plain_english": "Obeisance to the eldest, the preeminent, the lord of cowherds; obeisance, obeisance."
+  },
+  {
+   "verse": 3442,
+   "rows": [
+    {
+     "surface": "pañca+aṅgīya+vihaṅgāya",
+     "gloss": "to-five-limbed-bird",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "divya+īśāya",
+     "gloss": "to-divine-lord",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the divine lord characterized as a five-limbed bird in this mantra salutation?",
+   "premises": [
+    "The deity is addressed as a five-limbed bird.",
+    "The deity is addressed as the divine lord.",
+    "Repeated obeisance is offered to that deity."
+   ],
+   "inference": "The mantra offers repeated obeisance to the divine lord in the form of a five-limbed bird.",
+   "uncertainties": [
+    "The symbolic meaning of pañca+aṅgīya+vihaṅgāya is uncertain"
+   ],
+   "plain_english": "Obeisance, obeisance to the five-limbed bird, the divine lord."
+  },
+  {
+   "verse": 3443,
+   "rows": [
+    {
+     "surface": "yajña+vāhāya",
+     "gloss": "to-sacrifice-borne",
+     "grounds": "epithet linking the deity to sacrifice",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "daṇḍāya",
+     "gloss": "to-staff",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "divya+īśāya",
+     "gloss": "to-divine-lord",
+     "grounds": "epithet of the deity addressed",
+     "morph": "compound.m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated formula of reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacrificial and sovereign epithets of the divine lord are saluted in this mantra verse?",
+   "premises": [
+    "The deity is addressed as borne by sacrifice.",
+    "The deity is addressed as the staff.",
+    "The deity is addressed as the divine lord and receives repeated obeisance."
+   ],
+   "inference": "The mantra offers repeated obeisance to the sacrifice-borne, staff-like divine lord.",
+   "uncertainties": [
+    "The precise sense of yajña+vāhāya and daṇḍāya is uncertain"
+   ],
+   "plain_english": "Obeisance, obeisance to the one borne by sacrifice, the staff, the divine lord."
+  },
+  {
+   "verse": 3444,
+   "rows": [
+    {
+     "surface": "yat+phalam",
+     "gloss": "what-fruit",
+     "grounds": "merit or result being compared",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "snāna+dānena",
+     "gloss": "by-bathing-and-giving",
+     "grounds": "meritorious acts of bathing and giving",
+     "morph": "compound.n.inst.sg"
+    },
+    {
+     "surface": "devatā+prekṣaṇena+ca",
+     "gloss": "by-beholding-deity-and",
+     "grounds": "meritorious act of seeing the deity",
+     "morph": "compound.n.inst.sg + (indecl.)"
+    }
+   ],
+   "question": "What merit is associated with ritual bathing, giving, and beholding the deity?",
+   "premises": [
+    "Bathing and giving are meritorious acts.",
+    "Beholding the deity is a meritorious act.",
+    "A specific fruit is associated with these acts."
+   ],
+   "inference": "The verse invokes the merit obtained through bathing, giving, and beholding the deity.",
+   "uncertainties": [],
+   "plain_english": "It recalls the fruit gained by bathing, giving, and beholding the deity."
+  },
+  {
+   "verse": 3445,
+   "rows": [
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "prior act of reverence",
+     "morph": "absolutive √nam"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "sacred-place",
+     "grounds": "object of reverence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "named",
+     "gloss": "should-bow",
+     "grounds": "injunctive prescribing reverence",
+     "morph": "3.sg.opt.act √nam"
+    },
+    {
+     "surface": "dūrāt",
+     "gloss": "from-afar",
+     "grounds": "distance from which reverence is made",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "person performing the act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udaṅ+mukhaḥ",
+     "gloss": "facing-north",
+     "grounds": "orientation of the worshipper",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "ritual condition of the worshipper",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what bodily state and orientation should a person bow to the sacred place from afar?",
+   "premises": [
+    "A person bows to the sacred place from afar.",
+    "The person should be facing north.",
+    "The person should be ritually pure."
+   ],
+   "inference": "A pure person, facing north, should bow to the sacred place from afar.",
+   "uncertainties": [],
+   "plain_english": "Having bowed, a pure man facing north should bow to the sacred place from afar."
+  },
+  {
+   "verse": 3446,
+   "rows": [
+    {
+     "surface": "saṃsāra+sāgare",
+     "gloss": "in-ocean-of-saṃsāra",
+     "grounds": "metaphorical condition of worldly existence",
+     "morph": "compound.m.loc.sg"
+    },
+    {
+     "surface": "magnam",
+     "gloss": "submerged",
+     "grounds": "state of being sunk in saṃsāra",
+     "morph": "m.acc.sg.ppp √majj"
+    },
+    {
+     "surface": "pāpa+grastam",
+     "gloss": "seized-by-sin",
+     "grounds": "condition of being overcome by sin",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "acetanam",
+     "gloss": "unconscious",
+     "grounds": "state lacking spiritual awareness",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What afflicted condition of a being in worldly existence is described before seeking divine refuge?",
+   "premises": [
+    "The being is submerged in the ocean of saṃsāra.",
+    "The being is seized by sin.",
+    "The being is unconscious."
+   ],
+   "inference": "The verse describes a being submerged in saṃsāra, seized by sin, and unconscious.",
+   "uncertainties": [],
+   "plain_english": "It describes one submerged in the ocean of worldly existence, seized by sin, and unconscious."
+  },
+  {
+   "verse": 3447,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "to-śiva",
+     "grounds": "deity addressed for refuge",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śāntāya",
+     "gloss": "to-peaceful",
+     "grounds": "epithet of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sarva+pāpa+harāya+ca",
+     "gloss": "to-remover-of-all-sins-and",
+     "grounds": "epithet describing salvific function",
+     "morph": "compound.m.dat.sg + (indecl.)"
+    }
+   ],
+   "question": "To which peaceful and sin-removing deity is obeisance offered for deliverance from affliction?",
+   "premises": [
+    "Obeisance is offered to Śiva.",
+    "Śiva is addressed as peaceful.",
+    "Śiva is addressed as remover of all sins."
+   ],
+   "inference": "The verse offers obeisance to peaceful Śiva, the remover of all sins.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to Śiva, the peaceful one, the remover of all sins."
+  },
+  {
+   "verse": 3448,
+   "rows": [
+    {
+     "surface": "nābhi+mātra+jale",
+     "gloss": "in-navel-deep-water",
+     "grounds": "depth of water for the ritual stance",
+     "morph": "compound.n.loc.sg"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "bodily posture assumed for the rite",
+     "morph": "absolutive √sthā"
+    },
+    {
+     "surface": "vidhi+vat",
+     "gloss": "according-to-rule",
+     "grounds": "manner conforming to prescribed procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā+pitṝn",
+     "gloss": "gods-and-ancestors",
+     "grounds": "recipients of the ritual act",
+     "morph": "compound.m.acc.pl"
+    }
+   ],
+   "question": "In what depth of water and for which recipients must one stand to perform the rite according to rule?",
+   "premises": [
+    "One stands in water reaching the navel.",
+    "The act is performed according to rule.",
+    "The gods and ancestors are the recipients."
+   ],
+   "inference": "Standing in navel-deep water, one should duly honor the gods and ancestors according to rule.",
+   "uncertainties": [
+    "The specific ritual act for devatā+pitṝn is implied but not explicitly named"
+   ],
+   "plain_english": "Standing in water up to the navel, one should duly attend to the gods and ancestors according to rule."
+  },
+  {
+   "verse": 3449,
+   "rows": [
+    {
+     "surface": "ūrdhva+bāhum",
+     "gloss": "arms-raised",
+     "grounds": "bodily posture adopted in the rite",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence following the previous act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "act of assuming the posture",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "having-risen",
+     "grounds": "act of rising from the water",
+     "morph": "absolutive ud-√sthā"
+    },
+    {
+     "surface": "arghyam",
+     "gloss": "offering",
+     "grounds": "ritual offering to be presented",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "injunctive prescribing the final act",
+     "morph": "3.sg.opt.act ni-√vid-caus"
+    }
+   ],
+   "question": "What sequence of bodily actions culminates in presenting the ritual offering after rising from the water?",
+   "premises": [
+    "One raises the arms.",
+    "One then rises up.",
+    "One presents the ritual offering."
+   ],
+   "inference": "After raising the arms and rising, one should present the ritual offering.",
+   "uncertainties": [],
+   "plain_english": "Then, having raised the arms and risen up, one should present the offering."
+  }
+ ]
+}

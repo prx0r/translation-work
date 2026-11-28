@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "viśiṣṭaḥ",
+     "gloss": "distinguished",
+     "grounds": "exact surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajña+paraḥ",
+     "gloss": "sacrifice-devoted",
+     "grounds": "compound surface retained with plus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "exact surface as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhavala+ākāraṃ",
+     "gloss": "white-form",
+     "grounds": "compound surface retained with plus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive present third singular",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Which distinguished king devoted to sacrifice is praised for a white form?",
+   "premises": [
+    "A distinguished king devoted to sacrifice is praised.",
+    "His praised form is white."
+   ],
+   "inference": "The verse praises a distinguished sacrifice-devoted king whose form is white.",
+   "uncertainties": [
+    "The exact ritual context of the white form is not specified in this verse."
+   ],
+   "plain_english": "A distinguished king devoted to sacrifice is praised for his white form."
+  }
+ ]
+}

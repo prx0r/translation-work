@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "object of abandonment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "exposition",
+     "grounds": "object of abandonment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prabhutvañca",
+     "gloss": "and-lordship",
+     "grounds": "prabhutvam + ca; internal sandhi noted",
+     "morph": "compound: prabhutva+n.sg + ca(indecl.)"
+    },
+    {
+     "surface": "guroragre",
+     "gloss": "before-guru",
+     "grounds": "guroḥ + agre; locative context",
+     "morph": "compound: guru+m.gen.sg + agra+n.loc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "one-should-abandon",
+     "grounds": "injunction to renounce",
+     "morph": "3.sg.optative-active + pari-tyaj"
+    }
+   ],
+   "question": "What claims of authority must be abandoned in the guru's presence?",
+   "premises": [
+    "Initiation is a claim of authority",
+    "Exposition is a claim of authority",
+    "Lordship is a claim of authority"
+   ],
+   "inference": "One should abandon initiation, exposition, and lordship before the guru.",
+   "uncertainties": [],
+   "plain_english": "One should abandon initiation, exposition, and lordship in the presence of the guru."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-do",
+     "grounds": "prohibited action",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "with-guru",
+     "grounds": "companion in action",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyo",
+     "gloss": "disciple",
+     "grounds": "subject in disciple role",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state",
+     "morph": "absolutive + bhū"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal temporal prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "May a disciple ever act jointly with the guru as an equal?",
+   "premises": [
+    "The person has become a disciple",
+    "Acting together implies equality or partnership",
+    "The prohibition applies at all times"
+   ],
+   "inference": "Having become a disciple, one should never act together with the guru.",
+   "uncertainties": [],
+   "plain_english": "Having become a disciple, one should never act together with the guru."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "ukārāc",
+     "gloss": "from-syllable-u",
+     "grounds": "ukārāt; etymological basis",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "chivatādātmyaṃ",
+     "gloss": "identity-with-śiva",
+     "grounds": "śiva-tādātmyam; internal sandhi noted",
+     "morph": "compound: śiva+m + tādātmya+n.acc.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "he-gives",
+     "grounds": "bestowal by guru",
+     "morph": "3.sg.optative-active + dā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "subject defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg.past-passive-participle + smṛ"
+    }
+   ],
+   "question": "What etymological function defines the guru as bestower of Śiva-identity?",
+   "premises": [
+    "The syllable u is taken as a basis",
+    "Identity with Śiva is given",
+    "This giving defines the guru"
+   ],
+   "inference": "The guru is so called because he gives identity with Śiva, derived from the syllable u.",
+   "uncertainties": [
+    "The exact etymological parsing of 'guru' from 'ukārāc' is compressed and traditional."
+   ],
+   "plain_english": "Because he gives identity with Śiva, derived from the syllable u, he is remembered as the guru."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "andhakāranirodhitvād",
+     "gloss": "because-of-removing-darkness",
+     "grounds": "andhakāra-nirodhitvāt; causal etymology",
+     "morph": "compound: andhakāra+m + nirodhitva+n.abl.sg"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "term being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "marks designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "verbal designation",
+     "morph": "3.sg.present-passive + abhi-dhā"
+    }
+   ],
+   "question": "What removal of darkness justifies the designation of the guru?",
+   "premises": [
+    "Darkness is removed",
+    "Removal provides a causal basis",
+    "The term guru is applied on this basis"
+   ],
+   "inference": "He is called guru because he removes darkness.",
+   "uncertainties": [],
+   "plain_english": "He is called guru because he removes darkness."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "kulārṇave",
+     "gloss": "in-kulārṇava",
+     "grounds": "textual source citation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvaśātrārthavettā",
+     "gloss": "knower-of-all-scripture-meaning",
+     "grounds": "sarva-śāstra-artha-vettā; qualification",
+     "morph": "compound: sarva+śāstra+artha+vettṛ+m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects qualifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhastho",
+     "gloss": "householder",
+     "grounds": "social status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "role affirmed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "authoritative statement",
+     "morph": "3.sg.present-passive + vac"
+    }
+   ],
+   "question": "Can a householder who knows all scripture meanings be recognized as guru?",
+   "premises": [
+    "The Kulārṇava is cited as authority",
+    "Knowing the meaning of all scriptures is a qualification",
+    "Being a householder is not disqualifying"
+   ],
+   "inference": "In the Kulārṇava, a householder who knows the meaning of all scriptures is called a guru.",
+   "uncertainties": [],
+   "plain_english": "In the Kulārṇava, a householder who knows the meaning of all scriptures is called a guru."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "daive",
+     "gloss": "in-divine-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pitre'",
+     "gloss": "in-ancestral-rite",
+     "grounds": "pitrye; internal sandhi/apocope noted",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rimitre",
+     "gloss": "and-for-enemy",
+     "grounds": "rimitre; reading uncertain, possibly ripu/mitra context",
+     "morph": "uncertain"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhastho",
+     "gloss": "householder",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deśiko",
+     "gloss": "preceptor",
+     "grounds": "role in rites",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive role",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "In which ritual contexts may a householder serve as preceptor?",
+   "premises": [
+    "Divine rites are a context",
+    "Ancestral rites are a context",
+    "A householder can hold the preceptor role"
+   ],
+   "inference": "A householder may be the preceptor in divine, ancestral, and other specified rites.",
+   "uncertainties": [
+    "The token 'pitre'' and 'rimitre' have unclear readings in this transmission."
+   ],
+   "plain_english": "A householder may serve as preceptor in rites for the gods, for the ancestors, and in other contexts."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to one lacking proper relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācid",
+     "gloss": "ever",
+     "grounds": "universal negation in time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential result denied",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation repeated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrair",
+     "gloss": "by-mantras",
+     "grounds": "means denied",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "daivapūjanaiḥ",
+     "gloss": "by-worship-of-gods",
+     "grounds": "daiva-pūjanaiḥ; means denied",
+     "morph": "compound: daiva+n + pūjana+n.inst.pl"
+    }
+   ],
+   "question": "Can spiritual success arise for such a person through mantras or divine worship?",
+   "premises": [
+    "Success is the desired outcome",
+    "Mantras are a possible means",
+    "Worship of gods is a possible means"
+   ],
+   "inference": "For him there would never be success, neither by mantras nor by worship of the gods.",
+   "uncertainties": [
+    "The antecedent of 'tasya' depends on the preceding context."
+   ],
+   "plain_english": "For him there would never be success, neither through mantras nor through worship of the gods."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "krośamātra",
+     "gloss": "at-distance-of-krośa",
+     "grounds": "krośa-mātra; measure of distance",
+     "morph": "compound: krośa+m + mātra+n"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "situated",
+     "grounds": "location of disciple",
+     "morph": "m.nom.sg.past-passive-participle + sthā"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "condition",
+     "morph": "absolutive + bhū"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "object of reverence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratidinaṃ",
+     "gloss": "every-day",
+     "grounds": "daily obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namet",
+     "gloss": "one-should-bow",
+     "grounds": "prescribed reverence",
+     "morph": "3.sg.optative-active + nam"
+    }
+   ],
+   "question": "What daily reverence is required when living within a krośa of the guru?",
+   "premises": [
+    "One may be situated a krośa away",
+    "The guru remains the object of reverence",
+    "Reverence is to be performed daily"
+   ],
+   "inference": "Even when situated a krośa away, one should bow to the guru every day.",
+   "uncertainties": [],
+   "plain_english": "Even if one is situated only a krośa away, one should bow to the guru every day."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "ekadhā",
+     "gloss": "in-one-way",
+     "grounds": "manner or frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarāyaṇe",
+     "gloss": "in-northern-course",
+     "grounds": "uttara-ayaṇe; solar period",
+     "morph": "compound: uttara+n + ayana+n.loc.sg"
+    },
+    {
+     "surface": "karttavyam",
+     "gloss": "should-be-done",
+     "grounds": "prescribed action",
+     "morph": "n.nom.sg.future-passive-participle + kṛ"
+    }
+   ],
+   "question": "How should the prescribed observance be performed during the northern solar course?",
+   "premises": [
+    "The northern course is a specific period",
+    "An action is prescribed",
+    "The manner is specified as once"
+   ],
+   "inference": "During the northern course of the sun, it should be done once.",
+   "uncertainties": [
+    "The specific action referred to depends on the preceding verse."
+   ],
+   "plain_english": "During the northern course of the sun, it should be done once."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "sodarasya",
+     "gloss": "of-brother",
+     "grounds": "potential candidate",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kaniṣṭhasya",
+     "gloss": "of-younger",
+     "grounds": "qualifies brother",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vairipakṣāśritasya",
+     "gloss": "of-one-resorting-to-enemy-side",
+     "grounds": "vairi-pakṣa-āśritasya; disqualifying association",
+     "morph": "compound: vairi+pakṣa+āśrita+m.gen.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative case",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which familial or hostile associations disqualify a person from initiation?",
+   "premises": [
+    "A younger brother is considered",
+    "One resorting to the enemy side is considered",
+    "These are presented as problematic cases"
+   ],
+   "inference": "The cases of a younger brother or one who has resorted to the enemy side are at issue.",
+   "uncertainties": [
+    "This verse is fragmentary and its predicate continues in the next verse."
+   ],
+   "plain_english": "Of a younger brother, or of one who has resorted to the side of an enemy."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "vanavāsinaḥ",
+     "gloss": "of-forest-dweller",
+     "grounds": "vana-vāsinaḥ; ascetic context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viviktāśramiṇo",
+     "gloss": "of-one-in-secluded-stage",
+     "grounds": "vivikta-āśramiṇaḥ; secluded life",
+     "morph": "compound: vivikta+āśramin+m.gen.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of evaluation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalyāṇadāyikā",
+     "gloss": "bestower-of-auspiciousness",
+     "grounds": "kalyāṇa-dāyikā; beneficial result denied",
+     "morph": "compound: kalyāṇa+n + dāyikā+f.nom.sg"
+    }
+   ],
+   "question": "Why does initiation fail to bestow auspiciousness in these secluded cases?",
+   "premises": [
+    "Forest dwellers and secluded ascetics are considered",
+    "Initiation is performed in such cases",
+    "Auspicious results are expected from initiation"
+   ],
+   "inference": "Initiation of a forest dweller or one in a secluded stage is not a bestower of auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "Initiation of a forest dweller or of one living in seclusion is not a bestower of auspiciousness."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "sutām",
+     "gloss": "daughter",
+     "grounds": "potential initiate",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putrañca",
+     "gloss": "and-son",
+     "grounds": "putram + ca; potential initiate",
+     "morph": "m.acc.sg + ca(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrātā",
+     "gloss": "brother",
+     "grounds": "initiator in this case",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhrātaraṃ",
+     "gloss": "brother",
+     "grounds": "potential initiate",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects prohibitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣayet",
+     "gloss": "should-initiate",
+     "grounds": "prohibited act",
+     "morph": "3.sg.optative-active + dīkṣ"
+    }
+   ],
+   "question": "Which close family members are prohibited from receiving initiation from kin?",
+   "premises": [
+    "A daughter and a son are close kin",
+    "A brother initiating a brother is close kin",
+    "Initiation within such relations is restricted"
+   ],
+   "inference": "One should not initiate a daughter or a son, nor should a brother initiate a brother.",
+   "uncertainties": [],
+   "plain_english": "One should not initiate a daughter or a son, and likewise a brother should not initiate a brother."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "dūṣyatīti",
+     "gloss": "because-it-pollutes-thus",
+     "grounds": "dūṣyati + iti; reason stated",
+     "morph": "3.sg.present-active + duṣ + iti(indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "because-of-statement",
+     "grounds": "scriptural authority",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What scriptural reason is given for the prohibition on initiating close kin?",
+   "premises": [
+    "A statement is cited as authority",
+    "The act is said to pollute",
+    "Pollution provides the reason for prohibition"
+   ],
+   "inference": "The prohibition is given because, according to the statement, it pollutes.",
+   "uncertainties": [],
+   "plain_english": "This is because of the statement that it pollutes."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "syād",
+     "gloss": "may-be",
+     "grounds": "possible case",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "bhautike'",
+     "gloss": "in-material",
+     "grounds": "bhautike; internal sandhi/apocope noted",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "also",
+     "grounds": "extension to another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the stated consideration also apply in a material context?",
+   "premises": [
+    "A material context is considered",
+    "The possibility is extended",
+    "The prior rule may apply there too"
+   ],
+   "inference": "It may also apply in the material context.",
+   "uncertainties": [
+    "The subject and full predicate are compressed and context-dependent."
+   ],
+   "plain_english": "It may also be so in the material context."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "condition of obtaining",
+     "morph": "3.sg.optative-active + labh"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-indeed",
+     "grounds": "tadā + eva; immediate timing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntu",
+     "gloss": "him",
+     "grounds": "tām + tu; object of initiation, reading uncertain",
+     "morph": "uncertain"
+    },
+    {
+     "surface": "dīkṣeta",
+     "gloss": "one-should-initiate",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-middle + dīkṣ"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior renunciation",
+     "morph": "absolutive + tyaj"
+    },
+    {
+     "surface": "guruvicāraṇam",
+     "gloss": "consideration-of-guru",
+     "grounds": "guru-vicāraṇam; usual scrutiny set aside",
+     "morph": "compound: guru+m + vicāraṇa+n.acc.sg"
+    }
+   ],
+   "question": "Under what condition may initiation proceed without the usual consideration of a guru?",
+   "premises": [
+    "A suitable opportunity may be obtained",
+    "The usual consideration of a guru is normally required",
+    "That consideration can be abandoned in this case"
+   ],
+   "inference": "O beloved, if one obtains such an opportunity, one should then initiate, having abandoned consideration of a guru.",
+   "uncertainties": [
+    "The referent of 'tāntu' is unclear in this transmission."
+   ],
+   "plain_english": "O beloved, if one obtains such an opportunity, one should then initiate, having set aside consideration of a guru."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "prāyaścattantu",
+     "gloss": "expiation-indeed",
+     "grounds": "prāyaścittam + tu; remedial act",
+     "morph": "compound: prāyaścitta+n.nom.sg + tu(indecl.)"
+    },
+    {
+     "surface": "ayutasāvitrījapaḥ",
+     "gloss": "recitation-of-ten-thousand-sāvitrī",
+     "grounds": "ayuta-sāvitrī-japaḥ; specified expiation",
+     "morph": "compound: ayuta+n + sāvitrī+f + japa+m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanāt",
+     "gloss": "because-of-seeing",
+     "grounds": "based on scriptural observation",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What universal expiation is prescribed based on scriptural observation?",
+   "premises": [
+    "Expiation is required",
+    "Recitation of ten thousand Sāvitrī is specified",
+    "Scriptural observation supports universal application"
+   ],
+   "inference": "The expiation everywhere is the recitation of ten thousand Sāvitrī, as seen in scripture.",
+   "uncertainties": [],
+   "plain_english": "The expiation, everywhere, is the recitation of ten thousand Sāvitrī, as seen in scripture."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "śaṅkha",
+     "gloss": "śaṅkha",
+     "grounds": "authority cited",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": ":",
+     "gloss": ":",
+     "grounds": "punctuation marker",
+     "morph": "(punct.)"
+    },
+    {
+     "surface": "daśasāhasryajāpena",
+     "gloss": "by-recitation-of-ten-thousand",
+     "grounds": "daśa-sāhasrya-jāpena; means of purification",
+     "morph": "compound: daśa+sāhasrya+n + jāpa+m.inst.sg"
+    },
+    {
+     "surface": "sarvakalmaṣanāśinī",
+     "gloss": "destroyer-of-all-sins",
+     "grounds": "sarva-kalmaṣa-nāśinī; effect of recitation",
+     "morph": "compound: sarva+kalmaṣa+n + nāśinī+f.nom.sg"
+    }
+   ],
+   "question": "What purifying power does Śaṅkha attribute to ten-thousandfold recitation?",
+   "premises": [
+    "Śaṅkha is cited as authority",
+    "Recitation of ten thousand is performed",
+    "All sins are subject to destruction"
+   ],
+   "inference": "According to Śaṅkha, recitation of ten thousand destroys all sins.",
+   "uncertainties": [
+    "The subject of 'sarvakalmaṣanāśinī' is implied, likely the recitation or Sāvitrī."
+   ],
+   "plain_english": "Śaṅkha says: by recitation of ten thousand, all sins are destroyed."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "jyeṣṭhaputrāya",
+     "gloss": "to-eldest-son",
+     "grounds": "jyeṣṭha-putrāya; recipient",
+     "morph": "compound: jyeṣṭha+m + putra+m.dat.sg"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "one-should-give",
+     "grounds": "prescribed transmission",
+     "morph": "3.sg.optative-active + dā"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "iti + ādi; indicates continuation",
+     "morph": "compound: iti(indecl.) + ādi+n.nom.sg"
+    }
+   ],
+   "question": "To whom should transmission be given according to the cited rule?",
+   "premises": [
+    "The eldest son is specified as recipient",
+    "Giving is prescribed",
+    "The citation continues beyond this point"
+   ],
+   "inference": "One should give it to the eldest son, and so forth.",
+   "uncertainties": [
+    "The object to be given is not specified in this verse."
+   ],
+   "plain_english": "One should give it to the eldest son, and so forth."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "mahātrīrthaṃ",
+     "gloss": "great-pilgrimage",
+     "grounds": "mahā-tīrtham; sacred occasion/place",
+     "morph": "compound: mahā+n + tīrtha+n.nom.sg"
+    },
+    {
+     "surface": "uparāge",
+     "gloss": "when-eclipse-occurs",
+     "grounds": "eclipse occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute condition",
+     "morph": "m.loc.sg.present-participle + as"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation of fault",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "ritual defect denied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does an eclipse create ritual fault or remove it as a great pilgrimage occasion?",
+   "premises": [
+    "An eclipse is occurring",
+    "It is treated as a great pilgrimage occasion",
+    "Fault is considered in ritual contexts"
+   ],
+   "inference": "When an eclipse occurs, as a great pilgrimage occasion, there is no fault anywhere.",
+   "uncertainties": [],
+   "plain_english": "When an eclipse occurs, it is a great pilgrimage occasion, and there is no fault anywhere."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "vaiśampāyanasaṃhitāyāṃ",
+     "gloss": "in-vaiśampāyana-saṃhitā",
+     "grounds": "vaiśampāyana-saṃhitāyām; textual source",
+     "morph": "compound: vaiśampāyana+m + saṃhitā+f.loc.sg"
+    },
+    {
+     "surface": "śaunakaṃ",
+     "gloss": "towards-śaunaka",
+     "grounds": "addressee in dialogue",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "regarding",
+     "grounds": "marks address",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyasavacanām",
+     "gloss": "statement-of-vyāsa",
+     "grounds": "vyāsa-vacanam; cited speech, form uncertain",
+     "morph": "compound: vyāsa+m + vacana+n"
+    }
+   ],
+   "question": "What authoritative dialogue source is cited for the following teaching?",
+   "premises": [
+    "The Vaiśampāyana-saṃhitā is named",
+    "Śaunaka is addressed",
+    "A statement of Vyāsa is cited"
+   ],
+   "inference": "The teaching is cited as a statement of Vyāsa to Śaunaka in the Vaiśampāyana-saṃhitā.",
+   "uncertainties": [
+    "The ending of 'vyasavacanām' is irregular in this transmission."
+   ],
+   "plain_english": "In the Vaiśampāyana-saṃhitā, there is a statement of Vyāsa addressed to Śaunaka."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "svapnalabdhaṃ",
+     "gloss": "obtained-in-dream",
+     "grounds": "svapna-labdham; mode of acquisition",
+     "morph": "compound: svapna+m + labdha+n.nom.sg"
+    },
+    {
+     "surface": "striyādattaṃ",
+     "gloss": "given-by-woman",
+     "grounds": "striyā + dattam; mode of reception",
+     "morph": "compound: strī+f.inst.sg + datta+n.nom.sg"
+    },
+    {
+     "surface": "saṃskāreṇaiva",
+     "gloss": "by-consecration-alone",
+     "grounds": "saṃskāreṇa + eva; sole means of purification",
+     "morph": "m.inst.sg + eva(indecl.)"
+    },
+    {
+     "surface": "śudhyati",
+     "gloss": "is-purified",
+     "grounds": "ritual purification",
+     "morph": "3.sg.present-active + śudh"
+    }
+   ],
+   "question": "How can something obtained in a dream or given by a woman be purified?",
+   "premises": [
+    "Something may be obtained in a dream",
+    "Something may be given by a woman",
+    "Consecration can effect purification"
+   ],
+   "inference": "What is obtained in a dream or given by a woman is purified by consecration alone.",
+   "uncertainties": [],
+   "plain_english": "What is obtained in a dream or given by a woman is purified by consecration alone."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "mātuścā",
+     "gloss": "and-of-mother",
+     "grounds": "mātuḥ + ca; maternal case",
+     "morph": "f.gen.sg + ca(indecl.)"
+    },
+    {
+     "surface": "ṣṭaguṇāḥ",
+     "gloss": "eightfold",
+     "grounds": "aṣṭa-guṇāḥ; quantity or degree, initial sandhi noted",
+     "morph": "compound: aṣṭa + guṇa+m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "traditional teaching",
+     "morph": "m.nom.pl.past-passive-participle + smṛ"
+    },
+    {
+     "surface": "idastu",
+     "gloss": "this-indeed",
+     "grounds": "idam + tu; specification",
+     "morph": "n.nom.sg + tu(indecl.)"
+    },
+    {
+     "surface": "gurorupāsitamantraparam",
+     "gloss": "pertaining-to-mantra-served-from-guru",
+     "grounds": "guroḥ-upāsita-mantra-param; refers to mantra received and served from guru",
+     "morph": "compound: guru+m.gen.sg + upāsita+mantra+m + para+n.nom.sg"
+    }
+   ],
+   "question": "What special status is assigned to a mantra served and received from the guru?",
+   "premises": [
+    "The mother's case is mentioned as eightfold",
+    "A mantra served from the guru is specified",
+    "Traditional remembrance assigns special status"
+   ],
+   "inference": "The mother's case is remembered as eightfold, and this applies especially to a mantra served from the guru.",
+   "uncertainties": [
+    "The relation between the mother's eightfold status and the guru-served mantra is compressed."
+   ],
+   "plain_english": "And in the case of the mother it is remembered as eightfold; this indeed pertains especially to a mantra served from the guru."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "yoginītantre",
+     "gloss": "in-yoginī-tantra",
+     "grounds": "yoginī-tantre; textual source",
+     "morph": "compound: yoginī+f + tantra+n.loc.sg"
+    },
+    {
+     "surface": "strīpadaṃ",
+     "gloss": "word-strī",
+     "grounds": "strī-padam; term under interpretation",
+     "morph": "compound: strī+f + pada+n.nom.sg"
+    },
+    {
+     "surface": "vidhavāparaṃ",
+     "gloss": "referring-to-widow",
+     "grounds": "vidhavā-param; interpretive restriction",
+     "morph": "compound: vidhavā+f + para+n.nom.sg"
+    },
+    {
+     "surface": "ekavākyatābalāt",
+     "gloss": "by-force-of-single-syntactical-connection",
+     "grounds": "eka-vākyatā-balāt; hermeneutic principle",
+     "morph": "compound: eka+vākyatā+f + bala+n.abl.sg"
+    }
+   ],
+   "question": "How does the Yoginī-tantra restrict the meaning of the word 'strī'?",
+   "premises": [
+    "The Yoginī-tantra is cited",
+    "The word strī is under interpretation",
+    "The principle of single syntactical connection is applied"
+   ],
+   "inference": "In the Yoginī-tantra, by the force of single syntactical connection, the word 'strī' refers to a widow.",
+   "uncertainties": [],
+   "plain_english": "In the Yoginī-tantra, by the force of syntactical unity, the word 'strī' refers to a widow."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "nārakī",
+     "gloss": "resident-of-hell",
+     "grounds": "state of punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhave",
+     "gloss": "one-becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "What punitive consequence follows from violating the stated rule?",
+   "premises": [
+    "A rule violation is implied by context",
+    "A punitive consequence is stated",
+    "Hell is the resulting state"
+   ],
+   "inference": "One becomes a resident of hell.",
+   "uncertainties": [
+    "The specific transgression leading to this consequence depends on the preceding context."
+   ],
+   "plain_english": "One becomes a resident of hell."
+  }
+ ]
+}

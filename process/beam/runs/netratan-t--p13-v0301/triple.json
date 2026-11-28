@@ -1,0 +1,461 @@
+{
+ "song": "net-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "ativitatakālaṃ",
+     "gloss": "very-extended-time",
+     "grounds": "compound adverbial accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogalakṣmīm",
+     "gloss": "enjoyment-prosperity",
+     "grounds": "compound accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āsādayati",
+     "gloss": "causes-to-obtain",
+     "grounds": "causative present active",
+     "morph": "3.sg.act-pres+āsād"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "adjective accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What result follows from extended enjoyment-prosperity?",
+   "premises": [
+    "extended time yields prosperity",
+    "prosperity is obtained",
+    "result is auspicious"
+   ],
+   "inference": "Extended enjoyment-prosperity brings an auspicious result.",
+   "uncertainties": [
+    "exact syntactic role of ativitatakālam"
+   ],
+   "plain_english": "By very extended time, enjoyment-prosperity is obtained; thus it is auspicious."
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "netrodyote",
+     "gloss": "in-netra-illumination",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṣṭādaśaḥ",
+     "gloss": "eighteenth",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhikāraḥ",
+     "gloss": "chapter",
+     "grounds": "masculine nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is named in netra illumination?",
+   "premises": [
+    "netra illumination is context",
+    "eighteenth chapter is named",
+    "chapter is the subject"
+   ],
+   "inference": "The eighteenth chapter concerns netra illumination.",
+   "uncertainties": [
+    "whether netrodyote is locative or genitive"
+   ],
+   "plain_english": "In netra illumination, the eighteenth chapter."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "cakārāt",
+     "gloss": "from-the-ca",
+     "grounds": "ablative of particle ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭipātādeḥ",
+     "gloss": "from-sight-fall-etc",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What follows from ca and sight-fall?",
+   "premises": [
+    "ca marks addition",
+    "sight-fall is source",
+    "ablative indicates origin"
+   ],
+   "inference": "Additional causes begin from sight-fall and related factors.",
+   "uncertainties": [
+    "exact scope of ādi"
+   ],
+   "plain_english": "From ca and from sight-fall and the rest."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "bhūtāḥ",
+     "gloss": "beings",
+     "grounds": "plural nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vividhākārāḥ",
+     "gloss": "various-forms",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantāḥ",
+     "gloss": "endless",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahābalāḥ",
+     "gloss": "great-powerful",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kinds of beings are described?",
+   "premises": [
+    "beings are various in form",
+    "they are endless",
+    "they are great and powerful"
+   ],
+   "inference": "The beings are various-formed, endless, and greatly powerful.",
+   "uncertainties": [
+    "whether bhūtāḥ means spirits or elements"
+   ],
+   "plain_english": "Beings are various in form, indeed endless, and great and powerful."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "chāyā+ādi+doṣaiḥ",
+     "gloss": "shadow-etc-defects",
+     "grounds": "instrumental compound with sandhi markers",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What defects are indicated by shadow etc?",
+   "premises": [
+    "shadow is a defect",
+    "ādi extends the list",
+    "instrumental marks cause"
+   ],
+   "inference": "Shadow and related defects are instrumental causes.",
+   "uncertainties": [
+    "exact members of ādi"
+   ],
+   "plain_english": "By shadow and other defects."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "paśūpahārayuktyaiva",
+     "gloss": "beast-offering-method-only",
+     "grounds": "instrumental compound with eva",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "bhagavadarcāniṣṭhāḥ",
+     "gloss": "divine-worship-displeased",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who is displeased with divine worship?",
+   "premises": [
+    "beast offering method is used",
+    "divine worship is displeasing",
+    "plural subjects are implied"
+   ],
+   "inference": "Those using beast-offering methods are displeased with divine worship.",
+   "uncertainties": [
+    "exact subject of bhavanti in next verse"
+   ],
+   "plain_english": "By beast-offering method only, they are displeased with divine worship."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present active plural",
+     "morph": "3.pl.act-pres+bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "masculine nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remainder stated to become?",
+   "premises": [
+    "bhavanti means become",
+    "iti closes statement",
+    "śeṣaḥ is remainder"
+   ],
+   "inference": "The remainder becomes as stated.",
+   "uncertainties": [
+    "antecedent of remainder"
+   ],
+   "plain_english": "They become; thus the remainder."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "anuktaiḥ",
+     "gloss": "by-unspoken",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "brahmahananādibhiḥ",
+     "gloss": "brahmin-slaying-etc",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mitradrohādibhiḥ",
+     "gloss": "friend-betrayal-etc",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What unspoken causes are listed?",
+   "premises": [
+    "unspoken factors are instrumental",
+    "brahmin-slaying is included",
+    "friend-betrayal is included"
+   ],
+   "inference": "Unspoken causes include brahmin-slaying and friend-betrayal among others.",
+   "uncertainties": [
+    "exact relation to previous verse"
+   ],
+   "plain_english": "By unspoken causes, brahmin-slaying and the rest, and by other friend-betrayals and the rest."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "tayā",
+     "gloss": "by-that",
+     "grounds": "instrumental feminine",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "anugamaḥ",
+     "gloss": "association",
+     "grounds": "masculine nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃbandhaḥ",
+     "gloss": "relation",
+     "grounds": "masculine nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What relation is association by that?",
+   "premises": [
+    "tayā means by that",
+    "anugamaḥ means association",
+    "saṃbandhaḥ means relation"
+   ],
+   "inference": "Association by that is a relation.",
+   "uncertainties": [
+    "antecedent of tayā"
+   ],
+   "plain_english": "By that, association is relation."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "labdhacchidrāḥ",
+     "gloss": "obtained-opening",
+     "grounds": "compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāntaranyāsaḥ",
+     "gloss": "meaning-transfer",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when an opening is obtained?",
+   "premises": [
+    "opening is obtained",
+    "meaning-transfer is named",
+    "hi emphasizes fact"
+   ],
+   "inference": "When an opening is obtained, meaning-transfer occurs.",
+   "uncertainties": [
+    "subject of labdhacchidrāḥ"
+   ],
+   "plain_english": "Indeed, having obtained an opening, there is meaning-transfer."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "tatkṣaṇaṃ",
+     "gloss": "that-instant",
+     "grounds": "adverbial accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na vilambeta",
+     "gloss": "not-delay",
+     "grounds": "optative negative",
+     "morph": "3.sg.opt.act+vilamb"
+    },
+    {
+     "surface": "svalpena",
+     "gloss": "by-small",
+     "grounds": "instrumental adjective",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtena",
+     "gloss": "by-done",
+     "grounds": "instrumental past participle",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should one not delay at that instant?",
+   "premises": [
+    "that instant is critical",
+    "small action suffices",
+    "delay is prohibited"
+   ],
+   "inference": "One should not delay at that instant, since even a small action suffices.",
+   "uncertainties": [
+    "exact referent of tatkṣaṇaṃ"
+   ],
+   "plain_english": "At that instant one should not delay; indeed even by a small action."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "neuter nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-that",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāḥ",
+     "gloss": "meaning",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative active",
+     "morph": "3.sg.opt.act+samācar"
+    },
+    {
+     "surface": "pratīkāram",
+     "gloss": "remedy",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be performed as remedy?",
+   "premises": [
+    "that is the cause",
+    "meanings follow from it",
+    "remedy should be performed"
+   ],
+   "inference": "From that, meanings should be performed as remedy.",
+   "uncertainties": [
+    "exact object of samācaret"
+   ],
+   "plain_english": "That; from that, meanings should perform the remedy."
+  }
+ ]
+}

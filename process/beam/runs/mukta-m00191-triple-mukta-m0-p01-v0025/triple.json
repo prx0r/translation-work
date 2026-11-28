@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "raver",
+     "gloss": "from-sun",
+     "grounds": "ablative source; sandhi form of raveḥ before utpadyate",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "verb of origination",
+     "morph": "3.sg.present.middle ut-pad"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "product arising from the sun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "toyād",
+     "gloss": "from-water",
+     "grounds": "ablative source; sandhi form of toyāt before utpadyate",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "verb of origination",
+     "morph": "3.sg.present.middle ut-pad"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "product arising from water",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "From which successive sources do water and earth arise according to this sequence?",
+   "premises": [
+    "Water arises from the sun",
+    "Earth arises from water",
+    "Origination follows a sequential source-product order"
+   ],
+   "inference": "Water and earth emerge in sequence from sun and water respectively",
+   "uncertainties": [],
+   "plain_english": "From the sun arises water, and from water arises earth."
+  }
+ ]
+}

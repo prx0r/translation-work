@@ -1,0 +1,937 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 676,
+   "rows": [
+    {
+     "surface": "yāvatā",
+     "gloss": "as-long-as",
+     "grounds": "conjunction indicating extent or duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgdaśānaṣṭā",
+     "gloss": "former-state-destroyed",
+     "grounds": "compound: prior condition has perished",
+     "morph": "compound: prāk+daśā+naṣṭā (f.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravṛttirathānyathā",
+     "gloss": "activity-then-otherwise",
+     "grounds": "compound: activity occurs, then otherwise",
+     "morph": "compound: pravṛttiḥ+atha+anyathā (f.nom.sg+indecl.+indecl.)"
+    }
+   ],
+   "question": "Why does activity fail to arise once the prior state is destroyed?",
+   "premises": [
+    "A prior state may be destroyed",
+    "Activity depends on conditions of that state",
+    "Without those conditions activity does not proceed as before"
+   ],
+   "inference": "As long as the former state is destroyed, activity does not arise in the same way.",
+   "uncertainties": [
+    "The exact referent of the former state is context-dependent"
+   ],
+   "plain_english": "As long as the former state is destroyed, there is no activity, or it proceeds otherwise."
+  },
+  {
+   "verse": 677,
+   "rows": [
+    {
+     "surface": "tejasā",
+     "gloss": "by-light",
+     "grounds": "instrument of illumination or power",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tamaso",
+     "gloss": "of-darkness",
+     "grounds": "darkness as the opposed principle",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yasmānna",
+     "gloss": "because-not",
+     "grounds": "causal particle with negation",
+     "morph": "compound: yasmāt+na (indecl.)"
+    },
+    {
+     "surface": "vināśastvayeṣyate",
+     "gloss": "destruction-by-you-accepted",
+     "grounds": "compound: destruction is not accepted by you",
+     "morph": "compound: vināśaḥ+tvayā+iṣyate (m.nom.sg+pron.ins.sg+3.sg.pass-pres)"
+    }
+   ],
+   "question": "Why is darkness not destroyed by light according to the opponent's view?",
+   "premises": [
+    "Light is opposed to darkness",
+    "The opponent does not accept destruction of darkness by light",
+    "A causal relation of destruction is therefore denied"
+   ],
+   "inference": "Because you do not accept that darkness is destroyed by light.",
+   "uncertainties": [
+    "The specific opponent addressed is not named in this verse"
+   ],
+   "plain_english": "Because you do not accept that darkness is destroyed by light."
+  },
+  {
+   "verse": 678,
+   "rows": [
+    {
+     "surface": "sthirasya",
+     "gloss": "of-stable",
+     "grounds": "something enduring or fixed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratibandhyatvāt",
+     "gloss": "because-obstructable",
+     "grounds": "abstract reason: capacity to be obstructed",
+     "morph": "n.abl.sg (from pratibandhya+tva)"
+    },
+    {
+     "surface": "kṣaṇikasya",
+     "gloss": "of-momentary",
+     "grounds": "something lasting only a moment",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "logical or causal suitability",
+     "morph": "3.sg.pass-pres (√yuj)"
+    }
+   ],
+   "question": "Why is obstruction fitting for the stable but not for the momentary?",
+   "premises": [
+    "A stable thing can be obstructed",
+    "Obstruction requires persistence over time",
+    "A momentary thing lacks such persistence"
+   ],
+   "inference": "Obstruction is fitting for the stable because it can be obstructed, but not for the momentary.",
+   "uncertainties": [],
+   "plain_english": "Because a stable thing can be obstructed, but this is not fitting for a momentary thing."
+  },
+  {
+   "verse": 679,
+   "rows": [
+    {
+     "surface": "satyasya",
+     "gloss": "of-real",
+     "grounds": "what truly exists",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇāpekṣā",
+     "gloss": "dependence-on-cause",
+     "grounds": "compound: need for a cause",
+     "morph": "compound: kāraṇa+apekṣā (f.nom.sg)"
+    },
+    {
+     "surface": "ghaṭādijanane",
+     "gloss": "in-producing-pot-etc",
+     "grounds": "compound: in the production of a pot and similar things",
+     "morph": "compound: ghaṭa+ādi+janane (n.loc.sg)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does a real thing depend on a cause in ordinary production?",
+   "premises": [
+    "Real things are produced in experience",
+    "Production of a pot requires causes",
+    "Dependence on causes is observed in such cases"
+   ],
+   "inference": "A real thing depends on a cause, as in the production of a pot and the like.",
+   "uncertainties": [],
+   "plain_english": "A real thing depends on a cause, just as in the production of a pot and so on."
+  },
+  {
+   "verse": 680,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context or case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "compound: na+eva (indecl.)"
+    },
+    {
+     "surface": "pravartante",
+     "gloss": "operate",
+     "grounds": "proceed or function as causes",
+     "morph": "3.pl.mid-pres (√vṛt with pra)"
+    },
+    {
+     "surface": "hetusannidhinaśvarāḥ",
+     "gloss": "causes-present-perishable",
+     "grounds": "compound: perishable factors present as causes",
+     "morph": "compound: hetu+sannidhi+naśvarāḥ (m.nom.pl)"
+    }
+   ],
+   "question": "Why do perishable causes fail to operate in the case under discussion?",
+   "premises": [
+    "Ordinary production involves present causes",
+    "The case under discussion differs from ordinary production",
+    "Perishable causes do not function there"
+   ],
+   "inference": "In this case, perishable causes, even when present, do not operate at all.",
+   "uncertainties": [
+    "The precise case referred to by 'here' depends on the preceding argument"
+   ],
+   "plain_english": "But here, perishable causes, even when present, do not operate at all."
+  },
+  {
+   "verse": 681,
+   "rows": [
+    {
+     "surface": "bhedena",
+     "gloss": "by-difference",
+     "grounds": "mode of distinction",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vāpyabhedena",
+     "gloss": "or-also-by-non-difference",
+     "grounds": "compound: or alternatively by non-difference",
+     "morph": "compound: vā+api+abhedena (indecl.+indecl.+m.ins.sg)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naikarūpatā",
+     "gloss": "not-one-formness",
+     "grounds": "compound: absence of a single uniform nature",
+     "morph": "compound: na+eka+rūpatā (f.nom.sg)"
+    }
+   ],
+   "question": "Can a single uniform nature be established through difference or non-difference?",
+   "premises": [
+    "A thing might be considered by difference",
+    "A thing might be considered by non-difference",
+    "Neither mode yields a single uniform nature"
+   ],
+   "inference": "Whether by difference or by non-difference, there is no single uniform nature.",
+   "uncertainties": [],
+   "plain_english": "Whether by difference or by non-difference, there is no single uniform nature."
+  },
+  {
+   "verse": 682,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyatyapohena",
+     "gloss": "will-be-by-exclusion",
+     "grounds": "compound: will come to be through exclusion",
+     "morph": "compound: bhaviṣyati+apohena (3.sg.fut+ m.ins.sg)"
+    },
+    {
+     "surface": "so'pi",
+     "gloss": "that-too",
+     "grounds": "compound: that exclusion also",
+     "morph": "compound: saḥ+api (m.nom.sg+indecl.)"
+    },
+    {
+     "surface": "kenopapadyate",
+     "gloss": "by-what-is-established",
+     "grounds": "compound: by what means is it established",
+     "morph": "compound: kena+upapadyate (pron.ins.sg+3.sg.pass-pres)"
+    }
+   ],
+   "question": "How could exclusion itself be established if identity depends on exclusion?",
+   "premises": [
+    "Identity is claimed to arise by exclusion",
+    "Exclusion itself requires a basis",
+    "No basis for exclusion is provided"
+   ],
+   "inference": "If that nature is to arise by exclusion, by what is that exclusion itself established?",
+   "uncertainties": [],
+   "plain_english": "If that is to come about by exclusion, then by what is that exclusion itself established?"
+  },
+  {
+   "verse": 683,
+   "rows": [
+    {
+     "surface": "aghaṭāderapohena",
+     "gloss": "by-exclusion-of-non-pot-etc",
+     "grounds": "compound: exclusion of what is not a pot and so on",
+     "morph": "compound: aghaṭa+ādeḥ+apohena (m.gen.sg+m.ins.sg)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "pot",
+     "grounds": "the object to be grasped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratipadyase",
+     "gloss": "you-grasp",
+     "grounds": "cognize or apprehend",
+     "morph": "2.sg.mid-pres (√pad with prati)"
+    }
+   ],
+   "question": "Does excluding non-pots actually allow one to grasp a pot?",
+   "premises": [
+    "Exclusion targets what is not the object",
+    "Grasping requires positive apprehension of the object",
+    "Excluding non-pots does not by itself present a pot"
+   ],
+   "inference": "By excluding non-pots and the like, how do you actually grasp a pot?",
+   "uncertainties": [],
+   "plain_english": "By excluding what is not a pot and so on, how do you grasp a pot?"
+  },
+  {
+   "verse": 684,
+   "rows": [
+    {
+     "surface": "yugapadvā",
+     "gloss": "or-simultaneously",
+     "grounds": "compound: alternatively at the same time",
+     "morph": "compound: yugapat+vā (indecl.+indecl.)"
+    },
+    {
+     "surface": "ghaṭādyarthā",
+     "gloss": "pot-etc-objects",
+     "grounds": "compound: objects such as pots and others",
+     "morph": "compound: ghaṭa+ādi+arthāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "jagatyānantyamāgatāḥ",
+     "gloss": "in-world-infinity-reached",
+     "grounds": "compound: would reach infinity in the world",
+     "morph": "compound: jagati+ānantyam+āgatāḥ (f.loc.sg+n.acc.sg+m.nom.pl)"
+    }
+   ],
+   "question": "What problem arises if all excluded objects must be grasped simultaneously?",
+   "premises": [
+    "Exclusion of non-pots implies reference to many other objects",
+    "Simultaneous grasping would include all such objects",
+    "The number of objects in the world is limitless"
+   ],
+   "inference": "If grasped simultaneously, pot and other objects would lead to an infinite regress in the world.",
+   "uncertainties": [],
+   "plain_english": "Or else, if grasped simultaneously, pots and all other objects in the world would become infinite."
+  },
+  {
+   "verse": 685,
+   "rows": [
+    {
+     "surface": "aghaṭatvaṃ",
+     "gloss": "non-potness",
+     "grounds": "the property of not being a pot",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "universal",
+     "grounds": "a common property shared by many",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle introducing alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyaviśeṣakam",
+     "gloss": "indeed-non-differentiating",
+     "grounds": "compound: not serving to distinguish",
+     "morph": "compound: hi+aviśeṣakam (indecl.+n.nom.sg)"
+    }
+   ],
+   "question": "Can non-potness function as a universal or as a differentiating property?",
+   "premises": [
+    "A universal must be a shared positive property",
+    "Non-potness is defined negatively",
+    "A non-differentiating property cannot distinguish objects"
+   ],
+   "inference": "Non-potness is neither a universal nor a differentiating property.",
+   "uncertainties": [],
+   "plain_english": "Is non-potness a universal, or is it not? Indeed, it does not differentiate."
+  },
+  {
+   "verse": 686,
+   "rows": [
+    {
+     "surface": "etāvān",
+     "gloss": "this-much",
+     "grounds": "to this extent only",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vācyasambandho",
+     "gloss": "expressible-relation",
+     "grounds": "compound: relation between word and meaning",
+     "morph": "compound: vācya+sambandhaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "yadantaḥsphuraṇātmatā",
+     "gloss": "which-inner-flashing-nature",
+     "grounds": "compound: whose nature is inner manifestation",
+     "morph": "compound: yat+antaḥ+sphuraṇa+ātmatā (n.nom.sg+indecl.+n.+f.nom.sg)"
+    }
+   ],
+   "question": "What constitutes the real relation between a word and its meaning?",
+   "premises": [
+    "A relation between word and meaning is sought",
+    "External exclusion is insufficient",
+    "Meaning appears as inner manifestation"
+   ],
+   "inference": "The expressible relation amounts only to the nature of inner flashing.",
+   "uncertainties": [],
+   "plain_english": "The relation between word and meaning is only this: it has the nature of inner shining."
+  },
+  {
+   "verse": 687,
+   "rows": [
+    {
+     "surface": "dhūmātsambandhato",
+     "gloss": "from-smoke-from-relation",
+     "grounds": "compound: from smoke through its relation",
+     "morph": "compound: dhūmāt+sambandhataḥ (m.abl.sg+indecl.)"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "the object inferred or manifested",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parokṣe",
+     "gloss": "in-unseen",
+     "grounds": "when the object is not directly perceived",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sphuraṇaṃ",
+     "gloss": "flashing",
+     "grounds": "inner manifestation in awareness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle in rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative particle expecting affirmation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does awareness of fire arise as inner flashing even when fire is unseen?",
+   "premises": [
+    "Smoke is related to fire",
+    "Fire may be unseen",
+    "Awareness can manifest fire inwardly from smoke"
+   ],
+   "inference": "From smoke and its relation, does not the flashing of unseen fire occur?",
+   "uncertainties": [],
+   "plain_english": "When fire is unseen, does not its shining arise from smoke through that relation?"
+  },
+  {
+   "verse": 688,
+   "rows": [
+    {
+     "surface": "tasmānna",
+     "gloss": "therefore-not",
+     "grounds": "compound: conclusion with negation",
+     "morph": "compound: tasmāt+na (indecl.)"
+    },
+    {
+     "surface": "jñānaśūnyatvaṃ",
+     "gloss": "knowledge-emptiness",
+     "grounds": "compound: state of being devoid of knowledge",
+     "morph": "compound: jñāna+śūnyatvam (n.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "emptiness",
+     "grounds": "voidness as a principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "copapadyate",
+     "gloss": "and-is-established",
+     "grounds": "compound: nor is emptiness established",
+     "morph": "compound: ca+upapadyate (indecl.+3.sg.pass-pres)"
+    }
+   ],
+   "question": "Why can neither absence of knowledge nor sheer emptiness be established?",
+   "premises": [
+    "Cognition involves inner manifestation",
+    "Inner manifestation rules out knowledge-emptiness",
+    "Sheer emptiness cannot account for cognition"
+   ],
+   "inference": "Therefore neither knowledge-emptiness nor sheer emptiness is established.",
+   "uncertainties": [],
+   "plain_english": "Therefore, neither the absence of knowledge nor sheer emptiness is established."
+  },
+  {
+   "verse": 689,
+   "rows": [
+    {
+     "surface": "nahi",
+     "gloss": "for-not",
+     "grounds": "compound: emphatic negation giving reason",
+     "morph": "compound: na+hi (indecl.)"
+    },
+    {
+     "surface": "śūnyasya",
+     "gloss": "of-empty",
+     "grounds": "what is void",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śūnyena",
+     "gloss": "by-empty",
+     "grounds": "by means of what is void",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bodhanaṃ",
+     "gloss": "awakening",
+     "grounds": "act of making known or cognizing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhanam",
+     "gloss": "refutation",
+     "grounds": "act of negating or sublating",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why can emptiness neither cognize nor refute anything?",
+   "premises": [
+    "Cognition requires a positive capacity",
+    "Refutation requires a positive capacity",
+    "Emptiness lacks any such capacity"
+   ],
+   "inference": "For the empty cannot be awakened by the empty, nor can it be refuted.",
+   "uncertainties": [],
+   "plain_english": "For emptiness cannot be made known by emptiness, nor can it be refuted by it."
+  },
+  {
+   "verse": 690,
+   "rows": [
+    {
+     "surface": "saṃvṛtyaiva",
+     "gloss": "by-convention-only",
+     "grounds": "compound: only by conventional means",
+     "morph": "compound: saṃvṛtyā+eva (f.ins.sg+indecl.)"
+    },
+    {
+     "surface": "saṃvṛtirhi",
+     "gloss": "convention-for",
+     "grounds": "compound: convention indeed",
+     "morph": "compound: saṃvṛtiḥ+hi (f.nom.sg+indecl.)"
+    },
+    {
+     "surface": "nivāryā",
+     "gloss": "to-be-removed",
+     "grounds": "something that must be negated or set aside",
+     "morph": "f.nom.sg (gerundive)"
+    },
+    {
+     "surface": "cedasaṃgamaḥ",
+     "gloss": "if-no-connection",
+     "grounds": "compound: if there is no real connection",
+     "morph": "compound: cet+asaṃgamaḥ (indecl.+m.nom.sg)"
+    }
+   ],
+   "question": "How can convention be removed if there is no real connection to ground it?",
+   "premises": [
+    "Convention may need to be removed",
+    "Removal would itself rely on convention",
+    "Without real connection this becomes problematic"
+   ],
+   "inference": "If there is no connection, convention would have to be removed only by convention.",
+   "uncertainties": [],
+   "plain_english": "If there is no real connection, then convention would have to be removed only by convention."
+  },
+  {
+   "verse": 691,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in another context or domain",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yujyate'pohaḥ",
+     "gloss": "is-fitting-exclusion",
+     "grounds": "compound: exclusion is fitting",
+     "morph": "compound: yujyate+apohaḥ (3.sg.pass-pres+m.nom.sg)"
+    },
+    {
+     "surface": "śabdārthānāmasaṃgamāt",
+     "gloss": "from-non-connection-of-word-meanings",
+     "grounds": "compound: because word and meaning do not truly connect",
+     "morph": "compound: śabda+arthānām+asaṃgamāt (m.gen.pl+m.abl.sg)"
+    }
+   ],
+   "question": "In what limited context might exclusion be considered fitting?",
+   "premises": [
+    "Exclusion is problematic as a general theory",
+    "Words and meanings may lack direct connection",
+    "In that limited sense exclusion might be applied"
+   ],
+   "inference": "Elsewhere, exclusion may be fitting because of the non-connection of words and meanings.",
+   "uncertainties": [
+    "The scope of 'elsewhere' is not fully specified"
+   ],
+   "plain_english": "Elsewhere, exclusion may be fitting because words and meanings do not truly connect."
+  },
+  {
+   "verse": 692,
+   "rows": [
+    {
+     "surface": "carmopamaścedityādi",
+     "gloss": "leather-like-if-etc",
+     "grounds": "compound: the example beginning with 'if like leather' and so on",
+     "morph": "compound: carma+upamaḥ+cet+iti+ādi (n.nom.sg+indecl.+indecl.+indecl.)"
+    },
+    {
+     "surface": "yadbauddhaiḥ",
+     "gloss": "what-by-buddhists",
+     "grounds": "compound: what has been stated by Buddhists",
+     "morph": "compound: yat+bauddhaiḥ (n.nom.sg+m.ins.pl)"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated or cited as an example",
+     "morph": "n.nom.sg (past participle, √hṛ with sam+ud+ā)"
+    }
+   ],
+   "question": "What Buddhist example is being cited for examination in this argument?",
+   "premises": [
+    "Buddhists have offered illustrative examples",
+    "The leather-like example is among them",
+    "This example is brought forward for consideration"
+   ],
+   "inference": "The example beginning with 'if like leather' and so on is what has been declared by the Buddhists.",
+   "uncertainties": [
+    "The full content of the cited Buddhist argument is not given here"
+   ],
+   "plain_english": "What the Buddhists have declared, beginning with the example 'if like leather' and so on, is cited here."
+  },
+  {
+   "verse": 693,
+   "rows": [
+    {
+     "surface": "vikalpā",
+     "gloss": "conceptual-constructions",
+     "grounds": "mental constructs or imagined alternatives",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye'pi",
+     "gloss": "which-also",
+     "grounds": "compound: those which also",
+     "morph": "compound: ye+api (m.nom.pl+indecl.)"
+    },
+    {
+     "surface": "cārvākairuktāste'pi",
+     "gloss": "by-cārvākas-stated-those-also",
+     "grounds": "compound: those also stated by the Cārvākas",
+     "morph": "compound: cārvākaiḥ+uktāḥ+te+api (m.ins.pl+m.nom.pl+m.nom.pl+indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhakāḥ",
+     "gloss": "refuting",
+     "grounds": "capable of defeating the position",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Do the conceptual objections raised by the Cārvākas succeed in refuting this position?",
+   "premises": [
+    "Cārvākas propose conceptual objections",
+    "Such objections are considered here",
+    "They do not succeed in refutation"
+   ],
+   "inference": "Even the conceptual constructions stated by the Cārvākas are not refuting.",
+   "uncertainties": [
+    "The specific Cārvāka arguments are not detailed in this verse"
+   ],
+   "plain_english": "Even the conceptual objections stated by the Cārvākas do not refute this position."
+  },
+  {
+   "verse": 694,
+   "rows": [
+    {
+     "surface": "sarvabhāvasvabhāvatvādabhāvasyāpi",
+     "gloss": "because-own-nature-of-all-beings-of-non-being-also",
+     "grounds": "compound: because non-being too has the nature of all beings",
+     "morph": "compound: sarva+bhāva+svabhāvatvāt+abhāvasya+api (m.abl.sg+m.gen.sg+indecl.)"
+    },
+    {
+     "surface": "bhāvataḥ",
+     "gloss": "as-being",
+     "grounds": "in the manner of a positive entity",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why can non-being be treated as having a positive nature?",
+   "premises": [
+    "All beings have their own nature",
+    "Non-being is included in consideration",
+    "Non-being can be understood in terms of being"
+   ],
+   "inference": "Because non-being too has the nature of all beings, it is treated as being.",
+   "uncertainties": [
+    "The metaphysical sense of non-being having nature is compressed"
+   ],
+   "plain_english": "Because non-being too has the nature of all things, it is treated as a kind of being."
+  },
+  {
+   "verse": 695,
+   "rows": [
+    {
+     "surface": "abhāvasya",
+     "gloss": "of-non-being",
+     "grounds": "absence or negation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kapālādirūpatvādvastutā",
+     "gloss": "because-form-of-skull-etc-thingness",
+     "grounds": "compound: thingness due to having forms like a shard",
+     "morph": "compound: kapāla+ādi+rūpatvāt+vastutā (n.abl.sg+f.nom.sg)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "stands or remains established",
+     "morph": "f.nom.sg (past participle, √sthā)"
+    }
+   ],
+   "question": "How does non-being acquire the status of a thing in experience?",
+   "premises": [
+    "Non-being can appear in concrete forms",
+    "Forms like a shard are tangible instances",
+    "Such forms confer thingness"
+   ],
+   "inference": "Because non-being takes forms such as a shard, its thingness is established.",
+   "uncertainties": [
+    "kapāla can mean skull or potsherd; context suggests a concrete remnant"
+   ],
+   "plain_english": "Because non-being takes forms such as a potsherd, its status as a thing is established."
+  },
+  {
+   "verse": 696,
+   "rows": [
+    {
+     "surface": "abhāvasyapi",
+     "gloss": "of-non-being-also",
+     "grounds": "compound: even of non-being",
+     "morph": "compound: abhāvasya+api (m.gen.sg+indecl.)"
+    },
+    {
+     "surface": "karaṇe",
+     "gloss": "in-making",
+     "grounds": "in the act of producing or effecting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sampattirnopapadyate",
+     "gloss": "accomplishment-not-is-established",
+     "grounds": "compound: accomplishment is not established",
+     "morph": "compound: sampattiḥ+na+upapadyate (f.nom.sg+indecl.+3.sg.pass-pres)"
+    }
+   ],
+   "question": "Why can non-being not be accomplished as a produced effect?",
+   "premises": [
+    "Production requires positive causal accomplishment",
+    "Non-being lacks positive producible nature",
+    "Thus its accomplishment as an effect fails"
+   ],
+   "inference": "Even in the case of non-being, accomplishment through production is not established.",
+   "uncertainties": [],
+   "plain_english": "Even for non-being, accomplishment through production is not established."
+  },
+  {
+   "verse": 697,
+   "rows": [
+    {
+     "surface": "vyāpterakhaṇḍitaivāste",
+     "gloss": "from-pervasion-unbroken-indeed-remains",
+     "grounds": "compound: because of pervasion it remains unbroken",
+     "morph": "compound: vyāpteḥ+akhaṇḍitā+eva+āste (f.abl.sg+f.nom.sg+indecl.+3.sg.mid-pres √ās)"
+    },
+    {
+     "surface": "śivatā",
+     "gloss": "śiva-ness",
+     "grounds": "the state or nature of Śiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvagāminī",
+     "gloss": "all-pervading",
+     "grounds": "present everywhere",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why does the nature of Śiva remain unbroken and all-pervading?",
+   "premises": [
+    "Pervasion implies presence without division",
+    "Śiva-ness is characterized by such pervasion",
+    "What is all-pervading remains unbroken"
+   ],
+   "inference": "Because of pervasion, Śiva-ness remains unbroken and all-pervading.",
+   "uncertainties": [],
+   "plain_english": "Because of its pervasion, the nature of Śiva remains unbroken and all-pervading."
+  },
+  {
+   "verse": 698,
+   "rows": [
+    {
+     "surface": "darśane",
+     "gloss": "in-view",
+     "grounds": "in a philosophical or experiential standpoint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative particle indicating the system",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānātvaṃ",
+     "gloss": "manifoldness",
+     "grounds": "multiplicity or difference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bandhamokṣāvudāhṛtau",
+     "gloss": "bondage-liberation-declared",
+     "grounds": "compound: bondage and liberation are declared",
+     "morph": "compound: bandha+mokṣau+udāhṛtau (m.nom.du+m.nom.du past participle)"
+    }
+   ],
+   "question": "In which philosophical view are bondage and liberation declared within manifoldness?",
+   "premises": [
+    "Some views posit manifoldness",
+    "Bondage and liberation are doctrinal categories",
+    "These categories are declared within such a view"
+   ],
+   "inference": "In a view where manifoldness is posited, bondage and liberation are declared.",
+   "uncertainties": [
+    "The specific school is implied rather than named"
+   ],
+   "plain_english": "In a view where there is manifoldness, bondage and liberation are declared."
+  },
+  {
+   "verse": 699,
+   "rows": [
+    {
+     "surface": "satyamuktamārurukṣostatkramapratipattaye",
+     "gloss": "truly-spoken-for-one-wishing-to-ascend-for-grasping-that-sequence",
+     "grounds": "compound: truly stated for one wishing to ascend, for understanding that sequence",
+     "morph": "compound: satyam+uktam+ārurukṣoḥ+tat+krama+pratipattaye (n.nom.sg+n.nom.sg+m.gen.sg+pron.+m.+f.dat.sg)"
+    }
+   ],
+   "question": "For whom and for what purpose has this teaching been truly stated?",
+   "premises": [
+    "A teaching has been stated",
+    "Some aspirants wish to ascend",
+    "Understanding the sequence is necessary for them"
+   ],
+   "inference": "It has been truly stated for one wishing to ascend, for the grasping of that sequence.",
+   "uncertainties": [
+    "The exact sequence referred to depends on the broader context"
+   ],
+   "plain_english": "This has been truly stated for one who wishes to ascend, so that they may understand that sequence."
+  }
+ ]
+}

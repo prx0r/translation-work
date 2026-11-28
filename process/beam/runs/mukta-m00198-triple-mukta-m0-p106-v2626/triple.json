@@ -1,0 +1,975 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2626,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "a single unit measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parigrāhya",
+     "gloss": "having-taken",
+     "grounds": "gerund indicating adoption of measure",
+     "morph": "gerund (pari-grah)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "width dimension",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dviguṇāyatam",
+     "gloss": "double-length",
+     "grounds": "compound: twice-long",
+     "morph": "compound (dviguṇa+āyata, m.acc.sg)"
+    }
+   ],
+   "question": "What proportional relation between breadth and length is prescribed for this measure?",
+   "premises": [
+    "One part is to be taken as the breadth.",
+    "The length is prescribed as double that breadth."
+   ],
+   "inference": "The prescribed form has a length twice its breadth.",
+   "uncertainties": [],
+   "plain_english": "Taking one part as the breadth, the length should be made double."
+  },
+  {
+   "verse": 2627,
+   "rows": [
+    {
+     "surface": "karṇordhve",
+     "gloss": "above-ears",
+     "grounds": "location above the ears",
+     "morph": "compound (karṇa+ūrdhva, n.loc.sg)"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "with-head",
+     "grounds": "measurement taken with the head",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "nāhaṃ",
+     "gloss": "circumference",
+     "grounds": "girth or perimeter measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāstriṃśāṃgulaṃ",
+     "gloss": "with-thirty-six-fingers",
+     "grounds": "measure of thirty-six aṅgulas",
+     "morph": "compound (sa+aṣṭriṃśat+aṅgula, m.acc.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What circumference above the ears including the head is prescribed in aṅgulas?",
+   "premises": [
+    "The measurement is taken above the ears together with the head.",
+    "The prescribed circumference is thirty-six aṅgulas."
+   ],
+   "inference": "The circumference above the ears including the head should measure thirty-six aṅgulas.",
+   "uncertainties": [
+    "nāhaṃ interpreted as circumference based on context and legacy hint"
+   ],
+   "plain_english": "Above the ears, the circumference including the head should be thirty-six aṅgulas."
+  },
+  {
+   "verse": 2628,
+   "rows": [
+    {
+     "surface": "karṇordhve",
+     "gloss": "above-ears",
+     "grounds": "location above the ears",
+     "morph": "compound (karṇa+ūrdhva, n.loc.sg)"
+    },
+    {
+     "surface": "pūrvabhāgaṃ",
+     "gloss": "front-part",
+     "grounds": "anterior portion",
+     "morph": "compound (pūrva+bhāga, m.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāviṃśāṃgulakaṃ",
+     "gloss": "twenty-two-fingers",
+     "grounds": "measure of twenty-two aṅgulas",
+     "morph": "compound (dvāviṃśat+aṅgula+ka, m.acc.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What measure is prescribed for the front part above the ears?",
+   "premises": [
+    "The front part above the ears is being specified.",
+    "Its prescribed measure is twenty-two aṅgulas."
+   ],
+   "inference": "The front part above the ears should measure twenty-two aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "The front part above the ears should be twenty-two aṅgulas."
+  },
+  {
+   "verse": 2629,
+   "rows": [
+    {
+     "surface": "tayormadhyastha",
+     "gloss": "situated-between-those-two",
+     "grounds": "located in the middle of the two",
+     "morph": "compound (tad+madhya+stha, f.nom.sg)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "portion or division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇayorantarasthitiḥ",
+     "gloss": "position-between-ears",
+     "grounds": "the placement between the two ears",
+     "morph": "compound (karṇa+antara+sthiti, f.nom.sg)"
+    }
+   ],
+   "question": "How is the position between the two ears defined in relation to their middle part?",
+   "premises": [
+    "There is a part situated between those two.",
+    "This is identified as the position between the ears."
+   ],
+   "inference": "The position between the ears is the part situated in the middle of them.",
+   "uncertainties": [],
+   "plain_english": "The part situated between those two is the position between the ears."
+  },
+  {
+   "verse": 2630,
+   "rows": [
+    {
+     "surface": "guḍāgrakeśāntaṃ",
+     "gloss": "from-nape-tip-to-hair-end",
+     "grounds": "distance from nape tip to hair limit",
+     "morph": "compound (guḍāgra+keśānta, n.nom.sg)"
+    },
+    {
+     "surface": "sārdhanavāṃgulam",
+     "gloss": "nine-and-half-fingers",
+     "grounds": "measure of nine and a half aṅgulas",
+     "morph": "compound (sa+ardha+nava+aṅgula, n.nom.sg)"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "stated as the prescribed measure",
+     "morph": "n.nom.sg past-passive-participle (ud-ā-hṛ)"
+    }
+   ],
+   "question": "What measure is declared for the distance from the nape tip to the hair end?",
+   "premises": [
+    "The distance from the nape tip to the hair end is specified.",
+    "It is declared to be nine and a half aṅgulas."
+   ],
+   "inference": "The distance from the nape tip to the hair end should be nine and a half aṅgulas.",
+   "uncertainties": [
+    "guḍāgra interpreted as nape tip based on iconometric context"
+   ],
+   "plain_english": "The distance from the nape tip to the hair end is declared to be nine and a half aṅgulas."
+  },
+  {
+   "verse": 2631,
+   "rows": [
+    {
+     "surface": "maṇḍalāt",
+     "gloss": "from-circle",
+     "grounds": "starting from the circular region",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pṛṣṭhakeśāntaṃ",
+     "gloss": "to-back-hair-end",
+     "grounds": "up to the hair limit at the back",
+     "morph": "compound (pṛṣṭha+keśānta, n.nom.sg)"
+    },
+    {
+     "surface": "sārdhadharmāṃgulaṃ",
+     "gloss": "ten-and-half-fingers",
+     "grounds": "measure of ten and a half aṅgulas",
+     "morph": "compound (sa+ardha+dharma+aṅgula, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What measure is prescribed from the circle to the back hair end?",
+   "premises": [
+    "The distance is measured from the circle to the back hair end.",
+    "The prescribed measure is ten and a half aṅgulas."
+   ],
+   "inference": "The distance from the circle to the back hair end should be ten and a half aṅgulas.",
+   "uncertainties": [
+    "dharma interpreted as ten in numerical symbolism"
+   ],
+   "plain_english": "From the circle to the back hair end it should be ten and a half aṅgulas."
+  },
+  {
+   "verse": 2632,
+   "rows": [
+    {
+     "surface": "keśāntā",
+     "gloss": "from-hair-end",
+     "grounds": "starting at the hair limit",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dakṣisūtraṃ",
+     "gloss": "to-right-line",
+     "grounds": "up to the right-side line",
+     "morph": "compound (dakṣi+sūtra, n.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "dvayormadhye",
+     "gloss": "between-the-two",
+     "grounds": "in the middle of the two",
+     "morph": "compound (dvaya+madhya, n.loc.sg)"
+    },
+    {
+     "surface": "bhruvaḥ",
+     "gloss": "of-brows",
+     "grounds": "of the eyebrows",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "position",
+     "grounds": "placement or location",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where is the position of the brows located relative to the hair end and the right line?",
+   "premises": [
+    "A span is defined from the hair end to the right line.",
+    "The position of the brows is in the middle of these two."
+   ],
+   "inference": "The brows should be positioned midway between the hair end and the right line.",
+   "uncertainties": [
+    "dakṣisūtraṃ interpreted as a right-side reference line"
+   ],
+   "plain_english": "From the hair end to the right line, the position of the brows should be in the middle."
+  },
+  {
+   "verse": 2633,
+   "rows": [
+    {
+     "surface": "dvyantaraṃ",
+     "gloss": "two-interval",
+     "grounds": "an interval of two units",
+     "morph": "compound (dvi+antara, n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhruvorvipra",
+     "gloss": "between-brows-o-brahmin",
+     "grounds": "vocative addressing the brahmin regarding the brows",
+     "morph": "compound (bhru+vipra, m.voc.sg)"
+    },
+    {
+     "surface": "sārdhavedayavaṃ",
+     "gloss": "four-and-half-barleycorns",
+     "grounds": "measure of four and a half yavas",
+     "morph": "compound (sa+ardha+veda+yava, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What interval is prescribed between the two brows?",
+   "premises": [
+    "The interval between the brows is specified.",
+    "Its measure is four and a half yavas."
+   ],
+   "inference": "The space between the brows should be four and a half yavas.",
+   "uncertainties": [
+    "veda interpreted as four in numerical symbolism"
+   ],
+   "plain_english": "O brahmin, the interval between the brows should be four and a half yavas."
+  },
+  {
+   "verse": 2634,
+   "rows": [
+    {
+     "surface": "bālacandrāgravatkṣīṇaṃ",
+     "gloss": "thin-like-young-moon-tip",
+     "grounds": "tapering like the tip of a crescent moon",
+     "morph": "compound (bālacandra+agra+vat+kṣīṇa, n.nom.sg)"
+    },
+    {
+     "surface": "bhruvāgrau",
+     "gloss": "brow-tips",
+     "grounds": "the ends of the eyebrows",
+     "morph": "compound (bhru+agra, n.nom.du)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "referring to the brow",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "the central part",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the tips and middle of the brows be shaped?",
+   "premises": [
+    "The brow tips are described as thin like the tip of a young moon.",
+    "The middle part of the brow is distinguished from the tips."
+   ],
+   "inference": "The brows should taper to thin tips like a young moon while having a distinct middle.",
+   "uncertainties": [],
+   "plain_english": "The tips of the brows should be thin like the tip of a young moon, with a distinct middle."
+  },
+  {
+   "verse": 2635,
+   "rows": [
+    {
+     "surface": "kṛṣṇamaṇḍalavistāraṃ",
+     "gloss": "black-circle-breadth",
+     "grounds": "the width of the black circle of the eye",
+     "morph": "compound (kṛṣṇa+maṇḍala+vistāra, m.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "vertical extent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍyavaṃ",
+     "gloss": "six-barleycorns",
+     "grounds": "measure of six yavas",
+     "morph": "compound (ṣaṣ+yava, m.acc.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What breadth and height are prescribed for the black circle of the eye?",
+   "premises": [
+    "The breadth of the black circle is specified.",
+    "The height is also specified as six yavas."
+   ],
+   "inference": "Both the breadth and height of the black circle should be six yavas.",
+   "uncertainties": [],
+   "plain_english": "The breadth and the height of the black circle of the eye should be six yavas."
+  },
+  {
+   "verse": 2636,
+   "rows": [
+    {
+     "surface": "śabarākṛtikaṃ",
+     "gloss": "śabara-shaped",
+     "grounds": "having the shape associated with śabara",
+     "morph": "compound (śabara+ākṛti+ka, n.nom.sg)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanurākṛtireva",
+     "gloss": "bow-shaped-indeed",
+     "grounds": "having the shape of a bow",
+     "morph": "compound (dhanus+ākṛti, f.nom.sg) + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative shapes are permitted for the eye form being described?",
+   "premises": [
+    "One permitted shape is śabara-shaped.",
+    "Another permitted shape is bow-shaped."
+   ],
+   "inference": "The form may be either śabara-shaped or bow-shaped.",
+   "uncertainties": [
+    "śabarākṛtikaṃ exact visual referent uncertain"
+   ],
+   "plain_english": "It may be śabara-shaped or bow-shaped."
+  },
+  {
+   "verse": 2637,
+   "rows": [
+    {
+     "surface": "tadākārānukūloccaṃ",
+     "gloss": "height-conforming-to-that-shape",
+     "grounds": "elevation matching that form",
+     "morph": "compound (tad+ākāra+anukūla+ucca, n.nom.sg)"
+    },
+    {
+     "surface": "sitamaṇḍalayordvija",
+     "gloss": "of-white-circles-o-twice-born",
+     "grounds": "vocative addressing the twice-born regarding the white circles",
+     "morph": "compound (sita+maṇḍala, n.gen.du) + m.voc.sg"
+    }
+   ],
+   "question": "How should the height of the white circles of the eyes be determined?",
+   "premises": [
+    "The white circles of the eyes are the subject.",
+    "Their height should conform to the chosen shape."
+   ],
+   "inference": "The height of the white circles should follow the form previously specified.",
+   "uncertainties": [],
+   "plain_english": "O twice-born, the height of the white circles should conform to that shape."
+  },
+  {
+   "verse": 2638,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "referring to the black part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jotirmaṇḍalakaṃ",
+     "gloss": "light-circle",
+     "grounds": "the circle of light or pupil",
+     "morph": "compound (jotis+maṇḍala+ka, n.nom.sg)"
+    },
+    {
+     "surface": "yavam",
+     "gloss": "one-barleycorn",
+     "grounds": "measure of one yava",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is the prescribed size of the light circle within the black part of the eye?",
+   "premises": [
+    "A light circle is located in the middle of the black part.",
+    "Its measure is one yava."
+   ],
+   "inference": "The light circle in the middle of the black part should measure one yava.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the black part, the light circle should be one yava."
+  },
+  {
+   "verse": 2639,
+   "rows": [
+    {
+     "surface": "tatsārdhayavamānaṃ",
+     "gloss": "that-one-and-half-barleycorn-measure",
+     "grounds": "a measure of one and a half yavas of that",
+     "morph": "compound (tad+sa+ardha+yava+māna, n.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvavarmatataṃ",
+     "gloss": "extended-upward-covering",
+     "grounds": "the upper covering extended upward",
+     "morph": "compound (ūrdhva+varman+tata, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What measure is prescribed for the upward extension of the upper covering?",
+   "premises": [
+    "The upper covering extends upward.",
+    "Its prescribed measure is one and a half yavas."
+   ],
+   "inference": "The upward extension of the upper covering should be one and a half yavas.",
+   "uncertainties": [
+    "varma interpreted as eyelid/covering in this context"
+   ],
+   "plain_english": "The upward extension of the upper covering should measure one and a half yavas."
+  },
+  {
+   "verse": 2640,
+   "rows": [
+    {
+     "surface": "netrayorantaraṃ",
+     "gloss": "space-between-eyes",
+     "grounds": "the interval between the two eyes",
+     "morph": "compound (netra+antara, n.nom.sg)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating inclusion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pādadvyaṃgulaṃ",
+     "gloss": "quarter-two-fingers",
+     "grounds": "two and a quarter aṅgulas",
+     "morph": "compound (sa+pāda+dvi+aṅgula, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What distance is prescribed between the two eyes?",
+   "premises": [
+    "The space between the eyes is specified.",
+    "Its measure is two and a quarter aṅgulas."
+   ],
+   "inference": "The distance between the eyes should be two and a quarter aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, the space between the eyes should be two and a quarter aṅgulas."
+  },
+  {
+   "verse": 2641,
+   "rows": [
+    {
+     "surface": "karturnāśamathodṛṣṭiḥ",
+     "gloss": "downward-gaze-destroys-maker",
+     "grounds": "a downward look brings destruction to the maker",
+     "morph": "compound (kartu+nāśa+atha+udṛṣṭi, f.nom.sg)"
+    },
+    {
+     "surface": "ūrdhvadṛṣṭirvipatkaram",
+     "gloss": "upward-gaze-brings-calamity",
+     "grounds": "an upward look causes misfortune",
+     "morph": "compound (ūrdhva+dṛṣṭi+vipatkara, n.nom.sg)"
+    }
+   ],
+   "question": "What harmful consequences follow from improper upward or downward gaze in the image?",
+   "premises": [
+    "A downward gaze is said to destroy the maker.",
+    "An upward gaze is said to bring calamity."
+   ],
+   "inference": "Improper gaze direction in the image causes harm to the maker or brings misfortune.",
+   "uncertainties": [
+    "compound segmentation of karturnāśamathodṛṣṭiḥ is interpretive"
+   ],
+   "plain_english": "A downward gaze destroys the maker, and an upward gaze brings calamity."
+  },
+  {
+   "verse": 2642,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion from previous warning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "with complete",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "with careful exertion",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samameva",
+     "gloss": "even-level",
+     "grounds": "straight and balanced",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "nirīkṣaṇam",
+     "gloss": "gaze",
+     "grounds": "the act of looking",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of gaze is enjoined to avoid the harms of improper vision?",
+   "premises": [
+    "Improper gaze directions cause harm.",
+    "Careful effort should be applied to the gaze."
+   ],
+   "inference": "The gaze should be made level and straight with all effort.",
+   "uncertainties": [],
+   "plain_english": "Therefore, with all effort, the gaze should be made perfectly level."
+  },
+  {
+   "verse": 2643,
+   "rows": [
+    {
+     "surface": "nāsikāpuṭa",
+     "gloss": "nose-wing",
+     "grounds": "the nostril wing",
+     "morph": "compound-member (nāsikā+puṭa)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "on the outer side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāramaṣṭādaśāyavam",
+     "gloss": "width-eighteen-barleycorns",
+     "grounds": "a width of eighteen yavas",
+     "morph": "compound (tāra+aṣṭādaśa+yava, n.nom.sg)"
+    }
+   ],
+   "question": "What width is prescribed for the outer side of the nostril wing?",
+   "premises": [
+    "The outer side of the nostril wing is specified.",
+    "Its width is eighteen yavas."
+   ],
+   "inference": "The outer side of the nostril wing should measure eighteen yavas in width.",
+   "uncertainties": [],
+   "plain_english": "On the outside of the nostril wing, the width should be eighteen yavas."
+  },
+  {
+   "verse": 2644,
+   "rows": [
+    {
+     "surface": "gojimūlāttu",
+     "gloss": "from-goji-root",
+     "grounds": "from the root called goji",
+     "morph": "compound (goji+mūla, n.abl.sg) + (indecl.)"
+    },
+    {
+     "surface": "nāsyagraṃ",
+     "gloss": "nose-tip",
+     "grounds": "the tip of the nose",
+     "morph": "compound (nāsā+agra, n.nom.sg)"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "prominent",
+     "grounds": "elevated or high",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "referring to the height",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "measure of two aṅgulas",
+     "morph": "compound (dvi+aṅgula, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What height is prescribed for the nose tip from the goji root?",
+   "premises": [
+    "The height is measured from the goji root to the nose tip.",
+    "The prescribed prominence is two aṅgulas."
+   ],
+   "inference": "The nose tip should rise two aṅgulas from the goji root.",
+   "uncertainties": [
+    "goji interpreted as a specific nasal landmark"
+   ],
+   "plain_english": "From the goji root, the nose tip should be prominent by two aṅgulas."
+  },
+  {
+   "verse": 2645,
+   "rows": [
+    {
+     "surface": "adhyardhayavamālambya",
+     "gloss": "extending-one-and-half-barleycorns",
+     "grounds": "projecting by one and a half yavas",
+     "morph": "compound (adhyardha+yava, n.acc.sg) + gerund (ā-lamb)"
+    },
+    {
+     "surface": "nāsāgraṃ",
+     "gloss": "nose-tip",
+     "grounds": "the tip of the nose",
+     "morph": "compound (nāsā+agra, n.nom.sg)"
+    },
+    {
+     "surface": "puṭasūtrataḥ",
+     "gloss": "from-wing-line",
+     "grounds": "measured from the line of the nostril wing",
+     "morph": "compound (puṭa+sūtra, n.abl.sg) + (indecl.)"
+    }
+   ],
+   "question": "How far should the nose tip project from the line of the nostril wing?",
+   "premises": [
+    "The projection is measured from the nostril wing line.",
+    "The nose tip extends by one and a half yavas."
+   ],
+   "inference": "The nose tip should project one and a half yavas from the nostril wing line.",
+   "uncertainties": [],
+   "plain_english": "The nose tip should project one and a half yavas from the line of the nostril wing."
+  },
+  {
+   "verse": 2646,
+   "rows": [
+    {
+     "surface": "uttaroṣṭhasyordhvanimna",
+     "gloss": "upper-region-above-upper-lip",
+     "grounds": "the raised area above the upper lip",
+     "morph": "compound (uttaroṣṭha+ūrdhva+nimna, n.nom.sg)"
+    },
+    {
+     "surface": "gojināmnā",
+     "gloss": "by-name-goji",
+     "grounds": "known by the name goji",
+     "morph": "compound (goji+nāman, n.ins.sg)"
+    },
+    {
+     "surface": "praśaṃsitam",
+     "gloss": "is-praised",
+     "grounds": "is commended or designated",
+     "morph": "n.nom.sg past-passive-participle (pra-śaṃs)"
+    }
+   ],
+   "question": "What name is given to the upper region above the upper lip?",
+   "premises": [
+    "The region above the upper lip is identified.",
+    "It is praised or designated by the name goji."
+   ],
+   "inference": "The upper region above the upper lip is called goji.",
+   "uncertainties": [],
+   "plain_english": "The upper region above the upper lip is praised under the name goji."
+  },
+  {
+   "verse": 2647,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating inclusion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "quarter",
+     "grounds": "one fourth part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "caturaṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "four parts with a quarter",
+     "morph": "compound (sa+pāda+catur+aṃśa, n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsyādīrghaṃ",
+     "gloss": "mouth-length",
+     "grounds": "the length of the mouth",
+     "morph": "compound (āsya+dīrgha, n.acc.sg)"
+    },
+    {
+     "surface": "tiryagviduḥ",
+     "gloss": "they-know-as-width",
+     "grounds": "known as the transverse measure",
+     "morph": "3.pl.perf.act (vid) + (indecl.)"
+    }
+   ],
+   "question": "What transverse length is prescribed for the mouth?",
+   "premises": [
+    "The mouth length is specified as four and a quarter parts.",
+    "This is known as its transverse measure."
+   ],
+   "inference": "The width of the mouth should be four and a quarter parts.",
+   "uncertainties": [
+    "unit of the four and a quarter parts is implied from context"
+   ],
+   "plain_english": "The transverse length of the mouth is known to be four and a quarter parts."
+  },
+  {
+   "verse": 2648,
+   "rows": [
+    {
+     "surface": "uttaroṣṭhasya",
+     "gloss": "of-upper-lip",
+     "grounds": "belonging to the upper lip",
+     "morph": "compound (uttara+oṣṭha, m.gen.sg)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "at the center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "width",
+     "grounds": "breadth or span",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhatrayaṃ",
+     "gloss": "three-and-half",
+     "grounds": "three and a half units",
+     "morph": "compound (sa+ardha+traya, n.acc.sg)"
+    },
+    {
+     "surface": "yavam",
+     "gloss": "barleycorns",
+     "grounds": "measured in yavas",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What width is prescribed for the middle of the upper lip?",
+   "premises": [
+    "The middle of the upper lip is specified.",
+    "Its width is three and a half yavas."
+   ],
+   "inference": "The middle of the upper lip should be three and a half yavas wide.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the upper lip, the width should be three and a half yavas."
+  },
+  {
+   "verse": 2649,
+   "rows": [
+    {
+     "surface": "yavamānaghanaṃ",
+     "gloss": "one-barleycorn-thick",
+     "grounds": "having a thickness of one yava",
+     "morph": "compound (yava+māna+ghana, n.nom.sg)"
+    },
+    {
+     "surface": "palī",
+     "gloss": "edge",
+     "grounds": "the rim or border",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uttaroṣṭhasya",
+     "gloss": "of-upper-lip",
+     "grounds": "belonging to the upper lip",
+     "morph": "compound (uttara+oṣṭha, m.gen.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "on the upper side",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What thickness is prescribed for the upper edge of the upper lip?",
+   "premises": [
+    "The edge above the upper lip is specified.",
+    "Its thickness is one yava."
+   ],
+   "inference": "The upper edge of the upper lip should be one yava thick.",
+   "uncertainties": [
+    "palī interpreted as edge or rim of the lip"
+   ],
+   "plain_english": "The edge above the upper lip should be one yava thick."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "liṅga",
+     "gloss": "liṅga",
+     "grounds": "the liṅga; object in locative absolute context with sati",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bere",
+     "gloss": "image",
+     "grounds": "the cult image (bera); coordinate with liṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhādau",
+     "gloss": "pedestal-etc",
+     "grounds": "pedestal and so forth; pīṭha+ādi compound",
+     "morph": "pīṭha+ādi, n.loc.sg"
+    },
+    {
+     "surface": "varṇāntara",
+     "gloss": "another-color",
+     "grounds": "a different color; object of change expressed by gate",
+     "morph": "varṇa+antara, n.acc.sg"
+    },
+    {
+     "surface": "gate",
+     "gloss": "gone-to",
+     "grounds": "having reached; past participle from √gam",
+     "morph": "ppp.n.loc.sg, √gam"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "when existing; forms locative absolute with gate",
+     "morph": "prap.n.loc.sg, √as"
+    }
+   ],
+   "question": "What change in the liṅga, image, or pedestal triggers the prescribed remedial rite?",
+   "premises": [
+    "The liṅga, image, and pedestal are the objects under consideration.",
+    "These objects may undergo a change to another color.",
+    "The condition is expressed as obtaining when such a change has occurred."
+   ],
+   "inference": "A remedial rite is indicated when the liṅga, image, or pedestal has changed to another color.",
+   "uncertainties": [
+    "The apodosis specifying the exact remedial action is supplied by the preceding verse context."
+   ],
+   "plain_english": "When the liṅga, the image, and the pedestal and so forth have changed to another color."
+  }
+ ]
+}

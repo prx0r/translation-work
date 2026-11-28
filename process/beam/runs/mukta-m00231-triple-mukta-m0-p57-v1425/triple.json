@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund of sampūj",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular neuter modifying karma",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative singular neuter object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāttasyā'jñayā",
+     "gloss": "should-do-by-his-command",
+     "grounds": "fused form kuryāt + tasya + ājñayā; optative of kṛ with instrumental phrase",
+     "morph": "3.sg.act-opt (kṛ)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Must every action be performed always under the guru's command after worshipping him?",
+   "premises": [
+    "Guru is worshipped first.",
+    "All action follows his command.",
+    "This obedience is constant."
+   ],
+   "inference": "The practitioner's every act is guru-authorized.",
+   "uncertainties": [
+    "The fused token kuryāttasyā'jñayā combines verb and instrumental phrase; exact sandhi boundary is as printed."
+   ],
+   "plain_english": "Having worshipped, one should always perform all action by his command."
+  }
+ ]
+}

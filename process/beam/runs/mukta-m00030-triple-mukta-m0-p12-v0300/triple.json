@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "arddha+candra+dharāṃ",
+     "gloss": "half-moon-bearing",
+     "grounds": "compound adjective describing the goddess as holding or bearing a half-moon; analyzed as fused form",
+     "morph": "compound:arddha+candra+dhara-f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of visualization in the meditative context",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pīnonnata+payodharām",
+     "gloss": "full-uplifted-breasts-having",
+     "grounds": "bahuvrihi compound adjective describing the goddess's physical form",
+     "morph": "compound:pīna+unnata+payodhara-f.acc.sg"
+    }
+   ],
+   "question": "What iconographic attributes define the goddess visualized in meditation?",
+   "premises": [
+    "The goddess bears a half-moon.",
+    "The goddess possesses full and uplifted breasts.",
+    "These attributes qualify the deity as the object of meditation."
+   ],
+   "inference": "The goddess to be visualized is characterized by bearing a half-moon and having full, uplifted breasts.",
+   "uncertainties": [],
+   "plain_english": "Visualize the goddess who bears a half-moon and has full, uplifted breasts."
+  }
+ ]
+}

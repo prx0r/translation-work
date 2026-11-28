@@ -1,0 +1,573 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2413,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "directional adverb indicating upward region",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajāpatiḥ",
+     "gloss": "prajapati",
+     "grounds": "deity name invoked as protector",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative/imprecative wish for protection",
+     "morph": "3.sg.impv.act √pā"
+    },
+    {
+     "surface": "adhaḥ+ca",
+     "gloss": "below+and",
+     "grounds": "directional adverb conjoined with particle",
+     "morph": "(indecl.+indecl.)"
+    },
+    {
+     "surface": "ananta+devatā",
+     "gloss": "ananta+deity",
+     "grounds": "compound naming the deity of the lower region",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "Which deities are invoked to guard the upper and lower directions?",
+   "premises": [
+    "Prajapati is invoked for protection above.",
+    "Ananta-devata is invoked for protection below.",
+    "The verse extends directional guardianship vertically."
+   ],
+   "inference": "Prajapati protects the upper region while Ananta-devata protects the lower region.",
+   "uncertainties": [],
+   "plain_english": "May Prajapati protect above, and may the deity Ananta protect below."
+  },
+  {
+   "verse": 2414,
+   "rows": [
+    {
+     "surface": "tri+śaktiḥ+ca",
+     "gloss": "three+powers+and",
+     "grounds": "compound epithet conjoined with particle",
+     "morph": "f.nom.sg compound+(indecl.)"
+    },
+    {
+     "surface": "mahālakṣmīḥ",
+     "gloss": "mahalakshmi",
+     "grounds": "goddess name as subject of protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb indicating all places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "speaker or practitioner seeking protection",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "sadā+avatu",
+     "gloss": "always+may-protect",
+     "grounds": "adverb fused with imperative verb of protection",
+     "morph": "(indecl.)+3.sg.impv.act √av"
+    }
+   ],
+   "question": "Who is called upon to provide constant protection in all places?",
+   "premises": [
+    "Mahalakshmi is addressed as possessing three powers.",
+    "The protection sought is universal in location.",
+    "The protection sought is continuous in time."
+   ],
+   "inference": "Mahalakshmi, endowed with three powers, is invoked to always protect the practitioner everywhere.",
+   "uncertainties": [
+    "The specific identity of the three powers is not specified."
+   ],
+   "plain_english": "And may Mahalakshmi, endowed with the three powers, always protect me everywhere."
+  },
+  {
+   "verse": 2415,
+   "rows": [
+    {
+     "surface": "sarvārtha+sādhanaṃ",
+     "gloss": "all+purpose+accomplishing",
+     "grounds": "compound describing the function of the armor",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "particle indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "protective formula or shield",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parama+adbhutam",
+     "gloss": "supremely+wondrous",
+     "grounds": "compound qualifying the armor",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What qualities characterize the protective armor named in this passage?",
+   "premises": [
+    "The kavaca is designated by name.",
+    "It accomplishes all purposes.",
+    "It is supremely wondrous."
+   ],
+   "inference": "The named kavaca is a supremely wondrous armor that accomplishes all purposes.",
+   "uncertainties": [],
+   "plain_english": "This is the supremely wondrous armor named the accomplisher of all purposes."
+  },
+  {
+   "verse": 2416,
+   "rows": [
+    {
+     "surface": "sarva+siddhi+īśvarāḥ",
+     "gloss": "all+accomplishment+lords",
+     "grounds": "compound describing those who master all powers",
+     "morph": "m.nom.pl compound"
+    },
+    {
+     "surface": "santaḥ",
+     "gloss": "being",
+     "grounds": "present participle indicating state",
+     "morph": "m.nom.pl.pres.part.act √as"
+    },
+    {
+     "surface": "sarva+aiśvaryam",
+     "gloss": "all+sovereignty",
+     "grounds": "compound denoting complete lordship or power",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "avāpnuyuḥ",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing desired attainment",
+     "morph": "3.pl.opt.act √āp"
+    }
+   ],
+   "question": "What attainment is promised to those who become lords of all accomplishments?",
+   "premises": [
+    "Some become lords of all accomplishments.",
+    "Such beings are the subjects of the promise.",
+    "The promised result is total sovereignty."
+   ],
+   "inference": "Those who are lords of all accomplishments may obtain all sovereignty.",
+   "uncertainties": [],
+   "plain_english": "Being lords of all accomplishments, they may obtain all sovereignty."
+  },
+  {
+   "verse": 2417,
+   "rows": [
+    {
+     "surface": "saṃvatsara+kṛtāyāḥ",
+     "gloss": "of-year+performed",
+     "grounds": "compound describing worship performed for a year",
+     "morph": "f.gen.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāyāḥ",
+     "gloss": "of-worship",
+     "grounds": "ritual worship as the source of merit",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or reward of the worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing attainment of result",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "What ritual result can be obtained through this armor's efficacy?",
+   "premises": [
+    "Worship may be performed for a full year.",
+    "Such worship yields a specific fruit.",
+    "The armor grants access to that fruit."
+   ],
+   "inference": "One may obtain the fruit of a year-long worship.",
+   "uncertainties": [
+    "The subject obtaining the fruit is implicit."
+   ],
+   "plain_english": "One may obtain the fruit of worship performed for a whole year."
+  },
+  {
+   "verse": 2418,
+   "rows": [
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "goddess or power of speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking effects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivasat",
+     "gloss": "dwells",
+     "grounds": "verb indicating abiding presence",
+     "morph": "3.sg.pres.subj.act √vas"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "in-mouth",
+     "grounds": "location of speech's dwelling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated for emphasis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect on speech is guaranteed by the power of this armor?",
+   "premises": [
+    "Speech is said to dwell in the mouth.",
+    "The statement is affirmed as truth twice.",
+    "Doubt about this effect is explicitly denied."
+   ],
+   "inference": "Speech dwells in the mouth as a certain and undoubted result.",
+   "uncertainties": [],
+   "plain_english": "And speech dwells in the mouth; this is truth, truth, there is no doubt."
+  },
+  {
+   "verse": 2419,
+   "rows": [
+    {
+     "surface": "sarva+aiśvarya+yutaḥ",
+     "gloss": "all+sovereignty+endowed",
+     "grounds": "compound describing possession of all powers",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive indicating prior attainment",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "trailokya+vijayī",
+     "gloss": "three-world+conqueror",
+     "grounds": "compound describing conquest of the three worlds",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative expressing resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What worldly dominion results from becoming endowed with all sovereignty?",
+   "premises": [
+    "One becomes endowed with all sovereignty.",
+    "This state leads to a further result.",
+    "The result is conquest of the three worlds."
+   ],
+   "inference": "Having become endowed with all sovereignty, one would become conqueror of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Having become endowed with all sovereignty, one would become the conqueror of the three worlds."
+  },
+  {
+   "verse": 2420,
+   "rows": [
+    {
+     "surface": "bahu+putra+vatī",
+     "gloss": "many+sons+possessing",
+     "grounds": "compound describing a woman with many sons",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive indicating transformation",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "bandhyā+api",
+     "gloss": "barren+even",
+     "grounds": "concessive phrase indicating prior barrenness",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb expressing acquisition",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "sutam",
+     "gloss": "son",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What transformative boon is granted even to a barren woman?",
+   "premises": [
+    "A barren woman is the subject.",
+    "She becomes one possessing many sons.",
+    "She obtains a son."
+   ],
+   "inference": "Even a barren woman, becoming one who possesses many sons, obtains a son.",
+   "uncertainties": [],
+   "plain_english": "Even a barren woman, having become possessed of many sons, obtains a son."
+  },
+  {
+   "verse": 2421,
+   "rows": [
+    {
+     "surface": "dāridryaṃ",
+     "gloss": "poverty",
+     "grounds": "state of destitution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifier indicating extreme degree",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive indicating attainment of a state",
+     "morph": "(gerund) √āp"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject experiencing the consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "not-long-from",
+     "grounds": "adverb indicating short time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "fatal consequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing consequence",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "What dire consequence follows for one who falls into extreme poverty?",
+   "premises": [
+    "A person attains supreme poverty.",
+    "This condition leads to a further outcome.",
+    "The outcome occurs after a short time."
+   ],
+   "inference": "Having attained supreme poverty, he may soon meet death.",
+   "uncertainties": [
+    "The causal link to the armor's misuse or absence is implicit from context."
+   ],
+   "plain_english": "Having fallen into extreme poverty, he may soon meet death."
+  },
+  {
+   "verse": 2422,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative referring to the armor or practice",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "prasāda+mātreṇa",
+     "gloss": "grace+mere-by",
+     "grounds": "compound indicating by mere grace alone",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prītā",
+     "gloss": "pleased",
+     "grounds": "state of divine satisfaction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "satī",
+     "gloss": "virtuous",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess Durga's favor secured through this protective means?",
+   "premises": [
+    "The grace of this is invoked.",
+    "Mere grace is sufficient cause.",
+    "Durga becomes pleased as a result."
+   ],
+   "inference": "By the mere grace of this, the virtuous goddess Durga would become pleased.",
+   "uncertainties": [
+    "The referent of 'this' is contextually the kavaca or its recitation."
+   ],
+   "plain_english": "By the mere grace of this, the virtuous goddess Durga would become pleased."
+  },
+  {
+   "verse": 2423,
+   "rows": [
+    {
+     "surface": "āryā",
+     "gloss": "arya",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jayā",
+     "gloss": "jaya",
+     "grounds": "epithet meaning victorious",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "primordial",
+     "grounds": "epithet meaning first or original",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri+netrā",
+     "gloss": "three+eyed",
+     "grounds": "compound describing iconographic feature",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "śūla+dhāriṇī",
+     "gloss": "trident+bearing",
+     "grounds": "compound describing iconographic attribute",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "Which divine names and attributes identify the goddess invoked in this armor?",
+   "premises": [
+    "The goddess is named Arya, Durga, Jaya, and Adya.",
+    "She is described as three-eyed.",
+    "She is described as bearing a trident."
+   ],
+   "inference": "The invoked goddess is identified by multiple names and iconographic attributes.",
+   "uncertainties": [],
+   "plain_english": "Arya, Durga, Jaya, the primordial one, three-eyed and bearing a trident."
+  },
+  {
+   "verse": 2424,
+   "rows": [
+    {
+     "surface": "anantā",
+     "gloss": "endless",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvinī",
+     "gloss": "future-being",
+     "grounds": "epithet indicating becoming or future existence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāvyā",
+     "gloss": "to-be-conceived",
+     "grounds": "epithet indicating what is to be brought into being",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavyā",
+     "gloss": "auspicious",
+     "grounds": "epithet indicating excellence or future good",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhavyā",
+     "gloss": "inauspicious",
+     "grounds": "epithet indicating the opposite aspect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā+gatiḥ",
+     "gloss": "eternal+refuge",
+     "grounds": "compound describing the goddess as perpetual goal or refuge",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What further epithets express the goddess's all-encompassing and eternal nature?",
+   "premises": [
+    "The goddess is called endless and related to becoming.",
+    "She encompasses both auspicious and inauspicious aspects.",
+    "She is described as the eternal refuge."
+   ],
+   "inference": "The goddess is characterized by limitless, all-encompassing, and eternal qualities.",
+   "uncertainties": [
+    "The precise nuance of bhāvinī, bhāvyā, bhavyā, abhavyā may vary by tradition."
+   ],
+   "plain_english": "Endless, becoming, to be realized, auspicious, inauspicious, and the eternal refuge."
+  }
+ ]
+}

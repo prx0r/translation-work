@@ -1,0 +1,855 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "vīrasādhanakaṅkarma",
+     "gloss": "hero-practice-act",
+     "grounds": "compound describing ritual action of a vīra sādhaka",
+     "morph": "compound n.nom.sg.nt"
+    },
+    {
+     "surface": "śivāpūjābalistathā",
+     "gloss": "goddess-worship-offering-and",
+     "grounds": "compound with indeclinable tathā indicating addition",
+     "morph": "compound n.nom.sg.m + (indecl.)"
+    }
+   ],
+   "question": "What ritual acts characterize the vīra sādhaka's worship of the goddess?",
+   "premises": [
+    "The vīra performs a specific sādhana act.",
+    "Worship of Śivā is performed.",
+    "An offering is included in that worship."
+   ],
+   "inference": "The vīra sādhaka's practice consists of heroic ritual action together with worship and offering to the goddess.",
+   "uncertainties": [
+    "The exact nature of the 'vīra act' is not specified."
+   ],
+   "plain_english": "The hero's practice includes the act of worshipping the goddess and making offerings to her."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "veśyāgṛhe",
+     "gloss": "courtesan-house",
+     "grounds": "locative compound indicating place",
+     "morph": "compound n.loc.sg.nt"
+    },
+    {
+     "surface": "niśācāro",
+     "gloss": "night-wandering",
+     "grounds": "describes nocturnal movement",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "temporal locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "paryaṭanantathā",
+     "gloss": "roaming-and",
+     "grounds": "present participle with indeclinable tathā",
+     "morph": "pres.part.m.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Where and when does the vīra practitioner engage in nocturnal roaming?",
+   "premises": [
+    "The setting is a courtesan's house.",
+    "The activity occurs at night.",
+    "The practitioner wanders and roams."
+   ],
+   "inference": "The vīra sādhaka's practice involves roaming at night in the house of a courtesan.",
+   "uncertainties": [],
+   "plain_english": "He wanders at night in a courtesan's house, roaming about as a night-wanderer."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "muktakeśo",
+     "gloss": "loosened-hair",
+     "grounds": "bahuvrīhi describing appearance",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "vīraveṣaḥ",
+     "gloss": "hero-attire",
+     "grounds": "compound indicating ritual dress",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "kulamūrttidharo",
+     "gloss": "clan-image-bearing",
+     "grounds": "compound describing one who bears the clan form or image",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject of the description",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What outward appearance marks the man engaged in this heroic practice?",
+   "premises": [
+    "The man has loosened hair.",
+    "He wears the attire of a vīra.",
+    "He bears the image or form of the clan."
+   ],
+   "inference": "The practitioner is identified by loosened hair, heroic attire, and bearing the clan's emblem or form.",
+   "uncertainties": [
+    "The precise meaning of kulamūrtti is context-dependent."
+   ],
+   "plain_english": "The man has his hair loose, wears the hero's attire, and bears the form of the clan."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "dugdhasvādī",
+     "gloss": "milk-tasting",
+     "grounds": "compound describing ritual consumption",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "yonilehī",
+     "gloss": "vulva-licking",
+     "grounds": "compound describing a transgressive ritual act",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "sa/vvidāsavaghūrṇitaḥ",
+     "gloss": "with-knowledge-liquor-intoxicated",
+     "grounds": "fused form with internal sandhi marker; describes intoxication with liquor and knowledge",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What ritual consumptions and states characterize the vīra in this practice?",
+   "premises": [
+    "The practitioner tastes milk.",
+    "He performs yonileha.",
+    "He is intoxicated with liquor and knowledge."
+   ],
+   "inference": "The vīra's practice includes specific ritual consumptions and a state of intoxication combining liquor and awareness.",
+   "uncertainties": [
+    "The symbolic or literal sense of dugdhasvādī is not explicit."
+   ],
+   "plain_english": "He tastes milk, performs yonileha, and is intoxicated with liquor and knowledge."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "veśyācakrasamāyogātkālīcakrasamassvayam",
+     "gloss": "courtesan-circle-union-from-kālī-circle-equal-himself",
+     "grounds": "single fused compound expressing equivalence arising from union with the courtesan circle",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What spiritual equivalence results from union with the courtesan's circle?",
+   "premises": [
+    "There is union with the circle of courtesans.",
+    "This union produces an equivalence.",
+    "The equivalence is with the circle of Kālī."
+   ],
+   "inference": "Through union with the courtesan's circle, the practitioner himself becomes equal to the circle of Kālī.",
+   "uncertainties": [],
+   "plain_english": "From union with the courtesan's circle, he himself becomes equal to the circle of Kālī."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "veśyāmadhyagata/",
+     "gloss": "courtesan-middle-gone",
+     "grounds": "compound with trailing sandhi marker indicating one situated among courtesans",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "vvīraṅkadā",
+     "gloss": "hero-when",
+     "grounds": "fused form with doubled initial consonant and interrogative/temporal particle",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "paśyāmi",
+     "gloss": "I-see",
+     "grounds": "first person statement of vision",
+     "morph": "1.sg.pres.act √paś"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "practitioner",
+     "grounds": "object of seeing",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Under what circumstance does one behold a true vīra practitioner among courtesans?",
+   "premises": [
+    "The practitioner is situated in the midst of courtesans.",
+    "The speaker poses a question of when such a hero is seen.",
+    "The object of vision is a sādhaka."
+   ],
+   "inference": "A true vīra sādhaka is recognized when seen situated in the midst of courtesans.",
+   "uncertainties": [
+    "The rhetorical force of kadā may imply rarity or a specific condition."
+   ],
+   "plain_english": "When do I see a hero-practitioner who is situated in the midst of courtesans?"
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "veśyākanyā",
+     "gloss": "courtesan-maiden",
+     "grounds": "compound identifying a maiden of the courtesan class",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭha-jātimedakulakramāt",
+     "gloss": "sacred-site-birth-class-clan-order-from",
+     "grounds": "ablative compound indicating origin or sequence from pīṭha, birth, class, and clan",
+     "morph": "compound m.abl.sg"
+    }
+   ],
+   "question": "From what ritual and social orders may a courtesan maiden be considered for worship?",
+   "premises": [
+    "A courtesan maiden is mentioned.",
+    "Her status is related to pīṭha, birth, class, and clan.",
+    "The ablative indicates derivation or ordering from these categories."
+   ],
+   "inference": "A courtesan maiden is to be understood according to the order of sacred site, birth, class, and clan.",
+   "uncertainties": [
+    "The exact syntactic role of the ablative compound in the larger context is unclear."
+   ],
+   "plain_english": "And likewise a courtesan maiden, according to the order of sacred site, birth, class, and clan."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "kumārīmpūjayedbhaktyā",
+     "gloss": "virgin-should-worship-with-devotion",
+     "grounds": "fused verb phrase with object and instrumental",
+     "morph": "f.acc.sg + 3.sg.opt.act √pūj + f.inst.sg"
+    },
+    {
+     "surface": "japānte",
+     "gloss": "recitation-end-at",
+     "grounds": "locative compound indicating time after recitation",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "house",
+     "grounds": "place of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "When and how should a virgin be worshipped in the ritual house?",
+   "premises": [
+    "A virgin is the object of worship.",
+    "Worship is to be done with devotion.",
+    "The worship occurs at the end of recitation in the house."
+   ],
+   "inference": "At the conclusion of recitation, one should worship the virgin with devotion in the house.",
+   "uncertainties": [],
+   "plain_english": "O beloved, at the end of recitation one should worship the virgin with devotion in the house."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental indicating manner",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund expressing prior action",
+     "morph": "gerund √pūj"
+    },
+    {
+     "surface": "kumārīñca",
+     "gloss": "virgin-and",
+     "grounds": "object with connective particle",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "veśyākulasamudbhavām",
+     "gloss": "courtesan-clan-born",
+     "grounds": "compound adjective qualifying the virgin",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What specific origin of the virgin is required for this devotional worship?",
+   "premises": [
+    "The virgin is to be worshipped with devotion.",
+    "The worship is expressed by a gerund of prior action.",
+    "The virgin is specified as born in a courtesan clan."
+   ],
+   "inference": "Devotional worship is directed to a virgin born in a courtesan clan.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with devotion the virgin born in a courtesan clan."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "trailokyavijayī",
+     "gloss": "three-world-conqueror",
+     "grounds": "compound predicate describing attainment",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhūyāddivācandraprakāśakaḥ",
+     "gloss": "may-become-day-moon-illuminating",
+     "grounds": "fused optative and compound describing radiant power",
+     "morph": "3.sg.opt.act √bhū + compound m.nom.sg"
+    }
+   ],
+   "question": "What powers does the worshipper attain through this ritual of the virgin?",
+   "premises": [
+    "The worshipper may become a conqueror of the three worlds.",
+    "The worshipper may become one who illuminates like the moon by day.",
+    "These are results expressed by the optative."
+   ],
+   "inference": "Worship of the specified virgin grants conquest of the three worlds and extraordinary radiance.",
+   "uncertainties": [
+    "The image 'illuminating like the moon by day' is metaphorical and open to interpretation."
+   ],
+   "plain_english": "He would become a conqueror of the three worlds, shining like the moon in the daytime."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "kumārīpūjanaphalammayā",
+     "gloss": "virgin-worship-fruit-by-me",
+     "grounds": "fused object and instrumental agent",
+     "morph": "compound n.nom.sg + f.inst.sg"
+    },
+    {
+     "surface": "vaktunna",
+     "gloss": "to-tell-not",
+     "grounds": "infinitive with negative particle fused",
+     "morph": "inf. √vac + (indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "is-able",
+     "grounds": "passive verb expressing possibility",
+     "morph": "3.sg.pres.pass √śak"
+    }
+   ],
+   "question": "Can the full fruit of virgin worship be adequately described by the speaker?",
+   "premises": [
+    "The fruit of worshipping the virgin is the topic.",
+    "The speaker refers to themselves as the agent of telling.",
+    "The ability to tell it is negated."
+   ],
+   "inference": "The fruit of kumārī worship is beyond the speaker's capacity to describe.",
+   "uncertainties": [],
+   "plain_english": "The fruit of worshipping the virgin cannot be told by me."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "numeral adjective qualifying the girl",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cetpūjitā",
+     "gloss": "if-worshipped",
+     "grounds": "conditional particle fused with past participle",
+     "morph": "(indecl.) + f.nom.sg.past.part √pūj"
+    },
+    {
+     "surface": "bālā",
+     "gloss": "girl",
+     "grounds": "subject of the condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "numeral adjective indicating another",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "past participle in result clause",
+     "morph": "f.nom.sg.past.part √pūj"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence follows if one girl is worshipped in this ritual sequence?",
+   "premises": [
+    "One girl may be worshipped.",
+    "The condition is marked by cet.",
+    "A second becomes worshipped as a result."
+   ],
+   "inference": "Worshipping one girl leads to the worship of a second in the prescribed sequence.",
+   "uncertainties": [
+    "Whether 'second' refers to another girl or a second act is slightly ambiguous."
+   ],
+   "plain_english": "If one girl is worshipped, a second becomes worshipped."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "śaktimānīya",
+     "gloss": "power-having-brought",
+     "grounds": "gerund phrase indicating bringing or invoking power",
+     "morph": "gerund √nī with compound"
+    },
+    {
+     "surface": "tadgātre",
+     "gloss": "her-body-in",
+     "grounds": "locative compound indicating locus of installation",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "nyāsajālampravinyaset",
+     "gloss": "installation-net-should-place",
+     "grounds": "compound object with optative verb for ritual placement",
+     "morph": "compound n.acc.sg + 3.sg.opt.act pra-vi-√nyas"
+    }
+   ],
+   "question": "How should the network of ritual installations be applied to the girl's body?",
+   "premises": [
+    "Power is to be brought or invoked.",
+    "The locus is her body.",
+    "The network of nyāsa should be thoroughly placed."
+   ],
+   "inference": "After invoking power, one should place the full network of nyāsa installations upon her body.",
+   "uncertainties": [],
+   "plain_english": "Having brought the power, one should place the network of installations upon her body."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "sarvasiddhīśvaro",
+     "gloss": "all-powers-lord",
+     "grounds": "compound predicate of attainment",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhūyānnātra",
+     "gloss": "may-become-not-here",
+     "grounds": "fused optative with negative and locative/particle",
+     "morph": "3.sg.opt.act √bhū + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing necessity",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "subject of the gerundive",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What level of mastery results from this nyāsa without need for further deliberation?",
+   "premises": [
+    "One may become lord of all siddhis.",
+    "No consideration is to be made in this matter.",
+    "The result is stated with certainty."
+   ],
+   "inference": "This practice makes one lord of all powers, and no further doubt or deliberation is required.",
+   "uncertainties": [],
+   "plain_english": "He would become the lord of all powers; no consideration is needed here."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "digambaraḥ",
+     "gloss": "sky-clad",
+     "grounds": "describes ritual nakedness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahasrañca",
+     "gloss": "thousand-and",
+     "grounds": "numeral with connective particle",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "sūryapuṣpaṃ",
+     "gloss": "sun-flower",
+     "grounds": "compound naming the offering material",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring",
+     "grounds": "optative prescribing collection",
+     "morph": "3.sg.opt.act sam-ā-√nī"
+    }
+   ],
+   "question": "What preparatory materials and attire are required for the subsequent ritual act?",
+   "premises": [
+    "The practitioner is sky-clad.",
+    "A thousand sun-flowers are required.",
+    "These should be brought together."
+   ],
+   "inference": "The ritual requires the practitioner to be naked and to gather a thousand sun-flowers.",
+   "uncertainties": [
+    "The exact identity of sūryapuṣpa is not specified."
+   ],
+   "plain_english": "Being sky-clad, one should bring a thousand sun-flowers."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund indicating prior worship",
+     "morph": "gerund √pūj"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "gerund indicating prior meditation",
+     "morph": "gerund √dhyai"
+    },
+    {
+     "surface": "mahābhaktyā",
+     "gloss": "with-great-devotion",
+     "grounds": "instrumental indicating manner",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kṣamāpālo",
+     "gloss": "earth-protector",
+     "grounds": "compound referring to a king or ruler",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject who performs recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "optative prescribing recitation",
+     "morph": "3.sg.opt.act √paṭh"
+    }
+   ],
+   "question": "What devotional actions must precede recitation by the practitioner or ruler?",
+   "premises": [
+    "Worship and meditation are performed first.",
+    "These are done with great devotion.",
+    "The man or earth-protector should then recite."
+   ],
+   "inference": "After worship and meditation with great devotion, the practitioner or king should perform recitation.",
+   "uncertainties": [
+    "kṣamāpālo may refer specifically to a king or more generally to a protector."
+   ],
+   "plain_english": "Having worshipped and meditated with great devotion, the man or king should recite."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "muktakeśo",
+     "gloss": "loosened-hair",
+     "grounds": "bahuvrīhi describing appearance",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "diśāvāso",
+     "gloss": "direction-clad",
+     "grounds": "compound meaning sky-clad or naked",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "mūlamantrapuraḥsaraḥ",
+     "gloss": "root-mantra-preceded-by",
+     "grounds": "compound indicating the root mantra comes first",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What physical state and mantra precedence define the reciter in this rite?",
+   "premises": [
+    "The reciter has loosened hair.",
+    "The reciter is clad in the directions, i.e. naked.",
+    "The recitation is preceded by the root mantra."
+   ],
+   "inference": "The rite requires the reciter to be naked with loosened hair and to begin with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "With hair loose and clad in the directions, he should proceed with the root mantra first."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "paṭhennāma",
+     "gloss": "should-recite-name",
+     "grounds": "fused optative and object indicating recitation of the name",
+     "morph": "3.sg.opt.act √paṭh + n.acc.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral indicating count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yyaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun with doubled initial consonant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛthvīśākarṣaṇambhavet",
+     "gloss": "earth-lord-attraction-may-be",
+     "grounds": "fused compound and optative expressing the result of attraction of earth-rulers",
+     "morph": "compound n.nom.sg + 3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What result follows from reciting the name a thousand times in this practice?",
+   "premises": [
+    "One recites the name a thousand times.",
+    "The reciter is indicated by a relative pronoun.",
+    "The result is attraction of the lords of the earth."
+   ],
+   "inference": "Reciting the name a thousand times brings about the attraction of earthly rulers.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites the name a thousand times will gain the power to attract the lords of the earth."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "punaścikuramāsādya",
+     "gloss": "again-hair-having-obtained",
+     "grounds": "gerund phrase indicating obtaining hair again",
+     "morph": "(indecl.) + compound n.acc.sg + gerund ā-√sad"
+    },
+    {
+     "surface": "mūlamantrañjapañśive",
+     "gloss": "root-mantra-reciting-o-śivā",
+     "grounds": "fused present participle and vocative address",
+     "morph": "compound n.acc.sg + pres.part.m.nom.sg √jap + f.voc.sg"
+    }
+   ],
+   "question": "What repeated action involving hair and the root mantra is prescribed to Śivā?",
+   "premises": [
+    "Hair is obtained again.",
+    "The root mantra is recited.",
+    "The instruction is addressed to Śivā."
+   ],
+   "inference": "The practitioner should again obtain hair and recite the root mantra, as addressed to Śivā.",
+   "uncertainties": [
+    "The ritual significance of obtaining hair again is unclear."
+   ],
+   "plain_english": "Again, having obtained hair and reciting the root mantra, O Śivā."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "kālikāmpūjayettatra",
+     "gloss": "kālī-should-worship-there",
+     "grounds": "fused optative, object, and locative particle",
+     "morph": "f.acc.sg + 3.sg.opt.act √pūj + (indecl.)"
+    },
+    {
+     "surface": "paṭhennāmasahasrakam",
+     "gloss": "should-recite-name-thousand",
+     "grounds": "fused optative and compound object indicating recitation of the thousand names",
+     "morph": "3.sg.opt.act √paṭh + compound n.acc.sg"
+    }
+   ],
+   "question": "What combined worship and recitation is directed to Kālī in that place?",
+   "premises": [
+    "Kālī is to be worshipped there.",
+    "The thousand names are to be recited.",
+    "Both actions are prescribed by optatives."
+   ],
+   "inference": "In that context one should worship Kālī and recite her thousand names.",
+   "uncertainties": [],
+   "plain_english": "There one should worship Kālī and recite the thousand names."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "kadalīvanamāsādya",
+     "gloss": "banana-grove-having-reached",
+     "grounds": "gerund phrase indicating arrival at a banana grove",
+     "morph": "compound n.acc.sg + gerund ā-√sad"
+    },
+    {
+     "surface": "lakṣamātrañjapennaraḥ",
+     "gloss": "hundred-thousand-measure-should-recite-man",
+     "grounds": "fused object, optative, and subject indicating recitation of one hundred thousand",
+     "morph": "compound n.acc.sg + 3.sg.opt.act √jap + m.nom.sg"
+    }
+   ],
+   "question": "What quantity of recitation must a man perform upon reaching a banana grove?",
+   "premises": [
+    "The practitioner reaches a banana grove.",
+    "The prescribed amount is a hundred thousand.",
+    "A man should perform the recitation."
+   ],
+   "inference": "Having reached a banana grove, a man should recite the mantra one hundred thousand times.",
+   "uncertainties": [],
+   "plain_english": "Having reached a banana grove, a man should recite one hundred thousand times."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "śrīmadhumatītyuktvā",
+     "gloss": "śrīmadhumatī-thus-having-said",
+     "grounds": "gerund phrase with quoted name or formula",
+     "morph": "f.nom.sg + (indecl.) + gerund √vac"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "connective or manner particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāvarajaṅgamān",
+     "gloss": "stationary-moving",
+     "grounds": "compound denoting all immobile and mobile beings",
+     "morph": "compound m.acc.pl"
+    }
+   ],
+   "question": "What beings are encompassed by uttering the formula of Śrīmadhumatī?",
+   "premises": [
+    "The formula 'Śrīmadhumatī' is uttered.",
+    "The utterance is connected by tathā.",
+    "Both stationary and moving beings are included."
+   ],
+   "inference": "Uttering 'Śrīmadhumatī' extends the ritual effect to all stationary and moving beings.",
+   "uncertainties": [
+    "The grammatical completion of the sentence continues beyond this verse."
+   ],
+   "plain_english": "Having said 'Śrīmadhumatī', and thus over stationary and moving beings."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "trailokyākarṣiṇī",
+     "gloss": "three-world-attracting",
+     "grounds": "compound adjective describing the vidyā",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge-power",
+     "grounds": "subject, referring to a mantra or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative indicating possession or control",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What attracting power becomes permanently available to the successful practitioner?",
+   "premises": [
+    "The vidyā attracts the three worlds.",
+    "It comes to be in his hand.",
+    "This state is always present."
+   ],
+   "inference": "The practitioner permanently gains the three-world-attracting vidyā under his control.",
+   "uncertainties": [],
+   "plain_english": "The three-world-attracting vidyā would always be in his hand."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "ākarṣayatyambunidhiṃ",
+     "gloss": "attracts-ocean",
+     "grounds": "fused present verb and object",
+     "morph": "3.sg.pres.act ā-√kṛṣ + m.acc.sg"
+    },
+    {
+     "surface": "sumeruñca",
+     "gloss": "sumeru-and",
+     "grounds": "object with connective particle",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "digantataḥ",
+     "gloss": "from-direction-end",
+     "grounds": "ablative compound indicating from the ends of the directions",
+     "morph": "compound m.abl.sg"
+    }
+   ],
+   "question": "What cosmic entities can be drawn in by the power of this vidyā?",
+   "premises": [
+    "The power attracts the ocean.",
+    "The power attracts Mount Sumeru.",
+    "The attraction extends from the ends of the directions."
+   ],
+   "inference": "This vidyā can attract even the ocean and Mount Sumeru from the farthest directions.",
+   "uncertainties": [],
+   "plain_english": "It attracts the ocean and Mount Sumeru from the ends of the directions."
+  }
+ ]
+}

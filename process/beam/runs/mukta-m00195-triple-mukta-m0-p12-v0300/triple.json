@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "sevāṃ",
+     "gloss": "service",
+     "grounds": "object of kurvan",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvan",
+     "gloss": "performing",
+     "grounds": "present participle describing the agent",
+     "morph": "m.nom.sg.pres-part.act √kṛ"
+    },
+    {
+     "surface": "lambhet",
+     "gloss": "would-obtain",
+     "grounds": "optative expressing consequence",
+     "morph": "3.sg.optative.ātm √labh"
+    },
+    {
+     "surface": "deśa+nāśaṃ",
+     "gloss": "loss-of-place",
+     "grounds": "compound object of lambhet",
+     "morph": "m.acc.sg compound deśa+nāśa"
+    },
+    {
+     "surface": "varṣa+traya+āditaḥ",
+     "gloss": "from-three-years",
+     "grounds": "compound indicating time of onset",
+     "morph": "indecl. compound varṣa+traya+ādi"
+    }
+   ],
+   "question": "What consequence befalls one who performs service under this cursed condition?",
+   "premises": [
+    "The agent performs service.",
+    "The action occurs under the previously stated cursed condition.",
+    "The consequence manifests beginning from three years."
+   ],
+   "inference": "Therefore, one who performs service under this condition would obtain loss of place after three years.",
+   "uncertainties": [
+    "Whether deśa+nāśaṃ denotes exile, loss of homeland, or destruction of one's region is context-dependent."
+   ],
+   "plain_english": "One who performs service under this condition would suffer loss of place after three years."
+  }
+ ]
+}

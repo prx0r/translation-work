@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "apamṛyuharaṃ",
+     "gloss": "untimely-death-removing",
+     "grounds": "legacy hint gives apamṛtyu+hara; surface spelling preserved",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ścaiva",
+     "gloss": "and-indeed",
+     "grounds": "legacy hint gives ca+eva; fused sandhi form preserved",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāmaphalapradaḥ",
+     "gloss": "all-desire-fruit-giving",
+     "grounds": "legacy hint gives all+desire+fruit+giving; compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fruit is granted by the door-deity besides removing untimely death?",
+   "premises": [
+    "The door-deity removes untimely death.",
+    "The door-deity grants all desired fruits.",
+    "The two benefits are stated together."
+   ],
+   "inference": "The verse attributes both removal of untimely death and granting of all desired fruits to the door-deity.",
+   "uncertainties": [
+    "Exact grammatical case and referent are inferred from context; surface spelling is preserved."
+   ],
+   "plain_english": "It removes untimely death and indeed grants the fruit of all desires."
+  }
+ ]
+}

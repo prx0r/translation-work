@@ -1,0 +1,899 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3001,
+   "rows": [
+    {
+     "surface": "caturasre",
+     "gloss": "in-square",
+     "grounds": "locative form of caturasra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "draw",
+     "grounds": "optative of likh",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "pratilomānulomakam",
+     "gloss": "reverse-forward",
+     "grounds": "compound of pratiloma and anuloma",
+     "morph": "compound"
+    }
+   ],
+   "question": "What geometric pattern should be drawn in the square for this rite?",
+   "premises": [
+    "The rite requires a square",
+    "Reverse and forward lines are drawn"
+   ],
+   "inference": "The practitioner draws reverse-forward lines within the square.",
+   "uncertainties": [
+    "Exact ritual purpose of the pattern"
+   ],
+   "plain_english": "In the square, draw reverse and forward lines."
+  },
+  {
+   "verse": 3002,
+   "rows": [
+    {
+     "surface": "stambhaḥ",
+     "gloss": "stambha",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative of as",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "pūrbbamuktānāṃ",
+     "gloss": "of-previously-released",
+     "grounds": "genitive plural",
+     "morph": "adj.gen.pl"
+    },
+    {
+     "surface": "vidhānāt",
+     "gloss": "by-rite",
+     "grounds": "ablative of vidhāna",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "What results from the rite for those previously released?",
+   "premises": [
+    "The rite is performed",
+    "Previously released beings are involved"
+   ],
+   "inference": "Stambha arises from the rite for those previously released.",
+   "uncertainties": [
+    "Meaning of stambha in this context"
+   ],
+   "plain_english": "O supreme goddess, stambha results from the rite for those previously released."
+  },
+  {
+   "verse": 3003,
+   "rows": [
+    {
+     "surface": "pūjayannarātigatyādikaṃ",
+     "gloss": "worshipping",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "stambhayatīti",
+     "gloss": "stuns",
+     "grounds": "causative verb with iti",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What effect follows from worshipping with this rite?",
+   "premises": [
+    "Worship is performed",
+    "The rite stuns enemies"
+   ],
+   "inference": "Worshipping stuns the hostile and related forces.",
+   "uncertainties": [
+    "Exact scope of arāti"
+   ],
+   "plain_english": "By worshipping, one stuns hostile forces."
+  },
+  {
+   "verse": 3004,
+   "rows": [
+    {
+     "surface": "aṣṭāsraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "accusative form",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tadvahirbbṛtte",
+     "gloss": "outside",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvātra",
+     "gloss": "having-made",
+     "grounds": "absolutive with atra",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative of vini-as",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the eight-cornered figure be placed?",
+   "premises": [
+    "An eight-cornered figure is made",
+    "It is placed outside the circle"
+   ],
+   "inference": "The practitioner places the eight-cornered figure outside the circle.",
+   "uncertainties": [
+    "Exact spatial relation"
+   ],
+   "plain_english": "Having made the eight-cornered figure outside, place it there."
+  },
+  {
+   "verse": 3005,
+   "rows": [
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "accusative numeral",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "accusative numeral",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "sam1ālikhya",
+     "gloss": "having-written",
+     "grounds": "absolutive of sam-likh",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "vahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣṭantu",
+     "gloss": "remaining",
+     "grounds": "accusative participle",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "pārthivaiḥ",
+     "gloss": "with-earthly",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl"
+    }
+   ],
+   "question": "What is written outside and what remains for earthly materials?",
+   "premises": [
+    "Three and three are written",
+    "The remainder uses earthly materials"
+   ],
+   "inference": "Write three and three outside, then use earthly materials for the remainder.",
+   "uncertainties": [
+    "Exact meaning of sam1ālikhya"
+   ],
+   "plain_english": "Having written three and three outside, use earthly materials for the rest."
+  },
+  {
+   "verse": 3006,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "optative of sthā",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "somewhere",
+     "grounds": "indefinite locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaśaśca",
+     "gloss": "always",
+     "grounds": "adverb with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "valiṃ",
+     "gloss": "offering",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "throw",
+     "grounds": "optative of kṣip",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the offering be handled after placement?",
+   "premises": [
+    "The object is placed somewhere",
+    "An offering is thrown always"
+   ],
+   "inference": "Place it somewhere and always throw the offering there.",
+   "uncertainties": [
+    "Exact offering type"
+   ],
+   "plain_english": "Place it somewhere, and always throw the offering there."
+  },
+  {
+   "verse": 3007,
+   "rows": [
+    {
+     "surface": "pūrvoktaphalaṃ",
+     "gloss": "previously-stated-result",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāpnotīti",
+     "gloss": "obtains",
+     "grounds": "verb with iti",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What result follows from performing this rite?",
+   "premises": [
+    "The rite is performed",
+    "The previously stated result is gained"
+   ],
+   "inference": "The practitioner obtains the previously stated result.",
+   "uncertainties": [
+    "Which result was previously stated"
+   ],
+   "plain_english": "One obtains the previously stated result."
+  },
+  {
+   "verse": 3008,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikoṇavṛttāntarālān",
+     "gloss": "triangle-circle-interval",
+     "grounds": "compound accusative plural",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṭkoṇasaṃyutān",
+     "gloss": "six-cornered-joined",
+     "grounds": "compound accusative plural",
+     "morph": "compound"
+    }
+   ],
+   "question": "What shapes are joined in the interval?",
+   "premises": [
+    "The interval lies between triangle and circle",
+    "Six-cornered forms are joined"
+   ],
+   "inference": "Gradually join six-cornered forms in the triangle-circle interval.",
+   "uncertainties": [
+    "Exact geometric construction"
+   ],
+   "plain_english": "Gradually join six-cornered forms in the interval between triangle and circle."
+  },
+  {
+   "verse": 3009,
+   "rows": [
+    {
+     "surface": "vilikhellipiśaḥ",
+     "gloss": "draw",
+     "grounds": "optative of likh",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "sarvvāṃ",
+     "gloss": "all",
+     "grounds": "accusative feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "mātṛkā",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktisaṃyutām",
+     "gloss": "with-śakti",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be drawn with all mātṛkā letters?",
+   "premises": [
+    "All mātṛkā letters are used",
+    "They are joined with śakti"
+   ],
+   "inference": "Draw all mātṛkā letters joined with śakti.",
+   "uncertainties": [
+    "Exact drawing method"
+   ],
+   "plain_english": "Draw all mātṛkā letters joined with śakti."
+  },
+  {
+   "verse": 3010,
+   "rows": [
+    {
+     "surface": "māyāmadhyagataṃ",
+     "gloss": "in-māyā-middle",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "hold",
+     "grounds": "optative of dhṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "sarbbasiddhaye",
+     "gloss": "for-all-siddhi",
+     "grounds": "dative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the figure be held for all siddhi?",
+   "premises": [
+    "The figure is in the middle of māyā",
+    "It is held for all siddhi"
+   ],
+   "inference": "Hold the figure in the middle of māyā for all siddhi.",
+   "uncertainties": [
+    "Meaning of māyā here"
+   ],
+   "plain_english": "O goddess, hold it in the middle of māyā for all siddhi."
+  },
+  {
+   "verse": 3011,
+   "rows": [
+    {
+     "surface": "gajavājikharoṣṭrādirogaśāntyai",
+     "gloss": "for-elephant-horse-donkey-camel-disease-peace",
+     "grounds": "compound dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "hold",
+     "grounds": "optative of dhṛ",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "For what additional purpose should it be held?",
+   "premises": [
+    "It is held for siddhi",
+    "It also pacifies animal diseases"
+   ],
+   "inference": "Hold it also to pacify diseases of elephants, horses, donkeys, and camels.",
+   "uncertainties": [
+    "Exact disease scope"
+   ],
+   "plain_english": "Hold it also to pacify diseases of elephants, horses, donkeys, and camels."
+  },
+  {
+   "verse": 3012,
+   "rows": [
+    {
+     "surface": "rekhāgre",
+     "gloss": "at-line-tip",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvvataḥ",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlāstanmadhyāgre",
+     "gloss": "tridents",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "sides",
+     "grounds": "locative dual",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "Where are tridents placed relative to the lines?",
+   "premises": [
+    "Tridents are at line tips",
+    "They are also at sides"
+   ],
+   "inference": "Place tridents at line tips everywhere and at the sides.",
+   "uncertainties": [
+    "Exact line arrangement"
+   ],
+   "plain_english": "Place tridents at line tips everywhere and at the sides."
+  },
+  {
+   "verse": 3013,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilikhenmantravarṇān",
+     "gloss": "draw",
+     "grounds": "optative compound",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "bhaumasamanvitān",
+     "gloss": "with-mars",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    }
+   ],
+   "question": "What letters should be drawn around with Mars?",
+   "premises": [
+    "Mantra letters are drawn",
+    "They are joined with Mars"
+   ],
+   "inference": "Draw mantra letters around, joined with Mars.",
+   "uncertainties": [
+    "Exact Mars association"
+   ],
+   "plain_english": "Draw mantra letters around, joined with Mars."
+  },
+  {
+   "verse": 3014,
+   "rows": [
+    {
+     "surface": "gṛhapaṭṭanayorlohadṛśadoriṣṭasiddhidam",
+     "gloss": "for-house-town-iron-sight-desired-siddhi",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    }
+   ],
+   "question": "For what desired siddhi is this rite used?",
+   "premises": [
+    "The rite concerns house and town",
+    "It concerns iron sight and desired siddhi"
+   ],
+   "inference": "It grants desired siddhi for house, town, iron, and sight.",
+   "uncertainties": [
+    "Exact meaning of iron sight"
+   ],
+   "plain_english": "It grants desired siddhi for house, town, iron, and sight."
+  },
+  {
+   "verse": 3015,
+   "rows": [
+    {
+     "surface": "proktakramasandhāraṇāt",
+     "gloss": "by-stated-method-holding",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktaphalasiddhiriti",
+     "gloss": "stated-result-siddhi",
+     "grounds": "compound nominative with iti",
+     "morph": "compound"
+    }
+   ],
+   "question": "What follows from holding by the stated method?",
+   "premises": [
+    "The stated method is held",
+    "The stated result siddhi follows"
+   ],
+   "inference": "Holding by the stated method yields the stated result siddhi.",
+   "uncertainties": [
+    "Exact method details"
+   ],
+   "plain_english": "By holding according to the stated method, the stated result siddhi is attained."
+  },
+  {
+   "verse": 3016,
+   "rows": [
+    {
+     "surface": "sthāpayedbhittimadhye",
+     "gloss": "place",
+     "grounds": "optative compound",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-earth",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "gradually",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramataḥ śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative with adverb",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "Where should it be placed gradually?",
+   "premises": [
+    "It is placed in wall middle",
+    "It is placed on earth"
+   ],
+   "inference": "Place it in the wall middle and on earth gradually, O Śiva.",
+   "uncertainties": [
+    "Exact placement sequence"
+   ],
+   "plain_english": "Place it in the wall middle and on earth gradually, O Śiva."
+  },
+  {
+   "verse": 3017,
+   "rows": [
+    {
+     "surface": "yāvatphalāpti",
+     "gloss": "until-result-obtained",
+     "grounds": "compound accusative",
+     "morph": "compound"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "do",
+     "grounds": "optative of kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyayordvayoḥ",
+     "gloss": "at-two-sandhyās",
+     "grounds": "locative dual",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "How long and when should the rite be done?",
+   "premises": [
+    "It is done until result obtained",
+    "It is done at two sandhyās"
+   ],
+   "inference": "Perform it certainly until the result is obtained, at both sandhyās.",
+   "uncertainties": [
+    "Exact sandhyā times"
+   ],
+   "plain_english": "Perform it certainly until the result is obtained, at both sandhyās."
+  },
+  {
+   "verse": 3018,
+   "rows": [
+    {
+     "surface": "taistu",
+     "gloss": "by-those",
+     "grounds": "instrumental plural with tu",
+     "morph": "pron.inst.pl"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "present of jan",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "pañcaviṃśaiḥ",
+     "gloss": "with-twenty-five",
+     "grounds": "instrumental plural",
+     "morph": "num.inst.pl"
+    },
+    {
+     "surface": "śatadvayam",
+     "gloss": "two-hundred",
+     "grounds": "nominative numeral",
+     "morph": "num.nom.sg"
+    }
+   ],
+   "question": "How many cells arise from those twenty-five?",
+   "premises": [
+    "Twenty-five are involved",
+    "Two hundred cells arise"
+   ],
+   "inference": "From those twenty-five, two hundred cells arise.",
+   "uncertainties": [
+    "Exact counting method"
+   ],
+   "plain_english": "From those twenty-five, two hundred cells arise."
+  },
+  {
+   "verse": 3019,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśati",
+     "gloss": "twenty-eight",
+     "grounds": "nominative numeral",
+     "morph": "num.nom.sg"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "cells",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣṭeṣu",
+     "gloss": "in-remaining",
+     "grounds": "locative plural",
+     "morph": "adj.loc.pl"
+    },
+    {
+     "surface": "dikṣvapi",
+     "gloss": "in-directions",
+     "grounds": "locative plural with api",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "How many cells remain in the directions?",
+   "premises": [
+    "Twenty-eight cells are counted",
+    "The remainder lies in directions"
+   ],
+   "inference": "Then twenty-eight cells remain in the directions.",
+   "uncertainties": [
+    "Exact directional layout"
+   ],
+   "plain_english": "Then twenty-eight cells remain in the directions."
+  },
+  {
+   "verse": 3020,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "locative plural",
+     "morph": "num.loc.pl"
+    },
+    {
+     "surface": "tu koṣṭheṣu",
+     "gloss": "cells",
+     "grounds": "locative plural with tu",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sādhyasādhakakarmma",
+     "gloss": "object-agent-action",
+     "grounds": "compound nominative",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is placed in the three middle cells?",
+   "premises": [
+    "Three middle cells are used",
+    "Object, agent, and action are placed"
+   ],
+   "inference": "In the three middle cells place object, agent, and action.",
+   "uncertainties": [
+    "Exact assignment order"
+   ],
+   "plain_english": "In the three middle cells place object, agent, and action."
+  },
+  {
+   "verse": 3021,
+   "rows": [
+    {
+     "surface": "mantrārṇānagramārabhya",
+     "gloss": "from-mantra-letters-beginning",
+     "grounds": "compound absolutive",
+     "morph": "compound"
+    },
+    {
+     "surface": "vilikhedabhitaḥ",
+     "gloss": "draw",
+     "grounds": "optative compound",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "From what should the drawing begin?",
+   "premises": [
+    "Mantra letters are used",
+    "Drawing begins from their beginning"
+   ],
+   "inference": "Beginning from the mantra letters, draw around, O Śiva.",
+   "uncertainties": [
+    "Exact drawing path"
+   ],
+   "plain_english": "Beginning from the mantra letters, draw around, O Śiva."
+  },
+  {
+   "verse": 3022,
+   "rows": [
+    {
+     "surface": "pūjayannabhīṣṭaṃ",
+     "gloss": "worshipping",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "phalamāpnotīti",
+     "gloss": "result-obtains",
+     "grounds": "compound verb with iti",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What result follows from worshipping the desired object?",
+   "premises": [
+    "The desired object is worshipped",
+    "The result is obtained"
+   ],
+   "inference": "By worshipping the desired object, one obtains the result.",
+   "uncertainties": [
+    "Exact desired object"
+   ],
+   "plain_english": "By worshipping the desired object, one obtains the result."
+  },
+  {
+   "verse": 3023,
+   "rows": [
+    {
+     "surface": "yatraitat",
+     "gloss": "where-this",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthāpitaṃ",
+     "gloss": "placed",
+     "grounds": "past participle",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "lohaśilādilikhitaṃ",
+     "gloss": "iron-stone-drawn",
+     "grounds": "compound nominative",
+     "morph": "compound"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "Where is the iron-stone drawn figure placed?",
+   "premises": [
+    "The figure is drawn on iron or stone",
+    "It is placed somewhere"
+   ],
+   "inference": "Where this iron-stone drawn figure is placed, O Śiva.",
+   "uncertainties": [
+    "Exact placement location"
+   ],
+   "plain_english": "Where this iron-stone drawn figure is placed, O Śiva."
+  },
+  {
+   "verse": 3024,
+   "rows": [
+    {
+     "surface": "bhūtapretapiśācādikopajāścāpyupaplavāḥ",
+     "gloss": "bhūta-preta-piśāca-etc-afflictions",
+     "grounds": "compound nominative plural",
+     "morph": "compound"
+    }
+   ],
+   "question": "What afflictions are mentioned in this context?",
+   "premises": [
+    "Bhūta afflictions are mentioned",
+    "Preta and piśāca afflictions are mentioned"
+   ],
+   "inference": "Bhūta, preta, piśāca, and similar afflictions are mentioned.",
+   "uncertainties": [
+    "Exact list of afflictions"
+   ],
+   "plain_english": "Bhūta, preta, piśāca, and similar afflictions."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "mahāpīṭhaṃ",
+     "gloss": "great-pedestal",
+     "grounds": "compound denoting the principal ritual seat; object of construction",
+     "morph": "compound: mahā+great + pīṭha+pedestal; n.acc.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "gerundive expressing obligation to construct",
+     "morph": "gerundive n.nom.sg (pra-√kṛ)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the great pedestal",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇamucyate",
+     "gloss": "characteristic-is-stated",
+     "grounds": "fused form lakṣaṇam + ucyate; introduces the defining marks to be described",
+     "morph": "compound/fused: lakṣaṇa+characteristic (n.nom.sg) + ucyate (3.sg.pass-pres √vac)"
+    }
+   ],
+   "question": "What defining characteristics must be specified for constructing the great pedestal?",
+   "premises": [
+    "A great pedestal is to be constructed.",
+    "That great pedestal possesses specific defining characteristics.",
+    "Those defining characteristics are now to be stated."
+   ],
+   "inference": "The ritual prescription requires that the construction of the great pedestal be guided by its explicitly stated defining characteristics.",
+   "uncertainties": [],
+   "plain_english": "The great pedestal should be made; its defining characteristics are now stated."
+  }
+ ]
+}

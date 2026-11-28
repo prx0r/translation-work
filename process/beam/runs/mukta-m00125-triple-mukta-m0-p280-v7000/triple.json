@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p280",
+ "items": [
+  {
+   "verse": 7000,
+   "rows": [
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "subject of enumeration; nominative plural referring to the Rudra deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "numeral specifying the total count of Rudras",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating traditional enumeration",
+     "morph": "ppp.m.nom.pl (pra-√vac)"
+    },
+    {
+     "surface": "indro",
+     "gloss": "indra",
+     "grounds": "named deity; nominative singular with sandhi before following consonant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhātā",
+     "gloss": "dhātṛ",
+     "grounds": "named deity in the enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhago'",
+     "gloss": "bhaga",
+     "grounds": "named deity; surface shows sandhi fusion before following vowel-initial token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ryamā",
+     "gloss": "aryaman",
+     "grounds": "named deity; surface continues the sandhi-fused form begun in previous token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are declared as the eleven Rudras and which deities are named alongside them in this enumeration?",
+   "premises": [
+    "The Rudras are declared to be eleven in number.",
+    "Indra is named as one of the enumerated deities.",
+    "Dhātṛ, Bhaga, and Aryaman are named in the same enumeration."
+   ],
+   "inference": "The verse completes the count of eleven Rudras and continues by naming Indra, Dhātṛ, Bhaga, and Aryaman.",
+   "uncertainties": [
+    "The boundary between the Rudra list and the subsequent group is not explicit within this verse alone."
+   ],
+   "plain_english": "Eleven Rudras are declared, and Indra, Dhātṛ, Bhaga, and Aryaman are named."
+  }
+ ]
+}

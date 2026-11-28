@@ -1,0 +1,66 @@
+{
+ "song": "kjn-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "kūrma",
+     "gloss": "tortoise",
+     "grounds": "first animal named in the enumerated specification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaccha",
+     "gloss": "turtle",
+     "grounds": "second animal named in the enumerated specification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varāham",
+     "gloss": "boar",
+     "grounds": "third animal named in the enumerated specification",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective linking members of the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārjāra",
+     "gloss": "cat",
+     "grounds": "fourth animal named in the enumerated specification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaka",
+     "gloss": "crane",
+     "grounds": "fifth animal named in the enumerated specification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karkaṭam",
+     "gloss": "crab",
+     "grounds": "sixth animal named in the enumerated specification",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which animal forms constitute the additional specification to be heard with one-pointed mind?",
+   "premises": [
+    "The tortoise is named as a form.",
+    "The turtle is named as a form.",
+    "The boar is named as a form.",
+    "The cat is named as a form.",
+    "The crane is named as a form.",
+    "The crab is named as a form."
+   ],
+   "inference": "The additional specification consists of the enumerated animal forms: tortoise, turtle, boar, cat, crane, and crab.",
+   "uncertainties": [
+    "The functional role of these animal names (e.g., postures, symbolic forms, or techniques) is not explicit in this verse alone."
+   ],
+   "plain_english": "Tortoise, turtle, boar, and cat, crane, and crab."
+  }
+ ]
+}

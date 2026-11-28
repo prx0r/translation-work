@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p527",
+ "items": [
+  {
+   "verse": 13175,
+   "rows": [
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative of jala, place of immersion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśāhena",
+     "gloss": "in-eleven-days",
+     "grounds": "instrumental indicating duration; compound of ekādaśa and ahan",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rogahṛt",
+     "gloss": "disease-destroying",
+     "grounds": "compound of roga and hṛt, describing the resulting quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb expressing transformation",
+     "morph": "3.sg.pres.middle (√jan)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject undergoing transformation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformative effect does immersion in water for eleven days produce in a mantra?",
+   "premises": [
+    "A mantra is placed in water.",
+    "The duration of immersion is eleven days.",
+    "The mantra becomes disease-destroying."
+   ],
+   "inference": "Immersion in water for eleven days transforms a mantra into a disease-destroying agent.",
+   "uncertainties": [
+    "manuḥ is glossed as mantra in this ritual context, though it can also mean a human or sage."
+   ],
+   "plain_english": "And in water, within eleven days, the mantra becomes disease-destroying."
+  }
+ ]
+}

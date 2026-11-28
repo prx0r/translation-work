@@ -1,0 +1,68 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "gurutvena",
+     "gloss": "as-guru",
+     "grounds": "instrumental of gurutva, 'as guru'",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhāṣya",
+     "gloss": "addressing",
+     "grounds": "absolutive of sam-bhāṣ",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "second person pronoun accusative",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "first person pronoun nominative",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "then",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṇe",
+     "gloss": "choose",
+     "grounds": "middle voice present, 'I choose'",
+     "morph": "1.sg.mid-pres root vṛ"
+    }
+   ],
+   "question": "How does the disciple address the guru before choosing him as guru?",
+   "premises": [
+    "disciple addresses guru as guru",
+    "then I choose you thereafter"
+   ],
+   "inference": "The verse records the disciple's formal address and choice of guru.",
+   "uncertainties": [
+    "gurutvena may carry instrumental force beyond 'as guru'"
+   ],
+   "plain_english": "Addressing you as guru, I then choose you thereafter."
+  }
+ ]
+}

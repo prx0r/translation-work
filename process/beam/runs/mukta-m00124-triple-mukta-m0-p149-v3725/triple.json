@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "siddhānte",
+     "gloss": "in-siddhanta",
+     "grounds": "locative of siddhānta",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "noditaṃ",
+     "gloss": "not-stated",
+     "grounds": "past participle passive of vad",
+     "morph": "part.nom/acc.sg.n"
+    },
+    {
+     "surface": "cet+tu",
+     "gloss": "if-then",
+     "grounds": "sandhi fusion cet+tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāruḍa+ādyaṃ",
+     "gloss": "garuda-and-others",
+     "grounds": "compound gāruḍa+ādya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pragṛhyatām",
+     "gloss": "let-be-taken",
+     "grounds": "passive imperative of grah",
+     "morph": "3.sg.pass.impv"
+    }
+   ],
+   "question": "When a practice is not stated in Siddhānta, may one take the Garuda and other agamas as authority?",
+   "premises": [
+    "Siddhānta may not state every practice.",
+    "Garuda and other agamas can supply missing authority.",
+    "The verse directs acceptance when Siddhānta is silent."
+   ],
+   "inference": "Silence in Siddhānta permits recourse to Garuda and related agamas.",
+   "uncertainties": [
+    "Exact scope of gāruḍa+ādyaṃ remains unclear."
+   ],
+   "plain_english": "If something is not stated in the Siddhānta, then the Garuda and other texts should be taken up."
+  }
+ ]
+}

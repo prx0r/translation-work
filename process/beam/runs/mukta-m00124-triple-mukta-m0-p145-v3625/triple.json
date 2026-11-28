@@ -1,0 +1,60 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "vimānaṃ",
+     "gloss": "temple-shrine",
+     "grounds": "accusative singular neuter form of vimāna, a temple or shrine",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "mansion",
+     "grounds": "accusative singular neuter form of bhavana, a dwelling or mansion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "harmyaṃ",
+     "gloss": "palace",
+     "grounds": "accusative singular neuter form of harmya, a palace",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saudhaṃ",
+     "gloss": "saudha",
+     "grounds": "accusative singular neuter form of saudha, a palace or lofty building",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "neuter nominative or accusative singular form of dhāma, an abode or dwelling",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niketanam",
+     "gloss": "abode",
+     "grounds": "accusative singular neuter form of niketana, an abode or residence",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which Sanskrit terms are enumerated here as names for the temple or divine abode?",
+   "premises": [
+    "vimāna means temple-shrine",
+    "bhavana means mansion",
+    "harmya means palace",
+    "saudha means palace",
+    "dhāma means abode",
+    "niketana means abode"
+   ],
+   "inference": "the verse lists six synonymous names for the divine dwelling",
+   "uncertainties": [
+    "the exact doctrinal referent of each term as temple, palace, or abode is not specified beyond the lexical sense"
+   ],
+   "plain_english": "Temple, mansion, palace, saudha, abode, dwelling."
+  }
+ ]
+}

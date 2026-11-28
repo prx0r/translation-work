@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental of mūla, referring to the root mantra used in consecration",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "seven-times",
+     "grounds": "indeclinable numeral adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āmantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive expressing prior act of addressing or consecrating",
+     "morph": "(gerund, ā-mantr)"
+    },
+    {
+     "surface": "arghya+adbhiḥ",
+     "gloss": "with-arghya-waters",
+     "grounds": "compound/fused form: arghya (ritual offering) + ap in instrumental plural, denoting consecratory water",
+     "morph": "compound: arghya+ap.inst.pl.f"
+    },
+    {
+     "surface": "vinivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative prescribing the formal presentation of the offering",
+     "morph": "3.sg.act.opt (vi-ni-vid)"
+    }
+   ],
+   "question": "What ritual consecration must precede the formal offering of the prepared vessel?",
+   "premises": [
+    "The offering is consecrated using the root mantra.",
+    "The consecration is performed seven times.",
+    "Arghya water is used in the consecration before formal presentation."
+   ],
+   "inference": "Therefore, the prepared offering should be consecrated seven times with the root mantra and arghya water before being formally offered.",
+   "uncertainties": [
+    "Whether arghya+adbhiḥ implies sprinkling, pouring, or another specific mode of application is not explicit."
+   ],
+   "plain_english": "Having consecrated it seven times with the root mantra and with arghya water, one should formally offer it."
+  }
+ ]
+}

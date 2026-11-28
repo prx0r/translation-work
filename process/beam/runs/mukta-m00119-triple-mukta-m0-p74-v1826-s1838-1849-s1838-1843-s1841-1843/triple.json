@@ -1,0 +1,134 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1841,
+   "rows": [
+    {
+     "surface": "kālikāmanujāpī",
+     "gloss": "kālikā-mantra-mutterer",
+     "grounds": "compound of kālikā, mantra, and jāpin; fused form retained",
+     "morph": "compound (kālikā+mantra+jāpin)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "may-touch",
+     "grounds": "optative of root spṛś, third singular active",
+     "morph": "v.3.sg.act-opt + root spṛś"
+    },
+    {
+     "surface": "pātakinaṃ",
+     "gloss": "sinner",
+     "grounds": "accusative singular masculine of pātakin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens if a Kālikā-mantra mutterer touches a sinner?",
+   "premises": [
+    "A Kālikā-mantra mutterer may touch a sinner.",
+    "The touching is stated conditionally."
+   ],
+   "inference": "Touching a sinner is permitted only under the stated condition.",
+   "uncertainties": [
+    "The exact condition after 'if' is not supplied in this verse."
+   ],
+   "plain_english": "If a mutterer of the Kālikā mantra touches a sinner, he may do so."
+  },
+  {
+   "verse": 1842,
+   "rows": [
+    {
+     "surface": "gadyapadyamayī",
+     "gloss": "prose-and-verse-composed",
+     "grounds": "compound of gadya, padya, and mayī; fused form retained",
+     "morph": "compound (gadya+padya+mayī)"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "nominative singular feminine of vāṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of root bhū, third singular active",
+     "morph": "v.3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "rakṣāparamparā",
+     "gloss": "protection-succession",
+     "grounds": "compound of rakṣā and paramparā; fused form retained",
+     "morph": "compound (rakṣā+paramparā)"
+    }
+   ],
+   "question": "When speech consists of prose and verse, what protective succession may arise?",
+   "premises": [
+    "Speech may consist of prose and verse.",
+    "Such speech may become a protection-succession."
+   ],
+   "inference": "Prose-and-verse speech can function as a protective succession.",
+   "uncertainties": [
+    "The scope of the protection-succession is not specified."
+   ],
+   "plain_english": "Speech made of prose and verse may become a succession of protection."
+  },
+  {
+   "verse": 1843,
+   "rows": [
+    {
+     "surface": "atītānāgataṃ",
+     "gloss": "past-and-future",
+     "grounds": "compound of atīta and anāgata; fused form retained",
+     "morph": "compound (atīta+anāgata)"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative singular neuter of jñāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vartamānaṃ",
+     "gloss": "present",
+     "grounds": "accusative singular neuter participle of vartamāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "he-sees",
+     "grounds": "present indicative of root paś, third singular active",
+     "morph": "v.3.sg.act-pres + root paś"
+    }
+   ],
+   "question": "What temporal knowledge does the seer perceive?",
+   "premises": [
+    "He sees past and future knowledge.",
+    "He also sees present knowledge."
+   ],
+   "inference": "The seer perceives knowledge of past, present, and future.",
+   "uncertainties": [
+    "The seer's identity and means of seeing are not specified."
+   ],
+   "plain_english": "He sees knowledge of the past, the future, and the present."
+  }
+ ]
+}

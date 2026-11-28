@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "introduces additional elements in the same manner as previously stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varaṇaśaktīḥ",
+     "gloss": "enclosure-powers",
+     "grounds": "powers of the enclosures of the śrīcakra; object of hearing implied from context",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the listed elements of the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddhyānaṃ",
+     "gloss": "their-meditation",
+     "grounds": "meditation on those enclosure-powers; tat refers back to varaṇaśaktīḥ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatprapūjanam",
+     "gloss": "their-worship",
+     "grounds": "worship of those enclosure-powers; tat refers back to varaṇaśaktīḥ",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional components of the ritual procedure must be learned to obtain the desired fruit?",
+   "premises": [
+    "The procedure of the worship grants the desired fruit.",
+    "The enclosure-powers form part of that ritual procedure.",
+    "Meditation on and worship of those powers are included in that procedure."
+   ],
+   "inference": "Learning the enclosure-powers together with their meditation and worship completes knowledge of the fruitful ritual procedure.",
+   "uncertainties": [
+    "The exact referent of tat in taddhyānaṃ and tatprapūjanam is inferred from the immediately preceding varaṇaśaktīḥ."
+   ],
+   "plain_english": "Likewise, learn of the enclosure-powers, and of their meditation and their worship."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "||",
+     "gloss": "thus",
+     "grounds": "double-danda verse-end marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "31",
+     "gloss": "thirty-one",
+     "grounds": "chapter-number marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "thus",
+     "grounds": "double-danda verse-end marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sat",
+     "gloss": "truth",
+     "grounds": "substantive in closing formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "||",
+     "gloss": "thus",
+     "grounds": "double-danda verse-end marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What threefold sacred formula closes this tantric chapter?",
+   "premises": [
+    "chapter marker precedes sacred formula",
+    "formula contains om that truth",
+    "double danda marks verse end"
+   ],
+   "inference": "the verse closes chapter thirty-one with om tat sat",
+   "uncertainties": [
+    "legacy hints may be gloss approximations"
+   ],
+   "plain_english": "Thus chapter thirty-one: om, that, truth."
+  }
+ ]
+}

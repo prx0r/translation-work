@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "prāṇa",
+     "gloss": "breath",
+     "grounds": "prior member of the compound prāṇāyāma; sandhi with following āyāmam yields prāṇāyāmam",
+     "morph": "compound: breath+prior-member"
+    },
+    {
+     "surface": "āyāmam",
+     "gloss": "extension",
+     "grounds": "posterior member of prāṇāyāma, object of prāhur",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying prāṇāyāmam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāhur",
+     "gloss": "they-call",
+     "grounds": "verb of designation with experts as subject",
+     "morph": "3.pl.act-perfect pra-√ah"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "prior member of compound yoga-śāstra",
+     "morph": "compound: yoga+prior-member"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scripture",
+     "grounds": "medial member of compound yoga-śāstra-viśāradāḥ",
+     "morph": "compound: scripture+medial-member"
+    },
+    {
+     "surface": "viśāradāḥ",
+     "gloss": "experts",
+     "grounds": "subject of prāhur, skilled in yoga scripture",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which practice is designated as breath control by experts in yoga scripture?",
+   "premises": [
+    "Experts in yoga scripture possess authoritative knowledge of yogic practices.",
+    "These experts designate this specific practice as prāṇāyāma.",
+    "Prāṇāyāma is defined as the extension or control of breath."
+   ],
+   "inference": "The practice referred to is identified as prāṇāyāma by experts in yoga scripture.",
+   "uncertainties": [
+    "The referent of imaṃ depends on the preceding verse or context not included here."
+   ],
+   "plain_english": "Experts in the yoga scriptures call this breath control (prāṇāyāma)."
+  }
+ ]
+}

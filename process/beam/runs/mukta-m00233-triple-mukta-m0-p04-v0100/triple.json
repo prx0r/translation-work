@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "stambhāyāme",
+     "gloss": "pillar-measure",
+     "grounds": "locative of pillar-measure",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diṅnandavasusaptāṃśake",
+     "gloss": "direction-eight-vasu-seven-parts",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should pillar measure be divided directionally in ritual construction?",
+   "premises": [
+    "pillar measure requires directional division",
+    "eight directions and seven vasu parts are used",
+    "ordered application is prescribed"
+   ],
+   "inference": "pillar measure is to be laid out in ordered directional parts",
+   "uncertainties": [
+    "exact ritual referent of vasu parts remains unclear"
+   ],
+   "plain_english": "But in pillar measure, the eight directions and seven vasu parts are to be applied in order."
+  }
+ ]
+}

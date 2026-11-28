@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "kāmaścandro",
+     "gloss": "desire-and-moon",
+     "grounds": "Sandhi-fused form of kāmaḥ and candraḥ, naming two figures in the enumeration.",
+     "morph": "sandhi-fusion"
+    },
+    {
+     "surface": "maheśaśca",
+     "gloss": "great-lord-and",
+     "grounds": "maheśaḥ with enclitic ca, adding another figure to the list.",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "indraḥ",
+     "gloss": "indra",
+     "grounds": "Proper name of the deity Indra in the nominative.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktiśca",
+     "gloss": "power-and",
+     "grounds": "śaktiḥ with enclitic ca, adding another principle to the list.",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "Proper name of the goddess Pārvatī in the nominative.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities and powers complete the enumerated sequence culminating in Pārvatī?",
+   "premises": [
+    "The verse continues a nominative enumeration of divine figures and principles.",
+    "Kāma and Candra are named together in a fused form.",
+    "Maheśa, Indra, Śakti, and Pārvatī are added to complete the sequence."
+   ],
+   "inference": "The sequence is completed by naming Kāma, Candra, Maheśa, Indra, Śakti, and Pārvatī as its final members.",
+   "uncertainties": [
+    "The precise doctrinal role of each named figure within this specific Śrīvidyā enumeration is not fully specified by the verse alone."
+   ],
+   "plain_english": "Kāma and Candra, and Maheśa, and Indra, and Śakti, and Pārvatī."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "kāṃ",
+     "gloss": "which",
+     "grounds": "interrogative pronoun qualifying vidyāṃ",
+     "morph": "pron.interr.acc.sg.f"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "object of prāpya",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive expressing prior attainment",
+     "morph": "gerund(prāp)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject; referent depends on preceding context",
+     "morph": "pron.dem.nom.sg.f"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "became",
+     "grounds": "resultant state following attainment of knowledge",
+     "morph": "ppp.nom.sg.f(jan)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "anaphoric to kāṃ vidyāṃ, object of vadasva",
+     "morph": "pron.dem.acc.sg.f"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "tell",
+     "grounds": "request addressed to the lord",
+     "morph": "impv.2.sg.mid(vad)"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "to-me",
+     "grounds": "recipient of the requested explanation",
+     "morph": "pron.1.loc.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the respondent",
+     "morph": "n.voc.sg.m"
+    }
+   ],
+   "question": "What specific knowledge did she attain that the lord must reveal to the speaker?",
+   "premises": [
+    "She attained a particular knowledge.",
+    "Her resultant state followed from attaining that knowledge.",
+    "The speaker requests the lord to disclose that knowledge."
+   ],
+   "inference": "The lord should identify and explain the knowledge she attained.",
+   "uncertainties": [
+    "The referent of 'sā' depends on the preceding narrative context."
+   ],
+   "plain_english": "Having obtained which knowledge did she become so? Tell that to me, O lord."
+  }
+ ]
+}

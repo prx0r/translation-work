@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the mantra-knowledge to be stated",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative command to attend to the transmission",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressee of the instruction",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the disciple",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "I-speak",
+     "grounds": "speaker declares the act of transmission",
+     "morph": "1.sg.pres.act.ind √vac"
+    },
+    {
+     "surface": "tārāvidyāṃ",
+     "gloss": "Tārā-knowledge",
+     "grounds": "compound naming the mantra-knowledge of Tārā as the object",
+     "morph": "f.acc.sg (tārā+vidyā)"
+    },
+    {
+     "surface": "daśākṣarīm",
+     "gloss": "ten-syllabled",
+     "grounds": "qualifies the Tārā-knowledge by syllable count",
+     "morph": "f.acc.sg (daśa+akṣara)"
+    }
+   ],
+   "question": "What ten-syllabled Tārā knowledge is the speaker about to transmit to the beloved disciple?",
+   "premises": [
+    "The speaker directly addresses the beloved disciple and commands attention.",
+    "The speaker explicitly declares the intention to speak.",
+    "The object of transmission is identified as the ten-syllabled Tārā knowledge."
+   ],
+   "inference": "The verse introduces the imminent transmission of the ten-syllabled Tārāvidyā to the disciple.",
+   "uncertainties": [],
+   "plain_english": "Hear that, beloved; I speak to you the ten-syllabled Tārāvidyā."
+  }
+ ]
+}

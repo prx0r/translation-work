@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "hṛdayeśa",
+     "gloss": "o-lord-of-the-heart",
+     "grounds": "vocative address; compound hṛdaya+īśa",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "o-great-god",
+     "grounds": "vocative epithet; compound mahā+deva",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "parameśa",
+     "gloss": "o-supreme-lord",
+     "grounds": "vocative epithet; compound parama+īśa",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "purātana",
+     "gloss": "o-ancient-one",
+     "grounds": "vocative epithet denoting primordiality",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which divine attributes are ascribed to the lord in this direct invocation?",
+   "premises": [
+    "The addressed deity is called lord of the heart.",
+    "The addressed deity is called the great god.",
+    "The addressed deity is called the supreme and ancient lord."
+   ],
+   "inference": "The invocation identifies the addressee as an immanent, supreme, and primordial divine lord.",
+   "uncertainties": [
+    "The syntactic role of this vocative sequence within the surrounding passage is not fully determined from this verse alone."
+   ],
+   "plain_english": "O lord of the heart, O great god, O supreme lord, O ancient one."
+  }
+ ]
+}

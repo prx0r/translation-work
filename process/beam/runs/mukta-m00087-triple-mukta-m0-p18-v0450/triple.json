@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "saśabdaṃ",
+     "gloss": "with-sound",
+     "grounds": "adverbial phrase indicating sounded execution; fused sa + śabdaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādahṛnmastapradeśeṣu",
+     "gloss": "foot-heart-head-places",
+     "grounds": "compound of pāda, hṛd, masta, pradeśa in locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "adverb indicating sequential performance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order and with what sound should the practitioner strike foot, heart, and head places?",
+   "premises": [
+    "ritual striking occurs in ordered bodily places",
+    "sound accompanies each prescribed placement"
+   ],
+   "inference": "The verse prescribes sounded, sequential contact at foot, heart, and head.",
+   "uncertainties": [
+    "exact ritual action and mantra context are not specified in this short verse"
+   ],
+   "plain_english": "With sound, in the places of foot, heart, and head, in order."
+  }
+ ]
+}

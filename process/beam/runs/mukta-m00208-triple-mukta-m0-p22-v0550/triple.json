@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "jyotiṣmatīmiti",
+     "gloss": "luminous-thus",
+     "grounds": "fused form of jyotiṣmatī (quoting the verse beginning) and iti (thus/saying); recited formula",
+     "morph": "fused: f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "paṭhan",
+     "gloss": "reciting",
+     "grounds": "present participle describing the officiant performing the recitation",
+     "morph": "pres.part.m.nom.sg (√paṭh)"
+    },
+    {
+     "surface": "jyotīṃṣi",
+     "gloss": "lights",
+     "grounds": "objects to be kindled in the ritual context",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "jvālayedapi",
+     "gloss": "should-kindle-even",
+     "grounds": "fused form of jvālayet (optative) and api (even/also); prescribes the ritual action",
+     "morph": "fused: 3.sg.opt.act (√jval) + (indecl.)"
+    }
+   ],
+   "question": "What ritual action of kindling lights is enjoined when reciting the verse beginning with jyotiṣmatī?",
+   "premises": [
+    "The officiant recites the formula beginning with jyotiṣmatī.",
+    "The recitation is accompanied by a prescribed ritual act.",
+    "The act specified is the kindling of lights."
+   ],
+   "inference": "Therefore, while reciting the jyotiṣmatī verse, the officiant should kindle lights as part of the rite.",
+   "uncertainties": [
+    "The exact ritual context and number or type of lights (jyotīṃṣi) are not specified in this verse alone."
+   ],
+   "plain_english": "Reciting the verse that begins with 'jyotiṣmatī', one should also kindle the lights."
+  }
+ ]
+}

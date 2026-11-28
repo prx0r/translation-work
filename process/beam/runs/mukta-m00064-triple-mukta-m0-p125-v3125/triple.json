@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "pūjayecca",
+     "gloss": "one-should-worship-and",
+     "grounds": "optative of pūj with enclitic ca; fused form kept as one token",
+     "morph": "3.sg.act-opt + (indecl.)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "lunar day designation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śivaloke",
+     "gloss": "in-śiva-world",
+     "grounds": "compound denoting the realm of Śiva",
+     "morph": "compound:śiva-loka; m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "passive result of worship",
+     "morph": "3.sg.pass-pres √mah"
+    }
+   ],
+   "question": "What reward follows from performing worship on the fourteenth lunar day?",
+   "premises": [
+    "Worship should be performed on the fourteenth lunar day.",
+    "Ritual worship produces a post-ritual consequence for the worshipper.",
+    "The stated consequence is honor in the world of Śiva."
+   ],
+   "inference": "Therefore, worship on the fourteenth lunar day results in being honored in Śiva's world.",
+   "uncertainties": [],
+   "plain_english": "And one should worship on the fourteenth day; thereby one is honored in the world of Śiva."
+  }
+ ]
+}

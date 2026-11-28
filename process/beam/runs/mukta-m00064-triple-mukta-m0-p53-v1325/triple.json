@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "picchilā",
+     "gloss": "picchilā",
+     "grounds": "name of the sacred site described in this verse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to picchilā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇataḥ",
+     "gloss": "to-the-south",
+     "grounds": "indicates spatial location relative to Gautama's domain",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gautamasya",
+     "gloss": "of-gautama",
+     "grounds": "denotes the reference point for the southern location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahāphalā",
+     "gloss": "greatly-fruitful",
+     "grounds": "qualifies picchilā as yielding great spiritual or ritual fruit",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sacred site located south of Gautama's domain is characterized as greatly fruitful?",
+   "premises": [
+    "Picchilā is identified as a specific sacred site.",
+    "This site lies to the south of Gautama's domain.",
+    "Picchilā is described as greatly fruitful."
+   ],
+   "inference": "Therefore, Picchilā is the greatly fruitful sacred site situated south of Gautama's domain.",
+   "uncertainties": [
+    "The exact nature of Gautama's domain or associated site is not specified in this verse."
+   ],
+   "plain_english": "Picchilā, which lies to the south of Gautama's domain, is a greatly fruitful sacred site."
+  }
+ ]
+}

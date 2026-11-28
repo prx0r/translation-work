@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "kurvāṇaścet",
+     "gloss": "performing-if",
+     "grounds": "fused form of kurvāṇaḥ and cet; condition on the teacher's action",
+     "morph": "pr.part.nom.sg.m(kṛ)+indecl."
+    },
+    {
+     "surface": "kriyāṃbhūmau",
+     "gloss": "in-rite-ground",
+     "grounds": "compound locative indicating the sphere of ritual activity",
+     "morph": "compound-loc.sg.f"
+    },
+    {
+     "surface": "patito",
+     "gloss": "fallen",
+     "grounds": "describes the teacher's lapse or downfall",
+     "morph": "ppp.nom.sg.m(pat)"
+    },
+    {
+     "surface": "deśikastadā",
+     "gloss": "teacher-then",
+     "grounds": "fused form of deśikaḥ and tadā; identifies the agent and timing",
+     "morph": "m.nom.sg+indecl."
+    }
+   ],
+   "question": "What consequence arises when a teacher falls while performing a rite?",
+   "premises": [
+    "A teacher may be engaged in performing a rite.",
+    "The teacher may fall within the sphere of ritual activity.",
+    "Such a fall constitutes a critical ritual circumstance."
+   ],
+   "inference": "If a teacher falls while performing a rite, then a specific consequence follows at that time.",
+   "uncertainties": [
+    "The exact nature of 'patitaḥ' (physical fall, moral lapse, or ritual failure) is not specified in this verse alone.",
+    "The consequence is implied by context but not explicitly stated in this verse."
+   ],
+   "plain_english": "If the teacher, while performing a rite, falls at that time, then a particular consequence follows."
+  }
+ ]
+}

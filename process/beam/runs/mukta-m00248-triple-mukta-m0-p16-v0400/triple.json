@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteen",
+     "grounds": "numeral adjective modifying kalāḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalās",
+     "grounds": "accusative plural feminine noun, object of vinyaset",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun agreeing with kalāḥ",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "vāmamantreṇa",
+     "gloss": "with-vāma-mantra",
+     "grounds": "instrumental singular masculine compound noun indicating means",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How many kalās are to be placed and with which mantra?",
+   "premises": [
+    "thirteen kalās are specified",
+    "these kalās are the object",
+    "placement is prescribed",
+    "vāma mantra is the means"
+   ],
+   "inference": "The thirteen kalās are to be installed by means of the Vāma mantra.",
+   "uncertainties": [
+    "exact ritual sense of kalāḥ beyond this verse"
+   ],
+   "plain_english": "These thirteen kalās should indeed be placed with the Vāma mantra."
+  }
+ ]
+}

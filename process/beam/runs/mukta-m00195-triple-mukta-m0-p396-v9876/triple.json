@@ -1,0 +1,1105 @@
+{
+ "song": "mukta-m0-p396",
+ "items": [
+  {
+   "verse": 9876,
+   "rows": [
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyeṣṭhāyai",
+     "gloss": "to-jyeṣṭhā",
+     "grounds": "name of goddess as recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "action preceding mantra statement",
+     "morph": "gerund (pra+vac)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of description",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptadaśa+akṣaraḥ",
+     "gloss": "seventeen-syllabled",
+     "grounds": "compound describing mantra length",
+     "morph": "compound: saptadaśa+akṣara (bahuvrīhi), m.nom.sg"
+    }
+   ],
+   "question": "What mantra formula and syllable count are prescribed for Jyeṣṭhā?",
+   "premises": [
+    "The syllable hrīṃ is uttered with obeisance to Jyeṣṭhā.",
+    "After this utterance the mantra is identified.",
+    "The mantra consists of seventeen syllables."
+   ],
+   "inference": "The Jyeṣṭhā mantra is formed by saying hrīṃ jyeṣṭhāyai namaḥ and has seventeen syllables.",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'hrīṃ, obeisance to Jyeṣṭhā,' the mantra is declared to be seventeen syllables long."
+  },
+  {
+   "verse": 9877,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyeṣṭha+lakṣmīḥ",
+     "gloss": "jyeṣṭha-lakṣmī",
+     "grounds": "name of the deity",
+     "morph": "compound: jyeṣṭha+lakṣmī (karmadhāraya), f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmāye",
+     "gloss": "śrīmāye",
+     "grounds": "mantra word or seed phrase element",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "śakti+bījake",
+     "gloss": "śakti-seed-syllables",
+     "grounds": "compound naming seed syllables",
+     "morph": "compound: śakti+bījaka (tatpuruṣa), n.nom.du"
+    }
+   ],
+   "question": "Which deity and which seed syllables are associated with this mantra?",
+   "premises": [
+    "The deity of the mantra is Jyeṣṭha-Lakṣmī.",
+    "The words śrīmāye are included.",
+    "The śakti seed syllables are specified."
+   ],
+   "inference": "Jyeṣṭha-Lakṣmī is the deity, and the mantra includes śrīmāye and the śakti seed syllables.",
+   "uncertainties": [
+    "The exact parsing of śrīmāye as a mantra element is context-dependent."
+   ],
+   "plain_english": "The deity is Jyeṣṭha-Lakṣmī, and the mantra includes 'śrīmāye' and the śakti seed syllables."
+  },
+  {
+   "verse": 9878,
+   "rows": [
+    {
+     "surface": "tri+veda+abdhi+indu+agni+yugma",
+     "gloss": "three-veda-ocean-moon-fire-pair",
+     "grounds": "numerical compound indicating counts of letters",
+     "morph": "compound: tri+veda+abdhi+indu+agni+yugma (dvandva/bahuvrīhi), n.nom.sg"
+    },
+    {
+     "surface": "varṇaiḥ",
+     "gloss": "with-letters",
+     "grounds": "instrument for forming limbs",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual body parts of mantra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number of limbs",
+     "morph": "(indecl./numeral)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many mantra limbs are formed and by what letter counts in sequence?",
+   "premises": [
+    "Letter groups are specified by the numerical compound tri-veda-abdhi-indu-agni-yugma.",
+    "These letters are used to form the limbs.",
+    "Six limbs are to be formed in order."
+   ],
+   "inference": "The six mantra limbs are constructed sequentially using letter groups of three, four, four, one, three, and two.",
+   "uncertainties": [
+    "The exact mapping of each numerical term to a specific limb follows ritual convention."
+   ],
+   "plain_english": "Using letter groups of three, four, four, one, three, and two in order, one forms the six limbs."
+  },
+  {
+   "verse": 9879,
+   "rows": [
+    {
+     "surface": "hṛt+nābhi+ādhāra+jānu+aṃghrau",
+     "gloss": "heart-navel-base-knees-feet",
+     "grounds": "compound listing body locations",
+     "morph": "compound: hṛt+nābhi+ādhāra+jānu+aṃghri (dvandva), m.loc.sg"
+    },
+    {
+     "surface": "padānāṃ",
+     "gloss": "of-feet",
+     "grounds": "specifies the final placement area",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pañcakaṃ",
+     "gloss": "group-of-five",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (ni+as)"
+    }
+   ],
+   "question": "Where should the fivefold placement be performed on the body?",
+   "premises": [
+    "A group of five is to be placed.",
+    "The locations named are heart, navel, base, knees, and feet.",
+    "The placement is prescribed as a ritual act."
+   ],
+   "inference": "The practitioner should place the fivefold set on the heart, navel, base, knees, and feet.",
+   "uncertainties": [],
+   "plain_english": "One should place the group of five on the heart, navel, base, knees, and feet."
+  },
+  {
+   "verse": 9880,
+   "rows": [
+    {
+     "surface": "kuṃkuma+kṣoda+liptāṅgīṃ",
+     "gloss": "saffron-powder-anointed-body",
+     "grounds": "compound describing the goddess's body",
+     "morph": "compound: kuṃkuma+kṣoda+lipta+aṅga (bahuvrīhi), f.acc.sg"
+    },
+    {
+     "surface": "praphulla+kamala+īkṣaṇām",
+     "gloss": "fully-blossomed-lotus-eyed",
+     "grounds": "compound describing the goddess's eyes",
+     "morph": "compound: praphulla+kamala+īkṣaṇa (bahuvrīhi), f.acc.sg"
+    }
+   ],
+   "question": "What physical attributes characterize the goddess in visualization?",
+   "premises": [
+    "The goddess's body is anointed with saffron powder.",
+    "Her eyes are like fully blossomed lotuses.",
+    "Both attributes describe her visualized form."
+   ],
+   "inference": "The goddess is to be visualized with a body smeared in saffron powder and eyes like blooming lotuses.",
+   "uncertainties": [],
+   "plain_english": "Visualize her with a body anointed with saffron powder and eyes like fully blossomed lotuses."
+  },
+  {
+   "verse": 9881,
+   "rows": [
+    {
+     "surface": "dhana+pūrṇaṃ",
+     "gloss": "wealth-filled",
+     "grounds": "compound describing the bag",
+     "morph": "compound: dhana+pūrṇa (tatpuruṣa), m.acc.sg"
+    },
+    {
+     "surface": "sṛṇiṃ",
+     "gloss": "bag",
+     "grounds": "object held by the goddess",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "object held by the goddess",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadhatīṃ",
+     "gloss": "holding",
+     "grounds": "present participle describing the goddess",
+     "morph": "f.acc.sg.pres.part.act (dhā)"
+    },
+    {
+     "surface": "bhuja+pallavaiḥ",
+     "gloss": "with-arm-sprouts",
+     "grounds": "compound indicating tender arms as instruments",
+     "morph": "compound: bhuja+pallava (tatpuruṣa), m.inst.pl"
+    }
+   ],
+   "question": "What objects does the goddess hold in her tender arms?",
+   "premises": [
+    "The goddess holds a bag filled with wealth.",
+    "She also holds a noose.",
+    "These are held with her tender arms."
+   ],
+   "inference": "The goddess is visualized holding a wealth-filled bag and a noose in her tender arms.",
+   "uncertainties": [],
+   "plain_english": "She holds a bag filled with wealth and a noose with her tender, sprout-like arms."
+  },
+  {
+   "verse": 9882,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmma+ādibhiḥ",
+     "gloss": "with-dharma-and-others",
+     "grounds": "compound listing seat principles",
+     "morph": "compound: dharmma+ādi (bahuvrīhi), m.inst.pl"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "ritual object to be constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified practitioner",
+     "morph": "compound: mantra+vid (upapada), m.nom.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-construct",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (pari+klṛp)"
+    }
+   ],
+   "question": "Who should construct the ritual seat and on what principles?",
+   "premises": [
+    "The seat is to be constructed properly.",
+    "It is based on dharma and the other principles.",
+    "The mantra-knower is the agent of construction."
+   ],
+   "inference": "The knower of the mantra should properly construct the seat using dharma and the other foundational principles.",
+   "uncertainties": [],
+   "plain_english": "The knower of the mantra should properly construct the seat with dharma and the other principles."
+  },
+  {
+   "verse": 9883,
+   "rows": [
+    {
+     "surface": "pūrvā+ādi+dala+madhyeṣu",
+     "gloss": "in-east-etc-petal-middles",
+     "grounds": "compound indicating locations on petals",
+     "morph": "compound: pūrva+ādi+dala+madhya (tatpuruṣa), n.loc.pl"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārcyāḥ",
+     "gloss": "of-to-be-worshipped",
+     "grounds": "refers to deities or forms to be worshipped",
+     "morph": "f.gen.sg/f.nom.pl (gerundive arc)"
+    },
+    {
+     "surface": "kramāt+imāḥ",
+     "gloss": "in-order-these",
+     "grounds": "compound indicating sequential worship of these",
+     "morph": "compound: kramāt+imā (avyayībhāva-like), f.nom.pl"
+    }
+   ],
+   "question": "In what locations and order should the worshipped forms be placed?",
+   "premises": [
+    "Placements are made in the middles of the petals beginning with the east.",
+    "A placement is also made in the center.",
+    "These worshipped forms are arranged in order."
+   ],
+   "inference": "These worshipped forms should be placed in order in the middle of the petals starting from the east and in the center.",
+   "uncertainties": [
+    "The referent of ārcyāḥ is supplied by ritual context."
+   ],
+   "plain_english": "These forms to be worshipped should be placed in order in the middles of the petals beginning with the east, and in the center."
+  },
+  {
+   "verse": 9884,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "us",
+     "grounds": "object of inspiration",
+     "morph": "pron.gen/acc.pl"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "lakṣmī",
+     "grounds": "goddess invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "may-inspire",
+     "grounds": "benedictive or optative wish",
+     "morph": "3.sg.opt.act (pra+cud)"
+    }
+   ],
+   "question": "What inspiration is sought from Lakṣmī in this invocation?",
+   "premises": [
+    "Lakṣmī is the agent invoked.",
+    "The practitioners are the recipients.",
+    "The requested action is inspiration."
+   ],
+   "inference": "Lakṣmī is asked to inspire us.",
+   "uncertainties": [
+    "This echoes the Gāyatrī-style formula adapted to Lakṣmī."
+   ],
+   "plain_english": "Therefore may Lakṣmī inspire us."
+  },
+  {
+   "verse": 9885,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "mantra limbs to be worshipped",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mātṛ+lokeśān",
+     "gloss": "mothers-world-lords",
+     "grounds": "compound naming attendant deities",
+     "morph": "compound: mātṛ+lokeśa (dvandva), m.acc.pl"
+    },
+    {
+     "surface": "tat+astrāṇi",
+     "gloss": "their-weapons",
+     "grounds": "compound naming weapons of those deities",
+     "morph": "compound: tad+astra (tatpuruṣa), n.acc.pl"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (pra+pūj)"
+    }
+   ],
+   "question": "Which entities must be worshipped along with the mantra limbs?",
+   "premises": [
+    "The mantra limbs are to be worshipped.",
+    "The mothers and world-lords are to be worshipped.",
+    "Their weapons are to be worshipped."
+   ],
+   "inference": "One should worship the limbs, the mothers and world-lords, and their weapons.",
+   "uncertainties": [],
+   "plain_english": "One should worship the limbs, the mothers and world-lords, and their weapons."
+  },
+  {
+   "verse": 9886,
+   "rows": [
+    {
+     "surface": "pāyasena",
+     "gloss": "with-milk-rice",
+     "grounds": "offering substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "susiddhena",
+     "gloss": "well-cooked",
+     "grounds": "quality of the offering",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarpiḥ+siktena",
+     "gloss": "ghee-sprinkled",
+     "grounds": "compound describing the offering",
+     "morph": "compound: sarpis+sikta (tatpuruṣa), n.inst.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering substance should the practitioner use in this rite?",
+   "premises": [
+    "The offering is milk-rice.",
+    "It must be well cooked.",
+    "It must be sprinkled with ghee."
+   ],
+   "inference": "The practitioner should use well-cooked milk-rice sprinkled with ghee.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should use well-cooked milk-rice sprinkled with ghee."
+  },
+  {
+   "verse": 9887,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśaṃ",
+     "gloss": "lineage",
+     "grounds": "worldly benefit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampattiṃ",
+     "gloss": "prosperity",
+     "grounds": "worldly benefit",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaikuṇṭhaṃ",
+     "gloss": "vaikuṇṭha",
+     "grounds": "otherworldly abode",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result of the rite",
+     "morph": "3.sg.pres.mid (labh)"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "when-dead",
+     "grounds": "condition for obtaining vaikuṇṭha",
+     "morph": "m.nom.sg.past.part (mṛ)"
+    }
+   ],
+   "question": "What worldly and otherworldly rewards result from this ritual practice?",
+   "premises": [
+    "The practitioner obtains lineage and prosperity here.",
+    "The practitioner obtains Vaikuṇṭha after death.",
+    "These are stated as results of the practice."
+   ],
+   "inference": "The practice yields lineage and prosperity in this life and Vaikuṇṭha after death.",
+   "uncertainties": [],
+   "plain_english": "Here one obtains lineage and prosperity, and when dead one attains Vaikuṇṭha."
+  },
+  {
+   "verse": 9888,
+   "rows": [
+    {
+     "surface": "ekādaśa+akṣaraiḥ",
+     "gloss": "by-eleven-syllables",
+     "grounds": "compound indicating amount less",
+     "morph": "compound: ekādaśa+akṣara (tatpuruṣa), n.inst.pl"
+    },
+    {
+     "surface": "ūnaṃ",
+     "gloss": "less",
+     "grounds": "deficiency from a total",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śata+traya+varṇakam",
+     "gloss": "three-hundred-lettered",
+     "grounds": "compound describing total letter count",
+     "morph": "compound: śata+traya+varṇaka (bahuvrīhi), m.acc.sg"
+    }
+   ],
+   "question": "What is the total syllable count of the mantra described here?",
+   "premises": [
+    "The mantra is described as three hundred letters.",
+    "It is less by eleven syllables.",
+    "The description identifies that specific mantra."
+   ],
+   "inference": "The mantra consists of two hundred eighty-nine syllables.",
+   "uncertainties": [],
+   "plain_english": "That mantra is three hundred letters less by eleven, that is, two hundred eighty-nine syllables."
+  },
+  {
+   "verse": 9889,
+   "rows": [
+    {
+     "surface": "sarva+siddhi+mātṛkābhyaḥ",
+     "gloss": "to-all-siddhi-mātṛkās",
+     "grounds": "compound naming recipients of obeisance",
+     "morph": "compound: sarva+siddhi+mātṛkā (tatpuruṣa), f.dat.pl"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nitya+uditā",
+     "gloss": "ever-risen",
+     "grounds": "compound epithet to be uttered",
+     "morph": "compound: nitya+udita (karmadhāraya), f.nom.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "What salutation and epithet should be uttered to the Siddhi Mātṛkās?",
+   "premises": [
+    "Obeisance is directed to all Siddhi Mātṛkās.",
+    "The epithet ever-risen is included.",
+    "The practitioner should utter this formula."
+   ],
+   "inference": "One should say 'obeisance to all Siddhi Mātṛkās, ever-risen.'",
+   "uncertainties": [],
+   "plain_english": "One should say: 'Obeisance to all Siddhi Mātṛkās, ever-risen.'"
+  },
+  {
+   "verse": 9890,
+   "rows": [
+    {
+     "surface": "kula+cakra+nāmikāyai",
+     "gloss": "to-kula-cakra-named",
+     "grounds": "compound epithet of the goddess",
+     "morph": "compound: kula+cakra+nāmikā (bahuvrīhi), f.dat.sg"
+    },
+    {
+     "surface": "bhagavatyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of address",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantra element to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "To which named goddess should the next mantra word be addressed?",
+   "premises": [
+    "The goddess is named by the kula-cakra.",
+    "She is addressed as Bhagavatī.",
+    "A mantra word is to be spoken to her."
+   ],
+   "inference": "One should utter the word addressed to the goddess named by the kula-cakra.",
+   "uncertainties": [],
+   "plain_english": "One should utter the word to the goddess Bhagavatī, named by the kula-cakra."
+  },
+  {
+   "verse": 9891,
+   "rows": [
+    {
+     "surface": "oṃkṣauṃkrauṃ",
+     "gloss": "oṃkṣauṃkrauṃ",
+     "grounds": "bīja syllables, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+uktvā",
+     "gloss": "having-said-thus",
+     "grounds": "compound indicating prior utterance",
+     "morph": "compound: iti+uktvā (gerund), (indecl.)"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "mantra word",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsinī",
+     "gloss": "haṃsinī",
+     "grounds": "mantra word or epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mantra syllables and words follow in this stage of recitation?",
+   "premises": [
+    "The syllables oṃkṣauṃkrauṃ and namaḥ are uttered.",
+    "The word parama is then spoken.",
+    "The word haṃsinī is also spoken."
+   ],
+   "inference": "After saying 'oṃkṣauṃkrauṃ namaḥ,' one should say 'parama' and 'haṃsinī.'",
+   "uncertainties": [],
+   "plain_english": "Having said 'oṃkṣauṃkrauṃ namaḥ,' one should then say 'parama' and 'haṃsinī.'"
+  },
+  {
+   "verse": 9892,
+   "rows": [
+    {
+     "surface": "praśamani",
+     "gloss": "pacifying",
+     "grounds": "mantra word or epithet",
+     "morph": "f.voc.sg/f.nom.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "action preceding next utterance",
+     "morph": "gerund (pra+vac)"
+    },
+    {
+     "surface": "sakala",
+     "gloss": "all",
+     "grounds": "mantra word",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "iti+padaṃ",
+     "gloss": "thus-word",
+     "grounds": "compound marking quoted word",
+     "morph": "compound: iti+pada (karmadhāraya), n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "What sequence of mantra words should be uttered after praśamani?",
+   "premises": [
+    "The word praśamani is uttered.",
+    "The word sakala is to be spoken next.",
+    "The instruction requires saying these words in sequence."
+   ],
+   "inference": "After uttering the word 'praśamani,' one should say the word 'sakala.'",
+   "uncertainties": [],
+   "plain_english": "Having uttered the word 'praśamani,' one should say the word 'sakala.'"
+  },
+  {
+   "verse": 9893,
+   "rows": [
+    {
+     "surface": "sarva+āpad+ambhodhi+tāriṇī",
+     "gloss": "all-calamity-ocean-savior",
+     "grounds": "compound epithet of the goddess",
+     "morph": "compound: sarva+āpad+ambhodhi+tāriṇī (tatpuruṣa), f.nom.sg"
+    },
+    {
+     "surface": "iti+uktvā",
+     "gloss": "having-said-thus",
+     "grounds": "compound indicating prior utterance",
+     "morph": "compound: iti+uktvā (gerund), (indecl.)"
+    },
+    {
+     "surface": "sakala",
+     "gloss": "all",
+     "grounds": "mantra word",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which epithet and following word continue the mantra recitation here?",
+   "premises": [
+    "The epithet 'savior from the ocean of all calamities' is uttered.",
+    "The word sakala follows.",
+    "These are part of the recitation sequence."
+   ],
+   "inference": "After saying 'savior from the ocean of all calamities,' one should say 'sakala.'",
+   "uncertainties": [],
+   "plain_english": "Having said 'savior from the ocean of all calamities,' one should also say 'sakala.'"
+  },
+  {
+   "verse": 9894,
+   "rows": [
+    {
+     "surface": "haṃsa+yugmaṃ",
+     "gloss": "swan-pair",
+     "grounds": "compound mantra element",
+     "morph": "compound: haṃsa+yugma (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "balā+yugmaṃ",
+     "gloss": "balā-pair",
+     "grounds": "compound mantra element",
+     "morph": "compound: balā+yugma (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "nareti",
+     "gloss": "nareti",
+     "grounds": "mantra phrase",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "rudhira+aṃtra",
+     "gloss": "blood-entrails",
+     "grounds": "compound mantra element",
+     "morph": "compound: rudhira+aṃtra (dvandva), n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional mantra elements are included in this portion of the recitation?",
+   "premises": [
+    "The pair of haṃsa syllables is included.",
+    "The pair of balā syllables is included.",
+    "The words nareti and blood-entrails are included."
+   ],
+   "inference": "This portion of the mantra includes the haṃsa pair, balā pair, nareti, and blood-entrails.",
+   "uncertainties": [
+    "The precise ritual referents of haṃsa, balā, and nareti are mantra-specific."
+   ],
+   "plain_english": "Include the pair of haṃsas, the pair of balās, 'nareti,' and 'blood and entrails.'"
+  },
+  {
+   "verse": 9895,
+   "rows": [
+    {
+     "surface": "khāda+khāda",
+     "gloss": "eat-eat",
+     "grounds": "reduplicated imperative mantra command",
+     "morph": "compound: khāda+khāda (āmreḍita), 2.sg.imp.act (khād)"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "weapon invoked in command",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "our",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "bhindhi+bhindhi",
+     "gloss": "pierce-pierce",
+     "grounds": "reduplicated imperative mantra command",
+     "morph": "compound: bhindhi+bhindhi (āmreḍita), 2.sg.imp.act (bhid)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forceful commands are to be uttered in this mantra segment?",
+   "premises": [
+    "The command 'eat, eat' is to be spoken.",
+    "The command 'pierce, pierce our trident' is to be spoken.",
+    "These commands occur in sequence."
+   ],
+   "inference": "One should then utter the commands 'eat, eat' and 'pierce, pierce our trident.'",
+   "uncertainties": [
+    "The exact target of the commands depends on the ritual application."
+   ],
+   "plain_english": "Then one should say: 'Eat, eat! Pierce, pierce our trident!'"
+  },
+  {
+   "verse": 9896,
+   "rows": [
+    {
+     "surface": "cheda+dvitayaṃ",
+     "gloss": "cut-pair",
+     "grounds": "compound indicating repeated command",
+     "morph": "compound: cheda+dvitaya (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-uttered",
+     "grounds": "action preceding next utterance",
+     "morph": "gerund (pra+vac)"
+    },
+    {
+     "surface": "tāvat+yāvat",
+     "gloss": "as-long-as",
+     "grounds": "correlative compound",
+     "morph": "compound: tāvat+yāvat (correlative), (indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which repeated cutting command and correlative phrase follow in the mantra?",
+   "premises": [
+    "A pair of 'cut' commands is uttered.",
+    "The correlative phrase 'as long as' is included.",
+    "The word 'my' is included in the sequence."
+   ],
+   "inference": "After uttering the pair of 'cut' commands, one should say 'as long as my.'",
+   "uncertainties": [],
+   "plain_english": "Having uttered the pair of 'cut' commands, one should say 'as long as my.'"
+  },
+  {
+   "verse": 9897,
+   "rows": [
+    {
+     "surface": "sādhaya+dvitaya+ante",
+     "gloss": "accomplish-pair-at-end",
+     "grounds": "compound indicating end of repeated command",
+     "morph": "compound: sādhaya+dvitaya+anta (tatpuruṣa), m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "mantra word",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What word should be spoken at the end of the repeated accomplish command?",
+   "premises": [
+    "The repeated 'accomplish' command reaches its end.",
+    "The word parama is to be spoken.",
+    "This is prescribed as part of the recitation."
+   ],
+   "inference": "At the end of the pair of 'accomplish' commands, one should also say 'parama.'",
+   "uncertainties": [],
+   "plain_english": "But at the end of the pair of 'accomplish' commands, one should also say 'supreme.'"
+  },
+  {
+   "verse": 9898,
+   "rows": [
+    {
+     "surface": "kāruṇike",
+     "gloss": "o-compassionate",
+     "grounds": "vocative epithet of goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhagavati",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahā+bhairava+rūpa+dhāriṇi",
+     "gloss": "great-bhairava-form-holder",
+     "grounds": "compound epithet of goddess",
+     "morph": "compound: mahā+bhairava+rūpa+dhāriṇī (tatpuruṣa), f.voc.sg"
+    },
+    {
+     "surface": "tridaśa",
+     "gloss": "thirty-gods",
+     "grounds": "mantra element referring to gods",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+uktvā",
+     "gloss": "having-said-thus",
+     "grounds": "compound indicating prior utterance",
+     "morph": "compound: iti+uktvā (gerund), (indecl.)"
+    },
+    {
+     "surface": "vare",
+     "gloss": "o-excellent",
+     "grounds": "vocative epithet",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namite",
+     "gloss": "bowed-to",
+     "grounds": "epithet meaning revered",
+     "morph": "f.voc.sg.past.part (nam)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "Which vocative epithets of the goddess are recited in this mantra passage?",
+   "premises": [
+    "The goddess is addressed as compassionate and as Bhagavatī.",
+    "She is addressed as holder of the great Bhairava form.",
+    "She is further addressed as excellent and bowed-to after saying tridaśa."
+   ],
+   "inference": "One should recite the vocatives: compassionate goddess, holder of the great Bhairava form, tridaśa, excellent, and bowed-to.",
+   "uncertainties": [
+    "The function of tridaśa within the mantra string is formulaic."
+   ],
+   "plain_english": "One should say: 'O compassionate goddess, holder of the great Bhairava form,' then 'tridaśa,' and then 'O excellent one, bowed to.'"
+  },
+  {
+   "verse": 9899,
+   "rows": [
+    {
+     "surface": "jana",
+     "gloss": "people",
+     "grounds": "mantra element",
+     "morph": "(indecl./mantra-form)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsale",
+     "gloss": "o-affectionate",
+     "grounds": "vocative epithet of goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahā+kāli+padaṃ",
+     "gloss": "great-kālī-word",
+     "grounds": "compound naming mantra word",
+     "morph": "compound: mahā+kālī+pada (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "What concluding vocatives and mantra word are prescribed at this point?",
+   "premises": [
+    "The word jana is uttered.",
+    "The goddess is addressed as affectionate goddess.",
+    "The word mahā-kālī is to be spoken."
+   ],
+   "inference": "One should say 'jana,' then 'O affectionate goddess,' and then the word 'mahā-kālī.'",
+   "uncertainties": [],
+   "plain_english": "One should say 'jana,' then 'O affectionate goddess,' and then utter the word 'mahā-kālī.'"
+  }
+ ]
+}

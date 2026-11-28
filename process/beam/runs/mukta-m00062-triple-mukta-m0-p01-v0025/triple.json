@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "ekā",
+     "gloss": "one",
+     "grounds": "numeral adjective qualifying śaktiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "para+aparā",
+     "gloss": "supreme-and-non-supreme",
+     "grounds": "dvandva compound describing dual aspect of śaktiḥ",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject of the predication",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtiḥ",
+     "gloss": "primordial-nature",
+     "grounds": "predicate noun identifying śaktiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśva+mohinī",
+     "gloss": "universe-deluding",
+     "grounds": "tatpuruṣa compound qualifying prakṛtiḥ or śaktiḥ",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "How can a single power be both supreme and non-supreme while deluding the universe?",
+   "premises": [
+    "The power is described as one.",
+    "This same power is both supreme and non-supreme.",
+    "This power is primordial nature that deludes the universe."
+   ],
+   "inference": "A single primordial power encompasses both transcendent and immanent aspects while functioning as the universe-deluding nature.",
+   "uncertainties": [],
+   "plain_english": "There is one power, both supreme and non-supreme, which is the primordial nature that deludes the universe."
+  }
+ ]
+}

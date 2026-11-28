@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "atigarvānvitaḥ",
+     "gloss": "excessive-pride-possessed",
+     "grounds": "compound adjective describing Shambhu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śambhur",
+     "gloss": "shambhu",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "modifies the beautiful one",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful-one",
+     "grounds": "predicate noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive relation to the beautiful one",
+     "morph": "gen.sg"
+    }
+   ],
+   "question": "Why does Shambhu, filled with excessive pride, become my second beautiful one?",
+   "premises": [
+    "Shambhu is filled with excessive pride",
+    "The beautiful one is second",
+    "The beautiful one belongs to me"
+   ],
+   "inference": "Shambhu's excessive pride is linked to his becoming the speaker's second beautiful one",
+   "uncertainties": [
+    "Exact verbal predicate is not supplied by the verse",
+    "The referent of the beautiful one is not explicit"
+   ],
+   "plain_english": "Shambhu, filled with excessive pride, is my second beautiful one."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "pañcaratnāni",
+     "gloss": "five-gems",
+     "grounds": "accusative plural neuter form of pañcaratna",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "locative singular masculine form of kumbha",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "viniḥkṣipet",
+     "gloss": "should-place",
+     "grounds": "optative third singular active form with vi and nir prefixes",
+     "morph": "3.sg.opt.act-kṣip"
+    }
+   ],
+   "question": "Should five gems be placed into the pot during the ritual?",
+   "premises": [
+    "five gems are specified",
+    "pot is the vessel",
+    "placement is prescribed"
+   ],
+   "inference": "the rite requires placing five gems in the pot",
+   "uncertainties": [
+    "exact ritual context is not stated in this verse"
+   ],
+   "plain_english": "Place five gems, or place them in the pot."
+  }
+ ]
+}

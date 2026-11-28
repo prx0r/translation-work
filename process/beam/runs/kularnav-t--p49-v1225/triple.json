@@ -1,0 +1,52 @@
+{
+ "song": "kul-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "kulācārakramaṃ",
+     "gloss": "kula-conduct-order",
+     "grounds": "compound of kula, conduct, and order; accusative object requested",
+     "morph": "compound (kula+ācāra+krama), m.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deva",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request for instruction",
+     "morph": "2.sg.act.impv, root vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "dative recipient of the instruction",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "karuṇānidhe",
+     "gloss": "ocean-of-compassion",
+     "grounds": "vocative epithet of the addressed deva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What order of Kula conduct should the compassionate deva explain?",
+   "premises": [
+    "Pārvatī asks Śiva for instruction.",
+    "The verse requests the order of Kula conduct.",
+    "Compassion is invoked as an address."
+   ],
+   "inference": "The speaker seeks guidance on Kula conduct.",
+   "uncertainties": [
+    "Whether deva refers specifically to Śiva in this context.",
+    "Whether me is dative or genitive in the fused address."
+   ],
+   "plain_english": "O deva, ocean of compassion, tell me the order of Kula conduct."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "nimittaśakunān",
+     "gloss": "omens-and-portents",
+     "grounds": "compound object denoting signs and omens to be observed",
+     "morph": "acc.pl.masc"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-the-outset",
+     "grounds": "indicates preliminary timing before the main action",
+     "morph": "loc.sg.masc"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-ascertained",
+     "grounds": "absolutive expressing prior assessment",
+     "morph": "gerund(jñā)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "ritual-action",
+     "grounds": "the rite to be undertaken",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction for carrying out the rite",
+     "morph": "3.sg.optative.active(sam-ā-car)"
+    }
+   ],
+   "question": "Must omens and portents be ascertained before performing ritual action?",
+   "premises": [
+    "Ritual action requires proper preliminary conditions.",
+    "Omens and portents indicate favorable or unfavorable conditions.",
+    "Ascertaining signs at the outset informs correct performance."
+   ],
+   "inference": "Therefore one should ascertain omens and portents at the outset before performing the ritual action.",
+   "uncertainties": [
+    "nimittaśakunān may be read as a dvandva or as a descriptive compound."
+   ],
+   "plain_english": "Having ascertained the omens and portents at the outset, one should perform the ritual action."
+  }
+ ]
+}

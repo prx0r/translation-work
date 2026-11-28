@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "sūkṣma+rūpa+dhyāna+prayogeṣu",
+     "gloss": "in-subtle-form-meditation-applications",
+     "grounds": "locative plural of compound sūkṣma-rūpa-dhyāna-prayoga (subtle + form + meditation + application)",
+     "morph": "compound.loc.pl.m"
+    },
+    {
+     "surface": "anadhikāratvam",
+     "gloss": "non-qualification",
+     "grounds": "abstract noun from anadhikāra (lack of entitlement/authority)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive of √vac (to speak, to state)",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What qualification status is declared regarding applications of meditation on subtle form?",
+   "premises": [
+    "The context concerns applications of meditation on subtle form.",
+    "A status of non-qualification is being attributed in that context.",
+    "This attribution is explicitly stated."
+   ],
+   "inference": "Non-qualification is declared for applications of meditation on subtle form.",
+   "uncertainties": [
+    "The specific subject lacking qualification is not named in this verse and depends on prior context."
+   ],
+   "plain_english": "Non-qualification is stated in the applications of meditation on subtle form."
+  }
+ ]
+}

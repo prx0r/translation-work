@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "lakṣya",
+     "gloss": "fixed-target",
+     "grounds": "first member of compound qualifying saṃkhyākaṃ; indicates a determined or aimed measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkhyākaṃ",
+     "gloss": "having-number",
+     "grounds": "second member of compound with lakṣya; describes the mantra repetition as counted to a set amount",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "one-should-repeat",
+     "grounds": "prescriptive verbal form directing ritual recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of japen; the sacred formula to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of similar ritual instructions beyond what is explicitly stated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what measured manner must the mantra be repeated following the enclosure worship?",
+   "premises": [
+    "The ritual sequence requires repetition of the mantra.",
+    "The repetition is specified as reaching a fixed number.",
+    "Additional related procedures are indicated by the concluding expression."
+   ],
+   "inference": "After enclosure worship, the practitioner must repeat the mantra a prescribed number of times along with associated observances.",
+   "uncertainties": [
+    "The exact numerical count implied by lakṣya-saṃkhyākaṃ is not specified in this verse."
+   ],
+   "plain_english": "One should repeat the mantra a fixed number of times, and so forth."
+  }
+ ]
+}

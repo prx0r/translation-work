@@ -1,0 +1,109 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p51",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1255 ratio=0.593",
+  "ALIGN_NODISP v1256 ratio=0.667",
+  "ALIGN_NODISP v1259 ratio=0.667",
+  "ALIGN_NODISP v1265 ratio=0.696",
+  "ALIGN_NODISP v1266 ratio=0.667",
+  "ALIGN_NODISP v1271 ratio=0.667"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "de2fd4105f69b740",
+ "source_digest_normalized_sha256": "de2fd4105f69b740b0e83604b04e1e748a1982d2a4e423d12b0ff47e98ce6511",
+ "source_sha256_raw": "8e7e8d7fd151603f3f5de9ac2e6ea6093a479e422d9cd4df2f1020b1afffbed1",
+ "source_sha256_raw_file": "/root/translation-work/svacchandatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 107
+ },
+ "align": {
+  "min_ratio": 0.593,
+  "sub090": {
+   "1255": {
+    "ratio": 0.593,
+    "disposition": null
+   },
+   "1256": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1259": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1265": {
+    "ratio": 0.696,
+    "disposition": null
+   },
+   "1266": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1271": {
+    "ratio": 0.667,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 49,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 107,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1255",
+  "fix: word-order/gloss vs source for v1256",
+  "fix: word-order/gloss vs source for v1259",
+  "fix: word-order/gloss vs source for v1265",
+  "fix: word-order/gloss vs source for v1266",
+  "fix: word-order/gloss vs source for v1271"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "4772291eaae805fb6691e13f510a2230bf32909e2db3aef81bdd9bfdaf58ae46",
+  "l0": "52bcf94fa6df71ac8c11e14739f6ea0872327f4818c731042612a80eeb353c66",
+  "argmap": "55d1a3827bd4d02d7ec6eb0c3fb569050b0ab74c4e0ca84c7bdcde5f7161758e",
+  "l2": "eb6a5ccd94a9d018fca2eddc5cc89541257d92fa386d4d311f2c16f20c8a3483",
+  "c1": "32dba323ffddfe9546ead2bdb984eae44056612356c07a9d3e2ed86f6aa1c458"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "de2fd4105f69b740",
+  "t1": "sva-p51/data/sva-p51.t1.json",
+  "l0": "sva-p51/data/sva-p51.l0.json",
+  "l2": "sva-p51/data/sva-p51.l2.json",
+  "c1": "sva-p51/data/sva-p51.c1.json"
+ }
+}

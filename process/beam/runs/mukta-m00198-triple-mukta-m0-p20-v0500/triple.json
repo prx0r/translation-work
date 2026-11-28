@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "sakandharaṃ",
+     "gloss": "with-neck",
+     "grounds": "bahuvrīhi compound sa-kandhara; describes the upper portion as having a neck",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "compound tad-ūrdhva in locative sense; refers to the region above the previously described part",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śukanāsyānvitaṃ",
+     "gloss": "endowed-with-parrot-nose",
+     "grounds": "compound śuka-nāsya-anvita; specifies an alternative form resembling a parrot's beak",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle reinforcing the alternative specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms are prescribed for the portion above the previously measured structure?",
+   "premises": [
+    "The portion above that structure may be formed with a neck.",
+    "The portion above that structure may alternatively be endowed with a parrot-nose shape.",
+    "The disjunctive particle presents these as alternative prescribed forms."
+   ],
+   "inference": "Therefore, the upper portion above the previously described structure is to be made either with a neck or with a parrot-nose form.",
+   "uncertainties": [
+    "The exact architectural element referred to by the upper portion is not explicitly named in this verse and depends on the preceding context."
+   ],
+   "plain_english": "Above that, it should be made either with a neck or endowed with a parrot-nose shape."
+  }
+ ]
+}

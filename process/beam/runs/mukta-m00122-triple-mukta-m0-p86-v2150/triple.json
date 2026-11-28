@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "tilataṇḍulakaiḥ",
+     "gloss": "with-sesame-rice",
+     "grounds": "instrumental plural of tilataṇḍulaka; sesame-rice offering",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past passive participle from vac; declared",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "dravyānudīraṇe",
+     "gloss": "in-substance-mention",
+     "grounds": "compound dravya plus anudīraṇa; locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What alternative offering substance is prescribed for the rite when substances are mentioned?",
+   "premises": [
+    "sesame-rice may be used",
+    "substance mention governs offering",
+    "worship is completed beforehand"
+   ],
+   "inference": "The verse permits sesame-rice as an alternative offering substance.",
+   "uncertainties": [
+    "exact scope of dravyānudīraṇe remains unclear"
+   ],
+   "plain_english": "Or even with sesame-rice, as stated in the mention of substances."
+  }
+ ]
+}

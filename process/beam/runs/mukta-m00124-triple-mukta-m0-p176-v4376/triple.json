@@ -1,0 +1,1005 @@
+{
+ "song": "mukta-m0-p176",
+ "items": [
+  {
+   "verse": 4376,
+   "rows": [
+    {
+     "surface": "viṃśatyaṃśa",
+     "gloss": "twenty-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhāgonā",
+     "gloss": "three-portion-less",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "stanapārśvāvadheḥ",
+     "gloss": "breast-side-limit-of",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "position",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many parts define the position at the breast-side boundary?",
+   "premises": [
+    "twenty-part measure is used",
+    "three-portion-less modifies it",
+    "position is at breast-side limit"
+   ],
+   "inference": "The breast-side boundary position is measured by a twenty-part unit reduced by three portions.",
+   "uncertainties": [
+    "exact anatomical referent not specified"
+   ],
+   "plain_english": "The position at the breast-side boundary is a twenty-part measure less three portions."
+  },
+  {
+   "verse": 4377,
+   "rows": [
+    {
+     "surface": "śroṇī",
+     "gloss": "hip",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṭī",
+     "gloss": "waist",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaikaṃ",
+     "gloss": "each-one",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturaṃśakam",
+     "gloss": "four-part",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many parts are assigned to hip and waist each?",
+   "premises": [
+    "hip and waist are named",
+    "each receives one measure",
+    "measure is four-part"
+   ],
+   "inference": "Hip and waist each receive a four-part measure.",
+   "uncertainties": [
+    "whether measure is length or breadth"
+   ],
+   "plain_english": "Hip and waist likewise each receive four parts."
+  },
+  {
+   "verse": 4378,
+   "rows": [
+    {
+     "surface": "sampūrṇagomukhākāraṃ",
+     "gloss": "complete-cow-face-shape",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādāgrāntaṃ",
+     "gloss": "foot-tip-end",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "at-face",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "at-face",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What shape extends from foot tip to face?",
+   "premises": [
+    "complete cow-face shape is named",
+    "extent runs foot-tip to end",
+    "face is repeated location"
+   ],
+   "inference": "The complete cow-face shape extends from foot tip to face.",
+   "uncertainties": [
+    "repeated mukhe may be scribal or emphatic"
+   ],
+   "plain_english": "The complete cow-face shape extends from the foot tip to the face."
+  },
+  {
+   "verse": 4379,
+   "rows": [
+    {
+     "surface": "hikkāḥ",
+     "gloss": "collar-bone",
+     "grounds": "token as given",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tanāgrakastasthonāntālpaḥ",
+     "gloss": "body-tip-hand-situated",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "sama",
+     "gloss": "equal-division",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are collar-bone and body-tip measures divided?",
+   "premises": [
+    "collar-bone is named",
+    "body-tip hand-situated measure is named",
+    "equal division is stated"
+   ],
+   "inference": "Collar-bone and body-tip measures are divided equally.",
+   "uncertainties": [
+    "exact quantity not stated"
+   ],
+   "plain_english": "Collar-bone and body-tip measures are divided equally."
+  },
+  {
+   "verse": 4380,
+   "rows": [
+    {
+     "surface": "tiryakkarṇadharaḥ",
+     "gloss": "oblique-ear-holding",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvādaśadviguṇāṃśakaḥ",
+     "gloss": "twelve-two-times-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measure applies to the oblique ear-holding at the back?",
+   "premises": [
+    "oblique ear-holding is named",
+    "location is back",
+    "measure is twelve two-times part"
+   ],
+   "inference": "The oblique ear-holding at the back measures twelve two-times parts.",
+   "uncertainties": [
+    "whether dviguṇa doubles twelve or part"
+   ],
+   "plain_english": "The oblique ear-holding at the back is twelve two-times parts."
+  },
+  {
+   "verse": 4381,
+   "rows": [
+    {
+     "surface": "viṃśātiḥ",
+     "gloss": "twenty",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṭisaṃdhau",
+     "gloss": "at-waist-joint",
+     "grounds": "token as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "token as given",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "kakuddoṣaḥ",
+     "gloss": "hump-lip",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triraṣṭa",
+     "gloss": "three-eight",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure should be at the waist joint and hump lip?",
+   "premises": [
+    "twenty should be at waist joint",
+    "hump lip is named",
+    "three-eight also applies"
+   ],
+   "inference": "Twenty parts should be at the waist joint, and three-eight also applies to the hump lip.",
+   "uncertainties": [
+    "relation between twenty and three-eight unclear"
+   ],
+   "plain_english": "Twenty should be at the waist joint; the hump lip is three-eight also."
+  },
+  {
+   "verse": 4382,
+   "rows": [
+    {
+     "surface": "śroṇiḥ",
+     "gloss": "hip",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṭiḥ",
+     "gloss": "waist",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "at-face",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tiryaṅmukhe",
+     "gloss": "obliquely-at-face",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which body parts are listed with middle and face orientations?",
+   "premises": [
+    "hip and waist are named",
+    "middle is named",
+    "face and oblique face are named"
+   ],
+   "inference": "Hip, waist, middle, face, and oblique face are all listed together.",
+   "uncertainties": [
+    "no quantities given"
+   ],
+   "plain_english": "Hip, waist, middle, face, and oblique face are all listed."
+  },
+  {
+   "verse": 4383,
+   "rows": [
+    {
+     "surface": "ānatiḥ",
+     "gloss": "bending",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturaṃśā",
+     "gloss": "four-part",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "mark",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "round",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṛju",
+     "gloss": "straight",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthiram",
+     "gloss": "firm",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualities are assigned to bending and mark?",
+   "premises": [
+    "bending is four-part",
+    "mark is round",
+    "straight and firm are stated"
+   ],
+   "inference": "Bending is four-part, while the mark is round, straight, and firm.",
+   "uncertainties": [
+    "whether qualities all modify mark"
+   ],
+   "plain_english": "Bending is four-part; the mark is round, straight, and firm."
+  },
+  {
+   "verse": 4384,
+   "rows": [
+    {
+     "surface": "uttuṅgamūrumūlaṃ",
+     "gloss": "elevated-thigh-root",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamadhyāgravistaraḥ",
+     "gloss": "root-middle-tip-breadth",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What breadth relation is stated for elevated thigh root?",
+   "premises": [
+    "elevated thigh root is named",
+    "root middle tip breadth is named"
+   ],
+   "inference": "The elevated thigh root is related to root-middle-tip breadth.",
+   "uncertainties": [
+    "no numeric value given"
+   ],
+   "plain_english": "The elevated thigh root is tied to root, middle, and tip breadth."
+  },
+  {
+   "verse": 4385,
+   "rows": [
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭtāradairghyaṃ",
+     "gloss": "six-four-length",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānu",
+     "gloss": "knee",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāddairghyavartulam",
+     "gloss": "should-be-length-round",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What length and shape should the knee have?",
+   "premises": [
+    "four six-four length is named",
+    "knee is named",
+    "should-be length round is stated"
+   ],
+   "inference": "The knee should be length-round, with a four six-four length measure.",
+   "uncertainties": [
+    "compound parsing ambiguous"
+   ],
+   "plain_english": "The knee should be length-round, measured by four six-four length."
+  },
+  {
+   "verse": 4386,
+   "rows": [
+    {
+     "surface": "pārṣṇiḥ",
+     "gloss": "heel",
+     "grounds": "token as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyagratalagā",
+     "gloss": "middle-tip-sole-going",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuṣpañcaṣaḍaṃśakaiḥ",
+     "gloss": "with-four-five-six-parts",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What parts measure heel middle-tip sole?",
+   "premises": [
+    "heel is named",
+    "middle-tip sole-going is named",
+    "four five six parts are named"
+   ],
+   "inference": "Heel middle-tip sole is measured by four, five, and six parts.",
+   "uncertainties": [
+    "whether parts are alternative or cumulative"
+   ],
+   "plain_english": "The heel's middle-tip sole is measured with four, five, and six parts."
+  },
+  {
+   "verse": 4387,
+   "rows": [
+    {
+     "surface": "caturaṃśākṣagulphe",
+     "gloss": "four-part-axis-ankles",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśasārdhāṃśamaṇḍale",
+     "gloss": "two-part-half-part-circles",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measures apply to four-part axis ankles and circles?",
+   "premises": [
+    "four-part axis ankles are named",
+    "two-part half-part circles are named"
+   ],
+   "inference": "Four-part axis ankles and two-part half-part circles are both specified.",
+   "uncertainties": [
+    "exact relation between ankle and circle measures"
+   ],
+   "plain_english": "Four-part axis ankles and two-part half-part circles are specified."
+  },
+  {
+   "verse": 4388,
+   "rows": [
+    {
+     "surface": "pārṣṇipṛṣṭhe",
+     "gloss": "heel-back",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "suvṛttāntaṃ",
+     "gloss": "well-rounded-end",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "pārṣṇyaṃṅguṣṭhāgramāyatam",
+     "gloss": "heel-big-toe-tip-long",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What shape and length are stated for heel back?",
+   "premises": [
+    "heel back is named",
+    "well-rounded end is named",
+    "heel big-toe tip long is named"
+   ],
+   "inference": "Heel back is well-rounded at the end and long toward big-toe tip.",
+   "uncertainties": [
+    "compound sandhi not expanded"
+   ],
+   "plain_english": "The heel back is well-rounded at the end and long toward the big-toe tip."
+  },
+  {
+   "verse": 4389,
+   "rows": [
+    {
+     "surface": "pārṣṇisīmātkaniṣṭhāntaṃ",
+     "gloss": "heel-boundary-little-finger-end",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturaṃśena",
+     "gloss": "by-four-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "breadth",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What breadth is measured from heel boundary to little finger?",
+   "premises": [
+    "heel boundary to little finger end is named",
+    "by four-part is stated",
+    "breadth is named"
+   ],
+   "inference": "Breadth from heel boundary to little finger end is four parts.",
+   "uncertainties": [
+    "whether caturaṃśena modifies breadth directly"
+   ],
+   "plain_english": "Breadth from heel boundary to little finger end is four parts."
+  },
+  {
+   "verse": 4390,
+   "rows": [
+    {
+     "surface": "caturaṃśāyataḥ",
+     "gloss": "four-part-long",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṅguṣṭhaḥ",
+     "gloss": "big-toe",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tattāre",
+     "gloss": "its-breadth",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgake",
+     "gloss": "in-two-parts",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What condition is stated for big-toe length and breadth?",
+   "premises": [
+    "big-toe is four-part long",
+    "its breadth is named",
+    "if in two parts is stated"
+   ],
+   "inference": "Big-toe is four-part long, with a condition involving its breadth in two parts.",
+   "uncertainties": [
+    "exact conditional relation unclear"
+   ],
+   "plain_english": "The big-toe is four-part long, with a condition on its breadth in two parts."
+  },
+  {
+   "verse": 4391,
+   "rows": [
+    {
+     "surface": "dvitīyasya",
+     "gloss": "of-second",
+     "grounds": "token as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "token as given",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "dvayavedonanāhayuk",
+     "gloss": "two-four-nine-circumference-joined",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should the third of the second be?",
+   "premises": [
+    "of-second is named",
+    "third should-be is stated",
+    "two-four-nine-circumference-joined is named"
+   ],
+   "inference": "The third of the second should be two-four-nine-circumference-joined.",
+   "uncertainties": [
+    "compound parsing ambiguous"
+   ],
+   "plain_english": "The third of the second should be two-four-nine-circumference-joined."
+  },
+  {
+   "verse": 4392,
+   "rows": [
+    {
+     "surface": "tryaṃśāyāmā",
+     "gloss": "three-part-length",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭabhāgena",
+     "gloss": "by-eight-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgoccavipulānvitā",
+     "gloss": "part-height-breadth-endowed",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What length and height-breadth relation is stated?",
+   "premises": [
+    "three-part length is named",
+    "by eight-part is stated",
+    "part height breadth endowed is named"
+   ],
+   "inference": "Three-part length is endowed with part height and breadth by eight-part.",
+   "uncertainties": [
+    "exact arithmetic relation unclear"
+   ],
+   "plain_english": "Three-part length is endowed with part height and breadth by eight-part."
+  },
+  {
+   "verse": 4393,
+   "rows": [
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "token as given",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "aṅgulānāṃ",
+     "gloss": "of-fingers",
+     "grounds": "token as given",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakhaḥ",
+     "gloss": "nail",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svāgratripādabhāk",
+     "gloss": "own-tip-three-quarter-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What part of the nail belongs to these fingers?",
+   "premises": [
+    "of these fingers is named",
+    "nail is named",
+    "own tip three-quarter part is stated"
+   ],
+   "inference": "The nail of these fingers is own tip three-quarter part.",
+   "uncertainties": [
+    "whether nail length or breadth"
+   ],
+   "plain_english": "The nail of these fingers is own tip three-quarter part."
+  },
+  {
+   "verse": 4394,
+   "rows": [
+    {
+     "surface": "aṣṭabhāgādhikāyāmaḥ",
+     "gloss": "eight-part-greater-length",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅguṣṭhaḥ",
+     "gloss": "big-toe",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyakaḥ",
+     "gloss": "second",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What length is stated for the second big-toe?",
+   "premises": [
+    "eight-part greater length is named",
+    "big-toe is named",
+    "second is named"
+   ],
+   "inference": "The second big-toe has eight-part greater length.",
+   "uncertainties": [
+    "whether greater means plus eight parts"
+   ],
+   "plain_english": "The second big-toe has eight-part greater length."
+  },
+  {
+   "verse": 4395,
+   "rows": [
+    {
+     "surface": "prakoṣṭhamaṇibandhāntatalāyāmaḥ",
+     "gloss": "forearm-wrist-end-sole-length",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍaṃśata.ḥ",
+     "gloss": "by-six-parts",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What length is measured from forearm wrist end to sole?",
+   "premises": [
+    "forearm wrist end sole length is named",
+    "by six parts is stated"
+   ],
+   "inference": "Forearm wrist end to sole length is by six parts.",
+   "uncertainties": [
+    "punctuation in token retained"
+   ],
+   "plain_english": "Forearm wrist end to sole length is by six parts."
+  },
+  {
+   "verse": 4396,
+   "rows": [
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "part",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "token as given",
+     "morph": "3.sg.act-pres root as"
+    },
+    {
+     "surface": "kūrparaḥ",
+     "gloss": "elbow",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇibandhāvasānakam",
+     "gloss": "wrist-end",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What part should be from elbow to wrist end?",
+   "premises": [
+    "part should-be is stated",
+    "elbow is named",
+    "from that wrist end is named"
+   ],
+   "inference": "A part should be from elbow to wrist end.",
+   "uncertainties": [
+    "numeric value not stated"
+   ],
+   "plain_english": "A part should extend from elbow to wrist end."
+  },
+  {
+   "verse": 4397,
+   "rows": [
+    {
+     "surface": "catustriṃśāyatavyāsaḥ",
+     "gloss": "thirty-four-length-breadth",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "end",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "depressed",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length-breadth and end are declared?",
+   "premises": [
+    "thirty-four length breadth is named",
+    "end is named",
+    "depressed is stated",
+    "declared is stated"
+   ],
+   "inference": "Thirty-four length-breadth is declared with a depressed end.",
+   "uncertainties": [
+    "what body part is modified"
+   ],
+   "plain_english": "Thirty-four length-breadth is declared with a depressed end."
+  },
+  {
+   "verse": 4398,
+   "rows": [
+    {
+     "surface": "pañcāṃśaḥ",
+     "gloss": "five-part",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "talavistāraḥ",
+     "gloss": "palm-breadth",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "talamānimnamadhyagam",
+     "gloss": "palm-from-wrist-depressed-middle",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What breadth is stated for palm from wrist?",
+   "premises": [
+    "five-part is named",
+    "palm breadth is named",
+    "palm from wrist depressed middle is named"
+   ],
+   "inference": "Palm breadth is five-part, with depressed middle from wrist.",
+   "uncertainties": [
+    "exact relation unclear"
+   ],
+   "plain_english": "Palm breadth is five-part, with depressed middle from wrist."
+  },
+  {
+   "verse": 4399,
+   "rows": [
+    {
+     "surface": "sapādāṃśaḥ",
+     "gloss": "with-quarter-part",
+     "grounds": "token as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturbhāgaḥ",
+     "gloss": "four-part",
+     "grounds": "token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅguṣṭhavipulāyatiḥ",
+     "gloss": "big-toe-breadth-length",
+     "grounds": "token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What part and breadth-length are stated for big-toe?",
+   "premises": [
+    "with-quarter part is named",
+    "four-part is named",
+    "big-toe breadth length is named"
+   ],
+   "inference": "Big-toe breadth-length is with-quarter part and four-part.",
+   "uncertainties": [
+    "whether measures are alternative"
+   ],
+   "plain_english": "Big-toe breadth-length is with-quarter part and four-part."
+  }
+ ]
+}

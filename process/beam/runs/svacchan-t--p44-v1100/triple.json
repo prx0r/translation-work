@@ -1,0 +1,33 @@
+{
+ "song": "sva-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "indriya-pañcakam",
+     "gloss": "sense-five",
+     "grounds": "compound of indriya (sense) and pañcaka (fivefold set); neuter nominative/accusative singular form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused form of iti (thus) and arthaḥ (meaning); masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is assigned to the five senses here?",
+   "premises": [
+    "indriya-pañcakam names the five senses",
+    "ityarthaḥ gives the intended meaning",
+    "the two tokens form a glossing phrase"
+   ],
+   "inference": "the verse states that the intended meaning is the five senses",
+   "uncertainties": [
+    "the exact preceding term being glossed is not supplied in this excerpt"
+   ],
+   "plain_english": "Thus, the meaning is the five senses."
+  }
+ ]
+}

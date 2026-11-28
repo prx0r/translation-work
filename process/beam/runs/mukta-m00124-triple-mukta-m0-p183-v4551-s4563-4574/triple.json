@@ -1,0 +1,595 @@
+{
+ "song": "mukta-m0-p183",
+ "items": [
+  {
+   "verse": 4563,
+   "rows": [
+    {
+     "surface": "mūrti+mantrān",
+     "gloss": "image-mantras",
+     "grounds": "compound of image and mantras",
+     "morph": "compound (mūrti+mantra).acc.pl.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative of root nyas",
+     "morph": "opt.3.sg.act + root nyas"
+    },
+    {
+     "surface": "kumbha+toya+gān",
+     "gloss": "pot-water-gone",
+     "grounds": "compound of pot water and gone",
+     "morph": "compound (kumbha+toya+ga).acc.pl.m"
+    },
+    {
+     "surface": "pratimā+hṛdi",
+     "gloss": "in-image-heart",
+     "grounds": "compound of image and heart",
+     "morph": "compound (pratimā+hṛdi).loc.sg.n"
+    }
+   ],
+   "question": "Where should image mantras be placed during image consecration?",
+   "premises": [
+    "image mantras are placed",
+    "placement occurs in image heart"
+   ],
+   "inference": "The verse directs placing image mantras in the image heart.",
+   "uncertainties": [
+    "exact sense of kumbha+toya+gān remains unclear"
+   ],
+   "plain_english": "Place the image mantras in the heart of the image."
+  },
+  {
+   "verse": 4564,
+   "rows": [
+    {
+     "surface": "tat+śailaṃ",
+     "gloss": "that-stone",
+     "grounds": "compound of that and stone",
+     "morph": "compound (tat+śaila).acc.sg.n"
+    },
+    {
+     "surface": "sudhayā",
+     "gloss": "with-plaster",
+     "grounds": "instrumental of sudhā",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "ālepya",
+     "gloss": "having-smeared",
+     "grounds": "absolutive of root lip",
+     "morph": "abs + root lip"
+    },
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "instrumental of vastra",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "āveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive of root veṣṭ",
+     "morph": "abs + root veṣṭ"
+    },
+    {
+     "surface": "citrayet",
+     "gloss": "one-should-paint",
+     "grounds": "optative of root citr",
+     "morph": "opt.3.sg.act + root citr"
+    }
+   ],
+   "question": "How should the stone image be prepared before painting?",
+   "premises": [
+    "that stone is smeared with plaster",
+    "stone is wrapped with cloth",
+    "then one paints"
+   ],
+   "inference": "The verse prescribes plastering, wrapping, and painting the stone image.",
+   "uncertainties": [
+    "whether sudhā means plaster or nectar"
+   ],
+   "plain_english": "Smear that stone with plaster, wrap it in cloth, then paint it."
+  },
+  {
+   "verse": 4565,
+   "rows": [
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "locative of grāma",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-city",
+     "grounds": "locative of nagara",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pattane",
+     "gloss": "in-town",
+     "grounds": "locative of pattana",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "rāja+dhānike",
+     "gloss": "in-capital",
+     "grounds": "compound of king and abode",
+     "morph": "compound (rāja+dhānika).loc.sg.n"
+    }
+   ],
+   "question": "In what kinds of settlements may the image be installed?",
+   "premises": [
+    "village is allowed",
+    "city is allowed",
+    "town is allowed",
+    "capital is allowed"
+   ],
+   "inference": "The verse lists village, city, town, and capital as possible installation sites.",
+   "uncertainties": [
+    "whether all are equally preferred"
+   ],
+   "plain_english": "The image may be installed in a village, city, town, or capital."
+  },
+  {
+   "verse": 4566,
+   "rows": [
+    {
+     "surface": "samudra+tīre",
+     "gloss": "on-sea-shore",
+     "grounds": "compound of sea and shore",
+     "morph": "compound (samudra+tīra).loc.sg.n"
+    },
+    {
+     "surface": "setau",
+     "gloss": "on-dam",
+     "grounds": "locative of setu",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣkariṇyāḥ+taṭeṣu",
+     "gloss": "on-lotus-pond-banks",
+     "grounds": "compound of lotus pond and banks",
+     "morph": "compound (puṣkariṇī+taṭa).loc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What natural or built sites are suitable for installation?",
+   "premises": [
+    "sea shore is suitable",
+    "dam is suitable",
+    "lotus pond banks are suitable"
+   ],
+   "inference": "The verse adds sea shore, dam, and lotus pond banks to suitable sites.",
+   "uncertainties": [
+    "whether these are exhaustive"
+   ],
+   "plain_english": "Suitable sites include the sea shore, a dam, and lotus pond banks."
+  },
+  {
+   "verse": 4567,
+   "rows": [
+    {
+     "surface": "udyāne",
+     "gloss": "in-garden",
+     "grounds": "locative of udyāna",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "puṇya+deśe",
+     "gloss": "in-sacred-place",
+     "grounds": "compound of merit and place",
+     "morph": "compound (puṇya+deśa).loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "without-parts",
+     "grounds": "adjective of niṣkala",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-parts",
+     "grounds": "adjective of sakala",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of images may be installed in gardens or sacred places?",
+   "premises": [
+    "garden is a site",
+    "sacred place is a site",
+    "image may be without parts",
+    "image may be with parts"
+   ],
+   "inference": "The verse allows either partless or full images in gardens or sacred places.",
+   "uncertainties": [
+    "whether niṣkala and sakala are alternatives or grades"
+   ],
+   "plain_english": "In a garden or sacred place, install either a partless or a full image."
+  },
+  {
+   "verse": 4568,
+   "rows": [
+    {
+     "surface": "saudha+jaṃ",
+     "gloss": "temple-born",
+     "grounds": "compound of temple and born",
+     "morph": "compound (saudha+ja).acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha+citraṃ",
+     "gloss": "half-relief",
+     "grounds": "compound of half and relief",
+     "morph": "compound (ardha+citra).acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "semblance",
+     "grounds": "accusative of ābhāsa",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhakam",
+     "gloss": "on-pedestal",
+     "grounds": "accusative of pīṭhaka",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What forms of image may be installed on a pedestal?",
+   "premises": [
+    "temple-born form is allowed",
+    "half-relief form is allowed",
+    "semblance form is allowed",
+    "pedestal form is allowed"
+   ],
+   "inference": "The verse lists temple-born, half-relief, semblance, and pedestal forms as options.",
+   "uncertainties": [
+    "whether pīṭhakam is a form or support"
+   ],
+   "plain_english": "Install a temple-born, half-relief, semblance, or pedestal image."
+  },
+  {
+   "verse": 4569,
+   "rows": [
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive of root rabh",
+     "morph": "abs + root rabh"
+    },
+    {
+     "surface": "pañca+pañca+aṃśam",
+     "gloss": "five-five-parts",
+     "grounds": "compound of five five and part",
+     "morph": "compound (pañca+pañca+aṃśa).acc.sg.m"
+    },
+    {
+     "surface": "eka+eka+pada+vardhanāt",
+     "gloss": "by-one-one-part-increase",
+     "grounds": "compound of one one part and increase",
+     "morph": "compound (eka+eka+pada+vardhana).abl.sg.n"
+    }
+   ],
+   "question": "How are image parts to be increased from the base measure?",
+   "premises": [
+    "beginning from five-five parts",
+    "increase by one-one part"
+   ],
+   "inference": "The verse prescribes increasing parts one by one from a five-five base.",
+   "uncertainties": [
+    "exact metrological meaning of aṃśa"
+   ],
+   "plain_english": "Beginning from five-five parts, increase by one part at a time."
+  },
+  {
+   "verse": 4570,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "accusative of eka",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "accusative of dvaya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "accusative of traya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+mandire",
+     "gloss": "in-brahma-temple",
+     "grounds": "compound of brahma and temple",
+     "morph": "compound (brahma+mandira).loc.sg.n"
+    }
+   ],
+   "question": "How many images may be installed in a brahma temple?",
+   "premises": [
+    "one image is allowed",
+    "two images are allowed",
+    "three images are allowed",
+    "location is brahma temple"
+   ],
+   "inference": "The verse allows one, two, or three images in a brahma temple.",
+   "uncertainties": [
+    "whether counts refer to images or parts"
+   ],
+   "plain_english": "Install one, two, or three images in a brahma temple."
+  },
+  {
+   "verse": 4571,
+   "rows": [
+    {
+     "surface": "padaṃ",
+     "gloss": "part",
+     "grounds": "accusative of pada",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paiśācikaṃ",
+     "gloss": "demonic",
+     "grounds": "adjective of paiśācika",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of root prac",
+     "morph": "ppp + root prac"
+    },
+    {
+     "surface": "brahma+bhāge",
+     "gloss": "in-brahma-portion",
+     "grounds": "compound of brahma and portion",
+     "morph": "compound (brahma+bhāga).loc.sg.m"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-assign",
+     "grounds": "optative of root kalp",
+     "morph": "opt.3.sg.act + root kalp"
+    }
+   ],
+   "question": "What kind of part is assigned in the brahma portion?",
+   "premises": [
+    "part is declared",
+    "part is demonic",
+    "assignment occurs in brahma portion"
+   ],
+   "inference": "The verse assigns a demonic part in the brahma portion.",
+   "uncertainties": [
+    "whether paiśācika modifies pada or installation"
+   ],
+   "plain_english": "Assign the demonic part in the brahma portion."
+  },
+  {
+   "verse": 4572,
+   "rows": [
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "without-parts",
+     "grounds": "adjective of niṣkala",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "brahma+bhāge",
+     "gloss": "in-brahma-portion",
+     "grounds": "compound of brahma and portion",
+     "morph": "compound (brahma+bhāga).loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-parts",
+     "grounds": "adjective of sakala",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "daivika+aṃśake",
+     "gloss": "in-divine-portion",
+     "grounds": "compound of divine and portion",
+     "morph": "compound (daivika+aṃśa).loc.sg.m"
+    }
+   ],
+   "question": "Where are partless and full images respectively placed?",
+   "premises": [
+    "partless image goes in brahma portion",
+    "full image goes in divine portion"
+   ],
+   "inference": "The verse distinguishes partless images for brahma portion and full images for divine portion.",
+   "uncertainties": [
+    "whether tu marks contrast or emphasis"
+   ],
+   "plain_english": "Place the partless image in the brahma portion and the full image in the divine portion."
+  },
+  {
+   "verse": 4573,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-install",
+     "grounds": "optative of root sthā",
+     "morph": "opt.3.sg.act + root sthā"
+    },
+    {
+     "surface": "mānuṣaṃ",
+     "gloss": "human",
+     "grounds": "adjective of mānuṣa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātuḥ",
+     "gloss": "of-mother",
+     "grounds": "genitive of mātṛ",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "indeclinable pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "pronoun idam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of root bhū",
+     "morph": "opt.3.sg.act + root bhū"
+    }
+   ],
+   "question": "What human or maternal image may be installed?",
+   "premises": [
+    "human image may be installed",
+    "maternal image may be installed",
+    "some say this should be so"
+   ],
+   "inference": "The verse allows installing a human or maternal image, with some authorities affirming it.",
+   "uncertainties": [
+    "whether mātuḥ modifies image or installation"
+   ],
+   "plain_english": "Install a human or maternal image; some say this should be so."
+  },
+  {
+   "verse": 4574,
+   "rows": [
+    {
+     "surface": "rakṣaḥ+gandharva+yakṣa+ādyāḥ",
+     "gloss": "demons-gandharvas-yakshas-etc",
+     "grounds": "compound of demons gandharvas yakshas and etc",
+     "morph": "compound (rakṣas+gandharva+yakṣa+ādi).nom.pl.m"
+    },
+    {
+     "surface": "piśāca+ādyāḥ",
+     "gloss": "goblins-etc",
+     "grounds": "compound of goblins and etc",
+     "morph": "compound (piśāca+ādi).nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrti+pāḥ",
+     "gloss": "image-guardians",
+     "grounds": "compound of image and guardians",
+     "morph": "compound (mūrti+pā).nom.pl.m"
+    }
+   ],
+   "question": "Who are the guardians of the image?",
+   "premises": [
+    "demons are guardians",
+    "gandharvas are guardians",
+    "yakshas are guardians",
+    "goblins are guardians"
+   ],
+   "inference": "The verse names demons, gandharvas, yakshas, and goblins as image guardians.",
+   "uncertainties": [
+    "whether ādyāḥ includes further classes"
+   ],
+   "plain_english": "Demons, gandharvas, yakshas, goblins, and others are image guardians."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "p.",
+     "gloss": "page",
+     "grounds": "abbreviation marking page reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "270",
+     "gloss": "270",
+     "grounds": "page number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīrṇa",
+     "gloss": "worn",
+     "grounds": "describes the condition of the garment; first member of compound with vastrā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vastrā",
+     "gloss": "garment-clad",
+     "grounds": "final member of bahuvrīhi compound qualifying sā; indicates possession of worn clothing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess described in preceding verses",
+     "morph": "pron.f.nom.sg"
+    }
+   ],
+   "question": "What worn attire characterizes the goddess in this continuing description?",
+   "premises": [
+    "The subject is identified as she, the goddess.",
+    "Her clothing is described as worn.",
+    "The description continues the prior depiction of decrepitude."
+   ],
+   "inference": "The goddess is characterized as clad in worn garments.",
+   "uncertainties": [
+    "Whether vastrā is read as a simple bahuvrīhi final or carries additional nuance is context-dependent."
+   ],
+   "plain_english": "Page 270. She is clad in worn garments."
+  }
+ ]
+}

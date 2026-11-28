@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of dā (to give), expressing prior action",
+     "morph": "gerund(dā)"
+    },
+    {
+     "surface": "dadhnā",
+     "gloss": "with-curd",
+     "grounds": "instrument of the oblation substance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "āhutiṃ",
+     "gloss": "oblation",
+     "grounds": "object of datvā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "ritual fire as object to be moved",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇasyāṃ",
+     "gloss": "in-south",
+     "grounds": "direction toward which the fire is moved",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vicālayet",
+     "gloss": "one-should-move",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-opt(vi-cal)"
+    }
+   ],
+   "question": "What ritual action must be performed with the fire after offering an oblation of curd?",
+   "premises": [
+    "An oblation is given using curd as the substance.",
+    "The ritual fire remains the object of a subsequent action.",
+    "The prescribed action directs the fire toward the southern direction."
+   ],
+   "inference": "After giving a curd oblation, the practitioner should move the fire to the south.",
+   "uncertainties": [],
+   "plain_english": "Having offered an oblation with curd, one should move the fire to the southern direction."
+  }
+ ]
+}

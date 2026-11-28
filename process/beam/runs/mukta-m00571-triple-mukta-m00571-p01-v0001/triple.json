@@ -1,0 +1,134 @@
+{
+ "song": "mukta-m00571-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "Numeral marker indicating count or grouping; function in mantra sequence UNC.",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "kiṇi",
+     "gloss": "kiṇi",
+     "grounds": "Mantra syllable or seed element; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "2",
+     "gloss": "two",
+     "grounds": "Numeral marker indicating count or grouping; function in mantra sequence UNC.",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "vicce",
+     "gloss": "vicce",
+     "grounds": "Mantra syllable or seed element; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "ko\"nkaṇāyai",
+     "gloss": "to-koṅkaṇā",
+     "grounds": "Dative form addressing Koṅkaṇā; internal quotation mark preserved as in source.",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "hraḥ",
+     "gloss": "hraḥ",
+     "grounds": "Bīja/mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "astrāya",
+     "gloss": "to-weapon",
+     "grounds": "Dative form indicating the weapon as recipient or target of the mantra.",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "Mantra syllable commonly used in weapon formulas; kept byte-exact.",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "Which syllabic formula constitutes the weapon invocation directed to Koṅkaṇā?",
+   "premises": [
+    "The sequence includes numeral markers and mantra syllables.",
+    "The dative ko\"nkaṇāyai names Koṅkaṇā as the addressee.",
+    "The dative astrāya specifies the weapon as the mantra's target."
+   ],
+   "inference": "The listed syllables and terms together form a weapon mantra addressed to Koṅkaṇā.",
+   "uncertainties": [
+    "The precise ritual function of the numerals 5 and 2 is UNC.",
+    "The exact parsing and role of kiṇi and vicce within the formula is UNC."
+   ],
+   "plain_english": "Five, kiṇi, two, vicce—to Koṅkaṇā, hraḥ, to the weapon, phaṭ."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "krīṁ",
+     "gloss": "krīṁ",
+     "grounds": "Bīja/mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "hūṁ",
+     "gloss": "hūṁ",
+     "grounds": "Bīja/mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "strīṁ",
+     "gloss": "strīṁ",
+     "grounds": "Bīja/mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "hūṁ",
+     "gloss": "hūṁ",
+     "grounds": "Bīja/mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "Mantra syllable; kept byte-exact.",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Quotation or formula-closing particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kullukāṃ",
+     "gloss": "kullukā",
+     "grounds": "Name of the mantra or deity form identified by the preceding syllables.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "Locative indicating placement on the head.",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which mantra syllables identify Kullukā for placement on the head?",
+   "premises": [
+    "The verse lists a sequence of bīja syllables ending with phaṭ.",
+    "The particle iti marks the preceding sequence as a formula.",
+    "The terms kullukāṃ and śirasi specify the named formula and its placement."
+   ],
+   "inference": "The syllables krīṁ hūṁ strīṁ hūṁ phaṭ constitute the Kullukā formula to be placed on the head.",
+   "uncertainties": [
+    "The precise identity or function of Kullukā in this ritual context is UNC."
+   ],
+   "plain_english": "Krīṁ, hūṁ, strīṁ, hūṁ, phaṭ—thus Kullukā on the head."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "harahariṃ",
+     "gloss": "hara-hari",
+     "grounds": "compound of Hara and Hari in accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of hu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samidādibhiḥ",
+     "gloss": "with-samid-and-the-rest",
+     "grounds": "instrumental plural of samid-ādi compound",
+     "morph": "m/n.inst.pl"
+    }
+   ],
+   "question": "What is offered with samid and other materials after the Hara-Hari oblation?",
+   "premises": [
+    "Hara-Hari is offered first.",
+    "Samid and other materials accompany the offering.",
+    "The ritual sequence includes both."
+   ],
+   "inference": "The verse prescribes an offering of Hara-Hari together with samid and related materials.",
+   "uncertainties": [
+    "The exact ritual referent of Hara-Hari is not specified in this excerpt."
+   ],
+   "plain_english": "Having offered Hara-Hari, along with samid and other materials."
+  }
+ ]
+}

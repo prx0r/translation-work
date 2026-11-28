@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3875,
+   "rows": [
+    {
+     "surface": "divyakṛd",
+     "gloss": "divine-maker",
+     "grounds": "compound of divya (divine, celestial) and kṛt (maker); epithet of the deity",
+     "morph": "compound: divya+kṛt, m.nom.sg"
+    },
+    {
+     "surface": "dinakṛd",
+     "gloss": "day-maker",
+     "grounds": "compound of dina (day) and kṛt (maker); epithet associated with generating the day",
+     "morph": "compound: dina+kṛt, m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "from deva (god, shining one); nominative singular with sandhi before following voiced initial",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devadevo",
+     "gloss": "god-of-gods",
+     "grounds": "compound of deva (god) and deva (god), expressing supremacy over other gods",
+     "morph": "compound: deva+deva, m.nom.sg"
+    },
+    {
+     "surface": "divaspatiḥ",
+     "gloss": "lord-of-heaven",
+     "grounds": "compound of divas/div (heaven, sky) and pati (lord, master)",
+     "morph": "compound: divas+pati, m.nom.sg"
+    }
+   ],
+   "question": "What creative powers and sovereign statuses are attributed to the deity by these epithets?",
+   "premises": [
+    "The deity is designated as maker of the divine and maker of the day.",
+    "The deity is identified both as god and as god of gods.",
+    "The deity is named lord of heaven."
+   ],
+   "inference": "Together these epithets portray the deity as a supreme cosmic creator and sovereign ruler.",
+   "uncertainties": [
+    "The precise nuance of divyakṛd may range from maker of the divine to producer of celestial phenomena."
+   ],
+   "plain_english": "He is the maker of the divine, the maker of the day, the god, the god of gods, and the lord of heaven."
+  }
+ ]
+}

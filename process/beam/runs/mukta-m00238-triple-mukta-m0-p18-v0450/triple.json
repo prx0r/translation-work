@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "gṛhītacāmarā",
+     "gloss": "having-taken-cāmara",
+     "grounds": "past participle gṛhīta joined with cāmarā in one fused token",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "divyāśaktayovimalādayaḥ",
+     "gloss": "divine-powers-vimalā-and-others",
+     "grounds": "sandhi fusion of divyāśaktayaḥ and vimalādayaḥ naming divine powers such as Vimalā",
+     "morph": "fem.nom.pl"
+    }
+   ],
+   "question": "Which divine powers are described as holding cāmaras here?",
+   "premises": [
+    "Divine powers are named vimalā and others.",
+    "They are described as having taken cāmaras.",
+    "The verse lists divine powers with cāmaras."
+   ],
+   "inference": "The verse identifies divine powers such as Vimalā as cāmara-bearers.",
+   "uncertainties": [
+    "Exact syntactic relation between the two tokens is unclear.",
+    "Source attribution and quotation boundary are unknown."
+   ],
+   "plain_english": "The divine powers, Vimalā and others, are described as having taken cāmaras."
+  }
+ ]
+}

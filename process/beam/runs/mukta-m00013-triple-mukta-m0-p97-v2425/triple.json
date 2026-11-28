@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "sarva+vidyā",
+     "gloss": "all-knowledge",
+     "grounds": "Compound epithet attributing complete knowledge or mastery of all sciences to the goddess.",
+     "morph": "compound (sarva+vidyā), f.nom.sg"
+    },
+    {
+     "surface": "dakṣa+kanyā",
+     "gloss": "Dakṣa-daughter",
+     "grounds": "Compound epithet identifying the goddess as the daughter of Dakṣa, an epithet of Satī.",
+     "morph": "compound (dakṣa+kanyā), f.nom.sg"
+    },
+    {
+     "surface": "dakṣa+yajña+vināśinī",
+     "gloss": "Dakṣa-sacrifice-destroyer",
+     "grounds": "Compound epithet identifying the goddess as the destroyer of Dakṣa's sacrifice.",
+     "morph": "compound (dakṣa+yajña+vināśinī), f.nom.sg"
+    }
+   ],
+   "question": "Which epithets identify the goddess as omniscient, Dakṣa's daughter, and destroyer of Dakṣa's sacrifice?",
+   "premises": [
+    "The epithet sarva+vidyā attributes all-encompassing knowledge to the goddess.",
+    "The epithet dakṣa+kanyā identifies the goddess as the daughter of Dakṣa.",
+    "The epithet dakṣa+yajña+vināśinī identifies the goddess as the destroyer of Dakṣa's sacrifice."
+   ],
+   "inference": "The goddess is characterized by omniscience, descent from Dakṣa, and the power to destroy Dakṣa's sacrifice.",
+   "uncertainties": [],
+   "plain_english": "She is all-knowing, the daughter of Dakṣa, and the destroyer of Dakṣa's sacrifice."
+  }
+ ]
+}

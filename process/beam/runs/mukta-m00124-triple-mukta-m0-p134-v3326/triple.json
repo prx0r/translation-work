@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3326,
+   "rows": [
+    {
+     "surface": "dvyaṅgulena",
+     "gloss": "by-two-fingers",
+     "grounds": "instrumental measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṣayo",
+     "gloss": "destruction",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhūmāveva",
+     "gloss": "ground-only",
+     "grounds": "locative with eva",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgulā",
+     "gloss": "six-fingers",
+     "grounds": "measure",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many finger-widths mark destruction on the ground and ground-only measure?",
+   "premises": [
+    "dvyaṅgulena gives two-finger measure",
+    "ṣaḍaṅgulā gives six-finger measure"
+   ],
+   "inference": "The verse fixes ground destruction and ground-only dimensions by finger counts.",
+   "uncertainties": [
+    "exact architectural referent unclear"
+   ],
+   "plain_english": "Destruction is by two fingers on the ground, and the ground-only measure is six fingers."
+  },
+  {
+   "verse": 3327,
+   "rows": [
+    {
+     "surface": "dvyantarāṇāṃ",
+     "gloss": "of-two-intervals",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dvābhyāṃ+vā+tribhiraṅgulaiḥ",
+     "gloss": "by-two-or-three-fingers",
+     "grounds": "fused instrumental measure",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By how many fingers are all two-interval measures to be taken?",
+   "premises": [
+    "dvyantarāṇāṃ means of two intervals",
+    "dvābhyāṃ+vā+tribhiraṅgulaiḥ means by two or three fingers"
+   ],
+   "inference": "All two-interval measures use two or three finger-widths.",
+   "uncertainties": [
+    "interval type unspecified"
+   ],
+   "plain_english": "For all two-interval measures, use two or three fingers."
+  },
+  {
+   "verse": 3328,
+   "rows": [
+    {
+     "surface": "ārtādhiṣṭhānatuṅgena",
+     "gloss": "by-art-support-height",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dviguṇaḥ",
+     "gloss": "double",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādatuṅgakaḥ",
+     "gloss": "foot-height",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What relation holds between art-support height and foot height?",
+   "premises": [
+    "ārtādhiṣṭhānatuṅgena is by art-support height",
+    "dviguṇaḥ means double"
+   ],
+   "inference": "Foot height is double the art-support height.",
+   "uncertainties": [
+    "art-support referent unclear"
+   ],
+   "plain_english": "Foot height is double the height of the art support."
+  },
+  {
+   "verse": 3329,
+   "rows": [
+    {
+     "surface": "ārtotsedhāṃśamānaṃ",
+     "gloss": "art-projection-measure",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭsaptāṣṭanavāṃśakam",
+     "gloss": "six-seven-eight-nine-parts",
+     "grounds": "compound measure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What parts are assigned to the art-projection measure?",
+   "premises": [
+    "ārtotsedhāṃśamānaṃ is art-projection measure",
+    "ṣaṭsaptāṣṭanavāṃśakam lists six to nine parts"
+   ],
+   "inference": "The art-projection measure is six, seven, eight, or nine parts.",
+   "uncertainties": [
+    "selection rule among parts unclear"
+   ],
+   "plain_english": "The art-projection measure is six, seven, eight, or nine parts."
+  },
+  {
+   "verse": 3330,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhatuṅge",
+     "gloss": "pillar-height",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasunandadaśāṃśake",
+     "gloss": "vasunanda-ten-parts",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What alternative measure applies at pillar height?",
+   "premises": [
+    "athavā introduces alternative",
+    "vasunandadaśāṃśake gives ten parts"
+   ],
+   "inference": "At pillar height, an alternative ten-part measure applies.",
+   "uncertainties": [
+    "vasunanda referent unclear"
+   ],
+   "plain_english": "Or, at pillar height, use the ten-part vasunanda measure."
+  },
+  {
+   "verse": 3331,
+   "rows": [
+    {
+     "surface": "tadvyāsārdhaṃ",
+     "gloss": "that-half-diameter",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādena",
+     "gloss": "by-foot",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tridvyaṃśaṃ",
+     "gloss": "three-two-parts-or",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "let-be-appointed",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kalp"
+    }
+   ],
+   "question": "How should half the diameter be appointed by foot measure?",
+   "premises": [
+    "tadvyāsārdhaṃ is half that diameter",
+    "tridvyaṃśaṃ gives three-two parts"
+   ],
+   "inference": "Half the diameter is appointed by foot as three or two parts.",
+   "uncertainties": [
+    "exact part relation unclear"
+   ],
+   "plain_english": "Let half the diameter be appointed by foot as three or two parts."
+  },
+  {
+   "verse": 3332,
+   "rows": [
+    {
+     "surface": "śilāstambhaviśālaṃ",
+     "gloss": "stone-pillar-wide",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "yatheṣṭaṃ",
+     "gloss": "as-desired",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "let-be-appointed",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kalp"
+    }
+   ],
+   "question": "How wide may a stone pillar be?",
+   "premises": [
+    "śilāstambhaviśālaṃ is stone-pillar width",
+    "yatheṣṭaṃ means as desired"
+   ],
+   "inference": "Stone-pillar width may be as desired or appointed.",
+   "uncertainties": [
+    "no fixed measure given"
+   ],
+   "plain_english": "A stone pillar may be as wide as desired, or appointed accordingly."
+  },
+  {
+   "verse": 3333,
+   "rows": [
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs + root kṛ"
+    },
+    {
+     "surface": "ekabhāgena",
+     "gloss": "one-part",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvordhvaṃ",
+     "gloss": "upward-upward",
+     "grounds": "adverbial reduplication",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhatuṅgatā",
+     "gloss": "pillar-height",
+     "grounds": "nominative compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is pillar height determined upward by parts?",
+   "premises": [
+    "bhāgaṃ kṛtvā means having made a part",
+    "ekabhāgena means by one part"
+   ],
+   "inference": "Pillar height rises upward by one part at a time.",
+   "uncertainties": [
+    "base part size unspecified"
+   ],
+   "plain_english": "Having made a part, pillar height rises upward by one part."
+  },
+  {
+   "verse": 3334,
+   "rows": [
+    {
+     "surface": "dvitrivedacaturdaṇḍaḥ",
+     "gloss": "two-three-four-sticks",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuḍyavistāra",
+     "gloss": "wall-width",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root iṣ"
+    }
+   ],
+   "question": "What wall widths are desired?",
+   "premises": [
+    "dvitrivedacaturdaṇḍaḥ lists two to four sticks",
+    "kuḍyavistāra is wall width"
+   ],
+   "inference": "Desired wall width is two, three, or four sticks.",
+   "uncertainties": [
+    "stick length unspecified"
+   ],
+   "plain_english": "Wall width is desired as two, three, or four sticks."
+  },
+  {
+   "verse": 3335,
+   "rows": [
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vac"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatprakīrtitam",
+     "gloss": "that-proclaimed",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What shapes are proclaimed for that form?",
+   "premises": [
+    "caturaśraṃ means square",
+    "vṛttaṃ means round"
+   ],
+   "inference": "That form is proclaimed as square or round.",
+   "uncertainties": [
+    "context of that form unclear"
+   ],
+   "plain_english": "That form is proclaimed as square or round."
+  },
+  {
+   "verse": 3336,
+   "rows": [
+    {
+     "surface": "brahmakāntaṃ",
+     "gloss": "brahma-desired",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "know",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root jñā"
+    },
+    {
+     "surface": "vyāsatriguṇamānataḥ",
+     "gloss": "by-diameter-threefold-measure",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the brahma-desired form known?",
+   "premises": [
+    "brahmakāntaṃ is brahma-desired",
+    "vyāsatriguṇamānataḥ is by threefold diameter measure"
+   ],
+   "inference": "The brahma-desired form is known by a threefold diameter measure.",
+   "uncertainties": [
+    "exact diameter relation unclear"
+   ],
+   "plain_english": "Know the brahma-desired form by a threefold diameter measure."
+  },
+  {
+   "verse": 3337,
+   "rows": [
+    {
+     "surface": "sarvatrāṣṭāśrasaṃyuktaṃ",
+     "gloss": "everywhere-eight-angled-joined",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kumbhamaṇḍyādisaṃyutam",
+     "gloss": "pot-ornament-etc-joined",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What angular and ornamental features accompany the form everywhere?",
+   "premises": [
+    "sarvatrāṣṭāśrasaṃyuktaṃ means everywhere joined with eight angles",
+    "kumbhamaṇḍyādisaṃyutam means joined with pot ornament etc."
+   ],
+   "inference": "The form is everywhere joined with eight angles and pot-ornament features.",
+   "uncertainties": [
+    "etc. list unspecified"
+   ],
+   "plain_english": "Everywhere it is joined with eight angles and pot-ornament features."
+  },
+  {
+   "verse": 3338,
+   "rows": [
+    {
+     "surface": "bhānukāntaṃ",
+     "gloss": "sun-desired",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadagraṃ",
+     "gloss": "that-top",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "kalāśraṃ",
+     "gloss": "kalā-angled",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candrakāntakam",
+     "gloss": "moon-desired",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What forms are assigned to sun-desired top and moon-desired form?",
+   "premises": [
+    "bhānukāntaṃ is sun-desired",
+    "candrakāntakam is moon-desired"
+   ],
+   "inference": "The sun-desired top is kalā-angled, and the moon-desired form is named separately.",
+   "uncertainties": [
+    "kalāśraṃ exact angle count unclear"
+   ],
+   "plain_english": "The sun-desired top is kalā-angled; the moon-desired form is also named."
+  },
+  {
+   "verse": 3339,
+   "rows": [
+    {
+     "surface": "pūrvoktākṛtisaṃyuktāḥ",
+     "gloss": "previously-described-form-joined",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūrvāśrā",
+     "gloss": "previous-angled",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nanu",
+     "gloss": "nanu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "nominative plural participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which previously described forms are proclaimed as previous-angled?",
+   "premises": [
+    "pūrvoktākṛtisaṃyuktāḥ means joined with previously described forms",
+    "pūrvāśrā means previous-angled"
+   ],
+   "inference": "Previously described forms joined with previous-angled features are proclaimed.",
+   "uncertainties": [
+    "exact angle count unclear"
+   ],
+   "plain_english": "Forms joined with previously described shapes are proclaimed as previous-angled."
+  },
+  {
+   "verse": 3340,
+   "rows": [
+    {
+     "surface": "samatribhāgamānena",
+     "gloss": "equal-three-part-measure",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "caturaṣṭāśravṛttakam",
+     "gloss": "square-eight-angled-round",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measure produces the square-eight-angled-round form?",
+   "premises": [
+    "samatribhāgamānena is equal three-part measure",
+    "caturaṣṭāśravṛttakam is square-eight-angled-round"
+   ],
+   "inference": "An equal three-part measure produces the square-eight-angled-round form.",
+   "uncertainties": [
+    "measure application unclear"
+   ],
+   "plain_english": "By an equal three-part measure, the square-eight-angled-round form arises."
+  },
+  {
+   "verse": 3341,
+   "rows": [
+    {
+     "surface": "śuklabhedasamāyukta",
+     "gloss": "white-division-joined",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśakāntaḥ",
+     "gloss": "īśa-desired",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What feature is joined to the īśa-desired form?",
+   "premises": [
+    "śuklabhedasamāyukta means joined with white division",
+    "īśakāntaḥ is īśa-desired"
+   ],
+   "inference": "The īśa-desired form is proclaimed as joined with white division.",
+   "uncertainties": [
+    "white division meaning unclear"
+   ],
+   "plain_english": "The īśa-desired form is proclaimed as joined with white division."
+  },
+  {
+   "verse": 3342,
+   "rows": [
+    {
+     "surface": "caturaśraḥ",
+     "gloss": "square",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "that-above",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśāśrādisaṃyutaḥ",
+     "gloss": "sixteen-angled-etc-joined",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is above the square form?",
+   "premises": [
+    "caturaśraḥ is square",
+    "ṣoḍaśāśrādisaṃyutaḥ is sixteen-angled etc. joined"
+   ],
+   "inference": "Above the square form is a sixteen-angled and related form.",
+   "uncertainties": [
+    "etc. list unspecified"
+   ],
+   "plain_english": "Above the square form is a sixteen-angled and related form."
+  },
+  {
+   "verse": 3343,
+   "rows": [
+    {
+     "surface": "vistṛtaṃ",
+     "gloss": "spread",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvoccaṃ",
+     "gloss": "that-above-high",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-base",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "padmāsanaṃ",
+     "gloss": "lotus-seat",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "bhavet",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What becomes the lotus seat at the base of the high upper form?",
+   "premises": [
+    "tadūrdhvoccaṃ is that above high",
+    "mūle means at base",
+    "padmāsanaṃ means lotus seat"
+   ],
+   "inference": "At the base of the high upper form, a lotus seat becomes present.",
+   "uncertainties": [
+    "spread relation unclear"
+   ],
+   "plain_english": "At the base of the high upper form, a lotus seat is present."
+  },
+  {
+   "verse": 3344,
+   "rows": [
+    {
+     "surface": "dvitridaṇḍaviśālocco",
+     "gloss": "two-three-sticks-wide-high",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lūkhalo",
+     "gloss": "mortar",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "at-base",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is the mortar two or three sticks wide and high?",
+   "premises": [
+    "dvitridaṇḍaviśālocco means two or three sticks wide and high",
+    "mūlataḥ means at base"
+   ],
+   "inference": "The mortar is two or three sticks wide and high from the base.",
+   "uncertainties": [
+    "condition yadi leaves alternative unclear"
+   ],
+   "plain_english": "If from the base, the mortar is two or three sticks wide and high."
+  },
+  {
+   "verse": 3345,
+   "rows": [
+    {
+     "surface": "udayaṃ",
+     "gloss": "rising",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhāgaḥ",
+     "gloss": "quarter",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siṃhavyālebhabhūtakaiḥ",
+     "gloss": "lion-tiger-elephant-beings",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What quarter rising is associated with lion, tiger, elephant, and beings?",
+   "premises": [
+    "udayaṃ means rising",
+    "caturbhāgaḥ means quarter",
+    "siṃhavyālebhabhūtakaiḥ lists beings"
+   ],
+   "inference": "The rising quarter is associated with lion, tiger, elephant, and beings.",
+   "uncertainties": [
+    "exact association unclear"
+   ],
+   "plain_english": "The rising is a quarter, associated with lion, tiger, elephant, and beings."
+  },
+  {
+   "verse": 3346,
+   "rows": [
+    {
+     "surface": "upariṣṭācca",
+     "gloss": "above",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannāmnā",
+     "gloss": "that-named",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pādāśca",
+     "gloss": "feet",
+     "grounds": "nominative plural with ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bahavo",
+     "gloss": "many",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "nominative plural participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is considered above and named by that name?",
+   "premises": [
+    "upariṣṭācca means above",
+    "pādāśca means feet",
+    "bahavo means many"
+   ],
+   "inference": "Many feet are considered above, named by that name.",
+   "uncertainties": [
+    "that name unspecified"
+   ],
+   "plain_english": "Above, many feet are considered, named by that name."
+  },
+  {
+   "verse": 3347,
+   "rows": [
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "three-parts-one",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttānāṃ",
+     "gloss": "of-rounds",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vedāśrāṇāṃ",
+     "gloss": "veda-angled",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādataḥ",
+     "gloss": "from-foot",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What one part of three applies to rounds and veda-angled forms from the foot?",
+   "premises": [
+    "tribhāgaikaṃ means one of three parts",
+    "vṛttānāṃ means of rounds",
+    "vedāśrāṇāṃ means veda-angled"
+   ],
+   "inference": "From the foot, one of three parts applies to rounds and veda-angled forms.",
+   "uncertainties": [
+    "exact part relation unclear"
+   ],
+   "plain_english": "From the foot, one of three parts applies to rounds and veda-angled forms."
+  },
+  {
+   "verse": 3348,
+   "rows": [
+    {
+     "surface": "pādonadviguṇaścaiva",
+     "gloss": "foot-not-double",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviguṇaḥ",
+     "gloss": "double",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unnatikramāt",
+     "gloss": "height-progression",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does foot measure change with height progression?",
+   "premises": [
+    "pādonadviguṇaścaiva means foot not double",
+    "dviguṇaḥ means double",
+    "unnatikramāt means by height progression"
+   ],
+   "inference": "Foot measure is not double, but becomes double by height progression.",
+   "uncertainties": [
+    "exact progression unclear"
+   ],
+   "plain_english": "The foot is not double, but becomes double by height progression."
+  },
+  {
+   "verse": 3349,
+   "rows": [
+    {
+     "surface": "bhānukānta",
+     "gloss": "sun-desired",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "proktaḥ",
+     "grounds": "nominative participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taducce",
+     "gloss": "that-high",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navāṃśake",
+     "gloss": "nine-parts",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is proclaimed for the sun-desired form at high nine parts?",
+   "premises": [
+    "bhānukānta is sun-desired",
+    "navāṃśake is nine parts",
+    "taducce is that high"
+   ],
+   "inference": "The sun-desired form is proclaimed at the high nine-part measure.",
+   "uncertainties": [
+    "exact high measure unclear"
+   ],
+   "plain_english": "The sun-desired form is proclaimed at the high nine-part measure."
+  }
+ ]
+}

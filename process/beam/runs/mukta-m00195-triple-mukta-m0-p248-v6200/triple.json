@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p248",
+ "items": [
+  {
+   "verse": 6200,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction continuing the list of placement locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "qualifies the arm as the left one",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhau",
+     "gloss": "in-arm",
+     "grounds": "locative noun denoting the site of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the placement to this location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īdṛśaṃ",
+     "gloss": "in-such-manner",
+     "grounds": "indicates the same manner of placement as previously stated",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Must the same manner of ritual placement extend to the left arm as well?",
+   "premises": [
+    "The preceding instructions specify placement at facial locations.",
+    "The verse adds the left arm as a location.",
+    "The verse marks this addition as performed in the same manner."
+   ],
+   "inference": "The same manner of placement is also to be performed on the left arm.",
+   "uncertainties": [
+    "Whether īdṛśaṃ functions adverbially or qualifies an implied object is not fully explicit."
+   ],
+   "plain_english": "And also in the left arm, in the same manner."
+  }
+ ]
+}

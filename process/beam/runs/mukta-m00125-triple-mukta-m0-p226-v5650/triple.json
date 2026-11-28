@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p226",
+ "items": [
+  {
+   "verse": 5650,
+   "rows": [
+    {
+     "surface": "kaṭi",
+     "gloss": "waist",
+     "grounds": "first member of locative expression indicating body region",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradeśādūrdhve",
+     "gloss": "from-region-above",
+     "grounds": "fused form: pradeśāt (region, ablative) + ūrdhve (above, indeclinable); sandhi fusion kept as one token",
+     "morph": "fused: m.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaviṣṇvardha+kāyayuk",
+     "gloss": "brahma-vishnu-half-body-joined",
+     "grounds": "compound: brahma-viṣṇu-ardha-kāya (half-bodies of Brahma and Vishnu) + yuk (joined/possessing); describes upper bodily composition",
+     "morph": "compound: m.nom.sg"
+    }
+   ],
+   "question": "What bodily composition characterizes the form above the waist region?",
+   "premises": [
+    "The description specifies the region above the waist.",
+    "The upper portion is joined with half-bodies.",
+    "Those half-bodies belong to Brahma and Vishnu."
+   ],
+   "inference": "Above the waist, the form is composed of the half-bodies of Brahma and Vishnu.",
+   "uncertainties": [
+    "The exact iconographic arrangement of Brahma and Vishnu in the upper half is not specified."
+   ],
+   "plain_english": "Above the waist region, however, the form is joined with the half-bodies of Brahma and Vishnu."
+  }
+ ]
+}

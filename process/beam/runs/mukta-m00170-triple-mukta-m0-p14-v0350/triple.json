@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "points to the previously indicated context or location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūham",
+     "gloss": "confusion",
+     "grounds": "state of delusion or bewilderment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "amūhaṃ",
+     "gloss": "non-confusion",
+     "grounds": "negated form indicating absence of confusion or clarity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb introducing the locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-site",
+     "grounds": "designated sacred place or locus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāhitam",
+     "gloss": "established",
+     "grounds": "past participle indicating something duly fixed or set in place",
+     "morph": "n.nom.sg (ppp, sam-ā-dhā)"
+    }
+   ],
+   "question": "What alternative mental states may arise at a location where a sacred site is established?",
+   "premises": [
+    "A sacred site can be established in a given location.",
+    "Confusion is a possible mental state in that location.",
+    "Non-confusion is an alternative possible mental state in that location."
+   ],
+   "inference": "Where a sacred site is established, either confusion or non-confusion may be present.",
+   "uncertainties": [
+    "The precise scope of tatra in relation to the preceding material conditions is not fully explicit."
+   ],
+   "plain_english": "There, where a sacred site is established, there may be either confusion or clarity."
+  }
+ ]
+}

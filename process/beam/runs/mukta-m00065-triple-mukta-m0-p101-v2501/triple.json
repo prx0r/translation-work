@@ -1,0 +1,1024 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "dityai",
+     "gloss": "to-diti",
+     "grounds": "recipient deity in offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "lopīmadityai",
+     "gloss": "to-lopima-aditi",
+     "grounds": "compound recipient name; internal sandhi in fused form",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūpā",
+     "gloss": "cake-offering",
+     "grounds": "ritual food item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kh",
+     "gloss": "syllable-kh",
+     "grounds": "mantric or diagram marker; kept as token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅ",
+     "gloss": "syllable-ṅ",
+     "grounds": "mantric or diagram marker; kept as token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūpā",
+     "gloss": "broth-offering",
+     "grounds": "ritual food item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nardhe'tha",
+     "gloss": "in-half-then",
+     "grounds": "fused form indicating division and sequence; sandhi noted",
+     "morph": "(indecl.+indecl.)"
+    },
+    {
+     "surface": "saumyataḥ",
+     "gloss": "from-north-side",
+     "grounds": "directional placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings and directional placement are assigned to Diti and Lopima-Aditi in this ritual sequence?",
+   "premises": [
+    "Diti and Lopima-Aditi are named as recipients.",
+    "Cake and broth are specified as offerings.",
+    "A half division and northern direction govern placement."
+   ],
+   "inference": "The ritual assigns specific food offerings to Diti and Lopima-Aditi with a divided placement oriented from the north.",
+   "uncertainties": [
+    "The exact referents of tokens kh and ṅ are unclear without diagrammatic context.",
+    "The precise parsing of nardhe'tha depends on ritual convention."
+   ],
+   "plain_english": "To Diti and to Lopima-Aditi one should give cake and broth, divided in half, from the northern side."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "tadadhaḥ",
+     "gloss": "below-that",
+     "grounds": "locational reference to prior position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhake",
+     "gloss": "in-cell",
+     "grounds": "grid compartment in vāstu diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dadyādāpavatsāya",
+     "gloss": "should-give-to-apavatsa",
+     "grounds": "injunctive offering to named recipient",
+     "morph": "3.sg.opt.act+root-dā; m.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "ritual offering substance",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering must be placed in the cell below for the deity Āpavatsa?",
+   "premises": [
+    "A specific cell below the previous one is indicated.",
+    "Āpavatsa is the designated recipient.",
+    "Curd is the prescribed offering."
+   ],
+   "inference": "Curd should be offered to Āpavatsa in the cell located below the previously mentioned position.",
+   "uncertainties": [],
+   "plain_english": "In the cell below that, one should indeed give curd to Āpavatsa."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "agnyadhaḥ",
+     "gloss": "below-fire-direction",
+     "grounds": "locational reference relative to southeast/fire quarter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhake",
+     "gloss": "in-cell",
+     "grounds": "grid compartment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "regularity of observance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvitryai",
+     "gloss": "to-savitri",
+     "grounds": "female recipient deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kh",
+     "gloss": "syllable-kh",
+     "grounds": "mantric or diagram marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "g",
+     "gloss": "syllable-g",
+     "grounds": "mantric or diagram marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savitre",
+     "gloss": "to-savitr",
+     "grounds": "male recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśāmbhasā",
+     "gloss": "with-kusha-water",
+     "grounds": "ritual liquid offering",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "Which recipients and offering substance are prescribed in the cell below the fire quarter?",
+   "premises": [
+    "The location is the cell below the fire quarter.",
+    "Sāvitrī and Savitṛ are the recipients.",
+    "Water with kuśa grass is the offering."
+   ],
+   "inference": "In the cell below the fire quarter, kuśa-water should always be offered to Sāvitrī and Savitṛ.",
+   "uncertainties": [
+    "The function of tokens kh and g is unclear without diagrammatic context."
+   ],
+   "plain_english": "In the cell below the fire quarter, one should always offer kuśa-water to Sāvitrī and to Savitṛ."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "vivasvate'ruṇāṃ",
+     "gloss": "to-vivasvat-redness",
+     "grounds": "fused form: recipient Vivasvat and offering aruṇā; sandhi noted",
+     "morph": "m.dat.sg+f.acc.sg"
+    },
+    {
+     "surface": "dadyāccandanaṃ",
+     "gloss": "should-give-sandalwood",
+     "grounds": "injunctive offering of sandal paste",
+     "morph": "3.sg.opt.act+root-dā; n.acc.sg"
+    },
+    {
+     "surface": "caturaṅghriṣu",
+     "gloss": "in-four-footed-cells",
+     "grounds": "cells associated with four-footed positions",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What offering is to be given to Vivasvat in the four-footed cells of the diagram?",
+   "premises": [
+    "Vivasvat is the named recipient.",
+    "Sandalwood is specified as the offering.",
+    "The placement is in the four-footed cells."
+   ],
+   "inference": "Sandalwood should be offered to Vivasvat in the four-footed cells.",
+   "uncertainties": [
+    "The element aruṇā in the fused token may indicate a red quality or a separate offering."
+   ],
+   "plain_english": "One should give sandalwood to Vivasvat in the four-footed cells."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "indrajayāya",
+     "gloss": "to-indrajaya",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tasyādho",
+     "gloss": "below-that",
+     "grounds": "locational reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtānnaṃ",
+     "gloss": "ghee-rice",
+     "grounds": "food offering mixed with clarified butter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṇakoṣṭhake",
+     "gloss": "in-corner-cell",
+     "grounds": "corner compartment of the grid",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What food offering is prescribed for Indrajaya in the corner cell below the prior location?",
+   "premises": [
+    "Indrajaya is the designated recipient.",
+    "The location is a corner cell below the previous one.",
+    "Rice mixed with ghee is the offering."
+   ],
+   "inference": "Ghee-rice should be offered to Indrajaya in the corner cell below that position.",
+   "uncertainties": [],
+   "plain_english": "Below that, in the corner cell, one should offer ghee-rice to Indrajaya."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "vāṭvadhaḥ",
+     "gloss": "below-vata",
+     "grounds": "locational reference relative to Vāta position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇadeśe",
+     "gloss": "in-corner-place",
+     "grounds": "corner region of the diagram",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrāya",
+     "gloss": "to-rudra",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pakṣimāṃsakam",
+     "gloss": "bird-meat",
+     "grounds": "ritual meat offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering is assigned to Rudra in the corner region below the Vāta position?",
+   "premises": [
+    "The location is the corner region below Vāta.",
+    "Rudra is the recipient.",
+    "Bird meat is the prescribed offering."
+   ],
+   "inference": "Bird meat should be offered to Rudra in the corner region below the Vāta position.",
+   "uncertainties": [],
+   "plain_english": "But in the corner region below Vāta, one should offer bird meat to Rudra."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "mahīdharāyamāṣānnaṃ",
+     "gloss": "to-mahidhara-bean-rice",
+     "grounds": "compound: recipient Mahīdhara and offering of bean-rice",
+     "morph": "m.dat.sg+n.acc.sg"
+    },
+    {
+     "surface": "samāṃsaṃ",
+     "gloss": "with-meat",
+     "grounds": "offering accompanied by meat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturaṅghriṣu",
+     "gloss": "in-four-footed-cells",
+     "grounds": "cells associated with four-footed positions",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What combined food offering is prescribed for Mahīdhara in the four-footed cells?",
+   "premises": [
+    "Mahīdhara is the recipient.",
+    "Bean-rice together with meat is specified.",
+    "The placement is in the four-footed cells."
+   ],
+   "inference": "Bean-rice with meat should be offered to Mahīdhara in the four-footed cells.",
+   "uncertainties": [],
+   "plain_english": "In the four-footed cells, one should offer bean-rice with meat to Mahīdhara."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "etānvastrādibhiśceṣṭvā",
+     "gloss": "having-worshipped-these-with-cloth-etc",
+     "grounds": "gerund: completion of worship with garments and other items",
+     "morph": "gerund+root-yaj; m.acc.pl+n.ins.pl"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣo'ṣṭakaṃ",
+     "gloss": "group-of-eight-protectors",
+     "grounds": "fused form: rakṣas group of eight; sandhi noted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "procedural sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must follow after worshipping the previously named deities with cloth and other items?",
+   "premises": [
+    "The prior deities have been worshipped with cloth and other offerings.",
+    "A group of eight protectors is to be addressed next.",
+    "The action must proceed in order."
+   ],
+   "inference": "After worshipping those deities with cloth and other items, one should worship the group of eight protectors in sequence.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped these deities with cloth and other offerings, one should then worship the group of eight protectors in due order."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "pūtanāṃ",
+     "gloss": "to-putana",
+     "grounds": "recipient protective or fierce being",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "palapittābhyāṃ",
+     "gloss": "with-flesh-and-bile",
+     "grounds": "paired offering substances",
+     "morph": "n.ins.dual"
+    },
+    {
+     "surface": "māṃsāsṛgbhyāṃ",
+     "gloss": "with-meat-and-blood",
+     "grounds": "paired offering substances",
+     "morph": "n.ins.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jambhakam",
+     "gloss": "to-jambhaka",
+     "grounds": "recipient being",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which offerings are prescribed for Pūtanā and Jambhaka among the protective beings?",
+   "premises": [
+    "Pūtanā and Jambhaka are named recipients.",
+    "Flesh and bile are specified as offerings.",
+    "Meat and blood are also specified."
+   ],
+   "inference": "Pūtanā and Jambhaka should be offered flesh with bile and meat with blood.",
+   "uncertainties": [
+    "The exact distribution of the paired offerings between the two recipients is not explicit."
+   ],
+   "plain_english": "One should offer flesh and bile, and meat and blood, to Pūtanā and to Jambhaka."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "rakṣomātṛgaṇeśebhyaḥ",
+     "gloss": "to-protector-mother-group-lords",
+     "grounds": "compound recipients: protectors, mothers, and group lords",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "piśācādi",
+     "gloss": "pishacha-and-others",
+     "grounds": "class of beings beginning with piśācas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional classes of beings are included as recipients alongside protectors, mothers, and group lords?",
+   "premises": [
+    "Protectors, mothers, and group lords are recipients.",
+    "Piśācas and similar beings are included.",
+    "The inclusion is emphatic."
+   ],
+   "inference": "Offerings are also directed to piśācas and other such beings together with the protectors, mothers, and group lords.",
+   "uncertainties": [
+    "The specific offerings for this group are implied from context rather than stated."
+   ],
+   "plain_english": "Offerings are likewise made to the protectors, the mothers, the lords of groups, and indeed to piśācas and others."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "asantarpyāpyaniṣṭvaitān",
+     "gloss": "without-satisfying-or-worshipping-these",
+     "grounds": "fused gerundive sequence: not satisfying and not worshipping these; sandhi noted",
+     "morph": "gerund+gerund+m.acc.pl"
+    },
+    {
+     "surface": "prāsādādīnnakārayet",
+     "gloss": "should-not-cause-temple-etc",
+     "grounds": "prohibitive injunction regarding construction; sandhi noted",
+     "morph": "3.sg.opt.caus.act+root-kṛ; m.acc.pl"
+    }
+   ],
+   "question": "What construction activities are prohibited if these beings are not satisfied and worshipped?",
+   "premises": [
+    "Satisfying and worshipping these beings is required.",
+    "Failure to do so is stated as a condition.",
+    "Building a temple and similar works is the prohibited action."
+   ],
+   "inference": "One must not undertake the construction of a temple or similar structures without first satisfying and worshipping these beings.",
+   "uncertainties": [],
+   "plain_english": "Without satisfying and worshipping these beings, one should not have a temple or similar structures built."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "purotpanno",
+     "gloss": "arisen-in-east",
+     "grounds": "origin or emergence in the eastern quarter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāvīryaḥ",
+     "gloss": "of-great-power",
+     "grounds": "possessing great strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhūtabhayāvahaḥ",
+     "gloss": "bringing-fear-to-all-beings",
+     "grounds": "compound describing fearsome nature",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize the being who arises in the east according to this description?",
+   "premises": [
+    "The being arises in the east.",
+    "The being possesses great power.",
+    "The being inspires fear in all beings."
+   ],
+   "inference": "The being arisen in the east is described as greatly powerful and fearsome to all beings.",
+   "uncertainties": [
+    "The identity of this being is implied as the Vāstunara but not named in this verse."
+   ],
+   "plain_english": "Arisen in the east, he is of great power and brings fear to all beings."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "yāvadūrvīsthirā",
+     "gloss": "as-long-as-durva-stable",
+     "grounds": "durative condition using durva grass as marker",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "general worldly domain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāvadvāstunaraḥ",
+     "gloss": "so-long-vastu-man",
+     "grounds": "correlative duration of the Vāstunara's presence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "remains",
+     "grounds": "state of abiding",
+     "morph": "m.nom.sg.past-part+root-sthā"
+    }
+   ],
+   "question": "How long does the Vāstunara remain present in the world according to this teaching?",
+   "premises": [
+    "The duration is compared to the stability of durva grass in the world.",
+    "The Vāstunara is the subject whose presence is measured.",
+    "The Vāstunara is said to remain for that duration."
+   ],
+   "inference": "The Vāstunara remains in the world as long as durva grass remains stable.",
+   "uncertainties": [],
+   "plain_english": "As long as durva grass remains stable in the world, so long does the Vāstunara remain."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "universal scope",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vāstukāryeṣu",
+     "gloss": "in-vastu-works",
+     "grounds": "ritual or construction activities related to vāstu",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pūjayedvāstunāyakam",
+     "gloss": "should-worship-vastu-lord",
+     "grounds": "injunctive worship of the Vāstunāyaka; sandhi noted",
+     "morph": "3.sg.opt.act+root-pūj; m.acc.sg"
+    }
+   ],
+   "question": "In which activities must the lord of the site be worshipped according to this injunction?",
+   "premises": [
+    "All vāstu-related works are included.",
+    "The Vāstunāyaka is the object of worship.",
+    "Worship is prescribed as obligatory."
+   ],
+   "inference": "The lord of the site must be worshipped in all vāstu-related activities.",
+   "uncertainties": [],
+   "plain_english": "In all vāstu works, one should worship the lord of the site."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "vistāro'sya",
+     "gloss": "extent-of-him",
+     "grounds": "fused form indicating his expanse; sandhi noted",
+     "morph": "m.nom.sg+m.gen.sg"
+    },
+    {
+     "surface": "samantācca",
+     "gloss": "on-all-sides-and",
+     "grounds": "all-around extent",
+     "morph": "(indecl.+indecl.)"
+    },
+    {
+     "surface": "śatakoṭistu",
+     "gloss": "hundred-crores-but",
+     "grounds": "vast numerical measure",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "yojanaiḥ",
+     "gloss": "by-yojanas",
+     "grounds": "unit of distance",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What vast extent is attributed to the Vāstunara in all directions?",
+   "premises": [
+    "The Vāstunara's extent is described.",
+    "The measure is given in yojanas.",
+    "The extent is a hundred crores on all sides."
+   ],
+   "inference": "The Vāstunara is said to extend a hundred crores of yojanas on all sides.",
+   "uncertainties": [
+    "The figure is likely symbolic of vastness rather than literal measurement."
+   ],
+   "plain_english": "His extent on all sides is a hundred crores of yojanas."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "īśakoṇe",
+     "gloss": "in-lord-corner",
+     "grounds": "northeast corner of the site",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śirastasya",
+     "gloss": "head-of-him",
+     "grounds": "body part placement of Vāstunara",
+     "morph": "n.nom.sg+m.gen.sg"
+    },
+    {
+     "surface": "aṃśo",
+     "gloss": "shoulder",
+     "grounds": "body part placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bāhuśca",
+     "gloss": "and-arm",
+     "grounds": "body part placement",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "toward-east",
+     "grounds": "directional placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the head, shoulder, and arm of the Vāstunara located within the site?",
+   "premises": [
+    "The head is located in the northeast corner.",
+    "The shoulder and arm are placed toward the east.",
+    "These placements map the Vāstunara onto the site."
+   ],
+   "inference": "The Vāstunara's head lies in the northeast corner, while his shoulder and arm extend toward the east.",
+   "uncertainties": [],
+   "plain_english": "His head is in the northeast corner, and his shoulder and arm are toward the east."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "upabāhūruhastaśca",
+     "gloss": "forearm-thigh-hand-and",
+     "grounds": "compound listing body parts",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "pārśvaścaivāgnideśataḥ",
+     "gloss": "and-side-indeed-from-fire-direction",
+     "grounds": "side placed toward southeast; sandhi noted",
+     "morph": "n.nom.sg+(indecl.+indecl.)"
+    }
+   ],
+   "question": "Which body parts of the Vāstunara are situated toward the fire quarter of the site?",
+   "premises": [
+    "Forearm, thigh, and hand are named.",
+    "The side is also named.",
+    "These are located toward the fire quarter."
+   ],
+   "inference": "The Vāstunara's forearm, thigh, hand, and side are situated toward the fire quarter.",
+   "uncertainties": [
+    "The exact parsing of the compound upabāhūruhastaśca may vary by tradition."
+   ],
+   "plain_english": "His forearm, thigh, and hand, and also his side, are toward the fire quarter."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "caturasrasthistvevaṃ",
+     "gloss": "square-situated-thus-indeed",
+     "grounds": "fused form describing position in a square layout; sandhi noted",
+     "morph": "m.nom.sg+(indecl.+indecl.)"
+    },
+    {
+     "surface": "vāstunātho",
+     "gloss": "lord-of-site",
+     "grounds": "the Vāstunātha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahītale",
+     "gloss": "on-earth-surface",
+     "grounds": "ground plane of the site",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the lord of the site positioned on the earth within a square layout?",
+   "premises": [
+    "The Vāstunātha is the subject.",
+    "The layout is square.",
+    "The position is on the surface of the earth."
+   ],
+   "inference": "The lord of the site is thus situated in a square form upon the earth.",
+   "uncertainties": [],
+   "plain_english": "Thus the lord of the site lies in a square position upon the earth."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "kuḍyādirohaṇe",
+     "gloss": "in-wall-etc-mounting",
+     "grounds": "act of climbing or building upon walls and similar structures",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "temporal occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūrdhādīni",
+     "gloss": "head-and-others",
+     "grounds": "body parts beginning with the head",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīḍayet",
+     "gloss": "should-press",
+     "grounds": "prohibitive injunction against causing pressure",
+     "morph": "3.sg.opt.caus.act+root-pīḍ"
+    }
+   ],
+   "question": "Which parts of the Vāstunara must not be pressed during wall construction and similar activities?",
+   "premises": [
+    "The time of mounting walls and similar structures is specified.",
+    "The head and other body parts of the Vāstunara are mapped on the site.",
+    "Pressing these parts is prohibited."
+   ],
+   "inference": "During wall construction and similar activities, one must not press upon the head and other parts of the Vāstunara.",
+   "uncertainties": [],
+   "plain_english": "At the time of raising walls and the like, one should not press upon his head and other parts."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "jalādindro",
+     "gloss": "from-water-indra",
+     "grounds": "fused directional sequence starting from water to Indra; sandhi noted",
+     "morph": "m.abl.sg+m.nom.sg"
+    },
+    {
+     "surface": "gaṇā",
+     "gloss": "groups",
+     "grounds": "collective beings or divisions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kh",
+     "gloss": "syllable-kh",
+     "grounds": "mantric or diagram marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "g",
+     "gloss": "syllable-g",
+     "grounds": "mantric or diagram marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galā",
+     "gloss": "throat",
+     "grounds": "body part or channel term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darkaḥ",
+     "gloss": "arka",
+     "grounds": "name or solar reference; reading uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sugrīvātsatyago",
+     "gloss": "from-sugriva-satyaka",
+     "grounds": "fused sequence of names; sandhi noted",
+     "morph": "m.abl.sg+m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "regarded",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg.past-part+root-man"
+    }
+   ],
+   "question": "Which sequence of deities or divisions is mapped from the water quarter onward in this arrangement?",
+   "premises": [
+    "A sequence begins from the water quarter and includes Indra.",
+    "Further names such as Sugrīva and Satyaka are included.",
+    "The arrangement is presented as traditionally held."
+   ],
+   "inference": "The text maps a sequence of deities or divisions from the water quarter onward, including Indra, Sugrīva, and Satyaka.",
+   "uncertainties": [
+    "Tokens kh, g, galā, and darkaḥ are obscure without diagrammatic or textual context.",
+    "The exact segmentation of the sequence is uncertain."
+   ],
+   "plain_english": "From the water quarter onward come Indra and others in sequence, including Sugrīva and Satyaka, as traditionally understood."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "etadvaṃśa",
+     "gloss": "this-line",
+     "grounds": "main line or axis in diagram",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mū",
+     "gloss": "root-syllable-mu",
+     "grounds": "fragmentary syllable; kept as token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "a",
+     "gloss": "syllable-a",
+     "grounds": "fragmentary syllable; kept as token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ttvaṃśa",
+     "gloss": "that-line-part",
+     "grounds": "fragmentary form related to line division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "situated along",
+     "morph": "f.nom.sg.past-part+root-gam"
+    },
+    {
+     "surface": "nāḍya",
+     "gloss": "channels",
+     "grounds": "lines or channels in the diagram",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "upavaṃśagatāsvimāḥ",
+     "gloss": "situated-on-sub-lines-these",
+     "grounds": "fused form: these channels situated on subsidiary lines; sandhi noted",
+     "morph": "f.loc.pl+f.nom.pl"
+    }
+   ],
+   "question": "How are the channels distributed between the main line and the subsidiary lines in this diagram?",
+   "premises": [
+    "A main line is referenced.",
+    "Channels are described as situated along lines.",
+    "Some channels are located on subsidiary lines."
+   ],
+   "inference": "Certain channels run along the main line while these others are situated on the subsidiary lines.",
+   "uncertainties": [
+    "Tokens mū and a are fragmentary and their exact technical meaning is unclear.",
+    "The compound etadvaṃśa mū a ttvaṃśa is difficult to parse without context."
+   ],
+   "plain_english": "Some channels run along this main line, while these are situated on the subsidiary lines."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "bhallāṭādbhāskaraṃ",
+     "gloss": "from-forehead-to-bhaskara",
+     "grounds": "fused directional span from forehead to Bhāskara; sandhi noted",
+     "morph": "n.abl.sg+m.acc.sg"
+    },
+    {
+     "surface": "yāvanmahendrādyamadevatā",
+     "gloss": "as-far-as-mahendra-first-deity",
+     "grounds": "extent up to the deity beginning with Mahendra; sandhi noted",
+     "morph": "(indecl.)+f.nom.sg"
+    }
+   ],
+   "question": "What span of deities is mapped from the forehead region up to Mahendra and others?",
+   "premises": [
+    "The starting point is the forehead region.",
+    "The span extends to Bhāskara.",
+    "The span reaches up to the deity beginning with Mahendra."
+   ],
+   "inference": "The mapped span runs from the forehead to Bhāskara and extends as far as the deity beginning with Mahendra.",
+   "uncertainties": [
+    "The exact sequence of intermediate deities is not fully specified in this verse."
+   ],
+   "plain_english": "From the forehead to Bhāskara, the span extends as far as the deity beginning with Mahendra."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location on the head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ceśāditī",
+     "gloss": "and-isha-and-aditi",
+     "grounds": "fused form naming Īśa and Aditi; sandhi noted",
+     "morph": "(indecl.)+m.nom.sg+f.nom.sg"
+    },
+    {
+     "surface": "nityamāpodityau",
+     "gloss": "always-apa-and-aditi",
+     "grounds": "fused form naming Āpa and Aditi as constant; sandhi noted",
+     "morph": "(indecl.)+m.nom.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrayoḥ",
+     "gloss": "in-two-eyes",
+     "grounds": "location in the eyes",
+     "morph": "n.loc.dual"
+    }
+   ],
+   "question": "Which deities are assigned to the head and to the two eyes of the Vāstunara?",
+   "premises": [
+    "The head is a specified location.",
+    "The two eyes are specified locations.",
+    "Īśa, Aditi, Āpa, and related deities are named."
+   ],
+   "inference": "Īśa and Aditi are associated with the head, while Āpa and Aditi are associated with the two eyes.",
+   "uncertainties": [
+    "The exact parsing of ceśāditī and nityamāpodityau is uncertain due to fusion."
+   ],
+   "plain_english": "On the head are Īśa and Aditi, and in the two eyes are Āpa and Aditi."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "jayo",
+     "gloss": "jaya",
+     "grounds": "named deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "giristardaśasyau",
+     "gloss": "giri-tarda-dasya",
+     "grounds": "fused sequence of deity names; sandhi noted",
+     "morph": "m.nom.sg+m.nom.sg+m.nom.sg"
+    },
+    {
+     "surface": "somādyāḥ",
+     "gloss": "beginning-with-soma",
+     "grounds": "group starting with Soma",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numerical count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhugāḥ",
+     "gloss": "situated-on-arm",
+     "grounds": "located on the arm",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which five deities beginning with Soma are located on the arm of the Vāstunara?",
+   "premises": [
+    "A group beginning with Soma is indicated.",
+    "The group consists of five deities.",
+    "These deities are located on the arm."
+   ],
+   "inference": "Five deities, beginning with Soma and including Jaya, Giri, Tarda, and Dasya, are situated on the arm.",
+   "uncertainties": [
+    "The exact segmentation of giristardaśasyau into individual names is uncertain."
+   ],
+   "plain_english": "Jaya, Giri, Tarda, Dasya, and the group beginning with Soma—these five are situated on the arm."
+  }
+ ]
+}

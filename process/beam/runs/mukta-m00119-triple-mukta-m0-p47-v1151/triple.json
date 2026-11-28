@@ -1,0 +1,1049 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "arghya",
+     "gloss": "offering-water",
+     "grounds": "ritual water offering",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhapūjā",
+     "gloss": "seat-worship",
+     "grounds": "compound seat plus worship",
+     "morph": "compound n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāsu",
+     "gloss": "among-accomplished",
+     "grounds": "locative plural feminine",
+     "morph": "adj.loc.pl.f"
+    },
+    {
+     "surface": "kalpitāsu",
+     "gloss": "among-constructed",
+     "grounds": "locative plural feminine",
+     "morph": "adj.loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual elements are performed among accomplished and constructed seats?",
+   "premises": [
+    "arghya is named",
+    "seat-worship is named",
+    "both occur among accomplished and constructed seats"
+   ],
+   "inference": "The verse lists arghya and seat-worship as elements applied in both accomplished and constructed contexts.",
+   "uncertainties": [
+    "exact scope of siddhāsu and kalpitāsu"
+   ],
+   "plain_english": "Arghya and seat-worship are performed among accomplished and constructed seats."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "aṅgakramo",
+     "gloss": "limb-sequence",
+     "grounds": "compound limb plus sequence",
+     "morph": "compound n.nom.sg.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "svasvadevīkrameṇa",
+     "gloss": "by-each-goddess-sequence",
+     "grounds": "compound each goddess sequence",
+     "morph": "compound instr.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the limb sequence ordered for each goddess?",
+   "premises": [
+    "limb sequence is named",
+    "each goddess has her own sequence",
+    "the address is to the great goddess"
+   ],
+   "inference": "The limb sequence follows each goddess's own prescribed order.",
+   "uncertainties": [
+    "whether ca adds another rule"
+   ],
+   "plain_english": "The limb sequence proceeds according to each goddess's own sequence."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "bījānāṃ",
+     "gloss": "of-seed-syllables",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "lekhanaṃ",
+     "gloss": "writing",
+     "grounds": "action noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "held-opinion",
+     "grounds": "passive participle",
+     "morph": "pp.nom.sg.n"
+    }
+   ],
+   "question": "How many kinds of seed-syllable writing are held to exist?",
+   "premises": [
+    "seed-syllable writing is named",
+    "it is called threefold",
+    "the goddess is addressed"
+   ],
+   "inference": "Seed-syllable writing is held to be threefold.",
+   "uncertainties": [
+    "the three kinds are not specified here"
+   ],
+   "plain_english": "Writing of seed syllables is held to be threefold."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "bījalekho",
+     "gloss": "seed-writing",
+     "grounds": "compound seed plus writing",
+     "morph": "compound n.nom.sg.m"
+    },
+    {
+     "surface": "gauḍamārge",
+     "gloss": "on-gauda-path",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kalpitāsu",
+     "gloss": "among-constructed",
+     "grounds": "locative plural feminine",
+     "morph": "adj.loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural feminine",
+     "morph": "n.loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is seed-writing placed on the gauda path?",
+   "premises": [
+    "seed-writing is named",
+    "gauda path is named",
+    "constructed seats and directions are named"
+   ],
+   "inference": "Seed-writing on the gauda path is placed among constructed seats and directions.",
+   "uncertainties": [
+    "exact directional arrangement"
+   ],
+   "plain_english": "Seed-writing on the gauda path is placed among constructed seats and directions."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "svasāmmukhyakrameṇaiva",
+     "gloss": "by-own-facing-sequence-only",
+     "grounds": "compound own facing sequence",
+     "morph": "compound instr.sg.m"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the deity be worshipped in this sequence?",
+   "premises": [
+    "own facing sequence is specified",
+    "the deity is the object",
+    "worship is enjoined"
+   ],
+   "inference": "The deity should be worshipped according to one's own facing sequence.",
+   "uncertainties": [
+    "whether eva excludes other sequences"
+   ],
+   "plain_english": "One should worship the deity by one's own facing sequence."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "ugravidhāvidhau",
+     "gloss": "in-fierce-rite-procedure",
+     "grounds": "compound fierce rite procedure",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tiryagbhūtvā",
+     "gloss": "having-become-sideways",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-thoroughly-worship",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How is worship performed in the fierce rite procedure?",
+   "premises": [
+    "fierce rite procedure is named",
+    "sideways posture is named",
+    "thorough worship is enjoined"
+   ],
+   "inference": "In the fierce rite procedure, one becomes sideways and thoroughly worships.",
+   "uncertainties": [
+    "exact meaning of sideways posture"
+   ],
+   "plain_english": "In the fierce rite procedure, one becomes sideways and thoroughly worships."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "rahasyātirahasyaṃ",
+     "gloss": "secret-beyond-secret",
+     "grounds": "compound secret beyond secret",
+     "morph": "compound n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rahasyātirahasyakam",
+     "gloss": "secret-beyond-secret-thing",
+     "grounds": "compound with suffix",
+     "morph": "compound n.nom.sg.n"
+    }
+   ],
+   "question": "What secret beyond secret is being introduced?",
+   "premises": [
+    "secret beyond secret is named",
+    "a related secret thing is named",
+    "ca links the two"
+   ],
+   "inference": "The verse introduces a secret beyond secret and its related form.",
+   "uncertainties": [
+    "content of the secret is not given"
+   ],
+   "plain_english": "A secret beyond secret, and its related form, is introduced."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "śrotumicchāmi",
+     "gloss": "I-wish-to-hear",
+     "grounds": "compound desire to hear",
+     "morph": "v.1.sg.act-pres"
+    },
+    {
+     "surface": "rahasyātirahasyakam",
+     "gloss": "secret-beyond-secret-thing",
+     "grounds": "compound with suffix",
+     "morph": "compound n.acc.sg.n"
+    }
+   ],
+   "question": "What does the speaker wish to hear from the lord of gods?",
+   "premises": [
+    "lord of gods is addressed",
+    "desire to hear is stated",
+    "secret beyond secret thing is requested"
+   ],
+   "inference": "The speaker wishes to hear the secret beyond secret thing.",
+   "uncertainties": [
+    "whether the request is granted"
+   ],
+   "plain_english": "I wish to hear the secret beyond secret thing, lord of gods."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "rahasyātirahasyaṃ",
+     "gloss": "secret-beyond-secret",
+     "grounds": "compound secret beyond secret",
+     "morph": "compound n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rahasyātirahasyakam",
+     "gloss": "secret-beyond-secret-thing",
+     "grounds": "compound with suffix",
+     "morph": "compound n.nom.sg.n"
+    }
+   ],
+   "question": "What pair of secret beyond secret terms is repeated?",
+   "premises": [
+    "secret beyond secret is named",
+    "a related secret thing is named",
+    "ca links the two"
+   ],
+   "inference": "The verse repeats the secret beyond secret and its related form.",
+   "uncertainties": [
+    "doctrinal content remains unspecified"
+   ],
+   "plain_english": "Secret beyond secret, and its related form, is repeated."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "antarālaṃ",
+     "gloss": "interval",
+     "grounds": "noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prācī",
+     "gloss": "eastern-direction",
+     "grounds": "feminine adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "pūjyapūjakayorapi",
+     "gloss": "of-worshipped-and-worshipper-too",
+     "grounds": "compound genitive dual",
+     "morph": "compound gen.du.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What interval exists between worshipped and worshipper?",
+   "premises": [
+    "interval is named",
+    "eastern direction is named",
+    "worshipped and worshipper are named"
+   ],
+   "inference": "An interval should be eastern between worshipped and worshipper.",
+   "uncertainties": [
+    "exact spatial measure"
+   ],
+   "plain_english": "There should be an eastern interval between worshipped and worshipper."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "devapūjakayorantaḥ",
+     "gloss": "between-deity-and-worshipper",
+     "grounds": "compound genitive dual",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prācī",
+     "gloss": "eastern-direction",
+     "grounds": "feminine adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "dikbhairave",
+     "gloss": "in-direction-bhairava",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "matā",
+     "gloss": "held",
+     "grounds": "passive participle",
+     "morph": "pp.nom.sg.f"
+    }
+   ],
+   "question": "Where is the eastern direction held between deity and worshipper?",
+   "premises": [
+    "deity and worshipper are named",
+    "inside is named",
+    "eastern direction is named",
+    "direction bhairava is named"
+   ],
+   "inference": "The eastern direction is held inside, toward direction-bhairava, between deity and worshipper.",
+   "uncertainties": [
+    "precise bhairava direction"
+   ],
+   "plain_english": "The eastern direction is held inside, toward direction-bhairava, between deity and worshipper."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "taddakṣiṇaṃ",
+     "gloss": "that-southern",
+     "grounds": "compound demonstrative southern",
+     "morph": "compound nom.sg.n"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "southern",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "devasāmmukhyamārgataḥ",
+     "gloss": "from-deity-facing-path",
+     "grounds": "compound ablative",
+     "morph": "compound abl.sg.m"
+    }
+   ],
+   "question": "What becomes southern from the deity-facing path?",
+   "premises": [
+    "that southern is named",
+    "southern is repeated",
+    "deity-facing path is named"
+   ],
+   "inference": "The southern side should be taken from the deity-facing path.",
+   "uncertainties": [
+    "whether taddakṣiṇaṃ is a separate side"
+   ],
+   "plain_english": "The southern side should be from the deity-facing path."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "yadāśābhimukho",
+     "gloss": "facing-which-direction",
+     "grounds": "compound relative direction facing",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "cakrarājaṃ",
+     "gloss": "wheel-king",
+     "grounds": "compound accusative",
+     "morph": "compound acc.sg.m"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "When should the wheel-king be drawn?",
+   "premises": [
+    "facing a direction is named",
+    "having become is named",
+    "wheel-king is named",
+    "drawing is enjoined"
+   ],
+   "inference": "One should draw the wheel-king after facing the proper direction.",
+   "uncertainties": [
+    "which direction is intended"
+   ],
+   "plain_english": "Having faced the proper direction, one should draw the wheel-king."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "purandaramukho",
+     "gloss": "facing-purandara",
+     "grounds": "compound purandara facing",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "tripura",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "muktamālinī",
+     "gloss": "garlanded-liberated-one",
+     "grounds": "compound",
+     "morph": "compound nom.sg.f"
+    }
+   ],
+   "question": "Who faces purandara in this mantra context?",
+   "premises": [
+    "purandara-facing is named",
+    "mantra-holder is named",
+    "tripura is named",
+    "muktamalini is named"
+   ],
+   "inference": "The mantra-holder faces purandara, with tripura and muktamalini named.",
+   "uncertainties": [
+    "exact ritual role of tripura"
+   ],
+   "plain_english": "The mantra-holder faces purandara, with tripura and muktamalini named."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "bhānuryatra",
+     "gloss": "where-sun",
+     "grounds": "compound relative where sun",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udeti",
+     "gloss": "rises",
+     "grounds": "present third singular",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-very",
+     "grounds": "demonstrative with eva",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "prācī",
+     "gloss": "eastern-direction",
+     "grounds": "feminine adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaidike",
+     "gloss": "in-vedic",
+     "grounds": "locative singular",
+     "morph": "adj.loc.sg.m"
+    }
+   ],
+   "question": "How is eastern direction defined in the vaidika view?",
+   "premises": [
+    "where the sun always rises is named",
+    "that very place is eastern",
+    "the vaidika view is named"
+   ],
+   "inference": "In the vaidika view, eastern is where the sun always rises.",
+   "uncertainties": [
+    "whether this is accepted or contrasted"
+   ],
+   "plain_english": "In the vaidika view, eastern is where the sun always rises."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "svarasammukhe",
+     "gloss": "facing-own-sound",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prācī",
+     "gloss": "eastern-direction",
+     "grounds": "feminine adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "devīpṛṣṭhaṃ",
+     "gloss": "goddess-back",
+     "grounds": "compound",
+     "morph": "compound nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimam",
+     "gloss": "western",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is eastern and western in this facing rule?",
+   "premises": [
+    "facing own sound is named",
+    "eastern should be there",
+    "goddess back is western"
+   ],
+   "inference": "Eastern is facing one's own sound, while the goddess's back is western.",
+   "uncertainties": [
+    "meaning of own sound"
+   ],
+   "plain_english": "Eastern is facing one's own sound, but the goddess's back is western."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prācīkramaḥ",
+     "gloss": "eastern-sequence",
+     "grounds": "compound",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "passive participle",
+     "morph": "pp.nom.sg.m"
+    },
+    {
+     "surface": "samatāṣṭakamārgataḥ",
+     "gloss": "from-eightfold-equality-path",
+     "grounds": "compound ablative",
+     "morph": "compound abl.sg.m"
+    }
+   ],
+   "question": "From which path is the eastern sequence declared?",
+   "premises": [
+    "eastern sequence is named",
+    "it is declared",
+    "eightfold equality path is named"
+   ],
+   "inference": "The eastern sequence is declared from the eightfold equality path.",
+   "uncertainties": [
+    "content of eightfold equality"
+   ],
+   "plain_english": "Thus the eastern sequence is declared from the eightfold equality path."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "devatādakṣiṇe",
+     "gloss": "to-right-of-deity",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "gurupaṃktiṃ",
+     "gloss": "guru-row",
+     "grounds": "compound accusative",
+     "morph": "compound acc.sg.f"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-thoroughly-worship",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the guru row be thoroughly worshipped?",
+   "premises": [
+    "to right of deity is named",
+    "goddess is addressed",
+    "guru row is named",
+    "thorough worship is enjoined"
+   ],
+   "inference": "The guru row should be thoroughly worshipped to the right of the deity.",
+   "uncertainties": [
+    "whether right means south"
+   ],
+   "plain_english": "To the right of the deity, one should thoroughly worship the guru row."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "dakṣavāmaṛṣṭhapaṃktikrameṇa",
+     "gloss": "by-right-left-rear-row-sequence",
+     "grounds": "compound instrumental",
+     "morph": "compound instr.sg.m"
+    },
+    {
+     "surface": "gurupūjanam",
+     "gloss": "guru-worship",
+     "grounds": "compound",
+     "morph": "compound nom.sg.n"
+    }
+   ],
+   "question": "How is guru worship performed by row sequence?",
+   "premises": [
+    "right left rear row sequence is named",
+    "guru worship is named"
+   ],
+   "inference": "Guru worship is performed by the right-left-rear row sequence.",
+   "uncertainties": [
+    "exact row order"
+   ],
+   "plain_english": "Guru worship is performed by the right-left-rear row sequence."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "tripaṃktikramamārgeṇa",
+     "gloss": "by-three-row-sequence-path",
+     "grounds": "compound instrumental",
+     "morph": "compound instr.sg.m"
+    },
+    {
+     "surface": "nāthamārge",
+     "gloss": "on-natha-path",
+     "grounds": "locative singular",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "prapūjanam",
+     "gloss": "thorough-worship",
+     "grounds": "compound",
+     "morph": "compound nom.sg.n"
+    }
+   ],
+   "question": "How is thorough worship performed on the natha path?",
+   "premises": [
+    "three-row sequence path is named",
+    "natha path is named",
+    "thorough worship is named"
+   ],
+   "inference": "On the natha path, thorough worship follows the three-row sequence path.",
+   "uncertainties": [
+    "which three rows"
+   ],
+   "plain_english": "On the natha path, thorough worship follows the three-row sequence path."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "ataeva",
+     "gloss": "therefore",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "japasya",
+     "gloss": "of-recitation",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is recitation placed according to this rule?",
+   "premises": [
+    "therefore is stated",
+    "great goddess is addressed",
+    "left hand is named",
+    "recitation is named"
+   ],
+   "inference": "Therefore recitation is placed in the left hand.",
+   "uncertainties": [
+    "what ca adds"
+   ],
+   "plain_english": "Therefore, great goddess, recitation is in the left hand."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "dakṣahaste",
+     "gloss": "in-right-hand",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "person",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "japāntaṃ",
+     "gloss": "end-of-recitation",
+     "grounds": "compound accusative",
+     "morph": "compound acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarpaṇam",
+     "gloss": "offering",
+     "grounds": "compound",
+     "morph": "compound nom.sg.n"
+    }
+   ],
+   "question": "What is offered at the end of recitation?",
+   "premises": [
+    "right hand is named",
+    "person is named",
+    "end of recitation is named",
+    "offering is named"
+   ],
+   "inference": "At the end of recitation, the person is offered in the right hand.",
+   "uncertainties": [
+    "whether tu marks contrast"
+   ],
+   "plain_english": "At the end of recitation, the person is offered in the right hand."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "gurupūjākramaḥ",
+     "gloss": "guru-worship-sequence",
+     "grounds": "compound",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "passive participle",
+     "morph": "pp.nom.sg.m"
+    },
+    {
+     "surface": "targhyadvayakramaṃ",
+     "gloss": "two-arghya-sequence",
+     "grounds": "compound accusative",
+     "morph": "compound acc.sg.m"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative second singular",
+     "morph": "v.2.sg.act-imp"
+    }
+   ],
+   "question": "What sequence is declared before the two-arghya sequence?",
+   "premises": [
+    "guru worship sequence is declared",
+    "two-arghya sequence is named",
+    "hearing is enjoined"
+   ],
+   "inference": "The guru worship sequence is declared, and the two-arghya sequence should be heard.",
+   "uncertainties": [
+    "whether targhyadvaya is next topic"
+   ],
+   "plain_english": "The guru worship sequence is declared; hear the two-arghya sequence."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "catuṣpātrāṇi",
+     "gloss": "four-vessels",
+     "grounds": "compound nominative plural",
+     "morph": "compound nom.pl.n"
+    },
+    {
+     "surface": "sāmānye",
+     "gloss": "in-common",
+     "grounds": "locative singular",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "ghaṭastvāvaśyako",
+     "gloss": "pot-however-necessary",
+     "grounds": "compound with sandhi",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaśyako",
+     "gloss": "necessary",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "held",
+     "grounds": "passive participle",
+     "morph": "pp.nom.sg.m"
+    }
+   ],
+   "question": "Which vessel is held necessary in common worship?",
+   "premises": [
+    "four vessels are named",
+    "common context is named",
+    "pot is named necessary",
+    "held opinion is stated"
+   ],
+   "inference": "Among four vessels in common worship, the pot is held necessary.",
+   "uncertainties": [
+    "exact four vessels"
+   ],
+   "plain_english": "Among four vessels in common worship, the pot is held necessary."
+  }
+ ]
+}

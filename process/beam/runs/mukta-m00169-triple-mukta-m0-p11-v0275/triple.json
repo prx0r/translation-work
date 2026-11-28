@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of preceding ritual action",
+     "morph": "abs.√kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyarcayed",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.act.opt.√arc+abhi"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "ritual offering substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive specifying offering act",
+     "morph": "abs.√dā"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "quantity of incense offerings",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual worship and incense offering quantity are prescribed for the goddess?",
+   "premises": [
+    "A prior ritual action is completed before worship.",
+    "The goddess is to be worshipped as the prescribed object.",
+    "Incense is to be offered in a quantity of one thousand."
+   ],
+   "inference": "After completing the prior rite, one should worship the goddess by offering incense a thousand times.",
+   "uncertainties": [
+    "The exact referent of kṛtvā depends on the preceding ritual context.",
+    "Whether sahasrakam counts individual incense portions or repetitions is not explicit."
+   ],
+   "plain_english": "Having done that, one should worship the goddess and offer incense a thousand times."
+  }
+ ]
+}

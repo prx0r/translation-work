@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "homatuṃgārdhamānena",
+     "gloss": "by-fire-height-half-measure",
+     "grounds": "compound of homa (fire-offering), tuṅga (height), ardha (half), and māna (measure), in instrumental singular indicating the standard used",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "homordhvābjaṃ",
+     "gloss": "lotus-above-fire-offering",
+     "grounds": "compound of homa (fire-offering), ūrdhva (above), and abja (lotus), with internal sandhi; accusative singular object",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative verb expressing a prescriptive ritual instruction",
+     "morph": "3.sg.opt.act (pra-√kḷp)"
+    }
+   ],
+   "question": "What measure determines the arrangement of the lotus above the fire-offering?",
+   "premises": [
+    "The fire-offering has a specified height.",
+    "Half of that height provides a usable measure.",
+    "A lotus is to be arranged above the fire-offering."
+   ],
+   "inference": "The lotus above the fire-offering should be arranged using half the height of the fire-offering as its measure.",
+   "uncertainties": [
+    "The precise architectural or ritual form of the lotus element is not specified in this verse."
+   ],
+   "plain_english": "One should arrange the lotus above the fire-offering using a measure equal to half the height of the fire-offering."
+  }
+ ]
+}

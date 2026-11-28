@@ -1,0 +1,1149 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2076,
+   "rows": [
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maṇḍalaḥ",
+     "gloss": "circle",
+     "grounds": "sacred diagram or region",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvakrāntaḥ",
+     "gloss": "horse-stepped",
+     "grounds": "name of sacred site; compound aśva+krānta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sacandrakaḥ",
+     "gloss": "with-moon",
+     "grounds": "qualified by moon; compound sa+candraka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sacred formation is identified in the northeast direction?",
+   "premises": [
+    "The northeast direction is specified",
+    "A circle is named Aśvakrānta",
+    "It is described as accompanied by the moon"
+   ],
+   "inference": "The northeast contains the moon-accompanied Aśvakrānta circle.",
+   "uncertainties": [],
+   "plain_english": "In the northeast is indeed the circle called Aśvakrānta, accompanied by the moon."
+  },
+  {
+   "verse": 2077,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "one-should-go",
+     "grounds": "injunction to proceed",
+     "morph": "3.sg.act-optative √gam"
+    },
+    {
+     "surface": "nīlaśailaṃ",
+     "gloss": "to-blue-mountain",
+     "grounds": "destination; compound nīla+śaila",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhyāhne",
+     "gloss": "at-midday",
+     "grounds": "time specification",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where and when should the practitioner proceed after the previous site?",
+   "premises": [
+    "A sequential instruction is given",
+    "The destination is the Blue Mountain",
+    "The time specified is midday"
+   ],
+   "inference": "After that, one should go to the Blue Mountain at midday.",
+   "uncertainties": [],
+   "plain_english": "Then, O Supreme Goddess, one should go to the Blue Mountain at midday."
+  },
+  {
+   "verse": 2078,
+   "rows": [
+    {
+     "surface": "viṣuve",
+     "gloss": "at-equinox",
+     "grounds": "auspicious time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ayane",
+     "gloss": "at-solstice",
+     "grounds": "auspicious time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "also",
+     "grounds": "additional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ravisaṃkramaṇe",
+     "gloss": "at-sun-transition",
+     "grounds": "solar ingress; compound ravi+saṃkramaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which auspicious occasions are suitable for the prescribed observance?",
+   "premises": [
+    "Equinox is mentioned as a time",
+    "Solstice is given as an alternative",
+    "Solar transition is likewise included"
+   ],
+   "inference": "The observance may be performed at equinox, solstice, or solar transition.",
+   "uncertainties": [],
+   "plain_english": "At the equinox, or at the solstice, or likewise at the sun's transition."
+  },
+  {
+   "verse": 2079,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "muktikāmaḥ",
+     "gloss": "desiring-liberation",
+     "grounds": "practitioner intent; compound mukti+kāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājyakāmaḥ",
+     "gloss": "desiring-kingdom",
+     "grounds": "practitioner intent; compound rājya+kāma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How do directional choices differ for seekers of liberation and kingdom?",
+   "premises": [
+    "The north is associated with desire for liberation",
+    "The west is associated with desire for kingdom",
+    "Different aims determine direction"
+   ],
+   "inference": "One desiring liberation should act in the north, one desiring kingdom in the west.",
+   "uncertainties": [],
+   "plain_english": "One who desires liberation should be in the north, while one who desires a kingdom should be in the west."
+  },
+  {
+   "verse": 2080,
+   "rows": [
+    {
+     "surface": "hatarājyaḥ",
+     "gloss": "deprived-of-kingdom",
+     "grounds": "condition of a king; compound hata+rājya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "other parties affected",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "resulting occurrence",
+     "morph": "3.sg.mid-present √jan"
+    },
+    {
+     "surface": "kṣayaḥ",
+     "gloss": "destruction",
+     "grounds": "negative outcome",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What adverse consequences follow from an improper directional choice?",
+   "premises": [
+    "A king may become deprived of kingdom",
+    "Destruction arises for others",
+    "These are stated as outcomes"
+   ],
+   "inference": "Improper observance can cause a king to lose his kingdom and bring destruction to others.",
+   "uncertainties": [],
+   "plain_english": "A king may become deprived of his kingdom, and destruction arises for others."
+  },
+  {
+   "verse": 2081,
+   "rows": [
+    {
+     "surface": "vāyavye",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agninair-ṛtye",
+     "gloss": "in-southeast-southwest",
+     "grounds": "compound of directional terms agni+nairṛtya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahābhayakaraṃ",
+     "gloss": "great-fear-causing",
+     "grounds": "dangerous result; compound mahā+bhaya+kara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What danger arises from performing rites in the northwest or southeast-southwest?",
+   "premises": [
+    "Northwest is specified as a location",
+    "Southeast-southwest is specified as a location",
+    "The result is described as causing great fear"
+   ],
+   "inference": "Rites in the northwest or southeast-southwest produce great fear.",
+   "uncertainties": [
+    "agninair-ṛtye may indicate a combined or intermediate direction"
+   ],
+   "plain_english": "In the northwest and in the southeast-southwest, it becomes a cause of great fear."
+  },
+  {
+   "verse": 2082,
+   "rows": [
+    {
+     "surface": "nāgahāra",
+     "gloss": "snake-garland",
+     "grounds": "divine attribute; compound nāga+hāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttarīyañ",
+     "gloss": "and-upper-garment",
+     "grounds": "upper garment; sandhi form with following ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣabhasthaṃ",
+     "gloss": "standing-on-bull",
+     "grounds": "divine posture; compound vṛṣabha+stha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative injunction",
+     "morph": "3.sg.act-optative vi+√cint"
+    }
+   ],
+   "question": "How should the deity be visualized before ascending the mountain?",
+   "premises": [
+    "The deity wears a snake garland",
+    "The deity has an upper garment",
+    "The deity stands on a bull"
+   ],
+   "inference": "One should visualize the deity with a snake garland and upper garment, standing on a bull.",
+   "uncertainties": [],
+   "plain_english": "One should visualize him wearing a snake garland and an upper garment, standing upon a bull."
+  },
+  {
+   "verse": 2083,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ārohayet",
+     "gloss": "one-should-ascend",
+     "grounds": "ritual action",
+     "morph": "3.sg.act-caus-optative ā+√ruh"
+    },
+    {
+     "surface": "śailam",
+     "gloss": "mountain",
+     "grounds": "object of ascent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aśvamedhaphalaṃ",
+     "gloss": "horse-sacrifice-fruit",
+     "grounds": "ritual reward; compound aśvamedha+phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-obtains",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.act-optative √labh"
+    }
+   ],
+   "question": "What reward is obtained by ascending the mountain with mantra?",
+   "premises": [
+    "Ascent of the mountain is performed with mantra",
+    "A specific fruit is promised",
+    "The fruit equals that of the horse sacrifice"
+   ],
+   "inference": "Ascending the mountain with mantra yields the fruit of the horse sacrifice.",
+   "uncertainties": [],
+   "plain_english": "One should ascend the mountain with the mantra and obtain the fruit of the horse sacrifice."
+  },
+  {
+   "verse": 2084,
+   "rows": [
+    {
+     "surface": "nīlaḥ",
+     "gloss": "blue",
+     "grounds": "epithet of the mountain or deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlo",
+     "gloss": "blue",
+     "grounds": "repeated epithet; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahābāho",
+     "gloss": "o-mighty-armed",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "dharmakāmārthamokṣada",
+     "gloss": "dharma-desire-wealth-liberation-giver",
+     "grounds": "bestower of four aims; compound dharma+kāma+artha+mokṣa+da",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fourfold benefit does the Blue Mountain bestow upon devotees?",
+   "premises": [
+    "The subject is emphatically identified as blue",
+    "It is addressed to the mighty-armed one",
+    "It is called giver of dharma, desire, wealth, and liberation"
+   ],
+   "inference": "The Blue Mountain grants dharma, desire, wealth, and liberation.",
+   "uncertainties": [],
+   "plain_english": "O mighty-armed one, this Blue one indeed is blue and grants dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 2085,
+   "rows": [
+    {
+     "surface": "durgākūpe",
+     "gloss": "in-durgā-well",
+     "grounds": "sacred location; compound durgā+kūpa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvasyāṃ",
+     "gloss": "in-east",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devamāmnātakeśvaram",
+     "gloss": "lord-āmnātakeśvara",
+     "grounds": "deity name; compound deva+āmnātakeśvara",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity is located eastward in the Durgā well?",
+   "premises": [
+    "The location is the Durgā well",
+    "The direction specified is east",
+    "The deity named is Āmnātakeśvara"
+   ],
+   "inference": "In the east of the Durgā well is the lord Āmnātakeśvara.",
+   "uncertainties": [],
+   "plain_english": "But in the east, in the Durgā well, is the lord Āmnātakeśvara."
+  },
+  {
+   "verse": 2086,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previously mentioned deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "deity",
+     "grounds": "referent clarified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-south",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuraṣṭāntare",
+     "gloss": "at-eight-bows-distance",
+     "grounds": "distance measure; compound dhanus+aṣṭa+antara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What location is specified south of that deity at a measured distance?",
+   "premises": [
+    "Reference is made to that deity",
+    "The south direction is indicated",
+    "The distance is eight bows"
+   ],
+   "inference": "A point south of that deity lies at a distance of eight bows.",
+   "uncertainties": [],
+   "plain_english": "O beloved, to the south of that deity, at a distance of eight bows."
+  },
+  {
+   "verse": 2087,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previous location or deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrveṇa",
+     "gloss": "to-east",
+     "grounds": "directional relation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "at-bow-distance",
+     "grounds": "distance measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "situated",
+     "grounds": "located state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trivikramaḥ",
+     "gloss": "trivikrama",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is Trivikrama situated relative to the previously mentioned point?",
+   "premises": [
+    "Reference is made to that point",
+    "The east direction is specified",
+    "The distance is one bow"
+   ],
+   "inference": "Trivikrama is situated one bow to the east of that point.",
+   "uncertainties": [],
+   "plain_english": "To the east of that, at a distance of one bow, Trivikrama is situated."
+  },
+  {
+   "verse": 2088,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previous location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aṃśapañcakaṃ",
+     "gloss": "five-parts",
+     "grounds": "fractional measure; compound aṃśa+pañcaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvad",
+     "gloss": "as-far-as",
+     "grounds": "extent marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "unit of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-measure",
+     "grounds": "measurement specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What precise measurement extends from the previously indicated location?",
+   "premises": [
+    "A distance is measured from that point",
+    "The extent is five parts",
+    "The unit is a bow"
+   ],
+   "inference": "The distance extends five parts of a bow in measure.",
+   "uncertainties": [
+    "exact fraction implied by aṃśapañcakaṃ is context-dependent"
+   ],
+   "plain_english": "From that point, extending five parts, is indeed one bow in measure."
+  },
+  {
+   "verse": 2089,
+   "rows": [
+    {
+     "surface": "krīḍāpuṣkariṇī",
+     "gloss": "sport-lotus-pond",
+     "grounds": "sacred pond name; compound krīḍā+puṣkariṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmākhyāyāḥ",
+     "gloss": "of-kāmākhyā",
+     "grounds": "associated goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which sacred pond is identified as belonging to Kāmākhyā?",
+   "premises": [
+    "A pond named Krīḍāpuṣkariṇī is identified",
+    "It is associated with Kāmākhyā",
+    "The address is to the lady of gods"
+   ],
+   "inference": "That sport lotus pond belongs to Kāmākhyā.",
+   "uncertainties": [],
+   "plain_english": "O Lady of the Gods, that is the sport lotus pond of Kāmākhyā."
+  },
+  {
+   "verse": 2090,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the pond",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścimatīre",
+     "gloss": "on-western-bank",
+     "grounds": "location; compound paścima+tīra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √snā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "circle",
+     "grounds": "ritual diagram or area",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions are prescribed on the western bank of that pond?",
+   "premises": [
+    "The western bank of that pond is specified",
+    "Bathing is prescribed",
+    "A circle is mentioned there"
+   ],
+   "inference": "One should bathe on the western bank and attend to the circle there.",
+   "uncertainties": [
+    "exact action regarding maṇḍalam may continue in next verse"
+   ],
+   "plain_english": "On its western bank, having bathed there, and the circle."
+  },
+  {
+   "verse": 2091,
+   "rows": [
+    {
+     "surface": "pañcame",
+     "gloss": "on-fifth",
+     "grounds": "ordinal time marker",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anyadine",
+     "gloss": "on-another-day",
+     "grounds": "subsequent day; compound anya+dina",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "having-arrived",
+     "grounds": "time having come",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "place of bathing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual action",
+     "morph": "(gerund) √snā"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When and how should the subsequent ritual bathing be performed?",
+   "premises": [
+    "The fifth or another day is specified",
+    "Bathing in water is prescribed",
+    "It must follow proper rule"
+   ],
+   "inference": "On the fifth or another day, one should bathe in the water according to rule.",
+   "uncertainties": [],
+   "plain_english": "When the fifth or another day arrives, having bathed in the water according to rule."
+  },
+  {
+   "verse": 2092,
+   "rows": [
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "recipients of merit",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "santārayati",
+     "gloss": "one-causes-to-cross",
+     "grounds": "delivers across suffering",
+     "morph": "3.sg.act-caus-present sam+√tṛ"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "speed of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "in-goddess",
+     "grounds": "divine realm or presence",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "realm of experience",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pramodate",
+     "gloss": "rejoices",
+     "grounds": "resulting joy",
+     "morph": "3.sg.mid-present pra+√mud"
+    }
+   ],
+   "question": "What spiritual benefits result for ancestors and the practitioner from this bathing?",
+   "premises": [
+    "Ancestors are caused to cross over quickly",
+    "The practitioner rejoices in the goddess's world",
+    "These are outcomes of the rite"
+   ],
+   "inference": "The rite quickly delivers ancestors and brings rejoicing in the goddess's world.",
+   "uncertainties": [
+    "devī loke may mean in the world of the goddess or in the goddess and the world"
+   ],
+   "plain_english": "One quickly causes the ancestors to cross over and rejoices in the world of the Goddess."
+  },
+  {
+   "verse": 2093,
+   "rows": [
+    {
+     "surface": "namoṅkārau vaṣaṭ svāhā pāpaṃ hara namo'stu te",
+     "gloss": "salutation-sounds-remove-sin-homage",
+     "grounds": "mantra formula; kept as single token per source",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What mantra formula is prescribed for removing sin and offering homage?",
+   "premises": [
+    "The token contains sacred utterances",
+    "It includes a request to remove sin",
+    "It concludes with homage"
+   ],
+   "inference": "The prescribed formula invokes sacred sounds to remove sin and offer homage.",
+   "uncertainties": [
+    "internal segmentation and exact ritual function of namoṅkārau require specialist mantra analysis"
+   ],
+   "plain_english": "With namoṅkārau, vaṣaṭ, svāhā: remove sin, homage be to you."
+  },
+  {
+   "verse": 2094,
+   "rows": [
+    {
+     "surface": "aiśānye",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previous site",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "pool",
+     "grounds": "sacred water body",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "lohityo",
+     "gloss": "lohitya",
+     "grounds": "name of lake; sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saraḥ",
+     "gloss": "lake",
+     "grounds": "water body",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What lake is identified northeast of that pool?",
+   "premises": [
+    "The northeast of that pool is specified",
+    "A lake is named Lohitya",
+    "The identification is emphatic"
+   ],
+   "inference": "Northeast of that pool is the lake named Lohitya.",
+   "uncertainties": [],
+   "plain_english": "To the northeast of that pool is indeed the lake named Lohitya."
+  },
+  {
+   "verse": 2095,
+   "rows": [
+    {
+     "surface": "agnau",
+     "gloss": "in-southeast",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred water body",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālahastaṃ",
+     "gloss": "kālahasta",
+     "grounds": "name of pool",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāmalaṃ",
+     "gloss": "yāmala",
+     "grounds": "name of lake",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saraḥ",
+     "gloss": "lake",
+     "grounds": "water body",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which pool and lake are identified in the southeast direction?",
+   "premises": [
+    "The southeast direction is specified",
+    "A pool named Kālahasta is mentioned",
+    "A lake named Yāmala is mentioned"
+   ],
+   "inference": "In the southeast are the Kālahasta pool and the lake named Yāmala.",
+   "uncertainties": [
+    "syntactic relation between kuṇḍaṃ kālahastaṃ and yāmalaṃ nāma vai saraḥ is compressed"
+   ],
+   "plain_english": "In the southeast is the Kālahasta pool and indeed the lake named Yāmala."
+  },
+  {
+   "verse": 2096,
+   "rows": [
+    {
+     "surface": "nair-ṛte",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcakaṃ",
+     "gloss": "five",
+     "grounds": "measure quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "cubits",
+     "grounds": "unit of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saubhāgye",
+     "gloss": "in-saubhāgya",
+     "grounds": "named location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What measurement is specified in the southwest at Saubhāgya?",
+   "premises": [
+    "The southwest direction is specified",
+    "A measure of five cubits is given",
+    "The location is Saubhāgya"
+   ],
+   "inference": "In the southwest at Saubhāgya there is a measure of five cubits.",
+   "uncertainties": [
+    "what is measured by five cubits is not explicitly stated"
+   ],
+   "plain_english": "O Supreme Goddess, in the southwest, at Saubhāgya, is a measure of five cubits."
+  },
+  {
+   "verse": 2097,
+   "rows": [
+    {
+     "surface": "kolābhyantargataṃ",
+     "gloss": "within-kola",
+     "grounds": "located inside Kola; compound kola+abhyantara+gata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred water body",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saubhāgyaparikīrtitam",
+     "gloss": "known-as-saubhāgya",
+     "grounds": "named Saubhāgya; compound saubhāgya+parikīrtita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which pool within Kola is renowned by the name Saubhāgya?",
+   "premises": [
+    "A pool is located within Kola",
+    "It is renowned as Saubhāgya",
+    "The identification is explicit"
+   ],
+   "inference": "The pool within Kola is known as Saubhāgya.",
+   "uncertainties": [],
+   "plain_english": "The pool situated within Kola is renowned as Saubhāgya."
+  },
+  {
+   "verse": 2098,
+   "rows": [
+    {
+     "surface": "saubhāgye",
+     "gloss": "in-saubhāgya",
+     "grounds": "named location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mandībhūte",
+     "gloss": "when-dimmed",
+     "grounds": "time condition; compound mandī+bhūta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "divākare",
+     "gloss": "sun",
+     "grounds": "celestial body",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what solar condition are all those rites at Saubhāgya performed?",
+   "premises": [
+    "The location is Saubhāgya",
+    "All those rites are referred to",
+    "The sun is described as dimmed"
+   ],
+   "inference": "All those rites at Saubhāgya are performed when the sun is dimmed.",
+   "uncertainties": [
+    "mandībhūte divākare may indicate sunset or eclipse"
+   ],
+   "plain_english": "At Saubhāgya, all those, when the sun has grown dim."
+  },
+  {
+   "verse": 2099,
+   "rows": [
+    {
+     "surface": "tulāviṣuvasaṅkrāntyāṃ",
+     "gloss": "at-libra-equinox-transition",
+     "grounds": "specific solar transition; compound tulā+viṣuva+saṅkrānti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "performs",
+     "grounds": "ritual performance",
+     "morph": "3.sg.act-optative sam+ā+√car"
+    }
+   ],
+   "question": "What ritual act is prescribed at the Libra equinox transition?",
+   "premises": [
+    "The time is the Libra equinox transition",
+    "A person is the subject",
+    "Bathing is the prescribed act"
+   ],
+   "inference": "One who performs bathing at the Libra equinox transition fulfills the prescribed rite.",
+   "uncertainties": [],
+   "plain_english": "Whoever performs the bath at the transition of the Libra equinox."
+  }
+ ]
+}

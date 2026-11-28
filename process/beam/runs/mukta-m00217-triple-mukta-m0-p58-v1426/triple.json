@@ -1,0 +1,897 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1426,
+   "rows": [
+    {
+     "surface": "sarvonmādinikā",
+     "gloss": "all-intoxicating",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamahāṃkuśā",
+     "gloss": "all-great-goad",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities continue the sequence after the previously named ones?",
+   "premises": [
+    "Sarvonmādinikā is named in the sequence",
+    "Sarvamahāṃkuśā follows thereafter"
+   ],
+   "inference": "The sequence continues with Sarvonmādinikā and then Sarvamahāṃkuśā",
+   "uncertainties": [],
+   "plain_english": "And indeed Sarvonmādinikā, and then Sarvamahāṃkuśā."
+  },
+  {
+   "verse": 1427,
+   "rows": [
+    {
+     "surface": "sarvayoniḥ",
+     "gloss": "all-source",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatrikhaṇḍā",
+     "gloss": "all-three-part",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "predicate describing the named deity",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "Which deities are declared next in the transmitted sequence?",
+   "premises": [
+    "Sarvayoniḥ is named next",
+    "Sarvatrikhaṇḍā is declared thereafter"
+   ],
+   "inference": "The sequence proceeds to Sarvayoniḥ and then Sarvatrikhaṇḍā",
+   "uncertainties": [],
+   "plain_english": "Then Sarvayoniḥ, and then Sarvatrikhaṇḍā is declared."
+  },
+  {
+   "verse": 1428,
+   "rows": [
+    {
+     "surface": "ghṛtapāśāṃkuśāḥ",
+     "gloss": "ghee-noose-goads",
+     "grounds": "description of the deities' implements",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "quantifier referring to the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "svasvamudrākarāḥ",
+     "gloss": "own-own-seal-forming",
+     "grounds": "compound describing their hand gestures",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What common attributes characterize all these deities in worship?",
+   "premises": [
+    "All are described as bearing ghee, noose, and goad",
+    "All form their own respective seals"
+   ],
+   "inference": "The deities share implements and display their own seals",
+   "uncertainties": [],
+   "plain_english": "All of them bear ghee, noose, and goad, and likewise form their own seals."
+  },
+  {
+   "verse": 1429,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśotpalābhītipāṇayaḥ",
+     "gloss": "noose-goad-lotus-fearlessness-hands",
+     "grounds": "compound describing the four hand attributes",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "raktavigrahāḥ",
+     "gloss": "red-bodied",
+     "grounds": "compound describing bodily appearance",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What hand attributes and bodily color define these deities?",
+   "premises": [
+    "Their hands hold noose, goad, lotus, and fearlessness gesture",
+    "Their bodies are red in color"
+   ],
+   "inference": "The deities are red-bodied and hold noose, goad, lotus, and the gesture of fearlessness",
+   "uncertainties": [],
+   "plain_english": "They hold noose, goad, lotus, and the gesture of fearlessness in their hands, and their bodies are red."
+  },
+  {
+   "verse": 1430,
+   "rows": [
+    {
+     "surface": "aṇimāsiddhipurataḥ",
+     "gloss": "before-aṇimā-siddhi",
+     "grounds": "locational compound indicating placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakreśīṃ",
+     "gloss": "wheel-lady",
+     "grounds": "epithet of the goddess to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tripurāṃ",
+     "gloss": "tripurā",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "Which goddess should be worshipped in front of the aṇimā siddhi?",
+   "premises": [
+    "The location is before the aṇimā siddhi",
+    "The wheel-lady Tripurā is the object of worship"
+   ],
+   "inference": "One should worship the wheel-lady Tripurā in front of the aṇimā siddhi",
+   "uncertainties": [],
+   "plain_english": "One should worship the wheel-lady Tripurā in front of the aṇimā siddhi."
+  },
+  {
+   "verse": 1431,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakaṭayoginyaḥ",
+     "gloss": "manifest-yoginīs",
+     "grounds": "designation of the group of yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "caturasre",
+     "gloss": "in-square",
+     "grounds": "location within the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "stationed",
+     "grounds": "predicate describing their placement",
+     "morph": "f.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "Where are these manifest yoginīs stationed within the sacred diagram?",
+   "premises": [
+    "These are the manifest yoginīs",
+    "They are stationed in the square enclosure"
+   ],
+   "inference": "The manifest yoginīs are stationed in the square",
+   "uncertainties": [],
+   "plain_english": "These manifest yoginīs are stationed in the square."
+  },
+  {
+   "verse": 1432,
+   "rows": [
+    {
+     "surface": "savāhanāḥ",
+     "gloss": "with-vehicles",
+     "grounds": "compound indicating accompaniment by vehicles",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saparivārāḥ",
+     "gloss": "with-retinue",
+     "grounds": "compound indicating accompaniment by retinue",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasiddhayaḥ",
+     "gloss": "with-siddhis",
+     "grounds": "compound indicating accompaniment by powers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What accompanying powers and attendants belong to these yoginīs?",
+   "premises": [
+    "They are accompanied by vehicles",
+    "They are accompanied by retinue and siddhis"
+   ],
+   "inference": "The yoginīs are present with their vehicles, retinue, and siddhis",
+   "uncertainties": [],
+   "plain_english": "They are accompanied by their vehicles, their retinue, and their siddhis."
+  },
+  {
+   "verse": 1433,
+   "rows": [
+    {
+     "surface": "tarpitāḥ",
+     "gloss": "satisfied",
+     "grounds": "desired state of the deities",
+     "morph": "f.nom.pl.past-passive-participle"
+    },
+    {
+     "surface": "santu",
+     "gloss": "let-be",
+     "grounds": "benedictive expression",
+     "morph": "3.pl.imperative-active √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √vad"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "ritual substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viniḥkṣipet",
+     "gloss": "one-should-pour",
+     "grounds": "ritual action",
+     "morph": "3.sg.optative-active vi-niḥ-√kṣip"
+    }
+   ],
+   "question": "What words and action complete the satisfaction of these deities?",
+   "premises": [
+    "One should say 'let them be satisfied'",
+    "One should pour water there"
+   ],
+   "inference": "The worshipper should utter the satisfaction formula and pour water",
+   "uncertainties": [],
+   "plain_english": "One should say, 'May they be satisfied,' and then pour water there."
+  },
+  {
+   "verse": 1434,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "manner of offering",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samarpaye",
+     "gloss": "i-offer",
+     "grounds": "declarative ritual utterance",
+     "morph": "1.sg.present-middle sam-√ṛ"
+    },
+    {
+     "surface": "tubhyaṃ",
+     "gloss": "to-you",
+     "grounds": "recipient of the offering",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "prathamāvaraṇarcanam",
+     "gloss": "first-enclosure-worship",
+     "grounds": "compound naming the ritual offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering is formally dedicated to the goddess with devotion?",
+   "premises": [
+    "The worshipper offers with devotion",
+    "The offering is the worship of the first enclosure"
+   ],
+   "inference": "The worship of the first enclosure is offered to the goddess with devotion",
+   "uncertainties": [],
+   "plain_english": "With devotion I offer to you the worship of the first enclosure."
+  },
+  {
+   "verse": 1435,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "predicate describing the teaching",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "blessed-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prathamāvaraṇārcanam",
+     "gloss": "first-enclosure-worship",
+     "grounds": "compound naming the ritual taught",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual teaching has now been fully communicated to the listener?",
+   "premises": [
+    "The speaker addresses the blessed one",
+    "The worship of the first enclosure has been told"
+   ],
+   "inference": "The teaching of the first enclosure worship is complete",
+   "uncertainties": [],
+   "plain_english": "Thus, O blessed one, the worship of the first enclosure has been told to you."
+  },
+  {
+   "verse": 1436,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśapatreṣu",
+     "gloss": "in-sixteen-petals",
+     "grounds": "location in the sixteen-petaled lotus",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kāmākarṣiṇikāṃ",
+     "gloss": "desire-attracting-one",
+     "grounds": "name of the deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "Which deity should be worshipped first in the sixteen-petaled enclosure?",
+   "premises": [
+    "The next location is the sixteen petals",
+    "Kāmākarṣiṇikā is the object of worship"
+   ],
+   "inference": "One should worship Kāmākarṣiṇikā in the sixteen petals",
+   "uncertainties": [],
+   "plain_english": "Then, in the sixteen petals, one should worship Kāmākarṣiṇikā."
+  },
+  {
+   "verse": 1437,
+   "rows": [
+    {
+     "surface": "kāmākarṣiṇikā",
+     "gloss": "desire-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhyākarṣiṇikā",
+     "gloss": "intellect-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which attracting deities are named in this part of the sequence?",
+   "premises": [
+    "Kāmākarṣiṇikā is named",
+    "Buddhyākarṣiṇikā is named likewise"
+   ],
+   "inference": "The sequence includes Kāmākarṣiṇikā and Buddhyākarṣiṇikā",
+   "uncertainties": [],
+   "plain_english": "Kāmākarṣiṇikā, and indeed Buddhyākarṣiṇikā likewise."
+  },
+  {
+   "verse": 1438,
+   "rows": [
+    {
+     "surface": "sparśākarṣiṇikā",
+     "gloss": "touch-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpākarṣiṇikā",
+     "gloss": "form-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further attracting deities continue the sixteen-petal sequence?",
+   "premises": [
+    "Sparśākarṣiṇikā is named",
+    "Rūpākarṣiṇikā is named likewise"
+   ],
+   "inference": "The sequence continues with Sparśākarṣiṇikā and Rūpākarṣiṇikā",
+   "uncertainties": [],
+   "plain_english": "Sparśākarṣiṇikā, and indeed Rūpākarṣiṇikā likewise."
+  },
+  {
+   "verse": 1439,
+   "rows": [
+    {
+     "surface": "cittākarṣiṇikā",
+     "gloss": "mind-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhairyākarṣiṇikā",
+     "gloss": "steadiness-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which attracting deities are added next in the sixteen-petal sequence?",
+   "premises": [
+    "Cittākarṣiṇikā is named",
+    "Dhairyākarṣiṇikā is named likewise"
+   ],
+   "inference": "The sequence continues with Cittākarṣiṇikā and Dhairyākarṣiṇikā",
+   "uncertainties": [],
+   "plain_english": "Cittākarṣiṇikā, and indeed Dhairyākarṣiṇikā likewise."
+  },
+  {
+   "verse": 1440,
+   "rows": [
+    {
+     "surface": "bījākarṣiṇikā",
+     "gloss": "seed-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtākarṣiṇikā",
+     "gloss": "nectar-attracting-one",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which final attracting deities complete this part of the sequence?",
+   "premises": [
+    "Bījākarṣiṇikā is named",
+    "Amṛtākarṣiṇikā is named likewise"
+   ],
+   "inference": "The sequence continues with Bījākarṣiṇikā and Amṛtākarṣiṇikā",
+   "uncertainties": [],
+   "plain_english": "Bījākarṣiṇikā, and indeed Amṛtākarṣiṇikā likewise."
+  },
+  {
+   "verse": 1441,
+   "rows": [
+    {
+     "surface": "sarvāśāpūrake+cakre",
+     "gloss": "in-all-wishes-filling-wheel",
+     "grounds": "compound naming the wheel; + marks internal boundary",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dalaṣoḍaśake",
+     "gloss": "in-sixteen-petals",
+     "grounds": "compound specifying the sixteen-petaled form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "predicate describing their placement",
+     "morph": "f.nom.pl.past-passive-participle"
+    }
+   ],
+   "question": "In which wheel and petal formation are these deities situated?",
+   "premises": [
+    "They are in the all-wishes-filling wheel",
+    "They are in the sixteen-petaled formation"
+   ],
+   "inference": "These deities are situated in the sixteen-petaled all-wishes-filling wheel",
+   "uncertainties": [],
+   "plain_english": "They are situated in the all-wishes-filling wheel with sixteen petals."
+  },
+  {
+   "verse": 1442,
+   "rows": [
+    {
+     "surface": "kalāṣoḍaśarūpāḥ",
+     "gloss": "sixteen-arts-formed",
+     "grounds": "compound identifying them with sixteen arts",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candramaṇḍalamadhyagāḥ",
+     "gloss": "moon-orb-middle-going",
+     "grounds": "compound indicating location in the moon's orb",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What essential form and location characterize these sixteen deities?",
+   "premises": [
+    "They have the form of the sixteen arts",
+    "They dwell in the middle of the moon's orb"
+   ],
+   "inference": "The deities embody the sixteen arts and reside within the moon's orb",
+   "uncertainties": [],
+   "plain_english": "They have the form of the sixteen arts and dwell in the middle of the moon's orb."
+  },
+  {
+   "verse": 1443,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśa+dhara",
+     "gloss": "noose-goad-bearing",
+     "grounds": "compound describing held implements; + marks internal boundary",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sudhāpūrṇa",
+     "gloss": "nectar-filled",
+     "grounds": "compound describing the vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāśmarīghaṭadānandāḥ",
+     "gloss": "kāśmarī-pot-giving-delight",
+     "grounds": "compound describing the nectar-filled kāśmarī pot they hold",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What implements and nectar vessel do these deities bear?",
+   "premises": [
+    "They bear noose and goad",
+    "They delight in giving a nectar-filled kāśmarī pot"
+   ],
+   "inference": "The deities hold noose and goad and a nectar-filled kāśmarī pot",
+   "uncertainties": [
+    "The exact sense of kāśmarīghaṭadānandāḥ as a compound is interpretive"
+   ],
+   "plain_english": "They bear noose and goad and delight in holding a nectar-filled kāśmarī pot."
+  },
+  {
+   "verse": 1444,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "vidrāviṇīṃ",
+     "gloss": "dispersing",
+     "grounds": "name or epithet of the seal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "ritual hand gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "one-should-show",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-causative-active √dṛś"
+    },
+    {
+     "surface": "bhāgyahetave",
+     "gloss": "for-fortune-cause",
+     "grounds": "purpose of showing the seal",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Which seal should be displayed and for what purpose during worship?",
+   "premises": [
+    "One should worship and show the vidrāviṇī seal",
+    "The purpose is for fortune"
+   ],
+   "inference": "The vidrāviṇī seal should be shown during worship to bring fortune",
+   "uncertainties": [],
+   "plain_english": "One should worship and show the vidrāviṇī seal for the sake of good fortune."
+  },
+  {
+   "verse": 1445,
+   "rows": [
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "location of the offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samudrā+ityādi",
+     "gloss": "ocean-etcetera",
+     "grounds": "compound indicating formula beginning; + marks internal boundary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "ritual offering of flowers",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "ritual action",
+     "morph": "3.sg.optative-active √kṣip"
+    }
+   ],
+   "question": "What offering and formula should be cast to the goddess in the wheel?",
+   "premises": [
+    "The offering is a handful of flowers",
+    "It is cast in the wheel to the goddess with the 'samudrā' formula and so on"
+   ],
+   "inference": "One should cast a flower offering to the goddess in the wheel using the prescribed formula",
+   "uncertainties": [
+    "The full mantra beginning with samudrā is abbreviated as ityādi"
+   ],
+   "plain_english": "In the wheel, one should cast a handful of flowers to the goddess with the formula beginning 'samudrā' and so forth."
+  },
+  {
+   "verse": 1446,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "manner of offering",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "samarpaye",
+     "gloss": "i-offer",
+     "grounds": "declarative ritual utterance",
+     "morph": "1.sg.present-middle sam-√ṛ"
+    },
+    {
+     "surface": "tubhyaṃ",
+     "gloss": "to-you",
+     "grounds": "recipient of the offering",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "dvitīyāvaraṇārcanam",
+     "gloss": "second-enclosure-worship",
+     "grounds": "compound naming the ritual offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering is formally dedicated upon completing the second enclosure?",
+   "premises": [
+    "The worshipper offers with devotion",
+    "The offering is the worship of the second enclosure"
+   ],
+   "inference": "The worship of the second enclosure is offered to the goddess with devotion",
+   "uncertainties": [],
+   "plain_english": "With devotion I offer to you the worship of the second enclosure."
+  },
+  {
+   "verse": 1447,
+   "rows": [
+    {
+     "surface": "sarvasaṃkṣobhaṇe+cakre",
+     "gloss": "in-all-agitating-wheel",
+     "grounds": "compound naming the wheel; + marks internal boundary",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dalāṣṭakavijṛmbhite",
+     "gloss": "in-eight-petal-expanded",
+     "grounds": "compound describing the eight-petaled expansion",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which wheel and petal structure form the next ritual location?",
+   "premises": [
+    "The location is the all-agitating wheel",
+    "It is expanded with eight petals"
+   ],
+   "inference": "The next ritual location is the all-agitating wheel expanded into eight petals",
+   "uncertainties": [],
+   "plain_english": "In the all-agitating wheel, expanded with eight petals."
+  },
+  {
+   "verse": 1448,
+   "rows": [
+    {
+     "surface": "pūrvādidikṣu",
+     "gloss": "in-east-etc-directions",
+     "grounds": "compound indicating cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "patreṣu",
+     "gloss": "in-petals",
+     "grounds": "location on the petals",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "āgneyādividikṣu",
+     "gloss": "in-southeast-etc-intermediate-directions",
+     "grounds": "compound indicating intermediate directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which directional petals are the next deities to be placed?",
+   "premises": [
+    "Placements are in the east and other cardinal directions",
+    "Placements are also in the southeast and other intermediate directions"
+   ],
+   "inference": "The deities are placed in petals aligned with cardinal and intermediate directions",
+   "uncertainties": [],
+   "plain_english": "In the petals in the east and other directions, and in the southeast and other intermediate directions."
+  },
+  {
+   "verse": 1449,
+   "rows": [
+    {
+     "surface": "anaṅgamadanā",
+     "gloss": "love-god-madana",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anaṅgamadanāturā",
+     "gloss": "love-god-madana-afflicted",
+     "grounds": "name of a deity in the sequence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities are named in sequence within this eight-petaled wheel?",
+   "premises": [
+    "Anaṅgamadanā is named",
+    "Anaṅgamadanāturā follows after"
+   ],
+   "inference": "The sequence includes Anaṅgamadanā and then Anaṅgamadanāturā",
+   "uncertainties": [],
+   "plain_english": "Anaṅgamadanā, and after her Anaṅgamadanāturā."
+  }
+ ]
+}

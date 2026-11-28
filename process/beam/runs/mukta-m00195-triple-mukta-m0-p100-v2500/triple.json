@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "upadhmānīya",
+     "gloss": "upadhmānīya-sign",
+     "grounds": "name of the bilabial fricative phonetic sign; taken as joined with the following",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "past participle qualifying pakāraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakāraḥ",
+     "gloss": "letter-pa",
+     "grounds": "the phoneme pa as subject of the count",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun indicating consequence of the stated distinction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that context of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral giving the resulting count of forms",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does joining the letter pa with upadhmānīya affect its count among the enumerated phonetic forms?",
+   "premises": [
+    "The letter pa can be joined with the upadhmānīya sign.",
+    "This joined form constitutes a distinct phonetic variant.",
+    "The stated distinctions yield a total count in that context."
+   ],
+   "inference": "Therefore, when pa is joined with upadhmānīya, the total number of relevant forms there becomes six.",
+   "uncertainties": [
+    "The exact set of six forms depends on the preceding verses' enumeration."
+   ],
+   "plain_english": "The letter pa joined with the upadhmānīya sign makes six forms there."
+  }
+ ]
+}

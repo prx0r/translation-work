@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p285",
+ "items": [
+  {
+   "verse": 7125,
+   "rows": [
+    {
+     "surface": "saptāṣṭaṣaṭśatenātha",
+     "gloss": "with-seven-eight-six-hundred-then",
+     "grounds": "compound numeral saptāṣṭaṣaṭśatena fused with indeclinable atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "tāmreṇādhārako",
+     "gloss": "with-copper-support",
+     "grounds": "tāmreṇa fused with ādhārakaḥ by sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabhoḥ",
+     "gloss": "of-lord",
+     "grounds": "refers to the deity",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What copper measure constitutes the support designated for the lord?",
+   "premises": [
+    "A specific numerical measure is prescribed",
+    "Copper is specified as the material",
+    "The support belongs to the lord"
+   ],
+   "inference": "The lord's support is to be made of copper according to the stated measure",
+   "uncertainties": [
+    "The exact interpretation of the numeral sequence saptāṣṭaṣaṭa as seven-eight-six is inferred from the legacy hint"
+   ],
+   "plain_english": "Then, with seven hundred and eighty-six, the support for the Lord is to be made of copper."
+  }
+ ]
+}

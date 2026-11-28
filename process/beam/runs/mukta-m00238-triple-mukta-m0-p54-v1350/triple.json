@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "viṣṇupādāṃkitaśirāḥ",
+     "gloss": "viṣṇu-foot-marked-head",
+     "grounds": "compound naming a head marked by Viṣṇu's foot",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ciraṃ",
+     "gloss": "long",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvī",
+     "gloss": "long-lived",
+     "grounds": "adjective describing the one addressed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasīdatu",
+     "gloss": "be-gracious",
+     "grounds": "imperative verb of blessing",
+     "morph": "3.sg.act.imp. (prasād)"
+    }
+   ],
+   "question": "What blessing is being invoked for the long-lived one whose head bears Viṣṇu's foot-mark?",
+   "premises": [
+    "Head bears Viṣṇu foot-mark.",
+    "Long-lived one is addressed.",
+    "Verb asks for grace."
+   ],
+   "inference": "The verse invokes gracious blessing upon the immortal marked one.",
+   "uncertainties": [
+    "Morphological case of śirāḥ is uncertain; treated as nominative singular."
+   ],
+   "plain_english": "May the long-lived one whose head is marked by Viṣṇu's foot be gracious."
+  }
+ ]
+}

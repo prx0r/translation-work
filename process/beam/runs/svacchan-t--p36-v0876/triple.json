@@ -1,0 +1,509 @@
+{
+ "song": "sva-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "varṇāṃś",
+     "gloss": "colors",
+     "grounds": "accusative plural of varṇa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibodha",
+     "gloss": "know",
+     "grounds": "imperative of nibudh",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "genitive of aham",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What colors are to be known from me?",
+   "premises": [
+    "colors are to be known",
+    "the speaker asks attention",
+    "me indicates source"
+   ],
+   "inference": "The verse asks the listener to learn the colors from the speaker.",
+   "uncertainties": [
+    "exact referent of colors"
+   ],
+   "plain_english": "Know the colors from me."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇakaḥ",
+     "gloss": "authoritative",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is declared authoritative in this way?",
+   "premises": [
+    "thus marks quotation",
+    "that is authoritative",
+    "statement is validated"
+   ],
+   "inference": "The preceding statement is presented as authoritative.",
+   "uncertainties": [
+    "scope of tat"
+   ],
+   "plain_english": "Thus that is authoritative."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "aneka",
+     "gloss": "many",
+     "grounds": "negative compound with eka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇa",
+     "gloss": "qualities",
+     "grounds": "nominative plural implied",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sampannaḥ",
+     "gloss": "endowed",
+     "grounds": "past participle of sampad",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meruḥ",
+     "gloss": "Meru",
+     "grounds": "proper noun nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khyātaḥ",
+     "gloss": "famous",
+     "grounds": "past participle of khyā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "in-brief",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is Meru described in brief?",
+   "premises": [
+    "Meru is famous",
+    "Meru is endowed with many qualities",
+    "description is brief"
+   ],
+   "inference": "Meru is briefly described as famous and endowed with many qualities.",
+   "uncertainties": [
+    "exact quality list"
+   ],
+   "plain_english": "Meru, endowed with many qualities, is famous in brief."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific prefix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāyām",
+     "gloss": "parā",
+     "grounds": "locative feminine singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nirūpitam",
+     "gloss": "explained",
+     "grounds": "past participle of nirūp",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has been explained in the parā?",
+   "premises": [
+    "thus closes statement",
+    "parā is locative",
+    "explained is participle"
+   ],
+   "inference": "Something has been explained in the parā section.",
+   "uncertainties": [
+    "antecedent of explained"
+   ],
+   "plain_english": "Thus it is explained in the parā."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "eastern",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abdheḥ",
+     "gloss": "ocean",
+     "grounds": "genitive singular of abdhi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścima",
+     "gloss": "western",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abdhiṃ",
+     "gloss": "ocean",
+     "grounds": "accusative singular of abdhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāptāḥ",
+     "gloss": "arrived",
+     "grounds": "past participle of prāp",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who arrived from eastern ocean to western ocean?",
+   "premises": [
+    "eastern ocean is source",
+    "western ocean is destination",
+    "arrived is plural"
+   ],
+   "inference": "Some plural subjects arrived from the eastern ocean to the western ocean.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "They arrived from the eastern ocean to the western ocean."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific prefix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāyām",
+     "gloss": "parā",
+     "grounds": "locative feminine singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle of vac",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What was said in the parā?",
+   "premises": [
+    "thus closes statement",
+    "parā is locative",
+    "said is participle"
+   ],
+   "inference": "Something was said in the parā section.",
+   "uncertainties": [
+    "antecedent of said"
+   ],
+   "plain_english": "Thus it was said in the parā."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "meroḥ",
+     "gloss": "of-Meru",
+     "grounds": "genitive singular of Meru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāsā",
+     "gloss": "radiance",
+     "grounds": "instrumental singular of bhās",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prabhāsitam",
+     "gloss": "illuminated",
+     "grounds": "past participle of prabhās",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is illuminated by Meru's radiance?",
+   "premises": [
+    "Meru is genitive source",
+    "radiance is instrumental",
+    "illuminated is participle"
+   ],
+   "inference": "Something is illuminated by the radiance of Meru.",
+   "uncertainties": [
+    "illuminated object"
+   ],
+   "plain_english": "Illuminated by Meru's radiance."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "jambū",
+     "gloss": "rose-apple",
+     "grounds": "compound first member",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "rasa",
+     "gloss": "fruit",
+     "grounds": "compound second member",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "āhārāḥ",
+     "gloss": "food",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jarāmṛtyu",
+     "gloss": "age-death",
+     "grounds": "compound",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "vivajitāḥ",
+     "gloss": "avoiding",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who avoids age and death by rose-apple food?",
+   "premises": [
+    "rose-apple food is subject",
+    "age-death is avoided",
+    "participle is plural"
+   ],
+   "inference": "Those who eat rose-apple food avoid age and death.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Eaters of rose-apple food avoid age and death."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "varṣam",
+     "gloss": "land",
+     "grounds": "accusative singular of varṣa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janapadaḥ",
+     "gloss": "country",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What land is called a country?",
+   "premises": [
+    "land is accusative",
+    "country is nominative",
+    "two nouns paired"
+   ],
+   "inference": "A land is identified as a country.",
+   "uncertainties": [
+    "exact land"
+   ],
+   "plain_english": "The land is a country."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "panasasya",
+     "gloss": "jackfruit",
+     "grounds": "genitive singular of panasa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rasam",
+     "gloss": "juice",
+     "grounds": "accusative singular of rasa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "drinking",
+     "grounds": "absolutive of pā",
+     "morph": "(absol.)"
+    },
+    {
+     "surface": "jīvanti",
+     "gloss": "live",
+     "grounds": "present indicative of jīv",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ayutam",
+     "gloss": "ten-thousand",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long do they live after drinking jackfruit juice?",
+   "premises": [
+    "jackfruit juice is drunk",
+    "living follows drinking",
+    "ten-thousand is duration"
+   ],
+   "inference": "They live ten thousand after drinking jackfruit juice.",
+   "uncertainties": [
+    "unit of ten-thousand"
+   ],
+   "plain_english": "Drinking jackfruit juice, they live ten thousand."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "kuru",
+     "gloss": "Kuru",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṣa",
+     "gloss": "land",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nivāsinaḥ",
+     "gloss": "dwellers",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the dwellers of Kuru land?",
+   "premises": [
+    "Kuru modifies land",
+    "dwellers is plural",
+    "land is nominative"
+   ],
+   "inference": "The dwellers of Kuru land are named.",
+   "uncertainties": [
+    "dwellers identity"
+   ],
+   "plain_english": "Dwellers of Kuru land."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "striyaḥ",
+     "gloss": "women",
+     "grounds": "nominative plural of strī",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning involving women?",
+   "premises": [
+    "women is nominative plural",
+    "thus closes statement",
+    "meaning is nominative"
+   ],
+   "inference": "The meaning includes women.",
+   "uncertainties": [
+    "full meaning"
+   ],
+   "plain_english": "Women, thus is the meaning."
+  }
+ ]
+}

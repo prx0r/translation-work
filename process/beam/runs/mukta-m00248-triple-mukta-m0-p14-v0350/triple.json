@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking end of chapter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kalottara",
+     "grounds": "locative of title Kālottara",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "antaḥkaraṇa+paṭalaḥ",
+     "gloss": "inner-organ-chapter",
+     "grounds": "compound antaḥkaraṇa (inner organ) + paṭala (chapter/section), nominative singular masculine",
+     "morph": "compound=antaḥkaraṇa+paṭalaḥ, nom.sg.m"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective in nominative singular masculine",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What chapter of the Kālottara treats the inner organ?",
+   "premises": [
+    "This verse closes the chapter.",
+    "It names the seventh chapter.",
+    "The chapter concerns inner organ."
+   ],
+   "inference": "The Kālottara's seventh chapter is the inner-organ chapter.",
+   "uncertainties": [
+    "Exact scope of antaḥkaraṇa-paṭala unverified."
+   ],
+   "plain_english": "Thus in the Kālottara, the seventh chapter is the chapter on the inner organ."
+  }
+ ]
+}

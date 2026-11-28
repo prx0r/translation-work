@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmajjñānānandaparamahaṃsaviracite",
+     "gloss": "in-composed-by-śrī-jñānānanda-paramahaṃsa",
+     "grounds": "locative adjective modifying kaulāvalīnirṇaye; compound name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaulāvalīnirṇaye",
+     "gloss": "in-kaulāvalī-nirṇaya",
+     "grounds": "locative of title",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prathamollāsaḥ",
+     "gloss": "first-ullāsa",
+     "grounds": "nominative subject of colophon",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is named as composer of Kaulāvalīnirṇaya and which section ends here?",
+   "premises": [
+    "iti marks the conclusion of the section",
+    "the composer is named as śrī jñānānanda paramahaṃsa",
+    "the section named is the first ullāsa"
+   ],
+   "inference": "The colophon attributes the first ullāsa of Kaulāvalīnirṇaya to Śrī Jñānānanda Paramahaṃsa.",
+   "uncertainties": [
+    "exact sandhi and compound boundaries are not expanded beyond the fused token"
+   ],
+   "plain_english": "Thus ends the first ullāsa of the Kaulāvalīnirṇaya composed by Śrī Jñānānanda Paramahaṃsa."
+  }
+ ]
+}

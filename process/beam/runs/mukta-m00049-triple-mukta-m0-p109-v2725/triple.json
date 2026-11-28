@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "mūkānām",
+     "gloss": "of-the-mute",
+     "grounds": "refers to persons unable to speak",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "eḍa+mūkānāṃ",
+     "gloss": "of-the-deaf-mute",
+     "grounds": "compound denoting persons both deaf and mute; analyzed as fused form",
+     "morph": "eḍa-mūka+m.gen.pl"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "by-head",
+     "grounds": "instrument indicating the means of expressing assent",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "aṅgīkṛtiḥ",
+     "gloss": "assent",
+     "grounds": "act of acceptance or agreement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lipiḥ",
+     "gloss": "writing",
+     "grounds": "written sign serving as an alternative means of assent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By what means can mute and deaf-mute witnesses convey valid assent?",
+   "premises": [
+    "Mute persons cannot convey assent through spoken words.",
+    "Deaf-mute persons likewise lack ordinary verbal expression.",
+    "A nod of the head or writing can communicate agreement."
+   ],
+   "inference": "Therefore, for mute and deaf-mute witnesses, assent is conveyed by a nod of the head or by writing.",
+   "uncertainties": [
+    "The exact evidentiary status of such assent in this context depends on the preceding discussion of witness testimony."
+   ],
+   "plain_english": "For mute and deaf-mute persons, assent is expressed by a nod of the head or by writing."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a possible case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśramaṃ",
+     "gloss": "hermitage",
+     "grounds": "dwelling or retreat as object of construction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive action of constructing",
+     "morph": "3.sg.optative.act-√kṛ"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "indicates continual or enduring manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitribhūmikam",
+     "gloss": "two-or-three-storied",
+     "grounds": "compound specifying the number of levels; dvi+tri+bhūmika",
+     "morph": "compound:dvi-tri-bhūmika;m.acc.sg"
+    }
+   ],
+   "question": "What storied height is prescribed for the construction of an āśrama?",
+   "premises": [
+    "A builder may undertake construction of an āśrama.",
+    "The construction is to be carried out as an enduring arrangement.",
+    "The prescribed āśrama has two or three stories."
+   ],
+   "inference": "If one constructs an āśrama, it should be made with two or three stories.",
+   "uncertainties": [],
+   "plain_english": "If indeed one should make a hermitage, it should always be built with two or three stories."
+  }
+ ]
+}

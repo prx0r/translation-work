@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "prātareva",
+     "gloss": "early-indeed",
+     "grounds": "prātar + eva; in the morning indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "particle hi; for/indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japtavyam",
+     "gloss": "to-be-chanted",
+     "grounds": "gerundive of jap; to be chanted",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "aṣṭottarasahasrakam",
+     "gloss": "one-thousand-eight",
+     "grounds": "compound aṣṭa + uttara + sahasra; one thousand eight",
+     "morph": "neut.acc.sg"
+    }
+   ],
+   "question": "Is the prescribed morning repetition count one thousand eight?",
+   "premises": [
+    "morning chanting is prescribed",
+    "the count is one thousand eight",
+    "the mantra is to be chanted"
+   ],
+   "inference": "The verse prescribes chanting one thousand eight repetitions in the morning.",
+   "uncertainties": [
+    "exact syntactic role of aṣṭottarasahasrakam remains contextual",
+    "whether the count modifies japtavyam directly is inferred"
+   ],
+   "plain_english": "Indeed, in the morning, one thousand eight are to be chanted."
+  }
+ ]
+}

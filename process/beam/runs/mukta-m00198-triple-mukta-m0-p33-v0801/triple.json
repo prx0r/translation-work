@@ -1,0 +1,1039 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 801,
+   "rows": [
+    {
+     "surface": "prāsāda",
+     "gloss": "temple",
+     "grounds": "base element of comparison for the pavilion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sadṛśaṃ",
+     "gloss": "similar-to",
+     "grounds": "indicates likeness in breadth",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "dimension being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttamatraya",
+     "gloss": "best-three",
+     "grounds": "qualifies the class of pavilion; compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maṇṭapam",
+     "gloss": "pavilion",
+     "grounds": "object whose measure is prescribed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What breadth characterizes the pavilion of the best three types?",
+   "premises": [
+    "A pavilion is being prescribed.",
+    "Its breadth is compared to the temple.",
+    "The prescription applies to the best three types."
+   ],
+   "inference": "The pavilion of the best three types should have a breadth similar to that of the temple.",
+   "uncertainties": [],
+   "plain_english": "The pavilion of the best three types should have a breadth similar to that of the temple."
+  },
+  {
+   "verse": 802,
+   "rows": [
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-staff-measure",
+     "grounds": "specifies distance; compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveśaṃ",
+     "gloss": "entrance",
+     "grounds": "element whose placement is specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasūtrāt",
+     "gloss": "from-measure-cord",
+     "grounds": "reference line for placement; compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address; compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How far from the measure cord should the entrance be placed?",
+   "premises": [
+    "An entrance placement is being prescribed.",
+    "The measure cord serves as the reference line.",
+    "A distance of two staff-measures is specified."
+   ],
+   "inference": "The entrance should be placed two staff-measures from the measure cord.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, the entrance should be placed two staff-measures from the measure cord."
+  },
+  {
+   "verse": 803,
+   "rows": [
+    {
+     "surface": "yugmastaṃbhasamāyuktaṃ",
+     "gloss": "endowed-with-paired-pillars",
+     "grounds": "describes structural feature; fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "with-proper-arrangement",
+     "grounds": "indicates method of construction",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sarvāṃgaśobhitam",
+     "gloss": "adorned-in-all-parts",
+     "grounds": "describes overall appearance; compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What structural and aesthetic qualities must the pavilion possess?",
+   "premises": [
+    "The pavilion is described with paired pillars.",
+    "Proper arrangement is required in its construction.",
+    "It should be adorned in all its parts."
+   ],
+   "inference": "The pavilion should be properly arranged with paired pillars and adorned in all its parts.",
+   "uncertainties": [],
+   "plain_english": "It should be properly arranged with paired pillars and adorned in all its parts."
+  },
+  {
+   "verse": 804,
+   "rows": [
+    {
+     "surface": "sāvakāśāntarālaṃ",
+     "gloss": "having-spacious-interval",
+     "grounds": "condition describing an intermediate space; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddīrghaṃ",
+     "gloss": "its-length",
+     "grounds": "refers to the length of that interval; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitricatuṣkaram",
+     "gloss": "two-three-four-cubits",
+     "grounds": "specifies possible lengths; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed when the pavilion has a spacious interval?",
+   "premises": [
+    "A case with a spacious interval is considered.",
+    "The length of that interval is specified.",
+    "Permitted measures are two, three, or four cubits."
+   ],
+   "inference": "If there is a spacious interval, its length should be two, three, or four cubits.",
+   "uncertainties": [],
+   "plain_english": "If there is a spacious interval, its length should be two, three, or four cubits."
+  },
+  {
+   "verse": 805,
+   "rows": [
+    {
+     "surface": "prāsādabhittivistāratulyaṃ",
+     "gloss": "equal-to-temple-wall-breadth",
+     "grounds": "specifies one possible measure; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vārdhaṃ",
+     "gloss": "or-half",
+     "grounds": "alternative measure; sandhi fusion of vā and ardham",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādakam",
+     "gloss": "three-quarters",
+     "grounds": "another alternative measure; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative breadths are permitted relative to the temple wall?",
+   "premises": [
+    "The temple wall breadth is a reference measure.",
+    "Equality to that breadth is permitted.",
+    "Half or three-quarters of that breadth are also permitted."
+   ],
+   "inference": "The breadth may be equal to the temple wall, or half, or three-quarters of it.",
+   "uncertainties": [],
+   "plain_english": "It may be equal to the breadth of the temple wall, or half, or three-quarters of it."
+  },
+  {
+   "verse": 806,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "with-towers-cells-and-so-on",
+     "grounds": "lists architectural elements; compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "indicates inclusion of those elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "separate",
+     "grounds": "alternative structural form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhamaṇṭapam",
+     "gloss": "front-pavilion",
+     "grounds": "object being described; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What structural forms may the front pavilion take?",
+   "premises": [
+    "The front pavilion is the subject.",
+    "It may include towers, cells, and similar elements.",
+    "It may alternatively be separate in form."
+   ],
+   "inference": "The front pavilion may be endowed with towers, cells, and so on, or it may be separate.",
+   "uncertainties": [],
+   "plain_english": "The front pavilion may be furnished with towers, cells, and the like, or it may be separate."
+  },
+  {
+   "verse": 807,
+   "rows": [
+    {
+     "surface": "ekānekatalaṃ",
+     "gloss": "one-or-many-stories",
+     "grounds": "specifies possible number of stories; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative; sandhi fusion of vā and atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhamaṇṭapam",
+     "gloss": "front-pavilion",
+     "grounds": "object to be constructed; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many stories may the front pavilion be constructed with?",
+   "premises": [
+    "The front pavilion is to be constructed.",
+    "It may have one story.",
+    "It may have multiple stories."
+   ],
+   "inference": "The front pavilion should be made with one story or with many stories.",
+   "uncertainties": [],
+   "plain_english": "The front pavilion should be made with one story or with many stories."
+  },
+  {
+   "verse": 808,
+   "rows": [
+    {
+     "surface": "paṃcabhāge",
+     "gloss": "in-five-parts",
+     "grounds": "specifies a division scheme; compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "portion taken from the division; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects proportional prescriptions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "portion taken from another division; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptabhājite",
+     "gloss": "in-seven-divisions",
+     "grounds": "specifies another division scheme; compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed using five-part and seven-part divisions?",
+   "premises": [
+    "A five-part division is considered.",
+    "Three parts may be taken from it.",
+    "Four parts may be taken from a seven-part division."
+   ],
+   "inference": "The measure may be three parts out of five, or four parts out of seven.",
+   "uncertainties": [],
+   "plain_english": "It may be three parts out of five, or four parts out of seven."
+  },
+  {
+   "verse": 809,
+   "rows": [
+    {
+     "surface": "trayodaśāṃśe",
+     "gloss": "in-thirteen-parts",
+     "grounds": "specifies a division scheme; compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptāṃśaṃ",
+     "gloss": "seven-parts",
+     "grounds": "portion taken from thirteen; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vasvaṃśaṃ",
+     "gloss": "eight-parts",
+     "grounds": "portion taken from fifteen; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tithi",
+     "gloss": "fifteen",
+     "grounds": "numerical base for division; compound-member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "in-divisions",
+     "grounds": "indicates division into parts",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed using thirteen-part and fifteen-part divisions?",
+   "premises": [
+    "A thirteen-part division is considered.",
+    "Seven parts may be taken from it.",
+    "Eight parts may be taken from a fifteen-part division."
+   ],
+   "inference": "The measure may be seven parts out of thirteen, or eight parts out of fifteen.",
+   "uncertainties": [],
+   "plain_english": "It may be seven parts out of thirteen, or eight parts out of fifteen."
+  },
+  {
+   "verse": 810,
+   "rows": [
+    {
+     "surface": "garbhagehasya",
+     "gloss": "of-sanctum",
+     "grounds": "possessor of the breadth being described; compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "dimension declared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "in-nine-ways",
+     "grounds": "indicates ninefold classification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitāṃ",
+     "gloss": "declared",
+     "grounds": "states that the measure has been taught",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker asserting authority",
+     "morph": "1.inst.sg"
+    }
+   ],
+   "question": "How has the breadth of the sanctum been classified by the speaker?",
+   "premises": [
+    "The breadth of the sanctum is the subject.",
+    "The speaker declares this classification.",
+    "The classification is ninefold."
+   ],
+   "inference": "The breadth of the sanctum has been declared by me in nine ways.",
+   "uncertainties": [],
+   "plain_english": "I have declared the breadth of the sanctum in nine ways."
+  },
+  {
+   "verse": 811,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "enumerates possible numbers of walls; compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhittiḥ",
+     "gloss": "wall",
+     "grounds": "structural element being counted",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "prescriptive possibility",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "ekabhūmike",
+     "gloss": "in-one-story-building",
+     "grounds": "context for the wall count; compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many walls are permitted in a single-story building?",
+   "premises": [
+    "A single-story building is the context.",
+    "The number of walls is specified.",
+    "Permitted counts range from one to five."
+   ],
+   "inference": "In a single-story building there may be one, two, three, four, or five walls.",
+   "uncertainties": [],
+   "plain_english": "In a single-story building there may be one, two, three, four, or five walls."
+  },
+  {
+   "verse": 812,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "specifies proportion for the base; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caraṇāyāmaṃ",
+     "gloss": "base-height",
+     "grounds": "vertical measure of the base; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prastarārdhaikabhāgayā",
+     "gloss": "with-one-part-half-of-entablature",
+     "grounds": "specifies proportion for the entablature; compound",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What proportions are assigned to the base height and the entablature?",
+   "premises": [
+    "The base height is assigned a measure.",
+    "The entablature is assigned a related measure.",
+    "The base is two parts and the entablature one part as half of that scheme."
+   ],
+   "inference": "The base height should be two parts and the entablature one part in that proportion.",
+   "uncertainties": [
+    "The exact proportional relation expressed by prastarārdhaikabhāgayā is somewhat compressed."
+   ],
+   "plain_english": "The base height should be two parts, with the entablature proportioned accordingly as one part."
+  },
+  {
+   "verse": 813,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "specifies proportion for the finial height",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stūpi",
+     "gloss": "finial",
+     "grounds": "architectural element; compound-member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "vertical measure of the finial",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalpyevaṃ",
+     "gloss": "thus-to-be-devised",
+     "grounds": "prescribes the arrangement; sandhi fusion of kalpyam and evam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntikaṃ",
+     "gloss": "peaceful",
+     "grounds": "names the resulting type of building",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "states the outcome",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What finial proportion produces the peaceful type of building?",
+   "premises": [
+    "The finial height is specified as one part.",
+    "This arrangement is to be devised accordingly.",
+    "The resulting building is designated peaceful."
+   ],
+   "inference": "When the finial height is devised as one part, the building is of the peaceful type.",
+   "uncertainties": [],
+   "plain_english": "If the finial height is made one part in this way, the building will be of the peaceful type."
+  },
+  {
+   "verse": 814,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "amount to be omitted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rahitaṃ",
+     "gloss": "devoid",
+     "grounds": "indicates omission",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains after omission",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṃcaṃ",
+     "gloss": "platform",
+     "grounds": "element being measured",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvadeva",
+     "gloss": "just-as-before",
+     "grounds": "refers to previous prescription; compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative arrangements are allowed for the platform measure?",
+   "premises": [
+    "One part may be omitted from the measure.",
+    "The remainder may form the platform.",
+    "Alternatively it may follow the previous prescription."
+   ],
+   "inference": "The platform may be the remainder after omitting one part, or it may be as before.",
+   "uncertainties": [],
+   "plain_english": "The platform may be the remainder after omitting one part, or it may be just as before."
+  },
+  {
+   "verse": 815,
+   "rows": [
+    {
+     "surface": "sadanocce",
+     "gloss": "in-building-height",
+     "grounds": "total height taken as the base; compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "navāṃśe",
+     "gloss": "in-nine-parts",
+     "grounds": "division of the total height; compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "portion assigned to the story height; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talodayam",
+     "gloss": "story-height",
+     "grounds": "vertical measure of the story; compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What portion of a nine-part building height is assigned to the story height?",
+   "premises": [
+    "The total building height is divided into nine parts.",
+    "A portion is assigned to the story height.",
+    "That portion is four parts."
+   ],
+   "inference": "When the building height is divided into nine parts, the story height should be four parts.",
+   "uncertainties": [],
+   "plain_english": "When the building height is divided into nine parts, the story height should be four parts."
+  },
+  {
+   "verse": 816,
+   "rows": [
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "measure of the platform; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaikāṃśaṃ",
+     "gloss": "likewise-one-part",
+     "grounds": "assigns one part; sandhi fusion of tathā and ekāṃśam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhapādāṃśakaṃ",
+     "gloss": "one-and-a-quarter-parts",
+     "grounds": "specifies measure for the neck; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "architectural element above the entablature",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measures are assigned to the platform and the neck in this scheme?",
+   "premises": [
+    "The platform measure is specified.",
+    "The platform is assigned one part.",
+    "The neck is assigned one and a quarter parts."
+   ],
+   "inference": "The platform measure should be one part, and the neck one and a quarter parts.",
+   "uncertainties": [],
+   "plain_english": "The platform should be one part, and the neck one and a quarter parts."
+  },
+  {
+   "verse": 817,
+   "rows": [
+    {
+     "surface": "stūpyutsedhaṃ",
+     "gloss": "finial-height",
+     "grounds": "vertical measure of the finial; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathaikāṃśaṃ",
+     "gloss": "likewise-one-part",
+     "grounds": "assigns one part; sandhi fusion of tathā and ekāṃśam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pauṣṭikaṃ",
+     "gloss": "nourishing",
+     "grounds": "names the resulting type of building",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadanānvitam",
+     "gloss": "endowed-building",
+     "grounds": "describes the building with this configuration; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What finial measure characterizes the nourishing type of building?",
+   "premises": [
+    "The finial height is specified.",
+    "It is assigned one part.",
+    "The resulting building is designated nourishing."
+   ],
+   "inference": "A building with a finial height of one part in this scheme is of the nourishing type.",
+   "uncertainties": [],
+   "plain_english": "With the finial height likewise one part, the building is of the nourishing type."
+  },
+  {
+   "verse": 818,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "two-and-a-half-parts",
+     "grounds": "specifies proportion for the base height; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "base-height",
+     "grounds": "vertical measure of the base; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prastaraṃ",
+     "gloss": "entablature",
+     "grounds": "architectural element above the base",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "four-parts",
+     "grounds": "specifies proportion for the entablature; compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportions are assigned to the base height and entablature in this scheme?",
+   "premises": [
+    "The base height is specified.",
+    "The entablature is specified.",
+    "The base is two and a half parts and the entablature four parts."
+   ],
+   "inference": "The base height should be two and a half parts and the entablature four parts.",
+   "uncertainties": [],
+   "plain_english": "The base height should be two and a half parts, and the entablature four parts."
+  },
+  {
+   "verse": 819,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃstūpimānaṃ",
+     "gloss": "one-part-finial-measure",
+     "grounds": "specifies finial measure; fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayadaṃ",
+     "gloss": "victory-giving",
+     "grounds": "names the resulting type of building; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "refers to the prescribed configuration; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What finial measure defines the victory-giving type of building?",
+   "premises": [
+    "The finial measure is specified as one part.",
+    "This configuration is declared.",
+    "The resulting building is designated victory-giving."
+   ],
+   "inference": "A finial measure of one part in this scheme is declared to produce the victory-giving type.",
+   "uncertainties": [],
+   "plain_english": "With a finial measure of one part, that building is declared to be victory-giving."
+  },
+  {
+   "verse": 820,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "two-and-a-half-parts",
+     "grounds": "specifies proportion for the base height; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "base-height",
+     "grounds": "vertical measure of the base; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prastaraṃ",
+     "gloss": "entablature",
+     "grounds": "architectural element above the base",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "four-parts",
+     "grounds": "specifies proportion for the entablature; compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportions are again assigned to the base height and entablature here?",
+   "premises": [
+    "The base height is specified.",
+    "The entablature is specified.",
+    "The base is two and a half parts and the entablature four parts."
+   ],
+   "inference": "The base height should be two and a half parts and the entablature four parts.",
+   "uncertainties": [],
+   "plain_english": "The base height should be two and a half parts, and the entablature four parts."
+  },
+  {
+   "verse": 821,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion of the total height",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stūpyudayaṃ",
+     "gloss": "finial-rise",
+     "grounds": "height of the finial; compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "describes the prescribed type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvadbhutaṃ",
+     "gloss": "wonderful",
+     "grounds": "names the resulting type of building",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "building",
+     "grounds": "object being classified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "states the outcome",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What finial arrangement produces the renowned wonderful type of building?",
+   "premises": [
+    "The remainder of the height is assigned to the finial.",
+    "This configuration is renowned.",
+    "The resulting building is designated wonderful."
+   ],
+   "inference": "When the remainder is the finial rise, the building is of the renowned wonderful type.",
+   "uncertainties": [],
+   "plain_english": "When the remainder is the finial rise, the building is renowned as the wonderful type."
+  },
+  {
+   "verse": 822,
+   "rows": [
+    {
+     "surface": "pakṣāṃśaṃ",
+     "gloss": "two-parts",
+     "grounds": "specifies proportion for the base height; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādatuṃgaṃ",
+     "gloss": "base-height",
+     "grounds": "vertical measure of the base; compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādāṃśaṃ",
+     "gloss": "three-quarter-parts",
+     "grounds": "specifies proportion for the entablature; compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastaram",
+     "gloss": "entablature",
+     "grounds": "architectural element above the base",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportions are assigned to the base height and entablature in this configuration?",
+   "premises": [
+    "The base height is specified.",
+    "The entablature is specified.",
+    "The base is two parts and the entablature three-quarter parts."
+   ],
+   "inference": "The base height should be two parts and the entablature three-quarter parts.",
+   "uncertainties": [],
+   "plain_english": "The base height should be two parts, and the entablature three-quarter parts."
+  },
+  {
+   "verse": 823,
+   "rows": [
+    {
+     "surface": "stūpyutsedhaṃ",
+     "gloss": "finial-height",
+     "grounds": "vertical measure of the finial; compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathaikāṃśaṃ",
+     "gloss": "likewise-one-part",
+     "grounds": "assigns one part; sandhi fusion of tathā and ekāṃśam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "etatsyāt",
+     "gloss": "this-may-be",
+     "grounds": "states the resulting classification; sandhi fusion of etat and syāt",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "sārvakāmikam",
+     "gloss": "fulfilling-all-desires",
+     "grounds": "names the resulting type of building; compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What finial measure defines the building that fulfills all desires?",
+   "premises": [
+    "The finial height is specified.",
+    "It is assigned one part.",
+    "The resulting building is designated as fulfilling all desires."
+   ],
+   "inference": "With a finial height of one part in this scheme, the building is of the all-desire-fulfilling type.",
+   "uncertainties": [],
+   "plain_english": "With the finial height likewise one part, this building is of the type that fulfills all desires."
+  },
+  {
+   "verse": 824,
+   "rows": [
+    {
+     "surface": "viparīte",
+     "gloss": "in-reversal",
+     "grounds": "condition of contrary arrangement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nṛpādīnāṃ",
+     "gloss": "of-kings-and-others",
+     "grounds": "those affected by the fault; compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vipattiṃ",
+     "gloss": "disaster",
+     "grounds": "negative consequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "indicates constant consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "brings",
+     "grounds": "states the causal result",
+     "morph": "3.sg.optative-act √vah"
+    }
+   ],
+   "question": "What consequence follows for kings and others when these proportions are reversed?",
+   "premises": [
+    "A reversal of the prescribed arrangement is considered.",
+    "Kings and others are the affected parties.",
+    "Disaster is the stated consequence."
+   ],
+   "inference": "If the proportions are reversed, it always brings disaster to kings and others.",
+   "uncertainties": [],
+   "plain_english": "If these proportions are reversed, it always brings disaster to kings and others."
+  }
+ ]
+}

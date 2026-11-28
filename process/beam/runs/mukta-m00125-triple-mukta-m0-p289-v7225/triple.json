@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p289",
+ "items": [
+  {
+   "verse": 7225,
+   "rows": [
+    {
+     "surface": "īśānādiṣu",
+     "gloss": "in-beginning-with-īśāna",
+     "grounds": "Locative plural of a compound series beginning with Īśāna, indicating the directions or positions starting from Īśāna.",
+     "morph": "compound: īśāna-ādi, loc.pl"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "Absolutive of sam-sthā, expressing prior action of placing or establishing.",
+     "morph": "gerund, sam-√sthā"
+    },
+    {
+     "surface": "saptaviprān",
+     "gloss": "seven-brahmins",
+     "grounds": "Accusative plural object denoting seven brāhmaṇas to be ritually placed.",
+     "morph": "compound: sapta-vipra, acc.pl.m"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "Optative prescribing the ritual act of worship.",
+     "morph": "3.sg.opt.act, sam-√arc"
+    }
+   ],
+   "question": "What ritual placement and worship of seven brahmins must the guru perform in the designated positions?",
+   "premises": [
+    "The ritual sequence requires action in positions beginning with Īśāna.",
+    "Seven brahmins are to be established in those positions.",
+    "The established brahmins are to be worshipped by the guru."
+   ],
+   "inference": "Therefore, the guru must first establish seven brahmins in the positions beginning with Īśāna and then perform worship of them.",
+   "uncertainties": [
+    "The exact spatial mapping of īśānādiṣu in this specific ritual layout is not fully specified in this verse alone."
+   ],
+   "plain_english": "Having established seven brahmins in the positions beginning with Īśāna, the guru should worship them."
+  }
+ ]
+}

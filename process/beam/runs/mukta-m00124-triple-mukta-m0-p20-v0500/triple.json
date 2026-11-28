@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "vrajet",
+     "gloss": "one-should-go",
+     "grounds": "optative of root vraj, third singular active",
+     "morph": "3.sg.act-opt.√vraj"
+    },
+    {
+     "surface": "deva+kulaṃ",
+     "gloss": "to-temple",
+     "grounds": "compound deva+kula, accusative singular neuter destination",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "to-house",
+     "grounds": "accusative singular neuter destination",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ātmīyam",
+     "gloss": "one's-own",
+     "grounds": "possessive adjective modifying house",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "superlative adjective modifying house",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Where should the practitioner go after performing the prescribed worship and mantra recitation?",
+   "premises": [
+    "Worship and mantra recitation precede movement.",
+    "Temple or own house are destinations.",
+    "Own house must be excellent."
+   ],
+   "inference": "After worship one should go to a temple or to one's own excellent house.",
+   "uncertainties": [
+    "Exact ritual context of the movement remains unspecified."
+   ],
+   "plain_english": "One should go to a temple, or even to one's own excellent house."
+  }
+ ]
+}

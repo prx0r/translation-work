@@ -1,0 +1,63 @@
+{
+ "song": "kul-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "śirasā",
+     "gloss": "with-the-head",
+     "grounds": "instrumental of śiras (head), indicating bowed acceptance",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun introducing the guru's instruction",
+     "morph": "rel.pron.nom.sg.n"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "nominative subject of the verb",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "says",
+     "grounds": "optative of brū, 'may say / should say'",
+     "morph": "v.3.sg.act-opt+brū"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative pronoun referring back to yat",
+     "morph": "dem.pron.nom.sg.n"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "neuter nominative gerundive, 'that which is to be done'",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "aviśaṅkayā",
+     "gloss": "without-doubt",
+     "grounds": "instrumental of aviśaṅkā, 'without hesitation'",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "What must be done with the guru's instruction?",
+   "premises": [
+    "The guru speaks an instruction.",
+    "That instruction is to be done.",
+    "It is done without doubt."
+   ],
+   "inference": "One should carry out the guru's words without hesitation.",
+   "uncertainties": [
+    "śirasā may imply bowed acceptance rather than literal use of the head."
+   ],
+   "plain_english": "Whatever the guru says, that should be done without doubt, with bowed head."
+  }
+ ]
+}

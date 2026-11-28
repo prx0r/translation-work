@@ -1,0 +1,44 @@
+{
+ "song": "sva-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "ākāśākhya",
+     "gloss": "space-named",
+     "grounds": "ākāśa (space) + ākhyaḥ (called) fused; final visarga dropped before next word",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "paramaīśvaramūtīrūpo",
+     "gloss": "supreme-lord-form-shaped",
+     "grounds": "parama + īśvara + mūrti + rūpaḥ fused with internal sandhi",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhuvaneśa",
+     "gloss": "world-lord",
+     "grounds": "bhuvana (world) + īśaḥ (lord) fused",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "thus-from-meaning",
+     "grounds": "iti (thus) + arthāt (from meaning) fused",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the verse identify as the supreme lord's form?",
+   "premises": [
+    "ākāśa-named supreme lord form",
+    "world-lord is the intended meaning"
+   ],
+   "inference": "The verse identifies the supreme lord's form as the space-named world-lord.",
+   "uncertainties": [
+    "Exact syntactic role of ityarthāt in the verse is not fully recoverable from the four tokens alone."
+   ],
+   "plain_english": "The supreme lord, shaped as the world-lord, is called by the name of space."
+  }
+ ]
+}

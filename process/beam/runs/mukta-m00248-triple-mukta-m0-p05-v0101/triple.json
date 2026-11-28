@@ -1,0 +1,1187 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "piṇḍeśe",
+     "gloss": "on-piṇḍa-lord",
+     "grounds": "locative singular of piṇḍeśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mārjayet",
+     "gloss": "one-should-wipe",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-mṛj"
+    },
+    {
+     "surface": "vyoma+mantrataḥ",
+     "gloss": "with-vyoma-mantra",
+     "grounds": "compound ablative/instrumental form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one wipe the piṇḍa-lord with the vyoma mantra or not?",
+   "premises": [
+    "piṇḍeśe marks the ritual locus",
+    "vyoma-mantrataḥ names the mantra means",
+    "na eva vā frames the prohibition or option"
+   ],
+   "inference": "The verse poses a ritual restriction on using the vyoma mantra on the piṇḍa-lord.",
+   "uncertainties": [
+    "exact force of na eva vā in this ritual context"
+   ],
+   "plain_english": "One should not wipe the piṇḍa-lord with the vyoma mantra, O child."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "tatpuruṣaṃ",
+     "gloss": "tatpuruṣa",
+     "grounds": "accusative singular mantra name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-jap"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭa+uttara+sahasrakam",
+     "gloss": "eight-more-than-hundred-thousand",
+     "grounds": "compound numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times should the wise one recite tatpuruṣa?",
+   "premises": [
+    "tatpuruṣaṃ is the mantra to recite",
+    "dhīmān addresses the practitioner",
+    "aṣṭa-uttara-sahasrakam gives the count"
+   ],
+   "inference": "The wise practitioner should recite tatpuruṣa one hundred eight thousand times.",
+   "uncertainties": [
+    "whether the count is exact or conventional"
+   ],
+   "plain_english": "The wise one should recite tatpuruṣa one hundred eight thousand times."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-jap"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvitraṃ",
+     "gloss": "sāvitra",
+     "grounds": "accusative singular mantra name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda",
+     "grounds": "accusative singular mantra name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-jap"
+    }
+   ],
+   "question": "Which mantras should be recited likewise and again?",
+   "premises": [
+    "tadvat links to prior recitation",
+    "sāvitraṃ and prāsādaṃ are named mantras",
+    "punar japet repeats the act"
+   ],
+   "inference": "One should likewise recite sāvitra and prāsāda, then recite again.",
+   "uncertainties": [
+    "whether punar modifies both or only prāsāda"
+   ],
+   "plain_english": "Likewise one should recite sāvitra and prāsāda, and again recite."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "prāsādena",
+     "gloss": "with-prāsāda",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahāsena",
+     "gloss": "o-mahāsena",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sūryāya",
+     "gloss": "to-sūrya",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "salilaṃ",
+     "gloss": "water",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "one-should-give",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-dā"
+    }
+   ],
+   "question": "To whom should water be given with the prāsāda mantra?",
+   "premises": [
+    "prāsādena names the mantra means",
+    "sūryāya names the recipient",
+    "salilaṃ dadet states the offering"
+   ],
+   "inference": "Using prāsāda, one should give water to Sūrya.",
+   "uncertainties": [
+    "whether mahāsena is recipient or addressee"
+   ],
+   "plain_english": "With prāsāda, O Mahāsena, one should give water to Sūrya."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "aṣṭa+vidyeśvarān+mantrān",
+     "gloss": "eight-vidyeśvara-mantras",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "rudra+ekādaśa+mantrakān",
+     "gloss": "eleven-rudra-mantras",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which mantra groups are to be used in this rite?",
+   "premises": [
+    "aṣṭa-vidyeśvarān-mantrān names eight mantras",
+    "rudra-ekādaśa-mantrakān names eleven mantras",
+    "both are accusative objects"
+   ],
+   "inference": "The rite employs the eight vidyeśvara mantras and the eleven rudra mantras.",
+   "uncertainties": [
+    "exact ritual action omitted in this verse"
+   ],
+   "plain_english": "The eight vidyeśvara mantras and the eleven rudra mantras."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "vyomavyāpinam",
+     "gloss": "vyomavyāpin",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvartya",
+     "gloss": "having-repeated",
+     "grounds": "absolutive",
+     "morph": "abs-āvṛt"
+    },
+    {
+     "surface": "ūrdhva+bāhuḥ",
+     "gloss": "with-arms-raised",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "nominative singular participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise one stand while repeating vyomavyāpin?",
+   "premises": [
+    "vyomavyāpinam is the repeated object",
+    "āvartya marks repetition",
+    "ūrdhva-bāhuḥ sthitaḥ budhaḥ describes posture"
+   ],
+   "inference": "The wise one should stand with arms raised while repeating vyomavyāpin.",
+   "uncertainties": [
+    "number of repetitions not stated here"
+   ],
+   "plain_english": "Having repeated vyomavyāpin, the wise one stands with arms raised."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "pradakṣiṇa+trayaṃ",
+     "gloss": "circumambulation-three",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs-kṛ"
+    },
+    {
+     "surface": "daṇḍavat",
+     "gloss": "like-a-staff",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-praṇam"
+    },
+    {
+     "surface": "kṣitau",
+     "gloss": "on-the-ground",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What bodily act follows three circumambulations?",
+   "premises": [
+    "pradakṣiṇa-trayaṃ kṛtvā sets the prior act",
+    "daṇḍavat praṇamet kṣitau states the bow",
+    "the sequence is ritual prostration"
+   ],
+   "inference": "After three circumambulations, one should bow like a staff to the ground.",
+   "uncertainties": [
+    "recipient of the bow not named"
+   ],
+   "plain_english": "Having done three circumambulations, one should bow like a staff upon the ground."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "rakta+candana+gandhena",
+     "gloss": "with-red-sandal-fragrance",
+     "grounds": "compound instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "akṣataṃ",
+     "gloss": "unbroken-rice",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṇḍulam",
+     "gloss": "husked-rice",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which rice offerings are excluded with red sandal fragrance?",
+   "premises": [
+    "rakta-candana-gandhena names the fragrance",
+    "akṣataṃ and taṇḍulam name rice types",
+    "na ca excludes both"
+   ],
+   "inference": "With red sandal fragrance, neither unbroken rice nor husked rice is used.",
+   "uncertainties": [
+    "whether exclusion is absolute or contextual"
+   ],
+   "plain_english": "With red sandal fragrance, not unbroken rice nor husked rice."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "tāmra+pātre",
+     "gloss": "in-copper-vessel",
+     "grounds": "compound locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "abs-saṃsthā"
+    },
+    {
+     "surface": "hasta+mātre",
+     "gloss": "in-hand-measure",
+     "grounds": "compound locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the copper vessel placed in this rite?",
+   "premises": [
+    "tāmra-pātre names the vessel",
+    "saṃsthāpya marks placement",
+    "hasta-mātre and maṇḍale name locations"
+   ],
+   "inference": "The copper vessel is placed in a hand-measure circle.",
+   "uncertainties": [
+    "whether both locations are alternatives or sequential"
+   ],
+   "plain_english": "Having placed it in a copper vessel, but in a hand-measure circle."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācamanam",
+     "gloss": "sipping-water",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "abs-dā"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "arghya",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-nivid"
+    }
+   ],
+   "question": "What offerings should be given and offered to him?",
+   "premises": [
+    "pādyam and ācamanam are given",
+    "arghyaṃ is offered",
+    "tasmai names the recipient"
+   ],
+   "inference": "One should give foot-water and sipping-water, then offer arghya to him.",
+   "uncertainties": [
+    "identity of tasmai from context"
+   ],
+   "plain_english": "Having given foot-water and sipping-water, one should offer arghya to him."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "visarjayitvā",
+     "gloss": "having-dismissed",
+     "grounds": "absolutive",
+     "morph": "abs-visarj"
+    },
+    {
+     "surface": "deva+īśaṃ",
+     "gloss": "lord-of-gods",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    },
+    {
+     "surface": "mantra+pūrvakam",
+     "gloss": "preceded-by-mantra",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows dismissal of the lord of gods?",
+   "premises": [
+    "visarjayitvā deva-īśaṃ marks dismissal",
+    "tarpayet states satisfaction",
+    "mantra-pūrvakam qualifies the act"
+   ],
+   "inference": "After dismissing the lord of gods, one should satisfy with mantra-preceded rite.",
+   "uncertainties": [
+    "who is satisfied after dismissal"
+   ],
+   "plain_english": "Having dismissed the lord of gods, one should satisfy, preceded by mantra."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daśa+vāraṃ",
+     "gloss": "ten-times",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    },
+    {
+     "surface": "mūla+mantrataḥ",
+     "gloss": "with-root-mantra",
+     "grounds": "compound ablative/instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times should Śiva be satisfied with the root mantra?",
+   "premises": [
+    "śivasya names the recipient",
+    "daśa-vāraṃ gives the count",
+    "mūla-mantrataḥ names the means"
+   ],
+   "inference": "One should satisfy Śiva ten times with the root mantra.",
+   "uncertainties": [
+    "whether daśa-vāraṃ modifies tarpayet directly"
+   ],
+   "plain_english": "Indeed, one should satisfy Śiva ten times with the root mantra."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "vidyeśvarān",
+     "gloss": "vidyeśvaras",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mūrti+pān",
+     "gloss": "guardians-of-forms",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudra+ekādaśa",
+     "gloss": "eleven-rudras",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine groups are included among those satisfied?",
+   "premises": [
+    "vidyeśvarān names vidyeśvaras",
+    "mūrti-pān names form-guardians",
+    "rudra-ekādaśa names eleven rudras"
+   ],
+   "inference": "The satisfied groups include vidyeśvaras, form-guardians, and eleven rudras.",
+   "uncertainties": [
+    "whether these are separate or overlapping groups"
+   ],
+   "plain_english": "The vidyeśvaras, guardians of forms, and indeed the eleven rudras."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "aśvinau",
+     "gloss": "two-aśvins",
+     "grounds": "nominative/accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "marutaḥ",
+     "gloss": "maruts",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loka+pāla",
+     "gloss": "world-guardians",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gaṇa+īśvarān",
+     "gloss": "gaṇeśvaras",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which further divine groups are to be satisfied?",
+   "premises": [
+    "aśvinau names the two aśvins",
+    "marutaḥ names maruts",
+    "loka-pāla and gaṇa-īśvarān name guardians"
+   ],
+   "inference": "The satisfied groups also include the aśvins, maruts, world-guardians, and gaṇeśvaras.",
+   "uncertainties": [
+    "exact grammatical case of aśvinau in list"
+   ],
+   "plain_english": "The two aśvins, maruts, world-guardians, and gaṇeśvaras."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "gandharvān",
+     "gloss": "gandharvas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cāraṇān",
+     "gloss": "cāraṇas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "siddhān",
+     "gloss": "siddhas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nāgān",
+     "gloss": "nāgas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yātudhānakān",
+     "gloss": "yātudhānas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which classes of beings are included in the satisfaction list?",
+   "premises": [
+    "gandharvān cāraṇān siddhān nāgān name classes",
+    "yātudhānakān names yātudhānas",
+    "vai emphasizes the list"
+   ],
+   "inference": "The list includes gandharvas, cāraṇas, siddhas, nāgas, and yātudhānas.",
+   "uncertainties": [
+    "whether all are satisfied equally"
+   ],
+   "plain_english": "Gandharvas, cāraṇas, siddhas, nāgas, and indeed yātudhānas."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "bhūta",
+     "gloss": "bhūtas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vetāla",
+     "gloss": "vetālas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kuśmāṇḍān",
+     "gloss": "kuśmāṇḍas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kumāra",
+     "gloss": "kumāras",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pāha",
+     "gloss": "pāhas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūtanān",
+     "gloss": "pūtanas",
+     "grounds": "accusative plural",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Which further spirit classes are named in the list?",
+   "premises": [
+    "bhūta vetāla kuśmāṇḍān name spirit classes",
+    "kumāra pāha pūtanān name further classes",
+    "all are accusative objects"
+   ],
+   "inference": "The list further names bhūtas, vetālas, kuśmāṇḍas, kumāras, pāhas, and pūtanas.",
+   "uncertainties": [
+    "whether pāha is a class or epithet"
+   ],
+   "plain_english": "Bhūtas, vetālas, kuśmāṇḍas, kumāras, pāhas, and pūtanas."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patnīnāṃ",
+     "gloss": "of-wives",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kumārāṇāṃ",
+     "gloss": "of-sons",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "o-wise-one",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Whose wives and sons are included in the satisfaction?",
+   "premises": [
+    "eteṣāṃ ca eva patnīnāṃ names wives of these",
+    "kumārāṇāṃ ca vai names sons",
+    "budhaḥ addresses the wise one"
+   ],
+   "inference": "The wives and sons of these beings are also to be satisfied.",
+   "uncertainties": [
+    "whether budhaḥ is recipient or addressee"
+   ],
+   "plain_english": "Indeed, O wise one, the wives and sons of these also."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "viṣṇu+brahma+indra+rudrāṇāṃ",
+     "gloss": "of-viṣṇu-brahmā-indra-rudra",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sapta+vāraṃ",
+     "gloss": "seven-times",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    }
+   ],
+   "question": "How many times should Viṣṇu, Brahmā, Indra, and Rudra be satisfied?",
+   "premises": [
+    "viṣṇu-brahma-indra-rudrāṇāṃ names the recipients",
+    "sapta-vāraṃ gives the count",
+    "tarpayet states satisfaction"
+   ],
+   "inference": "One should satisfy Viṣṇu, Brahmā, Indra, and Rudra seven times.",
+   "uncertainties": [
+    "whether tu is restrictive or emphatic"
+   ],
+   "plain_english": "Indeed, one should satisfy Viṣṇu, Brahmā, Indra, and Rudra seven times."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "śeṣān",
+     "gloss": "remaining",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarva+devānāṃ",
+     "gloss": "of-all-gods",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tri+vāraṃ",
+     "gloss": "three-times",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    }
+   ],
+   "question": "How many times should the remaining gods be satisfied?",
+   "premises": [
+    "śeṣān eṣāṃ sarva-devānāṃ names remaining gods",
+    "tri-vāraṃ gives the count",
+    "tarpayet states satisfaction"
+   ],
+   "inference": "The remaining gods among all gods should be satisfied three times.",
+   "uncertainties": [
+    "whether śeṣān excludes previously named groups"
+   ],
+   "plain_english": "Indeed, one should satisfy the remaining of all these gods three times."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "deva+patnīḥ",
+     "gloss": "wives-of-gods",
+     "grounds": "compound accusative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "deva+putrān",
+     "gloss": "sons-of-gods",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tri+vāraṃ",
+     "gloss": "three-times",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    },
+    {
+     "surface": "guha",
+     "gloss": "o-guha",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How many times should divine wives and sons be satisfied?",
+   "premises": [
+    "deva-patnīḥ and deva-putrān name recipients",
+    "tri-vāraṃ gives the count",
+    "guha addresses the listener"
+   ],
+   "inference": "One should satisfy the wives and sons of gods three times.",
+   "uncertainties": [
+    "whether guha is recipient or addressee"
+   ],
+   "plain_english": "O Guha, one should satisfy the wives and sons of gods three times."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "pitṝṇāṃ",
+     "gloss": "of-ancestors",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prācīnāvītī",
+     "gloss": "with-sacred-thread-over-right-shoulder",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    },
+    {
+     "surface": "su+samāhitaḥ",
+     "gloss": "well-composed",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should one satisfy the ancestors?",
+   "premises": [
+    "pitṝṇāṃ names the recipients",
+    "prācīnāvītī names thread position",
+    "su-samāhitaḥ names composure"
+   ],
+   "inference": "One should satisfy the ancestors while wearing the sacred thread over the right shoulder and well composed.",
+   "uncertainties": [
+    "whether su-samāhitaḥ modifies practitioner or rite"
+   ],
+   "plain_english": "With the sacred thread over the right shoulder, well composed, one should satisfy the ancestors."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "ārṣeṇa",
+     "gloss": "with-ṛṣi-tīrtha",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthena",
+     "gloss": "with-tīrtha",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ṛṣīṇāṃ",
+     "gloss": "of-ṛṣis",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt-tṛp"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which tīrtha should the ṛṣis be satisfied again?",
+   "premises": [
+    "ārṣeṇa eva tu tīrthena names the tīrtha",
+    "ṛṣīṇāṃ names recipients",
+    "punaḥ tarpayet repeats satisfaction"
+   ],
+   "inference": "One should again satisfy the ṛṣis with the ṛṣi tīrtha.",
+   "uncertainties": [
+    "whether ārṣeṇa and tīrthena are distinct or appositional"
+   ],
+   "plain_english": "Indeed, with the ṛṣi tīrtha, one should again satisfy the ṛṣis."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "kaniṣṭhikā+aṅguli+mūle",
+     "gloss": "at-base-of-little-finger",
+     "grounds": "compound locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daivikaṃ",
+     "gloss": "divine-tīrtha",
+     "grounds": "accusative singular adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "tīrtha",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive third singular",
+     "morph": "3.sg.pass.pres-vac"
+    }
+   ],
+   "question": "Where is the divine tīrtha located?",
+   "premises": [
+    "kaniṣṭhikā-aṅguli-mūle names the location",
+    "daivikaṃ tīrtham names the tīrtha",
+    "ucyate states the naming"
+   ],
+   "inference": "The divine tīrtha is at the base of the little finger.",
+   "uncertainties": [
+    "whether tu is emphatic or transitional"
+   ],
+   "plain_english": "Indeed, the divine tīrtha is called at the base of the little finger."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kara+talasya",
+     "gloss": "of-palm",
+     "grounds": "compound genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivaṃ",
+     "gloss": "śaiva-tīrtha",
+     "grounds": "accusative singular adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "tīrtha",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "nominative singular participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the śaiva tīrtha declared to be?",
+   "premises": [
+    "madhye kara-talasya names the location",
+    "śaivaṃ tīrtham names the tīrtha",
+    "udāhṛtam states declaration"
+   ],
+   "inference": "The śaiva tīrtha is declared in the middle of the palm.",
+   "uncertainties": [
+    "whether api emphasizes inclusion or exception"
+   ],
+   "plain_english": "Even in the middle of the palm, the śaiva tīrtha is declared."
+  }
+ ]
+}

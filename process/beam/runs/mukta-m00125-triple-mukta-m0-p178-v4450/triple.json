@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p178",
+ "items": [
+  {
+   "verse": 4450,
+   "rows": [
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "Qualifies the foot or side being described; taken as the right one in this iconographic context.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmajaṅghānta",
+     "gloss": "left-leg-end",
+     "grounds": "Compound indicating the end or upper part of the left leg/thigh as the locus.",
+     "morph": "compound: vāma+jaṅghā+anta"
+    },
+    {
+     "surface": "mudbhutaṃ",
+     "gloss": "risen-up",
+     "grounds": "Describes the right element as raised or emerging; surface form taken as given without splitting.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmāpādakam",
+     "gloss": "left-foot",
+     "grounds": "Compound denoting the left foot, completing the description of placement.",
+     "morph": "compound: vāma+pādaka (n.acc.sg)"
+    }
+   ],
+   "question": "Where is the right foot positioned in relation to the left leg in this iconographic description?",
+   "premises": [
+    "The right element is described as risen up.",
+    "Its position is specified at the end of the left leg.",
+    "The left foot is explicitly named in the same description."
+   ],
+   "inference": "The iconographic form places the right foot raised at the upper part of the left leg in relation to the left foot.",
+   "uncertainties": [
+    "The exact anatomical referent of vāmajaṅghānta (thigh, knee, or shank end) is context-dependent.",
+    "The surface form mudbhutaṃ may reflect an unresolved fusion or orthographic variant of udbhutaṃ/samudbhutaṃ."
+   ],
+   "plain_english": "The right foot is raised up at the end of the left leg, by the left foot."
+  }
+ ]
+}

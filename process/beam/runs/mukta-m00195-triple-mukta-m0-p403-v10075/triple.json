@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p403",
+ "items": [
+  {
+   "verse": 10075,
+   "rows": [
+    {
+     "surface": "tāraḥ",
+     "gloss": "sacred-syllable-oṃ",
+     "grounds": "the praṇava/bīja syllable; mantra material transliterated by function",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivāyai",
+     "gloss": "to-śivā",
+     "grounds": "divine recipient of obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārāyaṇyai",
+     "gloss": "to-nārāyaṇī",
+     "grounds": "divine recipient of obeisance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "utterance",
+     "grounds": "the verbal formula or word to be spoken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive instruction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What specific mantra formula must the practitioner utter in this ritual context?",
+   "premises": [
+    "tāraḥ denotes the sacred syllable Oṃ.",
+    "namaḥ expresses obeisance to the named deities.",
+    "śivāyai and nārāyaṇyai identify the recipients as Śivā and Nārāyaṇī.",
+    "vadet instructs that this padaṃ be uttered."
+   ],
+   "inference": "The practitioner should utter the formula: tāraḥ, namaḥ, śivāyai, ca, nārāyaṇyai.",
+   "uncertainties": [],
+   "plain_english": "One should utter the formula: Oṃ, obeisance to Śivā and to Nārāyaṇī."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "dakṣa",
+     "gloss": "right",
+     "grounds": "qualifies pāde",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "in-foot",
+     "grounds": "location of assignment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṭakārādi",
+     "gloss": "beginning-with-ṭa",
+     "grounds": "bahuvrīhi compound indicating initial letter",
+     "morph": "compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "quantifies tattvaṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principles",
+     "grounds": "group assigned to location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "O-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which five principles beginning with ṭa are located in the right foot?",
+   "premises": [
+    "The right foot is specified as the locus.",
+    "A group of five principles is assigned there.",
+    "These principles begin with the syllable ṭa."
+   ],
+   "inference": "Therefore, the five principles beginning with ṭa are located in the right foot.",
+   "uncertainties": [],
+   "plain_english": "O fair-faced one, the five principles beginning with ṭa are located in the right foot."
+  }
+ ]
+}

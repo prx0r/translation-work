@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "sukhoṣṇaṃ",
+     "gloss": "pleasantly-warm",
+     "grounds": "adjective describing the lump to be bound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bandhayet",
+     "gloss": "one-should-bind",
+     "grounds": "optative instruction to bind",
+     "morph": "verb.3.sg.act-opt+root bandh"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "lump",
+     "grounds": "object to be bound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tridinānte",
+     "gloss": "at-three-days-end",
+     "grounds": "time phrase indicating after three days",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sukhāvaham",
+     "gloss": "comfort-bringing",
+     "grounds": "result of the bound lump",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How should the warm lump be bound so that it becomes comfort-bringing after three days?",
+   "premises": [
+    "Bind a pleasantly warm lump.",
+    "Keep it for three days.",
+    "It then brings comfort."
+   ],
+   "inference": "The bound warm lump becomes comfort-bringing after three days.",
+   "uncertainties": [
+    "Exact ritual substance and binding method are not specified."
+   ],
+   "plain_english": "Bind a pleasantly warm lump; after three days it brings comfort."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb indicating special emphasis or preference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayaṃsiddhaṃ",
+     "gloss": "self-accomplished",
+     "grounds": "naturally perfected or self-manifest, not artificially prepared; compound svayam+siddha",
+     "morph": "compound: svayam+siddha (m.acc.sg)"
+    },
+    {
+     "surface": "pāṣāṇaṃ",
+     "gloss": "stone",
+     "grounds": "a stone object serving as a support or material",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ratnameva",
+     "gloss": "gem-indeed",
+     "grounds": "sandhi fusion ratnam+eva within the token; emphasizes a gem as an alternative",
+     "morph": "compound: ratna+eva (n.nom/acc.sg + indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which naturally accomplished materials hold special suitability as consecrated supports?",
+   "premises": [
+    "Previously mentioned supports include mantra-consecrated cloth, wall-paintings, or pedestals.",
+    "Special preference is given to materials that are self-accomplished.",
+    "Such self-accomplished materials include stone or even a gem."
+   ],
+   "inference": "Among possible supports, a self-accomplished stone or gem is especially suitable.",
+   "uncertainties": [
+    "The exact ritual function of these materials depends on the preceding syntactic context."
+   ],
+   "plain_english": "Especially suitable is a self-accomplished stone, or indeed a gem."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "śṛṅgābhyāṃ",
+     "gloss": "with-horns",
+     "grounds": "instrumental dual of śṛṅga; action performed by means of horns",
+     "morph": "inst.du.n"
+    },
+    {
+     "surface": "dārayat",
+     "gloss": "tearing",
+     "grounds": "present participle active of dṛ, tearing apart",
+     "morph": "3.sg.act-pres.part. + root dṛ"
+    },
+    {
+     "surface": "kukṣiṃ",
+     "gloss": "belly",
+     "grounds": "accusative singular of kukṣi; object being torn",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhūmāvāsphālya",
+     "gloss": "striking-on-earth",
+     "grounds": "fused locative bhūmau plus absolutive āsphālya; striking against the ground",
+     "morph": "loc.sg.f + abs. (indecl.)"
+    },
+    {
+     "surface": "vegataḥ",
+     "gloss": "with-speed",
+     "grounds": "ablative singular of vega; manner of striking",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What bodily destruction follows the horn-tearing and earth-striking of the enemy?",
+   "premises": [
+    "horns tear the belly",
+    "the body is struck against earth",
+    "the striking happens with speed"
+   ],
+   "inference": "the enemy is destroyed by horn-tearing and forceful earth-striking",
+   "uncertainties": [
+    "the exact subject and object are not named in this verse"
+   ],
+   "plain_english": "Tearing the belly with horns, striking on earth with speed."
+  }
+ ]
+}

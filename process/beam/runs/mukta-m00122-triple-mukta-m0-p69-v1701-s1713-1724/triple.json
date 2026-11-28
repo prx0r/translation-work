@@ -1,0 +1,473 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "varmādi",
+     "gloss": "armor-etc",
+     "grounds": "compound head with etcetera",
+     "morph": "compound"
+    },
+    {
+     "surface": "phaḍantān",
+     "gloss": "phaḍ-ending",
+     "grounds": "adjective agreeing with ten",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "daśasaṅkhyān",
+     "gloss": "ten-numbered",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "prokteṣu",
+     "gloss": "in-spoken",
+     "grounds": "locative plural",
+     "morph": "pp.loc.pl.m"
+    },
+    {
+     "surface": "daśasu",
+     "gloss": "ten",
+     "grounds": "locative plural",
+     "morph": "num.loc.pl"
+    },
+    {
+     "surface": "sthāneṣu",
+     "gloss": "places",
+     "grounds": "locative plural",
+     "morph": "noun.loc.pl.m"
+    },
+    {
+     "surface": "nyasediti",
+     "gloss": "should-place",
+     "grounds": "verb with iti",
+     "morph": "verb.3.sg.act-opt+indecl"
+    }
+   ],
+   "question": "Where should the ten phaḍ-ending armor-like elements be placed among the ten spoken places?",
+   "premises": [
+    "ten phaḍ-ending elements are named",
+    "ten places are spoken",
+    "placement is prescribed"
+   ],
+   "inference": "the elements are to be installed in the corresponding ten places",
+   "uncertainties": [
+    "exact ritual mapping not specified"
+   ],
+   "plain_english": "Place the ten phaḍ-ending armor-like elements in the ten spoken places."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "cāturvarṇyotpattikrameṇa",
+     "gloss": "four-varna-origin-order",
+     "grounds": "instrumental compound",
+     "morph": "compound.instr.sg"
+    },
+    {
+     "surface": "abharaṇakalpanam",
+     "gloss": "ornament-conception",
+     "grounds": "accusative singular",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "boddhavyam",
+     "gloss": "to-be-understood",
+     "grounds": "gerundive",
+     "morph": "gerundive.acc.sg.n"
+    }
+   ],
+   "question": "How should the ornament conception be understood in relation to four-varna origin order?",
+   "premises": [
+    "four-varna origin order is given",
+    "ornament conception follows it",
+    "this is to be understood"
+   ],
+   "inference": "the ornament conception is ordered by four-varna origin",
+   "uncertainties": [
+    "specific ornaments not listed"
+   ],
+   "plain_english": "Understand the ornament conception according to the order of four-varna origin."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "vāmaurddhādidakṣiṇādharahastāntam",
+     "gloss": "left-upward-etc-right-lower-hand-end",
+     "grounds": "compound endpoint",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "vāmadakṣiṇakrameṇa",
+     "gloss": "left-right-order",
+     "grounds": "instrumental compound",
+     "morph": "compound.instr.sg"
+    }
+   ],
+   "question": "In what order do the hands run from left-upward through right-lower?",
+   "premises": [
+    "hand sequence has endpoints",
+    "left-right order governs it",
+    "sequence spans both sides"
+   ],
+   "inference": "the hands are arranged from left upward to right lower in left-right order",
+   "uncertainties": [
+    "exact hand gestures unspecified"
+   ],
+   "plain_english": "The hands run from left upward to right lower in left-right order."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "dhanurbāṇojjvalakarayugalām",
+     "gloss": "bow-arrow-radiant-hand-pair",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What radiant hand-pair attribute is assigned to the goddess?",
+   "premises": [
+    "bow and arrow are named",
+    "hand pair is radiant",
+    "attribute is accusative feminine"
+   ],
+   "inference": "the goddess is described with a radiant pair of hands holding bow and arrow",
+   "uncertainties": [
+    "which deity form is meant"
+   ],
+   "plain_english": "She has a radiant pair of hands bearing bow and arrow."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "kiṅkaraḥ",
+     "gloss": "servant",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agratas",
+     "gloss": "before-her",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "worshipful",
+     "grounds": "genitive singular",
+     "morph": "pron.gen.sg.f"
+    },
+    {
+     "surface": "sarvārthasiddhaye",
+     "gloss": "for-all-aims-accomplishment",
+     "grounds": "dative compound",
+     "morph": "compound.dat.sg"
+    }
+   ],
+   "question": "Why does the servant stand before her?",
+   "premises": [
+    "servant stands before her",
+    "aim is all-aims accomplishment",
+    "position is frontal"
+   ],
+   "inference": "the servant stands before her for accomplishment of all aims",
+   "uncertainties": [
+    "identity of servant unspecified"
+   ],
+   "plain_english": "A servant stands before her for accomplishment of all aims."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "śaktī",
+     "gloss": "power",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "tatsadṛśe",
+     "gloss": "that-similar",
+     "grounds": "locative singular",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "svarṇavetravellatkarāmbuje",
+     "gloss": "gold-staff-waving-hand-lotus",
+     "grounds": "locative compound",
+     "morph": "compound.loc.sg.n"
+    }
+   ],
+   "question": "Where is the power that is similar to that placed?",
+   "premises": [
+    "power is named",
+    "it is similar to that",
+    "location is gold-staff-waving hand-lotus"
+   ],
+   "inference": "the similar power is placed in the gold-staff-waving hand-lotus",
+   "uncertainties": [
+    "exact hand identity"
+   ],
+   "plain_english": "The similar power is in the gold-staff-waving hand-lotus."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "strīhuṅkāryau",
+     "gloss": "female-hung-acts",
+     "grounds": "compound dual",
+     "morph": "compound.nom.du.m"
+    },
+    {
+     "surface": "kṣemakarī",
+     "gloss": "welfare-doing",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "lokapālasamā",
+     "gloss": "world-guardian-equal",
+     "grounds": "nominative singular",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "imāḥ",
+     "gloss": "these",
+     "grounds": "nominative plural",
+     "morph": "pron.nom.pl.f"
+    }
+   ],
+   "question": "What are these female-hung acts described as?",
+   "premises": [
+    "female-hung acts are named",
+    "they do welfare",
+    "they equal world guardians"
+   ],
+   "inference": "these female-hung acts are welfare-doing and equal to world guardians",
+   "uncertainties": [
+    "exact acts unspecified"
+   ],
+   "plain_english": "These female-hung acts do welfare and equal world guardians."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "yābhirnityārcitābhiḥ",
+     "gloss": "by-whom-eternally-worshipped",
+     "grounds": "instrumental plural",
+     "morph": "rel.pron.instr.pl.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative third singular",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "naronārīṣu",
+     "gloss": "man-woman",
+     "grounds": "locative plural",
+     "morph": "compound.loc.pl"
+    },
+    {
+     "surface": "manmathaḥ",
+     "gloss": "love",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What becomes love among men and women through eternal worship?",
+   "premises": [
+    "eternal worship is by them",
+    "result is love",
+    "scope is men and women"
+   ],
+   "inference": "through their eternal worship love arises among men and women",
+   "uncertainties": [
+    "identity of worshippers"
+   ],
+   "plain_english": "Through their eternal worship, love arises among men and women."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "prāgvadarghyam",
+     "gloss": "as-before-arghya",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "offering",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "īśām",
+     "gloss": "isha",
+     "grounds": "genitive singular",
+     "morph": "noun.gen.sg.f"
+    },
+    {
+     "surface": "aṣṭasiṃhāṅghrike",
+     "gloss": "eight-lion-foot",
+     "grounds": "locative singular",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "locative singular",
+     "morph": "adj.loc.sg.n"
+    }
+   ],
+   "question": "Where is arghya offered after the previous procedure?",
+   "premises": [
+    "arghya is as before",
+    "offering is made",
+    "location is eight-lion-foot auspicious"
+   ],
+   "inference": "arghya is offered in the auspicious eight-lion-foot place",
+   "uncertainties": [
+    "exact seat identity"
+   ],
+   "plain_english": "Offer arghya as before in the auspicious eight-lion-foot place."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "paścimadvārasaṃyuktam",
+     "gloss": "west-gate-joined",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tadantarvṛttayugmakam",
+     "gloss": "that-inner-circle-pair",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What inner circle pair is joined to the west gate?",
+   "premises": [
+    "west gate is joined",
+    "inner circle pair is named",
+    "pair is accusative"
+   ],
+   "inference": "the inner circle pair is joined to the west gate",
+   "uncertainties": [
+    "ritual geometry unspecified"
+   ],
+   "plain_english": "The inner circle pair is joined to the west gate."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "prāgvadāvāhya",
+     "gloss": "as-before-inviting",
+     "grounds": "compound absolutive",
+     "morph": "compound.abs"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "powers",
+     "grounds": "instrumental plural",
+     "morph": "noun.instr.pl.f"
+    },
+    {
+     "surface": "veṣṭitām",
+     "gloss": "surrounded",
+     "grounds": "accusative singular",
+     "morph": "pp.acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the invited goddess surrounded?",
+   "premises": [
+    "invitation is as before",
+    "powers surround her",
+    "thus it is done"
+   ],
+   "inference": "after inviting as before, she is surrounded by powers",
+   "uncertainties": [
+    "which powers"
+   ],
+   "plain_english": "After inviting as before, surround her with powers."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "prasāde",
+     "gloss": "favor",
+     "grounds": "locative singular",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "ābhimukhye",
+     "gloss": "facing",
+     "grounds": "locative singular",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "anena ślokena",
+     "gloss": "by-this-verse",
+     "grounds": "instrumental phrase",
+     "morph": "pron.instr.sg+ noun.instr.sg"
+    },
+    {
+     "surface": "devyā nāmanirvāhaḥ",
+     "gloss": "goddess-name-manifestation",
+     "grounds": "nominative compound",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "How is the goddess's name manifested in favor and facing?",
+   "premises": [
+    "favor and facing are named",
+    "this verse is the means",
+    "goddess name manifestation results"
+   ],
+   "inference": "by this verse the goddess's name is manifested in favor and facing",
+   "uncertainties": [
+    "exact manifestation rite"
+   ],
+   "plain_english": "By this verse the goddess's name is manifested in favor and facing."
+  }
+ ]
+}

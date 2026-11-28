@@ -1,0 +1,899 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1876,
+   "rows": [
+    {
+     "surface": "muṣṭiyuktaṃ",
+     "gloss": "fist-joined",
+     "grounds": "compound describing joined fist",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netramaṅguṣṭhāgramadhomukham",
+     "gloss": "eye-thumb-tip-downward-facing",
+     "grounds": "compound of eye thumb tip downward facing",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is the eye-thumb seal oriented when the fist is joined?",
+   "premises": [
+    "The fist is joined.",
+    "The eye-thumb tip faces downward."
+   ],
+   "inference": "The seal is formed with the joined fist and downward-facing eye-thumb tip.",
+   "uncertainties": [
+    "Exact hand configuration is not fully specified."
+   ],
+   "plain_english": "The fist is joined, and the eye-thumb tip faces downward."
+  },
+  {
+   "verse": 1877,
+   "rows": [
+    {
+     "surface": "vastramudrā",
+     "gloss": "cloth-seal",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "called",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + khyā"
+    },
+    {
+     "surface": "vastramudrāpravarddhinī",
+     "gloss": "cloth-seal-increasing",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is the cloth seal said to increase?",
+   "premises": [
+    "The cloth seal is named.",
+    "It is described as increasing."
+   ],
+   "inference": "The cloth seal is proclaimed as the increasing cloth seal.",
+   "uncertainties": [
+    "The exact object increased is implicit."
+   ],
+   "plain_english": "The cloth seal is called the increasing cloth seal."
+  },
+  {
+   "verse": 1878,
+   "rows": [
+    {
+     "surface": "yajñopavītamudreyaṃ",
+     "gloss": "sacrificial-thread-seal-this",
+     "grounds": "compound with demonstrative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + kath"
+    },
+    {
+     "surface": "mantrapāragaiḥ",
+     "gloss": "by-mantra-knowers",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "Who is said to have told this sacrificial-thread seal?",
+   "premises": [
+    "This sacrificial-thread seal is told.",
+    "It is told by mantra-knowers."
+   ],
+   "inference": "Mantra-knowers are credited with telling this sacrificial-thread seal.",
+   "uncertainties": [
+    "No further attribution details are given."
+   ],
+   "plain_english": "This sacrificial-thread seal is told by those who know mantras."
+  },
+  {
+   "verse": 1879,
+   "rows": [
+    {
+     "surface": "yuktā'nāmikayā'ṅguṣṭhā",
+     "gloss": "joined-ring-finger-thumb",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "gandhamudreti",
+     "gloss": "scent-seal-thus",
+     "grounds": "compound with iti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kīrttitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + kīrt"
+    }
+   ],
+   "question": "How is the scent seal formed from ring finger and thumb?",
+   "premises": [
+    "The ring finger and thumb are joined.",
+    "The scent seal is proclaimed."
+   ],
+   "inference": "The scent seal is proclaimed as formed by joining ring finger and thumb.",
+   "uncertainties": [
+    "The exact joining posture is not detailed."
+   ],
+   "plain_english": "The scent seal is proclaimed with ring finger and thumb joined."
+  },
+  {
+   "verse": 1880,
+   "rows": [
+    {
+     "surface": "puṣpamudrā",
+     "gloss": "flower-seal",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "called",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + khyā"
+    },
+    {
+     "surface": "puṣpadānavivarddhinī",
+     "gloss": "flower-giving-increasing",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What effect is attributed to the flower seal?",
+   "premises": [
+    "The flower seal is named.",
+    "It is described as increasing flower-giving."
+   ],
+   "inference": "The flower seal is called the increasing flower-giving seal.",
+   "uncertainties": [
+    "The mechanism of increase is not stated."
+   ],
+   "plain_english": "The flower seal is called the increasing flower-giving seal."
+  },
+  {
+   "verse": 1881,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dhūpapradāne",
+     "gloss": "in-incense-offering",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + as"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "tuṣṭikāriṇī",
+     "gloss": "pleasing",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is the seal for incense offering said to do for the gods?",
+   "premises": [
+    "A seal may be used in incense offering.",
+    "It is pleasing to the gods."
+   ],
+   "inference": "The seal used in incense offering is pleasing to the gods.",
+   "uncertainties": [
+    "No specific hand form is given here."
+   ],
+   "plain_english": "In incense offering, the seal is pleasing to the gods."
+  },
+  {
+   "verse": 1882,
+   "rows": [
+    {
+     "surface": "pañcāṅgulyagrasaṃlagnaprotthitā'dhomukhī",
+     "gloss": "five-fingers-tip-joined-raised-downward-facing",
+     "grounds": "fused sandhi compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What posture is described for the five-finger seal if used?",
+   "premises": [
+    "The five fingers are joined at the tips.",
+    "They are raised and downward-facing."
+   ],
+   "inference": "The seal has five joined fingertips raised and facing downward.",
+   "uncertainties": [
+    "The condition introduced by if is not completed here."
+   ],
+   "plain_english": "If used, the five fingertips are joined, raised, and downward-facing."
+  },
+  {
+   "verse": 1883,
+   "rows": [
+    {
+     "surface": "sphoṭiketi",
+     "gloss": "bursting-thus",
+     "grounds": "compound with iti",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "called",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + khyā"
+    },
+    {
+     "surface": "praṇāme",
+     "gloss": "in-salutation",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative accusative",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "show",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + darś"
+    }
+   ],
+   "question": "When should the bursting seal be shown?",
+   "premises": [
+    "The bursting seal is named.",
+    "It is shown in salutation."
+   ],
+   "inference": "The bursting seal is to be shown during salutation.",
+   "uncertainties": [
+    "The exact hand gesture is not specified."
+   ],
+   "plain_english": "The bursting seal is called and shown in salutation."
+  },
+  {
+   "verse": 1884,
+   "rows": [
+    {
+     "surface": "kaniṣṭhā'ṅguṣṭhasaṃsaktā",
+     "gloss": "little-finger-thumb-joined",
+     "grounds": "fused sandhi compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "gandhamudrā",
+     "gloss": "scent-seal",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + kīrt"
+    }
+   ],
+   "question": "Which fingers form the proclaimed scent seal?",
+   "premises": [
+    "The little finger and thumb are joined.",
+    "The scent seal is proclaimed."
+   ],
+   "inference": "The scent seal is proclaimed with little finger and thumb joined.",
+   "uncertainties": [
+    "No additional posture details are given."
+   ],
+   "plain_english": "The scent seal is proclaimed with little finger and thumb joined."
+  },
+  {
+   "verse": 1885,
+   "rows": [
+    {
+     "surface": "dīpasya",
+     "gloss": "of-lamp",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "madhyamānāmā",
+     "gloss": "middle-ring",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "naivedyasya",
+     "gloss": "of-offering",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "prakīrttitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + kīrt"
+    }
+   ],
+   "question": "For which two offerings is the middle-ring seal proclaimed?",
+   "premises": [
+    "The seal is for lamp.",
+    "The seal is for offering."
+   ],
+   "inference": "The middle-ring seal is proclaimed for lamp and offering.",
+   "uncertainties": [
+    "The exact hand form is not described."
+   ],
+   "plain_english": "The middle-ring seal is proclaimed for lamp and offering."
+  },
+  {
+   "verse": 1886,
+   "rows": [
+    {
+     "surface": "itarāṅgulisaṃyogāt",
+     "gloss": "other-fingers-joining",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "mudrāḥ",
+     "gloss": "seals",
+     "grounds": "plural",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "prakīrttitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle plural",
+     "morph": "v.3.pl.pass-perf + kīrt"
+    }
+   ],
+   "question": "How many seals are proclaimed from joining the other fingers?",
+   "premises": [
+    "Other fingers are joined.",
+    "Five seals are proclaimed."
+   ],
+   "inference": "Joining the other fingers yields five proclaimed seals.",
+   "uncertainties": [
+    "The individual seals are not enumerated here."
+   ],
+   "plain_english": "Five seals are proclaimed from joining the other fingers."
+  },
+  {
+   "verse": 1887,
+   "rows": [
+    {
+     "surface": "mudrayā",
+     "gloss": "by-seal",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "v.3.sg.pass-perf + kṛ"
+    },
+    {
+     "surface": "karma",
+     "gloss": "act",
+     "grounds": "noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tadanantaphalaṃ",
+     "gloss": "that-endless-fruit",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + bhū"
+    }
+   ],
+   "question": "What fruit results from an act done with a seal?",
+   "premises": [
+    "An act is done with a seal.",
+    "Its fruit becomes endless."
+   ],
+   "inference": "An act performed with a seal yields endless fruit.",
+   "uncertainties": [
+    "The scope of endless fruit is not defined."
+   ],
+   "plain_english": "An act done with a seal becomes endlessly fruitful."
+  },
+  {
+   "verse": 1888,
+   "rows": [
+    {
+     "surface": "puṇyakṣetre",
+     "gloss": "in-holy-place",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "puṇyakāle",
+     "gloss": "in-holy-time",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "śalyādirahite",
+     "gloss": "thorn-etc-free",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sthale",
+     "gloss": "place",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What kind of place is specified for the rite?",
+   "premises": [
+    "The place is holy.",
+    "The place is free from thorns and similar obstacles."
+   ],
+   "inference": "The rite requires a holy place and time, free from thorns and obstacles.",
+   "uncertainties": [
+    "The exact rite is not named in this verse."
+   ],
+   "plain_english": "The rite is set in a holy place and time, free from thorns and obstacles."
+  },
+  {
+   "verse": 1889,
+   "rows": [
+    {
+     "surface": "sāyaṃ",
+     "gloss": "evening",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkalpya",
+     "gloss": "resolving",
+     "grounds": "absolutive",
+     "morph": "v.abs + saṅkalp"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭasthāpanapūrvakam",
+     "gloss": "pot-establishment-preceded",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What evening preparation precedes the pot establishment?",
+   "premises": [
+    "In the evening one resolves.",
+    "The pot establishment is preceded by rite."
+   ],
+   "inference": "Evening resolution according to rite precedes pot establishment.",
+   "uncertainties": [
+    "The exact resolution content is not stated."
+   ],
+   "plain_english": "In the evening, resolving according to rite, one precedes pot establishment."
+  },
+  {
+   "verse": 1890,
+   "rows": [
+    {
+     "surface": "yathāśaktyupacārādyaiḥ",
+     "gloss": "according-to-ability-worship-etc",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + pūj"
+    },
+    {
+     "surface": "mūladaivatam",
+     "gloss": "root-deity",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How should the root deity be worshipped?",
+   "premises": [
+    "Worship is according to ability.",
+    "The root deity is worshipped."
+   ],
+   "inference": "The root deity is worshipped with offerings according to one's ability.",
+   "uncertainties": [
+    "The specific offerings are not listed."
+   ],
+   "plain_english": "Worship the root deity with offerings according to ability."
+  },
+  {
+   "verse": 1891,
+   "rows": [
+    {
+     "surface": "candreṇetyādimantreṇa",
+     "gloss": "by-moon-etc-mantra",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "jayaghoṣapuraḥsaram",
+     "gloss": "victory-shout-preceded",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What precedes the moon mantra recitation?",
+   "premises": [
+    "The moon etc. mantra is used.",
+    "Victory shout precedes it."
+   ],
+   "inference": "The moon mantra is recited with victory shout preceding.",
+   "uncertainties": [
+    "The full mantra sequence is not given."
+   ],
+   "plain_english": "Recite the moon etc. mantra preceded by a victory shout."
+  },
+  {
+   "verse": 1892,
+   "rows": [
+    {
+     "surface": "prātarnirvarttya",
+     "gloss": "morning-performing",
+     "grounds": "compound absolutive",
+     "morph": "v.abs + nirvart"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "daily",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kḷptayāgasthale",
+     "gloss": "prepared-sacrifice-place",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "viśet",
+     "gloss": "enter",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + viś"
+    }
+   ],
+   "question": "Where does one enter after morning daily performance?",
+   "premises": [
+    "Morning performance is done daily.",
+    "One enters the prepared sacrifice place."
+   ],
+   "inference": "After morning daily performance, one enters the prepared sacrifice place.",
+   "uncertainties": [
+    "The exact morning rite is not specified."
+   ],
+   "plain_english": "After performing the daily morning rite, enter the prepared sacrifice place."
+  },
+  {
+   "verse": 1893,
+   "rows": [
+    {
+     "surface": "vitānacāmaracchatrapuṣpamālāvibhūṣite",
+     "gloss": "canopy-chowrie-umbrella-flower-garland-adorned",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "How is the sacrifice place adorned?",
+   "premises": [
+    "The place is adorned.",
+    "It has canopy, chowrie, umbrella, and flower garland."
+   ],
+   "inference": "The sacrifice place is adorned with canopy, chowrie, umbrella, and flower garland.",
+   "uncertainties": [
+    "No further spatial details are given."
+   ],
+   "plain_english": "The place is adorned with canopy, chowrie, umbrella, and flower garland."
+  },
+  {
+   "verse": 1894,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvatobhadraṃ",
+     "gloss": "all-auspicious",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vedyā",
+     "gloss": "altar",
+     "grounds": "ablative or locative",
+     "morph": "n.abl.sg.f"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "draw",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + likh"
+    }
+   ],
+   "question": "Where should the all-auspicious mandala be drawn?",
+   "premises": [
+    "The mandala is all-auspicious.",
+    "It is drawn upon the altar."
+   ],
+   "inference": "The all-auspicious mandala is drawn upon the altar.",
+   "uncertainties": [
+    "The mandala's exact design is not described."
+   ],
+   "plain_english": "Draw the all-auspicious mandala upon the altar."
+  },
+  {
+   "verse": 1895,
+   "rows": [
+    {
+     "surface": "pañcaśuddhiṃ",
+     "gloss": "five-purifications",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "samācarya",
+     "gloss": "performing",
+     "grounds": "absolutive",
+     "morph": "v.abs + samācar"
+    },
+    {
+     "surface": "kumbhamakṣatasaṃyutam",
+     "gloss": "pot-rice-grains-joined",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What is joined to the pot after five purifications?",
+   "premises": [
+    "Five purifications are performed.",
+    "The pot is joined with rice grains."
+   ],
+   "inference": "After five purifications, the pot is joined with rice grains.",
+   "uncertainties": [
+    "The five purifications are not enumerated."
+   ],
+   "plain_english": "Perform five purifications, then join the pot with rice grains."
+  },
+  {
+   "verse": 1896,
+   "rows": [
+    {
+     "surface": "pīṭhamanvantimāstatra",
+     "gloss": "seat-mantra-last-there",
+     "grounds": "compound",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + sthā"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What does the wise one place there last?",
+   "premises": [
+    "The wise one places all.",
+    "The seat mantra is last there."
+   ],
+   "inference": "The wise one places all, with the seat mantra last there.",
+   "uncertainties": [
+    "The exact seat mantra is not given."
+   ],
+   "plain_english": "The wise one places all there, the seat mantra last."
+  },
+  {
+   "verse": 1897,
+   "rows": [
+    {
+     "surface": "pañcagavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive",
+     "morph": "v.abs + kṛ"
+    },
+    {
+     "surface": "śivamantraviśodhitam",
+     "gloss": "shiva-mantra-purified",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is the five-cow-product mixture purified?",
+   "premises": [
+    "The five cow products are made.",
+    "They are purified by Shiva mantra."
+   ],
+   "inference": "The five-cow-product mixture is purified by Shiva mantra.",
+   "uncertainties": [
+    "The five products are not listed."
+   ],
+   "plain_english": "Then make the five cow products purified by Shiva mantra."
+  },
+  {
+   "verse": 1898,
+   "rows": [
+    {
+     "surface": "pañcāmṛtena",
+     "gloss": "by-five-nectars",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "haviṣā",
+     "gloss": "by-offering",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "dadhnā",
+     "gloss": "by-curd",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "payasā",
+     "gloss": "by-milk",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order are the five nectars, offering, curd, and milk used?",
+   "premises": [
+    "Five nectars, offering, curd, and milk are used.",
+    "They are used in order."
+   ],
+   "inference": "The five nectars, offering, curd, and milk are applied in order.",
+   "uncertainties": [
+    "The exact sequence order is not specified."
+   ],
+   "plain_english": "Use five nectars, offering, curd, and milk in order."
+  },
+  {
+   "verse": 1899,
+   "rows": [
+    {
+     "surface": "vāsasā",
+     "gloss": "by-cloth",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "jalamuttolya",
+     "gloss": "water-lifting",
+     "grounds": "compound absolutive",
+     "morph": "v.abs + uttol"
+    },
+    {
+     "surface": "dukūle",
+     "gloss": "fine-cloth",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "paridhāpayet",
+     "gloss": "clothe",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt + paridhā"
+    }
+   ],
+   "question": "How is the lifted water used with fine cloth?",
+   "premises": [
+    "Water is lifted by cloth.",
+    "One clothes with fine cloth."
+   ],
+   "inference": "After lifting water by cloth, one clothes with fine cloth.",
+   "uncertainties": [
+    "The exact ritual purpose is not stated."
+   ],
+   "plain_english": "Lift water by cloth, then clothe with fine cloth."
+  }
+ ]
+}

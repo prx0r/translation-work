@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction introducing a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithyā",
+     "gloss": "falsely",
+     "grounds": "adverb indicating an erroneous or false state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential or conditional expression of becoming",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yoga+rājaḥ",
+     "gloss": "yoga-king",
+     "grounds": "compound denoting the sovereign among yogic practices",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "su+durlabhaḥ",
+     "gloss": "very-hard-to-attain",
+     "grounds": "compound with intensifier su- expressing extreme difficulty of attainment",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What condition renders the supreme yoga exceedingly difficult to attain?",
+   "premises": [
+    "A conditional situation is introduced by the term 'when'.",
+    "The condition involves something proving false or erroneous.",
+    "The king of yogas becomes very hard to attain under this condition."
+   ],
+   "inference": "If the stated understanding proves false, the supreme yoga becomes exceedingly difficult to attain.",
+   "uncertainties": [
+    "The exact antecedent of 'false' depends on the immediately preceding verses' claim."
+   ],
+   "plain_english": "O Goddess, when this proves false, the king of yogas becomes very difficult to attain."
+  }
+ ]
+}

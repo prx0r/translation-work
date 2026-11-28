@@ -1,0 +1,416 @@
+{
+ "song": "sva-p47",
+ "items": [
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthityā",
+     "gloss": "by-state",
+     "grounds": "sthiti instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "parabhairava+rūpān",
+     "gloss": "para-bhairava-form",
+     "grounds": "compound fused",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "eva particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampādayati",
+     "gloss": "accomplishes",
+     "grounds": "sam-pad causative",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śivam",
+     "grounds": "śiva accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does this state accomplish para-bhairava forms?",
+   "premises": [
+    "sthityā indicates by state",
+    "parabhairava+rūpān are forms"
+   ],
+   "inference": "The state accomplishes para-bhairava forms.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "Thus by state it accomplishes para-bhairava forms; thus śivam."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "bhuvanādhva+dīkṣā+vidhiḥ",
+     "gloss": "world-path-initiation-rite",
+     "grounds": "compound fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "nāma particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśamaḥ",
+     "gloss": "tenth",
+     "grounds": "daśama ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "paṭala noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the name of this tenth chapter?",
+   "premises": [
+    "bhuvanādhva+dīkṣā+vidhiḥ is rite",
+    "daśamaḥ means tenth"
+   ],
+   "inference": "The tenth chapter is named world-path initiation rite.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "The world-path initiation rite is named the tenth chapter."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "viśvakartuḥ",
+     "gloss": "of-universe-maker",
+     "grounds": "viśva-kartṛ genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parameśvarāt",
+     "gloss": "from-supreme-lord",
+     "grounds": "parameśvara ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "abhinna+eva",
+     "gloss": "not-different-indeed",
+     "grounds": "compound fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipāditam",
+     "gloss": "established",
+     "grounds": "prati-pad past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "bhū present",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What is established about the universe maker?",
+   "premises": [
+    "viśvakartuḥ is universe maker",
+    "parameśvarāt is supreme lord"
+   ],
+   "inference": "The universe maker is established as not different from the supreme lord.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "It is established that the maker of the universe is not different from the supreme lord."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "nāda+āvaraṇa+rūpaṇa+ādi+avasare",
+     "gloss": "nāda-veil-form-etc-occasion",
+     "grounds": "compound fused",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "On what occasion does this apply?",
+   "premises": [
+    "nāda+āvaraṇa+rūpaṇa+ādi+avasare is occasion"
+   ],
+   "inference": "This applies on the occasion of nāda veil form and so on.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "On the occasion of nāda veil form and the rest."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "artha noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning indicated here?",
+   "premises": [
+    "iti marks statement",
+    "arthaḥ means meaning"
+   ],
+   "inference": "This is the meaning.",
+   "uncertainties": [
+    "context dependent"
+   ],
+   "plain_english": "Thus is the meaning."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "śaktimat+rūpa+parama+śiva+ātmanā",
+     "gloss": "power-possessing-form-supreme-śiva-self",
+     "grounds": "compound fused",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "By what self is this described?",
+   "premises": [
+    "śaktimat+rūpa+parama+śiva+ātmanā is self"
+   ],
+   "inference": "It is described by the self of power-possessing form supreme śiva.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "By the self of power-possessing form supreme śiva."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "punar adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāśritādayaḥ",
+     "gloss": "unsheltered-etc",
+     "grounds": "compound fused",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tad+vyatiriktāḥ",
+     "gloss": "those-beyond",
+     "grounds": "compound fused",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "kecit pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the ones beyond those?",
+   "premises": [
+    "anāśritādayaḥ are unsheltered etc",
+    "tad+vyatiriktāḥ are beyond those"
+   ],
+   "inference": "Some are beyond the unsheltered and the rest.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "Again some are beyond the unsheltered and the rest."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "nirañjana+parabhairava+svarūpa+avyatirekāt",
+     "gloss": "stainless-supreme-bhairava-nature-non-difference",
+     "grounds": "compound fused",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what non-difference is this understood?",
+   "premises": [
+    "nirañjana+parabhairava+svarūpa+avyatirekāt is non-difference"
+   ],
+   "inference": "It is understood from non-difference with stainless supreme bhairava nature.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "From non-difference with stainless supreme bhairava nature."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "āśrita+anāśrita+bhaṭṭāraka+rūpa+śiva+tattva+āśritam+iti+arthaḥ",
+     "gloss": "sheltered-unsheltered-bhaṭṭāraka-form-śiva-principle-sheltered-meaning",
+     "grounds": "compound fused",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of this sheltered phrase?",
+   "premises": [
+    "āśrita+anāśrita+bhaṭṭāraka+rūpa+śiva+tattva+āśritam is sheltered",
+    "iti+arthaḥ means meaning"
+   ],
+   "inference": "The meaning is that sheltered and unsheltered bhaṭṭāraka form śiva principle is sheltered.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "The meaning is sheltered and unsheltered bhaṭṭāraka form śiva principle is sheltered."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "nirmalaḥ",
+     "gloss": "pure",
+     "grounds": "nirmala adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimalaḥ",
+     "gloss": "stainless",
+     "grounds": "vimala adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāntaḥ",
+     "gloss": "peaceful",
+     "grounds": "śānta adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvadha",
+     "gloss": "below",
+     "grounds": "tvadha adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvam",
+     "gloss": "above",
+     "grounds": "ūrdhvam adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "situated",
+     "grounds": "vyavasthita participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is this pure one situated?",
+   "premises": [
+    "nirmalaḥ vimalaḥ śāntaḥ are qualities",
+    "tvadha ūrdhvam are directions"
+   ],
+   "inference": "The pure stainless peaceful one is situated below and above.",
+   "uncertainties": [
+    "tvadha unusual form"
+   ],
+   "plain_english": "Pure, stainless, peaceful, situated below and above."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "sattā+asti",
+     "gloss": "existence-is",
+     "grounds": "compound fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktatvāt",
+     "gloss": "said",
+     "grounds": "ukta past participle ablative",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is existence said to be?",
+   "premises": [
+    "sattā+asti is existence-is",
+    "uktatvāt is said"
+   ],
+   "inference": "Because it has been said, existence is.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "Because it has been said, existence is."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "kāraṇa+vyāpti",
+     "gloss": "cause-pervasion",
+     "grounds": "compound fused",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "iti particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "śeṣa noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains as cause pervasion?",
+   "premises": [
+    "kāraṇa+vyāpti is cause-pervasion",
+    "śeṣaḥ is remainder"
+   ],
+   "inference": "The remainder is cause pervasion.",
+   "uncertainties": [
+    "compound internal sense approximate"
+   ],
+   "plain_english": "The remainder is cause pervasion."
+  }
+ ]
+}

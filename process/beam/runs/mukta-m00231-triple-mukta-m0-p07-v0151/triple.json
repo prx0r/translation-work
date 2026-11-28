@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "mantraśuddhiḥ",
+     "gloss": "mantra-purification",
+     "grounds": "compound purification of mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devaśuddhiḥ",
+     "gloss": "deva-purification",
+     "grounds": "compound purification of deva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaśuddhiḥ",
+     "gloss": "five-purification",
+     "grounds": "compound purification of five",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "iti + īritā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which three purifications are declared as the ritual sequence here?",
+   "premises": [
+    "mantra purification is named",
+    "deva purification is named",
+    "five purification is named"
+   ],
+   "inference": "The verse lists mantra, deva, and five purifications as declared.",
+   "uncertainties": [
+    "exact ritual order beyond listing"
+   ],
+   "plain_english": "Mantra purification, deva purification, and five purification are thus declared."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "sāmānyārghyaṃ",
+     "gloss": "common-arghya",
+     "grounds": "compound common arghya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "prokṣaṇārthaṃ",
+     "gloss": "sprinkling-for",
+     "grounds": "compound for sprinkling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the practitioner do with common arghya after the purifications?",
+   "premises": [
+    "common arghya is named",
+    "then is stated",
+    "practitioner should do it"
+   ],
+   "inference": "The practitioner should then make common arghya for sprinkling.",
+   "uncertainties": [
+    "exact sprinkling procedure"
+   ],
+   "plain_english": "Then the practitioner should make common arghya for sprinkling."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "base",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-establish",
+     "grounds": "optative of sthā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of saṃpūj",
+     "morph": "abs"
+    },
+    {
+     "surface": "vahnimaṇḍalam",
+     "gloss": "fire-circle",
+     "grounds": "compound fire circle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What base should be established there after worshipping the fire circle?",
+   "premises": [
+    "base should be established",
+    "there is stated",
+    "fire circle is worshipped"
+   ],
+   "inference": "The practitioner should establish the base there after worshipping the fire circle.",
+   "uncertainties": [
+    "identity of base"
+   ],
+   "plain_english": "There, having worshipped the fire circle, one should establish the base."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "sūryamaṇḍalam",
+     "gloss": "sun-circle",
+     "grounds": "compound sun circle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of uccār",
+     "morph": "abs"
+    },
+    {
+     "surface": "hṛnmantreṇa",
+     "gloss": "heart-mantra",
+     "grounds": "compound heart mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of prapūj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the sun circle be worshipped in this rite?",
+   "premises": [
+    "sun circle is named",
+    "heart mantra is used",
+    "worship is commanded"
+   ],
+   "inference": "One should worship the sun circle by uttering the heart mantra.",
+   "uncertainties": [
+    "exact mantra form"
+   ],
+   "plain_english": "Having uttered the heart mantra, one should worship the sun circle."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "indumaṇḍalam",
+     "gloss": "moon-circle",
+     "grounds": "compound moon circle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of abhyarc",
+     "morph": "abs"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative of prakṣip",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gandhapuṣpake",
+     "gloss": "sandal-flowers",
+     "grounds": "compound sandal flowers",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "What should be thrown after worshipping the moon circle?",
+   "premises": [
+    "moon circle is worshipped",
+    "throwing is commanded",
+    "sandal flowers are named"
+   ],
+   "inference": "After worshipping the moon circle, one should throw sandal flowers.",
+   "uncertainties": [
+    "exact offering context"
+   ],
+   "plain_english": "Having worshipped the moon circle, one should throw sandal flowers."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "agnīśāsuravāyavyamadhye",
+     "gloss": "in-middle-of-fire-ishāsura-vāyu",
+     "grounds": "compound in middle of fire ishāsura vāyu",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "dikṣvaṅgapūjanam",
+     "gloss": "in-directions-limb-worship",
+     "grounds": "compound directions limb worship",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is limb worship performed among the directional deities?",
+   "premises": [
+    "middle of fire ishāsura vāyu is named",
+    "directions are named",
+    "limb worship is named"
+   ],
+   "inference": "Limb worship is performed in the directions amid fire, ishāsura, and vāyu.",
+   "uncertainties": [
+    "exact directional mapping"
+   ],
+   "plain_english": "In the middle of fire, ishāsura, and vāyu, limb worship is done in the directions."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "astrāntamūlam",
+     "gloss": "weapon-end-root",
+     "grounds": "compound weapon end root",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of uccār",
+     "morph": "abs"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "accusative of ātman",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāgabhūmiṣu",
+     "gloss": "in-sacrifice-grounds",
+     "grounds": "compound sacrifice grounds locative",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "What is uttered for the self in the sacrifice grounds?",
+   "premises": [
+    "weapon end root is named",
+    "self is named",
+    "sacrifice grounds are named"
+   ],
+   "inference": "One utters the weapon-end root for the self in the sacrifice grounds.",
+   "uncertainties": [
+    "exact mantra sense"
+   ],
+   "plain_english": "Having uttered the weapon-end root, one places the self in the sacrifice grounds."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "accusative of praṇava",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhagavati",
+     "gloss": "O-goddess",
+     "grounds": "vocative of bhagavatī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharaṇīṃ",
+     "gloss": "earth",
+     "grounds": "accusative of dharaṇī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ṅeyutāṃ",
+     "gloss": "with-ṅa",
+     "grounds": "compound with ṅa",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one say to the goddess regarding earth?",
+   "premises": [
+    "praṇava is named",
+    "goddess is addressed",
+    "earth with ṅa is named"
+   ],
+   "inference": "One should say praṇava to the goddess, indeed earth with ṅa.",
+   "uncertainties": [
+    "exact phonetic rule"
+   ],
+   "plain_english": "To the goddess one should indeed say praṇava, earth with ṅa."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "brahmāṇaṃ",
+     "gloss": "Brahmā",
+     "grounds": "accusative of brahman",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of pūjay",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "person",
+     "grounds": "accusative of puruṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāstusaṃjñakam",
+     "gloss": "called-Vāstu",
+     "grounds": "compound called Vāstu",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which beings are worshipped before the Vāstu person?",
+   "premises": [
+    "Brahmā is worshipped",
+    "and is stated",
+    "Vāstu person is named"
+   ],
+   "inference": "Having worshipped Brahmā, one also worships the person called Vāstu.",
+   "uncertainties": [
+    "exact Vāstu identity"
+   ],
+   "plain_english": "Having worshipped Brahmā, one also worships the person called Vāstu."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "vitānaṃ",
+     "gloss": "canopy",
+     "grounds": "accusative of vitāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūpadīpādyaiḥ",
+     "gloss": "with-incense-lamp-etc",
+     "grounds": "compound with incense lamp etc",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puṣpamālā'bhiśobhitam",
+     "gloss": "flower-garland-beautified",
+     "grounds": "compound flower garland beautified",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the canopy described in this worship?",
+   "premises": [
+    "canopy is named",
+    "incense lamp etc are used",
+    "flower garland beautifies it"
+   ],
+   "inference": "The canopy is beautified with flower garland and incense, lamp, etc.",
+   "uncertainties": [
+    "exact canopy placement"
+   ],
+   "plain_english": "The canopy, beautified with flower garland, is offered with incense, lamp, and so on."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive of vilikh",
+     "morph": "abs"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "accusative of maṇḍala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative of bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakāgraṇīḥ",
+     "gloss": "practitioner-chief",
+     "grounds": "compound practitioner chief",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who draws the circle on the ground as before?",
+   "premises": [
+    "circle is drawn",
+    "on ground is stated",
+    "practitioner chief is named"
+   ],
+   "inference": "The chief practitioner draws the circle on the ground as before.",
+   "uncertainties": [
+    "exact circle design"
+   ],
+   "plain_english": "The chief practitioner draws the circle on the ground as before."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "athāsanaṃ",
+     "gloss": "then-seat",
+     "grounds": "compound then seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "future of pravac",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "śāktānāṃ",
+     "gloss": "of-Śāktas",
+     "grounds": "genitive plural of śākta",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthitikāmyayā",
+     "gloss": "for-desire-of-stability",
+     "grounds": "compound for desire of stability",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Why does the speaker declare the seat of the Śāktas?",
+   "premises": [
+    "seat is named",
+    "speaker will declare",
+    "desire of stability is named"
+   ],
+   "inference": "The speaker declares the Śākta seat for the desire of stability.",
+   "uncertainties": [
+    "exact seat type"
+   ],
+   "plain_english": "Now I will declare the seat of the Śāktas, for the desire of stability."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "viṣṭare",
+     "gloss": "on-seat",
+     "grounds": "locative of viṣṭara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsīnaḥ",
+     "gloss": "seated",
+     "grounds": "participle of samās",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "siddhimuttamām",
+     "gloss": "supreme-siddhi",
+     "grounds": "compound supreme siddhi",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is accomplished by one seated on the seat?",
+   "premises": [
+    "on seat is stated",
+    "seated is named",
+    "supreme siddhi is named"
+   ],
+   "inference": "One seated on the seat should accomplish supreme siddhi.",
+   "uncertainties": [
+    "seat material"
+   ],
+   "plain_english": "Seated on the seat, one should accomplish supreme siddhi."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "cūḍopanayanairhīnaṃ",
+     "gloss": "without-tonsure-upanayana",
+     "grounds": "compound without tonsure upanayana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mṛdumacūḍakaṃ",
+     "gloss": "soft-small-tonsure",
+     "grounds": "compound soft small tonsure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "perfect of vid",
+     "morph": "3.pl.act-perf"
+    }
+   ],
+   "question": "What kind of tonsure is known for one without tonsure and upanayana?",
+   "premises": [
+    "without tonsure upanayana is named",
+    "soft small tonsure is named",
+    "they know is stated"
+   ],
+   "inference": "They know a soft small tonsure for one lacking tonsure and upanayana.",
+   "uncertainties": [
+    "exact social context"
+   ],
+   "plain_english": "They know a soft small tonsure for one without tonsure and upanayana."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "died",
+     "grounds": "participle of mṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "locative of pañcama",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varṣe",
+     "gloss": "year",
+     "grounds": "locative of varṣa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tameva",
+     "gloss": "him-indeed",
+     "grounds": "pronoun indeed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "komalaṃ",
+     "gloss": "tender",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "perfect of vid",
+     "morph": "3.pl.act-perf"
+    }
+   ],
+   "question": "What is known about one who dies in the fifth year?",
+   "premises": [
+    "who died is stated",
+    "in fifth year is stated",
+    "tender is named"
+   ],
+   "inference": "They know him indeed as tender who dies in the fifth year.",
+   "uncertainties": [
+    "exact ritual implication"
+   ],
+   "plain_english": "They know as tender indeed one who dies in the fifth year."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "that-long",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "accusative of kāla",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nārakī",
+     "gloss": "hell-dweller",
+     "grounds": "compound hell dweller",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yāvadāhūtasaṃplavam",
+     "gloss": "until-cosmic-dissolution",
+     "grounds": "compound until cosmic dissolution",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How long would a hell-dweller remain so?",
+   "premises": [
+    "that long is stated",
+    "hell-dweller is named",
+    "until cosmic dissolution is named"
+   ],
+   "inference": "A hell-dweller would be so until cosmic dissolution.",
+   "uncertainties": [
+    "exact cosmological duration"
+   ],
+   "plain_english": "A hell-dweller would be so until cosmic dissolution."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "kauśeyaṃ",
+     "gloss": "silk",
+     "grounds": "adjective silk",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogadaṃ",
+     "gloss": "pleasure-giving",
+     "grounds": "compound pleasure giving",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktakambalaṃ",
+     "gloss": "red-blanket",
+     "grounds": "compound red blanket",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhidaṃ",
+     "gloss": "siddhi-giving",
+     "grounds": "compound siddhi giving",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle of smṛ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What materials are remembered as giving pleasure and siddhi?",
+   "premises": [
+    "silk is pleasure-giving",
+    "red blanket is siddhi-giving",
+    "remembered is stated"
+   ],
+   "inference": "Silk is remembered as pleasure-giving and red blanket as siddhi-giving.",
+   "uncertainties": [
+    "exact seat use"
+   ],
+   "plain_english": "Silk is pleasure-giving, red blanket is siddhi-giving, as remembered."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "ūrṇā",
+     "gloss": "wool",
+     "grounds": "nominative of ūrṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "duḥkhaharī",
+     "gloss": "sorrow-removing",
+     "grounds": "compound sorrow removing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "participle of prac",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānasiddhiḥ",
+     "gloss": "knowledge-siddhi",
+     "grounds": "compound knowledge siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛgājine",
+     "gloss": "in-deer-skin",
+     "grounds": "compound in deer skin",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is declared about wool and deer skin?",
+   "premises": [
+    "wool is sorrow-removing",
+    "declared is stated",
+    "knowledge siddhi is in deer skin"
+   ],
+   "inference": "Wool is declared sorrow-removing, and knowledge siddhi is in deer skin.",
+   "uncertainties": [
+    "exact material pairing"
+   ],
+   "plain_english": "Wool is declared sorrow-removing; knowledge-siddhi is in deer skin."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "kāṣṭhāsanaṃ",
+     "gloss": "wooden-seat",
+     "grounds": "compound wooden seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daurbhāgyavān",
+     "gloss": "unfortunate",
+     "grounds": "compound unfortunate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Why should one not make a wooden seat?",
+   "premises": [
+    "wooden seat is named",
+    "not should do is stated",
+    "unfortunate would become is stated"
+   ],
+   "inference": "One should not make a wooden seat, lest one become unfortunate.",
+   "uncertainties": [
+    "exact causal link"
+   ],
+   "plain_english": "One should not make a wooden seat, where one would become unfortunate."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "manoharaṃ",
+     "gloss": "delightful",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mṛdu",
+     "gloss": "soft",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ślakṣṇam",
+     "gloss": "smooth",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "accusative of āsana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "participle of parikīrt",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities are declared for the seat?",
+   "premises": [
+    "delightful is named",
+    "soft is named",
+    "smooth is named"
+   ],
+   "inference": "The seat is declared delightful, soft, and smooth.",
+   "uncertainties": [
+    "exact material"
+   ],
+   "plain_english": "A delightful, soft, smooth seat is declared."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "sāmānyārghyasya",
+     "gloss": "common-arghya's",
+     "grounds": "genitive of sāmānyārghya",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "toyena",
+     "gloss": "with-water",
+     "grounds": "instrumental of toya",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "puṭāñjalividhānataḥ",
+     "gloss": "with-cupped-hands-rite",
+     "grounds": "compound with cupped hands rite",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is common arghya offered with water?",
+   "premises": [
+    "common arghya is named",
+    "with water is stated",
+    "cupped hands rite is named"
+   ],
+   "inference": "Common arghya is offered with water by the cupped-hands rite.",
+   "uncertainties": [
+    "exact hand gesture"
+   ],
+   "plain_english": "Common arghya is offered with water by the cupped-hands rite."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "kūrmaḥ",
+     "gloss": "tortoise",
+     "grounds": "nominative of kūrma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhidevatā",
+     "gloss": "presiding-deity",
+     "grounds": "compound presiding deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanasthāpanāya",
+     "gloss": "for-seat-establishment",
+     "grounds": "compound for seat establishment",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the presiding deity for seat establishment here?",
+   "premises": [
+    "tortoise is named",
+    "presiding deity is named",
+    "seat establishment is named"
+   ],
+   "inference": "The tortoise is the presiding deity here for seat establishment.",
+   "uncertainties": [
+    "exact invocation"
+   ],
+   "plain_english": "The tortoise is the presiding deity here for seat establishment."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "pṛthvi",
+     "gloss": "O-earth",
+     "grounds": "vocative of pṛthvī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental of tvam",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "dhṛtā",
+     "gloss": "held",
+     "grounds": "participle of dhṛ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokā",
+     "gloss": "worlds",
+     "grounds": "nominative plural of loka",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devipadaṃ",
+     "gloss": "goddess-word",
+     "grounds": "compound goddess word",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one say to earth after naming held worlds?",
+   "premises": [
+    "O earth is addressed",
+    "worlds held by you is stated",
+    "goddess word is named"
+   ],
+   "inference": "One should then say the goddess-word to earth, who holds the worlds.",
+   "uncertainties": [
+    "exact goddess word"
+   ],
+   "plain_english": "O earth, by you the worlds are held; then one should say the goddess-word."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pavitraṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative of kṛ",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "accusative of āsana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "should-utter",
+     "grounds": "optative of samuccar",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one make pure and utter for the seat?",
+   "premises": [
+    "always is stated",
+    "pure is named",
+    "seat is named"
+   ],
+   "inference": "One should always make the seat pure and utter it.",
+   "uncertainties": [
+    "exact utterance"
+   ],
+   "plain_english": "Always make the seat pure, and utter it."
+  }
+ ]
+}

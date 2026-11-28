@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "triśaḥ",
+     "gloss": "thrice",
+     "grounds": "adverb indicating threefold repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative of root pūj, third singular active",
+     "morph": "verb.3.sg.act.opt root pūj"
+    },
+    {
+     "surface": "tañ",
+     "gloss": "him",
+     "grounds": "accusative pronoun tam with sandhi before ca",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatreṣṭaṃ",
+     "gloss": "there-desired",
+     "grounds": "fused form of tatra and iṣṭam; exact syntactic role uncertain",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gandha+candanaiḥ",
+     "gloss": "with-fragrance-and-sandal",
+     "grounds": "compound instrumental plural denoting fragrant sandal offering",
+     "morph": "compound.ins.pl.m"
+    }
+   ],
+   "question": "How many times should the worshipper worship him there with fragrance and sandal?",
+   "premises": [
+    "Worship is performed thrice.",
+    "Him is worshipped there.",
+    "Fragrance and sandal are used."
+   ],
+   "inference": "The rite prescribes triple worship with fragrant sandal offerings.",
+   "uncertainties": [
+    "tatreṣṭaṃ parsing uncertain; tañ sandhi target unclear."
+   ],
+   "plain_english": "Thrice one should worship him there with fragrance and sandal."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p515",
+ "items": [
+  {
+   "verse": 12875,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "seed-syllable-om",
+     "grounds": "sandhi form of tāraḥ before namo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "sandhi form of namaḥ before bhagavate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavate",
+     "gloss": "to-the-blessed-lord",
+     "grounds": "epithet addressed to Rudra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "rudrāya",
+     "gloss": "to-rudra",
+     "grounds": "divine name in dative of address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle of pra-kīrt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sacred mantra formula is proclaimed as addressed to Lord Rudra?",
+   "premises": [
+    "The seed syllable om is stated first.",
+    "A salutation is directed to the blessed Lord Rudra.",
+    "The formula is explicitly declared as proclaimed."
+   ],
+   "inference": "The proclaimed mantra is the formula beginning with om and offering salutation to Rudra.",
+   "uncertainties": [],
+   "plain_english": "The mantra is proclaimed thus: 'Om, salutation to the blessed Lord Rudra.'"
+  }
+ ]
+}

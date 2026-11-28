@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "true",
+     "grounds": "neuter nominative singular adjective agreeing with etat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "neuter nominative singular demonstrative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition governing ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgāt",
+     "gloss": "union",
+     "grounds": "masculine ablative singular of saṅga",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "masculine nominative singular subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "third person singular active present of root sidh",
+     "morph": "3.sg.act-pres (sidh)"
+    }
+   ],
+   "question": "Can a mantra succeed without union with the goddess?",
+   "premises": [
+    "Union is necessary for mantra success.",
+    "Without union mantra fails.",
+    "This statement is declared true."
+   ],
+   "inference": "Mantra efficacy depends on union.",
+   "uncertainties": [
+    "saṅga may mean ritual union or consort union; exact referent unspecified."
+   ],
+   "plain_english": "This is true: without union, a mantra does not succeed."
+  }
+ ]
+}

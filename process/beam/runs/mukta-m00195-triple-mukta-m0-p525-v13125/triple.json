@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p525",
+ "items": [
+  {
+   "verse": 13125,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.act.opt-pres √jap"
+    },
+    {
+     "surface": "aṣṭa+uttara+śataṃ",
+     "gloss": "one-hundred-and-eight",
+     "grounds": "numeral compound specifying the count of recitations",
+     "morph": "compound=aṣṭa+uttara+śata"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "direct object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun indicating the person affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tanuṃ",
+     "gloss": "body",
+     "grounds": "direct object of touching",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.act.opt-pres √spṛś"
+    }
+   ],
+   "question": "How many mantra recitations must accompany touching a person's body?",
+   "premises": [
+    "The mantra should be recited.",
+    "The recitation count is one hundred and eight.",
+    "The recitation accompanies touching someone's body."
+   ],
+   "inference": "The ritual requires reciting the mantra one hundred and eight times while touching the person's body.",
+   "uncertainties": [
+    "The specific mantra intended is not named in this verse."
+   ],
+   "plain_english": "One should recite the mantra one hundred and eight times while touching the body of the person concerned."
+  }
+ ]
+}

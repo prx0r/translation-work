@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "madhuparkācamanasnānavasanābharaṇāni",
+     "gloss": "honey-curd-water-rinse-bath-clothes",
+     "grounds": "fused compound naming puja items; ornaments also included in the compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding the listed items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional upacara items complete the sixteen-service worship of the goddess?",
+   "premises": [
+    "Sixteen upacaras are used for worship.",
+    "The verse names madhuparka acamana snana vasana abharana.",
+    "Ca adds these items to the prior list."
+   ],
+   "inference": "These items belong among the sixteen upacaras offered to the goddess.",
+   "uncertainties": [
+    "The exact grammatical case of the compound is not fully certain.",
+    "Whether madhuparka counts as one item or three is ambiguous."
+   ],
+   "plain_english": "And honey-curd water, rinsing, bathing, clothes, and ornaments."
+  }
+ ]
+}

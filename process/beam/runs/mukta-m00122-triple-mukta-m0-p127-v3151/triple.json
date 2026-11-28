@@ -1,0 +1,916 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3151,
+   "rows": [
+    {
+     "surface": "rājato",
+     "gloss": "from-king",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dhanito",
+     "gloss": "from-wealthy-person",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "anyasmād",
+     "gloss": "from-another",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that-one",
+     "grounds": "subject referent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ciram",
+     "gloss": "for-long",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Through which external source can a person attain lasting happiness?",
+   "premises": [
+    "A king can be a source of happiness.",
+    "A wealthy person can be a source of happiness.",
+    "Another external source can also provide happiness."
+   ],
+   "inference": "Lasting happiness may be sought from various external benefactors.",
+   "uncertainties": [],
+   "plain_english": "By which means—whether from a king, a wealthy person, or someone else—might that person be happy for a long time?"
+  },
+  {
+   "verse": 3152,
+   "rows": [
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "result of practice",
+     "morph": "3.sg.pres.act (prāp)"
+    },
+    {
+     "surface": "anargha+ratnāni",
+     "gloss": "priceless-jewels",
+     "grounds": "objects obtained",
+     "morph": "compound: anargha+ratna (n.acc.pl)"
+    },
+    {
+     "surface": "bahūni",
+     "gloss": "many",
+     "grounds": "quantity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dhyāna+vaibhavāt",
+     "gloss": "from-meditation-power",
+     "grounds": "causal source",
+     "morph": "compound: dhyāna+vaibhava (m.abl.sg)"
+    }
+   ],
+   "question": "What valuable gains arise from the power of meditation?",
+   "premises": [
+    "Meditation possesses a special power.",
+    "This power enables acquisition of objects.",
+    "The objects acquired can be priceless jewels."
+   ],
+   "inference": "Through the power of meditation one obtains many priceless jewels.",
+   "uncertainties": [],
+   "plain_english": "By the power of meditation, one obtains many priceless jewels."
+  },
+  {
+   "verse": 3153,
+   "rows": [
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "meditative act",
+     "morph": "pres.part.nom.sg.m (smṛ)"
+    },
+    {
+     "surface": "kanakam",
+     "gloss": "gold",
+     "grounds": "object contemplated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "result of contemplation",
+     "morph": "3.sg.pres.act (āp)"
+    },
+    {
+     "surface": "varṇa+utkṛṣṭam",
+     "gloss": "color-excellent",
+     "grounds": "quality of gold",
+     "morph": "compound: varṇa+utkṛṣṭa (n.acc.sg)"
+    },
+    {
+     "surface": "asaṃkhyakam",
+     "gloss": "innumerable",
+     "grounds": "quantity obtained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result follows from meditative remembrance of gold?",
+   "premises": [
+    "One may remember gold in meditation.",
+    "Meditative remembrance yields acquisition.",
+    "The acquired gold is of excellent color and innumerable."
+   ],
+   "inference": "Remembering gold in meditation brings innumerable gold of excellent quality.",
+   "uncertainties": [],
+   "plain_english": "Remembering gold, one obtains innumerable gold of excellent color."
+  },
+  {
+   "verse": 3154,
+   "rows": [
+    {
+     "surface": "yāvat+āyuṣaṃ",
+     "gloss": "as-long-as-life",
+     "grounds": "duration limit",
+     "morph": "compound: yāvat+āyus (n.acc.sg)"
+    },
+    {
+     "surface": "yāvat+jīvam",
+     "gloss": "as-long-as-living",
+     "grounds": "duration limit",
+     "morph": "compound: yāvat+jīva (n.acc.sg)"
+    }
+   ],
+   "question": "For how long do the meditative gains remain available?",
+   "premises": [
+    "The gains are tied to the span of life.",
+    "The gains persist while one is living."
+   ],
+   "inference": "The obtained benefits last for the duration of one's life.",
+   "uncertainties": [],
+   "plain_english": "For as long as life lasts, for as long as one lives."
+  },
+  {
+   "verse": 3155,
+   "rows": [
+    {
+     "surface": "anantara+pūrva+ukta+prakāreṇa",
+     "gloss": "by-immediately-previously-stated-method",
+     "grounds": "procedural reference",
+     "morph": "compound: anantara+pūrva+ukta+prakāra (m.ins.sg)"
+    }
+   ],
+   "question": "By which previously described method are these results achieved?",
+   "premises": [
+    "A method was stated immediately before.",
+    "That method governs the present results."
+   ],
+   "inference": "The results are achieved by the method described immediately previously.",
+   "uncertainties": [],
+   "plain_english": "By the method stated immediately before."
+  },
+  {
+   "verse": 3156,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "tāvat+dhanam",
+     "gloss": "so-much-wealth",
+     "grounds": "extent of gain",
+     "morph": "compound: tāvat+dhana (n.nom.sg)"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory gloss",
+     "morph": "compound: iti+artha (m.nom.sg)"
+    }
+   ],
+   "question": "What is the intended meaning regarding the extent of wealth gained?",
+   "premises": [
+    "Wealth may arise through the stated method.",
+    "The amount corresponds to the duration indicated."
+   ],
+   "inference": "The meaning is that one may have wealth to that extent.",
+   "uncertainties": [],
+   "plain_english": "Such is the meaning: there may be wealth to that extent."
+  },
+  {
+   "verse": 3157,
+   "rows": [
+    {
+     "surface": "pūrva+ukta+dhyāna+prakāreṇa",
+     "gloss": "by-previously-stated-meditation-method",
+     "grounds": "procedural reference",
+     "morph": "compound: pūrva+ukta+dhyāna+prakāra (m.ins.sg)"
+    }
+   ],
+   "question": "Which meditation method is invoked for the following effects?",
+   "premises": [
+    "A meditation method was described earlier.",
+    "That method applies to subsequent results."
+   ],
+   "inference": "The following effects follow the previously stated meditation method.",
+   "uncertainties": [],
+   "plain_english": "By the previously stated method of meditation."
+  },
+  {
+   "verse": 3158,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākvat",
+     "gloss": "as-before",
+     "grounds": "comparison to prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāna+prakāreṇa",
+     "gloss": "by-meditation-method",
+     "grounds": "procedural means",
+     "morph": "compound: dhyāna+prakāra (m.ins.sg)"
+    }
+   ],
+   "question": "How should the meditation method be applied in this context?",
+   "premises": [
+    "The practice continues in the same manner.",
+    "It follows the earlier pattern."
+   ],
+   "inference": "The meditation method is to be applied as before.",
+   "uncertainties": [],
+   "plain_english": "Likewise, by the method of meditation as before."
+  },
+  {
+   "verse": 3159,
+   "rows": [
+    {
+     "surface": "rūpa+yauvana+śīla+āḍhyāḥ",
+     "gloss": "beauty-youth-virtue-endowed",
+     "grounds": "qualities of attracted persons",
+     "morph": "compound: rūpa+yauvana+śīla+āḍhya (f.nom.pl)"
+    },
+    {
+     "surface": "prema+nighnāḥ",
+     "gloss": "love-overwhelmed",
+     "grounds": "emotional state",
+     "morph": "compound: prema+nighna (f.nom.pl)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ananya+gāḥ",
+     "gloss": "not-going-to-another",
+     "grounds": "exclusive devotion",
+     "morph": "compound: ananya+ga (f.nom.pl)"
+    }
+   ],
+   "question": "What qualities characterize those brought under influence by meditation?",
+   "premises": [
+    "The persons are endowed with beauty, youth, and virtue.",
+    "They are overwhelmed with love.",
+    "They are devoted to no other."
+   ],
+   "inference": "Meditation can attract persons endowed with beauty, youth, virtue, and exclusive love.",
+   "uncertainties": [],
+   "plain_english": "Women endowed with beauty, youth, and virtue, overwhelmed with love and devoted to no other."
+  },
+  {
+   "verse": 3160,
+   "rows": [
+    {
+     "surface": "nṛpatiṃ",
+     "gloss": "king",
+     "grounds": "object of subjugation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "causative effect",
+     "morph": "3.sg.pres.mid (kṛ)"
+    },
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "submissive",
+     "grounds": "resulting state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manaḥ+vāk+kāya+karmmabhiḥ",
+     "gloss": "by-mind-speech-body-actions",
+     "grounds": "means of subjugation",
+     "morph": "compound: manas+vāc+kāya+karman (n.ins.pl)"
+    }
+   ],
+   "question": "Whom can the practitioner subdue through mind, speech, and body?",
+   "premises": [
+    "The practitioner acts through mind, speech, and body.",
+    "These actions can render another submissive.",
+    "A king can be the target of this influence."
+   ],
+   "inference": "By actions of mind, speech, and body, one makes the king submissive.",
+   "uncertainties": [],
+   "plain_english": "One makes the king submissive through actions of mind, speech, and body."
+  },
+  {
+   "verse": 3161,
+   "rows": [
+    {
+     "surface": "vaśīkaroti",
+     "gloss": "subdues",
+     "grounds": "act of control",
+     "morph": "3.sg.pres.act (vaśī-kṛ)"
+    },
+    {
+     "surface": "bhuvane",
+     "gloss": "in-world",
+     "grounds": "sphere of influence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāṇinaḥ",
+     "gloss": "beings",
+     "grounds": "objects of subjugation",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What broader scope of subjugation does this meditation enable?",
+   "premises": [
+    "The practice enables subjugation.",
+    "Beings in the world can be subdued.",
+    "This effect applies especially in certain cases."
+   ],
+   "inference": "The practitioner subdues beings in the world, especially so.",
+   "uncertainties": [],
+   "plain_english": "One subdues beings in the world, and especially so."
+  },
+  {
+   "verse": 3162,
+   "rows": [
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "object of wish",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "obtains",
+     "grounds": "fulfillment",
+     "morph": "3.sg.pres.act (sam-ava-āp)"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "freed",
+     "grounds": "liberated state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "nigaḍa+āditaḥ",
+     "gloss": "from-fetters-etc",
+     "grounds": "source of bondage",
+     "morph": "compound: nigaḍa+ādi (m.abl.sg)"
+    }
+   ],
+   "question": "What personal attainments and liberations result from this practice?",
+   "premises": [
+    "The practitioner obtains what is desired.",
+    "Freedom from fetters and similar bonds is possible."
+   ],
+   "inference": "One obtains desired things and may be freed from fetters and the like.",
+   "uncertainties": [],
+   "plain_english": "One obtains what is desired and may be freed from fetters and the like."
+  },
+  {
+   "verse": 3163,
+   "rows": [
+    {
+     "surface": "vāñchitāni",
+     "gloss": "desired-things",
+     "grounds": "objects to be depicted",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "ritual action",
+     "morph": "abs. (likh)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "them",
+     "grounds": "referent objects",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "paṭeṣu",
+     "gloss": "on-cloths",
+     "grounds": "support medium",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "navasu",
+     "gloss": "in-nine",
+     "grounds": "number of supports",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "manner of depiction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should desired objects be ritually depicted for this practice?",
+   "premises": [
+    "Desired things are to be written or drawn.",
+    "They should be depicted clearly.",
+    "They are placed on nine cloths."
+   ],
+   "inference": "One should clearly depict the desired things on nine cloths.",
+   "uncertainties": [],
+   "plain_english": "Having clearly written the desired things on nine cloths."
+  },
+  {
+   "verse": 3164,
+   "rows": [
+    {
+     "surface": "ratha+danti+hayānām",
+     "gloss": "of-chariots-elephants-horses",
+     "grounds": "depicted vehicles and animals",
+     "morph": "compound: ratha+dantin+haya (m.gen.pl)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiraskaraṇikā+yutān",
+     "gloss": "with-curtains-endowed",
+     "grounds": "attribute of depicted items",
+     "morph": "compound: tiraskaraṇikā+yuta (m.acc.pl)"
+    }
+   ],
+   "question": "Which specific items should be included among the depicted desires?",
+   "premises": [
+    "Chariots, elephants, and horses may be depicted.",
+    "These should be furnished with curtains."
+   ],
+   "inference": "The desired depictions include chariots, elephants, and horses equipped with curtains.",
+   "uncertainties": [],
+   "plain_english": "And of chariots, elephants, and horses, furnished with curtains."
+  },
+  {
+   "verse": 3165,
+   "rows": [
+    {
+     "surface": "vajra+ālikhita+niśāna+bherī+paṇava+marddalān",
+     "gloss": "diamond-marked-sharp-kettledrums-drums-tabors",
+     "grounds": "depicted martial and musical items",
+     "morph": "compound: vajra+ālikhita+niśāna+bherī+paṇava+marddala (m.acc.pl)"
+    }
+   ],
+   "question": "What additional martial and musical objects are to be depicted?",
+   "premises": [
+    "Specific instruments and weapons are included.",
+    "They are marked or associated with a vajra."
+   ],
+   "inference": "The depiction includes sharp weapons marked with a vajra and various drums.",
+   "uncertainties": [
+    "The internal segmentation and exact sense of vajra+ālikhita+niśāna within the compound is interpretive."
+   ],
+   "plain_english": "Sharp weapons marked with a vajra, kettledrums, paṇava drums, and marddala drums."
+  },
+  {
+   "verse": 3166,
+   "rows": [
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "remaining explanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "premanighnāḥ",
+     "gloss": "love-overwhelmed",
+     "grounds": "glossed term",
+     "morph": "compound: prema+nighna (f.nom.pl)"
+    },
+    {
+     "surface": "prema+paravaśāḥ",
+     "gloss": "love-subdued",
+     "grounds": "explanatory equivalent",
+     "morph": "compound: prema+paravaśa (f.nom.pl)"
+    }
+   ],
+   "question": "How is the term describing love-overwhelmed persons clarified?",
+   "premises": [
+    "A term from earlier requires explanation.",
+    "The explanation equates it with being subdued by love."
+   ],
+   "inference": "The remainder explains 'love-overwhelmed' as 'subdued by love'.",
+   "uncertainties": [],
+   "plain_english": "The rest: 'overwhelmed with love' means 'subdued by love'."
+  },
+  {
+   "verse": 3167,
+   "rows": [
+    {
+     "surface": "kṛta+vandhana+viśeṣa+ādi+viṣayaḥ",
+     "gloss": "made-bondage-special-etc-subject",
+     "grounds": "scope of application",
+     "morph": "compound: kṛta+vandhana+viśeṣa+ādi+viṣaya (m.nom.sg)"
+    }
+   ],
+   "question": "What additional situations fall under the described meditative effects?",
+   "premises": [
+    "The effects extend beyond general cases.",
+    "They apply to special cases involving bondage and the like."
+   ],
+   "inference": "The practice also concerns cases involving imposed bondage and similar special conditions.",
+   "uncertainties": [
+    "The precise referent of kṛta+vandhana+viśeṣa+ādi+viṣayaḥ is somewhat compressed."
+   ],
+   "plain_english": "It also pertains to cases involving imposed bondage and other such special conditions."
+  },
+  {
+   "verse": 3168,
+   "rows": [
+    {
+     "surface": "vajrāt",
+     "gloss": "from-diamond",
+     "grounds": "source of repelling force",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "abhimukhaṃ",
+     "gloss": "facing",
+     "grounds": "directional orientation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairī",
+     "gloss": "enemy",
+     "grounds": "opponent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhāvati",
+     "gloss": "runs",
+     "grounds": "reaction of enemy",
+     "morph": "3.sg.pres.act (dhāv)"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "speed of reaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parājitaḥ",
+     "gloss": "defeated",
+     "grounds": "state of enemy",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect does the vajra meditation have on an approaching enemy?",
+   "premises": [
+    "The vajra is the focal object.",
+    "An enemy may come facing it.",
+    "The enemy becomes defeated and flees quickly."
+   ],
+   "inference": "Facing the vajra, a defeated enemy quickly runs away.",
+   "uncertainties": [],
+   "plain_english": "Facing the vajra, the defeated enemy quickly runs away."
+  },
+  {
+   "verse": 3169,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānāni",
+     "gloss": "meditations",
+     "grounds": "subject concluded",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aśeṣeṇa",
+     "gloss": "without-remainder",
+     "grounds": "completeness",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kathitāni",
+     "gloss": "told",
+     "grounds": "completed exposition",
+     "morph": "n.nom.pl (past participle)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "anaghe",
+     "gloss": "o-sinless-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What declaration concludes the exposition of these meditations?",
+   "premises": [
+    "The meditations have been described.",
+    "The description is complete.",
+    "The addressee is addressed as sinless."
+   ],
+   "inference": "The speaker declares that all the meditations have been fully told to the sinless one.",
+   "uncertainties": [],
+   "plain_english": "Thus, O sinless one, the meditations have been told to you in full."
+  },
+  {
+   "verse": 3170,
+   "rows": [
+    {
+     "surface": "atas",
+     "gloss": "therefore",
+     "grounds": "transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "topic to be heard",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative to addressee",
+     "morph": "2.sg.imp.act (śru)"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "speaker's intent",
+     "morph": "1.sg.fut.act (vac)"
+    },
+    {
+     "surface": "sarva+abhīṣṭa+abhikārakāḥ",
+     "gloss": "all-desires-fulfilling",
+     "grounds": "quality of what will be told",
+     "morph": "compound: sarva+abhīṣṭa+abhikāraka (f.acc.pl)"
+    }
+   ],
+   "question": "What does the speaker promise to teach after concluding the meditations?",
+   "premises": [
+    "The previous topic is concluded.",
+    "The speaker will tell something further.",
+    "What follows fulfills all desires."
+   ],
+   "inference": "The speaker will now teach practices that fulfill all desires.",
+   "uncertainties": [
+    "The exact referent of tat is supplied by the following verses."
+   ],
+   "plain_english": "Therefore listen; I shall tell you that which fulfills all desires."
+  },
+  {
+   "verse": 3171,
+   "rows": [
+    {
+     "surface": "tat+madhye",
+     "gloss": "in-that-midst",
+     "grounds": "locus of contemplation",
+     "morph": "compound: tad+madhya (n.loc.sg)"
+    },
+    {
+     "surface": "sādhya+rūpam",
+     "gloss": "object-form",
+     "grounds": "target to be visualized",
+     "morph": "compound: sādhya+rūpa (n.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nija+vāñchā+anurūpakam",
+     "gloss": "one's-own-wish-according-to",
+     "grounds": "conformity to desire",
+     "morph": "compound: nija+vāñchā+anurūpaka (n.acc.sg)"
+    }
+   ],
+   "question": "What form should be contemplated within the prescribed locus?",
+   "premises": [
+    "Contemplation occurs within a specified midst.",
+    "The form contemplated is the object to be accomplished.",
+    "It should conform to one's own wish."
+   ],
+   "inference": "Within that locus one should contemplate the desired object in a form matching one's wish.",
+   "uncertainties": [],
+   "plain_english": "And within that, one should contemplate the form of the object to be accomplished, in accordance with one's own wish."
+  },
+  {
+   "verse": 3172,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣumnā+antaḥ",
+     "gloss": "within-suṣumnā",
+     "grounds": "internal locus",
+     "morph": "compound: suṣumnā+anta (m.loc.sg)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "object of contemplation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (cint)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gama+āgamam",
+     "gloss": "going-coming",
+     "grounds": "mode of contemplation",
+     "morph": "compound: gama+āgama (m.acc.sg)"
+    }
+   ],
+   "question": "Where and in what manner should the desired object be contemplated?",
+   "premises": [
+    "The contemplation may occur within the suṣumnā.",
+    "The same object is to be contemplated.",
+    "It may be contemplated as going and coming."
+   ],
+   "inference": "One should contemplate that object within the suṣumnā, or as moving back and forth.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should contemplate that within the suṣumnā, or as going and coming."
+  },
+  {
+   "verse": 3173,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished-one",
+     "grounds": "resulting status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "reference to paired modes or states",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśu+siddhi+kṛt",
+     "gloss": "quick-accomplishment-causing",
+     "grounds": "efficacy of practice",
+     "morph": "compound: āśu+siddhi+kṛt (m.nom.sg)"
+    }
+   ],
+   "question": "What outcome does this contemplation produce for the practitioner?",
+   "premises": [
+    "The practitioner performs the contemplation.",
+    "The practice leads to accomplishment.",
+    "It brings quick accomplishment in relation to the two modes."
+   ],
+   "inference": "Through this contemplation the practitioner becomes accomplished and quickly attains success.",
+   "uncertainties": [
+    "The referent of tayoḥ (the two) is not explicit in this verse alone."
+   ],
+   "plain_english": "And thus the practitioner becomes accomplished; indeed, this brings quick accomplishment in regard to those two."
+  },
+  {
+   "verse": 3174,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambuddhiḥ",
+     "gloss": "address",
+     "grounds": "vocative or concluding address",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the passage formally close this instructional unit?",
+   "premises": [
+    "The instruction reaches a conclusion.",
+    "A concluding address is given."
+   ],
+   "inference": "The unit closes with a concluding address.",
+   "uncertainties": [
+    "The specific vocative sense of sambuddhiḥ here is context-dependent."
+   ],
+   "plain_english": "Thus ends the address."
+  }
+ ]
+}

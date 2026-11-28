@@ -1,0 +1,103 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1951,
+   "rows": [
+    {
+     "surface": "rājabhir",
+     "gloss": "by-kings",
+     "grounds": "instrumental plural of rājan",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "passive present of nī",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taskaraiḥ",
+     "gloss": "by-thieves",
+     "grounds": "instrumental plural of taskara",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "passive present of nī",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which work and chapter does this colophon identify as completed?",
+   "premises": [
+    "colophon names śrī-tattvacintāmaṇi",
+    "colophon names twenty-sixth prakāśa",
+    "colophon names pūrṇānanda as composer"
+   ],
+   "inference": "The completed unit is the twenty-sixth chapter of śrī-tattvacintāmaṇi composed by pūrṇānanda.",
+   "uncertainties": [
+    "verse 1951 context not fully supplied"
+   ],
+   "plain_english": "It is led by kings and indeed by thieves, or."
+  },
+  {
+   "verse": 1952,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpūrṇānandaparamahaṃsaviracite",
+     "gloss": "composed-by-śrī-pūrṇānanda-paramahaṃsa",
+     "grounds": "locative singular of viracita compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrī-tattvacintāmaṇau",
+     "gloss": "in-śrī-tattvacintāmaṇi",
+     "grounds": "locative singular of śrī-tattvacintāmaṇi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaḍviṃśatitamaḥ",
+     "gloss": "twenty-sixth",
+     "grounds": "ordinal adjective in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular of prakāśa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which work and chapter does this colophon identify as completed?",
+   "premises": [
+    "colophon names śrī-tattvacintāmaṇi",
+    "colophon names twenty-sixth prakāśa",
+    "colophon names pūrṇānanda as composer"
+   ],
+   "inference": "The completed unit is the twenty-sixth chapter of śrī-tattvacintāmaṇi composed by pūrṇānanda.",
+   "uncertainties": [
+    "verse 1951 context not fully supplied"
+   ],
+   "plain_english": "Thus ends the twenty-sixth chapter of Śrī Tattvacintāmaṇi composed by Śrī Pūrṇānanda Paramahaṃsa."
+  }
+ ]
+}

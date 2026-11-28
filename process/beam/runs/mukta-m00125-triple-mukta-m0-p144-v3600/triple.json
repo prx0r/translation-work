@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "kṛte",
+     "gloss": "when-done",
+     "grounds": "locative absolute participle indicating a completed action or occurrence",
+     "morph": "ppp.loc.sg.n (√kṛ)"
+    },
+    {
+     "surface": "taddoṣa",
+     "gloss": "that-fault",
+     "grounds": "compound referring to the fault mentioned in context",
+     "morph": "compound: tat+doṣa"
+    },
+    {
+     "surface": "śāntyartham",
+     "gloss": "for-pacification",
+     "grounds": "purpose compound indicating the aim of appeasing the fault",
+     "morph": "compound: śānti+artha.acc.sg.m"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "ritual fire offering performed for pacification",
+     "morph": "compound: śānti+homa.acc.sg.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating the time for the remedial action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative enjoining the remedial ritual",
+     "morph": "3.sg.act.opt (√ā-car)"
+    }
+   ],
+   "question": "What ritual remedy must be performed to appease a fault that has occurred?",
+   "premises": [
+    "A fault has occurred in the ritual context.",
+    "Such a fault requires pacification.",
+    "A peace-offering serves as the means of pacification."
+   ],
+   "inference": "Therefore, when a fault has occurred, one should then perform a peace-offering for its pacification.",
+   "uncertainties": [
+    "The specific nature of taddoṣa depends on the preceding ritual context."
+   ],
+   "plain_english": "When that fault has occurred, one should then perform a peace-offering for its pacification."
+  }
+ ]
+}

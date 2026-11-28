@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "annañcaiva",
+     "gloss": "food-and-indeed",
+     "grounds": "fused form of annam (food) + ca (and) + eva (indeed); accusative object",
+     "morph": "n.acc.sg+indecl.+indecl."
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural indicating the source or group concerned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "optative expressing injunction or obligation",
+     "morph": "3.sg.act-opt (pari-√vṛj)"
+    }
+   ],
+   "question": "From whom must food be strictly avoided by the practitioner?",
+   "premises": [
+    "The instruction addresses Maheśānī directly.",
+    "Food is explicitly marked as the object of restriction.",
+    "The restriction applies universally to all persons."
+   ],
+   "inference": "The practitioner is enjoined to avoid accepting food from everyone.",
+   "uncertainties": [
+    "The scope of sarveṣāṃ (all people without exception or all of a specific group) is not specified in this verse alone."
+   ],
+   "plain_english": "O great goddess, one should indeed avoid the food of all."
+  }
+ ]
+}

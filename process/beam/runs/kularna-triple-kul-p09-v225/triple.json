@@ -1,0 +1,44 @@
+{
+ "song": "kul-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "divyauṣadhaṃ",
+     "gloss": "divine-medicine",
+     "grounds": "divya + oṣadhaṃ fused in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevante",
+     "gloss": "serve",
+     "grounds": "middle voice plural present of sev",
+     "morph": "v.3pl.mid-pres"
+    },
+    {
+     "surface": "mahāvyādhivināśanam",
+     "gloss": "great-disease-destroying",
+     "grounds": "mahā + vyādhi + vināśana compound in accusative",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "Why do the great not serve the divine medicine?",
+   "premises": [
+    "Great ones do not serve divine medicine.",
+    "Divine medicine destroys great disease."
+   ],
+   "inference": "The great neglect a remedy that destroys great disease.",
+   "uncertainties": [
+    "The verse fragment does not name the great ones explicitly."
+   ],
+   "plain_english": "The great do not serve the divine medicine that destroys great disease."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "kuladravyādikañcāpi",
+     "gloss": "clan-wealth-and-such-also",
+     "grounds": "fused compound object with api; accusative sense before vadet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "speak",
+     "grounds": "optative of root vad",
+     "morph": "3.sg.act.opt. (vad)"
+    },
+    {
+     "surface": "paśusannidhau",
+     "gloss": "in-presence-of-beast",
+     "grounds": "locative singular of compound paśu-sannidhi",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What clan-wealth and related matters must not be spoken before a beast?",
+   "premises": [
+    "clan wealth and related matters are not to be spoken",
+    "speech is forbidden in presence of beast",
+    "the rule concerns kaula conduct"
+   ],
+   "inference": "the verse forbids disclosing clan wealth before a beast",
+   "uncertainties": [
+    "exact scope of ādi remains unclear"
+   ],
+   "plain_english": "One should not speak of clan wealth and such things in the presence of a beast."
+  }
+ ]
+}

@@ -1,0 +1,619 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2551,
+   "rows": [
+    {
+     "surface": "māṃsa",
+     "gloss": "flesh",
+     "grounds": "first member of compound describing Kaula delights",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "asthi",
+     "gloss": "bone",
+     "grounds": "second member of compound describing Kaula delights",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "carvaṇa",
+     "gloss": "chewing",
+     "grounds": "third member of compound describing Kaula delights",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ānandāḥ",
+     "gloss": "delights",
+     "grounds": "joys associated with flesh, bone-chewing, and wine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "surā",
+     "gloss": "wine",
+     "grounds": "element of Kaula delight",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaula",
+     "gloss": "kaula",
+     "grounds": "qualifies the delights as belonging to Kaula practice",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dviṣāṃ",
+     "gloss": "of-haters",
+     "grounds": "those who hate the Kaula delights",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "men characterized as haters",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What characterizes men who hate the Kaula delights of flesh, bone-chewing, and wine?",
+   "premises": [
+    "Flesh, bone-chewing, and wine are named as delights",
+    "These delights are associated with Kaula practice",
+    "Some men are haters of these Kaula delights"
+   ],
+   "inference": "The verse identifies a class of men defined by their hatred of Kaula delights.",
+   "uncertainties": [
+    "The exact syntactic relation of surā within the compound chain is contextually inferred"
+   ],
+   "plain_english": "Men who hate the Kaula delights of flesh, bone-chewing, and wine."
+  },
+  {
+   "verse": 2552,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "refers back to the condemning men",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "garhayantaḥ",
+     "gloss": "condemning",
+     "grounds": "describes those who censure the Kaula practitioners or delights",
+     "morph": "m.nom.pl.pres.part-act √garh"
+    },
+    {
+     "surface": "narakān",
+     "gloss": "to-hells",
+     "grounds": "destination or state associated with condemnation",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "niṣkṛtiṃ",
+     "gloss": "release",
+     "grounds": "expiation or liberation from hells",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "main verb expressing attainment or movement",
+     "morph": "3.pl.act-pres √yā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates attainment of release",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "emphasizes total absence of release",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can those who condemn Kaula practitioners ever attain release from hells?",
+   "premises": [
+    "Some people condemn the Kaula delights and practitioners",
+    "Such condemners are associated with hells",
+    "Release from hells is considered as a possible outcome"
+   ],
+   "inference": "Those who condemn never attain release from hells anywhere.",
+   "uncertainties": [],
+   "plain_english": "Those who condemn them never attain release from hells anywhere."
+  },
+  {
+   "verse": 2553,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "first member of compound indicating devotion to Brahman",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "eka",
+     "gloss": "solely",
+     "grounds": "second member indicating exclusive focus",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niṣṭha",
+     "gloss": "devoted",
+     "grounds": "third member indicating steadfast devotion",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kaulasya",
+     "gloss": "of-the-kaula",
+     "grounds": "the Kaula practitioner who is devoted solely to Brahman",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tyāga",
+     "gloss": "renunciation",
+     "grounds": "one of the two modes compared",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anuṣṭhānayoḥ",
+     "gloss": "and-practice",
+     "grounds": "renunciation and observance taken together",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "states equivalence between renunciation and practice",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does a Kaula devoted solely to Brahman regard renunciation and ritual practice?",
+   "premises": [
+    "A Kaula may be devoted solely to Brahman",
+    "Renunciation and practice are two possible modes",
+    "These modes can be evaluated as equal or unequal"
+   ],
+   "inference": "For the Brahman-devoted Kaula, renunciation and practice are equal.",
+   "uncertainties": [],
+   "plain_english": "For the Kaula devoted solely to Brahman, renunciation and practice are equal."
+  },
+  {
+   "verse": 2554,
+   "rows": [
+    {
+     "surface": "viśva+arcayā",
+     "gloss": "by-universal-worship",
+     "grounds": "worship of the universe as a whole",
+     "morph": "f.inst.sg (compound: viśva+arcā)"
+    },
+    {
+     "surface": "tat+arcā",
+     "gloss": "his-worship",
+     "grounds": "worship of that supreme reality",
+     "morph": "f.nom.sg (compound: tat+arcā)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses equivalence or result",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces the reason for equivalence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the entirety of existence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "by-that",
+     "grounds": "by that supreme reality",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "anvitam",
+     "gloss": "pervaded",
+     "grounds": "all is pervaded or connected by that",
+     "morph": "n.nom.sg.past.pass.part √anu-i"
+    }
+   ],
+   "question": "Why is worship of the universe equivalent to worship of the supreme reality?",
+   "premises": [
+    "Universal worship and worship of that reality are compared",
+    "All existence is pervaded by that reality",
+    "Pervasion grounds equivalence of worship"
+   ],
+   "inference": "Worship of the universe is worship of that reality because all is pervaded by it.",
+   "uncertainties": [],
+   "plain_english": "Worship of the universe would be worship of that, because all is pervaded by that."
+  },
+  {
+   "verse": 2555,
+   "rows": [
+    {
+     "surface": "garhayantaḥ",
+     "gloss": "condemning",
+     "grounds": "those who censure or blame",
+     "morph": "m.nom.pl.pres.part-act √garh"
+    },
+    {
+     "surface": "nindantaḥ",
+     "gloss": "reviling",
+     "grounds": "those who speak ill or disparage",
+     "morph": "m.nom.pl.pres.part-act √nind"
+    }
+   ],
+   "question": "What attitudes of condemnation and reviling are being identified in this context?",
+   "premises": [
+    "Condemning is an attitude toward the Kaula path",
+    "Reviling is another related negative attitude",
+    "Both attitudes are attributed to certain people"
+   ],
+   "inference": "The verse identifies people who condemn and revile.",
+   "uncertainties": [
+    "The object of condemnation and reviling is carried over from context"
+   ],
+   "plain_english": "Those who condemn and revile."
+  },
+  {
+   "verse": 2556,
+   "rows": [
+    {
+     "surface": "pṛthaktvena",
+     "gloss": "with-separateness",
+     "grounds": "attitude of seeing as separate or distinct",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yajantaḥ",
+     "gloss": "worshipping",
+     "grounds": "performing worship",
+     "morph": "m.nom.pl.pres.part-act √yaj"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle indicating inclusion despite separateness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that supreme reality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "they-approach",
+     "grounds": "they go toward that reality",
+     "morph": "3.pl.act-pres √pra-yā"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "they-enter",
+     "grounds": "they enter into that reality",
+     "morph": "3.pl.act-pres √viś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects approaching and entering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can worshippers who perceive separateness still approach and enter the supreme reality?",
+   "premises": [
+    "Some worship with a sense of separateness",
+    "Approaching and entering that reality are possible outcomes",
+    "Separateness might seem to obstruct union"
+   ],
+   "inference": "Even those who worship with separateness approach and enter that reality.",
+   "uncertainties": [],
+   "plain_english": "Even those who worship that with a sense of separateness approach and enter it."
+  },
+  {
+   "verse": 2557,
+   "rows": [
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "should be recognized or understood as such",
+     "morph": "m.nom.sg.fut.pass.part √jñā"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that person described in context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sat+kaulaḥ",
+     "gloss": "true-kaula",
+     "grounds": "a genuine Kaula practitioner",
+     "morph": "m.nom.sg (compound: sat+kaula)"
+    },
+    {
+     "surface": "jīvan+muktaḥ",
+     "gloss": "liberated-while-living",
+     "grounds": "one who is liberated in this life",
+     "morph": "m.nom.sg (compound: jīvat+mukta)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty about this status",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the true status of the Kaula who realizes this understanding?",
+   "premises": [
+    "A person can be recognized as a true Kaula",
+    "Liberation while living is a possible attainment",
+    "Doubt about this status is explicitly denied"
+   ],
+   "inference": "He is to be known as a true Kaula and liberated while living, without doubt.",
+   "uncertainties": [],
+   "plain_english": "He indeed is to be known as a true Kaula, liberated while living; there is no doubt."
+  },
+  {
+   "verse": 2558,
+   "rows": [
+    {
+     "surface": "karma+samūha",
+     "gloss": "mass-of-actions",
+     "grounds": "the totality or aggregate of actions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anuraktāḥ",
+     "gloss": "engaged",
+     "grounds": "devoted or attached to actions",
+     "morph": "m.nom.pl.past.pass.part √anu-rañj"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the supreme reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "highest or transcendent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "the ultimate reality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How can those engaged in the mass of actions relate to the supreme Brahman?",
+   "premises": [
+    "Some people are engaged in a mass of actions",
+    "The supreme Brahman is the ultimate reality",
+    "Engagement in action can be related to realization of Brahman"
+   ],
+   "inference": "Those engaged in the mass of actions realize that supreme Brahman.",
+   "uncertainties": [
+    "The predicative relation between the engaged ones and Brahman is implied by context"
+   ],
+   "plain_english": "Those engaged in the mass of actions are that supreme Brahman."
+  },
+  {
+   "verse": 2559,
+   "rows": [
+    {
+     "surface": "aparṇā",
+     "gloss": "aparṇā",
+     "grounds": "epithet of the goddess, speaker in the dialogue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "qualifies the love as supreme",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "love",
+     "grounds": "affection or devotion with which she asked",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "papraccha",
+     "gloss": "asked",
+     "grounds": "act of questioning",
+     "morph": "3.sg.act-perf √prach"
+    },
+    {
+     "surface": "śaṅkaraṃ",
+     "gloss": "śaṅkara",
+     "grounds": "the deity addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "indicates direction of the question",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what attitude did Aparṇā address her question to Śaṅkara?",
+   "premises": [
+    "Aparṇā is the speaker asking a question",
+    "Śaṅkara is the recipient of the question",
+    "The question is asked with supreme love"
+   ],
+   "inference": "Aparṇā asked Śaṅkara with supreme love.",
+   "uncertainties": [],
+   "plain_english": "Aparṇā, with supreme love, asked Śaṅkara."
+  },
+  {
+   "verse": 2560,
+   "rows": [
+    {
+     "surface": "kathitāḥ",
+     "gloss": "told",
+     "grounds": "teachings or matters that were explained",
+     "morph": "m.nom.pl.past.pass.part √kath"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-compassion",
+     "grounds": "motive for the teaching",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "sarva+jñena",
+     "gloss": "by-all-knowing",
+     "grounds": "epithet of the teacher",
+     "morph": "m.inst.sg (compound: sarva+jña)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "the teacher addressed as lord",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address to Śaṅkara",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does Aparṇā acknowledge that teachings were given to her by Śaṅkara?",
+   "premises": [
+    "Teachings were told to Aparṇā",
+    "Śaṅkara is all-knowing and addressed as lord",
+    "The teachings were given out of compassion"
+   ],
+   "inference": "Aparṇā acknowledges that the all-knowing lord compassionately told her the teachings.",
+   "uncertainties": [],
+   "plain_english": "O Lord, all these things were told to me out of compassion by you, the all-knowing one."
+  },
+  {
+   "verse": 2561,
+   "rows": [
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-compassion",
+     "grounds": "motive for speaking",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "recipient of the instruction",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "mām+uddiśya",
+     "gloss": "towards-me",
+     "grounds": "indicates the instruction was directed at her",
+     "morph": "(indecl. gerund, compound: mām+uddiśya)"
+    },
+    {
+     "surface": "kathitāḥ",
+     "gloss": "told",
+     "grounds": "things that were explained",
+     "morph": "m.nom.pl.past.pass.part √kath"
+    },
+    {
+     "surface": "uktāḥ",
+     "gloss": "spoken",
+     "grounds": "things that were spoken, reinforcing kathitāḥ",
+     "morph": "m.nom.pl.past.pass.part √vac"
+    }
+   ],
+   "question": "How does Aparṇā emphasize that the teachings were directed specifically to her?",
+   "premises": [
+    "The teachings were given out of compassion",
+    "They were directed toward Aparṇā",
+    "They were both told and spoken to her"
+   ],
+   "inference": "Aparṇā emphasizes that the teachings were compassionately told and spoken directly to her.",
+   "uncertainties": [],
+   "plain_english": "Out of compassion, directed toward me, they were told and spoken to me."
+  },
+  {
+   "verse": 2562,
+   "rows": [
+    {
+     "surface": "nāstikāḥ",
+     "gloss": "non-believers",
+     "grounds": "those who deny or lack faith",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "saṃśaya+ātmānaḥ",
+     "gloss": "doubtful-souled",
+     "grounds": "those whose nature is marked by doubt",
+     "morph": "m.nom.pl (compound: saṃśaya+ātman)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriya",
+     "gloss": "sense",
+     "grounds": "first member of compound describing pleasure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "pleasure",
+     "grounds": "second member of compound describing pleasure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aiṣiṇaḥ",
+     "gloss": "seekers",
+     "grounds": "those who seek sense pleasures",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What traits characterize those who oppose or fail to understand the Kaula path?",
+   "premises": [
+    "Some people are non-believers",
+    "Some are doubtful-souled",
+    "Some constantly seek sense pleasures"
+   ],
+   "inference": "Opponents are characterized as non-believers, doubtful-souled, and seekers of sense pleasure.",
+   "uncertainties": [
+    "The connection to the preceding question about fate is supplied by context"
+   ],
+   "plain_english": "Non-believers, doubtful-souled, always seeking the pleasures of the senses."
+  }
+ ]
+}

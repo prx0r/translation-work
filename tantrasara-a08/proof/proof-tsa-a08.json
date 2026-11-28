@@ -5,13 +5,14 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [
-  "C1_WORDS 1130 > 700"
+  "C1_WORDS 727 > 700"
  ],
+ "mode": "shastra",
  "source_sha": "15b225e116af38ee",
  "source_verses": 93,
  "t1_verses": 93,
  "l0": {
-  "parsed": 1120,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 1120
@@ -22,8 +23,8 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 175,
- "c1_words": 1130,
+ "c1_iast_prose_info": 0,
+ "c1_words": 727,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 93,
@@ -66,9 +67,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "15b225e116af38ee",
-  "t1": "T1-tsa-a08.md",
-  "l0": "T1-tsa-a08.l0.jsonl",
-  "l2": "L2-tsa-a08.md",
-  "c1": "c1/C1-tsa-a08.md"
+  "t1": "tsa-a08/data/tsa-a08.t1.json",
+  "l0": "tsa-a08/data/tsa-a08.l0.json",
+  "l2": "tsa-a08/data/tsa-a08.l2.json",
+  "c1": "tsa-a08/data/tsa-a08.c1.json"
  }
 }

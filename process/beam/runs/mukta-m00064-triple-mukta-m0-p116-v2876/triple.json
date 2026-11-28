@@ -1,0 +1,1175 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2876,
+   "rows": [
+    {
+     "surface": "kāli",
+     "gloss": "o-kālī",
+     "grounds": "vocative address to the goddess Kālī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "karāla",
+     "gloss": "o-terrible",
+     "grounds": "vocative epithet describing fearsome aspect",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vikrānte",
+     "gloss": "o-valiant-one",
+     "grounds": "vocative epithet denoting prowess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "karāla+vaktre",
+     "gloss": "o-terrible-faced",
+     "grounds": "compound vocative: karāla (terrible) + vaktre (face)",
+     "morph": "compound:f.voc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+deva+namaskṛte",
+     "gloss": "o-bowed-to-by-all-gods",
+     "grounds": "compound vocative: sarva (all) + deva (gods) + namaskṛte (bowed-to)",
+     "morph": "compound:f.voc.sg"
+    }
+   ],
+   "question": "By what epithets is the goddess invoked at the outset of this ritual instruction?",
+   "premises": [
+    "The goddess is addressed as Kālī.",
+    "She is described as terrible, valiant, and terrible-faced.",
+    "She is honored as bowed to by all gods."
+   ],
+   "inference": "The invocation establishes the goddess's fearsome power and universal reverence before prescribing ritual action.",
+   "uncertainties": [],
+   "plain_english": "O Kālī, terrible, valiant, terrible-faced, and bowed to by all the gods."
+  },
+  {
+   "verse": 2877,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the preceding invocation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior act of worship",
+     "morph": "absolutive:sam-√pūj"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "ritual observance to be undertaken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active:√kṛ"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "mental state required of the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual action must the practitioner undertake after worshipping the goddess with the stated invocation?",
+   "premises": [
+    "The goddess has been worshipped with the preceding words.",
+    "A vow is the prescribed object of action.",
+    "The practitioner must be composed."
+   ],
+   "inference": "After invoking and worshipping the goddess, the practitioner should perform the vow with a composed mind.",
+   "uncertainties": [],
+   "plain_english": "Having thus worshipped that goddess, one should perform the vow with a composed mind."
+  },
+  {
+   "verse": 2878,
+   "rows": [
+    {
+     "surface": "samvatsaraṃ",
+     "gloss": "for-a-year",
+     "grounds": "duration option for the vow",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tad+ūrdhvaṃ",
+     "gloss": "beyond-that",
+     "grounds": "compound indicating time after that period",
+     "morph": "compound:(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣaṃ",
+     "gloss": "for-a-fortnight",
+     "grounds": "shorter duration option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā+api",
+     "gloss": "or-even",
+     "grounds": "compound alternative marker",
+     "morph": "compound:(indecl.)"
+    },
+    {
+     "surface": "tad+ūrdhvakam",
+     "gloss": "beyond-that",
+     "grounds": "compound indicating extension beyond the fortnight",
+     "morph": "compound:n.acc.sg"
+    }
+   ],
+   "question": "What durations are permitted for observing the prescribed vow to the goddess?",
+   "premises": [
+    "A year is given as a possible duration.",
+    "A fortnight is given as an alternative duration.",
+    "Extensions beyond these periods are also allowed."
+   ],
+   "inference": "The vow may be observed for a year or a fortnight, or for periods extending beyond them.",
+   "uncertainties": [],
+   "plain_english": "One may perform it for a year or beyond, or for a fortnight or even beyond that."
+  },
+  {
+   "verse": 2879,
+   "rows": [
+    {
+     "surface": "matsya+māṃsaṃ",
+     "gloss": "fish-meat",
+     "grounds": "compound naming foods consumed during the vow",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuñjaṃś+ca",
+     "gloss": "eating-and",
+     "grounds": "present participle with sandhi-marked connective",
+     "morph": "m.nom.sg.present-participle-active:√bhuj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time restriction for eating",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "meal",
+     "grounds": "object of the prohibited action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive injunction governing conduct",
+     "morph": "3.sg.optative-active:√car"
+    }
+   ],
+   "question": "What dietary conduct is prescribed and restricted during the observance of the vow?",
+   "premises": [
+    "Fish and meat may be eaten.",
+    "Eating at night is mentioned as a meal context.",
+    "Nighttime eating is prohibited."
+   ],
+   "inference": "While fish and meat may be consumed, the practitioner must not take a meal at night.",
+   "uncertainties": [],
+   "plain_english": "Eating fish and meat, one should not take a meal at night."
+  },
+  {
+   "verse": 2880,
+   "rows": [
+    {
+     "surface": "prati+aṅgaṃ",
+     "gloss": "each-limb",
+     "grounds": "compound indicating worship of every part",
+     "morph": "compound:(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active:√pūj"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gandha+puṣpaiḥ",
+     "gloss": "with-fragrance-flowers",
+     "grounds": "compound naming ritual offerings",
+     "morph": "compound:n.ins.pl"
+    },
+    {
+     "surface": "adīnakaiḥ",
+     "gloss": "not-miserly",
+     "grounds": "qualifies the offerings as abundant",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sugandhakaiḥ",
+     "gloss": "fragrant",
+     "grounds": "qualifies the offerings as sweet-smelling",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the goddess be worshipped in each of her limbs during the vow?",
+   "premises": [
+    "Worship is directed to each limb of the goddess.",
+    "Fragrances and flowers are the prescribed offerings.",
+    "The offerings must be abundant and fragrant."
+   ],
+   "inference": "The practitioner should worship the goddess limb by limb with abundant, fragrant flowers and perfumes.",
+   "uncertainties": [],
+   "plain_english": "One should worship the goddess in each limb with abundant, fragrant perfumes and flowers."
+  },
+  {
+   "verse": 2881,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction for ritual action",
+     "morph": "3.sg.optative-active:√kṛ"
+    },
+    {
+     "surface": "amāyāṃ",
+     "gloss": "on-new-moon-day",
+     "grounds": "specifies the ritual occasion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paśu+pāyasa+modakaiḥ",
+     "gloss": "with-animal-milk-rice-sweets",
+     "grounds": "compound listing offerings: animal, milk-rice, and sweet cakes",
+     "morph": "compound:m.ins.pl"
+    }
+   ],
+   "question": "What offerings must be made on the new-moon day during the goddess's vow?",
+   "premises": [
+    "The ritual action is prescribed for the new-moon day.",
+    "The goddess is addressed directly.",
+    "Animal offering, milk-rice, and sweet cakes are specified."
+   ],
+   "inference": "On the new-moon day, the practitioner should make offerings of animal, milk-rice, and sweet cakes.",
+   "uncertainties": [
+    "The exact nature of 'paśu' in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "O Goddess, on the new-moon day one should make offerings with animal, milk-rice, and sweet cakes."
+  },
+  {
+   "verse": 2882,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "with-blue",
+     "grounds": "color of wrapping material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-red",
+     "grounds": "color of wrapping material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive indicating preparatory action",
+     "morph": "absolutive:sam-√veṣṭ"
+    },
+    {
+     "surface": "pañca+pallava+carcitam",
+     "gloss": "adorned-with-five-sprouts",
+     "grounds": "compound describing decoration with five leaves or sprouts",
+     "morph": "compound:n.acc.sg"
+    }
+   ],
+   "question": "How should the ritual offering be wrapped and adorned before presentation?",
+   "premises": [
+    "Blue and red materials are used for wrapping.",
+    "The offering is wrapped as a preparatory act.",
+    "It is adorned with five sprouts or leaves."
+   ],
+   "inference": "The offering should be wrapped in blue and red and adorned with five sprouts.",
+   "uncertainties": [],
+   "plain_english": "Having wrapped it in blue and red, adorned with five sprouts."
+  },
+  {
+   "verse": 2883,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "ritual offering of food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "specifies quantity of food offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active:√dā"
+    },
+    {
+     "surface": "valiṃ+ca",
+     "gloss": "oblation-and",
+     "grounds": "additional offering with connective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "triple",
+     "grounds": "specifies quantity of oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar manner of giving",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities of food offering and oblation must be given in this ritual?",
+   "premises": [
+    "A food offering is to be given.",
+    "The food offering must be double in quantity.",
+    "The oblation must be triple in quantity."
+   ],
+   "inference": "The practitioner should give a double food offering and likewise a triple oblation.",
+   "uncertainties": [
+    "The baseline quantity for 'double' and 'triple' is not specified."
+   ],
+   "plain_english": "One should give a double food offering and likewise a triple oblation."
+  },
+  {
+   "verse": 2884,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "indicates the practitioner performs the action personally",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ+ca",
+     "gloss": "water-offering-and",
+     "grounds": "ritual offering with connective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhṇīta",
+     "gloss": "one-should-take",
+     "grounds": "prescriptive injunction to receive or take",
+     "morph": "3.sg.optative-middle:√grah"
+    },
+    {
+     "surface": "nṛtya+gīta+mahotsavaiḥ",
+     "gloss": "with-dance-song-great-festivals",
+     "grounds": "compound describing celebratory accompaniments",
+     "morph": "compound:m.ins.pl"
+    }
+   ],
+   "question": "How should the practitioner receive the water offering during the ritual celebration?",
+   "premises": [
+    "The practitioner acts personally.",
+    "The water offering is to be taken.",
+    "Dance, song, and great festivals accompany the act."
+   ],
+   "inference": "The practitioner should personally take the water offering amid dance, song, and great festivities.",
+   "uncertainties": [],
+   "plain_english": "One should oneself take the water offering amid great festivities of dance and song."
+  },
+  {
+   "verse": 2885,
+   "rows": [
+    {
+     "surface": "ciñcāṃ+ca",
+     "gloss": "tamarind-and",
+     "grounds": "ritual item with connective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nālikā+śākaṃ",
+     "gloss": "nālikā-vegetable",
+     "grounds": "compound naming a specific vegetable offering",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "kalāyaṃ",
+     "gloss": "pea",
+     "grounds": "ritual food item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niṅkucaṃ",
+     "gloss": "niṅkuca-fruit",
+     "grounds": "specific fruit offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the list of items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific plant and food items are included in the ritual offering list?",
+   "premises": [
+    "Tamarind is included among the items.",
+    "Nālikā vegetable, pea, and niṅkuca fruit are included.",
+    "The list continues in the same manner."
+   ],
+   "inference": "The ritual offerings include tamarind, nālikā vegetable, pea, and niṅkuca fruit, among others.",
+   "uncertainties": [
+    "Exact botanical identification of nālikā and niṅkuca is uncertain."
+   ],
+   "plain_english": "Tamarind, nālikā vegetable, pea, and likewise niṅkuca fruit."
+  },
+  {
+   "verse": 2886,
+   "rows": [
+    {
+     "surface": "kaṃkāraṃ",
+     "gloss": "kaṃkāra",
+     "grounds": "specific plant or flower item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "general flower offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jhindīṃ",
+     "gloss": "jhindī",
+     "grounds": "specific plant or flower item",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kundaṃ",
+     "gloss": "jasmine",
+     "grounds": "specific flower offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mandāram+eva",
+     "gloss": "coral-tree-flower-even",
+     "grounds": "compound emphasizing inclusion of mandāra flower",
+     "morph": "compound:m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which flowers and plant items continue the list of prescribed ritual offerings?",
+   "premises": [
+    "Kaṃkāra and jhindī are included.",
+    "Kunda and mandāra flowers are included.",
+    "These items extend the preceding offering list."
+   ],
+   "inference": "The offering list continues with kaṃkāra, flowers, jhindī, jasmine, and mandāra.",
+   "uncertainties": [
+    "Exact identification of kaṃkāra and jhindī is uncertain."
+   ],
+   "plain_english": "Kaṃkāra, flowers, jhindī, jasmine, and also the mandāra flower."
+  },
+  {
+   "verse": 2887,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating completion of worship",
+     "morph": "absolutive:√pūj"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūjā+sthānaṃ",
+     "gloss": "worship-place",
+     "grounds": "compound denoting the place of worship",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the following action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīkṣyate",
+     "gloss": "is-looked-at",
+     "grounds": "prohibited action after worship",
+     "morph": "3.sg.present-passive:vi-√īkṣ"
+    }
+   ],
+   "question": "What restriction applies to the practitioner after completing the worship of the goddess?",
+   "premises": [
+    "The worship has been completed.",
+    "The place of worship is the object in question.",
+    "Looking back at it is prohibited."
+   ],
+   "inference": "After performing the worship, the practitioner must not look back at the place of worship.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, having performed the worship, one should not look at the place of worship."
+  },
+  {
+   "verse": 2888,
+   "rows": [
+    {
+     "surface": "brāhmaṇāya",
+     "gloss": "to-a-brāhmaṇa",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indicates sequence after worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active:√dā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of giving to another recipient",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdrāya",
+     "gloss": "to-a-śūdra",
+     "grounds": "prohibited recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphasizes absolute prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom must the ritual gift be given and to whom must it never be given?",
+   "premises": [
+    "A gift is to be given after the ritual.",
+    "A brāhmaṇa is the prescribed recipient.",
+    "A śūdra is explicitly excluded as recipient."
+   ],
+   "inference": "The offering should be given to a brāhmaṇa and never to a śūdra.",
+   "uncertainties": [],
+   "plain_english": "Then one should give it to a brāhmaṇa, and never to a śūdra."
+  },
+  {
+   "verse": 2889,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of danger",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the place or context of the vow",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ati+bhayaṃ",
+     "gloss": "excessive-fear",
+     "grounds": "compound denoting great danger",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "terrible",
+     "grounds": "qualifies the danger",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarpa+caura+ādikaṃ",
+     "gloss": "snake-thief-and-so-on",
+     "grounds": "compound listing sources of danger",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the scope of absence of danger",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dangers are absent for the practitioner who observes this vow?",
+   "premises": [
+    "The context is the place or state of the vow.",
+    "Excessive and terrible fear is negated.",
+    "Dangers from snakes, thieves, and similar threats are negated."
+   ],
+   "inference": "In that context there is no excessive, terrible fear from snakes, thieves, or similar dangers.",
+   "uncertainties": [],
+   "plain_english": "There is no excessive, terrible fear there from snakes, thieves, and the like."
+  },
+  {
+   "verse": 2890,
+   "rows": [
+    {
+     "surface": "sa+putra",
+     "gloss": "with-son",
+     "grounds": "compound indicating possession of a son",
+     "morph": "compound:m.nom.sg"
+    },
+    {
+     "surface": "pautro",
+     "gloss": "with-grandson",
+     "grounds": "indicates possession of a grandson",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "wise",
+     "grounds": "quality of the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samṛddhim",
+     "gloss": "prosperity",
+     "grounds": "benefit attained through the vow",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upagacchati",
+     "gloss": "attains",
+     "grounds": "result of observing the vow",
+     "morph": "3.sg.present-active:upa-√gam"
+    }
+   ],
+   "question": "What personal and familial benefits does the wise practitioner attain through this vow?",
+   "premises": [
+    "The practitioner is wise.",
+    "He is accompanied by son and grandson.",
+    "Prosperity is attained."
+   ],
+   "inference": "The wise practitioner, together with son and grandson, attains prosperity.",
+   "uncertainties": [],
+   "plain_english": "The wise man, with son and grandson, attains prosperity."
+  },
+  {
+   "verse": 2891,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the practitioner, specified as a king",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vatsareṇa",
+     "gloss": "within-a-year",
+     "grounds": "timeframe for obtaining the result",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result of the vow",
+     "morph": "3.sg.present-middle:√labh"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "object attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣkaṇṭakaṃ",
+     "gloss": "without-thorns",
+     "grounds": "compound describing an untroubled kingdom",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "specifies the practitioner as a ruler",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What political reward does a king obtain within a year by observing this vow?",
+   "premises": [
+    "The practitioner is a king.",
+    "The result occurs within a year.",
+    "A thornless kingdom is obtained."
+   ],
+   "inference": "A king who observes the vow obtains an untroubled kingdom within a year.",
+   "uncertainties": [],
+   "plain_english": "Within a year that king obtains a kingdom free from thorns."
+  },
+  {
+   "verse": 2892,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the sacred location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmeśvaraṃ",
+     "gloss": "kāmeśvara",
+     "grounds": "name or epithet of the deity's liṅga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "object of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayet+ca",
+     "gloss": "one-should-worship-and",
+     "grounds": "prescriptive injunction with connective",
+     "morph": "3.sg.optative-active:√pūj"
+    },
+    {
+     "surface": "vṛṣadhvajam",
+     "gloss": "bull-bannered",
+     "grounds": "epithet of Śiva associated with the liṅga",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which sacred liṅga must be worshipped at the specified location in this ritual sequence?",
+   "premises": [
+    "The location is indicated as there.",
+    "The liṅga is identified as Kāmeśvara.",
+    "The deity is described as bull-bannered."
+   ],
+   "inference": "At that place one should worship the Kāmeśvara liṅga of the bull-bannered deity.",
+   "uncertainties": [],
+   "plain_english": "There one should worship the Kāmeśvara liṅga of the bull-bannered lord."
+  },
+  {
+   "verse": 2893,
+   "rows": [
+    {
+     "surface": "hayagrīvasya",
+     "gloss": "of-hayagrīva",
+     "grounds": "reference point for location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "to-the-east",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "sacred object being described",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śukla+sannibhā",
+     "gloss": "white-resembling",
+     "grounds": "compound describing the stone's appearance",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "What sacred stone is identified to the east of Hayagrīva in this pilgrimage description?",
+   "premises": [
+    "The location is east of Hayagrīva.",
+    "A particular stone is indicated.",
+    "The stone resembles white in appearance."
+   ],
+   "inference": "To the east of Hayagrīva there is a stone that resembles white.",
+   "uncertainties": [],
+   "plain_english": "To the east of Hayagrīva there is a stone resembling white."
+  },
+  {
+   "verse": 2894,
+   "rows": [
+    {
+     "surface": "yat+phalaṃ",
+     "gloss": "which-fruit",
+     "grounds": "compound introducing the merit being compared",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "sarva+tīrtheṣu",
+     "gloss": "in-all-holy-places",
+     "grounds": "compound indicating all pilgrimage sites",
+     "morph": "compound:n.loc.pl"
+    },
+    {
+     "surface": "snāna+dānena",
+     "gloss": "by-bathing-giving",
+     "grounds": "compound naming acts of bathing and giving",
+     "morph": "compound:n.ins.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "is-declared",
+     "grounds": "states traditional scriptural declaration",
+     "morph": "n.nom.sg.past-passive-participle:√kīrt"
+    }
+   ],
+   "question": "What merit is declared equivalent to bathing and giving at all holy places?",
+   "premises": [
+    "A particular fruit or merit is being described.",
+    "Bathing and giving at all holy places yield a known merit.",
+    "That merit is declared as the comparison."
+   ],
+   "inference": "The merit in question is declared equal to that gained by bathing and giving at all holy places.",
+   "uncertainties": [
+    "The specific referent of 'yat+phalaṃ' depends on the preceding or following context."
+   ],
+   "plain_english": "The fruit that is declared to come from bathing and giving at all holy places."
+  },
+  {
+   "verse": 2895,
+   "rows": [
+    {
+     "surface": "tulasī+dve",
+     "gloss": "in-tulasī-two",
+     "grounds": "compound referring to two tulasī locations or plants",
+     "morph": "compound:n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mandāre",
+     "gloss": "in-mandāra",
+     "grounds": "location or context of mandāra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalhāre",
+     "gloss": "in-kalhāra",
+     "grounds": "location or context of kalhāra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tamālake",
+     "gloss": "in-tamālaka",
+     "grounds": "location or context of tamālaka",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which sacred plants or locations are enumerated in this part of the ritual description?",
+   "premises": [
+    "Two tulasī instances are mentioned.",
+    "Mandāra and kalhāra are mentioned.",
+    "Tamālaka is also included."
+   ],
+   "inference": "The verse enumerates tulasī, mandāra, kalhāra, and tamālaka as relevant sacred contexts.",
+   "uncertainties": [
+    "The syntactic role of these locatives depends on the surrounding verses."
+   ],
+   "plain_english": "In the two tulasī plants, and in mandāra, kalhāra, and tamālaka."
+  },
+  {
+   "verse": 2896,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned stone or site",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "savye",
+     "gloss": "on-the-left",
+     "grounds": "directional location relative to the referent",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the yoni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "yoni",
+     "grounds": "sacred symbol or site being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "correlative pronoun identifying the yoni",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "prescribes recognition or identification",
+     "morph": "f.nom.sg.future-passive-participle:vi-√jñā"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvatī",
+     "grounds": "identity assigned to the yoni",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What sacred identity is assigned to the yoni located on the left of that site?",
+   "premises": [
+    "A yoni is located on the left of the previously mentioned referent.",
+    "That yoni is to be recognized.",
+    "It is identified as Sarasvatī."
+   ],
+   "inference": "The yoni on the left of that site should be known as Sarasvatī.",
+   "uncertainties": [],
+   "plain_english": "And the yoni on her left should be known as Sarasvatī."
+  },
+  {
+   "verse": 2897,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "merit or result being compared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vana+vāse",
+     "gloss": "in-forest-dwelling",
+     "grounds": "compound referring to living in the forest",
+     "morph": "compound:m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vānaprasthe",
+     "gloss": "in-forest-hermit-stage",
+     "grounds": "refers to the vānaprastha stage of life",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "is-declared",
+     "grounds": "states traditional scriptural declaration",
+     "morph": "n.nom.sg.past-passive-participle:√kīrt"
+    }
+   ],
+   "question": "What ascetic merit is declared as the comparison for the fruit obtained at this site?",
+   "premises": [
+    "A fruit or merit is being described.",
+    "Forest dwelling is associated with a known merit.",
+    "The vānaprastha stage is associated with a known merit."
+   ],
+   "inference": "The merit in question is declared equal to that of forest dwelling and the vānaprastha stage.",
+   "uncertainties": [
+    "The specific referent of 'yat phalaṃ' depends on the surrounding context."
+   ],
+   "plain_english": "The fruit that is declared for dwelling in the forest and for the forest-hermit stage."
+  },
+  {
+   "verse": 2898,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned site",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "to-the-east",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivare",
+     "gloss": "in-the-cavity",
+     "grounds": "specific location within the site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañca+śeṣa+ākṛtiḥ",
+     "gloss": "having-form-of-five-śeṣas",
+     "grounds": "compound describing the stone's shape",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "sacred object being described",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What distinctive stone is found in the cavity to the east of that sacred site?",
+   "premises": [
+    "The location is in a cavity to the east of the prior referent.",
+    "A stone is present there.",
+    "The stone has the form of five Śeṣas."
+   ],
+   "inference": "In the cavity to the east of that site there is a stone having the form of five Śeṣas.",
+   "uncertainties": [
+    "The iconographic meaning of 'five Śeṣas' is not fully specified."
+   ],
+   "plain_english": "To the east of that, in the cavity, there is a stone having the form of five Śeṣas."
+  },
+  {
+   "verse": 2899,
+   "rows": [
+    {
+     "surface": "dvādaśyāṃ",
+     "gloss": "on-the-twelfth-day",
+     "grounds": "specifies the lunar day for observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śukla+pakṣasya",
+     "gloss": "of-the-bright-fortnight",
+     "grounds": "compound specifying the lunar fortnight",
+     "morph": "compound:m.gen.sg"
+    },
+    {
+     "surface": "upoṣya",
+     "gloss": "having-fasted",
+     "grounds": "absolutive indicating preparatory fasting",
+     "morph": "absolutive:upa-√vas"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun, speaker's address",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "On which lunar occasion must fasting be observed according to this instruction?",
+   "premises": [
+    "The twelfth day is specified.",
+    "It belongs to the bright fortnight.",
+    "Fasting is prescribed on that occasion."
+   ],
+   "inference": "One must fast on the twelfth day of the bright fortnight.",
+   "uncertainties": [
+    "The sentence continues in the next verse, so the full injunction is incomplete here."
+   ],
+   "plain_english": "On the twelfth day of the bright fortnight, having fasted, O my beautiful one."
+  }
+ ]
+}

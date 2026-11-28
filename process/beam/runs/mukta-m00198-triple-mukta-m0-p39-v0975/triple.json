@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "demonstrative pronoun with emphatic particle; fused form analyzed as given",
+     "morph": "pron.nom.sg.n+indecl."
+    },
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "architectural term for the temple spire",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "neck",
+     "grounds": "architectural term for the neck section",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "compound describing shape as having four corners",
+     "morph": "adj.nom.sg.n (yuga+aśra)"
+    },
+    {
+     "surface": "brahmakāntakam",
+     "gloss": "brahma-peak",
+     "grounds": "compound naming the designated top section",
+     "morph": "n.nom.sg.n (brahma+kāntaka)"
+    }
+   ],
+   "question": "How is the same spire-neck section identified in form and designation?",
+   "premises": [
+    "The referent is the same spire mentioned previously.",
+    "This spire is identified as the neck section.",
+    "The neck section is four-cornered and called the brahma-peak."
+   ],
+   "inference": "The same spire functions as the neck, characterized as four-cornered and designated the brahma-peak.",
+   "uncertainties": [
+    "The precise architectural referent of brahmakāntakam depends on the wider ritual-temple context."
+   ],
+   "plain_english": "That very same spire is the neck, four-cornered, and called the brahma-peak."
+  }
+ ]
+}

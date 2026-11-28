@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "govarddhana+girau",
+     "gloss": "on-govardhana-hill",
+     "grounds": "compound of govarddhana and giri; locative expressing location",
+     "morph": "govarddhana+giri.m.loc.sg"
+    },
+    {
+     "surface": "ramye",
+     "gloss": "delightful",
+     "grounds": "adjective agreeing with govarddhana+girau",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "past participle describing the figure from prior context",
+     "morph": "m.acc.sg.ppp√sthā"
+    },
+    {
+     "surface": "rāsa+rasa+utsukam",
+     "gloss": "eager-for-rasa-delight",
+     "grounds": "compound of rāsa, rasa, and utsuka expressing longing",
+     "morph": "rāsa+rasa+utsuka.m.acc.sg"
+    }
+   ],
+   "question": "What location and eager longing characterize the deity's presence on Govardhana hill?",
+   "premises": [
+    "The deity is situated on the Govardhana hill.",
+    "The Govardhana hill is described as delightful.",
+    "The deity is eager for the delight of the rāsa."
+   ],
+   "inference": "The verse presents the deity as present on the delightful Govardhana hill with eager anticipation for the rāsa.",
+   "uncertainties": [],
+   "plain_english": "Situated on the delightful Govardhana hill, eager for the delight of the rāsa."
+  }
+ ]
+}

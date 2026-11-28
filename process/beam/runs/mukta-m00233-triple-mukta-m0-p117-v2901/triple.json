@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2901,
+   "rows": [
+    {
+     "surface": "medhāṃ",
+     "gloss": "intelligence",
+     "grounds": "medhā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śraddhāṃ",
+     "gloss": "faith",
+     "grounds": "śraddhā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative feminine",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "sarva feminine plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sakamaṇḍalupustakāḥ",
+     "gloss": "with-kamandalu-book",
+     "grounds": "compound with kamandalu and book",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which powers and objects are installed with intelligence and faith?",
+   "premises": [
+    "medhā and śraddhā are named",
+    "all those powers are included",
+    "kamandalu and book accompany them"
+   ],
+   "inference": "The verse lists intelligence and faith among installed powers with their ritual objects.",
+   "uncertainties": [
+    "exact ritual context inferred from sequence"
+   ],
+   "plain_english": "Intelligence, faith, and all those powers are installed with kamandalu and book."
+  },
+  {
+   "verse": 2902,
+   "rows": [
+    {
+     "surface": "beratribhāgeṣu",
+     "gloss": "in-bera-three-parts",
+     "grounds": "bera tri bhāga locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jānukaṇṭhaśirovadhi",
+     "gloss": "knee-neck-head-limit",
+     "grounds": "compound of knee neck head limit",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where are the installed powers distributed within the bera?",
+   "premises": [
+    "bera has three parts",
+    "distribution runs knee to head",
+    "limits define the regions"
+   ],
+   "inference": "The powers are distributed across the bera's three bodily regions from knee to head.",
+   "uncertainties": [
+    "bera form not specified"
+   ],
+   "plain_english": "In the bera's three parts, distribution extends from knee through neck to head."
+  },
+  {
+   "verse": 2903,
+   "rows": [
+    {
+     "surface": "pṛthvyādyaṣṭamūrtīḥ",
+     "gloss": "earth-etc-eight-forms",
+     "grounds": "pṛthvī ādi aṣṭa mūrti",
+     "morph": "compound"
+    },
+    {
+     "surface": "tacchaktīḥ",
+     "gloss": "their-powers",
+     "grounds": "tat śakti",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "dhārikādikāḥ",
+     "gloss": "bearer-etc",
+     "grounds": "dhārikā ādi",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which eight forms and powers are installed as bearers?",
+   "premises": [
+    "earth and seven others form eight",
+    "their powers are named",
+    "bearer and following powers are included"
+   ],
+   "inference": "The eight forms beginning with earth and their powers, including bearer, are installed.",
+   "uncertainties": [
+    "exact eight forms not enumerated"
+   ],
+   "plain_english": "The eight forms beginning with earth and their powers, bearer and others, are installed."
+  },
+  {
+   "verse": 2904,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "hutvā gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmantraiḥ",
+     "gloss": "with-their-mantras",
+     "grounds": "tat mantra instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃspṛśeyuḥ",
+     "gloss": "they-should-touch",
+     "grounds": "saṃspṛś optative third plural",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "yathāpuram",
+     "gloss": "as-before",
+     "grounds": "yathā puram",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the installed powers be touched after offering?",
+   "premises": [
+    "offering is completed first",
+    "their mantras are used",
+    "touching follows prior procedure"
+   ],
+   "inference": "After offering, the powers should be touched with their mantras as before.",
+   "uncertainties": [
+    "who performs touching"
+   ],
+   "plain_english": "Having offered, they should touch with their mantras as before."
+  },
+  {
+   "verse": 2905,
+   "rows": [
+    {
+     "surface": "kṛtasandhyāvidhiḥ",
+     "gloss": "completed-sandhyā-rite",
+     "grounds": "kṛta sandhyā vidhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "lagne",
+     "gloss": "at-auspicious-time",
+     "grounds": "lagna locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "liṅga?",
+     "gloss": "liṅga",
+     "grounds": "liṅga questionable reading",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūrmāhvayāṃ",
+     "gloss": "kūrma-named",
+     "grounds": "kūrma āhvayā",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "he-should-place",
+     "grounds": "nyas optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "When and where should the liṅga be placed after sandhyā?",
+   "premises": [
+    "sandhyā rite is completed",
+    "auspicious time is specified",
+    "kūrma-named liṅga is placed"
+   ],
+   "inference": "After completing sandhyā, at the auspicious time, he should place the kūrma-named liṅga.",
+   "uncertainties": [
+    "liṅga reading marked questionable"
+   ],
+   "plain_english": "After the sandhyā rite, at the auspicious time, he should place the kūrma-named liṅga."
+  },
+  {
+   "verse": 2906,
+   "rows": [
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "pratimā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "having-placed",
+     "grounds": "nyas optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "he-should-do",
+     "grounds": "kṛ optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bandhena",
+     "gloss": "with-band",
+     "grounds": "bandha instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "susthiram",
+     "gloss": "firm",
+     "grounds": "su sthira",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the image be made firm after placement?",
+   "premises": [
+    "image is placed",
+    "band is used",
+    "firmness is required"
+   ],
+   "inference": "After placing the image, he should make it firm with a band.",
+   "uncertainties": [
+    "band material unspecified"
+   ],
+   "plain_english": "Having placed the image, he should make it firm with a band."
+  },
+  {
+   "verse": 2907,
+   "rows": [
+    {
+     "surface": "padaireva",
+     "gloss": "with-padas",
+     "grounds": "pada instrumental plural eva",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "padādhvānye",
+     "gloss": "pada-paths",
+     "grounds": "pada adhvan",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "pūrva vat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the pada paths handled in this installation?",
+   "premises": [
+    "padas are used",
+    "pada paths are included",
+    "procedure follows earlier steps"
+   ],
+   "inference": "The pada paths are handled with padas as before.",
+   "uncertainties": [
+    "exact pada count"
+   ],
+   "plain_english": "With padas, the pada paths are handled as before."
+  },
+  {
+   "verse": 2908,
+   "rows": [
+    {
+     "surface": "sūkṣmāṃ",
+     "gloss": "subtle",
+     "grounds": "sūkṣmā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyantīṃ",
+     "gloss": "seeing",
+     "grounds": "paśyantī accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "madhyamāṃ",
+     "gloss": "middle",
+     "grounds": "madhyamā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaikharīmapi",
+     "gloss": "vaikharī",
+     "grounds": "vaikharī api",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which speech levels are installed in this rite?",
+   "premises": [
+    "subtle level is included",
+    "seeing level is included",
+    "middle and vaikharī are included"
+   ],
+   "inference": "The subtle, seeing, middle, and vaikharī levels are installed.",
+   "uncertainties": [
+    "paśyantī as speech level"
+   ],
+   "plain_english": "Subtle, seeing, middle, and vaikharī are installed."
+  },
+  {
+   "verse": 2909,
+   "rows": [
+    {
+     "surface": "dvādaśānte",
+     "gloss": "at-twelfth-end",
+     "grounds": "dvādaśa anta locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāyojya",
+     "gloss": "having-joined",
+     "grounds": "samāyojya gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "tat neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitanyopabṛṃhitām",
+     "gloss": "consciousness-augmented",
+     "grounds": "caitanya upabṛṃhita",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is joined at the twelfth end and augmented by consciousness?",
+   "premises": [
+    "twelfth end is the place",
+    "joining is performed",
+    "consciousness augments that"
+   ],
+   "inference": "That which is joined at the twelfth end is augmented by consciousness.",
+   "uncertainties": [
+    "referent of tac"
+   ],
+   "plain_english": "Having joined at the twelfth end, that is augmented by consciousness."
+  },
+  {
+   "verse": 2910,
+   "rows": [
+    {
+     "surface": "brahmanāḍyā",
+     "gloss": "by-brahma-nāḍī",
+     "grounds": "brahma nāḍī instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "tām accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūrtihṛtpaṅkaje",
+     "gloss": "form-heart-lotus",
+     "grounds": "mūrti hṛt paṅkaja locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "he-should-place",
+     "grounds": "nyas optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should she be placed by the brahma nāḍī?",
+   "premises": [
+    "brahma nāḍī is the means",
+    "she is the object",
+    "form-heart-lotus is the place"
+   ],
+   "inference": "By the brahma nāḍī, he should place her in the form-heart-lotus.",
+   "uncertainties": [
+    "identity of tām"
+   ],
+   "plain_english": "By the brahma nāḍī, he should place her in the form-heart-lotus."
+  },
+  {
+   "verse": 2911,
+   "rows": [
+    {
+     "surface": "cāṅgaiḥ",
+     "gloss": "with-limbs",
+     "grounds": "ca aṅga instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vidhāyārghyaṃ",
+     "gloss": "having-made-arghya",
+     "grounds": "vidhāya arghya",
+     "morph": "compound"
+    },
+    {
+     "surface": "pradāya",
+     "gloss": "having-given",
+     "grounds": "pradāya gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is done with limbs, arghya, and offering?",
+   "premises": [
+    "limbs are included",
+    "arghya is made",
+    "offering is given"
+   ],
+   "inference": "With limbs, having made arghya and given it, the rite proceeds.",
+   "uncertainties": [
+    "exact sequence of tu"
+   ],
+   "plain_english": "With limbs, having made and given arghya, he proceeds."
+  },
+  {
+   "verse": 2912,
+   "rows": [
+    {
+     "surface": "nidrāstrābhyāṃ",
+     "gloss": "by-sleep-weapon",
+     "grounds": "nidrā astra instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhiṣicya",
+     "gloss": "having-sprinkled",
+     "grounds": "abhiṣicya gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "he-should-worship",
+     "grounds": "yaj optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "arghyādibhiḥ",
+     "gloss": "with-arghya-etc",
+     "grounds": "arghya ādi instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "krama ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should worship proceed after sprinkling with sleep weapon?",
+   "premises": [
+    "sleep weapon is used",
+    "sprinkling is performed",
+    "worship follows with arghya etc"
+   ],
+   "inference": "After sprinkling with the sleep weapon, he should worship with arghya and other offerings in order.",
+   "uncertainties": [
+    "nidrāstra identity"
+   ],
+   "plain_english": "Having sprinkled with the sleep weapon, he should worship with arghya and other offerings in order."
+  },
+  {
+   "verse": 2913,
+   "rows": [
+    {
+     "surface": "taddvāḥsthau",
+     "gloss": "those-two-door-guardians",
+     "grounds": "tat dvāḥ stha",
+     "morph": "compound"
+    },
+    {
+     "surface": "vighnakṣetrapatī",
+     "gloss": "obstacle-field-lords",
+     "grounds": "vighna kṣetra pati",
+     "morph": "compound"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "he-should-worship",
+     "grounds": "yaj optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which door guardians and field lords are worshipped?",
+   "premises": [
+    "two door guardians are named",
+    "obstacle field lords are named",
+    "worship is directed to them"
+   ],
+   "inference": "He should worship the two door guardians and the obstacle field lords.",
+   "uncertainties": [
+    "exact identities"
+   ],
+   "plain_english": "He should worship those two door guardians and the obstacle field lords."
+  },
+  {
+   "verse": 2914,
+   "rows": [
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "kṣiptvā gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "praviśyāntardehalyāṃ",
+     "gloss": "having-entered",
+     "grounds": "praviśya antar dehalī",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinidhāya",
+     "gloss": "having-placed",
+     "grounds": "vinidhāya gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tat neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is thrown, entered, and placed in this step?",
+   "premises": [
+    "throwing is performed",
+    "entry into inner threshold occurs",
+    "that is placed"
+   ],
+   "inference": "Having thrown, having entered the inner threshold, he places that.",
+   "uncertainties": [
+    "object of kṣiptvā and tat"
+   ],
+   "plain_english": "Having thrown, having entered the inner threshold, he places that."
+  },
+  {
+   "verse": 2915,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "pañca numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāyātha",
+     "gloss": "having-made",
+     "grounds": "vidhāya atha",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tilakī",
+     "gloss": "tilakī",
+     "grounds": "tilakī noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpaśekharaḥ",
+     "gloss": "flower-crowned",
+     "grounds": "puṣpa śekhara",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fivefold making produces the flower-crowned tilakī?",
+   "premises": [
+    "five is specified",
+    "making is performed",
+    "tilakī becomes flower-crowned"
+   ],
+   "inference": "After the fivefold making, the tilakī is flower-crowned.",
+   "uncertainties": [
+    "fivefold referent"
+   ],
+   "plain_english": "Having made five, the tilakī becomes flower-crowned."
+  },
+  {
+   "verse": 2916,
+   "rows": [
+    {
+     "surface": "kṛtatretādikān",
+     "gloss": "kṛta-tretā-etc-feet",
+     "grounds": "kṛta tretā ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādān",
+     "gloss": "pādān",
+     "grounds": "pāda accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "siṃhākārān",
+     "gloss": "lion-shaped",
+     "grounds": "siṃha ākāra",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidiggatān",
+     "gloss": "direction-gone",
+     "grounds": "vidik gata",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the kṛta-tretā feet shaped and directed?",
+   "premises": [
+    "kṛta tretā etc feet are named",
+    "lion shape is specified",
+    "directional placement is specified"
+   ],
+   "inference": "The kṛta-tretā feet are lion-shaped and placed in directions.",
+   "uncertainties": [
+    "exact feet list"
+   ],
+   "plain_english": "The kṛta-tretā feet are lion-shaped and placed in directions."
+  },
+  {
+   "verse": 2917,
+   "rows": [
+    {
+     "surface": "sūryādimaṇḍalādhīśān",
+     "gloss": "sun-etc-maṇḍala-lords",
+     "grounds": "sūrya ādi maṇḍala adhīśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmādīñ",
+     "gloss": "brahmā-etc",
+     "grounds": "brahmā ādi accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "chadanādiṣu",
+     "gloss": "canopy-etc",
+     "grounds": "chadana ādi locative plural",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "Where are the sun-maṇḍala lords and brahmā placed?",
+   "premises": [
+    "sun-maṇḍala lords are named",
+    "brahmā and others are named",
+    "canopy and other places are specified"
+   ],
+   "inference": "The sun-maṇḍala lords and brahmā are placed in canopy and other locations.",
+   "uncertainties": [
+    "exact locations"
+   ],
+   "plain_english": "The sun-maṇḍala lords and brahmā are placed in canopy and other places."
+  },
+  {
+   "verse": 2918,
+   "rows": [
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "koṇa locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "he-should-worship",
+     "grounds": "pūj optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kesarāhvayān",
+     "gloss": "kesara-named",
+     "grounds": "kesara āhvaya",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which kesara-named powers are worshipped in corners?",
+   "premises": [
+    "corners are the place",
+    "worship is performed",
+    "kesara-named powers are objects"
+   ],
+   "inference": "He should worship the kesara-named powers in the corners.",
+   "uncertainties": [
+    "kesara identity"
+   ],
+   "plain_english": "He should worship the kesara-named powers in the corners."
+  },
+  {
+   "verse": 2919,
+   "rows": [
+    {
+     "surface": "supārśvaścottaracchade",
+     "gloss": "good-side",
+     "grounds": "su pārśva uttara chada",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is specified about the good side and northern canopy?",
+   "premises": [
+    "good side is named",
+    "northern canopy is named",
+    "single compound gives placement"
+   ],
+   "inference": "The verse specifies the good side and northern canopy placement.",
+   "uncertainties": [
+    "exact syntactic role"
+   ],
+   "plain_english": "Good side and northern canopy are specified."
+  },
+  {
+   "verse": 2920,
+   "rows": [
+    {
+     "surface": "nīlaśca",
+     "gloss": "blue",
+     "grounds": "nīla ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetaśṛṅgī",
+     "gloss": "white-horned",
+     "grounds": "śveta śṛṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "tat accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "he-should-worship",
+     "grounds": "yaj optative third singular",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which blue and white-horned powers are worshipped?",
+   "premises": [
+    "blue is named",
+    "white-horned is named",
+    "those powers are worshipped"
+   ],
+   "inference": "He should worship those blue and white-horned powers.",
+   "uncertainties": [
+    "exact identities"
+   ],
+   "plain_english": "He should worship those blue and white-horned powers."
+  },
+  {
+   "verse": 2921,
+   "rows": [
+    {
+     "surface": "cāvāhya",
+     "gloss": "and",
+     "grounds": "ca āvāhya",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mūlāṅgaiḥ",
+     "gloss": "with-root-limbs",
+     "grounds": "mūla aṅga instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sthāpanādyaṃ",
+     "gloss": "having-done-establishment-etc",
+     "grounds": "sthāpana ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "vidhāya",
+     "grounds": "vidhāya gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is done with root limbs after establishment?",
+   "premises": [
+    "root limbs are used",
+    "establishment and following steps are done",
+    "vidhāya completes action"
+   ],
+   "inference": "With root limbs, having done establishment and other steps, he proceeds.",
+   "uncertainties": [
+    "exact root limbs"
+   ],
+   "plain_english": "With root limbs, having done establishment and other steps, he proceeds."
+  },
+  {
+   "verse": 2922,
+   "rows": [
+    {
+     "surface": "kesareṣviṣṭvā",
+     "gloss": "in-kesaras",
+     "grounds": "kesara locative plural iṣṭvā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "śaktidvādaśakaṃ",
+     "gloss": "twelve-śaktis",
+     "grounds": "śakti dvādaśaka",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "tataḥ adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is worshipped in the kesaras before proceeding?",
+   "premises": [
+    "kesaras are the place",
+    "twelve śaktis are objects",
+    "then indicates sequence"
+   ],
+   "inference": "Having worshipped the twelve śaktis in the kesaras, he proceeds.",
+   "uncertainties": [
+    "exact kesara locations"
+   ],
+   "plain_english": "Having worshipped the twelve śaktis in the kesaras, then he proceeds."
+  },
+  {
+   "verse": 2923,
+   "rows": [
+    {
+     "surface": "satyādike",
+     "gloss": "truth-etc",
+     "grounds": "satya ādi locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dve dve",
+     "gloss": "two-two",
+     "grounds": "dve dve",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇacchadayugeṣvapi",
+     "gloss": "corner-canopy-pairs",
+     "grounds": "koṇa chada yuga",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are truth-etc powers placed in corner-canopy pairs?",
+   "premises": [
+    "truth and following powers are named",
+    "two and two are specified",
+    "corner-canopy pairs are places"
+   ],
+   "inference": "The truth-etc powers are placed two by two in corner-canopy pairs.",
+   "uncertainties": [
+    "exact truth-etc list"
+   ],
+   "plain_english": "Truth and following powers are placed two by two in corner-canopy pairs."
+  },
+  {
+   "verse": 2924,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "dakṣiṇa locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "goddess",
+     "grounds": "devī instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viṣṇurvāme",
+     "gloss": "viṣṇu",
+     "grounds": "viṣṇu vāma",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivo'grataḥ",
+     "gloss": "śiva",
+     "grounds": "śiva agratas",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where are the goddess, Viṣṇu, and Śiva positioned?",
+   "premises": [
+    "goddess is on the right",
+    "Viṣṇu is on the left",
+    "Śiva is in front"
+   ],
+   "inference": "The goddess is on the right, Viṣṇu on the left, and Śiva in front.",
+   "uncertainties": [
+    "exact ritual orientation"
+   ],
+   "plain_english": "The goddess is on the right, Viṣṇu on the left, and Śiva in front."
+  }
+ ]
+}

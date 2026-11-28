@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "karṇo",
+     "gloss": "corner",
+     "grounds": "nominal subject; architectural corner element; final visarga elided before voiced consonant in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-parts",
+     "grounds": "measure expressed as two parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryāṃśe",
+     "gloss": "in-twelve-part-division",
+     "grounds": "locative indicating a scheme divided into twelve parts",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhadrārdhaṃ",
+     "gloss": "bhadra-half",
+     "grounds": "half measure of the bhadra projection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratirathake",
+     "gloss": "in-pratiratha",
+     "grounds": "locative locating the measure in the pratiratha offset",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What proportional measures are assigned to the corner and bhadra-half within a twelve-part architectural division?",
+   "premises": [
+    "karṇo identifies the corner element as the subject of measurement.",
+    "dvibhāgaḥ assigns a measure of two parts to that corner.",
+    "sūryāṃśe specifies the framework as a division into twelve parts.",
+    "bhadrārdhaṃ denotes the half-bhadra measure located in the pratirathake."
+   ],
+   "inference": "Within a twelve-part division, the corner measures two parts and the half-bhadra is situated in the pratiratha.",
+   "uncertainties": [
+    "The exact syntactic relation of bhadrārdhaṃ to pratirathake is compressed and inferred from architectural context."
+   ],
+   "plain_english": "In a division into twelve parts, the corner is two parts, and the half-bhadra is in the pratiratha."
+  }
+ ]
+}

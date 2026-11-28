@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "kvaciddhyānaṃ",
+     "gloss": "sometimes-meditation",
+     "grounds": "kvacit (sometimes) + dhyānam (meditation), sandhi t->d before dh",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japādiñca",
+     "gloss": "japa-etc-and",
+     "grounds": "japādi (japa and similar) + ca (and), sandhi c->ñ before c",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kvacic",
+     "gloss": "sometimes",
+     "grounds": "kvacit with final t assimilated before c",
+     "morph": "indecl."
+    },
+    {
+     "surface": "carvaṇa",
+     "gloss": "chewing",
+     "grounds": "neuter noun in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "should-not-practice",
+     "grounds": "mā (prohibition) + ācaret (optative), 3rd singular",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "How should meditation, japa, and chewing practice be alternated in ritual application?",
+   "premises": [
+    "Meditation and japa occur sometimes.",
+    "Chewing practice occurs sometimes.",
+    "Practice is sometimes prohibited."
+   ],
+   "inference": "Ritual application alternates permitted meditation and japa with prohibited chewing.",
+   "uncertainties": [
+    "mācaret may be a prohibitive optative; exact ritual context remains unclear."
+   ],
+   "plain_english": "Sometimes meditation and japa and the like; sometimes chewing should not be practiced."
+  }
+ ]
+}

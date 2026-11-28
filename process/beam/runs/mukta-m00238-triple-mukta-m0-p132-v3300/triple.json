@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "paṃcāyudhadharaḥ",
+     "gloss": "five-weapons-bearer",
+     "grounds": "compound naming one who bears five weapons, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "adjective in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "proper name in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityucyate",
+     "gloss": "thus-called",
+     "grounds": "passive present third singular, iti plus ucyate",
+     "morph": "3.sg.pass-pres (root vac)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "wise",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Which glorious five-weapon-bearing deity is called Viṣṇu by the wise?",
+   "premises": [
+    "Viṣṇu bears five weapons.",
+    "Viṣṇu is glorious.",
+    "The wise call him Viṣṇu."
+   ],
+   "inference": "The wise name the glorious five-weapon bearer Viṣṇu.",
+   "uncertainties": [
+    "Compendium quotation boundary is not marked in this verse."
+   ],
+   "plain_english": "The glorious Viṣṇu, bearer of five weapons, is thus called by the wise."
+  }
+ ]
+}

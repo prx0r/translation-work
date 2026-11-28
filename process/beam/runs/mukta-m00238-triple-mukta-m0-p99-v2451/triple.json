@@ -1,0 +1,785 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "viṣṇuvaṃśasamudbhūtaḥ",
+     "gloss": "born-of-viṣṇu-lineage",
+     "grounds": "compound viṣṇu-vaṃśa-samudbhūta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛgadhyāpanatatparaḥ",
+     "gloss": "devoted-to-teaching-ṛg",
+     "grounds": "compound ṛg-adhyāpana-tatpara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lineage and teaching devotion characterize this practitioner?",
+   "premises": [
+    "The practitioner is born of viṣṇu lineage.",
+    "The practitioner is devoted to teaching ṛg."
+   ],
+   "inference": "The verse identifies a viṣṇu-lineage teacher devoted to ṛg instruction.",
+   "uncertainties": [
+    "Exact ritual context is not stated."
+   ],
+   "plain_english": "Born of the viṣṇu lineage and devoted to teaching the ṛg."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "vivāhādyakhilaṃ",
+     "gloss": "all-marriage-etc",
+     "grounds": "compound vivāha-ādi-akhilaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yātrā",
+     "gloss": "journey",
+     "grounds": "noun yātrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivayoge",
+     "gloss": "in-śiva-yoga",
+     "grounds": "compound śiva-yoga locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "verb praśaṃs",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Which activities are praised in śiva-yoga?",
+   "premises": [
+    "Marriage and related activities are included.",
+    "Journey is included.",
+    "These are praised in śiva-yoga."
+   ],
+   "inference": "The verse praises marriage-related activities and journey in śiva-yoga.",
+   "uncertainties": [
+    "Scope of ādi is unspecified."
+   ],
+   "plain_english": "Marriage and all related activities, and journey, are praised in śiva-yoga."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalakuṃbhāśśivedeyāḥ",
+     "gloss": "water-pots-to-śiva-gifts",
+     "grounds": "compound jalakuṃbha-śiva-deyāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What gift is specified for śiva?",
+   "premises": [
+    "A gift is mentioned.",
+    "Water pots are given to śiva."
+   ],
+   "inference": "The verse specifies water-pot gifts for śiva.",
+   "uncertainties": [
+    "Recipient details beyond śiva are absent."
+   ],
+   "plain_english": "The gift is water pots for śiva."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "udaṅmukhassvaśiṣyebhyo",
+     "gloss": "north-facing-to-own-students",
+     "grounds": "compound udaṅmukha-sva-śiṣya",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "yajūṃṣisatataṃ",
+     "gloss": "yajus-texts-always",
+     "grounds": "compound yajus-satataṃ",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paṭhan",
+     "gloss": "reciting",
+     "grounds": "participle paṭh",
+     "morph": "pres.part"
+    }
+   ],
+   "question": "How should yajus texts be recited to students?",
+   "premises": [
+    "The reciter faces north.",
+    "The students are his own.",
+    "Yajus texts are recited always."
+   ],
+   "inference": "The verse prescribes north-facing recitation of yajus texts to one's own students.",
+   "uncertainties": [
+    "Exact ritual setting is unspecified."
+   ],
+   "plain_english": "Facing north, one always recites yajus texts to his own students."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "devapratiṣṭhādi",
+     "gloss": "deity-installation-etc",
+     "grounds": "compound deva-pratiṣṭhā-ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "adjective śubha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmasiddhāhvaye",
+     "gloss": "in-work-success-yoga",
+     "grounds": "compound karma-siddha-āhvaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvamuśaṃti",
+     "gloss": "all-desire",
+     "grounds": "compound sarva-muśaṃti",
+     "morph": "3.pl.pres"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-yoga",
+     "grounds": "noun yoga locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What auspicious activities are desired in work-success yoga?",
+   "premises": [
+    "Deity installation and related activities are auspicious.",
+    "All desire them in yoga.",
+    "Work-success yoga is named."
+   ],
+   "inference": "The verse links deity installation and related auspicious works to desire in yoga.",
+   "uncertainties": [
+    "The exact list after ādi is unspecified."
+   ],
+   "plain_english": "Deity installation and related auspicious works are desired by all in work-success yoga."
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhesidhānnamiṣyate",
+     "gloss": "siddhi-siddhānna-is-intended",
+     "grounds": "compound siddhi-siddha-anna",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What food gift is intended for siddhi?",
+   "premises": [
+    "A gift is mentioned.",
+    "Siddhi-siddhānna is intended."
+   ],
+   "inference": "The verse intends a siddhi-related food gift.",
+   "uncertainties": [
+    "Preparation details are absent."
+   ],
+   "plain_english": "The gift is siddhi-siddhānna."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "udaṅmukhomahāmaṃtramātharvaṇamanusmaran",
+     "gloss": "north-facing-great-atharva-mantra-remembering",
+     "grounds": "compound udaṅmukha-mahā-mantra-ātharvaṇa-anusmaran",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra is remembered while facing north?",
+   "premises": [
+    "The practitioner faces north.",
+    "The great atharvaṇa mantra is remembered."
+   ],
+   "inference": "The verse prescribes remembering the great atharvaṇa mantra while facing north.",
+   "uncertainties": [
+    "Ritual purpose is not stated."
+   ],
+   "plain_english": "Facing north, one remembers the great atharvaṇa mantra."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "sthiracarayātrādyakhilaṃ",
+     "gloss": "all-stable-moving-journey-etc",
+     "grounds": "compound sthira-cara-yātrā-ādi-akhilaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "work",
+     "grounds": "noun kārya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhyāhvaye",
+     "gloss": "in-sādhya-yoga",
+     "grounds": "compound sādhya-āhvaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-yoga",
+     "grounds": "noun yoga locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What works are done in sādhya-yoga?",
+   "premises": [
+    "Stable and moving journey activities are included.",
+    "All such work is named.",
+    "Sādhya-yoga is the context."
+   ],
+   "inference": "The verse assigns stable and moving journey works to sādhya-yoga.",
+   "uncertainties": [
+    "The exact list after ādi is unspecified."
+   ],
+   "plain_english": "All stable and moving journey works are done in sādhya-yoga."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "sādhyelaṃkaraṇānāṃ",
+     "gloss": "of-sādhya-ornaments",
+     "grounds": "compound sādhya-alaṃkaraṇa",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ornaments are connected with sādhya?",
+   "premises": [
+    "Sādhya ornaments are mentioned.",
+    "And connects to prior context."
+   ],
+   "inference": "The verse adds sādhya ornaments to the preceding list.",
+   "uncertainties": [
+    "The full ornament list is not given."
+   ],
+   "plain_english": "And the ornaments of sādhya."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "udaṅmukhojapanmaṃtraṃ",
+     "gloss": "north-facing-reciting-mantra",
+     "grounds": "compound udaṅmukha-japan-mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaivaṃpaṃcākṣaraṃ",
+     "gloss": "śiva-five-syllable",
+     "grounds": "compound śaiva-pañcākṣara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective śubha",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which mantra is recited while facing north?",
+   "premises": [
+    "The reciter faces north.",
+    "The śiva five-syllable mantra is recited.",
+    "It is auspicious."
+   ],
+   "inference": "The verse prescribes reciting the auspicious śiva five-syllable mantra while facing north.",
+   "uncertainties": [
+    "Ritual purpose is not stated."
+   ],
+   "plain_english": "Facing north, one recites the auspicious śiva five-syllable mantra."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "dhanadhānyagṛhodyogaṃ",
+     "gloss": "wealth-grain-house-work",
+     "grounds": "compound dhana-dhānya-gṛha-udyoga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāryaṃyoge",
+     "gloss": "work-in-yoga",
+     "grounds": "compound kārya-yoga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śubhā",
+     "gloss": "auspicious",
+     "grounds": "adjective śubha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hvaye",
+     "gloss": "hvaye",
+     "grounds": "noun āhvaya",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What works are auspicious in śubha-yoga?",
+   "premises": [
+    "Wealth, grain, and house works are named.",
+    "They are auspicious.",
+    "Śubha-yoga is the context."
+   ],
+   "inference": "The verse assigns wealth, grain, and house works to auspicious yoga.",
+   "uncertainties": [
+    "The exact yoga name is compressed."
+   ],
+   "plain_english": "Wealth, grain, and house works are auspicious in yoga."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chatradānaṃśubheśubham",
+     "gloss": "umbrella-gift-auspicious-inauspicious",
+     "grounds": "compound chatra-dāna-śubha-aśubha",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What umbrella gift is mentioned?",
+   "premises": [
+    "A gift is mentioned.",
+    "Umbrella gift is auspicious or inauspicious."
+   ],
+   "inference": "The verse mentions an umbrella gift with auspicious or inauspicious status.",
+   "uncertainties": [
+    "The exact condition is compressed."
+   ],
+   "plain_english": "The gift is an umbrella gift, auspicious or inauspicious."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "pratyagdṛṣṭissadābhūyātkauśikānvayasaṃbhavaḥ",
+     "gloss": "east-facing-sight-always-born-of-kauśika-lineage",
+     "grounds": "compound pratyag-dṛṣṭi-sadā-bhūyāt-kauśika-anvaya-saṃbhavaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sight and lineage are prescribed?",
+   "premises": [
+    "East-facing sight is desired always.",
+    "The practitioner is born of kauśika lineage."
+   ],
+   "inference": "The verse prescribes east-facing sight for one born of kauśika lineage.",
+   "uncertainties": [
+    "Ritual purpose is not stated."
+   ],
+   "plain_english": "May east-facing sight always be, for one born of kauśika lineage."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "kanyādānaṃ",
+     "gloss": "daughter-gift",
+     "grounds": "compound kanyā-dāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahotsāhaṃ",
+     "gloss": "great-enthusiasm",
+     "grounds": "compound mahā-utsāha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śuklayoge",
+     "gloss": "in-śukla-yoga",
+     "grounds": "compound śukla-yoga locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-do",
+     "grounds": "verb kṛ causative",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What daughter-gift work is done in śukla-yoga?",
+   "premises": [
+    "Daughter gift is named.",
+    "Great enthusiasm is named.",
+    "It should be done in śukla-yoga."
+   ],
+   "inference": "The verse prescribes daughter-gift work with great enthusiasm in śukla-yoga.",
+   "uncertainties": [
+    "Exact ritual details are absent."
+   ],
+   "plain_english": "One should perform daughter-gift work with great enthusiasm in śukla-yoga."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuklecopānahordānam",
+     "gloss": "śukla-sandals-gift",
+     "grounds": "compound śukla-upānah-dāna",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sandal gift is mentioned for śukla?",
+   "premises": [
+    "A gift is mentioned.",
+    "Śukla sandals are given."
+   ],
+   "inference": "The verse mentions a śukla sandal gift.",
+   "uncertainties": [
+    "Recipient and purpose are unspecified."
+   ],
+   "plain_english": "The gift is śukla sandals."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "brahmaṇyāhitadṛṣṭissantapannastu",
+     "gloss": "brahma-devoted-sight-heat-born",
+     "grounds": "compound brahmaṇya-āhita-dṛṣṭi-santapanna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhāyame",
+     "gloss": "for-happiness",
+     "grounds": "compound sukha-āyame",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What sight and heat-born state bring happiness?",
+   "premises": [
+    "Brahma-devoted sight is named.",
+    "A heat-born state is named.",
+    "Happiness is the aim."
+   ],
+   "inference": "The verse connects brahma-devoted sight and a heat-born state with happiness.",
+   "uncertainties": [
+    "The exact state is compressed."
+   ],
+   "plain_english": "Brahma-devoted sight and a heat-born state are for happiness."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "kṛṣividyāsetubaṃdhaṃ",
+     "gloss": "agriculture-knowledge-bridge",
+     "grounds": "compound kṛṣi-vidyā-setu-bandha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-yoga",
+     "grounds": "noun yoga locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma-yoga",
+     "grounds": "noun brahma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hvaye",
+     "gloss": "hvaye",
+     "grounds": "noun āhvaya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "benefit",
+     "grounds": "adjective hita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What works are beneficial in brahma-yoga?",
+   "premises": [
+    "Agriculture, knowledge, and bridge works are named.",
+    "They are beneficial.",
+    "Brahma-yoga is the context."
+   ],
+   "inference": "The verse assigns agriculture, knowledge, and bridge works to beneficial brahma-yoga.",
+   "uncertainties": [
+    "The exact yoga name is compressed."
+   ],
+   "plain_english": "Agriculture, knowledge, and bridge works are beneficial in brahma-yoga."
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śastaṃbrahmaṇisarpiṣaḥ",
+     "gloss": "praised-brahma-ghee",
+     "grounds": "compound śasta-brahmaṇi-sarpiṣaḥ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ghee gift is praised for brahma?",
+   "premises": [
+    "A gift is mentioned.",
+    "Ghee for brahma is praised."
+   ],
+   "inference": "The verse praises a ghee gift for brahma.",
+   "uncertainties": [
+    "Recipient details are compressed."
+   ],
+   "plain_english": "The praised gift is ghee for brahma."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "vādhūlānvaya",
+     "gloss": "vādhūla-lineage",
+     "grounds": "compound vādhūla-anvaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jātāya",
+     "gloss": "born",
+     "grounds": "participle jan",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "varadāya",
+     "gloss": "boon-giver",
+     "grounds": "compound vara-dāya",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sadānṛṇām",
+     "gloss": "always-debtless",
+     "grounds": "compound sadā-anṛṇa",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What lineage and boon-giver are named?",
+   "premises": [
+    "Vādhūla lineage is named.",
+    "A born boon-giver is named.",
+    "Always debtless persons are named."
+   ],
+   "inference": "The verse names vādhūla lineage, a born boon-giver, and always debtless persons.",
+   "uncertainties": [
+    "The exact relationship is compressed."
+   ],
+   "plain_english": "Vādhūla lineage, a born boon-giver, and always debtless persons."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "kāvyanāṭakasaṃgītamaiṃdrayoge",
+     "gloss": "poetry-drama-music-in-indra-yoga",
+     "grounds": "compound kāvya-nāṭaka-saṃgīta-aimdra-yoga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "verb sidh",
+     "morph": "3.sg.pres"
+    }
+   ],
+   "question": "What arts succeed in indra-yoga?",
+   "premises": [
+    "Poetry, drama, and music are named.",
+    "They succeed in indra-yoga."
+   ],
+   "inference": "The verse says poetry, drama, and music succeed in indra-yoga.",
+   "uncertainties": [
+    "Performance details are absent."
+   ],
+   "plain_english": "Poetry, drama, and music succeed in indra-yoga."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "noun dāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aiṃdre",
+     "gloss": "in-indra",
+     "grounds": "adjective aimdra locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpakāndadyāt",
+     "gloss": "should-give-lamps",
+     "grounds": "compound dīpaka-ānda-dadyāt",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What lamp gift is given in indra-yoga?",
+   "premises": [
+    "A gift is mentioned.",
+    "Lamps are given in indra-yoga."
+   ],
+   "inference": "The verse prescribes giving lamps in indra-yoga.",
+   "uncertainties": [
+    "Exact lamp type is compressed."
+   ],
+   "plain_english": "One should give lamps in indra-yoga."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "kauṃḍinyagotrajobrahmasaṃsmaranmanasānvaham",
+     "gloss": "kauṇḍinya-gotra-born-brahma-remembering-daily",
+     "grounds": "compound kauṇḍinya-gotra-ja-brahma-saṃsmaran-manasā-anvaham",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What daily remembrance is prescribed for kauṇḍinya gotra?",
+   "premises": [
+    "One is born of kauṇḍinya gotra.",
+    "Brahma is remembered daily by mind."
+   ],
+   "inference": "The verse prescribes daily mental remembrance of brahma for kauṇḍinya gotra.",
+   "uncertainties": [
+    "Ritual purpose is not stated."
+   ],
+   "plain_english": "Born of kauṇḍinya gotra, one remembers brahma daily in mind."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "dadhataṃḍamaruṃ",
+     "gloss": "holding-damaru",
+     "grounds": "compound dadhataṃ-ḍamaru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "noun śūla",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khaḍgakheṭakadhāriṇam",
+     "gloss": "sword-shield-bearer",
+     "grounds": "compound khaḍga-kheṭaka-dhārin",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What weapons are held by the figure?",
+   "premises": [
+    "A damaru is held.",
+    "A trident is named.",
+    "A sword and shield are borne."
+   ],
+   "inference": "The verse describes a figure holding damaru, trident, sword, and shield.",
+   "uncertainties": [
+    "The figure's identity is not stated."
+   ],
+   "plain_english": "Holding a damaru and trident, bearing sword and shield."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "uccāṭanaṃvaṃcanaśṛṃkhalādikāryaṃ",
+     "gloss": "uccāṭana-deception-chains-etc-work",
+     "grounds": "compound uccāṭana-vaṃcana-śṛṃkhala-ādi-kārya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hitaṃvaidhṛtināmayoge",
+     "gloss": "benefit-in-vaidhṛti-yoga",
+     "grounds": "compound hita-vaidhṛti-nāma-yoga",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What works are beneficial in vaidhṛti-yoga?",
+   "premises": [
+    "Uccāṭana, deception, and chains are named.",
+    "They are beneficial.",
+    "Vaidhṛti-yoga is the context."
+   ],
+   "inference": "The verse assigns uccāṭana, deception, and chain works to beneficial vaidhṛti-yoga.",
+   "uncertainties": [
+    "The exact list after ādi is unspecified."
+   ],
+   "plain_english": "Uccāṭana, deception, chains, and related works are beneficial in vaidhṛti-yoga."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remaining",
+     "grounds": "substantivized adjective indicating the rest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "space-between-garlands",
+     "grounds": "compound of hāra and antara",
+     "morph": "compound:n.acc.sg"
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "projection",
+     "grounds": "architectural cell or projection element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-both-sides",
+     "grounds": "locative indicating lateral position",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapaṃjaram",
+     "gloss": "with-cage",
+     "grounds": "compound with sa- indicating accompaniment by a paṃjara",
+     "morph": "compound:n.acc.sg"
+    }
+   ],
+   "question": "What structural element occupies the remaining space between the hāras on the sides?",
+   "premises": [
+    "The remaining space between the hāras is designated as a koṣṭha.",
+    "This koṣṭha is located on both sides.",
+    "This koṣṭha is specified as having a cage structure."
+   ],
+   "inference": "Therefore, the lateral interval between the hāras is to be constructed as a koṣṭha equipped with a paṃjara.",
+   "uncertainties": [
+    "The precise architectural form of paṃjara in this context is not fully specified."
+   ],
+   "plain_english": "The remaining space between the hāras on the sides is a koṣṭha provided with a cage."
+  }
+ ]
+}

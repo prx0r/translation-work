@@ -1,0 +1,1105 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2951,
+   "rows": [
+    {
+     "surface": "kalaśairnavabhirdaivaṃ",
+     "gloss": "with-pots-with-nine-divine",
+     "grounds": "fused compound: kalaśaiḥ + navabhiḥ + daivam; bathing of the deity with nine pots",
+     "morph": "compound = kalaśa+instrumental.member + navan+instrumental.member + daiva+object.member"
+    },
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "absolutive indicating prior ritual action",
+     "morph": "absolutive (√snā with sam)"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "temporal sequence following the bathing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must follow bathing the deity with nine pots?",
+   "premises": [
+    "The deity is bathed using nine pots.",
+    "This bathing is completed as a prior action.",
+    "A subsequent step is indicated immediately after."
+   ],
+   "inference": "After bathing the deity with nine pots, the next prescribed ritual step must be performed.",
+   "uncertainties": [
+    "The specific next action is completed in the following verse."
+   ],
+   "plain_english": "After bathing the deity with nine pots, one should proceed to the next step."
+  },
+  {
+   "verse": 2952,
+   "rows": [
+    {
+     "surface": "trisandhyārcana",
+     "gloss": "three-juncture-worship",
+     "grounds": "worship performed at the three daily junctures",
+     "morph": "compound = tri+member + sandhyā+member + arcana+member"
+    },
+    {
+     "surface": "lope",
+     "gloss": "in-omission",
+     "grounds": "locative indicating lapse or omission",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution as expiation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaviṃśatiḥ",
+     "gloss": "twenty-five",
+     "grounds": "number of bathings prescribed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What expiatory bathing is required when worship at the three daily junctures is omitted?",
+   "premises": [
+    "Worship at the three daily junctures may be omitted.",
+    "An omission requires a corrective ritual measure.",
+    "A specific number of bathings is prescribed."
+   ],
+   "inference": "If worship at the three daily junctures is omitted, twenty-five bathings must be performed.",
+   "uncertainties": [],
+   "plain_english": "If the worship at the three daily junctures is omitted, twenty-five ritual bathings should be performed."
+  },
+  {
+   "verse": 2953,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "corrective ritual for a fault",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyam",
+     "gloss": "to-be-done",
+     "grounds": "obligation to perform the expiation",
+     "morph": "n.nom.sg (gerundive, √kṛ with pra)"
+    },
+    {
+     "surface": "ekāhe",
+     "gloss": "in-one-day",
+     "grounds": "duration of the omission",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihīnake",
+     "gloss": "when-deficient",
+     "grounds": "condition of being lacking for one day",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What obligation arises when daily worship is deficient for one day?",
+   "premises": [
+    "Daily worship may be deficient for one day.",
+    "Such deficiency constitutes a ritual fault.",
+    "Expiation is prescribed as a corrective duty."
+   ],
+   "inference": "When worship is deficient for one day, expiation must be performed.",
+   "uncertainties": [
+    "The exact form of expiation is specified in surrounding verses."
+   ],
+   "plain_english": "If worship is lacking for one day, expiation must be performed."
+  },
+  {
+   "verse": 2954,
+   "rows": [
+    {
+     "surface": "dinadvaye",
+     "gloss": "for-two-days",
+     "grounds": "duration of two days",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "when-deficient",
+     "grounds": "condition of omission over two days",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvidinaṃ",
+     "gloss": "for-two-days",
+     "grounds": "duration for performing the corrective rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "this",
+     "grounds": "refers to the prescribed expiation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.optative-active (√car with ā)"
+    }
+   ],
+   "question": "How long must the expiation be performed when worship is deficient for two days?",
+   "premises": [
+    "Worship may be deficient for two days.",
+    "The same expiation is applicable.",
+    "The duration of performance must match the lapse."
+   ],
+   "inference": "When worship is deficient for two days, this expiation should be performed for two days.",
+   "uncertainties": [],
+   "plain_english": "If worship is lacking for two days, one should perform this expiation for two days."
+  },
+  {
+   "verse": 2955,
+   "rows": [
+    {
+     "surface": "dināni",
+     "gloss": "days",
+     "grounds": "counted days of omission",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to days",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "hīnāni",
+     "gloss": "deficient",
+     "grounds": "days lacking worship",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pūjayā",
+     "gloss": "by-worship",
+     "grounds": "instrument of deficiency",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "nityasaṃjñayā",
+     "gloss": "called-daily",
+     "grounds": "qualifies the worship as daily",
+     "morph": "compound = nitya+member + saṃjñā+instrumental.member"
+    }
+   ],
+   "question": "Which days of omitted daily worship are counted for determining expiation?",
+   "premises": [
+    "Some days may lack worship.",
+    "The worship in question is the daily worship.",
+    "The count of deficient days determines the remedy."
+   ],
+   "inference": "The days counted are those deficient in the worship called daily.",
+   "uncertainties": [],
+   "plain_english": "The days to be counted are those on which the daily worship was omitted."
+  },
+  {
+   "verse": 2956,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound indicating one month",
+     "morph": "compound = eka+member"
+    },
+    {
+     "surface": "māsāvadhiṃ",
+     "gloss": "month-limit",
+     "grounds": "upper limit of one month",
+     "morph": "compound = māsa+member + avadhi+object.member"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "extent of the period",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsaṃprokṣaṇaṃ",
+     "gloss": "that-sprinkling",
+     "grounds": "ritual sprinkling as remedy",
+     "morph": "compound = tad+member + saṃprokṣaṇa+object.member"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription to carry out",
+     "morph": "3.sg.optative-active (√nī)"
+    }
+   ],
+   "question": "What remedy applies when daily worship is omitted for up to one month?",
+   "premises": [
+    "Daily worship may be omitted for a period up to one month.",
+    "A corrective ritual is required for such omission.",
+    "Sprinkling is prescribed as the remedy."
+   ],
+   "inference": "For omissions up to one month, one should perform the prescribed sprinkling.",
+   "uncertainties": [
+    "The exact procedure of saṃprokṣaṇa is not detailed here."
+   ],
+   "plain_english": "If daily worship is omitted for up to one month, one should perform the appropriate sprinkling rite."
+  },
+  {
+   "verse": 2957,
+   "rows": [
+    {
+     "surface": "dvārapālārcane",
+     "gloss": "door-guardian-worship",
+     "grounds": "worship of the door guardians",
+     "morph": "compound = dvārapāla+member + arcana+locative.member"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-deficient",
+     "grounds": "condition of omission",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vighnabādhā",
+     "gloss": "obstacle-affliction",
+     "grounds": "harm caused by obstacles",
+     "morph": "compound = vighna+member + bādhā+subject.member"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the audience",
+     "morph": "compound = dvija+member + uttama+vocative.member"
+    }
+   ],
+   "question": "What consequence follows from omitting the worship of the door guardians?",
+   "premises": [
+    "Worship of the door guardians may be omitted.",
+    "Door guardians protect against obstacles.",
+    "Omission removes that protective function."
+   ],
+   "inference": "When worship of the door guardians is deficient, affliction by obstacles arises.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, if the worship of the door guardians is omitted, there will be affliction by obstacles."
+  },
+  {
+   "verse": 2958,
+   "rows": [
+    {
+     "surface": "pañcaśuddhi",
+     "gloss": "five-purifications",
+     "grounds": "the fivefold purification in worship",
+     "morph": "compound = pañcan+member + śuddhi+member"
+    },
+    {
+     "surface": "vihīnā",
+     "gloss": "devoid-of",
+     "grounds": "lacking the five purifications",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvakṛtā",
+     "gloss": "as-not-done",
+     "grounds": "treated as unperformed",
+     "morph": "compound = tu+member + akṛta+predicate.member"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting status",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What is the status of worship performed without the five purifications?",
+   "premises": [
+    "Worship requires the five purifications.",
+    "A worship act may lack these purifications.",
+    "Ritual validity depends on required components."
+   ],
+   "inference": "Worship devoid of the five purifications is considered as not performed.",
+   "uncertainties": [
+    "The specific five purifications are not enumerated in this verse."
+   ],
+   "plain_english": "Worship that is devoid of the five purifications is as if it were not performed at all."
+  },
+  {
+   "verse": 2959,
+   "rows": [
+    {
+     "surface": "śivasaṃskāra",
+     "gloss": "śiva-consecration",
+     "grounds": "ritual consecration associated with Śiva",
+     "morph": "compound = śiva+member + saṃskāra+member"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-lacking",
+     "grounds": "condition of absence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "people",
+     "grounds": "those affected by the omission",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "become",
+     "grounds": "resulting condition",
+     "morph": "3.pl.optative-active (√as)"
+    },
+    {
+     "surface": "duṣṭacāriṇaḥ",
+     "gloss": "evil-conducted",
+     "grounds": "characterized by bad conduct",
+     "morph": "compound = duṣṭa+member + cārin+predicate.member"
+    }
+   ],
+   "question": "What moral consequence arises when Śiva-consecration is lacking?",
+   "premises": [
+    "Śiva-consecration may be lacking.",
+    "Consecration supports proper conduct.",
+    "Its absence affects the behavior of people."
+   ],
+   "inference": "When Śiva-consecration is lacking, people become of evil conduct.",
+   "uncertainties": [],
+   "plain_english": "When Śiva-consecration is lacking, people become of evil conduct."
+  },
+  {
+   "verse": 2960,
+   "rows": [
+    {
+     "surface": "pīḍyante",
+     "gloss": "are-afflicted",
+     "grounds": "suffering experienced by people",
+     "morph": "3.pl.present-passive (√pīḍ)"
+    },
+    {
+     "surface": "kramabhaṅge",
+     "gloss": "in-order-breaking",
+     "grounds": "disruption of proper ritual sequence",
+     "morph": "compound = krama+member + bhaṅga+locative.member"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāṅkaryaṃ",
+     "gloss": "confusion",
+     "grounds": "social or ritual mixture and disorder",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvijāyate",
+     "gloss": "on-earth-arises",
+     "grounds": "fused form indicating arising in the world",
+     "morph": "compound = bhuvi+locative.member + jāyate+verb.member (3.sg.present-middle, √jan)"
+    }
+   ],
+   "question": "What consequences arise from breaking the proper ritual order?",
+   "premises": [
+    "The proper ritual order may be broken.",
+    "Breaking order disrupts ritual integrity.",
+    "Such disruption produces affliction and disorder."
+   ],
+   "inference": "When the ritual order is broken, people are afflicted and confusion arises on earth.",
+   "uncertainties": [],
+   "plain_english": "When the proper order is broken, people are afflicted and confusion arises in the world."
+  },
+  {
+   "verse": 2961,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "fire offering for pacification",
+     "morph": "compound = śānti+member + homa+object.member"
+    },
+    {
+     "surface": "tadākṛtvā",
+     "gloss": "then-having-done",
+     "grounds": "fused form: tadā + kṛtvā, performing it then",
+     "morph": "compound = tadā+member + kṛtvā+absolutive.member (√kṛ)"
+    },
+    {
+     "surface": "yathāvat",
+     "gloss": "properly",
+     "grounds": "according to rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "the entire procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.optative-active (√car with ā)"
+    }
+   ],
+   "question": "What corrective procedure should be followed after performing a peace offering?",
+   "premises": [
+    "A peace offering is performed as a remedy.",
+    "Ritual correction requires proper procedure.",
+    "The full prescribed sequence must be completed."
+   ],
+   "inference": "After performing the peace offering, one should properly carry out the entire procedure.",
+   "uncertainties": [],
+   "plain_english": "After performing the peace offering, one should properly carry out everything as prescribed."
+  },
+  {
+   "verse": 2962,
+   "rows": [
+    {
+     "surface": "tadaṅge",
+     "gloss": "in-that-limb",
+     "grounds": "in that part of the ritual",
+     "morph": "compound = tad+member + aṅga+locative.member"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "possible result",
+     "morph": "3.sg.optative-active (√bhū)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "in-world",
+     "grounds": "in the worldly sphere",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tattaddravyavināśanam",
+     "gloss": "that-that-substance-destruction",
+     "grounds": "destruction of the corresponding materials",
+     "morph": "compound = tad+member + tad+member + dravya+member + vināśana+subject.member"
+    }
+   ],
+   "question": "What worldly consequence may result from a defect in that ritual limb?",
+   "premises": [
+    "A ritual limb may be defective.",
+    "Ritual defects can have worldly effects.",
+    "The affected materials correspond to the defective limb."
+   ],
+   "inference": "A defect in that ritual limb may result in the destruction of the corresponding substances in the world.",
+   "uncertainties": [],
+   "plain_english": "If there is a defect in that part of the ritual, the corresponding materials in the world may be destroyed."
+  },
+  {
+   "verse": 2963,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates analogy with previous case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācamanāṅge",
+     "gloss": "in-sipping-limb",
+     "grounds": "in the ritual limb of sipping water",
+     "morph": "compound = ācamana+member + aṅga+locative.member"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukharogaḥ",
+     "gloss": "mouth-disease",
+     "grounds": "disease affecting the mouth",
+     "morph": "compound = mukha+member + roga+subject.member"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future consequence",
+     "morph": "3.sg.future-active (√bhū)"
+    }
+   ],
+   "question": "What consequence follows from a defect in the sipping-water limb of worship?",
+   "premises": [
+    "The sipping-water limb may be defective.",
+    "Ritual limbs correspond to specific effects.",
+    "A defect produces a related affliction."
+   ],
+   "inference": "Likewise, a defect in the sipping-water limb will result in mouth disease.",
+   "uncertainties": [],
+   "plain_english": "Likewise, if there is a defect in the sipping-water part of the ritual, mouth disease will occur."
+  },
+  {
+   "verse": 2964,
+   "rows": [
+    {
+     "surface": "dūrvāpuṣpākṣataiḥ",
+     "gloss": "with-dūrvā-flowers-grains",
+     "grounds": "ritual items: dūrvā grass, flowers, unbroken grains",
+     "morph": "compound = dūrvā+member + puṣpa+member + akṣata+instrumental.member"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-lacking",
+     "grounds": "condition of omission",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadaṅge",
+     "gloss": "in-that-limb",
+     "grounds": "in that part of the ritual",
+     "morph": "compound = tad+member + aṅga+locative.member"
+    },
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-result",
+     "grounds": "the corresponding consequence",
+     "morph": "compound = tad+member + phala+subject.member"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certain",
+     "grounds": "inevitable outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainty attaches to the consequence of omitting dūrvā, flowers, and unbroken grains?",
+   "premises": [
+    "Dūrvā, flowers, and unbroken grains may be omitted.",
+    "Such omission affects the corresponding ritual limb.",
+    "Ritual omissions produce definite results."
+   ],
+   "inference": "When that limb lacks dūrvā, flowers, and unbroken grains, its consequence is certain.",
+   "uncertainties": [
+    "The specific consequence is implied rather than named explicitly."
+   ],
+   "plain_english": "If that part of the ritual lacks dūrvā grass, flowers, and unbroken grains, the corresponding result will certainly follow."
+  },
+  {
+   "verse": 2965,
+   "rows": [
+    {
+     "surface": "pañcagavya",
+     "gloss": "five-cow-products",
+     "grounds": "the five products of the cow",
+     "morph": "compound = pañcan+member + gavya+member"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "when-lacking",
+     "grounds": "condition of omission",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-lacking",
+     "grounds": "condition of omission",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcāmṛteṅgake",
+     "gloss": "in-five-nectar-limb",
+     "grounds": "in the limb involving the five nectars",
+     "morph": "compound = pañcāmṛta+member + aṅgaka+locative.member"
+    }
+   ],
+   "question": "What ritual deficiencies are identified regarding the five cow products and five nectars?",
+   "premises": [
+    "The five cow products may be lacking.",
+    "The five nectars limb may be lacking.",
+    "Both are components of ritual procedure."
+   ],
+   "inference": "Deficiency may occur in the use of the five cow products or in the limb involving the five nectars.",
+   "uncertainties": [
+    "The consequence of these deficiencies is continued in the next verse."
+   ],
+   "plain_english": "This refers to cases where the five cow products are lacking, or where the part involving the five nectars is lacking."
+  },
+  {
+   "verse": 2966,
+   "rows": [
+    {
+     "surface": "gandhādāne",
+     "gloss": "in-fragrance-offering",
+     "grounds": "offering of sandal and other fragrances",
+     "morph": "compound = gandha+member + ādāna+locative.member"
+    },
+    {
+     "surface": "aṅgavaikalye",
+     "gloss": "in-limb-deficiency",
+     "grounds": "defect in a ritual limb",
+     "morph": "compound = aṅga+member + vaikalya+locative.member"
+    },
+    {
+     "surface": "puṣpādāne",
+     "gloss": "in-flower-offering",
+     "grounds": "offering of flowers",
+     "morph": "compound = puṣpa+member + ādāna+locative.member"
+    },
+    {
+     "surface": "tadaṅgake",
+     "gloss": "in-that-limb",
+     "grounds": "in that corresponding ritual part",
+     "morph": "compound = tad+member + aṅgaka+locative.member"
+    }
+   ],
+   "question": "Which offering limbs are identified as subject to deficiency in this context?",
+   "premises": [
+    "Ritual offerings include fragrance and flowers.",
+    "These offerings are parts of the ritual sequence.",
+    "Deficiencies may occur in these specific limbs."
+   ],
+   "inference": "Deficiency may occur in the fragrance-offering limb or in the flower-offering limb.",
+   "uncertainties": [
+    "The specific consequences are stated in adjacent verses."
+   ],
+   "plain_english": "This refers to deficiency in the offering of fragrances or in the offering of flowers."
+  },
+  {
+   "verse": 2967,
+   "rows": [
+    {
+     "surface": "dhūpe'datte",
+     "gloss": "when-incense-not-given",
+     "grounds": "fused form indicating incense not offered",
+     "morph": "compound = dhūpa+locative.member + adatta+locative.member"
+    },
+    {
+     "surface": "tadaṅge",
+     "gloss": "in-that-limb",
+     "grounds": "in that ritual part",
+     "morph": "compound = tad+member + aṅga+locative.member"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-deficient",
+     "grounds": "condition of lack",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "possible result",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "ghora",
+     "gloss": "terrible",
+     "grounds": "qualifies the disease as severe",
+     "morph": "compound = ghora+member"
+    },
+    {
+     "surface": "rogatā",
+     "gloss": "disease-state",
+     "grounds": "state of being diseased",
+     "morph": "compound = roga+member + tā+subject.member"
+    }
+   ],
+   "question": "What consequence follows when incense is not offered or that limb is deficient?",
+   "premises": [
+    "Incense may not be offered in worship.",
+    "That ritual limb may be deficient.",
+    "Such deficiency produces harmful effects."
+   ],
+   "inference": "When incense is not given or that limb is deficient, a terrible disease state may arise.",
+   "uncertainties": [],
+   "plain_english": "If incense is not offered, or if that part of the ritual is deficient, a terrible disease may result."
+  },
+  {
+   "verse": 2968,
+   "rows": [
+    {
+     "surface": "pīḍayante",
+     "gloss": "they-afflict",
+     "grounds": "cause suffering",
+     "morph": "3.pl.present-active (√pīḍ)"
+    },
+    {
+     "surface": "sopasargāḥ",
+     "gloss": "with-complications",
+     "grounds": "calamities or afflictions accompanied by disturbances",
+     "morph": "compound = sa+member + upasarga+subject.member"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "come into being",
+     "morph": "3.pl.present-middle (√jan)"
+    },
+    {
+     "surface": "tannivāsinaḥ",
+     "gloss": "its-inhabitants",
+     "grounds": "those dwelling in that place",
+     "morph": "compound = tad+member + nivāsin+subject.member"
+    }
+   ],
+   "question": "Who suffers when ritual defects give rise to afflictions and complications?",
+   "premises": [
+    "Ritual defects produce afflictions.",
+    "Complications may arise from these defects.",
+    "The effects extend to those living in the affected place."
+   ],
+   "inference": "Afflictions and complications arise and afflict the inhabitants of that place.",
+   "uncertainties": [],
+   "plain_english": "Afflictions and complications arise and trouble the inhabitants of that place."
+  },
+  {
+   "verse": 2969,
+   "rows": [
+    {
+     "surface": "āmantraṇahavirlope",
+     "gloss": "in-invitation-oblation-omission",
+     "grounds": "omission of invitation and oblation",
+     "morph": "compound = āmantraṇa+member + havis+member + lopa+locative.member"
+    },
+    {
+     "surface": "tadaṅgānām",
+     "gloss": "of-its-limbs",
+     "grounds": "of the parts belonging to that ritual",
+     "morph": "compound = tad+member + aṅga+genitive.member"
+    },
+    {
+     "surface": "athāpivā",
+     "gloss": "or-even-also",
+     "grounds": "fused particles indicating alternatives",
+     "morph": "compound = atha+member + api+member + vā+member (indecl.)"
+    }
+   ],
+   "question": "What ritual omissions concerning invitation and oblation are being considered?",
+   "premises": [
+    "Invitation and oblation are ritual components.",
+    "These components may be omitted.",
+    "Their limbs may also be affected."
+   ],
+   "inference": "The case considered is the omission of invitation and oblation or of their limbs.",
+   "uncertainties": [
+    "The consequence is completed in the following verse."
+   ],
+   "plain_english": "This concerns the omission of the invitation and oblation, or of their related parts."
+  },
+  {
+   "verse": 2970,
+   "rows": [
+    {
+     "surface": "tāmbūlānām",
+     "gloss": "of-betel-leaves",
+     "grounds": "betel offerings",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "condition of not being present",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "in-limb",
+     "grounds": "in that ritual part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "when-deficient",
+     "grounds": "condition of lack",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktrarogatā",
+     "gloss": "mouth-disease-state",
+     "grounds": "disease affecting the mouth",
+     "morph": "compound = vaktra+member + roga+member + tā+subject.member"
+    }
+   ],
+   "question": "What consequence follows from the absence or deficiency of betel offerings?",
+   "premises": [
+    "Betel offerings may be absent or deficient.",
+    "Ritual limbs correspond to bodily effects.",
+    "A defect in this offering produces a related ailment."
+   ],
+   "inference": "In the absence or deficiency of betel offerings, a state of mouth disease arises.",
+   "uncertainties": [],
+   "plain_english": "If betel offerings are absent or deficient, mouth disease will occur."
+  },
+  {
+   "verse": 2971,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "possible result",
+     "morph": "3.sg.optative-active (√bhū)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of stated consequences",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "teacher",
+     "grounds": "ritual preceptor responsible for remedy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding the fault",
+     "morph": "absolutive (√jñā)"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "corrective ritual measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.optative-active (√car with sam-ā)"
+    }
+   ],
+   "question": "What responsibility does the teacher have upon recognizing these ritual faults and consequences?",
+   "premises": [
+    "Ritual faults produce specific consequences.",
+    "The teacher can recognize these faults.",
+    "Expiation is the prescribed remedy."
+   ],
+   "inference": "Knowing these consequences, the teacher should perform the appropriate expiation.",
+   "uncertainties": [],
+   "plain_english": "Knowing this, the teacher should perform the appropriate expiation."
+  },
+  {
+   "verse": 2972,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "fire offering for pacification",
+     "morph": "compound = śānti+member + homa+object.member"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "subsequent step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.optative-active (√kṛ)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "teacher",
+     "grounds": "ritual preceptor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "carry out the rite",
+     "morph": "3.sg.optative-active (√nī)"
+    }
+   ],
+   "question": "What alternative remedial rites may the teacher perform after recognizing the fault?",
+   "premises": [
+    "A remedial rite is required.",
+    "Peace offering and bathing are valid remedies.",
+    "The teacher is responsible for conducting them."
+   ],
+   "inference": "The teacher should then perform a peace offering or conduct a ritual bathing.",
+   "uncertainties": [],
+   "plain_english": "Then the teacher should perform a peace offering or carry out a ritual bathing."
+  },
+  {
+   "verse": 2973,
+   "rows": [
+    {
+     "surface": "kartavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "obligatory action",
+     "morph": "m.nom.sg (gerundive, √kṛ)"
+    },
+    {
+     "surface": "saṃhitāhomaḥ",
+     "gloss": "saṃhitā-offering",
+     "grounds": "fire offering using the saṃhitā",
+     "morph": "compound = saṃhitā+member + homa+subject.member"
+    },
+    {
+     "surface": "śatāghora",
+     "gloss": "hundred-aghora",
+     "grounds": "one hundred repetitions associated with aghora",
+     "morph": "compound = śata+member + aghora+member"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "mantra recitation; mantra name kept as term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative expiatory acts are prescribed as saṃhitā offering or aghora recitation?",
+   "premises": [
+    "Expiation may take different forms.",
+    "A saṃhitā fire offering is one option.",
+    "Recitation associated with aghora is another option."
+   ],
+   "inference": "One should perform a saṃhitā offering or alternatively a hundredfold aghora recitation.",
+   "uncertainties": [
+    "The exact form of the aghora recitation is not fully specified here."
+   ],
+   "plain_english": "One should perform a saṃhitā fire offering, or alternatively a hundred recitations of aghora."
+  },
+  {
+   "verse": 2974,
+   "rows": [
+    {
+     "surface": "pradatte",
+     "gloss": "when-given",
+     "grounds": "when the offering or recitation is performed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aghora",
+     "gloss": "aghora",
+     "grounds": "mantra name kept as term",
+     "morph": "compound = aghora+member"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "by means of the mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dvicatuṣṣaṭśataṃ",
+     "gloss": "two-four-six-hundred",
+     "grounds": "counts of two hundred, four hundred, six hundred in order",
+     "morph": "compound = dvi+member + catur+member + ṣaṣ+member + śata+object.member"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "according to sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what ordered counts should the aghora mantra be employed when given as expiation?",
+   "premises": [
+    "The aghora mantra may be used for expiation.",
+    "Different counts may be prescribed.",
+    "These counts are applied in sequence."
+   ],
+   "inference": "When performed with the aghora mantra, it should be done in ordered counts of two hundred, four hundred, and six hundred.",
+   "uncertainties": [
+    "The conditions determining which count applies are not stated in this verse."
+   ],
+   "plain_english": "When using the aghora mantra, it should be recited in sequence two hundred, four hundred, or six hundred times."
+  }
+ ]
+}

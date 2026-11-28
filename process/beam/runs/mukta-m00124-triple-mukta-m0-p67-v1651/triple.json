@@ -1,0 +1,929 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1651,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "past participle describing position",
+     "morph": "m.nom.sg.ppp (√sthā)"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "m.nom.sg.ppp (pra-√vac)"
+    },
+    {
+     "surface": "maṇḍūke",
+     "gloss": "in-manduka",
+     "grounds": "name of diagram/grid",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "conjunction with inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpare",
+     "gloss": "in-that-higher",
+     "grounds": "refers to diagram beyond maṇḍūka",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is Brahma located in the Maṇḍūka and higher diagrams?",
+   "premises": [
+    "Brahma is situated in the middle.",
+    "This placement is declared for the Maṇḍūka diagram.",
+    "The same placement applies to the higher diagram."
+   ],
+   "inference": "Brahma occupies the central position in both the Maṇḍūka and the subsequent higher diagram.",
+   "uncertainties": [
+    "The exact identity of tatpare is not specified in this verse."
+   ],
+   "plain_english": "Brahma is declared to be situated in the middle, in the Maṇḍūka diagram and also in the higher one."
+  },
+  {
+   "verse": 1652,
+   "rows": [
+    {
+     "surface": "īśānādiṣu",
+     "gloss": "in-ishana-etc",
+     "grounds": "compound beginning with Īśāna",
+     "morph": "m.loc.pl (īśāna+ādi)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locative of corner positions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śūlasthāḥ",
+     "gloss": "trident-placed",
+     "grounds": "compound indicating placement at trident points",
+     "morph": "m.nom.pl (śūla+stha)"
+    },
+    {
+     "surface": "padavarjitāḥ",
+     "gloss": "devoid-of-padas",
+     "grounds": "compound indicating absence of full padas",
+     "morph": "m.nom.pl (pada+varjita)"
+    }
+   ],
+   "question": "How are the corner positions beginning with Īśāna characterized in the diagram?",
+   "premises": [
+    "The corners begin with Īśāna and others.",
+    "Entities there are placed at trident points.",
+    "Those positions are devoid of full padas."
+   ],
+   "inference": "The corner positions starting with Īśāna are trident-placed and lack full padas.",
+   "uncertainties": [],
+   "plain_english": "In the corners beginning with Īśāna, the deities are placed at the trident points and are without padas."
+  },
+  {
+   "verse": 1653,
+   "rows": [
+    {
+     "surface": "pūrvāditaḥ",
+     "gloss": "from-east-onward",
+     "grounds": "ablative indicating starting direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive indicating commencement",
+     "morph": "(indecl.) (sam-ā-√rabh)"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative of cardinal directions",
+     "morph": "f.loc.pl (catur+diś)"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "arranged",
+     "grounds": "past participle indicating fixed arrangement",
+     "morph": "m.nom.pl.ppp (vi-ava-√sthā)"
+    }
+   ],
+   "question": "In which directional order are the deities arranged around the diagram?",
+   "premises": [
+    "The arrangement begins from the east.",
+    "The arrangement proceeds through the four directions.",
+    "The deities are fixed in that order."
+   ],
+   "inference": "The deities are arranged sequentially in the four directions starting from the east.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the east, they are arranged in the four directions."
+  },
+  {
+   "verse": 1654,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "name of the diagram layout",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇasūtrābhyāṃ",
+     "gloss": "by-diagonal-cords",
+     "grounds": "instrumental dual of construction lines",
+     "morph": "n.ins.du (karṇa+sūtra)"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "past participle indicating connection",
+     "morph": "n.acc.sg.ppp (√yuj)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
+    }
+   ],
+   "question": "How should the Āsana diagram be constructed using diagonal cords?",
+   "premises": [
+    "The Āsana diagram is the object of construction.",
+    "Diagonal cords are used in its layout.",
+    "The construction is prescribed as a rule."
+   ],
+   "inference": "One should arrange the Āsana diagram by joining it with diagonal cords.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the Āsana diagram joined by the diagonal cords."
+  },
+  {
+   "verse": 1655,
+   "rows": [
+    {
+     "surface": "ādityaśca",
+     "gloss": "aditya-and",
+     "grounds": "deity name with conjunction",
+     "morph": "m.nom.sg (āditya+ca)"
+    },
+    {
+     "surface": "yamaścaiva",
+     "gloss": "yama-and-indeed",
+     "grounds": "deity name with emphatic conjunction",
+     "morph": "m.nom.sg (yama+ca+eva)"
+    },
+    {
+     "surface": "karuṇaḥ",
+     "gloss": "karuna",
+     "grounds": "deity name as given in text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "soma",
+     "gloss": "soma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are assigned to the directional positions in this layout?",
+   "premises": [
+    "Āditya is named among the deities.",
+    "Yama is named among the deities.",
+    "Karuṇa and Soma are also named."
+   ],
+   "inference": "The deities Āditya, Yama, Karuṇa, and Soma are assigned in this arrangement.",
+   "uncertainties": [
+    "The form karuṇaḥ may correspond to varuṇaḥ in parallel passages."
+   ],
+   "plain_english": "Āditya, Yama, Karuṇa, and Soma are the deities."
+  },
+  {
+   "verse": 1656,
+   "rows": [
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "designation of the diagram area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatapadaṃ",
+     "gloss": "hundred-pada",
+     "grounds": "compound indicating grid size",
+     "morph": "n.nom.sg (śata+pada)"
+    },
+    {
+     "surface": "durgapurāṭṭālakabhūmiṣu",
+     "gloss": "in-fort-city-tower-grounds",
+     "grounds": "compound listing suitable sites",
+     "morph": "f.loc.pl (durga+pura+aṭṭālaka+bhūmi)"
+    }
+   ],
+   "question": "Where is the hundred-pada field diagram appropriately established?",
+   "premises": [
+    "The field consists of one hundred padas.",
+    "Suitable grounds include forts, cities, and towers.",
+    "The diagram is associated with such sites."
+   ],
+   "inference": "The hundred-pada field is established in grounds such as forts, cities, and towers.",
+   "uncertainties": [],
+   "plain_english": "The hundred-pada field is used in the grounds of forts, cities, and towers."
+  },
+  {
+   "verse": 1657,
+   "rows": [
+    {
+     "surface": "sthānīyaṃ",
+     "gloss": "to-be-established",
+     "grounds": "gerundive indicating what should be set up",
+     "morph": "n.acc.sg.gerundive (√sthā)"
+    },
+    {
+     "surface": "karṇasūtrābhyāṃ",
+     "gloss": "by-diagonal-cords",
+     "grounds": "instrumental dual of construction lines",
+     "morph": "n.ins.du (karṇa+sūtra)"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "joined",
+     "grounds": "past participle indicating connection",
+     "morph": "n.acc.sg.ppp (√yuj)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
+    }
+   ],
+   "question": "How should the local diagram be arranged with diagonal cords?",
+   "premises": [
+    "A diagram is to be established.",
+    "Diagonal cords are used in its construction.",
+    "The arrangement is prescribed."
+   ],
+   "inference": "One should arrange the established diagram joined by diagonal cords.",
+   "uncertainties": [
+    "The specific diagram name is implied from context."
+   ],
+   "plain_english": "One should arrange it, joined by the diagonal cords."
+  },
+  {
+   "verse": 1658,
+   "rows": [
+    {
+     "surface": "koṇeśādipade",
+     "gloss": "in-corner-lord-first-pada",
+     "grounds": "compound locating starting corner pada",
+     "morph": "n.loc.sg (koṇa+īśa+ādi+pada)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvīśāgnipitṛvāyavaḥ",
+     "gloss": "and-ishana-agni-pitri-vayu",
+     "grounds": "fused compound listing corner deities",
+     "morph": "m.nom.pl (tu+īśa+agni+pitṛ+vāyu)"
+    }
+   ],
+   "question": "Which deities occupy the corner-lord padas in this diagram?",
+   "premises": [
+    "The location is the corner-lord padas.",
+    "Brahma is associated with the central reference.",
+    "Īśāna, Agni, Pitṛ, and Vāyu are named for the corners."
+   ],
+   "inference": "Īśāna, Agni, Pitṛ, and Vāyu occupy the corner-lord padas.",
+   "uncertainties": [
+    "The exact syntactic role of brahmā in this compound context is compressed."
+   ],
+   "plain_english": "In the corner-lord padas are Brahma and Īśāna, Agni, Pitṛ, and Vāyu."
+  },
+  {
+   "verse": 1659,
+   "rows": [
+    {
+     "surface": "catvārastvaryamādyāstu",
+     "gloss": "four-aryaman-etc-but",
+     "grounds": "fused form listing four deities beginning with Aryaman",
+     "morph": "m.nom.pl (catvāraḥ+tu+aryaman+ādya+tu)"
+    },
+    {
+     "surface": "pūrvādidaśabhāginaḥ",
+     "gloss": "east-etc-ten-part-sharers",
+     "grounds": "compound indicating ten-part allocation from east onward",
+     "morph": "m.nom.pl (pūrva+ādi+daśa+bhāgin)"
+    }
+   ],
+   "question": "How are the four deities beginning with Aryaman distributed in the diagram?",
+   "premises": [
+    "Four deities beginning with Aryaman are identified.",
+    "Their allocation starts from the east.",
+    "They share ten parts in that arrangement."
+   ],
+   "inference": "The four deities beginning with Aryaman are allotted ten parts starting from the east.",
+   "uncertainties": [],
+   "plain_english": "The four deities beginning with Aryaman share ten parts starting from the east."
+  },
+  {
+   "verse": 1660,
+   "rows": [
+    {
+     "surface": "yathāsthānāścarakyādyāścāṣṭau",
+     "gloss": "in-proper-places-charaki-etc-and-eight",
+     "grounds": "fused compound listing eight outer deities in place",
+     "morph": "m.nom.pl (yathāsthāna+carakī+ādya+ca+aṣṭau)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-outer",
+     "grounds": "locative indicating outer region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.pl.ppp (pra-√kīrt)"
+    }
+   ],
+   "question": "Where are the eight deities beginning with Carakī proclaimed to be located?",
+   "premises": [
+    "Eight deities beginning with Carakī are named.",
+    "They are placed in their proper positions.",
+    "Their location is the outer region."
+   ],
+   "inference": "The eight deities beginning with Carakī are proclaimed to be in the outer region in their proper places.",
+   "uncertainties": [],
+   "plain_english": "The eight deities beginning with Carakī are proclaimed to be in their proper places in the outer region."
+  },
+  {
+   "verse": 1661,
+   "rows": [
+    {
+     "surface": "deśīyākhyaṃ",
+     "gloss": "called-local",
+     "grounds": "compound giving the diagram name",
+     "morph": "n.acc.sg (deśīya+ākhya)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "pada",
+     "grounds": "diagram or grid unit designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇasūtrābhyāṃ",
+     "gloss": "by-diagonal-cords",
+     "grounds": "instrumental dual of construction lines",
+     "morph": "n.ins.du (karṇa+sūtra)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
+    }
+   ],
+   "question": "How should the diagram called Deśīya be constructed?",
+   "premises": [
+    "The diagram is called Deśīya.",
+    "Diagonal cords are used in its construction.",
+    "The arrangement is prescribed."
+   ],
+   "inference": "One should arrange the Deśīya diagram using diagonal cords.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the pada called Deśīya by means of the diagonal cords."
+  },
+  {
+   "verse": 1662,
+   "rows": [
+    {
+     "surface": "ādityaśca",
+     "gloss": "aditya-and",
+     "grounds": "deity name with conjunction",
+     "morph": "m.nom.sg (āditya+ca)"
+    },
+    {
+     "surface": "yamaścaiva",
+     "gloss": "yama-and-indeed",
+     "grounds": "deity name with emphatic conjunction",
+     "morph": "m.nom.sg (yama+ca+eva)"
+    },
+    {
+     "surface": "varuṇaḥ",
+     "gloss": "varuna",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "soma",
+     "gloss": "soma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are assigned in the Deśīya arrangement?",
+   "premises": [
+    "Āditya is named among the deities.",
+    "Yama is named among the deities.",
+    "Varuṇa and Soma are also named."
+   ],
+   "inference": "The deities Āditya, Yama, Varuṇa, and Soma are assigned in this arrangement.",
+   "uncertainties": [],
+   "plain_english": "Āditya, Yama, Varuṇa, and Soma are the deities."
+  },
+  {
+   "verse": 1663,
+   "rows": [
+    {
+     "surface": "deśīyākhyapadaṃ",
+     "gloss": "local-named-pada",
+     "grounds": "compound naming the diagram",
+     "morph": "n.nom.sg (deśīya+ākhya+pada)"
+    },
+    {
+     "surface": "caidamagrahārādipūjitam",
+     "gloss": "and-this-agrahara-etc-honored",
+     "grounds": "fused compound indicating honored use in agrahāras etc.",
+     "morph": "n.nom.sg (ca+idam+agrahāra+ādi+pūjita)"
+    }
+   ],
+   "question": "For what contexts is the Deśīya-named pada considered honored?",
+   "premises": [
+    "The pada is named Deśīya.",
+    "It is described as honored.",
+    "Its honored use includes agrahāras and similar contexts."
+   ],
+   "inference": "The Deśīya-named pada is honored for use in agrahāras and similar settings.",
+   "uncertainties": [],
+   "plain_english": "This pada called Deśīya is honored in agrahāras and similar places."
+  },
+  {
+   "verse": 1664,
+   "rows": [
+    {
+     "surface": "padānyekonapañcāśanmadhye",
+     "gloss": "forty-nine-padas-in-middle",
+     "grounds": "fused compound indicating central count of padas",
+     "morph": "n.acc.pl (pada+ekonapañcāśat+madhya)"
+    },
+    {
+     "surface": "brahyādhitiṣṭhati",
+     "gloss": "brahma-occupies",
+     "grounds": "fused form of deity name and verb as given",
+     "morph": "3.sg.pres.act (brahmā+adhi-√sthā)"
+    }
+   ],
+   "question": "How many central padas does Brahma occupy in this diagram?",
+   "premises": [
+    "The central area consists of forty-nine padas.",
+    "Brahma occupies that central area.",
+    "The occupation is stated as a present condition."
+   ],
+   "inference": "Brahma occupies forty-nine padas in the middle.",
+   "uncertainties": [
+    "The surface brahyādhitiṣṭhati shows an unusual spelling as given."
+   ],
+   "plain_english": "Brahma occupies forty-nine padas in the middle."
+  },
+  {
+   "verse": 1665,
+   "rows": [
+    {
+     "surface": "koṇasthāstripadā",
+     "gloss": "corner-situated-three-pada",
+     "grounds": "fused compound describing corner allocation",
+     "morph": "m.nom.pl (koṇastha+tri+pada)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating prescribed understanding",
+     "morph": "m.nom.pl.gerundive (√jñā)"
+    },
+    {
+     "surface": "īśāgnipitṛvāyavaḥ",
+     "gloss": "ishana-agni-pitri-vayu",
+     "grounds": "compound listing corner deities",
+     "morph": "m.nom.pl (īśa+agni+pitṛ+vāyu)"
+    }
+   ],
+   "question": "What pada allocation should be known for the corner deities Īśāna, Agni, Pitṛ, and Vāyu?",
+   "premises": [
+    "Īśāna, Agni, Pitṛ, and Vāyu are located in the corners.",
+    "Their allocation is specified as three padas.",
+    "This allocation is to be known."
+   ],
+   "inference": "Īśāna, Agni, Pitṛ, and Vāyu should be known as occupying three padas in the corners.",
+   "uncertainties": [],
+   "plain_english": "Īśāna, Agni, Pitṛ, and Vāyu, situated in the corners, should be known as having three padas."
+  },
+  {
+   "verse": 1666,
+   "rows": [
+    {
+     "surface": "pūrvavaccāpavatsādyā",
+     "gloss": "as-before-and-apavatsa-etc",
+     "grounds": "fused compound indicating continuity and listing deities",
+     "morph": "m.nom.pl (pūrvavat+ca+apavatsa+ādya)"
+    },
+    {
+     "surface": "bāhyasthāḥ",
+     "gloss": "outer-situated",
+     "grounds": "compound indicating outer placement",
+     "morph": "m.nom.pl (bāhya+stha)"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.pl.ppp (pari-√kīrt)"
+    }
+   ],
+   "question": "How are the outer deities beginning with Apavatsa described in relation to the previous arrangement?",
+   "premises": [
+    "The arrangement follows the previous pattern.",
+    "The deities beginning with Apavatsa are included.",
+    "They are situated in the outer region."
+   ],
+   "inference": "The outer deities beginning with Apavatsa are proclaimed as arranged as before.",
+   "uncertainties": [],
+   "plain_english": "As before, the deities beginning with Apavatsa are proclaimed to be situated in the outer region."
+  },
+  {
+   "verse": 1667,
+   "rows": [
+    {
+     "surface": "prāk",
+     "gloss": "eastward",
+     "grounds": "directional term for east-west lines",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśodak",
+     "gloss": "fifteen-northward",
+     "grounds": "compound indicating fifteen lines northward",
+     "morph": "(indecl.) (pañcadaśa+udak)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "cords",
+     "grounds": "construction lines of the grid",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
+    }
+   ],
+   "question": "How many cords should be drawn eastward and northward in this grid?",
+   "premises": [
+    "Cords are to be arranged for the grid.",
+    "Fifteen cords are specified in one direction.",
+    "The directions indicated are eastward and northward."
+   ],
+   "inference": "One should arrange fifteen cords eastward and fifteen northward.",
+   "uncertainties": [],
+   "plain_english": "One should arrange fifteen cords eastward and fifteen northward."
+  },
+  {
+   "verse": 1668,
+   "rows": [
+    {
+     "surface": "agrahārādiyogyaṃ",
+     "gloss": "suitable-for-agrahara-etc",
+     "grounds": "compound indicating suitability for settlements",
+     "morph": "n.nom.sg (agrahāra+ādi+yogya)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative expressing suitability",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "bhadrāsanamidaṃ",
+     "gloss": "this-bhadrasana",
+     "grounds": "fused form naming the diagram",
+     "morph": "n.nom.sg (bhadrāsana+idam)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "pada",
+     "grounds": "diagram or grid designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For what purpose is the Bhadrāsana pada considered suitable?",
+   "premises": [
+    "The diagram is identified as Bhadrāsana.",
+    "It is described as suitable.",
+    "Its suitability includes agrahāras and similar contexts."
+   ],
+   "inference": "The Bhadrāsana pada is suitable for agrahāras and similar uses.",
+   "uncertainties": [],
+   "plain_english": "This Bhadrāsana pada should be suitable for agrahāras and similar purposes."
+  },
+  {
+   "verse": 1669,
+   "rows": [
+    {
+     "surface": "ekāśītipadaṃ",
+     "gloss": "eighty-one-pada",
+     "grounds": "compound indicating grid size",
+     "morph": "n.acc.sg (ekāśīti+pada)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "occupies",
+     "grounds": "verb indicating enjoyment or occupation of space",
+     "morph": "3.sg.pres.mid (√bhuj)"
+    },
+    {
+     "surface": "lokapitāmahaḥ",
+     "gloss": "world-grandfather",
+     "grounds": "epithet of Brahma",
+     "morph": "m.nom.sg (loka+pitāmaha)"
+    }
+   ],
+   "question": "How much of the central area does the world-grandfather occupy in the eighty-one-pada diagram?",
+   "premises": [
+    "The diagram consists of eighty-one padas.",
+    "The world-grandfather is Brahma.",
+    "He occupies the middle portion."
+   ],
+   "inference": "In the eighty-one-pada diagram, Brahma occupies the middle portion.",
+   "uncertainties": [
+    "The exact number of central padas occupied is not stated explicitly in this verse."
+   ],
+   "plain_english": "In the eighty-one-pada diagram, the world-grandfather occupies the middle."
+  },
+  {
+   "verse": 1670,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṃśabhāgasthāścāryamādyāḥ",
+     "gloss": "eighteen-part-situated-and-aryaman-etc",
+     "grounds": "fused compound indicating allocation and deities",
+     "morph": "m.nom.pl (aṣṭādaśa+aṃśa+bhāgastha+ca+aryaman+ādya)"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.pl.ppp (pra-√kīrt)"
+    }
+   ],
+   "question": "What share is proclaimed for the deities beginning with Aryaman in this diagram?",
+   "premises": [
+    "The deities beginning with Aryaman are named.",
+    "They are situated in allotted parts.",
+    "Their share is eighteen parts."
+   ],
+   "inference": "The deities beginning with Aryaman are proclaimed to occupy eighteen parts.",
+   "uncertainties": [],
+   "plain_english": "The deities beginning with Aryaman are proclaimed to be situated in eighteen parts."
+  },
+  {
+   "verse": 1671,
+   "rows": [
+    {
+     "surface": "prāñci",
+     "gloss": "eastward",
+     "grounds": "locative/directional form for eastward lines",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saptadaśodañci",
+     "gloss": "seventeen-northward",
+     "grounds": "compound indicating seventeen lines northward",
+     "morph": "f.loc.sg (saptadaśa+udañc)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "cords",
+     "grounds": "construction lines of the grid",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
+    }
+   ],
+   "question": "How many cords should be arranged eastward and northward in this layout?",
+   "premises": [
+    "Cords are to be arranged for the grid.",
+    "Seventeen cords are specified in one direction.",
+    "The directions indicated are eastward and northward."
+   ],
+   "inference": "One should arrange seventeen cords eastward and seventeen northward.",
+   "uncertainties": [],
+   "plain_english": "One should arrange seventeen cords eastward and seventeen northward."
+  },
+  {
+   "verse": 1672,
+   "rows": [
+    {
+     "surface": "agrahārādiyogyaṃ",
+     "gloss": "suitable-for-agrahara-etc",
+     "grounds": "compound indicating suitability for settlements",
+     "morph": "n.nom.sg (agrahāra+ādi+yogya)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing suitability",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "triyutaṃ",
+     "gloss": "three-added",
+     "grounds": "compound indicating addition of three",
+     "morph": "n.nom.sg (tri+yuta)"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "n.nom.sg.ppp (pari-√kīrt)"
+    }
+   ],
+   "question": "What suitability is proclaimed for the diagram with three added divisions?",
+   "premises": [
+    "The diagram is described as having three added divisions.",
+    "It is proclaimed in the teaching.",
+    "It is suitable for agrahāras and similar contexts."
+   ],
+   "inference": "The diagram with three added divisions is proclaimed suitable for agrahāras and similar uses.",
+   "uncertainties": [
+    "The exact referent of triyutaṃ depends on the preceding grid context."
+   ],
+   "plain_english": "It is proclaimed to be suitable for agrahāras and similar purposes, with three added."
+  },
+  {
+   "verse": 1673,
+   "rows": [
+    {
+     "surface": "ekaviṃśacchatapadaṃ",
+     "gloss": "one-hundred-twenty-one-pada",
+     "grounds": "compound indicating grid size",
+     "morph": "n.acc.sg (ekaviṃśat+śata+pada)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuṅkte",
+     "gloss": "occupies",
+     "grounds": "verb indicating enjoyment or occupation of space",
+     "morph": "3.sg.pres.mid (√bhuj)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central area",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What portion of the one-hundred-twenty-one-pada diagram does Brahma occupy?",
+   "premises": [
+    "The diagram consists of one hundred twenty-one padas.",
+    "Brahma occupies part of this diagram.",
+    "His occupation is in the middle."
+   ],
+   "inference": "Brahma occupies the middle portion of the one-hundred-twenty-one-pada diagram.",
+   "uncertainties": [
+    "The exact number of central padas occupied is not specified in this verse."
+   ],
+   "plain_english": "In the one-hundred-twenty-one-pada diagram, Brahma occupies the middle."
+  },
+  {
+   "verse": 1674,
+   "rows": [
+    {
+     "surface": "dvāviṃśadbhogino",
+     "gloss": "twenty-two-sharers",
+     "grounds": "compound indicating number of enjoying deities",
+     "morph": "m.nom.pl (dvāviṃśat+bhogin)"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "deities occupying positions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mukhasthāḥ",
+     "gloss": "face-situated",
+     "grounds": "compound indicating placement at the front or face",
+     "morph": "m.nom.pl (mukha+stha)"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.pl.ppp (pari-√kīrt)"
+    }
+   ],
+   "question": "How many deities are proclaimed to be situated at the face positions?",
+   "premises": [
+    "The deities are described as sharers.",
+    "Their number is twenty-two.",
+    "They are situated at the face positions."
+   ],
+   "inference": "Twenty-two deities are proclaimed to be situated at the face positions.",
+   "uncertainties": [
+    "The precise meaning of mukhasthāḥ in this grid context is not fully explicit."
+   ],
+   "plain_english": "Twenty-two deities are proclaimed to be situated at the face positions."
+  }
+ ]
+}

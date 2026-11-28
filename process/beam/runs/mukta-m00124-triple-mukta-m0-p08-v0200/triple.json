@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "hyātā",
+     "gloss": "called-hyata",
+     "grounds": "token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarādyo",
+     "gloss": "vowel-first",
+     "grounds": "compound svara+ādyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījādyo",
+     "gloss": "seed-first",
+     "grounds": "compound bīja+ādyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jakāraḥ",
+     "gloss": "letter-ja",
+     "grounds": "compound ja+kāraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savisargakaḥ",
+     "gloss": "with-visarga",
+     "grounds": "compound sa+visargakaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra seed begins with the letter ja accompanied by visarga?",
+   "premises": [
+    "hyātā names a mantra form",
+    "svarādyo indicates vowel-first structure",
+    "bījādyo indicates seed-first structure",
+    "jakāraḥ names letter ja",
+    "savisargakaḥ adds visarga"
+   ],
+   "inference": "The verse identifies a ja-with-visarga seed as hyātā.",
+   "uncertainties": [
+    "Exact doctrinal referent of hyātā remains undecidable from this verse alone."
+   ],
+   "plain_english": "Hyātā is the vowel-first, seed-first form whose letter is ja with visarga."
+  }
+ ]
+}

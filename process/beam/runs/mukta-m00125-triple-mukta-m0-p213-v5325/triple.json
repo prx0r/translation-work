@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p213",
+ "items": [
+  {
+   "verse": 5325,
+   "rows": [
+    {
+     "surface": "anyebhyo",
+     "gloss": "from-others",
+     "grounds": "Refers to other recipients or entities distinct from the primary one.",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "bījamādāya",
+     "gloss": "seed-having-taken",
+     "grounds": "Bīja denotes a seed-mantra; ādāya is an absolutive indicating prior action.",
+     "morph": "bīja+n. + ādāya (indecl., abs., √dā)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "Refers back to the others mentioned.",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connective particle extending the ritual action.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "Locative indicating the site of placement.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "Prescribes the ritual act of depositing the seed.",
+     "morph": "3.sg.act.opt, √vi-nyas"
+    }
+   ],
+   "question": "Where must the seed taken from others be ritually deposited?",
+   "premises": [
+    "A seed is taken from others.",
+    "The ritual action concerns those same others.",
+    "The prescribed act is placement in a specific locus."
+   ],
+   "inference": "The seed taken from others should be placed in their heart.",
+   "uncertainties": [
+    "The exact identity of 'others' (anyebhyaḥ/teṣām) depends on the broader ritual context."
+   ],
+   "plain_english": "Having taken the seed from others, one should also place it in their heart."
+  }
+ ]
+}

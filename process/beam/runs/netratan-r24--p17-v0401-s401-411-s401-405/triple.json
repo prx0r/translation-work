@@ -1,0 +1,182 @@
+{
+ "song": "net-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "nirṇītaṃ",
+     "gloss": "decided",
+     "grounds": "past participle of nir-ṇī, neuter accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caitat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun, neuter nominative/accusative singular",
+     "morph": "m.nom/acc.sg"
+    },
+    {
+     "surface": "prāgeva",
+     "gloss": "before-indeed",
+     "grounds": "adverbial compound with eva",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What has already been decided before the subsequent instruction is given?",
+   "premises": [
+    "The matter is already decided.",
+    "The decision precedes the instruction."
+   ],
+   "inference": "The verse states that the point has been settled earlier.",
+   "uncertainties": [
+    "The exact referent of 'this' is not specified in the verse."
+   ],
+   "plain_english": "This has already been decided before."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "praṇavoccāraṇānte",
+     "gloss": "after-pranava-utterance",
+     "grounds": "locative singular of compound ending in ante",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśramitavyam",
+     "gloss": "should-rest",
+     "grounds": "gerundive/passive future participle, neuter nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound meaning 'thus is the meaning'",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should one do after uttering the pranava?",
+   "premises": [
+    "After pranava utterance comes rest.",
+    "The phrase gives the intended meaning."
+   ],
+   "inference": "The instruction is to rest after uttering the pranava.",
+   "uncertainties": [
+    "The precise mode of resting is not detailed here."
+   ],
+   "plain_english": "After uttering the pranava, one should rest; that is the meaning."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ālayaṃ",
+     "gloss": "abode",
+     "grounds": "accusative singular of ālaya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action is to be performed with the abode?",
+   "premises": [
+    "One makes an abode.",
+    "The action is connected to what follows."
+   ],
+   "inference": "The verse instructs making an abode.",
+   "uncertainties": [
+    "The object or location of the abode is not specified."
+   ],
+   "plain_english": "Having made an abode, and..."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "tacchaktibṛṃhitatvāt",
+     "gloss": "by-that-shakti-augmented-ness",
+     "grounds": "ablative singular of compound tacchaktibṛṃhitatva",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktāḥ",
+     "gloss": "shaktas",
+     "grounds": "nominative plural of śākta",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tanmayāḥ",
+     "gloss": "therein-absorbed",
+     "grounds": "nominative plural compound adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound meaning 'thus is the meaning'",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are the shaktas absorbed in that?",
+   "premises": [
+    "They are augmented by that shakti.",
+    "They are indeed absorbed therein."
+   ],
+   "inference": "Because of augmentation by that shakti, the shaktas are absorbed in it.",
+   "uncertainties": [
+    "The exact referent of 'that' depends on prior context."
+   ],
+   "plain_english": "Because they are augmented by that shakti, the shaktas are indeed absorbed in it; that is the meaning."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "māntraṃ",
+     "gloss": "mantric",
+     "grounds": "neuter nominative/accusative singular adjective",
+     "morph": "m.nom/acc.sg"
+    },
+    {
+     "surface": "prameyam",
+     "gloss": "object-of-knowledge",
+     "grounds": "neuter nominative/accusative singular of prameya",
+     "morph": "m.nom/acc.sg"
+    }
+   ],
+   "question": "What mantric object of knowledge is being identified?",
+   "premises": [
+    "The object is mantric.",
+    "It is an object of knowledge."
+   ],
+   "inference": "The verse identifies a mantric object of knowledge.",
+   "uncertainties": [
+    "The specific mantric object is not named in this verse."
+   ],
+   "plain_english": "The mantric object of knowledge."
+  }
+ ]
+}

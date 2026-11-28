@@ -1,0 +1,329 @@
+{
+ "song": "mukta-m0-p414",
+ "items": [
+  {
+   "verse": 10326,
+   "rows": [
+    {
+     "surface": "gadā",
+     "gloss": "mace",
+     "grounds": "weapon held by a guardian",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "spear",
+     "grounds": "weapon held by a guardian",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "gesture or gift held by a guardian",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpaṃ",
+     "gloss": "bow",
+     "grounds": "weapon held by a guardian",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāhyeṣu",
+     "gloss": "in-outer-directions",
+     "grounds": "location of the guardians",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dikpitīn",
+     "gloss": "direction-guardians",
+     "grounds": "deities guarding the directions",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What implements are assigned to the direction guardians stationed in the outer directions?",
+   "premises": [
+    "The mace, spear, boon, and bow are named as implements.",
+    "These implements are associated with the outer directions.",
+    "The direction guardians are the recipients or bearers in that context."
+   ],
+   "inference": "The direction guardians in the outer directions are to be envisioned bearing the mace, spear, boon, and bow.",
+   "uncertainties": [
+    "The exact pairing of each implement with a specific guardian is not specified in this verse."
+   ],
+   "plain_english": "In the outer directions, the guardians of the directions hold the mace, spear, boon, and bow."
+  },
+  {
+   "verse": 10327,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "prescribed recitation action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmāni",
+     "gloss": "lotuses",
+     "grounds": "offerings for the fire rite",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "svādvaktāni",
+     "gloss": "sweet-spoken",
+     "grounds": "qualified lotuses accompanied by sweet speech",
+     "morph": "n.acc.pl compound=svādu+vakta"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire offering action",
+     "morph": "3.sg.opt.caus.act √hu"
+    }
+   ],
+   "question": "What recitation and fire offering actions are prescribed as part of this ritual procedure?",
+   "premises": [
+    "A recitation of one hundred thousand is prescribed.",
+    "Lotuses described as sweet-spoken are specified as offerings.",
+    "A fire offering action is prescribed."
+   ],
+   "inference": "The practitioner should mutter one hundred thousand times and offer lotuses with sweet speech into the fire.",
+   "uncertainties": [
+    "The exact meaning of svādvaktāni as applied to lotuses is ambiguous."
+   ],
+   "plain_english": "One should mutter one hundred thousand times and offer lotuses accompanied by sweet speech into the fire."
+  },
+  {
+   "verse": 10328,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "refers to the previously mentioned practice",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "by-another-method",
+     "grounds": "indicates an alternative procedure",
+     "morph": "m.inst.sg compound=anya+prakāra"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "the ritual procedure being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-taught",
+     "grounds": "introduces the teaching of the method",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What alternative preliminary rite is now being introduced for this practice?",
+   "premises": [
+    "The verse marks a transition with 'now'.",
+    "It refers to the same practice as before.",
+    "It states that a preliminary rite is taught by another method."
+   ],
+   "inference": "An alternative method for performing the preliminary rite of this practice is now being taught.",
+   "uncertainties": [],
+   "plain_english": "Now the preliminary rite for this is taught by another method."
+  },
+  {
+   "verse": 10329,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "proportion to be offered",
+     "morph": "m.acc.sg compound=daśa+aṃśa"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire offering action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "location of the offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puraścaraṇavān",
+     "gloss": "having-completed-preliminary-rite",
+     "grounds": "state achieved by the practitioner",
+     "morph": "m.nom.sg compound=puraścaraṇa+vat"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state of the practitioner",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What offering proportion makes the practitioner accomplished in the preliminary rite?",
+   "premises": [
+    "A tenth part is specified as the amount to offer.",
+    "The offering is to be made in fire.",
+    "Completing this makes one accomplished in the preliminary rite."
+   ],
+   "inference": "By offering a tenth part in the fire, the practitioner becomes accomplished in the preliminary rite.",
+   "uncertainties": [
+    "The base quantity of which a tenth is offered is not stated in this verse."
+   ],
+   "plain_english": "One should offer a tenth part in the fire and thereby become accomplished in the preliminary rite."
+  },
+  {
+   "verse": 10330,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of a list of prosperities",
+     "morph": "n.stem compound-member"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "second member of a list of prosperities",
+     "morph": "n.stem compound-member"
+    },
+    {
+     "surface": "dharā",
+     "gloss": "earth",
+     "grounds": "third member of a list of prosperities",
+     "morph": "f.stem compound-member"
+    },
+    {
+     "surface": "lakṣmyaḥ",
+     "gloss": "prosperities",
+     "grounds": "collective result of the rite",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "states the arising of results",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the result in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "what is negated regarding the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What material prosperities are guaranteed to arise from this preliminary rite without doubt?",
+   "premises": [
+    "Wealth, grain, and earth are listed as prosperities.",
+    "These prosperities are said to arise in this context.",
+    "The verse explicitly denies any doubt about this result."
+   ],
+   "inference": "The preliminary rite produces wealth, grain, land, and other prosperities without doubt.",
+   "uncertainties": [],
+   "plain_english": "Wealth, grain, land, and prosperities arise from this; there is no doubt."
+  },
+  {
+   "verse": 10331,
+   "rows": [
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-water-rite",
+     "grounds": "ritual context associated with Varuna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyutaḥ",
+     "gloss": "from-death",
+     "grounds": "danger from which peace is obtained",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "result of the water rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āgneye",
+     "gloss": "in-fire-rite",
+     "grounds": "ritual context associated with fire",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "condition to be subdued",
+     "morph": "m.stem compound-member"
+    },
+    {
+     "surface": "vaśyatā",
+     "gloss": "subjugation",
+     "grounds": "result of the fire rite over fever",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What specific protective results are obtained from the water rite and the fire rite respectively?",
+   "premises": [
+    "The water rite is associated with peace from death.",
+    "The fire rite is associated with subjugation of fever.",
+    "Each rite yields a distinct protective outcome."
+   ],
+   "inference": "The water rite brings peace from death, while the fire rite brings subjugation of fever.",
+   "uncertainties": [],
+   "plain_english": "In the water rite there is peace from death; in the fire rite there is subjugation of fever."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "aṣṭottara+sahasraṃ",
+     "gloss": "eight-hundred-more-thousand",
+     "grounds": "compound indicating a thousand increased by eight hundred; legacy hint gives eight-thousand-one-hundred",
+     "morph": "compound: aṣṭottara+sahasram (n.nom.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+ardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound referring to half of the previously stated quantity",
+     "morph": "compound: tad+ardham (n.nom.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad+ardhakam",
+     "gloss": "its-quarter",
+     "grounds": "compound referring to half of the preceding half, i.e. a quarter of the original quantity",
+     "morph": "compound: tad+ardhakam (n.nom.sg)"
+    }
+   ],
+   "question": "What alternative numerical measures are permitted for the prescribed recitation?",
+   "premises": [
+    "A measure of eight thousand one hundred is permitted.",
+    "Half of that measure is permitted as an alternative.",
+    "A quarter of the original measure is also permitted."
+   ],
+   "inference": "The prescribed recitation admits three graded alternative quantities.",
+   "uncertainties": [
+    "The exact numerical value of aṣṭottara+sahasraṃ is interpreted following the legacy hint as eight thousand one hundred."
+   ],
+   "plain_english": "One may recite eight thousand one hundred, or half of that, or a quarter of that."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative object of absence expressed by binā; the animating principle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "binā",
+     "gloss": "without",
+     "grounds": "indeclinable governing the preceding accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahmāṇḍaṃ",
+     "gloss": "cosmic-egg",
+     "grounds": "accusative subject of the implied state; the universe",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śavarūpavat",
+     "gloss": "like-a-corpse",
+     "grounds": "compound expressing likeness: śava (corpse) + rūpa (form) + vat (like)",
+     "morph": "indecl.compound(śava+rūpa+vat)"
+    }
+   ],
+   "question": "What condition renders the cosmic egg lifeless in the absence of power?",
+   "premises": [
+    "Power is the animating principle of existence.",
+    "The cosmic egg depends on power for vitality.",
+    "Absence of power leaves only an inert form."
+   ],
+   "inference": "Therefore, without power the cosmic egg is like a corpse.",
+   "uncertainties": [
+    "The copula is implied rather than expressed in the verse."
+   ],
+   "plain_english": "Without power, O great goddess, the universe is like a corpse."
+  }
+ ]
+}

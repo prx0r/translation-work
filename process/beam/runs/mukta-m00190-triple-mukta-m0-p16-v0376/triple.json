@@ -1,0 +1,1358 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "vairi",
+     "gloss": "enemy",
+     "grounds": "object whose vital breaths are targeted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "vital-breaths",
+     "grounds": "life forces of the enemy",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pratiṣṭhāpya",
+     "gloss": "having-established",
+     "grounds": "ritual act of fixing or placing",
+     "morph": "gerund (prati-√sthā)"
+    },
+    {
+     "surface": "yasmin",
+     "gloss": "in-which",
+     "grounds": "refers to the medium described next",
+     "morph": "m./n.loc.sg"
+    },
+    {
+     "surface": "gomaya",
+     "gloss": "cow-dung",
+     "grounds": "ritual substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāriṇi",
+     "gloss": "in-water",
+     "grounds": "liquid medium mixed with cow-dung",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What ritual placement of an enemy's vital breaths enables the hostile operation described?",
+   "premises": [
+    "The enemy's vital breaths are ritually established.",
+    "The establishment occurs in cow-dung water."
+   ],
+   "inference": "Fixing the enemy's vital breaths in cow-dung water prepares the basis for the subsequent hostile rite.",
+   "uncertainties": [],
+   "plain_english": "Having established the enemy's vital breaths in cow-dung water,"
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of visualizing or perceiving",
+     "morph": "gerund (√dṛś)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "points to the enemy's shadow",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gomaya",
+     "gloss": "cow-dung",
+     "grounds": "substance qualifying the water",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "medium where the shadow is seen",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ripu",
+     "gloss": "enemy",
+     "grounds": "possessor of the shadow",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chāyāṃ",
+     "gloss": "shadow",
+     "grounds": "reflection or image targeted in the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "state of focused attention of the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What focused perception of the enemy's shadow in cow-dung water must the practitioner achieve?",
+   "premises": [
+    "The practitioner must be concentrated.",
+    "The practitioner sees the enemy's shadow in cow-dung water."
+   ],
+   "inference": "A concentrated practitioner must perceive the enemy's shadow in the prepared cow-dung water.",
+   "uncertainties": [],
+   "plain_english": "and, being concentrated, having seen that shadow of the enemy in the cow-dung water,"
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "repeated for emphasis on each targeted part or aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "repeated for emphasis on each targeted part or aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "destruction resulting from the rite",
+     "morph": "3.sg.present.active (vi-√naś)"
+    },
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "possessor of what perishes",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saptāhāt",
+     "gloss": "within-a-week",
+     "grounds": "time limit for the effect",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty about the outcome",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What assured outcome befalls the enemy within a week after the shadow rite?",
+   "premises": [
+    "Each targeted aspect of the enemy perishes.",
+    "The destruction occurs within a week.",
+    "There is no doubt in this matter."
+   ],
+   "inference": "The enemy's targeted aspects surely perish within a week.",
+   "uncertainties": [
+    "The exact referent of the repeated 'tat tat' is not specified."
+   ],
+   "plain_english": "each and every part of the enemy perishes within a week; there is no doubt about this."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "body part affected",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rogo",
+     "gloss": "disease",
+     "grounds": "affliction produced",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential result of the act",
+     "morph": "3.sg.optative.active (√bhū)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "the targeted person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "braṇe",
+     "gloss": "in-wound",
+     "grounds": "site of application or injury",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śastreṇa",
+     "gloss": "by-weapon",
+     "grounds": "instrument causing the wound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location of the wound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What affliction may arise for the target from a weapon wound on the head?",
+   "premises": [
+    "A wound is made on the head by a weapon.",
+    "The wound belongs to the targeted person."
+   ],
+   "inference": "A head disease may arise for him from a weapon wound on the head.",
+   "uncertainties": [
+    "The connection to the preceding rite is implied but not explicit."
+   ],
+   "plain_english": "He may suffer a head disease from a wound made on the head by a weapon."
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "mandāra",
+     "gloss": "mandāra",
+     "grounds": "plant name used in the preparation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhūmam",
+     "gloss": "smoke",
+     "grounds": "substance produced from mandāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākandaṃ",
+     "gloss": "ākanda",
+     "grounds": "term of uncertain identification in this context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "authoritative statement by the wise",
+     "morph": "n.nom.sg.past-passive-participle (pra-√vac)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the described substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "toxic nature of the substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "authorities who declare it",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What substance involving mandāra smoke is declared a poison by the wise?",
+   "premises": [
+    "Mandāra smoke and ākanda are mentioned together.",
+    "The wise declare this to be poison."
+   ],
+   "inference": "The wise declare this mandāra-smoke preparation to be a poison.",
+   "uncertainties": [
+    "The meaning and referent of 'ākandaṃ' in this context is uncertain."
+   ],
+   "plain_english": "The wise have declared this mandāra smoke and ākanda to be a poison."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "vaṃśa",
+     "gloss": "bamboo",
+     "grounds": "plant name in a list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pippala",
+     "gloss": "pippala",
+     "grounds": "sacred fig tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāgau",
+     "gloss": "nāga-pair",
+     "grounds": "two nāga plants or nāga-named items",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "rauhiṇa",
+     "gloss": "rauhiṇa",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nalina",
+     "gloss": "lotus",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samudra",
+     "gloss": "samudra",
+     "grounds": "plant or substance name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sārikāḥ",
+     "gloss": "sārikā-plants",
+     "grounds": "listed items, possibly plants",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which series of named plants or substances begins the enumerated ritual list?",
+   "premises": [
+    "A sequence of names is enumerated.",
+    "The names include bamboo, pippala, nāga, rauhiṇa, nalina, samudra, and sārikā."
+   ],
+   "inference": "The text lists bamboo, pippala, two nāgas, rauhiṇa, nalina, samudra, and sārikās as items in a ritual series.",
+   "uncertainties": [
+    "The exact botanical identities and ritual roles of several items are uncertain."
+   ],
+   "plain_english": "Bamboo, pippala, the two nāgas, rauhiṇa, nalina, samudra, and sārikās—"
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "vañjula",
+     "gloss": "vañjula",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "panasa",
+     "gloss": "jackfruit",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārka",
+     "gloss": "arka",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śamī",
+     "gloss": "śamī",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kadamba",
+     "gloss": "kadamba",
+     "grounds": "plant name in the list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nimbaṃ",
+     "gloss": "nimba",
+     "grounds": "neem tree named in the list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakāśa",
+     "gloss": "shining",
+     "grounds": "qualifier, possibly of a root or substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūlañ",
+     "gloss": "root",
+     "grounds": "plant part included in the list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional plants and root complete the enumerated ritual list?",
+   "premises": [
+    "Further names continue the preceding list.",
+    "The list includes vañjula, jackfruit, arka, śamī, kadamba, nimba, and a shining root."
+   ],
+   "inference": "The enumeration continues with vañjula, jackfruit, arka, śamī, kadamba, nimba, and a shining root.",
+   "uncertainties": [
+    "The referent of 'prakāśa mūlañ' is ambiguous."
+   ],
+   "plain_english": "vañjula, jackfruit, arka, śamī, kadamba, nimba, and the shining root."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "ramā",
+     "grounds": "goddess of prosperity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "abode",
+     "grounds": "dwelling place of prosperity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "result of the rite",
+     "morph": "3.sg.optative.active (√bhū)"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-rite",
+     "grounds": "ritual procedure of recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kapi",
+     "gloss": "kapi",
+     "grounds": "substance or plant name in offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māṃsī",
+     "gloss": "māṃsī",
+     "grounds": "spikenard or related substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kusumaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "offerings used in the rite",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What ritual use of flowers in recitation makes the practitioner an abode of prosperity?",
+   "premises": [
+    "The rite involves recitation.",
+    "Flowers of kapi and māṃsī are used."
+   ],
+   "inference": "By performing recitation with kapi, māṃsī, and flowers, the practitioner becomes an abode of Ramā.",
+   "uncertainties": [
+    "The exact identification of 'kapi' in this compound is uncertain."
+   ],
+   "plain_english": "In the rite of recitation with kapi, māṃsī, and flowers, he becomes an abode of Ramā."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "sahasradhā",
+     "gloss": "a-thousandfold",
+     "grounds": "manner or number of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "introduces the mantra being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśa",
+     "gloss": "great-lord",
+     "grounds": "epithet associated with the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kukkuṭa",
+     "gloss": "rooster",
+     "grounds": "name associated with the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manu",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpakaḥ",
+     "gloss": "having-form",
+     "grounds": "characterized as the rooster-mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra, recited a thousandfold, is identified as having the form of the rooster-mantra of the great lord?",
+   "premises": [
+    "A mantra is recited a thousandfold.",
+    "It is the great-lord mantra in the form of the rooster-mantra."
+   ],
+   "inference": "The mantra recited a thousandfold is the Maheśa mantra in the form of the Kukkuṭa-mantra.",
+   "uncertainties": [],
+   "plain_english": "That great-lord mantra, which has the form of the rooster-mantra, when recited a thousandfold—"
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "rāpūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "act of worship directed to the mantra or deity; initial character may reflect sandhi in transmission",
+     "morph": "3.sg.present.passive"
+    },
+    {
+     "surface": "bahu",
+     "gloss": "many",
+     "grounds": "multiplicity of methods",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhaiḥ",
+     "gloss": "by-kinds",
+     "grounds": "various methods of worship",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsareṇa",
+     "gloss": "for-a-year",
+     "grounds": "duration of worship",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "For how long and by how many methods is the mantra worshipped to gain its effect?",
+   "premises": [
+    "The mantra is worshipped by many kinds of methods.",
+    "The worship continues for a year."
+   ],
+   "inference": "The mantra is worshipped in many ways over the course of a year.",
+   "uncertainties": [
+    "The surface 'rāpūjyate' is unusual and may reflect a transmission or sandhi issue."
+   ],
+   "plain_english": "is worshipped in many ways, even for a year,"
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "attitude of the practitioner",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "act of mantra recitation",
+     "morph": "3.sg.optative.active (pra-√jap)"
+    },
+    {
+     "surface": "upendram",
+     "gloss": "upendra",
+     "grounds": "deity invoked as comparison or object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "the result or state attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment through recitation",
+     "morph": "3.sg.present.active (pra-√āp)"
+    },
+    {
+     "surface": "vivānandayet",
+     "gloss": "and-delights",
+     "grounds": "causing delight; form uncertain in transmission",
+     "morph": "3.sg.optative.active"
+    }
+   ],
+   "question": "What attainment and delight come to one who recites the mantra with devotion like Upendra?",
+   "premises": [
+    "One recites with devotion.",
+    "The recitation is compared to Upendra."
+   ],
+   "inference": "The devoted reciter obtains that state and causes delight.",
+   "uncertainties": [
+    "The form and meaning of 'vivānandayet' are uncertain."
+   ],
+   "plain_english": "whoever should recite it with devotion like Upendra obtains that and brings delight."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "mental contemplation of the mantra",
+     "morph": "gerund (√dhyai)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "object of meditation and recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "belonging to the practitioner",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayano",
+     "gloss": "with-eyes",
+     "grounds": "possibly visual focus; form uncertain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japed",
+     "gloss": "should-recite",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.optative.active (√jap)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidviṣṭam",
+     "gloss": "hated-one",
+     "grounds": "the enemy or adversary",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākhaṇḍalavat",
+     "gloss": "like-indra",
+     "grounds": "comparison to Indra's power",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sameti",
+     "gloss": "approaches",
+     "grounds": "confronts or meets the adversary",
+     "morph": "3.sg.present.active (sam-√i)"
+    }
+   ],
+   "question": "What power against a hated adversary does one gain by meditating on and reciting one's own mantra?",
+   "premises": [
+    "One meditates on and recites one's own mantra.",
+    "One approaches a hated adversary."
+   ],
+   "inference": "By meditating on and reciting the mantra, one confronts the hated adversary like Indra.",
+   "uncertainties": [
+    "The form 'nayano' is unclear in this context."
+   ],
+   "plain_english": "Whoever, having meditated on his own mantra, should recite it and approach the hated one like Indra—"
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "prauḍhāṃ",
+     "gloss": "abundant",
+     "grounds": "great or mature prosperity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "wealth and auspicious fortune",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "greatly",
+     "grounds": "intensity of attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avāpya",
+     "gloss": "having-obtained",
+     "grounds": "attainment of prosperity",
+     "morph": "gerund (ava-√āp)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects qualities of prosperity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "jewel",
+     "grounds": "precious wealth",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūrṇām",
+     "gloss": "filled",
+     "grounds": "full of jewels",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of prosperity filled with jewels does the practitioner obtain through the mantra practice?",
+   "premises": [
+    "The practitioner obtains prosperity.",
+    "The prosperity is abundant and filled with jewels."
+   ],
+   "inference": "The practitioner obtains abundant prosperity filled with jewels.",
+   "uncertainties": [],
+   "plain_english": "having greatly obtained abundant prosperity filled with jewels,"
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "grīvaṃ",
+     "gloss": "neck",
+     "grounds": "possibly a ritual focus or object; meaning uncertain",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "mantra recitation",
+     "morph": "3.sg.optative.active (pra-√jap)"
+    },
+    {
+     "surface": "amuṣya",
+     "gloss": "of-him",
+     "grounds": "the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "house",
+     "grounds": "dwelling place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "wealth in food stores",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "grain and similar goods",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūryate",
+     "gloss": "is-filled",
+     "grounds": "resulting abundance",
+     "morph": "3.sg.present.passive (√pṛ)"
+    }
+   ],
+   "question": "What domestic abundance results for the one who performs the prescribed recitation?",
+   "premises": [
+    "One performs the prescribed recitation.",
+    "The result concerns that person's house."
+   ],
+   "inference": "His house becomes filled with grain and other goods.",
+   "uncertainties": [
+    "The role of 'grīvaṃ' in this verse is unclear."
+   ],
+   "plain_english": "whoever should recite—his house is filled with grain and other things."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "of-worshippers",
+     "grounds": "those who practice devotion",
+     "morph": "m.gen.pl.present-participle (√bhaj)"
+    },
+    {
+     "surface": "vaśīkaraṇam",
+     "gloss": "subjugation",
+     "grounds": "power to bring others under control",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atīva",
+     "gloss": "very",
+     "grounds": "intensifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "delight",
+     "grounds": "pleasure or prosperity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karam",
+     "gloss": "producing",
+     "grounds": "causing delight",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What power of subjugation and delight does the practice confer upon worshippers?",
+   "premises": [
+    "The practice concerns worshippers.",
+    "It produces subjugation and delight."
+   ],
+   "inference": "The practice grants worshippers a power of subjugation that produces great delight.",
+   "uncertainties": [],
+   "plain_english": "It brings subjugation of worshippers and produces great delight."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "naram",
+     "gloss": "man",
+     "grounds": "the practitioner or beneficiary",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "speed of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣita",
+     "gloss": "protected",
+     "grounds": "state of being guarded",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhūḥ",
+     "gloss": "burden",
+     "grounds": "responsibility or charge; form uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japānvitam",
+     "gloss": "endowed-with-recitation",
+     "grounds": "one who possesses mantra recitation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How does mantra recitation quickly place a man under a protected condition?",
+   "premises": [
+    "A man is endowed with recitation.",
+    "Protection is quickly established."
+   ],
+   "inference": "A man endowed with recitation quickly comes under a protected charge.",
+   "uncertainties": [
+    "The compound 'rakṣita dhūḥ' is syntactically and semantically unclear."
+   ],
+   "plain_english": "It quickly makes the man endowed with recitation one whose burden is protected."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "that same person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kukkuṭa",
+     "gloss": "rooster",
+     "grounds": "comparison for vigor or cry",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "haṃsavat",
+     "gloss": "like-swan",
+     "grounds": "comparison for movement or excellence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuddheṣu",
+     "gloss": "in-battles",
+     "grounds": "contexts of combat",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "codjeṣyati",
+     "gloss": "will-urge",
+     "grounds": "future act of inciting or driving; form uncertain",
+     "morph": "3.sg.future.active"
+    }
+   ],
+   "question": "How will the empowered practitioner act in battles like a rooster and a swan?",
+   "premises": [
+    "The practitioner is empowered by the rite.",
+    "The context is battles."
+   ],
+   "inference": "He will urge or drive forward in battles like a rooster and a swan.",
+   "uncertainties": [
+    "The verbal form 'codjeṣyati' is nonstandard and its exact meaning is uncertain."
+   ],
+   "plain_english": "He, like a rooster and like a swan, will urge on in battles."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "jeṣyati",
+     "gloss": "will-conquer",
+     "grounds": "victory in battle",
+     "morph": "3.sg.future.active (√ji)"
+    },
+    {
+     "surface": "sapadi",
+     "gloss": "immediately",
+     "grounds": "speed of victory",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "combat setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "the enemies",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "accompaniment; likely part of compound or sandhi context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhaṭaiḥ",
+     "gloss": "with-warriors",
+     "grounds": "enemy soldiers",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "caraṇa",
+     "gloss": "foot",
+     "grounds": "infantry or foot-based forces",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āyudhaiḥ",
+     "gloss": "with-weapons",
+     "grounds": "armed forces",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What immediate victory over armed enemies does the practitioner achieve in battle?",
+   "premises": [
+    "The practitioner engages enemies in battle.",
+    "The enemies include warriors and foot soldiers with weapons."
+   ],
+   "inference": "He will immediately conquer them in battle together with their warriors and foot soldiers bearing weapons.",
+   "uncertainties": [
+    "The token 'sa' is ambiguous and may belong to a compound with 'bhaṭaiḥ'."
+   ],
+   "plain_english": "He will immediately conquer them in battle, along with their warriors and foot soldiers bearing weapons."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "acireṇa",
+     "gloss": "in-no-long-time",
+     "grounds": "soon",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavane",
+     "gloss": "in-house",
+     "grounds": "dwelling place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhajate",
+     "gloss": "resorts",
+     "grounds": "takes up residence",
+     "morph": "3.sg.present.middle (√bhaj)"
+    },
+    {
+     "surface": "vasatiṃ",
+     "gloss": "dwelling",
+     "grounds": "act of residing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "kamalā",
+     "grounds": "lotus goddess of prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vimalā",
+     "gloss": "spotless",
+     "grounds": "pure and unblemished",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What auspicious presence of the spotless lotus goddess soon takes residence in the practitioner's house?",
+   "premises": [
+    "The result occurs in no long time.",
+    "The location is the practitioner's house."
+   ],
+   "inference": "The spotless Kamalā soon takes up dwelling in his house.",
+   "uncertainties": [],
+   "plain_english": "In no long time, the spotless Kamalā takes up residence in his house."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "praṇata",
+     "gloss": "bowed",
+     "grounds": "humble and reverent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sujana",
+     "gloss": "good-people",
+     "grounds": "virtuous persons",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "guarding or safeguarding",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avikṣatānāṃ",
+     "gloss": "of-unharmed",
+     "grounds": "those who remain uninjured",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svapakṣaḥ",
+     "gloss": "own-side",
+     "grounds": "one's own party or faction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whose own side remains unharmed through the protection of bowed good people?",
+   "premises": [
+    "Good people are bowed and protective.",
+    "Protection keeps them unharmed."
+   ],
+   "inference": "His own side consists of unharmed people protected by bowed good persons.",
+   "uncertainties": [
+    "The syntactic role of 'svapakṣaḥ' as subject or predicate is somewhat compressed."
+   ],
+   "plain_english": "His own side is the protection of bowed good people, who remain unharmed."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "sura",
+     "gloss": "god",
+     "grounds": "divine beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vara",
+     "gloss": "best",
+     "grounds": "excellent among gods",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nara",
+     "gloss": "men",
+     "grounds": "human males",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "and-women",
+     "grounds": "human females",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rañjana",
+     "gloss": "delighting",
+     "grounds": "pleasing or captivating",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākṛṣṭi",
+     "gloss": "attraction",
+     "grounds": "drawing others toward oneself",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dakṣaḥ",
+     "gloss": "skilled",
+     "grounds": "adept in attraction and delighting",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What skill in attracting and delighting gods, men, and women does the practitioner gain?",
+   "premises": [
+    "The practitioner gains a skill.",
+    "The skill involves delighting and attracting gods, men, and women."
+   ],
+   "inference": "He becomes skilled in delighting and attracting the best of gods, men, and women.",
+   "uncertainties": [],
+   "plain_english": "He becomes skilled in delighting and attracting the best of gods, men, and women."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "vāṃ",
+     "gloss": "vāṃ",
+     "grounds": "bīja syllable; transliterated, not translated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "śakti",
+     "grounds": "bīja syllable or power term; kept as mantra element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantra elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence in mantra construction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṃ",
+     "gloss": "puṃ",
+     "grounds": "bīja syllable; transliterated, not translated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kolī",
+     "gloss": "kolī",
+     "grounds": "mantra term or syllable; kept as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yugalaṃ",
+     "gloss": "pair",
+     "grounds": "two elements together",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vigalaṃ",
+     "gloss": "vigalaṃ",
+     "grounds": "mantra term; meaning uncertain",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sequence of mantra elements begins the construction of the rooster mantra?",
+   "premises": [
+    "The verse lists mantra elements in order.",
+    "The elements include vāṃ, śaktiḥ, puṃ, kolī, a pair, and vigalaṃ."
+   ],
+   "inference": "The rooster mantra is constructed beginning with the sequence vāṃ, śaktiḥ, then puṃ, kolī, the pair, and vigalaṃ.",
+   "uncertainties": [
+    "The precise technical meanings of 'kolī' and 'vigalaṃ' in this mantra context are uncertain."
+   ],
+   "plain_english": "Vāṃ, śakti, and then puṃ, kolī, the pair, vigalaṃ, then—"
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "krodhaṃ",
+     "gloss": "krodha",
+     "grounds": "mantra syllable or name, often associated with wrathful bīja; kept as mantra element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the assembled formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "should-extract",
+     "grounds": "ritual act of drawing out or uttering the mantra",
+     "morph": "3.sg.optative.active (ud-√dhṛ)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kukkuṭasya",
+     "gloss": "of-rooster",
+     "grounds": "identifies the mantra as belonging to the rooster",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "manoramam",
+     "gloss": "delightful",
+     "grounds": "pleasing or captivating quality of the mantra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should one extract the delightful mantra of the rooster after assembling its elements?",
+   "premises": [
+    "The mantra elements have been given in sequence.",
+    "The element krodha is included and the mantra belongs to the rooster."
+   ],
+   "inference": "One should extract that delightful mantra of the rooster, including krodha.",
+   "uncertainties": [],
+   "plain_english": "then one should extract krodha; that is the delightful mantra of the rooster."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "desire to receive teaching",
+     "morph": "infinitive (√śru)"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-desire",
+     "grounds": "speaker's request",
+     "morph": "1.sg.present.active (√iṣ)"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "female deity who is the subject of inquiry",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "ucchiṣṭa",
+     "grounds": "technical epithet of the goddess; kept as name element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūrvikām",
+     "gloss": "preceded-by",
+     "grounds": "qualified by the term ucchiṣṭa",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess preceded by the epithet ucchiṣṭa does the speaker now desire to hear about?",
+   "premises": [
+    "The speaker expresses a desire to hear.",
+    "The subject is a goddess qualified by ucchiṣṭa."
+   ],
+   "inference": "The speaker now wishes to hear about the goddess preceded by the epithet Ucchiṣṭa.",
+   "uncertainties": [
+    "The exact doctrinal sense of 'ucchiṣṭa pūrvikām' depends on broader context."
+   ],
+   "plain_english": "Now I desire to hear about the goddess preceded by Ucchiṣṭa."
+  }
+ ]
+}

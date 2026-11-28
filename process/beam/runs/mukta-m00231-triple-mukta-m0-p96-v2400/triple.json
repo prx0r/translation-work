@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "kuśaśayyāṃ",
+     "gloss": "kuśa-bed",
+     "grounds": "kuśa grass bed in accusative singular feminine; object of placement",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paristīrya",
+     "gloss": "having-spread",
+     "grounds": "absolutive of paristṛ; spreading around",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative causative of sthā; directive to place",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "śavam",
+     "gloss": "corpse",
+     "grounds": "corpse in accusative singular masculine; object to be placed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Should the corpse be placed on a spread kuśa bed at that place?",
+   "premises": [
+    "kuśa bed is spread there",
+    "corpse is to be placed",
+    "placement follows the rite"
+   ],
+   "inference": "The rite directs placing the corpse on the spread kuśa bed.",
+   "uncertainties": [
+    "exact ritual context beyond this verse is not stated"
+   ],
+   "plain_english": "Having spread a kuśa bed there, one should place the corpse on it."
+  }
+ ]
+}

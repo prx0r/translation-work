@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p374",
+ "items": [
+  {
+   "verse": 9350,
+   "rows": [
+    {
+     "surface": "kṛṣṇāmbareṇa",
+     "gloss": "with-black-garment",
+     "grounds": "instrumental compound kṛṣṇa+ambara indicating wrapping material; internal sandhi in fused form",
+     "morph": "compound: kṛṣṇa+ambara; n.ins.sg"
+    },
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "absolutive expressing prior action of enclosing",
+     "morph": "gerund; sam-√veṣṭ"
+    },
+    {
+     "surface": "nibaddhaṃ",
+     "gloss": "bound",
+     "grounds": "past passive participle describing the state of the wrapped object",
+     "morph": "ppp; ni-√bandh; n.acc.sg"
+    },
+    {
+     "surface": "raktatantubhiḥ",
+     "gloss": "with-red-threads",
+     "grounds": "instrumental compound rakta+tantu indicating binding material",
+     "morph": "compound: rakta+tantu; m.ins.pl"
+    }
+   ],
+   "question": "What materials are used to wrap and bind the prepared object?",
+   "premises": [
+    "A black garment is used as the wrapping material.",
+    "The wrapped object is secured in a bound state.",
+    "Red threads serve as the binding material."
+   ],
+   "inference": "The prepared object is wrapped in black cloth and fastened with red threads.",
+   "uncertainties": [
+    "The specific object being wrapped is supplied by the preceding context."
+   ],
+   "plain_english": "Having wrapped it with a black cloth, bound with red threads."
+  }
+ ]
+}

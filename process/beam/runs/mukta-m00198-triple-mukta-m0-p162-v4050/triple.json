@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4050,
+   "rows": [
+    {
+     "surface": "dvitala",
+     "gloss": "two-storey",
+     "grounds": "compound indicating a structure of two levels",
+     "morph": "compound"
+    },
+    {
+     "surface": "tritalāntaṃ",
+     "gloss": "up-to-three-storey",
+     "grounds": "compound of tritala and anta with accusative ending, indicating a limit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍasyotsedhamucyate",
+     "gloss": "of-staff-height-is-stated",
+     "grounds": "fused form of daṇḍasya, utsedham, and ucyate; states the prescribed height of the staff",
+     "morph": "daṇḍasya=m.gen.sg; utsedham=m.acc.sg; ucyate=3.sg.passive-present/vac"
+    }
+   ],
+   "question": "What range of structural height is prescribed for the staff in this ritual context?",
+   "premises": [
+    "A two-storey measure is given as one option.",
+    "A limit extending up to three storeys is given as an alternative.",
+    "The stated measure applies to the height of the staff."
+   ],
+   "inference": "The prescribed height of the staff may range from two storeys up to three storeys.",
+   "uncertainties": [
+    "The exact reference unit for 'storey' in this architectural context is not specified in the verse."
+   ],
+   "plain_english": "The height of the staff is stated to be either two storeys or up to three storeys."
+  }
+ ]
+}

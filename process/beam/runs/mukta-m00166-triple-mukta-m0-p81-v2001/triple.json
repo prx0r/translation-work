@@ -1,0 +1,1165 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2001,
+   "rows": [
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member indicating element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthā",
+     "gloss": "standing",
+     "grounds": "second member indicating abiding",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jalasthā",
+     "gloss": "water-abiding",
+     "grounds": "compound describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "goddess",
+     "grounds": "deity identified as water-abiding",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identity is attributed to the water-abiding goddess?",
+   "premises": [
+    "The goddess is described as water-abiding.",
+    "She is explicitly identified as a goddess."
+   ],
+   "inference": "The water-abiding presence is a goddess.",
+   "uncertainties": [],
+   "plain_english": "She, the water-abiding one, is the goddess."
+  },
+  {
+   "verse": 2002,
+   "rows": [
+    {
+     "surface": "sadā+sannidheḥ",
+     "gloss": "from-ever-presence",
+     "grounds": "compound indicating constant nearness",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ko'pi",
+     "gloss": "some",
+     "grounds": "indefinite indicating an unspecified state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anubhāvaḥ",
+     "gloss": "experience",
+     "grounds": "experiential state or felt presence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    }
+   ],
+   "question": "What arises from the ever-presence of the water-abiding goddess?",
+   "premises": [
+    "There is an ever-presence.",
+    "Some experiential state exists because of it."
+   ],
+   "inference": "The goddess's constant presence produces a felt experience.",
+   "uncertainties": [
+    "bhāva anubhāvaḥ may be read as a compound or as two related terms"
+   ],
+   "plain_english": "Because of her ever-presence, there is some experiential state."
+  },
+  {
+   "verse": 2003,
+   "rows": [
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "goddess",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "divyā",
+     "gloss": "divine",
+     "grounds": "qualifies the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "identifies her as deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What divine status is affirmed for the water-goddess?",
+   "premises": [
+    "She is the water-goddess.",
+    "She is described as divine."
+   ],
+   "inference": "The water-goddess is a divine deity.",
+   "uncertainties": [],
+   "plain_english": "She, the water-goddess, is the divine goddess."
+  },
+  {
+   "verse": 2004,
+   "rows": [
+    {
+     "surface": "kamalaṃ",
+     "gloss": "lotus",
+     "grounds": "object identified as offering or sign",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to lotus",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jala+devatā",
+     "gloss": "water-goddess",
+     "grounds": "compound naming the deity",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prasādaḥ",
+     "gloss": "grace",
+     "grounds": "favor or blessing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    },
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "offering or bestowed gift",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the lotus in relation to the water-goddess's grace?",
+   "premises": [
+    "That lotus belongs to the water-goddess.",
+    "It is her grace and a gift."
+   ],
+   "inference": "The lotus is the water-goddess's gracious gift.",
+   "uncertainties": [
+    "prasādaḥ and dānam may be appositional or distinct predicates"
+   ],
+   "plain_english": "That lotus is the grace of the water-goddess and her gift."
+  },
+  {
+   "verse": 2005,
+   "rows": [
+    {
+     "surface": "kuru+kṣetra",
+     "gloss": "kuru-field",
+     "grounds": "name of sacred region",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avaniḥ",
+     "gloss": "land",
+     "grounds": "earth or territory",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "sacred",
+     "grounds": "holy or meritorious",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūmiḥ",
+     "gloss": "earth",
+     "grounds": "ground or place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    }
+   ],
+   "question": "What sacred character is attributed to the land of Kurukṣetra?",
+   "premises": [
+    "Kurukṣetra is a land.",
+    "It is described as sacred earth."
+   ],
+   "inference": "The land of Kurukṣetra is a sacred place.",
+   "uncertainties": [],
+   "plain_english": "The land of Kurukṣetra is a sacred earth."
+  },
+  {
+   "verse": 2006,
+   "rows": [
+    {
+     "surface": "kauravāṇāṃ",
+     "gloss": "of-kauravas",
+     "grounds": "associated with the Kauravas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kuru+kṣetra",
+     "gloss": "kuru-field",
+     "grounds": "name of sacred region",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avaniḥ",
+     "gloss": "land",
+     "grounds": "earth or territory",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "avatād",
+     "gloss": "may-protect",
+     "grounds": "invocation for protection",
+     "morph": "3.sg.imperative-act √av"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "source of danger",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What protective power is sought from the land of Kurukṣetra?",
+   "premises": [
+    "Kurukṣetra is the land of the Kauravas.",
+    "The speaker asks it to protect from fear."
+   ],
+   "inference": "The sacred land of Kurukṣetra is invoked for protection from fear.",
+   "uncertainties": [],
+   "plain_english": "May the land of Kurukṣetra, of the Kauravas, protect me from fear."
+  },
+  {
+   "verse": 2007,
+   "rows": [
+    {
+     "surface": "kāśī",
+     "gloss": "kashi",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakāśā",
+     "gloss": "luminous",
+     "grounds": "shining or radiant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "sacred",
+     "grounds": "holy or meritorious",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities define the sacred city of Kāśī?",
+   "premises": [
+    "Kāśī is a city.",
+    "It is luminous and sacred."
+   ],
+   "inference": "Kāśī is a luminous and sacred city.",
+   "uncertainties": [],
+   "plain_english": "Kāśī is a luminous, sacred city."
+  },
+  {
+   "verse": 2008,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to Kāśī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāśī",
+     "gloss": "kashi",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikāśate",
+     "gloss": "shines-forth",
+     "grounds": "radiates or manifests",
+     "morph": "3.sg.pres-middle √kāś"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of heart-sky",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākāśe",
+     "gloss": "in-sky",
+     "grounds": "inner space of the heart",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhidā",
+     "gloss": "undivided",
+     "grounds": "without division or break",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where and how does the city of Kāśī shine within the speaker?",
+   "premises": [
+    "Kāśī shines forth in the sky of my heart.",
+    "It shines always and undivided."
+   ],
+   "inference": "Kāśī is inwardly present as an undivided radiance in the heart.",
+   "uncertainties": [
+    "nirbhidā may qualify Kāśī or the manner of shining"
+   ],
+   "plain_english": "That Kāśī shines forth always, undivided, in the sky of my heart."
+  },
+  {
+   "verse": 2009,
+   "rows": [
+    {
+     "surface": "mathurā",
+     "gloss": "mathura",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "sacred",
+     "grounds": "holy or meritorious",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred status is attributed to the city of Mathurā?",
+   "premises": [
+    "Mathurā is a city.",
+    "It is a sacred place."
+   ],
+   "inference": "Mathurā is a sacred city and place.",
+   "uncertainties": [],
+   "plain_english": "Mathurā is a sacred city and place."
+  },
+  {
+   "verse": 2010,
+   "rows": [
+    {
+     "surface": "sthiraṃ",
+     "gloss": "firm",
+     "grounds": "stable or steady",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasa",
+     "gloss": "essence",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "splendor",
+     "grounds": "radiant essence or beauty",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mathurā",
+     "gloss": "mathura",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "some",
+     "grounds": "indefinite, ineffable quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ineffable splendor is claimed to be Mathurā itself?",
+   "premises": [
+    "Mathurā is some firm splendor of essence.",
+    "This identity is affirmed emphatically."
+   ],
+   "inference": "Mathurā is an ineffable, firm essence-splendor.",
+   "uncertainties": [
+    "rasa śrīḥ may be read as a compound or closely linked terms"
+   ],
+   "plain_english": "Mathurā is indeed some firm splendor of essence."
+  },
+  {
+   "verse": 2011,
+   "rows": [
+    {
+     "surface": "kāñcī",
+     "gloss": "kanchi",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "sacred",
+     "grounds": "holy or meritorious",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred status is attributed to the city of Kāñcī?",
+   "premises": [
+    "Kāñcī is a city.",
+    "It is a sacred place."
+   ],
+   "inference": "Kāñcī is a sacred city and place.",
+   "uncertainties": [],
+   "plain_english": "Kāñcī is a sacred city and place."
+  },
+  {
+   "verse": 2012,
+   "rows": [
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which",
+     "grounds": "relative referring to Kāñcī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kāñcana",
+     "gloss": "golden",
+     "grounds": "golden quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāñcana+adri",
+     "gloss": "golden-mountain",
+     "grounds": "compound evoking golden mountain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viṣayāṃ",
+     "gloss": "pertaining-to",
+     "grounds": "relating to that domain",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāñcī",
+     "gloss": "kanchi",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dadātu",
+     "gloss": "may-give",
+     "grounds": "invocation for bestowal",
+     "morph": "3.sg.imperative-act √dā"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "splendor or auspicious wealth",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What prosperity is Kāñcī invoked to bestow through its golden domain?",
+   "premises": [
+    "Kāñcī is associated with a golden, mountain-like domain.",
+    "Kāñcī is asked to give prosperity."
+   ],
+   "inference": "Kāñcī is invoked to bestow prosperity through its golden nature.",
+   "uncertainties": [
+    "kāñcana kāñcana+adri viṣayāṃ is syntactically compressed"
+   ],
+   "plain_english": "May Kāñcī, in which there is a golden domain like a golden mountain, grant prosperity."
+  },
+  {
+   "verse": 2013,
+   "rows": [
+    {
+     "surface": "p.",
+     "gloss": "page",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "244",
+     "gloss": "244",
+     "grounds": "page number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avantikā",
+     "gloss": "avantika",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sacred city is introduced at this point in the text?",
+   "premises": [
+    "The text marks page 244.",
+    "Avantikā is named as a city."
+   ],
+   "inference": "The passage introduces the city of Avantikā.",
+   "uncertainties": [],
+   "plain_english": "Page 244: Avantikā, the city."
+  },
+  {
+   "verse": 2014,
+   "rows": [
+    {
+     "surface": "kā",
+     "gloss": "which",
+     "grounds": "interrogative-relative opener",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūr",
+     "gloss": "city",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāskara",
+     "gloss": "sun",
+     "grounds": "solar element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yāna",
+     "gloss": "path",
+     "grounds": "course or movement in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "central position in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viṣayā",
+     "gloss": "situated",
+     "grounds": "located in that domain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃrājate",
+     "gloss": "shines-forth",
+     "grounds": "radiates majestically",
+     "morph": "3.sg.pres-middle √rāj"
+    },
+    {
+     "surface": "avantikā",
+     "gloss": "avantika",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic positioning makes Avantikā shine forth so prominently?",
+   "premises": [
+    "Avantikā is situated in the middle of the sun's path.",
+    "It shines forth majestically."
+   ],
+   "inference": "Avantikā's central solar position accounts for its radiant prominence.",
+   "uncertainties": [
+    "compound analysis of pūr bhāskara yāna madhya viṣayā is interpretive"
+   ],
+   "plain_english": "Which city, situated in the middle of the sun's path, shines forth as Avantikā?"
+  },
+  {
+   "verse": 2015,
+   "rows": [
+    {
+     "surface": "ayodhyā",
+     "gloss": "ayodhya",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ayodhyā",
+     "gloss": "unconquerable",
+     "grounds": "etymological quality of the name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What meaning is affirmed in the name of the city Ayodhyā?",
+   "premises": [
+    "Ayodhyā is a city.",
+    "It is an unconquerable place."
+   ],
+   "inference": "Ayodhyā is identified as an unconquerable sacred place.",
+   "uncertainties": [],
+   "plain_english": "Ayodhyā is the city, the unconquerable place."
+  },
+  {
+   "verse": 2016,
+   "rows": [
+    {
+     "surface": "ryodhyā",
+     "gloss": "ayodhya",
+     "grounds": "name of city, possibly truncated in transmission",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "inhabitants or devotees",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to Ayodhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence",
+     "morph": "3.sg.pres-act √as"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāpi",
+     "gloss": "some",
+     "grounds": "indefinite, ineffable quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ayodhyā",
+     "gloss": "ayodhya",
+     "grounds": "name and unconquerable quality",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ineffable identity is claimed for Ayodhyā among its people?",
+   "premises": [
+    "Ayodhyā is associated with its people.",
+    "She is affirmed as some ineffable Ayodhyā."
+   ],
+   "inference": "Ayodhyā possesses an ineffable, unconquerable identity.",
+   "uncertainties": [
+    "ryodhyā appears truncated; relation to janāḥ is unclear"
+   ],
+   "plain_english": "For the people, she is indeed some ineffable Ayodhyā."
+  },
+  {
+   "verse": 2017,
+   "rows": [
+    {
+     "surface": "dvārakā",
+     "gloss": "dvaraka",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "purī",
+     "gloss": "city",
+     "grounds": "urban sacred place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvārakā",
+     "gloss": "many-gated",
+     "grounds": "etymological quality of the name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "sacred site",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What meaning is affirmed in the name of the city Dvārakā?",
+   "premises": [
+    "Dvārakā is a city.",
+    "It is a many-gated place."
+   ],
+   "inference": "Dvārakā is identified as a many-gated sacred place.",
+   "uncertainties": [],
+   "plain_english": "Dvārakā is the city, the many-gated place."
+  },
+  {
+   "verse": 2018,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative referring to Dvārakā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭā",
+     "gloss": "seen",
+     "grounds": "perceived outwardly",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "alternative or inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptā",
+     "gloss": "hidden",
+     "grounds": "concealed from view",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.pres-act √bhū"
+    },
+    {
+     "surface": "manasaḥ",
+     "gloss": "of-mind",
+     "grounds": "source of vibration",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "spandanād",
+     "gloss": "from-vibration",
+     "grounds": "subtle movement of mind",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvārakā",
+     "gloss": "dvaraka",
+     "grounds": "name of sacred city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to Dvārakā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does Dvārakā appear or disappear through the vibration of mind?",
+   "premises": [
+    "Dvārakā may be seen or become as if hidden.",
+    "This change arises from the vibration of the mind."
+   ],
+   "inference": "Dvārakā's visibility depends on the mind's vibration.",
+   "uncertainties": [],
+   "plain_english": "That Dvārakā, whether seen or as if hidden, becomes so from the vibration of the mind."
+  },
+  {
+   "verse": 2019,
+   "rows": [
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "name or principle invoked",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "illusion",
+     "grounds": "power of manifestation or veiling",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "dynamic capacity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "divyā",
+     "gloss": "divine",
+     "grounds": "transcendent or luminous",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What nature is attributed to Māyā as a divine power?",
+   "premises": [
+    "Māyā is named.",
+    "She is described as divine power."
+   ],
+   "inference": "Māyā is a divine power.",
+   "uncertainties": [
+    "repetition of māyā may be emphatic or name-plus-definition"
+   ],
+   "plain_english": "Māyā is illusion, the divine power."
+  },
+  {
+   "verse": 2020,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "leaving behind",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "come to be",
+     "morph": "3.pl.pres-act √bhū"
+    },
+    {
+     "surface": "sad",
+     "gloss": "true",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bodhāḥ",
+     "gloss": "awakened",
+     "grounds": "those of true awareness",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "vishnu",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "middle member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśvarāḥ",
+     "gloss": "lords",
+     "grounds": "masters over Viṣṇu's Māyā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "themselves",
+     "grounds": "by their own nature",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What transformation occurs when beings abandon Māyā and attain true awareness?",
+   "premises": [
+    "Having abandoned Māyā, beings become truly awakened.",
+    "They become lords over Viṣṇu's Māyā themselves."
+   ],
+   "inference": "Transcending Māyā yields true awakening and mastery over it.",
+   "uncertainties": [
+    "compound viṣṇu māyā īśvarāḥ may mean lords of Viṣṇu's Māyā or lords like Viṣṇu over Māyā"
+   ],
+   "plain_english": "Having abandoned it, they become truly awakened and themselves lords over Viṣṇu's Māyā."
+  },
+  {
+   "verse": 2021,
+   "rows": [
+    {
+     "surface": "tīrthā",
+     "gloss": "holy-places",
+     "grounds": "sacred fords or sites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "sacred-fords",
+     "grounds": "pilgrimage crossings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tīrthāḥ",
+     "gloss": "pilgrimage-sites",
+     "grounds": "holy places",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sthānāni",
+     "gloss": "places",
+     "grounds": "locations or sites",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What range of sacred sites is being enumerated as tīrthas?",
+   "premises": [
+    "Various forms of tīrthas are named.",
+    "They are identified as places."
+   ],
+   "inference": "Tīrthas encompass multiple kinds of sacred places.",
+   "uncertainties": [
+    "grammatical variation among tīrthā/tīrthāni/tīrthāḥ may be stylistic"
+   ],
+   "plain_english": "Holy places, sacred fords, pilgrimage sites — all are places."
+  },
+  {
+   "verse": 2022,
+   "rows": [
+    {
+     "surface": "ttīrthyānāṃ",
+     "gloss": "of-pilgrims",
+     "grounds": "those who visit tīrthas; initial doubling in transmission",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "interrogative agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tīrthā",
+     "gloss": "holy-place",
+     "grounds": "sacred site",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthyā",
+     "gloss": "to-be-visited",
+     "grounds": "worthy of pilgrimage",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By whom would that holy place not be regarded as worthy of pilgrimage?",
+   "premises": [
+    "The subject concerns pilgrims.",
+    "The verse questions who would not consider her a tīrtha to be visited."
+   ],
+   "inference": "For pilgrims, she is unquestionably a place to be visited.",
+   "uncertainties": [
+    "ttīrthyānāṃ shows orthographic doubling at token start"
+   ],
+   "plain_english": "By which pilgrim would she not be regarded as a holy place to be visited?"
+  },
+  {
+   "verse": 2023,
+   "rows": [
+    {
+     "surface": "tīrthakara",
+     "gloss": "ford-maker",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "beloved",
+     "grounds": "dear to ford-makers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "dear",
+     "grounds": "beloved or cherished",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tīrthakarebhyaḥ",
+     "gloss": "to-ford-makers",
+     "grounds": "recipients of affection or reverence",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What mutual belovedness is affirmed between her and the ford-makers?",
+   "premises": [
+    "She is beloved of the ford-makers.",
+    "She is dear to the ford-makers."
+   ],
+   "inference": "A reciprocal or emphatic bond of belovedness exists with the ford-makers.",
+   "uncertainties": [
+    "repetition of priyā may indicate mutuality or emphasis"
+   ],
+   "plain_english": "She is beloved of the ford-makers, dear to the ford-makers."
+  },
+  {
+   "verse": 2024,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitā",
+     "gloss": "beneficial",
+     "grounds": "helpful or favorable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tīrthakara",
+     "gloss": "ford-maker",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyā",
+     "gloss": "beloved",
+     "grounds": "dear to ford-makers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential state",
+     "morph": "3.sg.opt-act √as"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "consequent marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows if she were not beneficial and beloved to ford-makers?",
+   "premises": [
+    "The verse poses a conditional: if she were not beneficial.",
+    "It also conditions on her not being beloved of ford-makers."
+   ],
+   "inference": "Her status depends on being beneficial and beloved to the ford-makers.",
+   "uncertainties": [
+    "apodosis is implied rather than explicitly stated"
+   ],
+   "plain_english": "If she were not beneficial and beloved of the ford-makers, then..."
+  }
+ ]
+}

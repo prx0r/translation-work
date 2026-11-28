@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "yavākaikartunimnaṃ",
+     "gloss": "barleycorn-one-measure-deep",
+     "grounds": "fused compound indicating a depression equal to one barleycorn; analyzed as given without splitting",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "rekhānāṃ",
+     "gloss": "of-lines",
+     "grounds": "denotes the inscribed lines whose depth is specified",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "twice-born-best",
+     "grounds": "vocative address to the recipient of instruction",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What prescribed depth must the inscribed ritual lines have?",
+   "premises": [
+    "The instruction concerns the depth of the inscribed lines.",
+    "The specified depression measures one barleycorn.",
+    "The prescription is addressed to the best of the twice-born."
+   ],
+   "inference": "The inscribed lines must be made with a depression equal to one barleycorn.",
+   "uncertainties": [
+    "The internal segmentation of yavākaikartunimnaṃ is uncertain, though its sense as one-barleycorn depth is clear from context."
+   ],
+   "plain_english": "O best of the twice-born, the lines should indeed be depressed to the depth of one barleycorn."
+  }
+ ]
+}

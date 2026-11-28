@@ -1,0 +1,94 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p281",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v7005 ratio=0.895",
+  "ALIGN_NODISP v7008 ratio=0.886",
+  "ALIGN_NODISP v7014 ratio=0.889",
+  "ALIGN_NODISP v7025 ratio=0.886"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "38dc3db8f34fd3b3",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 156
+ },
+ "align": {
+  "min_ratio": 0.886,
+  "sub090": {
+   "7005": {
+    "ratio": 0.895,
+    "disposition": null
+   },
+   "7008": {
+    "ratio": 0.886,
+    "disposition": null
+   },
+   "7014": {
+    "ratio": 0.889,
+    "disposition": null
+   },
+   "7025": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 156,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v7005",
+  "fix: word-order/gloss vs source for v7008",
+  "fix: word-order/gloss vs source for v7014",
+  "fix: word-order/gloss vs source for v7025"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "c1893f8b2cbba92f77765348ed8772ba478625e61b29bdc42e07d8f874777b65",
+  "l0": "fe6a2ed0f0344bed01b8d67162e375f1ebe30b326fe60b4d240c0a1c60533cf4",
+  "argmap": "4e600be14eae698c6bf1a1e5194bbbdd053d11d8c7ce85ebab42bc26d667152f",
+  "l2": "0343416fb9f3c765bb193e8e2944aec55746f8ad5901fddadf3c781047145263",
+  "c1": "b105f84fb2db019a986b8cf8addc373155c63a95ff28b3ab025e9ae89c514534"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "38dc3db8f34fd3b3",
+  "t1": "mukta-m0-p281/data/mukta-m0-p281.t1.json",
+  "l0": "mukta-m0-p281/data/mukta-m0-p281.l0.json",
+  "l2": "mukta-m0-p281/data/mukta-m0-p281.l2.json",
+  "c1": "mukta-m0-p281/data/mukta-m0-p281.c1.json"
+ }
+}

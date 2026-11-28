@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "go",
+     "gloss": "cow",
+     "grounds": "first member of compound describing garment material",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "carma",
+     "gloss": "hide",
+     "grounds": "second member of compound with go, forming cowhide",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vasanāya",
+     "gloss": "to-clad-in-garment",
+     "grounds": "epithet of deity wearing cowhide; dative of recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haraye",
+     "gloss": "to-hari",
+     "grounds": "epithet/name of deity; dative of recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiraṇya",
+     "gloss": "golden",
+     "grounds": "first member of compound qualifying arms",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bāhave",
+     "gloss": "to-armed-one",
+     "grounds": "epithet of deity with golden arms; dative of recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formulaic salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific epithets of the deity are affirmed as recipients of ritual obeisance?",
+   "premises": [
+    "Obeisance is offered to one clad in cowhide.",
+    "Obeisance is offered to Hari.",
+    "Obeisance is offered to the golden-armed one."
+   ],
+   "inference": "The deity is honored through multiple distinct epithets, each receiving formal obeisance.",
+   "uncertainties": [
+    "Whether haraye refers specifically to Viṣṇu or functions as a broader epithet in this context."
+   ],
+   "plain_english": "Obeisance to the one clad in cowhide, obeisance to Hari, obeisance to the golden-armed one."
+  }
+ ]
+}

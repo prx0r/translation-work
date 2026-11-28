@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "prāpyate",
+     "gloss": "is-obtained",
+     "grounds": "passive verb indicating attainment",
+     "morph": "3.sg.pass-pres √prāp"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "qualifies the object attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "object",
+     "grounds": "thing or entity attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the following obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or necessity",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "act of reflective consideration",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is deliberation required after the mental object has been attained in this context?",
+   "premises": [
+    "A mental object is obtained.",
+    "This attainment occurs in the present context.",
+    "Deliberation is negated as something to be done."
+   ],
+   "inference": "Once the mental object is attained here, no further deliberation should be undertaken.",
+   "uncertainties": [
+    "The precise referent of 'atra' depends on the preceding ritual instructions."
+   ],
+   "plain_english": "The mental object is attained; in this case, no deliberation should be made."
+  }
+ ]
+}

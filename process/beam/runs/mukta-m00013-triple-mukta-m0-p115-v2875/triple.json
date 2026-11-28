@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "tvattaḥ",
+     "gloss": "than-you",
+     "grounds": "ablative of comparison indicating the standard surpassed",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "parataraḥ",
+     "gloss": "higher",
+     "grounds": "comparative adjective qualifying the subject",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "direct address to the deity or teacher",
+     "morph": "noun.voc.sg.m"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "interrogative pronoun implying a negative answer",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "kṛpāṃ",
+     "gloss": "compassion",
+     "grounds": "object of the act of showing grace",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-do",
+     "grounds": "infinitive expressing the act to be performed",
+     "morph": "inf.(kṛ)"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "is-worthy",
+     "grounds": "predicate expressing fitness or capability",
+     "morph": "verb.3.sg.pres.act(arh)"
+    }
+   ],
+   "question": "Who surpasses the addressed lord in worthiness to bestow compassion?",
+   "premises": [
+    "The lord is directly addressed as the standard of comparison.",
+    "Bestowing compassion is the act under consideration.",
+    "The question implies no one exceeds the lord in this worthiness."
+   ],
+   "inference": "The addressed lord is uniquely supreme in the capacity to show compassion.",
+   "uncertainties": [],
+   "plain_english": "O Lord, who is more worthy than you to show compassion?"
+  }
+ ]
+}

@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "pīṭhāni",
+     "gloss": "seats",
+     "grounds": "legacy hint seats",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "saṃsmaren",
+     "gloss": "should-remember",
+     "grounds": "legacy hint should-remember",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "legacy hint mantra-practitioner",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sarvakāmārthasiddhaye",
+     "gloss": "for-accomplishment-of-all-desires-and-aims",
+     "grounds": "legacy hint for-accomplishment-of-all-desires-and-aims",
+     "morph": "n.dat.sg.f"
+    }
+   ],
+   "question": "Which seats should the mantra-practitioner remember for accomplishing all desires and aims?",
+   "premises": [
+    "The practitioner remembers seats.",
+    "The purpose is accomplishment of desires and aims."
+   ],
+   "inference": "Remembering the seats serves the practitioner's aims.",
+   "uncertainties": [
+    "Exact grammatical case of sarvakāmārthasiddhaye is inferred."
+   ],
+   "plain_english": "The mantra-practitioner should remember the seats for accomplishing all desires and aims."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "nepālam",
+     "gloss": "Nepal",
+     "grounds": "legacy hint Nepal",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpīṭham",
+     "gloss": "great-seat",
+     "grounds": "legacy hint great-seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "legacy hint seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pauṇḍravarddhanam",
+     "gloss": "Pauṇḍravardhana",
+     "grounds": "legacy hint Pauṇḍravardhana",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which places are named as great seats and seats in this list?",
+   "premises": [
+    "Nepal is a great seat.",
+    "Pauṇḍravardhana is a seat."
+   ],
+   "inference": "The verse enumerates named seats.",
+   "uncertainties": [
+    "Some place names may be seats rather than regions."
+   ],
+   "plain_english": "Nepal is a great seat, and Pauṇḍravardhana is indeed a seat."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "pūrṇaśailam",
+     "gloss": "Pūrṇaśaila",
+     "grounds": "legacy hint Pūrṇaśaila",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mahāpīṭham",
+     "gloss": "great-seat",
+     "grounds": "legacy hint great-seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "arvudam",
+     "gloss": "Arvuda",
+     "grounds": "legacy hint Arvuda",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparam",
+     "gloss": "another",
+     "grounds": "legacy hint another",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which additional places are identified as great seats or seats?",
+   "premises": [
+    "Pūrṇaśaila is a great seat.",
+    "Arvuda is another seat."
+   ],
+   "inference": "The list continues with further named seats.",
+   "uncertainties": [
+    "aparam may modify either Arvuda or the seat."
+   ],
+   "plain_english": "Pūrṇaśaila is a great seat, and Arvuda is likewise another seat."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "trisrotaḥpīṭham",
+     "gloss": "Trisrota-seat",
+     "grounds": "legacy hint Trisrota-seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "amalam",
+     "gloss": "pure",
+     "grounds": "legacy hint pure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kāmakoṭṭam",
+     "gloss": "Kāmakoṭṭa",
+     "grounds": "legacy hint Kāmakoṭṭa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ataḥ+param",
+     "gloss": "thereafter",
+     "grounds": "legacy hint thereafter",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pure seat and following seat are named after Trisrota?",
+   "premises": [
+    "Trisrota-seat is pure.",
+    "Kāmakoṭṭa comes thereafter."
+   ],
+   "inference": "The verse names a pure seat and a following seat.",
+   "uncertainties": [
+    "ataḥ+param is a fused form kept intact."
+   ],
+   "plain_english": "The pure Trisrota seat, then Kāmakoṭṭa thereafter."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "śrīpīṭham",
+     "gloss": "Śrīpīṭha",
+     "grounds": "legacy hint Śrīpīṭha",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṅkāram",
+     "gloss": "Oṅkāra",
+     "grounds": "legacy hint Oṅkāra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jālandharam",
+     "gloss": "Jālandhara",
+     "grounds": "legacy hint Jālandhara",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ataḥ+param",
+     "gloss": "thereafter",
+     "grounds": "legacy hint thereafter",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seats are named Śrīpīṭha, Oṅkāra, and Jālandhara?",
+   "premises": [
+    "Śrīpīṭha is a seat.",
+    "Oṅkāra and Jālandhara follow."
+   ],
+   "inference": "The verse continues the seat enumeration.",
+   "uncertainties": [
+    "The exact relation among the three names is not specified."
+   ],
+   "plain_english": "Śrīpīṭha, and likewise Oṅkāra and Jālandhara thereafter."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "gokarṇākhyam",
+     "gloss": "named-Gokarṇa",
+     "grounds": "legacy hint named-Gokarṇa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mahāpīṭham",
+     "gloss": "great-seat",
+     "grounds": "legacy hint great-seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "māruteśvaram",
+     "gloss": "Māruteśvara",
+     "grounds": "legacy hint Māruteśvara",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which great seat named Gokarṇa and seat Māruteśvara are listed?",
+   "premises": [
+    "Gokarṇa is a great seat.",
+    "Māruteśvara is also a seat."
+   ],
+   "inference": "The enumeration includes both named seats.",
+   "uncertainties": [
+    "Whether Māruteśvara is great or ordinary is not stated."
+   ],
+   "plain_english": "The great seat named Gokarṇa, and indeed Māruteśvara."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "kollagiryabhidham",
+     "gloss": "called-Kollagiri",
+     "grounds": "legacy hint called-Kollagiri",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "legacy hint seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "elāpuram",
+     "gloss": "Elāpura",
+     "grounds": "legacy hint Elāpura",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ataḥ+param",
+     "gloss": "thereafter",
+     "grounds": "legacy hint thereafter",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seat called Kollagiri and following seat Elāpura are named?",
+   "premises": [
+    "Kollagiri is a seat.",
+    "Elāpura comes thereafter."
+   ],
+   "inference": "The verse adds two more named seats.",
+   "uncertainties": [
+    "ataḥ+param is a fused form kept intact."
+   ],
+   "plain_english": "The seat called Kollagiri, then Elāpura thereafter."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "legacy hint seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ujjayinī",
+     "gloss": "Ujjayinī",
+     "grounds": "legacy hint Ujjayinī",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicitram",
+     "gloss": "Vicitra",
+     "grounds": "legacy hint Vicitra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṣīrikābhidham",
+     "gloss": "called-Kṣīrikā",
+     "grounds": "legacy hint called-Kṣīrikā",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which seats Ujjayinī, Vicitra, and Kṣīrikā are enumerated?",
+   "premises": [
+    "Ujjayinī is a seat.",
+    "Vicitra and Kṣīrikā are also seats."
+   ],
+   "inference": "The verse continues the seat list.",
+   "uncertainties": [
+    "The exact grammatical relation of Ujjayinī is inferred."
+   ],
+   "plain_english": "The seat Ujjayinī, and indeed Vicitra called Kṣīrikā."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "kānyakubjam",
+     "gloss": "Kānyakubja",
+     "grounds": "legacy hint Kānyakubja",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mahāpīṭham",
+     "gloss": "great-seat",
+     "grounds": "legacy hint great-seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "māyāpuram",
+     "gloss": "Māyāpura",
+     "grounds": "legacy hint Māyāpura",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jaleśvarau",
+     "gloss": "Jaleśvara",
+     "grounds": "legacy hint Jaleśvara",
+     "morph": "n.acc.du.m"
+    }
+   ],
+   "question": "Which great seat Kānyakubja and seats Māyāpura and Jaleśvara are named?",
+   "premises": [
+    "Kānyakubja is a great seat.",
+    "Māyāpura and Jaleśvara are seats."
+   ],
+   "inference": "The verse names a great seat and two further seats.",
+   "uncertainties": [
+    "jaleśvarau is dual, so two Jaleśvara forms may be intended."
+   ],
+   "plain_english": "Kānyakubja is a great seat, along with Māyāpura and Jaleśvara."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "merugiryākhyapīṭham",
+     "gloss": "seat-named-Merugiri",
+     "grounds": "legacy hint seat-named-Merugiri",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "legacy hint seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "girivaram",
+     "gloss": "best-mountain",
+     "grounds": "legacy hint best-mountain",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seat named Merugiri and best-mountain seat are listed?",
+   "premises": [
+    "Merugiri is a named seat.",
+    "A best-mountain seat follows."
+   ],
+   "inference": "The verse adds named and descriptive seats.",
+   "uncertainties": [
+    "girivaram may describe the mountain seat."
+   ],
+   "plain_english": "The seat named Merugiri, and then a seat of the best mountain."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "mahālakṣmīpuram",
+     "gloss": "Mahālakṣmīpura",
+     "grounds": "legacy hint Mahālakṣmīpura",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "legacy hint seat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uḍḍiyānākhyam",
+     "gloss": "named-Uḍḍiyāna",
+     "grounds": "legacy hint named-Uḍḍiyāna",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which excellent seat named Uḍḍiyāna and seat Mahālakṣmīpura are named?",
+   "premises": [
+    "Mahālakṣmīpura is a seat.",
+    "Uḍḍiyāna is an excellent seat."
+   ],
+   "inference": "The verse names an excellent named seat and another seat.",
+   "uncertainties": [
+    "Whether uttamam modifies Uḍḍiyāna or the whole seat is unclear."
+   ],
+   "plain_english": "Mahālakṣmīpura is a seat, and Uḍḍiyāna is an excellent seat."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "ṣoḍhānyāsam",
+     "gloss": "sixfold-nyāsa",
+     "grounds": "legacy hint sixfold-nyāsa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "legacy hint mantra-practitioner",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "legacy hint directly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "legacy hint himself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "Śiva",
+     "grounds": "legacy hint Śiva",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who should place this sixfold nyāsa directly as Śiva himself?",
+   "premises": [
+    "The mantra-practitioner places this sixfold nyāsa.",
+    "He does so directly as Śiva himself."
+   ],
+   "inference": "The practitioner performs the nyāsa with Śiva's own authority.",
+   "uncertainties": [
+    "The exact ritual mechanics of ṣoḍhānyāsa are not given."
+   ],
+   "plain_english": "The mantra-practitioner should place this sixfold nyāsa directly, himself as Śiva."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those-who",
+     "grounds": "legacy hint those-who",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "nyastadehāḥ",
+     "gloss": "placed-bodies",
+     "grounds": "legacy hint placed-bodies",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "legacy hint they",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "saṃpūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "legacy hint to-be-worshipped",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sarvayogibhiḥ",
+     "gloss": "by-all-yogins",
+     "grounds": "legacy hint by-all-yogins",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "Who are to be worshipped by all yogins after placing the body thus?",
+   "premises": [
+    "Those who have placed their bodies thus are to be worshipped.",
+    "All yogins should worship them."
+   ],
+   "inference": "Properly prepared practitioners become objects of worship.",
+   "uncertainties": [
+    "nyastadehāḥ may refer to ritual placement rather than physical body."
+   ],
+   "plain_english": "Those who have placed their bodies thus are to be worshipped by all yogins."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "legacy hint he",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "soon",
+     "grounds": "legacy hint soon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "legacy hint death",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "legacy hint obtains",
+     "morph": "v.3.sg.act.ind"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "hell",
+     "grounds": "legacy hint hell",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "enters",
+     "grounds": "legacy hint enters",
+     "morph": "v.3.sg.act.ind"
+    }
+   ],
+   "question": "What happens soon to one who neglects this proper placement?",
+   "premises": [
+    "He soon obtains death.",
+    "He also enters hell."
+   ],
+   "inference": "Neglect brings death and hell.",
+   "uncertainties": [
+    "The subject is implied from the previous verse."
+   ],
+   "plain_english": "He soon obtains death and enters hell."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "kāmanyāsam",
+     "gloss": "Kāma-nyāsa",
+     "grounds": "legacy hint Kāma-nyāsa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "atho",
+     "gloss": "now",
+     "grounds": "legacy hint now",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-declare",
+     "grounds": "legacy hint I-will-declare",
+     "morph": "v.1.sg.act.fut"
+    },
+    {
+     "surface": "trailokyakṣobhakārakam",
+     "gloss": "causing-agitation-of-three-worlds",
+     "grounds": "legacy hint causing-agitation-of-three-worlds",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What Kāma-nyāsa will now be declared and what does it do?",
+   "premises": [
+    "The speaker will declare Kāma-nyāsa.",
+    "It causes agitation of the three worlds."
+   ],
+   "inference": "The upcoming nyāsa is powerful over all three worlds.",
+   "uncertainties": [
+    "The exact ritual procedure follows in later verses."
+   ],
+   "plain_english": "Now I will declare Kāma-nyāsa, which causes agitation of the three worlds."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "puṣpabāṇeṣukodaṇḍaśobhitān",
+     "gloss": "adorned-with-flower-arrows-and-bow",
+     "grounds": "legacy hint adorned-with-flower-arrows-and-bow",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "śaktisaṃyutān",
+     "gloss": "joined-with-śakti",
+     "grounds": "legacy hint joined-with-śakti",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "What adornment and śakti-joining characterize the Kāma-nyāsa deities?",
+   "premises": [
+    "They are adorned with flower arrows and bow.",
+    "They are joined with śakti."
+   ],
+   "inference": "The deities are equipped with Kāma's weapons and śakti.",
+   "uncertainties": [
+    "The exact deities are not named in this verse."
+   ],
+   "plain_english": "They are adorned with flower arrows and bow, joined with śakti."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "nīlotpalakarāḥ",
+     "gloss": "lotus-handed",
+     "grounds": "legacy hint lotus-handed",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trailokyākarṣaṇakṣamāḥ",
+     "gloss": "capable-of-attracting-three-worlds",
+     "grounds": "legacy hint capable-of-attracting-three-worlds",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What hand-attribute and power belong to these lotus-handed deities?",
+   "premises": [
+    "They are lotus-handed.",
+    "They are capable of attracting the three worlds."
+   ],
+   "inference": "The deities attract all three worlds.",
+   "uncertainties": [
+    "The subject is carried from the previous verse."
+   ],
+   "plain_english": "They are lotus-handed and indeed capable of attracting the three worlds."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "kāma-māyā-ramābījaiḥ",
+     "gloss": "with-Kāma-Māyā-Ramā-bījas",
+     "grounds": "legacy hint with-Kāma-Māyā-Ramā-bījas",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "mātṛkārṇaiḥ",
+     "gloss": "with-mātṛkā-letters",
+     "grounds": "legacy hint with-mātṛkā-letters",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "tanau",
+     "gloss": "on-body",
+     "grounds": "legacy hint on-body",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "With which bījas and letters should one place Kāma-nyāsa on the body?",
+   "premises": [
+    "One uses Kāma, Māyā, and Ramā bījas.",
+    "One also uses mātṛkā letters on the body."
+   ],
+   "inference": "The nyāsa is placed on the body with specified seed syllables and letters.",
+   "uncertainties": [
+    "The exact placement points are not specified."
+   ],
+   "plain_english": "One should place on the body with Kāma, Māyā, and Ramā bījas and mātṛkā letters."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "kāminī",
+     "gloss": "Kāminī",
+     "grounds": "legacy hint Kāminī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "legacy hint with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāntaḥ",
+     "gloss": "deluded",
+     "grounds": "legacy hint deluded",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mohinyā",
+     "gloss": "with-Mohinī",
+     "grounds": "legacy hint with-Mohinī",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "accompanied",
+     "grounds": "legacy hint accompanied",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deluded Kāminī and Mohinī pairing is named in the nyāsa?",
+   "premises": [
+    "Kāminī is deluded.",
+    "She is accompanied with Mohinī."
+   ],
+   "inference": "The verse names a deluded Kāminī with Mohinī.",
+   "uncertainties": [
+    "The syntactic subject is somewhat elliptical."
+   ],
+   "plain_english": "The deluded Kāminī, indeed, is accompanied with Mohinī."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "karṇakalpalate",
+     "gloss": "ear-creeper",
+     "grounds": "legacy hint ear-creeper",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "komalaḥ",
+     "gloss": "tender",
+     "grounds": "legacy hint tender",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śyāmalānvitaḥ",
+     "gloss": "accompanied-by-Śyāmalā",
+     "grounds": "legacy hint accompanied-by-Śyāmalā",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which tender ear-creeper accompanied by Śyāmalā is named?",
+   "premises": [
+    "The ear-creeper is tender.",
+    "It is accompanied by Śyāmalā."
+   ],
+   "inference": "The verse names a tender ear-creeper with Śyāmalā.",
+   "uncertainties": [
+    "The exact referent of karṇakalpalate is not explained."
+   ],
+   "plain_english": "The tender ear-creeper, indeed, accompanied by Śyāmalā."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "vismayāsahitaḥ",
+     "gloss": "with-wonder",
+     "grounds": "legacy hint with-wonder",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rāmaḥ",
+     "gloss": "Rāma",
+     "grounds": "legacy hint Rāma",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "viśālākṣīyutaḥ",
+     "gloss": "accompanied-by-wide-eyed",
+     "grounds": "legacy hint accompanied-by-wide-eyed",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "Rasa",
+     "grounds": "legacy hint Rasa",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which wonder-filled Rāma accompanied by wide-eyed Rasa is named?",
+   "premises": [
+    "Rāma is with wonder.",
+    "Rasa is wide-eyed and accompanies him."
+   ],
+   "inference": "The verse pairs Rāma with Rasa.",
+   "uncertainties": [
+    "The exact relation between Rāma and Rasa is not specified."
+   ],
+   "plain_english": "Rāma with wonder, accompanied by wide-eyed Rasa."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "ratipriyaḥ",
+     "gloss": "Rati-priya",
+     "grounds": "legacy hint Rati-priya",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmā",
+     "gloss": "Rāmā",
+     "grounds": "legacy hint Rāmā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrināyaka",
+     "gloss": "night-lord",
+     "grounds": "legacy hint night-lord",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kubjike",
+     "gloss": "Kubjikā",
+     "grounds": "legacy hint Kubjikā",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Which Rati-priya, Rāmā, night-lord, and Kubjikā are named together?",
+   "premises": [
+    "Rati-priya and Rāmā are named.",
+    "The night-lord and Kubjikā are also named."
+   ],
+   "inference": "The verse lists paired nyāsa names.",
+   "uncertainties": [
+    "The grammatical relation among the names is not fully clear."
+   ],
+   "plain_english": "Rati-priya and Rāmā, and the night-lord Kubjikā."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "niśācaraḥ",
+     "gloss": "night-wanderer",
+     "grounds": "legacy hint night-wanderer",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalyāṇī",
+     "gloss": "Kalyāṇī",
+     "grounds": "legacy hint Kalyāṇī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "nandanaḥ",
+     "gloss": "Nandana",
+     "grounds": "legacy hint Nandana",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhoginīyutaḥ",
+     "gloss": "accompanied-by-Bhoginī",
+     "grounds": "legacy hint accompanied-by-Bhoginī",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which night-wanderer, Kalyāṇī, Nandana, and Bhoginī are named together?",
+   "premises": [
+    "The night-wanderer and Kalyāṇī are named.",
+    "Nandana is accompanied by Bhoginī."
+   ],
+   "inference": "The verse continues the nyāsa name list.",
+   "uncertainties": [
+    "The exact pairing among the four names is not specified."
+   ],
+   "plain_english": "The night-wanderer and Kalyāṇī, and Nandana accompanied by Bhoginī."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "sulāvaṇyāyutaḥ",
+     "gloss": "endowed-with-beauty",
+     "grounds": "legacy hint endowed-with-beauty",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānandayitābhidhaḥ",
+     "gloss": "called-Ānandayitā",
+     "grounds": "legacy hint called-Ānandayitā",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which beauty-endowed figure called Ānandayitā is named?",
+   "premises": [
+    "He is endowed with beauty.",
+    "He is called Ānandayitā."
+   ],
+   "inference": "The verse names a beauty-endowed Ānandayitā.",
+   "uncertainties": [
+    "The subject is carried from the previous nyāsa list."
+   ],
+   "plain_english": "Endowed with beauty, and indeed likewise called Ānandayitā."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "darśanāt",
+     "gloss": "by-sight",
+     "grounds": "ablative of darśana; by sight",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "japataḥ",
+     "gloss": "of-chanting",
+     "grounds": "genitive of japant-; of one chanting",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "stambhitaḥ",
+     "gloss": "stopped",
+     "grounds": "past participle stambhita; stopped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb bhū; becomes",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "kṣipram",
+     "gloss": "quickly",
+     "grounds": "adverb; quickly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How quickly does a chanter become stopped by sight?",
+   "premises": [
+    "by sight a chanter becomes stopped",
+    "the stopping happens quickly",
+    "chanting is interrupted by sight"
+   ],
+   "inference": "sight can halt mantra chanting quickly",
+   "uncertainties": [
+    "exact ritual context unclear"
+   ],
+   "plain_english": "By sight, one who is chanting becomes stopped quickly."
+  }
+ ]
+}

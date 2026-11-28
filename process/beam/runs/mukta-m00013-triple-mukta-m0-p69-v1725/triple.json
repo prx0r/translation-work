@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "hṛṣṭaṃ",
+     "gloss": "joyful",
+     "grounds": "object of salutation, describing Mañjughoṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samasta",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying sāram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāram",
+     "gloss": "essence",
+     "grounds": "second member of compound; describes Mañjughoṣa as essence of all",
+     "morph": "m.acc.sg, compound-final"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects attributes of Mañjughoṣa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṃjughoṣaṃ",
+     "gloss": "mañjughoṣa",
+     "grounds": "proper name, object of salutation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "namāmy",
+     "gloss": "i-bow",
+     "grounds": "act of reverence performed by speaker",
+     "morph": "1.sg.pres.act √nam"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker performing the salutation",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What qualities of Mañjughoṣa make him worthy of the speaker's salutation?",
+   "premises": [
+    "Mañjughoṣa is characterized as joyful.",
+    "Mañjughoṣa is characterized as the essence of all.",
+    "The speaker performs an act of bowing to Mañjughoṣa."
+   ],
+   "inference": "Because Mañjughoṣa embodies joy and the essence of all, the speaker offers him reverent salutation.",
+   "uncertainties": [],
+   "plain_english": "I bow to Mañjughoṣa, who is joyful and the essence of all."
+  }
+ ]
+}

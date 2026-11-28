@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p556",
+ "items": [
+  {
+   "verse": 13900,
+   "rows": [
+    {
+     "surface": "ṣaḍbījaiḥ",
+     "gloss": "with-six-seed-syllables",
+     "grounds": "instrumental plural of compound ṣaṣ-bīja, indicating the means of placement",
+     "morph": "compound(ṣaṣ+bīja).inst.pl.n"
+    },
+    {
+     "surface": "prathamaiḥ",
+     "gloss": "first",
+     "grounds": "adjective agreeing with ṣaḍbījaiḥ, specifying the initial six",
+     "morph": "adj.inst.pl.n"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual placement of mantra elements on the body",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the previously described mantra",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "ṣaḍaṅga",
+     "gloss": "six-limbed",
+     "grounds": "compound ṣaṣ-aṅga qualifying the placement as having six parts",
+     "morph": "compound(ṣaṣ+aṅga).nom.sg.m"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle stating what is taught",
+     "morph": "ppp.nom.sg.m (pra-√kīrt)"
+    }
+   ],
+   "question": "What constitutes the six-limbed placement prescribed for this mantra?",
+   "premises": [
+    "The placement is performed with six seed-syllables.",
+    "These six seed-syllables are specified as the first ones.",
+    "The placement of this mantra is declared to be six-limbed."
+   ],
+   "inference": "Therefore, the six-limbed placement of this mantra is accomplished using the first six seed-syllables.",
+   "uncertainties": [
+    "The referent of asya depends on the preceding verses describing the mantra."
+   ],
+   "plain_english": "The six-limbed placement of this mantra is proclaimed to be performed with the first six seed-syllables."
+  }
+ ]
+}

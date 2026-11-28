@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "kṣetrasya+ārohaṇāt",
+     "gloss": "from-ascending-the-field",
+     "grounds": "ablative compound expressing cause or means; kṣetra (field/sacred site) + ārohaṇa (ascending)",
+     "morph": "compound.abl.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "one-obtains",
+     "grounds": "present indicative stating the result of the action",
+     "morph": "3.sg.middle-present/labh"
+    },
+    {
+     "surface": "vipulāṃ",
+     "gloss": "abundant",
+     "grounds": "qualifies śriyam",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "direct object of labhate",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What abundant prosperity is gained through ascending the sacred field?",
+   "premises": [
+    "Ascending the sacred field is an efficacious act.",
+    "The goddess is invoked as the addressee.",
+    "This act results in obtaining abundant prosperity."
+   ],
+   "inference": "Ascending the sacred field grants the practitioner abundant prosperity.",
+   "uncertainties": [
+    "Whether kṣetra refers to a specific pilgrimage site or a general sacred domain is context-dependent."
+   ],
+   "plain_english": "O goddess, by ascending the sacred field one obtains abundant prosperity."
+  }
+ ]
+}

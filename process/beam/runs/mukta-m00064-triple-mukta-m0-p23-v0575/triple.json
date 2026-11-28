@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "brahmajñānamayaṃ",
+     "gloss": "consisting-of-brahman-knowledge",
+     "grounds": "compound of brahma, jñāna, and maya; describes the nature of the supreme reality",
+     "morph": "brahma+jñāna+maya (compound), n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahmānandamayaṃ",
+     "gloss": "consisting-of-brahman-bliss",
+     "grounds": "compound of brahma, ānanda, and maya; parallel attribute of the supreme reality",
+     "morph": "brahma+ānanda+maya (compound), n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating continuation or parallel quality",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What forms of knowledge and bliss constitute the supreme Brahman addressed to the goddess?",
+   "premises": [
+    "The supreme Brahman is described as consisting of Brahman-knowledge.",
+    "The supreme Brahman is likewise described as consisting of Brahman-bliss.",
+    "These attributes are declared directly to the goddess."
+   ],
+   "inference": "The supreme Brahman is essentially constituted of both Brahman-knowledge and Brahman-bliss.",
+   "uncertainties": [
+    "The grammatical case of the -maya compounds is taken as neuter nominative singular in apposition with the previously described supreme Brahman."
+   ],
+   "plain_english": "O goddess, it is likewise consisting of the knowledge of Brahman and the bliss of Brahman."
+  }
+ ]
+}

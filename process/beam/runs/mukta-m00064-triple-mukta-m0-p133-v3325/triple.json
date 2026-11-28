@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "vārāhañ",
+     "gloss": "boar",
+     "grounds": "accusative object in an enumerated list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaurmaṃ",
+     "gloss": "tortoise-form",
+     "grounds": "accusative object in an enumerated list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇa+cchagaṃ",
+     "gloss": "black-goat",
+     "grounds": "compound denoting a goat that is black; accusative object in enumeration",
+     "morph": "kṛṣṇa+chaga (karmadhāraya).m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating continuation of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle closing or extending the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional animal forms are included in this continuing ritual enumeration?",
+   "premises": [
+    "The verse lists items in the accusative case as part of an ongoing enumeration.",
+    "The terms vārāhañ, kaurmaṃ, and kṛṣṇa+cchagaṃ denote specific animal forms.",
+    "Particles ca, tathā, and eva mark coordination, continuation, and emphasis in the list."
+   ],
+   "inference": "The enumeration continues by adding the boar, the tortoise-form, and the black goat to the previously listed items.",
+   "uncertainties": [
+    "The precise ritual function of these enumerated animal forms is not specified within this verse alone."
+   ],
+   "plain_english": "And likewise the boar, the tortoise-form, and also indeed the black goat."
+  }
+ ]
+}

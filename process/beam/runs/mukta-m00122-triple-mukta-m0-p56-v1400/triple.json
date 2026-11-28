@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressed to the goddess",
+     "morph": "2.sg.act-imp + root śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "viśeṣantu",
+     "gloss": "special",
+     "grounds": "special object with enclitic tu retained as one fused token",
+     "morph": "acc.sg.m (indecl. fused)"
+    },
+    {
+     "surface": "sandarbhaṃ",
+     "gloss": "context",
+     "grounds": "object of the imperative hear",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "same'pi",
+     "gloss": "even-in-same",
+     "grounds": "locative same with api retained as one fused token",
+     "morph": "loc.sg.m (indecl. fused)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What special context should the goddess hear even when the same ritual procedure applies?",
+   "premises": [
+    "The speaker addresses the goddess directly.",
+    "A special context is introduced for hearing.",
+    "It applies even within the same procedure."
+   ],
+   "inference": "The verse signals a distinction to be noted within a shared ritual procedure.",
+   "uncertainties": [
+    "viśeṣantu internal sandhi is not expanded",
+    "same'pi fused form is retained as given"
+   ],
+   "plain_english": "Hear, goddess, the special context indeed, even in the same, or."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "aṅgaliṅgapratiṣṭhā",
+     "gloss": "limb-linga-installation",
+     "grounds": "compound of aṅga, liṅga, and pratiṣṭhā; listed as a ritual item",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining the listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadeśasthāpanaṃ",
+     "gloss": "same-place-installation",
+     "grounds": "compound of sa-deśa and sthāpana; listed as a ritual item",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "adverb marking sequence after the preceding items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual installations follow the temple's linga-dependent features?",
+   "premises": [
+    "limb-linga installation is listed",
+    "same-place installation is listed",
+    "thereafter marks the sequence"
+   ],
+   "inference": "the ritual sequence includes limb-linga and same-place installations after the temple features",
+   "uncertainties": [
+    "the exact grammatical case of the listed items is not fixed by context"
+   ],
+   "plain_english": "Then come the installation of the limb-linga and the same-place installation."
+  }
+ ]
+}

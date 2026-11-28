@@ -1,0 +1,561 @@
+{
+ "song": "kul-p71",
+ "items": [
+  {
+   "verse": 1751,
+   "rows": [
+    {
+     "surface": "tattat",
+     "gloss": "whatever-that",
+     "grounds": "reduplicated pronoun indicating any desired result",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "phalatyasandehastvaprayatnena",
+     "gloss": "fruits-without-doubt-and-without-effort",
+     "grounds": "fused form: phalati + asandehaḥ + tu + aprayatnena; notes effortless fruition",
+     "morph": "compound+3.sg.pres.act+adj.nom.sg.m+indecl.+noun.inst.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "completed action or ritual act",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "What outcome follows from an act performed without effort in this practice?",
+   "premises": [
+    "Any desired result can bear fruit without doubt.",
+    "Such fruition can occur even without deliberate effort.",
+    "The act in question is already accomplished."
+   ],
+   "inference": "A properly accomplished act yields its intended result effortlessly and certainly.",
+   "uncertainties": [
+    "The exact referent of kṛtam (ritual act or general deed) is not specified in this verse alone."
+   ],
+   "plain_english": "Whatever is done bears fruit without doubt, even without effort."
+  },
+  {
+   "verse": 1752,
+   "rows": [
+    {
+     "surface": "devatābhāvam",
+     "gloss": "deity-state",
+     "grounds": "state of identification with the deity",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attains or reaches",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "mantrasiddhiḥ",
+     "gloss": "mantra-success",
+     "grounds": "successful accomplishment of the mantra",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.pass √jan"
+    }
+   ],
+   "question": "What two attainments arise when mantra practice reaches its successful fulfillment?",
+   "premises": [
+    "The practitioner obtains the state of the deity.",
+    "Success in the mantra arises.",
+    "Both outcomes are presented together as results."
+   ],
+   "inference": "Mantra accomplishment brings both identification with the deity and mantra-success.",
+   "uncertainties": [
+    "Whether devatābhāvam is cause or co-result of mantrasiddhiḥ is not explicitly stated."
+   ],
+   "plain_english": "One attains the state of the deity, and mantra-success arises."
+  },
+  {
+   "verse": 1753,
+   "rows": [
+    {
+     "surface": "vighnāḥ",
+     "gloss": "obstacles",
+     "grounds": "hindrances to practice",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "upon seeing",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "palāyante",
+     "gloss": "flee",
+     "grounds": "run away",
+     "morph": "3.pl.pres.mid √palāy"
+    },
+    {
+     "surface": "siṃhaṃ",
+     "gloss": "lion",
+     "grounds": "object of comparison",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "upon seeing",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajāḥ",
+     "gloss": "elephants",
+     "grounds": "subject of comparison",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "How do obstacles behave in the presence of an accomplished practitioner?",
+   "premises": [
+    "Obstacles flee upon seeing the practitioner.",
+    "Elephants flee upon seeing a lion.",
+    "The verse draws an explicit comparison between these two cases."
+   ],
+   "inference": "Obstacles disperse before the accomplished practitioner as elephants flee from a lion.",
+   "uncertainties": [
+    "The verse implies but does not name the practitioner as the object seen by obstacles."
+   ],
+   "plain_english": "Obstacles flee on seeing him, just as elephants flee on seeing a lion."
+  },
+  {
+   "verse": 1754,
+   "rows": [
+    {
+     "surface": "vādhyate",
+     "gloss": "is-afflicted",
+     "grounds": "is tormented or oppressed",
+     "morph": "3.sg.pres.pass √bādh"
+    },
+    {
+     "surface": "sarvavighnaiḥ",
+     "gloss": "by-all-obstacles",
+     "grounds": "by every kind of hindrance",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāghraiḥ",
+     "gloss": "by-tigers",
+     "grounds": "object of comparison",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "mṛgaśiśuḥ",
+     "gloss": "fawn",
+     "grounds": "young deer, subject of comparison",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition befalls one who lacks the power to repel obstacles?",
+   "premises": [
+    "Someone is afflicted by all obstacles.",
+    "A fawn is afflicted by tigers.",
+    "The verse compares the afflicted person to the fawn."
+   ],
+   "inference": "Without protective power, one is overwhelmed by obstacles like a fawn by tigers.",
+   "uncertainties": [
+    "The subject of vādhyate is implied rather than explicitly named."
+   ],
+   "plain_english": "And he is afflicted by all obstacles, just as a fawn is afflicted by tigers."
+  },
+  {
+   "verse": 1755,
+   "rows": [
+    {
+     "surface": "kalpitā",
+     "gloss": "imagined",
+     "grounds": "mentally formed or conceived",
+     "morph": "ppp.nom.sg.f"
+    },
+    {
+     "surface": "maṇibhiḥ",
+     "gloss": "with-beads",
+     "grounds": "by means of beads or gems used for counting",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "kḷptā",
+     "gloss": "fashioned",
+     "grounds": "arranged or constructed",
+     "morph": "ppp.nom.sg.f"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "the matrix of letters/powers; kept as technical term",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "can be or should be",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "akalpitā",
+     "gloss": "unimagined",
+     "grounds": "not mentally constructed",
+     "morph": "ppp.nom.sg.f"
+    }
+   ],
+   "question": "In what two modes can the mātṛkā be constituted during mantra practice?",
+   "premises": [
+    "The mātṛkā may be fashioned with beads.",
+    "The mātṛkā may be imagined.",
+    "The mātṛkā may also be unimagined."
+   ],
+   "inference": "The mātṛkā can be engaged either through bead-supported construction or without mental construction.",
+   "uncertainties": [
+    "The precise contrast between kalpitā and akalpitā in this ritual context is compressed."
+   ],
+   "plain_english": "The mātṛkā may be fashioned with beads, imagined, or unimagined."
+  },
+  {
+   "verse": 1756,
+   "rows": [
+    {
+     "surface": "anulomavilomābhyāṃ",
+     "gloss": "by-forward-and-reverse",
+     "grounds": "in natural and reverse order",
+     "morph": "adj.inst.dual.n"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "should-count",
+     "grounds": "should recite or enumerate",
+     "morph": "3.sg.opt.act √gaṇ"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "best-mantra-knower",
+     "grounds": "one most skilled in mantra knowledge",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "How should the most skilled mantra practitioner perform the counting of recitation?",
+   "premises": [
+    "Counting is prescribed for mantra practice.",
+    "The counting may proceed in forward and reverse order.",
+    "The best knower of mantra is the agent of this counting."
+   ],
+   "inference": "The foremost mantra practitioner should count the recitation in both forward and reverse order.",
+   "uncertainties": [],
+   "plain_english": "The best knower of mantra should count in forward and reverse order."
+  },
+  {
+   "verse": 1757,
+   "rows": [
+    {
+     "surface": "maṇibhiḥ",
+     "gloss": "with-beads",
+     "grounds": "using beads for counting recitations",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "śatasāhasraṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "a count of one hundred thousand",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "māṇikyā",
+     "gloss": "with-ruby",
+     "grounds": "using a ruby bead or ruby beads",
+     "morph": "noun.inst.sg.f"
+    },
+    {
+     "surface": "anantam",
+     "gloss": "endless",
+     "grounds": "counted as limitless in effect",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "is declared or taught",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What difference in recitation value is assigned to ordinary beads versus ruby beads?",
+   "premises": [
+    "Recitation with beads is measured as a hundred thousand.",
+    "Recitation with ruby is declared endless.",
+    "The verse states these valuations explicitly."
+   ],
+   "inference": "Using ruby beads is taught to confer an immeasurably greater recitation value than ordinary beads.",
+   "uncertainties": [
+    "Whether māṇikyā refers to a single ruby bead or ruby material is not fully explicit."
+   ],
+   "plain_english": "With beads it is said to be a hundred thousand; with ruby it is said to be endless."
+  },
+  {
+   "verse": 1758,
+   "rows": [
+    {
+     "surface": "pañcāśadbhiḥ",
+     "gloss": "with-fifty",
+     "grounds": "by means of fifty repetitions or beads",
+     "morph": "num.inst.pl"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "O-lady-of-kula",
+     "grounds": "vocative address to the Goddess",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "sarvasiddhiḥ",
+     "gloss": "all-success",
+     "grounds": "attainment of all accomplishments",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "udīritā",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "ppp.nom.sg.f"
+    }
+   ],
+   "question": "What level of accomplishment is declared to result from a count of fifty?",
+   "premises": [
+    "A count of fifty is specified.",
+    "All-success is declared as the result.",
+    "The declaration is addressed to the Lady of Kula."
+   ],
+   "inference": "Even a count of fifty is taught to yield complete accomplishment.",
+   "uncertainties": [
+    "The unit counted by pañcāśadbhiḥ (beads, repetitions, or cycles) is implied by context."
+   ],
+   "plain_english": "O Lady of Kula, with fifty, all-success is declared."
+  },
+  {
+   "verse": 1759,
+   "rows": [
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "the smallest finger",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "stambhanyākarṣaṇya",
+     "gloss": "for-immobilizing-and-attracting",
+     "grounds": "fused compound indicating purposes of stambhana and ākarṣaṇa",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "aṅgulī",
+     "gloss": "finger",
+     "grounds": "the finger used in practice",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "suprakīttītā",
+     "gloss": "well-renowned",
+     "grounds": "widely praised or well known",
+     "morph": "ppp.nom.sg.f"
+    }
+   ],
+   "question": "Which finger is renowned for use in acts of immobilizing and attracting?",
+   "premises": [
+    "The little finger is named.",
+    "It is associated with immobilizing and attracting.",
+    "It is described as well renowned for this purpose."
+   ],
+   "inference": "The little finger is the traditionally praised finger for immobilizing and attracting rites.",
+   "uncertainties": [
+    "The exact ritual application of stambhana and ākarṣaṇa is not detailed here."
+   ],
+   "plain_english": "The little finger is well renowned for immobilizing and attracting."
+  },
+  {
+   "verse": 1760,
+   "rows": [
+    {
+     "surface": "sthirāsanaḥ",
+     "gloss": "with-firm-seat",
+     "grounds": "seated steadily",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-chanted",
+     "grounds": "after performing recitation",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-the-goddess",
+     "grounds": "recipient of the offering",
+     "morph": "noun.dat.sg.f"
+    },
+    {
+     "surface": "sodakam",
+     "gloss": "with-water",
+     "grounds": "accompanied by water",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "should-offer",
+     "grounds": "should present as an offering",
+     "morph": "3.sg.opt.caus.act √ṛ"
+    }
+   ],
+   "question": "What concluding offering should follow mantra recitation performed in a steady posture?",
+   "premises": [
+    "The practitioner is seated firmly.",
+    "The practitioner has completed chanting.",
+    "An offering with water is to be made to the Goddess."
+   ],
+   "inference": "After steady seated recitation, one should offer water to the Goddess.",
+   "uncertainties": [
+    "What exactly is offered together with water is not specified beyond sodakam."
+   ],
+   "plain_english": "Seated firmly, after chanting, one should then offer it with water to the Goddess."
+  },
+  {
+   "verse": 1761,
+   "rows": [
+    {
+     "surface": "uttamaḥ",
+     "gloss": "highest",
+     "grounds": "superior in rank",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mānasaḥ",
+     "gloss": "mental",
+     "grounds": "performed in the mind",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "trividhaḥ",
+     "gloss": "threefold",
+     "grounds": "of three kinds",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "taught or explained",
+     "morph": "ppp.nom.sg.m"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Which form of recitation is ranked highest within the threefold classification of japa?",
+   "premises": [
+    "Recitation is declared to be threefold.",
+    "Mental recitation is named as the highest.",
+    "This teaching is addressed to the Goddess."
+   ],
+   "inference": "Among the three kinds of japa, mental recitation is taught as the highest.",
+   "uncertainties": [
+    "The other two kinds of japa are not named in this verse."
+   ],
+   "plain_english": "O Goddess, recitation is declared to be threefold, and mental recitation is the highest."
+  },
+  {
+   "verse": 1762,
+   "rows": [
+    {
+     "surface": "akṣarākṣarasaṃyuktaḥ",
+     "gloss": "joined-with-letter-and-non-letter",
+     "grounds": "mixed with proper letters and improper elements",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "accomplishes its intended result",
+     "morph": "3.sg.pres.act √sidh"
+    }
+   ],
+   "question": "Why does a mantra mixed with proper and improper elements fail to accomplish its aim?",
+   "premises": [
+    "A mantra may be joined with letter and non-letter elements.",
+    "Such a mantra is identified as the subject.",
+    "The verse states that this mantra does not succeed."
+   ],
+   "inference": "A mantra corrupted by improper admixture fails to achieve success.",
+   "uncertainties": [
+    "The exact technical meaning of akṣara versus akṣara in this compound is context-dependent."
+   ],
+   "plain_english": "A mantra that is mixed with proper and improper elements does not succeed."
+  }
+ ]
+}

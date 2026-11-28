@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p466",
+ "items": [
+  {
+   "verse": 11650,
+   "rows": [
+    {
+     "surface": "mastaka",
+     "gloss": "head",
+     "grounds": "body location named as site of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ānana",
+     "gloss": "face",
+     "grounds": "body location named as site of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "body location named as site of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "guhya",
+     "gloss": "secret-part",
+     "grounds": "body location named as site of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "foot",
+     "grounds": "body location named as site of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṃseṣu",
+     "gloss": "shoulders",
+     "grounds": "body locations named as sites of placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects listed body locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaikramāt",
+     "gloss": "in-reverse-order",
+     "grounds": "indicates the sequence of placement is reversed",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which bodily locations receive placement when the sequence is performed in reverse order?",
+   "premises": [
+    "The preceding instruction directs placement throughout the body.",
+    "A series of bodily locations is explicitly enumerated.",
+    "The term vaikramāt specifies reversal of the sequence."
+   ],
+   "inference": "The enumerated locations are to be used as placement sites in reverse order.",
+   "uncertainties": [
+    "The exact pairing of each location with specific prior elements is supplied by the preceding verses."
+   ],
+   "plain_english": "Place them on the head, face, heart, secret part, foot, and shoulders, in reverse order."
+  }
+ ]
+}

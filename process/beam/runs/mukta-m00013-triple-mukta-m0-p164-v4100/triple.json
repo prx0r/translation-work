@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "abhaktebhyas",
+     "gloss": "to-non-devotees",
+     "grounds": "dative plural of abhakta, those lacking devotion",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adversative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lord-of-gods",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "putrebhyo",
+     "gloss": "to-sons",
+     "grounds": "dative plural of putra",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending the prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "one-should-show",
+     "grounds": "optative expressing prohibition or injunction not to reveal",
+     "morph": "3.sg.act.opt (√dṛś, caus.)"
+    }
+   ],
+   "question": "To whom must this supreme teaching remain concealed despite close familial relationships?",
+   "premises": [
+    "The teaching must not be revealed to non-devotees.",
+    "Even sons are included among those excluded.",
+    "The injunction explicitly forbids showing it to them."
+   ],
+   "inference": "This supreme teaching must remain secret from non-devotees and even from one's own sons.",
+   "uncertainties": [],
+   "plain_english": "But, O Lord of Gods, one should not show it to non-devotees, nor even to sons."
+  }
+ ]
+}

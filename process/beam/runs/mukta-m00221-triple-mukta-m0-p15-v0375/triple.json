@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "sadasyāḥ",
+     "gloss": "companions",
+     "grounds": "sadasya plus nominative plural masculine ending; companions or associates",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvalokaikamāturbhartā'tra",
+     "gloss": "all-worlds-one-mother-husband-here",
+     "grounds": "compound sarva-loka-eka-mātuḥ-bhartā fused with atra; @ marks sandhi fusion",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "ko",
+     "gloss": "who",
+     "grounds": "interrogative pronoun ko",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative third singular active of root bhū",
+     "morph": "3.sg.opt-act+bhū"
+    }
+   ],
+   "question": "Who could be the husband of the one mother of all worlds here?",
+   "premises": [
+    "companions are present here",
+    "all worlds share one mother",
+    "husband of that mother is sought"
+   ],
+   "inference": "The verse asks who can be consort of the universal mother.",
+   "uncertainties": [
+    "exact referent of universal mother remains context-dependent",
+    "companions' identity is not specified"
+   ],
+   "plain_english": "The companions ask: who here could be the husband of the one mother of all worlds?"
+  }
+ ]
+}

@@ -77,8 +77,8 @@ def main() -> int:
             if len(c) > 2 and c[2]:
                 o['grounds'] = c[2]
             recs.append({
-                'id': f'{song}-v{v:02d}-p{i:03d}',
-                'verse_id': f'{song}-v{v:02d}',
+                'id': f'{song}-v{v}-p{i:03d}',
+                'verse_id': f'{song}-v{v}',
                 'pada_index': i, 'surface': s,
                 'citation': c[0], 'morph': c[1],
                 'options': [o], 'chosen_index': 0,

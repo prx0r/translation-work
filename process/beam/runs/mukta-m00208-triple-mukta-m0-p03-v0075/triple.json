@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "pañcatattvaviśuddhyarthaṃ",
+     "gloss": "for-five-elements-purification-purpose",
+     "grounds": "Compound expressing purpose: purification (viśuddhi) of the five elements (pañca-tattva).",
+     "morph": "compound (pañca-tattva-viśuddhi-artha+n.acc.sg.nt)"
+    },
+    {
+     "surface": "pañcabrahmamanūn",
+     "gloss": "five-brahman-mantras",
+     "grounds": "Refers to the five Brahman mantras; object of chanting.",
+     "morph": "compound (pañca-brahma-manu+m.acc.pl)"
+    },
+    {
+     "surface": "japan",
+     "gloss": "chanting",
+     "grounds": "Present active participle indicating the act of muttering or reciting mantras.",
+     "morph": "pres.act.part.nom.sg.m (√jap)"
+    }
+   ],
+   "question": "What ritual recitation accomplishes the purification of the five fundamental elements?",
+   "premises": [
+    "Prior internal purification has already been performed.",
+    "Purification of the five elements is the intended aim.",
+    "The five Brahman mantras are designated for recitation."
+   ],
+   "inference": "Chanting the five Brahman mantras accomplishes the purification of the five elements.",
+   "uncertainties": [
+    "manūn is taken as mantras or sacred formulas associated with the five Brahmans."
+   ],
+   "plain_english": "For the purification of the five elements, one should chant the five Brahman mantras."
+  }
+ ]
+}

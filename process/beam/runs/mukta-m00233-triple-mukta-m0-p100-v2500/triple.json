@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "mūlāṅgāni ca",
+     "gloss": "root-limbs-and",
+     "grounds": "compound mūla+aṅga in neuter plural with indeclinable ca",
+     "morph": "n.nom/acc.pl.n + (indecl.)"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gayatri",
+     "grounds": "feminine noun naming the gayatri mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūrtimantrāśca",
+     "gloss": "form-mantras-and",
+     "grounds": "compound mūrti+mantra in masculine plural with indeclinable ca",
+     "morph": "m.nom.pl.m + (indecl.)"
+    },
+    {
+     "surface": "sa smṛtaḥ",
+     "gloss": "he-remembered",
+     "grounds": "pronoun sa with passive participle smṛta from root smṛ",
+     "morph": "pron.m.nom.sg + part.pass.m.nom.sg"
+    }
+   ],
+   "question": "Which elements are remembered as root-limbs, gayatri, and form-mantras?",
+   "premises": [
+    "Root-limbs are included.",
+    "Gayatri is included.",
+    "Form-mantras are included."
+   ],
+   "inference": "He is remembered together with these elements.",
+   "uncertainties": [
+    "Exact referent of sa is unclear.",
+    "Case role of mūlāṅgāni is ambiguous."
+   ],
+   "plain_english": "The root-limbs, gayatri, and form-mantras too—he is remembered."
+  }
+ ]
+}

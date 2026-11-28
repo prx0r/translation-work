@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p552",
+ "items": [
+  {
+   "verse": 13800,
+   "rows": [
+    {
+     "surface": "ṣaṭ+koṇa+antaḥ",
+     "gloss": "within-six-corner",
+     "grounds": "compound indicating the interior of a six-cornered figure",
+     "morph": "compound"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive verbal form directing the ritual action",
+     "morph": "3.sg.optative.active (√likh)"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "names the seed-syllable or mantra element to be inscribed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhya+ākhyāṃ",
+     "gloss": "target-name",
+     "grounds": "compound denoting the name of the intended target",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "karma+saṃyutām",
+     "gloss": "joined-with-objective",
+     "grounds": "compound qualifying the target name as linked with the ritual objective",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What inscription must be placed within the six-cornered interior of the diagram?",
+   "premises": [
+    "The action prescribed is writing within the six-cornered interior.",
+    "The kāma-seed is the element to be written.",
+    "The target's name joined with the objective must accompany it."
+   ],
+   "inference": "One should write the kāma-seed together with the target's name joined to the ritual objective inside the six-cornered interior.",
+   "uncertainties": [
+    "Whether kāmaṃ refers specifically to the bīja syllable or a broader mantra form is not explicit in this verse alone."
+   ],
+   "plain_english": "Inside the six-cornered area, one should write the kāma-seed along with the name of the target, joined with the intended objective."
+  }
+ ]
+}

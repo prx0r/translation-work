@@ -1,0 +1,1129 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "maṇipūraṃ",
+     "gloss": "to-maṇipūra",
+     "grounds": "name of energy center",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior action",
+     "morph": "gerund (gam)"
+    },
+    {
+     "surface": "snāpayen",
+     "gloss": "one-should-bathe",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-causative (snā)"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "instrument of bathing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mental bathing action must follow arrival at the maṇipūra center?",
+   "premises": [
+    "The practitioner goes to maṇipūra",
+    "Bathing is performed with the mind",
+    "The action is prescribed as an injunction"
+   ],
+   "inference": "After reaching maṇipūra, the practitioner should perform a mental bathing there.",
+   "uncertainties": [],
+   "plain_english": "Then, having gone to the maṇipūra, one should bathe it together with the mind."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "individual-soul",
+     "grounds": "object of dissolution",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mūlādhāraṃ",
+     "gloss": "into-mūlādhāra",
+     "grounds": "target energy center",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "layet",
+     "gloss": "one-should-dissolve",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-causative (lī)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where must the individual soul be dissolved after the preceding practice?",
+   "premises": [
+    "The instruction follows a prior step",
+    "The jīva is the object to be dissolved",
+    "Mūlādhāra is the specified locus"
+   ],
+   "inference": "The practitioner should dissolve the individual soul into the mūlādhāra.",
+   "uncertainties": [],
+   "plain_english": "Then, O great goddess, O beloved, one should dissolve the individual soul into the mūlādhāra."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "saṃhatya",
+     "gloss": "having-united",
+     "grounds": "prior combining action",
+     "morph": "gerund (han+sam)"
+    },
+    {
+     "surface": "sadasatkarma",
+     "gloss": "good-and-bad-actions",
+     "grounds": "compound object of union",
+     "morph": "n.acc.sg (compound: sat+asat+karma)"
+    },
+    {
+     "surface": "jīvaḥ",
+     "gloss": "individual-soul",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "everything",
+     "grounds": "scope of action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present activity",
+     "morph": "3.sg.present-active (kṛ)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do united good and bad actions condition the individual soul’s activity?",
+   "premises": [
+    "Good and bad actions are united",
+    "The jīva is the agent",
+    "The jīva performs all actions"
+   ],
+   "inference": "By uniting good and bad actions, the individual soul indeed performs everything.",
+   "uncertainties": [],
+   "plain_english": "Having united good and bad actions, the individual soul indeed does everything."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "vāmapārśve",
+     "gloss": "on-left-side",
+     "grounds": "location of sin",
+     "morph": "n.loc.sg (compound: vāma+pārśva)"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "state of sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "subject located",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puruṣeṇa",
+     "gloss": "by-person",
+     "grounds": "associated agent",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conditional time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Under what condition is sin said to be situated on a person’s left side?",
+   "premises": [
+    "Sin is located on the left side",
+    "The condition concerns a person",
+    "The statement is framed temporally"
+   ],
+   "inference": "Sin is situated on the left side when it pertains to the person in that condition.",
+   "uncertainties": [
+    "The exact syntactic role of puruṣeṇa in this fragment is context-dependent."
+   ],
+   "plain_english": "O beloved, when sin is situated on the left side by the person."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "pāpasya",
+     "gloss": "of-sin",
+     "grounds": "entity entering union",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saṃyogaḥ",
+     "gloss": "union",
+     "grounds": "event described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "condition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "occurrence of union",
+     "morph": "3.sg.present-middle (jan)"
+    }
+   ],
+   "question": "What consequence follows if a union with sin arises for the soul?",
+   "premises": [
+    "A union of sin is possible",
+    "The union may arise conditionally",
+    "The condition is addressed to the goddess"
+   ],
+   "inference": "The arising of union with sin is presented as a conditional state with consequences.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, if a union with sin arises."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "śuddhasattvātmako",
+     "gloss": "pure-sattva-natured",
+     "grounds": "quality of the jīva",
+     "morph": "m.nom.sg (compound: śuddha+sattva+ātmaka)"
+    },
+    {
+     "surface": "jīvastasya",
+     "gloss": "that-individual-soul",
+     "grounds": "subject in that state",
+     "morph": "m.nom.sg (compound: jīva+tasya)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "task",
+     "grounds": "possible action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "from-where",
+     "grounds": "rhetorical negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What action remains possible for a soul whose nature is pure sattva?",
+   "premises": [
+    "The jīva is of pure sattva nature",
+    "A task or action is questioned",
+    "The question implies impossibility"
+   ],
+   "inference": "For a soul of pure sattva nature, no such task can arise.",
+   "uncertainties": [
+    "The fused form jīvastasya is read as jīvaḥ tasya in sense but kept as one token."
+   ],
+   "plain_english": "O beloved, how could that individual soul, whose nature is pure sattva, have any such task?"
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "jīvasya",
+     "gloss": "of-individual-soul",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāmapārśve",
+     "gloss": "on-left-side",
+     "grounds": "location",
+     "morph": "n.loc.sg (compound: vāma+pārśva)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "state of presence",
+     "morph": "3.sg.present-active (sthā)"
+    },
+    {
+     "surface": "pāpadhṛk",
+     "gloss": "sin-bearer",
+     "grounds": "entity present",
+     "morph": "m.nom.sg (compound: pāpa+dhṛk)"
+    }
+   ],
+   "question": "Where does the bearer of sin stand in relation to the individual soul?",
+   "premises": [
+    "The context follows the prior condition",
+    "The left side of the jīva is specified",
+    "A sin-bearer is present"
+   ],
+   "inference": "Then the bearer of sin stands on the left side of the individual soul.",
+   "uncertainties": [],
+   "plain_english": "But then the bearer of sin stands on the left side of the individual soul."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "unmajjanti",
+     "gloss": "they-rise",
+     "grounds": "upward movement",
+     "morph": "3.pl.present-active (majj+ud)"
+    },
+    {
+     "surface": "nimajjanti",
+     "gloss": "they-sink",
+     "grounds": "downward movement",
+     "morph": "3.pl.present-active (majj+ni)"
+    },
+    {
+     "surface": "prapañceṣu",
+     "gloss": "in-manifestations",
+     "grounds": "sphere of movement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śucismite",
+     "gloss": "o-pure-smiled-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound: śuci+smita)"
+    }
+   ],
+   "question": "What alternating movement characterizes beings within the manifold manifestations?",
+   "premises": [
+    "Rising and sinking occur",
+    "The sphere is the manifested world",
+    "The actions are ongoing"
+   ],
+   "inference": "Beings rise and sink within the manifold manifestations.",
+   "uncertainties": [
+    "The subject of the plural verbs is implied by context."
+   ],
+   "plain_english": "O pure-smiled one, they rise and sink within the manifold manifestations."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "jāgratsvapnasuṣuptyavasthāṃ",
+     "gloss": "waking-dream-deep-sleep-state",
+     "grounds": "threefold state",
+     "morph": "f.acc.sg (compound: jāgrat+svapna+suṣupti+avasthā)"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "addition",
+     "morph": "(indecl.) (compound: ca+api)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which threefold state of consciousness is additionally brought into view?",
+   "premises": [
+    "Waking, dream, and deep sleep are named",
+    "They form a single state-complex",
+    "The reference is added to the prior context"
+   ],
+   "inference": "The state of waking, dream, and deep sleep is also included.",
+   "uncertainties": [
+    "This verse is syntactically dependent on surrounding verses."
+   ],
+   "plain_english": "And also the state of waking, dream, and deep sleep, O supreme goddess."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "kuṇḍalinī",
+     "grounds": "divine power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yātāyātaṃ",
+     "gloss": "going-and-coming",
+     "grounds": "repeated movement",
+     "morph": "n.acc.sg (compound: yāta+āyāta)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "action performed",
+     "morph": "3.sg.present-active (kṛ)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What movement does kuṇḍalinī perform within that threefold state context?",
+   "premises": [
+    "Kuṇḍalinī is present there",
+    "Going and coming is attributed to her",
+    "The action is affirmed emphatically"
+   ],
+   "inference": "There kuṇḍalinī indeed performs a movement of going and coming.",
+   "uncertainties": [],
+   "plain_english": "There, O goddess, kuṇḍalinī indeed makes the movement of going and coming."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "kadācit",
+     "gloss": "sometimes",
+     "grounds": "occasional time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklapadmaṃ",
+     "gloss": "white-lotus",
+     "grounds": "one destination",
+     "morph": "n.acc.sg (compound: śukla+padma)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnipadmaṃ",
+     "gloss": "fire-lotus",
+     "grounds": "other destination",
+     "morph": "n.acc.sg (compound: vahni+padma)"
+    },
+    {
+     "surface": "kadā",
+     "gloss": "sometimes",
+     "grounds": "alternate time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which alternating lotuses does kuṇḍalinī reach at different times?",
+   "premises": [
+    "Movement occurs at different times",
+    "A white lotus is reached",
+    "A fire lotus is reached"
+   ],
+   "inference": "Kuṇḍalinī sometimes reaches the white lotus and sometimes the fire lotus.",
+   "uncertainties": [
+    "The subject kuṇḍalinī is carried over from the previous verse."
+   ],
+   "plain_english": "Sometimes indeed to the white lotus, and sometimes, O beloved, to the fire lotus."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "prapañcānāṃ",
+     "gloss": "of-manifestations",
+     "grounds": "domain described",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devānucaramuttamam",
+     "gloss": "supreme-attendant-of-gods",
+     "grounds": "object of knowledge",
+     "morph": "m.acc.sg (compound: deva+anucara+uttama)"
+    }
+   ],
+   "question": "What supreme attendant within the manifestations becomes an object of knowledge?",
+   "premises": [
+    "The context concerns manifestations",
+    "A supreme attendant of the gods is named",
+    "This figure is presented for knowing"
+   ],
+   "inference": "The supreme attendant of the gods within the manifestations is identified as knowable.",
+   "uncertainties": [
+    "The verse is syntactically linked to the following verse."
+   ],
+   "plain_english": "O great goddess, the supreme attendant of the gods among the manifestations."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "yajjñātvā",
+     "gloss": "having-known-which",
+     "grounds": "prior knowledge",
+     "morph": "gerund (jñā) (compound: yat+jñātvā)"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "agent who knows",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvasiddhim",
+     "gloss": "all-accomplishment",
+     "grounds": "result obtained",
+     "morph": "f.acc.sg (compound: sarva+siddhi)"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "attainable result",
+     "morph": "3.sg.optative-active (āp+ava)"
+    }
+   ],
+   "question": "What attainment follows when a practitioner knows that supreme attendant?",
+   "premises": [
+    "The practitioner gains specific knowledge",
+    "All accomplishment is named as a result",
+    "The result is expressed as attainable"
+   ],
+   "inference": "By knowing that, the practitioner may obtain all accomplishment.",
+   "uncertainties": [],
+   "plain_english": "O goddess, having known which, the practitioner may obtain all accomplishment."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessor of affection",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "snehān",
+     "gloss": "from-affection",
+     "grounds": "reason for speaking",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nigadāmi",
+     "gloss": "i-declare",
+     "grounds": "speaker’s act",
+     "morph": "1.sg.present-active (gad+ni)"
+    },
+    {
+     "surface": "śucismite",
+     "gloss": "o-pure-smiled-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound: śuci+smita)"
+    }
+   ],
+   "question": "Why does the speaker declare the following teachings to the goddess?",
+   "premises": [
+    "The speaker performs an act of declaration",
+    "Affection toward the goddess is cited",
+    "The declaration introduces further teaching"
+   ],
+   "inference": "Out of affection for the goddess, the speaker declares the teaching.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, O pure-smiled one, out of affection for you I declare this."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "kaumārī",
+     "gloss": "kaumārī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "vaiṣṇavī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nārasiṃhī",
+     "gloss": "nārasiṃhī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are first enumerated in this sequence of divine powers?",
+   "premises": [
+    "Multiple goddess names are listed",
+    "The list is part of a declaration",
+    "The names identify distinct powers"
+   ],
+   "inference": "Kaumārī, Vaiṣṇavī, Durgā, Nārasiṃhī, and Kālikā are enumerated.",
+   "uncertainties": [],
+   "plain_english": "Kaumārī, Vaiṣṇavī, Durgā, Nārasiṃhī, and Kālikā."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "śāṅkarī",
+     "gloss": "śāṅkarī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayantī",
+     "gloss": "jayantī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśuddhapadmasaṃsthitā",
+     "gloss": "situated-in-pure-lotus",
+     "grounds": "location of these powers",
+     "morph": "f.nom.sg (compound: viśuddha+padma+saṃsthitā)"
+    }
+   ],
+   "question": "Where are śāṅkarī and jayantī said to be situated in this enumeration?",
+   "premises": [
+    "Śāṅkarī and Jayantī are named",
+    "A location is specified",
+    "The location is the pure lotus"
+   ],
+   "inference": "Śāṅkarī and Jayantī are situated in the pure lotus.",
+   "uncertainties": [
+    "The exact lotus center intended by viśuddhapadma is tradition-dependent."
+   ],
+   "plain_english": "And Śāṅkarī and Jayantī, situated in the pure lotus."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "śākambharī",
+     "gloss": "śākambharī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīmā",
+     "gloss": "bhīmā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāṇḍā",
+     "gloss": "gāṇḍā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmarī",
+     "gloss": "bhrāmarī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional goddesses continue the enumeration of divine powers?",
+   "premises": [
+    "Further goddess names are listed",
+    "The list continues the prior sequence",
+    "The names are presented in parallel"
+   ],
+   "inference": "Śākambharī, Bhīmā, Gāṇḍā, and Bhrāmarī are added to the enumeration.",
+   "uncertainties": [],
+   "plain_english": "And Śākambharī, and Bhīmā, and Gāṇḍā, and likewise Bhrāmarī."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "etāstu",
+     "gloss": "these-indeed",
+     "grounds": "collective reference",
+     "morph": "f.nom.pl (compound: etāḥ+tu)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hṛtpadme",
+     "gloss": "in-heart-lotus",
+     "grounds": "location",
+     "morph": "n.loc.sg (compound: hṛt+padma)"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "situated",
+     "grounds": "state of presence",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "permanence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are these enumerated goddesses said to be permanently situated?",
+   "premises": [
+    "A group of goddesses is referred to collectively",
+    "Their location is specified as the heart lotus",
+    "Their presence is described as constant"
+   ],
+   "inference": "These goddesses are always situated in the heart lotus.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, these are always situated in the heart lotus."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "aparṇā",
+     "gloss": "aparṇā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmā",
+     "gloss": "vāmā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahodarī",
+     "gloss": "mahodarī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are named in the next group of the enumeration?",
+   "premises": [
+    "Another set of names is introduced",
+    "The enumeration continues",
+    "The names are given in parallel"
+   ],
+   "inference": "Aparṇā, Vāmā, and Mahodarī are named in this group.",
+   "uncertainties": [],
+   "plain_english": "And Aparṇā, O great goddess, and likewise Vāmā and Mahodarī."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "kṣemaṅkarī",
+     "gloss": "kṣemaṅkarī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deviśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "maṇipūre",
+     "gloss": "in-maṇipūra",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "state of presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "permanence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is kṣemaṅkarī said to be permanently situated among the centers?",
+   "premises": [
+    "Kṣemaṅkarī is named",
+    "A specific center is identified",
+    "Her presence there is constant"
+   ],
+   "inference": "Kṣemaṅkarī is always situated in the maṇipūra.",
+   "uncertainties": [
+    "The form deviśi is an unusual vocative; taken as address to the goddess."
+   ],
+   "plain_english": "And Kṣemaṅkarī, O goddess, is always situated in the maṇipūra."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "caṇḍā",
+     "gloss": "caṇḍā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.) (compound: ca+eva)"
+    },
+    {
+     "surface": "pracaṇḍā",
+     "gloss": "pracaṇḍā",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍanāyakasevitā",
+     "gloss": "served-by-caṇḍa-lord",
+     "grounds": "associated attendant",
+     "morph": "f.nom.sg (compound: caṇḍa+nāyaka+sevitā)"
+    }
+   ],
+   "question": "Which fierce goddesses are named together with service by caṇḍanāyaka?",
+   "premises": [
+    "Caṇḍā and Pracaṇḍā are named",
+    "Service by Caṇḍanāyaka is attributed",
+    "The group is presented together"
+   ],
+   "inference": "Caṇḍā and Pracaṇḍā are named as served by Caṇḍanāyaka.",
+   "uncertainties": [],
+   "plain_english": "And Caṇḍā and also Pracaṇḍā, served by Caṇḍanāyaka."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "mahādevī",
+     "gloss": "mahādevī",
+     "grounds": "named goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.) (compound: tathā+eva)"
+    },
+    {
+     "surface": "moharupiṇī",
+     "gloss": "delusion-formed",
+     "grounds": "descriptive epithet",
+     "morph": "f.nom.sg (compound: moha+rūpiṇī)"
+    }
+   ],
+   "question": "What additional goddess and form are included in this part of the enumeration?",
+   "premises": [
+    "Mahādevī is named",
+    "A form characterized by delusion is named",
+    "The enumeration continues"
+   ],
+   "inference": "Mahādevī and the one whose form is delusion are included.",
+   "uncertainties": [
+    "moharupiṇī may be an epithet or a distinct name depending on tradition."
+   ],
+   "plain_english": "Mahādevī, O great goddess, and likewise the one whose form is delusion."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "etāstu",
+     "gloss": "these-indeed",
+     "grounds": "collective reference",
+     "morph": "f.nom.pl (compound: etāḥ+tu)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mūlādhāre",
+     "gloss": "in-mūlādhāra",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "state of presence",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "permanence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are these goddesses of the group said to be permanently situated?",
+   "premises": [
+    "A group of goddesses is referred to collectively",
+    "Their location is specified as mūlādhāra",
+    "Their presence is described as constant"
+   ],
+   "inference": "These goddesses are always situated in the mūlādhāra.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, these are always situated in the mūlādhāra."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "akṣaraṃ",
+     "gloss": "imperishable-syllable",
+     "grounds": "entity located",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yugalaṃ",
+     "gloss": "pair",
+     "grounds": "dual form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ājñācakre",
+     "gloss": "in-ājñā-center",
+     "grounds": "location",
+     "morph": "n.loc.sg (compound: ājñā+cakra)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "state of presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "permanence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What imperishable pair is said to be permanently situated in the ājñā center?",
+   "premises": [
+    "An imperishable pair is named",
+    "The ājñā center is specified as its location",
+    "Its presence there is constant"
+   ],
+   "inference": "The imperishable pair is always situated in the ājñā center.",
+   "uncertainties": [
+    "The specific identity of the akṣara pair is not explicit in this verse."
+   ],
+   "plain_english": "O goddess, the imperishable pair is always situated in the ājñā center."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "tṛtīyakūṭākṣara",
+     "gloss": "third-peak-syllable",
+     "grounds": "third peak syllable of the mantra",
+     "morph": "compound=tṛtīya+kūṭa+akṣara"
+    },
+    {
+     "surface": "ṣaṭkona",
+     "gloss": "hexagram",
+     "grounds": "six-pointed figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktakramāt",
+     "gloss": "stated-order",
+     "grounds": "in the order stated",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nyāsatrayaṃ",
+     "gloss": "three-nyasas",
+     "grounds": "three placements",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāditi",
+     "gloss": "should-do-thus",
+     "grounds": "optative of kṛ plus quotative particle",
+     "morph": "3.sg.opt.+iti"
+    }
+   ],
+   "question": "How should the third peak syllable be placed in the hexagram according to stated order?",
+   "premises": [
+    "third peak syllable is placed",
+    "hexagram uses stated order",
+    "three nyasas are performed"
+   ],
+   "inference": "practitioner performs three nyasas with third peak syllable in hexagram order",
+   "uncertainties": [
+    "exact nyasa locations not specified in this verse"
+   ],
+   "plain_english": "One should perform the three nyasas with the third peak syllable in the hexagram, in the stated order."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "passive present of kṛ",
+     "morph": "3.sg.pass-pres + root kṛ"
+    },
+    {
+     "surface": "parameśāna",
+     "gloss": "o-paramēśāna",
+     "grounds": "vocative address to supreme lord",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "neuter pronoun object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative first person",
+     "morph": "dat.sg.1"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "imperative of kath",
+     "morph": "2.sg.impv.act + root kath"
+    },
+    {
+     "surface": "sāmpratam",
+     "gloss": "now",
+     "grounds": "adverb of present time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should Paramēśāna disclose to the devotee now that the prior rite has been completed?",
+   "premises": [
+    "The rite has been completed.",
+    "The devotee requests instruction.",
+    "The request is addressed to Paramēśāna."
+   ],
+   "inference": "The verse marks a transition from completed rite to further teaching.",
+   "uncertainties": [
+    "The exact referent of 'that' is not specified in this verse."
+   ],
+   "plain_english": "That is done, O Paramēśāna; tell me now."
+  }
+ ]
+}

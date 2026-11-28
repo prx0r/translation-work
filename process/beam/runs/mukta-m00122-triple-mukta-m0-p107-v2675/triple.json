@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "nava+yoniṃ",
+     "gloss": "nine-yoni",
+     "grounds": "compound of nava (nine) and yoni (source/womb), accusative object of kuryyāt",
+     "morph": "acc.sg.f."
+    },
+    {
+     "surface": "prokta+mānena",
+     "gloss": "by-stated-measure",
+     "grounds": "compound of prokta (stated) and māna (measure), instrumental means",
+     "morph": "instr.sg.m."
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescription of ritual making, root kṛ",
+     "morph": "opt.3sg.act. root kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the nine-yoni be constructed according to the stated measure?",
+   "premises": [
+    "The nine-yoni is the object to be made.",
+    "The stated measure governs the construction.",
+    "The optative verb prescribes ritual action."
+   ],
+   "inference": "The verse prescribes making the nine-yoni by the stated measure.",
+   "uncertainties": [
+    "The exact ritual referent of yoni remains context-dependent."
+   ],
+   "plain_english": "Thus one should make the nine-yoni by the stated measure."
+  }
+ ]
+}

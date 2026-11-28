@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p173",
+ "items": [
+  {
+   "verse": 4325,
+   "rows": [
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "the one targeted by the ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "the fatal outcome obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "reaches or attains the stated result",
+     "morph": "3.sg.act-pres; √āp"
+    },
+    {
+     "surface": "mohitaḥ",
+     "gloss": "deluded",
+     "grounds": "bewildered or deprived of clear awareness",
+     "morph": "m.nom.sg; ppp; √muh"
+    }
+   ],
+   "question": "What fatal consequence befalls a deluded enemy targeted by this ritual action?",
+   "premises": [
+    "The enemy is in a deluded state.",
+    "The ritual action reaches its intended target.",
+    "Death is the outcome attained by that target."
+   ],
+   "inference": "A deluded enemy subjected to this ritual action obtains death.",
+   "uncertainties": [],
+   "plain_english": "The deluded enemy meets death."
+  }
+ ]
+}

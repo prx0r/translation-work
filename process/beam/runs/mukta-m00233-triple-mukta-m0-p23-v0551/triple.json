@@ -1,0 +1,893 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "stūpyantam",
+     "gloss": "up-to-finial",
+     "grounds": "legacy hint",
+     "morph": "part.indecl."
+    },
+    {
+     "surface": "uttarād+ūrdhvaṃ",
+     "gloss": "above-upper-beam",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "sixfold",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaktaṃ",
+     "gloss": "divided",
+     "grounds": "legacy hint",
+     "morph": "part.m.nom.sg"
+    },
+    {
+     "surface": "la",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gopuram",
+     "gloss": "gate-tower",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "How is the gate-tower divided above the upper beam?",
+   "premises": [
+    "stūpyantam means up to finial",
+    "uttarād+ūrdhvaṃ means above upper beam",
+    "ṣoḍhā means sixfold"
+   ],
+   "inference": "The gate-tower is divided sixfold above the upper beam up to the finial.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The gate-tower is divided sixfold above the upper beam up to the finial."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "kandhara+utsedhaḥ",
+     "gloss": "neck-height",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "sa+tripāda+aṃśakaṃ",
+     "gloss": "with-three-quarter-part",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "dome",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "What proportion of the neck height forms the dome?",
+   "premises": [
+    "kandhara+utsedhaḥ means neck height",
+    "sa+tripāda+aṃśakaṃ means with three-quarter part",
+    "śiraḥ means dome"
+   ],
+   "inference": "The dome is a three-quarter part of the neck height.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The dome is three-quarters of the neck height."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "dvitala+ādīnāṃ",
+     "gloss": "of-two-storeys-etc",
+     "grounds": "legacy hint",
+     "morph": "n.m.gen.pl"
+    },
+    {
+     "surface": "tala+ādhikya+vibhāgataḥ",
+     "gloss": "by-storey-increase-division",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are storey increases divided for two-storeyed and higher structures?",
+   "premises": [
+    "dvitala+ādīnāṃ means of two storeys etc",
+    "tala+ādhikya+vibhāgataḥ means by storey increase division"
+   ],
+   "inference": "Storey increases are divided according to the number of storeys.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Storey increases are divided according to the number of storeys."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "gopura+vyāsa+pañcāṃśe",
+     "gloss": "in-gate-tower-width-fifth-part",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "garbhāgāra",
+     "gloss": "sanctum",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "tribhāgataḥ",
+     "gloss": "by-three-parts",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the sanctum measured in the gate-tower width?",
+   "premises": [
+    "gopura+vyāsa+pañcāṃśe means in gate-tower width fifth part",
+    "garbhāgāra means sanctum",
+    "tribhāgataḥ means by three parts"
+   ],
+   "inference": "The sanctum is measured by three parts of the fifth part of gate-tower width.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The sanctum is measured by three parts of the fifth part of the gate-tower width."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "gopura+vyāse",
+     "gloss": "in-gate-tower-width",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "garbhaṃ",
+     "gloss": "sanctum",
+     "grounds": "legacy hint",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturaṃśakaiḥ",
+     "gloss": "by-four-parts",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the sanctum measured in the gate-tower width?",
+   "premises": [
+    "gopura+vyāse means in gate-tower width",
+    "garbhaṃ means sanctum",
+    "caturaṃśakaiḥ means by four parts"
+   ],
+   "inference": "The sanctum is measured by four parts of the gate-tower width.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The sanctum is measured by four parts of the gate-tower width."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "kūṭa+vistāraṃ",
+     "gloss": "kūṭa-width",
+     "grounds": "legacy hint",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tribhiḥ+aṃśaiḥ",
+     "gloss": "by-three-parts",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "koṣṭhakam",
+     "gloss": "koṣṭha",
+     "grounds": "legacy hint",
+     "morph": "n.m.acc.sg"
+    }
+   ],
+   "question": "How is the kūṭa width measured for the koṣṭha?",
+   "premises": [
+    "kūṭa+vistāraṃ means kūṭa width",
+    "tribhiḥ+aṃśaiḥ means by three parts",
+    "koṣṭhakam means koṣṭha"
+   ],
+   "inference": "The kūṭa width is measured by three parts for the koṣṭha.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The kūṭa width is measured by three parts for the koṣṭha."
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "yathā+śobhaṃ",
+     "gloss": "according-to-beauty",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvitalaṃ",
+     "gloss": "two-storeyed",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gate-tower",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "How should a two-storeyed gate-tower be made?",
+   "premises": [
+    "yathā+śobhaṃ means according to beauty",
+    "dvitalaṃ means two-storeyed",
+    "gopuraṃ means gate-tower",
+    "bhavet means should be"
+   ],
+   "inference": "A two-storeyed gate-tower should be made according to beauty.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "A two-storeyed gate-tower should be made according to beauty."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "śarabhaumaṃ",
+     "gloss": "five-storeyed",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt+root as"
+    },
+    {
+     "surface": "sūryāṃśe",
+     "gloss": "in-twelve-parts",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "ṣaṭtale",
+     "gloss": "six-storeyed",
+     "grounds": "legacy hint",
+     "morph": "adj.m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should five-storeyed and six-storeyed structures be proportioned?",
+   "premises": [
+    "śarabhaumaṃ means five-storeyed",
+    "syāt means should be",
+    "sūryāṃśe means in twelve parts",
+    "ṣaṭtale means six-storeyed",
+    "tathā means likewise"
+   ],
+   "inference": "Five-storeyed and six-storeyed structures should be proportioned in twelve parts.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Five-storeyed and six-storeyed structures should be proportioned in twelve parts."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "mūla+dvārasya",
+     "gloss": "of-main-door",
+     "grounds": "legacy hint",
+     "morph": "n.m.gen.sg"
+    },
+    {
+     "surface": "vistārād",
+     "gloss": "from-width",
+     "grounds": "legacy hint",
+     "morph": "n.m.abl.sg"
+    },
+    {
+     "surface": "veda+śonaṃ",
+     "gloss": "less-by-four",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "śara+aṃśataḥ",
+     "gloss": "in-five-parts",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the main door width reduced in five parts?",
+   "premises": [
+    "mūla+dvārasya means of main door",
+    "vistārād means from width",
+    "veda+śonaṃ means less by four",
+    "śara+aṃśataḥ means in five parts"
+   ],
+   "inference": "The main door width is reduced by four in five parts.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The main door width is reduced by four in five parts."
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "sopānam",
+     "gloss": "stairway",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "upari+upari",
+     "gloss": "above-above",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt+root nyas"
+    }
+   ],
+   "question": "Where should the stairway be placed?",
+   "premises": [
+    "sopānam means stairway",
+    "upari+upari means above above",
+    "vinyaset means one should place"
+   ],
+   "inference": "The stairway should be placed above and above.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The stairway should be placed above and above."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "yathā+śobhaṃ",
+     "gloss": "according-to-beauty",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojyaṃ",
+     "gloss": "to-be-arranged",
+     "grounds": "legacy hint",
+     "morph": "part.m.nom.sg"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "legacy hint",
+     "morph": "n.m.ins.pl"
+    }
+   ],
+   "question": "How should arrangements be made by the wise?",
+   "premises": [
+    "yathā+śobhaṃ means according to beauty",
+    "tathā means so",
+    "yojyaṃ means to be arranged",
+    "vicakṣaṇaiḥ means by the wise"
+   ],
+   "inference": "Arrangements should be made by the wise according to beauty.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Arrangements should be made by the wise according to beauty."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "legacy hint",
+     "morph": "verb.3.sg.act-opt+root kṛ"
+    },
+    {
+     "surface": "ākṛti+śobhā+ādyaṃ",
+     "gloss": "form-beauty-etc",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "vimāna+bhavana+ādiṣu",
+     "gloss": "in-vimāna-building-etc",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.pl"
+    }
+   ],
+   "question": "What should be made in vimāna and building contexts?",
+   "premises": [
+    "kuryāt means one should make",
+    "ākṛti+śobhā+ādyaṃ means form beauty etc",
+    "vimāna+bhavana+ādiṣu means in vimāna building etc"
+   ],
+   "inference": "One should make form-beauty-etc in vimāna and building contexts.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "One should make form-beauty-etc in vimāna and building contexts."
+  },
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "ramyaṃ",
+     "gloss": "delightful",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "[g:",
+     "gloss": "g",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mya",
+     "gloss": "mya",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "]",
+     "gloss": "bracket",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahā+dvāraṃ",
+     "gloss": "great-door",
+     "grounds": "legacy hint",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulatory",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "What kind of great door is circumambulatory?",
+   "premises": [
+    "ramyaṃ means delightful",
+    "mahā+dvāraṃ means great door",
+    "pradakṣiṇam means circumambulatory"
+   ],
+   "inference": "A delightful great door is circumambulatory.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "A delightful great door is circumambulatory."
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "ūha+pratyūha+śobhā+āḍhyaṃ",
+     "gloss": "endowed-with-ūha-pratyūha-beauty",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "dvi+sapta",
+     "gloss": "with-fourteen",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "mu(pa?",
+     "gloss": "mu-pa",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kha",
+     "gloss": "kha",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is endowed with ūha, pratyūha, and beauty?",
+   "premises": [
+    "ūha+pratyūha+śobhā+āḍhyaṃ means endowed with ūha pratyūha beauty",
+    "dvi+sapta means with fourteen"
+   ],
+   "inference": "The structure is endowed with ūha, pratyūha, and beauty, with fourteen.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure is endowed with ūha, pratyūha, and beauty, with fourteen."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "pārśve",
+     "gloss": "on-sides",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "legacy hint",
+     "morph": "part.indecl."
+    },
+    {
+     "surface": "pūrva+talaṃ",
+     "gloss": "previous-storey",
+     "grounds": "legacy hint",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is left on the sides before proceeding again?",
+   "premises": [
+    "pārśve means on sides",
+    "tyaktvā means having left",
+    "pūrva+talaṃ means previous storey",
+    "punaḥ means again"
+   ],
+   "inference": "Having left the previous storey on the sides, one proceeds again.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "Having left the previous storey on the sides, one proceeds again."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "eka+deva+sabhā+śīirṣaṃ",
+     "gloss": "with-one-deva-hall-crest",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "ṣaṇ+mahā+nāsikā+anvitam",
+     "gloss": "endowed-with-six-great-nāsikās",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "What crest and nāsikā features are described?",
+   "premises": [
+    "eka+deva+sabhā+śīirṣaṃ means with one deva hall crest",
+    "ṣaṇ+mahā+nāsikā+anvitam means endowed with six great nāsikās"
+   ],
+   "inference": "The structure has one deva-hall crest and six great nāsikās.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure has one deva-hall crest and six great nāsikās."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "parito",
+     "gloss": "all-around",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāga+vṛddhyā",
+     "gloss": "by-part-increase",
+     "grounds": "legacy hint",
+     "morph": "n.f.ins.sg"
+    },
+    {
+     "surface": "sa+gaṇḍimam",
+     "gloss": "with-gaṇḍi",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "How is the gaṇḍi increased all around?",
+   "premises": [
+    "parito means all around",
+    "bhāga+vṛddhyā means by part increase",
+    "sa+gaṇḍimam means with gaṇḍi"
+   ],
+   "inference": "The gaṇḍi is increased all around by part increase.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The gaṇḍi is increased all around by part increase."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "legacy hint",
+     "morph": "n.f.ins.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "legacy hint",
+     "morph": "part.m.acc.sg"
+    },
+    {
+     "surface": "bhavya+abhidhānakam",
+     "gloss": "having-beautiful-name",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "What is endowed with devotion and a beautiful name?",
+   "premises": [
+    "bhaktyā means with devotion",
+    "yuktaṃ means endowed",
+    "bhavya+abhidhānakam means having beautiful name"
+   ],
+   "inference": "The structure is endowed with devotion and a beautiful name.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure is endowed with devotion and a beautiful name."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "karṇeṣu",
+     "gloss": "at-corners",
+     "grounds": "legacy hint",
+     "morph": "n.m.loc.pl"
+    },
+    {
+     "surface": "pauṣṭikaṃ",
+     "gloss": "pauṣṭika",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gopuram",
+     "gloss": "gate-tower",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "What gate-tower is named pauṣṭika at the corners?",
+   "premises": [
+    "karṇeṣu means at corners",
+    "pauṣṭikaṃ means pauṣṭika",
+    "nāma means by name",
+    "gopuram means gate-tower"
+   ],
+   "inference": "The gate-tower named pauṣṭika is at the corners.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The gate-tower named pauṣṭika is at the corners."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "khaṇḍa+harmya+patākā+āḍhyaṃ",
+     "gloss": "endowed-with-broken-palace-flags",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "sumaṇḍa+ākhyaṃ",
+     "gloss": "named-sumaṇḍa",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gopuram",
+     "gloss": "gate-tower",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "What gate-tower is named sumaṇḍa and endowed with broken palace flags?",
+   "premises": [
+    "khaṇḍa+harmya+patākā+āḍhyaṃ means endowed with broken palace flags",
+    "sumaṇḍa+ākhyaṃ means named sumaṇḍa",
+    "gopuram means gate-tower"
+   ],
+   "inference": "The gate-tower named sumaṇḍa is endowed with broken palace flags.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The gate-tower named sumaṇḍa is endowed with broken palace flags."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "sa+stambha+kūṭa+śālaṃ",
+     "gloss": "with-pillars-kūṭa-śālā",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "sa+toraṇam",
+     "gloss": "with-toraṇa",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "What features accompany the pillars, kūṭa, and śālā?",
+   "premises": [
+    "sa+stambha+kūṭa+śālaṃ means with pillars kūṭa śālā",
+    "sa+toraṇam means with toraṇa"
+   ],
+   "inference": "The structure has pillars, kūṭa, śālā, and toraṇa.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure has pillars, kūṭa, śālā, and toraṇa."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "deva+śreṣṭha+narendra+arhaṃ",
+     "gloss": "suitable-for-god-best-king-best",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "subhadraṃ",
+     "gloss": "subhadra",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gopuram",
+     "gloss": "gate-tower",
+     "grounds": "legacy hint",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "What gate-tower is named subhadra and suitable for gods and kings?",
+   "premises": [
+    "deva+śreṣṭha+narendra+arhaṃ means suitable for god best king best",
+    "subhadraṃ means subhadra",
+    "gopuram means gate-tower"
+   ],
+   "inference": "The gate-tower named subhadra is suitable for gods and kings.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The gate-tower named subhadra is suitable for gods and kings."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "catur+nāsī+sāṅga+avayava+sundaram",
+     "gloss": "beautiful-with-four-nāsī-limb-parts",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "What is beautiful with four nāsī limb parts?",
+   "premises": [
+    "catur+nāsī+sāṅga+avayava+sundaram means beautiful with four nāsī limb parts"
+   ],
+   "inference": "The structure is beautiful with four nāsī limb parts.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure is beautiful with four nāsī limb parts."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "aṣṭāśra+kūṭa+śālā+āḍhyaṃ",
+     "gloss": "endowed-with-octagonal-kūṭa-śālās",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "bhadrasundara+saṃjñitam",
+     "gloss": "named-bhadrasundara",
+     "grounds": "legacy hint",
+     "morph": "adj.m.acc.sg"
+    }
+   ],
+   "question": "What is named bhadrasundara and endowed with octagonal kūṭa śālās?",
+   "premises": [
+    "aṣṭāśra+kūṭa+śālā+āḍhyaṃ means endowed with octagonal kūṭa śālās",
+    "bhadrasundara+saṃjñitam means named bhadrasundara"
+   ],
+   "inference": "The structure named bhadrasundara is endowed with octagonal kūṭa śālās.",
+   "uncertainties": [
+    "legacy hints only"
+   ],
+   "plain_english": "The structure named bhadrasundara is endowed with octagonal kūṭa śālās."
+  }
+ ]
+}

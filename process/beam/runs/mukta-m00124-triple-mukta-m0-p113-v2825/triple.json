@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālānanopetaṃ",
+     "gloss": "endowed-with-hall-face",
+     "grounds": "compound śālā-ānana-upeta; accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act-opt (as)"
+    },
+    {
+     "surface": "raudram",
+     "gloss": "fierce",
+     "grounds": "neuter nominative singular adjective used as predicate name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive present of vac",
+     "morph": "3.sg.pass-pres (vac)"
+    }
+   ],
+   "question": "If the outer structure is endowed with a hall-face, what is it called?",
+   "premises": [
+    "Outer hall-face presence changes classification.",
+    "Such a structure is called raudra.",
+    "The condition is introduced by yadi."
+   ],
+   "inference": "Therefore an outer hall-faced structure is termed raudra.",
+   "uncertainties": [
+    "The exact architectural referent of śālānanopetaṃ remains uncertain."
+   ],
+   "plain_english": "If it is outside and endowed with a hall-face, it is called raudra."
+  }
+ ]
+}

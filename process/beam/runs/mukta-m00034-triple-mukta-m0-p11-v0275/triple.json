@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "nominal adjective, masculine singular, nominative; sandhi form of siddhaḥ before api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle of inclusion or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "which",
+     "grounds": "relative pronoun, masculine singular, nominative; sandhi form of yaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahir+bhāvaḥ",
+     "gloss": "external-manifestation",
+     "grounds": "compound: bahir (external) + bhāvaḥ (state, manifestation); nominative subject",
+     "morph": "bahir+bhāva (m.nom.sg)"
+    },
+    {
+     "surface": "sarvaḥ",
+     "gloss": "all",
+     "grounds": "quantifying adjective, masculine singular, nominative, agreeing with bahir+bhāvaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+vid+ātmakaḥ",
+     "gloss": "all-knowing-in-nature",
+     "grounds": "compound: sarva (all) + vid (knowing) + ātmakaḥ (consisting-of, having-nature); predicate adjective",
+     "morph": "sarva+vid+ātmaka (m.nom.sg)"
+    }
+   ],
+   "question": "What is the essential nature of every accomplished external manifestation?",
+   "premises": [
+    "An external manifestation may be accomplished.",
+    "Every such external manifestation is included without exception.",
+    "Its essential nature is characterized as all-knowing."
+   ],
+   "inference": "Therefore, every accomplished external manifestation is inherently all-knowing in nature.",
+   "uncertainties": [
+    "siddho could be read as referring to a perfected entity rather than an accomplished state, though it agrees with bahir+bhāvaḥ."
+   ],
+   "plain_english": "Even every accomplished external manifestation is, in its essence, all-knowing."
+  }
+ ]
+}

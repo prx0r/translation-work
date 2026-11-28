@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "māheśvaraṃ",
+     "gloss": "of-maheśvara",
+     "grounds": "accusative singular neuter adjective qualifying vacanaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "absolutive of śru expressing prior action",
+     "morph": "abs(śru)"
+    },
+    {
+     "surface": "vacanaṃ",
+     "gloss": "speech",
+     "grounds": "accusative singular neuter object of śrutvā",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "nominative singular masculine subject of abravīt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abravīt",
+     "gloss": "spoke",
+     "grounds": "third person singular imperfect active of brū",
+     "morph": "3.sg.act.impf(brū)"
+    }
+   ],
+   "question": "How does Viṣṇu respond upon hearing Maheśvara's speech?",
+   "premises": [
+    "Viṣṇu hears Maheśvara's speech.",
+    "The speech is the object of hearing.",
+    "Viṣṇu acts as the speaker afterward."
+   ],
+   "inference": "Viṣṇu speaks after hearing Maheśvara's words.",
+   "uncertainties": [],
+   "plain_english": "Having heard Maheśvara's speech, Viṣṇu spoke."
+  }
+ ]
+}

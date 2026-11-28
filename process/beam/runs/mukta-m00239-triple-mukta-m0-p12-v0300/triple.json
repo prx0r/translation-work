@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "ajāpayas",
+     "gloss": "goat-milk",
+     "grounds": "surface denotes goat milk; object of the cooking instruction",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "taddviguṇaṃ",
+     "gloss": "that-twice",
+     "grounds": "surface means twice that amount; modifies the milk measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śanair",
+     "gloss": "slowly",
+     "grounds": "surface is an adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudvagninā",
+     "gloss": "mud-fire",
+     "grounds": "surface names the heat source in instrumental relation",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "pacet",
+     "gloss": "should-cook",
+     "grounds": "surface is the optative cooking verb governing the preparation",
+     "morph": "v.3.sg.act.opt. root pac"
+    }
+   ],
+   "question": "Should the doubled goat milk be cooked slowly over a mud fire?",
+   "premises": [
+    "goat milk is doubled in amount",
+    "cooking proceeds slowly",
+    "mud fire is the heat source"
+   ],
+   "inference": "the recipe requires slow mud-fire cooking of doubled goat milk",
+   "uncertainties": [
+    "exact referent of 'that' is unspecified",
+    "mud-fire apparatus is unspecified"
+   ],
+   "plain_english": "Cook goat milk, twice that amount, slowly over a mud fire."
+  }
+ ]
+}

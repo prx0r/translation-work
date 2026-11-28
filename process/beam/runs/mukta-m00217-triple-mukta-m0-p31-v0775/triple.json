@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "hasroṃkṣrāṃkṣrīṃ",
+     "gloss": "seed-syllable-string",
+     "grounds": "mantra/bīja token given byte-exact in Śrīvidyā transmission; fused form kept as written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaivakṣrīṃ",
+     "gloss": "likewise-seed-syllable",
+     "grounds": "fused token as given; internal joining noted but row not split (tathaiva + seed form)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṇidvandvamataḥ",
+     "gloss": "paired-form-thus",
+     "grounds": "fused mantra/technical token as given; internal sandhi/parts not separated in row",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "common adverbial/indeclinable in ritual formulas indicating highest or beyond",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which exact seed-syllable sequence is enjoined here for this Śrīvidyā mantra recitation step?",
+   "premises": [
+    "Verse presents four fused mantra tokens in fixed order.",
+    "Śrīvidyā transmission requires byte-exact bīja forms without alteration.",
+    "The sequence joins a seed string, a likewise seed form, a paired form thus, and a supreme marker."
+   ],
+   "inference": "The verse prescribes that precise syllabic chain as the mantra unit to be uttered in that step.",
+   "uncertainties": [
+    "Exact phonemic expansion of fused mantra tokens is not determined from context alone.",
+    "Ritual placement of this quartet within the wider mantra sequence is not specified here."
+   ],
+   "plain_english": "Recite in order the seed-syllable string hasroṃkṣrāṃkṣrīṃ, then likewise the seed form tathaivakṣrīṃ, then the paired form kiṇidvandvamataḥ, concluding with param as the supreme element of this step."
+  }
+ ]
+}

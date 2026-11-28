@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "parivāreṇa",
+     "gloss": "with-retinue",
+     "grounds": "instrumental singular of parivāra, retinue",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "kṣetreśvara",
+     "gloss": "field-lord",
+     "grounds": "compound kṣetra plus īśvara; nominative singular masculine",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "gaṇeśvarau",
+     "gloss": "ganesha-lord",
+     "grounds": "compound gaṇa plus īśvara; dual masculine",
+     "morph": "compound nom/acc.du.m"
+    }
+   ],
+   "question": "Which two lords accompany the described temple with retinue?",
+   "premises": [
+    "retinue accompanies the lords",
+    "field-lord is named",
+    "ganesha-lord is named"
+   ],
+   "inference": "The verse names the field-lord and Ganesha-lord as accompanying the retinue.",
+   "uncertainties": [
+    "exact syntactic role of kṣetreśvara remains unclear"
+   ],
+   "plain_english": "With retinue, the field-lord and Ganesha-lord."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "noun āp waters; nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "punantu",
+     "gloss": "may-purify",
+     "grounds": "verb pun to purify; third plural active imperative",
+     "morph": "3.pl.act.impv. root pun"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle vai indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "noun vatsa child; vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "aghorāt+piṇḍa+mantrataḥ",
+     "gloss": "with-aghora-piṇḍa-mantra",
+     "grounds": "compound aghora-piṇḍa-mantra; ablative singular masculine, instrument or source sense",
+     "morph": "m.abl.sg compound"
+    }
+   ],
+   "question": "How do waters purify the child through the aghora piṇḍa mantra?",
+   "premises": [
+    "Waters are addressed as purifiers.",
+    "The child is vocatively invoked.",
+    "Aghora piṇḍa mantra supplies means."
+   ],
+   "inference": "The verse petitions waters to purify the child by the aghora piṇḍa mantra.",
+   "uncertainties": [
+    "Exact syntactic force of mantrataḥ remains context-dependent."
+   ],
+   "plain_english": "May the waters indeed purify you, child, by the aghora piṇḍa mantra."
+  }
+ ]
+}

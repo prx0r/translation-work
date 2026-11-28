@@ -1,0 +1,1211 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "mañjiṣṭhā",
+     "gloss": "madder",
+     "grounds": "madder plant",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇikārābhau",
+     "gloss": "karnikara-resembling",
+     "grounds": "karnikara-like",
+     "morph": "compound"
+    },
+    {
+     "surface": "raktau",
+     "gloss": "red",
+     "grounds": "red color",
+     "morph": "adj.nom.du"
+    },
+    {
+     "surface": "bījasya",
+     "gloss": "seed-of",
+     "grounds": "seed genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sannibhau",
+     "gloss": "similar",
+     "grounds": "similar pair",
+     "morph": "adj.nom.du"
+    }
+   ],
+   "question": "What colors and resemblances describe the seed in this vajra-door teaching?",
+   "premises": [
+    "madder and karnikara resemble red",
+    "seed is described by color",
+    "two similar forms are named"
+   ],
+   "inference": "The seed is likened to red madder and karnikara hues.",
+   "uncertainties": [
+    "exact compound split uncertain"
+   ],
+   "plain_english": "The seed resembles red madder and karnikara flowers."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "gorocanā",
+     "gloss": "cow-bile",
+     "grounds": "gorocana pigment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niśābhau",
+     "gloss": "turmeric-resembling",
+     "grounds": "turmeric-like",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsāt",
+     "gloss": "in-brief",
+     "grounds": "briefly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "v.3.sg.pass-past+root kīrt"
+    }
+   ],
+   "question": "Which substances are briefly declared as resembling turmeric and cow-bile?",
+   "premises": [
+    "gorocana is named",
+    "turmeric resemblance is named",
+    "declaration is brief"
+   ],
+   "inference": "The substances are declared in brief as gorocana and turmeric-like.",
+   "uncertainties": [
+    "subject omitted in verse"
+   ],
+   "plain_english": "Gorocana and turmeric-like substances are briefly declared."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "śaṅkhinīvajrakavāṭaṃ",
+     "gloss": "śaṅkhinī-vajra-door",
+     "grounds": "compound door name",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "v.2.sg.act-imp+root śru"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "six-faced",
+     "grounds": "address to six-faced",
+     "morph": "adj.voc.sg"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "truly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What door teaching is Skanda asked to hear in truth?",
+   "premises": [
+    "śaṅkhinī vajra door is named",
+    "six-faced is addressed",
+    "truthful hearing is urged"
+   ],
+   "inference": "Skanda is urged to hear the śaṅkhinī vajra-door teaching truly.",
+   "uncertainties": [
+    "full door sense incomplete"
+   ],
+   "plain_english": "Hear the śaṅkhinī vajra-door teaching truly, six-faced one."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "īśavarga",
+     "gloss": "īśa-class",
+     "grounds": "īśa class",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "second item",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśānu",
+     "gloss": "fire",
+     "grounds": "fire",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhayasaṃyutam",
+     "gloss": "both-joined-with",
+     "grounds": "joined with fear",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the second īśa-class item joined with fire-fear?",
+   "premises": [
+    "īśa class is named",
+    "second item is named",
+    "fire fear is joined"
+   ],
+   "inference": "The second īśa-class item is joined with fire-fear.",
+   "uncertainties": [
+    "exact item unspecified"
+   ],
+   "plain_english": "The second īśa-class item is joined with fire-fear."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "śvetapaṅkajasaṃkāśaṃ",
+     "gloss": "white-lotus-resembling",
+     "grounds": "white lotus like",
+     "morph": "compound"
+    },
+    {
+     "surface": "hima",
+     "gloss": "snow",
+     "grounds": "snow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kunda",
+     "gloss": "jasmine",
+     "grounds": "jasmine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "endusaprabham",
+     "gloss": "moon-splendor",
+     "grounds": "moon splendor",
+     "morph": "compound"
+    }
+   ],
+   "question": "What white lotus, snow, jasmine, and moon splendor describe?",
+   "premises": [
+    "white lotus resemblance is named",
+    "snow and jasmine are named",
+    "moon splendor is named"
+   ],
+   "inference": "The described form has white lotus, snow, jasmine, and moon splendor.",
+   "uncertainties": [
+    "referent unspecified"
+   ],
+   "plain_english": "It resembles white lotus, snow, jasmine, and moon splendor."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "jīva",
+     "gloss": "jīva",
+     "grounds": "jīva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bindusamāyuktaṃ",
+     "gloss": "bindu-endowed-with",
+     "grounds": "endowed with bindu",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāmastambham",
+     "gloss": "left-pillar",
+     "grounds": "left pillar",
+     "morph": "compound"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "v.3.sg.pass-past+root hṛ"
+    }
+   ],
+   "question": "What left pillar is declared endowed with jīva and bindu?",
+   "premises": [
+    "jīva is named",
+    "bindu is joined",
+    "left pillar is declared"
+   ],
+   "inference": "The left pillar is declared endowed with jīva and bindu.",
+   "uncertainties": [
+    "pillar identity unspecified"
+   ],
+   "plain_english": "The left pillar is declared endowed with jīva and bindu."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "lost",
+     "grounds": "lost token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "lost",
+     "grounds": "lost token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "lost",
+     "grounds": "lost token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "lost",
+     "grounds": "lost token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibhau",
+     "gloss": "resembling",
+     "grounds": "resembling pair",
+     "morph": "adj.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "two",
+     "morph": "num.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇataḥ",
+     "gloss": "by-color",
+     "grounds": "by color",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitau",
+     "gloss": "declared",
+     "grounds": "declared pair",
+     "morph": "v.3.du.pass-past+root kīrt"
+    }
+   ],
+   "question": "What two resembling forms are declared by color despite lost tokens?",
+   "premises": [
+    "four tokens are lost",
+    "two resembling forms are named",
+    "declaration is by color"
+   ],
+   "inference": "Two resembling forms are declared by color, though preceding tokens are lost.",
+   "uncertainties": [
+    "lost tokens obscure subject"
+   ],
+   "plain_english": "Two resembling forms are declared by color."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "jīvo",
+     "gloss": "jīva",
+     "grounds": "jīva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśopeta",
+     "gloss": "twelfth-endowed-with",
+     "grounds": "endowed with twelfth",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaśivarṇaḥ",
+     "gloss": "moon-colored",
+     "grounds": "moon colored",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "v.3.sg.pass-past+root kīrt"
+    }
+   ],
+   "question": "What moon-colored jīva is declared endowed with the twelfth?",
+   "premises": [
+    "jīva is named",
+    "twelfth endowment is named",
+    "moon color is named"
+   ],
+   "inference": "A moon-colored jīva endowed with the twelfth is declared.",
+   "uncertainties": [
+    "twelfth referent unspecified"
+   ],
+   "plain_english": "A moon-colored jīva endowed with the twelfth is declared."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "yoni",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhramarabījantu",
+     "gloss": "bhramara-seed",
+     "grounds": "bhramara seed",
+     "morph": "compound"
+    },
+    {
+     "surface": "trayodaśa",
+     "gloss": "thirteenth",
+     "grounds": "thirteenth",
+     "morph": "num"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteenth",
+     "grounds": "fourteenth",
+     "morph": "num"
+    }
+   ],
+   "question": "What yoni and bhramara seed are numbered thirteenth and fourteenth?",
+   "premises": [
+    "yoni is named",
+    "bhramara seed is named",
+    "thirteenth and fourteenth are named"
+   ],
+   "inference": "The yoni and bhramara seed are numbered thirteenth and fourteenth.",
+   "uncertainties": [
+    "numbering referent unspecified"
+   ],
+   "plain_english": "The yoni and bhramara seed are thirteenth and fourteenth."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "śaṃ",
+     "gloss": "śaṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "śaṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṭaho",
+     "gloss": "puṭaho",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "śaṃ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkha",
+     "gloss": "conch",
+     "grounds": "conch",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kundasamaprabhau",
+     "gloss": "jasmine-equal-splendor",
+     "grounds": "jasmine equal splendor",
+     "morph": "compound"
+    }
+   ],
+   "question": "What mantra syllables and conch-jasmine splendor are declared?",
+   "premises": [
+    "mantra syllables are named",
+    "conch is named",
+    "jasmine equal splendor is named"
+   ],
+   "inference": "The verse declares mantra syllables with conch and jasmine-equal splendor.",
+   "uncertainties": [
+    "mantra parsing uncertain"
+   ],
+   "plain_english": "The mantra syllables accompany conch and jasmine-equal splendor."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "saṃghaṭya",
+     "gloss": "having-combined",
+     "grounds": "having combined",
+     "morph": "v.ger+root ghaṭ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-rule",
+     "grounds": "by rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "first",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "year",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guha",
+     "gloss": "guha",
+     "grounds": "address Guha",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "What year-long combined practice is addressed to Guha?",
+   "premises": [
+    "combining is named",
+    "rule is named",
+    "year is named"
+   ],
+   "inference": "Guha is addressed regarding a year-long combined practice by rule.",
+   "uncertainties": [
+    "practice details omitted"
+   ],
+   "plain_english": "Combine and practice by rule for a year, Guha."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "ajara",
+     "gloss": "non-aging",
+     "grounds": "non-aging",
+     "morph": "adj"
+    },
+    {
+     "surface": "amaratvam",
+     "gloss": "immortality",
+     "grounds": "immortality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "obtains",
+     "morph": "v.3.sg.act-pres+root āp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "truth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaḍānana",
+     "gloss": "six-faced",
+     "grounds": "address six-faced",
+     "morph": "adj.voc.sg"
+    }
+   ],
+   "question": "What non-aging immortality is said to be obtained truly?",
+   "premises": [
+    "non-aging is named",
+    "immortality is named",
+    "truth is named"
+   ],
+   "inference": "Non-aging immortality is truly obtained.",
+   "uncertainties": [
+    "agent unspecified"
+   ],
+   "plain_english": "One obtains non-aging immortality; this is true, six-faced one."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "in Kālottara",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajrakavāṭa",
+     "gloss": "vajra-door",
+     "grounds": "vajra door",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣaṇapaṭalo",
+     "gloss": "characteristic-chapter",
+     "grounds": "characteristic chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviṣaṣṭitamaḥ",
+     "gloss": "sixty-second",
+     "grounds": "sixty-second",
+     "morph": "num"
+    }
+   ],
+   "question": "Which Kālottara chapter is identified as the sixty-second vajra-door characteristic chapter?",
+   "premises": [
+    "Kālottara is named",
+    "vajra door is named",
+    "sixty-second chapter is named"
+   ],
+   "inference": "The sixty-second chapter is the vajra-door characteristic chapter in Kālottara.",
+   "uncertainties": [
+    "chapter scope unspecified"
+   ],
+   "plain_english": "Thus in Kālottara the sixty-second chapter is the vajra-door characteristic chapter."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "kavāṭa",
+     "gloss": "door",
+     "grounds": "door",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stambhaiḥ",
+     "gloss": "pillars-with",
+     "grounds": "with pillars",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "uttaraiḥ",
+     "gloss": "upper",
+     "grounds": "upper",
+     "morph": "adj.inst.pl"
+    },
+    {
+     "surface": "yonibhramaram",
+     "gloss": "yoni-bhramara",
+     "grounds": "yoni bhramara",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What door pillars and yoni-bhramara are described as upper?",
+   "premises": [
+    "door is named",
+    "pillars are named",
+    "yoni bhramara is named"
+   ],
+   "inference": "The door's upper pillars and yoni-bhramara are described.",
+   "uncertainties": [
+    "exact relation unspecified"
+   ],
+   "plain_english": "The door has upper pillars and yoni-bhramara."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "afterwards",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyuñjayaṃ",
+     "gloss": "death-conquering",
+     "grounds": "death conquering",
+     "morph": "compound"
+    },
+    {
+     "surface": "yogam",
+     "gloss": "yoga",
+     "grounds": "yoga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhyaset",
+     "gloss": "should-practice",
+     "grounds": "should practice",
+     "morph": "v.3.sg.act-opt+root bhyas"
+    },
+    {
+     "surface": "ekamānasaḥ",
+     "gloss": "one-minded",
+     "grounds": "one-minded",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What death-conquering yoga should one practice afterwards with one mind?",
+   "premises": [
+    "afterwards is named",
+    "death-conquering yoga is named",
+    "one-mindedness is named"
+   ],
+   "inference": "Afterwards one should practice death-conquering yoga with one mind.",
+   "uncertainties": [
+    "practice details omitted"
+   ],
+   "plain_english": "Afterwards practice death-conquering yoga with one mind."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṃśa",
+     "gloss": "gadfly",
+     "grounds": "gadfly",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maśakākīrṇe",
+     "gloss": "mosquito-filled",
+     "grounds": "filled with mosquitoes",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "adj"
+    },
+    {
+     "surface": "upadravavarjite",
+     "gloss": "disturbances-devoid-of",
+     "grounds": "devoid of disturbances",
+     "morph": "compound"
+    }
+   ],
+   "question": "What place free from gadflies, mosquitoes, and disturbances is required?",
+   "premises": [
+    "gadfly is excluded",
+    "mosquito-filled is excluded",
+    "disturbances are excluded"
+   ],
+   "inference": "The practice place must be free from gadflies, mosquitoes, and disturbances.",
+   "uncertainties": [
+    "place type unspecified"
+   ],
+   "plain_english": "Avoid places filled with gadflies, mosquitoes, and disturbances."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "apavarge",
+     "gloss": "in-liberation",
+     "grounds": "in liberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "auspicious",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "śliṣṭe",
+     "gloss": "pleasant",
+     "grounds": "pleasant",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "saṃkaṭe",
+     "gloss": "narrow",
+     "grounds": "narrow",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "sumanohare",
+     "gloss": "very-charming",
+     "grounds": "very charming",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "What auspicious, pleasant, narrow, and charming place is suited for liberation?",
+   "premises": [
+    "liberation is named",
+    "auspicious pleasant place is named",
+    "narrow charming place is named"
+   ],
+   "inference": "A place auspicious, pleasant, narrow, and charming suits liberation.",
+   "uncertainties": [
+    "exact place unspecified"
+   ],
+   "plain_english": "Choose an auspicious, pleasant, narrow, charming place for liberation."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "āstīrya",
+     "gloss": "having-spread",
+     "grounds": "having spread",
+     "morph": "v.ger+root stṛ"
+    },
+    {
+     "surface": "āstaraṇe",
+     "gloss": "on-seat",
+     "grounds": "on seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "divye",
+     "gloss": "divine",
+     "grounds": "divine",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "hand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātrāyate",
+     "gloss": "measure-extended",
+     "grounds": "extended to hand measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "auspicious",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "What divine seat spread to hand measure is auspicious?",
+   "premises": [
+    "spreading is named",
+    "divine seat is named",
+    "hand measure is named"
+   ],
+   "inference": "A divine seat spread to hand measure is auspicious.",
+   "uncertainties": [
+    "seat material unspecified"
+   ],
+   "plain_english": "Spread a divine seat to hand measure, auspicious."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "pūrvāhno",
+     "gloss": "in-forenoon",
+     "grounds": "in forenoon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṅmukho",
+     "gloss": "east-facing",
+     "grounds": "east facing",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "having become",
+     "morph": "v.ger+root bhū"
+    },
+    {
+     "surface": "madhyāhne",
+     "gloss": "at-midday",
+     "grounds": "at midday",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarāmukhaḥ",
+     "gloss": "north-facing",
+     "grounds": "north facing",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What east-facing and north-facing orientations are prescribed for forenoon and midday?",
+   "premises": [
+    "forenoon east-facing is named",
+    "midday is named",
+    "north-facing is named"
+   ],
+   "inference": "One faces east in forenoon and north at midday.",
+   "uncertainties": [
+    "practice context unspecified"
+   ],
+   "plain_english": "Face east in the forenoon and north at midday."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "svastikaṃ",
+     "gloss": "svastika",
+     "grounds": "svastika",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "having bound",
+     "morph": "v.ger+root bandh"
+    },
+    {
+     "surface": "padmāsanam",
+     "gloss": "lotus-seat",
+     "grounds": "lotus seat",
+     "morph": "compound"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What svastika and lotus seats may be bound as alternatives?",
+   "premises": [
+    "svastika seat is named",
+    "binding is named",
+    "lotus seat is named"
+   ],
+   "inference": "One may bind svastika or lotus seat.",
+   "uncertainties": [
+    "choice criteria unspecified"
+   ],
+   "plain_english": "Bind svastika or lotus seat."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "samapārśva",
+     "gloss": "even-sides",
+     "grounds": "even sides",
+     "morph": "compound"
+    },
+    {
+     "surface": "ubhyu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uraḥ",
+     "gloss": "chest",
+     "grounds": "chest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dantaiḥ",
+     "gloss": "with-teeth",
+     "grounds": "with teeth",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "dantān",
+     "gloss": "teeth",
+     "grounds": "teeth",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "should-touch",
+     "grounds": "should touch",
+     "morph": "v.3.sg.act-opt+root spṛś"
+    }
+   ],
+   "question": "What even sides, chest, and teeth should not touch?",
+   "premises": [
+    "even sides are named",
+    "chest is named",
+    "teeth should not touch"
+   ],
+   "inference": "Even sides and chest are aligned while teeth do not touch.",
+   "uncertainties": [
+    "posture details unspecified"
+   ],
+   "plain_english": "Keep sides even and chest aligned; do not let teeth touch."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "kapāla",
+     "gloss": "skull",
+     "grounds": "skull",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "limb",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṅgulatvāt",
+     "gloss": "two-finger-breadth",
+     "grounds": "two-finger breadth",
+     "morph": "compound"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "below",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakram",
+     "gloss": "wheel",
+     "grounds": "wheel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What skull limb, two-finger breadth, and supreme wheel are described?",
+   "premises": [
+    "skull limb is named",
+    "two-finger breadth is named",
+    "supreme wheel is named"
+   ],
+   "inference": "The skull limb is two fingers below and the supreme wheel is named.",
+   "uncertainties": [
+    "anatomical mapping uncertain"
+   ],
+   "plain_english": "The skull limb is two fingers below, and the supreme wheel is named."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "ṛṣi",
+     "gloss": "by-sages",
+     "grounds": "by sages",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vidyādharaiḥ",
+     "gloss": "by-vidyādharas",
+     "grounds": "by vidyādharas",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "siddhaiḥ",
+     "gloss": "by-siddhas",
+     "grounds": "by siddhas",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "what",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudramānasaiḥ",
+     "gloss": "by-small-minded",
+     "grounds": "by small-minded",
+     "morph": "adj.inst.pl"
+    }
+   ],
+   "question": "What is accomplished by sages, vidyādharas, and siddhas but not small-minded?",
+   "premises": [
+    "sages are named",
+    "vidyādharas are named",
+    "siddhas are named"
+   ],
+   "inference": "What sages, vidyādharas, and siddhas accomplish is beyond small-minded persons.",
+   "uncertainties": [
+    "accomplishment unspecified"
+   ],
+   "plain_english": "What sages, vidyādharas, and siddhas do, small-minded persons cannot."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "pericarp",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kesaropetaṃ",
+     "gloss": "filaments-endowed-with",
+     "grounds": "endowed with filaments",
+     "morph": "compound"
+    },
+    {
+     "surface": "vitastimātraṃ",
+     "gloss": "span-measure",
+     "grounds": "span measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "extent",
+     "grounds": "extent",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pericarp endowed with filaments has span-measure extent?",
+   "premises": [
+    "pericarp is named",
+    "filaments are named",
+    "span measure is named"
+   ],
+   "inference": "The pericarp endowed with filaments has span-measure extent.",
+   "uncertainties": [
+    "anatomical referent unspecified"
+   ],
+   "plain_english": "The pericarp endowed with filaments has span-measure extent."
+  }
+ ]
+}

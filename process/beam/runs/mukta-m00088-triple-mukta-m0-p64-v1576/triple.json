@@ -1,0 +1,1031 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1576,
+   "rows": [
+    {
+     "surface": "stambhavidveṣaṇavyādhiśatrūccāṭanakaṃ",
+     "gloss": "stambha-enmity-disease-enemy-expulsion-result",
+     "grounds": "compound enumerating ritual effects",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What result is said to arise from this cakra rite?",
+   "premises": [
+    "The verse lists ritual effects.",
+    "It states that result becomes.",
+    "The effects include stambha and expulsion."
+   ],
+   "inference": "The rite is credited with producing those listed effects.",
+   "uncertainties": [
+    "Exact ritual context is not specified."
+   ],
+   "plain_english": "It becomes stambha, enmity, disease, enemy-expulsion and related results."
+  },
+  {
+   "verse": 1577,
+   "rows": [
+    {
+     "surface": "sarvavaśyakarañcaiva",
+     "gloss": "all-subjugation-causing-and",
+     "grounds": "compound with caiva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavatyeva",
+     "gloss": "becomes-indeed",
+     "grounds": "bhū + eva",
+     "morph": "3.sg.act-pres+root bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is universal subjugation an assured result of this practice?",
+   "premises": [
+    "The verse says all-subjugation becomes.",
+    "It adds indeed.",
+    "It denies doubt."
+   ],
+   "inference": "Universal subjugation is asserted without doubt.",
+   "uncertainties": [
+    "Scope of 'all' is unspecified."
+   ],
+   "plain_english": "It indeed becomes all-subjugating, without doubt."
+  },
+  {
+   "verse": 1578,
+   "rows": [
+    {
+     "surface": "tailasthaṃ",
+     "gloss": "in-oil-placed",
+     "grounds": "taila + stha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakrarājantu",
+     "gloss": "cakra-king",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidveṣaṇakaraṃ",
+     "gloss": "enmity-causing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What effect is attributed to the cakra king placed in oil?",
+   "premises": [
+    "The cakra king is placed in oil.",
+    "It becomes enmity-causing.",
+    "The verse states this directly."
+   ],
+   "inference": "The oil-placed cakra king causes enmity.",
+   "uncertainties": [
+    "Preparation details are absent."
+   ],
+   "plain_english": "The cakra king placed in oil becomes enmity-causing."
+  },
+  {
+   "verse": 1579,
+   "rows": [
+    {
+     "surface": "yadaikānte",
+     "gloss": "when-in-seclusion",
+     "grounds": "yadā + ekānte",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturmārge",
+     "gloss": "four-paths",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sindūrarajasā",
+     "gloss": "vermilion-powder",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "writes",
+     "grounds": "root likh",
+     "morph": "3.sg.act-pres+root likh"
+    }
+   ],
+   "question": "Under what condition is the diagram written with vermilion powder?",
+   "premises": [
+    "The verse begins with when.",
+    "It mentions four paths.",
+    "It says writes with vermilion powder."
+   ],
+   "inference": "The writing occurs in seclusion on four paths.",
+   "uncertainties": [
+    "Exact diagram is not named."
+   ],
+   "plain_english": "When in seclusion, on four paths, one writes with vermilion powder."
+  },
+  {
+   "verse": 1580,
+   "rows": [
+    {
+     "surface": "akārādikṣakārāntāṃ",
+     "gloss": "from-a-to-kṣa-ending",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "mother-syllables",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "writes-carefully",
+     "grounds": "sam + likh",
+     "morph": "3.sg.act-pres+root likh"
+    }
+   ],
+   "question": "What syllabic sequence is written there in the rite?",
+   "premises": [
+    "The verse names mother syllables.",
+    "It says from a to kṣa.",
+    "It says writes there."
+   ],
+   "inference": "The a-to-kṣa mother syllables are written there.",
+   "uncertainties": [
+    "Spatial referent is implicit."
+   ],
+   "plain_english": "There one writes the mother syllables from a to kṣa."
+  },
+  {
+   "verse": 1581,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "adept",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khecaraścaiva",
+     "gloss": "sky-goer-and-indeed",
+     "grounds": "compound with caiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "root jan",
+     "morph": "3.sg.mid-pres+root jan"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "na + atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformation is promised to the adept performing this rite?",
+   "premises": [
+    "The adept becomes sky-goer.",
+    "The verse says indeed.",
+    "It denies doubt."
+   ],
+   "inference": "The adept becomes a sky-goer without doubt.",
+   "uncertainties": [
+    "Mechanism of transformation is unspecified."
+   ],
+   "plain_english": "The adept becomes a sky-goer; there is no doubt."
+  },
+  {
+   "verse": 1582,
+   "rows": [
+    {
+     "surface": "ajarāmaratāṃ",
+     "gloss": "agelessness-immortality",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "abs+root labh"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    },
+    {
+     "surface": "māntrikaḥ",
+     "gloss": "mantra-knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefits follow from obtaining agelessness and immortality?",
+   "premises": [
+    "The mantra-knower obtains agelessness-immortality.",
+    "He becomes happy.",
+    "The verse states this."
+   ],
+   "inference": "Obtaining agelessness and immortality makes the mantra-knower happy.",
+   "uncertainties": [
+    "Duration of happiness is unspecified."
+   ],
+   "plain_english": "Having obtained agelessness and immortality, the mantra-knower becomes happy."
+  },
+  {
+   "verse": 1583,
+   "rows": [
+    {
+     "surface": "yathāvidhividhānena",
+     "gloss": "as-prescribed-procedure",
+     "grounds": "compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "adept",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthiramānasaḥ",
+     "gloss": "steadfast-mind",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mental quality is required of the adept following prescribed procedure?",
+   "premises": [
+    "The verse mentions prescribed procedure.",
+    "It names the adept.",
+    "It calls him steadfast-mind."
+   ],
+   "inference": "The adept must have a steadfast mind.",
+   "uncertainties": [
+    "Procedure details are not given."
+   ],
+   "plain_english": "By the prescribed procedure, the adept is steadfast-minded."
+  },
+  {
+   "verse": 1584,
+   "rows": [
+    {
+     "surface": "pādukāñjanasiddhiñca",
+     "gloss": "sandal-anjan-siddhi-and",
+     "grounds": "compound with ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "manaḥsiddhiñca",
+     "gloss": "mind-siddhi-and",
+     "grounds": "compound with ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhātujam",
+     "gloss": "from-elements-born",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which siddhis are said to arise from the elements?",
+   "premises": [
+    "The verse names sandal-anjan siddhi.",
+    "It names mind siddhi.",
+    "It says from elements."
+   ],
+   "inference": "Sandal-anjan and mind siddhis arise from elements.",
+   "uncertainties": [
+    "Element list is not specified."
+   ],
+   "plain_english": "Sandal-anjan siddhi and mind siddhi arise from the elements."
+  },
+  {
+   "verse": 1585,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tallabhate",
+     "gloss": "that-obtains",
+     "grounds": "tat + labhate",
+     "morph": "3.sg.mid-pres+root labh"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "na + atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "need",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "inquiry",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does the mantra-knower need further inquiry to obtain all this?",
+   "premises": [
+    "The verse says all that obtains.",
+    "It names mantra-knower.",
+    "It denies need for inquiry."
+   ],
+   "inference": "No further inquiry is needed.",
+   "uncertainties": [
+    "'All that' refers to prior siddhis."
+   ],
+   "plain_english": "The mantra-knower obtains all that; no inquiry is needed."
+  },
+  {
+   "verse": 1586,
+   "rows": [
+    {
+     "surface": "mahāpātakayuktātmā",
+     "gloss": "great-sin-bound-soul",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpahā",
+     "gloss": "sin-destroyer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "How quickly can a soul bound by great sin become sin-destroying?",
+   "premises": [
+    "The verse names great-sin-bound soul.",
+    "It says instantly.",
+    "It says becomes sin-destroyer."
+   ],
+   "inference": "The transformation is instantaneous.",
+   "uncertainties": [
+    "Ritual condition is implicit."
+   ],
+   "plain_english": "A soul bound by great sin becomes sin-destroying instantly."
+  },
+  {
+   "verse": 1587,
+   "rows": [
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "instrumental time",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres+root han"
+    },
+    {
+     "surface": "kaluṣaṃ",
+     "gloss": "impurity",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptajanmakṛtaṃ",
+     "gloss": "done-in-seven-births",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What impurity is destroyed within a month by this practice?",
+   "premises": [
+    "The verse says in a month.",
+    "It says destroys impurity.",
+    "The impurity is done in seven births."
+   ],
+   "inference": "Seven-birth impurity is destroyed in a month.",
+   "uncertainties": [
+    "Practice specifics are not stated."
+   ],
+   "plain_english": "In a month a man destroys impurity done over seven births."
+  },
+  {
+   "verse": 1588,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīpūrṇānandaparamahaṃsaviracite",
+     "gloss": "composed-by-śrī-pūrṇānanda-paramahaṃsa",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrī-tattvacintāmaṇau",
+     "gloss": "in-śrī-tattvacintāmaṇi",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trayoviṃśatitamaḥ",
+     "gloss": "twenty-third",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "chapter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is identified by this colophon?",
+   "premises": [
+    "The verse says thus.",
+    "It names the work and author.",
+    "It says twenty-third chapter."
+   ],
+   "inference": "This is the twenty-third chapter.",
+   "uncertainties": [
+    "Chapter numbering may be edition-specific."
+   ],
+   "plain_english": "Thus ends the twenty-third chapter of Śrī Tattvacintāmaṇi by Śrī Pūrṇānanda Paramahaṃsa."
+  },
+  {
+   "verse": 1589,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    },
+    {
+     "surface": "stotraṃ",
+     "gloss": "hymn",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācikantu",
+     "gloss": "oral-and",
+     "grounds": "vācika + tu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "praśaṃs",
+     "morph": "3.sg.pass-pres+root praśaṃs"
+    }
+   ],
+   "question": "Which mode of reciting a hymn is praised over the mental mode?",
+   "premises": [
+    "The verse denies mental hymn.",
+    "It names oral hymn.",
+    "It says is praised."
+   ],
+   "inference": "Oral recitation is praised over mental recitation.",
+   "uncertainties": [
+    "Context of praise is not specified."
+   ],
+   "plain_english": "A mental hymn does not become; the oral one is praised."
+  },
+  {
+   "verse": 1590,
+   "rows": [
+    {
+     "surface": "śuddhenānanyacittena",
+     "gloss": "with-pure-undivided-mind",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paṭhitavyaṃ",
+     "gloss": "should-be-read",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the hymn be read according to this instruction?",
+   "premises": [
+    "The verse says with pure undivided mind.",
+    "It says should be read.",
+    "It says carefully."
+   ],
+   "inference": "It should be read carefully with pure undivided mind.",
+   "uncertainties": [
+    "No ritual timing is given."
+   ],
+   "plain_english": "It should be read carefully with a pure, undivided mind."
+  },
+  {
+   "verse": 1591,
+   "rows": [
+    {
+     "surface": "hastasaṃsthāpanādeva",
+     "gloss": "by-hand-placement-only",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasmādalpaphalaṃ",
+     "gloss": "because-small-result",
+     "grounds": "yasmāt + alpa + phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "Why is hand-placement alone said to yield small result?",
+   "premises": [
+    "The verse names hand placement.",
+    "It says because small result.",
+    "It says should be."
+   ],
+   "inference": "Hand placement alone yields only small result.",
+   "uncertainties": [
+    "Alternative methods are implied."
+   ],
+   "plain_english": "Because hand placement alone yields only a small result."
+  },
+  {
+   "verse": 1592,
+   "rows": [
+    {
+     "surface": "abrāhmaṇena",
+     "gloss": "by-non-brahmin",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "likhitaṃ",
+     "gloss": "written",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taccāpi",
+     "gloss": "that-also",
+     "grounds": "tat + ca + api",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres+root bhū"
+    }
+   ],
+   "question": "What is the status of a hymn written by a non-brahmin?",
+   "premises": [
+    "The verse says by non-brahmin.",
+    "It says written.",
+    "It says becomes fruitless."
+   ],
+   "inference": "A hymn written by a non-brahmin is fruitless.",
+   "uncertainties": [
+    "Whether recitation differs is not stated."
+   ],
+   "plain_english": "A hymn written by a non-brahmin becomes fruitless."
+  },
+  {
+   "verse": 1593,
+   "rows": [
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśastamṛṣibhirbhāṣitaṃ",
+     "gloss": "praised-by-sages-spoken",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "reads",
+     "grounds": "root paṭh",
+     "morph": "3.sg.act-pres+root paṭh"
+    }
+   ],
+   "question": "Why is reading sages' praised speech not recommended in Kali age?",
+   "premises": [
+    "The verse says because.",
+    "It says in Kali age.",
+    "It says not praised by sages spoken."
+   ],
+   "inference": "In Kali age, reading sages' praised speech is not recommended.",
+   "uncertainties": [
+    "Exact restriction is unclear."
+   ],
+   "plain_english": "Because in Kali age, reading what sages praised is not recommended."
+  },
+  {
+   "verse": 1594,
+   "rows": [
+    {
+     "surface": "ṛṣicchandādikaṃ",
+     "gloss": "ṛṣi-meter-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs+root nyas"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "reads",
+     "grounds": "root paṭh",
+     "morph": "3.sg.act-pres+root paṭh"
+    },
+    {
+     "surface": "stotraṃ",
+     "gloss": "hymn",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "wise-one",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preparatory act does the wise one perform before reading the hymn?",
+   "premises": [
+    "The verse names ṛṣi meter etc.",
+    "It says placing.",
+    "It says reads hymn."
+   ],
+   "inference": "The wise one places ṛṣi, meter, etc., then reads the hymn.",
+   "uncertainties": [
+    "Nyāsa details are not expanded."
+   ],
+   "plain_english": "Having placed ṛṣi, meter, and so on, the wise one reads the hymn."
+  },
+  {
+   "verse": 1595,
+   "rows": [
+    {
+     "surface": "paṭhitvā",
+     "gloss": "having-read",
+     "grounds": "absolutive",
+     "morph": "abs+root paṭh"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "stotraṃ",
+     "gloss": "hymn",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "reads",
+     "grounds": "root paṭh",
+     "morph": "3.sg.act-pres+root paṭh"
+    }
+   ],
+   "question": "In what order should the mantra-knower read the hymn?",
+   "premises": [
+    "The verse says having read first.",
+    "It names mantra-knower.",
+    "It says then reads hymn."
+   ],
+   "inference": "He first reads something, then reads the hymn.",
+   "uncertainties": [
+    "Object of first reading is implicit."
+   ],
+   "plain_english": "Having first read, the mantra-knower then reads its hymn."
+  },
+  {
+   "verse": 1596,
+   "rows": [
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "virāme",
+     "gloss": "pause",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyāyādiṃ",
+     "gloss": "chapter-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punarjapet",
+     "gloss": "again-recites",
+     "grounds": "punar + japet",
+     "morph": "3.sg.act-opt+root jap"
+    }
+   ],
+   "question": "What should be recited again during a pause in the middle?",
+   "premises": [
+    "The verse says done pause middle.",
+    "It says chapter etc.",
+    "It says again recites."
+   ],
+   "inference": "During a middle pause, chapter etc. is recited again.",
+   "uncertainties": [
+    "Exact pause context is unclear."
+   ],
+   "plain_english": "In a pause in the middle, one again recites chapter and so on."
+  },
+  {
+   "verse": 1597,
+   "rows": [
+    {
+     "surface": "camaraḥ",
+     "gloss": "yak",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇasāraśca",
+     "gloss": "black-antelope-and",
+     "grounds": "compound with ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "matsyo",
+     "gloss": "fish",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meṣaśca",
+     "gloss": "ram-and",
+     "grounds": "noun with ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūkaraḥ",
+     "gloss": "boar",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which animals are listed in this offering context?",
+   "premises": [
+    "The verse names yak.",
+    "It names black antelope, fish, ram, boar.",
+    "They are listed together."
+   ],
+   "inference": "These animals are listed for the offering context.",
+   "uncertainties": [
+    "Their ritual role is not stated."
+   ],
+   "plain_english": "Yak, black antelope, fish, ram, and boar."
+  },
+  {
+   "verse": 1598,
+   "rows": [
+    {
+     "surface": "kṛṣṇacchāgadvayaṃ",
+     "gloss": "two-black-goats",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "gives",
+     "grounds": "root dā",
+     "morph": "3.sg.act-opt+root dā"
+    },
+    {
+     "surface": "paścāddadyānmahābalim",
+     "gloss": "afterwards-gives-great-offering",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What offering sequence is prescribed after the two black goats?",
+   "premises": [
+    "The verse says two black goats.",
+    "It says gives.",
+    "It says afterwards gives great offering."
+   ],
+   "inference": "After giving two black goats, one gives a great offering.",
+   "uncertainties": [
+    "Recipient is not specified."
+   ],
+   "plain_english": "One gives two black goats, then afterwards gives a great offering."
+  },
+  {
+   "verse": 1599,
+   "rows": [
+    {
+     "surface": "ṣaḍvidhaśchāgalaḥ",
+     "gloss": "six-fold-goat",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "proclaimed",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gṛhasthānāṃ",
+     "gloss": "of-householders",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paro",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering is proclaimed supreme for householders?",
+   "premises": [
+    "The verse says six-fold goat.",
+    "It says proclaimed.",
+    "It says supreme offering of householders."
+   ],
+   "inference": "The six-fold goat offering is proclaimed supreme for householders.",
+   "uncertainties": [
+    "Meaning of six-fold is not expanded."
+   ],
+   "plain_english": "The six-fold goat is proclaimed the supreme offering for householders."
+  }
+ ]
+}

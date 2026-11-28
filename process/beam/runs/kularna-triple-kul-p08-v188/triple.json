@@ -1,0 +1,539 @@
+{
+ "song": "kul-p08",
+ "items": [
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "aparastu",
+     "gloss": "other-but",
+     "grounds": "apara + tu fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "parama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "satyamasthikūṭatvacāvṛtaḥ",
+     "gloss": "truth-covered-by-bone-skin",
+     "grounds": "satya + asthi + kūṭa + tvacā + āvṛtaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the other supreme truth covered by bone and skin?",
+   "premises": [
+    "The other is supreme truth.",
+    "It is covered by bone and skin."
+   ],
+   "inference": "The verse contrasts an outer-covered truth with the supreme.",
+   "uncertainties": [
+    "Token fusion boundaries are editorial."
+   ],
+   "plain_english": "The other is the supreme truth, covered by bone and skin."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "śvapaco'pi",
+     "gloss": "dog-cooker-even",
+     "grounds": "śvapaca + api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulajñānī",
+     "gloss": "kula-knower",
+     "grounds": "kula + jñānī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇādatiricyate",
+     "gloss": "surpasses-brahmin",
+     "grounds": "brāhmaṇāt + atiricyate",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who surpasses a brahmin even if a dog-cooker?",
+   "premises": [
+    "A dog-cooker may be a kula-knower.",
+    "A kula-knower surpasses a brahmin."
+   ],
+   "inference": "Kula-knowledge outweighs birth status.",
+   "uncertainties": [
+    "Compound membership is inferred."
+   ],
+   "plain_english": "Even a dog-cooker who knows kula surpasses a brahmin."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "kulapūjārato",
+     "gloss": "kula-worship-devoted",
+     "grounds": "kula + pūjā + rataḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "so'yaṃ",
+     "gloss": "this",
+     "grounds": "saḥ + ayam",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaulo",
+     "gloss": "kaula",
+     "grounds": "kaula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetareḥ",
+     "gloss": "others",
+     "grounds": "cetara",
+     "morph": "m.abl.pl"
+    }
+   ],
+   "question": "Who is the kaula devoted to kula worship?",
+   "premises": [
+    "He is devoted to kula worship.",
+    "He is kaula, not others."
+   ],
+   "inference": "Kaula identity is tied to kula worship.",
+   "uncertainties": [
+    "cetareḥ parsing is editorial."
+   ],
+   "plain_english": "O goddess, this one devoted to kula worship is kaula, not others."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayati",
+     "gloss": "worships",
+     "grounds": "pūj",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "dhik",
+     "gloss": "shame",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "tad",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kākasyeva",
+     "gloss": "like-crow",
+     "grounds": "kāka + iva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jīvitam",
+     "gloss": "life",
+     "grounds": "jīvita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is shameful for one who does not worship?",
+   "premises": [
+    "He does not worship.",
+    "His life is like a crow's."
+   ],
+   "inference": "Non-worship makes life worthless.",
+   "uncertainties": [
+    "tasya reference is contextual."
+   ],
+   "plain_english": "Shame on him; his life is like a crow's."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "whose",
+     "grounds": "yad",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhāgyavaśāddevi",
+     "gloss": "by-fortune-O-goddess",
+     "grounds": "bhāgya + vaśāt + devi",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulajñānaṃ",
+     "gloss": "kula-knowledge",
+     "grounds": "kula + jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "prakāś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "For whom does kula-knowledge shine by fortune?",
+   "premises": [
+    "By fortune kula-knowledge shines.",
+    "It shines for certain people."
+   ],
+   "inference": "Kula-knowledge is a matter of fortune.",
+   "uncertainties": [
+    "bhāgyavaśāddevi is fused."
+   ],
+   "plain_english": "O goddess, for those by fortune, kula-knowledge shines."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "yeṣāmutpadyate",
+     "gloss": "whose-arises",
+     "grounds": "yeṣām + utpadyate",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "utpad",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "citta",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kulajñānaṃ",
+     "gloss": "kula-knowledge",
+     "grounds": "kula + jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayoditam",
+     "gloss": "by-me-spoken",
+     "grounds": "mayā + uditam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where does the spoken kula-knowledge arise?",
+   "premises": [
+    "It arises in the mind.",
+    "It is spoken by me."
+   ],
+   "inference": "Kula-knowledge arises inwardly.",
+   "uncertainties": [
+    "yeṣāmutpadyate is fused."
+   ],
+   "plain_english": "For those in whose mind arises the kula-knowledge spoken by me."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "yad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvayajñācaraṇaṃ",
+     "gloss": "all-sacrifice-practice",
+     "grounds": "sarva + yajña + ācaraṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuladharmapraveśanam",
+     "gloss": "kula-dharma-entry",
+     "grounds": "kula + dharma + praveśana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is all sacrifice practice?",
+   "premises": [
+    "All sacrifice practice is named.",
+    "It is entry into kula dharma."
+   ],
+   "inference": "Sacrifice practice equals kula-dharma entry.",
+   "uncertainties": [
+    "Compound boundaries are editorial."
+   ],
+   "plain_english": "All sacrifice practice is entry into kula dharma."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "tad",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punarjananīgarbha",
+     "gloss": "again-mother-womb",
+     "grounds": "punar + jananī + garbha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jananīgarbha",
+     "gloss": "mother-womb",
+     "grounds": "jananī + garbha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśanti",
+     "gloss": "enter",
+     "grounds": "viś",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do they ever enter the mother's womb again?",
+   "premises": [
+    "They do not enter.",
+    "They never enter again."
+   ],
+   "inference": "Kula practitioners avoid rebirth.",
+   "uncertainties": [
+    "punarjananīgarbha is fused."
+   ],
+   "plain_english": "They never again enter the mother's womb."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "kulajñānasya",
+     "gloss": "of-kula-knowledge",
+     "grounds": "kula + jñāna",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "O-Kuleshani",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nānyadharmaiḥ",
+     "gloss": "not-other-dharmas",
+     "grounds": "na + anya + dharmāḥ",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "prayojanam",
+     "gloss": "need",
+     "grounds": "prayojana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What need is there for other dharmas?",
+   "premises": [
+    "Kula-knowledge has no need.",
+    "Other dharmas are unnecessary."
+   ],
+   "inference": "Kula-knowledge suffices alone.",
+   "uncertainties": [
+    "nānyadharmaiḥ is fused."
+   ],
+   "plain_english": "O Kuleshani, kula-knowledge has no need of other dharmas."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "dadāmi",
+     "gloss": "I-give",
+     "grounds": "dā",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "parama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "jñāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāntakāle",
+     "gloss": "and-at-end-time",
+     "grounds": "ca + anta + kāle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is given at the end time?",
+   "premises": [
+    "I give supreme knowledge.",
+    "There is no doubt."
+   ],
+   "inference": "Supreme knowledge is given at death.",
+   "uncertainties": [
+    "cāntakāle is fused."
+   ],
+   "plain_english": "I give supreme knowledge at the end time; there is no doubt."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "sukhena",
+     "gloss": "easily",
+     "grounds": "sukha",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvaphaladaṃ",
+     "gloss": "all-fruit-giving",
+     "grounds": "sarva + phala + da",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "kula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ko'pi",
+     "gloss": "who-even",
+     "grounds": "kaḥ + api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tyajatyaho",
+     "gloss": "abandons-alas",
+     "grounds": "tyajati + aho",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "aho",
+     "gloss": "alas",
+     "grounds": "interjection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who abandons kula that gives all fruits?",
+   "premises": [
+    "Kula gives all fruits easily.",
+    "Someone abandons it, alas."
+   ],
+   "inference": "Abandoning kula is foolish.",
+   "uncertainties": [
+    "tyajatyaho is fused."
+   ],
+   "plain_english": "Kula gives all fruits easily; alas, who abandons it?"
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "vedaśāstrāgamajño'pi",
+     "gloss": "veda-shastra-agama-knower-even",
+     "grounds": "veda + śāstra + āgama + jña + api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulājñastvajña",
+     "gloss": "kula-knower-but-ignorant",
+     "grounds": "kula + ajña + tu + ajña",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is a veda-knower without kula knowledge ignorant?",
+   "premises": [
+    "Even a veda-knower may lack kula.",
+    "Without kula one is ignorant."
+   ],
+   "inference": "Kula-knowledge is essential.",
+   "uncertainties": [
+    "kulājñastvajña is fused."
+   ],
+   "plain_english": "Even one knowing veda, shastra, and agama is ignorant without kula knowledge."
+  }
+ ]
+}

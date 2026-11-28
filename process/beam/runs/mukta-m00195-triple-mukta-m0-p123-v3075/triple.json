@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "excellent",
+     "grounds": "comparative or superlative sense in context of ranking materials",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "than-that",
+     "grounds": "ablative of comparison referring to previously mentioned material",
+     "morph": "pron.abl.sg.n"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "most-excellent",
+     "grounds": "predicate adjective describing rājatam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājatam",
+     "gloss": "silver",
+     "grounds": "subject of the comparison",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which material is declared superior to the previously mentioned gem?",
+   "premises": [
+    "A previously mentioned material serves as the point of comparison.",
+    "Something is described as excellent in relation to that material.",
+    "Silver is identified as the most excellent material."
+   ],
+   "inference": "Silver is superior to the previously mentioned material.",
+   "uncertainties": [
+    "The exact referent of tasmāt depends on the preceding verse's final item."
+   ],
+   "plain_english": "Better than that, however, silver is the most excellent."
+  }
+ ]
+}

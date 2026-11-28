@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "adverb indicating variety",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saugandha",
+     "gloss": "fragrant",
+     "grounds": "adjective describing offerings",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhojyaiḥ",
+     "gloss": "foods",
+     "grounds": "instrumental plural of bhojya",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "royal",
+     "grounds": "adjectival qualifier",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yogyaiḥ",
+     "gloss": "worthy",
+     "grounds": "instrumental plural of yogyaiḥ",
+     "morph": "adj.ins.pl.m"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What offerings are presented to the goddess after the full head anointing without tonsure?",
+   "premises": [
+    "Full head anointing occurs without tonsure.",
+    "Various fragrant foods are offered.",
+    "Royal-worthy items accompany the offering."
+   ],
+   "inference": "The ritual prescribes fragrant royal-worthy foods for the goddess after anointing.",
+   "uncertainties": [
+    "Exact syntactic relation of rāja to yogyaiḥ is unclear."
+   ],
+   "plain_english": "With various fragrant foods and royal-worthy items, O Great Goddess."
+  }
+ ]
+}

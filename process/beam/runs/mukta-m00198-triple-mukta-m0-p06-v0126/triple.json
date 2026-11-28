@@ -1,0 +1,1105 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grass",
+     "grounds": "instrumental plural of darbha, material used for binding",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa",
+     "grounds": "first member of compound describing the leaves",
+     "morph": "compound-first-member"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "instrumental plural of patra, qualified by palāśa",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoṣitaiḥ",
+     "gloss": "with-dried",
+     "grounds": "instrumental plural past passive participle from śuṣ, qualifying leaves",
+     "morph": "n.inst.pl.past-passive-participle(śuṣ)"
+    },
+    {
+     "surface": "bandhayet",
+     "gloss": "should-bind",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.optative.act(bandh)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject performing the ritual action",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What materials must the wise officiant use to bind the ritual structure?",
+   "premises": [
+    "Darbha grass is prescribed as a binding material.",
+    "Dried palāśa leaves are prescribed as a binding material.",
+    "The wise officiant should perform the binding."
+   ],
+   "inference": "The wise officiant must bind the structure using darbha grass and dried palāśa leaves.",
+   "uncertainties": [],
+   "plain_english": "The wise one should bind it with darbha grass and with dried palāśa leaves."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "prākāraṃ",
+     "gloss": "enclosure",
+     "grounds": "object of the ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gopurasthānaṃ",
+     "gloss": "gateway-place",
+     "grounds": "compound of gopura and sthāna, object of the ritual action",
+     "morph": "n.acc.sg(compound:gopura+sthāna)"
+    },
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "fire-circumambulation",
+     "grounds": "ritual act of carrying fire around, object of the command",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative command to perform the ritual acts",
+     "morph": "2.sg.imperative.act(kṛ)"
+    }
+   ],
+   "question": "Which ritual acts must be performed at the enclosure and gateway area?",
+   "premises": [
+    "The enclosure is included in the ritual scope.",
+    "The gateway place is included in the ritual scope.",
+    "Fire circumambulation must be performed."
+   ],
+   "inference": "One must perform fire circumambulation at the enclosure and the gateway place.",
+   "uncertainties": [],
+   "plain_english": "Perform the fire circumambulation at the enclosure and the gateway place."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates the extent of sprinkling",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.optative.act(prokṣ)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "subject qualified to perform the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śucī",
+     "gloss": "pure",
+     "grounds": "qualifies the learned officiant as ritually pure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "havyamaṃtrataḥ",
+     "gloss": "with-oblation-mantra",
+     "grounds": "compound with ablative suffix indicating means by oblation mantra",
+     "morph": "(indecl.)(compound:havya+mantra+tas)"
+    }
+   ],
+   "question": "How must the learned and pure officiant perform the sprinkling rite?",
+   "premises": [
+    "Sprinkling must be done everywhere.",
+    "The officiant must be learned and pure.",
+    "The sprinkling must be accompanied by the oblation mantra."
+   ],
+   "inference": "The learned and pure officiant should sprinkle everywhere using the oblation mantra.",
+   "uncertainties": [],
+   "plain_english": "The learned and pure one should sprinkle everywhere with the oblation mantra."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "vāstu-offering",
+     "grounds": "compound of vāstu and homa, object previously described",
+     "morph": "m.acc.sg(compound:vāstu+homa)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating completion of explanation",
+     "morph": "m.acc.sg.past-passive-participle(sam-ā-khyā)"
+    },
+    {
+     "surface": "iṣṭakavidhiṃ",
+     "gloss": "brick-rite",
+     "grounds": "compound of iṣṭakā and vidhi, object to be heard next",
+     "morph": "m.acc.sg(compound:iṣṭakā+vidhi)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative command to listen to the next instruction",
+     "morph": "2.sg.imperative.act(śru)"
+    }
+   ],
+   "question": "What transition in ritual instruction follows the explanation of the vāstu offering?",
+   "premises": [
+    "The vāstu offering has been declared.",
+    "The brick rite is the next topic.",
+    "The listener is commanded to hear it."
+   ],
+   "inference": "After declaring the vāstu offering, the text directs the listener to hear the brick rite.",
+   "uncertainties": [],
+   "plain_english": "The vāstu offering has been declared; now hear the rite of the bricks."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumat-kāśyapa",
+     "grounds": "fused colophon phrase indicating conclusion within the Aṃśumatkāśyapa text",
+     "morph": "(indecl.+compound)"
+    },
+    {
+     "surface": "vāstuhomavidhi",
+     "gloss": "vāstu-offering-rite",
+     "grounds": "compound naming the ritual procedure",
+     "morph": "m.nom.sg(compound:vāstu+homa+vidhi)"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section heading term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal qualifying the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the text formally conclude the section on the vāstu offering rite?",
+   "premises": [
+    "The phrase marks the end of a section in the Aṃśumatkāśyapa.",
+    "The section concerns the vāstu offering rite.",
+    "The section is identified as the third chapter."
+   ],
+   "inference": "The text concludes by naming this as the third chapter on the vāstu offering rite in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the third chapter, on the rite of the vāstu offering, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative indicating a construction context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "locative indicating a construction context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sāle",
+     "gloss": "in-hall",
+     "grounds": "locative indicating a construction context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gopure",
+     "gloss": "in-gateway",
+     "grounds": "locative indicating a construction context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "compound of tathā and eva indicating extension",
+     "morph": "(indecl.)(compound:tathā+eva)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which types of structures are included in the scope of the following ground rules?",
+   "premises": [
+    "Temples are included as contexts.",
+    "Pavilions, halls, and gateways are included as contexts.",
+    "The rule applies likewise to these structures."
+   ],
+   "inference": "The following ground rules apply to temples, pavilions, halls, and gateways alike.",
+   "uncertainties": [],
+   "plain_english": "In a temple, in a pavilion, in a hall, and likewise in a gateway."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "snigdhaṃ",
+     "gloss": "smooth",
+     "grounds": "first type of ground quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "connective particle indicating addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asnigdhaṃ",
+     "gloss": "not-smooth",
+     "grounds": "second type of ground quality, negated form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvividhaṃ",
+     "gloss": "twofold",
+     "grounds": "compound indicating two kinds",
+     "morph": "n.nom.sg(compound:dvi+vidha)"
+    },
+    {
+     "surface": "bhūmilakṣaṇam",
+     "gloss": "ground-characteristic",
+     "grounds": "compound of bhūmi and lakṣaṇa, subject of classification",
+     "morph": "n.nom.sg(compound:bhūmi+lakṣaṇa)"
+    }
+   ],
+   "question": "What twofold classification of ground characteristics is established for construction sites?",
+   "premises": [
+    "Ground may be smooth.",
+    "Ground may be not smooth.",
+    "The characteristic of ground is twofold."
+   ],
+   "inference": "The characteristic of the ground is classified as twofold: smooth and not smooth.",
+   "uncertainties": [],
+   "plain_english": "The characteristic of the ground is twofold: smooth and also not smooth."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the description",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun correlating with the relative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "snigdhā",
+     "gloss": "smooth",
+     "grounds": "predicate quality of the earth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "subject being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "past passive participle indicating recognized definition",
+     "morph": "f.nom.sg.past-passive-participle(khyā)"
+    },
+    {
+     "surface": "tanuvālukasaṃyutā",
+     "gloss": "fine-sand-mixed",
+     "grounds": "compound describing earth mixed with fine sand",
+     "morph": "f.nom.sg(compound:tanu+vāluka+saṃyuta)"
+    }
+   ],
+   "question": "What physical composition defines earth that is recognized as smooth?",
+   "premises": [
+    "Smooth earth is being defined.",
+    "It is known by a specific composition.",
+    "That composition is being mixed with fine sand."
+   ],
+   "inference": "Earth mixed with fine sand is known as smooth earth.",
+   "uncertainties": [],
+   "plain_english": "That earth which is mixed with fine sand is known as smooth earth."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "akleśāt",
+     "gloss": "without-difficulty",
+     "grounds": "ablative indicating ease of action",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "khananīyaṃ",
+     "gloss": "to-be-dug",
+     "grounds": "gerundive indicating suitability for digging",
+     "morph": "n.nom.sg.gerundive(khan)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to such earth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "susnigdhā",
+     "gloss": "very-smooth",
+     "grounds": "intensified quality of smoothness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun identifying the earth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "subject being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional designation",
+     "morph": "f.nom.sg.past-passive-participle(smṛ)"
+    }
+   ],
+   "question": "What condition qualifies earth to be designated as very smooth?",
+   "premises": [
+    "Some earth can be dug without difficulty.",
+    "Such earth is given a specific designation.",
+    "The designation is very smooth earth."
+   ],
+   "inference": "Earth that can be dug without difficulty is remembered as very smooth earth.",
+   "uncertainties": [],
+   "plain_english": "That earth which can be dug without difficulty is remembered as very smooth earth."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "hastamātraṃ",
+     "gloss": "one-cubit-measure",
+     "grounds": "compound indicating depth or extent of one cubit",
+     "morph": "n.acc.sg(compound:hasta+mātra)"
+    },
+    {
+     "surface": "khaned",
+     "gloss": "should-dig",
+     "grounds": "optative expressing ritual or practical injunction",
+     "morph": "3.sg.optative.act(khan)"
+    },
+    {
+     "surface": "viprā",
+     "gloss": "priests",
+     "grounds": "vocative or nominative plural addressing or naming officiants",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "susnigdhaṃ",
+     "gloss": "very-smooth",
+     "grounds": "qualifies the earth surface to be dug",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahītalam",
+     "gloss": "earth-surface",
+     "grounds": "compound of mahī and tala, object to be dug",
+     "morph": "n.acc.sg(compound:mahī+tala)"
+    }
+   ],
+   "question": "To what depth must the priests excavate very smooth ground for preparation?",
+   "premises": [
+    "The very smooth earth surface is to be dug.",
+    "The excavation has a specified measure.",
+    "The measure is one cubit."
+   ],
+   "inference": "The priests should dig the very smooth earth surface to the measure of one cubit.",
+   "uncertainties": [
+    "viprā taken as vocative plural addressing priests"
+   ],
+   "plain_english": "O priests, one should dig the very smooth earth surface to the depth of one cubit."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "avaṭaṃ",
+     "gloss": "pit",
+     "grounds": "object resulting from excavation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vālukaiḥ",
+     "gloss": "with-sand",
+     "grounds": "instrumental plural indicating filling material",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "sthūlaiḥ",
+     "gloss": "with-coarse",
+     "grounds": "instrumental plural qualifying the sand",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "pūrayitvā",
+     "gloss": "having-filled",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive(pūr)"
+    },
+    {
+     "surface": "jalānvitam",
+     "gloss": "water-mixed",
+     "grounds": "compound describing the pit as accompanied by water",
+     "morph": "m.acc.sg(compound:jala+anvita)"
+    }
+   ],
+   "question": "How must the excavated pit be prepared before further ground treatment?",
+   "premises": [
+    "The pit is to be filled.",
+    "The filling material is coarse sand.",
+    "The filled pit must be mixed with water."
+   ],
+   "inference": "After excavation, the pit must be filled with coarse sand and mixed with water.",
+   "uncertainties": [],
+   "plain_english": "Having filled the pit with coarse sand, make it mixed with water."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "musalaiḥ",
+     "gloss": "with-pestles",
+     "grounds": "instrumental plural indicating tools for compacting",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "hastapādaiḥ",
+     "gloss": "with-hands-feet",
+     "grounds": "compound instrumental plural indicating use of hands and feet",
+     "morph": "m.inst.pl(compound:hasta+pāda)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snigdhaṃ",
+     "gloss": "smooth",
+     "grounds": "resulting state of the ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive(kṛ)"
+    },
+    {
+     "surface": "bṛhacchilaiḥ",
+     "gloss": "with-large-stones",
+     "grounds": "compound instrumental plural indicating additional tools",
+     "morph": "f.inst.pl(compound:bṛhat+śilā)"
+    }
+   ],
+   "question": "By what means must the prepared ground be compacted into a smooth surface?",
+   "premises": [
+    "The ground must be made smooth.",
+    "Pestles and hands and feet are used for compacting.",
+    "Large stones are also used for compacting."
+   ],
+   "inference": "The ground must be made smooth by compacting it with pestles, hands and feet, and large stones.",
+   "uncertainties": [],
+   "plain_english": "Having made it smooth with pestles, with hands and feet, and with large stones."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "mānasūtrāṇi",
+     "gloss": "measuring-cords",
+     "grounds": "compound of māna and sūtra, objects to be laid",
+     "morph": "n.acc.pl(compound:māna+sūtra)"
+    },
+    {
+     "surface": "sūtrāṇi",
+     "gloss": "cords",
+     "grounds": "general term for cords, repeated for emphasis or specification",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-lay",
+     "grounds": "causative optative expressing injunction to lay down cords",
+     "morph": "3.sg.optative.causative(pat)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating the prepared site",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "officiating master responsible for the layout",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is responsible for laying the measuring cords on the prepared site?",
+   "premises": [
+    "Measuring cords must be laid there.",
+    "The act of laying cords is prescribed.",
+    "The teacher is the designated agent."
+   ],
+   "inference": "The teacher should lay the measuring cords there on the prepared site.",
+   "uncertainties": [],
+   "plain_english": "There the teacher should lay down the measuring cords."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "tṛtīyādhiṣṭhasīmā",
+     "gloss": "third-base-boundary",
+     "grounds": "compound naming the boundary of the third base",
+     "morph": "f.nom.sg(compound:tṛtīya+adhiṣṭha+sīmā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthopapīṭhasīmakā",
+     "gloss": "fourth-sub-base-boundary",
+     "grounds": "compound naming the boundary of the fourth sub-base",
+     "morph": "f.nom.sg(compound:caturtha+upapīṭha+sīmā+ka)"
+    }
+   ],
+   "question": "Which structural boundaries are specified in the cord layout sequence?",
+   "premises": [
+    "A boundary of the third base is specified.",
+    "A boundary of the fourth sub-base is specified.",
+    "Both are included in the layout."
+   ],
+   "inference": "The layout includes the boundary of the third base and the boundary of the fourth sub-base.",
+   "uncertainties": [
+    "exact architectural referents of adhiṣṭha and upapīṭha boundaries depend on tradition"
+   ],
+   "plain_english": "The boundary of the third base and the boundary of the fourth sub-base."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner following the stated sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental indicating sequential procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior arrangement",
+     "morph": "absolutive(vi-ni-as)"
+    },
+    {
+     "surface": "sūtraṣaṭkaṃ",
+     "gloss": "six-cords",
+     "grounds": "compound of sūtra and ṣaṭka, object placed in sequence",
+     "morph": "n.acc.sg(compound:sūtra+ṣaṭka)"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative addressing the recipient of instruction",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "In what manner must the set of six cords be arranged on the site?",
+   "premises": [
+    "Six cords are to be placed.",
+    "The placement must follow a sequence.",
+    "The instruction is addressed to the best twice-born."
+   ],
+   "inference": "The six cords must be placed in due order in this manner.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, having thus placed the six cords in order."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "ṣoḍaśastambha",
+     "gloss": "sixteen-pillars",
+     "grounds": "compound first member indicating number of pillars",
+     "morph": "compound-first-member(ṣoḍaśa+stambha)"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "past passive participle indicating being furnished with",
+     "morph": "n.acc.sg.past-passive-participle(sam-yuj)"
+    },
+    {
+     "surface": "vitānadhvajabhūṣitam",
+     "gloss": "canopy-banner-adorned",
+     "grounds": "compound describing adornment with canopy and banners",
+     "morph": "n.acc.sg(compound:vitāna+dhvaja+bhūṣita)"
+    }
+   ],
+   "question": "What structural and decorative features must characterize the pavilion setup?",
+   "premises": [
+    "The pavilion is joined with sixteen pillars.",
+    "The pavilion is adorned with a canopy.",
+    "The pavilion is adorned with banners."
+   ],
+   "inference": "The pavilion must be furnished with sixteen pillars and adorned with a canopy and banners.",
+   "uncertainties": [],
+   "plain_english": "Furnished with sixteen pillars and adorned with a canopy and banners."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "maṇṭapasya",
+     "gloss": "of-pavilion",
+     "grounds": "genitive indicating the whole of which a part is taken",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-third-part",
+     "grounds": "compound indicating one of three parts",
+     "morph": "n.acc.sg(compound:tri+bhāga+eka)"
+    },
+    {
+     "surface": "vedikāyāḥ",
+     "gloss": "of-altar",
+     "grounds": "genitive indicating the altar whose width is specified",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "width",
+     "grounds": "object denoting the dimension to be made",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional width must the altar have in relation to the pavilion?",
+   "premises": [
+    "The pavilion provides the reference measure.",
+    "The altar's width is specified.",
+    "The width is one third of the pavilion."
+   ],
+   "inference": "The width of the altar should be one third of the pavilion.",
+   "uncertainties": [],
+   "plain_english": "The width of the altar should be one third of the pavilion."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "paritas",
+     "gloss": "around",
+     "grounds": "adverb indicating surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnikuṇḍāni",
+     "gloss": "fire-pits",
+     "grounds": "compound of agni and kuṇḍa, objects to be arranged",
+     "morph": "n.acc.pl(compound:agni+kuṇḍa)"
+    },
+    {
+     "surface": "mahāśāsu",
+     "gloss": "in-great-directions",
+     "grounds": "compound locative indicating the cardinal directions",
+     "morph": "f.loc.pl(compound:mahā+āśā)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.optative.act(pra-kḷp)"
+    }
+   ],
+   "question": "Where must the fire pits be arranged in relation to the ritual space?",
+   "premises": [
+    "Fire pits must be arranged.",
+    "Their placement is around the space.",
+    "They must be placed in the great directions."
+   ],
+   "inference": "One should arrange the fire pits around in the cardinal directions.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the fire pits around in the cardinal directions."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "hastamātrapravistāraṃ",
+     "gloss": "one-cubit-width",
+     "grounds": "compound describing extent of one cubit in width",
+     "morph": "m.acc.sg(compound:hasta+mātra+pravistāra)"
+    },
+    {
+     "surface": "ghātaṃ",
+     "gloss": "pit",
+     "grounds": "object denoting the excavated fire pit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trimekhalām",
+     "gloss": "three-rimmed",
+     "grounds": "compound describing a pit with three belts or rims",
+     "morph": "m.acc.sg(compound:tri+mekhalā)"
+    }
+   ],
+   "question": "What dimensions and structural form must each fire pit have?",
+   "premises": [
+    "The pit must have a width of one cubit.",
+    "The pit must have a specific structural form.",
+    "That form is three-rimmed."
+   ],
+   "inference": "Each fire pit must be one cubit wide and have three rims.",
+   "uncertainties": [],
+   "plain_english": "The pit should be one cubit in width and have three rims."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "piṣṭacūrṇaiḥ",
+     "gloss": "with-ground-powders",
+     "grounds": "compound instrumental plural indicating decorative powders",
+     "morph": "n.inst.pl(compound:piṣṭa+cūrṇa)"
+    },
+    {
+     "surface": "alaṃkṛtya",
+     "gloss": "having-decorated",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive(alam-kṛ)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprabhojanam",
+     "gloss": "priest-feeding",
+     "grounds": "compound of vipra and bhojana, ritual act to be performed",
+     "morph": "n.nom.sg(compound:vipra+bhojana)"
+    }
+   ],
+   "question": "What ritual action follows the decoration of the site with ground powders?",
+   "premises": [
+    "The site is decorated with ground powders.",
+    "A subsequent ritual action is prescribed.",
+    "That action is feeding the priests."
+   ],
+   "inference": "After decorating with ground powders, the feeding of the priests should be performed.",
+   "uncertainties": [],
+   "plain_english": "Having decorated with ground powders, then indeed the feeding of the priests should take place."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "paryagnikaraṇaṃ",
+     "gloss": "fire-circumambulation",
+     "grounds": "ritual act of carrying fire around, object of the action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive(kṛ)"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.optative.act(prokṣ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśāṃbhasā",
+     "gloss": "with-kuśa-water",
+     "grounds": "compound instrumental indicating water with kuśa grass",
+     "morph": "n.inst.sg(compound:kuśa+ambhas)"
+    }
+   ],
+   "question": "What purification act must follow the fire circumambulation rite?",
+   "premises": [
+    "Fire circumambulation is performed first.",
+    "Sprinkling is prescribed afterward.",
+    "The sprinkling must be done with kuśa water."
+   ],
+   "inference": "After performing fire circumambulation, one should sprinkle with kuśa water.",
+   "uncertainties": [],
+   "plain_english": "Having performed the fire circumambulation, one should sprinkle with kuśa water."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "tadardhaiḥ",
+     "gloss": "with-half-that",
+     "grounds": "compound instrumental plural indicating half that quantity",
+     "morph": "n.inst.pl(compound:tad+ardha)"
+    },
+    {
+     "surface": "taṃḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental plural indicating material used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhaiḥ",
+     "gloss": "with-half-that",
+     "grounds": "compound instrumental plural indicating half that quantity",
+     "morph": "n.inst.pl(compound:tad+ardha)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame",
+     "grounds": "instrumental plural indicating material used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional quantities of rice grains and sesame are prescribed for the rite?",
+   "premises": [
+    "Rice grains are to be used in a specified proportion.",
+    "Sesame is to be used in a specified proportion.",
+    "Both are prescribed as half that quantity."
+   ],
+   "inference": "The rite requires rice grains in half that quantity and sesame also in half that quantity.",
+   "uncertainties": [
+    "the reference quantity for 'half that' is not explicit in this verse"
+   ],
+   "plain_english": "With half that quantity of rice grains, and also with half that quantity of sesame."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "śilāharmye",
+     "gloss": "in-stone-temple",
+     "grounds": "compound locative indicating a temple made of stone",
+     "morph": "n.loc.sg(compound:śilā+harmya)"
+    },
+    {
+     "surface": "śilābhiḥ",
+     "gloss": "with-stones",
+     "grounds": "instrumental plural indicating construction material",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dārubhiḥ",
+     "gloss": "with-wood",
+     "grounds": "instrumental plural indicating construction material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "dāruharmyake",
+     "gloss": "in-wooden-temple",
+     "grounds": "compound locative indicating a temple made of wood",
+     "morph": "n.loc.sg(compound:dāru+harmyaka)"
+    }
+   ],
+   "question": "How must the construction material correspond to the type of temple structure?",
+   "premises": [
+    "A stone temple is specified as one context.",
+    "A wooden temple is specified as another context.",
+    "Each requires its corresponding material."
+   ],
+   "inference": "In a stone temple one must use stones, and in a wooden temple one must use wood.",
+   "uncertainties": [],
+   "plain_english": "In a stone temple use stones, but in a wooden temple use wood."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "puṃliṃgābhiḥ",
+     "gloss": "with-male-marked",
+     "grounds": "compound instrumental plural indicating stones of masculine classification",
+     "morph": "f.inst.pl(compound:puṃ+liṅga)"
+    },
+    {
+     "surface": "śilābhiḥ",
+     "gloss": "with-stones",
+     "grounds": "instrumental plural indicating the material used",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-make",
+     "grounds": "causative optative expressing ritual injunction",
+     "morph": "3.sg.optative.causative(kṛ)"
+    },
+    {
+     "surface": "prathameṣṭakām",
+     "gloss": "first-brick",
+     "grounds": "compound of prathama and iṣṭakā, object to be made or placed",
+     "morph": "f.acc.sg(compound:prathama+iṣṭakā)"
+    }
+   ],
+   "question": "What kind of stones must be used to make the first brick in the rite?",
+   "premises": [
+    "The first brick must be made.",
+    "Stones are the prescribed material.",
+    "The stones must be of masculine classification."
+   ],
+   "inference": "One should cause the first brick to be made with stones of masculine classification.",
+   "uncertainties": [
+    "ritual criteria for masculine-classified stones are not specified in this verse"
+   ],
+   "plain_english": "One should have the first brick made with stones of masculine classification."
+  }
+ ]
+}

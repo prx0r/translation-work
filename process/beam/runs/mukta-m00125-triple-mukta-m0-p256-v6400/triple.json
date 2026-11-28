@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p256",
+ "items": [
+  {
+   "verse": 6400,
+   "rows": [
+    {
+     "surface": "pādākūṭayutaṃ",
+     "gloss": "joined-with-foot-frame",
+     "grounds": "compound pāda-ākūṭa-yuta; describes the chariot as fitted with a foot-frame",
+     "morph": "compound adj.acc.sg.n"
+    },
+    {
+     "surface": "taccedrathastanmāna",
+     "gloss": "if-that-chariot-of-that-measure",
+     "grounds": "fused sandhi form: tat + cet + rathaḥ + tat-māna; conditional clause with measure specification",
+     "morph": "sandhi-chain indecl.+noun.nom.sg.m+compound.nom.sg.m"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "passive result when the stated condition holds",
+     "morph": "3.sg.pres.pass muc"
+    }
+   ],
+   "question": "What condition causes a chariot of specified measure to become released?",
+   "premises": [
+    "The chariot is joined with a foot-frame.",
+    "The chariot may be of that specified measure.",
+    "A conditional state is being evaluated for that chariot."
+   ],
+   "inference": "If such a chariot of that measure meets the stated condition, it is released.",
+   "uncertainties": [
+    "The precise technical sense of ākūṭa in this constructional context is uncertain."
+   ],
+   "plain_english": "If that chariot, fitted with a foot-frame and of that measure, is in that condition, it is released."
+  }
+ ]
+}

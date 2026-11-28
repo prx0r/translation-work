@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun instrumental feminine singular referring to the supreme goddess",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhāryate",
+     "gloss": "is-held",
+     "grounds": "passive present third singular from root dhṛ",
+     "morph": "3.sg.pass-pres, root dhṛ"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "entire",
+     "grounds": "adjective neuter accusative singular agreeing with idam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmāṇḍaparimaṇḍalam",
+     "gloss": "cosmic-sphere",
+     "grounds": "compound of brahmāṇḍa (cosmic egg) and parimaṇḍala (sphere/circumference)",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "By whose power is the whole brahmanda sphere upheld?",
+   "premises": [
+    "The supreme goddess is worshipped there.",
+    "Fourfold prosperity arises there.",
+    "Beautiful adorned women appear there.",
+    "By her the cosmic sphere is held."
+   ],
+   "inference": "The verse presents the supreme goddess as the support of the entire cosmic sphere.",
+   "uncertainties": [
+    "The exact referent of yayā depends on the preceding context.",
+    "brahmāṇḍaparimaṇḍalam may denote sphere or circumference."
+   ],
+   "plain_english": "By her, this entire cosmic sphere is held."
+  }
+ ]
+}

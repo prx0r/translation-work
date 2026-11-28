@@ -1,0 +1,534 @@
+{
+ "song": "kul-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraṃ",
+     "gloss": "glory-auspicious-seat-supreme-mantra",
+     "grounds": "compound in accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japed",
+     "gloss": "should-recite",
+     "grounds": "optative of root jap",
+     "morph": "3.sg.act-opt+jap"
+    },
+    {
+     "surface": "bhuktivimuktaye",
+     "gloss": "for-enjoyment-liberation",
+     "grounds": "dative purpose",
+     "morph": "dat.sg.f"
+    }
+   ],
+   "question": "Why should one recite the supreme mantra of the glorious seat?",
+   "premises": [
+    "The supreme mantra is recited.",
+    "Its purpose is enjoyment and liberation."
+   ],
+   "inference": "Recitation of this mantra serves both enjoyment and liberation.",
+   "uncertainties": [
+    "Exact gender of mantra compound."
+   ],
+   "plain_english": "One should recite the supreme mantra of the glorious seat for enjoyment and liberation."
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedādhikā",
+     "gloss": "veda-superior",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulasamadarśanam",
+     "gloss": "kaula-equal-vision",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What knowledge is not superior to equal vision of Kaula?",
+   "premises": [
+    "Veda-superior knowledge is denied.",
+    "Kaula equal vision is denied as inferior."
+   ],
+   "inference": "Neither veda-superior knowledge nor mere equal vision of Kaula is the final claim.",
+   "uncertainties": [
+    "Whether kaulasamadarśanam is subject or predicate."
+   ],
+   "plain_english": "Indeed, knowledge superior to the Vedas is not; nor is equal vision of Kaula."
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated emphasis",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated emphasis",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is this truth repeated three times without doubt?",
+   "premises": [
+    "This is truth.",
+    "This is truth.",
+    "This is truth.",
+    "There is no doubt."
+   ],
+   "inference": "The statement is affirmed emphatically as certain truth.",
+   "uncertainties": [
+    "Which referent each idaṃ picks out."
+   ],
+   "plain_english": "This is truth, this is truth, truth, truth; there is no doubt."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaknomi",
+     "gloss": "am-able",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres+śak"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "best-ascent",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kalpakoṭiśatairapi",
+     "gloss": "kalpa-crore-hundreds-even",
+     "grounds": "instrumental plural with api",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "Why can the speaker not describe it even in countless kalpas?",
+   "premises": [
+    "The speaker is unable.",
+    "Even kalpa-crores of hundreds do not suffice."
+   ],
+   "inference": "The greatness exceeds any finite description.",
+   "uncertainties": [
+    "Exact referent of varārohe."
+   ],
+   "plain_english": "O best ascent, I am not able even with hundreds of crores of kalpas."
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantramāhātmyaṃ",
+     "gloss": "mantra-greatness",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "indefinite",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "inst.sg"
+    }
+   ],
+   "question": "What greatness of the mantra has been spoken to you?",
+   "premises": [
+    "Thus some mantra greatness has been spoken.",
+    "It was spoken by me to you."
+   ],
+   "inference": "A partial account of mantra greatness has been given.",
+   "uncertainties": [
+    "Whether kiñcit modifies amount or quality."
+   ],
+   "plain_english": "Thus, somewhat of the greatness of the mantra has been spoken to you by me."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "wish",
+     "grounds": "verb",
+     "morph": "2.sg.act-pres+icch"
+    }
+   ],
+   "question": "What more does the goddess wish to hear after this?",
+   "premises": [
+    "This has been spoken to you.",
+    "O goddess, what do you wish to hear again?"
+   ],
+   "inference": "The dialogue invites a further question from the goddess.",
+   "uncertainties": [
+    "Whether te is dative or genitive."
+   ],
+   "plain_english": "Thus, O goddess, this has been spoken to you; what do you wish to hear again?"
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantrakathanaṃ",
+     "gloss": "glory-auspicious-seat-supreme-mantra-narration",
+     "grounds": "compound title",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "apposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyollāsaḥ",
+     "gloss": "third-illumination",
+     "grounds": "compound title",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the name of the third illumination?",
+   "premises": [
+    "The narration of the supreme mantra is named.",
+    "It is the third illumination."
+   ],
+   "inference": "This section is titled the narration of the supreme mantra of the glorious seat.",
+   "uncertainties": [
+    "Whether nāma is indeclinable or participle."
+   ],
+   "plain_english": "Named the narration of the supreme mantra of the glorious seat: the third illumination."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "mantrarājaṃ",
+     "gloss": "mantra-king",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp+vad"
+    },
+    {
+     "surface": "īśāna",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "nyāsadhyānādibhiḥ",
+     "gloss": "with-nyāsa-meditation-etc",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the lord asked to speak the mantra king with nyāsa and meditation?",
+   "premises": [
+    "Speak the mantra king.",
+    "O lord, with nyāsa, meditation, and so forth."
+   ],
+   "inference": "The request includes ritual accompaniments to the mantra king.",
+   "uncertainties": [
+    "Whether saha governs the instrumental phrase."
+   ],
+   "plain_english": "Speak the mantra king, O lord, together with nyāsa, meditation, and the rest."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "by-mere-hearing",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "śivākāraḥ",
+     "gloss": "śiva-form",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-born",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres+jan"
+    }
+   ],
+   "question": "What arises merely by hearing it?",
+   "premises": [
+    "By mere hearing of it, Śiva-form arises."
+   ],
+   "inference": "Hearing alone produces the form of Śiva.",
+   "uncertainties": [
+    "Whether tasya refers to mantra or lord."
+   ],
+   "plain_english": "Merely by hearing it, the form of Śiva is born."
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "snehāt",
+     "gloss": "from-affection",
+     "grounds": "ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "vadāmi",
+     "gloss": "I-speak",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres+vad"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp+śru"
+    },
+    {
+     "surface": "matprāṇavallabhe",
+     "gloss": "my-life-beloved",
+     "grounds": "vocative compound",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Why does the speaker declare this today out of affection?",
+   "premises": [
+    "From your affection I speak today.",
+    "Hear, my life-beloved."
+   ],
+   "inference": "Affection motivates the present disclosure.",
+   "uncertainties": [
+    "Whether matprāṇavallabhe is vocative or instrumental."
+   ],
+   "plain_english": "Out of affection for you I speak today; hear, my beloved of life."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraḥ",
+     "gloss": "glory-auspicious-seat-supreme-mantra",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhuktimuktiphalapradaḥ",
+     "gloss": "enjoyment-liberation-fruit-giving",
+     "grounds": "compound predicate",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What fruit does the supreme mantra give?",
+   "premises": [
+    "The supreme mantra of the glorious seat gives fruit.",
+    "That fruit is enjoyment and liberation."
+   ],
+   "inference": "The mantra bestows both worldly enjoyment and liberation.",
+   "uncertainties": [
+    "Whether bhukti and mukti are separate fruits or one compound fruit."
+   ],
+   "plain_english": "The supreme mantra of the glorious seat gives the fruit of enjoyment and liberation."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "prakāśānandarūpatvāt",
+     "gloss": "from-being-light-bliss-form",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "pratyakṣaphaladānataḥ",
+     "gloss": "from-direct-fruit-giving",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "Why does the mantra give direct fruit?",
+   "premises": [
+    "Because of being light-bliss form.",
+    "Because of direct fruit-giving."
+   ],
+   "inference": "Its nature as light-bliss and direct fruit-giving explains its efficacy.",
+   "uncertainties": [
+    "Whether these are two separate reasons or one compound reason."
+   ],
+   "plain_english": "Because of being the form of light and bliss, and because of giving direct fruit."
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "song": "mukta-m00545-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second-person pronoun, addressee",
+     "morph": "pron.2.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking requests",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāraya",
+     "gloss": "hold",
+     "grounds": "imperative request to support or sustain",
+     "morph": "impv.2.sg.act √dhṛ"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "first-person pronoun, object of support",
+     "morph": "pron.1.sg.acc"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pavitraṃ",
+     "gloss": "pure",
+     "grounds": "quality to be conferred on the seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative request to render or effect",
+     "morph": "impv.2.sg.act √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking requests",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "object to be purified",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What twofold action is the goddess asked to perform for the supplicant and the ritual seat?",
+   "premises": [
+    "The goddess is directly addressed as the agent of the requests.",
+    "One request asks the goddess to hold or support the supplicant.",
+    "Another request asks the goddess to make the seat pure."
+   ],
+   "inference": "The supplicant seeks both personal support and ritual purification of the seat from the goddess.",
+   "uncertainties": [
+    "The specific ritual context of the seat is not specified in the verse."
+   ],
+   "plain_english": "And you, O goddess, hold me, and make the seat pure."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "vibhrāṇāṃ",
+     "gloss": "bearing",
+     "grounds": "describes the goddess as displaying radiance",
+     "morph": "f.acc.sg.pres-part.mid √bhṛ"
+    },
+    {
+     "surface": "viśada",
+     "gloss": "bright",
+     "grounds": "qualifies the radiance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prabhāṃ",
+     "gloss": "radiance",
+     "grounds": "object displayed by the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trinayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "epithet of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāgdevatām",
+     "gloss": "speech-goddess",
+     "grounds": "identifies the deity as goddess of speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āśraye",
+     "gloss": "I-take-refuge",
+     "grounds": "declaration of taking refuge",
+     "morph": "pres.1.sg.mid √śri"
+    }
+   ],
+   "question": "Which divine qualities characterize the goddess of speech in whom refuge is taken?",
+   "premises": [
+    "The speaker declares taking refuge in the goddess of speech.",
+    "The goddess is described as bearing bright radiance.",
+    "The goddess is described as three-eyed."
+   ],
+   "inference": "Refuge is taken in the three-eyed goddess of speech who bears bright radiance.",
+   "uncertainties": [],
+   "plain_english": "I take refuge in the goddess of speech, three-eyed and bearing a bright radiance."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "sahasranāmne",
+     "gloss": "to-thousand-named",
+     "grounds": "epithet indicating possession of a thousand names",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "puruṣāya",
+     "gloss": "to-person",
+     "grounds": "recipient of salutation, cosmic person",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śāsvate",
+     "gloss": "to-eternal",
+     "grounds": "epithet indicating eternality",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sahasrakoṭi+yugadhāriṇe",
+     "gloss": "to-thousand-crore-age-bearer",
+     "grounds": "compound epithet; bearer of countless ages, analyzed as fused form",
+     "morph": "m.dat.sg compound"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "formula of reverential homage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attributes of the eternal person are honored in this salutation?",
+   "premises": [
+    "Salutation is offered to a person.",
+    "That person is described as thousand-named and eternal.",
+    "That person is described as bearing a thousand crores of ages."
+   ],
+   "inference": "The salutation honors an eternal, thousand-named person who sustains vast cosmic ages.",
+   "uncertainties": [
+    "The exact numerical sense of sahasrakoṭi may be hyperbolic; UNC."
+   ],
+   "plain_english": "Salutation to the eternal Person, who has a thousand names and bears a thousand crores of ages."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "narmade",
+     "gloss": "o-narmada",
+     "grounds": "vocative address to the river Narmada",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sindhu",
+     "gloss": "o-sindhu",
+     "grounds": "vocative address to the river Sindhu",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāveri",
+     "gloss": "o-kaveri",
+     "grounds": "vocative address to the river Kaveri",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jale+asmin",
+     "gloss": "in-this-water",
+     "grounds": "locative expression referring to the present water, analyzed as fused form",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "sannidhiṃ",
+     "gloss": "presence",
+     "grounds": "object requested to be established",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative request to establish presence",
+     "morph": "impv.2.sg.act √kṛ"
+    }
+   ],
+   "question": "Which sacred rivers are invoked to establish their presence in the water at hand?",
+   "premises": [
+    "The rivers Narmada, Sindhu, and Kaveri are directly addressed.",
+    "A request is made concerning this water.",
+    "The request asks for the establishment of presence in this water."
+   ],
+   "inference": "The invoked rivers are asked to make their presence manifest in the water at hand.",
+   "uncertainties": [],
+   "plain_english": "O Narmada, O Sindhu, O Kaveri, make your presence in this water."
+  }
+ ]
+}

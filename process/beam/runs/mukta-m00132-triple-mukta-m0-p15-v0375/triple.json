@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of first clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "predicate adjective agreeing with dīkṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "ritual-action",
+     "grounds": "subject of second clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "predicate adjective agreeing with kriyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanuḥ",
+     "gloss": "body",
+     "grounds": "subject of third clause, also understood as fruitful",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which aspects of the devoted practitioner attain true fruitfulness?",
+   "premises": [
+    "Initiation becomes fruitful for the devoted practitioner.",
+    "Ritual action becomes fruitful for the devoted practitioner.",
+    "The practitioner's body becomes fruitful through devotion."
+   ],
+   "inference": "Therefore initiation, ritual action, and the body all attain fruitfulness for such a devotee.",
+   "uncertainties": [
+    "The predicate saphalā is expressed twice but applies implicitly to tanuḥ as well."
+   ],
+   "plain_english": "Indeed, O Goddess, initiation is fruitful, ritual action is fruitful, and the body is fruitful."
+  }
+ ]
+}

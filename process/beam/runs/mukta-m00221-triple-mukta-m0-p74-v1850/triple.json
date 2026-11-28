@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "ciccheda",
+     "gloss": "cut",
+     "grounds": "perfect form of root chid, third person singular active",
+     "morph": "3.sg.act-perf + root chid"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular masculine or neuter pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhṛtaṃ",
+     "gloss": "held",
+     "grounds": "past participle, accusative singular neuter",
+     "morph": "n.acc.sg (participle)"
+    },
+    {
+     "surface": "śastrasahasrakam",
+     "gloss": "thousand-weapons",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg compound"
+    }
+   ],
+   "question": "How are the enemy's held thousand weapons destroyed simultaneously?",
+   "premises": [
+    "The leader cuts the enemy's held weapons.",
+    "The cutting occurs simultaneously.",
+    "A thousand weapons are destroyed."
+   ],
+   "inference": "The enemy's armed assault is nullified in a single act.",
+   "uncertainties": [
+    "The exact referent of tasya is not stated in this verse.",
+    "The precise tense of ciccheda is not fully recoverable from the surface alone."
+   ],
+   "plain_english": "He cut the enemy's held thousand weapons all at once."
+  }
+ ]
+}

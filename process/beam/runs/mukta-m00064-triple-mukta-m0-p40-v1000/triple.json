@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "huṅkāreṇa",
+     "gloss": "by-hum-sound",
+     "grounds": "instrumental of huṅkāra, the utterance of the syllable huṃ",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun referring to the demon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhasmī+cakāra",
+     "gloss": "reduced-to-ashes",
+     "grounds": "verbal compound with bhasmī and √kṛ, made into ashes",
+     "morph": "3.sg.act-perfect √kṛ"
+    },
+    {
+     "surface": "dānava+uttamam",
+     "gloss": "foremost-demon",
+     "grounds": "compound: dānava+uttama, best among demons",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "What power instantly reduced the foremost demon to ashes?",
+   "premises": [
+    "A huṃ-sound was uttered.",
+    "The foremost demon was the target.",
+    "The huṃ-sound alone effected his destruction."
+   ],
+   "inference": "The utterance of the huṃ-sound alone reduced the foremost demon to ashes.",
+   "uncertainties": [],
+   "plain_english": "With the huṃ-sound alone, he reduced that foremost demon to ashes."
+  }
+ ]
+}

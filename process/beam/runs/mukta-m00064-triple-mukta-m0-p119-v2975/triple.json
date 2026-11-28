@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "on-all-sides",
+     "grounds": "indeclinable indicating extent in all directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krośa",
+     "gloss": "krośa",
+     "grounds": "unit of distance; first member of compound with mātrañ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātrañ",
+     "gloss": "measure-only",
+     "grounds": "mātram with sandhi before ca; limits extent to one krośa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "worldly enjoyment; first member of compound with mukti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "spiritual release; member of compound with phala",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "result or reward; member of compound with pradaḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "granting",
+     "grounds": "bestower of the stated fruits",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What spatial extent and dual fruits are granted by this sacred presence?",
+   "premises": [
+    "The influence extends on all sides.",
+    "The extent measures only one krośa.",
+    "The granted fruits are enjoyment and liberation."
+   ],
+   "inference": "Within a radius of one krośa on all sides, this presence bestows both worldly enjoyment and spiritual liberation.",
+   "uncertainties": [
+    "The exact length of a krośa is not specified in this verse."
+   ],
+   "plain_english": "On all sides for the measure of one krośa, it grants the fruits of enjoyment and liberation."
+  }
+ ]
+}

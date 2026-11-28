@@ -1,0 +1,1211 @@
+{
+ "song": "mukta-m0-p377",
+ "items": [
+  {
+   "verse": 9401,
+   "rows": [
+    {
+     "surface": "kurukullā",
+     "gloss": "kurukulla",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "virodhinyau",
+     "gloss": "two-opposing-ones",
+     "grounds": "pair of attendant figures",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "vipracittāṃ",
+     "gloss": "vipracitta",
+     "grounds": "name of attendant figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tṛtīyake",
+     "gloss": "in-third",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which attendant figures are placed in the third position with Kurukulla?",
+   "premises": [
+    "Kurukulla is named in this placement",
+    "Two opposing figures are specified",
+    "Vipracitta is located in the third position"
+   ],
+   "inference": "Kurukulla is accompanied by the two opposing ones and Vipracitta in the third position",
+   "uncertainties": [
+    "Exact spatial referent of tṛtīyake is context-dependent"
+   ],
+   "plain_english": "Kurukulla, the two opposing ones, and Vipracitta are in the third position."
+  },
+  {
+   "verse": 9402,
+   "rows": [
+    {
+     "surface": "mātrāṃ",
+     "gloss": "mother",
+     "grounds": "attendant figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "murdrā",
+     "gloss": "mudra",
+     "grounds": "attendant or gesture figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mitrāṃ",
+     "gloss": "mitra",
+     "grounds": "attendant figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "ordinal position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √yaj"
+    }
+   ],
+   "question": "Which figures must be worshipped in the fifth triangle?",
+   "premises": [
+    "The mother figure is to be worshipped",
+    "Mudra and Mitra are included",
+    "The worship occurs in the fifth triangle"
+   ],
+   "inference": "One should worship the mother, Mudra, and Mitra in the fifth triangle",
+   "uncertainties": [
+    "Identity of murdrā as name or mudra is ambiguous"
+   ],
+   "plain_english": "One should worship the mother, Mudra, and Mitra in the fifth triangle."
+  },
+  {
+   "verse": 9403,
+   "rows": [
+    {
+     "surface": "tarjjanīṃ",
+     "gloss": "index-finger",
+     "grounds": "gesture object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmahastena",
+     "gloss": "with-left-hand",
+     "grounds": "instrument of gesture",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dhārayanti",
+     "gloss": "they-hold",
+     "grounds": "action of attendants",
+     "morph": "3.pl.act-present √dhṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasmitāḥ",
+     "gloss": "with-smiles",
+     "grounds": "attendant demeanor",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What gesture and demeanor characterize the attendant figures in this rite?",
+   "premises": [
+    "The index finger is held",
+    "The left hand performs the holding",
+    "The figures are smiling"
+   ],
+   "inference": "The smiling attendants hold up the index finger with the left hand",
+   "uncertainties": [],
+   "plain_english": "Smiling, they hold up the index finger with the left hand."
+  },
+  {
+   "verse": 9404,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(indecl.) gerund √pūj"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "with-care",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sampratipādayet",
+     "gloss": "one-should-present",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative causative √pad"
+    }
+   ],
+   "question": "What ritual action must follow careful worship in this sequence?",
+   "premises": [
+    "Worship has been performed carefully",
+    "An offering is specified",
+    "Presentation of the offering is enjoined"
+   ],
+   "inference": "After careful worship one should present the offering",
+   "uncertainties": [],
+   "plain_english": "Having worshipped carefully, one should present the offering."
+  },
+  {
+   "verse": 9405,
+   "rows": [
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "used-offering",
+     "grounds": "remnant of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śucau",
+     "gloss": "in-pure",
+     "grounds": "quality of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "place",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhārayecca",
+     "gloss": "and-one-should-keep",
+     "grounds": "injunction with sandhi dhārayet+ca",
+     "morph": "3.sg.act-optative √dhṛ + (indecl.)"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "continuous duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the used ritual offering be preserved after worship?",
+   "premises": [
+    "The used offering is the object",
+    "A pure place is required",
+    "It must always be kept"
+   ],
+   "inference": "One should always keep the used offering in a pure place",
+   "uncertainties": [
+    "dhārayecca analyzed as fused optative plus ca"
+   ],
+   "plain_english": "One should indeed always keep the used offering in a pure place."
+  },
+  {
+   "verse": 9406,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "proportional offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer-fire",
+     "grounds": "fire oblation",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "ājyaḥ",
+     "gloss": "with-ghee",
+     "grounds": "oblation substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tarpayed",
+     "gloss": "one-should-satisfy",
+     "grounds": "libation rite",
+     "morph": "3.sg.act-optative causative √tṛp"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "bathing rite",
+     "morph": "3.sg.act-optative causative √sic"
+    }
+   ],
+   "question": "Which concluding ritual acts complete the worship sequence described here?",
+   "premises": [
+    "A tenth part is offered in fire with ghee",
+    "Satisfaction through libation is enjoined",
+    "Consecration by bathing is enjoined"
+   ],
+   "inference": "One should perform fire offering, libation, and consecration as concluding acts",
+   "uncertainties": [
+    "ājyaḥ form taken as instrumental in function despite surface"
+   ],
+   "plain_english": "One should offer a tenth part in fire with ghee, perform libation, and consecrate."
+  },
+  {
+   "verse": 9407,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual procedures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.mid-optative √kṛ"
+    },
+    {
+     "surface": "kāmyāni",
+     "gloss": "desire-aimed",
+     "grounds": "goal-oriented rites",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "iṣṭa-phala-āptaye",
+     "gloss": "for-desired-fruit-attainment",
+     "grounds": "purpose of rites",
+     "morph": "compound f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should desire-oriented ritual applications be performed afterward?",
+   "premises": [
+    "Ritual applications follow the prior sequence",
+    "These applications are desire-oriented",
+    "Their purpose is attainment of desired fruit"
+   ],
+   "inference": "Afterward one should perform desire-oriented applications to attain the desired fruit",
+   "uncertainties": [],
+   "plain_english": "Then one should perform desire-oriented rituals for the attainment of the desired result."
+  },
+  {
+   "verse": 9408,
+   "rows": [
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of contemplation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sañcintya",
+     "gloss": "having-contemplated",
+     "grounds": "meditative act",
+     "morph": "(indecl.) gerund √cint"
+    },
+    {
+     "surface": "mahākāla-samīpagām",
+     "gloss": "near-mahakala-going",
+     "grounds": "goddess as near Mahakala",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "How must the goddess be visualized in relation to Mahakala?",
+   "premises": [
+    "The goddess is the object of contemplation",
+    "The contemplation is done in this manner",
+    "She is visualized as near Mahakala"
+   ],
+   "inference": "One should contemplate the goddess as being near Mahakala",
+   "uncertainties": [],
+   "plain_english": "Thus one should contemplate the goddess as being near Mahakala."
+  },
+  {
+   "verse": 9409,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "temporal position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūla-mantrasya",
+     "gloss": "of-root-mantra",
+     "grounds": "mantra referent",
+     "morph": "compound m.gen.sg"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "inclusive series",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √car"
+    }
+   ],
+   "question": "What ritual activities must be performed at the end of the root mantra?",
+   "premises": [
+    "The end of the root mantra is specified",
+    "Recitation and worship are named",
+    "Additional related acts are included"
+   ],
+   "inference": "At the end of the root mantra one should perform recitation, worship, and related acts",
+   "uncertainties": [],
+   "plain_english": "At the end, one should perform recitation, worship, and so forth of the root mantra."
+  },
+  {
+   "verse": 9410,
+   "rows": [
+    {
+     "surface": "svaṃ-svaṃ",
+     "gloss": "each-own",
+     "grounds": "distributive possession",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "santyajya",
+     "gloss": "having-abandoned",
+     "grounds": "prior action",
+     "morph": "(indecl.) gerund √tyaj"
+    },
+    {
+     "surface": "bharttāram",
+     "gloss": "husband",
+     "grounds": "abandoned consort",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āliṅganti",
+     "gloss": "they-embrace",
+     "grounds": "action toward him",
+     "morph": "3.pl.act-present √liṅg"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "continuous action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "embraced figure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom do the figures embrace after abandoning their own husbands?",
+   "premises": [
+    "Each abandons her own husband",
+    "They embrace him",
+    "The embrace is constant"
+   ],
+   "inference": "Having abandoned their own husbands, they always embrace him",
+   "uncertainties": [
+    "Referent of tam depends on prior context"
+   ],
+   "plain_english": "Having abandoned their own husbands, they always embrace him."
+  },
+  {
+   "verse": 9411,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(indecl.) gerund √dhyai"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "offering material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pītaiḥ",
+     "gloss": "yellow",
+     "grounds": "color of flowers",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "attraction",
+     "grounds": "desired result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What ritual result follows worship with yellow flowers after meditation?",
+   "premises": [
+    "Meditation precedes worship",
+    "Worship uses yellow flowers",
+    "Attraction is stated as the result"
+   ],
+   "inference": "Meditating and worshipping with yellow flowers brings about attraction",
+   "uncertainties": [],
+   "plain_english": "Having meditated, one should worship with yellow flowers; attraction will result."
+  },
+  {
+   "verse": 9412,
+   "rows": [
+    {
+     "surface": "dhyātva",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(indecl.) gerund √dhyai"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva-mantra-ante",
+     "gloss": "at-all-mantra-end",
+     "grounds": "ritual position",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "ṭa",
+     "gloss": "ta-syllable",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "repetition count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikīrtayet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √kīrt"
+    }
+   ],
+   "question": "What syllabic recitation must be added at the end of all mantras?",
+   "premises": [
+    "Meditation is performed thus",
+    "The position is the end of all mantras",
+    "The syllable ta is recited twice"
+   ],
+   "inference": "After meditating thus, one should recite the syllable ta twice at the end of all mantras",
+   "uncertainties": [
+    "ṭa treated as mantra syllable, not translated"
+   ],
+   "plain_english": "Having meditated thus, one should recite the syllable ṭa twice at the end of all mantras."
+  },
+  {
+   "verse": 9413,
+   "rows": [
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "resulting event",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "targeted person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yam",
+     "gloss": "whom",
+     "grounds": "relative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-targeted",
+     "grounds": "intentional act",
+     "morph": "(indecl.) gerund √diś"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "done",
+     "grounds": "performed action",
+     "morph": "f.nom.sg past-participle √kṛ"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fatal outcome is said to follow a rite directed at a chosen target?",
+   "premises": [
+    "A rite is performed with a specific target",
+    "The target is intentionally designated",
+    "Death is stated as the result for that person"
+   ],
+   "inference": "If the rite is performed targeting someone, death would come to that person",
+   "uncertainties": [],
+   "plain_english": "Death would come to the one against whom this rite is performed."
+  },
+  {
+   "verse": 9414,
+   "rows": [
+    {
+     "surface": "vidrāvayati",
+     "gloss": "drives-away",
+     "grounds": "effect of figure",
+     "morph": "3.sg.act-present causative √dru"
+    },
+    {
+     "surface": "śuṣka-āsyā",
+     "gloss": "dry-mouthed",
+     "grounds": "epithet of figure",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "unmattayati",
+     "gloss": "maddens",
+     "grounds": "effect of figure",
+     "morph": "3.sg.act-present causative √mad"
+    },
+    {
+     "surface": "ghūrṇikā",
+     "gloss": "whirling-one",
+     "grounds": "name of figure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What distinct magical effects are attributed to the Dry-Mouthed and Whirling figures?",
+   "premises": [
+    "The dry-mouthed figure drives away",
+    "The whirling figure maddens",
+    "Each figure has a specific effect"
+   ],
+   "inference": "The Dry-Mouthed one drives away, and the Whirling one maddens",
+   "uncertainties": [],
+   "plain_english": "The Dry-Mouthed one drives away; the Whirling one maddens."
+  },
+  {
+   "verse": 9415,
+   "rows": [
+    {
+     "surface": "saṅkocayati",
+     "gloss": "contracts",
+     "grounds": "effect of figure",
+     "morph": "3.sg.act-present causative √kuc"
+    },
+    {
+     "surface": "saṃruddhā",
+     "gloss": "restrained-one",
+     "grounds": "name of figure",
+     "morph": "f.nom.sg past-participle √rudh"
+    },
+    {
+     "surface": "viruddhā",
+     "gloss": "opposing-one",
+     "grounds": "name of figure",
+     "morph": "f.nom.sg past-participle √rudh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virodhayet",
+     "gloss": "would-cause-opposition",
+     "grounds": "effect of figure",
+     "morph": "3.sg.act-optative causative √rudh"
+    }
+   ],
+   "question": "What opposing magical effects are attributed to the Restrained and Opposing figures?",
+   "premises": [
+    "The restrained figure causes contraction",
+    "The opposing figure causes opposition",
+    "Both effects are specified"
+   ],
+   "inference": "The Restrained one contracts, and the Opposing one causes opposition",
+   "uncertainties": [],
+   "plain_english": "The Restrained one contracts; the Opposing one causes opposition."
+  },
+  {
+   "verse": 9416,
+   "rows": [
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "uprooting",
+     "grounds": "excluded rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "except",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "in-all-cases",
+     "grounds": "general scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surataṃ",
+     "gloss": "sexual-union",
+     "grounds": "prescribed act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "doctrinal view",
+     "morph": "n.nom.sg past-participle √man"
+    }
+   ],
+   "question": "Which ritual act is generally prescribed except in the case of uprooting?",
+   "premises": [
+    "Uprooting is excluded",
+    "In all other cases a rule applies",
+    "Sexual union is considered prescribed"
+   ],
+   "inference": "Except for uprooting, sexual union is considered prescribed in all cases",
+   "uncertainties": [],
+   "plain_english": "Except in uprooting, sexual union is considered prescribed in all other cases."
+  },
+  {
+   "verse": 9417,
+   "rows": [
+    {
+     "surface": "avākyaḥ",
+     "gloss": "without-speech",
+     "grounds": "practitioner condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukta-keśaḥ",
+     "gloss": "loosened-hair",
+     "grounds": "practitioner condition",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "they-would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.pl.act-optative √as"
+    },
+    {
+     "surface": "sarva-siddhayaḥ",
+     "gloss": "all-accomplishments",
+     "grounds": "attained powers",
+     "morph": "compound f.nom.pl"
+    }
+   ],
+   "question": "What practitioner conditions lead to the attainment of all accomplishments?",
+   "premises": [
+    "The practitioner remains without speech",
+    "The practitioner has loosened hair",
+    "All accomplishments result for him"
+   ],
+   "inference": "By remaining silent and with loosened hair, he attains all accomplishments",
+   "uncertainties": [],
+   "plain_english": "Silent and with loosened hair, he attains all accomplishments."
+  },
+  {
+   "verse": 9418,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "sarva-siddhīnām",
+     "gloss": "of-all-accomplishments",
+     "grounds": "domain mastered",
+     "morph": "compound f.gen.pl"
+    },
+    {
+     "surface": "pāragaḥ",
+     "gloss": "gone-beyond",
+     "grounds": "mastery",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "permanence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lasting mastery is attained by the practitioner described here?",
+   "premises": [
+    "The practitioner is the subject",
+    "Mastery over all accomplishments is stated",
+    "This mastery is permanent"
+   ],
+   "inference": "He would always be one who has mastered all accomplishments",
+   "uncertainties": [],
+   "plain_english": "He would indeed always become a master of all accomplishments."
+  },
+  {
+   "verse": 9419,
+   "rows": [
+    {
+     "surface": "gadya",
+     "gloss": "prose",
+     "grounds": "form of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padya",
+     "gloss": "verse",
+     "grounds": "form of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayī",
+     "gloss": "consisting-of",
+     "grounds": "composition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "faculty of expression",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarva-vidhā",
+     "gloss": "of-every-kind",
+     "grounds": "scope of speech",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What kind of eloquent speech arises for the accomplished practitioner?",
+   "premises": [
+    "Speech consisting of prose and verse arises",
+    "It belongs to the practitioner",
+    "It is of every kind"
+   ],
+   "inference": "His speech would become of every kind, consisting of prose and verse",
+   "uncertainties": [],
+   "plain_english": "His speech would become of every kind, consisting of prose and verse."
+  },
+  {
+   "verse": 9420,
+   "rows": [
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "ayutam",
+     "gloss": "ten-thousand",
+     "grounds": "recitation count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "that-much",
+     "grounds": "extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratinidhiḥ",
+     "gloss": "substitute",
+     "grounds": "replacement status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What recitation count serves as a valid substitute in this practice?",
+   "premises": [
+    "Recitation is enjoined",
+    "The count is ten thousand",
+    "This functions as a substitute"
+   ],
+   "inference": "Reciting ten thousand times in this way serves as a substitute",
+   "uncertainties": [
+    "What is substituted is not specified in this verse"
+   ],
+   "plain_english": "One should recite ten thousand times; thus it becomes a substitute."
+  },
+  {
+   "verse": 9421,
+   "rows": [
+    {
+     "surface": "anargha",
+     "gloss": "priceless",
+     "grounds": "quality of poetry",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kavitā",
+     "gloss": "poetry",
+     "grounds": "creative expression",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gadya",
+     "gloss": "prose",
+     "grounds": "form of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padya",
+     "gloss": "verse",
+     "grounds": "form of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayī",
+     "gloss": "consisting-of",
+     "grounds": "composition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What quality of poetic expression arises for the practitioner as a result?",
+   "premises": [
+    "Poetry arises for the practitioner",
+    "It consists of prose and verse",
+    "It is described as priceless"
+   ],
+   "inference": "His poetry, consisting of prose and verse, would become priceless",
+   "uncertainties": [],
+   "plain_english": "His poetry, consisting of prose and verse, would become priceless."
+  },
+  {
+   "verse": 9422,
+   "rows": [
+    {
+     "surface": "prajāti",
+     "gloss": "goes-forth",
+     "grounds": "action of practitioner",
+     "morph": "3.sg.act-present √jā"
+    },
+    {
+     "surface": "maithunam",
+     "gloss": "to-sexual-union",
+     "grounds": "ritual or physical act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "whoever",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that-one",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "suta-anvitaḥ",
+     "gloss": "endowed-with-sons",
+     "grounds": "possessing wealth grain and sons",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What material and familial prosperity follows from engaging in sexual union in this context?",
+   "premises": [
+    "Whoever engages in sexual union is described",
+    "That person becomes endowed with wealth and grain",
+    "That person becomes endowed with sons"
+   ],
+   "inference": "Whoever engages in sexual union becomes endowed with wealth, grain, and sons",
+   "uncertainties": [
+    "Ritual versus ordinary sense of maithunam depends on context"
+   ],
+   "plain_english": "Whoever engages in sexual union becomes endowed with wealth, grain, and sons."
+  },
+  {
+   "verse": 9423,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoṣit",
+     "gloss": "by-woman",
+     "grounds": "agent or locus",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasaṅgena",
+     "gloss": "through-contact",
+     "grounds": "circumstance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "retaḥ",
+     "gloss": "semen",
+     "grounds": "substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "event",
+     "morph": "3.sg.act-present √pat"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what circumstance involving a woman does semen fall in this ritual context?",
+   "premises": [
+    "A conditional situation is introduced",
+    "Contact with a woman is involved",
+    "Semen falls carefully"
+   ],
+   "inference": "If through contact with a woman semen falls, it is done carefully",
+   "uncertainties": [
+    "Exact syntactic role of yoṣit and scope of yatnataḥ are ambiguous"
+   ],
+   "plain_english": "If, through contact with a woman, semen falls, it should be done carefully."
+  },
+  {
+   "verse": 9424,
+   "rows": [
+    {
+     "surface": "śmaśāna",
+     "gloss": "cremation-ground",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgāram",
+     "gloss": "ember",
+     "grounds": "ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "prior action",
+     "morph": "(indecl.) gerund √dā"
+    },
+    {
+     "surface": "mukta-keśaḥ",
+     "gloss": "loosened-hair",
+     "grounds": "practitioner condition",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "dig-ambaraḥ",
+     "gloss": "sky-clad",
+     "grounds": "practitioner condition",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What objects and bodily conditions define the practitioner in this cremation-ground act?",
+   "premises": [
+    "An ember from the cremation ground is taken",
+    "The practitioner has loosened hair",
+    "The practitioner is sky-clad"
+   ],
+   "inference": "Having taken a cremation-ground ember, the practitioner is loosened-haired and sky-clad",
+   "uncertainties": [],
+   "plain_english": "Having taken an ember from the cremation ground, he is with loosened hair and sky-clad."
+  }
+ ]
+}

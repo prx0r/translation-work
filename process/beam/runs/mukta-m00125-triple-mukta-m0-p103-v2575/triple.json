@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "śastrāgnibhṛgupātāmbupraveśa",
+     "gloss": "weapon-fire-cliff-fall-water-entry",
+     "grounds": "compound denoting modes of death: śastra (weapon), agni (fire), bhṛgupāta (fall from a height), ambupraveśa (entry into water)",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-prescribed-rite",
+     "grounds": "instrumental indicating the manner or prescribed procedure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "dead",
+     "grounds": "past participle referring to those who have died",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which modes of death qualify individuals for inclusion in the prescribed ancestral rites?",
+   "premises": [
+    "Death may occur by weapon, fire, falling from a height, or entering water.",
+    "Such deaths are considered in relation to a prescribed rite.",
+    "Individuals who have died in these specified ways are identified as a distinct group."
+   ],
+   "inference": "Those who died by weapon, fire, falling from a height, or entering water according to the prescribed rite constitute a category designated for ancestral rites.",
+   "uncertainties": [
+    "Whether vidhinā qualifies the manner of death or the ritual procedure applied to the deceased is contextually ambiguous."
+   ],
+   "plain_english": "Those who have died by weapon, fire, falling from a height, or entering water according to the prescribed rite."
+  }
+ ]
+}

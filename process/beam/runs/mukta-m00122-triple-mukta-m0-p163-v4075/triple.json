@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4075,
+   "rows": [
+    {
+     "surface": "jvarādigadasambhava",
+     "gloss": "fever-etc-disease-not-arising",
+     "grounds": "legacy hint fever-etc-disease-not-arising; analyzed as fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "thus-by-this",
+     "grounds": "iti+anena fused sandhi form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is said about fever and other diseases not arising?",
+   "premises": [
+    "fever and other diseases do not arise",
+    "thus by this and"
+   ],
+   "inference": "the verse states that fever and other diseases do not arise",
+   "uncertainties": [
+    "exact syntactic role of the fused compound remains unclear"
+   ],
+   "plain_english": "Thus by this, fever and other diseases do not arise."
+  }
+ ]
+}

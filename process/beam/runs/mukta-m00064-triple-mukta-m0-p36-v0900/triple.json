@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "plavaś",
+     "gloss": "plava",
+     "grounds": "named figure or category in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavanaś",
+     "gloss": "yavana",
+     "grounds": "named figure or category in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective compound ca+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saumāraś",
+     "gloss": "saumāra",
+     "grounds": "named figure or category in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvara",
+     "gloss": "o-great-lord",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which named figures are enumerated in the address to Maheśvara?",
+   "premises": [
+    "Plava is named as an item in the enumeration.",
+    "Yavana is included with emphatic connective particles.",
+    "Saumāra is named before the vocative address to Maheśvara."
+   ],
+   "inference": "The verse enumerates Plava, Yavana, and Saumāra while directly addressing Maheśvara.",
+   "uncertainties": [
+    "The specific referents or doctrinal roles of Plava, Yavana, and Saumāra are not explicit in this verse alone."
+   ],
+   "plain_english": "Plava, and Yavana, and indeed Saumāra too, O Maheśvara."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the previously mentioned ritual performance",
+     "morph": "pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "describes the ritual as lacking its intended result",
+     "morph": "adj.nom/acc.sg.n"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive injunction regarding the outcome of improper ritual",
+     "morph": "3.sg.opt.act √vid"
+    },
+    {
+     "surface": "kruddhā",
+     "gloss": "angered",
+     "grounds": "describes the deity's response to the improper performance",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the resulting condition of the deity",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "the divine recipient of the ritual worship",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What consequences arise for ritual efficacy and the deity when prescribed ritual seats are neglected?",
+   "premises": [
+    "Ritual acts performed without prescribed seats lack their intended fruit.",
+    "Improper ritual performance affects the disposition of the worshipped deity.",
+    "A deity becomes angered when ritual prescriptions are disregarded."
+   ],
+   "inference": "Therefore, neglecting the prescribed seats renders the ritual fruitless and provokes the deity's anger.",
+   "uncertainties": [
+    "The exact scope of 'tat' depends on the immediately preceding ritual prescriptions in context."
+   ],
+   "plain_english": "One should know that such worship is fruitless, and the deity becomes angered."
+  }
+ ]
+}

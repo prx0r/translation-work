@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "kalaśe",
+     "gloss": "on-the-pot",
+     "grounds": "locative of kalaśa, the ritual pot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "veṣṭanaṃ",
+     "gloss": "wrapping",
+     "grounds": "action noun denoting the act of winding or wrapping",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvitrivyomasūtraiḥ",
+     "gloss": "with-two-three-sky-threads",
+     "grounds": "instrumental plural compound; dvitrivyoma may indicate counts two, three, or vyoma, applied to sūtra (threads/cords)",
+     "morph": "compound:n.inst.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental expressing sequential manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the prescribed manner and number of threads for wrapping the ritual pot?",
+   "premises": [
+    "The ritual pot (kalaśa) is the locus for a wrapping.",
+    "The wrapping is performed with threads designated as two, three, or vyoma.",
+    "The application of these threads follows a sequential order."
+   ],
+   "inference": "The ritual pot must be wrapped in sequence with threads in the specified counts.",
+   "uncertainties": [
+    "The precise referent of vyoma in dvitrivyomasūtraiḥ is unclear in this context."
+   ],
+   "plain_english": "But on the pot, the wrapping is to be done in order with two, three, or sky threads."
+  }
+ ]
+}

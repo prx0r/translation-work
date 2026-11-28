@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "sarvālābhe",
+     "gloss": "in-absence-of-all",
+     "grounds": "locative sense indicating lack of all other options",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māheyaṃ",
+     "gloss": "earthen",
+     "grounds": "made of clay",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svahastaghaṭitaṃ",
+     "gloss": "fashioned-by-own-hand",
+     "grounds": "compound: sva+hasta+ghaṭita",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vessel material is acceptable when no other options are available?",
+   "premises": [
+    "All preferred materials may be unavailable.",
+    "An earthen vessel remains possible.",
+    "The vessel may be fashioned by one's own hand."
+   ],
+   "inference": "In the absence of all other materials, a hand-made earthen vessel is acceptable.",
+   "uncertainties": [],
+   "plain_english": "But if nothing else is available, an earthen vessel fashioned by one's own hand may be used."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarṇavat",
+     "gloss": "like-gold",
+     "grounds": "comparative compound with gold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmram",
+     "gloss": "copper",
+     "grounds": "metal material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arghyapātre",
+     "gloss": "in-arghya-vessel",
+     "grounds": "compound: arghya+pātra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tato'dhikam",
+     "gloss": "more-than-that",
+     "grounds": "comparative expression indicating superiority",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which metal is especially suitable for the arghya vessel in all contexts?",
+   "premises": [
+    "The arghya vessel requires suitable material.",
+    "Copper is compared to gold.",
+    "Copper is valued above that alternative."
+   ],
+   "inference": "Copper is suitable everywhere for the arghya vessel and is even superior in that context.",
+   "uncertainties": [
+    "The exact referent of 'more than that' is contextually implied."
+   ],
+   "plain_english": "Everywhere, copper is like gold for the arghya vessel, and even more than that."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "balihomakriyārthaṃ",
+     "gloss": "for-bali-and-homa-rites",
+     "grounds": "compound: bali+homa+kriyā+artha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinā pātraṃ",
+     "gloss": "without-vessel",
+     "grounds": "prepositional phrase with accusative object",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "na siddhyati",
+     "gloss": "does-not-succeed",
+     "grounds": "negated verb of accomplishment",
+     "morph": "3.sg.present-active + root sidh"
+    }
+   ],
+   "question": "Can bali and homa rites be accomplished without a proper vessel?",
+   "premises": [
+    "Bali and homa are ritual acts.",
+    "These acts require a vessel.",
+    "Without a vessel they do not succeed."
+   ],
+   "inference": "A vessel is indispensable for the successful performance of bali and homa rites.",
+   "uncertainties": [],
+   "plain_english": "Indeed, for the rites of bali and homa, nothing succeeds without a vessel."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "intermediate size category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgonaṃ",
+     "gloss": "less-by-third",
+     "grounds": "compound: tri+bhāga+ūna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaniṣṭhaṃ",
+     "gloss": "smallest",
+     "grounds": "lowest size category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśāṃgulam",
+     "gloss": "twelve-fingers",
+     "grounds": "compound: dvādaśa+aṅgula, measure of length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the relative measurements prescribed for middle and smallest vessels?",
+   "premises": [
+    "Vessels are classified by size.",
+    "The middle size is reduced by one third.",
+    "The smallest measures twelve finger-breadths."
+   ],
+   "inference": "The middle vessel is one third less than a standard, and the smallest is twelve aṅgulas.",
+   "uncertainties": [
+    "The base measurement from which the middle is reduced is not stated here."
+   ],
+   "plain_english": "The middle vessel is less by one third, and the smallest is twelve aṅgulas."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "nābhivivararūpāṇi",
+     "gloss": "shaped-like-navel-cavity",
+     "grounds": "compound: nābhi+vivara+rūpa",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puṇḍarīkākṛtīni",
+     "gloss": "lotus-shaped",
+     "grounds": "compound: puṇḍarīka+ākṛti",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What shapes are prescribed for the ritual vessels described here?",
+   "premises": [
+    "Vessels may have specific forms.",
+    "One form resembles a navel cavity.",
+    "Another form resembles a lotus."
+   ],
+   "inference": "The vessels should be shaped like a navel cavity and like a lotus.",
+   "uncertainties": [],
+   "plain_english": "They should be shaped like a navel cavity and like a lotus."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "tattadbhūtasamānābhamaṇḍalābhāni",
+     "gloss": "radiant-like-respective-elements",
+     "grounds": "compound: tat-tad+bhūta+samāna+ābha+maṇḍala+ābha",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active + root kḷp"
+    }
+   ],
+   "question": "How should the radiance of the vessel designs be conceived?",
+   "premises": [
+    "Vessels can be fashioned with specific appearances.",
+    "Their radiance should correspond to particular elements.",
+    "The practitioner should intentionally fashion them so."
+   ],
+   "inference": "One should fashion the vessels with a radiance resembling that of the respective elements.",
+   "uncertainties": [
+    "The specific elements intended are not named in this verse."
+   ],
+   "plain_english": "One should fashion them with a radiance like that of the respective elements."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "yādṛśaṃ pātrarūpaṃ",
+     "gloss": "whatever-vessel-form",
+     "grounds": "correlative phrase describing form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "may-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative-active + root as"
+    },
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "support",
+     "grounds": "base or stand for the vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tādṛgānayet",
+     "gloss": "bring-corresponding",
+     "grounds": "compound verb sense: tādṛś + ānayet",
+     "morph": "3.sg.optative-active + root nī with ā"
+    }
+   ],
+   "question": "How should the support be matched to the form of the vessel?",
+   "premises": [
+    "A vessel may have a particular form.",
+    "A support is required for the vessel.",
+    "The support should correspond to that form."
+   ],
+   "inference": "Whatever the form of the vessel, one should provide a support of corresponding form.",
+   "uncertainties": [],
+   "plain_english": "Whatever the form of the vessel may be, one should bring a support of corresponding form."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "śāntike",
+     "gloss": "for-pacification",
+     "grounds": "ritual purpose",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pauṣṭike",
+     "gloss": "for-nourishment",
+     "grounds": "ritual purpose of prosperity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājataṃ",
+     "gloss": "silver",
+     "grounds": "metal material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-have-made",
+     "grounds": "causative prescriptive optative",
+     "morph": "3.sg.causative-optative-active + root kṛ"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What vessel material is prescribed for pacification and nourishment rites?",
+   "premises": [
+    "Rites may aim at pacification.",
+    "Rites may aim at nourishment.",
+    "Silver is specified for these purposes."
+   ],
+   "inference": "For pacification and nourishment rites, one should have a silver vessel made.",
+   "uncertainties": [],
+   "plain_english": "Dear one, for rites of pacification and nourishment, one should have a silver vessel made."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "stambhakāryeṣu",
+     "gloss": "in-immobilizing-rites",
+     "grounds": "compound: stambha+kārya",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "universal qualifier",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "adverbial emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛnmayam",
+     "gloss": "made-of-clay",
+     "grounds": "material adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What vessel material is especially prescribed for all immobilizing rites?",
+   "premises": [
+    "Immobilizing rites form a distinct class.",
+    "All such rites are included.",
+    "An earthen vessel is especially specified."
+   ],
+   "inference": "For all immobilizing rites, an earthen vessel is especially prescribed.",
+   "uncertainties": [],
+   "plain_english": "But especially in all rites of immobilization, one should use an earthen vessel."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "tatpātreṇa",
+     "gloss": "with-that-vessel",
+     "grounds": "compound: tat+pātra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "noble-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yastu tarpayet",
+     "gloss": "whoever-satisfies",
+     "grounds": "relative clause with optative verb",
+     "morph": "m.nom.sg + 3.sg.optative-causative-active + root tṛp"
+    }
+   ],
+   "question": "What ritual act is performed for the deity using that specified vessel?",
+   "premises": [
+    "A specific vessel has been indicated.",
+    "The deity is the object of ritual action.",
+    "The act is one of satisfying or offering."
+   ],
+   "inference": "Whoever satisfies the deity with that vessel performs the prescribed offering.",
+   "uncertainties": [],
+   "plain_english": "Noble lady, whoever satisfies the deity with that vessel..."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrārṇanakṣatravṛkṣotthaṃ",
+     "gloss": "born-from-mantra-syllable-star-tree",
+     "grounds": "compound: mantra+arṇa+nakṣatra+vṛkṣa+uttha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pātramuttamam",
+     "gloss": "vessel-supreme",
+     "grounds": "compound: pātra+uttama",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative vessel source is considered supreme for ritual use?",
+   "premises": [
+    "Vessels may be derived from specific sources.",
+    "A source linked to mantra, syllable, star, and tree is named.",
+    "Such a vessel is called supreme."
+   ],
+   "inference": "A vessel derived from the tree associated with mantra, syllable, and lunar mansion is supreme.",
+   "uncertainties": [
+    "The exact method of deriving the tree association is not specified here."
+   ],
+   "plain_english": "Likewise, a vessel born from the tree associated with the mantra syllable and lunar mansion is supreme."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "in-that-very-way",
+     "grounds": "emphatic continuative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasiddhiḥ",
+     "gloss": "mantra-accomplishment",
+     "grounds": "compound: mantra+siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of result",
+     "morph": "3.sg.optative-active + root as"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negation with locative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā vicāraṇā",
+     "gloss": "to-be-made-deliberation",
+     "grounds": "gerundive phrase expressing prohibition of doubt",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does using such a vessel reliably lead to accomplishment of the mantra?",
+   "premises": [
+    "A supreme vessel source has been stated.",
+    "Mantra accomplishment is the desired result.",
+    "No deliberation or doubt is to be made."
+   ],
+   "inference": "In that way mantra accomplishment arises, and there should be no doubt about it.",
+   "uncertainties": [],
+   "plain_english": "In that very way, mantra accomplishment will occur; there should be no deliberation about this."
+  },
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "mantrarkṣayonisambhūtapātraṃ",
+     "gloss": "vessel-born-from-mantra-star-source",
+     "grounds": "compound: mantra+ṛkṣa+yoni+sambhūta+pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caivottamottamam",
+     "gloss": "and-supreme-of-supreme",
+     "grounds": "compound: ca+eva+uttama+uttama",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What vessel is ranked as the highest among all prescribed options?",
+   "premises": [
+    "Vessels can be ranked by excellence.",
+    "One is born from mantra, lunar mansion, and source.",
+    "This vessel is called supreme of the supreme."
+   ],
+   "inference": "A vessel born from the mantra, lunar mansion, and source is the very highest.",
+   "uncertainties": [
+    "The precise meaning of 'yoni' in this compound is context-dependent."
+   ],
+   "plain_english": "And a vessel born from the mantra, lunar mansion, and source is the supreme of the supreme."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "parābhicāraśamanaṃ",
+     "gloss": "pacifying-hostile-magic",
+     "grounds": "compound: para+abhicāra+śamana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svamantrāṇāṃ ca siddhidam",
+     "gloss": "and-giving-success-of-own-mantras",
+     "grounds": "compound: sva+mantra+siddhida",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What protective and empowering effects does this highest vessel provide?",
+   "premises": [
+    "The highest vessel has ritual efficacy.",
+    "It can pacify hostile magic.",
+    "It can grant success to one's own mantras."
+   ],
+   "inference": "This vessel pacifies hostile magic and grants accomplishment of one's own mantras.",
+   "uncertainties": [],
+   "plain_english": "It pacifies hostile magic and gives success to one's own mantras."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "ritual implements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śrīgurumukhāt",
+     "gloss": "from-mouth-of-revered-guru",
+     "grounds": "compound: śrī+guru+mukha",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive indicating prior knowledge",
+     "morph": "(indecl.) absolutive + root jñā"
+    },
+    {
+     "surface": "arcana-vidhau",
+     "gloss": "in-worship-procedure",
+     "grounds": "compound: arcana+vidhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active + root kṣip"
+    }
+   ],
+   "question": "From whom must knowledge of the vessels be received before using them in worship?",
+   "premises": [
+    "Vessels are used in worship procedure.",
+    "Their proper knowledge must be obtained first.",
+    "The source of this knowledge is the revered guru's mouth."
+   ],
+   "inference": "One should learn about the vessels from the revered guru and then place them in the worship rite.",
+   "uncertainties": [],
+   "plain_english": "Having learned about the vessels from the mouth of the revered guru, one should place them in the rite of worship."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "kāṣṭhapātraṃ",
+     "gloss": "wooden-vessel",
+     "grounds": "compound: kāṣṭha+pātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active + root jñā with vi"
+    },
+    {
+     "surface": "mantrārādhanakarmaṇi",
+     "gloss": "in-mantra-worship-act",
+     "grounds": "compound: mantra+ārādhana+karman",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what ritual context should a wooden vessel be recognized as appropriate?",
+   "premises": [
+    "Different vessels suit different acts.",
+    "A wooden vessel is specified.",
+    "The context is mantra worship."
+   ],
+   "inference": "One should recognize a wooden vessel as appropriate in the act of mantra worship.",
+   "uncertainties": [],
+   "plain_english": "One should know that a wooden vessel is used in the act of mantra worship."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "gurupātraṃ",
+     "gloss": "guru-vessel",
+     "grounds": "compound: guru+pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhogapātraṃ",
+     "gloss": "enjoyment-vessel",
+     "grounds": "compound: bhoga+pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "balipātram",
+     "gloss": "offering-vessel",
+     "grounds": "compound: bali+pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-sequence",
+     "grounds": "ablative indicating order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered sequence of vessel types is prescribed in this context?",
+   "premises": [
+    "Multiple vessel types are named.",
+    "They are listed as guru, enjoyment, and offering vessels.",
+    "The listing follows a sequence."
+   ],
+   "inference": "The vessels are to be understood in sequence as guru vessel, enjoyment vessel, and offering vessel.",
+   "uncertainties": [],
+   "plain_english": "In sequence: the guru vessel, the enjoyment vessel, and the offering vessel."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "aṅgaṃ",
+     "gloss": "limb",
+     "grounds": "ritual vessel designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīraṃ",
+     "gloss": "hero",
+     "grounds": "ritual vessel designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "ritual vessel designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoginīpātrameva",
+     "gloss": "yogini-vessel-indeed",
+     "grounds": "compound: yoginī+pātra with emphasis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional specialized vessels are included in the prescribed set?",
+   "premises": [
+    "Further vessel types are enumerated.",
+    "They include limb, hero, secret, and yogini vessels.",
+    "These are added to the sequence."
+   ],
+   "inference": "The set also includes the limb, hero, secret, and indeed the yogini vessel.",
+   "uncertainties": [
+    "The specific ritual functions of these named vessels are not detailed here."
+   ],
+   "plain_english": "And also the limb, the hero, the secret, and indeed the yogini vessel."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "prokṣaṇīsahitāni",
+     "gloss": "together-with-sprinkling-vessel",
+     "grounds": "compound: prokṣaṇī+sahita",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative of being",
+     "morph": "3.pl.optative-active + root as"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "ritual implements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "good-vowed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many vessels make up this set when the sprinkling vessel is included?",
+   "premises": [
+    "A set of vessels is being counted.",
+    "The sprinkling vessel is included with them.",
+    "The total number is nine."
+   ],
+   "inference": "Together with the sprinkling vessel, there are nine vessels in all.",
+   "uncertainties": [],
+   "plain_english": "O good-vowed one, together with the sprinkling vessel, there would be nine vessels."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "ritual implements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aṣṭādaśa",
+     "gloss": "eighteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "devyāḥ prītikarāṇi",
+     "gloss": "causing-delight-of-goddess",
+     "grounds": "compound: devī+prītikara",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What total number of vessels is said to please the goddess?",
+   "premises": [
+    "The vessels are counted collectively.",
+    "Their total is eighteen.",
+    "They bring delight to the goddess."
+   ],
+   "inference": "These eighteen vessels are pleasing to the goddess.",
+   "uncertainties": [
+    "How the count expands to eighteen is not fully explained in this verse alone."
+   ],
+   "plain_english": "These eighteen vessels bring delight to the goddess."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "ādyapaṃkteradhaḥsthāpyau",
+     "gloss": "to-be-placed-below-first-row",
+     "grounds": "compound: ādya+paṅkti+adhas+sthāpya",
+     "morph": "m.nom.dual"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial phrase indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should two of the vessels be placed according to ritual rule?",
+   "premises": [
+    "Two vessels require placement.",
+    "Their position is below the first row.",
+    "The placement must follow proper rule."
+   ],
+   "inference": "Two vessels should be duly placed below the first row.",
+   "uncertainties": [
+    "Which two specific vessels are meant is not named in this verse."
+   ],
+   "plain_english": "O supreme goddess, two should be duly placed below the first row."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "sāmānyaḥ",
+     "gloss": "common",
+     "grounds": "general or shared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadevānām",
+     "gloss": "of-all-gods",
+     "grounds": "compound: sarva+deva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "arghyo'yaṃ",
+     "gloss": "this-arghya",
+     "grounds": "demonstrative with fused sandhi marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating declaration",
+     "morph": "m.nom.sg past-participle + root kīrt with pari"
+    }
+   ],
+   "question": "For whom is this arghya declared to be commonly applicable?",
+   "premises": [
+    "An arghya offering is being defined.",
+    "It is described as common.",
+    "Its scope includes all gods."
+   ],
+   "inference": "This arghya is proclaimed as common to all gods.",
+   "uncertainties": [],
+   "plain_english": "This arghya is proclaimed as common to all the gods."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "other deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "deities in general",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "general applicability",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cācyadīśvari",
+     "gloss": "and-acyadīśvari",
+     "grounds": "vocative or epithet with conjunction; reading uncertain",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is the arghya arrangement also described as common for other deities?",
+   "premises": [
+    "Other gods are mentioned.",
+    "The arrangement is again called common.",
+    "The goddess is addressed directly."
+   ],
+   "inference": "For other gods as well, the arrangement is described as common.",
+   "uncertainties": [
+    "The exact parsing and meaning of 'cācyadīśvari' is uncertain."
+   ],
+   "plain_english": "O goddess, for other gods too it is common, O Acyadīśvari."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "arghyapātraṃ",
+     "gloss": "arghya-vessel",
+     "grounds": "compound: arghya+pātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavye",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pādyapātrakam",
+     "gloss": "foot-water-vessel",
+     "grounds": "compound: pādya+pātraka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In which directions should the arghya and foot-water vessels be placed?",
+   "premises": [
+    "Two distinct vessels are specified.",
+    "The arghya vessel is assigned to the northwest.",
+    "The foot-water vessel is assigned to the southwest."
+   ],
+   "inference": "The arghya vessel should be placed in the northwest and the foot-water vessel in the southwest.",
+   "uncertainties": [],
+   "plain_english": "The arghya vessel is placed in the northwest, and the foot-water vessel in the southwest."
+  }
+ ]
+}

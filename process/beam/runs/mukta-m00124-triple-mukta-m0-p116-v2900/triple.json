@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vārāṇām",
+     "gloss": "of-enclosures",
+     "grounds": "genitive plural denoting the surrounding enclosures",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "iṣṭaṃ",
+     "gloss": "desired",
+     "grounds": "past passive participle expressing prescribed preference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescriptive rule",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "ucchritaṃ",
+     "gloss": "elevated",
+     "grounds": "past passive participle describing raised height",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svāmivāsakam",
+     "gloss": "lord-dwelling",
+     "grounds": "compound denoting the residence of the lord",
+     "morph": "n.nom.sg (compound: svāmi+vāsaka)"
+    }
+   ],
+   "question": "Where and in what form should the lord's dwelling be placed within the enclosures?",
+   "premises": [
+    "The location specified is the middle of the enclosures.",
+    "The lord's dwelling is the subject of placement.",
+    "The dwelling is prescribed to be elevated."
+   ],
+   "inference": "Therefore, the lord's dwelling should be situated in the middle of the enclosures in an elevated form.",
+   "uncertainties": [
+    "The precise architectural sense of vārāṇām in this context is not fully specified."
+   ],
+   "plain_english": "In the middle of the enclosures, the lord's dwelling should be made elevated."
+  }
+ ]
+}

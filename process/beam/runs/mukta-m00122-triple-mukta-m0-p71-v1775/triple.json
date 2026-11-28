@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "caturthapādaśca",
+     "gloss": "fourth-foot-and",
+     "grounds": "compound of caturtha and pāda with enclitic ca",
+     "morph": "compound = caturtha+pāda; (indecl.)"
+    },
+    {
+     "surface": "dṛśyata",
+     "gloss": "is-seen",
+     "grounds": "passive present of root dṛś",
+     "morph": "3.sg.pass-pres + root dṛś"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "remote demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvidyetiśeṣaḥ",
+     "gloss": "remainder-named-śrīvidyā",
+     "grounds": "fused form of śrīvidyā iti śeṣaḥ",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What remains to be identified as Śrīvidyā once the fourth foot is seen?",
+   "premises": [
+    "The fourth foot is seen.",
+    "That remainder is Śrīvidyā.",
+    "Iti marks the quoted name."
+   ],
+   "inference": "The seen fourth foot leaves a remainder identified as Śrīvidyā.",
+   "uncertainties": [
+    "Exact syntactic role of iti within the fused token."
+   ],
+   "plain_english": "And the fourth foot is seen; that is the remainder called Śrīvidyā."
+  }
+ ]
+}

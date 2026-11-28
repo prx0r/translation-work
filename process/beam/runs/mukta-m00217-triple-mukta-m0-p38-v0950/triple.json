@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "agnāvantarvabhau",
+     "gloss": "in-fire-inside-both",
+     "grounds": "sandhi fusion agnau+antar+ubhau; locative expression indicating both within fire",
+     "morph": "loc.sg.m+indecl+nom.du.m"
+    },
+    {
+     "surface": "bhānuḥ",
+     "gloss": "sun",
+     "grounds": "subject identified as the sun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agnīṣomamayaṃ",
+     "gloss": "fire-moon-made",
+     "grounds": "compound describing composition of fire and moon",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional teaching",
+     "morph": "ppp.nom.sg.n (√smṛ)"
+    }
+   ],
+   "question": "What is the essential nature of the sun situated within the fire?",
+   "premises": [
+    "The sun is located inside the fire.",
+    "The sun is described as composed of fire and moon.",
+    "This characterization is traditionally remembered."
+   ],
+   "inference": "The sun within the fire is understood to embody a dual nature of fire and moon.",
+   "uncertainties": [
+    "The precise referent of 'both' in agnāvantarvabhau is contextually ambiguous."
+   ],
+   "plain_english": "The sun within the fire is remembered as being made of both fire and moon."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p176",
+ "verse": 4389,
+ "question": "How many squares join the fifth wall?",
+ "premises": [
+  "Thirty-two squares are named",
+  "The fifth wall is named",
+  "It is joined with squares"
+ ],
+ "inference": "The fifth wall is joined with thirty-two squares.",
+ "uncertainties": [
+  "The exact board geometry is not explicit"
+ ],
+ "plain_english": "The fifth wall is joined with thirty-two squares."
+}

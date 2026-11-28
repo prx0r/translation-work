@@ -1,0 +1,545 @@
+{
+ "song": "sva-p24",
+ "items": [
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "yatnaḥ",
+     "gloss": "effort",
+     "grounds": "effort",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārya",
+     "gloss": "to-be-done",
+     "grounds": "to be done",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effort is to be done here?",
+   "premises": [
+    "effort is to be done",
+    "meaning is thus stated"
+   ],
+   "inference": "The verse states that effort is what is to be done.",
+   "uncertainties": [],
+   "plain_english": "Effort is to be done; that is the meaning."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etābhiḥ",
+     "gloss": "by-these",
+     "grounds": "by these",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "powers",
+     "grounds": "powers",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "his",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "catuvīdhatvam",
+     "gloss": "fourfold-ness",
+     "grounds": "fourfoldness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the fourfold nature by these powers?",
+   "premises": [
+    "these powers are instrumental",
+    "his fourfoldness is stated"
+   ],
+   "inference": "The fourfold nature is explained through these powers.",
+   "uncertainties": [],
+   "plain_english": "Thus, by these powers, his fourfold nature is stated."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naiṣā",
+     "gloss": "not-this",
+     "grounds": "not this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñānaśakti",
+     "gloss": "knowledge-power",
+     "grounds": "knowledge power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchāśakti",
+     "gloss": "will-power",
+     "grounds": "will power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is this not knowledge-power but will-power?",
+   "premises": [
+    "this is not knowledge-power",
+    "it is will-power instead"
+   ],
+   "inference": "The verse distinguishes will-power from knowledge-power.",
+   "uncertainties": [],
+   "plain_english": "Knowledge is thus not this knowledge-power, but will-power; that is the meaning."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "ityādinā",
+     "gloss": "etc",
+     "grounds": "etcetera",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthapaṭala",
+     "gloss": "fourth-chapter",
+     "grounds": "fourth chapter",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is indicated by etcetera in the fourth chapter?",
+   "premises": [
+    "etcetera refers onward",
+    "fourth chapter is indicated"
+   ],
+   "inference": "The verse points to the fourth chapter and beyond.",
+   "uncertainties": [],
+   "plain_english": "By etcetera, the fourth chapter indeed; that is the meaning."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "sarvātmanā",
+     "gloss": "all-self",
+     "grounds": "all self",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "constantly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svacchandaścidghanaḥ",
+     "gloss": "svacchanda-conscious-dense",
+     "grounds": "svacchanda conscious dense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphurati",
+     "gloss": "shines",
+     "grounds": "shines",
+     "morph": "3.sg.act-pres √sphur"
+    }
+   ],
+   "question": "How does the self-willed conscious dense one shine?",
+   "premises": [
+    "he shines constantly",
+    "he shines as all self"
+   ],
+   "inference": "The self-willed conscious dense Lord shines constantly as all self.",
+   "uncertainties": [],
+   "plain_english": "And constantly, as all self, the self-willed conscious dense one shines."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "paurvāparyaniyatyā",
+     "gloss": "prior-posterior-order",
+     "grounds": "prior posterior order",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tattvānāṃ",
+     "gloss": "of-principles",
+     "grounds": "of principles",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kramikatā",
+     "gloss": "gradualness",
+     "grounds": "gradualness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "fitting",
+     "grounds": "fitting",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is gradualness among principles fitting?",
+   "premises": [
+    "prior posterior order governs principles",
+    "gradualness is fitting"
+   ],
+   "inference": "Gradualness among principles is fitting by prior and posterior order.",
+   "uncertainties": [],
+   "plain_english": "By prior and posterior order among principles, gradualness too is indeed fitting."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "bhāsayati",
+     "gloss": "illuminates",
+     "grounds": "illuminates",
+     "morph": "3.sg.act-pres √bhās"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "gradually",
+     "grounds": "gradually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "he",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣādāva",
+     "gloss": "initiation-etc",
+     "grounds": "initiation etc",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krameṇāpi",
+     "gloss": "in-order",
+     "grounds": "in order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does he illuminate initiation and so on?",
+   "premises": [
+    "he illuminates gradually",
+    "initiation and so on proceed in order"
+   ],
+   "inference": "He illuminates initiation and related matters gradually and in order.",
+   "uncertainties": [],
+   "plain_english": "He illuminates gradually, in initiation and so on, in order."
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "he-too",
+     "grounds": "he too",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathātvasphuraṇād",
+     "gloss": "so-thus-ness-shining",
+     "grounds": "so thusness shining",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vastveva",
+     "gloss": "thing-indeed",
+     "grounds": "thing indeed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "malaḥ",
+     "gloss": "impurity",
+     "grounds": "impurity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "let be",
+     "morph": "3.sg.act-imp √as"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "in scriptures",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What may impurity be in the scriptures?",
+   "premises": [
+    "he too shines as thusness",
+    "impurity may be a thing"
+   ],
+   "inference": "Impurity may be treated as a thing in the scriptures.",
+   "uncertainties": [],
+   "plain_english": "He too, from the shining of thusness, let impurity be a thing in the scriptures."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "svacchasvacchandātmakacidghanatāvyaktiḥ",
+     "gloss": "pure-svacchanda-natured-conscious-dense-manifestation",
+     "grounds": "pure svacchanda natured conscious dense manifestation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yan",
+     "gloss": "what",
+     "grounds": "what",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "liberation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is liberation in this manifestation?",
+   "premises": [
+    "manifestation is pure svacchanda natured",
+    "liberation is what is meant"
+   ],
+   "inference": "Liberation is the manifestation of pure self-willed conscious density.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the manifestation of pure self-willed conscious density is what liberation is."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "go",
+     "morph": "3.pl.act-pres √yā"
+    },
+    {
+     "surface": "ekatvaṃ",
+     "gloss": "unity",
+     "grounds": "unity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīkṣyā",
+     "gloss": "to-be-initiated",
+     "grounds": "to be initiated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣākrameṇa",
+     "gloss": "initiation-order",
+     "grounds": "initiation order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitā",
+     "gloss": "initiated",
+     "grounds": "initiated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "hi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the initiated reach unity?",
+   "premises": [
+    "to be initiated and initiated are named",
+    "they go to unity by initiation order"
+   ],
+   "inference": "Those to be initiated and initiated go to unity through initiation order.",
+   "uncertainties": [],
+   "plain_english": "They go to unity, the to-be-initiated and the initiated, by initiation order; thus indeed."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "by whom",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "arthavyākhyābhiḥ",
+     "gloss": "meaning-explanations",
+     "grounds": "meaning explanations",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "in that",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "god",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so-thus",
+     "grounds": "so thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so-thus",
+     "grounds": "so thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathitaḥ",
+     "gloss": "manifest",
+     "grounds": "manifest",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the god manifest in that?",
+   "premises": [
+    "by whom meaning explanations are given",
+    "god is manifest in that"
+   ],
+   "inference": "By those meaning explanations, the god is manifest in that.",
+   "uncertainties": [],
+   "plain_english": "By whom, through meaning explanations, in that the god is thus and thus manifest."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "svacchandaśivaikyamayī",
+     "gloss": "svacchanda-śiva-unity-filled",
+     "grounds": "svacchanda shiva unity filled",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣāditaḥ",
+     "gloss": "from-initiation",
+     "grounds": "from initiation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭate",
+     "gloss": "occurs",
+     "grounds": "occurs",
+     "morph": "3.sg.act-pres √ghaṭ"
+    }
+   ],
+   "question": "When does liberation filled with svacchanda-śiva unity occur?",
+   "premises": [
+    "liberation is svacchanda shiva unity filled",
+    "it occurs from initiation"
+   ],
+   "inference": "Liberation filled with svacchanda-śiva unity occurs from initiation.",
+   "uncertainties": [],
+   "plain_english": "Liberation filled with svacchanda-śiva unity occurs from initiation."
+  }
+ ]
+}

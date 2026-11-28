@@ -1,0 +1,1215 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "diamond",
+     "grounds": "precious substance for deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "precious metal for deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tālaṃ",
+     "gloss": "orpiment",
+     "grounds": "mineral substance for deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tavān",
+     "gloss": "tavān",
+     "grounds": "term of uncertain referent in this list",
+     "morph": "unresolved"
+    },
+    {
+     "surface": "sahāṃ",
+     "gloss": "sahāṃ",
+     "grounds": "term of uncertain referent in this list",
+     "morph": "unresolved"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential placement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which substances must be placed in sequence during the ritual deposit?",
+   "premises": [
+    "The ritual actor should place specified substances.",
+    "Diamond, gold, and orpiment are named items.",
+    "The placement follows a prescribed order."
+   ],
+   "inference": "The deposit includes diamond, gold, orpiment, and further listed items in sequence.",
+   "uncertainties": [
+    "The exact referents of 'tavān' and 'sahāṃ' are unclear from the verse alone."
+   ],
+   "plain_english": "One should place diamond, then likewise gold, orpiment, tavān, and sahāṃ in order."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "hemābhāve",
+     "gloss": "in-absence-of-gold",
+     "grounds": "condition when gold is unavailable",
+     "morph": "m.loc.sg compound hemā+abhāve"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "silver",
+     "grounds": "substitute metal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gairirka",
+     "gloss": "red-ochre",
+     "grounds": "mineral substance for deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tālakaṃ",
+     "gloss": "orpiment",
+     "grounds": "mineral substance for deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "marks omission or exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substitute materials are prescribed when gold is unavailable for the deposit?",
+   "premises": [
+    "Gold may be unavailable.",
+    "A substitute placement is instructed.",
+    "Silver, red-ochre, and orpiment are named."
+   ],
+   "inference": "In the absence of gold, silver, red-ochre, and orpiment are to be placed instead.",
+   "uncertainties": [
+    "The exact scope of 'vinā' in relation to the listed items is not fully explicit."
+   ],
+   "plain_english": "If gold is unavailable, one should place silver, red-ochre, and orpiment without it."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of materials",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gurusvekaṃ",
+     "gloss": "in-guru-alone",
+     "grounds": "restricts placement to the guru; internal sandhi in fused form",
+     "morph": "m.loc.sg compound guru+sva+ekaṃ"
+    },
+    {
+     "surface": "rasendraṃ",
+     "gloss": "mercury",
+     "grounds": "alternative substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.) compound vā+api"
+    },
+    {
+     "surface": "asambhave",
+     "gloss": "in-absence",
+     "grounds": "condition when materials are unavailable",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What alternative deposit is allowed when the prescribed materials cannot be obtained?",
+   "premises": [
+    "All materials may be unavailable.",
+    "An alternative is permitted.",
+    "Mercury is named as that alternative."
+   ],
+   "inference": "If the materials are unavailable, one may place mercury alone in the guru.",
+   "uncertainties": [
+    "The precise ritual sense of placing in 'gurusvekaṃ' is context-dependent."
+   ],
+   "plain_english": "If none of these are available, one should place everything in the guru alone, or even mercury."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "eṣām",
+     "gloss": "of-these",
+     "grounds": "refers to previously mentioned items",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ekatamaṃ",
+     "gloss": "one-among",
+     "grounds": "selects a single item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "specifies central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    },
+    {
+     "surface": "brahmaśilāvaṭe",
+     "gloss": "in-brahma-stone-pit",
+     "grounds": "specific ritual cavity or pit",
+     "morph": "m.loc.sg compound brahma+śilā+avaṭe"
+    }
+   ],
+   "question": "Where should one of the previously mentioned substances be placed within the foundation?",
+   "premises": [
+    "A choice among prior substances is allowed.",
+    "Only one need be selected.",
+    "A specific central pit is designated."
+   ],
+   "inference": "One of these substances should be placed in the middle, in the pit of the brahma-stone.",
+   "uncertainties": [],
+   "plain_english": "One should place one among these in the middle, in the pit of the brahma-stone."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "haimīṃ",
+     "gloss": "golden",
+     "grounds": "made of gold",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rupyajī",
+     "gloss": "made-of-silver",
+     "grounds": "silver-made alternative; form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pṛthvī",
+     "gloss": "earth",
+     "grounds": "symbolic earth form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "meruṃ",
+     "gloss": "meru",
+     "grounds": "cosmic mountain form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saurarṇajaṃ",
+     "gloss": "made-of-gold",
+     "grounds": "golden alternative; internal sandhi in fused form",
+     "morph": "m.acc.sg compound su+varṇa+jaṃ"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "general applicability",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which symbolic forms may be installed as alternatives in the ritual foundation?",
+   "premises": [
+    "Alternative forms are permitted.",
+    "Golden and silver materials are specified.",
+    "Earth and Meru are named symbolic forms."
+   ],
+   "inference": "One may always install a golden or silver earth, or a Meru made of gold.",
+   "uncertainties": [
+    "The exact parsing of 'rupyajī' is uncertain in this form."
+   ],
+   "plain_english": "One may always place a golden or silver earth, or a Meru made of gold."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "ritual emblem to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭāyasaṃ",
+     "gloss": "made-of-eight-metals",
+     "grounds": "material composition",
+     "morph": "n.acc.sg compound aṣṭa+ayasaṃ"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action before next step",
+     "morph": "absolutive √nyas"
+    },
+    {
+     "surface": "haimaṃ",
+     "gloss": "golden",
+     "grounds": "gold-made alternative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tārajam",
+     "gloss": "made-of-silver",
+     "grounds": "silver-made alternative",
+     "morph": "n.acc.sg compound tāra+jam"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material options are permitted for the lotus to be placed in the foundation?",
+   "premises": [
+    "A lotus is to be placed.",
+    "Different material compositions are allowed.",
+    "Eight-metal, gold, and silver options are named."
+   ],
+   "inference": "After placing a lotus made of eight metals, one may alternatively use a golden or silver one.",
+   "uncertainties": [],
+   "plain_english": "Having placed a lotus made of eight metals, one may instead place one made of gold or of silver."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "rajataṃ",
+     "gloss": "silver",
+     "grounds": "material to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavāṃś",
+     "gloss": "barley-grains",
+     "grounds": "grain offering or deposit",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūrmeṇa",
+     "gloss": "with-tortoise",
+     "grounds": "accompanying symbolic form",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √vi-nyas"
+    }
+   ],
+   "question": "Which additional items must be deposited together with the tortoise emblem?",
+   "premises": [
+    "A tortoise is included in the deposit.",
+    "Other items accompany it.",
+    "Silver and barley grains are specified."
+   ],
+   "inference": "Silver and barley grains should be placed together with the tortoise.",
+   "uncertainties": [],
+   "plain_english": "One should place silver and barley grains together with the tortoise."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the prepared place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpite",
+     "gloss": "being-installed",
+     "grounds": "state of the liṅga after installation",
+     "morph": "n.loc.sg past-participle √saṃ-sthā"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "liṅga",
+     "grounds": "ritual emblem of Śiva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yajamānaḥ",
+     "gloss": "sacrificer",
+     "grounds": "ritual patron",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravardhate",
+     "gloss": "prospers",
+     "grounds": "resulting benefit",
+     "morph": "3.sg.present.middle √pra-vṛdh"
+    }
+   ],
+   "question": "What benefit accrues to the sacrificer when the liṅga is properly installed there?",
+   "premises": [
+    "The liṅga is installed in the prepared place.",
+    "The sacrificer is the beneficiary.",
+    "Prosperity is stated as the outcome."
+   ],
+   "inference": "When the liṅga is installed there, the sacrificer prospers.",
+   "uncertainties": [],
+   "plain_english": "When the liṅga is installed there, the sacrificer prospers."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "refers to the installed location or form",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vyavasthite",
+     "gloss": "being-situated",
+     "grounds": "state of Rudra being established",
+     "morph": "m.loc.sg past-participle √vi-ava-sthā"
+    },
+    {
+     "surface": "rudre",
+     "gloss": "rudra",
+     "grounds": "deity established in the liṅga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prajā",
+     "gloss": "progeny",
+     "grounds": "offspring or people",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "continuous effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramodate",
+     "gloss": "rejoices",
+     "grounds": "resulting benefit",
+     "morph": "3.sg.present.middle √pra-mud"
+    }
+   ],
+   "question": "What ongoing benefit arises for progeny when Rudra is established in that place?",
+   "premises": [
+    "Rudra is situated in that place.",
+    "Progeny are affected by this establishment.",
+    "Continual rejoicing is stated."
+   ],
+   "inference": "When Rudra is established there, the progeny always rejoice.",
+   "uncertainties": [],
+   "plain_english": "When Rudra is established in that place, the progeny always rejoice."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "śrīkāmas",
+     "gloss": "desiring-prosperity",
+     "grounds": "ritual patron with specific aim",
+     "morph": "m.nom.sg compound śrī+kāmas"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a specific case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "divine presence or image; form as given",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vṛddhyartham",
+     "gloss": "for-increase-purpose",
+     "grounds": "aim of growth or prosperity",
+     "morph": "n.acc.sg compound vṛddhi+artham"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative aim",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should one desiring prosperity place the deposit for the sake of increase?",
+   "premises": [
+    "A patron may desire prosperity.",
+    "Placement in the middle is specified.",
+    "The purpose is increase or growth."
+   ],
+   "inference": "One desiring prosperity should place it in the middle for the purpose of increase.",
+   "uncertainties": [
+    "The role of 'deva' in this line is syntactically ambiguous."
+   ],
+   "plain_english": "But one who desires prosperity should place it in the middle, indeed for the sake of increase."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "gośṛṅgamṛttikāṃ",
+     "gloss": "cow-horn-clay",
+     "grounds": "clay taken from a cow's horn",
+     "morph": "f.acc.sg compound go+śṛṅga+mṛttikāṃ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣeṇa",
+     "gloss": "with-bull",
+     "grounds": "accompanying bull emblem",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √vi-nyas"
+    }
+   ],
+   "question": "Which additional materials should be deposited together with the bull emblem?",
+   "premises": [
+    "A bull emblem is included.",
+    "Clay from a cow's horn is specified.",
+    "These are to be placed together."
+   ],
+   "inference": "Clay from a cow's horn should be placed together with the bull.",
+   "uncertainties": [],
+   "plain_english": "One should also place clay from a cow's horn together with a bull."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "dravyāṇām",
+     "gloss": "of-materials",
+     "grounds": "refers to the prescribed substances",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "extends the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alābhe",
+     "gloss": "in-absence",
+     "grounds": "condition of non-availability",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-these",
+     "grounds": "refers back to the materials",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ekatamaṃ",
+     "gloss": "one-among",
+     "grounds": "selects a single item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √nyas"
+    }
+   ],
+   "question": "What minimal deposit is permitted when none of the prescribed materials can be obtained?",
+   "premises": [
+    "The prescribed materials may be unavailable.",
+    "A reduced option is allowed.",
+    "One item among them suffices."
+   ],
+   "inference": "If the materials cannot be obtained, one should place at least one of them.",
+   "uncertainties": [],
+   "plain_english": "But even if the materials cannot be obtained, one should place one among them."
+  },
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "materials",
+     "grounds": "the substances to be arranged",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality of materials",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "variously",
+     "grounds": "in diverse ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sanniveśya",
+     "gloss": "having-arranged",
+     "grounds": "prior action of placing in order",
+     "morph": "absolutive √sam-ni-viś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to next action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should all the ritual materials be arranged before the next preparatory step?",
+   "premises": [
+    "All materials have been specified.",
+    "They must be arranged properly.",
+    "Arrangement precedes further preparation."
+   ],
+   "inference": "Thus, having arranged all the various materials, one proceeds to the next step.",
+   "uncertainties": [],
+   "plain_english": "Thus, having arranged all the various materials, one should proceed further."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "śilāsamāni",
+     "gloss": "equal-to-stone",
+     "grounds": "matching the stone in size or level",
+     "morph": "n.acc.pl compound śilā+samāni"
+    },
+    {
+     "surface": "randhrāṇi",
+     "gloss": "cavities",
+     "grounds": "holes or recesses",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action of forming",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "opening or aperture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "upper position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What structural preparation must be made in the cavities before proceeding upward?",
+   "premises": [
+    "Cavities must be prepared.",
+    "They should match the stone.",
+    "An opening above is also required."
+   ],
+   "inference": "One should make cavities equal to the stone and likewise an opening above.",
+   "uncertainties": [
+    "The technical sense of 'netraṃ' here may refer to a specific aperture."
+   ],
+   "plain_english": "Having made cavities equal to the stone, one should likewise make an opening above."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "samācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "ritual purification act",
+     "morph": "absolutive √sam-ā-cam"
+    },
+    {
+     "surface": "kṛtanyāso",
+     "gloss": "having-performed-placement",
+     "grounds": "ritual actor who has completed nyāsa",
+     "morph": "m.nom.sg compound kṛta+nyāso"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "fire offering instruction",
+     "morph": "3.sg.optative.active √hu"
+    },
+    {
+     "surface": "asinā",
+     "gloss": "with-fire",
+     "grounds": "instrument of offering; form as given",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions must the officiant complete before making one hundred fire offerings?",
+   "premises": [
+    "Ritual purification is required.",
+    "Nyāsa placement must be completed.",
+    "One hundred offerings are prescribed."
+   ],
+   "inference": "After sipping water and performing nyāsa, the officiant should offer one hundred oblations in the fire.",
+   "uncertainties": [
+    "The form 'asinā' is unusual for fire and may reflect a textual or lexical issue."
+   ],
+   "plain_english": "Having sipped water and performed the placements, one should offer a hundred oblations in the fire."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "vāstospatiṃ",
+     "gloss": "vāstospati",
+     "grounds": "deity of the site",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior fire offering",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "base structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvabhraṃ",
+     "gloss": "pit",
+     "grounds": "foundation cavity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirūpayet",
+     "gloss": "should-examine",
+     "grounds": "inspection instruction",
+     "morph": "3.sg.optative.active √nir-ūp"
+    }
+   ],
+   "question": "What inspection must follow the fire offering to Vāstospati in the installation sequence?",
+   "premises": [
+    "An offering to Vāstospati is made.",
+    "The pedestal and pit are prepared.",
+    "Inspection is required afterward."
+   ],
+   "inference": "After offering to Vāstospati, one should examine the pedestal and the pit.",
+   "uncertainties": [],
+   "plain_english": "Then, having made an offering to Vāstospati, one should examine the pedestal and the pit."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "niḥsandhiḥ",
+     "gloss": "without-joint",
+     "grounds": "seamless construction",
+     "morph": "m.nom.sg compound nis+sandhiḥ"
+    },
+    {
+     "surface": "suḍṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "strong and stable",
+     "morph": "n.nom.sg compound su+dṛḍhaṃ"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects qualities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhīta",
+     "gloss": "should-make",
+     "grounds": "instruction to construct",
+     "morph": "3.sg.optative.middle √vi-dhā"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "careful execution",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What structural qualities must the prepared foundation possess according to the ritual instruction?",
+   "premises": [
+    "The structure must be constructed carefully.",
+    "It should have no joints.",
+    "It must be very firm."
+   ],
+   "inference": "One should carefully make it seamless and very firm.",
+   "uncertainties": [],
+   "plain_english": "One should carefully make it without joints and very firm."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suyantritaṃ",
+     "gloss": "well-controlled",
+     "grounds": "securely fastened",
+     "morph": "n.acc.sg compound su+yantritaṃ"
+    },
+    {
+     "surface": "daṇḍe",
+     "gloss": "on-pole",
+     "grounds": "supporting pole or rod",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "badhnīyāt",
+     "gloss": "should-bind",
+     "grounds": "instruction to fasten",
+     "morph": "3.sg.optative.active √bandh"
+    },
+    {
+     "surface": "vālatantunā",
+     "gloss": "with-hair-thread",
+     "grounds": "binding material",
+     "morph": "m.ins.sg compound vāla+tantunā"
+    }
+   ],
+   "question": "How should the object be secured to the pole during the installation process?",
+   "premises": [
+    "The object must be fastened.",
+    "A pole is used as support.",
+    "A hair-thread is the binding material."
+   ],
+   "inference": "Then one should bind it securely to the pole with a hair-thread.",
+   "uncertainties": [],
+   "plain_english": "Then one should bind it securely to the pole with a hair-thread."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "mūrtipaiḥ",
+     "gloss": "with-image-priests",
+     "grounds": "ritual actors responsible for images",
+     "morph": "m.ins.pl compound mūrti+paiḥ"
+    },
+    {
+     "surface": "śilpibhiḥ",
+     "gloss": "with-craftsmen",
+     "grounds": "artisans performing material work",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sārdham",
+     "gloss": "together",
+     "grounds": "joint participation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anulagnaiḥ",
+     "gloss": "with-attendants",
+     "grounds": "assistants closely involved",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "to-śiva",
+     "grounds": "dedicated to Śiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which participants must act together at that stage of the Śiva installation?",
+   "premises": [
+    "Multiple participants are involved.",
+    "Image-priests and craftsmen are named.",
+    "Attendants also participate together."
+   ],
+   "inference": "At that time, the image-priests, craftsmen, and attendants act together in the rite for Śiva.",
+   "uncertainties": [],
+   "plain_english": "Then, together with the image-priests, craftsmen, and attendants, in the rite for Śiva."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "dvāradeśāgate",
+     "gloss": "to-door-place-arrived",
+     "grounds": "having reached the doorway area",
+     "morph": "n.loc.sg compound dvāra+deśa+āgate"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "liṅga",
+     "grounds": "ritual emblem being moved",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "portion given or offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior act of giving",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "praveśayet",
+     "gloss": "should-cause-to-enter",
+     "grounds": "instruction to bring inside",
+     "morph": "3.sg.causative-optative.active √pra-viś"
+    }
+   ],
+   "question": "What action must be taken when the liṅga reaches the doorway of the shrine?",
+   "premises": [
+    "The liṅga arrives at the doorway.",
+    "A preliminary giving is performed.",
+    "The liṅga must then be brought inside."
+   ],
+   "inference": "When the liṅga reaches the doorway, one should give a half portion and cause it to enter.",
+   "uncertainties": [
+    "The exact referent of 'ardhaṃ' is not fully specified."
+   ],
+   "plain_english": "When the liṅga has reached the doorway, one should give half and cause it to enter."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "dvārabandhānvite",
+     "gloss": "endowed-with-door-fastening",
+     "grounds": "shrine fitted with door fittings",
+     "morph": "n.loc.sg compound dvāra+bandha+anvite"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-shrine",
+     "grounds": "sacred structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nabhaseva",
+     "gloss": "like-sky",
+     "grounds": "comparison indicating openness above",
+     "morph": "(indecl.) compound nabhasā+iva"
+    },
+    {
+     "surface": "tadūrdhvataḥ",
+     "gloss": "then-above",
+     "grounds": "position above that point",
+     "morph": "(indecl.) compound tat+ūrdhvataḥ"
+    }
+   ],
+   "question": "How is the upper space of the shrine described when the liṅga is brought inside?",
+   "premises": [
+    "The shrine has door fastenings.",
+    "The liṅga is brought into the shrine.",
+    "The space above is compared to the sky."
+   ],
+   "inference": "In the shrine fitted with door fastenings, the space above is like the sky.",
+   "uncertainties": [],
+   "plain_english": "In the shrine fitted with door fastenings, the space above is like the sky."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "digvyomasparśanāt",
+     "gloss": "from-touching-directions-sky",
+     "grounds": "contact with directions and sky",
+     "morph": "n.abl.sg compound dik+vyoma+sparśanāt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative.active √kṛ"
+    },
+    {
+     "surface": "taddiśyuktāṃ",
+     "gloss": "in-that-direction-connected",
+     "grounds": "aligned with that direction",
+     "morph": "f.acc.sg compound tat+diśi+yuktāṃ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇām",
+     "gloss": "fee",
+     "grounds": "ritual gift or payment",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What directional ritual payment must be made after contact with the directions and sky?",
+   "premises": [
+    "Contact with directions and sky occurs.",
+    "A ritual fee is required.",
+    "The fee is connected to that direction."
+   ],
+   "inference": "Because of touching the directions and sky, one should give a fee connected with that direction.",
+   "uncertainties": [],
+   "plain_english": "Because of touching the directions and the sky, one should give a fee connected with that direction."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "ritual gift item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhenu",
+     "gloss": "cow",
+     "grounds": "ritual gift item; form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guror",
+     "gloss": "to-guru",
+     "grounds": "recipient of the gift",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instruction to give",
+     "morph": "3.sg.optative.active √dā"
+    },
+    {
+     "surface": "indrādispṛṣṭidoṣahṛt",
+     "gloss": "removing-faults-of-touching-indra-etc",
+     "grounds": "removes faults from contact with Indra and others",
+     "morph": "n.nom.sg compound indrādi+spṛṣṭi+doṣa+hṛt"
+    }
+   ],
+   "question": "What gifts to the guru remove faults arising from contact with Indra and other directions?",
+   "premises": [
+    "Faults may arise from directional contact.",
+    "Gifts to the guru are prescribed.",
+    "A conch and a cow are specified."
+   ],
+   "inference": "One should give a conch and a cow to the guru to remove faults from contact with Indra and others.",
+   "uncertainties": [],
+   "plain_english": "One should give a conch and a cow to the guru, removing the faults caused by contact with Indra and the others."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual instruction to deposit",
+     "morph": "3.sg.optative.active √vi-nyas"
+    },
+    {
+     "surface": "tūryaśabdena",
+     "gloss": "with-sound-of-musical-instruments",
+     "grounds": "accompanying auspicious sound",
+     "morph": "m.ins.sg compound tūrya+śabdena"
+    },
+    {
+     "surface": "nimitte",
+     "gloss": "at-auspicious-moment",
+     "grounds": "favorable occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "at-equinox",
+     "grounds": "specific calendrical time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthite",
+     "gloss": "being-situated",
+     "grounds": "when that time is present",
+     "morph": "n.loc.sg past-participle √sthā"
+    }
+   ],
+   "question": "At what auspicious time and with what accompaniment should the placement be performed?",
+   "premises": [
+    "The placement must be performed.",
+    "Musical instrument sounds accompany it.",
+    "The equinox is specified as the time."
+   ],
+   "inference": "One should place it with the sound of musical instruments at the auspicious moment of the equinox.",
+   "uncertainties": [],
+   "plain_english": "One should place it with the sound of musical instruments at the auspicious moment when the equinox occurs."
+  }
+ ]
+}

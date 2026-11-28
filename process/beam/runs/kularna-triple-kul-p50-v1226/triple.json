@@ -1,0 +1,581 @@
+{
+ "song": "kul-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun referring to prior subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "by-mere-hearing",
+     "grounds": "instrumental compound of hearing and mere",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "paśupāśaiḥ",
+     "gloss": "from-bonds-of-beasts",
+     "grounds": "instrumental plural of beast-bonds",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-released",
+     "grounds": "passive present of root muc",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What happens by mere hearing of that?",
+   "premises": [
+    "Mere hearing of that releases.",
+    "Release is from bonds of beasts."
+   ],
+   "inference": "Hearing alone suffices for release from beast-bonds.",
+   "uncertainties": [
+    "Scope of tasya is context-dependent."
+   ],
+   "plain_english": "By merely hearing of that, one is released from the bonds of beasts."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "tatkaniṣṭhaḥ",
+     "gloss": "its-youngest",
+     "grounds": "compound adjective for youngest of that",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramajñaḥ",
+     "gloss": "knower-of-order",
+     "grounds": "compound adjective knowing order",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "clan-worship",
+     "grounds": "accusative object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of root car",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "What should the youngest knower of order do?",
+   "premises": [
+    "If he is youngest knower of order.",
+    "Then he should perform clan worship."
+   ],
+   "inference": "The qualified youngest knower performs clan worship.",
+   "uncertainties": [
+    "krama may mean ritual order or lineage order."
+   ],
+   "plain_english": "If he is the youngest knower of the order, he should perform clan worship."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolutive of root vid",
+     "morph": "abs"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "accusative totality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣa",
+     "gloss": "remainder",
+     "grounds": "nominative remainder",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuñjīta",
+     "gloss": "should-eat",
+     "grounds": "optative of root bhuj",
+     "morph": "3.sg.opt-mid"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "O-Parvati",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should be eaten after offering all to him?",
+   "premises": [
+    "All is offered to him.",
+    "The remainder should be eaten."
+   ],
+   "inference": "After full offering, only remainder is eaten.",
+   "uncertainties": [
+    "Whether śeṣa is nominative subject or object."
+   ],
+   "plain_english": "O Parvati, having offered all that to him, one should eat the remainder."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "absolutive of root nam",
+     "morph": "abs"
+    },
+    {
+     "surface": "brūyāt",
+     "gloss": "should-speak",
+     "grounds": "optative of root brū",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "remaining",
+     "grounds": "past participle of root sthā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣṭam",
+     "gloss": "leftover",
+     "grounds": "past participle of root śiṣ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-act",
+     "grounds": "optative of root car",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "tadanujñayā",
+     "gloss": "by-its-permission",
+     "grounds": "instrumental of permission",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "How should one act after bowing and speaking?",
+   "premises": [
+    "Having bowed, one should speak.",
+    "Remaining leftover should be acted upon by permission."
+   ],
+   "inference": "Action follows bowing, speech, and permission.",
+   "uncertainties": [
+    "tad refers to guru or rite."
+   ],
+   "plain_english": "Having bowed, one should speak; the remaining leftover should be acted upon by its permission."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavadācāraḥ",
+     "gloss": "as-before-conduct",
+     "grounds": "compound conduct as before",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "is-told",
+     "grounds": "past participle of root kath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-clan-leaderess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What conduct is told there?",
+   "premises": [
+    "There conduct as before is told.",
+    "Address is to clan leaderess."
+   ],
+   "inference": "The prior conduct applies there.",
+   "uncertainties": [
+    "pūrvavat may refer to earlier ritual."
+   ],
+   "plain_english": "There, conduct as before is told, O clan leaderess."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "smṛtvā",
+     "gloss": "remembering",
+     "grounds": "absolutive of root smṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "svasya",
+     "gloss": "one's",
+     "grounds": "genitive reflexive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svasya",
+     "gloss": "by-one's",
+     "grounds": "instrumental reflexive",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "path",
+     "grounds": "instrumental of path",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative of root tṛp",
+     "morph": "3.sg.opt-caus"
+    }
+   ],
+   "question": "Whom should one satisfy by one's path?",
+   "premises": [
+    "Remembering one's guru.",
+    "One should satisfy by one's path."
+   ],
+   "inference": "Guru is satisfied through one's own path.",
+   "uncertainties": [
+    "svasya repeated with different cases."
+   ],
+   "plain_english": "Remembering one's guru, O goddess, one should satisfy him by one's own path."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "ubhayoḥ",
+     "gloss": "of-both",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "kāmyakarmāṇi",
+     "gloss": "desired-rites",
+     "grounds": "nominative plural rites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "thus",
+     "grounds": "quoted particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrasya",
+     "gloss": "of-scripture",
+     "grounds": "genitive scripture",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "conclusion",
+     "grounds": "nominative conclusion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the scripture's conclusion about both?",
+   "premises": [
+    "Desired rites of both are stated.",
+    "This is scripture's conclusion."
+   ],
+   "inference": "Scripture concludes concerning desired rites of both.",
+   "uncertainties": [
+    "ubhayoḥ referents unspecified."
+   ],
+   "plain_english": "Thus the scripture's conclusion is about desired rites of both."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "avinyastaśarīraḥ",
+     "gloss": "not-having-placed-body",
+     "grounds": "negative compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "clan-worship",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cācaret",
+     "gloss": "should-perform",
+     "grounds": "fused negative optative form",
+     "morph": "3.sg.opt-act"
+    }
+   ],
+   "question": "Who should not perform clan worship?",
+   "premises": [
+    "One not having placed body.",
+    "Or one should not perform clan worship."
+   ],
+   "inference": "Unprepared body disqualifies clan worship.",
+   "uncertainties": [
+    "avinyastaśarīra may mean uninitiated or unseated."
+   ],
+   "plain_english": "One not having placed the body, or otherwise, should not perform clan worship."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "power",
+     "grounds": "instrumental power",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatpānaṃ",
+     "gloss": "whatever-drinking",
+     "grounds": "compound noun drinking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "is-said",
+     "grounds": "past participle of root kath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is said about drinking without power?",
+   "premises": [
+    "Drinking without power is fruitless.",
+    "This is said, dear."
+   ],
+   "inference": "Powerless drinking yields no fruit.",
+   "uncertainties": [
+    "śakti may mean śakti drink or spiritual power."
+   ],
+   "plain_english": "But drinking without power is said to be fruitless, dear."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "nārcayet",
+     "gloss": "should-not-worship",
+     "grounds": "negative optative of root arc",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "ekahastena",
+     "gloss": "with-one-hand",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative of root pā",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "ekapāṇinā",
+     "gloss": "with-one-hand",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "What should not be done with one hand?",
+   "premises": [
+    "One should not worship with one hand.",
+    "One should not drink with one hand."
+   ],
+   "inference": "Worship and drinking require both hands.",
+   "uncertainties": [
+    "Whether ekahasta means one hand or one-handed."
+   ],
+   "plain_english": "One should not worship with one hand, nor drink with one hand."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive of root praṇam",
+     "morph": "abs"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "should-enter",
+     "grounds": "optative of root viś",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinirgacchet",
+     "gloss": "should-exit",
+     "grounds": "optative of root gacch",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive of root praṇam",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one enter and exit the circle?",
+   "premises": [
+    "Having bowed, one should enter circle.",
+    "Having bowed, one should exit."
+   ],
+   "inference": "Entry and exit both require bowing.",
+   "uncertainties": [
+    "cakra may be outer or inner circle."
+   ],
+   "plain_english": "Having bowed, one should enter the circle, and having bowed, one should exit."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "negative copula",
+     "morph": "3.sg.pres-act"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vraṇadvandvaṃ",
+     "gloss": "pair-of-wounds",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulikasya",
+     "gloss": "of-Kaulika",
+     "grounds": "genitive adjective",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "akṣiyugmakam",
+     "gloss": "pair-of-eyes",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is not there if the Kaulika lacks eye-pair?",
+   "premises": [
+    "If that is not.",
+    "Pair of wounds and pair of eyes of Kaulika."
+   ],
+   "inference": "Absence of that affects Kaulika's wounds and eyes.",
+   "uncertainties": [
+    "tat referent is unclear."
+   ],
+   "plain_english": "If that is not, then the pair of wounds and pair of eyes of the Kaulika."
+  }
+ ]
+}

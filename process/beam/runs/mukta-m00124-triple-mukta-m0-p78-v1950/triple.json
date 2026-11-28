@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "vāstunaḥ",
+     "gloss": "of-the-site",
+     "grounds": "genitive dependent indicating the site whose parts are affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvamarmādi",
+     "gloss": "all-vital-points-etc",
+     "grounds": "compound denoting all vital points and similar sensitive areas of the site",
+     "morph": "compound"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive expressing prior action of leaving the defective site",
+     "morph": "gerund(√tyaj)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "indeclinable indicating a different location for residence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "should-dwell",
+     "grounds": "optative expressing prescribed course of action",
+     "morph": "3.sg.act.opt(√vas)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "subject who must relocate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Must a person abandon a dwelling site whose vital points are defective and reside elsewhere?",
+   "premises": [
+    "A dwelling site can have defective vital points and similar sensitive areas.",
+    "Such defects in the vital points of a site render it unsuitable for residence.",
+    "Relocation to another place is the prescribed response to these defects."
+   ],
+   "inference": "Therefore, a person should abandon a site with defective vital points and dwell elsewhere.",
+   "uncertainties": [
+    "The exact scope of 'ādi' in 'sarvamarmādi' is not specified beyond vital points and similar areas."
+   ],
+   "plain_english": "A person should abandon a site whose vital points and similar areas are defective and live elsewhere."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-visualize",
+     "grounds": "causative optative form",
+     "morph": "verb.3.sg.act-opt (root bhū)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "O-child",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "mṛtyuṃ",
+     "gloss": "death",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What certainty follows after conquering death and visualizing according to rule?",
+   "premises": [
+    "One visualizes according to rule.",
+    "Death is conquered.",
+    "No doubt remains."
+   ],
+   "inference": "Victory over death removes doubt.",
+   "uncertainties": [
+    "Exact referent of 'vatsa' is unspecified."
+   ],
+   "plain_english": "O child, having conquered death, one should visualize according to rule; there is no doubt."
+  }
+ ]
+}

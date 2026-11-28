@@ -5,26 +5,30 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "897a3b7ba010fcc9",
+ "source_digest_normalized_sha256": "897a3b7ba010fcc9ec8e2396c5ac89235cab76f7230eae37908ec1288a031a71",
+ "source_sha256_raw": "9231778a8794c2326f1df273be597648b2c6830b0441f36bb16bdbeb756bda18",
+ "source_sha256_raw_file": "/root/translation-work/vbt/source/edition.txt",
  "source_verses": 10,
  "t1_verses": 10,
  "l0": {
-  "parsed": 90,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 90
  },
  "align": {
-  "min_ratio": 0.994,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 11,
- "c1_words": 311,
+ "c1_iast_prose_info": 0,
+ "c1_words": 68,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 10,
+  "checked": 20,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "897a3b7ba010fcc9",
-  "t1": "T1-vbt-p05.md",
-  "l0": "T1-vbt-p05.l0.jsonl",
-  "l2": "L2-vbt-p05.md",
-  "c1": "c1/C1-vbt-p05.md"
+  "t1": "vbt-p05/data/vbt-p05.t1.json",
+  "l0": "vbt-p05/data/vbt-p05.l0.json",
+  "l2": "vbt-p05/data/vbt-p05.l2.json",
+  "c1": "vbt-p05/data/vbt-p05.c1.json"
  }
 }

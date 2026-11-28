@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "tatpātraṃ",
+     "gloss": "that-vessel",
+     "grounds": "tat (that) + pātraṃ (vessel), fused sandhi form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adjective modifying tatpātraṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samastajagatāṃ",
+     "gloss": "of-all-worlds",
+     "grounds": "samasta (all) + jagatām (worlds), genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "saukhyāya",
+     "gloss": "for-happiness",
+     "grounds": "dative singular of saukhya",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "first person singular ātmanepada present of root vand",
+     "morph": "v.1.sg.ātm.-pres + root vand"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the first vessel of all worlds saluted always for happiness?",
+   "premises": [
+    "The first vessel is saluted.",
+    "Salutation is for happiness of all worlds.",
+    "Salutation is performed always."
+   ],
+   "inference": "The first vessel is eternally saluted for universal happiness.",
+   "uncertainties": [
+    "The exact referent of tatpātraṃ is not specified in this verse."
+   ],
+   "plain_english": "I always salute that first vessel for the happiness of all worlds."
+  }
+ ]
+}

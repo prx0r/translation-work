@@ -1,0 +1,497 @@
+{
+ "song": "mukta-m0-p198",
+ "items": [
+  {
+   "verse": 4926,
+   "rows": [
+    {
+     "surface": "āvāhyābhyarcya",
+     "gloss": "having-invoked-and-having-worshipped",
+     "grounds": "gerund chain from legacy hint; fused form kept as listed (sandhi internal not split).",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gandhādyairdravyairebhiśca",
+     "gloss": "with-fragrance-etc-and-these-materials-and",
+     "grounds": "from legacy hint gandhādyairdravyairebhiśca = gandha-ādi + dravya + etad + ca; fused compound/instrumental forms kept whole.",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "may-satisfy",
+     "grounds": "causative verb form implied by legacy hint satisfy.",
+     "morph": "3.sg.causative-optative"
+    }
+   ],
+   "question": "What ritual sequence is prescribed for satisfying the invoked presence using specified offerings?",
+   "premises": [
+    "Invocation and worship are completed before satisfaction is performed.",
+    "Satisfaction is carried out with fragrance and other listed materials.",
+    "The action directed is to satisfy that presence."
+   ],
+   "inference": "After invoking and worshipping, one satisfies with fragrance and other such materials.",
+   "uncertainties": [
+    "Exact identity of the invoked presence is not stated in these tokens."
+   ],
+   "plain_english": "Having invoked and worshipped, one should satisfy with fragrance and other such materials."
+  },
+  {
+   "verse": 4927,
+   "rows": [
+    {
+     "surface": "tattvatattveśahomaṃ",
+     "gloss": "offering-to-tattva-and-tattvesha",
+     "grounds": "from legacy hint tattvatattveśahomaṃ; fused compound kept as listed.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtimūrtīśvaraiḥ",
+     "gloss": "with-formed-and-formless-lords",
+     "grounds": "from legacy hint mūrtimūrtīśvaraiḥ; fused instrumental plural kept whole.",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "may-lead",
+     "grounds": "verb sense from legacy hint lead.",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "How is the offering to tattvas and their lords to be conducted in relation to formed and formless lords?",
+   "premises": [
+    "An offering to tattva and tattveśa is named.",
+    "That offering is to be led with formed and formless lords.",
+    "The procedure joins this offering with those lords."
+   ],
+   "inference": "One should lead the offering to tattva and tattveśa together with formed and formless lords.",
+   "uncertainties": [
+    "Precise ritual manner of leading the offering is not specified here."
+   ],
+   "plain_english": "And one should lead the offering to tattva and tattveśa with the formed and formless lords."
+  },
+  {
+   "verse": 4928,
+   "rows": [
+    {
+     "surface": "darbhasaṃsparśanaṃ",
+     "gloss": "touching-with-darbha",
+     "grounds": "from legacy hint darbhasaṃsparśanaṃ.",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "cetthaṃ",
+     "gloss": "thus",
+     "grounds": "from legacy hint cetthaṃ; adverbial form kept as listed.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratibhāgaṃ",
+     "gloss": "for-each-portion",
+     "grounds": "from legacy hint pratibhāgaṃ.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "may-perform",
+     "grounds": "from legacy hint perform.",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "What action is to be performed for each portion in the manner described by darbha touching?",
+   "premises": [
+    "Touching with darbha is specified.",
+    "The procedure is done thus for each portion.",
+    "One is to perform the stated action."
+   ],
+   "inference": "Thus one should perform touching with darbha for each portion.",
+   "uncertainties": [
+    "The full antecedent of thus is given in nearby context not shown here."
+   ],
+   "plain_english": "Thus one should perform the touching with darbha for each portion."
+  },
+  {
+   "verse": 4929,
+   "rows": [
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-removed",
+     "grounds": "from legacy hint having-removed.",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vighnarājānaṃ",
+     "gloss": "obstacle-lord",
+     "grounds": "from legacy hint obstacle-lord.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kumbhānagniṃ",
+     "gloss": "pots-and-fire",
+     "grounds": "from legacy hint pots+fire+and; fused form kept as listed.",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ca tarpayet",
+     "gloss": "and-may-satisfy",
+     "grounds": "surface listed as written; combined sense from legacy hint satisfy with ca.",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "After removing the obstacle lord, what is done with the pots and fire in this rite?",
+   "premises": [
+    "The obstacle lord is removed first.",
+    "Pots and fire are named in the sequence.",
+    "Satisfaction is then performed."
+   ],
+   "inference": "Having removed the obstacle lord, one should satisfy the pots and fire.",
+   "uncertainties": [
+    "Surface token 4 is listed as ca tarpayet in the prompt; exact split not altered here."
+   ],
+   "plain_english": "Having removed the obstacle lord, one should satisfy the pots and fire."
+  },
+  {
+   "verse": 4930,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "from legacy hint having-given.",
+     "morph": "gerund"
+    },
+    {
+     "surface": "pūrṇāhutiṃ",
+     "gloss": "full-offering",
+     "grounds": "from legacy hint full-offering.",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "from legacy hint afterwards.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praviśedbhavanaṃ",
+     "gloss": "may-enter-house",
+     "grounds": "from legacy hint enter-house; fused form kept as listed.",
+     "morph": "3.sg.optative"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "from legacy hint teacher.",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "When does the teacher enter the house in relation to giving the full offering?",
+   "premises": [
+    "The full offering is given first.",
+    "Afterwards the teacher enters the house.",
+    "The agent of entering is the teacher."
+   ],
+   "inference": "Having given the full offering, afterwards the teacher may enter the house.",
+   "uncertainties": [
+    "Purpose of entering the house is not stated in these tokens."
+   ],
+   "plain_english": "Having given the full offering, afterwards the teacher may enter the house."
+  },
+  {
+   "verse": 4931,
+   "rows": [
+    {
+     "surface": "kaśilāṃ",
+     "gloss": "stone-slab",
+     "grounds": "from legacy hint stone.",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pūrvamantreṇa",
+     "gloss": "by-prior-mantra",
+     "grounds": "from legacy hint before+mantra; fused form kept as listed.",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "ratnauṣadhyādigarbhitām",
+     "gloss": "filled-with-gems-herbs-etc",
+     "grounds": "from legacy hint with-gems+herbs+etc-filled; fused form kept as listed.",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What kind of stone slab is prepared by the prior mantra in this instruction?",
+   "premises": [
+    "A stone slab is named as the object.",
+    "It is treated by the prior mantra.",
+    "It is filled with gems, herbs, and so on."
+   ],
+   "inference": "By the prior mantra one prepares a stone slab filled with gems, herbs, and the like.",
+   "uncertainties": [
+    "The exact ritual act on the stone slab is not specified here."
+   ],
+   "plain_english": "By the prior mantra, a stone slab filled with gems, herbs, and the like."
+  },
+  {
+   "verse": 4932,
+   "rows": [
+    {
+     "surface": "prāgvannyasya",
+     "gloss": "as-before-placing",
+     "grounds": "from legacy hint as-before; fused form kept as listed.",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gaṇeśānaṃ",
+     "gloss": "ganesha",
+     "grounds": "from legacy hint gaṇeśa.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "from legacy hint root-mantra.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "reciting-together",
+     "grounds": "from legacy hint reciting.",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How is Gaṇeśa to be placed while the root mantra is being recited?",
+   "premises": [
+    "Placement is done as before.",
+    "Gaṇeśa is the object placed.",
+    "The root mantra is recited at the same time."
+   ],
+   "inference": "Placing as before, one recites the root mantra while placing Gaṇeśa.",
+   "uncertainties": [
+    "The exact placement site is not stated in these tokens."
+   ],
+   "plain_english": "Placing as before, reciting the root mantra, one places Gaṇeśa."
+  },
+  {
+   "verse": 4933,
+   "rows": [
+    {
+     "surface": "calaṃ",
+     "gloss": "if-mobile",
+     "grounds": "from legacy hint if-mobile.",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "snapana-vedyāṃ",
+     "gloss": "on-bathing-altar",
+     "grounds": "from legacy hint on-bathing-altar; compound kept as listed.",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "mantranyāso",
+     "gloss": "mantra-placement",
+     "grounds": "from legacy hint mantra-placement; fused form kept as listed.",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-be",
+     "grounds": "from legacy hint becomes.",
+     "morph": "3.sg.optative"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "from legacy hint brāhmaṇas.",
+     "morph": "voc.pl.m"
+    }
+   ],
+   "question": "Under what condition is mantra placement to be done on the bathing altar according to this instruction?",
+   "premises": [
+    "The object or case is described as mobile.",
+    "The location is the bathing altar.",
+    "Mantra placement is said to occur there for the twice-born."
+   ],
+   "inference": "If it is mobile, then on the bathing altar mantra placement should be done, O twice-born.",
+   "uncertainties": [
+    "What is mobile is not named in these tokens."
+   ],
+   "plain_english": "If it is mobile, O twice-born, mantra placement should be on the bathing altar."
+  },
+  {
+   "verse": 4934,
+   "rows": [
+    {
+     "surface": "vinyased",
+     "gloss": "may-place",
+     "grounds": "from legacy hint place.",
+     "morph": "3.sg.optative"
+    },
+    {
+     "surface": "anyakumbhebhyaḥ",
+     "gloss": "from-other-pots",
+     "grounds": "from legacy hint in-other-pots; ablative/plural sense kept as given in hint context.",
+     "morph": "abl.pl.m"
+    },
+    {
+     "surface": "pīṭhasya parito",
+     "gloss": "around-pedestal",
+     "grounds": "from legacy hint around-pedestal; surface kept as listed.",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "manūn",
+     "gloss": "mantras",
+     "grounds": "from legacy hint mantras.",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "Where and from what source are mantras to be placed around the pedestal?",
+   "premises": [
+    "Mantras are to be placed.",
+    "Placement is around the pedestal.",
+    "They are placed from other pots."
+   ],
+   "inference": "One may place mantras around the pedestal from other pots.",
+   "uncertainties": [
+    "Exact ritual mapping of pots to mantras is not specified here."
+   ],
+   "plain_english": "One may place mantras around the pedestal from other pots."
+  },
+  {
+   "verse": 4935,
+   "rows": [
+    {
+     "surface": "tattvamūrtyādivinyāsaṃ",
+     "gloss": "placement-of-tattva-form-etc",
+     "grounds": "from legacy hint essence-form-etc-placement; fused form kept as listed.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "from legacy hint as-before.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "may-cause-to-do",
+     "grounds": "from legacy hint cause-to-do.",
+     "morph": "3.sg.causative-optative"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "from legacy hint then.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is the placement of tattva, form, and so on to be caused to be done as before?",
+   "premises": [
+    "Placement of tattva, form, and so on is named.",
+    "It is to be done as before.",
+    "This is done then."
+   ],
+   "inference": "Then one may cause the placement of tattva, form, and so on to be done as before.",
+   "uncertainties": [
+    "Who performs the causing is not stated in these tokens."
+   ],
+   "plain_english": "Then one may cause the placement of tattva, form, and so on to be done as before."
+  },
+  {
+   "verse": 4936,
+   "rows": [
+    {
+     "surface": "gaṇeśo",
+     "gloss": "ganesha",
+     "grounds": "from legacy hint gaṇeśa; fused form kept as listed.",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhāratī śrībhyāṃ",
+     "gloss": "with-bharati-and-shri",
+     "grounds": "from legacy hint with-sarasvatī+śrī; surface kept as listed.",
+     "morph": "inst.du.f"
+    },
+    {
+     "surface": "yuto",
+     "gloss": "joined",
+     "grounds": "from legacy hint joined.",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "from legacy hint if.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munīśvarāḥ",
+     "gloss": "lord-sages",
+     "grounds": "from legacy hint sages.",
+     "morph": "voc.pl.m"
+    }
+   ],
+   "question": "Under what condition is Gaṇeśa said to be joined with Bhāratī and Śrī in this address?",
+   "premises": [
+    "Gaṇeśa is the subject.",
+    "He is joined with Bhāratī and Śrī.",
+    "The statement is addressed to lord sages under a condition."
+   ],
+   "inference": "If Gaṇeśa is joined with Bhāratī and Śrī, this is stated to the lord sages.",
+   "uncertainties": [
+    "The ritual consequence of this joining is not given in these tokens."
+   ],
+   "plain_english": "If Gaṇeśa is joined with Bhāratī and Śrī, O lord sages."
+  },
+  {
+   "verse": 4937,
+   "rows": [
+    {
+     "surface": "vighneśvarīyutaśced",
+     "gloss": "if-joined-with-vighneshvari",
+     "grounds": "from legacy hint if-with-vighneśvarī; fused form kept as listed.",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dhi",
+     "gloss": "then",
+     "grounds": "from legacy hint then; short form kept as listed.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannāmnā",
+     "gloss": "by-that-name",
+     "grounds": "from legacy hint by-that-name.",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "may-establish",
+     "grounds": "from legacy hint establish.",
+     "morph": "3.sg.optative"
+    },
+    {
+     "surface": "tu tām",
+     "gloss": "but-her",
+     "grounds": "from legacy hint her; surface kept as listed.",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "If joined with Vighneśvarī, by what means is she to be established in this instruction?",
+   "premises": [
+    "The condition is being joined with Vighneśvarī.",
+    "Establishment is done by that name.",
+    "The object established is her."
+   ],
+   "inference": "If joined with Vighneśvarī, then by that name one may establish her.",
+   "uncertainties": [
+    "Which name is meant by that name is not specified here."
+   ],
+   "plain_english": "If joined with Vighneśvarī, then by that name one may establish her."
+  }
+ ]
+}

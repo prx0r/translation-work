@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "rājarājeśvarī",
+     "gloss": "rājarājeśvarī-vidyā",
+     "grounds": "compound name of the goddess-vidyā in this enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "feminine noun naming the mantra-goddess category",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective modifying vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parasundarī",
+     "gloss": "para-sundarī",
+     "grounds": "compound epithet of the fifth vidyā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which fifth vidyā is identified as parasundarī in the rājarājeśvarī enumeration?",
+   "premises": [
+    "rājarājeśvarī names the vidyā",
+    "pañcamī marks the fifth position",
+    "parasundarī is the epithet given"
+   ],
+   "inference": "The fifth vidyā in this rājarājeśvarī enumeration is parasundarī.",
+   "uncertainties": [
+    "The exact ritual scope of parasundarī is not specified by this verse alone."
+   ],
+   "plain_english": "The fifth vidyā of rājarājeśvarī is parasundarī."
+  }
+ ]
+}

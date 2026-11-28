@@ -1,0 +1,1233 @@
+{
+ "song": "mukta-m0-p168",
+ "items": [
+  {
+   "verse": 4176,
+   "rows": [
+    {
+     "surface": "kalāya",
+     "gloss": "pea",
+     "grounds": "name of a permitted grain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṅgu",
+     "gloss": "millet",
+     "grounds": "name of a permitted grain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāra",
+     "gloss": "barley",
+     "grounds": "name of a permitted grain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāstūkaṃ",
+     "gloss": "spinach",
+     "grounds": "name of a permitted vegetable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hilamocakā",
+     "gloss": "hilamocaka-vegetable",
+     "grounds": "name of a permitted vegetable",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which grains and vegetables qualify as acceptable sacrificial food?",
+   "premises": [
+    "Pea is listed as acceptable",
+    "Millet and barley are listed as acceptable",
+    "Spinach and hilamocaka vegetable are listed as acceptable"
+   ],
+   "inference": "These specific grains and vegetables are included among permitted sacrificial foods.",
+   "uncertainties": [
+    "Exact botanical identification of vāra and hilamocakā is uncertain."
+   ],
+   "plain_english": "Pea, millet, barley, spinach, and hilamocaka vegetable are permitted."
+  },
+  {
+   "verse": 4177,
+   "rows": [
+    {
+     "surface": "kandaṃ",
+     "gloss": "root",
+     "grounds": "edible tuber or root",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saindhava",
+     "gloss": "rock-salt",
+     "grounds": "salt from the Indus region",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmudra",
+     "gloss": "sea-salt",
+     "grounds": "salt from the sea",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gavye",
+     "gloss": "from-cow",
+     "grounds": "products derived from the cow",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "dadhisarpiṣī",
+     "gloss": "curd-and-ghee",
+     "grounds": "compound of curd and clarified butter",
+     "morph": "n.nom.du, compound=dadhi+sarpiṣī"
+    }
+   ],
+   "question": "Which roots, salts, and dairy products qualify as acceptable sacrificial food?",
+   "premises": [
+    "Edible root is listed as acceptable",
+    "Rock-salt and sea-salt are listed as acceptable",
+    "Cow-derived curd and ghee are listed as acceptable"
+   ],
+   "inference": "These roots, salts, and dairy products are included among permitted sacrificial foods.",
+   "uncertainties": [],
+   "plain_english": "Edible root, rock-salt, sea-salt, and cow's curd and ghee are permitted."
+  },
+  {
+   "verse": 4178,
+   "rows": [
+    {
+     "surface": "pippalī",
+     "gloss": "long-pepper",
+     "grounds": "spice or medicinal plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jīrakaṃ",
+     "gloss": "cumin",
+     "grounds": "spice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgaraṅga",
+     "gloss": "orange",
+     "grounds": "citrus fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tintiṇī",
+     "gloss": "tamarind",
+     "grounds": "sour fruit",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which spices and fruits qualify as acceptable sacrificial food?",
+   "premises": [
+    "Long-pepper and cumin are listed as acceptable",
+    "Orange and tamarind are listed as acceptable",
+    "The emphatic particle stresses their inclusion"
+   ],
+   "inference": "These spices and fruits are included among permitted sacrificial foods.",
+   "uncertainties": [],
+   "plain_english": "Long-pepper, cumin, orange, and tamarind are also permitted."
+  },
+  {
+   "verse": 4179,
+   "rows": [
+    {
+     "surface": "ataila",
+     "gloss": "without-oil",
+     "grounds": "describes food prepared without oil",
+     "morph": "n.nom.sg, compound=a+taila"
+    },
+    {
+     "surface": "pakvaṃ",
+     "gloss": "cooked",
+     "grounds": "prepared by cooking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "munayo",
+     "gloss": "sages",
+     "grounds": "authoritative teachers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "haviṣyānnaṃ",
+     "gloss": "sacrificial-food",
+     "grounds": "food fit for offering",
+     "morph": "n.acc.sg, compound=haviṣya+anna"
+    },
+    {
+     "surface": "pracakṣate",
+     "gloss": "declare",
+     "grounds": "state authoritatively",
+     "morph": "3.pl.present-middle, root=√cakṣ"
+    }
+   ],
+   "question": "What preparation condition defines food as proper sacrificial food according to sages?",
+   "premises": [
+    "Food must be cooked without oil",
+    "Sages are the authorities declaring this",
+    "Such food is called sacrificial food"
+   ],
+   "inference": "Sages declare that food cooked without oil qualifies as sacrificial food.",
+   "uncertainties": [],
+   "plain_english": "The sages declare that food cooked without oil is sacrificial food."
+  },
+  {
+   "verse": 4180,
+   "rows": [
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "act of offering",
+     "morph": "3.sg.optative-active, root=√nived"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harera",
+     "gloss": "of-hari",
+     "grounds": "refers to Hari",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ekāntikī",
+     "gloss": "exclusive",
+     "grounds": "single-pointed devotion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ratiḥ",
+     "gloss": "delight",
+     "grounds": "loving attachment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Does mere offering of food establish exclusive devotion to Hari?",
+   "premises": [
+    "One may offer food in that context",
+    "Exclusive devotion to Hari is not thereby present",
+    "The negation is emphatic"
+   ],
+   "inference": "Offering food alone does not constitute exclusive devotion to Hari.",
+   "uncertainties": [
+    "The referent of tatra depends on the preceding context."
+   ],
+   "plain_english": "One should not think that offering there constitutes exclusive devotion to Hari."
+  },
+  {
+   "verse": 4181,
+   "rows": [
+    {
+     "surface": "māṣa",
+     "gloss": "black-gram",
+     "grounds": "type of pulse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudga",
+     "gloss": "green-gram",
+     "grounds": "type of pulse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "masūra",
+     "gloss": "lentil",
+     "grounds": "type of pulse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādyān",
+     "gloss": "and-others",
+     "grounds": "indicates similar items",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kodravāṃś",
+     "gloss": "kodrava-grains",
+     "grounds": "type of coarse grain",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "caṇakān",
+     "gloss": "chickpeas",
+     "grounds": "type of pulse",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pulses and grains are listed as items to be avoided?",
+   "premises": [
+    "Black-gram, green-gram, lentil and others are named",
+    "Kodrava grains and chickpeas are named",
+    "The list indicates prohibited or restricted items"
+   ],
+   "inference": "These pulses and grains are included among items to be avoided.",
+   "uncertainties": [
+    "The prohibitive force is implied by context and following verses."
+   ],
+   "plain_english": "Black-gram, green-gram, lentil and others, kodrava grains, and chickpeas are listed."
+  },
+  {
+   "verse": 4182,
+   "rows": [
+    {
+     "surface": "māṣa",
+     "gloss": "black-gram",
+     "grounds": "type of pulse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āḍhakī",
+     "gloss": "pigeon-pea",
+     "grounds": "type of pulse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "masūrāṃś",
+     "gloss": "lentils",
+     "grounds": "type of pulse",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kodravāṃś",
+     "gloss": "kodrava-grains",
+     "grounds": "type of coarse grain",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "caṇakān",
+     "gloss": "chickpeas",
+     "grounds": "type of pulse",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional pulses and grains are reiterated as items to be avoided?",
+   "premises": [
+    "Black-gram, pigeon-pea, and lentils are named",
+    "Kodrava grains and chickpeas are named again",
+    "The repetition emphasizes their exclusion"
+   ],
+   "inference": "These pulses and grains are again included among items to be avoided.",
+   "uncertainties": [
+    "Repetition may reflect textual transmission or emphasis."
+   ],
+   "plain_english": "Black-gram, pigeon-pea, lentils, kodrava grains, and chickpeas are also listed."
+  },
+  {
+   "verse": 4183,
+   "rows": [
+    {
+     "surface": "alpāśana",
+     "gloss": "little-eating",
+     "grounds": "moderation in food",
+     "morph": "n.nom.sg, compound=alpa+aśana"
+    },
+    {
+     "surface": "asaṅga",
+     "gloss": "non-attachment",
+     "grounds": "freedom from attachment",
+     "morph": "m.nom.sg, compound=a+saṅga"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍbhiḥ",
+     "gloss": "by-six",
+     "grounds": "by means of six factors",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasiddhyati",
+     "gloss": "succeeds",
+     "grounds": "attains accomplishment",
+     "morph": "3.sg.present-active, root=√sidh"
+    }
+   ],
+   "question": "What supportive disciplines contribute to the successful accomplishment of mantra?",
+   "premises": [
+    "Eating little is a supportive discipline",
+    "Non-attachment is a supportive discipline",
+    "The mantra succeeds through six such factors"
+   ],
+   "inference": "Moderation in eating and non-attachment are among six factors by which a mantra succeeds.",
+   "uncertainties": [
+    "The full list of six factors is not specified in this verse."
+   ],
+   "plain_english": "Through little eating, non-attachment, and six factors, the mantra succeeds."
+  },
+  {
+   "verse": 4184,
+   "rows": [
+    {
+     "surface": "nīcasaṅga",
+     "gloss": "low-company",
+     "grounds": "association with base people",
+     "morph": "m.nom.sg, compound=nīca+saṅga"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laulya",
+     "gloss": "fickleness",
+     "grounds": "restlessness or greed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍbhiḥ",
+     "gloss": "by-six",
+     "grounds": "by means of six factors",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "attains accomplishment",
+     "morph": "3.sg.present-active, root=√sidh"
+    }
+   ],
+   "question": "What obstructive behaviors prevent the successful accomplishment of mantra?",
+   "premises": [
+    "Association with low company is obstructive",
+    "Fickleness is obstructive",
+    "The mantra does not succeed through six such factors"
+   ],
+   "inference": "Low company and fickleness are among six factors by which a mantra fails to succeed.",
+   "uncertainties": [
+    "The full list of six obstructive factors is not specified in this verse."
+   ],
+   "plain_english": "Through low company, fickleness, and six factors, the mantra does not succeed."
+  },
+  {
+   "verse": 4185,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the divine feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mantramayaṃ",
+     "gloss": "mantra-formed",
+     "grounds": "consisting of mantra",
+     "morph": "m.acc.sg, compound=mantra+maya"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "immediately, in person",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "contemplate",
+     "morph": "3.sg.optative-active, root=√dhyai"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "one's own self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "within one's own self",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should the practitioner meditate on the self in relation to the goddess?",
+   "premises": [
+    "The goddess is directly mantra-formed",
+    "The practitioner should meditate on the self",
+    "This meditation occurs within the self"
+   ],
+   "inference": "One should directly meditate on the self as mantra-formed goddess within oneself.",
+   "uncertainties": [],
+   "plain_english": "One should directly meditate on the self as mantra-formed goddess within the self."
+  },
+  {
+   "verse": 4186,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "attains accomplishment",
+     "morph": "3.sg.present-active, root=√sidh"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "fair-hipped-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kalpa",
+     "gloss": "eon",
+     "grounds": "cosmic age",
+     "morph": "m.nom.sg, compound-member"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "ten-million",
+     "grounds": "large number",
+     "morph": "f.nom.sg, compound-member"
+    },
+    {
+     "surface": "śataiḥ",
+     "gloss": "by-hundreds",
+     "grounds": "hundreds of units",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can mantra accomplishment occur without proper practice even over vast cosmic time?",
+   "premises": [
+    "The mantra does not succeed",
+    "Even hundreds of ten-million eons pass",
+    "The address emphasizes the certainty of failure"
+   ],
+   "inference": "Without proper practice, the mantra does not succeed even over immense spans of time.",
+   "uncertainties": [
+    "The specific missing condition is implied by surrounding verses."
+   ],
+   "plain_english": "O fair-hipped one, it does not succeed even in hundreds of ten-million eons."
+  },
+  {
+   "verse": 4187,
+   "rows": [
+    {
+     "surface": "kāṃsyapātraṃ",
+     "gloss": "bronze-vessel",
+     "grounds": "vessel made of bell metal",
+     "morph": "n.nom.sg, compound=kāṃsya+pātra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "oily substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravīryaharāṇi",
+     "gloss": "mantra-power-destroying",
+     "grounds": "things that remove mantra potency",
+     "morph": "n.nom.pl, compound=mantra+vīrya+hara"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number six",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "Which substances are identified as destroyers of mantra potency?",
+   "premises": [
+    "A bronze vessel is named",
+    "Oil is named",
+    "These are among six things that destroy mantra potency"
+   ],
+   "inference": "Bronze vessels and oil are included among six things that destroy mantra potency.",
+   "uncertainties": [
+    "Only two of the six items are explicitly named in this verse."
+   ],
+   "plain_english": "A bronze vessel and oil are among the six things that destroy mantra potency."
+  },
+  {
+   "verse": 4188,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws conclusion from prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "with complete diligence",
+     "morph": "m.ins.sg, compound=sarva+prayatna"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "one who uses mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paryuṣitaṃ",
+     "gloss": "stale",
+     "grounds": "leftover or kept overnight",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "should give up",
+     "morph": "3.sg.optative-active, root=√tyaj"
+    }
+   ],
+   "question": "What dietary precaution must the mantra practitioner take regarding stale food?",
+   "premises": [
+    "Certain things destroy mantra potency",
+    "The practitioner must act with all effort",
+    "Stale food should be abandoned"
+   ],
+   "inference": "Therefore the mantra practitioner should diligently avoid stale food.",
+   "uncertainties": [],
+   "plain_english": "Therefore, with all effort, the mantra practitioner should abandon stale food."
+  },
+  {
+   "verse": 4189,
+   "rows": [
+    {
+     "surface": "phalalopaḥ",
+     "gloss": "fruit-loss",
+     "grounds": "loss of desired result",
+     "morph": "m.nom.sg, compound=phala+lopa"
+    },
+    {
+     "surface": "bhavennūnaṃ",
+     "gloss": "would-be-certainly",
+     "grounds": "sandhi fusion of bhavet and nūnam",
+     "morph": "3.sg.optative-active, root=√bhū + (indecl.)"
+    },
+    {
+     "surface": "mantravīryaṃ",
+     "gloss": "mantra-power",
+     "grounds": "potency of the mantra",
+     "morph": "n.acc.sg, compound=mantra+vīrya"
+    },
+    {
+     "surface": "hared",
+     "gloss": "would-take-away",
+     "grounds": "would remove or destroy",
+     "morph": "3.sg.optative-active, root=√hṛ"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "surely",
+     "grounds": "certainly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequences follow from neglecting prohibitions that harm mantra potency?",
+   "premises": [
+    "Loss of the desired fruit would certainly occur",
+    "The potency of the mantra would be taken away",
+    "This outcome is assured"
+   ],
+   "inference": "Neglecting such prohibitions certainly causes loss of results and destroys mantra potency.",
+   "uncertainties": [],
+   "plain_english": "There would certainly be loss of the fruit, and it would surely take away the mantra's potency."
+  },
+  {
+   "verse": 4190,
+   "rows": [
+    {
+     "surface": "pittalaṃ",
+     "gloss": "brass",
+     "grounds": "metal alloy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtyudaṃ",
+     "gloss": "death-giving",
+     "grounds": "causing death",
+     "morph": "n.nom.sg, compound=mṛtyu+da"
+    },
+    {
+     "surface": "nūnaṃ",
+     "gloss": "certainly",
+     "grounds": "emphatic certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudradhānyaṃ",
+     "gloss": "small-grain",
+     "grounds": "coarse or minor grain",
+     "morph": "n.nom.sg, compound=kṣudra+dhānya"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kodravam",
+     "gloss": "kodrava",
+     "grounds": "type of coarse grain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What harmful effects are attributed to brass and certain coarse grains?",
+   "premises": [
+    "Brass is said to bring death",
+    "Small grains and kodrava are named",
+    "These are presented as harmful"
+   ],
+   "inference": "Brass is certainly death-giving, and small grains such as kodrava are harmful.",
+   "uncertainties": [
+    "The specific harm of kṣudradhānya and kodrava is implied rather than stated."
+   ],
+   "plain_english": "Brass certainly brings death, and so do small grains and kodrava."
+  },
+  {
+   "verse": 4191,
+   "rows": [
+    {
+     "surface": "masūrī",
+     "gloss": "lentil",
+     "grounds": "type of pulse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mānahantrī",
+     "gloss": "honor-destroying",
+     "grounds": "that which destroys honor",
+     "morph": "f.nom.sg, compound=māna+hantrī"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityājyā",
+     "gloss": "to-be-abandoned",
+     "grounds": "must be given up",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must lentils be completely avoided by the practitioner?",
+   "premises": [
+    "Lentil is described as destroying honor",
+    "It must be abandoned",
+    "This abandonment is required always"
+   ],
+   "inference": "Lentils must always be abandoned because they destroy honor.",
+   "uncertainties": [],
+   "plain_english": "Lentil destroys honor and must therefore always be abandoned."
+  },
+  {
+   "verse": 4192,
+   "rows": [
+    {
+     "surface": "mantravīryaṃ",
+     "gloss": "mantra-power",
+     "grounds": "potency of the mantra",
+     "morph": "n.acc.sg, compound=mantra+vīrya"
+    },
+    {
+     "surface": "harati",
+     "gloss": "takes-away",
+     "grounds": "removes or destroys",
+     "morph": "3.sg.present-active, root=√hṛ"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "swiftly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadyapi",
+     "gloss": "even-if",
+     "grounds": "concessive conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "hypothetical being",
+     "morph": "3.sg.optative-active, root=√as"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "a powerful practitioner or deity",
+     "morph": "m.nom.sg, compound=mahā+īśvara"
+    }
+   ],
+   "question": "Can even a great lord retain mantra potency while violating these prohibitions?",
+   "premises": [
+    "Mantra potency is quickly taken away",
+    "This occurs even if one is a great lord",
+    "The prohibition applies regardless of status"
+   ],
+   "inference": "Violating these prohibitions quickly destroys mantra potency even for a great lord.",
+   "uncertainties": [
+    "Whether maheśvaraḥ refers to Śiva or a powerful adept is context-dependent."
+   ],
+   "plain_english": "It quickly takes away mantra potency, even if one were a great lord."
+  },
+  {
+   "verse": 4193,
+   "rows": [
+    {
+     "surface": "tilatailaṃ",
+     "gloss": "sesame-oil",
+     "grounds": "oil pressed from sesame",
+     "morph": "n.nom.sg, compound=tila+taila"
+    },
+    {
+     "surface": "mantrapūtaṃ",
+     "gloss": "mantra-purified",
+     "grounds": "purified by mantra",
+     "morph": "n.nom.sg, compound=mantra+pūta"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "that which purifies",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devadurlabham",
+     "gloss": "rare-for-gods",
+     "grounds": "difficult even for gods to obtain",
+     "morph": "n.nom.sg, compound=deva+durlabha"
+    }
+   ],
+   "question": "Under what condition can sesame oil become a purifying and rare substance?",
+   "premises": [
+    "Sesame oil is considered",
+    "When purified by mantra it becomes purifying",
+    "Such purified oil is rare even for gods"
+   ],
+   "inference": "Sesame oil purified by mantra becomes purifying and exceedingly rare.",
+   "uncertainties": [],
+   "plain_english": "Sesame oil purified by mantra is purifying and rare even for the gods."
+  },
+  {
+   "verse": 4194,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "should shun",
+     "morph": "3.sg.optative-active, root=√vṛj"
+    },
+    {
+     "surface": "japavelāyāṃ",
+     "gloss": "at-japa-time",
+     "grounds": "during the time of recitation",
+     "morph": "f.loc.sg, compound=japa+velā"
+    },
+    {
+     "surface": "bhojyaṃ",
+     "gloss": "food",
+     "grounds": "eating or food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "by those who know",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What conduct regarding eating is prescribed for the wise during mantra recitation?",
+   "premises": [
+    "The time of japa is specified",
+    "Food should be avoided at that time",
+    "The wise always follow this rule"
+   ],
+   "inference": "The wise should always avoid eating during the time of mantra recitation.",
+   "uncertainties": [],
+   "plain_english": "The wise should always avoid eating during the time of japa."
+  },
+  {
+   "verse": 4195,
+   "rows": [
+    {
+     "surface": "pācayet",
+     "gloss": "should-cook",
+     "grounds": "should prepare by cooking",
+     "morph": "3.sg.optative-causative, root=√pac"
+    },
+    {
+     "surface": "vaidikaiḥ",
+     "gloss": "with-vedic",
+     "grounds": "belonging to the Veda",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "sacred formulas",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "furthermore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root",
+     "grounds": "with the root mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "one skilled in mantras",
+     "morph": "m.nom.sg, compound=mantra+vid"
+    }
+   ],
+   "question": "How should a mantra-knower consecrate food during its preparation?",
+   "premises": [
+    "Food should be cooked",
+    "Vedic mantras are used in preparation",
+    "The root mantra is also used by the mantra-knower"
+   ],
+   "inference": "The mantra-knower should cook food while using Vedic mantras and the root mantra.",
+   "uncertainties": [],
+   "plain_english": "The mantra-knower should cook food with Vedic mantras and again with the root mantra."
+  },
+  {
+   "verse": 4196,
+   "rows": [
+    {
+     "surface": "arddharātre",
+     "gloss": "at-midnight",
+     "grounds": "middle of the night",
+     "morph": "m.loc.sg, compound=arddha+rātra"
+    },
+    {
+     "surface": "samutthāya",
+     "gloss": "having-risen",
+     "grounds": "after getting up",
+     "morph": "(indecl.), absolutive, root=√sthā"
+    },
+    {
+     "surface": "pādaśaucaṃ",
+     "gloss": "foot-cleansing",
+     "grounds": "washing of the feet",
+     "morph": "n.acc.sg, compound=pāda+śauca"
+    },
+    {
+     "surface": "cared",
+     "gloss": "should-perform",
+     "grounds": "should carry out",
+     "morph": "3.sg.optative-active, root=√car"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "twice-born",
+     "grounds": "initiated person",
+     "morph": "m.nom.sg, compound=dvi+ja"
+    }
+   ],
+   "question": "What preliminary purification should the twice-born perform upon rising at midnight?",
+   "premises": [
+    "One rises at midnight",
+    "Foot-cleansing is to be performed",
+    "This is prescribed for the twice-born"
+   ],
+   "inference": "The twice-born should rise at midnight and perform foot-cleansing.",
+   "uncertainties": [],
+   "plain_english": "Rising at midnight, the twice-born should perform the cleansing of the feet."
+  },
+  {
+   "verse": 4197,
+   "rows": [
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "should perform",
+     "morph": "3.sg.optative-active, root=√kṛ"
+    },
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "as much as one is able",
+     "morph": "(indecl.), compound=yathā+śakti"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "should-offer",
+     "grounds": "should dedicate",
+     "morph": "3.sg.optative-causative, root=√ṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the practitioner perform and dedicate mantra recitation to the goddess?",
+   "premises": [
+    "Recitation should be done according to ability",
+    "The recitation should be offered",
+    "The goddess is addressed as the recipient"
+   ],
+   "inference": "One should perform recitation according to ability and offer it to the goddess.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should perform japa according to ability and offer it accordingly."
+  },
+  {
+   "verse": 4198,
+   "rows": [
+    {
+     "surface": "tadvāsaḥ",
+     "gloss": "that-garment",
+     "grounds": "the garment used for that practice",
+     "morph": "n.acc.sg, compound=tad+vāsaḥ"
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "should-wash",
+     "grounds": "should cleanse",
+     "morph": "3.sg.optative-causative, root=√kṣal"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "daily",
+     "grounds": "always, regularly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "if not done",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vighnam",
+     "gloss": "obstacle",
+     "grounds": "hindrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "would-bring",
+     "grounds": "would produce",
+     "morph": "3.sg.optative-active, root=√vah"
+    }
+   ],
+   "question": "What consequence follows from failing to wash the ritual garment daily?",
+   "premises": [
+    "The ritual garment should be washed daily",
+    "Failure to do so is considered",
+    "An obstacle would be brought about"
+   ],
+   "inference": "If the ritual garment is not washed daily, it brings an obstacle.",
+   "uncertainties": [],
+   "plain_english": "One should wash that garment daily; otherwise it would bring an obstacle."
+  },
+  {
+   "verse": 4199,
+   "rows": [
+    {
+     "surface": "mantrite",
+     "gloss": "mantra-empowered",
+     "grounds": "consecrated by mantra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "the auspicious deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating",
+     "grounds": "contemplating",
+     "morph": "m.nom.sg, present-participle, root=√dhyai"
+    },
+    {
+     "surface": "prākśiraskaḥ",
+     "gloss": "head-to-east",
+     "grounds": "with head facing east",
+     "morph": "m.nom.sg, compound=prāk+śiraska"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "during the night",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "svapet",
+     "gloss": "should-sleep",
+     "grounds": "should rest",
+     "morph": "3.sg.optative-active, root=√svap"
+    }
+   ],
+   "question": "What posture and meditation are prescribed for sleeping at night in a consecrated place?",
+   "premises": [
+    "The place is empowered by mantra",
+    "One meditates on Śiva",
+    "One sleeps at night with head facing east"
+   ],
+   "inference": "In a mantra-empowered place, one should sleep at night meditating on Śiva with head to the east.",
+   "uncertainties": [
+    "mantrite may refer to a consecrated bed or place."
+   ],
+   "plain_english": "In a mantra-empowered place, meditating on Śiva, one should sleep at night with head facing east."
+  }
+ ]
+}

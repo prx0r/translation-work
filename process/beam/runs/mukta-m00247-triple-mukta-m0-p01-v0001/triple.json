@@ -1,0 +1,1357 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "saṃsthitau",
+     "gloss": "well-situated",
+     "grounds": "legacy hint",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "Pārvatī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṃbhū",
+     "gloss": "and-Śambhu",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "loka",
+     "gloss": "world",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rakṣaṇa",
+     "gloss": "protection",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatparau",
+     "gloss": "devoted",
+     "grounds": "legacy hint",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Who are well situated for world protection?",
+   "premises": [
+    "Pārvatī and Śambhu are named",
+    "world protection is stated",
+    "devotion is stated"
+   ],
+   "inference": "Pārvatī and Śambhu are devoted to protecting the world",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Pārvatī and Śambhu are well situated, devoted to protecting the world."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śreṣṭha",
+     "gloss": "best",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sura",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dayā",
+     "gloss": "compassion",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "traiguṇya",
+     "gloss": "three-qualities",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānasa",
+     "gloss": "minded",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize the best god of gods?",
+   "premises": [
+    "best god of gods is named",
+    "compassion is named",
+    "three-qualities minded is named"
+   ],
+   "inference": "The best god of gods is compassionate and three-qualities minded",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "The best god of gods is compassionate and three-qualities minded."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "asmiṃś",
+     "gloss": "in-this",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cara",
+     "gloss": "moving",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "acare",
+     "gloss": "and-unmoving",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyakte",
+     "gloss": "manifest",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krūre",
+     "gloss": "cruel",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kena",
+     "gloss": "by-whom",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prakāśitā",
+     "gloss": "revealed",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By whom is this moving and unmoving manifest cruel realm revealed?",
+   "premises": [
+    "this realm is moving and unmoving",
+    "it is manifest and cruel",
+    "revelation is asked"
+   ],
+   "inference": "The verse asks by whom this manifest cruel realm is revealed",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "In this moving and unmoving manifest cruel realm, by whom is it revealed?"
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "trailokya",
+     "gloss": "three-worlds",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "renowned",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtala",
+     "gloss": "earth",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śekharā",
+     "gloss": "crest-jewel",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What renowned crest-jewel of all earth exists in the three worlds?",
+   "premises": [
+    "existence is stated",
+    "three worlds are named",
+    "renowned crest-jewel is named"
+   ],
+   "inference": "A renowned crest-jewel of all earth exists in the three worlds",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "There exists a renowned crest-jewel of all earth in the three worlds."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "holy",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tapo",
+     "gloss": "austerity",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vana",
+     "gloss": "forest",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "place",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛkṣa",
+     "gloss": "trees",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samākulam",
+     "gloss": "filled-with",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What holy austerity forest place is filled with various trees?",
+   "premises": [
+    "holy austerity is named",
+    "forest place is named",
+    "various trees fill it"
+   ],
+   "inference": "The holy austerity forest place is filled with various trees",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "The holy austerity forest place is filled with various trees."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scriptures",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "abdhi",
+     "gloss": "ocean",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "poto'",
+     "gloss": "boat",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "āgama",
+     "gloss": "traditions",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nidhir",
+     "gloss": "treasure",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhūt",
+     "gloss": "became",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-aor"
+    }
+   ],
+   "question": "What became a boat across the scripture ocean and treasure of all traditions?",
+   "premises": [
+    "various scriptures form an ocean",
+    "a boat is named",
+    "all traditions treasure is named"
+   ],
+   "inference": "Something became a boat across the scripture ocean and treasure of all traditions",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "It became a boat across the scripture ocean and a treasure of all traditions."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "ekadā",
+     "gloss": "once",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snātum",
+     "gloss": "to-bathe",
+     "grounds": "legacy hint",
+     "morph": "inf."
+    },
+    {
+     "surface": "āyāto",
+     "gloss": "came",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "revāṃ",
+     "gloss": "Revā",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puṇya",
+     "gloss": "holy",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ānvitām",
+     "gloss": "endowed-with",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Who came once to bathe in holy Revā water endowed with holiness?",
+   "premises": [
+    "once is stated",
+    "bathing is stated",
+    "Revā holy water is named"
+   ],
+   "inference": "Someone came once to bathe in holy Revā water",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Once he came to bathe in holy Revā water."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "goptrī",
+     "gloss": "protectress",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tripurasundarī",
+     "gloss": "Tripurasundarī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is situated in the middle of the water as great protectress Tripurasundarī?",
+   "premises": [
+    "water middle is named",
+    "protectress is named",
+    "great Tripurasundarī is named"
+   ],
+   "inference": "Great Tripurasundarī is situated in the middle of the water as protectress",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Great Tripurasundarī is situated in the middle of the water as protectress."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "satvaraṃ",
+     "gloss": "quickly",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṃ",
+     "gloss": "giving",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gopyaṃ",
+     "gloss": "secret",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muni",
+     "gloss": "sage",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indra",
+     "gloss": "lord",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiromaṇiḥ",
+     "gloss": "crest-jewel",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What secret fruit-giving crest-jewel sage lord is named?",
+   "premises": [
+    "quickly is stated",
+    "fruit giving is stated",
+    "secret sage lord crest-jewel is named"
+   ],
+   "inference": "A secret fruit-giving sage lord crest-jewel is named",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Quickly fruit-giving secret sage lord crest-jewel."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "by-her",
+     "grounds": "legacy hint",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prabhāvān",
+     "gloss": "power",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "granthaṃ",
+     "gloss": "text",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-make",
+     "grounds": "legacy hint",
+     "morph": "inf."
+    },
+    {
+     "surface": "iyeṣa",
+     "gloss": "desired",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-perf"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who desired to make a text by the great goddess's power?",
+   "premises": [
+    "by her power is stated",
+    "great goddess is named",
+    "text making is desired"
+   ],
+   "inference": "He desired to make a text by the great goddess's power",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "By her power, he desired to make a text, O great goddess."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "grantham",
+     "gloss": "text",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddhārakośākhyaṃ",
+     "gloss": "Uddhārakośa",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākhyaṃ",
+     "gloss": "named",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakāra",
+     "gloss": "made",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-perf"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāgaram",
+     "gloss": "ocean",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What named text did he make as a mantra ocean?",
+   "premises": [
+    "text is named",
+    "Uddhārakośa is named",
+    "mantra ocean is named"
+   ],
+   "inference": "He made the named text Uddhārakośa as a mantra ocean",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "He made the text named Uddhārakośa, a mantra ocean."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "grantham",
+     "gloss": "text",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddhārakośākhyaṃ",
+     "gloss": "Uddhārakośa",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākhyaṃ",
+     "gloss": "named",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "āgama",
+     "gloss": "traditions",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viniścitam",
+     "gloss": "ascertained",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What named text is ascertained among all traditions?",
+   "premises": [
+    "text is named",
+    "Uddhārakośa is named",
+    "all traditions ascertained is stated"
+   ],
+   "inference": "The named text Uddhārakośa is ascertained among all traditions",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "The text named Uddhārakośa is ascertained among all traditions."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "icchāmi",
+     "gloss": "I-desire",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "affection",
+     "grounds": "legacy hint",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vaktum",
+     "gloss": "to-tell",
+     "grounds": "legacy hint",
+     "morph": "inf."
+    },
+    {
+     "surface": "arhasi",
+     "gloss": "you-should",
+     "grounds": "legacy hint",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "dhūrjaṭe",
+     "gloss": "O-Dhūrjaṭi",
+     "grounds": "legacy hint",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What does the speaker desire to tell with supreme affection?",
+   "premises": [
+    "I desire is stated",
+    "supreme affection is stated",
+    "telling is requested"
+   ],
+   "inference": "The speaker desires to tell something with supreme affection",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "I desire, with supreme affection, to tell; you should, O Dhūrjaṭi."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "devīnāṃ",
+     "gloss": "of-goddesses",
+     "grounds": "legacy hint",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyānāṃ",
+     "gloss": "vidyās",
+     "grounds": "legacy hint",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uddhāram",
+     "gloss": "extraction",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anuttamam",
+     "gloss": "unsurpassed",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What unsurpassed mantra extraction is named for ten goddess vidyās?",
+   "premises": [
+    "ten goddess vidyās are named",
+    "mantra extraction is named",
+    "unsurpassed is stated"
+   ],
+   "inference": "An unsurpassed mantra extraction is named for ten goddess vidyās",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "The unsurpassed mantra extraction of the ten goddess vidyās."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "grantha",
+     "gloss": "texts",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc.",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worshipped",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "hear",
+     "grounds": "legacy hint",
+     "morph": "2.sg.mid-imp"
+    },
+    {
+     "surface": "bravīmyaham",
+     "gloss": "I-speak",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
+    }
+   ],
+   "question": "What worshipped thing among all texts etc. should be heard?",
+   "premises": [
+    "all texts etc. are named",
+    "worshipped is stated",
+    "hearing and speaking are stated"
+   ],
+   "inference": "The worshipped thing among all texts etc. should be heard",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Hear that worshipped thing among all texts and so on; I speak."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "abravīd",
+     "gloss": "spoke",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "dakṣiṇāmūrtiś",
+     "gloss": "Dakṣiṇāmūrti",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chātram",
+     "gloss": "to-disciple",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "akṣobhya",
+     "gloss": "Akṣobhya",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāmakam",
+     "gloss": "named",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who spoke to the disciple named Akṣobhya?",
+   "premises": [
+    "spoke is stated",
+    "Dakṣiṇāmūrti is named",
+    "disciple named Akṣobhya is named"
+   ],
+   "inference": "Dakṣiṇāmūrti spoke to the disciple named Akṣobhya",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Dakṣiṇāmūrti spoke to the disciple named Akṣobhya."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "of-all",
+     "grounds": "legacy hint",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "lokānāṃ",
+     "gloss": "worlds",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What secret thing is hard to obtain even for gods of all worlds?",
+   "premises": [
+    "secret is named",
+    "all worlds are named",
+    "gods even are named",
+    "hard to obtain is stated"
+   ],
+   "inference": "A secret thing is hard to obtain even for gods of all worlds",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "A secret hard to obtain even for gods of all worlds."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "muni",
+     "gloss": "sage",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indro",
+     "gloss": "lord",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇāmūrti",
+     "gloss": "Dakṣiṇāmūrti",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rabravīd",
+     "gloss": "spoke",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "grantham",
+     "gloss": "text",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who spoke the supreme text as sage lord Dakṣiṇāmūrti?",
+   "premises": [
+    "sage lord is named",
+    "Dakṣiṇāmūrti is named",
+    "spoke supreme text is stated"
+   ],
+   "inference": "Sage lord Dakṣiṇāmūrti spoke the supreme text",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Sage lord Dakṣiṇāmūrti spoke the supreme text."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devatānāṃ",
+     "gloss": "of-deities",
+     "grounds": "legacy hint",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "hear",
+     "grounds": "legacy hint",
+     "morph": "2.sg.mid-imp"
+    },
+    {
+     "surface": "bravīmyaham",
+     "gloss": "I-speak",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
+    }
+   ],
+   "question": "What should be heard concerning gods and deities?",
+   "premises": [
+    "gods are named",
+    "deities are named",
+    "hearing and speaking are stated"
+   ],
+   "inference": "That concerning gods and deities should be heard",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Hear that concerning gods and deities; I speak."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "tāra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūti",
+     "gloss": "bhūti",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "kamalā",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What vidyā is declared including tāra, bhūti, and kamalā?",
+   "premises": [
+    "tāra is named",
+    "bhūti is named",
+    "kamalā is named",
+    "declared vidyā is stated"
+   ],
+   "inference": "A vidyā is declared including tāra, bhūti, and kamalā",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Tāra and bhūti and kamalā are declared as vidyā also."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "method",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śubhado'",
+     "gloss": "auspicious",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-imp"
+    },
+    {
+     "surface": "pūrṇaḥ",
+     "gloss": "complete",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What auspicious complete method of sixteen syllables is named?",
+   "premises": [
+    "śrī is named",
+    "sixteen syllable method is named",
+    "auspicious complete is stated"
+   ],
+   "inference": "An auspicious complete method of sixteen syllables is named",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Let the auspicious complete method of sixteen syllables be."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "viparīta",
+     "gloss": "reverse",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "manner",
+     "grounds": "legacy hint",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ākṣarī",
+     "gloss": "syllable",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What vidyā is declared in reverse manner as sixteen syllables?",
+   "premises": [
+    "reverse manner is stated",
+    "declared vidyā is stated",
+    "sixteen syllables are named"
+   ],
+   "inference": "A vidyā is declared in reverse manner as sixteen syllables",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "In reverse manner a vidyā is declared as sixteen syllables."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "viparīta",
+     "gloss": "reverse",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "manner",
+     "grounds": "legacy hint",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ākṣarī",
+     "gloss": "syllable",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What vidyā is declared in reverse manner as sixteen syllables?",
+   "premises": [
+    "reverse manner is stated",
+    "declared vidyā is stated",
+    "sixteen syllables are named"
+   ],
+   "inference": "A vidyā is declared in reverse manner as sixteen syllables",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "In reverse manner a vidyā is declared as sixteen syllables."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "lakṣmī",
+     "gloss": "Lakṣmī",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seeds",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtrimāṇy",
+     "gloss": "artificial",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What seven Lakṣmī seeds are artificial and others?",
+   "premises": [
+    "Lakṣmī seeds are named",
+    "seven is stated",
+    "artificial and others are stated"
+   ],
+   "inference": "Seven Lakṣmī seeds are artificial and others",
+   "uncertainties": [
+    "exact case parsing approximate"
+   ],
+   "plain_english": "Lakṣmī seeds are seven indeed, artificial and others."
+  }
+ ]
+}

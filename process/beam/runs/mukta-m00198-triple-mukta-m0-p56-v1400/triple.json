@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "compound of dvi and bhāga; describes division into two parts",
+     "morph": "dvi+bhāga (compound), n.nom.sg"
+    },
+    {
+     "surface": "madhyaśālā",
+     "gloss": "middle-hall",
+     "grounds": "compound of madhya and śālā; subject of the prescribed arrangement",
+     "morph": "madhya+śālā (compound), f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "expresses prescribed or potential arrangement",
+     "morph": "3.sg.optative.active √as"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "refers to the remaining portion of the layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavadeva",
+     "gloss": "just-as-before",
+     "grounds": "compound of pūrvavat and eva; indicates conformity with prior arrangement",
+     "morph": "pūrvavat+eva (compound), (indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What division is prescribed for the middle hall and the remaining space?",
+   "premises": [
+    "The middle hall is prescribed to be two-part.",
+    "The remainder is to follow the previous arrangement.",
+    "The emphatic particle confirms this prescribed layout."
+   ],
+   "inference": "Therefore, the middle hall must be divided into two parts while the rest remains arranged as before.",
+   "uncertainties": [
+    "The exact architectural referent of śeṣaṃ in this layout is not fully specified within this verse alone."
+   ],
+   "plain_english": "The middle hall should indeed be in two parts, and the remainder should be arranged just as before."
+  }
+ ]
+}

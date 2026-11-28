@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "kāmikādi",
+     "gloss": "kamika-and-others",
+     "grounds": "compound beginning with Kamika; no sandhi fusion marker",
+     "morph": "compound=kāmika+ādi"
+    },
+    {
+     "surface": "śivajñānaṃ",
+     "gloss": "shiva-knowledge",
+     "grounds": "neuter accusative singular form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrdhā",
+     "gloss": "crown",
+     "grounds": "masculine nominative singular form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagavataḥ",
+     "gloss": "of-lord",
+     "grounds": "masculine genitive singular form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which scripture is declared the crown of the Lord among the listed traditions?",
+   "premises": [
+    "Kamika and related texts are Shiva-knowledge.",
+    "Shiva-knowledge is the crown of the Lord.",
+    "The Lord's crown is always so."
+   ],
+   "inference": "Therefore Kamika and related Shiva-knowledge is the Lord's eternal crown.",
+   "uncertainties": [
+    "Exact verse syntax beyond the supplied tokens is not available."
+   ],
+   "plain_english": "The Kamika and other Shiva-knowledges are always the crown of the Lord."
+  }
+ ]
+}

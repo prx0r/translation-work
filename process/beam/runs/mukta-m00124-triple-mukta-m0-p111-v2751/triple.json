@@ -1,0 +1,956 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2751,
+   "rows": [
+    {
+     "surface": "āyādisampatsaṃyuktaṃ",
+     "gloss": "endowed-with-prosperity-beginning",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gajādisthānamīritam",
+     "gloss": "place-of-elephants-etc-declared",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of site is declared for the elephant and related classes?",
+   "premises": [
+    "The site is endowed with prosperity beginning.",
+    "The site is declared for elephants and related classes."
+   ],
+   "inference": "The declared site must combine prosperity with the elephant-class placement.",
+   "uncertainties": [
+    "Exact class list beyond elephants is not specified."
+   ],
+   "plain_english": "The site endowed with prosperity from the beginning is declared as the place for elephants and related classes."
+  },
+  {
+   "verse": 2752,
+   "rows": [
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sabhā",
+     "gloss": "assembly",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muṇḍajasaudhaje",
+     "gloss": "muṇḍa-palace-on",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How many kinds of garland, hall, and assembly are distinguished on the muṇḍa palace?",
+   "premises": [
+    "The distinction is fourfold.",
+    "Garland, hall, and assembly are named.",
+    "The location is on the muṇḍa palace."
+   ],
+   "inference": "The fourfold scheme applies to garland, hall, and assembly on the muṇḍa palace.",
+   "uncertainties": [
+    "The four members are not individually enumerated."
+   ],
+   "plain_english": "Fourfold are the garland, hall, and assembly on the muṇḍa palace."
+  },
+  {
+   "verse": 2753,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "known",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāstre'smin kāmikāhvaye",
+     "gloss": "in-this-treatise-called-kāmika",
+     "grounds": "compound locative with sandhi",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which hall-garland is to be known in this treatise called Kāmika?",
+   "premises": [
+    "That hall is called garland.",
+    "It is to be known.",
+    "The treatise is called Kāmika."
+   ],
+   "inference": "The hall-garland is the one to be known in the Kāmika treatise.",
+   "uncertainties": [
+    "Whether śālā and mālikā are appositional or compound."
+   ],
+   "plain_english": "That hall-garland is to be known in this treatise called Kāmika."
+  },
+  {
+   "verse": 2754,
+   "rows": [
+    {
+     "surface": "ūhapratyūhasaṃyuktā",
+     "gloss": "with-objection-counter-objection",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sabhā",
+     "gloss": "assembly",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which assembly is also called a garland because it contains objection and counter-objection?",
+   "premises": [
+    "The assembly is joined with objection and counter-objection.",
+    "That assembly is also a garland."
+   ],
+   "inference": "An assembly containing objection and counter-objection is also termed a garland.",
+   "uncertainties": [
+    "The exact procedural sense of objection and counter-objection."
+   ],
+   "plain_english": "The assembly joined with objection and counter-objection is also called a garland."
+  },
+  {
+   "verse": 2755,
+   "rows": [
+    {
+     "surface": "prāsādavyāsadīrghoccā",
+     "gloss": "broad-long-high-temple",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāsādamālikā",
+     "gloss": "temple-garland",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is called the temple-garland when it is broad, long, and high?",
+   "premises": [
+    "The temple is broad, long, and high.",
+    "It is called temple-garland."
+   ],
+   "inference": "A broad, long, and high temple is called temple-garland.",
+   "uncertainties": [
+    "Whether all three dimensions are required."
+   ],
+   "plain_english": "The broad, long, and high temple is called temple-garland."
+  },
+  {
+   "verse": 2756,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṇḍākāratvāt",
+     "gloss": "muṇḍa-shaped",
+     "grounds": "ablative of reason",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muṇḍamālikā",
+     "gloss": "muṇḍa-garland",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the muṇḍa-garland called so everywhere?",
+   "premises": [
+    "It is called muṇḍa-garland everywhere.",
+    "The reason is its muṇḍa shape."
+   ],
+   "inference": "The muṇḍa-garland is so named everywhere because of its muṇḍa shape.",
+   "uncertainties": [
+    "The exact visual form of muṇḍa shape."
+   ],
+   "plain_english": "Everywhere it is called muṇḍa-garland because of its muṇḍa shape."
+  },
+  {
+   "verse": 2757,
+   "rows": [
+    {
+     "surface": "upasañcitam",
+     "gloss": "accumulated",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nāgara",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "drāmiḍaṃ",
+     "gloss": "drāmiḍa",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accumulated forms are named nāgara and drāmiḍa?",
+   "premises": [
+    "Accumulated forms are named.",
+    "Nāgara and drāmiḍa are named."
+   ],
+   "inference": "The accumulated forms include nāgara and drāmiḍa.",
+   "uncertainties": [
+    "The full list of accumulated forms."
+   ],
+   "plain_english": "Thus accumulated forms are named nāgara and drāmiḍa also."
+  },
+  {
+   "verse": 2758,
+   "rows": [
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkīrṇaṃ",
+     "gloss": "confused",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkuram",
+     "gloss": "sprout",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which seed, root, and sprout forms are pure, mixed, and confused?",
+   "premises": [
+    "Pure, mixed, and confused are listed.",
+    "Seed, root, and sprout are listed."
+   ],
+   "inference": "Seed, root, and sprout occur in pure, mixed, and confused forms.",
+   "uncertainties": [
+    "Whether each form applies to each stage."
+   ],
+   "plain_english": "Pure, mixed, and confused are seed, root, and sprout also."
+  },
+  {
+   "verse": 2759,
+   "rows": [
+    {
+     "surface": "arpitaṃ",
+     "gloss": "offered",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃcitaṃ",
+     "gloss": "accumulated",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṃliṅgaṃ",
+     "gloss": "masculine",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanīkṛtam",
+     "gloss": "made-firm",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is said to be offered, accumulated, masculine, and made firm?",
+   "premises": [
+    "Offered, accumulated, and said are listed.",
+    "Masculine and made-firm describe that."
+   ],
+   "inference": "The described entity is offered, accumulated, masculine, and made firm.",
+   "uncertainties": [
+    "The exact entity referred to by tad."
+   ],
+   "plain_english": "Offered, accumulated, said, masculine, that made firm."
+  },
+  {
+   "verse": 2760,
+   "rows": [
+    {
+     "surface": "rakṣogandharvayakṣāṇāṃ",
+     "gloss": "of-rākṣasa-gandharva-yakṣa",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "praśastānāṃ",
+     "gloss": "of-praised",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janminām",
+     "gloss": "of-born",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which praised and born beings include rākṣasa, gandharva, and yakṣa?",
+   "premises": [
+    "Rākṣasa, gandharva, and yakṣa are named.",
+    "Praised and born beings are named."
+   ],
+   "inference": "The praised and born beings include rākṣasa, gandharva, and yakṣa.",
+   "uncertainties": [
+    "Whether the list is exhaustive."
+   ],
+   "plain_english": "Of rākṣasa, gandharva, and yakṣa, praised and born beings."
+  },
+  {
+   "verse": 2761,
+   "rows": [
+    {
+     "surface": "sarvavargasamāyuktaṃ",
+     "gloss": "with-all-classes",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manaḥprītisamanvitam",
+     "gloss": "with-mind-pleasure",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is endowed with all classes and mind-pleasure?",
+   "premises": [
+    "It is joined with all classes.",
+    "It is endowed with mind-pleasure."
+   ],
+   "inference": "The described form combines all classes with mind-pleasure.",
+   "uncertainties": [
+    "The exact form being described."
+   ],
+   "plain_english": "Endowed with all classes and mind-pleasure."
+  },
+  {
+   "verse": 2762,
+   "rows": [
+    {
+     "surface": "pañcavargayutaṃ",
+     "gloss": "with-five-classes",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "miśram",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arpitānarpitāṅgakam",
+     "gloss": "offered-unoffered-limbs",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mixed form has five classes and offered or unoffered limbs?",
+   "premises": [
+    "It is joined with five classes.",
+    "It is mixed.",
+    "It has offered and unoffered limbs."
+   ],
+   "inference": "The mixed form combines five classes with offered and unoffered limbs.",
+   "uncertainties": [
+    "Which limbs are offered or unoffered."
+   ],
+   "plain_english": "Mixed, with five classes and offered or unoffered limbs."
+  },
+  {
+   "verse": 2763,
+   "rows": [
+    {
+     "surface": "svavistāravāśācchannahastapūrṇāyatānvitam",
+     "gloss": "with-own-breadth-covering-full-hand-extent",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is endowed with own breadth, covering, full hand, and extent?",
+   "premises": [
+    "It is endowed with own breadth.",
+    "It is endowed with covering, full hand, and extent."
+   ],
+   "inference": "The described form includes own breadth, covering, full hand, and extent.",
+   "uncertainties": [
+    "The exact architectural referent."
+   ],
+   "plain_english": "Endowed with own breadth, covering, full hand, and extent."
+  },
+  {
+   "verse": 2764,
+   "rows": [
+    {
+     "surface": "antaraprastaropetamūhapratyūhasaṃyutam",
+     "gloss": "with-inner-stone-objection-counter-objection",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is joined with inner stone, objection, and counter-objection?",
+   "premises": [
+    "It is joined with inner stone.",
+    "It is joined with objection and counter-objection."
+   ],
+   "inference": "The described form combines inner stone with objection and counter-objection.",
+   "uncertainties": [
+    "The exact architectural referent."
+   ],
+   "plain_english": "Joined with inner stone, objection, and counter-objection."
+  },
+  {
+   "verse": 2765,
+   "rows": [
+    {
+     "surface": "drāmiḍaṃ",
+     "gloss": "drāmiḍa",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-spoken",
+     "grounds": "verb",
+     "morph": "3.sg.pass-fut"
+    },
+    {
+     "surface": "athātastathā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāradairghyakam",
+     "gloss": "breadth-length",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What will be spoken next about drāmiḍa breadth and length?",
+   "premises": [
+    "Drāmiḍa will be spoken.",
+    "Breadth and length are named."
+   ],
+   "inference": "The next statement concerns drāmiḍa breadth and length.",
+   "uncertainties": [
+    "The exact dimensions."
+   ],
+   "plain_english": "Drāmiḍa will be spoken, then breadth and length."
+  },
+  {
+   "verse": 2766,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "leaving",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samībhūtaṃ",
+     "gloss": "leveled",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhadrālaṅkārasaṃyutam",
+     "gloss": "with-auspicious-ornament",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What leveled and auspiciously ornamented form is left there?",
+   "premises": [
+    "Leaving there, it is leveled.",
+    "It is joined with auspicious ornament."
+   ],
+   "inference": "The form left there is leveled and joined with auspicious ornament.",
+   "uncertainties": [
+    "What is left."
+   ],
+   "plain_english": "Leaving there, leveled and joined with auspicious ornament."
+  },
+  {
+   "verse": 2767,
+   "rows": [
+    {
+     "surface": "labdhavyāsāyataṃ",
+     "gloss": "to-be-obtained",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nātiriktaṃ",
+     "gloss": "not-excessive",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na hīnakam",
+     "gloss": "not-deficient",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which obtainable form is neither excessive nor deficient?",
+   "premises": [
+    "It is to be obtained.",
+    "It is not excessive.",
+    "It is not deficient."
+   ],
+   "inference": "The obtainable form must be neither excessive nor deficient.",
+   "uncertainties": [
+    "The exact measure."
+   ],
+   "plain_english": "Which is to be obtained, not excessive, not deficient."
+  },
+  {
+   "verse": 2768,
+   "rows": [
+    {
+     "surface": "mahāvāraṃ",
+     "gloss": "great-gate",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vimānordhve",
+     "gloss": "above-temple",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirvyūhānanasaṃyutam",
+     "gloss": "without-projection-face",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What great gate above the temple is without projection and face?",
+   "premises": [
+    "The great gate is above the temple.",
+    "It is without projection and face."
+   ],
+   "inference": "The great gate above the temple lacks projection and face.",
+   "uncertainties": [
+    "The exact gate type."
+   ],
+   "plain_english": "Great gate above the temple, without projection and face."
+  },
+  {
+   "verse": 2769,
+   "rows": [
+    {
+     "surface": "yatīnāṃ",
+     "gloss": "of-ascetics",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gaṇikānāṃ",
+     "gloss": "of-courtesans",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvināṃ",
+     "gloss": "of-living",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "krūrakarmaṇām",
+     "gloss": "of-cruel-deeds",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which ascetics, courtesans, living beings, and cruel-deed doers are grouped?",
+   "premises": [
+    "Ascetics are named.",
+    "Courtesans are named.",
+    "Living beings and cruel-deed doers are named."
+   ],
+   "inference": "These groups are listed together.",
+   "uncertainties": [
+    "The grammatical relation to the main clause."
+   ],
+   "plain_english": "Of ascetics, courtesans, living beings, and cruel-deed doers."
+  },
+  {
+   "verse": 2770,
+   "rows": [
+    {
+     "surface": "karṇamadhye'ntare kūṭakoṣṭhe pañjarasaṃyutam",
+     "gloss": "in-ear-middle-inside-cell-box-cage",
+     "grounds": "compound locative phrase",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is joined with cage in the middle of the ear, inside cell and box?",
+   "premises": [
+    "It is in the middle of the ear.",
+    "It is inside cell and box.",
+    "It is joined with cage."
+   ],
+   "inference": "The described form is located in the ear and joined with cage.",
+   "uncertainties": [
+    "The exact architectural referent."
+   ],
+   "plain_english": "In the middle of the ear, inside cell and box, joined with cage."
+  },
+  {
+   "verse": 2771,
+   "rows": [
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śālāsabhāmadhye",
+     "gloss": "hall-assembly-middle",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "chandaṃ",
+     "gloss": "meter",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "chandameva",
+     "gloss": "meter",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What meter may be in the ear and middle of hall and assembly?",
+   "premises": [
+    "It may be in the ear.",
+    "It may be in the middle of hall and assembly.",
+    "Meter is named."
+   ],
+   "inference": "Meter may occur in the ear and in the middle of hall and assembly.",
+   "uncertainties": [
+    "Whether chandaṃ and chandameva are distinct."
+   ],
+   "plain_english": "Meter may be in the ear and in the middle of hall and assembly; that is meter."
+  },
+  {
+   "verse": 2772,
+   "rows": [
+    {
+     "surface": "drumeṇeṣṭakayā",
+     "gloss": "by-tree",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭakayā",
+     "gloss": "by-brick",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣadādyairathāpi",
+     "gloss": "by-stone-etc",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which materials may the construction be made?",
+   "premises": [
+    "Tree is named.",
+    "Brick is named.",
+    "Stone and others are named."
+   ],
+   "inference": "Construction may be made by tree, brick, stone, or other materials.",
+   "uncertainties": [
+    "The exact construction type."
+   ],
+   "plain_english": "By tree, or by brick, or by stone and others, or."
+  },
+  {
+   "verse": 2773,
+   "rows": [
+    {
+     "surface": "dravyadvayayutaṃ",
+     "gloss": "with-two-materials",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "miśraṃ",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṅkīrṇaṃ",
+     "gloss": "confused",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahubhiryutam",
+     "gloss": "with-many",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mixed and confused form is joined with two or many materials?",
+   "premises": [
+    "It is joined with two materials.",
+    "It is mixed and confused.",
+    "It is joined with many."
+   ],
+   "inference": "The form may be joined with two or many materials and is mixed and confused.",
+   "uncertainties": [
+    "Whether two and many are alternatives."
+   ],
+   "plain_english": "Joined with two materials, mixed, confused, joined with many."
+  },
+  {
+   "verse": 2774,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-breadth",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caturaṃśaṃ",
+     "gloss": "fourth-part",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśakāḥ",
+     "gloss": "sixth-parts",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What proportions may breadth and length have?",
+   "premises": [
+    "In breadth it may be a fourth part.",
+    "In length it may be sixth parts."
+   ],
+   "inference": "Breadth may be a fourth part and length may be sixth parts.",
+   "uncertainties": [
+    "The exact measured entity."
+   ],
+   "plain_english": "In breadth a fourth part may be; in length sixth parts."
+  }
+ ]
+}

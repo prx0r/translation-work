@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "akṣarāṇi",
+     "gloss": "syllables",
+     "grounds": "the syllables or letters to be ritually placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescribes the act of ritual placement",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the previously described image or location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "specifies the mantra whose syllables are placed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks the next step in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "skilled-one",
+     "grounds": "designates the competent ritual practitioner as agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must place the mantra's syllables upon the prepared image?",
+   "premises": [
+    "A prepared image has been established in the preceding ritual steps.",
+    "The syllables of a mantra are the elements to be placed.",
+    "A skilled practitioner is the designated agent of this placement."
+   ],
+   "inference": "The skilled practitioner should then place the mantra's syllables upon that prepared image.",
+   "uncertainties": [
+    "The specific mantra whose syllables are to be placed is not named in this verse."
+   ],
+   "plain_english": "Then the skilled practitioner should place the syllables of the mantra there upon the prepared image."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "p. 108",
+     "gloss": "page-108",
+     "grounds": "edition page marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tryakṣarā",
+     "gloss": "three-syllabled",
+     "grounds": "adjective modifying devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-tripura-beauty",
+     "grounds": "predicate nominative identifying the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What name and epithet identify the goddess described as three-syllabled?",
+   "premises": [
+    "The goddess is three-syllabled.",
+    "She is great Tripurasundari.",
+    "The verse states this directly."
+   ],
+   "inference": "The three-syllabled goddess is identified as great Tripurasundari.",
+   "uncertainties": [
+    "The page marker is editorial and not part of the verse sense."
+   ],
+   "plain_english": "Thus the goddess, three-syllabled, is indeed the great Tripurasundari."
+  }
+ ]
+}

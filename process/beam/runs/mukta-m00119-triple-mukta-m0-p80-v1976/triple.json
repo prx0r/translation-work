@@ -1,0 +1,971 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "tameva",
+     "gloss": "that-only",
+     "grounds": "tad + eva",
+     "morph": "pron.m.acc.sg"
+    },
+    {
+     "surface": "prajapenmantraṃ",
+     "gloss": "should-recite-mantra",
+     "grounds": "pra-jap + mantram",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "yenaiva",
+     "gloss": "by-which-only",
+     "grounds": "yena + eva",
+     "morph": "rel.pron.inst.sg"
+    },
+    {
+     "surface": "grathanaṃ",
+     "gloss": "binding",
+     "grounds": "grathana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "car",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Which mantra should one recite to accomplish the binding rite?",
+   "premises": [
+    "The rite requires a specific mantra.",
+    "Recitation is tied to binding.",
+    "No other mantra is indicated."
+   ],
+   "inference": "One must recite the mantra by which binding is accomplished.",
+   "uncertainties": [
+    "Exact mantra not specified in this verse."
+   ],
+   "plain_english": "One should recite only that mantra by which the binding rite is to be performed."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "meditating",
+     "grounds": "dhyā",
+     "morph": "abs."
+    },
+    {
+     "surface": "jīvaṃ",
+     "gloss": "soul",
+     "grounds": "jīva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pravinyasya",
+     "gloss": "placing",
+     "grounds": "pra-vi-nyas",
+     "morph": "abs."
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "na + anyathā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhirodhakṛt",
+     "gloss": "obstacle-to-success",
+     "grounds": "siddhi + rodha + kṛt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What practice prevents the soul from becoming an obstacle to success?",
+   "premises": [
+    "Meditation on the soul is required.",
+    "Placement must be done correctly.",
+    "Otherwise success is obstructed."
+   ],
+   "inference": "Proper meditation and placement of the soul avoids obstructing success.",
+   "uncertainties": [
+    "Exact placement method not detailed here."
+   ],
+   "plain_english": "Meditating on the soul and placing it properly, not otherwise, prevents it from obstructing success."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "deva + īśa",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śrotumucchāmi",
+     "gloss": "to-hear-desire",
+     "grounds": "śrotum + icchāmi",
+     "morph": "1.sg.act.pres."
+    },
+    {
+     "surface": "rahasyaṃ",
+     "gloss": "secret",
+     "grounds": "rahasya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramādbhutam",
+     "gloss": "supremely-wonderful",
+     "grounds": "parama + adbhuta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What secret does the devotee wish to hear from the lord of gods?",
+   "premises": [
+    "The speaker addresses the lord of gods.",
+    "He desires to hear something.",
+    "The desired thing is secret and wonderful."
+   ],
+   "inference": "The devotee asks to hear a supremely wonderful secret.",
+   "uncertainties": [
+    "The secret itself is not named here."
+   ],
+   "plain_english": "O lord of gods, I desire to hear the supremely wonderful secret."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "pūrvoktānāṃ",
+     "gloss": "of-previously-mentioned",
+     "grounds": "pūrva + ukta",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maṇīnāñca",
+     "gloss": "of-gems",
+     "grounds": "maṇi + ca",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tvabhāve",
+     "gloss": "in-your-absence",
+     "grounds": "tva + bhāva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "parama + īśvarī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What happens to the previously mentioned gems in the goddess's absence?",
+   "premises": [
+    "The gems were previously mentioned.",
+    "The goddess is addressed directly.",
+    "Her absence is the condition."
+   ],
+   "inference": "The verse raises the status of those gems when the supreme goddess is absent.",
+   "uncertainties": [
+    "The exact consequence is not stated in this verse."
+   ],
+   "plain_english": "O supreme goddess, what of the previously mentioned gems in your absence?"
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "maṇayo",
+     "gloss": "gems",
+     "grounds": "maṇi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "yatna",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāryāḥ",
+     "gloss": "should-be-made",
+     "grounds": "kṛ",
+     "morph": "3.pl.pass.opt."
+    },
+    {
+     "surface": "sarvasiddhimabhīpsubhiḥ",
+     "gloss": "by-those-desiring-all-success",
+     "grounds": "sarva + siddhi + abhīpsu",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should gems be made by those desiring all success?",
+   "premises": [
+    "Gems are to be made.",
+    "Care is required.",
+    "The makers desire all success."
+   ],
+   "inference": "Those desiring all success should carefully make the gems.",
+   "uncertainties": [
+    "Specific gem-making method is not given here."
+   ],
+   "plain_english": "Gems should be carefully made by those desiring all success."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "gajahāriṇakhaḍgākhyasvarṇasāmbara",
+     "gloss": "gajahāriṇa-khaḍga-named-gold-sāmbara",
+     "grounds": "compound members",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṅgajāḥ",
+     "gloss": "horn-born",
+     "grounds": "śṛṅga + ja",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kind of horn-born gems are named from gajahāriṇa, sword, gold, and sāmbara?",
+   "premises": [
+    "The compound names several materials.",
+    "The gems are horn-born.",
+    "The named set is specific."
+   ],
+   "inference": "These horn-born gems are identified by that compound name.",
+   "uncertainties": [
+    "The full ritual use is not stated here."
+   ],
+   "plain_english": "The horn-born gems are named from gajahāriṇa, sword, gold, and sāmbara."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "muṇḍarūpāśca",
+     "gloss": "skull-formed-and",
+     "grounds": "muṇḍa + rūpa + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "maṇayaḥ",
+     "gloss": "gems",
+     "grounds": "maṇi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvasiddhimayāḥ",
+     "gloss": "full-of-all-success",
+     "grounds": "sarva + siddhi + maya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "smṛ",
+     "morph": "f.nom.sg.pass.part."
+    }
+   ],
+   "question": "What are the skull-formed gems remembered to be full of?",
+   "premises": [
+    "The gems are skull-formed.",
+    "They are remembered in tradition.",
+    "They are full of all success."
+   ],
+   "inference": "Skull-formed gems are remembered as full of all success.",
+   "uncertainties": [
+    "No ritual procedure is given here."
+   ],
+   "plain_english": "Skull-formed gems are remembered as full of all success."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "vaiḍūryanīlakācākhyā",
+     "gloss": "vaiḍūrya-nīla-kāca-named",
+     "grounds": "compound members",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇayaḥ",
+     "gloss": "gems",
+     "grounds": "maṇi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvakāryadāḥ",
+     "gloss": "giving-all-results",
+     "grounds": "sarva + kārya + da",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What results do the vaiḍūrya-nīla-kāca named gems give?",
+   "premises": [
+    "The gems are named by materials.",
+    "They are gems.",
+    "They give all results."
+   ],
+   "inference": "These named gems give all results.",
+   "uncertainties": [
+    "No further specification of results."
+   ],
+   "plain_english": "The gems named vaiḍūrya, nīla, and kāca give all results."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "kullukāmālikā",
+     "gloss": "kullukā-mālikā",
+     "grounds": "compound members",
+     "morph": "compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaśyakarī",
+     "gloss": "subjugating",
+     "grounds": "vaśya + kara",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "smṛ",
+     "morph": "f.nom.sg.pass.part."
+    }
+   ],
+   "question": "What is the kullukā-mālikā vidyā remembered to do?",
+   "premises": [
+    "The vidyā is named kullukā-mālikā.",
+    "It is addressed to the goddess.",
+    "It is remembered as subjugating."
+   ],
+   "inference": "The kullukā-mālikā vidyā is remembered as subjugating.",
+   "uncertainties": [
+    "Exact subjugation target is not stated."
+   ],
+   "plain_english": "O goddess, the kullukā-mālikā vidyā is remembered as subjugating."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "śaktiyuktā",
+     "gloss": "empowered",
+     "grounds": "śakti + yukta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhyai",
+     "gloss": "for-all-success",
+     "grounds": "sarva + siddhi",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "jīvamātrāsthimuṇḍadhṛk",
+     "gloss": "bearing-skull-of-living-being",
+     "grounds": "jīva + mātra + asthi + muṇḍa + dhṛk",
+     "morph": "compound"
+    }
+   ],
+   "question": "What empowered form is for all success and bears a living being's skull?",
+   "premises": [
+    "Empowerment is present.",
+    "The aim is all success.",
+    "The form bears a living being's skull."
+   ],
+   "inference": "An empowered form bearing a living being's skull is for all success.",
+   "uncertainties": [
+    "Exact deity form is not named."
+   ],
+   "plain_english": "Empowered and bearing the skull of a living being, it is for all success."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "tadākāraviśiṣṭā",
+     "gloss": "having-that-form",
+     "grounds": "tad + ākāra + viśiṣṭa",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "yad",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattatkāryakarīṣṭadā",
+     "gloss": "doing-desired-result",
+     "grounds": "tad + tad + kārya + kara + iṣṭa + dā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the form distinguished by that form accomplish?",
+   "premises": [
+    "A form is distinguished by that form.",
+    "It is specified by a relative pronoun.",
+    "It accomplishes desired results."
+   ],
+   "inference": "The form so distinguished accomplishes the desired result.",
+   "uncertainties": [
+    "The exact result is context-dependent."
+   ],
+   "plain_english": "That form, distinguished by that form, accomplishes the desired result."
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "kālīchinnāmayī",
+     "gloss": "Kālī-Chinnamastā-form",
+     "grounds": "Kālī + Chinnamastā + mayī",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "yad",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "tritaya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muṇḍabījajā",
+     "gloss": "born-from-skull-seed",
+     "grounds": "muṇḍa + bīja + ja",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which triad is born from the skull seed in Kālī or Chinnamastā form?",
+   "premises": [
+    "The form is Kālī or Chinnamastā.",
+    "A triad is involved.",
+    "It is born from the skull seed."
+   ],
+   "inference": "The triad born from the skull seed appears in Kālī or Chinnamastā form.",
+   "uncertainties": [
+    "The three members are not listed here."
+   ],
+   "plain_english": "Or that which is the triad born from the skull seed in Kālī or Chinnamastā form."
+  },
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "ratnamātramayī",
+     "gloss": "made-of-gems-only",
+     "grounds": "ratna + mātra + mayī",
+     "morph": "compound"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "garland",
+     "grounds": "mālā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ratnamātra+samudbhavā",
+     "gloss": "born-from-gems-only",
+     "grounds": "ratna + mātra + samudbhava",
+     "morph": "compound"
+    }
+   ],
+   "question": "What garland is made only of gems and born only from gems?",
+   "premises": [
+    "The garland is made only of gems.",
+    "It is born only from gems.",
+    "It is a garland."
+   ],
+   "inference": "The garland is exclusively gem-made and gem-born.",
+   "uncertainties": [
+    "No ritual use is specified."
+   ],
+   "plain_english": "A garland made only of gems and born only from gems."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "briefly",
+     "grounds": "saṃkṣepa",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "pra-vac",
+     "morph": "n.nom.sg.pass.part."
+    },
+    {
+     "surface": "kimanyacchrotumicchasi",
+     "gloss": "what-else-to-hear-desire",
+     "grounds": "kim + anyat + śrotum + icchasi",
+     "morph": "2.sg.act.pres."
+    }
+   ],
+   "question": "After this brief statement, what else does the listener wish to hear?",
+   "premises": [
+    "The statement is brief.",
+    "It has been spoken.",
+    "The listener is asked what else he desires to hear."
+   ],
+   "inference": "The verse asks what further teaching the listener wants.",
+   "uncertainties": [
+    "The answer is not in this verse."
+   ],
+   "plain_english": "Thus it has been spoken briefly; what else do you desire to hear?"
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "rahasyamapi",
+     "gloss": "secret-also",
+     "grounds": "rahasya + api",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "vac",
+     "morph": "1.sg.act.fut."
+    },
+    {
+     "surface": "varṇabījasvarūpataḥ",
+     "gloss": "from-form-of-letter-seed",
+     "grounds": "varṇa + bīja + svarūpa",
+     "morph": "indecl."
+    }
+   ],
+   "question": "From what standpoint will the speaker also reveal the secret?",
+   "premises": [
+    "A secret will be spoken.",
+    "The speaker promises to speak.",
+    "The standpoint is the form of the letter-seed."
+   ],
+   "inference": "The secret will be revealed from the standpoint of the letter-seed's form.",
+   "uncertainties": [
+    "The secret content is not yet given."
+   ],
+   "plain_english": "I will also speak the secret from the standpoint of the form of the letter-seed."
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "japtastena",
+     "gloss": "recited-by-him",
+     "grounds": "japta + tena",
+     "morph": "m.nom.sg.pass.part."
+    },
+    {
+     "surface": "prakartavyaḥ",
+     "gloss": "should-be-made",
+     "grounds": "pra-kṛ",
+     "morph": "m.nom.sg.pass.part."
+    },
+    {
+     "surface": "sarvadevasvarūpiṇī",
+     "gloss": "form-of-all-gods",
+     "grounds": "sarva + deva + svarūpiṇī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What should be made by him who recites, and what form does it take?",
+   "premises": [
+    "Recitation has been performed.",
+    "Something should be made.",
+    "It takes the form of all gods."
+   ],
+   "inference": "He who recites should make the form of all gods.",
+   "uncertainties": [
+    "The exact object to be made is not specified."
+   ],
+   "plain_english": "Recited by him, it should be made as the form of all gods."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "ratnajā",
+     "gloss": "gem-born",
+     "grounds": "ratna + ja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sphāṭikotthā",
+     "gloss": "crystal-born",
+     "grounds": "sphāṭika + uttha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "mātṛkā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇamālikā",
+     "gloss": "letter-garland",
+     "grounds": "varṇa + mālikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What letter-garland is gem-born or crystal-born?",
+   "premises": [
+    "The garland is a letter-garland.",
+    "It may be gem-born.",
+    "It may be crystal-born."
+   ],
+   "inference": "The mātṛkā letter-garland is gem-born or crystal-born.",
+   "uncertainties": [
+    "No ritual application is stated."
+   ],
+   "plain_english": "The mātṛkā letter-garland is gem-born or crystal-born."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "tāmramālā",
+     "gloss": "copper-garland",
+     "grounds": "tāmra + mālā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaśāntyai",
+     "gloss": "for-all-peace",
+     "grounds": "sarva + śānti",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "khaḍgajā",
+     "gloss": "sword-born",
+     "grounds": "khaḍga + ja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pitṛmokṣadā",
+     "gloss": "giving-liberation-to-ancestors",
+     "grounds": "pitṛ + mokṣa + da",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What are the copper and sword-born garlands for?",
+   "premises": [
+    "A copper garland is mentioned.",
+    "A sword-born garland is mentioned.",
+    "One is for all peace and one gives liberation to ancestors."
+   ],
+   "inference": "The copper garland is for all peace, and the sword-born garland gives liberation to ancestors.",
+   "uncertainties": [
+    "Whether these are the same garland is unclear."
+   ],
+   "plain_english": "The copper garland is for all peace; the sword-born garland gives liberation to ancestors."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "arkavakṣabhavā",
+     "gloss": "born-from-Arka's-chest",
+     "grounds": "arka + vakṣa + bhava",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvā",
+     "gloss": "first",
+     "grounds": "pūrva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatroruccāṭakarmaṇi",
+     "gloss": "in-enemy-expulsion-rite",
+     "grounds": "śatru + uccāṭa + karmaṇi",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the first thing born from Arka's chest used for?",
+   "premises": [
+    "Something is born from Arka's chest.",
+    "It is first.",
+    "It is used in an enemy-expulsion rite."
+   ],
+   "inference": "The first item born from Arka's chest is used in an enemy-expulsion rite.",
+   "uncertainties": [
+    "The item itself is not named."
+   ],
+   "plain_english": "The first, born from Arka's chest, is used in an enemy-expulsion rite."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "deva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratimāyantraṃ",
+     "gloss": "image-yantra",
+     "grounds": "pratimā + yantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyacakraṃ",
+     "gloss": "divine-wheel",
+     "grounds": "divya + cakra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "viśeṣa",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What image-yantra and divine wheel belong especially to the god?",
+   "premises": [
+    "The god is referenced.",
+    "An image-yantra is mentioned.",
+    "A divine wheel is mentioned especially."
+   ],
+   "inference": "The god's image-yantra and divine wheel are especially noted.",
+   "uncertainties": [
+    "No construction details are given."
+   ],
+   "plain_english": "The god's image-yantra and divine wheel are especially noted."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "ratnāḍhyamaṅgulau",
+     "gloss": "gem-rich-on-finger",
+     "grounds": "ratna + āḍhya + aṅguli",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "should-be-worn",
+     "grounds": "dhṛ",
+     "morph": "n.nom.sg.pass.part."
+    },
+    {
+     "surface": "svarṇaratnamayaṃ",
+     "gloss": "gold-gem-made",
+     "grounds": "svarṇa + ratna + maya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "hṛd",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the gem-rich, gold-and-gem-made item be worn?",
+   "premises": [
+    "The item is gem-rich.",
+    "It is made of gold and gems.",
+    "It should be worn on the finger and in the heart."
+   ],
+   "inference": "The item should be worn on the finger and in the heart.",
+   "uncertainties": [
+    "Whether one item or two is unclear."
+   ],
+   "plain_english": "The gem-rich, gold-and-gem-made item should be worn on the finger and in the heart."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "sarvasiddhīśvaro",
+     "gloss": "lord-of-all-success",
+     "grounds": "sarva + siddhi + īśvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyān",
+     "gloss": "may-become",
+     "grounds": "bhū",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "nātra",
+     "gloss": "no-here",
+     "grounds": "na + atra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-be-done",
+     "grounds": "kṛ",
+     "morph": "f.nom.sg.pass.part."
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "vicāraṇā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is no deliberation needed when one becomes lord of all success?",
+   "premises": [
+    "One may become lord of all success.",
+    "No deliberation is needed here.",
+    "The context is decisive."
+   ],
+   "inference": "When one becomes lord of all success, no deliberation is needed.",
+   "uncertainties": [
+    "The exact condition for becoming so is not stated."
+   ],
+   "plain_english": "May one become lord of all success; here no deliberation is needed."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "annasya",
+     "gloss": "of-food",
+     "grounds": "anna",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "devatā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmī",
+     "gloss": "Lakṣmī",
+     "grounds": "Lakṣmī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇave",
+     "gloss": "in-Vaiṣṇava",
+     "grounds": "vaiṣṇava",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prajāpatiḥ",
+     "gloss": "Prajāpati",
+     "grounds": "prajāpati",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are associated with food in Vaiṣṇava and other contexts?",
+   "premises": [
+    "Food has a deity.",
+    "Lakṣmī is named.",
+    "Prajāpati is named in the Vaiṣṇava context."
+   ],
+   "inference": "Lakṣmī and Prajāpati are associated with food, the latter especially in Vaiṣṇava context.",
+   "uncertainties": [
+    "The exact division of contexts is compressed."
+   ],
+   "plain_english": "The deity of food is Lakṣmī; in the Vaiṣṇava context, Prajāpati."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "hīrakaṃ",
+     "gloss": "diamond",
+     "grounds": "hīraka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāruṇaṃ",
+     "gloss": "of-Varuṇa",
+     "grounds": "vāruṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "should-be-known",
+     "grounds": "jñā",
+     "morph": "n.nom.sg.pass.part."
+    },
+    {
+     "surface": "rasānāṃ",
+     "gloss": "of-liquids",
+     "grounds": "rasa",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pṛthivī",
+     "gloss": "earth",
+     "grounds": "pṛthivī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "smṛ",
+     "morph": "f.nom.sg.pass.part."
+    }
+   ],
+   "question": "What is known as diamond of Varuṇa and what is remembered as earth of liquids?",
+   "premises": [
+    "Diamond is associated with Varuṇa.",
+    "Earth is associated with liquids.",
+    "Both are named in tradition."
+   ],
+   "inference": "Diamond is known as Varuṇa's, and earth is remembered as belonging to liquids.",
+   "uncertainties": [
+    "The exact cosmological mapping is not explained."
+   ],
+   "plain_english": "Diamond is known as Varuṇa's; earth is remembered as of liquids."
+  }
+ ]
+}

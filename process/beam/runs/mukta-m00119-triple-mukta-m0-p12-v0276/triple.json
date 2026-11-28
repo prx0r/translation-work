@@ -1,0 +1,1169 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint ???",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint ???",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "legacy hint ???",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikataḥ",
+     "gloss": "excessive",
+     "grounds": "legacy hint excessive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kanyārūpī",
+     "gloss": "maiden-form",
+     "grounds": "legacy hint maiden-form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "legacy hint oneself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "shiva",
+     "grounds": "legacy hint shiva",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does Shiva appear as a maiden goddess?",
+   "premises": [
+    "Shiva appears as maiden form.",
+    "The goddess is addressed directly."
+   ],
+   "inference": "Shiva manifests in maiden form before the goddess.",
+   "uncertainties": [
+    "First three tokens are unreadable in the supplied text."
+   ],
+   "plain_english": "Shiva appears as a maiden goddess."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "nirguṇatvaṃ",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "legacy hint how",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "legacy hint that-very",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-spoken",
+     "grounds": "legacy hint is-spoken",
+     "morph": "3.sg.pass-pres + root kath"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "legacy hint listen",
+     "morph": "2.sg.imp-act + root śru"
+    }
+   ],
+   "question": "How can nirguna qualitylessness be spoken of?",
+   "premises": [
+    "The goddess asks how qualitylessness is spoken.",
+    "The speaker tells her to listen."
+   ],
+   "inference": "The doctrine of qualitylessness requires explanation.",
+   "uncertainties": [
+    "The exact speaker is not explicit."
+   ],
+   "plain_english": "Listen, goddess, to how that very qualitylessness is spoken."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "legacy hint that-very",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirguṇatvaṃ",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirākāratvam",
+     "gloss": "formlessness",
+     "grounds": "legacy hint formlessness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "ambika",
+     "grounds": "legacy hint ambika",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the relation between qualitylessness and formlessness?",
+   "premises": [
+    "That very qualitylessness is named.",
+    "Formlessness is joined to it."
+   ],
+   "inference": "Qualitylessness and formlessness are paired attributes.",
+   "uncertainties": [
+    "No explicit predicate is supplied."
+   ],
+   "plain_english": "That very qualitylessness and formlessness, O Ambika."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "legacy hint as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "legacy hint as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "legacy hint whose",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "legacy hint intellect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "legacy hint by-him",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pravarṇyate",
+     "gloss": "is-described",
+     "grounds": "legacy hint is-described",
+     "morph": "3.sg.pass-pres + root varṇ"
+    }
+   ],
+   "question": "Why is the supreme described differently by different intellects?",
+   "premises": [
+    "As one's intellect is, so it is.",
+    "It is described by that person."
+   ],
+   "inference": "Description of the supreme depends on the knower's intellect.",
+   "uncertainties": [
+    "The object described is implicit."
+   ],
+   "plain_english": "As one's intellect is, so it is described by him."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "formerly",
+     "grounds": "legacy hint formerly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvarṇitaṃ",
+     "gloss": "described",
+     "grounds": "legacy hint described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "which",
+     "grounds": "legacy hint which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saguṇaṃ",
+     "gloss": "with-qualities",
+     "grounds": "legacy hint with-qualities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "legacy hint is-declared",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What was formerly described as qualified?",
+   "premises": [
+    "What was formerly described is qualified.",
+    "That is declared."
+   ],
+   "inference": "The earlier qualified description is now declared.",
+   "uncertainties": [
+    "The referent of 'that' is implicit."
+   ],
+   "plain_english": "What was formerly described as qualified, that is declared."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "brahmānanda",
+     "gloss": "bliss-of-brahman",
+     "grounds": "legacy hint bliss-of-brahman",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samutpattiḥ",
+     "gloss": "arising",
+     "grounds": "legacy hint arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirguṇā",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradṛśyate",
+     "gloss": "is-seen",
+     "grounds": "legacy hint is-seen",
+     "morph": "3.sg.pass-pres + root dṛś"
+    }
+   ],
+   "question": "How can bliss of Brahman arise without qualities?",
+   "premises": [
+    "Bliss of Brahman arises.",
+    "It is seen even without qualities."
+   ],
+   "inference": "Brahman-bliss can appear as qualityless.",
+   "uncertainties": [
+    "The seer is implicit."
+   ],
+   "plain_english": "The arising of Brahman-bliss is seen even without qualities."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarasānandaḥ",
+     "gloss": "equal-bliss",
+     "grounds": "legacy hint equal-bliss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "legacy hint liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "legacy hint is-called",
+     "morph": "3.sg.pass-pres + root dhā"
+    }
+   ],
+   "question": "Why is equal-bliss called liberation?",
+   "premises": [
+    "Equal-bliss is thus named.",
+    "It is called liberation."
+   ],
+   "inference": "Liberation is identified with equal-bliss.",
+   "uncertainties": [
+    "The experiencer is implicit."
+   ],
+   "plain_english": "Thus equal-bliss is called liberation."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "tadudbhave",
+     "gloss": "therefrom-arising",
+     "grounds": "legacy hint therefrom-arising",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahāsaukhyaṃ",
+     "gloss": "great-pleasure",
+     "grounds": "legacy hint great-pleasure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parabrahma",
+     "gloss": "supreme-brahman",
+     "grounds": "legacy hint supreme-brahman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "is-praised",
+     "grounds": "legacy hint is-praised",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arises from supreme Brahman as great pleasure?",
+   "premises": [
+    "Great pleasure arises therefrom.",
+    "Supreme Brahman is praised."
+   ],
+   "inference": "Great pleasure is praised as arising from supreme Brahman.",
+   "uncertainties": [
+    "The exact relation is compressed."
+   ],
+   "plain_english": "Great pleasure arising therefrom is praised as supreme Brahman."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "saukhyānandaḥ",
+     "gloss": "pleasure-bliss",
+     "grounds": "legacy hint pleasure-bliss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.opt-act + root bhū"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "legacy hint liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "legacy hint said",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālikāgame",
+     "gloss": "in-kalika-agama",
+     "grounds": "legacy hint in-kalika-agama",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is pleasure-bliss said to become liberation?",
+   "premises": [
+    "Pleasure-bliss becomes liberation.",
+    "This is said in Kalika Agama."
+   ],
+   "inference": "The Kalika Agama identifies pleasure-bliss with liberation.",
+   "uncertainties": [
+    "The speaker is implicit."
+   ],
+   "plain_english": "Pleasure-bliss becomes liberation, as said in the Kalika Agama."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "biparītaṃ",
+     "gloss": "contrary",
+     "grounds": "legacy hint contrary",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmatattvaṃ",
+     "gloss": "brahman-principle",
+     "grounds": "legacy hint brahman-principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahānandaḥ",
+     "gloss": "great-bliss",
+     "grounds": "legacy hint great-bliss",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadudbhavaḥ",
+     "gloss": "therefrom-arising",
+     "grounds": "legacy hint therefrom-arising",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is contrary to Brahman principle and arises from it?",
+   "premises": [
+    "The contrary Brahman principle is named.",
+    "Great bliss arises therefrom."
+   ],
+   "inference": "Great bliss arises from the contrary Brahman principle.",
+   "uncertainties": [
+    "The exact contrary relation is unclear."
+   ],
+   "plain_english": "The contrary Brahman principle, great bliss arising therefrom."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "saṃyogaḥ",
+     "gloss": "union",
+     "grounds": "legacy hint union",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grahaṇaṃ",
+     "gloss": "grasping",
+     "grounds": "legacy hint grasping",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "viyogaḥ",
+     "gloss": "separation",
+     "grounds": "legacy hint separation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃkramaḥ",
+     "gloss": "transition",
+     "grounds": "legacy hint transition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "legacy hint remembered",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are union, grasping, separation, and transition remembered?",
+   "premises": [
+    "Union is grasping.",
+    "Separation is transition."
+   ],
+   "inference": "These paired states are remembered as transitions.",
+   "uncertainties": [
+    "The practitioner context is implicit."
+   ],
+   "plain_english": "Union is grasping, O goddess; separation is remembered as transition."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "paratattve",
+     "gloss": "supreme-principle",
+     "grounds": "legacy hint supreme-principle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svātmaśaktau",
+     "gloss": "own-power",
+     "grounds": "legacy hint own-power",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "svātmākāre",
+     "gloss": "own-form",
+     "grounds": "legacy hint own-form",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "shiva",
+     "grounds": "legacy hint shiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "legacy hint always",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does one's own power and form abide in Shiva?",
+   "premises": [
+    "In the supreme principle.",
+    "In one's own power and form."
+   ],
+   "inference": "One's own power and form abide always in Shiva.",
+   "uncertainties": [
+    "The exact locative syntax is compressed."
+   ],
+   "plain_english": "In the supreme principle, in one's own power and form, in Shiva, always."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyāsa",
+     "gloss": "practice",
+     "grounds": "legacy hint practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryārthaṃ",
+     "gloss": "purpose",
+     "grounds": "legacy hint purpose",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktisaṃbhoga",
+     "gloss": "power-enjoyment",
+     "grounds": "legacy hint power-enjoyment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvanā",
+     "gloss": "meditation",
+     "grounds": "legacy hint meditation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the purpose of this practice of power-enjoyment meditation?",
+   "premises": [
+    "This practice has a purpose.",
+    "Power-enjoyment meditation is named."
+   ],
+   "inference": "The practice aims at power-enjoyment meditation.",
+   "uncertainties": [
+    "The exact goal is implicit."
+   ],
+   "plain_english": "This practice is for the purpose of power-enjoyment meditation."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "saukhyānande",
+     "gloss": "pleasure-bliss",
+     "grounds": "legacy hint pleasure-bliss",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāyāte",
+     "gloss": "having-arrived",
+     "grounds": "legacy hint having-arrived",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "legacy hint being",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nirguṇatā",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "legacy hint is-considered",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When pleasure-bliss has arrived, what is considered qualityless?",
+   "premises": [
+    "Pleasure-bliss has arrived.",
+    "Qualitylessness is considered."
+   ],
+   "inference": "Qualitylessness is considered when pleasure-bliss arrives.",
+   "uncertainties": [
+    "The subject of consideration is implicit."
+   ],
+   "plain_english": "When pleasure-bliss has arrived, qualitylessness is considered."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "śaktiyogāt",
+     "gloss": "by-power-union",
+     "grounds": "legacy hint by-power-union",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-shiva",
+     "grounds": "legacy hint in-shiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmarūpatvaṃ",
+     "gloss": "brahman-form",
+     "grounds": "legacy hint brahman-form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kīrtitaṃ",
+     "gloss": "is-declared",
+     "grounds": "legacy hint is-declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "legacy hint by-me",
+     "morph": "1.sg.ins"
+    }
+   ],
+   "question": "What is declared in Shiva by power-union?",
+   "premises": [
+    "By power-union in Shiva.",
+    "Brahman-form is declared by me."
+   ],
+   "inference": "Power-union in Shiva declares Brahman-form.",
+   "uncertainties": [
+    "The speaker's identity is implicit."
+   ],
+   "plain_english": "By power-union in Shiva, Brahman-form is declared by me."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "sarvasaṃhārakaṃ",
+     "gloss": "all-destruction",
+     "grounds": "legacy hint all-destruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "legacy hint action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "legacy hint having-done",
+     "morph": "absolutive + root kṛ"
+    },
+    {
+     "surface": "uddaṇḍaṃ",
+     "gloss": "having-raised",
+     "grounds": "legacy hint having-raised",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "legacy hint having-made",
+     "morph": "absolutive + root dhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action is done after all-destruction and raising?",
+   "premises": [
+    "All-destruction action is done.",
+    "Then raising and making follow."
+   ],
+   "inference": "The ritual action includes destruction, raising, and making.",
+   "uncertainties": [
+    "The exact ritual object is implicit."
+   ],
+   "plain_english": "Having done all-destruction action, having raised and made."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "dhyānasya",
+     "gloss": "of-meditation",
+     "grounds": "legacy hint of-meditation",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "saṃśrutiḥ",
+     "gloss": "promise",
+     "grounds": "legacy hint promise",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "arisen",
+     "grounds": "legacy hint arisen",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmabhāvanāṃ",
+     "gloss": "brahman-meditation",
+     "grounds": "legacy hint brahman-meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "legacy hint gone",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What promise of meditation has gone to Brahman-meditation?",
+   "premises": [
+    "A promise of meditation has arisen.",
+    "It has gone to Brahman-meditation."
+   ],
+   "inference": "The meditation promise culminates in Brahman-meditation.",
+   "uncertainties": [
+    "The promise's content is implicit."
+   ],
+   "plain_english": "The promise of meditation has arisen and gone to Brahman-meditation."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "devyā",
+     "gloss": "by-goddess",
+     "grounds": "legacy hint by-goddess",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "jñātaṃ",
+     "gloss": "known",
+     "grounds": "legacy hint known",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "shiva",
+     "grounds": "legacy hint shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhraṣṭo",
+     "gloss": "fallen",
+     "grounds": "legacy hint fallen",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgacyuti",
+     "gloss": "path-deviated",
+     "grounds": "legacy hint path-deviated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parāyaṇaḥ",
+     "gloss": "intent",
+     "grounds": "legacy hint intent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What did the goddess know about Shiva's deviation?",
+   "premises": [
+    "The goddess knew.",
+    "Shiva fell and deviated from the path."
+   ],
+   "inference": "The goddess knows Shiva's fall and path-deviation.",
+   "uncertainties": [
+    "The cause of deviation is implicit."
+   ],
+   "plain_english": "Known by the goddess: Shiva fell, deviated from the path, intent."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhiḥ",
+     "gloss": "intellect",
+     "grounds": "legacy hint intellect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "made",
+     "grounds": "legacy hint made",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "by-goddess",
+     "grounds": "legacy hint by-goddess",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "shiva",
+     "grounds": "legacy hint shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yātu",
+     "gloss": "go",
+     "grounds": "legacy hint go",
+     "morph": "3.sg.imp-act + root yā"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "legacy hint my",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "north",
+     "grounds": "legacy hint north",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where does Shiva go after the goddess makes intellect?",
+   "premises": [
+    "The goddess made intellect thus.",
+    "Shiva should go to my north."
+   ],
+   "inference": "Shiva is directed north after the goddess's intellectual act.",
+   "uncertainties": [
+    "The exact ritual direction is implicit."
+   ],
+   "plain_english": "Thus intellect was made by the goddess; Shiva, go to my north."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "śivākarṣaṇakaṃ",
+     "gloss": "shiva-attraction",
+     "grounds": "legacy hint shiva-attraction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "legacy hint action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "legacy hint my",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "mithyātvadāyakam",
+     "gloss": "falsehood-giving",
+     "grounds": "legacy hint falsehood-giving",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does Shiva-attraction action give?",
+   "premises": [
+    "Shiva-attraction action is named.",
+    "It gives falsehood."
+   ],
+   "inference": "The Shiva-attraction action is said to give falsehood.",
+   "uncertainties": [
+    "The speaker and context are implicit."
+   ],
+   "plain_english": "My Shiva-attraction action gives falsehood."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "kālikā",
+     "gloss": "kalika",
+     "grounds": "legacy hint kalika",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmasuratā",
+     "gloss": "lustful",
+     "grounds": "legacy hint lustful",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahākālasamanvitā",
+     "gloss": "great-time-accompanied",
+     "grounds": "legacy hint great-time-accompanied",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is Kalika accompanied by in lustful form?",
+   "premises": [
+    "Kalika is named.",
+    "She is lustful and accompanied by great time."
+   ],
+   "inference": "Kalika appears lustful and accompanied by Mahakala.",
+   "uncertainties": [
+    "The exact relation to Mahakala is implicit."
+   ],
+   "plain_english": "Kalika, lustful, accompanied by great time."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "saccidātmasvarūpeyaṃ",
+     "gloss": "true-consciousness-self-form",
+     "grounds": "legacy hint true-consciousness-self-form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmarūpā",
+     "gloss": "brahman-form",
+     "grounds": "legacy hint brahman-form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirguṇā",
+     "gloss": "without-qualities",
+     "grounds": "legacy hint without-qualities",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the true-consciousness self-form in Brahman form?",
+   "premises": [
+    "The true-consciousness self-form is named.",
+    "It is Brahman-form and qualityless."
+   ],
+   "inference": "The true self-form is Brahman-form without qualities.",
+   "uncertainties": [
+    "The exact metaphysical relation is compressed."
+   ],
+   "plain_english": "This true-consciousness self-form is Brahman-form, then qualityless."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "sādhanārthaṃ",
+     "gloss": "for-practice",
+     "grounds": "legacy hint for-practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "legacy hint by-me",
+     "morph": "1.sg.ins"
+    },
+    {
+     "surface": "dattā",
+     "gloss": "given",
+     "grounds": "legacy hint given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "evaṃ",
+     "grounds": "legacy hint evaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīkālikā",
+     "gloss": "shri-kalika",
+     "grounds": "legacy hint shri-kalika",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abravīt",
+     "gloss": "said",
+     "grounds": "legacy hint said",
+     "morph": "3.sg.act-past + root brū"
+    }
+   ],
+   "question": "Why did Shri Kalika say this was given for practice?",
+   "premises": [
+    "It was given by me for practice.",
+    "Shri Kalika said thus."
+   ],
+   "inference": "Shri Kalika declares the gift was for practice.",
+   "uncertainties": [
+    "The gift's content is implicit."
+   ],
+   "plain_english": "Given by me for practice, thus Shri Kalika said."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakteḥ",
+     "gloss": "of-power",
+     "grounds": "legacy hint of-power",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sādhanā",
+     "gloss": "practice",
+     "grounds": "legacy hint practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kalika",
+     "grounds": "legacy hint kalika",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmyam",
+     "gloss": "desirable",
+     "grounds": "legacy hint desirable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upāgataḥ",
+     "gloss": "approached",
+     "grounds": "legacy hint approached",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What desirable practice of power has Kalika approached?",
+   "premises": [
+    "Thus practice of power is named.",
+    "Kalika approached the desirable."
+   ],
+   "inference": "Kalika approaches the desirable practice of power.",
+   "uncertainties": [
+    "The exact desirable object is implicit."
+   ],
+   "plain_english": "Thus the practice of power, and Kalika approached the desirable."
+  }
+ ]
+}

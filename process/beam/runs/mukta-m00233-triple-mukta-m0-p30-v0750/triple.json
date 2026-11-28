@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "tyājyaṃ",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive of tyaj; modifies liṅgaṃ and pīṭhaṃ",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "ritual linga under examination",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "support for the linga",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining liṅgaṃ and pīṭhaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the defective condition",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "conditional result of the defect",
+     "morph": "3.sg.opt.act-bhū"
+    }
+   ],
+   "question": "When gold particles appear in the tested liquids, should the linga and pedestal be rejected?",
+   "premises": [
+    "gold particles in tested liquids indicate defect",
+    "defective linga and pedestal are rejectable",
+    "that condition makes them rejectable"
+   ],
+   "inference": "therefore reject the linga and pedestal",
+   "uncertainties": [
+    "exact threshold of gold particles unspecified",
+    "which liquids beyond listed are intended"
+   ],
+   "plain_english": "If gold particles appear in the tested liquids, the linga and pedestal should be rejected."
+  }
+ ]
+}

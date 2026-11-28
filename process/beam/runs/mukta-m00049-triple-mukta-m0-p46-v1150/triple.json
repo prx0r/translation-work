@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental of mūla, referring to the root-mantra used in the rite",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vīkṣaṇaṃ",
+     "gloss": "gazing",
+     "grounds": "act of looking or visualizing as part of the ritual procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating completion of the gazing prior to the next act",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "phaṭā",
+     "gloss": "with-phaṭ",
+     "grounds": "mantra syllable phaṭ retained as ritual utterance accompanying the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhanam",
+     "gloss": "invocation",
+     "grounds": "ritual act of summoning or invoking the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive injunction directing the practitioner to carry out the invocation",
+     "morph": "3.sg.act.opt √ā-car"
+    }
+   ],
+   "question": "By what ritual acts must the practitioner accomplish the invocation using the root-mantra and phaṭ?",
+   "premises": [
+    "The practitioner first performs gazing with the root-mantra.",
+    "The gazing is completed before the act of invocation.",
+    "The invocation is to be performed accompanied by the syllable phaṭ."
+   ],
+   "inference": "Therefore, invocation should be accomplished by performing gazing with the root-mantra and then enacting invocation with phaṭ.",
+   "uncertainties": [
+    "The precise ritual character of vīkṣaṇaṃ in this context is not fully specified."
+   ],
+   "plain_english": "Having performed the gazing with the root-mantra, the practitioner should then perform the invocation with phaṭ."
+  }
+ ]
+}

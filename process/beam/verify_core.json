@@ -1,0 +1,4513 @@
+{
+ "summary": {
+  "works": 95,
+  "songs": 371,
+  "kinds": {
+   "GATE-OK": 364,
+   "REGRESSION": 3,
+   "OUT-OF-SCOPE": 4
+  },
+  "regressions": [
+   "ghatakarpara/ghat-p01",
+   "ghatakarpara/ghat-p02",
+   "ghatakarpara/ghat-p03"
+  ],
+  "validate_errors": [],
+  "min_ratio": {
+   "p0": 0,
+   "p10": 0.923,
+   "p50": 1.0,
+   "p90": 1.0,
+   "max": 1.0
+  },
+  "verses_on_disposition": 43,
+  "low_ratio_songs": [
+   {
+    "work": "ajadapramatrsiddhi",
+    "song": "ajad-p01",
+    "ratio": 0.889,
+    "disp": 1
+   },
+   {
+    "work": "ajadapramatrsiddhi",
+    "song": "ajad-p02",
+    "ratio": 0.933,
+    "disp": 0
+   },
+   {
+    "work": "ajadapramatrsiddhi",
+    "song": "ajad-p03",
+    "ratio": 0.946,
+    "disp": 0
+   },
+   {
+    "work": "bhairavanukarana",
+    "song": "bhair-p02",
+    "ratio": 0.898,
+    "disp": 1
+   },
+   {
+    "work": "bhairavanukarana",
+    "song": "bhair-p03",
+    "ratio": 0.939,
+    "disp": 0
+   },
+   {
+    "work": "bhairavanukarana",
+    "song": "bhair-p04",
+    "ratio": 0.913,
+    "disp": 0
+   },
+   {
+    "work": "bhairavanukarana",
+    "song": "bhair-p05",
+    "ratio": 0.942,
+    "disp": 0
+   },
+   {
+    "work": "bodhapancadasika",
+    "song": "bod-p01",
+    "ratio": 0.927,
+    "disp": 0
+   },
+   {
+    "work": "bodhapancadasika",
+    "song": "bod-p02",
+    "ratio": 0.943,
+    "disp": 0
+   },
+   {
+    "work": "bodhapancadasika",
+    "song": "bod-p03",
+    "ratio": 0.938,
+    "disp": 0
+   },
+   {
+    "work": "bodhapancadasika",
+    "song": "bod-p11",
+    "ratio": 0.945,
+    "disp": 0
+   },
+   {
+    "work": "ghatakarpara",
+    "song": "ghat-p01",
+    "ratio": 0.604,
+    "disp": 0
+   },
+   {
+    "work": "ghatakarpara",
+    "song": "ghat-p02",
+    "ratio": 0.601,
+    "disp": 0
+   },
+   {
+    "work": "ghatakarpara",
+    "song": "ghat-p03",
+    "ratio": 0.649,
+    "disp": 0
+   },
+   {
+    "work": "gitarthasangraha",
+    "song": "gita-a00",
+    "ratio": 0.245,
+    "disp": 1
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p01",
+    "ratio": 0.471,
+    "disp": 4
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p02",
+    "ratio": 0.929,
+    "disp": 0
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p03",
+    "ratio": 0.906,
+    "disp": 0
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p04",
+    "ratio": 0.855,
+    "disp": 2
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p05",
+    "ratio": 0.869,
+    "disp": 1
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p06",
+    "ratio": 0.897,
+    "disp": 1
+   },
+   {
+    "work": "isvarasiddhi",
+    "song": "isva-p07",
+    "ratio": 0.902,
+    "disp": 0
+   },
+   {
+    "work": "kramastotra",
+    "song": "kram-p03",
+    "ratio": 0.943,
+    "disp": 0
+   },
+   {
+    "work": "kramastotra",
+    "song": "kram-p07",
+    "ratio": 0.945,
+    "disp": 0
+   },
+   {
+    "work": "kramastotra",
+    "song": "kram-p26",
+    "ratio": 0.941,
+    "disp": 0
+   },
+   {
+    "work": "malinivijayavarttika",
+    "song": "mv-k01",
+    "ratio": 0.653,
+    "disp": 1
+   },
+   {
+    "work": "malinivijayavarttika",
+    "song": "mv-k04",
+    "ratio": 0.84,
+    "disp": 1
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p01",
+    "ratio": 0.918,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p02",
+    "ratio": 0.901,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p03",
+    "ratio": 0.844,
+    "disp": 1
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p04",
+    "ratio": 0.869,
+    "disp": 1
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p05",
+    "ratio": 0.908,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p06",
+    "ratio": 0.889,
+    "disp": 1
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p07",
+    "ratio": 0.916,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p08",
+    "ratio": 0.937,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p09",
+    "ratio": 0.918,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p10",
+    "ratio": 0.936,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p11",
+    "ratio": 0.939,
+    "disp": 0
+   },
+   {
+    "work": "paramarthasara",
+    "song": "param-p12",
+    "ratio": 0.928,
+    "disp": 0
+   },
+   {
+    "work": "paryantapancasika",
+    "song": "pary-p03",
+    "ratio": 0.943,
+    "disp": 0
+   },
+   {
+    "work": "paryantapancasika",
+    "song": "pary-p05",
+    "ratio": 0.907,
+    "disp": 0
+   },
+   {
+    "work": "paryantapancasika",
+    "song": "pary-p06",
+    "ratio": 0.856,
+    "disp": 2
+   },
+   {
+    "work": "paryantapancasika",
+    "song": "pary-p07",
+    "ratio": 0.852,
+    "disp": 1
+   },
+   {
+    "work": "paryantapancasika",
+    "song": "pary-p08",
+    "ratio": 0.94,
+    "disp": 0
+   },
+   {
+    "work": "phrdaya",
+    "song": "phr-p02",
+    "ratio": 0.919,
+    "disp": 0
+   },
+   {
+    "work": "phrdaya",
+    "song": "phr-p04",
+    "ratio": 0.947,
+    "disp": 0
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s01",
+    "ratio": 0.872,
+    "disp": 3
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s02",
+    "ratio": 0.807,
+    "disp": 1
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s03",
+    "ratio": 0.833,
+    "disp": 4
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s04",
+    "ratio": 0.868,
+    "disp": 5
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s05",
+    "ratio": 0.871,
+    "disp": 4
+   },
+   {
+    "work": "sivastotravali",
+    "song": "s14",
+    "ratio": 0.923,
+    "disp": 0
+   },
+   {
+    "work": "sivasutra",
+    "song": "span-p09",
+    "ratio": 0,
+    "disp": 0
+   },
+   {
+    "work": "spanda",
+    "song": "span-p04b",
+    "ratio": 0,
+    "disp": 0
+   },
+   {
+    "work": "spanda",
+    "song": "span-p05",
+    "ratio": 0,
+    "disp": 0
+   },
+   {
+    "work": "spanda",
+    "song": "span-p06",
+    "ratio": 0,
+    "disp": 0
+   },
+   {
+    "work": "tantrasara-a01",
+    "song": "tsa-a01",
+    "ratio": 0.936,
+    "disp": 2
+   },
+   {
+    "work": "tantrasara-a02",
+    "song": "tsa-a02",
+    "ratio": 0.859,
+    "disp": 3
+   }
+  ]
+ },
+ "rows": [
+  {
+   "work": "ajadapramatrsiddhi",
+   "song": "ajad-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.889,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "ajadapramatrsiddhi",
+   "song": "ajad-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.933,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ajadapramatrsiddhi",
+   "song": "ajad-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.946,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anubhavanivedana",
+   "song": "anu-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anubhavanivedana",
+   "song": "anu-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anubhavanivedana",
+   "song": "anu-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anubhavanivedana",
+   "song": "anu-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.997,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "anuttarastika",
+   "song": "anu-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavanukarana",
+   "song": "bhair-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.97,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavanukarana",
+   "song": "bhair-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.898,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "bhairavanukarana",
+   "song": "bhair-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.939,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavanukarana",
+   "song": "bhair-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.913,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavanukarana",
+   "song": "bhair-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.942,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bhairavastava",
+   "song": "bh-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.927,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.943,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.938,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.951,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.957,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.988,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.974,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.982,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.945,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.967,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.977,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.987,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhapancadasika",
+   "song": "bod-p15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.976,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhavilasa",
+   "song": "bodh-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhavilasa",
+   "song": "bodh-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhavilasa",
+   "song": "bodh-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhavilasa",
+   "song": "bodh-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "bodhavilasa",
+   "song": "bodh-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "dehastha",
+   "song": "deha-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "dehastha",
+   "song": "deha-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ghatakarpara",
+   "song": "ghat-p01",
+   "stored": "PASS",
+   "fresh": "BLOCKED",
+   "kind": "REGRESSION",
+   "blocking": [
+    "ALIGN_NODISP v1 ratio=0.636",
+    "ALIGN_NODISP v2 ratio=0.657",
+    "ALIGN_NODISP v3 ratio=0.637",
+    "ALIGN_NODISP v4 ratio=0.604",
+    "ALIGN_NODISP v5 ratio=0.641",
+    "ALIGN_NODISP v6 ratio=0.635",
+    "ALIGN_NODISP v7 ratio=0.644",
+    "ALIGN_NODISP v8 ratio=0.639",
+    "ALIGN_NODISP v9 ratio=0.635",
+    "DATA_OBJECTS 9 schema/cross-layer errors"
+   ],
+   "min_ratio": 0.604,
+   "validate_errors": [
+    "argmap[ghat-p01-v01]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p01-v02]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p01-v03]: sanskrit_sha mismatch (argmap built against a different source slice)"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "ghatakarpara",
+   "song": "ghat-p02",
+   "stored": "PASS",
+   "fresh": "BLOCKED",
+   "kind": "REGRESSION",
+   "blocking": [
+    "ALIGN_NODISP v10 ratio=0.638",
+    "ALIGN_NODISP v11 ratio=0.619",
+    "ALIGN_NODISP v12 ratio=0.667",
+    "ALIGN_NODISP v13 ratio=0.604",
+    "ALIGN_NODISP v14 ratio=0.642",
+    "ALIGN_NODISP v15 ratio=0.619",
+    "ALIGN_NODISP v16 ratio=0.601",
+    "ALIGN_NODISP v17 ratio=0.633",
+    "ALIGN_NODISP v18 ratio=0.646",
+    "DATA_OBJECTS 9 schema/cross-layer errors"
+   ],
+   "min_ratio": 0.601,
+   "validate_errors": [
+    "argmap[ghat-p02-v10]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p02-v11]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p02-v12]: sanskrit_sha mismatch (argmap built against a different source slice)"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "ghatakarpara",
+   "song": "ghat-p03",
+   "stored": "PASS",
+   "fresh": "BLOCKED",
+   "kind": "REGRESSION",
+   "blocking": [
+    "ALIGN_NODISP v19 ratio=0.651",
+    "ALIGN_NODISP v20 ratio=0.660",
+    "ALIGN_NODISP v21 ratio=0.649",
+    "DATA_OBJECTS 3 schema/cross-layer errors"
+   ],
+   "min_ratio": 0.649,
+   "validate_errors": [
+    "argmap[ghat-p03-v19]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p03-v20]: sanskrit_sha mismatch (argmap built against a different source slice)",
+    "argmap[ghat-p03-v21]: sanskrit_sha mismatch (argmap built against a different source slice)"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a00",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.245,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.988,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.981,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.97,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "gitarthasangraha",
+   "song": "gita-a18",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.995,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-a-svatyandya",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-b-eligibility-gita",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-c-svatma-maya-upanishad",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-d-memory-pramana",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.995,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-e-cit-acid-dvairasya",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.993,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-f-upoddhata-k1-7",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-g-k1-2-7-1-8-citsvarupam",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-h-k1-8-caitanyamajada-pratibimba",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-i-k1-9-1-10-kriya-karyakarana",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-j-k1-11-kartapi-kalpita",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-k-purvapaksa-siddhanta",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.997,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-l-memory-error-sankaranandana",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-m-jnanadhikara-reflexion-core",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-n-close-mahesvara-saktis",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.995,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-a-caturtho-vimarsa-aham",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-b-sahajavimarsa-prakasavimarsa",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-c-vistanti-ajadapramatrsiddhi",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-d-pancamo-vimarsa-jnanasakti",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-e-pancamo-jnanasakti-k5",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-f-pancamo-vimarsa-k6",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-g-pancamo-vimarsa-k7-10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-h-pancamo-vimarsa-k11-13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-i-pancamo-vimarsa-k14-19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-j-pancamo-vimarsa-k19-20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-k-pancamo-vimarsa-k20-21",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-l-sastho-vimarsa-smrti-apohana",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-m-sastho-vimarsa-k6-7",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-n-sastho-k8-11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-o-saptamo-vimarsa",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.999,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-p-saptamo-k5-10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-q-saptamo-k11-close",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-r-astamo-vimarsa",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v2-s-astamo-close-jnanadhikara",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-a-kriya-prathamo-k1-2",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.991,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-b-kriya-dvitiyo-k1-7",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.995,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-c-kriya-trtiyo-k1-2",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.989,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-d-kriya-trtiyo-k3-8",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.992,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-e-kriya-trtiyo-k9-17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.99,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-f-kriya-trtiyo-close",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.996,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-g-kriya-caturtho-k1-11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.992,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-h-kriya-caturtho-k12-19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.998,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-i-kriya-caturtho-close-k20-21",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-j-agama-prathamo-k1-7",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.98,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-k-agama-prathamo-k8-11-close",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.984,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-l-agama-dvitiyo-k1-11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.985,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-m-agama-dvitiyo-close-k12-20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.986,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-n-tattva-prathamo-k1-8",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.991,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-o-tattva-trtiyo-k9-15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.991,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ipvv",
+   "song": "chunk-v3-p-tattva-caturtho-close-k1-3",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.471,
+   "validate_errors": [],
+   "dispositions": 4
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.929,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.906,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.855,
+   "validate_errors": [],
+   "dispositions": 2
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.869,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.897,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "isvarasiddhi",
+   "song": "isva-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.902,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.985,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.982,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.943,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.968,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.979,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.945,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.997,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.962,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.97,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.982,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.974,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.973,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.981,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p18",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.991,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p21",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.976,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p22",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.973,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p23",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.973,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p24",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.971,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p25",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.99,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p26",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.941,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p27",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.965,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p28",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.991,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p29",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.989,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "kramastotra",
+   "song": "kram-p30",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.98,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "mahopadeshavimshatika",
+   "song": "mpa-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "mahopadeshavimshatika",
+   "song": "mpa-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.653,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.974,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.973,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.84,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.988,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.982,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.987,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.988,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "malinivijayavarttika",
+   "song": "mv-k10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.974,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "pancashloki",
+   "song": "pan-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "pancashloki",
+   "song": "pan-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "pancashloki",
+   "song": "pan-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "pancashloki",
+   "song": "pan-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "pancashloki",
+   "song": "pan-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthacarca",
+   "song": "par-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "paramarthadvadasika",
+   "song": "pdva-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthadvadasika",
+   "song": "pdva-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.918,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.901,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.844,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.869,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.908,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.889,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.916,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.937,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.918,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.936,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.939,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paramarthasara",
+   "song": "param-p12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.928,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.98,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.987,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.993,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.996,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.954,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.992,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.99,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "parapravesika",
+   "song": "par-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.992,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paratrimshika",
+   "song": "ptv-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paratrimshika",
+   "song": "ptv-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paratrimshika",
+   "song": "ptv-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paratrimshika",
+   "song": "ptv-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.959,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.958,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.943,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.954,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.907,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.856,
+   "validate_errors": [],
+   "dispositions": 2
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.852,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "paryantapancasika",
+   "song": "pary-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.94,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "phrdaya",
+   "song": "phr-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.988,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "phrdaya",
+   "song": "phr-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.919,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "phrdaya",
+   "song": "phr-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "phrdaya",
+   "song": "phr-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.947,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "phrdaya",
+   "song": "phr-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ptvmadhyama",
+   "song": "ptvm-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ptvmadhyama",
+   "song": "ptvm-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ptvmadhyama",
+   "song": "ptvm-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "ptvmadhyama",
+   "song": "ptvm-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "rahasyapanchadashika",
+   "song": "rpa-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "rahasyapanchadashika",
+   "song": "rpa-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "saktavijnana",
+   "song": "sakt-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "saktavijnana",
+   "song": "sakt-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "saktavijnana",
+   "song": "sakt-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sambandhasiddhi",
+   "song": "samb-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sambandhasiddhi",
+   "song": "samb-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sambandhasiddhi",
+   "song": "samb-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.969,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.872,
+   "validate_errors": [],
+   "dispositions": 3
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.807,
+   "validate_errors": [],
+   "dispositions": 1
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.833,
+   "validate_errors": [],
+   "dispositions": 4
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.868,
+   "validate_errors": [],
+   "dispositions": 5
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.871,
+   "validate_errors": [],
+   "dispositions": 4
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.994,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.997,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.995,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.923,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s18",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivastotravali",
+   "song": "s20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutra",
+   "song": "span-p09",
+   "stored": null,
+   "fresh": "ERR(1)",
+   "kind": "OUT-OF-SCOPE",
+   "blocking": [
+    "                ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n  File \"/root/translation-work/tools/workcfg.py\", line 582, in song_verses\n    rng = cfg[\"songs\"][song]\n          ~~~~~~~~~~~~^^^^^^\nKeyError: 'span-p09'\n"
+   ],
+   "min_ratio": 0,
+   "validate_errors": [
+    "validator rc=1"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutravimarsini",
+   "song": "ssv-u1",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.961,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutravimarsini",
+   "song": "ssv-u2",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.982,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "sivasutravimarsini",
+   "song": "ssv-u3",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.974,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p04b",
+   "stored": null,
+   "fresh": "ERR(1)",
+   "kind": "OUT-OF-SCOPE",
+   "blocking": [
+    "               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n  File \"/root/translation-work/tools/workcfg.py\", line 582, in song_verses\n    rng = cfg[\"songs\"][song]\n          ~~~~~~~~~~~~^^^^^^\nKeyError: 'span-p04b'\n"
+   ],
+   "min_ratio": 0,
+   "validate_errors": [
+    "validator rc=1"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p05",
+   "stored": null,
+   "fresh": "ERR(1)",
+   "kind": "OUT-OF-SCOPE",
+   "blocking": [
+    "                ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n  File \"/root/translation-work/tools/workcfg.py\", line 582, in song_verses\n    rng = cfg[\"songs\"][song]\n          ~~~~~~~~~~~~^^^^^^\nKeyError: 'span-p05'\n"
+   ],
+   "min_ratio": 0,
+   "validate_errors": [
+    "validator rc=1"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "spanda",
+   "song": "span-p06",
+   "stored": null,
+   "fresh": "ERR(1)",
+   "kind": "OUT-OF-SCOPE",
+   "blocking": [
+    "                ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n  File \"/root/translation-work/tools/workcfg.py\", line 582, in song_verses\n    rng = cfg[\"songs\"][song]\n          ~~~~~~~~~~~~^^^^^^\nKeyError: 'span-p06'\n"
+   ],
+   "min_ratio": 0,
+   "validate_errors": [
+    "validator rc=1"
+   ],
+   "dispositions": 0
+  },
+  {
+   "work": "spandasandoha",
+   "song": "sand-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p00",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "stavacintamani",
+   "song": "stav-p12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "svabodhasiddhi",
+   "song": "svab-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "svabodhasiddhi",
+   "song": "svab-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "svabodhasiddhi",
+   "song": "svab-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "svabodhasiddhi",
+   "song": "svab-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a01",
+   "song": "tal-a01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a02",
+   "song": "tal-a02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a03",
+   "song": "tal-a03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a04",
+   "song": "tal-a04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a05",
+   "song": "tal-a05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a06",
+   "song": "tal-a06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a07",
+   "song": "tal-a07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a08",
+   "song": "tal-a08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a09",
+   "song": "tal-a09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a10",
+   "song": "tal-a10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a11",
+   "song": "tal-a11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a12",
+   "song": "tal-a12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a13",
+   "song": "tal-a13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.975,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a14",
+   "song": "tal-a14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a15",
+   "song": "tal-a15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a16",
+   "song": "tal-a16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a17",
+   "song": "tal-a17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a18",
+   "song": "tal-a18",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a19",
+   "song": "tal-a19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a20",
+   "song": "tal-a20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a21",
+   "song": "tal-a21",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a22",
+   "song": "tal-a22",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a23",
+   "song": "tal-a23",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a24",
+   "song": "tal-a24",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a25",
+   "song": "tal-a25",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a26",
+   "song": "tal-a26",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a27",
+   "song": "tal-a27",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a28",
+   "song": "tal-a28",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a29",
+   "song": "tal-a29",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a30",
+   "song": "tal-a30",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a31",
+   "song": "tal-a31",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a32",
+   "song": "tal-a32",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a33",
+   "song": "tal-a33",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a34",
+   "song": "tal-a34",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a35",
+   "song": "tal-a35",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a36",
+   "song": "tal-a36",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantraloka-a37",
+   "song": "tal-a37",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a01",
+   "song": "tsa-a01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.936,
+   "validate_errors": [],
+   "dispositions": 2
+  },
+  {
+   "work": "tantrasara-a02",
+   "song": "tsa-a02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.859,
+   "validate_errors": [],
+   "dispositions": 3
+  },
+  {
+   "work": "tantrasara-a03",
+   "song": "tsa-a03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a04",
+   "song": "tsa-a04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a05",
+   "song": "tsa-a05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a06",
+   "song": "tsa-a06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a07",
+   "song": "tsa-a07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a08",
+   "song": "tsa-a08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a09",
+   "song": "tsa-a09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 0.977,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a10",
+   "song": "tsa-a10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a11",
+   "song": "tsa-a11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a12",
+   "song": "tsa-a12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a13",
+   "song": "tsa-a13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a14",
+   "song": "tsa-a14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a15",
+   "song": "tsa-a15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a16",
+   "song": "tsa-a16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a17",
+   "song": "tsa-a17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a18",
+   "song": "tsa-a18",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a19",
+   "song": "tsa-a19",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a20",
+   "song": "tsa-a20",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a21",
+   "song": "tsa-a21",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tantrasara-a22",
+   "song": "tsa-a22",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "tattvasandoha",
+   "song": "tsv-s01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p01",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p02",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p03",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p04",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p05",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p06",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p07",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p08",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p09",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p10",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p11",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p12",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p13",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p14",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p15",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p16",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  },
+  {
+   "work": "vbt",
+   "song": "vbt-p17",
+   "stored": "PASS",
+   "fresh": "PASS",
+   "kind": "GATE-OK",
+   "blocking": [],
+   "min_ratio": 1.0,
+   "validate_errors": [],
+   "dispositions": 0
+  }
+ ]
+}

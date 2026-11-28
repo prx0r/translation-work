@@ -1,0 +1,977 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "turaṅgabhaṅgā",
+     "gloss": "horse-breaking",
+     "grounds": "compound describing a military formation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dviradagrāhā",
+     "gloss": "elephant-capturing",
+     "grounds": "compound describing a military formation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kheṭakakacchapī",
+     "gloss": "shield-turtle",
+     "grounds": "compound describing a military formation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What martial formations are arrayed in this scene?",
+   "premises": [
+    "The verse lists named formations.",
+    "Each name evokes an animal or weapon image."
+   ],
+   "inference": "The army is described through vivid symbolic formations.",
+   "uncertainties": [
+    "Exact tactical referent of each compound is not specified."
+   ],
+   "plain_english": "Horse-breaking, elephant-capturing, and shield-turtle formations are arrayed."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "khaḍgadīrghamahāsarpā",
+     "gloss": "sword-long-great-serpent",
+     "grounds": "compound describing a military formation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tūṇimatsyavicitritā",
+     "gloss": "quiver-fish-decorated",
+     "grounds": "compound describing a military formation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What further martial formations appear in the array?",
+   "premises": [
+    "The verse continues the list of formations.",
+    "The compounds combine weapons and animals."
+   ],
+   "inference": "The battle array is extended with serpent and fish imagery.",
+   "uncertainties": [
+    "Exact tactical referent of each compound is not specified."
+   ],
+   "plain_english": "Sword-long-great-serpent and quiver-fish-decorated formations appear."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "vicitracchatrahaṃsādipatatritatimālinī",
+     "gloss": "various-umbrella-swan-etc-winged-flock-garlanded",
+     "grounds": "single compound describing a garlanded winged flock",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What garlanded winged formation is described?",
+   "premises": [
+    "The verse gives one long compound.",
+    "It includes umbrellas, swans, and winged flocks."
+   ],
+   "inference": "A decorated aerial formation is named.",
+   "uncertainties": [
+    "Internal parsing of the long compound is not fully certain."
+   ],
+   "plain_english": "A garlanded flock of winged forms, including swans and umbrellas, is described."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "rathaghoṣamahāghoṣā",
+     "gloss": "chariot-roar-great-roar",
+     "grounds": "compound describing a roaring chariot force",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāhiṇī",
+     "gloss": "marching",
+     "grounds": "army or marching column",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalavāhinī",
+     "gloss": "water-carrying",
+     "grounds": "water-bearing column",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What roaring and water-bearing columns are present?",
+   "premises": [
+    "The verse names a chariot roar.",
+    "It also names marching and water-carrying columns."
+   ],
+   "inference": "The army includes roaring chariots and water-bearing columns.",
+   "uncertainties": [
+    "Whether vāhiṇī and jalavāhinī are separate columns or epithets is unclear."
+   ],
+   "plain_english": "A great chariot roar, a marching column, and a water-carrying column are present."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "kulyāmukhājjalaṃ",
+     "gloss": "canal-mouth-from-water",
+     "grounds": "water flowing from a canal mouth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyāśu",
+     "gloss": "indeed-quickly",
+     "grounds": "adverbial emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kedāre",
+     "gloss": "in-field",
+     "grounds": "locative field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prasṛtaṃ",
+     "gloss": "spread",
+     "grounds": "participle of spreading",
+     "morph": "part.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the army spread like water from a canal?",
+   "premises": [
+    "Water flows quickly from a canal mouth.",
+    "The army spreads in a field in the same way."
+   ],
+   "inference": "The army's rapid spread is compared to irrigation water.",
+   "uncertainties": [
+    "The exact field and canal referents are not specified."
+   ],
+   "plain_english": "As water quickly spreads from a canal mouth into a field, so the army spreads."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "tadantre",
+     "gloss": "in-middle",
+     "grounds": "locative middle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayaḥ",
+     "gloss": "victory",
+     "grounds": "subject of attainment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive of obtaining",
+     "morph": "abs"
+    },
+    {
+     "surface": "daityeśvaraṃ",
+     "gloss": "demon-lord",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What victory is obtained in the middle of the action?",
+   "premises": [
+    "Victory is obtained in the middle.",
+    "The demon lord is seized quickly."
+   ],
+   "inference": "The hero gains victory by capturing the demon lord.",
+   "uncertainties": [
+    "The exact sequence of capture is compressed."
+   ],
+   "plain_english": "Then, in the middle, victory is obtained by quickly seizing the demon lord."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "prāpyā'jñāmavadattaṃ",
+     "gloss": "having-obtained-command-given",
+     "grounds": "fused sandhi form of obtaining and command",
+     "morph": "abs"
+    },
+    {
+     "surface": "suvacastatkālasammatam",
+     "gloss": "good-speech-that-time-approved",
+     "grounds": "compound describing approved timely speech",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What command and speech are approved at that time?",
+   "premises": [
+    "A command is obtained and given.",
+    "The speech is good and approved for that time."
+   ],
+   "inference": "Timely, approved command and speech are established.",
+   "uncertainties": [
+    "The fused sandhi form conceals internal boundaries."
+   ],
+   "plain_english": "Having obtained the given command, the timely approved good speech is established."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "pratāpatapanaścordhve",
+     "gloss": "heat-sun-and-upward",
+     "grounds": "fused sandhi form with upward direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmāṇḍāni",
+     "gloss": "brahma-eggs",
+     "grounds": "plural cosmic eggs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tapatyasau",
+     "gloss": "heats-that-one",
+     "grounds": "verb with subject",
+     "morph": "v.3.sg.act-pres + root tap"
+    }
+   ],
+   "question": "What does the heat-sun heat upward?",
+   "premises": [
+    "The heat-sun acts upward.",
+    "It heats the brahma-eggs."
+   ],
+   "inference": "Cosmic eggs are heated by the upward heat-sun.",
+   "uncertainties": [
+    "The exact cosmological referent is not specified."
+   ],
+   "plain_english": "The heat-sun heats the brahma-eggs upward."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "he-also",
+     "grounds": "fused sandhi pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tvatsammukhaṃ",
+     "gloss": "your-presence",
+     "grounds": "compound indicating presence before you",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yudde",
+     "gloss": "in-battle",
+     "grounds": "locative battle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parājitaḥ",
+     "gloss": "defeated",
+     "grounds": "participle of defeat",
+     "morph": "part.nom.sg"
+    }
+   ],
+   "question": "What happens when he again reaches your presence in battle?",
+   "premises": [
+    "He reaches your presence.",
+    "He is defeated again in battle."
+   ],
+   "inference": "Even reaching your presence does not prevent defeat.",
+   "uncertainties": [
+    "The identity of 'he' depends on prior context."
+   ],
+   "plain_english": "He too, having reached your presence, is defeated again in battle."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "tathā'pi",
+     "gloss": "thus-also",
+     "grounds": "fused sandhi adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇā",
+     "gloss": "by-minister",
+     "grounds": "instrumental agent",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cār'thaśāstrapramāṇataḥ",
+     "gloss": "and-wealth-science-authority",
+     "grounds": "fused sandhi compound of authority",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "By what authority does the minister act in time?",
+   "premises": [
+    "The minister acts in time.",
+    "His authority is from wealth-science."
+   ],
+   "inference": "Ministerial action is grounded in timely arthaśāstra authority.",
+   "uncertainties": [
+    "The fused sandhi form conceals internal boundaries."
+   ],
+   "plain_english": "Thus also, by the minister, in time, by the authority of wealth-science."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yuktamanuktvā",
+     "gloss": "fit-not-saying",
+     "grounds": "compound of fitting and not speaking",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumantritvamarhati",
+     "gloss": "good-counsel-deserving",
+     "grounds": "compound of good counsel and deserving",
+     "morph": "v.3.sg.act-pres + root arh"
+    }
+   ],
+   "question": "Why is good counsel not deserved when fitting words are unsaid?",
+   "premises": [
+    "Fitting words are not spoken in time.",
+    "Good counsel is not deserved."
+   ],
+   "inference": "Timely fitting speech is required for good counsel.",
+   "uncertainties": [
+    "The exact counsel context is not specified."
+   ],
+   "plain_english": "In time, not speaking fitting words, one does not deserve good counsel."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "tatraikiao'pi",
+     "gloss": "there-one-also",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sve",
+     "gloss": "own",
+     "grounds": "possessive adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "locative time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sammato",
+     "gloss": "approved",
+     "grounds": "participle of approval",
+     "morph": "part.nom.sg"
+    },
+    {
+     "surface": "balavattaraḥ",
+     "gloss": "stronger",
+     "grounds": "comparative adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What becomes stronger when approved in its own time?",
+   "premises": [
+    "One is approved in its own time.",
+    "It becomes stronger."
+   ],
+   "inference": "Timely approval increases strength.",
+   "uncertainties": [
+    "The fused sandhi form conceals internal boundaries."
+   ],
+   "plain_english": "There, one approved in its own time becomes stronger."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "naśyedasadṛśaṃ",
+     "gloss": "perishes-unlike",
+     "grounds": "compound of perishing and unlike",
+     "morph": "v.3.sg.act-opt + root naś"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "absolutive of eating",
+     "morph": "abs"
+    },
+    {
+     "surface": "hyāmayīvā'gadaṃ",
+     "gloss": "indeed-diseased-like-medicine",
+     "grounds": "fused sandhi simile",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens to a king who eats unlike medicine?",
+   "premises": [
+    "The king eats.",
+    "He perishes like medicine for the diseased."
+   ],
+   "inference": "Improper consumption destroys the king.",
+   "uncertainties": [
+    "The simile's exact medical sense is compressed."
+   ],
+   "plain_english": "The king perishes, unlike medicine for the diseased, having eaten."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive of seeing",
+     "morph": "abs"
+    },
+    {
+     "surface": "yuddhaṃ",
+     "gloss": "battle",
+     "grounds": "object seen",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental agent",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "śreyaḥsamāpnuyāt",
+     "gloss": "welfare-attain",
+     "grounds": "compound of welfare and attainment",
+     "morph": "v.3.sg.act-opt + root āp"
+    }
+   ],
+   "question": "What welfare is attained by seeing battle through him?",
+   "premises": [
+    "Battle is seen.",
+    "Welfare is attained by him."
+   ],
+   "inference": "Witnessing battle through the proper agent brings welfare.",
+   "uncertainties": [
+    "The agent and welfare referents are not specified."
+   ],
+   "plain_english": "Having seen the battle, one attains welfare through him."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "adverb of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "senā'pi",
+     "gloss": "army-also",
+     "grounds": "fused sandhi noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sannddhā",
+     "gloss": "armed",
+     "grounds": "participle of arming",
+     "morph": "part.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyatyaviśaṅkitā",
+     "gloss": "will-be-unhesitating",
+     "grounds": "compound of future being and unhesitating",
+     "morph": "v.3.sg.act-fut + root bhū"
+    }
+   ],
+   "question": "How long will the armed army remain unhesitating?",
+   "premises": [
+    "The army is armed.",
+    "It will be unhesitating for so long."
+   ],
+   "inference": "Arming sustains the army's confidence.",
+   "uncertainties": [
+    "The duration is not quantified."
+   ],
+   "plain_english": "So long, the armed army too will be unhesitating."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "vijñaptavyamidaṃ",
+     "gloss": "to-be-informed-this",
+     "grounds": "compound of to be informed and this",
+     "morph": "part.acc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental agent",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "svāminaḥ",
+     "gloss": "lord",
+     "grounds": "genitive lord",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "puraḥ",
+     "gloss": "before",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be informed in time before the lord?",
+   "premises": [
+    "This is to be informed.",
+    "It is done by me in time before the lord."
+   ],
+   "inference": "Timely communication to the lord is required.",
+   "uncertainties": [
+    "The content of 'this' is not specified."
+   ],
+   "plain_english": "This is to be informed in time by me before your lord."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "niśamya",
+     "gloss": "having-heard",
+     "grounds": "absolutive of hearing",
+     "morph": "abs"
+    },
+    {
+     "surface": "mantrivākyaṃ",
+     "gloss": "minister-speech",
+     "grounds": "compound of minister and speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadyuktaṃ",
+     "gloss": "that-fit",
+     "grounds": "compound of that and fitting",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "kuśalasammatam",
+     "gloss": "skill-approved",
+     "grounds": "compound of skill and approved",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What ministerial speech is heard and approved?",
+   "premises": [
+    "Ministerial speech is heard.",
+    "It is fitting and approved by skill."
+   ],
+   "inference": "The heard counsel is both fitting and skill-approved.",
+   "uncertainties": [
+    "The exact counsel content is not specified."
+   ],
+   "plain_english": "Having heard the minister's speech, that fitting and skill-approved counsel is accepted."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "niveśya",
+     "gloss": "having-encamped",
+     "grounds": "absolutive of encamping",
+     "morph": "abs"
+    },
+    {
+     "surface": "senāpatibhiḥ",
+     "gloss": "by-army-commanders",
+     "grounds": "instrumental agents",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "senāṃ",
+     "gloss": "army",
+     "grounds": "object encamped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhāgaśaḥ",
+     "gloss": "in-divisions",
+     "grounds": "adverb of division",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the army encamped there?",
+   "premises": [
+    "Army commanders encamp the army.",
+    "They do so there in divisions."
+   ],
+   "inference": "The army is divided and encamped by its commanders.",
+   "uncertainties": [
+    "The number of divisions is not specified."
+   ],
+   "plain_english": "Having encamped the army there in divisions by the army commanders."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "amitraghnaṃ",
+     "gloss": "enemy-slaying",
+     "grounds": "compound describing the minister",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "mantrivaryaṃ",
+     "gloss": "minister-best",
+     "grounds": "compound describing the best minister",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāha",
+     "gloss": "said",
+     "grounds": "verb of speaking",
+     "morph": "v.3.sg.act-aor + root prāh"
+    },
+    {
+     "surface": "bhaṇḍamahā'suraḥ",
+     "gloss": "bhandas-great-demon",
+     "grounds": "fused sandhi compound naming the demon",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does the great demon Bhaṇḍa say to the best enemy-slaying minister?",
+   "premises": [
+    "The great demon Bhaṇḍa speaks.",
+    "He addresses the best enemy-slaying minister."
+   ],
+   "inference": "The demon directly addresses the minister.",
+   "uncertainties": [
+    "The content of the speech follows in later verses."
+   ],
+   "plain_english": "The great demon Bhaṇḍa said to the best enemy-slaying minister."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "nā'haṃ",
+     "gloss": "not-i",
+     "grounds": "fused sandhi negated pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sundarīṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "appositive object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśrayocitām",
+     "gloss": "refuge-suitable",
+     "grounds": "compound of refuge and suitable",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "Why does the speaker deny suitability of refuge in the beautiful goddess?",
+   "premises": [
+    "The speaker is not suitable.",
+    "The beautiful goddess is not a refuge in every way."
+   ],
+   "inference": "The speaker rejects taking refuge in the goddess.",
+   "uncertainties": [
+    "The exact reason for denial is not stated."
+   ],
+   "plain_english": "I am not, in every way, suitable for refuge in you, beautiful goddess."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "yuddhaśraddhā",
+     "gloss": "battle-faith",
+     "grounds": "compound of battle and faith",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taveyaṃ",
+     "gloss": "your-this",
+     "grounds": "fused sandhi pronoun-adjective",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sammtaṃ",
+     "gloss": "approved",
+     "grounds": "participle of approval",
+     "morph": "part.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose battle-faith is approved in every way?",
+   "premises": [
+    "Your battle-faith is this.",
+    "It is approved by me in every way."
+   ],
+   "inference": "The addressee's battle-faith receives full approval.",
+   "uncertainties": [
+    "The exact battle context is not specified."
+   ],
+   "plain_english": "Your battle-faith indeed is approved by me in every way."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "kintvahaṃ",
+     "gloss": "but-i",
+     "grounds": "fused sandhi conjunction-pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "priyākārāṃ",
+     "gloss": "dear-form",
+     "grounds": "compound of dear and form",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive of seeing",
+     "morph": "abs"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manobhavām",
+     "gloss": "love-born",
+     "grounds": "compound of mind and born",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What arises quickly upon seeing the dear form?",
+   "premises": [
+    "The speaker sees the dear form.",
+    "Love-born arises quickly."
+   ],
+   "inference": "Seeing the dear form awakens love.",
+   "uncertainties": [
+    "The exact emotional referent is not specified."
+   ],
+   "plain_english": "But I, having seen your dear form, quickly become love-born."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "sāmnā",
+     "gloss": "by-conciliation",
+     "grounds": "instrumental means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yuddhena",
+     "gloss": "by-battle",
+     "grounds": "instrumental means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or-also",
+     "grounds": "fused sandhi disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "karomyātmasamāśrayām",
+     "gloss": "i-make-self-refuge",
+     "grounds": "compound of making and self-refuge",
+     "morph": "v.1.sg.act-pres + root kṛ"
+    }
+   ],
+   "question": "By what means does the speaker make the addressee self-refuge?",
+   "premises": [
+    "Conciliation or battle may be used.",
+    "The speaker makes the addressee self-refuge."
+   ],
+   "inference": "Either conciliation or battle can establish self-refuge.",
+   "uncertainties": [
+    "The exact outcome of each means is not specified."
+   ],
+   "plain_english": "By conciliation or by battle, I make you self-refuge."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "vimṛśyaitaddrutataraṃ",
+     "gloss": "having-considered-this-quickly",
+     "grounds": "fused sandhi absolutive of considering",
+     "morph": "abs"
+    },
+    {
+     "surface": "pakṣamekataraṃ",
+     "gloss": "side-one",
+     "grounds": "compound of side and one",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaja",
+     "gloss": "choose",
+     "grounds": "imperative verb",
+     "morph": "v.2.sg.act-imp + root bhaj"
+    }
+   ],
+   "question": "What must be chosen after quickly considering this?",
+   "premises": [
+    "This is considered quickly.",
+    "One side is to be chosen."
+   ],
+   "inference": "Quick deliberation leads to choosing one side.",
+   "uncertainties": [
+    "The two sides are not named."
+   ],
+   "plain_english": "Having considered this quickly, choose one side."
+  }
+ ]
+}

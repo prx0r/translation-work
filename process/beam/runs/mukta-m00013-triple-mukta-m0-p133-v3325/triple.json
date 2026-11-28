@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "āgneyāḥ",
+     "gloss": "fiery-ones",
+     "grounds": "feminine plural referring to fiery powers or energies associated with fire",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saṃprabudhyante",
+     "gloss": "are-fully-awakened",
+     "grounds": "verb indicating complete awakening or arousal",
+     "morph": "3.pl.pres.mid √budh+sam+pra"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "in-breath",
+     "grounds": "locative indicating the condition or locus of breath movement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "carati",
+     "gloss": "moves",
+     "grounds": "verb describing the motion of breath",
+     "morph": "3.sg.pres.act √car"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locative specifying the right side or channel",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What condition causes the fiery energies to become fully awakened?",
+   "premises": [
+    "Breath can move within the right side.",
+    "Fiery energies are subject to awakening.",
+    "The movement of breath provides a triggering condition."
+   ],
+   "inference": "When breath moves in the right side, the fiery energies are fully awakened.",
+   "uncertainties": [
+    "The precise identity of the fiery ones remains context-dependent."
+   ],
+   "plain_english": "When the breath moves in the right, the fiery ones are fully awakened."
+  }
+ ]
+}

@@ -1,0 +1,879 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "talamadhyaṃ",
+     "gloss": "middle-of-palm",
+     "grounds": "compound; locative sense in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "sixth-part",
+     "grounds": "measure term",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative +as"
+    },
+    {
+     "surface": "yavadvayasamāyutam",
+     "gloss": "joined-with-two-barleycorns",
+     "grounds": "compound describing measure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measure is prescribed for the middle of the palm or sole?",
+   "premises": [
+    "The middle of the palm is specified as a sixth part.",
+    "This measure is joined with two barleycorn units.",
+    "The optative expresses a prescriptive rule."
+   ],
+   "inference": "The middle of the palm or sole should measure one sixth part plus two barleycorns.",
+   "uncertainties": [],
+   "plain_english": "The middle of the palm or sole should be one sixth part together with two barleycorns."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "dviyavādhikavedāṃśaṃ",
+     "gloss": "fourth-part-plus-two-barleycorns",
+     "grounds": "compound measure; veda indicates four",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādāṃguṣṭhāyataṃ",
+     "gloss": "length-of-big-toe",
+     "grounds": "compound denoting extent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative +bhū"
+    }
+   ],
+   "question": "What length is prescribed for the big toe of the foot?",
+   "premises": [
+    "The big toe's length is the subject of measurement.",
+    "The measure given is a fourth part increased by two barleycorns.",
+    "The optative indicates a prescriptive standard."
+   ],
+   "inference": "The length of the big toe should be one fourth part plus two barleycorns.",
+   "uncertainties": [],
+   "plain_english": "The length of the big toe should be one fourth part increased by two barleycorns."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "tārārdhaghanavistāraṃ",
+     "gloss": "width-thick-as-half-star",
+     "grounds": "compound describing thickness and width",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādonāyatavartulam",
+     "gloss": "round-length-less-by-quarter",
+     "grounds": "compound describing shape and reduced length",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What width and rounded length are prescribed for the big toe?",
+   "premises": [
+    "The big toe's width is defined by half its breadth measure in thickness.",
+    "Its length is described as rounded and reduced by a quarter.",
+    "Both attributes qualify the same bodily part."
+   ],
+   "inference": "The big toe should have a width as thick as half its breadth and a rounded length reduced by a quarter.",
+   "uncertainties": [
+    "The exact referent of tārā as a unit depends on prior context."
+   ],
+   "plain_english": "It should be as thick and wide as half its breadth, and rounded with its length reduced by a quarter."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "pādona",
+     "gloss": "less-by-quarter",
+     "grounds": "compound element indicating reduction",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāṃgulāyataṃ",
+     "gloss": "length-of-middle-finger",
+     "grounds": "compound denoting extent",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative +bhū"
+    }
+   ],
+   "question": "What relative length is prescribed for the middle finger?",
+   "premises": [
+    "The middle finger's length is being specified.",
+    "The measure is stated as less by a quarter.",
+    "The optative marks a prescriptive rule."
+   ],
+   "inference": "The middle finger should be a quarter less in length than the reference measure.",
+   "uncertainties": [
+    "The base measure from which a quarter is subtracted is implied by context."
+   ],
+   "plain_english": "The middle finger should indeed be a quarter less in length."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "sārdhapakṣāṃśamānaṃ",
+     "gloss": "measure-of-part-plus-half",
+     "grounds": "compound measure; pakṣa indicates two in some systems",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhāṃguli",
+     "gloss": "little-finger",
+     "grounds": "compound naming the finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīrghakam",
+     "gloss": "long",
+     "grounds": "adjective indicating length",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What length measure is prescribed for the little finger?",
+   "premises": [
+    "The little finger is the subject of the measurement.",
+    "Its length is given as a part plus a half.",
+    "The statement prescribes this as its long measure."
+   ],
+   "inference": "The little finger should have a length measuring one part plus a half.",
+   "uncertainties": [
+    "The exact unit value of pakṣāṃśa depends on the measurement system in context."
+   ],
+   "plain_english": "The little finger should indeed be long by a measure of one part plus a half."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "yavamānaṃ",
+     "gloss": "barleycorn-measure",
+     "grounds": "compound indicating unit of measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svatārārdhaṃ",
+     "gloss": "half-its-own-breadth",
+     "grounds": "compound referring to its own width",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nakhaṃ",
+     "gloss": "nail",
+     "grounds": "object being measured",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvoktavadviduḥ",
+     "gloss": "know-as-previously-stated",
+     "grounds": "compound with verb of knowing",
+     "morph": "3.pl.perfect +vid"
+    }
+   ],
+   "question": "How is the measure of the nail defined according to prior teaching?",
+   "premises": [
+    "The nail is measured in barleycorn units.",
+    "Its breadth is half its own star or width measure.",
+    "Authorities know this as stated previously."
+   ],
+   "inference": "The nail should be understood to have a barleycorn measure and half its own breadth as previously taught.",
+   "uncertainties": [
+    "The precise prior reference for pūrvoktavat is not specified here."
+   ],
+   "plain_english": "The wise know the nail to be of barleycorn measure and half its own breadth, as previously stated."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "tribhāgamaṃgulāgroccaṃ",
+     "gloss": "height-third-part-of-finger-tip",
+     "grounds": "compound describing elevation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāttu",
+     "gloss": "should-be-indeed",
+     "grounds": "optative with emphatic particle fused in text",
+     "morph": "3.sg.optative +as"
+    },
+    {
+     "surface": "nakhodayam",
+     "gloss": "rise-of-nail",
+     "grounds": "compound denoting nail height",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What height is prescribed for the rise of the nail above the finger tip?",
+   "premises": [
+    "The finger tip height is divided into three parts.",
+    "The nail's rise corresponds to the remaining portion.",
+    "The optative establishes this as the rule."
+   ],
+   "inference": "The rise of the nail should be the remaining third part of the finger tip's height.",
+   "uncertainties": [],
+   "plain_english": "The rise of the nail should indeed be the remaining third part of the finger tip's height."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādasaptabhāgaṃ",
+     "gloss": "seventh-part-of-foot",
+     "grounds": "compound measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "korparavyāsamucyate",
+     "gloss": "is-called-width-of-elbow",
+     "grounds": "compound with passive verb of naming",
+     "morph": "3.sg.passive-present +vac"
+    }
+   ],
+   "question": "What measure is designated as the width of the elbow region?",
+   "premises": [
+    "A specific measure is being named.",
+    "That measure is one seventh part of the foot.",
+    "The text explicitly calls this the elbow width."
+   ],
+   "inference": "The width of the elbow region is called one seventh part of the foot.",
+   "uncertainties": [
+    "The term korpara may refer to elbow or wrist depending on context."
+   ],
+   "plain_english": "That is indeed called the width of the elbow, being one seventh part of the foot."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "pādona",
+     "gloss": "less-by-quarter",
+     "grounds": "compound element indicating reduction",
+     "morph": "compound"
+    },
+    {
+     "surface": "caturaṃśaṃ",
+     "gloss": "fourth-part",
+     "grounds": "fractional measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇibandha+viśālakam",
+     "gloss": "breadth-of-wrist",
+     "grounds": "compound with internal join marked by +",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What breadth is prescribed for the wrist joint?",
+   "premises": [
+    "The wrist's breadth is the subject of measurement.",
+    "The measure is a fourth part less by a quarter.",
+    "The statement gives this as its breadth."
+   ],
+   "inference": "The breadth of the wrist should be a fourth part reduced by a quarter.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the wrist should indeed be a fourth part less by a quarter."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādabhūtabhāgasya",
+     "gloss": "of-part-of-foot-element",
+     "grounds": "compound in possessive relation; bhūta indicates five",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "anāmikāyāmayucyate",
+     "gloss": "is-called-length-of-ring-finger",
+     "grounds": "compound with passive verb of naming",
+     "morph": "3.sg.passive-present +vac"
+    }
+   ],
+   "question": "What measure is designated as the length of the ring finger?",
+   "premises": [
+    "A measure derived from a part of the foot is referenced.",
+    "This measure is associated with the ring finger.",
+    "The text explicitly names it as the ring finger's length."
+   ],
+   "inference": "The length of the ring finger is called that part related to the foot-element division.",
+   "uncertainties": [
+    "The exact fractional value of pādabhūtabhāga is ambiguous without further context."
+   ],
+   "plain_english": "That is called the length of the ring finger, being of that part of the foot-element division."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādavedabhāgaṃ",
+     "gloss": "fourth-part-of-foot",
+     "grounds": "compound measure; veda indicates four",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrghāṃguṣṭha",
+     "gloss": "long-thumb",
+     "grounds": "compound naming thumb length",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaniṣṭhayoḥ",
+     "gloss": "of-little-fingers",
+     "grounds": "possessive relation to little finger",
+     "morph": "f.gen.dual"
+    }
+   ],
+   "question": "What length is prescribed for the thumb and the little finger?",
+   "premises": [
+    "The thumb and little finger are the subjects of measurement.",
+    "Their length is given as a fourth part of the foot.",
+    "The statement applies this measure to both."
+   ],
+   "inference": "The long measure of the thumb and the little finger should be one fourth part of the foot.",
+   "uncertainties": [],
+   "plain_english": "That indeed is the length of the thumb and the little finger, being one fourth part of the foot."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "tarjanyāṣṭa+yavā",
+     "gloss": "index-finger-eight-barleycorns",
+     "grounds": "compound with internal join marked by +",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past participle indicating recognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navayavākhyam",
+     "gloss": "called-nine-barleycorns",
+     "grounds": "compound naming a measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhyamam",
+     "gloss": "middle",
+     "grounds": "refers to the middle finger",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What barleycorn lengths are assigned to the index and middle fingers?",
+   "premises": [
+    "The index finger is known to measure eight barleycorns.",
+    "The middle finger is called nine barleycorns.",
+    "Both measures are explicitly stated as recognized standards."
+   ],
+   "inference": "The index finger is eight barleycorns long and the middle finger is nine barleycorns long.",
+   "uncertainties": [],
+   "plain_english": "The index finger is known as eight barleycorns, and the middle finger is called nine barleycorns."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhādyaṃgulāntaṃ",
+     "gloss": "from-thumb-to-finger-end",
+     "grounds": "compound indicating span",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlavistārameva+hi",
+     "gloss": "indeed-just-root-width",
+     "grounds": "compound with emphatic particles and internal join marked by +",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What width is prescribed for the span from thumb to finger end?",
+   "premises": [
+    "The span from thumb to finger end is being measured.",
+    "This span is equated with the root width.",
+    "Emphatic particles stress this equivalence."
+   ],
+   "inference": "The span from the thumb to the finger end should indeed be just the root width.",
+   "uncertainties": [],
+   "plain_english": "The span from the thumb to the finger end is indeed just the width at the root."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "agratāraṃ",
+     "gloss": "breadth-at-tip",
+     "grounds": "compound denoting tip width",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rasāṃśe",
+     "gloss": "in-sixth-part",
+     "grounds": "locative measure; rasa indicates six",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "fifth-part",
+     "grounds": "fractional measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nakhavistṛtam",
+     "gloss": "spread-of-nail",
+     "grounds": "compound describing nail extent",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What proportions are prescribed for the tip breadth and nail spread?",
+   "premises": [
+    "The tip breadth is specified in relation to a sixth part.",
+    "The nail spread is specified as a fifth part.",
+    "Both measures apply to the same extremity."
+   ],
+   "inference": "The tip breadth should be in a sixth part proportion and the nail spread should be a fifth part.",
+   "uncertainties": [
+    "The base unit for these fractional parts is implied by prior verses."
+   ],
+   "plain_english": "The breadth at the tip should be in a sixth part, and the spread of the nail should be a fifth part."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādanakhatāraṃ",
+     "gloss": "breadth-of-foot-nail",
+     "grounds": "compound denoting nail width",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakhayāmamudāhṛtam",
+     "gloss": "declared-as-nail-length",
+     "grounds": "compound with past participle of declaring",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the length of the foot nail defined in relation to its breadth?",
+   "premises": [
+    "The breadth of the foot nail is taken as a reference.",
+    "This same measure is declared as the nail's length.",
+    "The text explicitly states this equivalence."
+   ],
+   "inference": "The length of the foot nail is declared to be equal to its breadth.",
+   "uncertainties": [],
+   "plain_english": "That breadth of the foot nail is indeed declared to be its length."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhaṃ",
+     "gloss": "thumb",
+     "grounds": "object being measured",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlaparvasya",
+     "gloss": "of-root-joint",
+     "grounds": "possessive relation to joint",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "length",
+     "grounds": "measure of extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptadaśāyavam",
+     "gloss": "seventeen-barleycorns",
+     "grounds": "compound numerical measure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What length is prescribed for the root joint of the thumb?",
+   "premises": [
+    "The thumb's root joint is the subject of measurement.",
+    "Its length is specified numerically.",
+    "The measure given is seventeen barleycorns."
+   ],
+   "inference": "The length of the thumb's root joint should be seventeen barleycorns.",
+   "uncertainties": [],
+   "plain_english": "The length of the root joint of the thumb should be seventeen barleycorns."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "madhyamāmūlaparvasya",
+     "gloss": "of-middle-finger-root-joint",
+     "grounds": "compound in possessive relation",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dīrgham",
+     "gloss": "length",
+     "grounds": "measure of extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭādaśā+yavāḥ",
+     "gloss": "eighteen-barleycorns",
+     "grounds": "compound numerical measure with internal join marked by +",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What length is prescribed for the root joint of the middle finger?",
+   "premises": [
+    "The middle finger's root joint is being measured.",
+    "Its length is given as a numerical count.",
+    "The measure specified is eighteen barleycorns."
+   ],
+   "inference": "The length of the middle finger's root joint should be eighteen barleycorns.",
+   "uncertainties": [],
+   "plain_english": "The length of the root joint of the middle finger should be eighteen barleycorns."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "mūlāgraparvayormadhya",
+     "gloss": "middle-between-root-and-tip-joints",
+     "grounds": "compound indicating intermediate position",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīrgham",
+     "gloss": "length",
+     "grounds": "measure of extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhyastha",
+     "gloss": "situated-upon",
+     "grounds": "compound indicating position",
+     "morph": "compound"
+    },
+    {
+     "surface": "parvasu",
+     "gloss": "in-joints",
+     "grounds": "locative plural referring to joints",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "How is the length of the middle joints between root and tip defined?",
+   "premises": [
+    "The joints between root and tip are under consideration.",
+    "The middle portion among these joints is specified.",
+    "A length is assigned to this intermediate position."
+   ],
+   "inference": "The length of the middle joints situated between the root and tip joints is defined accordingly.",
+   "uncertainties": [
+    "The exact numerical value for this length is not explicitly stated in this verse."
+   ],
+   "plain_english": "The length of the middle joints, situated between the root and tip joints, is as stated."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "sārdhabhūtāṃgulaṃ",
+     "gloss": "five-and-half-fingers",
+     "grounds": "compound numerical measure; bhūta indicates five",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vipratalāgraṃ",
+     "gloss": "tip-of-brahmin-palm",
+     "grounds": "compound naming the palm tip",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vipralaṃbhavet",
+     "gloss": "should-be-long",
+     "grounds": "compound or fused form expressing prescribed length",
+     "morph": "3.sg.optative +bhū"
+    }
+   ],
+   "question": "What length is prescribed for the tip of the brahmin's palm?",
+   "premises": [
+    "The tip of the brahmin's palm is the subject of measurement.",
+    "The measure given is five and a half finger units.",
+    "The optative prescribes this as its length."
+   ],
+   "inference": "The tip of the brahmin's palm should be five and a half fingers long.",
+   "uncertainties": [],
+   "plain_english": "The tip of the brahmin's palm should be five and a half fingers in length."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "talamūlaviśālaṃ",
+     "gloss": "breadth-of-palm-root",
+     "grounds": "compound denoting width at base",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhaṣaḍbhāgamucyate",
+     "gloss": "is-called-six-and-half-parts",
+     "grounds": "compound with passive verb of naming",
+     "morph": "3.sg.passive-present +vac"
+    }
+   ],
+   "question": "What breadth is designated for the root of the palm?",
+   "premises": [
+    "The breadth at the root of the palm is being specified.",
+    "The measure is stated as six and a half parts.",
+    "The text explicitly calls it by this measure."
+   ],
+   "inference": "The breadth of the palm's root is called six and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The breadth at the root of the palm is indeed called six and a half parts."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhamūlamārabhya",
+     "gloss": "beginning-from-thumb-root",
+     "grounds": "gerund phrase indicating starting point",
+     "morph": "gerund +ā-rabh"
+    },
+    {
+     "surface": "maṇibandhāvasānakam",
+     "gloss": "ending-at-wrist",
+     "grounds": "compound indicating terminal point",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What span is defined from the thumb root to the wrist?",
+   "premises": [
+    "The starting point of the span is the root of the thumb.",
+    "The ending point of the span is the wrist.",
+    "The verse defines this extent as a measured segment."
+   ],
+   "inference": "The measured span extends from the root of the thumb to the wrist.",
+   "uncertainties": [
+    "The specific numerical measure of this span is not stated in this verse."
+   ],
+   "plain_english": "Beginning from the root of the thumb and ending at the wrist."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "pārṣṇihastavanāgnyaṃśaṃ",
+     "gloss": "part-like-heel-hand-forearm",
+     "grounds": "complex compound indicating a measured part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "agramaṃguṣṭhavatkṣayam",
+     "gloss": "tapering-at-tip-like-thumb",
+     "grounds": "compound describing diminution like a thumb",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the tapering of the specified hand part be shaped?",
+   "premises": [
+    "A particular part related to the heel-hand region is described.",
+    "Its tip is characterized by diminution.",
+    "This tapering is compared to that of a thumb."
+   ],
+   "inference": "The specified part should taper at the tip like a thumb.",
+   "uncertainties": [
+    "The exact anatomical referent of pārṣṇihastavana is unclear from this verse alone."
+   ],
+   "plain_english": "That part should taper at the tip like a thumb."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "numerical measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārṣṇihastasya",
+     "gloss": "of-heel-hand",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śukodaraviśālakam",
+     "gloss": "broad-as-parrot-belly",
+     "grounds": "compound simile describing breadth",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What breadth is prescribed for the heel-hand part by comparison?",
+   "premises": [
+    "The heel-hand part is divided into two parts.",
+    "Its breadth is described by a simile.",
+    "The comparison is to the belly of a parrot."
+   ],
+   "inference": "The two-part breadth of the heel-hand should be as broad as a parrot's belly.",
+   "uncertainties": [
+    "The anatomical identification of pārṣṇihasta is uncertain."
+   ],
+   "plain_english": "The two-part breadth of the heel-hand should be as broad as a parrot's belly."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "sūkṣmarekhāṃ",
+     "gloss": "fine-line",
+     "grounds": "compound describing a thin marking",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "likhettasmin",
+     "gloss": "should-draw-on-that",
+     "grounds": "optative with locative pronoun fused in text",
+     "morph": "3.sg.optative +likh"
+    },
+    {
+     "surface": "śaṃkhaṃ",
+     "gloss": "conch",
+     "grounds": "object to be drawn",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraśūlakam",
+     "gloss": "discus-and-trident",
+     "grounds": "compound naming alternative marks",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What marks should be drawn with fine lines on the specified area?",
+   "premises": [
+    "A fine line is to be drawn on that area.",
+    "The conch is given as one possible mark.",
+    "The discus and trident are given as an alternative mark."
+   ],
+   "inference": "One should draw a fine line of a conch or of a discus and trident on that area.",
+   "uncertainties": [],
+   "plain_english": "On that, one should draw a fine line of a conch, or of a discus and trident."
+  }
+ ]
+}

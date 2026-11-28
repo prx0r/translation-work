@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "chatram",
+     "gloss": "umbrella",
+     "grounds": "object offered in ritual sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner consistent with prior offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarpya",
+     "gloss": "having-offered",
+     "grounds": "gerund expressing prior action before next offering",
+     "morph": "gerund (sam-√ṛ)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks sequential step in ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāmaradvayam",
+     "gloss": "pair-of-fans",
+     "grounds": "compound denoting two chowrie fans as offering",
+     "morph": "n.acc.sg (cāmara+dvaya)"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "should-offer",
+     "grounds": "prescriptive injunction for ritual action",
+     "morph": "3.sg.optative-active (√ṛ)"
+    }
+   ],
+   "question": "What ritual offerings must follow the presentation of bilva leaves and ash?",
+   "premises": [
+    "An umbrella is to be offered in the prescribed manner.",
+    "The offering of the umbrella precedes the next action.",
+    "A pair of chowrie fans is to be offered afterward."
+   ],
+   "inference": "After offering bilva leaves and ash, the officiant must offer an umbrella and then a pair of chowrie fans.",
+   "uncertainties": [],
+   "plain_english": "Having thus offered the umbrella, one should then offer a pair of chowrie fans."
+  }
+ ]
+}

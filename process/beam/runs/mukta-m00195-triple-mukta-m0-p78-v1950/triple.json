@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "noun denoting the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "so",
+     "gloss": "that-he",
+     "grounds": "demonstrative pronoun correlative to yo; sandhi form of saḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first-person pronoun identifying the speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "verily",
+     "grounds": "emphatic particle reinforcing the assertion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identity is asserted between the deity and the speaker?",
+   "premises": [
+    "A deity is indicated by the relative pronoun who.",
+    "That same deity is identified with the speaker.",
+    "The identification is affirmed with emphatic particles."
+   ],
+   "inference": "The speaker is identical with that deity.",
+   "uncertainties": [],
+   "plain_english": "For whoever that god is, that very one am I."
+  }
+ ]
+}

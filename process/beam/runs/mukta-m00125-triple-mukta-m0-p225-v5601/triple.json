@@ -1,0 +1,977 @@
+{
+ "song": "mukta-m0-p225",
+ "items": [
+  {
+   "verse": 5601,
+   "rows": [
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-fragrances-and-others",
+     "grounds": "instrumental plural of gandhādi; means fragrances etc.",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "ritual ground or altar",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tānabhyarcaiva",
+     "gloss": "having-worshipped-them-indeed",
+     "grounds": "fused form tān + abhyarcya + eva; internal sandhi noted",
+     "morph": "gerund+indecl."
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "causative optative of kṛ",
+     "morph": "3.sg.opt.act-caus+√kṛ"
+    }
+   ],
+   "question": "What ritual actions must be performed on the altar with fragrances and other offerings?",
+   "premises": [
+    "Fragrances and other substances are used in the rite.",
+    "An altar is prepared at that place.",
+    "Worship is performed and further action is caused."
+   ],
+   "inference": "The officiant should prepare the altar with fragrances and other offerings, worship there, and cause the rite to proceed.",
+   "uncertainties": [],
+   "plain_english": "There one should prepare the altar with fragrances and other offerings, worship them, and have the rite performed."
+  },
+  {
+   "verse": 5602,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "gerund of vi-ni-as",
+     "morph": "gerund+√as"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative of sthaṇḍila",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of placement",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karmavaivāhikaṃ",
+     "gloss": "wedding-rite",
+     "grounds": "compound karma + vaivāhika",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-conduct",
+     "grounds": "optative of nī",
+     "morph": "3.sg.opt.act+√nī"
+    }
+   ],
+   "question": "What ceremonial act must be conducted after placing the goddess on the altar?",
+   "premises": [
+    "The goddess is placed on the altar.",
+    "A wedding rite is specified as the action.",
+    "The officiant is instructed to conduct it."
+   ],
+   "inference": "After placing the goddess on the altar, the officiant should conduct the wedding rite.",
+   "uncertainties": [],
+   "plain_english": "Having placed the goddess on the altar, one should conduct the wedding rite."
+  },
+  {
+   "verse": 5603,
+   "rows": [
+    {
+     "surface": "ihaloke",
+     "gloss": "in-this-world",
+     "grounds": "locative compound iha + loka",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "gerund of pra-āp",
+     "morph": "gerund+√āp"
+    },
+    {
+     "surface": "nṛpaṇāmapi",
+     "gloss": "even-for-kings",
+     "grounds": "fused nṛpāṇām + api; genitive plural with particle",
+     "morph": "m.gen.pl+indecl."
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "describes the happiness",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rare worldly benefit is obtained through performing this prescribed rite?",
+   "premises": [
+    "Happiness in this world is obtained.",
+    "This happiness is rare even for kings.",
+    "The result follows from the rite described."
+   ],
+   "inference": "The rite yields a worldly happiness that is difficult to obtain even for kings.",
+   "uncertainties": [
+    "nṛpaṇāmapi may imply humble people or kings depending on reading; taken as kings here."
+   ],
+   "plain_english": "Having obtained happiness in this world, a happiness rare even for kings."
+  },
+  {
+   "verse": 5604,
+   "rows": [
+    {
+     "surface": "yatdagvā",
+     "gloss": "having-given-which",
+     "grounds": "fused form; likely yat + dattvā with sandhi",
+     "morph": "gerund+√dā"
+    },
+    {
+     "surface": "nivartante",
+     "gloss": "they-turn-back",
+     "grounds": "present middle of ni-vṛt",
+     "morph": "3.pl.pres.mid+√vṛt"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhaktā",
+     "gloss": "devotees",
+     "grounds": "subject of the verb",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative or nominative compound dvija + uttama",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "What consequence follows for devotees after giving what is prescribed in this rite?",
+   "premises": [
+    "Something is given in the rite.",
+    "Devotees are the agents affected.",
+    "They turn back or return as a result."
+   ],
+   "inference": "After giving what is prescribed, the devotees, best of the twice-born, turn back.",
+   "uncertainties": [
+    "yatdagvā is a nonstandard fused form; interpreted as having given which."
+   ],
+   "plain_english": "Having given that, my devotees, O best of the twice-born, turn back."
+  },
+  {
+   "verse": 5605,
+   "rows": [
+    {
+     "surface": "dravyaiśśilādibhiḥ",
+     "gloss": "with-materials-stone-and-others",
+     "grounds": "fused dravyaiḥ + śilādibhiḥ; instrumental plural",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act+√kṛ"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "object to be made",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what materials should the sacred image be especially fashioned?",
+   "premises": [
+    "Materials such as stone are specified.",
+    "An image is to be made.",
+    "The instruction is given with emphasis."
+   ],
+   "inference": "One should especially make the image from materials such as stone and others.",
+   "uncertainties": [],
+   "plain_english": "One should especially make the image from materials such as stone and the like."
+  },
+  {
+   "verse": 5606,
+   "rows": [
+    {
+     "surface": "umārdhaṃ",
+     "gloss": "half-umā",
+     "grounds": "compound umā + ardha",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "skilled",
+     "grounds": "vocative or epithet; contextually addressed",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śaśyardhāṅkitamagrajāḥ",
+     "gloss": "marked-by-half-moon-foremost",
+     "grounds": "fused compound śaśi + ardha + aṅkita + agrajāḥ; internal sandhi noted",
+     "morph": "m.nom.pl (compound)"
+    }
+   ],
+   "question": "How is the composite divine form described in terms of Umā and the moon mark?",
+   "premises": [
+    "The form includes half of Umā.",
+    "It is marked by a half-moon.",
+    "The description addresses a skilled recipient."
+   ],
+   "inference": "The foremost form is described as half Umā and marked by a half-moon.",
+   "uncertainties": [
+    "agrajāḥ may refer to elders or foremost ones; syntactic role ambiguous in isolation."
+   ],
+   "plain_english": "O skilled one, the foremost form is half Umā and marked with a half-moon."
+  },
+  {
+   "verse": 5607,
+   "rows": [
+    {
+     "surface": "lalāṭa+dakṣiṇe+bhāge",
+     "gloss": "on-right-side-of-forehead",
+     "grounds": "compound with plus signs indicating members",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "nayanārdhena",
+     "gloss": "with-half-eye",
+     "grounds": "instrumental compound nayana + ardha",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "past participle describing the form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific facial feature must be included on the right side of the forehead?",
+   "premises": [
+    "The right side of the forehead is specified.",
+    "A half-eye is mentioned.",
+    "The form is joined with this feature."
+   ],
+   "inference": "The image should be joined with a half-eye on the right side of the forehead.",
+   "uncertainties": [],
+   "plain_english": "It should be joined with a half-eye on the right side of the forehead."
+  },
+  {
+   "verse": 5608,
+   "rows": [
+    {
+     "surface": "sanakra+kuṇḍalaṃ",
+     "gloss": "with-crocodile-earring",
+     "grounds": "compound sa + nakra + kuṇḍala",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "vināvātha",
+     "gloss": "or-without",
+     "grounds": "fused vinā + vā + atha; internal sandhi noted",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-make",
+     "grounds": "causative optative of kṛ",
+     "morph": "3.sg.opt.act-caus+√kṛ"
+    }
+   ],
+   "question": "Is the crocodile earring an optional feature in fashioning the image?",
+   "premises": [
+    "The image may have a crocodile earring.",
+    "An alternative without it is indicated.",
+    "The maker is instructed to fashion it accordingly."
+   ],
+   "inference": "One may cause the image to be made with a crocodile earring or without it.",
+   "uncertainties": [],
+   "plain_english": "One should have that image made with a crocodile earring, or alternatively without it."
+  },
+  {
+   "verse": 5609,
+   "rows": [
+    {
+     "surface": "devyadhyāyodi",
+     "gloss": "goddess-meditation-or",
+     "grounds": "fused compound devī + adhyāya + udi/ādi; reading uncertain",
+     "morph": "(compound)"
+    },
+    {
+     "surface": "tāstraṃ",
+     "gloss": "that-weapon",
+     "grounds": "fused tat + astraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darpaṇāsakta",
+     "gloss": "attached-to-mirror",
+     "grounds": "compound darpaṇa + āsakta",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "locanam",
+     "gloss": "eye",
+     "grounds": "object described",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative attributes may be depicted in relation to the goddess's eye or weapon?",
+   "premises": [
+    "A weapon is mentioned as an option.",
+    "An eye attached to a mirror is mentioned.",
+    "Alternatives are presented."
+   ],
+   "inference": "The depiction may include that weapon or an eye attached to a mirror.",
+   "uncertainties": [
+    "devyadhyāyodi is obscure in form and meaning."
+   ],
+   "plain_english": "Or that weapon, or an eye attached to a mirror."
+  },
+  {
+   "verse": 5610,
+   "rows": [
+    {
+     "surface": "tatpucchaṃ",
+     "gloss": "its-tail",
+     "grounds": "compound tat + puccha",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "mukulākāraṃ",
+     "gloss": "bud-shaped",
+     "grounds": "compound mukula + ākāra",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "on-foot",
+     "grounds": "locative of pāda",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śobhāvirājitam",
+     "gloss": "adorned-with-beauty",
+     "grounds": "compound śobhā + virājita",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "How should the tail and foot adornment be visually represented in the image?",
+   "premises": [
+    "The tail is described as bud-shaped.",
+    "The foot is mentioned as the location.",
+    "The feature shines with beauty."
+   ],
+   "inference": "The image should show a bud-shaped tail and a foot adorned with beauty.",
+   "uncertainties": [],
+   "plain_english": "Its tail should be bud-shaped, and the foot adorned and shining with beauty."
+  },
+  {
+   "verse": 5611,
+   "rows": [
+    {
+     "surface": "vyāghrājināṃbaraṃ",
+     "gloss": "tiger-skin-garment",
+     "grounds": "compound vyāghra + ajina + ambara",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "savyapādaṃ",
+     "gloss": "left-foot",
+     "grounds": "compound savya + pāda; legacy hint says right-foot but savya usually means left",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "kuñcitamiṣyate",
+     "gloss": "bent-is-desired",
+     "grounds": "fused kuñcitam + iṣyate; passive desiderative sense",
+     "morph": "n.acc.sg+3.sg.pres.pass+√iṣ"
+    }
+   ],
+   "question": "What garment and foot posture are required for the depicted divine form?",
+   "premises": [
+    "A tiger-skin garment is specified.",
+    "One foot is specified.",
+    "That foot is desired to be bent."
+   ],
+   "inference": "The form should wear a tiger-skin garment and have the specified foot bent.",
+   "uncertainties": [
+    "savyapādaṃ usually means left foot, conflicting with legacy hint of right foot."
+   ],
+   "plain_english": "The form should wear a tiger-skin garment, and the left foot is desired to be bent."
+  },
+  {
+   "verse": 5612,
+   "rows": [
+    {
+     "surface": "ābhaṅga+sahitaṃ",
+     "gloss": "with-slight-bend",
+     "grounds": "compound ābhaṅga + sahita",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "fused tat + ca",
+     "morph": "pron.nom/acc.sg.n+indecl."
+    },
+    {
+     "surface": "kolakāṅgulakairnatiḥ",
+     "gloss": "bending-with-finger-joints",
+     "grounds": "fused compound; reading uncertain, involves aṅgulaka and nati",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "What kind of bodily bend and finger posture should characterize the image?",
+   "premises": [
+    "A slight bend is included.",
+    "A bending posture is described.",
+    "Finger joints are involved in the description."
+   ],
+   "inference": "The image should have a slight bend and a bending posture involving the finger joints.",
+   "uncertainties": [
+    "kolakāṅgulakairnatiḥ is morphologically and semantically unclear."
+   ],
+   "plain_english": "It should have a slight bend, and a bending with the finger joints."
+  },
+  {
+   "verse": 5613,
+   "rows": [
+    {
+     "surface": "nābhihṛnmeḍhradeśobhyo",
+     "gloss": "from-navel-heart-genital-regions",
+     "grounds": "fused compound nābhi + hṛt + meḍhra + deśebhyaḥ; ablative plural",
+     "morph": "m.abl.pl (compound)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative of vāma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative of dakṣa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left-side",
+     "grounds": "locative of vāmake/vāmaka",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which bodily regions and sides are referenced for placing the prescribed lines or features?",
+   "premises": [
+    "Navel, heart, and genital regions are named.",
+    "Left and right sides are specified.",
+    "These serve as reference points."
+   ],
+   "inference": "The prescribed features are referenced from the navel, heart, and genital regions on the left and right sides.",
+   "uncertainties": [],
+   "plain_english": "From the regions of the navel, heart, and genitals, on the left, on the right, and on the left side."
+  },
+  {
+   "verse": 5614,
+   "rows": [
+    {
+     "surface": "sūtram",
+     "gloss": "thread-line",
+     "grounds": "measurement or marking line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utpala",
+     "gloss": "lotus",
+     "grounds": "first member of compound in next token contextually",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "hastoccaṃ",
+     "gloss": "raised-hand",
+     "grounds": "compound hasta + ucca",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "cūcukāṃ",
+     "gloss": "breast",
+     "grounds": "object or location term",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "compound tad + anantara",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What sequence of bodily markers follows the placement of the measuring line?",
+   "premises": [
+    "A thread or measuring line is specified.",
+    "A raised hand with lotus and the breast are mentioned.",
+    "The sequence continues after that."
+   ],
+   "inference": "After the measuring line, the raised lotus hand and the breast are to be marked in sequence.",
+   "uncertainties": [
+    "Exact syntactic relation of utpala to hastoccaṃ is compressed in the tokenization."
+   ],
+   "plain_english": "The thread-line, the raised lotus hand, the breast, and thereafter."
+  },
+  {
+   "verse": 5615,
+   "rows": [
+    {
+     "surface": "pārśvamadhyama",
+     "gloss": "middle-of-side",
+     "grounds": "compound pārśva + madhyama",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "bāhvostu",
+     "gloss": "of-two-arms-indeed",
+     "grounds": "fused bāhvoḥ + tu; genitive dual",
+     "morph": "m.gen.du+indecl."
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "measurement point",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu+ṣaḍaṅgulam",
+     "gloss": "indeed-six-fingers",
+     "grounds": "compound with plus sign tu + ṣaḍ + aṅgula",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What specific measurement is prescribed for the middle of the side and arms?",
+   "premises": [
+    "The middle of the side is referenced.",
+    "The middle of the two arms is referenced.",
+    "A measure of six finger-widths is given."
+   ],
+   "inference": "The middle of the side and the middle of the arms should measure six finger-widths.",
+   "uncertainties": [],
+   "plain_english": "The middle of the side and, indeed, the middle of the two arms should be six finger-widths."
+  },
+  {
+   "verse": 5616,
+   "rows": [
+    {
+     "surface": "candraśekhara",
+     "gloss": "moon-crested",
+     "grounds": "epithet of Śiva",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "vaccheṣaṃ",
+     "gloss": "remainder-as-said",
+     "grounds": "fused vat + śeṣaṃ; reading uncertain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "n.nom.sg (gerundive)+√kṛ"
+    },
+    {
+     "surface": "hiṃ",
+     "gloss": "indeed",
+     "grounds": "particle; form unusual, possibly hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munīśvarāḥ",
+     "gloss": "lords-of-sages",
+     "grounds": "vocative plural compound muni + īśvara",
+     "morph": "m.voc.pl (compound)"
+    }
+   ],
+   "question": "Who is addressed regarding the completion of the remaining iconographic details?",
+   "premises": [
+    "The remainder of the work is mentioned.",
+    "It is declared to be done.",
+    "Lords of sages are addressed."
+   ],
+   "inference": "The lords of sages are instructed that the remainder should be completed as stated.",
+   "uncertainties": [
+    "vaccheṣaṃ and hiṃ have uncertain readings."
+   ],
+   "plain_english": "O moon-crested one, O lords of sages, the remainder should indeed be done as stated."
+  },
+  {
+   "verse": 5617,
+   "rows": [
+    {
+     "surface": "prāgvatkṛtvā",
+     "gloss": "having-done-as-before",
+     "grounds": "compound prāk + vat + gerund kṛtvā",
+     "morph": "gerund+√kṛ (compound)"
+    },
+    {
+     "surface": "maheśārdhaṃ",
+     "gloss": "half-of-great-lord",
+     "grounds": "compound maheśa + ardha",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "viṣṇvardhamitaratra",
+     "gloss": "half-of-viṣṇu-on-other-side",
+     "grounds": "fused viṣṇu + ardham + itaratra; internal sandhi noted",
+     "morph": "n.acc.sg+indecl. (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the composite form be divided between the Great Lord and Viṣṇu?",
+   "premises": [
+    "The procedure follows the previous method.",
+    "Half is assigned to the Great Lord.",
+    "The other half is assigned to Viṣṇu."
+   ],
+   "inference": "As before, one should make half the form of the Great Lord and the other half of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "Having done as before, make half as the Great Lord and the other half as Viṣṇu."
+  },
+  {
+   "verse": 5618,
+   "rows": [
+    {
+     "surface": "pītāṃbara+samopetaṃ",
+     "gloss": "endowed-with-yellow-garment",
+     "grounds": "compound pīta + ambara + samopeta",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "sarvābharaṇa+saṃyutam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound sarva + ābharaṇa + saṃyuta",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What clothing and ornaments must characterize the Viṣṇu half of the image?",
+   "premises": [
+    "A yellow garment is specified.",
+    "All ornaments are specified.",
+    "These adorn the described half."
+   ],
+   "inference": "The Viṣṇu half should be endowed with a yellow garment and adorned with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with a yellow garment and adorned with all ornaments."
+  },
+  {
+   "verse": 5619,
+   "rows": [
+    {
+     "surface": "haryardhamevaṃ",
+     "gloss": "half-of-hari-thus",
+     "grounds": "compound hari + ardham + evam",
+     "morph": "n.acc.sg+indecl. (compound)"
+    },
+    {
+     "surface": "brahmādi+bhāgaṃ",
+     "gloss": "portion-of-brahmā-and-others",
+     "grounds": "compound brahma + ādi + bhāga",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "caivaṃ",
+     "gloss": "and-thus",
+     "grounds": "fused ca + evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.opt.act+√car"
+    }
+   ],
+   "question": "How should the portions of Hari and Brahmā and others be arranged in the image?",
+   "premises": [
+    "Half of Hari is described in this manner.",
+    "A portion of Brahmā and others is included.",
+    "The arrangement is to be performed accordingly."
+   ],
+   "inference": "One should arrange the half of Hari and the portion of Brahmā and others in this way.",
+   "uncertainties": [],
+   "plain_english": "Thus one should fashion the half of Hari and likewise the portion of Brahmā and others."
+  },
+  {
+   "verse": 5620,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "consecration",
+     "grounds": "ritual installation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprendrāḥ",
+     "gloss": "best-of-brāhmaṇas",
+     "grounds": "vocative compound vipra + indra",
+     "morph": "m.voc.pl (compound)"
+    },
+    {
+     "surface": "śṛṇudhvaṃ",
+     "gloss": "hear",
+     "grounds": "imperative middle of śru",
+     "morph": "2.pl.imp.mid+√śru"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb meaning in summary",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What instruction is given to the foremost brāhmaṇas regarding the consecration rite?",
+   "premises": [
+    "The consecration is the topic.",
+    "The foremost brāhmaṇas are addressed.",
+    "They are asked to hear briefly."
+   ],
+   "inference": "The foremost brāhmaṇas are instructed to hear briefly about that consecration.",
+   "uncertainties": [],
+   "plain_english": "And hear briefly, O best of brāhmaṇas, about that consecration."
+  },
+  {
+   "verse": 5621,
+   "rows": [
+    {
+     "surface": "ratnanyāsākṣimokṣau",
+     "gloss": "gem-placement-and-eye-opening",
+     "grounds": "compound ratna + nyāsa + akṣi + mokṣa in dual",
+     "morph": "m.acc.du (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛdādyairberaśodhanam",
+     "gloss": "image-purification-with-clay-and-others",
+     "grounds": "fused compound mṛd + ādyaiḥ + bera + śodhanam; internal sandhi noted",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "Which preliminary ritual acts are required before the image's consecration?",
+   "premises": [
+    "Gem placement and eye-opening are named.",
+    "Purification of the image with clay and other substances is named.",
+    "These are part of the preparatory process."
+   ],
+   "inference": "The preparatory acts include gem placement, eye-opening, and purification of the image with clay and other materials.",
+   "uncertainties": [],
+   "plain_english": "The placing of gems, the opening of the eyes, and the purification of the image with clay and other substances."
+  },
+  {
+   "verse": 5622,
+   "rows": [
+    {
+     "surface": "sāmānyasthāpana",
+     "gloss": "common-installation",
+     "grounds": "compound sāmānya + sthāpana",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "past participle of pra-vac",
+     "morph": "m.nom.sg (past-participle)+√vac"
+    },
+    {
+     "surface": "mārgeṇaiva",
+     "gloss": "by-method-indeed",
+     "grounds": "fused mārgeṇa + eva; instrumental",
+     "morph": "m.inst.sg+indecl."
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.opt.act+√car"
+    }
+   ],
+   "question": "By what established method should the common installation be carried out?",
+   "premises": [
+    "A common installation is mentioned.",
+    "A declared method exists.",
+    "The officiant should follow that method."
+   ],
+   "inference": "One should perform the common installation by the method already declared.",
+   "uncertainties": [],
+   "plain_english": "One should perform it by the method declared for the common installation."
+  },
+  {
+   "verse": 5623,
+   "rows": [
+    {
+     "surface": "mukha+vāsa",
+     "gloss": "mouth-perfuming",
+     "grounds": "compound mukha + vāsa",
+     "morph": "m.stem (compound-member)"
+    },
+    {
+     "surface": "graheṣveka",
+     "gloss": "in-rites-one",
+     "grounds": "fused graheṣu + eka; locative plural plus numeral",
+     "morph": "m.loc.pl+n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual vessel or pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative of pari-kḷp",
+     "morph": "3.sg.opt.act+√kḷp"
+    }
+   ],
+   "question": "What ritual arrangement is required during the mouth-perfuming rites?",
+   "premises": [
+    "Mouth-perfuming rites are specified.",
+    "One fire-pit is mentioned.",
+    "It should be arranged."
+   ],
+   "inference": "During the mouth-perfuming rites, one should arrange a single fire-pit.",
+   "uncertainties": [
+    "graheṣu may refer to specific ritual acts or planetary rites; taken as rites here."
+   ],
+   "plain_english": "In the mouth-perfuming rites, one should indeed arrange a single fire-pit."
+  },
+  {
+   "verse": 5624,
+   "rows": [
+    {
+     "surface": "śilpinaṃ",
+     "gloss": "artisan",
+     "grounds": "object to be dismissed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visṛjyātha",
+     "gloss": "having-dismissed-then",
+     "grounds": "fused visṛjya + atha; gerund plus particle",
+     "morph": "gerund+√sṛj+indecl."
+    },
+    {
+     "surface": "viprān",
+     "gloss": "brāhmaṇas",
+     "grounds": "object to be fed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃbhojayettataḥ",
+     "gloss": "one-should-feed-then",
+     "grounds": "fused saṃbhojayet + tataḥ; causative optative plus adverb",
+     "morph": "3.sg.opt.act-caus+√bhuj+indecl."
+    }
+   ],
+   "question": "What concluding actions must be taken toward the artisan and the brāhmaṇas?",
+   "premises": [
+    "The artisan is to be dismissed.",
+    "The brāhmaṇas are to be fed.",
+    "These actions occur in sequence."
+   ],
+   "inference": "After dismissing the artisan, one should then feed the brāhmaṇas.",
+   "uncertainties": [],
+   "plain_english": "Then, having dismissed the artisan, one should feed the brāhmaṇas."
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "song": "kul-p45",
+ "items": [
+  {
+   "verse": 1101,
+   "rows": [
+    {
+     "surface": "devatāsannidhau",
+     "gloss": "in-presence-of-deity",
+     "grounds": "locative of devatā-sannidhi",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "bālām",
+     "gloss": "girl",
+     "grounds": "accusative feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "upaveśya",
+     "gloss": "having-seated",
+     "grounds": "absolutive of upa-viś",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worship",
+     "grounds": "causative present optative/indicative of sam-arc",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How should the girl be worshipped in the deity's presence?",
+   "premises": [
+    "girl is seated",
+    "worship follows seating"
+   ],
+   "inference": "The rite begins by seating the girl before the deity and then worshipping her.",
+   "uncertainties": [
+    "exact mood of samarcayet"
+   ],
+   "plain_english": "Having seated the girl in the deity's presence, one should worship her."
+  },
+  {
+   "verse": 1102,
+   "rows": [
+    {
+     "surface": "kadalīnārikelādiphalaistāṃ",
+     "gloss": "with-banana-coconut-etc-fruits-her",
+     "grounds": "instrumental plural fruits fused with accusative pronoun tām",
+     "morph": "instr.pl.n+acc.sg.f"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "satisfy",
+     "grounds": "causative present of pari-tuṣ",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "With what should the seated girl be satisfied?",
+   "premises": [
+    "fruits include banana and coconut",
+    "satisfaction follows offering"
+   ],
+   "inference": "The girl is satisfied with banana, coconut, and similar fruits.",
+   "uncertainties": [
+    "fused token internal sandhi"
+   ],
+   "plain_english": "One should satisfy her with banana, coconut, and other fruits."
+  },
+  {
+   "verse": 1103,
+   "rows": [
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japed",
+     "gloss": "chant",
+     "grounds": "present of jap",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ekottaravṛddhyā",
+     "gloss": "with-increasing-by-one",
+     "grounds": "instrumental of ekottara-vṛddhi",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "accusative masculine",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "How should the mantra be chanted for the girl?",
+   "premises": [
+    "chanting is by ability",
+    "increase is by one"
+   ],
+   "inference": "One chants the mantra according to ability, increasing by one each time, or otherwise as stated.",
+   "uncertainties": [
+    "scope of athavā"
+   ],
+   "plain_english": "One should chant the mantra according to ability, increasing by one, or otherwise as prescribed."
+  },
+  {
+   "verse": 1104,
+   "rows": [
+    {
+     "surface": "tatastāṃ",
+     "gloss": "then-her",
+     "grounds": "adverb tataḥ fused with accusative pronoun tām",
+     "morph": "adv+acc.sg.f"
+    },
+    {
+     "surface": "devatābuddhyā",
+     "gloss": "as-deity",
+     "grounds": "instrumental of devatā-buddhi",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-saluted",
+     "grounds": "absolutive of namas-kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "dismiss",
+     "grounds": "causative present of vi-sṛj",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How should the girl be dismissed after worship?",
+   "premises": [
+    "she is regarded as deity",
+    "salutation precedes dismissal"
+   ],
+   "inference": "After saluting her as the deity, one dismisses her.",
+   "uncertainties": [
+    "exact sense of visarjayet"
+   ],
+   "plain_english": "Then, regarding her as the deity, one should salute her and dismiss her."
+  },
+  {
+   "verse": 1105,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tithau",
+     "gloss": "on-tithi",
+     "grounds": "locative feminine",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kumārīñca",
+     "gloss": "maiden-and",
+     "grounds": "accusative kumārīm fused with ca",
+     "morph": "acc.sg.f+indecl."
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "present optative of yaj",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pūrvadinācītām",
+     "gloss": "chosen-previous-day",
+     "grounds": "accusative feminine compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "When and whom should one worship in this manner?",
+   "premises": [
+    "worship occurs on a tithi",
+    "maiden was chosen previous day"
+   ],
+   "inference": "Thus on the tithi one worships the maiden chosen on the previous day.",
+   "uncertainties": [
+    "exact tithi unspecified"
+   ],
+   "plain_english": "Thus on the tithi one should worship the maiden chosen on the previous day."
+  },
+  {
+   "verse": 1106,
+   "rows": [
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvatī",
+     "grounds": "nominative feminine proper name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "ramā",
+     "grounds": "nominative feminine proper name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "gaurī",
+     "gloss": "gaurī",
+     "grounds": "nominative feminine proper name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "nominative feminine proper name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīttītāḥ",
+     "gloss": "named",
+     "grounds": "past participle of kīrt",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "Which goddesses are named among the nine?",
+   "premises": [
+    "four named goddesses listed",
+    "nine are named overall"
+   ],
+   "inference": "Sarasvatī, Ramā, Gaurī, and Durgā are among the nine named goddesses.",
+   "uncertainties": [
+    "full list of nine not given"
+   ],
+   "plain_english": "Sarasvatī, Ramā, Gaurī, and Durgā are among the nine named goddesses."
+  },
+  {
+   "verse": 1107,
+   "rows": [
+    {
+     "surface": "nāmabhiśca",
+     "gloss": "by-names-and",
+     "grounds": "instrumental plural nāmabhiḥ fused with ca",
+     "morph": "instr.pl.n+indecl."
+    },
+    {
+     "surface": "caturthyantaiḥ",
+     "gloss": "ending-in-fourth",
+     "grounds": "instrumental plural adjective",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "pūjayettāḥ",
+     "gloss": "worship-them",
+     "grounds": "present optative of pūj fused with accusative tāḥ",
+     "morph": "3.sg.act-pres+acc.pl.f"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the named goddesses be worshipped?",
+   "premises": [
+    "names end in fourth case",
+    "worship is separate"
+   ],
+   "inference": "One should worship them separately, using names ending in the fourth case.",
+   "uncertainties": [
+    "exact grammatical construction"
+   ],
+   "plain_english": "One should worship them separately with names ending in the fourth case."
+  },
+  {
+   "verse": 1108,
+   "rows": [
+    {
+     "surface": "gandhapuṣpāmbarākalpairyathāvibhavavistaraiḥ",
+     "gloss": "with-sandal-paste-flowers-garments-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "With what materials should the worship be performed?",
+   "premises": [
+    "materials include sandal paste",
+    "materials include flowers and garments"
+   ],
+   "inference": "Worship is performed with sandal paste, flowers, garments, and similar items according to means.",
+   "uncertainties": [
+    "compound members beyond listed"
+   ],
+   "plain_english": "One should worship with sandal paste, flowers, garments, and similar items according to one's means."
+  },
+  {
+   "verse": 1109,
+   "rows": [
+    {
+     "surface": "svakāryaphalasiddhyarthaṃ",
+     "gloss": "for-accomplishment-of-own-desired-result",
+     "grounds": "accusative neuter purpose compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vittaśāṭhyavivajītaḥ",
+     "gloss": "avoiding-miserliness",
+     "grounds": "nominative masculine participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What attitude should accompany the worship?",
+   "premises": [
+    "aim is accomplishment of desired result",
+    "miserliness is avoided"
+   ],
+   "inference": "One avoids miserliness in order to accomplish one's desired result.",
+   "uncertainties": [
+    "exact force of vivajītaḥ"
+   ],
+   "plain_english": "Avoiding miserliness, one worships for the accomplishment of one's desired result."
+  },
+  {
+   "verse": 1110,
+   "rows": [
+    {
+     "surface": "navarātrakṛtāṃ",
+     "gloss": "navarātra-done",
+     "grounds": "accusative feminine participle compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative feminine",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "dative feminine",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "offer",
+     "grounds": "causative present of sam-ṛp",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "To whom should the navarātra worship be offered?",
+   "premises": [
+    "worship was done during navarātra",
+    "offering is to the goddess"
+   ],
+   "inference": "The worship performed during navarātra is offered to the goddess.",
+   "uncertainties": [
+    "identity of devi/devyai"
+   ],
+   "plain_english": "O goddess, one should offer the worship performed during navarātra to the goddess."
+  },
+  {
+   "verse": 1111,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navakumārīṇāmarcanaṃ",
+     "gloss": "of-nine-maidens-worship",
+     "grounds": "genitive plural compound",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "prātavatsaram",
+     "gloss": "every-year",
+     "grounds": "adverbial accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How often should the nine maidens be worshipped?",
+   "premises": [
+    "worship is of nine maidens",
+    "it recurs every year"
+   ],
+   "inference": "Thus the worship of the nine maidens is performed every year.",
+   "uncertainties": [
+    "exact meaning of prātavatsaram"
+   ],
+   "plain_english": "Thus the worship of the nine maidens is performed every year."
+  },
+  {
+   "verse": 1112,
+   "rows": [
+    {
+     "surface": "mano'bhilāṣaṃ",
+     "gloss": "desire-fulfilled",
+     "grounds": "accusative masculine compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samprāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive of sam-prāp",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivasettava",
+     "gloss": "dwell-in-your",
+     "grounds": "present of ni-vas fused with tava",
+     "morph": "3.sg.act-pres+gen.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative masculine",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should one dwell after obtaining the desired result?",
+   "premises": [
+    "desire is obtained",
+    "dwelling is in presence"
+   ],
+   "inference": "Having obtained the desired result, one dwells in your presence.",
+   "uncertainties": [
+    "fused token nivasettava"
+   ],
+   "plain_english": "Having obtained the desired result, one should dwell in your presence."
+  }
+ ]
+}

@@ -1,0 +1,551 @@
+{
+ "song": "kul-p23",
+ "items": [
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "gandhapuṣpākṣataiḥ",
+     "gloss": "with-fragrance-flowers-unbroken-rice",
+     "grounds": "compound of gandha, puṣpa, akṣata with instrumental plural ending",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "worship",
+     "grounds": "gerundive or participle of pūj",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "ca plus anyathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular of naraka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "go",
+     "grounds": "optative third singular of vraj",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "What happens to one who worships otherwise with fragrance flowers and unbroken rice?",
+   "premises": [
+    "worship with gandha puṣpa akṣata is prescribed",
+    "otherwise worship leads to hell"
+   ],
+   "inference": "improper worship leads to hell",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Worship with fragrance, flowers, and unbroken rice; otherwise one goes to hell."
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "budhyasya",
+     "gloss": "know",
+     "grounds": "second singular of budh",
+     "morph": "v.2.sg.pres-act"
+    },
+    {
+     "surface": "paśo",
+     "gloss": "beast",
+     "grounds": "vocative singular of paśu",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second person singular pronoun",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivastvaṃ",
+     "gloss": "you-are-śiva",
+     "grounds": "śiva plus tvam fused",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śivo'si hi",
+     "gloss": "you-are-śiva-indeed",
+     "grounds": "śiva plus asi plus hi fused",
+     "morph": "v.2.sg.pres-act"
+    }
+   ],
+   "question": "Why should the beast know that he is Śiva?",
+   "premises": [
+    "the addressee is called beast",
+    "he is told he is Śiva"
+   ],
+   "inference": "recognition of Śiva-nature is urged",
+   "uncertainties": [
+    "paśo may be vocative address"
+   ],
+   "plain_english": "Know that, O beast; you are Śiva, indeed you are Śiva."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "paramātmā",
+     "gloss": "supreme-self",
+     "grounds": "compound of parama and ātmā",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tadānande",
+     "gloss": "in-that-bliss",
+     "grounds": "tad plus ānanda with locative ending",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative of tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyam",
+     "gloss": "to-be-served",
+     "grounds": "gerundive of sev",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular of priyā",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Why is the supreme self to be served in that bliss?",
+   "premises": [
+    "supreme self is in that bliss",
+    "therefore this is to be served"
+   ],
+   "inference": "the supreme self in bliss is the object of service",
+   "uncertainties": [
+    "idaṃ refers to practice or self"
+   ],
+   "plain_english": "The supreme self is in that bliss; therefore serve this, beloved."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "absolutive of ādā",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "pūjayeddevi",
+     "gloss": "worship-devi",
+     "grounds": "pūjayet plus devi fused",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "ca plus anyathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "negative plus phala with accusative ending",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular of bhū",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "What becomes fruitless if worship is done otherwise?",
+   "premises": [
+    "taking and worshiping is prescribed",
+    "otherwise it becomes fruitless"
+   ],
+   "inference": "improper worship yields no fruit",
+   "uncertainties": [
+    "ādāya object omitted"
+   ],
+   "plain_english": "Taking and worshiping, O Devi; otherwise it becomes fruitless."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative third singular of kṛ",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "matsyamāṃsābhyāṃ vinā",
+     "gloss": "without-fish-and-meat",
+     "grounds": "matsya and māṃsa instrumental dual with vinā",
+     "morph": "n.instr.du.m"
+    },
+    {
+     "surface": "dravyeṇa",
+     "gloss": "with-substance",
+     "grounds": "instrumental singular of dravya",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "accusative singular of pūjana",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What worship should not be done without fish and meat?",
+   "premises": [
+    "worship should not be done",
+    "without fish and meat by substance"
+   ],
+   "inference": "fish and meat are required substances for worship",
+   "uncertainties": [
+    "dravyeṇa scope ambiguous"
+   ],
+   "plain_english": "One should not perform worship with substance without fish and meat."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "sakṛttarpaṇamātreṇa",
+     "gloss": "by-once-satisfaction-only",
+     "grounds": "sakṛt plus tarpaṇa plus mātra with instrumental ending",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "koṭiyajñaphalaṃ",
+     "gloss": "crore-sacrifice-fruit",
+     "grounds": "koṭi plus yajña plus phala compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "optative third singular of labh",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "What fruit is obtained by once offering satisfaction?",
+   "premises": [
+    "once satisfaction alone suffices",
+    "crore-sacrifice fruit is obtained"
+   ],
+   "inference": "a single offering equals crore sacrifices",
+   "uncertainties": [
+    "sakṛt may mean once or at once"
+   ],
+   "plain_english": "By once offering satisfaction alone, one obtains the fruit of a crore sacrifices."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "ablative of tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative singular",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "pūjayedbhaktyā",
+     "gloss": "worship-with-devotion",
+     "grounds": "pūjayet plus bhaktyā fused",
+     "morph": "v.3.sg.opt-act"
+    },
+    {
+     "surface": "bhuktimuktyoḥ",
+     "gloss": "of-enjoyment-and-liberation",
+     "grounds": "genitive dual of bhukti and mukti",
+     "morph": "n.gen.du.f"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "accusative singular of bhājana",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Who becomes a vessel of enjoyment and liberation?",
+   "premises": [
+    "therefore one who worships with devotion",
+    "he is vessel of enjoyment and liberation"
+   ],
+   "inference": "devotional worship makes one fit for both",
+   "uncertainties": [
+    "bhājanam metaphorical"
+   ],
+   "plain_english": "Therefore one who worships with devotion is a vessel of enjoyment and liberation."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "kulapūjārato",
+     "gloss": "devoted-to-kula-worship",
+     "grounds": "compound of kula, pūjā, rata",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who-indeed",
+     "grounds": "ya plus tu fused",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of aham",
+     "morph": "pron.dat.sg.1"
+    },
+    {
+     "surface": "priyatamo",
+     "gloss": "most-beloved",
+     "grounds": "superlative of priya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular of bhū",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "Who becomes most beloved to the speaker?",
+   "premises": [
+    "one devoted to kula worship",
+    "he becomes most beloved to me"
+   ],
+   "inference": "kula worship devotion earns highest love",
+   "uncertainties": [
+    "me refers to goddess or teacher"
+   ],
+   "plain_english": "One devoted to kula worship indeed becomes most beloved to me."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "puṃstrīnapuṃsakānāntu",
+     "gloss": "of-male-female-neuter",
+     "grounds": "puṃ, strī, napuṃsaka with genitive plural ending plus tu",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "pūjiteṣṭaphalapradā",
+     "gloss": "worshiped-gives-desired-fruit",
+     "grounds": "pūjita plus iṣṭa plus phala plus pradā compound",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What gives desired fruit when male female and neuter are worshiped?",
+   "premises": [
+    "male female and neuter are worshiped",
+    "desired fruit is given"
+   ],
+   "inference": "worship of all genders yields desired fruit",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "When male, female, and neuter are worshiped, desired fruit is given."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "apūjitā",
+     "gloss": "unworshiped",
+     "grounds": "negative participle of pūj",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second person singular pronoun",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative singular of deveśī",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "duḥkhadā",
+     "gloss": "pain-giving",
+     "grounds": "duḥkha plus dā compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kuvadhūriva",
+     "gloss": "like-bad-wife",
+     "grounds": "ku plus vadhū plus iva",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is an unworshiped goddess like?",
+   "premises": [
+    "you unworshiped goddess",
+    "pain-giving like bad wife"
+   ],
+   "inference": "neglecting worship makes the goddess harmful",
+   "uncertainties": [
+    "kuvadhūriva simile"
+   ],
+   "plain_english": "You, unworshiped goddess, are pain-giving like a bad wife."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "third singular present of yā",
+     "morph": "v.3.sg.pres-act"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular of naraka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ghoramekaviṃśatibhiḥ",
+     "gloss": "terrible-twenty-one",
+     "grounds": "ghora plus ekaviṃśati with instrumental ending",
+     "morph": "num.instr.pl"
+    },
+    {
+     "surface": "kulaiḥ",
+     "gloss": "with-families",
+     "grounds": "instrumental plural of kula",
+     "morph": "n.instr.pl.n"
+    }
+   ],
+   "question": "Where does he go with twenty-one terrible families?",
+   "premises": [
+    "he goes to hell",
+    "with twenty-one terrible families"
+   ],
+   "inference": "neglect leads to hell with many families",
+   "uncertainties": [
+    "kulaiḥ may mean generations"
+   ],
+   "plain_english": "He goes to terrible hell with twenty-one families."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtain",
+     "grounds": "third singular middle of labh",
+     "morph": "v.3.sg.pres-mid"
+    },
+    {
+     "surface": "sarvasiddhīṃśca",
+     "gloss": "and-all-accomplishments",
+     "grounds": "sarva plus siddhi plus ca with accusative plural ending",
+     "morph": "n.acc.pl.f"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "na plus atra fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive of kṛ",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "nominative singular of vicāraṇā",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What need not be deliberated here?",
+   "premises": [
+    "all accomplishments are obtained",
+    "no deliberation is to be done here"
+   ],
+   "inference": "results are assured without deliberation",
+   "uncertainties": [
+    "atra refers to kula worship"
+   ],
+   "plain_english": "All accomplishments are obtained; here no deliberation is to be done."
+  }
+ ]
+}

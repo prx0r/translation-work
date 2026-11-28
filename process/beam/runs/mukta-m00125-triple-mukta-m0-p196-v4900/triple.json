@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p196",
+ "items": [
+  {
+   "verse": 4900,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence after the preceding mudrā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "consecration",
+     "grounds": "ritual installation/consecration as the action to be performed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation, agreeing with pratiṣṭhā",
+     "morph": "gerundive.f.nom.sg (√kṛ)"
+    },
+    {
+     "surface": "cāṅkurārpaṇapūrvikā",
+     "gloss": "preceded-by-sprout-offering",
+     "grounds": "compound qualifying pratiṣṭhā: cāṅkura-arpaṇa-pūrvikā, having the offering of sprouts as its preliminary",
+     "morph": "compound.f.nom.sg (cāṅkura+arpaṇa+pūrvikā)"
+    }
+   ],
+   "question": "What obligatory ritual must be performed next and with what preliminary rite?",
+   "premises": [
+    "The sequence continues with tataḥ indicating a following step.",
+    "Pratiṣṭhā is the ritual action designated as obligatory.",
+    "This consecration must be preceded by the offering of sprouts."
+   ],
+   "inference": "After the preceding rite, a consecration preceded by the offering of sprouts must be performed.",
+   "uncertainties": [],
+   "plain_english": "Then the consecration, preceded by the offering of sprouts, must be performed."
+  }
+ ]
+}

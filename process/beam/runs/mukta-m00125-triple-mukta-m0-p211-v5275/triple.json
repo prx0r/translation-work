@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p211",
+ "items": [
+  {
+   "verse": 5275,
+   "rows": [
+    {
+     "surface": "tattat",
+     "gloss": "each-respective",
+     "grounds": "distributive reduplicated pronoun indicating each corresponding item",
+     "morph": "pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "kuṃbhādakaiḥ",
+     "gloss": "with-pot-waters",
+     "grounds": "instrumental plural of compound kuṃbha-udaka; internal sandhi u→ā",
+     "morph": "compound: kuṃbha+udaka; n.ins.pl"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the recipients mentioned in context",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanam",
+     "gloss": "ritual-bathing",
+     "grounds": "act of bathing or ablution as ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-perform",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "3.sg.opt.act (√nī)"
+    }
+   ],
+   "question": "With what substances must the ritual bathing of those recipients be carried out?",
+   "premises": [
+    "Each respective set of pot waters is specified as the means.",
+    "The recipients are indicated as those to whom the action applies.",
+    "The ritual bathing is the prescribed action to be performed."
+   ],
+   "inference": "Therefore, one should perform the ritual bathing of those recipients using each respective set of pot waters.",
+   "uncertainties": [
+    "The exact identity of teṣāṃ depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "And indeed, one should perform the ritual bathing of them with each respective set of pot waters."
+  }
+ ]
+}

@@ -1,0 +1,980 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4276,
+   "rows": [
+    {
+     "surface": "pūrva+uktāḥ",
+     "gloss": "previously-spoken",
+     "grounds": "compound: pūrva+ukta, past participle used adjectivally",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral qualifying pādān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pādān",
+     "gloss": "quarters",
+     "grounds": "object or referent of prior mention",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding what lies beyond",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "beyond-that",
+     "grounds": "compound: tad+bahiḥ, locative sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What elements are included beyond the previously spoken eight quarters?",
+   "premises": [
+    "Eight quarters were previously spoken",
+    "An additional element lies beyond them"
+   ],
+   "inference": "The scope extends past the eight previously mentioned quarters",
+   "uncertainties": [],
+   "plain_english": "The previously spoken eight quarters, and what lies beyond them."
+  },
+  {
+   "verse": 4277,
+   "rows": [
+    {
+     "surface": "sarva+bhūta+bhaya+haraṃ",
+     "gloss": "all-beings-fear-removing",
+     "grounds": "compound: sarva+bhūta+bhaya+hara, describes śubham",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrī+kīrti+āyuḥ+pradaṃ",
+     "gloss": "fortune-fame-life-giving",
+     "grounds": "compound: śrī+kīrti+āyuḥ+prada, describes śubham",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "substantive or qualifier of the mantra or effect",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What auspicious qualities characterize the entity being described here?",
+   "premises": [
+    "It removes fear from all beings",
+    "It grants fortune fame and life",
+    "It is auspicious"
+   ],
+   "inference": "The described entity is protective and beneficent",
+   "uncertainties": [
+    "The exact referent of śubham depends on surrounding context"
+   ],
+   "plain_english": "It removes the fear of all beings, grants fortune, fame, and life, and is auspicious."
+  },
+  {
+   "verse": 4278,
+   "rows": [
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "supreme",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya+adhīnam",
+     "gloss": "under-its-control",
+     "grounds": "compound: tasya+adhīna, predicate describing jagat+trayam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat+trayam",
+     "gloss": "triple-world",
+     "grounds": "compound: jagat+traya, subject of the predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dominion does the supreme entity hold over the cosmos?",
+   "premises": [
+    "The entity is supreme",
+    "The triple world is under its control"
+   ],
+   "inference": "The supreme entity governs the three worlds",
+   "uncertainties": [
+    "The referent of tasya is supplied by prior verses"
+   ],
+   "plain_english": "It is supreme, and the triple world is under its control."
+  },
+  {
+   "verse": 4279,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object made into a weapon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund), root kṛ"
+    },
+    {
+     "surface": "astram",
+     "gloss": "weapon",
+     "grounds": "resultative designation of the mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paricakṣate",
+     "gloss": "they-call",
+     "grounds": "traditional designation by authorities",
+     "morph": "3.pl.pres.middle, root cakṣ"
+    }
+   ],
+   "question": "How is the mantra designated when ritually fashioned as a weapon?",
+   "premises": [
+    "The mantra is made into something",
+    "Authorities call it a weapon"
+   ],
+   "inference": "When ritually employed, the mantra is designated as a weapon",
+   "uncertainties": [],
+   "plain_english": "Having made the mantra into a weapon, they call it an astra."
+  },
+  {
+   "verse": 4280,
+   "rows": [
+    {
+     "surface": "sunavāma",
+     "gloss": "may-we-press",
+     "grounds": "Vedic-style optative or subjunctive sense",
+     "morph": "1.pl.pres.subjunctive.active, root su"
+    },
+    {
+     "surface": "somam",
+     "gloss": "soma",
+     "grounds": "ritual substance as object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arātīyataḥ",
+     "gloss": "from-hostile-one",
+     "grounds": "denominative participle indicating hostility",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nidahāti",
+     "gloss": "destroys",
+     "grounds": "action against the hostile one",
+     "morph": "3.sg.pres.active, root dah with ni"
+    },
+    {
+     "surface": "vedaḥ",
+     "gloss": "veda",
+     "grounds": "subject or invoked authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "anaphoric subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "us",
+     "grounds": "object of protection",
+     "morph": "1.pl.acc"
+    },
+    {
+     "surface": "pariṣat",
+     "gloss": "may-surround",
+     "grounds": "protective encompassing action",
+     "morph": "3.sg.pres.subjunctive.active, root pari-as"
+    }
+   ],
+   "question": "What protective power is invoked through the soma-pressing mantra?",
+   "premises": [
+    "The pressing of soma is invoked",
+    "The hostile one is destroyed",
+    "Protection is sought for us"
+   ],
+   "inference": "The mantra invokes destruction of hostility and protective surrounding",
+   "uncertainties": [
+    "Exact syntactic parsing of this mantra citation is partly opaque"
+   ],
+   "plain_english": "May we press soma; it destroys the hostile one. May the Veda, may he, surround and protect us."
+  },
+  {
+   "verse": 4281,
+   "rows": [
+    {
+     "surface": "varṇānām",
+     "gloss": "of-syllables",
+     "grounds": "genitive specifying what is placed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "padānām",
+     "gloss": "of-quarters",
+     "grounds": "genitive specifying what is placed",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual installation subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-prescribed",
+     "grounds": "authoritative ritual requirement",
+     "morph": "3.sg.pres.passive, root iṣ"
+    }
+   ],
+   "question": "What ritual placement is prescribed for the syllables and quarters?",
+   "premises": [
+    "Syllables and quarters are specified",
+    "A placement is prescribed"
+   ],
+   "inference": "The ritual requires placement of the syllables and quarters",
+   "uncertainties": [],
+   "plain_english": "The placement of the syllables and of the quarters is prescribed."
+  },
+  {
+   "verse": 4282,
+   "rows": [
+    {
+     "surface": "nyāsa+ādikam",
+     "gloss": "placement-and-so-forth",
+     "grounds": "compound: nyāsa+ādi, object of implied prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating parallel treatment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "ritual visualization component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "seer associated with the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "compound: pūrva+vat, indicates continuity with prior instructions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual preliminaries follow the same pattern as before?",
+   "premises": [
+    "Placement and related acts are mentioned",
+    "Meditation sage and meter are mentioned",
+    "They are to be done as before"
+   ],
+   "inference": "The placement, meditation, sage, and meter follow the previous pattern",
+   "uncertainties": [],
+   "plain_english": "The placement and so forth, likewise the meditation, the sage, and the meter, are as before."
+  },
+  {
+   "verse": 4283,
+   "rows": [
+    {
+     "surface": "śatrum",
+     "gloss": "enemy",
+     "grounds": "target of the ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vakram",
+     "gloss": "crooked",
+     "grounds": "qualifier of the enemy or posture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣāhatam",
+     "gloss": "struck-by-poison",
+     "grounds": "compound: viṣa+āhata, describes the enemy's condition",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what condition is the enemy visualized within the ritual?",
+   "premises": [
+    "The enemy is placed in the middle",
+    "The enemy is crooked",
+    "The enemy is struck by poison"
+   ],
+   "inference": "The ritual visualizes the enemy centrally as crooked and poison-struck",
+   "uncertainties": [
+    "madhye may refer to a ritual diagram or bodily center"
+   ],
+   "plain_english": "Visualize the enemy in the middle, crooked and struck by poison."
+  },
+  {
+   "verse": 4284,
+   "rows": [
+    {
+     "surface": "dina+dvyāt",
+     "gloss": "from-two-days",
+     "grounds": "compound: dina+dvaya, ablative of time",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "jvara+ākrāntaḥ",
+     "gloss": "by-fever-seized",
+     "grounds": "compound: jvara+ākrānta, describes ripuḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "subject affected by the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "life-breaths",
+     "grounds": "object released at death",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "result of the affliction",
+     "morph": "3.sg.pres.active, root muc with vi"
+    }
+   ],
+   "question": "What fatal outcome befalls the enemy within two days?",
+   "premises": [
+    "The enemy is seized by fever",
+    "This occurs within two days",
+    "The enemy releases the life-breaths"
+   ],
+   "inference": "The enemy dies of fever within two days",
+   "uncertainties": [],
+   "plain_english": "Within two days, seized by fever, the enemy releases his life-breaths."
+  },
+  {
+   "verse": 4285,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative.active, root jap"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indicates swift result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative.active, root bhū"
+    },
+    {
+     "surface": "yama+vallabhaḥ",
+     "gloss": "yama-beloved",
+     "grounds": "compound: yama+vallabha, euphemism for one claimed by death",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What immediate fate results from reciting the mantra in this rite?",
+   "premises": [
+    "One should recite the mantra",
+    "The effect is immediate",
+    "The target becomes beloved of Yama"
+   ],
+   "inference": "Recitation swiftly brings the target under Yama's claim",
+   "uncertainties": [],
+   "plain_english": "One should recite it; immediately he becomes a favorite of Yama."
+  },
+  {
+   "verse": 4286,
+   "rows": [
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction with intensified prefix",
+     "morph": "3.sg.optative.active, root jap with pra"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyu+vaśatām",
+     "gloss": "death-subjection",
+     "grounds": "compound: mṛtyu+vaśatā, state of being under death's power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes-to",
+     "grounds": "resulting transition",
+     "morph": "3.sg.optative.active, root vraj"
+    }
+   ],
+   "question": "What dominion does the enemy enter through this recitation?",
+   "premises": [
+    "One should recite the mantra",
+    "The target goes to subjection to death"
+   ],
+   "inference": "Recitation places the enemy under the dominion of death",
+   "uncertainties": [],
+   "plain_english": "One should recite it; he goes into the dominion of death."
+  },
+  {
+   "verse": 4287,
+   "rows": [
+    {
+     "surface": "śīghram",
+     "gloss": "quickly",
+     "grounds": "indicates speed of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "passive action performed by Yama's servants",
+     "morph": "3.sg.pres.passive, root nī"
+    },
+    {
+     "surface": "yama+kiṅkaraiḥ",
+     "gloss": "by-yama-servants",
+     "grounds": "compound: yama+kiṅkara, agents of the action",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who carries the enemy away as a result of this rite?",
+   "premises": [
+    "The enemy is led away quickly",
+    "Yama's servants are the agents"
+   ],
+   "inference": "The rite causes Yama's servants to swiftly take the enemy",
+   "uncertainties": [],
+   "plain_english": "Quickly he is led away by the servants of Yama."
+  },
+  {
+   "verse": 4288,
+   "rows": [
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "mental act targeting the enemy",
+     "morph": "m.nom.sg, past participle, root smṛ"
+    },
+    {
+     "surface": "tūrṇam",
+     "gloss": "swiftly",
+     "grounds": "indicates rapid effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāsuḥ",
+     "gloss": "lifeless",
+     "grounds": "compound sense: departed life-breaths",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or resulting state",
+     "morph": "3.sg.optative.active, root as"
+    },
+    {
+     "surface": "dina+trayāt",
+     "gloss": "after-three-days",
+     "grounds": "compound: dina+traya, ablative of time limit",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What lethal effect follows merely remembering the enemy in this practice?",
+   "premises": [
+    "The enemy is remembered",
+    "The effect occurs swiftly",
+    "The enemy becomes lifeless within three days"
+   ],
+   "inference": "Remembering the enemy causes his death within three days",
+   "uncertainties": [],
+   "plain_english": "When remembered, he would swiftly become lifeless within three days."
+  },
+  {
+   "verse": 4289,
+   "rows": [
+    {
+     "surface": "putra+mitra+kalatra+ādi+sahitaḥ",
+     "gloss": "with-son-friend-wife-and-others",
+     "grounds": "compound: putra+mitra+kalatra+ādi+sahita, describes the enemy's company",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "object attained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.optative.active, root āp"
+    }
+   ],
+   "question": "How extensive is the fatal consequence for the enemy and his associates?",
+   "premises": [
+    "The enemy is accompanied by son friend wife and others",
+    "He would obtain death"
+   ],
+   "inference": "The fatal result extends to the enemy together with his close associates",
+   "uncertainties": [],
+   "plain_english": "Together with son, friend, wife, and others, he would meet death."
+  },
+  {
+   "verse": 4290,
+   "rows": [
+    {
+     "surface": "dināt+arvāk",
+     "gloss": "within-a-day",
+     "grounds": "compound: dina+arvāk, time before a day passes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yama+lokaṃ",
+     "gloss": "yama-world",
+     "grounds": "compound: yama+loka, destination after death",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "movement to the realm of death",
+     "morph": "3.sg.pres.active, root gam"
+    }
+   ],
+   "question": "How quickly does the enemy reach the world of Yama?",
+   "premises": [
+    "The time frame is within a day",
+    "The enemy goes to Yama's world"
+   ],
+   "inference": "The enemy reaches Yama's world in less than a day",
+   "uncertainties": [],
+   "plain_english": "Within a day, he goes to the world of Yama."
+  },
+  {
+   "verse": 4291,
+   "rows": [
+    {
+     "surface": "yama+grastaḥ",
+     "gloss": "by-yama-seized",
+     "grounds": "compound: yama+grasta, describes ariḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative.active, root bhū"
+    },
+    {
+     "surface": "ariḥ",
+     "gloss": "enemy",
+     "grounds": "subject of the seizure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition overtakes the enemy under Yama's power?",
+   "premises": [
+    "The subject is the enemy",
+    "He becomes seized by Yama"
+   ],
+   "inference": "The enemy falls under Yama's seizure",
+   "uncertainties": [],
+   "plain_english": "The enemy becomes seized by Yama."
+  },
+  {
+   "verse": 4292,
+   "rows": [
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "subject afflicted",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jvaritaḥ",
+     "gloss": "fevered",
+     "grounds": "past participle describing condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇam",
+     "gloss": "death",
+     "grounds": "destination or outcome",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes-to",
+     "grounds": "resulting transition",
+     "morph": "3.sg.optative.active, root vraj"
+    }
+   ],
+   "question": "What outcome follows when the enemy becomes fevered by the rite?",
+   "premises": [
+    "The enemy becomes fevered",
+    "He goes to death"
+   ],
+   "inference": "Fever caused by the rite leads the enemy to death",
+   "uncertainties": [],
+   "plain_english": "The enemy, fevered, goes to death."
+  },
+  {
+   "verse": 4293,
+   "rows": [
+    {
+     "surface": "mahatā",
+     "gloss": "by-great",
+     "grounds": "qualifier of the possessing force",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "āviṣṭaḥ",
+     "gloss": "possessed",
+     "grounds": "past participle describing the enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.pres.middle, root jan"
+    },
+    {
+     "surface": "sau",
+     "gloss": "he",
+     "grounds": "demonstrative subject, variant of asau",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama+atithiḥ",
+     "gloss": "yama-guest",
+     "grounds": "compound: yama+atithi, euphemism for one destined for death",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status does the enemy attain when possessed by a great force?",
+   "premises": [
+    "He is possessed by a great force",
+    "He becomes a guest of Yama"
+   ],
+   "inference": "Possession by a great force makes the enemy Yama's guest",
+   "uncertainties": [
+    "mahatā may refer to a great fever or a great power"
+   ],
+   "plain_english": "Possessed by a great force, he becomes a guest of Yama."
+  },
+  {
+   "verse": 4294,
+   "rows": [
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction to satisfy or offer",
+     "morph": "3.sg.optative.causative.active, root tṛp"
+    },
+    {
+     "surface": "dina+bāṇena",
+     "gloss": "with-day-arrow",
+     "grounds": "compound: dina+bāṇa, ritual instrument or count; exact sense unclear",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative.active, root as"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama+vallabhaḥ",
+     "gloss": "yama-beloved",
+     "grounds": "compound: yama+vallabha, euphemism for one claimed by death",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual offering makes the target become beloved of Yama?",
+   "premises": [
+    "One should make an offering with the dina-bāṇa",
+    "The target becomes beloved of Yama"
+   ],
+   "inference": "The specified offering consigns the target to Yama's favor",
+   "uncertainties": [
+    "The meaning of dina+bāṇena is unclear in this context"
+   ],
+   "plain_english": "One should make an offering with the dina-bāṇa; he would become a favorite of Yama."
+  },
+  {
+   "verse": 4295,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative.active, root jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject, the targeted enemy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "goes-forth",
+     "grounds": "movement toward Yama",
+     "morph": "3.sg.pres.active, root yā with pra"
+    },
+    {
+     "surface": "yama+antikam",
+     "gloss": "to-yama-nearness",
+     "grounds": "compound: yama+antika, destination near Yama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where does the enemy go when the mantra is recited against him?",
+   "premises": [
+    "One should recite the mantra",
+    "The enemy goes forth to Yama's nearness"
+   ],
+   "inference": "Recitation sends the enemy into Yama's proximity",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra; he goes forth to the presence of Yama."
+  },
+  {
+   "verse": 4296,
+   "rows": [
+    {
+     "surface": "śīghram",
+     "gloss": "quickly",
+     "grounds": "indicates speed of conveyance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "object, the targeted enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yama+dūtaḥ",
+     "gloss": "yama-messenger",
+     "grounds": "compound: yama+dūta, agent who conveys",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama+ālayam",
+     "gloss": "to-yama-abode",
+     "grounds": "compound: yama+ālaya, destination",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who conveys the enemy to Yama's abode with great speed?",
+   "premises": [
+    "The enemy is taken quickly",
+    "Yama's messenger is the agent",
+    "The destination is Yama's abode"
+   ],
+   "inference": "Yama's messenger swiftly conveys the enemy to Yama's abode",
+   "uncertainties": [
+    "The verb of conveyance is implied from context"
+   ],
+   "plain_english": "Quickly Yama's messenger takes him to the abode of Yama."
+  },
+  {
+   "verse": 4297,
+   "rows": [
+    {
+     "surface": "ghorām",
+     "gloss": "terrific",
+     "grounds": "describes the visualized goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siṃha+skandhām",
+     "gloss": "lion-shouldered",
+     "grounds": "compound: siṃha+skandha, describes her seat or form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "niṣeduṣīm",
+     "gloss": "seated",
+     "grounds": "perfect participle describing posture",
+     "morph": "f.acc.sg, perfect participle, root sad with ni"
+    }
+   ],
+   "question": "How is the fierce goddess visualized in her seated form?",
+   "premises": [
+    "She is terrific",
+    "She is associated with a lion's shoulder or back",
+    "She is seated"
+   ],
+   "inference": "The meditation visualizes a terrific goddess seated on a lion",
+   "uncertainties": [
+    "siṃha+skandhām may mean seated on a lion's shoulder or having lion-like shoulders"
+   ],
+   "plain_english": "Visualize her as terrific, seated upon a lion's shoulder."
+  },
+  {
+   "verse": 4298,
+   "rows": [
+    {
+     "surface": "visphuliṅgaiḥ",
+     "gloss": "with-sparks",
+     "grounds": "instrumental of fiery emanation",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nirdahantīm",
+     "gloss": "burning",
+     "grounds": "present participle describing her action",
+     "morph": "f.acc.sg, present participle, root dah with nis"
+    },
+    {
+     "surface": "ripum",
+     "gloss": "enemy",
+     "grounds": "object being burned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākula+vigraham",
+     "gloss": "agitated-form",
+     "grounds": "compound: ākula+vigraha, describes the enemy's body",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What destructive action does the visualized goddess perform upon the enemy?",
+   "premises": [
+    "She emits sparks",
+    "She burns the enemy",
+    "The enemy's form is agitated"
+   ],
+   "inference": "The goddess burns the agitated enemy with sparks",
+   "uncertainties": [],
+   "plain_english": "Burning the enemy, whose form is agitated, with sparks."
+  },
+  {
+   "verse": 4299,
+   "rows": [
+    {
+     "surface": "tarjayantīm",
+     "gloss": "threatening",
+     "grounds": "present participle describing her gesture",
+     "morph": "f.acc.sg, present participle, root tarj"
+    },
+    {
+     "surface": "nijam",
+     "gloss": "own",
+     "grounds": "qualifier indicating the practitioner's enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatrum",
+     "gloss": "enemy",
+     "grounds": "object of the threat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tarjanyā",
+     "gloss": "with-forefinger",
+     "grounds": "instrument of the threatening gesture",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhīma+rūpayā",
+     "gloss": "of-terrific-form",
+     "grounds": "compound: bhīma+rūpa, describes the forefinger or gesture",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does the goddess menace the practitioner's enemy in the visualization?",
+   "premises": [
+    "She threatens the enemy",
+    "She uses her forefinger",
+    "The gesture is of terrific form"
+   ],
+   "inference": "The goddess menaces the enemy with a terrifying forefinger gesture",
+   "uncertainties": [],
+   "plain_english": "Threatening one's own enemy with a forefinger of terrific form."
+  }
+ ]
+}

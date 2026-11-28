@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p371",
+ "items": [
+  {
+   "verse": 9275,
+   "rows": [
+    {
+     "surface": "nānāprakārapūjāsyāḥ",
+     "gloss": "manifold-kinds-worship-of-her",
+     "grounds": "compound nānā-prakāra-pūjā with asyāḥ; internal sandhi pūjā+asyāḥ",
+     "morph": "compound+nānā-prakāra-pūjā+asyāḥ.gen.sg.f"
+    },
+    {
+     "surface": "tantretantre",
+     "gloss": "in-each-tantra",
+     "grounds": "distributive repetition of tantre (locative of tantra)",
+     "morph": "tantre.loc.sg.n+tantre.loc.sg.n"
+    },
+    {
+     "surface": "prakāśitā",
+     "gloss": "revealed",
+     "grounds": "past participle describing worship as made known",
+     "morph": "f.nom.sg.past-participle+pra-kāś"
+    }
+   ],
+   "question": "In which scriptures is the manifold worship of this goddess revealed?",
+   "premises": [
+    "The goddess possesses manifold forms of worship.",
+    "Tantric scriptures serve as sources of revealed instruction.",
+    "This worship is stated to be made known in those scriptures."
+   ],
+   "inference": "Therefore, the manifold worship of this goddess is revealed in each tantra.",
+   "uncertainties": [
+    "The referent of asyāḥ is inferred from the preceding verses describing Akṣobhya's consort."
+   ],
+   "plain_english": "Her worship of many kinds is revealed in tantra after tantra."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p272",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1ce25c2fd7bb90de",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 136
+ },
+ "align": {
+  "min_ratio": 0.948,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "One should smear a pure and pleasant place with cow dung."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 65,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 136,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "2b6f2e4a925a281cc4cc9139e3767f0979438896f3ccdbffc6515bee30033915",
+  "l0": "deb561404dcd9d8855562daf2e18962f1b510c6852c68a03ac217a2d2b43a3e8",
+  "argmap": "b8242218859b73fea2251aea5f8e21fe00f8f0402f90e7420a6397ee4804bd9c",
+  "l2": "8aed7004ef5fd2e2985cca44e9b83777e6e58264875392bf17bcf25f9449f18b",
+  "c1": "5ea99609ecd76169ccd6c8dfe7cd2db41b7feb4d7ee73b5a45a6b2ada2fffbb8"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1ce25c2fd7bb90de",
+  "t1": "mukta-m0-p272/data/mukta-m0-p272.t1.json",
+  "l0": "mukta-m0-p272/data/mukta-m0-p272.l0.json",
+  "l2": "mukta-m0-p272/data/mukta-m0-p272.l2.json",
+  "c1": "mukta-m0-p272/data/mukta-m0-p272.c1.json"
+ }
+}

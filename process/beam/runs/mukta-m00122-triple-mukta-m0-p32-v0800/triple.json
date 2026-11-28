@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "ṣaṭprakārabhajanam",
+     "gloss": "six-kinds-worship",
+     "grounds": "compound ṣaṭ-prakāra-bhajana; six kinds of worship",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "he-teaches",
+     "grounds": "3rd singular present active of upadiś",
+     "morph": "v.3.sg.act-pres (root upadiś)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpuṣpaiḥ",
+     "gloss": "by-those-flowers",
+     "grounds": "tat + puṣpaiḥ; instrumental plural of puṣpa",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "pūgaprasūnaiḥ",
+     "gloss": "by-worship-flowers",
+     "grounds": "compound pūga-prasūna; instrumental plural flowers",
+     "morph": "n.instr.pl.n"
+    }
+   ],
+   "question": "What six-fold worship is taught there using those flowers and pūga flowers?",
+   "premises": [
+    "Six-fold worship is taught there.",
+    "Those flowers are used in it.",
+    "Pūga flowers are also used."
+   ],
+   "inference": "The verse identifies a six-fold worship performed with specified flowers.",
+   "uncertainties": [
+    "The exact referent of pūga within the compound remains unclear."
+   ],
+   "plain_english": "There he teaches six-fold worship with those flowers and pūga flowers."
+  }
+ ]
+}

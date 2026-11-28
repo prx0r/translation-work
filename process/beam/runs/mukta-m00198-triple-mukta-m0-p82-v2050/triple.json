@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "pītavarṇāṃga",
+     "gloss": "yellow-colored-limbed",
+     "grounds": "bahuvrīhi compound describing bodily appearance; pīta (yellow) + varṇa (color) + aṃga (limb/body)",
+     "morph": "compound"
+    },
+    {
+     "surface": "keśāste",
+     "gloss": "hair-they",
+     "grounds": "sandhi-fused form keśāḥ + te; keśa (hair) with nominative plural ending fused to pronoun te",
+     "morph": "m.nom.pl + pron.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "anaphoric pronoun referring to the figures being described",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "vāsīkābaddhamastakāḥ",
+     "gloss": "cloth-bound-headed",
+     "grounds": "bahuvrīhi compound; vāsīkā (cloth/band) + baddha (bound) + mastaka (head)",
+     "morph": "compound"
+    }
+   ],
+   "question": "What bodily features and head adornment characterize the described pitṛ form?",
+   "premises": [
+    "The described figures have yellow-colored limbs.",
+    "The described figures possess hair as a noted feature.",
+    "The described figures have heads bound with a cloth band."
+   ],
+   "inference": "The pitṛ form is identified by yellow-colored limbs, hair, and heads bound with a cloth band.",
+   "uncertainties": [
+    "The precise meaning of vāsīkā as a specific type of cloth or headband is not fully certain from this verse alone."
+   ],
+   "plain_english": "They have yellow-colored limbs, hair, and their heads are bound with a cloth band."
+  }
+ ]
+}

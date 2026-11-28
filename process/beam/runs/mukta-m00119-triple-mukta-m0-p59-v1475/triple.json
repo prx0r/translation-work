@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "ṣaḍviṃśatiḥ",
+     "gloss": "twenty-six",
+     "grounds": "numeral twenty-six",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many chapters are declared for this tilaka?",
+   "premises": [
+    "The verse states twenty-six chapters."
+   ],
+   "inference": "This tilaka comprises twenty-six chapters.",
+   "uncertainties": [
+    "The exact referent of 'this' depends on prior context."
+   ],
+   "plain_english": "There are twenty-six chapters."
+  }
+ ]
+}

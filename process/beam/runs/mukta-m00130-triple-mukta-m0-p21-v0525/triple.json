@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "daśa+varṣa+sahasrāṇi",
+     "gloss": "ten-year-thousands",
+     "grounds": "compound indicating a duration of ten thousand years; analyzed as fused form",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "rāmo",
+     "gloss": "rāma",
+     "grounds": "name of the agent; nominative singular with sandhi from rāmaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājyam",
+     "gloss": "kingship",
+     "grounds": "object of the ruling action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācīkarat",
+     "gloss": "performed",
+     "grounds": "denotes the act of carrying out rule",
+     "morph": "3.sg.active-imperfect √kṛ with ā"
+    }
+   ],
+   "question": "What duration characterizes Rāma's exercise of sovereign kingship?",
+   "premises": [
+    "Rāma is the named agent of the action.",
+    "The action performed is the exercise of kingship.",
+    "The stated duration of this kingship is ten thousand years."
+   ],
+   "inference": "Rāma exercised sovereign kingship for ten thousand years.",
+   "uncertainties": [],
+   "plain_english": "Rāma ruled the kingdom for ten thousand years."
+  }
+ ]
+}

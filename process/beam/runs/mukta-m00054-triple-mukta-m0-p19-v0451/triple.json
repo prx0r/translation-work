@@ -1,0 +1,999 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "yonī/",
+     "gloss": "yoni",
+     "grounds": "object of seeing; feminine form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vvīkṣya",
+     "gloss": "having-seen",
+     "grounds": "prior action before recitation",
+     "morph": "gerund (√vīkṣ)"
+    },
+    {
+     "surface": "japet+stotraṅ",
+     "gloss": "should-recite+hymn",
+     "grounds": "fused verb and object; sandhi noted, not split",
+     "morph": "3.sg.opt.act (√jap) + n.acc.sg"
+    },
+    {
+     "surface": "kuberād+adhiko",
+     "gloss": "than-kubera+greater",
+     "grounds": "comparison fused with adjective",
+     "morph": "m.abl.sg + m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "result of the prescribed act",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What result follows from seeing the yoni and reciting the hymn?",
+   "premises": [
+    "One sees the yoni",
+    "One recites the hymn",
+    "The act yields surpassing wealth"
+   ],
+   "inference": "Seeing the yoni and reciting the hymn makes one greater than Kubera",
+   "uncertainties": [],
+   "plain_english": "Having seen the yoni, one should recite the hymn and become greater than Kubera."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "pitṛ+bhūmau",
+     "gloss": "ancestor+ground",
+     "grounds": "location for the ritual action",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidhi+rekhām",
+     "gloss": "ritual+line",
+     "grounds": "object to be wiped away",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "pramārjjayet",
+     "gloss": "should-wipe-away",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.opt.act (√mṛj with pra)"
+    }
+   ],
+   "question": "What ritual action must be performed on ancestral ground, O great goddess?",
+   "premises": [
+    "The setting is ancestral ground",
+    "The goddess is addressed directly",
+    "A ritual line is present"
+   ],
+   "inference": "On ancestral ground one should wipe away the ritual line",
+   "uncertainties": [],
+   "plain_english": "O great goddess, on ancestral ground one should wipe away the ritual line."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "samānīya",
+     "gloss": "having-brought-together",
+     "grounds": "initial preparatory action",
+     "morph": "gerund (√nī with sam-ā)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "manner of performing the actions",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃśodhya",
+     "gloss": "having-purified",
+     "grounds": "subsequent preparatory action",
+     "morph": "gerund (√śudh with sam)"
+    },
+    {
+     "surface": "nyāsa+yogataḥ",
+     "gloss": "by-nyasa+method",
+     "grounds": "means by which purification is done",
+     "morph": "indecl. (compound + -tas)"
+    }
+   ],
+   "question": "By what method should materials be gathered and purified with effort?",
+   "premises": [
+    "Materials are brought together",
+    "The actions require effort",
+    "Purification follows gathering"
+   ],
+   "inference": "One should gather and purify with effort by the method of nyasa",
+   "uncertainties": [],
+   "plain_english": "Having brought things together with effort and purified them, one should proceed by the method of nyasa."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "mūla+cakran+tu",
+     "gloss": "root+chakra+indeed",
+     "grounds": "object of visualization; particle emphasizes",
+     "morph": "n.acc.sg (compound) + (indecl.)"
+    },
+    {
+     "surface": "sambhāvya",
+     "gloss": "having-visualized",
+     "grounds": "meditative action",
+     "morph": "gerund (√bhū with sam)"
+    },
+    {
+     "surface": "devyāś+cāraṇa+sa/yyutam",
+     "gloss": "of-goddess+feet+endowed-with",
+     "grounds": "fused form describing the chakra as joined with the goddess's feet",
+     "morph": "f.gen.sg + n.acc.sg (compound)"
+    }
+   ],
+   "question": "How should the root chakra be visualized in relation to the goddess?",
+   "premises": [
+    "The root chakra is the focus",
+    "Visualization is prescribed",
+    "The goddess's feet are involved"
+   ],
+   "inference": "One should visualize the root chakra as endowed with the feet of the goddess",
+   "uncertainties": [],
+   "plain_english": "One should indeed visualize the root chakra as endowed with the feet of the goddess."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "prior ritual action",
+     "morph": "gerund (√jap)"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior ritual action",
+     "morph": "gerund (√stu)"
+    },
+    {
+     "surface": "maheśānīm",
+     "gloss": "great-goddess",
+     "grounds": "object of praise",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "pranava",
+     "grounds": "sacred syllable to be remembered; kept as term",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃsmarec+chive",
+     "gloss": "should-remember+o-auspicious-one",
+     "grounds": "fused verb and vocative; sandhi noted, not split",
+     "morph": "3.sg.opt.act (√smṛ with sam) + f.voc.sg"
+    }
+   ],
+   "question": "What should be remembered after reciting and praising the great goddess?",
+   "premises": [
+    "Recitation has been performed",
+    "Praise of the great goddess has been offered",
+    "A sacred syllable is to be recalled"
+   ],
+   "inference": "After reciting and praising the great goddess one should remember the pranava",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, having recited and praised the great goddess, one should remember the pranava."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "sa/yyogī+bhūya",
+     "gloss": "union+having-become",
+     "grounds": "state attained before recitation",
+     "morph": "gerund (compound + √bhū)"
+    },
+    {
+     "surface": "japtavyaṃ",
+     "gloss": "to-be-recited",
+     "grounds": "obligation to recite",
+     "morph": "n.nom.sg (gerundive of √jap)"
+    },
+    {
+     "surface": "sarva+vidyā+dhipo",
+     "gloss": "all+knowledge+lord",
+     "grounds": "resulting status of the practitioner",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "result of recitation in union",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What status is attained by reciting after becoming united?",
+   "premises": [
+    "One becomes united",
+    "Recitation is to be performed",
+    "Mastery over knowledge is the outcome"
+   ],
+   "inference": "Having become united and reciting, one becomes lord of all knowledge",
+   "uncertainties": [],
+   "plain_english": "Having become united, one should recite and become the lord of all knowledge."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "śūnya+deśe",
+     "gloss": "empty+place",
+     "grounds": "first possible location",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "taḍāge",
+     "gloss": "in-pond",
+     "grounds": "second possible location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅgā+garbhe",
+     "gloss": "ganga+womb",
+     "grounds": "third possible location, within the Ganga",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "fourth possible location",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which locations are specified as suitable settings for the practice?",
+   "premises": [
+    "An empty place is named",
+    "A pond and the Ganga's midst are named",
+    "A crossroads is named"
+   ],
+   "inference": "The practice may be performed in an empty place, a pond, within the Ganga, or at a crossroads",
+   "uncertainties": [],
+   "plain_english": "In an empty place, in a pond, within the Ganga, and at a crossroads."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "muṇḍa+yonau",
+     "gloss": "skull+yoni",
+     "grounds": "ritual location or object",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "ṛtau",
+     "gloss": "in-season",
+     "grounds": "time or ritual condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior purificatory action",
+     "morph": "gerund (√snā)"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "possible location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "veśyā+gṛhe",
+     "gloss": "courtesan+house",
+     "grounds": "possible location",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list of locations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional places and conditions are prescribed for bathing and practice?",
+   "premises": [
+    "A skull-yoni and seasonal time are mentioned",
+    "Bathing is performed",
+    "A house and a courtesan's house are included"
+   ],
+   "inference": "After bathing in season at the skull-yoni, one may practice in a house or likewise in a courtesan's house",
+   "uncertainties": [
+    "Exact ritual sense of muṇḍa+yonau is context-dependent"
+   ],
+   "plain_english": "At the skull-yoni, in season, having bathed, in a house, and likewise in a courtesan's house."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "paṭhet+sahasra+nāmā+khyaṃ",
+     "gloss": "should-recite+thousand+name+called",
+     "grounds": "fused verb and compound object naming the hymn",
+     "morph": "3.sg.opt.act (√paṭh) + n.acc.sg (compound)"
+    },
+    {
+     "surface": "stotraṃ",
+     "gloss": "hymn",
+     "grounds": "object of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+artha+siddhaye",
+     "gloss": "for-all+purpose+accomplishment",
+     "grounds": "purpose of the recitation",
+     "morph": "f.dat.sg (compound)"
+    }
+   ],
+   "question": "For what purpose should the hymn called the thousand names be recited?",
+   "premises": [
+    "The thousand-name hymn is recited",
+    "Recitation is prescribed",
+    "A comprehensive accomplishment is sought"
+   ],
+   "inference": "One should recite the hymn called the thousand names for the accomplishment of all purposes",
+   "uncertainties": [],
+   "plain_english": "One should recite the hymn called the thousand names for the accomplishment of all purposes."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "prajapecca",
+     "gloss": "should-mutter-and",
+     "grounds": "fused verb and connective",
+     "morph": "3.sg.opt.act (√jap with pra) + (indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object of muttering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kālyāś+ca+eva",
+     "gloss": "of-kali+and+indeed",
+     "grounds": "fused possessive and emphatic particles",
+     "morph": "f.gen.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "quantity of names",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific recitation should follow after the previous practice?",
+   "premises": [
+    "A subsequent action is indicated",
+    "Muttering is prescribed",
+    "The thousand names of Kali are specified"
+   ],
+   "inference": "Then one should mutter the thousand names of Kali",
+   "uncertainties": [],
+   "plain_english": "Then one should also mutter the thousand names of Kali."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "kālīṃ",
+     "gloss": "kali",
+     "grounds": "object of contemplation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sañcintya",
+     "gloss": "having-contemplated",
+     "grounds": "prior meditative action",
+     "morph": "gerund (√cint with sam)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-mutter",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.opt.act (√jap with pra)"
+    },
+    {
+     "surface": "paṭhen+nāma+sahasrakam",
+     "gloss": "should-recite+name+thousand",
+     "grounds": "fused verb and compound object",
+     "morph": "3.sg.opt.act (√paṭh) + n.acc.sg (compound)"
+    }
+   ],
+   "question": "What recitation should accompany contemplation of Kali?",
+   "premises": [
+    "Kali is contemplated",
+    "Muttering is prescribed",
+    "The thousand names are to be recited"
+   ],
+   "inference": "Having contemplated Kali, one should mutter and recite the thousand names",
+   "uncertainties": [],
+   "plain_english": "Having contemplated Kali, one should mutter and recite the thousand names."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "muṇḍa+cūḍa+kayor",
+     "gloss": "skull+crest+or",
+     "grounds": "alternative locations or supports; compound with dual ending",
+     "morph": "m.loc.du (compound)"
+    },
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "possible support for practice",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tvaci",
+     "gloss": "on-skin",
+     "grounds": "possible support for practice",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "komale",
+     "gloss": "on-tender",
+     "grounds": "qualifies the skin or surface",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "On what alternative supports may the practice be performed, O auspicious one?",
+   "premises": [
+    "Skull or crest is mentioned",
+    "Yoni or skin is mentioned",
+    "The skin may be tender"
+   ],
+   "inference": "The practice may be done on skull or crest, on the yoni, or on tender skin",
+   "uncertainties": [
+    "Exact referents of muṇḍa+cūḍa+kayor depend on ritual context"
+   ],
+   "plain_english": "O auspicious one, on the skull or crest, on the yoni, or on tender skin."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "mukta+keśo",
+     "gloss": "loosened+hair",
+     "grounds": "physical condition of the practitioner",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "diśā+vāsā",
+     "gloss": "direction+clothed",
+     "grounds": "idiomatic for naked; clothed by the directions",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "maithunī",
+     "gloss": "engaged-in-union",
+     "grounds": "ritual or bodily state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śayane",
+     "gloss": "on-bed",
+     "grounds": "location of the practitioner",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "state of being positioned",
+     "morph": "m.nom.sg (past participle of √sthā)"
+    }
+   ],
+   "question": "In what physical state and posture should the practitioner be situated?",
+   "premises": [
+    "Hair is loosened",
+    "The practitioner is naked",
+    "The practitioner is engaged in union on a bed"
+   ],
+   "inference": "The practitioner should be situated on a bed with loosened hair, naked, and engaged in union",
+   "uncertainties": [],
+   "plain_english": "With loosened hair, naked, engaged in union, situated on a bed."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "cikura/+yyogam",
+     "gloss": "hair+union",
+     "grounds": "object attained; fused form as given",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-attained",
+     "grounds": "prior action",
+     "morph": "gerund (√sad with ā)"
+    },
+    {
+     "surface": "śukra+utsāraṇam",
+     "gloss": "semen+emission",
+     "grounds": "action or event described",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What act is described after attaining union involving the hair?",
+   "premises": [
+    "Union involving hair is attained",
+    "Emission of semen is named",
+    "The act is emphasized"
+   ],
+   "inference": "After attaining union involving the hair, there is indeed the emission of semen",
+   "uncertainties": [],
+   "plain_english": "Having attained union involving the hair, and indeed the emission of semen."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "latāṃ",
+     "gloss": "creeper",
+     "grounds": "object touched; metaphorical or ritual referent",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "spṛśañ",
+     "gloss": "touching",
+     "grounds": "concurrent action",
+     "morph": "m.nom.sg (present participle of √spṛś)"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-recited",
+     "grounds": "prior action",
+     "morph": "gerund (√jap)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ramitvā",
+     "gloss": "having-enjoyed",
+     "grounds": "prior action",
+     "morph": "gerund (√ram)"
+    },
+    {
+     "surface": "tvar+cayann+api",
+     "gloss": "indeed+worshipping+also",
+     "grounds": "fused form with participle and particles",
+     "morph": "(indecl.) + m.nom.sg (present participle of √cay) + (indecl.)"
+    }
+   ],
+   "question": "What sequence of actions accompanies touching the creeper during worship?",
+   "premises": [
+    "The creeper is touched",
+    "Recitation and enjoyment occur",
+    "Worship is also performed"
+   ],
+   "inference": "Touching the creeper, one recites, enjoys, and also worships",
+   "uncertainties": [
+    "Ritual referent of latāṃ may be symbolic"
+   ],
+   "plain_english": "Touching the creeper, having recited and enjoyed, and also worshipping."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior devotional action",
+     "morph": "gerund (√stu)"
+    },
+    {
+     "surface": "śrī+dakṣiṇāṅ+kālī/",
+     "gloss": "glorious+dakshina+kali",
+     "grounds": "deity praised; fused compound name",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "yyoniṃ",
+     "gloss": "yoni",
+     "grounds": "object of the action; form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sva+kara+gāñ",
+     "gloss": "own+hand+gone-to",
+     "grounds": "describes the yoni reached by one's own hand",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-move",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "What action should be performed toward the yoni after praising glorious Dakshina Kali?",
+   "premises": [
+    "Glorious Dakshina Kali is praised",
+    "The yoni is reached by one's own hand",
+    "A ritual movement is prescribed"
+   ],
+   "inference": "After praising glorious Dakshina Kali, one should act upon the yoni reached by one's own hand",
+   "uncertainties": [],
+   "plain_english": "Having praised glorious Dakshina Kali, one should move upon the yoni reached by one's own hand."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "latā+antareṣu",
+     "gloss": "creeper+within",
+     "grounds": "location for recitation",
+     "morph": "n.loc.pl (compound)"
+    },
+    {
+     "surface": "japtavyaṃ",
+     "gloss": "to-be-recited",
+     "grounds": "obligation to recite",
+     "morph": "n.nom.sg (gerundive of √jap)"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior devotional action",
+     "morph": "gerund (√stu)"
+    },
+    {
+     "surface": "kālīn",
+     "gloss": "kali",
+     "grounds": "object of praise; form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nirākulaḥ",
+     "gloss": "unperturbed",
+     "grounds": "mental state of the practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what mental state should one recite within the creepers after praising Kali?",
+   "premises": [
+    "The setting is within creepers",
+    "Kali is praised",
+    "Recitation is required"
+   ],
+   "inference": "Having praised Kali, one should recite unperturbed within the creepers",
+   "uncertainties": [],
+   "plain_english": "Within the creepers, having praised Kali, one should recite unperturbed."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "kālarātryām",
+     "gloss": "on-kalaratri",
+     "grounds": "specified ritual night",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahārātryā/",
+     "gloss": "on-great-night",
+     "grounds": "specified ritual night",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vvīra+rātryām",
+     "gloss": "on-hero+night",
+     "grounds": "specified ritual night",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "On which special nights is the practice also recommended, O beloved?",
+   "premises": [
+    "Kalaratri is named",
+    "Maharatri is named",
+    "Vira-night is also included"
+   ],
+   "inference": "The practice is recommended on Kalaratri, Maharatri, and also on Vira-night",
+   "uncertainties": [],
+   "plain_english": "O beloved, on Kalaratri, on the great night, and also on the hero's night."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "kuhū+pūrṇendu+śukreṣu",
+     "gloss": "new-moon+full-moon+friday",
+     "grounds": "specified ritual times",
+     "morph": "m.loc.pl (compound)"
+    },
+    {
+     "surface": "bhauma+āmāyān",
+     "gloss": "tuesday+new-moon",
+     "grounds": "specified ritual time; form as given",
+     "morph": "f.loc.sg (compound)"
+    },
+    {
+     "surface": "niśā+mukhe",
+     "gloss": "night+beginning",
+     "grounds": "time of day for practice",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "At what lunar days and times should the practice be undertaken?",
+   "premises": [
+    "New moon, full moon, and Friday are named",
+    "Tuesday new moon is named",
+    "The beginning of night is specified"
+   ],
+   "inference": "The practice should be undertaken on these lunar days and at the beginning of night",
+   "uncertainties": [
+    "Reading of bhauma+āmāyān follows the given form"
+   ],
+   "plain_english": "On new moon, full moon, and Friday, on Tuesday's new moon, at the beginning of night."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "kula+kṣetre",
+     "gloss": "kula+field",
+     "grounds": "sacred or designated ritual place",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "manner of recitation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "paṭhen+nāma+sahasrakam",
+     "gloss": "should-recite+name+thousand",
+     "grounds": "fused verb and compound object",
+     "morph": "3.sg.opt.act (√paṭh) + n.acc.sg (compound)"
+    }
+   ],
+   "question": "Where should the thousand names be recited with effort?",
+   "premises": [
+    "A kula-field is specified",
+    "Effort is required",
+    "The thousand names are to be recited"
+   ],
+   "inference": "One should recite the thousand names with effort in the kula-field",
+   "uncertainties": [],
+   "plain_english": "In the kula-field, one should recite the thousand names with effort."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "paścima+abhimukha/",
+     "gloss": "west+facing",
+     "grounds": "orientation of the linga",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "liṅga/",
+     "gloss": "linga",
+     "grounds": "ritual object described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛṣa+śūnyam",
+     "gloss": "bull+without",
+     "grounds": "describes the linga as lacking the bull",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "purātanam",
+     "gloss": "ancient",
+     "grounds": "further qualification of the linga",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of linga is specified for the ritual setting?",
+   "premises": [
+    "The linga faces west",
+    "It is without the bull",
+    "It is ancient"
+   ],
+   "inference": "The specified linga is ancient, west-facing, and without the bull",
+   "uncertainties": [],
+   "plain_english": "A west-facing linga, without the bull, ancient."
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "bhauma+vāre",
+     "gloss": "tuesday+day",
+     "grounds": "specified day",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "niśīthe",
+     "gloss": "at-midnight",
+     "grounds": "specified time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amāvasyā+dine",
+     "gloss": "new-moon+day",
+     "grounds": "alternative specified day",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "qualifies the day",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "On which auspicious times may the rite be performed?",
+   "premises": [
+    "Tuesday is named",
+    "Midnight is named",
+    "An auspicious new-moon day is an alternative"
+   ],
+   "inference": "The rite may be performed on Tuesday at midnight or on an auspicious new-moon day",
+   "uncertainties": [],
+   "plain_english": "On Tuesday, at midnight, or on an auspicious new-moon day."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "dagdha+mīnaṃ",
+     "gloss": "burnt+fish",
+     "grounds": "offering item",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "śoṇitañ",
+     "gloss": "blood",
+     "grounds": "offering item; fused form as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhi+dugdhaṅ",
+     "gloss": "curd+milk",
+     "grounds": "offering items; fused form as given",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "guḍā+drarkam",
+     "gloss": "jaggery+ginger",
+     "grounds": "offering items; compound as given",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What substances are listed as offerings in this ritual context?",
+   "premises": [
+    "Burnt fish and blood are named",
+    "Curd and milk are named",
+    "Jaggery and ginger are named"
+   ],
+   "inference": "The offerings include burnt fish, blood, curd, milk, jaggery, and ginger",
+   "uncertainties": [
+    "Exact identification of guḍā+drarkam follows the given form"
+   ],
+   "plain_english": "Burnt fish, blood, curd and milk, and jaggery with ginger."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "deva+gandharva+siddha+aughaiḥ",
+     "gloss": "god+gandharva+siddha+hosts",
+     "grounds": "agents who serve; instrumental plural",
+     "morph": "m.inst.pl (compound)"
+    },
+    {
+     "surface": "sevitāṃ",
+     "gloss": "served",
+     "grounds": "describes the goddess as attended",
+     "morph": "f.acc.sg (past participle of √sev)"
+    },
+    {
+     "surface": "sura+sundarīm",
+     "gloss": "divine+beautiful-woman",
+     "grounds": "object described, the goddess",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "By whom is the divine beautiful goddess said to be served?",
+   "premises": [
+    "Hosts of gods are named",
+    "Gandharvas and siddhas are named",
+    "The divine beautiful one is served"
+   ],
+   "inference": "The divine beautiful goddess is served by hosts of gods, gandharvas, and siddhas",
+   "uncertainties": [],
+   "plain_english": "The divine beautiful goddess who is served by hosts of gods, gandharvas, and siddhas."
+  }
+ ]
+}

@@ -1,0 +1,1345 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun referring to practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of existence",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "bhaktaḥ",
+     "gloss": "devoted",
+     "grounds": "describes practitioner’s devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "refers to that practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "attains efficacy",
+     "morph": "3.sg.act-pres √sidh"
+    }
+   ],
+   "question": "On what basis of devotion and place does a mantra succeed for a practitioner?",
+   "premises": [
+    "A practitioner may be devoted in a particular place.",
+    "That same practitioner is the referent of the mantra’s success.",
+    "The mantra succeeds for that devoted practitioner."
+   ],
+   "inference": "A mantra succeeds for the practitioner who is devoted to it in the appropriate place.",
+   "uncertainties": [],
+   "plain_english": "Wherever and for whomever one is devoted, that mantra succeeds for him."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "amṛta",
+     "gloss": "nectar",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "traya",
+     "gloss": "triad",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyogāt",
+     "gloss": "from-conjunction",
+     "grounds": "cause or means",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "duṣṭa",
+     "gloss": "faulty",
+     "grounds": "qualifies mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "attains efficacy",
+     "morph": "3.sg.act-pres √sidh"
+    }
+   ],
+   "question": "Can conjunction with the three nectars make even a faulty mantra succeed?",
+   "premises": [
+    "A mantra may be faulty.",
+    "There is a conjunction with the triad of nectars.",
+    "Such conjunction can produce success."
+   ],
+   "inference": "Even a faulty mantra succeeds through conjunction with the three nectars.",
+   "uncertainties": [
+    "amṛta-traya is not specified here; grounds note it as the triad of nectars."
+   ],
+   "plain_english": "Even a faulty mantra succeeds through conjunction with the three nectars."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "su",
+     "gloss": "very",
+     "grounds": "intensifying prefix",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manohara",
+     "gloss": "charming",
+     "grounds": "qualifies girdle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "girdle",
+     "grounds": "first item in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yoni",
+     "gloss": "womb",
+     "grounds": "second item in series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional features",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśiṣṭam",
+     "gloss": "distinguished",
+     "grounds": "qualified by listed features",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "sense of the statement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What features distinguish the site described as having beautiful girdles, wombs, and similar marks?",
+   "premises": [
+    "The site is described with very charming girdles.",
+    "The site is described with wombs and other features.",
+    "These features make it distinguished."
+   ],
+   "inference": "The meaning is that the site is distinguished by beautiful girdles, wombs, and similar features.",
+   "uncertainties": [
+    "mekhalā and yoni may refer to specific ground formations; taken functionally as distinguishing features."
+   ],
+   "plain_english": "The meaning is that it is distinguished by very charming girdles, womb-like features, and so forth."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "bhūmeḥ",
+     "gloss": "of-ground",
+     "grounds": "object of taking possession",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "parigrahaṃ",
+     "gloss": "taking-possession",
+     "grounds": "act of acquiring site",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "extent correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyatanaṃ",
+     "gloss": "sanctuary",
+     "grounds": "ritual site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "extent of sanctuary",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How much ground should be taken in possession for establishing the ritual sanctuary?",
+   "premises": [
+    "Ground must be taken in possession.",
+    "The sanctuary has a certain extent.",
+    "The taken ground should match that extent."
+   ],
+   "inference": "One should take possession of as much ground as the sanctuary requires.",
+   "uncertainties": [],
+   "plain_english": "One should take possession of as much ground as the sanctuary is to occupy."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karīṃ",
+     "gloss": "producing",
+     "grounds": "qualifies vaiśyā ground",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaiśyā",
+     "gloss": "vaiśya-type",
+     "grounds": "category of ground",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śūdrā",
+     "gloss": "śūdra-type",
+     "grounds": "category of ground",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninditā",
+     "gloss": "censured",
+     "grounds": "negative evaluation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "resulting status",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "Which type of ground yields wealth and grain and which type is censured for ritual use?",
+   "premises": [
+    "Vaiśyā-type ground produces wealth and grain.",
+    "Śūdrā-type ground is contrasted with it.",
+    "Śūdrā-type ground is censured."
+   ],
+   "inference": "Vaiśyā-type ground is productive of wealth and grain, while śūdrā-type ground is censured.",
+   "uncertainties": [
+    "vaiśyā and śūdrā refer to traditional ground classifications; rendered by type names."
+   ],
+   "plain_english": "Vaiśyā ground produces wealth and grain, but śūdrā ground is censured."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "śalya",
+     "gloss": "impurity",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other obstructions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śodhanaṃ",
+     "gloss": "cleansing",
+     "grounds": "removal of obstructions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "pauruṣaṃ",
+     "gloss": "man-depth",
+     "grounds": "measure of digging",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "one-should-dig",
+     "grounds": "excavation instruction",
+     "morph": "3.sg.act-opt √khan"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What cleansing or excavation depth is required to remove impurities from the ritual ground?",
+   "premises": [
+    "Impurities and similar obstructions may be present.",
+    "Cleansing must be performed.",
+    "Digging to a man’s depth is an alternative or subsequent measure."
+   ],
+   "inference": "One should cleanse impurities and the like, or then dig to the depth of a man.",
+   "uncertainties": [
+    "pauruṣaṃ taken as a man’s depth measure."
+   ],
+   "plain_english": "One should cleanse out pebbles and other impurities, or then dig to the depth of a man."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "diśi",
+     "gloss": "in-direction",
+     "grounds": "locative of orientation",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṅkalpayet",
+     "gloss": "should-designate",
+     "grounds": "ritual determination",
+     "morph": "3.sg.act-opt √saṅ-kḷp"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-priest",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṇḍapañca",
+     "gloss": "pavilion-fivefold",
+     "grounds": "fused form indicating fivefold pavilion division",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vibhāgataḥ",
+     "gloss": "by-division",
+     "grounds": "according to divisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the mantra-priest designate the directions according to the fivefold pavilion division?",
+   "premises": [
+    "The mantra-priest performs the designation.",
+    "Directions must be designated.",
+    "The designation follows the fivefold division of the pavilion."
+   ],
+   "inference": "The mantra-priest should designate the directions according to the fivefold division of the pavilion.",
+   "uncertainties": [
+    "maṇḍapañca treated as a fused form; internal sandhi noted in grounds."
+   ],
+   "plain_english": "The mantra-priest should designate the directions according to the fivefold division of the pavilion."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hastan",
+     "gloss": "cubits",
+     "grounds": "unit of length",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "conditional context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What size is prescribed in the case where only one fire-pit is used?",
+   "premises": [
+    "There is a case of using one fire-pit.",
+    "A measurement in cubits is specified.",
+    "The measure given is five cubits."
+   ],
+   "inference": "In the case of a single fire-pit, the prescribed measure is five cubits.",
+   "uncertainties": [],
+   "plain_english": "In the case of a single fire-pit, it should be five cubits."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to single fire-pit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhasya",
+     "gloss": "of-house",
+     "grounds": "reference structure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "uttara+bhāge",
+     "gloss": "in-northern-part",
+     "grounds": "directional placement within house",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "praśastam",
+     "gloss": "excellent",
+     "grounds": "commended placement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the single fire-pit considered excellent when placed in relation to the house?",
+   "premises": [
+    "There is a single fire-pit.",
+    "It can be placed in a part of the house.",
+    "The northern part is commended."
+   ],
+   "inference": "That single fire-pit is excellent in the northern part of the house.",
+   "uncertainties": [],
+   "plain_english": "That single fire-pit is excellent when placed in the northern part of the house."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-offering",
+     "grounds": "ritual fire offering context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to fire-pit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "gṛha",
+     "gloss": "house",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣaṇam",
+     "gloss": "fault",
+     "grounds": "ritual defect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is placing the fire-pit in the middle of the house a fault during a hundred-thousand-offering rite?",
+   "premises": [
+    "A hundred-thousand-offering rite is performed.",
+    "The fire-pit may be made in the middle of the house.",
+    "This placement is evaluated for fault."
+   ],
+   "inference": "In a hundred-thousand-offering, making it in the middle of the house is not a fault.",
+   "uncertainties": [],
+   "plain_english": "But in a hundred-thousand-offering, if one makes it in the middle of the house, there is no fault."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvāra",
+     "gloss": "door",
+     "grounds": "architectural feature",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "possessing four doors",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "toraṇa",
+     "gloss": "arch",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates other ornaments",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "alaṃkṛtam",
+     "gloss": "adorned",
+     "grounds": "decorated state",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What architectural features and adornments should characterize the ritual pavilion?",
+   "premises": [
+    "The pavilion should have four doors.",
+    "It should be endowed with arches and similar features.",
+    "It should be adorned."
+   ],
+   "inference": "The pavilion should be endowed with four doors and adorned with arches and other ornaments.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with four doors and adorned with arches and other decorations."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "caturasrāṃ",
+     "gloss": "four-cornered",
+     "grounds": "shape of altar",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedīṃ",
+     "gloss": "altar",
+     "grounds": "ritual platform",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maṇḍalāya",
+     "gloss": "for-maṇḍala",
+     "grounds": "purpose of altar",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √pra-kḷp"
+    }
+   ],
+   "question": "What shape of altar should be prepared for the maṇḍala after the pavilion is arranged?",
+   "premises": [
+    "An altar is to be prepared.",
+    "The altar is for the maṇḍala.",
+    "Its shape is specified as four-cornered."
+   ],
+   "inference": "One should then prepare a four-cornered altar for the maṇḍala.",
+   "uncertainties": [],
+   "plain_english": "Then one should prepare a four-cornered altar for the maṇḍala."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "area",
+     "grounds": "ritual field",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhajya",
+     "gloss": "having-divided",
+     "grounds": "prior action",
+     "morph": "(gerund) √vi-bhaj"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṃśe",
+     "gloss": "in-part",
+     "grounds": "subdivision",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūrvā+ādi",
+     "gloss": "beginning-with-east",
+     "grounds": "directional sequence starting from east",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √pari-kḷp"
+    }
+   ],
+   "question": "How should the divided ritual area be arranged beginning from the eastern direction?",
+   "premises": [
+    "The area is divided.",
+    "Arrangement is made in the middle part.",
+    "The arrangement proceeds beginning with the east."
+   ],
+   "inference": "Having divided the area, one should arrange it in the middle part beginning with the east.",
+   "uncertainties": [],
+   "plain_english": "Having divided the area, one should arrange it in the middle part beginning with the east."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āśāsu",
+     "gloss": "in-directions",
+     "grounds": "eight directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "fire-pits",
+     "grounds": "ritual fire receptacles",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ramya",
+     "gloss": "lovely",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākārāṇi",
+     "gloss": "forms",
+     "grounds": "shapes of fire-pits",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "sequential arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many fire-pits of lovely forms should be arranged in the eight directions and in what manner?",
+   "premises": [
+    "There are eight directions.",
+    "Eight fire-pits are to be placed.",
+    "They should have lovely forms and be arranged in order."
+   ],
+   "inference": "Eight fire-pits of lovely forms should be arranged in the eight directions in due order.",
+   "uncertainties": [],
+   "plain_english": "In the eight directions one should arrange eight fire-pits of lovely forms in due order."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "ṣaḍasraṃ",
+     "gloss": "six-cornered",
+     "grounds": "shape name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṅkaja",
+     "gloss": "lotus",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ākāram",
+     "gloss": "shaped",
+     "grounds": "having lotus form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭāsraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "shape name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "them",
+     "grounds": "refers to fire-pits",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "identification by name",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which named shapes, including six-cornered, lotus-shaped, and eight-cornered, identify the fire-pits?",
+   "premises": [
+    "The fire-pits are identified by name.",
+    "Named shapes include six-cornered and eight-cornered.",
+    "A lotus-shaped form is also included."
+   ],
+   "inference": "The fire-pits are identified by name as six-cornered, lotus-shaped, eight-cornered, and so on.",
+   "uncertainties": [],
+   "plain_english": "They are known by name as six-cornered, lotus-shaped, eight-cornered, and so forth."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "on-all-sides",
+     "grounds": "overall shape",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered",
+     "grounds": "shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubha+āvaham",
+     "gloss": "auspicious-bringing",
+     "grounds": "producing auspiciousness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What auspicious quality is attributed to a fire-pit that is four-cornered on all sides?",
+   "premises": [
+    "A fire-pit may be four-cornered on all sides.",
+    "Such a shape is being evaluated.",
+    "It is described as bringing auspiciousness."
+   ],
+   "inference": "A fire-pit that is four-cornered on all sides is auspicious.",
+   "uncertainties": [],
+   "plain_english": "This fire-pit, four-cornered on all sides, is indeed auspicious."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √ni-as"
+    },
+    {
+     "surface": "purastāt",
+     "gloss": "in-front",
+     "grounds": "directional placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekāṃ",
+     "gloss": "one",
+     "grounds": "numeral qualifier",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṃśaṃ",
+     "gloss": "part",
+     "grounds": "unit of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "koṇa",
+     "gloss": "corner",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arddha",
+     "gloss": "half",
+     "grounds": "fractional measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arddha",
+     "gloss": "half",
+     "grounds": "repeated fractional measure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "by-measure",
+     "grounds": "according to measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement procedure is prescribed for placing one part in front when forming the fire-pit?",
+   "premises": [
+    "One part is to be placed in front.",
+    "The placement follows a specific measure.",
+    "The measure involves corner and half divisions."
+   ],
+   "inference": "One should place one part in front according to the measure of corner, half, and half.",
+   "uncertainties": [
+    "koṇa-arddha-arddha-pramāṇataḥ is a technical measurement phrase; interpreted as corner and successive half measures."
+   ],
+   "plain_english": "One should place one part in front according to the measure of a corner and half and half."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "sūtra",
+     "gloss": "thread",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "two threads",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoni",
+     "gloss": "womb",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nibhaṃ",
+     "gloss": "resembling",
+     "grounds": "similar in form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "resulting form",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "How does laying a pair of threads produce a fire-pit resembling a womb?",
+   "premises": [
+    "A pair of threads is laid.",
+    "This action shapes the fire-pit.",
+    "The resulting form resembles a womb."
+   ],
+   "inference": "By laying a pair of threads, the fire-pit becomes womb-shaped.",
+   "uncertainties": [],
+   "plain_english": "Then one should lay a pair of threads, and the fire-pit will resemble a womb."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "arddha",
+     "gloss": "half",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nibhaṃ",
+     "gloss": "resembling",
+     "grounds": "similar in form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ramaṇīyam",
+     "gloss": "delightful",
+     "grounds": "aesthetic quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "resulting form",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What delightful form does the fire-pit take when it resembles a half-moon?",
+   "premises": [
+    "The fire-pit can resemble a half-moon.",
+    "This form is being described.",
+    "The form is delightful."
+   ],
+   "inference": "This fire-pit becomes delightful in a form resembling a half-moon.",
+   "uncertainties": [],
+   "plain_english": "This fire-pit will be delightful, resembling a half-moon."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "jyā",
+     "gloss": "bowstring",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "cord used as bowstring",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "one-should-cast",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-caus-opt √pat"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "forward placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śara",
+     "gloss": "arrow",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avārddhatayā",
+     "gloss": "by-halfness",
+     "grounds": "measure related to half arrow",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "since",
+     "grounds": "reason or condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should the bowstring-thread be cast in front according to the half-arrow measure?",
+   "premises": [
+    "A bowstring-thread is to be cast in front.",
+    "The casting follows a half-arrow measure.",
+    "This measure provides the reason for the procedure."
+   ],
+   "inference": "One should cast the bowstring-thread in front because of the half-arrow measure.",
+   "uncertainties": [
+    "śara-avārddhatayā is a technical geometric term; rendered as by half-arrow measure."
+   ],
+   "plain_english": "One should cast the bowstring-thread in front, since it is by the measure of half an arrow."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "sūtra",
+     "gloss": "thread",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "three threads",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "tryasraṃ",
+     "gloss": "three-cornered",
+     "grounds": "triangular shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does using three threads produce the fire-pit declared to be three-cornered?",
+   "premises": [
+    "A wise person uses three threads.",
+    "This construction forms a fire-pit.",
+    "The resulting fire-pit is declared three-cornered."
+   ],
+   "inference": "The wise one should make three threads, and the fire-pit is declared three-cornered.",
+   "uncertainties": [],
+   "plain_english": "The wise one should lay three threads; that is declared to be the three-cornered fire-pit."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "circular drawing action",
+     "morph": "3.sg.act-caus-opt √bhram"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental reference",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "radius or measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circular",
+     "grounds": "round shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does rotating by a fixed measure produce the fire-pit declared to be circular?",
+   "premises": [
+    "A rotation is performed by a fixed measure.",
+    "This action shapes the fire-pit.",
+    "The resulting fire-pit is declared circular."
+   ],
+   "inference": "By rotating with that measure, the fire-pit is declared circular.",
+   "uncertainties": [],
+   "plain_english": "One should rotate by that measure; that is declared to be the circular fire-pit."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "unit of division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √ni-as"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "repeated numeral qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental reference",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "standard of measurement",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-middle",
+     "grounds": "central placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What placement of parts by a given measure in the middle is required for constructing the fire-pit?",
+   "premises": [
+    "Parts are to be placed in the middle.",
+    "The placement uses a given measure.",
+    "One part is placed at a time by that measure."
+   ],
+   "inference": "One should place one part at a time in the middle by this measure.",
+   "uncertainties": [],
+   "plain_english": "One should place one part and another in the middle by this measure."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "sūtra",
+     "gloss": "thread",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṣaṭkaṃ",
+     "gloss": "six",
+     "grounds": "group of six threads",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "ṣaḍasraṃ",
+     "gloss": "six-cornered",
+     "grounds": "hexagonal shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire receptacle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-stated",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does laying six threads produce the fire-pit stated to be six-cornered?",
+   "premises": [
+    "Six threads are laid.",
+    "This action shapes the fire-pit.",
+    "The resulting fire-pit is stated to be six-cornered."
+   ],
+   "inference": "By laying six threads, the fire-pit is stated to be six-cornered.",
+   "uncertainties": [],
+   "plain_english": "Then one should lay six threads; that is stated to be the six-cornered fire-pit."
+  }
+ ]
+}

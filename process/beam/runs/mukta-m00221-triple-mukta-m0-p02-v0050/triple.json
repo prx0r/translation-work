@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "maṇigraiveyaka",
+     "gloss": "gem-necklace",
+     "grounds": "compound of gem and necklace; describes an adornment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpalasadgīvābjasundarā",
+     "gloss": "kalpa-shining-neck-lotus-beautiful",
+     "grounds": "compound describing a shining neck-lotus beauty associated with kalpa",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which adornments and bodily beauties characterize the goddess in this passage?",
+   "premises": [
+    "The goddess wears a gem necklace.",
+    "Her neck-lotus shines like kalpa.",
+    "She is described as beautiful."
+   ],
+   "inference": "The verse presents the goddess as adorned with a gem necklace and beautiful in her shining neck-lotus.",
+   "uncertainties": [
+    "The exact noun modified by these adjectives is not explicit in the supplied tokens."
+   ],
+   "plain_english": "She wears a gem necklace and is beautiful with a neck-lotus shining like kalpa."
+  }
+ ]
+}

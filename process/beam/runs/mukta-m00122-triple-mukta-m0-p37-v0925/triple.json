@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pareṇa",
+     "gloss": "beyond",
+     "grounds": "instrumental singular of para, indicating the next or farther yantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yantreṇa",
+     "gloss": "yantra",
+     "grounds": "instrumental singular of yantra, the ritual instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "khātena",
+     "gloss": "dug",
+     "grounds": "instrumental singular of khāta, describing the yantra as excavated or dug",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dharaṇitale",
+     "gloss": "on-earth-surface",
+     "grounds": "locative singular of dharaṇi-tala, the surface of the earth",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Which yantra is installed after the thirty-two yantras are combined?",
+   "premises": [
+    "thirty-two yantras are combined",
+    "a further yantra is dug",
+    "it is placed on earth surface"
+   ],
+   "inference": "the next yantra is installed beyond the thirty-two",
+   "uncertainties": [
+    "exact ritual function of the dug yantra remains unclear"
+   ],
+   "plain_english": "Then, by the yantra beyond, dug into the earth's surface."
+  }
+ ]
+}

@@ -1,0 +1,553 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1488,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-worship-etc",
+     "grounds": "compound: dhyāna+coord, pūjā+coord, ādika+head; accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective qualifying dhyānapūjādikaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samupācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction for ritual performance",
+     "morph": "3.sg.act.opt √car+upa+sam"
+    }
+   ],
+   "question": "How should meditation, worship, and related rites be performed in this context?",
+   "premises": [
+    "Meditation, worship, and related acts are prescribed",
+    "The full set of these acts is included",
+    "They are to follow the previous procedure"
+   ],
+   "inference": "One should perform all meditation, worship, and related rites as before",
+   "uncertainties": [],
+   "plain_english": "One should perform all meditation, worship, and the other rites just as before."
+  },
+  {
+   "verse": 1489,
+   "rows": [
+    {
+     "surface": "tattā svāheti",
+     "gloss": "tattā-svāhā-thus",
+     "grounds": "mantra formula with quotative particle; bīja/mantra syllables transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying mantraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "compound: daśa+first, akṣara+second; predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp √hṛ+ud+ā"
+    }
+   ],
+   "question": "What is the form and syllable count of the mantra declared here?",
+   "premises": [
+    "A specific mantra formula is cited as tattā svāhā",
+    "This mantra is identified as the present one",
+    "Its syllabic measure is specified"
+   ],
+   "inference": "The mantra tattā svāhā is declared to be ten-syllabled",
+   "uncertainties": [
+    "Exact syllable parsing of tattā svāheti depends on ritual convention"
+   ],
+   "plain_english": "This mantra, 'tattā svāhā', is declared to consist of ten syllables."
+  },
+  {
+   "verse": 1490,
+   "rows": [
+    {
+     "surface": "ratnapādukayoḥ",
+     "gloss": "on-jewel-sandals",
+     "grounds": "compound: ratna+first, pādukā+head; locative of placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "nyasta",
+     "gloss": "placed",
+     "grounds": "past participle describing pādāmbujayugāṃ",
+     "morph": "n.acc.sg.ppp √as+ni"
+    },
+    {
+     "surface": "pādāmbujayugāṃ",
+     "gloss": "lotus-feet-pair",
+     "grounds": "compound: pāda+first, ambuja+first, yuga+head; object of meditation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-meditate",
+     "grounds": "optative injunction for visualization",
+     "morph": "3.sg.act.opt √smṛ"
+    }
+   ],
+   "question": "What visualization of the deity's feet is prescribed for meditation?",
+   "premises": [
+    "A pair of lotus feet is the object of meditation",
+    "The feet are placed on jeweled sandals",
+    "Meditative recollection is enjoined"
+   ],
+   "inference": "One should meditate on the pair of lotus feet placed on jeweled sandals",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the pair of lotus feet placed upon jeweled sandals."
+  },
+  {
+   "verse": 1491,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound: daśa+first, aṃśa+head; measure of oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative injunction for fire oblation",
+     "morph": "3.sg.act.opt √hu"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing the oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghṛtāktaiḥ",
+     "gloss": "smeared-with-ghee",
+     "grounds": "compound: ghṛta+first, akta+head; instrumental describing offerings",
+     "morph": "n.ins.pl.ppp √añj"
+    },
+    {
+     "surface": "raktapuṣpakaiḥ",
+     "gloss": "with-red-flowers",
+     "grounds": "compound: rakta+first, puṣpaka+head; instrumental of oblation material",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What oblation quantity and materials must the mantra practitioner offer in fire?",
+   "premises": [
+    "The mantra practitioner is the agent of oblation",
+    "A tenth part is specified as the measure",
+    "Red flowers smeared with ghee are the offering materials"
+   ],
+   "inference": "The mantra practitioner should offer a tenth part using red flowers smeared with ghee",
+   "uncertainties": [
+    "The base quantity of which a tenth is offered is implied from prior context"
+   ],
+   "plain_english": "The mantra practitioner should offer a tenth part as oblation with red flowers smeared with ghee."
+  },
+  {
+   "verse": 1492,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-worship-etc",
+     "grounds": "compound: dhyāna+coord, pūjā+coord, ādika+head; accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective qualifying dhyānapūjādikaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction for ritual performance",
+     "morph": "3.sg.act.opt √car+sam+ā"
+    }
+   ],
+   "question": "How should meditation, worship, and related rites be carried out again here?",
+   "premises": [
+    "Meditation, worship, and related acts are again prescribed",
+    "The full set of these acts is included",
+    "They are to follow the previous procedure"
+   ],
+   "inference": "One should again perform all meditation, worship, and related rites as before",
+   "uncertainties": [],
+   "plain_english": "And one should perform all meditation, worship, and the other rites just as before."
+  },
+  {
+   "verse": 1493,
+   "rows": [
+    {
+     "surface": "māye svāheti",
+     "gloss": "māye-svāhā-thus",
+     "grounds": "mantra formula with quotative particle; bīja/mantra syllables transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying mantraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp √vac+pra"
+    },
+    {
+     "surface": "saptadaśākṣaraḥ",
+     "gloss": "seventeen-syllabled",
+     "grounds": "compound: saptadaśa+first, akṣara+second; predicate adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the form and syllable count of the mantra declared as māye svāhā?",
+   "premises": [
+    "A specific mantra formula is cited as māye svāhā",
+    "This mantra is identified as the present one",
+    "Its syllabic measure is specified"
+   ],
+   "inference": "The mantra māye svāhā is declared to be seventeen-syllabled",
+   "uncertainties": [
+    "Exact syllable parsing of māye svāheti depends on ritual convention"
+   ],
+   "plain_english": "This mantra, 'māye svāhā', is declared to consist of seventeen syllables."
+  },
+  {
+   "verse": 1494,
+   "rows": [
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "object of the action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun referring to the preceding mantra or vidyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction for recitation",
+     "morph": "3.sg.act.opt √car"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "adrutakaviḥ",
+     "gloss": "unfaltering-poet",
+     "grounds": "compound: a+neg, druta+first, kavi+head; resultative predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb indicating manner or confirmation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is promised to one who performs recitation of this mantra?",
+   "premises": [
+    "Recitation of this mantra is undertaken by a practitioner",
+    "A specific outcome is linked to that recitation",
+    "The outcome concerns poetic ability"
+   ],
+   "inference": "Whoever performs recitation of this mantra becomes an unfaltering poet",
+   "uncertainties": [
+    "The antecedent of asyāḥ may be the immediately preceding mantra or a related vidyā"
+   ],
+   "plain_english": "Whoever performs the recitation of this mantra will become an unfaltering poet."
+  },
+  {
+   "verse": 1495,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun qualifying vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭākṣarī",
+     "gloss": "eight-syllabled",
+     "grounds": "compound: aṣṭa+first, akṣara+second; adjective describing vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge-formula",
+     "grounds": "subject described as declared and rare",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "f.nom.sg.ppp √kath"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating sphere of rarity",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "rare",
+     "grounds": "compound: dur+first, labha+head; predicate adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What status and rarity are attributed to this eight-syllabled vidyā on earth?",
+   "premises": [
+    "A vidyā is identified as eight-syllabled",
+    "This vidyā has been declared in the teaching",
+    "Its availability on earth is characterized"
+   ],
+   "inference": "This eight-syllabled vidyā is declared to be rare on earth",
+   "uncertainties": [],
+   "plain_english": "This eight-syllabled vidyā is declared to be rare on earth."
+  },
+  {
+   "verse": 1496,
+   "rows": [
+    {
+     "surface": "anayoḥ",
+     "gloss": "of-these-two",
+     "grounds": "demonstrative pronoun referring to two previously mentioned items",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "japapūjādīn",
+     "gloss": "recitation-worship-etc",
+     "grounds": "compound: japa+coord, pūjā+coord, ādi+head; accusative object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pañcākṣarīvat",
+     "gloss": "like-five-syllabled",
+     "grounds": "compound: pañca+first, akṣarī+head with comparative suffix; procedural analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction for ritual performance",
+     "morph": "3.sg.act.opt √car+ā"
+    }
+   ],
+   "question": "How should recitation, worship, and related rites be performed for these two?",
+   "premises": [
+    "Two entities are the referents for the prescribed rites",
+    "Recitation, worship, and related acts are included",
+    "The procedure is modeled on that of the five-syllabled mantra"
+   ],
+   "inference": "One should perform recitation, worship, and related rites for these two as for the five-syllabled mantra",
+   "uncertainties": [
+    "The exact identity of the two referents in anayoḥ depends on the immediately preceding context"
+   ],
+   "plain_english": "For these two, one should perform recitation, worship, and the other rites just as for the five-syllabled mantra."
+  },
+  {
+   "verse": 1497,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "at-its-end",
+     "grounds": "compound: tad+first, anta+head; locative of position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭkāraḥ",
+     "gloss": "phaṭ-syllable",
+     "grounds": "compound: phaṭ+first, kāra+head; mantra element transliterated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the conditional clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcākṣaraḥ",
+     "gloss": "five-syllabled",
+     "grounds": "compound: pañca+first, akṣara+second; predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing conditional result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What mantra form results if the phaṭ syllable is added at its end?",
+   "premises": [
+    "A condition concerns adding an element at the end",
+    "The added element is the phaṭ syllable",
+    "A resulting syllable count is specified"
+   ],
+   "inference": "If the phaṭ syllable is placed at its end, the mantra becomes five-syllabled",
+   "uncertainties": [
+    "The antecedent of tadante depends on the preceding mantra context"
+   ],
+   "plain_english": "If the phaṭ syllable is added at its end, the mantra becomes five-syllabled."
+  },
+  {
+   "verse": 1498,
+   "rows": [
+    {
+     "surface": "vadhūbījam",
+     "gloss": "vadhū-seed",
+     "grounds": "compound: vadhū+first, bīja+head; mantra seed designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aparaḥ",
+     "gloss": "another",
+     "grounds": "adjective indicating an alternative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇākṣaraḥ",
+     "gloss": "three-syllabled",
+     "grounds": "compound: guṇa+first, akṣara+second; predicate adjective using guṇa as three",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative mantra is identified as the vadhū seed and how many syllables does it have?",
+   "premises": [
+    "An alternative mantra is being identified",
+    "It is designated as the vadhū seed",
+    "Its syllable count is specified as three"
+   ],
+   "inference": "Another mantra, the vadhū seed, is three-syllabled",
+   "uncertainties": [
+    "The specific phonetic form of vadhūbījam is not spelled out in this verse"
+   ],
+   "plain_english": "Another mantra is the vadhū seed, and it consists of three syllables."
+  },
+  {
+   "verse": 1499,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "by-another-method",
+     "grounds": "compound: anya+first, prakāra+head; instrumental of manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "preliminary-rite",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "present passive indicating teaching",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "Is an alternative method for the preliminary rite being introduced here?",
+   "premises": [
+    "An alternative is introduced by athavā",
+    "A different method is indicated",
+    "The subject is the preliminary rite"
+   ],
+   "inference": "Alternatively, the preliminary rite is stated according to another method",
+   "uncertainties": [],
+   "plain_english": "Or else, the preliminary rite is described according to another method."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "prajapet+yatnato",
+     "gloss": "should-recite-with-effort",
+     "grounds": "fused sandhi form; optative of prajap with yatnatas",
+     "morph": "3.sg.act.opt.+root prajap"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negative adverbial",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "present indicative of sidh",
+     "morph": "3.sg.act.prs.+root sidh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb of certainty",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What condition does the goddess require for mantra recitation to succeed?",
+   "premises": [
+    "recitation must be performed with effort",
+    "no other way leads to success",
+    "success is certain when done so"
+   ],
+   "inference": "Effortful recitation is the necessary condition for success.",
+   "uncertainties": [
+    "sandhi fusion in first token is not expanded"
+   ],
+   "plain_english": "O goddess, one should recite with effort; otherwise it does not succeed; certainly."
+  }
+ ]
+}

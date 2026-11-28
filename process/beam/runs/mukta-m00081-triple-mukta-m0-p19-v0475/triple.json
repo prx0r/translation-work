@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "guṇino",
+     "gloss": "of-the-qualified",
+     "grounds": "genitive singular of guṇin, possessor of qualities; sandhi form guṇinaḥ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nīyate",
+     "gloss": "is-led",
+     "grounds": "passive verb indicating being carried or directed",
+     "morph": "3.sg.pass-pres; √nī"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛṣārtaiḥ",
+     "gloss": "by-thirst-afflicted",
+     "grounds": "instrumental plural of tṛṣārta, those tormented by thirst",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākṛtiṃ",
+     "gloss": "toward-form",
+     "grounds": "accusative singular of ākṛti, shape or appearance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "indeclinable postposition governing accusative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does thirst-driven perception redirect cognition from a qualified object to mere outward form?",
+   "premises": [
+    "Cognition of a qualified object can be led elsewhere.",
+    "Those afflicted by thirst are the agents of this redirection.",
+    "The redirection is oriented toward mere outward form."
+   ],
+   "inference": "Therefore, desire-driven perception displaces apprehension of an object's qualities toward its mere appearance.",
+   "uncertainties": [
+    "The exact subject implicitly carried over from the previous verse is not explicitly stated in this verse."
+   ],
+   "plain_english": "And by those afflicted by thirst, the cognition of the qualified object is led elsewhere, toward mere outward form."
+  }
+ ]
+}

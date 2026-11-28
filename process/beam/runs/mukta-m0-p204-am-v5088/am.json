@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p204",
+ "verse": 5088,
+ "question": "How are the zodiac signs Cancer, Leo, and Virgo positioned in this scheme?",
+ "premises": [
+  "Cancer and Leo are named in sequence",
+  "Virgo is located in the southwest relative to them",
+  "The verse describes spatial placement"
+ ],
+ "inference": "After Cancer and Leo, Virgo is situated in the southwest.",
+ "uncertainties": [
+  "The exact reference point for 'southwest' is not fully explicit."
+ ],
+ "plain_english": "After Cancer and Leo, Virgo is situated in the southwest."
+}

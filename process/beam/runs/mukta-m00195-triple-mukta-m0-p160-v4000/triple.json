@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "tadadhastāt",
+     "gloss": "below-that",
+     "grounds": "adverbial compound indicating location beneath the previously mentioned point",
+     "morph": "compound tad+adhastāt (indecl.)"
+    },
+    {
+     "surface": "kṣudraghaṇṭā",
+     "gloss": "small-bell",
+     "grounds": "names an object in the described arrangement",
+     "morph": "f.nom.sg, compound kṣudra+ghaṇṭā"
+    },
+    {
+     "surface": "patitā",
+     "gloss": "fallen",
+     "grounds": "describes the state or position of the small bell",
+     "morph": "f.nom.sg, ppp √pat"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects an additional item in the same location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upapīṭhakam",
+     "gloss": "sub-seat",
+     "grounds": "names an additional object present below that location",
+     "morph": "n.nom.sg, compound upa+pīṭhaka"
+    }
+   ],
+   "question": "What objects are situated below that location in the described arrangement?",
+   "premises": [
+    "The location in question is below that previously mentioned point.",
+    "A small bell is present there in a fallen state.",
+    "A sub-seat is also present in that same location."
+   ],
+   "inference": "Below that location there is a fallen small bell together with a sub-seat.",
+   "uncertainties": [
+    "Whether patitā indicates a fallen position or a ritually placed downward orientation is not explicit."
+   ],
+   "plain_english": "Below that, a small bell has fallen, and there is also a sub-seat."
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "song": "kul-p11",
+ "items": [
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "dīkṣām",
+     "gloss": "initiation",
+     "grounds": "object of undertaking",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upeyād",
+     "gloss": "one-should-undertake",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act (upa+i)"
+    },
+    {
+     "surface": "ityādyāḥ",
+     "gloss": "thus-and-so-forth",
+     "grounds": "indicates similar scriptural statements",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "valid-authority",
+     "grounds": "epistemic status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrutayaḥ",
+     "gloss": "scriptures",
+     "grounds": "revealed texts as source",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why do scriptural injunctions to undertake initiation constitute valid authority?",
+   "premises": [
+    "Scriptures prescribe undertaking initiation.",
+    "Such scriptures are cited as beginning with injunctions like undertaking initiation.",
+    "Revealed scriptures function as valid authority."
+   ],
+   "inference": "Therefore, scriptural statements enjoining initiation are authoritative.",
+   "uncertainties": [],
+   "plain_english": "O beloved, scriptures that say one should undertake initiation and so forth are valid authority."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "manner of exposition",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kulaśāni",
+     "gloss": "o-goddess-of-kula",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative object",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "additional extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "desired action",
+     "morph": "inf. (śru)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-wish",
+     "grounds": "listener's desire",
+     "morph": "2.sg.pres.act (iṣ)"
+    }
+   ],
+   "question": "What further teaching does the goddess of Kula wish to hear briefly?",
+   "premises": [
+    "The speaker addresses the goddess of Kula.",
+    "The exposition has been given in brief.",
+    "The listener may desire to hear more."
+   ],
+   "inference": "The speaker asks what more the listener wishes to hear.",
+   "uncertainties": [],
+   "plain_english": "O goddess of Kula, what more do you wish to hear in brief?"
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "kula+māhātmya+kathanaṃ",
+     "gloss": "narration-of-kula-greatness",
+     "grounds": "title of section",
+     "morph": "n.nom.sg (compound: kula+māhātmya+kathana)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīya+ullāsaḥ",
+     "gloss": "second-chapter",
+     "grounds": "section identifier",
+     "morph": "m.nom.sg (compound: dvitīya+ullāsa)"
+    }
+   ],
+   "question": "Which chapter bears the title narration of the greatness of Kula?",
+   "premises": [
+    "A narration of the greatness of Kula is named.",
+    "The named section is identified as a chapter.",
+    "That chapter is the second one."
+   ],
+   "inference": "The second chapter is titled the narration of the greatness of Kula.",
+   "uncertainties": [],
+   "plain_english": "This is the second chapter, named the narration of the greatness of Kula."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "ūrdhvāmnāyañ",
+     "gloss": "upper-tradition",
+     "grounds": "object of request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects requested items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tan+mantraṃ",
+     "gloss": "its-mantra",
+     "grounds": "associated sacred formula",
+     "morph": "m.acc.sg (compound: tad+mantra)"
+    },
+    {
+     "surface": "māhātmyaṃ",
+     "gloss": "greatness",
+     "grounds": "excellence to be explained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "request for instruction",
+     "morph": "2.sg.imp.act (vad)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of instruction",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "address to speaker",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request is made to the lord regarding the upper tradition and its mantra?",
+   "premises": [
+    "The upper tradition is an object of inquiry.",
+    "Its mantra and greatness are also sought.",
+    "The lord is asked to explain them."
+   ],
+   "inference": "The listener requests the lord to tell of the upper tradition, its mantra, and its greatness.",
+   "uncertainties": [],
+   "plain_english": "O lord, tell me about the upper tradition, its mantra, and its greatness."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previously mentioned teaching",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "śravaṇa+mātreṇa",
+     "gloss": "by-mere-hearing",
+     "grounds": "minimal condition of reception",
+     "morph": "n.inst.sg (compound: śravaṇa+mātra)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence affected",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suprasīdati",
+     "gloss": "becomes-well-pleased",
+     "grounds": "resulting divine favor",
+     "morph": "3.sg.pres.act (su-pra-sad)"
+    }
+   ],
+   "question": "What effect does merely hearing that teaching have upon the deity?",
+   "premises": [
+    "The teaching can be heard.",
+    "Mere hearing is sufficient contact with it.",
+    "The deity responds favorably to that hearing."
+   ],
+   "inference": "By merely hearing it, the deity becomes well pleased.",
+   "uncertainties": [],
+   "plain_english": "By merely hearing it, the deity becomes well pleased."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's promise to explain",
+     "morph": "1.sg.pres.act (kath)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "recipient of teaching",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "snehād",
+     "gloss": "out-of-affection",
+     "grounds": "motive for disclosure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ūrdhvāmnāyaṃ",
+     "gloss": "upper-tradition",
+     "grounds": "subject to be revealed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to attend",
+     "morph": "2.sg.imp.act (śru)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why does the speaker agree to reveal the upper tradition to the beloved?",
+   "premises": [
+    "The speaker promises to tell the upper tradition.",
+    "Affection motivates the disclosure.",
+    "The listener is urged to listen."
+   ],
+   "inference": "Out of affection, the speaker will reveal the upper tradition to the beloved.",
+   "uncertainties": [],
+   "plain_english": "Out of affection I will tell you of the upper tradition; listen, O beloved."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "śaiva+śākta+āgamāḥ",
+     "gloss": "shaiva-shakta-scriptures",
+     "grounds": "class of tantric texts",
+     "morph": "m.nom.pl (compound: śaiva+śākta+āgama)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of that class",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rahasyāḥ",
+     "gloss": "secret",
+     "grounds": "esoteric status",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parikīttītāḥ",
+     "gloss": "declared",
+     "grounds": "traditional characterization",
+     "morph": "m.nom.pl.past-pass.part (pari-kīrt)"
+    }
+   ],
+   "question": "How are all Shaiva and Shakta scriptures characterized in this teaching?",
+   "premises": [
+    "Shaiva and Shakta scriptures form a recognized class.",
+    "All members of this class are considered together.",
+    "They are declared to be secret."
+   ],
+   "inference": "All Shaiva and Shakta scriptures are declared secret.",
+   "uncertainties": [
+    "The exact form parikīttītāḥ may reflect a textual variant of parikīrtitāḥ."
+   ],
+   "plain_english": "All the Shaiva and Shakta scriptures are declared to be secret."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "rahasyāt+irahasyānāṃ",
+     "gloss": "of-secrets-of-secrets",
+     "grounds": "comparative superlative secrecy",
+     "morph": "n.gen.pl (compound: rahasya+atirahasya)"
+    },
+    {
+     "surface": "rahasyam",
+     "gloss": "secret",
+     "grounds": "esoteric nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "refers to present teaching",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "ambike",
+     "gloss": "o-mother",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What degree of secrecy is attributed to this teaching addressed to the Mother?",
+   "premises": [
+    "There exist secrets beyond ordinary secrets.",
+    "This teaching is compared to them.",
+    "It is identified as their secret."
+   ],
+   "inference": "This teaching is the secret of secrets.",
+   "uncertainties": [],
+   "plain_english": "O Mother, this is the secret of secrets."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "sugopitaṃ",
+     "gloss": "well-concealed",
+     "grounds": "prior protected status",
+     "morph": "n.nom.sg.past-pass.part (su-gup)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of concealment",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "yatnād",
+     "gloss": "with-effort",
+     "grounds": "deliberate care",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "idānīn",
+     "gloss": "now",
+     "grounds": "present moment of change",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast with prior concealment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyate",
+     "gloss": "is-revealed",
+     "grounds": "current disclosure",
+     "morph": "3.sg.pres.pass (pra-kāś)"
+    }
+   ],
+   "question": "What change occurs now regarding the teaching previously concealed with effort?",
+   "premises": [
+    "The teaching was well concealed by the speaker.",
+    "The concealment was maintained with effort.",
+    "Now a contrasting action takes place."
+   ],
+   "inference": "The teaching that was carefully concealed is now being revealed.",
+   "uncertainties": [],
+   "plain_english": "I carefully kept it well concealed, but now it is being revealed."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "ūrdhvāmnāyaś",
+     "gloss": "upper-tradition",
+     "grounds": "subject joined with others",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in set",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "total count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative reference to set",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "mokṣa+mārgāḥ",
+     "gloss": "paths-to-liberation",
+     "grounds": "soteriological routes",
+     "morph": "m.nom.pl (compound: mokṣa+mārga)"
+    },
+    {
+     "surface": "prakīttītāḥ",
+     "gloss": "declared",
+     "grounds": "traditional proclamation",
+     "morph": "m.nom.pl.past-pass.part (pra-kīrt)"
+    }
+   ],
+   "question": "How many paths to liberation are declared together with the upper tradition?",
+   "premises": [
+    "The upper tradition is included in a set.",
+    "The set is counted as five.",
+    "These are declared paths to liberation."
+   ],
+   "inference": "The upper tradition and these others are declared as five paths to liberation.",
+   "uncertainties": [
+    "The exact form prakīttītāḥ may reflect a textual variant of prakīrtitāḥ."
+   ],
+   "plain_english": "The upper tradition and these others are declared to be five paths to liberation."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "assertion of validity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "refers to stated claim",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "o-fair-hipped-one",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "prescribed action denied",
+     "morph": "f.nom.sg.fut-pass.part (kṛ)"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "doubtful examination",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attitude toward deliberation is enjoined regarding this declared truth?",
+   "premises": [
+    "The statement is affirmed as truth.",
+    "The listener is directly addressed.",
+    "Deliberation in this matter is negated."
+   ],
+   "inference": "This is true, and no deliberation should be made about it here.",
+   "uncertainties": [],
+   "plain_english": "This is true, O fair-hipped one; no deliberation should be made about it here."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "asmin+tantre",
+     "gloss": "in-this-tantra",
+     "grounds": "textual locus of declaration",
+     "morph": "n.loc.sg (compound: idam+tantra)"
+    },
+    {
+     "surface": "samākhyātāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.pl.past-pass.part (sam-ā-khyā)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "previously",
+     "grounds": "earlier point in exposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to previously mentioned paths",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "o-lady-of-kula",
+     "grounds": "address to listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where were those paths previously declared to the lady of Kula?",
+   "premises": [
+    "Certain paths were mentioned earlier.",
+    "This tantra is the locus of teaching.",
+    "The declaration was made previously in it."
+   ],
+   "inference": "Those paths were previously declared in this tantra.",
+   "uncertainties": [],
+   "plain_english": "O lady of Kula, they were previously declared in this tantra."
+  }
+ ]
+}

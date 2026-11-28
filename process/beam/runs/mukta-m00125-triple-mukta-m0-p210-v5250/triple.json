@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p210",
+ "items": [
+  {
+   "verse": 5250,
+   "rows": [
+    {
+     "surface": "śailaṃ",
+     "gloss": "mountain",
+     "grounds": "object to be fashioned",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt~√kṛ"
+    },
+    {
+     "surface": "tatatpārśve",
+     "gloss": "at-its-side",
+     "grounds": "locative compound indicating place beside that",
+     "morph": "compound(tad+pārśva).n.loc.sg"
+    },
+    {
+     "surface": "vaṭavṛkṣaḥ",
+     "gloss": "banyan-tree",
+     "grounds": "specified tree at the location",
+     "morph": "compound(vaṭa+vṛkṣa).m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śādvalaḥ",
+     "gloss": "grassy",
+     "grounds": "qualifies the banyan tree or its setting",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What natural features must be fashioned at the side of that location?",
+   "premises": [
+    "A mountain should be fashioned at that side.",
+    "A banyan tree should be present at that side.",
+    "The banyan tree should be characterized as grassy."
+   ],
+   "inference": "The prescribed site must include a mountain and a grassy banyan tree at its side.",
+   "uncertainties": [
+    "Whether śādvalaḥ qualifies the banyan tree directly or describes the surrounding ground."
+   ],
+   "plain_english": "One should make a mountain at its side, and there should indeed be a grassy banyan tree."
+  }
+ ]
+}

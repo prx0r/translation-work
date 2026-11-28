@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "sūrya-jyotiṣi",
+     "gloss": "in-sun-light",
+     "grounds": "locative singular neuter of jyotiṣ in sun-light",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "siddheśaḥ",
+     "gloss": "siddhesha",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atravasaṃti",
+     "gloss": "there-dwell",
+     "grounds": "third person plural present active of vas with atra",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five siddhas dwell in the sun's light under Siddhesha?",
+   "premises": [
+    "Siddhesha is named in sun-light.",
+    "Five beings dwell there.",
+    "The particle hi affirms."
+   ],
+   "inference": "The verse states five siddhas dwell in sun-light with Siddhesha.",
+   "uncertainties": [
+    "Exact identity of the five siddhas is not given."
+   ],
+   "plain_english": "In the sun's light, Siddhesha; five dwell there indeed."
+  }
+ ]
+}

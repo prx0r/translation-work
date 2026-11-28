@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4625,
+   "rows": [
+    {
+     "surface": "śailam",
+     "gloss": "stone",
+     "grounds": "accusative object of nyaset",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpane",
+     "gloss": "at-installation",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "gem",
+     "grounds": "object or compound member before ādyam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādyam",
+     "gloss": "etc",
+     "grounds": "adjective qualifying ratna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative main verb",
+     "morph": "v.3.sg.opt.act (root nyas)"
+    }
+   ],
+   "question": "Should a stone be placed at installation time along with gems and so forth according to rule?",
+   "premises": [
+    "stone placement occurs at installation time",
+    "gems and others are placed",
+    "placement follows rule"
+   ],
+   "inference": "At installation time one should place stone, gems, and so forth according to rule.",
+   "uncertainties": [
+    "exact grammatical case of ratna unclear",
+    "scope of ādyam uncertain"
+   ],
+   "plain_english": "If at installation time, one should place stone, gems, and so forth according to rule."
+  }
+ ]
+}

@@ -1,0 +1,1180 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each-separately",
+     "grounds": "adverbial distributive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyunā",
+     "gloss": "with-wind",
+     "grounds": "instrument of striking",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāḍanaṃ",
+     "gloss": "striking",
+     "grounds": "ritual action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to stated action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What ritual striking action is declared for the mantra-practitioner to perform with wind?",
+   "premises": [
+    "The mantra-practitioner performs striking with wind.",
+    "This striking is done each separately.",
+    "That action is declared in the text."
+   ],
+   "inference": "The prescribed action is a separate striking performed with wind by the mantra-practitioner.",
+   "uncertainties": [],
+   "plain_english": "It is declared that the mantra-practitioner should perform that striking separately with wind."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "tanmantrākṣarasaṃkhyātair",
+     "gloss": "by-that-mantra-syllable-count",
+     "grounds": "instrumental compound indicating number of strikes",
+     "morph": "compound: tat+mantra+akṣara+saṃkhyāta+ins.pl.m"
+    },
+    {
+     "surface": "hanyād",
+     "gloss": "should-strike",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √han"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "manner of action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bodhanam",
+     "gloss": "awakening",
+     "grounds": "object or purpose of striking",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many strikes and with what effort should awakening be performed?",
+   "premises": [
+    "Striking should be done with effort.",
+    "The number of strikes equals the syllables of that mantra.",
+    "The action aims at awakening."
+   ],
+   "inference": "Awakening should be effected by striking carefully as many times as there are syllables in that mantra.",
+   "uncertainties": [
+    "Whether bodhanam is the object struck or the result produced is context-dependent."
+   ],
+   "plain_english": "One should strike with effort for awakening as many times as there are syllables in that mantra."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "aśvatthapallavair",
+     "gloss": "with-aśvattha-leaves",
+     "grounds": "ritual implement",
+     "morph": "compound: aśvattha+pallava+ins.pl.m"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of sprinkling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhiṣiñced",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √sic"
+    },
+    {
+     "surface": "viśuddhaye",
+     "gloss": "for-purification",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What means and purpose govern the sprinkling of the mantra for purification?",
+   "premises": [
+    "The mantra is to be sprinkled.",
+    "Aśvattha leaves are used for sprinkling.",
+    "The purpose of the act is purification."
+   ],
+   "inference": "The mantra should be sprinkled with aśvattha leaves in order to purify it.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the mantra with aśvattha leaves for purification."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "jyotirmantreṇa",
+     "gloss": "with-jyotis-mantra",
+     "grounds": "mantra used as instrument",
+     "morph": "compound: jyotis+mantra+ins.sg.m"
+    },
+    {
+     "surface": "vidhivad",
+     "gloss": "according-to-rule",
+     "grounds": "manner conforming to ritual rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dahen",
+     "gloss": "should-burn",
+     "grounds": "ritual action",
+     "morph": "3.sg.opt.act √dah"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "malatrayam",
+     "gloss": "three-impurities",
+     "grounds": "object to be burned away",
+     "morph": "compound: mala+traya+n.acc.sg"
+    }
+   ],
+   "question": "By what mantra and method should the mantra-practitioner burn the three impurities?",
+   "premises": [
+    "The mantra-practitioner should perform burning.",
+    "The burning is done with the jyotis-mantra.",
+    "The act follows prescribed rule and targets the three impurities."
+   ],
+   "inference": "The mantra-practitioner should burn the three impurities according to rule using the jyotis-mantra.",
+   "uncertainties": [],
+   "plain_english": "The mantra-practitioner should burn the three impurities according to rule with the jyotis-mantra."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual instrument",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "variṇā",
+     "gloss": "with-water",
+     "grounds": "material instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satiation",
+     "grounds": "ritual act named",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satiation",
+     "grounds": "repeated term as subject of tradition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What ritual act performed with mantra and water is traditionally called satiation?",
+   "premises": [
+    "The mantra-practitioner performs satiation.",
+    "Satiation is done with mantra and water.",
+    "This act is remembered as satiation."
+   ],
+   "inference": "The act of offering satiation with mantra and water is traditionally known as tarpaṇa.",
+   "uncertainties": [],
+   "plain_english": "Satiation performed by the mantra-practitioner with mantra and water is traditionally called satiation."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "japyamānasya",
+     "gloss": "being-recited",
+     "grounds": "qualifies the mantra",
+     "morph": "m.gen.sg.pres.pass.part √jap"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "possessor of concealment",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gopanaṃ",
+     "gloss": "concealment",
+     "grounds": "defined term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aprakāśanam",
+     "gloss": "non-revelation",
+     "grounds": "definition of concealment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What constitutes the concealment of a mantra while it is being recited?",
+   "premises": [
+    "The mantra is being recited.",
+    "Concealment of that mantra is under definition.",
+    "Concealment is identified as non-revelation."
+   ],
+   "inference": "Concealment of a recited mantra means not revealing it.",
+   "uncertainties": [],
+   "plain_english": "The concealment of a mantra being recited is indeed its non-revelation."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "yān",
+     "gloss": "which",
+     "grounds": "refers to prior acts or rules",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "sampradāyena",
+     "gloss": "by-tradition",
+     "grounds": "mode of transmission",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāñchitam",
+     "gloss": "desired",
+     "grounds": "object attained",
+     "morph": "n.acc.sg.ppp"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "result of practice",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "How does performing prescribed acts according to tradition enable the mantra-practitioner to obtain the desired result?",
+   "premises": [
+    "The mantra-practitioner performs certain acts.",
+    "These acts are done according to tradition.",
+    "Performing them leads to obtaining what is desired."
+   ],
+   "inference": "By carrying out these acts according to tradition, the mantra-practitioner may obtain the desired goal.",
+   "uncertainties": [
+    "The antecedent of yān is not specified in this verse alone."
+   ],
+   "plain_english": "Having done these things according to tradition, the mantra-practitioner may obtain what is desired."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "karṣamātraṃ",
+     "gloss": "karṣa-measure",
+     "grounds": "quantity of ghee",
+     "morph": "compound: karṣa+mātra+n.nom.sg"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "oblation substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-oblation",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śuktimātraṃ",
+     "gloss": "śukti-measure",
+     "grounds": "quantity of milk",
+     "morph": "compound: śukti+mātra+n.nom.sg"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "milk",
+     "grounds": "oblation substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional prescription",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What standard measures of ghee and milk are prescribed for use in oblation?",
+   "premises": [
+    "Ghee is used in oblation.",
+    "Milk is used in oblation.",
+    "Their measures are traditionally fixed as one karṣa and one śukti respectively."
+   ],
+   "inference": "In oblation, ghee should measure one karṣa and milk one śukti.",
+   "uncertainties": [],
+   "plain_english": "In oblation, ghee is remembered as one karṣa in measure and milk as one śukti."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same measure as previous",
+     "morph": "compound: tat+sama+n.nom.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "oblation substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dugdhañ",
+     "gloss": "milk",
+     "grounds": "oblation substance; sandhi form of dugdham",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavamātram",
+     "gloss": "yava-measure",
+     "grounds": "quantity specified",
+     "morph": "compound: yava+mātra+n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What measures are declared for honey and milk in the oblation sequence?",
+   "premises": [
+    "Honey is assigned a measure equal to the previous one.",
+    "Milk is also mentioned in this context.",
+    "A yava-measure is declared."
+   ],
+   "inference": "Honey is equal in measure to the prior substance, and milk is declared as a yava-measure.",
+   "uncertainties": [
+    "The exact syntactic distribution of tatsamaṃ and yavamātram between madhu and dugdham is slightly ambiguous."
+   ],
+   "plain_english": "Honey is declared equal to that measure, and milk is declared as one yava in measure."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "pṛthukās",
+     "gloss": "flattened-rice",
+     "grounds": "oblation substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatsamānāḥ",
+     "gloss": "equal-to-that",
+     "grounds": "same measure as previous",
+     "morph": "compound: tat+samāna+m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "saktavo",
+     "gloss": "groats",
+     "grounds": "oblation substance; sandhi form of saktavaḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "'pi",
+     "gloss": "also",
+     "grounds": "inclusive particle; sandhi form of api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uditāḥ",
+     "gloss": "stated",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.pl.ppp"
+    }
+   ],
+   "question": "What measures are stated for flattened rice and groats in oblation offerings?",
+   "premises": [
+    "Flattened rice should be equal to that measure.",
+    "Groats are also included.",
+    "Groats are likewise stated to have that measure."
+   ],
+   "inference": "Both flattened rice and groats should be offered in the same previously stated measure.",
+   "uncertainties": [],
+   "plain_english": "Flattened rice should be equal to that measure, and groats also are likewise stated."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "ekaikaṃ",
+     "gloss": "one-by-one",
+     "grounds": "distributive quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "patrapuṣpādi",
+     "gloss": "leaf-flower-etc",
+     "grounds": "class of offering items",
+     "morph": "compound: patra+puṣpa+ādi+n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpādi",
+     "gloss": "incense-etc",
+     "grounds": "class of offering items",
+     "morph": "compound: dhūpa+ādi+n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "How should leaves, flowers, incense, and similar items be arranged as offerings?",
+   "premises": [
+    "Leaves, flowers, and similar items are to be offered.",
+    "Incense and similar items are likewise to be offered.",
+    "Each item should be arranged one by one."
+   ],
+   "inference": "One should arrange leaves, flowers, incense, and similar offerings one by one.",
+   "uncertainties": [],
+   "plain_english": "One should arrange leaves, flowers, and so on, and likewise incense and so on, one by one."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "mātuluṅgaṃ",
+     "gloss": "citron",
+     "grounds": "fruit offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuḥkhaṇḍaṃ",
+     "gloss": "four-pieces",
+     "grounds": "division of citron",
+     "morph": "compound: catur+khaṇḍa+n.nom.sg"
+    },
+    {
+     "surface": "panasaṃ",
+     "gloss": "jackfruit",
+     "grounds": "fruit offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "in-ten-parts",
+     "grounds": "division of jackfruit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional prescription",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "Into how many parts should citron and jackfruit be divided for ritual use?",
+   "premises": [
+    "Citron is prescribed for ritual use.",
+    "Jackfruit is prescribed for ritual use.",
+    "Citron is divided into four pieces and jackfruit into ten parts."
+   ],
+   "inference": "Citron should be cut into four pieces and jackfruit into ten parts.",
+   "uncertainties": [],
+   "plain_english": "Citron is remembered as cut into four pieces, and jackfruit into ten parts."
+  },
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "tridhākṛtaṃ",
+     "gloss": "made-in-three",
+     "grounds": "division of wood-apple",
+     "morph": "compound: tridhā+kṛta+n.nom.sg.ppp"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "general term qualified by vilva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vilvaṃ",
+     "gloss": "wood-apple",
+     "grounds": "specific fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kapitthaṃ",
+     "gloss": "wood-apple",
+     "grounds": "specific fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaṇḍitaṃ",
+     "gloss": "cut",
+     "grounds": "division of kapittha",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two",
+     "grounds": "division into two parts",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the vilva and kapittha fruits be cut for ritual offerings?",
+   "premises": [
+    "The vilva fruit is to be prepared.",
+    "The kapittha fruit is to be prepared.",
+    "Vilva is made into three parts and kapittha cut into two."
+   ],
+   "inference": "Vilva fruit should be divided into three parts and kapittha into two.",
+   "uncertainties": [],
+   "plain_english": "The vilva fruit is made into three parts, and the kapittha fruit is cut into two."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "general category",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "anyāni",
+     "gloss": "other",
+     "grounds": "remaining fruits",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "khaṇḍāni",
+     "gloss": "pieces",
+     "grounds": "cut form of other fruits",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "samidhaḥ",
+     "gloss": "fuel-sticks",
+     "grounds": "oblation material",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "daśāṅgulāḥ",
+     "gloss": "ten-fingers-long",
+     "grounds": "measure of fuel-sticks",
+     "morph": "compound: daśa+aṅgula+f.nom.pl"
+    }
+   ],
+   "question": "What preparation is prescribed for other fruits and what length for fuel-sticks?",
+   "premises": [
+    "Other fruits are to be used in pieces.",
+    "Fuel-sticks are required for oblation.",
+    "Fuel-sticks should be ten fingers long."
+   ],
+   "inference": "Other fruits should be cut into pieces, and fuel-sticks should measure ten fingers in length.",
+   "uncertainties": [],
+   "plain_english": "Other fruits should be in pieces, and fuel-sticks should be ten fingers long."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "vrīhayo",
+     "gloss": "rice-grains",
+     "grounds": "oblation substance; sandhi form of vrīhayaḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "muṣṭimātrāḥ",
+     "gloss": "fist-measure",
+     "grounds": "quantity prescribed",
+     "morph": "compound: muṣṭi+mātra+m.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "mudgā",
+     "gloss": "mung-beans",
+     "grounds": "oblation substance; sandhi form of mudgāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "māṣā",
+     "gloss": "black-gram",
+     "grounds": "oblation substance; sandhi form of māṣāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yavā",
+     "gloss": "barley",
+     "grounds": "oblation substance; sandhi form of yavāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measure is prescribed for rice-grains, mung-beans, black-gram, and barley in oblation?",
+   "premises": [
+    "Rice-grains are used in oblation.",
+    "Mung-beans, black-gram, and barley are also used.",
+    "All these should be a fist-measure in quantity."
+   ],
+   "inference": "Rice-grains, mung-beans, black-gram, and barley should each be offered in a fist-measure.",
+   "uncertainties": [],
+   "plain_english": "Rice-grains should be a fist-measure, and mung-beans, black-gram, and barley also."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "godhūmā",
+     "gloss": "wheat",
+     "grounds": "oblation substance; sandhi form of godhūmāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "raktakalamā",
+     "gloss": "red-rice",
+     "grounds": "oblation substance; sandhi form of raktakalamāḥ",
+     "morph": "compound: rakta+kalama+m.nom.pl"
+    },
+    {
+     "surface": "vihitā",
+     "gloss": "prescribed",
+     "grounds": "scriptural prescription; sandhi form of vihitāḥ",
+     "morph": "m.nom.pl.ppp"
+    },
+    {
+     "surface": "muṣṭimānataḥ",
+     "gloss": "by-fist-measure",
+     "grounds": "quantity specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity is prescribed for wheat and red rice in ritual offerings?",
+   "premises": [
+    "Wheat is prescribed as an offering.",
+    "Red rice is prescribed as an offering.",
+    "Both are prescribed by the measure of a fist."
+   ],
+   "inference": "Wheat and red rice should be offered in a fist-measure.",
+   "uncertainties": [],
+   "plain_english": "Wheat and red rice are prescribed in the measure of a fist."
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "śuktipramāṇaṃ",
+     "gloss": "śukti-measure",
+     "grounds": "quantity of salt",
+     "morph": "compound: śukti+pramāṇa+n.nom.sg"
+    },
+    {
+     "surface": "lavaṇaṃ",
+     "gloss": "salt",
+     "grounds": "oblation substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "marīcāni",
+     "gloss": "peppercorns",
+     "grounds": "oblation substance",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "count of peppercorns",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What quantities are prescribed for salt and peppercorns in oblation?",
+   "premises": [
+    "Salt is used in oblation.",
+    "Peppercorns are also used.",
+    "Salt is a śukti-measure and peppercorns number twenty."
+   ],
+   "inference": "Salt should be offered in a śukti-measure and peppercorns in a count of twenty.",
+   "uncertainties": [],
+   "plain_english": "Salt is a śukti-measure, and peppercorns are twenty in number."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "candanā",
+     "gloss": "sandalwood",
+     "grounds": "aromatic substance; sandhi form of candanam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aguru",
+     "gloss": "agarwood",
+     "grounds": "aromatic substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "aromatic substance; sandhi form of karpūram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kastūrī",
+     "gloss": "musk",
+     "grounds": "aromatic substance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṅkumāni",
+     "gloss": "saffron",
+     "grounds": "aromatic substance",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which aromatic substances are listed together for ritual use in this context?",
+   "premises": [
+    "Sandalwood, agarwood, and camphor are named.",
+    "Musk and saffron are also named.",
+    "These substances are listed together as a group."
+   ],
+   "inference": "Sandalwood, agarwood, camphor, musk, and saffron are included as ritual aromatic substances.",
+   "uncertainties": [
+    "The specific ritual application is not stated in this verse alone."
+   ],
+   "plain_english": "Sandalwood, agarwood, camphor, musk, and saffron are listed."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "anukte",
+     "gloss": "when-unspecified",
+     "grounds": "condition of omission",
+     "morph": "n.loc.sg.ppp"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havirdravye",
+     "gloss": "oblation-substance",
+     "grounds": "ritual material context",
+     "morph": "compound: havis+dravya+n.loc.sg"
+    },
+    {
+     "surface": "tilājyaṃ",
+     "gloss": "sesame-ghee",
+     "grounds": "default oblation",
+     "morph": "compound: tila+ājya+n.nom.sg"
+    },
+    {
+     "surface": "havir",
+     "gloss": "oblation",
+     "grounds": "designated offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "scriptural designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What default oblation substance is prescribed when no specific offering is stated?",
+   "premises": [
+    "Sometimes the oblation substance is unspecified.",
+    "A default must be identified in that case.",
+    "Sesame and ghee are called the oblation in such cases."
+   ],
+   "inference": "When no oblation substance is specified, sesame mixed with ghee is prescribed as the oblation.",
+   "uncertainties": [],
+   "plain_english": "But when the oblation substance is unspecified, sesame and ghee are called the oblation."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "āyuḥ",
+     "gloss": "long-life",
+     "grounds": "desired result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śādbalapallavaiḥ",
+     "gloss": "with-grass-shoots",
+     "grounds": "oblation material; compound interpretation uncertain",
+     "morph": "compound: śād+bala+pallava+ins.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍaiḥ",
+     "gloss": "with-jaggery",
+     "grounds": "oblation material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace",
+     "grounds": "desired result",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sahājyaistilaiḥ",
+     "gloss": "with-ghee-sesame",
+     "grounds": "oblation material",
+     "morph": "compound: saha+ājya+tila+ins.pl.m"
+    }
+   ],
+   "question": "Which oblation materials are associated with obtaining long life and peace?",
+   "premises": [
+    "Long life is sought as a result.",
+    "Peace is sought as a result.",
+    "Grass shoots with jaggery and sesame with ghee are specified as materials."
+   ],
+   "inference": "Offerings with grass shoots and jaggery yield long life, and offerings with sesame and ghee yield peace.",
+   "uncertainties": [
+    "The compound śādbalapallavaiḥ is analyzed tentatively as grass shoots."
+   ],
+   "plain_english": "One obtains long life with grass shoots together with jaggery, and peace with sesame together with ghee."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "prītiṃ",
+     "gloss": "affection",
+     "grounds": "desired result",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guḍena",
+     "gloss": "with-jaggery",
+     "grounds": "oblation material",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "oblation material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "putrān",
+     "gloss": "sons",
+     "grounds": "desired result",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saukhyaṃ",
+     "gloss": "happiness",
+     "grounds": "desired result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalair",
+     "gloss": "with-fruits",
+     "grounds": "oblation material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "manujaḥ",
+     "gloss": "person",
+     "grounds": "recipient of results",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results does a person obtain by offering jaggery, leaves, and fruits?",
+   "premises": [
+    "A person performs oblations with specific materials.",
+    "Jaggery, leaves, and fruits are used as offerings.",
+    "These offerings yield affection, sons, and happiness respectively."
+   ],
+   "inference": "By offering jaggery a person gains affection, by leaves sons, and by fruits happiness.",
+   "uncertainties": [
+    "The exact pairing of patraiḥ with putrān follows traditional ritual correlations."
+   ],
+   "plain_english": "A person obtains affection with jaggery, sons with leaves, and happiness with fruits."
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "puṣpair",
+     "gloss": "with-flowers",
+     "grounds": "oblation material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "mālatyāḥ",
+     "gloss": "of-mālatī",
+     "grounds": "specifies flower type",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "siddhagandharvalokān",
+     "gloss": "siddha-gandharva-worlds",
+     "grounds": "desired result",
+     "morph": "compound: siddha+gandharva+loka+m.acc.pl"
+    }
+   ],
+   "question": "What realm is attained by offering flowers of the mālatī plant?",
+   "premises": [
+    "Flowers are used as oblation material.",
+    "The flowers specified are of mālatī.",
+    "The result is attainment of the worlds of siddhas and gandharvas."
+   ],
+   "inference": "Offering mālatī flowers leads to attainment of the worlds of siddhas and gandharvas.",
+   "uncertainties": [],
+   "plain_english": "With mālatī flowers one attains the worlds of the siddhas and gandharvas."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "rvaiśyā",
+     "gloss": "vaiśyas",
+     "grounds": "social group attained or influenced; initial r likely sandhi artifact",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nākiṃ",
+     "gloss": "heaven",
+     "grounds": "desired realm",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kirātair",
+     "gloss": "with-kirāta-flowers",
+     "grounds": "oblation material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "gaṇa",
+     "gloss": "troop",
+     "grounds": "comparison term; sandhi form of gaṇaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśagāḥ",
+     "gloss": "brought-under-control",
+     "grounds": "result of subjugation; sandhi form of vaśagāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāṭalābhiś",
+     "gloss": "with-pāṭalā-flowers",
+     "grounds": "oblation material",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdrāḥ",
+     "gloss": "śūdras",
+     "grounds": "social group influenced",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What results are obtained with kirāta and pāṭalā flowers regarding heaven and social groups?",
+   "premises": [
+    "Kirāta flowers are used in oblation.",
+    "Pāṭalā flowers are used in oblation.",
+    "The results include heaven, vaiśyas, and śūdras brought under control like a troop."
+   ],
+   "inference": "With kirāta flowers one gains heaven and vaiśyas, and with pāṭalā flowers śūdras become subdued like a troop.",
+   "uncertainties": [
+    "The surface rvaiśyā appears irregular, possibly due to sandhi or transmission; interpreted as vaiśyāḥ.",
+    "The exact syntactic mapping of results to materials is compressed."
+   ],
+   "plain_english": "With kirāta flowers one attains heaven and vaiśyas, and with pāṭalā flowers śūdras become subdued as if like a troop."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces next case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairibalaṃ",
+     "gloss": "enemy-army",
+     "grounds": "target of ritual",
+     "morph": "compound: vairi+bala+n.nom.sg"
+    },
+    {
+     "surface": "parāṅmukhaṃ",
+     "gloss": "turned-away",
+     "grounds": "desired state of enemy army",
+     "morph": "compound: parāc+mukha+n.nom.sg"
+    },
+    {
+     "surface": "syān",
+     "gloss": "should-be",
+     "grounds": "resultative prescription; sandhi form of syāt",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "madhurāktena",
+     "gloss": "with-sweet-smeared",
+     "grounds": "oblation material preparation",
+     "morph": "compound: madhura+akta+n.ins.sg"
+    },
+    {
+     "surface": "mahāpalalena",
+     "gloss": "with-great-meat",
+     "grounds": "oblation material; meaning of palala context-dependent",
+     "morph": "compound: mahā+palala+n.ins.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What oblation materials can cause an enemy army to turn away in retreat?",
+   "premises": [
+    "The enemy army is the target of the ritual.",
+    "The desired result is that the army turns away.",
+    "Substances smeared with sweet or great meat are offered as alternatives."
+   ],
+   "inference": "An enemy army may be made to turn away by oblations with a sweet-smeared substance or with great meat.",
+   "uncertainties": [
+    "The exact referent of mahāpalala is uncertain; taken as a substantial meat offering."
+   ],
+   "plain_english": "Then the enemy army should turn away, by means of something smeared with sweet substances or with a great meat offering."
+  }
+ ]
+}

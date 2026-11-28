@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 676,
+   "rows": [
+    {
+     "surface": "tatpādābhyantarāntaṃ",
+     "gloss": "that-foot-inner-end",
+     "grounds": "compound indicating end at inner side of that pillar foot",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpādamadhyamaṃ",
+     "gloss": "that-foot-middle",
+     "grounds": "compound indicating middle of that pillar foot",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which points on the pillar foot may serve as the measuring boundary?",
+   "premises": [
+    "The boundary may reach the inner end of that pillar foot.",
+    "Alternatively the boundary may reach the middle of that pillar foot."
+   ],
+   "inference": "The measuring limit admits alternative positions on the pillar foot.",
+   "uncertainties": [
+    "The exact referent of tat in this context is not explicit."
+   ],
+   "plain_english": "The boundary may be set at the inner end of that pillar foot, or else at the middle of that pillar foot."
+  },
+  {
+   "verse": 677,
+   "rows": [
+    {
+     "surface": "sabhāmaṇṭapaśālānāṃ",
+     "gloss": "assembly-pavilion-hall-of",
+     "grounds": "compound denoting halls, pavilions, and assembly spaces",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhittimadhyāvasānakam",
+     "gloss": "wall-middle-ending",
+     "grounds": "compound indicating termination at the middle of the wall",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where does the measuring boundary terminate for halls, pavilions, and assembly buildings?",
+   "premises": [
+    "The structures named are halls, pavilions, and assembly buildings.",
+    "The termination is specified at the middle of the wall."
+   ],
+   "inference": "For these buildings the measuring boundary ends at the wall’s middle.",
+   "uncertainties": [],
+   "plain_english": "For assembly halls, pavilions, and halls, the boundary ends at the middle of the wall."
+  },
+  {
+   "verse": 678,
+   "rows": [
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "base element of the compound or noun",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bāhyagatāṃ",
+     "gloss": "outer-going",
+     "grounds": "describes a line or limit going to the outside of the wall",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ghrau",
+     "gloss": "ghrau",
+     "grounds": "technical term or syllable of uncertain meaning in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "locative indicating outer side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyantare",
+     "gloss": "on-inside",
+     "grounds": "locative indicating inner side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "also",
+     "grounds": "particle, likely equivalent to api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which side of the wall may the outer-going boundary be placed?",
+   "premises": [
+    "An outer-going wall boundary is under consideration.",
+    "Placement may be on the outside or on the inside."
+   ],
+   "inference": "The boundary admits placement on either the outer or inner side of the wall.",
+   "uncertainties": [
+    "The token ghrau is obscure and its technical role is unclear.",
+    "The token pi is read as a variant of api."
+   ],
+   "plain_english": "The boundary going to the outside of the wall may be placed on the outside or also on the inside."
+  },
+  {
+   "verse": 679,
+   "rows": [
+    {
+     "surface": "bhittivyāse",
+     "gloss": "wall-thickness",
+     "grounds": "locative compound referring to the breadth of the wall",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānvaṃśe",
+     "gloss": "sun-part",
+     "grounds": "compound indicating a division related to bhānu; technical sense uncertain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "locative indicating outer side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atvaṃśakaṃ",
+     "gloss": "that-part",
+     "grounds": "compound indicating a specified portion; reading uncertain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "verb expressing movement or extension",
+     "morph": "3.sg.optative-active √vraj"
+    }
+   ],
+   "question": "How should the boundary extend within the thickness of the wall?",
+   "premises": [
+    "The context is the thickness of the wall.",
+    "The boundary should go to a specified part on the outside."
+   ],
+   "inference": "Within the wall thickness the boundary is directed to a defined outer portion.",
+   "uncertainties": [
+    "The technical meanings of bhānvaṃśe and atvaṃśakaṃ are unclear."
+   ],
+   "plain_english": "Within the thickness of the wall, it should extend outward to the specified part."
+  },
+  {
+   "verse": 680,
+   "rows": [
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhyāṃghrivistāraṃ",
+     "gloss": "middle-pillar-width",
+     "grounds": "compound denoting the width at the middle pillar by the wall",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṃghristhāne",
+     "gloss": "pillar-place",
+     "grounds": "locative indicating the position of the pillar",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nivocyate",
+     "gloss": "is-stated",
+     "grounds": "verb of declaration",
+     "morph": "3.sg.present-passive ni+√vac"
+    }
+   ],
+   "question": "What width is prescribed at the position of the pillar by the wall?",
+   "premises": [
+    "The location specified is the place of the pillar.",
+    "A width at the middle pillar by the wall is stated."
+   ],
+   "inference": "The prescribed measure at that pillar position is the middle-pillar width by the wall.",
+   "uncertainties": [],
+   "plain_english": "At the place of the pillar, the width at the middle pillar by the wall is stated."
+  },
+  {
+   "verse": 681,
+   "rows": [
+    {
+     "surface": "śālāṃnāṃ",
+     "gloss": "halls-of",
+     "grounds": "genitive plural referring to halls",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating middle position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "locative indicating outer side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyantare",
+     "gloss": "on-inside",
+     "grounds": "locative indicating inner side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where on the wall of halls may the measuring line be located?",
+   "premises": [
+    "The subject is the walls of halls.",
+    "Possible locations are the middle, outside, or inside."
+   ],
+   "inference": "The measuring line for halls may be placed at the wall’s middle, outside, or inside.",
+   "uncertainties": [],
+   "plain_english": "For halls, it may be in the middle of the wall, or on the outside, or also on the inside."
+  },
+  {
+   "verse": 682,
+   "rows": [
+    {
+     "surface": "mānasūtraṃ",
+     "gloss": "measuring-cord",
+     "grounds": "technical term for the measuring line",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "verb of designation",
+     "morph": "n.nom.sg.past-participle sam+ā+√khyā"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal quantifier",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sadanādinām",
+     "gloss": "houses-and-others-of",
+     "grounds": "compound referring to houses and similar structures",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "For which structures is the measuring cord declared applicable?",
+   "premises": [
+    "A measuring cord is being designated.",
+    "The designation applies to all houses and similar structures."
+   ],
+   "inference": "The measuring cord is declared for all houses and related buildings.",
+   "uncertainties": [],
+   "plain_english": "The measuring cord is declared for all houses and similar structures."
+  },
+  {
+   "verse": 683,
+   "rows": [
+    {
+     "surface": "kūṭasya",
+     "gloss": "of-peak",
+     "grounds": "genitive referring to the peak or turret",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ukta",
+     "gloss": "stated",
+     "grounds": "past participle indicating what has been said",
+     "morph": "n.nom.sg.past-participle √vac"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "width",
+     "grounds": "measure of breadth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "compound indicating three parts out of four",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhameva",
+     "gloss": "half-only",
+     "grounds": "compound with emphatic particle indicating exactly half",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative widths are prescribed for the peak structure?",
+   "premises": [
+    "The width of the peak is under discussion.",
+    "The stated options are full width, three-quarters, or half."
+   ],
+   "inference": "The peak’s width may be taken as full, three-quarters, or half.",
+   "uncertainties": [
+    "The base measure relative to which these fractions apply is implicit."
+   ],
+   "plain_english": "The width of the peak is stated as full, or three-quarters, or exactly half."
+  },
+  {
+   "verse": 684,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍamānena",
+     "gloss": "by-rod-measure",
+     "grounds": "instrumental indicating measurement by daṇḍa units",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kūṭādīnāṃ",
+     "gloss": "of-peaks-and-others",
+     "grounds": "genitive plural referring to peaks and similar elements",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgatiḥ",
+     "gloss": "projection",
+     "grounds": "noun indicating outward extent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "By what unit may the projection of peaks and related elements be measured?",
+   "premises": [
+    "The projection of peaks and similar elements is considered.",
+    "Measurement may be made by the rod measure."
+   ],
+   "inference": "The projection of peaks and related elements can be determined in daṇḍa units.",
+   "uncertainties": [],
+   "plain_english": "Or else, the projection of peaks and similar elements may be measured by the rod measure."
+  },
+  {
+   "verse": 685,
+   "rows": [
+    {
+     "surface": "tridaṇḍaṃ",
+     "gloss": "three-rods",
+     "grounds": "compound indicating a measure of three daṇḍas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkrāntaṃ",
+     "gloss": "projected",
+     "grounds": "past participle indicating outward extension",
+     "morph": "n.nom.sg.past-participle nis+√kram"
+    },
+    {
+     "surface": "mānasūtrāt",
+     "gloss": "from-measuring-cord",
+     "grounds": "ablative indicating the reference line",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outward",
+     "grounds": "adverb indicating direction to the outside",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How far may the structure project outward from the measuring cord?",
+   "premises": [
+    "The projection is measured from the measuring cord.",
+    "The extent may be three rods outward."
+   ],
+   "inference": "An outward projection of three rods from the measuring cord is permitted.",
+   "uncertainties": [],
+   "plain_english": "It may project three rods outward from the measuring cord."
+  },
+  {
+   "verse": 686,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "instrumental expressing thorough care",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mānasūtrāt",
+     "gloss": "from-measuring-cord",
+     "grounds": "ablative indicating the reference line",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bahirgatam",
+     "gloss": "gone-outside",
+     "grounds": "compound describing what lies outside",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How carefully must elements extending beyond the measuring cord be handled?",
+   "premises": [
+    "Some elements extend outside the measuring cord.",
+    "The instruction requires all effort."
+   ],
+   "inference": "Anything outside the measuring cord must be managed with complete care.",
+   "uncertainties": [
+    "The specific action to be taken with effort is not stated."
+   ],
+   "plain_english": "Therefore, with all effort, what lies outside the measuring cord must be attended to."
+  },
+  {
+   "verse": 687,
+   "rows": [
+    {
+     "surface": "homabāhyagataṃ",
+     "gloss": "fire-offering-outside-gone",
+     "grounds": "compound indicating a line going outside the fire-offering area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "cord",
+     "grounds": "measuring line",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avasānam",
+     "gloss": "termination",
+     "grounds": "end point or limit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "n.nom.sg.past-participle ud+ā+√hṛ"
+    }
+   ],
+   "question": "What is declared as the termination of the cord outside the fire-offering area?",
+   "premises": [
+    "A cord going outside the fire-offering area is considered.",
+    "Its termination is explicitly declared."
+   ],
+   "inference": "The cord outside the fire-offering area has a declared terminal point.",
+   "uncertainties": [
+    "The exact spatial definition of the termination is not specified."
+   ],
+   "plain_english": "The cord going outside the fire-offering area is declared as the termination."
+  },
+  {
+   "verse": 688,
+   "rows": [
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past participle indicating established teaching",
+     "morph": "n.nom.sg.past-participle √khyā"
+    },
+    {
+     "surface": "saṃkṣepato",
+     "gloss": "briefly",
+     "grounds": "adverb indicating concise presentation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprā",
+     "gloss": "o-brahmins",
+     "grounds": "vocative address to learned recipients",
+     "morph": "m.voc.pl"
+    },
+    {
+     "surface": "śṛṇuṣvāyādi",
+     "gloss": "listen-income-and-other",
+     "grounds": "compound or fused form urging listening to āya and related measures; reading uncertain",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "defining marks or rules",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What are the brahmins asked to hear briefly regarding āya and related characteristics?",
+   "premises": [
+    "The teaching is presented briefly.",
+    "The brahmins are addressed to listen to the characteristics of āya and related matters."
+   ],
+   "inference": "A concise account of āya and related characteristics is being introduced for the brahmins.",
+   "uncertainties": [
+    "The segmentation and exact sense of śṛṇuṣvāyādi are uncertain."
+   ],
+   "plain_english": "O brahmins, listen briefly to the known characteristics of āya and related matters."
+  },
+  {
+   "verse": 689,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon phrase locating the text in the Aṃśumān Kāśyapa tradition",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānādisūtralakṣaṇapaṭalaḥ",
+     "gloss": "measure-and-other-cord-characteristic-chapter",
+     "grounds": "compound naming the chapter on characteristics of measures and cords",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvāviṃśaḥ",
+     "gloss": "twenty-second",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes at this point in the Aṃśumān Kāśyapa text?",
+   "premises": [
+    "The colophon names the Aṃśumān Kāśyapa work.",
+    "The chapter concerns characteristics of measures and cords and is numbered twenty-second."
+   ],
+   "inference": "This marks the end of the twenty-second chapter on measure and cord characteristics.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-second chapter on the characteristics of measures and cords in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 690,
+   "rows": [
+    {
+     "surface": "harmyavistārahastaṃ",
+     "gloss": "mansion-width-hand",
+     "grounds": "compound indicating the width of the mansion in hand units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇavṛddhyāvasubhirharet",
+     "gloss": "multiply-increase-by-eight-divide",
+     "grounds": "compound verbal expression prescribing multiplication, increase, and division by eight",
+     "morph": "3.sg.optative-active √hṛ"
+    }
+   ],
+   "question": "What calculation is prescribed for the mansion’s width measured in hands?",
+   "premises": [
+    "The mansion’s width in hands is taken as the base measure.",
+    "The operation involves multiplication, increase, and division by eight."
+   ],
+   "inference": "The mansion width in hands must be processed by multiplying, increasing, and dividing by eight.",
+   "uncertainties": [
+    "The exact sequence and operands of the calculation are compressed in the compound."
+   ],
+   "plain_english": "Take the mansion’s width in hands, multiply and increase it, and divide by eight."
+  },
+  {
+   "verse": 691,
+   "rows": [
+    {
+     "surface": "vardhayed",
+     "gloss": "should-increase",
+     "grounds": "verb prescribing increase",
+     "morph": "3.sg.optative-active √vṛdh"
+    },
+    {
+     "surface": "vasubhir",
+     "gloss": "by-eights",
+     "grounds": "instrumental plural indicating the number eight",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "hrāse",
+     "gloss": "in-decrease",
+     "grounds": "locative indicating the case of reduction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nakṣatreṇāhayādibham",
+     "gloss": "by-constellation-horse-and-other-star",
+     "grounds": "compound referring to division or assignment involving constellations and horse-group stars; reading uncertain",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should increase and decrease be calculated using eights and constellations?",
+   "premises": [
+    "Increase is to be done by eights.",
+    "In decrease, constellations including the horse group are involved."
+   ],
+   "inference": "The calculation uses eights for increase and constellation-based division for decrease.",
+   "uncertainties": [
+    "The precise parsing of nakṣatreṇāhayādibham is uncertain."
+   ],
+   "plain_english": "One should increase by eights, and in decrease use the constellations including the horse and others."
+  },
+  {
+   "verse": 692,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "result left after division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arkādivāraṃ",
+     "gloss": "sun-and-other-day",
+     "grounds": "compound indicating weekdays beginning with the sun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "vyāsāyāmakaraṃ",
+     "gloss": "breadth-length-making",
+     "grounds": "compound indicating what produces breadth and length measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇaiḥ",
+     "gloss": "by-multipliers",
+     "grounds": "instrumental indicating factors or qualities used in calculation",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What does the remainder determine when breadth and length are calculated by multipliers?",
+   "premises": [
+    "A remainder results from the calculation.",
+    "The calculation concerns breadth and length using multipliers."
+   ],
+   "inference": "The remainder is taken to indicate the weekday beginning with the sun.",
+   "uncertainties": [
+    "The exact computational procedure linking multipliers to the weekday is not fully explicit."
+   ],
+   "plain_english": "The remainder should be the weekday beginning with Sunday, when breadth and length are calculated by the multipliers."
+  },
+  {
+   "verse": 693,
+   "rows": [
+    {
+     "surface": "tithayastu",
+     "gloss": "lunar-days-but",
+     "grounds": "noun with enclitic particle introducing tithis",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "declared",
+     "grounds": "past participle indicating designation",
+     "morph": "f.nom.pl.past-participle sam+ā+√khyā"
+    },
+    {
+     "surface": "tuṃgahastāṣṭa",
+     "gloss": "height-hand-eight",
+     "grounds": "compound indicating height in hands multiplied or grouped by eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛddhitau",
+     "gloss": "in-increase",
+     "grounds": "locative dual or technical form indicating increase; reading uncertain",
+     "morph": "f.loc.du"
+    }
+   ],
+   "question": "How are lunar days determined in relation to height measured in hands and eightfold increase?",
+   "premises": [
+    "Lunar days are being declared.",
+    "The calculation involves height in hands and an eightfold increase."
+   ],
+   "inference": "The lunar days are assigned through a calculation based on height in hands and eightfold increase.",
+   "uncertainties": [
+    "The form vṛddhitau and the exact arithmetic relation are uncertain."
+   ],
+   "plain_english": "The lunar days are declared in relation to the height in hands and the eightfold increase."
+  },
+  {
+   "verse": 694,
+   "rows": [
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "accusative object indicating vertical measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "navena",
+     "gloss": "by-nine",
+     "grounds": "instrumental indicating multiplier nine",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vṛddhyā",
+     "gloss": "by-increase",
+     "grounds": "instrumental indicating augmentation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgi",
+     "gloss": "before",
+     "grounds": "adverb indicating prior step or eastern direction; contextually ambiguous",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāḍibhir",
+     "gloss": "by-nāḍis",
+     "grounds": "instrumental plural indicating time or measure units",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-divide",
+     "grounds": "verb prescribing division or subtraction",
+     "morph": "3.sg.optative-active √hṛ"
+    }
+   ],
+   "question": "What operation is applied to the height after increasing it by nine?",
+   "premises": [
+    "The height is increased by nine.",
+    "A subsequent operation uses nāḍis."
+   ],
+   "inference": "After increasing the height by nine, one should divide or reduce it by nāḍis.",
+   "uncertainties": [
+    "Whether haret means divide or subtract is context-dependent.",
+    "The sense of prāgi is ambiguous."
+   ],
+   "plain_english": "Increase the height by nine, and then divide it by nāḍis."
+  },
+  {
+   "verse": 695,
+   "rows": [
+    {
+     "surface": "ketusiṃhovṛṣo",
+     "gloss": "ketu-lion-bull",
+     "grounds": "compound listing auspicious signs or categories",
+     "morph": "compound"
+    },
+    {
+     "surface": "hastī",
+     "gloss": "elephant",
+     "grounds": "noun included in the list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śubhayonimiti",
+     "gloss": "auspicious-source-thus",
+     "grounds": "compound indicating classification as auspicious yoni",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "n.nom.sg.past-participle √smṛ"
+    }
+   ],
+   "question": "Which signs are traditionally remembered as belonging to the auspicious yoni?",
+   "premises": [
+    "Ketu, lion, bull, and elephant are listed.",
+    "They are remembered as auspicious yoni."
+   ],
+   "inference": "Ketu, lion, bull, and elephant are classified as auspicious yoni.",
+   "uncertainties": [
+    "The technical astrological sense of ketu in this list is uncertain."
+   ],
+   "plain_english": "Ketu, lion, bull, and elephant are remembered as belonging to the auspicious yoni."
+  },
+  {
+   "verse": 696,
+   "rows": [
+    {
+     "surface": "yajamānasya",
+     "gloss": "of-patron",
+     "grounds": "genitive referring to the sacrificer or patron",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "janmarkṣā",
+     "gloss": "birth-star",
+     "grounds": "compound referring to the natal constellation",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virodhadinaṃ",
+     "gloss": "conflicting-day",
+     "grounds": "compound indicating a day in conflict",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What conflict must be avoided with respect to the patron’s birth star?",
+   "premises": [
+    "The patron’s birth star is relevant.",
+    "A conflicting day must not be chosen."
+   ],
+   "inference": "The selected day must not conflict with the patron’s birth star.",
+   "uncertainties": [
+    "The sentence is elliptical and the main verb is implied."
+   ],
+   "plain_english": "Likewise, the day must not be in conflict with the patron’s birth star."
+  },
+  {
+   "verse": 697,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb summarizing prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-examined",
+     "grounds": "absolutive indicating prior examination",
+     "morph": "absolutive pari+√īkṣ"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb indicating thoroughness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumānaṃ",
+     "gloss": "aṃśumāna",
+     "grounds": "name or measure term; contextually unclear",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃgrahet",
+     "gloss": "should-compile",
+     "grounds": "verb prescribing collection or determination",
+     "morph": "3.sg.optative-active sam+√grah"
+    }
+   ],
+   "question": "What should be done after examining the factors in many ways?",
+   "premises": [
+    "The factors must be examined in many ways.",
+    "After examination, something called aṃśumāna should be compiled or determined."
+   ],
+   "inference": "A thorough examination should be followed by determining or compiling the aṃśumāna.",
+   "uncertainties": [
+    "The referent of aṃśumāna in this procedural context is unclear."
+   ],
+   "plain_english": "Thus, after examining in many ways, one should determine the aṃśumāna."
+  },
+  {
+   "verse": 698,
+   "rows": [
+    {
+     "surface": "bhānurvā",
+     "gloss": "sun-or",
+     "grounds": "compound of bhānu with alternative particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "result left after calculation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyam",
+     "gloss": "income-length",
+     "grounds": "technical term āya, often gain or length",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityucyate",
+     "gloss": "thus-is-called",
+     "grounds": "passive verb of designation",
+     "morph": "3.sg.present-passive iti+√vac"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "by-wise",
+     "grounds": "agent or authority designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remainder called when identified as āya by the wise?",
+   "premises": [
+    "A remainder is obtained in the calculation.",
+    "The wise designate this remainder as āya."
+   ],
+   "inference": "The calculated remainder is termed āya.",
+   "uncertainties": [
+    "The role of bhānurvā in the calculation is not fully clear."
+   ],
+   "plain_english": "The wise call the remainder āya."
+  },
+  {
+   "verse": 699,
+   "rows": [
+    {
+     "surface": "vasubhir",
+     "gloss": "by-eights",
+     "grounds": "instrumental plural indicating multiplication by eight",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "guṇite",
+     "gloss": "when-multiplied",
+     "grounds": "locative absolute participle indicating multiplication",
+     "morph": "n.loc.sg.past-participle √guṇ"
+    },
+    {
+     "surface": "ṛkṣe",
+     "gloss": "in-constellation",
+     "grounds": "locative referring to the star or constellation value",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hate",
+     "gloss": "when-divided",
+     "grounds": "locative absolute participle indicating division or removal",
+     "morph": "n.loc.sg.past-participle √han"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "result left after the operation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hayādikam",
+     "gloss": "horse-and-other",
+     "grounds": "compound indicating the horse group and related categories",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What remainder results after multiplying the constellation value by eight and dividing it?",
+   "premises": [
+    "The constellation value is multiplied by eight.",
+    "The product is then divided."
+   ],
+   "inference": "The resulting remainder corresponds to the horse group and related categories.",
+   "uncertainties": [
+    "The divisor in hate is not explicitly stated."
+   ],
+   "plain_english": "When the constellation value is multiplied by eight and divided, the remainder is the horse group and so on."
+  }
+ ]
+}

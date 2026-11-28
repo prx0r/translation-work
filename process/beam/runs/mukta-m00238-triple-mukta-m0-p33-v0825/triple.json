@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "upavītadharaṃ",
+     "gloss": "sacred-thread-bearing",
+     "grounds": "compound: upavīta (sacred thread) + dhara (bearing); accusative singular masculine describing the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and",
+     "grounds": "conjunction ca plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śayānaṃ",
+     "gloss": "reclining",
+     "grounds": "present participle of śī; accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmapādakam",
+     "gloss": "left-foot",
+     "grounds": "compound: vāma (left) + pāda (foot) + ka; accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which iconographic attributes and posture define the deity in this description?",
+   "premises": [
+    "The deity bears a sacred thread.",
+    "The deity is reclining.",
+    "The left foot is specified."
+   ],
+   "inference": "The verse depicts a reclining deity bearing a sacred thread with the left foot emphasized.",
+   "uncertainties": [
+    "The exact deity identity is not stated in this verse."
+   ],
+   "plain_english": "bearing a sacred thread, and reclining, with the left foot"
+  }
+ ]
+}

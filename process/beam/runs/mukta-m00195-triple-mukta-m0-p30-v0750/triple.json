@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "first member of color compound describing the line",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "second member of compound indicating color quality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "before",
+     "grounds": "indeclinable indicating prior manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "indeclinable suffix forming comparison with prior manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rekhāṃ",
+     "gloss": "line",
+     "grounds": "object of the imperative action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sitāṃ",
+     "gloss": "white",
+     "grounds": "qualifies the line as white",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction to perform the drawing action",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What specific color and manner must characterize the line to be drawn?",
+   "premises": [
+    "The line is described as black-colored.",
+    "The line is also described as white.",
+    "The action must follow the manner established before."
+   ],
+   "inference": "One must make a white line that is black-colored in the same manner as before.",
+   "uncertainties": [
+    "The precise visual relation between black-colored and white in describing the same line is context-dependent."
+   ],
+   "plain_english": "Make a white line, black in color, just as before."
+  }
+ ]
+}

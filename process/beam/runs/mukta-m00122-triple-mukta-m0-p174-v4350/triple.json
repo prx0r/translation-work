@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p174",
+ "items": [
+  {
+   "verse": 4350,
+   "rows": [
+    {
+     "surface": "caḥ",
+     "gloss": "and",
+     "grounds": "particle ca in fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuccaye",
+     "gloss": "in-collection",
+     "grounds": "locative of samuccaya",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tathā tathā",
+     "gloss": "thus-thus",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā yathā",
+     "gloss": "as-as",
+     "grounds": "repeated adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayuktaṃ",
+     "gloss": "applied",
+     "grounds": "past participle prayukta",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā tathetyarthaḥ",
+     "gloss": "thus-thus-meaning",
+     "grounds": "fused sandhi form tathā tatheti arthaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What meaning is assigned when things are applied in collection thus and as thus?",
+   "premises": [
+    "Collection implies combined application.",
+    "Thus and as thus describe correspondence.",
+    "Applied things receive matching meaning."
+   ],
+   "inference": "The verse states that in collection, applied things are understood as thus and thus.",
+   "uncertainties": [
+    "The exact sandhi expansion of tathā tathetyarthaḥ is editorially fused."
+   ],
+   "plain_english": "And in collection, as things are applied thus and thus, so is the meaning."
+  }
+ ]
+}

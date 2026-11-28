@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "aṣṭaumemūrtayassaṃti",
+     "gloss": "eight-my-forms-exist",
+     "grounds": "fused sandhi clause aṣṭau me mūrtayaḥ santi",
+     "morph": "clause (indecl.)"
+    },
+    {
+     "surface": "svayaṃvyaktā",
+     "gloss": "self-manifested",
+     "grounds": "fused sandhi svayaṃ + vyaktāḥ",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "mahītale",
+     "gloss": "on-earth",
+     "grounds": "locative singular of mahītala",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Which eight divine forms are self-manifested on earth?",
+   "premises": [
+    "Eight forms exist.",
+    "They are self-manifested.",
+    "They are on earth."
+   ],
+   "inference": "The verse states that eight forms are self-manifested on earth.",
+   "uncertainties": [
+    "The fused sandhi forms are kept as single rows.",
+    "The exact referent of 'my' is not specified in this verse."
+   ],
+   "plain_english": "Eight of my forms are self-manifested on earth."
+  }
+ ]
+}

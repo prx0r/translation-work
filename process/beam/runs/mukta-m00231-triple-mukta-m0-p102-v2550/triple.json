@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "homādikaṃ",
+     "gloss": "oblations-and-the-like",
+     "grounds": "compound of homa (oblation) and ādikaṃ (and the like), accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective modifying homādikaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kumārīpūjanaṃ vinā",
+     "gloss": "without-maiden-worship",
+     "grounds": "preposition vinā 'without' with kumārīpūjanaṃ 'maiden-worship'",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are homa and related rites fruitless without maiden worship?",
+   "premises": [
+    "Homa and related rites are fruitless.",
+    "Maiden worship is required for fruit.",
+    "Kaula efficacy depends on kumārīpūjana."
+   ],
+   "inference": "Therefore homa alone lacks efficacy; maiden worship is indispensable.",
+   "uncertainties": [
+    "Whether viphalaṃ modifies homādikaṃ or the whole clause; the final token keeps the prepositional phrase fused."
+   ],
+   "plain_english": "Oblations and the like are indeed fruitless without maiden worship."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "song": "sva-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "mantra noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhanīyaḥ",
+     "gloss": "to-be-recited",
+     "grounds": "paṭh gerundive nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra should be recited here?",
+   "premises": [
+    "the mantra is to be recited",
+    "recitation follows the stated rite"
+   ],
+   "inference": "the prescribed mantra requires recitation",
+   "uncertainties": [
+    "the exact mantra referent is not supplied in this excerpt"
+   ],
+   "plain_english": "The mantra is to be recited."
+  }
+ ]
+}

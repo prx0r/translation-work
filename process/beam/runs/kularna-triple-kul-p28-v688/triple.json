@@ -1,0 +1,511 @@
+{
+ "song": "kul-p28",
+ "items": [
+  {
+   "verse": 688,
+   "rows": [
+    {
+     "surface": "saṃsmṛtyā",
+     "gloss": "remembering",
+     "grounds": "gerund of saṃsmṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worship",
+     "grounds": "gerund of abhyarc",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātrantu",
+     "gloss": "vessel",
+     "grounds": "pātram plus enclitic tu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "honor",
+     "grounds": "root pūj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dhenumudrayā",
+     "gloss": "cow-seal",
+     "grounds": "dhenu-mudrā instrumental",
+     "morph": "f.instr.sg"
+    }
+   ],
+   "question": "How is the vessel to be honored after remembering and worship?",
+   "premises": [
+    "remembering precedes worship",
+    "vessel is honored with cow-seal"
+   ],
+   "inference": "The vessel is honored by cow-seal after remembrance and worship.",
+   "uncertainties": [],
+   "plain_english": "Remembering and worshipping, one honors the vessel with the cow-seal."
+  },
+  {
+   "verse": 689,
+   "rows": [
+    {
+     "surface": "āpūritaṃ",
+     "gloss": "filled",
+     "grounds": "past participle of āpūr",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāpātraṃ",
+     "gloss": "great-vessel",
+     "grounds": "mahā plus pātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīyūṣarasamāvaha",
+     "gloss": "nectar-essence-bringing",
+     "grounds": "pīyūṣa-rasa-māvaha compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fills the great vessel?",
+   "premises": [
+    "great vessel is filled",
+    "it brings nectar essence"
+   ],
+   "inference": "The filled great vessel brings nectar essence.",
+   "uncertainties": [],
+   "plain_english": "The great vessel, filled, brings the essence of nectar."
+  },
+  {
+   "verse": 690,
+   "rows": [
+    {
+     "surface": "nyāsokta",
+     "gloss": "nyāsa-stated",
+     "grounds": "nyāsa plus ukta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvamantraiśca",
+     "gloss": "all-mantras",
+     "grounds": "sarva-mantra instrumental plural plus ca",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "ātman accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "root pūj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the self worshipped with mantras?",
+   "premises": [
+    "nyāsa-stated mantras are used",
+    "self is worshipped",
+    "beloved is addressed"
+   ],
+   "inference": "The self is worshipped with all nyāsa-stated mantras, beloved.",
+   "uncertainties": [],
+   "plain_english": "Beloved, worship the self with all mantras stated in nyāsa."
+  },
+  {
+   "verse": 691,
+   "rows": [
+    {
+     "surface": "divyaughe",
+     "gloss": "divine-stream",
+     "grounds": "divya plus augha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ādināthaśca",
+     "gloss": "first-lord",
+     "grounds": "ādi-nātha plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tacchaktiśca",
+     "gloss": "that-power",
+     "grounds": "tat plus śakti plus ca",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadāśiva",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who belongs to the divine stream?",
+   "premises": [
+    "first lord is included",
+    "that power is included",
+    "sadāśiva is included"
+   ],
+   "inference": "The divine stream includes the first lord, that power, and Sadāśiva.",
+   "uncertainties": [],
+   "plain_english": "In the divine stream are the first lord, that power, and Sadāśiva."
+  },
+  {
+   "verse": 692,
+   "rows": [
+    {
+     "surface": "viṣṇuśca",
+     "gloss": "viṣṇu",
+     "grounds": "proper name plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatpriyā",
+     "gloss": "that-beloved",
+     "grounds": "tat plus priyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatkāntā",
+     "gloss": "that-consort",
+     "grounds": "tat plus kāntā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvādaśeritāḥ",
+     "gloss": "twelve-declared",
+     "grounds": "dvādaśa plus īrita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which twelve are declared in this group?",
+   "premises": [
+    "viṣṇu is included",
+    "that beloved is included",
+    "brahmā is included",
+    "that consort is included"
+   ],
+   "inference": "These named deities are among the twelve declared.",
+   "uncertainties": [],
+   "plain_english": "Viṣṇu, that beloved, Brahmā, and that consort are among the twelve declared."
+  },
+  {
+   "verse": 693,
+   "rows": [
+    {
+     "surface": "sanatkumāraśca",
+     "gloss": "sanatkumāra",
+     "grounds": "proper name plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sanatsujātaśca",
+     "gloss": "sanatsujāta",
+     "grounds": "proper name plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛbhukṣajaḥ",
+     "gloss": "ṛbhukṣaja",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sages are named here?",
+   "premises": [
+    "sanatkumāra is named",
+    "sanatsujāta is named",
+    "ṛbhukṣaja is named"
+   ],
+   "inference": "The named sages are Sanatkumāra, Sanatsujāta, and Ṛbhukṣaja.",
+   "uncertainties": [],
+   "plain_english": "Sanatkumāra, Sanatsujāta, and Ṛbhukṣaja are named."
+  },
+  {
+   "verse": 694,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "vyāsa",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukaścaiva",
+     "gloss": "śuka",
+     "grounds": "śuka plus ca plus eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven-declared",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīritāḥ",
+     "gloss": "samīrita",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are declared after Vyāsa and Śuka?",
+   "premises": [
+    "vyāsa is named",
+    "śuka is named",
+    "eleven are declared"
+   ],
+   "inference": "Vyāsa and Śuka are among the eleven declared.",
+   "uncertainties": [],
+   "plain_english": "Then Vyāsa and Śuka are among the eleven declared."
+  },
+  {
+   "verse": 695,
+   "rows": [
+    {
+     "surface": "mahendro",
+     "gloss": "mahendra",
+     "grounds": "mahā plus indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mādhavo",
+     "gloss": "mādhava",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍete",
+     "gloss": "six-these",
+     "grounds": "ṣaṣ plus ete",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also-declared",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīttītāḥ",
+     "gloss": "prakīrtita",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which six are praised here?",
+   "premises": [
+    "mahendra is named",
+    "mādhava is named",
+    "viṣṇu is named",
+    "six are declared"
+   ],
+   "inference": "Mahendra, Mādhava, and Viṣṇu are among the six praised.",
+   "uncertainties": [],
+   "plain_english": "Mahendra, Mādhava, and Viṣṇu are among the six praised."
+  },
+  {
+   "verse": 696,
+   "rows": [
+    {
+     "surface": "mahāśivañca",
+     "gloss": "great-śiva",
+     "grounds": "mahā-śiva plus ca",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "siddhaughe",
+     "gloss": "siddha-stream",
+     "grounds": "siddha plus augha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānavaughe",
+     "gloss": "human-stream",
+     "grounds": "mānava plus augha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadāśivam",
+     "gloss": "sadāśiva",
+     "grounds": "proper name accusative",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who is honored in the siddha and human streams?",
+   "premises": [
+    "great śiva is named",
+    "siddha stream is named",
+    "human stream is named",
+    "sadāśiva is named"
+   ],
+   "inference": "Great Śiva and Sadāśiva are honored in the siddha and human streams.",
+   "uncertainties": [],
+   "plain_english": "Great Śiva and Sadāśiva are honored in the siddha and human streams."
+  },
+  {
+   "verse": 697,
+   "rows": [
+    {
+     "surface": "sarvabhūtahite",
+     "gloss": "all-beings-welfare",
+     "grounds": "sarva-bhūta-hita locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mātare",
+     "gloss": "mother",
+     "grounds": "mātṛ vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ehi",
+     "gloss": "come-here",
+     "grounds": "imperative of e",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "parama plus īśvarī vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is invited for the welfare of all beings?",
+   "premises": [
+    "welfare of all beings is named",
+    "mother is addressed",
+    "supreme goddess is addressed",
+    "come here is commanded"
+   ],
+   "inference": "The supreme goddess, mother, is invited to come for the welfare of all beings.",
+   "uncertainties": [],
+   "plain_english": "Mother, supreme goddess, come here for the welfare of all beings."
+  },
+  {
+   "verse": 698,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "tvam accusative",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "pūjayāmīha",
+     "gloss": "I-worship",
+     "grounds": "pūjayāmi plus iha",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "pronoun nominative",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "susthirā",
+     "gloss": "well-steady",
+     "grounds": "su plus sthirā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative of bhū",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "What is asked while worshipping you?",
+   "premises": [
+    "worship is performed here",
+    "you are addressed",
+    "steadiness is requested"
+   ],
+   "inference": "As long as I worship you here, may you be well-steady.",
+   "uncertainties": [],
+   "plain_english": "As long as I worship you here, may you be well-steady."
+  },
+  {
+   "verse": 699,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "meditating",
+     "grounds": "gerund of dhyā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "mudrā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pradarśyārcet",
+     "gloss": "showing",
+     "grounds": "pradarśya plus arcet fused",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "gandhapuṣpākṣatādibhiḥ",
+     "gloss": "sandal-flowers-rice-etc",
+     "grounds": "gandha-puṣpa-akṣata-ādi instrumental plural",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "How is worship performed after meditation?",
+   "premises": [
+    "meditation comes first",
+    "seal is shown",
+    "worship uses sandal flowers rice etc"
+   ],
+   "inference": "After meditating and showing the seal, one worships with sandal, flowers, rice, and the rest.",
+   "uncertainties": [],
+   "plain_english": "Meditating and showing the seal, one worships with sandal, flowers, rice, and so on."
+  }
+ ]
+}

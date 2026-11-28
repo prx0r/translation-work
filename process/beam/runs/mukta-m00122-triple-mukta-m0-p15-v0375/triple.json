@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "prāṇo",
+     "gloss": "prāṇa",
+     "grounds": "nominative subject; life-breath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jalarayānvitaḥ",
+     "gloss": "joined-with-water-ray",
+     "grounds": "compound jala+raya+anvita; modifies prāṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kakāro",
+     "gloss": "ka-syllable",
+     "grounds": "ka plus kāra; subject of kṛt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛkāratakārābhyāṃ",
+     "gloss": "with-ṛ-and-ta",
+     "grounds": "instrumental dual; ṛkāra and takāra",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "sahitaḥ",
+     "gloss": "joined",
+     "grounds": "participle; with instrumental",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "made",
+     "grounds": "kṛta; result",
+     "morph": "m.nom.sg.participle"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the ka-syllable combined with ṛ and ta in this mantra construction?",
+   "premises": [
+    "prāṇa is joined with water-ray",
+    "ka-syllable is joined with ṛ and ta",
+    "the result is described as made"
+   ],
+   "inference": "ka becomes joined with ṛ and ta in this construction",
+   "uncertainties": [
+    "exact ritual referent of jalaraya remains undecidable from this verse alone"
+   ],
+   "plain_english": "Prāṇa is joined with the water-ray; the ka-syllable, joined with ṛ and ta, is made."
+  }
+ ]
+}

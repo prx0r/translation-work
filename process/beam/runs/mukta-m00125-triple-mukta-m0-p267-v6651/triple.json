@@ -1,0 +1,1457 @@
+{
+ "song": "mukta-m0-p267",
+ "items": [
+  {
+   "verse": 6651,
+   "rows": [
+    {
+     "surface": "homa",
+     "gloss": "oblation",
+     "grounds": "ritual fire offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karma",
+     "gloss": "ritual-act",
+     "grounds": "action performed in rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "dedicating the ritual act",
+     "morph": "absolutive (ni-vid)"
+    },
+    {
+     "surface": "asmai",
+     "gloss": "to-him",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "act of praise",
+     "morph": "absolutive (stu)"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "absolutive (pra-ṇam)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What devotional acts must follow the offering of the oblation ritual to the deity?",
+   "premises": [
+    "The oblation ritual act is offered to the deity.",
+    "The deity is praised after the offering.",
+    "The deity is bowed to after praise."
+   ],
+   "inference": "Offering the oblation must be followed by praising and bowing to the deity.",
+   "uncertainties": [
+    "The specific deity intended by asmai/devaṃ is not named."
+   ],
+   "plain_english": "Having offered the oblation ritual to him, and having praised and bowed to the god,"
+  },
+  {
+   "verse": 6652,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to ash from oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "sacred ash from fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālepanaṃ",
+     "gloss": "smearing",
+     "grounds": "act of applying ash",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (kṛ)"
+    },
+    {
+     "surface": "tan",
+     "gloss": "with-that",
+     "grounds": "associated with ash application",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "contemplative focus",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by mantra and meditation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the sacred ash be applied after the oblation ritual?",
+   "premises": [
+    "The ash from the oblation is to be used.",
+    "Smearing of that ash is prescribed.",
+    "The smearing must be accompanied by mantra and meditation."
+   ],
+   "inference": "One should smear the oblation ash while conjoining it with mantra and meditation.",
+   "uncertainties": [
+    "The specific mantra and meditation are not specified."
+   ],
+   "plain_english": "one should smear on that ash, accompanied by the appropriate mantra and meditation."
+  },
+  {
+   "verse": 6653,
+   "rows": [
+    {
+     "surface": "homānte",
+     "gloss": "at-oblation-end",
+     "grounds": "time after fire offering",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual food offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (dā)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "it-is-stated",
+     "grounds": "scriptural declaration",
+     "morph": "3.sg.present-passive (ni-gad)"
+    }
+   ],
+   "question": "When and under what alternatives may a bali offering be given?",
+   "premises": [
+    "A bali offering may be given at the end of the oblation.",
+    "An alternative timing or manner is also allowed.",
+    "This allowance is stated in the teaching."
+   ],
+   "inference": "The bali may be given at the oblation's end or otherwise as stated.",
+   "uncertainties": [
+    "The exact alternative circumstances implied by anyathā are unspecified."
+   ],
+   "plain_english": "At the end of the oblation, or otherwise also, one should give a bali offering, as it is stated."
+  },
+  {
+   "verse": 6654,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "scented substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "floral offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādinā",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "ritual worship act",
+     "morph": "absolutive (abhi-arc)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balyantam",
+     "gloss": "up-to-offering",
+     "grounds": "culminating in bali",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What worship sequence should precede and culminate in the bali offering?",
+   "premises": [
+    "Worship is performed with fragrance, flowers, and similar items.",
+    "The ritual proceeds in the same manner.",
+    "The sequence culminates in the bali offering."
+   ],
+   "inference": "One should worship with fragrance, flowers, and so forth, continuing up to the bali offering.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with fragrance, flowers, and so forth, one should proceed likewise up to the bali offering."
+  },
+  {
+   "verse": 6655,
+   "rows": [
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "ritually clean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "cooked rice or food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vājya",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "mixed-with",
+     "grounds": "combined with ghee",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "yogurt",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "apūpa",
+     "gloss": "cake",
+     "grounds": "ritual cake",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by curd, cakes, etc.",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What substances should constitute the bali food offering?",
+   "premises": [
+    "The offering consists of pure food.",
+    "The food is mixed with ghee.",
+    "It is accompanied by curd, cakes, and similar items."
+   ],
+   "inference": "The bali should be pure food mixed with ghee and accompanied by curd, cakes, and so forth.",
+   "uncertainties": [
+    "vājya may be a variant spelling for ājya (ghee)."
+   ],
+   "plain_english": "The offering should be pure food mixed with ghee, and accompanied by curd, cakes, and so forth."
+  },
+  {
+   "verse": 6656,
+   "rows": [
+    {
+     "surface": "cature",
+     "gloss": "at-crossroads",
+     "grounds": "junction of roads",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caitya",
+     "gloss": "sacred",
+     "grounds": "sacred or revered",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣasya",
+     "gloss": "of-tree",
+     "grounds": "sacred tree",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "base of the tree",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rathyām",
+     "gloss": "on-road",
+     "grounds": "street or roadway",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which locations may the bali offering be placed?",
+   "premises": [
+    "A crossroads is a possible location.",
+    "The root of a sacred tree is a possible location.",
+    "A road is also a possible location."
+   ],
+   "inference": "The bali may be placed at a crossroads, at the root of a sacred tree, or on a road.",
+   "uncertainties": [],
+   "plain_english": "At a crossroads, at the root of a sacred tree, or also on a road."
+  },
+  {
+   "verse": 6657,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satvo",
+     "gloss": "being",
+     "grounds": "entity or spirit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devadattaṃ",
+     "gloss": "devadatta",
+     "grounds": "name of the person or vital air",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "taking refuge in or inhabiting",
+     "morph": "absolutive (sam-ā-śri)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context or place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "dwells",
+     "grounds": "exists or remains",
+     "morph": "3.sg.present-middle (vṛt)"
+    }
+   ],
+   "question": "For which being dwelling in association with Devadatta is the offering intended?",
+   "premises": [
+    "A certain being is referenced.",
+    "That being has resorted to Devadatta.",
+    "That being dwells here."
+   ],
+   "inference": "The offering is intended for the being that dwells here having resorted to Devadatta.",
+   "uncertainties": [
+    "Whether devadattaṃ refers to a person or the vital breath is ambiguous."
+   ],
+   "plain_english": "For whatever being dwells here, having resorted to Devadatta,"
+  },
+  {
+   "verse": 6658,
+   "rows": [
+    {
+     "surface": "ekāha",
+     "gloss": "one-day",
+     "grounds": "period of one day",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "starting from",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daśāha",
+     "gloss": "ten-days",
+     "grounds": "period of ten days",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "ending-with",
+     "grounds": "up to",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māsāt",
+     "gloss": "from-month",
+     "grounds": "period of a month",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saṃvatsara",
+     "gloss": "year",
+     "grounds": "period of a year",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antakam",
+     "gloss": "ending-with",
+     "grounds": "up to a year",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Over what range of durations may the bali offering be performed?",
+   "premises": [
+    "The duration may range from one day to ten days.",
+    "The duration may extend from a month.",
+    "The duration may extend up to a year."
+   ],
+   "inference": "The bali may be performed for periods ranging from one day up to a year.",
+   "uncertainties": [
+    "The exact syntactic coordination of the time periods is somewhat compressed."
+   ],
+   "plain_english": "beginning from one day up to ten days, or from a month up to a year,"
+  },
+  {
+   "verse": 6659,
+   "rows": [
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "ritual bali offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "the described offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "declared",
+     "grounds": "prescribed in scripture",
+     "morph": "m.nom.sg.past-passive-participle (sam-ā-khyā)"
+    },
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "fragrant smoke offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "light offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "accompanied-by",
+     "grounds": "endowed with incense and lamp",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What additional ritual items must accompany the declared bali offering?",
+   "premises": [
+    "This bali offering is declared in the teaching.",
+    "Incense is included with the offering.",
+    "A lamp is included with the offering."
+   ],
+   "inference": "The declared bali offering must be accompanied by incense and a lamp.",
+   "uncertainties": [],
+   "plain_english": "this bali offering is declared, accompanied by incense and a lamp."
+  },
+  {
+   "verse": 6660,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "another",
+     "grounds": "different",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-method",
+     "grounds": "by means of procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "illness or affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mocanam",
+     "gloss": "release",
+     "grounds": "liberation from disease",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "scriptural declaration",
+     "morph": "3.sg.present-passive (vac)"
+    }
+   ],
+   "question": "What alternative procedure is introduced for achieving release from disease?",
+   "premises": [
+    "A new topic is introduced.",
+    "Another method is presented.",
+    "This method concerns release from disease."
+   ],
+   "inference": "Another method for release from disease is now stated.",
+   "uncertainties": [],
+   "plain_english": "Now, or by another method, release from disease is stated."
+  },
+  {
+   "verse": 6661,
+   "rows": [
+    {
+     "surface": "sauvarṇāṃ",
+     "gloss": "golden",
+     "grounds": "made of gold",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rājatāṃ",
+     "gloss": "silver",
+     "grounds": "made of silver",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śata",
+     "gloss": "hundred",
+     "grounds": "quantity of niṣkas",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niṣka",
+     "gloss": "niṣka",
+     "grounds": "unit of weight or coin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vinirmitām",
+     "gloss": "made-of",
+     "grounds": "fashioned or constructed",
+     "morph": "f.acc.sg.past-passive-participle (vi-nir-mā)"
+    }
+   ],
+   "question": "What materials and weight may be used for the high-value ritual image?",
+   "premises": [
+    "The image may be made of gold.",
+    "The image may be made of silver.",
+    "It may be fashioned from a hundred niṣkas."
+   ],
+   "inference": "A ritual image may be made of gold or silver, fashioned from a hundred niṣkas.",
+   "uncertainties": [
+    "niṣka as a precise measure or coin value is context-dependent."
+   ],
+   "plain_english": "One may make it of gold or of silver, fashioned from a hundred niṣkas,"
+  },
+  {
+   "verse": 6662,
+   "rows": [
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "quantity of niṣkas",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niṣkam",
+     "gloss": "niṣka",
+     "grounds": "unit of weight or coin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "the image",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "quantity of niṣkas",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "niṣka",
+     "gloss": "niṣka",
+     "grounds": "unit of weight or coin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vinirmitām",
+     "gloss": "made-of",
+     "grounds": "fashioned or constructed",
+     "morph": "f.acc.sg.past-passive-participle (vi-nir-mā)"
+    }
+   ],
+   "question": "What lesser material values are permitted for making the ritual image?",
+   "premises": [
+    "The image may be made from ten niṣkas.",
+    "Alternatively it may be made from five niṣkas.",
+    "These are permitted alternatives for the same image."
+   ],
+   "inference": "The ritual image may alternatively be fashioned from ten or five niṣkas.",
+   "uncertainties": [],
+   "plain_english": "or this one made from ten niṣkas, or made from five niṣkas."
+  },
+  {
+   "verse": 6663,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (kṛ)"
+    },
+    {
+     "surface": "pratikṛtiṃ",
+     "gloss": "image",
+     "grounds": "effigy or representation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "the-wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vitta",
+     "gloss": "wealth",
+     "grounds": "regarding material resources",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śāṭhyaṃ",
+     "gloss": "deceit",
+     "grounds": "dishonesty or miserliness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "should bring about or practice",
+     "morph": "3.sg.optative-causative-active (kṛ)"
+    }
+   ],
+   "question": "What ethical constraint governs the wise person's making of the ritual image?",
+   "premises": [
+    "The wise person should make the image.",
+    "Wealth is involved in making the image.",
+    "Deceit regarding wealth must not be practiced."
+   ],
+   "inference": "The wise person should make the image without practicing deceit regarding wealth.",
+   "uncertainties": [
+    "vitta-śāṭhyaṃ could mean miserliness or fraud in expenditure."
+   ],
+   "plain_english": "The wise one should make the image and should not practice deceit regarding wealth."
+  },
+  {
+   "verse": 6664,
+   "rows": [
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "form of time or death",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "shape or appearance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nemi",
+     "gloss": "wheel-rim",
+     "grounds": "circular rim form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "shape or appearance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpa",
+     "gloss": "form",
+     "grounds": "shape or appearance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "another",
+     "grounds": "different form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms may the ritual image take?",
+   "premises": [
+    "The image may take the form of Kāla.",
+    "The image may take the form of a wheel-rim.",
+    "Another form is also permitted."
+   ],
+   "inference": "The image may be in the form of Kāla, a wheel-rim, or another form.",
+   "uncertainties": [
+    "kāla-rūpaṃ may refer to Time or to the deity Kāla."
+   ],
+   "plain_english": "It may be in the form of Kāla, or in the form of a wheel-rim, or indeed in another form."
+  },
+  {
+   "verse": 6665,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "by the described method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "ritual procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "sick-person",
+     "grounds": "one afflicted by disease",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arogī",
+     "gloss": "free-from-disease",
+     "grounds": "healthy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "will-become",
+     "grounds": "result of the rite",
+     "morph": "3.sg.optative-active (as)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What assured outcome results from performing this ritual method for the sick?",
+   "premises": [
+    "The method described is applied.",
+    "A sick person undergoes the rite.",
+    "The teaching asserts no doubt about the result."
+   ],
+   "inference": "By this method the sick person becomes free from disease without doubt.",
+   "uncertainties": [],
+   "plain_english": "By this method the sick person will become free from disease; there is no doubt."
+  },
+  {
+   "verse": 6666,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number of months",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṣaṇ",
+     "gloss": "six",
+     "grounds": "number of months",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māsa",
+     "gloss": "month",
+     "grounds": "time unit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "until",
+     "grounds": "up to that duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "extent of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "illness",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vināśanam",
+     "gloss": "destruction",
+     "grounds": "removal of disease",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Over what maximum duration can this rite effect the destruction of disease?",
+   "premises": [
+    "The rite may be applied for five or six months.",
+    "The duration extends up to that limit.",
+    "Disease destruction occurs within that period."
+   ],
+   "inference": "The destruction of disease may take up to five or six months.",
+   "uncertainties": [
+    "The exact construction linking duration and destruction is compressed."
+   ],
+   "plain_english": "The destruction of disease may take place over a period of up to five or six months."
+  },
+  {
+   "verse": 6667,
+   "rows": [
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth-day",
+     "grounds": "eighth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "fourteenth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parvaṇi",
+     "gloss": "on-festival-day",
+     "grounds": "auspicious juncture",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣayoḥ",
+     "gloss": "of-two-fortnights",
+     "grounds": "bright and dark halves of month",
+     "morph": "m.loc.dual"
+    }
+   ],
+   "question": "On which lunar days and occasions may the ritual be performed?",
+   "premises": [
+    "The eighth lunar day is suitable.",
+    "The fourteenth lunar day is suitable.",
+    "Festival days in both fortnights are also suitable."
+   ],
+   "inference": "The ritual may be performed on the eighth, fourteenth, or festival days of either fortnight.",
+   "uncertainties": [],
+   "plain_english": "On the eighth day, or on the fourteenth day, or also on a festival day in either fortnight,"
+  },
+  {
+   "verse": 6668,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "one's own",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "natal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṛkṣe",
+     "gloss": "on-asterism",
+     "grounds": "lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "anu",
+     "gloss": "following",
+     "grounds": "or subsequent to",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "natal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṛkṣe",
+     "gloss": "on-asterism",
+     "grounds": "lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "ritually clean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-place",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "manorame",
+     "gloss": "delightful",
+     "grounds": "pleasing",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What astrological and spatial conditions are suitable for performing the ritual?",
+   "premises": [
+    "One's own birth asterism is suitable.",
+    "The asterism following the birth asterism is also suitable.",
+    "The place must be pure and delightful."
+   ],
+   "inference": "The ritual should be done on one's birth asterism or the next, in a pure and delightful place.",
+   "uncertainties": [
+    "anu-janma-ṛkṣe may mean the asterism after birth or a related natal asterism."
+   ],
+   "plain_english": "on one's own birth asterism or the following birth asterism, in a pure and delightful place,"
+  },
+  {
+   "verse": 6669,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "prepared ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after preparing",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "then",
+     "grounds": "afterward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "should prepare or consecrate",
+     "morph": "3.sg.optative-causative-active (sidh)"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "ritual water vessels",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of pots",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual preparations must be made on the altar before consecration?",
+   "premises": [
+    "An altar is prepared in that place.",
+    "After preparing the altar, further action is taken.",
+    "Nine pots are to be accomplished or consecrated."
+   ],
+   "inference": "After making an altar there, one should prepare nine ritual pots.",
+   "uncertainties": [
+    "ante could mean 'at the end' or 'then/afterward'."
+   ],
+   "plain_english": "having made an altar there, one should then prepare nine pots."
+  },
+  {
+   "verse": 6670,
+   "rows": [
+    {
+     "surface": "eko",
+     "gloss": "one",
+     "grounds": "single pot",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "among those pots",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "ritual vessel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-active (as)"
+    },
+    {
+     "surface": "droṇa",
+     "gloss": "droṇa",
+     "grounds": "measure of capacity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūritaḥ",
+     "gloss": "filled",
+     "grounds": "filled to capacity",
+     "morph": "m.nom.sg.past-passive-participle (pṛ)"
+    }
+   ],
+   "question": "How should the central pot among the ritual vessels be arranged and filled?",
+   "premises": [
+    "One pot is placed in the middle of them.",
+    "That pot is a ghaṭa vessel.",
+    "It should be filled with a droṇa measure."
+   ],
+   "inference": "One central pot among them should be filled with a droṇa measure.",
+   "uncertainties": [
+    "droṇa as a specific volume measure varies by tradition."
+   ],
+   "plain_english": "One pot in the middle of them should be filled with a droṇa measure."
+  },
+  {
+   "verse": 6671,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "every kind",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "auṣadhi",
+     "gloss": "herbs",
+     "grounds": "medicinal plants",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktān",
+     "gloss": "endowed-with",
+     "grounds": "containing all herbs",
+     "morph": "m.acc.pl.past-passive-participle (sam-ā-yuj)"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "diverse kinds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seeds",
+     "grounds": "grains or seeds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitān",
+     "gloss": "endowed-with",
+     "grounds": "containing various seeds",
+     "morph": "m.acc.pl.past-passive-participle (sam-anv-i)"
+    }
+   ],
+   "question": "What herbal and seed contents must the ritual pots contain?",
+   "premises": [
+    "The pots must contain all herbs.",
+    "The pots must contain various seeds.",
+    "These contents are required for the ritual vessels."
+   ],
+   "inference": "The pots should be endowed with all herbs and various seeds.",
+   "uncertainties": [],
+   "plain_english": "They should be endowed with all herbs and accompanied by various seeds,"
+  },
+  {
+   "verse": 6672,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrant",
+     "grounds": "scented",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toya",
+     "gloss": "water",
+     "grounds": "liquid",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktān",
+     "gloss": "endowed-with",
+     "grounds": "containing fragrant water",
+     "morph": "m.acc.pl.past-passive-participle (sam-ā-yuj)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "respective",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "respective",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitān",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by respective mantras",
+     "morph": "m.acc.pl.past-passive-participle (sam-anv-i)"
+    }
+   ],
+   "question": "What liquid and mantric elements must be added to the ritual pots?",
+   "premises": [
+    "The pots must contain fragrant water.",
+    "Each pot must be associated with its respective mantra.",
+    "These elements complete the pot preparation."
+   ],
+   "inference": "The pots should be filled with fragrant water and endowed with their respective mantras.",
+   "uncertainties": [
+    "The specific mantras indicated by tat-tat-mantra are not named."
+   ],
+   "plain_english": "endowed with fragrant water and accompanied by their respective mantras."
+  },
+  {
+   "verse": 6673,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "respective",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "respective",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śata",
+     "gloss": "hundred",
+     "grounds": "number of repetitions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ālabdhān",
+     "gloss": "consecrated",
+     "grounds": "touched or empowered by mantra",
+     "morph": "m.acc.pl.past-passive-participle (ā-labh)"
+    },
+    {
+     "surface": "tatpūrve",
+     "gloss": "before-that",
+     "grounds": "prior to that or in front",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturṣu",
+     "gloss": "in-four",
+     "grounds": "in four pots or directions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many mantra repetitions and which pots are involved in the consecration?",
+   "premises": [
+    "The pots are consecrated with a hundred repetitions of their respective mantras.",
+    "An alternative involves the four pots before or in front.",
+    "This specifies the scope of consecration."
+   ],
+   "inference": "The pots are consecrated with a hundred repetitions of their respective mantras, or alternatively in the four preceding ones.",
+   "uncertainties": [
+    "tatpūrve caturṣu api is syntactically compressed and its exact referent is unclear."
+   ],
+   "plain_english": "They should be consecrated with a hundred repetitions of their respective mantras, or also in the four before that."
+  },
+  {
+   "verse": 6674,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "sacred to Śiva",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "ritual fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "perform fire oblation",
+     "morph": "3.sg.optative-active (hu)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "the-wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samid",
+     "gloss": "fuel-stick",
+     "grounds": "sacrificial wood",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ājya",
+     "gloss": "ghee",
+     "grounds": "clarified butter",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anna",
+     "gloss": "food",
+     "grounds": "cooked grain offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "mixed-with",
+     "grounds": "accompanied by fuel, ghee, and food",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What oblations should the wise practitioner offer into the fire of Śiva?",
+   "premises": [
+    "The wise practitioner performs a fire offering.",
+    "The offering is made in the fire of Śiva.",
+    "The oblation includes fuel-sticks, ghee, and food."
+   ],
+   "inference": "The wise one should offer fuel-sticks, ghee, and food into the fire of Śiva.",
+   "uncertainties": [],
+   "plain_english": "The wise one should offer into the fire of Śiva an oblation mixed with fuel-sticks, ghee, and food."
+  }
+ ]
+}

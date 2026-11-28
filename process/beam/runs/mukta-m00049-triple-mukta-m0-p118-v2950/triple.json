@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2950,
+   "rows": [
+    {
+     "surface": "pitāmahadhanaṃ",
+     "gloss": "grandfather-wealth",
+     "grounds": "compound of pitāmaha (grandfather) and dhana (wealth); object of harec",
+     "morph": "acc.sg.n, compound: pitāmaha+dhana"
+    },
+    {
+     "surface": "saumyā",
+     "gloss": "o-gentle-one",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "harec",
+     "gloss": "should-take",
+     "grounds": "optative expressing entitlement or permission",
+     "morph": "3.sg.act-optative √hṛ"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces the condition under which taking is allowed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtamātṛkā",
+     "gloss": "whose-mother-is-dead",
+     "grounds": "compound of mṛta (dead) and mātṛkā (mother); describes the eligible heir",
+     "morph": "nom.sg.f, compound: mṛta+mātṛkā"
+    }
+   ],
+   "question": "Under what condition may a motherless heir claim the paternal grandfather's wealth?",
+   "premises": [
+    "The wealth in question belongs to the paternal grandfather.",
+    "The potential heir is described as having a deceased mother.",
+    "The act of taking this wealth is presented as conditional."
+   ],
+   "inference": "If the mother is dead, the motherless heir may take the paternal grandfather's wealth.",
+   "uncertainties": [
+    "The exact referent of mṛtamātṛkā (daughter or child in general) is not explicit in this verse alone."
+   ],
+   "plain_english": "O gentle one, if her mother is dead, she may take the grandfather's wealth."
+  }
+ ]
+}

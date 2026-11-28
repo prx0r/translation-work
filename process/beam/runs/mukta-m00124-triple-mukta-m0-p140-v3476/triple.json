@@ -1,0 +1,1166 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3476,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "toraṇaṃ",
+     "gloss": "archway",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrūyatāṃ",
+     "gloss": "let-be-heard",
+     "grounds": "imperative",
+     "morph": "3.sg.pass-imp"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "noun",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What should the twice-born hear after the door and archway are declared?",
+   "premises": [
+    "The door has been declared.",
+    "The archway has been declared.",
+    "The twice-born are addressed."
+   ],
+   "inference": "The next instruction is to be heard by the twice-born.",
+   "uncertainties": [
+    "Exact ritual context of the address is not specified."
+   ],
+   "plain_english": "Thus the door and archway have been declared; let the twice-born hear."
+  },
+  {
+   "verse": 3477,
+   "rows": [
+    {
+     "surface": "tatpādaḥ",
+     "gloss": "its-foot",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādapādonadvyaṃśastryaṃśo'thavā",
+     "gloss": "foot-quarter-or-third",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "opinion",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What are the permitted proportions for the foot of the structure?",
+   "premises": [
+    "The foot is considered.",
+    "The proportion may be a quarter or a third.",
+    "An alternative opinion is allowed."
+   ],
+   "inference": "The foot may be one quarter or one third according to opinion.",
+   "uncertainties": [
+    "The fused sandhi token is not split."
+   ],
+   "plain_english": "Its foot is considered to be a quarter or a third, or according to opinion."
+  },
+  {
+   "verse": 3478,
+   "rows": [
+    {
+     "surface": "uttarāntasamutsedhe",
+     "gloss": "in-northern-end-elevation",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "navāṣṭadaśabhāgike",
+     "gloss": "nine-eight-eighteen-parts",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What elevation measure applies at the northern end?",
+   "premises": [
+    "The northern end elevation is specified.",
+    "The measure is given in nine, eight, or eighteen parts."
+   ],
+   "inference": "The northern end elevation uses a nine-eight-eighteen part measure.",
+   "uncertainties": [
+    "The exact part system is not explained."
+   ],
+   "plain_english": "At the northern end elevation, use a nine-eight-eighteen part measure."
+  },
+  {
+   "verse": 3479,
+   "rows": [
+    {
+     "surface": "uttaraṃ",
+     "gloss": "northern",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridaṇḍaṃ",
+     "gloss": "three-staff",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What northern three-staff or half-vājana measure is prescribed?",
+   "premises": [
+    "The northern measure may be three-staff.",
+    "Its half may be vājana.",
+    "The result should be as stated."
+   ],
+   "inference": "The northern part is three-staff, or its half becomes vājana.",
+   "uncertainties": [
+    "The technical meaning of vājana is not defined."
+   ],
+   "plain_english": "The northern part should be three-staff, or its half should become vājana."
+  },
+  {
+   "verse": 3480,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vājana",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What eternal arrangement applies above when half becomes vājana?",
+   "premises": [
+    "Half may be vājana.",
+    "Above, all that should be.",
+    "The arrangement is eternal."
+   ],
+   "inference": "Above, the whole arrangement is eternal when half is vājana.",
+   "uncertainties": [
+    "The exact spatial relation is not fully specified."
+   ],
+   "plain_english": "Or half becomes vājana; above, all that is eternal."
+  },
+  {
+   "verse": 3481,
+   "rows": [
+    {
+     "surface": "citratoraṇam",
+     "gloss": "painted-archway",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityeṣāṃ",
+     "gloss": "thus",
+     "grounds": "compound",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "maṇḍanaṃ",
+     "gloss": "ornament",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What ornament of the painted archway is now being described?",
+   "premises": [
+    "The painted archway has ornament.",
+    "The ornament is now said.",
+    "The reference is to these."
+   ],
+   "inference": "The ornament of the painted archway is now being described.",
+   "uncertainties": [
+    "The referent of these is not explicit."
+   ],
+   "plain_english": "Now the ornament of the painted archway is said."
+  },
+  {
+   "verse": 3482,
+   "rows": [
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "makarayoḥ",
+     "gloss": "makaras",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vaktraiḥ",
+     "gloss": "by-mouths",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saktaṃ",
+     "gloss": "attached",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamapūritam",
+     "gloss": "middle-filled",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the middle filled between the two makaras?",
+   "premises": [
+    "Two makaras are present.",
+    "Their mouths attach the middle.",
+    "The middle is filled."
+   ],
+   "inference": "The middle is attached by the mouths of two makaras and filled.",
+   "uncertainties": [
+    "The exact filling material is not named."
+   ],
+   "plain_english": "Attached by the mouths of two makaras, the middle is filled."
+  },
+  {
+   "verse": 3483,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "of-sides",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūritaṃ",
+     "gloss": "filled",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-both",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What same middle filling applies to both sides?",
+   "premises": [
+    "That same middle is considered.",
+    "Both sides are mentioned.",
+    "The middle is filled."
+   ],
+   "inference": "The same middle filling applies to both sides.",
+   "uncertainties": [
+    "The exact side ornament is not specified."
+   ],
+   "plain_english": "That same middle is filled on both sides."
+  },
+  {
+   "verse": 3484,
+   "rows": [
+    {
+     "surface": "vidyādharaiḥ",
+     "gloss": "with-vidyādharas",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtaiḥ",
+     "gloss": "with-bhūtas",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhebhavyālahaṃsakaiḥ",
+     "gloss": "with-lions-elephants-serpents-swans",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which beings and creatures ornament the archway?",
+   "premises": [
+    "Vidyādharas are included.",
+    "Bhūtas are included.",
+    "Lions, elephants, serpents, and swans are included."
+   ],
+   "inference": "The archway is ornamented with vidyādharas, bhūtas, lions, elephants, serpents, and swans.",
+   "uncertainties": [
+    "The exact placement of each creature is not stated."
+   ],
+   "plain_english": "With vidyādharas, bhūtas, lions, elephants, serpents, and swans."
+  },
+  {
+   "verse": 3485,
+   "rows": [
+    {
+     "surface": "citratoraṇam",
+     "gloss": "painted-archway",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhūbhṛtāṃ",
+     "gloss": "of-earth-bearers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "varam",
+     "gloss": "best",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom is this painted archway the best?",
+   "premises": [
+    "This painted archway is considered.",
+    "It is best among gods.",
+    "It is best among earth-bearers."
+   ],
+   "inference": "This painted archway is the best for gods and earth-bearers.",
+   "uncertainties": [
+    "Earth-bearers may mean kings or mountains."
+   ],
+   "plain_english": "This painted archway is the best for gods and earth-bearers."
+  },
+  {
+   "verse": 3486,
+   "rows": [
+    {
+     "surface": "caturaśrāṣṭavṛttābhāḥ",
+     "gloss": "square-eight-round-like",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kumbhamaṇḍyādisaṃyutāḥ",
+     "gloss": "with-pot-ornament-etc",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What shapes and ornaments are prescribed for these elements?",
+   "premises": [
+    "The forms are square, eight, or round-like.",
+    "They are joined with pot ornament and so forth."
+   ],
+   "inference": "The elements take square, eight, or round-like forms with pot ornament and related decoration.",
+   "uncertainties": [
+    "The exact elements are not named."
+   ],
+   "plain_english": "Square, eight, or round-like, joined with pot ornament and so forth."
+  },
+  {
+   "verse": 3487,
+   "rows": [
+    {
+     "surface": "utsandhyādavalambaṃ",
+     "gloss": "pendant-from-lintel",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "makarapṛṣṭhakam",
+     "gloss": "makara-back",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pendant makara-back ornament should be made from the lintel?",
+   "premises": [
+    "A pendant from the lintel is to be made.",
+    "The ornament is a makara-back."
+   ],
+   "inference": "One should make a makara-back pendant hanging from the lintel.",
+   "uncertainties": [
+    "The exact suspension method is not described."
+   ],
+   "plain_english": "One should make a makara-back pendant hanging from the lintel."
+  },
+  {
+   "verse": 3488,
+   "rows": [
+    {
+     "surface": "catudaṇḍāntamānaṃ",
+     "gloss": "four-staff-end-measure",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhāveśanam",
+     "gloss": "cave-entrance",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What measure is desired for the cave entrance?",
+   "premises": [
+    "The cave entrance is considered.",
+    "Its measure is four-staff at the end.",
+    "It is desired."
+   ],
+   "inference": "The cave entrance is desired to measure four-staff at the end.",
+   "uncertainties": [
+    "The exact unit of staff is not defined."
+   ],
+   "plain_english": "The cave entrance is desired to measure four-staff at the end."
+  },
+  {
+   "verse": 3489,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇāmūrti",
+     "gloss": "dakṣiṇāmūrti",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "liṅgotthaṃ",
+     "gloss": "liṅga-born",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "on-west",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where are Dakṣiṇāmūrti and the liṅga-born image placed?",
+   "premises": [
+    "Dakṣiṇāmūrti is on the right.",
+    "The liṅga-born image is on the west.",
+    "The placement is relative to it."
+   ],
+   "inference": "Dakṣiṇāmūrti is placed on the right and the liṅga-born image on the west.",
+   "uncertainties": [
+    "The reference of it is not explicit."
+   ],
+   "plain_english": "Dakṣiṇāmūrti is on the right, and the liṅga-born image is on the west."
+  },
+  {
+   "verse": 3490,
+   "rows": [
+    {
+     "surface": "ardhamaṇḍapadakṣāṃśe",
+     "gloss": "half-pavilion-right-part",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vighneśaṃ",
+     "gloss": "gaṇeśa",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nṛttarūpiṇam",
+     "gloss": "dancing-form",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the dancing Gaṇeśa be placed?",
+   "premises": [
+    "The right part of the half-pavilion is specified.",
+    "Gaṇeśa is in dancing form.",
+    "He is to be placed there."
+   ],
+   "inference": "The dancing Gaṇeśa is placed in the right part of the half-pavilion.",
+   "uncertainties": [
+    "The exact pavilion location is not specified."
+   ],
+   "plain_english": "Place the dancing Gaṇeśa in the right part of the half-pavilion."
+  },
+  {
+   "verse": 3491,
+   "rows": [
+    {
+     "surface": "nānākārayutaṃ",
+     "gloss": "with-various-forms",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatraikaṃ",
+     "gloss": "everywhere-one",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What placement options are given for varied or single forms?",
+   "premises": [
+    "One may place varied forms.",
+    "One may place one form everywhere.",
+    "Placement is optional."
+   ],
+   "inference": "One may place either varied forms or one form everywhere.",
+   "uncertainties": [
+    "The object being placed is not named."
+   ],
+   "plain_english": "Place either varied forms or one form everywhere."
+  },
+  {
+   "verse": 3492,
+   "rows": [
+    {
+     "surface": "tale",
+     "gloss": "on-floor",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tale",
+     "gloss": "tale",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāṃśca",
+     "gloss": "gods",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gale",
+     "gloss": "on-neck",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "do",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should gods be placed on floor and neck?",
+   "premises": [
+    "Gods are to be placed.",
+    "Placement occurs on floor and neck.",
+    "One should act thus."
+   ],
+   "inference": "Gods should be placed on the floor and on the neck in this manner.",
+   "uncertainties": [
+    "The exact gods are not listed."
+   ],
+   "plain_english": "Place the gods on the floor and on the neck, and act thus."
+  },
+  {
+   "verse": 3493,
+   "rows": [
+    {
+     "surface": "indraṃ",
+     "gloss": "indra",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāhanayuktaṃ",
+     "gloss": "with-vehicle",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrarūpaṃ",
+     "gloss": "rudra-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What forms of Indra or Rudra may be placed?",
+   "premises": [
+    "Indra with vehicle may be placed.",
+    "Rudra form may be placed.",
+    "Placement is optional."
+   ],
+   "inference": "One may place either Indra with his vehicle or a Rudra form.",
+   "uncertainties": [
+    "The exact placement location is not stated."
+   ],
+   "plain_english": "Place either Indra with his vehicle or a Rudra form."
+  },
+  {
+   "verse": 3494,
+   "rows": [
+    {
+     "surface": "guhādvayaṃ",
+     "gloss": "two-caves",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvārasya",
+     "gloss": "of-door",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ubhayapārśvataḥ",
+     "gloss": "both-sides",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the two caves be made relative to the door?",
+   "premises": [
+    "Two caves are to be made.",
+    "They belong to the door.",
+    "They are on both sides."
+   ],
+   "inference": "Two caves should be made on both sides of the door.",
+   "uncertainties": [
+    "The cave function is not explained."
+   ],
+   "plain_english": "Make two caves on both sides of the door."
+  },
+  {
+   "verse": 3495,
+   "rows": [
+    {
+     "surface": "vihāya",
+     "gloss": "leaving",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhābāhye",
+     "gloss": "outside-cave",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvārapān",
+     "gloss": "door-guardians",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "install",
+     "grounds": "causative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the door guardians be installed?",
+   "premises": [
+    "The cave exterior is specified.",
+    "Door guardians are to be installed.",
+    "They are installed outside the cave."
+   ],
+   "inference": "The door guardians should be installed outside the cave.",
+   "uncertainties": [
+    "The exact guardian forms are not named."
+   ],
+   "plain_english": "Leaving the cave, install the door guardians outside it."
+  },
+  {
+   "verse": 3496,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nandisaṃjñaṃ",
+     "gloss": "nandi-named",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākālaṃ",
+     "gloss": "mahākāla",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-left",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where are Nandi-named and Mahākāla placed?",
+   "premises": [
+    "Nandi-named is on the right.",
+    "Mahākāla is on the left.",
+    "Both are specified."
+   ],
+   "inference": "Nandi-named is placed on the right and Mahākāla on the left.",
+   "uncertainties": [
+    "The exact images are not described."
+   ],
+   "plain_english": "Nandi-named is on the right, and Mahākāla is on the left."
+  },
+  {
+   "verse": 3497,
+   "rows": [
+    {
+     "surface": "dakṣiṇānanayukte",
+     "gloss": "south-facing",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarāsya",
+     "gloss": "north-facing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meva",
+     "gloss": "meva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What facing options are given for the southern and northern forms?",
+   "premises": [
+    "A south-facing form is mentioned.",
+    "A north-facing form is mentioned.",
+    "An alternative is allowed."
+   ],
+   "inference": "The forms may be south-facing or north-facing, with an alternative.",
+   "uncertainties": [
+    "The exact forms are not named."
+   ],
+   "plain_english": "South-facing or north-facing, or an alternative."
+  },
+  {
+   "verse": 3498,
+   "rows": [
+    {
+     "surface": "yasyāṃ",
+     "gloss": "in-which-direction",
+     "grounds": "locative relative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "diśi",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhaveddvāraṃ",
+     "gloss": "be-door",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prācīṃ",
+     "gloss": "eastern",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "determine",
+     "grounds": "causative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the direction of the door be determined?",
+   "premises": [
+    "The door occurs in some direction.",
+    "That direction should be determined.",
+    "It is called eastern."
+   ],
+   "inference": "The direction in which the door occurs should be determined as eastern.",
+   "uncertainties": [
+    "The fused sandhi token is not split."
+   ],
+   "plain_english": "Determine the direction of the door as eastern."
+  },
+  {
+   "verse": 3499,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "on-north",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nālaḥ",
+     "gloss": "spout",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "somasya",
+     "gloss": "of-soma",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "abhimukho",
+     "gloss": "facing",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the Soma spout face?",
+   "premises": [
+    "Everywhere on the north is specified.",
+    "The spout of Soma is mentioned.",
+    "It should be facing."
+   ],
+   "inference": "The Soma spout should face north everywhere.",
+   "uncertainties": [
+    "The exact spout location is not specified."
+   ],
+   "plain_english": "Everywhere on the north, the Soma spout should be facing."
+  }
+ ]
+}

@@ -37,7 +37,10 @@ def validate(obj: dict, path: str = "l2", l0_ids: set | None = None,
             # whitespace-insensitive; editorial-bracket markup in the source
             # (śiva(śakti)rūpaiva) is transcription, not text — the fused T1
             # reading (śivaśaktirūpaiva, history-recorded) compares clean.
-            return _re.sub(r"\s+", "", s).replace("(", "").replace(")", "")
+            # Danda pipes glued to words (mātṛkātantra `…||2||`) and witness
+            # sigla (`(vi0 6|7)`) are apparatus, not text — compare clean on
+            # both sides (2026-11-13).
+            return _re.sub(r"\s+", "", s).replace("(", "").replace(")", "").replace("|", "").replace("‖", "")
         flat = _flat(source_text)
         for part in [p.strip() for p in cite.split("|") if p.strip()]:
             if _flat(part) not in flat:

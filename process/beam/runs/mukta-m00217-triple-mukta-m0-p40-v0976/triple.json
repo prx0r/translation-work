@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "triśūleṣu",
+     "gloss": "on-tridents",
+     "grounds": "locations of worship",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number of deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavīḥ",
+     "gloss": "bhairavis",
+     "grounds": "deities to be worshipped",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Which deities must be worshipped on the tridents in this rite?",
+   "premises": [
+    "The ritual specifies tridents as locations.",
+    "The worshipper is instructed to perform worship.",
+    "Eight Bhairavīs are named as recipients."
+   ],
+   "inference": "The rite requires worship of eight Bhairavīs on the tridents.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, one should worship the eight Bhairavīs on the tridents."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "yoginīḥ",
+     "gloss": "yoginis",
+     "grounds": "deities to be worshipped",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the yoginis",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "ritual formulas to be given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-lady",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What follows the worship of the yoginis in this instruction?",
+   "premises": [
+    "The yoginis are to be worshipped.",
+    "Their mantras are mentioned next.",
+    "The supreme lady is addressed directly."
+   ],
+   "inference": "After worshipping the yoginis, their mantras are to be given.",
+   "uncertainties": [],
+   "plain_english": "One should worship the yoginis; and, O supreme lady, their mantras follow."
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "bhūrlokavāsinībhyas",
+     "gloss": "to-earth-world-dwellers",
+     "grounds": "recipients of salutation",
+     "morph": "f.dat.pl compound bhūr-loka-vāsinī"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginībhyas",
+     "gloss": "to-yoginis",
+     "grounds": "specifies the dwellers as yoginis",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "namas",
+     "gloss": "salutation",
+     "grounds": "formula of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "repeated formula of homage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which group of yoginis is the first salutation mantra directed?",
+   "premises": [
+    "The mantra addresses dwellers of the earth world.",
+    "These dwellers are identified as yoginis.",
+    "The salutation is repeated for emphasis."
+   ],
+   "inference": "The first salutation is directed to the yoginis dwelling in the earth world.",
+   "uncertainties": [],
+   "plain_english": "Salutation, salutation to the yoginis dwelling in the earth world."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "svarlokavāsinībhyas",
+     "gloss": "to-heaven-world-dwellers",
+     "grounds": "recipients of salutation",
+     "morph": "f.dat.pl compound svar-loka-vāsinī"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginībhyas",
+     "gloss": "to-yoginis",
+     "grounds": "specifies the dwellers as yoginis",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "namas",
+     "gloss": "salutation",
+     "grounds": "formula of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "repeated formula of homage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which group of yoginis is the next salutation mantra directed?",
+   "premises": [
+    "The mantra addresses dwellers of the heaven world.",
+    "These dwellers are identified as yoginis.",
+    "The salutation is repeated for emphasis."
+   ],
+   "inference": "This salutation is directed to the yoginis dwelling in the heaven world.",
+   "uncertainties": [],
+   "plain_english": "Salutation, salutation to the yoginis dwelling in the heaven world."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "viphalā",
+     "gloss": "fruitless",
+     "grounds": "describes the result of worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "states the outcome",
+     "morph": "3.sg.mid-present √jan"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "qualifies the worship as entirely fruitless",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāhanādidhanāpahā",
+     "gloss": "vehicle-wealth-removing",
+     "grounds": "describes harmful consequence",
+     "morph": "f.nom.sg compound vāhana-ādi-dhana-apahā"
+    }
+   ],
+   "question": "What negative consequence arises when the worship becomes entirely fruitless?",
+   "premises": [
+    "The worship becomes fruitless.",
+    "It becomes entirely so.",
+    "It takes away vehicles and wealth."
+   ],
+   "inference": "Fruitless worship results in the loss of vehicles, wealth, and similar possessions.",
+   "uncertainties": [
+    "The specific omission causing fruitlessness is not stated in this verse."
+   ],
+   "plain_english": "All worship becomes fruitless and takes away vehicles, wealth, and the like."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "dhūpahīne",
+     "gloss": "without-incense",
+     "grounds": "condition of ritual omission",
+     "morph": "n.loc.sg compound dhūpa-hīna"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connects to another condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvegam",
+     "gloss": "agitation",
+     "grounds": "negative result",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vastrahīne",
+     "gloss": "without-cloth",
+     "grounds": "condition of ritual omission",
+     "morph": "n.loc.sg compound vastra-hīna"
+    },
+    {
+     "surface": "dhanakṣayam",
+     "gloss": "wealth-loss",
+     "grounds": "negative result",
+     "morph": "m.acc.sg compound dhana-kṣaya"
+    }
+   ],
+   "question": "What specific harms result from omitting incense or cloth in worship?",
+   "premises": [
+    "Absence of incense is considered.",
+    "Absence of cloth is considered.",
+    "Each omission produces a distinct harm."
+   ],
+   "inference": "Omitting incense causes agitation, and omitting cloth causes loss of wealth.",
+   "uncertainties": [],
+   "plain_english": "When incense is lacking there is agitation; likewise, when cloth is lacking there is loss of wealth."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-vessels",
+     "grounds": "ritual element whose lack is implied",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bandhunāśaḥ",
+     "gloss": "kinsmen-destruction",
+     "grounds": "negative result",
+     "morph": "m.nom.sg compound bandhu-nāśa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "states potential outcome",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "girikanyake",
+     "gloss": "mountain-daughter",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg compound giri-kanyakā"
+    }
+   ],
+   "question": "What calamity befalls the worshipper when ritual vessels are lacking?",
+   "premises": [
+    "Ritual vessels are the context.",
+    "A harmful outcome is predicted.",
+    "The mountain daughter is addressed."
+   ],
+   "inference": "Lack related to the ritual vessels leads to the destruction of kinsmen.",
+   "uncertainties": [
+    "The exact syntactic role of 'kalaśaiḥ' suggests omission, but the verse states it elliptically."
+   ],
+   "plain_english": "O daughter of the mountain, without the ritual vessels there would indeed be destruction of kinsmen."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "dakṣiṇārahite",
+     "gloss": "without-offering-fee",
+     "grounds": "condition of ritual omission",
+     "morph": "n.loc.sg compound dakṣiṇā-rahita"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "entire ritual effort",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyartham",
+     "gloss": "vain",
+     "grounds": "describes the result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "states potential outcome",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locates the assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "excluded possibility",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the consequence of performing worship without the ritual offering fee?",
+   "premises": [
+    "The ritual offering fee may be absent.",
+    "The entire rite is evaluated.",
+    "Doubt about the outcome is explicitly denied."
+   ],
+   "inference": "Without the offering fee, the entire worship becomes vain without doubt.",
+   "uncertainties": [],
+   "plain_english": "If the ritual offering fee is lacking, everything becomes vain; there is no doubt about this."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "pātramantrasamāyuktaṃ",
+     "gloss": "vessel-mantra-endowed",
+     "grounds": "describes a properly prepared offering",
+     "morph": "n.nom.sg compound pātra-mantra-samāyukta"
+    },
+    {
+     "surface": "sarvadoṣāpahaṃ",
+     "gloss": "all-faults-removing",
+     "grounds": "describes its effect",
+     "morph": "n.nom.sg compound sarva-doṣa-apaha"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "states the result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What power does a vessel endowed with mantra possess in worship?",
+   "premises": [
+    "A vessel is joined with mantra.",
+    "Such a vessel has a specific effect.",
+    "The effect concerns all faults."
+   ],
+   "inference": "A vessel endowed with mantra removes all faults.",
+   "uncertainties": [],
+   "plain_english": "What is endowed with vessel and mantra would remove all faults."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "subject affected by omission",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parāṅmukhāḥ",
+     "gloss": "turned-away",
+     "grounds": "describes their response",
+     "morph": "m.nom.pl compound parāṅ-mukha"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "action of the mantras",
+     "morph": "3.pl.act-present √yā"
+    },
+    {
+     "surface": "āpadaḥ",
+     "gloss": "calamities",
+     "grounds": "additional consequence",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pade+pade",
+     "gloss": "step-by-step",
+     "grounds": "indicates repeated occurrence",
+     "morph": "n.loc.sg compound pada+pada"
+    }
+   ],
+   "question": "What consequences follow when the ritual conditions turn the mantras away?",
+   "premises": [
+    "The mantras turn away.",
+    "Calamities also arise.",
+    "These calamities occur at every step."
+   ],
+   "inference": "If the mantras turn away, calamities arise at every step.",
+   "uncertainties": [
+    "The specific cause of the mantras turning away is implied by context but not stated here."
+   ],
+   "plain_english": "The mantras turn away, and calamities arise at every step."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "ādhāreṇa+vinā",
+     "gloss": "without-support",
+     "grounds": "condition of ritual omission",
+     "morph": "m.ins.sg compound ādhāra+vinā"
+    },
+    {
+     "surface": "bhraṃśaḥ",
+     "gloss": "fall",
+     "grounds": "negative result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates satisfaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛpyanti",
+     "gloss": "are-satisfied",
+     "grounds": "desired response of deities",
+     "morph": "3.pl.act-present √tṛp"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "recipients of worship",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What happens to the rite and the deities when a proper support is absent?",
+   "premises": [
+    "A support may be absent.",
+    "A fall or failure occurs.",
+    "The deities do not become satisfied."
+   ],
+   "inference": "Without a support there is failure, and the deities are not satisfied.",
+   "uncertainties": [],
+   "plain_english": "Without a support there is a fall, and the deities are not satisfied."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "siddhijanakaṃ",
+     "gloss": "accomplishment-producing",
+     "grounds": "describes the effect of the material",
+     "morph": "n.acc.sg compound siddhi-janaka"
+    },
+    {
+     "surface": "muktipradaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "describes the effect of the material",
+     "morph": "n.acc.sg compound mukti-prada"
+    },
+    {
+     "surface": "mauktikam",
+     "gloss": "pearl",
+     "grounds": "material for the ritual vessel",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spiritual benefits are attributed to using a pearl vessel?",
+   "premises": [
+    "Pearl is named as a material.",
+    "It produces accomplishment.",
+    "It grants liberation."
+   ],
+   "inference": "A pearl vessel is held to produce accomplishment and grant liberation.",
+   "uncertainties": [
+    "The word for vessel is implied from context rather than stated in this verse."
+   ],
+   "plain_english": "The pearl vessel produces accomplishment and grants liberation."
+  },
+  {
+   "verse": 988,
+   "rows": [
+    {
+     "surface": "nārikelaṃ",
+     "gloss": "coconut",
+     "grounds": "material for a vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "material for a vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktāśuktisamudbhavam",
+     "gloss": "pearl-oyster-born",
+     "grounds": "describes origin of a vessel material",
+     "morph": "n.acc.sg compound muktā-śukti-samudbhava"
+    }
+   ],
+   "question": "Which additional materials are approved for making ritual vessels?",
+   "premises": [
+    "Coconut is listed as a material.",
+    "Conch is listed as a material.",
+    "Something born from a pearl oyster is listed."
+   ],
+   "inference": "Coconut, conch, and pearl-oyster-born material are approved vessel materials.",
+   "uncertainties": [],
+   "plain_english": "Also coconut, conch, and that which is born from a pearl oyster."
+  },
+  {
+   "verse": 989,
+   "rows": [
+    {
+     "surface": "nārikelodbhavaṃ",
+     "gloss": "coconut-born",
+     "grounds": "specifies a vessel material",
+     "morph": "n.acc.sg compound nārikela-udbhava"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes classification",
+     "morph": "n.nom.sg gerundive √jñā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamamadhyamam",
+     "gloss": "best-middle",
+     "grounds": "rank of the material",
+     "morph": "n.nom.sg compound uttama-madhyama"
+    }
+   ],
+   "question": "How is a vessel made from coconut ranked in ritual quality?",
+   "premises": [
+    "A coconut-born vessel is under consideration.",
+    "The goddess is addressed.",
+    "It is assigned a specific rank."
+   ],
+   "inference": "A coconut-born vessel should be known as best-middle in rank.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the coconut-born vessel should be known as best-middle."
+  },
+  {
+   "verse": 990,
+   "rows": [
+    {
+     "surface": "madhyamottamakaṃ",
+     "gloss": "middle-best",
+     "grounds": "rank of a vessel type",
+     "morph": "n.nom.sg compound madhyama-uttamaka"
+    },
+    {
+     "surface": "haimaṃ",
+     "gloss": "golden",
+     "grounds": "material of the vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "silver",
+     "grounds": "material of another vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamamadhyamam",
+     "gloss": "middle-middle",
+     "grounds": "rank of the silver vessel",
+     "morph": "n.nom.sg compound madhyama-madhyama"
+    }
+   ],
+   "question": "How are golden and silver vessels ranked relative to each other?",
+   "premises": [
+    "A golden vessel is classified.",
+    "A silver vessel is classified.",
+    "Each receives a distinct rank."
+   ],
+   "inference": "The golden vessel is middle-best, while the silver vessel is middle-middle.",
+   "uncertainties": [],
+   "plain_english": "The golden vessel is middle-best, and the silver vessel is middle-middle."
+  },
+  {
+   "verse": 991,
+   "rows": [
+    {
+     "surface": "kanyasottamakaṃ",
+     "gloss": "lowest-best",
+     "grounds": "rank of a vessel type",
+     "morph": "n.nom.sg compound kanyasa-uttamaka"
+    },
+    {
+     "surface": "bailvaṃ",
+     "gloss": "made-of-bilva",
+     "grounds": "material of the vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmavṛkṣajam",
+     "gloss": "brahma-tree-born",
+     "grounds": "alternative material source",
+     "morph": "n.nom.sg compound brahma-vṛkṣa-ja"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rank is assigned to vessels made from bilva or brahma-tree wood?",
+   "premises": [
+    "A vessel made of bilva is mentioned.",
+    "A vessel born from the brahma tree is mentioned.",
+    "A specific rank is assigned to them."
+   ],
+   "inference": "Vessels made of bilva or brahma-tree wood are ranked as lowest-best.",
+   "uncertainties": [
+    "The exact identification of brahmavṛkṣa is not specified in this verse."
+   ],
+   "plain_english": "The vessel made of bilva, and indeed that born from the brahma tree, is lowest-best."
+  },
+  {
+   "verse": 992,
+   "rows": [
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "indicates past time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmitaṃ",
+     "gloss": "made",
+     "grounds": "describes creation of the vessel",
+     "morph": "n.nom.sg past-passive-participle √nirmā"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object created",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvāmitreṇa",
+     "gloss": "by-vishvamitra",
+     "grounds": "agent who made it",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "by-wise",
+     "grounds": "qualifies Vishvamitra",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Who is credited with originally fashioning the ritual vessel in this account?",
+   "premises": [
+    "A vessel was made in the past.",
+    "Vishvamitra is named as the maker.",
+    "He is described as wise."
+   ],
+   "inference": "The wise Vishvamitra formerly made the ritual vessel.",
+   "uncertainties": [],
+   "plain_english": "Formerly, indeed, the vessel was made by the wise Vishvamitra."
+  },
+  {
+   "verse": 993,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to the vessel",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act-optative √sampūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "results of worship",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number of accomplishments",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "arise",
+     "grounds": "states the outcome",
+     "morph": "3.pl.act-present √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is promised for worship performed in that vessel?",
+   "premises": [
+    "Worship is to be performed in that vessel.",
+    "Accomplishments are said to arise.",
+    "Their number is specified as eight."
+   ],
+   "inference": "Worship in that vessel brings about the eight accomplishments.",
+   "uncertainties": [],
+   "plain_english": "One should indeed worship in that vessel, for the eight accomplishments arise."
+  },
+  {
+   "verse": 994,
+   "rows": [
+    {
+     "surface": "uddhariṣyati",
+     "gloss": "will-uplift",
+     "grounds": "promised salvific effect",
+     "morph": "3.sg.act-future √uddhṛ"
+    },
+    {
+     "surface": "asandeho",
+     "gloss": "without-doubt",
+     "grounds": "asserts certainty",
+     "morph": "m.nom.sg compound a-sandeha"
+    },
+    {
+     "surface": "gṛhasthaḥ",
+     "gloss": "householder",
+     "grounds": "subject who benefits",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states condition or result",
+     "morph": "3.sg.act-present √bhū"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What assurance is given to the householder regarding this ritual practice?",
+   "premises": [
+    "An uplifting effect is promised.",
+    "The promise is declared without doubt.",
+    "The householder is the beneficiary."
+   ],
+   "inference": "The householder will undoubtedly be uplifted through this practice.",
+   "uncertainties": [
+    "The object or scope of uplifting is not explicitly stated in this verse."
+   ],
+   "plain_english": "O beloved, the householder will uplift without doubt."
+  },
+  {
+   "verse": 995,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act that triggers the result",
+     "morph": "(indecl.) absolutive √dṛś"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object seen",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nārikelaṃ",
+     "gloss": "coconut",
+     "grounds": "specifies the vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvapāpaṃ",
+     "gloss": "all-sin",
+     "grounds": "what is destroyed",
+     "morph": "n.nom.sg compound sarva-pāpa"
+    },
+    {
+     "surface": "praṇaśyati",
+     "gloss": "perishes",
+     "grounds": "states the result",
+     "morph": "3.sg.act-present √praṇaś"
+    }
+   ],
+   "question": "What purifying effect is attributed to seeing the coconut vessel?",
+   "premises": [
+    "The coconut vessel is seen.",
+    "A result follows from seeing it.",
+    "All sin is said to perish."
+   ],
+   "inference": "Seeing the coconut vessel causes all sin to perish.",
+   "uncertainties": [],
+   "plain_english": "Having seen the coconut vessel, all sin perishes."
+  },
+  {
+   "verse": 996,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "introduces the giver",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "act of giving",
+     "morph": "3.sg.act-present √dā"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rāhugraste",
+     "gloss": "seized-by-rahu",
+     "grounds": "time of solar eclipse",
+     "morph": "m.loc.sg compound rāhu-grasta"
+    },
+    {
+     "surface": "divākare",
+     "gloss": "in-sun",
+     "grounds": "celestial body eclipsed",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At what ritually significant time is the act of giving prescribed here?",
+   "premises": [
+    "A person gives something.",
+    "The great goddess is addressed.",
+    "The sun is described as seized by Rahu."
+   ],
+   "inference": "The giving is prescribed at the time of a solar eclipse.",
+   "uncertainties": [
+    "The object given is not specified in this verse."
+   ],
+   "plain_english": "O great goddess, whoever gives when the sun is seized by Rahu..."
+  },
+  {
+   "verse": 997,
+   "rows": [
+    {
+     "surface": "alābhe",
+     "gloss": "in-non-availability",
+     "grounds": "condition of absence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the specified vessel",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pātrasya",
+     "gloss": "of-vessel",
+     "grounds": "the preferred vessel",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pātrasya",
+     "gloss": "of-vessel",
+     "grounds": "repeated reference to vessel",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyapātraiḥ",
+     "gloss": "with-other-vessels",
+     "grounds": "substitute means of worship",
+     "morph": "n.ins.pl compound anya-pātra"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks substitution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    }
+   ],
+   "question": "What substitute is permitted when the preferred ritual vessel is unavailable?",
+   "premises": [
+    "The preferred vessel may be unavailable.",
+    "Other vessels exist as alternatives.",
+    "Worship is still to be performed."
+   ],
+   "inference": "If the preferred vessel is unavailable, one should worship with other vessels.",
+   "uncertainties": [
+    "The repetition of 'pātrasya' may be emphatic or textual."
+   ],
+   "plain_english": "If that vessel is unavailable, one should worship with other vessels."
+  },
+  {
+   "verse": 998,
+   "rows": [
+    {
+     "surface": "nṛtyanti",
+     "gloss": "dance",
+     "grounds": "joyful response of yoginis",
+     "morph": "3.pl.act-present √nṛt"
+    },
+    {
+     "surface": "sarvayoginyaḥ",
+     "gloss": "all-yoginis",
+     "grounds": "subjects who respond",
+     "morph": "f.nom.pl compound sarva-yoginī"
+    },
+    {
+     "surface": "prītāḥ",
+     "gloss": "pleased",
+     "grounds": "their emotional state",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "gift bestowed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadanti",
+     "gloss": "give",
+     "grounds": "action of granting",
+     "morph": "3.pl.act-present √dā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do all the yoginis respond when pleased by proper worship?",
+   "premises": [
+    "All yoginis are involved.",
+    "They become pleased.",
+    "They dance and give accomplishment."
+   ],
+   "inference": "When pleased, all the yoginis dance and grant accomplishment.",
+   "uncertainties": [],
+   "plain_english": "All the yoginis dance, pleased, and they give accomplishment."
+  },
+  {
+   "verse": 999,
+   "rows": [
+    {
+     "surface": "ratnādīni",
+     "gloss": "gems-and-others",
+     "grounds": "materials for vessels",
+     "morph": "n.nom.pl compound ratna-ādi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "objects described",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śubharekhāṅkitāni",
+     "gloss": "auspicious-line-marked",
+     "grounds": "required characteristic",
+     "morph": "n.nom.pl compound śubha-rekhā-aṅkita"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distinguishing feature should gem and similar ritual vessels possess?",
+   "premises": [
+    "Vessels made of gems and similar materials are mentioned.",
+    "These vessels have a specific marking.",
+    "The marking is described as auspicious."
+   ],
+   "inference": "Gem and similar vessels should be marked with auspicious lines.",
+   "uncertainties": [],
+   "plain_english": "Vessels of gems and the like should be marked with auspicious lines."
+  }
+ ]
+}

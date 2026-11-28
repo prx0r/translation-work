@@ -1,0 +1,566 @@
+{
+ "song": "kul-p73",
+ "items": [
+  {
+   "verse": 1801,
+   "rows": [
+    {
+     "surface": "śātravaṃ",
+     "gloss": "enemy",
+     "grounds": "enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaiparītyena",
+     "gloss": "by-oppositeness",
+     "grounds": "by contrariety",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "maitraṃ",
+     "gloss": "friendly",
+     "grounds": "friendly",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "everywhere",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāparam",
+     "gloss": "and-other",
+     "grounds": "ca+aparam",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should an enemy be treated everywhere?",
+   "premises": [
+    "enemy becomes friendly by oppositeness",
+    "this applies everywhere",
+    "and other cases follow"
+   ],
+   "inference": "One should treat an enemy as friendly everywhere and in other cases.",
+   "uncertainties": [],
+   "plain_english": "Treat an enemy as friendly everywhere, and likewise in other cases."
+  },
+  {
+   "verse": 1802,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "should avoid",
+     "morph": "v.3.sg.act.opt (varj)"
+    },
+    {
+     "surface": "tādṛśaṃ",
+     "gloss": "such",
+     "grounds": "such",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāśakṛt",
+     "gloss": "not-causing-destruction",
+     "grounds": "not causing destruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-lady-of-family",
+     "grounds": "O lady of family",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which mantra should one avoid, O lady of family?",
+   "premises": [
+    "such a mantra should be avoided",
+    "it does not cause destruction",
+    "addressed to the lady of family"
+   ],
+   "inference": "One should avoid such a mantra that does not cause destruction.",
+   "uncertainties": [],
+   "plain_english": "Avoid such a mantra, O lady of the family, that does not cause destruction."
+  },
+  {
+   "verse": 1803,
+   "rows": [
+    {
+     "surface": "strīdatte",
+     "gloss": "in-woman-given",
+     "grounds": "in woman-given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svapnalabdhe",
+     "gloss": "in-dream-obtained",
+     "grounds": "in dream-obtained",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhādīn",
+     "gloss": "siddha-and-others",
+     "grounds": "siddha and others",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "not at all",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "purify",
+     "grounds": "purify",
+     "morph": "v.3.sg.act.opt (śodh)"
+    }
+   ],
+   "question": "Should siddha and others be purified in woman-given or dream-obtained cases?",
+   "premises": [
+    "in woman-given cases do not purify",
+    "in dream-obtained cases do not purify",
+    "siddha and others are not purified at all"
+   ],
+   "inference": "Siddha and others should not be purified at all in woman-given or dream-obtained cases.",
+   "uncertainties": [],
+   "plain_english": "Do not purify siddha and others at all in woman-given or dream-obtained cases."
+  },
+  {
+   "verse": 1804,
+   "rows": [
+    {
+     "surface": "mālāmantreṣu",
+     "gloss": "in-garland-mantras",
+     "grounds": "in garland-mantras",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "O goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "siddhādīn",
+     "gloss": "siddha-and-others",
+     "grounds": "siddha and others",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "not at all",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "purify",
+     "grounds": "purify",
+     "morph": "v.3.sg.act.opt (śodh)"
+    }
+   ],
+   "question": "Should siddha and others be purified in garland-mantras, O goddess?",
+   "premises": [
+    "in garland-mantras do not purify",
+    "siddha and others are not purified at all",
+    "addressed to the goddess"
+   ],
+   "inference": "Siddha and others should not be purified at all in garland-mantras.",
+   "uncertainties": [],
+   "plain_english": "Do not purify siddha and others at all in garland-mantras, O goddess."
+  },
+  {
+   "verse": 1805,
+   "rows": [
+    {
+     "surface": "sapiṇḍākṣaramantrāṇāṃ",
+     "gloss": "of-sapiṇḍa-letter-mantras",
+     "grounds": "of sapiṇḍa-letter-mantras",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhādīn",
+     "gloss": "siddha-and-others",
+     "grounds": "siddha and others",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "not at all",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "purify",
+     "grounds": "purify",
+     "morph": "v.3.sg.act.opt (śodh)"
+    }
+   ],
+   "question": "Should siddha and others be purified for sapiṇḍa-letter-mantras?",
+   "premises": [
+    "of sapiṇḍa-letter-mantras do not purify",
+    "siddha and others are not purified at all"
+   ],
+   "inference": "Siddha and others should not be purified at all for sapiṇḍa-letter-mantras.",
+   "uncertainties": [],
+   "plain_english": "Do not purify siddha and others at all for sapiṇḍa-letter-mantras."
+  },
+  {
+   "verse": 1806,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "succeeds",
+     "morph": "v.3.sg.act.pres (sidh)"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-excellent",
+     "grounds": "O excellent",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "lakṣakoṭijapāt",
+     "gloss": "from-lakh-crore-japa",
+     "grounds": "from lakh-crore japa",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "even",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does success arise even from lakh-crore japa, O excellent one?",
+   "premises": [
+    "it does not succeed",
+    "even from lakh-crore japa",
+    "addressed to the excellent one"
+   ],
+   "inference": "Success does not arise even from lakh-crore japa.",
+   "uncertainties": [],
+   "plain_english": "It does not succeed, O excellent one, even from lakh-crore japa."
+  },
+  {
+   "verse": 1807,
+   "rows": [
+    {
+     "surface": "khyātyartham",
+     "gloss": "for-fame",
+     "grounds": "for fame",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "is given",
+     "morph": "v.3.sg.pass.pres (dā)"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "gift",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "how",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "O-beautiful-faced",
+     "grounds": "O beautiful-faced",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How can success arise when a gift is given for fame?",
+   "premises": [
+    "a gift is given for fame",
+    "success is questioned",
+    "addressed to the beautiful-faced one"
+   ],
+   "inference": "Success cannot arise when a gift is given merely for fame.",
+   "uncertainties": [],
+   "plain_english": "When a gift is given for fame, how can success arise, O beautiful-faced one?"
+  },
+  {
+   "verse": 1808,
+   "rows": [
+    {
+     "surface": "kāryārthe",
+     "gloss": "for-purpose",
+     "grounds": "for purpose",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devatāpūjā",
+     "gloss": "deity-worship",
+     "grounds": "deity worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "how",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "arises",
+     "morph": "v.3.sg.mid.pres (jan)"
+    }
+   ],
+   "question": "How can success arise from deity-worship done for a purpose?",
+   "premises": [
+    "deity-worship is for a purpose",
+    "success is questioned",
+    "success arises indeed"
+   ],
+   "inference": "Success does not properly arise from deity-worship done merely for a purpose.",
+   "uncertainties": [],
+   "plain_english": "How can success arise from deity-worship done for a purpose?"
+  },
+  {
+   "verse": 1809,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuvanti",
+     "gloss": "do",
+     "grounds": "do",
+     "morph": "v.3.pl.act.pres (kṛ)"
+    },
+    {
+     "surface": "cenmūḍhāḥ",
+     "gloss": "if-fools",
+     "grounds": "if fools",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "fruitless",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "v.3.sg.act.opt (bhū)"
+    }
+   ],
+   "question": "What becomes of oblation done by fools?",
+   "premises": [
+    "fools do oblation",
+    "that all becomes fruitless"
+   ],
+   "inference": "All such oblation done by fools becomes fruitless.",
+   "uncertainties": [],
+   "plain_english": "If fools perform oblation, all of it becomes fruitless."
+  },
+  {
+   "verse": 1810,
+   "rows": [
+    {
+     "surface": "japārcanādikaṃ",
+     "gloss": "japa-worship-etc",
+     "grounds": "japa-worship-etc",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apavitraṃ",
+     "gloss": "impure",
+     "grounds": "impure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "v.3.sg.act.opt (bhū)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "dear",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What becomes of all japa and worship, dear one?",
+   "premises": [
+    "all japa and worship becomes impure",
+    "addressed to the dear one"
+   ],
+   "inference": "All japa, worship, and the rest becomes impure.",
+   "uncertainties": [],
+   "plain_english": "All japa, worship, and the rest becomes impure, dear one."
+  },
+  {
+   "verse": 1811,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "who",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recites",
+     "grounds": "recites",
+     "morph": "v.3.sg.act.opt (jap)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "him",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dahati",
+     "gloss": "burns",
+     "grounds": "burns",
+     "morph": "v.3.sg.act.pres (dah)"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "quickly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sujugupsitā",
+     "gloss": "greatly-disgusted",
+     "grounds": "greatly disgusted",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the greatly disgusted deity do to one who recites?",
+   "premises": [
+    "one who recites is burned",
+    "the deity burns him quickly",
+    "the deity is greatly disgusted"
+   ],
+   "inference": "The greatly disgusted deity quickly burns one who recites.",
+   "uncertainties": [],
+   "plain_english": "The greatly disgusted deity quickly burns one who recites."
+  },
+  {
+   "verse": 1812,
+   "rows": [
+    {
+     "surface": "nīcāṅgasparśanaṃ",
+     "gloss": "low-limb-touch",
+     "grounds": "low-limb touch",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kopaṃ",
+     "gloss": "anger",
+     "grounds": "anger",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japakāle",
+     "gloss": "at-japa-time",
+     "grounds": "at japa time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "avoid",
+     "grounds": "avoid",
+     "morph": "v.3.sg.act.opt (varj)"
+    }
+   ],
+   "question": "What should be avoided at japa time?",
+   "premises": [
+    "low-limb touch should be avoided",
+    "anger should be avoided",
+    "at japa time"
+   ],
+   "inference": "One should avoid low-limb touch and anger at japa time.",
+   "uncertainties": [],
+   "plain_english": "Avoid low-limb touch and anger at japa time."
+  }
+ ]
+}

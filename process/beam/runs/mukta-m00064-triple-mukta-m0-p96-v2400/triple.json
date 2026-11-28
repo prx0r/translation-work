@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "ayane",
+     "gloss": "at-solstice",
+     "grounds": "locative of ayana indicating a temporal occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "at-equinox",
+     "grounds": "locative of viṣuva indicating a temporal occasion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking occasions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaśīti+mukhe",
+     "gloss": "at-eighty-six-opening",
+     "grounds": "locative of compound ṣaḍaśīti-mukha naming a specific sacred juncture",
+     "morph": "compound: ṣaḍaśīti+ mukha; n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the recipient of instruction",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which sacred temporal junctures are designated as occasions for the beloved's prescribed observance?",
+   "premises": [
+    "The solstice is named as a designated occasion.",
+    "The equinox is named as a designated occasion.",
+    "The ṣaḍaśīti-mukha juncture is also named as a designated occasion."
+   ],
+   "inference": "These specified temporal junctures are affirmed as appropriate occasions for the observance addressed to the beloved.",
+   "uncertainties": [
+    "The precise ritual or astronomical referent of ṣaḍaśīti-mukha is not specified in this verse."
+   ],
+   "plain_english": "At the solstice, at the equinox, and indeed at the ṣaḍaśīti-mukha, O beloved."
+  }
+ ]
+}

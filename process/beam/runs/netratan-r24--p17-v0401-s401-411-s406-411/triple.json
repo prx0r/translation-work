@@ -1,0 +1,215 @@
+{
+ "song": "net-p17",
+ "items": [
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "kāryeṇānābilīkṛtatvāt",
+     "gloss": "by-action-not-defiled-ness",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "vimalāḥ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anugrahapravaṇatvāt",
+     "gloss": "by-grace-inclination",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "kalas are absorbing",
+    "they remain pure",
+    "they remain auspicious"
+   ],
+   "inference": "Therefore the kalas absorb without defilement.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "They remain pure and auspicious because action does not defile them and grace inclines them."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "nirodhikā",
+     "gloss": "absorbing",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hyetāḥ",
+     "gloss": "indeed-these",
+     "grounds": "pronoun with particle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvadevanirodhikāḥ",
+     "gloss": "all-deva-absorbing",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "these kalas are absorbing",
+    "they absorb all devas",
+    "they are kalas"
+   ],
+   "inference": "Therefore these kalas absorb all devas.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "These kalas are indeed absorbing, and they absorb all devas."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "eṣātmakatvāt",
+     "gloss": "by-this-self-nature",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atyantanairmalyam",
+     "gloss": "absolute-purity",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "this self-nature obtains",
+    "whence absolute purity",
+    "absolute purity follows"
+   ],
+   "inference": "Therefore absolute purity follows from this self-nature.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "By this self-nature, whence absolute purity."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "śaktyādisamanāntānām",
+     "gloss": "shakti-etc-ending",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "shakti and so on ending",
+    "iti marks conclusion",
+    "the range is named"
+   ],
+   "inference": "Therefore the range from shakti onward is named.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "Thus of those ending with shakti and so on."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "svaprakāśasvarūpaḥ",
+     "gloss": "self-luminous-nature",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "self-luminous nature obtains",
+    "and connects clauses",
+    "the nature is luminous"
+   ],
+   "inference": "Therefore the nature is self-luminous.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "And of self-luminous nature."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "na+vindati",
+     "gloss": "not-finds",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "verb"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭisaṃhāravartmanī",
+     "gloss": "creation-destruction-paths",
+     "grounds": "compound gloss from legacy hint",
+     "morph": "compound"
+    }
+   ],
+   "question": "How can the kalas remain pure and auspicious while absorbing all devas?",
+   "premises": [
+    "the mantrin does not find",
+    "when the paths arise",
+    "creation and destruction paths"
+   ],
+   "inference": "Therefore the mantrin does not find the creation-destruction paths.",
+   "uncertainties": [
+    "legacy glosses only"
+   ],
+   "plain_english": "When the mantrin does not find the creation and destruction paths."
+  }
+ ]
+}

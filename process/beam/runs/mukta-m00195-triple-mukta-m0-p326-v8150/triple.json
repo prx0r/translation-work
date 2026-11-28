@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p326",
+ "items": [
+  {
+   "verse": 8150,
+   "rows": [
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the previously described prepared substance; sandhi form before following consonant",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "chakti",
+     "gloss": "power",
+     "grounds": "first member of the compound name śakti-mudrā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudreyam",
+     "gloss": "seal-this",
+     "grounds": "fused form of mudrā and iyam naming the seal; internal sandhi noted but token kept whole",
+     "morph": "compound+pron.nom.sg.f"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "predicate stating the designation of the referent",
+     "morph": "ppp.nom.sg.f √īr"
+    }
+   ],
+   "question": "What specific seal designation is assigned to that prepared substance?",
+   "premises": [
+    "That prepared substance is the referent.",
+    "It is identified as a seal.",
+    "The seal is specifically named śakti-mudrā."
+   ],
+   "inference": "Therefore that prepared substance is designated the śakti-mudrā.",
+   "uncertainties": [
+    "The exact ritual function of śakti-mudrā in this context is not fully specified in the verse alone."
+   ],
+   "plain_english": "That is declared to be this śakti-mudrā, the power seal."
+  }
+ ]
+}

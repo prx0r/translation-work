@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p237",
+ "items": [
+  {
+   "verse": 5925,
+   "rows": [
+    {
+     "surface": "rogaśāntiḥ",
+     "gloss": "disease-pacification",
+     "grounds": "compound of roga (disease) and śānti (pacification); subject of the result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing the resulting state",
+     "morph": "3.sg.opt-act √as"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truly",
+     "grounds": "affirms the truth of the stated result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the stated outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the presence of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty regarding the outcome",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can the prescribed practice truly bring about certain pacification of disease?",
+   "premises": [
+    "Pacification of disease may result from the practice.",
+    "This stated outcome is affirmed as true.",
+    "No doubt exists regarding this outcome."
+   ],
+   "inference": "Therefore the efficacy of the prescribed practice in pacifying disease is asserted as certain.",
+   "uncertainties": [],
+   "plain_english": "Truly, pacification of disease will occur; of this there is no doubt."
+  }
+ ]
+}

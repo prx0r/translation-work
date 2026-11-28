@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p161",
+ "items": [
+  {
+   "verse": 4025,
+   "rows": [
+    {
+     "surface": "klīṃglauṃklīṃśyāmalāṅgāya+namaḥ",
+     "gloss": "klīṃ-glauṃ-klīṃ-to-dark-limbed-one-obeisance",
+     "grounds": "mantra formula with bīja syllables klīṃ, glauṃ, klīṃ kept byte-exact, followed by dative epithet śyāmalāṅgāya and namaḥ; fused token analyzed as a whole",
+     "morph": "compound mantra-formula"
+    },
+    {
+     "surface": "skandhau",
+     "gloss": "shoulders",
+     "grounds": "body part designated as the locus of protection",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "daśa+akṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "compound qualifying the mantra by syllable count; continues the protective assignment from the previous verse",
+     "morph": "compound adj., m.nom.sg"
+    }
+   ],
+   "question": "Which ten-syllabled mantra formula is assigned to protect the shoulders?",
+   "premises": [
+    "The mantra formula given is klīṃ-glauṃ-klīṃ-śyāmalāṅgāya-namaḥ.",
+    "This mantra is specified as ten-syllabled.",
+    "The shoulders are named as its protective locus."
+   ],
+   "inference": "The ten-syllabled mantra klīṃ-glauṃ-klīṃ-śyāmalāṅgāya-namaḥ is assigned to protect the shoulders.",
+   "uncertainties": [
+    "The verb of protection is carried over from the preceding verse and is not explicitly repeated here."
+   ],
+   "plain_english": "The ten-syllabled mantra 'klīṃ-glauṃ-klīṃ-śyāmalāṅgāya-namaḥ' protects the shoulders."
+  }
+ ]
+}

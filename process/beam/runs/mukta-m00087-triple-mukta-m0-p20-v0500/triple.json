@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "jalabījāmṛtenaiva",
+     "gloss": "by-water-bija-nectar",
+     "grounds": "instrumental of jalabījāmṛta with enclitic eva; internal sandhi amṛtena + eva",
+     "morph": "instr.sg.n. + (indecl.)"
+    },
+    {
+     "surface": "tadbhasmaplāvanaṃ",
+     "gloss": "that-ash-washing",
+     "grounds": "compound of tat, bhasma, and plāvana; accusative singular neuter object",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "caret",
+     "gloss": "perform",
+     "grounds": "third-person singular active present indicative of root car",
+     "morph": "3.sg.act.pres. (root car)"
+    }
+   ],
+   "question": "What act must be performed upon the ash after it has been dried by fire?",
+   "premises": [
+    "Fire dries the ash first.",
+    "Water-bija nectar washes that ash.",
+    "The practitioner performs this washing."
+   ],
+   "inference": "After fire-drying, the ash is washed with water-bija nectar.",
+   "uncertainties": [
+    "The exact ritual referent of jalabīja is not specified in this verse."
+   ],
+   "plain_english": "After drying by fire, wash that ash with the nectar of the water-bīja."
+  }
+ ]
+}

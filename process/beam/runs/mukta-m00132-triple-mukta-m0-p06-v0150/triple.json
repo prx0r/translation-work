@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "comparative particle indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "so-indeed",
+     "grounds": "correlative particle with emphatic particle fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-that-one",
+     "grounds": "recipient indicated by prior context",
+     "morph": "d.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyadānaṃ",
+     "gloss": "disciple-gift",
+     "grounds": "compound denoting giving of a disciple",
+     "morph": "śiṣya+dependent, dāna+head; n.nom.sg"
+    },
+    {
+     "surface": "samarpaṇam",
+     "gloss": "offering",
+     "grounds": "act of dedicated presentation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what manner must the gift of a disciple be presented to that recipient?",
+   "premises": [
+    "A prior situation establishes a standard of response.",
+    "The same manner applies to that specified recipient.",
+    "The giving of a disciple is constituted as an offering."
+   ],
+   "inference": "Therefore the disciple must be given to that recipient as an offering in the same manner.",
+   "uncertainties": [
+    "The exact referent of tasmai depends on the preceding verses.",
+    "The specific prior action indicated by yathā is supplied by context."
+   ],
+   "plain_english": "Just as before, so indeed to him the giving of the disciple is to be made as an offering."
+  }
+ ]
+}

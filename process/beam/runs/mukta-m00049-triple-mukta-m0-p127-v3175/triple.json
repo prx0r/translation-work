@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "yathāśaktyā",
+     "gloss": "according-to-ability",
+     "grounds": "indeclinable compound expressing measure or capacity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhutiṃ",
+     "gloss": "oblation",
+     "grounds": "object of the act of giving",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "vāstuyajñaṃ",
+     "gloss": "site-sacrifice",
+     "grounds": "compound: vāstu+site + yajña+sacrifice; object of completion",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "injunctive or optative sense prescribing ritual conclusion",
+     "morph": "3.sg.opt.act √sam-āp"
+    }
+   ],
+   "question": "What concluding action must follow offering an oblation in the site-sacrifice according to one's ability?",
+   "premises": [
+    "An oblation is to be given according to one's ability.",
+    "The giving of the oblation precedes the final ritual act.",
+    "The site-sacrifice requires a prescribed completion."
+   ],
+   "inference": "Therefore, after giving an oblation according to ability, one should complete the site-sacrifice.",
+   "uncertainties": [],
+   "plain_english": "Having offered an oblation according to one's ability, one should complete the site-sacrifice."
+  }
+ ]
+}

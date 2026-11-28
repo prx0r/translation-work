@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral modifying naraḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "agent of kurute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to naraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "savilāsinīnām",
+     "gloss": "of-dalliant-women",
+     "grounds": "genitive plural feminine; modifies retaḥ",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "retaḥ",
+     "gloss": "semen",
+     "grounds": "object of prapātam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prapātam",
+     "gloss": "emission",
+     "grounds": "accusative object of kurute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "causes",
+     "grounds": "middle voice present of kṛ",
+     "morph": "3.sg.mid-pres (kṛ)"
+    },
+    {
+     "surface": "haṭhena",
+     "gloss": "by-force",
+     "grounds": "instrumental of manner",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Which agent is said to forcibly cause semen emission of a hundred dalliant women?",
+   "premises": [
+    "A man is the agent.",
+    "He acts upon a hundred dalliant women.",
+    "He forcibly causes their semen emission."
+   ],
+   "inference": "The verse identifies a man who forcibly causes semen emission of a hundred dalliant women.",
+   "uncertainties": [
+    "Whether prapātam means emission or falling.",
+    "Whether savilāsinīnām is genitive object of retaḥ."
+   ],
+   "plain_english": "A man who by force causes the semen of a hundred dalliant women to be emitted."
+  }
+ ]
+}

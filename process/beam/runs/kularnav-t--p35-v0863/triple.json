@@ -1,0 +1,533 @@
+{
+ "song": "kul-p35",
+ "items": [
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "kṛṣṇābhaṃ",
+     "gloss": "black-hued",
+     "grounds": "kṛṣṇa + ābha, compound adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "name of deity",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "root dhyai, optative",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "sarvavighnanivāraṇam",
+     "gloss": "all-obstacles-removing",
+     "grounds": "sarva + vighna + nivāraṇa",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What form of Bhairava should one meditate upon?",
+   "premises": [
+    "The verse names a black-hued Bhairava.",
+    "Meditation is directed toward that form.",
+    "The form removes all obstacles."
+   ],
+   "inference": "One meditates on black-hued Bhairava as an obstacle-removing form.",
+   "uncertainties": [
+    "Exact grammatical case of the compound is inferred."
+   ],
+   "plain_english": "Meditate on black-hued Bhairava, the remover of all obstacles."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "ehiyugmaṃ",
+     "gloss": "ehi-yugma",
+     "grounds": "fused mantra-like form",
+     "morph": "indecl."
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "bali, accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "gṛhṇa",
+     "gloss": "accept",
+     "grounds": "root grah, imperative",
+     "morph": "verb.2.sg.act-imp"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "yugma",
+     "grounds": "paired form",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dviṭhāntakaḥ",
+     "gloss": "dviṭhāntaka",
+     "grounds": "name or epithet",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What offering and acceptance formula is spoken?",
+   "premises": [
+    "The verse includes an offering term.",
+    "It includes an imperative to accept.",
+    "It ends with a named agent."
+   ],
+   "inference": "The formula presents an offering and commands its acceptance.",
+   "uncertainties": [
+    "The exact ritual sense of ehiyugmaṃ is not explicit."
+   ],
+   "plain_english": "Accept the offering, yugma, phaṭ, and dviṭhāntaka."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "śāntistavaṃ",
+     "gloss": "peace-hymn",
+     "grounds": "śānti + stava",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "recite",
+     "grounds": "root paṭh, optative",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "satisfy",
+     "grounds": "root tṛp, causative optative",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "alibindubhiḥ",
+     "gloss": "with-drops",
+     "grounds": "ali + bindu, instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "What should be recited and then offered?",
+   "premises": [
+    "A peace hymn is to be recited.",
+    "Afterward satisfaction is performed.",
+    "Drops are used instrumentally."
+   ],
+   "inference": "One recites the peace hymn and then satisfies with drops.",
+   "uncertainties": [
+    "The exact recipient of tarpayet is not stated."
+   ],
+   "plain_english": "Recite the peace hymn, then satisfy with drops."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "root nam, first person",
+     "morph": "verb.1.sg.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭāṣṭakayoginīgaṇam",
+     "gloss": "eight-eight-yogini-gana",
+     "grounds": "aṣṭa + aṣṭaka + yoginī + gaṇa",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "Whom does the speaker bow to here?",
+   "premises": [
+    "The speaker bows.",
+    "The object is a yoginī group.",
+    "The group is described as eight-eight."
+   ],
+   "inference": "The speaker bows to the eight-eight yoginī group.",
+   "uncertainties": [
+    "Whether aṣṭāṣṭaka means sixty-four or another count is not explicit."
+   ],
+   "plain_english": "I bow to the group of sixty-four yoginīs."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "root nam, first person",
+     "morph": "verb.1.sg.act-pres"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "with-head",
+     "grounds": "śiras, instrumental",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "nāthaṃ",
+     "gloss": "lord",
+     "grounds": "nātha, accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "name of deity",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "bhairavīpriyam",
+     "gloss": "bhairavi-beloved",
+     "grounds": "bhairavī + priya",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "To which lord does the speaker bow with head?",
+   "premises": [
+    "The speaker bows with the head.",
+    "The lord is Bhairava.",
+    "Bhairava is beloved of Bhairavī."
+   ],
+   "inference": "The speaker bows with head to Bhairava, beloved of Bhairavī.",
+   "uncertainties": [
+    "Whether nāthaṃ and bhairavaṃ are appositional is inferred."
+   ],
+   "plain_english": "I bow with my head to Lord Bhairava, beloved of Bhairavī."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable salutation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīnāthavaidyāya",
+     "gloss": "śrī-nātha-vaidya",
+     "grounds": "śrī + nātha + vaidya, dative",
+     "morph": "noun.dat.sg.m"
+    },
+    {
+     "surface": "kulauṣadhividhāyine",
+     "gloss": "kula-medicine-arranger",
+     "grounds": "kula + auṣadhi + vidhāyin, dative",
+     "morph": "adj.dat.sg.m"
+    }
+   ],
+   "question": "To whom is salutation offered?",
+   "premises": [
+    "A salutation is given.",
+    "The recipient is Śrī Nātha Vaidya.",
+    "He arranges Kula medicine."
+   ],
+   "inference": "Salutation is offered to Śrī Nātha Vaidya, arranger of Kula medicine.",
+   "uncertainties": [
+    "The exact identity of Śrī Nātha Vaidya is not stated."
+   ],
+   "plain_english": "Salutation to Śrī Nātha Vaidya, arranger of Kula medicine."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "kāntiḥ",
+     "gloss": "beauty",
+     "grounds": "kānti, nominative",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "manoharā",
+     "gloss": "charming",
+     "grounds": "manohara, nominative feminine",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "astu",
+     "gloss": "astu",
+     "grounds": "root as, imperative",
+     "morph": "verb.3.sg.act-imp"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "protect",
+     "grounds": "root pā, imperative plural",
+     "morph": "verb.3.pl.act-imp"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "sarva, nominative feminine plural",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "devatā, nominative plural",
+     "morph": "noun.nom.pl.f"
+    }
+   ],
+   "question": "What blessing and protection are requested?",
+   "premises": [
+    "Beauty should be charming.",
+    "All deities should protect.",
+    "The request is in imperative form."
+   ],
+   "inference": "May beauty be charming and may all deities protect.",
+   "uncertainties": [
+    "The exact subject of astu is inferred from context."
+   ],
+   "plain_english": "May beauty be charming, and may all deities protect."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "karotu",
+     "gloss": "do",
+     "grounds": "root kṛ, imperative",
+     "morph": "verb.3.sg.act-imp"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "śānti, accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "bhagavan",
+     "grounds": "bhagavat, nominative",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "kuleśaḥ",
+     "gloss": "kulesha",
+     "grounds": "kula + īśa, nominative",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Who is asked to bring about peace?",
+   "premises": [
+    "An imperative to do is present.",
+    "Peace is the object.",
+    "Bhagavan Kuleśa is the subject."
+   ],
+   "inference": "Bhagavan Kuleśa is asked to bring about peace.",
+   "uncertainties": [
+    "Whether karotu is third-person imperative is inferred."
+   ],
+   "plain_english": "May Bhagavan Kuleśa bring about peace."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "cānye",
+     "gloss": "and-others",
+     "grounds": "ca + anye",
+     "morph": "indecl.+pron.nom.pl.m"
+    },
+    {
+     "surface": "viśeṣapadabhedakaśāmbhavā",
+     "gloss": "special-word-difference-shambhava",
+     "grounds": "viśeṣa + pada + bhedaka + śāmbhava",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "ye",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.pl.m"
+    }
+   ],
+   "question": "Which others are described as special-word-difference Shāmbhava?",
+   "premises": [
+    "The verse mentions others.",
+    "They are described by a compound adjective.",
+    "A relative pronoun follows."
+   ],
+   "inference": "The others described are special-word-difference Shāmbhava ones.",
+   "uncertainties": [
+    "The exact referent of ye is not stated."
+   ],
+   "plain_english": "And others, the special-word-difference Shāmbhava ones, who..."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "nandantu",
+     "gloss": "rejoice",
+     "grounds": "root nand, imperative plural",
+     "morph": "verb.3.pl.act-imp"
+    },
+    {
+     "surface": "bhūmipati",
+     "gloss": "earth-lords",
+     "grounds": "bhūmi + pati, nominative plural",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "go",
+     "gloss": "cows",
+     "grounds": "go, nominative plural",
+     "morph": "noun.nom.pl.f"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "brahmins",
+     "grounds": "dvija, nominative plural",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "sādhu",
+     "gloss": "saints",
+     "grounds": "sādhu, nominative plural",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "lokāḥ",
+     "gloss": "people",
+     "grounds": "loka, nominative plural",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "Who is called to rejoice?",
+   "premises": [
+    "An imperative to rejoice is present.",
+    "Earth-lords, cows, brahmins, saints, and people are named.",
+    "All are in nominative plural."
+   ],
+   "inference": "Earth-lords, cows, brahmins, saints, and people are called to rejoice.",
+   "uncertainties": [
+    "Whether go is nominative plural feminine is inferred."
+   ],
+   "plain_english": "May earth-lords, cows, brahmins, saints, and people rejoice."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "śāntāḥ",
+     "gloss": "peaceful",
+     "grounds": "śānta, nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śāntamanasaḥ",
+     "gloss": "peaceful-minded",
+     "grounds": "śānta + manas",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "hṛtaśokaśaṅkāḥ",
+     "gloss": "removed-sorrow-fear",
+     "grounds": "hṛta + śoka + śaṅkā",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What qualities are attributed to the people?",
+   "premises": [
+    "The people are peaceful.",
+    "They are peaceful-minded.",
+    "Their sorrow and fear are removed."
+   ],
+   "inference": "The people are peaceful, peaceful-minded, and free from sorrow and fear.",
+   "uncertainties": [
+    "The exact noun modified by these adjectives is not in this verse."
+   ],
+   "plain_english": "Peaceful and peaceful-minded, with sorrow and fear removed."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "dharme",
+     "gloss": "in-dharma",
+     "grounds": "dharma, locative",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "carantu",
+     "gloss": "act",
+     "grounds": "root car, imperative plural",
+     "morph": "verb.3.pl.act-imp"
+    },
+    {
+     "surface": "niratāḥ",
+     "gloss": "devoted",
+     "grounds": "nirata, nominative plural",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "gurubhaktalokāḥ",
+     "gloss": "guru-devotee-people",
+     "grounds": "guru + bhakta + loka",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "How should guru-devotee people act?",
+   "premises": [
+    "Guru-devotee people are named.",
+    "They are devoted.",
+    "They should act in dharma."
+   ],
+   "inference": "Guru-devotee people should act devotedly in dharma.",
+   "uncertainties": [
+    "The exact subject of carantu is inferred from gurubhaktalokāḥ."
+   ],
+   "plain_english": "May guru-devotee people act devotedly in dharma."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p524",
+ "items": [
+  {
+   "verse": 13100,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb indicating manner or conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kali+yuge",
+     "gloss": "in-kali-age",
+     "grounds": "locative compound expressing time or era; members kali and yuga",
+     "morph": "compound: kali+yuga (loc.sg.n.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "subject of the declaration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śmaśānasya",
+     "gloss": "of-cremation-ground",
+     "grounds": "genitive specifying the locus or source of accomplishment",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "past participle functioning as predicate; pra-√kīrt",
+     "morph": "f.nom.sg.past-passive-participle (pra-√kīrt)"
+    }
+   ],
+   "question": "What specific accomplishment is declared for the cremation ground in the Kali age?",
+   "premises": [
+    "The preceding ritual acts lead to satisfaction and a desired boon.",
+    "The statement explicitly situates the result in the Kali age.",
+    "The accomplishment is attributed to the cremation ground."
+   ],
+   "inference": "Therefore, the cremation ground is declared to yield accomplishment in the Kali age.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the Kali age, the accomplishment of the cremation ground is declared."
+  }
+ ]
+}

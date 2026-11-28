@@ -1,0 +1,40 @@
+{
+ "song": "sva-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "vyādhyādhikāraṇabhūtamahāpāpabhakṣaṇa",
+     "gloss": "disease-cause-born-great-sin-consuming",
+     "grounds": "compound of vyādhi, ādhikāraṇa, bhūta, mahā, pāpa, and bhakṣaṇa; final visarga elided before iti",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avagatam",
+     "gloss": "understood",
+     "grounds": "past participle of avagam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is understood to consume great sins born from disease-causes?",
+   "premises": [
+    "Great sins born from disease-causes are consumed.",
+    "The stated result is marked as understood.",
+    "The quotation particle closes the statement."
+   ],
+   "inference": "The verse states that the great sins arising from disease-causes are consumed, and this is understood.",
+   "uncertainties": [
+    "The exact grammatical case of avagatam is not fully resolved.",
+    "The implied agent or rite consuming the sins is not explicit in this verse."
+   ],
+   "plain_english": "It is understood that the great sins born from disease-causes are consumed."
+  }
+ ]
+}

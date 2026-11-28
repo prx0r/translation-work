@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "of-whose",
+     "grounds": "Relative pronoun referring to the goddess mentioned in the preceding verse.",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "vijñāna",
+     "gloss": "knowledge",
+     "grounds": "First member of an instrumental compound expressing measure or extent with mātreṇa.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere-measure",
+     "grounds": "Indicates that knowledge alone, without additional means, is sufficient.",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "Optative expressing a potential or resulting transformation.",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "First member of a compound describing the nature of the transformed person.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mayaḥ",
+     "gloss": "consisting-of",
+     "grounds": "Suffixal adjective forming a compound meaning made of or pervaded by knowledge.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "Subject undergoing the transformation.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformation results for a person from mere knowledge of this goddess?",
+   "premises": [
+    "The verse refers to a goddess whose knowledge is being described.",
+    "Mere knowledge of her is presented as sufficient cause.",
+    "A person can become constituted of knowledge."
+   ],
+   "inference": "Therefore, through mere knowledge of this goddess, a person becomes wholly pervaded by knowledge.",
+   "uncertainties": [
+    "The specific sense of vijñāna in this context, whether experiential realization or doctrinal understanding, is not fully specified."
+   ],
+   "plain_english": "By mere knowledge of whom, a person may become wholly made of knowledge."
+  }
+ ]
+}

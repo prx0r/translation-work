@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "camakaṃ",
+     "gloss": "camaka-hymn",
+     "grounds": "name of the Vedic Camaka recitation; object of recitation/dismissal context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vādanena",
+     "gloss": "by-recitation",
+     "grounds": "instrumental of means indicating utterance or recitation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-it",
+     "grounds": "refers to the worshipped presence or ritual object being dismissed",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "praṇavādyaṃ",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound praṇava-ādya qualifying the recitation; praṇava kept as mantra term",
+     "morph": "praṇava-ādya-m.acc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "ritual injunction for dismissal",
+     "morph": "3.sg.act-opt~√visṛj"
+    }
+   ],
+   "question": "What recitation formula governs the ritual dismissal of the worshipped presence?",
+   "premises": [
+    "The Camaka hymn is employed in the act of dismissal.",
+    "The recitation of the Camaka is performed as the means of dismissal.",
+    "The recitation is specified to begin with the praṇava."
+   ],
+   "inference": "Therefore the worshipped presence should be dismissed by reciting the Camaka beginning with the praṇava.",
+   "uncertainties": [
+    "The precise referent of asya depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "One should dismiss it by reciting the Camaka, beginning with the praṇava."
+  }
+ ]
+}

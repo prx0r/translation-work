@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "devīpūjādikaṃ",
+     "gloss": "devi-worship-etc",
+     "grounds": "compound devi-puja-adi",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kr",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balyādikaṃ",
+     "gloss": "bali-etc",
+     "grounds": "compound bali-adi",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "optative of car",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What sequence of worship and offerings should be performed before proceeding?",
+   "premises": [
+    "devi worship and related rites are performed first",
+    "then bali and related rites are performed",
+    "the practitioner should carry out this sequence"
+   ],
+   "inference": "The verse prescribes worship first, then offerings, as the proper ritual order.",
+   "uncertainties": [
+    "exact scope of adi in each compound"
+   ],
+   "plain_english": "After performing devi worship and related rites, one should then perform bali and related rites."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "mantramātre",
+     "gloss": "mantra-only",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-lady",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "japānte",
+     "gloss": "after-japa",
+     "grounds": "locative ablative sense",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "varā",
+     "gloss": "excellent",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the excellent deity to be addressed after mantra-only japa?",
+   "premises": [
+    "the context is mantra-only practice",
+    "after japa the deity is addressed",
+    "the deity is called excellent"
+   ],
+   "inference": "The verse identifies the excellent deity invoked after mantra-only japa.",
+   "uncertainties": [
+    "whether devata is subject or object"
+   ],
+   "plain_english": "O great lady, after japa in mantra-only practice, the excellent deity is addressed."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "dehīti",
+     "gloss": "give-me-thus",
+     "grounds": "imperative plus quotative",
+     "morph": "v.2.sg.act-imp"
+    },
+    {
+     "surface": "bhāṣeta",
+     "gloss": "should-speak",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "dvaṃdvaṃ",
+     "gloss": "pair",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two-ways",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the boon be requested and spoken after taking the pair?",
+   "premises": [
+    "one says give me thus",
+    "the pair and boon are taken",
+    "the boon is spoken in two ways"
+   ],
+   "inference": "The verse gives a two-part speech formula for requesting and declaring the boon.",
+   "uncertainties": [
+    "exact ritual referent of dvandva"
+   ],
+   "plain_english": "One should say 'give me,' take the pair and boon, and speak the boon in two ways."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "vīrārgalāghorayośca",
+     "gloss": "vira-argala-aghora-and",
+     "grounds": "compound with ca",
+     "morph": "n.gen.du.m"
+    },
+    {
+     "surface": "cakrapāśupatau",
+     "gloss": "cakra-pashupata",
+     "grounds": "compound dual",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional mantra sets are included alongside vira argala and aghora?",
+   "premises": [
+    "vira argala and aghora are named",
+    "cakra and pashupata are named",
+    "also indicates further inclusion"
+   ],
+   "inference": "The verse lists cakra and pashupata among the additional sets.",
+   "uncertainties": [
+    "exact case and number of fused compound"
+   ],
+   "plain_english": "Vira, argala, aghora, cakra, and pashupata are also included."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "siddha+vīrakramo",
+     "gloss": "siddha-vira-order",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "mantraṣaṭke",
+     "gloss": "mantra-sixfold",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.past.part"
+    }
+   ],
+   "question": "What order is declared for the sixfold mantra set?",
+   "premises": [
+    "the siddha-vira order is named",
+    "it is declared in the sixfold mantra context",
+    "the goddess is addressed"
+   ],
+   "inference": "The verse declares the siddha-vira order within the sixfold mantra set.",
+   "uncertainties": [
+    "whether krama is subject or predicate"
+   ],
+   "plain_english": "O goddess, the siddha-vira order is declared in the sixfold mantra."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "nīlakramo",
+     "gloss": "blue-order",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "mahācīnakramaśca",
+     "gloss": "great-china-order-and",
+     "grounds": "compound with ca",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative orders may be used besides the siddha-vira order?",
+   "premises": [
+    "the blue order is an alternative",
+    "the great china order is an alternative",
+    "or marks alternatives"
+   ],
+   "inference": "The verse offers blue and great-china orders as alternatives.",
+   "uncertainties": [
+    "whether both can combine"
+   ],
+   "plain_english": "O goddess, either the blue order or the great china order may be used."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "kramametat",
+     "gloss": "order-this",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "puraskṛtya",
+     "gloss": "having-honored",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "trailokyavijayī",
+     "gloss": "three-worlds-victorious",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What result follows from honoring this order?",
+   "premises": [
+    "this order is honored first",
+    "one becomes victorious over three worlds",
+    "the result is stated as becoming"
+   ],
+   "inference": "Honoring this order makes one victorious over the three worlds.",
+   "uncertainties": [
+    "exact ritual honoring action"
+   ],
+   "plain_english": "Having honored this order, one becomes victorious over the three worlds."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "kaṇṭhādhaḥ",
+     "gloss": "below-throat",
+     "grounds": "compound",
+     "morph": "adv"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bathing",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-attained",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mārjanaṃ",
+     "gloss": "cleansing",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should bathing and cleansing be performed in this rite?",
+   "premises": [
+    "bathing is attained below the throat",
+    "cleansing is done on the head",
+    "one should perform it"
+   ],
+   "inference": "The verse locates bathing below the throat and cleansing on the head.",
+   "uncertainties": [
+    "whether kaṇṭhādhaḥ modifies snānam only"
+   ],
+   "plain_english": "One should bathe below the throat and cleanse on the head."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "vīragurormahāvidyāṃ",
+     "gloss": "vira-guru-great-vidya",
+     "grounds": "compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "kālānalaprabhām",
+     "gloss": "kala-fire-radiance",
+     "grounds": "compound",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What great vidya is obtained from the vira guru?",
+   "premises": [
+    "the vira guru's great vidya is obtained",
+    "it has kala-fire radiance",
+    "the object is accusative"
+   ],
+   "inference": "The vira guru's great vidya is radiant like kala fire.",
+   "uncertainties": [
+    "whether prāpya governs both objects"
+   ],
+   "plain_english": "Having obtained the vira guru's great vidya, it shines like kala fire."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "divyagurormahāvidyāṃ",
+     "gloss": "divine-guru-great-vidya",
+     "grounds": "compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kālīṃ",
+     "gloss": "kali",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kādambarīnibhām",
+     "gloss": "kadamba-like",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form does the divine guru's great vidya take?",
+   "premises": [
+    "the divine guru's great vidya is named",
+    "it is kali",
+    "it is kadamba-like"
+   ],
+   "inference": "The divine guru's great vidya is kali, kadamba-like.",
+   "uncertainties": [
+    "whether kālīṃ is apposition"
+   ],
+   "plain_english": "The divine guru's great vidya is kali, resembling kadamba."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "paśugurormahāvidyāṃ",
+     "gloss": "beast-guru-great-vidya",
+     "grounds": "compound",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "mahākālābhrasannibhām",
+     "gloss": "great-kala-cloud-like",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form does the beast guru's great vidya take?",
+   "premises": [
+    "the beast guru's great vidya is named",
+    "it is like great kala cloud",
+    "the object is accusative"
+   ],
+   "inference": "The beast guru's great vidya is like a great kala cloud.",
+   "uncertainties": [
+    "whether mahākāla is deity or time"
+   ],
+   "plain_english": "The beast guru's great vidya is like a great kala cloud."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "in-brief",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "mālābhedaṃ",
+     "gloss": "garland-difference",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "v.2.sg.act-imp"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What is being summarized and offered for hearing?",
+   "premises": [
+    "it is spoken in brief",
+    "the garland difference is the topic",
+    "the dear one is told to hear"
+   ],
+   "inference": "The verse summarizes the garland difference and asks the dear one to hear it.",
+   "uncertainties": [
+    "whether mālābheda is section title"
+   ],
+   "plain_english": "Thus, in brief, the garland difference has been spoken; hear it, dear one."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "nāmāṣṭātriṃśatiḥ",
+     "gloss": "name-thirty-eight",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the name of this chapter?",
+   "premises": [
+    "thirty-eight names are indicated",
+    "the chapter is named",
+    "the title is compact"
+   ],
+   "inference": "The chapter is named with thirty-eight names.",
+   "uncertainties": [
+    "exact chapter numbering"
+   ],
+   "plain_english": "The chapter is the thirty-eight names."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "muṇḍāsanamidaṃ",
+     "gloss": "munda-seat-this",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "speak",
+     "grounds": "imperative",
+     "morph": "v.2.sg.act-imp"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tava+vallabhā",
+     "gloss": "your-beloved",
+     "grounds": "compound with sandhi",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What seat is requested to be explained if the speaker is beloved?",
+   "premises": [
+    "this munda seat is the topic",
+    "the beloved asks for explanation",
+    "the condition is being beloved"
+   ],
+   "inference": "The verse requests explanation of the munda seat on condition of beloved status.",
+   "uncertainties": [
+    "whether tava+vallabhā is vocative or nominative"
+   ],
+   "plain_english": "Speak this munda seat, if I am your beloved."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "candratripañcamuṇḍāni",
+     "gloss": "moon-three-five-mundas",
+     "grounds": "compound",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "vasurandhrābhidhāni",
+     "gloss": "vasu-hole-named",
+     "grounds": "compound",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mundas are named along with vasu holes?",
+   "premises": [
+    "moon three five mundas are named",
+    "vasu hole named items are included",
+    "also adds them"
+   ],
+   "inference": "The verse names moon, three, and five mundas along with vasu-hole items.",
+   "uncertainties": [
+    "exact ritual arrangement"
+   ],
+   "plain_english": "Moon, three, and five mundas, also called vasu holes, are named."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "dikvidikkrayogena",
+     "gloss": "direction-intermediate-yoga",
+     "grounds": "compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "kīlānyāropya",
+     "gloss": "pegs-having-fixed",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should pegs be fixed to accomplish the rite?",
+   "premises": [
+    "direction and intermediate yoga is the means",
+    "pegs are fixed",
+    "one should accomplish it"
+   ],
+   "inference": "The rite is accomplished by fixing pegs through direction-intermediate yoga.",
+   "uncertainties": [
+    "exact meaning of kīla"
+   ],
+   "plain_english": "By direction-intermediate yoga, having fixed pegs, one should accomplish it."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "kālarātridine",
+     "gloss": "kala-night-day",
+     "grounds": "compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "vīrarātridine",
+     "gloss": "vira-night-day",
+     "grounds": "compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which nights and days is the rite performed?",
+   "premises": [
+    "kala night and day is a time",
+    "vira night and day is a time",
+    "also indicates both"
+   ],
+   "inference": "The verse names kala and vira nights and days as ritual times.",
+   "uncertainties": [
+    "whether these are separate or combined"
+   ],
+   "plain_english": "O goddess, on kala night and day, and also on vira night and day."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "eighth",
+     "grounds": "locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "fourteenth",
+     "grounds": "locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "pakṣayorubhayorapi",
+     "gloss": "of-both-fortnights",
+     "grounds": "compound",
+     "morph": "n.gen.du.m"
+    }
+   ],
+   "question": "On which lunar days and fortnights is the rite performed?",
+   "premises": [
+    "the eighth is named",
+    "the fourteenth is named",
+    "both fortnights are included"
+   ],
+   "inference": "The verse specifies eighth and fourteenth days in both fortnights.",
+   "uncertainties": [
+    "whether both days in both fortnights"
+   ],
+   "plain_english": "On the eighth and fourteenth days of both fortnights."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-make",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "trailokyādhipatir",
+     "gloss": "three-worlds-lord",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What result follows from making a yantra?",
+   "premises": [
+    "a yantra should be made",
+    "or marks an alternative",
+    "one becomes lord of three worlds"
+   ],
+   "inference": "Making a yantra makes one lord of the three worlds.",
+   "uncertainties": [
+    "whether yantra is mandatory or optional"
+   ],
+   "plain_english": "O goddess, or one should make a yantra and become lord of the three worlds."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "mṛtāsanakrameṇāpi",
+     "gloss": "dead-seat-order",
+     "grounds": "compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sādhayed",
+     "gloss": "should-accomplish",
+     "grounds": "optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vīrasādhanam",
+     "gloss": "vira-accomplishment",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How can vira accomplishment be achieved through a dead seat?",
+   "premises": [
+    "dead seat order is the means",
+    "one should accomplish",
+    "vira accomplishment is the goal"
+   ],
+   "inference": "The verse says vira accomplishment can be achieved by the dead-seat order.",
+   "uncertainties": [
+    "exact meaning of mṛtāsana"
+   ],
+   "plain_english": "By the dead-seat order, one should accomplish vira accomplishment."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "komalaṃ",
+     "gloss": "soft",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "west",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "muṇḍamuttaragocaram",
+     "gloss": "munda-north-going",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Where is the soft munda spoken to go?",
+   "premises": [
+    "soft is the quality",
+    "west is the location",
+    "munda goes north"
+   ],
+   "inference": "The verse says the soft munda in the west goes north.",
+   "uncertainties": [
+    "whether komala modifies munda"
+   ],
+   "plain_english": "The soft munda in the west is spoken to go north."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "ekavīraṃ",
+     "gloss": "one-vira",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "trivīraṃ",
+     "gloss": "three-vira",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāṣṭanavavīrakam",
+     "gloss": "five-eight-nine-vira",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How many vira arrangements are possible?",
+   "premises": [
+    "one vira is possible",
+    "three vira is possible",
+    "five eight nine vira is possible"
+   ],
+   "inference": "The verse lists one, three, five, eight, or nine vira arrangements.",
+   "uncertainties": [
+    "whether pañcāṣṭanava means 5,8,9 or 589"
+   ],
+   "plain_english": "One vira, three vira, or five-eight-nine vira arrangements are possible."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "muṇḍapakṣe",
+     "gloss": "munda-side",
+     "grounds": "compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vīraṃ",
+     "gloss": "vira",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mahottamam",
+     "gloss": "very-excellent",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "Where should the excellent vira be placed in the munda side?",
+   "premises": [
+    "munda side is the location",
+    "middle is specified",
+    "the vira is very excellent"
+   ],
+   "inference": "The verse places the very excellent vira in the middle of the munda side.",
+   "uncertainties": [
+    "whether api adds an exception"
+   ],
+   "plain_english": "O goddess, in the munda side, the very excellent vira is in the middle."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "śmaśānaṃ",
+     "gloss": "cremation-ground",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citā",
+     "gloss": "pyre",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śastā",
+     "gloss": "praised",
+     "grounds": "past participle",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "cāsthibhūmyāsanaṃ",
+     "gloss": "bone-ground-seat",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seats and places are praised for this practice?",
+   "premises": [
+    "cremation ground is an option",
+    "pyre is praised",
+    "bone ground seat is also included"
+   ],
+   "inference": "The verse praises cremation ground, pyre, and bone-ground seat as places or seats.",
+   "uncertainties": [
+    "whether śastā modifies citā only"
+   ],
+   "plain_english": "Cremation ground, or pyre, praised, and also bone-ground seat."
+  }
+ ]
+}

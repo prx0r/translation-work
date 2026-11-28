@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-two",
+     "grounds": "refers to the pair of positions under consideration",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle extending the negation to both members",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anayoḥ",
+     "gloss": "of-these",
+     "grounds": "demonstrative pointing to the two positions previously stated",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "yuktiḥ",
+     "gloss": "reasoning",
+     "grounds": "logical justification or argument",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pakṣayoḥ",
+     "gloss": "of-positions",
+     "grounds": "doctrinal views or sides in the argument",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "nopapadyate",
+     "gloss": "does-not-hold",
+     "grounds": "negated verb expressing failure to be established; na + upapadyate",
+     "morph": "3.sg.pres.middle upa-√pad"
+    }
+   ],
+   "question": "Can logical reasoning conclusively establish either of the two proposed doctrinal positions?",
+   "premises": [
+    "Two doctrinal positions regarding the world's identity have been presented.",
+    "Each position seeks support through logical reasoning.",
+    "Logical reasoning fails to establish either of these positions."
+   ],
+   "inference": "Neither of the two proposed positions is validated by reasoning.",
+   "uncertainties": [
+    "The specific content of the two positions is supplied by the preceding verses."
+   ],
+   "plain_english": "Even for these two positions, the reasoning does not hold."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p126",
+ "items": [
+  {
+   "verse": 3150,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of pūjay",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverbial indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverbial indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantram",
+     "gloss": "root-mantra",
+     "grounds": "accusative singular neuter noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "japet",
+     "gloss": "let-one-chant",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act-optative+jap"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverbial indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "After worshipping the listed forms, what should the practitioner chant next?",
+   "premises": [
+    "Worship precedes root-mantra recitation.",
+    "Recitation follows the prior offerings.",
+    "The sequence is worship then chant."
+   ],
+   "inference": "The practitioner first worships then chants the root mantra.",
+   "uncertainties": [
+    "The exact referent of the prior offerings is not specified in this verse."
+   ],
+   "plain_english": "Having worshipped, then afterwards one should chant the root mantra, then..."
+  }
+ ]
+}

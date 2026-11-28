@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2950,
+   "rows": [
+    {
+     "surface": "mānasūtrāt",
+     "gloss": "from-plumb-line",
+     "grounds": "māna-sūtra in ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiryak",
+     "gloss": "obliquely",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samasūtra",
+     "gloss": "same-line",
+     "grounds": "sama-sūtra compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅgabhadrakam",
+     "gloss": "auspicious-limb",
+     "grounds": "aṅga-bhadraka compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the aṅgabhadraka positioned relative to the plumb line?",
+   "premises": [
+    "The aṅgabhadraka lies outside the plumb line.",
+    "It is placed obliquely.",
+    "It follows the same line."
+   ],
+   "inference": "The aṅgabhadraka is set outside and obliquely along the same line.",
+   "uncertainties": [
+    "The exact architectural referent of aṅgabhadraka is not specified."
+   ],
+   "plain_english": "Outside the plumb line, obliquely, along the same line, is the aṅgabhadraka."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb introducing the summary of the preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇālam",
+     "gloss": "water-spout",
+     "grounds": "object of ākhyātaṃ; channel for water",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "passive participle agreeing with praṇālam",
+     "morph": "n.nom.sg.pass.past.participle"
+    },
+    {
+     "surface": "padmamadhye",
+     "gloss": "in-lotus-middle",
+     "grounds": "locative of place; padma and madhya compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb qualifying the placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the water-spout declared to be placed especially?",
+   "premises": [
+    "water-spout is declared",
+    "placement is in lotus middle",
+    "especially qualifies placement"
+   ],
+   "inference": "The water-spout is to be placed especially in the middle of the lotus.",
+   "uncertainties": [
+    "exact ritual referent of padma is not specified in this verse"
+   ],
+   "plain_english": "Thus the water-spout is declared, especially in the middle of the lotus."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "śibikayā",
+     "gloss": "by-palanquin",
+     "grounds": "instrumental of śibikā; means of transport",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "dvijārūḍha",
+     "gloss": "brahmin-mounted",
+     "grounds": "compound dvija + ārūḍha; describes mounted transport",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gajena",
+     "gloss": "by-elephant",
+     "grounds": "instrumental of gaja; means of transport",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which conveyances may the consecrated linga be carried in this rite?",
+   "premises": [
+    "Palanquin is an allowed conveyance.",
+    "Brahmin-mounted transport is allowed.",
+    "Elephant is an allowed conveyance."
+   ],
+   "inference": "The linga may be transported by palanquin, brahmin-mounted carriage, or elephant.",
+   "uncertainties": [
+    "The exact referent of dvijārūḍha remains slightly unclear."
+   ],
+   "plain_english": "By palanquin, mounted by a brahmin, or by elephant."
+  }
+ ]
+}

@@ -1,0 +1,949 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1976,
+   "rows": [
+    {
+     "surface": "aṃkuśaṃ",
+     "gloss": "goad",
+     "grounds": "object held in hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cābhayaṃ",
+     "gloss": "and-fearlessness-gesture",
+     "grounds": "ca + abhayaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "savye",
+     "gloss": "on-right-side",
+     "grounds": "location of attributes",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left-side",
+     "grounds": "location of attributes",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varadaśaktikām",
+     "gloss": "boon-granting-power",
+     "grounds": "varada + śaktikā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which hand-held attributes define this goddess's iconographic form?",
+   "premises": [
+    "A goad is held as an attribute",
+    "A fearlessness gesture is held as an attribute",
+    "A boon-granting power is held as an attribute",
+    "These attributes are placed on right and left sides"
+   ],
+   "inference": "The goddess is iconographically identified by a goad, fearlessness gesture, and boon-granting power distributed on her right and left sides.",
+   "uncertainties": [],
+   "plain_english": "She holds a goad and the gesture of fearlessness on the right, and the boon-granting power on the left."
+  },
+  {
+   "verse": 1977,
+   "rows": [
+    {
+     "surface": "caturbhujāṃ",
+     "gloss": "four-armed",
+     "grounds": "catur + bhujā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "triṇetrāṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri + netrā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktavarṇordhvakeśikām",
+     "gloss": "red-colored-upward-haired",
+     "grounds": "rakta-varṇa + ūrdhva-keśikā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What bodily features characterize this goddess's visible appearance?",
+   "premises": [
+    "The goddess has four arms",
+    "The goddess has three eyes",
+    "The goddess is red in color",
+    "The goddess has upward-standing hair"
+   ],
+   "inference": "Her visible form is characterized by four arms, three eyes, red color, and upward-standing hair.",
+   "uncertainties": [],
+   "plain_english": "She is four-armed, three-eyed, red in color, and has hair standing upward."
+  },
+  {
+   "verse": 1978,
+   "rows": [
+    {
+     "surface": "vyāghracarmāmbaradharāṃ",
+     "gloss": "wearing-tiger-skin-garment",
+     "grounds": "vyāghra-carma + ambara + dharā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nāgendraskandha",
+     "gloss": "serpent-lord-on-shoulder",
+     "grounds": "nāga-indra + skandha",
+     "morph": "compound"
+    },
+    {
+     "surface": "sustanām",
+     "gloss": "beautiful-breasted",
+     "grounds": "su + stanā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What garments and bodily adornments distinguish this goddess's form?",
+   "premises": [
+    "She wears a tiger-skin garment",
+    "She bears a serpent lord on her shoulder",
+    "She is described as beautiful-breasted"
+   ],
+   "inference": "Her form is distinguished by a tiger-skin garment, a serpent lord on the shoulder, and beautiful breasts.",
+   "uncertainties": [
+    "nāgendraskandha may describe a shoulder ornament or posture; taken as bearing a serpent lord on the shoulder"
+   ],
+   "plain_english": "She wears a tiger-skin garment, has a serpent lord on her shoulder, and has beautiful breasts."
+  },
+  {
+   "verse": 1979,
+   "rows": [
+    {
+     "surface": "cāmuṇḍīlakṣaṇaṃ",
+     "gloss": "having-cāmuṇḍī-marks",
+     "grounds": "cāmuṇḍī + lakṣaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "hi + evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaberaṃ",
+     "gloss": "single-image",
+     "grounds": "eka + bera",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhavet",
+     "gloss": "that-should-be",
+     "grounds": "tad + bhavet",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What iconographic identity should this single image embody?",
+   "premises": [
+    "The image is described as single",
+    "It should bear the marks of Cāmuṇḍī",
+    "The prescription is stated as definitive"
+   ],
+   "inference": "The single image should be made with the characteristic marks of Cāmuṇḍī.",
+   "uncertainties": [],
+   "plain_english": "Thus, that single image should indeed have the characteristics of Cāmuṇḍī."
+  },
+  {
+   "verse": 1980,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamātṝnāṃ",
+     "gloss": "of-seven-mothers",
+     "grounds": "sapta + mātṝṇām",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "one-should-make",
+     "grounds": "causative prescription",
+     "morph": "3.sg.optative-causative √kṛ"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "best-of-twice-born",
+     "grounds": "dvija + sattama",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How should the images of the seven mothers be produced?",
+   "premises": [
+    "The instruction concerns the seven mothers",
+    "The manner of making is prescribed as thus",
+    "The addressee is the best of the twice-born"
+   ],
+   "inference": "One should make the images of the seven mothers in the manner described.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should indeed make the images of the seven mothers in this way."
+  },
+  {
+   "verse": 1981,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "iti + aṃśumān + kāśyape",
+     "morph": "compound"
+    },
+    {
+     "surface": "mātṛkālakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-mother-characteristics",
+     "grounds": "mātṛkā + lakṣaṇa + paṭalaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptacatvāriṃśaḥ",
+     "gloss": "forty-seventh",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual section concludes with the characteristics of the mothers?",
+   "premises": [
+    "The text is identified as Aṃśumān Kāśyapa",
+    "The section concerns characteristics of the mothers",
+    "The section is numbered forty-seventh"
+   ],
+   "inference": "This marks the conclusion of the forty-seventh chapter on the characteristics of the mothers in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the forty-seventh chapter on the characteristics of the mothers in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1982,
+   "rows": [
+    {
+     "surface": "pādāduṣṇīṣaparyantaṃ",
+     "gloss": "from-foot-to-turban-end",
+     "grounds": "pāda + ādi + uṣṇīṣa + paryanta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catuṣṣaṣṭyaṃśabhājitam",
+     "gloss": "divided-into-sixty-four-parts",
+     "grounds": "catuṣṣaṣṭi + aṃśa + bhājita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the full body height proportionally divided for measurement?",
+   "premises": [
+    "The measurement spans from foot to turban end",
+    "The total span is divided into parts",
+    "The division consists of sixty-four parts"
+   ],
+   "inference": "The body from foot to turban end is to be divided into sixty-four proportional parts.",
+   "uncertainties": [],
+   "plain_english": "From the foot to the top of the turban, the body is divided into sixty-four parts."
+  },
+  {
+   "verse": 1983,
+   "rows": [
+    {
+     "surface": "tasmādvai",
+     "gloss": "therefore-indeed",
+     "grounds": "tasmāt + vai",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrasūtrāntaṃ",
+     "gloss": "up-to-eye-line-end",
+     "grounds": "netra + sūtra + anta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturmātram",
+     "gloss": "four-measures",
+     "grounds": "catur + mātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as rule",
+     "morph": "n.nom.sg.past-passive-participle √udāhṛ"
+    }
+   ],
+   "question": "What measurement is prescribed up to the eye line?",
+   "premises": [
+    "The measurement is taken from the established base",
+    "The endpoint is the eye line",
+    "The prescribed measure is four units"
+   ],
+   "inference": "The distance up to the eye line is declared to be four measures.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the distance up to the eye line is declared to be four measures."
+  },
+  {
+   "verse": 1984,
+   "rows": [
+    {
+     "surface": "tasmācca",
+     "gloss": "and-from-that",
+     "grounds": "tasmāt + ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇamānaṃ",
+     "gloss": "ear-measure",
+     "grounds": "karṇa + māna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "dvayaṃgulam",
+     "gloss": "two-fingers",
+     "grounds": "dvaya + aṅgula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as rule",
+     "morph": "n.nom.sg.past-passive-participle √udāhṛ"
+    }
+   ],
+   "question": "What measurement is prescribed for the ear from that point?",
+   "premises": [
+    "The measurement follows from the previous point",
+    "The feature measured is the ear",
+    "The prescribed measure is two fingers"
+   ],
+   "inference": "The measure of the ear from that point is declared to be two fingers.",
+   "uncertainties": [],
+   "plain_english": "And from that point, the measure of the ear is declared to be two fingers."
+  },
+  {
+   "verse": 1985,
+   "rows": [
+    {
+     "surface": "ūruḥ",
+     "gloss": "thigh",
+     "grounds": "body part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśamānaḥ",
+     "gloss": "six-part-measure",
+     "grounds": "ṣaḍ + aṃśa + māna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "jānudīrghaṃ",
+     "gloss": "knee-length",
+     "grounds": "jānu + dīrgha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃgulam",
+     "gloss": "three-fingers",
+     "grounds": "guṇa + aṅgula",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed for thigh and knee length?",
+   "premises": [
+    "The thigh has a prescribed measure",
+    "The thigh measure is six parts",
+    "The knee length is three fingers"
+   ],
+   "inference": "The thigh should measure six parts and the knee length should be three fingers.",
+   "uncertainties": [
+    "guṇāṃgulam interpreted as three fingers based on common usage of guṇa"
+   ],
+   "plain_english": "The thigh should be six parts in measure, and the knee length should be three fingers."
+  },
+  {
+   "verse": 1986,
+   "rows": [
+    {
+     "surface": "saptāṃgulasamāyāmaṃ",
+     "gloss": "seven-finger-length",
+     "grounds": "sapta + aṅgula + samāyāma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃguṣṭhādi",
+     "gloss": "beginning-with-thumb",
+     "grounds": "aṅguṣṭha + ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasānakam",
+     "gloss": "ending-with-vasa",
+     "grounds": "endpoint term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What total length is prescribed from thumb to the stated endpoint?",
+   "premises": [
+    "The span begins with the thumb",
+    "The span ends at the stated endpoint",
+    "The total length is seven fingers"
+   ],
+   "inference": "The length from the thumb to the stated endpoint should be seven fingers.",
+   "uncertainties": [
+    "vasānakam is an unclear technical endpoint term"
+   ],
+   "plain_english": "From the thumb onward to the stated endpoint, the length should be seven fingers."
+  },
+  {
+   "verse": 1987,
+   "rows": [
+    {
+     "surface": "tarjanyādikaniṣṭhāntaṃ",
+     "gloss": "from-index-to-little-finger-end",
+     "grounds": "tarjanī + ādi + kaniṣṭhā + anta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distributive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavonakam",
+     "gloss": "less-by-one-barley",
+     "grounds": "yava + ūnaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the finger lengths adjusted from index to little finger?",
+   "premises": [
+    "The range is from index finger to little finger",
+    "The adjustment applies to each",
+    "Each is reduced by one barley grain"
+   ],
+   "inference": "Each finger from the index to the little finger should be one barley grain shorter than the preceding measure.",
+   "uncertainties": [],
+   "plain_english": "From the index finger to the little finger, each should be shorter by one barley grain."
+  },
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "caturmātraṃ",
+     "gloss": "four-measures",
+     "grounds": "catur + mātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "talāyāmaṃ",
+     "gloss": "palm-length",
+     "grounds": "tala + āyāma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agnyaṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "agni + aṃśa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamāṃgulam",
+     "gloss": "middle-finger",
+     "grounds": "madhyamā + aṅgula",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the palm and middle finger?",
+   "premises": [
+    "The palm length has a prescribed measure",
+    "The palm length is four measures",
+    "The middle finger is three parts"
+   ],
+   "inference": "The palm length should be four measures and the middle finger three parts.",
+   "uncertainties": [
+    "agnyaṃśaṃ interpreted as three parts based on symbolic use of agni"
+   ],
+   "plain_english": "The length of the palm should be four measures, and the middle finger three parts."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṃguṣṭhayoścaiva",
+     "gloss": "and-of-little-finger-and-thumb",
+     "grounds": "kaniṣṭhā + aṅguṣṭha + yoḥ + ca + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "length",
+     "grounds": "measurement of length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptadaśā",
+     "gloss": "seventeen",
+     "grounds": "numeral component",
+     "morph": "compound"
+    },
+    {
+     "surface": "yavam",
+     "gloss": "barley-grains",
+     "grounds": "unit of measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed for the little finger and thumb together?",
+   "premises": [
+    "The measurement concerns the little finger and thumb",
+    "The prescribed length is numerical",
+    "The unit is seventeen barley grains"
+   ],
+   "inference": "The length of the little finger and thumb is prescribed as seventeen barley grains.",
+   "uncertainties": [
+    "saptadaśā yavam taken as seventeen barley grains though written as two tokens"
+   ],
+   "plain_english": "The length of the little finger and the thumb should be seventeen barley grains."
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhādi kaniṣṭhāntaṃ",
+     "gloss": "from-thumb-to-little-finger-end",
+     "grounds": "aṅguṣṭha + ādi + kaniṣṭhā + anta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyāsam",
+     "gloss": "breadth",
+     "grounds": "width measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "iti + abhidhīyate",
+     "morph": "3.sg.present-passive √abhidhā"
+    }
+   ],
+   "question": "What span is defined as the breadth from thumb to little finger?",
+   "premises": [
+    "The span begins at the thumb",
+    "The span ends at the little finger",
+    "This span is designated as breadth"
+   ],
+   "inference": "The span from the thumb to the little finger is called the breadth.",
+   "uncertainties": [],
+   "plain_english": "The span from the thumb to the little finger is called the breadth."
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "nakhavyāsaṃ",
+     "gloss": "nail-breadth",
+     "grounds": "nakha + vyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "tri + pāda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "nakhadīrghāya",
+     "gloss": "for-nail-length",
+     "grounds": "nakha + dīrgha",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vṛttavat",
+     "gloss": "rounded-like",
+     "grounds": "vṛtta + vat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportion and shape are prescribed for the nail's breadth and length?",
+   "premises": [
+    "The nail breadth is specified",
+    "The breadth should be three quarters relative to nail length",
+    "The nail should be rounded"
+   ],
+   "inference": "The nail breadth should be three quarters of its length and shaped rounded.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the nail should be three quarters, and for its length it should be rounded."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "prakoṣṭhāntaṃ",
+     "gloss": "up-to-forearm-end",
+     "grounds": "prakoṣṭha + anta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yugāṃgulyaṃ",
+     "gloss": "two-fingers",
+     "grounds": "yuga + aṅgulya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhuvyāsaṃ",
+     "gloss": "arm-breadth",
+     "grounds": "bāhu + vyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍardhakam",
+     "gloss": "three-units",
+     "grounds": "ṣaḍ + ardhaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements are prescribed for the forearm end and arm breadth?",
+   "premises": [
+    "A measure is given up to the forearm end",
+    "That measure is two fingers",
+    "The arm breadth is three units"
+   ],
+   "inference": "The measure up to the forearm end is two fingers and the arm breadth is three units.",
+   "uncertainties": [
+    "ṣaḍardhakam interpreted as half of six, i.e. three"
+   ],
+   "plain_english": "Up to the end of the forearm it should be two fingers, and the breadth of the arm should be three."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "saptāṃgulaṃ",
+     "gloss": "seven-fingers",
+     "grounds": "sapta + aṅgula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nataṃ",
+     "gloss": "bent",
+     "grounds": "curved or inclined",
+     "morph": "n.nom.sg.past-passive-participle √nam"
+    },
+    {
+     "surface": "nimno",
+     "gloss": "depressed",
+     "grounds": "low or hollow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukhamadhye",
+     "gloss": "in-middle-of-face",
+     "grounds": "mukha + madhye",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśāṃgulam",
+     "gloss": "ten-fingers",
+     "grounds": "daśa + aṅgula",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements define the bent and depressed middle of the face?",
+   "premises": [
+    "A bent measure of seven fingers is specified",
+    "A depressed area is in the middle of the face",
+    "That middle area measures ten fingers"
+   ],
+   "inference": "The face has a bent measure of seven fingers and a depressed middle measuring ten fingers.",
+   "uncertainties": [
+    "exact anatomical reference of nataṃ and nimno is context-dependent"
+   ],
+   "plain_english": "There is a bent measure of seven fingers, and in the middle of the face a depressed area of ten fingers."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "tadaṃgulāgravistāraṃ",
+     "gloss": "that-finger-tip-width",
+     "grounds": "tad + aṅgula + agra + vistāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhamātraṃ",
+     "gloss": "one-and-half-measure",
+     "grounds": "sa + ardha + mātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-of-twice-born",
+     "grounds": "dvija + uttama",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What width is prescribed for the fingertip in this measurement?",
+   "premises": [
+    "The measurement concerns the fingertip width",
+    "The prescribed width is one and a half measures",
+    "The instruction is addressed to the best of the twice-born"
+   ],
+   "inference": "The width of the fingertip is prescribed as one and a half measures.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, the width of that fingertip should be one and a half measures."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "vāmadantāyatadbhavet",
+     "gloss": "left-tooth-length-should-be",
+     "grounds": "vāma + danta + āyata + tad + bhavet",
+     "morph": "compound"
+    },
+    {
+     "surface": "vedamātram",
+     "gloss": "four-measures",
+     "grounds": "veda + mātra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "iti + abhidhīyate",
+     "morph": "3.sg.present-passive √abhidhā"
+    }
+   ],
+   "question": "What length is prescribed for the left tooth in this iconometry?",
+   "premises": [
+    "The measurement concerns the left tooth length",
+    "The prescribed measure is four units",
+    "This is stated as the defined rule"
+   ],
+   "inference": "The length of the left tooth is declared to be four measures.",
+   "uncertainties": [
+    "vedamātram interpreted as four measures based on symbolic use of veda"
+   ],
+   "plain_english": "The length of the left tooth should be four measures; thus it is declared."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "adharasya",
+     "gloss": "of-lower-lip",
+     "grounds": "body part",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkrāntāllambanaṃ",
+     "gloss": "protruding-hanging-part",
+     "grounds": "niṣkrānta + ālambana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-fingers",
+     "grounds": "dvi + aṅgula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What protrusion measure is prescribed for the lower lip?",
+   "premises": [
+    "The feature belongs to the lower lip",
+    "It is described as protruding and hanging",
+    "Its measure should be two fingers"
+   ],
+   "inference": "The protruding part of the lower lip should measure two fingers.",
+   "uncertainties": [],
+   "plain_english": "But the protruding part of the lower lip should be two fingers."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "karṇabhūtāṃgula",
+     "gloss": "ear-origin-finger",
+     "grounds": "karṇa + bhūta + aṅgula",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "width measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "vertical measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "equal-to-that",
+     "grounds": "tad + sama",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the ear's breadth and height be proportioned?",
+   "premises": [
+    "The ear's breadth is specified in finger units",
+    "The ear's height is also specified",
+    "The height should be equal to that breadth"
+   ],
+   "inference": "The height of the ear should be equal to its breadth.",
+   "uncertainties": [
+    "karṇabhūtāṃgula is a compact technical expression; taken as ear breadth in finger units"
+   ],
+   "plain_english": "The breadth of the ear in finger units and its height should indeed be equal to that."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "yadvadgajānanaṃ",
+     "gloss": "as-elephant-face",
+     "grounds": "yadvat + gaja + ānana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "so",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-made",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg.future-passive-participle √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "body part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "addressee",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What facial form should be fashioned for this image?",
+   "premises": [
+    "The comparison is to an elephant face",
+    "The face must be made accordingly",
+    "The instruction is addressed to the twice-born"
+   ],
+   "inference": "The face should be made like the face of an elephant.",
+   "uncertainties": [],
+   "plain_english": "O twice-born, the face should be made just like the face of an elephant."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "ekonaviṃśadaṃgulyaṃ",
+     "gloss": "nineteen-fingers",
+     "grounds": "ekona + viṃśat + aṅgulya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kakṣāntaram",
+     "gloss": "armpit-interval",
+     "grounds": "kakṣā + antara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as rule",
+     "morph": "n.nom.sg.past-passive-participle √udāhṛ"
+    }
+   ],
+   "question": "What measurement is prescribed for the interval between the armpits?",
+   "premises": [
+    "The measurement concerns the armpit interval",
+    "The prescribed measure is nineteen fingers",
+    "This is stated as the declared rule"
+   ],
+   "inference": "The interval between the armpits is declared to be nineteen fingers.",
+   "uncertainties": [],
+   "plain_english": "The interval between the armpits is declared to be nineteen fingers."
+  }
+ ]
+}

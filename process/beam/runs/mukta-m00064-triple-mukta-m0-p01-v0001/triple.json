@@ -1,0 +1,875 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "papraccha",
+     "gloss": "asked",
+     "grounds": "verb of inquiry",
+     "morph": "3.sg.perf.act √praś"
+    },
+    {
+     "surface": "girijā",
+     "gloss": "mountain-born",
+     "grounds": "epithet of Pārvatī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntaṃ",
+     "gloss": "beloved",
+     "grounds": "addressed to Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "speaker name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛṣabha+dhvajam",
+     "gloss": "bull-bannered-one",
+     "grounds": "epithet of Śiva; compound",
+     "morph": "compound: vṛṣabha+dhvaja (m.acc.sg)"
+    }
+   ],
+   "question": "What inquiry does Pārvatī direct to her bull-bannered beloved?",
+   "premises": [
+    "Pārvatī is the speaker.",
+    "She addresses her beloved Śiva.",
+    "She poses a question to him."
+   ],
+   "inference": "Pārvatī initiates a dialogue by questioning Śiva.",
+   "uncertainties": [],
+   "plain_english": "The mountain-born Pārvatī asked her beloved, the bull-bannered one."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "sūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "previously hinted teaching",
+     "morph": "n.acc.sg past-passive-participle √sūc"
+    },
+    {
+     "surface": "yoginī+tantraṃ",
+     "gloss": "yoginī-tantra",
+     "grounds": "name of the teaching; compound",
+     "morph": "compound: yoginī+tantra (n.acc.sg)"
+    },
+    {
+     "surface": "tat+me",
+     "gloss": "that-to-me",
+     "grounds": "fused pronoun and dative",
+     "morph": "compound: tat (n.acc.sg) + me (1.sg.dat)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √vad"
+    },
+    {
+     "surface": "jagad+guro",
+     "gloss": "world-teacher",
+     "grounds": "vocative epithet of Śiva; compound",
+     "morph": "compound: jagat+guru (m.voc.sg)"
+    }
+   ],
+   "question": "Which previously indicated teaching does Pārvatī request from the world-teacher?",
+   "premises": [
+    "A Yoginī Tantra has been indicated.",
+    "Pārvatī asks for that teaching.",
+    "She addresses Śiva as world-teacher."
+   ],
+   "inference": "Pārvatī requests Śiva to expound the indicated Yoginī Tantra.",
+   "uncertainties": [],
+   "plain_english": "Tell me that Yoginī Tantra which was indicated, O world-teacher."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "vārāṇasyāṃ",
+     "gloss": "in-vārāṇasī",
+     "grounds": "sacred place name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kāmarūpe",
+     "gloss": "in-kāmarūpa",
+     "grounds": "sacred place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāmākhyāyāṃ",
+     "gloss": "in-kāmākhyā",
+     "grounds": "sacred place name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nepāle",
+     "gloss": "in-nepāla",
+     "grounds": "sacred place name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mandara+acale",
+     "gloss": "on-mandara-mountain",
+     "grounds": "sacred place name; compound",
+     "morph": "compound: mandara+acala (m.loc.sg)"
+    }
+   ],
+   "question": "Which sacred locations are named as contexts for the requested teaching?",
+   "premises": [
+    "Vārāṇasī is named.",
+    "Kāmarūpa and Kāmākhyā are named.",
+    "Nepāla and Mandara mountain are named."
+   ],
+   "inference": "The teaching is associated with several renowned sacred sites.",
+   "uncertainties": [],
+   "plain_english": "In Vārāṇasī, in Kāmarūpa, in Kāmākhyā, in Nepāla, and on Mount Mandara."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "quality of the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "quality of the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanyaṃ",
+     "gloss": "blessed",
+     "grounds": "quality of the teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣa+eka+phala+dāyakam",
+     "gloss": "liberation-only-fruit-giving",
+     "grounds": "describes the teaching's result; compound",
+     "morph": "compound: mokṣa+eka+phala+dāyaka (n.acc.sg)"
+    }
+   ],
+   "question": "What salvific qualities and fruit are attributed to the requested teaching?",
+   "premises": [
+    "The teaching is purifying, supreme, and blessed.",
+    "It gives a single fruit.",
+    "That fruit is liberation."
+   ],
+   "inference": "The requested teaching is supremely purifying and grants liberation alone.",
+   "uncertainties": [],
+   "plain_english": "Purifying, supreme, blessed, and granting the sole fruit of liberation."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaḥ",
+     "gloss": "another",
+     "grounds": "other person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "attainment by others",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "na+evaṃ",
+     "gloss": "not-thus",
+     "grounds": "negated manner; compound",
+     "morph": "compound: na+evam (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √kṛ"
+    },
+    {
+     "surface": "priyaṃ+vade",
+     "gloss": "sweet-speaking-one",
+     "grounds": "vocative epithet of Śiva; compound",
+     "morph": "compound: priyaṃ+vada (m.voc.sg)"
+    }
+   ],
+   "question": "How does Pārvatī ask Śiva to prevent others from obtaining this teaching?",
+   "premises": [
+    "Another person might obtain the teaching.",
+    "Pārvatī asks that this not happen.",
+    "She requests Śiva to act accordingly."
+   ],
+   "inference": "Pārvatī asks Śiva to arrange matters so others do not obtain the teaching.",
+   "uncertainties": [],
+   "plain_english": "So that another may not obtain it in that way, act accordingly, O sweet-speaking one."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "kāṅkṣanti",
+     "gloss": "desire",
+     "grounds": "longing of deities",
+     "morph": "3.pl.pres.act √kāṅkṣ"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "divine beings",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "totality of deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śrotuṃ",
+     "gloss": "to-hear",
+     "grounds": "purpose of desire",
+     "morph": "infinitive √śru"
+    },
+    {
+     "surface": "tantram+anuttamam",
+     "gloss": "tantra-unsurpassed",
+     "grounds": "object of desire; compound",
+     "morph": "compound: tantra+anuttama (n.acc.sg)"
+    }
+   ],
+   "question": "What makes the unsurpassed tantra an object of universal divine desire?",
+   "premises": [
+    "All deities desire something.",
+    "They desire to hear it.",
+    "The object is the unsurpassed tantra."
+   ],
+   "inference": "The unsurpassed tantra is so exalted that all deities wish to hear it.",
+   "uncertainties": [],
+   "plain_english": "All the deities desire to hear this unsurpassed tantra."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "Śiva's response",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "addressed to Pārvatī",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "snehāt",
+     "gloss": "out-of-affection",
+     "grounds": "reason for disclosure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "baddhaḥ+aṃ",
+     "gloss": "bound-i",
+     "grounds": "Śiva declares being bound; compound",
+     "morph": "compound: baddha (m.nom.sg past-passive-participle √bandh) + aham (1.sg.nom)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supremely",
+     "grounds": "degree of being bound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "agent binding Śiva",
+     "morph": "2.sg.inst"
+    }
+   ],
+   "question": "Why does Śiva agree to reveal the teaching to Pārvatī?",
+   "premises": [
+    "Śiva states he will tell.",
+    "He acts out of affection.",
+    "He is supremely bound by Pārvatī."
+   ],
+   "inference": "Śiva agrees to reveal the teaching because affection and Pārvatī bind him.",
+   "uncertainties": [],
+   "plain_english": "I will tell you out of affection, for I am supremely bound by you."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "lola+jihvāṃ",
+     "gloss": "lolling-tongue",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: lola+jihvā (f.acc.sg)"
+    },
+    {
+     "surface": "ghora+rāvām",
+     "gloss": "terrible-roar",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: ghora+rāva (f.acc.sg)"
+    },
+    {
+     "surface": "ā+rakta+locana+trayām",
+     "gloss": "reddened-eye-triad",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: ā+rakta+locana+traya (f.acc.sg)"
+    }
+   ],
+   "question": "What fierce bodily features characterize the goddess being described?",
+   "premises": [
+    "The goddess has a lolling tongue.",
+    "She has a terrible roar.",
+    "She has three reddened eyes."
+   ],
+   "inference": "The goddess is depicted with fierce and terrifying features.",
+   "uncertainties": [],
+   "plain_english": "She has a lolling tongue, a terrible roar, and three reddened eyes."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "amā+kalā+samullāsa",
+     "gloss": "new-moon-digit-delight",
+     "grounds": "description of her crown; compound",
+     "morph": "compound: amā+kalā+samullāsa (member of bahuvrīhi)"
+    },
+    {
+     "surface": "kirīṭa+ujjvala+maṇḍalām",
+     "gloss": "crown-brilliant-circle",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: kirīṭa+ujjvala+maṇḍala (f.acc.sg)"
+    }
+   ],
+   "question": "How is the goddess's crown distinguished by lunar radiance?",
+   "premises": [
+    "Her crown delights in the new-moon digit.",
+    "Her crown forms a brilliant circle.",
+    "These describe her appearance."
+   ],
+   "inference": "The goddess wears a radiant crown marked by the new-moon digit.",
+   "uncertainties": [],
+   "plain_english": "She has a brilliant crown-circle shining with the delight of the new-moon digit."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "sūrya+kānta+indu+kānta+augha",
+     "gloss": "sun-stone-moon-stone-multitude",
+     "grounds": "materials of ornaments; compound",
+     "morph": "compound: sūrya+kānta+indu+kānta+augha (member of bahuvrīhi)"
+    },
+    {
+     "surface": "prollasat+karṇa+bhūṣaṇām",
+     "gloss": "shining-ear-ornaments",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: prollasat+karṇa+bhūṣaṇa (f.acc.sg)"
+    }
+   ],
+   "question": "What luminous materials adorn the goddess's ears?",
+   "premises": [
+    "Her ear ornaments shine.",
+    "They include sun-stones and moon-stones.",
+    "These form a multitude of gems."
+   ],
+   "inference": "The goddess wears shining ear ornaments made of sun-stones and moon-stones.",
+   "uncertainties": [],
+   "plain_english": "She has shining ear ornaments made of many sun-stones and moon-stones."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "sṛkka+dvaya+galat+rakta",
+     "gloss": "mouth-corners-two-flowing-blood",
+     "grounds": "description of her face; compound",
+     "morph": "compound: sṛkka+dvaya+galat+rakta (member of bahuvrīhi)"
+    },
+    {
+     "surface": "dhārā+visphurita+ānanām",
+     "gloss": "stream-quivering-face",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: dhārā+visphurita+ānana (f.acc.sg)"
+    }
+   ],
+   "question": "How is the goddess's face marked by streams of flowing blood?",
+   "premises": [
+    "Blood flows from both corners of her mouth.",
+    "The streams quiver on her face.",
+    "This marks her countenance."
+   ],
+   "inference": "The goddess's face is terrifyingly marked by quivering streams of blood.",
+   "uncertainties": [],
+   "plain_english": "Her face quivers with streams of blood flowing from both corners of her mouth."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "danturāṃ",
+     "gloss": "large-toothed",
+     "grounds": "description of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paramāṃ",
+     "gloss": "supreme",
+     "grounds": "description of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nityāṃ",
+     "gloss": "eternal",
+     "grounds": "description of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rakta+maṇḍita+vigrahām",
+     "gloss": "blood-adorned-body",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: rakta+maṇḍita+vigraha (f.acc.sg)"
+    }
+   ],
+   "question": "What enduring and fearsome qualities define the goddess's body?",
+   "premises": [
+    "She is large-toothed, supreme, and eternal.",
+    "Her body is adorned with blood.",
+    "These qualities characterize her form."
+   ],
+   "inference": "The goddess is an eternal, supreme, and fearsome form adorned with blood.",
+   "uncertainties": [],
+   "plain_english": "She is large-toothed, supreme, eternal, and her body is adorned with blood."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "vāma+pādaṃ",
+     "gloss": "left-foot",
+     "grounds": "position of the goddess; compound",
+     "morph": "compound: vāma+pāda (m.acc.sg)"
+    },
+    {
+     "surface": "śiva+hṛdi",
+     "gloss": "on-śiva-heart",
+     "grounds": "location of left foot; compound",
+     "morph": "compound: śiva+hṛd (n.loc.sg)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "position of right foot",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "loka+lāñchitam",
+     "gloss": "world-marked",
+     "grounds": "description of right foot placement; compound",
+     "morph": "compound: loka+lāñchita (m.acc.sg)"
+    }
+   ],
+   "question": "How are the goddess's feet positioned upon Śiva and the world?",
+   "premises": [
+    "Her left foot is on Śiva's heart.",
+    "Her right foot is on the right side.",
+    "The right placement is marked on the world."
+   ],
+   "inference": "The goddess stands with her left foot on Śiva's heart and her right on the world.",
+   "uncertainties": [
+    "The exact sense of loka+lāñchitam is contextually terse."
+   ],
+   "plain_english": "Her left foot is on Śiva's heart, and her right foot is placed upon the world."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "koṭi+sūrya+pratīkāśaṃ",
+     "gloss": "crore-suns-resembling",
+     "grounds": "description of Śiva's radiance; compound",
+     "morph": "compound: koṭi+sūrya+pratīkāśa (m.acc.sg)"
+    },
+    {
+     "surface": "samasta+bhuvana+ujjvalam",
+     "gloss": "all-worlds-illuminating",
+     "grounds": "description of Śiva; compound",
+     "morph": "compound: samasta+bhuvana+ujjvala (m.acc.sg)"
+    }
+   ],
+   "question": "What cosmic radiance characterizes Śiva beneath the goddess?",
+   "premises": [
+    "Śiva resembles ten million suns.",
+    "He illuminates all worlds.",
+    "This describes his splendor."
+   ],
+   "inference": "Śiva shines with a radiance like countless suns, illuminating all worlds.",
+   "uncertainties": [],
+   "plain_english": "He resembles ten million suns and illuminates all the worlds."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "vidyut+puñja+samāna+ābha",
+     "gloss": "lightning-mass-resembling-luster",
+     "grounds": "description of Śiva's luster; compound",
+     "morph": "compound: vidyut+puñja+samāna+ābha (member of bahuvrīhi)"
+    },
+    {
+     "surface": "jvalat+jaṭā+virājitam",
+     "gloss": "blazing-matted-hair-resplendent",
+     "grounds": "description of Śiva; compound",
+     "morph": "compound: jvalat+jaṭā+virājita (m.acc.sg)"
+    }
+   ],
+   "question": "How do lightning-like luster and blazing matted hair adorn Śiva?",
+   "premises": [
+    "Śiva's luster resembles a mass of lightning.",
+    "His matted hair blazes.",
+    "He is resplendent with this hair."
+   ],
+   "inference": "Śiva is resplendent with lightning-like luster and blazing matted hair.",
+   "uncertainties": [],
+   "plain_english": "He has a luster like a mass of lightning and is resplendent with blazing matted hair."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "rajata+adri+samaṃ",
+     "gloss": "silver-mountain-equal",
+     "grounds": "comparison for Śiva; compound",
+     "morph": "compound: rajata+adri+sama (m.acc.sg)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "Śiva as deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sphaṭikā+acala+vigraham",
+     "gloss": "crystal-mountain-form",
+     "grounds": "description of Śiva's form; compound",
+     "morph": "compound: sphaṭikā+acala+vigraha (m.acc.sg)"
+    }
+   ],
+   "question": "What mountain-like comparisons describe Śiva's luminous divine form?",
+   "premises": [
+    "Śiva is compared to a silver mountain.",
+    "He is called the god.",
+    "His form is like a crystal mountain."
+   ],
+   "inference": "Śiva's divine form is likened to luminous silver and crystal mountains.",
+   "uncertainties": [],
+   "plain_english": "The god is like a silver mountain, with a form like a crystal mountain."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "dig+ambaraṃ",
+     "gloss": "sky-clad",
+     "grounds": "epithet of Śiva; compound",
+     "morph": "compound: diś+ambara (m.acc.sg)"
+    },
+    {
+     "surface": "mahā+ghoraṃ",
+     "gloss": "very-terrible",
+     "grounds": "epithet of Śiva; compound",
+     "morph": "compound: mahā+ghora (m.acc.sg)"
+    },
+    {
+     "surface": "candra+arka+parimaṇḍitam",
+     "gloss": "moon-sun-encircled",
+     "grounds": "description of Śiva; compound",
+     "morph": "compound: candra+arka+parimaṇḍita (m.acc.sg)"
+    }
+   ],
+   "question": "What terrifying and cosmic attributes surround the sky-clad Śiva?",
+   "premises": [
+    "Śiva is sky-clad.",
+    "He is very terrible.",
+    "He is encircled by moon and sun."
+   ],
+   "inference": "The sky-clad Śiva is both terrifying and cosmically adorned by moon and sun.",
+   "uncertainties": [],
+   "plain_english": "He is sky-clad, very terrible, and encircled by the moon and sun."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "yoga+nidrā+dharaṃ",
+     "gloss": "yogic-sleep-bearing",
+     "grounds": "state of Śiva; compound",
+     "morph": "compound: yoga+nidrā+dhara (m.acc.sg)"
+    },
+    {
+     "surface": "śambhuṃ",
+     "gloss": "śambhu",
+     "grounds": "name of Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smera+ānana+saroruham",
+     "gloss": "smiling-face-lotus",
+     "grounds": "description of Śiva's face; compound",
+     "morph": "compound: smera+ānana+saroruha (m.acc.sg)"
+    }
+   ],
+   "question": "How does yogic sleep coexist with Śiva's smiling lotus-like face?",
+   "premises": [
+    "Śiva bears yogic sleep.",
+    "He is Śambhu.",
+    "His face is like a smiling lotus."
+   ],
+   "inference": "Śambhu rests in yogic sleep while displaying a serene smiling lotus face.",
+   "uncertainties": [],
+   "plain_english": "Śambhu bears yogic sleep, with a face like a smiling lotus."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "aśeṣa+brahmāṇḍa+bhāṇḍa",
+     "gloss": "entire-universe-vessel",
+     "grounds": "cosmic scope; compound",
+     "morph": "compound: aśeṣa+brahmāṇḍa+bhāṇḍa (member of compound)"
+    },
+    {
+     "surface": "prakāśita+maha+ujjvalām",
+     "gloss": "illuminating-great-splendor",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: prakāśita+mahā+ujjvala (f.acc.sg)"
+    },
+    {
+     "surface": "maha+ujjvalam",
+     "gloss": "great-splendor",
+     "grounds": "repeated splendor attribute; compound",
+     "morph": "compound: mahā+ujjvala (m.acc.sg)"
+    }
+   ],
+   "question": "What universal splendor is illuminated by the goddess and Śiva?",
+   "premises": [
+    "The entire universe-vessel is involved.",
+    "The goddess illuminates with great splendor.",
+    "Great splendor is again attributed."
+   ],
+   "inference": "The goddess and the scene manifest a great splendor illuminating the entire universe.",
+   "uncertainties": [
+    "The final maha+ujjvalam may qualify Śiva or echo the goddess's splendor."
+   ],
+   "plain_english": "She illuminates the entire vessel of the universe with great splendor, and he is of great splendor."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "koṭi+koṭi+śarat+candra",
+     "gloss": "crore-crore-autumn-moon",
+     "grounds": "comparison for her face; compound",
+     "morph": "compound: koṭi+koṭi+śarat+candra (member of compound)"
+    },
+    {
+     "surface": "nyakkṛta+mukha+maṇḍalām",
+     "gloss": "surpassing-face-circle",
+     "grounds": "description of the goddess; compound",
+     "morph": "compound: nyakkṛta+mukha+maṇḍala (f.acc.sg)"
+    }
+   ],
+   "question": "How does the goddess's face surpass countless autumn moons in beauty?",
+   "premises": [
+    "Countless autumn moons are invoked as comparison.",
+    "Her face-circle surpasses them.",
+    "This describes her radiance."
+   ],
+   "inference": "The goddess's face outshines the beauty of countless autumn moons.",
+   "uncertainties": [],
+   "plain_english": "Her face-circle surpasses countless millions of autumn moons."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "ā+rakta+mukha+madyābhiḥ",
+     "gloss": "reddened-face-intoxication",
+     "grounds": "description of attendants; compound",
+     "morph": "compound: ā+rakta+mukha+madya (f.inst.pl)"
+    },
+    {
+     "surface": "matta+bhiḥ+anvitāṃ",
+     "gloss": "intoxicated-ones-accompanied",
+     "grounds": "goddess accompanied by intoxicated ones; compound",
+     "morph": "compound: matta (f.inst.pl) + bhis (inst.pl marker in sandhi) + anvita (f.acc.sg)"
+    },
+    {
+     "surface": "anvagāṃ",
+     "gloss": "accompanied",
+     "grounds": "following or accompanying",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "va",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What intoxicated female attendants accompany the goddess in this vision?",
+   "premises": [
+    "Attendants have reddened faces from intoxication.",
+    "They are intoxicated and accompany her.",
+    "The verse emphasizes her being accompanied."
+   ],
+   "inference": "The goddess is surrounded by intoxicated female attendants with reddened faces.",
+   "uncertainties": [
+    "The particles ca, va, tathā make the syntactic connection somewhat fluid."
+   ],
+   "plain_english": "She is accompanied by intoxicated ones with faces reddened by drink."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "gṛhīta+śava+kaṅkāla",
+     "gloss": "taken-corpse-skeleton",
+     "grounds": "objects held by attendants; compound",
+     "morph": "compound: gṛhīta+śava+kaṅkāla (member of compound)"
+    },
+    {
+     "surface": "jaya+śabda+parāyaṇaiḥ",
+     "gloss": "victory-cry-devoted",
+     "grounds": "description of attendants; compound",
+     "morph": "compound: jaya+śabda+parāyaṇa (m.inst.pl)"
+    }
+   ],
+   "question": "What macabre objects and cries characterize the goddess's attendants?",
+   "premises": [
+    "Attendants hold corpse skeletons.",
+    "They are devoted to victory cries.",
+    "These describe their behavior."
+   ],
+   "inference": "The attendants bear corpse skeletons and are devoted to shouting victory cries.",
+   "uncertainties": [],
+   "plain_english": "They hold corpse skeletons and are devoted to cries of victory."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "śmaśāna+ālaya+madhya+sthāṃ",
+     "gloss": "cremation-ground-abode-middle-situated",
+     "grounds": "location of the goddess; compound",
+     "morph": "compound: śmaśāna+ālaya+madhya+stha (f.acc.sg)"
+    },
+    {
+     "surface": "brahma+ādi+upaniṣevitām",
+     "gloss": "brahmā-etc-attended",
+     "grounds": "goddess attended by deities; compound",
+     "morph": "compound: brahma+ādi+upaniṣevita (f.acc.sg)"
+    }
+   ],
+   "question": "Where is the goddess situated and by whom is she attended?",
+   "premises": [
+    "She is situated in the midst of a cremation-ground abode.",
+    "She is attended by Brahmā and others.",
+    "Both location and retinue are specified."
+   ],
+   "inference": "The goddess dwells in the cremation ground and is attended by Brahmā and other deities.",
+   "uncertainties": [],
+   "plain_english": "She is situated in the midst of the cremation ground and attended by Brahmā and others."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "Śiva's declaration",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "addressed to Pārvatī",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "snehāt",
+     "gloss": "out-of-affection",
+     "grounds": "reason for telling",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "secrecy of the teaching",
+     "morph": "n.nom.sg future-passive-participle √prakāś"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "emphatic prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must the teaching revealed out of affection remain strictly secret?",
+   "premises": [
+    "Śiva tells out of affection.",
+    "The teaching is not to be revealed.",
+    "It must not be revealed in any way."
+   ],
+   "inference": "Although told out of affection, the teaching must remain absolutely secret.",
+   "uncertainties": [],
+   "plain_english": "I tell you out of affection; it must not be revealed in any way."
+  }
+ ]
+}

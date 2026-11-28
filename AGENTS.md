@@ -17,6 +17,18 @@ skills/crystal-ipvv/EXAMPLES.md (per-datatype prompts + good/bad exhibits).
 The gate is check.py (exit 0 = canonical, else fix what it names).
 The registry is REGISTRY.json (21 gold, 71 pending). Current queue and todos: todoregistry.md (next to the registry).
 
+## The Ship + the Burn (two lanes — do not confuse them)
+
+- **THE SHIP (quality lane):** the Trika core — one work at a time, T1→L0→
+  argmap→L2→C1, proof PASS, served. This is the product. See `## The Skill`.
+- **THE BURN (bulk lane):** continuous, unattended **T1 + L0 ONLY** for the
+  whole Muktabodha corpus, free-tier beam models, at scale. It **stops at L0**.
+  It does **not** produce argmap/L2/C1 — those need a **post-hoc, web-researched
+  brief** + assessor. A brief is NOT required to run the burn. Triples are
+  deprecated for the burn. Runners: `tools/burn_wave.sh` → `tools/auto_burn.py`
+  (systemd `tw-wave`); monitor `shastra.burn_status` (`ok` = no pending
+  triples/am). Batch "burn" output is machine-proposed scaffolding, never gold.
+
 ## The Skill (the law)
 
 Next-agent focus, no exceptions: skills/crystal-ipvv/SKILL.md
@@ -87,14 +99,14 @@ report the error and continue by other means — do not stop.
 Schemas (validators): schemas/base.py, t1.py, l0.py, argmap.py, l2.py, c1.py, c2.py, signoff.py, suggestion.py
 Tools: tools/emit_data.py, validate_song.py, render_md.py, proof_record.py (+disp), emit_site.py, validate_site.py, render_c2.py, propose.py, qa_vs_witness.py, build_concepts.py, lookup_concept.py, build_l0.py (CM-data -> working-L0 builder)
 Scratch policy (owner 2026-11-04, binding): ALL intermediates live in this repo — reusable builders in tools/, per-work CM/batch inputs in <work>/cm/ (e.g. vbt/cm/l0cm-v1-60.json). /tmp is NEVER used for translation-work files; nothing ephemeral survives the session.
-Canonical docs: FINAL.md, FINAL-PROCESS.md, LAYERS.md, ALIGNMENT.md, CANONICAL.md, TENSIONS.json, DATATYPES.json, stack.json, README.md, CHAT.md, mistakes.md, crystal.md, targets.md, THEMES.md, INDEX.json, REGISTRY.json
+Canonical docs: FINAL.md, FINAL-PROCESS.md, LAYERS.md, ALIGNMENT.md, CANONICAL.md, TENSIONS.json, DATATYPES.json, stack.json, README.md, CHAT.md, mistakes.md, crystal.md, targets.md, THEMES.md, INDEX.json, REGISTRY.json, **BIBLIOGRAPHY.md** (final Muktabodha base layer 2026-11-12 — where it lives + priority rule)
 Formal alignment (trika-x gates): FORMAL-ALIGN.md (locator inventory, EVIDENCE resolution, bridge snapshot) — translation-work never writes EVIDENCE or Lean.
 Operator manual (run everything): RUNBOOK.md (bring-up, button, lanes, gates, monitoring, failure playbook, recovery).
 DB hookup (read-only): DB-BACKBONE.md (portable box DB + tools/dbread.py) — translation-work never writes the DB.
 Lore: lore/rasa/ (Abhinavagupta grounding), lore/witnesses/ (vendored, comparison only), lore/links.json (verified URLs), lore/concepts/ (21 concept files), lore/ipvv-deepdive-2026-11-01.md
 Skills: skills/crystal-ipvv/SKILL.md (THE process), EXAMPLES.md (prompts + good/bad)
 Swarm skill (huge texts only, feeds the process, never replaces it): skills/largetext/SKILL.md + EXAMPLES.md (beam drafters + assessor gate + transmission briefs + calibration)
-MCP interface (all of the above as callable tools): mcp_server.py (14 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring)
+MCP interface (all of the above as callable tools): mcp_server.py (38 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring) + BIBLIOGRAPHY.md (base layer: `shastra.bibliography` / `shastra.priority`)
 Gate: check.py (exit 0 = canonical)
 
 ## Layer Contracts (from LAYERS.md)

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "sapta+sapta",
+     "gloss": "seven-seven",
+     "grounds": "repeated numeral token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhāgo",
+     "gloss": "division",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "in-rites",
+     "grounds": "locative plural masculine noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "as-prescribed",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the sevenfold divisions to be applied in rites according to prescribed rule?",
+   "premises": [
+    "sevenfold division is prescribed",
+    "rites require proper application",
+    "prescribed rule governs practice"
+   ],
+   "inference": "rites follow the sevenfold division as prescribed",
+   "uncertainties": [
+    "exact ritual context is not specified"
+   ],
+   "plain_english": "A sevenfold division, or as prescribed, applies in rites."
+  }
+ ]
+}

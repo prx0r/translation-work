@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of existence or occurrence",
+     "morph": "opt.3.sg.act root bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivaraṃ",
+     "gloss": "cavity",
+     "grounds": "subject or condition described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "past passive participle qualifying the cavity",
+     "morph": "m.nom.sg.ppp root pūj"
+    },
+    {
+     "surface": "sukha+daḥ",
+     "gloss": "happiness-giving",
+     "grounds": "compound indicating the result bestowed",
+     "morph": "compound sukha+da m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb indicating constant effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lasting benefit results from a cavity that is present and worshipped?",
+   "premises": [
+    "A cavity may be present.",
+    "That cavity may be worshipped or honored.",
+    "A worshipped cavity is described as giving happiness."
+   ],
+   "inference": "Therefore, a worshipped cavity yields happiness continually.",
+   "uncertainties": [
+    "The specific object or location possessing the cavity is supplied by the preceding context."
+   ],
+   "plain_english": "And if there is a cavity, when it is worshipped it always gives happiness."
+  }
+ ]
+}

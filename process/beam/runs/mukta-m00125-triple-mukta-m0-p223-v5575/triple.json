@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p223",
+ "items": [
+  {
+   "verse": 5575,
+   "rows": [
+    {
+     "surface": "devyām",
+     "gloss": "to-goddess",
+     "grounds": "recipient of the offering; locative used for target",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "aṅgala+sūtraṃ",
+     "gloss": "auspicious-thread",
+     "grounds": "object to be given; compound retained as single token",
+     "morph": "n.acc.sg (compound: aṅgala+sūtra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks continuation or contrast in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescriptive ritual action performed by the officiant",
+     "morph": "3.sg.act-opt~√dā"
+    },
+    {
+     "surface": "dhṛdaya+mantrataḥ",
+     "gloss": "by-heart-mantra",
+     "grounds": "instrumental means specified by the heart-mantra; compound with -tas suffix",
+     "morph": "(indecl., compound: dhṛdaya+mantra+tas)"
+    }
+   ],
+   "question": "What offering and mantra are prescribed for the goddess in this ritual step?",
+   "premises": [
+    "The goddess is the designated recipient.",
+    "The auspicious thread is the object to be given.",
+    "The heart-mantra specifies the means of the act."
+   ],
+   "inference": "The officiant must give the auspicious thread to the goddess using the heart-mantra.",
+   "uncertainties": [
+    "The exact ritual form of the aṅgala+sūtraṃ is not specified in this verse."
+   ],
+   "plain_english": "Then he should offer the auspicious thread to the goddess with the heart-mantra."
+  }
+ ]
+}

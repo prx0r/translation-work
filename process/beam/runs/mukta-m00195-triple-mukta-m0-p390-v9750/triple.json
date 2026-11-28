@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p390",
+ "items": [
+  {
+   "verse": 9750,
+   "rows": [
+    {
+     "surface": "mallikā+yūthikā+kunda+jātī+mālatikā+vṛtam",
+     "gloss": "surrounded-by-mallikā-yūthikā-kunda-jātī-mālatikā",
+     "grounds": "bahuvrīhi compound listing flowering plants mallikā, yūthikā, kunda, jātī, mālatikā with vṛta 'surrounded'; describes the setting in context",
+     "morph": "mallikā+yūthikā+kunda+jātī+mālatikā+vṛta(bahuvrīhi).n.acc.sg"
+    }
+   ],
+   "question": "Which specific flowering plants are claimed to surround the described sacred setting?",
+   "premises": [
+    "The setting is surrounded by mallikā flowers.",
+    "The setting is surrounded by yūthikā and kunda flowers.",
+    "The setting is surrounded by jātī and mālatikā flowers."
+   ],
+   "inference": "The described sacred setting is encircled by these five kinds of flowering plants.",
+   "uncertainties": [
+    "Exact botanical identification of yūthikā and mālatikā in this context is not specified."
+   ],
+   "plain_english": "Surrounded by mallikā, yūthikā, kunda, jātī, and mālatikā flowers."
+  }
+ ]
+}

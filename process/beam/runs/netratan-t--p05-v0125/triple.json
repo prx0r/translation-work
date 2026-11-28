@@ -1,0 +1,75 @@
+{
+ "song": "net-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb introducing the following instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthūlam",
+     "gloss": "gross",
+     "grounds": "adjective modifying vidhānam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "accusative object of śṛṇu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣmam",
+     "gloss": "subtle",
+     "grounds": "adjective modifying vidhānam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative directed to the listener",
+     "morph": "2.sg.act.imp + root śru"
+    }
+   ],
+   "question": "What gross and subtle procedure should one hear now?",
+   "premises": [
+    "Gross procedure is to be heard.",
+    "Subtle procedure is to be heard.",
+    "Hearing occurs now."
+   ],
+   "inference": "One should now hear both the gross and subtle procedures.",
+   "uncertainties": [
+    "Whether vidhānam refers to ritual procedure, meditation, or both remains context-dependent."
+   ],
+   "plain_english": "Thus, now hear the gross procedure and the subtle one too."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "pūrṇagirir",
+     "gloss": "pūrṇagiri",
+     "grounds": "name of a sacred site, subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmamārgasya",
+     "gloss": "of-left-hand-path",
+     "grounds": "compound indicating the tradition concerned",
+     "morph": "vāma+mārga, m.gen.sg"
+    },
+    {
+     "surface": "siddhidāḥ",
+     "gloss": "accomplishment-giving",
+     "grounds": "predicate describing the site as granting powers",
+     "morph": "siddhi+dā, m.nom.pl"
+    }
+   ],
+   "question": "Which sacred site grants accomplishment to practitioners of the left-hand path?",
+   "premises": [
+    "Pūrṇagiri is named as a sacred site.",
+    "The left-hand path is specified as the recipient tradition.",
+    "The site is described as granting accomplishment."
+   ],
+   "inference": "Pūrṇagiri bestows accomplishment upon followers of the left-hand path.",
+   "uncertainties": [
+    "The plural form siddhidāḥ may echo the previous verse's predicate structure."
+   ],
+   "plain_english": "Pūrṇagiri grants accomplishment to those of the left-hand path."
+  }
+ ]
+}

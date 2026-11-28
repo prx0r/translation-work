@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive of pā 'drink'",
+     "morph": "indecl."
+    },
+    {
+     "surface": "raudrīviṣaṃ",
+     "gloss": "terrible-poison",
+     "grounds": "compound raudrī+viṣa in accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "root han, present active",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "lepāt",
+     "gloss": "by-anointing",
+     "grounds": "ablative of lepa expressing means",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "guñjābalāṃ",
+     "gloss": "guñjā-balā",
+     "grounds": "compound guñjā+balā in accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "nataḥ",
+     "gloss": "nata",
+     "grounds": "participial adjective, nominative subject or qualifier",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What destroys terrible poison after drinking it and by anointing guñjābalāṃ nataḥ?",
+   "premises": [
+    "Drinking terrible poison is destroyed by pītvā.",
+    "Anointing guñjābalāṃ nataḥ is also stated."
+   ],
+   "inference": "The verse states that drinking destroys terrible poison, while anointing guñjābalāṃ nataḥ is mentioned alongside it.",
+   "uncertainties": [
+    "The exact syntactic role of nataḥ and guñjābalāṃ remains unclear."
+   ],
+   "plain_english": "Having drunk, it destroys terrible poison; by anointing guñjābalāṃ nataḥ."
+  }
+ ]
+}

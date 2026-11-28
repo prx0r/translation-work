@@ -1,0 +1,1001 @@
+{
+ "song": "mukta-m0-p523",
+ "items": [
+  {
+   "verse": 13051,
+   "rows": [
+    {
+     "surface": "kapolau",
+     "gloss": "both-cheeks",
+     "grounds": "object of protection",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative wish for protection",
+     "morph": "3.sg.act.impv √pā"
+    },
+    {
+     "surface": "vīreśo",
+     "gloss": "lord-of-heroes",
+     "grounds": "divine protector named",
+     "morph": "m.nom.sg (vīra+lord)"
+    },
+    {
+     "surface": "gaṇḍau",
+     "gloss": "both-cheeks",
+     "grounds": "object of protection",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "gaṇḍādimardanaḥ",
+     "gloss": "crusher-of-gaṇḍa-and-others",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg (gaṇḍa-ādi+crusher)"
+    }
+   ],
+   "question": "Which deities are invoked to guard the cheeks?",
+   "premises": [
+    "The cheeks are named as parts needing protection.",
+    "Vīreśa is called to protect the cheeks.",
+    "Gaṇḍādimardana is called to protect the cheeks."
+   ],
+   "inference": "Protection of the cheeks is entrusted to Vīreśa and Gaṇḍādimardana.",
+   "uncertainties": [],
+   "plain_english": "May Vīreśa protect the cheeks, and may Gaṇḍādimardana, crusher of Gaṇḍa and others, protect the cheeks."
+  },
+  {
+   "verse": 13052,
+   "rows": [
+    {
+     "surface": "danteṣu",
+     "gloss": "in-teeth",
+     "grounds": "body part to be guarded",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dantividhvaṃsī",
+     "gloss": "destroyer-of-elephants",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg (dantin+destroyer)"
+    },
+    {
+     "surface": "cibuke",
+     "gloss": "on-chin",
+     "grounds": "body part to be guarded",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nṛkapālayuk",
+     "gloss": "bearing-human-skulls",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg (nṛ-kapāla+yoked)"
+    }
+   ],
+   "question": "Which protectors are assigned to the teeth and chin?",
+   "premises": [
+    "The teeth are specified as a site of protection.",
+    "The destroyer of elephants guards the teeth.",
+    "The bearer of human skulls guards the chin."
+   ],
+   "inference": "The teeth and chin are guarded by these two fierce forms.",
+   "uncertainties": [],
+   "plain_english": "May the destroyer of elephants protect the teeth, and may the bearer of human skulls protect the chin."
+  },
+  {
+   "verse": 13053,
+   "rows": [
+    {
+     "surface": "dakṣaskandhe",
+     "gloss": "on-right-shoulder",
+     "grounds": "body part to be guarded",
+     "morph": "m.loc.sg (dakṣa+skandha)"
+    },
+    {
+     "surface": "girīndreśo",
+     "gloss": "lord-of-mountain-king",
+     "grounds": "divine protector named",
+     "morph": "m.nom.sg (girīndra+lord)"
+    },
+    {
+     "surface": "vāmaskandherisūdanaḥ",
+     "gloss": "on-left-shoulder-enemy-destroyer",
+     "grounds": "fused form naming place and protector",
+     "morph": "m.nom.sg (vāma-skandha+ari-sūdana)"
+    }
+   ],
+   "question": "Which deities guard the right and left shoulders?",
+   "premises": [
+    "The right shoulder is named as a site of protection.",
+    "Girīndreśa is assigned to the right shoulder.",
+    "The destroyer of enemies is assigned to the left shoulder."
+   ],
+   "inference": "Each shoulder is placed under a distinct divine guardian.",
+   "uncertainties": [
+    "The fused token vāmaskandherisūdanaḥ combines location and epithet; parsing follows the given form."
+   ],
+   "plain_english": "May the lord of the king of mountains protect the right shoulder, and may the destroyer of enemies protect the left shoulder."
+  },
+  {
+   "verse": 13054,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "qualifies the arm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhuje",
+     "gloss": "on-arm",
+     "grounds": "body part to be guarded",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sārvabhaumo",
+     "gloss": "lord-of-all-earth",
+     "grounds": "divine protector named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdayampātu",
+     "gloss": "heart-may-protect",
+     "grounds": "fused form naming object and verb",
+     "morph": "n.acc.sg + 3.sg.act.impv √pā"
+    },
+    {
+     "surface": "pāṇḍuraḥ",
+     "gloss": "the-pale-one",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are invoked for the left arm and heart?",
+   "premises": [
+    "The left arm is named as a site of protection.",
+    "Sārvabhauma is assigned to the left arm.",
+    "Pāṇḍura is called to protect the heart."
+   ],
+   "inference": "The left arm and heart receive protection from Sārvabhauma and Pāṇḍura.",
+   "uncertainties": [],
+   "plain_english": "May Sārvabhauma protect the left arm, and may the pale one protect the heart."
+  },
+  {
+   "verse": 13055,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction to be guarded",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvakalyāṇakārakovatu",
+     "gloss": "doer-of-all-auspiciousness-may-protect",
+     "grounds": "fused form naming protector and verb",
+     "morph": "m.nom.sg (sarva-kalyāṇa-kāraka) + 3.sg.act.impv √av"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "recipient of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "duration of protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is asked to protect the practitioner in the north always?",
+   "premises": [
+    "The northern direction is specified.",
+    "The doer of all auspiciousness is invoked.",
+    "Protection is requested continually for the speaker."
+   ],
+   "inference": "The doer of all auspiciousness is the constant guardian in the north.",
+   "uncertainties": [],
+   "plain_english": "May the doer of all auspiciousness always protect me in the north."
+  },
+  {
+   "verse": 13056,
+   "rows": [
+    {
+     "surface": "jānunī",
+     "gloss": "both-knees",
+     "grounds": "body parts to be guarded",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "pātvajāmitro",
+     "gloss": "may-protect-ajāmitra",
+     "grounds": "fused form naming verb and protector",
+     "morph": "3.sg.act.impv √pā + m.nom.sg"
+    },
+    {
+     "surface": "gulphau",
+     "gloss": "both-ankles",
+     "grounds": "body parts to be guarded",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "gaurīpatiḥ",
+     "gloss": "lord-of-gaurī",
+     "grounds": "divine protector named",
+     "morph": "m.nom.sg (gaurī+lord)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "duration of protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which guardians are assigned to the knees and ankles perpetually?",
+   "premises": [
+    "The knees are named as sites of protection.",
+    "Ajāmitra is invoked for the knees.",
+    "Gaurīpati is invoked always for the ankles."
+   ],
+   "inference": "Ajāmitra and Gaurīpati provide ongoing protection to knees and ankles.",
+   "uncertainties": [],
+   "plain_english": "May Ajāmitra protect the knees, and may the lord of Gaurī always protect the ankles."
+  },
+  {
+   "verse": 13057,
+   "rows": [
+    {
+     "surface": "pādādhaḥ",
+     "gloss": "below-feet",
+     "grounds": "location to be guarded",
+     "morph": "(indecl.) (pāda+adhaḥ)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative wish for protection",
+     "morph": "3.sg.act.impv √pā"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "continually",
+     "grounds": "duration of protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomakeśo",
+     "gloss": "sky-haired-one",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg (vyoma+keśa)"
+    },
+    {
+     "surface": "jagatpriyaḥ",
+     "gloss": "dear-to-world",
+     "grounds": "epithet of protector",
+     "morph": "m.nom.sg (jagat+priya)"
+    }
+   ],
+   "question": "Who is invoked to guard the space beneath the feet continually?",
+   "premises": [
+    "The area below the feet is specified.",
+    "Continuous protection is requested.",
+    "Vyomakeśa, dear to the world, is invoked."
+   ],
+   "inference": "Vyomakeśa is the continual guardian beneath the feet.",
+   "uncertainties": [],
+   "plain_english": "May Vyomakeśa, dear to the world, continually protect below the feet."
+  },
+  {
+   "verse": 13058,
+   "rows": [
+    {
+     "surface": "oṃ-hrāṃ-hrūṃ-hrūṃ-huṃ",
+     "gloss": "oṃ-hrāṃ-hrūṃ-hrūṃ-huṃ",
+     "grounds": "mantra syllables for a direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "oṃ-hrīṃ-hrūṃ-hrīṃ",
+     "gloss": "oṃ-hrīṃ-hrūṃ-hrīṃ",
+     "grounds": "mantra syllables for a direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutāśane",
+     "gloss": "in-fire-direction",
+     "grounds": "southeast directional placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which mantra syllables are assigned to the east and southeast directions?",
+   "premises": [
+    "A specific mantra sequence is given for the east.",
+    "Another mantra sequence is given for the fire direction.",
+    "The verse maps syllables to directions."
+   ],
+   "inference": "The east and southeast are fixed with distinct mantra syllables.",
+   "uncertainties": [],
+   "plain_english": "Oṃ-hrāṃ-hrūṃ-hrūṃ-huṃ is in the east, and oṃ-hrīṃ-hrūṃ-hrīṃ is in the southeast."
+  },
+  {
+   "verse": 13059,
+   "rows": [
+    {
+     "surface": "oṃ-pruṃ-mruṃ-prūṃ-sa-āpyatyerāṃprāṃ-yrūṃ-saḥ",
+     "gloss": "oṃ-pruṃ-mruṃ-prūṃ-sa-āpyatyerāṃprāṃ-yrūṃ-saḥ",
+     "grounds": "mantra syllables for a direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīraṇe",
+     "gloss": "in-wind-direction",
+     "grounds": "northwest directional placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which mantra syllables are assigned to the wind direction?",
+   "premises": [
+    "A mantra sequence is specified.",
+    "The wind direction is named as its location.",
+    "The verse assigns the syllables to that direction."
+   ],
+   "inference": "The wind direction is established with this mantra sequence.",
+   "uncertainties": [
+    "The internal structure of the long mantra token is preserved as given."
+   ],
+   "plain_english": "Oṃ-pruṃ-mruṃ-prūṃ-sa-āpyatyerāṃprāṃ-yrūṃ-saḥ is in the wind direction."
+  },
+  {
+   "verse": 13060,
+   "rows": [
+    {
+     "surface": "oṃ-glauṃ-blumūrdhvadeśatho",
+     "gloss": "oṃ-glauṃ-blu-above-region-then",
+     "grounds": "fused form with mantra and upward direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "srāṃ-srūṃ-srūṃ-srastvadhaḥ",
+     "gloss": "srāṃ-srūṃ-srūṃ-sra-below",
+     "grounds": "fused form with mantra and downward direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "states traditional assignment",
+     "morph": "n.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "Which mantra syllables are remembered for the upward and downward regions?",
+   "premises": [
+    "A mantra sequence is given for the upward region.",
+    "A mantra sequence is given for below.",
+    "These assignments are declared as remembered."
+   ],
+   "inference": "The vertical directions are fixed by these remembered mantra syllables.",
+   "uncertainties": [
+    "The fused tokens combine mantra syllables with directional words; parsing follows the given form."
+   ],
+   "plain_english": "Oṃ-glauṃ-blu is remembered for the upward region, and srāṃ-srūṃ-srūṃ-sra for below."
+  },
+  {
+   "verse": 13061,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahākīlamatho",
+     "gloss": "great-peg-then",
+     "grounds": "fused form naming central element and transition",
+     "morph": "m.acc.sg (mahā+kīla) + (indecl.)"
+    },
+    {
+     "surface": "dikpālārcanamācaret",
+     "gloss": "direction-guardians-worship-should-perform",
+     "grounds": "fused form prescribing ritual action",
+     "morph": "3.sg.act.opt √ā-car (dikpāla+arcana)"
+    }
+   ],
+   "question": "What ritual action should be performed after establishing the central peg?",
+   "premises": [
+    "The great peg is placed in the middle.",
+    "Worship of the directional guardians is prescribed.",
+    "The action is to be performed by the practitioner."
+   ],
+   "inference": "After placing the central peg, one should worship the directional guardians.",
+   "uncertainties": [],
+   "plain_english": "In the middle is the great peg; then one should perform the worship of the guardians of the directions."
+  },
+  {
+   "verse": 13062,
+   "rows": [
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "recipient of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "rakṣarakṣa",
+     "gloss": "protect-protect",
+     "grounds": "repeated imperative for protection",
+     "morph": "2.sg.act.impv √rakṣ (reduplicated)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "oblation syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāviṃśadarṇakaḥ",
+     "gloss": "of-twenty-two-syllables",
+     "grounds": "describes the mantra length",
+     "morph": "m.nom.sg (dvāviṃśa+arṇaka)"
+    }
+   ],
+   "question": "What protective formula is identified as having twenty-two syllables?",
+   "premises": [
+    "A plea for protection is uttered.",
+    "The formula includes huṃ, phaṭ, and svāhā.",
+    "The mantra is described as having twenty-two syllables."
+   ],
+   "inference": "The verse presents a twenty-two-syllable protective mantra.",
+   "uncertainties": [],
+   "plain_english": "Protect me, protect me, huṃ, phaṭ, and svāhā — this is the mantra of twenty-two syllables."
+  },
+  {
+   "verse": 13063,
+   "rows": [
+    {
+     "surface": "kīlasya",
+     "gloss": "of-peg",
+     "grounds": "reference point for location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nikaṭe",
+     "gloss": "near",
+     "grounds": "location of ritual action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "candramāvāhya",
+     "gloss": "moon-having-invoked",
+     "grounds": "fused form naming deity and action",
+     "morph": "m.acc.sg + absolutive √ā-vah"
+    },
+    {
+     "surface": "pūjayettataḥ",
+     "gloss": "should-worship-then",
+     "grounds": "fused form prescribing next action",
+     "morph": "3.sg.act.opt √pūj + (indecl.)"
+    }
+   ],
+   "question": "What ritual sequence is prescribed near the peg involving the moon?",
+   "premises": [
+    "The location is near the peg.",
+    "The moon is to be invoked.",
+    "Worship is to be performed afterward."
+   ],
+   "inference": "One should invoke the moon near the peg and then worship it.",
+   "uncertainties": [],
+   "plain_english": "Near the peg, having invoked the moon, one should then worship it."
+  },
+  {
+   "verse": 13064,
+   "rows": [
+    {
+     "surface": "mantreṇānena",
+     "gloss": "with-this-mantra",
+     "grounds": "instrument of ritual action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "candrāya",
+     "gloss": "to-moon",
+     "grounds": "recipient of offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "balimarpayet",
+     "gloss": "offering-should-offer",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act.opt √ṛ (bali+arpayet)"
+    }
+   ],
+   "question": "How should an offering be presented to the moon in the circle?",
+   "premises": [
+    "A specific mantra is to be used.",
+    "The moon is the recipient.",
+    "The offering is made in the circle."
+   ],
+   "inference": "An offering should be given to the moon in the circle with this mantra.",
+   "uncertainties": [],
+   "plain_english": "With this mantra, one should offer an oblation to the moon in the circle."
+  },
+  {
+   "verse": 13065,
+   "rows": [
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "points to the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "object to be taken",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gṛhṇagṛhṇa",
+     "gloss": "take-take",
+     "grounds": "repeated imperative to accept offering",
+     "morph": "2.sg.act.impv √grah (reduplicated)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṇnāgāgnivarṇakaḥ",
+     "gloss": "phaṇ-nāga-agni-syllabled",
+     "grounds": "describes the mantra syllables",
+     "morph": "m.nom.sg (phaṇ-nāga-agni+varṇaka)"
+    }
+   ],
+   "question": "What mantra formula accompanies the request to accept the offering?",
+   "premises": [
+    "The offering is explicitly presented.",
+    "Acceptance is demanded twice.",
+    "The formula is characterized by specific syllables."
+   ],
+   "inference": "The offering is given with a mantra marked by huṃ and phaṇ-nāga-agni syllables.",
+   "uncertainties": [
+    "The exact syllabic expansion of phaṇnāgāgnivarṇakaḥ is not specified in the verse."
+   ],
+   "plain_english": "Take, take this offering — huṃ — this is the mantra of phaṇ, nāga, and agni syllables."
+  },
+  {
+   "verse": 13066,
+   "rows": [
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "deity to be invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "preparatory ritual action",
+     "morph": "absolutive √ā-vah"
+    },
+    {
+     "surface": "prāgvaddhyātvā",
+     "gloss": "as-before-having-meditated",
+     "grounds": "fused form prescribing meditation",
+     "morph": "(indecl.) + absolutive √dhyai"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "What procedure should be followed to worship fire at that location?",
+   "premises": [
+    "Fire is to be invoked there.",
+    "Meditation is to be done as before.",
+    "Worship is to be performed afterward."
+   ],
+   "inference": "One should invoke fire, meditate as before, and then worship it.",
+   "uncertainties": [],
+   "plain_english": "There, having invoked fire and meditated as before, one should worship it."
+  },
+  {
+   "verse": 13067,
+   "rows": [
+    {
+     "surface": "oṃ-raṃ-rāṃ-riṃ-rīṃ-ruṃ-rūṃ",
+     "gloss": "oṃ-raṃ-rāṃ-riṃ-rīṃ-ruṃ-rūṃ",
+     "grounds": "mantra syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "timing of utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gre",
+     "gloss": "gre",
+     "grounds": "mantric utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gre",
+     "gloss": "gre",
+     "grounds": "mantric utterance repeated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "utterance unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "prescribed utterance",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "Which mantra syllables and words should be uttered at that time?",
+   "premises": [
+    "A sequence of seed syllables is given.",
+    "The word gre is repeated.",
+    "The practitioner is instructed to speak them."
+   ],
+   "inference": "At that time one should utter the given syllables and the word gre twice.",
+   "uncertainties": [],
+   "plain_english": "Then one should say oṃ-raṃ-rāṃ-riṃ-rīṃ-ruṃ-rūṃ and the word gre, gre."
+  },
+  {
+   "verse": 13068,
+   "rows": [
+    {
+     "surface": "mudgabaliṃ",
+     "gloss": "mung-bean-offering",
+     "grounds": "object to be accepted",
+     "morph": "m.acc.sg (mudga+bali)"
+    },
+    {
+     "surface": "gṛhṇagṛhṇa",
+     "gloss": "take-take",
+     "grounds": "repeated imperative to accept offering",
+     "morph": "2.sg.act.impv √grah (reduplicated)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaḍ",
+     "gloss": "phaḍ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devārṇako",
+     "gloss": "deva-syllabled",
+     "grounds": "describes the mantra",
+     "morph": "m.nom.sg (deva+arṇaka)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "identifies the formula",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra is used when offering the mung-bean oblation?",
+   "premises": [
+    "A mung-bean offering is presented.",
+    "Acceptance is demanded with huṃ and phaḍ.",
+    "The formula is identified as a deva-syllabled mantra."
+   ],
+   "inference": "The mung-bean offering is given with this deva-syllabled mantra.",
+   "uncertainties": [],
+   "plain_english": "Take, take this mung-bean offering — huṃ, phaḍ — this is the deva-syllabled mantra."
+  },
+  {
+   "verse": 13069,
+   "rows": [
+    {
+     "surface": "daṃbījena",
+     "gloss": "with-daṃ-seed",
+     "grounds": "instrumental seed syllable",
+     "morph": "n.ins.sg (daṃ+bīja)"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "preparatory ritual action",
+     "morph": "absolutive √ā-vah"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrument of offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "nirvapedbalim",
+     "gloss": "should-offer-offering",
+     "grounds": "fused form prescribing ritual action",
+     "morph": "3.sg.act.opt √vṛ (nir-vapet+bali)"
+    }
+   ],
+   "question": "How should the offering be made using the daṃ seed syllable?",
+   "premises": [
+    "Invocation is performed with the daṃ seed.",
+    "A mantra is used as the instrument.",
+    "The offering is to be presented."
+   ],
+   "inference": "One should invoke with the daṃ seed and offer the oblation with the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having invoked with the daṃ seed, one should offer the oblation with the mantra."
+  },
+  {
+   "verse": 13070,
+   "rows": [
+    {
+     "surface": "pretādhipataye",
+     "gloss": "to-lord-of-spirits",
+     "grounds": "recipient of address",
+     "morph": "m.dat.sg (preta+adhipati)"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "manner of response requested",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasanno",
+     "gloss": "pleased",
+     "grounds": "state requested of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.impv √bhū"
+    },
+    {
+     "surface": "saṃvadet",
+     "gloss": "should-say",
+     "grounds": "prescribed utterance",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What request should be spoken to the lord of spirits?",
+   "premises": [
+    "The lord of spirits is addressed.",
+    "He is asked to become pleased quickly.",
+    "The practitioner is instructed to speak this."
+   ],
+   "inference": "One should ask the lord of spirits to be quickly pleased.",
+   "uncertainties": [],
+   "plain_english": "One should say to the lord of spirits: quickly be pleased."
+  },
+  {
+   "verse": 13071,
+   "rows": [
+    {
+     "surface": "huṃphaḍantaḥ",
+     "gloss": "ending-with-huṃ-phaṭ",
+     "grounds": "describes mantra ending",
+     "morph": "m.nom.sg (huṃ-phaṭ+anta)"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "declared",
+     "grounds": "states identification",
+     "morph": "m.nom.sg.past-passive-participle √khyā"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "subject identified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gorāmavarṇakaḥ",
+     "gloss": "of-gorāma-syllables",
+     "grounds": "describes mantra syllables",
+     "morph": "m.nom.sg (gorāma+varṇaka)"
+    }
+   ],
+   "question": "How is the gorāma-syllabled mantra formally characterized?",
+   "premises": [
+    "The mantra is declared explicitly.",
+    "It ends with huṃ and phaṭ.",
+    "It is described as having gorāma syllables."
+   ],
+   "inference": "The gorāma-syllabled mantra is identified as ending with huṃ and phaṭ.",
+   "uncertainties": [
+    "The exact syllabic value of gorāma is not expanded in the verse."
+   ],
+   "plain_english": "The mantra is declared to be of gorāma syllables and to end with huṃ and phaṭ."
+  },
+  {
+   "verse": 13072,
+   "rows": [
+    {
+     "surface": "kṣaṃbījena",
+     "gloss": "with-kṣaṃ-seed",
+     "grounds": "instrumental seed syllable",
+     "morph": "n.ins.sg (kṣaṃ+bīja)"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "preparatory ritual action",
+     "morph": "absolutive √ā-vah"
+    },
+    {
+     "surface": "balimantro",
+     "gloss": "offering-mantra",
+     "grounds": "subject to be stated",
+     "morph": "m.nom.sg (bali+mantra)"
+    },
+    {
+     "surface": "thakathyate",
+     "gloss": "now-is-stated",
+     "grounds": "fused form introducing next formula",
+     "morph": "3.sg.pass.pres √kath"
+    }
+   ],
+   "question": "What follows after invocation with the kṣaṃ seed syllable?",
+   "premises": [
+    "Invocation is performed with the kṣaṃ seed.",
+    "An offering mantra is the topic.",
+    "The verse announces that it is now stated."
+   ],
+   "inference": "After invoking with the kṣaṃ seed, the offering mantra is stated.",
+   "uncertainties": [
+    "The initial element in thakathyate is preserved as given in the fused token."
+   ],
+   "plain_english": "Having invoked with the kṣaṃ seed, the offering mantra is now stated."
+  },
+  {
+   "verse": 13073,
+   "rows": [
+    {
+     "surface": "rakṣonāthapadaṃ",
+     "gloss": "lord-of-demons-word",
+     "grounds": "fused form naming addressee and utterance",
+     "morph": "n.acc.sg (rakṣonātha+pada)"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "manner of response requested",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasanno",
+     "gloss": "pleased",
+     "grounds": "state requested of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.impv √bhū"
+    },
+    {
+     "surface": "saṃvadet",
+     "gloss": "should-say",
+     "grounds": "prescribed utterance",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What words should be addressed to the lord of demons?",
+   "premises": [
+    "The lord of demons is addressed.",
+    "He is asked to become pleased quickly.",
+    "The practitioner is instructed to speak this."
+   ],
+   "inference": "One should say to the lord of demons: quickly be pleased.",
+   "uncertainties": [],
+   "plain_english": "One should say to the lord of demons: quickly be pleased."
+  },
+  {
+   "verse": 13074,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadarṇo",
+     "gloss": "of-thirty-six-syllables",
+     "grounds": "describes mantra length",
+     "morph": "m.nom.sg (ṣaṭtriṃśa+arṇa)"
+    },
+    {
+     "surface": "mantroyaṃ",
+     "gloss": "mantra-this",
+     "grounds": "fused form identifying the mantra",
+     "morph": "m.nom.sg + pron.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścimakīlake",
+     "gloss": "at-western-peg",
+     "grounds": "location for next action",
+     "morph": "m.loc.sg (paścima+kīlaka)"
+    }
+   ],
+   "question": "What is identified about the mantra before moving to the western peg?",
+   "premises": [
+    "The mantra is described as having thirty-six syllables.",
+    "This mantra is explicitly identified.",
+    "The sequence then moves to the western peg."
+   ],
+   "inference": "This thirty-six-syllable mantra is completed before proceeding to the western peg.",
+   "uncertainties": [],
+   "plain_english": "This is a mantra of thirty-six syllables; then one proceeds at the western peg."
+  }
+ ]
+}

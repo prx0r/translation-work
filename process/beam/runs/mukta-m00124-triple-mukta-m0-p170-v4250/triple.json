@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4250,
+   "rows": [
+    {
+     "surface": "īśvarāntāni",
+     "gloss": "ending-in-īśvara",
+     "grounds": "compound adjective describing principles whose final member is īśvara",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "tatvāni",
+     "gloss": "principles",
+     "grounds": "neuter plural noun",
+     "morph": "noun.nom.pl.n"
+    },
+    {
+     "surface": "turyaśre",
+     "gloss": "in-fourth",
+     "grounds": "fused locative form; exact internal sandhi not expanded",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vinyased",
+     "gloss": "should-place",
+     "grounds": "optative verb of placement",
+     "morph": "verb.3.sg.act.opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative singular agent",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Which principles should the guru place in the fourth position during nyāsa?",
+   "premises": [
+    "principles ending in īśvara are to be placed",
+    "placement occurs in the fourth position",
+    "the guru performs the placement"
+   ],
+   "inference": "The guru places the īśvara-ending principles in the fourth position.",
+   "uncertainties": [
+    "exact referent of turyaśre as fourth position or corner",
+    "internal sandhi of turyaśre remains unresolved"
+   ],
+   "plain_english": "The guru should place the principles ending in Īśvara in the fourth."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "viprajopavratārdhaṃ",
+     "gloss": "brahmin-born-minor-vow-half",
+     "grounds": "compound: vipra-ja (born-of-brahmin) + upavrata (minor-vow) + ardham (half), accusative singular neuter, object of caret",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛdāgamane",
+     "gloss": "on-single-approach",
+     "grounds": "compound/locative: sakṛt (once) + āgamane (approach, coming), locative singular neuter indicating occasion",
+     "morph": "compound.loc.sg.nt"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "optative verb expressing prescribed action, root √car",
+     "morph": "3.sg.act.opt-√car"
+    }
+   ],
+   "question": "What observance is prescribed for a single instance of approach?",
+   "premises": [
+    "The prescribed action is to perform an observance.",
+    "The observance is half of the minor vow of one born a brahmin.",
+    "This applies in the case of a single approach."
+   ],
+   "inference": "Therefore, on a single approach one should perform half of the minor vow prescribed for one born a brahmin.",
+   "uncertainties": [
+    "The exact nature of the 'minor vow' (upavrata) and what constitutes 'approach' (āgamana) in this context is not specified within the verse."
+   ],
+   "plain_english": "But on a single approach, one should perform half of the minor vow prescribed for one born a brahmin."
+  }
+ ]
+}

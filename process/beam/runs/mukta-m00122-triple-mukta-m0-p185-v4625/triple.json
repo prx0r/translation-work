@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4625,
+   "rows": [
+    {
+     "surface": "siṃhī",
+     "gloss": "siṃhī-plant",
+     "grounds": "name of a ritual herb",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dundūkayugalam",
+     "gloss": "dundūka-pair",
+     "grounds": "compound: dundūka + yugala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apāmārgāñ",
+     "gloss": "apāmārga-plants",
+     "grounds": "sandhi form before jaliḥ (apāmārgān)",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "jaliḥ",
+     "gloss": "handful",
+     "grounds": "measure of quantity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "accompanies listed items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional plants and what quantity are prescribed as worship materials?",
+   "premises": [
+    "siṃhī is specified as a worship herb",
+    "a pair of dundūka is prescribed",
+    "a handful of apāmārga is included together"
+   ],
+   "inference": "these plants and measure form part of the prescribed herbal offerings for worship",
+   "uncertainties": [
+    "exact botanical identification of siṃhī and dundūka"
+   ],
+   "plain_english": "Siṃhī, a pair of dundūka, and a handful of apāmārga together."
+  }
+ ]
+}

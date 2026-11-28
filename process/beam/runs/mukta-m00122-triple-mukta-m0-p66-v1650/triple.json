@@ -1,0 +1,94 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "īkāraḥ",
+     "gloss": "ī-syllable",
+     "grounds": "subject naming the ī syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃsaḥ",
+     "gloss": "haṃsa",
+     "grounds": "predicate identifying haṃsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "marut",
+     "gloss": "wind",
+     "grounds": "wind joined with haṃsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "participle of joining",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hā",
+     "gloss": "hā",
+     "grounds": "mantra syllable hā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāptaṃ",
+     "gloss": "pervaded",
+     "grounds": "participle of pervasion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marutā",
+     "gloss": "with-wind",
+     "grounds": "instrumental wind",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "joined",
+     "grounds": "participle of joining",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "yā",
+     "grounds": "mantra syllable yā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the ī-syllable pervaded and joined with wind in this mantra formula?",
+   "premises": [
+    "ī-syllable is haṃsa joined with wind",
+    "hā marks pervasion by wind",
+    "yā marks joining with wind"
+   ],
+   "inference": "The verse maps ī to haṃsa-wind pervasion and yā to wind-joining.",
+   "uncertainties": [
+    "Exact ritual referent of hā and yā remains unclear",
+    "Grammatical agreement of vyāptaṃ and yutaṃ is not fully resolved"
+   ],
+   "plain_english": "The ī-syllable is haṃsa joined with wind; thus pervaded, and joined with wind, yā thus."
+  }
+ ]
+}

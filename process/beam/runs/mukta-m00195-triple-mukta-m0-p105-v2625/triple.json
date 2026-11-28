@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "kṛtā",
+     "gloss": "performed",
+     "grounds": "past passive participle of kṛ, agreeing with pūjā",
+     "morph": "ppp.nom.sg.f-kṛ"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship, subject of bhavati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasmin",
+     "gloss": "on-which",
+     "grounds": "relative pronoun referring to the day mentioned in context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present indicative of bhū",
+     "morph": "3.sg.pres.act-bhū"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective agreeing with pūjā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "On which designated day does performed worship yield no ritual fruit?",
+   "premises": [
+    "Worship is performed on a particular day.",
+    "That day is identified by the relative pronoun.",
+    "Worship performed on that day becomes fruitless."
+   ],
+   "inference": "Therefore worship performed on that designated day produces no result.",
+   "uncertainties": [
+    "The specific day referred to by yasmin depends on the preceding verse."
+   ],
+   "plain_english": "The worship performed on that day becomes fruitless."
+  }
+ ]
+}

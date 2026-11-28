@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4250,
+   "rows": [
+    {
+     "surface": "citrādi",
+     "gloss": "picture-etc",
+     "grounds": "Token given as citrādi (legacy: pictures-etc); used as a class marker for images/pictures and similar forms.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimādīnāṃ",
+     "gloss": "image-etc",
+     "grounds": "From pratimā with -ādi and genitive plural ending in form; denotes images and related items as objects of worship context.",
+     "morph": "f.gen.pl."
+    },
+    {
+     "surface": "pūjārthaṃ",
+     "gloss": "for-worship",
+     "grounds": "Compound sense indicating purpose: for the sake of worship (pūjā + artha).",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattadagrake",
+     "gloss": "in-each-front-place",
+     "grounds": "Points to the respective front/place (agra) for each; token kept as given (tattadagrake) indicating placement before each such form.",
+     "morph": "n.loc.sg."
+    }
+   ],
+   "question": "What placement is prescribed for worship of pictures and images and the like?",
+   "premises": [
+    "Pictures and similar forms are named as a class.",
+    "Images and related items are specified as recipients of worship.",
+    "Worship is stated as the purpose of that arrangement.",
+    "Each is to be placed in its respective front location."
+   ],
+   "inference": "Worship of pictures, images, and similar forms is to be carried out by placing each in its own designated front place.",
+   "uncertainties": [
+    "Exact spatial nuance of tattadagrake (front area vs specific pedestal) is not fully determined from this token alone."
+   ],
+   "plain_english": "For the worship of pictures and the like, and of images and similar forms, each is to be set in its own front place."
+  }
+ ]
+}

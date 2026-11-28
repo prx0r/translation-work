@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow-length",
+     "grounds": "unit of distance",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "saptadaśaṃ",
+     "gloss": "seventeen",
+     "grounds": "numeral quantity",
+     "morph": "adj.acc.sg.nt"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extent marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvāśārāsakaṃ",
+     "gloss": "ūrdhvāśārāsaka",
+     "grounds": "proper name of place",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "vāsaka",
+     "gloss": "vāsaka",
+     "grounds": "epithet or part of place name",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "saraḥ",
+     "gloss": "lake",
+     "grounds": "sacred water body",
+     "morph": "n.nom.sg.nt"
+    }
+   ],
+   "question": "Which sacred lake is located seventeen bow-lengths beyond the previously mentioned site?",
+   "premises": [
+    "A distance of seventeen bow-lengths is specified.",
+    "The location reached at that distance is named Ūrdhvāśārāsaka.",
+    "The site identified is a lake called Vāsaka."
+   ],
+   "inference": "At a distance of seventeen bow-lengths lies the Ūrdhvāśārāsaka Vāsaka lake.",
+   "uncertainties": [
+    "Whether vāsaka functions as an epithet or as an integral part of the lake's proper name is unclear."
+   ],
+   "plain_english": "Seventeen bow-lengths further on is the Ūrdhvāśārāsaka Vāsaka lake."
+  }
+ ]
+}

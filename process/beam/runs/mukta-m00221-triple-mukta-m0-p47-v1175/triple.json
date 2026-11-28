@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "alaṃ",
+     "gloss": "enough",
+     "grounds": "interjection of sufficiency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāle",
+     "gloss": "maiden",
+     "grounds": "vocative address to young woman",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "sāhasena",
+     "gloss": "with-daring",
+     "grounds": "instrumental of sāhasa",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "yuddhena",
+     "gloss": "with-battle",
+     "grounds": "instrumental of yuddha",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "viṣameṇa",
+     "gloss": "unequal",
+     "grounds": "instrumental of viṣama",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "genitive of tvam",
+     "morph": "gen.sg"
+    }
+   ],
+   "question": "What warning does the speaker give the maiden about her unequal daring battle?",
+   "premises": [
+    "The speaker addresses the maiden directly.",
+    "The battle is called unequal.",
+    "Daring is linked to the battle."
+   ],
+   "inference": "The maiden is being told to stop an unequal daring fight.",
+   "uncertainties": [
+    "Exact addressee and full narrative context beyond supplied lines remain unclear."
+   ],
+   "plain_english": "Enough, maiden—your daring battle is unequal."
+  }
+ ]
+}

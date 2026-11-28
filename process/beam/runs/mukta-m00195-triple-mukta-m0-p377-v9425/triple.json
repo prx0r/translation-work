@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p377",
+ "items": [
+  {
+   "verse": 9425,
+   "rows": [
+    {
+     "surface": "pretam",
+     "gloss": "corpse",
+     "grounds": "object mounted in the ritual setting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āruhya",
+     "gloss": "having-mounted",
+     "grounds": "gerund expressing prior action",
+     "morph": "(gerund, ā-√ruh)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the previously indicated place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the same location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "whoever",
+     "grounds": "relative pronoun introducing the qualified agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.act-opt, √jap"
+    },
+    {
+     "surface": "mantra-vit-tamaḥ",
+     "gloss": "supreme-mantra-knower",
+     "grounds": "superlative compound qualifying the reciter",
+     "morph": "m.nom.sg, compound: mantra-vid-tama"
+    }
+   ],
+   "question": "Which practitioner is qualified to recite mantras while mounted upon a corpse there?",
+   "premises": [
+    "The ritual setting is the previously specified cremation ground.",
+    "The practitioner mounts a corpse in that very place.",
+    "The reciter must be supremely knowledgeable in mantras."
+   ],
+   "inference": "Only a supreme knower of mantras should perform recitation while mounted on a corpse there.",
+   "uncertainties": [
+    "The specific mantra to be recited is not named in this verse."
+   ],
+   "plain_english": "Having mounted a corpse right there, whoever is the foremost knower of mantras should perform the recitation."
+  }
+ ]
+}

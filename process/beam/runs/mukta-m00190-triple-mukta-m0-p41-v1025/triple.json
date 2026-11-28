@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive of jap, indicating prior act of recitation",
+     "morph": "abs. (√jap)"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "numeral specifying a count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "alternative numeral specifying a count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "result attained through recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "one-would-attain",
+     "grounds": "expresses the outcome of the prescribed recitation",
+     "morph": "3.sg.opt.act (√gam)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the presence of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty denied regarding the stated result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can reciting the mantra ten thousand or a thousand times certainly grant liberation?",
+   "premises": [
+    "Recitation may be performed ten thousand or a thousand times.",
+    "Such recitation leads one to attain liberation.",
+    "No doubt exists regarding this outcome."
+   ],
+   "inference": "Performing the specified number of recitations certainly results in liberation.",
+   "uncertainties": [],
+   "plain_english": "Having recited the mantra ten thousand or a thousand times, one would attain liberation; there is no doubt."
+  }
+ ]
+}

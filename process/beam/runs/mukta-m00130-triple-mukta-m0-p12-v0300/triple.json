@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "locative/indeclinable compound indicating position above the previously mentioned region; internal sandhi tad + ūrdhve",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "padmamūrdhvamukhaṃ",
+     "gloss": "lotus-upward-faced",
+     "grounds": "compound describing a lotus with its opening directed upward",
+     "morph": "compound: padma+ūrdhva+mukha (n.nom.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner or continuation",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What upward-facing lotus is situated above that previously described region?",
+   "premises": [
+    "The location is specified as above that previously mentioned region.",
+    "A lotus with its face turned upward is present there.",
+    "The statement is addressed to the supreme goddess."
+   ],
+   "inference": "Therefore, above that region there is likewise an upward-facing lotus.",
+   "uncertainties": [],
+   "plain_english": "Above that, O Supreme Goddess, there is likewise a lotus facing upward."
+  }
+ ]
+}

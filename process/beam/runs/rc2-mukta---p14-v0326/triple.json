@@ -1,0 +1,566 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "saptamam",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective in accusative masculine singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "agni+stambhaṃ",
+     "gloss": "fire-pillar",
+     "grounds": "compound accusative masculine singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśīkaraṇam",
+     "gloss": "subjugation",
+     "grounds": "neuter noun accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭamam",
+     "gloss": "eighth",
+     "grounds": "ordinal adjective in accusative masculine singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which siddhis are named as the seventh and eighth in this list?",
+   "premises": [
+    "seventh power is fire-pillar",
+    "eighth power is subjugation"
+   ],
+   "inference": "The verse enumerates fire-pillar as seventh and subjugation as eighth.",
+   "uncertainties": [
+    "exact list numbering depends on surrounding verses"
+   ],
+   "plain_english": "The seventh is fire-pillar and the eighth is subjugation."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "śivena",
+     "gloss": "by-Śiva",
+     "grounds": "instrumental masculine singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "past participle feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yogā",
+     "gloss": "yogas",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uḍḍīśe",
+     "gloss": "in-Uḍḍīśa",
+     "grounds": "locative masculine singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāstra+niścaye",
+     "gloss": "in-scripture-determination",
+     "grounds": "compound locative masculine singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Who taught these yogas and in which scripture determination are they fixed?",
+   "premises": [
+    "Śiva told the yogas",
+    "they are fixed in scripture determination"
+   ],
+   "inference": "The verse attributes the yogas to Śiva and places them in Uḍḍīśa scripture determination.",
+   "uncertainties": [
+    "yogā may be nominative plural masculine"
+   ],
+   "plain_english": "Śiva told these yogas in the Uḍḍīśa scripture determination."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "gātra+saṃkocanaṃ",
+     "gloss": "body-contraction",
+     "grounds": "compound accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūta+jvara+karaḥ",
+     "gloss": "spirit-fever-causing",
+     "grounds": "compound nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bodily contraction and spirit-fever effects are included among these powers?",
+   "premises": [
+    "body contraction is included",
+    "spirit fever causing is included"
+   ],
+   "inference": "The verse adds body contraction and spirit-fever causing to the list.",
+   "uncertainties": [
+    "syntactic role of gātrasaṃkocanaṃ is accusative"
+   ],
+   "plain_english": "Body contraction and causing spirit fever are included likewise."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "dadhi+madhu+nāśanaṃ",
+     "gloss": "curd-honey-destruction",
+     "grounds": "compound accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matta+karaṇaṃ",
+     "gloss": "intoxication-causing",
+     "grounds": "compound accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What curd-honey destruction and intoxication effects are included among these powers?",
+   "premises": [
+    "curd and honey destruction is included",
+    "intoxication causing is included"
+   ],
+   "inference": "The verse adds destruction of curd and honey and intoxication causing.",
+   "uncertainties": [
+    "compound may be accusative object of an implied verb"
+   ],
+   "plain_english": "Destruction of curd and honey and causing intoxication are included."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "attraction",
+     "grounds": "neuter noun accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhujaṅgānāṃ",
+     "gloss": "of-serpents",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mānavānāṃ",
+     "gloss": "of-humans",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose attraction is said to be certain among these powers?",
+   "premises": [
+    "attraction of serpents is included",
+    "attraction of humans is included",
+    "it is certain"
+   ],
+   "inference": "The verse states attraction of serpents and humans is certainly included.",
+   "uncertainties": [
+    "ākarṣaṇaṃ may be accusative object"
+   ],
+   "plain_english": "Attraction of serpents and humans is certainly included."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "vetāla+añjana+siddhiḥ",
+     "gloss": "vetāla-collyrium-accomplishment",
+     "grounds": "compound nominative feminine singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ulūka+siddhiḥ",
+     "gloss": "owl-accomplishment",
+     "grounds": "compound nominative feminine singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which vetāla collyrium and owl accomplishments are included among these powers?",
+   "premises": [
+    "vetāla collyrium accomplishment is included",
+    "owl accomplishment is included"
+   ],
+   "inference": "The verse adds vetāla collyrium accomplishment and owl accomplishment.",
+   "uncertainties": [
+    "añjana may mean collyrium or ointment"
+   ],
+   "plain_english": "Vetāla collyrium accomplishment and owl accomplishment are also included."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "vidyā+mantra+prayogān",
+     "gloss": "knowledge-mantra-applications",
+     "grounds": "compound accusative masculine plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "auṣadhaṃ",
+     "gloss": "medicine",
+     "grounds": "neuter noun accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhicārikam",
+     "gloss": "sorcery",
+     "grounds": "neuter adjective accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which knowledge mantra applications, medicine, and sorcery are included among these powers?",
+   "premises": [
+    "knowledge mantra applications are included",
+    "medicine is included",
+    "sorcery is included"
+   ],
+   "inference": "The verse adds knowledge mantra applications, medicine, and sorcery.",
+   "uncertainties": [
+    "ābhicārikam may modify auṣadhaṃ"
+   ],
+   "plain_english": "Knowledge mantra applications, medicine, and sorcery are included."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "akulīna+adhama+buddheḥ",
+     "gloss": "of-low-born-base-intellect",
+     "grounds": "compound genitive masculine singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhakti+hīnasya",
+     "gloss": "of-devotion-devoid",
+     "grounds": "compound genitive masculine singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whom is association with these powers prohibited due to low birth and lack of devotion?",
+   "premises": [
+    "low-born base intellect is excluded",
+    "devotion-devoid person is excluded"
+   ],
+   "inference": "The verse warns against association with low-born base intellect and devotionless persons.",
+   "uncertainties": [
+    "akulīna may mean not of noble family"
+   ],
+   "plain_english": "Association is prohibited for low-born base intellect and devotionless persons."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "svārthaṃ",
+     "gloss": "for-own-purpose",
+     "grounds": "accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phala+ādi+lubdhasya",
+     "gloss": "of-fruit-etc-greedy",
+     "grounds": "compound genitive masculine singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "upadeśam",
+     "gloss": "instruction",
+     "grounds": "masculine noun accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "amanyataḥ",
+     "gloss": "disregarding",
+     "grounds": "present participle genitive masculine singular",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why should instruction not be given to one greedy for fruit and disregarding it?",
+   "premises": [
+    "own purpose and fruit greed are disqualifying",
+    "disregarding instruction is disqualifying"
+   ],
+   "inference": "The verse says instruction should not be given to one greedy for fruit and disregarding it.",
+   "uncertainties": [
+    "amanyataḥ may mean not honoring"
+   ],
+   "plain_english": "Instruction should not be given to one greedy for fruit who disregards it."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "etaiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental plural neuter",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saha+saṃyogaḥ",
+     "gloss": "sudden-association",
+     "grounds": "compound nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaḥ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive nominative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Should the wise always associate suddenly with these powers?",
+   "premises": [
+    "sudden association with these is not to be done",
+    "wise persons should avoid it always"
+   ],
+   "inference": "The verse forbids the wise from always making sudden association with these powers.",
+   "uncertainties": [
+    "saha may mean together rather than sudden"
+   ],
+   "plain_english": "The wise should not always suddenly associate with these powers."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "duṣṭā",
+     "gloss": "wicked",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "durjayāḥ",
+     "gloss": "unconquerable",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "indeclinable interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahu+bhāṣitaiḥ",
+     "gloss": "with-much-speaking",
+     "grounds": "compound instrumental plural neuter",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Why are these wicked unconquerable powers not worth much speaking about?",
+   "premises": [
+    "they are wicked",
+    "they are unconquerable",
+    "much speaking is futile"
+   ],
+   "inference": "The verse dismisses extended discussion because these powers are wicked and unconquerable.",
+   "uncertainties": [
+    "bahu-bhāṣitaiḥ may mean by much speaking"
+   ],
+   "plain_english": "These wicked unconquerable powers are not worth much speaking about."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "sat+pūruṣāya",
+     "gloss": "to-good-person",
+     "grounds": "compound dative masculine singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "deva+guru+ratāya",
+     "gloss": "to-god-guru-devoted",
+     "grounds": "compound dative masculine singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom should these powers be given?",
+   "premises": [
+    "they should be given to good person",
+    "they should be given to god-guru devoted person"
+   ],
+   "inference": "The verse directs these powers to a good person devoted to god and guru.",
+   "uncertainties": [
+    "dātavyaṃ may be accusative neuter singular"
+   ],
+   "plain_english": "These powers should be given to a good person devoted to god and guru."
+  }
+ ]
+}

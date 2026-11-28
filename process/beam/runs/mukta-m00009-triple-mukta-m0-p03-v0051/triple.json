@@ -1,0 +1,1117 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "eṣo'",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun, sandhi before pi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadāśivādir",
+     "gloss": "beginning-with-sadāśiva",
+     "grounds": "compound denoting path starting from Sadāśiva",
+     "morph": "compound: sadāśiva+ādi, m.nom.sg"
+    },
+    {
+     "surface": "adhvā",
+     "gloss": "path",
+     "grounds": "subject of predication",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikārī,",
+     "gloss": "subject-to-change",
+     "grounds": "predicate adjective, retains comma",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "therefore",
+     "grounds": "indeclinable indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityopādānakāraṇa",
+     "gloss": "eternal-material-cause",
+     "grounds": "compound describing required cause",
+     "morph": "compound: nitya+upādāna+kāraṇa, n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the path beginning with Sadāśiva require an eternal material cause?",
+   "premises": [
+    "The path beginning with Sadāśiva is subject to change.",
+    "Changeable entities require a material cause.",
+    "Such a material cause must be eternal."
+   ],
+   "inference": "Therefore the path beginning with Sadāśiva presupposes an eternal material cause.",
+   "uncertainties": [],
+   "plain_english": "This path beginning with Sadāśiva is also subject to change; therefore it must have an eternal material cause."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "pārthivo'",
+     "gloss": "made-of-earth",
+     "grounds": "adjective, sandhi before pi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.optative-active + bhū"
+    },
+    {
+     "surface": "kumbho",
+     "gloss": "pot",
+     "grounds": "subject of example",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyopādānakāraṇaḥ",
+     "gloss": "having-māyā-as-material-cause",
+     "grounds": "compound predicate",
+     "morph": "compound: māyā+upādāna+kāraṇa, m.nom.sg"
+    }
+   ],
+   "question": "How can an earthen pot ultimately have Māyā as its material cause?",
+   "premises": [
+    "A pot is made of earth.",
+    "An earthen pot can still be traced to a deeper material cause.",
+    "That deeper material cause is Māyā."
+   ],
+   "inference": "Therefore even an earthen pot has Māyā as its material cause.",
+   "uncertainties": [],
+   "plain_english": "Even a pot made of earth may have Māyā as its material cause."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛdupādānatve'",
+     "gloss": "in-clay-materialness",
+     "grounds": "locative abstract, sandhi before pi",
+     "morph": "compound: mṛd+upādānatva, n.loc.sg"
+    },
+    {
+     "surface": "pi",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭasya",
+     "gloss": "of-pot",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paramparayā",
+     "gloss": "indirectly",
+     "grounds": "instrumental indicating mediation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "māyaiva",
+     "gloss": "māyā-alone",
+     "grounds": "emphatic compound with eva",
+     "morph": "f.nom.sg + eva"
+    },
+    {
+     "surface": "upādānakāraṇam",
+     "gloss": "material-cause",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the ultimate material cause of a pot whose immediate material is clay?",
+   "premises": [
+    "Clay is the direct material cause of a pot.",
+    "A direct material cause can itself have a prior cause.",
+    "Māyā is that prior material cause."
+   ],
+   "inference": "Therefore Māyā alone is the ultimate material cause of the pot.",
+   "uncertainties": [],
+   "plain_english": "Even when clay is the direct material of a pot, Māyā alone is its material cause indirectly."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "yadyad",
+     "gloss": "whatever",
+     "grounds": "reduplicated relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "present passive verb",
+     "morph": "3.sg.present-passive + ut-pad"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "thing",
+     "grounds": "subject of arising",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "correlative demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyeyaṃ",
+     "gloss": "this-māyā",
+     "grounds": "predicate identifying with Māyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable introducing example",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "example of produced entity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What common material nature belongs to every produced entity such as kalā?",
+   "premises": [
+    "Whatever thing arises is a produced entity.",
+    "Kalā is an example of such a produced entity.",
+    "All produced entities are constituted of Māyā."
+   ],
+   "inference": "Therefore every arisen thing, like kalā, is Māyā.",
+   "uncertainties": [],
+   "plain_english": "Whatever thing arises is this Māyā, just as kalā is."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "āptavākyena",
+     "gloss": "by-trustworthy-statement",
+     "grounds": "instrumental of authoritative testimony",
+     "morph": "compound: āpta+vākya, n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to prior claim",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddham",
+     "gloss": "established",
+     "grounds": "predicate indicating proof",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "states the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what authoritative means is the Māyā-nature of produced things established?",
+   "premises": [
+    "The claim about produced things has been stated.",
+    "Trustworthy testimony can establish such claims.",
+    "This claim is supported by trustworthy testimony."
+   ],
+   "inference": "Therefore this point is established by authoritative statement.",
+   "uncertainties": [],
+   "plain_english": "This is also established by trustworthy testimony; such is the meaning."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "pariṇāmo",
+     "gloss": "transformation",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing definition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastūnāṃ",
+     "gloss": "of-things",
+     "grounds": "possessive relation",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pūrvāvasthā",
+     "gloss": "previous-state",
+     "grounds": "compound denoting prior condition",
+     "morph": "compound: pūrva+avasthā, f.nom.sg"
+    },
+    {
+     "surface": "paricyuteḥ",
+     "gloss": "from-abandonment",
+     "grounds": "ablative indicating cause of change",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "What constitutes transformation in things according to this definition?",
+   "premises": [
+    "Things can exist in successive states.",
+    "Transformation involves leaving a prior state.",
+    "The prior state is abandoned in the process."
+   ],
+   "inference": "Therefore transformation is the abandonment of a thing's previous state.",
+   "uncertainties": [],
+   "plain_english": "Transformation of things is indeed the abandonment of their previous state."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "dadhnaś",
+     "gloss": "of-curd",
+     "grounds": "genitive in comparison",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "takravat",
+     "gloss": "like-buttermilk",
+     "grounds": "comparative suffix indicating analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locating the case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "takrāvasthā",
+     "gloss": "buttermilk-state",
+     "grounds": "compound denoting resulting state",
+     "morph": "compound: takra+avasthā, f.nom.sg"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-ascertained",
+     "grounds": "present passive verb",
+     "morph": "3.sg.present-passive + nir-rūp"
+    }
+   ],
+   "question": "How is the state of buttermilk understood in relation to curd?",
+   "premises": [
+    "Curd can undergo transformation.",
+    "Buttermilk is a state arising from curd.",
+    "This resulting state is observed and ascertained."
+   ],
+   "inference": "Therefore the buttermilk state is ascertained as a transformation of curd.",
+   "uncertainties": [],
+   "plain_english": "And in the case of curd, like buttermilk, the state of buttermilk is ascertained there."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "sadavasthaṃ",
+     "gloss": "existing-state",
+     "grounds": "compound describing enduring entity",
+     "morph": "compound: sat+avastha, n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphasizing continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastvekaṃ",
+     "gloss": "one-thing",
+     "grounds": "compound asserting identity",
+     "morph": "compound: vastu+eka, n.nom.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverbial temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "first state in sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "later state in sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What remains identical through the successive states of milk and curd?",
+   "premises": [
+    "Milk and curd are successive states.",
+    "An existing entity persists through these states.",
+    "The same one thing appears first as milk and then as curd."
+   ],
+   "inference": "Therefore one existing thing persists through the states of milk and curd.",
+   "uncertainties": [],
+   "plain_english": "Indeed one existing thing is first milk and then curd."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "vistareṇa",
+     "gloss": "in-detail",
+     "grounds": "instrumental indicating manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "darśitaḥ",
+     "gloss": "shown",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.past-passive-participle + dṛś"
+    }
+   ],
+   "question": "How has the preceding account of transformation been presented?",
+   "premises": [
+    "The topic of transformation has been discussed.",
+    "The discussion was not merely brief.",
+    "It was presented in detail."
+   ],
+   "inference": "Therefore the account has been shown in detail.",
+   "uncertainties": [],
+   "plain_english": "This has been shown in detail."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "tattvatāttvikabhāvānām",
+     "gloss": "of-tattva-and-tāttvika-states",
+     "grounds": "compound genitive plural",
+     "morph": "compound: tattva+tāttvika+bhāva, m.gen.pl"
+    },
+    {
+     "surface": "upādānam",
+     "gloss": "material-cause",
+     "grounds": "subject of predication",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anaśvaram",
+     "gloss": "imperishable",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of material cause underlies the tattvas and their derivative states?",
+   "premises": [
+    "The tattvas and tāttvika states are produced realities.",
+    "Produced realities require a material cause.",
+    "Their material cause must be imperishable."
+   ],
+   "inference": "Therefore the material cause of tattvas and tāttvika states is imperishable.",
+   "uncertainties": [],
+   "plain_english": "The material cause of the tattvas and tāttvika states is imperishable."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "ghṛtakīṭa",
+     "gloss": "ghee-worm",
+     "grounds": "first member of analogy compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nyāyena",
+     "gloss": "by-analogy",
+     "grounds": "instrumental indicating reasoning method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ekadeśenaiva",
+     "gloss": "by-one-part-alone",
+     "grounds": "emphatic instrumental with eva",
+     "morph": "compound: eka+deśa, m.inst.sg + eva"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "subject undergoing transformation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pariṇamata",
+     "gloss": "transforms",
+     "grounds": "present middle participle or verb form in context",
+     "morph": "3.sg.present-middle + pari-ṇam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adoṣaḥ",
+     "gloss": "no-fault",
+     "grounds": "states absence of defect",
+     "morph": "compound: a+doṣa, m.nom.sg"
+    }
+   ],
+   "question": "Why is Māyā's transformation not a defect in its imperishable nature?",
+   "premises": [
+    "Māyā is the imperishable material cause.",
+    "Transformation can occur in only a part of a whole.",
+    "The ghee-worm analogy illustrates partial transformation."
+   ],
+   "inference": "Therefore Māyā transforms by one part alone and there is no fault.",
+   "uncertainties": [
+    "pariṇamata taken as finite verb in context"
+   ],
+   "plain_english": "By the analogy of the ghee-worm, Māyā transforms by one part alone; thus there is no fault."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "negated candidate cause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvaro",
+     "gloss": "lord",
+     "grounds": "negated candidate cause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṇur",
+     "gloss": "individual-self",
+     "grounds": "negated candidate cause; aṇu as individual self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "negated candidate cause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śuddhavartmanaḥ",
+     "gloss": "of-pure-path",
+     "grounds": "genitive delimiting scope",
+     "morph": "compound: śuddha+vartman, n.gen.sg"
+    }
+   ],
+   "question": "Which entities are excluded as material causes of the pure path?",
+   "premises": [
+    "The pure path requires a specific account of causation.",
+    "Māyā, the Lord, the individual self, and power are considered as candidates.",
+    "None of these serve as the material cause of the pure path."
+   ],
+   "inference": "Therefore Māyā, the Lord, the individual self, and power are not the material cause of the pure path.",
+   "uncertainties": [],
+   "plain_english": "Neither Māyā, nor the Lord, nor the individual self, nor power is the material cause of the pure path."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "tathāhi",
+     "gloss": "for-thus",
+     "grounds": "indeclinable introducing explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "subject being agitated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive referring to produced entities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kṣobhitā'",
+     "gloss": "agitated",
+     "grounds": "past passive participle, sandhi before nantatejasā",
+     "morph": "f.nom.sg.past-passive-participle + kṣubh"
+    },
+    {
+     "surface": "nantatejasā",
+     "gloss": "by-infinite-energy",
+     "grounds": "instrumental compound naming agent's power",
+     "morph": "compound: ananta+tejas, n.inst.sg"
+    }
+   ],
+   "question": "By whose infinite energy is Māyā agitated to produce those entities?",
+   "premises": [
+    "Māyā is involved in the production of those entities.",
+    "Māyā requires agitation to function as material cause.",
+    "This agitation is effected by infinite energy."
+   ],
+   "inference": "Therefore Māyā is agitated by one possessing infinite energy.",
+   "uncertainties": [],
+   "plain_english": "For that Māyā of them is agitated by one of infinite energy."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "predicate identifying the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is identified as the agent possessing the infinite energy that agitates Māyā?",
+   "premises": [
+    "Māyā is agitated by infinite energy.",
+    "Such agency belongs to a lordly being.",
+    "That being is identified as the Lord."
+   ],
+   "inference": "Therefore the agent is the Lord.",
+   "uncertainties": [],
+   "plain_english": "Thus, it is the Lord."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "aviśuddhajaḍatvena",
+     "gloss": "by-impure-inertness",
+     "grounds": "instrumental of reason",
+     "morph": "compound: aviśuddha+jaḍatva, n.inst.sg"
+    },
+    {
+     "surface": "māyāmārgatayā",
+     "gloss": "by-belonging-to-māyā-path",
+     "grounds": "instrumental of reason",
+     "morph": "compound: māyā+mārga+tā, f.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable continuing reasons",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What characteristics place certain realities within the impure Māyā path?",
+   "premises": [
+    "Some realities are impure and inert.",
+    "Such realities belong to the path of Māyā.",
+    "These characteristics distinguish them from the pure path."
+   ],
+   "inference": "Therefore impurity, inertness, and belonging to the Māyā path characterize these realities.",
+   "uncertainties": [],
+   "plain_english": "Because of being impure and inert, and likewise because of belonging to the path of Māyā."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "sakalāṇūpabhogyatvāt",
+     "gloss": "from-being-experienced-by-bound-selves",
+     "grounds": "ablative of reason; aṇu as individual self",
+     "morph": "compound: sakala+aṇu+upabhogya+tva, n.abl.sg"
+    },
+    {
+     "surface": "pariṇāmodayair",
+     "gloss": "by-transformations-and-such",
+     "grounds": "instrumental plural indicating processes",
+     "morph": "compound: pariṇāma+udaya, m.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are transformation and related processes associated with objects of bound selves?",
+   "premises": [
+    "Certain realities are experienced by bound individual selves.",
+    "Objects of such experience undergo transformation and arising.",
+    "These processes mark their conditioned nature."
+   ],
+   "inference": "Therefore transformation and arising belong to what is experienced by bound selves.",
+   "uncertainties": [],
+   "plain_english": "Because they are to be experienced by bound individual selves, and also because of transformations and the like."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "niṣpādane",
+     "gloss": "in-production",
+     "grounds": "locative indicating context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kalādīnāṃ",
+     "gloss": "of-kalā-and-others",
+     "grounds": "genitive plural of produced principles",
+     "morph": "compound: kalā+ādi, f.gen.pl"
+    },
+    {
+     "surface": "śarīrādisamanvitam",
+     "gloss": "endowed-with-body-and-others",
+     "grounds": "compound describing result",
+     "morph": "compound: śarīra+ādi+samanvita, n.acc.sg"
+    }
+   ],
+   "question": "What accompanies the production of kalā and the other principles?",
+   "premises": [
+    "Kalā and other principles are produced.",
+    "Their production involves embodied conditions.",
+    "Bodies and related factors are included in that production."
+   ],
+   "inference": "Therefore the production of kalā and others is accompanied by body and related factors.",
+   "uncertainties": [],
+   "plain_english": "In the production of kalā and the others, it is endowed with body and so forth."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "suvarṇam",
+     "gloss": "gold",
+     "grounds": "object in analogy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "indeclinable particle of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāraṃ",
+     "gloss": "blacksmith",
+     "grounds": "agent in analogy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "makuṭotpādakarmaṇi",
+     "gloss": "in-crown-making-act",
+     "grounds": "locative compound describing activity",
+     "morph": "compound: makuṭa+utpāda+karman, n.loc.sg"
+    }
+   ],
+   "question": "What analogy illustrates the agent's role in shaping material into a product?",
+   "premises": [
+    "A material can be shaped into a product.",
+    "A blacksmith shapes gold into a crown.",
+    "This illustrates an agent acting on material."
+   ],
+   "inference": "Therefore the blacksmith shaping gold into a crown serves as the analogy.",
+   "uncertainties": [],
+   "plain_english": "Like a blacksmith with gold in the act of producing a crown."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "kṣobhyate'",
+     "gloss": "is-agitated",
+     "grounds": "present passive verb, sandhi before nantanāthena",
+     "morph": "3.sg.present-passive + kṣubh"
+    },
+    {
+     "surface": "nantanāthena",
+     "gloss": "by-lord-ananta",
+     "grounds": "instrumental agent",
+     "morph": "compound: ananta+nātha, m.inst.sg"
+    },
+    {
+     "surface": "kumbhakāreṇa",
+     "gloss": "by-potter",
+     "grounds": "instrumental agent in analogy",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mṛd",
+     "gloss": "clay",
+     "grounds": "subject/material being agitated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable introducing analogy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does Lord Ananta's agitation of Māyā resemble a potter working with clay?",
+   "premises": [
+    "Māyā is agitated by Lord Ananta.",
+    "Clay is agitated by a potter.",
+    "Both cases involve an agent acting on a material cause."
+   ],
+   "inference": "Therefore Lord Ananta agitates Māyā as a potter agitates clay.",
+   "uncertainties": [],
+   "plain_english": "It is agitated by Lord Ananta, as clay is by a potter."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "savikalpajñāna",
+     "gloss": "of-conceptual-knowledge",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viṣaya",
+     "gloss": "object",
+     "grounds": "middle member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "indeclinable emphasizing restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarīriṇāṃ",
+     "gloss": "of-embodied-beings",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kartṛtvaṃ",
+     "gloss": "agency",
+     "grounds": "subject of observation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭam",
+     "gloss": "is-seen",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.past-passive-participle + dṛś"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "states intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Within what cognitive domain is agency observed in embodied beings?",
+   "premises": [
+    "Embodied beings exhibit agency.",
+    "Agency is observed in relation to conceptual knowledge.",
+    "This observation is restricted to objects of conceptual knowledge."
+   ],
+   "inference": "Therefore the agency of embodied beings is seen only in the domain of conceptual knowledge.",
+   "uncertainties": [],
+   "plain_english": "The agency of embodied beings is seen only with regard to objects of conceptual knowledge; such is the meaning."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdaś",
+     "gloss": "sound",
+     "grounds": "subject, sandhi form of śabdaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāg",
+     "gloss": "speech",
+     "grounds": "appositional noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaikharyādi",
+     "gloss": "beginning-with-vaikharī",
+     "grounds": "compound indicating first division",
+     "morph": "compound: vaikharī+ādi, f.nom.sg"
+    },
+    {
+     "surface": "vibhedataḥ",
+     "gloss": "by-division",
+     "grounds": "ablative indicating basis of classification",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Into how many divisions is speech classified beginning with vaikharī?",
+   "premises": [
+    "Sound is identified with speech in this context.",
+    "Speech is analyzed by division.",
+    "The division beginning with vaikharī is fourfold."
+   ],
+   "inference": "Therefore that sound, as speech, is fourfold by division beginning with vaikharī.",
+   "uncertainties": [],
+   "plain_english": "But that sound, as speech, is fourfold by division, beginning with vaikharī and so on."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable locating context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdopādānatvena",
+     "gloss": "by-being-material-cause-of-sound",
+     "grounds": "instrumental of reason",
+     "morph": "compound: śabda+upādāna+tva, n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindusiddhiḥ",
+     "gloss": "establishment-of-bindu",
+     "grounds": "subject of conclusion",
+     "morph": "compound: bindu+siddhi, f.nom.sg"
+    }
+   ],
+   "question": "What establishes bindu in relation to sound as its material cause?",
+   "premises": [
+    "Sound requires a material cause.",
+    "Bindu is proposed as that material cause.",
+    "This role establishes bindu in that context."
+   ],
+   "inference": "Therefore bindu is established as the material cause of sound.",
+   "uncertainties": [],
+   "plain_english": "There, by being the material cause of sound, bindu is also established."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "vidyāśarīro",
+     "gloss": "knowledge-bodied",
+     "grounds": "compound adjective, sandhi form",
+     "morph": "compound: vidyā+śarīra, m.nom.sg"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "lord",
+     "grounds": "honorific noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anantaḥ",
+     "gloss": "ananta",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣobhako",
+     "gloss": "agitator",
+     "grounds": "agent noun, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "is-regarded",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.past-passive-participle + man"
+    }
+   ],
+   "question": "Who is regarded as the knowledge-bodied agitator in this account?",
+   "premises": [
+    "An agitator is required in the process described.",
+    "This agitator is characterized as knowledge-bodied.",
+    "Lord Ananta is identified with this role."
+   ],
+   "inference": "Therefore Lord Ananta is regarded as the knowledge-bodied agitator.",
+   "uncertainties": [],
+   "plain_english": "Lord Ananta, whose body is knowledge, is regarded as the agitator."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "indeclinable indicating conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyopādānaṃ",
+     "gloss": "māyā-as-material-cause",
+     "grounds": "compound predicate",
+     "morph": "compound: māyā+upādāna, n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable with emphasis",
+     "morph": "(indecl.) + eva"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "subject of predication",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is this great lord not considered the material cause constituted by Māyā?",
+   "premises": [
+    "Lord Ananta has been identified as the agitator.",
+    "An agitator is distinct from the material cause.",
+    "Māyā functions as the material cause in this context."
+   ],
+   "inference": "Therefore this great lord is not the material cause that is Māyā.",
+   "uncertainties": [],
+   "plain_english": "Therefore this great lord is likewise not the material cause that is Māyā."
+  }
+ ]
+}

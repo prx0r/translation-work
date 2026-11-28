@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or duty",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "pronoun indicating an alternative",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or delimitation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the determination",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "vyavasthā",
+     "gloss": "determination",
+     "grounds": "fixed arrangement or rule",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yantraṇā+ākṛtiḥ",
+     "gloss": "restraint-form",
+     "grounds": "compound: yantraṇā (restraint) + ākṛtiḥ (form, nature)",
+     "morph": "compound: yantraṇā+ākṛtiḥ.f.nom.sg"
+    }
+   ],
+   "question": "What restrictive nature defines the determination that nothing else is to be done?",
+   "premises": [
+    "A determination asserts that nothing other is to be done.",
+    "Such a determination fixes the scope of possible action.",
+    "This fixing takes the form of restraint."
+   ],
+   "inference": "The determination limiting action to what must be done is inherently a form of restraint.",
+   "uncertainties": [
+    "The precise referent of the determination depends on the preceding doctrinal context."
+   ],
+   "plain_english": "The determination that nothing else is to be done has the nature of restraint."
+  }
+ ]
+}

@@ -1,0 +1,843 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1751,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "locative adverbial sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasminsthale",
+     "gloss": "in-that-place",
+     "grounds": "compound locative",
+     "morph": "compound:tasmin+sthale"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "absolutive of sthā",
+     "morph": "abs. (sthā)"
+    },
+    {
+     "surface": "savyapādapurassaram",
+     "gloss": "with-left-foot-forward",
+     "grounds": "compound adverbial",
+     "morph": "compound:savya-pāda-purassaram"
+    }
+   ],
+   "question": "What initial posture and placement must be adopted before proceeding with the prescribed ritual action?",
+   "premises": [
+    "The action begins at first.",
+    "One must stand in that place.",
+    "One must stand with the left foot forward."
+   ],
+   "inference": "The prescribed procedure requires standing first in that place with the left foot forward.",
+   "uncertainties": [],
+   "plain_english": "First, standing in that place with the left foot forward."
+  },
+  {
+   "verse": 1752,
+   "rows": [
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object of designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyevamākhyātaṃ",
+     "gloss": "indeed-thus-called",
+     "grounds": "sandhi hi+evam; past participle",
+     "morph": "compound:hi+evam+ākhyātam"
+    },
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gateway-tower",
+     "grounds": "object to be heard about",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative of śru",
+     "morph": "2.sg.imp.act (śru)"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "o-good-vowed-one",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What structure is named as the pavilion and what next topic is the listener asked to hear?",
+   "premises": [
+    "The pavilion is thus called.",
+    "The listener is addressed as good-vowed one.",
+    "The listener is asked to hear about the gateway-tower."
+   ],
+   "inference": "After naming the pavilion, the text directs the listener to hear about the gateway-tower.",
+   "uncertainties": [],
+   "plain_english": "Thus the pavilion is named; now hear about the gateway-tower, O good-vowed one."
+  },
+  {
+   "verse": 1753,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-radiant-kashyapa",
+     "grounds": "colophon locative phrase",
+     "morph": "compound:iti+aṃśumān+kāśyape"
+    },
+    {
+     "surface": "maṇṭapalakṣaṇavidhipaṭalaḥ",
+     "gloss": "chapter-on-pavilion-rules",
+     "grounds": "title compound",
+     "morph": "compound:maṇṭapa-lakṣaṇa-vidhi-paṭalaḥ"
+    },
+    {
+     "surface": "tricatvāriṃśaḥ",
+     "gloss": "forty-third",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the radiant Kashyapa scripture concludes with the rules on pavilion characteristics?",
+   "premises": [
+    "The text refers to the radiant Kashyapa scripture.",
+    "The chapter concerns rules on pavilion characteristics.",
+    "This chapter is the forty-third."
+   ],
+   "inference": "The forty-third chapter on pavilion characteristics concludes in the radiant Kashyapa scripture.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the forty-third chapter, on the rules for the characteristics of the pavilion, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1754,
+   "rows": [
+    {
+     "surface": "antarmaṇḍala",
+     "gloss": "inner-enclosure",
+     "grounds": "compound topic",
+     "morph": "compound:antar-maṇḍala"
+    },
+    {
+     "surface": "sālādistvadhunā",
+     "gloss": "hall-and-others-now",
+     "grounds": "sandhi sālādiḥ+tu+adhunā",
+     "morph": "compound:sālā-ādiḥ+tu+adhunā"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "passive present of pra-vac",
+     "morph": "3.sg.pres.pass (pra-vac)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of architectural elements beginning with the inner enclosure and halls is now to be declared?",
+   "premises": [
+    "The inner enclosure and halls are the topics.",
+    "They are now being declared.",
+    "The declaration proceeds in order."
+   ],
+   "inference": "The text now declares the inner enclosure, halls, and related elements in sequence.",
+   "uncertainties": [],
+   "plain_english": "Now the inner enclosure, the halls, and so forth are declared in order."
+  },
+  {
+   "verse": 1755,
+   "rows": [
+    {
+     "surface": "dvāragopura",
+     "gloss": "gate-and-gateway-tower",
+     "grounds": "compound subject",
+     "morph": "compound:dvāra-gopura"
+    },
+    {
+     "surface": "ityete",
+     "gloss": "thus-these",
+     "grounds": "demonstrative designation",
+     "morph": "compound:iti+ete"
+    },
+    {
+     "surface": "kramānnāmnā",
+     "gloss": "in-order-by-name",
+     "grounds": "sandhi kramāt+nāmnā",
+     "morph": "compound:kramāt+nāmnā"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "are-proclaimed",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the gate and gateway-tower identified and proclaimed within the ordered sequence?",
+   "premises": [
+    "The gate and gateway-tower are referred to.",
+    "They are these elements.",
+    "They are proclaimed in order by name."
+   ],
+   "inference": "The gate and gateway-tower are proclaimed in order by their names.",
+   "uncertainties": [],
+   "plain_english": "These, the gate and the gateway-tower, are proclaimed in order by name."
+  },
+  {
+   "verse": 1756,
+   "rows": [
+    {
+     "surface": "dvibhūmirvā",
+     "gloss": "two-storied-or",
+     "grounds": "sandhi dvibhūmiḥ+vā",
+     "morph": "compound:dvibhūmiḥ+vā"
+    },
+    {
+     "surface": "tribhūmirvā",
+     "gloss": "three-storied-or",
+     "grounds": "sandhi tribhūmiḥ+vā",
+     "morph": "compound:tribhūmiḥ+vā"
+    },
+    {
+     "surface": "caturbhūmirathāpi",
+     "gloss": "four-storied-or-also",
+     "grounds": "sandhi caturbhūmiḥ+atha+api",
+     "morph": "compound:caturbhūmiḥ+atha+api"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative numbers of stories are permitted for the structure under discussion?",
+   "premises": [
+    "A two-storied form is allowed.",
+    "A three-storied form is allowed.",
+    "A four-storied form is also allowed."
+   ],
+   "inference": "The structure may be built with two, three, or four stories.",
+   "uncertainties": [],
+   "plain_english": "It may be two-storied, or three-storied, or even four-storied."
+  },
+  {
+   "verse": 1757,
+   "rows": [
+    {
+     "surface": "tricatuṣpaṃcabhūmirvā",
+     "gloss": "three-four-five-storied-or",
+     "grounds": "sandhi tricatuṣpaṃcabhūmiḥ+vā",
+     "morph": "compound:tri-catuṣ-paṃca-bhūmiḥ+vā"
+    },
+    {
+     "surface": "dvāraprāsādamārabhet",
+     "gloss": "should-begin-gate-shrine",
+     "grounds": "sandhi dvāraprāsādam+ārabhet",
+     "morph": "compound:dvāra-prāsādam+ārabhet"
+    }
+   ],
+   "question": "How many stories may the gate-shrine have when one begins its construction?",
+   "premises": [
+    "The gate-shrine is to be begun.",
+    "It may have three stories.",
+    "It may have four or five stories."
+   ],
+   "inference": "One should begin the gate-shrine with three, four, or five stories.",
+   "uncertainties": [],
+   "plain_english": "One should begin the gate-shrine as three-, four-, or five-storied."
+  },
+  {
+   "verse": 1758,
+   "rows": [
+    {
+     "surface": "paṃcaṣaṭsaptabhūmirvā",
+     "gloss": "five-six-seven-storied-or",
+     "grounds": "sandhi paṃcaṣaṭsaptabhūmiḥ+vā",
+     "morph": "compound:paṃca-ṣaṭ-sapta-bhūmiḥ+vā"
+    },
+    {
+     "surface": "dvāragopuramiṣyate",
+     "gloss": "gate-tower-is-desired",
+     "grounds": "sandhi dvāragopuram+iṣyate",
+     "morph": "compound:dvāra-gopuram+iṣyate"
+    }
+   ],
+   "question": "What range of story counts is prescribed for the gate-tower structure?",
+   "premises": [
+    "The gate-tower is the subject.",
+    "It may be five-storied.",
+    "It may be six- or seven-storied."
+   ],
+   "inference": "The gate-tower is desired to be five, six, or seven stories high.",
+   "uncertainties": [],
+   "plain_english": "The gate-tower is desired to be five-, six-, or seven-storied."
+  },
+  {
+   "verse": 1759,
+   "rows": [
+    {
+     "surface": "sopapīṭhamadhiṣṭhānaṃ",
+     "gloss": "base-with-platform",
+     "grounds": "compound noun",
+     "morph": "compound:sa-upapīṭham+adhiṣṭhānam"
+    },
+    {
+     "surface": "vinā+vādupapīṭhakam",
+     "gloss": "without-or-with-platform",
+     "grounds": "sandhi vinā+vā+upapīṭhakam",
+     "morph": "compound:vinā+vā+upapīṭhakam"
+    }
+   ],
+   "question": "Whether the base of the structure must include a platform or may omit it?",
+   "premises": [
+    "The base may include a platform.",
+    "The base may be without a platform.",
+    "Both options are presented as alternatives."
+   ],
+   "inference": "The base may be constructed either with or without a platform.",
+   "uncertainties": [],
+   "plain_english": "The base may be with a platform, or without a platform."
+  },
+  {
+   "verse": 1760,
+   "rows": [
+    {
+     "surface": "mūlaprāsādavistāraṃ",
+     "gloss": "main-shrine-width",
+     "grounds": "compound object",
+     "morph": "compound:mūla-prāsāda-vistāram"
+    },
+    {
+     "surface": "saptāṣṭanavabhājite",
+     "gloss": "divided-into-seven-eight-nine",
+     "grounds": "locative compound",
+     "morph": "compound:sapta-aṣṭa-nava-bhājite"
+    }
+   ],
+   "question": "Into how many parts should the width of the main shrine be divided for measurement?",
+   "premises": [
+    "The width of the main shrine is taken as the measure.",
+    "It is divided into parts.",
+    "The divisions are seven, eight, or nine."
+   ],
+   "inference": "The main shrine's width should be divided into seven, eight, or nine parts.",
+   "uncertainties": [],
+   "plain_english": "Divide the width of the main shrine into seven, eight, or nine parts."
+  },
+  {
+   "verse": 1761,
+   "rows": [
+    {
+     "surface": "śobhādi+gopurāntānāṃ",
+     "gloss": "from-shobha-to-gopura",
+     "grounds": "genitive plural compound range",
+     "morph": "compound:śobhā-ādi+gopura-antānām"
+    },
+    {
+     "surface": "vipulaṃ",
+     "gloss": "breadth",
+     "grounds": "subject of proclamation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kīrtitaṃ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the breadth of structures from the shobha to the gopura to be determined?",
+   "premises": [
+    "The structures range from shobha to gopura.",
+    "Their breadth is proclaimed.",
+    "The proclamation follows an order."
+   ],
+   "inference": "The breadth of structures from shobha to gopura is proclaimed in due order.",
+   "uncertainties": [
+    "Exact identification of śobhā as a specific structure type is context-dependent."
+   ],
+   "plain_english": "The breadth of the structures from the shobha to the gopura is proclaimed in order."
+  },
+  {
+   "verse": 1762,
+   "rows": [
+    {
+     "surface": "mūlālayaviśālaṃ",
+     "gloss": "main-shrine-breadth",
+     "grounds": "compound object",
+     "morph": "compound:mūla-ālaya-viśālam"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpaṃcaṣaḍaṃśake",
+     "gloss": "in-four-five-six-parts",
+     "grounds": "locative compound",
+     "morph": "compound:catuṣ-paṃca-ṣaḍ-aṃśake"
+    }
+   ],
+   "question": "Into what alternative sets of parts may the breadth of the main shrine be divided?",
+   "premises": [
+    "The breadth of the main shrine is considered.",
+    "It may be divided into four parts.",
+    "It may be divided into five or six parts."
+   ],
+   "inference": "The main shrine's breadth may be divided into four, five, or six parts.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the main shrine may be divided into four, five, or six parts."
+  },
+  {
+   "verse": 1763,
+   "rows": [
+    {
+     "surface": "mūlagehatribhāgaikaṃ",
+     "gloss": "one-third-of-main-house",
+     "grounds": "compound measure",
+     "morph": "compound:mūla-geha-tri-bhāga-ekam"
+    },
+    {
+     "surface": "bhāgamardhāṃśameva+vā",
+     "gloss": "part-or-half-part",
+     "grounds": "sandhi bhāgam+ardhāṃśam+eva+vā",
+     "morph": "compound:bhāgam+ardha-aṃśam+eva+vā"
+    }
+   ],
+   "question": "What proportional measures relative to the main house are allowed for the given part?",
+   "premises": [
+    "One third of the main house is a possible measure.",
+    "A half part is also possible.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The measure may be one third of the main house or a half part.",
+   "uncertainties": [
+    "The exact referent of bhāgam in this compressed rule is context-dependent."
+   ],
+   "plain_english": "Take one third of the main house, or else a half part."
+  },
+  {
+   "verse": 1764,
+   "rows": [
+    {
+     "surface": "paṃcabhāge+tu",
+     "gloss": "in-five-parts-indeed",
+     "grounds": "locative with particle",
+     "morph": "compound:paṃca-bhāge+tu"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "veda as four",
+     "morph": "compound:veda-aṃśam"
+    },
+    {
+     "surface": "sāleṣu+prathamādiṣu",
+     "gloss": "in-first-halls-and-others",
+     "grounds": "locative plural compound",
+     "morph": "compound:sāleṣu+prathama-ādiṣu"
+    }
+   ],
+   "question": "What proportion is assigned to the first halls when the whole is divided into five parts?",
+   "premises": [
+    "The whole is divided into five parts.",
+    "The halls beginning with the first are considered.",
+    "Four parts are assigned."
+   ],
+   "inference": "When divided into five parts, the first halls receive four parts.",
+   "uncertainties": [],
+   "plain_english": "When divided into five parts, assign four parts to the first halls and so on."
+  },
+  {
+   "verse": 1765,
+   "rows": [
+    {
+     "surface": "kalpyaivaṃ+harmyamānaṃ",
+     "gloss": "thus-fix-building-measure",
+     "grounds": "sandhi kalpya+evam+harmya-mānam",
+     "morph": "compound:kalpya+evam+harmya-mānam"
+    },
+    {
+     "surface": "syāddhastamānavaśāttataḥ",
+     "gloss": "then-by-cubit-measure",
+     "grounds": "sandhi syāt+hasta-māna-vaśāt+tataḥ",
+     "morph": "compound:syāt+hasta-māna-vaśāt+tataḥ"
+    }
+   ],
+   "question": "By what standard should the building's measure be fixed after the proportional calculation?",
+   "premises": [
+    "The building measure is to be fixed thus.",
+    "The fixing follows the proportional scheme.",
+    "It should be determined by cubit measure."
+   ],
+   "inference": "After fixing proportions, the building measure should be determined in cubits.",
+   "uncertainties": [],
+   "plain_english": "Having fixed the building's measure in this way, it should then be determined according to cubit measure."
+  },
+  {
+   "verse": 1766,
+   "rows": [
+    {
+     "surface": "śobhādi+gopurāntānāṃ",
+     "gloss": "from-shobha-to-gopura",
+     "grounds": "genitive plural compound range",
+     "morph": "compound:śobhā-ādi+gopura-antānām"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distributive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tritribhedakam",
+     "gloss": "threefold-threefold-division",
+     "grounds": "compound indicating divisions",
+     "morph": "compound:tri-tri-bhedakam"
+    }
+   ],
+   "question": "How many subdivisions are prescribed for each structure from the shobha to the gopura?",
+   "premises": [
+    "The structures range from shobha to gopura.",
+    "Each structure is considered separately.",
+    "Each has a threefold threefold division."
+   ],
+   "inference": "Each structure from shobha to gopura is prescribed with threefold subdivisions.",
+   "uncertainties": [
+    "The exact sense of tritribhedakam may indicate three sets of three types."
+   ],
+   "plain_english": "For each structure from the shobha to the gopura, there is a threefold division in three ways."
+  },
+  {
+   "verse": 1767,
+   "rows": [
+    {
+     "surface": "guṇahastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "guṇa as three",
+     "morph": "compound:guṇa-hastam"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive of sam-ā-rabh",
+     "morph": "abs. (sam-ā-rabh)"
+    },
+    {
+     "surface": "saptādaśakarāvadhi",
+     "gloss": "up-to-seventeen-cubits",
+     "grounds": "compound limit",
+     "morph": "compound:saptādaśa-kara-avadhi"
+    }
+   ],
+   "question": "What is the prescribed range of cubit measurements starting from three cubits in this rule?",
+   "premises": [
+    "The measurement begins at three cubits.",
+    "The range extends upward.",
+    "The upper limit is seventeen cubits."
+   ],
+   "inference": "The prescribed range runs from three cubits up to seventeen cubits.",
+   "uncertainties": [],
+   "plain_english": "Beginning from three cubits, up to a limit of seventeen cubits."
+  },
+  {
+   "verse": 1768,
+   "rows": [
+    {
+     "surface": "caturhastaṃ",
+     "gloss": "four-cubits",
+     "grounds": "compound measure",
+     "morph": "compound:catur-hastam"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive of sam-ā-rabh",
+     "morph": "abs. (sam-ā-rabh)"
+    },
+    {
+     "surface": "yāvadaṣṭadaśaiḥ+karaiḥ",
+     "gloss": "up-to-eighteen-cubits",
+     "grounds": "sandhi yāvat+aṣṭadaśaiḥ+karaiḥ",
+     "morph": "compound:yāvat+aṣṭadaśaiḥ+karaiḥ"
+    }
+   ],
+   "question": "What alternative cubit range is specified beginning from four cubits?",
+   "premises": [
+    "The measurement begins at four cubits.",
+    "The range extends upward.",
+    "The upper limit is eighteen cubits."
+   ],
+   "inference": "An alternative range runs from four cubits up to eighteen cubits.",
+   "uncertainties": [],
+   "plain_english": "Beginning from four cubits, up to eighteen cubits."
+  },
+  {
+   "verse": 1769,
+   "rows": [
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "distributive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tritridhā+mānaṃ",
+     "gloss": "threefold-measure",
+     "grounds": "sandhi tritridhā+mānam",
+     "morph": "compound:tri-tridhā+mānam"
+    },
+    {
+     "surface": "chandaṃ",
+     "gloss": "optional-measure",
+     "grounds": "technical term for optional dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃcavidhaṃ",
+     "gloss": "fivefold",
+     "grounds": "compound adjective",
+     "morph": "compound:paṃca-vidham"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "How many optional measurement varieties are established for each case in this scheme?",
+   "premises": [
+    "Each case has a threefold measure.",
+    "An optional measure is specified.",
+    "The optional measure should be fivefold."
+   ],
+   "inference": "Each case should have a threefold measure with a fivefold optional variety.",
+   "uncertainties": [
+    "The technical distinction between māna and chanda follows architectural convention."
+   ],
+   "plain_english": "For each, the measure is threefold, and the optional measure should be fivefold."
+  },
+  {
+   "verse": 1770,
+   "rows": [
+    {
+     "surface": "svasvoditaḥ",
+     "gloss": "as-prescribed-for-each",
+     "grounds": "sandhi svasva+uditaḥ",
+     "morph": "compound:sva-sva+uditaḥ"
+    },
+    {
+     "surface": "prakartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "gerundive of pra-kṛ",
+     "morph": "n.nom.sg.gerundive (pra-kṛ)"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "reverse",
+     "grounds": "contrary action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipatkaram",
+     "gloss": "bringing-misfortune",
+     "grounds": "compound adjective",
+     "morph": "compound:vipat-karam"
+    }
+   ],
+   "question": "What consequence follows from reversing the measurements prescribed for each structure?",
+   "premises": [
+    "Each should be made as prescribed for it.",
+    "The reverse is the opposite of that prescription.",
+    "The reverse brings misfortune."
+   ],
+   "inference": "One must follow the prescribed measures, because reversing them brings misfortune.",
+   "uncertainties": [],
+   "plain_english": "Each should be made as prescribed for it; the reverse brings misfortune."
+  },
+  {
+   "verse": 1771,
+   "rows": [
+    {
+     "surface": "daśaikādaśahastaṃ",
+     "gloss": "ten-eleven-cubits",
+     "grounds": "compound measure",
+     "morph": "compound:daśa-ekādaśa-hastam"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhamāditrayaṃ",
+     "gloss": "lowest-and-other-three",
+     "grounds": "compound group",
+     "morph": "compound:adhama-ādi-trayam"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "three",
+     "grounds": "numeral noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What cubit measures define the three lowest grades in this classification?",
+   "premises": [
+    "A group of three grades is specified.",
+    "These are the lowest and the next two.",
+    "Their measures are ten and eleven cubits."
+   ],
+   "inference": "The three lowest grades are defined by measures of ten and eleven cubits.",
+   "uncertainties": [
+    "The distribution of ten and eleven cubits across the three grades is compressed."
+   ],
+   "plain_english": "Ten and eleven cubits form the three grades beginning with the lowest."
+  },
+  {
+   "verse": 1772,
+   "rows": [
+    {
+     "surface": "athavānyaprakāreṇa",
+     "gloss": "or-by-another-method",
+     "grounds": "sandhi athavā+anya-prakāreṇa",
+     "morph": "compound:athavā+anya-prakāreṇa"
+    },
+    {
+     "surface": "śobhādīnāṃ",
+     "gloss": "of-shobha-and-others",
+     "grounds": "genitive plural compound",
+     "morph": "compound:śobhā-ādīnām"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "width",
+     "grounds": "object noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By what alternative method may the width of the shobha and related structures be determined?",
+   "premises": [
+    "An alternative method is introduced.",
+    "The structures include shobha and others.",
+    "Their width is the subject."
+   ],
+   "inference": "The width of the shobha and related structures may also be determined by another method.",
+   "uncertainties": [],
+   "plain_english": "Or, by another method, the width of the shobha and the others may be determined."
+  },
+  {
+   "verse": 1773,
+   "rows": [
+    {
+     "surface": "trayodaśakarāntaṃ",
+     "gloss": "up-to-thirteen-cubits",
+     "grounds": "compound limit",
+     "morph": "compound:trayodaśa-kara-antam"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhāvyāsaṃ",
+     "gloss": "shobha-width",
+     "grounds": "compound object",
+     "morph": "compound:śobhā-vyāsam"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into how many varieties is the width of the shobha divided up to thirteen cubits?",
+   "premises": [
+    "The width of the shobha is considered.",
+    "The upper limit is thirteen cubits.",
+    "It is divided fivefold."
+   ],
+   "inference": "The width of the shobha, up to thirteen cubits, is divided into five varieties.",
+   "uncertainties": [],
+   "plain_english": "The width of the shobha, up to thirteen cubits, is fivefold."
+  },
+  {
+   "verse": 1774,
+   "rows": [
+    {
+     "surface": "trayoviṃśatkarāntaṃ",
+     "gloss": "up-to-twenty-three-cubits",
+     "grounds": "compound limit",
+     "morph": "compound:trayoviṃśat-kara-antam"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraśālā",
+     "gloss": "gate-hall",
+     "grounds": "compound subject",
+     "morph": "compound:dvāra-śālā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into how many varieties is the gate-hall width divided up to twenty-three cubits?",
+   "premises": [
+    "The gate-hall is considered.",
+    "The upper limit is twenty-three cubits.",
+    "It is divided fivefold."
+   ],
+   "inference": "The width of the gate-hall, up to twenty-three cubits, is divided into five varieties.",
+   "uncertainties": [],
+   "plain_english": "The gate-hall, up to twenty-three cubits, is fivefold."
+  }
+ ]
+}

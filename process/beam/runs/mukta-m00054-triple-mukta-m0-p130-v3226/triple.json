@@ -1,0 +1,696 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3226,
+   "rows": [
+    {
+     "surface": "ṛtavenamaḥ",
+     "gloss": "salutation-to-season",
+     "grounds": "dative salutation to ṛtu (season), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "sa/vvatsarāyanamaḥ",
+     "gloss": "salutation-to-year",
+     "grounds": "dative salutation to saṃvatsara (year), fused with namaḥ; slash marks internal sandhi",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "māsāyanamaḥ",
+     "gloss": "salutation-to-month",
+     "grounds": "dative salutation to māsa (month), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "Which cyclical time divisions are honored as divine forms?",
+   "premises": [
+    "The season receives salutation as a divine form.",
+    "The year receives salutation as a divine form.",
+    "The month receives salutation as a divine form."
+   ],
+   "inference": "Divine presence pervades the cyclical divisions of time from season to month.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the season, salutation to the year, salutation to the month."
+  },
+  {
+   "verse": 3227,
+   "rows": [
+    {
+     "surface": "pakṣāyanamaḥ",
+     "gloss": "salutation-to-fortnight",
+     "grounds": "dative salutation to pakṣa (fortnight), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "saṅkhyāsamāpanāyanamaḥ",
+     "gloss": "salutation-to-number-completion",
+     "grounds": "dative salutation to saṅkhyāsamāpana (completion of number), compound fused with namaḥ",
+     "morph": "compound (saṅkhyā+samāpana) m.dat.sg + indecl."
+    },
+    {
+     "surface": "kalāyainamaḥ",
+     "gloss": "salutation-to-instant",
+     "grounds": "dative salutation to kalā (small time unit), fused with namaḥ",
+     "morph": "f.dat.sg + indecl."
+    }
+   ],
+   "question": "How are smaller temporal units and numerical completion divinely honored?",
+   "premises": [
+    "The fortnight receives salutation as a divine form.",
+    "The completion of number receives salutation as a divine form.",
+    "The instant receives salutation as a divine form."
+   ],
+   "inference": "Divine presence extends to finer temporal units and the principle of numerical completion.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the fortnight, salutation to the completion of number, salutation to the instant."
+  },
+  {
+   "verse": 3228,
+   "rows": [
+    {
+     "surface": "kāṣṭhāyainamaḥ",
+     "gloss": "salutation-to-kāṣṭhā",
+     "grounds": "dative salutation to kāṣṭhā (a minute time unit), fused with namaḥ",
+     "morph": "f.dat.sg + indecl."
+    },
+    {
+     "surface": "lavebhyonamaḥ",
+     "gloss": "salutation-to-lavas",
+     "grounds": "dative plural salutation to lava (minute time units), fused with namaḥ",
+     "morph": "m.dat.pl + indecl."
+    },
+    {
+     "surface": "mātrābhyonamaḥ",
+     "gloss": "salutation-to-measures",
+     "grounds": "dative plural salutation to mātrā (measures), fused with namaḥ",
+     "morph": "f.dat.pl + indecl."
+    }
+   ],
+   "question": "Are the most minute measures of time recognized as divine?",
+   "premises": [
+    "The kāṣṭhā receives salutation as a divine form.",
+    "The lavas receive salutation as divine forms.",
+    "The measures receive salutation as divine forms."
+   ],
+   "inference": "Even the smallest measures of time are encompassed within the divine.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the kāṣṭhā, salutation to the lavas, salutation to the measures."
+  },
+  {
+   "verse": 3229,
+   "rows": [
+    {
+     "surface": "muhūrttāhaḥkṣapābhyonamaḥ",
+     "gloss": "salutation-to-muhūrta-day-night",
+     "grounds": "dative plural salutation to muhūrta, ahan (day), and kṣapā (night), compound fused with namaḥ",
+     "morph": "compound (muhūrta+ahaḥ+kṣapā) f.dat.pl + indecl."
+    },
+    {
+     "surface": "kṣaṇebhyonamaḥ",
+     "gloss": "salutation-to-moments",
+     "grounds": "dative plural salutation to kṣaṇa (moments), fused with namaḥ",
+     "morph": "m.dat.pl + indecl."
+    }
+   ],
+   "question": "Do daily cycles and fleeting moments partake in divine identity?",
+   "premises": [
+    "Muhūrtas, days, and nights receive salutation as divine forms.",
+    "Moments receive salutation as divine forms."
+   ],
+   "inference": "Both daily cycles and the briefest moments are honored as divine.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the muhūrtas, days, and nights, salutation to the moments."
+  },
+  {
+   "verse": 3230,
+   "rows": [
+    {
+     "surface": "ādyanirgamāyanamaḥ",
+     "gloss": "salutation-to-primal-emergence",
+     "grounds": "dative salutation to ādyanirgama (primal emergence), compound fused with namaḥ",
+     "morph": "compound (ādya+nirgama) m.dat.sg + indecl."
+    },
+    {
+     "surface": "satenamaḥ",
+     "gloss": "salutation-to-being",
+     "grounds": "dative salutation to sat (being/existence), fused with namaḥ",
+     "morph": "n.dat.sg + indecl."
+    },
+    {
+     "surface": "asatenamaḥ",
+     "gloss": "salutation-to-non-being",
+     "grounds": "dative salutation to asat (non-being), fused with namaḥ",
+     "morph": "n.dat.sg + indecl."
+    }
+   ],
+   "question": "How are primal emergence, being, and non-being affirmed as divine?",
+   "premises": [
+    "Primal emergence receives salutation as a divine form.",
+    "Being receives salutation as a divine form.",
+    "Non-being receives salutation as a divine form."
+   ],
+   "inference": "The divine encompasses the origin of manifestation as well as being and non-being.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the primal emergence, salutation to being, salutation to non-being."
+  },
+  {
+   "verse": 3231,
+   "rows": [
+    {
+     "surface": "vyaktāyanamaḥ",
+     "gloss": "salutation-to-manifest",
+     "grounds": "dative salutation to vyakta (manifest), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "avyaktāyanamaḥ",
+     "gloss": "salutation-to-unmanifest",
+     "grounds": "dative salutation to avyakta (unmanifest), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "pitrenamaḥ",
+     "gloss": "salutation-to-father",
+     "grounds": "dative salutation to pitṛ (father), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "Are manifest, unmanifest, and paternal principles identified with the divine?",
+   "premises": [
+    "The manifest receives salutation as a divine form.",
+    "The unmanifest receives salutation as a divine form.",
+    "The father receives salutation as a divine form."
+   ],
+   "inference": "The divine includes both manifest and unmanifest principles and the paternal source.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the manifest, salutation to the unmanifest, salutation to the father."
+  },
+  {
+   "verse": 3232,
+   "rows": [
+    {
+     "surface": "mātrenamaḥ",
+     "gloss": "salutation-to-mother",
+     "grounds": "dative salutation to mātṛ (mother), fused with namaḥ",
+     "morph": "f.dat.sg + indecl."
+    },
+    {
+     "surface": "pitāmahāyanamaḥ",
+     "gloss": "salutation-to-grandfather",
+     "grounds": "dative salutation to pitāmaha (grandfather), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "svargadvārāyanamaḥ",
+     "gloss": "salutation-to-heaven-door",
+     "grounds": "dative salutation to svargadvāra (door to heaven), compound fused with namaḥ",
+     "morph": "compound (svarga+dvāra) n.dat.sg + indecl."
+    }
+   ],
+   "question": "How are ancestral sources and the gateway to heaven divinely honored?",
+   "premises": [
+    "The mother receives salutation as a divine form.",
+    "The grandfather receives salutation as a divine form.",
+    "The door to heaven receives salutation as a divine form."
+   ],
+   "inference": "Divine identity extends to ancestral origins and the gateway to heavenly realms.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the mother, salutation to the grandfather, salutation to the door to heaven."
+  },
+  {
+   "verse": 3233,
+   "rows": [
+    {
+     "surface": "prajādvārāyanamaḥ",
+     "gloss": "salutation-to-progeny-door",
+     "grounds": "dative salutation to prajādvāra (door to progeny), compound fused with namaḥ",
+     "morph": "compound (prajā+dvāra) n.dat.sg + indecl."
+    },
+    {
+     "surface": "mokṣadvārāyanamaḥ",
+     "gloss": "salutation-to-liberation-door",
+     "grounds": "dative salutation to mokṣadvāra (door to liberation), compound fused with namaḥ",
+     "morph": "compound (mokṣa+dvāra) n.dat.sg + indecl."
+    }
+   ],
+   "question": "Which gateways to progeny and liberation are affirmed as divine?",
+   "premises": [
+    "The door to progeny receives salutation as a divine form.",
+    "The door to liberation receives salutation as a divine form."
+   ],
+   "inference": "The divine is the gateway to both worldly continuation and ultimate liberation.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the door to progeny, salutation to the door to liberation."
+  },
+  {
+   "verse": 3234,
+   "rows": [
+    {
+     "surface": "brahmalokāyanamaḥ",
+     "gloss": "salutation-to-brahma-world",
+     "grounds": "dative salutation to brahmaloka (world of Brahma), compound fused with namaḥ",
+     "morph": "compound (brahma+loka) m.dat.sg + indecl."
+    },
+    {
+     "surface": "parāgatayenamaḥ",
+     "gloss": "salutation-to-supreme-goal",
+     "grounds": "dative salutation to parāgati (supreme goal), compound fused with namaḥ",
+     "morph": "compound (parā+gati) f.dat.sg + indecl."
+    }
+   ],
+   "question": "How are the highest world and supreme goal identified with the divine?",
+   "premises": [
+    "The world of Brahma receives salutation as a divine form.",
+    "The supreme goal receives salutation as a divine form."
+   ],
+   "inference": "The divine encompasses both the highest cosmic realm and the ultimate destination.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the world of Brahma, salutation to the supreme goal."
+  },
+  {
+   "verse": 3235,
+   "rows": [
+    {
+     "surface": "devāsuravinirmātrenamaḥ",
+     "gloss": "salutation-to-god-asura-creator",
+     "grounds": "dative salutation to devāsuravinirmātṛ (creator of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+vinirmātṛ) m.dat.sg + indecl."
+    },
+    {
+     "surface": "devāsuraparāyaṇāyanamaḥ",
+     "gloss": "salutation-to-god-asura-supreme-refuge",
+     "grounds": "dative salutation to devāsuraparāyaṇa (supreme refuge of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+parāyaṇa) m.dat.sg + indecl."
+    }
+   ],
+   "question": "What roles as creator and refuge unite gods and asuras in the divine?",
+   "premises": [
+    "The creator of gods and asuras receives salutation as a divine form.",
+    "The supreme refuge of gods and asuras receives salutation as a divine form."
+   ],
+   "inference": "The divine is both the origin and the ultimate refuge for gods and asuras alike.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the creator of gods and asuras, salutation to the supreme refuge of gods and asuras."
+  },
+  {
+   "verse": 3236,
+   "rows": [
+    {
+     "surface": "devāsuraguravenamaḥ",
+     "gloss": "salutation-to-god-asura-teacher",
+     "grounds": "dative salutation to devāsuraguru (teacher of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+guru) m.dat.sg + indecl."
+    },
+    {
+     "surface": "devāyanamaḥ",
+     "gloss": "salutation-to-god",
+     "grounds": "dative salutation to deva (god), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "How is the divine honored as teacher of all beings and as god?",
+   "premises": [
+    "The teacher of gods and asuras receives salutation as a divine form.",
+    "The god receives salutation as a divine form."
+   ],
+   "inference": "The divine is the universal teacher and the very essence of divinity.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the teacher of gods and asuras, salutation to the god."
+  },
+  {
+   "verse": 3237,
+   "rows": [
+    {
+     "surface": "devāsuranamaskṛtāyanamaḥ",
+     "gloss": "salutation-to-god-asura-saluted",
+     "grounds": "dative salutation to devāsuranamaskṛta (saluted by gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+namaskṛta) m.dat.sg + indecl."
+    },
+    {
+     "surface": "devāsuramahāmātrāyanamaḥ",
+     "gloss": "salutation-to-god-asura-great-counsellor",
+     "grounds": "dative salutation to devāsuramahāmātra (great counsellor of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+mahāmātra) m.dat.sg + indecl."
+    }
+   ],
+   "question": "In what ways is the divine revered and consulted by gods and asuras?",
+   "premises": [
+    "The one saluted by gods and asuras receives salutation as a divine form.",
+    "The great counsellor of gods and asuras receives salutation as a divine form."
+   ],
+   "inference": "The divine commands universal reverence and serves as the supreme guide for all beings.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the one saluted by gods and asuras, salutation to the great counsellor of gods and asuras."
+  },
+  {
+   "verse": 3238,
+   "rows": [
+    {
+     "surface": "devāsuragaṇāgraṇyenamaḥ",
+     "gloss": "salutation-to-god-asura-host-chief",
+     "grounds": "dative salutation to devāsuragaṇāgraṇī (chief of the hosts of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+gaṇa+agraṇī) m.dat.sg + indecl."
+    },
+    {
+     "surface": "devātidevāyanamaḥ",
+     "gloss": "salutation-to-god-of-gods",
+     "grounds": "dative salutation to devātideva (god beyond gods), compound fused with namaḥ",
+     "morph": "compound (deva+atideva) m.dat.sg + indecl."
+    }
+   ],
+   "question": "How is supreme leadership over all hosts expressed as divine transcendence?",
+   "premises": [
+    "The chief of the hosts of gods and asuras receives salutation as a divine form.",
+    "The god of gods receives salutation as a divine form."
+   ],
+   "inference": "The divine leads all hosts and transcends even the gods.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the chief of the hosts of gods and asuras, salutation to the god of gods."
+  },
+  {
+   "verse": 3239,
+   "rows": [
+    {
+     "surface": "devarṣṣayenamaḥ",
+     "gloss": "salutation-to-divine-sage",
+     "grounds": "dative salutation to devarṣi (divine sage), compound fused with namaḥ; double ṣṣ reflects orthography",
+     "morph": "compound (deva+ṛṣi) m.dat.sg + indecl."
+    },
+    {
+     "surface": "devāsuravarapradāyanamaḥ",
+     "gloss": "salutation-to-god-asura-boon-giver",
+     "grounds": "dative salutation to devāsuravaraprada (giver of boons to gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+vara+prada) m.dat.sg + indecl."
+    }
+   ],
+   "question": "What wisdom and generosity characterize the divine toward gods and asuras?",
+   "premises": [
+    "The divine sage receives salutation as a divine form.",
+    "The giver of boons to gods and asuras receives salutation as a divine form."
+   ],
+   "inference": "The divine embodies supreme wisdom and grants boons to all beings.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the divine sage, salutation to the giver of boons to gods and asuras."
+  },
+  {
+   "verse": 3240,
+   "rows": [
+    {
+     "surface": "devāsureśvarāyanamaḥ",
+     "gloss": "salutation-to-god-asura-lord",
+     "grounds": "dative salutation to devāsureśvara (lord of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+īśvara) m.dat.sg + indecl."
+    },
+    {
+     "surface": "viśvāyanamaḥ",
+     "gloss": "salutation-to-all",
+     "grounds": "dative salutation to viśva (all/universe), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "How does lordship over gods and asuras relate to universal totality?",
+   "premises": [
+    "The lord of gods and asuras receives salutation as a divine form.",
+    "The all receives salutation as a divine form."
+   ],
+   "inference": "The divine rules gods and asuras and is identical with the totality of all.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the lord of gods and asuras, salutation to the all."
+  },
+  {
+   "verse": 3241,
+   "rows": [
+    {
+     "surface": "devāsuramaheśvarāyanamaḥ",
+     "gloss": "salutation-to-god-asura-great-lord",
+     "grounds": "dative salutation to devāsuramaheśvara (great lord of gods and asuras), compound fused with namaḥ",
+     "morph": "compound (deva+asura+maheśvara) m.dat.sg + indecl."
+    },
+    {
+     "surface": "sarvadevamayāyanamaḥ",
+     "gloss": "salutation-to-all-god-consisting",
+     "grounds": "dative salutation to sarvadevamaya (consisting of all gods), compound fused with namaḥ",
+     "morph": "compound (sarva+deva+maya) m.dat.sg + indecl."
+    }
+   ],
+   "question": "How is supreme lordship expressed as comprising all divine forms?",
+   "premises": [
+    "The great lord of gods and asuras receives salutation as a divine form.",
+    "The one consisting of all gods receives salutation as a divine form."
+   ],
+   "inference": "The divine is the supreme lord and contains within itself all divine forms.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the great lord of gods and asuras, salutation to the one consisting of all gods."
+  },
+  {
+   "verse": 3242,
+   "rows": [
+    {
+     "surface": "acintyāyanamaḥ",
+     "gloss": "salutation-to-inconceivable",
+     "grounds": "dative salutation to acintya (inconceivable), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "devātmanenamaḥ",
+     "gloss": "salutation-to-god-self",
+     "grounds": "dative salutation to devātman (self of the gods/divine self), compound fused with namaḥ",
+     "morph": "compound (deva+ātman) m.dat.sg + indecl."
+    },
+    {
+     "surface": "ātmasambhavāyanamaḥ",
+     "gloss": "salutation-to-self-born",
+     "grounds": "dative salutation to ātmasambhava (self-born), compound fused with namaḥ",
+     "morph": "compound (ātman+sambhava) m.dat.sg + indecl."
+    }
+   ],
+   "question": "How are inconceivability, divine selfhood, and self-origination attributed to the divine?",
+   "premises": [
+    "The inconceivable receives salutation as a divine form.",
+    "The divine self receives salutation as a divine form.",
+    "The self-born receives salutation as a divine form."
+   ],
+   "inference": "The divine transcends thought, is the inner self of divinity, and arises from itself.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the inconceivable, salutation to the divine self, salutation to the self-born."
+  },
+  {
+   "verse": 3243,
+   "rows": [
+    {
+     "surface": "virajāyanamaḥ",
+     "gloss": "salutation-to-passionless",
+     "grounds": "dative salutation to viraja (free from passion/impurity), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "nīrajāyanamaḥ",
+     "gloss": "salutation-to-water-born",
+     "grounds": "dative salutation to nīraja (water-born/lotus-born), compound fused with namaḥ",
+     "morph": "compound (nīra+ja) m.dat.sg + indecl."
+    },
+    {
+     "surface": "amarāyanamaḥ",
+     "gloss": "salutation-to-immortal",
+     "grounds": "dative salutation to amara (immortal), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "What qualities of purity, origin, and immortality define the divine?",
+   "premises": [
+    "The passionless receives salutation as a divine form.",
+    "The water-born receives salutation as a divine form.",
+    "The immortal receives salutation as a divine form."
+   ],
+   "inference": "The divine is pure, associated with sacred origin, and beyond death.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the passionless, salutation to the water-born, salutation to the immortal."
+  },
+  {
+   "verse": 3244,
+   "rows": [
+    {
+     "surface": "īḍyāyanamaḥ",
+     "gloss": "salutation-to-praiseworthy",
+     "grounds": "dative salutation to īḍya (praiseworthy), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "hastīśvarāyanamaḥ",
+     "gloss": "salutation-to-elephant-lord",
+     "grounds": "dative salutation to hastīśvara (lord of elephants), compound fused with namaḥ",
+     "morph": "compound (hastin+īśvara) m.dat.sg + indecl."
+    },
+    {
+     "surface": "vyāghrāyanamaḥ",
+     "gloss": "salutation-to-tiger",
+     "grounds": "dative salutation to vyāghra (tiger), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "How are praiseworthiness and powerful animal forms attributed to the divine?",
+   "premises": [
+    "The praiseworthy receives salutation as a divine form.",
+    "The lord of elephants receives salutation as a divine form.",
+    "The tiger receives salutation as a divine form."
+   ],
+   "inference": "The divine is worthy of praise and manifests in powerful animal forms.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the praiseworthy, salutation to the lord of elephants, salutation to the tiger."
+  },
+  {
+   "verse": 3245,
+   "rows": [
+    {
+     "surface": "devasiṃhāyanamaḥ",
+     "gloss": "salutation-to-god-lion",
+     "grounds": "dative salutation to devasiṃha (lion among gods), compound fused with namaḥ",
+     "morph": "compound (deva+siṃha) m.dat.sg + indecl."
+    },
+    {
+     "surface": "nararṣabhāyanamaḥ",
+     "gloss": "salutation-to-man-bull",
+     "grounds": "dative salutation to nararṣabha (bull among men), compound fused with namaḥ",
+     "morph": "compound (nara+ṛṣabha) m.dat.sg + indecl."
+    },
+    {
+     "surface": "vibudhāyanamaḥ",
+     "gloss": "salutation-to-wise",
+     "grounds": "dative salutation to vibudha (wise one/god), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "How is the divine exalted among gods, humans, and the wise?",
+   "premises": [
+    "The lion among gods receives salutation as a divine form.",
+    "The bull among men receives salutation as a divine form.",
+    "The wise one receives salutation as a divine form."
+   ],
+   "inference": "The divine stands supreme among gods, humans, and the wise.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the lion among gods, salutation to the bull among men, salutation to the wise one."
+  },
+  {
+   "verse": 3246,
+   "rows": [
+    {
+     "surface": "agravarāyanamaḥ",
+     "gloss": "salutation-to-foremost-excellent",
+     "grounds": "dative salutation to agravara (foremost and excellent), compound fused with namaḥ",
+     "morph": "compound (agra+vara) m.dat.sg + indecl."
+    },
+    {
+     "surface": "sūkṣmāyanamaḥ",
+     "gloss": "salutation-to-subtle",
+     "grounds": "dative salutation to sūkṣma (subtle), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "sarvadevāyanamaḥ",
+     "gloss": "salutation-to-all-god",
+     "grounds": "dative salutation to sarvadeva (all-god), compound fused with namaḥ",
+     "morph": "compound (sarva+deva) m.dat.sg + indecl."
+    }
+   ],
+   "question": "How are excellence, subtlety, and total divinity united in the divine?",
+   "premises": [
+    "The foremost and excellent receives salutation as a divine form.",
+    "The subtle receives salutation as a divine form.",
+    "The all-god receives salutation as a divine form."
+   ],
+   "inference": "The divine is supremely excellent, subtle, and inclusive of all gods.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the foremost and excellent, salutation to the subtle, salutation to the all-god."
+  },
+  {
+   "verse": 3247,
+   "rows": [
+    {
+     "surface": "tapomayāyanamaḥ",
+     "gloss": "salutation-to-austerity-consisting",
+     "grounds": "dative salutation to tapomaya (consisting of austerity), compound fused with namaḥ",
+     "morph": "compound (tapas+maya) m.dat.sg + indecl."
+    },
+    {
+     "surface": "suyuktāyanamaḥ",
+     "gloss": "salutation-to-well-yoked",
+     "grounds": "dative salutation to suyukta (well-yoked/well-united), compound fused with namaḥ",
+     "morph": "compound (su+yukta) m.dat.sg + indecl."
+    },
+    {
+     "surface": "śobhanāyanamaḥ",
+     "gloss": "salutation-to-beautiful",
+     "grounds": "dative salutation to śobhana (beautiful/auspicious), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "What qualities of austerity, harmony, and beauty characterize the divine?",
+   "premises": [
+    "The one consisting of austerity receives salutation as a divine form.",
+    "The well-yoked receives salutation as a divine form.",
+    "The beautiful receives salutation as a divine form."
+   ],
+   "inference": "The divine embodies austerity, perfect harmony, and beauty.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the one consisting of austerity, salutation to the well-yoked, salutation to the beautiful."
+  },
+  {
+   "verse": 3248,
+   "rows": [
+    {
+     "surface": "vajriṇenamaḥ",
+     "gloss": "salutation-to-thunderbolt-wielder",
+     "grounds": "dative salutation to vajrin (wielder of the thunderbolt), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "prāsānāmprabhavāyanamaḥ",
+     "gloss": "salutation-to-spears-source",
+     "grounds": "dative salutation to prāsānām prabhava (source of spears), compound fused with namaḥ; internal genitive plural in compound",
+     "morph": "compound (prāsa.gen.pl+prabhava) m.dat.sg + indecl."
+    }
+   ],
+   "question": "How is the divine identified as wielder and source of weapons?",
+   "premises": [
+    "The wielder of the thunderbolt receives salutation as a divine form.",
+    "The source of spears receives salutation as a divine form."
+   ],
+   "inference": "The divine holds and originates powerful weapons.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the wielder of the thunderbolt, salutation to the source of spears."
+  },
+  {
+   "verse": 3249,
+   "rows": [
+    {
+     "surface": "avyayāyanamaḥ",
+     "gloss": "salutation-to-imperishable",
+     "grounds": "dative salutation to avyaya (imperishable), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "guhāyanamaḥ",
+     "gloss": "salutation-to-hidden",
+     "grounds": "dative salutation to guha (hidden/dwelling in the cave), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    },
+    {
+     "surface": "kāntāyanamaḥ",
+     "gloss": "salutation-to-lovely",
+     "grounds": "dative salutation to kānta (lovely/desirable), fused with namaḥ",
+     "morph": "m.dat.sg + indecl."
+    }
+   ],
+   "question": "What qualities of imperishability, hiddenness, and loveliness define the divine?",
+   "premises": [
+    "The imperishable receives salutation as a divine form.",
+    "The hidden receives salutation as a divine form.",
+    "The lovely receives salutation as a divine form."
+   ],
+   "inference": "The divine is imperishable, concealed within, and supremely lovely.",
+   "uncertainties": [],
+   "plain_english": "Salutation to the imperishable, salutation to the hidden, salutation to the lovely."
+  }
+ ]
+}

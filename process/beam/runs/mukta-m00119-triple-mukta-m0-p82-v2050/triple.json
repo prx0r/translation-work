@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "tathaikapādabaṭuko",
+     "gloss": "thus-one-footed-batuka",
+     "grounds": "fused compound of tatha, eka, pada, and batuka; nominative singular masculine",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "śrībhīmabaṭukastathā",
+     "gloss": "glorious-bhima-batuka-thus",
+     "grounds": "fused compound of shri, bhima, batuka, and indeclinable tatha; nominative singular masculine",
+     "morph": "m.nom.sg (compound) + (indecl.)"
+    }
+   ],
+   "question": "Which additional batuka forms are named after Tripurantaka and Agnijihva?",
+   "premises": [
+    "Tripurantaka batuka is named third.",
+    "Agnijihva batuka is named fifth.",
+    "One-footed and Bhima batukas follow."
+   ],
+   "inference": "The enumeration includes one-footed and Bhima batukas.",
+   "uncertainties": [
+    "Exact ritual role of each batuka is not stated."
+   ],
+   "plain_english": "And thus the one-footed batuka; and thus the glorious Bhima batuka."
+  }
+ ]
+}

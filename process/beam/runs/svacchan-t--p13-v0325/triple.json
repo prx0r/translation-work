@@ -1,0 +1,45 @@
+{
+ "song": "sva-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "ityuktatvāt",
+     "gloss": "because-thus-said",
+     "grounds": "ablative singular of ityuktatva",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratrāpi",
+     "gloss": "in-later-also",
+     "grounds": "indeclinable adverb with api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "neuter nominative singular of jñeya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is this to be known in later passages too?",
+   "premises": [
+    "It has been said thus.",
+    "Thus it is to be known.",
+    "Later passages also require knowing."
+   ],
+   "inference": "Because it was said thus, the same is to be known later too.",
+   "uncertainties": [
+    "The exact referent of 'it' is unspecified."
+   ],
+   "plain_english": "Because it has been said thus, this is to be known in later passages too."
+  }
+ ]
+}

@@ -1,0 +1,1239 @@
+{
+ "song": "mukta-m0-p207",
+ "items": [
+  {
+   "verse": 5151,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior offering",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "locative of condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guḍa",
+     "gloss": "jaggery",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "odakam",
+     "gloss": "water",
+     "grounds": "substitute offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substitute offering applies when the primary offering is unavailable?",
+   "premises": [
+    "A prior offering may be absent",
+    "Jaggery water serves as substitute"
+   ],
+   "inference": "In the absence of the primary offering, jaggery water is used.",
+   "uncertainties": [],
+   "plain_english": "In its absence, jaggery water should be used."
+  },
+  {
+   "verse": 5152,
+   "rows": [
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "first member of compound indicating fraction",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "by-part",
+     "grounds": "instrumental indicating portion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients of feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayed",
+     "gloss": "should-feed",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √bhuj"
+    },
+    {
+     "surface": "bahūn",
+     "gloss": "many",
+     "grounds": "qualifies brahmins",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should brahmins be fed when using the substitute offering?",
+   "premises": [
+    "A tenth part is specified",
+    "Many brahmins are recipients"
+   ],
+   "inference": "One should feed many brahmins with a tenth part of the substitute.",
+   "uncertainties": [],
+   "plain_english": "One should feed many brahmins with a tenth part of it."
+  },
+  {
+   "verse": 5153,
+   "rows": [
+    {
+     "surface": "apūpair",
+     "gloss": "with-cakes",
+     "grounds": "food item offered",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "maṃḍaka",
+     "gloss": "dumpling",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādyaiś",
+     "gloss": "and-others",
+     "grounds": "indicates additional items",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghṛtaiḥ",
+     "gloss": "ghee",
+     "grounds": "mixed with items",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śarkarā",
+     "gloss": "sugar",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "anvitaiḥ",
+     "gloss": "mixed-with",
+     "grounds": "qualifies food items",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What kinds of food preparations accompany the feeding of brahmins?",
+   "premises": [
+    "Cakes and dumplings are included",
+    "Preparations contain ghee and sugar"
+   ],
+   "inference": "The feeding includes cakes, dumplings and similar items mixed with ghee and sugar.",
+   "uncertainties": [],
+   "plain_english": "They should be fed with cakes, dumplings and other such foods mixed with ghee and sugar."
+  },
+  {
+   "verse": 5154,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhe",
+     "gloss": "accomplished",
+     "grounds": "locative absolute condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkte",
+     "gloss": "in-hymn",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result of ritual",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to result",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "passive statement of result",
+     "morph": "3.sg.pres.pass √gad"
+    }
+   ],
+   "question": "What result is declared when the hymn is thus successfully accomplished?",
+   "premises": [
+    "The hymn can be accomplished",
+    "A specific fruit follows accomplishment"
+   ],
+   "inference": "When the hymn is accomplished in this way, that fruit is declared.",
+   "uncertainties": [],
+   "plain_english": "Thus, when the hymn is accomplished, that fruit is declared."
+  },
+  {
+   "verse": 5155,
+   "rows": [
+    {
+     "surface": "samavāpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "time of final result",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "city",
+     "grounds": "destination after death",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "optative result",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "What ultimate attainment follows for one who obtains the declared fruit?",
+   "premises": [
+    "The practitioner obtains the fruit",
+    "A final destination is reached at death"
+   ],
+   "inference": "The practitioner obtains the fruit and at the end goes to the city of Brahma.",
+   "uncertainties": [],
+   "plain_english": "One obtains it and at the end goes to the city of Brahma."
+  },
+  {
+   "verse": 5156,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "reduplicated for emphasis",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "reduplicated for emphasis",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "gaṇapater",
+     "gloss": "of-gaṇapati",
+     "grounds": "source of grace",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nūnaṃ",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasādāt",
+     "gloss": "by-grace",
+     "grounds": "instrumental cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "result of grace",
+     "morph": "3.sg.pres.act √sidh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Through whose grace does each desired result certainly succeed?",
+   "premises": [
+    "Various results are sought",
+    "Gaṇapati's grace is the cause"
+   ],
+   "inference": "Each and every result certainly succeeds through the grace of Gaṇapati.",
+   "uncertainties": [],
+   "plain_english": "Indeed, each and every thing certainly succeeds by the grace of Gaṇapati."
+  },
+  {
+   "verse": 5157,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "utpāte",
+     "gloss": "in-calamity",
+     "grounds": "locative of circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "para",
+     "gloss": "enemy",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cakra",
+     "gloss": "army",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaye",
+     "gloss": "in-fear",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what dangerous circumstances are the following ritual applications employed?",
+   "premises": [
+    "Great calamities may arise",
+    "Fear of enemy armies may arise"
+   ],
+   "inference": "The rites apply in great calamity and likewise in fear of an enemy army.",
+   "uncertainties": [],
+   "plain_english": "In a great calamity and likewise in fear of an enemy army."
+  },
+  {
+   "verse": 5158,
+   "rows": [
+    {
+     "surface": "bandha",
+     "gloss": "binding",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "uccāṭanayor",
+     "gloss": "and-uprooting",
+     "grounds": "dual locative of ritual aims",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "dveṣe",
+     "gloss": "in-hatred",
+     "grounds": "locative of ritual aim",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarṣapair",
+     "gloss": "with-mustard-seeds",
+     "grounds": "ritual substance",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "loha",
+     "gloss": "iron",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyutaiḥ",
+     "gloss": "joined-with",
+     "grounds": "qualifies mustard seeds",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What ritual substances are used for binding, uprooting, and hatred?",
+   "premises": [
+    "Binding and uprooting are ritual aims",
+    "Hatred is another ritual aim"
+   ],
+   "inference": "For binding, uprooting, and hatred, mustard seeds joined with iron are used.",
+   "uncertainties": [],
+   "plain_english": "In binding, uprooting, and hatred, one uses mustard seeds mixed with iron."
+  },
+  {
+   "verse": 5159,
+   "rows": [
+    {
+     "surface": "śmaśāna",
+     "gloss": "cremation-ground",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "stho",
+     "gloss": "staying",
+     "grounds": "location of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of ritual",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kuryāj",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ruṣā",
+     "gloss": "with-anger",
+     "grounds": "emotional state",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Where and how should recitation be performed for these hostile rites?",
+   "premises": [
+    "The rite requires a specific place and time",
+    "A specific emotional state is required"
+   ],
+   "inference": "One should perform recitation at night in a cremation ground with anger.",
+   "uncertainties": [],
+   "plain_english": "Staying in a cremation ground at night, one should perform recitation with anger."
+  },
+  {
+   "verse": 5160,
+   "rows": [
+    {
+     "surface": "meṣī",
+     "gloss": "sheep",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "loma",
+     "gloss": "hair",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "anvitaiś",
+     "gloss": "mixed-with",
+     "grounds": "qualifies offering materials",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "offering",
+     "grounds": "ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syān",
+     "gloss": "should-be",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "ritual aim",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering material is prescribed for the rite of killing?",
+   "premises": [
+    "A fire offering is performed",
+    "The aim is killing"
+   ],
+   "inference": "For killing, the offering should certainly be made with materials mixed with sheep hair.",
+   "uncertainties": [],
+   "plain_english": "And for killing, the offering should certainly be made with materials mixed with sheep hair."
+  },
+  {
+   "verse": 5161,
+   "rows": [
+    {
+     "surface": "ākarṣaṇa",
+     "gloss": "attraction",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for-purpose",
+     "grounds": "indicates aim",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhyānām",
+     "gloss": "of-targets",
+     "grounds": "persons to be attracted",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "unmatta",
+     "gloss": "datura",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījakaiḥ",
+     "gloss": "with-seeds",
+     "grounds": "ritual substance",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What substance is used for the purpose of attracting designated targets?",
+   "premises": [
+    "Attraction of targets is the aim",
+    "Specific seeds are employed"
+   ],
+   "inference": "For attracting targets, seeds of the Datura fruit are used.",
+   "uncertainties": [],
+   "plain_english": "For the purpose of attracting targets, one uses seeds of the Datura fruit."
+  },
+  {
+   "verse": 5162,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāsara",
+     "gloss": "day",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryantan",
+     "gloss": "until",
+     "grounds": "indicates duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataś",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "attraction",
+     "grounds": "result of rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How long must the attraction rite continue before its effect occurs?",
+   "premises": [
+    "The rite is performed over time",
+    "A duration of seven days is specified"
+   ],
+   "inference": "After performing the rite for seven days, attraction should occur.",
+   "uncertainties": [],
+   "plain_english": "Continuing until seven days, attraction should then occur."
+  },
+  {
+   "verse": 5163,
+   "rows": [
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "astamanam",
+     "gloss": "setting",
+     "grounds": "starting point of rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund indicating start",
+     "morph": "(gerund) √rabh"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indicates duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "odayo",
+     "gloss": "rising",
+     "grounds": "end point of rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative condition",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "During what daily period should the attraction rite be performed?",
+   "premises": [
+    "The rite has a defined start time",
+    "The rite has a defined end time"
+   ],
+   "inference": "The rite should be performed from sunset until sunrise.",
+   "uncertainties": [],
+   "plain_english": "Beginning from sunset, it should continue until sunrise."
+  },
+  {
+   "verse": 5164,
+   "rows": [
+    {
+     "surface": "prakartavyo",
+     "gloss": "should-be-performed",
+     "grounds": "gerundive injunction",
+     "morph": "m.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "ritual substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "phalais",
+     "gloss": "with-fruits",
+     "grounds": "ritual substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings should be used when performing this rite?",
+   "premises": [
+    "The rite requires performance",
+    "Specific offerings are prescribed"
+   ],
+   "inference": "The rite should be performed with honey, flowers, and likewise fruits.",
+   "uncertainties": [],
+   "plain_english": "It should be performed with honey, flowers, and likewise fruits."
+  },
+  {
+   "verse": 5165,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyuktair",
+     "gloss": "mixed-with",
+     "grounds": "qualifies sweet balls",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "modakaiḥ",
+     "gloss": "with-sweet-balls",
+     "grounds": "ritual offering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghṛtais",
+     "gloss": "ghee",
+     "grounds": "accompanying substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame",
+     "grounds": "accompanying substance",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What additional prepared offerings are included in this ritual performance?",
+   "premises": [
+    "Sweet preparations are used",
+    "They are mixed with specific substances"
+   ],
+   "inference": "Sweet balls mixed with red sandalwood, along with ghee and sesame, are used.",
+   "uncertainties": [],
+   "plain_english": "With sweet balls mixed with red sandalwood, along with ghee and sesame."
+  },
+  {
+   "verse": 5166,
+   "rows": [
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "putrāś",
+     "gloss": "sons",
+     "grounds": "targets or subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "royal",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kīyāś",
+     "gloss": "relatives",
+     "grounds": "targets or subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "ministers",
+     "grounds": "targets or subjects",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which high-ranking persons are included as subjects in this ritual context?",
+   "premises": [
+    "Royal family members are involved",
+    "Royal officials are involved"
+   ],
+   "inference": "Princes, royal relatives, and ministers are included.",
+   "uncertainties": [],
+   "plain_english": "Princes, royal relatives, and ministers."
+  },
+  {
+   "verse": 5167,
+   "rows": [
+    {
+     "surface": "bandha",
+     "gloss": "bondage",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mokṣāya",
+     "gloss": "for-release",
+     "grounds": "purpose of rite",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kartavyo",
+     "gloss": "should-be-done",
+     "grounds": "gerundive injunction",
+     "morph": "m.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of ritual",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ālaye",
+     "gloss": "in-temple",
+     "grounds": "place of ritual",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where and when should recitation be performed for release from bondage?",
+   "premises": [
+    "Release from bondage is the aim",
+    "A specific place and time are prescribed"
+   ],
+   "inference": "Recitation for release from bondage should be done at night in a Śiva temple.",
+   "uncertainties": [],
+   "plain_english": "For release from bondage, recitation should be performed at night in a Śiva temple."
+  },
+  {
+   "verse": 5168,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṃśati",
+     "gloss": "twenty",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sāhasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of offerings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "time of ritual",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "offering",
+     "grounds": "ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ālaye",
+     "gloss": "in-temple",
+     "grounds": "place of ritual",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How many offerings should be made by day in a Śiva temple?",
+   "premises": [
+    "A fire offering is prescribed",
+    "A specific number and place are given"
+   ],
+   "inference": "Twenty-one thousand offerings should be made by day in a Śiva temple.",
+   "uncertainties": [],
+   "plain_english": "Twenty-one thousand offerings should be made by day in a Śiva temple."
+  },
+  {
+   "verse": 5169,
+   "rows": [
+    {
+     "surface": "homaḥ",
+     "gloss": "offering",
+     "grounds": "ritual action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praty",
+     "gloss": "each",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "arcaṃ",
+     "gloss": "recitation",
+     "grounds": "unit for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāna",
+     "gloss": "rule",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "taḥ",
+     "gloss": "according-to",
+     "grounds": "ablative suffixal element",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to what rule should offerings be made in relation to recitation?",
+   "premises": [
+    "Offerings accompany recitation",
+    "A prescribed rule governs the procedure"
+   ],
+   "inference": "An offering should be made at each recitation according to rule.",
+   "uncertainties": [],
+   "plain_english": "Indeed, an offering should be made at each recitation according to rule."
+  },
+  {
+   "verse": 5170,
+   "rows": [
+    {
+     "surface": "paścān",
+     "gloss": "afterwards",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhāgena",
+     "gloss": "by-division",
+     "grounds": "method of recitation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "praty",
+     "gloss": "each",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "arcaṃ",
+     "gloss": "recitation",
+     "grounds": "unit for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "should-offer",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a wise practitioner make offerings according to mantra division?",
+   "premises": [
+    "The mantra has divisions",
+    "Offerings follow recitation units"
+   ],
+   "inference": "Afterwards, the wise one should offer at each recitation according to the division of the mantra.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, the wise one should offer at each recitation according to the division of the mantra."
+  },
+  {
+   "verse": 5171,
+   "rows": [
+    {
+     "surface": "prakāreṇa",
+     "gloss": "in-manner",
+     "grounds": "method of practice",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhāraṇe",
+     "gloss": "common",
+     "grounds": "applicable generally",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jape",
+     "gloss": "in-recitation",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "In what general manner should recitation be performed for all purposes?",
+   "premises": [
+    "Recitation can be common to all aims",
+    "A general manner is indicated"
+   ],
+   "inference": "Recitation should be performed in a manner common to all purposes.",
+   "uncertainties": [],
+   "plain_english": "In a manner common to all, in recitation."
+  },
+  {
+   "verse": 5172,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "devī",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūktaṃ",
+     "gloss": "hymn",
+     "grounds": "text to be recited",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional hymn is likewise included in this general recitation?",
+   "premises": [
+    "A general recitation method is given",
+    "Another hymn is applicable"
+   ],
+   "inference": "The Devī hymn is likewise included.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the Devī hymn also."
+  },
+  {
+   "verse": 5173,
+   "rows": [
+    {
+     "surface": "cec",
+     "gloss": "if",
+     "grounds": "conditional particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chā",
+     "gloss": "desire",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "prati",
+     "gloss": "regarding",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛcchyatām",
+     "gloss": "should-be-asked",
+     "grounds": "passive imperative",
+     "morph": "3.sg.impv.pass √praś"
+    }
+   ],
+   "question": "What should be done when a specific desire arises in a particular context?",
+   "premises": [
+    "A desire may arise in some context",
+    "Clarification may be needed"
+   ],
+   "inference": "If there is desire in any context, that should be asked about.",
+   "uncertainties": [
+    "cec chā taken as conditional plus desire element based on context"
+   ],
+   "plain_english": "If there is a desire in any case, one should ask about that."
+  },
+  {
+   "verse": 5174,
+   "rows": [
+    {
+     "surface": "kali",
+     "gloss": "kali",
+     "grounds": "first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratyaya",
+     "gloss": "pratyaya",
+     "grounds": "technical term retained",
+     "morph": "compound"
+    },
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "middle member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakāśo",
+     "gloss": "exposition",
+     "grounds": "title element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśaḥ",
+     "gloss": "twelfth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the title and ordinal position of this concluding section?",
+   "premises": [
+    "The section has a thematic title",
+    "The section has an ordinal number"
+   ],
+   "inference": "This is the twelfth exposition of the Kali pratyaya Veda mantra.",
+   "uncertainties": [
+    "pratyaya retained as technical term"
+   ],
+   "plain_english": "This is the twelfth exposition of the Kali pratyaya Veda mantra."
+  }
+ ]
+}

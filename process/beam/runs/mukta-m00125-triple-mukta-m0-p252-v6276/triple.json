@@ -1,0 +1,943 @@
+{
+ "song": "mukta-m0-p252",
+ "items": [
+  {
+   "verse": 6276,
+   "rows": [
+    {
+     "surface": "likucassahakāraśca",
+     "gloss": "likuca-and-mango-and",
+     "grounds": "fused dvandva with sandhi; likuca and sahakāra",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṭajaḥ",
+     "gloss": "kutaja",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṭphalastathā",
+     "gloss": "katphala-likewise",
+     "grounds": "tree name with tathā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which additional types of wood are specified for constructing the ritual seat?",
+   "premises": [
+    "Likuca wood is included",
+    "Mango wood is included",
+    "Kutaja and katphala woods are likewise included"
+   ],
+   "inference": "The ritual seat may be made using likuca, mango, kutaja, and katphala woods.",
+   "uncertainties": [],
+   "plain_english": "Likuca and mango, and likewise kutaja and katphala."
+  },
+  {
+   "verse": 6277,
+   "rows": [
+    {
+     "surface": "jambūścaiva",
+     "gloss": "jambu-and-also",
+     "grounds": "tree name with emphatic particles",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhūkaśca",
+     "gloss": "madhuka-and",
+     "grounds": "tree name",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaikaṅkata",
+     "gloss": "vaikankata",
+     "grounds": "tree name, first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāhvayaḥ",
+     "gloss": "named",
+     "grounds": "so called",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What further woods complete the list of materials named for the seat?",
+   "premises": [
+    "Jambu wood is included",
+    "Madhuka wood is included",
+    "Wood called vaikankata is included"
+   ],
+   "inference": "Jambu, madhuka, and vaikankata complete the named set of suitable woods.",
+   "uncertainties": [],
+   "plain_english": "And also jambu and madhuka, and that which is called vaikankata."
+  },
+  {
+   "verse": 6278,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhāsanaṃ",
+     "gloss": "lion-seat",
+     "grounds": "ritual throne",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of construction",
+     "morph": "absolutive(kṛ)"
+    },
+    {
+     "surface": "saṃskuryāt",
+     "gloss": "should-consecrate",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.act(saṃskṛ)"
+    },
+    {
+     "surface": "tadanaram",
+     "gloss": "that-immediately-after",
+     "grounds": "refers to the seat just made",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must follow immediately after constructing the lion-seat?",
+   "premises": [
+    "The lion-seat has been made in the prescribed manner",
+    "A consecration is enjoined",
+    "The action follows immediately after construction"
+   ],
+   "inference": "After making the lion-seat, one should consecrate it immediately.",
+   "uncertainties": [
+    "tadanaram taken as temporal adverbial sense"
+   ],
+   "plain_english": "Having thus made the lion-seat, one should consecrate it immediately thereafter."
+  },
+  {
+   "verse": 6279,
+   "rows": [
+    {
+     "surface": "śilpinaṃ",
+     "gloss": "artisan",
+     "grounds": "craftsman who made the seat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visṛjyātha",
+     "gloss": "having-dismissed-then",
+     "grounds": "dismissal followed by next step",
+     "morph": "absolutive(visṛj)+indecl."
+    },
+    {
+     "surface": "puṇyāhaprokṣaṇāntaram",
+     "gloss": "after-holy-day-sprinkling",
+     "grounds": "time after puṇyāha and sprinkling rites",
+     "morph": "n.acc.sg-adverbial"
+    }
+   ],
+   "question": "What preparatory steps precede the next purification of the consecrated seat?",
+   "premises": [
+    "The artisan is dismissed",
+    "A puṇyāha rite is performed",
+    "Sprinkling is completed before the next step"
+   ],
+   "inference": "After dismissing the artisan and completing puṇyāha and sprinkling, the next rite proceeds.",
+   "uncertainties": [],
+   "plain_english": "Then, having dismissed the artisan, after the puṇyāha and sprinkling rites,"
+  },
+  {
+   "verse": 6280,
+   "rows": [
+    {
+     "surface": "aṣṭamṛtsalile",
+     "gloss": "in-water-of-eight-clays",
+     "grounds": "water mixed with eight kinds of clay",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣālayet",
+     "gloss": "should-wash",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.act(kṣal)"
+    },
+    {
+     "surface": "kuśa+vāriṇā",
+     "gloss": "with-kusha-water",
+     "grounds": "instrumental of purification medium",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "With which purifying substances should the seat not be washed at this stage?",
+   "premises": [
+    "Water of eight clays is mentioned",
+    "Kusha water is mentioned",
+    "Washing with these is explicitly negated"
+   ],
+   "inference": "At this stage the seat should not be washed with water of eight clays nor with kusha water.",
+   "uncertainties": [],
+   "plain_english": "One should not wash it with water of the eight clays, nor with kusha water."
+  },
+  {
+   "verse": 6281,
+   "rows": [
+    {
+     "surface": "punargandhodakenaiva",
+     "gloss": "again-with-fragrant-water-only",
+     "grounds": "emphatic prescription of fragrant water",
+     "morph": "n.inst.sg+indecl."
+    },
+    {
+     "surface": "snāpayettadanantaram",
+     "gloss": "should-bathe-it-thereafter",
+     "grounds": "bathing follows the previous restriction",
+     "morph": "3.sg.optative.caus.(snā)+indecl."
+    }
+   ],
+   "question": "What substance must be used to bathe the seat after the prohibited washings?",
+   "premises": [
+    "Previous washings are excluded",
+    "Fragrant water is prescribed",
+    "The bathing occurs immediately thereafter"
+   ],
+   "inference": "The seat should instead be bathed thereafter with fragrant water alone.",
+   "uncertainties": [],
+   "plain_english": "Then one should bathe it again with fragrant water only."
+  },
+  {
+   "verse": 6282,
+   "rows": [
+    {
+     "surface": "gandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "offerings of scent",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puṣpaiśca",
+     "gloss": "and-with-flowers",
+     "grounds": "floral offerings",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "dhūpaiśca",
+     "gloss": "and-with-incense",
+     "grounds": "incense offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tanmatreṇa",
+     "gloss": "with-that-measure",
+     "grounds": "according to due measure or with that mantra-element; contextually restrained",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive worship",
+     "morph": "3.sg.optative.act(samarc)"
+    }
+   ],
+   "question": "How should the seat be worshipped after its ritual bathing?",
+   "premises": [
+    "Fragrances are offered",
+    "Flowers and incense are offered",
+    "Worship is performed in due measure"
+   ],
+   "inference": "After bathing, the seat should be worshipped with fragrances, flowers, and incense in due measure.",
+   "uncertainties": [
+    "tanmatreṇa may indicate a specific mantra or measured application"
+   ],
+   "plain_english": "One should worship it with fragrances, flowers, and incense in due measure."
+  },
+  {
+   "verse": 6283,
+   "rows": [
+    {
+     "surface": "namaskāra",
+     "gloss": "salutation",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "joined-with",
+     "grounds": "accompanied by salutation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svabījena",
+     "gloss": "with-own-seed",
+     "grounds": "its own bīja mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by the seed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mantra elements must accompany the worship of the seat?",
+   "premises": [
+    "Salutation is included",
+    "The seat's own seed is included",
+    "Both accompany the worship"
+   ],
+   "inference": "The worship must be accompanied by salutation and endowed with its own seed mantra.",
+   "uncertainties": [],
+   "plain_english": "It should be accompanied by salutation and endowed with its own seed mantra."
+  },
+  {
+   "verse": 6284,
+   "rows": [
+    {
+     "surface": "tasyāgre",
+     "gloss": "before-it",
+     "grounds": "in front of the seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "prepared ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of preparation",
+     "morph": "absolutive(kṛ)"
+    },
+    {
+     "surface": "juhuyātsamidādibhiḥ",
+     "gloss": "should-offer-with-fuel-etc",
+     "grounds": "fire oblation with samidh and other materials",
+     "morph": "3.sg.optative.act(hu)+inst.pl"
+    }
+   ],
+   "question": "What fire ritual must be performed in front of the consecrated seat?",
+   "premises": [
+    "An altar is prepared before the seat",
+    "Oblations are to be offered",
+    "Fuel and other materials are used"
+   ],
+   "inference": "Having prepared an altar before it, one should offer oblations with fuel and other materials.",
+   "uncertainties": [],
+   "plain_english": "Having made an altar before it, one should offer oblations with fuel and other materials."
+  },
+  {
+   "verse": 6285,
+   "rows": [
+    {
+     "surface": "śatamaṣṭottaraṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "auspicious count of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "completion of oblations",
+     "morph": "absolutive(hu)"
+    },
+    {
+     "surface": "tanmantraṃ",
+     "gloss": "that-mantra",
+     "grounds": "the mantra of the seat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samudīrayan",
+     "gloss": "uttering",
+     "grounds": "reciting while offering",
+     "morph": "m.nom.sg.present-participle(samudīr)"
+    }
+   ],
+   "question": "How many oblations and with what recitation should the fire offering be completed?",
+   "premises": [
+    "One hundred and eight oblations are made",
+    "The oblations are completed",
+    "The seat's mantra is uttered during the rite"
+   ],
+   "inference": "One should complete one hundred and eight oblations while uttering that mantra.",
+   "uncertainties": [],
+   "plain_english": "Having offered one hundred and eight oblations while uttering that mantra,"
+  },
+  {
+   "verse": 6286,
+   "rows": [
+    {
+     "surface": "siṃhāsanaṃ",
+     "gloss": "lion-seat",
+     "grounds": "object of sprinkling and worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samubhyukṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "ritual sprinkling",
+     "morph": "absolutive(samabhyukṣ)"
+    },
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-fragrance-etc",
+     "grounds": "fragrance and other offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjayetpunaḥ",
+     "gloss": "should-worship-again",
+     "grounds": "repeated worship",
+     "morph": "3.sg.optative.act(pūj)+indecl."
+    }
+   ],
+   "question": "What renewed acts of worship follow the fire oblations for the lion-seat?",
+   "premises": [
+    "The lion-seat is sprinkled",
+    "Fragrance and other offerings are used",
+    "Worship is performed again"
+   ],
+   "inference": "After sprinkling the lion-seat, one should worship it again with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled the lion-seat, one should worship it again with fragrance and other offerings."
+  },
+  {
+   "verse": 6287,
+   "rows": [
+    {
+     "surface": "sarvābharaṇa",
+     "gloss": "all-ornaments",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "furnished with all ornaments",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chatra",
+     "gloss": "umbrella",
+     "grounds": "royal insignia",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cāmara",
+     "gloss": "chowrie",
+     "grounds": "royal insignia",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "furnished with umbrella and chowrie",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What royal insignia and adornments should be provided for the lion-seat?",
+   "premises": [
+    "All ornaments are to be present",
+    "An umbrella is included",
+    "Chowries are included"
+   ],
+   "inference": "The lion-seat should be furnished with all ornaments, an umbrella, and chowries.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with all ornaments and furnished with an umbrella and chowries."
+  },
+  {
+   "verse": 6288,
+   "rows": [
+    {
+     "surface": "narendrāsana",
+     "gloss": "king-seat",
+     "grounds": "royal throne",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃskārastvevaṃ",
+     "gloss": "consecration-thus",
+     "grounds": "consecration procedure as described",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "deve",
+     "gloss": "for-deity",
+     "grounds": "when applied to the deity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-distinguished",
+     "grounds": "differs or is specially qualified",
+     "morph": "3.sg.present.pass.(viśiṣ)"
+    }
+   ],
+   "question": "How does the consecration differ when performed for the deity rather than a king?",
+   "premises": [
+    "The royal seat consecration has been described",
+    "The same procedure applies to the deity",
+    "A distinction is made in that context"
+   ],
+   "inference": "The consecration described for a king's seat is distinguished when applied to the deity.",
+   "uncertainties": [
+    "exact nature of distinction specified in following verses"
+   ],
+   "plain_english": "Thus is the consecration of a king's seat; for the deity it is distinguished."
+  },
+  {
+   "verse": 6289,
+   "rows": [
+    {
+     "surface": "taddeva",
+     "gloss": "that-very",
+     "grounds": "refers to the same deity context",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "homa",
+     "gloss": "fire-offering",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktamāsanāṇubhiranvitam",
+     "gloss": "joined-with-fire-offering-endowed-with-seat-mantras",
+     "grounds": "combined with homa and seat mantras",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional ritual elements distinguish the deity's seat consecration?",
+   "premises": [
+    "The deity's consecration is under discussion",
+    "Fire offering is included",
+    "Seat mantras are included"
+   ],
+   "inference": "For the deity, the rite is joined with fire offering and endowed with the seat mantras.",
+   "uncertainties": [
+    "token boundary in compound reflects transmitted form"
+   ],
+   "plain_english": "That same rite for the deity is joined with fire offering and endowed with the seat mantras."
+  },
+  {
+   "verse": 6290,
+   "rows": [
+    {
+     "surface": "aṣṭadikvaṣṭa",
+     "gloss": "eight-in-eight-directions",
+     "grounds": "eight pots in eight directions",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṃbhāṃśca",
+     "gloss": "and-pots",
+     "grounds": "ritual vessels",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śakraśarvayoḥ",
+     "gloss": "of-indra-and-shiva",
+     "grounds": "directions or positions associated with Indra and Śarva",
+     "morph": "m.gen.dual"
+    }
+   ],
+   "question": "How should the ritual pots be arranged for the deity's seat consecration?",
+   "premises": [
+    "Eight pots are placed in the eight directions",
+    "A central placement is specified",
+    "Positions related to Indra and Śarva are mentioned"
+   ],
+   "inference": "Eight pots are arranged in the eight directions with a central placement involving Indra and Śarva.",
+   "uncertainties": [
+    "exact spatial relation of śakraśarvayoḥ is compressed"
+   ],
+   "plain_english": "One should place eight pots in the eight directions, and in the middle, in relation to Indra and Śarva."
+  },
+  {
+   "verse": 6291,
+   "rows": [
+    {
+     "surface": "śivāsanāṇu",
+     "gloss": "shiva-seat-mantra",
+     "grounds": "mantra of Śiva's seat",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokapān",
+     "gloss": "world-guardians",
+     "grounds": "guardians of the directions",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive worship",
+     "morph": "3.sg.optative.act(yaj)"
+    }
+   ],
+   "question": "Where should the Śiva-seat mantra and world guardians be worshipped in the arrangement?",
+   "premises": [
+    "The Śiva-seat mantra is placed in the middle",
+    "The world guardians are placed around",
+    "Worship is directed to them"
+   ],
+   "inference": "One should worship the Śiva-seat mantra in the middle and the world guardians around it.",
+   "uncertainties": [],
+   "plain_english": "One should worship the Śiva-seat mantra in the middle and the world guardians around it."
+  },
+  {
+   "verse": 6292,
+   "rows": [
+    {
+     "surface": "saṃtarpyāsana",
+     "gloss": "having-satisfied-seat",
+     "grounds": "after satisfying the seat deities/mantras",
+     "morph": "absolutive(saṃtarp)+compound-member"
+    },
+    {
+     "surface": "mantrāstu",
+     "gloss": "mantras-indeed",
+     "grounds": "the seat mantras",
+     "morph": "m.nom.pl+indecl."
+    },
+    {
+     "surface": "pūrṇānte",
+     "gloss": "at-completion-end",
+     "grounds": "at the conclusion of the pūrṇāhuti",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśikottamaḥ",
+     "gloss": "best-teacher",
+     "grounds": "the preeminent officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who completes the satisfaction of the seat mantras at the concluding oblation?",
+   "premises": [
+    "The seat mantras are satisfied",
+    "This occurs at the end of the full oblation",
+    "The best teacher performs the rite"
+   ],
+   "inference": "At the conclusion of the full oblation, the best teacher satisfies the seat mantras.",
+   "uncertainties": [],
+   "plain_english": "At the end of the final oblation, the best teacher should satisfy the seat mantras."
+  },
+  {
+   "verse": 6293,
+   "rows": [
+    {
+     "surface": "śivāsanāṇuṃ",
+     "gloss": "shiva-seat-mantra",
+     "grounds": "mantra of Śiva's seat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "in the middle of that arrangement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuṃbhasthaṃ",
+     "gloss": "placed-in-pot",
+     "grounds": "located in the pot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "should-install",
+     "grounds": "ritual placement",
+     "morph": "3.sg.optative.caus.(viniviś)"
+    }
+   ],
+   "question": "Where must the Śiva-seat mantra be ritually installed within the pot arrangement?",
+   "premises": [
+    "The Śiva-seat mantra is the object",
+    "It is associated with the pot",
+    "It is placed in the middle of the arrangement"
+   ],
+   "inference": "The Śiva-seat mantra should be installed in the pot in the middle of that arrangement.",
+   "uncertainties": [],
+   "plain_english": "He should install the Śiva-seat mantra, placed in the pot, in the middle of it."
+  },
+  {
+   "verse": 6294,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "completion of worship",
+     "morph": "absolutive(saṃpūj)"
+    },
+    {
+     "surface": "gandha+puṣpādyaiḥ",
+     "gloss": "with-fragrance-flowers-etc",
+     "grounds": "offerings of fragrance, flowers, and others",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tairmantraiśca",
+     "gloss": "and-with-those-mantras",
+     "grounds": "accompanied by the prescribed mantras",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "gurūttamaḥ",
+     "gloss": "best-guru",
+     "grounds": "the preeminent teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the best guru perform worship after installing the Śiva-seat mantra?",
+   "premises": [
+    "Worship is performed after installation",
+    "Fragrance, flowers, and other offerings are used",
+    "The prescribed mantras are recited"
+   ],
+   "inference": "The best guru should worship it with fragrance, flowers, and other offerings and with those mantras.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped it with fragrance, flowers, and other offerings, and with those mantras, the best guru—"
+  },
+  {
+   "verse": 6295,
+   "rows": [
+    {
+     "surface": "sumuhūrte",
+     "gloss": "at-auspicious-time",
+     "grounds": "favorable moment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sulagne",
+     "gloss": "at-good-ascendant",
+     "grounds": "favorable astrological ascendant",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśamadhiropayet",
+     "gloss": "should-install-lord-of-gods",
+     "grounds": "elevate or install the deity on the seat",
+     "morph": "3.sg.optative.caus.(adhi-ruh)"
+    }
+   ],
+   "question": "When should the lord of the gods be installed upon the consecrated seat?",
+   "premises": [
+    "An auspicious time is required",
+    "A favorable ascendant is required",
+    "The lord of the gods is to be installed"
+   ],
+   "inference": "At an auspicious time and favorable ascendant, one should install the lord of the gods upon the seat.",
+   "uncertainties": [],
+   "plain_english": "At an auspicious time and under a favorable ascendant, he should install the Lord of the gods upon it."
+  },
+  {
+   "verse": 6296,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "ritual-fee",
+     "grounds": "offering to the officiant",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāśakti",
+     "gloss": "according-to-ability",
+     "grounds": "in proportion to one's capacity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayed",
+     "gloss": "should-cause-to-give",
+     "grounds": "prescriptive giving",
+     "morph": "3.sg.optative.caus.(dā)"
+    },
+    {
+     "surface": "gurumūrtaye",
+     "gloss": "to-guru-form",
+     "grounds": "to the guru embodying the rite",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What offering must be given to the guru after installing the deity?",
+   "premises": [
+    "A ritual fee is required",
+    "It is given according to ability",
+    "It is given to the guru"
+   ],
+   "inference": "One should give a ritual fee to the guru according to one's ability.",
+   "uncertainties": [
+    "gurumūrtaye may refer to the guru's person or ritual form"
+   ],
+   "plain_english": "And one should give a ritual fee, according to one's ability, to the guru."
+  },
+  {
+   "verse": 6297,
+   "rows": [
+    {
+     "surface": "suvarṇaṃ",
+     "gloss": "gold",
+     "grounds": "precious metal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rajataṃ",
+     "gloss": "silver",
+     "grounds": "precious metal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāmramārakūṭaṃ",
+     "gloss": "copper-and-brass",
+     "grounds": "copper and ārakūṭa alloy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṃsyakam",
+     "gloss": "bronze",
+     "grounds": "bell metal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which metals are listed as suitable materials in this ritual context?",
+   "premises": [
+    "Gold is listed",
+    "Silver is listed",
+    "Copper, brass, and bronze are listed"
+   ],
+   "inference": "Gold, silver, copper, brass, and bronze are among the suitable metals named.",
+   "uncertainties": [
+    "ārakūṭa identified as brass by tradition"
+   ],
+   "plain_english": "Gold, silver, copper, brass, and bronze."
+  },
+  {
+   "verse": 6298,
+   "rows": [
+    {
+     "surface": "dantajaṃ",
+     "gloss": "ivory",
+     "grounds": "material born of tooth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣudrasiddhyarthaṃ",
+     "gloss": "for-minor-accomplishment",
+     "grounds": "purpose of lesser siddhi",
+     "morph": "n.acc.sg-adverbial"
+    },
+    {
+     "surface": "trapusīsāyasādikam",
+     "gloss": "tin-lead-iron-etc",
+     "grounds": "tin, lead, iron and similar materials",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What materials are prescribed specifically for attaining minor accomplishments?",
+   "premises": [
+    "Ivory is mentioned",
+    "Tin, lead, iron, and similar materials are mentioned",
+    "These are for minor accomplishment"
+   ],
+   "inference": "Ivory, tin, lead, iron, and similar materials are prescribed for minor accomplishments.",
+   "uncertainties": [],
+   "plain_english": "Ivory, and tin, lead, iron, and the like, are for minor accomplishments."
+  },
+  {
+   "verse": 6299,
+   "rows": [
+    {
+     "surface": "dvitryaṅgulaṃ",
+     "gloss": "two-or-three-fingers",
+     "grounds": "measure of two or three finger-breadths",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "starting at that measure",
+     "morph": "absolutive(samārabh)"
+    },
+    {
+     "surface": "caikāṅgula",
+     "gloss": "and-by-one-finger",
+     "grounds": "increment of one finger-breadth",
+     "morph": "compound"
+    },
+    {
+     "surface": "vivardhanāt",
+     "gloss": "by-increase",
+     "grounds": "by successive increase",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What measurement rule governs the incremental sizing described for the object?",
+   "premises": [
+    "The starting measure is two or three finger-breadths",
+    "The increase proceeds by one finger-breadth",
+    "Sizing follows successive increment"
+   ],
+   "inference": "The object should begin at two or three finger-breadths and increase by one finger-breadth at a time.",
+   "uncertainties": [],
+   "plain_english": "Beginning from two or three finger-breadths, increasing by one finger-breadth at a time."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "puṣpāñjalitrayaṃ",
+     "gloss": "three-flower-handfuls",
+     "grounds": "compound puṣpa-añjali-traya: three handfuls of flowers",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "absolutive of dā, having given",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative of tṛp, should cause to be satisfied",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "paradevatām",
+     "gloss": "supreme-deity",
+     "grounds": "para-devatā in accusative, supreme deity",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "After giving three handfuls of flowers, what action satisfies the supreme deity?",
+   "premises": [
+    "three flower handfuls are given",
+    "supreme deity is to be satisfied",
+    "offering precedes satisfaction"
+   ],
+   "inference": "the rite prescribes giving three flower handfuls then satisfying the supreme deity",
+   "uncertainties": [
+    "exact ritual context unspecified"
+   ],
+   "plain_english": "Having given three handfuls of flowers, one should satisfy the supreme deity."
+  }
+ ]
+}

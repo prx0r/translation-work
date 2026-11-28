@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "gauṇatatparakṛtaprathāyutais",
+     "gloss": "endowed-with-fame-made-by-secondary-meaning",
+     "grounds": "bahuvrīhi/tatpuruṣa compound: gauṇa-tatpara-kṛta-prathā-yuta; qualifying nāmabhiḥ",
+     "morph": "compound.adj.i.pl.n"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "anaphoric to the goddess (īśvarīṃ/amūm) in prior verses",
+     "morph": "pron.f.acc.sg"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "sadā + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇayanti",
+     "gloss": "they-reckon",
+     "grounds": "subject implied from prior context (e.g. practitioners/devotees)",
+     "morph": "3.pl.pres.act √gaṇ"
+    },
+    {
+     "surface": "nāmabhiḥ",
+     "gloss": "by-names",
+     "grounds": "instrumental of designation",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "By what kind of names is that goddess always designated?",
+   "premises": [
+    "That goddess is the object of designation.",
+    "The designation of her occurs always.",
+    "The names used are endowed with fame established by secondary meaning."
+   ],
+   "inference": "Therefore that goddess is always reckoned by names whose renown derives from secondary meaning.",
+   "uncertainties": [
+    "The agents of gaṇayanti are implied from the preceding context rather than named in this verse."
+   ],
+   "plain_english": "They always designate her by names whose renown is established through secondary meaning."
+  }
+ ]
+}

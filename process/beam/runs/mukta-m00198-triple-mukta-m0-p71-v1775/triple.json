@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "dvāraprāsādavistāraṃ",
+     "gloss": "door-shrine-width",
+     "grounds": "compound of dvāra, prāsāda, and vistāra denoting the width of door and shrine",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "paṃcadhā",
+     "gloss": "five-fold",
+     "grounds": "indeclinable adverb indicating division into five parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle indicating what is declared",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "What fivefold measure is prescribed for the width of the door and shrine?",
+   "premises": [
+    "The width of the door and shrine is the subject of specification.",
+    "A fivefold division is assigned to this width.",
+    "This specification is authoritatively proclaimed."
+   ],
+   "inference": "The width of the door and shrine is prescribed as fivefold.",
+   "uncertainties": [
+    "Whether prāsāda refers specifically to the main shrine or a broader temple structure is context-dependent."
+   ],
+   "plain_english": "The width of the door and the shrine is proclaimed to be fivefold."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "triphalā",
+     "gloss": "three-fruits",
+     "grounds": "compound naming the three-fruit preparation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trijātakaṃ",
+     "gloss": "three-spices",
+     "grounds": "compound naming the three-spice preparation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "particle joining the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūrāgarucandanam",
+     "gloss": "camphor-aloewood-sandalwood",
+     "grounds": "compound naming camphor, aloewood, and sandalwood together",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances are named in this enumeration of ritual ingredients?",
+   "premises": [
+    "The verse lists triphala.",
+    "The verse lists trijataka.",
+    "The verse lists camphor aloewood and sandalwood."
+   ],
+   "inference": "These named substances complete the enumerated ingredient list.",
+   "uncertainties": [
+    "Exact ritual use is not specified in this verse."
+   ],
+   "plain_english": "Triphala, trijataka, and camphor, aloewood, and sandalwood."
+  }
+ ]
+}

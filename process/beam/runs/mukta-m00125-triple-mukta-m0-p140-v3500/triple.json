@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ expressing prior action",
+     "morph": "(gerund) kṛ"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating time or stage of completion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound śānti-homa as ritual object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking ritual actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pot",
+     "grounds": "ritual vessel to be installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive of sam-sthā expressing prior installation",
+     "morph": "(gerund) sam-sthā"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable indicating conformity with prior procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What remedial ritual actions are required when pot installation was omitted during flag-raising?",
+   "premises": [
+    "The prior context states pot installation may be omitted at flag-raising time.",
+    "A peace-fire-offering must be performed at the end.",
+    "The pot must be established according to the earlier procedure."
+   ],
+   "inference": "If pot installation was omitted during flag-raising, one must perform a peace-fire-offering at the end and then establish the pot as before.",
+   "uncertainties": [],
+   "plain_english": "Having performed a peace-fire-offering at the end, one should establish the pot as before."
+  }
+ ]
+}

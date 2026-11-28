@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p205",
+ "items": [
+  {
+   "verse": 5125,
+   "rows": [
+    {
+     "surface": "dhāmnāṃ",
+     "gloss": "by-shrines",
+     "grounds": "genitive plural of dhāman, shrine or abode",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "samastabhūṣābhir",
+     "gloss": "with-all-ornaments",
+     "grounds": "instrumental plural of samastabhūṣā, all ornaments",
+     "morph": "noun.instr.pl.f"
+    },
+    {
+     "surface": "anyābhiḥ",
+     "gloss": "with-other",
+     "grounds": "instrumental plural feminine of anya, other",
+     "morph": "adj.instr.pl.f"
+    },
+    {
+     "surface": "samalaṃkṛtam",
+     "gloss": "well-decorated",
+     "grounds": "past participle of samalaṃkṛ, well decorated; nominative singular neuter",
+     "morph": "participle.nom.sg.n"
+    }
+   ],
+   "question": "How should a shrine be adorned with ornaments and other decorations?",
+   "premises": [
+    "Shrines are adorned with all ornaments.",
+    "Other ornaments also decorate them.",
+    "The result is well-decorated."
+   ],
+   "inference": "The verse prescribes complete ornamentation of shrines using all and other ornaments.",
+   "uncertainties": [
+    "Exact referent of dhāman as shrine or abode is uncertain.",
+    "samalaṃkṛtam may modify the shrine or the whole structure."
+   ],
+   "plain_english": "Shrines are to be well decorated with all ornaments and other ornaments."
+  }
+ ]
+}

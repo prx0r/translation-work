@@ -1,0 +1,269 @@
+{
+ "song": "net-p17",
+ "items": [
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "śrīrāmādigurugrāmaḥ",
+     "gloss": "shri-rama-etc-guru-line",
+     "grounds": "fused compound naming the guru lineage",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antevāsinaḥ",
+     "gloss": "disciples",
+     "grounds": "plural form of antevāsin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "apare",
+     "gloss": "others",
+     "grounds": "plural adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How does the guru lineage and its disciples relate to the others?",
+   "premises": [
+    "guru lineage is named",
+    "disciples are mentioned",
+    "others are distinguished"
+   ],
+   "inference": "The verse situates the teaching within a lineage and its students.",
+   "uncertainties": [
+    "exact case of antevāsinaḥ is ambiguous"
+   ],
+   "plain_english": "Thus the line of gurus beginning with Shri Rama and the disciples, and others."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "akārṣuḥ",
+     "gloss": "did",
+     "grounds": "aorist of kṛ",
+     "morph": "3.pl.act.aor"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of aham",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "something",
+     "grounds": "indefinite pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udyotitaṃ",
+     "gloss": "illumined",
+     "grounds": "past participle of udyot",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of aham",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What did they do for me that this was illumined by me?",
+   "premises": [
+    "they did something",
+    "it was illumined by me",
+    "this refers to the teaching"
+   ],
+   "inference": "The verse credits the lineage with enabling the author's illumination.",
+   "uncertainties": [
+    "subject of akārṣuḥ is implicit"
+   ],
+   "plain_english": "They did something for me; then this was illumined by me."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "parādvaitāmṛtasphītaḥ",
+     "gloss": "supreme-nondual-nectar-swollen",
+     "grounds": "compound describing the text",
+     "morph": "compound"
+    },
+    {
+     "surface": "netrodyotaḥ",
+     "gloss": "netra-illumination",
+     "grounds": "compound naming the work",
+     "morph": "compound"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "utthitaḥ",
+     "gloss": "arisen",
+     "grounds": "past participle of utthā",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What has arisen as the supreme nondual nectar-swollen Netra illumination?",
+   "premises": [
+    "the work is called netra-illumination",
+    "it is swollen with supreme nondual nectar",
+    "it has arisen"
+   ],
+   "inference": "The verse presents the text itself as an arisen illumination.",
+   "uncertainties": [
+    "exact syntactic relation of parādvaitāmṛtasphītaḥ"
+   ],
+   "plain_english": "This Netra-illumination, swollen with supreme nondual nectar, has arisen."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "parimalasarasānāṃ",
+     "gloss": "of-fragrant-essences",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vyākaro",
+     "gloss": "explained",
+     "grounds": "aorist of vyākṛ",
+     "morph": "3.sg.act.aor"
+    },
+    {
+     "surface": "śāstram",
+     "gloss": "scripture",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What scripture of fragrant essences is explained here?",
+   "premises": [
+    "this scripture is explained",
+    "it concerns fragrant essences",
+    "the explanation is given"
+   ],
+   "inference": "The verse identifies the work as an explained scripture of essences.",
+   "uncertainties": [
+    "vyākaro may be variant form"
+   ],
+   "plain_english": "This scripture of fragrant essences was explained."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "asmābhiḥ",
+     "gloss": "by-us",
+     "grounds": "instrumental plural of asmad",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vimale",
+     "gloss": "in-pure",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdambaratale",
+     "gloss": "heart-sky",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niryantraṇaṃ",
+     "gloss": "without-restraint",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphī(sthī",
+     "gloss": "swells",
+     "grounds": "textual variant sphī/sthī",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "How does it swell without restraint in the pure heart-sky by us?",
+   "premises": [
+    "it swells by us",
+    "it swells in pure heart-sky",
+    "it swells without restraint"
+   ],
+   "inference": "The verse describes an unrestrained swelling in the pure heart-space.",
+   "uncertainties": [
+    "token sphī(sthī is a textual variant"
+   ],
+   "plain_english": "By us it swells without restraint in the pure sky of the heart."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "jyotirnetraṃ",
+     "gloss": "light-netra",
+     "grounds": "compound naming the third eye",
+     "morph": "compound"
+    },
+    {
+     "surface": "jayati",
+     "gloss": "conquers",
+     "grounds": "present of ji",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "paramānandapūrṇaṃ",
+     "gloss": "supreme-bliss-full",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does the third light-netra conquer as supreme-bliss-full?",
+   "premises": [
+    "the third light-netra conquers",
+    "it is full of supreme bliss",
+    "it is the third"
+   ],
+   "inference": "The verse culminates in the third light-eye conquering as full of supreme bliss.",
+   "uncertainties": [
+    "exact referent of tṛtīyam"
+   ],
+   "plain_english": "The third light-netra, full of supreme bliss, conquers."
+  }
+ ]
+}

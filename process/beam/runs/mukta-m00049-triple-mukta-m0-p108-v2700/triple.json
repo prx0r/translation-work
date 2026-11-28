@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of instrumental compound indicating means of penalty",
+     "morph": "compound:dhana+daṇḍena"
+    },
+    {
+     "surface": "daṇḍena",
+     "gloss": "by-fine",
+     "grounds": "final member of compound expressing punishment through wealth",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāya",
+     "gloss": "body",
+     "grounds": "first member of instrumental compound indicating bodily means",
+     "morph": "compound:kāya+damena"
+    },
+    {
+     "surface": "damena",
+     "gloss": "by-chastisement",
+     "grounds": "final member of compound expressing restraint of the body",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "refers to the offender under consideration",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśodhanam",
+     "gloss": "purification",
+     "grounds": "states the corrective outcome achieved by the stated means",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what alternative penalties can the offender's purification be achieved instead of execution?",
+   "premises": [
+    "A fine of wealth can serve as a corrective penalty.",
+    "Bodily chastisement can serve as an alternative corrective penalty.",
+    "These penalties are presented as means of purification for the offender."
+   ],
+   "inference": "The offender may be purified through a monetary fine or through bodily chastisement rather than by being killed.",
+   "uncertainties": [
+    "The exact scope and severity implied by kāya-damena are not specified in this verse alone."
+   ],
+   "plain_english": "His purification is accomplished either by a fine of wealth or by bodily chastisement."
+  }
+ ]
+}

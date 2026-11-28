@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "sādhivāsaṃ",
+     "gloss": "with-adhivāsa",
+     "grounds": "fused sa+adhivāsa form; accusative singular masculine or neuter",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative third singular active of √pūj",
+     "morph": "3.sg.act.opt.√pūj"
+    }
+   ],
+   "question": "What ritual action follows the previously described adhivāsa procedure?",
+   "premises": [
+    "previous verses prescribe adhivāsa",
+    "this verse commands worship",
+    "worship occurs with adhivāsa"
+   ],
+   "inference": "The rite culminates in worship performed with adhivāsa.",
+   "uncertainties": [
+    "exact deity or object unspecified",
+    "adhivāsa details rely on prior verses"
+   ],
+   "plain_english": "One should worship with adhivāsa, as previously described."
+  }
+ ]
+}

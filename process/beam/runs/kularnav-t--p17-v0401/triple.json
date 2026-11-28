@@ -1,0 +1,522 @@
+{
+ "song": "kul-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇena",
+     "gloss": "to-be-spoken",
+     "grounds": "future participle passive",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "instrumental of vidhi",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "devatābhāva",
+     "gloss": "deity-nature",
+     "grounds": "compound devatā+bhāva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "dative of siddhi",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What rite is to be spoken for deity-nature accomplishment?",
+   "premises": [
+    "rite is to be spoken",
+    "deity-nature is named",
+    "accomplishment is the aim"
+   ],
+   "inference": "The verse introduces a rite for accomplishing deity-nature.",
+   "uncertainties": [
+    "exact syntactic role of devatābhāva"
+   ],
+   "plain_english": "A rite to be spoken is given for the accomplishment of deity-nature."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "mahāṣoḍhāhvayo",
+     "gloss": "great-ṣoḍha-called",
+     "grounds": "compound mahā+ṣoḍha+āhvaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "nyāsa",
+     "grounds": "nominative of nyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvanyāsānām",
+     "gloss": "of-all-nyāsas",
+     "grounds": "genitive plural of sarva+nyāsa",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "uttamottamaḥ",
+     "gloss": "supreme-supreme",
+     "grounds": "reduplicated superlative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which nyāsa is supreme among all nyāsas?",
+   "premises": [
+    "great ṣoḍha is named",
+    "nyāsa is the subject",
+    "all nyāsas are compared"
+   ],
+   "inference": "The great ṣoḍha nyāsa is declared supreme among nyāsas.",
+   "uncertainties": [
+    "exact ritual scope of ṣoḍha"
+   ],
+   "plain_english": "The great ṣoḍha nyāsa is the supreme among all nyāsas."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "prapañca",
+     "gloss": "world",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvīpa",
+     "gloss": "islands",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jaladhi",
+     "gloss": "oceans",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "giri",
+     "gloss": "mountains",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pattana",
+     "gloss": "cities",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pīṭhakāḥ",
+     "gloss": "seats",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What world elements are listed as seats?",
+   "premises": [
+    "world is named",
+    "islands oceans mountains cities are listed",
+    "seats are named"
+   ],
+   "inference": "The verse lists world, islands, oceans, mountains, cities, and seats.",
+   "uncertainties": [
+    "whether all terms are nominative in context"
+   ],
+   "plain_english": "World, islands, oceans, mountains, cities, and seats are enumerated."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "sveda",
+     "gloss": "sweat-born",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṇḍaja",
+     "gloss": "egg-born",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarāyuja",
+     "gloss": "womb-born",
+     "grounds": "compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityuktāḥ",
+     "gloss": "thus-spoken",
+     "grounds": "participle with iti",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te hi",
+     "gloss": "they-indeed",
+     "grounds": "pronoun with particle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many beings are thus spoken as born?",
+   "premises": [
+    "sweat-born egg-born womb-born are named",
+    "they are thus spoken",
+    "sixteen is stated"
+   ],
+   "inference": "Sixteen beings of these birth classes are stated.",
+   "uncertainties": [
+    "exact referent of te"
+   ],
+   "plain_english": "Sweat-born, egg-born, and womb-born beings, sixteen in number, are thus spoken."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "samudratanayā",
+     "gloss": "ocean-daughter",
+     "grounds": "compound samudra+tanayā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokamātā",
+     "gloss": "world-mother",
+     "grounds": "compound loka+mātā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kamalavāsinī",
+     "gloss": "lotus-dwelling",
+     "grounds": "compound kamala+vāsinī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is called ocean-daughter world-mother?",
+   "premises": [
+    "ocean-daughter is named",
+    "world-mother is named",
+    "lotus-dwelling is named"
+   ],
+   "inference": "The verse names a goddess as ocean-daughter, world-mother, and lotus-dwelling.",
+   "uncertainties": [
+    "specific deity identification"
+   ],
+   "plain_english": "The ocean-daughter, world-mother, lotus-dwelling goddess is named."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prapañcānām",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svarāṇām",
+     "gloss": "of-vowels",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhīśvarāḥ",
+     "gloss": "presiding-deities",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who presides over worlds and vowels?",
+   "premises": [
+    "powers are named",
+    "worlds and vowels are genitive",
+    "presiding-deities are named"
+   ],
+   "inference": "Powers are the presiding deities of worlds and vowels.",
+   "uncertainties": [
+    "whether śaktayaḥ and adhīśvarāḥ are co-referential"
+   ],
+   "plain_english": "Powers are the presiding deities of worlds and vowels."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "ghaṭikā",
+     "gloss": "ghaṭikā",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca muhūrttaḥ",
+     "gloss": "and-muhūrta",
+     "grounds": "conjunction plus noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca praharaḥ",
+     "gloss": "and-prahara",
+     "grounds": "conjunction plus noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divasaḥ tathā",
+     "gloss": "and-day",
+     "grounds": "noun with particle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which time units are listed here?",
+   "premises": [
+    "ghaṭikā is named",
+    "muhūrta and prahara are named",
+    "day is named"
+   ],
+   "inference": "The verse lists ghaṭikā, muhūrta, prahara, and day.",
+   "uncertainties": [
+    "exact grammatical coordination"
+   ],
+   "plain_english": "Ghaṭikā, muhūrta, prahara, and day are listed."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca karaṇam",
+     "gloss": "and-karaṇa",
+     "grounds": "conjunction plus noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pakṣau",
+     "gloss": "fortnights",
+     "grounds": "nominative dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "māsaḥ",
+     "gloss": "month",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāśiḥ",
+     "gloss": "zodiac",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛtuḥ tathā",
+     "gloss": "season",
+     "grounds": "noun with particle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which further time units are listed?",
+   "premises": [
+    "yoga and karaṇa are named",
+    "fortnights month zodiac season are named"
+   ],
+   "inference": "The verse lists yoga, karaṇa, fortnights, month, zodiac, and season.",
+   "uncertainties": [
+    "exact relation to previous verse"
+   ],
+   "plain_english": "Yoga, karaṇa, fortnights, month, zodiac, and season are listed."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "genitive plural pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sthānaniyamaḥ",
+     "gloss": "place-rule",
+     "grounds": "compound sthāna+niyama",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdayāntaḥ",
+     "gloss": "in-heart",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samīritaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the place-rule of these declared?",
+   "premises": [
+    "of-these is genitive",
+    "place-rule is subject",
+    "in-heart is locative",
+    "declared is participle"
+   ],
+   "inference": "The place-rule of these is declared in the heart.",
+   "uncertainties": [
+    "whether eteṣām refers to time units"
+   ],
+   "plain_english": "The place-rule of these is declared within the heart."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "īśvarī",
+     "gloss": "īśvarī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īśānī",
+     "gloss": "īśānī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvamaṅgalā",
+     "gloss": "all-auspicious",
+     "grounds": "compound sarva+maṅgalā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess names are listed here?",
+   "premises": [
+    "īśvarī śāmbhavī īśānī pārvatī are named",
+    "all-auspicious is named"
+   ],
+   "inference": "The verse lists goddess names including all-auspicious.",
+   "uncertainties": [
+    "whether all are epithets of one goddess"
+   ],
+   "plain_english": "Īśvarī, Śāmbhavī, Īśānī, Pārvatī, and all-auspicious are named."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "mṛḍānī",
+     "gloss": "mṛḍānī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca rudrāṇī",
+     "gloss": "and-rudrāṇī",
+     "grounds": "conjunction plus noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvāṇī",
+     "gloss": "sarvāṇī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "compound parama+īśvarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which further goddess names are listed?",
+   "premises": [
+    "mṛḍānī is named",
+    "rudrāṇī is named",
+    "sarvāṇī is named",
+    "supreme-goddess is named"
+   ],
+   "inference": "The verse lists further goddess names ending in supreme goddess.",
+   "uncertainties": [
+    "whether these are separate deities"
+   ],
+   "plain_english": "Mṛḍānī, Rudrāṇī, Sarvāṇī, and supreme goddess are named."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "genitive plural pronoun",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "sthānaniyamaḥ",
+     "gloss": "place-rule",
+     "grounds": "compound sthāna+niyama",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdayāntaḥ",
+     "gloss": "in-heart",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samīritaḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the place-rule of these goddesses declared?",
+   "premises": [
+    "of-these is genitive",
+    "place-rule is subject",
+    "in-heart is locative",
+    "declared is participle"
+   ],
+   "inference": "The place-rule of these goddesses is declared in the heart.",
+   "uncertainties": [
+    "whether etāsām refers to listed goddesses"
+   ],
+   "plain_english": "The place-rule of these goddesses is declared within the heart."
+  }
+ ]
+}

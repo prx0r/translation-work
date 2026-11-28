@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "gṛha+abhyantaram+ānīya",
+     "gloss": "house-interior-having-brought",
+     "grounds": "absolutive of ā-nī with compound object gṛha-abhyantara; indicates prior action of bringing inside the house",
+     "morph": "(gerund) ā-nī"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "causative optative prescribing the subsequent ritual action",
+     "morph": "3.sg.act.opt-caus sthā"
+    },
+    {
+     "surface": "āsana+upari",
+     "gloss": "seat-upon",
+     "grounds": "locative compound/adverbial phrase specifying the place of installation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where must the ritually bathed deity be installed after being brought inside the house?",
+   "premises": [
+    "The deity has been brought into the interior of the house.",
+    "A prescribed action of placement follows this bringing.",
+    "The designated location for placement is upon a seat."
+   ],
+   "inference": "After being brought inside the house, the bathed deity should be placed upon a seat.",
+   "uncertainties": [],
+   "plain_english": "Having brought it inside the house, one should place it upon the seat."
+  }
+ ]
+}

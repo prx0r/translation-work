@@ -1,0 +1,896 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "pāṭalābhā",
+     "gloss": "lotus-hued",
+     "grounds": "color epithet",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vajrādyāḥ",
+     "gloss": "vajra-and-others",
+     "grounds": "compound list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parikīrttitāḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.pl.pp"
+    }
+   ],
+   "question": "Which mudrās are declared lotus-hued and vajra-like in this ritual context?",
+   "premises": [
+    "pāṭalābhā names lotus hue",
+    "vajrādyāḥ names vajra and others",
+    "parikīrttitāḥ states declaration"
+   ],
+   "inference": "The verse declares a set of mudrās as lotus-hued and vajra-like.",
+   "uncertainties": [
+    "exact mudrā list not given"
+   ],
+   "plain_english": "Lotus-hued vajra and related mudrās are declared."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "airāvata",
+     "gloss": "airāvata",
+     "grounds": "vehicle name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meṣo",
+     "gloss": "ram",
+     "grounds": "animal vehicle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahiṣaḥ",
+     "gloss": "buffalo",
+     "grounds": "animal vehicle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pretasaṃjñakaḥ",
+     "gloss": "called-pretas",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which vehicles are assigned to these deities in ordered sequence?",
+   "premises": [
+    "airāvata is named",
+    "meṣo and mahiṣaḥ are named",
+    "pretasaṃjñakaḥ names pretas"
+   ],
+   "inference": "The verse lists vehicles including Airāvata, ram, buffalo, and pretas.",
+   "uncertainties": [
+    "deity mapping implicit"
+   ],
+   "plain_english": "Airāvata, ram, buffalo, and pretas are the vehicles."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vāhanāni",
+     "gloss": "vehicles",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres root-vid"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who knows the ordered vehicles of these deities?",
+   "premises": [
+    "kramāt means in order",
+    "eṣāṃ means of these",
+    "vāhanāni means vehicles",
+    "viduḥ means know",
+    "budhāḥ means wise"
+   ],
+   "inference": "The wise know the ordered vehicles of these deities.",
+   "uncertainties": [
+    "which wise tradition"
+   ],
+   "plain_english": "The wise know these vehicles in order."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "vikalpena",
+     "gloss": "optionally",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anvitaḥ",
+     "gloss": "accompanied",
+     "grounds": "participle",
+     "morph": "m.nom.sg.pp"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "May the rite be optionally accompanied by these elements?",
+   "premises": [
+    "vikalpena means optionally",
+    "anvitaḥ means accompanied",
+    "bhavet means may be"
+   ],
+   "inference": "The rite may optionally be accompanied.",
+   "uncertainties": [
+    "what accompanies"
+   ],
+   "plain_english": "It may optionally be accompanied."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgendravajrādyaiḥ",
+     "gloss": "with-limb-indra-vajra-etc",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-pūj"
+    },
+    {
+     "surface": "iṣṭadevatām",
+     "gloss": "chosen-deity",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "With what limbs and vajra-like elements should one worship the chosen deity here?",
+   "premises": [
+    "iha means here",
+    "aṅgendravajrādyaiḥ means with limb Indra vajra etc",
+    "pūjayet means worship",
+    "iṣṭadevatām means chosen deity"
+   ],
+   "inference": "One worships the chosen deity here with limb, Indra, vajra, and related elements.",
+   "uncertainties": [
+    "exact limb list"
+   ],
+   "plain_english": "Here worship the chosen deity with limb, Indra, vajra, and related elements."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "prakurvīta",
+     "gloss": "make",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-kṛ"
+    },
+    {
+     "surface": "tāmrakāṃsyādinirmite",
+     "gloss": "of-copper-bronze-etc-made",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What material vessel should be made for this rite?",
+   "premises": [
+    "prakurvīta means make",
+    "tāmrakāṃsyādinirmite means of copper bronze etc made"
+   ],
+   "inference": "One makes a vessel of copper, bronze, and similar materials.",
+   "uncertainties": [
+    "vessel type implicit"
+   ],
+   "plain_english": "Make a vessel of copper, bronze, and similar materials."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "sārāṅgāraviniḥkṣiptaiḥ",
+     "gloss": "with-excellent-charcoal-scattered",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "guggulvaguruvṛkṣajaiḥ",
+     "gloss": "from-guggulu-aguru-tree",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What incense materials are scattered for worship?",
+   "premises": [
+    "sārāṅgāraviniḥkṣiptaiḥ means with excellent charcoal scattered",
+    "guggulvaguruvṛkṣajaiḥ means from guggulu aguru tree"
+   ],
+   "inference": "Excellent charcoal and guggulu-aguru tree materials are used as incense.",
+   "uncertainties": [
+    "exact mixture"
+   ],
+   "plain_english": "Scatter excellent charcoal and guggulu-aguru tree materials."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "ananyārpitadhūpaḥ",
+     "gloss": "incense-not-offered-elsewhere",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śasyate",
+     "gloss": "praised",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres root-śaṃs"
+    },
+    {
+     "surface": "arcana-karmaṇi",
+     "gloss": "in-worship-rite",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Why is incense not offered elsewhere praised in worship?",
+   "premises": [
+    "ananyārpitadhūpaḥ means incense not offered elsewhere",
+    "ayaṃ means this",
+    "śasyate means praised",
+    "arcana-karmaṇi means in worship rite"
+   ],
+   "inference": "Incense not offered elsewhere is praised in the worship rite.",
+   "uncertainties": [
+    "reason for praise implicit"
+   ],
+   "plain_english": "This incense, not offered elsewhere, is praised in worship."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "pradīptaḥ",
+     "gloss": "lit",
+     "grounds": "participle",
+     "morph": "m.nom.sg.pp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartyā",
+     "gloss": "with-wick",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "gavyaghṛtāktayā",
+     "gloss": "smeared-with-cow-ghee",
+     "grounds": "compound instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How should the lamp be lit for worship?",
+   "premises": [
+    "pradīptaḥ means lit",
+    "ca means and",
+    "vartyā means with wick",
+    "gavyaghṛtāktayā means smeared with cow ghee"
+   ],
+   "inference": "The lamp is lit with a wick smeared with cow ghee.",
+   "uncertainties": [
+    "lamp type implicit"
+   ],
+   "plain_english": "Light the lamp with a wick smeared with cow ghee."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "śāradāyām",
+     "gloss": "in-autumn",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "atispaṣṭaṃ",
+     "gloss": "very-clear",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhūpadīpayoḥ",
+     "gloss": "of-incense-and-lamp",
+     "grounds": "compound genitive",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "When is the characteristic of incense and lamp very clear?",
+   "premises": [
+    "śāradāyām means in autumn",
+    "atispaṣṭaṃ means very clear",
+    "lakṣaṇaṃ means characteristic",
+    "dhūpadīpayoḥ means of incense and lamp"
+   ],
+   "inference": "In autumn the characteristic of incense and lamp is very clear.",
+   "uncertainties": [
+    "exact characteristic"
+   ],
+   "plain_english": "In autumn the incense and lamp characteristic is very clear."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "dhūpayet",
+     "gloss": "incense",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-dhūp"
+    },
+    {
+     "surface": "ājyasaṃmiśraiḥ",
+     "gloss": "mixed-with-ghee",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nīcaiḥ",
+     "gloss": "low",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "priest",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the priest offer incense to the deity?",
+   "premises": [
+    "dhūpayet means incense",
+    "ājyasaṃmiśraiḥ means mixed with ghee",
+    "nīcaiḥ means low",
+    "devasya means of deity",
+    "deśikaḥ means priest"
+   ],
+   "inference": "The priest offers incense mixed with ghee low before the deity.",
+   "uncertainties": [
+    "height exact"
+   ],
+   "plain_english": "The priest offers ghee-mixed incense low to the deity."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "show",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-dṛś"
+    },
+    {
+     "surface": "dīpān",
+     "gloss": "lamps",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "uccaiḥ",
+     "gloss": "high",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saurabhaśālinaḥ",
+     "gloss": "fragrant",
+     "grounds": "compound accusative",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should fragrant lamps be shown in worship?",
+   "premises": [
+    "darśayet means show",
+    "dīpān means lamps",
+    "uccaiḥ means high",
+    "saurabhaśālinaḥ means fragrant"
+   ],
+   "inference": "Fragrant lamps should be shown high.",
+   "uncertainties": [
+    "number of lamps"
+   ],
+   "plain_english": "Show fragrant lamps high."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "pradānārthaṃ",
+     "gloss": "for-offering",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "request",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-prārth"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "chosen",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What request should be made before offering to the chosen deity?",
+   "premises": [
+    "pradānārthaṃ means for offering",
+    "prārthayet means request",
+    "iṣṭa means chosen",
+    "devatām means deity"
+   ],
+   "inference": "One requests the chosen deity for the purpose of offering.",
+   "uncertainties": [
+    "request wording"
+   ],
+   "plain_english": "Request the chosen deity for offering."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛdu",
+     "gloss": "soft",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "soṣṇaṃ",
+     "gloss": "warm",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "supācitam",
+     "gloss": "well-cooked",
+     "grounds": "participle",
+     "morph": "n.nom.sg.pp"
+    }
+   ],
+   "question": "What qualities should the food offering have?",
+   "premises": [
+    "naivedyaṃ means food offering",
+    "mṛdu means soft",
+    "soṣṇaṃ means warm",
+    "supācitam means well cooked"
+   ],
+   "inference": "The food offering should be soft, warm, and well cooked.",
+   "uncertainties": [
+    "ingredients"
+   ],
+   "plain_english": "The food offering should be soft, warm, and well cooked."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "kadalīpanasāmrādi",
+     "gloss": "banana-jackfruit-mango-etc",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dugdhaṃ",
+     "gloss": "milk",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prapānakam",
+     "gloss": "drink",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What foods and drinks are included in the offering?",
+   "premises": [
+    "kadalīpanasāmrādi means banana jackfruit mango etc",
+    "dadhi means curd",
+    "dugdhaṃ means milk",
+    "prapānakam means drink"
+   ],
+   "inference": "The offering includes banana, jackfruit, mango, curd, milk, and drink.",
+   "uncertainties": [
+    "exact list"
+   ],
+   "plain_english": "Offer banana, jackfruit, mango, curd, milk, and drink."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "astrokṣitaṃ",
+     "gloss": "sprinkled-with-weapon-mantra",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.pp"
+    },
+    {
+     "surface": "cakramudrārakṣitaṃ",
+     "gloss": "protected-by-cakra-mudrā",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.pp"
+    },
+    {
+     "surface": "vāyuvāriṇā",
+     "gloss": "by-air-and-water",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How is the offering protected and sprinkled?",
+   "premises": [
+    "astrokṣitaṃ means sprinkled with weapon mantra",
+    "cakramudrārakṣitaṃ means protected by cakra mudrā",
+    "vāyuvāriṇā means by air and water"
+   ],
+   "inference": "The offering is sprinkled with weapon mantra and protected by cakra mudrā using air and water.",
+   "uncertainties": [
+    "sequence"
+   ],
+   "plain_english": "Sprinkle with weapon mantra and protect with cakra mudrā by air and water."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "sudhādhārāpūrṇaṃ",
+     "gloss": "filled-with-nectar-stream",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlāmṛtīkṛtam",
+     "gloss": "made-nectar-by-root-mantra",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.pp"
+    }
+   ],
+   "question": "How is the offering made nectar-filled?",
+   "premises": [
+    "sudhādhārāpūrṇaṃ means filled with nectar stream",
+    "mūlāmṛtīkṛtam means made nectar by root mantra"
+   ],
+   "inference": "The offering is filled with nectar stream and made nectar by root mantra.",
+   "uncertainties": [
+    "root mantra identity"
+   ],
+   "plain_english": "Fill with nectar stream and make nectar by root mantra."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "amṛtīkṛtya",
+     "gloss": "having-made-nectar",
+     "grounds": "gerund",
+     "morph": "gerund root-kṛ"
+    },
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-sandal-etc",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "naivedyam",
+     "gloss": "food",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-pūj"
+    }
+   ],
+   "question": "After making nectar, how should food be worshipped?",
+   "premises": [
+    "amṛtīkṛtya means having made nectar",
+    "gandhādyaiḥ means with sandal etc",
+    "naivedyam means food",
+    "atha means then",
+    "pūjayet means worship"
+   ],
+   "inference": "After making nectar, worship the food with sandal and related substances.",
+   "uncertainties": [
+    "exact substances"
+   ],
+   "plain_english": "After making nectar, worship the food with sandal and related substances."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "svāhāntaṃ",
+     "gloss": "ending-with-svāhā",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root-mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "reciting",
+     "grounds": "gerund",
+     "morph": "gerund root-uccār"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "gerund",
+     "morph": "gerund root-dā"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "offer",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-nivid"
+    }
+   ],
+   "question": "How should water be offered with the root mantra?",
+   "premises": [
+    "svāhāntaṃ means ending with svāhā",
+    "mūlam means root mantra",
+    "uccārya means reciting",
+    "jalaṃ means water",
+    "dattvā means giving",
+    "nivedayet means offer"
+   ],
+   "inference": "Recite the root mantra ending in svāhā, give water, and offer.",
+   "uncertainties": [
+    "offering recipient"
+   ],
+   "plain_english": "Recite the root mantra ending in svāhā, give water, and offer."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "sarvārcāsu",
+     "gloss": "in-all-worships",
+     "grounds": "compound locative",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nijākhyayā",
+     "gloss": "by-own-name",
+     "grounds": "compound instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "By what name should all worships be performed?",
+   "premises": [
+    "sarvārcāsu means in all worships",
+    "nijākhyayā means by own name"
+   ],
+   "inference": "All worships are performed by one's own name.",
+   "uncertainties": [
+    "whose own name"
+   ],
+   "plain_english": "In all worships use one's own name."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "vāmadoṣṇā",
+     "gloss": "left-hand",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vikacotpatrasannibhām",
+     "gloss": "resembling-open-lotus",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What hand posture resembles an open lotus?",
+   "premises": [
+    "vāmadoṣṇā means left hand",
+    "vikacotpatrasannibhām means resembling open lotus"
+   ],
+   "inference": "The left hand resembles an open lotus.",
+   "uncertainties": [
+    "exact gesture"
+   ],
+   "plain_english": "The left hand resembles an open lotus."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "kaniṣṭhikānām",
+     "gloss": "of-little-fingers",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "aṅguṣṭhaśirasā",
+     "gloss": "with-thumb-tip",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "touch",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-spṛś"
+    }
+   ],
+   "question": "How should the little fingers be touched?",
+   "premises": [
+    "kaniṣṭhikānām means of little fingers",
+    "aṅguṣṭhaśirasā means with thumb tip",
+    "spṛśet means touch"
+   ],
+   "inference": "Touch the little fingers with the thumb tip.",
+   "uncertainties": [
+    "both hands"
+   ],
+   "plain_english": "Touch the little fingers with the thumb tip."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "madhyātarjanyanāmikāḥ",
+     "gloss": "middle-index-ring",
+     "grounds": "compound nominative",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which fingers are grouped as middle, index, and ring?",
+   "premises": [
+    "madhyātarjanyanāmikāḥ means middle index ring"
+   ],
+   "inference": "The middle, index, and ring fingers are grouped together.",
+   "uncertainties": [
+    "gesture context"
+   ],
+   "plain_english": "The middle, index, and ring fingers are grouped."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "vyānodānasamānāḥ",
+     "gloss": "vyāna-udāna-samāna",
+     "grounds": "compound nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tārapūrvikāḥ",
+     "gloss": "preceded-by-tāra",
+     "grounds": "compound nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which prāṇa currents are preceded by tāra?",
+   "premises": [
+    "vyānodānasamānāḥ means vyāna udāna samāna",
+    "tārapūrvikāḥ means preceded by tāra"
+   ],
+   "inference": "Vyāna, udāna, and samāna are preceded by tāra.",
+   "uncertainties": [
+    "exact prāṇa mapping"
+   ],
+   "plain_english": "Vyāna, udāna, and samāna are preceded by tāra."
+  }
+ ]
+}

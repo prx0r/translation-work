@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative adverb indicating placement in the center",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb linking the preceding sprinkling and placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "object of placement in the ritual center",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of ā-dhā, action completed before abandonment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kravyādāṃśaṃ",
+     "gloss": "carnivorous-portion",
+     "grounds": "compound denoting the portion associated with carnivorous fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "optative expressing ritual prescription",
+     "morph": "3.sg.act.opt. root parityaj"
+    }
+   ],
+   "question": "Should the carnivorous portion be abandoned after fire is placed in the middle?",
+   "premises": [
+    "Fire is placed in the middle.",
+    "The carnivorous portion is to be abandoned.",
+    "Placement precedes abandonment."
+   ],
+   "inference": "The ritual prescription is to abandon the carnivorous portion after placing fire in the middle.",
+   "uncertainties": [
+    "The exact ritual referent of kravyādāṃśaṃ is not fully specified by this verse alone."
+   ],
+   "plain_english": "In the middle, having thus placed the fire, one should abandon the carnivorous portion."
+  }
+ ]
+}

@@ -1,0 +1,1217 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2676,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvāhyā",
+     "gloss": "to-be-married",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive(√vah+ud)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitrā",
+     "gloss": "by-father",
+     "grounds": "agent of the act of giving in marriage",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaivadharmeṣu",
+     "gloss": "in-shaiva-dharmas",
+     "grounds": "locative context of the prescribed rule",
+     "morph": "m.loc.pl(compound:śaiva+dharmasu)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed injunction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marital rule applies to a woman within Shaiva dharmas?",
+   "premises": [
+    "The woman is to be given in marriage again.",
+    "Her father is the agent of this remarriage.",
+    "This injunction is established within Shaiva dharmas."
+   ],
+   "inference": "Within Shaiva dharmas, the father must arrange the woman's remarriage according to this rule.",
+   "uncertainties": [],
+   "plain_english": "She too is to be married again by her father; this is the rule in the Shaiva dharmas."
+  },
+  {
+   "verse": 2677,
+   "rows": [
+    {
+     "surface": "prasūte",
+     "gloss": "when-she-bears",
+     "grounds": "temporal condition of giving birth",
+     "morph": "3.sg.mid.pres(√sū+pra)"
+    },
+    {
+     "surface": "tanayaṃ",
+     "gloss": "son",
+     "grounds": "child born in the stated condition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yogyaṃ",
+     "gloss": "worthy",
+     "grounds": "qualification of the son",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "the woman in question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patnī",
+     "gloss": "wife",
+     "grounds": "denied marital status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "the child in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sutaḥ",
+     "gloss": "son",
+     "grounds": "denied filial status",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status is denied to a woman and her child born under improper conditions?",
+   "premises": [
+    "The woman bears a worthy son.",
+    "Despite this birth, she is not recognized as a wife.",
+    "Despite this birth, the child is not recognized as a son."
+   ],
+   "inference": "A birth under the specified improper condition confers neither wifely status on the woman nor legitimate sonship on the child.",
+   "uncertainties": [],
+   "plain_english": "If she bears a worthy son, she is not a wife and he is not a son."
+  },
+  {
+   "verse": 2678,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the improper act or situation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upāya",
+     "gloss": "means",
+     "grounds": "first member of compound indicating method",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "action performed by that means",
+     "morph": "n.nom.sg.past-participle(√kṛ)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "persons involved in the act",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yātayet",
+     "gloss": "one-should-punish",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act.optative(√yat)"
+    },
+    {
+     "surface": "tīvra",
+     "gloss": "severe",
+     "grounds": "qualifies the beatings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāḍanaiḥ",
+     "gloss": "with-beatings",
+     "grounds": "instrument of punishment",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How should those who brought about the improper act be punished?",
+   "premises": [
+    "The act was accomplished by that means.",
+    "The persons responsible are identified as them.",
+    "Punishment is to be administered through severe beatings."
+   ],
+   "inference": "Those responsible for bringing about the improper act must be punished with severe beatings.",
+   "uncertainties": [
+    "The exact referent of 'tat upāya kṛtaṃ' depends on the preceding context."
+   ],
+   "plain_english": "And those who brought that about by such means should be punished with severe beatings."
+  },
+  {
+   "verse": 2679,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the act in question",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prayoktuḥ",
+     "gloss": "of-instigator",
+     "grounds": "one who employs or initiates the act",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "the woman involved",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "moral or ritual transgression",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or prescribed result",
+     "morph": "3.sg.act.optative(√as)"
+    },
+    {
+     "surface": "vadha",
+     "gloss": "killing",
+     "grounds": "first member of compound indicating source",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udbhavam",
+     "gloss": "arisen-from",
+     "grounds": "origin of the sin",
+     "morph": "n.nom.sg(compound:vadha+udbhavam)"
+    }
+   ],
+   "question": "What degree of sin attaches to the instigator and the woman involved in the act?",
+   "premises": [
+    "The instigator of that act is culpable.",
+    "The woman involved is also culpable.",
+    "Their sin is equivalent to that arising from killing."
+   ],
+   "inference": "Both the instigator and the woman incur a sin comparable to that arising from killing.",
+   "uncertainties": [],
+   "plain_english": "For the instigator of that act and for her, there would be sin arising from killing."
+  },
+  {
+   "verse": 2680,
+   "rows": [
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed injunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the stated rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaivadharmeṣu",
+     "gloss": "in-shaiva-dharmas",
+     "grounds": "doctrinal context of the rule",
+     "morph": "m.loc.pl(compound:śaiva+dharmasu)"
+    },
+    {
+     "surface": "nirūpitaḥ",
+     "gloss": "is-established",
+     "grounds": "declared or determined",
+     "morph": "m.nom.sg.past-participle(√rūp+ni)"
+    }
+   ],
+   "question": "Where is this punitive rule formally established as authoritative?",
+   "premises": [
+    "A specific rule has been stated.",
+    "That rule is located within Shaiva dharmas.",
+    "The rule is declared as established."
+   ],
+   "inference": "This rule is authoritatively established within the Shaiva dharmas.",
+   "uncertainties": [],
+   "plain_english": "This rule is established in the Shaiva dharmas."
+  },
+  {
+   "verse": 2681,
+   "rows": [
+    {
+     "surface": "yātayet",
+     "gloss": "one-should-punish",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act.optative(√yat)"
+    },
+    {
+     "surface": "pīḍayet",
+     "gloss": "one-should-torment",
+     "grounds": "prescriptive injunction indicating affliction",
+     "morph": "3.sg.act.optative(√pīḍ)"
+    }
+   ],
+   "question": "What actions are prescribed against the offender in this context?",
+   "premises": [
+    "Punishment is enjoined.",
+    "Torment or affliction is also enjoined."
+   ],
+   "inference": "The offender should be both punished and tormented.",
+   "uncertainties": [
+    "The subject and object are implicit from surrounding verses."
+   ],
+   "plain_english": "One should punish and torment him."
+  },
+  {
+   "verse": 2682,
+   "rows": [
+    {
+     "surface": "manuṣya",
+     "gloss": "human",
+     "grounds": "first member of compound specifying victim",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vadha",
+     "gloss": "killing",
+     "grounds": "second member of compound specifying act",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janyaṃ",
+     "gloss": "arisen-from",
+     "grounds": "produced by the specified act",
+     "morph": "n.nom.sg(compound:manuṣya-vadha+janyam)"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "moral or ritual transgression",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential or prescribed result",
+     "morph": "3.sg.act.optative(√as)"
+    }
+   ],
+   "question": "What kind of sin results from the act described in this context?",
+   "premises": [
+    "The act involves the killing of a human.",
+    "Such killing generates a specific sin.",
+    "The sin is identified as arising from human killing."
+   ],
+   "inference": "The transgression produces sin equivalent to that arising from killing a human being.",
+   "uncertainties": [],
+   "plain_english": "There would be sin arising from the killing of a human being."
+  },
+  {
+   "verse": 2683,
+   "rows": [
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "capital punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "the offender",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vidhātavyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "obligatory injunction",
+     "morph": "m.nom.sg.gerundive(√dhā+vi)"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "emphasizes unconditional application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharaṇībhṛtā",
+     "gloss": "by-king",
+     "grounds": "agent responsible for execution",
+     "morph": "m.inst.sg(compound:dharaṇī+bhṛtā)"
+    }
+   ],
+   "question": "Who must carry out the execution of the offender and under what condition?",
+   "premises": [
+    "The offender is subject to killing.",
+    "This killing is obligatory.",
+    "The king is the agent who must carry it out in every way."
+   ],
+   "inference": "The king must unconditionally execute the offender.",
+   "uncertainties": [],
+   "plain_english": "His killing must be carried out in every way by the king."
+  },
+  {
+   "verse": 2684,
+   "rows": [
+    {
+     "surface": "draviṇa",
+     "gloss": "wealth",
+     "grounds": "first member of compound indicating property",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādānataḥ",
+     "gloss": "by-confiscation",
+     "grounds": "means of taking wealth",
+     "morph": "n.abl.sg(compound:draviṇa+ādānataḥ)"
+    },
+    {
+     "surface": "tīvra",
+     "gloss": "severe",
+     "grounds": "qualifies the beatings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāḍanaiḥ",
+     "gloss": "with-beatings",
+     "grounds": "instrument of punishment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "the offender",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive purification through punishment",
+     "morph": "3.sg.act.optative(√śudh+vi)"
+    }
+   ],
+   "question": "By what means should the offender be purified in this case?",
+   "premises": [
+    "Confiscation of wealth is prescribed.",
+    "Severe beatings are prescribed.",
+    "These measures serve to purify the offender."
+   ],
+   "inference": "The offender should be purified through confiscation of wealth and severe beatings.",
+   "uncertainties": [],
+   "plain_english": "One should purify him by confiscation of wealth and by severe beatings."
+  },
+  {
+   "verse": 2685,
+   "rows": [
+    {
+     "surface": "ajñāna",
+     "gloss": "ignorant",
+     "grounds": "first member of compound describing killers",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vadhināṃ",
+     "gloss": "of-killers",
+     "grounds": "those who commit killing",
+     "morph": "m.gen.pl(compound:ajñāna+vadhinām)"
+    },
+    {
+     "surface": "daṇḍo",
+     "gloss": "punishment",
+     "grounds": "penalty imposed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vihitaḥ",
+     "gloss": "is-prescribed",
+     "grounds": "ordained by rule",
+     "morph": "m.nom.sg.past-participle(√dhā+vi)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the specific case",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pāpinaḥ",
+     "gloss": "sinner",
+     "grounds": "the guilty person",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What punishment is prescribed for killers who act in ignorance?",
+   "premises": [
+    "The killers are characterized as ignorant.",
+    "A punishment is prescribed for them.",
+    "The punishment applies to that sinner."
+   ],
+   "inference": "A specific punishment is ordained for ignorant killers who are sinners.",
+   "uncertainties": [],
+   "plain_english": "Punishment is prescribed for ignorant killers, for that sinner."
+  },
+  {
+   "verse": 2686,
+   "rows": [
+    {
+     "surface": "nihatya",
+     "gloss": "having-killed",
+     "grounds": "prior act of slaying",
+     "morph": "absolutive(√han+ni)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg(compound:parama+īśāni)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpārhaḥ",
+     "gloss": "deserving-sin",
+     "grounds": "liable to sin",
+     "morph": "m.nom.sg(compound:pāpa+arhaḥ)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential result",
+     "morph": "3.sg.act.optative(√bhū)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Under what condition does a man incur no sin after killing someone?",
+   "premises": [
+    "A man has killed someone.",
+    "The statement is addressed to the supreme goddess.",
+    "In this case he would not become deserving of sin."
+   ],
+   "inference": "In the specified circumstance, a man who kills does not incur sin.",
+   "uncertainties": [
+    "The specific circumstance exempting sin is implied by the surrounding context."
+   ],
+   "plain_english": "O Supreme Goddess, having killed, a man would not become deserving of sin."
+  },
+  {
+   "verse": 2687,
+   "rows": [
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "execution as punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhātavyaḥ",
+     "gloss": "should-be-done",
+     "grounds": "obligatory injunction",
+     "morph": "m.nom.sg.gerundive(√dhā+vi)"
+    },
+    {
+     "surface": "tata",
+     "gloss": "from-that",
+     "grounds": "source or reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "the offender",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "removal of guilt",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the only means of purification for the offender in this case?",
+   "premises": [
+    "Killing must be carried out as punishment.",
+    "Purification comes from that killing alone.",
+    "There is no purification by any other means."
+   ],
+   "inference": "Execution is the sole means of purification for the offender in this case.",
+   "uncertainties": [],
+   "plain_english": "Killing must be done; from that alone comes his purification, not otherwise—such is the meaning."
+  },
+  {
+   "verse": 2688,
+   "rows": [
+    {
+     "surface": "dravya",
+     "gloss": "wealth",
+     "grounds": "first member of compound indicating property",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "haraṇataḥ",
+     "gloss": "by-seizure",
+     "grounds": "means of taking wealth",
+     "morph": "n.abl.sg(compound:dravya+haraṇataḥ)"
+    },
+    {
+     "surface": "tīvra",
+     "gloss": "severe",
+     "grounds": "qualifies the beatings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāḍanaiḥ",
+     "gloss": "with-beatings",
+     "grounds": "instrument of punishment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive purification through punishment",
+     "morph": "3.sg.act.optative(√śudh+vi)"
+    }
+   ],
+   "question": "What punitive measures purify the offender in this alternative case?",
+   "premises": [
+    "Seizure of wealth is prescribed.",
+    "Severe beatings are prescribed.",
+    "These measures effect purification."
+   ],
+   "inference": "The offender should be purified by seizure of wealth and severe beatings.",
+   "uncertainties": [],
+   "plain_english": "One should purify him by seizure of wealth and by severe beatings."
+  },
+  {
+   "verse": 2689,
+   "rows": [
+    {
+     "surface": "daṇḍaḥ",
+     "gloss": "punishment",
+     "grounds": "penalty imposed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the stated punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vihitaḥ",
+     "gloss": "is-prescribed",
+     "grounds": "ordained by rule",
+     "morph": "m.nom.sg.past-participle(√dhā+vi)"
+    }
+   ],
+   "question": "What is the status of the punishment described in this context?",
+   "premises": [
+    "A punishment has been identified.",
+    "That punishment is formally prescribed."
+   ],
+   "inference": "The stated punishment is ordained as the proper penalty.",
+   "uncertainties": [],
+   "plain_english": "That punishment is prescribed."
+  },
+  {
+   "verse": 2690,
+   "rows": [
+    {
+     "surface": "kṣetra",
+     "gloss": "field",
+     "grounds": "first member of compound indicating property",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāra",
+     "gloss": "wife",
+     "grounds": "second member of compound indicating spouse",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "apahārī",
+     "gloss": "seizer",
+     "grounds": "one who takes away field or wife",
+     "morph": "m.nom.sg(compound:kṣetra-dāra+apahārī)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral indicating total count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ātatāyinaḥ",
+     "gloss": "assailants",
+     "grounds": "dangerous offenders",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is included among the six types of assailants identified here?",
+   "premises": [
+    "One who seizes fields or wives is named.",
+    "A group of six is indicated.",
+    "These are classified as assailants."
+   ],
+   "inference": "The seizer of fields or wives is counted among the six assailants.",
+   "uncertainties": [
+    "Only one category is explicitly named in this verse; the other five are implied from context."
+   ],
+   "plain_english": "And the seizer of fields and wives—these six are assailants, thus."
+  },
+  {
+   "verse": 2691,
+   "rows": [
+    {
+     "surface": "prahāre",
+     "gloss": "in-attack",
+     "grounds": "situation of assault",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praharaṇaṃ",
+     "gloss": "counter-attack",
+     "grounds": "retaliatory striking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛṣu",
+     "gloss": "among-men",
+     "grounds": "context of human agents",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "evil intent or act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cikīrṣuṣu",
+     "gloss": "desiring-to-do",
+     "grounds": "those intending wrongdoing",
+     "morph": "m.loc.pl.desiderative-participle(√kṛ)"
+    }
+   ],
+   "question": "When is counter-attack justified against men intending wrongdoing?",
+   "premises": [
+    "An attack is taking place.",
+    "Certain men desire to commit sin.",
+    "Counter-attack is considered in this situation."
+   ],
+   "inference": "Counter-attack is justified when men intending sin launch an attack.",
+   "uncertainties": [],
+   "plain_english": "And in an attack, counter-attack is justified against men who desire to commit sin."
+  },
+  {
+   "verse": 2692,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "first member of compound indicating property",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādānāt",
+     "gloss": "by-confiscation",
+     "grounds": "means of taking wealth",
+     "morph": "n.abl.sg(compound:dhana+ādānāt)"
+    },
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "first member of compound indicating body part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāhāt",
+     "gloss": "by-burning",
+     "grounds": "punitive burning of the hand",
+     "morph": "m.abl.sg(compound:hasta+dāhāt)"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "graduated sequence of punishments",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "the offender",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive purification through punishment",
+     "morph": "3.sg.act.optative(√śudh+vi)"
+    }
+   ],
+   "question": "What graduated punishments are prescribed to purify this offender?",
+   "premises": [
+    "Confiscation of wealth is prescribed.",
+    "Burning of the hand is prescribed.",
+    "These punishments are applied in order."
+   ],
+   "inference": "The offender should be purified in sequence by confiscation of wealth and burning of the hand.",
+   "uncertainties": [],
+   "plain_english": "One should purify him in order by confiscation of wealth and by burning of the hand."
+  },
+  {
+   "verse": 2693,
+   "rows": [
+    {
+     "surface": "prahartā",
+     "gloss": "attacker",
+     "grounds": "one who strikes",
+     "morph": "m.nom.sg.agent-noun(√hṛ+pra)"
+    },
+    {
+     "surface": "daṇḍanīyaḥ",
+     "gloss": "punishable",
+     "grounds": "liable to penalty",
+     "morph": "m.nom.sg.gerundive(√daṇḍ)"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act.optative(√as)"
+    },
+    {
+     "surface": "vadhārhaḥ",
+     "gloss": "deserving-death",
+     "grounds": "liable to execution",
+     "morph": "m.nom.sg(compound:vadha+arhaḥ)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūbhṛtaḥ",
+     "gloss": "by-king",
+     "grounds": "agent of punishment",
+     "morph": "m.abl.sg(compound:bhū+bhṛtaḥ)"
+    }
+   ],
+   "question": "What penalty should the king impose on an attacker in this case?",
+   "premises": [
+    "The attacker is liable to punishment.",
+    "The attacker is not deserving of death.",
+    "The king is the authority imposing the penalty."
+   ],
+   "inference": "The king should punish the attacker but must not execute him.",
+   "uncertainties": [],
+   "plain_english": "The attacker should be punished by the king, but indeed he is not deserving of death."
+  },
+  {
+   "verse": 2694,
+   "rows": [
+    {
+     "surface": "raho",
+     "gloss": "in-secret",
+     "grounds": "manner of acting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitaiṣiṇaḥ",
+     "gloss": "well-wishers",
+     "grounds": "those pretending to seek welfare",
+     "morph": "m.acc.pl(compound:hita+eṣiṇaḥ)"
+    },
+    {
+     "surface": "bhṛtyān",
+     "gloss": "servants",
+     "grounds": "retainers or dependents",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhedakān",
+     "gloss": "dividers",
+     "grounds": "those who create division",
+     "morph": "m.acc.pl(agent-noun:√bhid)"
+    },
+    {
+     "surface": "nṛpa",
+     "gloss": "king",
+     "grounds": "first member of compound indicating royal domain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sainyayoḥ",
+     "gloss": "of-armies",
+     "grounds": "forces being divided",
+     "morph": "n.gen.du(compound:nṛpa+sainyayoḥ)"
+    }
+   ],
+   "question": "Which covert offenders sow division within the king and his armies?",
+   "premises": [
+    "Certain persons act in secret as supposed well-wishers.",
+    "They are servants who create division.",
+    "Their division targets the king and his armies."
+   ],
+   "inference": "Secretly divisive servants who pretend to be well-wishers undermine the king and his armies.",
+   "uncertainties": [
+    "The syntactic role of this verse depends on the following verses for the prescribed action."
+   ],
+   "plain_english": "Servants who act in secret as well-wishers but divide the king and his armies."
+  },
+  {
+   "verse": 2695,
+   "rows": [
+    {
+     "surface": "praharaṇaṃ",
+     "gloss": "counter-attack",
+     "grounds": "retaliatory striking or punishment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhātavyam",
+     "gloss": "should-be-done",
+     "grounds": "obligatory injunction",
+     "morph": "n.nom.sg.gerundive(√dhā+vi)"
+    }
+   ],
+   "question": "What action must be taken against the divisive offenders described?",
+   "premises": [
+    "Divisive offenders have been identified.",
+    "A counter-action is required."
+   ],
+   "inference": "Counter-attack or punitive action must be carried out against them.",
+   "uncertainties": [
+    "The exact target is supplied by the preceding verse."
+   ],
+   "plain_english": "Counter-attack must be carried out."
+  },
+  {
+   "verse": 2696,
+   "rows": [
+    {
+     "surface": "hasta",
+     "gloss": "hand",
+     "grounds": "first member of compound indicating body part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dāhāt",
+     "gloss": "by-burning",
+     "grounds": "punitive burning of the hand",
+     "morph": "m.abl.sg(compound:hasta+dāhāt)"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "agent of purification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśodhayet",
+     "gloss": "should-purify",
+     "grounds": "prescriptive purification through punishment",
+     "morph": "3.sg.act.optative(√śudh+vi)"
+    }
+   ],
+   "question": "How should the king purify the offender in this specific case?",
+   "premises": [
+    "The king is the agent of punishment.",
+    "Burning of the hand is the prescribed means.",
+    "This act serves as purification."
+   ],
+   "inference": "The king should purify the offender by burning his hand.",
+   "uncertainties": [],
+   "plain_english": "The king should purify him by burning the hand."
+  },
+  {
+   "verse": 2697,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive or potential result",
+     "morph": "3.sg.act.optative(√as)"
+    }
+   ],
+   "question": "What prescriptive force is asserted by this minimal statement?",
+   "premises": [
+    "A verbal form indicates obligation or possibility.",
+    "The statement is elliptical."
+   ],
+   "inference": "The prescribed result should come to be as stated in context.",
+   "uncertainties": [
+    "The subject and predicate are entirely implicit from surrounding verses."
+   ],
+   "plain_english": "So it should be."
+  },
+  {
+   "verse": 2698,
+   "rows": [
+    {
+     "surface": "hatvā",
+     "gloss": "having-killed",
+     "grounds": "prior act of slaying",
+     "morph": "absolutive(√han)"
+    },
+    {
+     "surface": "narapatiḥ",
+     "gloss": "king",
+     "grounds": "ruler as agent",
+     "morph": "m.nom.sg(compound:nara+patiḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "the offenders referred to",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kilviṣa",
+     "gloss": "sin",
+     "grounds": "first member of compound indicating guilt",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāg",
+     "gloss": "sharer",
+     "grounds": "one who partakes in sin",
+     "morph": "m.nom.sg(compound:kilviṣa+bhāg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential result",
+     "morph": "3.sg.act.optative(√bhū)"
+    }
+   ],
+   "question": "Does a king incur sin by killing the specified offenders?",
+   "premises": [
+    "The king kills these offenders.",
+    "The act is considered in a legal-doctrinal context.",
+    "The king would not become a sharer in sin."
+   ],
+   "inference": "A king who kills these specified offenders does not incur sin.",
+   "uncertainties": [],
+   "plain_english": "But having killed these, the king would indeed not become a sharer in sin."
+  },
+  {
+   "verse": 2699,
+   "rows": [
+    {
+     "surface": "bhartuḥ",
+     "gloss": "of-husband",
+     "grounds": "the husband as victim or party",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "act of slaying",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that situation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prahartuḥ",
+     "gloss": "of-attacker",
+     "grounds": "one who strikes",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivājñayā",
+     "gloss": "by-shiva-command",
+     "grounds": "authoritative sanction of Shiva",
+     "morph": "f.inst.sg(compound:śiva+ājñayā)"
+    }
+   ],
+   "question": "Whose killing is not sanctioned by Shiva's command in this situation?",
+   "premises": [
+    "The situation involves an attacker.",
+    "The killing of the husband is considered.",
+    "Such killing is not authorized by Shiva's command."
+   ],
+   "inference": "In that situation, killing the husband is not sanctioned by the command of Shiva.",
+   "uncertainties": [
+    "The precise scenario distinguishing this case from permitted killings depends on prior context."
+   ],
+   "plain_english": "There, the killing of the husband by the attacker is indeed not by Shiva's command."
+  }
+ ]
+}

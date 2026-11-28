@@ -1,0 +1,561 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "yantrādhikaraṇāni",
+     "gloss": "yantra-supports",
+     "grounds": "compound yantra+adhikarana",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yantradhāraṇaprakārāḥ",
+     "gloss": "yantra-holding-methods",
+     "grounds": "compound yantra+dharana+prakara",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "teaches",
+     "grounds": "root upadish",
+     "morph": "3sg.act.pres"
+    }
+   ],
+   "question": "What does the verse say is taught regarding yantra supports and holding methods?",
+   "premises": [
+    "yantra supports are named",
+    "holding methods are named",
+    "teaching is stated"
+   ],
+   "inference": "The verse states that yantra supports and yantra holding methods are taught.",
+   "uncertainties": [
+    "exact scope of adhikarana"
+   ],
+   "plain_english": "Yantra supports and yantra holding methods are taught."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "jyā",
+     "gloss": "bowstring",
+     "grounds": "noun jya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāṃdāvo",
+     "gloss": "kanda",
+     "grounds": "noun kanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ambu",
+     "gloss": "water",
+     "grounds": "noun ambu",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛtsvena",
+     "gloss": "by-heart",
+     "grounds": "compound hrd+sva",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "by-maya",
+     "grounds": "noun maya",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "amṛtapañcakam",
+     "gloss": "amrita-pentad",
+     "grounds": "compound amrita+pancaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What fivefold amrita set is named with jya, kanda, water, heart, and maya?",
+   "premises": [
+    "jya is named",
+    "kanda is named",
+    "water is named",
+    "heart is named",
+    "maya is named",
+    "amrita pentad is named"
+   ],
+   "inference": "The verse names an amrita pentad involving jya, kanda, water, heart, and maya.",
+   "uncertainties": [
+    "exact ritual mapping"
+   ],
+   "plain_english": "Jya, kanda, water, heart, and maya form the amrita pentad."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "taiḥ",
+     "gloss": "by-those",
+     "grounds": "pronoun tad",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "ṣaṇḍhahīnaiḥ",
+     "gloss": "eunuch-less",
+     "grounds": "compound sandha+hina",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "ṣaṣṭiḥ",
+     "gloss": "sixty",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "root as",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "by-maya",
+     "grounds": "noun maya",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "root bhu",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "What count becomes sixty by those eunuch-less elements and maya?",
+   "premises": [
+    "those elements are named",
+    "eunuch-less is stated",
+    "sixty is stated",
+    "maya is named"
+   ],
+   "inference": "The verse states that sixty becomes the count by those eunuch-less elements and maya.",
+   "uncertainties": [
+    "exact enumeration"
+   ],
+   "plain_english": "By those eunuch-less elements and maya, sixty becomes the count."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "pronoun tad",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantre'smin",
+     "gloss": "in-this-tantra",
+     "grounds": "compound tantra+asmin",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "viniyoga",
+     "gloss": "application",
+     "grounds": "noun viniyoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "root vidha",
+     "morph": "3sg.pass.pres"
+    }
+   ],
+   "question": "Where is the application of those elements prescribed in this tantra?",
+   "premises": [
+    "of them is stated",
+    "everywhere is stated",
+    "in this tantra is stated",
+    "application is stated",
+    "is prescribed is stated"
+   ],
+   "inference": "The verse states that their application is prescribed everywhere in this tantra.",
+   "uncertainties": [
+    "scope of everywhere"
+   ],
+   "plain_english": "Their application is prescribed everywhere in this tantra."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "māyāmadhye",
+     "gloss": "in-maya",
+     "grounds": "compound maya+madhya",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ekamekaṃ",
+     "gloss": "one-by-one",
+     "grounds": "reduplicated numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrākṣaraṃ",
+     "gloss": "mantra-letter",
+     "grounds": "compound mantra+akshara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhediti",
+     "gloss": "write",
+     "grounds": "root likh",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "sampradāyaḥ",
+     "gloss": "tradition",
+     "grounds": "noun sampradaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What tradition says about writing mantra letters one by one in maya?",
+   "premises": [
+    "in maya is stated",
+    "one by one is stated",
+    "mantra letter is stated",
+    "write is stated",
+    "tradition is stated"
+   ],
+   "inference": "The verse states the tradition of writing one mantra letter at a time in maya.",
+   "uncertainties": [
+    "exact writing procedure"
+   ],
+   "plain_english": "The tradition says to write one mantra letter at a time in maya."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "vaśyam",
+     "gloss": "subjugation",
+     "grounds": "noun vashya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ākarṣaṇaṃ",
+     "gloss": "attraction",
+     "grounds": "noun akarshana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "stambham",
+     "gloss": "stopping",
+     "grounds": "noun stambha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārogyaṃ",
+     "gloss": "health",
+     "grounds": "noun arogya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijayaṃ",
+     "gloss": "victory",
+     "grounds": "noun vijaya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "noun shri",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What six results are listed as fruits of the practice?",
+   "premises": [
+    "subjugation is listed",
+    "attraction is listed",
+    "stopping is listed",
+    "health is listed",
+    "victory is listed",
+    "prosperity is listed"
+   ],
+   "inference": "The verse lists subjugation, attraction, stopping, health, victory, and prosperity as results.",
+   "uncertainties": [
+    "which practice yields them"
+   ],
+   "plain_english": "The results listed are subjugation, attraction, stopping, health, victory, and prosperity."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "naranārīnṛpāṇāṃ",
+     "gloss": "of-men-women-kings",
+     "grounds": "compound nara+nari+nripa",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktayogena",
+     "gloss": "by-stated-method",
+     "grounds": "compound prokta+yoga",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "root sadh",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "For whom and by what stated method are these results accomplished?",
+   "premises": [
+    "of men women kings is stated",
+    "and is stated",
+    "by stated method is stated",
+    "accomplish is stated"
+   ],
+   "inference": "The verse states that results for men, women, and kings are accomplished by the stated method.",
+   "uncertainties": [
+    "exact method"
+   ],
+   "plain_english": "For men, women, and kings, these results are accomplished by the stated method."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "nityācaturdaśārṇaiḥ",
+     "gloss": "eternal-fourteen-syllables",
+     "grounds": "compound nitya+caturdasha+arna",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaṣaṣṭiśatena",
+     "gloss": "one-sixty-one-hundred",
+     "grounds": "compound eka+shashti+shata",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllable counts are named alongside the stated method?",
+   "premises": [
+    "eternal fourteen syllables is named",
+    "and is stated",
+    "one sixty one hundred is named",
+    "and is stated"
+   ],
+   "inference": "The verse names eternal fourteen syllables and one-sixty-one-hundred as counts.",
+   "uncertainties": [
+    "exact total"
+   ],
+   "plain_english": "Eternal fourteen syllables and one-sixty-one-hundred are named."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "tair",
+     "gloss": "by-them",
+     "grounds": "pronoun tad",
+     "morph": "instr.pl"
+    },
+    {
+     "surface": "yantraracanāyogaṃ",
+     "gloss": "yantra-construction-yoga",
+     "grounds": "compound yantra+racana+yoga",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "noun phala",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "root shru",
+     "morph": "2sg.imp.act"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative priya",
+     "morph": "voc.sg"
+    }
+   ],
+   "question": "What does the speaker ask the dear one to hear about yantra construction yoga?",
+   "premises": [
+    "by them is stated",
+    "yantra construction yoga is stated",
+    "fruits is stated",
+    "and is stated",
+    "hear is stated",
+    "dear is stated"
+   ],
+   "inference": "The verse asks the dear one to hear the fruits of yantra construction yoga by them.",
+   "uncertainties": [
+    "identity of them"
+   ],
+   "plain_english": "Hear, dear one, the fruits of yantra construction yoga by them."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "caivaṃ",
+     "gloss": "and-thus",
+     "grounds": "compound ca+evam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaviṃśatyadhikaśatākṣarāṇi",
+     "gloss": "twenty-five-over-hundred-letters",
+     "grounds": "compound pancavimshati+adhika+shata+akshara",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samālikhediti",
+     "gloss": "write-together",
+     "grounds": "root likh",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "What letter count is to be written together in this way?",
+   "premises": [
+    "and thus is stated",
+    "twenty five over hundred letters is stated",
+    "write together is stated"
+   ],
+   "inference": "The verse states that twenty-five-over-hundred letters are to be written together.",
+   "uncertainties": [
+    "exact total"
+   ],
+   "plain_english": "Write together twenty-five-over-hundred letters in this way."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "proktayogena",
+     "gloss": "by-stated-method",
+     "grounds": "compound prokta+yoga",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "root sadh",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "dhāraṇanikṣepādinā",
+     "gloss": "holding-placement-etc",
+     "grounds": "compound dharana+nikshepa+adi",
+     "morph": "instr.sg"
+    }
+   ],
+   "question": "How are results accomplished by holding and placement?",
+   "premises": [
+    "by stated method is stated",
+    "accomplish is stated",
+    "holding placement etc is stated"
+   ],
+   "inference": "The verse states that results are accomplished by the stated method through holding and placement.",
+   "uncertainties": [
+    "exact holding procedure"
+   ],
+   "plain_english": "Accomplish by the stated method through holding and placement."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "catuḥśatam",
+     "gloss": "four-hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "root udir",
+     "morph": "n.nom.sg.part"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What total is declared in this statement?",
+   "premises": [
+    "four hundred is stated",
+    "declared is stated",
+    "thus is stated"
+   ],
+   "inference": "The verse declares the total as four hundred.",
+   "uncertainties": [
+    "what total"
+   ],
+   "plain_english": "Four hundred is declared."
+  }
+ ]
+}

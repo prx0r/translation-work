@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "stanadvaye",
+     "gloss": "on-two-breasts",
+     "grounds": "Locative dual of compound stana-dvaya, indicating the pair of breasts as placement site.",
+     "morph": "compound(stana+dvaya).loc.du.n"
+    },
+    {
+     "surface": "kaṇṭhadeśe",
+     "gloss": "in-throat-region",
+     "grounds": "Locative singular of compound kaṇṭha-deśa, indicating the throat area as placement site.",
+     "morph": "compound(kaṇṭha+deśa).loc.sg.m"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "Numeral agreeing with bījāni, specifying the count of seed syllables.",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "Refers to the three bīja syllables mentioned in the preceding verse; kept as functional term.",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "Optative expressing ritual injunction to place the seed syllables.",
+     "morph": "3.sg.opt.act √vi-ni-as"
+    }
+   ],
+   "question": "At which bodily locations should the three seed syllables be placed in continuation of the ritual sequence?",
+   "premises": [
+    "The preceding verse prescribes placing the three seed syllables in sequence.",
+    "This verse specifies the two breasts and the throat region as locations.",
+    "The verb vinyaset enjoins the placement of the three seed syllables."
+   ],
+   "inference": "The three seed syllables are to be placed on the two breasts and in the throat region as the next step in the sequence.",
+   "uncertainties": [
+    "The exact mapping of each individual seed syllable to each specific location is not explicitly stated in this verse alone."
+   ],
+   "plain_english": "One should place the three seed syllables on the two breasts and in the region of the throat."
+  }
+ ]
+}

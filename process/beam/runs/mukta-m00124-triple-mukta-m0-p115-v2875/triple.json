@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "back",
+     "grounds": "adverb of place indicating the rear position",
+     "morph": "indecl."
+    },
+    {
+     "surface": "purato",
+     "gloss": "front",
+     "grounds": "adverb of place indicating the forward position",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhadradvaye",
+     "gloss": "auspicious-two",
+     "grounds": "compound bhadra+dvaya; locative dual neuter referring to two auspicious positions",
+     "morph": "n.loc.du.n"
+    },
+    {
+     "surface": "tvevaṃ",
+     "gloss": "thus",
+     "grounds": "fused particle tu+evam; sandhi written as tvevaṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-act",
+     "grounds": "optative of samācar; prescriptive third-person singular active",
+     "morph": "v.3.sg.act.opt (sam-ā-car)"
+    }
+   ],
+   "question": "How should one act with respect to the auspicious pair at back and front?",
+   "premises": [
+    "The verse names back and front positions.",
+    "It names an auspicious pair.",
+    "It prescribes action with thus."
+   ],
+   "inference": "One should perform the prescribed action for the auspicious pair at back and front.",
+   "uncertainties": [
+    "The exact referent of bhadradvaye as sides or positions is not specified in this verse."
+   ],
+   "plain_english": "At back and front, one should thus act with respect to the two auspicious positions."
+  }
+ ]
+}

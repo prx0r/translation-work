@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "catvāriṃśatimātraṃ",
+     "gloss": "forty-measure",
+     "grounds": "compound denoting a measure of forty units; taken as the extent specified",
+     "morph": "compound.n.acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmādau",
+     "gloss": "from-that-beginning",
+     "grounds": "fused form expressing starting from that point; internal sandhi noted but token kept whole",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇamātrakam",
+     "gloss": "multiple-measure",
+     "grounds": "compound denoting a measure taken as a multiple; alternative extent specified",
+     "morph": "compound.n.acc.sg.nt"
+    }
+   ],
+   "question": "What alternative extent of forty units or a multiple measure is prescribed from that starting point?",
+   "premises": [
+    "An extent of forty measures is specified as one option.",
+    "The disjunctive particle presents an alternative specification.",
+    "A multiple measure starting from that point is given as the alternative."
+   ],
+   "inference": "The prescribed extent may be either forty measures or a multiple measure taken from that starting point.",
+   "uncertainties": [
+    "The exact referent of the starting point indicated by tasmādau depends on the preceding ritual context.",
+    "The precise value implied by guṇamātrakam is not fully explicit in this verse alone."
+   ],
+   "plain_english": "Alternatively, the measure is forty units, or a multiple measure taken from that starting point."
+  }
+ ]
+}

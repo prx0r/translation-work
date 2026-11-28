@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādibhiryaṣṭvā",
+     "gloss": "with-fragrance-flower-etc having-worshipped",
+     "grounds": "Instrumental plural compound gandha-puṣpa-ādi followed by gerund yaṣṭvā (root yaj); sandhi fusion bhis+yaṣṭvā written as one token.",
+     "morph": "compound+gerund"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-oblation",
+     "grounds": "Object of the ritual action completed by kṛtvā.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "Absolutive expressing a prior action in the ritual sequence.",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "jayādibhiḥ",
+     "gloss": "with-victory-etc",
+     "grounds": "Instrumental plural compound jaya-ādi indicating accompanying formulas or rites.",
+     "morph": "m.instr.pl (compound)"
+    }
+   ],
+   "question": "Which offerings and fire rites complete the worship sequence after adorning the artisan?",
+   "premises": [
+    "Worship is performed using fragrances, flowers, and similar offerings.",
+    "A fire oblation is performed as part of the sequence.",
+    "The fire oblation is accompanied by victory and related formulas."
+   ],
+   "inference": "The ritual sequence is completed by worship with offerings followed by a fire oblation accompanied by jayādi formulas.",
+   "uncertainties": [
+    "The specific items included in gandhapuṣpādi and the exact formulas denoted by jayādi are not specified in this verse."
+   ],
+   "plain_english": "Having worshipped with fragrances, flowers, and the like, and having performed the fire oblation with the victory formulas and so on."
+  }
+ ]
+}

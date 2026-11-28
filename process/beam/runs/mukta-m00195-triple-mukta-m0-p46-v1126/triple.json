@@ -1,0 +1,1469 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "yacca",
+     "gloss": "and-which",
+     "grounds": "relative pronoun with enclitic conjunction",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "ekānte",
+     "gloss": "in-solitude",
+     "grounds": "place of practice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "niyamena",
+     "gloss": "with-discipline",
+     "grounds": "regulated observance",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What disciplined conditions govern the practice performed in solitude?",
+   "premises": [
+    "A specific practice is indicated by the relative pronoun.",
+    "The practice occurs in solitude.",
+    "The practice is performed with discipline."
+   ],
+   "inference": "The prescribed practice requires both seclusion and regulated discipline.",
+   "uncertainties": [
+    "The referent of yacca depends on the following verses."
+   ],
+   "plain_english": "And whatever is done in solitude and with discipline."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vācayitvā",
+     "gloss": "having-caused-to-recite",
+     "grounds": "causative prior action",
+     "morph": "abs. (caus. √vac)"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "bhaktiṃ",
+     "gloss": "devotion",
+     "grounds": "object of having performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "prior action",
+     "morph": "abs. (vi-√dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What devotional attitude must accompany the act of causing recitation?",
+   "premises": [
+    "Recitation is caused to be performed.",
+    "Faith and devotion are established.",
+    "These actions are conjoined as preparatory acts."
+   ],
+   "inference": "Causing recitation must be accompanied by the establishment of faith and devotion.",
+   "uncertainties": [
+    "The object of recitation is not specified in this verse."
+   ],
+   "plain_english": "And whatever, having caused recitation and having established faith and devotion."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "lokānāṃ",
+     "gloss": "of-people",
+     "grounds": "beneficiaries of the request",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yācitaṃ",
+     "gloss": "requested",
+     "grounds": "action done on behalf of others",
+     "morph": "n.nom.sg (ppp. √yāc)"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "manner of invocation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On whose behalf and by what invocation is the request made?",
+   "premises": [
+    "A request is made for people.",
+    "The request is made by invoking the god's name.",
+    "The action is framed as intercessory."
+   ],
+   "inference": "The practice includes requesting on behalf of people by invoking the deity's name.",
+   "uncertainties": [
+    "The specific content of the request is unstated."
+   ],
+   "plain_english": "What is requested for the sake of people by invoking the god's name."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "samāśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "prior act of taking refuge",
+     "morph": "abs. (sam-ā-√śri)"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "qualifier of dharma",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dharmaṃ",
+     "gloss": "dharma",
+     "grounds": "object of resorting and considering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicārya",
+     "gloss": "having-considered",
+     "grounds": "prior act of reflection",
+     "morph": "abs. (vi-√car, caus.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What authoritative path must be adopted and examined before acting?",
+   "premises": [
+    "One resorts to the Kaula dharma.",
+    "One considers that dharma.",
+    "Adoption and reflection are both required."
+   ],
+   "inference": "Action must be grounded in adopting and carefully considering the Kaula dharma.",
+   "uncertainties": [],
+   "plain_english": "And having resorted to and considered the Kaula dharma."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmataḥ",
+     "gloss": "according-to-desire",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "deed performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aihikaṃ",
+     "gloss": "of-this-world",
+     "grounds": "worldly scope of action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāralaukikam",
+     "gloss": "of-the-other-world",
+     "grounds": "transworldly scope of action",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What range of actions performed by desire falls within this practice?",
+   "premises": [
+    "Actions may be performed according to desire.",
+    "Actions may concern this world.",
+    "Actions may concern the other world."
+   ],
+   "inference": "Desire-driven actions spanning both worldly and otherworldly aims are included.",
+   "uncertainties": [],
+   "plain_english": "And whatever action is done according to desire, whether pertaining to this world or the other world."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing acts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pānaṃ",
+     "gloss": "drinking",
+     "grounds": "act of consumption",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakṣaṇaṃ",
+     "gloss": "eating",
+     "grounds": "act of consumption",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmato",
+     "gloss": "according-to-desire",
+     "grounds": "manner of acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratam",
+     "gloss": "sexual-enjoyment",
+     "grounds": "act of pleasure",
+     "morph": "n.nom.sg (ppp. √ram)"
+    }
+   ],
+   "question": "Which desire-driven enjoyments are encompassed within the described conduct?",
+   "premises": [
+    "Drinking is included.",
+    "Eating is included.",
+    "Sexual enjoyment according to desire is included."
+   ],
+   "inference": "The conduct encompasses desire-driven acts of drinking, eating, and sexual enjoyment.",
+   "uncertainties": [],
+   "plain_english": "Whatever drinking, eating, and sexual enjoyment are done according to desire."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "possible result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential outcome",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "svargaḥ",
+     "gloss": "heaven",
+     "grounds": "possible result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential outcome",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "miśra",
+     "gloss": "mixed",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "sattvataḥ",
+     "gloss": "from-sattva",
+     "grounds": "qualifying source or condition",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What outcomes arise when the practice is grounded in mixed sattva?",
+   "premises": [
+    "Liberation may result.",
+    "Heaven may result.",
+    "These outcomes are linked to mixed sattva."
+   ],
+   "inference": "From a condition of mixed sattva, either liberation or heaven may arise.",
+   "uncertainties": [
+    "The precise meaning of miśra-sattvataḥ is context-dependent."
+   ],
+   "plain_english": "There may be liberation, or there may be heaven, arising from mixed sattva."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential outcome",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "rājasāt",
+     "gloss": "from-rajas",
+     "grounds": "source condition",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śuddhāt",
+     "gloss": "from-pure",
+     "grounds": "qualifier of source condition",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "possible result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential outcome",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "miśra",
+     "gloss": "mixed",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "rājasāt",
+     "gloss": "from-rajas",
+     "grounds": "qualifying source condition",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How do different qualities of rajas determine the resulting desire?",
+   "premises": [
+    "Desire may arise from pure rajas.",
+    "Another outcome may arise from mixed rajas.",
+    "The quality of rajas differentiates results."
+   ],
+   "inference": "The nature of desire or its outcome depends on whether rajas is pure or mixed.",
+   "uncertainties": [
+    "The subject of the second syāt is implied rather than explicit."
+   ],
+   "plain_english": "From pure rajas there may be desire, and from mixed rajas there may be another result."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "sāttvikāt",
+     "gloss": "from-sattvika",
+     "grounds": "source condition",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tāmasāt",
+     "gloss": "from-tamas",
+     "grounds": "source condition",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "divine",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "yonitvaṃ",
+     "gloss": "womb-state",
+     "grounds": "resulting birth condition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.opt.act (pra-√āp)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "subject attaining result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What birth condition can a person attain from sattvika and tamas influences?",
+   "premises": [
+    "A person is the subject of attainment.",
+    "Sattvika and tamas conditions are specified.",
+    "A divine womb-state may be obtained."
+   ],
+   "inference": "Under sattvika and tamas influences, a person may attain a divine birth-state.",
+   "uncertainties": [
+    "The combined effect of sāttvikāt and tāmasāt is syntactically compressed."
+   ],
+   "plain_english": "From sattvika and tamas conditions, a person may obtain a divine birth."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "pañcavidhaṃ",
+     "gloss": "fivefold",
+     "grounds": "classification of what is declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg (ppp. pra-√vac)"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "in-five-ways",
+     "grounds": "manner of giving liberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "dāyakam",
+     "gloss": "giving",
+     "grounds": "capacity to bestow liberation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the fivefold practice characterized in relation to granting liberation?",
+   "premises": [
+    "Something is declared to be fivefold.",
+    "It gives liberation in five ways.",
+    "The declaration presents a systematic classification."
+   ],
+   "inference": "The declared fivefold practice is understood as granting liberation in five ways.",
+   "uncertainties": [
+    "The exact referent of pañcavidhaṃ is clarified by subsequent verses."
+   ],
+   "plain_english": "It is declared to be fivefold, giving liberation in five ways."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "sammārjana",
+     "gloss": "sweeping",
+     "grounds": "first member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "upalepa",
+     "gloss": "smearing",
+     "grounds": "member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "member indicating extension",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "saṃskārā",
+     "gloss": "purifications",
+     "grounds": "ritual preparations",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "in-temple",
+     "grounds": "location of purifications",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What preparatory purifications are performed within the deity's temple?",
+   "premises": [
+    "Sweeping and smearing are named.",
+    "Other similar purifications are included.",
+    "These acts occur in the god's temple."
+   ],
+   "inference": "Temple service begins with physical purifications such as sweeping, smearing, and related acts.",
+   "uncertainties": [],
+   "plain_english": "Purifications such as sweeping, smearing, and so forth in the temple of the god."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "sādhana",
+     "gloss": "means",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "sāmagryā",
+     "gloss": "of-materials",
+     "grounds": "items for worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "melanaṃ",
+     "gloss": "collecting",
+     "grounds": "act of gathering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakta",
+     "gloss": "devotee",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "sevanam",
+     "gloss": "service",
+     "grounds": "act of serving devotees",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supportive acts of gathering and service accompany temple worship?",
+   "premises": [
+    "Materials for worship are collected.",
+    "Devotees are served.",
+    "These acts support the ritual context."
+   ],
+   "inference": "Worship includes both assembling ritual materials and serving devotees.",
+   "uncertainties": [],
+   "plain_english": "Collecting the materials for worship and serving the devotees."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "pīṭha",
+     "gloss": "seat",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "pūrvāṅga",
+     "gloss": "preceding-limbs",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "pūrvañ",
+     "gloss": "preceded-by",
+     "grounds": "qualifier indicating sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "member indicating extension",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "upacārakaiḥ",
+     "gloss": "with-offerings",
+     "grounds": "ritual services performed",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What structured sequence of offerings frames the ritual worship?",
+   "premises": [
+    "Preliminary rites related to the seat are performed.",
+    "Sixteen and other offerings are included.",
+    "The offerings follow a prescribed sequence."
+   ],
+   "inference": "Ritual worship is structured by preliminary seat rites and the sixteenfold offerings.",
+   "uncertainties": [
+    "The exact list of sixteen offerings is not enumerated here."
+   ],
+   "plain_english": "Preceded by the preliminary rites of the seat, and with the sixteen and other offerings."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scripture",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "adhyayanaṃ",
+     "gloss": "study",
+     "grounds": "act of learning",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of doing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "abs. (√kṛ)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "comprehension",
+     "grounds": "resulting understanding",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What intellectual preparation enables proper comprehension of mantra meaning?",
+   "premises": [
+    "The relevant scripture is studied.",
+    "The study is done properly.",
+    "Comprehension of mantra meaning is attained."
+   ],
+   "inference": "Proper study of the scripture leads to comprehension of the meaning of the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having properly studied that scripture, one becomes capable of comprehending the meaning of the mantra."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deity",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "kālānāṃ",
+     "gloss": "of-times",
+     "grounds": "elements to be unified",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samyag",
+     "gloss": "proper",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "aikya",
+     "gloss": "unity",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "vibhāvanam",
+     "gloss": "contemplation",
+     "grounds": "meditative realization",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What contemplative realization unifies guru, deity, self, and ritual times?",
+   "premises": [
+    "Guru, deity, self, and times are enumerated.",
+    "Their unity is to be contemplated.",
+    "The contemplation must be proper and complete."
+   ],
+   "inference": "The practice culminates in contemplating the complete unity of guru, deity, self, and times.",
+   "uncertainties": [
+    "The sense of kālānāṃ may refer to ritual times or phases."
+   ],
+   "plain_english": "The proper contemplation of the unity of guru, deity, self, and times."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "yāme",
+     "gloss": "in-watch",
+     "grounds": "time period for remembrance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescribed mental act",
+     "morph": "3.sg.opt.act (√smṛ)"
+    },
+    {
+     "surface": "iṣṭāṃ",
+     "gloss": "chosen",
+     "grounds": "qualifier of deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "object of remembrance",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "At what ritual time should the chosen deity be remembered?",
+   "premises": [
+    "A specific watch of time is indicated.",
+    "Remembrance is prescribed.",
+    "The chosen deity is the object of remembrance."
+   ],
+   "inference": "During the appointed watch, one should remember the chosen deity.",
+   "uncertainties": [
+    "The specific yāma is not identified in this verse."
+   ],
+   "plain_english": "In that watch of time, one should remember the chosen deity."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "gṛhāt",
+     "gloss": "from-house",
+     "grounds": "starting point of movement",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bahirgatvā",
+     "gloss": "having-gone-outside",
+     "grounds": "prior movement",
+     "morph": "abs. (bahis-√gam)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "abs. (√kṛ)"
+    },
+    {
+     "surface": "āvaśyakam",
+     "gloss": "necessary-acts",
+     "grounds": "obligatory bodily duties",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-respect",
+     "grounds": "manner of performing duties",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What preparatory bodily duties must be performed before ritual worship?",
+   "premises": [
+    "One goes outside the house.",
+    "Necessary acts are performed.",
+    "These acts are done with respect."
+   ],
+   "inference": "Before worship, one must respectfully perform necessary bodily duties outside the house.",
+   "uncertainties": [],
+   "plain_english": "Having gone outside the house and respectfully performed the necessary acts."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "purificatory act",
+     "morph": "abs. (ā-√cam)"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "dehaḥ",
+     "gloss": "bodied",
+     "grounds": "state of bodily purity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "union",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "in-temple",
+     "grounds": "place of union with deity",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does bodily purification prepare one for union with the deity in the temple?",
+   "premises": [
+    "One performs ritual sipping of water.",
+    "The body becomes pure.",
+    "One enters the temple of union with the deity."
+   ],
+   "inference": "Purification by sipping water renders the body fit for the temple of union with the deity.",
+   "uncertainties": [],
+   "plain_english": "Having sipped water, one becomes pure-bodied in the temple of union with the deity."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "prior ritual act",
+     "morph": "abs. (ni-√vid, caus.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescribed offering",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "danta",
+     "gloss": "tooth",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "dhāvanam",
+     "gloss": "cleansing",
+     "grounds": "object to be given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What cleansing implement should be offered after the initial presentation?",
+   "premises": [
+    "An offering has already been made.",
+    "A subsequent act is prescribed.",
+    "A tooth-cleansing implement should be given."
+   ],
+   "inference": "After the initial offering, one should give the implement for cleansing the teeth.",
+   "uncertainties": [],
+   "plain_english": "Then, having made an offering, one should indeed give the tooth-cleansing implement."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "proṃchanāya",
+     "gloss": "for-wiping",
+     "grounds": "purpose of the gift",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescribed offering",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "vāsaḥ",
+     "gloss": "garment",
+     "grounds": "object to be given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "amalaṃ",
+     "gloss": "stainless",
+     "grounds": "quality of garment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "quality of garment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kind of cloth should be offered for wiping in the ritual sequence?",
+   "premises": [
+    "A wiping purpose is specified.",
+    "A garment is to be given.",
+    "The garment must be stainless and auspicious."
+   ],
+   "inference": "For wiping, one should offer a stainless and auspicious garment.",
+   "uncertainties": [],
+   "plain_english": "Then, for wiping, one should give a stainless and auspicious cloth."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescribed mental act",
+     "morph": "3.sg.opt.act (√smṛ)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location or context of remembrance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "venerable",
+     "grounds": "honorific first member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "object of remembrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "rūpiṇam",
+     "gloss": "having-form",
+     "grounds": "form of the guru to be visualized",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what form should the venerable guru be visualized at this stage?",
+   "premises": [
+    "Remembrance is prescribed in that context.",
+    "The venerable guru is the object.",
+    "The guru is to be remembered in his own form."
+   ],
+   "inference": "At this stage, one should remember the venerable guru in his own form.",
+   "uncertainties": [],
+   "plain_english": "There one should remember the venerable guru in his own form."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "vara",
+     "gloss": "boon",
+     "grounds": "first member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "abhaya",
+     "gloss": "fearlessness",
+     "grounds": "member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "member of compound chain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "pustakaiḥ",
+     "gloss": "with-books",
+     "grounds": "objects held in hands",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "vyāvṛtaiḥ",
+     "gloss": "occupied",
+     "grounds": "state of the hands",
+     "morph": "m.ins.pl (ppp. vy-ā-√vṛt)"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instruments bearing attributes",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What symbolic attributes are held in the guru's hands during visualization?",
+   "premises": [
+    "The guru's hands are occupied.",
+    "Boon, fearlessness, knowledge-gesture, and books are present.",
+    "These attributes define the visualized form."
+   ],
+   "inference": "The guru is visualized with hands bearing the gestures of boon, fearlessness, knowledge, and books.",
+   "uncertainties": [
+    "The exact distribution of attributes among hands is not fully specified."
+   ],
+   "plain_english": "With hands occupied by the gestures of boon, fearlessness, and knowledge, and by books."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "aṅka",
+     "gloss": "lap",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "gatayā",
+     "gloss": "gone-to",
+     "grounds": "position of śakti",
+     "morph": "f.ins.sg (ppp. √gam)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-śakti",
+     "grounds": "embracing figure",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "āliṅgitaṃ",
+     "gloss": "embraced",
+     "grounds": "state of the guru",
+     "morph": "m.acc.sg (ppp. ā-√liṅg)"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "varṇayā",
+     "gloss": "colored",
+     "grounds": "appearance of śakti",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How is the guru's union with śakti depicted in the visualization?",
+   "premises": [
+    "Śakti is seated on the guru's left lap.",
+    "Śakti is red in color.",
+    "The guru is embraced by her."
+   ],
+   "inference": "The guru is visualized as embraced by a red-colored śakti seated on his left lap.",
+   "uncertainties": [],
+   "plain_english": "Embraced by a red-colored śakti who is seated on his left lap."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "līlā",
+     "gloss": "playful",
+     "grounds": "member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "compound connector",
+     "morph": "compound-marker"
+    },
+    {
+     "surface": "kamalayā",
+     "gloss": "with-lotus",
+     "grounds": "attribute held in left hand",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "āliṅgaṃtyā",
+     "gloss": "embracing",
+     "grounds": "action of śakti",
+     "morph": "f.ins.sg (pres.part. ā-√liṅg)"
+    },
+    {
+     "surface": "dakṣiṇena",
+     "gloss": "with-right",
+     "grounds": "side or hand involved",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional gesture characterizes śakti's embrace in the visualization?",
+   "premises": [
+    "Śakti holds a playful lotus in the left hand.",
+    "She is embracing.",
+    "The right side is also involved in the embrace."
+   ],
+   "inference": "Śakti embraces while holding a playful lotus in her left hand and engaging with her right side.",
+   "uncertainties": [
+    "The exact syntactic role of dakṣiṇena is slightly compressed."
+   ],
+   "plain_english": "And embracing with a playful lotus in her left hand and with her right."
+  }
+ ]
+}

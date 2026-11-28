@@ -1,0 +1,593 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "lākinīṃ",
+     "gloss": "lākinī",
+     "grounds": "yoginī name in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kākinīṃ",
+     "gloss": "kākinī",
+     "grounds": "yoginī name in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākinīṃ",
+     "gloss": "sākinī",
+     "grounds": "yoginī name in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hlākinīm",
+     "gloss": "hlākinī",
+     "grounds": "yoginī name in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which yoginīs are named in this enumeration of the rite?",
+   "premises": [
+    "lākinī is named",
+    "kākinī is named",
+    "sākinī is named",
+    "hlākinī is named"
+   ],
+   "inference": "The verse enumerates four yoginīs to be invoked.",
+   "uncertainties": [
+    "Exact ritual function of each yoginī is not stated here"
+   ],
+   "plain_english": "Lākinī, Kākinī, Sākinī, and Hlākinī too."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgabaliṃ",
+     "gloss": "limb-offering",
+     "grounds": "compound aṅga+bali",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "root dā optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound sādhaka+uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When may the best practitioner give a limb offering instead?",
+   "premises": [
+    "athavā marks an alternative",
+    "aṅgabaliṃ is the offering",
+    "sādhakottamaḥ is the agent"
+   ],
+   "inference": "The best practitioner may now give a limb offering as an alternative.",
+   "uncertainties": [
+    "What the alternative replaces is not stated here"
+   ],
+   "plain_english": "Or the best practitioner may now give a limb offering."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "her",
+     "grounds": "genitive feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prasādaṃ",
+     "gloss": "grace",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svīkṛtya",
+     "gloss": "having-accepted",
+     "grounds": "absolutive of svīkṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "cullukārghyodakena",
+     "gloss": "with-culluka-arghya-water",
+     "grounds": "compound culluka+arghya+udaka",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be accepted and used after her grace?",
+   "premises": [
+    "tasyāḥ prasādaṃ is accepted",
+    "cullukārghyodakena is used",
+    "ca joins the action"
+   ],
+   "inference": "Her grace is accepted and culluka arghya water is used.",
+   "uncertainties": [
+    "Exact ritual sequence is not fully specified"
+   ],
+   "plain_english": "Having accepted her grace, and with culluka arghya water."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "purascaraṇakāle",
+     "gloss": "during-puraścaraṇa",
+     "grounds": "compound purascaraṇa+kāla",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saparyā",
+     "gloss": "worship",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is this worship declared even during puraścaraṇa?",
+   "premises": [
+    "purascaraṇakāle sets the time",
+    "saparyā eṣā is this worship",
+    "prakīrtitā means declared"
+   ],
+   "inference": "This worship is declared even during puraścaraṇa.",
+   "uncertainties": [
+    "Scope of saparyā is not detailed"
+   ],
+   "plain_english": "This worship is declared even during puraścaraṇa."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "parānmukhārghyasvāhā",
+     "gloss": "parānmukha-arghya-svāhā",
+     "grounds": "compound parānmukha+arghya+svāhā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parānmukhārghyaḥ",
+     "gloss": "parānmukha-arghya",
+     "grounds": "compound parānmukha+arghya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the parānmukha arghya declared?",
+   "premises": [
+    "parānmukhārghyasvāhā is the formula",
+    "iti marks quotation",
+    "parānmukhārghyaḥ is the rite",
+    "īritaḥ means declared"
+   ],
+   "inference": "The parānmukha arghya is declared with the svāhā formula.",
+   "uncertainties": [
+    "Ritual use of the formula is not specified"
+   ],
+   "plain_english": "The parānmukha arghya is declared with svāhā."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "vilīnāḥ",
+     "gloss": "dissolved",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "santu",
+     "gloss": "let-them-be",
+     "grounds": "imperative of as",
+     "morph": "3.pl.act-imp"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "by-root",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "devyange",
+     "gloss": "in-goddess-limb",
+     "grounds": "compound devy+aṅga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vihitāḥ",
+     "gloss": "ordained",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative of smṛ",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be remembered about ordained elements in the goddess's limb?",
+   "premises": [
+    "vilīnāḥ santu means let them dissolve",
+    "mūlena is by root",
+    "devyange is in goddess limb",
+    "vihitāḥ means ordained",
+    "smaret means should remember"
+   ],
+   "inference": "Ordained elements should be remembered as dissolved by root in the goddess's limb.",
+   "uncertainties": [
+    "Identity of vilīnāḥ is not specified"
+   ],
+   "plain_english": "Let them be dissolved; by root, in the goddess's limb, ordained, remember."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "abs"
+    },
+    {
+     "surface": "cakreṇa",
+     "gloss": "with-cakra",
+     "grounds": "instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sahitāṃ",
+     "gloss": "united-with",
+     "grounds": "past participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "srīmattripurasundarīm",
+     "gloss": "śrīmat-tripura-sundarī",
+     "grounds": "compound śrīmat+tripura+sundarī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "On whom should one meditate united with the cakra?",
+   "premises": [
+    "dhyātvā means having meditated",
+    "cakreṇa means with cakra",
+    "sahitāṃ means united with",
+    "srīmattripurasundarīm is the goddess"
+   ],
+   "inference": "One meditates on Śrīmat Tripurasundarī united with the cakra.",
+   "uncertainties": [
+    "Type of cakra is not specified"
+   ],
+   "plain_english": "Meditating on Śrīmat Tripurasundarī united with the cakra."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "yantrasthaṃ",
+     "gloss": "in-yantra",
+     "grounds": "compound yantra+stha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āghrāya",
+     "gloss": "having-smelled",
+     "grounds": "absolutive of āghrā",
+     "morph": "abs"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "absolutive of bandh",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṃhāramudrikām",
+     "gloss": "saṃhāra-mudrā",
+     "grounds": "compound saṃhāra+mudrikā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is done with the flower in the yantra and saṃhāra mudrā?",
+   "premises": [
+    "yantrasthaṃ puṣpam is flower in yantra",
+    "āghrāya means having smelled",
+    "baddhvā means having bound",
+    "saṃhāramudrikām is the mudrā"
+   ],
+   "inference": "One smells the flower in the yantra and binds the saṃhāra mudrā.",
+   "uncertainties": [
+    "Purpose of smelling and binding is not stated"
+   ],
+   "plain_english": "Smelling the flower in the yantra, binding the saṃhāra mudrā."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmādayaḥ",
+     "gloss": "brahmā-and-others",
+     "grounds": "compound brahma+ādi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "nominative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "labheyuḥ",
+     "gloss": "would-attain",
+     "grounds": "optative of labh",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme state do gods from Brahmā attain there?",
+   "premises": [
+    "yatra means where",
+    "brahmādayaḥ devāḥ are gods from Brahmā",
+    "labheyuḥ means would attain",
+    "paramaṃ padam is supreme state"
+   ],
+   "inference": "There, gods from Brahmā attain the supreme state.",
+   "uncertainties": [
+    "Location referred to by yatra is not specified"
+   ],
+   "plain_english": "Where gods from Brahmā attain the supreme state."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative of dhyā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "should-establish",
+     "grounds": "optative of saṃsthā",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the goddess be established in the heart?",
+   "premises": [
+    "dhyāyet means should meditate",
+    "mantreṇa anena means with this mantra",
+    "devīṃ is the goddess",
+    "saṃsthāpayet means should establish",
+    "hṛdi means in heart"
+   ],
+   "inference": "One meditates and establishes the goddess in the heart with this mantra.",
+   "uncertainties": [
+    "Identity of the mantra is not given"
+   ],
+   "plain_english": "Meditate and establish the goddess in the heart with this mantra."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "nirmālyabhojanaṃ",
+     "gloss": "nirmālya-food",
+     "grounds": "compound nirmālya+bhojana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tubhyaṃ",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "2.dat.sg"
+    },
+    {
+     "surface": "dadāmi",
+     "gloss": "I-give",
+     "grounds": "root dā present",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "srīsivājñayā",
+     "gloss": "by-śrī-siva-command",
+     "grounds": "compound śrī+siva+ājñā",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "What is given to you by Śrī Siva's command?",
+   "premises": [
+    "nirmālyabhojanaṃ is nirmālya food",
+    "tubhyaṃ means to you",
+    "dadāmi means I give",
+    "srīsivājñayā means by Śrī Siva's command"
+   ],
+   "inference": "Nirmālya food is given to you by Śrī Siva's command.",
+   "uncertainties": [
+    "Recipient context is not specified"
+   ],
+   "plain_english": "I give you nirmālya food by Śrī Siva's command."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "sendukhaṇḍān",
+     "gloss": "moon-fragments",
+     "grounds": "compound sendu+khaṇḍa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākārāṃ",
+     "gloss": "formed",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nirākāre",
+     "gloss": "in-formless",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "temporal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "melayet",
+     "gloss": "should-merge",
+     "grounds": "optative of mil",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be merged into the formless?",
+   "premises": [
+    "sendukhaṇḍān are moon fragments",
+    "sākārāṃ means formed",
+    "nirākāre means in formless",
+    "atha means then",
+    "melayet means should merge"
+   ],
+   "inference": "Moon fragments and the formed should then be merged into the formless.",
+   "uncertainties": [
+    "Exact referent of sākārāṃ is not specified"
+   ],
+   "plain_english": "Then merge moon-fragments and the formed into the formless."
+  }
+ ]
+}

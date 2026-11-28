@@ -1,0 +1,1181 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "catuṣṭayaṃ",
+     "gloss": "tetrad",
+     "grounds": "compound head",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chrīṃ-bījam",
+     "gloss": "śrīṃ-seed",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "asatyāny",
+     "gloss": "untrue",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed group is declared untrue among the tetrad and others?",
+   "premises": [
+    "The tetrad is named.",
+    "Untrue others are named.",
+    "The seed is specified."
+   ],
+   "inference": "The verse marks a seed group as untrue.",
+   "uncertainties": [
+    "Exact seed identity is not expanded."
+   ],
+   "plain_english": "The tetrad and the śrīṃ seed are untrue, along with others."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ṭhakāra-bījāni",
+     "gloss": "ṭha-syllable-seeds",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anṛtāny",
+     "gloss": "false",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five ṭha-syllable seeds are declared false?",
+   "premises": [
+    "Five ṭha seeds are named.",
+    "They are called false.",
+    "Other false items are added."
+   ],
+   "inference": "The verse declares five ṭha seeds false.",
+   "uncertainties": [
+    "The five seeds are not listed."
+   ],
+   "plain_english": "Five ṭha-syllable seeds are false, along with others."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative sense",
+     "morph": "adv"
+    },
+    {
+     "surface": "stambhaṃ",
+     "gloss": "stambha",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śārikā-mūlam",
+     "gloss": "śārikā-root",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What supreme root is to be known at the end?",
+   "premises": [
+    "Stambha is mentioned.",
+    "The root is śārikā.",
+    "It is supreme."
+   ],
+   "inference": "The verse identifies a supreme śārikā root.",
+   "uncertainties": [
+    "Stambha's exact role is unclear."
+   ],
+   "plain_english": "At the end, stambha and the supreme śārikā root are to be known."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "hrāṃ-bījāni",
+     "gloss": "hrāṃ-seeds",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "kṛtrimāṇy",
+     "gloss": "artificial",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "plural neuter",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which four hrāṃ seeds are called artificial?",
+   "premises": [
+    "Four hrāṃ seeds are named.",
+    "They are artificial.",
+    "Other artificial items are added."
+   ],
+   "inference": "The verse marks four hrāṃ seeds as artificial.",
+   "uncertainties": [
+    "The four seeds are not listed."
+   ],
+   "plain_english": "Four hrāṃ seeds are artificial, along with others."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "asatyam",
+     "gloss": "untrue",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tārābhaktisamanvitā",
+     "gloss": "tārā-devotion-endowed-with",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What other untrue item is to be known with tārā devotion?",
+   "premises": [
+    "An untrue other is named.",
+    "It is to be known.",
+    "Tārā devotion is included."
+   ],
+   "inference": "The verse adds an untrue item tied to tārā devotion.",
+   "uncertainties": [
+    "The item itself is not specified."
+   ],
+   "plain_english": "Another untrue item, endowed with tārā devotion, is to be known."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "anṛtam",
+     "gloss": "false",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "parvateśvara-nandini",
+     "gloss": "mountain-lord-daughter",
+     "grounds": "compound",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What false other is to be known for the mountain lord's daughter?",
+   "premises": [
+    "A false other is named.",
+    "It is to be known.",
+    "The daughter is addressed."
+   ],
+   "inference": "The verse adds a false item for the goddess.",
+   "uncertainties": [
+    "The item itself is not specified."
+   ],
+   "plain_english": "Another false item is to be known, O daughter of the mountain lord."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭśiro",
+     "gloss": "six-headed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "sprout",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "one-should-extract",
+     "grounds": "verb imperative",
+     "morph": "v.3.sg.act-imp+root"
+    }
+   ],
+   "question": "What six-headed seed and sprout should one extract?",
+   "premises": [
+    "A seed is named.",
+    "It is six-headed.",
+    "A sprout is to be extracted."
+   ],
+   "inference": "The verse instructs extraction of a six-headed seed and sprout.",
+   "uncertainties": [
+    "The seed's full form is not given."
+   ],
+   "plain_english": "The six-headed seed is to be known, then one should extract the sprout."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "ebhiḥ",
+     "gloss": "with-these",
+     "grounds": "instrumental plural",
+     "morph": "pron.inst.pl.n"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "rājñyāḥ",
+     "gloss": "of-the-queen",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "pañcadaśākṣaraḥ",
+     "gloss": "fifteen-syllabled",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What fifteen-syllabled mantra is declared with these for the queen?",
+   "premises": [
+    "A mantra is declared.",
+    "It is fifteen-syllabled.",
+    "It belongs to the queen."
+   ],
+   "inference": "The verse declares a fifteen-syllabled queen mantra.",
+   "uncertainties": [
+    "The mantra's syllables are not listed."
+   ],
+   "plain_english": "With these, the fifteen-syllabled mantra of the queen is declared."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "raṃ-bījoddhāram",
+     "gloss": "raṃ-seed-extraction",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "dhi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtrimam",
+     "gloss": "artificial",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What raṃ seed extraction is remembered as artificial?",
+   "premises": [
+    "Raṃ seed extraction is named.",
+    "It is artificial.",
+    "It is another remembered item."
+   ],
+   "inference": "The verse marks raṃ seed extraction as artificial.",
+   "uncertainties": [
+    "The extraction method is not detailed."
+   ],
+   "plain_english": "This raṃ seed extraction is indeed remembered as another artificial item."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "viyacchaktyagni-bījāni",
+     "gloss": "space-power-fire-seeds",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "Which space power and fire seeds are joined with vāgbhava?",
+   "premises": [
+    "Space power fire seeds are named.",
+    "They are joined.",
+    "Vāgbhava is included."
+   ],
+   "inference": "The verse joins space power fire seeds with vāgbhava.",
+   "uncertainties": [
+    "The resulting mantra is not fully stated."
+   ],
+   "plain_english": "Having joined the space, power, and fire seeds, likewise vāgbhava."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "ṭha-dvayena",
+     "gloss": "ṭha-pair",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "samāyuktaḥ",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "viṃśākṣaro",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What twenty-syllabled mantra is declared endowed with a ṭha pair?",
+   "premises": [
+    "A mantra is declared.",
+    "It is twenty-syllabled.",
+    "It is endowed with a ṭha pair."
+   ],
+   "inference": "The verse declares a twenty-syllabled ṭha-pair mantra.",
+   "uncertainties": [
+    "The mantra's full syllables are not listed."
+   ],
+   "plain_english": "Endowed with a pair of ṭha, the twenty-syllabled mantra is declared."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ṣaḍakṣaraṃ",
+     "gloss": "six-syllabled",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-the-goddess",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "jvālāmukhyāḥ",
+     "gloss": "of-jvālāmukhī",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What six-syllabled seed belongs to jvālāmukhī?",
+   "premises": [
+    "A seed is named.",
+    "It is six-syllabled.",
+    "It belongs to jvālāmukhī."
+   ],
+   "inference": "The verse identifies a six-syllabled jvālāmukhī seed.",
+   "uncertainties": [
+    "The seed syllables are not given."
+   ],
+   "plain_english": "The six-syllabled seed of the goddess jvālāmukhī, O lord of gods."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.f"
+    },
+    {
+     "surface": "daśavidyānāṃ",
+     "gloss": "ten-vidyās",
+     "grounds": "compound",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "guṇān",
+     "gloss": "qualities",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "verb future",
+     "morph": "v.1.sg.act-fut+root"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "nominative singular",
+     "morph": "pron.nom.sg.2"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "verb imperative",
+     "morph": "v.2.sg.act-imp+root"
+    }
+   ],
+   "question": "Whose qualities of the ten vidyās will be told?",
+   "premises": [
+    "Ten vidyās are named.",
+    "Their qualities will be told.",
+    "The listener is addressed."
+   ],
+   "inference": "The verse promises to tell the ten vidyās' qualities.",
+   "uncertainties": [
+    "The qualities are not yet listed."
+   ],
+   "plain_english": "I shall tell the qualities of these ten vidyās; listen."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "verb present",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "vāgdevī",
+     "gloss": "speech-goddess",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverb",
+     "morph": "adv"
+    },
+    {
+     "surface": "janmaniścalām",
+     "gloss": "in-birth-steadfast",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What steadfast knowledge does vāgdevī give each birth?",
+   "premises": [
+    "Vāgdevī gives knowledge.",
+    "It is given each birth.",
+    "It is steadfast."
+   ],
+   "inference": "The verse says vāgdevī gives steadfast knowledge each birth.",
+   "uncertainties": [
+    "The knowledge's content is not specified."
+   ],
+   "plain_english": "Vāgdevī gives knowledge, steadfast in each birth."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "śārikā",
+     "gloss": "śārikā",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "auspiciousness",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dadāty",
+     "gloss": "gives",
+     "grounds": "verb present",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājñī",
+     "gloss": "queen",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "bestows",
+     "grounds": "verb present",
+     "morph": "v.3.sg.act-pres+root"
+    }
+   ],
+   "question": "What does śārikā give and the queen bestow?",
+   "premises": [
+    "Śārikā gives auspiciousness.",
+    "The queen bestows kingdom.",
+    "Both actions are stated."
+   ],
+   "inference": "The verse pairs śārikā's gift with the queen's bestowal.",
+   "uncertainties": [
+    "The relation between the two is not explicit."
+   ],
+   "plain_english": "Śārikā gives auspiciousness; the queen bestows kingdom."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jvālāmukhī",
+     "gloss": "jvālāmukhī",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "apposition",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhaktebhyaḥ",
+     "gloss": "to-devotees",
+     "grounds": "dative plural",
+     "morph": "n.dat.pl.m"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "bestows",
+     "grounds": "verb present",
+     "morph": "v.3.sg.act-pres+root"
+    }
+   ],
+   "question": "What wealth does jvālāmukhī bestow on devotees?",
+   "premises": [
+    "Wealth is named.",
+    "Jvālāmukhī is the goddess.",
+    "She bestows it on devotees."
+   ],
+   "inference": "The verse says jvālāmukhī bestows wealth on devotees.",
+   "uncertainties": [
+    "The kind of wealth is unspecified."
+   ],
+   "plain_english": "The goddess jvālāmukhī bestows wealth on devotees."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "prayacchanti",
+     "gloss": "they-bestow",
+     "grounds": "verb present",
+     "morph": "v.3.pl.act-pres+root"
+    },
+    {
+     "surface": "mahā-devi",
+     "gloss": "great-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "pūjāhoma+japādibhiḥ",
+     "gloss": "by-worship-oblation-recitation-and-so-forth",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl.n"
+    }
+   ],
+   "question": "What do they bestow through worship oblation and recitation?",
+   "premises": [
+    "They bestow something.",
+    "The great goddess is addressed.",
+    "Worship oblation recitation are means."
+   ],
+   "inference": "The verse says bestowal occurs through ritual means.",
+   "uncertainties": [
+    "The bestowed object is not stated."
+   ],
+   "plain_english": "They bestow, O great goddess, through worship, oblation, recitation, and so forth."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīdakṣiṇāmūrti+viracita",
+     "gloss": "śrī-dakṣiṇāmūrti-composed",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "uddhārakośe",
+     "gloss": "in-extraction-treasury",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "sarvāgamārṇave",
+     "gloss": "in-ocean-of-all-āgamas",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "daśavidyā+mantroddhārakośa+guṇākhyānaṃ",
+     "gloss": "ten-vidyā-mantra-extraction-treasury-quality-narration",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the first chapter named in the extraction treasury?",
+   "premises": [
+    "The work is composed by Śrī Dakṣiṇāmūrti.",
+    "It is in the extraction treasury.",
+    "The chapter is named."
+   ],
+   "inference": "The verse names the first chapter of the extraction treasury.",
+   "uncertainties": [
+    "The chapter's full scope is only summarized."
+   ],
+   "plain_english": "Thus, in the extraction treasury composed by Śrī Dakṣiṇāmūrti, the first chapter named ten-vidyā mantra extraction treasury quality narration."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "ṣaṭsakhībhir",
+     "gloss": "with-six-companions",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl.f"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "nominative singular",
+     "morph": "pron.nom.sg.1"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.f"
+    },
+    {
+     "surface": "mantroddhāraṃ",
+     "gloss": "mantra-extraction",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-tell",
+     "grounds": "verb present",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative singular",
+     "morph": "pron.dat.sg.2"
+    }
+   ],
+   "question": "Whose mantra extraction will be told with six companions?",
+   "premises": [
+    "The speaker will tell mantra extraction.",
+    "It concerns them.",
+    "Six companions are included."
+   ],
+   "inference": "The verse promises mantra extraction for them with six companions.",
+   "uncertainties": [
+    "The companions are not named."
+   ],
+   "plain_english": "With six companions, I tell you the mantra extraction of them."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchāmy",
+     "gloss": "I-desire",
+     "grounds": "verb present",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "nominative singular",
+     "morph": "pron.nom.sg.1"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sarvāṃś",
+     "gloss": "all",
+     "grounds": "accusative plural",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukti-hetave",
+     "gloss": "liberation-cause",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.m"
+    }
+   ],
+   "question": "Why does the speaker desire to hear all mantras?",
+   "premises": [
+    "The speaker desires to hear.",
+    "All mantras are desired.",
+    "Liberation is the cause."
+   ],
+   "inference": "The verse states desire to hear all mantras for liberation.",
+   "uncertainties": [
+    "The speaker's identity is not specified."
+   ],
+   "plain_english": "I desire to hear all mantras, for the cause of liberation."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "dakṣiṇākālikā",
+     "gloss": "dakṣiṇā-kālikā",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śyāmā",
+     "gloss": "śyāmā",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kālarātrī",
+     "gloss": "kālarātri",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Which goddess names are listed as thus, O beautiful one?",
+   "premises": [
+    "Dakṣiṇākālikā is named.",
+    "Śyāmā is named.",
+    "Kālarātri is named."
+   ],
+   "inference": "The verse lists goddess names in address.",
+   "uncertainties": [
+    "The list may be incomplete."
+   ],
+   "plain_english": "Dakṣiṇākālikā, Śyāmā, Kālarātri, thus, O beautiful one."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "ṣaṭsakhīnām",
+     "gloss": "of-six-companions",
+     "grounds": "genitive compound",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "nominative singular",
+     "morph": "pron.nom.sg.1"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.f"
+    },
+    {
+     "surface": "mantroddhāraṃ",
+     "gloss": "mantra-extraction",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bravīmi",
+     "gloss": "I-tell",
+     "grounds": "verb present",
+     "morph": "v.1.sg.act-pres+root"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative singular",
+     "morph": "pron.dat.sg.2"
+    }
+   ],
+   "question": "Whose mantra extraction is told among six companions?",
+   "premises": [
+    "The speaker tells mantra extraction.",
+    "It concerns them.",
+    "Six companions are named."
+   ],
+   "inference": "The verse repeats the promise of mantra extraction.",
+   "uncertainties": [
+    "The companions are not identified."
+   ],
+   "plain_english": "Of the six companions, I tell you their mantra extraction."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "ṭha-dvayena",
+     "gloss": "ṭha-pair",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "samāyukto",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhadrakālī",
+     "gloss": "bhadrakālī",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mahāmanuḥ",
+     "gloss": "great-mantra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What great mantra is endowed with a ṭha pair?",
+   "premises": [
+    "A ṭha pair is named.",
+    "Bhadrakālī is named.",
+    "A great mantra is named."
+   ],
+   "inference": "The verse identifies a ṭha-pair great mantra of Bhadrakālī.",
+   "uncertainties": [
+    "The mantra's syllables are not given."
+   ],
+   "plain_english": "Endowed with a pair of ṭha, Bhadrakālī is the great mantra."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "anṛtam",
+     "gloss": "false",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "other",
+     "grounds": "neuter singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "brahmānvaya+samudbhava",
+     "gloss": "brahmā-lineage-born",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What false other born of Brahmā's lineage is to be known?",
+   "premises": [
+    "A false other is named.",
+    "It is to be known.",
+    "It is born of Brahmā's lineage."
+   ],
+   "inference": "The verse adds a false item tied to Brahmā's lineage.",
+   "uncertainties": [
+    "The item itself is not specified."
+   ],
+   "plain_english": "Another false item, born of Brahmā's lineage, is to be known."
+  }
+ ]
+}

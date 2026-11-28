@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "avyāhatamahadvartmā",
+     "gloss": "unobstructed-great-path",
+     "grounds": "compound of avyāhata (unobstructed), mahat (great), and vartman (path); nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatirājojagadguruḥ",
+     "gloss": "king-of-yogis-world-teacher",
+     "grounds": "compound of yatirāja (king of yogis) and jagadguru (world teacher); nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which epithets describe the yogi king who is world teacher and unobstructed great path?",
+   "premises": [
+    "The figure has an unobstructed great path.",
+    "The figure is king of yogis.",
+    "The figure is world teacher."
+   ],
+   "inference": "The verse praises a yogi king as world teacher with unobstructed great path.",
+   "uncertainties": [
+    "Compound boundaries and exact sandhi are inferred from the surface."
+   ],
+   "plain_english": "He is the unobstructed great path, king of yogis, and world teacher."
+  }
+ ]
+}

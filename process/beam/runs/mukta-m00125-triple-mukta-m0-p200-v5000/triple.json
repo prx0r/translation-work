@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 5000,
+   "rows": [
+    {
+     "surface": "vālacandreṇa",
+     "gloss": "with-crescent-moon",
+     "grounds": "instrument accompanying the joined element",
+     "morph": "m.i.sg"
+    },
+    {
+     "surface": "saṃyukto",
+     "gloss": "joined",
+     "grounds": "describes the state of conjunction",
+     "morph": "m.nom.sg.ppp-sam√yuj"
+    },
+    {
+     "surface": "vāmapārśvasthitena",
+     "gloss": "left-side-situated",
+     "grounds": "locative qualifier of the accompanying crescent moon; compound vāma-pārśva-sthita",
+     "morph": "m.i.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this feature to the preceding description",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what lunar feature is the left-side-situated element conjoined?",
+   "premises": [
+    "An element is described as joined or conjoined.",
+    "The accompanying feature is the crescent moon.",
+    "That crescent moon is situated on the left side."
+   ],
+   "inference": "The described element is conjoined with a crescent moon situated on the left side.",
+   "uncertainties": [
+    "The exact referent of the joined element depends on the preceding verses."
+   ],
+   "plain_english": "And it is joined with the crescent moon situated on the left side."
+  }
+ ]
+}

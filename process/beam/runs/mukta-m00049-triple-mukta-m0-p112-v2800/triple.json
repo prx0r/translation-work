@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "one who incurs sin or moral fault",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential or conditional result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What moral status would the person incur in this situation?",
+   "premises": [
+    "A condition of fault is under consideration.",
+    "Moral consequence attaches to that condition.",
+    "The resulting status is named as sinful."
+   ],
+   "inference": "The person would become a sinner.",
+   "uncertainties": [
+    "The exact triggering condition is carried over from the preceding verses."
+   ],
+   "plain_english": "He would become a sinner."
+  }
+ ]
+}

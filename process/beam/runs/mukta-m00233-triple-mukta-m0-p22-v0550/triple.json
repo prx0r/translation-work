@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "ṣaṭtalāntāni",
+     "gloss": "six-tala-ended",
+     "grounds": "compound of ṣaṭ, tala, and anta; neuter plural adjective",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "madhyānāṃ",
+     "gloss": "of-middles",
+     "grounds": "genitive plural masculine/neuter noun",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "gopurāṇyapi",
+     "gloss": "gopuras-also",
+     "grounds": "gopurāṇi plus api with sandhi i to y before a",
+     "morph": "n.nom.pl.n + (indecl.)"
+    }
+   ],
+   "question": "What architectural feature do the middle gopuras also possess?",
+   "premises": [
+    "Middle gopuras are mentioned.",
+    "They have six-tala ends.",
+    "The feature is shared."
+   ],
+   "inference": "The middle gopuras also end in six talas.",
+   "uncertainties": [
+    "Exact referent of madhyānāṃ remains unclear."
+   ],
+   "plain_english": "The middle gopuras also have six-tala ends."
+  }
+ ]
+}

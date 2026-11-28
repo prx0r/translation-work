@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "madhunā",
+     "gloss": "with-honey",
+     "grounds": "instrumental singular of madhu",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śvetadūrvābhiḥ",
+     "gloss": "with-white-durva",
+     "grounds": "instrumental plural of śvetadūrvā",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "kiṃ+vā",
+     "gloss": "or",
+     "grounds": "fused interrogative and disjunctive particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarṇaśalākayā",
+     "gloss": "with-gold-stick",
+     "grounds": "instrumental singular of svarṇaśalākā",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Which substances or instruments are prescribed for performing the rite?",
+   "premises": [
+    "madhunā means with honey",
+    "śvetadūrvābhiḥ means with white durva",
+    "kiṃ+vā means or",
+    "svarṇaśalākayā means with a gold stick"
+   ],
+   "inference": "The rite may be performed with honey, white durva, or a gold stick.",
+   "uncertainties": [
+    "The exact ritual action is not specified by these four tokens."
+   ],
+   "plain_english": "With honey, with white durva, or with a gold stick."
+  }
+ ]
+}

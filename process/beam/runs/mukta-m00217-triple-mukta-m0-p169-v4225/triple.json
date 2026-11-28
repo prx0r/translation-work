@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4225,
+   "rows": [
+    {
+     "surface": "mālyamuktāphale",
+     "gloss": "garland-pearl-fruit",
+     "grounds": "dvandva compound listing ritual items; analyzed as fused form",
+     "morph": "compound mālya+muktā+phala, n.nom.du"
+    },
+    {
+     "surface": "hāraḥ",
+     "gloss": "necklace",
+     "grounds": "noun in nominative, item in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇaḥ",
+     "gloss": "full",
+     "grounds": "adjective qualifying śaśī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samuditaḥ",
+     "gloss": "risen",
+     "grounds": "past participle qualifying śaśī",
+     "morph": "m.nom.sg, ppp sam-ud-√i"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "noun in nominative, final item in enumeration",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which auspicious objects culminating in the full risen moon are included in this ritual enumeration?",
+   "premises": [
+    "A garland, a pearl, and a fruit are named as items.",
+    "A necklace is named as an item.",
+    "The full risen moon is named as an item."
+   ],
+   "inference": "The enumeration includes these specific auspicious objects ending with the full risen moon.",
+   "uncertainties": [
+    "The precise ritual function of these items in this context is not specified in the verse alone."
+   ],
+   "plain_english": "A garland, a pearl, a fruit, a necklace, and the full risen moon."
+  }
+ ]
+}

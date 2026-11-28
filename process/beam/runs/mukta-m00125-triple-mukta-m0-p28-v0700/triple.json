@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "ghaṇṭārava",
+     "gloss": "with-bell-sound",
+     "grounds": "compound describing the sound of a bell accompanying the implement",
+     "morph": "compound"
+    },
+    {
+     "surface": "samopetaṃ",
+     "gloss": "endowed-with",
+     "grounds": "past participle indicating being furnished or accompanied by something",
+     "morph": "m.acc.sg.ppp"
+    },
+    {
+     "surface": "balidravyasamāyugam",
+     "gloss": "joined-with-offering-substances",
+     "grounds": "compound indicating conjunction with the materials used for the offering",
+     "morph": "compound"
+    }
+   ],
+   "question": "What accompanying features must characterize the implement used in the offering?",
+   "premises": [
+    "The implement is endowed with the sound of a bell.",
+    "The implement is joined with the substances of the offering."
+   ],
+   "inference": "Therefore, the offering implement must be accompanied by both bell-sound and offering substances.",
+   "uncertainties": [
+    "The exact grammatical gender and case agreement of the descriptors depend on the object continued from the previous verse."
+   ],
+   "plain_english": "It should be endowed with the sound of a bell and joined together with the substances of the offering."
+  }
+ ]
+}

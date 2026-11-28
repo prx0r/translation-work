@@ -1,0 +1,541 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "neuter accusative singular of kārya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhavākyam",
+     "gloss": "parenthetical-statement",
+     "grounds": "compound garbha plus vākya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What parenthetical statement frames the ritual instruction that follows?",
+   "premises": [
+    "garbhavākyam is a parenthetical statement",
+    "iti marks the quoted statement",
+    "kāryam names the action to be done"
+   ],
+   "inference": "The verse identifies the parenthetical statement as the framing utterance for the prescribed action.",
+   "uncertainties": [
+    "exact scope of garbha in this compound"
+   ],
+   "plain_english": "The parenthetical statement is: 'to be done.'"
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "ekamekam",
+     "gloss": "one-by-one",
+     "grounds": "reduplicated form of ekam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaṣṭabhya",
+     "gloss": "having-grasped",
+     "grounds": "absolutive from avaṣṭabh",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "sādhyanāmākṣaraṃ",
+     "gloss": "to-be-accomplished-name-syllable",
+     "grounds": "compound sādhya nāma akṣara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative of priyā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should each syllable of the name to be accomplished be grasped?",
+   "premises": [
+    "ekamekam means one by one",
+    "avaṣṭabhya means having grasped",
+    "sādhyanāmākṣaraṃ is the syllable of the name to be accomplished"
+   ],
+   "inference": "The practitioner grasps each syllable of the name to be accomplished one by one.",
+   "uncertainties": [
+    "whether avaṣṭabhya implies physical or mental grasping"
+   ],
+   "plain_english": "Grasp each syllable of the name to be accomplished, one by one, O beloved."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "hemamadhyagatāṃ",
+     "gloss": "in-gold-middle-placed",
+     "grounds": "compound hema madhya gata in feminine accusative singular",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from kṛ",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "one-should-wear",
+     "grounds": "optative third singular from dhṛ",
+     "morph": "opt.3sg.act"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left",
+     "grounds": "locative masculine singular of vāmaka",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhuje",
+     "gloss": "arm",
+     "grounds": "locative masculine singular of bhuja",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where should the syllable be worn after being placed in gold?",
+   "premises": [
+    "hemamadhyagatāṃ means placed in the middle of gold",
+    "kṛtvā means having made",
+    "dhārayed means one should wear",
+    "vāmake bhuje means on the left arm"
+   ],
+   "inference": "After placing the syllable in gold, one should wear it on the left arm.",
+   "uncertainties": [
+    "whether hemamadhyagatāṃ refers to a charm or syllable"
+   ],
+   "plain_english": "Having placed it in gold, one should wear it on the left arm."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "feminine nominative singular of rakṣā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "masculine nominative singular of śeṣa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the remainder of the instruction after wearing the charm?",
+   "premises": [
+    "rakṣā means protection",
+    "iti marks the quoted word",
+    "śeṣaḥ means remainder"
+   ],
+   "inference": "The remainder of the instruction is protection.",
+   "uncertainties": [
+    "whether śeṣaḥ refers to remaining verses or remaining ritual effect"
+   ],
+   "plain_english": "The remainder is protection."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "karoti",
+     "gloss": "makes",
+     "grounds": "third singular present active from kṛ",
+     "morph": "pres.3sg.act"
+    },
+    {
+     "surface": "dāsabhūtaṃ",
+     "gloss": "slave-become",
+     "grounds": "compound dāsa bhūta in neuter accusative singular",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "triple-world",
+     "grounds": "neuter accusative singular of trailokya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sacarācaram",
+     "gloss": "with-moving-unmoving",
+     "grounds": "compound sa cara acara in neuter accusative singular",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What effect does the worn charm have on the triple world?",
+   "premises": [
+    "karoti means makes",
+    "dāsabhūtaṃ means become a slave",
+    "trailokyaṃ means the triple world",
+    "sacarācaram means with moving and unmoving beings"
+   ],
+   "inference": "The charm makes the entire triple world, moving and unmoving, become enslaved.",
+   "uncertainties": [
+    "whether dāsabhūtaṃ is literal or hyperbolic"
+   ],
+   "plain_english": "It makes the whole triple world, moving and unmoving, become enslaved."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "cauraṃ",
+     "gloss": "thief",
+     "grounds": "masculine accusative singular of caura",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kesariṇaṃ",
+     "gloss": "lion",
+     "grounds": "masculine accusative singular of kesarin",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sapraṃ",
+     "gloss": "snake",
+     "grounds": "masculine accusative singular of sapra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paramantramahāgraham",
+     "gloss": "enemy-mantra-great-seizer",
+     "grounds": "compound paramantra mahā graha in masculine accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which hostile beings and forces does the charm subdue?",
+   "premises": [
+    "cauraṃ means thief",
+    "kesariṇaṃ means lion",
+    "sapraṃ means snake",
+    "paramantramahāgraham means enemy mantra great seizer"
+   ],
+   "inference": "The charm subdues thieves, lions, snakes, and the great seizer of hostile mantras.",
+   "uncertainties": [
+    "whether kesariṇaṃ is a lion or a lion-like being"
+   ],
+   "plain_english": "It subdues thieves, lions, snakes, and the great seizer of hostile mantras."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "bhūtapretapiśācān",
+     "gloss": "ghosts-spirits-demons",
+     "grounds": "compound bhūta preta piśāca in masculine accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāritā",
+     "gloss": "worn",
+     "grounds": "past participle feminine nominative singular from dhṛ",
+     "morph": "pp.nom.sg.f"
+    },
+    {
+     "surface": "cakrarūpiṇī",
+     "gloss": "circle-formed",
+     "grounds": "compound cakra rūpiṇī in feminine nominative singular",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What beings are overcome when the circle-formed charm is worn?",
+   "premises": [
+    "bhūtapretapiśācān means ghosts spirits and demons",
+    "ca means and",
+    "dhāritā means worn",
+    "cakrarūpiṇī means circle-formed"
+   ],
+   "inference": "When the circle-formed charm is worn, ghosts, spirits, and demons are overcome.",
+   "uncertainties": [
+    "whether cakrarūpiṇī refers to the yantra or the wearer"
+   ],
+   "plain_english": "When the circle-formed charm is worn, ghosts, spirits, and demons are overcome."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of madhya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "locative neuter singular of catuṣpatha",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative feminine plural of caturdik",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative third singular causative from nidhā",
+     "morph": "opt.3sg.act"
+    }
+   ],
+   "question": "Where should the charm be placed for protection at a crossroads?",
+   "premises": [
+    "madhye means in the middle",
+    "vāpi means or",
+    "catuṣpathe means at a crossroads",
+    "caturdikṣu means in four directions",
+    "nidhāpayet means one should place"
+   ],
+   "inference": "One should place the charm in the middle, or at a crossroads, or in the four directions.",
+   "uncertainties": [
+    "whether the three placements are alternatives or simultaneous"
+   ],
+   "plain_english": "Place it in the middle, or at a crossroads, or in the four directions."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "purāṇām",
+     "gloss": "of-cities",
+     "grounds": "genitive plural of pura",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatrāpi",
+     "gloss": "elsewhere-also",
+     "grounds": "indeclinable compound anyatra api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative third singular causative from nidhā",
+     "morph": "opt.3sg.act"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "neuter nominative or accusative singular of yantra",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How may the yantra be placed for cities and elsewhere?",
+   "premises": [
+    "purāṇām means of cities",
+    "evam means thus",
+    "anyatrāpi means elsewhere also",
+    "nidhāpayet means one should place",
+    "yantram means diagram"
+   ],
+   "inference": "The yantra may be placed thus for cities and elsewhere also.",
+   "uncertainties": [
+    "whether purāṇām is genitive of location or possession"
+   ],
+   "plain_english": "Thus one should place the yantra for cities and elsewhere also."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "yoṣitāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive plural of yoṣit",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "indeclinable instrumental of viśeṣa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvadṛṣṭānām",
+     "gloss": "of-unseen-even",
+     "grounds": "compound tva dṛṣṭa in genitive plural",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "O-goddess",
+     "grounds": "vocative feminine singular of īśvarī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "For whom is the charm especially effective even when unseen?",
+   "premises": [
+    "yoṣitāṃ means of women",
+    "ca means and",
+    "viśeṣeṇa means especially",
+    "tvadṛṣṭānām means of unseen even",
+    "api means also"
+   ],
+   "inference": "The charm is especially effective for women, even those unseen.",
+   "uncertainties": [
+    "whether tvadṛṣṭānām refers to unseen women or unseen effects"
+   ],
+   "plain_english": "Especially for women, even unseen ones, O goddess."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "catuḥsamudraparyantāṃ",
+     "gloss": "up-to-four-oceans",
+     "grounds": "compound catuḥ samudra paryantā in feminine accusative singular",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "jvalantīṃ",
+     "gloss": "blazing",
+     "grounds": "present participle feminine accusative singular from jval",
+     "morph": "ppr.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative third singular from cint",
+     "morph": "opt.3sg.act"
+    }
+   ],
+   "question": "What should be visualized as blazing up to the four oceans?",
+   "premises": [
+    "catuḥsamudraparyantāṃ means up to the four oceans",
+    "jvalantīṃ means blazing",
+    "ca means and",
+    "api means also",
+    "cintayet means one should visualize"
+   ],
+   "inference": "One should visualize something blazing up to the four oceans.",
+   "uncertainties": [
+    "the exact object of visualization is supplied by context"
+   ],
+   "plain_english": "One should also visualize it blazing up to the four oceans."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "pṛthvīm",
+     "gloss": "earth",
+     "grounds": "feminine accusative singular of pṛthvī",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthāt",
+     "gloss": "by-implication",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmalekhanapūrvameva",
+     "gloss": "name-writing-preceded-indeed",
+     "grounds": "compound nāma lekhanapūrvam eva",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is implied by visualizing the earth before writing the name?",
+   "premises": [
+    "pṛthvīm means earth",
+    "iti marks the quoted word",
+    "arthāt means by implication",
+    "pūrvavat means as before",
+    "nāmalekhanapūrvameva means preceded by name writing indeed"
+   ],
+   "inference": "Visualizing the earth implies the name-writing procedure as before.",
+   "uncertainties": [
+    "whether nāmalekhanapūrvameva modifies visualization or placement"
+   ],
+   "plain_english": "Earth, by implication, as before, indeed preceded by writing the name."
+  }
+ ]
+}

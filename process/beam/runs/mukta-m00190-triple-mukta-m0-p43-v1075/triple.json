@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "śūlaprota",
+     "gloss": "impaled-on-spike",
+     "grounds": "compound describing the visualized figure as pierced by a spike",
+     "morph": "compound"
+    },
+    {
+     "surface": "āhitāṃ",
+     "gloss": "placed",
+     "grounds": "past participle qualifying the visualized figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating",
+     "grounds": "present participle indicating the practitioner's contemplative act",
+     "morph": "m.nom.sg.pres.part.act √dhyai"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-mutter",
+     "grounds": "optative expressing the prescribed ritual action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of the recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ananya",
+     "gloss": "undivided",
+     "grounds": "first member of compound describing focused attention",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhīḥ",
+     "gloss": "mind",
+     "grounds": "second member's head in bahuvrihi sense, characterizing the practitioner",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What visualization and mental focus must accompany the prescribed muttering of the mantra?",
+   "premises": [
+    "The practitioner meditates on a figure placed and impaled on a spike.",
+    "The practitioner should mutter the mantra.",
+    "The practitioner must have an undivided mind."
+   ],
+   "inference": "Mantra recitation is to be performed while visualizing the spike-impaled figure with single-pointed attention.",
+   "uncertainties": [
+    "The exact referent of the visualized figure is carried over from the preceding verses."
+   ],
+   "plain_english": "Meditating on her as placed and impaled on a spike, one with an undivided mind should mutter the mantra."
+  }
+ ]
+}

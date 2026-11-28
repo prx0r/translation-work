@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "kuloḍḍīśamatenāpi",
+     "gloss": "by-kuloḍḍīśa-doctrine-too",
+     "grounds": "fused form of kuloḍḍīśa + mata + api; instrumental sense from matena",
+     "morph": "compound.instr.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "too",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakārāntaram",
+     "gloss": "other-method",
+     "grounds": "compound of prakāra and antara",
+     "morph": "noun.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present of root uc",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "What alternative ritual method does Kuloḍḍīśa's doctrine also prescribe?",
+   "premises": [
+    "Kuloḍḍīśa doctrine is invoked.",
+    "Another method is stated.",
+    "The verse affirms an alternative."
+   ],
+   "inference": "Kuloḍḍīśa's doctrine adds another method.",
+   "uncertainties": [
+    "Exact ritual content is unspecified."
+   ],
+   "plain_english": "By Kuloḍḍīśa's doctrine too, another method is said."
+  }
+ ]
+}

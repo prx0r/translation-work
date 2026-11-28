@@ -1,0 +1,39 @@
+{
+ "song": "kul-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "bhavapāśanivṛttyarthaṃ",
+     "gloss": "for-world-bond-removal",
+     "grounds": "compound purpose form; no sandhi split",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madhupānaṃ",
+     "gloss": "honey-drinking",
+     "grounds": "compound madhu+pāna; accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act-opt (sam-ā-car)"
+    }
+   ],
+   "question": "Why should honey-drinking be practiced?",
+   "premises": [
+    "World-bond removal is the stated purpose.",
+    "Honey-drinking is the prescribed practice.",
+    "The verse commands its performance."
+   ],
+   "inference": "Honey-drinking should be practiced for world-bond removal.",
+   "uncertainties": [
+    "madhu may carry Kaula ritual sense beyond ordinary honey."
+   ],
+   "plain_english": "For the removal of the world-bond, one should practice honey-drinking."
+  }
+ ]
+}

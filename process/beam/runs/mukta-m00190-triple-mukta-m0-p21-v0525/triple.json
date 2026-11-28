@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive gerund expressing prior action",
+     "morph": "gerund (√gam)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle marking sequence or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahatīṃ",
+     "gloss": "great",
+     "grounds": "qualifies pūjāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "object of kṛtvā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive gerund expressing prior action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-the-deity",
+     "grounds": "possessor of the worship",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cakriṇaḥ",
+     "gloss": "discus-bearing",
+     "grounds": "epithet qualifying devasya",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What act of worship must be performed for the discus-bearing deity after completing the water recitation?",
+   "premises": [
+    "The practitioner has completed bathing and recitation while standing in water.",
+    "The sequence continues with going to another place.",
+    "A great worship is to be performed for the discus-bearing deity."
+   ],
+   "inference": "After finishing the prescribed recitation in water, the practitioner must go and perform a great worship of the discus-bearing deity.",
+   "uncertainties": [
+    "The destination implied by gatvā is not specified in this verse."
+   ],
+   "plain_english": "Then, having gone, one should perform a great worship of the discus-bearing deity."
+  }
+ ]
+}

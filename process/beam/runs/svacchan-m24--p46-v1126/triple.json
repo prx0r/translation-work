@@ -1,0 +1,941 @@
+{
+ "song": "sva-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "deity group name",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "īśvarasya",
+     "gloss": "of-lord",
+     "grounds": "possessor of attendants",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parivārāḥ",
+     "gloss": "attendants",
+     "grounds": "retinue",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rudrā",
+     "gloss": "rudras",
+     "grounds": "repeated identification",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the attendants of the Lord?",
+   "premises": [
+    "Rudras are named as attendants",
+    "The attendants belong to the Lord"
+   ],
+   "inference": "The Rudras are the attendants of the Lord",
+   "uncertainties": [],
+   "plain_english": "The Rudras are the attendants of the Lord, the Rudras."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "become-chief",
+     "grounds": "principal status",
+     "morph": "m.nom.pl (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtāḥ",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound pradhāna+bhūta)"
+    }
+   ],
+   "question": "What status do these attendants hold?",
+   "premises": [
+    "The attendants are described as principal",
+    "The description is emphatically repeated"
+   ],
+   "inference": "They are indeed the principal ones",
+   "uncertainties": [],
+   "plain_english": "They are the principal ones, the principal ones, the principal ones, the principal ones."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "samayāvaraṇam",
+     "gloss": "observance-covering",
+     "grounds": "enclosing layer",
+     "morph": "n.nom.sg (compound samaya+āvaraṇa)"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catubhīḥ+saha",
+     "gloss": "with-four",
+     "grounds": "added to four; sandhi marked by +",
+     "morph": "(indecl. phrase caturbhiḥ+saha)"
+    },
+    {
+     "surface": "pañcadaśa",
+     "gloss": "fifteen",
+     "grounds": "total count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting number",
+     "morph": "3.pl.act.pres (√bhū)"
+    }
+   ],
+   "question": "How many elements form the observance covering?",
+   "premises": [
+    "The observance covering is counted as eleven",
+    "Eleven together with four make fifteen"
+   ],
+   "inference": "The observance covering consists of fifteen elements",
+   "uncertainties": [],
+   "plain_english": "The observance covering, eleven together with four, becomes fifteen."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "tadbhuvanadvitayarūpaṃ",
+     "gloss": "that-world-pair-form",
+     "grounds": "form of two worlds",
+     "morph": "n.nom.sg (compound tad+bhuvana+dvitiya+rūpa)"
+    },
+    {
+     "surface": "vidyāvaraṇam",
+     "gloss": "knowledge-covering",
+     "grounds": "enclosing layer",
+     "morph": "n.nom.sg (compound vidyā+āvaraṇa)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "refers to described covering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory gloss",
+     "morph": "m.nom.sg (compound iti+artha)"
+    }
+   ],
+   "question": "What is meant by the knowledge covering here?",
+   "premises": [
+    "It has the form of that pair of worlds",
+    "It is identified as the knowledge covering"
+   ],
+   "inference": "The knowledge covering means this form of those two worlds",
+   "uncertainties": [],
+   "plain_english": "This is the knowledge covering in the form of that pair of worlds; such is the meaning."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental reference",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vāmādibhuvanatrayaparivṛtam",
+     "gloss": "vama-etc-world-triad-surrounded",
+     "grounds": "surrounded by three worlds beginning with Vama",
+     "morph": "n.nom.sg (compound vāma+ādi+bhuvana+traya+parivṛta)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "icchābhuvanamātretyarthaḥ",
+     "gloss": "will-world-only-thus-meaning",
+     "grounds": "explanation limiting to will-world",
+     "morph": "m.nom.sg (compound icchā+bhuvana+mātra+iti+artha)"
+    }
+   ],
+   "question": "What does this world surrounded by the triad signify?",
+   "premises": [
+    "This is surrounded by the triad of worlds beginning with Vama",
+    "The explanation limits it to the will-world alone"
+   ],
+   "inference": "It means only the world of will surrounded by that triad",
+   "uncertainties": [],
+   "plain_english": "Surrounded by that triad of worlds beginning with Vama, this means only the world of will."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "tālūrdhvaṃ",
+     "gloss": "above-palate",
+     "grounds": "location above palate",
+     "morph": "n.nom.sg (compound tālu+ūrdhva)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāvadantam",
+     "gloss": "this-much-end",
+     "grounds": "extent up to this point",
+     "morph": "n.nom.sg (compound etāvat+anta)"
+    },
+    {
+     "surface": "īśvaratattvāśrayam",
+     "gloss": "lord-principle-resting-on",
+     "grounds": "based on the Lord principle",
+     "morph": "n.nom.sg (compound īśvara+tattva+āśraya)"
+    },
+    {
+     "surface": "smaraṇāya",
+     "gloss": "for-remembrance",
+     "grounds": "purpose",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Up to what point is the Lord principle to be remembered?",
+   "premises": [
+    "The phrase indicates above the palate",
+    "This extent rests on the Lord principle",
+    "It is stated for remembrance"
+   ],
+   "inference": "Up to above the palate is to be remembered as resting on the Lord principle",
+   "uncertainties": [],
+   "plain_english": "Saying 'above the palate,' up to this extent, resting on the Lord principle, is for remembrance."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "saṅkṣepeṇa",
+     "gloss": "in-brief",
+     "grounds": "manner of practice",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistarataḥ",
+     "gloss": "in-detail",
+     "grounds": "contrasted manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescribed action",
+     "morph": "3.sg.act.opt (√śudh)"
+    }
+   ],
+   "question": "How should one perform the purification here?",
+   "premises": [
+    "Purification is prescribed",
+    "It should be done briefly",
+    "It should not be done in detail"
+   ],
+   "inference": "One should purify briefly, not in detail",
+   "uncertainties": [],
+   "plain_english": "One should purify in brief, but not in detail."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "nānārūpā",
+     "gloss": "various-forms",
+     "grounds": "having many forms",
+     "morph": "f.nom.sg (compound nānā+rūpa)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaratrāpi",
+     "gloss": "later-also",
+     "grounds": "applying later too",
+     "morph": "(indecl. compound uttaratra+api)"
+    }
+   ],
+   "question": "Does this variety of forms apply later as well?",
+   "premises": [
+    "The form is described as various",
+    "The same applies later also"
+   ],
+   "inference": "Even with various forms, it is thus later as well",
+   "uncertainties": [],
+   "plain_english": "Even though of various forms, it is thus later also."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇapararūpāt",
+     "gloss": "to-be-spoken-higher-form-from",
+     "grounds": "distinguished from later-described higher form",
+     "morph": "n.abl.sg (compound vakṣyamāṇa+para+rūpa)"
+    },
+    {
+     "surface": "sadāśivādanyo",
+     "gloss": "other-than-sadashiva",
+     "grounds": "different from Sadashiva",
+     "morph": "m.nom.sg (compound sadāśiva+anya, sandhi)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "present subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "apararūpa",
+     "gloss": "lower-form",
+     "grounds": "other or lower form",
+     "morph": "m.nom.sg (compound apara+rūpa)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory gloss",
+     "morph": "m.nom.sg (compound iti+artha)"
+    }
+   ],
+   "question": "How is this form distinguished from Sadashiva?",
+   "premises": [
+    "It differs from the higher form to be spoken later",
+    "It is other than Sadashiva",
+    "It is called a lower form"
+   ],
+   "inference": "This is a lower form distinct from Sadashiva and the later higher form",
+   "uncertainties": [],
+   "plain_english": "Distinct from the higher form to be spoken of later, this is other than Sadashiva, a lower form; such is the meaning."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "śvetapadmāsanasthitaḥ",
+     "gloss": "seated-on-white-lotus-seat",
+     "grounds": "located on white lotus seat",
+     "morph": "m.nom.sg (compound śveta+padma+āsana+sthita)"
+    },
+    {
+     "surface": "śvetapadmāsanasthitaḥ",
+     "gloss": "seated-on-white-lotus-seat",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.sg (compound śveta+padma+āsana+sthita)"
+    },
+    {
+     "surface": "śvetapadmāsanasthitaḥ",
+     "gloss": "seated-on-white-lotus-seat",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.sg (compound śveta+padma+āsana+sthita)"
+    },
+    {
+     "surface": "śvetapadmāsanasthitaḥ",
+     "gloss": "seated-on-white-lotus-seat",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.sg (compound śveta+padma+āsana+sthita)"
+    }
+   ],
+   "question": "Where is the described figure seated?",
+   "premises": [
+    "The figure is described as seated on a white lotus seat",
+    "The description is emphatically repeated"
+   ],
+   "inference": "The figure is seated on a white lotus seat",
+   "uncertainties": [],
+   "plain_english": "Seated on a white lotus seat, seated on a white lotus seat, seated on a white lotus seat, seated on a white lotus seat."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "pañca+brahmāṇi",
+     "gloss": "five-brahmans",
+     "grounds": "five Brahman forms; sandhi marked by +",
+     "morph": "n.nom.pl (compound pañca+brahman)"
+    },
+    {
+     "surface": "sadyojātādīni",
+     "gloss": "sadyojata-etc",
+     "grounds": "beginning with Sadyojata",
+     "morph": "n.nom.pl (compound sadyojāta+ādi)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "bodily or ritual limbs",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "hṛdayādīni",
+     "gloss": "heart-etc",
+     "grounds": "beginning with the heart",
+     "morph": "n.nom.pl (compound hṛdaya+ādi)"
+    }
+   ],
+   "question": "Which Brahmans and limbs are being identified?",
+   "premises": [
+    "The five Brahmans beginning with Sadyojata are named",
+    "The limbs beginning with the heart are named"
+   ],
+   "inference": "The five Brahmans and the limbs are Sadyojata and others, heart and others",
+   "uncertainties": [],
+   "plain_english": "The five Brahmans, beginning with Sadyojata, and the limbs, beginning with the heart."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "vṛta",
+     "gloss": "surrounded",
+     "grounds": "enclosed or encompassed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "exists",
+     "grounds": "state of being",
+     "morph": "3.sg.mid.pres (√vṛt)"
+    },
+    {
+     "surface": "vṛta",
+     "gloss": "surrounded",
+     "grounds": "repeated term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the term surrounded indicate here?",
+   "premises": [
+    "The word surrounded is stated",
+    "It is said to exist or apply thus"
+   ],
+   "inference": "The state of being surrounded is affirmed",
+   "uncertainties": [],
+   "plain_english": "Surrounded, thus it exists; surrounded, thus."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "daśāṣṭādaśabhedena",
+     "gloss": "by-ten-eighteen-division",
+     "grounds": "division into ten and eighteen",
+     "morph": "m.ins.sg (compound daśa+aṣṭādaśa+bheda)"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "this also; sandhi ca+etad",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "statement",
+     "morph": "3.sg.pass.pres (√vac)"
+    },
+    {
+     "surface": "daśāṣṭādaśabhedena",
+     "gloss": "by-ten-eighteen-division",
+     "grounds": "repeated division",
+     "morph": "m.ins.sg (compound daśa+aṣṭādaśa+bheda)"
+    }
+   ],
+   "question": "How is this division described in the text?",
+   "premises": [
+    "This is said by a division of ten and eighteen",
+    "The division is repeated for emphasis"
+   ],
+   "inference": "It is described according to the division of ten and eighteen",
+   "uncertainties": [],
+   "plain_english": "And this is said by the division of ten and eighteen, by the division of ten and eighteen."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "prāgīśvarasyāsanapadmaṃ",
+     "gloss": "before-lord-seat-lotus",
+     "grounds": "lotus seat of the Lord mentioned earlier; sandhi prāk+īśvarasya+āsana+padmaṃ",
+     "morph": "n.nom.sg (compound prāk+īśvara+āsana+padma)"
+    },
+    {
+     "surface": "sahasradalam",
+     "gloss": "thousand-petaled",
+     "grounds": "having a thousand petals",
+     "morph": "n.nom.sg (compound sahasra+dala)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "previously stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgīśvarasyāsanapadmaṃ",
+     "gloss": "before-lord-seat-lotus",
+     "grounds": "repeated reference",
+     "morph": "n.nom.sg (compound prāk+īśvara+āsana+padma)"
+    }
+   ],
+   "question": "What was said earlier about the Lord's seat?",
+   "premises": [
+    "The Lord's seat-lotus was mentioned before",
+    "It was described as thousand-petaled"
+   ],
+   "inference": "The previously mentioned seat-lotus of the Lord is thousand-petaled",
+   "uncertainties": [],
+   "plain_english": "The seat-lotus of the Lord mentioned earlier was said to be thousand-petaled, the seat-lotus of the Lord mentioned earlier."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "utsaṅgagateti",
+     "gloss": "gone-to-lap-thus",
+     "grounds": "situated in the lap; sandhi utsaṅgagata+iti",
+     "morph": "(indecl. compound utsaṅga+gata+iti)"
+    },
+    {
+     "surface": "ākṛtimattve",
+     "gloss": "in-having-form",
+     "grounds": "when possessing form",
+     "morph": "n.loc.sg (compound ākṛtimat+tva)"
+    },
+    {
+     "surface": "ātmaśivasya",
+     "gloss": "of-self-shiva",
+     "grounds": "of the Self-Shiva",
+     "morph": "m.gen.sg (compound ātma+śiva)"
+    },
+    {
+     "surface": "utsaṅgagateti",
+     "gloss": "gone-to-lap-thus",
+     "grounds": "repeated phrase",
+     "morph": "(indecl. compound utsaṅga+gata+iti)"
+    }
+   ],
+   "question": "What is meant by being in the lap of Self-Shiva?",
+   "premises": [
+    "The phrase indicates being in the lap",
+    "It applies when Self-Shiva has form"
+   ],
+   "inference": "When Self-Shiva is conceived with form, the phrase means situated in his lap",
+   "uncertainties": [],
+   "plain_english": "Saying 'gone to the lap,' when Self-Shiva is possessed of form, saying 'gone to the lap.'"
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "āvaraṇacatuṣṭayasthāḥ",
+     "gloss": "situated-in-four-coverings",
+     "grounds": "located in four coverings",
+     "morph": "m.nom.pl (compound āvaraṇa+catuṣṭaya+stha)"
+    },
+    {
+     "surface": "āvaraṇacatuṣṭayasthāḥ",
+     "gloss": "situated-in-four-coverings",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound āvaraṇa+catuṣṭaya+stha)"
+    },
+    {
+     "surface": "āvaraṇacatuṣṭayasthāḥ",
+     "gloss": "situated-in-four-coverings",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound āvaraṇa+catuṣṭaya+stha)"
+    },
+    {
+     "surface": "āvaraṇacatuṣṭayasthāḥ",
+     "gloss": "situated-in-four-coverings",
+     "grounds": "repeated emphasis",
+     "morph": "m.nom.pl (compound āvaraṇa+catuṣṭaya+stha)"
+    }
+   ],
+   "question": "Where are these beings situated in the arrangement?",
+   "premises": [
+    "They are described as situated in four coverings",
+    "The description is emphatically repeated"
+   ],
+   "inference": "They are situated in the four coverings",
+   "uncertainties": [],
+   "plain_english": "Situated in the four coverings, situated in the four coverings, situated in the four coverings, situated in the four coverings."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "vilāsā+yeṣāṃ",
+     "gloss": "play-of-whom",
+     "grounds": "whose play or manifestations; sandhi marked by +",
+     "morph": "m.nom.pl + m.gen.pl (compound vilāsa+yeṣām)"
+    },
+    {
+     "surface": "taivīdyāvṛndaiḥ",
+     "gloss": "by-those-knowledge-groups",
+     "grounds": "by groups of those knowledges",
+     "morph": "n.ins.pl (compound tad+vidyā+vṛnda)"
+    },
+    {
+     "surface": "parivṛtā",
+     "gloss": "surrounded",
+     "grounds": "encompassed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti+saṅgatiḥ",
+     "gloss": "thus-connection",
+     "grounds": "explanatory connection; sandhi marked by +",
+     "morph": "f.nom.sg (compound iti+saṅgati)"
+    }
+   ],
+   "question": "How are these manifestations connected to the knowledge groups?",
+   "premises": [
+    "Their play is referred to",
+    "They are surrounded by groups of those knowledges",
+    "This is stated as the connection"
+   ],
+   "inference": "The connection is that their play is surrounded by those groups of knowledges",
+   "uncertainties": [
+    "taivīdyāvṛndaiḥ form is unusual; read as tad-vidyā-vṛndaiḥ"
+   ],
+   "plain_english": "Whose play is surrounded by those groups of knowledges; such is the connection."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "puravarair",
+     "gloss": "by-best-cities",
+     "grounds": "by chief worlds or cities",
+     "morph": "n.ins.pl (compound pura+vara)"
+    },
+    {
+     "surface": "upalakṣitāḥ",
+     "gloss": "marked",
+     "grounds": "characterized or indicated",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puravarair",
+     "gloss": "by-best-cities",
+     "grounds": "repeated reference",
+     "morph": "n.ins.pl (compound pura+vara)"
+    },
+    {
+     "surface": "upalakṣitāḥ",
+     "gloss": "marked",
+     "grounds": "repeated characterization",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "By what are these beings characterized?",
+   "premises": [
+    "They are marked by the best cities",
+    "The characterization is repeated"
+   ],
+   "inference": "They are characterized by the best cities",
+   "uncertainties": [],
+   "plain_english": "Marked by the best cities, marked by the best cities."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "bindutattvasthānavyāptirūpamāvaraṇaṃ",
+     "gloss": "bindu-principle-place-pervasion-form-covering",
+     "grounds": "covering in the form of pervasion of the bindu principle place",
+     "morph": "n.nom.sg (compound bindu+tattva+sthāna+vyāpti+rūpa+āvaraṇa)"
+    },
+    {
+     "surface": "bindvāvaraṇam",
+     "gloss": "bindu-covering",
+     "grounds": "covering of bindu",
+     "morph": "n.nom.sg (compound bindu+āvaraṇa)"
+    },
+    {
+     "surface": "bindutattvasthānavyāptirūpamāvaraṇaṃ",
+     "gloss": "bindu-principle-place-pervasion-form-covering",
+     "grounds": "repeated identification",
+     "morph": "n.nom.sg (compound bindu+tattva+sthāna+vyāpti+rūpa+āvaraṇa)"
+    },
+    {
+     "surface": "bindvāvaraṇam",
+     "gloss": "bindu-covering",
+     "grounds": "repeated identification",
+     "morph": "n.nom.sg (compound bindu+āvaraṇa)"
+    }
+   ],
+   "question": "What constitutes the covering of bindu here?",
+   "premises": [
+    "It is described as the pervasion-form of the bindu principle place",
+    "It is called the bindu covering"
+   ],
+   "inference": "The bindu covering is the covering in the form of pervasion of the bindu principle place",
+   "uncertainties": [],
+   "plain_english": "The covering in the form of pervasion of the place of the bindu principle is the bindu covering; the covering in the form of pervasion of the place of the bindu principle is the bindu covering."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "prāptamahāvikāsadīptiyogotkṛṣṭatvāt",
+     "gloss": "from-attained-great-expansion-radiance-union-excellence",
+     "grounds": "because of excellence from union with great expansion and radiance",
+     "morph": "n.abl.sg (compound prāpta+mahā+vikāsa+dīpti+yoga+utkṛṣṭatva)"
+    },
+    {
+     "surface": "māṇikyam",
+     "gloss": "ruby",
+     "grounds": "gem name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāptamahāvikāsadīptiyogotkṛṣṭatvāt",
+     "gloss": "from-attained-great-expansion-radiance-union-excellence",
+     "grounds": "repeated reason",
+     "morph": "n.abl.sg (compound prāpta+mahā+vikāsa+dīpti+yoga+utkṛṣṭatva)"
+    },
+    {
+     "surface": "māṇikyam",
+     "gloss": "ruby",
+     "grounds": "repeated identification",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is this described as a ruby?",
+   "premises": [
+    "It has attained excellence through union with great expansion and radiance",
+    "It is identified as a ruby"
+   ],
+   "inference": "Because of that excellence, it is called a ruby",
+   "uncertainties": [],
+   "plain_english": "Because of excellence from attained great expansion and radiant union, it is a ruby; because of excellence from attained great expansion and radiant union, it is a ruby."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "śaktidvayamūrdhvapraveśadātṛtvāt",
+     "gloss": "from-giving-upward-entry-of-two-powers",
+     "grounds": "because of granting upward entry of two powers",
+     "morph": "n.abl.sg (compound śakti+dvaya+mūrdhva+praveśa+dātṛtva)"
+    },
+    {
+     "surface": "evamabhidhānam",
+     "gloss": "thus-naming",
+     "grounds": "such designation",
+     "morph": "n.nom.sg (compound evam+abhidhāna)"
+    },
+    {
+     "surface": "śaktidvayamūrdhvapraveśadātṛtvāt",
+     "gloss": "from-giving-upward-entry-of-two-powers",
+     "grounds": "repeated reason",
+     "morph": "n.abl.sg (compound śakti+dvaya+mūrdhva+praveśa+dātṛtva)"
+    },
+    {
+     "surface": "evamabhidhānam",
+     "gloss": "thus-naming",
+     "grounds": "repeated designation",
+     "morph": "n.nom.sg (compound evam+abhidhāna)"
+    }
+   ],
+   "question": "Why does it receive this particular name?",
+   "premises": [
+    "It grants upward entry of the two powers",
+    "It is given this designation for that reason"
+   ],
+   "inference": "It is so named because it grants upward entry of the two powers",
+   "uncertainties": [],
+   "plain_english": "Because it grants upward entry of the two powers, it has this name; because it grants upward entry of the two powers, it has this name."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "evamuttaratrāpi",
+     "gloss": "thus-later-also",
+     "grounds": "in the same way later too",
+     "morph": "(indecl. compound evam+uttaratra+api)"
+    },
+    {
+     "surface": "svayamanusartavyam",
+     "gloss": "by-oneself-to-be-followed",
+     "grounds": "should be followed by oneself",
+     "morph": "n.nom.sg (compound svayam+anusartavya)"
+    },
+    {
+     "surface": "evamuttaratrāpi",
+     "gloss": "thus-later-also",
+     "grounds": "repeated instruction",
+     "morph": "(indecl. compound evam+uttaratra+api)"
+    },
+    {
+     "surface": "svayamanusartavyam",
+     "gloss": "by-oneself-to-be-followed",
+     "grounds": "repeated instruction",
+     "morph": "n.nom.sg (compound svayam+anusartavya)"
+    }
+   ],
+   "question": "How should one proceed in later cases?",
+   "premises": [
+    "The same method applies later also",
+    "One should follow it by oneself"
+   ],
+   "inference": "In later cases too, one should follow the same method by oneself",
+   "uncertainties": [],
+   "plain_english": "Thus later also, it should be followed by oneself; thus later also, it should be followed by oneself."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "bhuvana",
+     "gloss": "world",
+     "grounds": "world term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityasmin",
+     "gloss": "thus-in-this",
+     "grounds": "in this expression; sandhi iti+asmin",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nādāvaraṇaṃ",
+     "gloss": "sound-covering",
+     "grounds": "covering of nada",
+     "morph": "n.nom.sg (compound nāda+āvaraṇa)"
+    },
+    {
+     "surface": "gate",
+     "gloss": "gone",
+     "grounds": "having reached",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhuvanapañcaka",
+     "gloss": "world-pentad",
+     "grounds": "group of five worlds",
+     "morph": "n.nom.sg (compound bhuvana+pañcaka)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory gloss",
+     "morph": "m.nom.sg (compound iti+artha)"
+    }
+   ],
+   "question": "What is meant when the sound covering is reached?",
+   "premises": [
+    "The expression refers to reaching the sound covering",
+    "It is explained as the pentad of worlds"
+   ],
+   "inference": "When the sound covering is reached, it means the pentad of worlds",
+   "uncertainties": [],
+   "plain_english": "In this expression, when the sound covering is reached, it means the pentad of worlds."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "pradhānabhūtā",
+     "gloss": "become-chief",
+     "grounds": "principal status",
+     "morph": "f.nom.sg (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtā",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "f.nom.sg (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtā",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "f.nom.sg (compound pradhāna+bhūta)"
+    },
+    {
+     "surface": "pradhānabhūtā",
+     "gloss": "become-chief",
+     "grounds": "repeated emphasis",
+     "morph": "f.nom.sg (compound pradhāna+bhūta)"
+    }
+   ],
+   "question": "What status is attributed to this principal element?",
+   "premises": [
+    "It is described as principal",
+    "The description is emphatically repeated"
+   ],
+   "inference": "It is indeed the principal one",
+   "uncertainties": [],
+   "plain_english": "She is the principal one, the principal one, the principal one, the principal one."
+  }
+ ]
+}

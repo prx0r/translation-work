@@ -1,0 +1,1013 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of knowing",
+     "morph": "gerund (jñā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktitaḥ",
+     "gloss": "properly",
+     "grounds": "according to proper method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "correctly",
+     "grounds": "in the right manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhyardhaṃ",
+     "gloss": "one-and-half",
+     "grounds": "measure of quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jalameva",
+     "gloss": "water-only",
+     "grounds": "water with restrictive particle",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measured amount of water is to be used after proper assessment?",
+   "premises": [
+    "Proper assessment must precede the action",
+    "The method must be applied correctly",
+    "One-and-half measure of water or water alone is specified"
+   ],
+   "inference": "After proper assessment, one-and-half measure of water or only water should be used.",
+   "uncertainties": [],
+   "plain_english": "But having known properly and correctly, one should use one-and-a-half measures of water, or only water."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "palipte",
+     "gloss": "smeared",
+     "grounds": "place prepared by smearing",
+     "morph": "n.loc.sg (lip)"
+    },
+    {
+     "surface": "gomayādyaistu",
+     "gloss": "with-cow-dung-etc",
+     "grounds": "cow dung and similar materials with particle",
+     "morph": "n.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "prokṣite",
+     "gloss": "sprinkled",
+     "grounds": "place purified by sprinkling",
+     "morph": "n.loc.sg (prokṣ)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative reference to place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānase",
+     "gloss": "in-kitchen",
+     "grounds": "location of preparation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what kind of prepared kitchen space should the ritual cooking take place?",
+   "premises": [
+    "The kitchen must be smeared with cow dung and similar substances",
+    "The kitchen must be sprinkled for purification",
+    "The specified location is the kitchen"
+   ],
+   "inference": "Ritual cooking should take place in a kitchen smeared with cow dung and sprinkled.",
+   "uncertainties": [],
+   "plain_english": "In the kitchen, smeared with cow dung and the like and sprinkled, here."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-removed",
+     "grounds": "absolutive of removal",
+     "morph": "gerund (ud-hṛ)"
+    },
+    {
+     "surface": "vāmadevena",
+     "gloss": "with-vāmadeva",
+     "grounds": "mantra or formula associated with Vāmadeva",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ropayeddhṛdayena",
+     "gloss": "should-place-with-heart",
+     "grounds": "placing action accompanied by heart mantra",
+     "morph": "3.sg.opt.act (ruh) + n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantras govern the removal and placement of the prepared material?",
+   "premises": [
+    "Removal is performed with the Vāmadeva mantra",
+    "Placement is performed with the heart mantra",
+    "Both actions are ritually prescribed"
+   ],
+   "inference": "The material should be removed with Vāmadeva and placed with the heart mantra.",
+   "uncertainties": [
+    "vāmadevena and hṛdayena may refer to specific mantras or ritual formulas"
+   ],
+   "plain_english": "Having removed it with Vāmadeva, one should place it with the heart mantra."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "pipīlikādisañjuṣṭaḥ",
+     "gloss": "infested-by-ants-etc",
+     "grounds": "contaminated by ants and similar creatures",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "koṭarakrimisaṃ?yutaiḥ",
+     "gloss": "joined-with-hole-worms",
+     "grounds": "associated with worms in holes; text shows uncertain character",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What kinds of infestation render the material unsuitable for ritual use?",
+   "premises": [
+    "Infestation by ants and similar creatures is a defect",
+    "Presence of worms in holes is a defect",
+    "Such contamination disqualifies the material"
+   ],
+   "inference": "Material infested by ants or worms in holes must be rejected.",
+   "uncertainties": [
+    "saṃ?yutaiḥ contains an uncertain character in the source"
+   ],
+   "plain_english": "It is infested by ants and the like, and joined with worms in holes."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "dhūmagandhamatiklinnamatipakvañca",
+     "gloss": "smoke-smell-very-wet-overcooked-and",
+     "grounds": "compound listing defects: smoky smell, excessive wetness, overcooking",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śītalam",
+     "gloss": "cold",
+     "grounds": "undesirable cold temperature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which sensory and cooking defects disqualify prepared food from ritual offering?",
+   "premises": [
+    "Smoky smell, excessive wetness, and overcooking are defects",
+    "Coldness is a defect",
+    "These qualities make the food unsuitable"
+   ],
+   "inference": "Food that is smoky, too wet, overcooked, or cold is disqualified.",
+   "uncertainties": [],
+   "plain_english": "It has a smoky smell, is very wet, overcooked, and cold."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "evamuktaṃ",
+     "gloss": "thus-described",
+     "grounds": "refers back to previously described type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "transition particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhānnaṃ",
+     "gloss": "pure-rice",
+     "grounds": "plain purified cooked rice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "milk-rice preparation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tvadhunocyate",
+     "gloss": "now-is-stated",
+     "grounds": "introduces next topic",
+     "morph": "(indecl.) + 3.sg.pres.pass (vac)"
+    }
+   ],
+   "question": "What transition marks the shift from pure rice to the preparation of rice pudding?",
+   "premises": [
+    "Pure rice has been described previously",
+    "Rice pudding is the next topic",
+    "The text explicitly signals this transition"
+   ],
+   "inference": "After describing pure rice, the text now turns to rice pudding.",
+   "uncertainties": [],
+   "plain_english": "Thus pure rice has been described; now rice pudding is being stated."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "alāme",
+     "gloss": "in-vessel",
+     "grounds": "container for cooking",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "portion measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "alternative smaller portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining space or portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "with-waters",
+     "grounds": "liquid used for filling",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "should-fill",
+     "grounds": "instruction to fill",
+     "morph": "3.sg.opt.act (pra-pūr)"
+    }
+   ],
+   "question": "How should the vessel be filled with water when preparing rice pudding?",
+   "premises": [
+    "The vessel may contain half or half of that amount",
+    "The remainder must be filled with water",
+    "Filling is a required step"
+   ],
+   "inference": "One should fill the remainder of the vessel with water after placing half or a quarter portion.",
+   "uncertainties": [
+    "exact referent of ardhaṃ/tadardhaṃ depends on prior context"
+   ],
+   "plain_english": "In the vessel, one should fill the remainder with water, using half or half of that."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "the prepared dish",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "following previous method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "completion of preparation",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "caturbhāgaṃ",
+     "gloss": "one-fourth",
+     "grounds": "proportional measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gulaṃ",
+     "gloss": "jaggery",
+     "grounds": "sweetening ingredient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-add",
+     "grounds": "instruction to add",
+     "morph": "3.sg.opt.act (kṣip)"
+    }
+   ],
+   "question": "What proportion of jaggery must be added when preparing rice pudding as before?",
+   "premises": [
+    "Rice pudding is prepared as before",
+    "Jaggery is added after preparation",
+    "The specified proportion is one-fourth"
+   ],
+   "inference": "After making rice pudding as before, one should add one-fourth part jaggery.",
+   "uncertainties": [],
+   "plain_english": "Having made rice pudding as before, one should add one-fourth part jaggery."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "kadalīphalasaṃyuktaṃ",
+     "gloss": "joined-with-banana-fruit",
+     "grounds": "combined with banana fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gulānnamiti",
+     "gloss": "jaggery-rice-thus",
+     "grounds": "name of the preparation",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "stated as the designation",
+     "morph": "n.nom.sg (kīrt)"
+    }
+   ],
+   "question": "What name is given to rice combined with jaggery and banana fruit?",
+   "premises": [
+    "The preparation includes banana fruit",
+    "The preparation includes jaggery and rice",
+    "The text assigns it a specific name"
+   ],
+   "inference": "Rice combined with jaggery and banana fruit is declared to be gulānna.",
+   "uncertainties": [],
+   "plain_english": "Joined with banana fruit, it is declared to be jaggery-rice."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "alābhe",
+     "gloss": "in-unavailability",
+     "grounds": "condition when ingredient is unavailable",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "alternative proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "smaller alternative proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudgānnamadhunocyate",
+     "gloss": "mung-rice-now-stated",
+     "grounds": "introduces mung-rice preparation",
+     "morph": "n.nom.sg + (indecl.) + 3.sg.pres.pass (vac)"
+    }
+   ],
+   "question": "What alternative preparation is prescribed when the previous ingredient is unavailable?",
+   "premises": [
+    "Unavailability creates a need for substitution",
+    "Half or half of that may be used",
+    "Mung-rice is now introduced"
+   ],
+   "inference": "If unavailable, half or a quarter may be used, and mung-rice is now described.",
+   "uncertainties": [
+    "exact substitution relation is compressed in the verse"
+   ],
+   "plain_english": "If unavailable, half or half of that; now mung-rice is being stated."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "eteṣāmapi",
+     "gloss": "of-these-also",
+     "grounds": "refers to previously mentioned items",
+     "morph": "m.gen.pl + (indecl.)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "inclusive scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yathālābhamathāpi",
+     "gloss": "as-available-also",
+     "grounds": "according to availability",
+     "morph": "(indecl.) + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the selection among all these ingredients be determined in practice?",
+   "premises": [
+    "Multiple ingredients have been mentioned",
+    "All of them are included in scope",
+    "Availability governs the choice"
+   ],
+   "inference": "For all these ingredients, selection may be made according to availability.",
+   "uncertainties": [],
+   "plain_english": "For all of these as well, it may be according to availability."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "āloḍya",
+     "gloss": "having-stirred",
+     "grounds": "mixing action",
+     "morph": "gerund (ā-luḍ)"
+    },
+    {
+     "surface": "pācitaṃ",
+     "gloss": "cooked",
+     "grounds": "prepared by cooking",
+     "morph": "n.nom.sg (pac)"
+    },
+    {
+     "surface": "hyetat",
+     "gloss": "indeed-this",
+     "grounds": "emphatic reference to preparation",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "haridrānnaṃ",
+     "gloss": "turmeric-rice",
+     "grounds": "rice prepared with turmeric",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "stated as the designation",
+     "morph": "n.nom.sg (pra-kīrt)"
+    }
+   ],
+   "question": "What preparation is identified when rice is stirred and cooked with turmeric?",
+   "premises": [
+    "The mixture is stirred",
+    "The mixture is cooked",
+    "The text assigns it the name turmeric-rice"
+   ],
+   "inference": "Stirred and cooked in this way, it is declared to be turmeric-rice.",
+   "uncertainties": [],
+   "plain_english": "Having stirred and cooked it, this is indeed declared to be turmeric-rice."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "mudgamāṣakulutthāṃśca",
+     "gloss": "mung-bean-horsegram-and",
+     "grounds": "list of legumes",
+     "morph": "m.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "śimbā",
+     "gloss": "peas",
+     "grounds": "legume or pod vegetable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣpāvameva",
+     "gloss": "niṣpāva-only",
+     "grounds": "specific bean with emphasis",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which legumes and pod vegetables are included among the prescribed ingredients?",
+   "premises": [
+    "Mung, māṣa, and horsegram are included",
+    "Peas are included",
+    "Niṣpāva beans are included"
+   ],
+   "inference": "The prescribed ingredients include mung, māṣa, horsegram, peas, and niṣpāva.",
+   "uncertainties": [
+    "exact identification of śimbā and niṣpāva may vary by tradition"
+   ],
+   "plain_english": "Mung, māṣa, and horsegram, and peas, and also niṣpāva."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "kuśmāṇḍaṃ",
+     "gloss": "ash-gourd",
+     "grounds": "vegetable ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "panasālābu",
+     "gloss": "jackfruit-gourd",
+     "grounds": "compound listing jackfruit and gourd",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "kāliṅgaṃ",
+     "gloss": "watermelon",
+     "grounds": "fruit or melon ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bṛhatīdvayam",
+     "gloss": "eggplant-pair",
+     "grounds": "two kinds of eggplant",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which gourds, melons, and eggplants are enumerated as suitable ingredients?",
+   "premises": [
+    "Ash gourd is included",
+    "Jackfruit and gourd are included",
+    "Watermelon and two kinds of eggplant are included"
+   ],
+   "inference": "The list includes ash gourd, jackfruit, gourd, watermelon, and two eggplants.",
+   "uncertainties": [
+    "panasālābu may be parsed as two items or a compound"
+   ],
+   "plain_english": "Ash gourd, jackfruit and gourd, watermelon, and the pair of eggplants."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "kadalī",
+     "gloss": "banana",
+     "grounds": "fruit ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāravī",
+     "gloss": "caraway",
+     "grounds": "spice or plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāghrī",
+     "gloss": "vyāghrī-plant",
+     "grounds": "plant ingredient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āmramurvārukaṃ",
+     "gloss": "mango-cucumber",
+     "grounds": "compound listing mango and cucumber",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional fruits and plants continue the enumeration of prescribed ingredients?",
+   "premises": [
+    "Banana is included",
+    "Kāravī and vyāghrī are included",
+    "Mango and cucumber are included"
+   ],
+   "inference": "The enumeration continues with banana, kāravī, vyāghrī, mango, and cucumber.",
+   "uncertainties": [
+    "botanical identification of kāravī and vyāghrī is uncertain"
+   ],
+   "plain_english": "Banana, kāravī, vyāghrī, and likewise mango and cucumber."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "ekaikamupadaṃśānāṃ",
+     "gloss": "one-each-of-relishes",
+     "grounds": "each relish taken individually",
+     "morph": "n.nom.sg + m.gen.pl"
+    },
+    {
+     "surface": "prasthasyaikapalaṃ",
+     "gloss": "one-pala-per-prastha",
+     "grounds": "measure of one pala for each prastha",
+     "morph": "m.gen.sg + n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive measure",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What quantity of each relish is prescribed per prastha measure?",
+   "premises": [
+    "Relishes are taken one by one",
+    "The base measure is one prastha",
+    "One pala is specified for each"
+   ],
+   "inference": "For each relish, one pala per prastha should be used.",
+   "uncertainties": [],
+   "plain_english": "For each of the relishes, there should be one pala per prastha."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "ghṛṣṭaṃ",
+     "gloss": "ground",
+     "grounds": "processed by grinding",
+     "morph": "n.nom.sg (ghṛṣ)"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "mixed with clarified butter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "combined together",
+     "morph": "n.nom.sg (sam-yuj)"
+    },
+    {
+     "surface": "nālikeraphalādibhiḥ",
+     "gloss": "with-coconut-fruit-etc",
+     "grounds": "combined with coconut and similar items",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the relish ingredients be processed and combined before use?",
+   "premises": [
+    "The ingredients must be ground",
+    "They must be joined with ghee",
+    "They must be combined with coconut fruit and similar items"
+   ],
+   "inference": "The relishes should be ground and combined with ghee and coconut fruit and the like.",
+   "uncertainties": [],
+   "plain_english": "Ground, joined with ghee, and combined with coconut fruit and the like."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "lavaṇājyayutāni",
+     "gloss": "mixed-with-salt-ghee",
+     "grounds": "combined with salt and ghee",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "syurupadaṃśāni",
+     "gloss": "should-be-relishes",
+     "grounds": "identifies them as relishes",
+     "morph": "3.pl.opt.act (as) + n.nom.pl"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers to the prepared items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What final seasoning defines these preparations as proper relishes?",
+   "premises": [
+    "The preparations are mixed with salt and ghee",
+    "Such mixing completes their preparation",
+    "They are thereby identified as relishes"
+   ],
+   "inference": "Mixed with salt and ghee, those preparations are indeed relishes.",
+   "uncertainties": [],
+   "plain_english": "Mixed with salt and ghee, those indeed should be relishes."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "viṃśatpalaṃ",
+     "gloss": "twenty-palas",
+     "grounds": "specified quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāllavaṇaṃ",
+     "gloss": "should-be-salt",
+     "grounds": "prescribed amount of salt",
+     "morph": "3.sg.opt.act (as) + n.nom.sg"
+    },
+    {
+     "surface": "prasthaṃ",
+     "gloss": "prastha",
+     "grounds": "unit of measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasthaṃ",
+     "gloss": "prastha",
+     "grounds": "repeated unit of measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "stated",
+     "grounds": "declared in the text",
+     "morph": "n.nom.sg (sam-īr)"
+    }
+   ],
+   "question": "What quantity of salt is prescribed in relation to the prastha measure?",
+   "premises": [
+    "A quantity of twenty palas is mentioned",
+    "The measure prastha is stated repeatedly",
+    "The text declares this proportion"
+   ],
+   "inference": "Twenty palas of salt per prastha is stated as the measure.",
+   "uncertainties": [
+    "repetition of prasthaṃ may indicate per-prastha specification"
+   ],
+   "plain_english": "Twenty palas of salt per prastha, per prastha, is stated."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "sarpiṣo",
+     "gloss": "of-ghee",
+     "grounds": "clarified butter as referent",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "twice the measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "quantity specification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "marīcāttu",
+     "gloss": "than-pepper-but",
+     "grounds": "comparison with pepper",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "recommended as proper",
+     "morph": "3.sg.pres.pass (pra-śaṃs)"
+    }
+   ],
+   "question": "How does the recommended measure of ghee compare to that of pepper?",
+   "premises": [
+    "Ghee has a specified measure",
+    "The measure is double in comparison",
+    "Pepper is the point of comparison"
+   ],
+   "inference": "A measure of ghee double that of pepper is praised.",
+   "uncertainties": [],
+   "plain_english": "A measure of ghee double that of pepper is praised."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "mudgabhinnaṃ",
+     "gloss": "split-mung",
+     "grounds": "mung beans in split form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "equal measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktamadhikaṃ",
+     "gloss": "stated-more",
+     "grounds": "alternatively stated as more",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "guṇameva",
+     "gloss": "quality-only",
+     "grounds": "emphasizes quality or excellence",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity of split mung is prescribed relative to the standard measure?",
+   "premises": [
+    "Split mung is the ingredient in question",
+    "An equal measure is stated",
+    "A greater amount is also allowed as beneficial"
+   ],
+   "inference": "Split mung may be used in equal measure or more for better quality.",
+   "uncertainties": [
+    "guṇam may refer to quality or to a multiple; context is compressed"
+   ],
+   "plain_english": "Split mung is stated as equal, or more, as a quality."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "siddhārthakalkayuktāni",
+     "gloss": "joined-with-mustard-paste",
+     "grounds": "combined with mustard-seed paste",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "rasavanti",
+     "gloss": "savory-dishes",
+     "grounds": "tasty preparations",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pācayet",
+     "gloss": "should-cook",
+     "grounds": "instruction to cook",
+     "morph": "3.sg.opt.act (pac)"
+    }
+   ],
+   "question": "How should savory preparations be cooked when mustard paste is included?",
+   "premises": [
+    "Savory preparations are the object",
+    "Mustard paste is added to them",
+    "Cooking is the prescribed action"
+   ],
+   "inference": "One should cook savory preparations joined with mustard paste.",
+   "uncertainties": [],
+   "plain_english": "One should cook savory preparations joined with mustard paste."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "kulutthadhānyacūrṇaṃ",
+     "gloss": "horsegram-grain-powder",
+     "grounds": "powdered horsegram grain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marīcaṃ",
+     "gloss": "pepper",
+     "grounds": "pepper ingredient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "peṣitaṃ",
+     "gloss": "ground",
+     "grounds": "processed by grinding",
+     "morph": "n.acc.sg (piṣ)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in proper sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what sequence should horsegram powder and ground pepper be prepared for use?",
+   "premises": [
+    "Horsegram grain powder is required",
+    "Pepper must be ground",
+    "The preparation follows a proper order"
+   ],
+   "inference": "Horsegram powder and ground pepper should be prepared in proper sequence.",
+   "uncertainties": [],
+   "plain_english": "Horsegram grain powder and ground pepper, in proper order."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "gulena",
+     "gloss": "with-jaggery",
+     "grounds": "combined with jaggery",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-combined",
+     "grounds": "mixing action",
+     "morph": "gerund (sam-yuj)"
+    },
+    {
+     "surface": "rasavanti",
+     "gloss": "savory",
+     "grounds": "tasty preparations",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "fruits",
+     "grounds": "fruit ingredients",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are fruits and savory preparations to be combined with jaggery in this recipe?",
+   "premises": [
+    "Jaggery is used as a combining ingredient",
+    "Savory preparations and fruits are included",
+    "They must be combined together"
+   ],
+   "inference": "Savory preparations and fruits should be combined together with jaggery.",
+   "uncertainties": [],
+   "plain_english": "Having combined them together with jaggery, the savory preparations and fruits."
+  }
+ ]
+}

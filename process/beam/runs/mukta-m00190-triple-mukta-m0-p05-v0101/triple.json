@@ -1,0 +1,1171 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "sarvāṅgulībhir",
+     "gloss": "with-all-fingers",
+     "grounds": "instrumental plural of compound sarva-aṅgulī",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "on-navel",
+     "grounds": "locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pāṇyoḥ",
+     "gloss": "of-two-hands",
+     "grounds": "genitive or locative dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "kavacabandhane",
+     "gloss": "in-armor-binding",
+     "grounds": "locative singular of compound kavaca-bandhana",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What alternative hand placement is permitted when performing the armor-binding gesture?",
+   "premises": [
+    "All fingers may be used",
+    "Placement may be on the navel",
+    "Placement may involve both hands in armor-binding"
+   ],
+   "inference": "The armor-binding may be performed either with all fingers or with both hands placed at the navel.",
+   "uncertainties": [],
+   "plain_english": "In binding the armor, one may use all the fingers, or place both hands at the navel."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "hastair",
+     "gloss": "with-hands",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of vi-ni-as",
+     "morph": "abs.(vi-ni-as)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhayed",
+     "gloss": "one-should-bind",
+     "grounds": "optative of bandh",
+     "morph": "3.sg.act.opt.(bandh)"
+    },
+    {
+     "surface": "diśaḥ",
+     "gloss": "directions",
+     "grounds": "accusative plural",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "What action must follow placing the hands when sealing the directions?",
+   "premises": [
+    "The hands are first placed",
+    "The action follows that placement",
+    "The directions are the object to be bound"
+   ],
+   "inference": "After placing the hands, one should bind the directions.",
+   "uncertainties": [],
+   "plain_english": "Having placed the hands, one should then indeed bind the directions."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "pañcāṅgāni",
+     "gloss": "five-limbs",
+     "grounds": "accusative plural of compound pañca-aṅga",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktāni",
+     "gloss": "declared",
+     "grounds": "past passive participle of vac",
+     "morph": "n.nom.pl.ppp.(vac)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "one-should-abandon",
+     "grounds": "optative of pari-tyaj",
+     "morph": "3.sg.act.opt.(pari-tyaj)"
+    }
+   ],
+   "question": "Which limb must be omitted when the five limbs are declared in this context?",
+   "premises": [
+    "Five limbs are declared",
+    "A specific omission is prescribed at that time",
+    "The eye is the element to be abandoned"
+   ],
+   "inference": "When the five limbs are declared, the eye should be omitted.",
+   "uncertainties": [],
+   "plain_english": "When the five limbs are declared, one should then omit the eye."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular demonstrative",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kalpāni",
+     "gloss": "to-be-formed",
+     "grounds": "gerundive of kḷp",
+     "morph": "n.nom.pl.ger.(kḷp)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sakalena",
+     "gloss": "with-whole",
+     "grounds": "instrumental singular adjective",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what mantra means may the limbs be formed in this ritual procedure?",
+   "premises": [
+    "The limbs are to be formed",
+    "Formation may be done by that same mantra",
+    "Formation may alternatively use the whole mantra"
+   ],
+   "inference": "The limbs should be formed either by that very mantra or by the whole mantra.",
+   "uncertainties": [],
+   "plain_english": "The limbs should be formed by that very mantra, or by the whole mantra."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "ṛṣicchandodaivatāni",
+     "gloss": "seer-meter-deities",
+     "grounds": "accusative plural of compound ṛṣi-chandas-devatā",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śirovadanahṛtsu",
+     "gloss": "on-head-face-hearts",
+     "grounds": "locative plural of compound śiras-vadana-hṛd",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the seer, meter, and deities be assigned in the body?",
+   "premises": [
+    "The seer, meter, and deities are to be placed",
+    "The head, face, and heart are specified locations",
+    "These assignments are made together"
+   ],
+   "inference": "The seer, meter, and deities should be placed on the head, face, and heart.",
+   "uncertainties": [
+    "hṛtsu may indicate heart region in plural form"
+   ],
+   "plain_english": "And the seer, meter, and deities should be placed on the head, face, and heart."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "prāṇāyāmatrayaṃ",
+     "gloss": "breath-control-three",
+     "grounds": "accusative singular of compound prāṇāyāma-traya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "absolutive of pra-viś",
+     "morph": "abs.(pra-viś)"
+    },
+    {
+     "surface": "hṛdayāmbujam",
+     "gloss": "heart-lotus",
+     "grounds": "accusative singular of compound hṛdaya-ambuja",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preparatory acts precede entering the heart-lotus in this practice?",
+   "premises": [
+    "Three breath-controls are performed",
+    "Entry into the heart-lotus follows",
+    "The acts are sequential"
+   ],
+   "inference": "After performing three breath-controls, one should enter the heart-lotus.",
+   "uncertainties": [],
+   "plain_english": "Having performed three breath-controls, one should enter the heart-lotus."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental singular relative pronoun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-sequence",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrair",
+     "gloss": "with-mantras",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "dravyair",
+     "gloss": "with-substances",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "nānāvidhaiḥ",
+     "gloss": "of-various-kinds",
+     "grounds": "instrumental plural of compound nānā-vidha",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "instrumental plural adjective",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "By what sequence and materials is the ritual procedure to be carried out?",
+   "premises": [
+    "A specific sequence is followed",
+    "Mantras are employed",
+    "Various auspicious substances are used"
+   ],
+   "inference": "The procedure is carried out in due sequence with mantras and various auspicious substances.",
+   "uncertainties": [],
+   "plain_english": "By which sequence indeed, with mantras and with various auspicious substances."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccārayed",
+     "gloss": "one-should-utter",
+     "grounds": "optative of ud-car",
+     "morph": "3.sg.act.opt.(ud-car)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle of smṛ",
+     "morph": "m.nom.sg.pres.part.(smṛ)"
+    }
+   ],
+   "question": "Is audible utterance required, or may the mantra be performed mentally alone?",
+   "premises": [
+    "Audible utterance of the mantra is not required",
+    "Mental remembrance is sufficient",
+    "The mantra may be recalled by mind alone"
+   ],
+   "inference": "One need not utter the mantra aloud but may remember it mentally.",
+   "uncertainties": [],
+   "plain_english": "Or one should not utter the mantra aloud, but remember the mantra by mind alone."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "neṣṭaṃ",
+     "gloss": "not-desired",
+     "grounds": "negated past passive participle of iṣ",
+     "morph": "n.nom.sg.ppp.(iṣ)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mānasārcane",
+     "gloss": "in-mental-worship",
+     "grounds": "locative singular of compound mānasa-arcana",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Is formal invocation required during mental worship within the heart?",
+   "premises": [
+    "The context is mental worship in the heart",
+    "Invocation is considered in that context",
+    "Invocation is not desired there"
+   ],
+   "inference": "In mental worship within the heart, formal invocation is not required.",
+   "uncertainties": [],
+   "plain_english": "And there, in mental worship within the heart, invocation is not desired."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "sthānaśuddhiṃ",
+     "gloss": "place-purification",
+     "grounds": "accusative singular of compound sthāna-śuddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dravyaśuddhiṃ",
+     "gloss": "substance-purification",
+     "grounds": "accusative singular of compound dravya-śuddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs.(kṛ)"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "optative of śudh",
+     "morph": "3.sg.act.opt.(śudh)"
+    }
+   ],
+   "question": "What purifications must precede the purification of ritual vessels?",
+   "premises": [
+    "Place purification is performed",
+    "Substance purification is performed",
+    "Vessels are purified afterward"
+   ],
+   "inference": "After purifying the place and substances, one should purify the vessels.",
+   "uncertainties": [],
+   "plain_english": "Having performed purification of the place and purification of the substances, one should purify the vessels."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "pīṭhapūjāṃ",
+     "gloss": "seat-worship",
+     "grounds": "accusative singular of compound pīṭha-pūjā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive of vi-dhā",
+     "morph": "abs.(vi-dhā)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣṭadevatām",
+     "gloss": "chosen-deity",
+     "grounds": "accusative singular of compound iṣṭa-devatā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What worship follows the performance of seat worship in this sequence?",
+   "premises": [
+    "Seat worship is performed first",
+    "The next step occurs there",
+    "The chosen deity is the focus"
+   ],
+   "inference": "After performing seat worship, one should worship the chosen deity there.",
+   "uncertainties": [
+    "vā may indicate an alternative placement or emphasis"
+   ],
+   "plain_english": "Having performed worship of the seat, one should then worship the chosen deity there."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "āsanāvāhane",
+     "gloss": "seat-invocation",
+     "grounds": "nominative or accusative dual of compound āsana-āvāhana",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācamanaṃ",
+     "gloss": "sipping-water",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which initial offerings accompany the seat and invocation in worship?",
+   "premises": [
+    "Seat and invocation are included",
+    "Water offering is given",
+    "Foot-water and sipping-water are likewise given"
+   ],
+   "inference": "Seat, invocation, water offering, foot-water, and sipping-water are to be offered.",
+   "uncertainties": [],
+   "plain_english": "Seat and invocation, and likewise the water offering, foot-water, and sipping-water."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "annañ",
+     "gloss": "food",
+     "grounds": "accusative singular with sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpaṇam",
+     "gloss": "libation",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional offerings continue the sequence of ritual services?",
+   "premises": [
+    "Fragrance and flowers are offered",
+    "Incense and lamp are offered",
+    "Food and libation are also offered"
+   ],
+   "inference": "The sequence includes fragrance, flowers, incense, lamp, food, and libation.",
+   "uncertainties": [],
+   "plain_english": "Fragrance, flower, likewise incense, lamp, and food and libation."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "aṣṭādaśopacārāś",
+     "gloss": "eighteen-services",
+     "grounds": "nominative plural of compound aṣṭādaśa-upacāra with sandhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiś",
+     "gloss": "with-these",
+     "grounds": "instrumental plural demonstrative with sandhi",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act.opt.(sam-ā-car)"
+    }
+   ],
+   "question": "How many services constitute the complete worship to be performed?",
+   "premises": [
+    "Eighteen services are enumerated",
+    "These services are the means of worship",
+    "Worship should be performed with them"
+   ],
+   "inference": "One should perform worship with these eighteen services.",
+   "uncertainties": [],
+   "plain_english": "And with these eighteen services one should perform the worship."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "pīṭhamantraiḥ",
+     "gloss": "with-seat-mantras",
+     "grounds": "instrumental plural of compound pīṭha-mantra",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "samāyogo",
+     "gloss": "conjunction",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityayāgaḥ",
+     "gloss": "daily-worship",
+     "grounds": "nominative singular of compound nitya-yāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "present passive of vac",
+     "morph": "3.sg.pass.pres.(vac)"
+    }
+   ],
+   "question": "What form of worship is defined by conjunction with the seat mantras?",
+   "premises": [
+    "There is conjunction with seat mantras",
+    "This conjunction defines a type of worship",
+    "That type is called daily worship"
+   ],
+   "inference": "Conjunction with the seat mantras is called daily worship.",
+   "uncertainties": [],
+   "plain_english": "Conjunction with the seat mantras is called the daily worship."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "mantrapūrvakṛto",
+     "gloss": "by-mantra-preceded-performed",
+     "grounds": "nominative singular of compound mantra-pūrvaka-kṛta with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāgo",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityayāgaḥ",
+     "gloss": "daily-worship",
+     "grounds": "nominative singular of compound nitya-yāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyamaḥ",
+     "gloss": "middle",
+     "grounds": "nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What grade of daily worship is characterized by being preceded by mantra?",
+   "premises": [
+    "The worship is performed preceded by mantra",
+    "It is identified as daily worship",
+    "This form is classified as middle"
+   ],
+   "inference": "Daily worship performed preceded by mantra is the middle grade.",
+   "uncertainties": [],
+   "plain_english": "Worship performed preceded by mantra is called the middle daily worship."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "dravyaśuddhisamāyuktam",
+     "gloss": "with-substance-purification-endowed",
+     "grounds": "nominative singular of compound dravya-śuddhi-samāyukta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "highest",
+     "grounds": "nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualifies worship as the highest grade in this classification?",
+   "premises": [
+    "Worship may be endowed with substance purification",
+    "Such endowment defines a grade",
+    "That grade is the highest"
+   ],
+   "inference": "Worship endowed with substance purification is the highest.",
+   "uncertainties": [],
+   "plain_english": "Likewise, worship endowed with purification of substances is the highest."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "upacārairyutaṃ",
+     "gloss": "with-services-endowed",
+     "grounds": "nominative singular of compound upacāra-yuta with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "past passive participle of smṛ",
+     "morph": "n.nom.sg.ppp.(smṛ)"
+    }
+   ],
+   "question": "How is worship endowed with all services classified in the tradition?",
+   "premises": [
+    "Worship may be endowed with services",
+    "All services may be included",
+    "Such worship is remembered as middle"
+   ],
+   "inference": "Worship endowed with all services is remembered as the middle grade.",
+   "uncertainties": [],
+   "plain_english": "Worship endowed with all the services is remembered as the middle."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "adverbial adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyayogaṃ",
+     "gloss": "merit-union",
+     "grounds": "nominative singular of compound puṇya-yoga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhaṃ",
+     "gloss": "lowest",
+     "grounds": "nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt.(bhū)"
+    }
+   ],
+   "question": "What constitutes the lowest grade of worship in this threefold scheme?",
+   "premises": [
+    "Worship may consist only of merit-union",
+    "This form lacks fuller ritual elements",
+    "It is classified as the lowest"
+   ],
+   "inference": "Worship consisting only of merit-union should be considered the lowest.",
+   "uncertainties": [
+    "puṇyayogaṃ may refer to a simple meritorious observance"
+   ],
+   "plain_english": "But worship consisting only of merit-union should be the lowest."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "jātī",
+     "gloss": "jasmine",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "first member of compound or nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kakkola",
+     "gloss": "kakkola",
+     "grounds": "plant name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahumūlaṃ",
+     "gloss": "much-root",
+     "grounds": "nominative singular of compound bahu-mūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tamālakam",
+     "gloss": "tamālaka",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances begin the list of ingredients for the fragrance mixture?",
+   "premises": [
+    "A list of fragrance ingredients is given",
+    "Jasmine and camphor are included",
+    "Kakkola, much-root, and tamālaka are included"
+   ],
+   "inference": "Jasmine, camphor, kakkola, much-root, and tamālaka are among the fragrance ingredients.",
+   "uncertainties": [
+    "bahumūlaṃ identifies a specific plant not fully certain"
+   ],
+   "plain_english": "Jasmine, camphor, kakkola, much-root, and tamālaka."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "kuśāgrāṇy",
+     "gloss": "kuśa-tips",
+     "grounds": "nominative or accusative plural of compound kuśa-agra with sandhi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "akṣataṃ",
+     "gloss": "unbroken-rice",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavavrīhitilān",
+     "gloss": "barley-rice-sesame",
+     "grounds": "accusative plural of compound yava-vrīhi-tila",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which grains and ritual items are added to the list of required substances?",
+   "premises": [
+    "Kuśa tips are included",
+    "Unbroken rice is included",
+    "Barley, rice, and sesame are also included"
+   ],
+   "inference": "Kuśa tips, unbroken rice, barley, rice, and sesame are required substances.",
+   "uncertainties": [],
+   "plain_english": "Kuśa tips, unbroken rice, and also barley, rice, and sesame."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "mākṣikaṃ",
+     "gloss": "honey",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śarkarā",
+     "gloss": "sugar",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarpiḥ",
+     "gloss": "ghee",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dadhikṣīrayutaṃ",
+     "gloss": "with-curd-milk-endowed",
+     "grounds": "nominative singular of compound dadhi-kṣīra-yuta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sweet and dairy substances are prescribed as constant ingredients?",
+   "premises": [
+    "Honey, sugar, and ghee are listed",
+    "Curd and milk are included together",
+    "These are prescribed always"
+   ],
+   "inference": "Honey, sugar, ghee, together with curd and milk, are always prescribed.",
+   "uncertainties": [],
+   "plain_english": "Honey, sugar, ghee, endowed with curd and milk, always."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "uśīraṃ",
+     "gloss": "uśīra",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṅkumañ",
+     "gloss": "saffron",
+     "grounds": "nominative or accusative singular with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃsī",
+     "gloss": "spikenard",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "malayajaṃ",
+     "gloss": "sandalwood",
+     "grounds": "nominative or accusative singular of compound malaya-ja",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which aromatic substances are further included in the prescribed mixture?",
+   "premises": [
+    "Uśīra and saffron are included",
+    "Spikenard is included",
+    "Sandalwood is likewise included"
+   ],
+   "inference": "Uśīra, saffron, spikenard, and sandalwood are included in the mixture.",
+   "uncertainties": [],
+   "plain_english": "Uśīra and saffron indeed, spikenard, and likewise sandalwood."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgāny",
+     "gloss": "eight-parts",
+     "grounds": "nominative or accusative plural of compound aṣṭa-aṅga with sandhi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhasya",
+     "gloss": "of-fragrance",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaiṣṇave",
+     "gloss": "in-vaiṣṇava",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathitāny",
+     "gloss": "declared",
+     "grounds": "past passive participle of kath with sandhi",
+     "morph": "n.nom.pl.ppp.(kath)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many components of fragrance are declared in the Vaiṣṇava context here?",
+   "premises": [
+    "Eight parts are mentioned",
+    "They pertain to fragrance",
+    "They are declared in the Vaiṣṇava context"
+   ],
+   "inference": "Eight components of fragrance are declared here in the Vaiṣṇava context.",
+   "uncertainties": [],
+   "plain_english": "Here, eight parts of fragrance are declared even in the Vaiṣṇava context."
+  }
+ ]
+}

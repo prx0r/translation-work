@@ -1,0 +1,39 @@
+{
+ "song": "kul-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "anāmāṅguṣṭhayogena",
+     "gloss": "ring-finger-thumb-union",
+     "grounds": "anāmā (ring finger) + aṅguṣṭha (thumb) + yoga (union), instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative of tṛp, third person singular",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "kulasantatim",
+     "gloss": "kula-lineage",
+     "grounds": "kula + santati compound, accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the Kula lineage be satisfied?",
+   "premises": [
+    "Ring-finger-thumb union is the means.",
+    "The Kula lineage is the object.",
+    "Satisfaction is the prescribed action."
+   ],
+   "inference": "One satisfies the Kula lineage by ring-finger-thumb union.",
+   "uncertainties": [
+    "Exact ritual referent of anāmā remains context-dependent."
+   ],
+   "plain_english": "With the union of ring finger and thumb, one should satisfy the Kula lineage."
+  }
+ ]
+}

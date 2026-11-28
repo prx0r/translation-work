@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "sauṣṭhyagraṃ",
+     "gloss": "well-formed-tip",
+     "grounds": "bahuvrīhi/compound describing the pillar; sauṣṭhya (proper form) + agra (tip)",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "bahuvrīhi/compound describing the pillar; yuga (four) + aśra (corner)",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed form",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "staṃbhaṃ",
+     "gloss": "pillar",
+     "grounds": "object of the prescribed description",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyalpanāsikāḥ",
+     "gloss": "very-small-nose-projections",
+     "grounds": "compound describing associated features; praty-alpa (very small) + nāsikā (nose/projection)",
+     "morph": "compound.f.nom.pl"
+    }
+   ],
+   "question": "What tip, cornering, and nose-projection features must the pillar possess?",
+   "premises": [
+    "The pillar is prescribed to have a well-formed tip.",
+    "The pillar is prescribed to be four-cornered.",
+    "The associated nose-projections are prescribed to be very small."
+   ],
+   "inference": "A properly constructed pillar must combine a well-formed tip, four-cornered shape, and very small nose-projections.",
+   "uncertainties": [
+    "The exact architectural referent of nāsikā in this context is not fully certain."
+   ],
+   "plain_english": "The pillar should have a well-formed tip and be four-cornered, and its nose-projections should be very small."
+  }
+ ]
+}

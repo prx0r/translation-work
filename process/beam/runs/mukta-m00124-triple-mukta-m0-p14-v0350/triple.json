@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "maunī",
+     "gloss": "silent-one",
+     "grounds": "mauna + ī; describes one observing silence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gulmādisañcchanno",
+     "gloss": "covered-by-bushes-and-the-like",
+     "grounds": "gulma + ādi + sañchanna; covered or concealed by bushes and similar things",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsāgrāhitalocanaḥ",
+     "gloss": "eyes-fixed-at-nose-tip",
+     "grounds": "nāsāgra + āhita + locana; eyes placed at the tip of the nose",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What marks identify the meditating ascetic in this instruction?",
+   "premises": [
+    "The ascetic observes silence.",
+    "He is concealed by bushes.",
+    "His eyes rest at nose tip."
+   ],
+   "inference": "The instruction presents a silent, concealed ascetic with gaze fixed at the nose tip.",
+   "uncertainties": [
+    "Exact scope of gulmādi and ritual context are not specified."
+   ],
+   "plain_english": "The silent one, hidden among bushes and the like, with eyes fixed on the tip of the nose."
+  }
+ ]
+}

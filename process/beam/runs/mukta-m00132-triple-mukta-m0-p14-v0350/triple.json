@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "tejohrāso",
+     "gloss": "vigor-loss",
+     "grounds": "compound of tejas (vigor, splendor) and hrāsa (loss, diminution); nominative singular subject in the ongoing list",
+     "morph": "m.nom.sg (compound: tejas+hrāsa)"
+    },
+    {
+     "surface": "balahrāso",
+     "gloss": "strength-loss",
+     "grounds": "compound of bala (strength) and hrāsa (loss, diminution); nominative singular subject in the ongoing list",
+     "morph": "m.nom.sg (compound: bala+hrāsa)"
+    },
+    {
+     "surface": "buddhihrāsas",
+     "gloss": "intellect-loss",
+     "grounds": "compound of buddhi (intellect) and hrāsa (loss, diminution); nominative singular with final visarga",
+     "morph": "m.nom.sg (compound: buddhi+hrāsa)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating continuation or similarity with the preceding items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle reinforcing the inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunctive particle adding this item to the enumerated misfortunes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional diminutions of personal faculties are included among the enumerated misfortunes?",
+   "premises": [
+    "The preceding verses enumerate misfortunes such as misfortune, sin, disease, sorrow, poverty, weakness, and mental disturbance.",
+    "Loss of vigor, loss of strength, and loss of intellect are named as further afflictions.",
+    "The particles tathā, eva, and ca mark these as continuing the same series of misfortunes."
+   ],
+   "inference": "Diminution of vigor, strength, and intellect belongs to the same catalogue of afflictions previously listed.",
+   "uncertainties": [
+    "The grammatical subject or agent experiencing these losses is carried over from the preceding context and not explicit in this verse."
+   ],
+   "plain_english": "Loss of vigor, loss of strength, and likewise indeed loss of intellect are also included."
+  }
+ ]
+}

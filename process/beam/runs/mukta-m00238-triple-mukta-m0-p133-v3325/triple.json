@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "mālātrayeṇasaṃyuktaṃ",
+     "gloss": "garland-triad-with-joined",
+     "grounds": "compound/fused form meaning joined with the three garlands",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "mūrtitrayam",
+     "gloss": "embodied-triad",
+     "grounds": "compound meaning three embodied forms",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "third person plural present indicative of root vid",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "How do knowers identify the threefold embodied form joined with three garlands?",
+   "premises": [
+    "the verse names a threefold embodied form",
+    "that form is joined with three garlands",
+    "knowers are said to know it"
+   ],
+   "inference": "The verse presents a known threefold embodied form distinguished by its joining with three garlands.",
+   "uncertainties": [
+    "exact referent of the three garlands depends on surrounding context",
+    "compound boundary in the fused first token is not expanded"
+   ],
+   "plain_english": "They know this threefold embodied form joined with three garlands."
+  }
+ ]
+}

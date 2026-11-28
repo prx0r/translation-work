@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4150,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśetaṃ",
+     "gloss": "should-touch",
+     "grounds": "optative verb expressing prohibition with na",
+     "morph": "3.dual.act.opt-√spṛś"
+    },
+    {
+     "surface": "kadācit",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle introducing exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛṣṭhe",
+     "gloss": "if-touched",
+     "grounds": "past participle in conditional sense",
+     "morph": "ppp.loc.sg.n-√spṛś"
+    },
+    {
+     "surface": "hyāvartanaṃ",
+     "gloss": "indeed-reversal",
+     "grounds": "sandhi fusion hi+āvartanam indicating result",
+     "morph": "indecl.+n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can renewed prohibited contact occur without causing another ritual reversal?",
+   "premises": [
+    "Contact must never be made at any time.",
+    "If contact occurs, reversal arises.",
+    "Renewed contact results in reversal again."
+   ],
+   "inference": "Therefore any contact must be strictly avoided to prevent repeated reversal.",
+   "uncertainties": [
+    "The exact object that must not be touched is implied from preceding verses.",
+    "The precise grammatical analysis of spṛśetaṃ and spṛṣṭhe is uncertain."
+   ],
+   "plain_english": "One should never touch them at any time; but if they are touched, the reversal occurs again."
+  }
+ ]
+}

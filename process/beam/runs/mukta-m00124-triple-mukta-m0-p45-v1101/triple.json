@@ -1,0 +1,1117 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1101,
+   "rows": [
+    {
+     "surface": "alāme",
+     "gloss": "in-non-availability",
+     "grounds": "absence or lack of flowers",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "apīha",
+     "gloss": "even-here",
+     "grounds": "api + iha; concessive emphasis in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpāṇāṃ",
+     "gloss": "of-flowers",
+     "grounds": "flowers as primary offering material",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "patrāṇi",
+     "gloss": "leaves",
+     "grounds": "substitute offering items",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual act of presenting offerings",
+     "morph": "3.sg.opt.act √ni-vid"
+    }
+   ],
+   "question": "What substitute offerings are acceptable when flowers are unavailable for worship?",
+   "premises": [
+    "Flowers may be unavailable for ritual offering.",
+    "Leaves can serve as substitute offerings.",
+    "The worshipper should still present an offering."
+   ],
+   "inference": "In the absence of flowers, leaves should be offered instead.",
+   "uncertainties": [],
+   "plain_english": "Even when flowers are not available here, one should offer leaves."
+  },
+  {
+   "verse": 1102,
+   "rows": [
+    {
+     "surface": "phalānām",
+     "gloss": "of-fruits",
+     "grounds": "fruits as offering material",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "extends the condition of non-availability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alābhe",
+     "gloss": "in-non-availability",
+     "grounds": "absence or lack of fruits",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛṇagulmauṣadhīḥ",
+     "gloss": "grasses-shrubs-herbs",
+     "grounds": "compound listing simpler vegetal substitutes",
+     "morph": "f.acc.pl (compound: tṛṇa+gulma+oṣadhi)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings may be used when fruits are also unavailable?",
+   "premises": [
+    "Fruits may also be unavailable for offering.",
+    "Grasses, shrubs, and herbs are simpler vegetal materials.",
+    "Worship should continue with available substitutes."
+   ],
+   "inference": "If fruits are unavailable, grasses, shrubs, and herbs may be offered.",
+   "uncertainties": [],
+   "plain_english": "But if fruits too are unavailable, one may also offer grasses, shrubs, and herbs."
+  },
+  {
+   "verse": 1103,
+   "rows": [
+    {
+     "surface": "pratyeka",
+     "gloss": "each",
+     "grounds": "applies individually to each flower",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta",
+     "gloss": "released",
+     "grounds": "separately offered, not strung together",
+     "morph": "n.nom.sg (past-participle, compound member)"
+    },
+    {
+     "surface": "puṣpāṇāṃ",
+     "gloss": "of-flowers",
+     "grounds": "flowers offered individually",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "daśasauvarṇakam",
+     "gloss": "ten-gold-measure",
+     "grounds": "compound indicating a reward equivalent to ten gold units",
+     "morph": "n.nom.sg (compound: daśa+sauvarṇaka)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit-result",
+     "grounds": "meritorious result of the offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What meritorious result accrues from offering each flower separately?",
+   "premises": [
+    "Flowers can be offered individually rather than as a garland.",
+    "Ritual offerings yield measurable merit.",
+    "Each separately offered flower has a specified value."
+   ],
+   "inference": "Each separately offered flower yields a merit equivalent to ten gold units.",
+   "uncertainties": [
+    "The exact measure denoted by sauvarṇaka is context-dependent."
+   ],
+   "plain_english": "Each separately offered flower yields a fruit equivalent to ten gold units."
+  },
+  {
+   "verse": 1104,
+   "rows": [
+    {
+     "surface": "sraggranthiteṣu",
+     "gloss": "in-garland-strung",
+     "grounds": "flowers bound together into a garland",
+     "morph": "n.loc.pl (compound: sraj+granthita)"
+    },
+    {
+     "surface": "teṣveva",
+     "gloss": "in-those-indeed",
+     "grounds": "teṣu + eva; emphatic reference to the same flowers",
+     "morph": "n.loc.pl + (indecl.)"
+    },
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "twice the previously stated merit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit-result",
+     "grounds": "meritorious result of the offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "one-obtains",
+     "grounds": "attainment of ritual merit",
+     "morph": "3.sg.pres.mid √aś"
+    }
+   ],
+   "question": "How does stringing the same flowers into a garland affect the merit obtained?",
+   "premises": [
+    "The same flowers may be offered strung as a garland.",
+    "Individually offered flowers already yield a defined merit.",
+    "Garlanded offerings are assigned a different merit value."
+   ],
+   "inference": "When those same flowers are offered as a garland, one obtains double the merit.",
+   "uncertainties": [],
+   "plain_english": "When those same flowers are strung into a garland, one obtains double the fruit."
+  },
+  {
+   "verse": 1105,
+   "rows": [
+    {
+     "surface": "dravyakrītaiḥ",
+     "gloss": "with-money-bought",
+     "grounds": "materials acquired by purchase",
+     "morph": "n.inst.pl (compound: dravya+krīta)"
+    },
+    {
+     "surface": "prasūnādyaiḥ",
+     "gloss": "with-flowers-and-others",
+     "grounds": "flowers and similar offering materials",
+     "morph": "n.inst.pl (compound: prasūna+ādi)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual worship through offerings",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "by means other than proper acquisition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means must flowers and similar worship materials be obtained for valid worship?",
+   "premises": [
+    "Worship requires flowers and similar materials.",
+    "Materials may be obtained by purchase or by other means.",
+    "Improperly obtained materials are not sanctioned for worship."
+   ],
+   "inference": "One should worship with purchased flowers and the like, and not otherwise.",
+   "uncertainties": [],
+   "plain_english": "One should worship with flowers and other materials bought with money, and not in any other way."
+  },
+  {
+   "verse": 1106,
+   "rows": [
+    {
+     "surface": "triguṇam",
+     "gloss": "threefold",
+     "grounds": "prepared in three parts or three times",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candanam",
+     "gloss": "sandal-paste",
+     "grounds": "sandalwood paste used in worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "prescribed by the teaching",
+     "morph": "n.nom.sg (past-passive-participle √pra-vac)"
+    },
+    {
+     "surface": "īṣat",
+     "gloss": "slightly",
+     "grounds": "small quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "aromatic substance mixed with sandal",
+     "morph": "m.nom.sg (compound member)"
+    },
+    {
+     "surface": "miśritam",
+     "gloss": "mixed",
+     "grounds": "combined with sandal paste",
+     "morph": "n.nom.sg (past-passive-participle √miśr)"
+    }
+   ],
+   "question": "How should sandal paste be prepared for ritual worship?",
+   "premises": [
+    "Sandal paste is a prescribed worship material.",
+    "Its preparation has a specified composition.",
+    "Camphor may be added in a small amount."
+   ],
+   "inference": "Sandal paste is declared to be threefold and slightly mixed with camphor.",
+   "uncertainties": [
+    "The precise sense of triguṇam in this preparation is not fully explicit."
+   ],
+   "plain_english": "Sandal paste is declared to be threefold, slightly mixed with camphor."
+  },
+  {
+   "verse": 1107,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpañcanakhacandanapāyasaiḥ",
+     "gloss": "one-two-three-four-five-claw-sandal-rice-pudding",
+     "grounds": "compound listing graded ingredients or measures for preparation",
+     "morph": "n.inst.pl (compound: eka+dvi+tri+catur+pañca+nakha+candana+pāyasa)"
+    }
+   ],
+   "question": "What graded ingredients or measures are specified for the prescribed preparation?",
+   "premises": [
+    "A ritual preparation is being specified.",
+    "The specification uses a sequence of numbered elements.",
+    "Claw, sandal, and rice pudding are included among the elements."
+   ],
+   "inference": "The preparation involves elements in a sequence from one to five together with claw, sandal, and rice pudding.",
+   "uncertainties": [
+    "The exact ritual referent of nakha and the numerical sequence is ambiguous without wider context."
+   ],
+   "plain_english": "With one, two, three, four, and five parts, together with nakha, sandal, and rice pudding."
+  },
+  {
+   "verse": 1108,
+   "rows": [
+    {
+     "surface": "śītāridhūpam",
+     "gloss": "cooling-enemy-incense",
+     "grounds": "incense associated with countering cold or a cooling agent",
+     "morph": "n.nom.sg (compound: śīta+ari+dhūpa)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates the prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "madhunā",
+     "gloss": "with-honey",
+     "grounds": "honey as a mixing substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariplutam",
+     "gloss": "soaked",
+     "grounds": "thoroughly mixed or drenched",
+     "morph": "n.nom.sg (past-passive-participle √pari-plu)"
+    }
+   ],
+   "question": "How should the śītāri incense be prepared for offering?",
+   "premises": [
+    "A specific incense called śītāri is prescribed.",
+    "Honey is available as a mixing ingredient.",
+    "The preparation requires a particular treatment."
+   ],
+   "inference": "The śītāri incense should be prepared soaked with honey.",
+   "uncertainties": [
+    "The exact identification of śītāri as an ingredient or type is uncertain."
+   ],
+   "plain_english": "Thus the śītāri incense should be soaked with honey."
+  },
+  {
+   "verse": 1109,
+   "rows": [
+    {
+     "surface": "murāmāṃsisitāmiśram",
+     "gloss": "murā-meat-sugar-mixed",
+     "grounds": "compound describing a mixture of murā, meat, and sugar",
+     "morph": "m.acc.sg (compound: murā+māṃsa+sitā+miśra)"
+    },
+    {
+     "surface": "dhūpam",
+     "gloss": "incense",
+     "grounds": "incense offering material",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual act of offering",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "madhuplutam",
+     "gloss": "honey-soaked",
+     "grounds": "drenched or mixed with honey",
+     "morph": "m.acc.sg (compound: madhu+pluta)"
+    }
+   ],
+   "question": "What composition is prescribed for another type of incense offering?",
+   "premises": [
+    "An incense offering is to be given.",
+    "The incense can be composed of specific mixed ingredients.",
+    "Honey may be used to soak the mixture."
+   ],
+   "inference": "One should offer incense mixed with murā, meat, and sugar, and soaked in honey.",
+   "uncertainties": [
+    "The identification of murā is uncertain in this ritual context."
+   ],
+   "plain_english": "One should offer incense mixed with murā, meat, and sugar, soaked in honey."
+  },
+  {
+   "verse": 1110,
+   "rows": [
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "intermediate grade or quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhūpam",
+     "gloss": "incense",
+     "grounds": "incense offering material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākhyātam",
+     "gloss": "called",
+     "grounds": "designated by tradition or teaching",
+     "morph": "m.nom.sg (past-passive-participle √ā-khyā)"
+    },
+    {
+     "surface": "uśīrādi",
+     "gloss": "vetiver-and-others",
+     "grounds": "compound beginning with vetiver and similar ingredients",
+     "morph": "m.nom.sg (compound: uśīra+ādi)"
+    },
+    {
+     "surface": "śivapriyam",
+     "gloss": "dear-to-śiva",
+     "grounds": "pleasing to Śiva in worship",
+     "morph": "m.nom.sg (compound: śiva+priya)"
+    }
+   ],
+   "question": "Which incense is designated as the middle grade and pleasing to Śiva?",
+   "premises": [
+    "Incenses are classified by grade.",
+    "An incense made with vetiver and similar ingredients is recognized.",
+    "Certain incenses are especially pleasing to Śiva."
+   ],
+   "inference": "Incense made with vetiver and the like is called the middle grade and is dear to Śiva.",
+   "uncertainties": [],
+   "plain_english": "Incense made with vetiver and other such ingredients is called the middle grade and is dear to Śiva."
+  },
+  {
+   "verse": 1111,
+   "rows": [
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "exclusively, without admixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agarum",
+     "gloss": "agarwood",
+     "grounds": "aromatic resinous wood used as incense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpārtham",
+     "gloss": "for-incense-purpose",
+     "grounds": "for use as incense",
+     "morph": "n.acc.sg (compound: dhūpa+artha)"
+    },
+    {
+     "surface": "mahiṣākṣi",
+     "gloss": "buffalo-eye",
+     "grounds": "a substance or incense ingredient named mahiṣākṣi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What simple substances may be used alone for the purpose of incense?",
+   "premises": [
+    "Incense may be prepared from single substances.",
+    "Agarwood is a recognized incense material.",
+    "Mahiṣākṣi is presented as an alternative incense material."
+   ],
+   "inference": "Either agarwood alone or mahiṣākṣi alone may be used for incense.",
+   "uncertainties": [
+    "The exact identity of mahiṣākṣi as a material is uncertain."
+   ],
+   "plain_english": "For incense, one may use only agarwood, or even mahiṣākṣi alone."
+  },
+  {
+   "verse": 1112,
+   "rows": [
+    {
+     "surface": "śatādiḥ",
+     "gloss": "hundred-beginning",
+     "grounds": "starting from one hundred",
+     "morph": "m.nom.pl (compound: śata+ādi)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "prescriptive possibility",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "sahasrāntāḥ",
+     "gloss": "thousand-ending",
+     "grounds": "extending up to one thousand",
+     "morph": "m.nom.pl (compound: sahasra+anta)"
+    },
+    {
+     "surface": "ayutam",
+     "gloss": "ten-thousand",
+     "grounds": "a higher numerical count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣasīmakāḥ",
+     "gloss": "hundred-thousand-limited",
+     "grounds": "bounded at one hundred thousand",
+     "morph": "m.nom.pl (compound: lakṣa+sīmaka)"
+    }
+   ],
+   "question": "What range of lamp counts is prescribed for ritual worship?",
+   "premises": [
+    "Lamps are offered in counted numbers.",
+    "The prescribed counts span a wide numerical range.",
+    "The range has defined lower and upper bounds."
+   ],
+   "inference": "Lamp offerings may range from one hundred up to one thousand, ten thousand, or as far as one hundred thousand.",
+   "uncertainties": [],
+   "plain_english": "The lamps may number from a hundred up to a thousand, or reach ten thousand and be limited at a hundred thousand."
+  },
+  {
+   "verse": 1113,
+   "rows": [
+    {
+     "surface": "dīpāḥ",
+     "gloss": "lamps",
+     "grounds": "ritual lamps offered in worship",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "prescriptive possibility",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "ekasaṃkhyāyām",
+     "gloss": "in-one-count",
+     "grounds": "a baseline number taken as one unit",
+     "morph": "f.loc.sg (compound: eka+saṃkhyā)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "nighttime ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "taddviguṇam",
+     "gloss": "that-double",
+     "grounds": "twice the daytime or baseline count",
+     "morph": "n.nom.sg (compound: tad+dviguṇa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How should the number of lamps change for nighttime worship compared to the baseline count?",
+   "premises": [
+    "Lamp offerings have a baseline count.",
+    "Nighttime worship is treated distinctly.",
+    "The count may be adjusted by a fixed ratio."
+   ],
+   "inference": "At night, the number of lamps should be double the baseline count.",
+   "uncertainties": [],
+   "plain_english": "If the lamps are counted as one set, at night that number should be doubled."
+  },
+  {
+   "verse": 1114,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing the preceding rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "counting rule",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pradīpādau",
+     "gloss": "in-lamp-and-others",
+     "grounds": "lamps and similar offerings",
+     "morph": "m.loc.sg (compound: pradīpa+ādi)"
+    },
+    {
+     "surface": "saṃkhyaiṣā",
+     "gloss": "this-number",
+     "grounds": "saṃkhyā + eṣā; the stated numerical rule",
+     "morph": "f.nom.sg (sandhi: saṃkhyā+eṣā)"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "authoritatively stated",
+     "morph": "f.nom.sg (past-passive-participle √pari-kīrt)"
+    }
+   ],
+   "question": "What general numerical rule is declared for lamps and similar offerings?",
+   "premises": [
+    "Specific lamp counts have been stated.",
+    "The rule applies to lamps and related items.",
+    "The teaching summarizes the prescribed number."
+   ],
+   "inference": "Thus this number is declared for lamps and similar offerings.",
+   "uncertainties": [],
+   "plain_english": "Thus this number has been declared for lamps and other such offerings."
+  },
+  {
+   "verse": 1115,
+   "rows": [
+    {
+     "surface": "rājasam",
+     "gloss": "rajasic",
+     "grounds": "classified by the quality of rajas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tilatailena",
+     "gloss": "with-sesame-oil",
+     "grounds": "sesame oil as lamp fuel",
+     "morph": "n.inst.sg (compound: tila+taila)"
+    },
+    {
+     "surface": "miśram",
+     "gloss": "mixed",
+     "grounds": "combined with another substance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ājena",
+     "gloss": "with-goat",
+     "grounds": "derived from goat",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter as lamp fuel",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What fuel mixture characterizes a rajasic lamp offering?",
+   "premises": [
+    "Lamp offerings are classified by qualitative type.",
+    "Sesame oil and goat ghee are possible fuels.",
+    "A mixed fuel defines the rajasic type."
+   ],
+   "inference": "A rajasic lamp is one fueled by sesame oil mixed with goat ghee.",
+   "uncertainties": [],
+   "plain_english": "A rajasic lamp is one mixed with sesame oil and goat ghee."
+  },
+  {
+   "verse": 1116,
+   "rows": [
+    {
+     "surface": "tāmasaḥ",
+     "gloss": "tamasic",
+     "grounds": "classified by the quality of tamas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with previous type",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "is classified as",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "dīpaḥ",
+     "gloss": "lamp",
+     "grounds": "ritual lamp offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māhiṣeṇa",
+     "gloss": "with-buffalo",
+     "grounds": "derived from buffalo",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter as lamp fuel",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What fuel characterizes a tamasic lamp offering?",
+   "premises": [
+    "Lamp offerings are classified by qualitative type.",
+    "Buffalo ghee is a possible fuel.",
+    "A specific fuel defines the tamasic type."
+   ],
+   "inference": "A lamp fueled with buffalo ghee is classified as tamasic.",
+   "uncertainties": [],
+   "plain_english": "But a lamp becomes tamasic when it is fueled with buffalo ghee."
+  },
+  {
+   "verse": 1117,
+   "rows": [
+    {
+     "surface": "tāmasaḥ",
+     "gloss": "tamasic",
+     "grounds": "classified by the quality of tamas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "intensifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paiśācaḥ",
+     "gloss": "demonic",
+     "grounds": "associated with piśācas or unfit forces",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpaḥ",
+     "gloss": "lamp",
+     "grounds": "ritual lamp offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogyetaraḥ",
+     "gloss": "unfit-other",
+     "grounds": "not fit for proper worship",
+     "morph": "m.nom.sg (compound: yogya+itara)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally regarded as",
+     "morph": "m.nom.sg (past-passive-participle √smṛ)"
+    }
+   ],
+   "question": "Why is a certain tamasic lamp considered unfit for proper worship?",
+   "premises": [
+    "Some lamps are classified as tamasic.",
+    "A further demonic classification is recognized.",
+    "Unfit lamps are excluded from proper worship."
+   ],
+   "inference": "A tamasic lamp may also be regarded as demonic and therefore unfit for worship.",
+   "uncertainties": [],
+   "plain_english": "A tamasic lamp is also remembered as demonic and unfit for proper use."
+  },
+  {
+   "verse": 1118,
+   "rows": [
+    {
+     "surface": "homaḥ",
+     "gloss": "fire-offering",
+     "grounds": "ritual oblation into fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadvidhisaṃsiddhadravyaiḥ",
+     "gloss": "with-that-rite-accomplished-materials",
+     "grounds": "materials prepared according to the prescribed rite",
+     "morph": "n.inst.pl (compound: tad+vidhi+saṃsiddha+dravya)"
+    },
+    {
+     "surface": "bhūtabaliḥ",
+     "gloss": "offering-to-beings",
+     "grounds": "ritual offering made to beings or spirits",
+     "morph": "m.nom.sg (compound: bhūta+bali)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the same principle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what materials should the fire offering and offering to beings be performed?",
+   "premises": [
+    "Fire offering and offering to beings are ritual acts.",
+    "Ritual acts require properly prepared materials.",
+    "Materials must be accomplished according to the prescribed rite."
+   ],
+   "inference": "The fire offering and likewise the offering to beings should be performed with materials prepared according to that rite.",
+   "uncertainties": [],
+   "plain_english": "The fire offering, and likewise the offering to beings, should be made with materials prepared according to the prescribed rite."
+  },
+  {
+   "verse": 1119,
+   "rows": [
+    {
+     "surface": "tāṇḍavam",
+     "gloss": "tāṇḍava-dance",
+     "grounds": "ritual dance associated with Śiva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāṇḍavādhyāye",
+     "gloss": "in-tāṇḍava-chapter",
+     "grounds": "reference to the chapter dealing with tāṇḍava",
+     "morph": "m.loc.sg (compound: tāṇḍava+adhyāya)"
+    },
+    {
+     "surface": "nṛttageyādilakṣaṇaiḥ",
+     "gloss": "with-dance-song-etc-marks",
+     "grounds": "characteristics of dance, song, and related arts",
+     "morph": "n.inst.pl (compound: nṛtta+geya+ādi+lakṣaṇa)"
+    }
+   ],
+   "question": "Where are the defining characteristics of the tāṇḍava dance to be found?",
+   "premises": [
+    "Tāṇḍava is a prescribed ritual performance.",
+    "Its characteristics include dance, song, and related features.",
+    "A specific chapter treats these characteristics."
+   ],
+   "inference": "The tāṇḍava, with its characteristics of dance, song, and the like, is treated in the chapter on tāṇḍava.",
+   "uncertainties": [],
+   "plain_english": "The tāṇḍava, with the characteristics of dance, song, and so on, is described in the chapter on tāṇḍava."
+  },
+  {
+   "verse": 1120,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "devotional attitude in worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vittānusāreṇa",
+     "gloss": "according-to-means",
+     "grounds": "in accordance with one's wealth or resources",
+     "morph": "m.inst.sg (compound: vitta+anusāra)"
+    },
+    {
+     "surface": "naivedyam",
+     "gloss": "food-offering",
+     "grounds": "food presented to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks the specific instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "arrange or prepare for offering",
+     "morph": "3.sg.opt.act √pra-kḷp"
+    }
+   ],
+   "question": "According to what principles should the food offering be prepared?",
+   "premises": [
+    "A food offering is to be prepared for worship.",
+    "Devotion is essential in making offerings.",
+    "The worshipper's resources may vary."
+   ],
+   "inference": "One should prepare the food offering with devotion and according to one's means.",
+   "uncertainties": [],
+   "plain_english": "One should prepare the food offering with devotion and according to one's means."
+  },
+  {
+   "verse": 1121,
+   "rows": [
+    {
+     "surface": "anivedyam",
+     "gloss": "not-offered",
+     "grounds": "food not first presented to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuñjīta",
+     "gloss": "one-should-eat",
+     "grounds": "act of consuming food",
+     "morph": "3.sg.opt.mid √bhuj"
+    },
+    {
+     "surface": "bhagavantam",
+     "gloss": "lord",
+     "grounds": "revered deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadāśivam",
+     "gloss": "sadāśiva",
+     "grounds": "the deity Sadāśiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What restriction governs eating food in relation to Lord Sadāśiva?",
+   "premises": [
+    "Food may be offered to the deity before consumption.",
+    "Lord Sadāśiva is the recipient of the offering.",
+    "Consuming unoffered food is subject to prohibition."
+   ],
+   "inference": "One should not eat food that has not been offered to Lord Sadāśiva.",
+   "uncertainties": [],
+   "plain_english": "One should not eat anything that has not been offered to Lord Sadāśiva."
+  },
+  {
+   "verse": 1122,
+   "rows": [
+    {
+     "surface": "vardhate",
+     "gloss": "increases",
+     "grounds": "grows or prospers",
+     "morph": "3.sg.pres.mid √vṛdh"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of the person who follows the rule",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "taddhānyam",
+     "gloss": "that-grain",
+     "grounds": "tad + dhānyam; his grain or crops",
+     "morph": "n.nom.sg (sandhi: tat+dhānyam)"
+    },
+    {
+     "surface": "phalapuṣpādayaḥ",
+     "gloss": "fruits-flowers-and-others",
+     "grounds": "fruits, flowers, and similar produce",
+     "morph": "m.nom.pl (compound: phala+puṣpa+ādi)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the same result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prosperity results for one who offers food before eating it?",
+   "premises": [
+    "Offering food to the deity precedes eating.",
+    "Ritual observance brings beneficial results.",
+    "Grain, fruits, and flowers are forms of prosperity."
+   ],
+   "inference": "For such a person, grain and likewise fruits, flowers, and other produce increase.",
+   "uncertainties": [],
+   "plain_english": "For him, that grain increases, and likewise fruits, flowers, and other produce."
+  },
+  {
+   "verse": 1123,
+   "rows": [
+    {
+     "surface": "alpe",
+     "gloss": "in-small",
+     "grounds": "when the offering or means are small",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahati",
+     "gloss": "in-great",
+     "grounds": "when the offering or means are great",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulyam",
+     "gloss": "equal",
+     "grounds": "the same in merit or result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit-result",
+     "grounds": "meritorious outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āḍhyadaridrayoḥ",
+     "gloss": "of-rich-and-poor",
+     "grounds": "the wealthy and the poor worshippers",
+     "morph": "m.gen.dual (compound: āḍhya+daridra)"
+    }
+   ],
+   "question": "How does the merit of offerings compare between the rich and the poor?",
+   "premises": [
+    "Offerings may be small or great depending on means.",
+    "Rich and poor worshippers have different capacities.",
+    "Merit is evaluated in relation to devotion and circumstance."
+   ],
+   "inference": "Whether the offering is small or great, the fruit is equal for the rich and the poor.",
+   "uncertainties": [],
+   "plain_english": "Whether the offering is small or great, the fruit is equal for the rich and the poor."
+  },
+  {
+   "verse": 1124,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "after presenting the offering",
+     "morph": "(gerund √dā)"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "to-śiva",
+     "grounds": "Śiva as recipient of the offering",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naivedyam",
+     "gloss": "food-offering",
+     "grounds": "food presented to the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalyāṇam",
+     "gloss": "auspicious-rite",
+     "grounds": "a beneficial or auspicious act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "have performed or arrange",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "a knowledgeable person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should a wise person do after offering food to Śiva?",
+   "premises": [
+    "Food is first offered to Śiva.",
+    "An auspicious act may follow the offering.",
+    "A wise person acts according to proper ritual conduct."
+   ],
+   "inference": "After offering food to Śiva, a wise person should have an auspicious rite performed.",
+   "uncertainties": [
+    "The specific nature of the kalyāṇam rite is not specified here."
+   ],
+   "plain_english": "Having offered food to Śiva, a wise person should have an auspicious rite performed."
+  }
+ ]
+}

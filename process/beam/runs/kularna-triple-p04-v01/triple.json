@@ -1,0 +1,1088 @@
+{
+ "song": "kul-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "valmīkatāḍanād",
+     "gloss": "from-striking-anthill",
+     "grounds": "valmīka + tāḍana + ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "dead",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kinnu",
+     "gloss": "indeed",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahoragaḥ",
+     "gloss": "great-serpent",
+     "grounds": "mahā + uraga",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does striking an anthill kill a great serpent, goddess?",
+   "premises": [
+    "striking an anthill is not the cause of death",
+    "the serpent's death is questioned"
+   ],
+   "inference": "the apparent cause is not the true cause",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Goddess, is the great serpent dead from striking the anthill?"
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "bhramanti",
+     "gloss": "they-wander",
+     "grounds": "root bhram",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "jñānivalloke",
+     "gloss": "knowers-in-world",
+     "grounds": "jñānin + loke",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhrāmayanti",
+     "gloss": "they-delude",
+     "grounds": "causative root bhram",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "janānapi",
+     "gloss": "people-also",
+     "grounds": "jana + api",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Do knowers wander and delude people in the world?",
+   "premises": [
+    "knowers wander in the world",
+    "they also delude people"
+   ],
+   "inference": "apparent knowers may mislead others",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Knowers wander in the world and delude people too."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "karmabrahmobhayabhraṣṭaṃ",
+     "gloss": "fallen-from-both-karma-and-brahman",
+     "grounds": "karma + brahman + ubhaya + bhraṣṭa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyajed",
+     "gloss": "one-should-abandon",
+     "grounds": "root tyaj optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "antyajaṃ",
+     "gloss": "outcaste",
+     "grounds": "antya + ja",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one abandon him who has fallen from both karma and brahman like an outcaste?",
+   "premises": [
+    "he has fallen from both karma and brahman",
+    "such a one should be abandoned like an outcaste"
+   ],
+   "inference": "loss of both paths warrants rejection",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Abandon him who has fallen from both karma and brahman, as an outcaste."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "caranti",
+     "gloss": "they-go",
+     "grounds": "root car",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "gardabhādyāśca",
+     "gloss": "donkey-and-others-also",
+     "grounds": "gardabha + ādi + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yoginaste",
+     "gloss": "those-yogins",
+     "grounds": "yogin + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are-they",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are those who go like donkeys yogins?",
+   "premises": [
+    "some go like donkeys",
+    "they are called yogins"
+   ],
+   "inference": "mere outward behavior does not make a yogin",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Those who go like donkeys and others—are they yogins?"
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "mṛdbhasmavāsino",
+     "gloss": "earth-ash-wearers",
+     "grounds": "mṛd + bhasma + vāsin",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "grāmyāḥ",
+     "gloss": "vulgar",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "are-they",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktā",
+     "gloss": "liberated",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "indeed",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are earth-and-ash wearers who are vulgar liberated?",
+   "premises": [
+    "they wear earth and ash",
+    "they are vulgar"
+   ],
+   "inference": "external ascetic marks do not equal liberation",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Are vulgar earth-and-ash wearers liberated indeed?"
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "hiraṇādimṛgā",
+     "gloss": "gold-etc-deer",
+     "grounds": "hiraṇa + ādi + mṛga",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yoginaste",
+     "gloss": "those-yogins",
+     "grounds": "yogin + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are-they",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are those who chase gold and deer yogins, goddess?",
+   "premises": [
+    "some chase gold and deer",
+    "they are called yogins"
+   ],
+   "inference": "desire for objects contradicts yogin status",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Goddess, are those who chase gold and deer yogins?"
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "maṇḍūkamatsyapramukhā",
+     "gloss": "frog-fish-etc",
+     "grounds": "maṇḍūka + matsya + pramukha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vratinaste",
+     "gloss": "those-vow-keepers",
+     "grounds": "vratin + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are-they",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are frog-and-fish-like vow-keepers true vow-keepers?",
+   "premises": [
+    "some vow-keepers resemble frogs and fish",
+    "they are called vow-keepers"
+   ],
+   "inference": "outward vows alone are insufficient",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Are those vow-keepers who are like frogs and fish true vow-keepers?"
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "janānāṃ",
+     "gloss": "of-people",
+     "grounds": "jana genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "purato",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vibudhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "are-they",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "indeed",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are those before people wise ones, goddess?",
+   "premises": [
+    "some stand before people",
+    "they are called wise"
+   ],
+   "inference": "public display does not prove wisdom",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Goddess, are those who stand before people wise indeed?"
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pibanti",
+     "gloss": "they-drink",
+     "grounds": "root pā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "mahītoyaṃ",
+     "gloss": "earth-water",
+     "grounds": "mahī + toya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yoginaste",
+     "gloss": "those-yogins",
+     "grounds": "yogin + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are-they",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are those who do not drink earth-water yogins?",
+   "premises": [
+    "some do not drink earth-water",
+    "they are called yogins"
+   ],
+   "inference": "abstaining from one thing does not define a yogin",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Are those who do not drink earth-water yogins?"
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "they-stand",
+     "grounds": "root sthā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "śūkarādyāśca",
+     "gloss": "boar-and-others-also",
+     "grounds": "śūkara + ādi + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yoginaste",
+     "gloss": "those-yogins",
+     "grounds": "yogin + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are-they",
+     "grounds": "root bhū",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are those who stand like boars yogins?",
+   "premises": [
+    "some stand like boars",
+    "they are called yogins"
+   ],
+   "inference": "animal-like posture is not yogic realization",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Are those who stand like boars and others yogins?"
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "mokṣasya",
+     "gloss": "of-liberation",
+     "grounds": "mokṣa genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvajñānaṃ",
+     "gloss": "truth-knowledge",
+     "grounds": "tattva + jñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "mistress-of-kula",
+     "grounds": "kula + īśvarī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the direct cause of liberation, mistress of kula?",
+   "premises": [
+    "liberation has a cause",
+    "that cause is direct truth-knowledge"
+   ],
+   "inference": "liberation comes from direct knowledge of truth",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Mistress of kula, direct knowledge of truth is the cause of liberation."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "paramārthaṃ",
+     "gloss": "ultimate-truth",
+     "grounds": "parama + artha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "they-know",
+     "grounds": "root jñā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "paśupāśāniyantritāḥ",
+     "gloss": "bound-by-beast-bonds",
+     "grounds": "paśu + pāśa + niyantrita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Do those bound by beast-bonds know ultimate truth?",
+   "premises": [
+    "some are bound by beast-bonds",
+    "they do not know ultimate truth"
+   ],
+   "inference": "bondage prevents knowledge of ultimate truth",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Those bound by beast-bonds do not know ultimate truth."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "kālomīgrāhagrastāśca",
+     "gloss": "grasped-by-time-death",
+     "grounds": "kāla + mṛtyu + grāha + grasta + ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "they-stand",
+     "grounds": "root sthā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutākīkāḥ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do those grasped by time and death stand?",
+   "premises": [
+    "some are grasped by time and death",
+    "they still stand"
+   ],
+   "inference": "their standing is questioned under mortality",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "How indeed do those grasped by time and death stand?"
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "viḍambakasya",
+     "gloss": "of-imitator",
+     "grounds": "viḍambaka genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tasyāpi",
+     "gloss": "his-also",
+     "grounds": "tasya + api",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kākabhāṣitam",
+     "gloss": "crow-speech",
+     "grounds": "kāka + bhāṣita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is all of an imitator's speech crow-speech?",
+   "premises": [
+    "an imitator's speech is questioned",
+    "it is compared to crow-speech"
+   ],
+   "inference": "imitation lacks true meaning",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "All of an imitator's speech is crow-speech."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "paṭhantyahanīśaṃ",
+     "gloss": "they-recite-day-and-night",
+     "grounds": "paṭh + ahan + īśam",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paratattvaparāṅmukhaḥ",
+     "gloss": "turned-away-from-supreme-truth",
+     "grounds": "para + tattva + parāṅmukha",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Do those who recite day and night but turn from supreme truth gain anything?",
+   "premises": [
+    "some recite day and night",
+    "they are turned away from supreme truth"
+   ],
+   "inference": "recitation without truth-orientation is empty",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Goddess, they recite day and night yet are turned away from supreme truth."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "cintayā",
+     "gloss": "by-thought",
+     "grounds": "cintā instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "duḥkhitā",
+     "gloss": "distressed",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mūḍhāstiṣṭhanti",
+     "gloss": "fools-stand",
+     "grounds": "mūḍha + tiṣṭhanti",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "vyākulendriyāḥ",
+     "gloss": "agitated-senses",
+     "grounds": "vyākula + indriya",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Do distressed fools with agitated senses stand by thought?",
+   "premises": [
+    "some are distressed by thought",
+    "they are fools with agitated senses"
+   ],
+   "inference": "mental agitation marks delusion",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Distressed fools with agitated senses stand by thought."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrasadbhāvo",
+     "gloss": "scripture-existence",
+     "grounds": "śāstra + sadbhāva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "explanation",
+     "grounds": "feminine noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvanti",
+     "gloss": "they-make",
+     "grounds": "root kṛ",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "and-otherwise",
+     "grounds": "ca + anyathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do they explain scripture otherwise and otherwise?",
+   "premises": [
+    "scripture's existence is explained",
+    "they explain it otherwise"
+   ],
+   "inference": "misinterpretation distorts scripture",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "They explain scripture's existence otherwise, and otherwise."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "ahaṅkārahatāḥ",
+     "gloss": "ego-slain",
+     "grounds": "ahaṅkāra + hata",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecid",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "upadeśavivajītāḥ",
+     "gloss": "instruction-deprived",
+     "grounds": "upadeśa + vivajita",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Are some ego-slain yet deprived of instruction?",
+   "premises": [
+    "some are slain by ego",
+    "they are deprived of instruction"
+   ],
+   "inference": "ego-destruction without instruction is incomplete",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Some are slain by ego and deprived of instruction."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "they-know",
+     "grounds": "root jñā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darvī",
+     "gloss": "ladle",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pākarasaṃ",
+     "gloss": "cooking-juice",
+     "grounds": "pāka + rasa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do they not know supreme truth, as a ladle does not know cooking juice?",
+   "premises": [
+    "some do not know supreme truth",
+    "they are like a ladle not knowing cooking juice"
+   ],
+   "inference": "external handling lacks inner knowledge",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "They do not know supreme truth, as a ladle does not know cooking juice."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "paṭhanti",
+     "gloss": "they-recite",
+     "grounds": "root paṭh",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "vedaśāstrāṇi",
+     "gloss": "veda-scriptures",
+     "grounds": "veda + śāstra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "durlabho",
+     "gloss": "rare",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvavedakaḥ",
+     "gloss": "bhava-knower",
+     "grounds": "bhāva + vedaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "They recite veda-scriptures, but who knows bhava?",
+   "premises": [
+    "some recite veda-scriptures",
+    "a knower of bhava is rare"
+   ],
+   "inference": "scriptural recitation is common, inner knowing is rare",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "They recite veda-scriptures; a knower of bhava is rare."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "gopaḥ",
+     "gloss": "cowherd",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kakṣagataṃ",
+     "gloss": "in-thicket",
+     "grounds": "kakṣa + gata",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chāgaṃ",
+     "gloss": "goat",
+     "grounds": "masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūpe",
+     "gloss": "in-well",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "root dṛś",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "durmatiḥ",
+     "gloss": "evil-minded",
+     "grounds": "dur + mati",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does an evil-minded cowherd see a goat in a thicket as in a well?",
+   "premises": [
+    "an evil-minded cowherd sees",
+    "he mistakes a goat in a thicket for one in a well"
+   ],
+   "inference": "deluded perception misidentifies objects",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "An evil-minded cowherd sees a goat in a thicket as in a well."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivartteta",
+     "gloss": "turns-back",
+     "grounds": "root vṛt",
+     "morph": "3.sg.mid-opt"
+    },
+    {
+     "surface": "timiraṃ",
+     "gloss": "darkness",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kadāciddīpavārttayā",
+     "gloss": "ever-by-lamp-news",
+     "grounds": "kadācid + dīpa + vārttā",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "Does darkness ever turn back by lamp-news?",
+   "premises": [
+    "darkness does not turn back",
+    "lamp-news does not remove it"
+   ],
+   "inference": "mere report of light does not dispel darkness",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Darkness never turns back by lamp-news."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prajñāvataḥ",
+     "gloss": "of-wise",
+     "grounds": "prajñāvat genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvajñānasya",
+     "gloss": "of-truth-knowledge",
+     "grounds": "tattva + jñāna genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For the wise, goddess, is scripture the cause of truth-knowledge?",
+   "premises": [
+    "scripture is for the wise",
+    "it is the cause of truth-knowledge"
+   ],
+   "inference": "scripture serves as cause for the wise",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Goddess, for the wise, scripture is the cause of truth-knowledge."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "sadvidyādānaśūrādyairguṇaivīkhyātamānavāḥ",
+     "gloss": "men-famed-by-qualities-such-as-true-knowledge-giving-hero",
+     "grounds": "sadvidyā + dāna + śūra + ādi + guṇa + vikhyāta + mānava",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are men famed by qualities such as true knowledge, giving, and heroism?",
+   "premises": [
+    "some men are famed",
+    "their fame rests on qualities like true knowledge, giving, and heroism"
+   ],
+   "inference": "true fame arises from virtuous qualities",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Men famed by qualities such as true knowledge, giving, and heroism."
+  },
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāstrasammūḍhāste",
+     "gloss": "scripture-deluded-those",
+     "grounds": "śāstra + sammūḍha + te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dūrasthā",
+     "gloss": "far-standing",
+     "grounds": "dūra + stha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Are those deluded by scripture far away without doubt?",
+   "premises": [
+    "those deluded by scripture stand far",
+    "there is no doubt about this"
+   ],
+   "inference": "scriptural delusion distances one from truth",
+   "uncertainties": [
+    "compound segmentation"
+   ],
+   "plain_english": "Thus those deluded by scripture stand far away; no doubt."
+  }
+ ]
+}

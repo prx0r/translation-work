@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject of identification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "bīja/phonetic element, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "syllable",
+     "grounds": "forms compound with preceding sa denoting the syllable sa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which syllable is claimed to be identical with the goddess?",
+   "premises": [
+    "The term devī denotes the goddess.",
+    "The expression sa kāraḥ denotes the syllable sa.",
+    "The verse predicates sa kāraḥ of devī."
+   ],
+   "inference": "The goddess is identified with the syllable sa.",
+   "uncertainties": [],
+   "plain_english": "The goddess is the syllable sa."
+  }
+ ]
+}

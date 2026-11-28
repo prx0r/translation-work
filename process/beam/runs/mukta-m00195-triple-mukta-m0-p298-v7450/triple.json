@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p298",
+ "items": [
+  {
+   "verse": 7450,
+   "rows": [
+    {
+     "surface": "durgā+pīṭhe",
+     "gloss": "in-durgā-seat",
+     "grounds": "locative of compound durgā-pīṭha indicating the place of worship",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "indeclinable indicating prior declaration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokte",
+     "gloss": "declared",
+     "grounds": "past passive participle agreeing with durgā+pīṭhe",
+     "morph": "ppp.loc.sg.n (pra-vac)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive expressing prior contemplative act",
+     "morph": "abs. (dhyai)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "direct object of meditation and worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative enjoining ritual worship",
+     "morph": "3.sg.act-opt (pra-pūj)"
+    }
+   ],
+   "question": "What preparatory act and location are required for the proper worship of the goddess?",
+   "premises": [
+    "The Durgā seat has been previously declared.",
+    "The goddess is the object of meditation.",
+    "Meditation precedes the act of worship."
+   ],
+   "inference": "One should meditate on the goddess and then worship her at the previously declared Durgā seat.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the goddess at the previously declared Durgā seat, one should worship her."
+  }
+ ]
+}

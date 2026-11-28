@@ -1,0 +1,599 @@
+{
+ "song": "kul-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "paśupānaṃ",
+     "gloss": "paśu-drinking",
+     "grounds": "compound paśu+pāna, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "narakadaṃ",
+     "gloss": "hell-giving",
+     "grounds": "compound naraka+dā, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of prac, nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pānaphalaṃ",
+     "gloss": "drinking-fruit",
+     "grounds": "compound pāna+phala, nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is declared about paśu-drinking and its fruit?",
+   "premises": [
+    "paśu-drinking is hell-giving",
+    "its fruit is declared",
+    "the beloved is addressed"
+   ],
+   "inference": "The verse declares paśu-drinking to be hell-giving and names its fruit.",
+   "uncertainties": [
+    "exact syntactic role of proktaṃ"
+   ],
+   "plain_english": "Beloved, paśu-drinking is declared to be hell-giving, and its fruit is stated."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānaṃ",
+     "gloss": "drinking",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "should-do",
+     "grounds": "optative third singular active of kṛ",
+     "morph": "3.sg.act.opt (kṛ)"
+    },
+    {
+     "surface": "paśupānam",
+     "gloss": "paśu-drinking",
+     "grounds": "compound paśu+pāna, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How long should paśu-drinking be practiced?",
+   "premises": [
+    "drinking is to be done so long",
+    "paśu-drinking is the object",
+    "thereafter beyond is indicated"
+   ],
+   "inference": "Paśu-drinking is to be practiced only for a limited time, then surpassed.",
+   "uncertainties": [
+    "scope of param"
+   ],
+   "plain_english": "One should practice paśu-drinking only so long, and thereafter go beyond it."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "tāvadeva",
+     "gloss": "so-long-indeed",
+     "grounds": "indeclinable adverb with emphatic eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piben",
+     "gloss": "should-drink",
+     "grounds": "optative third singular active of pā",
+     "morph": "3.sg.act.opt (pā)"
+    },
+    {
+     "surface": "madyam",
+     "gloss": "liquor",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patanaṃ",
+     "gloss": "fall",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active of bhū",
+     "morph": "3.sg.act.opt (bhū)"
+    }
+   ],
+   "question": "What happens if liquor is drunk otherwise?",
+   "premises": [
+    "one should drink liquor only so long",
+    "otherwise a fall becomes",
+    "the fall is stated"
+   ],
+   "inference": "Drinking liquor beyond the proper limit leads to a fall.",
+   "uncertainties": [
+    "exact limit intended"
+   ],
+   "plain_english": "One should drink liquor only so long; otherwise a fall results."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "āgalāntaṃ",
+     "gloss": "until-throat",
+     "grounds": "compound āgala+anta, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pibed",
+     "gloss": "should-drink",
+     "grounds": "optative third singular active of pā",
+     "morph": "3.sg.act.opt (pā)"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "nominative singular masculine participle of muc",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "indeclinable negation with atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the result of drinking substance until the throat?",
+   "premises": [
+    "substance should be drunk until the throat",
+    "he becomes liberated",
+    "there is no doubt here"
+   ],
+   "inference": "Drinking the substance up to the throat liberates, without doubt.",
+   "uncertainties": [
+    "identity of dravyaṃ"
+   ],
+   "plain_english": "He who drinks the substance up to the throat is liberated; there is no doubt."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "utthāya",
+     "gloss": "rising",
+     "grounds": "absolutive of ut-sthā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive of pā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punarjanma",
+     "gloss": "rebirth",
+     "grounds": "compound punar+janma, nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive present third singular of vid",
+     "morph": "3.sg.pass.pres (vid)"
+    }
+   ],
+   "question": "What follows from rising and drinking again?",
+   "premises": [
+    "rising and drinking again are stated",
+    "rebirth is not found",
+    "the result is negated"
+   ],
+   "inference": "Through this practice rebirth is not found.",
+   "uncertainties": [
+    "exact ritual sequence"
+   ],
+   "plain_english": "Having risen and drunk again, there is no rebirth."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "vamanāt",
+     "gloss": "from-vomiting",
+     "grounds": "ablative singular neuter of vamana",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sarvadevāḥ",
+     "gloss": "all-gods",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative singular neuter pronoun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "trividham",
+     "gloss": "threefold",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-practice",
+     "grounds": "optative third singular active of ācar",
+     "morph": "3.sg.act.opt (ācar)"
+    }
+   ],
+   "question": "What should be practiced from vomiting?",
+   "premises": [
+    "from vomiting all gods are stated",
+    "therefore threefold practice follows",
+    "the practice is enjoined"
+   ],
+   "inference": "Because of vomiting, a threefold practice should be undertaken.",
+   "uncertainties": [
+    "what the threefold practice is"
+   ],
+   "plain_english": "From vomiting, all gods; therefore one should practice the threefold rite."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārvabhaumasya",
+     "gloss": "of-universal-king",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nṛpasya",
+     "gloss": "of-king",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "passive present third singular of vid",
+     "morph": "3.sg.pass.pres (vid)"
+    }
+   ],
+   "question": "Is that happiness found even for a universal king?",
+   "premises": [
+    "that happiness is stated",
+    "even a universal king lacks it",
+    "it is not found"
+   ],
+   "inference": "That happiness is not found even for a universal king.",
+   "uncertainties": [
+    "exact referent of tat"
+   ],
+   "plain_english": "That happiness is not found even for a universal king."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saukhyameva",
+     "gloss": "happiness-indeed",
+     "grounds": "nominative singular neuter with emphatic eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative third singular active of as",
+     "morph": "3.sg.act.opt (as)"
+    },
+    {
+     "surface": "satyameva",
+     "gloss": "truth-indeed",
+     "grounds": "nominative singular neuter with emphatic eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "fair-faced",
+     "grounds": "vocative singular feminine of varānanā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What would that happiness indeed be?",
+   "premises": [
+    "that happiness indeed is stated",
+    "liberation would be it",
+    "truth indeed is addressed to the fair-faced one"
+   ],
+   "inference": "That happiness itself is liberation, truly.",
+   "uncertainties": [
+    "whether syāt is conditional"
+   ],
+   "plain_english": "Fair-faced one, that happiness indeed would be liberation, truly."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "instrumental singular neuter of samāsa",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "mistress-of-kula",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "nominative singular neuter interrogative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "nominative singular neuter comparative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive of śru",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "present second singular active of iṣ",
+     "morph": "2.sg.act.pres (iṣ)"
+    }
+   ],
+   "question": "What more does the mistress of kula desire to hear?",
+   "premises": [
+    "in brief is stated",
+    "the mistress of kula is addressed",
+    "what more to hear is desired"
+   ],
+   "inference": "The verse asks what more the mistress of kula wishes to hear in brief.",
+   "uncertainties": [
+    "exact referent of kuleśāni"
+   ],
+   "plain_english": "In brief, mistress of kula, what more do you desire to hear?"
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "baṭukaśaktyādipūjanaṃ",
+     "gloss": "baṭuka-śakti-etc-worship",
+     "grounds": "compound baṭuka+śakti+ādi+pūjana, nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamollāsaḥ",
+     "gloss": "seventh-ullāsa",
+     "grounds": "compound saptama+ullāsa, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is named the seventh ullāsa?",
+   "premises": [
+    "baṭuka-śakti-etc-worship is stated",
+    "it is named",
+    "the seventh ullāsa is named"
+   ],
+   "inference": "The worship of Baṭuka, Śakti, and others is named the seventh ullāsa.",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "The worship of Baṭuka, Śakti, and so on is named the seventh ullāsa."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "ullāsabhedaṃ",
+     "gloss": "ullāsa-difference",
+     "grounds": "compound ullāsa+bheda, accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "dravyapātrādisaṅgamam",
+     "gloss": "substance-vessel-etc-union",
+     "grounds": "compound dravya+pātra+ādi+saṅgama, accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ullāsa-difference is addressed to the lord of gods?",
+   "premises": [
+    "ullāsa-difference is stated",
+    "the lord of gods is addressed",
+    "substance-vessel-etc-union is stated"
+   ],
+   "inference": "The verse addresses the lord of gods concerning an ullāsa-difference involving substance, vessel, and union.",
+   "uncertainties": [
+    "exact relation between the two accusatives"
+   ],
+   "plain_english": "Lord of gods, the ullāsa-difference and the union of substance, vessel, and so on."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "ceṣṭāṃ",
+     "gloss": "activity",
+     "grounds": "accusative singular feminine of ceṣṭā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kaulikaśaktīnāṃ",
+     "gloss": "of-kaulika-śaktis",
+     "grounds": "genitive plural feminine of kaulikaśakti",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative second singular active of vad",
+     "morph": "2.sg.act.imp (vad)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative singular first-person pronoun",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What activity of the kaulika śaktis is requested?",
+   "premises": [
+    "activity is requested",
+    "of the kaulika śaktis",
+    "the supreme lord is asked to tell"
+   ],
+   "inference": "The speaker asks the supreme lord to tell the activity of the kaulika śaktis.",
+   "uncertainties": [
+    "exact scope of ceṣṭā"
+   ],
+   "plain_english": "Supreme lord, tell me the activity of the kaulika śaktis."
+  }
+ ]
+}

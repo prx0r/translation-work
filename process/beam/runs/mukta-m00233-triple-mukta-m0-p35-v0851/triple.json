@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "pīṭhotsedhe",
+     "gloss": "pedestal-height",
+     "grounds": "compound pīṭha+utsedha in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tripañcāṃśe",
+     "gloss": "three-five-parts",
+     "grounds": "compound tri+pañca+aṃśa in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "janmadvyaṃśaṃ",
+     "gloss": "birth-two-parts",
+     "grounds": "compound janma+dvya+aṃśa accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yugāṃśakaiḥ",
+     "gloss": "age-parts",
+     "grounds": "compound yuga+aṃśaka instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How is pedestal height divided into birth and age parts?",
+   "premises": [
+    "pedestal height is measured",
+    "birth and age parts are specified",
+    "age parts are instrumental"
+   ],
+   "inference": "The verse gives a proportional division of pedestal height by birth and age parts.",
+   "uncertainties": [
+    "exact numerical ratio is not fully explicit"
+   ],
+   "plain_english": "Pedestal height is reckoned in three-five parts, with birth as two parts and age parts as the measure."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "kṣepaṇamadhyardhaṃ",
+     "gloss": "projection-middle-half",
+     "grounds": "compound kṣepaṇa+madhya+ardha",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kaṇṭho'rdhaṃ",
+     "gloss": "neck-half",
+     "grounds": "compound kaṇṭha+ardha with sandhi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṣepaṇaṃ",
+     "gloss": "projection",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are projection and neck halves arranged in the pedestal?",
+   "premises": [
+    "projection middle half is named",
+    "neck half is named",
+    "projection is repeated"
+   ],
+   "inference": "The verse specifies projection and neck halves as parts of the pedestal construction.",
+   "uncertainties": [
+    "spatial relation between halves is compressed"
+   ],
+   "plain_english": "Projection middle half, neck half, and projection again are given for the pedestal."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What pedestal type is named as lotus?",
+   "premises": [
+    "lotus is named",
+    "pedestal is named",
+    "the two form a type"
+   ],
+   "inference": "The verse identifies a lotus pedestal.",
+   "uncertainties": [
+    "no dimensions are given here"
+   ],
+   "plain_english": "A lotus pedestal is named."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "pīṭhatuṅge",
+     "gloss": "pedestal-peak",
+     "grounds": "compound pīṭha+tuṅga locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "manvaṃśe",
+     "gloss": "manu-part",
+     "grounds": "compound manu+aṃśa locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmārdhato'vaṭam",
+     "gloss": "birth-half-from-pit",
+     "grounds": "compound janma+ardha+avaṭa with sandhi",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the pedestal peak related to manu part and birth half pit?",
+   "premises": [
+    "pedestal peak is located",
+    "manu part is located",
+    "birth half pit is named"
+   ],
+   "inference": "The verse links pedestal peak, manu part, and birth half pit in one construction.",
+   "uncertainties": [
+    "exact measurement is compressed"
+   ],
+   "plain_english": "At the pedestal peak, manu part and birth half from the pit are specified."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "vajraṃ",
+     "gloss": "diamond",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nimnamardhaṃ",
+     "gloss": "low-half",
+     "grounds": "compound nimna+ardha accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kampo'rdhaṃ",
+     "gloss": "tremor-half",
+     "grounds": "compound kampa+ardha with sandhi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tribhirambujam",
+     "gloss": "three-lotus",
+     "grounds": "compound tri+ambuja instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How are diamond, low half, tremor half, and three lotus related?",
+   "premises": [
+    "diamond is named",
+    "low half is named",
+    "tremor half is named",
+    "three lotus is instrumental"
+   ],
+   "inference": "The verse combines diamond, low half, tremor half, and three lotus in pedestal measurement.",
+   "uncertainties": [
+    "grammatical relation of three lotus is compressed"
+   ],
+   "plain_english": "Diamond, low half, tremor half, and three lotus are given together."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "vajrapadmāhvayaṃ",
+     "gloss": "diamond-lotus-named",
+     "grounds": "compound vajra+padma+āhvaya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvaliṅgasamaṃ",
+     "gloss": "all-linga-equal",
+     "grounds": "compound sarva+liṅga+sama",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular present active",
+     "morph": "3.sg.act-pres, root bhū"
+    }
+   ],
+   "question": "What becomes equal to all lingas in the diamond-lotus pedestal?",
+   "premises": [
+    "diamond-lotus-named pedestal is named",
+    "all-linga-equal is stated",
+    "becomes is the verb"
+   ],
+   "inference": "The diamond-lotus-named pedestal becomes equal to all lingas.",
+   "uncertainties": [
+    "scope of equality is not expanded"
+   ],
+   "plain_english": "The diamond-lotus-named pedestal becomes equal to all lingas."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "four",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "paṭṭamardhaṃ",
+     "gloss": "slab-half",
+     "grounds": "compound paṭṭa+ardha accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syādardhaṃ",
+     "gloss": "half",
+     "grounds": "compound syāt+ardha",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nimnaṃ+tu+sārdhataḥ",
+     "gloss": "low-with-half",
+     "grounds": "compound nimna+tu+sārdha with plus marks",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is slab half, half, and low with half arranged by four?",
+   "premises": [
+    "four is instrumental",
+    "slab half is named",
+    "half is named",
+    "low with half is named"
+   ],
+   "inference": "The verse gives a four-based arrangement of slab half, half, and low with half.",
+   "uncertainties": [
+    "plus marks indicate editorial fusion"
+   ],
+   "plain_english": "By four, slab half, half, and low with half are specified."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "tribhirūrdhvāmbujaṃ",
+     "gloss": "three-upward-lotus",
+     "grounds": "compound tri+ūrdhva+ambuja instrumental",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "paṭṭamardham",
+     "gloss": "slab-half",
+     "grounds": "compound paṭṭa+ardha accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "adhyardham",
+     "gloss": "middle-half",
+     "grounds": "compound adhi+ardha accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ambujam",
+     "gloss": "lotus",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How are three upward lotus, slab half, middle half, and lotus related?",
+   "premises": [
+    "three upward lotus is instrumental",
+    "slab half is named",
+    "middle half is named",
+    "lotus is named"
+   ],
+   "inference": "The verse combines three upward lotus with slab half, middle half, and lotus.",
+   "uncertainties": [
+    "exact construction order is compressed"
+   ],
+   "plain_english": "Three upward lotus, slab half, middle half, and lotus are given together."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "pīṭhotsedhe",
+     "gloss": "pedestal-height",
+     "grounds": "compound pīṭha+utsedha locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ṣoḍaśāṃśe",
+     "gloss": "sixteen-parts",
+     "grounds": "compound ṣoḍaśa+aṃśa locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "candrāgniśrutisaṃkhyayā",
+     "gloss": "moon-fire-scripture-number",
+     "grounds": "compound candra+agni+śruti+saṃkhyā instrumental",
+     "morph": "inst.sg.f"
+    }
+   ],
+   "question": "How is pedestal height divided into sixteen parts by moon fire scripture number?",
+   "premises": [
+    "pedestal height is located",
+    "sixteen parts is located",
+    "moon fire scripture number is instrumental"
+   ],
+   "inference": "The verse divides pedestal height into sixteen parts by moon, fire, and scripture number.",
+   "uncertainties": [
+    "numerical mapping is not explicit"
+   ],
+   "plain_english": "Pedestal height is in sixteen parts by moon, fire, and scripture number."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "dhṛk",
+     "gloss": "bearer",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paṅkajaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tryaṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound tri+aṃśa accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭṭikā+sārdhabhāgikā",
+     "gloss": "slab-one-and-half-parts",
+     "grounds": "compound paṭṭikā+sārdha+bhāgikā with plus marks",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How does the bearer relate lotus, three parts, and slab one and half parts?",
+   "premises": [
+    "bearer is named",
+    "lotus is accusative",
+    "three parts is accusative",
+    "slab one and half parts is accusative"
+   ],
+   "inference": "The verse assigns lotus, three parts, and slab one and half parts under the bearer.",
+   "uncertainties": [
+    "plus marks indicate editorial fusion"
+   ],
+   "plain_english": "The bearer has lotus, three parts, and slab one and half parts."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "tadvyāsanirgamau",
+     "gloss": "that-seat-exit",
+     "grounds": "compound tad+vyāsa+nirgama dual",
+     "morph": "nom.acc.du.m"
+    },
+    {
+     "surface": "tryaṃśau",
+     "gloss": "three-parts",
+     "grounds": "compound tri+aṃśa dual",
+     "morph": "nom.acc.du.m"
+    },
+    {
+     "surface": "tathāgraṃ",
+     "gloss": "thus-tip",
+     "grounds": "compound tathā+agra accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "śrīkara",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "neuter past participle",
+     "morph": "nom.sg.n, root smṛ"
+    }
+   ],
+   "question": "What is remembered about seat exit, three parts, tip, and śrīkara?",
+   "premises": [
+    "that seat exit is dual",
+    "three parts is dual",
+    "thus tip is accusative",
+    "śrīkara is accusative",
+    "remembered is participle"
+   ],
+   "inference": "The verse remembers seat exit and three parts, along with tip and śrīkara.",
+   "uncertainties": [
+    "exact relation of dual forms is compressed"
+   ],
+   "plain_english": "That seat exit and three parts, thus tip and śrīkara, are remembered."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "nimnaṃ",
+     "gloss": "low",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭṭanimne'bjapīṭhe",
+     "gloss": "slab-low-lotus-pedestal",
+     "grounds": "compound paṭṭa+nimna+abja+pīṭha locative with sandhi",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where is the low part located in the slab low lotus pedestal?",
+   "premises": [
+    "low is accusative",
+    "slab low lotus pedestal is locative",
+    "the low part is placed there"
+   ],
+   "inference": "The verse places the low part in the slab low lotus pedestal.",
+   "uncertainties": [
+    "exact placement within pedestal is compressed"
+   ],
+   "plain_english": "The low part is in the slab low lotus pedestal."
+  },
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "ardhyardhendvardhasārdhāśvibhāgairadhyardhakārdhakaiḥ",
+     "gloss": "half-half-end-half-half-horse-parts",
+     "grounds": "long compound with multiple half and horse parts instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How are half, end, half, half, horse, and parts combined?",
+   "premises": [
+    "a single long compound is given",
+    "half and horse parts are instrumental",
+    "the compound is not split"
+   ],
+   "inference": "The verse gives a fused compound of half, end, half, half, horse, and parts.",
+   "uncertainties": [
+    "internal parsing is highly compressed"
+   ],
+   "plain_english": "A fused compound of half, end, half, half, horse, and parts is given."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "kṣepaṇāmbhojapaṭṭāni",
+     "gloss": "projection-lotus-slab",
+     "grounds": "compound kṣepaṇa+ambhoja+paṭṭa nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "low",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ceti+yathākramam",
+     "gloss": "thus-in-order",
+     "grounds": "compound ceti+yathākramam with plus marks",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are projection lotus slab and low arranged in order?",
+   "premises": [
+    "projection lotus slab is nominative plural",
+    "low is accusative",
+    "thus in order is indeclinable"
+   ],
+   "inference": "The verse arranges projection lotus slab and low in order.",
+   "uncertainties": [
+    "plus marks indicate editorial fusion"
+   ],
+   "plain_english": "Projection lotus slab and low are arranged thus in order."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryāṃśe",
+     "gloss": "sun-part",
+     "grounds": "compound sūrya+aṃśa locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "candranetrārdhabhāgataḥ",
+     "gloss": "moon-eye-half-part",
+     "grounds": "compound candra+netra+ardha+bhāga ablative",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How does sun part relate to moon eye half part?",
+   "premises": [
+    "then is indeclinable",
+    "sun part is locative",
+    "moon eye half part is ablative"
+   ],
+   "inference": "The verse relates sun part and moon eye half part in a measurement sequence.",
+   "uncertainties": [
+    "exact relation is compressed"
+   ],
+   "plain_english": "Then, in sun part, from moon eye half part."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "adhyardhena",
+     "gloss": "one-and-half",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tathārdhena",
+     "gloss": "thus-half",
+     "grounds": "compound tathā+ardha instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "janmapadmakanimnakam",
+     "gloss": "birth-lotus-low",
+     "grounds": "compound janma+padma+kaniṣṭha? accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How are one and half and thus half applied to birth lotus low?",
+   "premises": [
+    "one and half is instrumental",
+    "thus half is instrumental",
+    "birth lotus low is accusative"
+   ],
+   "inference": "The verse applies one and half and thus half to birth lotus low.",
+   "uncertainties": [
+    "compound parsing is compressed"
+   ],
+   "plain_english": "By one and half and thus half, birth lotus low is specified."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "paṭṭikānimnakaṃ",
+     "gloss": "slab-low",
+     "grounds": "compound paṭṭikā+nimnaka accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭṭaṃ",
+     "gloss": "slab",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śrīkāmye",
+     "gloss": "śrī-desired",
+     "grounds": "compound śrī+kāmya locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular present active",
+     "morph": "3.sg.act-pres, root bhū"
+    }
+   ],
+   "question": "How do slab low, slab, and śrī desired become ordered?",
+   "premises": [
+    "slab low is accusative",
+    "slab is accusative",
+    "śrī desired is locative",
+    "then is indeclinable",
+    "in order is ablative",
+    "becomes is verb"
+   ],
+   "inference": "The verse states that slab low and slab become ordered in śrī desired context.",
+   "uncertainties": [
+    "exact ordering rule is compressed"
+   ],
+   "plain_english": "Slab low and slab become, in order, in the śrī desired context."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "pīṭhānāmaṅgānāṃ",
+     "gloss": "of-pedestals-of-limbs",
+     "grounds": "compound pīṭha+aṅga genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "third singular optative active",
+     "morph": "3.sg.act-opt, root kḷp"
+    }
+   ],
+   "question": "How should pedestals of limbs be arranged?",
+   "premises": [
+    "of pedestals of limbs is genitive",
+    "should arrange is optative",
+    "the verse gives an instruction"
+   ],
+   "inference": "The verse instructs that pedestals of limbs should be arranged.",
+   "uncertainties": [
+    "arrangement details are not in this verse"
+   ],
+   "plain_english": "Pedestals of limbs should be arranged."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "syānnirgamaḥ",
+     "gloss": "exit",
+     "grounds": "compound syāt+nirgama nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "praṇālasya",
+     "gloss": "of-spout",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūlavyāsaṃ",
+     "gloss": "root-diameter",
+     "grounds": "compound mūla+vyāsa accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "same",
+     "grounds": "compound tat+sama accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is spout exit related to root diameter and same?",
+   "premises": [
+    "exit is nominative",
+    "of spout is genitive",
+    "root diameter is accusative",
+    "and is indeclinable",
+    "same is accusative"
+   ],
+   "inference": "The verse relates spout exit to root diameter and sameness.",
+   "uncertainties": [
+    "exact equation is compressed"
+   ],
+   "plain_english": "Spout exit, root diameter, and same are given together."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "gajauṣṭhākāram",
+     "gloss": "elephant-lip-shaped",
+     "grounds": "compound gaja+oṣṭha+ākāra accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gomukhābhaṃ",
+     "gloss": "cow-face-like",
+     "grounds": "compound go+mukha+ābha accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular present active",
+     "morph": "3.sg.act-pres, root bhū"
+    }
+   ],
+   "question": "What shape becomes either elephant lip or cow face?",
+   "premises": [
+    "elephant lip shaped is accusative",
+    "or is indeclinable",
+    "cow face like is accusative",
+    "and is indeclinable",
+    "that is nominative",
+    "becomes is verb"
+   ],
+   "inference": "The verse says that shape becomes either elephant lip shaped or cow face like.",
+   "uncertainties": [
+    "referent of that is contextual"
+   ],
+   "plain_english": "That becomes either elephant lip shaped or cow face like."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "iṣṭadiṅmukhaliṅgānāṃ",
+     "gloss": "desired-direction-facing-lingas",
+     "grounds": "compound iṣṭa+diṅ+mukha+liṅga genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "praṇālaṃ",
+     "gloss": "spout",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pīṭhamadhyataḥ",
+     "gloss": "pedestal-middle",
+     "grounds": "compound pīṭha+madhya ablative",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Where is the spout for desired direction facing lingas?",
+   "premises": [
+    "desired direction facing lingas is genitive",
+    "spout is accusative",
+    "pedestal middle is ablative"
+   ],
+   "inference": "The verse places the spout in the pedestal middle for desired direction facing lingas.",
+   "uncertainties": [
+    "exact placement is compressed"
+   ],
+   "plain_english": "The spout for desired direction facing lingas is from the pedestal middle."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "soccatulyaṃ",
+     "gloss": "with-height-equal",
+     "grounds": "compound sa+ucca+tulya accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "third singular optative active",
+     "morph": "3.sg.act-opt, root kḷp"
+    }
+   ],
+   "question": "How should width be arranged with height equal?",
+   "premises": [
+    "width is accusative",
+    "with height equal is accusative",
+    "should arrange is optative"
+   ],
+   "inference": "The verse instructs that width should be arranged equal to height.",
+   "uncertainties": [
+    "exact equality rule is compressed"
+   ],
+   "plain_english": "Width should be arranged equal to height."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "paṭṭasya",
+     "gloss": "of-slab",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "khātaṃ",
+     "gloss": "excavation",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-root",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How is slab equal excavation from root arranged?",
+   "premises": [
+    "of slab is genitive",
+    "equal is accusative",
+    "excavation is accusative",
+    "then is indeclinable",
+    "from root is ablative"
+   ],
+   "inference": "The verse gives slab equal excavation from root.",
+   "uncertainties": [
+    "exact construction is compressed"
+   ],
+   "plain_english": "Then excavation equal to slab is from root."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "tv",
+     "gloss": "then",
+     "grounds": "indeclinable with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhacandrākhye",
+     "gloss": "half-moon-named",
+     "grounds": "compound ardha+candra+ākhya locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "pedestal",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "syād",
+     "gloss": "becomes",
+     "grounds": "third singular optative active",
+     "morph": "3.sg.act-opt, root as"
+    },
+    {
+     "surface": "dvārasammukham",
+     "gloss": "door-facing",
+     "grounds": "compound dvāra+sammukha accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What becomes door facing in the half moon named pedestal?",
+   "premises": [
+    "then is indeclinable",
+    "half moon named is locative",
+    "pedestal is locative",
+    "becomes is optative",
+    "door facing is accusative"
+   ],
+   "inference": "The verse states that door facing becomes in the half moon named pedestal.",
+   "uncertainties": [
+    "exact referent is contextual"
+   ],
+   "plain_english": "Then in the half moon named pedestal, door facing becomes."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p284",
+ "items": [
+  {
+   "verse": 7100,
+   "rows": [
+    {
+     "surface": "sarvālaṅkāra saṃyuktaṃ",
+     "gloss": "endowed-with-all-ornaments",
+     "grounds": "compound of sarva (all), alaṅkāra (ornament), and saṃyukta (joined/endowed); qualifies the betel offering mentioned in the preceding context",
+     "morph": "n.acc.sg (compound: sarva+alaṅkāra+saṃyukta)"
+    },
+    {
+     "surface": "mātaṅkopari",
+     "gloss": "upon-an-elephant",
+     "grounds": "compound of mātaṅka (elephant) and upari (upon/above), indicating location",
+     "morph": "(indecl., compound: mātaṅka+upari)"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "past participle describing the positioned state of the offering",
+     "morph": "n.acc.sg (ppp, sam-√sthā)"
+    }
+   ],
+   "question": "In what adorned condition and upon what support must the betel offering be presented?",
+   "premises": [
+    "The betel offering is endowed with all ornaments.",
+    "The betel offering is situated upon an elephant.",
+    "These attributes specify the required presentation of the offering."
+   ],
+   "inference": "The betel offering must be presented fully adorned and placed upon an elephant.",
+   "uncertainties": [
+    "The exact referent is inferred from the preceding verse's mention of tāmbūlaṃ."
+   ],
+   "plain_english": "It should be endowed with all ornaments and situated upon an elephant."
+  }
+ ]
+}

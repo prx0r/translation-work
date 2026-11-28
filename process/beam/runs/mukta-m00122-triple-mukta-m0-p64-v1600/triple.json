@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "chāga+māṃsaṃ",
+     "gloss": "goat-meat",
+     "grounds": "compound naming the meat offered; accusative object of the offering",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tri+madhu+aktaiḥ",
+     "gloss": "smeared-with-three-sweets",
+     "grounds": "compound describing the meat as smeared with three sweets; instrumental plural modifier",
+     "morph": "adj.ins.pl.n"
+    },
+    {
+     "surface": "homāt",
+     "gloss": "from-offering",
+     "grounds": "ablative of homa, source or means of the rite",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "svarṇam",
+     "gloss": "gold",
+     "grounds": "accusative object obtained as result",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "optative verb expressing possible attainment",
+     "morph": "v.3.sg.opt.act (root āp)"
+    }
+   ],
+   "question": "What material result follows from offering goat meat smeared with three sweets in this homa?",
+   "premises": [
+    "Goat meat is offered smeared with three sweets.",
+    "The rite is performed from homa.",
+    "Gold is the object obtained."
+   ],
+   "inference": "Performing this homa with goat meat smeared in three sweets yields gold.",
+   "uncertainties": [
+    "The specific deity, recipient, and full ritual context are not stated in this verse."
+   ],
+   "plain_english": "By offering goat meat smeared with three sweets in the homa, one may obtain gold."
+  }
+ ]
+}

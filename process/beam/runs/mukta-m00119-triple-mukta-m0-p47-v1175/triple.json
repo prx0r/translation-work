@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "just-as",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaṃ",
+     "gloss": "pot",
+     "grounds": "as given",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "as given",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjitā",
+     "gloss": "excluded",
+     "grounds": "as given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is worship everywhere excluded without the pot?",
+   "premises": [
+    "without pot worship excluded everywhere",
+    "pot is indispensable for worship"
+   ],
+   "inference": "The pot is necessary for all worship.",
+   "uncertainties": [
+    "exact ritual role of the pot remains unspecified"
+   ],
+   "plain_english": "Just as without the pot, O goddess, worship is everywhere excluded."
+  }
+ ]
+}

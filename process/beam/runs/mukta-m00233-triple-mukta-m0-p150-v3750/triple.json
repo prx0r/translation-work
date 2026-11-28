@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "samutkṛṣya",
+     "gloss": "drawing-up",
+     "grounds": "absolutive of sam-ut-kṛṣ; indicates drawing up before placement",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vahnisthāne",
+     "gloss": "fire-place",
+     "grounds": "compound vahni+sthāna in locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "place",
+     "grounds": "optative 3rd singular active of ni-yuj; directs placement",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Where should the drawn-up wind be placed after bodily pain?",
+   "premises": [
+    "drawn-up wind is placed in fire-place",
+    "placement follows drawing up",
+    "fire-place is the target location"
+   ],
+   "inference": "the operation relocates the drawn-up wind to the fire-place",
+   "uncertainties": [
+    "exact referent of the drawn-up substance is not explicit",
+    "whether this follows every bodily pain is not stated"
+   ],
+   "plain_english": "Having drawn it up, place it in the fire-place."
+  }
+ ]
+}

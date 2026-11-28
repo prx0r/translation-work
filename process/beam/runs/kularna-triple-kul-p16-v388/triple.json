@@ -1,0 +1,478 @@
+{
+ "song": "kul-p16",
+ "items": [
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "prasādakaraṇāt",
+     "gloss": "from-grace-making",
+     "grounds": "ablative of prasāda-karaṇa",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādam",
+     "gloss": "seat",
+     "grounds": "accusative of prāsāda",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "anurīritaḥ",
+     "gloss": "is-praised",
+     "grounds": "passive participle of anu-rī",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does grace-making make praised quickly?",
+   "premises": [
+    "grace-making is the cause",
+    "the seat is praised",
+    "praise happens quickly"
+   ],
+   "inference": "The seat is praised quickly through grace-making.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Through grace-making, the seat is praised quickly."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "paramānandajananāt",
+     "gloss": "from-supreme-bliss-generation",
+     "grounds": "ablative of paramānanda-janana",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "paradharmanidarśanāt",
+     "gloss": "from-supreme-dharma-indication",
+     "grounds": "ablative of para-dharma-nidarśana",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What two sources justify the supreme mantra?",
+   "premises": [
+    "supreme bliss generation is a source",
+    "supreme dharma indication is a source"
+   ],
+   "inference": "The supreme mantra is justified by supreme bliss generation and supreme dharma indication.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "It comes from supreme bliss generation and supreme dharma indication."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "paratvāt",
+     "gloss": "from-supremacy",
+     "grounds": "ablative of paratva",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "sarvamantrāṇāṃ",
+     "gloss": "of-all-mantras",
+     "grounds": "genitive plural of sarva-mantra",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "parāmantraḥ",
+     "gloss": "supreme-mantra",
+     "grounds": "nominative of parā-mantra",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "called",
+     "grounds": "passive participle of īr",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why is it called the supreme mantra?",
+   "premises": [
+    "supremacy is the reason",
+    "it is above all mantras",
+    "it is called supreme mantra"
+   ],
+   "inference": "Because of supremacy over all mantras, it is called the supreme mantra.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Because of its supremacy over all mantras, it is called the supreme mantra."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "morning",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samutthāya",
+     "gloss": "having-risen",
+     "grounds": "absolutive of sam-ut-thā",
+     "morph": "abs."
+    },
+    {
+     "surface": "gurudevānucintanam",
+     "gloss": "guru-deity-contemplation",
+     "grounds": "accusative of guru-deva-anucintana",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What should one do first in the morning?",
+   "premises": [
+    "one rises first",
+    "one contemplates guru and deity",
+    "morning is the time"
+   ],
+   "inference": "First one rises in the morning and contemplates guru and deity.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "First, rising in the morning, one contemplates guru and deity."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "śaucāsyaśodhanaṃ",
+     "gloss": "purification-mouth-cleansing",
+     "grounds": "accusative of śauca-āsya-śodhana",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative of snāna",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sandhyātarpaṇam",
+     "gloss": "sandhyā-libation",
+     "grounds": "accusative of sandhyā-tarpaṇa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative of ā-car",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What purifications and rites should one perform?",
+   "premises": [
+    "mouth cleansing is performed",
+    "bathing is performed",
+    "sandhyā libation is performed"
+   ],
+   "inference": "One should perform mouth cleansing, bathing, and sandhyā libation.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should perform mouth cleansing, bathing, and sandhyā libation."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "pūjāsthānapraveśaḥ",
+     "gloss": "entering-worship-place",
+     "grounds": "nominative of pūjā-sthāna-praveśa",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanopaveśanam",
+     "gloss": "seat-sitting",
+     "grounds": "nominative of āsana-upaveśana",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What follows after entering the worship place?",
+   "premises": [
+    "entering worship place occurs",
+    "sitting on the seat follows",
+    "both are listed"
+   ],
+   "inference": "After entering the worship place, one sits on the seat.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Entering the worship place and sitting on the seat follow."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "accusative of āsana",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gaṇapakṣetrapālavandanam",
+     "gloss": "gaṇa-field-protector-salutation",
+     "grounds": "accusative of gaṇa-pakṣetra-pāla-vandana",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "goddess",
+     "grounds": "vocative of īśvarī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What salutations are made to the goddess?",
+   "premises": [
+    "the seat is addressed",
+    "gaṇa and field protector are saluted",
+    "the goddess is invoked"
+   ],
+   "inference": "The goddess is addressed with seat, gaṇa, and field-protector salutations.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O goddess, the seat, gaṇa, and field protector are saluted."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "karāṅgaśodhanaṃ",
+     "gloss": "hand-limb-purification",
+     "grounds": "nominative of kara-aṅga-śodhana",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāṇāyāmaḥ",
+     "gloss": "breath-control",
+     "grounds": "nominative of prāṇāyāma",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svabrahmarandhrake",
+     "gloss": "in-own-brahma-aperture",
+     "grounds": "locative of sva-brahma-randhraka",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where are hand-limb purification and breath control done?",
+   "premises": [
+    "hand-limb purification is named",
+    "breath control is named",
+    "own brahma aperture is the place"
+   ],
+   "inference": "Hand-limb purification and breath control are done in one's own brahma aperture.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Hand-limb purification and breath control occur in one's own brahma aperture."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "daśaprakārabhūtākhyāṃ",
+     "gloss": "ten-fold-being-named",
+     "grounds": "accusative of daśa-prakāra-bhūta-ākhyā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "lipiṃ",
+     "gloss": "script",
+     "grounds": "accusative of lipi",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kamaṭhasaṃjñakām",
+     "gloss": "tortoise-named",
+     "grounds": "accusative of kamaṭha-saṃjñaka",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What script is named ten-fold being?",
+   "premises": [
+    "a ten-fold being-named script is named",
+    "it is tortoise-named",
+    "it is an object of placement"
+   ],
+   "inference": "The tortoise-named script, called ten-fold being, is to be placed.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The tortoise-named script, called ten-fold being, is placed."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "nominative of gāyatrī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "nominative of devatā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamantreśvarī",
+     "gloss": "all-mantras-lady",
+     "grounds": "nominative of sarva-mantra-īśvarī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "nominative of parā",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Who is the deity here among all mantras?",
+   "premises": [
+    "gāyatrī is the deity",
+    "she is here",
+    "she is supreme lady of all mantras"
+   ],
+   "inference": "Here Gāyatrī is the deity, supreme lady of all mantras.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Here Gāyatrī is the deity, supreme lady of all mantras."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "ṣaḍdīrghayuktamūlabījena",
+     "gloss": "six-long-with-root-seed-by",
+     "grounds": "instrumental of ṣaḍ-dīrgha-yukta-mūla-bīja",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "accusative plural of ṣaḍ-aṅga",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "vocative of pārvatī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "By what seed are the six limbs made?",
+   "premises": [
+    "six-long-with-root-seed is the instrument",
+    "six limbs are the object",
+    "Pārvatī is addressed"
+   ],
+   "inference": "O Pārvatī, the six limbs are made by the six-long root seed.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O Pārvatī, the six limbs are made by the six-long root seed."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "pañcāṅguliṣu",
+     "gloss": "in-five-fingers",
+     "grounds": "locative plural of pañca-aṅguli",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of vi-nyas",
+     "morph": "abs."
+    },
+    {
+     "surface": "mūrtiṃ",
+     "gloss": "image",
+     "grounds": "accusative of mūrti",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vaktreṣu",
+     "gloss": "in-mouths",
+     "grounds": "locative plural of vaktra",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative of vi-nyas",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "Where should the image be placed after fingers?",
+   "premises": [
+    "image is placed in five fingers",
+    "then it is placed in mouths",
+    "placement is prescribed"
+   ],
+   "inference": "Having placed the image in the five fingers, one should place it in the mouths.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Having placed the image in the five fingers, one should place it in the mouths."
+  }
+ ]
+}

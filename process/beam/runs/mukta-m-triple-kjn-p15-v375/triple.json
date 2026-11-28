@@ -1,0 +1,51 @@
+{
+ "song": "kjn-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "vadane",
+     "gloss": "in-mouth",
+     "grounds": "locative locus of utterance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāstra+sadbhāvaṃ",
+     "gloss": "scripture-true-essence",
+     "grounds": "compound denoting the genuine nature or essence of scripture",
+     "morph": "compound: śāstra+sadbhāva (m.acc.sg)"
+    },
+    {
+     "surface": "sva+śaktyā",
+     "gloss": "by-own-power",
+     "grounds": "instrumental agent; śakti as one's inherent power",
+     "morph": "compound: sva+śakti (f.inst.sg)"
+    },
+    {
+     "surface": "coditaṃ",
+     "gloss": "impelled",
+     "grounds": "past passive participle indicating prompting or arousal",
+     "morph": "ppp.acc.sg.m (√cud)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what power is the true essence of scripture impelled in the mouth?",
+   "premises": [
+    "The true essence of scripture arises in the mouth.",
+    "This arising is described as impelled or prompted.",
+    "The impelling force is one's own inherent power."
+   ],
+   "inference": "The authentic expression of scriptural essence in speech is driven by one's own power rather than by external instruction alone.",
+   "uncertainties": [
+    "The exact syntactic role of vadane as locus of manifestation or utterance is context-dependent."
+   ],
+   "plain_english": "O beloved, the true essence of scripture is impelled in the mouth by one's own power."
+  }
+ ]
+}

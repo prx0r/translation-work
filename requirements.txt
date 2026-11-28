@@ -1,0 +1,5 @@
+# translation-work runtime deps (everything else is Python stdlib).
+# Python >= 3.11. Install:  pip install -r requirements.txt
+fastmcp==3.4.7      # MCP server (mcp_server.py --serve). Not needed for CLI use.
+pydantic==2.13.4    # schema gates (beam_client/beam_swarm validation models)
+psycopg2-binary==2.9.12  # OPTIONAL read-only box-DB hookup (tools/dbread.py)

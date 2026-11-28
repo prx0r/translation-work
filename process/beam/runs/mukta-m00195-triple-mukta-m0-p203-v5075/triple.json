@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p203",
+ "items": [
+  {
+   "verse": 5075,
+   "rows": [
+    {
+     "surface": "taittirīyeṣu+śākhāsu",
+     "gloss": "in-taittirīya-branches",
+     "grounds": "locative plural compound indicating the Taittirīya recensions; fused form kept as one token",
+     "morph": "taittirīya+śākhā.loc.pl.f"
+    },
+    {
+     "surface": "pariśiṣṭāni",
+     "gloss": "supplements",
+     "grounds": "supplementary texts associated with Vedic branches",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral specifying the count of supplements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to the preceding context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What number of supplementary texts belong to the Taittirīya branches?",
+   "premises": [
+    "The Taittirīya branches are the locus named.",
+    "Supplementary texts are attributed to these branches.",
+    "The count of these supplements is specified as seven."
+   ],
+   "inference": "There are seven supplementary texts in the Taittirīya branches.",
+   "uncertainties": [
+    "The specific identity of the seven supplements is not named in this verse."
+   ],
+   "plain_english": "And in the Taittirīya branches there are seven supplements."
+  }
+ ]
+}

@@ -1,0 +1,883 @@
+{
+ "song": "mukta-m0-p445",
+ "items": [
+  {
+   "verse": 11101,
+   "rows": [
+    {
+     "surface": "snigdhavastraṃ",
+     "gloss": "smooth-garment",
+     "grounds": "bahuvrīhi compound describing attire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lalāṭānta+luṭhan+mūddhaja+sañcayam",
+     "gloss": "forehead-edge-rolling-hair-mass",
+     "grounds": "compound describing hair rolling at forehead edge",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical features characterize the deity's attire and hair?",
+   "premises": [
+    "The deity wears a smooth garment.",
+    "The deity's hair mass rolls at the forehead edge."
+   ],
+   "inference": "The deity is visualized with smooth clothing and flowing hair.",
+   "uncertainties": [],
+   "plain_english": "He wears a smooth garment, with a mass of hair rolling at the edge of his forehead."
+  },
+  {
+   "verse": 11102,
+   "rows": [
+    {
+     "surface": "indīvara+dala+ākāra+śobhi+netra+dvaya+anvitam",
+     "gloss": "blue-lotus-petal-shaped-shining-eye-pair-endowed",
+     "grounds": "compound describing eyes resembling blue lotus petals",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the deity's eyes described in this visualization?",
+   "premises": [
+    "The deity is endowed with a pair of eyes.",
+    "The eyes shine like blue lotus petals."
+   ],
+   "inference": "The deity's eyes are beautiful and lotus-like.",
+   "uncertainties": [],
+   "plain_english": "He is endowed with a pair of shining eyes shaped like blue lotus petals."
+  },
+  {
+   "verse": 11103,
+   "rows": [
+    {
+     "surface": "raktādharaṃ",
+     "gloss": "red-lipped",
+     "grounds": "bahuvrīhi compound describing lips",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sunāsaṃ",
+     "gloss": "beautiful-nosed",
+     "grounds": "bahuvrīhi compound describing nose",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hasantaṃ",
+     "gloss": "smiling",
+     "grounds": "present participle describing expression",
+     "morph": "m.acc.sg.pres.part.act √has"
+    },
+    {
+     "surface": "hṛtamānasam",
+     "gloss": "captivating-mind",
+     "grounds": "bahuvrīhi compound indicating captivating presence",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What facial qualities make the deity captivating to devotees?",
+   "premises": [
+    "The deity has red lips and a beautiful nose.",
+    "The deity is smiling and captivates the mind."
+   ],
+   "inference": "The deity's charming facial features captivate the observer.",
+   "uncertainties": [],
+   "plain_english": "He has red lips and a beautiful nose, and he smiles, captivating the mind."
+  },
+  {
+   "verse": 11104,
+   "rows": [
+    {
+     "surface": "godhūli+dhama+uraḥ+kam",
+     "gloss": "cow-dust-gray-chested",
+     "grounds": "compound describing chest color like cow dust",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śārdūla+nakha+dhāriṇam",
+     "gloss": "tiger-claw-wearing",
+     "grounds": "compound indicating wearing a tiger claw ornament",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What distinctive marks adorn the deity's chest and person?",
+   "premises": [
+    "The deity's chest is gray like cow dust.",
+    "The deity wears a tiger claw."
+   ],
+   "inference": "The deity bears distinctive physical and ornamental marks.",
+   "uncertainties": [],
+   "plain_english": "His chest is gray like cow dust, and he wears a tiger claw."
+  },
+  {
+   "verse": 11105,
+   "rows": [
+    {
+     "surface": "kaṭideśa+lasat+jaṃghā+dvaye",
+     "gloss": "hip-region-shining-leg-pair",
+     "grounds": "locative compound describing shining legs at hip region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "baddha+manoharam",
+     "gloss": "bound-charming",
+     "grounds": "compound describing something charmingly bound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the adornment around the deity's hips and legs described?",
+   "premises": [
+    "The deity has a shining pair of legs at the hip region.",
+    "A charming ornament is bound there."
+   ],
+   "inference": "The deity's lower body is beautifully adorned.",
+   "uncertainties": [],
+   "plain_english": "At his hips, where his pair of legs shines, a charming ornament is bound."
+  },
+  {
+   "verse": 11106,
+   "rows": [
+    {
+     "surface": "tiraskarantaṃ",
+     "gloss": "surpassing",
+     "grounds": "present participle indicating surpassing",
+     "morph": "m.acc.sg.pres.part.act √tiraskṛ"
+    },
+    {
+     "surface": "vanaja+bandhūka+prasava+śriyam",
+     "gloss": "forest-born-bandhuka-flower-splendor",
+     "grounds": "compound denoting splendor of forest-born bandhuka flowers",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What natural beauty does the deity's appearance surpass?",
+   "premises": [
+    "The deity surpasses a certain splendor.",
+    "That splendor is of forest-born bandhuka flowers."
+   ],
+   "inference": "The deity's beauty exceeds that of bandhuka flowers.",
+   "uncertainties": [],
+   "plain_english": "He surpasses the splendor of forest-born bandhuka flowers."
+  },
+  {
+   "verse": 11107,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+uttarayoḥ",
+     "gloss": "right-left",
+     "grounds": "dvandva compound indicating both sides",
+     "morph": "f.loc.dual"
+    },
+    {
+     "surface": "pārṣṇyoḥ",
+     "gloss": "heels",
+     "grounds": "body part",
+     "morph": "f.loc.dual"
+    },
+    {
+     "surface": "vahantaṃ",
+     "gloss": "bearing",
+     "grounds": "present participle indicating bearing or carrying",
+     "morph": "m.acc.sg.pres.part.act √vah"
+    },
+    {
+     "surface": "sādhu",
+     "gloss": "well",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suspṛham",
+     "gloss": "very-desirable",
+     "grounds": "adjective describing attractiveness",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What quality is attributed to the deity's heels in this description?",
+   "premises": [
+    "The deity bears something on both right and left heels.",
+    "This bearing is well and very desirable."
+   ],
+   "inference": "The deity's heels are depicted as highly attractive.",
+   "uncertainties": [],
+   "plain_english": "He bears a very desirable charm well upon his right and left heels."
+  },
+  {
+   "verse": 11108,
+   "rows": [
+    {
+     "surface": "pūtanā+śakaṭa+ādīnāṃ",
+     "gloss": "putana-cart-and-others",
+     "grounds": "compound listing demons and obstacles",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vināśāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kṛtodyamam",
+     "gloss": "made-effort",
+     "grounds": "bahuvrīhi compound indicating readiness for action",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What purpose drives the deity's readiness for action here?",
+   "premises": [
+    "The deity has made effort.",
+    "The effort is for the destruction of Putana, the cart, and others."
+   ],
+   "inference": "The deity is prepared to destroy demonic forces.",
+   "uncertainties": [],
+   "plain_english": "He is ready and making effort for the destruction of Putana, the cart, and others."
+  },
+  {
+   "verse": 11109,
+   "rows": [
+    {
+     "surface": "ākhaṇḍala+mukhaiḥ+devaiḥ",
+     "gloss": "indra-headed-gods",
+     "grounds": "compound indicating gods led by Indra",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sevitaṃ",
+     "gloss": "served",
+     "grounds": "past participle indicating being served",
+     "morph": "m.acc.sg.past.part.pass √sev"
+    },
+    {
+     "surface": "kāmatatparaiḥ",
+     "gloss": "desire-intent",
+     "grounds": "compound describing gods intent on their desires",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which beings attend upon the deity with focused intent?",
+   "premises": [
+    "The deity is served by gods headed by Indra.",
+    "These gods are intent on their desires."
+   ],
+   "inference": "Even desire-driven gods serve the deity.",
+   "uncertainties": [],
+   "plain_english": "He is served by the gods headed by Indra, who are intent on their desires."
+  },
+  {
+   "verse": 11110,
+   "rows": [
+    {
+     "surface": "prāgukta",
+     "gloss": "previously-mentioned",
+     "grounds": "compound referring to earlier instruction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-pedestal",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "imuṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hariṃ",
+     "gloss": "hari",
+     "grounds": "name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act √pūj with sam"
+    },
+    {
+     "surface": "prabhum",
+     "gloss": "lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where and how should the practitioner worship Lord Hari?",
+   "premises": [
+    "Hari is the lord to be worshipped.",
+    "Worship should be performed on the previously mentioned pedestal."
+   ],
+   "inference": "The practitioner must worship Hari on the prescribed pedestal.",
+   "uncertainties": [],
+   "plain_english": "One should worship this Lord Hari on the previously mentioned pedestal."
+  },
+  {
+   "verse": 11111,
+   "rows": [
+    {
+     "surface": "svāṅga+āvaraṇam",
+     "gloss": "own-limb-enclosure",
+     "grounds": "compound referring to enclosure of one's own limbs",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādyam",
+     "gloss": "first",
+     "grounds": "ordinal adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lokapālakaiḥ",
+     "gloss": "with-world-guardians",
+     "grounds": "instrumental indicating the second enclosure",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What are the first two enclosures in this worship sequence?",
+   "premises": [
+    "The first enclosure should be of one's own limbs.",
+    "The second enclosure should be with the world guardians."
+   ],
+   "inference": "The worship involves a sequence of enclosures starting with limbs and world guardians.",
+   "uncertainties": [],
+   "plain_english": "The first enclosure should be of one's own limbs, and the second with the world guardians."
+  },
+  {
+   "verse": 11112,
+   "rows": [
+    {
+     "surface": "melayitvā",
+     "gloss": "having-mixed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive √mel"
+    },
+    {
+     "surface": "su+naivedyaṃ",
+     "gloss": "good-food-offering",
+     "grounds": "compound denoting a fine food offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "absolutive indicating offering",
+     "morph": "absolutive √nived"
+    },
+    {
+     "surface": "prīṇayet",
+     "gloss": "one-should-please",
+     "grounds": "optative verb prescribing pleasing the deity",
+     "morph": "3.sg.opt.caus.act √prī"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the practitioner please the lord with offerings?",
+   "premises": [
+    "A good food offering should be mixed and offered.",
+    "This offering should be used to please the lord."
+   ],
+   "inference": "Offering prepared food is a means to please the deity.",
+   "uncertainties": [],
+   "plain_english": "Having mixed and offered a good food offering, one should please the lord."
+  },
+  {
+   "verse": 11113,
+   "rows": [
+    {
+     "surface": "śrīkṛṣṇaṃ",
+     "gloss": "shri-krishna",
+     "grounds": "name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā+upakaraṇaiḥ",
+     "gloss": "worship-implements",
+     "grounds": "compound denoting items used in worship",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective qualifying implements",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what materials should Shri Krishna be worshipped?",
+   "premises": [
+    "Shri Krishna should be worshipped.",
+    "Worship should use auspicious implements."
+   ],
+   "inference": "Proper worship of Shri Krishna requires auspicious implements.",
+   "uncertainties": [],
+   "plain_english": "One should worship Shri Krishna with auspicious worship implements."
+  },
+  {
+   "verse": 11114,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-body-end",
+     "grounds": "locative compound indicating time of death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṣṇu+sāyujyaṃ",
+     "gloss": "vishnu-union",
+     "grounds": "compound denoting union with Vishnu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "attains",
+     "grounds": "present verb indicating attainment",
+     "morph": "3.sg.pres.act √yā with pra"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "adverb indicating certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtī",
+     "gloss": "accomplished-one",
+     "grounds": "adjective describing the successful practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ultimate reward awaits the accomplished worshipper at death?",
+   "premises": [
+    "The accomplished one performs the worship.",
+    "At the end of the body, union with Vishnu is attained."
+   ],
+   "inference": "The worship leads certainly to union with Vishnu after death.",
+   "uncertainties": [],
+   "plain_english": "At the end of life, the accomplished one certainly attains union with Vishnu."
+  },
+  {
+   "verse": 11115,
+   "rows": [
+    {
+     "surface": "gavyaṃ",
+     "gloss": "cow-derived",
+     "grounds": "adjective qualifying curd",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "food offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedya",
+     "gloss": "one-should-offer",
+     "grounds": "gerundive or absolutive indicating offering",
+     "morph": "absolutive √nived"
+    },
+    {
+     "surface": "asmai",
+     "gloss": "to-him",
+     "grounds": "dative pronoun referring to the deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "guḍa+yuktam",
+     "gloss": "jaggery-mixed",
+     "grounds": "compound describing curd mixed with jaggery",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific food offering may be presented to the deity?",
+   "premises": [
+    "Cow-derived curd can be offered to him.",
+    "The curd may be mixed with jaggery."
+   ],
+   "inference": "Curd mixed with jaggery is an acceptable offering.",
+   "uncertainties": [],
+   "plain_english": "One should offer him cow-derived curd, or else curd mixed with jaggery."
+  },
+  {
+   "verse": 11116,
+   "rows": [
+    {
+     "surface": "aṣṭa+uttara+sahasraṃ",
+     "gloss": "eight-more-thousand",
+     "grounds": "compound numeral indicating 1008",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "compound denoting the primary mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "optative verb prescribing recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times must the root mantra be recited afterward?",
+   "premises": [
+    "The root mantra is to be chanted.",
+    "It should be chanted one thousand and eight times."
+   ],
+   "inference": "Recitation of the root mantra 1008 times is prescribed.",
+   "uncertainties": [],
+   "plain_english": "Then one should indeed chant the root mantra one thousand and eight times."
+  },
+  {
+   "verse": 11117,
+   "rows": [
+    {
+     "surface": "indra+ādi+deva+siddhaiḥ",
+     "gloss": "indra-and-other-god-siddhas",
+     "grounds": "compound listing divine beings and siddhas",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevitaṃ",
+     "gloss": "served",
+     "grounds": "past participle indicating being served",
+     "morph": "m.acc.sg.past.part.pass √sev"
+    },
+    {
+     "surface": "khacaraiḥ",
+     "gloss": "by-sky-movers",
+     "grounds": "instrumental indicating celestial beings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similarity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which celestial beings are described as serving the deity?",
+   "premises": [
+    "The deity is served by gods and siddhas led by Indra.",
+    "The deity is likewise served by sky-movers."
+   ],
+   "inference": "A wide range of celestial beings serve the deity.",
+   "uncertainties": [],
+   "plain_english": "He is served by gods and siddhas led by Indra, and likewise by sky-movers."
+  },
+  {
+   "verse": 11118,
+   "rows": [
+    {
+     "surface": "nīla+ambuvāha+sat+kānti+viśiṣṭa+aṅga+śriyaṃ",
+     "gloss": "blue-cloud-true-radiance-distinguished-limb-splendor",
+     "grounds": "compound describing bodily splendor like a blue cloud",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "lord",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is the nature of the lord's bodily radiance?",
+   "premises": [
+    "The lord has distinguished splendor of limbs.",
+    "This splendor has the true radiance of a blue cloud."
+   ],
+   "inference": "The lord's body radiates like a dark blue cloud.",
+   "uncertainties": [],
+   "plain_english": "The lord whose limbs possess the distinguished splendor and true radiance of a blue cloud."
+  },
+  {
+   "verse": 11119,
+   "rows": [
+    {
+     "surface": "udbhramat+bhrū+lataṃ",
+     "gloss": "trembling-eyebrow-creeper",
+     "grounds": "compound describing moving eyebrows like creepers",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "epithet of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padma+patra+āyata+īkṣaṇam",
+     "gloss": "lotus-petal-long-eyed",
+     "grounds": "compound describing eyes long like lotus petals",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the deity's eyebrows and eyes characterized visually?",
+   "premises": [
+    "The god has trembling eyebrow creepers.",
+    "The god has eyes long like lotus petals."
+   ],
+   "inference": "The deity's expressive features are likened to natural forms.",
+   "uncertainties": [],
+   "plain_english": "The god with trembling eyebrow creepers and eyes long like lotus petals."
+  },
+  {
+   "verse": 11120,
+   "rows": [
+    {
+     "surface": "pīta+vastra+dharaṃ",
+     "gloss": "yellow-garment-wearing",
+     "grounds": "compound describing attire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāru",
+     "gloss": "charming",
+     "grounds": "adverb or adjective qualifying adornment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktā+hāra+vibhūṣitam",
+     "gloss": "pearl-necklace-adorned",
+     "grounds": "compound describing adornment with pearl necklace",
+     "morph": "m.acc.sg.past.part.pass √bhūṣ with vi"
+    }
+   ],
+   "question": "What garments and ornaments adorn the deity in this form?",
+   "premises": [
+    "The deity wears a yellow garment.",
+    "The deity is charmingly adorned with a pearl necklace."
+   ],
+   "inference": "The deity is visualized in yellow garments and pearl ornaments.",
+   "uncertainties": [],
+   "plain_english": "He wears a yellow garment and is charmingly adorned with a pearl necklace."
+  },
+  {
+   "verse": 11121,
+   "rows": [
+    {
+     "surface": "alaṃkṛta+śarīraṃ",
+     "gloss": "adorned-body",
+     "grounds": "compound describing a decorated body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "piśaṅga+ambara+saṃvṛtam",
+     "gloss": "yellow-garment-covered",
+     "grounds": "compound describing being covered in yellow cloth",
+     "morph": "m.acc.sg.past.part.pass √vṛ with sam"
+    }
+   ],
+   "question": "How is the deity's body further described in terms of covering?",
+   "premises": [
+    "The deity has an adorned body.",
+    "The deity is covered in a yellow garment."
+   ],
+   "inference": "The deity's adorned form is clothed in yellow.",
+   "uncertainties": [],
+   "plain_english": "Him, with an adorned body, covered in a yellow garment."
+  },
+  {
+   "verse": 11122,
+   "rows": [
+    {
+     "surface": "kāma+bāṇa+praviddha+aṅgaṃ",
+     "gloss": "love-arrow-pierced-limbs",
+     "grounds": "compound indicating limbs pierced by arrows of love",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "veṇu+vādana+tatparam",
+     "gloss": "flute-playing-intent",
+     "grounds": "compound indicating intent on playing the flute",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What emotional state and activity define the deity's current form?",
+   "premises": [
+    "The deity's limbs are pierced by the arrows of love.",
+    "The deity is intent on playing the flute."
+   ],
+   "inference": "The deity is depicted as a love-struck flute player.",
+   "uncertainties": [],
+   "plain_english": "His limbs pierced by the arrows of love, he is intent on playing the flute."
+  },
+  {
+   "verse": 11123,
+   "rows": [
+    {
+     "surface": "abhirāmataraṃ",
+     "gloss": "very-delightful",
+     "grounds": "comparative adjective indicating great delight",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣaṃ",
+     "gloss": "skillful",
+     "grounds": "adjective describing competence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ratna+śreṣṭham",
+     "gloss": "jewel-best",
+     "grounds": "compound indicating the best among jewels",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhīṣṭakam",
+     "gloss": "most-desired",
+     "grounds": "adjective indicating being greatly desired",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What supreme qualities make the deity the object of desire?",
+   "premises": [
+    "The deity is very delightful and skillful.",
+    "The deity is the best jewel and most desired."
+   ],
+   "inference": "The deity embodies supreme delight and desirability.",
+   "uncertainties": [],
+   "plain_english": "He is very delightful, skillful, the best of jewels, and most desired."
+  },
+  {
+   "verse": 11124,
+   "rows": [
+    {
+     "surface": "dāmādyaiḥ+aṅgakaiḥ",
+     "gloss": "garlands-and-other-limbs",
+     "grounds": "compound referring to garlands and other subsidiary parts",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣībhiḥ",
+     "gloss": "with-queens",
+     "grounds": "instrumental indicating consorts",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatparam",
+     "gloss": "thereafter",
+     "grounds": "adverb indicating sequence or devotion to that",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accompanying elements complete the deity's worship context?",
+   "premises": [
+    "The deity is accompanied by garlands and other subsidiary parts.",
+    "The deity is also accompanied by queens."
+   ],
+   "inference": "The deity's full form includes subsidiary elements and consorts.",
+   "uncertainties": [
+    "The exact referent of tatparam in this context is ambiguous."
+   ],
+   "plain_english": "Thereafter, he is accompanied by garlands and other subsidiary parts, and also by his queens."
+  }
+ ]
+}

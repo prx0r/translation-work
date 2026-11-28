@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "varadaṃpāśahastaṃ",
+     "gloss": "boon-noose-hand",
+     "grounds": "fused compound naming boon-giving, noose, and hand",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gadāṃbāṇadhvajau",
+     "gloss": "gada-arrow-flag",
+     "grounds": "fused compound naming mace, arrow, and flag in dual accusative",
+     "morph": "noun.acc.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb closing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which implements and gestures characterize the deity's form in this iconographic description?",
+   "premises": [
+    "The token varadaṃpāśahastaṃ names boon noose and hand.",
+    "The token gadāṃbāṇadhvajau names mace arrow and flag.",
+    "The conjunctions ca and tathā link these attributes."
+   ],
+   "inference": "The verse enumerates the deity's held implements and gestures.",
+   "uncertainties": [
+    "The exact syntactic role of the fused compound is not fully resolved."
+   ],
+   "plain_english": "Boon-noose-hand and mace-arrow-flag, thus."
+  }
+ ]
+}

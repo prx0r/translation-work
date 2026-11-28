@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of ritual action",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śubhāṃ",
+     "gloss": "auspicious",
+     "grounds": "quality of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-mutter-mantra",
+     "grounds": "fused form; recitation instruction",
+     "morph": "3.sg.opt-act √jap + m.acc.sg"
+    },
+    {
+     "surface": "munivrataḥ",
+     "gloss": "sage-vowed",
+     "grounds": "practitioner observing vows",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What ritual conduct must a vow-observing sage follow at night?",
+   "premises": [
+    "The time specified is night",
+    "Auspicious worship must be performed first",
+    "The sage-vowed practitioner should mutter the mantra"
+   ],
+   "inference": "A vow-observing sage should perform auspicious worship at night and then mutter the mantra.",
+   "uncertainties": [],
+   "plain_english": "At night, having performed auspicious worship, the sage who keeps vows should mutter the mantra."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "act of bestowal",
+     "morph": "3.sg.pres-act √dā"
+    },
+    {
+     "surface": "mantriṇe",
+     "gloss": "to-practitioner",
+     "grounds": "recipient of gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object bestowed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divyayogaṃ",
+     "gloss": "divine-union",
+     "grounds": "additional bestowal",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhidam",
+     "gloss": "accomplishment-giving",
+     "grounds": "quality of divine union",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "What benefits are bestowed upon the mantra practitioner?",
+   "premises": [
+    "A giver bestows something to the practitioner",
+    "The mantra is given",
+    "Divine union that grants accomplishment is also given"
+   ],
+   "inference": "The practitioner receives both the mantra and a divine union that grants accomplishment.",
+   "uncertainties": [
+    "The subject of dadāti is not explicitly named in this verse"
+   ],
+   "plain_english": "She gives the mantra to the practitioner, and also a divine union that grants accomplishment."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "māsam",
+     "gloss": "month",
+     "grounds": "duration of practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "specifies duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-mutter-mantra",
+     "grounds": "fused form; recitation instruction",
+     "morph": "3.sg.opt-act √jap + m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks subsequent time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual to begin",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "should-begin",
+     "grounds": "instruction to commence",
+     "morph": "3.sg.opt-act √sam-ā-rabh"
+    }
+   ],
+   "question": "What sequence of practice must follow one month of mantra recitation?",
+   "premises": [
+    "The mantra should be muttered for one month",
+    "After that period worship is to be undertaken",
+    "The practitioner should begin the worship then"
+   ],
+   "inference": "After muttering the mantra for one month, the practitioner should begin the worship.",
+   "uncertainties": [],
+   "plain_english": "One should mutter the mantra for one month, and then begin the worship."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of ritual",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √sam-abhi-arc"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-mutter-mantra",
+     "grounds": "fused form; recitation instruction",
+     "morph": "3.sg.opt-act √jap + m.acc.sg"
+    },
+    {
+     "surface": "prasannadhīḥ",
+     "gloss": "pleased-mind",
+     "grounds": "mental state of practitioner",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "In what mental state should the practitioner recite the mantra after night worship?",
+   "premises": [
+    "The goddess is worshipped at night",
+    "The mantra is muttered afterward",
+    "The practitioner should have a pleased mind"
+   ],
+   "inference": "After worshipping the goddess at night, the practitioner should mutter the mantra with a pleased mind.",
+   "uncertainties": [],
+   "plain_english": "At night, having worshipped the goddess, one should mutter the mantra with a pleased mind."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "rasaṃ",
+     "gloss": "mercury",
+     "grounds": "ritual substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rasāyanaṃ",
+     "gloss": "elixir",
+     "grounds": "alchemical preparation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "quality of elixir",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastrālaṅkaraṇāni",
+     "gloss": "garments-ornaments",
+     "grounds": "offerings or items",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances and items are prepared for the ritual offering?",
+   "premises": [
+    "Mercury is included",
+    "A divine elixir is included",
+    "Garments and ornaments are included"
+   ],
+   "inference": "The ritual preparation includes mercury, a divine elixir, and garments and ornaments.",
+   "uncertainties": [
+    "The syntactic role of these items continues into the next verse"
+   ],
+   "plain_english": "Mercury, a divine elixir, and garments and ornaments."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-arranged",
+     "grounds": "preparatory action",
+     "morph": "(gerund) √vi-dhā"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt-act √pūj"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrāyutaṃ",
+     "gloss": "mantra-ten-thousand",
+     "grounds": "number of recitations",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "recitation instruction",
+     "morph": "3.sg.opt-act √jap"
+    }
+   ],
+   "question": "What worship and recitation must follow the ritual preparations?",
+   "premises": [
+    "The prepared items must be arranged",
+    "The goddess should be worshipped",
+    "The mantra should be muttered ten thousand times"
+   ],
+   "inference": "After arranging the items, one should worship the goddess and then mutter the mantra ten thousand times.",
+   "uncertainties": [],
+   "plain_english": "Having arranged them, one should worship the goddess and then mutter the mantra ten thousand times."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "ardharātre",
+     "gloss": "midnight",
+     "grounds": "specific time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gate",
+     "gloss": "having-passed",
+     "grounds": "time condition",
+     "morph": "m.loc.sg (past-part) √gam"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "agent of giving",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīnārāṇāṃ",
+     "gloss": "of-dinars",
+     "grounds": "type of wealth",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "quantity given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What gift does the goddess bestow when midnight has passed?",
+   "premises": [
+    "The time is after midnight",
+    "The goddess is the giver",
+    "A thousand dinars are given"
+   ],
+   "inference": "After midnight has passed, the goddess gives a thousand dinars.",
+   "uncertainties": [],
+   "plain_english": "When midnight has passed, the goddess gives a thousand dinars."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "tadvyayābhāvato",
+     "gloss": "from-that-spending-absence",
+     "grounds": "condition of non-expenditure",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "withheld action",
+     "morph": "3.sg.pres-act √dā"
+    },
+    {
+     "surface": "prakupyati",
+     "gloss": "becomes-angry",
+     "grounds": "goddess's reaction",
+     "morph": "3.sg.pres-act √pra-kup"
+    }
+   ],
+   "question": "What consequence follows if the received wealth is not spent?",
+   "premises": [
+    "The wealth may not be spent",
+    "The goddess does not give again in that case",
+    "The goddess becomes angry"
+   ],
+   "inference": "If the wealth is not spent, the goddess does not give again and becomes angry.",
+   "uncertainties": [],
+   "plain_english": "If that wealth is not spent, she does not give again and becomes angry."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "māsam",
+     "gloss": "month",
+     "grounds": "duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "specifies duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nidhiṃ",
+     "gloss": "treasure",
+     "grounds": "object revealed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "darśayati",
+     "gloss": "shows",
+     "grounds": "act of revelation",
+     "morph": "3.sg.pres-act √dṛś-caus"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assurance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What revelation does the goddess grant after one month of continued practice?",
+   "premises": [
+    "One month passes",
+    "The goddess acts afterward",
+    "She certainly shows a treasure"
+   ],
+   "inference": "After one month, the goddess certainly reveals a treasure.",
+   "uncertainties": [],
+   "plain_english": "Then, after one month, the goddess certainly shows a treasure."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "pratipattithim",
+     "gloss": "first-lunar-day",
+     "grounds": "starting point of observance",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "marks commencement",
+     "morph": "(gerund) √ā-rabh"
+    },
+    {
+     "surface": "dhūpadīpādibhir",
+     "gloss": "with-incense-lamp-etc",
+     "grounds": "worship materials",
+     "morph": "compound m/n.inst.pl"
+    },
+    {
+     "surface": "varām",
+     "gloss": "excellent-one",
+     "grounds": "epithet of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "From what lunar day and with what offerings should the excellent goddess be worshipped?",
+   "premises": [
+    "The observance begins from the first lunar day",
+    "Incense, lamps, and other items are used",
+    "The excellent goddess is the object of worship"
+   ],
+   "inference": "Beginning from the first lunar day, one should worship the excellent goddess with incense, lamps, and other offerings.",
+   "uncertainties": [
+    "The main verb continues in the next verse"
+   ],
+   "plain_english": "Beginning from the first lunar day, worshipping the excellent goddess with incense, lamps, and so on."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "māsam",
+     "gloss": "month",
+     "grounds": "duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "specifies duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual action",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "punarjapet",
+     "gloss": "again-should-mutter",
+     "grounds": "fused form; renewed recitation",
+     "morph": "(indecl.) + 3.sg.opt-act √jap"
+    }
+   ],
+   "question": "What practice must be repeated at night for one month after beginning on the first lunar day?",
+   "premises": [
+    "The practice continues for one month",
+    "Worship is performed at night",
+    "The mantra should be muttered again"
+   ],
+   "inference": "For one month, one should perform worship at night and mutter the mantra again.",
+   "uncertainties": [],
+   "plain_english": "Then, for one month, having performed worship at night, one should mutter the mantra again."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "dīnārāṇāṃ",
+     "gloss": "of-dinars",
+     "grounds": "type of wealth",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sahasraikaṃ",
+     "gloss": "thousand-one",
+     "grounds": "quantity given daily",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritoṣitā",
+     "gloss": "satisfied",
+     "grounds": "state of goddess",
+     "morph": "f.nom.sg (past-part) √pari-tuṣ-caus"
+    }
+   ],
+   "question": "What daily reward does the satisfied goddess grant to the practitioner?",
+   "premises": [
+    "The goddess is satisfied",
+    "A thousand dinars are involved",
+    "The giving occurs every day"
+   ],
+   "inference": "When satisfied, the goddess grants one thousand dinars every day.",
+   "uncertainties": [
+    "The verb of giving is implied from context"
+   ],
+   "plain_english": "When satisfied, she gives one thousand dinars every day."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "movement to location",
+     "morph": "(gerund) √gam"
+    },
+    {
+     "surface": "pakṣigṛhaṃ",
+     "gloss": "bird-house",
+     "grounds": "ritual location",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nakhakeśaiḥ",
+     "gloss": "with-nail-hair",
+     "grounds": "offerings used",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt-act √pra-pūj"
+    }
+   ],
+   "question": "Where and with what materials should the practitioner perform worship?",
+   "premises": [
+    "The practitioner goes to a bird house",
+    "Nails and hair are used as materials",
+    "The practitioner should perform worship"
+   ],
+   "inference": "The practitioner should go to a bird house and worship using nails and hair.",
+   "uncertainties": [],
+   "plain_english": "Having gone to a bird house, the practitioner should worship with nails and hair."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "āvartayet",
+     "gloss": "should-repeat",
+     "grounds": "recitation instruction",
+     "morph": "3.sg.opt-act √ā-vṛt-caus"
+    },
+    {
+     "surface": "ekacitto",
+     "gloss": "one-pointed-mind",
+     "grounds": "mental focus",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "susaṃyataḥ",
+     "gloss": "well-restrained",
+     "grounds": "disciplined state",
+     "morph": "m.nom.sg (past-part) √sam-yam"
+    }
+   ],
+   "question": "In what mental and disciplined condition must the practitioner repeat the mantra?",
+   "premises": [
+    "The practitioner repeats the mantra",
+    "The practitioner must be one-pointed in mind",
+    "The practitioner must be well restrained"
+   ],
+   "inference": "The practitioner should repeat the mantra with one-pointed mind and full restraint.",
+   "uncertainties": [],
+   "plain_english": "The practitioner, one-pointed in mind and well restrained, should repeat the mantra."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "dinatrayam",
+     "gloss": "day-three",
+     "grounds": "duration of observance",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "anāhārī",
+     "gloss": "without-food",
+     "grounds": "fasting condition",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "somasūryagrahe",
+     "gloss": "moon-sun-eclipse",
+     "grounds": "astrological occasion",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative condition",
+     "morph": "m.loc.sg (pres-part) √as"
+    }
+   ],
+   "question": "Under what astrological condition and for how long must the practitioner fast?",
+   "premises": [
+    "The duration is three days",
+    "The practitioner abstains from food",
+    "The occasion is a lunar or solar eclipse"
+   ],
+   "inference": "During a lunar or solar eclipse, the practitioner must fast for three days.",
+   "uncertainties": [],
+   "plain_english": "During a lunar or solar eclipse, one should remain without food for three days."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasannā",
+     "gloss": "pleased",
+     "grounds": "state of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yacchati",
+     "gloss": "gives",
+     "grounds": "act of bestowal",
+     "morph": "3.sg.pres-act √yam"
+    },
+    {
+     "surface": "añjanam",
+     "gloss": "collyrium",
+     "grounds": "object bestowed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "quality of collyrium",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What gift does the pleased goddess bestow after the eclipse observance?",
+   "premises": [
+    "The goddess becomes pleased",
+    "She gives something to the practitioner",
+    "The gift is a supreme collyrium"
+   ],
+   "inference": "When pleased, the goddess gives the supreme collyrium.",
+   "uncertainties": [],
+   "plain_english": "Then, pleased, that goddess gives the supreme collyrium."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "vaṭavṛkṣatale",
+     "gloss": "banyan-tree-base",
+     "grounds": "ritual location",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "candanena",
+     "gloss": "with-sandalwood",
+     "grounds": "material used",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sumaṇḍalam",
+     "gloss": "beautiful-circle",
+     "grounds": "ritual diagram",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Where and with what material must the ritual circle be prepared?",
+   "premises": [
+    "The location is at the base of a banyan tree",
+    "A beautiful circle is made",
+    "Sandalwood is used to make it"
+   ],
+   "inference": "At the base of a banyan tree, one should make a beautiful circle with sandalwood.",
+   "uncertainties": [],
+   "plain_english": "At the base of a banyan tree, having made a beautiful circle with sandalwood."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "śaśamāṃsaṃ",
+     "gloss": "hare-meat",
+     "grounds": "ritual offering",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvartayet",
+     "gloss": "should-repeat",
+     "grounds": "recitation instruction",
+     "morph": "3.sg.opt-act √ā-vṛt-caus"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings accompany the mantra repetition at the prepared circle?",
+   "premises": [
+    "Hare meat, ghee, and milk are present",
+    "The mantra should be repeated",
+    "This follows the preparation of the circle"
+   ],
+   "inference": "One should repeat the mantra in connection with offerings of hare meat, ghee, and milk.",
+   "uncertainties": [
+    "The exact ritual use of the offerings is not fully specified"
+   ],
+   "plain_english": "Then one should repeat the mantra with hare meat, ghee, and milk."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "arrival of goddess",
+     "morph": "(gerund) √ā-gam"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "habitual or emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object bestowed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "añjanam",
+     "gloss": "collyrium",
+     "grounds": "object bestowed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "quality of collyrium",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the goddess bestow upon coming to the practitioner?",
+   "premises": [
+    "The goddess comes to the practitioner",
+    "She gives the mantra",
+    "She gives the supreme collyrium"
+   ],
+   "inference": "Upon coming, the goddess bestows the mantra and the supreme collyrium on him.",
+   "uncertainties": [
+    "The role of sadā is somewhat ambiguous in this context"
+   ],
+   "plain_english": "Then, having come, she gives him the mantra and the supreme collyrium."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "śaṅkhaliptapaṭe",
+     "gloss": "on-lac-smeared-cloth",
+     "grounds": "surface for image",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "yasmād",
+     "gloss": "because",
+     "grounds": "causal connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object depicted or worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gaurīṃ",
+     "gloss": "Gaurī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhṛtotpalām",
+     "gloss": "holding-lotus",
+     "grounds": "iconographic attribute",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess Gaurī depicted on the lac-smeared cloth?",
+   "premises": [
+    "The surface is a lac-smeared cloth",
+    "The goddess depicted is Gaurī",
+    "She is holding a lotus"
+   ],
+   "inference": "On a lac-smeared cloth, the goddess Gaurī is depicted holding a lotus.",
+   "uncertainties": [
+    "The function of yasmād is unclear without broader context"
+   ],
+   "plain_english": "On a lac-smeared cloth, the goddess Gaurī holding a lotus."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "jātīpuṣpaiḥ",
+     "gloss": "with-jasmine-flowers",
+     "grounds": "worship materials",
+     "morph": "compound n.inst.pl"
+    },
+    {
+     "surface": "prapūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √pra-pūj"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parivartayet",
+     "gloss": "should-repeat",
+     "grounds": "recitation instruction",
+     "morph": "3.sg.opt-act √pari-vṛt-caus"
+    }
+   ],
+   "question": "What worship and recitation must be performed before the goddess appears?",
+   "premises": [
+    "Worship is performed with jasmine flowers",
+    "The mantra is repeated afterward",
+    "The repetition is done a thousand times"
+   ],
+   "inference": "After worshipping with jasmine flowers, one should repeat the mantra a thousand times.",
+   "uncertainties": [],
+   "plain_english": "Then, having worshipped with jasmine flowers, one should repeat the mantra a thousand times."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "ardharātre",
+     "gloss": "midnight",
+     "grounds": "specific time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gate",
+     "gloss": "having-passed",
+     "grounds": "time condition",
+     "morph": "m.loc.sg (past-part) √gam"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāgatya",
+     "gloss": "having-come",
+     "grounds": "arrival",
+     "morph": "(gerund) √sam-ā-gam"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "gives",
+     "grounds": "act of bestowal",
+     "morph": "3.sg.pres-act √pra-yam"
+    }
+   ],
+   "question": "What action does the goddess take after arriving at midnight?",
+   "premises": [
+    "Midnight has passed",
+    "The goddess comes",
+    "The goddess gives something"
+   ],
+   "inference": "After midnight has passed, the goddess comes and gives a boon.",
+   "uncertainties": [
+    "The object given is specified in the next verse"
+   ],
+   "plain_english": "When midnight has passed, the goddess comes and gives."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "object of wish",
+     "morph": "n.acc.sg (past-part) √vāñch"
+    },
+    {
+     "surface": "manasas",
+     "gloss": "of-mind",
+     "grounds": "source of desire",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mantrajñāya",
+     "gloss": "mantra-knower",
+     "grounds": "qualified recipient",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty asserted",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What assurance is given about the goddess granting the mantra knower's desire?",
+   "premises": [
+    "The goddess gives what is desired by the mind",
+    "The recipient is a knower of the mantra",
+    "There is no doubt about this"
+   ],
+   "inference": "The goddess grants the mantra knower his heart's desire without doubt.",
+   "uncertainties": [],
+   "plain_english": "She gives to that knower of the mantra what his mind desires; there is no doubt."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "uḍḍāmareśvaratantre",
+     "gloss": "in-uḍḍāmareśvara-tantra",
+     "grounds": "textual location",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "yakṣiṇīpaṭalaḥ",
+     "gloss": "yakṣiṇī-chapter",
+     "grounds": "section title",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Uḍḍāmareśvara Tantra concludes at this point?",
+   "premises": [
+    "The text is the Uḍḍāmareśvara Tantra",
+    "The section concerns the yakṣiṇī",
+    "This is the ninth chapter"
+   ],
+   "inference": "This marks the ninth chapter, the yakṣiṇī chapter, in the Uḍḍāmareśvara Tantra.",
+   "uncertainties": [],
+   "plain_english": "In the Uḍḍāmareśvara Tantra, this is the ninth chapter, the chapter on the yakṣiṇī."
+  }
+ ]
+}

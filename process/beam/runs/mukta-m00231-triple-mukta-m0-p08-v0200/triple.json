@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "pūjāphalaṃ",
+     "gloss": "worship-fruit",
+     "grounds": "compound pūjā+phalam in accusative object position",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāpnoti",
+     "gloss": "obtain",
+     "grounds": "finite verb, third person singular active present",
+     "morph": "3.sg.act.pres+root āp"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative object of pratipadyate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratipadyate",
+     "gloss": "attain",
+     "grounds": "finite verb, third person singular middle present",
+     "morph": "3.sg.mid.pres+root pad"
+    }
+   ],
+   "question": "What consequence follows for one who fails to perform worship properly?",
+   "premises": [
+    "worship fruit is not obtained",
+    "hell is attained instead"
+   ],
+   "inference": "improper worship yields no fruit and leads to hell",
+   "uncertainties": [
+    "exact ritual fault is not specified in this verse"
+   ],
+   "plain_english": "One does not obtain the fruit of worship; instead one attains hell."
+  }
+ ]
+}

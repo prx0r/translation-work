@@ -1,0 +1,475 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 1988,
+   "rows": [
+    {
+     "surface": "dhana+dhānya+putra+pautra+yaśa+āyūṃṣi",
+     "gloss": "wealth-grain-son-grandson-fame-lifespans",
+     "grounds": "compound of possessions and relations; object of release",
+     "morph": "compound: dhana+dhānya+putra+pautra+yaśas+āyus; acc.pl.nt"
+    },
+    {
+     "surface": "muñcati",
+     "gloss": "releases",
+     "grounds": "states the act of letting go or losing",
+     "morph": "3.sg.pres.act √muc"
+    }
+   ],
+   "question": "What possessions are released by a person bound by attachment?",
+   "premises": [
+    "A person subject to attachment undergoes loss.",
+    "The items released include wealth, grain, offspring, fame, and lifespans."
+   ],
+   "inference": "Attachment leads to the relinquishment of material and familial possessions.",
+   "uncertainties": [],
+   "plain_english": "Such a person releases wealth, grain, sons, grandsons, fame, and lifespans."
+  },
+  {
+   "verse": 1989,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun indicating the possessor of attachment",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mamatā",
+     "gloss": "attachment",
+     "grounds": "sense of mine-ness or possessiveness",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "putra+pautra+gṛha+ādiṣu",
+     "gloss": "in-son-grandson-house-etc",
+     "grounds": "compound locating attachment in family and household",
+     "morph": "compound: putra+pautra+gṛha+ādi; loc.pl.m"
+    }
+   ],
+   "question": "In whom and toward what objects does possessive attachment arise?",
+   "premises": [
+    "The verse addresses the goddess directly.",
+    "It identifies a person who has attachment.",
+    "The attachment is directed toward sons, grandsons, house, and similar things."
+   ],
+   "inference": "Possessive attachment arises in a person toward family and household objects.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, indeed, this applies to one who has attachment to sons, grandsons, house, and so forth."
+  },
+  {
+   "verse": 1990,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universality of application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual purification act",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "mūla+matreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound specifying the mantra used for bathing",
+     "morph": "compound: mūla+mantra; inst.sg.m"
+    }
+   ],
+   "question": "By what means should ritual bathing be performed in all contexts?",
+   "premises": [
+    "Bathing is prescribed as a ritual act.",
+    "The prescription applies everywhere.",
+    "The bathing is performed with the root mantra."
+   ],
+   "inference": "Ritual bathing should be performed everywhere using the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Everywhere, bathing should be done with the root mantra."
+  },
+  {
+   "verse": 1991,
+   "rows": [
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment or application of the mantra",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What ritual step is being designated at this point in the procedure?",
+   "premises": [
+    "The term names a specific ritual act.",
+    "It functions as a procedural designation."
+   ],
+   "inference": "This marks the application stage of the ritual procedure.",
+   "uncertainties": [],
+   "plain_english": "This is the application."
+  },
+  {
+   "verse": 1992,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks completion of the preceding statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "vital-breaths",
+     "grounds": "object of establishment in ritual practice",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "pratiṣṭhāpya",
+     "gloss": "having-established",
+     "grounds": "prior action before invoking the goddess",
+     "morph": "gerund √prati-ṣṭhā (causative)"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "deity to be invoked",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "āvāhyet",
+     "gloss": "one-should-invoke",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √ā-vah"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence in the ritual",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions must precede the invocation of the goddess?",
+   "premises": [
+    "The vital breaths must first be established.",
+    "The establishment is completed before the next step.",
+    "After that, the goddess should be invoked."
+   ],
+   "inference": "One should establish the vital breaths and then invoke the goddess.",
+   "uncertainties": [],
+   "plain_english": "Thus, having established the vital breaths, one should then invoke the goddess."
+  },
+  {
+   "verse": 1993,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "offering-fee",
+     "grounds": "ritual gift given to the officiant or deity",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action before the next observance",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "acchidra+avadhāraṇaṃ",
+     "gloss": "unbroken-holding",
+     "grounds": "compound indicating uninterrupted concentration or observance",
+     "morph": "compound: acchidra+avadhāraṇa; acc.sg.nt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What observance should follow the giving of the ritual offering fee?",
+   "premises": [
+    "The offering fee is given first.",
+    "An unbroken holding is prescribed afterward.",
+    "The action is enjoined as a duty."
+   ],
+   "inference": "After giving the offering fee, one should maintain unbroken observance.",
+   "uncertainties": [],
+   "plain_english": "Then, having given the offering fee, one should maintain unbroken concentration."
+  },
+  {
+   "verse": 1994,
+   "rows": [
+    {
+     "surface": "tantrasāre",
+     "gloss": "in-tantrasara",
+     "grounds": "locates the statement within the text Tantrasāra",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal number of the chapter",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paricchedaḥ",
+     "gloss": "chapter",
+     "grounds": "sectional division of the text",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which chapter of the Tantrasāra concludes at this point?",
+   "premises": [
+    "The reference is to the Tantrasāra.",
+    "The chapter is identified by an ordinal number.",
+    "The ordinal given is third."
+   ],
+   "inference": "This marks the conclusion of the third chapter in the Tantrasāra.",
+   "uncertainties": [],
+   "plain_english": "This is the third chapter in the Tantrasāra."
+  },
+  {
+   "verse": 1995,
+   "rows": [
+    {
+     "surface": "śuddha+āsanaṃ",
+     "gloss": "pure-seat",
+     "grounds": "compound denoting a ritually purified seat",
+     "morph": "compound: śuddha+āsana; acc.sg.nt"
+    },
+    {
+     "surface": "samāsādya",
+     "gloss": "having-reached",
+     "grounds": "prior action of taking one's place",
+     "morph": "gerund √sam-ā-sad"
+    },
+    {
+     "surface": "bhūta+utsāraṇam",
+     "gloss": "element-expulsion",
+     "grounds": "compound naming the ritual removal of obstructing beings or elements",
+     "morph": "compound: bhūta+utsāraṇa; acc.sg.nt"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √ā-car"
+    }
+   ],
+   "question": "What preparatory ritual act must be performed after taking a pure seat?",
+   "premises": [
+    "A pure seat must first be reached.",
+    "The expulsion of elements is prescribed.",
+    "This act is to be performed by the practitioner."
+   ],
+   "inference": "After taking a pure seat, one should perform the expulsion of elements.",
+   "uncertainties": [],
+   "plain_english": "Having taken a pure seat, one should perform the expulsion of obstructing elements."
+  },
+  {
+   "verse": 1996,
+   "rows": [
+    {
+     "surface": "baddha+padma+āsanaḥ",
+     "gloss": "bound-lotus-seated",
+     "grounds": "compound describing the practitioner's posture",
+     "morph": "compound: baddha+padma+āsana; nom.sg.m"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "the ritual agent skilled in mantras",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samāhita+jita+indriyaḥ",
+     "gloss": "composed-conquered-senses",
+     "grounds": "compound describing mental composure and sensory restraint",
+     "morph": "compound: samāhita+jita+indriya; nom.sg.m"
+    }
+   ],
+   "question": "What posture and inner condition are required of the mantra practitioner?",
+   "premises": [
+    "The practitioner is identified as a mantra user.",
+    "The practitioner should be seated in the bound lotus posture.",
+    "The practitioner should be composed with senses subdued."
+   ],
+   "inference": "The mantra practitioner must be seated in lotus posture, composed, and sense-controlled.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner should be seated in the bound lotus posture, composed, and with senses subdued."
+  },
+  {
+   "verse": 1997,
+   "rows": [
+    {
+     "surface": "rātro",
+     "gloss": "at-night",
+     "grounds": "specifies the time of worship",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "ritual context of the rule",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the applicability of the rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the stated rule",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nimayaḥ",
+     "gloss": "rule",
+     "grounds": "prescribed regulation or restriction",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Does the previously stated rule apply to worship performed at night?",
+   "premises": [
+    "The context specified is worship at night.",
+    "A particular rule is being referred to.",
+    "The rule is explicitly negated in this context."
+   ],
+   "inference": "This rule does not apply to worship performed at night.",
+   "uncertainties": [
+    "The exact referent of 'this rule' depends on the immediately preceding context."
+   ],
+   "plain_english": "This rule does not apply to worship performed at night."
+  },
+  {
+   "verse": 1998,
+   "rows": [
+    {
+     "surface": "śiva+arcanam",
+     "gloss": "shiva-worship",
+     "grounds": "compound naming the worship of Śiva",
+     "morph": "compound: śiva+arcana; acc.sg.nt"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constant applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "required state of the practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "udaṅmukhaḥ",
+     "gloss": "facing-north",
+     "grounds": "compound specifying the practitioner's orientation",
+     "morph": "compound: udak+mukha; nom.sg.m"
+    }
+   ],
+   "question": "How and in what state should Śiva worship always be performed?",
+   "premises": [
+    "Śiva worship is to be performed always.",
+    "The practitioner must be pure.",
+    "The practitioner must face north."
+   ],
+   "inference": "One should always perform Śiva worship in purity while facing north.",
+   "uncertainties": [],
+   "plain_english": "One should always perform Śiva worship in this way, being pure and facing north."
+  },
+  {
+   "verse": 1999,
+   "rows": [
+    {
+     "surface": "śakti+dvayaṃ",
+     "gloss": "power-pair",
+     "grounds": "compound referring to two śaktis",
+     "morph": "compound: śakti+dvaya; acc.sg.nt"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the prohibition to another pair",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya+dvayam",
+     "gloss": "sun-pair",
+     "grounds": "compound referring to two suns or solar forms",
+     "morph": "compound: sūrya+dvaya; acc.sg.nt"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "specifies the location of the prohibited act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction, here negated",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "Which pairs of deities must not be worshipped together in one place?",
+   "premises": [
+    "A pair of śaktis is mentioned.",
+    "A pair of suns is mentioned likewise.",
+    "Worshipping them in one place is prohibited."
+   ],
+   "inference": "One should not worship a pair of śaktis or a pair of suns together in one place.",
+   "uncertainties": [
+    "The specific identities of the two śaktis and two suns are not specified in this verse."
+   ],
+   "plain_english": "One should not worship a pair of śaktis, nor likewise a pair of suns, in the same place."
+  }
+ ]
+}

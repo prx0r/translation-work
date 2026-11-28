@@ -1,0 +1,47 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "parāparañca",
+     "gloss": "supreme-inferior-and",
+     "grounds": "compound parā+para plus enclitic ca; sandhi shows a+ca as añca",
+     "morph": "compound (parā+para)+indecl."
+    },
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "northwest",
+     "grounds": "directional adjective in locative feminine singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "gurupatnīñca",
+     "gloss": "guru's-wife-and",
+     "grounds": "compound guru+patnī plus enclitic ca; sandhi shows ī+ca as īñca",
+     "morph": "f.nom.sg+indecl."
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "middle",
+     "grounds": "locative form indicating middle position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In this ritual layout, where are parāpara, the northwest, and the guru's wife situated?",
+   "premises": [
+    "parāpara is listed first",
+    "vāyavyāṃ denotes northwest direction",
+    "gurupatnīñca adds guru's wife",
+    "madhyame indicates middle placement"
+   ],
+   "inference": "The verse enumerates ritual placements including parāpara, northwest, guru's wife, and middle.",
+   "uncertainties": [
+    "case roles of listed items remain uncertain",
+    "exact ritual referent of parāpara is unclear"
+   ],
+   "plain_english": "Parāpara, the northwest, the guru's wife, and the middle are named."
+  }
+ ]
+}

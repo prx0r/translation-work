@@ -1,0 +1,946 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative of hṛdaya",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "meditating",
+     "grounds": "absolutive of dhyā",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "possessive adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "should-contemplate",
+     "grounds": "optative of paricint",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should the practitioner contemplate after meditating on the body in the heart?",
+   "premises": [
+    "meditation precedes contemplation",
+    "the body is contemplated as one's own",
+    "the heart is the locus"
+   ],
+   "inference": "The rite moves from inward meditation to contemplation of one's own body.",
+   "uncertainties": [
+    "exact ritual referent of dehaṃ"
+   ],
+   "plain_english": "Meditating in the heart, one should contemplate one's own body."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative of vinyas",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "paścān",
+     "gloss": "afterwards",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrārthaṃ",
+     "gloss": "mantra-meaning",
+     "grounds": "compound object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "saṃsmaran",
+     "gloss": "remembering",
+     "grounds": "present participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What does the wise practitioner place after remembering the mantra's meaning?",
+   "premises": [
+    "placement follows remembrance",
+    "the mantra meaning is recalled",
+    "the wise one acts"
+   ],
+   "inference": "The practitioner places the mantra meaning after recollection.",
+   "uncertainties": [
+    "what exactly is placed"
+   ],
+   "plain_english": "Afterwards the wise one, remembering the mantra's meaning, should place it."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svamantra",
+     "gloss": "own-mantra",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ṛṣyādi",
+     "gloss": "ṛṣi-etc",
+     "grounds": "compound list",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "placement",
+     "grounds": "compound member",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pūrvakam",
+     "gloss": "with-prior",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "respectfully",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner perform nyāsa with ṛṣi and other elements after his own mantra?",
+   "premises": [
+    "nyāsa follows the mantra",
+    "ṛṣi and related elements are included",
+    "respectful performance is required"
+   ],
+   "inference": "The rite requires respectful nyāsa preceded by the mantra's ṛṣi sequence.",
+   "uncertainties": [
+    "exact nyāsa components"
+   ],
+   "plain_english": "Afterwards, with one's own mantra, ṛṣi and the rest, nyāsa should be done respectfully."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "tattīrthaṃ",
+     "gloss": "that-tīrtha",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mudrayā",
+     "gloss": "with-mudrā",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "dhenusaṃjñayā",
+     "gloss": "cow-named",
+     "grounds": "instrumental adjective",
+     "morph": "adj.inst.sg.f"
+    }
+   ],
+   "question": "Which mudrā names the tīrtha as a cow in this placement?",
+   "premises": [
+    "the tīrtha is named",
+    "the mudrā is instrumental",
+    "the name is cow"
+   ],
+   "inference": "The tīrtha is designated by the cow-named mudrā.",
+   "uncertainties": [
+    "ritual identity of tīrtha"
+   ],
+   "plain_english": "That tīrtha is placed with the mudrā named cow."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "meditating",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "taccaraṇasṛsru",
+     "gloss": "that-foot-stream",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What stream should be meditated upon in this tīrtha rite?",
+   "premises": [
+    "meditation precedes action",
+    "the stream is connected to that foot",
+    "the object is accusative"
+   ],
+   "inference": "The practitioner meditates on the stream from that foot.",
+   "uncertainties": [
+    "exact referent of that foot"
+   ],
+   "plain_english": "Meditating on that foot-stream."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantrī",
+     "grounds": "nominative agent",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "sandhyādikāṃ",
+     "gloss": "sandhyā-etc",
+     "grounds": "adjective accusative",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kriyām",
+     "gloss": "action",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What action should the mantrī perform after the preceding meditation?",
+   "premises": [
+    "the mantrī is agent",
+    "the action is sandhyā and related",
+    "optative expresses prescription"
+   ],
+   "inference": "The mantrī should perform sandhyā and related rites.",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "The mantrī should perform sandhyā and related actions."
+  },
+  {
+   "verse": 757,
+   "rows": [
+    {
+     "surface": "mūlamanuṃ",
+     "gloss": "root-mantra",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tvaṣṭāviṃśati",
+     "gloss": "twenty-eight",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "pramitaṃ",
+     "gloss": "measured",
+     "grounds": "past participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times is the root mantra measured for recitation here?",
+   "premises": [
+    "root mantra is object",
+    "twenty-eight is the measure",
+    "then indicates sequence"
+   ],
+   "inference": "The root mantra is recited twenty-eight times.",
+   "uncertainties": [
+    "whether pramitaṃ means counted or limited"
+   ],
+   "plain_english": "Then the root mantra, measured as twenty-eight."
+  },
+  {
+   "verse": 758,
+   "rows": [
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalaśamudrayā",
+     "gloss": "kalasha-mudrā",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "Where and with what mudrā is the kalasha placed likewise?",
+   "premises": [
+    "head is locus",
+    "likewise indicates repetition",
+    "kalasha mudrā is instrumental"
+   ],
+   "inference": "The kalasha mudrā is applied on the head in the same manner.",
+   "uncertainties": [
+    "exact ritual object"
+   ],
+   "plain_english": "Likewise on the head with the kalasha mudrā."
+  },
+  {
+   "verse": 759,
+   "rows": [
+    {
+     "surface": "tripurādevi",
+     "gloss": "tripurā-devi",
+     "grounds": "vocative or nominative deity",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "first person plural verb",
+     "morph": "v.1.pl"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "īrayet",
+     "gloss": "should-utter",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What word should be uttered in the Tripurā devi gāyatrī formula?",
+   "premises": [
+    "Tripurā devi is addressed",
+    "vidmahe is part of formula",
+    "padam is the word to utter"
+   ],
+   "inference": "The formula includes vidmahe and the word to be uttered.",
+   "uncertainties": [
+    "full mantra wording"
+   ],
+   "plain_english": "Tripurā devi, we know; the word should be uttered."
+  },
+  {
+   "verse": 760,
+   "rows": [
+    {
+     "surface": "ityabhidhāya",
+     "gloss": "thus",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "klinne",
+     "gloss": "moist",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "should-impel",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should be said after the formula, and what should be impelled?",
+   "premises": [
+    "thus concludes prior formula",
+    "then introduces next speech",
+    "moist is a qualifier",
+    "pracodayāt is impulsion"
+   ],
+   "inference": "After the formula, one should say the moist-related impulsion phrase.",
+   "uncertainties": [
+    "exact phrase klinne pracodayāt"
+   ],
+   "plain_english": "Having said thus, then one should say, moist, should impel."
+  },
+  {
+   "verse": 761,
+   "rows": [
+    {
+     "surface": "trailokyamohanāya",
+     "gloss": "three-worlds-charming",
+     "grounds": "dative purpose",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "īrayet",
+     "gloss": "should-utter",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "For what purpose is the word uttered in this gāyatrī formula?",
+   "premises": [
+    "three-worlds-charming is purpose",
+    "vidmahe is formula",
+    "padam is uttered"
+   ],
+   "inference": "The word is uttered for charming the three worlds.",
+   "uncertainties": [
+    "full mantra"
+   ],
+   "plain_english": "For charming the three worlds, thus we know; the word should be uttered."
+  },
+  {
+   "verse": 762,
+   "rows": [
+    {
+     "surface": "śrīhareḥ",
+     "gloss": "śrī-hari",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "sakalārthapradāyinī",
+     "gloss": "all-purposes-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is declared to be all-purposes-giving in this Hari-related formula?",
+   "premises": [
+    "Śrī Hari is genitive source",
+    "proktā means declared",
+    "sakalārthapradāyinī describes gāyatrī"
+   ],
+   "inference": "The gāyatrī declared by Śrī Hari gives all purposes.",
+   "uncertainties": [
+    "implicit gāyatrī"
+   ],
+   "plain_english": "Declared by Śrī Hari, all-purposes-giving."
+  },
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "ityabhidhāya",
+     "gloss": "thus",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaded",
+     "gloss": "should-say",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "rāmaḥ",
+     "gloss": "rāma",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "should-impel",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should be said at the end after the formula?",
+   "premises": [
+    "thus concludes prior formula",
+    "at-end marks position",
+    "rāmaḥ is subject",
+    "pracodayāt is impulsion"
+   ],
+   "inference": "At the end one should say Rāmaḥ pracodayāt.",
+   "uncertainties": [
+    "exact mantra context"
+   ],
+   "plain_english": "Having said thus, at the end one should say Rāmaḥ should impel."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "kāmadevāya",
+     "gloss": "to-kāmadeva",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    },
+    {
+     "surface": "puṣpabāṇāya",
+     "gloss": "flower-arrow",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "dhīmahi",
+     "gloss": "we-meditate",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    }
+   ],
+   "question": "To whom and on what attribute does this gāyatrī formula meditate?",
+   "premises": [
+    "Kāmadeva is dative recipient",
+    "vidmahe is knowing",
+    "flower-arrow is dative attribute",
+    "dhīmahi is meditation"
+   ],
+   "inference": "The formula meditates on Kāmadeva, the flower-arrowed one.",
+   "uncertainties": [
+    "full mantra"
+   ],
+   "plain_english": "To Kāmadeva we know, to the flower-arrowed one we meditate."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "sakalasiddhidā",
+     "gloss": "all-siddhi-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is declared to give all siddhis in this Kāmadeva formula?",
+   "premises": [
+    "gāyatrī is subject",
+    "proktā means declared",
+    "sakalasiddhidā describes it"
+   ],
+   "inference": "The gāyatrī gives all siddhis.",
+   "uncertainties": [
+    "source of declaration"
+   ],
+   "plain_english": "The gāyatrī is declared all-siddhi-giving."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "tanno",
+     "gloss": "that",
+     "grounds": "compound pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "should-impel",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "Who should impel the practitioner in this Rudra gāyatrī ending?",
+   "premises": [
+    "tat is object",
+    "Rudra is subject",
+    "pracodayāt is impulsion"
+   ],
+   "inference": "Rudra should impel that.",
+   "uncertainties": [
+    "exact referent of tat"
+   ],
+   "plain_english": "That, Rudra should impel."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    },
+    {
+     "surface": "mahājvālāya",
+     "gloss": "great-flame",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "dhīmahi",
+     "gloss": "we-meditate",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    }
+   ],
+   "question": "On what great flame does this gāyatrī formula meditate?",
+   "premises": [
+    "vidmahe is knowing",
+    "mahājvālāya is dative object",
+    "dhīmahi is meditation"
+   ],
+   "inference": "The formula meditates on the great flame.",
+   "uncertainties": [
+    "deity identity"
+   ],
+   "plain_english": "We know, on the great flame we meditate."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "sarvasamṛddhidā",
+     "gloss": "all-prosperity-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is declared to give all prosperity in this flame formula?",
+   "premises": [
+    "gāyatrī is subject",
+    "proktā means declared",
+    "sarvasamṛddhidā describes it"
+   ],
+   "inference": "The gāyatrī gives all prosperity.",
+   "uncertainties": [
+    "source of declaration"
+   ],
+   "plain_english": "The gāyatrī is declared all-prosperity-giving."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "pravadet",
+     "gloss": "should-say",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "tannaś",
+     "gloss": "that",
+     "grounds": "compound pronoun",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "caṇḍaḥ",
+     "gloss": "caṇḍa",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "should-impel",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should be said and who should impel in this Caṇḍa formula?",
+   "premises": [
+    "pravadet prescribes speech",
+    "tat is object",
+    "Caṇḍa is subject",
+    "pracodayāt is impulsion"
+   ],
+   "inference": "One should say that Caṇḍa should impel.",
+   "uncertainties": [
+    "exact phrase"
+   ],
+   "plain_english": "One should say, that, Caṇḍa should impel."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "divākarāya",
+     "gloss": "to-sun",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "dhīmahi",
+     "gloss": "we-meditate",
+     "grounds": "first person plural",
+     "morph": "v.1.pl"
+    }
+   ],
+   "question": "On whom does this sun gāyatrī formula meditate?",
+   "premises": [
+    "divākara is dative object",
+    "dhīmahi is meditation"
+   ],
+   "inference": "The formula meditates on the sun.",
+   "uncertainties": [
+    "full mantra"
+   ],
+   "plain_english": "On the sun we meditate."
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "samuddiṣṭā",
+     "gloss": "specified",
+     "grounds": "past participle",
+     "morph": "v.part"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "sarvasiddhidā",
+     "gloss": "all-siddhi-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is specified to give all siddhis in this sun formula?",
+   "premises": [
+    "samuddiṣṭā means specified",
+    "gāyatrī is subject",
+    "sarvasiddhidā describes it"
+   ],
+   "inference": "The specified gāyatrī gives all siddhis.",
+   "uncertainties": [
+    "source of specification"
+   ],
+   "plain_english": "The specified gāyatrī is all-siddhi-giving."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "tanmantradevatānāmnā",
+     "gloss": "by-mantra-deity-name",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-appoint",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "How should a gāyatrī be appointed for a mantra deity?",
+   "premises": [
+    "mantra deity name is instrumental",
+    "gāyatrī is object",
+    "there is locus",
+    "kalpayet prescribes appointment"
+   ],
+   "inference": "One should appoint a gāyatrī there by the mantra deity's name.",
+   "uncertainties": [
+    "exact appointment method"
+   ],
+   "plain_english": "By the mantra deity's name, one should appoint a gāyatrī there."
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "sūrya-āditya",
+     "gloss": "sun-āditya",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "etyaṣṭārṇena",
+     "gloss": "eight-syllabled",
+     "grounds": "instrumental",
+     "morph": "adj.inst.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānave",
+     "gloss": "to-bhānu",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    }
+   ],
+   "question": "What eight-syllabled mantra is used for the sun and Bhānu?",
+   "premises": [
+    "sūrya-āditya is subject",
+    "eight-syllabled is instrumental",
+    "bhānu is dative recipient"
+   ],
+   "inference": "An eight-syllabled mantra is used for Sūrya-Āditya and Bhānu.",
+   "uncertainties": [
+    "exact mantra syllables"
+   ],
+   "plain_english": "For Sūrya-Āditya, with an eight-syllabled mantra, and for Bhānu."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "dikpatīn",
+     "gloss": "dikpatis",
+     "grounds": "accusative object",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "bowing",
+     "grounds": "absolutive",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpam",
+     "gloss": "resolve",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "What should be done after bowing to the dikpatis?",
+   "premises": [
+    "dikpatis are bowed to",
+    "then marks sequence",
+    "resolve is object",
+    "ācaret prescribes action"
+   ],
+   "inference": "After bowing to the dikpatis, one should perform the resolve.",
+   "uncertainties": [
+    "content of resolve"
+   ],
+   "plain_english": "Bowing to the dikpatis, then one should perform the resolve."
+  }
+ ]
+}

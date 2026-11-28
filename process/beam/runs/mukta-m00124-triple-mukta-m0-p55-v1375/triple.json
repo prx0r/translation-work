@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "snāyāt",
+     "gloss": "should-bathe",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act.opt-pres + √snā"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣālayet",
+     "gloss": "should-wash",
+     "grounds": "optative verb expressing prescribed cleansing",
+     "morph": "3.sg.act.opt-pres + pra-√kṣal"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing the specification of regions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābherūrdhvamadhastathā",
+     "gloss": "from-navel-above-below-likewise",
+     "grounds": "fused form indicating regions above and below the navel; internal members nābheḥ, ūrdhvam, adhas, tathā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative forms of bodily purification are prescribed for regions above and below the navel?",
+   "premises": [
+    "Bathing is prescribed as one option.",
+    "Washing is prescribed as an alternative option.",
+    "The prescription applies to regions above and below the navel."
+   ],
+   "inference": "One should either bathe or wash, applying the purification likewise above and below the navel.",
+   "uncertainties": [
+    "The exact ritual distinction between snāyāt and prakṣālayet in this context is not fully specified."
+   ],
+   "plain_english": "One should either bathe or wash, doing so above and below the navel as well."
+  }
+ ]
+}

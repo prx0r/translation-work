@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "svastike",
+     "gloss": "in-svastika",
+     "grounds": "locative of svastika asana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-then",
+     "grounds": "disjunctive particle vā plus atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padme",
+     "gloss": "in-padma",
+     "grounds": "locative of padma asana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viset",
+     "gloss": "should-sit",
+     "grounds": "optative of root viś",
+     "morph": "3.sg.act.opt. + root viś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirākulam",
+     "gloss": "undisturbed",
+     "grounds": "adjective modifying the sitting",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which seated postures may the renunciant adopt for undisturbed practice?",
+   "premises": [
+    "svastika and padma are named asana options",
+    "the practitioner should sit there undisturbed",
+    "the choice is presented disjunctively"
+   ],
+   "inference": "The verse permits sitting in svastika or padma posture, in an undisturbed manner.",
+   "uncertainties": [
+    "svastika and padma are not defined in this verse",
+    "nirākulam may function adverbially rather than adjectivally"
+   ],
+   "plain_english": "He should sit there, in svastika or padma posture, undisturbed."
+  }
+ ]
+}

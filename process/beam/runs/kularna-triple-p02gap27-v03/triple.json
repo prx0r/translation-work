@@ -1,0 +1,632 @@
+{
+ "song": "kul-p02",
+ "items": [
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "indeclinable temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyavaikalyaṃ",
+     "gloss": "sense-impairment",
+     "grounds": "compound noun in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "indeclinable temporal correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "good",
+     "grounds": "neuter accusative of śreyas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.act.opt (samācar)"
+    }
+   ],
+   "question": "Why should good be practiced before sense-impairment arises?",
+   "premises": [
+    "sense-impairment has not yet occurred",
+    "good should be practiced meanwhile"
+   ],
+   "inference": "practice good while senses remain intact",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "As long as there is no impairment of the senses, one should practice the good."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "sukhaduḥkha",
+     "gloss": "pleasure-pain",
+     "grounds": "compound noun in nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rataḥ",
+     "gloss": "attached",
+     "grounds": "past participle of ram",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jantuḥ",
+     "gloss": "creature",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "present of vid",
+     "morph": "3.sg.act.prs (vid)"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "benefit",
+     "grounds": "neuter accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Why does a creature attached to pleasure and pain fail to know its own benefit?",
+   "premises": [
+    "creature is attached to pleasure-pain",
+    "such attachment obscures benefit"
+   ],
+   "inference": "attachment to pleasure and pain prevents knowing one's benefit",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "A creature attached to pleasure and pain does not know what benefits itself."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "lokaḥ",
+     "gloss": "world",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mohasurāṃ",
+     "gloss": "delusion-wine",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "gerund of pā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibheti",
+     "gloss": "fears",
+     "grounds": "present of bhī",
+     "morph": "3.sg.act.prs (bhī)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the world never fear after drinking delusion-wine?",
+   "premises": [
+    "world drinks delusion-wine",
+    "delusion removes fear"
+   ],
+   "inference": "delusion intoxicates the world into fearlessness",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The world, having drunk the wine of delusion, never fears."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "taḍit",
+     "gloss": "lightning-like",
+     "grounds": "indeclinable adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cañcala",
+     "gloss": "unsteady",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "life",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "whose",
+     "grounds": "interrogative genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.act.opt (as)"
+    },
+    {
+     "surface": "jagataḥ",
+     "gloss": "of-world",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "steadiness",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose life is as unsteady as lightning, and whose world has steadiness?",
+   "premises": [
+    "life is lightning-like and unsteady",
+    "worldly steadiness is questioned"
+   ],
+   "inference": "life is fleeting while worldly steadiness is doubtful",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Life is unsteady like lightning; whose world could have steadiness?"
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "bālya",
+     "gloss": "childhood",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "duḥkhaiḥ",
+     "gloss": "sufferings",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "arddhaṃ",
+     "gloss": "half",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How do childhood, disease, old age, and suffering make half of life fruitless?",
+   "premises": [
+    "childhood disease old age and suffering consume time",
+    "half of life becomes fruitless"
+   ],
+   "inference": "much of life is lost to affliction",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Childhood, disease, old age, and sufferings make even half of life fruitless."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "viśvastavyaḥ",
+     "gloss": "trusted",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhayasthāne",
+     "gloss": "in-fear-place",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghātakaiḥ",
+     "gloss": "by-killers",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanyate",
+     "gloss": "killed",
+     "grounds": "passive present of han",
+     "morph": "3.sg.pass.prs (han)"
+    }
+   ],
+   "question": "Why is one not killed by killers in a place of fear?",
+   "premises": [
+    "one is trusted in a fear-place",
+    "killers are present"
+   ],
+   "inference": "trust in danger does not prevent being killed",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Why is one not killed by killers in a place of fear?"
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "anitye",
+     "gloss": "in-impermanent",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "apriya",
+     "gloss": "unpleasant",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃsāre",
+     "gloss": "world",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "present of sthā",
+     "morph": "3.pl.act.prs (sthā)"
+    },
+    {
+     "surface": "nirbhayāḥ",
+     "gloss": "fearless",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How can the fearless stand in an impermanent and unpleasant world?",
+   "premises": [
+    "world is impermanent and unpleasant",
+    "fearless ones still stand there"
+   ],
+   "inference": "fearlessness in samsara is questioned",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "How do the fearless stand in an impermanent, unpleasant world?"
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "anarthaṃ",
+     "gloss": "harm",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthavijñānī",
+     "gloss": "wealth-knower",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svamṛtyuṃ",
+     "gloss": "own-death",
+     "grounds": "masculine accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "present of vid",
+     "morph": "3.sg.act.prs (vid)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can a wealth-knower not know his own death and harm?",
+   "premises": [
+    "wealth-knower knows wealth",
+    "he does not know own death"
+   ],
+   "inference": "worldly knowledge does not include mortality",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "A wealth-knower brings harm and does not know his own death."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "paṭhan",
+     "gloss": "reading",
+     "grounds": "present participle of paṭh",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "present of jñā",
+     "morph": "3.sg.act.prs (jñā)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vimohitaḥ",
+     "gloss": "deluded",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does one reading still not know because of your māyā?",
+   "premises": [
+    "one is reading",
+    "māyā deludes him"
+   ],
+   "inference": "study alone does not overcome delusion",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Even while reading, one does not know, deluded by your māyā."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "mṛtyu",
+     "gloss": "death",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jarā",
+     "gloss": "old-age",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grāhe",
+     "gloss": "grasp",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "anything",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhyati",
+     "gloss": "understands",
+     "grounds": "present of budh",
+     "morph": "3.sg.act.prs (budh)"
+    }
+   ],
+   "question": "Why does one understand nothing in the grasp of death, disease, and old age?",
+   "premises": [
+    "death disease and old age grasp one",
+    "understanding is lost"
+   ],
+   "inference": "mortality and affliction obscure understanding",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In the grasp of death, disease, and old age, one understands nothing at all."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "āmakumbha",
+     "gloss": "raw-pot",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ambhaḥsthaḥ",
+     "gloss": "water-situated",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśīrṇaḥ",
+     "gloss": "broken",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvyate",
+     "gloss": "is-thought",
+     "grounds": "passive present of bhū/bhāv",
+     "morph": "3.sg.pass.prs (bhāv)"
+    }
+   ],
+   "question": "Why is a broken raw pot in water not thought to endure?",
+   "premises": [
+    "raw pot in water is broken",
+    "it is not thought enduring"
+   ],
+   "inference": "fragile things in water are not expected to last",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Like a broken raw pot in water, it is not thought to endure."
+  }
+ ]
+}

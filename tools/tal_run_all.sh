@@ -42,7 +42,7 @@ json.dump(r,open('REGISTRY.json','w'),indent=1,ensure_ascii=False)
 PY
     python3 tools/manifest.py gen >/dev/null 2>&1
     git add -A ':!process/beam/queue.json' ':!process/beam/claims/*' ':!process/beam/runs/*' ':!ipvv/cm/beam/*' ':!process/beam/w*.log' 2>/dev/null
-    git commit -qm "TAL $a minimal gold (machine-proposed)" && git push -q origin master
+    git commit -qm "TAL $a minimal gold (machine-proposed)" && git push -q origin HEAD
     log "$a PASS — committed"
   else
     log "$a INCOMPLETE/BLOCKED (rc=$rc) — assessor needed"

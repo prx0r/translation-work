@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "vastrārtha+saṃyogam",
+     "gloss": "cloth-wealth-union",
+     "grounds": "compound accusative object; internal sandhi as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "abhīpsamānā",
+     "gloss": "desiring",
+     "grounds": "present participle modifying the subject",
+     "morph": "nom.sg.f (pres.part)"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive relation to family",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "family",
+     "grounds": "accusative destination",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "finite verb of motion",
+     "morph": "3.sg.act-pres (gam)"
+    },
+    {
+     "surface": "kanyakā+ādyā",
+     "gloss": "maiden-first",
+     "grounds": "fused sandhi form kept whole; subject phrase",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What desire drives a maiden and others to approach a teacher's family?",
+   "premises": [
+    "The subject desires cloth-wealth union.",
+    "The subject goes to the teacher's family.",
+    "The subject is a maiden and others."
+   ],
+   "inference": "Approach to the teacher's family is motivated by desire for cloth and wealth.",
+   "uncertainties": [
+    "Exact scope of kanyakā+ādyā beyond maiden-first is unclear.",
+    "Whether vastrārtha+saṃyogam is a single compound or fused phrase is unclear."
+   ],
+   "plain_english": "A maiden and others, desiring union of cloth and wealth, goes to the teacher's family."
+  }
+ ]
+}

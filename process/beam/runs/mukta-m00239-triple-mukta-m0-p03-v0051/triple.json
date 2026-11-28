@@ -1,0 +1,1216 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "tanmūlaṃ",
+     "gloss": "that-root",
+     "grounds": "compound tan+mūlaṃ",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "rocanāyuktaṃ",
+     "gloss": "rocanā-endowed",
+     "grounds": "compound rocanā+yuktaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tilakena",
+     "gloss": "by-tilaka",
+     "grounds": "instrumental tilaka",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "jagad+vaśam",
+     "gloss": "world-subjection",
+     "grounds": "compound jagad+vaśam",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What root substance combined with rocanā and tilaka brings the world under subjection?",
+   "premises": [
+    "tanmūlaṃ is the root",
+    "rocanāyuktaṃ qualifies it",
+    "tilakena applies it",
+    "jagad+vaśam is the result"
+   ],
+   "inference": "The root endowed with rocanā and applied as tilaka subjugates the world.",
+   "uncertainties": [
+    "rocanā unspecified"
+   ],
+   "plain_english": "That root, endowed with rocanā and applied as tilaka, brings the world under subjection."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "tāmbūlena",
+     "gloss": "by-betel",
+     "grounds": "instrumental tāmbūla",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive pradā",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "sarvaloka+vaśaṃkaram",
+     "gloss": "all-worlds-subjugating",
+     "grounds": "compound sarvaloka+vaśaṃkaram",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What must be given in betel to subjugate all worlds?",
+   "premises": [
+    "tāmbūlena means by betel",
+    "pradātavyaṃ means to be given",
+    "sarvaloka+vaśaṃkaram means all-worlds-subjugating"
+   ],
+   "inference": "The subjugating agent is to be given in betel.",
+   "uncertainties": [
+    "agent unspecified"
+   ],
+   "plain_english": "By betel, the all-worlds-subjugating thing is to be given."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "svarṇena",
+     "gloss": "by-gold",
+     "grounds": "instrumental svarṇa",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "veṣṭitaṃ",
+     "gloss": "wrapped",
+     "grounds": "past participle veṣṭ",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tena+eva",
+     "gloss": "by-that-very",
+     "grounds": "instrumental tena+eva",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "tilake",
+     "gloss": "tilaka",
+     "grounds": "locative tilaka",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "made",
+     "grounds": "locative kṛta",
+     "morph": "v.loc.sg.n"
+    }
+   ],
+   "question": "How is the gold-wrapped tilaka prepared and applied?",
+   "premises": [
+    "svarṇena means by gold",
+    "veṣṭitaṃ means wrapped",
+    "kṛtvā means having made",
+    "tena+eva means by that very",
+    "tilake means in tilaka",
+    "kṛte means made"
+   ],
+   "inference": "Having wrapped it in gold, one makes the tilaka with that very substance.",
+   "uncertainties": [
+    "it refers to prior substance"
+   ],
+   "plain_english": "Having wrapped it in gold, one makes the tilaka with that very substance."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative imaṃ",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "maṃtram",
+     "gloss": "mantra",
+     "grounds": "accusative maṃtra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "muktayogena",
+     "gloss": "mukta-yoga",
+     "grounds": "instrumental muktayoga",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "accusative sahasra",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "optative jap",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "nominative siddhi",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How many times should this mantra be chanted with mukta-yoga to attain success?",
+   "premises": [
+    "imaṃ maṃtram is this mantra",
+    "muktayogena is with mukta-yoga",
+    "sahasraṃ is thousand",
+    "japet is should chant",
+    "tataḥ is then",
+    "siddhiḥ is success"
+   ],
+   "inference": "Chanting this mantra a thousand times with mukta-yoga brings success.",
+   "uncertainties": [
+    "mukta-yoga unspecified"
+   ],
+   "plain_english": "One should chant this mantra a thousand times with mukta-yoga; then success follows."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "tatpūgaṃ",
+     "gloss": "that-betel",
+     "grounds": "compound tat+pūgaṃ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "khādyate",
+     "gloss": "is-eaten",
+     "grounds": "passive khād",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "instrumental yena",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "yāvajjīvaṃ",
+     "gloss": "as-long-as-life",
+     "grounds": "compound yāvat+jīvaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśībhavet",
+     "gloss": "subdued",
+     "grounds": "optative vaśībhū",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What happens to one who eats that betel for life?",
+   "premises": [
+    "tatpūgaṃ is that betel",
+    "khādyate is eaten",
+    "yena is by whom",
+    "yāvajjīvaṃ is as long as life",
+    "vaśībhavet is subdued"
+   ],
+   "inference": "Whoever eats that betel throughout life becomes subdued.",
+   "uncertainties": [
+    "subdued by whom"
+   ],
+   "plain_english": "Whoever eats that betel throughout life becomes subdued."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "nominative priya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present bhū",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive sarva",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "dṛṣṭamātre",
+     "gloss": "on-sight",
+     "grounds": "locative dṛṣṭamātra",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative saṃśaya",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What happens on mere sight of the practitioner?",
+   "premises": [
+    "priyo means dear",
+    "bhavati means becomes",
+    "sarveṣāṃ means of all",
+    "dṛṣṭamātre means on sight",
+    "na means no",
+    "saṃśayaḥ means doubt"
+   ],
+   "inference": "On mere sight, one becomes dear to all, without doubt.",
+   "uncertainties": [
+    "practitioner implied"
+   ],
+   "plain_english": "On mere sight, one becomes dear to all, without doubt."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "tāmbūle",
+     "gloss": "in-betel",
+     "grounds": "locative tāmbūla",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive pradā",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "vaśīkaraṇam",
+     "gloss": "subjugation",
+     "grounds": "accusative vaśīkaraṇa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "best",
+     "grounds": "nominative uttama",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is the best subjugation to be given in betel?",
+   "premises": [
+    "tāmbūle means in betel",
+    "vā means or",
+    "pradātavyaṃ means to be given",
+    "vaśīkaraṇam means subjugation",
+    "uttamam means best"
+   ],
+   "inference": "The best subjugation is to be given in betel.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "In betel, the best subjugation is to be given."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "mantra syllable oṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṅgalāyai",
+     "gloss": "to-piṅgalā",
+     "grounds": "dative piṅgalā",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "nominative namaḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental anena",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "maṃtreṇa",
+     "gloss": "mantra",
+     "grounds": "instrumental maṃtra",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-enchanted",
+     "grounds": "absolutive abhimantr",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "uktayogān",
+     "gloss": "said-yoga",
+     "grounds": "accusative uktayoga",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "optative sādh",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What mantra and procedure accomplish the said yoga?",
+   "premises": [
+    "oṃ piṅgalāyai namaḥ is the mantra",
+    "anena maṃtreṇa means by this mantra",
+    "abhimantrya means having enchanted",
+    "uktayogān means said yoga",
+    "sādhayet means accomplish"
+   ],
+   "inference": "Having enchanted with this mantra, one accomplishes the said yoga.",
+   "uncertainties": [
+    "uktayoga unspecified"
+   ],
+   "plain_english": "Having enchanted with this mantra, one accomplishes the said yoga."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "kṛṣṇapecikam",
+     "gloss": "black-owl",
+     "grounds": "compound kṛṣṇa+pecika",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "āhṛtya",
+     "gloss": "having-brought",
+     "grounds": "absolutive āhṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tattailena",
+     "gloss": "its-oil",
+     "grounds": "instrumental tat+taila",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "pradīpakam",
+     "gloss": "lamp",
+     "grounds": "accusative pradīpaka",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What is made from the black owl's oil?",
+   "premises": [
+    "kṛṣṇapecikam is black owl",
+    "āhṛtya is having brought",
+    "tattailena is its oil",
+    "pradīpakam is lamp"
+   ],
+   "inference": "Having brought the black owl, one makes a lamp from its oil.",
+   "uncertainties": [
+    "ritual use implied"
+   ],
+   "plain_english": "Having brought the black owl, one makes a lamp from its oil."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental tena",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "netrāñjanaṃ",
+     "gloss": "eye-anointing",
+     "grounds": "compound netra+añjana",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative trailokya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "subjection",
+     "grounds": "accusative vaśa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "bring",
+     "grounds": "optative ānī",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What does the eye-anointing made from that lamp bring?",
+   "premises": [
+    "tena means by that",
+    "netrāñjanaṃ means eye-anointing",
+    "kṛtvā means having made",
+    "trailokyaṃ means three worlds",
+    "vaśam means subjection",
+    "ānayet means bring"
+   ],
+   "inference": "Having made eye-anointing from that, one brings the three worlds under subjection.",
+   "uncertainties": [
+    "that refers to lamp"
+   ],
+   "plain_english": "Having made eye-anointing from that, one brings the three worlds under subjection."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "locative mukha",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "niḥkṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive niḥkṣip",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive sarva",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "nominative priya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present bhū",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "indeclinable nānyathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when the substance is placed in the mouth?",
+   "premises": [
+    "mukhe means in mouth",
+    "niḥkṣipya means having placed",
+    "sarveṣāṃ means of all",
+    "priyo means dear",
+    "bhavati means becomes",
+    "nānyathā means not otherwise"
+   ],
+   "inference": "Placing it in the mouth makes one dear to all, not otherwise.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "Placing it in the mouth makes one dear to all; not otherwise."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "subjugates",
+     "grounds": "accusative vaśya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "accusative sakala",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "viśvāmitreṇa",
+     "gloss": "by-viśvāmitra",
+     "grounds": "instrumental viśvāmitra",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "past participle bhāṣ",
+     "morph": "v.past.part"
+    }
+   ],
+   "question": "Who is said to have spoken the all-subjugating teaching?",
+   "premises": [
+    "vaśyaṃ means subjugates",
+    "sakalaṃ means all",
+    "viśvāmitreṇa means by viśvāmitra",
+    "bhāṣitam means spoken"
+   ],
+   "inference": "Viśvāmitra is said to have spoken the all-subjugating teaching.",
+   "uncertainties": [
+    "teaching unspecified"
+   ],
+   "plain_english": "Viśvāmitra is said to have spoken the all-subjugating teaching."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "anāmikāyā",
+     "gloss": "of-ring-finger",
+     "grounds": "genitive anāmikā",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "by-blood",
+     "grounds": "instrumental rakta",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "accusative tilaka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "lokavaśyakṛt",
+     "gloss": "world-subjugation-causing",
+     "grounds": "compound lokavaśya+kṛt",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What tilaka made from ring-finger blood causes world subjugation?",
+   "premises": [
+    "anāmikāyā means of ring finger",
+    "raktena means by blood",
+    "tilakaṃ means tilaka",
+    "lokavaśyakṛt means world-subjugation-causing"
+   ],
+   "inference": "A tilaka made from ring-finger blood causes world subjugation.",
+   "uncertainties": [
+    "application site unspecified"
+   ],
+   "plain_english": "A tilaka made from ring-finger blood causes world subjugation."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "absolutive piṣ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṭikāṃ",
+     "gloss": "pill",
+     "grounds": "accusative vaṭikā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "accusative tilaka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vaśyakṛtparam",
+     "gloss": "subjugation-causing-best",
+     "grounds": "compound vaśyakṛt+param",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What is the best subjugation-causing tilaka made as a pill?",
+   "premises": [
+    "piṣṭvā means having ground",
+    "tu means indeed",
+    "vaṭikāṃ means pill",
+    "kṛtvā means having made",
+    "tilakaṃ means tilaka",
+    "vaśyakṛtparam means subjugation-causing best"
+   ],
+   "inference": "Having ground and made a pill, one makes the best subjugation-causing tilaka.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "Having ground and made a pill, one makes the best subjugation-causing tilaka."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "vaṭikāṃ",
+     "gloss": "pill",
+     "grounds": "accusative vaṭikā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "causative optative kṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "prājñaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative prājña",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tilakena",
+     "gloss": "by-tilaka",
+     "grounds": "instrumental tilaka",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "jagad+vaśam",
+     "gloss": "world-subjection",
+     "grounds": "compound jagad+vaśam",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What should the wise one make by tilaka for world subjection?",
+   "premises": [
+    "vaṭikāṃ means pill",
+    "kārayet means should make",
+    "prājñaḥ means wise one",
+    "tilakena means by tilaka",
+    "jagad+vaśam means world subjection"
+   ],
+   "inference": "The wise one should make a pill by tilaka for world subjection.",
+   "uncertainties": [
+    "pill substance unspecified"
+   ],
+   "plain_english": "The wise one should make a pill by tilaka for world subjection."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative trailokya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vaśatāṃ",
+     "gloss": "subjection",
+     "grounds": "accusative vaśatā",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "yāṃti",
+     "gloss": "go",
+     "grounds": "present yā",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "dṛṣṭamātre",
+     "gloss": "on-sight",
+     "grounds": "locative dṛṣṭamātra",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative saṃśaya",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What happens to the three worlds on mere sight?",
+   "premises": [
+    "trailokyaṃ means three worlds",
+    "vaśatāṃ means subjection",
+    "yāṃti means go",
+    "dṛṣṭamātre means on sight",
+    "na means no",
+    "saṃśayaḥ means doubt"
+   ],
+   "inference": "On mere sight, the three worlds go into subjection, without doubt.",
+   "uncertainties": [
+    "agent implied"
+   ],
+   "plain_english": "On mere sight, the three worlds go into subjection, without doubt."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "should-hold",
+     "grounds": "gerundive saṃgrah",
+     "morph": "v.gerundive"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "wearing",
+     "grounds": "optative dhṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "subjugation",
+     "grounds": "accusative vaśya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "present kṛ",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "accusative sakala",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative jagat",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What does wearing the held subjugation make?",
+   "premises": [
+    "saṃgrāhya means should hold",
+    "dhārayet means wearing",
+    "vaśyaṃ means subjugation",
+    "kurute means makes",
+    "sakalaṃ means all",
+    "jagat means world"
+   ],
+   "inference": "Wearing the held subjugation makes the whole world subdued.",
+   "uncertainties": [
+    "object held unspecified"
+   ],
+   "plain_english": "Wearing the held subjugation makes the whole world subdued."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "tena+eva",
+     "gloss": "by-that-very",
+     "grounds": "instrumental tena+eva",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "añjita",
+     "gloss": "anointed",
+     "grounds": "past participle añj",
+     "morph": "v.past.part"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "merely",
+     "grounds": "instrumental mātra",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "vaśīkuryāt",
+     "gloss": "subjugate",
+     "grounds": "optative vaśīkṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "jagattrayam",
+     "gloss": "three-worlds",
+     "grounds": "accusative jagattraya",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What does mere anointing with that very substance subjugate?",
+   "premises": [
+    "tena+eva means by that very",
+    "añjita means anointed",
+    "mātreṇa means merely",
+    "vaśīkuryāt means subjugate",
+    "jagattrayam means three worlds"
+   ],
+   "inference": "Mere anointing with that very substance subjugates the three worlds.",
+   "uncertainties": [
+    "substance unspecified"
+   ],
+   "plain_english": "Mere anointing with that very substance subjugates the three worlds."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "nominative priya",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present bhū",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive sarva",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative nara",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "lalāṭake",
+     "gloss": "on-forehead",
+     "grounds": "locative lalāṭaka",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What happens to a man who makes tilaka on the forehead?",
+   "premises": [
+    "priyo means dear",
+    "bhavati means becomes",
+    "sarveṣāṃ means of all",
+    "naraḥ means man",
+    "kṛtvā means having made",
+    "lalāṭake means on forehead"
+   ],
+   "inference": "A man who makes tilaka on the forehead becomes dear to all.",
+   "uncertainties": [
+    "tilaka substance unspecified"
+   ],
+   "plain_english": "A man who makes tilaka on the forehead becomes dear to all."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "nāsāgre",
+     "gloss": "on-nose-tip",
+     "grounds": "locative nāsāgra",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "accusative tilaka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "vaśīkuryyāt",
+     "gloss": "subjugate",
+     "grounds": "optative vaśīkṛ",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative saṃśaya",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What happens when tilaka is made on the nose tip?",
+   "premises": [
+    "nāsāgre means on nose tip",
+    "tilakaṃ means tilaka",
+    "kṛtvā means having made",
+    "vaśīkuryyāt means subjugate",
+    "na means no",
+    "saṃśayaḥ means doubt"
+   ],
+   "inference": "Making tilaka on the nose tip subjugates, without doubt.",
+   "uncertainties": [
+    "object of subjugation unspecified"
+   ],
+   "plain_english": "Making tilaka on the nose tip subjugates, without doubt."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "lalāṭaphalake",
+     "gloss": "forehead",
+     "grounds": "locative lalāṭaphalaka",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "tilaka",
+     "grounds": "accusative tilaka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kṛtajñaḥ",
+     "gloss": "grateful",
+     "grounds": "nominative kṛtajña",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "lokatrayaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative lokatraya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vaśayati",
+     "gloss": "subjugates",
+     "grounds": "present vaśay",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "kṣaṇamātrakeṇa",
+     "gloss": "in-moment",
+     "grounds": "instrumental kṣaṇamātraka",
+     "morph": "n.inst.sg.n"
+    }
+   ],
+   "question": "How quickly does forehead tilaka subjugate the three worlds?",
+   "premises": [
+    "kṛtvā means having made",
+    "lalāṭaphalake means forehead",
+    "tilakaṃ means tilaka",
+    "kṛtajñaḥ means grateful",
+    "lokatrayaṃ means three worlds",
+    "vaśayati means subjugates",
+    "kṣaṇamātrakeṇa means in moment"
+   ],
+   "inference": "Having made tilaka on the forehead, one subjugates the three worlds in a moment.",
+   "uncertainties": [
+    "grateful subject implied"
+   ],
+   "plain_english": "Having made tilaka on the forehead, one subjugates the three worlds in a moment."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative yoga",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ayam+eva",
+     "gloss": "this-very",
+     "grounds": "nominative ayam+eva",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhuvanāni",
+     "gloss": "bhuvanas",
+     "grounds": "accusative bhuvana",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "vaśīkaroti",
+     "gloss": "subjugates",
+     "grounds": "present vaśīkṛ",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What does this very yoga subjugate?",
+   "premises": [
+    "yogaḥ means yoga",
+    "ayam+eva means this very",
+    "bhuvanāni means bhuvanas",
+    "vaśīkaroti means subjugates"
+   ],
+   "inference": "This very yoga subjugates the bhuvanas.",
+   "uncertainties": [
+    "bhuvanas scope"
+   ],
+   "plain_english": "This very yoga subjugates the bhuvanas."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "make",
+     "grounds": "present kṛ",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "vakratilakena",
+     "gloss": "curved-tilaka",
+     "grounds": "instrumental vakratilaka",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "vaśaṃ",
+     "gloss": "subjection",
+     "grounds": "accusative vaśa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "jaganti",
+     "gloss": "worlds",
+     "grounds": "accusative jagat",
+     "morph": "n.acc.pl.n"
+    }
+   ],
+   "question": "What does curved tilaka make the worlds?",
+   "premises": [
+    "kurvanti means make",
+    "vakratilakena means by curved tilaka",
+    "vaśaṃ means subjection",
+    "jaganti means worlds"
+   ],
+   "inference": "Curved tilaka makes the worlds subject.",
+   "uncertainties": [
+    "agent implied"
+   ],
+   "plain_english": "Curved tilaka makes the worlds subject."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "make",
+     "grounds": "present kṛ",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "vaśyam",
+     "gloss": "subjugation",
+     "grounds": "accusative vaśya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "all",
+     "grounds": "accusative akhila",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "accusative jagat",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akasmāt",
+     "gloss": "suddenly",
+     "grounds": "indeclinable akasmāt",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the practice make the whole world, even suddenly?",
+   "premises": [
+    "kurvanti means make",
+    "vaśyam means subjugation",
+    "akhilaṃ means all",
+    "jagat means world",
+    "api means even",
+    "akasmāt means suddenly"
+   ],
+   "inference": "The practice makes the whole world subdued, even suddenly.",
+   "uncertainties": [
+    "practice unspecified"
+   ],
+   "plain_english": "The practice makes the whole world subdued, even suddenly."
+  }
+ ]
+}

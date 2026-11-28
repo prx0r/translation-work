@@ -1,0 +1,170 @@
+{
+ "song": "mukta-m00644-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "varṇane",
+     "gloss": "in-description",
+     "grounds": "locative of topic/context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jantu+deha+mokṣaṇaṃ",
+     "gloss": "creature-body-release",
+     "grounds": "compound; release from the body of a creature",
+     "morph": "compound: jantu+deha+mokṣaṇa (tatpuruṣa); n.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable used to indicate a name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal adjective qualifying paṭalaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "subject of the nominal clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What title identifies the first chapter describing release from the creature's body?",
+   "premises": [
+    "The context is a description",
+    "The topic is release from the creature's body",
+    "The chapter is designated as first"
+   ],
+   "inference": "The first chapter is named the description of release from the creature's body.",
+   "uncertainties": [
+    "mokṣaṇaṃ may denote release or liberation; glossed in situ as release (UNC)"
+   ],
+   "plain_english": "In the description, the first chapter is named 'Release from the Creature's Body'."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "mārge",
+     "gloss": "on-path",
+     "grounds": "locative indicating location of movement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pura+varāṇi",
+     "gloss": "excellent-cities",
+     "grounds": "compound; best or excellent cities",
+     "morph": "compound: pura+vara (karmadhāraya); n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "instrumental expressing manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "main verb of motion",
+     "morph": "3.sg.act-pres; √yā"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the departed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pretaḥ",
+     "gloss": "departed-spirit",
+     "grounds": "subject who travels after death",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "to-city",
+     "grounds": "destination of motion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāmyaṃ",
+     "gloss": "of-yama",
+     "grounds": "adjective qualifying puraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubha+aśubhaiḥ",
+     "gloss": "by-good-and-bad-deeds",
+     "grounds": "compound; instrumental indicating cause or accompaniment",
+     "morph": "compound: śubha+aśubha (dvandva); n.inst.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+bhṛṅgīśa+saṃhitāyāṃ",
+     "gloss": "in-venerable-bhṛṅgīśa-compendium",
+     "grounds": "compound; locative indicating textual source",
+     "morph": "compound: śrī+bhṛṅgīśa+saṃhitā (tatpuruṣa); f.loc.sg"
+    },
+    {
+     "surface": "mṛta+tatva+anusmaraṇe",
+     "gloss": "in-recollection-of-death-truth",
+     "grounds": "compound; section or topic title in locative",
+     "morph": "compound: mṛta+tatva+anusmaraṇa (tatpuruṣa); n.loc.sg"
+    },
+    {
+     "surface": "preta+arcā+ādi+vidhiḥ",
+     "gloss": "departed-worship-etc-rite",
+     "grounds": "compound; rite of worship for the departed and so forth",
+     "morph": "compound: preta+arcā+ādi+vidhi (tatpuruṣa/bahuvrīhi elements); m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable used to indicate a name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal adjective qualifying paṭalaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "subject of the nominal clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what means does the departed spirit reach Yama's city, and what title identifies the third chapter?",
+   "premises": [
+    "The departed spirit travels on the path through excellent cities in sequence",
+    "The departed spirit reaches the city of Yama by good and bad deeds",
+    "The text is located in the Bhṛṅgīśa Saṃhitā section on recollection of death truth"
+   ],
+   "inference": "The departed spirit proceeds sequentially to Yama's city according to deeds, and the third chapter is named the rite of worship for the departed and so forth.",
+   "uncertainties": [
+    "mṛta+tatva+anusmaraṇe may be parsed as recollection of the truth of death or related senses (UNC)",
+    "pura+varāṇi could mean excellent cities or cities of boons; glossed in situ (UNC)"
+   ],
+   "plain_english": "On the path, that departed spirit goes in sequence through excellent cities to the city of Yama by good and bad deeds. Thus, in the venerable Bhṛṅgīśa Saṃhitā, in the recollection of the truth of death, the third chapter is named 'The Rite of Worship for the Departed and So Forth'."
+  }
+ ]
+}

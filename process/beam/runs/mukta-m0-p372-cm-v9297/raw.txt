@@ -1,0 +1,41 @@
+{
+  "song": "Merutantra",
+  "verse": 0,
+  "rows": [
+    {
+      "lemma": "ādhāra",
+      "morph": "acc.sg.m",
+      "grounds": "gloss 'support'; accusative object of worship (contextual)"
+    },
+    {
+      "lemma": "pūj",
+      "morph": "3sg.opt.act",
+      "grounds": "gloss 'one-should-worship'; optative of √pūj"
+    },
+    {
+      "lemma": "tatra",
+      "morph": "indecl.",
+      "grounds": "gloss 'there'; locative/indeclinable adverb of place"
+    },
+    {
+      "lemma": "vaṃ",
+      "morph": "indecl. (bīja)",
+      "grounds": "seed-syllable token (transliterate only); Śrīvidyā bīja context per brief (do not translate)"
+    },
+    {
+      "lemma": "vahni-maṇḍala",
+      "morph": "dat.sg.n (compound: vahni + maṇḍala)",
+      "grounds": "gloss 'to-fire-circle'; compound member+membership, dative of destination/recipient in mantra address"
+    },
+    {
+      "lemma": "oṃ vaṃ vahnimaṇḍalāya namaḥ",
+      "morph": "indecl. (mantra formula)",
+      "grounds": "mantra string (byte-exact intent preserved in transliteration); contains bīja 'vaṃ' and 'vahnimaṇḍalāya' (dat.); do not translate bīja per brief"
+    },
+    {
+      "lemma": "ca",
+      "morph": "indecl.",
+      "grounds": "gloss 'and'; coordinating conjunction"
+    }
+  ]
+}

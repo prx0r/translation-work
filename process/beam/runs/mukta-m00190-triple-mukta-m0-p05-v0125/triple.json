@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "ṣaṣṭho",
+     "gloss": "sixth",
+     "grounds": "ordinal adjective qualifying the fragrance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavagandho",
+     "gloss": "vaiṣṇava-fragrance",
+     "grounds": "compound naming the fragrance type described in the Vaiṣṇava context",
+     "morph": "compound: vaiṣṇava+gandha; m.nom.sg"
+    },
+    {
+     "surface": "'yaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the aforementioned fragrance; initial vowel elision in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaive",
+     "gloss": "in-śaiva-context",
+     "grounds": "locative indicating the Śaiva ritual or doctrinal setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śākte",
+     "gloss": "in-śākta-context",
+     "grounds": "locative indicating the Śākta ritual or doctrinal setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the two contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śasyate",
+     "gloss": "is-approved",
+     "grounds": "passive verb expressing commendation or prescription",
+     "morph": "3.sg.pass-pres; √śaṃs"
+    }
+   ],
+   "question": "Is the sixth Vaiṣṇava fragrance also approved within Śaiva and Śākta ritual contexts?",
+   "premises": [
+    "A sixth fragrance is identified as the Vaiṣṇava fragrance.",
+    "The Śaiva context is named as a setting of application.",
+    "The Śākta context is named alongside the Śaiva context."
+   ],
+   "inference": "Therefore, the same sixth Vaiṣṇava fragrance is approved for use in both Śaiva and Śākta contexts.",
+   "uncertainties": [
+    "Whether śaive and śākte refer to ritual systems, texts, or practitioner communities is not explicit."
+   ],
+   "plain_english": "This sixth fragrance, called the Vaiṣṇava fragrance, is also approved in Śaiva and Śākta contexts."
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3876,
+   "rows": [
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-do",
+     "grounds": "future active",
+     "morph": "3.sg.act-fut"
+    },
+    {
+     "surface": "avatāraṃ",
+     "gloss": "descent",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "possessive",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṃkaraḥ",
+     "gloss": "Shankara",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīlalohitaḥ",
+     "gloss": "blue-red",
+     "grounds": "epithet",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What descent will Shankara, the blue-red one, make?",
+   "premises": [
+    "Shankara is named",
+    "descent is promised",
+    "blue-red epithet identifies him"
+   ],
+   "inference": "The verse announces Shankara's own descent.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "Shankara, the blue-red one, will make his own descent."
+  },
+  {
+   "verse": 3877,
+   "rows": [
+    {
+     "surface": "upadekṣyati",
+     "gloss": "will-teach",
+     "grounds": "future active",
+     "morph": "3.sg.act-fut"
+    },
+    {
+     "surface": "taj",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣyāṇāṃ",
+     "gloss": "of-disciples",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "brahmasammitam",
+     "gloss": "equal-to-Brahman",
+     "grounds": "compound epithet",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What knowledge equal to Brahman will be taught to disciples?",
+   "premises": [
+    "teaching is promised",
+    "knowledge is specified",
+    "disciples are recipients"
+   ],
+   "inference": "The verse promises teaching of Brahman-equal knowledge.",
+   "uncertainties": [
+    "source of knowledge not named"
+   ],
+   "plain_english": "He will teach that knowledge, equal to Brahman, to disciples."
+  },
+  {
+   "verse": 3878,
+   "rows": [
+    {
+     "surface": "sarvavedāntasāraṃ",
+     "gloss": "essence-of-all-Vedanta",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmān",
+     "gloss": "duties",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vedanidarśanān",
+     "gloss": "showing-Veda",
+     "grounds": "compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What essence and duties showing the Veda are included?",
+   "premises": [
+    "essence is named",
+    "duties are named",
+    "Veda-showing qualifies them"
+   ],
+   "inference": "The verse adds Vedantic essence and Veda-showing duties.",
+   "uncertainties": [
+    "exact list of duties omitted"
+   ],
+   "plain_english": "And the essence of all Vedanta, plus duties that show the Veda."
+  },
+  {
+   "verse": 3879,
+   "rows": [
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brahmin",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcayajñaparāyaṇaḥ",
+     "gloss": "devoted-to-five-sacrifices",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a brahmin devoted to five sacrifices worship?",
+   "premises": [
+    "brahmin is subject",
+    "worship is enjoined",
+    "five sacrifices define devotion"
+   ],
+   "inference": "The verse prescribes worship by a five-sacrifice brahmin.",
+   "uncertainties": [
+    "recipient of worship not explicit"
+   ],
+   "plain_english": "A brahmin devoted to the five sacrifices should worship."
+  },
+  {
+   "verse": 3880,
+   "rows": [
+    {
+     "surface": "brahmeśvarau",
+     "gloss": "Brahma-Ishvara",
+     "grounds": "dual compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "bhūtabaliḥ",
+     "gloss": "Bhutabali",
+     "grounds": "subject or list item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaṇādhipaḥ",
+     "gloss": "Ganadhipa",
+     "grounds": "list item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajñeśvaraḥ",
+     "gloss": "Yajneshvara",
+     "grounds": "list item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryaḥ",
+     "gloss": "Surya",
+     "grounds": "list item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajanīyadevatāḥ",
+     "gloss": "Yajaniya-devatas",
+     "grounds": "plural list",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which deities are named as Yajaniya devatas?",
+   "premises": [
+    "Brahma and Ishvara are named",
+    "Bhutabali is named",
+    "Ganadhipa is named",
+    "Yajneshvara is named",
+    "Surya is named"
+   ],
+   "inference": "The verse lists deities for worship.",
+   "uncertainties": [
+    "exact ritual grouping unclear"
+   ],
+   "plain_english": "Brahma, Ishvara, Bhutabali, Ganadhipa, Yajneshvara, and Surya are Yajaniya devatas."
+  },
+  {
+   "verse": 3881,
+   "rows": [
+    {
+     "surface": "dhyānasyavighnāpanudaṃ",
+     "gloss": "remover-of-obstacles-to-meditation",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bikāsuto",
+     "gloss": "son-of-Parvati",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānapradaḥ",
+     "gloss": "giver-of-knowledge",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāṇuḥ",
+     "gloss": "immovable",
+     "grounds": "epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "itīryate",
+     "gloss": "thus-called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How is the son of Parvati called by the wise?",
+   "premises": [
+    "he removes meditation obstacles",
+    "he gives knowledge",
+    "he is immovable"
+   ],
+   "inference": "The verse identifies him as remover, giver, and immovable.",
+   "uncertainties": [
+    "exact name not explicit"
+   ],
+   "plain_english": "The wise call the son of Parvati remover of meditation obstacles, giver of knowledge, and immovable."
+  },
+  {
+   "verse": 3882,
+   "rows": [
+    {
+     "surface": "gaṇeśapaṃcāyatanam",
+     "gloss": "Ganesha-panchayatana",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "laṃbodara",
+     "gloss": "Lambodara",
+     "grounds": "name",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ajeśvarenāryāḥ",
+     "gloss": "with-Aja-Ishvara",
+     "grounds": "compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaṃkaradiṅmukhāstuśubhadāḥ",
+     "gloss": "Shankara-facing-auspicious",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyatyastato+hānidāḥ",
+     "gloss": "reversed-harmful",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What arrangement of Ganesha panchayatana is auspicious or harmful?",
+   "premises": [
+    "Ganesha panchayatana is named",
+    "Lambodara is addressed",
+    "Aja-Ishvara is included",
+    "Shankara-facing is auspicious"
+   ],
+   "inference": "The verse contrasts auspicious and reversed harmful arrangements.",
+   "uncertainties": [
+    "full spatial scheme not explicit"
+   ],
+   "plain_english": "In Ganesha panchayatana, Lambodara with Aja-Ishvara and Shankara-facing is auspicious; reversed is harmful."
+  },
+  {
+   "verse": 3883,
+   "rows": [
+    {
+     "surface": "madhyasthitasya+devasya",
+     "gloss": "of-central-deity",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "īśānyataḥ",
+     "gloss": "from-northeast",
+     "grounds": "directional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "predicate",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "From which direction are gods auspicious for the central deity?",
+   "premises": [
+    "central deity is referenced",
+    "gods are subject",
+    "northeast is direction"
+   ],
+   "inference": "The verse says gods from the northeast are auspicious.",
+   "uncertainties": [
+    "which gods unspecified"
+   ],
+   "plain_english": "For the central deity, gods from the northeast are auspicious."
+  },
+  {
+   "verse": 3884,
+   "rows": [
+    {
+     "surface": "devasyamukhamārabhya",
+     "gloss": "beginning-from-deity's-face",
+     "grounds": "compound participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśaṃprācīṃ",
+     "gloss": "eastern-direction",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakṛlpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should arrangement begin from the deity's face?",
+   "premises": [
+    "beginning is from face",
+    "eastern direction is named",
+    "arrangement is enjoined"
+   ],
+   "inference": "The verse prescribes arranging from the face toward the east.",
+   "uncertainties": [
+    "full arrangement details omitted"
+   ],
+   "plain_english": "Beginning from the deity's face, one should arrange toward the east."
+  },
+  {
+   "verse": 3885,
+   "rows": [
+    {
+     "surface": "aṣṭadhārā",
+     "gloss": "eight-spoked",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "amūrtiḥ",
+     "gloss": "formless",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vīrarāmādibhedataḥ",
+     "gloss": "by-distinction-of-Virarama-etc",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When may the eight-spoked form be formless?",
+   "premises": [
+    "eight-spoked is named",
+    "formless is possible",
+    "Virarama distinction is cause"
+   ],
+   "inference": "The verse allows a formless eight-spoked form by distinction.",
+   "uncertainties": [
+    "exact distinction not detailed"
+   ],
+   "plain_english": "The eight-spoked form may be formless, by distinction of Virarama and others."
+  },
+  {
+   "verse": 3886,
+   "rows": [
+    {
+     "surface": "kodaṃḍaṃ",
+     "gloss": "bow",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kukkuṭāṃḍābhaṃ",
+     "gloss": "egg-of-cock-colored",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śyāmalaṃ",
+     "gloss": "dark",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratibibhratam",
+     "gloss": "bearing",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What bow is borne, dark and cock-egg colored?",
+   "premises": [
+    "bow is object",
+    "cock-egg color is named",
+    "dark is named"
+   ],
+   "inference": "The verse describes a borne bow with those colors.",
+   "uncertainties": [
+    "bearer not explicit"
+   ],
+   "plain_english": "Bearing a bow, dark and cock-egg colored."
+  },
+  {
+   "verse": 3887,
+   "rows": [
+    {
+     "surface": "dhanurākṛti",
+     "gloss": "bow-shaped",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kārekhā",
+     "gloss": "line",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "seen",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "pārśvayordvayoḥ",
+     "gloss": "on-both-sides",
+     "grounds": "compound",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "Where is the bow-shaped line seen?",
+   "premises": [
+    "bow-shaped line is subject",
+    "seen is stated",
+    "both sides is location"
+   ],
+   "inference": "The verse says the bow-shaped line is seen on both sides.",
+   "uncertainties": [
+    "exact object not named"
+   ],
+   "plain_english": "A bow-shaped line is seen on both sides."
+  },
+  {
+   "verse": 3888,
+   "rows": [
+    {
+     "surface": "pṛṣṭhato",
+     "gloss": "behind",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daśakaṃṭhakulāṃtakaḥ",
+     "gloss": "destroyer-of-Ravana-lineage",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What may be behind the destroyer of Ravana's lineage?",
+   "premises": [
+    "behind is possible",
+    "destroyer of Ravana lineage is referenced",
+    "may-be is stated"
+   ],
+   "inference": "The verse allows something behind that figure.",
+   "uncertainties": [
+    "exact object omitted"
+   ],
+   "plain_english": "Or it may be behind, whose destroyer of Ravana's lineage."
+  },
+  {
+   "verse": 3889,
+   "rows": [
+    {
+     "surface": "cāpabāṇāṃkuśacchatradhvajacāmarasaṃyutaḥ",
+     "gloss": "with-bow-arrow-goad-umbrella-banner-flywhisk",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attributes are joined to this form?",
+   "premises": [
+    "bow is included",
+    "arrow is included",
+    "goad umbrella banner flywhisk are included"
+   ],
+   "inference": "The verse lists joined ritual attributes.",
+   "uncertainties": [
+    "subject not explicit"
+   ],
+   "plain_english": "Joined with bow, arrow, goad, umbrella, banner, and flywhisk."
+  },
+  {
+   "verse": 3890,
+   "rows": [
+    {
+     "surface": "sarvābhīṣṭapradaḥ",
+     "gloss": "giver-of-all-desires",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uktaḥ",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatravijayapradaḥ",
+     "gloss": "giver-of-victory-everywhere",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said to give all desires and victory everywhere?",
+   "premises": [
+    "giver of all desires is named",
+    "said is stated",
+    "giver of victory everywhere is named"
+   ],
+   "inference": "The verse describes a form as giver of desires and victory.",
+   "uncertainties": [
+    "exact form not named"
+   ],
+   "plain_english": "Said to be giver of all desires and giver of victory everywhere."
+  },
+  {
+   "verse": 3891,
+   "rows": [
+    {
+     "surface": "bāṇataṇīracāpāḍhya",
+     "gloss": "rich-in-arrow-quiver-bow",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sītārāmaḥ",
+     "gloss": "Sita-Rama",
+     "grounds": "compound name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sraganvitaḥ",
+     "gloss": "garlanded",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is Sita-Rama described with bow and garland?",
+   "premises": [
+    "rich in arrow quiver bow is stated",
+    "Sita-Rama is named",
+    "garlanded is stated"
+   ],
+   "inference": "The verse describes Sita-Rama as armed and garlanded.",
+   "uncertainties": [
+    "exact iconographic use not stated"
+   ],
+   "plain_english": "Sita-Rama, rich in arrow, quiver, and bow, is garlanded."
+  },
+  {
+   "verse": 3892,
+   "rows": [
+    {
+     "surface": "ekenadhanuṣāyukto",
+     "gloss": "joined-with-one-bow",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vartulaḥ",
+     "gloss": "round",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃcidāyataḥ",
+     "gloss": "somewhat-elongated",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What shape is joined with one bow?",
+   "premises": [
+    "joined with one bow is stated",
+    "round is stated",
+    "somewhat elongated is stated"
+   ],
+   "inference": "The verse describes a round, slightly elongated form with one bow.",
+   "uncertainties": [
+    "subject not explicit"
+   ],
+   "plain_english": "Joined with one bow, round and somewhat elongated."
+  },
+  {
+   "verse": 3893,
+   "rows": [
+    {
+     "surface": "dakṣabhāge",
+     "gloss": "on-right-side",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paṃcarekhāḥ",
+     "gloss": "pancha-lines",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "cāpobāṇaḥ",
+     "gloss": "bow-and-arrow",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "compound",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "Where are pancha lines, bow, and arrow placed?",
+   "premises": [
+    "right side is named",
+    "pancha lines are named",
+    "bow and arrow are named",
+    "sides are named"
+   ],
+   "inference": "The verse places lines, bow, and arrow on sides.",
+   "uncertainties": [
+    "exact arrangement not detailed"
+   ],
+   "plain_english": "On the right side are pancha lines; bow and arrow are on the sides."
+  },
+  {
+   "verse": 3894,
+   "rows": [
+    {
+     "surface": "divyabāṇenasaṃyuktaḥ",
+     "gloss": "joined-with-divine-arrow",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāpatūṇīrasaṃgataḥ",
+     "gloss": "with-bow-quiver",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine arrow and bow-quiver attributes are joined?",
+   "premises": [
+    "divine arrow is joined",
+    "bow and quiver are joined"
+   ],
+   "inference": "The verse describes a form joined with divine arrow, bow, and quiver.",
+   "uncertainties": [
+    "subject not explicit"
+   ],
+   "plain_english": "Joined with a divine arrow, with bow and quiver."
+  },
+  {
+   "verse": 3895,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijayarāmākhyaḥ",
+     "gloss": "named-Vijayarama",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kesarāpītacakrakaḥ",
+     "gloss": "yellow-wheel",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is named Vijayarama with a yellow wheel?",
+   "premises": [
+    "whose is relative",
+    "Vijayarama name is stated",
+    "yellow wheel is stated"
+   ],
+   "inference": "The verse identifies a Vijayarama form with yellow wheel.",
+   "uncertainties": [
+    "exact bearer not explicit"
+   ],
+   "plain_english": "Whose named Vijayarama has a yellow wheel."
+  },
+  {
+   "verse": 3896,
+   "rows": [
+    {
+     "surface": "hṛṣṭarāma+iti+khyātaḥ",
+     "gloss": "called-Hrishtarama",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuktimuktiphalapradaḥ",
+     "gloss": "giver-of-enjoyment-liberation-fruit",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is called Hrishtarama and gives enjoyment and liberation?",
+   "premises": [
+    "called Hrishtarama is stated",
+    "giver of enjoyment liberation fruit is stated"
+   ],
+   "inference": "The verse names Hrishtarama as giver of those fruits.",
+   "uncertainties": [
+    "exact form not explicit"
+   ],
+   "plain_english": "Called Hrishtarama, giver of enjoyment and liberation fruit."
+  },
+  {
+   "verse": 3897,
+   "rows": [
+    {
+     "surface": "dadhāccakraṃ",
+     "gloss": "holds-wheel",
+     "grounds": "compound verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "suvadana",
+     "gloss": "beautiful-faced",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-colored",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suśobhanaḥ",
+     "gloss": "very-beautiful",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What beautiful black form holds a wheel?",
+   "premises": [
+    "holds wheel is stated",
+    "beautiful-faced is stated",
+    "black-colored is stated",
+    "very beautiful is stated"
+   ],
+   "inference": "The verse describes a beautiful black wheel-holder.",
+   "uncertainties": [
+    "subject not explicit"
+   ],
+   "plain_english": "Holding a wheel, beautiful-faced, black-colored, very beautiful."
+  },
+  {
+   "verse": 3898,
+   "rows": [
+    {
+     "surface": "sadārāmamūrtiḥ",
+     "gloss": "Sadarama-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudārāmastuvijñeyaḥ",
+     "gloss": "well-known",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suphalapradaḥ",
+     "gloss": "giver-of-good-fruit",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What Sadarama form is worshipped and gives good fruit?",
+   "premises": [
+    "Sadarama form is named",
+    "well-known is stated",
+    "worshipped is stated",
+    "giver of good fruit is stated"
+   ],
+   "inference": "The verse describes a worshipped Sadarama form giving good fruit.",
+   "uncertainties": [
+    "exact iconography not detailed"
+   ],
+   "plain_english": "The Sadarama form, well known, worshipped, gives good fruit."
+  },
+  {
+   "verse": 3899,
+   "rows": [
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "black",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītaḥ",
+     "gloss": "yellow",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetatanuḥ",
+     "gloss": "white-bodied",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhittipārśve",
+     "gloss": "on-wall-side",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrayuk",
+     "gloss": "with-wheel",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What colors and wheel placement are described on the wall side?",
+   "premises": [
+    "black is stated",
+    "yellow is stated",
+    "white-bodied is stated",
+    "wall side is stated",
+    "with wheel is stated"
+   ],
+   "inference": "The verse describes colored forms with wheel on the wall side.",
+   "uncertainties": [
+    "exact subject not explicit"
+   ],
+   "plain_english": "Black, yellow, white-bodied, on the wall side, with wheel."
+  }
+ ]
+}

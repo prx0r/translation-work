@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 526,
+   "rows": [
+    {
+     "surface": "yamunāñca",
+     "gloss": "yamunā-and",
+     "grounds": "fused yamunā + ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahākālaṃ",
+     "gloss": "great-time",
+     "grounds": "compound mahā + kāla",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmaśākhāgatau",
+     "gloss": "left-branch-gone",
+     "grounds": "compound vāma + śākhā + gata",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "verb root yaj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which deities are worshipped on the left branch according to this ritual instruction?",
+   "premises": [
+    "Yamunā and Mahākāla are named.",
+    "They are located on the left branch.",
+    "The guru worships them."
+   ],
+   "inference": "The left-branch worship includes Yamunā and Mahākāla.",
+   "uncertainties": [
+    "Exact ritual context beyond this verse is not stated."
+   ],
+   "plain_english": "Worship Yamunā and Mahākāla, who are on the left branch."
+  },
+  {
+   "verse": 527,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "devī",
+     "grounds": "goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caṇḍau",
+     "gloss": "caṇḍa-two",
+     "grounds": "dual caṇḍa",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvipārśvasthau",
+     "gloss": "two-side-standing",
+     "grounds": "compound dvipārśva + stha",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvārāṇāṃ",
+     "gloss": "of-doors",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "caturānane",
+     "gloss": "four-faced",
+     "grounds": "compound catur + ānana",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where do the two Caṇḍa deities stand in relation to the doors?",
+   "premises": [
+    "Devī and two Caṇḍas are named.",
+    "They stand on two sides.",
+    "They are at the doors of the four-faced shrine."
+   ],
+   "inference": "The Caṇḍa deities guard the doors on both sides.",
+   "uncertainties": [
+    "Exact door count is not specified."
+   ],
+   "plain_english": "Devī and the two Caṇḍas stand on both sides of the doors in the four-faced shrine."
+  },
+  {
+   "verse": 528,
+   "rows": [
+    {
+     "surface": "rūpasaṃsthānabhāvaistu",
+     "gloss": "form-constitution-states-but",
+     "grounds": "compound rūpa + saṃsthāna + bhāva + tu",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "perfume-flowers-etc",
+     "grounds": "compound gandha + puṣpa + ādi",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order are form, constitution, states, perfume, and flowers used?",
+   "premises": [
+    "Form, constitution, and states are named.",
+    "Perfume, flowers, and similar items are named.",
+    "The sequence is ordered."
+   ],
+   "inference": "The ritual items are applied in a prescribed order.",
+   "uncertainties": [
+    "The exact sequence is not fully enumerated."
+   ],
+   "plain_english": "With form, constitution, states, perfume, flowers, and the rest, proceed in order."
+  },
+  {
+   "verse": 529,
+   "rows": [
+    {
+     "surface": "praviśet",
+     "gloss": "enter",
+     "grounds": "verb root viś",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dakṣapādena",
+     "gloss": "right-foot",
+     "grounds": "compound dakṣa + pāda",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "prāsādābhyantaraṃ",
+     "gloss": "into-temple",
+     "grounds": "compound prāsāda + abhyantara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the guru enter the temple interior?",
+   "premises": [
+    "The guru is the subject.",
+    "Entry is prescribed.",
+    "The right foot is specified."
+   ],
+   "inference": "The guru enters the temple interior with the right foot first.",
+   "uncertainties": [
+    "No additional entry restrictions are stated."
+   ],
+   "plain_english": "The guru enters the temple interior with the right foot."
+  },
+  {
+   "verse": 530,
+   "rows": [
+    {
+     "surface": "saṃpūjyātmabhuvaṃ",
+     "gloss": "having-worshipped-self-born",
+     "grounds": "compound saṃpūjya + ātma + bhuva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāstoṣpate",
+     "gloss": "vāstu-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "brahmaṇa ityapi",
+     "gloss": "brahmaṇaḥ-also",
+     "grounds": "fused brahmaṇaḥ + iti + api",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom does the guru worship before addressing the lord of the site?",
+   "premises": [
+    "Self-born is worshipped.",
+    "The lord of the site is addressed.",
+    "Brahmaṇaḥ is also mentioned."
+   ],
+   "inference": "The guru first worships the self-born, then addresses the site lord.",
+   "uncertainties": [
+    "The exact relation of Brahmaṇaḥ is not explicit."
+   ],
+   "plain_english": "Having worshipped the self-born, address the lord of the site, also Brahmaṇaḥ."
+  },
+  {
+   "verse": 531,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādikaṃ",
+     "gloss": "perfume-flowers-etc",
+     "grounds": "compound gandha + puṣpa + ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "indeclinable adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ānītaṃ",
+     "gloss": "brought",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paricārakaiḥ",
+     "gloss": "attendants",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Who brings all the perfume, flowers, and similar offerings?",
+   "premises": [
+    "All offerings are named.",
+    "They are brought.",
+    "Attendants are the agents."
+   ],
+   "inference": "The attendants bring all the perfume, flowers, and related items.",
+   "uncertainties": [
+    "No list of attendants is given."
+   ],
+   "plain_english": "All perfume, flowers, and the rest are brought by attendants."
+  },
+  {
+   "verse": 532,
+   "rows": [
+    {
+     "surface": "vīkṣitāṃs",
+     "gloss": "seen",
+     "grounds": "past participle accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tattvadṛṣṭyā",
+     "gloss": "reality-view",
+     "grounds": "compound tattva + dṛṣṭi",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "abhyukṣitān",
+     "gloss": "sprinkled",
+     "grounds": "past participle accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "astramantrataḥ",
+     "gloss": "weapon-mantra",
+     "grounds": "compound astra + mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the seen and sprinkled items consecrated?",
+   "premises": [
+    "Items are seen with reality-view.",
+    "They are sprinkled.",
+    "The weapon mantra is used."
+   ],
+   "inference": "The items are seen with reality-view, sprinkled, and consecrated by weapon mantra.",
+   "uncertainties": [
+    "The exact items are not named."
+   ],
+   "plain_english": "Seen with reality-view and sprinkled, they are consecrated by the weapon mantra."
+  },
+  {
+   "verse": 533,
+   "rows": [
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "suśironāhān",
+     "gloss": "good-head-neck",
+     "grounds": "compound su + śira + nāha",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "susthirān",
+     "gloss": "firm",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "chidravarjitān",
+     "gloss": "hole-free",
+     "grounds": "compound chidra + varjita",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What qualities must the ritual pots possess?",
+   "premises": [
+    "Pots are named.",
+    "Good head and neck are required.",
+    "Firmness and absence of holes are required."
+   ],
+   "inference": "The ritual pots must have good heads and necks, be firm, and be free of holes.",
+   "uncertainties": [
+    "No size or material is specified."
+   ],
+   "plain_english": "The pots must have good heads and necks, be firm, and be free of holes."
+  },
+  {
+   "verse": 534,
+   "rows": [
+    {
+     "surface": "śivatīrtham",
+     "gloss": "śiva-water",
+     "grounds": "compound śiva + tīrtha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anuprāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgena",
+     "gloss": "six-limbs",
+     "grounds": "compound ṣaḍ + aṅga",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "consecrate",
+     "grounds": "verb root mantr",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is Śiva water consecrated after it is obtained?",
+   "premises": [
+    "Śiva water is obtained.",
+    "Six-limb practice is used.",
+    "Consecration is prescribed."
+   ],
+   "inference": "After obtaining Śiva water, one consecrates it with the six-limb practice.",
+   "uncertainties": [
+    "The six limbs are not listed."
+   ],
+   "plain_english": "Having obtained Śiva water, consecrate it with the six limbs."
+  },
+  {
+   "verse": 535,
+   "rows": [
+    {
+     "surface": "pūrayet",
+     "gloss": "fill",
+     "grounds": "verb root pūr",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "rudragāyatryā",
+     "gloss": "rudra-gāyatrī",
+     "grounds": "compound rudra + gāyatrī",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "waters",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "paṭasrutaiḥ",
+     "gloss": "cloth-flowing",
+     "grounds": "compound paṭa + sruta",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "With what mantra and materials are the pots filled?",
+   "premises": [
+    "Filling is prescribed.",
+    "Rudra Gāyatrī is used.",
+    "Heart, waters, and cloth-flowing items are named."
+   ],
+   "inference": "The pots are filled using Rudra Gāyatrī, heart, waters, and cloth-flowing materials.",
+   "uncertainties": [
+    "The exact filling procedure is not detailed."
+   ],
+   "plain_english": "Fill them with Rudra Gāyatrī, heart, waters, and cloth-flowing materials."
+  },
+  {
+   "verse": 536,
+   "rows": [
+    {
+     "surface": "dvau dvau",
+     "gloss": "two-two",
+     "grounds": "fused dual repetition",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "yoktṛniyuktāṃs",
+     "gloss": "yoktṛ-appointed",
+     "grounds": "compound yoktṛ + niyukta",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ekaikena tu",
+     "gloss": "one-one-but",
+     "grounds": "fused eka + eka + tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṇinā",
+     "gloss": "hand",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "How are the appointed yoktṛs handled in pairs?",
+   "premises": [
+    "Two and two are named.",
+    "Yoktṛ-appointed persons are named.",
+    "One by one with the hand is specified."
+   ],
+   "inference": "The appointed yoktṛs are taken two by two and handled one by one with the hand.",
+   "uncertainties": [
+    "The exact action is not fully specified."
+   ],
+   "plain_english": "Take the appointed yoktṛs two by two, one by one with the hand."
+  },
+  {
+   "verse": 537,
+   "rows": [
+    {
+     "surface": "na spṛśet",
+     "gloss": "not-touch",
+     "grounds": "fused na + spṛśet",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ūrupārśvastha",
+     "gloss": "thigh-side-standing",
+     "grounds": "compound ūru + pārśva + stha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvāraśākhādikaṃ",
+     "gloss": "door-branch-etc",
+     "grounds": "compound dvāra + śākhā + ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should not be touched while standing at the thigh side?",
+   "premises": [
+    "Touching is prohibited.",
+    "Thigh-side standing is specified.",
+    "Door branch and related items are named."
+   ],
+   "inference": "One should not touch the door branch and related items while standing at the thigh side.",
+   "uncertainties": [
+    "The exact prohibition scope is not detailed."
+   ],
+   "plain_english": "Do not touch the door branch and the rest while standing at the thigh side."
+  },
+  {
+   "verse": 538,
+   "rows": [
+    {
+     "surface": "praliptabhūmāv",
+     "gloss": "smear-ground",
+     "grounds": "compound pralipta + bhūmi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āstīrya",
+     "gloss": "having-spread",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśapuṣpādikaṃ",
+     "gloss": "kuśa-flowers-etc",
+     "grounds": "compound kuśa + puṣpa + ādi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "What is spread on the smeared ground with the heart?",
+   "premises": [
+    "The ground is smeared.",
+    "Spreading is prescribed.",
+    "Kuśa, flowers, and the rest are named."
+   ],
+   "inference": "Kuśa, flowers, and related items are spread on the smeared ground with the heart.",
+   "uncertainties": [
+    "The exact spreading method is not detailed."
+   ],
+   "plain_english": "On the smeared ground, spread kuśa, flowers, and the rest with the heart."
+  },
+  {
+   "verse": 539,
+   "rows": [
+    {
+     "surface": "kṣmālokapadapañcāśat",
+     "gloss": "earth-world-foot-fifty",
+     "grounds": "compound kṣmā + loka + pada + pañcāśat",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcapañcaghaṭāṃs",
+     "gloss": "five-five-pots",
+     "grounds": "compound pañca + pañca + ghaṭa",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many pots are used for the fifty earth-world feet?",
+   "premises": [
+    "Fifty earth-world feet are named.",
+    "Five-five pots are named.",
+    "Alternative particles are present."
+   ],
+   "inference": "The fifty earth-world feet are associated with five-five pots, with alternatives allowed.",
+   "uncertainties": [
+    "The exact count relation is ambiguous."
+   ],
+   "plain_english": "For the fifty earth-world feet, use five-five pots, or as stated."
+  },
+  {
+   "verse": 540,
+   "rows": [
+    {
+     "surface": "snapanoktyā",
+     "gloss": "installation-words",
+     "grounds": "compound snapana + uktyā",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "verb root kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nityābhiṣecanam",
+     "gloss": "daily-ablution",
+     "grounds": "compound nitya + abhiṣecana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What daily rite follows establishment by installation words?",
+   "premises": [
+    "Installation words are used.",
+    "Establishment is completed.",
+    "Daily ablution is prescribed."
+   ],
+   "inference": "After establishment by installation words, one performs daily ablution.",
+   "uncertainties": [
+    "The exact timing is not specified."
+   ],
+   "plain_english": "Then, having established by installation words, perform daily ablution."
+  },
+  {
+   "verse": 541,
+   "rows": [
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dravyaśuddhiḥ",
+     "gloss": "substance-purity",
+     "grounds": "compound dravya + śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "verb root as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraśodhanam",
+     "gloss": "mantra-purification",
+     "grounds": "compound mantra + śodhana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the third and fourth purifications in this sequence?",
+   "premises": [
+    "Third is substance-purity.",
+    "Fourth is mantra-purification.",
+    "Both are named as stages."
+   ],
+   "inference": "The third purification is substance-purity and the fourth is mantra-purification.",
+   "uncertainties": [
+    "The first two stages are not named here."
+   ],
+   "plain_english": "The third is substance-purity; the fourth is mantra-purification."
+  },
+  {
+   "verse": 542,
+   "rows": [
+    {
+     "surface": "mārjite",
+     "gloss": "cleaned",
+     "grounds": "locative participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "copalipte",
+     "gloss": "and-smear",
+     "grounds": "fused ca + upalipte",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāmanyanyatra",
+     "gloss": "place",
+     "grounds": "compound dhāman + anyatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where may the wise person place the cleaned and smeared item?",
+   "premises": [
+    "Cleaned and smeared states are named.",
+    "Another place is allowed.",
+    "The wise person decides."
+   ],
+   "inference": "The wise person may place it elsewhere after cleaning and smearing.",
+   "uncertainties": [
+    "The exact place is not specified."
+   ],
+   "plain_english": "When cleaned and smeared, the wise may place it elsewhere."
+  },
+  {
+   "verse": 543,
+   "rows": [
+    {
+     "surface": "yatheṣṭam",
+     "gloss": "as-desired",
+     "grounds": "compound yathā + iṣṭa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "badhvā",
+     "gloss": "having-bound",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛjukāyottarānanaḥ",
+     "gloss": "straight-body-north-facing",
+     "grounds": "compound ṛju + kāya + uttara + ānana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the seat be arranged and the body oriented?",
+   "premises": [
+    "Seat is bound as desired.",
+    "Straight body is specified.",
+    "North-facing orientation is specified."
+   ],
+   "inference": "One binds the seat as desired and sits with straight body facing north.",
+   "uncertainties": [
+    "No duration is stated."
+   ],
+   "plain_english": "Bind the seat as desired, with straight body facing north."
+  },
+  {
+   "verse": 544,
+   "rows": [
+    {
+     "surface": "parasparau",
+     "gloss": "mutually",
+     "grounds": "dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśya",
+     "gloss": "touching",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talakau",
+     "gloss": "soles",
+     "grounds": "dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "hastapṛṣṭhakau",
+     "gloss": "hand-backs",
+     "grounds": "compound hasta + pṛṣṭha",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which body parts touch each other mutually?",
+   "premises": [
+    "Mutual touching is prescribed.",
+    "Soles are named.",
+    "Hand-backs are named."
+   ],
+   "inference": "The soles and hand-backs touch each other mutually.",
+   "uncertainties": [
+    "The exact posture is not described."
+   ],
+   "plain_english": "Mutually touch the soles and the backs of the hands."
+  },
+  {
+   "verse": 545,
+   "rows": [
+    {
+     "surface": "vidyāśarīratāṃ",
+     "gloss": "vidyā-body",
+     "grounds": "compound vidyā + śarīra + tā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "their",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "śaktyantamuttamam",
+     "gloss": "śakti-end-supreme",
+     "grounds": "compound śakti + anta + uttama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is meditated upon as the supreme end of their śakti?",
+   "premises": [
+    "Vidyā-body is meditated upon.",
+    "Their śakti-end is named.",
+    "It is called supreme."
+   ],
+   "inference": "One meditates on the vidyā-body as the supreme end of their śakti.",
+   "uncertainties": [
+    "The referents of 'their' are not explicit."
+   ],
+   "plain_english": "Meditating on the vidyā-body, [reach] the supreme end of their śakti."
+  },
+  {
+   "verse": 546,
+   "rows": [
+    {
+     "surface": "gṛhasthaḥ",
+     "gloss": "householder",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭimārgeṇa",
+     "gloss": "creation-path",
+     "grounds": "compound sṛṣṭi + mārga",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "karanyāsaṃ",
+     "gloss": "hand-nyāsa",
+     "grounds": "compound kara + nyāsa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause",
+     "grounds": "verb root kṛ causative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How does the householder perform hand-nyāsa?",
+   "premises": [
+    "Householder is the subject.",
+    "Creation path is specified.",
+    "Hand-nyāsa is caused."
+   ],
+   "inference": "The householder performs hand-nyāsa by the creation path.",
+   "uncertainties": [
+    "The exact hand movements are not detailed."
+   ],
+   "plain_english": "The householder performs hand-nyāsa by the creation path."
+  },
+  {
+   "verse": 547,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhādikaniṣṭhāntam",
+     "gloss": "thumb-to-little",
+     "grounds": "compound aṅguṣṭha + ādi + kaniṣṭha + anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īśātsadyāvasānakam",
+     "gloss": "īśa-to-sadya-end",
+     "grounds": "compound īśa + sadya + avasānaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the range of the creation-path hand-nyāsa?",
+   "premises": [
+    "Thumb to little finger is named.",
+    "Īśa to Sadya end is named.",
+    "The range is specified."
+   ],
+   "inference": "The creation-path hand-nyāsa runs from thumb to little finger and from Īśa to Sadya end.",
+   "uncertainties": [
+    "The exact finger-mantra mapping is not stated."
+   ],
+   "plain_english": "From thumb to little finger, from Īśa to Sadya end."
+  },
+  {
+   "verse": 548,
+   "rows": [
+    {
+     "surface": "kaniṣṭhādyaṅguṣṭhāntaṃ",
+     "gloss": "little-to-thumb",
+     "grounds": "compound kaniṣṭha + ādi + aṅguṣṭha + anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhāranyāsam",
+     "gloss": "dissolution-nyāsa",
+     "grounds": "compound saṃhāra + nyāsa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "called",
+     "grounds": "verb root vac passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is the dissolution-nyāsa called?",
+   "premises": [
+    "Little to thumb is named.",
+    "Dissolution-nyāsa is named.",
+    "It is called so."
+   ],
+   "inference": "The dissolution-nyāsa is the reverse movement from little finger to thumb.",
+   "uncertainties": [
+    "The exact mantra sequence is not stated."
+   ],
+   "plain_english": "From little finger to thumb is called dissolution-nyāsa."
+  },
+  {
+   "verse": 549,
+   "rows": [
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastatale",
+     "gloss": "palm",
+     "grounds": "compound hasta + tala",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "arrange",
+     "grounds": "verb root vi + ni + as",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is placed on the palm before arranging the limbs?",
+   "premises": [
+    "Eye is placed.",
+    "Palm is the location.",
+    "Limbs are arranged afterwards."
+   ],
+   "inference": "The eye is placed on the palm, and afterwards the limbs are arranged.",
+   "uncertainties": [
+    "The exact limb arrangement is not detailed."
+   ],
+   "plain_english": "Place the eye on the palm, then arrange the limbs."
+  }
+ ]
+}

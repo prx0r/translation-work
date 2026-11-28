@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "chatrākāraṃ",
+     "gloss": "umbrella-shaped",
+     "grounds": "describes the form of the entablature (prastaraṃ) mentioned in the previous verse",
+     "morph": "adj.acc.sg.n."
+    },
+    {
+     "surface": "śiropetaṃ",
+     "gloss": "with-head",
+     "grounds": "compound qualifying the umbrella-shaped form",
+     "morph": "śiras-upeta, adj.acc.sg.n."
+    },
+    {
+     "surface": "sabhākāramathāpi",
+     "gloss": "hall-shaped-and-also",
+     "grounds": "fused form sabhā-ākāram + atha + api presenting an alternative shape",
+     "morph": "compound+indecl.+indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks the alternative between prescribed forms",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative shapes are prescribed for the entablature in this architectural construction?",
+   "premises": [
+    "The entablature may be made umbrella-shaped.",
+    "The umbrella-shaped entablature is to be furnished with a head.",
+    "Alternatively, the entablature may be made assembly-hall-shaped."
+   ],
+   "inference": "The construction rules permit either an umbrella-shaped entablature with a head or an assembly-hall-shaped entablature.",
+   "uncertainties": [
+    "The precise architectural referent of śiras in this context is not fully specified."
+   ],
+   "plain_english": "The entablature should be made umbrella-shaped with a head, or alternatively shaped like an assembly hall."
+  }
+ ]
+}

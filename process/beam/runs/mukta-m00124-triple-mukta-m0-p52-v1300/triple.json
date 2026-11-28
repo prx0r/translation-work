@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "vahnibījaṃ",
+     "gloss": "fire-seed",
+     "grounds": "compound denoting the seed-mantra of fire",
+     "morph": "compound n.acc.sg.nt"
+    },
+    {
+     "surface": "ṣaḍaṅgaiḥ",
+     "gloss": "with-six-limbs",
+     "grounds": "instrumental indicating accompaniment in ritual application",
+     "morph": "compound m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "specifies the deity to whom the limbs belong",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃyojanaṃ",
+     "gloss": "joining",
+     "grounds": "ritual act of uniting mantra elements",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-effect",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "What ritual joining must be effected between the fire-seed and the six limbs of fire?",
+   "premises": [
+    "The fire-seed is the mantra element to be ritually applied.",
+    "The six limbs are associated with fire in this procedure.",
+    "The prescribed action requires effecting a joining of these elements."
+   ],
+   "inference": "The practitioner should effect the joining of the fire-seed with the six limbs of fire.",
+   "uncertainties": [
+    "The specific bīja syllable for fire is not named in this verse."
+   ],
+   "plain_english": "One should effect the joining of the fire-seed with the six limbs of fire."
+  }
+ ]
+}

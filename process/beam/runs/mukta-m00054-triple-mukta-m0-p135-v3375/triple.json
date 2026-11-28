@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "veda+sarvasva+bhūtāni",
+     "gloss": "veda-essence-consisting",
+     "grounds": "compound of veda, sarvasva, and bhūta meaning consisting of the essence of the Vedas",
+     "morph": "compound: veda+sarvasva+bhūta; n.nom.pl.nt"
+    },
+    {
+     "surface": "nāmāny",
+     "gloss": "names",
+     "grounds": "refers to the names mentioned previously",
+     "morph": "n.nom.pl.nt"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative pointing to the specified names",
+     "morph": "pron.nom.pl.nt"
+    },
+    {
+     "surface": "vastutaḥ",
+     "gloss": "in-reality",
+     "grounds": "indeclinable asserting the true nature",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutes the true essential nature of these divine names?",
+   "premises": [
+    "These specific names are the subject of identification.",
+    "They consist of the entire essence of the Vedas.",
+    "This characterization holds in ultimate reality."
+   ],
+   "inference": "Therefore, these names are in reality the very essence of the Vedas.",
+   "uncertainties": [],
+   "plain_english": "In reality, these names consist of the very essence of the Vedas."
+  }
+ ]
+}

@@ -1,0 +1,1053 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "brahmaiva",
+     "gloss": "brahma-indeed",
+     "grounds": "sandhi: brahma + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of identification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījaśaktī",
+     "gloss": "seed-powers",
+     "grounds": "bīja + śaktī",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "a-ū",
+     "gloss": "a-and-ū",
+     "grounds": "seed syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "manner of correspondence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deity and seed-powers are identified with Brahma in sequence?",
+   "premises": [
+    "Brahma is identified as the deity.",
+    "The seed-powers are a and ū.",
+    "This identification follows a sequence."
+   ],
+   "inference": "Brahma corresponds to the deity whose seed-powers are a and ū in order.",
+   "uncertainties": [],
+   "plain_english": "Brahma indeed is the deity, and its seed-powers are a and ū in sequence."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "svaradvandvasya",
+     "gloss": "of-vowel-pair",
+     "grounds": "svara + dvandva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund(√kṣip)"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior action",
+     "morph": "gerund(√tyaj)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "group-of-four",
+     "grounds": "object of abandonment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What placement and abandonment occur within the pair of vowels?",
+   "premises": [
+    "An action occurs in the middle of a vowel pair.",
+    "Something is placed there.",
+    "A group of four is abandoned."
+   ],
+   "inference": "Within the vowel pair, placement is made after abandoning a group of four.",
+   "uncertainties": [
+    "The exact referents of the placed element and the group of four are not specified."
+   ],
+   "plain_english": "In the middle of the vowel pair, having placed and having abandoned the group of four."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijñānamātreṇa",
+     "gloss": "by-mere-knowledge",
+     "grounds": "vijñāna + mātra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "parabrahmaiva",
+     "gloss": "supreme-brahman-indeed",
+     "grounds": "sandhi: parabrahma + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "subject identified as supreme Brahman",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What realization reveals the teacher to be supreme Brahman itself?",
+   "premises": [
+    "There is a knowledge belonging to someone.",
+    "By mere knowledge of that, an identification occurs.",
+    "The teacher is identified as supreme Brahman."
+   ],
+   "inference": "Through mere knowledge of this, the teacher is recognized as supreme Brahman itself.",
+   "uncertainties": [
+    "The antecedent of 'yasya' is implied from the previous verse."
+   ],
+   "plain_english": "By whose mere knowledge the teacher is indeed the supreme Brahman."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "mohabaddho",
+     "gloss": "bound-by-delusion",
+     "grounds": "sandhi: moha-baddhaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "present action",
+     "morph": "3.sg.act-pres(√jñā)"
+    },
+    {
+     "surface": "mokṣastasya",
+     "gloss": "liberation-of-him",
+     "grounds": "sandhi: mokṣaḥ + tasya",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present state",
+     "morph": "3.sg.pass-pres(√vid)"
+    }
+   ],
+   "question": "What consequence follows for one bound by delusion who lacks this knowledge?",
+   "premises": [
+    "One bound by delusion does not know.",
+    "Liberation is considered for that person.",
+    "Liberation does not exist for that person."
+   ],
+   "inference": "For the one bound by delusion who does not know, liberation is not possible.",
+   "uncertainties": [],
+   "plain_english": "One bound by delusion does not know; for such a person there is no liberation."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "ucchvāsaniḥśvāsatayā",
+     "gloss": "as-exhalation-inhalation",
+     "grounds": "ucchvāsa + niḥśvāsa + tayā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhakṣayo",
+     "gloss": "destruction-of-bondage",
+     "grounds": "sandhi: bandha-kṣayaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-opt(√bhū)"
+    }
+   ],
+   "question": "Through what process can the destruction of bondage arise?",
+   "premises": [
+    "Exhalation and inhalation are present as a process.",
+    "A temporal condition is indicated.",
+    "Destruction of bondage is a possible result."
+   ],
+   "inference": "Through the process of exhalation and inhalation, the destruction of bondage can occur.",
+   "uncertainties": [],
+   "plain_english": "Then, through exhalation and inhalation, the destruction of bondage would come about."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇastu",
+     "gloss": "breath-indeed",
+     "grounds": "sandhi: prāṇaḥ + tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "haṃsākhya",
+     "gloss": "called-haṃsa",
+     "grounds": "sandhi: haṃsa-ākhyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmākāreṇa",
+     "gloss": "in-form-of-self",
+     "grounds": "ātma + ākāra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "situated",
+     "grounds": "state of being",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the vital breath identified and situated within the self?",
+   "premises": [
+    "A conclusion is drawn from the previous statement.",
+    "The breath is called haṃsa.",
+    "The breath is situated in the form of the self."
+   ],
+   "inference": "Therefore, the breath known as haṃsa abides in the form of the self.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the breath, called haṃsa, is situated in the form of the self."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "ṣaṣṭināḍyā",
+     "gloss": "by-sixty-measures",
+     "grounds": "ṣaṣṭi + nāḍyā",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ahorātraṃ",
+     "gloss": "day-and-night",
+     "grounds": "ahar + rātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japasaṃkhyājapāmanoḥ",
+     "gloss": "of-recitation-count-and-mind",
+     "grounds": "japa-saṃkhyā + japa + manoḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "What temporal measure governs the count and mind of recitation?",
+   "premises": [
+    "A measure of sixty nāḍīs is given.",
+    "This spans day and night.",
+    "It relates to the count and mind of recitation."
+   ],
+   "inference": "The cycle of day and night measured by sixty nāḍīs governs the count and mind of recitation.",
+   "uncertainties": [
+    "The exact parsing of the final compound is interpretive."
+   ],
+   "plain_english": "Through sixty nāḍīs, day and night, in relation to the count and mind of recitation."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "japate",
+     "gloss": "recites",
+     "grounds": "continuous action",
+     "morph": "3.sg.mid-pres(√jap)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "prati + aham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇī",
+     "gloss": "living-being",
+     "grounds": "agent of recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "spandānandamayīṃ",
+     "gloss": "made-of-vibration-bliss",
+     "grounds": "spanda + ānanda + mayīṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "qualifies the recited reality",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What supreme reality does the living being recite every day?",
+   "premises": [
+    "The living being performs recitation daily.",
+    "The object of recitation is supreme.",
+    "That supreme reality is made of vibration and bliss."
+   ],
+   "inference": "Every day the living being recites the supreme reality composed of vibration and bliss.",
+   "uncertainties": [],
+   "plain_english": "Every day the living being recites the supreme reality, made of vibration and bliss."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japena",
+     "gloss": "recitation",
+     "grounds": "instrument excluded",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "sandhi: japaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "occurs",
+     "grounds": "present state",
+     "morph": "3.sg.act-pres(√bhū)"
+    },
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "of-mantra-practitioner",
+     "grounds": "possessor of recitation",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How can recitation occur for the mantra-practitioner without deliberate recitation?",
+   "premises": [
+    "Deliberate recitation is absent.",
+    "Recitation still occurs.",
+    "This occurs for the mantra-practitioner."
+   ],
+   "inference": "For the mantra-practitioner, recitation arises even without deliberate recitation.",
+   "uncertainties": [],
+   "plain_english": "O Goddess-lord, for the mantra-practitioner recitation occurs even without recitation."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "śrīguroḥ",
+     "gloss": "of-glorious-guru",
+     "grounds": "śrī + guroḥ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "by-grace",
+     "grounds": "means of attainment",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "attainment",
+     "morph": "3.sg.mid-pres(√labh)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "sandhi: na + anyathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what means alone can this spontaneous recitation be obtained?",
+   "premises": [
+    "Attainment is possible through the guru's grace.",
+    "No other means is effective.",
+    "The attainment is affirmed."
+   ],
+   "inference": "This attainment comes only through the grace of the glorious guru.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, O beloved, one obtains it by the grace of the glorious guru, and not otherwise."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "gaṇeśabrahmaviṣṇubhyo",
+     "gloss": "to-gaṇeśa-brahma-viṣṇu",
+     "grounds": "gaṇeśa + brahma + viṣṇubhyaḥ",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "harāya",
+     "gloss": "to-hara",
+     "grounds": "recipient deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To which deities is the offering directed in this sequence?",
+   "premises": [
+    "Gaṇeśa, Brahma, and Viṣṇu are named as recipients.",
+    "Hara is named as a recipient.",
+    "The address is to the supreme goddess."
+   ],
+   "inference": "The offering is directed to Gaṇeśa, Brahma, Viṣṇu, and Hara.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Goddess, to Gaṇeśa, Brahma, and Viṣṇu, and to Hara."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "ṣaṭśatāni",
+     "gloss": "six-hundreds",
+     "grounds": "ṣaṭ + śatāni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sahasrāṇi",
+     "gloss": "thousands",
+     "grounds": "numerical quantity",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍeva",
+     "gloss": "six-indeed",
+     "grounds": "sandhi: ṣaḍ + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities are specified for the offerings in this sequence?",
+   "premises": [
+    "Six hundreds are mentioned.",
+    "Thousands are mentioned.",
+    "Six is emphasized again."
+   ],
+   "inference": "The specified quantities include six hundreds, thousands, and six again.",
+   "uncertainties": [
+    "The exact distribution of these numbers to recipients is completed in the next verse."
+   ],
+   "plain_english": "Six hundreds, thousands, and six indeed, and likewise again."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numerical quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "manner of offering",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "injunction",
+     "morph": "3.sg.act-opt(√niveday)"
+    }
+   ],
+   "question": "How should the final portion of the offering be dedicated to the guru?",
+   "premises": [
+    "A thousand is mentioned again.",
+    "The guru is the recipient.",
+    "The offering should be made in sequence."
+   ],
+   "inference": "One should offer a thousand to the guru in proper sequence.",
+   "uncertainties": [],
+   "plain_english": "Again, one should offer a thousand to the guru in sequence."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "sahajaṃ",
+     "gloss": "innate",
+     "grounds": "quality of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "perform",
+     "grounds": "command",
+     "morph": "2.sg.act-imp(√kṛ)"
+    },
+    {
+     "surface": "vicakṣaṇe",
+     "gloss": "o-skillful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What kind of ritual placement is the practitioner instructed to perform?",
+   "premises": [
+    "A placement is to be performed.",
+    "The placement is described as innate.",
+    "The instruction is given as a command."
+   ],
+   "inference": "The practitioner is instructed to perform the innate placement.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Lady, O skillful one, perform the innate placement."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of identification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramādistu",
+     "gloss": "supreme-first-indeed",
+     "grounds": "sandhi: paramādiḥ + tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "haṃso",
+     "gloss": "haṃsa",
+     "grounds": "sandhi: haṃsaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "seed syllable, byte-exact mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījamucyate",
+     "gloss": "is-called-seed",
+     "grounds": "sandhi: bījam + ucyate",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which deity and seed syllable are declared for this practice?",
+   "premises": [
+    "The deity is identified as the supreme first.",
+    "That deity is Haṃsa.",
+    "Haṃ is called the seed."
+   ],
+   "inference": "The supreme deity is Haṃsa and its seed syllable is Haṃ.",
+   "uncertainties": [],
+   "plain_english": "The deity is the supreme first, Haṃsa, and Haṃ is called the seed."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "nāda",
+     "gloss": "nāda",
+     "grounds": "technical term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śveto",
+     "gloss": "white",
+     "grounds": "sandhi: śvetaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇastu",
+     "gloss": "color-indeed",
+     "grounds": "sandhi: varṇaḥ + tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What place and color are associated with this mantra element?",
+   "premises": [
+    "Nāda is identified as the place.",
+    "The color is stated as white.",
+    "These attributes are given for the practice."
+   ],
+   "inference": "The place is nāda and the color is white.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Goddess, nāda is the place, and the color is indeed white."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "mokṣārthe",
+     "gloss": "for-liberation-purpose",
+     "grounds": "mokṣa + arthe",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syādevaṃ",
+     "gloss": "should-be-thus",
+     "grounds": "sandhi: syāt + evaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "jānīhi",
+     "gloss": "know",
+     "grounds": "command",
+     "morph": "2.sg.act-imp(√jñā)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "For what purpose is the application of this mantra prescribed?",
+   "premises": [
+    "An application is prescribed.",
+    "The purpose is liberation.",
+    "The instruction is to know it thus."
+   ],
+   "inference": "The application of this mantra is prescribed for the purpose of liberation.",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, know that its application is thus for the purpose of liberation."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "sūryaṃ",
+     "gloss": "sun",
+     "grounds": "object of placement or contemplation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "somaṃ",
+     "gloss": "moon",
+     "grounds": "object of placement or contemplation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nirañjanamataḥ",
+     "gloss": "stainless-then",
+     "grounds": "sandhi: nirañjanam + ataḥ",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the stainless principle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which principles are to be contemplated beyond sun and moon?",
+   "premises": [
+    "Sun and moon are named.",
+    "A stainless principle is named after them.",
+    "That principle is described as supreme."
+   ],
+   "inference": "Beyond sun and moon, the supreme stainless principle is to be contemplated.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, contemplate the sun, the moon, and then the supreme stainless principle."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "kavacāntān",
+     "gloss": "ending-with-armor",
+     "grounds": "kavaca + antān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pravinyasya",
+     "gloss": "having-placed",
+     "grounds": "prior ritual action",
+     "morph": "gerund(√pravinyas)"
+    },
+    {
+     "surface": "tato'nantapadaṃ",
+     "gloss": "then-infinite-state",
+     "grounds": "sandhi: tataḥ + anantapadaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "injunction",
+     "morph": "3.sg.act-opt(√smṛ)"
+    }
+   ],
+   "question": "What should be remembered after placing the elements ending with the armor?",
+   "premises": [
+    "Elements ending with the armor are placed.",
+    "After that placement, remembrance follows.",
+    "The object of remembrance is the infinite state."
+   ],
+   "inference": "After placing the elements ending with the armor, one should remember the infinite state.",
+   "uncertainties": [],
+   "plain_english": "Having placed the elements ending with the armor, one should then remember the infinite state."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "svāhāntenaiva",
+     "gloss": "ending-with-svāhā-alone",
+     "grounds": "sandhi: svāhā-antena + eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "nayanamavyaktapadapūrvakaḥ",
+     "gloss": "eye-preceded-by-unmanifest-state",
+     "grounds": "nayanam + avyakta-pada-pūrvakaḥ",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the eye placement specified in relation to svāhā and the unmanifest state?",
+   "premises": [
+    "The placement ends with svāhā alone.",
+    "The eye is specified.",
+    "The eye is preceded by the unmanifest state."
+   ],
+   "inference": "The eye placement is performed ending with svāhā alone and preceded by the unmanifest state.",
+   "uncertainties": [
+    "The compound is dense and may encode a specific mantra sequence."
+   ],
+   "plain_english": "The eye placement, preceded by the unmanifest state, is done ending with svāhā alone."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "haṃsasya",
+     "gloss": "of-haṃsa",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nigamāgamapakṣakau",
+     "gloss": "veda-and-āgama-two-wings",
+     "grounds": "nigama + āgama + pakṣakau",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What are described as the two wings of this Haṃsa?",
+   "premises": [
+    "This Haṃsa is the subject.",
+    "Two wings are attributed to it.",
+    "The wings are identified as Nigama and Āgama."
+   ],
+   "inference": "Nigama and Āgama are the two wings of this Haṃsa.",
+   "uncertainties": [],
+   "plain_english": "O Goddess-lord, Nigama and Āgama are the two wings of this Haṃsa."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "bindutrayaṃ",
+     "gloss": "three-dots",
+     "grounds": "bindu + trayaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "body placement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "netre",
+     "gloss": "two-eyes",
+     "grounds": "body placement",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nādaḥ",
+     "gloss": "nāda",
+     "grounds": "technical term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhitaḥ",
+     "gloss": "established",
+     "grounds": "state of placement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where are the three dots and nāda established in this form?",
+   "premises": [
+    "Three dots are associated with the crest and eyes.",
+    "Nāda is mentioned.",
+    "Nāda is established in the mouth."
+   ],
+   "inference": "The three dots are placed at the crest and eyes, and nāda is established in the mouth.",
+   "uncertainties": [],
+   "plain_english": "The three dots are at the crest and eyes, and nāda is established in the mouth."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramahaṃsastu",
+     "gloss": "supreme-haṃsa-indeed",
+     "grounds": "sandhi: paramahaṃsaḥ + tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvavyāpī",
+     "gloss": "all-pervading",
+     "grounds": "sarva + vyāpī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśavān",
+     "gloss": "luminous",
+     "grounds": "prakāśa + vān",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize this supreme Haṃsa?",
+   "premises": [
+    "This is identified as the supreme Haṃsa.",
+    "It is described as all-pervading.",
+    "It is described as luminous."
+   ],
+   "inference": "This supreme Haṃsa is all-pervading and luminous.",
+   "uncertainties": [],
+   "plain_english": "This supreme Haṃsa is indeed all-pervading and luminous."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "saṃhārarūpī",
+     "gloss": "having-dissolution-form",
+     "grounds": "saṃhāra + rūpī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haṃso'yaṃ",
+     "gloss": "this-haṃsa",
+     "grounds": "sandhi: haṃsaḥ + ayaṃ",
+     "morph": "compound"
+    },
+    {
+     "surface": "vivekaṃ",
+     "gloss": "discernment",
+     "grounds": "object revealed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "darśayatyapi",
+     "gloss": "shows-also",
+     "grounds": "sandhi: darśayati + api",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does this dissolution-formed Haṃsa reveal to the practitioner?",
+   "premises": [
+    "This Haṃsa has the form of dissolution.",
+    "It performs an act of showing.",
+    "The object shown is discernment."
+   ],
+   "inference": "This Haṃsa, in the form of dissolution, also reveals discernment.",
+   "uncertainties": [],
+   "plain_english": "This Haṃsa, whose form is dissolution, also reveals discernment."
+  }
+ ]
+}

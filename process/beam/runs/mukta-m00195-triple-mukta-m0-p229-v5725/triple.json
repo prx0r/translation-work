@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p229",
+ "items": [
+  {
+   "verse": 5725,
+   "rows": [
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of invocation and worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "prior ritual act directed toward the goddess",
+     "morph": "gerund (ā-√vah)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "subsequent ritual act following invocation",
+     "morph": "gerund (sam-√pūj)"
+    },
+    {
+     "surface": "havanam",
+     "gloss": "oblation",
+     "grounds": "fire-offering performed as ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction for the practitioner",
+     "morph": "3.sg.optative.active (√car)"
+    }
+   ],
+   "question": "What sequence of invocation, worship, and oblation constitutes the prescribed ritual action for the goddess?",
+   "premises": [
+    "The goddess is the recipient of the ritual acts.",
+    "Invocation must precede the worship of the goddess.",
+    "Worship must precede the performance of the oblation."
+   ],
+   "inference": "The practitioner should invoke and worship the goddess, then perform the oblation.",
+   "uncertainties": [
+    "The specific materials and procedure of the oblation are not detailed in this verse."
+   ],
+   "plain_english": "Having invoked and worshipped the goddess, one should perform the oblation."
+  }
+ ]
+}

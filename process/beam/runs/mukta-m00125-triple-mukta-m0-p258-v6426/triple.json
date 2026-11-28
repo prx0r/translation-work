@@ -1,0 +1,1027 @@
+{
+ "song": "mukta-m0-p258",
+ "items": [
+  {
+   "verse": 6426,
+   "rows": [
+    {
+     "surface": "tatvamūrti",
+     "gloss": "true-form",
+     "grounds": "compound referring to the essential form",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadīśaiśca",
+     "gloss": "with-those-lords-and",
+     "grounds": "tad + īśaiḥ + ca; instrumental plural with conjunction",
+     "morph": "m.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "gurur",
+     "gloss": "guru",
+     "grounds": "the preceptor performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "Who must perform the oblation together with the lords of the true form?",
+   "premises": [
+    "The rite involves the true form",
+    "The lords of that form are included",
+    "The guru is the prescribed agent"
+   ],
+   "inference": "The guru should perform the oblation together with the lords of the true form.",
+   "uncertainties": [],
+   "plain_english": "The guru should perform the oblation together with the lords of the true form."
+  },
+  {
+   "verse": 6427,
+   "rows": [
+    {
+     "surface": "śamyā",
+     "gloss": "śamyā",
+     "grounds": "name of a sacred wood",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "apāmarga",
+     "gloss": "apāmarga",
+     "grounds": "name of a sacred plant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvṛkṣa",
+     "gloss": "śrī-tree",
+     "grounds": "sacred fig or bilva type tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pippalāsyurvidaggatāḥ",
+     "gloss": "pippala-etc-known",
+     "grounds": "fused form listing pippala and others as known",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which sacred woods are recognized as suitable for the ritual use described?",
+   "premises": [
+    "Śamyā is named as suitable",
+    "Apāmarga and śrīvṛkṣa are named",
+    "Pippala and others are included as known"
+   ],
+   "inference": "Śamyā, apāmarga, śrīvṛkṣa, pippala and other known woods are suitable.",
+   "uncertainties": [
+    "Exact scope of 'etc' in the fused final token is not specified."
+   ],
+   "plain_english": "Śamyā, apāmarga, śrīvṛkṣa, pippala and other known woods are to be used."
+  },
+  {
+   "verse": 6428,
+   "rows": [
+    {
+     "surface": "pūrṇāndatvā",
+     "gloss": "having-fullness",
+     "grounds": "state of completeness; sandhi in fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyehni",
+     "gloss": "on-second-day",
+     "grounds": "dvitīye + ahni; locative time expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "done",
+     "grounds": "completed action",
+     "morph": "past-participle"
+    },
+    {
+     "surface": "kuṃbhāgni+pūjanaḥ",
+     "gloss": "pot-fire-worship",
+     "grounds": "compound: worship of pot and fire",
+     "morph": "compound"
+    }
+   ],
+   "question": "On which day must the worship of the pot and fire be completed?",
+   "premises": [
+    "A state of fullness is indicated",
+    "The second day is specified",
+    "Worship of pot and fire is performed"
+   ],
+   "inference": "The worship of the pot and fire should be completed on the second day.",
+   "uncertainties": [
+    "The precise sense of pūrṇāndatvā in this context is unclear."
+   ],
+   "plain_english": "On the second day, having attained fullness, one should complete the worship of the pot and fire."
+  },
+  {
+   "verse": 6429,
+   "rows": [
+    {
+     "surface": "muhūrte",
+     "gloss": "at-auspicious-moment",
+     "grounds": "proper ritual time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samanuprāpte",
+     "gloss": "having-arrived",
+     "grounds": "when the time has come",
+     "morph": "m.loc.sg (past-participle)"
+    },
+    {
+     "surface": "mantranyāsaṃ",
+     "gloss": "mantra-placement",
+     "grounds": "ritual placement of mantras",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "At what time must the placement of mantras be properly performed?",
+   "premises": [
+    "An auspicious moment is required",
+    "That moment must have arrived",
+    "Mantra placement is the prescribed act"
+   ],
+   "inference": "When the auspicious moment arrives, one should perform the placement of mantras.",
+   "uncertainties": [],
+   "plain_english": "When the auspicious moment has arrived, one should perform the placement of the mantras."
+  },
+  {
+   "verse": 6430,
+   "rows": [
+    {
+     "surface": "anuktam",
+     "gloss": "not-stated",
+     "grounds": "what is not explicitly mentioned",
+     "morph": "n.acc.sg (past-participle)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmānya",
+     "gloss": "general",
+     "grounds": "common or general rule",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthāpanoktavad",
+     "gloss": "as-in-establishment",
+     "grounds": "according to what is said in installation rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "How should matters not explicitly stated in this context be carried out?",
+   "premises": [
+    "Some details are not stated here",
+    "General rules apply to unstated matters",
+    "Installation prescriptions provide the model"
+   ],
+   "inference": "Whatever is not stated here should be done according to the general rules of installation.",
+   "uncertainties": [],
+   "plain_english": "Whatever is not stated here should be performed according to the general rules given for installation."
+  },
+  {
+   "verse": 6431,
+   "rows": [
+    {
+     "surface": "ihaiva",
+     "gloss": "here-only",
+     "grounds": "in this very life or place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanavān",
+     "gloss": "wealthy",
+     "grounds": "possessing wealth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "prosperous",
+     "grounds": "endowed with auspicious fortune",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāṃchitaṃ",
+     "gloss": "desired",
+     "grounds": "wished for",
+     "morph": "n.acc.sg (past-participle)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or reward",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative result",
+     "morph": "3.sg.opt.act (√āp)"
+    }
+   ],
+   "question": "What benefits does the performer obtain in this very life from the rite?",
+   "premises": [
+    "The result occurs here itself",
+    "Wealth and prosperity are attained",
+    "The desired fruit is obtained"
+   ],
+   "inference": "The performer becomes wealthy and prosperous and obtains the desired fruit here itself.",
+   "uncertainties": [],
+   "plain_english": "Here itself one becomes wealthy and prosperous and obtains the desired fruit."
+  },
+  {
+   "verse": 6432,
+   "rows": [
+    {
+     "surface": "paiṭhīca",
+     "gloss": "paiṭhī-and",
+     "grounds": "name of a type with conjunction",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śekharīmaṇḍī",
+     "gloss": "śekharī-maṇḍī",
+     "grounds": "names of two types",
+     "morph": "compound"
+    },
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "of three kinds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "stated in tradition",
+     "morph": "f.nom.sg (past-participle)"
+    }
+   ],
+   "question": "Into how many types is the palanquin structure traditionally classified?",
+   "premises": [
+    "Paiṭhī is one type",
+    "Śekharī and maṇḍī are named",
+    "The classification is declared threefold"
+   ],
+   "inference": "The structure is declared to be of three kinds: paiṭhī, śekharī, and maṇḍī.",
+   "uncertainties": [
+    "Exact identification of śekharīmaṇḍī as two distinct types is inferred from trividhā."
+   ],
+   "plain_english": "It is declared to be threefold: paiṭhī, śekharī, and maṇḍī."
+  },
+  {
+   "verse": 6433,
+   "rows": [
+    {
+     "surface": "ṣaṇṇavatyaṃśa",
+     "gloss": "ninety-six-part",
+     "grounds": "division into ninety-six parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāntastu",
+     "gloss": "measure-but",
+     "grounds": "kāntaḥ + tu; the measure or extent",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śibikā",
+     "gloss": "palanquin",
+     "grounds": "the palanquin",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vistaromataḥ",
+     "gloss": "width-by-opinion",
+     "grounds": "extent according to accepted view",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional width is prescribed for the palanquin according to tradition?",
+   "premises": [
+    "The palanquin is the subject",
+    "Its width is measured in parts",
+    "Ninety-six parts are specified by opinion"
+   ],
+   "inference": "The width of the palanquin is prescribed as ninety-six parts according to tradition.",
+   "uncertainties": [
+    "The base unit of the ninety-six parts is not stated."
+   ],
+   "plain_english": "According to tradition, the width of the palanquin is measured in ninety-six parts."
+  },
+  {
+   "verse": 6434,
+   "rows": [
+    {
+     "surface": "ekon",
+     "gloss": "one-less",
+     "grounds": "less by one",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numerical measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāva",
+     "gloss": "up-to",
+     "grounds": "extent or limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāyāmaṃ",
+     "gloss": "length",
+     "grounds": "longitudinal measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-measure",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√kḷp)"
+    }
+   ],
+   "question": "Up to what maximum length should the palanquin be measured?",
+   "premises": [
+    "A length measure is required",
+    "The upper limit is specified numerically",
+    "One less than two hundred is the limit"
+   ],
+   "inference": "One should measure the length up to one less than two hundred units.",
+   "uncertainties": [
+    "The unit of measurement is not explicitly stated."
+   ],
+   "plain_english": "One should measure the length up to one hundred and ninety-nine units."
+  },
+  {
+   "verse": 6435,
+   "rows": [
+    {
+     "surface": "pādabāhyantu",
+     "gloss": "outside-foot-but",
+     "grounds": "area outside the foot/base",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "pertaining to deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "rājñāmapi",
+     "gloss": "of-kings-also",
+     "grounds": "pertaining to kings as well",
+     "morph": "m.gen.pl + (indecl.)"
+    },
+    {
+     "surface": "viśiṣyate",
+     "gloss": "is-distinguished",
+     "grounds": "is specially prescribed",
+     "morph": "3.sg.pres.pass (√śiṣ)"
+    }
+   ],
+   "question": "For whom is the outer foot measurement specially distinguished in this prescription?",
+   "premises": [
+    "The outer foot area is considered",
+    "Gods are included in the prescription",
+    "Kings are also included"
+   ],
+   "inference": "The outer foot measurement is specially distinguished for gods and also for kings.",
+   "uncertainties": [],
+   "plain_english": "The outer foot measurement is specially prescribed for gods and also for kings."
+  },
+  {
+   "verse": 6436,
+   "rows": [
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meveṣikā",
+     "gloss": "meveṣikā",
+     "grounds": "name of a structural part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bāhyā",
+     "gloss": "outer",
+     "grounds": "external position",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "intermediate measure or type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "stated in tradition",
+     "morph": "n.nom.sg (past-participle)"
+    }
+   ],
+   "question": "How is the outer meveṣikā classified in terms of its measure?",
+   "premises": [
+    "The meveṣikā is the subject",
+    "It is described as outer",
+    "It is declared to be of middle measure"
+   ],
+   "inference": "The outer meveṣikā is declared to be of the middle measure.",
+   "uncertainties": [],
+   "plain_english": "Thus the outer meveṣikā is declared to be of the middle measure."
+  },
+  {
+   "verse": 6437,
+   "rows": [
+    {
+     "surface": "tricaturbhūta",
+     "gloss": "three-four-elements",
+     "grounds": "compound indicating numerical elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṭ sapta",
+     "gloss": "six-seven",
+     "grounds": "numbers six and seven",
+     "morph": "numeral"
+    },
+    {
+     "surface": "navabhir",
+     "gloss": "with-nine",
+     "grounds": "instrumental plural of nine",
+     "morph": "ins.pl"
+    },
+    {
+     "surface": "vatsaro",
+     "gloss": "year",
+     "grounds": "year or cycle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Which numerical combinations determine the year or cycle in this calculation?",
+   "premises": [
+    "Multiple numbers are listed",
+    "Three, four, six, seven, and nine are involved",
+    "These determine the year or cycle"
+   ],
+   "inference": "The year or cycle is determined by combinations involving three, four, six, seven, and nine.",
+   "uncertainties": [
+    "The exact computational rule combining these numbers is unclear."
+   ],
+   "plain_english": "The year or cycle should be determined using three, four, six, seven, and nine."
+  },
+  {
+   "verse": 6438,
+   "rows": [
+    {
+     "surface": "vitstiraṅgulirvāpi",
+     "gloss": "width-finger-or-also",
+     "grounds": "fused form: width in fingers or alternatively",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñeya",
+     "gloss": "to-be-known",
+     "grounds": "should be understood",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "māyādi",
+     "gloss": "māyā-etc",
+     "grounds": "beginning with māyā and others",
+     "morph": "compound"
+    },
+    {
+     "surface": "śobhanam",
+     "gloss": "auspicious",
+     "grounds": "favorable or good",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure and factors are considered auspicious in this determination?",
+   "premises": [
+    "Width may be measured in fingers",
+    "Factors beginning with māyā are considered",
+    "The result is deemed auspicious"
+   ],
+   "inference": "The width in fingers, along with factors beginning with māyā, should be known as auspicious.",
+   "uncertainties": [
+    "The specific factors included under māyādi are not listed."
+   ],
+   "plain_english": "The width in fingers, or alternatively factors beginning with māyā, should be known as auspicious."
+  },
+  {
+   "verse": 6439,
+   "rows": [
+    {
+     "surface": "aṣṭatritrivasughnañca",
+     "gloss": "eight-three-three-eight-multiplied-and",
+     "grounds": "compound numerical multiplication with conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūryaiśca",
+     "gloss": "with-suns-and",
+     "grounds": "by twelves or suns, with conjunction",
+     "morph": "m.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "manubhirbhajet",
+     "gloss": "with-manus-divide",
+     "grounds": "divide by manus (fourteens)",
+     "morph": "m.ins.pl + 3.sg.opt.act (√bhaj)"
+    }
+   ],
+   "question": "By which numerical factors must the calculated quantity be multiplied and divided?",
+   "premises": [
+    "A multiplication by eight, three, three, and eight is indicated",
+    "Multiplication by suns is included",
+    "Division by manus is prescribed"
+   ],
+   "inference": "One should multiply by the stated factors and by suns, then divide by manus.",
+   "uncertainties": [
+    "The exact sequence and grouping of the numerical factors is ambiguous."
+   ],
+   "plain_english": "Multiply by eight, three, three, and eight and by the suns, and divide by the manus."
+  },
+  {
+   "verse": 6440,
+   "rows": [
+    {
+     "surface": "triṃśadbhiḥ",
+     "gloss": "by-thirty",
+     "grounds": "instrumental of thirty",
+     "morph": "ins.pl"
+    },
+    {
+     "surface": "munibhiḥ",
+     "gloss": "by-sages",
+     "grounds": "by sevens or sages",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "viprāḥ",
+     "gloss": "priests",
+     "grounds": "brāhmaṇas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyādayomatāḥ",
+     "gloss": "length-etc-considered",
+     "grounds": "fused form: length and related measures considered",
+     "morph": "compound"
+    }
+   ],
+   "question": "In what sequential order are length measures assigned to the priests?",
+   "premises": [
+    "Thirty and sages are numerical factors",
+    "Priests are the recipients of measures",
+    "Length and related measures are considered in order"
+   ],
+   "inference": "For priests, length and related measures are assigned in order using thirty and sages as factors.",
+   "uncertainties": [
+    "The precise mapping of numbers to measures is not fully explicit."
+   ],
+   "plain_english": "For the priests, length and related measures are considered in order by thirty and by the sages."
+  },
+  {
+   "verse": 6441,
+   "rows": [
+    {
+     "surface": "vistāreṇāthavā",
+     "gloss": "by-width-or",
+     "grounds": "by breadth or alternatively",
+     "morph": "m.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "yasyād",
+     "gloss": "whose",
+     "grounds": "of which; sandhi form",
+     "morph": "rel.pron"
+    },
+    {
+     "surface": "āyāmena",
+     "gloss": "by-length",
+     "grounds": "by longitudinal measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vyayo",
+     "gloss": "loss",
+     "grounds": "expenditure or vyaya factor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Under what dimensional condition does the vyaya factor arise in calculation?",
+   "premises": [
+    "Width or length may be used",
+    "A relation between dimensions is considered",
+    "The vyaya factor results from this"
+   ],
+   "inference": "The vyaya factor arises depending on whether width or length is used in the calculation.",
+   "uncertainties": [
+    "The exact formula producing vyaya is not specified."
+   ],
+   "plain_english": "Depending on the width or the length, the vyaya factor arises."
+  },
+  {
+   "verse": 6442,
+   "rows": [
+    {
+     "surface": "vistārāyāma",
+     "gloss": "width-length",
+     "grounds": "breadth and length together",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyogāt",
+     "gloss": "from-union",
+     "grounds": "from their combination",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tithir",
+     "gloss": "lunar-day",
+     "grounds": "tithi factor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vārastu",
+     "gloss": "weekday-but",
+     "grounds": "vāraḥ + tu; weekday factor",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tuṅgatāḥ",
+     "gloss": "heights",
+     "grounds": "elevations or height measures",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which calendrical and dimensional factors arise from combining width and length?",
+   "premises": [
+    "Width and length are combined",
+    "Lunar day and weekday are derived",
+    "Heights are also determined"
+   ],
+   "inference": "From the union of width and length, the lunar day, weekday, and heights are determined.",
+   "uncertainties": [
+    "The computational method linking dimensions to tithi and vāra is unclear."
+   ],
+   "plain_english": "From the combination of width and length, the lunar day, the weekday, and the heights are determined."
+  },
+  {
+   "verse": 6443,
+   "rows": [
+    {
+     "surface": "hastāntantuṅgamānaṃ",
+     "gloss": "up-to-hand-height-measure",
+     "grounds": "fused compound: height measure up to a hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "alaṅkārastu",
+     "gloss": "ornament-but",
+     "grounds": "alaṅkāraḥ + tu; decoration",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "is described",
+     "morph": "3.sg.pres.pass (√kath)"
+    }
+   ],
+   "question": "What height limit and decorative aspect are prescribed for the structure?",
+   "premises": [
+    "Height is measured up to a hand",
+    "This measure is prescribed",
+    "Ornamentation is also described"
+   ],
+   "inference": "The height should be up to a hand, and its ornamentation is then described.",
+   "uncertainties": [],
+   "plain_english": "The height should be up to a hand, and the ornamentation is described."
+  },
+  {
+   "verse": 6444,
+   "rows": [
+    {
+     "surface": "triṣaḍaṅgula",
+     "gloss": "three-six-finger",
+     "grounds": "three to six fingers",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryantam",
+     "gloss": "up-to-limit",
+     "grounds": "as the limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iṣikāvistaro",
+     "gloss": "meveṣikā-width",
+     "grounds": "width of the meveṣikā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "held as opinion",
+     "morph": "m.nom.sg (past-participle)"
+    }
+   ],
+   "question": "What range of width is considered proper for the meveṣikā?",
+   "premises": [
+    "The meveṣikā width is discussed",
+    "A range from three to six fingers is given",
+    "This range is accepted as the limit"
+   ],
+   "inference": "The width of the meveṣikā is considered to be from three up to six fingers.",
+   "uncertainties": [],
+   "plain_english": "The width of the meveṣikā is considered to be from three to six fingers."
+  },
+  {
+   "verse": 6445,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical measure",
+     "morph": "numeral"
+    },
+    {
+     "surface": "mātrāntam",
+     "gloss": "up-to-measures",
+     "grounds": "up to seven measures",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddiṣṭam",
+     "gloss": "prescribed",
+     "grounds": "declared",
+     "morph": "n.nom.sg (past-participle)"
+    },
+    {
+     "surface": "iṣikā",
+     "gloss": "meveṣikā",
+     "grounds": "structural part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bahulaṃ",
+     "gloss": "thickness",
+     "grounds": "abundant or thick dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "addressed to brāhmaṇas",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What maximum thickness is prescribed for the meveṣikā for the twice-born?",
+   "premises": [
+    "The meveṣikā is the subject",
+    "A limit of seven measures is given",
+    "This prescription is addressed to the twice-born"
+   ],
+   "inference": "The thickness of the meveṣikā is prescribed up to seven measures for the twice-born.",
+   "uncertainties": [
+    "The exact unit of mātrā is not specified."
+   ],
+   "plain_english": "O twice-born, the thickness of the meveṣikā is prescribed up to seven measures."
+  },
+  {
+   "verse": 6446,
+   "rows": [
+    {
+     "surface": "hastamānaṃ",
+     "gloss": "hand-measure",
+     "grounds": "measure of one hand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sumuddiṣṭaṃ",
+     "gloss": "well-prescribed",
+     "grounds": "clearly declared",
+     "morph": "n.nom.sg (past-participle)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "circular shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "four-cornered shape",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What standard measure and shapes are prescribed for this component?",
+   "premises": [
+    "A hand measure is prescribed",
+    "The shape may be round",
+    "Alternatively the shape may be square"
+   ],
+   "inference": "The component is well prescribed as one hand in measure, either round or square.",
+   "uncertainties": [],
+   "plain_english": "It is well prescribed as one hand in measure, either round or square."
+  },
+  {
+   "verse": 6447,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśādaṃśa",
+     "gloss": "eighth-part-part",
+     "grounds": "compound indicating fractional increase",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛdhyātu",
+     "gloss": "by-increase-but",
+     "grounds": "vṛdhyā + tu; by growth or increase",
+     "morph": "f.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "svannyāsa",
+     "gloss": "own-placement",
+     "grounds": "its own placement or base measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇāvadhi",
+     "gloss": "double-limit",
+     "grounds": "up to twice the amount",
+     "morph": "compound"
+    }
+   ],
+   "question": "Up to what limit may the measure be increased from its own base?",
+   "premises": [
+    "Increase is made in fractional parts",
+    "The base is its own placement",
+    "The maximum limit is double"
+   ],
+   "inference": "The measure may be increased by fractional parts up to twice its own base.",
+   "uncertainties": [
+    "The exact fractional increment implied by aṣṭāṃśādaṃśa is unclear."
+   ],
+   "plain_english": "It may be increased by parts from its own base up to a limit of twice that measure."
+  },
+  {
+   "verse": 6448,
+   "rows": [
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "introduces a restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "in the case of the hand measure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣoyaṃ",
+     "gloss": "this-special-rule",
+     "grounds": "viśeṣaḥ + ayam; this special case",
+     "morph": "m.nom.sg + pron.nom.sg"
+    },
+    {
+     "surface": "svavyāsāṣṭa",
+     "gloss": "own-diameter-eight",
+     "grounds": "eight times its own diameter",
+     "morph": "compound"
+    },
+    {
+     "surface": "guṇāvadhi",
+     "gloss": "times-limit",
+     "grounds": "limit by multiplication",
+     "morph": "compound"
+    }
+   ],
+   "question": "What special upper limit applies when the hand measure is used?",
+   "premises": [
+    "A special rule is introduced",
+    "The case of the hand measure is specified",
+    "The limit is eight times its own diameter"
+   ],
+   "inference": "In the case of the hand measure, the special limit is eight times its own diameter.",
+   "uncertainties": [],
+   "plain_english": "But in the case of the hand measure, there is this special rule: the limit is eight times its own diameter."
+  },
+  {
+   "verse": 6449,
+   "rows": [
+    {
+     "surface": "paṭṭikā",
+     "gloss": "strip",
+     "grounds": "a flat band or strip",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghana",
+     "gloss": "solid",
+     "grounds": "thick or dense",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistāro",
+     "gloss": "width",
+     "grounds": "extent or breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathāyogyaṃ",
+     "gloss": "as-suitable",
+     "grounds": "as appropriate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "is enjoined",
+     "morph": "3.sg.pres.pass (√dhā)"
+    }
+   ],
+   "question": "How should the width and solidity of the strip be determined?",
+   "premises": [
+    "The strip is the subject",
+    "Its solidity and width are considered",
+    "The determination is to be made suitably"
+   ],
+   "inference": "The solid width of the strip is prescribed as suitable to the context.",
+   "uncertainties": [],
+   "plain_english": "The solid width of the strip is prescribed as appropriate."
+  }
+ ]
+}

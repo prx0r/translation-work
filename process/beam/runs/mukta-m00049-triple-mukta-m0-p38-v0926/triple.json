@@ -1,0 +1,1159 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 926,
+   "rows": [
+    {
+     "surface": "tameva",
+     "gloss": "that-indeed",
+     "grounds": "emphatic demonstrative referring to the mantra",
+     "morph": "m.acc.sg (indecl. eva)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "introduces the quoted mantra",
+     "morph": "3.sg.perf.act √ah/brū"
+    },
+    {
+     "surface": "tryambakaṃ",
+     "gloss": "three-eyed-one",
+     "grounds": "epithet of Śiva in the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajāmaha",
+     "gloss": "we-worship",
+     "grounds": "first words of the Tryambaka mantra",
+     "morph": "1.pl.pres.act √yaj"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quotation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific mantra is being identified as the one referred to?",
+   "premises": [
+    "A particular mantra is being pointed out.",
+    "The text explicitly states that mantra.",
+    "The quoted words are 'tryambakaṃ yajāmaha'."
+   ],
+   "inference": "The mantra in question is the Tryambaka mantra beginning with 'tryambakaṃ yajāmaha'.",
+   "uncertainties": [],
+   "plain_english": "It says that very mantra: 'tryambakaṃ yajāmaha'."
+  },
+  {
+   "verse": 927,
+   "rows": [
+    {
+     "surface": "sthita",
+     "gloss": "situated",
+     "grounds": "describes presence despite invisibility",
+     "morph": "m.nom.sg (past participle √sthā)"
+    },
+    {
+     "surface": "andhānām",
+     "gloss": "for-the-blind",
+     "grounds": "those unable to perceive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "agocaraṃ",
+     "gloss": "imperceptible",
+     "grounds": "beyond the range of perception",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryam",
+     "gloss": "sun",
+     "grounds": "object of comparison",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "introduces simile",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "211",
+     "gloss": "211",
+     "grounds": "verse or section number",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "How is the imperceptibility of the mantra illustrated for those unable to perceive it?",
+   "premises": [
+    "The mantra remains present.",
+    "It is beyond perception for the blind.",
+    "The sun is invisible to the blind though present."
+   ],
+   "inference": "The mantra is like the sun, present yet imperceptible to those who cannot see.",
+   "uncertainties": [],
+   "plain_english": "Though present, it is imperceptible to the blind, like the sun. (211)"
+  },
+  {
+   "verse": 928,
+   "rows": [
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "first emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "second emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "reinforces repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "third emphatic affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the declaration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅgara",
+     "gloss": "shankara",
+     "grounds": "name of Śiva as teacher; compound member",
+     "morph": "compound member"
+    },
+    {
+     "surface": "śāsanam",
+     "gloss": "teaching",
+     "grounds": "authoritative instruction; compound final",
+     "morph": "n.nom.sg (compound: śaṅgara+śāsanam)"
+    }
+   ],
+   "question": "What degree of certainty does Śaṅkara's teaching claim for this doctrine?",
+   "premises": [
+    "The word 'truth' is repeated three times.",
+    "The repetition is explicitly reinforced by 'again'.",
+    "This declaration is identified as Śaṅkara's teaching."
+   ],
+   "inference": "Śaṅkara's teaching emphatically affirms this doctrine as absolutely true.",
+   "uncertainties": [],
+   "plain_english": "Truth, truth, and again truth—this is the teaching of Śaṅkara."
+  },
+  {
+   "verse": 929,
+   "rows": [
+    {
+     "surface": "mahādevyai",
+     "gloss": "to-great-goddess",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "samarpaṇe",
+     "gloss": "in-offering",
+     "grounds": "context of ritual presentation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "To whom is the ritual offering being directed in this context?",
+   "premises": [
+    "An offering is being discussed.",
+    "The recipient is named as the Great Goddess.",
+    "The context is the act of offering."
+   ],
+   "inference": "The offering is directed to the Great Goddess.",
+   "uncertainties": [
+    "Fragmentary verse; full syntactic context may be in adjacent verses."
+   ],
+   "plain_english": "In the offering to the Great Goddess."
+  },
+  {
+   "verse": 930,
+   "rows": [
+    {
+     "surface": "viśiṣya",
+     "gloss": "specifically",
+     "grounds": "requests detailed explanation",
+     "morph": "(gerund √vi-śiṣ)"
+    },
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-be-told",
+     "grounds": "polite request for instruction",
+     "morph": "3.sg.pass.imperative √kath"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the teacher",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "refers to the lord's compassion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence of compassion",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "kṛpā",
+     "gloss": "compassion",
+     "grounds": "motive for granting the request",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "toward-me",
+     "grounds": "object of compassion",
+     "morph": "1.sg.loc"
+    }
+   ],
+   "question": "Under what condition is the Lord asked to explain the offering in detail?",
+   "premises": [
+    "A specific explanation is requested.",
+    "The request is addressed to the Lord.",
+    "The request is conditioned on the Lord having compassion toward the speaker."
+   ],
+   "inference": "The Lord is asked to explain specifically if he has compassion toward the speaker.",
+   "uncertainties": [],
+   "plain_english": "O Lord, if you have compassion for me, please explain it specifically."
+  },
+  {
+   "verse": 931,
+   "rows": [
+    {
+     "surface": "saiva",
+     "gloss": "that-indeed",
+     "grounds": "emphatic reference to the same substance",
+     "morph": "f.nom.sg (indecl. eva)"
+    },
+    {
+     "surface": "nānāvidhā",
+     "gloss": "of-various-kinds",
+     "grounds": "indicates multiple varieties",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "f.nom.sg (past participle √pra-vac)"
+    },
+    {
+     "surface": "tāla+kharjūra+sambhavā",
+     "gloss": "palm-date-palm-born",
+     "grounds": "origin from palm and date-palm sources",
+     "morph": "f.nom.sg (compound: tāla+kharjūra+sambhavā)"
+    }
+   ],
+   "question": "What varieties and sources are attributed to the substance being described?",
+   "premises": [
+    "The same substance is being discussed.",
+    "It is said to be of various kinds.",
+    "It is described as arising from palm and date-palm."
+   ],
+   "inference": "The substance is declared to be of various kinds and produced from palm and date-palm.",
+   "uncertainties": [
+    "The referent (likely liquor/surā) is implicit from context."
+   ],
+   "plain_english": "That indeed is declared to be of various kinds, produced from palm and date-palm."
+  },
+  {
+   "verse": 932,
+   "rows": [
+    {
+     "surface": "bahudheyam",
+     "gloss": "in-many-ways",
+     "grounds": "indicates multiple classifications or uses",
+     "morph": "(indecl./adverbial)"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "described",
+     "grounds": "stated in tradition",
+     "morph": "f.nom.sg (past participle √sam-ā-khyā)"
+    },
+    {
+     "surface": "praśastā",
+     "gloss": "commended",
+     "grounds": "approved as suitable",
+     "morph": "f.nom.sg (past participle √pra-śaṃs)"
+    },
+    {
+     "surface": "devatā+arcane",
+     "gloss": "in-deity-worship",
+     "grounds": "ritual context of use",
+     "morph": "n.loc.sg (compound: devatā+arcane)"
+    }
+   ],
+   "question": "How is this substance evaluated for use in the worship of deities?",
+   "premises": [
+    "The substance is described in many ways.",
+    "It is explicitly commended.",
+    "The commendation applies to deity worship."
+   ],
+   "inference": "The substance is described in many ways and commended for use in deity worship.",
+   "uncertainties": [],
+   "plain_english": "It is described in many ways and commended for the worship of deities."
+  },
+  {
+   "verse": 933,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāti+vibhedaḥ",
+     "gloss": "caste-difference",
+     "grounds": "social distinction by birth",
+     "morph": "m.nom.sg (compound: jāti+vibhedaḥ)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence or non-existence",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "śodhitā",
+     "gloss": "purified",
+     "grounds": "ritually cleansed state",
+     "morph": "f.nom.sg (past participle √śudh)"
+    },
+    {
+     "surface": "sarva+siddhi+dā",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "grants all spiritual attainments",
+     "morph": "f.nom.sg (compound: sarva+siddhi+dā)"
+    }
+   ],
+   "question": "What ritual status and efficacy are claimed for the purified substance regardless of caste distinctions?",
+   "premises": [
+    "No caste difference exists in this context.",
+    "The substance is purified.",
+    "The purified substance gives all accomplishments."
+   ],
+   "inference": "When purified, the substance transcends caste distinctions and grants all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "Here there is no distinction of caste; when purified, it grants all accomplishments."
+  },
+  {
+   "verse": 934,
+   "rows": [
+    {
+     "surface": "śrīdevī",
+     "gloss": "sri-devi",
+     "grounds": "speaker, the revered Goddess",
+     "morph": "f.nom.sg (compound: śrī+devī)"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "introduces speech",
+     "morph": "3.sg.perf.act √vac"
+    },
+    {
+     "surface": "yattvayā",
+     "gloss": "that-which-by-you",
+     "grounds": "refers to what was said by the interlocutor",
+     "morph": "n.nom.sg + 2.sg.inst (sandhi: yat+tvayā)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "etcetera",
+     "grounds": "indicates continuation of quoted speech",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who speaks next and how is the preceding statement referenced?",
+   "premises": [
+    "Śrī Devī is identified as the speaker.",
+    "She refers to what was said by the other party.",
+    "The reference is abbreviated with 'etcetera'."
+   ],
+   "inference": "Śrī Devī speaks, referring to what was previously said by the interlocutor.",
+   "uncertainties": [
+    "The full quoted content is abbreviated by 'ityādi'."
+   ],
+   "plain_english": "Śrī Devī said: 'What you said,' and so on."
+  },
+  {
+   "verse": 935,
+   "rows": [
+    {
+     "surface": "darśayann",
+     "gloss": "showing",
+     "grounds": "indicates explanatory demonstration",
+     "morph": "m.nom.sg (present participle √dṛś)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "introduces explanation",
+     "morph": "3.sg.perf.act √ah/brū"
+    },
+    {
+     "surface": "tāla+kharjūra",
+     "gloss": "palm-date-palm",
+     "grounds": "sources of the liquor",
+     "morph": "compound member"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "etcetera",
+     "grounds": "abbreviates the cited passage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the substance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surā",
+     "gloss": "liquor",
+     "grounds": "ritual substance being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "2",
+     "gloss": "2",
+     "grounds": "verse or section number",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "What substance is explicitly identified by the explanatory reference to palm and date-palm sources?",
+   "premises": [
+    "An explanation is being given.",
+    "Palm and date-palm sources are mentioned.",
+    "The substance is explicitly named as this liquor."
+   ],
+   "inference": "The substance derived from palm and date-palm is identified as liquor (surā).",
+   "uncertainties": [],
+   "plain_english": "Showing this, he says: 'From palm and date-palm,' and so on—this is liquor. (2)"
+  },
+  {
+   "verse": 936,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "agent who brings the substance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhṛtā",
+     "gloss": "brought",
+     "grounds": "act of bringing",
+     "morph": "f.nom.sg (past participle √ā-hṛ)"
+    },
+    {
+     "surface": "ānītā",
+     "gloss": "fetched",
+     "grounds": "synonymous act of bringing",
+     "morph": "f.nom.sg (past participle √ā-nī)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surā+viṣaye",
+     "gloss": "in-liquor-matter",
+     "grounds": "specifies the subject as liquor",
+     "morph": "m.loc.sg (compound: surā+viṣaye)"
+    }
+   ],
+   "question": "What action regarding liquor is being clarified in this ritual context?",
+   "premises": [
+    "The context concerns liquor.",
+    "The terms 'brought' and 'fetched' are used.",
+    "An agent is indicated by 'by whom'."
+   ],
+   "inference": "The verse clarifies the act of bringing or fetching liquor in this context.",
+   "uncertainties": [
+    "Syntactic connection to surrounding verses is compressed."
+   ],
+   "plain_english": "In the matter of liquor here, by whom it is brought or fetched."
+  },
+  {
+   "verse": 937,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to what was brought",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatā+prītyai",
+     "gloss": "for-deity-pleasure",
+     "grounds": "purpose of pleasing the deity",
+     "morph": "f.dat.sg (compound: devatā+prītyai)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "expresses result or suitability",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic affirmation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negates doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the assured ritual purpose of all that is brought as offering?",
+   "premises": [
+    "All that is brought is considered.",
+    "Its purpose is the pleasure of the deity.",
+    "The text explicitly denies any doubt."
+   ],
+   "inference": "Everything brought serves for the deity's pleasure without any doubt.",
+   "uncertainties": [],
+   "plain_english": "All of that would indeed be for the pleasure of the deity; there is no doubt."
+  },
+  {
+   "verse": 938,
+   "rows": [
+    {
+     "surface": "yadyad",
+     "gloss": "whatever",
+     "grounds": "universal scope of substances",
+     "morph": "n.nom.sg (reduplicated relative)"
+    },
+    {
+     "surface": "ātma+priyaṃ",
+     "gloss": "to-self-dear",
+     "grounds": "what is dear to oneself",
+     "morph": "n.nom.sg (compound: ātma+priyaṃ)"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "material item for offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers back to the chosen substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadiṣṭāya",
+     "gloss": "to-that-desired-one",
+     "grounds": "to the chosen deity",
+     "morph": "m.dat.sg (compound: tad+iṣṭāya)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What principle determines which substance should be offered to the chosen deity?",
+   "premises": [
+    "Any substance may be considered.",
+    "The substance is dear to oneself.",
+    "Such a substance should be offered to the desired deity."
+   ],
+   "inference": "Whatever substance is dear to oneself should be offered to one's chosen deity.",
+   "uncertainties": [],
+   "plain_english": "Whatever substance is dear to oneself, that one should offer to one's chosen deity."
+  },
+  {
+   "verse": 939,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "human female",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "animal",
+     "grounds": "sacrificial or living animal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of killing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects subjects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hantavyaḥ",
+     "gloss": "to-be-killed",
+     "grounds": "prohibited act of killing",
+     "morph": "m.nom.sg (gerundive √han)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāmbhava+śāsanāt",
+     "gloss": "by-shambhava-injunction",
+     "grounds": "authoritative command of Śambhu/Śiva",
+     "morph": "n.abl.sg (compound: śāmbhava+śāsanāt)"
+    }
+   ],
+   "question": "What prohibition regarding women and animals is established by the Śāmbhava injunction?",
+   "premises": [
+    "Women and animals are mentioned.",
+    "Killing them is negated.",
+    "The prohibition is based on the Śāmbhava injunction."
+   ],
+   "inference": "According to the Śāmbhava injunction, neither a woman nor an animal should be killed.",
+   "uncertainties": [],
+   "plain_english": "There, according to the Śāmbhava injunction, neither a woman nor an animal should be killed."
+  },
+  {
+   "verse": 940,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the items previously mentioned",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "pradātavyāḥ",
+     "gloss": "to-be-given",
+     "grounds": "prescribed offering",
+     "morph": "m.nom.pl (gerundive √pra-dā)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣṭhu",
+     "gloss": "well",
+     "grounds": "properly prepared",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibharjitāḥ",
+     "gloss": "roasted",
+     "grounds": "prepared by roasting",
+     "morph": "m.nom.pl (past participle √vi-bhṛjj)"
+    }
+   ],
+   "question": "Under what condition may those items be offered to the Goddess?",
+   "premises": [
+    "The items may be given to the Goddess.",
+    "A condition is specified for their offering.",
+    "The condition is that they are well roasted."
+   ],
+   "inference": "They may also be offered to the Goddess if they are well roasted.",
+   "uncertainties": [
+    "The exact referent of 'te' depends on the immediate context."
+   ],
+   "plain_english": "They too may be offered to the Goddess if they are well roasted."
+  },
+  {
+   "verse": 941,
+   "rows": [
+    {
+     "surface": "yava+godhūma+jaṃ",
+     "gloss": "barley-wheat-born",
+     "grounds": "made from barley and wheat",
+     "morph": "n.nom.sg (compound: yava+godhūma+jaṃ)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛta+pakvaṃ",
+     "gloss": "ghee-cooked",
+     "grounds": "cooked in clarified butter",
+     "morph": "n.nom.sg (compound: ghṛta+pakvaṃ)"
+    },
+    {
+     "surface": "manoramam",
+     "gloss": "delightful",
+     "grounds": "pleasing quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of prepared food are presented as suitable and delightful offerings?",
+   "premises": [
+    "Food made from barley and wheat is mentioned.",
+    "Food cooked in ghee is mentioned as an alternative.",
+    "Such food is described as delightful."
+   ],
+   "inference": "Delightful offerings include items made from barley and wheat or cooked in ghee.",
+   "uncertainties": [],
+   "plain_english": "Or also that which is made from barley and wheat, cooked in ghee and delightful."
+  },
+  {
+   "verse": 942,
+   "rows": [
+    {
+     "surface": "bharjitāni",
+     "gloss": "roasted",
+     "grounds": "prepared by roasting",
+     "morph": "n.nom.pl (past participle √bhṛjj)"
+    },
+    {
+     "surface": "anya+bījāni",
+     "gloss": "other-seeds",
+     "grounds": "seeds other than the preferred ones",
+     "morph": "n.nom.pl (compound: anya+bījāni)"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "inferior",
+     "grounds": "lower in ritual quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "declared",
+     "grounds": "authoritative classification",
+     "morph": "f.nom.sg (past participle √pari-kīrt)"
+    }
+   ],
+   "question": "How are roasted offerings made from other seeds classified in ritual quality?",
+   "premises": [
+    "Roasted other seeds are considered.",
+    "They are given a qualitative classification.",
+    "They are declared inferior."
+   ],
+   "inference": "Roasted other seeds are declared to be inferior offerings.",
+   "uncertainties": [],
+   "plain_english": "Roasted other seeds are declared to be inferior."
+  },
+  {
+   "verse": 943,
+   "rows": [
+    {
+     "surface": "bhraṣṭa+dhānya+ādi+sambhavā",
+     "gloss": "parched-grain-etc-produced",
+     "grounds": "produced from parched grain and similar items",
+     "morph": "f.nom.sg (compound: bhraṣṭa+dhānya+ādi+sambhavā)"
+    },
+    {
+     "surface": "lāja+ādi",
+     "gloss": "puffed-rice-etc",
+     "grounds": "puffed rice and similar items",
+     "morph": "n.nom.sg (compound: lāja+ādi)"
+    },
+    {
+     "surface": "9",
+     "gloss": "9",
+     "grounds": "verse or section number",
+     "morph": "(numeral)"
+    }
+   ],
+   "question": "What additional category of grain-based offerings is identified in this passage?",
+   "premises": [
+    "Items produced from parched grain are mentioned.",
+    "Puffed rice and similar items are included.",
+    "These form a recognized category."
+   ],
+   "inference": "Offerings produced from parched grain include puffed rice and similar items.",
+   "uncertainties": [
+    "Fragmentary verse; grammatical relation to previous verse is implicit."
+   ],
+   "plain_english": "Produced from parched grain and so forth, such as puffed rice and the like. (9)"
+  },
+  {
+   "verse": 944,
+   "rows": [
+    {
+     "surface": "sudhā+dāne",
+     "gloss": "in-nectar-offering",
+     "grounds": "context of offering nectar",
+     "morph": "n.loc.sg (compound: sudhā+dāne)"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "saṃjñā",
+     "gloss": "designation",
+     "grounds": "technical name or classification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the items discussed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "ritual purification status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "authoritatively stated",
+     "morph": "f.nom.sg (past participle √īr)"
+    }
+   ],
+   "question": "What designation is given to these items when offered as nectar to the deity?",
+   "premises": [
+    "The context is offering nectar to the deity.",
+    "A designation is assigned to these items.",
+    "That designation is declared to be purification."
+   ],
+   "inference": "In the offering of nectar to the deity, these items are designated as purification.",
+   "uncertainties": [
+    "The precise referent of 'eṣāṃ' depends on preceding verses."
+   ],
+   "plain_english": "In the offering of nectar to the deity, their designation is declared to be purification."
+  },
+  {
+   "verse": 945,
+   "rows": [
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "without desired result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "it-becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine recipient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates satisfaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "is-pleased",
+     "grounds": "divine favor not obtained",
+     "morph": "3.sg.pres.act √pra-sad"
+    }
+   ],
+   "question": "What negative ritual consequence follows when the proper offering conditions are not met?",
+   "premises": [
+    "The act becomes fruitless.",
+    "The deity is not pleased.",
+    "This consequence is stated directly to the Goddess."
+   ],
+   "inference": "If the conditions are not met, the offering becomes fruitless and the deity is not pleased.",
+   "uncertainties": [
+    "The specific unmet condition is implied from context."
+   ],
+   "plain_english": "O Goddess, it becomes fruitless, and the deity is not pleased."
+  },
+  {
+   "verse": 946,
+   "rows": [
+    {
+     "surface": "cira+rogī",
+     "gloss": "long-ill",
+     "grounds": "suffering prolonged illness",
+     "morph": "m.nom.sg (compound: cira+rogī)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svalpa+āyuḥ",
+     "gloss": "short-lived",
+     "grounds": "having reduced lifespan",
+     "morph": "m.nom.sg (compound: svalpa+āyuḥ)"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "meets death",
+     "morph": "3.sg.pres.pass √mṛ"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "soon",
+     "grounds": "in a short time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What personal harms befall the practitioner who violates the prescribed offering rules?",
+   "premises": [
+    "The practitioner may become long ill.",
+    "The practitioner may have a short life.",
+    "The practitioner may die soon."
+   ],
+   "inference": "Violating the rules causes the practitioner to suffer long illness, shortened life, and early death.",
+   "uncertainties": [],
+   "plain_english": "The practitioner would become chronically ill, short-lived, and would die soon."
+  },
+  {
+   "verse": 947,
+   "rows": [
+    {
+     "surface": "svakīyā",
+     "gloss": "one's-own",
+     "grounds": "belonging to oneself",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kevalā",
+     "gloss": "only",
+     "grounds": "exclusively",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "should be understood as such",
+     "morph": "f.nom.sg (gerundive √jñā)"
+    },
+    {
+     "surface": "sarva+doṣa+vivarjitā",
+     "gloss": "all-faults-devoid",
+     "grounds": "free from all defects",
+     "morph": "f.nom.sg (compound: sarva+doṣa+vivarjitā)"
+    }
+   ],
+   "question": "What qualification must the proper offering possess to be considered free of all faults?",
+   "premises": [
+    "The offering must be one's own.",
+    "It must be exclusively one's own.",
+    "Such an offering is known to be free from all faults."
+   ],
+   "inference": "Only one's own offering is to be known as free from all faults.",
+   "uncertainties": [
+    "The noun qualified (e.g. substance or woman/partner in context) is implicit."
+   ],
+   "plain_english": "Only one's own is to be known as free from all faults."
+  },
+  {
+   "verse": 948,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "stated",
+     "grounds": "previously explained",
+     "morph": "n.nom.sg (past participle √kath)"
+    },
+    {
+     "surface": "tat+pratinidhau",
+     "gloss": "in-its-substitute",
+     "grounds": "in place of that proper item",
+     "morph": "m.loc.sg (compound: tat+pratinidhau)"
+    },
+    {
+     "surface": "kusīdaṃ",
+     "gloss": "interest",
+     "grounds": "usury or improper gain; metaphorical substitute",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "authoritatively named",
+     "morph": "n.nom.sg (past participle √pari-kīrt)"
+    }
+   ],
+   "question": "What is declared to be the improper substitute for the prescribed offering?",
+   "premises": [
+    "A substitute for the proper item is considered.",
+    "This substitute is explicitly named.",
+    "It is declared to be interest/usury."
+   ],
+   "inference": "In place of the proper offering, interest (kusīda) is declared as the substitute.",
+   "uncertainties": [
+    "The term 'kusīdaṃ' may have a technical ritual sense beyond literal usury."
+   ],
+   "plain_english": "As its substitute, what has been stated is declared to be interest."
+  },
+  {
+   "verse": 949,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prohibited act of giving",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "mahādevyai",
+     "gloss": "to-great-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "condition of having given it",
+     "morph": "(gerund √dā)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārakī",
+     "gloss": "hell-dweller",
+     "grounds": "one destined for hell",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "resulting consequence",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence follows from giving the prohibited substitute to the Great Goddess?",
+   "premises": [
+    "Giving that substitute to the Great Goddess is prohibited.",
+    "The act of giving is considered.",
+    "The giver would become a dweller in hell."
+   ],
+   "inference": "One must not give it to the Great Goddess, for by giving it one would become a hell-dweller.",
+   "uncertainties": [],
+   "plain_english": "One should not give it to the Great Goddess; having given it, one would indeed become a dweller in hell."
+  }
+ ]
+}

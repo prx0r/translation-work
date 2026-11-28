@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "śaktikūṭaṃ",
+     "gloss": "shakti-division",
+     "grounds": "compound śakti + kūṭa; kūṭa is a mantra division per ledger",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "imperative middle form of root śru",
+     "morph": "2.sg.mid.imp+root śru"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What instruction is given concerning hearing the shakti division of the mantra?",
+   "premises": [
+    "śaktikūṭaṃ is the accusative object",
+    "śṛṇuṣva commands listening",
+    "ca adds it to prior list"
+   ],
+   "inference": "The verse commands the listener to attend to the shakti division as well.",
+   "uncertainties": [
+    "Exact syntactic relation to previous verses not fully supplied"
+   ],
+   "plain_english": "Listen also to the shakti division."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4300,
+   "rows": [
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.act-opt~√kṛ"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking transition to next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayoraikyaṃ",
+     "gloss": "unity-of-those-two",
+     "grounds": "fused form tayoḥ+aikyam; refers to two previously mentioned items",
+     "morph": "compound(tayoḥ+gen.dual+aikyam+n.acc.sg)"
+    },
+    {
+     "surface": "śāstradṛṣṭena",
+     "gloss": "seen-in-scripture",
+     "grounds": "qualifies the prescribed path",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-path",
+     "grounds": "instrument denoting the method of action",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How should the unity of those two be accomplished according to scripture?",
+   "premises": [
+    "An act of unification is to be performed.",
+    "The unification concerns those two previously mentioned elements.",
+    "The method must follow the path shown in scripture."
+   ],
+   "inference": "Therefore the two should be unified by following the scripturally prescribed method.",
+   "uncertainties": [
+    "The exact referents of 'those two' depend on the preceding context."
+   ],
+   "plain_english": "Now one should bring about their unity by the path shown in the scripture."
+  }
+ ]
+}

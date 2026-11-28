@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "one-should-show",
+     "grounds": "optative verb directing the display of a gesture; root dṛś in causative sense",
+     "morph": "3.sg.act.opt + √dṛś"
+    },
+    {
+     "surface": "dakṣa+hastena",
+     "gloss": "with-right-hand",
+     "grounds": "instrumental compound indicating the hand used for the gesture",
+     "morph": "compound: dakṣa+hasta; m.inst.sg"
+    },
+    {
+     "surface": "vikaca+utpala+sannibhām",
+     "gloss": "resembling-a-blooming-lotus",
+     "grounds": "compound describing the form to be displayed as like an opened lotus",
+     "morph": "compound: vikaca+utpala+sannibha; f.acc.sg"
+    }
+   ],
+   "question": "What specific hand gesture must be displayed with the right hand following the recitation?",
+   "premises": [
+    "The preceding context prescribes recitation after placing water in the right hand.",
+    "The verb darśayet enjoins the display of a form.",
+    "The displayed form is specified as resembling a blooming lotus."
+   ],
+   "inference": "After the recitation, the practitioner must display a blooming-lotus-like gesture using the right hand.",
+   "uncertainties": [
+    "The exact technical mudrā name corresponding to vikaca+utpala+sannibhām is not explicitly stated."
+   ],
+   "plain_english": "One should show, with the right hand, a gesture resembling a blooming lotus."
+  }
+ ]
+}

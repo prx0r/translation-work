@@ -1,0 +1,553 @@
+{
+ "song": "kul-p67",
+ "items": [
+  {
+   "verse": 1663,
+   "rows": [
+    {
+     "surface": "vedhito",
+     "gloss": "pierced",
+     "grounds": "legacy hint pierced",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "legacy hint wherever",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "legacy hint anywhere",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "would-stand",
+     "grounds": "legacy hint would-stand",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "muktā",
+     "gloss": "liberated",
+     "grounds": "legacy hint liberated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint no",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "legacy hint doubt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said about one who is pierced and stands anywhere?",
+   "premises": [
+    "pierced one stands anywhere",
+    "liberated state has no doubt"
+   ],
+   "inference": "A pierced and liberated practitioner has no doubt wherever he stands.",
+   "uncertainties": [],
+   "plain_english": "Wherever a pierced one stands, there is no doubt that he is liberated."
+  },
+  {
+   "verse": 1664,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "should-give",
+     "grounds": "legacy hint should-give",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "to-whomsoever",
+     "grounds": "legacy hint to-whomsoever",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "kasyāpi",
+     "grounds": "legacy hint kasyāpi",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "ityājñā",
+     "gloss": "thus-command",
+     "grounds": "legacy hint thus-command",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "legacy hint supreme-goddess",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What command is addressed to the supreme goddess?",
+   "premises": [
+    "command says not to give",
+    "command applies to whomsoever"
+   ],
+   "inference": "The supreme goddess receives a command not to give to just anyone.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, the command is that one should not give to just anyone."
+  },
+  {
+   "verse": 1665,
+   "rows": [
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "legacy hint to-disciple",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "darśayed",
+     "gloss": "should-show",
+     "grounds": "legacy hint should-show",
+     "morph": "3.sg.caus.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "legacy hint initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "legacy hint this",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaulikī",
+     "gloss": "kaulikī",
+     "grounds": "legacy hint kaulikī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "is-remembered",
+     "grounds": "legacy hint is-remembered",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What initiation is shown to the disciple?",
+   "premises": [
+    "disciple should be shown initiation",
+    "this initiation is kaulikī"
+   ],
+   "inference": "The goddess is told that this kaulikī initiation should be shown to the disciple.",
+   "uncertainties": [],
+   "plain_english": "O goddess, this kaulikī initiation should be shown to the disciple."
+  },
+  {
+   "verse": 1666,
+   "rows": [
+    {
+     "surface": "abhiṣiñced",
+     "gloss": "should-anoint",
+     "grounds": "legacy hint should-anoint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "legacy hint teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "legacy hint disciple",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇḍūṣākhyā",
+     "gloss": "gaṇḍūṣa-named",
+     "grounds": "legacy hint gaṇḍūṣa-named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "is-called",
+     "grounds": "legacy hint is-called",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the teacher anoint the disciple?",
+   "premises": [
+    "teacher should anoint disciple",
+    "anointing is called gaṇḍūṣa"
+   ],
+   "inference": "The teacher should anoint the disciple in the rite called gaṇḍūṣa.",
+   "uncertainties": [],
+   "plain_english": "The teacher should anoint the disciple; this is called the gaṇḍūṣa anointing."
+  },
+  {
+   "verse": 1667,
+   "rows": [
+    {
+     "surface": "abhiṣekaṃ",
+     "gloss": "anointing",
+     "grounds": "legacy hint anointing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "legacy hint should-do",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "externally",
+     "grounds": "legacy hint externally",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "is-said",
+     "grounds": "legacy hint is-said",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "legacy hint dear-one",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What anointing should then be done externally?",
+   "premises": [
+    "anointing should then be done",
+    "anointing is done externally",
+    "that anointing is said"
+   ],
+   "inference": "Then the anointing that is said should be done externally, dear one.",
+   "uncertainties": [],
+   "plain_english": "Then, dear one, that anointing should be performed externally."
+  },
+  {
+   "verse": 1668,
+   "rows": [
+    {
+     "surface": "pañcagavayāmṛtāpūrṇaṃ",
+     "gloss": "five-cow-products-nectar-filled",
+     "grounds": "legacy hint five-cow-products-nectar-filled",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "legacy hint disciple",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "legacy hint with-that",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "should-anoint",
+     "grounds": "legacy hint should-anoint",
+     "morph": "3.sg.caus.opt"
+    }
+   ],
+   "question": "With what should the disciple be anointed?",
+   "premises": [
+    "disciple is anointed",
+    "anointing uses five-cow-products-nectar"
+   ],
+   "inference": "The disciple should be anointed with the five-cow-products nectar.",
+   "uncertainties": [],
+   "plain_english": "The disciple should be anointed with the nectar of the five cow products."
+  },
+  {
+   "verse": 1669,
+   "rows": [
+    {
+     "surface": "trikālaṃ",
+     "gloss": "three-times",
+     "grounds": "legacy hint three-times",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dantakāṣṭhañca",
+     "gloss": "tooth-stick",
+     "grounds": "legacy hint tooth-stick",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣpāñjalirapi",
+     "gloss": "flowers-offering",
+     "grounds": "legacy hint flowers-offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "legacy hint dear-one",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is mentioned for three times, dear one?",
+   "premises": [
+    "three times is mentioned",
+    "tooth-stick and flowers-offering are mentioned"
+   ],
+   "inference": "Dear one, tooth-stick and flower offering are mentioned for three times.",
+   "uncertainties": [],
+   "plain_english": "Dear one, the tooth-stick and flower offering are for three times."
+  },
+  {
+   "verse": 1670,
+   "rows": [
+    {
+     "surface": "samayo",
+     "gloss": "time",
+     "grounds": "legacy hint time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dantakāṣṭhena",
+     "gloss": "with-tooth-stick",
+     "grounds": "legacy hint with-tooth-stick",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "legacy hint practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kusumāñjaliḥ",
+     "gloss": "flower-offering",
+     "grounds": "legacy hint flower-offering",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the time for the practitioner?",
+   "premises": [
+    "time is for practitioner",
+    "practitioner uses tooth-stick",
+    "practitioner uses flower-offering"
+   ],
+   "inference": "The practitioner's time involves tooth-stick and flower offering.",
+   "uncertainties": [],
+   "plain_english": "The practitioner's time is marked by tooth-stick and flower offering."
+  },
+  {
+   "verse": 1671,
+   "rows": [
+    {
+     "surface": "pūrṇābhiṣekeṇa",
+     "gloss": "full-anointing",
+     "grounds": "legacy hint full-anointing",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "teacher",
+     "grounds": "legacy hint teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcāvasthāḥ",
+     "gloss": "five-states",
+     "grounds": "legacy hint five-states",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīttītāḥ",
+     "gloss": "are-declared",
+     "grounds": "legacy hint are-declared",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What does the teacher declare through full anointing?",
+   "premises": [
+    "teacher declares through full anointing",
+    "five states are declared"
+   ],
+   "inference": "Through full anointing the teacher declares the five states.",
+   "uncertainties": [],
+   "plain_english": "By full anointing the teacher declares the five states."
+  },
+  {
+   "verse": 1672,
+   "rows": [
+    {
+     "surface": "pūrṇābhiṣekapūtā",
+     "gloss": "full-anointing-purified",
+     "grounds": "legacy hint full-anointing-purified",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "legacy hint those",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "muktāś",
+     "gloss": "liberated",
+     "grounds": "legacy hint liberated",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ceha",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmani",
+     "gloss": "in-birth",
+     "grounds": "legacy hint in-birth",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Who are liberated here in birth?",
+   "premises": [
+    "those purified by full anointing",
+    "those are liberated here in birth"
+   ],
+   "inference": "Those purified by full anointing are liberated here in this birth.",
+   "uncertainties": [],
+   "plain_english": "Those purified by full anointing are liberated here in this birth."
+  },
+  {
+   "verse": 1673,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "legacy hint having-obtained",
+     "morph": "gerund"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "excellent",
+     "grounds": "legacy hint excellent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "legacy hint birth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-teacher",
+     "grounds": "legacy hint by-teacher",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "śivarūpiṇā",
+     "gloss": "śiva-formed",
+     "grounds": "legacy hint śiva-formed",
+     "morph": "instr.sg.m"
+    }
+   ],
+   "question": "What happens after obtaining excellent birth?",
+   "premises": [
+    "excellent birth is obtained again",
+    "teacher is śiva-formed"
+   ],
+   "inference": "After obtaining excellent birth again, the śiva-formed teacher acts.",
+   "uncertainties": [],
+   "plain_english": "Having again obtained an excellent birth, one is guided by the śiva-formed teacher."
+  },
+  {
+   "verse": 1674,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "legacy hint by-that",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "legacy hint liberation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajeyus",
+     "gloss": "would-go",
+     "grounds": "legacy hint would-go",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "te",
+     "gloss": "te",
+     "grounds": "legacy hint te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāmbhavī",
+     "gloss": "śāmbhavī",
+     "grounds": "legacy hint śāmbhavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vācamavravīt",
+     "gloss": "speech-spoke",
+     "grounds": "legacy hint speech-spoke",
+     "morph": "3.sg.act.aor"
+    }
+   ],
+   "question": "What would they attain by that?",
+   "premises": [
+    "by that they would go to liberation",
+    "śāmbhavī speech is spoken"
+   ],
+   "inference": "By that they would attain liberation, and the śāmbhavī speech is spoken.",
+   "uncertainties": [],
+   "plain_english": "By that they would attain liberation; the śāmbhavī speech is spoken."
+  }
+ ]
+}

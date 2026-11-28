@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "īśānasya",
+     "gloss": "of-īśāna",
+     "grounds": "genitive relation indicating possession; refers to the Īśāna aspect of Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "parts",
+     "grounds": "object of arrangement; the kalās associated with Īśāna",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "specifies the number of kalās",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavādi",
+     "gloss": "beginning-with-praṇava",
+     "grounds": "compound qualifying kalāḥ; praṇava kept as mantra term",
+     "morph": "praṇava+ādi-compound;f.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive injunction to arrange or assign the kalās",
+     "morph": "3.sg.act.opt;√kḷp+pra"
+    }
+   ],
+   "question": "What number and initial element define the kalās to be arranged for Īśāna?",
+   "premises": [
+    "Īśāna has kalās that are to be arranged.",
+    "The kalās belonging to Īśāna are five in number.",
+    "These five kalās begin with the praṇava."
+   ],
+   "inference": "Therefore one should arrange five kalās for Īśāna beginning with the praṇava.",
+   "uncertainties": [
+    "The specific identities of the five kalās are not enumerated in this verse."
+   ],
+   "plain_english": "One should arrange the five kalās of Īśāna, beginning with the praṇava."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "daily",
+     "grounds": "Qualifies the bathing rite as regular or obligatory.",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "occasional",
+     "grounds": "Qualifies the bathing rite as performed on specific occasions.",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "desire-driven",
+     "grounds": "Qualifies the bathing rite as undertaken for a specific wish.",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "lupte",
+     "gloss": "lapsed",
+     "grounds": "Qualifies the bathing rite as omitted or neglected.",
+     "morph": "ppp.loc.sg.n"
+    },
+    {
+     "surface": "snapanakarmaṇi",
+     "gloss": "bathing-rite",
+     "grounds": "Compound denoting the ritual act of bathing; locative indicates the context of application.",
+     "morph": "compound: snapana+karman; n.loc.sg.n"
+    }
+   ],
+   "question": "Which categories of bathing rites are covered by the prescribed ritual procedures?",
+   "premises": [
+    "The bathing rite may be daily in nature.",
+    "The bathing rite may be occasional in nature.",
+    "The bathing rite may be desire-driven or lapsed."
+   ],
+   "inference": "The prescribed ritual procedures apply across daily, occasional, desire-driven, and lapsed bathing rites.",
+   "uncertainties": [
+    "The verse is elliptical and relies on the preceding verses for the specific procedures being applied."
+   ],
+   "plain_english": "In the daily, occasional, desire-driven, or lapsed bathing rite, the previously prescribed procedures apply."
+  }
+ ]
+}

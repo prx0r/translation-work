@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "garuḍādiśarīreṣu",
+     "gloss": "in-garuḍa-etc-bodies",
+     "grounds": "Compound locative plural; garuḍa (Garuḍa) + ādi (etcetera) + śarīra (body), indicating bodies such as Garuḍa's.",
+     "morph": "garuḍa+ādi+śarīra, loc.pl.nt"
+    },
+    {
+     "surface": "viṣabhūtāpahārataḥ",
+     "gloss": "from-poison-become-removal",
+     "grounds": "Compound ablative singular; viṣa (poison) + bhūta (become) + apahāra (removal), expressing removal of what has become poison.",
+     "morph": "viṣa+bhūta+apahāra, abl.sg.m"
+    }
+   ],
+   "question": "What example illustrates the natural removal of poison in certain bodies?",
+   "premises": [
+    "Bodies such as Garuḍa's are taken as examples.",
+    "In these bodies poison is removed.",
+    "The removal is presented as occurring in that specific bodily context."
+   ],
+   "inference": "Certain bodies exemplify a natural capacity for the removal of poison.",
+   "uncertainties": [
+    "The verse is elliptical and may depend on the preceding argument for its full syntactic completion."
+   ],
+   "plain_english": "In bodies such as Garuḍa's, this is seen from the removal of what has become poison."
+  }
+ ]
+}

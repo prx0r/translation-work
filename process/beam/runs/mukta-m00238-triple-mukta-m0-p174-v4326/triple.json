@@ -1,0 +1,885 @@
+{
+ "song": "mukta-m0-p174",
+ "items": [
+  {
+   "verse": 4326,
+   "rows": [
+    {
+     "surface": "dvādaśaivaṃ",
+     "gloss": "twelve-thus",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣoḍaśetisumasaṅkhyā",
+     "gloss": "sixteen-so-sum-number",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvayostathā",
+     "gloss": "two-also",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the counts twelve sixteen and two related in this game arrangement?",
+   "premises": [
+    "twelve is stated",
+    "sixteen is stated",
+    "two is stated"
+   ],
+   "inference": "The verse gives three numerical counts for the arrangement.",
+   "uncertainties": [
+    "exact grammatical parsing not resolved"
+   ],
+   "plain_english": "Twelve, sixteen, and two are given as counts."
+  },
+  {
+   "verse": 4327,
+   "rows": [
+    {
+     "surface": "ṣoḍaśānāṃ",
+     "gloss": "sixteen-of",
+     "grounds": "surface as given",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "khelane",
+     "gloss": "play",
+     "grounds": "surface as given",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "syācchāra",
+     "gloss": "be-dice",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "surface as given",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "surface as given",
+     "morph": "part."
+    }
+   ],
+   "question": "How many dice are proclaimed for play among sixteen?",
+   "premises": [
+    "sixteen are mentioned",
+    "play is mentioned",
+    "one is proclaimed"
+   ],
+   "inference": "One die is proclaimed for play among sixteen.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "One die is proclaimed for play among sixteen."
+  },
+  {
+   "verse": 4328,
+   "rows": [
+    {
+     "surface": "śālīvāhaśakasyābde",
+     "gloss": "Shalivahana-Shaka-year",
+     "grounds": "surface as given",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "gha",
+     "gloss": "gha",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṅachendumite",
+     "gloss": "nga-moon-measured",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "surface as given",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What auspicious Shalivahana Shaka year is measured here?",
+   "premises": [
+    "Shalivahana Shaka year is mentioned",
+    "auspicious is mentioned",
+    "measured is mentioned"
+   ],
+   "inference": "An auspicious measured year is indicated.",
+   "uncertainties": [
+    "exact date not resolved"
+   ],
+   "plain_english": "An auspicious Shalivahana Shaka year is measured."
+  },
+  {
+   "verse": 4329,
+   "rows": [
+    {
+     "surface": "śrīcāmuṇḍākṛpāpūrṇa",
+     "gloss": "Sri-Chamunda-grace-filled",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛṣṇarājamahībhujā",
+     "gloss": "Krishna-Raja-earth-lord",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who is described as filled with Sri Chamunda's grace?",
+   "premises": [
+    "Sri Chamunda grace is mentioned",
+    "Krishna Raja earth lord is mentioned"
+   ],
+   "inference": "Krishna Raja is described as filled with grace.",
+   "uncertainties": [
+    "compound parsing uncertain"
+   ],
+   "plain_english": "Krishna Raja is filled with Sri Chamunda's grace."
+  },
+  {
+   "verse": 4330,
+   "rows": [
+    {
+     "surface": "tisrovidhyastu",
+     "gloss": "three-straights",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṛjavovīdhyāṃ",
+     "gloss": "straight-in",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "koṣṭhāṣṭakaṃ",
+     "gloss": "square-eight",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caret",
+     "gloss": "move",
+     "grounds": "surface as given",
+     "morph": "3.sg.act."
+    }
+   ],
+   "question": "How many straight squares are moved in this arrangement?",
+   "premises": [
+    "three straights are mentioned",
+    "eight squares are mentioned",
+    "move is stated"
+   ],
+   "inference": "Three straights move in eight squares.",
+   "uncertainties": [
+    "exact movement rule uncertain"
+   ],
+   "plain_english": "Three straights move in eight squares."
+  },
+  {
+   "verse": 4331,
+   "rows": [
+    {
+     "surface": "syussaṃhatyadaleṣveṣu",
+     "gloss": "be-congregated-petals-in",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvinavatyuttaraṃ+śatam",
+     "gloss": "hundred-ninety-two",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What total count results from congregated petals?",
+   "premises": [
+    "congregated petals are mentioned",
+    "hundred ninety two is stated"
+   ],
+   "inference": "The congregated petals yield one hundred ninety two.",
+   "uncertainties": [
+    "addition parsing uncertain"
+   ],
+   "plain_english": "Congregated petals yield one hundred ninety two."
+  },
+  {
+   "verse": 4332,
+   "rows": [
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "surface as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "parikalpyātra",
+     "gloss": "conceive-here",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catuśśārīṃ",
+     "gloss": "four-dice",
+     "grounds": "surface as given",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "place",
+     "grounds": "surface as given",
+     "morph": "3.sg.act."
+    }
+   ],
+   "question": "What round form and four dice are placed here?",
+   "premises": [
+    "round is mentioned",
+    "conceive here is stated",
+    "four dice are mentioned",
+    "place is stated"
+   ],
+   "inference": "A round form and four dice are placed.",
+   "uncertainties": [
+    "exact placement uncertain"
+   ],
+   "plain_english": "A round form and four dice are placed here."
+  },
+  {
+   "verse": 4333,
+   "rows": [
+    {
+     "surface": "krīḍāṃraktāstathāpītāḥ",
+     "gloss": "play-red-and-yellow",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛṣṇāharitavarṇakāḥ",
+     "gloss": "black-green-colored",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What colors are assigned to play pieces?",
+   "premises": [
+    "red and yellow are mentioned",
+    "black and green are mentioned"
+   ],
+   "inference": "Play pieces have red yellow black and green colors.",
+   "uncertainties": [
+    "piece assignment uncertain"
+   ],
+   "plain_english": "Play pieces are red yellow black and green."
+  },
+  {
+   "verse": 4334,
+   "rows": [
+    {
+     "surface": "ūrdhvādhoharitāścordhvamadhaścaivāsitāstathā",
+     "gloss": "up-down-green",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are green and black pieces arranged up and down?",
+   "premises": [
+    "up down green is mentioned",
+    "up down black is mentioned"
+   ],
+   "inference": "Green and black pieces are arranged upward and downward.",
+   "uncertainties": [
+    "exact arrangement uncertain"
+   ],
+   "plain_english": "Green and black pieces are arranged up and down."
+  },
+  {
+   "verse": 4335,
+   "rows": [
+    {
+     "surface": "akṣau",
+     "gloss": "dice",
+     "grounds": "surface as given",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "surface as given",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "pūrvavatkalpyau",
+     "gloss": "as-before",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśeṣastatra",
+     "gloss": "special",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "said",
+     "grounds": "surface as given",
+     "morph": "3.sg.pass."
+    }
+   ],
+   "question": "What special rule is said for two dice as before?",
+   "premises": [
+    "two dice are mentioned",
+    "as before is stated",
+    "special is mentioned",
+    "said is stated"
+   ],
+   "inference": "A special rule for two dice is said.",
+   "uncertainties": [
+    "special rule not specified"
+   ],
+   "plain_english": "A special rule for two dice is said."
+  },
+  {
+   "verse": 4336,
+   "rows": [
+    {
+     "surface": "etadbhāgasyacottānekrīḍānātrapravartate",
+     "gloss": "this-part's-and-upside-down",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "When does play proceed in this part and upside down?",
+   "premises": [
+    "this part is mentioned",
+    "upside down is mentioned",
+    "play proceeds is stated"
+   ],
+   "inference": "Play proceeds in this part and upside down.",
+   "uncertainties": [
+    "exact condition uncertain"
+   ],
+   "plain_english": "Play proceeds in this part and upside down."
+  },
+  {
+   "verse": 4337,
+   "rows": [
+    {
+     "surface": "krīḍā",
+     "gloss": "play",
+     "grounds": "surface as given",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "suprasiddhākṣakrīḍāvaditi",
+     "gloss": "well-known-dice-play-like",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "thus",
+     "grounds": "surface as given",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the settled rule for this play?",
+   "premises": [
+    "play is mentioned",
+    "well known dice play like is stated",
+    "thus is stated"
+   ],
+   "inference": "The play is settled like well known dice play.",
+   "uncertainties": [
+    "exact analogy uncertain"
+   ],
+   "plain_english": "This play is settled like well known dice play."
+  },
+  {
+   "verse": 4338,
+   "rows": [
+    {
+     "surface": "kharaphālgunaśuklasya",
+     "gloss": "Kharaphalguna-bright's",
+     "grounds": "surface as given",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "hyekādaśyāṃbudhetviyam",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "On what bright Kharaphalguna eleventh day is this composed?",
+   "premises": [
+    "Kharaphalguna bright is mentioned",
+    "eleventh day is mentioned"
+   ],
+   "inference": "The composition is tied to a bright eleventh day.",
+   "uncertainties": [
+    "exact date uncertain"
+   ],
+   "plain_english": "This is composed on a bright Kharaphalguna eleventh day."
+  },
+  {
+   "verse": 4339,
+   "rows": [
+    {
+     "surface": "racitācāṣṭavaktrākṣakrīḍeyaṃ",
+     "gloss": "composed",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sumanoharā",
+     "gloss": "beautiful",
+     "grounds": "surface as given",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What beautiful dice play is composed here?",
+   "premises": [
+    "composed is stated",
+    "beautiful is stated"
+   ],
+   "inference": "A beautiful dice play is composed.",
+   "uncertainties": [
+    "authorship uncertain"
+   ],
+   "plain_english": "A beautiful dice play is composed."
+  },
+  {
+   "verse": 4340,
+   "rows": [
+    {
+     "surface": "dalamūle",
+     "gloss": "petal-root",
+     "grounds": "surface as given",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "surface as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "koṣṭhāniparikalpayet",
+     "gloss": "squares",
+     "grounds": "surface as given",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "How many squares are conceived at the petal root?",
+   "premises": [
+    "petal root is mentioned",
+    "four is stated",
+    "squares are mentioned"
+   ],
+   "inference": "Four squares are conceived at the petal root.",
+   "uncertainties": [
+    "exact layout uncertain"
+   ],
+   "plain_english": "Four squares are conceived at the petal root."
+  },
+  {
+   "verse": 4341,
+   "rows": [
+    {
+     "surface": "saṃsthāpyārambhaṇaṃ",
+     "gloss": "establish-beginning",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "surface as given",
+     "morph": "3.sg.opt."
+    },
+    {
+     "surface": "krīḍāyā",
+     "gloss": "play's",
+     "grounds": "surface as given",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "decision",
+     "grounds": "surface as given",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What decision establishes the beginning of play?",
+   "premises": [
+    "establish beginning is stated",
+    "do is stated",
+    "play's is mentioned",
+    "thus is stated",
+    "decision is stated"
+   ],
+   "inference": "The decision is to establish the beginning of play.",
+   "uncertainties": [
+    "exact procedure uncertain"
+   ],
+   "plain_english": "The decision establishes the beginning of play."
+  },
+  {
+   "verse": 4342,
+   "rows": [
+    {
+     "surface": "ṣaṭṣaṭśārā",
+     "gloss": "six-six-dice",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekavarṇājñeyāḥ",
+     "gloss": "one-color",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "krīḍanakovidaiḥ",
+     "gloss": "by-players",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are six six dice known by players?",
+   "premises": [
+    "six six dice are mentioned",
+    "one color is stated",
+    "by players is stated"
+   ],
+   "inference": "Players know six six dice as one color.",
+   "uncertainties": [
+    "color assignment uncertain"
+   ],
+   "plain_english": "Players know six six dice as one color."
+  },
+  {
+   "verse": 4343,
+   "rows": [
+    {
+     "surface": "ṣaṭkoṇākṣau",
+     "gloss": "six-corner-dice",
+     "grounds": "surface as given",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vijñeyau",
+     "gloss": "know",
+     "grounds": "surface as given",
+     "morph": "part."
+    },
+    {
+     "surface": "daśāntaṃ",
+     "gloss": "ten-end",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sumakalpanam",
+     "gloss": "good-conception",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is known about six corner dice up to ten?",
+   "premises": [
+    "six corner dice are mentioned",
+    "know is stated",
+    "ten end is mentioned",
+    "good conception is stated"
+   ],
+   "inference": "Six corner dice are known with good conception up to ten.",
+   "uncertainties": [
+    "exact range uncertain"
+   ],
+   "plain_english": "Six corner dice are known with good conception up to ten."
+  },
+  {
+   "verse": 4344,
+   "rows": [
+    {
+     "surface": "khelanaṃ",
+     "gloss": "play",
+     "grounds": "surface as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "surface as given",
+     "morph": "3.sg.opt."
+    },
+    {
+     "surface": "prasiddhākṣa",
+     "gloss": "well-known-dice",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "krīḍāvaditi",
+     "gloss": "play-like",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "thus",
+     "grounds": "surface as given",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the settled play like well known dice?",
+   "premises": [
+    "play is mentioned",
+    "be is stated",
+    "well known dice is mentioned",
+    "play like is stated",
+    "thus is stated"
+   ],
+   "inference": "The settled play is like well known dice play.",
+   "uncertainties": [
+    "exact analogy uncertain"
+   ],
+   "plain_english": "The settled play is like well known dice play."
+  },
+  {
+   "verse": 4345,
+   "rows": [
+    {
+     "surface": "phālgunasya",
+     "gloss": "Phalguna",
+     "grounds": "surface as given",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "siteśukre",
+     "gloss": "bright",
+     "grounds": "surface as given",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "paurṇamāsyāmidaṃ",
+     "gloss": "full-moon",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "surface as given",
+     "morph": "part."
+    }
+   ],
+   "question": "When was this made in bright Phalguna full moon?",
+   "premises": [
+    "Phalguna is mentioned",
+    "bright is stated",
+    "full moon is mentioned",
+    "made is stated"
+   ],
+   "inference": "This was made on bright Phalguna full moon.",
+   "uncertainties": [
+    "exact date uncertain"
+   ],
+   "plain_english": "This was made on bright Phalguna full moon."
+  },
+  {
+   "verse": 4346,
+   "rows": [
+    {
+     "surface": "caturāṇāṃ",
+     "gloss": "four",
+     "grounds": "surface as given",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "hitārthāya",
+     "gloss": "for-benefit",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaṇmukhākṣasukhelanam",
+     "gloss": "six-faced-dice-play",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "For whose benefit is six faced dice play made?",
+   "premises": [
+    "four is mentioned",
+    "for benefit is stated",
+    "six faced dice play is mentioned"
+   ],
+   "inference": "Six faced dice play is for the benefit of four.",
+   "uncertainties": [
+    "beneficiaries uncertain"
+   ],
+   "plain_english": "Six faced dice play is for the benefit of four."
+  },
+  {
+   "verse": 4347,
+   "rows": [
+    {
+     "surface": "pṛthagdale",
+     "gloss": "separate-petal",
+     "grounds": "surface as given",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "write",
+     "grounds": "surface as given",
+     "morph": "3.sg.opt."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vīdhyastisrobhavanti",
+     "gloss": "straight-three",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What three straights are written in a separate petal?",
+   "premises": [
+    "separate petal is mentioned",
+    "write is stated",
+    "there is stated",
+    "three straights are mentioned"
+   ],
+   "inference": "Three straights are written in a separate petal.",
+   "uncertainties": [
+    "exact writing uncertain"
+   ],
+   "plain_english": "Three straights are written in a separate petal."
+  },
+  {
+   "verse": 4348,
+   "rows": [
+    {
+     "surface": "caturdalānāṃ",
+     "gloss": "four-petal's",
+     "grounds": "surface as given",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "squares",
+     "grounds": "surface as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "dvādaśottarakaṃśatam",
+     "gloss": "hundred-twelve",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many squares belong to four petals?",
+   "premises": [
+    "four petal's is mentioned",
+    "squares are mentioned",
+    "hundred twelve is stated"
+   ],
+   "inference": "Four petals have one hundred twelve squares.",
+   "uncertainties": [
+    "distribution uncertain"
+   ],
+   "plain_english": "Four petals have one hundred twelve squares."
+  },
+  {
+   "verse": 4349,
+   "rows": [
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "four",
+     "grounds": "surface as given",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "krīḍakaiḥ",
+     "gloss": "by-players",
+     "grounds": "surface as given",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthāpyāśśārāssvakāstviha",
+     "gloss": "place",
+     "grounds": "surface as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many pieces do four players place here?",
+   "premises": [
+    "four is mentioned",
+    "by players is stated",
+    "five is stated",
+    "place is stated"
+   ],
+   "inference": "Four players place five pieces here.",
+   "uncertainties": [
+    "piece ownership uncertain"
+   ],
+   "plain_english": "Four players place five pieces here."
+  }
+ ]
+}

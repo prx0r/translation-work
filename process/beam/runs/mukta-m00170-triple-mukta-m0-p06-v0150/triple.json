@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure of two parts; accusative object qualifying the pillar",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nirgame",
+     "gloss": "in-projection",
+     "grounds": "locative indicating the place or extent of projection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative expressing the instructed action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "stambhaṃ",
+     "gloss": "pillar",
+     "grounds": "direct object of the prescribed making",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dravyānusārataḥ",
+     "gloss": "according-to-material",
+     "grounds": "compound adverbial indicating dependence on the material; dravya+anusāra+tas",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "What material condition determines making the projected pillar two parts?",
+   "premises": [
+    "A pillar is prescribed in the projection.",
+    "The pillar can be made with a two-part measure.",
+    "The choice of measure follows the nature of the material."
+   ],
+   "inference": "Therefore, in the projection the pillar should be made two parts according to the material.",
+   "uncertainties": [
+    "The specific materials that require a two-part measure are not named in this verse."
+   ],
+   "plain_english": "In the projection, one should make the pillar two parts, according to the material."
+  }
+ ]
+}

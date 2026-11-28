@@ -1,0 +1,1127 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4226,
+   "rows": [
+    {
+     "surface": "saṃprāpta",
+     "gloss": "having-arrived",
+     "grounds": "past participle indicating arrival",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "tuṣṭaḥ",
+     "gloss": "pleased",
+     "grounds": "past participle indicating satisfaction",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "prāpta",
+     "gloss": "having-obtained",
+     "grounds": "past participle indicating receipt",
+     "morph": "m.nom.sg.past-part"
+    },
+    {
+     "surface": "pañcāṅga+bhūṣaṇaḥ",
+     "gloss": "adorned-with-five-limbs",
+     "grounds": "compound describing ritual adornment",
+     "morph": "compound pañcāṅga+bhūṣaṇa, m.nom.sg"
+    }
+   ],
+   "question": "What condition and adornment characterize the teacher upon receiving the fee?",
+   "premises": [
+    "The teacher has arrived and is pleased",
+    "The teacher has obtained the ritual fee",
+    "The teacher is adorned with the five-limb ornament"
+   ],
+   "inference": "The teacher’s receipt of the fee is marked by arrival, satisfaction, and proper ritual adornment.",
+   "uncertainties": [
+    "The exact constituents of the five-limb ornament are not specified here"
+   ],
+   "plain_english": "Having arrived, pleased, and having received the fee, the teacher is adorned with the five-limb ornament."
+  },
+  {
+   "verse": 4227,
+   "rows": [
+    {
+     "surface": "ekādyā",
+     "gloss": "beginning-with-one",
+     "grounds": "compound indicating a range starting at one",
+     "morph": "compound eka+ādi, f.nom.sg"
+    },
+    {
+     "surface": "navaniṣkāntā",
+     "gloss": "ending-with-nine-niṣkas",
+     "grounds": "compound indicating upper limit of nine niṣkas",
+     "morph": "compound nava+niṣka+anta, f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed amount",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "deśika",
+     "gloss": "of-the-teacher",
+     "grounds": "refers to the initiating teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "ritual-fee",
+     "grounds": "offering given to the teacher",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What range of ritual fee is prescribed for the teacher?",
+   "premises": [
+    "The fee begins at one unit",
+    "The fee extends up to nine niṣkas",
+    "This amount is prescribed as the teacher’s fee"
+   ],
+   "inference": "The teacher’s ritual fee should range from one to nine niṣkas.",
+   "uncertainties": [
+    "The specific unit implied before niṣkas at the lower end is not explicit"
+   ],
+   "plain_english": "The teacher’s fee should range from one up to nine niṣkas."
+  },
+  {
+   "verse": 4228,
+   "rows": [
+    {
+     "surface": "tajjalaiḥ",
+     "gloss": "with-those-waters",
+     "grounds": "instrumental plural referring to previously mentioned waters",
+     "morph": "compound tad+jala, n.inst.pl"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-establish",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.optative-act caus. √sthā"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "male deity to be installed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "the-goddess",
+     "grounds": "female deity to be installed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pīṭha",
+     "gloss": "seat",
+     "grounds": "first member of compound describing the goddess",
+     "morph": "compound-member pīṭha"
+    },
+    {
+     "surface": "svarūpiṇīm",
+     "gloss": "whose-form-is",
+     "grounds": "describes the goddess as embodying the seat",
+     "morph": "compound pīṭha+svarūpiṇī, f.acc.sg"
+    }
+   ],
+   "question": "How should the god and goddess be established using those waters?",
+   "premises": [
+    "The ritual uses those specified waters",
+    "The god is to be established",
+    "The goddess, embodying the seat, is to be established"
+   ],
+   "inference": "With those waters, one should establish the god and the goddess who embodies the seat.",
+   "uncertainties": [],
+   "plain_english": "With those waters, one should establish the god and the goddess whose form is the seat."
+  },
+  {
+   "verse": 4229,
+   "rows": [
+    {
+     "surface": "yadanuktaṃ",
+     "gloss": "whatever-not-stated",
+     "grounds": "relative compound referring to unspecified details",
+     "morph": "compound yad+anukta, n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-be",
+     "grounds": "optative indicating possibility",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃga",
+     "gloss": "liṅga",
+     "grounds": "first member of compound referring to liṅga installation",
+     "morph": "compound-member liṃga"
+    },
+    {
+     "surface": "sthāpana",
+     "gloss": "establishment",
+     "grounds": "second member of compound",
+     "morph": "compound-member sthāpana"
+    },
+    {
+     "surface": "vannayet",
+     "gloss": "one-should-conduct-like",
+     "grounds": "optative prescribing analogy to liṅga installation",
+     "morph": "3.sg.optative-act √nī with vat"
+    }
+   ],
+   "question": "How should unspecified details in this rite be handled by analogy?",
+   "premises": [
+    "Some details may not be stated here",
+    "The rite of liṅga establishment is a known procedure",
+    "Unstated details should follow that procedure"
+   ],
+   "inference": "Whatever is not stated here should be performed like the establishment of a liṅga.",
+   "uncertainties": [],
+   "plain_english": "Whatever is not stated here should be carried out like the establishment of a liṅga."
+  },
+  {
+   "verse": 4230,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverb indicating daily repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative-act √pūj"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "the-god",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcanokta",
+     "gloss": "as-stated-in-worship",
+     "grounds": "compound referring to prescribed worship method",
+     "morph": "compound arcana+ukta"
+    },
+    {
+     "surface": "vidyānataḥ",
+     "gloss": "according-to-vidyā",
+     "grounds": "compound indicating conformity to vidyā",
+     "morph": "compound vidyā+nata, (indecl.)"
+    }
+   ],
+   "question": "How should the deity be worshipped on a daily basis?",
+   "premises": [
+    "Worship is to be performed daily",
+    "The deity is the object of worship",
+    "The worship must follow the method stated for arcana and vidyā"
+   ],
+   "inference": "One should worship the deity daily according to the worship method prescribed by the vidyā.",
+   "uncertainties": [
+    "The specific vidyā intended is not named here"
+   ],
+   "plain_english": "One should worship the deity daily according to the method stated in the worship and in accordance with the vidyā."
+  },
+  {
+   "verse": 4231,
+   "rows": [
+    {
+     "surface": "jīrṇādi",
+     "gloss": "decay-and-so-forth",
+     "grounds": "compound indicating decay and similar defects",
+     "morph": "compound-member jīrṇa+ādi"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "compound member indicating defect",
+     "morph": "compound-member doṣa"
+    },
+    {
+     "surface": "duṣṭaṃ",
+     "gloss": "defiled",
+     "grounds": "describes something spoiled by faults",
+     "morph": "n.acc.sg.past-part"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rule",
+     "grounds": "instrumental indicating prescribed procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "one-should-move",
+     "grounds": "optative prohibiting movement",
+     "morph": "3.sg.optative-act caus. √cal"
+    }
+   ],
+   "question": "What restriction applies to an image defiled by decay or similar faults?",
+   "premises": [
+    "An image may be defiled by decay and other faults",
+    "Ritual rules govern handling of such images",
+    "Movement is prohibited even by rule"
+   ],
+   "inference": "Even according to rule, one must not move an image defiled by decay or similar faults.",
+   "uncertainties": [],
+   "plain_english": "One must not move an image defiled by decay or other faults, even according to ritual rule."
+  },
+  {
+   "verse": 4232,
+   "rows": [
+    {
+     "surface": "kuṃbhe",
+     "gloss": "in-a-pot",
+     "grounds": "locative indicating ritual vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-an-altar-ground",
+     "grounds": "locative indicating prepared ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle with emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-a-diagram",
+     "grounds": "locative indicating ritual diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhakādike",
+     "gloss": "on-a-seat-and-so-forth",
+     "grounds": "compound indicating seat and similar supports",
+     "morph": "compound pīṭhaka+ādi, n.loc.sg"
+    }
+   ],
+   "question": "What alternative supports are permitted for the ritual worship context?",
+   "premises": [
+    "A pot is a possible support",
+    "An altar ground or diagram is a possible support",
+    "A seat and similar supports are also possible"
+   ],
+   "inference": "The ritual may be performed in a pot, on an altar ground, in a diagram, or on a seat and the like.",
+   "uncertainties": [],
+   "plain_english": "The rite may be done in a pot, on a prepared ground, in a diagram, or on a seat and so forth."
+  },
+  {
+   "verse": 4233,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund indicating prior worship",
+     "morph": "(indecl.) gerund"
+    },
+    {
+     "surface": "devadeveśa",
+     "gloss": "lord-of-gods-of-gods",
+     "grounds": "epithet of the supreme deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mudagdeśe",
+     "gloss": "in-the-mudga-region",
+     "grounds": "locative indicating ritual placement area",
+     "morph": "compound mudga+deśa, m.loc.sg"
+    },
+    {
+     "surface": "manonmanīm",
+     "gloss": "manonmanī",
+     "grounds": "name of the goddess invoked",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where and whom should one worship in invoking Manonmanī?",
+   "premises": [
+    "Worship is performed first",
+    "The lord of gods of gods is addressed",
+    "Manonmanī is worshipped in the mudga region"
+   ],
+   "inference": "After worship, one should invoke Manonmanī in the mudga region together with the lord of gods of gods.",
+   "uncertainties": [
+    "The precise ritual meaning of mudga region is not explained here"
+   ],
+   "plain_english": "Having performed worship, one should worship Manonmanī in the mudga region, O lord of gods of gods."
+  },
+  {
+   "verse": 4234,
+   "rows": [
+    {
+     "surface": "pañcāṅga+bhūṣaṇopeto",
+     "gloss": "endowed-with-five-limb-ornament",
+     "grounds": "compound describing ritual adornment",
+     "morph": "compound pañcāṅga+bhūṣaṇa+upeta, m.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction indicating duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtyaṃ",
+     "gloss": "the-rite",
+     "grounds": "ritual duty to be completed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāpyate",
+     "gloss": "is-completed",
+     "grounds": "passive verb indicating completion",
+     "morph": "3.sg.passive-present √āp with sam"
+    }
+   ],
+   "question": "For how long must the five-limb adornment be maintained during the rite?",
+   "premises": [
+    "The practitioner is endowed with the five-limb ornament",
+    "The rite has a defined completion",
+    "The adornment is maintained until completion"
+   ],
+   "inference": "One remains adorned with the five-limb ornament until the rite is completed.",
+   "uncertainties": [],
+   "plain_english": "Endowed with the five-limb ornament, one continues until the rite is completed."
+  },
+  {
+   "verse": 4235,
+   "rows": [
+    {
+     "surface": "ādāvante",
+     "gloss": "at-beginning-and-end",
+     "grounds": "compound locative indicating two times",
+     "morph": "compound ādi+anta, m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "object of ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "adverb indicating daily performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homameva",
+     "gloss": "fire-offering-alone",
+     "grounds": "emphatic form restricting to homa",
+     "morph": "compound homa+eva, m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative schedules are allowed for performing the fire offering?",
+   "premises": [
+    "A fire offering may be done at beginning and end",
+    "A fire offering may be done daily",
+    "Only the fire offering may be performed as an alternative"
+   ],
+   "inference": "One may perform the fire offering at the beginning and end, or daily, or perform only the fire offering.",
+   "uncertainties": [],
+   "plain_english": "One may perform a fire offering at the beginning and end, or daily, or perform only the fire offering."
+  },
+  {
+   "verse": 4236,
+   "rows": [
+    {
+     "surface": "liṃgāgre",
+     "gloss": "at-the-tip-of-the-liṅga",
+     "grounds": "locative compound indicating place",
+     "morph": "compound liṃga+agra, n.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "prepared ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṃbhasaṃsthāpaṇaṃ",
+     "gloss": "establishment-of-the-pot",
+     "grounds": "compound naming ritual act",
+     "morph": "compound kuṃbha+saṃsthāpaṇa, n.acc.sg"
+    },
+    {
+     "surface": "nuhi",
+     "gloss": "indeed-not",
+     "grounds": "emphatic negation in this context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is establishment of the pot permitted at the tip of the liṅga?",
+   "premises": [
+    "An altar ground may be at the tip of the liṅga",
+    "Establishment of the pot is considered there",
+    "That establishment is negated"
+   ],
+   "inference": "One should not establish the pot at the tip of the liṅga.",
+   "uncertainties": [
+    "The exact force of nuhi is slightly unclear but read as emphatic negation"
+   ],
+   "plain_english": "At the tip of the liṅga there may be an altar ground, but the pot should not be established there."
+  },
+  {
+   "verse": 4237,
+   "rows": [
+    {
+     "surface": "neṣyate",
+     "gloss": "is-not-desired",
+     "grounds": "passive verb expressing prohibition",
+     "morph": "3.sg.passive-present √iṣ with na"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "having-omitted",
+     "grounds": "gerund indicating omission",
+     "morph": "(indecl.) gerund"
+    },
+    {
+     "surface": "jīrṇoddhāra",
+     "gloss": "removal-of-the-decayed",
+     "grounds": "compound naming the rite of removing decayed image",
+     "morph": "compound-member jīrṇa+uddhāra"
+    },
+    {
+     "surface": "vidhau",
+     "gloss": "in-the-rite",
+     "grounds": "locative indicating ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "o-twice-born",
+     "grounds": "vocative addressing qualified practitioners",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What bathing restriction applies during the rite of removing a decayed image?",
+   "premises": [
+    "The context is the rite of removing a decayed image",
+    "Bathing is considered in that rite",
+    "Bathing is not desired and should be omitted"
+   ],
+   "inference": "In the rite of removing a decayed image, bathing should be omitted.",
+   "uncertainties": [],
+   "plain_english": "O twice-born ones, in the rite of removing a decayed image, bathing is not to be done and should be omitted."
+  },
+  {
+   "verse": 4238,
+   "rows": [
+    {
+     "surface": "kriyānte",
+     "gloss": "at-the-end-of-the-rite",
+     "grounds": "locative compound indicating conclusion",
+     "morph": "compound kriyā+anta, m.loc.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental used adverbially for emphasis",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative-act √arc"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What actions are required at the conclusion of the rite?",
+   "premises": [
+    "The rite reaches its end",
+    "Bathing should be performed then",
+    "Śiva should be worshipped especially"
+   ],
+   "inference": "At the end of the rite, one should perform bathing and especially worship Śiva.",
+   "uncertainties": [],
+   "plain_english": "At the end of the rite, one should perform the bathing and especially worship Śiva."
+  },
+  {
+   "verse": 4239,
+   "rows": [
+    {
+     "surface": "sthala+karmaṇi",
+     "gloss": "in-a-site-rite",
+     "grounds": "compound locative indicating a rite performed on a site",
+     "morph": "compound sthala+karma, n.loc.sg"
+    },
+    {
+     "surface": "viśleṣa",
+     "gloss": "separation",
+     "grounds": "compound member indicating disjunction",
+     "morph": "compound-member viśleṣa"
+    },
+    {
+     "surface": "sudhākarma",
+     "gloss": "plastering-rite",
+     "grounds": "compound naming the sudhā ritual work",
+     "morph": "compound-member sudhā+karma"
+    },
+    {
+     "surface": "vihīnake",
+     "gloss": "lacking",
+     "grounds": "describes absence of the sudhā rite",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What condition of the site rite excludes the plastering work?",
+   "premises": [
+    "The context is a rite performed on a site",
+    "There is separation or disjunction involved",
+    "The plastering rite is absent"
+   ],
+   "inference": "In a site rite marked by separation and lacking the plastering work, that plastering rite is not included.",
+   "uncertainties": [
+    "The technical sense of viśleṣa in this ritual context is not fully specified"
+   ],
+   "plain_english": "In a site rite involving separation and lacking the plastering work, the plastering rite is absent."
+  },
+  {
+   "verse": 4240,
+   "rows": [
+    {
+     "surface": "homādyamapi",
+     "gloss": "even-fire-offering-and-so-forth",
+     "grounds": "compound including homa and similar acts",
+     "morph": "compound homa+ādi+api, n.nom.sg"
+    },
+    {
+     "surface": "neṣṭaṃ",
+     "gloss": "not-desired",
+     "grounds": "past participle expressing undesirability",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative indicating possibility",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-perform",
+     "grounds": "infinitive expressing purpose",
+     "morph": "(indecl.) infinitive"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "the-liṅga",
+     "grounds": "object of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.optative-act √arc with sam"
+    }
+   ],
+   "question": "What ritual acts are excluded while the liṅga is still to be worshipped?",
+   "premises": [
+    "Fire offering and similar acts are considered",
+    "Performing them is not desired in this case",
+    "The liṅga should still be worshipped"
+   ],
+   "inference": "Even fire offering and related acts are not to be performed, but the liṅga should be worshipped.",
+   "uncertainties": [],
+   "plain_english": "Even fire offerings and the like are not desired to be performed, but one should worship the liṅga."
+  },
+  {
+   "verse": 4241,
+   "rows": [
+    {
+     "surface": "mūrtihomaṃ",
+     "gloss": "fire-offering-to-the-form",
+     "grounds": "compound naming a specific homa",
+     "morph": "compound mūrti+homa, m.acc.sg"
+    },
+    {
+     "surface": "diśāhomaṃ",
+     "gloss": "fire-offering-to-the-directions",
+     "grounds": "compound naming a directional homa",
+     "morph": "compound diśā+homa, m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurulāghavam",
+     "gloss": "heaviness-and-lightness",
+     "grounds": "compound indicating relative weight or elaboration",
+     "morph": "compound guru+lāghava, n.nom.sg"
+    }
+   ],
+   "question": "What determines the relative elaboration of the form and direction fire offerings?",
+   "premises": [
+    "The rite may include a fire offering to the form",
+    "The rite may include a fire offering to the directions",
+    "These rites vary in heaviness and lightness"
+   ],
+   "inference": "The fire offerings to the form and to the directions are rites that admit greater or lesser elaboration.",
+   "uncertainties": [
+    "The exact criteria for heaviness and lightness are not stated here"
+   ],
+   "plain_english": "The fire offering to the form and the fire offering to the directions are rites that may be more or less elaborate."
+  },
+  {
+   "verse": 4242,
+   "rows": [
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "dual genitive referring to the two rites",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "abhyantara",
+     "gloss": "intermediate",
+     "grounds": "compound member indicating an in-between degree",
+     "morph": "compound-member abhyantara"
+    },
+    {
+     "surface": "syāpi",
+     "gloss": "may-also-be",
+     "grounds": "optative with particle indicating possibility",
+     "morph": "3.sg.optative-act √as + api"
+    },
+    {
+     "surface": "dārḍya",
+     "gloss": "firmness",
+     "grounds": "compound member indicating strength",
+     "morph": "compound-member dārḍya"
+    },
+    {
+     "surface": "śaithilya",
+     "gloss": "looseness",
+     "grounds": "compound member indicating weakness",
+     "morph": "compound-member śaithilya"
+    },
+    {
+     "surface": "kāraṇāt",
+     "gloss": "because-of-cause",
+     "grounds": "ablative indicating reason",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why might an intermediate form arise between the two fire offerings?",
+   "premises": [
+    "Two rites have been distinguished",
+    "An intermediate option may also exist",
+    "Firmness or looseness can be the cause"
+   ],
+   "inference": "An intermediate form between the two rites may arise due to causes of firmness or looseness.",
+   "uncertainties": [
+    "The specific factors causing firmness or looseness are not detailed"
+   ],
+   "plain_english": "Between those two, an intermediate form may also occur because of causes of firmness or looseness."
+  },
+  {
+   "verse": 4243,
+   "rows": [
+    {
+     "surface": "astrāṃbu",
+     "gloss": "weapon-water",
+     "grounds": "compound referring to water consecrated by the weapon mantra",
+     "morph": "compound astra+ambu, n.nom.sg"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act of sprinkling",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanārthaṃ",
+     "gloss": "for-the-purpose-of-bathing",
+     "grounds": "compound indicating purpose of bathing",
+     "morph": "compound snapana+artha, n.acc.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "o-best-twice-born",
+     "grounds": "vocative addressing qualified practitioners",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What substitute is prescribed for bathing in that ritual context?",
+   "premises": [
+    "The context requires bathing",
+    "Weapon-consecrated water is available",
+    "Sprinkling with that water serves the purpose of bathing"
+   ],
+   "inference": "In that context, sprinkling with weapon-consecrated water serves for the purpose of bathing.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, there sprinkling with weapon-consecrated water serves for the purpose of bathing."
+  },
+  {
+   "verse": 4244,
+   "rows": [
+    {
+     "surface": "mahāhavis",
+     "gloss": "great-oblation",
+     "grounds": "compound naming a major offering",
+     "morph": "compound mahā+havis, n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating scriptural statement",
+     "morph": "n.nom.sg.past-part"
+    },
+    {
+     "surface": "rājñor",
+     "gloss": "of-the-two-kings",
+     "grounds": "genitive dual referring to rulers",
+     "morph": "m.gen.dual"
+    },
+    {
+     "surface": "rāṣṭrasya",
+     "gloss": "of-the-kingdom",
+     "grounds": "genitive referring to the realm",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śāntaye",
+     "gloss": "for-peace",
+     "grounds": "dative indicating purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For whose peace is the great oblation declared to be performed?",
+   "premises": [
+    "A great oblation is declared",
+    "It concerns rulers and the kingdom",
+    "Its purpose is peace"
+   ],
+   "inference": "The great oblation is declared for the peace of the kings and the kingdom.",
+   "uncertainties": [
+    "The dual rājñor may refer to two specific rulers or be idiomatic; read as two kings"
+   ],
+   "plain_english": "Likewise, the great oblation is declared for the peace of the two kings and of the kingdom."
+  },
+  {
+   "verse": 4245,
+   "rows": [
+    {
+     "surface": "kartuḥ",
+     "gloss": "of-the-performer",
+     "grounds": "genitive of agent who performs the rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kārayituś",
+     "gloss": "of-the-instigator",
+     "grounds": "genitive of agent who causes the rite to be done",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deśikasya",
+     "gloss": "of-the-teacher",
+     "grounds": "genitive referring to the officiating teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb indicating emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose welfare is especially intended by the prescribed rite?",
+   "premises": [
+    "The rite involves a performer",
+    "The rite involves an instigator",
+    "The rite especially concerns the teacher"
+   ],
+   "inference": "The rite is intended for the welfare of the performer, the instigator, and especially the teacher.",
+   "uncertainties": [],
+   "plain_english": "It is also for the performer, the instigator, and especially for the teacher."
+  },
+  {
+   "verse": 4246,
+   "rows": [
+    {
+     "surface": "svāyaṃbhuvādi",
+     "gloss": "self-born-and-so-forth",
+     "grounds": "compound indicating self-born and similar types",
+     "morph": "compound-member svāyaṃbhuva+ādi"
+    },
+    {
+     "surface": "liṃgānā",
+     "gloss": "of-liṅgas",
+     "grounds": "genitive plural referring to types of liṅgas",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "metat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmānyam",
+     "gloss": "common-rule",
+     "grounds": "general prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle indicating statement",
+     "morph": "n.nom.sg.past-part"
+    }
+   ],
+   "question": "To which classes of liṅgas does this common rule apply?",
+   "premises": [
+    "Liṅgas include self-born and other types",
+    "A rule has been stated",
+    "That rule is declared as common to them"
+   ],
+   "inference": "This declared rule is common to self-born and other such liṅgas.",
+   "uncertainties": [],
+   "plain_english": "This has been declared as the common rule for self-born and other liṅgas."
+  },
+  {
+   "verse": 4247,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "pronoun indicating remaining aspects",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective indicating totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samānaṃ",
+     "gloss": "same",
+     "grounds": "adjective indicating equivalence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative indicating prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "karmasāmānyaliṃgakaḥ",
+     "gloss": "having-common-rite-as-mark",
+     "grounds": "compound describing liṅgas marked by common ritual",
+     "morph": "compound karma+sāmānya+liṅgaka, m.nom.sg"
+    }
+   ],
+   "question": "What remains the same for liṅgas characterized by common ritual procedure?",
+   "premises": [
+    "Some liṅgas are marked by common ritual procedure",
+    "Other aspects are considered",
+    "All other aspects should be the same"
+   ],
+   "inference": "For liṅgas characterized by common ritual procedure, all other aspects should remain the same.",
+   "uncertainties": [],
+   "plain_english": "For liṅgas marked by common ritual procedure, everything else should be the same."
+  },
+  {
+   "verse": 4248,
+   "rows": [
+    {
+     "surface": "anenaiva",
+     "gloss": "by-this-very",
+     "grounds": "instrumental demonstrative with emphasis",
+     "morph": "m.inst.sg + eva"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "method",
+     "grounds": "instrumental indicating manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "establishment",
+     "grounds": "ritual installation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ratnaje",
+     "gloss": "in-the-gem-born",
+     "grounds": "locative referring to a liṅga born of gems",
+     "morph": "compound ratna+ja, n.loc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "accepted",
+     "grounds": "past participle indicating doctrinal acceptance",
+     "morph": "n.nom.sg.past-part"
+    }
+   ],
+   "question": "By what method is the establishment of a gem-born liṅga accepted?",
+   "premises": [
+    "A method has already been described",
+    "The case concerns a gem-born liṅga",
+    "Its establishment is accepted by that same method"
+   ],
+   "inference": "The establishment of a gem-born liṅga is accepted by this very same method.",
+   "uncertainties": [],
+   "plain_english": "By this very method, the establishment of a gem-born liṅga is accepted."
+  },
+  {
+   "verse": 4249,
+   "rows": [
+    {
+     "surface": "calevāpyacalevāpi",
+     "gloss": "whether-movable-or-immovable",
+     "grounds": "fused compound expressing alternative movable or immovable",
+     "morph": "compound cala+vā+api+acala+vā+api, n.loc.sg"
+    },
+    {
+     "surface": "sthāpanañcaita",
+     "gloss": "and-this-establishment",
+     "grounds": "compound with sandhi joining establishment and demonstrative",
+     "morph": "compound sthāpana+ca+etat, n.nom.sg"
+    },
+    {
+     "surface": "dīritam",
+     "gloss": "declared",
+     "grounds": "past participle indicating statement",
+     "morph": "n.nom.sg.past-part"
+    }
+   ],
+   "question": "Does the declared establishment apply to both movable and immovable forms?",
+   "premises": [
+    "The object may be movable",
+    "The object may be immovable",
+    "This establishment is declared for both cases"
+   ],
+   "inference": "This establishment is declared to apply whether the object is movable or immovable.",
+   "uncertainties": [],
+   "plain_english": "This establishment is declared to apply whether the object is movable or immovable."
+  }
+ ]
+}

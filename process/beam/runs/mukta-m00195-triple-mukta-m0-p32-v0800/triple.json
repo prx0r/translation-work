@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "jñānāmṛtā",
+     "gloss": "knowledge-nectar",
+     "grounds": "name of a kalā in the enumerated series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āpyāyanī",
+     "gloss": "nourishing",
+     "grounds": "name of a kalā in the enumerated series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpinī",
+     "gloss": "pervading",
+     "grounds": "name of a kalā in the enumerated series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyomarūpikā",
+     "gloss": "sky-formed",
+     "grounds": "name of a kalā in the enumerated series; compound vyoma+rūpikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which four kalās are named to conclude this enumerated sequence of powers?",
+   "premises": [
+    "The preceding verses enumerate a series of kalās.",
+    "Jñānāmṛtā is named as one of these kalās.",
+    "Āpyāyanī, Vyāpinī, and Vyomarūpikā are named alongside it."
+   ],
+   "inference": "The sequence concludes with the kalās Jñānāmṛtā, Āpyāyanī, Vyāpinī, and Vyomarūpikā.",
+   "uncertainties": [
+    "The precise functional distinctions among these kalās are not specified in this verse."
+   ],
+   "plain_english": "And the kalās are Jñānāmṛtā, Āpyāyanī, Vyāpinī, and Vyomarūpikā."
+  }
+ ]
+}

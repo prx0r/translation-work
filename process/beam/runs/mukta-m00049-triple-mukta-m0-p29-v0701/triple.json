@@ -1,0 +1,976 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarjanī+madhyā",
+     "gloss": "index-finger+middle-finger",
+     "grounds": "compound naming two fingers",
+     "morph": "compound:tarjanī+coord+madhyā+coord"
+    },
+    {
+     "surface": "dhenumudrā+'mṛtapradā",
+     "gloss": "cow-seal+nectar-giving",
+     "grounds": "compound naming seal and its effect",
+     "morph": "compound:dhenumudrā+coord+amṛtapradā+coord"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which hand gesture and its nectar-giving effect are indicated here?",
+   "premises": [
+    "The index and middle fingers are specified",
+    "The cow-seal is named",
+    "The seal is described as nectar-giving"
+   ],
+   "inference": "The gesture formed with index and middle fingers is the nectar-giving cow-seal",
+   "uncertainties": [],
+   "plain_english": "Thus also, with the index and middle fingers, the cow-seal is nectar-giving."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of worship",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vāṇīṃ",
+     "gloss": "speech",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gandha+puṣpa+ādibhiḥ",
+     "gloss": "with-fragrance+flower+and-others",
+     "grounds": "compound listing offerings",
+     "morph": "compound:gandha+coord+puṣpa+coord+ādibhiḥ+head (m.ins.pl)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √yaj"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-honor",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √pūj"
+    }
+   ],
+   "question": "How should the practitioner worship speech using mantra and offerings?",
+   "premises": [
+    "Worship is performed with a mantra",
+    "Speech is the object of worship",
+    "Fragrance, flowers, and other offerings are used"
+   ],
+   "inference": "The practitioner should worship and honor speech with mantra and offerings such as fragrance and flowers",
+   "uncertainties": [],
+   "plain_english": "One should worship and honor speech with a mantra and with fragrance, flowers, and other offerings."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "place to be entered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devī+yajana+maṇḍapaṃ",
+     "gloss": "goddess+worship+pavilion",
+     "grounds": "compound specifying pavilion purpose",
+     "morph": "compound:devī+gen-rel+yajana+gen-rel+maṇḍapaṃ+head (m.acc.sg)"
+    },
+    {
+     "surface": "devī+yajana+mandiraṃ",
+     "gloss": "goddess+worship+temple",
+     "grounds": "compound specifying temple purpose",
+     "morph": "compound:devī+gen-rel+yajana+gen-rel+mandiraṃ+head (n.acc.sg)"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "should-enter",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√viś"
+    }
+   ],
+   "question": "Which sacred space must the practitioner enter for goddess worship?",
+   "premises": [
+    "A pavilion is mentioned",
+    "The pavilion is for goddess worship",
+    "A temple for goddess worship is also named"
+   ],
+   "inference": "The practitioner should enter the pavilion or temple designated for goddess worship",
+   "uncertainties": [],
+   "plain_english": "One should enter the pavilion, the pavilion for worship of the goddess, or the temple for worship of the goddess."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "sāmānya+arghyasya",
+     "gloss": "of-common+offering",
+     "grounds": "compound naming source of water",
+     "morph": "compound:sāmānya+qual+arghyasya+head (m.gen.sg)"
+    },
+    {
+     "surface": "toyena",
+     "gloss": "with-water",
+     "grounds": "instrument of sprinkling",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√ukṣ"
+    },
+    {
+     "surface": "yāga+mandiram",
+     "gloss": "worship+chamber",
+     "grounds": "compound naming place to be sprinkled",
+     "morph": "compound:yāga+gen-rel+mandiram+head (n.acc.sg)"
+    }
+   ],
+   "question": "With what substance should the worship chamber be sprinkled?",
+   "premises": [
+    "Water from the common offering is specified",
+    "Sprinkling is enjoined",
+    "The worship chamber is the target"
+   ],
+   "inference": "The worship chamber should be sprinkled with water from the common offering",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the worship chamber with water from the common offering."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "divyān",
+     "gloss": "divine",
+     "grounds": "qualifies obstacles",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "utsārayet",
+     "gloss": "should-disperse",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative ud√sṛ"
+    },
+    {
+     "surface": "vighnān",
+     "gloss": "obstacles",
+     "grounds": "objects to be dispersed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "astrāt",
+     "gloss": "from-weapon-mantra",
+     "grounds": "source of power for dispersal",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antarīkṣagān",
+     "gloss": "sky-moving",
+     "grounds": "qualifies obstacles",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which obstacles must be dispersed by means of the weapon mantra?",
+   "premises": [
+    "Divine obstacles are named",
+    "Sky-moving obstacles are named",
+    "Dispersal is effected by the weapon mantra"
+   ],
+   "inference": "The practitioner should disperse divine and sky-moving obstacles by means of the weapon mantra",
+   "uncertainties": [],
+   "plain_english": "One should disperse the divine and sky-moving obstacles by means of the weapon mantra."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "candana+aguru+kastūrī+karpūraiḥ",
+     "gloss": "with-sandal+aloeswood+musk+camphor",
+     "grounds": "compound listing fragrant substances",
+     "morph": "compound:candana+coord+aguru+coord+kastūrī+coord+karpūraiḥ+head (m.ins.pl)"
+    },
+    {
+     "surface": "yāga+maṇḍapam",
+     "gloss": "worship+pavilion",
+     "grounds": "compound naming place",
+     "morph": "compound:yāga+gen-rel+maṇḍapam+head (m.acc.sg)"
+    }
+   ],
+   "question": "Which fragrant substances are used in relation to the worship pavilion?",
+   "premises": [
+    "Sandal, aloeswood, musk, and camphor are listed",
+    "The worship pavilion is the locus"
+   ],
+   "inference": "Sandal, aloeswood, musk, and camphor are applied in connection with the worship pavilion",
+   "uncertainties": [
+    "The specific action with these substances is not stated in this verse"
+   ],
+   "plain_english": "With sandal, aloeswood, musk, and camphor, in the worship pavilion."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "vilikhya",
+     "gloss": "having-drawn",
+     "grounds": "prior action",
+     "morph": "(gerund) vi√likh"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmarūpāya",
+     "gloss": "to-kāmarūpa",
+     "grounds": "recipient of worship",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hṛt+manuḥ",
+     "gloss": "heart+mantra",
+     "grounds": "compound naming mantra type",
+     "morph": "compound:hṛt+qual+manuḥ+head (m.nom.sg)"
+    }
+   ],
+   "question": "To whom and with which mantra should worship be performed after drawing there?",
+   "premises": [
+    "A drawing is made first",
+    "Worship is performed there",
+    "Kāmarūpa is the recipient and the heart mantra is used"
+   ],
+   "inference": "After drawing there, one should worship Kāmarūpa with the heart mantra",
+   "uncertainties": [],
+   "plain_english": "Having drawn there, one should worship Kāmarūpa with the heart mantra."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "kamalāsanāya",
+     "gloss": "to-lotus-seated",
+     "grounds": "recipient in mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa+eva",
+     "gloss": "with-mantra+indeed",
+     "grounds": "emphatic instrument",
+     "morph": "compound:mantreṇa+head (m.ins.sg)+eva+emph"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "object of worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √yaj"
+    }
+   ],
+   "question": "With which mantra formula should the seat be worshipped?",
+   "premises": [
+    "The formula includes obeisance to the lotus-seated one",
+    "The mantra is used emphatically",
+    "The seat is the object of worship"
+   ],
+   "inference": "The seat should be worshipped with the mantra 'obeisance to the lotus-seated one'",
+   "uncertainties": [],
+   "plain_english": "One should worship the seat with the mantra: 'Obeisance to the lotus-seated one.'"
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "yāga+mandiraṃ",
+     "gloss": "worship+chamber",
+     "grounds": "compound naming place",
+     "morph": "compound:yāga+gen-rel+mandiraṃ+head (n.acc.sg)"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√ukṣ"
+    },
+    {
+     "surface": "prasiñcet",
+     "gloss": "should-besprinkle",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√sic"
+    }
+   ],
+   "question": "What purificatory actions must be performed on the worship chamber?",
+   "premises": [
+    "The worship chamber is specified",
+    "Sprinkling is enjoined",
+    "Besprinkling is enjoined"
+   ],
+   "inference": "The worship chamber should be sprinkled and besprinkled",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle and besprinkle the worship chamber."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "baddha+vīrāsanaḥ",
+     "gloss": "having-assumed+hero-posture",
+     "grounds": "compound describing posture",
+     "morph": "compound:baddha+past-part+vīrāsanaḥ+head (m.nom.sg)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijayāṃ",
+     "gloss": "vijayā",
+     "grounds": "substance to be purified",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pariśodhayet",
+     "gloss": "should-purify",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pari√śudh"
+    }
+   ],
+   "question": "In what posture should the practitioner purify the vijayā substance?",
+   "premises": [
+    "The practitioner assumes the hero posture",
+    "The practitioner is the ritual agent",
+    "Vijayā is to be purified"
+   ],
+   "inference": "The practitioner, seated in the hero posture, should purify the vijayā",
+   "uncertainties": [],
+   "plain_english": "The practitioner, seated in the hero posture, should purify the vijayā."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "amṛtavarṣiṇi",
+     "gloss": "o-nectar-showering-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtam",
+     "gloss": "nectar",
+     "grounds": "object to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ākarṣaya",
+     "gloss": "draw-forth",
+     "grounds": "imperative command in mantra",
+     "morph": "2.sg.act-imperative ā√kṛṣ"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two-ways",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What command is addressed to the nectar-showering one regarding nectar?",
+   "premises": [
+    "The nectar-showering one is addressed",
+    "Nectar is to be drawn forth",
+    "The action is done in two ways"
+   ],
+   "inference": "The nectar-showering one is commanded to draw forth nectar in two ways",
+   "uncertainties": [
+    "The two ways are not specified in this verse"
+   ],
+   "plain_english": "O nectar-showering one, then draw forth the nectar in two ways."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "vaśamānaya",
+     "gloss": "bring-under-control",
+     "grounds": "imperative command in mantra",
+     "morph": "2.sg.act-imperative vaśam+ā√nī"
+    },
+    {
+     "surface": "ṭha+dvandvaṃ",
+     "gloss": "ṭha+pair",
+     "grounds": "mantra syllable pair",
+     "morph": "compound:ṭha+coord+dvandvaṃ+head (n.nom.sg)"
+    },
+    {
+     "surface": "saṃvidā+śodhane",
+     "gloss": "in-consciousness+purification",
+     "grounds": "compound naming ritual context",
+     "morph": "compound:saṃvidā+gen-rel+śodhane+head (n.loc.sg)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra elements are prescribed for the purification of consciousness?",
+   "premises": [
+    "The command to bring under control is given",
+    "A pair of ṭha syllables is specified",
+    "The context is purification of consciousness"
+   ],
+   "inference": "The mantra for purification of consciousness includes the command to bring under control and the ṭha pair",
+   "uncertainties": [
+    "Exact placement of syllables in the mantra is not fully explicit"
+   ],
+   "plain_english": "Bring under control; the pair of ṭha syllables is the mantra in the purification of consciousness."
+  },
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "āvāhanī+ādi",
+     "gloss": "invocation+and-others",
+     "grounds": "compound naming class of seals",
+     "morph": "compound:āvāhanī+coord+ādi+head (f.acc.sg)"
+    },
+    {
+     "surface": "mudrāṃ+ca",
+     "gloss": "seal+and",
+     "grounds": "object to be displayed",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "dhenu+yonī",
+     "gloss": "cow+source",
+     "grounds": "compound naming specific seals",
+     "morph": "compound:dhenu+coord+yonī+head (f.acc.du)"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-display",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√dṛś"
+    }
+   ],
+   "question": "Which seals must be displayed during this phase of the rite?",
+   "premises": [
+    "Invocation and other seals are indicated",
+    "The cow and source seals are specified",
+    "Displaying seals is enjoined"
+   ],
+   "inference": "The practitioner should display the invocation and other seals, including the cow and source seals",
+   "uncertainties": [],
+   "plain_english": "One should display the invocation seal and others, and also the cow and yoni seals."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "vijayāṃ",
+     "gloss": "vijayā",
+     "grounds": "substance named",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaṅgām",
+     "gloss": "hemp",
+     "grounds": "identification of substance",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What substance is identified by the term vijayā in this context?",
+   "premises": [
+    "Vijayā is named",
+    "Hemp is named as its equivalent"
+   ],
+   "inference": "Vijayā is identified as hemp",
+   "uncertainties": [],
+   "plain_english": "Vijayā, that is, hemp."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "bhaṅgāyāḥ",
+     "gloss": "of-hemp",
+     "grounds": "object of purification",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śodhane",
+     "gloss": "in-purification",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ayam+eva",
+     "gloss": "this+indeed",
+     "grounds": "emphatic identification",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg (past participle) pra√vac"
+    }
+   ],
+   "question": "Which mantra is authoritatively declared for the purification of hemp?",
+   "premises": [
+    "The context is purification of hemp",
+    "This very mantra is identified",
+    "It is declared as such"
+   ],
+   "inference": "This very mantra is declared for the purification of hemp",
+   "uncertainties": [
+    "The referent of 'this' depends on preceding context"
+   ],
+   "plain_english": "This very mantra is declared for the purification of hemp."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "tridhā+eva",
+     "gloss": "threefold+indeed",
+     "grounds": "emphatic manner",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √tṛp"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "recipient of satisfaction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root-mantra",
+     "grounds": "mantra to be uttered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "uttering",
+     "grounds": "accompanying action",
+     "morph": "m.nom.sg (present participle) sam+ud√car"
+    }
+   ],
+   "question": "How should the goddess be satisfied in the heart during this rite?",
+   "premises": [
+    "Satisfaction is performed threefold",
+    "The goddess is satisfied in the heart",
+    "The root mantra is uttered"
+   ],
+   "inference": "The goddess should be satisfied threefold in the heart while uttering the root mantra",
+   "uncertainties": [],
+   "plain_english": "One should satisfy the goddess threefold in the heart while uttering the root mantra."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "svāhā+antena+eva",
+     "gloss": "with-svāhā+ending+indeed",
+     "grounds": "compound describing mantra form",
+     "morph": "compound:svāhā+qual+antena+head (m.ins.sg)+eva+emph"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrument of offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "kuṇḍalī+mukhe",
+     "gloss": "in-kuṇḍalī+mouth",
+     "grounds": "compound naming locus of offering",
+     "morph": "compound:kuṇḍalī+gen-rel+mukhe+head (n.loc.sg)"
+    }
+   ],
+   "question": "With what mantra form and where should the oblation be offered?",
+   "premises": [
+    "The mantra ends with svāhā",
+    "An oblation is to be offered",
+    "The locus is the mouth of kuṇḍalī"
+   ],
+   "inference": "The oblation should be offered with a mantra ending in svāhā into the mouth of kuṇḍalī",
+   "uncertainties": [],
+   "plain_english": "One should offer an oblation with a mantra ending in svāhā into the mouth of the kuṇḍalī."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "kṛta+añjali+puṭaḥ",
+     "gloss": "having-made+joined-palms",
+     "grounds": "compound describing gesture",
+     "morph": "compound:kṛta+past-part+añjali+qual+puṭaḥ+head (m.nom.sg)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "devī+dhyāna+parāyaṇaḥ",
+     "gloss": "goddess+meditation+devoted",
+     "grounds": "compound describing mental state",
+     "morph": "compound:devī+gen-rel+dhyāna+loc-rel+parāyaṇaḥ+head (m.nom.sg)"
+    }
+   ],
+   "question": "What bodily gesture and mental focus should the practitioner assume?",
+   "premises": [
+    "The practitioner forms joined palms",
+    "The practitioner becomes devoted to meditation on the goddess"
+   ],
+   "inference": "The practitioner should assume joined palms and become devoted to meditation on the goddess",
+   "uncertainties": [],
+   "plain_english": "Having formed joined palms, one should become devoted to meditation on the goddess."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "anta+aṅgṛṣṭha+muṣṭibhyāṃ",
+     "gloss": "with-inner+thumb+fists",
+     "grounds": "compound describing hand formation",
+     "morph": "compound:anta+qual+aṅgṛṣṭha+qual+muṣṭibhyāṃ+head (f.ins.du)"
+    },
+    {
+     "surface": "tat+deyaṃ",
+     "gloss": "that+to-be-given",
+     "grounds": "compound indicating offering",
+     "morph": "compound:tat+det+deyaṃ+head (n.nom.sg)"
+    },
+    {
+     "surface": "sannirodhinī",
+     "gloss": "restraining",
+     "grounds": "name or quality of seal/action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the restraining gesture formed for giving the offering?",
+   "premises": [
+    "Fists with thumbs inside are formed",
+    "Something is to be given",
+    "The gesture is called restraining"
+   ],
+   "inference": "The offering is given with fists having thumbs inside, in the restraining gesture",
+   "uncertainties": [
+    "Whether sannirodhinī names a mudrā or describes the action is ambiguous"
+   ],
+   "plain_english": "With fists having the thumbs inside, that is to be given; this is called the restraining gesture."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "vijayāṃ",
+     "gloss": "vijayā",
+     "grounds": "substance involved",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √dā"
+    }
+   ],
+   "question": "What ritual actions should be performed with the vijayā substance?",
+   "premises": [
+    "Vijayā is specified",
+    "Offering into fire is enjoined",
+    "Giving is enjoined"
+   ],
+   "inference": "The practitioner should offer and give the vijayā",
+   "uncertainties": [],
+   "plain_english": "One should offer and give the vijayā."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "suvāsitaṃ",
+     "gloss": "well-fragranced",
+     "grounds": "quality of water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kula+dravyāṇi",
+     "gloss": "kula+substances",
+     "grounds": "compound naming ritual substances",
+     "morph": "compound:kula+gen-rel+dravyāṇi+head (n.acc.pl)"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which substances are to be placed on the left side?",
+   "premises": [
+    "The left side is specified",
+    "Well-fragranced water is named",
+    "Kula substances are named"
+   ],
+   "inference": "Well-fragranced water and the kula substances should be placed on the left",
+   "uncertainties": [
+    "The governing action is not stated in this verse"
+   ],
+   "plain_english": "On the left, well-fragranced water and whatever kula substances there are."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "vahni+bījena",
+     "gloss": "with-fire+seed-syllable",
+     "grounds": "compound naming mantra instrument",
+     "morph": "compound:vahni+gen-rel+bījena+head (n.ins.sg)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "object to be enclosed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prākāram",
+     "gloss": "enclosure",
+     "grounds": "protective boundary",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-make",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative ā√car"
+    }
+   ],
+   "question": "How should a protective enclosure around the fire be created?",
+   "premises": [
+    "The fire seed syllable is used",
+    "An enclosure of the fire is required",
+    "The action is enjoined"
+   ],
+   "inference": "One should make an enclosure around the fire with the fire seed syllable",
+   "uncertainties": [],
+   "plain_english": "O goddess-lord, one should make an enclosure around the fire with the fire seed syllable."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "gharṣayitvā",
+     "gloss": "having-rubbed",
+     "grounds": "prior action",
+     "morph": "(gerund) √gharṣ"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "object to be cast",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "should-cast",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative pra√kṣip"
+    },
+    {
+     "surface": "kara+śuddhaye",
+     "gloss": "for-hand+purification",
+     "grounds": "compound stating purpose",
+     "morph": "compound:kara+gen-rel+śuddhaye+head (f.dat.sg)"
+    }
+   ],
+   "question": "What action with the weapon mantra is performed for hand purification?",
+   "premises": [
+    "The weapon mantra is used",
+    "Something is rubbed and then cast",
+    "The purpose is hand purification"
+   ],
+   "inference": "After rubbing with the weapon mantra, one should cast that for the purification of the hands",
+   "uncertainties": [
+    "The exact object referred to by 'that' is not specified in this verse"
+   ],
+   "plain_english": "Having rubbed with the weapon mantra, one should cast that for the purification of the hands."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrument",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "choṭikābhiḥ+ca",
+     "gloss": "with-snaps+and",
+     "grounds": "accompanying action",
+     "morph": "f.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "bhūta+śuddhim",
+     "gloss": "element+purification",
+     "grounds": "compound naming ritual goal",
+     "morph": "compound:bhūta+gen-rel+śuddhim+head (f.acc.sg)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative ā√car"
+    }
+   ],
+   "question": "How should the purification of the elements be performed at this stage?",
+   "premises": [
+    "The weapon mantra is used",
+    "Snaps are performed",
+    "Element purification is the goal"
+   ],
+   "inference": "One should then perform the purification of the elements with the weapon mantra and with snaps",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the purification of the elements with the weapon mantra and with snaps."
+  }
+ ]
+}

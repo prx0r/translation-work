@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "mandavāyusamāyuktaṃ",
+     "gloss": "slow-wind-endowed",
+     "grounds": "compound adjective describing the lotus",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gandhapuṣpair",
+     "gloss": "fragrance-flowers-by",
+     "grounds": "instrumental plural of gandhapuṣpa",
+     "morph": "n.instr.pl.n"
+    },
+    {
+     "surface": "alaṅkṛtam",
+     "gloss": "adorned",
+     "grounds": "past participle adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What adornment marks the lotus in this meditation?",
+   "premises": [
+    "The lotus is endowed with slow wind.",
+    "It is adorned with fragrance-flowers."
+   ],
+   "inference": "The meditation object is a fragrant wind-endowed lotus.",
+   "uncertainties": [
+    "Exact gender and case of the adjective are inferred."
+   ],
+   "plain_english": "The lotus is endowed with gentle wind and adorned with fragrant flowers."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "madhumattabhramattuṅgabhramaradhvaniśobhitam",
+     "gloss": "honey-intoxicated-roaming-high-bee-sound-adorned",
+     "grounds": "long compound adjective describing the lotus",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What sound adorns the lotus in this meditation?",
+   "premises": [
+    "The lotus is adorned by bee sound.",
+    "The bees are honey-intoxicated and roaming high."
+   ],
+   "inference": "The lotus is beautified by the sound of intoxicated bees.",
+   "uncertainties": [
+    "Internal compound members are not split."
+   ],
+   "plain_english": "The lotus is adorned with the sound of honey-intoxicated, roaming, high bees."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "indrādibhir",
+     "gloss": "indra-etc-by",
+     "grounds": "instrumental plural of indra-ādi",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "devagaṇair",
+     "gloss": "gods-hosts-by",
+     "grounds": "instrumental plural of devagaṇa",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "vinamritadigantaram",
+     "gloss": "bowed-horizon",
+     "grounds": "compound adjective describing space",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Who bows the horizon around the lotus?",
+   "premises": [
+    "Indra and other gods bow.",
+    "The hosts of gods bow the horizon."
+   ],
+   "inference": "Divine hosts bow the horizon around the meditation object.",
+   "uncertainties": [
+    "vinamrita may be a variant spelling."
+   ],
+   "plain_english": "Indra and the hosts of gods bow the horizon around it."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "paramojjvalarūpam",
+     "gloss": "supreme-radiant-form",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "that-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "ratnamaṇḍalam",
+     "gloss": "jewel-circle",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What jewel circle appears in the middle of that form?",
+   "premises": [
+    "The form is supremely radiant.",
+    "In its middle is a jewel circle."
+   ],
+   "inference": "The meditation places a radiant jewel circle at the center.",
+   "uncertainties": [
+    "tanmadhye is treated as a fused locative."
+   ],
+   "plain_english": "But in the middle of that supremely radiant form is a jewel circle."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "tatrasthāṃ",
+     "gloss": "there-standing",
+     "grounds": "participle adjective feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "cintayed",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root cint"
+    },
+    {
+     "surface": "raktāṃ",
+     "gloss": "red",
+     "grounds": "adjective feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "caturasropaśobhitām",
+     "gloss": "square-adorned",
+     "grounds": "compound adjective feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What form should be meditated upon standing there?",
+   "premises": [
+    "One meditates on her standing there.",
+    "She is red and square-adorned."
+   ],
+   "inference": "The meditator visualizes a red, square-adorned goddess standing there.",
+   "uncertainties": [
+    "The referent of tatrasthāṃ is inferred from context."
+   ],
+   "plain_english": "One should meditate on her standing there, red and adorned with a square."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mahācakraṃ",
+     "gloss": "great-wheel",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pīyūṣapūrapūritam",
+     "gloss": "nectar-full-filled",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What fills the great wheel in the middle?",
+   "premises": [
+    "In its middle is a great wheel.",
+    "The wheel is filled with nectar."
+   ],
+   "inference": "The central great wheel is full of nectar.",
+   "uncertainties": [
+    "pīyūṣapūra is treated as a compound member."
+   ],
+   "plain_english": "In its middle is a great wheel filled with nectar."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "weapon-by",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "rakṣaṇaṃ",
+     "gloss": "protection",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "do",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "rakṣec",
+     "gloss": "protect",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root rakṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhenumudrayā",
+     "gloss": "cow-seal-by",
+     "grounds": "instrumental singular compound",
+     "morph": "n.instr.sg.f"
+    }
+   ],
+   "question": "How is protection performed with weapon and cow seal?",
+   "premises": [
+    "One should make protection by weapon.",
+    "One should protect with cow seal."
+   ],
+   "inference": "Protection is done by weapon and cow seal.",
+   "uncertainties": [
+    "dhenumudrā gender is inferred."
+   ],
+   "plain_english": "One should make protection by weapon and protect with the cow seal."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "cintayed",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root cint"
+    },
+    {
+     "surface": "gudam",
+     "gloss": "anus",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ākuñcya",
+     "gloss": "contract",
+     "grounds": "absolutive verb",
+     "morph": "v.abs + root kuñc"
+    },
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "brahma-thread",
+     "grounds": "accusative compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparam",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What should be contracted while meditating on the anus?",
+   "premises": [
+    "One meditates on the anus.",
+    "One contracts the brahma thread and another."
+   ],
+   "inference": "The practice contracts the brahma thread while meditating on the anus.",
+   "uncertainties": [
+    "aparam lacks an explicit noun."
+   ],
+   "plain_english": "One should meditate on the anus, contracting the brahma thread and another."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "sudhādhārāmṛte",
+     "gloss": "nectar-stream-nectar",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "bhūya",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "present verb",
+     "morph": "v.3.sg.act-pres + root yā"
+    },
+    {
+     "surface": "mūlapaṅkaje",
+     "gloss": "root-lotus",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Where does the nectar stream come again?",
+   "premises": [
+    "Nectar stream comes again.",
+    "It comes to the root lotus."
+   ],
+   "inference": "The nectar stream returns to the root lotus.",
+   "uncertainties": [
+    "sudhādhārāmṛte is a fused compound."
+   ],
+   "plain_english": "The nectar stream comes again to the root lotus."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "root-by",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "dhyānayogena",
+     "gloss": "meditation-yoga",
+     "grounds": "instrumental singular compound",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "remembering",
+     "grounds": "absolutive verb",
+     "morph": "v.abs + root smṛ"
+    },
+    {
+     "surface": "brahmamayīṃ",
+     "gloss": "brahma-filled",
+     "grounds": "adjective feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "adjective feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What is remembered through root meditation yoga?",
+   "premises": [
+    "By root and meditation yoga one remembers.",
+    "One remembers the brahma-filled supreme goddess."
+   ],
+   "inference": "Root meditation yoga remembers the supreme brahma-filled goddess.",
+   "uncertainties": [
+    "The object of smṛtvā is inferred."
+   ],
+   "plain_english": "By root meditation yoga, remembering, one contemplates the supreme brahma-filled goddess."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "sundarīṃ",
+     "gloss": "beautiful",
+     "grounds": "adjective feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "samārādhya",
+     "gloss": "worship",
+     "grounds": "absolutive verb",
+     "morph": "v.abs + root ārādh"
+    },
+    {
+     "surface": "yoginīgaṇaveṣṭitām",
+     "gloss": "yogini-host-surrounded",
+     "grounds": "compound adjective feminine",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "Who is worshipped surrounded by yogini hosts?",
+   "premises": [
+    "One worships her.",
+    "She is beautiful and surrounded by yogini hosts."
+   ],
+   "inference": "The beautiful goddess surrounded by yoginis is worshipped.",
+   "uncertainties": [
+    "tāṃ refers to the goddess from context."
+   ],
+   "plain_english": "Worshipping her, the beautiful goddess surrounded by yogini hosts."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇubhavair",
+     "gloss": "brahma-vishnu-shiva-by",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "vandyāṃ",
+     "gloss": "venerable",
+     "grounds": "adjective feminine",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "mahātripurasundarīm",
+     "gloss": "great-tripura-beautiful",
+     "grounds": "compound noun feminine",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "Who venerates the great Tripurasundari?",
+   "premises": [
+    "Brahma, Vishnu, and Shiva venerate her.",
+    "She is the great Tripurasundari."
+   ],
+   "inference": "The great Tripurasundari is venerated by Brahma, Vishnu, and Shiva.",
+   "uncertainties": [
+    "bhava is interpreted as Shiva."
+   ],
+   "plain_english": "Venerated by Brahma, Vishnu, and Shiva is the great Tripurasundari."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyed",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root dhyā"
+    },
+    {
+     "surface": "dvārapālān",
+     "gloss": "door-guards",
+     "grounds": "accusative plural compound",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "pratidvāre",
+     "gloss": "each-door",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "saśaktikān",
+     "gloss": "with-shakti",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "What door guards are meditated upon at each door?",
+   "premises": [
+    "Then one meditates on door guards.",
+    "They are at each door with shakti."
+   ],
+   "inference": "Door guards with shakti are meditated at each door.",
+   "uncertainties": [
+    "pratidvāre is treated as locative."
+   ],
+   "plain_english": "Then one meditates on door guards with shakti at each door."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "bhairavānandaliṅgam",
+     "gloss": "bhairava-bliss-lingam",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "that-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "yonisaṃsthitam",
+     "gloss": "yoni-situated",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Where is the Bhairava bliss lingam situated?",
+   "premises": [
+    "The Bhairava bliss lingam is in that middle.",
+    "It is situated in the yoni."
+   ],
+   "inference": "The Bhairava bliss lingam is situated in the yoni at the center.",
+   "uncertainties": [
+    "tanmadhye refers to prior center."
+   ],
+   "plain_english": "But the Bhairava bliss lingam is situated in the yoni in that middle."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "jihvānanasamāyogāt",
+     "gloss": "tongue-mouth-union-by",
+     "grounds": "ablative instrumental compound",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drink",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root pā"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is that nectar always drunk?",
+   "premises": [
+    "By tongue-mouth union one drinks.",
+    "One drinks that nectar always."
+   ],
+   "inference": "The nectar is always drunk through tongue-mouth union.",
+   "uncertainties": [
+    "jihvānanasamāyoga is a fused compound."
+   ],
+   "plain_english": "By union of tongue and mouth, one always drinks that nectar."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not",
+     "grounds": "negative existential verb",
+     "morph": "v.3.sg.act-pres + root as"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "heart",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mānasārcane",
+     "gloss": "mental-worship",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Is invocation present in mental worship of the heart?",
+   "premises": [
+    "Here only invocation is not.",
+    "It is not in heart mental worship."
+   ],
+   "inference": "Invocation is absent in this mental worship of the heart.",
+   "uncertainties": [
+    "āvāhanaṃ is nominative subject."
+   ],
+   "plain_english": "Here only, invocation is not present in mental worship of the heart."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "pādyapātratrayaṃ",
+     "gloss": "foot-vessel-trio",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "do",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "arghyapātratrayaṃ",
+     "gloss": "offering-vessel-trio",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vessel trios should be made?",
+   "premises": [
+    "One should make foot vessel trio.",
+    "One should make offering vessel trio."
+   ],
+   "inference": "Both foot and offering vessel trios are made.",
+   "uncertainties": [
+    "kuryād governs both objects."
+   ],
+   "plain_english": "One should make a trio of foot vessels and likewise a trio of offering vessels."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "subhogapātrantu",
+     "gloss": "good-enjoyment-vessel",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "make",
+     "grounds": "causative optative verb",
+     "morph": "v.3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "ṣoḍaśe",
+     "gloss": "sixteenth",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "dale",
+     "gloss": "petal",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "Where is the one enjoyment vessel made?",
+   "premises": [
+    "One makes one good enjoyment vessel.",
+    "It is made on the sixteenth petal."
+   ],
+   "inference": "A single enjoyment vessel is made on the sixteenth petal.",
+   "uncertainties": [
+    "subhogapātrantu is a fused compound."
+   ],
+   "plain_english": "One should make one good enjoyment vessel on the sixteenth petal."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "parāmṛtañca",
+     "gloss": "supreme-nectar",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānīyaṃ",
+     "gloss": "water",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhāvapuṣpaṃ",
+     "gloss": "feeling-flower",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "suvāsitam",
+     "gloss": "well-fragrant",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What offerings include supreme nectar and fragrant feeling flower?",
+   "premises": [
+    "Supreme nectar and water are offered.",
+    "Feeling flower is well fragrant."
+   ],
+   "inference": "The offerings include supreme nectar, water, and fragrant feeling flower.",
+   "uncertainties": [
+    "parāmṛtañca includes ca."
+   ],
+   "plain_english": "Supreme nectar and water, and a well-fragrant feeling flower."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "mānasair",
+     "gloss": "mental",
+     "grounds": "instrumental plural adjective",
+     "morph": "adj.instr.pl.n"
+    },
+    {
+     "surface": "upacāraistu",
+     "gloss": "offerings",
+     "grounds": "instrumental plural noun",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "given",
+     "grounds": "passive present verb",
+     "morph": "v.3.sg.pass-pres + root dā"
+    },
+    {
+     "surface": "dravyam",
+     "gloss": "substance",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What excellent substance is given by mental offerings?",
+   "premises": [
+    "By mental offerings it is given.",
+    "The excellent substance is given."
+   ],
+   "inference": "Mental offerings give the excellent substance.",
+   "uncertainties": [
+    "dravyam is nominative subject."
+   ],
+   "plain_english": "But by mental offerings the excellent substance is given."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "kalpayāmīti",
+     "gloss": "I-arrange",
+     "grounds": "quoted verb phrase",
+     "morph": "v.1.sg.act-pres + root kḷp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "mind",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "upacārān",
+     "gloss": "offerings",
+     "grounds": "accusative plural noun",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "arrange",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root kḷp"
+    }
+   ],
+   "question": "How should offerings be arranged in the mind?",
+   "premises": [
+    "One says I arrange.",
+    "By mind one arranges offerings."
+   ],
+   "inference": "Offerings are arranged mentally with the thought I arrange.",
+   "uncertainties": [
+    "kalpayāmīti is a quoted form."
+   ],
+   "plain_english": "Thinking 'I arrange,' one should arrange the offerings by mind."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "madhuparkaṃ",
+     "gloss": "honey-mixture",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "mouth",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pānīyam",
+     "gloss": "water",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "utsṛjet",
+     "gloss": "pour",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root sṛj"
+    }
+   ],
+   "question": "What is poured thrice into the mouth?",
+   "premises": [
+    "Honey mixture is poured thrice.",
+    "Honey and water are poured into mouth."
+   ],
+   "inference": "Honey mixture, honey, and water are poured thrice into the mouth.",
+   "uncertainties": [
+    "madhuparkaṃ may include honey mixture."
+   ],
+   "plain_english": "One should pour honey mixture thrice, honey and water into the mouth."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "punarācamanaṃ",
+     "gloss": "again-rinse",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "absolutive verb",
+     "morph": "v.abs + root dā"
+    },
+    {
+     "surface": "gandhapuṣpādikaṃ",
+     "gloss": "fragrance-flower-etc",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "nominative adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What does the wise one give after rinsing again?",
+   "premises": [
+    "After giving rinse again, the wise one gives.",
+    "He gives fragrance flower etc."
+   ],
+   "inference": "The wise one gives fragrance and flowers after rinsing again.",
+   "uncertainties": [
+    "punarācamanaṃ is a fused compound."
+   ],
+   "plain_english": "The wise one, after giving rinse again, gives fragrance, flowers, and so on."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "indeclinable exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vauṣaḍ",
+     "gloss": "vaushat",
+     "grounds": "indeclinable mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhapuṣpe",
+     "gloss": "fragrance-flower",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "hṛdantānyān",
+     "gloss": "heart-ending",
+     "grounds": "accusative compound",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "offer",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt + root nid"
+    }
+   ],
+   "question": "What is offered with homage and vaushat in fragrance flower?",
+   "premises": [
+    "Homage and vaushat are used.",
+    "Heart-ending items are offered in fragrance flower."
+   ],
+   "inference": "Heart-ending items are offered in fragrance flower with homage and vaushat.",
+   "uncertainties": [
+    "hṛdantānyān is a fused compound."
+   ],
+   "plain_english": "With homage and vaushat, one offers heart-ending items in fragrance and flower."
+  }
+ ]
+}

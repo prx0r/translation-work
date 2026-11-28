@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "vedartuvasusūryāśraiḥ",
+     "gloss": "veda-season-vasu-sun-corners",
+     "grounds": "compound of veda, ṛtu, vasu, sūrya, and āśra in instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ṣoḍaśāśraṃ",
+     "gloss": "sixteen-cornered",
+     "grounds": "compound of ṣoḍaśa and āśra in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartulam",
+     "gloss": "round",
+     "grounds": "adjective in accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What shapes and corner-counts are prescribed for the lower and upper mandala sections?",
+   "premises": [
+    "Lower mandala may be one or many.",
+    "Upper section ends with limbs.",
+    "Upper continuation is performed above.",
+    "Sixteen-cornered and round forms are named."
+   ],
+   "inference": "The verse specifies sixteen-cornered and round mandala forms among the prescribed shapes.",
+   "uncertainties": [
+    "Exact mapping of veda-season-vasu-sun corners to mandala geometry is not explicit."
+   ],
+   "plain_english": "With corners of veda, season, vasu, and sun, it is sixteen-cornered and round."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p237",
+ "items": [
+  {
+   "verse": 5925,
+   "rows": [
+    {
+     "surface": "sumuhūrte",
+     "gloss": "at-auspicious-moment",
+     "grounds": "locative of su-muhūrta indicating the proper time",
+     "morph": "loc.sg.m."
+    },
+    {
+     "surface": "pratiṣṭāpya",
+     "gloss": "having-installed",
+     "grounds": "absolutive expressing prior action of installation",
+     "morph": "gerund(prati-√sthā)"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-shrine",
+     "grounds": "locative of dhāman indicating the place of installation",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "mantrāṃstu",
+     "gloss": "mantras-and",
+     "grounds": "fused form of mantrān (mantras) and tu (particle); sandhi marked in surface",
+     "morph": "acc.pl.m.+(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-deposit",
+     "grounds": "prescriptive optative directing placement of the mantras",
+     "morph": "3.sg.act.opt(vi-ni-√as)"
+    }
+   ],
+   "question": "At what auspicious time and in what location must the mantras be deposited after installation?",
+   "premises": [
+    "The ritual action is to occur at an auspicious moment.",
+    "The shrine is the designated location for the rite.",
+    "The mantras are to be deposited following their installation."
+   ],
+   "inference": "Therefore, after installation at an auspicious moment in the shrine, the mantras should be ritually deposited.",
+   "uncertainties": [],
+   "plain_english": "At an auspicious moment, having performed the installation in the shrine, one should then deposit the mantras there."
+  }
+ ]
+}

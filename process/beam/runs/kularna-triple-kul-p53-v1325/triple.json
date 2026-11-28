@@ -1,0 +1,51 @@
+{
+ "song": "kul-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "ācāravarjanāddevi",
+     "gloss": "conduct-abandonment-goddess",
+     "grounds": "fused sandhi form; internal ācāra-varjanāt + devi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "patito",
+     "gloss": "fallen",
+     "grounds": "resultant state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.opt. (bhū)"
+    }
+   ],
+   "question": "What happens to a kaulika who abandons conduct?",
+   "premises": [
+    "Abandoning conduct makes a kaulika fallen.",
+    "The goddess is addressed directly.",
+    "Becoming fallen follows conduct abandonment."
+   ],
+   "inference": "A kaulika who abandons conduct becomes fallen.",
+   "uncertainties": [
+    "The fused first token combines conduct-abandonment with the goddess address."
+   ],
+   "plain_english": "O goddess, by abandoning conduct a kaulika becomes fallen."
+  }
+ ]
+}

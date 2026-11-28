@@ -1,0 +1,137 @@
+{
+ "song": "mukta-m00562-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "aiṁ",
+     "gloss": "seed-syllable",
+     "grounds": "bija; UNC traditional mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "numeral; count marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hūṁ",
+     "gloss": "seed-syllable",
+     "grounds": "bija; UNC traditional mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṁ",
+     "gloss": "seed-syllable",
+     "grounds": "bija; UNC traditional mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+komārikā",
+     "gloss": "great-virgin-goddess",
+     "grounds": "compound as given mahā+komārikā; internal division noted, not split into rows",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "vicce",
+     "gloss": "mantra-syllable",
+     "grounds": "mantra syllable; UNC function in context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādukāṃ",
+     "gloss": "sandals",
+     "grounds": "object term; accusative form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūlamantrana",
+     "gloss": "root-mantra-with",
+     "grounds": "compound as given; UNC exact instrumental/associative force",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "tri+yāñjali",
+     "gloss": "three-handful-offering",
+     "grounds": "compound as given tri+yāñjali; UNC measure of offering",
+     "morph": "compound = member+membership"
+    }
+   ],
+   "question": "What claim about assigning the sandals requires the pairing of a named goddess form with a triple offering and a root mantra in this sequence?",
+   "premises": [
+    "A named goddess form is listed before an object designated as sandals.",
+    "Numerals and bija syllables are placed in sequence with named items in the given order.",
+    "A triple offering and a root-mantra term are appended to the sandals as listed items."
+   ],
+   "inference": "The sequence links the sandals to a specified goddess form through the listed numerals, bija syllables and compound terms without stating an explicit action verb.",
+   "uncertainties": [
+    "Function of bija syllables aiṁ hūṁ śrīṁ vicce remains UNC",
+    "Exact force of mūlamantrana remains UNC",
+    "No explicit verb present to fix agent or action"
+   ],
+   "plain_english": "Great virgin goddess, with aiṁ, five, hūṁ, śrīṁ, vicce, the sandals, together with the root mantra, and a triple handful offering."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "śrī-+aticaṇḍikā+devī",
+     "gloss": "auspicious-great-fierce-goddess",
+     "grounds": "compound as given śrī-+aticaṇḍikā+devī; internal division noted, not split into rows",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "pādukāṃ",
+     "gloss": "sandals",
+     "grounds": "object term; accusative form as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "8",
+     "gloss": "eight",
+     "grounds": "numeral; count marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiṁ",
+     "gloss": "seed-syllable",
+     "grounds": "bija; UNC traditional mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "5",
+     "gloss": "five",
+     "grounds": "numeral; count marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahiṣa+āsanāya",
+     "gloss": "buffalo-seat-to",
+     "grounds": "compound as given mahiṣa+āsanāya; dative-like ending as given; UNC recipient force",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "pādukāṃ",
+     "gloss": "sandals",
+     "grounds": "object term; accusative form as given",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What claim about directing the sandals requires linking the auspicious fierce goddess to a buffalo-seat recipient through the listed numerals and bija syllables in this sequence?",
+   "premises": [
+    "An auspicious fierce goddess form is listed at the start of the sequence.",
+    "The sandals appear twice with numerals and the bija syllable aiṁ placed between them.",
+    "A term for a buffalo seat is listed last in a form marked toward a recipient as given."
+   ],
+   "inference": "The sequence links the sandals to the named goddess and to a buffalo-seat recipient by order alone, with no explicit verb present in the listed tokens.",
+   "uncertainties": [
+    "Force of dative-like ending on mahiṣa+āsanāya remains UNC",
+    "Relation between the two occurrences of pādukāṃ remains UNC",
+    "No explicit verb present to fix agent or action"
+   ],
+   "plain_english": "Auspicious great fierce goddess, the sandals, eight, aiṁ, five, to the buffalo seat, the sandals."
+  }
+ ]
+}

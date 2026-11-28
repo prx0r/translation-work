@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "rāśimānaṃ",
+     "gloss": "heap-measure",
+     "grounds": "compound rāśi+māna, accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "tad + eva, that same",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.opt"
+    },
+    {
+     "surface": "khārī",
+     "gloss": "khari",
+     "grounds": "measure unit khārī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ṣoḍaśabhiś",
+     "gloss": "with-sixteen",
+     "grounds": "instrumental plural of ṣoḍaśa",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "instrumental plural of tad",
+     "morph": "pron.instr.pl.m"
+    }
+   ],
+   "question": "What measure is produced when sixteen of those units are combined?",
+   "premises": [
+    "rāśimānaṃ is tadeva",
+    "syāt khārī by ṣoḍaśa",
+    "taiḥ indicates those units"
+   ],
+   "inference": "The heap-measure equals a khārī made of sixteen of those units.",
+   "uncertainties": [
+    "exact referent of taiḥ is not explicit in this excerpt"
+   ],
+   "plain_english": "That same heap-measure would be a khārī, with sixteen of them."
+  }
+ ]
+}

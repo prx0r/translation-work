@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3550,
+   "rows": [
+    {
+     "surface": "tvaksāraṃ",
+     "gloss": "bark-essence",
+     "grounds": "direct object of the gerundive action; material to be taken",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parigrāhya",
+     "gloss": "having-taken",
+     "grounds": "gerund expressing the act of taking the specified material",
+     "morph": "gerund(pari-grah)"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral qualifying the bark-essence as a single portion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhadvayāṃgulam",
+     "gloss": "two-and-a-half-fingers-measure",
+     "grounds": "compound specifying the measure of the portion to be taken",
+     "morph": "compound(sārdha+dvaya+aṅgula);m.acc.sg"
+    }
+   ],
+   "question": "What specific material and measurement are prescribed to be taken in this ritual preparation?",
+   "premises": [
+    "Bark-essence is the material to be taken.",
+    "Only one portion of this material is specified.",
+    "The prescribed measure of this portion is two and a half fingers."
+   ],
+   "inference": "Therefore, one portion of bark-essence measuring two and a half fingers must be taken.",
+   "uncertainties": [
+    "The exact practical interpretation of the finger-based measure in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "Indeed, having taken one portion of bark-essence, measuring two and a half fingers."
+  }
+ ]
+}

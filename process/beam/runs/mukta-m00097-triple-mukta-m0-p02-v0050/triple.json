@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "evakāraḥ",
+     "gloss": "eva-word",
+     "grounds": "token 1",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīnnakramaḥ",
+     "gloss": "different-order",
+     "grounds": "token 2",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "token 3",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sarvameva cakram",
+     "gloss": "all-indeed-wheel",
+     "grounds": "token 4 phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "token 5",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "token 6",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśeṣatvena",
+     "gloss": "completely",
+     "grounds": "token 7",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "phalamuktam",
+     "gloss": "fruit-declared",
+     "grounds": "token 8",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the eva-word's different order yield complete fruit for the whole wheel?",
+   "premises": [
+    "eva-word appears in different order",
+    "by that all indeed wheel",
+    "thus this completely fruit declared"
+   ],
+   "inference": "The eva-word's altered placement makes the entire wheel's fruit complete.",
+   "uncertainties": [
+    "token 4 is a spaced phrase treated as one token"
+   ],
+   "plain_english": "The eva-word, in a different order, makes the whole wheel indeed complete; thus this fruit is declared completely."
+  }
+ ]
+}

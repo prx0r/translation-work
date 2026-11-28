@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p218",
+ "items": [
+  {
+   "verse": 5450,
+   "rows": [
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "act of worship; nominative or accusative singular neuter noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "performed in the mind; adjective qualifying pūjanam",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "of a divine nature; adjective qualifying tarpaṇādikam",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "performed in the mind; adjective qualifying tarpaṇādikam",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tarpaṇādikam",
+     "gloss": "libation-and-so-forth",
+     "grounds": "compound of tarpaṇa (libation) and ādika (beginning-with, etcetera)",
+     "morph": "tarpaṇa+ādika.n.nom.sg.n"
+    }
+   ],
+   "question": "In what modes are worship and libation prescribed to be performed?",
+   "premises": [
+    "Worship is characterized as mental.",
+    "Libation and related offerings are characterized as divine.",
+    "Libation and related offerings are also characterized as mental."
+   ],
+   "inference": "Therefore, worship and libation with related offerings are to be performed in mental and divine modes.",
+   "uncertainties": [
+    "The exact scope of items included by tarpaṇādikam is not specified in this verse."
+   ],
+   "plain_english": "Worship is mental, and libation and the like are divine and mental."
+  }
+ ]
+}

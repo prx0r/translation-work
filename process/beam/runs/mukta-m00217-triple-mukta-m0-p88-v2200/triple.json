@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "trasareṇuraṣṭaguṇau",
+     "gloss": "dust-mote-eightfold",
+     "grounds": "sandhi fusion trasareṇuḥ + aṣṭaguṇau; eightfold measure of the minute dust-mote",
+     "morph": "compound: trasareṇu+guṇa (m.nom.du)"
+    },
+    {
+     "surface": "rathareṇustu",
+     "gloss": "chariot-dust-but",
+     "grounds": "sandhi fusion rathareṇuḥ + tu; the chariot-dust unit",
+     "morph": "rathareṇu (m.nom.sg) + tu (indecl.)"
+    },
+    {
+     "surface": "saṃsmṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally declared or defined as",
+     "morph": "ppp.m.nom.sg (sam-smṛ)"
+    }
+   ],
+   "question": "What quantity of minute dust-motes defines the unit called chariot-dust?",
+   "premises": [
+    "A minute dust-mote is the basic measure.",
+    "Eightfold minute dust-motes form a larger unit.",
+    "That larger unit is called chariot-dust."
+   ],
+   "inference": "Therefore, a chariot-dust is defined as eight minute dust-motes.",
+   "uncertainties": [
+    "The exact grammatical analysis of trasareṇuraṣṭaguṇau as dual or a fused measure expression is context-dependent."
+   ],
+   "plain_english": "Eight minute dust-motes are traditionally known as one chariot-dust."
+  }
+ ]
+}

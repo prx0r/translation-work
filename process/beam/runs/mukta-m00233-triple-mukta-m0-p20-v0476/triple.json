@@ -1,0 +1,966 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "adverb of order",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrādi",
+     "gloss": "indra-beginning",
+     "grounds": "compound of indra and beginning",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāyu",
+     "gloss": "wind",
+     "grounds": "element in sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antam",
+     "gloss": "end",
+     "grounds": "endpoint of wind range",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mūlāt",
+     "gloss": "from-root",
+     "grounds": "ablative source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivamandiram",
+     "gloss": "shiva-temple",
+     "grounds": "compound destination",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the wind range from root to shiva temple be ordered gradually?",
+   "premises": [
+    "gradual order is prescribed",
+    "wind range has endpoints",
+    "root and temple frame it"
+   ],
+   "inference": "The arrangement proceeds gradually from root toward shiva temple.",
+   "uncertainties": [
+    "exact ritual mapping of indrādi remains implicit"
+   ],
+   "plain_english": "Arrange the wind range gradually from the root to the Shiva temple."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "object to avoid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sasyaṃ",
+     "gloss": "grain",
+     "grounds": "object to avoid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "avoid",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√varj"
+    }
+   ],
+   "question": "Why should wealth and grain be avoided from that place?",
+   "premises": [
+    "wealth is named",
+    "grain is named",
+    "avoidance is commanded"
+   ],
+   "inference": "Both wealth and grain are to be avoided from that place.",
+   "uncertainties": [
+    "the referent of tat is contextual"
+   ],
+   "plain_english": "Therefore avoid wealth and grain from that place."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "mukhyādi",
+     "gloss": "chief-beginning",
+     "grounds": "compound starting point",
+     "morph": "compound"
+    },
+    {
+     "surface": "parjanyāntaṃ",
+     "gloss": "rain-end",
+     "grounds": "compound endpoint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvataḥ",
+     "gloss": "from-east",
+     "grounds": "ablative direction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the chief-to-rain range be oriented from the east?",
+   "premises": [
+    "chief beginning is named",
+    "rain end is named",
+    "eastern origin is given"
+   ],
+   "inference": "The range runs from chief beginning to rain end from the east.",
+   "uncertainties": [
+    "exact deities in range are implicit"
+   ],
+   "plain_english": "From the east, arrange from chief beginning to rain end."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "prākpaścimāsyaḥ",
+     "gloss": "east-west-facing",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṣyāṇāṃ",
+     "gloss": "of-men",
+     "grounds": "genitive beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hitāvahaḥ",
+     "gloss": "benefit-bringing",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is an east-west-facing orientation beneficial for men?",
+   "premises": [
+    "orientation is east-west-facing",
+    "beneficiaries are men",
+    "benefit-bringing is asserted"
+   ],
+   "inference": "An east-west-facing orientation brings benefit to men.",
+   "uncertainties": [
+    "ritual reason for benefit is not stated"
+   ],
+   "plain_english": "But an east-west-facing orientation brings benefit to men."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "saumyā",
+     "gloss": "gentle",
+     "grounds": "adjective for deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śubhadā",
+     "gloss": "auspicious-giving",
+     "grounds": "compound adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive beneficiaries",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Why are gentle deities auspicious-giving for men?",
+   "premises": [
+    "deities are gentle",
+    "auspicious-giving is asserted",
+    "men are beneficiaries"
+   ],
+   "inference": "Gentle deities give auspicious results to men.",
+   "uncertainties": [
+    "which deities are intended is contextual"
+   ],
+   "plain_english": "Gentle deities are auspicious-giving for men."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "manuṣyālayaṃ",
+     "gloss": "human-dwelling",
+     "grounds": "object to make",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√kṛ"
+    },
+    {
+     "surface": "devāgāra",
+     "gloss": "god-house",
+     "grounds": "compound reference",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhikonnatam",
+     "gloss": "higher",
+     "grounds": "comparative adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How high should a human dwelling be relative to a god house?",
+   "premises": [
+    "human dwelling is to be made",
+    "god house is reference",
+    "higher is specified"
+   ],
+   "inference": "The human dwelling should be made lower than the god house.",
+   "uncertainties": [
+    "exact height difference is not quantified"
+   ],
+   "plain_english": "Make the human dwelling lower than the god house."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "permitted quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyūnaṃ",
+     "gloss": "lower",
+     "grounds": "permitted quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "permitted quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣa",
+     "gloss": "human",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "house",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What height relations are permitted for a human house?",
+   "premises": [
+    "auspicious is permitted",
+    "lower is permitted",
+    "equal is permitted"
+   ],
+   "inference": "A human house may be auspicious, lower, or equal in height.",
+   "uncertainties": [
+    "higher is excluded by previous verse"
+   ],
+   "plain_english": "A human house may be auspicious, lower, or equal."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "vairūpyaṃ",
+     "gloss": "deformity",
+     "grounds": "blameworthy quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hīnādhikyaṃ",
+     "gloss": "deficiency-excess",
+     "grounds": "compound quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ninditam",
+     "gloss": "blameworthy",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are deformity and deficiency-excess blameworthy?",
+   "premises": [
+    "deformity is named",
+    "deficiency-excess is named",
+    "blameworthy is asserted"
+   ],
+   "inference": "Deformity and deficiency-excess are blameworthy.",
+   "uncertainties": [
+    "specific architectural defects are implicit"
+   ],
+   "plain_english": "Deformity and deficiency or excess are blameworthy."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "deśadeśādhipasthānakartṛbhartṛvināśanam",
+     "gloss": "country-lord-place-maker-protector-destruction",
+     "grounds": "long compound of destruction causes",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What destruction follows from improper country lord place maker and protector arrangements?",
+   "premises": [
+    "compound lists country",
+    "compound lists lord place maker protector",
+    "destruction is named"
+   ],
+   "inference": "Improper arrangements of these factors bring destruction.",
+   "uncertainties": [
+    "internal compound segmentation is dense"
+   ],
+   "plain_english": "Improper country, lord, place, maker, and protector arrangements bring destruction."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "strīvināśāya",
+     "gloss": "woman-destruction-for",
+     "grounds": "dative purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "stambhe",
+     "gloss": "pillar",
+     "grounds": "locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nṛpaparājayaḥ",
+     "gloss": "king-defeat",
+     "grounds": "compound result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results from pillar defects for women and kings?",
+   "premises": [
+    "woman destruction is purpose",
+    "pillar is context",
+    "king defeat is result"
+   ],
+   "inference": "Pillar defects bring destruction to women and defeat to kings.",
+   "uncertainties": [
+    "exact pillar defect is not specified"
+   ],
+   "plain_english": "Pillar defects bring destruction to women and defeat to kings."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "nāsikāsu",
+     "gloss": "noses",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "svapakṣaghnaṃ",
+     "gloss": "own-side-killing",
+     "grounds": "compound quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhare",
+     "gloss": "peak",
+     "grounds": "locative context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājavibhramaḥ",
+     "gloss": "king-confusion",
+     "grounds": "compound result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What harms arise from defects at noses and peak?",
+   "premises": [
+    "noses are locative context",
+    "own-side-killing is named",
+    "peak is locative context",
+    "king confusion is named"
+   ],
+   "inference": "Defects at noses kill one's own side and defects at peak confuse kings.",
+   "uncertainties": [
+    "architectural feature mapping is implicit"
+   ],
+   "plain_english": "Defects at noses kill one's own side, and defects at the peak confuse kings."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "asthānadvārasopānaṃ",
+     "gloss": "improper-door-staircase",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarveṣāmaśubhāvaham",
+     "gloss": "of-all-inauspicious-bringing",
+     "grounds": "compound predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are improper door and staircase inauspicious for all?",
+   "premises": [
+    "improper door staircase is subject",
+    "inauspicious bringing is predicate",
+    "all are affected"
+   ],
+   "inference": "Improper door and staircase bring inauspiciousness to all.",
+   "uncertainties": [
+    "specific impropriety is not detailed"
+   ],
+   "plain_english": "Improper door and staircase bring inauspiciousness to all."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "acoditālaṅkaraṇam",
+     "gloss": "unprompted-ornament",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "additional subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aniṣṭaduḥkhadam",
+     "gloss": "undesired-sorrow-giving",
+     "grounds": "compound predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are unprompted ornament and other defects sorrow-giving?",
+   "premises": [
+    "unprompted ornament is named",
+    "other defects are included",
+    "undesired sorrow is result"
+   ],
+   "inference": "Unprompted ornament and other defects give undesired sorrow.",
+   "uncertainties": [
+    "scope of anyat is contextual"
+   ],
+   "plain_english": "Unprompted ornament and other defects give undesired sorrow."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "tasmād",
+     "gloss": "therefore",
+     "grounds": "inferential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "dwelling",
+     "grounds": "object to make",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√kṛ"
+    },
+    {
+     "surface": "salakṣaṇam",
+     "gloss": "with-good-marks",
+     "grounds": "adverbial adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should a dwelling be made after these warnings?",
+   "premises": [
+    "therefore follows warnings",
+    "dwelling is object",
+    "good marks are required"
+   ],
+   "inference": "A dwelling should be made with good marks.",
+   "uncertainties": [
+    "exact good marks are not listed here"
+   ],
+   "plain_english": "Therefore make the dwelling with good marks."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "result named",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nairdhanyaṃ",
+     "gloss": "freedom-from-poverty",
+     "grounds": "result named",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.√kṛ"
+    },
+    {
+     "surface": "pūrvādidigdarī",
+     "gloss": "east-beginning-cave",
+     "grounds": "compound location",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results come from making an east-beginning cave?",
+   "premises": [
+    "happiness is named",
+    "freedom from poverty is named",
+    "east-beginning cave is location"
+   ],
+   "inference": "Making an east-beginning cave brings happiness and freedom from poverty.",
+   "uncertainties": [
+    "cave may be metaphorical or architectural"
+   ],
+   "plain_english": "Make an east-beginning cave for happiness and freedom from poverty."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣṭiṃ",
+     "gloss": "nourishment",
+     "grounds": "result named",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināśaṃ",
+     "gloss": "destruction",
+     "grounds": "result named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "brings",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt.√vah"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gradual results are brought by these arrangements?",
+   "premises": [
+    "nourishment is named",
+    "destruction is named",
+    "gradual bringing is asserted"
+   ],
+   "inference": "These arrangements gradually bring nourishment and destruction.",
+   "uncertainties": [
+    "which arrangement brings which result is contextual"
+   ],
+   "plain_english": "They gradually bring nourishment and destruction."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "kṣaudrasya",
+     "gloss": "of-honey",
+     "grounds": "genitive substance",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatragarhitaḥ",
+     "gloss": "everywhere-blameworthy",
+     "grounds": "compound predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is honey placement everywhere blameworthy?",
+   "premises": [
+    "honey is substance",
+    "placement is subject",
+    "everywhere blameworthy is predicate"
+   ],
+   "inference": "Placing honey is blameworthy everywhere.",
+   "uncertainties": [
+    "ritual context of honey placement is implicit"
+   ],
+   "plain_english": "Placing honey is blameworthy everywhere."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "kanyāgamaṃ",
+     "gloss": "girl-arrival",
+     "grounds": "result named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "result named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalahaṃ",
+     "gloss": "quarrel",
+     "grounds": "result named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raktakanyakā",
+     "gloss": "red-girl",
+     "grounds": "compound subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results are associated with a red girl?",
+   "premises": [
+    "girl arrival is named",
+    "son is named",
+    "quarrel is named",
+    "red girl is subject"
+   ],
+   "inference": "A red girl is associated with girl arrival, son, and quarrel.",
+   "uncertainties": [
+    "causal relation is compressed"
+   ],
+   "plain_english": "A red girl brings girl arrival, a son, and quarrel."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "uktādavāntare'nyatra",
+     "gloss": "from-said-between-elsewhere",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāre",
+     "gloss": "door",
+     "grounds": "locative context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalahādikam",
+     "gloss": "quarrel-etc",
+     "grounds": "compound result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What quarrel results from door placement elsewhere than said?",
+   "premises": [
+    "elsewhere than said is condition",
+    "door is context",
+    "quarrel etc is result"
+   ],
+   "inference": "Door placement elsewhere than specified brings quarrel and related harms.",
+   "uncertainties": [
+    "exact said placement is in prior context"
+   ],
+   "plain_english": "A door placed elsewhere than specified brings quarrel and related harms."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "vanakapotakāḥ",
+     "gloss": "forest-pigeons",
+     "grounds": "compound subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is the significance of forest pigeons in this ritual context?",
+   "premises": [
+    "forest pigeons are named",
+    "plural subject is given"
+   ],
+   "inference": "Forest pigeons are noted as a relevant omen or condition.",
+   "uncertainties": [
+    "predicate is omitted in this fragment"
+   ],
+   "plain_english": "Forest pigeons are noted."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "devamānuṣageheṣu",
+     "gloss": "god-human-houses",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "maṭhagoṣṭhasabhādiṣu",
+     "gloss": "monastery-cowshed-assembly-etc",
+     "grounds": "compound locative",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "In what kinds of houses and halls do these rules apply?",
+   "premises": [
+    "god and human houses are included",
+    "monastery cowshed assembly etc are included"
+   ],
+   "inference": "The rules apply in god and human houses, monasteries, cowsheds, assemblies, and similar places.",
+   "uncertainties": [
+    "exact rule scope is contextual"
+   ],
+   "plain_english": "These rules apply in god and human houses, monasteries, cowsheds, assemblies, and similar places."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "khananādikriyābhiḥ",
+     "gloss": "digging-etc-actions",
+     "grounds": "compound instrumental",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "tadapanīyopalipya",
+     "gloss": "that-removing-plastering",
+     "grounds": "compound participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should digging and related actions be handled before plastering?",
+   "premises": [
+    "digging etc actions are instrumental",
+    "that removing plastering is participle",
+    "contrast is marked"
+   ],
+   "inference": "After digging and related actions, remove that and plaster.",
+   "uncertainties": [
+    "referent of that is contextual"
+   ],
+   "plain_english": "After digging and related actions, remove that and plaster."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "vastu-offering",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "abs.√dā"
+    },
+    {
+     "surface": "vāstubaliṃ",
+     "gloss": "vastu-offering",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings should be given before dwelling?",
+   "premises": [
+    "vastu offering is object",
+    "having given is absolutive",
+    "vastu offering is object",
+    "then is temporal"
+   ],
+   "inference": "Give vastu offering and vastu offering, then dwell.",
+   "uncertainties": [
+    "distinction between homa and bali is ritual"
+   ],
+   "plain_english": "After giving vastu offering and vastu offering, then dwell."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "yathāvadāvaset",
+     "gloss": "properly-dwell",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt.√vas"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative pronoun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvasaṃpatkaraṃ",
+     "gloss": "all-prosperity-making",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt.√bhū"
+    }
+   ],
+   "question": "What becomes of one who dwells properly in that place?",
+   "premises": [
+    "proper dwelling is commanded",
+    "that place is locative",
+    "all prosperity making is result"
+   ],
+   "inference": "Proper dwelling in that place becomes all-prosperity-making.",
+   "uncertainties": [
+    "exact place is contextual"
+   ],
+   "plain_english": "Dwelling properly in that place becomes all-prosperity-making."
+  }
+ ]
+}

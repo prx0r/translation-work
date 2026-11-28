@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3725,
+   "rows": [
+    {
+     "surface": "īśānaḥ sarvavidyānāmityādi",
+     "gloss": "lord-of-all-vidyās-etc",
+     "grounds": "fused quoted citation phrase; internal sandhi not split",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrutibhiḥ",
+     "gloss": "by-shrutis",
+     "grounds": "instrumental plural of śruti",
+     "morph": "f.instr.pl"
+    },
+    {
+     "surface": "muhuḥ",
+     "gloss": "repeatedly",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Is Īśāna repeatedly declared lord of all vidyās by the śrutis?",
+   "premises": [
+    "The citation names Īśāna as lord of all vidyās.",
+    "The śrutis are given as the declaring authority.",
+    "The adverb indicates repeated declaration."
+   ],
+   "inference": "The verse affirms repeated śruti authority for Īśāna's lordship over all vidyās.",
+   "uncertainties": [
+    "The token is a fused quoted phrase, so its exact citation boundary is unclear.",
+    "The verse gives no further doctrinal elaboration beyond the citation."
+   ],
+   "plain_english": "The śrutis repeatedly declare Īśāna lord of all vidyās, and so forth."
+  }
+ ]
+}

@@ -1,0 +1,527 @@
+{
+ "song": "kul-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "jñānato'jñānato",
+     "gloss": "from-knowledge-or-from-ignorance",
+     "grounds": "ablative adverb forms fused by sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "of-worshippers",
+     "grounds": "genitive plural of worshippers",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "kāmado",
+     "gloss": "desire-giving",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the mantra give to worshippers?",
+   "premises": [
+    "mantra gives desires",
+    "worshippers may know or not know",
+    "desire-giving applies broadly"
+   ],
+   "inference": "The mantra grants desires to worshippers regardless of knowledge or ignorance.",
+   "uncertainties": [
+    "sandhi fusion in first token"
+   ],
+   "plain_english": "Whether through knowledge or ignorance, this mantra gives desires to those who worship."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "lakṣmīnārāyaṇau",
+     "gloss": "lakshmi-and-narayana",
+     "grounds": "dvandva compound, dual",
+     "morph": "nom.du.m (dvandva compound)"
+    },
+    {
+     "surface": "vāṇīdhātārau",
+     "gloss": "speech-and-creator",
+     "grounds": "dvandva compound, dual",
+     "morph": "nom.du.m (dvandva compound)"
+    },
+    {
+     "surface": "rātrivāsarau",
+     "gloss": "night-and-day",
+     "grounds": "dvandva compound, dual",
+     "morph": "nom.du.m (dvandva compound)"
+    }
+   ],
+   "question": "Which paired powers are named here?",
+   "premises": [
+    "lakshmi and narayana are paired",
+    "speech and creator are paired",
+    "night and day are paired"
+   ],
+   "inference": "The verse names complementary divine pairs.",
+   "uncertainties": [
+    "exact compound membership"
+   ],
+   "plain_english": "Lakshmi and Narayana, speech and creator, night and day are paired together."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "ādhārādheyanāmānau",
+     "gloss": "support-and-supported",
+     "grounds": "dvandva compound, dual",
+     "morph": "nom.du.m (dvandva compound)"
+    },
+    {
+     "surface": "bhogamokṣau",
+     "gloss": "enjoyment-and-liberation",
+     "grounds": "dvandva compound, dual",
+     "morph": "nom.du.m (dvandva compound)"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-goddess-of-kula",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What paired realities address the goddess?",
+   "premises": [
+    "support and supported are paired",
+    "enjoyment and liberation are paired",
+    "goddess of kula is addressed"
+   ],
+   "inference": "The verse addresses the goddess through complementary pairs.",
+   "uncertainties": [
+    "exact vocative force"
+   ],
+   "plain_english": "Support and supported, enjoyment and liberation, are named before the goddess of Kula."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "sarvalokeṣu",
+     "gloss": "in-all-worlds",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "āvām",
+     "gloss": "we-two",
+     "grounds": "first person dual pronoun",
+     "morph": "nom.du.1"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who is declared present in all worlds?",
+   "premises": [
+    "that all is we two",
+    "no doubt remains",
+    "statement applies in all worlds"
+   ],
+   "inference": "The two speakers are identified with all reality in every world.",
+   "uncertainties": [
+    "exact referent of we two"
+   ],
+   "plain_english": "In all worlds, that all is we two; there is no doubt."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "parāprāsādamantro'yaṃ",
+     "gloss": "supreme-temple-mantra-this",
+     "grounds": "sandhi fusion of mantra and ayam",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative demonstrative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvātmako",
+     "gloss": "all-selved",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhu",
+     "morph": "3.sg.opt.act. root bhū"
+    }
+   ],
+   "question": "What does the supreme temple mantra become?",
+   "premises": [
+    "this is the supreme temple mantra",
+    "therefore it becomes all-selved",
+    "mantra identity is universal"
+   ],
+   "inference": "The supreme temple mantra makes one all-selved.",
+   "uncertainties": [
+    "optative force"
+   ],
+   "plain_english": "This supreme temple mantra therefore becomes all-selved."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "partless",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nirmalaṃ",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "eternal",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nirguṇaṃ",
+     "gloss": "qualityless",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vyomasannibham",
+     "gloss": "sky-like",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How is the mantra described?",
+   "premises": [
+    "it is partless",
+    "it is stainless and eternal",
+    "it is qualityless and sky-like"
+   ],
+   "inference": "The mantra is described as pure, eternal, and sky-like.",
+   "uncertainties": [
+    "syntactic role of adjectives"
+   ],
+   "plain_english": "It is partless, stainless, eternal, qualityless, and sky-like."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "parāprāsādamantrārthasandhānāt",
+     "gloss": "supreme-temple-mantra-meaning-union",
+     "grounds": "ablative compound noun",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "samprakāśate",
+     "gloss": "manifests",
+     "grounds": "middle voice verb",
+     "morph": "3.sg.pres.mid. root prakāś"
+    }
+   ],
+   "question": "What manifests through union with mantra meaning?",
+   "premises": [
+    "union with supreme temple mantra meaning",
+    "manifestation follows from that union",
+    "result is revealed"
+   ],
+   "inference": "Union with the mantra's meaning causes manifestation.",
+   "uncertainties": [
+    "exact manifested object"
+   ],
+   "plain_english": "Through union with the meaning of the supreme temple mantra, it manifests."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "paratattvasvarūpatvāt",
+     "gloss": "supreme-reality-own-form",
+     "grounds": "ablative compound noun",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "saccidānandalakṣaṇāt",
+     "gloss": "being-consciousness-bliss-marked",
+     "grounds": "ablative compound adjective",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What marks the supreme reality's own form?",
+   "premises": [
+    "supreme reality has its own form",
+    "that form is marked by being",
+    "consciousness and bliss mark it"
+   ],
+   "inference": "The supreme reality's form is marked by being, consciousness, and bliss.",
+   "uncertainties": [
+    "ablative causal force"
+   ],
+   "plain_english": "Because it is the own form of supreme reality, it is marked by being, consciousness, and bliss."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "sakarmāpi",
+     "gloss": "with-action-even",
+     "grounds": "fused sakarma and api",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkarma",
+     "gloss": "actionless",
+     "grounds": "adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saguṇañcāpi",
+     "gloss": "with-quality-even",
+     "grounds": "fused saguna, ca, and api",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirguṇam",
+     "gloss": "qualityless",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How can it be both active and inactive?",
+   "premises": [
+    "with action yet actionless",
+    "with quality yet qualityless",
+    "both pairs are asserted"
+   ],
+   "inference": "The mantra transcends opposed predicates simultaneously.",
+   "uncertainties": [
+    "exact subject"
+   ],
+   "plain_english": "Even with action it is actionless; even with quality it is qualityless."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "present participle",
+     "morph": "nom.sg.m (pres.part.)"
+    },
+    {
+     "surface": "bhuktiñca",
+     "gloss": "enjoyment",
+     "grounds": "fused bhukti and ca",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiñca",
+     "gloss": "liberation",
+     "grounds": "fused mukti and ca",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "middle voice verb",
+     "morph": "3.sg.pres.mid. root labh"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does recitation bring without doubt?",
+   "premises": [
+    "reciting brings enjoyment",
+    "reciting brings liberation",
+    "no doubt exists here"
+   ],
+   "inference": "Recitation yields both enjoyment and liberation certainly.",
+   "uncertainties": [
+    "exact object of japan"
+   ],
+   "plain_english": "By reciting, one obtains both enjoyment and liberation; there is no doubt here."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantrasamaṃ",
+     "gloss": "equal-to-supreme-temple-mantra",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "passive verb",
+     "morph": "3.sg.pres.pass. root vid"
+    }
+   ],
+   "question": "Is any mantra equal to this one?",
+   "premises": [
+    "no mantra is known",
+    "equal to supreme temple mantra",
+    "comparison is denied"
+   ],
+   "inference": "No mantra is known equal to the supreme temple mantra.",
+   "uncertainties": [
+    "gender agreement"
+   ],
+   "plain_english": "No mantra equal to the supreme temple mantra is known."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "demonstrative with eva",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "idameva",
+     "gloss": "this-alone",
+     "grounds": "demonstrative with eva",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "feminine adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What are meditation and worship identified with?",
+   "premises": [
+    "this alone is supreme meditation",
+    "this alone is supreme worship",
+    "same referent for both"
+   ],
+   "inference": "Meditation and worship are identified with this supreme reality.",
+   "uncertainties": [
+    "exact referent of idam"
+   ],
+   "plain_english": "This alone is supreme meditation; this alone is supreme worship."
+  }
+ ]
+}

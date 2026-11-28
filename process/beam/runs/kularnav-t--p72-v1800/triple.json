@@ -1,0 +1,45 @@
+{
+ "song": "kul-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "kādayaḥ",
+     "gloss": "letters-from-ka",
+     "grounds": "ka-ādi letter series in nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañcaśaḥ",
+     "gloss": "in-groups-of-five",
+     "grounds": "adverbial grouping by five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣakṣasahāntāśca",
+     "gloss": "ending-with-ṣa-kṣa-sa-ha-and",
+     "grounds": "compound listing final letters plus ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīttītāḥ",
+     "gloss": "are-declared",
+     "grounds": "participle from prakīrti root, nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which letters are declared in groups of five?",
+   "premises": [
+    "Letters from ka are grouped fivefold.",
+    "The final group ends with ṣa kṣa sa ha.",
+    "These letter groups are declared."
+   ],
+   "inference": "The declared set is the ka-series grouped by five.",
+   "uncertainties": [
+    "Edition spelling prakīttītāḥ may represent prakīrtitāḥ."
+   ],
+   "plain_english": "The letters from ka onward, in groups of five, ending with ṣa, kṣa, sa, and ha, are declared."
+  }
+ ]
+}

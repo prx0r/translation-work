@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "indeclinable quantifier modifying the following gems",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "gems",
+     "grounds": "neuter noun in compound or accusative plural context",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "numeral modifying bound gems",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "past participle describing the waistband",
+     "morph": "part.past.pass."
+    },
+    {
+     "surface": "rasanāṃ",
+     "gloss": "waistband",
+     "grounds": "feminine accusative singular object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pretāsane",
+     "gloss": "on-preta-seat",
+     "grounds": "locative compound: seat of pretas",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃsthitām",
+     "gloss": "situated",
+     "grounds": "feminine accusative singular participle agreeing with goddess",
+     "morph": "part.past.pass.f.acc.sg"
+    }
+   ],
+   "question": "Which adornment and seat are attributed to the goddess described here?",
+   "premises": [
+    "The goddess wears a waistband bound by thousands of various gems.",
+    "She is situated on a seat of pretas."
+   ],
+   "inference": "Thus the verse depicts her with a gem-bound waistband and a preta seat.",
+   "uncertainties": [
+    "Compound and case boundaries in the fused phrase are interpreted from context."
+   ],
+   "plain_english": "She is situated on a preta seat, wearing a waistband bound by thousands of various gems."
+  }
+ ]
+}

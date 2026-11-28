@@ -1,0 +1,1071 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the stated rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraśata",
+     "gloss": "hundred-and-eight",
+     "grounds": "numeral compound indicating a count of 108",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "compound member indicating similar cases",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṣayam",
+     "gloss": "concerning",
+     "grounds": "object or scope of application",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What scope of counting applies to the hundred-and-eight and similar measures?",
+   "premises": [
+    "The stated rule applies to this case",
+    "The case includes hundred-and-eight counts",
+    "Similar measures are included by extension"
+   ],
+   "inference": "The rule extends to counts of hundred-and-eight and comparable measures.",
+   "uncertainties": [
+    "The exact referent of idam depends on the preceding context"
+   ],
+   "plain_english": "This also applies to counts of a hundred and eight and the like."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the stated rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraśata",
+     "gloss": "hundred-and-eight",
+     "grounds": "numeral compound indicating a count of 108",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṣayam",
+     "gloss": "concerning",
+     "grounds": "object or scope of application",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Does the stated rule specifically concern the hundred-and-eight count?",
+   "premises": [
+    "The stated rule applies to this case",
+    "The case is specified as hundred-and-eight",
+    "The scope is explicitly delimited"
+   ],
+   "inference": "The rule specifically concerns the hundred-and-eight count.",
+   "uncertainties": [
+    "The exact referent of idam depends on the preceding context"
+   ],
+   "plain_english": "This also concerns the count of a hundred and eight."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "viyogāt",
+     "gloss": "from-separation",
+     "grounds": "cause indicating interruption or disconnection",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chidre",
+     "gloss": "in-gap",
+     "grounds": "location indicating a break or fault",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sravate",
+     "gloss": "flows-away",
+     "grounds": "metaphor for leakage or loss of efficacy",
+     "morph": "3.sg.middle-present √sru"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "the ritual repetition of mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What causes mantra recitation to lose its efficacy through leakage?",
+   "premises": [
+    "Separation causes loss in recitation",
+    "A gap or break causes loss in recitation",
+    "Recitation is described as flowing away"
+   ],
+   "inference": "Mantra recitation leaks away when there is separation or a gap.",
+   "uncertainties": [
+    "The precise nature of viyoga and chidra in practice is not specified"
+   ],
+   "plain_english": "Because of separation and because of a gap, the recitation flows away."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "parvasandhiṣu",
+     "gloss": "at-junctures",
+     "grounds": "critical transition points or joints of time/ritual",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun introducing the recited portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "japtam",
+     "gloss": "recited",
+     "grounds": "past participle describing mantra repetition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun resuming the relative clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality of the recitation done at junctures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "lacking ritual result or efficacy",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.active-optative √bhū"
+    }
+   ],
+   "question": "What result follows from mantra recitation performed at critical junctures?",
+   "premises": [
+    "Recitation may occur at junctures",
+    "Such recitation is identified as a whole",
+    "The whole is declared fruitless"
+   ],
+   "inference": "All recitation performed at junctures becomes fruitless.",
+   "uncertainties": [
+    "The specific junctures intended by parvasandhi are not defined here"
+   ],
+   "plain_english": "Whatever is recited at the junctures, all of that becomes fruitless."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "rākṣasāḥ",
+     "gloss": "demons",
+     "grounds": "malevolent beings who take the benefit",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the faulty recitation",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "may-count",
+     "grounds": "taking or claiming the count/result",
+     "morph": "3.sg.active-optative √gaṇ"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "emphatic totality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who appropriates the benefit of improperly handled recitation according to the wise?",
+   "premises": [
+    "A faulty recitation is implied by the context",
+    "Demons are said to count or claim by that",
+    "The wise one recognizes this in every way"
+   ],
+   "inference": "The wise understand that demons appropriate the benefit of such recitation.",
+   "uncertainties": [
+    "The exact grammatical subject of gaṇayet is ambiguous between demons and the wise"
+   ],
+   "plain_english": "The wise should understand that, by that, demons take the count in every way."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asaṃkhyākārakasya",
+     "gloss": "of-non-counter",
+     "grounds": "one who does not keep count of recitation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative referring to that person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "the entirety of the recitation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.active-present √bhū"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "lacking ritual result or efficacy",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows for a practitioner who fails to count recitations?",
+   "premises": [
+    "A practitioner may not count recitations",
+    "All recitation of such a person is considered",
+    "That recitation becomes fruitless"
+   ],
+   "inference": "All recitation by one who does not count becomes fruitless.",
+   "uncertainties": [],
+   "plain_english": "For the wise, all recitation of one who does not keep count becomes fruitless."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "prior action of concealing",
+     "morph": "(gerund) √ācchad"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrument used for covering",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "two-hands",
+     "grounds": "the hands used in recitation",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dakṣiṇena",
+     "gloss": "with-right",
+     "grounds": "the right hand performing the counting",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive instruction for mantra repetition",
+     "morph": "3.sg.active-optative √jap"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant practice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the hands be positioned during mantra recitation for proper practice?",
+   "premises": [
+    "The hands should be covered with a cloth",
+    "Recitation should be done with the right hand",
+    "This practice should be constant"
+   ],
+   "inference": "One should always recite with the hands covered by a cloth, using the right hand.",
+   "uncertainties": [
+    "Whether dakṣiṇena qualifies the hand or the manner is slightly ambiguous"
+   ],
+   "plain_english": "Having covered the hands with a cloth, one should always recite with the right hand."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "yādṛśī",
+     "gloss": "of-what-kind",
+     "grounds": "correlative adjective describing the rosary",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "the counting string used in recitation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃkhyāne",
+     "gloss": "in-counting",
+     "grounds": "the act of counting recitations",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśī",
+     "gloss": "of-that-kind",
+     "grounds": "correlative adjective matching yādṛśī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What correspondence must hold between the rosary and the act of counting?",
+   "premises": [
+    "The rosary has a certain kind or quality",
+    "Counting is performed with it",
+    "The counting corresponds to that kind"
+   ],
+   "inference": "The manner or nature of counting corresponds to the kind of rosary used.",
+   "uncertainties": [
+    "The predicate is elliptical; the exact correspondence is implied rather than stated"
+   ],
+   "plain_english": "Of whatever kind the rosary is, of that kind also is the counting."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "ṭu",
+     "gloss": "ṭu",
+     "grounds": "syllabic marker or example term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "syllabic marker or example term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pu",
+     "gloss": "pu",
+     "grounds": "syllabic marker or example term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yu",
+     "gloss": "yu",
+     "grounds": "syllabic marker or example term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śava",
+     "gloss": "corpse",
+     "grounds": "example term in the list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uṣṭau",
+     "gloss": "camel-and",
+     "grounds": "example term with dual/compound ending as given",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement of the list",
+     "morph": "m.nom.pl.past-participle √kīrt"
+    }
+   ],
+   "question": "Which terms are declared as examples in the stated classification?",
+   "premises": [
+    "A series of terms is listed",
+    "These terms include syllabic markers and examples",
+    "They are authoritatively declared"
+   ],
+   "inference": "The terms ṭu, tu, pu, yu, śava, and uṣṭau are declared as such examples.",
+   "uncertainties": [
+    "The technical meaning of the syllabic markers ṭu, tu, pu, yu is unclear without further context"
+   ],
+   "plain_english": "Ṭu, tu, pu, yu, corpse, and camel are declared."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upalakṣaṇam",
+     "gloss": "indicative-example",
+     "grounds": "a sign or illustrative marker for a broader class",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the preceding list of terms be understood in scope?",
+   "premises": [
+    "A list of terms has been given",
+    "The list is marked with iti",
+    "It is characterized as an indicative example"
+   ],
+   "inference": "The preceding list serves as an indicative example rather than an exhaustive enumeration.",
+   "uncertainties": [],
+   "plain_english": "Thus, this is an indicative example."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "caramārṇam",
+     "gloss": "final-syllable",
+     "grounds": "the last letter or bead representing Meru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "merurūpam",
+     "gloss": "meru-form",
+     "grounds": "having the form or function of the Meru bead",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "laṅghanam",
+     "gloss": "crossing",
+     "grounds": "transgressing or passing over",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.active-optative-causative √kṛ"
+    }
+   ],
+   "question": "What prohibition governs crossing the final syllable identified as Meru?",
+   "premises": [
+    "The final syllable is identified as Meru-form",
+    "Crossing it is considered",
+    "Crossing it is explicitly prohibited"
+   ],
+   "inference": "One must not cause the crossing of the final syllable that has the form of Meru.",
+   "uncertainties": [],
+   "plain_english": "One should never cause the crossing of the final syllable, which has the form of Meru."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "pratirohataḥ",
+     "gloss": "by-reversing",
+     "grounds": "moving back in the opposite direction",
+     "morph": "m.abl.sg.present-participle √ruh"
+    },
+    {
+     "surface": "śatamayīm",
+     "gloss": "hundredfold",
+     "grounds": "consisting of or relating to a hundred",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vargāṣṭaka",
+     "gloss": "group-of-eight",
+     "grounds": "a set of eight classes or groups",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭottaram",
+     "gloss": "hundred-and-eight",
+     "grounds": "a count exceeding a hundred by eight",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What counting structure is indicated when reversing at the Meru point?",
+   "premises": [
+    "A reversal of direction is indicated",
+    "Counts involving hundredfold and groups of eight appear",
+    "A hundred-and-eight count is specified"
+   ],
+   "inference": "Reversing involves a structured count reaching a hundred-and-eight.",
+   "uncertainties": [
+    "The syntactic relation among śatamayīm, vargāṣṭaka, and aṣṭottaram is compressed and unclear"
+   ],
+   "plain_english": "By reversing, one proceeds through the hundredfold, the group of eight, and the hundred-and-eight."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "lakāradvayam",
+     "gloss": "pair-of-la",
+     "grounds": "two instances of the letter la",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "prescriptive identification",
+     "morph": "n.nom.sg.gerundive √jñā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identification must be understood regarding the pair of la syllables?",
+   "premises": [
+    "A pair of la syllables is mentioned",
+    "It is marked as something to be known",
+    "The statement is concluded with iti"
+   ],
+   "inference": "The pair of la syllables must be recognized as such.",
+   "uncertainties": [
+    "The referent and function of lakāradvayam are not explained in this verse"
+   ],
+   "plain_english": "Thus, the pair of la syllables should be known."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "kuśamūlaiḥ",
+     "gloss": "with-kuśa-roots",
+     "grounds": "material made from roots of kuśa grass",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhasthasya",
+     "gloss": "of-householder",
+     "grounds": "the practitioner in the householder stage",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "akṣamālikā",
+     "gloss": "rosary",
+     "grounds": "the counting string for recitation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What rosary material is prescribed for a householder practitioner?",
+   "premises": [
+    "A householder practitioner is specified",
+    "A rosary is the subject",
+    "Kuśa roots are indicated as material"
+   ],
+   "inference": "A householder’s rosary may be made with kuśa roots.",
+   "uncertainties": [
+    "The verse is elliptical and may continue into the next verse"
+   ],
+   "plain_english": "And for a householder, the rosary is made with kuśa roots."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "spiritual release as a goal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "bestows as a result",
+     "morph": "3.sg.active-present √dā"
+    },
+    {
+     "surface": "priyaṃkarī",
+     "gloss": "dear-making",
+     "grounds": "epithet of the rosary or material that brings favor",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What spiritual limitation is attributed to the dear-making rosary?",
+   "premises": [
+    "Liberation is considered as a possible result",
+    "The dear-making rosary does not give liberation",
+    "It is nonetheless characterized positively"
+   ],
+   "inference": "The dear-making rosary does not grant liberation.",
+   "uncertainties": [
+    "The subject priyaṃkarī may refer to the rosary described in the previous verse"
+   ],
+   "plain_english": "And the dear-making one does not give liberation."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "careful exertion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jananyā",
+     "gloss": "by-mother",
+     "grounds": "maternal agent in a simile",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "jāravat",
+     "gloss": "like-lover",
+     "grounds": "simile indicating secret or affectionate giving",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the manner of giving characterized in the addressed instruction?",
+   "premises": [
+    "Effort is required in the act",
+    "A mother is used as an agent in comparison",
+    "The giving is likened to that toward a lover"
+   ],
+   "inference": "The giving should be done with effort, as a mother gives like to a lover.",
+   "uncertainties": [
+    "The simile jāravat is culturally nuanced and its exact force is interpretive"
+   ],
+   "plain_english": "O beloved, with effort, as a mother gives to a lover."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "prayacchet",
+     "gloss": "should-give",
+     "grounds": "prescriptive act of bestowing",
+     "morph": "3.sg.active-optative √yam"
+    },
+    {
+     "surface": "vipulam",
+     "gloss": "abundant",
+     "grounds": "large in quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanam",
+     "gloss": "wealth",
+     "grounds": "material riches",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What material benefit should be bestowed according to the instruction?",
+   "premises": [
+    "An act of giving is prescribed",
+    "The object given is wealth",
+    "The wealth is described as abundant"
+   ],
+   "inference": "One should give abundant wealth.",
+   "uncertainties": [
+    "The agent and recipient are implied from surrounding verses"
+   ],
+   "plain_english": "One should give abundant wealth."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "jape",
+     "gloss": "in-recitation",
+     "grounds": "context of mantra repetition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śastā",
+     "gloss": "commended",
+     "grounds": "prescribed as suitable or excellent",
+     "morph": "f.nom.sg.past-participle √śaṃs"
+    },
+    {
+     "surface": "rudrākṣam",
+     "gloss": "rudraksha",
+     "grounds": "rosary made from rudraksha seeds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktacandanaiḥ",
+     "gloss": "with-red-sandal",
+     "grounds": "material or accompaniment of red sandalwood",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which rosary materials are commended for use in mantra recitation?",
+   "premises": [
+    "The context is mantra recitation",
+    "Rudraksha is commended",
+    "Red sandalwood is associated with it"
+   ],
+   "inference": "Rudraksha, together with red sandalwood, is commended for recitation.",
+   "uncertainties": [
+    "The exact syntactic role of raktacandanaiḥ is ambiguous"
+   ],
+   "plain_english": "In recitation, a rudraksha rosary with red sandalwood is commended."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "karṇanetrāntarasthāsthi",
+     "gloss": "bone-between-ear-eye",
+     "grounds": "compound describing the source location of the material",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahāśaṅkhaḥ",
+     "gloss": "great-conch",
+     "grounds": "the conch material or object so named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "authoritative identification",
+     "morph": "m.nom.sg.past-participle √kīrt"
+    }
+   ],
+   "question": "What material is identified as the great conch in this classification?",
+   "premises": [
+    "A specific bone location is described",
+    "The term great conch is applied",
+    "This identification is authoritatively declared"
+   ],
+   "inference": "The bone situated between the ear and eye is declared the great conch.",
+   "uncertainties": [
+    "The anatomical or ritual referent of karṇanetrāntarasthāsthi is unclear"
+   ],
+   "plain_english": "The bone situated between the ear and the eye is declared to be the great conch."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "caturottaraiḥ",
+     "gloss": "with-four-more",
+     "grounds": "an increment of four added to a base count",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aṣṭottaraśataiḥ",
+     "gloss": "with-hundred-and-eight",
+     "grounds": "counts of one hundred and eight",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sarvasiddhiḥ",
+     "gloss": "all-accomplishment",
+     "grounds": "complete ritual or spiritual success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "stated",
+     "grounds": "authoritative teaching",
+     "morph": "f.nom.sg.past-participle √vac"
+    },
+    {
+     "surface": "manīṣibhaḥ",
+     "gloss": "by-wise",
+     "grounds": "authoritative teachers or sages",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What recitation count is said by the wise to yield all accomplishment?",
+   "premises": [
+    "Counts involving four more and hundred-and-eight are specified",
+    "All accomplishment is the stated result",
+    "This teaching is attributed to the wise"
+   ],
+   "inference": "The wise state that recitation with such counts yields all accomplishment.",
+   "uncertainties": [
+    "The exact numerical combination of caturottaraiḥ and aṣṭottaraśataiḥ is ambiguous"
+   ],
+   "plain_english": "The wise have stated that all accomplishment comes with counts of a hundred and eight increased by four."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "celā",
+     "gloss": "cloth",
+     "grounds": "a cloth seat or covering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ajina",
+     "gloss": "antelope-skin",
+     "grounds": "a skin seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuśottaram",
+     "gloss": "kuśa-topped",
+     "grounds": "having kuśa grass as the upper layer",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavadvacanāt",
+     "gloss": "from-lord-word",
+     "grounds": "authoritative scriptural statement",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What seat arrangement is prescribed according to the word of the Lord?",
+   "premises": [
+    "Cloth, antelope skin, and kuśa are mentioned",
+    "Kuśa is specified as the top layer",
+    "This arrangement is attributed to the Lord’s word"
+   ],
+   "inference": "According to the Lord’s word, the seat should be cloth, antelope skin, and kuśa on top.",
+   "uncertainties": [],
+   "plain_english": "And according to the word of the Lord: cloth, antelope skin, with kuśa on top."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "paṭa",
+     "gloss": "cloth",
+     "grounds": "a cloth seat or covering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ajina",
+     "gloss": "antelope-skin",
+     "grounds": "a skin seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuśottaraḥ",
+     "gloss": "kuśa-topped",
+     "grounds": "having kuśa grass as the upper layer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative formulation of the prescribed seat is given?",
+   "premises": [
+    "Cloth, antelope skin, and kuśa are mentioned",
+    "Kuśa is specified as the top layer",
+    "The formulation is presented as a statement"
+   ],
+   "inference": "The prescribed seat is alternatively stated as cloth, antelope skin, with kuśa on top.",
+   "uncertainties": [
+    "The difference between celā and paṭa may be stylistic or material"
+   ],
+   "plain_english": "Thus: cloth, antelope skin, with kuśa on top."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "viśet",
+     "gloss": "should-enter",
+     "grounds": "prescriptive act of taking a seat or place",
+     "morph": "3.sg.active-optative √viś"
+    },
+    {
+     "surface": "yatirvanasthaḥ",
+     "gloss": "ascetic-forest-dweller",
+     "grounds": "compound naming renunciant and forest-dwelling stages",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-student",
+     "grounds": "practitioner in the student stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhikṣukaḥ",
+     "gloss": "mendicant",
+     "grounds": "renunciant who lives on alms",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which categories of practitioners are instructed to take the prescribed seat?",
+   "premises": [
+    "An act of entering or taking a seat is prescribed",
+    "Several practitioner types are listed",
+    "The instruction applies to all listed types"
+   ],
+   "inference": "The ascetic, forest-dweller, celibate student, and mendicant should take the prescribed seat.",
+   "uncertainties": [
+    "The compound yatirvanasthaḥ may be read as two distinct roles or a combined one"
+   ],
+   "plain_english": "The ascetic, the forest-dweller, the celibate student, and the mendicant should enter upon it."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "ṣaṭkarmasu",
+     "gloss": "in-six-rites",
+     "grounds": "the six ritual operations of tantric practice",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pratyekam",
+     "gloss": "for-each",
+     "grounds": "individually for every case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihitāsanāni",
+     "gloss": "prescribed-seats",
+     "grounds": "seats ordained for ritual use",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vihitāni",
+     "gloss": "prescribed",
+     "grounds": "authoritatively ordained",
+     "morph": "n.nom.pl.past-participle √dhā"
+    }
+   ],
+   "question": "How are seats prescribed in relation to the six ritual operations?",
+   "premises": [
+    "The six rites are the ritual context",
+    "Seats are prescribed for them",
+    "The prescription applies to each rite individually"
+   ],
+   "inference": "Specific seats are prescribed for each of the six rites.",
+   "uncertainties": [
+    "The repetition of vihita- forms is emphatic but syntactically compressed"
+   ],
+   "plain_english": "In the six rites, prescribed seats are ordained for each one."
+  }
+ ]
+}

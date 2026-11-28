@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃmudrāṃ",
+     "gloss": "conch-mudra",
+     "grounds": "conch-mudra as accusative object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tathāpātraṃ",
+     "gloss": "also-vessel",
+     "grounds": "vessel as accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bibhrāṇā",
+     "gloss": "bearing",
+     "grounds": "present participle feminine nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paṃcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective feminine nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle feminine nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which goddess-form is reckoned fifth among those bearing conch and vessel?",
+   "premises": [
+    "The fifth form bears conch and vessel.",
+    "It is considered among the listed forms.",
+    "Bearing marks its ritual identity."
+   ],
+   "inference": "The verse identifies the fifth form by conch and vessel attributes.",
+   "uncertainties": [
+    "Quotation boundary and compiler voice remain unclear."
+   ],
+   "plain_english": "The fifth is considered to be the one bearing conch-mudra and vessel."
+  }
+ ]
+}

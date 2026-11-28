@@ -1,0 +1,220 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p04",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v76 ratio=0.821",
+  "ALIGN_NODISP v77 ratio=0.603",
+  "ALIGN_NODISP v78 ratio=0.714",
+  "ALIGN_NODISP v80 ratio=0.667",
+  "ALIGN_NODISP v81 ratio=0.800",
+  "ALIGN_NODISP v82 ratio=0.659",
+  "ALIGN_NODISP v83 ratio=0.625",
+  "ALIGN_NODISP v84 ratio=0.513",
+  "ALIGN_NODISP v85 ratio=0.875",
+  "ALIGN_NODISP v86 ratio=0.566",
+  "ALIGN_NODISP v87 ratio=0.353",
+  "ALIGN_NODISP v88 ratio=0.602",
+  "ALIGN_NODISP v89 ratio=0.800",
+  "ALIGN_NODISP v90 ratio=0.532",
+  "ALIGN_NODISP v91 ratio=0.757",
+  "ALIGN_NODISP v92 ratio=0.694",
+  "ALIGN_NODISP v93 ratio=0.800",
+  "ALIGN_NODISP v94 ratio=0.685",
+  "ALIGN_NODISP v95 ratio=0.829",
+  "ALIGN_NODISP v96 ratio=0.720",
+  "ALIGN_NODISP v97 ratio=0.806",
+  "ALIGN_NODISP v98 ratio=0.694",
+  "ALIGN_NODISP v100 ratio=0.676",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "20f718ac0f9aadfa",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 100
+ },
+ "align": {
+  "min_ratio": 0.353,
+  "sub090": {
+   "76": {
+    "ratio": 0.821,
+    "disposition": null
+   },
+   "77": {
+    "ratio": 0.603,
+    "disposition": null
+   },
+   "78": {
+    "ratio": 0.714,
+    "disposition": null
+   },
+   "80": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "81": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "82": {
+    "ratio": 0.659,
+    "disposition": null
+   },
+   "83": {
+    "ratio": 0.625,
+    "disposition": null
+   },
+   "84": {
+    "ratio": 0.513,
+    "disposition": null
+   },
+   "85": {
+    "ratio": 0.875,
+    "disposition": null
+   },
+   "86": {
+    "ratio": 0.566,
+    "disposition": null
+   },
+   "87": {
+    "ratio": 0.353,
+    "disposition": null
+   },
+   "88": {
+    "ratio": 0.602,
+    "disposition": null
+   },
+   "89": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "90": {
+    "ratio": 0.532,
+    "disposition": null
+   },
+   "91": {
+    "ratio": 0.757,
+    "disposition": null
+   },
+   "92": {
+    "ratio": 0.694,
+    "disposition": null
+   },
+   "93": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "94": {
+    "ratio": 0.685,
+    "disposition": null
+   },
+   "95": {
+    "ratio": 0.829,
+    "disposition": null
+   },
+   "96": {
+    "ratio": 0.72,
+    "disposition": null
+   },
+   "97": {
+    "ratio": 0.806,
+    "disposition": null
+   },
+   "98": {
+    "ratio": 0.694,
+    "disposition": null
+   },
+   "100": {
+    "ratio": 0.676,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 54,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "\"..........................ṇiṣṭhurā tannirodhane \" ityuktā",
+   "\"traikālyakarmaṇi\" ityanuvādaḥ vyākṛtaṃ caitat prāk",
+   "ṅa puṃsi na pare tattve śaktau mantraṃ niyojayet \" iti"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p04-v90]: cite part not byte-exact in source: \"..........................ṇiṣṭhurā tannirodhane \" ityuktā",
+   "l2[sva-p04-v98]: cite part not byte-exact in source: \"traikālyakarmaṇi\" ityanuvādaḥ vyākṛtaṃ caitat prāk",
+   "l2[sva-p04-v100]: cite part not byte-exact in source: ṅa puṃsi na pare tattve śaktau mantraṃ niyojayet \" iti"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 100,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v100",
+  "fix: word-order/gloss vs source for v76",
+  "fix: word-order/gloss vs source for v77",
+  "fix: word-order/gloss vs source for v78",
+  "fix: word-order/gloss vs source for v80",
+  "fix: word-order/gloss vs source for v81",
+  "fix: word-order/gloss vs source for v82",
+  "fix: word-order/gloss vs source for v83",
+  "fix: word-order/gloss vs source for v84",
+  "fix: word-order/gloss vs source for v85",
+  "fix: word-order/gloss vs source for v86",
+  "fix: word-order/gloss vs source for v87",
+  "fix: word-order/gloss vs source for v88",
+  "fix: word-order/gloss vs source for v89",
+  "fix: word-order/gloss vs source for v90",
+  "fix: word-order/gloss vs source for v91",
+  "fix: word-order/gloss vs source for v92",
+  "fix: word-order/gloss vs source for v93",
+  "fix: word-order/gloss vs source for v94",
+  "fix: word-order/gloss vs source for v95",
+  "fix: word-order/gloss vs source for v96",
+  "fix: word-order/gloss vs source for v97",
+  "fix: word-order/gloss vs source for v98"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "be03cfc0dd975c6b27b29ba44d3f5009a5401fc344c0c538e6a071e928af321d",
+  "l0": "56f5fb6941ac84ab46e08fb943b3994d869400b99098ba78a235615808d5bb96",
+  "argmap": "5c25a09f5f9b66b01113963066b2024a623a32cca73dfe3ce7ed98ddc156ee4c",
+  "l2": "47c321982c5dda5fac5ae5531fe5e8c4c9648572a1ef8dcd77f0c21c94e3449b",
+  "c1": "2e8ceaf10f80083eb9cb0dabecec1109d3754a60b2da9eeeed2fc48eba247180"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "20f718ac0f9aadfa",
+  "t1": "sva-p04/data/sva-p04.t1.json",
+  "l0": "sva-p04/data/sva-p04.l0.json",
+  "l2": "sva-p04/data/sva-p04.l2.json",
+  "c1": "sva-p04/data/sva-p04.c1.json"
+ }
+}

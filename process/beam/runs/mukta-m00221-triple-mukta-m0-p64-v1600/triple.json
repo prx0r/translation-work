@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "śastrāṇi",
+     "gloss": "weapons",
+     "grounds": "neuter plural accusative object",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "pratiśastraistā",
+     "gloss": "with-counter-weapons-those",
+     "grounds": "fused sandhi form; internal instrumental plural plus accusative plural pronoun",
+     "morph": "n.instr.pl.n+pron.acc.pl.f"
+    },
+    {
+     "surface": "astrāṇyastrairvināśya",
+     "gloss": "missiles-by-missiles-destroying",
+     "grounds": "fused sandhi form; internal accusative plural, instrumental plural, and gerund",
+     "morph": "n.acc.pl.n+n.instr.pl.n+ger"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "masculine plural accusative pronoun",
+     "morph": "pron.acc.pl.m"
+    }
+   ],
+   "question": "How are the hostile weapons and missiles destroyed in this combat?",
+   "premises": [
+    "Weapons are met by counter-weapons.",
+    "Missiles are destroyed by missiles.",
+    "Those hostile forces are annihilated."
+   ],
+   "inference": "Counter-weapons and missiles destroy the opposing weapons and missiles.",
+   "uncertainties": [
+    "The fused token pratiśastraistā contains unresolved internal sandhi.",
+    "The fused token astrāṇyastrairvināśya contains unresolved internal sandhi."
+   ],
+   "plain_english": "Weapons are countered by counter-weapons, and missiles are destroyed by missiles, destroying them."
+  }
+ ]
+}

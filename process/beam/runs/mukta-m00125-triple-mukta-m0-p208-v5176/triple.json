@@ -1,0 +1,1093 @@
+{
+ "song": "mukta-m0-p208",
+ "items": [
+  {
+   "verse": 5176,
+   "rows": [
+    {
+     "surface": "deveśasya",
+     "gloss": "of-lord-of-gods",
+     "grounds": "genitive of deveśa referring to the deity's image",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śirodeśe",
+     "gloss": "at-head-region",
+     "grounds": "locative compound indicating placement near the head",
+     "morph": "m.loc.sg, compound=śiras+deśa"
+    },
+    {
+     "surface": "śivakuṃbhaṃ",
+     "gloss": "śiva-pot",
+     "grounds": "ritual pot designated for Śiva",
+     "morph": "m.acc.sg, compound=śiva+kuṃbha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīm",
+     "gloss": "growth-vessel",
+     "grounds": "auxiliary ritual vessel placed alongside the main pot",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should the Śiva pot and growth vessel be placed relative to the lord of gods?",
+   "premises": [
+    "The ritual concerns the image of the lord of gods.",
+    "A Śiva pot and a growth vessel are specified.",
+    "Placement is directed at the head region."
+   ],
+   "inference": "The Śiva pot and the growth vessel should be placed at the head region of the lord of gods.",
+   "uncertainties": [],
+   "plain_english": "One should place the Śiva pot and the growth vessel at the head region of the lord of gods."
+  },
+  {
+   "verse": 5177,
+   "rows": [
+    {
+     "surface": "abhitoṣṭaghaṭānyasvā",
+     "gloss": "around-eight-pots-placing",
+     "grounds": "fused instruction to place eight pots around; internal sandhi in compound",
+     "morph": "gerund/compound action, compound=abhitas+aṣṭa+ghaṭa+nyasya"
+    },
+    {
+     "surface": "vidyeśāṃstatra",
+     "gloss": "lords-of-knowledge-there",
+     "grounds": "vidyeśas are lords of knowledge; tatra locates the worship",
+     "morph": "m.acc.pl + (indecl.), compound=vidyeśān+tatra"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act, root=pūj"
+    }
+   ],
+   "question": "How should the lords of knowledge be honored in relation to the surrounding pots?",
+   "premises": [
+    "Eight pots are to be placed around.",
+    "The lords of knowledge are the recipients of worship.",
+    "The worship is to be performed there."
+   ],
+   "inference": "After placing eight pots around, one should worship the lords of knowledge there.",
+   "uncertainties": [
+    "The exact parsing of abhitoṣṭaghaṭānyasvā is compressed in the fused form."
+   ],
+   "plain_english": "Having placed eight pots around, one should worship the lords of knowledge there."
+  },
+  {
+   "verse": 5178,
+   "rows": [
+    {
+     "surface": "tatvamūrtyādi",
+     "gloss": "principle-form-and-so-on",
+     "grounds": "refers to principles, forms, and related elements for ritual placement",
+     "morph": "n.nom/acc.sg, compound=tattva+mūrti+ādi"
+    },
+    {
+     "surface": "vinyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual arrangement or installation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund), root=kṛ"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "oblation into fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act, root=ācar with sam"
+    }
+   ],
+   "question": "What ritual sequence must follow the placement of principles, forms, and related elements?",
+   "premises": [
+    "A placement of principles, forms, and related elements is performed.",
+    "A fire offering is prescribed.",
+    "The actions are sequential."
+   ],
+   "inference": "After performing the placement of principles, forms, and so on, one should perform the fire offering.",
+   "uncertainties": [],
+   "plain_english": "Having made the placement of the principles, forms, and so forth, one should perform the fire offering."
+  },
+  {
+   "verse": 5179,
+   "rows": [
+    {
+     "surface": "palāśoduṃbarāśvattha",
+     "gloss": "palāśa-udumbara-aśvattha",
+     "grounds": "names of sacred trees used in ritual",
+     "morph": "compound=palāśa+udumbara+aśvattha"
+    },
+    {
+     "surface": "vaṭāḥ",
+     "gloss": "vaṭa-trees",
+     "grounds": "banyan trees completing the list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāgādi",
+     "gloss": "east-and-so-on",
+     "grounds": "indicates directions beginning with the east",
+     "morph": "compound=prāc+ādi"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural specifying directional placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred trees are assigned to the directions beginning with the east?",
+   "premises": [
+    "Specific trees are named: palāśa, udumbara, aśvattha, and vaṭa.",
+    "Directions beginning with the east are indicated.",
+    "The trees are to be associated with those directions."
+   ],
+   "inference": "Palāśa, udumbara, aśvattha, and vaṭa trees are assigned to the directions beginning with the east.",
+   "uncertainties": [
+    "The exact one-to-one mapping of each tree to each direction is not fully explicit in this verse alone."
+   ],
+   "plain_english": "Palāśa, udumbara, aśvattha, and vaṭa trees are placed in the directions beginning with the east."
+  },
+  {
+   "verse": 5180,
+   "rows": [
+    {
+     "surface": "pradhānasya",
+     "gloss": "of-principal",
+     "grounds": "refers to the principal or main element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "palāśasyāt",
+     "gloss": "of-palāśa-may-be",
+     "grounds": "fused form indicating palāśa as principal; internal sandhi",
+     "morph": "m.gen.sg + (indecl.), compound/sandhi=palāśasya+āt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring back to palāśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-left",
+     "grounds": "specifies placement to the left",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the principal palāśa be positioned in all contexts of this ritual?",
+   "premises": [
+    "Palāśa is identified as the principal.",
+    "A general placement rule is given.",
+    "The left side is specified."
+   ],
+   "inference": "The principal palāśa should be placed on the left in all cases.",
+   "uncertainties": [
+    "The exact force of āt in palāśasyāt is slightly ambiguous in isolation."
+   ],
+   "plain_english": "The principal palāśa should be placed on the left side everywhere."
+  },
+  {
+   "verse": 5181,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "ordinal indicating the next day",
+     "morph": "compound member=dvitīya"
+    },
+    {
+     "surface": "divase",
+     "gloss": "on-day",
+     "grounds": "locative specifying time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devakuṃbhāgnitarpaṇam",
+     "gloss": "god-pot-fire-satisfaction",
+     "grounds": "ritual satisfaction offering to the deity pot and fire",
+     "morph": "n.nom/acc.sg, compound=deva+kuṃbha+agni+tarpaṇa"
+    }
+   ],
+   "question": "What ritual action is prescribed on the second day after the initial procedures?",
+   "premises": [
+    "The sequence continues to the next stage.",
+    "The second day is specified.",
+    "Satisfaction of the deity pot and fire is named."
+   ],
+   "inference": "On the second day, one should perform the satisfaction offering to the deity pot and the fire.",
+   "uncertainties": [],
+   "plain_english": "Then, on the second day, one should perform the satisfaction offering to the deity pot and the fire."
+  },
+  {
+   "verse": 5182,
+   "rows": [
+    {
+     "surface": "sumuhūrte",
+     "gloss": "at-auspicious-moment",
+     "grounds": "locative indicating a favorable time",
+     "morph": "m.loc.sg, compound=su+muhūrta"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "having-arrived",
+     "grounds": "locative absolute indicating the time has come",
+     "morph": "m.loc.sg (past participle), root=prāp"
+    },
+    {
+     "surface": "manunyāsaṃ",
+     "gloss": "mantra-placement",
+     "grounds": "ritual installation of mantras",
+     "morph": "m.acc.sg, compound=manu+nyāsa"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt.act, root=ācar with sam"
+    }
+   ],
+   "question": "When should the placement of mantras be performed during the ritual sequence?",
+   "premises": [
+    "An auspicious moment is required.",
+    "That moment must have arrived.",
+    "Mantra placement is the prescribed action."
+   ],
+   "inference": "When an auspicious moment has arrived, one should perform the placement of mantras.",
+   "uncertainties": [],
+   "plain_english": "Then, when an auspicious moment has arrived, one should perform the placement of the mantras."
+  },
+  {
+   "verse": 5183,
+   "rows": [
+    {
+     "surface": "vardhanyābījam",
+     "gloss": "growth-vessel-seed",
+     "grounds": "seed or bīja associated with the growth vessel",
+     "morph": "n.acc.sg, compound=vardhanī+bīja"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund), root=dā with ā"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the seed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "ritual pedestal or base",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.opt.act, root=nyas with vi"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating ritual preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must place the seed of the growth vessel on the ritual seat and how?",
+   "premises": [
+    "The seed of the growth vessel is to be taken.",
+    "A ritual seat is the location for placement.",
+    "The teacher is the agent."
+   ],
+   "inference": "The teacher should take the seed of the growth vessel and place it on the seat.",
+   "uncertainties": [],
+   "plain_english": "The teacher should take the seed of the growth vessel and place it on the pedestal."
+  },
+  {
+   "verse": 5184,
+   "rows": [
+    {
+     "surface": "vibhinnapīṭhā",
+     "gloss": "separate-seat",
+     "grounds": "condition where the seat is distinct",
+     "morph": "f.nom.sg, compound=vibhinna+pīṭha"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to the separate seat or vessel",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates distinct arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapam",
+     "gloss": "pavilion",
+     "grounds": "ritual enclosure or structure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-arrange",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act, root=ācar"
+    }
+   ],
+   "question": "What arrangement is required if the ritual seat is separate from the main one?",
+   "premises": [
+    "A condition of a separate seat is considered.",
+    "A separate pavilion is mentioned.",
+    "The action is conditional."
+   ],
+   "inference": "If the seat is separate, one should arrange a separate pavilion for it.",
+   "uncertainties": [
+    "The antecedent of tasyāḥ could refer to the seat or the vessel depending on context."
+   ],
+   "plain_english": "If the seat is separate, one should arrange a separate pavilion for it."
+  },
+  {
+   "verse": 5185,
+   "rows": [
+    {
+     "surface": "utsavaṃ",
+     "gloss": "festival",
+     "grounds": "ritual celebration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūrinaivedyaṃ",
+     "gloss": "abundant-food-offering",
+     "grounds": "large quantity of offerings",
+     "morph": "m.acc.sg, compound=bhūri+naivedya"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-cause-to-do",
+     "grounds": "causative prescriptive instruction",
+     "morph": "3.sg.opt.caus.act, root=kṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating ritual preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What discretion does the teacher have regarding a festival with abundant offerings?",
+   "premises": [
+    "A festival with abundant offerings is possible.",
+    "The teacher is the decision-maker.",
+    "An explicit alternative is given."
+   ],
+   "inference": "The teacher may or may not arrange a festival with abundant offerings.",
+   "uncertainties": [],
+   "plain_english": "The teacher may or may not arrange a festival with abundant food offerings."
+  },
+  {
+   "verse": 5186,
+   "rows": [
+    {
+     "surface": "pratiṣṭha",
+     "gloss": "consecration",
+     "grounds": "ritual installation of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing the preceding instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "declared",
+     "grounds": "stated or explained in the text",
+     "morph": "f.nom.sg (past participle), root=khyā with sam+ā"
+    },
+    {
+     "surface": "purāreriṣṭadāyinī",
+     "gloss": "enemy-of-tripura-desired-giving",
+     "grounds": "consecration that grants what is desired by the foe of Tripura (Śiva)",
+     "morph": "f.nom.sg, compound=purāri+iṣṭa+dāyinī"
+    }
+   ],
+   "question": "What is the nature and benefit of the consecration described in this manner?",
+   "premises": [
+    "The consecration has been described in the preceding manner.",
+    "It is declared in the text.",
+    "It grants what is desired in relation to Śiva, the foe of Tripura."
+   ],
+   "inference": "The consecration thus declared grants what is desired by the foe of Tripura.",
+   "uncertainties": [],
+   "plain_english": "Thus the consecration has been declared, and it grants what is desired by the enemy of Tripura."
+  },
+  {
+   "verse": 5187,
+   "rows": [
+    {
+     "surface": "soneka",
+     "gloss": "with-many",
+     "grounds": "fused form indicating many or various; internal sandhi",
+     "morph": "compound/sandhi=saḥ+aneka"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "experiences or pleasures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhuktveha",
+     "gloss": "having-enjoyed-here",
+     "grounds": "absolutive with locative sense of this world",
+     "morph": "(gerund) + (indecl.), compound=bhuktvā+iha"
+    },
+    {
+     "surface": "yāyāt",
+     "gloss": "should-go",
+     "grounds": "optative expressing result or attainment",
+     "morph": "3.sg.opt.act, root=yā"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the end of life or the process",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "the supreme deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "abode or condition",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ultimate attainment follows after enjoying many pleasures in this world through this consecration?",
+   "premises": [
+    "Many enjoyments are experienced here.",
+    "A final outcome is stated.",
+    "The Śiva state is the goal."
+   ],
+   "inference": "After enjoying many pleasures here, one should attain the state of Śiva at the end.",
+   "uncertainties": [
+    "The exact form soneka is a compressed sandhi form."
+   ],
+   "plain_english": "Having enjoyed many pleasures here, one should attain the state of Śiva at the end."
+  },
+  {
+   "verse": 5188,
+   "rows": [
+    {
+     "surface": "garbhamānavaśāt",
+     "gloss": "by-womb-measure",
+     "grounds": "according to the measure of the inner sanctum",
+     "morph": "m.abl.sg, compound=garbha+māna+vaśa"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "liṅga",
+     "grounds": "the aniconic emblem of Śiva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "according to previously stated rules",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "correctly and completely",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-fashion",
+     "grounds": "prescriptive instruction to prepare or construct",
+     "morph": "3.sg.opt.act, root=kḷp with pra"
+    }
+   ],
+   "question": "According to what standard should the liṅga be properly fashioned in this context?",
+   "premises": [
+    "The liṅga must be fashioned.",
+    "The measure of the womb or sanctum is the standard.",
+    "Previous rules apply."
+   ],
+   "inference": "One should properly fashion the liṅga according to the measure of the sanctum, as before.",
+   "uncertainties": [],
+   "plain_english": "One should properly fashion the liṅga according to the measure of the sanctum, as before."
+  },
+  {
+   "verse": 5189,
+   "rows": [
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same size as the reference measure",
+     "morph": "n.nom/acc.sg, compound=tad+sama"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half the reference measure",
+     "morph": "n.nom/acc.sg, compound=tad+ardha"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "absolutive indicating exclusion of a portion",
+     "morph": "(gerund), root=tyaj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "upper portion or interval",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadantare",
+     "gloss": "in-that-interval",
+     "grounds": "within that intermediate space",
+     "morph": "n.loc.sg, compound=tad+antara"
+    }
+   ],
+   "question": "What alternative proportions are permitted when determining the liṅga's measure in the upper interval?",
+   "premises": [
+    "The measure may be equal to the reference or half of it.",
+    "A portion above is to be left out.",
+    "The adjustment occurs within that interval."
+   ],
+   "inference": "The liṅga may be made equal to that measure or half of it, leaving out the upper interval accordingly.",
+   "uncertainties": [
+    "The precise technical application of tyaktvā ca ūrdhve tadantare depends on measurement conventions."
+   ],
+   "plain_english": "It may be equal to that or half of that, leaving out the upper interval within that space."
+  },
+  {
+   "verse": 5190,
+   "rows": [
+    {
+     "surface": "liṃgādho",
+     "gloss": "below-liṅga",
+     "grounds": "fused form indicating the portion below the liṅga; internal sandhi",
+     "morph": "compound/sandhi=liṅga+adhaḥ"
+    },
+    {
+     "surface": "śarvajānvanta",
+     "gloss": "śarva-born-ending",
+     "grounds": "refers to a portion extending to a point associated with Śarva; technical term",
+     "morph": "compound=śarva+ja+ānu+anta"
+    },
+    {
+     "surface": "bhāgam",
+     "gloss": "portion",
+     "grounds": "a division or part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nendriya",
+     "gloss": "not-sense",
+     "grounds": "fused negative compound indicating not within sense perception; internal sandhi",
+     "morph": "compound/sandhi=na+indriya"
+    },
+    {
+     "surface": "gocaram",
+     "gloss": "within-range",
+     "grounds": "within the domain or reach",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What restriction applies to the portion below the liṅga extending to the specified limit?",
+   "premises": [
+    "A portion below the liṅga is identified.",
+    "That portion extends to a specified limit.",
+    "It must not be within the range of the senses."
+   ],
+   "inference": "The portion below the liṅga up to the specified limit should not be within the range of the senses.",
+   "uncertainties": [
+    "The technical meaning of śarvajānvanta is context-dependent."
+   ],
+   "plain_english": "The portion below the liṅga, extending to the specified limit, should not be within the range of the senses."
+  },
+  {
+   "verse": 5191,
+   "rows": [
+    {
+     "surface": "biṃbasyānana",
+     "gloss": "of-image-face",
+     "grounds": "fused form referring to the face of the image; internal sandhi",
+     "morph": "compound/sandhi=biṃbasya+ānana"
+    },
+    {
+     "surface": "mānena",
+     "gloss": "by-measure",
+     "grounds": "instrumental indicating standard of measurement",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-make",
+     "grounds": "causative prescriptive instruction",
+     "morph": "3.sg.opt.caus.act, root=kṛ"
+    },
+    {
+     "surface": "haṃsam",
+     "gloss": "haṃsa",
+     "grounds": "the haṃsa figure or emblem",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādarāt",
+     "gloss": "with-reverence",
+     "grounds": "ablative indicating motive or manner",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By what measure and with what attitude should the haṃsa figure be made?",
+   "premises": [
+    "The haṃsa figure is to be made.",
+    "The measure of the image's face is the standard.",
+    "Reverence is required."
+   ],
+   "inference": "One should have the haṃsa made according to the measure of the image's face, with reverence.",
+   "uncertainties": [],
+   "plain_english": "One should have the haṃsa made according to the measure of the image's face, with reverence."
+  },
+  {
+   "verse": 5192,
+   "rows": [
+    {
+     "surface": "talliṃgarasabhāgaika",
+     "gloss": "that-liṅga-rasa-part-one",
+     "grounds": "fused compound indicating one part related to the liṅga's measure or essence",
+     "morph": "compound=tat+liṅga+rasa+bhāga+eka"
+    },
+    {
+     "surface": "dvitrivedaśarair",
+     "gloss": "by-two-three-veda-arrows",
+     "grounds": "numerical symbolic terms indicating divisions or measures",
+     "morph": "m.ins.pl, compound=dvi+tri+veda+śara"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-divide",
+     "grounds": "prescriptive instruction to apportion or extend",
+     "morph": "3.sg.opt.act, root=nī"
+    }
+   ],
+   "question": "How should the relevant portion of the liṅga be divided using the specified numerical measures?",
+   "premises": [
+    "A specific portion related to the liṅga is identified.",
+    "Numerical measures of two, three, four, and five are indicated.",
+    "A division or apportionment is prescribed."
+   ],
+   "inference": "One should divide that portion according to the measures indicated by two, three, four, and five.",
+   "uncertainties": [
+    "The symbolic numerical terms (veda, śara) require traditional interpretive conventions."
+   ],
+   "plain_english": "One should divide that portion of the liṅga according to the measures of two, three, four, and five."
+  },
+  {
+   "verse": 5193,
+   "rows": [
+    {
+     "surface": "tiryaggata",
+     "gloss": "going-sideways",
+     "grounds": "describes oblique or horizontal orientation",
+     "morph": "compound=tiryak+gata"
+    },
+    {
+     "surface": "supādau",
+     "gloss": "well-formed-feet",
+     "grounds": "feet that are properly shaped",
+     "morph": "m.nom.du, compound=su+pāda"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "demonstrative referring to the two feet",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "sarvāvayavasundarau",
+     "gloss": "all-limbs-beautiful",
+     "grounds": "beautiful in all parts",
+     "morph": "m.nom.du, compound=sarva+avayava+sundara"
+    }
+   ],
+   "question": "What qualities must characterize the two feet when they are set in an oblique position?",
+   "premises": [
+    "The feet are positioned obliquely.",
+    "They must be well formed.",
+    "They must be beautiful in all limbs."
+   ],
+   "inference": "The two obliquely placed feet should be well formed and beautiful in all their parts.",
+   "uncertainties": [],
+   "plain_english": "Those two feet, placed obliquely, should be well formed and beautiful in all their parts."
+  },
+  {
+   "verse": 5194,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇūvihīno",
+     "gloss": "brahmā-viṣṇu-devoid",
+     "grounds": "fused form indicating absence of Brahmā and Viṣṇu; internal sandhi",
+     "morph": "m.nom.sg, compound/sandhi=brahma+viṣṇū+vihīna"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "haṃsa",
+     "grounds": "the haṃsa figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūkara",
+     "gloss": "boar",
+     "grounds": "the boar figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyutaḥ",
+     "gloss": "joined-with",
+     "grounds": "accompanied or combined with",
+     "morph": "m.nom.sg (past participle), root=yu with sam"
+    }
+   ],
+   "question": "What alternative configurations are permitted for the haṃsa figure in relation to Brahmā, Viṣṇu, and the boar?",
+   "premises": [
+    "The haṃsa may be without Brahmā and Viṣṇu.",
+    "An alternative configuration is given.",
+    "The haṃsa may be joined with the boar."
+   ],
+   "inference": "The haṃsa may be made either without Brahmā and Viṣṇu or joined with the boar.",
+   "uncertainties": [],
+   "plain_english": "The haṃsa may be without Brahmā and Viṣṇu, or it may be joined with the boar."
+  },
+  {
+   "verse": 5195,
+   "rows": [
+    {
+     "surface": "kālaśca",
+     "gloss": "time-and",
+     "grounds": "fused form indicating the time factor; internal sandhi",
+     "morph": "m.nom.sg + (indecl.), compound/sandhi=kālaḥ+ca"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "according to previous instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyaḥ",
+     "gloss": "should-be-taken",
+     "grounds": "gerundive indicating what must be adopted",
+     "morph": "m.nom.sg (gerundive), root=grah"
+    },
+    {
+     "surface": "tadvadevāṃ",
+     "gloss": "likewise-also",
+     "grounds": "fused form indicating in the same manner; internal sandhi",
+     "morph": "(indecl.), compound/sandhi=tadvat+eva+ām"
+    },
+    {
+     "surface": "kurārpaṇam",
+     "gloss": "sprout-offering",
+     "grounds": "offering of sprouts in the ritual",
+     "morph": "n.nom/acc.sg, compound=kura+arpaṇa"
+    }
+   ],
+   "question": "How should the timing and the offering of sprouts be determined in this ritual stage?",
+   "premises": [
+    "The time is to be taken as before.",
+    "The sprout offering follows the same rule.",
+    "Previous instructions govern both."
+   ],
+   "inference": "The time should be taken as before, and the sprout offering should likewise be performed in the same way.",
+   "uncertainties": [
+    "The form tadvadevāṃ is compressed and its exact segmentation is interpretive."
+   ],
+   "plain_english": "The time should be taken as before, and the offering of sprouts should be done in the same way."
+  },
+  {
+   "verse": 5196,
+   "rows": [
+    {
+     "surface": "kuṇdāni",
+     "gloss": "fire-pits",
+     "grounds": "ritual fire receptacles",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indicates surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrāṇi",
+     "gloss": "auspicious",
+     "grounds": "describes the fire pits as auspicious; form as given",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "nava pañcaika",
+     "gloss": "nine-five-one",
+     "grounds": "alternative numbers of fire pits",
+     "morph": "compound=nava+pañca+eka"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "instrumental indicating count",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How many auspicious fire pits may be arranged around the ritual area?",
+   "premises": [
+    "Fire pits are to be arranged around.",
+    "They are described as auspicious.",
+    "Alternative counts of nine, five, or one are given."
+   ],
+   "inference": "Auspicious fire pits may be arranged around in numbers of nine, five, or one.",
+   "uncertainties": [
+    "The token śrāṇi is unusual in form and may reflect a textual or orthographic variant."
+   ],
+   "plain_english": "Auspicious fire pits should be arranged around, in numbers of nine, five, or one."
+  },
+  {
+   "verse": 5197,
+   "rows": [
+    {
+     "surface": "nayanonmīlanaṃ",
+     "gloss": "eye-opening",
+     "grounds": "ritual act of opening the eyes of the image",
+     "morph": "n.nom/acc.sg, compound=nayana+unmīlana"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "beraśuddhim",
+     "gloss": "image-purification",
+     "grounds": "purification of the image",
+     "morph": "f.acc.sg, compound=bera+śuddhi"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "thereafter",
+     "grounds": "immediately after",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions follow in sequence after the preceding stage involving the image?",
+   "premises": [
+    "Eye-opening is prescribed.",
+    "Image purification is prescribed.",
+    "The actions occur in sequence."
+   ],
+   "inference": "Afterwards the eye-opening should be performed, and thereafter the purification of the image.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should perform the eye-opening, and thereafter the purification of the image."
+  },
+  {
+   "verse": 5198,
+   "rows": [
+    {
+     "surface": "bhūṣaṇaṃ",
+     "gloss": "ornamentation",
+     "grounds": "decoration or adorning",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "maṇḍapasyaiva",
+     "gloss": "of-pavilion-only",
+     "grounds": "fused form emphasizing the pavilion; internal sandhi",
+     "morph": "m.gen.sg + (indecl.), compound/sandhi=maṇḍapasya+eva"
+    },
+    {
+     "surface": "vāstuhomam",
+     "gloss": "vāstu-offering",
+     "grounds": "fire offering for the site or dwelling",
+     "morph": "m.acc.sg, compound=vāstu+homa"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "from-this",
+     "grounds": "sequence marker indicating next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "thereafter",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual steps are prescribed for the pavilion after the image purification?",
+   "premises": [
+    "The pavilion is to be ornamented.",
+    "A vāstu fire offering is prescribed.",
+    "These steps follow in sequence."
+   ],
+   "inference": "The pavilion should be ornamented, and after that the vāstu fire offering should be performed.",
+   "uncertainties": [],
+   "plain_english": "One should ornament the pavilion, and after that perform the vāstu fire offering."
+  },
+  {
+   "verse": 5199,
+   "rows": [
+    {
+     "surface": "vedyūrdhve",
+     "gloss": "on-altar-above",
+     "grounds": "fused locative indicating the upper part of the altar; internal sandhi",
+     "morph": "f.loc.sg, compound/sandhi=vedi+ūrdhve"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "prepared-ground",
+     "grounds": "ritual platform or leveled area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund), root=kṛ"
+    },
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "ritual resting place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayettataḥ",
+     "gloss": "should-arrange-then",
+     "grounds": "fused form prescribing arrangement thereafter; internal sandhi",
+     "morph": "3.sg.opt.act + (indecl.), compound/sandhi=kalpayet+tataḥ"
+    }
+   ],
+   "question": "What must be prepared on top of the altar before arranging the ritual bed?",
+   "premises": [
+    "A prepared ground is to be made on top of the altar.",
+    "A bed is to be arranged.",
+    "The actions are sequential."
+   ],
+   "inference": "Having made a prepared ground on top of the altar, one should then arrange the bed.",
+   "uncertainties": [],
+   "plain_english": "Having prepared a ritual platform on top of the altar, one should then arrange the bed."
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "song": "sva-p18",
+ "items": [
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "anāśritākhyaḥ",
+     "gloss": "not-supported-named",
+     "grounds": "not supported named",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is this figure named here?",
+   "premises": [
+    "The figure is named not-supported."
+   ],
+   "inference": "The verse gives the name not-supported.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He is called not-supported."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akārayukto",
+     "gloss": "a-letter-joined",
+     "grounds": "joined with a",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hakāraḥ",
+     "gloss": "h-letter",
+     "grounds": "h letter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kevalaḥ",
+     "gloss": "alone",
+     "grounds": "alone",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anuccāryatvāt",
+     "gloss": "not-utterable",
+     "grounds": "because not utterable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akālakalita",
+     "gloss": "timeless",
+     "grounds": "timeless",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the h-letter alone timeless?",
+   "premises": [
+    "The h-letter is joined with a-letter.",
+    "It is not utterable."
+   ],
+   "inference": "Therefore it is indeed timeless.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thus the h-letter joined with the a-letter alone, because it is not utterable, is indeed timeless."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "trimātratvaṃ",
+     "gloss": "three-mātrā-ness",
+     "grounds": "three mātrās",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gītikākṣarasvaramadhye",
+     "gloss": "song-letter-vowel-middle",
+     "grounds": "in song letter vowel middle",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "akṣaraśūnyapadoccāravat",
+     "gloss": "letter-empty-word-utterance-like",
+     "grounds": "like letter-empty word utterance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is three-mātrā-ness described here?",
+   "premises": [
+    "It occurs in song-letter vowel middle.",
+    "It is like letter-empty word utterance."
+   ],
+   "inference": "Three-mātrā-ness is compared to that utterance.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Three-mātrā-ness is like uttering a letter-empty word in the middle of a song-letter vowel."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "bheditagranthibhiḥ",
+     "gloss": "split-knots",
+     "grounds": "with split knots",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "by-yogis",
+     "grounds": "by yogis",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who performs this with split knots?",
+   "premises": [
+    "Yogis have split knots."
+   ],
+   "inference": "The action is done by those yogis.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By yogis with split knots."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "lalāṭāgratadagrabhāgātmani",
+     "gloss": "forehead-tip-that-tip-part",
+     "grounds": "in forehead tip that tip part",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "antadvaye",
+     "gloss": "in-two",
+     "grounds": "in two ends",
+     "morph": "loc.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "two",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "uccarata",
+     "gloss": "utter",
+     "grounds": "utter",
+     "morph": "3.du.act-imp"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "this is meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the two uttered?",
+   "premises": [
+    "They are in forehead tip and that tip part.",
+    "They are in two ends."
+   ],
+   "inference": "Two are uttered there; this is the meaning.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Two are uttered from the forehead tip and that tip part in the two ends; this is the meaning."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "samana",
+     "gloss": "samanā",
+     "grounds": "samanā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "steadiness",
+     "grounds": "steadiness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is called samana here?",
+   "premises": [
+    "Samana is thus steadiness."
+   ],
+   "inference": "The verse identifies samana with steadiness.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thus steadiness is samana."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "mātrārdhamātrādikālasparśarahita",
+     "gloss": "mātrā-half-mātrā-time-touch-free",
+     "grounds": "free from touch of mātrā half-mātrā time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "this is meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quality is described as free?",
+   "premises": [
+    "It is free from touch of mātrā half-mātrā time."
+   ],
+   "inference": "This is the meaning.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Free from touch of mātrā, half-mātrā, and time; this is the meaning."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "varārohe",
+     "gloss": "O-excellent-one",
+     "grounds": "address excellent one",
+     "morph": "voc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "as before",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the address continue here?",
+   "premises": [
+    "It addresses the excellent one.",
+    "It says as before."
+   ],
+   "inference": "The verse continues as before.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O excellent one, as before."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "jijñāsayā",
+     "gloss": "by-inquiry",
+     "grounds": "by inquiry",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "adhiṣṭhitaḥ",
+     "gloss": "presided",
+     "grounds": "presided",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "first",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayīkṛta",
+     "gloss": "made-object",
+     "grounds": "made object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "this is meaning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens by inquiry here?",
+   "premises": [
+    "By inquiry it is presided.",
+    "It is first made object."
+   ],
+   "inference": "This is the meaning.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By inquiry presided, first made object; this is the meaning."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīryasāraḥ",
+     "gloss": "semen-essence",
+     "grounds": "semen essence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is identified with mantra here?",
+   "premises": [
+    "Principle is semen essence.",
+    "Principle is mantra."
+   ],
+   "inference": "The verse identifies principle, semen essence, and mantra.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Principle, semen essence, mantra."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "kumbhakāvasara",
+     "gloss": "in-kumbhaka-time",
+     "grounds": "in kumbhaka time",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does this occur here?",
+   "premises": [
+    "It occurs in kumbhaka time."
+   ],
+   "inference": "Indeed it occurs then.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Indeed in kumbhaka time."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "madhyanāḍirūpaṃ",
+     "gloss": "middle-channel-form",
+     "grounds": "middle channel form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-contemplate",
+     "grounds": "should contemplate",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpratyeva",
+     "gloss": "just-now",
+     "grounds": "just now",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāhayet",
+     "gloss": "should-make-flow",
+     "grounds": "should make flow",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one contemplate here?",
+   "premises": [
+    "One should contemplate middle-channel form.",
+    "One should not just now make flow."
+   ],
+   "inference": "Contemplation is prescribed, not immediate flow.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should contemplate middle-channel form, but not just now make it flow."
+  }
+ ]
+}

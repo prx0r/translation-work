@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "atisārādibhiḥ",
+     "gloss": "diarrhea-etc",
+     "grounds": "instrumental plural of the atisāra-ādi compound; by diarrhea and similar disorders",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "doṣaiḥ",
+     "gloss": "faults",
+     "grounds": "instrumental plural of doṣa",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "audaraiḥ",
+     "gloss": "abdominal",
+     "grounds": "instrumental plural adjective audara",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "kleśam",
+     "gloss": "suffering",
+     "grounds": "accusative singular of kleśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "would-bring",
+     "grounds": "optative third singular of ā-vah",
+     "morph": "3.sg.act.opt.ā-vah"
+    }
+   ],
+   "question": "What suffering arises from diarrhea and similar abdominal faults?",
+   "premises": [
+    "Diarrhea and similar faults are abdominal.",
+    "Abdominal faults bring suffering.",
+    "The verse states this causation."
+   ],
+   "inference": "Abdominal disorders such as diarrhea cause suffering.",
+   "uncertainties": [
+    "Exact optative force of āvahet remains context-dependent."
+   ],
+   "plain_english": "Diarrhea and similar abdominal faults would bring suffering."
+  }
+ ]
+}

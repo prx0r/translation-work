@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating equivalence with the previously stated procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "locative expressing the initial stage of the ritual action",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "one-should-draw",
+     "grounds": "optative prescribing the ritual act of drawing",
+     "morph": "3.sg.act.opt~vi-√likh"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "direct object denoting the ritual diagram to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatāyāśca+vigraham",
+     "gloss": "and-form-of-deity",
+     "grounds": "fused token: devatāyāḥ (of-deity) + ca (and) + vigraham (form); coordinated object of drawing",
+     "morph": "compound: f.gen.sg + (indecl.) + m.acc.sg"
+    }
+   ],
+   "question": "What initial drawing is required when a pre-existing ritual diagram is unavailable?",
+   "premises": [
+    "A pre-existing ritual diagram may be absent.",
+    "An initial ritual act can supply the required support.",
+    "The prescribed drawing includes both the diagram and the deity's form."
+   ],
+   "inference": "Therefore one should first draw the ritual diagram together with the deity's form.",
+   "uncertainties": [],
+   "plain_english": "Likewise, at the outset one should draw the yantra and the form of the deity."
+  }
+ ]
+}

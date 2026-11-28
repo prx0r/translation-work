@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p434",
+ "items": [
+  {
+   "verse": 10850,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "seed-syllable-oṃ",
+     "grounds": "tāraḥ with sandhi before following nasal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "namas with sandhi before voiced consonant",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavate",
+     "gloss": "to-the-lord",
+     "grounds": "dative form of bhagavat",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ḍa+antaḥ",
+     "gloss": "ending-in-ḍa",
+     "grounds": "compound: ḍa + anta, describing the mantra form",
+     "morph": "compound (ḍa+anta, m.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative.act (√as)"
+    },
+    {
+     "surface": "raghunandanaḥ",
+     "gloss": "delight-of-raghu-line",
+     "grounds": "epithet of Rāma as mantra name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What specific mantra form is prescribed for the wealth-seeking recitation of Rāma?",
+   "premises": [
+    "The seed-syllable oṃ begins the prescribed mantra.",
+    "The words of obeisance to the lord follow the opening syllable.",
+    "The name Raghunandana is specified as ending in the syllable ḍa."
+   ],
+   "inference": "The prescribed mantra consists of oṃ, obeisance to the lord, and the name Raghunandana in a form ending in ḍa.",
+   "uncertainties": [
+    "The exact grammatical form of the ḍa-ending name within the mantra is not fully specified."
+   ],
+   "plain_english": "The mantra should be: Oṃ, obeisance to the Lord, followed by Raghunandana in a form ending with the syllable ḍa."
+  }
+ ]
+}

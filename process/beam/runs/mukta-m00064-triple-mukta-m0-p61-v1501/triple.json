@@ -1,0 +1,1154 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1501,
+   "rows": [
+    {
+     "surface": "padmapāṇiḥ",
+     "gloss": "lotus-handed",
+     "grounds": "epithet of a deity or sage holding a lotus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuśahaste",
+     "gloss": "kuśa-in-hand",
+     "grounds": "compound locating the figure at a place associated with kuśa grass in hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānaśaile",
+     "gloss": "on-māna-mountain",
+     "grounds": "sacred site name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "munīśvaraḥ",
+     "gloss": "sage-lord",
+     "grounds": "title of the presiding figure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figure presides at Mānaśaila as the lotus-handed sage-lord?",
+   "premises": [
+    "Padmapāṇi is lotus-handed.",
+    "Kuśahaste indicates kuśa in hand.",
+    "Mānaśaile names the sacred mountain.",
+    "Munīśvaraḥ is the presiding sage-lord."
+   ],
+   "inference": "At Mānaśaila the presiding figure is the lotus-handed sage-lord Padmapāṇi with kuśa in hand.",
+   "uncertainties": [],
+   "plain_english": "At Mānaśaila is the lotus-handed sage-lord Padmapāṇi, with kuśa grass in his hand."
+  },
+  {
+   "verse": 1502,
+   "rows": [
+    {
+     "surface": "kanyāśrame",
+     "gloss": "in-kanyā-hermitage",
+     "grounds": "sacred site name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudro'haṃ",
+     "gloss": "rudra-I",
+     "grounds": "fused form identifying the speaker as Rudra",
+     "morph": "m.nom.sg+1.nom.sg"
+    },
+    {
+     "surface": "bhavedrudro",
+     "gloss": "should-be-rudra",
+     "grounds": "fused form expressing the presence of Rudra at the site",
+     "morph": "3.sg.opt-√bhū+m.nom.sg"
+    },
+    {
+     "surface": "maināke",
+     "gloss": "on-maināka",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvanādakaḥ",
+     "gloss": "viśvanādaka",
+     "grounds": "name of the presiding form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine forms are present at Kanyāśrama and at Maināka?",
+   "premises": [
+    "Kanyāśrame locates the first site.",
+    "Rudro'haṃ identifies the speaker as Rudra there.",
+    "Bhavedrudro affirms Rudra's presence.",
+    "Maināke locates the second site.",
+    "Viśvanādakaḥ names the presiding form at Maināka."
+   ],
+   "inference": "At Kanyāśrama the speaker is present as Rudra, and at Maināka the presiding form is Viśvanādaka.",
+   "uncertainties": [
+    "The exact parsing of bhavedrudro as a fused form is inferred from context."
+   ],
+   "plain_english": "At Kanyāśrama I am Rudra, and at Maināka the presiding form is Viśvanādaka."
+  },
+  {
+   "verse": 1503,
+   "rows": [
+    {
+     "surface": "mūlikākhye",
+     "gloss": "in-mūlikā-named",
+     "grounds": "sacred site called Mūlikā",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇur",
+     "gloss": "viṣṇu",
+     "grounds": "name of the presiding deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahendre",
+     "gloss": "on-mahendra",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhārgavas",
+     "gloss": "bhārgava",
+     "grounds": "name of the presiding figure, descendant of Bhṛgu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine figures preside at the place called Mūlikā and at Mahendra?",
+   "premises": [
+    "Mūlikākhye names the first sacred site.",
+    "Viṣṇur is the presiding deity there.",
+    "Mahendre names the second sacred site.",
+    "Bhārgavas is the presiding figure there."
+   ],
+   "inference": "Viṣṇu presides at Mūlikā and Bhārgava presides at Mahendra.",
+   "uncertainties": [],
+   "plain_english": "Likewise, at the place called Mūlikā is Viṣṇu, and at Mahendra is Bhārgava."
+  },
+  {
+   "verse": 1504,
+   "rows": [
+    {
+     "surface": "maṇikūṭe",
+     "gloss": "on-maṇikūṭa",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hayagrīvo",
+     "gloss": "hayagrīva",
+     "grounds": "name of the horse-necked form of Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varāho",
+     "gloss": "varāha",
+     "grounds": "name of the boar form of Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinduparvate",
+     "gloss": "on-vindu-mountain",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which divine forms preside at Maṇikūṭa and at Vindhyaparvata?",
+   "premises": [
+    "Maṇikūṭe names the first sacred site.",
+    "Hayagrīvo is the presiding form there.",
+    "Vinduparvate names the second sacred site.",
+    "Varāho is the presiding form there."
+   ],
+   "inference": "Hayagrīva presides at Maṇikūṭa and Varāha presides on Vindu mountain.",
+   "uncertainties": [],
+   "plain_english": "At Maṇikūṭa is Hayagrīva, and at Vindu mountain is Varāha."
+  },
+  {
+   "verse": 1505,
+   "rows": [
+    {
+     "surface": "parameṣṭhī",
+     "gloss": "parameṣṭhin",
+     "grounds": "epithet often applied to Brahmā, the supreme one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmaputre",
+     "gloss": "on-brahma-son",
+     "grounds": "sacred site named after Brahmā's son",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśvaśaile",
+     "gloss": "on-viśva-mountain",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gahvaraḥ",
+     "gloss": "gahvara",
+     "grounds": "name of the presiding form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at Brahmaputra and at Viśvaśaila?",
+   "premises": [
+    "Brahmaputre names the first sacred site.",
+    "Parameṣṭhī is the presiding figure there.",
+    "Viśvaśaile names the second sacred site.",
+    "Gahvaraḥ is the presiding form there."
+   ],
+   "inference": "Parameṣṭhin presides at Brahmaputra and Gahvara presides at Viśvaśaila.",
+   "uncertainties": [],
+   "plain_english": "At Brahmaputra is Parameṣṭhin, and at Viśvaśaila is Gahvara."
+  },
+  {
+   "verse": 1506,
+   "rows": [
+    {
+     "surface": "vṛndāvane",
+     "gloss": "in-vṛndāvana",
+     "grounds": "sacred site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmapāṇiḥ",
+     "gloss": "lotus-handed",
+     "grounds": "epithet of the presiding figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuśahastas",
+     "gloss": "kuśa-in-hand",
+     "grounds": "epithet indicating kuśa grass in hand",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naimiṣe",
+     "gloss": "in-naimiṣa",
+     "grounds": "sacred forest name",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which divine figure presides at Vṛndāvana and at Naimiṣa?",
+   "premises": [
+    "Vṛndāvane names the first sacred site.",
+    "Padmapāṇiḥ is the presiding figure there.",
+    "Naimiṣe names the second sacred site.",
+    "Kuśahastas is the presiding figure there."
+   ],
+   "inference": "The lotus-handed one presides at Vṛndāvana and the one with kuśa in hand presides at Naimiṣa.",
+   "uncertainties": [],
+   "plain_english": "At Vṛndāvana is the lotus-handed one, and at Naimiṣa is the one with kuśa in hand."
+  },
+  {
+   "verse": 1507,
+   "rows": [
+    {
+     "surface": "bhāgīrathyāṃ",
+     "gloss": "on-bhāgīrathī",
+     "grounds": "sacred river name, the Ganges",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "padmagarbhaḥ",
+     "gloss": "lotus-wombed",
+     "grounds": "epithet often applied to Brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmpille",
+     "gloss": "in-kāmpilla",
+     "grounds": "sacred site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kanakapriyaḥ",
+     "gloss": "gold-dear",
+     "grounds": "name or epithet of the presiding figure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside on the Bhāgīrathī and at Kāmpilla?",
+   "premises": [
+    "Bhāgīrathyāṃ names the first sacred site.",
+    "Padmagarbhaḥ is the presiding figure there.",
+    "Kāmpille names the second sacred site.",
+    "Kanakapriyaḥ is the presiding figure there."
+   ],
+   "inference": "Padmagarbha presides on the Bhāgīrathī and Kanakapriya presides at Kāmpilla.",
+   "uncertainties": [],
+   "plain_english": "On the Bhāgīrathī is Padmagarbha, and at Kāmpilla is Kanakapriya."
+  },
+  {
+   "verse": 1508,
+   "rows": [
+    {
+     "surface": "vaśiṣṭhaś",
+     "gloss": "vaśiṣṭha",
+     "grounds": "name of the sage presiding at the site",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cārvude",
+     "gloss": "and-on-arvuda",
+     "grounds": "fused connective and sacred mountain name",
+     "morph": "(indecl.)+m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetanadyāṃ",
+     "gloss": "on-śveta-river",
+     "grounds": "sacred river name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "manobhavaḥ",
+     "gloss": "mind-born",
+     "grounds": "epithet often applied to Kāma",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at Arvuda and on the Śveta river?",
+   "premises": [
+    "Cārvude locates the first site at Arvuda.",
+    "Vaśiṣṭhaś is the presiding figure there.",
+    "Śvetanadyāṃ names the second sacred site.",
+    "Manobhavaḥ is the presiding figure there."
+   ],
+   "inference": "Vaśiṣṭha presides at Arvuda and Manobhava presides on the Śveta river.",
+   "uncertainties": [],
+   "plain_english": "At Arvuda is Vaśiṣṭha, and on the Śveta river is Manobhava."
+  },
+  {
+   "verse": 1509,
+   "rows": [
+    {
+     "surface": "yajñagarbhas",
+     "gloss": "sacrifice-wombed",
+     "grounds": "epithet of the presiding figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgastye",
+     "gloss": "on-agastya",
+     "grounds": "sacred site associated with Agastya",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "urvaśyāṃ",
+     "gloss": "in-urvaśī",
+     "grounds": "sacred site associated with Urvaśī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "madhusūdanaḥ",
+     "gloss": "madhusūdana",
+     "grounds": "epithet of Viṣṇu, slayer of Madhu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at the Agastya site and at the Urvaśī site?",
+   "premises": [
+    "Āgastye names the first sacred site.",
+    "Yajñagarbhas is the presiding figure there.",
+    "Urvaśyāṃ names the second sacred site.",
+    "Madhusūdanaḥ is the presiding figure there."
+   ],
+   "inference": "Yajñagarbha presides at the Agastya site and Madhusūdana presides at the Urvaśī site.",
+   "uncertainties": [],
+   "plain_english": "At the Agastya site is Yajñagarbha, and at the Urvaśī site is Madhusūdana."
+  },
+  {
+   "verse": 1510,
+   "rows": [
+    {
+     "surface": "vāyanaś",
+     "gloss": "vāyana",
+     "grounds": "name of the presiding figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gomante",
+     "gloss": "on-gomanta",
+     "grounds": "sacred mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāśyāṃ",
+     "gloss": "in-kāśī",
+     "grounds": "sacred city name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viśveśvarāhvayaḥ",
+     "gloss": "viśveśvara-named",
+     "grounds": "one called Viśveśvara, lord of the universe",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at Gomanta and at Kāśī?",
+   "premises": [
+    "Gomante names the first sacred site.",
+    "Vāyanaś is the presiding figure there.",
+    "Kāśyāṃ names the second sacred site.",
+    "Viśveśvarāhvayaḥ names the presiding figure there."
+   ],
+   "inference": "Vāyana presides at Gomanta and the one called Viśveśvara presides at Kāśī.",
+   "uncertainties": [],
+   "plain_english": "At Gomanta is Vāyana, and at Kāśī is the one called Viśveśvara."
+  },
+  {
+   "verse": 1511,
+   "rows": [
+    {
+     "surface": "gangādharo",
+     "gloss": "gaṅgā-bearer",
+     "grounds": "epithet of Śiva who bears the Gaṅgā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madrapīṭhe",
+     "gloss": "on-madra-seat",
+     "grounds": "sacred seat or site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mātaṅge",
+     "gloss": "on-mātaṅga",
+     "grounds": "sacred site name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryambakaḥ",
+     "gloss": "three-eyed",
+     "grounds": "epithet of Śiva",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine forms preside at Madrapīṭha and at Mātaṅga?",
+   "premises": [
+    "Madrapīṭhe names the first sacred site.",
+    "Gangādharo is the presiding form there.",
+    "Mātaṅge names the second sacred site.",
+    "Tryambakaḥ is the presiding form there."
+   ],
+   "inference": "The Gaṅgā-bearer presides at Madrapīṭha and the three-eyed one presides at Mātaṅga.",
+   "uncertainties": [],
+   "plain_english": "At Madrapīṭha is the Gaṅgā-bearer, and at Mātaṅga is the three-eyed one."
+  },
+  {
+   "verse": 1512,
+   "rows": [
+    {
+     "surface": "gaṅgāhrade",
+     "gloss": "on-gaṅgā-pool",
+     "grounds": "sacred site name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trilokeśo",
+     "gloss": "three-world-lord",
+     "grounds": "epithet of the lord of the three worlds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhittipuryāṃ",
+     "gloss": "in-bhittipurī",
+     "grounds": "sacred city name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "divākaraḥ",
+     "gloss": "sun",
+     "grounds": "name of the sun deity presiding at the site",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at Gaṅgāhrada and at Bhittipurī?",
+   "premises": [
+    "Gaṅgāhrade names the first sacred site.",
+    "Trilokeśo is the presiding figure there.",
+    "Bhittipuryāṃ names the second sacred site.",
+    "Divākaraḥ is the presiding figure there."
+   ],
+   "inference": "The lord of the three worlds presides at Gaṅgāhrada and the sun presides at Bhittipurī.",
+   "uncertainties": [],
+   "plain_english": "At Gaṅgāhrada is the lord of the three worlds, and at Bhittipurī is the sun."
+  },
+  {
+   "verse": 1513,
+   "rows": [
+    {
+     "surface": "dāsavane",
+     "gloss": "in-dāsa-forest",
+     "grounds": "sacred forest name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahāliṅgaḥ",
+     "gloss": "great-liṅga",
+     "grounds": "form of Śiva as the great liṅga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśoke",
+     "gloss": "in-aśoka",
+     "grounds": "sacred site name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināśakaḥ",
+     "gloss": "destroyer",
+     "grounds": "epithet of the presiding form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine forms preside at Dāsavana and at Aśoka?",
+   "premises": [
+    "Dāsavane names the first sacred site.",
+    "Mahāliṅgaḥ is the presiding form there.",
+    "Aśoke names the second sacred site.",
+    "Vināśakaḥ is the presiding form there."
+   ],
+   "inference": "The great liṅga presides at Dāsavana and the destroyer presides at Aśoka.",
+   "uncertainties": [],
+   "plain_english": "At Dāsavana is the great liṅga, and at Aśoka is the destroyer."
+  },
+  {
+   "verse": 1514,
+   "rows": [
+    {
+     "surface": "mārkaṇḍeyo",
+     "gloss": "mārkaṇḍeya",
+     "grounds": "name of the sage presiding at the site",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṭe",
+     "gloss": "at-banyan",
+     "grounds": "sacred site at a banyan tree",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ikṣudvāre",
+     "gloss": "at-ikṣu-gate",
+     "grounds": "sacred site name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "divākaraḥ",
+     "gloss": "sun",
+     "grounds": "name of the sun deity presiding at the site",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures preside at the banyan tree and at Ikṣudvāra?",
+   "premises": [
+    "Vaṭe names the first sacred site.",
+    "Mārkaṇḍeyo is the presiding figure there.",
+    "Ikṣudvāre names the second sacred site.",
+    "Divākaraḥ is the presiding figure there."
+   ],
+   "inference": "Mārkaṇḍeya presides at the banyan tree and the sun presides at Ikṣudvāra.",
+   "uncertainties": [],
+   "plain_english": "At the banyan tree is Mārkaṇḍeya, and at Ikṣudvāra is the sun."
+  },
+  {
+   "verse": 1515,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "eight-above-hundred",
+     "grounds": "the number one hundred and eight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "sacred place or site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of the declaration",
+     "morph": "1.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "2.dat.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "fully proclaimed or enumerated",
+     "morph": "n.nom.sg.past-passive-participle-√kīrt"
+    }
+   ],
+   "question": "How many sacred places has the speaker declared to the listener?",
+   "premises": [
+    "Aṣṭottaraśataṃ specifies one hundred and eight.",
+    "Sthānaṃ refers to sacred places.",
+    "Mayā identifies the speaker as the declarer.",
+    "Te identifies the listener as recipient.",
+    "Parikīrtitam indicates they have been declared."
+   ],
+   "inference": "The speaker has declared one hundred and eight sacred places to the listener.",
+   "uncertainties": [],
+   "plain_english": "I have declared to you one hundred and eight sacred places."
+  },
+  {
+   "verse": 1516,
+   "rows": [
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "refers to the previously enumerated places",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the devotee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "a single place among them",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "may-see",
+     "grounds": "act of visiting or beholding the sacred place",
+     "morph": "3.sg.opt-√dṛś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktimānnaraḥ",
+     "gloss": "devotion-possessing-man",
+     "grounds": "a person endowed with devotion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition qualifies a person to gain benefit from visiting these sacred places?",
+   "premises": [
+    "Eteṣām refers to the enumerated sacred places.",
+    "Ekaṃ indicates visiting even one of them.",
+    "Paśyet expresses the act of seeing or visiting.",
+    "Bhaktimānnaraḥ specifies a person possessing devotion."
+   ],
+   "inference": "A person endowed with devotion who visits even one of these sacred places qualifies for the stated benefit.",
+   "uncertainties": [],
+   "plain_english": "And if a devoted person should see even one of these places,"
+  },
+  {
+   "verse": 1517,
+   "rows": [
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "evil deed committed in thought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācikañ",
+     "gloss": "verbal",
+     "grounds": "evil deed committed in speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāyikaṃ",
+     "gloss": "bodily",
+     "grounds": "evil deed committed by the body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yac",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to evil deeds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣkṛtam",
+     "gloss": "evil-deed",
+     "grounds": "wrongful action",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which kinds of evil deeds are addressed as removable by visiting a sacred place?",
+   "premises": [
+    "Mānasaṃ refers to mental wrongdoing.",
+    "Vācikañ refers to verbal wrongdoing.",
+    "Kāyikaṃ refers to bodily wrongdoing.",
+    "Duṣkṛtam denotes evil deeds in general."
+   ],
+   "inference": "Evil deeds committed by mind, speech, and body are all included.",
+   "uncertainties": [],
+   "plain_english": "whatever evil deed has been done by mind, speech, or body,"
+  },
+  {
+   "verse": 1518,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state of the devotee",
+     "morph": "3.sg.pres.act-√bhū"
+    },
+    {
+     "surface": "mokṣamārgī",
+     "gloss": "liberation-path-going",
+     "grounds": "one who follows the path to liberation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatrā",
+     "gloss": "where",
+     "grounds": "fused form indicating the place of divine presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "I",
+     "grounds": "the speaker, present at the sacred place",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitaḥ",
+     "gloss": "situated",
+     "grounds": "firmly present or established",
+     "morph": "m.nom.sg.past-passive-participle-√sthā"
+    }
+   ],
+   "question": "What spiritual outcome follows for the devotee where the speaker is present?",
+   "premises": [
+    "Bhavati indicates a resulting state.",
+    "Mokṣamārgī describes one on the path to liberation.",
+    "Yatrā haṃ tatra saṃsthitaḥ states the speaker's presence at that place."
+   ],
+   "inference": "The devotee becomes one who follows the path to liberation, for the speaker is present there.",
+   "uncertainties": [
+    "The fused form yatrā haṃ is read as yatra ahaṃ."
+   ],
+   "plain_english": "he becomes one who follows the path to liberation, for wherever I am, there I am present."
+  },
+  {
+   "verse": 1519,
+   "rows": [
+    {
+     "surface": "dhyānena",
+     "gloss": "by-meditation",
+     "grounds": "means of attaining the goal",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthireṇā",
+     "gloss": "steady",
+     "grounds": "fused form qualifying meditation as steady",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śu",
+     "gloss": "quickly",
+     "grounds": "fused form indicating swift attainment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpsyate",
+     "gloss": "will-be-attained",
+     "grounds": "future attainment of the goal",
+     "morph": "3.sg.fut.passive-√āp"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what means is the supreme goal quickly attained according to the speaker's address to the goddess?",
+   "premises": [
+    "Dhyānena specifies meditation as the means.",
+    "Sthireṇā qualifies that meditation as steady.",
+    "Śu indicates quick attainment.",
+    "Prāpsyate states that the goal will be attained.",
+    "Parameśvari addresses the supreme goddess."
+   ],
+   "inference": "Through steady meditation the goal will be quickly attained, O supreme goddess.",
+   "uncertainties": [
+    "The fused forms sthireṇā and śu are read as sthireṇa and āśu."
+   ],
+   "plain_english": "And through steady meditation it will be quickly attained, O supreme goddess."
+  },
+  {
+   "verse": 1520,
+   "rows": [
+    {
+     "surface": "dvāviṃśati",
+     "gloss": "twenty-two",
+     "grounds": "numerical measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanurmānaṃ",
+     "gloss": "bow-measure",
+     "grounds": "extent measured in bow-lengths",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "sacred field or area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramadurlabham",
+     "gloss": "supremely-difficult-to-obtain",
+     "grounds": "extremely rare or hard to attain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the extent and rarity of the sacred field being described?",
+   "premises": [
+    "Dvāviṃśati dhanurmānaṃ specifies a measure of twenty-two bow-lengths.",
+    "Kṣetraṃ identifies the sacred field.",
+    "Paramadurlabham states it is supremely difficult to obtain."
+   ],
+   "inference": "The sacred field measures twenty-two bow-lengths and is supremely difficult to obtain.",
+   "uncertainties": [],
+   "plain_english": "The sacred field, measuring twenty-two bow-lengths, is supremely difficult to obtain."
+  },
+  {
+   "verse": 1521,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "act of worship performed prior to the result",
+     "morph": "absolutive-√pūj"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that sacred field",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraṃ",
+     "gloss": "rudra",
+     "grounds": "the deity worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jyotirvyomaphalaṃ",
+     "gloss": "light-sky-fruit",
+     "grounds": "the fruit described as light and sky, a transcendent result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "attainment of the stated fruit",
+     "morph": "3.sg.opt-√labh"
+    }
+   ],
+   "question": "What fruit does one obtain by worshipping Rudra at that sacred field?",
+   "premises": [
+    "Pūjayitvā indicates prior worship.",
+    "Tatra locates the worship at that field.",
+    "Rudraṃ identifies Rudra as the object of worship.",
+    "Jyotirvyomaphalaṃ names the fruit to be obtained.",
+    "Labhet states that one obtains it."
+   ],
+   "inference": "By worshipping Rudra there, one obtains the fruit of light and sky.",
+   "uncertainties": [
+    "The compound jyotirvyomaphalaṃ may have a specific doctrinal meaning not fully explicit."
+   ],
+   "plain_english": "Having worshipped Rudra there, one obtains the fruit of light and sky."
+  },
+  {
+   "verse": 1522,
+   "rows": [
+    {
+     "surface": "uṣitvā",
+     "gloss": "having-dwelt",
+     "grounds": "act of residing at the sacred place",
+     "morph": "absolutive-√vas"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that sacred field",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prāpsyate",
+     "gloss": "will-be-attained",
+     "grounds": "future attainment of the goal",
+     "morph": "3.sg.fut.passive-√āp"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "highest or ultimate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "abode",
+     "grounds": "supreme state or abode",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme attainment follows from dwelling at that sacred field?",
+   "premises": [
+    "Uṣitvā indicates dwelling there.",
+    "Tatra locates the dwelling at that field.",
+    "Prāpsyate states future attainment.",
+    "Paramaṃ padam names the supreme abode."
+   ],
+   "inference": "By dwelling there, one will attain the supreme abode.",
+   "uncertainties": [],
+   "plain_english": "Having dwelt there, O goddess, one will attain the supreme abode."
+  },
+  {
+   "verse": 1523,
+   "rows": [
+    {
+     "surface": "dvāpare",
+     "gloss": "in-dvāpara",
+     "grounds": "the Dvāpara age",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurukṣetraṃ",
+     "gloss": "kurukṣetra",
+     "grounds": "sacred field name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aśvatīrthaṃ",
+     "gloss": "aśva-tīrtha",
+     "grounds": "sacred ford named Aśvatīrtha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "the Kali age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yuge",
+     "gloss": "age",
+     "grounds": "cosmic age or era",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which sacred sites are preeminent in the Dvāpara and Kali ages?",
+   "premises": [
+    "Dvāpare locates the first age.",
+    "Kurukṣetraṃ names the preeminent site in Dvāpara.",
+    "Kalau yuge locates the second age.",
+    "Aśvatīrthaṃ names the preeminent site in Kali."
+   ],
+   "inference": "Kurukṣetra is preeminent in the Dvāpara age and Aśvatīrtha in the Kali age.",
+   "uncertainties": [],
+   "plain_english": "In the Dvāpara age it is Kurukṣetra, and in the Kali age it is Aśvatīrtha."
+  },
+  {
+   "verse": 1524,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "at a place other than the sacred site",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "committed or performed",
+     "morph": "n.nom.sg.past-passive-participle-√kṛ"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "wrongful deed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "at-tīrtha",
+     "grounds": "at a sacred ford or pilgrimage site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "undergoes or reaches a state",
+     "morph": "3.sg.pres.act-√yā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lāghavam",
+     "gloss": "lightness",
+     "grounds": "diminution or alleviation of sin",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens to sin committed elsewhere when one reaches a sacred tīrtha?",
+   "premises": [
+    "Yad pāpaṃ anyatra kṛtaṃ refers to sin committed elsewhere.",
+    "Tīrthe locates the effect at a sacred tīrtha.",
+    "Yāti lāghavam states that it goes to lightness."
+   ],
+   "inference": "Sin committed elsewhere becomes lightened at a sacred tīrtha.",
+   "uncertainties": [],
+   "plain_english": "Sin that has been committed elsewhere becomes lightened at a sacred tīrtha."
+  }
+ ]
+}

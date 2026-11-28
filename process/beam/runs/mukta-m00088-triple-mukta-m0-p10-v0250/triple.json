@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "mantrānuktau",
+     "gloss": "when-mantra-not-specified",
+     "grounds": "fused form; locative absolute sense indicating absence of a specified mantra",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nāmamantraṃ",
+     "gloss": "name-mantra",
+     "grounds": "compound accusative object to be employed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb of universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upayojayet",
+     "gloss": "one-should-use",
+     "grounds": "causative optative expressing ritual prescription",
+     "morph": "3.sg.act.opt.√yuj"
+    }
+   ],
+   "question": "When no specific mantra is prescribed, should the name-mantra be used in every ritual context?",
+   "premises": [
+    "mantra specification absent triggers default",
+    "name-mantra applies universally",
+    "ritual employment is prescribed"
+   ],
+   "inference": "Therefore the name-mantra is the universal substitute when no mantra is specified.",
+   "uncertainties": [
+    "exact sense of anuktau remains uncertain",
+    "scope of sarvatra in ritual practice remains unclear"
+   ],
+   "plain_english": "When no mantra is specified, one should use the name-mantra everywhere."
+  }
+ ]
+}

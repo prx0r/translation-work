@@ -1,0 +1,1223 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "sūtaṃ",
+     "gloss": "mercury",
+     "grounds": "mercury substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svarṇaṃ",
+     "gloss": "gold",
+     "grounds": "gold substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyoma",
+     "gloss": "mica",
+     "grounds": "mica substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "conch substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "equal proportion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rambhādravaiḥ",
+     "gloss": "plantain-juices",
+     "grounds": "plantain juice instrumental",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "one day duration",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which four substances are taken in equal measure and ground with plantain juices for one day?",
+   "premises": [
+    "mercury gold mica conch are named",
+    "equal proportion is specified",
+    "plantain juices and one day are specified"
+   ],
+   "inference": "The verse prescribes equal mercury gold mica and conch ground with plantain juices for one day.",
+   "uncertainties": [
+    "exact procedural context beyond this verse"
+   ],
+   "plain_english": "Mercury, gold, mica, and conch in equal measure are ground with plantain juices for one day."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "sarvakaiḥ",
+     "gloss": "with-all",
+     "grounds": "all herbs instrumental",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mūlikādrāvāt",
+     "gloss": "herb-juices",
+     "grounds": "herb juice ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "one day duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single day",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mardayet",
+     "gloss": "one-should-grind",
+     "grounds": "grinding instruction",
+     "morph": "3sg.act.pres.root-mard"
+    }
+   ],
+   "question": "How long should the mixture be ground with all herb juices?",
+   "premises": [
+    "all herb juices are used",
+    "grinding is commanded",
+    "one day is specified"
+   ],
+   "inference": "The mixture should be ground for one day with all herb juices.",
+   "uncertainties": [
+    "exact herb list is given in following verses"
+   ],
+   "plain_english": "One should grind it for one day with all herb juices."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "brahmadaṇḍī",
+     "gloss": "brahmadaṇḍī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "meghanādo",
+     "gloss": "meghanāda",
+     "grounds": "herb name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "citrakaṃ",
+     "gloss": "citraka",
+     "grounds": "herb name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṭutumbikā",
+     "gloss": "bitter-gourd",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which herbs are listed in this group of the purification recipe?",
+   "premises": [
+    "brahmadaṇḍī is named",
+    "meghanāda is named",
+    "citraka and bitter gourd are named"
+   ],
+   "inference": "This verse lists brahmadaṇḍī, meghanāda, citraka, and bitter gourd among the herbs.",
+   "uncertainties": [
+    "grammatical case roles are not fully explicit"
+   ],
+   "plain_english": "The herbs include brahmadaṇḍī, meghanāda, citraka, and bitter gourd."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "kandorambhā",
+     "gloss": "plantain",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirguṇḍī",
+     "gloss": "nirguṇḍī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātī",
+     "gloss": "jātī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jayantikā",
+     "gloss": "jayantikā",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional herbs are named after plantain in this list?",
+   "premises": [
+    "plantain is named",
+    "nirguṇḍī lajjā jātī jayantikā are named",
+    "ca connects the list"
+   ],
+   "inference": "The verse adds nirguṇḍī, lajjā, jātī, and jayantikā to the herb list.",
+   "uncertainties": [
+    "exact syntactic grouping of the list"
+   ],
+   "plain_english": "Plantain, nirguṇḍī, lajjā, jātī, and jayantikā are named."
+  },
+  {
+   "verse": 1380,
+   "rows": [
+    {
+     "surface": "guḍūcī",
+     "gloss": "guḍūcī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lāṅgalī",
+     "gloss": "lāṅgalī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nīrakaṇā",
+     "gloss": "nīrakaṇā",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahoragā",
+     "gloss": "mahoragā",
+     "grounds": "herb name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which five herbs complete this portion of the herb list?",
+   "premises": [
+    "guḍūcī is named",
+    "lāṅgalī is named",
+    "nīrakaṇā kālī mahoragā are named"
+   ],
+   "inference": "This verse names guḍūcī, lāṅgalī, nīrakaṇā, kālī, and mahoragā.",
+   "uncertainties": [
+    "whether all are used in equal proportion"
+   ],
+   "plain_english": "The herbs named are guḍūcī, lāṅgalī, nīrakaṇā, kālī, and mahoragā."
+  },
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "uktasthāne",
+     "gloss": "in-stated-place",
+     "grounds": "stated place locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prayoktavyā",
+     "gloss": "should-be-employed",
+     "grounds": "employment instruction",
+     "morph": "f.nom.sg.pass.part"
+    },
+    {
+     "surface": "rasarājasya",
+     "gloss": "mercury-king",
+     "grounds": "mercury king genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "accomplishment dative",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Where should these herbs be employed for the accomplishment of mercury?",
+   "premises": [
+    "stated place is specified",
+    "employment is commanded",
+    "mercury king and accomplishment are named"
+   ],
+   "inference": "The herbs should be employed in the stated place for accomplishing mercury.",
+   "uncertainties": [
+    "exact identity of the stated place"
+   ],
+   "plain_english": "They should be employed in the stated place for the accomplishment of mercury."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "tryaṅgulīmadhyavitāre",
+     "gloss": "three-finger-middle-width",
+     "grounds": "width measurement locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "round shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "making instruction",
+     "morph": "3sg.act.pres.root-kṛ"
+    },
+    {
+     "surface": "mukham",
+     "gloss": "mouth",
+     "grounds": "mouth of apparatus",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What shape and width should the mouth of the apparatus have?",
+   "premises": [
+    "three-finger middle width is specified",
+    "round shape is specified",
+    "making the mouth is commanded"
+   ],
+   "inference": "The mouth should be made round with a three-finger middle width.",
+   "uncertainties": [
+    "exact apparatus type"
+   ],
+   "plain_english": "One should make the mouth round, three fingers wide in the middle."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "suślakṣṇaṃ",
+     "gloss": "very-smooth",
+     "grounds": "smoothness quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "peṣayitvā",
+     "gloss": "having-ground",
+     "grounds": "grinding participle",
+     "morph": "abs.root-piṣ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "water object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "giving participle",
+     "morph": "abs.root-dā"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What repeated grinding and water additions are prescribed after making it very smooth?",
+   "premises": [
+    "very smooth quality is specified",
+    "grinding and water giving are commanded",
+    "again and again indicates repetition"
+   ],
+   "inference": "After making it very smooth, one grinds and adds water repeatedly.",
+   "uncertainties": [
+    "number of repetitions beyond twice"
+   ],
+   "plain_english": "Having made it very smooth, grind it, add water, and repeat again and again."
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "andhayitvā",
+     "gloss": "having-sealed",
+     "grounds": "sealing participle",
+     "morph": "abs.root-andh"
+    },
+    {
+     "surface": "puṭaṃ",
+     "gloss": "heat-application",
+     "grounds": "heat application object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "giving instruction",
+     "morph": "n.acc.sg.pass.part"
+    },
+    {
+     "surface": "garbhayantram",
+     "gloss": "womb-apparatus",
+     "grounds": "apparatus name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "becoming instruction",
+     "morph": "3sg.act.opt.root-bhū"
+    }
+   ],
+   "question": "What heat application and apparatus are used after sealing?",
+   "premises": [
+    "sealing is commanded",
+    "heat application should be given",
+    "womb apparatus is named"
+   ],
+   "inference": "After sealing, heat application should be given in the womb apparatus.",
+   "uncertainties": [
+    "exact heat intensity"
+   ],
+   "plain_english": "Having sealed it, give heat application in the womb apparatus; this should be done."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "saptavāraṃ",
+     "gloss": "seven-times",
+     "grounds": "seven repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "effort instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purity",
+     "grounds": "purity object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "attains",
+     "grounds": "attaining verb",
+     "morph": "3sg.act.pres.root-yā"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "certainty adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many careful repetitions are needed to attain purity?",
+   "premises": [
+    "seven times is specified",
+    "effort is specified",
+    "purity is attained certainly"
+   ],
+   "inference": "Purity is certainly attained after seven careful repetitions.",
+   "uncertainties": [
+    "what is being purified in this context"
+   ],
+   "plain_english": "With effort, purity is certainly attained after seven times."
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "masṛṇaḥ",
+     "gloss": "smooth",
+     "grounds": "smooth quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṭhinaḥ",
+     "gloss": "hard",
+     "grounds": "hard quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snigdhaḥ",
+     "gloss": "unctuous",
+     "grounds": "unctuous quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śreṣṭho",
+     "gloss": "best",
+     "grounds": "best quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandhaka",
+     "gloss": "sulphur",
+     "grounds": "sulphur subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "naming verb",
+     "morph": "3sg.pass.pres.root-vac"
+    }
+   ],
+   "question": "Which qualities identify the best sulphur?",
+   "premises": [
+    "smooth hard unctuous are listed",
+    "best is stated",
+    "sulphur is the subject"
+   ],
+   "inference": "The best sulphur is called smooth, hard, and unctuous.",
+   "uncertainties": [
+    "whether all three must coexist"
+   ],
+   "plain_english": "Sulphur that is smooth, hard, and unctuous is called the best."
+  },
+  {
+   "verse": 1387,
+   "rows": [
+    {
+     "surface": "tatpūrvaṃ",
+     "gloss": "that-before",
+     "grounds": "prior step",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cūrṇitaṃ",
+     "gloss": "powdered",
+     "grounds": "powdered sulphur",
+     "morph": "n.acc.sg.pass.part"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "sulphur",
+     "grounds": "sulphur object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "throwing participle",
+     "morph": "abs.root-kṣip"
+    },
+    {
+     "surface": "tasyopari",
+     "gloss": "its-upon",
+     "grounds": "upon it",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "placing instruction",
+     "morph": "3sg.act.opt.root-nyas"
+    }
+   ],
+   "question": "What should be placed upon the powdered sulphur after it is thrown?",
+   "premises": [
+    "powdered sulphur is named",
+    "throwing is commanded",
+    "placing upon it is commanded"
+   ],
+   "inference": "After throwing powdered sulphur, one should place something upon it.",
+   "uncertainties": [
+    "the object to be placed is not named in this verse"
+   ],
+   "plain_english": "Having thrown powdered sulphur, one should place something upon it."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "dugdhabhāṇḍaṃ",
+     "gloss": "milk-vessel",
+     "grounds": "milk vessel object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "placing participle",
+     "morph": "abs.root-nyas"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "ground locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "deyam",
+     "gloss": "should-be-given",
+     "grounds": "giving instruction",
+     "morph": "n.acc.sg.pass.part"
+    },
+    {
+     "surface": "ūrdhvapuṭaṃ",
+     "gloss": "upper-heat-application",
+     "grounds": "upper heat application",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "laghu",
+     "gloss": "light",
+     "grounds": "light intensity",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What vessel and heat application are used on the ground?",
+   "premises": [
+    "milk vessel is placed",
+    "ground is specified",
+    "light upper heat application is given"
+   ],
+   "inference": "A milk vessel is placed on the ground and given a light upper heat application.",
+   "uncertainties": [
+    "exact vessel contents"
+   ],
+   "plain_english": "Place a milk vessel on the ground and give it a light upper heat application."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "gandhaṃ",
+     "gloss": "sulphur",
+     "grounds": "sulphur object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghṛte",
+     "gloss": "in-ghee",
+     "grounds": "ghee locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vipaktavyaṃ",
+     "gloss": "should-be-cooked",
+     "grounds": "cooking instruction",
+     "morph": "n.acc.sg.pass.part"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "duration condition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tailanibhaṃ",
+     "gloss": "oil-like",
+     "grounds": "oil-like quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becoming verb",
+     "morph": "3sg.act.opt.root-bhū"
+    }
+   ],
+   "question": "How long should sulphur be cooked in ghee?",
+   "premises": [
+    "sulphur is cooked in ghee",
+    "cooking is commanded",
+    "oil-like result is specified"
+   ],
+   "inference": "Sulphur should be cooked in ghee until it becomes oil-like.",
+   "uncertainties": [
+    "exact temperature"
+   ],
+   "plain_english": "Cook sulphur in ghee until it becomes oil-like."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "thus adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gandhakaśuddhiḥ",
+     "gloss": "sulphur-purification",
+     "grounds": "purification subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "becoming instruction",
+     "morph": "3sg.act.opt.root-as"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yogeṣu",
+     "gloss": "in-formulations",
+     "grounds": "formulations locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-employ",
+     "grounds": "employment instruction",
+     "morph": "3sg.act.opt.root-yuj"
+    }
+   ],
+   "question": "What should be done after sulphur purification is achieved?",
+   "premises": [
+    "thus purification should be",
+    "then sequence is stated",
+    "employment in formulations is commanded"
+   ],
+   "inference": "After sulphur purification, it should be employed in formulations.",
+   "uncertainties": [
+    "which formulations"
+   ],
+   "plain_english": "Thus sulphur purification should be achieved; then employ it in formulations."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "pinākaṃ",
+     "gloss": "pināka",
+     "grounds": "mica kind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "darduraṃ",
+     "gloss": "dardura",
+     "grounds": "mica kind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāgaṃ",
+     "gloss": "nāga",
+     "grounds": "mica kind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "vajra",
+     "grounds": "mica kind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "four kinds",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many kinds of mica are enumerated here?",
+   "premises": [
+    "pināka dardura nāga vajra are named",
+    "and connects them",
+    "fourfold is stated"
+   ],
+   "inference": "The verse enumerates four kinds of mica: pināka, dardura, nāga, and vajra.",
+   "uncertainties": [
+    "exact mineralogical identification"
+   ],
+   "plain_english": "Pināka, dardura, nāga, and vajra are the four kinds of mica."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "muñcati",
+     "gloss": "releases",
+     "grounds": "releasing verb",
+     "morph": "3sg.act.pres.root-muc"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "fire locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nikṣiptaḥ",
+     "gloss": "thrown",
+     "grounds": "thrown participle",
+     "morph": "m.nom.sg.pass.part"
+    },
+    {
+     "surface": "pināko",
+     "gloss": "pināka",
+     "grounds": "pināka subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dalasañcayam",
+     "gloss": "layer-mass",
+     "grounds": "layer mass object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens when pināka mica is thrown into fire?",
+   "premises": [
+    "pināka is thrown into fire",
+    "releasing is stated",
+    "layer mass is released"
+   ],
+   "inference": "When pināka mica is thrown into fire, it releases a mass of layers.",
+   "uncertainties": [
+    "exact physical process"
+   ],
+   "plain_english": "Pināka, when thrown into fire, releases a mass of layers."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "darduraḥ",
+     "gloss": "dardura",
+     "grounds": "dardura subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "fire locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vinikṣiptaḥ",
+     "gloss": "thrown",
+     "grounds": "thrown participle",
+     "morph": "m.nom.sg.pass.part"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "making verb",
+     "morph": "3sg.mid.pres.root-kṛ"
+    },
+    {
+     "surface": "darduradhvanim",
+     "gloss": "frog-sound",
+     "grounds": "frog sound object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What sound does dardura mica make when thrown into fire?",
+   "premises": [
+    "dardura is thrown into fire",
+    "making is stated",
+    "frog sound is produced"
+   ],
+   "inference": "Dardura mica makes a frog-like sound when thrown into fire.",
+   "uncertainties": [
+    "acoustic interpretation"
+   ],
+   "plain_english": "Dardura, when thrown into fire, makes a frog-like sound."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "nāgaḥ",
+     "gloss": "nāga",
+     "grounds": "nāga subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "agnisthitaḥ",
+     "gloss": "fire-situated",
+     "grounds": "situated in fire",
+     "morph": "m.nom.sg.pass.part"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "immediacy adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phūtkāraṃ",
+     "gloss": "hissing-sound",
+     "grounds": "hissing sound object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "releasing verb",
+     "morph": "3sg.act.pres.root-muc"
+    }
+   ],
+   "question": "What sound does nāga mica release when situated in fire?",
+   "premises": [
+    "nāga is situated in fire",
+    "immediately is stated",
+    "hissing sound is released"
+   ],
+   "inference": "Nāga mica immediately releases a hissing sound when situated in fire.",
+   "uncertainties": [
+    "exact cause of sound"
+   ],
+   "plain_english": "Nāga, when situated in fire, immediately releases a hissing sound."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "vajrābhrakaṃ",
+     "gloss": "vajra-mica",
+     "grounds": "vajra mica subject",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "fire locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "any",
+     "grounds": "any amount",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vikriyāṃ",
+     "gloss": "change",
+     "grounds": "change object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "undergoes",
+     "grounds": "undergoing verb",
+     "morph": "3sg.act.opt.root-vraj"
+    }
+   ],
+   "question": "Does vajra mica undergo any change in fire?",
+   "premises": [
+    "vajra mica is in fire",
+    "negation is stated",
+    "no change is undergone"
+   ],
+   "inference": "Vajra mica undergoes no change in fire.",
+   "uncertainties": [
+    "whether this distinguishes it from other kinds"
+   ],
+   "plain_english": "Vajra mica undergoes no change in fire."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "dhamet",
+     "gloss": "one-should-blow",
+     "grounds": "blowing instruction",
+     "morph": "3sg.act.opt.root-dham"
+    },
+    {
+     "surface": "vajrābhrakaṃ",
+     "gloss": "vajra-mica",
+     "grounds": "vajra mica object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "fire locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "duration condition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "agninibhaṃ",
+     "gloss": "fire-like",
+     "grounds": "fire-like quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becoming verb",
+     "morph": "3sg.act.opt.root-bhū"
+    }
+   ],
+   "question": "How long should vajra mica be blown in fire?",
+   "premises": [
+    "blowing is commanded",
+    "vajra mica is in fire",
+    "fire-like result is specified"
+   ],
+   "inference": "Vajra mica should be blown in fire until it becomes fire-like.",
+   "uncertainties": [
+    "exact blowing method"
+   ],
+   "plain_english": "Blow vajra mica in fire until it becomes fire-like."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-impregnate",
+     "grounds": "impregnation instruction",
+     "morph": "3sg.act.opt.root-bhū"
+    },
+    {
+     "surface": "aṣṭayāmaṃ",
+     "gloss": "eight-watches",
+     "grounds": "eight watches duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "becoming verb",
+     "morph": "3sg.mid.pres.root-jan"
+    },
+    {
+     "surface": "doṣavarjitam",
+     "gloss": "defect-devoid",
+     "grounds": "defect-free quality",
+     "morph": "n.acc.sg.pass.part"
+    }
+   ],
+   "question": "How long should impregnation be performed to make it defect-free?",
+   "premises": [
+    "impregnation is commanded",
+    "eight watches are specified",
+    "defect-free result is stated"
+   ],
+   "inference": "Impregnating for eight watches makes it defect-free.",
+   "uncertainties": [
+    "what is being impregnated"
+   ],
+   "plain_english": "Impregnate it for eight watches, and it becomes free from defects."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "tridinaṃ",
+     "gloss": "three-days",
+     "grounds": "three days duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "placing instruction",
+     "morph": "3sg.act.opt.root-sthā"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "vessel locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "fine",
+     "grounds": "fine quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "papeṣayet",
+     "gloss": "one-should-grind",
+     "grounds": "grinding instruction",
+     "morph": "3sg.act.opt.root-piṣ"
+    }
+   ],
+   "question": "What should be done after placing it in a vessel for three days?",
+   "premises": [
+    "three days placement is commanded",
+    "vessel is specified",
+    "then fine grinding is commanded"
+   ],
+   "inference": "After placing it in a vessel for three days, one should grind it fine.",
+   "uncertainties": [
+    "exact material being placed"
+   ],
+   "plain_english": "Place it in a vessel for three days, then grind it fine."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "cloth instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "binding participle",
+     "morph": "abs.root-bandh"
+    },
+    {
+     "surface": "sāranāle",
+     "gloss": "with-sour-gruel",
+     "grounds": "sour gruel instrumental or locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāṇḍamadhye",
+     "gloss": "in-vessel-middle",
+     "grounds": "vessel middle locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vimardayet",
+     "gloss": "one-should-rub",
+     "grounds": "rubbing instruction",
+     "morph": "3sg.act.opt.root-mṛd"
+    }
+   ],
+   "question": "How should the cloth-bound material be rubbed?",
+   "premises": [
+    "cloth binding is commanded",
+    "sour gruel is specified",
+    "rubbing in vessel middle is commanded"
+   ],
+   "inference": "The cloth-bound material should be rubbed with sour gruel in the middle of a vessel.",
+   "uncertainties": [
+    "exact material and purpose"
+   ],
+   "plain_english": "Having bound it with cloth, rub it with sour gruel in the middle of a vessel."
+  }
+ ]
+}

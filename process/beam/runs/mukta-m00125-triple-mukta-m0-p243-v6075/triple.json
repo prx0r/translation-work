@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p243",
+ "items": [
+  {
+   "verse": 6075,
+   "rows": [
+    {
+     "surface": "vastrādyair+deśikaś+ceṣṭvā",
+     "gloss": "with-cloth-etc-teacher-having-worshipped",
+     "grounds": "vastra-ādyaiḥ (instr.pl., compound vastra+ādi) + deśikaḥ (nom.sg.m.) + iṣṭvā (gerund, √yaj); sandhi deśikaḥ+iṣṭvā",
+     "morph": "vastrādyaiḥ: instr.pl.nt, compound vastra+ādi; deśikaḥ: m.nom.sg; ceṣṭvā: gerund √yaj"
+    },
+    {
+     "surface": "patrikām+api+pūjayet",
+     "gloss": "tablet-also-should-worship",
+     "grounds": "patrikām (acc.sg.f.) + api (indecl.) + pūjayet (optative, √pūj)",
+     "morph": "patrikām: f.acc.sg; api: (indecl.); pūjayet: 3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What ritual honors must the teacher perform for the inscribed tablet?",
+   "premises": [
+    "The teacher performs worship using cloth and other offerings.",
+    "The act of worship is completed by the teacher as officiant.",
+    "The inscribed tablet must also receive ritual worship."
+   ],
+   "inference": "Therefore the teacher must ritually honor the offerings and also worship the inscribed tablet.",
+   "uncertainties": [
+    "The exact referent and material of patrikā in this ritual context is not fully specified."
+   ],
+   "plain_english": "Having worshipped with cloth and other offerings, the teacher should also worship the tablet."
+  }
+ ]
+}

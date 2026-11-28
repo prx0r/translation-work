@@ -1,0 +1,40 @@
+{
+ "song": "kul-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "absolutive from spṛś; action of touching before salutation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśuddhahṛdaya",
+     "gloss": "purified-heart",
+     "grounds": "compound adjective describing the devotee's inner state",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "īṣadānatamastakaḥ",
+     "gloss": "slightly-bowed-head",
+     "grounds": "compound describing gentle head inclination in reverence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the disciple approach the guru after prostration?",
+   "premises": [
+    "the disciple touches the ground in reverence",
+    "the heart is purified before salutation",
+    "the head is only slightly bowed"
+   ],
+   "inference": "reverent bodily posture completes the guru salutation",
+   "uncertainties": [
+    "exact object of spṛṣṭvā is not explicit in this fragment",
+    "viśuddhahṛdaya may be read as adjective or compound stem"
+   ],
+   "plain_english": "Having touched [the ground], with purified heart and slightly bowed head."
+  }
+ ]
+}

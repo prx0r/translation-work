@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "ahorātre",
+     "gloss": "day-and-night",
+     "grounds": "time period of a full day and night",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "lacking",
+     "grounds": "deficient or passed without the required observance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces an alternative case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing-rite",
+     "grounds": "ritual ablution",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause",
+     "grounds": "prescribes causing the rite to be performed",
+     "morph": "3.sg.opt.act caus-kṛ"
+    },
+    {
+     "surface": "śive",
+     "gloss": "for-śiva",
+     "grounds": "recipient of the bathing rite",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What compensatory rite is required when a full day and night pass without worship?",
+   "premises": [
+    "A full day and night may pass without the required worship.",
+    "Such a lapse requires a prescribed compensatory action.",
+    "The prescribed action is causing a bathing rite for Śiva."
+   ],
+   "inference": "Therefore, when a full day and night pass without worship, one must have a bathing rite performed for Śiva.",
+   "uncertainties": [
+    "The exact ritual scope of snapanaṃ in this context is not specified in the verse."
+   ],
+   "plain_english": "But if a day and night pass without worship, one should have a bathing rite performed for Śiva."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "kalpena",
+     "gloss": "by-method",
+     "grounds": "instrumental of kalpa, method or procedure",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "adagdhavayaso",
+     "gloss": "unburnt-age",
+     "grounds": "compound adjective in genitive singular masculine",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vājīkaraṇasevitaḥ",
+     "gloss": "aphrodisiac-served",
+     "grounds": "participle describing one served or treated with aphrodisiac",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What age and preparatory conditions qualify a man for virility-increasing yogas?",
+   "premises": [
+    "Virility-increasing yogas require purity and health.",
+    "Practice is barred before sixteen and after seventy.",
+    "Method, unburnt age, and aphrodisiac use qualify."
+   ],
+   "inference": "Eligibility depends on age window and preparatory regimen.",
+   "uncertainties": [
+    "Exact syntactic role of adagdhavayaso is uncertain.",
+    "Whether vājīkaraṇasevitaḥ is adjectival or participial is uncertain."
+   ],
+   "plain_english": "By method, one of unburnt age, served with aphrodisiac."
+  }
+ ]
+}

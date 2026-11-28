@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa+saṅkhyākān",
+     "gloss": "sixteen-in-number",
+     "grounds": "compound of ṣoḍaśa (sixteen) and saṅkhyāka (numbered); accusative plural masculine",
+     "morph": "acc.pl.m."
+    },
+    {
+     "surface": "pūjā+upacārān",
+     "gloss": "worship-items",
+     "grounds": "compound of pūjā (worship) and upacāra (item/service); accusative plural masculine",
+     "morph": "acc.pl.m."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative of root kṛ (to do/make), third person singular",
+     "morph": "3.sg.opt.-kṛ"
+    },
+    {
+     "surface": "iti+anvayaḥ",
+     "gloss": "thus-connection",
+     "grounds": "iti (thus) joined with anvaya (connection/continuity); nominative singular masculine",
+     "morph": "indecl.+nom.sg.m."
+    }
+   ],
+   "question": "What sixteen worship items should one perform in this rite?",
+   "premises": [
+    "Sixteen numbered worship items are specified.",
+    "One should perform those worship items.",
+    "Thus connection concludes the instruction."
+   ],
+   "inference": "The verse prescribes performing sixteen worship items.",
+   "uncertainties": [
+    "The exact list of the sixteen worship items is not given in this verse."
+   ],
+   "plain_english": "One should perform the sixteen items of worship; thus is the connection."
+  }
+ ]
+}

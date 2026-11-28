@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "yonikuṇḍe",
+     "gloss": "in-yoni-pit",
+     "grounds": "locative of compound yonikuṇḍa (yoni + kuṇḍa), specifying the ritual pit",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "bhagākāre",
+     "gloss": "vulva-shaped",
+     "grounds": "locative of compound bhagākāra (bhaga + ākāra), describing the form of the pit",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "vartulendvardhayoḥ",
+     "gloss": "in-circle-and-half-moon",
+     "grounds": "locative dual of compound vartulendvardha (vartula + indu + ardha), indicating two alternative shapes",
+     "morph": "compound.loc.du.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What specific shapes must the ritual fire-pit take for the prescribed offering?",
+   "premises": [
+    "The offering is to be made in a yoni-pit.",
+    "The pit is described as vulva-shaped.",
+    "The pit may alternatively take circular or half-moon forms."
+   ],
+   "inference": "The prescribed oblation is to be performed in a ritual pit shaped as a vulva, or alternatively in circular or half-moon forms.",
+   "uncertainties": [
+    "Whether vartulendvardhayoḥ indicates two distinct alternative pits or two aspects of form is not fully explicit."
+   ],
+   "plain_english": "Dear one, the offering should be made in a yoni-pit that is vulva-shaped, or in pits shaped like a circle or a half-moon."
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "tṛtīyāvaraṇe",
+     "gloss": "third-enclosure",
+     "grounds": "compound tṛtīya+āvaraṇa in locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tattvaiḥ",
+     "gloss": "principles",
+     "grounds": "instrumental plural of tattva",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śaktyādyaiḥ",
+     "gloss": "śakti-etc",
+     "grounds": "compound śakti+ādi in instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharontakaiḥ",
+     "gloss": "dharā-anta",
+     "grounds": "compound dharā+anta in instrumental plural",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How are the third-enclosure tattva pots arranged with śakti and dharā-anta principles?",
+   "premises": [
+    "third enclosure is named",
+    "tattva principles are instrumental",
+    "śakti and dharā-anta are included"
+   ],
+   "inference": "The verse specifies the third enclosure's tattva arrangement with śakti and dharā-anta.",
+   "uncertainties": [
+    "exact ritual referent of dharontakaiḥ"
+   ],
+   "plain_english": "In the third enclosure, arrange the tattva principles with śakti and the dharā-anta elements."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "kumbhān",
+     "gloss": "pots",
+     "grounds": "accusative plural of kumbha",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sakūrcān",
+     "gloss": "with-kūrca",
+     "grounds": "compound sa+kūrca in accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sūtraveṣṭitān",
+     "gloss": "thread-wrapped",
+     "grounds": "compound sūtra+veṣṭita in accusative plural",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What kind of pots are prepared with kūrca and thread wrapping?",
+   "premises": [
+    "pots are accusative",
+    "they are with kūrca",
+    "they are thread-wrapped"
+   ],
+   "inference": "The prepared pots are kūrca-bearing and thread-wrapped.",
+   "uncertainties": [
+    "material of kūrca"
+   ],
+   "plain_english": "Prepare pots that have kūrca and are wrapped with thread."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "sapidhānaphalākṣatān",
+     "gloss": "with-lids-fruits-akṣata",
+     "grounds": "compound sa+pidhāna+phala+akṣata in accusative plural",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What additional items accompany the prepared pots?",
+   "premises": [
+    "pots include lids",
+    "pots include fruits",
+    "pots include akṣata"
+   ],
+   "inference": "The pots are furnished with lids, fruits, and akṣata.",
+   "uncertainties": [
+    "exact count of items"
+   ],
+   "plain_english": "The pots are provided with lids, fruits, and akṣata."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "paścimabhāge",
+     "gloss": "western-side",
+     "grounds": "compound paścima+bhāga in locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "steps",
+     "grounds": "accusative plural of pada",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and how many steps are made in this ritual?",
+   "premises": [
+    "western side is specified",
+    "nine steps are made",
+    "tu marks sequence"
+   ],
+   "inference": "Nine steps are made on the western side.",
+   "uncertainties": [
+    "purpose of the steps"
+   ],
+   "plain_english": "On the western side, make nine steps."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "saṃyuktam",
+     "gloss": "conjoined",
+     "grounds": "past participle of saṃyuj in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpūrya",
+     "gloss": "filling",
+     "grounds": "absolutive of āpūr",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worshipping",
+     "grounds": "absolutive of abhyarc",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular of deśika",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who performs the conjoining, filling, and worshipping?",
+   "premises": [
+    "conjoined object is specified",
+    "filling is performed",
+    "worshipping is performed",
+    "teacher is agent"
+   ],
+   "inference": "The teacher performs conjoining, filling, and worshipping.",
+   "uncertainties": [
+    "object of conjoining"
+   ],
+   "plain_english": "The teacher conjoins, fills, and worships."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "pañcabrahmabhiḥ",
+     "gloss": "five-brahmans",
+     "grounds": "compound pañca+brahman in instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "āpūrya",
+     "gloss": "filling",
+     "grounds": "absolutive of āpūr",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "hemakūrcānvitān",
+     "gloss": "gold-kūrca-equipped",
+     "grounds": "compound hema+kūrca+anvita in accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "optative third singular of yaj",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "With what are the gold-kūrca pots filled and worshipped?",
+   "premises": [
+    "five brahmans are instrumental",
+    "filling is performed",
+    "gold-kūrca pots are accusative",
+    "worship is enjoined"
+   ],
+   "inference": "The gold-kūrca pots are filled and worshipped with the five brahmans.",
+   "uncertainties": [
+    "exact role of five brahmans"
+   ],
+   "plain_english": "Fill and worship the gold-kūrca pots with the five brahmans."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "sāṅgam",
+     "gloss": "with-limbs",
+     "grounds": "compound sa+aṅga in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "inviting",
+     "grounds": "absolutive of samāvāh",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "samidājyatilāṃścarūn",
+     "gloss": "fuel-ghee-sesame-rice",
+     "grounds": "compound samid+ājya+tila+aṃśa+caru in accusative plural",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What offerings are invited with limbs?",
+   "premises": [
+    "with-limbs object is specified",
+    "inviting is performed",
+    "fuel ghee sesame rice offerings are accusative"
+   ],
+   "inference": "The fuel, ghee, sesame, and rice offerings are invited with limbs.",
+   "uncertainties": [
+    "meaning of sāṅgam"
+   ],
+   "plain_english": "Invite the fuel, ghee, sesame, and rice offerings with limbs."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "daśāṃśena",
+     "gloss": "tenth-part",
+     "grounds": "compound daśa+aṃśa in instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "offering",
+     "grounds": "absolutive of hu",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "saṃpātitaṃ",
+     "gloss": "mixed",
+     "grounds": "past participle of saṃpāt in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "accusative singular of ghṛta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the mixed ghee offered?",
+   "premises": [
+    "tenth part is instrumental",
+    "offering is performed",
+    "mixed ghee is accusative"
+   ],
+   "inference": "The mixed ghee is offered by a tenth part.",
+   "uncertainties": [
+    "what the tenth part measures"
+   ],
+   "plain_english": "Offer the mixed ghee by a tenth part."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "instrumental singular of hṛd",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative singular of mūrdhan",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣpādyam",
+     "gloss": "flowers-etc",
+     "grounds": "compound puṣpa+ādi in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "apanīya",
+     "gloss": "removing",
+     "grounds": "absolutive of apanī",
+     "morph": "v.abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is removed from head with heart?",
+   "premises": [
+    "heart is instrumental",
+    "head is locative",
+    "flowers-etc is accusative",
+    "removing is performed"
+   ],
+   "inference": "Flowers and related items are removed from the head with the heart.",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "Remove flowers and the like from the head with the heart."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "jaladhūpāntaraṃ",
+     "gloss": "water-incense-interval",
+     "grounds": "compound jala+dhūpa+antara in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural of puṣpa",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aśūnyaṃ",
+     "gloss": "non-empty",
+     "grounds": "compound a+śūnya in accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mastakaṃ",
+     "gloss": "head",
+     "grounds": "accusative singular of mastaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the head remain non-empty between water and incense?",
+   "premises": [
+    "water-incense interval is specified",
+    "flowers are instrumental",
+    "non-empty head is accusative",
+    "as marks comparison"
+   ],
+   "inference": "The head should remain non-empty with flowers between water and incense.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "Keep the head non-empty with flowers between water and incense."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekonapañcāśatkalaśaiḥ",
+     "gloss": "forty-nine-pots",
+     "grounds": "compound ekona+pañcāśat+kalaśa in instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sthāpanakramāt",
+     "gloss": "placement-order",
+     "grounds": "compound sthāpana+krama in ablative",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How are forty-nine pots placed then?",
+   "premises": [
+    "then marks sequence",
+    "forty-nine pots are instrumental",
+    "placement order is ablative"
+   ],
+   "inference": "Then forty-nine pots are placed according to placement order.",
+   "uncertainties": [
+    "exact placement order"
+   ],
+   "plain_english": "Then place forty-nine pots in placement order."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "gāyatryā",
+     "gloss": "gāyatrī",
+     "grounds": "instrumental singular of gāyatrī",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpyāyasva",
+     "gloss": "āpyāyasva",
+     "grounds": "imperative second singular of āpyai",
+     "morph": "v.2.sg.imp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dugdhataḥ",
+     "gloss": "from-milk",
+     "grounds": "ablative singular of dugdha",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What mantra and substance are used for āpyāyasva?",
+   "premises": [
+    "gāyatrī is instrumental",
+    "āpyāyasva is imperative",
+    "iti marks quotation",
+    "from milk is ablative"
+   ],
+   "inference": "Āpyāyasva is performed with gāyatrī and milk.",
+   "uncertainties": [
+    "exact ritual application"
+   ],
+   "plain_english": "With gāyatrī, perform āpyāyasva from milk."
+  }
+ ]
+}

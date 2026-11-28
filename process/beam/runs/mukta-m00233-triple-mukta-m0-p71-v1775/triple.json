@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb indicating correct manner of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhādyairabhipūjya",
+     "gloss": "worship-with-sandalwood-and-rest",
+     "grounds": "fused compound gandha-ādi in instrumental plural with abhi-pūjya",
+     "morph": "participle"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "compound of yathā and vidhi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the proper mode of worshipping the prepared altar with sandalwood and other offerings?",
+   "premises": [
+    "Altar is prepared with rice and pure water.",
+    "Worship uses sandalwood and related offerings.",
+    "Ritual follows prescribed rule."
+   ],
+   "inference": "The altar must be worshipped properly with sandalwood and other offerings according to rule.",
+   "uncertainties": [
+    "Exact list of gandha-ādi offerings is not specified in this verse."
+   ],
+   "plain_english": "After preparing the altar, one should properly worship it with sandalwood and other offerings according to the prescribed rite."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second-person pronoun addressing the goddess",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "manohāriṇī",
+     "gloss": "mind-captivating",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "causal conjunction introducing reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "passive verb of speaking or naming",
+     "morph": "3.sg.pass-pres √kath"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the realm of rarity",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "rare",
+     "grounds": "adjective expressing difficulty of attainment",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What reason establishes the goddess as both mind-captivating and rare on earth?",
+   "premises": [
+    "The goddess is addressed directly as you.",
+    "She is described as mind-captivating.",
+    "She is called rare on earth."
+   ],
+   "inference": "Because she captivates the mind, she is proclaimed rare on earth.",
+   "uncertainties": [],
+   "plain_english": "Because you are mind-captivating, you are said to be rare on earth."
+  }
+ ]
+}

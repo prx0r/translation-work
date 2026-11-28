@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "they-stand",
+     "grounds": "finite verb expressing abiding presence",
+     "morph": "3.pl.pres.act √sthā"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "indeclinable indicating continual duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "named deity standing in presence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādyāḥ",
+     "gloss": "and-others",
+     "grounds": "plural adjective indicating a group beginning with Brahmā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tridiva",
+     "gloss": "heaven",
+     "grounds": "first member of compound denoting the celestial realm; compounded with following token",
+     "morph": "compound:tridiva+aukasaḥ"
+    },
+    {
+     "surface": "aukasaḥ",
+     "gloss": "dwellers",
+     "grounds": "second member of compound denoting inhabitants; together with preceding token forms 'heaven-dwellers'",
+     "morph": "m.nom.pl (compound:tridiva+aukasaḥ)"
+    }
+   ],
+   "question": "Which divine beings remain perpetually present before the goddess?",
+   "premises": [
+    "Brahmā is explicitly named as present.",
+    "Other beings beginning with Brahmā are included.",
+    "These beings are dwellers of the heavenly realm.",
+    "Their presence is described as continual."
+   ],
+   "inference": "Brahmā and other celestial dwellers stand perpetually before the goddess.",
+   "uncertainties": [
+    "The compound tridivaukasaḥ is represented as two separate tokens in the input."
+   ],
+   "plain_english": "O goddess, Brahmā and the other dwellers of heaven always stand before you."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p189",
+ "items": [
+  {
+   "verse": 4725,
+   "rows": [
+    {
+     "surface": "kāla+tādrūpyataḥ",
+     "gloss": "by-identity-with-time",
+     "grounds": "compound of time and identity; ablative-like extent marker",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "kāla+ātmakatvena",
+     "gloss": "by-being-of-nature-of-time",
+     "grounds": "compound of time and nature; instrumental-like means",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "limit marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How far does the distinction between body and self extend through time before death?",
+   "premises": [
+    "Death equals sleep after prarabdha ceases.",
+    "Self-body discrimination occurs before death.",
+    "Time-identity marks the extent."
+   ],
+   "inference": "The verse marks the limit of discrimination by time-identity and time-nature.",
+   "uncertainties": [
+    "Exact syntactic relation of the ablative and instrumental forms remains unclear."
+   ],
+   "plain_english": "As far as by identity with time and by being of the nature of time, thus."
+  }
+ ]
+}

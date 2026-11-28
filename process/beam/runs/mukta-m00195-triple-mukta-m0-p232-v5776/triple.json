@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p232",
+ "items": [
+  {
+   "verse": 5776,
+   "rows": [
+    {
+     "surface": "viśvāvasurdevī",
+     "gloss": "viśvāvasu-goddess",
+     "grounds": "compound: viśvāvasu+devī",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "time adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "no",
+     "gloss": "us",
+     "grounds": "enclitic form of asmād",
+     "morph": "pron.dat.pl"
+    },
+    {
+     "surface": "juṣatāṃ",
+     "gloss": "may-be-pleased",
+     "grounds": "benediction",
+     "morph": "3.sg.impv-middle √juṣ"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What divine favor is sought for the household from Viśvāvasu-devī?",
+   "premises": [
+    "Viśvāvasu-devī is invoked by name",
+    "The plea requests her constant pleasure",
+    "The requested favor concerns the house"
+   ],
+   "inference": "Viśvāvasu-devī should always be pleased with those in the house.",
+   "uncertainties": [
+    "Identity of Viśvāvasu-devī in this ritual context is not specified"
+   ],
+   "plain_english": "May Viśvāvasu-devī always be pleased with us in our house."
+  },
+  {
+   "verse": 5777,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "refers to two prior elements",
+     "morph": "pron.gen.dual"
+    },
+    {
+     "surface": "antaś",
+     "gloss": "inside",
+     "grounds": "spatial position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "one-should-enclose",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √veṣṭ"
+    }
+   ],
+   "question": "What enclosing action must be performed within the two previously mentioned elements?",
+   "premises": [
+    "A prior action is completed",
+    "Two elements are the reference points",
+    "An enclosing action is prescribed inside them"
+   ],
+   "inference": "After completing the prior step, one should enclose within those two.",
+   "uncertainties": [
+    "The referents of tayor depend on the preceding context"
+   ],
+   "plain_english": "Having done that, one should enclose within those two."
+  },
+  {
+   "verse": 5778,
+   "rows": [
+    {
+     "surface": "akārādi",
+     "gloss": "beginning-with-a",
+     "grounds": "compound: akāra+ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣakārānta",
+     "gloss": "ending-with-kṣa",
+     "grounds": "compound: kṣakāra+anta",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇair",
+     "gloss": "with-letters",
+     "grounds": "instrument of filling",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "area to be filled",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praveṣṭayet",
+     "gloss": "one-should-fill",
+     "grounds": "causative ritual instruction",
+     "morph": "3.sg.opt.caus.act √viś"
+    }
+   ],
+   "question": "Which sequence of letters must be used to fill the middle area?",
+   "premises": [
+    "The letter range begins with a",
+    "The letter range ends with kṣa",
+    "The middle must be filled with these letters"
+   ],
+   "inference": "One should fill the middle with the letters from a to kṣa.",
+   "uncertainties": [
+    "The exact arrangement or order of letters is not specified here"
+   ],
+   "plain_english": "One should fill the middle with the letters from a to kṣa."
+  },
+  {
+   "verse": 5779,
+   "rows": [
+    {
+     "surface": "śrīyaś",
+     "gloss": "of-śrī",
+     "grounds": "possessive relation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "dear",
+     "grounds": "quality of the diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthāpitaṃ",
+     "gloss": "placed",
+     "grounds": "installed",
+     "morph": "n.nom.sg.past-passive-participle √sthā"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mandire",
+     "gloss": "in-temple",
+     "grounds": "place of installation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What status does this diagram hold for Śrī when installed in a temple?",
+   "premises": [
+    "This diagram is dear to Śrī",
+    "The diagram may be placed in a temple",
+    "The verse links placement with Śrī's favor"
+   ],
+   "inference": "This diagram, dear to Śrī, is the one placed in a temple.",
+   "uncertainties": [],
+   "plain_english": "This diagram is dear to Śrī and is placed in a temple."
+  },
+  {
+   "verse": 5780,
+   "rows": [
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of installed diagram",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ramate",
+     "gloss": "delights",
+     "grounds": "divine presence",
+     "morph": "3.sg.pres-middle √ram"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "ramā",
+     "grounds": "goddess Śrī/Lakṣmī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What effect does the installed diagram have on Ramā's presence there?",
+   "premises": [
+    "The diagram is installed in that place",
+    "Ramā is the subject who delights",
+    "The delight is constant and emphatic"
+   ],
+   "inference": "Ramā constantly delights in that very place where the diagram is installed.",
+   "uncertainties": [],
+   "plain_english": "And Ramā indeed constantly delights right there."
+  },
+  {
+   "verse": 5781,
+   "rows": [
+    {
+     "surface": "ṣaṭkoṇa",
+     "gloss": "six-corner",
+     "grounds": "compound: ṣaṭ+koṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location within diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "sacred syllable oṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhyanāmā",
+     "gloss": "target-name",
+     "grounds": "compound: sādhya+nāman",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhigarbhitam",
+     "gloss": "womb-contained",
+     "grounds": "compound: bhi+garbhita; name enclosed within",
+     "morph": "compound"
+    }
+   ],
+   "question": "What elements must be inscribed in the middle of the six-cornered figure?",
+   "premises": [
+    "The location is the middle of a six-cornered figure",
+    "The praṇava is to be written",
+    "The target's name is contained within it"
+   ],
+   "inference": "In the middle of the six-cornered figure one should place the praṇava containing the target's name.",
+   "uncertainties": [
+    "The element 'bhi' in bhigarbhitam is unclear in this form"
+   ],
+   "plain_english": "In the middle of the six-cornered figure, write the praṇava containing the target's name."
+  },
+  {
+   "verse": 5782,
+   "rows": [
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aim",
+     "gloss": "aim",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbhāye",
+     "gloss": "in-its-petals",
+     "grounds": "compound/location: tad+bhāye; likely petals",
+     "morph": "compound"
+    },
+    {
+     "surface": "likhed",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "aṣṭadalaṃ",
+     "gloss": "eight-petal",
+     "grounds": "compound: aṣṭa+dala",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bīja syllables and petal structure are prescribed in the next writing step?",
+   "premises": [
+    "The syllables klīṃ and aim are specified",
+    "They are to be written in its petals",
+    "An eight-petal form is made again"
+   ],
+   "inference": "One should then write klīṃ and aim in its petals and again form an eight-petal figure.",
+   "uncertainties": [
+    "The exact parsing of tadbhāye is uncertain"
+   ],
+   "plain_english": "Then one should write klīṃ and aim in its petals, and again make an eight-petaled figure."
+  },
+  {
+   "verse": 5783,
+   "rows": [
+    {
+     "surface": "munir",
+     "gloss": "sage",
+     "grounds": "mantra seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "mantra deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṣṭupchandaḥ",
+     "gloss": "triṣṭup-meter",
+     "grounds": "compound: triṣṭup+chandas",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "traditional attribution",
+     "morph": "n.nom.sg.past-passive-participle pra-√kīrt"
+    }
+   ],
+   "question": "What mantra attributions are declared regarding sage, deity, or meter?",
+   "premises": [
+    "Sage and deity are mentioned",
+    "Triṣṭup meter is mentioned",
+    "These are declared as attributions"
+   ],
+   "inference": "The sage, deity, or triṣṭup meter is declared for the mantra.",
+   "uncertainties": [
+    "The use of vā makes the intended attribution ambiguous"
+   ],
+   "plain_english": "The sage, or the deity, or the triṣṭup meter is declared."
+  },
+  {
+   "verse": 5784,
+   "rows": [
+    {
+     "surface": "ṛṣir",
+     "gloss": "sage",
+     "grounds": "mantra seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrghatamās",
+     "gloss": "dīrghatamas",
+     "grounds": "proper name of sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṣṭupchando",
+     "gloss": "triṣṭup-meter",
+     "grounds": "compound: triṣṭup+chandas",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "vāṇī",
+     "grounds": "goddess of speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "mantra deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sage, meter, and deity are assigned to this mantra?",
+   "premises": [
+    "Dīrghatamas is named as the sage",
+    "Triṣṭup is named as the meter",
+    "Vāṇī is named as the deity"
+   ],
+   "inference": "The mantra's sage is Dīrghatamas, its meter is triṣṭup, and its deity is Vāṇī.",
+   "uncertainties": [],
+   "plain_english": "The sage is Dīrghatamas, the meter is triṣṭup, and the deity is Vāṇī."
+  },
+  {
+   "verse": 5785,
+   "rows": [
+    {
+     "surface": "munis",
+     "gloss": "sage",
+     "grounds": "mantra seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "triṣṭupchando",
+     "gloss": "triṣṭup-meter",
+     "grounds": "compound: triṣṭup+chandas",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāgdevatā",
+     "gloss": "speech-goddess",
+     "grounds": "compound: vāc+devatā",
+     "morph": "compound"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "traditional view",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What alternative attribution is considered for the mantra's sage, meter, and deity?",
+   "premises": [
+    "A sage is considered",
+    "Triṣṭup meter is considered",
+    "The speech-goddess is considered the deity"
+   ],
+   "inference": "The sage, triṣṭup meter, and speech-goddess are considered the mantra's attributions.",
+   "uncertainties": [
+    "The specific name of the sage is not stated in this verse"
+   ],
+   "plain_english": "The sage, the triṣṭup meter, and the goddess of speech are considered."
+  },
+  {
+   "verse": 5786,
+   "rows": [
+    {
+     "surface": "āsūryasya",
+     "gloss": "āsūryasya",
+     "grounds": "mantra fragment or epithet, kept as given",
+     "morph": "unresolved"
+    },
+    {
+     "surface": "duhitā",
+     "gloss": "daughter",
+     "grounds": "relation term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatāśravo",
+     "gloss": "tatāśravas",
+     "grounds": "proper name or epithet, sandhi form",
+     "morph": "unresolved"
+    },
+    {
+     "surface": "deveṣv",
+     "gloss": "among-gods",
+     "grounds": "location among deities",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "amṛtam",
+     "gloss": "immortality",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arjjayā",
+     "gloss": "arjjayā",
+     "grounds": "mantra fragment or verb form, kept as given",
+     "morph": "unresolved"
+    }
+   ],
+   "question": "What mantra fragment concerning a daughter and immortality among the gods is cited?",
+   "premises": [
+    "A daughter figure is named",
+    "The setting is among the gods",
+    "Immortality is mentioned as obtained"
+   ],
+   "inference": "The verse cites a mantra fragment about a daughter obtaining immortality among the gods.",
+   "uncertainties": [
+    "āsūryasya, tatāśravo, and arjjayā are difficult to parse without broader mantra context"
+   ],
+   "plain_english": "The daughter, Tatāśravas, obtained immortality among the gods."
+  },
+  {
+   "verse": 5787,
+   "rows": [
+    {
+     "surface": "prāgvan",
+     "gloss": "as-before",
+     "grounds": "compound: prāk+vat",
+     "morph": "compound"
+    },
+    {
+     "surface": "munyādi",
+     "gloss": "sage-and-so-on",
+     "grounds": "compound: muni+ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvāsāṃ",
+     "gloss": "of-all",
+     "grounds": "applies to all cases",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "niyogo",
+     "gloss": "application",
+     "grounds": "ritual assignment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāstusiddhye",
+     "gloss": "for-site-accomplishment",
+     "grounds": "compound: vāstu+siddhi",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the sage and other attributions be applied for accomplishing the site?",
+   "premises": [
+    "The application follows the previous pattern",
+    "Sage and other attributions are included",
+    "The purpose is accomplishment of the site"
+   ],
+   "inference": "For all, the application of sage and so on should be made as before for the accomplishment of the site.",
+   "uncertainties": [],
+   "plain_english": "As before, the application of the sage and so on for all is for the accomplishment of the site."
+  },
+  {
+   "verse": 5788,
+   "rows": [
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locations in diagram",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "compound: vāc+bhava; bīja of speech",
+     "morph": "compound"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "bīja syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act ā-√likh"
+    }
+   ],
+   "question": "Which seed syllable must be written in the corners of the diagram?",
+   "premises": [
+    "The corners are the specified locations",
+    "The vāgbhava bīja is specified",
+    "Writing is prescribed"
+   ],
+   "inference": "One should write the vāgbhava bīja in the corners.",
+   "uncertainties": [],
+   "plain_english": "One should write the vāgbhava bīja in the corners."
+  },
+  {
+   "verse": 5789,
+   "rows": [
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "prior ritual act",
+     "morph": "absolutive sam-ā-√vah"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "absolutive caus. √pūj"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions must precede the next result according to prescribed rule?",
+   "premises": [
+    "Invocation is performed first",
+    "Worship is performed after invocation",
+    "Both acts follow prescribed rule"
+   ],
+   "inference": "One must invoke and worship according to rule before proceeding.",
+   "uncertainties": [],
+   "plain_english": "Having invoked and worshipped according to rule."
+  },
+  {
+   "verse": 5790,
+   "rows": [
+    {
+     "surface": "tārkikāṇāṃ",
+     "gloss": "of-logicians",
+     "grounds": "group surpassed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakravartī",
+     "gloss": "wheel-sovereign",
+     "grounds": "compound: cakra+vartin; supreme ruler",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-become",
+     "grounds": "result of ritual",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "the practitioner",
+     "morph": "pron.m.nom.sg"
+    }
+   ],
+   "question": "What intellectual supremacy does the practitioner attain through this ritual?",
+   "premises": [
+    "The practitioner is the subject",
+    "Logicians are the comparison group",
+    "The result is becoming a supreme sovereign"
+   ],
+   "inference": "He may become the supreme sovereign among logicians.",
+   "uncertainties": [],
+   "plain_english": "He may become the supreme sovereign among logicians."
+  },
+  {
+   "verse": 5791,
+   "rows": [
+    {
+     "surface": "dyusaril",
+     "gloss": "divine-stream",
+     "grounds": "compound: dyu+saril; heavenly river",
+     "morph": "compound"
+    },
+    {
+     "surface": "lolakallola",
+     "gloss": "trembling-wave",
+     "grounds": "compound: lola+kallola",
+     "morph": "compound"
+    },
+    {
+     "surface": "nibhā",
+     "gloss": "resembling",
+     "grounds": "comparison",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niryāti",
+     "gloss": "flows-forth",
+     "grounds": "emergence of speech",
+     "morph": "3.sg.pres.act nis-√yā"
+    },
+    {
+     "surface": "bhāratī",
+     "gloss": "bhāratī",
+     "grounds": "goddess of speech/eloquence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the flow of Bhāratī's eloquence described as a result of the practice?",
+   "premises": [
+    "Bhāratī flows forth from the practitioner",
+    "Her flow resembles a divine stream",
+    "The stream has trembling waves"
+   ],
+   "inference": "Bhāratī flows forth like the trembling waves of a divine stream.",
+   "uncertainties": [],
+   "plain_english": "Bhāratī flows forth like the trembling waves of a divine stream."
+  },
+  {
+   "verse": 5792,
+   "rows": [
+    {
+     "surface": "padmasya",
+     "gloss": "of-lotus",
+     "grounds": "diagram element",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "karṇikāyān",
+     "gloss": "in-pericarp",
+     "grounds": "location in lotus diagram",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃllikhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act sam-√likh"
+    }
+   ],
+   "question": "Where in the lotus diagram must the next inscription be written?",
+   "premises": [
+    "The lotus is the diagram context",
+    "The pericarp is the specific location",
+    "Writing is prescribed there"
+   ],
+   "inference": "One should write in the pericarp of the lotus.",
+   "uncertainties": [
+    "The content to be written is specified in following verses"
+   ],
+   "plain_english": "One should write in the pericarp of the lotus."
+  },
+  {
+   "verse": 5793,
+   "rows": [
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "compound: pūrva+ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "sukoṇeṣu",
+     "gloss": "in-good-corners",
+     "grounds": "compound: su+koṇa",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "aṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequential placement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bīja syllables must be placed in sequence in the corners starting from the east?",
+   "premises": [
+    "The placement begins from the east",
+    "The locations are the good corners",
+    "Four bīja syllables are given in order"
+   ],
+   "inference": "One should place aṃ, śrīṃ, hrīṃ, and klīṃ in order in the corners beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "In the corners beginning from the east, write aṃ, śrīṃ, hrīṃ, and klīṃ in order."
+  },
+  {
+   "verse": 5794,
+   "rows": [
+    {
+     "surface": "śrīvidyā",
+     "gloss": "śrīvidyā",
+     "grounds": "the sixteen-syllable mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal position",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "section",
+     "grounds": "mantra division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ka-e-īla",
+     "gloss": "ka-e-ī-la",
+     "grounds": "syllable sequence of first kūṭa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīm",
+     "gloss": "hrīm",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constitutes the first kūṭa of the śrīvidyā mantra in this instruction?",
+   "premises": [
+    "The subject is śrīvidyā",
+    "The first kūṭa is specified",
+    "Its syllables are given as ka-e-ī-la and hrīm"
+   ],
+   "inference": "The first kūṭa of śrīvidyā is ka-e-ī-la and hrīm.",
+   "uncertainties": [],
+   "plain_english": "The first kūṭa of śrīvidyā is ka-e-ī-la and hrīm."
+  },
+  {
+   "verse": 5795,
+   "rows": [
+    {
+     "surface": "dvitīyan",
+     "gloss": "second",
+     "grounds": "ordinal position",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "section",
+     "grounds": "mantra division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tṛtīyake",
+     "gloss": "in-third",
+     "grounds": "location or position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where must the second kūṭa be written in relation to the third position?",
+   "premises": [
+    "The second kūṭa is the object",
+    "Writing is prescribed",
+    "The third position is mentioned as the location"
+   ],
+   "inference": "One should write the second kūṭa in the third position.",
+   "uncertainties": [
+    "The relation between second kūṭa and tṛtīyake is syntactically compressed"
+   ],
+   "plain_english": "One should write the second kūṭa in the third place."
+  },
+  {
+   "verse": 5796,
+   "rows": [
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "previously stated",
+     "morph": "n.acc.sg.past-passive-participle pra-√vac"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "ṣaṣṭhadale",
+     "gloss": "in-six-petal",
+     "grounds": "compound: ṣaṣṭha+dala",
+     "morph": "compound"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What previously declared element must be written again in the six-petaled part?",
+   "premises": [
+    "An element was previously declared",
+    "Writing is prescribed again",
+    "The location is the six-petaled part"
+   ],
+   "inference": "One should again write the declared element in the six-petaled part.",
+   "uncertainties": [
+    "The specific declared element is not named in this verse"
+   ],
+   "plain_english": "Again, one should write what was declared in the six-petaled part."
+  },
+  {
+   "verse": 5797,
+   "rows": [
+    {
+     "surface": "tataś",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamapatrake",
+     "gloss": "in-eight-petal",
+     "grounds": "compound: aṣṭama+patraka",
+     "morph": "compound"
+    }
+   ],
+   "question": "What diagram location is specified for the next step after the previous one?",
+   "premises": [
+    "The instruction continues sequentially",
+    "An eight-petaled part is specified",
+    "The action is implied from context"
+   ],
+   "inference": "Then the next step concerns the eight-petaled part.",
+   "uncertainties": [
+    "The verb is omitted and must be supplied from context"
+   ],
+   "plain_english": "Then, in the eight-petaled part."
+  },
+  {
+   "verse": 5798,
+   "rows": [
+    {
+     "surface": "tadbahir",
+     "gloss": "outside-that",
+     "grounds": "compound: tad+bahis",
+     "morph": "compound"
+    },
+    {
+     "surface": "vṛtrayor",
+     "gloss": "of-two-circles",
+     "grounds": "two circular boundaries",
+     "morph": "n.gen.dual"
+    },
+    {
+     "surface": "antar",
+     "gloss": "within",
+     "grounds": "space between circles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayen",
+     "gloss": "one-should-enclose",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √veṣṭ"
+    },
+    {
+     "surface": "mātṛkākṣaraiḥ",
+     "gloss": "with-mātṛkā-letters",
+     "grounds": "compound: mātṛkā+akṣara",
+     "morph": "compound"
+    }
+   ],
+   "question": "How must the space between the two outer circles be enclosed using mātṛkā letters?",
+   "premises": [
+    "The area is outside that and between two circles",
+    "An enclosing action is prescribed",
+    "The mātṛkā letters are the means"
+   ],
+   "inference": "One should enclose the space between the two circles outside that with the mātṛkā letters.",
+   "uncertainties": [],
+   "plain_english": "Outside that, one should enclose the space between the two circles with the mātṛkā letters."
+  },
+  {
+   "verse": 5799,
+   "rows": [
+    {
+     "surface": "likhed",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "hemapaṭādau",
+     "gloss": "on-gold-plate-and-so-on",
+     "grounds": "compound: hema+paṭa+ādi",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hemasūcyā",
+     "gloss": "with-gold-needle",
+     "grounds": "compound: hema+sūcī",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaśaṅkaram",
+     "gloss": "subjugation-causing",
+     "grounds": "compound: vaśaṃ+kara; purpose of diagram",
+     "morph": "compound"
+    }
+   ],
+   "question": "On what material and with what tool should the subjugation-causing diagram be inscribed?",
+   "premises": [
+    "The diagram causes subjugation",
+    "It should be written on a gold plate or similar material",
+    "A gold needle is the prescribed tool"
+   ],
+   "inference": "One should inscribe the subjugation-causing diagram on a gold plate or the like with a gold needle.",
+   "uncertainties": [],
+   "plain_english": "One should inscribe the subjugation-causing diagram on a gold plate or the like with a gold needle."
+  }
+ ]
+}

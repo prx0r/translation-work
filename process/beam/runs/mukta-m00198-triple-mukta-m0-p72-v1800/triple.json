@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-width",
+     "grounds": "locative indicating the dimension of width",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paṃcabhāgaṃ",
+     "gloss": "five-part",
+     "grounds": "compound specifying a division into five parts",
+     "morph": "compound: pañcan+bhāga; m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing a prescribed measure",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative indicating the dimension of length",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle extending the rule to another dimension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "in-same-way",
+     "grounds": "compound particle indicating identical application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding emphasis or connection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional division must be applied to both the width and the length of the prescribed structure?",
+   "premises": [
+    "The width is assigned a division into five parts.",
+    "The length is included in the same proportional prescription.",
+    "The same rule applies to the length as to the width."
+   ],
+   "inference": "Both the width and the length should be divided into five parts in the same manner.",
+   "uncertainties": [],
+   "plain_english": "In the width there should be a five-part division, and in the length also it should be the same."
+  }
+ ]
+}

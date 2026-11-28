@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "adverbial phrase indicating ritual propriety",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "accusative object of kṛtvā",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of root kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative of root tṛp",
+     "morph": "3.sg.act-opt. + tṛp"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "adverbial phrase indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done immediately after worship has been performed according to rite?",
+   "premises": [
+    "Worship is performed according to rite.",
+    "The worship is completed first.",
+    "Satisfaction follows thereafter."
+   ],
+   "inference": "Ritual satisfaction follows completed rite-compliant worship.",
+   "uncertainties": [
+    "tarpayet object unspecified in this verse",
+    "tadanantaram scope may extend to next rite"
+   ],
+   "plain_english": "Having performed worship according to rite, one should satisfy thereafter."
+  }
+ ]
+}

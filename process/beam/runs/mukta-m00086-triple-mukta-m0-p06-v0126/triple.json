@@ -1,0 +1,1041 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "punas",
+     "gloss": "again",
+     "grounds": "resumes the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāreṇa",
+     "gloss": "with-tārā-seed",
+     "grounds": "instrument for the worship act",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantrajño",
+     "gloss": "mantra-knower",
+     "grounds": "qualified ritual agent",
+     "morph": "mantra+knower (compound); m.nom.sg"
+    },
+    {
+     "surface": "yogapīṭhaṃ",
+     "gloss": "yoga-seat",
+     "grounds": "object of worship",
+     "morph": "yoga+seat (compound); n.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must the mantra-knower perform next upon the yoga-seat?",
+   "premises": [
+    "The ritual sequence continues after prior steps.",
+    "The mantra-knower is the qualified agent.",
+    "The yoga-seat is to be worshipped using the tārā seed."
+   ],
+   "inference": "The mantra-knower should then worship the yoga-seat with the tārā seed.",
+   "uncertainties": [
+    "The specific bīja syllable intended by tāra is not explicitly identified here."
+   ],
+   "plain_english": "Then the knower of mantras should again worship the yoga-seat with the tārā seed."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "yogapīṭhaṃ",
+     "gloss": "yoga-seat",
+     "grounds": "mantra designation target",
+     "morph": "yoga+seat (compound); n.acc.sg"
+    },
+    {
+     "surface": "ṅenamo'ntaṃ",
+     "gloss": "ending-with-ṅe-namaḥ",
+     "grounds": "describes mantra termination; fused form kept as given",
+     "morph": "ṅe+namaḥ+end (compound); m.acc.sg"
+    },
+    {
+     "surface": "pīṭhamantro",
+     "gloss": "seat-mantra",
+     "grounds": "subject identified as the mantra",
+     "morph": "seat+mantra (compound); m.nom.sg"
+    },
+    {
+     "surface": "yam",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "states traditional specification",
+     "morph": "m.nom.sg.past-passive-participle √īr"
+    }
+   ],
+   "question": "How is the mantra for the yoga-seat formally specified in this ritual?",
+   "premises": [
+    "A specific mantra is assigned to the yoga-seat.",
+    "The mantra has a defined terminal form.",
+    "The text declares this as the seat-mantra."
+   ],
+   "inference": "The mantra declared for the yoga-seat is the one ending with ṅe namaḥ.",
+   "uncertainties": [
+    "The full initial portion of the mantra is not stated in this verse."
+   ],
+   "plain_english": "The mantra declared for the yoga-seat is that which ends with ṅe namaḥ."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "kāmeśvarīṃ",
+     "gloss": "kāmeśvarī",
+     "grounds": "goddess invoked for visualization or worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahāprauḍhāṃ",
+     "gloss": "fully-mature",
+     "grounds": "qualifies the goddess's form",
+     "morph": "great+mature (compound); f.acc.sg"
+    },
+    {
+     "surface": "nīlendīvara+sannibhām",
+     "gloss": "resembling-blue-lotus",
+     "grounds": "describes the goddess's complexion",
+     "morph": "blue-lotus+resembling (compound); f.acc.sg"
+    }
+   ],
+   "question": "What visual form of Kāmeśvarī is prescribed for contemplation or worship?",
+   "premises": [
+    "Kāmeśvarī is the deity named.",
+    "She is described as fully mature.",
+    "Her appearance is likened to a blue lotus."
+   ],
+   "inference": "Kāmeśvarī should be contemplated as fully mature and resembling a blue lotus.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate Kāmeśvarī as fully mature and resembling a blue lotus."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "śaktibījena",
+     "gloss": "with-śakti-seed",
+     "grounds": "mantric instrument for invocation",
+     "morph": "śakti+seed (compound); n.ins.sg"
+    },
+    {
+     "surface": "kāmeśīṃ",
+     "gloss": "kāmeśī",
+     "grounds": "goddess addressed or invoked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmeśaṃ",
+     "gloss": "kāmeśa",
+     "grounds": "male deity invoked alongside",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhyamantrataḥ",
+     "gloss": "from-sādhya-mantra",
+     "grounds": "indicates derivation or method from the sādhya mantra",
+     "morph": "sādhya+mantra (compound); (indecl.)"
+    }
+   ],
+   "question": "By what mantric means are Kāmeśī and Kāmeśa to be invoked in this rite?",
+   "premises": [
+    "Kāmeśī and Kāmeśa are both invoked.",
+    "The śakti seed is employed.",
+    "The procedure is linked to the sādhya mantra."
+   ],
+   "inference": "Kāmeśī and Kāmeśa are to be invoked with the śakti seed according to the sādhya mantra.",
+   "uncertainties": [
+    "The exact operational sense of sādhyamantrataḥ is context-dependent."
+   ],
+   "plain_english": "Invoke Kāmeśī and Kāmeśa with the śakti seed, in accordance with the sādhya mantra."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "araṇī+sambhavaṃ",
+     "gloss": "born-from-fire-sticks",
+     "grounds": "describes fire produced by friction",
+     "morph": "fire-sticks+born (compound); m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣiptaṃ",
+     "gloss": "placed",
+     "grounds": "fire set into a vessel",
+     "morph": "m.acc.sg.past-passive-participle √kṣip"
+    },
+    {
+     "surface": "svarṇa+ādi+bhājane",
+     "gloss": "in-gold-etc-vessel",
+     "grounds": "specifies receptacle for the fire",
+     "morph": "gold+etc+vessel (compound); n.loc.sg"
+    }
+   ],
+   "question": "What alternative source and receptacle for the ritual fire are permitted here?",
+   "premises": [
+    "Fire born from fire-sticks is an option.",
+    "The fire may be placed in a vessel.",
+    "A vessel of gold or similar material is specified."
+   ],
+   "inference": "The ritual fire may be that born from fire-sticks and placed in a gold or similar vessel.",
+   "uncertainties": [
+    "The range of materials implied by ādi is not enumerated."
+   ],
+   "plain_english": "Alternatively, one may use fire born from fire-sticks and place it in a vessel of gold or the like."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānītam",
+     "gloss": "brought",
+     "grounds": "fire obtained from elsewhere",
+     "morph": "m.acc.sg.past-passive-participle ā+√nī"
+    },
+    {
+     "surface": "abhitaḥ",
+     "gloss": "nearby",
+     "grounds": "indicates proximity of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.caus.act √sthā"
+    },
+    {
+     "surface": "kāṃsya+bhājane",
+     "gloss": "in-bronze-vessel",
+     "grounds": "alternative receptacle",
+     "morph": "bronze+vessel (compound); n.loc.sg"
+    }
+   ],
+   "question": "What further alternative is allowed for obtaining and placing the ritual fire?",
+   "premises": [
+    "An alternative to the previous option is given.",
+    "Fire may be brought from elsewhere.",
+    "A bronze vessel is specified as the receptacle."
+   ],
+   "inference": "Alternatively, fire brought from nearby should be placed in a bronze vessel.",
+   "uncertainties": [],
+   "plain_english": "Or else, one should place fire brought from nearby in a bronze vessel."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "refers back to the established fire",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samānayet",
+     "gloss": "should-bring-together",
+     "grounds": "instruction to take a portion",
+     "morph": "3.sg.opt.caus.act sam+ā+√nī"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "a-little",
+     "grounds": "indicates a small quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahnibījena",
+     "gloss": "with-fire-seed",
+     "grounds": "mantric accompaniment",
+     "morph": "fire+seed (compound); n.ins.sg"
+    },
+    {
+     "surface": "yājakaḥ",
+     "gloss": "worshipper",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the worshipper take a portion of the ritual fire for use?",
+   "premises": [
+    "A portion is to be taken from the established fire.",
+    "Only a small amount is required.",
+    "The action is accompanied by the fire seed."
+   ],
+   "inference": "The worshipper should take a small portion from that fire using the fire seed.",
+   "uncertainties": [],
+   "plain_english": "From that fire, the worshipper should take a little, using the fire seed."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "purificatory action",
+     "morph": "3.sg.opt.caus.act pra+√ukṣ"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "mantric instrument for sprinkling",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā+vaguṇṭhanaṃ",
+     "gloss": "and-veiling",
+     "grounds": "additional protective act",
+     "morph": "thus+veiling (compound); n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "What purificatory and protective acts must be performed upon the fire?",
+   "premises": [
+    "Sprinkling is prescribed.",
+    "The armor mantra is used for sprinkling.",
+    "A veiling action is also to be performed."
+   ],
+   "inference": "One should sprinkle with the armor mantra and likewise perform the veiling.",
+   "uncertainties": [
+    "The exact ritual form of avaguṇṭhana is not detailed here."
+   ],
+   "plain_english": "One should sprinkle it with the armor mantra and also perform the veiling."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "daśa+dig+bandhanaṃ",
+     "gloss": "ten-direction-binding",
+     "grounds": "protective sealing of directions",
+     "morph": "ten+direction+binding (compound); n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior completed action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "dhenu+mudrāṃ",
+     "gloss": "cow-seal",
+     "grounds": "ritual hand gesture",
+     "morph": "cow+seal (compound); f.acc.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-display",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.caus.act pra+√dṛś"
+    }
+   ],
+   "question": "What protective gesture follows the binding of the ten directions?",
+   "premises": [
+    "The ten directions must first be bound.",
+    "A specific mudrā is prescribed afterward.",
+    "The cow seal is to be displayed."
+   ],
+   "inference": "After binding the ten directions, one should display the cow seal.",
+   "uncertainties": [],
+   "plain_english": "Having performed the binding of the ten directions, one should display the cow seal."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "kūrca+astrābhyām",
+     "gloss": "with-kūrca-and-weapon",
+     "grounds": "mantric instruments for removal",
+     "morph": "kūrca+weapon (compound); n.ins.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nairṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "direction of removal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kravyāda+aṃśaṃ",
+     "gloss": "flesh-eater-portion",
+     "grounds": "inauspicious portion to be discarded",
+     "morph": "flesh-eater+portion (compound); m.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-discard",
+     "grounds": "prescriptive removal",
+     "morph": "3.sg.opt.act pari+√tyaj"
+    }
+   ],
+   "question": "How and where must the inauspicious portion of the fire be discarded?",
+   "premises": [
+    "A portion associated with the flesh-eater is identified.",
+    "The kūrca and weapon mantras are used.",
+    "The southwest direction is specified for disposal."
+   ],
+   "inference": "Using the kūrca and weapon mantras, one should discard the flesh-eater portion in the southwest.",
+   "uncertainties": [
+    "The precise referent of kravyāda-aṃśa in the fire is ritually technical."
+   ],
+   "plain_english": "With the kūrca and weapon mantras, one should discard the portion belonging to the flesh-eater in the southwest."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "śvāsa+mārgeṇa",
+     "gloss": "by-breath-path",
+     "grounds": "method of internal transmission",
+     "morph": "breath+path (compound); m.ins.sg"
+    },
+    {
+     "surface": "manuvit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified ritual agent",
+     "morph": "mantra+knower (compound); m.nom.sg"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "protective mantra used in worship",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.caus.act √arc"
+    }
+   ],
+   "question": "By what method should the mantra-knower proceed to worship the fire next?",
+   "premises": [
+    "The mantra-knower continues the rite.",
+    "The breath path is the prescribed method.",
+    "The armor mantra is employed in worship."
+   ],
+   "inference": "The mantra-knower should then worship by the breath path using the armor mantra.",
+   "uncertainties": [
+    "The exact yogic technique implied by śvāsa-mārga is not specified."
+   ],
+   "plain_english": "Then the knower of mantras should worship by the path of the breath with the armor mantra."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "vital presence to be invoked in the fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṅe+namo'ntaṃ",
+     "gloss": "ending-with-ṅe-namaḥ",
+     "grounds": "mantra form for invocation; fused form kept as given",
+     "morph": "ṅe+namaḥ+end (compound); m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive specification",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental reference to the mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "utthāpayet",
+     "gloss": "should-raise",
+     "grounds": "act of awakening or arousing",
+     "morph": "3.sg.opt.caus.act ud+√sthā"
+    },
+    {
+     "surface": "śucim",
+     "gloss": "pure",
+     "grounds": "qualifies the awakened presence or fire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the pure consciousness of the fire to be awakened ritually?",
+   "premises": [
+    "Consciousness is to be raised in the fire.",
+    "A mantra ending with ṅe namaḥ is specified.",
+    "The awakened presence is described as pure."
+   ],
+   "inference": "With the mantra ending in ṅe namaḥ, one should raise the pure consciousness.",
+   "uncertainties": [],
+   "plain_english": "With the mantra ending in ṅe namaḥ, one should awaken the pure consciousness."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "reference point for orientation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "abhimukhaṃ",
+     "gloss": "facing",
+     "grounds": "directional orientation",
+     "morph": "toward+face (compound); m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior preparatory action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "pūrvokta+maṇḍala+antare",
+     "gloss": "within-previously-stated-circle",
+     "grounds": "location for placement",
+     "morph": "previously-said+circle+within (compound); n.loc.sg"
+    }
+   ],
+   "question": "Where and in what orientation should the fire be placed after awakening?",
+   "premises": [
+    "The fire must be oriented toward oneself.",
+    "Placement occurs within a previously mentioned circle.",
+    "This follows the awakening step."
+   ],
+   "inference": "Having turned it toward oneself, one should place it within the previously stated circle.",
+   "uncertainties": [
+    "The specific maṇḍala referred to depends on earlier context."
+   ],
+   "plain_english": "Having turned it to face oneself, one should place it within the previously mentioned circle."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "sarvajñā",
+     "gloss": "all-knowing",
+     "grounds": "vocative epithet addressed to the fire or deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jñāpaya",
+     "gloss": "make-known",
+     "grounds": "imperative request within mantra",
+     "morph": "2.sg.imp.caus.act √jñā"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation; transliterated as mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "object to be kindled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajvālayet",
+     "gloss": "should-kindle",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.caus.act pra+√jval"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual agent",
+     "morph": "good+intellect (compound); m.nom.sg"
+    }
+   ],
+   "question": "With what mantra-formula should the wise practitioner kindle the ritual fire?",
+   "premises": [
+    "The fire is to be kindled by a wise practitioner.",
+    "A mantra invoking the all-knowing one is given.",
+    "The formula concludes with svāhā."
+   ],
+   "inference": "The wise one should kindle the fire with the formula 'sarvajñā jñāpaya svāhā'.",
+   "uncertainties": [],
+   "plain_english": "The wise one should kindle the fire with the words: 'O all-knowing one, make known, svāhā.'"
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "imām",
+     "gloss": "this",
+     "grounds": "demonstrative pointing to the mudrā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jvālinīṃ",
+     "gloss": "flaming",
+     "grounds": "name or quality of the mudrā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "seal",
+     "grounds": "ritual hand gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.caus.act √dṛś"
+    },
+    {
+     "surface": "sādhaka+uttamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "qualified ritual agent",
+     "morph": "practitioner+best (compound); m.nom.sg"
+    }
+   ],
+   "question": "What specific hand gesture should the best practitioner display while kindling the fire?",
+   "premises": [
+    "A mudrā is to be displayed.",
+    "The mudrā is identified as jvālinī.",
+    "The best practitioner is the agent."
+   ],
+   "inference": "The best practitioner should display this flaming seal.",
+   "uncertainties": [],
+   "plain_english": "And the best practitioner should display this flaming mudrā."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "suvarṇa+varṇam",
+     "gloss": "gold-colored",
+     "grounds": "describes the fire's appearance",
+     "morph": "gold+color (compound); m.acc.sg"
+    },
+    {
+     "surface": "amalaṃ",
+     "gloss": "stainless",
+     "grounds": "qualifies purity of the fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samiddhaṃ",
+     "gloss": "fully-kindled",
+     "grounds": "state of the fire",
+     "morph": "m.acc.sg.past-passive-participle sam+√idh"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "on-all-sides",
+     "grounds": "indicates pervasiveness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukham",
+     "gloss": "facing-everywhere",
+     "grounds": "describes the fire as having faces on all sides",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities should the kindled ritual fire be visualized or recognized as having?",
+   "premises": [
+    "The fire is described as gold-colored and stainless.",
+    "It is fully kindled.",
+    "It is characterized as facing everywhere."
+   ],
+   "inference": "The fire should be regarded as gold-colored, stainless, fully kindled, and facing all sides.",
+   "uncertainties": [],
+   "plain_english": "The fire is gold-colored, stainless, fully blazing, and facing in all directions."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "kāma+bījaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "mantric syllable to be uttered",
+     "morph": "kāma+seed (compound); n.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "prior vocal act",
+     "morph": "absolutive sam+ud+√car"
+    },
+    {
+     "surface": "vahni+mūrtiṃ",
+     "gloss": "fire-form",
+     "grounds": "deity form of fire to be worshipped",
+     "morph": "fire+form (compound); f.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.caus.act sam+√arc"
+    }
+   ],
+   "question": "What mantra and object are central to the worship of the fire's form?",
+   "premises": [
+    "The kāma seed is to be uttered.",
+    "The fire-form is the object of worship.",
+    "Utterance precedes worship."
+   ],
+   "inference": "After uttering the kāma seed, one should worship the form of fire.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the kāma seed, one should worship the form of fire."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "kāmeśvaryāḥ",
+     "gloss": "of-kāmeśvarī",
+     "grounds": "locative reference point in the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "garbha+deśe",
+     "gloss": "in-womb-region",
+     "grounds": "specific locus for meditation",
+     "morph": "womb+region (compound); m.loc.sg"
+    },
+    {
+     "surface": "vahnim",
+     "gloss": "fire",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental reference to prior mantra or method",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-visualize",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.opt.caus.act √bhū"
+    }
+   ],
+   "question": "Where within Kāmeśvarī should the practitioner visualize the ritual fire?",
+   "premises": [
+    "The fire is the object of visualization.",
+    "Kāmeśvarī's womb region is specified as the locus.",
+    "The visualization is done with the stated means."
+   ],
+   "inference": "One should visualize the fire in the womb region of Kāmeśvarī with this means.",
+   "uncertainties": [
+    "The exact referent of anena depends on the immediately preceding context."
+   ],
+   "plain_english": "With this, one should visualize the fire in the womb region of Kāmeśvarī."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "jihvāyām",
+     "gloss": "on-tongue",
+     "grounds": "bodily locus for placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence to be placed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual installation instruction",
+     "morph": "3.sg.opt.act ni+√as"
+    }
+   ],
+   "question": "On which bodily locus is the deity first to be ritually placed?",
+   "premises": [
+    "A deity is to be placed.",
+    "The tongue is specified as the locus.",
+    "The act is a ritual installation."
+   ],
+   "inference": "The deity should be placed on the tongue.",
+   "uncertainties": [
+    "Whether devatā refers to the fire deity or Kāmeśvarī is context-dependent."
+   ],
+   "plain_english": "One should place the deity on the tongue."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "sva+liṅga+guda+mūrdha+āsya+nāsā+netra+aṅgake",
+     "gloss": "on-own-genitals-anus-head-mouth-nose-eye-limb",
+     "grounds": "sequence of bodily loci for placement",
+     "morph": "own+genitals+anus+head+mouth+nose+eye+limb (compound); n.loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "indicates ordered progression",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what ordered bodily locations must the deity placement continue after the tongue?",
+   "premises": [
+    "Multiple bodily loci are listed.",
+    "The placement follows a sequence.",
+    "The loci include genitals, anus, head, mouth, nose, and eyes."
+   ],
+   "inference": "The deity should be placed in sequence on one's genitals, anus, head, mouth, nose, and eyes.",
+   "uncertainties": [
+    "The exact parsing of the final member aṅgake within the compound is slightly ambiguous."
+   ],
+   "plain_english": "Then, in order, on one's genitals, anus, head, mouth, nose, and eyes."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "caturthy+antāḥ",
+     "gloss": "ending-in-fourth",
+     "grounds": "grammatical form of the names or mantras used",
+     "morph": "fourth+ending (compound); f.nom.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgeṣu",
+     "gloss": "in-six-limbs",
+     "grounds": "ritual loci for assignment",
+     "morph": "six+limb (compound); n.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-assign",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.caus.act √yuj"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "indicates sequential application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual agent",
+     "morph": "good+intellect (compound); m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner assign the mantra forms to the six limbs?",
+   "premises": [
+    "The six limbs are the loci of assignment.",
+    "The forms end in the fourth case ending.",
+    "The assignment must proceed in order."
+   ],
+   "inference": "The wise one should assign the forms ending in the fourth case to the six limbs in order.",
+   "uncertainties": [
+    "The specific mantras to be inflected are implied by prior context."
+   ],
+   "plain_english": "The wise one should assign the forms ending in the dative to the six limbs in due order."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "agninā",
+     "gloss": "with-fire",
+     "grounds": "accompanying presence in placement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates all specified loci",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuvit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified ritual agent",
+     "morph": "mantra+knower (compound); m.nom.sg"
+    },
+    {
+     "surface": "jātavedasam",
+     "gloss": "jātavedas",
+     "grounds": "epithet or form of fire deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what manner should the mantra-knower install Jātavedas across all locations?",
+   "premises": [
+    "Jātavedas is to be installed.",
+    "The installation occurs everywhere specified.",
+    "It is done together with fire."
+   ],
+   "inference": "The mantra-knower should install Jātavedas together with fire in all places.",
+   "uncertainties": [
+    "The distinction between agni and jātavedas here may be ritual-technical."
+   ],
+   "plain_english": "The knower of mantras should install Jātavedas together with fire in all those places."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "viśva+mukhaṃ",
+     "gloss": "all-facing",
+     "grounds": "epithet of the deity",
+     "morph": "all+face (compound); m.acc.sg"
+    },
+    {
+     "surface": "deva+mukham",
+     "gloss": "god-facing",
+     "grounds": "epithet of the deity",
+     "morph": "god+face (compound); m.acc.sg"
+    },
+    {
+     "surface": "eṣu+sthāneṣu",
+     "gloss": "in-these-places",
+     "grounds": "specified loci for placement",
+     "morph": "these+place (compound); n.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual installation instruction",
+     "morph": "3.sg.opt.act vi+ni+√as"
+    }
+   ],
+   "question": "Which aspects of the fire deity are to be placed in the specified locations?",
+   "premises": [
+    "The deity is characterized as all-facing and god-facing.",
+    "Specific places have already been indicated.",
+    "Placement is prescribed in those places."
+   ],
+   "inference": "One should place the all-facing, god-facing deity in these places.",
+   "uncertainties": [],
+   "plain_english": "One should place the all-facing, god-facing one in these places."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "vāma+pāyau",
+     "gloss": "left-and-anus",
+     "grounds": "bodily loci named for placement",
+     "morph": "left+anus (compound); m.loc.dual"
+    },
+    {
+     "surface": "tasya+deśe",
+     "gloss": "in-that-region",
+     "grounds": "further specified area",
+     "morph": "that+region (compound); m.loc.sg"
+    },
+    {
+     "surface": "pārśva+aṃśe",
+     "gloss": "in-side-part",
+     "grounds": "additional bodily locus",
+     "morph": "side+part (compound); m.loc.sg"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "indicates sequential placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual installation instruction",
+     "morph": "3.sg.opt.act ni+√as"
+    }
+   ],
+   "question": "What final bodily regions receive sequential placement in this stage of the rite?",
+   "premises": [
+    "Placement continues in sequence.",
+    "The left side and anus region are named.",
+    "The side part in that region is specified."
+   ],
+   "inference": "One should place in order on the left and anus, in that region, and on the side part.",
+   "uncertainties": [
+    "The exact anatomical parsing of vāma+pāyau and tasya+deśe is somewhat compressed."
+   ],
+   "plain_english": "One should place in order on the left side and the anus, in that region, and on the side part."
+  }
+ ]
+}

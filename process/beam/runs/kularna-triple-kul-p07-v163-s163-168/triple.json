@@ -1,0 +1,281 @@
+{
+ "song": "kul-p07",
+ "items": [
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "acirānnātra",
+     "gloss": "soon-not-here",
+     "grounds": "fused sandhi form kept as one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "na+atra fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehastasmāt",
+     "gloss": "doubt-therefore",
+     "grounds": "sandhi fusion kept as one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "causal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula-way",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāśrayet",
+     "gloss": "should-take-refuge",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt.+sam-ā-śri"
+    }
+   ],
+   "question": "Why should one take refuge in Kaula without delay?",
+   "premises": [
+    "doubt does not remain here",
+    "therefore take refuge in Kaula"
+   ],
+   "inference": "one should resort to Kaula immediately",
+   "uncertainties": [
+    "fused sandhi tokens kept unsplit"
+   ],
+   "plain_english": "Soon there is no doubt here; therefore take refuge in Kaula."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "svagṛhe",
+     "gloss": "in-own-house",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "milk-pudding",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "gerund",
+     "morph": "ger.+tyaj"
+    },
+    {
+     "surface": "bhikṣāmaṭati",
+     "gloss": "begs-wanders",
+     "grounds": "fused verb form kept as one token",
+     "morph": "3.sg.act-pres.+bhikṣ+ aṭ"
+    },
+    {
+     "surface": "aṭati",
+     "gloss": "wanders",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres.+aṭ"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Parvati",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What absurd conduct illustrates rejecting Kaula?",
+   "premises": [
+    "abandoning pudding in own house",
+    "begging and wandering instead"
+   ],
+   "inference": "rejecting Kaula is like abandoning available good",
+   "uncertainties": [
+    "token boundary as given"
+   ],
+   "plain_english": "Parvati, abandoning pudding in one's own house, begs and wanders."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "karasthaṃ",
+     "gloss": "in-hand",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ratnam",
+     "gloss": "gem",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-discarded",
+     "grounds": "gerund",
+     "morph": "ger.+utsṛj"
+    },
+    {
+     "surface": "dūrasthaṃ",
+     "gloss": "far-distant",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kācam",
+     "gloss": "glass",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īhate",
+     "gloss": "seeks",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres.+īh"
+    }
+   ],
+   "question": "What folly is compared to rejecting Kaula?",
+   "premises": [
+    "gem is already in hand",
+    "distant glass is sought instead"
+   ],
+   "inference": "rejecting Kaula means discarding present value",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Discarding a gem in hand, one seeks distant glass."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhānyarāśim",
+     "gloss": "grain-heap",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsṛjya",
+     "gloss": "having-discarded",
+     "grounds": "gerund",
+     "morph": "ger.+utsṛj"
+    },
+    {
+     "surface": "pāṃsurāśiṃ",
+     "gloss": "dust-heap",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jighṛkṣati",
+     "gloss": "desires-to-grasp",
+     "grounds": "desiderative verb",
+     "morph": "3.sg.act-pres.+jighṛkṣ"
+    }
+   ],
+   "question": "What further folly is compared to rejecting Kaula?",
+   "premises": [
+    "grain heap is discarded",
+    "dust heap is desired"
+   ],
+   "inference": "rejecting Kaula means choosing worthless over valuable",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He discards a heap of grain and desires to grasp a heap of dust."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "taḍāgādiva",
+     "gloss": "like-from-pond",
+     "grounds": "fused comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛṣṇārtto",
+     "gloss": "thirst-afflicted",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛgatṛṣṇāṃ",
+     "gloss": "mirage",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pradhāvati",
+     "gloss": "runs-toward",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres.+pra-dhāv"
+    }
+   ],
+   "question": "What mirage image illustrates rejecting Kaula?",
+   "premises": [
+    "thirsty person near pond",
+    "runs toward mirage instead"
+   ],
+   "inference": "rejecting Kaula means chasing illusion over reality",
+   "uncertainties": [
+    "fused comparison token"
+   ],
+   "plain_english": "Thirst-afflicted, like one near a pond, he runs toward a mirage."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "śrīkaulād",
+     "gloss": "from-glorious-Kaula",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "anyasamayāstādṛśāḥ",
+     "gloss": "other-systems-such",
+     "grounds": "fused sandhi form kept as one token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tādṛśāḥ",
+     "gloss": "such",
+     "grounds": "demonstrative adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-Kula-nayika",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are other systems judged beside glorious Kaula?",
+   "premises": [
+    "other systems are such",
+    "glorious Kaula is the standard"
+   ],
+   "inference": "other systems are inferior to glorious Kaula",
+   "uncertainties": [
+    "fused sandhi token kept unsplit"
+   ],
+   "plain_english": "Other systems are such compared with glorious Kaula, O Kula-nayika."
+  }
+ ]
+}

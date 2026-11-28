@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4550,
+   "rows": [
+    {
+     "surface": "pañcāśaddhastaparyantaṃ",
+     "gloss": "up-to-fifty-cubit-limit",
+     "grounds": "compound pañcāśat-hasta-paryanta; extent up to fifty cubits",
+     "morph": "compound"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "limit",
+     "grounds": "reiterates the upper boundary of the measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "the prescribed measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "expresses prescribed possibility or rule",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sārvadeśikam",
+     "gloss": "universally-applicable",
+     "grounds": "qualifies the measure as valid for all regions",
+     "morph": "n.nom.sg.nt"
+    }
+   ],
+   "question": "Up to what limit is a shrine measurement considered universally applicable?",
+   "premises": [
+    "A universal shrine requires a prescribed measurement.",
+    "The prescribed extent reaches up to fifty cubits.",
+    "A measure within this extent qualifies as universally applicable."
+   ],
+   "inference": "Therefore a shrine measurement up to fifty cubits is universally applicable.",
+   "uncertainties": [
+    "The repetition of paryantaṃ after pañcāśaddhastaparyantaṃ may be emphatic or textual."
+   ],
+   "plain_english": "The measure for a universal shrine may extend up to a limit of fifty cubits."
+  }
+ ]
+}

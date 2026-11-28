@@ -1,0 +1,30 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "vidhānam+idam+utkṛṣṭaṃ",
+     "gloss": "rite-this-excellent",
+     "grounds": "compound expression: vidhānam (procedure, rite) + idam (this) + utkṛṣṭam (excellent, supreme), describing the prescribed rite",
+     "morph": "compound: vidhāna+n.nom.sg + idam+n.nom.sg + utkṛṣṭa+n.nom.sg"
+    },
+    {
+     "surface": "veda+mantra+samanvitaṃ",
+     "gloss": "veda-mantra-accompanied",
+     "grounds": "compound: veda + mantra + samanvita (endowed with, accompanied by), qualifying the rite",
+     "morph": "compound: veda-mantra-samanvita+n.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize this prescribed rite of Śiva worship?",
+   "premises": [
+    "This rite is declared excellent.",
+    "The rite is accompanied by Vedic mantras."
+   ],
+   "inference": "Therefore, the prescribed rite of Śiva worship is distinguished by its excellence and its accompaniment by Vedic mantras.",
+   "uncertainties": [],
+   "plain_english": "This prescribed rite is excellent and is accompanied by Vedic mantras."
+  }
+ ]
+}

@@ -1,0 +1,927 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 3976,
+   "rows": [
+    {
+     "surface": "manavaḥ",
+     "gloss": "humans",
+     "grounds": "subject of attainment",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "attain-success",
+     "grounds": "main predicate",
+     "morph": "3.pl.pres.pass-ind √sidh"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "asserts certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty is affirmed about human attainment in this place?",
+   "premises": [
+    "Humans attain success here.",
+    "No doubt exists regarding this attainment."
+   ],
+   "inference": "Therefore, success for humans in this place is assured.",
+   "uncertainties": [],
+   "plain_english": "Humans attain success here; there is no doubt."
+  },
+  {
+   "verse": 3977,
+   "rows": [
+    {
+     "surface": "sapāpānām",
+     "gloss": "of-with-sin",
+     "grounds": "qualifies those who go",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gamanaṃ",
+     "gloss": "going",
+     "grounds": "subject of difficulty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "durlabhaṃ",
+     "gloss": "hard-to-obtain",
+     "grounds": "predicate describing access",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "temporal context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Why is access difficult for sinful people in the Kali age?",
+   "premises": [
+    "The context is the Kali age.",
+    "Going is hard to obtain for those with sin."
+   ],
+   "inference": "Therefore, sinful people find access especially difficult in the Kali age.",
+   "uncertainties": [
+    "The destination of 'going' is implied by context rather than stated."
+   ],
+   "plain_english": "In the Kali age, going there is difficult for the sinful."
+  },
+  {
+   "verse": 3978,
+   "rows": [
+    {
+     "surface": "bādhante",
+     "gloss": "they-obstruct",
+     "grounds": "hostile action",
+     "morph": "3.pl.pres.mid-ind √bādh"
+    },
+    {
+     "surface": "vidharmam",
+     "gloss": "false-dharma",
+     "grounds": "object or principle opposed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhakṣayanti",
+     "gloss": "they-devour",
+     "grounds": "destructive action",
+     "morph": "3.pl.pres.act-ind √bhakṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What hostile actions obstruct and devour false dharma?",
+   "premises": [
+    "They obstruct false dharma.",
+    "They also devour."
+   ],
+   "inference": "Therefore, hostile forces both oppose and consume false dharma.",
+   "uncertainties": [
+    "The subject of the verbs is not explicitly named in this verse."
+   ],
+   "plain_english": "They obstruct false dharma and devour it."
+  },
+  {
+   "verse": 3979,
+   "rows": [
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "describes the power's presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmavidyāprakāśikā",
+     "gloss": "brahman-knowledge-revealing",
+     "grounds": "compound describing function",
+     "morph": "f.nom.sg (compound: brahma-vidyā+prakāśikā)"
+    }
+   ],
+   "question": "What function belongs to the established power present there?",
+   "premises": [
+    "A power is established.",
+    "That power reveals knowledge of Brahman."
+   ],
+   "inference": "Therefore, the established power functions to reveal Brahman-knowledge.",
+   "uncertainties": [],
+   "plain_english": "The power established there reveals the knowledge of Brahman."
+  },
+  {
+   "verse": 3980,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhaśuddhakarā",
+     "gloss": "face-purifying-making",
+     "grounds": "compound describing effect",
+     "morph": "f.nom.sg (compound: mukha-śuddhi+karā)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "predicate of evaluation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purifying effect is attributed to this power?",
+   "premises": [
+    "The power is considered to purify the face.",
+    "This is its recognized effect."
+   ],
+   "inference": "Therefore, this power is held to bring purification of the face.",
+   "uncertainties": [
+    "Whether 'face' is literal or symbolic is not specified."
+   ],
+   "plain_english": "This power is considered to purify the face."
+  },
+  {
+   "verse": 3981,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaumārī",
+     "gloss": "kaumari",
+     "grounds": "name or form of the power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jayakāriṇī",
+     "gloss": "victory-causing",
+     "grounds": "compound describing function",
+     "morph": "f.nom.sg (compound: jaya+kāriṇī)"
+    }
+   ],
+   "question": "What victorious function is ascribed to the Kaumari power?",
+   "premises": [
+    "The power is Kaumari.",
+    "Kaumari causes victory."
+   ],
+   "inference": "Therefore, the Kaumari power brings victory.",
+   "uncertainties": [],
+   "plain_english": "The Kaumari power causes victory."
+  },
+  {
+   "verse": 3982,
+   "rows": [
+    {
+     "surface": "vaiṣṇavyā",
+     "gloss": "by-vaishnavi",
+     "grounds": "agent or presiding power",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "avasthitam",
+     "gloss": "situated",
+     "grounds": "describes what is established",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "arisen",
+     "grounds": "describes what has come to be",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indrajāle",
+     "gloss": "in-magic",
+     "grounds": "domain of efficacy",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "susiddhidam",
+     "gloss": "great-success-giving",
+     "grounds": "compound describing result",
+     "morph": "n.nom.sg (compound: su-siddhi+dam)"
+    }
+   ],
+   "question": "What success in magic arises under Vaishnavi's presence?",
+   "premises": [
+    "Something is situated and arisen by Vaishnavi.",
+    "It gives great success in magic."
+   ],
+   "inference": "Therefore, Vaishnavi's presence yields great success in magical practice.",
+   "uncertainties": [],
+   "plain_english": "What is established by Vaishnavi gives great success in magic."
+  },
+  {
+   "verse": 3983,
+   "rows": [
+    {
+     "surface": "vārāhyā",
+     "gloss": "by-varahi",
+     "grounds": "agent or presiding power",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "adhiṣṭhitam",
+     "gloss": "presided-over",
+     "grounds": "describes support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "arisen",
+     "grounds": "describes what has come to be",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatrumardanakārakam",
+     "gloss": "enemy-crushing-causing",
+     "grounds": "compound describing effect",
+     "morph": "n.nom.sg (compound: śatru-mardana+kārakam)"
+    }
+   ],
+   "question": "What enemy-crushing effect arises under Varahi's presiding power?",
+   "premises": [
+    "Something is presided over and arisen by Varahi.",
+    "It causes the crushing of enemies."
+   ],
+   "inference": "Therefore, Varahi's presiding power brings about the defeat of enemies.",
+   "uncertainties": [],
+   "plain_english": "What is presided over by Varahi causes the crushing of enemies."
+  },
+  {
+   "verse": 3984,
+   "rows": [
+    {
+     "surface": "cāmuṇḍā",
+     "gloss": "by-camunda",
+     "grounds": "agent or presiding power",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "adhiṣṭhitam",
+     "gloss": "presided-over",
+     "grounds": "describes support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "arisen",
+     "grounds": "describes what has come to be",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣudradaivatasiddhidam",
+     "gloss": "minor-deity-success-giving",
+     "grounds": "compound describing result",
+     "morph": "n.nom.sg (compound: kṣudra-daivata-siddhi+dam)"
+    }
+   ],
+   "question": "What attainment of minor deities arises under Camunda's presiding power?",
+   "premises": [
+    "Something is presided over and arisen by Camunda.",
+    "It gives success with minor deities."
+   ],
+   "inference": "Therefore, Camunda's presiding power grants attainment related to minor deities.",
+   "uncertainties": [],
+   "plain_english": "What is presided over by Camunda gives success with minor deities."
+  },
+  {
+   "verse": 3985,
+   "rows": [
+    {
+     "surface": "mahālakṣmyā",
+     "gloss": "by-mahalakshmi",
+     "grounds": "agent or presiding power",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sūktānām",
+     "gloss": "of-hymns",
+     "grounds": "object of attainment",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-attainment",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What attainment of hymns is granted there by Mahalakshmi?",
+   "premises": [
+    "Mahalakshmi is the presiding power.",
+    "The context concerns attainment of hymns there."
+   ],
+   "inference": "Therefore, Mahalakshmi grants attainment of hymns in that place.",
+   "uncertainties": [
+    "The main verb is implied rather than explicitly stated."
+   ],
+   "plain_english": "There, by Mahalakshmi, comes the attainment of hymns."
+  },
+  {
+   "verse": 3986,
+   "rows": [
+    {
+     "surface": "tvad",
+     "gloss": "your",
+     "grounds": "possessive element in compound",
+     "morph": "pronoun-stem (compound member)"
+    },
+    {
+     "surface": "bāhu",
+     "gloss": "arm",
+     "grounds": "body part in compound",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "patanāt",
+     "gloss": "from-falling",
+     "grounds": "cause of formation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pīṭhaḥ",
+     "gloss": "seat",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narmadādhiṣṭhitaḥ",
+     "gloss": "narmada-presided",
+     "grounds": "compound describing the seat",
+     "morph": "m.nom.sg (compound: narmadā+adhiṣṭhitaḥ)"
+    },
+    {
+     "surface": "abhavat",
+     "gloss": "became",
+     "grounds": "main predicate",
+     "morph": "3.sg.imperf.act-ind √bhū"
+    }
+   ],
+   "question": "How did the Narmada-presided seat come into being?",
+   "premises": [
+    "A seat became presided over by the Narmada.",
+    "This occurred from the falling of your arm."
+   ],
+   "inference": "Therefore, the Narmada-presided seat originated from the fall of your arm.",
+   "uncertainties": [],
+   "plain_english": "From the falling of your arm, the seat presided over by the Narmada came into being."
+  },
+  {
+   "verse": 3987,
+   "rows": [
+    {
+     "surface": "jātāḥ",
+     "gloss": "born",
+     "grounds": "describes origin or state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jīvanmuktāḥ",
+     "gloss": "living-liberated",
+     "grounds": "compound describing spiritual status",
+     "morph": "m.nom.pl (compound: jīvat+muktāḥ)"
+    },
+    {
+     "surface": "maharṣayaḥ",
+     "gloss": "great-sages",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What spiritual status was attained by the great sages there?",
+   "premises": [
+    "Great sages arose there.",
+    "They were living-liberated."
+   ],
+   "inference": "Therefore, the great sages there attained the state of living liberation.",
+   "uncertainties": [],
+   "plain_english": "Great sages were born there as living-liberated beings."
+  },
+  {
+   "verse": 3988,
+   "rows": [
+    {
+     "surface": "nivāsaḥ",
+     "gloss": "abode",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative qualifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jyotiḥ",
+     "gloss": "luminous",
+     "grounds": "describes the abode",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraprakāśataḥ",
+     "gloss": "from-mantra-revelation",
+     "grounds": "cause of luminosity",
+     "morph": "m.abl.sg (compound: mantra+prakāśataḥ)"
+    }
+   ],
+   "question": "What makes that abode luminous according to this statement?",
+   "premises": [
+    "That abode is luminous.",
+    "Its luminosity comes from the revelation of mantra."
+   ],
+   "inference": "Therefore, the abode shines through the revelation of mantra.",
+   "uncertainties": [],
+   "plain_english": "That abode is luminous through the revelation of mantra."
+  },
+  {
+   "verse": 3989,
+   "rows": [
+    {
+     "surface": "jvālayā",
+     "gloss": "by-flame",
+     "grounds": "instrumental means",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahninā",
+     "gloss": "by-fire",
+     "grounds": "instrumental means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instruments",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "object performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "performed",
+     "grounds": "main predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What austerity was performed there by flame and fire?",
+   "premises": [
+    "Austerity was performed there.",
+    "It was performed by flame and by fire."
+   ],
+   "inference": "Therefore, austerity took place there through flame and fire.",
+   "uncertainties": [],
+   "plain_english": "There, austerity was performed by flame and by fire."
+  },
+  {
+   "verse": 3990,
+   "rows": [
+    {
+     "surface": "jvālāmukhī",
+     "gloss": "jvalamukhi",
+     "grounds": "name given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātam",
+     "gloss": "renowned",
+     "grounds": "predicate of fame",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahniḥ",
+     "gloss": "fire",
+     "grounds": "subject identified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatāmukham",
+     "gloss": "deity-face",
+     "grounds": "compound describing the fire",
+     "morph": "n.nom.sg (compound: devatā+mukham)"
+    }
+   ],
+   "question": "What identity and renown are attributed to that fire?",
+   "premises": [
+    "That fire is renowned as Jvalamukhi.",
+    "It is called the face of the deity."
+   ],
+   "inference": "Therefore, the fire is famed as Jvalamukhi and as the deity's face.",
+   "uncertainties": [],
+   "plain_english": "That fire, renowned as Jvalamukhi, is the face of the deity."
+  },
+  {
+   "verse": 3991,
+   "rows": [
+    {
+     "surface": "prakartavyaḥ",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrasiddhiḥ",
+     "gloss": "mantra-attainment",
+     "grounds": "subject or result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "main predicate",
+     "morph": "3.sg.pres.pass-ind √jan"
+    }
+   ],
+   "question": "What result follows when mantra practice is to be performed?",
+   "premises": [
+    "Practice is to be performed.",
+    "Mantra attainment is produced."
+   ],
+   "inference": "Therefore, performing the practice leads to mantra attainment.",
+   "uncertainties": [
+    "The exact practice to be performed is implied by context."
+   ],
+   "plain_english": "When it is to be performed, mantra attainment is produced."
+  },
+  {
+   "verse": 3992,
+   "rows": [
+    {
+     "surface": "darśanāt",
+     "gloss": "from-seeing",
+     "grounds": "cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tannṝṇām",
+     "gloss": "of-those-people",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvasiddhividhāyakam",
+     "gloss": "all-attainment-effecting",
+     "grounds": "compound describing result",
+     "morph": "n.nom.sg (compound: sarva-siddhi+vidhāyakam)"
+    }
+   ],
+   "question": "What comprehensive attainment comes merely from seeing for those people?",
+   "premises": [
+    "Seeing alone is sufficient.",
+    "It effects all attainments for those people."
+   ],
+   "inference": "Therefore, mere sight brings all attainments to those people.",
+   "uncertainties": [
+    "The object of seeing is implied by context."
+   ],
+   "plain_english": "For those people, merely seeing it brings about all attainments."
+  },
+  {
+   "verse": 3993,
+   "rows": [
+    {
+     "surface": "gandharvaiḥ",
+     "gloss": "by-gandharvas",
+     "grounds": "agents",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "rāgajñānakasañjñitam",
+     "gloss": "passion-knowledge-named",
+     "grounds": "compound describing designation",
+     "morph": "n.nom.sg (compound: rāga-jñānaka+sañjñitam)"
+    }
+   ],
+   "question": "What designation is given by the Gandharvas in this context?",
+   "premises": [
+    "The Gandharvas give a designation.",
+    "It is named as knowledge of passion."
+   ],
+   "inference": "Therefore, the Gandharvas designate it as knowledge of passion.",
+   "uncertainties": [
+    "The thing designated is implied by context rather than stated."
+   ],
+   "plain_english": "By the Gandharvas it is named knowledge of passion."
+  },
+  {
+   "verse": 3994,
+   "rows": [
+    {
+     "surface": "dveṣa",
+     "gloss": "hatred",
+     "grounds": "first member of compound series",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "uccāṭana",
+     "gloss": "driving-away",
+     "grounds": "second member of compound series",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "mṛtyūnām",
+     "gloss": "of-deaths",
+     "grounds": "object domain",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prayogāḥ",
+     "gloss": "rites",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhidāḥ",
+     "gloss": "success-giving",
+     "grounds": "compound describing efficacy",
+     "morph": "m.nom.pl (compound: siddhi+dāḥ)"
+    }
+   ],
+   "question": "What ritual applications for hatred, driving away, and deaths succeed there?",
+   "premises": [
+    "Rites concerning hatred, driving away, and deaths exist there.",
+    "Those rites give success."
+   ],
+   "inference": "Therefore, such ritual applications are effective in that place.",
+   "uncertainties": [],
+   "plain_english": "There, rites for hatred, driving away, and deaths give success."
+  },
+  {
+   "verse": 3995,
+   "rows": [
+    {
+     "surface": "rākṣasaiḥ",
+     "gloss": "by-rakshasas",
+     "grounds": "agents",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "attainment",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devajayābhidhā",
+     "gloss": "deity-victory-named",
+     "grounds": "compound describing designation",
+     "morph": "f.nom.sg (compound: deva-jaya+abhidhā)"
+    }
+   ],
+   "question": "What attainment named victory over deities is achieved there by Rakshasas?",
+   "premises": [
+    "Rakshasas achieve an attainment there.",
+    "That attainment is named victory over deities."
+   ],
+   "inference": "Therefore, Rakshasas gain the attainment called victory over deities there.",
+   "uncertainties": [],
+   "plain_english": "There, by the Rakshasas, is attained the success called victory over the deities."
+  },
+  {
+   "verse": 3996,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahādbhutam",
+     "gloss": "very-wondrous",
+     "grounds": "describes the seat",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What wondrous quality characterizes that seat in its location?",
+   "premises": [
+    "That seat is located there.",
+    "That seat is very wondrous."
+   ],
+   "inference": "Therefore, the seat in that place is characterized as very wondrous.",
+   "uncertainties": [
+    "The clause is descriptive and may depend on surrounding verses for completion."
+   ],
+   "plain_english": "And where that seat is, it is very wondrous."
+  },
+  {
+   "verse": 3997,
+   "rows": [
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivamantraprakāśakam",
+     "gloss": "shiva-mantra-revealing",
+     "grounds": "compound describing function",
+     "morph": "n.nom.sg (compound: śiva-mantra+prakāśakam)"
+    }
+   ],
+   "question": "What revelatory function is attributed to this seat?",
+   "premises": [
+    "The subject is a seat.",
+    "It reveals Shiva-mantras."
+   ],
+   "inference": "Therefore, this seat functions to reveal Shiva-mantras.",
+   "uncertainties": [],
+   "plain_english": "The seat reveals the mantras of Shiva."
+  },
+  {
+   "verse": 3998,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-ganesha",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mantrasiddhikaraṃ",
+     "gloss": "mantra-attainment-causing",
+     "grounds": "compound describing effect",
+     "morph": "n.nom.sg (compound: mantra-siddhi+karaṃ)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "predicate of evaluation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mantra-attainment effect is attributed to that seat of Ganesha?",
+   "premises": [
+    "That is associated with Ganesha.",
+    "It is considered to cause mantra attainment."
+   ],
+   "inference": "Therefore, that seat of Ganesha is held to bring mantra attainment.",
+   "uncertainties": [],
+   "plain_english": "That is considered to bring mantra attainment of Ganesha."
+  },
+  {
+   "verse": 3999,
+   "rows": [
+    {
+     "surface": "samasta",
+     "gloss": "all",
+     "grounds": "qualifies the mantra group",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "viṣṇumantrāṇām",
+     "gloss": "of-vishnu-mantras",
+     "grounds": "object of attainment",
+     "morph": "m.gen.pl (compound: viṣṇu+mantrāṇām)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "attainment",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adūrataḥ",
+     "gloss": "not-far",
+     "grounds": "indicates nearness",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How near is the attainment of all Vishnu-mantras in that place?",
+   "premises": [
+    "The attainment concerns all Vishnu-mantras.",
+    "That attainment is there and not far away."
+   ],
+   "inference": "Therefore, attainment of all Vishnu-mantras is close at hand there.",
+   "uncertainties": [],
+   "plain_english": "There, the attainment of all Vishnu-mantras is not far away."
+  }
+ ]
+}

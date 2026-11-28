@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p184",
+ "items": [
+  {
+   "verse": 4600,
+   "rows": [
+    {
+     "surface": "catuṣpañcakare",
+     "gloss": "in-four-and-five",
+     "grounds": "compound indicating a grouping of four and five; locative sense in context of prescribed arrangement",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "numeral.nom/acc.pl"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "numeral.nom/acc.pl"
+    },
+    {
+     "surface": "saptasu",
+     "gloss": "in-seven",
+     "grounds": "numeral in locative plural indicating a set of seven",
+     "morph": "numeral.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting enumerated items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptakam",
+     "gloss": "sevenfold-group",
+     "grounds": "collective noun denoting a group of seven",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What specific numerical groupings are prescribed within the increasing arrangement?",
+   "premises": [
+    "An increasing arrangement is being prescribed in the preceding context.",
+    "The enumeration includes groupings involving four, five, six, and seven.",
+    "A collective sevenfold group is explicitly named alongside these numbers."
+   ],
+   "inference": "The prescribed increasing arrangement consists of groupings of four-and-five, five, six, seven, and a sevenfold set.",
+   "uncertainties": [
+    "The exact syntactic relation of catuṣpañcakare to the following numerals is context-dependent."
+   ],
+   "plain_english": "In the four-and-five grouping, there are five, six, and in the seven, also a sevenfold group."
+  }
+ ]
+}

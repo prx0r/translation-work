@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "rudra+kanyāḥ",
+     "gloss": "Rudra-daughters",
+     "grounds": "compound; daughters associated with Rudra",
+     "morph": "compound(f.nom.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting additional eligible persons",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pat+dāsyāḥ",
+     "gloss": "female-servants",
+     "grounds": "compound; women in service",
+     "morph": "compound(f.nom.pl)"
+    },
+    {
+     "surface": "tat+ājñā",
+     "gloss": "his-command",
+     "grounds": "compound; the command of that preceptor",
+     "morph": "compound(f.acc.sg)"
+    },
+    {
+     "surface": "pālakāḥ",
+     "gloss": "obeying",
+     "grounds": "those who guard or follow the command",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a requirement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition are Rudra's daughters and female servants included among the eligible?",
+   "premises": [
+    "Rudra's daughters are mentioned as a group.",
+    "Female servants are also mentioned as a group.",
+    "Eligibility is conditioned on obeying his command."
+   ],
+   "inference": "Rudra's daughters and female servants are eligible if they obey his command.",
+   "uncertainties": [
+    "The exact referent of 'his' in 'his-command' depends on the preceding context."
+   ],
+   "plain_english": "And if Rudra's daughters and female servants obey his command, they too are included."
+  }
+ ]
+}

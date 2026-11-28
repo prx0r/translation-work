@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "śvetaśālī",
+     "gloss": "white-rice",
+     "grounds": "compound naming a variety of rice by its white color",
+     "morph": "compound: śveta+śālī, f.nom.sg"
+    },
+    {
+     "surface": "mahāśālī",
+     "gloss": "great-rice",
+     "grounds": "compound naming a large variety of rice",
+     "morph": "compound: mahā+śālī, f.nom.sg"
+    },
+    {
+     "surface": "raktaśālī",
+     "gloss": "red-rice",
+     "grounds": "compound naming a variety of rice by its red color",
+     "morph": "compound: rakta+śālī, f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating inclusion in the same manner as previously stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction adding to the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific rice varieties are included under the previously defined grain-length measurement?",
+   "premises": [
+    "White rice is named as a variety.",
+    "Great rice is named as a variety.",
+    "Red rice is named as a variety.",
+    "These varieties are included in the same manner."
+   ],
+   "inference": "The previously stated measurement applies equally to white rice, great rice, and red rice.",
+   "uncertainties": [
+    "The exact grammatical role of the listed nominatives in relation to the preceding verse is implied by context."
+   ],
+   "plain_english": "White rice, great rice, and red rice are likewise included."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "dvibhujastu",
+     "gloss": "two-armed-but",
+     "grounds": "sandhi fusion of dvibhujaḥ (two-armed) + tu (but/and)",
+     "morph": "dvi-bhuja (compound, m.nom.sg) + tu (indecl.)"
+    },
+    {
+     "surface": "mahāvīryaḥ",
+     "gloss": "great-vigor",
+     "grounds": "bahuvrīhi or karmadhāraya compound describing the figure",
+     "morph": "mahā-vīrya (compound, m.nom.sg)"
+    },
+    {
+     "surface": "tāmrākṣo",
+     "gloss": "copper-eyed",
+     "grounds": "sandhi form of tāmrākṣaḥ (tāmra + akṣa)",
+     "morph": "tāmra-akṣa (compound, m.nom.sg)"
+    },
+    {
+     "surface": "dhūmrasaṃnibhaḥ",
+     "gloss": "smoke-resembling",
+     "grounds": "compound indicating likeness to smoke",
+     "morph": "dhūmra-saṃnibha (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What bodily form and visual characteristics define the appearance of the described figure?",
+   "premises": [
+    "The figure is two-armed.",
+    "The figure possesses great vigor.",
+    "The figure has copper-colored eyes.",
+    "The figure resembles smoke in appearance."
+   ],
+   "inference": "These attributes collectively specify the distinctive iconographic appearance of the figure.",
+   "uncertainties": [
+    "The exact referent among the previously named sages is not explicit within this verse alone."
+   ],
+   "plain_english": "He is two-armed, of great vigor, copper-eyed, and resembling smoke."
+  }
+ ]
+}

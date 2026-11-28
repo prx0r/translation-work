@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p246",
+ "items": [
+  {
+   "verse": 6150,
+   "rows": [
+    {
+     "surface": "madhyapatra",
+     "gloss": "middle-leaf",
+     "grounds": "compound member referring to the central leaf",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatiryadvat",
+     "gloss": "just-as-series",
+     "grounds": "comparative expression formed with yadvat indicating manner",
+     "morph": "compound"
+    },
+    {
+     "surface": "pārśva",
+     "gloss": "side",
+     "grounds": "refers to the lateral position",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "patratatistathā",
+     "gloss": "leaf-series-so",
+     "grounds": "compound with correlative tathā indicating corresponding arrangement",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the side leaf-series arranged in relation to the middle-leaf series?",
+   "premises": [
+    "The middle-leaf has a series arrangement.",
+    "The comparison yadvat establishes a parallel manner.",
+    "The correlative tathā applies that manner to the side."
+   ],
+   "inference": "The side leaf-series is arranged in the same manner as the middle-leaf series.",
+   "uncertainties": [
+    "The exact spatial configuration implied by tatir remains context-dependent."
+   ],
+   "plain_english": "Just as there is a series for the middle leaf, so there is a series of leaves on the side."
+  }
+ ]
+}

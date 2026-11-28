@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p239",
+ "items": [
+  {
+   "verse": 5975,
+   "rows": [
+    {
+     "surface": "vāmabhāge",
+     "gloss": "on-the-left-side",
+     "grounds": "locative of place indicating where the visualization and casting occur",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "vajraśilām",
+     "gloss": "a-vajra-stone",
+     "grounds": "object of visualization, a stone of adamantine nature",
+     "morph": "compound.acc.sg.f"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-visualized",
+     "grounds": "prior contemplative act preceding the casting",
+     "morph": "gerund.(dhyai)"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-the-astra",
+     "grounds": "instrumental of the mantra or weapon used to empower the act",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the means or actions in the ritual sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the expelled impurity mentioned in the preceding verse",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "prescriptive ritual action disposing of the impurity",
+     "morph": "3.sg.opt.act.(kṣip)"
+    }
+   ],
+   "question": "By what visualization and mantra-instrument must the expelled impurity be ritually cast away?",
+   "premises": [
+    "A vajra-stone is to be visualized on the left side.",
+    "The expelled impurity, referred to as that, is the object to be cast.",
+    "The astra serves as the empowering instrument for the casting action."
+   ],
+   "inference": "The practitioner should visualize a vajra-stone on the left side and cast the expelled impurity onto it with the astra.",
+   "uncertainties": [
+    "Whether astreṇa refers specifically to a mantra or to a ritual weapon gesture is not explicit in this verse alone."
+   ],
+   "plain_english": "Having visualized a vajra-stone on the left side, one should cast that expelled impurity there with the astra."
+  }
+ ]
+}

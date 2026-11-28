@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p179",
+ "items": [
+  {
+   "verse": 4475,
+   "rows": [
+    {
+     "surface": "bhavarudra",
+     "gloss": "bhava-rudra",
+     "grounds": "compound name formed from bhava and rudra",
+     "morph": "compound"
+    },
+    {
+     "surface": "samākhyāta",
+     "gloss": "called-designated",
+     "grounds": "past passive participle naming the depicted form",
+     "morph": "ppp.nom.sg.m (sam-ā-√khyā)"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "indicates the universal scope of the function",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "worldly-becoming",
+     "grounds": "first member indicating what is destroyed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśanaḥ",
+     "gloss": "destroyer",
+     "grounds": "agent noun expressing the function of the named form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What name and universal function are attributed to this depicted form?",
+   "premises": [
+    "The depicted form is designated Bhavarudra.",
+    "This form is the destroyer of worldly-becoming.",
+    "This destructive function extends to all beings."
+   ],
+   "inference": "Therefore the depicted form is identified as Bhavarudra, the universal destroyer of worldly-becoming.",
+   "uncertainties": [],
+   "plain_english": "He is called Bhavarudra, the destroyer of worldly existence for all."
+  }
+ ]
+}

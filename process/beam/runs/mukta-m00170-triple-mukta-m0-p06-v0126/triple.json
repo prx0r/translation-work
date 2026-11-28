@@ -1,0 +1,1089 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "saṣaḍaṃśaḥ",
+     "gloss": "with-sixth-part",
+     "grounds": "bahuvrīhi compound indicating addition of a sixth part",
+     "morph": "compound"
+    },
+    {
+     "surface": "sapādasya",
+     "gloss": "with-quarter",
+     "grounds": "bahuvrīhi compound indicating addition of a quarter",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārdho",
+     "gloss": "with-half",
+     "grounds": "compound indicating addition of a half",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "garbhasya",
+     "gloss": "of-sanctum",
+     "grounds": "refers to the inner sanctum or garbha",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vistarāt",
+     "gloss": "from-width",
+     "grounds": "ablative indicating the basis of measurement",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What proportional measures relative to the sanctum width determine the pillar dimension?",
+   "premises": [
+    "The sanctum width provides the base measure.",
+    "Proportions include a sixth part addition.",
+    "Proportions include a quarter and a half addition."
+   ],
+   "inference": "The pillar dimension is calculated from the sanctum width using specified fractional additions.",
+   "uncertainties": [
+    "Exact application of each fractional option is context-dependent."
+   ],
+   "plain_english": "From the width of the sanctum, the measure should be taken with a sixth part, with a quarter, or with a half."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "aṣṭābhiḥ",
+     "gloss": "by-eight",
+     "grounds": "instrumental indicating division into eight parts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ekāṃśā",
+     "gloss": "one-part",
+     "grounds": "one part out of the divided whole",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kumbhastambho",
+     "gloss": "pot-pillar",
+     "grounds": "compound naming the kumbha pillar",
+     "morph": "compound"
+    },
+    {
+     "surface": "'rddhapañcabhiḥ",
+     "gloss": "by-half-of-five",
+     "grounds": "instrumental indicating two and a half parts",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How many parts define the kumbha pillar in the prescribed divisions?",
+   "premises": [
+    "A division into eight parts is specified.",
+    "One part is assigned in one case.",
+    "Two and a half parts are assigned in another case."
+   ],
+   "inference": "The kumbha pillar is measured as one part out of eight or as two and a half parts according to the rule.",
+   "uncertainties": [
+    "The exact referent of the alternative measures is not fully explicit."
+   ],
+   "plain_english": "The kumbha pillar should be one part out of eight, or two and a half parts."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "vyāsārdhena",
+     "gloss": "by-half-diameter",
+     "grounds": "instrumental indicating measure by half the diameter",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "karoṭaṃ",
+     "gloss": "capital",
+     "grounds": "architectural element at the top of the pillar",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "arddha",
+     "gloss": "half",
+     "grounds": "indicates a half measure",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoviṣamā",
+     "gloss": "uneven-slope",
+     "grounds": "compound describing an uneven or sloping form",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrutā",
+     "gloss": "known",
+     "grounds": "past participle indicating traditional designation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measurement and form are prescribed for the pillar capital and its slope?",
+   "premises": [
+    "The capital is measured by half the diameter.",
+    "A half measure is associated with the slope.",
+    "The slope is described as uneven and traditionally known."
+   ],
+   "inference": "The capital should be half the diameter, with a slope recognized as uneven.",
+   "uncertainties": [
+    "The precise construction of yoviṣamā is ambiguous."
+   ],
+   "plain_english": "The capital should be made with half the diameter, and the slope is known as half and uneven."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "tadadhaḥ",
+     "gloss": "below-that",
+     "grounds": "compound indicating position below the previously mentioned element",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañcaratnāni",
+     "gloss": "five-gems",
+     "grounds": "compound referring to five precious substances",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative expressing ritual instruction",
+     "morph": "3.sg.optative-act √sthā-caus"
+    },
+    {
+     "surface": "śilpipūjanāt",
+     "gloss": "after-artisan-worship",
+     "grounds": "ablative indicating sequence after worship of the artisan",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What ritual action must follow artisan worship beneath the specified element?",
+   "premises": [
+    "A location below the previous element is specified.",
+    "Five gems are the objects to be placed.",
+    "The placement follows worship of the artisan."
+   ],
+   "inference": "After worshiping the artisan, one should place five gems below that element.",
+   "uncertainties": [],
+   "plain_english": "Below that, one should place five gems after worshiping the artisan."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "describes circular shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mandārakaṃ",
+     "gloss": "mandāraka",
+     "grounds": "name of an architectural or decorative element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "mṛṇālaṃ",
+     "gloss": "lotus-stalk",
+     "grounds": "decorative element shaped like a lotus stalk",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padmasaṃyutam",
+     "gloss": "joined-with-lotus",
+     "grounds": "compound indicating combination with a lotus",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What shapes and decorative elements should be fashioned together in this component?",
+   "premises": [
+    "A round mandāraka is to be made.",
+    "A lotus stalk element is to be made.",
+    "The lotus stalk is joined with a lotus."
+   ],
+   "inference": "One should make a round mandāraka and a lotus stalk combined with a lotus.",
+   "uncertainties": [
+    "The exact identity of mandāraka is technical."
+   ],
+   "plain_english": "One should make a round mandāraka and a lotus stalk joined with a lotus."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "udumbarasya",
+     "gloss": "of-threshold",
+     "grounds": "refers to the udumbara threshold element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "at-side",
+     "grounds": "locative indicating lateral position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śākhāyāṃ",
+     "gloss": "on-door-jamb",
+     "grounds": "locative referring to the door jamb or branch",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "stalarūpakam",
+     "gloss": "platform-form",
+     "grounds": "compound naming a platform-like form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the platform-form element be placed relative to threshold and jamb?",
+   "premises": [
+    "The side of the udumbara is specified.",
+    "The door jamb is also specified.",
+    "A platform-form element is to be placed there."
+   ],
+   "inference": "The platform-form should be placed at the side of the threshold and on the door jamb.",
+   "uncertainties": [
+    "The precise architectural meaning of stalarūpaka is technical."
+   ],
+   "plain_english": "At the side of the threshold and on the door jamb, one should make a platform-form."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "taddvayaṃ",
+     "gloss": "that-pair",
+     "grounds": "compound referring to two previously mentioned elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇakaṃ",
+     "gloss": "kaṇaka",
+     "grounds": "technical name of an architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pīṭhake",
+     "gloss": "on-pedestal",
+     "grounds": "locative referring to the pedestal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhyabhūmikā",
+     "gloss": "outer-level",
+     "grounds": "compound naming the outer level or story",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the paired elements and outer level arranged on the pedestal?",
+   "premises": [
+    "A pair of elements is identified as kaṇaka.",
+    "The middle position on the pedestal is specified.",
+    "An outer level is mentioned in relation to this arrangement."
+   ],
+   "inference": "That pair forms the kaṇaka in the middle on the pedestal, with the outer level associated.",
+   "uncertainties": [
+    "The syntactic relation of bāhyabhūmikā is somewhat compressed."
+   ],
+   "plain_english": "That pair is the kaṇaka in the middle on the pedestal, and there is the outer level."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "dvāravyāsasama",
+     "gloss": "equal-to-door-width",
+     "grounds": "compound indicating equality with the door width",
+     "morph": "compound"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "refers to longitudinal measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirgamañ",
+     "gloss": "projection",
+     "grounds": "refers to outward projection",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhataḥ",
+     "gloss": "by-half-of-that",
+     "grounds": "ablative indicating half of that measure",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What length and projection measures are set relative to the door width?",
+   "premises": [
+    "The length is equal to the door width.",
+    "The projection is also specified.",
+    "The projection is half of that measure."
+   ],
+   "inference": "The length equals the door width and the projection is half of that.",
+   "uncertainties": [],
+   "plain_english": "The length should be equal to the width of the door, and the projection should be half of that."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "śaṅkhapatrasamāyuktaṃ",
+     "gloss": "endowed-with-conch-leaf",
+     "grounds": "compound describing decoration with conch-leaf motifs",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padmākāraiḥ",
+     "gloss": "with-lotus-forms",
+     "grounds": "instrumental indicating adornment with lotus shapes",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "alaṅkṛtam",
+     "gloss": "adorned",
+     "grounds": "past participle indicating decoration",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What decorative motifs must adorn the described architectural element?",
+   "premises": [
+    "The element is endowed with conch-leaf motifs.",
+    "Lotus forms are used in decoration.",
+    "The element is described as adorned."
+   ],
+   "inference": "The element should be adorned with conch-leaf and lotus-form decorations.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with conch-leaf motifs and adorned with lotus forms."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "ṣoḍaśāṅgulikā",
+     "gloss": "sixteen-finger-units",
+     "grounds": "compound specifying an increase of sixteen aṅgulas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "refers to incremental growth in measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "indeclinable indicating limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastacatuṣṭayam",
+     "gloss": "four-cubits",
+     "grounds": "compound indicating a limit of four cubits",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rate of increase applies up to the four-cubit limit?",
+   "premises": [
+    "An increase of sixteen aṅgulas is prescribed.",
+    "The increase applies up to a specified limit.",
+    "The limit is four cubits."
+   ],
+   "inference": "The increase is sixteen aṅgulas up to four cubits.",
+   "uncertainties": [
+    "The unit basis for applying the increase is implied."
+   ],
+   "plain_english": "The increase is sixteen aṅgulas, up to four cubits."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "dvyaṅgulam",
+     "gloss": "two-finger-units",
+     "grounds": "compound specifying two aṅgulas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atihastañ",
+     "gloss": "per-cubit",
+     "grounds": "compound indicating increment per cubit",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "up-to",
+     "grounds": "indeclinable indicating limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastaśatārdhakam",
+     "gloss": "half-hundred-cubits",
+     "grounds": "compound indicating fifty cubits",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What incremental increase per cubit applies up to fifty cubits?",
+   "premises": [
+    "An increase of two aṅgulas is prescribed.",
+    "The increase is applied per cubit.",
+    "The limit is fifty cubits."
+   ],
+   "inference": "The increase is two aṅgulas per cubit up to fifty cubits.",
+   "uncertainties": [],
+   "plain_english": "And two aṅgulas per cubit, up to fifty cubits."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "daidhyārdhena",
+     "gloss": "by-half-length",
+     "grounds": "instrumental indicating half the length as measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pṛthutve",
+     "gloss": "in-breadth",
+     "grounds": "locative indicating breadth",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "śobhanaṃ",
+     "gloss": "beautiful",
+     "grounds": "describes an auspicious or pleasing measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkalādhikam",
+     "gloss": "greater-by-one-part",
+     "grounds": "compound indicating addition of one part to that measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What breadth proportion relative to length is considered beautiful?",
+   "premises": [
+    "Breadth is measured by half the length.",
+    "An alternative adds one part to that measure.",
+    "The resulting proportion is described as beautiful."
+   ],
+   "inference": "A breadth of half the length, or one part more, is considered beautiful.",
+   "uncertainties": [
+    "The exact size of the added part is context-dependent."
+   ],
+   "plain_english": "In breadth, half the length is beautiful, or that increased by one part."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "sūryāṅgulā",
+     "gloss": "twelve-finger-units",
+     "grounds": "compound using sūrya to denote twelve",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratikaraṃ",
+     "gloss": "per-cubit",
+     "grounds": "indeclinable indicating increment per cubit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "refers to incremental growth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcakarāvadhiḥ",
+     "gloss": "up-to-five-cubits",
+     "grounds": "compound indicating a limit of five cubits",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What increase per cubit is prescribed up to five cubits?",
+   "premises": [
+    "An increase of twelve aṅgulas is prescribed.",
+    "The increase applies per cubit.",
+    "The limit is five cubits."
+   ],
+   "inference": "The increase is twelve aṅgulas per cubit up to five cubits.",
+   "uncertainties": [],
+   "plain_english": "The increase is twelve aṅgulas per cubit, up to five cubits."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "navāntaṃ",
+     "gloss": "up-to-nine",
+     "grounds": "compound indicating a limit of nine",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "yugāṅgulaṃ",
+     "gloss": "four-finger-units",
+     "grounds": "compound using yuga to denote four aṅgulas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "refers to incremental growth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "cubit",
+     "grounds": "unit of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "per",
+     "grounds": "postposition indicating distribution",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What increase per cubit should be applied up to the nine-cubit range?",
+   "premises": [
+    "A limit up to nine is specified.",
+    "An increase of four aṅgulas is prescribed.",
+    "The increase is to be made per cubit."
+   ],
+   "inference": "Up to nine, an increase of four aṅgulas per cubit should be made.",
+   "uncertainties": [
+    "The unit of the nine-limit is implied as cubits."
+   ],
+   "plain_english": "Up to nine, an increase of four aṅgulas should be made per cubit."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "rasahastāntakaṃ",
+     "gloss": "up-to-six-cubits",
+     "grounds": "compound using rasa to denote six cubits as limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "indeclinable indicating extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvatā",
+     "gloss": "by-that-much",
+     "grounds": "instrumental indicating corresponding measure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "refers to incremental growth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive indicating accepted prescription",
+     "morph": "3.sg.present-passive √iṣ"
+    }
+   ],
+   "question": "What increase is desired up to the six-cubit extent?",
+   "premises": [
+    "The extent reaches up to six cubits.",
+    "The increase corresponds to that extent.",
+    "This increase is accepted as desired."
+   ],
+   "inference": "Up to six cubits, an increase of that corresponding measure is desired.",
+   "uncertainties": [
+    "The exact incremental value is carried over from context."
+   ],
+   "plain_english": "As far as up to six cubits, an increase by that much is desired."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "miśrake",
+     "gloss": "in-miśraka",
+     "grounds": "locative referring to the miśraka style",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "latine",
+     "gloss": "in-latina",
+     "grounds": "locative referring to the latina style",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśastaṃ",
+     "gloss": "commended",
+     "grounds": "past participle indicating approval",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgarodbhavam",
+     "gloss": "originating-in-nāgara",
+     "grounds": "compound indicating origin in the nāgara style",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which style origin is commended for miśraka and latina contexts?",
+   "premises": [
+    "The miśraka context is specified.",
+    "The latina context is specified.",
+    "A nāgara origin is commended."
+   ],
+   "inference": "In miśraka and latina contexts, what originates in nāgara is commended.",
+   "uncertainties": [],
+   "plain_english": "In the miśraka and latina styles, what originates in the nāgara style is indeed commended."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "siṃhāvalokane",
+     "gloss": "in-siṃhāvalokana",
+     "grounds": "locative referring to the siṃhāvalokana type",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "refers to the doorway",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nāgara",
+     "grounds": "refers to the nāgara style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śobhanaṃ",
+     "gloss": "beautiful",
+     "grounds": "describes aesthetic approval",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which door style is considered beautiful in the siṃhāvalokana context?",
+   "premises": [
+    "The siṃhāvalokana context is specified.",
+    "The door is the subject.",
+    "The nāgara style is considered beautiful."
+   ],
+   "inference": "In siṃhāvalokana, a nāgara door is considered beautiful.",
+   "uncertainties": [
+    "The exact architectural meaning of siṃhāvalokana is technical."
+   ],
+   "plain_english": "In the siṃhāvalokana, a nāgara door is considered beautiful."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "dhātuje",
+     "gloss": "in-metal",
+     "grounds": "locative referring to something made of metal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ratnaje",
+     "gloss": "in-jewel",
+     "grounds": "locative referring to something made of jewels",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāruje",
+     "gloss": "in-wood",
+     "grounds": "locative referring to something made of wood",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathāruhe",
+     "gloss": "in-chariot",
+     "grounds": "locative referring to a chariot-mounted or chariot form",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which material and structural contexts are enumerated for the prescribed form?",
+   "premises": [
+    "Metal and jewel contexts are listed.",
+    "Wooden contexts are listed.",
+    "A chariot-related context is listed."
+   ],
+   "inference": "The prescription applies in metal, jewel, wood, and chariot contexts.",
+   "uncertainties": [
+    "The precise meaning of rathāruhe is technical."
+   ],
+   "plain_english": "In what is made of metal, of jewels, of wood, and in the chariot form."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "pañcaśakhaṃ",
+     "gloss": "five-branched",
+     "grounds": "compound indicating five door branches",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāvabhaume",
+     "gloss": "for-territory-holder",
+     "grounds": "locative referring to a ruler with territory",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "triśākhaṃ",
+     "gloss": "three-branched",
+     "grounds": "compound indicating three door branches",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇḍaleśvare",
+     "gloss": "for-provincial-lord",
+     "grounds": "locative referring to a lord of a province",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How many door branches are prescribed for different ranks of rulers?",
+   "premises": [
+    "A five-branched door is associated with a territory holder.",
+    "A three-branched door is associated with a provincial lord.",
+    "The prescriptions vary by rank."
+   ],
+   "inference": "A territory holder should have a five-branched door and a provincial lord a three-branched door.",
+   "uncertainties": [],
+   "plain_english": "A five-branched door is for one who holds territory, and a three-branched door for a provincial lord."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "samaśākhaṃ",
+     "gloss": "equal-branched",
+     "grounds": "compound indicating branches of equal measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhūmāya",
+     "gloss": "for-smoke",
+     "grounds": "dative indicating association with smoke category",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śvāna",
+     "gloss": "dog",
+     "grounds": "element in a compound-like sequence naming categories",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rāsabha",
+     "gloss": "donkey",
+     "grounds": "element in a sequence naming categories",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāyase",
+     "gloss": "and-crow",
+     "grounds": "dative indicating association with crow category",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For which inauspicious categories is an equal-branched door prescribed?",
+   "premises": [
+    "An equal-branched door is specified.",
+    "Categories named include smoke, dog, donkey, and crow.",
+    "These categories receive the same door prescription."
+   ],
+   "inference": "An equal-branched door is prescribed for the smoke, dog, donkey, and crow categories.",
+   "uncertainties": [
+    "The technical classification of these categories is traditional."
+   ],
+   "plain_english": "An equal-branched door is for the smoke, dog, donkey, and crow categories."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "hīnaśākhaṃ",
+     "gloss": "fewer-branches",
+     "grounds": "compound indicating a door with fewer branches",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing prohibition when negated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhikārddhaṃ",
+     "gloss": "more-than-half",
+     "grounds": "compound indicating more than half",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sukhāvaham",
+     "gloss": "bringing-happiness",
+     "grounds": "compound describing a beneficial result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What branch configuration is prohibited and what alternative brings happiness?",
+   "premises": [
+    "A door with fewer branches should not be made.",
+    "A configuration more than half is mentioned.",
+    "That alternative is described as bringing happiness."
+   ],
+   "inference": "One should not make a door with fewer branches; more than half is happiness-bringing.",
+   "uncertainties": [
+    "The exact reference point for 'more than half' is contextual."
+   ],
+   "plain_english": "A door with fewer branches should not be made; more than half brings happiness."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "āpaddoṣaviśuddhyarthaṃ",
+     "gloss": "for-purifying-emergency-faults",
+     "grounds": "compound expressing purpose of removing faults in emergency",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hrāso",
+     "gloss": "decrease",
+     "grounds": "refers to reduction in measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "refers to augmentation in measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣyati",
+     "gloss": "is-faulty",
+     "grounds": "present verb indicating fault or defect",
+     "morph": "3.sg.present-act √duṣ"
+    }
+   ],
+   "question": "Under what emergency purpose are decrease or increase not considered faulty?",
+   "premises": [
+    "The purpose is purification of faults in emergency.",
+    "Decrease and increase are possible adjustments.",
+    "Such adjustments are not considered faulty in that case."
+   ],
+   "inference": "For purifying faults in an emergency, decrease or increase is not faulty.",
+   "uncertainties": [],
+   "plain_english": "For the purification of faults in an emergency, decrease or increase is not faulty."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvibhāgikaṃ",
+     "gloss": "of-two-parts",
+     "grounds": "compound indicating division into two parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "stambhaṃ",
+     "gloss": "pillar",
+     "grounds": "architectural support element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puruṣasaṃjñakam",
+     "gloss": "called-puruṣa",
+     "grounds": "compound indicating the designation puruṣa",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What central pillar division and designation are prescribed in this rule?",
+   "premises": [
+    "The middle position is specified.",
+    "The pillar is divided into two parts.",
+    "The pillar is designated as puruṣa."
+   ],
+   "inference": "In the middle, one should make a two-part pillar called puruṣa.",
+   "uncertainties": [],
+   "plain_english": "In the middle, one should make a pillar of two parts called puruṣa."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "nirgame",
+     "gloss": "in-projection",
+     "grounds": "locative referring to outward projection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgena",
+     "gloss": "by-one-part",
+     "grounds": "instrumental indicating measure of one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rūpastambhaḥ",
+     "gloss": "rūpa-pillar",
+     "grounds": "compound naming the rūpa pillar",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-commended",
+     "grounds": "passive indicating approval",
+     "morph": "3.sg.present-passive √śaṃs"
+    }
+   ],
+   "question": "What projection measure is commended for the rūpa pillar?",
+   "premises": [
+    "The projection context is specified.",
+    "A measure of one part is prescribed.",
+    "The rūpa pillar is commended with this measure."
+   ],
+   "inference": "In projection, the rūpa pillar is commended with one part.",
+   "uncertainties": [],
+   "plain_english": "And in projection, the rūpa pillar is commended with one part."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "vyāsa",
+     "grounds": "proper name of a Vedic authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bodhāyanaḥ",
+     "gloss": "bodhāyana",
+     "grounds": "proper name of a Vedic authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed authorities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpastambaḥ",
+     "gloss": "āpastamba",
+     "grounds": "proper name of a Vedic authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed authorities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśvalāyanaḥ",
+     "gloss": "āśvalāyana",
+     "grounds": "proper name of a Vedic authority",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which Vedic authorities are invoked in relation to the classification of ritual fire?",
+   "premises": [
+    "Vyāsa is named as an authority.",
+    "Bodhāyana is named as an authority.",
+    "Āpastamba and Āśvalāyana are also named as authorities."
+   ],
+   "inference": "These named Vedic teachers are cited as authorities relevant to the stated position on ritual fire.",
+   "uncertainties": [
+    "The specific action attributed to these authorities is supplied by the preceding verses."
+   ],
+   "plain_english": "Vyāsa, Bodhāyana, Āpastamba, and indeed Āśvalāyana."
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantraloka-a18",
+ "vol": "tantraloka",
+ "source_file": "../ipvv/site/data/sanskrit/tantraloka.txt",
+ "source_id": "tantraloka-a18-tantraloka-6c84580d946fa3c9",
+ "content_sha256": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "bytes": 781387,
+ "edition": "Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.)",
+ "license": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tal-a18-v01",
+   "start": 545220,
+   "end": 545397,
+   "vol_lines": [
+    12379,
+    12381
+   ],
+   "legacy_coords": null,
+   "text_sha256": "b42b7de70f46ae38f3d0eb2b8a74d02ecce7fbf9ec3477cafa716ab0df25a8e0"
+  },
+  {
+   "passage_id": "tal-a18-v02",
+   "start": 545398,
+   "end": 545525,
+   "vol_lines": [
+    12383,
+    12384
+   ],
+   "legacy_coords": null,
+   "text_sha256": "76ed1adf416993114dbe93d0e888359bad611a7b40cd0fc772f4248eb39b5f13"
+  },
+  {
+   "passage_id": "tal-a18-v03",
+   "start": 545526,
+   "end": 545653,
+   "vol_lines": [
+    12386,
+    12387
+   ],
+   "legacy_coords": null,
+   "text_sha256": "71b548beddcdad5871ec2f2d9dec1c3a9d5305464f7a130829845f4191685dce"
+  },
+  {
+   "passage_id": "tal-a18-v04",
+   "start": 545654,
+   "end": 545789,
+   "vol_lines": [
+    12389,
+    12390
+   ],
+   "legacy_coords": null,
+   "text_sha256": "10ed412b9dd29f507a416717cba20bc50546e7f4e77962e8f4c904dd3f9bdd17"
+  },
+  {
+   "passage_id": "tal-a18-v05",
+   "start": 545790,
+   "end": 545929,
+   "vol_lines": [
+    12392,
+    12393
+   ],
+   "legacy_coords": null,
+   "text_sha256": "76efbf8ebac8c332bf2488eb851559915adbedea9c12ccb5b49ddc7929d7cb56"
+  },
+  {
+   "passage_id": "tal-a18-v06",
+   "start": 545930,
+   "end": 546058,
+   "vol_lines": [
+    12395,
+    12396
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ee1d2e535fa62b600c9c5a5851ed1a281105a857e73ff4b8259025e932a75dc3"
+  },
+  {
+   "passage_id": "tal-a18-v07",
+   "start": 546059,
+   "end": 546194,
+   "vol_lines": [
+    12398,
+    12399
+   ],
+   "legacy_coords": null,
+   "text_sha256": "203c1ddeed75175f0ea6156b53a84dfc806c39b7703613545fde348695d5c984"
+  },
+  {
+   "passage_id": "tal-a18-v08",
+   "start": 546195,
+   "end": 546329,
+   "vol_lines": [
+    12401,
+    12402
+   ],
+   "legacy_coords": null,
+   "text_sha256": "06d05a2dd94dac13251c230d3a0d6fff52f436ead9d939fd2870fb169ede5cd6"
+  },
+  {
+   "passage_id": "tal-a18-v09",
+   "start": 546330,
+   "end": 546470,
+   "vol_lines": [
+    12404,
+    12405
+   ],
+   "legacy_coords": null,
+   "text_sha256": "8ccb91db66b10b11712ad0faba3dd9e0e1cd5fde1028f03c4046fc1e952d0a22"
+  },
+  {
+   "passage_id": "tal-a18-v10",
+   "start": 546471,
+   "end": 546595,
+   "vol_lines": [
+    12407,
+    12408
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ca3326e16ed82e1fbb014925b31a000601476494a338a37e8d86cbf80033f5aa"
+  },
+  {
+   "passage_id": "tal-a18-v11",
+   "start": 546596,
+   "end": 546728,
+   "vol_lines": [
+    12410,
+    12411
+   ],
+   "legacy_coords": null,
+   "text_sha256": "74bc8b529c1b71ce2a6f0d613c428bcae4356e52b612f1eaa02b359fb25a3f4f"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 545220,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.) · CC BY-NC-SA 4.0\n###"
+  },
+  {
+   "start": 546728,
+   "end": 781387,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\n:C19 atha śrītantrāloke ekānnaviṃśamāhnikam\n\natha sadyaḥsamutkrāntipradā dīkṣā "
+  }
+ ],
+ "supersedes": null
+}

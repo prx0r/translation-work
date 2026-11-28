@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "kūrvaṃ",
+     "gloss": "doing",
+     "grounds": "present participle expressing the ongoing ritual act",
+     "morph": "pres.part.acc.sg.n (kṛ)"
+    },
+    {
+     "surface": "sapuṣpaṃ",
+     "gloss": "with-flowers",
+     "grounds": "compound indicating accompaniment by flowers",
+     "morph": "compound: sa+puṣpa (bahuvrīhi).acc.sg.n"
+    },
+    {
+     "surface": "toyābhyāṃ",
+     "gloss": "with-two-waters",
+     "grounds": "denotes the pair of waters used in the act",
+     "morph": "ins.du.n (toya)"
+    },
+    {
+     "surface": "śivamantramanusmaran",
+     "gloss": "recollecting-śiva-mantra",
+     "grounds": "compound participle indicating mental recollection during the act",
+     "morph": "compound: śiva-mantra+anusmarat (tatpuruṣa).nom.sg.m (anu-smṛ)"
+    }
+   ],
+   "question": "What ritual act with flowers and waters must accompany recollection of the Śiva mantra?",
+   "premises": [
+    "The practitioner performs an act expressed as kūrvaṃ.",
+    "This act is performed with flowers and with two waters.",
+    "The act is accompanied by recollection of the Śiva mantra."
+   ],
+   "inference": "The prescribed ritual action is to perform the act with flowers and waters while recollecting the Śiva mantra.",
+   "uncertainties": [
+    "The precise ritual referent of kūrvaṃ in this context is not fully specified."
+   ],
+   "plain_english": "Performing the act with flowers and with the two waters, while recollecting the Śiva mantra."
+  }
+ ]
+}

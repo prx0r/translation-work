@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "anukalpaṃ",
+     "gloss": "alternative",
+     "grounds": "substitute or secondary option in ritual procedure",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive injunction to reject or set aside",
+     "morph": "3.sg.act.opt-√vṛj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking to prior injunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyāṇāṃ",
+     "gloss": "of-materials",
+     "grounds": "ritual substances or resources",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "vibhave",
+     "gloss": "in-abundance",
+     "grounds": "state of wealth or sufficient resources; first member of locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being-present",
+     "grounds": "existing condition; completes locative absolute with vibhave",
+     "morph": "loc.sg.f.pres.part.act-√as"
+    }
+   ],
+   "question": "Under what condition must the substitute ritual option be rejected?",
+   "premises": [
+    "A substitute ritual option is available as an alternative.",
+    "An abundance of materials or resources may be present.",
+    "The substitute must be avoided when such abundance exists."
+   ],
+   "inference": "Therefore the primary prescribed method should be followed whenever sufficient resources are available.",
+   "uncertainties": [
+    "The exact scope of dravyāṇāṃ as materials versus wealth is context-dependent."
+   ],
+   "plain_english": "And one should avoid the substitute when there is an abundance of materials."
+  }
+ ]
+}

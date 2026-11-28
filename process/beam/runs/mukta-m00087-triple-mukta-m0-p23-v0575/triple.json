@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "gajavaktro",
+     "gloss": "elephant-faced",
+     "grounds": "compound gaja+vaktra; sandhi final r becomes ro before m",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mohinī",
+     "gloss": "mohinī",
+     "grounds": "feminine divine name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirañjano",
+     "gloss": "stainless-one",
+     "grounds": "compound nir+añjana; sandhi final a becomes o before ja",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jaṭāyutaḥ",
+     "gloss": "with-matted-hair",
+     "grounds": "compound jaṭā+yuta",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which five divine forms appear in this enumeration?",
+   "premises": [
+    "Verse names five divine forms.",
+    "Forms include elephant-faced and mohinī.",
+    "Final form is stainless with matted hair."
+   ],
+   "inference": "The verse enumerates five named divine forms.",
+   "uncertainties": [
+    "Exact doctrinal role of each form is not stated."
+   ],
+   "plain_english": "Elephant-faced, Mohinī, and the stainless one with matted hair."
+  }
+ ]
+}

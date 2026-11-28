@@ -1,0 +1,1005 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2076,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhārānta+karmāṇi",
+     "gloss": "stream-end-rites",
+     "grounds": "compound denoting concluding ritual acts",
+     "morph": "compound: dhārā+anta+karma (n.acc.pl)"
+    },
+    {
+     "surface": "sampādya",
+     "gloss": "having-accomplished",
+     "grounds": "gerund expressing prior completion",
+     "morph": "gerund (sam-pad)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverb indicating prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "ritual agent performing the acts",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must the father do after properly completing the concluding rites?",
+   "premises": [
+    "The concluding rites have been accomplished.",
+    "The accomplishment follows prescribed rules.",
+    "The father is the acting agent."
+   ],
+   "inference": "After completing the concluding rites according to rule, the father proceeds to the next ritual actions.",
+   "uncertainties": [],
+   "plain_english": "Thus, having properly accomplished the concluding rites according to rule, the father proceeds."
+  },
+  {
+   "verse": 2077,
+   "rows": [
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "ritual fire addressed in the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-addressed",
+     "grounds": "gerund indicating directed invocation",
+     "morph": "gerund (ud-diś)"
+    },
+    {
+     "surface": "prathamāṃ",
+     "gloss": "first",
+     "grounds": "ordinal qualifying an oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvitīyāṃ",
+     "gloss": "second",
+     "grounds": "ordinal qualifying an oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāsavaṃ",
+     "gloss": "Vāsava",
+     "grounds": "deity remembered during offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating mental focus",
+     "morph": "pres.part.m.nom.sg (smṛ)"
+    }
+   ],
+   "question": "Which deities and offerings must the father address while remembering Vāsava?",
+   "premises": [
+    "The fire is to be addressed.",
+    "The first and second offerings are involved.",
+    "Vāsava is remembered during the act."
+   ],
+   "inference": "The father addresses the fire and makes the first and second offerings while remembering Vāsava.",
+   "uncertainties": [
+    "The exact recipients of the first and second offerings are not fully specified in this verse."
+   ],
+   "plain_english": "Addressing the fire and remembering Vāsava, he makes the first and second offerings."
+  },
+  {
+   "verse": 2078,
+   "rows": [
+    {
+     "surface": "brahmāṇam",
+     "gloss": "Brahmā",
+     "grounds": "deity addressed for the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddiśya",
+     "gloss": "having-addressed",
+     "grounds": "gerund indicating directed invocation",
+     "morph": "gerund (sam-ud-diś)"
+    },
+    {
+     "surface": "pañcamīm",
+     "gloss": "fifth",
+     "grounds": "ordinal qualifying the oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āhutim",
+     "gloss": "oblation",
+     "grounds": "ritual offering into fire",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-offer",
+     "grounds": "injunctive prescribing ritual action",
+     "morph": "3.sg.opt.act (tyaj)"
+    }
+   ],
+   "question": "To whom must the fifth oblation be offered in this sequence?",
+   "premises": [
+    "Brahmā is explicitly addressed.",
+    "The oblation is specified as the fifth.",
+    "The act of offering is prescribed."
+   ],
+   "inference": "The fifth oblation should be offered after addressing Brahmā.",
+   "uncertainties": [],
+   "plain_english": "And having addressed Brahmā, he should offer the fifth oblation."
+  },
+  {
+   "verse": 2079,
+   "rows": [
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "directional adverb indicating movement outward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkrāmayet",
+     "gloss": "should-go-out",
+     "grounds": "injunctive prescribing exit from the ritual space",
+     "morph": "3.sg.opt.act (nis-kram)"
+    }
+   ],
+   "question": "What movement is required after completing the prescribed oblations?",
+   "premises": [
+    "An outward direction is specified.",
+    "Going out is prescribed as an action.",
+    "The instruction follows the oblation sequence."
+   ],
+   "inference": "One should go outside after the oblations.",
+   "uncertainties": [
+    "The subject is implied but not explicitly stated in this verse."
+   ],
+   "plain_english": "He should go outside."
+  },
+  {
+   "verse": 2080,
+   "rows": [
+    {
+     "surface": "bālaṃ",
+     "gloss": "child",
+     "grounds": "object of the showing action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sūryaṃ",
+     "gloss": "sun",
+     "grounds": "celestial object to be viewed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirīkṣayet",
+     "gloss": "should-look-at",
+     "grounds": "injunctive prescribing visual attention",
+     "morph": "3.sg.opt.act (nir-īkṣ)"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "injunctive prescribing presentation to the child",
+     "morph": "3.sg.opt.caus.act (dṛś)"
+    }
+   ],
+   "question": "What visual ritual involving the child and the sun must be performed?",
+   "premises": [
+    "The sun is to be looked at.",
+    "The child is to be shown the sun.",
+    "Both actions are prescribed."
+   ],
+   "inference": "One should look at the sun and show it to the child.",
+   "uncertainties": [
+    "The subject performing the actions is implied."
+   ],
+   "plain_english": "He should look at the sun and show it to the child."
+  },
+  {
+   "verse": 2081,
+   "rows": [
+    {
+     "surface": "anna+prāśana+kriyā+vidhim",
+     "gloss": "food-feeding-rite-procedure",
+     "grounds": "compound naming the ritual procedure",
+     "morph": "compound: anna+prāśana+kriyā+vidhi (m.acc.sg)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "verb introducing authoritative instruction",
+     "morph": "3.sg.perf.act (ah/brū)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb indicating continuity with prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityādibhiḥ",
+     "gloss": "with-iti-etcetera",
+     "grounds": "instrumental phrase indicating cited formulaic words",
+     "morph": "compound/phrase: iti+ādi (n.ins.pl)"
+    }
+   ],
+   "question": "How is the procedure for the first feeding rite introduced by the text?",
+   "premises": [
+    "The food-feeding rite procedure is named.",
+    "The text states it as before.",
+    "The instruction is introduced with formulaic words."
+   ],
+   "inference": "The text states the food-feeding rite procedure as before, using words beginning with 'iti' and so on.",
+   "uncertainties": [
+    "The exact quoted formula is abbreviated by 'ityādibhiḥ'."
+   ],
+   "plain_english": "He states the procedure for the first feeding rite as before, with the words 'iti' and so forth."
+  },
+  {
+   "verse": 2082,
+   "rows": [
+    {
+     "surface": "pañca+āhutīḥ",
+     "gloss": "five-oblations",
+     "grounds": "compound specifying number and type of offerings",
+     "morph": "compound: pañca+āhuti (f.acc.pl)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "injunctive prescribing offering",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "iti+apekṣāyām",
+     "gloss": "in-expectation-of-iti",
+     "grounds": "locative phrase indicating contextual expectation of the cited word",
+     "morph": "compound: iti+apekṣā (f.loc.sg)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "verb introducing further instruction",
+     "morph": "3.sg.perf.act (ah/brū)"
+    },
+    {
+     "surface": "agni+ityādi",
+     "gloss": "with-agni-etcetera",
+     "grounds": "compound indicating the beginning of a cited formula",
+     "morph": "compound: agni+iti+ādi (n.nom/acc.sg)"
+    }
+   ],
+   "question": "What instruction clarifies the expectation to offer five oblations in this context?",
+   "premises": [
+    "Five oblations are to be given.",
+    "There is an expectation indicated by 'iti'.",
+    "The text states a formula beginning with 'agni'."
+   ],
+   "inference": "In expectation of that instruction, the text states that five oblations should be given, beginning with 'agni' and so on.",
+   "uncertainties": [
+    "The full formula beginning with 'agni' is abbreviated."
+   ],
+   "plain_english": "In that context, he states: one should give five oblations, beginning with 'agni' and so forth."
+  },
+  {
+   "verse": 2083,
+   "rows": [
+    {
+     "surface": "kroḍe",
+     "gloss": "on-lap",
+     "grounds": "location for placing the child",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "gerund indicating prior placement",
+     "morph": "gerund (ni-dhā)"
+    },
+    {
+     "surface": "tanayaṃ",
+     "gloss": "son",
+     "grounds": "child who is to be fed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāśayet",
+     "gloss": "should-feed",
+     "grounds": "injunctive prescribing feeding",
+     "morph": "3.sg.opt.caus.act (pra-aś)"
+    },
+    {
+     "surface": "pāyasa+amṛtam",
+     "gloss": "milk-rice-nectar",
+     "grounds": "compound naming the food offered",
+     "morph": "compound: pāyasa+amṛta (n.acc.sg)"
+    }
+   ],
+   "question": "How should the child be fed the milk-rice preparation during the rite?",
+   "premises": [
+    "The son is placed on the lap.",
+    "Feeding is prescribed.",
+    "The food is milk-rice nectar."
+   ],
+   "inference": "Having placed the son on the lap, one should feed him the milk-rice nectar.",
+   "uncertainties": [],
+   "plain_english": "Having placed the son on the lap, he should feed him the nectar-like milk-rice."
+  },
+  {
+   "verse": 2084,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anna+vyañjana+ādīnāṃ",
+     "gloss": "of-food-condiments-etcetera",
+     "grounds": "compound indicating various food items",
+     "morph": "compound: anna+vyañjana+ādi (n.gen.pl)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund indicating prior giving",
+     "morph": "gerund (dā)"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "a-little",
+     "grounds": "indefinite quantity of food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-child",
+     "grounds": "possessive relation to the mouth",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "location where food is placed",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What additional feeding action follows the initial offering of milk-rice?",
+   "premises": [
+    "Food, condiments, and other items are involved.",
+    "A small amount is given.",
+    "The food is placed in the child's mouth."
+   ],
+   "inference": "Then, having taken a little of the food, condiments, and so on, one should place it in the child's mouth.",
+   "uncertainties": [],
+   "plain_english": "Then, having given a little of the food, condiments, and so forth, he should place it in the child's mouth."
+  },
+  {
+   "verse": 2085,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking conclusion of prior topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anna+prāśanaṃ",
+     "gloss": "food-feeding",
+     "grounds": "compound naming the completed rite",
+     "morph": "compound: anna+prāśana (n.nom.sg)"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "past participle indicating completion of exposition",
+     "morph": "n.nom.sg.past.pass.part (pra-vac)"
+    },
+    {
+     "surface": "cūḍā+vidhim",
+     "gloss": "tonsure-procedure",
+     "grounds": "compound naming the next ritual procedure",
+     "morph": "compound: cūḍā+vidhi (m.acc.sg)"
+    },
+    {
+     "surface": "atas",
+     "gloss": "now",
+     "grounds": "adverb marking transition to next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act (śru)"
+    }
+   ],
+   "question": "What ritual procedure is introduced after concluding the food-feeding rite?",
+   "premises": [
+    "The food-feeding rite is declared complete.",
+    "A transition to a new topic is made.",
+    "The tonsure procedure is named."
+   ],
+   "inference": "After declaring the food-feeding rite, the text introduces the tonsure procedure.",
+   "uncertainties": [],
+   "plain_english": "Thus the first feeding rite has been declared; now hear the procedure for the tonsure."
+  },
+  {
+   "verse": 2086,
+   "rows": [
+    {
+     "surface": "cūḍā+karma",
+     "gloss": "tonsure-rite",
+     "grounds": "compound naming the ritual act",
+     "morph": "compound: cūḍā+karma (n.acc.sg)"
+    },
+    {
+     "surface": "śiśoḥ",
+     "gloss": "of-child",
+     "grounds": "beneficiary of the rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunctive prescribing the rite",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "bāla+saṃskāra+siddhaye",
+     "gloss": "child-consecration-accomplishment",
+     "grounds": "compound expressing purpose of the rite",
+     "morph": "compound: bāla+saṃskāra+siddhi (f.dat.sg)"
+    }
+   ],
+   "question": "For what purpose should the child's tonsure rite be performed?",
+   "premises": [
+    "The tonsure rite is prescribed.",
+    "The rite concerns the child.",
+    "Its purpose is the accomplishment of the child's consecration."
+   ],
+   "inference": "The tonsure rite of the child should be performed for the accomplishment of the child's consecration.",
+   "uncertainties": [],
+   "plain_english": "One should perform the child's tonsure rite for the accomplishment of the child's consecration."
+  },
+  {
+   "verse": 2087,
+   "rows": [
+    {
+     "surface": "satya+agneḥ",
+     "gloss": "of-established-fire",
+     "grounds": "compound referring to the installed ritual fire",
+     "morph": "compound: satya+agni (m.gen.sg)"
+    },
+    {
+     "surface": "uttare+deśe",
+     "gloss": "in-northern-place",
+     "grounds": "compound indicating ritual location",
+     "morph": "compound: uttara+deśa (m.loc.sg)"
+    },
+    {
+     "surface": "vṛṣa+gomaya+pūritam",
+     "gloss": "with-bull-cow-dung-filled",
+     "grounds": "compound describing prepared material or area",
+     "morph": "compound: vṛṣa+gomaya+pūrita (n.acc.sg)"
+    }
+   ],
+   "question": "Where and with what preparation should materials be arranged for the tonsure rite?",
+   "premises": [
+    "The location is north of the established fire.",
+    "Something is filled with bull's cow-dung.",
+    "The preparation is specified for the ritual setting."
+   ],
+   "inference": "To the north of the established fire, a place or vessel filled with bull's cow-dung should be prepared.",
+   "uncertainties": [
+    "The exact object filled with cow-dung is not explicitly named."
+   ],
+   "plain_english": "To the north of the established fire, there should be something filled with bull's cow-dung."
+  },
+  {
+   "verse": 2088,
+   "rows": [
+    {
+     "surface": "kavoṣṇaṃ",
+     "gloss": "lukewarm",
+     "grounds": "quality of the water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "salilaṃ",
+     "gloss": "water",
+     "grounds": "ritual material to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣuram",
+     "gloss": "razor",
+     "grounds": "instrument for cutting hair",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying quantity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suśāṇitam",
+     "gloss": "well-sharpened",
+     "grounds": "quality of the razor",
+     "morph": "m.acc.sg.past.pass.part (su-śā/śo)"
+    }
+   ],
+   "question": "What materials must be prepared alongside the ritual setup for tonsure?",
+   "premises": [
+    "Lukewarm water is required.",
+    "A razor is required.",
+    "The razor must be one and well-sharpened."
+   ],
+   "inference": "Lukewarm water and one well-sharpened razor must be prepared.",
+   "uncertainties": [],
+   "plain_english": "There should also be lukewarm water and one well-sharpened razor."
+  },
+  {
+   "verse": 2089,
+   "rows": [
+    {
+     "surface": "prāśayet",
+     "gloss": "should-feed",
+     "grounds": "injunctive prescribing feeding",
+     "morph": "3.sg.opt.caus.act (pra-aś)"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "should-feed",
+     "grounds": "injunctive prescribing feeding or giving food",
+     "morph": "3.sg.opt.caus.act (bhuj)"
+    }
+   ],
+   "question": "What feeding actions are prescribed at this stage of the ritual?",
+   "premises": [
+    "One verb prescribes feeding.",
+    "Another verb also prescribes feeding.",
+    "Both actions are enjoined."
+   ],
+   "inference": "The child should be fed according to the prescribed actions.",
+   "uncertainties": [
+    "The distinction between the two feeding verbs is not specified in this verse."
+   ],
+   "plain_english": "He should feed him."
+  },
+  {
+   "verse": 2090,
+   "rows": [
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "injunctive prescribing conclusion of the act",
+     "morph": "3.sg.opt.caus.act (sam-āp)"
+    }
+   ],
+   "question": "What concluding action is required for the current ritual stage?",
+   "premises": [
+    "Completion is prescribed.",
+    "The action is causative in form.",
+    "It follows prior ritual steps."
+   ],
+   "inference": "The current ritual stage should be brought to completion.",
+   "uncertainties": [
+    "The specific object to be completed is implied from context."
+   ],
+   "plain_english": "He should complete it."
+  },
+  {
+   "verse": 2091,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "gerund indicating prior placement",
+     "morph": "gerund (sam-sthā)"
+    },
+    {
+     "surface": "jananī+kroḍe",
+     "gloss": "on-mother-lap",
+     "grounds": "compound indicating location for the child",
+     "morph": "compound: jananī+kroḍa (m.loc.sg)"
+    },
+    {
+     "surface": "kavoṣṇa+salilaiḥ",
+     "gloss": "with-lukewarm-waters",
+     "grounds": "compound indicating instrument used",
+     "morph": "compound: kavoṣṇa+salila (n.ins.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-those",
+     "grounds": "demonstrative referring to the prepared waters",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the child be positioned and prepared before the hair-cutting step?",
+   "premises": [
+    "The child is placed on the mother's lap.",
+    "Lukewarm waters are used.",
+    "Those same waters are referred to again."
+   ],
+   "inference": "Having placed the child on the mother's lap, one should use those lukewarm waters in preparation.",
+   "uncertainties": [],
+   "plain_english": "Having placed him on the mother's lap, he should use those lukewarm waters."
+  },
+  {
+   "verse": 2092,
+   "rows": [
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "instrumental indicating ritual power or formula; technical term retained by function",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kuśa+patrābhyāṃ",
+     "gloss": "with-kuśa-leaves",
+     "grounds": "compound indicating ritual implements",
+     "morph": "compound: kuśa+patra (n.ins.du)"
+    },
+    {
+     "surface": "juṣṭim",
+     "gloss": "tuft",
+     "grounds": "lock of hair to be prepared",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ekāṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying a single tuft",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "injunctive prescribing preparation",
+     "morph": "3.sg.opt.caus.act (pra-kḷp)"
+    }
+   ],
+   "question": "How should a single tuft of hair be ritually prepared for cutting?",
+   "premises": [
+    "Māyā is involved as an instrument.",
+    "Two kuśa leaves are used.",
+    "One tuft is to be prepared."
+   ],
+   "inference": "Using māyā and two kuśa leaves, one should prepare a single tuft.",
+   "uncertainties": [
+    "The precise ritual function of 'māyayā' here is context-dependent."
+   ],
+   "plain_english": "With māyā and two kuśa leaves, he should prepare one tuft of hair."
+  },
+  {
+   "verse": 2093,
+   "rows": [
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut",
+     "grounds": "gerund indicating prior cutting",
+     "morph": "gerund (chid)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juṣṭikā+mūlaṃ",
+     "gloss": "tuft-root",
+     "grounds": "compound indicating the base of the tuft",
+     "morph": "compound: juṣṭikā+mūla (n.acc.sg)"
+    },
+    {
+     "surface": "mātṛ+haste",
+     "gloss": "in-mother-hand",
+     "grounds": "compound indicating where the cut tuft is placed",
+     "morph": "compound: mātṛ+hasta (m.loc.sg)"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "injunctive prescribing placement",
+     "morph": "3.sg.opt.caus.act (ni-viś)"
+    }
+   ],
+   "question": "What should be done with the tuft's root after it is cut?",
+   "premises": [
+    "The tuft root is cut.",
+    "The mother's hand is specified as the location.",
+    "Placement is prescribed."
+   ],
+   "inference": "After cutting the tuft at its root, one should place it in the mother's hand.",
+   "uncertainties": [],
+   "plain_english": "Having cut the root of the tuft, he should place it in the mother's hand."
+  },
+  {
+   "verse": 2094,
+   "rows": [
+    {
+     "surface": "śarāve",
+     "gloss": "in-dish",
+     "grounds": "location for placing the tuft",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "injunctive prescribing placement",
+     "morph": "3.sg.opt.caus.act (sthā)"
+    },
+    {
+     "surface": "juṣṭiṃ",
+     "gloss": "tuft",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nāpitāya",
+     "gloss": "to-barber",
+     "grounds": "recipient of instruction",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "speaker giving instruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "injunctive prescribing speech",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "What instructions must the father give regarding the cut tuft and the barber?",
+   "premises": [
+    "The tuft is to be placed in a dish.",
+    "The barber is addressed.",
+    "The father is the one who should speak."
+   ],
+   "inference": "The father should place the tuft in a dish and give instructions to the barber.",
+   "uncertainties": [
+    "The exact words spoken to the barber are not specified."
+   ],
+   "plain_english": "He should place the tuft in a dish, and the father should speak to the barber."
+  },
+  {
+   "verse": 2095,
+   "rows": [
+    {
+     "surface": "prajāpatiṃ",
+     "gloss": "Prajāpati",
+     "grounds": "deity addressed for the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddiśya",
+     "gloss": "having-addressed",
+     "grounds": "gerund indicating directed invocation",
+     "morph": "gerund (sam-ud-diś)"
+    },
+    {
+     "surface": "pradadyāt",
+     "gloss": "should-offer",
+     "grounds": "injunctive prescribing offering",
+     "morph": "3.sg.opt.act (pra-dā)"
+    },
+    {
+     "surface": "āhuti+trayam",
+     "gloss": "oblation-triad",
+     "grounds": "compound specifying three oblations",
+     "morph": "compound: āhuti+traya (n.acc.sg)"
+    }
+   ],
+   "question": "What offering must be made to Prajāpati during the tonsure sequence?",
+   "premises": [
+    "Prajāpati is addressed.",
+    "A triad of oblations is specified.",
+    "The offering is prescribed."
+   ],
+   "inference": "Having addressed Prajāpati, one should offer a triad of oblations.",
+   "uncertainties": [],
+   "plain_english": "Having addressed Prajāpati, he should offer three oblations."
+  },
+  {
+   "verse": 2096,
+   "rows": [
+    {
+     "surface": "bījena",
+     "gloss": "with-bīja",
+     "grounds": "instrumental indicating a seed-mantra; bīja retained by function",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuśa+patrābhyām",
+     "gloss": "with-kuśa-leaves",
+     "grounds": "compound indicating ritual implements",
+     "morph": "compound: kuśa+patra (n.ins.du)"
+    },
+    {
+     "surface": "ekāṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying a single tuft",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "juṣṭiṃ",
+     "gloss": "tuft",
+     "grounds": "lock of hair to be prepared",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "injunctive prescribing preparation",
+     "morph": "3.sg.opt.caus.act (pra-kḷp)"
+    }
+   ],
+   "question": "How should another tuft be prepared using a bīja and kuśa leaves?",
+   "premises": [
+    "A bīja is used as an instrument.",
+    "Two kuśa leaves are used.",
+    "One tuft is to be prepared."
+   ],
+   "inference": "Using a bīja and two kuśa leaves, one should prepare one tuft.",
+   "uncertainties": [
+    "The specific bīja syllable is not stated in this verse."
+   ],
+   "plain_english": "With a bīja and two kuśa leaves, he should prepare one tuft."
+  },
+  {
+   "verse": 2097,
+   "rows": [
+    {
+     "surface": "chittvā",
+     "gloss": "having-cut",
+     "grounds": "gerund indicating prior cutting",
+     "morph": "gerund (chid)"
+    },
+    {
+     "surface": "mātṛ+haste",
+     "gloss": "in-mother-hand",
+     "grounds": "compound indicating where the tuft is placed",
+     "morph": "compound: mātṛ+hasta (m.loc.sg)"
+    },
+    {
+     "surface": "juṣṭikāṃ",
+     "gloss": "tuft",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "injunctive prescribing placement",
+     "morph": "3.sg.opt.caus.act (ni-viś)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "injunctive prescribing placement or setting down",
+     "morph": "3.sg.opt.caus.act (sthā)"
+    }
+   ],
+   "question": "What actions must follow the cutting of the next tuft of hair?",
+   "premises": [
+    "The tuft is cut.",
+    "The mother's hand is specified.",
+    "Placement actions are prescribed."
+   ],
+   "inference": "After cutting the tuft, one should place it in the mother's hand and set it down as prescribed.",
+   "uncertainties": [
+    "The distinction between the two placement verbs is not fully specified."
+   ],
+   "plain_english": "Having cut the tuft, he should place it in the mother's hand and set it down."
+  },
+  {
+   "verse": 2098,
+   "rows": [
+    {
+     "surface": "śiśu+janakaḥ",
+     "gloss": "child-father",
+     "grounds": "compound identifying the father of the child as speaker",
+     "morph": "compound: śiśu+janaka (m.nom.sg)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "injunctive prescribing speech",
+     "morph": "3.sg.opt.act (vad)"
+    }
+   ],
+   "question": "Who is responsible for speaking at this point in the tonsure rite?",
+   "premises": [
+    "The child's father is identified.",
+    "Speaking is prescribed.",
+    "The instruction follows prior ritual actions."
+   ],
+   "inference": "The child's father should speak at this stage.",
+   "uncertainties": [
+    "The content of what he should say is not specified in this verse."
+   ],
+   "plain_english": "The child's father should speak."
+  },
+  {
+   "verse": 2099,
+   "rows": [
+    {
+     "surface": "vastra+alaṅkāra+mālyena",
+     "gloss": "with-garment-ornament-garland",
+     "grounds": "compound listing items used for adornment",
+     "morph": "compound: vastra+alaṅkāra+mālya (n.ins.sg)"
+    },
+    {
+     "surface": "bhūṣayitvā",
+     "gloss": "having-adorned",
+     "grounds": "gerund indicating prior adornment",
+     "morph": "gerund (bhūṣ)"
+    },
+    {
+     "surface": "agni+sannidhau",
+     "gloss": "in-fire-presence",
+     "grounds": "compound indicating location near the fire",
+     "morph": "compound: agni+sannidhi (m.loc.sg)"
+    }
+   ],
+   "question": "How and where should the child be adorned at the conclusion of this stage?",
+   "premises": [
+    "Garments, ornaments, and garlands are used.",
+    "Adornment is performed.",
+    "The location is in the presence of the fire."
+   ],
+   "inference": "Having adorned the child with garments, ornaments, and garlands, this is done in the presence of the fire.",
+   "uncertainties": [
+    "The main verb completing the action is implied from context."
+   ],
+   "plain_english": "Having adorned him with garments, ornaments, and garlands in the presence of the fire."
+  }
+ ]
+}

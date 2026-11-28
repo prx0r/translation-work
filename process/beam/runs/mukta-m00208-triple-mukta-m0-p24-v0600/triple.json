@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "pādodakaṃ",
+     "gloss": "foot-water",
+     "grounds": "compound of pāda (foot) and udaka (water); object taken in the ritual sequence",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing prior action before bowing",
+     "morph": "gerund (grah)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking actions in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskuryāt",
+     "gloss": "one-should-bow",
+     "grounds": "prescriptive optative indicating the required ritual act",
+     "morph": "3.sg.opt.act (namas-kṛ)"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "immediately-after",
+     "grounds": "adverb specifying that obeisance follows without delay",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must immediately follow taking the foot-water?",
+   "premises": [
+    "The worshipper takes the foot-water.",
+    "A prescribed action follows the taking of foot-water.",
+    "The prescribed action is to offer obeisance immediately."
+   ],
+   "inference": "Therefore, after taking the foot-water, the worshipper should immediately offer obeisance.",
+   "uncertainties": [
+    "The specific ritual status of pādodaka in this context is inferred from the sequence rather than explicitly defined in this verse."
+   ],
+   "plain_english": "Having taken the foot-water, one should then immediately offer obeisance."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "aparaṃ",
+     "gloss": "another",
+     "grounds": "apara in accusative singular neuter modifying ṣaṣṭhamaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ṣaṣṭhamaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal ṣaṣṭha with accusative singular neuter ending -maṃ",
+     "morph": "ord.acc.sg.n"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "o-child",
+     "grounds": "vocative address to the disciple",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "vesaram",
+     "gloss": "vesara",
+     "grounds": "temple style named Vesara in accusative singular neuter",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "most-excellent",
+     "grounds": "superlative uttama with accusative singular neuter ending -ṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative third singular active of root bhū",
+     "morph": "3.sg.act-opt.√bhū"
+    }
+   ],
+   "question": "Which temple style is declared the most excellent among the sixth category?",
+   "premises": [
+    "Vesara is named as another sixth.",
+    "Vesara is called most excellent.",
+    "The verse addresses a disciple as child."
+   ],
+   "inference": "Vesara is the most excellent sixth temple style.",
+   "uncertainties": [
+    "The exact referent of 'another sixth' is not specified in this verse."
+   ],
+   "plain_english": "Another sixth, O child, Vesara should be most excellent."
+  }
+ ]
+}

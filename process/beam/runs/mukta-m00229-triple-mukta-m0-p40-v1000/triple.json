@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "verb syāt from as, third singular present active",
+     "morph": "3.sg.act-pres root-as"
+    },
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive singular of sarva, all",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nivedyaṃ",
+     "gloss": "offering",
+     "grounds": "accusative singular of nivedya, to-be-offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prītidāyakam",
+     "gloss": "pleasure-giving",
+     "grounds": "accusative singular adjective prītidāyaka, pleasure-giving",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What offering, when presented to all, becomes pleasure-giving?",
+   "premises": [
+    "offering is presented to all",
+    "offering becomes pleasure-giving"
+   ],
+   "inference": "The verse states that an offering made to all is pleasure-giving.",
+   "uncertainties": [
+    "exact ritual referent of all is not specified in this verse"
+   ],
+   "plain_english": "It becomes an offering to all, pleasure-giving."
+  }
+ ]
+}

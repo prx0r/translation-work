@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagāma",
+     "gloss": "went",
+     "grounds": "perfect active form of gam, third singular",
+     "morph": "3.sg.act-perf + root gam"
+    },
+    {
+     "surface": "kāmākhyā",
+     "gloss": "Kāmākhyā",
+     "grounds": "goddess name in nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yonimaṇḍalasannidhim",
+     "gloss": "yoni-circle-nearness",
+     "grounds": "accusative singular of sannidhi in compound with yoni and maṇḍala",
+     "morph": "acc.sg.n; compound: yoni+maṇḍala+sannidhi"
+    }
+   ],
+   "question": "Where did Kāmākhyā go after rejecting the offered vidyā?",
+   "premises": [
+    "Kāmākhyā rejected the offered vidyā.",
+    "She went again to the yoni-circle.",
+    "The verse records her movement."
+   ],
+   "inference": "Kāmākhyā's return to the yoni-circle follows her rejection.",
+   "uncertainties": [
+    "The exact ritual significance of the yoni-circle is not specified."
+   ],
+   "plain_english": "Kāmākhyā went again to the yoni-circle."
+  }
+ ]
+}

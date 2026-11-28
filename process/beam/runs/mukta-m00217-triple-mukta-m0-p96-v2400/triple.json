@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "vyajanaṃ",
+     "gloss": "fan",
+     "grounds": "ritual implement listed for placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mukuraṃ",
+     "gloss": "mirror",
+     "grounds": "ritual implement listed for placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "ritual implement listed for placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāmaraṃ",
+     "gloss": "chowrie",
+     "grounds": "ritual implement listed for placement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locative plural of direction",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "mantra-knower",
+     "grounds": "agent performing the placement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which implements are arranged in the directions by the mantra-knower?",
+   "premises": [
+    "mantra-knower arranges ritual implements",
+    "implements include fan mirror umbrella chowrie",
+    "placement occurs in directions"
+   ],
+   "inference": "The verse names four implements placed in the directions by the mantra-knower.",
+   "uncertainties": [
+    "exact ritual context is not specified by this verse alone"
+   ],
+   "plain_english": "The mantra-knower places the fan, mirror, umbrella, and chowrie in the directions."
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 926,
+   "rows": [
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "weapon held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vajraṃdharaṃ",
+     "gloss": "vajra-holder",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "savye",
+     "gloss": "left",
+     "grounds": "side",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "varābhayakam",
+     "gloss": "varada-abhaya",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anyake",
+     "gloss": "other",
+     "grounds": "side",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What weapons and gestures are held on the left and other sides of this form?",
+   "premises": [
+    "trident and vajra are held",
+    "left side is named",
+    "varada and abhaya are named"
+   ],
+   "inference": "The form's iconography is specified by side and attribute.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "The trident and vajra-holder stands with varada and abhaya on the left and other sides."
+  },
+  {
+   "verse": 927,
+   "rows": [
+    {
+     "surface": "jāyayā",
+     "gloss": "with-consort",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vāmapārśve",
+     "gloss": "left-side",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kalyāṇotsavavigraham",
+     "gloss": "auspicious-festival-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where does the consort stand beside this auspicious festival form?",
+   "premises": [
+    "consort is instrumental",
+    "left side is named",
+    "festival form is object"
+   ],
+   "inference": "The consort accompanies the form on its left side.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "With consort on the left side stands the auspicious festival form."
+  },
+  {
+   "verse": 928,
+   "rows": [
+    {
+     "surface": "pādāṃbujaṃ",
+     "gloss": "lotus-feet",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdidhyāttvā",
+     "gloss": "heart-meditate",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "guharūpaṃ",
+     "gloss": "cave-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāśraye",
+     "gloss": "resort",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "śyāmavarṇaḥ",
+     "gloss": "dark-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What color and form are meditated upon in the heart?",
+   "premises": [
+    "lotus feet are object",
+    "heart meditation is stated",
+    "cave form is named"
+   ],
+   "inference": "The dark-colored cave form is meditated upon through its lotus feet.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Meditating in the heart on the lotus feet, I resort to the dark-colored cave form."
+  },
+  {
+   "verse": 929,
+   "rows": [
+    {
+     "surface": "dakṣabhāge",
+     "gloss": "right-side",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "daṃḍahastaṃ",
+     "gloss": "staff-hand",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vajravāmoruhastakam",
+     "gloss": "vajra-left-hand",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What attributes are held in the right and left hands?",
+   "premises": [
+    "right side is named",
+    "staff hand is named",
+    "vajra left hand is named"
+   ],
+   "inference": "The form holds staff and vajra in opposite hands.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "On the right side is the staff hand, and the vajra is in the left hand."
+  },
+  {
+   "verse": 930,
+   "rows": [
+    {
+     "surface": "śikhāyajñopavītāḍhyaṃ",
+     "gloss": "tuft-sacred-thread-rich",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mauṃjīkaupīnasaṃyutam",
+     "gloss": "mauñjī-kaupīna-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ascetic ornaments enrich this form?",
+   "premises": [
+    "tuft and sacred thread are named",
+    "mauñjī and kaupīna are joined"
+   ],
+   "inference": "The form is richly marked by ascetic thread and garment.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "It is rich in tuft and sacred thread, joined with mauñjī and kaupīna."
+  },
+  {
+   "verse": 931,
+   "rows": [
+    {
+     "surface": "divyarūpadharaṃ",
+     "gloss": "divine-form-bearing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmacāriṇam",
+     "gloss": "brahmacārin",
+     "grounds": "status",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśraye",
+     "gloss": "resort",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of divine celibate god is resorted to here?",
+   "premises": [
+    "divine form is named",
+    "god is object",
+    "brahmacārin is named"
+   ],
+   "inference": "The red-colored divine brahmacārin god is the object of resort.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "I resort to the red-colored divine god who is a brahmacārin."
+  },
+  {
+   "verse": 932,
+   "rows": [
+    {
+     "surface": "śaktihastadvayaṃ",
+     "gloss": "śakti-two-hands",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japamālādharaṃ",
+     "gloss": "rosary-bearing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "quality",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What auspicious attributes are held in two hands?",
+   "premises": [
+    "śakti two hands are named",
+    "rosary bearing is named",
+    "auspicious quality is named"
+   ],
+   "inference": "The auspicious form holds śakti in two hands and a rosary.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Also indeed the auspicious one holds śakti in two hands and a rosary."
+  },
+  {
+   "verse": 933,
+   "rows": [
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "duly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyec",
+     "gloss": "meditate",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "name",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "god's",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "deśikam",
+     "gloss": "teacher",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose teacher is to be meditated upon duly in this manner?",
+   "premises": [
+    "thus and duly are stated",
+    "meditation is enjoined",
+    "śiva god's teacher is object"
+   ],
+   "inference": "One should duly meditate on the red-colored teacher of Śiva's god.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Thus one should duly meditate on the red-colored teacher of Śiva's god."
+  },
+  {
+   "verse": 934,
+   "rows": [
+    {
+     "surface": "varadābhayasaṃyuṃkta",
+     "gloss": "varada-abhaya-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣpabāṇekṣukārmukam",
+     "gloss": "flower-arrow-bow",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What joined gestures and weapons characterize this form?",
+   "premises": [
+    "varada and abhaya are joined",
+    "flower arrow and bow are named"
+   ],
+   "inference": "The form combines boon and fearlessness gestures with floral bow and arrow.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Joined with varada and abhaya, it bears flower arrow and bow."
+  },
+  {
+   "verse": 935,
+   "rows": [
+    {
+     "surface": "krauṃcabhedakara+dvaṃdvaṃ",
+     "gloss": "krauñca-piercing-pair",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "krauṃca+bhedisvarūpakam",
+     "gloss": "krauñca-piercer-form",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What red-colored form pierces the krauñca pair?",
+   "premises": [
+    "krauñca piercing pair is named",
+    "krauñca piercer form is named",
+    "red color is named"
+   ],
+   "inference": "The red-colored form is the krauñca-piercing form.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "The red-colored form is the krauñca-piercing form of the pair."
+  },
+  {
+   "verse": 936,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśaṃdadhaṃ",
+     "gloss": "noose-goad-bearing",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jvalākeśaśikhaṃḍakam",
+     "gloss": "flame-hair-tuft",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What noose, goad, and flame-tuft attributes are borne?",
+   "premises": [
+    "noose and goad are borne",
+    "also indeed is stated",
+    "flame hair tuft is named"
+   ],
+   "inference": "The form bears noose, goad, and flame-tufted hair.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Also indeed it bears noose and goad, with flame-tufted hair."
+  },
+  {
+   "verse": 937,
+   "rows": [
+    {
+     "surface": "caturdaśādibhavanaṃ",
+     "gloss": "fourteen-etc-abode",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śikhivāhanam",
+     "gloss": "peacock-vehicle",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "perform",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What abode and vehicle are associated with this red form?",
+   "premises": [
+    "fourteen etc abode is named",
+    "peacock vehicle is named",
+    "performance is enjoined"
+   ],
+   "inference": "The red form has a fourteenfold abode and peacock vehicle.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "One should perform with the red form whose abode is fourteenfold and vehicle is peacock."
+  },
+  {
+   "verse": 938,
+   "rows": [
+    {
+     "surface": "kātyāyanīsutamahaṃ",
+     "gloss": "kātyāyanī-son",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṭibaddhavāmahastaṃ",
+     "gloss": "hip-bound-left-hand",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+daṃḍadharadakṣiṇahastam",
+     "gloss": "staff-bearing-right-hand",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īḍe",
+     "gloss": "praise",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What red son of Kātyāyanī is praised with staff and hip-bound hand?",
+   "premises": [
+    "son of Kātyāyanī is named",
+    "left hand is hip-bound",
+    "right hand bears staff"
+   ],
+   "inference": "The praised red form is Kātyāyanī's son with staff and hip-bound hand.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "I praise the red son of Kātyāyanī, with left hand at hip and right hand bearing staff."
+  },
+  {
+   "verse": 939,
+   "rows": [
+    {
+     "surface": "dadhataṃ+ruṃḍamālāṃ",
+     "gloss": "bearing-skull-garland",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādukādvayasaṃyutam",
+     "gloss": "pair-of-sandals-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What skull garland and sandals mark this form?",
+   "premises": [
+    "skull garland is borne",
+    "and is stated",
+    "pair of sandals is joined"
+   ],
+   "inference": "The form bears a skull garland and is joined with a pair of sandals.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Bearing a skull garland, and joined with a pair of sandals."
+  },
+  {
+   "verse": 940,
+   "rows": [
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "side",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pītavasanaṃ",
+     "gloss": "yellow-garment",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vīrabhadram",
+     "gloss": "vīrabhadra",
+     "grounds": "name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upāsmahe",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres"
+    },
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What blue Vīrabhadra is worshipped with yellow garment?",
+   "premises": [
+    "right side is named",
+    "yellow garment is named",
+    "Vīrabhadra is object"
+   ],
+   "inference": "The blue Vīrabhadra with yellow garment is worshipped.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "We worship the blue Vīrabhadra with yellow garment on the right."
+  },
+  {
+   "verse": 941,
+   "rows": [
+    {
+     "surface": "akṣayasvarṇamāṇikyagaṇapūritapātrakam",
+     "gloss": "inexhaustible-gold-ruby-gaṇa-filled-bowl",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What inexhaustible bowl filled with gold, ruby, and gaṇa is described?",
+   "premises": [
+    "inexhaustible bowl is named",
+    "gold ruby and gaṇa fill it"
+   ],
+   "inference": "The described object is an inexhaustible bowl filled with gold, ruby, and gaṇa.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "An inexhaustible bowl filled with gold, ruby, and gaṇa."
+  },
+  {
+   "verse": 942,
+   "rows": [
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciṃtayed",
+     "gloss": "meditate",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "devotionally",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvasiddhidam",
+     "gloss": "all-siddhi-giving",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Whom should one always meditate upon devotionally as all-siddhi-giving?",
+   "premises": [
+    "always is stated",
+    "meditation is enjoined",
+    "Bhairava is object"
+   ],
+   "inference": "One should always meditate devotionally on Bhairava, giver of all siddhis.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "One should always meditate devotionally on Bhairava, giver of all siddhis."
+  },
+  {
+   "verse": 943,
+   "rows": [
+    {
+     "surface": "madonmattaṃ",
+     "gloss": "intoxicated",
+     "grounds": "quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadānaṃdaṃ",
+     "gloss": "always-blissful",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvadevanamaskṛtam",
+     "gloss": "all-gods-revered",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What intoxicated, always-blissful form is revered by all gods?",
+   "premises": [
+    "intoxicated quality is named",
+    "always blissful is named",
+    "all gods revere it"
+   ],
+   "inference": "The form is intoxicated, always blissful, and revered by all gods.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Intoxicated, always blissful, and revered by all gods."
+  },
+  {
+   "verse": 944,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyecca",
+     "gloss": "meditate",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "maṃtrajñaḥ",
+     "gloss": "mantra-knower",
+     "grounds": "agent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svarṇākarṣaṇabhairavam",
+     "gloss": "gold-attracting-bhairava",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pītavarṇaḥ",
+     "gloss": "yellow-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What yellow gold-attracting Bhairava should a mantra-knower meditate upon thus?",
+   "premises": [
+    "thus is stated",
+    "meditation is enjoined",
+    "mantra-knower is agent"
+   ],
+   "inference": "A mantra-knower should thus meditate on yellow gold-attracting Bhairava.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Thus a mantra-knower should meditate on yellow gold-attracting Bhairava."
+  },
+  {
+   "verse": 945,
+   "rows": [
+    {
+     "surface": "śūlaṃ+kapālaṃ+pāśaṃ",
+     "gloss": "trident-skull-noose",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍamuruṃdadhataṃkaraiḥ",
+     "gloss": "ḍamaru-bearing-hands",
+     "grounds": "compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What trident, skull, noose, and ḍamaru are borne in the hands?",
+   "premises": [
+    "trident skull and noose are named",
+    "ca is stated",
+    "ḍamaru bearing hands are named"
+   ],
+   "inference": "The form bears trident, skull, noose, and ḍamaru in its hands.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Trident, skull, and noose, and ḍamaru-bearing hands."
+  },
+  {
+   "verse": 946,
+   "rows": [
+    {
+     "surface": "śvānārūḍhaṃ",
+     "gloss": "dog-mounted",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvāṇaṃ",
+     "gloss": "nirvāṇa",
+     "grounds": "name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadukaṃ+bhairavaṃ",
+     "gloss": "vaduka-bhairava",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "color",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What red dog-mounted Nirvāṇa Vaduka Bhairava is worshipped?",
+   "premises": [
+    "dog-mounted is named",
+    "Nirvāṇa is named",
+    "Vaduka Bhairava is object"
+   ],
+   "inference": "The worshipped red form is dog-mounted Nirvāṇa Vaduka Bhairava.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "I worship the red dog-mounted Nirvāṇa Vaduka Bhairava."
+  },
+  {
+   "verse": 947,
+   "rows": [
+    {
+     "surface": "anukṛtaśaśitejaḥ",
+     "gloss": "imitating-moon-radiance",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṃḍalaṃ",
+     "gloss": "earring",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāruhāsaṃ",
+     "gloss": "lovely-smile",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakaṭadaśanaśobhānirjitāneka+hīram",
+     "gloss": "manifest-tooth-beauty-surpassing-many-diamonds",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What moon-radiance earring, lovely smile, and tooth beauty are described?",
+   "premises": [
+    "moon-radiance earring is named",
+    "lovely smile is named",
+    "tooth beauty surpassing diamonds is named"
+   ],
+   "inference": "The form is described by moon-like earring, lovely smile, and radiant teeth.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Moon-radiance earring, lovely smile, and manifest tooth beauty surpassing many diamonds."
+  },
+  {
+   "verse": 948,
+   "rows": [
+    {
+     "surface": "saphaṇapavanabhugdordaṃḍabhūṣābhirāmaṃ",
+     "gloss": "hooded-wind-eating-arm-ornament-beautiful",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ḍamaruninādaiḥ+pūritadyokhagarbham",
+     "gloss": "ḍamaru-sound-filled-sky-womb",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What beautiful hooded arm ornament and ḍamaru-filled sky womb are described?",
+   "premises": [
+    "hooded wind-eating arm ornament is named",
+    "hand is object",
+    "ḍamaru sound fills sky womb"
+   ],
+   "inference": "The form is described by beautiful hooded arm ornament and ḍamaru-filled sky womb.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Beautiful hooded arm ornament, hand, and sky womb filled by ḍamaru sound."
+  },
+  {
+   "verse": 949,
+   "rows": [
+    {
+     "surface": "bhujagaphaṇasuguptairbhūṣaṇairnyastabhūṣaṃ",
+     "gloss": "serpent-hood-well-hidden-ornaments-worn",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇata+surakirīṭavyāptapā+dāraviṃdam",
+     "gloss": "bowed-gods-crown-covered-lotus-feet",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What serpent-hood ornaments and lotus feet covered by gods' crowns are described?",
+   "premises": [
+    "serpent hood hidden ornaments are named",
+    "bowed gods' crowns cover lotus feet"
+   ],
+   "inference": "The form wears serpent-hood ornaments and has lotus feet covered by gods' crowns.",
+   "uncertainties": [
+    "compound boundaries inferred"
+   ],
+   "plain_english": "Worn with serpent-hood hidden ornaments, and lotus feet covered by bowed gods' crowns."
+  }
+ ]
+}

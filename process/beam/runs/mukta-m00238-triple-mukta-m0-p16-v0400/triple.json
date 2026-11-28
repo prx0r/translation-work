@@ -1,0 +1,65 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "garuḍodevatā",
+     "gloss": "garuda-deity",
+     "grounds": "fused compound naming the Garuda deity",
+     "morph": "compound (garuḍa+devatā)"
+    },
+    {
+     "surface": "kāṃcanaprabhaḥ",
+     "gloss": "gold-radiance",
+     "grounds": "compound describing golden radiance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuṃcitadakṣiṇapādaḥ",
+     "gloss": "bent-right-foot",
+     "grounds": "compound describing the right foot as bent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭhenikṣipta vāmapādaḥ",
+     "gloss": "back-placed-left-foot",
+     "grounds": "fused descriptive phrase with internal space, left foot placed behind",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasāritobhayapakṣaḥ",
+     "gloss": "spread-both-wings",
+     "grounds": "compound describing both wings as spread",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hṛdibaddhāṃjalipuṭaḥ",
+     "gloss": "heart-joined-palms",
+     "grounds": "compound describing palms joined at the heart",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nānābharaṇabhuṣitaḥ",
+     "gloss": "various-ornament-adorned",
+     "grounds": "compound describing adornment with various ornaments",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What iconographic attributes define the Garuda deity in this description?",
+   "premises": [
+    "Garuda deity has gold radiance.",
+    "Garuda deity has bent right foot.",
+    "Garuda deity has left foot placed behind.",
+    "Garuda deity has spread wings.",
+    "Garuda deity has joined palms at heart."
+   ],
+   "inference": "The verse portrays Garuda as gold-radiant, with bent right foot, left foot placed behind, spread wings, joined palms at the heart, and various ornaments.",
+   "uncertainties": [
+    "Token four contains an internal space and is treated as one fused descriptive phrase."
+   ],
+   "plain_english": "The Garuda deity is gold-radiant, with the right foot bent, the left foot placed behind, both wings spread, palms joined at the heart, and adorned with various ornaments."
+  }
+ ]
+}

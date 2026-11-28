@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the previously mentioned practice or form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sādhayan+naraḥ",
+     "gloss": "accomplishing-man",
+     "grounds": "compound: present participle plus agent noun",
+     "morph": "compound=sādhayat+part.pres.act-nara+m.nom.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "anywhere",
+     "grounds": "indefinite adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstu+vighnaiḥ",
+     "gloss": "site-obstacles",
+     "grounds": "compound: vāstu obstacles or hindrances",
+     "morph": "compound=vāstu-vighna+m.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-troubled",
+     "grounds": "passive verb indicating affliction",
+     "morph": "3.sg.pass-pres √bādh"
+    }
+   ],
+   "question": "What protection does accomplishing this practice grant against site-related obstacles?",
+   "premises": [
+    "A person accomplishes the stated practice.",
+    "Site-related obstacles may arise anywhere.",
+    "Such a practitioner is not troubled by those obstacles."
+   ],
+   "inference": "Accomplishing the practice confers immunity from vāstu obstacles.",
+   "uncertainties": [
+    "The exact referent of yāṃ depends on the preceding context."
+   ],
+   "plain_english": "A person who accomplishes this practice is not troubled anywhere by obstacles related to the site."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "object of inquiry, visualized form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaditaṃ",
+     "gloss": "told",
+     "grounds": "past participle indicating prior statement",
+     "morph": "n.nom.sg.past-pass-part √gad"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tat+idānīṃ",
+     "gloss": "that-now",
+     "grounds": "compound/adverbial phrase requesting present disclosure",
+     "morph": "compound=tat+idānīm(indecl.)"
+    },
+    {
+     "surface": "prakāśaya",
+     "gloss": "reveal",
+     "grounds": "imperative request for instruction",
+     "morph": "2.sg.act-imper √prakāś"
+    }
+   ],
+   "question": "Why must the lord now reveal the meditation that was not previously told?",
+   "premises": [
+    "The meditation has not yet been told.",
+    "The speaker addresses the lord directly.",
+    "The speaker requests its revelation now."
+   ],
+   "inference": "The untold meditation requires immediate disclosure by the lord.",
+   "uncertainties": [],
+   "plain_english": "O Lord, the meditation has not been told; please reveal it now."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "śrī+devī",
+     "gloss": "revered-goddess",
+     "grounds": "honorific title for the goddess speaker",
+     "morph": "compound=śrī-devī+f.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "speech verb introducing the reply",
+     "morph": "3.sg.act-perf √vac"
+    },
+    {
+     "surface": "maṇḍalam+iti+ādinā",
+     "gloss": "circle-thus-beginning-with",
+     "grounds": "citation marker indicating the start of the quoted teaching",
+     "morph": "compound=maṇḍala-iti-ādi+n.inst.sg"
+    }
+   ],
+   "question": "Who begins the teaching that starts with the word maṇḍalam?",
+   "premises": [
+    "The revered goddess is the speaker.",
+    "She utters a response.",
+    "Her response begins with the word maṇḍalam."
+   ],
+   "inference": "The goddess initiates the teaching starting with maṇḍalam.",
+   "uncertainties": [],
+   "plain_english": "The revered Goddess said, beginning with the word 'maṇḍalam'."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "yasya+anuśīlanāt",
+     "gloss": "whose-practice-from",
+     "grounds": "compound expressing the source or cause as practice",
+     "morph": "compound=yad-anuśīlana+n.abl.sg"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "adverb indicating instant effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "verb describing destruction of calamities",
+     "morph": "3.pl.act-pres √naś"
+    },
+    {
+     "surface": "sakala+āpadaḥ",
+     "gloss": "all-calamities",
+     "grounds": "compound denoting every misfortune",
+     "morph": "compound=sakala-āpad+f.nom.pl"
+    }
+   ],
+   "question": "What immediate effect results from practicing the teaching now being introduced?",
+   "premises": [
+    "The teaching is subject to devoted practice.",
+    "Calamities are comprehensive in scope.",
+    "Practice causes their immediate destruction."
+   ],
+   "inference": "Practicing this teaching immediately destroys all calamities.",
+   "uncertainties": [
+    "The antecedent of yasya is implied by the preceding citation."
+   ],
+   "plain_english": "Through whose practice all calamities perish immediately."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "trilocanaṃ",
+     "gloss": "three-eyed",
+     "grounds": "descriptive epithet of the visualized deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "karālāsyaṃ",
+     "gloss": "terrible-faced",
+     "grounds": "compound describing a fearsome mouth or face",
+     "morph": "compound=karāla-āsya+m.acc.sg"
+    },
+    {
+     "surface": "hāra+kuṇḍala+śobhitam",
+     "gloss": "garland-earring-adorned",
+     "grounds": "compound listing ornaments adorning the deity",
+     "morph": "compound=hāra-kuṇḍala-śobhita+m.acc.sg.past-pass-part √śubh"
+    }
+   ],
+   "question": "What physical features characterize the deity in this meditation form?",
+   "premises": [
+    "The deity is three-eyed.",
+    "The deity has a terrible face.",
+    "The deity is adorned with garlands and earrings."
+   ],
+   "inference": "The meditation form is fearsome yet ornamented.",
+   "uncertainties": [],
+   "plain_english": "Meditate on him as three-eyed, terrible-faced, and adorned with garlands and earrings."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "gadā+triśūla+paraśu+khaṭvāṅgaṃ",
+     "gloss": "mace-trident-axe-skull-staff",
+     "grounds": "compound listing weapons held by the deity",
+     "morph": "compound=gadā-triśūla-paraśu-khaṭvāṅga+m.acc.sg"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "present participle describing the deity's action",
+     "morph": "m.acc.sg.part.pres.act √dhā"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrument indicating the means of holding",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which weapons does the meditated deity hold in his hands?",
+   "premises": [
+    "The deity holds objects with his hands.",
+    "The objects include a mace, trident, axe, and skull-staff.",
+    "These are attributes of the visualized form."
+   ],
+   "inference": "The deity's hands bear four specific weapons.",
+   "uncertainties": [],
+   "plain_english": "He holds a mace, trident, axe, and skull-staff in his hands."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "śatrūṇām",
+     "gloss": "of-enemies",
+     "grounds": "genitive indicating those destroyed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "antakaṃ",
+     "gloss": "destroyer",
+     "grounds": "epithet denoting the deity as death to enemies",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb emphasizing manifest presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udyat+āditya+sannibham",
+     "gloss": "rising-sun-resembling",
+     "grounds": "compound comparing radiance to the rising sun",
+     "morph": "compound=udyat-āditya-sannibha+m.acc.sg"
+    }
+   ],
+   "question": "How is the deity's power against enemies visually characterized in meditation?",
+   "premises": [
+    "The deity is the destroyer of enemies.",
+    "He is present directly in this form.",
+    "His appearance resembles the rising sun."
+   ],
+   "inference": "The deity appears as a radiant, direct destroyer of enemies.",
+   "uncertainties": [],
+   "plain_english": "He is the direct destroyer of enemies, resembling the rising sun."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "mārī+bhaye",
+     "gloss": "epidemic-fear",
+     "grounds": "compound indicating fear of epidemic",
+     "morph": "compound=mārī-bhaya+n.loc.sg"
+    },
+    {
+     "surface": "roga+bhaye",
+     "gloss": "disease-fear",
+     "grounds": "compound indicating fear of disease",
+     "morph": "compound=roga-bhaya+n.loc.sg"
+    },
+    {
+     "surface": "ḍākinī+ādi+bhaye",
+     "gloss": "ḍākinī-etc-fear",
+     "grounds": "compound indicating fear of ḍākinīs and similar beings",
+     "morph": "compound=ḍākinī-ādi-bhaya+n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb extending the list of dangers",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which fearful situations should this protective meditation be applied?",
+   "premises": [
+    "Fear may arise from epidemics.",
+    "Fear may arise from disease.",
+    "Fear may arise from ḍākinīs and similar threats."
+   ],
+   "inference": "The meditation applies to epidemics, diseases, and supernatural fears.",
+   "uncertainties": [
+    "The scope of ādi in ḍākinī+ādi+bhaye is not fully specified."
+   ],
+   "plain_english": "In fear of epidemic, in fear of disease, and likewise in fear of ḍākinīs and such beings."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "dhyātvā+evaṃ",
+     "gloss": "having-meditated-thus",
+     "grounds": "gerund with emphatic particle indicating prior visualization",
+     "morph": "compound=dhyātvā(gerund √dhyai)-evam(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "vāstuṃ",
+     "gloss": "site-deity",
+     "grounds": "object of worship, the vāstu principle or deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parivāra+samanvitam",
+     "gloss": "retinue-accompanied-by",
+     "grounds": "compound indicating worship with attendant beings",
+     "morph": "compound=parivāra-samanvita+m.acc.sg.past-pass-part √sam-anv-i"
+    }
+   ],
+   "question": "What ritual action follows the prescribed visualization of the deity?",
+   "premises": [
+    "The practitioner first meditates in the prescribed manner.",
+    "The vāstu is the object of worship.",
+    "The vāstu is accompanied by its retinue."
+   ],
+   "inference": "After meditation, one should worship the vāstu with its retinue.",
+   "uncertainties": [],
+   "plain_english": "Having meditated thus, one should worship the vāstu together with its retinue."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "relative adverb introducing manner of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstuḥ",
+     "gloss": "site-deity",
+     "grounds": "subject to be worshipped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjanīyaḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing obligation",
+     "morph": "m.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "prokta+karmasu",
+     "gloss": "prescribed-rites-in",
+     "grounds": "compound locating worship within stated rituals",
+     "morph": "compound=prokta-karman+n.loc.pl"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "o-fair-vowed-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what ritual context must the vāstu be worshipped as prescribed?",
+   "premises": [
+    "The vāstu is to be worshipped.",
+    "The worship occurs in prescribed rites.",
+    "The instruction is addressed to the fair-vowed goddess."
+   ],
+   "inference": "The vāstu must be worshipped according to the prescribed rites.",
+   "uncertainties": [],
+   "plain_english": "O fair-vowed one, the vāstu is to be worshipped as prescribed in the stated rites."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity name in the invoked group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "deity name in the invoked group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "deity name in the invoked group",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "vāṇī",
+     "grounds": "goddess name in the invoked group",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "lakṣmī",
+     "grounds": "goddess name in the invoked group",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkarī",
+     "gloss": "śaṅkarī",
+     "grounds": "goddess name in the invoked group",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine figures are named together in this invocation sequence?",
+   "premises": [
+    "Brahmā, Viṣṇu, and Rudra are named.",
+    "Vāṇī, Lakṣmī, and Śaṅkarī are named.",
+    "They are listed as a group."
+   ],
+   "inference": "The invocation includes three male and three female deities.",
+   "uncertainties": [],
+   "plain_english": "Brahmā, Viṣṇu, Rudra, Vāṇī, Lakṣmī, and Śaṅkarī."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb referring to the preceding request",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārthitaḥ",
+     "gloss": "requested",
+     "grounds": "past participle describing Sadāśiva's state",
+     "morph": "m.nom.sg.past-pass-part √prārth"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "present participle linking request to response",
+     "morph": "m.nom.sg.part.pres.act √as"
+    },
+    {
+     "surface": "śrī+sadāśivaḥ",
+     "gloss": "revered-sadāśiva",
+     "grounds": "honorific name of the responding deity",
+     "morph": "compound=śrī-sadāśiva+m.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "speech verb introducing the teaching",
+     "morph": "3.sg.act-perf √vac"
+    },
+    {
+     "surface": "dhyānam+iti+ādi",
+     "gloss": "meditation-thus-beginning",
+     "grounds": "citation marker for the start of the meditation teaching",
+     "morph": "compound=dhyāna-iti-ādi+n.acc.sg"
+    }
+   ],
+   "question": "How does revered Sadāśiva respond after being requested in this manner?",
+   "premises": [
+    "Sadāśiva is requested in the stated manner.",
+    "He responds verbally.",
+    "His response begins with the meditation teaching."
+   ],
+   "inference": "Sadāśiva answers the request by beginning the meditation instruction.",
+   "uncertainties": [],
+   "plain_english": "Thus requested, the revered Sadāśiva spoke, beginning with the meditation."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "vāstoḥ",
+     "gloss": "of-site-deity",
+     "grounds": "genitive specifying whose meditation is given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhyānam+eva",
+     "gloss": "meditation-indeed",
+     "grounds": "compound with emphatic particle focusing on meditation",
+     "morph": "compound=dhyāna+n.acc.sg-eva(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "verb attributing the teaching to the text or speaker",
+     "morph": "3.sg.act-perf √ah"
+    },
+    {
+     "surface": "caturbhujam+iti+ādinā",
+     "gloss": "four-armed-thus-beginning-with",
+     "grounds": "citation marker indicating the descriptive starting point",
+     "morph": "compound=caturbhuja-iti-ādi+n.inst.sg"
+    },
+    {
+     "surface": "sārdha+trayeṇa",
+     "gloss": "with-three-and-half",
+     "grounds": "compound indicating the extent of verses used",
+     "morph": "compound=sārdha-traya+n.inst.sg"
+    }
+   ],
+   "question": "How extensively does the text state the meditation of the vāstu deity?",
+   "premises": [
+    "The subject is the meditation of the vāstu.",
+    "The teaching begins with the description four-armed.",
+    "It is stated in three and a half verses."
+   ],
+   "inference": "The vāstu meditation is given in three and a half verses beginning with four-armed.",
+   "uncertainties": [],
+   "plain_english": "It states the meditation of the vāstu in three and a half verses, beginning with 'four-armed'."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "lomaśam",
+     "gloss": "hairy",
+     "grounds": "descriptive attribute of the form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahu+loma+viśiṣṭam",
+     "gloss": "abundant-hair-endowed-with",
+     "grounds": "compound elaborating the hairy characteristic",
+     "morph": "compound=bahu-loma-viśiṣṭa+m.acc.sg.past-pass-part √vi-śiṣ"
+    }
+   ],
+   "question": "What bodily characteristic further specifies the described form in this meditation?",
+   "premises": [
+    "The form is described as hairy.",
+    "It is further specified as endowed with abundant hair.",
+    "Both terms qualify the same form."
+   ],
+   "inference": "The meditated form is characterized by abundant hairiness.",
+   "uncertainties": [],
+   "plain_english": "Hairy, endowed with abundant hair."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "pitaro",
+     "gloss": "ancestors",
+     "grounds": "subject whose satisfaction is in question",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yadi+atṛptāḥ",
+     "gloss": "if-not-satisfied",
+     "grounds": "compound expressing a conditional lack of satisfaction",
+     "morph": "compound=yadi(indecl.)-atṛpta+m.nom.pl.past-pass-part"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative verb expressing possibility",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "karmasu+eteṣu",
+     "gloss": "rites-in-these",
+     "grounds": "compound locating the condition in specific rites",
+     "morph": "compound=karman+n.loc.pl-etad+n.loc.pl"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "o-kālikā",
+     "grounds": "vocative address to the goddess Kālikā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Under what ritual condition might the ancestors remain unsatisfied according to this address?",
+   "premises": [
+    "The ancestors are the focus of concern.",
+    "Their satisfaction is uncertain in these rites.",
+    "The condition is addressed to Kālikā."
+   ],
+   "inference": "The ancestors may remain unsatisfied in these rites.",
+   "uncertainties": [],
+   "plain_english": "O Kālikā, if the ancestors should remain unsatisfied in these rites."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conclusive adverb drawing consequence from prior condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrument indicating careful exertion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prokta+saṃskāra+karmasu",
+     "gloss": "prescribed-consecration-rites-in",
+     "grounds": "compound specifying the ritual domain requiring effort",
+     "morph": "compound=prokta-saṃskāra-karman+n.loc.pl"
+    }
+   ],
+   "question": "What level of care is required in the prescribed consecration rites because of possible ancestral dissatisfaction?",
+   "premises": [
+    "Ancestral dissatisfaction is a possible concern.",
+    "The rites are prescribed consecration rites.",
+    "Effort is enjoined in response."
+   ],
+   "inference": "The prescribed consecration rites must be performed with effort.",
+   "uncertainties": [],
+   "plain_english": "Therefore, O great goddess, one must act with effort in the prescribed consecration rites."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "graha+yantraṃ",
+     "gloss": "planet-diagram",
+     "grounds": "compound naming the ritual diagram to be taught",
+     "morph": "compound=graha-yantra+n.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "future verb announcing instruction",
+     "morph": "1.sg.act-fut √pra-vac"
+    },
+    {
+     "surface": "sarva+śānti+vidhāyakam",
+     "gloss": "all-peace-effecting",
+     "grounds": "compound describing the diagram's purpose",
+     "morph": "compound=sarva-śānti-vidhāyaka+n.acc.sg"
+    }
+   ],
+   "question": "What purpose does the planet diagram serve that the speaker now declares?",
+   "premises": [
+    "A planet diagram is about to be declared.",
+    "The diagram has a specific function.",
+    "Its function is to effect all peace."
+   ],
+   "inference": "The declared planet diagram is intended to bring about all peace.",
+   "uncertainties": [],
+   "plain_english": "I shall declare the planet diagram, which brings about all peace."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "tri+trikoṇaiḥ",
+     "gloss": "with-three-triangles",
+     "grounds": "compound indicating the primary geometric elements",
+     "morph": "compound=tri-trikoṇa+n.inst.pl"
+    },
+    {
+     "surface": "likhet+yantraṃ",
+     "gloss": "one-should-draw-diagram",
+     "grounds": "verb-object pair prescribing diagram construction",
+     "morph": "compound=likhet(3.sg.act-opt √likh)-yantra+n.acc.sg"
+    },
+    {
+     "surface": "tat+bahiḥ",
+     "gloss": "outside-that",
+     "grounds": "compound indicating position outside the triangles",
+     "morph": "compound=tat-bahis(indecl.)"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "circle",
+     "grounds": "geometric figure to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "optative prescribing the drawing action",
+     "morph": "3.sg.act-opt √ā-likh"
+    }
+   ],
+   "question": "What initial geometric structure must be drawn to construct the planet diagram?",
+   "premises": [
+    "The diagram is drawn with three triangles.",
+    "A circle is drawn outside them.",
+    "Both actions are prescribed."
+   ],
+   "inference": "The diagram begins with three triangles enclosed by a circle.",
+   "uncertainties": [],
+   "plain_english": "One should draw the diagram with three triangles and draw a circle outside them."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "catur+dvāra+anvitaṃ",
+     "gloss": "four-doors-endowed-with",
+     "grounds": "compound describing the enclosure's openings",
+     "morph": "compound=catur-dvāra-anvita+m.acc.sg.past-pass-part √anv-i"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "bhūpuraṃ",
+     "gloss": "ground-enclosure",
+     "grounds": "outer ritual enclosure of the diagram",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "su+manoharam",
+     "gloss": "very-charming",
+     "grounds": "compound expressing aesthetic quality",
+     "morph": "compound=su-manohara+m.acc.sg"
+    }
+   ],
+   "question": "What outer enclosure completes the diagram after the inner figures are drawn?",
+   "premises": [
+    "A ground enclosure is to be made.",
+    "It is endowed with four doors.",
+    "It should be very charming."
+   ],
+   "inference": "The diagram should be completed with a charming four-doored ground enclosure.",
+   "uncertainties": [],
+   "plain_english": "One should make a very charming ground enclosure endowed with four doors."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "geometric figure to be constructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viracayet",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.act-opt √vi-rac"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying a single circle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prādeśa+parimāṇakam",
+     "gloss": "span-measuring",
+     "grounds": "compound indicating the circle's size",
+     "morph": "compound=prādeśa-parimāṇaka+n.acc.sg"
+    }
+   ],
+   "question": "What specific measurement defines one of the circles to be constructed?",
+   "premises": [
+    "One circle is to be made.",
+    "Its size is specified.",
+    "The measure is a prādeśa span."
+   ],
+   "inference": "A circle measuring one prādeśa should be constructed.",
+   "uncertainties": [
+    "The exact physical length of prādeśa may vary by convention."
+   ],
+   "plain_english": "One should make one circle measuring a prādeśa."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "rakṣo+vāruṇayoḥ+madhye",
+     "gloss": "of-rakṣas-vāruṇa-between",
+     "grounds": "compound indicating spatial location between two directions or guardians",
+     "morph": "compound=rakṣas-vāruṇa+m.gen.du-madhya+n.loc.sg"
+    },
+    {
+     "surface": "ca+aparaṃ",
+     "gloss": "and-another",
+     "grounds": "compound adding a second item",
+     "morph": "compound=ca(indecl.)-apara+n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-construct",
+     "grounds": "optative prescribing placement or construction",
+     "morph": "3.sg.act-opt √kḷp"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should another circle be constructed in relation to the rakṣas and vāruṇa directions?",
+   "premises": [
+    "Another circle is to be constructed.",
+    "Its location is specified relative to rakṣas and vāruṇa.",
+    "The construction follows the same manner."
+   ],
+   "inference": "Another circle should likewise be placed between the rakṣas and vāruṇa positions.",
+   "uncertainties": [
+    "rakṣo+vāruṇayoḥ may refer to directional guardians or quarters."
+   ],
+   "plain_english": "Likewise, one should construct another circle between the rakṣas and vāruṇa positions."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "sa+indrāḥ",
+     "gloss": "with-indra",
+     "grounds": "compound indicating inclusion of Indra",
+     "morph": "compound=sa-indra+m.nom.pl"
+    },
+    {
+     "surface": "indra+ādi+daśa+dik+pati+sahitāḥ",
+     "gloss": "indra-etc-ten-direction-lords-accompanied-by",
+     "grounds": "compound naming the ten directional lords beginning with Indra",
+     "morph": "compound=indra-ādi-daśa-dik-pati-sahita+m.nom.pl.past-pass-part √sah"
+    },
+    {
+     "surface": "yacchanti",
+     "gloss": "they-give",
+     "grounds": "verb expressing bestowal",
+     "morph": "3.pl.act-pres √yam"
+    },
+    {
+     "surface": "dadati",
+     "gloss": "give",
+     "grounds": "synonymous verb reinforcing bestowal",
+     "morph": "3.pl.act-pres √dā"
+    }
+   ],
+   "question": "Which directional lords are said to bestow benefits in this ritual context?",
+   "premises": [
+    "Indra is included among the lords.",
+    "The group consists of the ten directional lords beginning with Indra.",
+    "They are described as giving."
+   ],
+   "inference": "The ten directional lords including Indra bestow benefits.",
+   "uncertainties": [
+    "The object of yacchanti and dadati is not explicitly stated in this verse."
+   ],
+   "plain_english": "The ten lords of the directions, including Indra and beginning with Indra, give and bestow."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "madhya+trikoṇa+dvau",
+     "gloss": "middle-triangle-two",
+     "grounds": "compound identifying two sides of the central triangle",
+     "morph": "compound=madhya-trikoṇa-dvi+m.nom.du"
+    },
+    {
+     "surface": "pārśvau",
+     "gloss": "sides",
+     "grounds": "noun specifying lateral parts",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "savya+dakṣiṇa+bhedataḥ",
+     "gloss": "left-right-distinction-by",
+     "grounds": "compound indicating differentiation by left and right",
+     "morph": "compound=savya-dakṣiṇa-bheda+m.abl.sg"
+    }
+   ],
+   "question": "How are the two sides of the central triangle distinguished in the diagram?",
+   "premises": [
+    "The central triangle has two sides in focus.",
+    "These sides are distinguished.",
+    "The distinction is by left and right."
+   ],
+   "inference": "The two sides of the central triangle are differentiated as left and right.",
+   "uncertainties": [],
+   "plain_english": "The two sides of the central triangle are distinguished as left and right."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "aṣṭa+dik+pati+varṇena",
+     "gloss": "eight-direction-lord-syllable-with",
+     "grounds": "compound indicating use of syllables associated with the eight directional lords",
+     "morph": "compound=aṣṭa-dik-pati-varṇa+m.inst.sg"
+    },
+    {
+     "surface": "parṇāni+aṣṭau",
+     "gloss": "petals-eight",
+     "grounds": "compound specifying eight petals to be filled",
+     "morph": "compound=parṇa+n.acc.pl-aṣṭan+n.acc.pl"
+    },
+    {
+     "surface": "prapūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative prescribing inscription or filling",
+     "morph": "3.sg.act-opt √pra-pṝ"
+    }
+   ],
+   "question": "How should the eight petals be filled using the syllables of the directional lords?",
+   "premises": [
+    "There are eight petals to be filled.",
+    "Syllables of the eight directional lords are used.",
+    "The filling is a prescribed action."
+   ],
+   "inference": "One should fill the eight petals with the syllables of the eight directional lords.",
+   "uncertainties": [
+    "The specific syllables for each directional lord are not listed in this verse."
+   ],
+   "plain_english": "One should fill the eight petals with the syllables of the eight lords of the directions."
+  }
+ ]
+}

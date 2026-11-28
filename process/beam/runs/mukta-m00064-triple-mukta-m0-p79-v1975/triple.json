@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "conclusive particle referring to the preceding prohibitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locative plural indicating authoritative textual sources",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "ascertained",
+     "grounds": "past participle expressing a settled determination",
+     "morph": "n.nom.sg.ppp-niś-ci"
+    }
+   ],
+   "question": "What scriptural status confirms the preceding ritual prohibitions?",
+   "premises": [
+    "The preceding statements prescribe ritual prohibitions.",
+    "Authoritative scriptures provide determinate rulings.",
+    "This ruling is presented as conclusively established."
+   ],
+   "inference": "Therefore the stated prohibitions are established as scripturally ascertained.",
+   "uncertainties": [],
+   "plain_english": "Thus it is ascertained in the scriptures."
+  }
+ ]
+}

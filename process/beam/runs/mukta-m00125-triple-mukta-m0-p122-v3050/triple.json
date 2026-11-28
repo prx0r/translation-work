@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "saukhyadīpasya",
+     "gloss": "of-comfort-lamp",
+     "grounds": "compound: saukhya (comfort) + dīpa (lamp); dependent member",
+     "morph": "compound gen.sg.m"
+    },
+    {
+     "surface": "vicchede",
+     "gloss": "in-interruption",
+     "grounds": "locative indicating the circumstance of disruption",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghoreṇa",
+     "gloss": "with-fierce",
+     "grounds": "instrumental referring to the fierce mantra/form",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral qualifying śataṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral object of recitation count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "prescriptive injunction for recitation",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What recitation is prescribed when the lamp of well-being is interrupted?",
+   "premises": [
+    "The lamp of well-being may undergo interruption.",
+    "The fierce mantra is the prescribed instrument in this circumstance.",
+    "A specific count of recitation is enjoined."
+   ],
+   "inference": "Upon interruption of the lamp of well-being, one should chant one hundred repetitions with the fierce mantra.",
+   "uncertainties": [
+    "Whether saukhyadīpa refers to a literal lamp or a metaphorical state is not explicit."
+   ],
+   "plain_english": "If the lamp of well-being is interrupted, one should chant one hundred repetitions with the fierce mantra."
+  }
+ ]
+}

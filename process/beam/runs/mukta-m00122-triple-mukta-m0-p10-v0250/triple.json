@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking end of exposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripura+sundaryāḥ",
+     "gloss": "of-tripurasundari",
+     "grounds": "genitive of deity name; sandhi fusion marked by +",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra",
+     "grounds": "subject of the declaration",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb qualifying the declaration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "concludes exposition of the mantra",
+     "morph": "3.sg.pass.past-part + root īr"
+    }
+   ],
+   "question": "What has been properly declared as the mantra of Tripurasundari?",
+   "premises": [
+    "The exposition concludes with iti.",
+    "Tripurasundari's vidya is the mantra.",
+    "It is properly declared."
+   ],
+   "inference": "The verse states that Tripurasundari's mantra has been properly declared.",
+   "uncertainties": [
+    "Whether vidyā here means mantra or knowledge."
+   ],
+   "plain_english": "Thus the mantra of Tripurasundari has been properly declared."
+  }
+ ]
+}

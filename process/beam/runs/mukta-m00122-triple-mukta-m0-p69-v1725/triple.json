@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "kāmavat",
+     "gloss": "like-desire",
+     "grounds": "adverbial comparison to desire",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svātmadarśanena",
+     "gloss": "by-self-vision",
+     "grounds": "instrumental of self-vision",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "kṣobhayatītyarthaḥ",
+     "gloss": "agitates-thus-meaning",
+     "grounds": "fused form kṣobhayati + iti + arthaḥ with internal sandhi",
+     "morph": "3.sg.act-pres + (indecl.) + nom.sg.m"
+    }
+   ],
+   "question": "How does the goddess agitate through self-vision like desire?",
+   "premises": [
+    "Self-vision agitates like desire.",
+    "The verse gives the name's meaning.",
+    "The goddess is surrounded by powers."
+   ],
+   "inference": "The name signifies agitation through self-vision.",
+   "uncertainties": [
+    "Exact grammatical segmentation of the fused final token."
+   ],
+   "plain_english": "Like desire, she agitates by self-vision; this is the meaning."
+  }
+ ]
+}

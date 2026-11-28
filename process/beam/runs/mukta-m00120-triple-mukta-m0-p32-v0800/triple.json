@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "nādabindumayaṃ",
+     "gloss": "nada-bindu-made",
+     "grounds": "compound nāda+bindu+maya; accusative modifier of seat",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "accusative object of likhed",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "dravyamadhye",
+     "gloss": "in-substance-middle",
+     "grounds": "locative of place",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "likhed",
+     "gloss": "should-draw",
+     "grounds": "optative injunction",
+     "morph": "3.sg.act.opt.√likh"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject of likhed",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Should the wise practitioner draw the nāda-bindu seat in the middle of the substance?",
+   "premises": [
+    "The seat is made of nāda and bindu.",
+    "The wise one performs the drawing.",
+    "The drawing occurs in the substance middle."
+   ],
+   "inference": "The verse instructs the wise practitioner to draw the nāda-bindu seat in the middle of the substance.",
+   "uncertainties": [
+    "The exact substance and ritual context are not specified in this verse."
+   ],
+   "plain_english": "The wise one should draw the seat made of nāda and bindu in the middle of the substance."
+  }
+ ]
+}

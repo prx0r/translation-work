@@ -1,0 +1,1017 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3076,
+   "rows": [
+    {
+     "surface": "ārādhitā",
+     "gloss": "worshipped",
+     "grounds": "past participle feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first person instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "proper noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṃbhuśakrādibhissuraiḥ",
+     "gloss": "by-gods-śaṃbhu-śakra-etc",
+     "grounds": "compound instrumental plural",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Who worshipped Viṣṇu together with Śaṃbhu Śakra and other gods?",
+   "premises": [
+    "ārādhitā means worshipped",
+    "mayā means by me",
+    "viṣṇu is the object",
+    "śaṃbhuśakrādibhissuraiḥ names accompanying gods"
+   ],
+   "inference": "The speaker claims to have worshipped Viṣṇu along with Śaṃbhu, Śakra, and other gods.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Viṣṇu was worshipped by me along with Śaṃbhu, Śakra, and the other gods."
+  },
+  {
+   "verse": 3077,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāvāsā",
+     "gloss": "powerful",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yayedaṃ",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun fused",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "dhāryate",
+     "gloss": "sustained",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By whose power is this world sustained?",
+   "premises": [
+    "evaṃ means thus",
+    "prabhāvāsā means powerful",
+    "devī means goddess",
+    "yayedaṃ means by whom",
+    "dhāryate means sustained",
+    "jagat means world"
+   ],
+   "inference": "The powerful goddess sustains this world.",
+   "uncertainties": [
+    "yayedaṃ fused relative form"
+   ],
+   "plain_english": "Thus the powerful goddess sustains this world."
+  },
+  {
+   "verse": 3078,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptarūpā",
+     "gloss": "hidden-form",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "seen",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "bhuvisarvadā",
+     "gloss": "on-earth",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is this hidden form seen on earth?",
+   "premises": [
+    "iyaṃ means this",
+    "hi means indeed",
+    "guptarūpā means hidden form",
+    "dṛśyate means seen",
+    "bhuvisarvadā means on earth"
+   ],
+   "inference": "This hidden form is indeed seen on earth.",
+   "uncertainties": [
+    "bhuvisarvadā fused adverb"
+   ],
+   "plain_english": "This hidden form is indeed seen on earth always."
+  },
+  {
+   "verse": 3079,
+   "rows": [
+    {
+     "surface": "tvadanyaḥ",
+     "gloss": "besides-you",
+     "grounds": "compound pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃśayasyāsya",
+     "gloss": "of-this-doubt",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cchedako",
+     "gloss": "cutter",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who besides you can cut this doubt?",
+   "premises": [
+    "tvadanyaḥ means besides you",
+    "saṃśayasyāsya means of this doubt",
+    "cchedako means cutter",
+    "na means not",
+    "hi means hi",
+    "vidyate means exists"
+   ],
+   "inference": "No one besides you can cut this doubt.",
+   "uncertainties": [
+    "saṃśayasyāsya fused genitive"
+   ],
+   "plain_english": "Besides you, no cutter of this doubt exists."
+  },
+  {
+   "verse": 3080,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārvaṃgī",
+     "gloss": "beautiful-limbed",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surūpā",
+     "gloss": "fair",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāru",
+     "gloss": "charming",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yauvanā",
+     "gloss": "youthful",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What are the qualities of his wife?",
+   "premises": [
+    "tasya means his",
+    "bhāryā means wife",
+    "hi means indeed",
+    "cārvaṃgī means beautiful-limbed",
+    "surūpā means fair",
+    "cāru means charming",
+    "yauvanā means youthful"
+   ],
+   "inference": "His wife is beautiful-limbed, fair, charming, and youthful.",
+   "uncertainties": [
+    "cārvaṃgī sandhi form"
+   ],
+   "plain_english": "His wife is indeed beautiful-limbed, fair, charming, and youthful."
+  },
+  {
+   "verse": 3081,
+   "rows": [
+    {
+     "surface": "śyāmā",
+     "gloss": "dark",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sumadhyā",
+     "gloss": "slender-waisted",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tanvaṃgī",
+     "gloss": "slender-limbed",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "named",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vṛṃdeti",
+     "gloss": "vṛṃdā",
+     "grounds": "proper name with iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrutā",
+     "gloss": "famous",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the name and appearance of this famous wife?",
+   "premises": [
+    "śyāmā means dark",
+    "sumadhyā means slender-waisted",
+    "tanvaṃgī means slender-limbed",
+    "nāmnā means named",
+    "vṛṃdeti means vṛṃdā",
+    "viśrutā means famous"
+   ],
+   "inference": "The famous wife is dark, slender-waisted, slender-limbed, and named Vṛṃdā.",
+   "uncertainties": [
+    "vṛṃdeti includes iti marker"
+   ],
+   "plain_english": "Dark, slender-waisted, slender-limbed, she is famously named Vṛṃdā."
+  },
+  {
+   "verse": 3082,
+   "rows": [
+    {
+     "surface": "sukeśī",
+     "gloss": "beautiful-haired",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padmavadanā",
+     "gloss": "lotus-faced",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pīnonnata",
+     "gloss": "full",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "payodharā",
+     "gloss": "breasted",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What physical features are attributed to Vṛṃdā?",
+   "premises": [
+    "sukeśī means beautiful-haired",
+    "padmavadanā means lotus-faced",
+    "pīnonnata means full",
+    "payodharā means breasted"
+   ],
+   "inference": "Vṛṃdā is beautiful-haired, lotus-faced, and full-breasted.",
+   "uncertainties": [
+    "pīnonnata gender/number ambiguous"
+   ],
+   "plain_english": "She is beautiful-haired, lotus-faced, and full-breasted."
+  },
+  {
+   "verse": 3083,
+   "rows": [
+    {
+     "surface": "jalaṃdharā",
+     "gloss": "jalaṃdhara",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sureṃdrasya",
+     "gloss": "of-indra",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvaśīlaguṇānvitā",
+     "gloss": "all-virtues",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose wife is described as endowed with all virtues?",
+   "premises": [
+    "jalaṃdharā means jalaṃdhara",
+    "sureṃdrasya means of indra",
+    "sarvaśīlaguṇānvitā means all virtues"
+   ],
+   "inference": "Jalaṃdhara's wife is endowed with all virtues.",
+   "uncertainties": [
+    "sureṃdrasya may mean of the lord of gods"
+   ],
+   "plain_english": "Jalaṃdhara, lord of the gods, has a wife endowed with all virtues."
+  },
+  {
+   "verse": 3084,
+   "rows": [
+    {
+     "surface": "anurakto",
+     "gloss": "attached",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavattasyāṃ",
+     "gloss": "to-her",
+     "grounds": "fused pronoun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhāvamāyā",
+     "gloss": "by-illusion",
+     "grounds": "compound instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "vimohitaḥ",
+     "gloss": "deluded",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is he deluded in attachment to her?",
+   "premises": [
+    "anurakto means attached",
+    "bhavattasyāṃ means to her",
+    "bhāvamāyā means by illusion",
+    "vimohitaḥ means deluded"
+   ],
+   "inference": "He is deluded by illusion in his attachment to her.",
+   "uncertainties": [
+    "bhavattasyāṃ fused form"
+   ],
+   "plain_english": "Attached to her, he is deluded by illusion."
+  },
+  {
+   "verse": 3085,
+   "rows": [
+    {
+     "surface": "jalaṃdharanareṃdrasya",
+     "gloss": "of-jalaṃdhara-king",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rājyalakṣmīr",
+     "gloss": "royal-glory",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vinirgatā",
+     "gloss": "departed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What departed from Jalaṃdhara's royal glory?",
+   "premises": [
+    "jalaṃdharanareṃdrasya means of jalaṃdhara king",
+    "rājyalakṣmīr means royal glory",
+    "vinirgatā means departed"
+   ],
+   "inference": "Royal glory departed from Jalaṃdhara.",
+   "uncertainties": [
+    "compound sandhi in jalaṃdharanareṃdrasya"
+   ],
+   "plain_english": "The royal glory of King Jalaṃdhara departed."
+  },
+  {
+   "verse": 3086,
+   "rows": [
+    {
+     "surface": "taccitā",
+     "gloss": "that-mind",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhasmani",
+     "gloss": "ashes",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatparobhūtsuduḥkhitaḥ",
+     "gloss": "absorbed",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happened to his mind then?",
+   "premises": [
+    "taccitā means that mind",
+    "bhasmani means ashes",
+    "tadā means then",
+    "tatparobhūtsuduḥkhitaḥ means absorbed"
+   ],
+   "inference": "His mind became absorbed in ashes and he was greatly distressed.",
+   "uncertainties": [
+    "tatparobhūtsuduḥkhitaḥ fused form"
+   ],
+   "plain_english": "Then his mind was absorbed in ashes and he was greatly distressed."
+  },
+  {
+   "verse": 3087,
+   "rows": [
+    {
+     "surface": "taccittaugulmarūpeṇa",
+     "gloss": "that-mind",
+     "grounds": "compound instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhaturuttamam",
+     "gloss": "took",
+     "grounds": "verb with uttama",
+     "morph": "3.pl.act-past"
+    }
+   ],
+   "question": "What form did that mind take?",
+   "premises": [
+    "taccittaugulmarūpeṇa means that mind",
+    "rūpaṃ means form",
+    "dadhaturuttamam means took"
+   ],
+   "inference": "That mind took an excellent form.",
+   "uncertainties": [
+    "taccittaugulmarūpeṇa fused compound"
+   ],
+   "plain_english": "That mind took an excellent form."
+  },
+  {
+   "verse": 3088,
+   "rows": [
+    {
+     "surface": "tatobṛṃdāvanecāru",
+     "gloss": "then",
+     "grounds": "fused adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulasīvanamāśrītā",
+     "gloss": "tulasī-grove",
+     "grounds": "compound participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where did she take refuge then?",
+   "premises": [
+    "tatobṛṃdāvanecāru means then",
+    "tulasīvanamāśrītā means tulasī grove"
+   ],
+   "inference": "She took refuge in the Tulasī grove.",
+   "uncertainties": [
+    "tatobṛṃdāvanecāru fused form"
+   ],
+   "plain_english": "Then she took refuge in the Tulasī grove."
+  },
+  {
+   "verse": 3089,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛtilokesminnāmnāvṛṃdā",
+     "gloss": "from-then",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vanaṃ",
+     "gloss": "forest",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the forest called from then?",
+   "premises": [
+    "tataḥ means then",
+    "prabhṛtilokesminnāmnāvṛṃdā means from then",
+    "vanaṃ means forest",
+    "smṛtam means remembered"
+   ],
+   "inference": "From then the forest is remembered as Vṛṃdā's.",
+   "uncertainties": [
+    "prabhṛtilokesminnāmnāvṛṃdā fused compound"
+   ],
+   "plain_english": "From then the forest is remembered by the name Vṛṃdā."
+  },
+  {
+   "verse": 3090,
+   "rows": [
+    {
+     "surface": "prāsaṃgikī",
+     "gloss": "incidental",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpuṇyā",
+     "gloss": "greatly-holy",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasaṃgātpāpanāśanī",
+     "gloss": "by-association",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the power of incidental association?",
+   "premises": [
+    "prāsaṃgikī means incidental",
+    "mahāpuṇyā means greatly holy",
+    "prasaṃgātpāpanāśanī means by association"
+   ],
+   "inference": "Incidental association is greatly holy and destroys sin.",
+   "uncertainties": [
+    "prasaṃgātpāpanāśanī fused compound"
+   ],
+   "plain_english": "Incidental association is greatly holy and destroys sin."
+  },
+  {
+   "verse": 3091,
+   "rows": [
+    {
+     "surface": "śubhāyāṃ",
+     "gloss": "auspicious",
+     "grounds": "locative adjective",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hemagarbhāyāṃ",
+     "gloss": "golden-wombed",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "siktāyāṃ",
+     "gloss": "sprinkled",
+     "grounds": "past participle locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tīrthavāriṇā",
+     "gloss": "holy-water",
+     "grounds": "compound instrumental",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "In what kind of place should Tulasī be planted?",
+   "premises": [
+    "śubhāyāṃ means auspicious",
+    "hemagarbhāyāṃ means golden-wombed",
+    "siktāyāṃ means sprinkled",
+    "tīrthavāriṇā means holy water"
+   ],
+   "inference": "Tulasī should be planted in an auspicious golden-wombed place sprinkled with holy water.",
+   "uncertainties": [
+    "hemagarbhāyāṃ compound sense"
+   ],
+   "plain_english": "In an auspicious golden-wombed place sprinkled with holy water."
+  },
+  {
+   "verse": 3092,
+   "rows": [
+    {
+     "surface": "tulasīropaṇaṃ",
+     "gloss": "tulasī-planting",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "svastivācanapūrvakam",
+     "gloss": "with-blessing",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should Tulasī planting be performed?",
+   "premises": [
+    "tulasīropaṇaṃ means tulasī planting",
+    "kuryāt means should do",
+    "svastivācanapūrvakam means with blessing"
+   ],
+   "inference": "One should plant Tulasī with a blessing ceremony.",
+   "uncertainties": [
+    "svastivācanapūrvakam compound"
+   ],
+   "plain_english": "One should plant Tulasī preceded by a blessing."
+  },
+  {
+   "verse": 3093,
+   "rows": [
+    {
+     "surface": "paṃcamyārdrāsamete",
+     "gloss": "fifth",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "suraguru",
+     "gloss": "suraguru",
+     "grounds": "compound noun",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "divase",
+     "gloss": "day",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karkaṭākhye",
+     "gloss": "karkaṭa",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vilagne",
+     "gloss": "lagna",
+     "grounds": "locative participle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīmānrāmānujāryassamajaninigamāṃtārthasaṃrakṣaṇārtham",
+     "gloss": "glorious",
+     "grounds": "long compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "On what day and lagna is the planting prescribed?",
+   "premises": [
+    "paṃcamyārdrāsamete means fifth",
+    "suraguru means suraguru",
+    "divase means day",
+    "karkaṭākhye means karkaṭa",
+    "vilagne means lagna",
+    "śrīmānrāmānujāryassamajaninigamāṃtārthasaṃrakṣaṇārtham means glorious"
+   ],
+   "inference": "The planting is prescribed on the fifth day with Karkaṭa lagna.",
+   "uncertainties": [
+    "long compound not fully parsed"
+   ],
+   "plain_english": "On the fifth day, O suraguru, in Karkaṭa lagna, for preserving the meaning of scripture."
+  },
+  {
+   "verse": 3094,
+   "rows": [
+    {
+     "surface": "ekāṃtibhirdvādaśabhissahasraiḥ",
+     "gloss": "by-devotees",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "śrīraṃga",
+     "gloss": "at-śrīraṃga",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "āsteyatisārvabhaumaḥ",
+     "gloss": "resided",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-past"
+    }
+   ],
+   "question": "Where did he reside with twelve thousand devotees?",
+   "premises": [
+    "ekāṃtibhirdvādaśabhissahasraiḥ means by devotees",
+    "śrīraṃga means at śrīraṃga",
+    "āsteyatisārvabhaumaḥ means resided"
+   ],
+   "inference": "He resided at Śrīraṃga with twelve thousand devotees.",
+   "uncertainties": [
+    "āsteyatisārvabhaumaḥ fused form"
+   ],
+   "plain_english": "With twelve thousand devotees he resided at Śrīraṃga."
+  },
+  {
+   "verse": 3095,
+   "rows": [
+    {
+     "surface": "gītābhāṣyamathaprapatti",
+     "gloss": "gītā-commentary",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viṣaye",
+     "gloss": "subject",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gadyatrayaṃ",
+     "gloss": "three-prose",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cākarottasmai",
+     "gloss": "did",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "lakṣmaṇakṣaṇāyamunaye",
+     "gloss": "lakṣmaṇa",
+     "grounds": "compound dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tubhyaṃ",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salute",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūrmahe",
+     "gloss": "we-do",
+     "grounds": "verb",
+     "morph": "1.pl.act-pres"
+    }
+   ],
+   "question": "What works did he compose for Lakṣmaṇa and Yamuna?",
+   "premises": [
+    "gītābhāṣyamathaprapatti means gītā commentary",
+    "viṣaye means subject",
+    "gadyatrayaṃ means three prose",
+    "cākarottasmai means did",
+    "lakṣmaṇakṣaṇāyamunaye means lakṣmaṇa",
+    "tubhyaṃ means to you",
+    "namaḥ means salute",
+    "kūrmahe means we do"
+   ],
+   "inference": "He composed Gītā commentary and three prose works for Lakṣmaṇa and Yamuna.",
+   "uncertainties": [
+    "cākarottasmai fused verb"
+   ],
+   "plain_english": "He composed a Gītā commentary and three prose works for Lakṣmaṇa and Yamuna; we salute you."
+  },
+  {
+   "verse": 3096,
+   "rows": [
+    {
+     "surface": "gatvātāṃ",
+     "gloss": "going",
+     "grounds": "fused participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmunākhyāṃ",
+     "gloss": "yamunā",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saritamathayatīṃdrākhyapadmākareṃdraṃ",
+     "gloss": "river",
+     "grounds": "long compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūryaprāṇisasyepravahati",
+     "gloss": "filling",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "bahudhādeśikeṃdra",
+     "gloss": "many",
+     "grounds": "compound noun",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bhramaughaiḥ",
+     "gloss": "floods",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What does the Yamunā river fill and carry?",
+   "premises": [
+    "gatvātāṃ means going",
+    "yāmunākhyāṃ means yamunā",
+    "saritamathayatīṃdrākhyapadmākareṃdraṃ means river",
+    "saṃpūryaprāṇisasyepravahati means filling",
+    "bahudhādeśikeṃdra means many",
+    "bhramaughaiḥ means floods"
+   ],
+   "inference": "The Yamunā river fills and carries floods.",
+   "uncertainties": [
+    "long fused compounds"
+   ],
+   "plain_english": "Going to the Yamunā river, it fills and carries floods in many ways."
+  },
+  {
+   "verse": 3097,
+   "rows": [
+    {
+     "surface": "balabhadrastṛtīyastu",
+     "gloss": "balabhadrā",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalaukaścidbhaviṣyati",
+     "gloss": "third",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "Who will be the third Balabhadrā in Kali age?",
+   "premises": [
+    "balabhadrastṛtīyastu means balabhadrā",
+    "kalaukaścidbhaviṣyati means third"
+   ],
+   "inference": "A third Balabhadrā will arise in Kali age.",
+   "uncertainties": [
+    "fused forms"
+   ],
+   "plain_english": "A third Balabhadrā will arise in Kali age."
+  },
+  {
+   "verse": 3098,
+   "rows": [
+    {
+     "surface": "ahīnāmīśvaraḥ",
+     "gloss": "not-deficient",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣādabhūdrāmānujo",
+     "gloss": "directly",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "muni",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who directly became the lord of serpents?",
+   "premises": [
+    "ahīnāmīśvaraḥ means not deficient",
+    "sākṣādabhūdrāmānujo means directly",
+    "muniḥ means muni"
+   ],
+   "inference": "Rāmānuja directly became the lord of serpents.",
+   "uncertainties": [
+    "sākṣādabhūdrāmānujo fused form"
+   ],
+   "plain_english": "Rāmānuja directly became the lord of serpents, a muni."
+  },
+  {
+   "verse": 3099,
+   "rows": [
+    {
+     "surface": "kāṃtimatyātmajaśśrīmāllīṁlāmānuṣavigrahaḥ",
+     "gloss": "beautiful",
+     "grounds": "long fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the beautiful son of Kāṃtimatī?",
+   "premises": [
+    "kāṃtimatyātmajaśśrīmāllīṁlāmānuṣavigrahaḥ means beautiful"
+   ],
+   "inference": "The beautiful son of Kāṃtimatī is described.",
+   "uncertainties": [
+    "long fused compound not parsed"
+   ],
+   "plain_english": "The beautiful son of Kāṃtimatī, Śrīmān Līlāmānuṣavigraha."
+  }
+ ]
+}

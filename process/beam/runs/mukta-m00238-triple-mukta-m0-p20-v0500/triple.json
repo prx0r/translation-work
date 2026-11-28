@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "śaṃkhaṃcakraṃgadāṃpadmaṃ",
+     "gloss": "conch-disk-club-lotus",
+     "grounds": "fused accusative list of four emblems",
+     "morph": "acc.sg.n (compound)"
+    },
+    {
+     "surface": "dorbhiḥ",
+     "gloss": "with-arms",
+     "grounds": "instrumental plural of dorbhiḥ",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bibhartya",
+     "gloss": "bears",
+     "grounds": "present indicative of bhṛ with sandhi",
+     "morph": "3.sg.act-pres (root bhṛ)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.m (pronoun)"
+    }
+   ],
+   "question": "Which four emblems does the white-armed deity always bear in his hands?",
+   "premises": [
+    "The verse lists four emblems.",
+    "It says he bears them always.",
+    "Arms are the instrument."
+   ],
+   "inference": "The deity is described as eternally bearing conch, disk, club, and lotus in his arms.",
+   "uncertainties": [
+    "Fused token preserves sandhi; exact case of each emblem is not separately marked."
+   ],
+   "plain_english": "He always bears conch, disk, club, and lotus with his arms."
+  }
+ ]
+}

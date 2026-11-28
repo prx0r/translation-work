@@ -1,0 +1,76 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "dṛḍhāḥ",
+     "gloss": "firm",
+     "grounds": "firm adjective agreeing with teeth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "become",
+     "grounds": "third-person plural present of as",
+     "morph": "3pl.act.pres (root as)"
+    },
+    {
+     "surface": "calitāḥ",
+     "gloss": "loose",
+     "grounds": "loose adjective agreeing with teeth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dantāḥ",
+     "gloss": "teeth",
+     "grounds": "teeth as subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral modifying days",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahāt",
+     "gloss": "days",
+     "grounds": "day-term in ablative plural (legacy hint days)",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "doubt as subject of negation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Do loose teeth become firm within seven days without doubt?",
+   "premises": [
+    "Firm teeth become firm.",
+    "Loose teeth become firm.",
+    "Seven days suffice.",
+    "No doubt here."
+   ],
+   "inference": "Loose teeth become firm within seven days.",
+   "uncertainties": [
+    "ahāt parsing uncertain"
+   ],
+   "plain_english": "They become firm; loose teeth become firm in seven days; here there is no doubt."
+  }
+ ]
+}

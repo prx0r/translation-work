@@ -1,0 +1,508 @@
+{
+ "song": "net-p14",
+ "items": [
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "arthe",
+     "gloss": "for-meaning",
+     "grounds": "artha + locative sense",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "dāna",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śivatvābhivyakteḥ",
+     "gloss": "of-śiva-ness-manifestation",
+     "grounds": "śivatva + abhivyakti",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "kṣapaṇaṃ",
+     "gloss": "removal",
+     "grounds": "kṣapaṇa",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśānām",
+     "gloss": "of-bonds",
+     "grounds": "pāśa + genitive plural",
+     "morph": "n.gen.pl.m"
+    }
+   ],
+   "question": "What two acts bring about the manifestation of Śivatva?",
+   "premises": [
+    "Gift is for meaning.",
+    "Removal is of bonds."
+   ],
+   "inference": "Manifestation of Śivatva requires giving and bond-removal.",
+   "uncertainties": [
+    "arthe may be locative or dative in sense."
+   ],
+   "plain_english": "Gift is for meaning; removal of bonds is for manifestation of Śivatva."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "vyāpakasya",
+     "gloss": "of-pervading",
+     "grounds": "vyāpaka + genitive",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "aṇoḥ",
+     "gloss": "of-atom",
+     "grounds": "aṇu + genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "svarūpaprakāśanāt",
+     "gloss": "own-form-manifestation",
+     "grounds": "svarūpa + prakāśana + ablative",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "How is the own form of the pervading atom manifested?",
+   "premises": [
+    "The atom is pervading.",
+    "Its own form is manifested."
+   ],
+   "inference": "Manifestation proceeds from the pervading atom's own form.",
+   "uncertainties": [
+    "aṇu may be technical atom or subtle entity."
+   ],
+   "plain_english": "From the manifestation of the own form of the pervading atom."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "kriyāśaktirūpā",
+     "gloss": "power-of-action-form",
+     "grounds": "kriyā + śakti + rūpa",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-lady",
+     "grounds": "maheśvarī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhaviṣṇuḥ",
+     "gloss": "prevails",
+     "grounds": "prabhaviṣṇu",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "rakṣā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "said",
+     "grounds": "vac root, past participle",
+     "morph": "v.3.sg.pass-past+vac"
+    }
+   ],
+   "question": "Who is said to prevail as protection in the form of action-power?",
+   "premises": [
+    "Maheshvari is power of action.",
+    "Protection is said to prevail."
+   ],
+   "inference": "Protection is Maheshvari prevailing as action-power.",
+   "uncertainties": [
+    "prabhaviṣṇuḥ may modify Maheshvari or protection."
+   ],
+   "plain_english": "Maheshvari, in the form of action-power, is said to prevail as protection."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣaṇamuktam",
+     "gloss": "characteristic-stated",
+     "grounds": "lakṣaṇa + ukta",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "durādharṣā",
+     "gloss": "hard-to-overcome",
+     "grounds": "dur + ādharṣa",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "balinaḥ",
+     "gloss": "strong",
+     "grounds": "balin",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "duḥsahāḥ",
+     "gloss": "unbearable",
+     "grounds": "duḥ + saha",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities are attributed to those described after the characteristic is stated?",
+   "premises": [
+    "The characteristic is stated.",
+    "They are hard-to-overcome, strong, unbearable."
+   ],
+   "inference": "The stated characteristic applies to hard-to-overcome strong unbearable beings.",
+   "uncertainties": [
+    "Subject of qualities is not explicit."
+   ],
+   "plain_english": "Thus the characteristic is stated: hard-to-overcome, strong, and unbearable."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "śivaśaktiprabhāvaḥ",
+     "gloss": "śiva-śakti-power",
+     "grounds": "śiva + śakti + prabhāva",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ājñāvaśavartitā",
+     "gloss": "under-command",
+     "grounds": "ājñā + vaśa + vartitā",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What happens then through the power of Śiva-śakti?",
+   "premises": [
+    "Śiva-śakti power acts.",
+    "Then one is under command."
+   ],
+   "inference": "Śiva-śakti power places one under command.",
+   "uncertainties": [
+    "Agent of command is unspecified."
+   ],
+   "plain_english": "Then, through the power of Śiva-śakti, one is under command."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "rakṣā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "kṛ root, present passive",
+     "morph": "v.3.sg.pass-pres+kṛ"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "sa",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "sukṛtā",
+     "gloss": "well-done",
+     "grounds": "su + kṛta",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "as root, optative",
+     "morph": "v.3.sg.opt+as"
+    }
+   ],
+   "question": "What would protection be if it is done in that way?",
+   "premises": [
+    "Protection is done.",
+    "That protection would be well-done."
+   ],
+   "inference": "Properly done protection is well-done.",
+   "uncertainties": [
+    "sā may refer to protection or rite."
+   ],
+   "plain_english": "Protection is done; that would be well-done."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "pra + vac root, future",
+     "morph": "v.1.sg.act-fut+vac"
+    },
+    {
+     "surface": "vyākhyāsyāmi",
+     "gloss": "I-will-explain",
+     "grounds": "vyā + khyā root, future",
+     "morph": "v.1.sg.act-fut+khyā"
+    }
+   ],
+   "question": "What will the speaker properly declare and explain?",
+   "premises": [
+    "The speaker will declare.",
+    "The speaker will explain."
+   ],
+   "inference": "The speaker will properly declare and explain the matter.",
+   "uncertainties": [
+    "Object of declaration is not stated."
+   ],
+   "plain_english": "I will properly declare and explain."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "strī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mudritā",
+     "gloss": "sealed",
+     "grounds": "mudrā + past participle",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "bhūtaiḥ",
+     "gloss": "by-beings",
+     "grounds": "bhūta + instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhaḥ",
+     "gloss": "embryo",
+     "grounds": "garbha",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhavet",
+     "gloss": "would-arise",
+     "grounds": "sam + bhū root, optative",
+     "morph": "v.3.sg.opt+bhū"
+    }
+   ],
+   "question": "What happens to the embryo when a woman is sealed by beings?",
+   "premises": [
+    "A woman is sealed by beings.",
+    "Then the embryo would not arise."
+   ],
+   "inference": "Sealing by beings prevents embryo arising.",
+   "uncertainties": [
+    "mudritā may mean magically sealed or closed."
+   ],
+   "plain_english": "When a woman is sealed by beings, then the embryo would not arise."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "idam + locative",
+     "morph": "pron.loc.sg.n"
+    },
+    {
+     "surface": "retoraktātmani",
+     "gloss": "semen-blood-self",
+     "grounds": "retas + rakta + ātman",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "bījasaṃbhavaḥ",
+     "gloss": "seed-arising",
+     "grounds": "bīja + saṃbhava",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "garbhādhānam",
+     "gloss": "embryo-implantation",
+     "grounds": "garbha + ādhāna",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What arises in the semen-blood self for embryo implantation?",
+   "premises": [
+    "The self is semen-blood.",
+    "Seed arising occurs there."
+   ],
+   "inference": "Seed arising in the semen-blood self leads to embryo implantation.",
+   "uncertainties": [
+    "retoraktātmani may be compound or locative phrase."
+   ],
+   "plain_english": "In this semen-blood self, seed arising is embryo implantation."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-done",
+     "grounds": "kṛ root, gerundive",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtikāgṛham",
+     "gloss": "lying-in-chamber",
+     "grounds": "sūtikā + gṛha",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ityarthāt",
+     "gloss": "by-meaning",
+     "grounds": "iti + artha + ablative",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What is to be done, and what does that mean?",
+   "premises": [
+    "Something is to be done.",
+    "By meaning it is the lying-in chamber."
+   ],
+   "inference": "The required action concerns the lying-in chamber.",
+   "uncertainties": [
+    "kāryam object is implicit."
+   ],
+   "plain_english": "To be done; by meaning, the lying-in chamber."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "tamapi",
+     "gloss": "him-also",
+     "grounds": "tad + api",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "bhūtāḥ",
+     "gloss": "beings",
+     "grounds": "bhūta",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "hiṃsanti",
+     "gloss": "harm",
+     "grounds": "hiṃs root, present",
+     "morph": "v.3.pl.act-pres+hiṃs"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣet",
+     "gloss": "protect",
+     "grounds": "rakṣ root, optative",
+     "morph": "v.3.sg.opt+rakṣ"
+    }
+   ],
+   "question": "Why must he also be protected?",
+   "premises": [
+    "Beings harm him also.",
+    "Therefore protect him."
+   ],
+   "inference": "Protection is needed because beings harm him.",
+   "uncertainties": [
+    "tam may refer to child or patient."
+   ],
+   "plain_english": "Beings harm him also; therefore protect him."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "kṣīrasparśādipoṣaṇaiḥ",
+     "gloss": "by-milk-touch-etc-nourishment",
+     "grounds": "kṣīra + sparśa + ādi + poṣaṇa",
+     "morph": "n.inst.pl.n"
+    }
+   ],
+   "question": "By what means is nourishment given?",
+   "premises": [
+    "Milk, touch, and so on nourish."
+   ],
+   "inference": "Nourishment is effected by milk, touch, and related means.",
+   "uncertainties": [
+    "ādi leaves the list open."
+   ],
+   "plain_english": "By milk, touch, and other nourishment."
+  }
+ ]
+}

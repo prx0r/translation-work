@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition of prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta+vāraṃ",
+     "gloss": "seven-times",
+     "grounds": "compound specifying count of repetitions",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrument by which consecration is performed",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √mantr"
+    }
+   ],
+   "question": "How many times must the practitioner consecrate again with the root mantra?",
+   "premises": [
+    "The action is repeated again",
+    "The repetition is seven times",
+    "The root mantra is the instrument"
+   ],
+   "inference": "The practitioner should consecrate again seven times using the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Again, one should consecrate seven times with the root mantra."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "samprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "prior purificatory action",
+     "morph": "gerund √prokṣ with sam"
+    },
+    {
+     "surface": "kampaṭhena",
+     "gloss": "with-cloth",
+     "grounds": "instrument used for sprinkling or wiping",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mūla+mantrakam",
+     "gloss": "root-mantra",
+     "grounds": "object associated with the sprinkling",
+     "morph": "compound; n.acc.sg"
+    }
+   ],
+   "question": "What preparatory act involving cloth and the root mantra follows the consecration?",
+   "premises": [
+    "Sprinkling is performed first",
+    "A cloth serves as the instrument",
+    "The root mantra is involved in the act"
+   ],
+   "inference": "After consecrating, one should sprinkle using a cloth together with the root mantra.",
+   "uncertainties": [
+    "Whether mūla+mantrakam is the object sprinkled or recited during sprinkling is context-dependent"
+   ],
+   "plain_english": "Having sprinkled with a cloth, one should apply the root mantra."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "śiṣṭena",
+     "gloss": "with-remaining",
+     "grounds": "refers to what is left over",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tejas+rūpeṇa",
+     "gloss": "light-form",
+     "grounds": "compound describing luminous nature",
+     "morph": "compound; m.ins.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "points to the remaining luminous substance",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quality characterizes the remaining substance used in the next ritual step?",
+   "premises": [
+    "Something remains after the prior act",
+    "That remainder has the form of light",
+    "That luminous remainder is to be used"
+   ],
+   "inference": "The remaining substance, indeed having the form of light, is employed in the procedure.",
+   "uncertainties": [],
+   "plain_english": "Indeed, with that remaining substance, which has the form of light."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "dakṣa+nāsā+puṭena",
+     "gloss": "through-right-nostril",
+     "grounds": "compound indicating channel of action",
+     "morph": "compound; n.ins.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the luminous substance or act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smṛtvā",
+     "gloss": "having-remembered",
+     "grounds": "mental act accompanying the procedure",
+     "morph": "gerund √smṛ"
+    },
+    {
+     "surface": "dakṣiṇa+hastakam",
+     "gloss": "right-hand",
+     "grounds": "compound naming the hand involved",
+     "morph": "compound; n.acc.sg"
+    }
+   ],
+   "question": "Through which bodily channel and with what recollection is the right hand engaged?",
+   "premises": [
+    "The right nostril is specified as the channel",
+    "A recollection accompanies the act",
+    "The right hand is the object of engagement"
+   ],
+   "inference": "One should engage the right hand while remembering this through the right nostril.",
+   "uncertainties": [
+    "The exact referent of etat is inferred from context"
+   ],
+   "plain_english": "Having remembered this through the right nostril, one should engage the right hand."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "hastau+ācamya",
+     "gloss": "having-sipped-with-hands",
+     "grounds": "compound gerund indicating ritual sipping using hands",
+     "morph": "compound; gerund √cam with ā"
+    },
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "mantra accompanying the act",
+     "morph": "compound; m.ins.sg"
+    },
+    {
+     "surface": "mantra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "qualified practitioner performing the rite",
+     "morph": "compound; m.nom.sg"
+    }
+   ],
+   "question": "What purification must the mantra-knower perform before proceeding with the root mantra?",
+   "premises": [
+    "The practitioner is a knower of mantras",
+    "Ritual sipping with the hands is performed",
+    "The root mantra accompanies the act"
+   ],
+   "inference": "The mantra-knower should perform ritual sipping with the hands while using the root mantra.",
+   "uncertainties": [],
+   "plain_english": "The knower of mantras, having sipped water with the hands, should do so with the root mantra."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "ravi+maṇḍala+saṃsthāya",
+     "gloss": "to-sun-orb-situated",
+     "grounds": "compound describing the deity's locus",
+     "morph": "compound; m.dat.sg"
+    },
+    {
+     "surface": "sva+iṣṭa+devāya",
+     "gloss": "to-own-chosen-deity",
+     "grounds": "compound naming the recipient of offering",
+     "morph": "compound; m.dat.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-offer-libation",
+     "grounds": "prescriptive ritual offering",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "To whom, and in what locus, should the practitioner offer libation?",
+   "premises": [
+    "The recipient is one's own chosen deity",
+    "That deity is situated in the sun's orb",
+    "A libation is to be offered"
+   ],
+   "inference": "One should offer libation to one's own chosen deity situated in the orb of the sun.",
+   "uncertainties": [],
+   "plain_english": "One should offer libation to one's own chosen deity situated in the orb of the sun."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "tarpaṇīyaṃ",
+     "gloss": "to-be-offered-libation",
+     "grounds": "object requiring libation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāmakaiḥ",
+     "gloss": "with-left-hands",
+     "grounds": "instrument or manner of offering",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kāraṇena",
+     "gloss": "by-reason",
+     "grounds": "indicates a specific rationale",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means and for what reason is the libation to be offered in this case?",
+   "premises": [
+    "A libation is to be offered",
+    "The left hands are involved",
+    "A specific reason governs this mode"
+   ],
+   "inference": "The libation should indeed be offered with the left hands for a specific reason.",
+   "uncertainties": [
+    "The specific kāraṇena is not stated in this verse"
+   ],
+   "plain_english": "Indeed, the libation is to be offered with the left hands for a particular reason."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "brāhmīṃ",
+     "gloss": "brahmi",
+     "grounds": "names a tradition or mode",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vedic",
+     "grounds": "qualifies the tradition or view",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "view",
+     "grounds": "doctrinal position adopted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśritaḥ",
+     "gloss": "having-resorted-to",
+     "grounds": "adoption of that view",
+     "morph": "m.nom.sg past-participle √śri with ā"
+    }
+   ],
+   "question": "Which doctrinal tradition governs the alternative mode of offering described here?",
+   "premises": [
+    "A practitioner resorts to a specific view",
+    "That view is called brahmi and vedic",
+    "This adoption conditions the ritual mode"
+   ],
+   "inference": "One following the Brahmi Vedic view performs the offering according to that tradition.",
+   "uncertainties": [],
+   "plain_english": "Having resorted indeed to the Brahmi Vedic view."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "ca+arpayet",
+     "gloss": "and-one-should-offer",
+     "grounds": "continues the prescriptive sequence",
+     "morph": "3.sg.opt.caus.act √ṛ with ā"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior devotional act",
+     "morph": "gerund √stu"
+    },
+    {
+     "surface": "natvā+iṣṭa+devatām",
+     "gloss": "having-bowed-to-chosen-deity",
+     "grounds": "compound gerund with object of reverence",
+     "morph": "compound; gerund √nam; f.acc.sg"
+    }
+   ],
+   "question": "What devotional acts must precede the offering to the chosen deity?",
+   "premises": [
+    "Praise is performed first",
+    "Bowing to the chosen deity follows",
+    "The offering is made in this manner"
+   ],
+   "inference": "One should offer thus after praising and bowing to the chosen deity.",
+   "uncertainties": [],
+   "plain_english": "And one should offer thus, having praised and bowed to the chosen deity."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "act of reverence",
+     "morph": "3.sg.opt.act √nam with pra"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of a sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight-rite",
+     "grounds": "names the ritual being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntrikī",
+     "gloss": "tantric",
+     "grounds": "qualifies the twilight rite as tantric",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual is completed and identified by the concluding act of bowing?",
+   "premises": [
+    "Bowing concludes the sequence",
+    "The sequence is named as sandhya",
+    "This sandhya is specifically tantric"
+   ],
+   "inference": "One should bow; thus is completed the tantric twilight rite.",
+   "uncertainties": [],
+   "plain_english": "One should bow; thus indeed is the tantric twilight rite."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "lopaḥ",
+     "gloss": "omission",
+     "grounds": "condition of missing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the time of omission",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root-mantra",
+     "grounds": "object of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-repeat",
+     "grounds": "compensatory recitation",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What compensatory practice is required when the tantric rite is omitted?",
+   "premises": [
+    "An omission of the rite may occur",
+    "The root mantra is available for recitation",
+    "A specific count of repetitions is prescribed"
+   ],
+   "inference": "If there is omission, one should then repeat the root mantra one hundred times.",
+   "uncertainties": [],
+   "plain_english": "And if there is omission, then one should repeat the root mantra a hundred times."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the compensatory act",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "sequence after completion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntrikam",
+     "gloss": "tantric-rite",
+     "grounds": "ritual to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive performance",
+     "morph": "3.sg.opt.act √car with ā"
+    }
+   ],
+   "question": "What action should follow after completing the compensatory recitation?",
+   "premises": [
+    "The compensatory recitation has been done",
+    "A tantric rite remains to be performed",
+    "The sequence moves from compensation to performance"
+   ],
+   "inference": "Having done that, one should then perform the tantric rite.",
+   "uncertainties": [],
+   "plain_english": "Having done that, one should then perform the tantric rite."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "ṛṣi+ādi+tritayasya",
+     "gloss": "of-seer-etc-triad",
+     "grounds": "compound naming the triad of seer and others",
+     "morph": "compound; n.gen.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks a new step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puratas",
+     "gloss": "in-front",
+     "grounds": "spatial position for the act",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhenu+mudrayā",
+     "gloss": "with-cow-gesture",
+     "grounds": "compound naming the ritual gesture used",
+     "morph": "compound; f.ins.sg"
+    }
+   ],
+   "question": "Before which triad and with which gesture should the next ritual step be performed?",
+   "premises": [
+    "A triad beginning with the seer is invoked",
+    "The action takes place in front of that triad",
+    "The cow gesture is employed"
+   ],
+   "inference": "Then, in front of the triad of seer and others, one should act with the cow gesture.",
+   "uncertainties": [
+    "The full composition of the triad is not specified in this verse"
+   ],
+   "plain_english": "Then, in front of the triad of the seer and others, with the cow gesture."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "mental visualization preceding utterance",
+     "morph": "gerund √dhyai"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root-mantra",
+     "grounds": "mantra to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive vocalization",
+     "morph": "3.sg.opt.act √car with sam-ud"
+    }
+   ],
+   "question": "What mental and vocal acts must be combined in addressing the deity?",
+   "premises": [
+    "The deity is the focus of meditation",
+    "Meditation precedes utterance",
+    "The root mantra is to be uttered"
+   ],
+   "inference": "Having meditated on the deity, one should utter the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the deity, one should utter the root mantra."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "viṃśati+aṣṭa+yukta+mukha+abjake",
+     "gloss": "in-twenty-eight-joined-lotus-face",
+     "grounds": "compound describing a locus with twenty-eight joined lotus-faces",
+     "morph": "compound; n.loc.sg"
+    }
+   ],
+   "question": "In what specific lotus-faced locus is the mantra utterance to be situated?",
+   "premises": [
+    "A locus is specified for the practice",
+    "That locus is described as having twenty-eight joined lotus-faces",
+    "The utterance is situated there"
+   ],
+   "inference": "The utterance is to be performed in the locus of the twenty-eight joined lotus-faces.",
+   "uncertainties": [
+    "The precise ritual or anatomical referent of this locus is not explicit"
+   ],
+   "plain_english": "In the lotus-face joined with twenty-eight."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the next stage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaraṇa+devān",
+     "gloss": "enclosing-deities",
+     "grounds": "compound naming the surrounding deities",
+     "morph": "compound; m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indicates same manner as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+eka+vārakam",
+     "gloss": "one-by-one-time",
+     "grounds": "compound specifying single repetition for each",
+     "morph": "compound; (indecl.)"
+    }
+   ],
+   "question": "How should the enclosing deities be addressed after the central utterance?",
+   "premises": [
+    "The enclosing deities are included next",
+    "They are addressed in the same manner",
+    "Each is addressed once"
+   ],
+   "inference": "Then one should likewise address the enclosing deities, each one time.",
+   "uncertainties": [],
+   "plain_english": "Then, likewise, one should address the enclosing deities, each one time."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "dik+īśān",
+     "gloss": "direction-lords",
+     "grounds": "compound naming guardians of directions",
+     "morph": "compound; m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khagān",
+     "gloss": "birds",
+     "grounds": "additional beings to be honored",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "gerund √nam"
+    },
+    {
+     "surface": "bhāṇḍaṃ",
+     "gloss": "vessel",
+     "grounds": "object held during movement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "location where vessel is held",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dadhat",
+     "gloss": "holding",
+     "grounds": "ongoing action while proceeding",
+     "morph": "m.nom.sg present-participle √dhā"
+    }
+   ],
+   "question": "Whom must the practitioner honor before proceeding while holding the ritual vessel?",
+   "premises": [
+    "The direction-lords are to be honored",
+    "The birds are also to be honored",
+    "The practitioner holds a vessel in hand"
+   ],
+   "inference": "Having bowed to the direction-lords and the birds, one proceeds holding the vessel in hand.",
+   "uncertainties": [
+    "The identity of khagān in this ritual context is not fully specified"
+   ],
+   "plain_english": "Having bowed to the lords of the directions and the birds, holding the vessel in hand."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "vīkṣeta",
+     "gloss": "one-should-look",
+     "grounds": "prescriptive visual attention",
+     "morph": "3.sg.opt.act √īkṣ with vi"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "sets duration of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "one-reaches",
+     "grounds": "endpoint of the movement",
+     "morph": "3.sg.pres.act √āp with pra"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "house",
+     "grounds": "destination reached",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For how long must the practitioner maintain visual attention while returning?",
+   "premises": [
+    "Looking is prescribed",
+    "The action continues until arrival",
+    "The destination is the house"
+   ],
+   "inference": "One should keep looking until one indeed reaches the house.",
+   "uncertainties": [
+    "What is to be looked at is not specified in this verse"
+   ],
+   "plain_english": "One should keep looking until one indeed reaches the house."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "purificatory act upon arrival",
+     "morph": "gerund √kṣal with pra"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped-water",
+     "grounds": "ritual sipping for purification",
+     "morph": "gerund √cam with ā"
+    },
+    {
+     "surface": "pūjāyāḥ",
+     "gloss": "of-worship",
+     "grounds": "relates to the place of worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "gṛha+dvāra+antare",
+     "gloss": "in-house-door-inside",
+     "grounds": "compound specifying location within the doorway",
+     "morph": "compound; n.loc.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "posture at the specified place",
+     "morph": "m.nom.sg past-participle √sthā"
+    }
+   ],
+   "question": "Where and in what state should the practitioner stand after performing purification upon return?",
+   "premises": [
+    "Washing and sipping are performed",
+    "A specific location inside the house doorway is named",
+    "The practitioner stands there"
+   ],
+   "inference": "After washing and sipping, one should stand inside the doorway of the house of worship.",
+   "uncertainties": [],
+   "plain_english": "Having washed and sipped water, standing inside the doorway of the house of worship."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "praṇamet",
+     "gloss": "one-should-bow",
+     "grounds": "act of reverence",
+     "morph": "3.sg.opt.act √nam with pra"
+    },
+    {
+     "surface": "iṣṭa+devaṃ",
+     "gloss": "chosen-deity",
+     "grounds": "primary object of reverence",
+     "morph": "compound; m.acc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "emphasizes personal chosen deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dik+pālān",
+     "gloss": "direction-guardians",
+     "grounds": "compound naming guardians of directions",
+     "morph": "compound; m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes additional recipients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetasā",
+     "gloss": "with-mind",
+     "grounds": "mental mode of bowing",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "To whom and by what means should reverence be offered at the threshold?",
+   "premises": [
+    "One's own chosen deity is to be honored",
+    "The guardians of the directions are also included",
+    "The bowing is performed mentally"
+   ],
+   "inference": "One should bow mentally to one's own chosen deity and also to the guardians of the directions.",
+   "uncertainties": [],
+   "plain_english": "One should bow with the mind to one's own chosen deity and also to the guardians of the directions."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "tat+pāpasya",
+     "gloss": "of-that-sin",
+     "grounds": "compound referring to a specific sin",
+     "morph": "compound; n.gen.sg"
+    },
+    {
+     "surface": "apanoda+arthaṃ",
+     "gloss": "for-removal-purpose",
+     "grounds": "compound expressing purpose of removal",
+     "morph": "compound; m.acc.sg"
+    },
+    {
+     "surface": "mantra+dvayam",
+     "gloss": "mantra-pair",
+     "grounds": "compound naming two mantras",
+     "morph": "compound; n.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive utterance",
+     "morph": "3.sg.opt.act √īr with ud"
+    }
+   ],
+   "question": "What verbal remedy is prescribed for removing the specified sin?",
+   "premises": [
+    "A particular sin is identified",
+    "Removal of that sin is the purpose",
+    "A pair of mantras is to be uttered"
+   ],
+   "inference": "For the removal of that sin, one should utter the pair of mantras.",
+   "uncertainties": [],
+   "plain_english": "For the removal of that sin, one should utter the pair of mantras."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "cittānme pāpaṃ phaṭ huṃ ca te namaḥ",
+     "gloss": "from-my-mind-sin-phaṭ-huṃ-and-to-you-homage",
+     "grounds": "mantra formula given as a single token",
+     "morph": "mantra-formula"
+    }
+   ],
+   "question": "What exact mantra formula is uttered to remove sin and offer homage?",
+   "premises": [
+    "A mantra formula is prescribed",
+    "The formula addresses sin in the mind",
+    "The formula includes homage"
+   ],
+   "inference": "The prescribed utterance is the mantra formula: cittānme pāpaṃ phaṭ huṃ ca te namaḥ.",
+   "uncertainties": [
+    "Internal segmentation and precise ritual parsing of the mantra are not analyzed here"
+   ],
+   "plain_english": "“From my mind, sin—phaṭ, huṃ—and homage to you.”"
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "śubha+aśubhasya",
+     "gloss": "of-good-and-bad",
+     "grounds": "compound covering both kinds of action",
+     "morph": "compound; n.gen.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative emphasis in this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-action",
+     "grounds": "deed subject to witnessing",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nṛṣu",
+     "gloss": "among-men",
+     "grounds": "sphere in which actions occur",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sākṣikāḥ",
+     "gloss": "witnesses",
+     "grounds": "those who observe actions",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who serves as witnesses to both good and bad human actions in this context?",
+   "premises": [
+    "Human actions include both good and bad",
+    "These actions occur among people here",
+    "There are witnesses to such actions"
+   ],
+   "inference": "There are witnesses among men here to both good and bad actions.",
+   "uncertainties": [
+    "The specific identity of the witnesses is not named in this verse"
+   ],
+   "plain_english": "Here among men, there are witnesses of both good and bad actions."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "evaṃ+kṛte",
+     "gloss": "thus-done",
+     "grounds": "compound indicating completion in this manner",
+     "morph": "compound; n.loc.sg past-participle √kṛ"
+    },
+    {
+     "surface": "prathamatas",
+     "gloss": "first",
+     "grounds": "indicates initial priority",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpa+utsādana+karmaṇi",
+     "gloss": "in-sin-removal-act",
+     "grounds": "compound naming the act of removing sin",
+     "morph": "compound; n.loc.sg"
+    }
+   ],
+   "question": "What priority is assigned to the act of sin removal when performed in this manner?",
+   "premises": [
+    "The procedure is done in this manner",
+    "An act of sin removal is performed",
+    "That act is given first priority"
+   ],
+   "inference": "When done thus, the act of removing sin is performed first.",
+   "uncertainties": [],
+   "plain_english": "When this is done thus, the act of removing sin is performed first."
+  }
+ ]
+}

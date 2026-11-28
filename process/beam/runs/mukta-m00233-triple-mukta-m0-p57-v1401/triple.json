@@ -1,0 +1,1040 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "vikirakṣepaṃ",
+     "gloss": "scattering-throwing",
+     "grounds": "ritual action term",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivakumbhaṃ",
+     "gloss": "śiva-pot",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhanīm",
+     "gloss": "increaser",
+     "grounds": "feminine adjective",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What ritual objects are scattered and thrown with the śiva pot and increaser?",
+   "premises": [
+    "The verse lists vikirakṣepaṃ, śivakumbhaṃ, and vardhanīm.",
+    "These are ritual objects in sequence."
+   ],
+   "inference": "The ritual employs scattering-throwing, a śiva pot, and an increaser together.",
+   "uncertainties": [
+    "Exact ritual function of vardhanīm is not specified."
+   ],
+   "plain_english": "Scattering-throwing, the śiva pot, and the increaser."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "prācyām",
+     "gloss": "eastern",
+     "grounds": "direction",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "ekonapañcāśat",
+     "gloss": "forty-nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "plural object",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many pots are placed in the eastern direction in order?",
+   "premises": [
+    "ekonapañcāśat means forty-nine.",
+    "kalaśān are pots.",
+    "vinyaset means place."
+   ],
+   "inference": "Forty-nine pots are placed in the eastern direction in order.",
+   "uncertainties": [
+    "Exact spatial arrangement beyond eastern direction is not specified."
+   ],
+   "plain_english": "Place forty-nine pots in the eastern direction in order."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "padaṣaṭkaṃ",
+     "gloss": "six-footed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pṛthag",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "directions",
+     "grounds": "plural locative",
+     "morph": "n.loc.pl.f"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "corner",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "corner",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "catuṣpadam",
+     "gloss": "four-footed",
+     "grounds": "compound",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What footed arrangements are placed separately in directions and corners?",
+   "premises": [
+    "padaṣaṭkaṃ means six-footed.",
+    "catuṣpadam means four-footed.",
+    "pṛthag means separately."
+   ],
+   "inference": "Six-footed and four-footed arrangements are placed separately in directions and corners.",
+   "uncertainties": [
+    "Exact mapping of six-footed and four-footed items is not specified."
+   ],
+   "plain_english": "Six-footed and four-footed arrangements are placed separately in directions and corners."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "gomūtraṃ",
+     "gloss": "cow-urine",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pañcagavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "milk",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which cow-derived substances are listed together with milk?",
+   "premises": [
+    "gomūtraṃ means cow-urine.",
+    "pañcagavyaṃ means five-cow-products.",
+    "payaḥ means milk."
+   ],
+   "inference": "Cow-urine, five-cow-products, and milk are listed together.",
+   "uncertainties": [
+    "Whether these are offerings or ingredients is not specified."
+   ],
+   "plain_english": "Cow-urine, five-cow-products, and milk."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhābdhi",
+     "gloss": "womb-ocean",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "maṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "numeral adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kalaśaṃ",
+     "gloss": "pot",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What pot is remembered as the eighth after seven womb-ocean items?",
+   "premises": [
+    "sapta means seven.",
+    "garbhābdhi means womb-ocean.",
+    "maṣṭamaṃ means eighth.",
+    "kalaśaṃ means pot."
+   ],
+   "inference": "The eighth pot is remembered after seven womb-ocean items.",
+   "uncertainties": [
+    "The exact seven womb-ocean items are not listed here."
+   ],
+   "plain_english": "Remember the eighth pot after seven womb-ocean items."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "tvājyaṃ",
+     "gloss": "ghee",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gomayaṃ",
+     "gloss": "cow-dung",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caikṣavam",
+     "gloss": "and-sugar",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which substances are listed with ghee, cow-dung, honey, and sugar?",
+   "premises": [
+    "tvājyaṃ means ghee.",
+    "gomayaṃ means cow-dung.",
+    "madhu means honey.",
+    "caikṣavam means and-sugar."
+   ],
+   "inference": "Ghee, cow-dung, honey, and sugar are listed together.",
+   "uncertainties": [
+    "Their ritual use is not specified."
+   ],
+   "plain_english": "Ghee, cow-dung, honey, and sugar."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "jambīraṃ",
+     "gloss": "citron",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "panasaṃ",
+     "gloss": "jackfruit",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bilvam",
+     "gloss": "bilva",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fruits are listed with citron, jackfruit, and bilva?",
+   "premises": [
+    "jambīraṃ means citron.",
+    "panasaṃ means jackfruit.",
+    "bilvam means bilva."
+   ],
+   "inference": "Citron, jackfruit, and bilva are listed as fruits.",
+   "uncertainties": [
+    "Whether these are offerings or ingredients is not specified."
+   ],
+   "plain_english": "Citron, jackfruit, and bilva."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "tṛtīyāvaraṇasthāṃs",
+     "gloss": "third-enclosure-standing",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭān",
+     "gloss": "pots",
+     "grounds": "plural object",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "saṅkṛtisaṃkhyakān",
+     "gloss": "saṅkṛti-numbered",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "Which pots stand in the third enclosure and are saṅkṛti-numbered?",
+   "premises": [
+    "tṛtīyāvaraṇasthāṃs means third-enclosure-standing.",
+    "ghaṭān means pots.",
+    "saṅkṛtisaṃkhyakān means saṅkṛti-numbered."
+   ],
+   "inference": "Pots standing in the third enclosure are saṅkṛti-numbered.",
+   "uncertainties": [
+    "The exact saṅkṛti count is not specified."
+   ],
+   "plain_english": "Pots standing in the third enclosure are saṅkṛti-numbered."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "śatadruṃ",
+     "gloss": "śatadru",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "yamunāṃ",
+     "gloss": "yamunā",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "narmadāṃ",
+     "gloss": "narmadā",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarasvatīm",
+     "gloss": "sarasvatī",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "Which rivers are named together with śatadru, yamunā, narmadā, and sarasvatī?",
+   "premises": [
+    "śatadruṃ, yamunāṃ, narmadāṃ, and sarasvatīm are river names.",
+    "ca means and."
+   ],
+   "inference": "These rivers are named together in the ritual list.",
+   "uncertainties": [
+    "Their ritual role is not specified."
+   ],
+   "plain_english": "Śatadru, Yamunā, Narmadā, and Sarasvatī."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "godāvarīṃ",
+     "gloss": "godāvarī",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "kṛṣṇaveṇīṃ",
+     "gloss": "kṛṣṇaveṇī",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "nandāṃ",
+     "gloss": "nandā",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "bhīmarathīm",
+     "gloss": "bhīmarathī",
+     "grounds": "river name",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rivers are also named with godāvarī, kṛṣṇaveṇī, nandā, and bhīmarathī?",
+   "premises": [
+    "godāvarīṃ, kṛṣṇaveṇīṃ, nandāṃ, and bhīmarathīm are river names.",
+    "api means also."
+   ],
+   "inference": "These rivers are also named in the ritual list.",
+   "uncertainties": [
+    "Their ritual role is not specified."
+   ],
+   "plain_english": "Godāvarī, Kṛṣṇaveṇī, Nandā, and Bhīmarathī also."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "naimiśaṃ",
+     "gloss": "naimiśa",
+     "grounds": "place name",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gokarṇaṃ",
+     "gloss": "gokarṇa",
+     "grounds": "place name",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripuṣkaram",
+     "gloss": "tripuṣkara",
+     "grounds": "place name",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which sacred places are named with naimiśa, gokarṇa, and tripuṣkara?",
+   "premises": [
+    "naimiśaṃ, gokarṇaṃ, and tripuṣkaram are place names.",
+    "ca and atha connect the list."
+   ],
+   "inference": "These sacred places are named together in the ritual list.",
+   "uncertainties": [
+    "Their ritual role is not specified."
+   ],
+   "plain_english": "Naimiśa, Gokarṇa, and Tripuṣkara."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "brahmabhiḥ",
+     "gloss": "with-brahmans",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgaiḥ",
+     "gloss": "limbs",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "navakaṃ",
+     "gloss": "ninefold",
+     "grounds": "numeral adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is worshipped after placing brahmans and limbs in a ninefold manner?",
+   "premises": [
+    "brahmabhiḥ means with-brahmans.",
+    "aṅgaiḥ means limbs.",
+    "navakaṃ means ninefold.",
+    "yajet means worship."
+   ],
+   "inference": "A ninefold worship is performed after placing brahmans and limbs.",
+   "uncertainties": [
+    "The exact object of worship is not specified."
+   ],
+   "plain_english": "Worship ninefold after placing brahmans and limbs."
+  },
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "tṛtīyāvaraṇe",
+     "gloss": "third-enclosure",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tattvaiḥ",
+     "gloss": "principles",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "śaktyādyaiḥ",
+     "gloss": "śakti-etc",
+     "grounds": "compound",
+     "morph": "adj.inst.pl.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharontakaiḥ",
+     "gloss": "dharā-anta",
+     "grounds": "compound",
+     "morph": "adj.inst.pl.m"
+    }
+   ],
+   "question": "What principles and powers are used in the third enclosure?",
+   "premises": [
+    "tṛtīyāvaraṇe means third-enclosure.",
+    "tattvaiḥ means principles.",
+    "śaktyādyaiḥ means śakti-etc."
+   ],
+   "inference": "Principles beginning with śakti and dharā-anta are used in the third enclosure.",
+   "uncertainties": [
+    "The exact list of tattvas is not specified."
+   ],
+   "plain_english": "In the third enclosure, principles beginning with śakti and dharā-anta."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "kumbhān",
+     "gloss": "pots",
+     "grounds": "plural object",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sakūrcān",
+     "gloss": "with-kūrca",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "sūtraveṣṭitān",
+     "gloss": "thread-wrapped",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "What kind of pots are wrapped with thread and equipped with kūrca?",
+   "premises": [
+    "kumbhān means pots.",
+    "sakūrcān means with-kūrca.",
+    "sūtraveṣṭitān means thread-wrapped."
+   ],
+   "inference": "Pots are with-kūrca and thread-wrapped.",
+   "uncertainties": [
+    "The exact kūrca material is not specified."
+   ],
+   "plain_english": "Pots with kūrca and wrapped with thread."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "sapidhānaphalākṣatān",
+     "gloss": "with-lids-fruits-akṣata",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "What pots are equipped with lids, fruits, and akṣata?",
+   "premises": [
+    "sapidhānaphalākṣatān means with-lids-fruits-akṣata."
+   ],
+   "inference": "Pots are equipped with lids, fruits, and akṣata.",
+   "uncertainties": [
+    "The exact fruits are not specified."
+   ],
+   "plain_english": "Pots with lids, fruits, and akṣata."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "paścimabhāge",
+     "gloss": "western-side",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "steps",
+     "grounds": "plural object",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is made on the western side as nine steps?",
+   "premises": [
+    "paścimabhāge means western-side.",
+    "kṛtvā means having-made.",
+    "nava means nine.",
+    "padāni means steps."
+   ],
+   "inference": "Nine steps are made on the western side.",
+   "uncertainties": [
+    "The exact purpose of the steps is not specified."
+   ],
+   "plain_english": "Having made nine steps on the western side."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "saṃyuktam",
+     "gloss": "conjoined",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "āpūrya",
+     "gloss": "filling",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worshipping",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who fills, worships, and conjoins the ritual objects?",
+   "premises": [
+    "saṃyuktam means conjoined.",
+    "āpūrya means filling.",
+    "abhyarcya means worshipping.",
+    "deśikaḥ means teacher."
+   ],
+   "inference": "The teacher fills, worships, and conjoins the ritual objects.",
+   "uncertainties": [
+    "The exact objects are not specified."
+   ],
+   "plain_english": "The teacher fills, worships, and conjoins."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "pañcabrahmabhiḥ",
+     "gloss": "five-brahmans",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "āpūrya",
+     "gloss": "filling",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "hemakūrcānvitān",
+     "gloss": "gold-kūrca-equipped",
+     "grounds": "compound",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is worshipped after filling with five brahmans and gold kūrca?",
+   "premises": [
+    "pañcabrahmabhiḥ means five-brahmans.",
+    "āpūrya means filling.",
+    "hemakūrcānvitān means gold-kūrca-equipped.",
+    "yajet means worship."
+   ],
+   "inference": "Gold-kūrca-equipped objects are worshipped after filling with five brahmans.",
+   "uncertainties": [
+    "The exact objects are not specified."
+   ],
+   "plain_english": "Worship gold-kūrca-equipped objects after filling with five brahmans."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "sāṅgam",
+     "gloss": "with-limbs",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "inviting",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "samidājyatilāṃścarūn",
+     "gloss": "fuel-ghee-sesame-rice",
+     "grounds": "compound",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "What is invited with limbs along with fuel, ghee, sesame, and rice?",
+   "premises": [
+    "sāṅgam means with-limbs.",
+    "samāvāhya means inviting.",
+    "samidājyatilāṃścarūn means fuel-ghee-sesame-rice."
+   ],
+   "inference": "With-limbs entities are invited along with fuel, ghee, sesame, and rice.",
+   "uncertainties": [
+    "The exact invited entity is not specified."
+   ],
+   "plain_english": "Invite with limbs along with fuel, ghee, sesame, and rice."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "daśāṃśena",
+     "gloss": "tenth-part",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "offering",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṃpātitaṃ",
+     "gloss": "mixed",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ghṛtam",
+     "gloss": "ghee",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What ghee is offered as a tenth part after being mixed?",
+   "premises": [
+    "daśāṃśena means tenth-part.",
+    "hutvā means offering.",
+    "saṃpātitaṃ means mixed.",
+    "ghṛtam means ghee."
+   ],
+   "inference": "Mixed ghee is offered as a tenth part.",
+   "uncertainties": [
+    "The exact mixing ingredients are not specified."
+   ],
+   "plain_english": "Offer mixed ghee as a tenth part."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "puṣpādyam",
+     "gloss": "flowers-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "apanīya",
+     "gloss": "removing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is removed from the head with flowers and other items by the heart?",
+   "premises": [
+    "hṛdā means heart.",
+    "mūrdhni means on-head.",
+    "puṣpādyam means flowers-etc.",
+    "apanīya means removing."
+   ],
+   "inference": "Flowers and other items are removed from the head by the heart.",
+   "uncertainties": [
+    "The exact removed object is not specified."
+   ],
+   "plain_english": "Remove flowers and other items from the head by the heart."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "jaladhūpāntaraṃ",
+     "gloss": "water-incense-interval",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "aśūnyaṃ",
+     "gloss": "non-empty",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "mastakaṃ",
+     "gloss": "head",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the head kept non-empty with flowers between water and incense?",
+   "premises": [
+    "jaladhūpāntaraṃ means water-incense-interval.",
+    "puṣpaiḥ means with-flowers.",
+    "aśūnyaṃ means non-empty.",
+    "mastakaṃ means head."
+   ],
+   "inference": "The head is kept non-empty with flowers between water and incense.",
+   "uncertainties": [
+    "The exact ritual sequence is not specified."
+   ],
+   "plain_english": "Keep the head non-empty with flowers between water and incense."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekonapañcāśatkalaśaiḥ",
+     "gloss": "forty-nine-pots",
+     "grounds": "compound",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "sthāpanakramāt",
+     "gloss": "placement-order",
+     "grounds": "compound",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What placement order is followed with forty-nine pots then?",
+   "premises": [
+    "tatas means then.",
+    "ekonapañcāśatkalaśaiḥ means forty-nine-pots.",
+    "sthāpanakramāt means placement-order."
+   ],
+   "inference": "Placement order is followed with forty-nine pots then.",
+   "uncertainties": [
+    "The exact placement order is not specified."
+   ],
+   "plain_english": "Then placement order with forty-nine pots."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "gāyatryā",
+     "gloss": "gāyatrī",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpyāyasva",
+     "gloss": "āpyāyasva",
+     "grounds": "mantra word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dugdhataḥ",
+     "gloss": "from-milk",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "What mantra is recited with gāyatrī from milk?",
+   "premises": [
+    "gāyatryā means gāyatrī.",
+    "āpyāyasva is a mantra word.",
+    "dugdhataḥ means from-milk."
+   ],
+   "inference": "The āpyāyasva mantra is recited with gāyatrī from milk.",
+   "uncertainties": [
+    "The exact milk ritual is not specified."
+   ],
+   "plain_english": "Recite āpyāyasva with gāyatrī from milk."
+  }
+ ]
+}

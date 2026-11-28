@@ -1,0 +1,1130 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "ādyāyai",
+     "gloss": "to-primordial",
+     "grounds": "vocative/dative of address to the primordial goddess",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kālikāyai",
+     "gloss": "to-kālī",
+     "grounds": "name of the goddess addressed",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun of address to the deity",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kartryai",
+     "gloss": "to-creator",
+     "grounds": "epithet denoting creative agency",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "hartryai",
+     "gloss": "to-destroyer",
+     "grounds": "epithet denoting destructive agency",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namonamaḥ",
+     "gloss": "salutation-salutation",
+     "grounds": "repeated reverential salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine powers of Kālī are honored in this salutation?",
+   "premises": [
+    "The primordial Kālī is directly addressed.",
+    "She is named as creator.",
+    "She is named as destroyer.",
+    "Repeated salutation expresses reverence."
+   ],
+   "inference": "The salutation honors primordial Kālī as both creator and destroyer.",
+   "uncertainties": [],
+   "plain_english": "Salutations, again and again, to you, primordial Kālī, the creator and the destroyer."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "completing prior bodily elimination before the next act",
+     "morph": "gerund (√tyaj)"
+    },
+    {
+     "surface": "mūtra",
+     "gloss": "urine",
+     "grounds": "first member of bodily waste pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "purīṣañca",
+     "gloss": "and-feces",
+     "grounds": "purīṣam + ca fused by sandhi; feces joined to urine",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "danta",
+     "gloss": "tooth",
+     "grounds": "first member of compound describing cleansing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhāvanam",
+     "gloss": "cleansing",
+     "grounds": "act of cleaning the teeth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction for the practitioner",
+     "morph": "3.sg.optative-active (√ā-car)"
+    }
+   ],
+   "question": "What bodily purification must precede the prescribed cleansing act?",
+   "premises": [
+    "Urine and feces must be abandoned first.",
+    "Tooth cleansing is the prescribed act.",
+    "The injunction directs performance of this cleansing."
+   ],
+   "inference": "After eliminating urine and feces, one should perform tooth cleansing.",
+   "uncertainties": [],
+   "plain_english": "Having voided urine and feces, one should then perform the cleansing of the teeth."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "dṛṣṭiṃ",
+     "gloss": "sight",
+     "grounds": "vision or view to be shown",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pradarśayituṃ",
+     "gloss": "to-show",
+     "grounds": "purpose of revealing the sight or teaching",
+     "morph": "infinitive (pra-√dṛś)"
+    },
+    {
+     "surface": "śīlaṃ",
+     "gloss": "conduct",
+     "grounds": "disposition or character of the person",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun identifying the qualified person",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "correlative recipient of the teaching",
+     "morph": "pron.m.dat.sg"
+    }
+   ],
+   "question": "To whom should the teaching or vision be revealed?",
+   "premises": [
+    "A sight or view is to be shown.",
+    "The recipient is identified by his conduct.",
+    "The correlative points to that qualified person."
+   ],
+   "inference": "The teaching should be revealed to one whose conduct is suitable.",
+   "uncertainties": [
+    "The object of dṛṣṭiṃ (vision, doctrine, or gaze) is context-dependent."
+   ],
+   "plain_english": "To him whose conduct is fit for it, the vision should be shown."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred formula being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the mantra itself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "introduces the quoted formula",
+     "morph": "3.sg.perfect-active (√ah/brū)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "opening word of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "to-all",
+     "grounds": "first element of the mantra phrase",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the end of the quoted formula",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula is explicitly declared at this point?",
+   "premises": [
+    "The text states the mantra itself.",
+    "The formula begins with salutation.",
+    "The quoted phrase starts with sarva."
+   ],
+   "inference": "The declared mantra begins with the words namaḥ sarva.",
+   "uncertainties": [
+    "The full mantra may continue beyond the quoted opening."
+   ],
+   "plain_english": "It declares the mantra itself thus: 'namaḥ sarva...'"
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "indicates the initial step of the sequence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "apaḥ",
+     "gloss": "water",
+     "grounds": "water used for ritual sipping",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "upaspṛśya",
+     "gloss": "having-sipped",
+     "grounds": "ritual touching or sipping of water",
+     "morph": "gerund (upa-√spṛś)"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "one-should-enter",
+     "grounds": "prescriptive instruction to enter water",
+     "morph": "3.sg.optative-active (pra-√viś)"
+    },
+    {
+     "surface": "salile",
+     "gloss": "into-water",
+     "grounds": "the body of water to be entered",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence after the initial act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What initial ritual action precedes entering the water for bathing?",
+   "premises": [
+    "The sequence begins at first.",
+    "Water must be ritually sipped or touched.",
+    "Entry into water follows that act."
+   ],
+   "inference": "One should first sip water and then enter the water.",
+   "uncertainties": [],
+   "plain_english": "First, having sipped water, one should then enter into the water."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "specifies bathing once",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "completion of the bath",
+     "morph": "gerund (√snā)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connects bathing with plunging",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmajya",
+     "gloss": "having-plunged",
+     "grounds": "immersion in the water",
+     "morph": "gerund (ud-√majj)"
+    },
+    {
+     "surface": "māntram",
+     "gloss": "mantric",
+     "grounds": "qualifies the sipping as accompanied by mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācamanam",
+     "gloss": "sipping",
+     "grounds": "ritual sipping act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (√car)"
+    }
+   ],
+   "question": "What mantric purification follows bathing and plunging in water?",
+   "premises": [
+    "One bathes once.",
+    "One plunges into the water.",
+    "Mantric sipping is prescribed afterward."
+   ],
+   "inference": "After bathing and plunging once, one should perform mantric sipping.",
+   "uncertainties": [],
+   "plain_english": "Having bathed once and plunged in, one should perform the mantric sipping of water."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "triḥ",
+     "gloss": "thrice",
+     "grounds": "number of sips",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aprāśya",
+     "gloss": "having-sipped",
+     "grounds": "act of sipping water",
+     "morph": "gerund (ā-√prāś)"
+    },
+    {
+     "surface": "apaḥ",
+     "gloss": "water",
+     "grounds": "object of sipping",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "dviḥ",
+     "gloss": "twice",
+     "grounds": "number of wiping actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmṛjya",
+     "gloss": "having-wiped",
+     "grounds": "ritual wiping after sipping",
+     "morph": "gerund (ud-√mṛj)"
+    },
+    {
+     "surface": "ācamet",
+     "gloss": "one-should-sip",
+     "grounds": "prescriptive completion of sipping rite",
+     "morph": "3.sg.optative-active (ā-√cam)"
+    },
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "first member identifying the practitioner tradition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the qualified ritual agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the kula practitioner perform the sipping ritual sequence?",
+   "premises": [
+    "Water is sipped thrice.",
+    "Wiping is performed twice.",
+    "The kula practitioner is the prescribed agent."
+   ],
+   "inference": "The kula practitioner should sip water thrice, wipe twice, and complete the sipping rite.",
+   "uncertainties": [],
+   "plain_english": "Having sipped water thrice and wiped twice, the kula practitioner should perform the sipping rite."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "first member identifying the primary mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the root mantra to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelve-times",
+     "grounds": "specifies repetition count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "upon-that",
+     "grounds": "refers to the water or prior object",
+     "morph": "pron.m/n.gen.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "indicates placement of recitation over it",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "prescriptive recitation",
+     "morph": "3.sg.optative-active (√jap)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many times must the root mantra be chanted over it?",
+   "premises": [
+    "The root mantra is specified.",
+    "The chant is directed above that object.",
+    "The repetition count is twelve times."
+   ],
+   "inference": "One should chant the root mantra twelve times over it, O beloved.",
+   "uncertainties": [
+    "The referent of tasya depends on the immediately preceding context."
+   ],
+   "plain_english": "O beloved, one should chant the root mantra twelve times over it."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "abhiṣicya",
+     "gloss": "having-sprinkled",
+     "grounds": "ritual sprinkling action",
+     "morph": "gerund (abhi-√sic)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "first member indicating one's own body part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūrddhānaṃ",
+     "gloss": "head",
+     "grounds": "body part to be sprinkled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "number of openings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chidrāṇi",
+     "gloss": "openings",
+     "grounds": "bodily apertures to be closed ritually",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "rodhayet",
+     "gloss": "one-should-close",
+     "grounds": "prescriptive ritual sealing",
+     "morph": "3.sg.causative-optative-active (√rudh)"
+    }
+   ],
+   "question": "What bodily actions follow sprinkling one's own head in this rite?",
+   "premises": [
+    "One sprinkles one's own head.",
+    "Seven openings are identified.",
+    "Those openings must be closed."
+   ],
+   "inference": "After sprinkling one's head, one should close the seven openings.",
+   "uncertainties": [
+    "The specific seven openings are assumed by ritual convention."
+   ],
+   "plain_english": "Having sprinkled one's own head, one should close the seven openings."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "māntram",
+     "gloss": "mantric",
+     "grounds": "qualifies an act or object as accompanied by mantra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What mantric qualification is specified for the ongoing ritual action?",
+   "premises": [
+    "The term indicates a mantric element.",
+    "It qualifies the ritual procedure.",
+    "The procedure continues from prior instructions."
+   ],
+   "inference": "The ongoing ritual action is to be performed in a mantric manner.",
+   "uncertainties": [
+    "The exact noun qualified by māntram is supplied by context."
+   ],
+   "plain_english": "It is to be done in a mantric way."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāram",
+     "gloss": "times",
+     "grounds": "counts the repetitions",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "prescriptive recitation",
+     "morph": "3.sg.optative-active (√jap)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the stated instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyena",
+     "gloss": "with-second",
+     "grounds": "indicates connection with a second element or reading",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "anvayaḥ",
+     "gloss": "connection",
+     "grounds": "syntactic or procedural linkage",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the twelvefold chanting instruction linked to the second element?",
+   "premises": [
+    "Chanting is prescribed twelve times.",
+    "The instruction is marked as concluded.",
+    "A connection with the second element is stated."
+   ],
+   "inference": "The twelvefold chanting is to be understood in connection with the second element.",
+   "uncertainties": [
+    "The referent of dvitīyena (second mantra, verse, or method) is unclear."
+   ],
+   "plain_english": "One should chant twelve times; thus it is connected with the second."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "utthāya",
+     "gloss": "having-risen",
+     "grounds": "rising from the water or seated position",
+     "morph": "gerund (ud-√sthā)"
+    },
+    {
+     "surface": "gātraṃ",
+     "gloss": "body",
+     "grounds": "the body to be wiped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sammārjya",
+     "gloss": "having-wiped",
+     "grounds": "drying or cleaning the body",
+     "morph": "gerund (sam-√mṛj)"
+    },
+    {
+     "surface": "pidadhyāt",
+     "gloss": "one-should-put-on",
+     "grounds": "prescriptive donning of garments",
+     "morph": "3.sg.optative-active (pi-√dhā)"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "qualifies the garments as ritually clean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsasī",
+     "gloss": "two-garments",
+     "grounds": "pair of garments to be worn",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "What clothing should be worn after rising and wiping the body?",
+   "premises": [
+    "One rises and wipes the body.",
+    "Garments must be put on afterward.",
+    "The garments are specified as pure and two in number."
+   ],
+   "inference": "After rising and wiping the body, one should put on two pure garments.",
+   "uncertainties": [],
+   "plain_english": "Having risen and wiped the body, one should put on two pure garments."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "location for the mark",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "mark",
+     "grounds": "ritual forehead mark",
+     "morph": "m/n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active (√kṛ)"
+    },
+    {
+     "surface": "gāyatryā",
+     "gloss": "with-gāyatrī",
+     "grounds": "mantra accompanying the act",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "first member describing tied hair",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuntalaḥ",
+     "gloss": "hair",
+     "grounds": "hair bound up during the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the forehead mark be applied during this preparation?",
+   "premises": [
+    "A mark is made on the forehead.",
+    "The act is accompanied by the gāyatrī.",
+    "The practitioner has bound hair."
+   ],
+   "inference": "With hair bound, one should make a forehead mark using the gāyatrī.",
+   "uncertainties": [],
+   "plain_english": "With hair bound up, one should make a mark on the forehead with the gāyatrī."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "sandhyāṃ",
+     "gloss": "twilight-worship",
+     "grounds": "ritual observance at twilight junctures",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active (sam-ā-√car)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāntrikīṃ",
+     "gloss": "tantric",
+     "grounds": "qualifies the twilight worship as tantric",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative address to the listener",
+     "morph": "2.sg.imperative-active (√śru)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "indicates forthcoming explanation",
+     "morph": "3.sg.present-passive (√kath)"
+    }
+   ],
+   "question": "What form of twilight worship must the mantra practitioner perform?",
+   "premises": [
+    "The mantra practitioner must perform twilight worship.",
+    "The worship is specified as tantric.",
+    "The text announces that it will be explained."
+   ],
+   "inference": "The mantra practitioner should perform tantric twilight worship, which is now explained.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner should perform the tantric twilight worship; listen, it is being explained."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped",
+     "grounds": "ritual sipping before invocation",
+     "morph": "gerund (ā-√cam)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates repetition of prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyais",
+     "gloss": "with-waters",
+     "grounds": "waters used in the rite",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "sacred-places",
+     "grounds": "holy waters or pilgrimage sites invoked",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "āvāhayet",
+     "gloss": "one-should-invoke",
+     "grounds": "prescriptive invocation",
+     "morph": "3.sg.causative-optative-active (ā-√vah)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What sacred presences should be invoked into the waters during sandhyā?",
+   "premises": [
+    "Sipping is performed as before.",
+    "Waters are used in the rite.",
+    "Sacred places are to be invoked."
+   ],
+   "inference": "After sipping as before, one should invoke the sacred places into the waters, O Śivā.",
+   "uncertainties": [],
+   "plain_english": "Having sipped as before, one should invoke the sacred waters with the waters, O Śivā."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "narmade",
+     "gloss": "o-narmadā",
+     "grounds": "invocation of the river Narmadā",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sindhu",
+     "gloss": "o-sindhu",
+     "grounds": "invocation of the river Sindhu",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāveri",
+     "gloss": "o-kāverī",
+     "grounds": "invocation of the river Kāverī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location where presence is requested",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "specifies the present water",
+     "morph": "pron.n.loc.sg"
+    },
+    {
+     "surface": "sannidhiṃ",
+     "gloss": "presence",
+     "grounds": "requested nearness or presence of the rivers",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative request for presence",
+     "morph": "2.sg.imperative-active (√kṛ)"
+    }
+   ],
+   "question": "Which sacred rivers are asked to be present in this water?",
+   "premises": [
+    "Narmadā, Sindhu, and Kāverī are addressed.",
+    "Their presence is requested in this water.",
+    "The request is made by imperative command."
+   ],
+   "inference": "The rivers Narmadā, Sindhu, and Kāverī are asked to be present in this water.",
+   "uncertainties": [],
+   "plain_english": "O Narmadā, O Sindhu, O Kāverī, be present in this water."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "hastadvaya",
+     "gloss": "with-two-hands",
+     "grounds": "first member indicating both hands",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgulibhiḥ",
+     "gloss": "with-fingers",
+     "grounds": "fingers used to perform the closing",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "rodhayet",
+     "gloss": "one-should-close",
+     "grounds": "prescriptive ritual closing action",
+     "morph": "3.sg.causative-optative-active (√rudh)"
+    }
+   ],
+   "question": "How should the ritual closing be performed with the hands?",
+   "premises": [
+    "Both hands are involved.",
+    "The fingers are the instruments.",
+    "A closing action is prescribed."
+   ],
+   "inference": "One should perform the closing with the fingers of both hands.",
+   "uncertainties": [
+    "The specific object to be closed is supplied by context."
+   ],
+   "plain_english": "One should close it with the fingers of both hands."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "ācchādayet",
+     "gloss": "one-should-cover",
+     "grounds": "prescriptive covering action",
+     "morph": "3.sg.causative-optative-active (ā-√chad)"
+    },
+    {
+     "surface": "paridadhyāt",
+     "gloss": "one-should-put-on",
+     "grounds": "prescriptive donning or wrapping action",
+     "morph": "3.sg.optative-active (pari-√dhā)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "iti + arthaḥ fused by sandhi; glosses the intended meaning",
+     "morph": "(indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of the prescribed covering action?",
+   "premises": [
+    "Covering is prescribed.",
+    "Putting on or wrapping is prescribed.",
+    "The verse states this as the meaning."
+   ],
+   "inference": "The intended meaning is that one should cover and put it on.",
+   "uncertainties": [
+    "The object being covered or worn is context-dependent."
+   ],
+   "plain_english": "The meaning is: one should cover it and put it on."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "bindu",
+     "gloss": "with-bindu",
+     "grounds": "first member indicating a dot mark",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutaṃ",
+     "gloss": "joined",
+     "grounds": "joined or endowed with a bindu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "triple-line",
+     "grounds": "three horizontal lines as a sectarian mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "mark",
+     "grounds": "forehead mark",
+     "morph": "m/n.acc.sg"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "location of the mark",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active (√kṛ)"
+    }
+   ],
+   "question": "What specific forehead mark should be made in this ritual step?",
+   "premises": [
+    "A mark is to be made on the forehead.",
+    "The mark is a triple line.",
+    "The triple line is joined with a bindu."
+   ],
+   "inference": "One should make a triple-line mark with a bindu on the forehead.",
+   "uncertainties": [],
+   "plain_english": "One should make a triple-line mark joined with a bindu on the forehead."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker identifying the source of instruction",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "indicates that instruction is being given",
+     "morph": "3.sg.present-passive (√kath)"
+    }
+   ],
+   "question": "Who is identified as the source of the instruction being given?",
+   "premises": [
+    "The speaker refers to himself.",
+    "The instruction is being told.",
+    "The speaker claims authorship of the telling."
+   ],
+   "inference": "The instruction is being told by the speaker.",
+   "uncertainties": [],
+   "plain_english": "It is being told by me."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates repetition of prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "having-sipped",
+     "grounds": "ritual sipping act",
+     "morph": "gerund (ā-√cam)"
+    },
+    {
+     "surface": "toye",
+     "gloss": "in-water",
+     "grounds": "location for the rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "synonymous or emphatic reference to water",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "sacred-places",
+     "grounds": "holy presences to be invoked",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "āvāhayet",
+     "gloss": "one-should-invoke",
+     "grounds": "prescriptive invocation",
+     "morph": "3.sg.causative-optative-active (ā-√vah)"
+    }
+   ],
+   "question": "What invocation must be repeated in the water as before?",
+   "premises": [
+    "Sipping is done as before.",
+    "The rite takes place in water.",
+    "Sacred places must be invoked."
+   ],
+   "inference": "As before, after sipping, one should invoke the sacred places in the water.",
+   "uncertainties": [
+    "The pairing of toye and jale may be emphatic or formulaic."
+   ],
+   "plain_english": "Having sipped as before, one should invoke the sacred places in the water."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "āsattim",
+     "gloss": "presence",
+     "grounds": "nearness or presence to be established",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What state of nearness is sought in the ritual invocation?",
+   "premises": [
+    "The term denotes presence or nearness.",
+    "It relates to the invoked sacred powers.",
+    "The ritual aims to establish that state."
+   ],
+   "inference": "The ritual seeks the presence of the invoked sacred powers.",
+   "uncertainties": [
+    "The grammatical role of āsattim depends on the surrounding context."
+   ],
+   "plain_english": "Their presence is to be established."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "completion of the invocation",
+     "morph": "gerund (ā-√vah)"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "the sacred presence invoked",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "salile",
+     "gloss": "in-water",
+     "grounds": "location of the invoked presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root-mantra",
+     "grounds": "the primary mantra to be chanted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelve-times",
+     "grounds": "specifies repetition count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "prescriptive recitation",
+     "morph": "3.sg.optative-active (√jap)"
+    }
+   ],
+   "question": "What mantra recitation follows invoking the sacred presence in water?",
+   "premises": [
+    "The sacred presence is invoked in water.",
+    "The root mantra is specified.",
+    "The mantra must be chanted twelve times."
+   ],
+   "inference": "After invoking the sacred presence in water, one should chant the root mantra twelve times.",
+   "uncertainties": [],
+   "plain_english": "Having invoked the sacred presence in the water, one should chant the root mantra twelve times."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "madhyamā",
+     "gloss": "with-middle-finger",
+     "grounds": "first finger named in the hand gesture",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "with-ring-finger",
+     "grounds": "second finger joined in the gesture",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yogāt",
+     "gloss": "by-joining",
+     "grounds": "joining of the two fingers",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root-mantra",
+     "grounds": "first member identifying the mantra utterance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uccāraṇa",
+     "gloss": "utterance",
+     "grounds": "act of pronouncing the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūrvakam",
+     "gloss": "preceded-by",
+     "grounds": "indicates the gesture precedes or accompanies utterance",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which finger gesture must accompany the utterance of the root mantra?",
+   "premises": [
+    "The middle finger is used.",
+    "The ring finger is joined with it.",
+    "This gesture precedes the root mantra utterance."
+   ],
+   "inference": "The root mantra utterance should be preceded by joining the middle and ring fingers.",
+   "uncertainties": [],
+   "plain_english": "Joining the middle and ring fingers, one should then utter the root mantra."
+  }
+ ]
+}

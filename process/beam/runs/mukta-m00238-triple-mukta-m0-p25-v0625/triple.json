@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "mudgaraṃ",
+     "gloss": "hammer",
+     "grounds": "accusative singular masculine noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ḍamaruṃ",
+     "gloss": "drum",
+     "grounds": "accusative singular masculine noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ghaṃkṭāṃ",
+     "gloss": "bell",
+     "grounds": "accusative singular feminine noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "rudravīṇāṃ",
+     "gloss": "rudra-vina",
+     "grounds": "accusative singular feminine noun",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pustakam",
+     "gloss": "book",
+     "grounds": "accusative singular neuter noun",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which implements does the deity hold in the right hands?",
+   "premises": [
+    "The verse lists held implements.",
+    "Each token names one implement.",
+    "The list completes the right-hand set."
+   ],
+   "inference": "The deity's right hands hold hammer, drum, bell, rudra-vina, and book.",
+   "uncertainties": [
+    "The form ghaṃkṭāṃ may reflect sandhi or a typographical variant.",
+    "The gender of rudravīṇāṃ is inferred from vīṇā."
+   ],
+   "plain_english": "Hammer, drum, bell, rudra-vina, and book."
+  }
+ ]
+}

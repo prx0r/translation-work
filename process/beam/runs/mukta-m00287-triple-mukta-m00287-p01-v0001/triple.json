@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m00287-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "mṛttikāṃ",
+     "gloss": "clay",
+     "grounds": "object to be collected; accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "grāhayet",
+     "gloss": "should-collect",
+     "grounds": "optative injunction; causative of grah 'to take'",
+     "morph": "3.sg.act-opt.caus~grah"
+    },
+    {
+     "surface": "prājña",
+     "gloss": "wise-one",
+     "grounds": "addressee or agent qualified by wisdom; vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tṛṇa",
+     "gloss": "grass",
+     "grounds": "first member of compound qualifying the clay",
+     "morph": "compound:first-tṛṇa-pāṣāṇa-varjita"
+    },
+    {
+     "surface": "pāṣāṇa",
+     "gloss": "stone",
+     "grounds": "second member of compound qualifying the clay",
+     "morph": "compound:second-tṛṇa-pāṣāṇa-varjita"
+    },
+    {
+     "surface": "varjitāṃ",
+     "gloss": "devoid-of",
+     "grounds": "final member of compound agreeing with mṛttikāṃ; indicates absence",
+     "morph": "compound:final-tṛṇa-pāṣāṇa-varjita;f.acc.sg"
+    }
+   ],
+   "question": "What qualities must the clay collected by a wise person possess?",
+   "premises": [
+    "A wise person should collect clay.",
+    "The clay must be devoid of grass.",
+    "The clay must be devoid of stones."
+   ],
+   "inference": "Only clay free from grass and stones is suitable for collection by a wise person.",
+   "uncertainties": [
+    "The intended ritual or practical use of the clay is not specified in this fragment."
+   ],
+   "plain_english": "A wise person should collect clay that is free from grass and stones."
+  }
+ ]
+}

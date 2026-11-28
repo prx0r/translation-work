@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p205",
+ "items": [
+  {
+   "verse": 5101,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-expansion",
+     "grounds": "locative sense from legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rudrabhāge",
+     "gloss": "in-rudra-portion",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nālīgehaṃ",
+     "gloss": "hall-house",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tribhāgataḥ",
+     "gloss": "from-three-parts",
+     "grounds": "ablative sense",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the hall-house proportioned in the rudra portion when expansion is measured from three parts?",
+   "premises": [
+    "rudra portion uses hall-house",
+    "expansion is measured from three parts",
+    "proportion follows that measure"
+   ],
+   "inference": "The hall-house is set by the three-part measure in the rudra portion.",
+   "uncertainties": [
+    "exact architectural referent of nālīgehaṃ"
+   ],
+   "plain_english": "In the rudra portion, the hall-house is measured from three parts in expansion."
+  },
+  {
+   "verse": 5102,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khaṇḍaharmyaṃ",
+     "gloss": "broken-mansion",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "other-all",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samānakam",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportion of the broken mansion remains when the rest is equal?",
+   "premises": [
+    "one part is broken mansion",
+    "the rest is equal",
+    "the whole is divided accordingly"
+   ],
+   "inference": "The broken mansion takes one part while the remaining parts are equal.",
+   "uncertainties": [
+    "whether equal means same size or same type"
+   ],
+   "plain_english": "One part is the broken mansion, and all the rest are equal."
+  },
+  {
+   "verse": 5103,
+   "rows": [
+    {
+     "surface": "vistāre",
+     "gloss": "in-expansion",
+     "grounds": "locative sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ravibhāge",
+     "gloss": "in-sun-portion",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nālīgehaṃ",
+     "gloss": "hall-house",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yugāṃśakam",
+     "gloss": "pair-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the hall-house proportioned in the sun portion during expansion?",
+   "premises": [
+    "sun portion uses hall-house",
+    "expansion is considered",
+    "pair-part measure applies"
+   ],
+   "inference": "The hall-house in the sun portion is set by the pair-part measure.",
+   "uncertainties": [
+    "exact meaning of yugāṃśakam"
+   ],
+   "plain_english": "In the sun portion, the hall-house is measured by a pair-part in expansion."
+  },
+  {
+   "verse": 5104,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-portion",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "khaṇḍaharmyaṃ",
+     "gloss": "broken-mansion",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "other-all",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samānakam",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the broken mansion determined by portion while the rest remains equal?",
+   "premises": [
+    "portion determines broken mansion",
+    "remaining parts are equal",
+    "proportion is fixed by portion"
+   ],
+   "inference": "The broken mansion is set by portion, and the rest are equal.",
+   "uncertainties": [
+    "whether portion refers to a fixed fraction"
+   ],
+   "plain_english": "By portion, the broken mansion is set, and all the rest are equal."
+  },
+  {
+   "verse": 5105,
+   "rows": [
+    {
+     "surface": "trayodaśāṃśe",
+     "gloss": "in-thirteen-part",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vistāre",
+     "gloss": "in-expansion",
+     "grounds": "locative sense",
+     "morph": "indecl."
+    },
+    {
+     "surface": "garbhaḥ",
+     "gloss": "womb",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "aṃśabhāgabhāk",
+     "gloss": "part-portion-holder",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What holds the womb part when expansion is divided into thirteen parts?",
+   "premises": [
+    "expansion has thirteen parts",
+    "womb is one part",
+    "part-portion-holder marks it"
+   ],
+   "inference": "The womb is held as a part within the thirteen-part expansion.",
+   "uncertainties": [
+    "exact role of aṃśabhāgabhāk"
+   ],
+   "plain_english": "In a thirteen-part expansion, the womb is held as a part."
+  },
+  {
+   "verse": 5106,
+   "rows": [
+    {
+     "surface": "khaṇḍaharmyam",
+     "gloss": "broken-mansion",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūṭaśālādi",
+     "gloss": "peaked-hall-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the broken mansion here related to the peaked hall and earlier rule?",
+   "premises": [
+    "broken mansion is one part",
+    "peaked hall etc. applies",
+    "earlier rule governs"
+   ],
+   "inference": "The broken mansion here follows the earlier rule with one part and peaked hall elements.",
+   "uncertainties": [
+    "scope of etc. in kūṭaśālādi"
+   ],
+   "plain_english": "Here the broken mansion is one part, with peaked hall and so on, as before."
+  },
+  {
+   "verse": 5107,
+   "rows": [
+    {
+     "surface": "pañcāṃśe",
+     "gloss": "in-five-part",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hastipṛṣṭhe",
+     "gloss": "on-elephant-back",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pakṣaśālādibhiryutaḥ",
+     "gloss": "with-wing-halls-etc",
+     "grounds": "compound instrumental",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What accompanies the five-part elephant-back gateway?",
+   "premises": [
+    "five-part measure applies",
+    "elephant-back form applies",
+    "wing halls etc. accompany it"
+   ],
+   "inference": "The five-part elephant-back gateway is accompanied by wing halls and related elements.",
+   "uncertainties": [
+    "exact list after etc."
+   ],
+   "plain_english": "In the five-part elephant-back form, it is joined with wing halls and so on."
+  },
+  {
+   "verse": 5108,
+   "rows": [
+    {
+     "surface": "saptabhaumam",
+     "gloss": "seven-storied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.pass-ppp"
+    },
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gateway",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārvadeśikam",
+     "gloss": "all-regional",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of gateway is declared as seven-storied and all-regional?",
+   "premises": [
+    "gateway is seven-storied",
+    "it is declared",
+    "it is all-regional"
+   ],
+   "inference": "The declared gateway is seven-storied and all-regional.",
+   "uncertainties": [
+    "whether all-regional means universal applicability"
+   ],
+   "plain_english": "This gateway is declared seven-storied and all-regional."
+  },
+  {
+   "verse": 5109,
+   "rows": [
+    {
+     "surface": "caturaṃśonakaṃ",
+     "gloss": "by-four-part-less",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ūrdhvadvāraṃ",
+     "gloss": "upper-gate",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vistarāt",
+     "gloss": "from-expansion",
+     "grounds": "ablative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "When can an upper gate be four parts less than expansion?",
+   "premises": [
+    "upper gate is possible",
+    "four parts less is allowed",
+    "expansion is the measure"
+   ],
+   "inference": "An upper gate may be four parts less than the expansion measure.",
+   "uncertainties": [
+    "whether less means reduced width or height"
+   ],
+   "plain_english": "Or the upper gate may be four parts less than the expansion."
+  },
+  {
+   "verse": 5110,
+   "rows": [
+    {
+     "surface": "sopānagarbhagehe",
+     "gloss": "in-staircase-womb-house",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "floor",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "postposition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-act",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the floor be treated in the staircase womb-house?",
+   "premises": [
+    "staircase womb-house is the setting",
+    "floor is the object",
+    "one should act toward it"
+   ],
+   "inference": "The floor in the staircase womb-house should be treated with proper action.",
+   "uncertainties": [
+    "exact ritual or construction action"
+   ],
+   "plain_english": "In the staircase womb-house, one should act toward the floor."
+  },
+  {
+   "verse": 5111,
+   "rows": [
+    {
+     "surface": "maṇṭapābhaṃ",
+     "gloss": "pavilion-like",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "gate",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śobhāyai",
+     "gloss": "for-beauty",
+     "grounds": "dative",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "paṇḍiteśvarāḥ",
+     "gloss": "lords-of-learned",
+     "grounds": "compound nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why should a gate be pavilion-like according to learned lords?",
+   "premises": [
+    "gate is pavilion-like",
+    "purpose is beauty",
+    "learned lords state it"
+   ],
+   "inference": "A pavilion-like gate is prescribed for beauty by learned lords.",
+   "uncertainties": [
+    "whether paṇḍiteśvarāḥ is vocative or nominative"
+   ],
+   "plain_english": "The gate should be pavilion-like for beauty, say the lords of the learned."
+  },
+  {
+   "verse": 5112,
+   "rows": [
+    {
+     "surface": "prāsādākṛtivaddvāraprāsādaṃ",
+     "gloss": "temple-shaped-gate-temple",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paripaṭhyate",
+     "gloss": "is-described",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is a temple-shaped gate-temple described?",
+   "premises": [
+    "gate-temple has temple shape",
+    "it is described",
+    "description is authoritative"
+   ],
+   "inference": "A temple-shaped gate-temple is described as such.",
+   "uncertainties": [
+    "internal compound segmentation"
+   ],
+   "plain_english": "A gate-temple shaped like a temple is described."
+  },
+  {
+   "verse": 5113,
+   "rows": [
+    {
+     "surface": "śālākārasamaṃ",
+     "gloss": "hall-shaped-equal",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvāragopuramantimam",
+     "gloss": "gate-gateway-last",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the last gate-gateway be made?",
+   "premises": [
+    "last gate-gateway is the object",
+    "it should be made",
+    "hall-shaped equality applies"
+   ],
+   "inference": "The last gate-gateway should be made equal to a hall shape.",
+   "uncertainties": [
+    "whether antima means final or outermost"
+   ],
+   "plain_english": "One should make the last gate-gateway equal to a hall shape."
+  },
+  {
+   "verse": 5114,
+   "rows": [
+    {
+     "surface": "pañcabhāgādibhāgaṃ",
+     "gloss": "five-part-etc-part",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caikatriṃśatsamāvadhi",
+     "gloss": "up-to-thirty-one",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What range of parts is allowed from five parts up to thirty-one?",
+   "premises": [
+    "five-part is the starting measure",
+    "thirty-one is the upper limit",
+    "or allows alternatives"
+   ],
+   "inference": "The part measure may range from five parts up to thirty-one.",
+   "uncertainties": [
+    "whether caikatriṃśat means thirty-one or thirty-one-fold"
+   ],
+   "plain_english": "Or from five parts and so on, up to thirty-one."
+  },
+  {
+   "verse": 5115,
+   "rows": [
+    {
+     "surface": "vṛddhyā",
+     "gloss": "by-growth",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhāgo",
+     "gloss": "part",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ardhamānena",
+     "gloss": "half-measure",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tithyaṃśāntaṃ",
+     "gloss": "up-to-tithi-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-fix",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should a part be fixed by growth and half-measure up to tithi part?",
+   "premises": [
+    "growth determines part",
+    "half-measure is used",
+    "fixing extends to tithi part"
+   ],
+   "inference": "A part should be fixed by growth and half-measure up to the tithi part.",
+   "uncertainties": [
+    "exact tithi-part value"
+   ],
+   "plain_english": "By growth, a part should be fixed with half-measure up to the tithi part."
+  },
+  {
+   "verse": 5116,
+   "rows": [
+    {
+     "surface": "tena vistārabhāgena",
+     "gloss": "by-that-expansion-part",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "sky-part",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dviguṇāvadhi",
+     "gloss": "up-to-double",
+     "grounds": "compound",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How far may the sky part extend by that expansion part?",
+   "premises": [
+    "that expansion part is the measure",
+    "sky part is the object",
+    "extension reaches double"
+   ],
+   "inference": "The sky part may extend up to double by that expansion part.",
+   "uncertainties": [
+    "whether double means twice the expansion part"
+   ],
+   "plain_english": "By that expansion part, the sky part extends up to double."
+  },
+  {
+   "verse": 5117,
+   "rows": [
+    {
+     "surface": "tasmādūrdhvaṃ",
+     "gloss": "thereafter-upward",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "greater",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvāratārakam",
+     "gloss": "gate-star",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens to length above the gate-star?",
+   "premises": [
+    "thereafter upward is the direction",
+    "length is the measure",
+    "it becomes greater at gate-star"
+   ],
+   "inference": "Above, the length becomes greater at the gate-star.",
+   "uncertainties": [
+    "meaning of dvāratārakam"
+   ],
+   "plain_english": "Thereafter upward, the length becomes greater at the gate-star."
+  },
+  {
+   "verse": 5118,
+   "rows": [
+    {
+     "surface": "garbhagehātsamantāttu",
+     "gloss": "from-womb-house-all-around",
+     "grounds": "compound ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "garbhārdhāt",
+     "gloss": "from-womb-half",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pādavṛddhitaḥ",
+     "gloss": "by-foot-growth",
+     "grounds": "compound ablative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How does growth proceed all around from the womb-house and womb-half?",
+   "premises": [
+    "womb-house is the center",
+    "womb-half is a measure",
+    "foot-growth applies all around"
+   ],
+   "inference": "Growth proceeds all around from the womb-house by womb-half and foot-growth.",
+   "uncertainties": [
+    "exact spatial increment"
+   ],
+   "plain_english": "All around from the womb-house, growth proceeds by womb-half and foot-growth."
+  },
+  {
+   "verse": 5119,
+   "rows": [
+    {
+     "surface": "tathālindaṃ",
+     "gloss": "and-veranda",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hāraṃ",
+     "gloss": "garland",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-fix",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kalpavittamaḥ",
+     "gloss": "best-of-art",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the best of art fix regarding veranda and garland?",
+   "premises": [
+    "veranda is to be fixed",
+    "garland is to be fixed",
+    "best of art prescribes it"
+   ],
+   "inference": "The best of art should fix both veranda and garland.",
+   "uncertainties": [
+    "whether hāra means garland or necklace"
+   ],
+   "plain_english": "The best of art should fix both the veranda and the garland."
+  },
+  {
+   "verse": 5120,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ardhāṃśāt",
+     "gloss": "from-half-part",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tithisaṃkhyayā",
+     "gloss": "by-tithi-number",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does the three-part measure begin from half-part by tithi number?",
+   "premises": [
+    "three-part is the measure",
+    "beginning is from half-part",
+    "tithi number governs it"
+   ],
+   "inference": "The three-part measure begins from half-part according to tithi number.",
+   "uncertainties": [
+    "exact tithi count"
+   ],
+   "plain_english": "Beginning from half-part, the three-part measure follows tithi number."
+  },
+  {
+   "verse": 5121,
+   "rows": [
+    {
+     "surface": "prāsādālaṅkṛtiṃ",
+     "gloss": "temple-decoration",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śālāyālaṅkṛtiṃ",
+     "gloss": "hall-decoration",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which decoration is prescribed for temple or hall?",
+   "premises": [
+    "temple decoration is possible",
+    "hall decoration is possible",
+    "or allows either"
+   ],
+   "inference": "Either temple decoration or hall decoration may be prescribed.",
+   "uncertainties": [
+    "whether both can apply together"
+   ],
+   "plain_english": "Temple decoration, or indeed hall decoration, may be used."
+  },
+  {
+   "verse": 5122,
+   "rows": [
+    {
+     "surface": "nānāmasūrakopetaṃ",
+     "gloss": "with-various-ornaments",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānāstambhasamanvitam",
+     "gloss": "with-various-pillars",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ornamental and structural features accompany the gateway?",
+   "premises": [
+    "various ornaments are included",
+    "various pillars are included",
+    "both modify the gateway"
+   ],
+   "inference": "The gateway is accompanied by various ornaments and various pillars.",
+   "uncertainties": [
+    "exact meaning of masūraka"
+   ],
+   "plain_english": "It is furnished with various ornaments and various pillars."
+  },
+  {
+   "verse": 5123,
+   "rows": [
+    {
+     "surface": "valabhyādiśiroyuktaṃ",
+     "gloss": "with-pediment-etc-head",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahusthūpisamanvitam",
+     "gloss": "with-many-pinnacles",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What head and pinnacle features accompany the gateway?",
+   "premises": [
+    "pediment etc. forms the head",
+    "many pinnacles are included",
+    "both modify the gateway"
+   ],
+   "inference": "The gateway has a pedimented head and many pinnacles.",
+   "uncertainties": [
+    "exact list after etc."
+   ],
+   "plain_english": "It is joined with a pedimented head and many pinnacles."
+  },
+  {
+   "verse": 5124,
+   "rows": [
+    {
+     "surface": "āyāmāṃśādhikairvāpi",
+     "gloss": "by-length-parts-greater-or",
+     "grounds": "compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samāṃśaiḥ",
+     "gloss": "equal-parts",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-fix",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should parts be fixed when length parts are greater or equal?",
+   "premises": [
+    "length parts may be greater",
+    "equal parts are possible",
+    "fixing is prescribed"
+   ],
+   "inference": "Parts should be fixed by greater or equal length parts.",
+   "uncertainties": [
+    "whether vāpi means or also"
+   ],
+   "plain_english": "One should fix it by greater length parts, or by equal parts."
+  }
+ ]
+}

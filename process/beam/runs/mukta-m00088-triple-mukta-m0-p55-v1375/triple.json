@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter accusative object of vijānīyāt",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "neuter accusative agreeing with sarvam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "should-know",
+     "grounds": "optative of vi-jñā with imperative sense",
+     "morph": "3.sg.act-opt (root jñā)"
+    },
+    {
+     "surface": "paramārthaviniścayāt",
+     "gloss": "from-supreme-truth-determination",
+     "grounds": "ablative of compound paramārtha plus viniścaya",
+     "morph": "m.abl.sg compound"
+    }
+   ],
+   "question": "What should one know about all things from supreme-truth determination?",
+   "premises": [
+    "Supreme-truth determination yields equal knowledge.",
+    "All things are known as equal."
+   ],
+   "inference": "Therefore from supreme truth one knows all as equal.",
+   "uncertainties": [
+    "Compound internal analysis follows standard sandhi; no split row used."
+   ],
+   "plain_english": "From determination of supreme truth, one should know all as equal."
+  }
+ ]
+}

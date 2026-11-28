@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p108",
+ "items": [
+  {
+   "verse": 2700,
+   "rows": [
+    {
+     "surface": "sita+amala+jalaiś",
+     "gloss": "with-white-pure-waters",
+     "grounds": "instrumental plural of compound sita+amala+jala (white, spotless, water); sandhi ś before ca",
+     "morph": "compound: sita+amala+jala, m.inst.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṇa+udakena",
+     "gloss": "with-lukewarm-water",
+     "grounds": "instrumental singular of compound koṣṇa+udaka (lukewarm water)",
+     "morph": "compound: koṣṇa+udaka, n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional liquids are prescribed for bathing the deity in this ritual sequence?",
+   "premises": [
+    "The preceding verses prescribe bathing the deity with fragrant waters.",
+    "White, pure waters are specified as a bathing substance.",
+    "Lukewarm water is likewise specified as a bathing substance."
+   ],
+   "inference": "The ritual bathing of the deity continues with white pure waters and likewise with lukewarm water.",
+   "uncertainties": [
+    "The exact ritual function distinguishing these liquids from those in the preceding verses is not explicit in this verse alone."
+   ],
+   "plain_english": "And indeed with white, pure waters, and likewise with lukewarm water."
+  }
+ ]
+}

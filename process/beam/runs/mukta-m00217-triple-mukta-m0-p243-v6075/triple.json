@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p243",
+ "items": [
+  {
+   "verse": 6075,
+   "rows": [
+    {
+     "surface": "vrīḍārthakād",
+     "gloss": "from-shame-meaning",
+     "grounds": "ablative of source in etymological derivation; compound vrīḍā+arthaka",
+     "morph": "compound.abl.sg.m"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "verbal element contributing the sense of giving",
+     "morph": "3.sg.pres.act √dā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated derivation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampannaṃ",
+     "gloss": "accomplished",
+     "grounds": "past participle indicating the formed result",
+     "morph": "ppp.nom.sg.nt √pad+sam"
+    },
+    {
+     "surface": "devatāpadam",
+     "gloss": "deity-word",
+     "grounds": "compound denoting the term devatā",
+     "morph": "compound.nom.sg.nt"
+    }
+   ],
+   "question": "How is the term devatā etymologically derived from a root meaning shame and the act of giving?",
+   "premises": [
+    "An element meaning shame serves as one etymological source.",
+    "The verbal sense of giving contributes another component.",
+    "These components together yield the term devatā."
+   ],
+   "inference": "Therefore, the word devatā is accomplished through the combination of the sense of shame and the act of giving.",
+   "uncertainties": [
+    "The precise grammatical role of vrīḍārthakād in relation to the preceding derivational elements in verses 6073–6074 is not fully explicit in this verse alone."
+   ],
+   "plain_english": "From the element meaning shame and the act of giving, the word devatā is thus formed."
+  }
+ ]
+}

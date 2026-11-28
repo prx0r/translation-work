@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence after the preceding action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "next",
+     "grounds": "adverb indicating the subsequent step in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "yogic practice named as the next action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-beautiful-faced-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What practice must follow the initial tenfold recitation?",
+   "premises": [
+    "The initial tenfold recitation has already been prescribed.",
+    "A subsequent practice is enjoined after that recitation.",
+    "Breath-control is named as that subsequent practice."
+   ],
+   "inference": "After the initial tenfold recitation, one must perform breath-control.",
+   "uncertainties": [],
+   "plain_english": "Then next, O great goddess, O beautiful-faced one, perform breath-control."
+  }
+ ]
+}

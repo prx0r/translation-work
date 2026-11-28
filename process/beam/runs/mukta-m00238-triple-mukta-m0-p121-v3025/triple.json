@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "jñātvāvimucyetanarassamastaissaṃsārapāśairiti",
+     "gloss": "having-known-released-man-all-samsara-bonds-thus",
+     "grounds": "fused clause with internal sandhi; analyzed as one token without splitting",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "vishnu",
+     "grounds": "accusative object of the implied release",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Does knowledge release both the human being and Vishnu from all bonds of samsara?",
+   "premises": [
+    "knowledge releases a man from all samsara bonds",
+    "the same release is extended to Vishnu",
+    "the verse names Vishnu as included in that release"
+   ],
+   "inference": "The verse asserts that knowledge liberates both the human being and Vishnu from all bonds of samsara.",
+   "uncertainties": [
+    "the fused first token contains multiple words and sandhi boundaries that are not split in this row",
+    "the exact syntactic relation of caiva to the preceding clause is compressed"
+   ],
+   "plain_english": "Having known, a man is released from all bonds of samsara, and indeed Vishnu too."
+  }
+ ]
+}

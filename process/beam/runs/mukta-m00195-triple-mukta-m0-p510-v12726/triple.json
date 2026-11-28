@@ -1,0 +1,847 @@
+{
+ "song": "mukta-m0-p510",
+ "items": [
+  {
+   "verse": 12726,
+   "rows": [
+    {
+     "surface": "ekaviṃśatijāpena",
+     "gloss": "by-twenty-one-recitation",
+     "grounds": "instrumental of compound ekaviṃśati-japa indicating means",
+     "morph": "compound+instrumental.sg.m"
+    },
+    {
+     "surface": "tvabhicārakṣayo",
+     "gloss": "indeed-black-magic-destruction",
+     "grounds": "tu + abhicāra-kṣaya fused in sandhi as single token",
+     "morph": "compound+nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible result",
+     "morph": "3.sg.optative-active + √bhū"
+    }
+   ],
+   "question": "What result follows from reciting the mantra twenty-one times?",
+   "premises": [
+    "The mantra is recited twenty-one times.",
+    "Black magic is the targeted harm.",
+    "Recitation can produce destruction of that harm."
+   ],
+   "inference": "Twenty-one recitations bring about the destruction of black magic.",
+   "uncertainties": [],
+   "plain_english": "By reciting it twenty-one times, the harm of black magic is destroyed."
+  },
+  {
+   "verse": 12727,
+   "rows": [
+    {
+     "surface": "netrarogaṃ",
+     "gloss": "eye-disease",
+     "grounds": "object denoting ailment to be removed",
+     "morph": "compound+acc.sg.m"
+    },
+    {
+     "surface": "vedavedaiḥ",
+     "gloss": "by-four-fours",
+     "grounds": "instrumental compound using veda as numerical symbol for four",
+     "morph": "compound+instrumental.pl.m"
+    },
+    {
+     "surface": "khabāṇaiḥ",
+     "gloss": "by-zero-fives",
+     "grounds": "instrumental compound using kha for zero and bāṇa for five",
+     "morph": "compound+instrumental.pl.m"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "qualifies poison as complete or every kind",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "object denoting toxin to be removed",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which ailments and toxins are removed by specified recitation counts?",
+   "premises": [
+    "Eye disease is named as a target.",
+    "All poison is named as a target.",
+    "Specific numerical recitations are prescribed."
+   ],
+   "inference": "Recitations counted as four-fours and zero-fives remove eye disease and all poison.",
+   "uncertainties": [
+    "The exact numeric values of vedavedaiḥ and khabāṇaiḥ depend on numerical symbolism conventions."
+   ],
+   "plain_english": "By reciting it forty-four times, eye disease is removed, and by reciting it fifty times, all poison is removed."
+  },
+  {
+   "verse": 12728,
+   "rows": [
+    {
+     "surface": "agninā",
+     "gloss": "by-fire",
+     "grounds": "instrumental indicating cause of death",
+     "morph": "instrumental.sg.m"
+    },
+    {
+     "surface": "nihatānāntu",
+     "gloss": "of-those-killed-indeed",
+     "grounds": "nihatānām + tu fused in sandhi as single token",
+     "morph": "compound+gen.pl.m"
+    },
+    {
+     "surface": "japedaṣṭottaraṃ",
+     "gloss": "one-should-recite-eight-more",
+     "grounds": "japet + aṣṭottaram fused in sandhi as single token",
+     "morph": "3.sg.optative-active + √jap + compound+acc.sg.n"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numerical object completing the count",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What recitation count is prescribed for those killed by fire?",
+   "premises": [
+    "Some persons are killed by fire.",
+    "A recitation practice is prescribed for them.",
+    "The count specified is a hundred and eight."
+   ],
+   "inference": "One should recite the mantra one hundred and eight times for those killed by fire.",
+   "uncertainties": [
+    "The ritual purpose for those killed by fire is not explicitly stated."
+   ],
+   "plain_english": "For those killed by fire, one should recite the mantra one hundred and eight times."
+  },
+  {
+   "verse": 12729,
+   "rows": [
+    {
+     "surface": "yadyatproktaṃ",
+     "gloss": "whatever-declared",
+     "grounds": "reduplicated relative compound indicating any declared purpose",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "vaidikānāntattatsiddhividhāyakam",
+     "gloss": "of-vedic-that-accomplishment-effecting",
+     "grounds": "vaidikānām + tat-tat-siddhi-vidhāyakam fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    }
+   ],
+   "question": "What scope of Vedic aims does this practice accomplish?",
+   "premises": [
+    "Various aims are declared in Vedic contexts.",
+    "This practice is described as effecting accomplishment.",
+    "The effect applies to each such declared aim."
+   ],
+   "inference": "This practice brings about the accomplishment of whatever is declared for Vedic purposes.",
+   "uncertainties": [],
+   "plain_english": "Whatever is declared for Vedic purposes, this brings about the accomplishment of each of those aims."
+  },
+  {
+   "verse": 12730,
+   "rows": [
+    {
+     "surface": "ṣaṣṭibinduyutaṃ",
+     "gloss": "sixty-dot-endowed",
+     "grounds": "compound describing the seed-syllable as joined with sixty and a dot",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "seed-block",
+     "grounds": "mantra block or seed formula",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "nom.sg.n + past-participle"
+    },
+    {
+     "surface": "dakṣiṇamārgiṇām",
+     "gloss": "of-right-path-followers",
+     "grounds": "possessive indicating the tradition using this form",
+     "morph": "compound+gen.pl.m"
+    }
+   ],
+   "question": "Which mantra block is taught for followers of the right-hand path?",
+   "premises": [
+    "A mantra block is being specified.",
+    "It is endowed with sixty and a dot.",
+    "It belongs to followers of the right-hand path."
+   ],
+   "inference": "The mantra block endowed with sixty and a dot is declared for followers of the right-hand path.",
+   "uncertainties": [
+    "The exact phonetic realization of ṣaṣṭibinduyutaṃ is not fully explicit."
+   ],
+   "plain_english": "The mantra block endowed with sixty and a dot is declared for followers of the right-hand path."
+  },
+  {
+   "verse": 12731,
+   "rows": [
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal identifying another mantra block",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "svarabindubhyāṃ",
+     "gloss": "with-vowel-dot",
+     "grounds": "dual instrumental indicating two added elements",
+     "morph": "compound+instrumental.dual.n"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "past participle describing combination",
+     "morph": "nom.sg.m + past-participle"
+    },
+    {
+     "surface": "kūṭamudāhṛtam",
+     "gloss": "seed-block-declared",
+     "grounds": "kūṭam + udāhṛtam fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    }
+   ],
+   "question": "How is the second mantra block described in its composition?",
+   "premises": [
+    "A second mantra block is identified.",
+    "It is joined with a vowel and a dot.",
+    "This composition is declared by tradition."
+   ],
+   "inference": "The second mantra block is declared as joined with a vowel and a dot.",
+   "uncertainties": [
+    "The specific vowel intended is not named in this verse."
+   ],
+   "plain_english": "The second mantra block is declared to be joined with a vowel and a dot."
+  },
+  {
+   "verse": 12732,
+   "rows": [
+    {
+     "surface": "ekonatriṃśakañcaitat",
+     "gloss": "twenty-nine-and-this",
+     "grounds": "ekonatriṃśakam + ca + etat fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "saptavedākṣisammitam",
+     "gloss": "seven-four-two-measured",
+     "grounds": "compound using numerical symbols sapta, veda, akṣi to give a measure",
+     "morph": "compound+nom.sg.n"
+    }
+   ],
+   "question": "What numerical measures are assigned to this mantra block?",
+   "premises": [
+    "This mantra block is the subject.",
+    "One measure given is twenty-nine.",
+    "Another measure is expressed as seven, four, and two."
+   ],
+   "inference": "This mantra block is measured as twenty-nine and as seven-four-two.",
+   "uncertainties": [
+    "The intended reading order of saptavedākṣi as a number is conventional."
+   ],
+   "plain_english": "And this is twenty-nine, measured as seven, four, and two."
+  },
+  {
+   "verse": 12733,
+   "rows": [
+    {
+     "surface": "etatkūṭaṃ",
+     "gloss": "this-seed-block",
+     "grounds": "etad + kūṭam fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "samuddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating formal statement",
+     "morph": "nom.sg.n + past-participle"
+    },
+    {
+     "surface": "munyādyamatha",
+     "gloss": "sage-first-now",
+     "grounds": "muni-ādyam + atha fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-spoken",
+     "grounds": "present passive indicating what follows",
+     "morph": "3.sg.present-passive + √kath"
+    }
+   ],
+   "question": "What transition is made after declaring this mantra block?",
+   "premises": [
+    "This mantra block has been declared.",
+    "A sage-first element is introduced next.",
+    "The text states that it is now being spoken."
+   ],
+   "inference": "After declaring this mantra block, the text proceeds to speak of the sage and first elements.",
+   "uncertainties": [
+    "The precise referent of munyādyam may include sage and other preliminaries."
+   ],
+   "plain_english": "This mantra block has been declared; now the sage and the first elements are spoken of."
+  },
+  {
+   "verse": 12734,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "identifies the seed element of the mantra",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kṣakāro",
+     "gloss": "kṣa-syllable",
+     "grounds": "kṣakāraḥ with sandhi written as single token",
+     "morph": "compound+nom.sg.m"
+    },
+    {
+     "surface": "raḥ",
+     "gloss": "raḥ",
+     "grounds": "names the syllable raḥ as an element",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śaktirmakāraḥ",
+     "gloss": "power-ma-syllable",
+     "grounds": "śaktiḥ + makāraḥ fused in sandhi as single token",
+     "morph": "compound+nom.sg.m"
+    },
+    {
+     "surface": "kīlakammatam",
+     "gloss": "peg-considered",
+     "grounds": "kīlakam + matam fused in sandhi as single token",
+     "morph": "compound+nom.sg.n"
+    }
+   ],
+   "question": "Which syllables are assigned as seed, power, and peg?",
+   "premises": [
+    "The seed is identified as the syllable kṣa.",
+    "The power is identified as the syllable ma.",
+    "The peg is considered to be raḥ."
+   ],
+   "inference": "The mantra's seed is kṣa, its power is ma, and its peg is raḥ.",
+   "uncertainties": [],
+   "plain_english": "The seed is the syllable kṣa, the power is the syllable ma, and raḥ is considered the peg."
+  },
+  {
+   "verse": 12735,
+   "rows": [
+    {
+     "surface": "vidrumāraktavāmārdhadehaṃ",
+     "gloss": "coral-red-left-half-body",
+     "grounds": "compound describing one half of the deity's body as coral-red",
+     "morph": "compound+acc.sg.m"
+    },
+    {
+     "surface": "nīlāmbarāṅgakam",
+     "gloss": "blue-garment-limbed",
+     "grounds": "compound describing limbs clothed in blue",
+     "morph": "compound+acc.sg.m"
+    }
+   ],
+   "question": "How is the deity's body and attire visualized in this form?",
+   "premises": [
+    "The left half of the body is coral-red.",
+    "The limbs are associated with blue garments.",
+    "These features form part of the deity's visualization."
+   ],
+   "inference": "The deity is visualized with a coral-red left half and limbs clad in blue garments.",
+   "uncertainties": [],
+   "plain_english": "Visualize the deity with the left half of the body coral-red and the limbs clothed in blue."
+  },
+  {
+   "verse": 12736,
+   "rows": [
+    {
+     "surface": "hāvabhāvavilāsārdhanārīrūpaṃ",
+     "gloss": "emotion-grace-sport-half-woman-form",
+     "grounds": "compound describing a half-female form expressive of emotion and play",
+     "morph": "compound+acc.sg.m"
+    },
+    {
+     "surface": "maheśvaram",
+     "gloss": "great-lord",
+     "grounds": "object of visualization, the deity Maheśvara",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What composite form of Maheśvara is to be contemplated?",
+   "premises": [
+    "Maheśvara is the deity contemplated.",
+    "The form includes a half-female aspect.",
+    "That aspect expresses emotion, grace, and play."
+   ],
+   "inference": "One should contemplate Maheśvara in a half-female form marked by emotion, grace, and play.",
+   "uncertainties": [],
+   "plain_english": "Contemplate Maheśvara in a half-female form full of emotion, grace, and playful charm."
+  },
+  {
+   "verse": 12737,
+   "rows": [
+    {
+     "surface": "bhīṣaṇaṃ",
+     "gloss": "terrible",
+     "grounds": "qualifies the deity's appearance",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "paradehārdhamālālepavirājitam",
+     "gloss": "other-body-half-garland-smear-shining",
+     "grounds": "compound describing adornment with garland and smear on the other half of the body",
+     "morph": "compound+acc.sg.m"
+    }
+   ],
+   "question": "What striking adornments characterize the deity's other half?",
+   "premises": [
+    "The deity's form is described as terrible.",
+    "The other half of the body bears a garland and smear.",
+    "These adornments make that half shine."
+   ],
+   "inference": "The deity appears terrible, with the other half of the body shining with garland and smear.",
+   "uncertainties": [
+    "The exact substance of the smear is not specified."
+   ],
+   "plain_english": "The deity is terrible, with the other half of the body shining with a garland and sacred smear."
+  },
+  {
+   "verse": 12738,
+   "rows": [
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual body parts or subsidiary mantras to be worshipped",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "pūjayedādau",
+     "gloss": "one-should-worship-first",
+     "grounds": "pūjayet + ādau fused in sandhi as single token",
+     "morph": "3.sg.optative-active + √pūj + (indecl.)"
+    },
+    {
+     "surface": "vāmeṣṭadalakeśare",
+     "gloss": "in-left-eight-petal-pericarp",
+     "grounds": "locative compound indicating the ritual location",
+     "morph": "compound+loc.sg.n"
+    }
+   ],
+   "question": "Where should the deity's limbs be worshipped first?",
+   "premises": [
+    "The limbs are to be worshipped.",
+    "The worship is to be done first.",
+    "The location is the pericarp of the left eight-petaled lotus."
+   ],
+   "inference": "One should first worship the limbs in the pericarp of the left eight-petaled lotus.",
+   "uncertainties": [
+    "The exact diagrammatic referent of vāmeṣṭadalakeśare depends on ritual context."
+   ],
+   "plain_english": "One should first worship the limbs in the pericarp of the left eight-petaled lotus."
+  },
+  {
+   "verse": 12739,
+   "rows": [
+    {
+     "surface": "brāhmyādyā",
+     "gloss": "brāhmī-and-others",
+     "grounds": "compound naming Brāhmī as the first of a group",
+     "morph": "compound+nom.pl.f"
+    },
+    {
+     "surface": "mātaraḥ",
+     "gloss": "mothers",
+     "grounds": "the group of mother goddesses",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive indicating ritual obligation",
+     "morph": "nom.pl.f + gerundive"
+    },
+    {
+     "surface": "dvitīyeṣṭadale",
+     "gloss": "in-second-eight-petal",
+     "grounds": "locative compound indicating the next ritual location",
+     "morph": "compound+loc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates continuation of the worship sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are to be worshipped next and in what location?",
+   "premises": [
+    "Brāhmī and the other Mothers are named.",
+    "They are to be worshipped.",
+    "The location is the second eight-petaled lotus."
+   ],
+   "inference": "Brāhmī and the other Mothers are to be worshipped again in the second eight-petaled lotus.",
+   "uncertainties": [],
+   "plain_english": "Then Brāhmī and the other Mothers are to be worshipped in the second eight-petaled lotus."
+  },
+  {
+   "verse": 12740,
+   "rows": [
+    {
+     "surface": "pūjādravyādikaṃ",
+     "gloss": "worship-material-and-so-on",
+     "grounds": "compound referring to worship substances and related items",
+     "morph": "compound+nom.sg.n"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive indicating what should be adopted",
+     "morph": "nom.sg.n + gerundive"
+    },
+    {
+     "surface": "svasvāmnāyavibhedataḥ",
+     "gloss": "by-own-tradition-distinction",
+     "grounds": "ablative compound indicating differentiation according to each tradition",
+     "morph": "compound+abl.sg.m"
+    }
+   ],
+   "question": "According to what principle should worship materials be selected?",
+   "premises": [
+    "Worship materials and related items are required.",
+    "These items are to be taken or chosen.",
+    "Selection depends on distinctions of each tradition."
+   ],
+   "inference": "Worship materials should be chosen according to the distinctions of one's own tradition.",
+   "uncertainties": [],
+   "plain_english": "Worship materials and the like should be taken according to the distinctions of one's own tradition."
+  },
+  {
+   "verse": 12741,
+   "rows": [
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "one of the deity's held implements",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pannagaṃ",
+     "gloss": "serpent",
+     "grounds": "one of the deity's held implements or attributes",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "one of the deity's held implements",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "one of the deity's held implements",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective linking items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarāsanam",
+     "gloss": "bow",
+     "grounds": "one of the deity's held implements",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which weapons and attributes are held by the visualized deity?",
+   "premises": [
+    "The deity is described with multiple attributes.",
+    "An axe, serpent, trident, skull, and bow are listed.",
+    "These items belong to the deity's iconography."
+   ],
+   "inference": "The deity holds an axe, a serpent, a trident, a skull, and a bow.",
+   "uncertainties": [],
+   "plain_english": "The deity holds an axe, a serpent, a trident, a skull, and a bow."
+  },
+  {
+   "verse": 12742,
+   "rows": [
+    {
+     "surface": "gaṅgātaraṅgavilasaccandrakhaṇḍābhiśekharam",
+     "gloss": "gaṅgā-wave-shining-moon-piece-crested",
+     "grounds": "compound describing a crest adorned with Gaṅgā's waves and a shining moon fragment",
+     "morph": "compound+acc.sg.m"
+    }
+   ],
+   "question": "What adornment crowns the deity's head in this visualization?",
+   "premises": [
+    "The deity's crest is described.",
+    "It includes the waves of the Gaṅgā.",
+    "It includes a shining fragment of the moon."
+   ],
+   "inference": "The deity is crowned with the waves of the Gaṅgā and a shining crescent moon.",
+   "uncertainties": [],
+   "plain_english": "The deity is crowned with the waves of the Gaṅgā and a shining crescent moon."
+  },
+  {
+   "verse": 12743,
+   "rows": [
+    {
+     "surface": "aruṇām",
+     "gloss": "red",
+     "grounds": "describes the deity's color",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "aruṇākalpām",
+     "gloss": "red-ornamented",
+     "grounds": "compound describing red ornaments or attire",
+     "morph": "compound+acc.sg.f"
+    },
+    {
+     "surface": "aruṇāṃśukadhāriṇīm",
+     "gloss": "red-garment-wearing",
+     "grounds": "compound describing one who wears red garments",
+     "morph": "compound+acc.sg.f"
+    }
+   ],
+   "question": "How is the goddess's color and attire characterized?",
+   "premises": [
+    "The goddess is described as red.",
+    "Her ornaments or adornments are red.",
+    "She wears red garments."
+   ],
+   "inference": "The goddess is red, adorned in red, and wearing red garments.",
+   "uncertainties": [],
+   "plain_english": "She is red, adorned in red ornaments, and wearing red garments."
+  },
+  {
+   "verse": 12744,
+   "rows": [
+    {
+     "surface": "śūlaiḥ",
+     "gloss": "with-tridents",
+     "grounds": "instrumental indicating weapons held",
+     "morph": "instrumental.pl.m"
+    },
+    {
+     "surface": "ṣoḍaśabhirvyagrabhujaṣoḍaśamaṇḍitām",
+     "gloss": "with-sixteen-busy-arm-sixteen-adorned",
+     "grounds": "ṣoḍaśabhiḥ + vyagra-bhuja-ṣoḍaśa-maṇḍitām fused in sandhi as single token",
+     "morph": "compound+acc.sg.f"
+    }
+   ],
+   "question": "How many arms and tridents adorn the goddess in this form?",
+   "premises": [
+    "The goddess is adorned with sixteen arms.",
+    "Those arms are active or busy.",
+    "She holds sixteen tridents."
+   ],
+   "inference": "The goddess is adorned with sixteen active arms holding sixteen tridents.",
+   "uncertainties": [],
+   "plain_english": "She is adorned with sixteen active arms bearing sixteen tridents."
+  },
+  {
+   "verse": 12745,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsiddhamantrasya",
+     "gloss": "of-accomplished-mantra",
+     "grounds": "possessive compound referring to one whose mantra is perfected",
+     "morph": "compound+gen.sg.m"
+    },
+    {
+     "surface": "prayogo",
+     "gloss": "application",
+     "grounds": "ritual application or procedure",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vakṣyatedhunā",
+     "gloss": "will-be-spoken-now",
+     "grounds": "vakṣyate + adhunā fused in sandhi as single token",
+     "morph": "3.sg.future-passive + √vac + (indecl.)"
+    }
+   ],
+   "question": "What topic is introduced after describing the accomplished mantra?",
+   "premises": [
+    "The mantra has been described as accomplished.",
+    "A new section is being introduced.",
+    "The subject is its application."
+   ],
+   "inference": "The text now proceeds to explain the application for one whose mantra is accomplished.",
+   "uncertainties": [],
+   "plain_english": "Thus, the application for one whose mantra is accomplished will now be explained."
+  },
+  {
+   "verse": 12746,
+   "rows": [
+    {
+     "surface": "prasādya",
+     "gloss": "having-propitiated",
+     "grounds": "absolutive indicating prior act of pleasing the deity",
+     "morph": "absolutive + pra-√sad"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "japenmantramayutambhāgyadāyakam",
+     "gloss": "may-recite-mantra-ten-thousand-fortune-giving",
+     "grounds": "japet + mantram + ayutam + bhāgyadāyakam fused in sandhi as single token",
+     "morph": "compound+acc.sg.m"
+    }
+   ],
+   "question": "What benefit comes from reciting the mantra ten thousand times after propitiation?",
+   "premises": [
+    "The practitioner first propitiates the deity.",
+    "The mantra is recited ten thousand times.",
+    "The recitation is described as giving fortune."
+   ],
+   "inference": "One who propitiates the deity and recites the mantra ten thousand times gains fortune.",
+   "uncertainties": [],
+   "plain_english": "Having propitiated the deity, whoever recites the mantra ten thousand times gains fortune."
+  },
+  {
+   "verse": 12747,
+   "rows": [
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangle",
+     "grounds": "object of visualization",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "cintayenmūrdhni",
+     "gloss": "one-should-visualize-on-head",
+     "grounds": "cintayet + mūrdhni fused in sandhi as single token",
+     "morph": "3.sg.optative-active + √cint + loc.sg.m"
+    },
+    {
+     "surface": "grastasyāgnyarkasannibham",
+     "gloss": "of-seized-fire-sun-resembling",
+     "grounds": "grastasya + agni-arka-sannibham fused in sandhi as single token",
+     "morph": "compound+acc.sg.n"
+    }
+   ],
+   "question": "What visualization on the head is prescribed for the targeted person?",
+   "premises": [
+    "A triangle is to be visualized.",
+    "The location is on the head of the targeted person.",
+    "It resembles fire and sun in a seized state."
+   ],
+   "inference": "One should visualize on the targeted person's head a triangle resembling seized fire and sun.",
+   "uncertainties": [
+    "The meaning of grastasya in this ritual context is somewhat ambiguous."
+   ],
+   "plain_english": "One should visualize on the person's head a triangle resembling fire and sun in eclipse."
+  },
+  {
+   "verse": 12748,
+   "rows": [
+    {
+     "surface": "grastasya",
+     "gloss": "of-seized",
+     "grounds": "refers to the targeted person in the same state",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative indicating placement",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣiptaṃ",
+     "gloss": "thrown",
+     "grounds": "past participle describing projection of the visualized force",
+     "morph": "nom.sg.n + past-participle"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective continuing the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaṇādāveśakārakam",
+     "gloss": "in-an-instant-possession-causing",
+     "grounds": "compound describing an effect produced instantly",
+     "morph": "compound+nom.sg.n"
+    }
+   ],
+   "question": "What immediate effect results from projecting this force onto the head?",
+   "premises": [
+    "Something is projected onto the head of the targeted person.",
+    "The action is linked to the prior visualization.",
+    "The result occurs in an instant."
+   ],
+   "inference": "When projected onto the targeted person's head, it causes possession in an instant.",
+   "uncertainties": [
+    "The exact nature of the possession is not specified."
+   ],
+   "plain_english": "Projected onto that person's head, it causes possession in an instant."
+  },
+  {
+   "verse": 12749,
+   "rows": [
+    {
+     "surface": "sakāramādau",
+     "gloss": "sa-syllable-first",
+     "grounds": "sakāram + ādau fused in sandhi as single token",
+     "morph": "compound+acc.sg.m"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive indicating addition at the beginning",
+     "morph": "absolutive + sam-√yuj"
+    },
+    {
+     "surface": "japetsiddhiḥ",
+     "gloss": "one-should-recite-accomplishment",
+     "grounds": "japet + siddhiḥ fused in sandhi as single token",
+     "morph": "3.sg.optative-active + √jap + nom.sg.f"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "present passive indicating the resulting accomplishment",
+     "morph": "3.sg.present-passive + pra-√jan"
+    }
+   ],
+   "question": "What modification to the recitation produces accomplishment?",
+   "premises": [
+    "The syllable sa is joined at the beginning.",
+    "The mantra is then recited.",
+    "Accomplishment is said to arise from this."
+   ],
+   "inference": "Joining the syllable sa at the beginning and reciting produces accomplishment.",
+   "uncertainties": [],
+   "plain_english": "By joining the syllable sa at the beginning and reciting, accomplishment is produced."
+  }
+ ]
+}

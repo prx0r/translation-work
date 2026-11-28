@@ -1,0 +1,1213 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-taken",
+     "grounds": "past participle of saṃ-grah",
+     "morph": "verb.participle.perf.act"
+    },
+    {
+     "surface": "muṣṭi+mātraṃ",
+     "gloss": "fist-measure",
+     "grounds": "compound of muṣṭi and mātra",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣa+hastena",
+     "gloss": "right-hand-by",
+     "grounds": "compound in instrumental",
+     "morph": "compound.inst.sg.m"
+    },
+    {
+     "surface": "bhasmanaḥ",
+     "gloss": "of-ashes",
+     "grounds": "genitive of bhasman",
+     "morph": "noun.gen.sg.n"
+    }
+   ],
+   "question": "How much ash should be taken and with which hand?",
+   "premises": [
+    "ash is taken in fist measure",
+    "the right hand is used"
+   ],
+   "inference": "the rite begins by taking a fistful of ash in the right hand",
+   "uncertainties": [
+    "exact ritual context of taking ash"
+   ],
+   "plain_english": "Having taken a fistful of ash with the right hand."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of vidhā",
+     "morph": "verb.absolutive"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "causative optative of śudh",
+     "morph": "verb.3.sg.opt.act"
+    },
+    {
+     "surface": "mūla+brahma+aṅga+manubhiḥ",
+     "gloss": "root-brahma-limb-mantras-with",
+     "grounds": "compound in instrumental plural",
+     "morph": "compound.inst.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantras purify the ash after it is placed?",
+   "premises": [
+    "ash is placed before purification",
+    "root brahma and limb mantras are used"
+   ],
+   "inference": "the ash is purified with the root, brahma, and limb mantras",
+   "uncertainties": [
+    "whether tathā adds a further step"
+   ],
+   "plain_english": "Having placed it, one should purify with the root, brahma, and limb mantras, likewise."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "with-astra-mantra",
+     "grounds": "instrumental of astra",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "dakṣa+hastena",
+     "gloss": "right-hand-by",
+     "grounds": "compound in instrumental",
+     "morph": "compound.inst.sg.m"
+    },
+    {
+     "surface": "mala+snānaṃ",
+     "gloss": "impurity-bath",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mastakāt",
+     "gloss": "from-head",
+     "grounds": "ablative of mastaka",
+     "morph": "noun.abl.sg.m"
+    }
+   ],
+   "question": "How is the impurity bath performed from the head?",
+   "premises": [
+    "the astra mantra is used",
+    "the right hand performs the rite",
+    "impurity is washed from the head"
+   ],
+   "inference": "the impurity bath is done from the head with the astra mantra and right hand",
+   "uncertainties": [
+    "exact sequence of body parts"
+   ],
+   "plain_english": "With the astra mantra and right hand, the impurity bath is indeed from the head."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "īśānena",
+     "gloss": "with-īśāna-mantra",
+     "grounds": "instrumental of īśāna",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "kam",
+     "gloss": "head",
+     "grounds": "accusative of ka",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "uddhūlya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive of uddhūl",
+     "morph": "verb.absolutive"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "accusative of mukha",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tatpuruṣeṇa",
+     "gloss": "with-tatpuruṣa-mantra",
+     "grounds": "instrumental of tatpuruṣa",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantras sprinkle the head and face?",
+   "premises": [
+    "īśāna mantra sprinkles the head",
+    "tatpuruṣa mantra is used for the face"
+   ],
+   "inference": "the head is sprinkled with īśāna and the face with tatpuruṣa",
+   "uncertainties": [
+    "whether uddhūlya governs both actions"
+   ],
+   "plain_english": "Having sprinkled the head with īśāna, the face with tatpuruṣa indeed."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "sadyojātena",
+     "gloss": "with-sadyojāta-mantra",
+     "grounds": "instrumental of sadyojāta",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "sarva+aṅgaṃ",
+     "gloss": "all-limbs",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "ṣaḍ+aṅgaiḥ",
+     "gloss": "with-six-limbs",
+     "grounds": "compound instrumental plural",
+     "morph": "compound.inst.pl.n"
+    },
+    {
+     "surface": "hṛdaya+ādikam",
+     "gloss": "heart-etc",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "Which mantras and limbs are used for the whole body?",
+   "premises": [
+    "sadyojāta mantra covers all limbs",
+    "six limbs are used",
+    "heart and following parts are included"
+   ],
+   "inference": "the whole body is treated with sadyojāta and the six limbs from heart onward",
+   "uncertainties": [
+    "exact scope of ādikam"
+   ],
+   "plain_english": "With sadyojāta, all limbs, with six limbs, heart and so on."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guru+agni+devānāṃ",
+     "gloss": "guru-fire-gods-of",
+     "grounds": "compound genitive plural",
+     "morph": "compound.gen.pl.m"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative of sannidhi",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "on-road",
+     "grounds": "locative of mārga",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is ash bathing not approved?",
+   "premises": [
+    "it is not approved in presence of guru fire or gods",
+    "it is not approved on the road"
+   ],
+   "inference": "ash bathing is prohibited in those sacred or public places",
+   "uncertainties": [
+    "whether both conditions are jointly required"
+   ],
+   "plain_english": "Not even on the road, nor in presence of guru, fire, or gods."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "indefinite adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "approved",
+     "grounds": "past participle of śaṃs",
+     "morph": "verb.participle.perf.pass"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-deity",
+     "grounds": "genitive of deva",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative of sannidhi",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "agni+sannidhau",
+     "gloss": "in-fire-presence",
+     "grounds": "compound locative",
+     "morph": "compound.loc.sg.m"
+    }
+   ],
+   "question": "Where is ash bathing approved?",
+   "premises": [
+    "it is approved in presence of deity",
+    "it is approved in presence of fire"
+   ],
+   "inference": "ash bathing is approved before deity and fire",
+   "uncertainties": [
+    "whether kvacit modifies approval broadly"
+   ],
+   "plain_english": "Indeed it is approved anywhere in presence of deity and fire."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "uddhūlane",
+     "gloss": "in-sprinkling",
+     "grounds": "locative of uddhūlana",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśaktaḥ",
+     "gloss": "unable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "tripuṇḍra",
+     "grounds": "accusative of tripuṇḍra",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "causative optative of kṛ",
+     "morph": "verb.3.sg.opt.act"
+    }
+   ],
+   "question": "What should one do if unable to sprinkle ash?",
+   "premises": [
+    "inability to sprinkle is considered",
+    "tripuṇḍra may be made instead"
+   ],
+   "inference": "if unable to sprinkle, one should make tripuṇḍra",
+   "uncertainties": [
+    "whether vā api is emphatic or alternative"
+   ],
+   "plain_english": "If unable even in sprinkling, one should make tripuṇḍra."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "nṛpa+viṭ+śūdra+jātīnāṃ",
+     "gloss": "king-vaiśya-śūdra-classes-of",
+     "grounds": "compound genitive plural",
+     "morph": "compound.gen.pl.m"
+    },
+    {
+     "surface": "paṭṭa+puṇḍraṃ",
+     "gloss": "flat-mark",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "lalāṭake",
+     "gloss": "on-forehead",
+     "grounds": "locative of lalāṭaka",
+     "morph": "noun.loc.sg.n"
+    }
+   ],
+   "question": "What mark is prescribed for kings, vaiśyas, and śūdras?",
+   "premises": [
+    "those classes are named",
+    "a flat mark is prescribed",
+    "it is placed on the forehead"
+   ],
+   "inference": "kings, vaiśyas, and śūdras wear a flat mark on the forehead",
+   "uncertainties": [
+    "whether brāhmaṇas are excluded by omission"
+   ],
+   "plain_english": "For kings, vaiśyas, and śūdras, a flat mark on the forehead."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "mūrddhā",
+     "gloss": "head",
+     "grounds": "nominative of mūrddhan",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "lalāṭa+karṇau",
+     "gloss": "forehead-ears",
+     "grounds": "compound dual",
+     "morph": "compound.nom.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakṣuṣī",
+     "gloss": "two-eyes",
+     "grounds": "dual of cakṣus",
+     "morph": "noun.nom.du.n"
+    },
+    {
+     "surface": "ghrāṇakau",
+     "gloss": "two-nostrils",
+     "grounds": "dual of ghrāṇaka",
+     "morph": "noun.nom.du.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which body parts are marked in this arrangement?",
+   "premises": [
+    "head is included",
+    "forehead and ears are included",
+    "eyes and nostrils are included"
+   ],
+   "inference": "the marking arrangement includes head, forehead, ears, eyes, and nostrils",
+   "uncertainties": [
+    "whether this is a complete list"
+   ],
+   "plain_english": "Head, forehead and ears, eyes, nostrils likewise."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "maṇibandhau",
+     "gloss": "two-wrists",
+     "grounds": "dual of maṇibandha",
+     "morph": "noun.nom.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛt+nābhi+meḍhraṃ",
+     "gloss": "heart-navel-genitals",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "pāyuḥ",
+     "gloss": "anus",
+     "grounds": "nominative of pāyu",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further body parts are marked?",
+   "premises": [
+    "wrists are included",
+    "heart navel and genitals are included",
+    "anus is included"
+   ],
+   "inference": "the arrangement also marks wrists, heart, navel, genitals, and anus",
+   "uncertainties": [
+    "whether eva ca is redundant"
+   ],
+   "plain_english": "Wrists, heart, navel, genitals, anus likewise."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "priyaṃ",
+     "gloss": "dear",
+     "grounds": "accusative of priya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+mūrtīnāṃ",
+     "gloss": "of-eight-forms",
+     "grounds": "compound genitive plural",
+     "morph": "compound.gen.pl.m"
+    },
+    {
+     "surface": "vidyeśānāṃ",
+     "gloss": "of-vidyeśas",
+     "grounds": "genitive plural of vidyeśa",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whom is this marking arrangement dear?",
+   "premises": [
+    "it is dear to eight forms",
+    "it is dear to vidyeśas"
+   ],
+   "inference": "the arrangement is dear to the eight forms and vidyeśas",
+   "uncertainties": [
+    "whether priyaṃ is object or predicate"
+   ],
+   "plain_english": "Indeed dear to the eight forms and vidyeśas likewise."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "lalāṭaṃ",
+     "gloss": "forehead",
+     "grounds": "accusative of lalāṭa",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "karṇau",
+     "gloss": "ears",
+     "grounds": "dual of karṇa",
+     "morph": "noun.acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃsau",
+     "gloss": "shoulders",
+     "grounds": "dual of aṃsa",
+     "morph": "noun.acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhū",
+     "gloss": "arms",
+     "grounds": "dual of bāhu",
+     "morph": "noun.acc.du.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇi+kūrparau",
+     "gloss": "wrists-elbows",
+     "grounds": "compound dual",
+     "morph": "compound.acc.du.m"
+    }
+   ],
+   "question": "Which joints are counted in the sixteen?",
+   "premises": [
+    "forehead and ears are counted",
+    "shoulders and arms are counted",
+    "wrists and elbows are counted"
+   ],
+   "inference": "these named parts are among the sixteen joints",
+   "uncertainties": [
+    "exact enumeration of all sixteen"
+   ],
+   "plain_english": "Forehead, ears, shoulders, arms, wrists and elbows."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "accusative of pṛṣṭha",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ka",
+     "gloss": "ka",
+     "grounds": "indeclinable syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive of vijñā",
+     "morph": "verb.gerundive.pl.m"
+    },
+    {
+     "surface": "sandhayaḥ",
+     "gloss": "joints",
+     "grounds": "nominative plural of sandhi",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama",
+     "morph": "noun.abl.sg.m"
+    }
+   ],
+   "question": "How many joints are to be known in order?",
+   "premises": [
+    "back and ka are included",
+    "sixteen joints are to be known",
+    "they are known in order"
+   ],
+   "inference": "sixteen joints including back and ka are to be known in order",
+   "uncertainties": [
+    "meaning of ka in this list"
+   ],
+   "plain_english": "Back, ka, thus sixteen joints are to be known in order."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "aśvinyoḥ",
+     "gloss": "of-aśvins",
+     "grounds": "genitive dual of aśvin",
+     "morph": "noun.gen.du.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "dear",
+     "grounds": "accusative of priya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive of jñā",
+     "morph": "verb.gerundive.sg.n"
+    },
+    {
+     "surface": "mūrddhā+ādi+parikalpanam",
+     "gloss": "head-etc-arrangement",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What arrangement is dear to the aśvins?",
+   "premises": [
+    "the arrangement is dear to the aśvins",
+    "it begins with the head",
+    "it is to be known"
+   ],
+   "inference": "the head-first arrangement is dear to the aśvins",
+   "uncertainties": [
+    "exact extent of ādi"
+   ],
+   "plain_english": "Indeed dear to the aśvins is the head-first arrangement to be known."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "nominative of nābhi",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "pṛṣṭha",
+     "gloss": "back",
+     "grounds": "nominative of pṛṣṭha",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive plural",
+     "morph": "verb.gerundive.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhayaḥ",
+     "gloss": "joints",
+     "grounds": "nominative plural of sandhi",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of krama",
+     "morph": "noun.abl.sg.m"
+    }
+   ],
+   "question": "How many joints are known from navel and back?",
+   "premises": [
+    "navel and back are named",
+    "eight joints are to be known",
+    "they are known in order"
+   ],
+   "inference": "eight joints from navel and back are to be known in order",
+   "uncertainties": [
+    "whether nābhi and pṛṣṭha are two of the eight"
+   ],
+   "plain_english": "Navel, back, thus eight joints indeed are to be known in order."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "lalāṭa+bāhu+hṛt+nābhi",
+     "gloss": "forehead-arms-heart-navel",
+     "grounds": "compound",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "in-five",
+     "grounds": "numeral locative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhiṣu",
+     "gloss": "in-joints",
+     "grounds": "locative plural of sandhi",
+     "morph": "noun.loc.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "verb.3.sg.opt.act"
+    }
+   ],
+   "question": "Where may the fivefold arrangement be applied?",
+   "premises": [
+    "forehead arms heart and navel are named",
+    "five joints are involved",
+    "it may be applied there"
+   ],
+   "inference": "the fivefold arrangement may be applied at those five joints",
+   "uncertainties": [
+    "whether vā indicates an alternative rite"
+   ],
+   "plain_english": "Forehead, arms, heart, navel in five joints, or it may be."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "madhya+tarjany+anāmābhiḥ",
+     "gloss": "middle-forefinger-ring-finger-with",
+     "grounds": "compound instrumental plural",
+     "morph": "compound.inst.pl.f"
+    },
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "tripuṇḍra",
+     "grounds": "accusative of tripuṇḍra",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-draw",
+     "grounds": "optative of nī",
+     "morph": "verb.3.sg.opt.act"
+    }
+   ],
+   "question": "How should tripuṇḍra be drawn?",
+   "premises": [
+    "middle forefinger and ring finger are used",
+    "tripuṇḍra is drawn",
+    "it is drawn according to rule"
+   ],
+   "inference": "tripuṇḍra should be drawn with those fingers according to rule",
+   "uncertainties": [
+    "whether madhya means middle finger"
+   ],
+   "plain_english": "With middle, forefinger, and ring finger, draw tripuṇḍra according to rule."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "nṛpāṇāṃ",
+     "gloss": "of-kings",
+     "grounds": "genitive plural of nṛpa",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "catur+aṅgulyaṃ",
+     "gloss": "four-finger-measure",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "vaiśyānāṃ",
+     "gloss": "of-vaiśyas",
+     "grounds": "genitive plural of vaiśya",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "dvy+aṅgulaṃ",
+     "gloss": "two-finger-measure",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "verb.3.sg.opt.act"
+    }
+   ],
+   "question": "What are the tripuṇḍra measures for kings and vaiśyas?",
+   "premises": [
+    "kings have four fingers",
+    "vaiśyas have two fingers"
+   ],
+   "inference": "the tripuṇḍra measure differs by class",
+   "uncertainties": [
+    "measure for other classes"
+   ],
+   "plain_english": "For kings four fingers, for vaiśyas two fingers."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "strīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive plural of strī",
+     "morph": "noun.gen.pl.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-do",
+     "grounds": "optative of kṛ",
+     "morph": "verb.3.sg.opt.act"
+    },
+    {
+     "surface": "anya+jātiḥ",
+     "gloss": "other-class",
+     "grounds": "compound nominative",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "optative of vṛj",
+     "morph": "verb.3.sg.opt.act"
+    }
+   ],
+   "question": "How should women and other classes be treated?",
+   "premises": [
+    "women should do likewise",
+    "other classes should avoid it"
+   ],
+   "inference": "women follow the same practice while other classes avoid it",
+   "uncertainties": [
+    "what exactly is avoided"
+   ],
+   "plain_english": "Women should do likewise; other classes should avoid it."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpa+samākāram",
+     "gloss": "lamp-form-like",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "arddha+candraṃ",
+     "gloss": "half-moon",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "lalāmakam",
+     "gloss": "forehead-mark",
+     "grounds": "accusative of lalāmaka",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What forehead mark is described next?",
+   "premises": [
+    "it is lamp-shaped",
+    "it is half-moon shaped",
+    "it is a forehead mark"
+   ],
+   "inference": "the next mark is a lamp-like half-moon forehead mark",
+   "uncertainties": [
+    "whether arddha+candra modifies dīpa"
+   ],
+   "plain_english": "Then a lamp-like half-moon forehead mark."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "peṣitaṃ",
+     "gloss": "ground",
+     "grounds": "past participle of piṣ",
+     "morph": "verb.participle.perf.pass"
+    },
+    {
+     "surface": "candanena",
+     "gloss": "with-sandalwood",
+     "grounds": "instrumental of candana",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental of vāri",
+     "morph": "noun.inst.sg.n"
+    },
+    {
+     "surface": "saṃyutaṃ",
+     "gloss": "mixed",
+     "grounds": "past participle of saṃ-yu",
+     "morph": "verb.participle.perf.pass"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the mark prepared?",
+   "premises": [
+    "it is ground",
+    "it is mixed with sandalwood",
+    "it is mixed with water"
+   ],
+   "inference": "the mark is prepared by grinding and mixing with sandalwood or water",
+   "uncertainties": [
+    "whether eva restricts to sandalwood"
+   ],
+   "plain_english": "Ground, mixed with sandalwood indeed, or with water."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "prātar+madhyāhna+sāyāhna+madhyarātreṣu",
+     "gloss": "morning-midday-evening-midnight-in",
+     "grounds": "compound locative plural",
+     "morph": "compound.loc.pl.m"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should ash bathing be done?",
+   "premises": [
+    "morning midday evening and midnight are named",
+    "it is always done"
+   ],
+   "inference": "ash bathing is done at those times and always",
+   "uncertainties": [
+    "whether sarvadā overrides the list"
+   ],
+   "plain_english": "In morning, midday, evening, and midnight, always."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "bhasma+snānaṃ",
+     "gloss": "ash-bath",
+     "grounds": "compound accusative",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "yathā+yogyaṃ",
+     "gloss": "as-appropriate",
+     "grounds": "compound adverb",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "verb.3.sg.opt.act"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How often should ash bathing be performed?",
+   "premises": [
+    "ash bath is done as appropriate",
+    "it may be done once",
+    "it may be done repeatedly"
+   ],
+   "inference": "ash bathing is done as appropriate, once or repeatedly",
+   "uncertainties": [
+    "whether sakṛt eva vā means once or even once"
+   ],
+   "plain_english": "Ash bath as appropriate, who does it once or repeatedly."
+  }
+ ]
+}

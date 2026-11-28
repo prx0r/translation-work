@@ -1,0 +1,57 @@
+{
+ "song": "kul-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "niḥsattvaḥ",
+     "gloss": "without-essence",
+     "grounds": "negative compound niḥ + sattva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nijītaḥ",
+     "gloss": "subdued",
+     "grounds": "past participle sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dagdha",
+     "gloss": "burnt",
+     "grounds": "past participle sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "capalaḥ",
+     "gloss": "fickle",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayaṅkaraḥ",
+     "gloss": "fearful",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which qualities are listed as marks of the fallen?",
+   "premises": [
+    "The verse lists negative qualities.",
+    "It continues the prior catalog.",
+    "Each adjective modifies a masculine subject."
+   ],
+   "inference": "The subject is characterized by these defects.",
+   "uncertainties": [
+    "The exact referent of the catalog is not stated."
+   ],
+   "plain_english": "Without essence, subdued, burnt, fickle, and fearful."
+  }
+ ]
+}

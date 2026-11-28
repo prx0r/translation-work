@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "vatāṃ",
+     "gloss": "of-those-endowed",
+     "grounds": "genitive plural of possessive suffix -vat, indicating those possessing certain qualities",
+     "morph": "suffix.gen.pl.m"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "the highest reality or ultimate state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastam+eti",
+     "gloss": "hand+comes-to",
+     "grounds": "fused form: hastam (hand, object of attainment) + eti (goes/comes), expressing coming within grasp",
+     "morph": "hastam(m.acc.sg)+eti(3.sg.pres.act;√i)"
+    }
+   ],
+   "question": "For whom does the supreme reality remain forever beyond attainment?",
+   "premises": [
+    "The supreme is the highest reality.",
+    "Coming to hand signifies direct attainment or grasp.",
+    "For those endowed as described, the supreme never comes within grasp."
+   ],
+   "inference": "Therefore, the supreme remains unattainable for such beings.",
+   "uncertainties": [
+    "The specific quality denoted by the suffix in vatāṃ depends on the preceding context."
+   ],
+   "plain_english": "For those so endowed, the supreme never comes within reach."
+  }
+ ]
+}

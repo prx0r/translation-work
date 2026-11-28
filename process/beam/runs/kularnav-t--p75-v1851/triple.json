@@ -1,0 +1,510 @@
+{
+ "song": "kul-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "baṭukādibaliṃ",
+     "gloss": "baṭuka-and-other-offering",
+     "grounds": "compound of baṭuka, ādi, baliṃ",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What offering knowledge precedes kula action?",
+   "premises": [
+    "baṭuka offerings are known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowledge of baṭuka offerings enables kula actions.",
+   "uncertainties": [
+    "compound segmentation follows legacy hint"
+   ],
+   "plain_english": "Knowing the baṭuka and other offerings, O goddess, one should accomplish the actions."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "sambhogakālañca",
+     "gloss": "enjoyment-time-and",
+     "grounds": "compound with ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "parigrahet",
+     "gloss": "should-receive",
+     "grounds": "optative of parigrah",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What timing knowledge precedes receiving śakti?",
+   "premises": [
+    "enjoyment time is known",
+    "śakti is then received"
+   ],
+   "inference": "Knowing the time of enjoyment, one should receive śakti.",
+   "uncertainties": [
+    "sambhoga context unspecified"
+   ],
+   "plain_english": "O goddess, knowing the time of enjoyment, one should receive śakti."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "tattvatrayasya",
+     "gloss": "three-principles-of",
+     "grounds": "genitive compound",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "svīkāraṃ",
+     "gloss": "acceptance",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "kulasudhāṃ",
+     "gloss": "kula-nectar",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative of pā",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What acceptance knowledge precedes drinking kula nectar?",
+   "premises": [
+    "three principles are accepted",
+    "kula nectar is then drunk"
+   ],
+   "inference": "Knowing acceptance of the three principles, one drinks kula nectar.",
+   "uncertainties": [
+    "tattva triad not specified"
+   ],
+   "plain_english": "Knowing the acceptance of the three principles, one should drink the kula nectar."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "yoginībhogaceṣṭādi",
+     "gloss": "yoginī-enjoyment-movement-etc",
+     "grounds": "compound with ādi",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present of bhū",
+     "morph": "3sg.prs"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaula-practitioner",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What knowledge makes one a kaulika?",
+   "premises": [
+    "yoginī enjoyment and movement are known",
+    "one becomes a kaulika"
+   ],
+   "inference": "Knowing yoginī enjoyment and related conduct makes one a kaulika.",
+   "uncertainties": [
+    "ceṣṭā scope unspecified"
+   ],
+   "plain_english": "Knowing the yoginīs' enjoyment, movement, and so on, one becomes a kaulika."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "śāntastavādipaṭhanaṃ",
+     "gloss": "peaceful-hymn-etc-recitation",
+     "grounds": "compound with ādi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3sg.opt"
+    },
+    {
+     "surface": "kuladeśikāḥ",
+     "gloss": "kula-teachers",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What recitation knowledge makes kula teachers?",
+   "premises": [
+    "peaceful hymn recitation is known",
+    "one may be a kula teacher"
+   ],
+   "inference": "Knowing peaceful hymn recitation and related practice, one may be a kula teacher.",
+   "uncertainties": [
+    "stava identity unspecified"
+   ],
+   "plain_english": "Knowing the recitation of peaceful hymns and so on, one may be a kula teacher."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "viśeṣatithipūjāñca",
+     "gloss": "special-tithi-worship-and",
+     "grounds": "compound with ca",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What special tithi worship knowledge precedes action?",
+   "premises": [
+    "special tithi worship is known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowing special tithi worship, one should accomplish the actions.",
+   "uncertainties": [
+    "tithi list unspecified"
+   ],
+   "plain_english": "Knowing special tithi worship and so on, one should accomplish the actions."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "gurutrayaṃ",
+     "gloss": "three-gurus",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sampradāya",
+     "gloss": "tradition",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What guru and tradition knowledge precedes action?",
+   "premises": [
+    "three gurus are known",
+    "tradition is known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowing the three gurus and tradition, one should accomplish the actions.",
+   "uncertainties": [
+    "guru triad unspecified"
+   ],
+   "plain_english": "Knowing the three gurus and the tradition, one should accomplish the actions."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "caraṇatritayaṃ",
+     "gloss": "three-feet",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What three-feet knowledge precedes action?",
+   "premises": [
+    "three feet are known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowing the three feet, one should accomplish the actions.",
+   "uncertainties": [
+    "caraṇa sense unspecified"
+   ],
+   "plain_english": "O goddess, knowing the three feet, one should accomplish the actions."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "siddhamudrādharārcādi",
+     "gloss": "siddha-mudrā-holder-worship-etc",
+     "grounds": "compound with ādi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What siddha mudrā worship knowledge precedes action?",
+   "premises": [
+    "siddha mudrā holder worship is known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowing siddha mudrā worship and related practice, one should accomplish the actions.",
+   "uncertainties": [
+    "arcā scope unspecified"
+   ],
+   "plain_english": "Knowing siddha mudrā, holder, worship, and so on, one should accomplish the actions."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "mokṣadīpavidhānādi",
+     "gloss": "liberation-lamp-rite-etc",
+     "grounds": "compound with ādi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "plural accusative",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative of sādh",
+     "morph": "3sg.opt"
+    }
+   ],
+   "question": "What liberation lamp rite knowledge precedes action?",
+   "premises": [
+    "liberation lamp rite is known",
+    "actions are then accomplished"
+   ],
+   "inference": "Knowing the liberation lamp rite and related practice, one should accomplish the actions.",
+   "uncertainties": [
+    "dīpa ritual sense unspecified"
+   ],
+   "plain_english": "Knowing the liberation lamp rite and so on, one should accomplish the actions."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "sarveṣāmeva",
+     "gloss": "of-all-indeed",
+     "grounds": "genitive with eva",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sādhāraṇakramaḥ",
+     "gloss": "common-procedure",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the common procedure for all mantras?",
+   "premises": [
+    "all mantras have a rule",
+    "the procedure is common"
+   ],
+   "inference": "There is a common procedure and rule for all mantras.",
+   "uncertainties": [
+    "vidhi details not given"
+   ],
+   "plain_english": "For all mantras, the rule is a common procedure."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "prabudhyante",
+     "gloss": "awaken",
+     "grounds": "present passive of prabudh",
+     "morph": "3pl.prs"
+    },
+    {
+     "surface": "agnijāyāntā",
+     "gloss": "fire-born-ending",
+     "grounds": "compound with anta",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "vidyās",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "strīdevatāḥ",
+     "gloss": "female-deities",
+     "grounds": "compound nominative",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Which female deities awaken as fire-born vidyās?",
+   "premises": [
+    "fire-born-ending vidyās awaken",
+    "they are female deities"
+   ],
+   "inference": "The female deities that are fire-born-ending vidyās awaken.",
+   "uncertainties": [
+    "agnijāyāntā compound sense"
+   ],
+   "plain_english": "O beloved, the fire-born-ending vidyās, female deities, awaken."
+  }
+ ]
+}

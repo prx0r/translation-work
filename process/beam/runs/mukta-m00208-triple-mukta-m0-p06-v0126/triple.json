@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "śiṣyamādiśya",
+     "gloss": "having-instructed-student",
+     "grounds": "gerund of ā-diś with accusative object",
+     "morph": "gerund (ā-√diś)"
+    },
+    {
+     "surface": "dadyācca",
+     "gloss": "and-should-give",
+     "grounds": "optative with enclitic ca",
+     "morph": "3.sg.opt.act (√dā) + (indecl.)"
+    },
+    {
+     "surface": "pādatīrthaprasādakau",
+     "gloss": "foot-water-and-grace",
+     "grounds": "dvandva compound: pādatīrtha and prasāda",
+     "morph": "m.acc.du (compound)"
+    }
+   ],
+   "question": "What ritual gifts should be given after instructing the student?",
+   "premises": [
+    "The teacher has already instructed the student.",
+    "After instruction, specific ritual gifts are to be bestowed.",
+    "These gifts are foot-water and grace."
+   ],
+   "inference": "Having instructed the student, the teacher should give foot-water and grace.",
+   "uncertainties": [],
+   "plain_english": "After instructing the student, the teacher should also give the foot-water and grace."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "māheśvarān",
+     "gloss": "devotees-of-great-lord",
+     "grounds": "followers of Maheśvara",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "spiritual preceptor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "sacred emblem of Śiva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samyagarcaya",
+     "gloss": "worship-properly",
+     "grounds": "imperative with adverbial samyak",
+     "morph": "2.sg.imp.act (√arc)"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "always",
+     "grounds": "adverb of regularity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom must the disciple worship properly on a daily basis?",
+   "premises": [
+    "The disciple is addressed with a command to worship.",
+    "The objects of worship are devotees of the great lord, the teacher, and the liṅga.",
+    "This worship must be performed properly and always."
+   ],
+   "inference": "The disciple must always properly worship the devotees of Maheśvara, the teacher, and the liṅga.",
+   "uncertainties": [],
+   "plain_english": "Always properly worship the devotees of the great Lord, the teacher, and the liṅga."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "pravartasva",
+     "gloss": "engage",
+     "grounds": "imperative middle voice",
+     "morph": "2.sg.imp.mid (pra-√vṛt)"
+    },
+    {
+     "surface": "mahābuddhe",
+     "gloss": "o-great-minded-one",
+     "grounds": "vocative address to the disciple",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "pañcācāreṣvapi",
+     "gloss": "also-in-five-practices",
+     "grounds": "locative plural with enclitic api",
+     "morph": "m.loc.pl (compound) + (indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the disciple proceed in the five prescribed practices?",
+   "premises": [
+    "The disciple is addressed as greatly intelligent.",
+    "There are five practices to be undertaken.",
+    "Engagement in them must follow a proper order."
+   ],
+   "inference": "The disciple should engage in the five practices in due order.",
+   "uncertainties": [
+    "The specific identity of the five practices is not stated in this verse."
+   ],
+   "plain_english": "O greatly intelligent one, engage also in the five practices in proper order."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "aṅgaliṅgapratiṣṭhākhyāṃ",
+     "gloss": "called-limb-liṅga-consecration",
+     "grounds": "compound naming the initiation",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "dīkṣāṃ",
+     "gloss": "initiation",
+     "grounds": "ritual initiation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śiṣyasya",
+     "gloss": "of-student",
+     "grounds": "recipient of initiation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhīmataḥ",
+     "gloss": "of-intelligent",
+     "grounds": "qualifies the student",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which initiation is to be performed for the intelligent student?",
+   "premises": [
+    "An initiation is specified for a student.",
+    "The student is described as intelligent.",
+    "The initiation is named aṅgaliṅgapratiṣṭhā."
+   ],
+   "inference": "The intelligent student should receive the initiation called aṅgaliṅgapratiṣṭhā.",
+   "uncertainties": [],
+   "plain_english": "The initiation called aṅgaliṅgapratiṣṭhā is for the intelligent student."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "namo brahmaṇa",
+     "gloss": "salutation-to-brahman",
+     "grounds": "formulaic salutation with dative",
+     "morph": "(indecl.) + n.dat.sg"
+    },
+    {
+     "surface": "ityetaṃ",
+     "gloss": "thus-this",
+     "grounds": "quotative marker with demonstrative",
+     "morph": "(indecl.) + m.acc.sg"
+    },
+    {
+     "surface": "dhṛtimantraṃ",
+     "gloss": "steadfast-mantra",
+     "grounds": "compound naming the mantra",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "uttering",
+     "grounds": "present participle describing the agent",
+     "morph": "m.nom.sg.pres.part.act (sam-ud-√car)"
+    }
+   ],
+   "question": "Which mantra must be uttered during the prescribed rite?",
+   "premises": [
+    "A mantra is to be uttered.",
+    "The mantra is identified as the dhṛti-mantra.",
+    "Its form is the salutation 'namo brahmaṇa'."
+   ],
+   "inference": "One should utter the dhṛti-mantra, namely 'namo brahmaṇa'.",
+   "uncertainties": [],
+   "plain_english": "Uttering this dhṛti-mantra: 'Salutation to Brahman'."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "gurvantevāsinorvāsa",
+     "gloss": "teacher-and-disciple-garment",
+     "grounds": "compound with sandhi: gurvantevāsinoḥ + vāsaḥ",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ācchādakam",
+     "gloss": "covering",
+     "grounds": "qualifies the garment as a covering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anūtsṛjet",
+     "gloss": "should-not-discard",
+     "grounds": "prohibitive optative with negative prefix sense",
+     "morph": "3.sg.opt.act (an-ud-√sṛj)"
+    }
+   ],
+   "question": "What garment must not be discarded by teacher and disciple?",
+   "premises": [
+    "A covering garment belongs to teacher and disciple.",
+    "This garment serves as their covering.",
+    "It must not be discarded."
+   ],
+   "inference": "The covering garment of the teacher and disciple should not be discarded.",
+   "uncertainties": [],
+   "plain_english": "One should not discard the covering garment of the teacher and the disciple."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "gobhūmyādyairmahādānair",
+     "gloss": "with-great-gifts-of-cow-land-etc",
+     "grounds": "instrumental plural compound listing gifts",
+     "morph": "n.ins.pl (compound)"
+    },
+    {
+     "surface": "deśikaṃ",
+     "gloss": "teacher",
+     "grounds": "spiritual instructor as recipient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paritoṣayet",
+     "gloss": "should-satisfy",
+     "grounds": "causative optative",
+     "morph": "3.sg.opt.caus.act (pari-√tuṣ)"
+    }
+   ],
+   "question": "How should the disciple satisfy the spiritual teacher materially?",
+   "premises": [
+    "The teacher is to be satisfied.",
+    "Satisfaction is achieved through great gifts.",
+    "Such gifts include cows, land, and similar offerings."
+   ],
+   "inference": "One should satisfy the teacher with great gifts such as cows and land.",
+   "uncertainties": [],
+   "plain_english": "One should satisfy the teacher with great gifts such as cows, land, and the like."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "nātaḥ",
+     "gloss": "not-than-this",
+     "grounds": "negative with ablative adverb",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present passive",
+     "morph": "3.sg.pres.pass (√vid)"
+    },
+    {
+     "surface": "mokṣasādhanam",
+     "gloss": "means-for-liberation",
+     "grounds": "compound denoting instrument of liberation",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What claim is made about the supremacy of this means for liberation?",
+   "premises": [
+    "A means for liberation is under discussion.",
+    "Nothing higher than this is said to exist.",
+    "The statement asserts its unsurpassed status."
+   ],
+   "inference": "There is no means for liberation higher than this.",
+   "uncertainties": [
+    "The referent of 'this' depends on the preceding context."
+   ],
+   "plain_english": "There exists no means for liberation higher than this."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "cittaśuddhyā",
+     "gloss": "by-purification-of-mind",
+     "grounds": "instrumental compound expressing cause",
+     "morph": "f.ins.sg (compound)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-arise",
+     "grounds": "optative of becoming",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "bhaktir",
+     "gloss": "devotion",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anyadevasamāśrayā",
+     "gloss": "directed-to-another-deity",
+     "grounds": "compound qualifying devotion",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "What kind of devotion arises from purification of the mind?",
+   "premises": [
+    "Purification of the mind is a causal condition.",
+    "Devotion arises from this purification.",
+    "This devotion is directed toward another deity."
+   ],
+   "inference": "Purification of the mind gives rise to devotion directed toward another deity.",
+   "uncertainties": [],
+   "plain_english": "Through purification of the mind, devotion directed toward another deity may arise."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "devāntaraprasādena",
+     "gloss": "by-grace-of-another-deity",
+     "grounds": "instrumental compound expressing cause",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "locative referring to the speaker deity",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "present passive",
+     "morph": "3.sg.pres.pass (pra-√jan)"
+    }
+   ],
+   "question": "How does devotion to the supreme deity come to arise?",
+   "premises": [
+    "Grace comes from another deity.",
+    "Devotion arises in the supreme deity.",
+    "This devotion is produced through that grace."
+   ],
+   "inference": "By the grace of another deity, devotion arises in the supreme deity.",
+   "uncertainties": [],
+   "plain_english": "By the grace of another deity, devotion to me arises."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "present passive",
+     "morph": "3.sg.pres.pass (√labh)"
+    },
+    {
+     "surface": "matprasādena",
+     "gloss": "by-my-grace",
+     "grounds": "instrumental compound expressing cause",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "kasyāpyantimajanmanaḥ",
+     "gloss": "of-someone-in-final-birth",
+     "grounds": "genitive compound with indefinite pronoun",
+     "morph": "m.gen.sg (compound)"
+    }
+   ],
+   "question": "For whom is the supreme attainment obtained through divine grace?",
+   "premises": [
+    "An attainment is obtained through the speaker's grace.",
+    "This grace operates for someone specific.",
+    "That person is in their final birth."
+   ],
+   "inference": "Through the speaker's grace, it is obtained by someone in their final birth.",
+   "uncertainties": [
+    "The object obtained is implicit from context."
+   ],
+   "plain_english": "Through my grace, it is obtained by someone in their final birth."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "na taṃ",
+     "gloss": "not-him",
+     "grounds": "negative with accusative pronoun",
+     "morph": "(indecl.) + pron.acc.sg"
+    },
+    {
+     "surface": "māyā'nubadhnāti",
+     "gloss": "māyā-binds",
+     "grounds": "compound with sandhi: māyā + anubadhnāti",
+     "morph": "f.nom.sg + 3.sg.pres.act (anu-√bandh)"
+    },
+    {
+     "surface": "na sa",
+     "gloss": "not-he",
+     "grounds": "negative with nominative pronoun",
+     "morph": "(indecl.) + pron.nom.sg"
+    },
+    {
+     "surface": "bhūyo'bhijāyate",
+     "gloss": "is-born-again",
+     "grounds": "compound with sandhi: bhūyaḥ + abhijāyate",
+     "morph": "(indecl.) + 3.sg.pres.pass (abhi-√jan)"
+    }
+   ],
+   "question": "What consequences no longer affect one who has received final grace?",
+   "premises": [
+    "Māyā does not bind that person.",
+    "That person is not born again.",
+    "These are consequences of the attained state."
+   ],
+   "inference": "One who has received that grace is neither bound by māyā nor born again.",
+   "uncertainties": [],
+   "plain_english": "Māyā does not bind him, and he is not born again."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun referring to the liberated person",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "nirdagdhabandhasya",
+     "gloss": "whose-bonds-are-burned",
+     "grounds": "bahuvrīhi compound describing the person",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "punarbandhaḥ",
+     "gloss": "bondage-again",
+     "grounds": "compound indicating renewed bondage",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb implying impossibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "could-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Why can renewed bondage not arise for one whose bonds are burned?",
+   "premises": [
+    "The person's bonds have been completely burned.",
+    "Renewed bondage would require bonds to exist.",
+    "The rhetorical question denies such possibility."
+   ],
+   "inference": "For one whose bonds are burned, renewed bondage is impossible.",
+   "uncertainties": [],
+   "plain_english": "How could there be bondage again for him whose bonds have been burned away?"
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "amṛtasyāsya",
+     "gloss": "of-this-immortal",
+     "grounds": "genitive with sandhi: amṛtasya + asya",
+     "morph": "n.gen.sg + pron.gen.sg"
+    },
+    {
+     "surface": "nikaṭaṃ",
+     "gloss": "near",
+     "grounds": "accusative used adverbially with motion verb",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb implying impossibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "subject of the rhetorical question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayāsyati",
+     "gloss": "will-approach",
+     "grounds": "future tense",
+     "morph": "3.sg.fut.act (pra-√yā)"
+    }
+   ],
+   "question": "Why can death not approach one who has become immortal?",
+   "premises": [
+    "The person is described as immortal.",
+    "Death would need to approach that person.",
+    "The rhetorical question denies this possibility."
+   ],
+   "inference": "Death cannot approach one who is immortal.",
+   "uncertainties": [],
+   "plain_english": "How could death approach this immortal one?"
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "bhāsvatastasya",
+     "gloss": "of-that-radiant-one",
+     "grounds": "genitive with sandhi: bhāsvataḥ + tasya",
+     "morph": "m.gen.sg + pron.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "darkness",
+     "grounds": "subject of the rhetorical question",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sakāśāṃ",
+     "gloss": "near-presence",
+     "grounds": "accusative indicating proximity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kathameṣyati",
+     "gloss": "how-will-come",
+     "grounds": "compound with sandhi: katham + eṣyati",
+     "morph": "(indecl.) + 3.sg.fut.act (√i)"
+    }
+   ],
+   "question": "Why can darkness not come near one who is radiant?",
+   "premises": [
+    "The person is described as radiant.",
+    "Darkness would need to come near that person.",
+    "The rhetorical question denies this possibility."
+   ],
+   "inference": "Darkness cannot come near one who is radiant.",
+   "uncertainties": [],
+   "plain_english": "But how could darkness come near that radiant one?"
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "viduṣo",
+     "gloss": "of-knower",
+     "grounds": "genitive of the wise person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nityatṛptasya",
+     "gloss": "of-ever-satisfied",
+     "grounds": "compound qualifying the knower",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb implying impossibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoko",
+     "gloss": "grief",
+     "grounds": "subject of the rhetorical question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future tense",
+     "morph": "3.sg.fut.act (√bhū)"
+    }
+   ],
+   "question": "Why can grief not arise for a knower who is ever satisfied?",
+   "premises": [
+    "The person is a knower.",
+    "The knower is ever satisfied.",
+    "The rhetorical question denies the possibility of grief."
+   ],
+   "inference": "Grief cannot arise for a knower who is ever satisfied.",
+   "uncertainties": [],
+   "plain_english": "How could grief arise for a knower who is ever satisfied?"
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "sa eva",
+     "gloss": "he-alone",
+     "grounds": "emphatic pronoun with particle",
+     "morph": "pron.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "atrādhikārī",
+     "gloss": "here-qualified",
+     "grounds": "compound with sandhi: atra + adhikārī",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "nānyo",
+     "gloss": "not-another",
+     "grounds": "negative with sandhi: na + anyaḥ",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "mokṣāya",
+     "gloss": "for-liberation",
+     "grounds": "dative of purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "is-fit",
+     "grounds": "present middle voice",
+     "morph": "3.sg.pres.mid (√kḷp)"
+    }
+   ],
+   "question": "Who alone is qualified and fit for attaining liberation?",
+   "premises": [
+    "Qualification for liberation is being asserted.",
+    "Only that person is qualified here.",
+    "No other person is fit for liberation."
+   ],
+   "inference": "Only that person is qualified and fit for liberation, and no other.",
+   "uncertainties": [
+    "The referent of 'he alone' depends on the preceding description."
+   ],
+   "plain_english": "He alone would be qualified here; no other is fit for liberation."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "gerundive expressing necessity",
+     "morph": "n.nom.sg.gerundive (√gup)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental of manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kimataḥ",
+     "gloss": "what-beyond-this",
+     "grounds": "compound with sandhi: kim + ataḥ",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "śrotumicchasi",
+     "gloss": "you-wish-to-hear",
+     "grounds": "compound with sandhi: śrotum + icchasi",
+     "morph": "inf. (√śru) + 2.sg.pres.act (√iṣ)"
+    }
+   ],
+   "question": "Why should nothing further be sought beyond this secret teaching?",
+   "premises": [
+    "The teaching must be carefully concealed.",
+    "The listener is asked what more they wish to hear.",
+    "The question implies nothing further should be sought."
+   ],
+   "inference": "Since this must be carefully concealed, nothing further should be asked for.",
+   "uncertainties": [],
+   "plain_english": "This must be carefully concealed; what more do you wish to hear beyond this?"
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "mahāpāśupatavidhirnāma",
+     "gloss": "named-great-pāśupata-rite",
+     "grounds": "compound with sandhi: mahāpāśupatavidhiḥ + nāma",
+     "morph": "m.nom.sg (compound) + (indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section of the text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the title and position of this concluding chapter?",
+   "premises": [
+    "The section is identified as a chapter.",
+    "It is named the great Pāśupata rite.",
+    "It is designated as the first chapter."
+   ],
+   "inference": "This is the first chapter, named the great Pāśupata rite.",
+   "uncertainties": [],
+   "plain_english": "This is the first chapter, named the Great Pāśupata Rite."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "etadākarṇanādasmi",
+     "gloss": "from-hearing-this-i-am",
+     "grounds": "compound with sandhi: etadākarṇanāt + asmi",
+     "morph": "n.abl.sg (compound) + 1.sg.pres.act (√as)"
+    },
+    {
+     "surface": "kṛtakṛtyā",
+     "gloss": "one-whose-purpose-is-accomplished",
+     "grounds": "compound describing fulfilled state",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "maheśvara",
+     "gloss": "o-great-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What effect does hearing this teaching have on the listener?",
+   "premises": [
+    "The speaker has heard this teaching.",
+    "Hearing it produces a sense of fulfillment.",
+    "The speaker addresses the great lord."
+   ],
+   "inference": "By hearing this, the speaker declares herself fulfilled.",
+   "uncertainties": [],
+   "plain_english": "O great Lord, from hearing this I am one whose purpose is accomplished."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "tadapākuru",
+     "gloss": "therefore-remove-that",
+     "grounds": "compound with sandhi: tat + apākuru",
+     "morph": "pron.acc.sg + 2.sg.imp.act (apa-ā-√kṛ)"
+    },
+    {
+     "surface": "kāruṇyāt",
+     "gloss": "out-of-compassion",
+     "grounds": "ablative of cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "prāṇeśa",
+     "gloss": "o-lord-of-life",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "madvacaḥ",
+     "gloss": "my-word",
+     "grounds": "compound with sandhi: mat + vacaḥ",
+     "morph": "pron.gen.sg + n.acc.sg"
+    }
+   ],
+   "question": "What compassionate response is requested from the lord of life?",
+   "premises": [
+    "The speaker asks for something to be removed.",
+    "The request is made out of compassion.",
+    "The lord is asked to hear the speaker's words."
+   ],
+   "inference": "The speaker asks the lord, out of compassion, to remove that and hear her words.",
+   "uncertainties": [
+    "The specific thing to be removed is not explicit in this verse."
+   ],
+   "plain_english": "Therefore remove that out of compassion, O lord of life; hear my words."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "vratenānuṣṭhitena",
+     "gloss": "by-vow-performed",
+     "grounds": "instrumental with past participle",
+     "morph": "n.ins.sg + n.ins.sg.past.part.pass (anu-√sthā)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result of the vow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "tell",
+     "grounds": "imperative",
+     "morph": "2.sg.imp.act (√brū)"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "truly",
+     "grounds": "ablative used adverbially",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What true fruit results from the performance of the prescribed vow?",
+   "premises": [
+    "A vow has been performed.",
+    "The speaker asks about its fruit.",
+    "The answer is requested in truth."
+   ],
+   "inference": "The speaker asks what fruit truly results from performing the vow.",
+   "uncertainties": [],
+   "plain_english": "What fruit would come from a vow that has been performed? Tell me truly."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "jñānādeva",
+     "gloss": "from-knowledge-alone",
+     "grounds": "ablative with emphatic particle",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaivalyam",
+     "gloss": "liberation",
+     "grounds": "state of absolute freedom",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "true",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaco",
+     "gloss": "word",
+     "grounds": "nominative with sandhi: vacaḥ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "What is declared to be the sole source of final liberation?",
+   "premises": [
+    "Liberation is identified as kaivalya.",
+    "Knowledge alone is stated as its source.",
+    "The speaker affirms this as a true statement."
+   ],
+   "inference": "Final liberation comes from knowledge alone, and this is declared true.",
+   "uncertainties": [],
+   "plain_english": "Liberation comes from knowledge alone; this is my true word."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "vratenānena",
+     "gloss": "by-this-vow",
+     "grounds": "instrumental demonstrative phrase",
+     "morph": "n.ins.sg + pron.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānāyādhikṛto",
+     "gloss": "qualified-for-knowledge",
+     "grounds": "compound with sandhi: jñānāya + adhikṛtaḥ",
+     "morph": "n.dat.sg + m.nom.sg.past.part.pass (adhi-√kṛ)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative of becoming",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Why is the prescribed vow necessary for qualification in knowledge?",
+   "premises": [
+    "Qualification for knowledge is under discussion.",
+    "This vow is presented as a necessary condition.",
+    "Without this vow, one would not become qualified for knowledge."
+   ],
+   "inference": "Without this vow, one cannot become qualified for knowledge.",
+   "uncertainties": [],
+   "plain_english": "Without this vow, one would not become qualified for knowledge."
+  }
+ ]
+}

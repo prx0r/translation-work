@@ -1,0 +1,98 @@
+{
+ "song": "kul-p05",
+ "items": [
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "yāvatna",
+     "gloss": "as-long-as-not",
+     "grounds": "yāvat plus na fused into one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manasaḥ sthairyaṃ",
+     "gloss": "mind-steadiness",
+     "grounds": "steadiness of mind; genitive singular plus nominative singular neuter",
+     "morph": "gen.sg.m + nom.sg.n"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative duration marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvakathā",
+     "gloss": "truth-discourse",
+     "grounds": "compound of truth and discourse",
+     "morph": "compound = tattva+kathā; nom.sg.f"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative source marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does truth-discourse become possible?",
+   "premises": [
+    "mind steadiness absent blocks truth discourse",
+    "truth discourse requires stable mind",
+    "without steadiness no discourse arises"
+   ],
+   "inference": "truth-discourse arises only after mind steadiness",
+   "uncertainties": [
+    "yāvatna parsed as fused as-long-as-not",
+    "token two contains an internal space"
+   ],
+   "plain_english": "As long as the mind lacks steadiness, truth-discourse is impossible."
+  },
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive singular pronoun",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "hearing-by-merely",
+     "grounds": "instrumental singular neuter compound",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "yoginis'",
+     "grounds": "genitive plural feminine",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What effect does merely hearing it have?",
+   "premises": [
+    "hearing alone suffices",
+    "the hearer becomes dear",
+    "yoginis are the recipients"
+   ],
+   "inference": "merely hearing it makes one dear to yoginis",
+   "uncertainties": [
+    "tasya referent unspecified in excerpt"
+   ],
+   "plain_english": "By merely hearing it, one may become dear to the yoginis."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "adjective indicating doubling of the previously mentioned measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the measure stated in the preceding verses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kvacitproktaṃ",
+     "gloss": "sometimes-stated",
+     "grounds": "fused form of kvacit (sometimes) and proktam (declared); internal sandhi noted, token kept unsplit",
+     "morph": "compound"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative indicating the architectural context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rasabhājite",
+     "gloss": "divided-into-six",
+     "grounds": "compound describing a temple apportioned into six parts (rasa = six)",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what temple division is that measure sometimes declared to be twofold?",
+   "premises": [
+    "The preceding context specifies a measure for the inner chamber and pedestal.",
+    "That same measure is sometimes declared to be twofold.",
+    "This twofold declaration applies in a temple divided into six parts."
+   ],
+   "inference": "Therefore, when the temple is apportioned into six parts, the stated measure may be doubled.",
+   "uncertainties": [
+    "The exact referent of 'tat' (whether the pedestal, inner space, or total measure) depends on the preceding verses."
+   ],
+   "plain_english": "That measure is sometimes said to be double in a temple that is divided into six parts."
+  }
+ ]
+}

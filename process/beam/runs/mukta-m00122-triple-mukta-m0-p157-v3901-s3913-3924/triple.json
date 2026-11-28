@@ -1,0 +1,469 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3913,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "plural masculine nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokapālādyāḥ",
+     "gloss": "world-guardians-etc",
+     "grounds": "compound lokapāla plus ādi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadbhaktiprāptasampadaḥ",
+     "gloss": "that-devotion-obtained-prosperity",
+     "grounds": "compound of tat bhakti prāpta sampad",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do world-guardians and similar beings relate to prosperity obtained through devotion?",
+   "premises": [
+    "world-guardians are grouped with others",
+    "their prosperity comes through devotion"
+   ],
+   "inference": "World-guardians are included among beings whose prosperity is devotion-derived.",
+   "uncertainties": [
+    "exact scope of ādi remains open"
+   ],
+   "plain_english": "Others, such as world-guardians, possess prosperity obtained through that devotion."
+  },
+  {
+   "verse": 3914,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "third person plural present of as",
+     "morph": "3.pl.act-pres, root as"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "knowledge",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative pronoun used adverbially",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "feminine accusative or nominative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are deities and knowledge said to be always those very things?",
+   "premises": [
+    "deities and knowledge are not separate",
+    "therefore those remain always"
+   ],
+   "inference": "The verse denies a separation between deities and knowledge, affirming their constant identity.",
+   "uncertainties": [
+    "exact syntactic role of tāḥ is ambiguous"
+   ],
+   "plain_english": "Deities are not separate from knowledge; therefore those indeed are always."
+  },
+  {
+   "verse": 3915,
+   "rows": [
+    {
+     "surface": "paravaśaḥ",
+     "gloss": "dependent",
+     "grounds": "compound para vaśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third person singular present of bhū",
+     "morph": "3.sg.act-pres, root bhū"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound iti artha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does it mean for a being to become dependent in this context?",
+   "premises": [
+    "dependence is the stated result",
+    "thus-meaning closes the gloss"
+   ],
+   "inference": "The verse glosses the preceding claim as dependence.",
+   "uncertainties": [
+    "referent of dependence is not explicit"
+   ],
+   "plain_english": "He becomes dependent; that is the meaning."
+  },
+  {
+   "verse": 3916,
+   "rows": [
+    {
+     "surface": "sampradāyārthaḥ",
+     "gloss": "tradition-meaning",
+     "grounds": "compound sampradāya artha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the traditional meaning being signaled here?",
+   "premises": [
+    "the term names tradition-meaning",
+    "it stands as a gloss marker"
+   ],
+   "inference": "The verse labels the preceding statement as traditional meaning.",
+   "uncertainties": [
+    "which tradition is intended is not specified"
+   ],
+   "plain_english": "This is the traditional meaning."
+  },
+  {
+   "verse": 3917,
+   "rows": [
+    {
+     "surface": "p. 594",
+     "gloss": "page-594",
+     "grounds": "editorial page marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvarṇavyāptacakrasthāḥ",
+     "gloss": "that-letter-pervaded-circle-abiding",
+     "grounds": "compound of tat varṇa vyāpta cakra stha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "planets",
+     "grounds": "masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tavadarśitāḥ",
+     "gloss": "by-you-shown",
+     "grounds": "compound tava adarśitāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where do the planets abide according to the letter-pervaded circle?",
+   "premises": [
+    "planets abide in that letter-pervaded circle",
+    "they are shown by you"
+   ],
+   "inference": "The planets are located in the circle pervaded by that letter and are shown by the teacher.",
+   "uncertainties": [
+    "page marker is editorial not doctrinal"
+   ],
+   "plain_english": "The planets abide in that letter-pervaded circle, and they are shown by you."
+  },
+  {
+   "verse": 3918,
+   "rows": [
+    {
+     "surface": "anyāḥ",
+     "gloss": "others",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "feminine nominative plural relative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "repeated relative pronoun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "feminine nominative plural demonstrative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "repeated demonstrative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tanmayavigrahāḥ",
+     "gloss": "that-may-bodied",
+     "grounds": "compound tan maya vigraha",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What is the bodily form of the other deities mentioned here?",
+   "premises": [
+    "other deities are enumerated",
+    "their forms are that-maya-bodied"
+   ],
+   "inference": "The other deities have forms constituted by that maya.",
+   "uncertainties": [
+    "repeated pronouns may be emphatic or editorial"
+   ],
+   "plain_english": "Other deities, whichever they are, have forms made of that maya."
+  },
+  {
+   "verse": 3919,
+   "rows": [
+    {
+     "surface": "yatsiddhiḥ",
+     "gloss": "whose-accomplishment",
+     "grounds": "compound yat siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddharūpāṇāṃ",
+     "gloss": "of-accomplished-forms",
+     "grounds": "genitive plural of siddharūpa",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāguktānāṃ",
+     "gloss": "previously-said",
+     "grounds": "genitive plural participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "third person singular optative of bhū",
+     "morph": "3.sg.act-opt, root bhū"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When may the accomplishment of previously said accomplished forms occur?",
+   "premises": [
+    "accomplishment belongs to accomplished forms",
+    "those forms were previously said",
+    "it may be always"
+   ],
+   "inference": "The accomplishment of the previously mentioned accomplished forms may always be.",
+   "uncertainties": [
+    "subject of bhavet is implicit"
+   ],
+   "plain_english": "The accomplishment of the previously said accomplished forms may always be."
+  },
+  {
+   "verse": 3920,
+   "rows": [
+    {
+     "surface": "prakṣīṇāśeṣapāpānāṃ",
+     "gloss": "exhausted-all-sins",
+     "grounds": "compound prakṣīṇa aśeṣa pāpa",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "third person singular optative of as",
+     "morph": "3.sg.act-opt, root as"
+    },
+    {
+     "surface": "tajjñasevinām",
+     "gloss": "that-knower-servants",
+     "grounds": "compound tat jña sevin",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For whom may devotion arise after all sins are exhausted?",
+   "premises": [
+    "all sins are exhausted",
+    "devotion may be",
+    "for servants of that knower"
+   ],
+   "inference": "Devotion may arise for servants of that knower once all sins are exhausted.",
+   "uncertainties": [
+    "exact relation between bhakti and tajjñasevinām is genitive"
+   ],
+   "plain_english": "For servants of that knower, devotion may be after all sins are exhausted."
+  },
+  {
+   "verse": 3921,
+   "rows": [
+    {
+     "surface": "nityātmakamātṛkāvarṇavyāptacakrasthāḥ",
+     "gloss": "eternal-nature-matrika-letter-pervaded-circle-abiding",
+     "grounds": "long compound of nitya ātmaka mātṛkā varṇa vyāpta cakra stha",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kind of beings abide in the circle pervaded by matrika letters of eternal nature?",
+   "premises": [
+    "the compound describes abiding beings",
+    "they are in the matrika-letter-pervaded circle"
+   ],
+   "inference": "The verse names beings abiding in the circle pervaded by matrika letters of eternal nature.",
+   "uncertainties": [
+    "head noun is implicit"
+   ],
+   "plain_english": "They abide in the circle pervaded by matrika letters of eternal nature."
+  },
+  {
+   "verse": 3922,
+   "rows": [
+    {
+     "surface": "cakrāntarasthaṣoḍaśanityāmayavigrahāḥ",
+     "gloss": "circle-within-abiding-sixteen-eternal-maya-bodied",
+     "grounds": "long compound of cakra antara stha ṣoḍaśa nitya maya vigraha",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What forms abide within the circle according to this compound?",
+   "premises": [
+    "sixteen eternal maya-bodied forms are named",
+    "they abide within the circle"
+   ],
+   "inference": "The verse names sixteen eternal maya-bodied forms abiding within the circle.",
+   "uncertainties": [
+    "exact referent of the sixteen forms is not explicit"
+   ],
+   "plain_english": "Sixteen eternal maya-bodied forms abide within the circle."
+  },
+  {
+   "verse": 3923,
+   "rows": [
+    {
+     "surface": "pararūpahomasya",
+     "gloss": "other-form-offering",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhavat",
+     "gloss": "like-accomplished",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the remainder of other-form offering to be understood?",
+   "premises": [
+    "other-form offering has a remainder",
+    "it is thus like accomplished"
+   ],
+   "inference": "The remainder of other-form offering is to be treated as accomplished.",
+   "uncertainties": [
+    "scope of śeṣaḥ is not fully explicit"
+   ],
+   "plain_english": "The remainder of other-form offering is thus like accomplished."
+  },
+  {
+   "verse": 3924,
+   "rows": [
+    {
+     "surface": "tajjñasevinām",
+     "gloss": "that-knower-servants",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "viditaparamārthanāthasevāditatparāṇām",
+     "gloss": "known-ultimate-lord-service-devoted",
+     "grounds": "long compound of vidita paramārtha nātha sevā ādi tatpara",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Who are the servants devoted to service of the known ultimate lord?",
+   "premises": [
+    "servants of that knower are named",
+    "they are devoted to service of the known ultimate lord"
+   ],
+   "inference": "The servants of that knower are devoted to service of the known ultimate lord.",
+   "uncertainties": [
+    "compound segmentation is interpretive"
+   ],
+   "plain_english": "Servants of that knower are devoted to service of the known ultimate lord."
+  }
+ ]
+}

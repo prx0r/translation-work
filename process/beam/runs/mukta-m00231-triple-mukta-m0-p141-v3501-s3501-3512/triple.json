@@ -1,0 +1,557 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3501,
+   "rows": [
+    {
+     "surface": "saptāhābhyantare",
+     "gloss": "within-seven-days",
+     "grounds": "locative sense of within seven days",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certain",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "expulsion",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular active present of bhū",
+     "morph": "3.sg.act-pres root bhū"
+    }
+   ],
+   "question": "Within how many days does expulsion certainly occur for him?",
+   "premises": [
+    "expulsion occurs within seven days",
+    "the result is certain",
+    "it concerns him"
+   ],
+   "inference": "The rite brings certain expulsion within seven days.",
+   "uncertainties": [
+    "exact ritual context is not stated in this verse"
+   ],
+   "plain_english": "Within seven days, his expulsion certainly occurs."
+  },
+  {
+   "verse": 3502,
+   "rows": [
+    {
+     "surface": "yannāmnā",
+     "gloss": "by-whose-name",
+     "grounds": "instrumental sense of name",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "is-given",
+     "grounds": "third singular passive present of dā",
+     "morph": "3.sg.pass-pres root dā"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "so'cirānmṛtyumarhati",
+     "gloss": "he-soon-death-deserves",
+     "grounds": "fused sandhi form so + acirāt + mṛtyum + arhati",
+     "morph": "3.sg.act-pres root arh"
+    }
+   ],
+   "question": "What consequence follows for one whose name is used in the rite?",
+   "premises": [
+    "the name is given",
+    "that person soon deserves death",
+    "the result is stated directly"
+   ],
+   "inference": "Using a person's name in this rite brings about his soon death.",
+   "uncertainties": [
+    "the exact ritual act is not specified here"
+   ],
+   "plain_english": "He whose name is given soon deserves death."
+  },
+  {
+   "verse": 3503,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral accusative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parisañjapya",
+     "gloss": "having-recited",
+     "grounds": "absolutive of sañjap",
+     "morph": "absolutive root sañjap"
+    },
+    {
+     "surface": "niśāyāṃ",
+     "gloss": "at-night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ravivāsare",
+     "gloss": "on-sun-day",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When and how many times is the mantra recited?",
+   "premises": [
+    "one thousand recitations are made",
+    "recitation occurs at night",
+    "it occurs on sun day"
+   ],
+   "inference": "The mantra is recited one thousand times at night on Sunday.",
+   "uncertainties": [
+    "the mantra itself is not named here"
+   ],
+   "plain_english": "Having recited one thousand times at night on Sunday."
+  },
+  {
+   "verse": 3504,
+   "rows": [
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śasyahāniḥ",
+     "gloss": "crop-loss",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "occurs",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-pres root as"
+    },
+    {
+     "surface": "javahānisturaṅgame",
+     "gloss": "quick-horse",
+     "grounds": "compound sense of loss to horse",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What losses are said to occur in field and horse?",
+   "premises": [
+    "crop loss occurs in the field",
+    "loss occurs to the horse",
+    "both are stated as results"
+   ],
+   "inference": "The rite causes crop loss in the field and loss to the horse.",
+   "uncertainties": [
+    "the exact causal mechanism is not explained"
+   ],
+   "plain_english": "Crop loss occurs in the field, and loss occurs to the horse."
+  },
+  {
+   "verse": 3505,
+   "rows": [
+    {
+     "surface": "dveṣyadveṣakayor",
+     "gloss": "between-hated-and-hater",
+     "grounds": "genitive dual masculine",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "nāmni",
+     "gloss": "in-names",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tayor",
+     "gloss": "of-them",
+     "grounds": "genitive dual",
+     "morph": "gen.du"
+    },
+    {
+     "surface": "dveṣo+mahān",
+     "gloss": "great-hatred",
+     "grounds": "fused compound sense of great hatred",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular optative of bhū",
+     "morph": "3.sg.opt-pres root bhū"
+    }
+   ],
+   "question": "What arises between hated and hater when names are used?",
+   "premises": [
+    "names are involved",
+    "great hatred arises",
+    "it is between hated and hater"
+   ],
+   "inference": "Using their names produces great hatred between the hated and the hater.",
+   "uncertainties": [
+    "the ritual context is only implied"
+   ],
+   "plain_english": "Great hatred arises between the hated and the hater."
+  },
+  {
+   "verse": 3506,
+   "rows": [
+    {
+     "surface": "puttalīḥ",
+     "gloss": "effigies",
+     "grounds": "accusative plural feminine",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt-pres root kṛ"
+    },
+    {
+     "surface": "sāṅgopāṅgāḥ",
+     "gloss": "with-limbs-and-parts",
+     "grounds": "compound adjective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samāḥ",
+     "gloss": "equal",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many effigies should be made and with what qualities?",
+   "premises": [
+    "five effigies are made",
+    "they have limbs and parts",
+    "they are auspicious and equal"
+   ],
+   "inference": "One makes five equal, auspicious effigies with limbs and parts.",
+   "uncertainties": [
+    "the exact purpose is not stated in this verse"
+   ],
+   "plain_english": "Make five effigies, complete with limbs and parts, auspicious and equal."
+  },
+  {
+   "verse": 3507,
+   "rows": [
+    {
+     "surface": "cakrihastam",
+     "gloss": "wheel-handed",
+     "grounds": "compound adjective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mṛdā",
+     "gloss": "clay",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "another",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "and",
+     "grounds": "third singular optative of as",
+     "morph": "3.sg.opt-pres root as"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "another",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhumayī",
+     "gloss": "honey-made",
+     "grounds": "compound adjective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Of what materials are the effigies to be made?",
+   "premises": [
+    "one is wheel-handed and clay",
+    "another is honey-made",
+    "the construction is thus described"
+   ],
+   "inference": "The effigies are made of clay and honey, one wheel-handed.",
+   "uncertainties": [
+    "the exact number of effigies is not repeated here"
+   ],
+   "plain_english": "One is wheel-handed and made of clay; another is made of honey."
+  },
+  {
+   "verse": 3508,
+   "rows": [
+    {
+     "surface": "prokṣayecca",
+     "gloss": "sprinkle",
+     "grounds": "third singular optative of prokṣ with ca",
+     "morph": "3.sg.opt-pres root prokṣ"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣīradadhyājyamadhubhiḥ",
+     "gloss": "with-milk-curd-ghee-honey",
+     "grounds": "instrumental plural compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "With what substances are effigies sprinkled and in what order?",
+   "premises": [
+    "sprinkling is performed",
+    "milk curd ghee and honey are used",
+    "the order is specified"
+   ],
+   "inference": "The effigies are sprinkled in order with milk, curd, ghee, and honey.",
+   "uncertainties": [
+    "the exact sequence order is not itemized beyond kramāt"
+   ],
+   "plain_english": "Thus sprinkle them in order with milk, curd, ghee, and honey."
+  },
+  {
+   "verse": 3509,
+   "rows": [
+    {
+     "surface": "kurvīta",
+     "gloss": "make",
+     "grounds": "third singular optative of kṛ",
+     "morph": "3.sg.opt-pres root kṛ"
+    },
+    {
+     "surface": "puttalīṃ",
+     "gloss": "effigy",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saumyāṃ",
+     "gloss": "gentle",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvāvayavaśobhitām",
+     "gloss": "all-limbs-beautiful",
+     "grounds": "compound adjective accusative singular feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of effigy is to be made?",
+   "premises": [
+    "an effigy is made",
+    "it is gentle",
+    "all its limbs are beautiful"
+   ],
+   "inference": "The effigy to be made is gentle and beautiful in all limbs.",
+   "uncertainties": [
+    "the material is not stated in this verse"
+   ],
+   "plain_english": "Make a gentle effigy beautiful in all its limbs."
+  },
+  {
+   "verse": 3510,
+   "rows": [
+    {
+     "surface": "raktavastradharāṃ",
+     "gloss": "red-cloth-wearing",
+     "grounds": "compound adjective accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śuddhāṃ",
+     "gloss": "pure",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "puttalīṃ",
+     "gloss": "effigy",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dāruṇā+kṛtām",
+     "gloss": "by-wood-made",
+     "grounds": "fused compound sense of made of wood",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What attributes does the wooden effigy have?",
+   "premises": [
+    "it wears red cloth",
+    "it is pure",
+    "it is made of wood"
+   ],
+   "inference": "The wooden effigy is pure and wears red cloth.",
+   "uncertainties": [
+    "the exact ritual use is not stated here"
+   ],
+   "plain_english": "Make a pure wooden effigy wearing red cloth."
+  },
+  {
+   "verse": 3511,
+   "rows": [
+    {
+     "surface": "mṛṇmayīṃ",
+     "gloss": "clay",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pādadeśe",
+     "gloss": "at-foot-place",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "place",
+     "grounds": "third singular optative of ni-as",
+     "morph": "3.sg.opt-pres root ni-as"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Where is the clay image placed relative to oneself?",
+   "premises": [
+    "a clay image is made",
+    "it is placed at the foot place",
+    "it belongs to oneself"
+   ],
+   "inference": "The clay image is placed at one's own foot place.",
+   "uncertainties": [
+    "the exact ritual purpose is not stated here"
+   ],
+   "plain_english": "Place the clay image at one's own foot place."
+  },
+  {
+   "verse": 3512,
+   "rows": [
+    {
+     "surface": "lavaṇena",
+     "gloss": "with-salt",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kṛtāṃ",
+     "gloss": "made",
+     "grounds": "accusative singular feminine past participle of kṛ",
+     "morph": "f.acc.sg.past-part root kṛ"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃspṛśan",
+     "gloss": "touching",
+     "grounds": "present participle of saṃspṛś",
+     "morph": "pres-part root saṃspṛś"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "third singular optative of jap",
+     "morph": "3.sg.opt-pres root jap"
+    }
+   ],
+   "question": "What is done with the salt-made image while reciting?",
+   "premises": [
+    "the image is made of salt",
+    "afterwards it is touched",
+    "recitation is performed"
+   ],
+   "inference": "After making the salt image, one touches it while reciting.",
+   "uncertainties": [
+    "the mantra being recited is not specified here"
+   ],
+   "plain_english": "Afterwards, touching the salt-made image, one recites."
+  }
+ ]
+}

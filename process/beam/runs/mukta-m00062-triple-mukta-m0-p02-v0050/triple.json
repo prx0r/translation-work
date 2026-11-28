@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "pravartayati",
+     "gloss": "sets-in-motion",
+     "grounds": "finite verb describing Māyā’s active initiation of worldly process",
+     "morph": "3.sg.act-pres pra-√vṛt"
+    },
+    {
+     "surface": "saṃsāram",
+     "gloss": "cycle-of-existence",
+     "grounds": "object of the action, the worldly round set in motion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samayā",
+     "gloss": "by-convention",
+     "grounds": "instrumental indicating the means or regulating principle of the action",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pālanāya",
+     "gloss": "for-protection",
+     "grounds": "dative of purpose indicating the aim of maintaining the world",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking means and purpose",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means and for what purpose does Māyā set the cycle of existence in motion?",
+   "premises": [
+    "Māyā actively sets the cycle of existence in motion.",
+    "This activity proceeds according to established convention.",
+    "This activity also serves the purpose of protection."
+   ],
+   "inference": "Māyā’s initiation of worldly existence is governed by convention and oriented toward protection.",
+   "uncertainties": [
+    "samayā may also be read as 'by compact' or 'by appointed order'; 'by convention' is chosen as contextually fitting."
+   ],
+   "plain_english": "She sets the cycle of existence in motion by convention and for its protection."
+  }
+ ]
+}

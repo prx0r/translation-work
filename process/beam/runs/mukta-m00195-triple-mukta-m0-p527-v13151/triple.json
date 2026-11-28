@@ -1,0 +1,1281 @@
+{
+ "song": "mukta-m0-p527",
+ "items": [
+  {
+   "verse": 13151,
+   "rows": [
+    {
+     "surface": "apūpa",
+     "gloss": "cake",
+     "grounds": "object on which drawing is made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "location of the drawing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃlekhyaṃ",
+     "gloss": "to-be-drawn",
+     "grounds": "action to be performed on the cake",
+     "morph": "n.nom.sg.gerundive + √likh"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "substance used for drawing",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "caturasrakam",
+     "gloss": "four-cornered-figure",
+     "grounds": "shape to be drawn",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual diagram must be drawn on a cake with ghee?",
+   "premises": [
+    "A cake serves as the base.",
+    "Ghee is the drawing medium.",
+    "A four-cornered figure is drawn upon it."
+   ],
+   "inference": "The rite begins by drawing a four-cornered figure with ghee on a cake.",
+   "uncertainties": [],
+   "plain_english": "One should draw a four-cornered figure with ghee upon a cake."
+  },
+  {
+   "verse": 13152,
+   "rows": [
+    {
+     "surface": "amukaṃ",
+     "gloss": "so-and-so",
+     "grounds": "placeholder for the person’s name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mocayet",
+     "gloss": "may-release",
+     "grounds": "desired action expressed in the inscription",
+     "morph": "3.sg.act.optative + √muc (caus.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates the manner of writing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "locations for writing the syllable",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "hrīṃkāram",
+     "gloss": "hrīṃ-syllable",
+     "grounds": "seed-syllable to be inscribed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "should-write",
+     "grounds": "instruction to inscribe",
+     "morph": "3.sg.act.optative + √likh"
+    }
+   ],
+   "question": "What words and syllable must be inscribed in the directions for release?",
+   "premises": [
+    "The formula names the person to be released.",
+    "The command 'may release so-and-so' is written.",
+    "The syllable hrīṃ is written in the directions."
+   ],
+   "inference": "The practitioner inscribes a release formula and the hrīṃ syllable in the directions.",
+   "uncertainties": [],
+   "plain_english": "One should write, 'May it release so-and-so,' and in the directions one should inscribe the syllable hrīṃ."
+  },
+  {
+   "verse": 13153,
+   "rows": [
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "release",
+     "grounds": "object requested in the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative command in the mantra",
+     "morph": "2.sg.act.imperative + √kṛ"
+    },
+    {
+     "surface": "yugaṃ",
+     "gloss": "yugaṃ",
+     "grounds": "mantra syllable or word in the formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual closing exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhṛtivarṇaḥ",
+     "gloss": "dhṛti-colored",
+     "grounds": "describes the mantra’s syllabic measure or form",
+     "morph": "m.nom.sg (compound: dhṛti+varṇa)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the formula being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditional designation of the mantra",
+     "morph": "m.nom.sg.past-participle + √smṛ"
+    }
+   ],
+   "question": "What mantra formula is traditionally prescribed for effecting release?",
+   "premises": [
+    "The mantra contains the words for release and the closing svāhā.",
+    "The mantra is described as dhṛti-colored.",
+    "Tradition remembers this as the mantra."
+   ],
+   "inference": "The remembered release mantra is 'mokṣaṃ kuru yugaṃ svāhā' and is characterized as dhṛti-colored.",
+   "uncertainties": [
+    "The exact meaning of 'yugaṃ' and 'dhṛtivarṇaḥ' in this mantra context is unclear."
+   ],
+   "plain_english": "The mantra is remembered as: 'mokṣaṃ kuru yugaṃ svāhā,' and it is described as dhṛti-colored."
+  },
+  {
+   "verse": 13154,
+   "rows": [
+    {
+     "surface": "kārā",
+     "gloss": "prison",
+     "grounds": "first member indicating confinement",
+     "morph": "f.stem (compound-member)"
+    },
+    {
+     "surface": "niketana",
+     "gloss": "dwelling",
+     "grounds": "second member indicating place",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "sthāya",
+     "gloss": "to-one-staying",
+     "grounds": "recipient located in prison",
+     "morph": "m.dat.sg.present-participle + √sthā"
+    },
+    {
+     "surface": "pradadyāt",
+     "gloss": "should-give",
+     "grounds": "instruction to offer the prepared item",
+     "morph": "3.sg.act.optative + √dā (with pra)"
+    },
+    {
+     "surface": "suhṛde",
+     "gloss": "to-friend",
+     "grounds": "beneficiary of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "refers to the prepared cake",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "To whom should the ritually prepared cake be given for liberation?",
+   "premises": [
+    "The recipient is staying in a prison dwelling.",
+    "The prepared cake is to be given.",
+    "The beneficiary is a friend."
+   ],
+   "inference": "The prepared cake should be given to a friend who is confined in prison.",
+   "uncertainties": [],
+   "plain_english": "One should give that cake to a friend who is staying in a prison."
+  },
+  {
+   "verse": 13155,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "that",
+     "grounds": "refers to the given cake",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃbhakṣite",
+     "gloss": "being-eaten",
+     "grounds": "condition of consuming the cake",
+     "morph": "m.loc.sg.past-participle + √bhakṣ (with sam)"
+    },
+    {
+     "surface": "baddhaḥ",
+     "gloss": "bound-one",
+     "grounds": "the imprisoned person",
+     "morph": "m.nom.sg.past-participle + √bandh"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "result of the rite",
+     "morph": "3.sg.pass.present + √muc"
+    },
+    {
+     "surface": "bandhanāt",
+     "gloss": "from-bondage",
+     "grounds": "state from which release occurs",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "drutam",
+     "gloss": "quickly",
+     "grounds": "speed of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows when the bound person eats the prepared cake?",
+   "premises": [
+    "The cake is eaten by the bound person.",
+    "Release from bondage is the stated outcome.",
+    "The release happens quickly."
+   ],
+   "inference": "Eating the prepared cake causes the bound person to be quickly released from bondage.",
+   "uncertainties": [],
+   "plain_english": "When that cake is eaten, the bound person is quickly released from bondage."
+  },
+  {
+   "verse": 13156,
+   "rows": [
+    {
+     "surface": "vaṃ",
+     "gloss": "vaṃ",
+     "grounds": "seed-syllable in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnaye",
+     "gloss": "to-fire",
+     "grounds": "deity addressed in the mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārādiḥ",
+     "gloss": "beginning-with-oṃ",
+     "grounds": "indicates the mantra starts with oṃ",
+     "morph": "m.nom.sg (compound: tāra+ādi)"
+    },
+    {
+     "surface": "saptavarṇavān",
+     "gloss": "having-seven-syllables",
+     "grounds": "specifies the mantra’s length",
+     "morph": "m.nom.sg (compound: sapta+varṇa+vat)"
+    }
+   ],
+   "question": "What is the structure and syllable count of the fire mantra?",
+   "premises": [
+    "The mantra includes vaṃ, obeisance, and address to fire.",
+    "The mantra begins with oṃ.",
+    "The mantra has seven syllables."
+   ],
+   "inference": "The fire mantra begins with oṃ, includes vaṃ and obeisance to fire, and consists of seven syllables.",
+   "uncertainties": [
+    "The exact syllable-by-syllable parsing to reach seven is not fully explicit."
+   ],
+   "plain_english": "The mantra is 'oṃ vaṃ vahnaye namaḥ,' beginning with oṃ and consisting of seven syllables."
+  },
+  {
+   "verse": 13157,
+   "rows": [
+    {
+     "surface": "hṛt",
+     "gloss": "heart",
+     "grounds": "first component of the six-limb structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "second component of the six-limb structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tārakaḥ",
+     "gloss": "tāraka",
+     "grounds": "third component of the six-limb structure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "fourth component of the six-limb structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satārārṇaiḥ",
+     "gloss": "with-those-syllables",
+     "grounds": "means by which the six limbs are formed",
+     "morph": "n.inst.pl (compound: sa+tāra+arṇa)"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limbed",
+     "grounds": "the ritual structure to be formed",
+     "morph": "n.nom.sg (compound: ṣaṣ+aṅga+ka)"
+    }
+   ],
+   "question": "How is the six-limbed ritual structure formed for this mantra?",
+   "premises": [
+    "Heart, power, tāraka, and seed-syllable are named components.",
+    "The formation uses those syllables.",
+    "A six-limbed structure is produced."
+   ],
+   "inference": "The six-limbed structure is formed using the named components together with those syllables.",
+   "uncertainties": [
+    "The precise mapping of all six limbs is not fully specified in this verse."
+   ],
+   "plain_english": "With those syllables, the six-limbed structure is formed: heart, power, tāraka, and the seed-syllable."
+  },
+  {
+   "verse": 13158,
+   "rows": [
+    {
+     "surface": "raktaḥ",
+     "gloss": "red",
+     "grounds": "describes the deity’s color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktāṃśukaḥ",
+     "gloss": "red-garmented",
+     "grounds": "describes the deity’s clothing",
+     "morph": "m.nom.sg (compound: rakta+aṃśuka)"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "first member describing ornaments",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "pravara",
+     "gloss": "excellent",
+     "grounds": "second member describing ornaments",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "ākalpa",
+     "gloss": "ornament",
+     "grounds": "third member describing adornment",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "bhaṣitaḥ",
+     "gloss": "shining",
+     "grounds": "describes the adorned appearance",
+     "morph": "m.nom.sg.past-participle + √bhāṣ/bhas"
+    }
+   ],
+   "question": "What visual form is attributed to the deity in this meditation?",
+   "premises": [
+    "The deity is red in color.",
+    "The deity wears red garments.",
+    "The deity shines with excellent red ornaments."
+   ],
+   "inference": "The deity is visualized as red, red-garmented, and shining with excellent red ornaments.",
+   "uncertainties": [
+    "The compound analysis of 'rakta pravara ākalpa bhaṣitaḥ' is interpretive."
+   ],
+   "plain_english": "He is red, clothed in red, and shining with excellent red ornaments."
+  },
+  {
+   "verse": 13159,
+   "rows": [
+    {
+     "surface": "jayantaḥ",
+     "gloss": "jayanta",
+     "grounds": "name of an attendant deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnikeśaḥ",
+     "gloss": "agnikeśa",
+     "grounds": "name of an attendant deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛttikāputraḥ",
+     "gloss": "son-of-kṛttikās",
+     "grounds": "epithet or name of an attendant deity",
+     "morph": "m.nom.sg (compound: kṛttikā+putra)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which attendant deities are named in this part of the worship?",
+   "premises": [
+    "Jayanta is named.",
+    "Agnikeśa is named.",
+    "The son of the Kṛttikās is named."
+   ],
+   "inference": "The attendant deities named are Jayanta, Agnikeśa, and the son of the Kṛttikās.",
+   "uncertainties": [],
+   "plain_english": "Jayanta, Agnikeśa, and the son of the Kṛttikās are named."
+  },
+  {
+   "verse": 13160,
+   "rows": [
+    {
+     "surface": "citrākṣaḥ",
+     "gloss": "citrākṣa",
+     "grounds": "name of an attendant deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-ground-enclosure",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg (compound: bhū+pura)"
+    },
+    {
+     "surface": "śakrādi",
+     "gloss": "beginning-with-indra",
+     "grounds": "indicates the sequence of worship",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "kapūjā",
+     "gloss": "worship",
+     "grounds": "ritual action performed",
+     "morph": "f.nom.sg (compound: ka+pūjā)"
+    },
+    {
+     "surface": "prakīrttitā",
+     "gloss": "declared",
+     "grounds": "traditional statement of the rite",
+     "morph": "f.nom.sg.past-participle + √kīrt (with pra)"
+    }
+   ],
+   "question": "Where and in what order is the attendant worship declared?",
+   "premises": [
+    "Citrākṣa is included among those worshipped.",
+    "The worship takes place in the ground enclosure.",
+    "The worship is declared to begin with Indra."
+   ],
+   "inference": "Worship in the ground enclosure is declared to proceed beginning with Indra and including Citrākṣa.",
+   "uncertainties": [
+    "The exact parsing of 'śakrādi kapūjā' as a compound sequence is interpretive."
+   ],
+   "plain_english": "Citrākṣa is included, and worship in the ground enclosure, beginning with Indra, is declared."
+  },
+  {
+   "verse": 13161,
+   "rows": [
+    {
+     "surface": "tarppaṇādyaiḥ",
+     "gloss": "with-libations-etc",
+     "grounds": "ritual means of accomplishment",
+     "morph": "n.inst.pl (compound: tarpaṇa+ādi)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the formula being accomplished",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "state achieved through practice",
+     "morph": "m.nom.sg.past-participle + √sidh"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "prosperity",
+     "grounds": "first benefit granted",
+     "morph": "f.stem (compound-member)"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "second benefit granted",
+     "morph": "f.stem (compound-member)"
+    },
+    {
+     "surface": "jaya",
+     "gloss": "victory",
+     "grounds": "third benefit granted",
+     "morph": "m.stem (compound-member)"
+    },
+    {
+     "surface": "putradaḥ",
+     "gloss": "son-giving",
+     "grounds": "fourth benefit granted",
+     "morph": "m.nom.sg (compound: putra+da)"
+    }
+   ],
+   "question": "What benefits result from accomplishing the mantra through libations and related rites?",
+   "premises": [
+    "The mantra is accomplished through libations and related rites.",
+    "Prosperity, protection, and victory are granted.",
+    "The mantra gives sons."
+   ],
+   "inference": "An accomplished mantra grants prosperity, protection, victory, and sons.",
+   "uncertainties": [],
+   "plain_english": "When the mantra is accomplished through libations and other rites, it grants prosperity, protection, victory, and sons."
+  },
+  {
+   "verse": 13162,
+   "rows": [
+    {
+     "surface": "śītalā",
+     "gloss": "śītalā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "renowned",
+     "grounds": "describes the goddess’s fame",
+     "morph": "f.nom.sg.past-participle + √khyā (with vi)"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "her",
+     "grounds": "refers to the goddess Śītalā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be taught",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "susiddhidam",
+     "gloss": "giving-great-accomplishment",
+     "grounds": "describes the mantra’s efficacy",
+     "morph": "m.acc.sg (compound: su+siddhi+da)"
+    }
+   ],
+   "question": "Which renowned goddess has a mantra that grants great accomplishment?",
+   "premises": [
+    "The goddess is renowned as Śītalā.",
+    "Her mantra is introduced.",
+    "The mantra gives great accomplishment."
+   ],
+   "inference": "The renowned goddess Śītalā has a mantra that grants great accomplishment.",
+   "uncertainties": [],
+   "plain_english": "The goddess renowned as Śītalā has a mantra that grants great accomplishment."
+  },
+  {
+   "verse": 13163,
+   "rows": [
+    {
+     "surface": "upamanyuḥ",
+     "gloss": "upamanyu",
+     "grounds": "sage associated with the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "title of Upamanyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bṛhatī",
+     "gloss": "bṛhatī",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śītalā",
+     "gloss": "śītalā",
+     "grounds": "deity of the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surī",
+     "gloss": "deity",
+     "grounds": "identifies Śītalā as the deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What sage, meter, and deity are assigned to the Śītalā mantra?",
+   "premises": [
+    "Upamanyu is the sage.",
+    "Bṛhatī is the meter.",
+    "Śītalā is the deity."
+   ],
+   "inference": "The Śītalā mantra is attributed to sage Upamanyu, uses the bṛhatī meter, and has Śītalā as its deity.",
+   "uncertainties": [],
+   "plain_english": "The sage is Upamanyu, the meter is bṛhatī, and the deity is Śītalā."
+  },
+  {
+   "verse": 13164,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "instruction for visualization",
+     "morph": "3.sg.act.optative + √dhyai"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śītalāṃ",
+     "gloss": "śītalā",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "title of Śītalā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rāsabhasthāṃ",
+     "gloss": "seated-on-donkey",
+     "grounds": "describes her mount",
+     "morph": "f.acc.sg (compound: rāsabha+stha)"
+    },
+    {
+     "surface": "digambarām",
+     "gloss": "sky-clad",
+     "grounds": "describes her attire",
+     "morph": "f.acc.sg (compound: dik+ambara)"
+    }
+   ],
+   "question": "How should the goddess Śītalā be visualized in meditation?",
+   "premises": [
+    "Śītalā is the goddess to be meditated upon.",
+    "She is seated on a donkey.",
+    "She is sky-clad."
+   ],
+   "inference": "One should meditate on goddess Śītalā as seated on a donkey and sky-clad.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the goddess Śītalā, seated on a donkey and sky-clad."
+  },
+  {
+   "verse": 13165,
+   "rows": [
+    {
+     "surface": "taila",
+     "gloss": "oil",
+     "grounds": "first element of the mixture",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etcetera",
+     "grounds": "indicates additional similar substances",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "mala",
+     "gloss": "impurity",
+     "grounds": "substance mixed in",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "saṃyukta",
+     "gloss": "joined-with",
+     "grounds": "describes the combination",
+     "morph": "stem (compound-member)"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "material of the bundle",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "poṭali",
+     "gloss": "bundle",
+     "grounds": "object placed on the head",
+     "morph": "f.stem (compound-member)"
+    },
+    {
+     "surface": "śīrṣikām",
+     "gloss": "on-head",
+     "grounds": "describes placement on the head",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What object is placed on the goddess’s head in this visualization?",
+   "premises": [
+    "Oil and similar impurities are included.",
+    "These are joined in a cloth bundle.",
+    "The bundle is placed on the head."
+   ],
+   "inference": "The goddess is visualized with a cloth bundle containing oil and impurities placed on her head.",
+   "uncertainties": [
+    "The exact referents of 'taila ādi mala' are not fully specified."
+   ],
+   "plain_english": "She has on her head a cloth bundle joined with oil and other impurities."
+  },
+  {
+   "verse": 13166,
+   "rows": [
+    {
+     "surface": "śarāvikāṃ",
+     "gloss": "holding-broom",
+     "grounds": "describes an attribute held by the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "locations in the diagram",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-ground-enclosure",
+     "grounds": "ritual diagram location",
+     "morph": "n.loc.sg (compound: bhū+pura)"
+    },
+    {
+     "surface": "tvaṣṭabhairavān",
+     "gloss": "eight-bhairavas",
+     "grounds": "deities placed in the corners",
+     "morph": "m.acc.pl (compound: tvaṣṭa+bhairava)"
+    }
+   ],
+   "question": "What attribute and surrounding deities complete the Śītalā visualization?",
+   "premises": [
+    "The goddess holds a broom.",
+    "The ground enclosure has corners.",
+    "Eight Bhairavas are placed in the corners."
+   ],
+   "inference": "The goddess holds a broom and eight Bhairavas are placed in the corners of the ground enclosure.",
+   "uncertainties": [
+    "The form 'tvaṣṭabhairavān' is unusual for 'eight Bhairavas' and may reflect a textual variant."
+   ],
+   "plain_english": "She holds a broom, and in the corners of the ground enclosure are the eight Bhairavas."
+  },
+  {
+   "verse": 13167,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior fire offering",
+     "morph": "absolutive + √hu"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "prior performance of rites",
+     "morph": "absolutive + √kṛ"
+    },
+    {
+     "surface": "tarppaṇādi",
+     "gloss": "libation-etc",
+     "grounds": "rites performed by the practitioner",
+     "morph": "n.acc.sg (compound: tarpaṇa+ādi)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing the rites",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "resulting state of the practitioner",
+     "morph": "m.nom.sg.past-participle + √sidh"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "becomes",
+     "grounds": "attainment of accomplishment",
+     "morph": "3.sg.pass.present + √jan (with pra)"
+    }
+   ],
+   "question": "What ritual actions lead the mantra practitioner to accomplishment?",
+   "premises": [
+    "The practitioner performs fire offerings.",
+    "The practitioner performs libations and related rites.",
+    "Accomplishment is the result."
+   ],
+   "inference": "By offering oblations and performing libations and related rites, the practitioner becomes accomplished.",
+   "uncertainties": [],
+   "plain_english": "Having made offerings and performed libations and other rites, the mantra practitioner becomes accomplished."
+  },
+  {
+   "verse": 13168,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "agent of the sweeping action",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sammārjitāḥ",
+     "gloss": "swept",
+     "grounds": "action performed on the pustules",
+     "morph": "m.nom.pl.past-participle + √mṛj (with sam)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphoṭāḥ",
+     "gloss": "pustules",
+     "grounds": "affliction removed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "result of the action",
+     "morph": "3.pl.act.present + √naś"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "immediacy of the result",
+     "morph": "n.abl.sg (compound: tad+kṣaṇa)"
+    }
+   ],
+   "question": "What immediate healing effect follows from the accomplished practitioner’s sweeping?",
+   "premises": [
+    "The accomplished practitioner sweeps the pustules.",
+    "The pustules perish.",
+    "The effect occurs at that very moment."
+   ],
+   "inference": "Pustules swept by the accomplished practitioner perish immediately.",
+   "uncertainties": [],
+   "plain_english": "When he sweeps them, the pustules indeed perish at that very moment."
+  },
+  {
+   "verse": 13169,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "agent of consecration",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhimantritaṃ",
+     "gloss": "consecrated",
+     "grounds": "ritual empowerment of the ashes",
+     "morph": "n.nom.sg.past-participle + √mantr (with abhi)"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ashes",
+     "grounds": "substance used for protection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadgṛhe",
+     "gloss": "in-which-house",
+     "grounds": "location where ashes are present",
+     "morph": "n.loc.sg (compound: yad+gṛha)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers back to that house",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to the goddess or disease",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of presence or effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective effect does consecrated ash have in a household?",
+   "premises": [
+    "Ash is consecrated by the practitioner.",
+    "The consecrated ash is in a house.",
+    "She does not occur there."
+   ],
+   "inference": "In a house where consecrated ash is present, she does not afflict.",
+   "uncertainties": [
+    "The referent of 'sā' (Śītalā or the disease) is implied but not explicit."
+   ],
+   "plain_english": "In whatever house there is ash consecrated by him, she indeed does not appear there."
+  },
+  {
+   "verse": 13170,
+   "rows": [
+    {
+     "surface": "tāraḥ",
+     "gloss": "oṃ",
+     "grounds": "opening syllable of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāsādabījaṃ",
+     "gloss": "prāsāda-seed",
+     "grounds": "seed-syllable component of the mantra",
+     "morph": "n.nom.sg (compound: prāsāda+bīja)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yaṃ",
+     "grounds": "seed-syllable in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vaṃ",
+     "grounds": "seed-syllable in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomavyāpine",
+     "gloss": "to-all-pervading",
+     "grounds": "epithet addressed in the mantra",
+     "morph": "m.dat.sg (compound: vyoma+vyāpin)"
+    },
+    {
+     "surface": "dviṭhaḥ",
+     "gloss": "twice",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhādvayam",
+     "gloss": "svāhā-twice",
+     "grounds": "closing element repeated twice",
+     "morph": "n.nom.sg (compound: svāhā+dvaya)"
+    }
+   ],
+   "question": "What sequence of syllables constitutes the all-pervading mantra formula?",
+   "premises": [
+    "The mantra begins with oṃ and the prāsāda seed.",
+    "It includes yaṃ, vaṃ, and the address to the all-pervading one.",
+    "It ends with svāhā twice."
+   ],
+   "inference": "The mantra is oṃ, the prāsāda seed, yaṃ, vaṃ, addressed to the all-pervading one, followed by svāhā twice.",
+   "uncertainties": [
+    "The exact placement of 'dviṭhaḥ' relative to the addressed term is slightly ambiguous."
+   ],
+   "plain_english": "The mantra is: oṃ, the prāsāda seed, yaṃ, vaṃ, to the all-pervading one, twice, and svāhā twice."
+  },
+  {
+   "verse": 13171,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "quantity to be offered",
+     "morph": "m.acc.sg (compound: daśa+aṃśa)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "instruction for fire offering",
+     "morph": "3.sg.act.optative + √hu"
+    },
+    {
+     "surface": "ājyaiḥ",
+     "gloss": "with-clarified-butter",
+     "grounds": "substance used in offering",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "tarppaṇādi",
+     "gloss": "libation-etc",
+     "grounds": "additional rites to perform",
+     "morph": "n.acc.sg (compound: tarpaṇa+ādi)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence after offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "instruction to carry out rites",
+     "morph": "3.sg.act.optative + √car"
+    }
+   ],
+   "question": "What offerings and subsequent rites must be performed with this mantra?",
+   "premises": [
+    "A tenth part is to be offered.",
+    "The offering is made with clarified butter.",
+    "Libations and related rites are performed afterward."
+   ],
+   "inference": "One should offer a tenth part with clarified butter and then perform libations and related rites.",
+   "uncertainties": [
+    "The base quantity of which a tenth is offered is not specified here."
+   ],
+   "plain_english": "One should offer a tenth part with clarified butter, and then perform libations and other rites."
+  },
+  {
+   "verse": 13172,
+   "rows": [
+    {
+     "surface": "yathokta",
+     "gloss": "as-stated",
+     "grounds": "refers to previously described qualities",
+     "morph": "stem (compound-member: yathā+ukta)"
+    },
+    {
+     "surface": "guṇatā",
+     "gloss": "quality-state",
+     "grounds": "the efficacy attained",
+     "morph": "f.nom.sg (compound: guṇa+tā)"
+    },
+    {
+     "surface": "eti",
+     "gloss": "attains",
+     "grounds": "result of the rite",
+     "morph": "3.sg.act.present + √i"
+    },
+    {
+     "surface": "nirvīryyam",
+     "gloss": "powerless",
+     "grounds": "condition even if initially lacking potency",
+     "morph": "n.nom.sg (compound: nis+vīrya)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes inclusion of powerless state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "excludes alternative outcomes",
+     "morph": "(indecl.) (compound: na+anyathā)"
+    }
+   ],
+   "question": "What efficacy is attained through the rite even when potency is lacking?",
+   "premises": [
+    "The rite produces the stated quality.",
+    "This occurs even if something is powerless.",
+    "No other outcome is possible."
+   ],
+   "inference": "The rite confers the stated quality even on what is powerless, and not otherwise.",
+   "uncertainties": [
+    "The subject attaining quality is implied rather than explicitly named."
+   ],
+   "plain_english": "It attains the stated quality, even if powerless, and not otherwise."
+  },
+  {
+   "verse": 13173,
+   "rows": [
+    {
+     "surface": "rogibhyaḥ",
+     "gloss": "to-the-sick",
+     "grounds": "recipients of the medicine",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "bheṣajaṃ",
+     "gloss": "medicine",
+     "grounds": "substance given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "act of administering medicine",
+     "morph": "n.nom.sg.past-participle + √dā"
+    },
+    {
+     "surface": "tattat",
+     "gloss": "that-each",
+     "grounds": "refers to each specific medicine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇaguṇaṃ",
+     "gloss": "full-quality",
+     "grounds": "resulting efficacy of the medicine",
+     "morph": "n.nom.sg (compound: pūrṇa+guṇa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "attainment of full efficacy",
+     "morph": "3.sg.act.optative + √bhū"
+    }
+   ],
+   "question": "What happens to medicine given to the sick after this ritual empowerment?",
+   "premises": [
+    "Medicine is given to the sick.",
+    "Each medicine is affected by the rite.",
+    "The medicine becomes full in quality."
+   ],
+   "inference": "Any medicine given to the sick becomes fully efficacious.",
+   "uncertainties": [],
+   "plain_english": "Medicine given to the sick becomes endowed with its full quality."
+  },
+  {
+   "verse": 13174,
+   "rows": [
+    {
+     "surface": "valī",
+     "gloss": "wrinkle",
+     "grounds": "first sign of aging removed",
+     "morph": "f.stem (compound-member)"
+    },
+    {
+     "surface": "palita",
+     "gloss": "grey-hair",
+     "grounds": "second sign of aging removed",
+     "morph": "n.stem (compound-member)"
+    },
+    {
+     "surface": "nirmuktaḥ",
+     "gloss": "freed-from",
+     "grounds": "state of being released from aging signs",
+     "morph": "m.nom.sg.past-participle + √muc (with nis)"
+    },
+    {
+     "surface": "jīvet",
+     "gloss": "lives",
+     "grounds": "resulting longevity",
+     "morph": "3.sg.act.optative + √jīv"
+    },
+    {
+     "surface": "varṣaśataṃ",
+     "gloss": "hundred-years",
+     "grounds": "duration of life",
+     "morph": "n.acc.sg (compound: varṣa+śata)"
+    },
+    {
+     "surface": "yuvā",
+     "gloss": "youthful",
+     "grounds": "condition during long life",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What rejuvenating longevity results from the successful application of this practice?",
+   "premises": [
+    "Wrinkles and grey hair are removed.",
+    "The person lives for a hundred years.",
+    "The person remains youthful."
+   ],
+   "inference": "Freed from wrinkles and grey hair, one lives a hundred years as a youth.",
+   "uncertainties": [],
+   "plain_english": "Freed from wrinkles and grey hair, he lives a hundred years as a youthful person."
+  }
+ ]
+}

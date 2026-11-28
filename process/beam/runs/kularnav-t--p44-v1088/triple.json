@@ -1,0 +1,524 @@
+{
+ "song": "kul-p44",
+ "items": [
+  {
+   "verse": 1088,
+   "rows": [
+    {
+     "surface": "pīṭhopagamane",
+     "gloss": "seat-approach",
+     "grounds": "compound pīṭha+upagamana; locative sense from context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vīrapīṭhe",
+     "gloss": "hero-seat",
+     "grounds": "compound vīra+pīṭha; locative sense",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svajanadarśane",
+     "gloss": "own-people-sight",
+     "grounds": "compound svajana+darśana; locative sense",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "On which occasions is worship to be performed?",
+   "premises": [
+    "seat-approach is a special occasion",
+    "hero-seat is a special occasion",
+    "own-people-sight is a special occasion"
+   ],
+   "inference": "Worship is tied to these named occasions.",
+   "uncertainties": [
+    "compound membership and exact gender are inferred from context"
+   ],
+   "plain_english": "On seat-approach, hero-seat, and own-people-sight occasions."
+  },
+  {
+   "verse": 1089,
+   "rows": [
+    {
+     "surface": "evamādiṣu",
+     "gloss": "and-such",
+     "grounds": "indeclinable-like locative plural sense in context",
+     "morph": "indecl."
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "viśeṣadivaseṣu",
+     "gloss": "special-days",
+     "grounds": "compound viśeṣa+divasa; locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What kinds of special days are included?",
+   "premises": [
+    "and-such widens the list",
+    "special-days are named occasions",
+    "and joins the items"
+   ],
+   "inference": "The occasions include special days and similar cases.",
+   "uncertainties": [
+    "evamādiṣu is treated as an inclusive qualifier"
+   ],
+   "plain_english": "And on such special days, goddess."
+  },
+  {
+   "verse": 1090,
+   "rows": [
+    {
+     "surface": "yathākālaṃ",
+     "gloss": "according-to-time",
+     "grounds": "indeclinable compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathādeśaṃ",
+     "gloss": "according-to-place",
+     "grounds": "indeclinable compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb samācar; optative sense",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should worship be performed on those occasions?",
+   "premises": [
+    "according-to-time governs timing",
+    "according-to-place governs location",
+    "thus links the conditions",
+    "worship is the object",
+    "should-perform gives the action"
+   ],
+   "inference": "Worship should be performed according to time and place.",
+   "uncertainties": [
+    "optative mood is inferred from context"
+   ],
+   "plain_english": "Thus one should perform worship according to time and place."
+  },
+  {
+   "verse": 1091,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "self",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "should-worship",
+     "grounds": "verb pūj; optative sense",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bindupūjāpuraḥsaram",
+     "gloss": "bindu-worship-first",
+     "grounds": "compound bindu+pūjā+puraḥsara",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who may perform worship and with what precedence?",
+   "premises": [
+    "self indicates personal performance",
+    "or offers an alternative",
+    "should-worship is the action",
+    "goddess is addressed",
+    "bindu-worship-first sets precedence"
+   ],
+   "inference": "One may worship oneself, with bindu worship first.",
+   "uncertainties": [
+    "compound membership is inferred"
+   ],
+   "plain_english": "Or one may worship oneself, goddess, with bindu worship first."
+  },
+  {
+   "verse": 1092,
+   "rows": [
+    {
+     "surface": "akurvan",
+     "gloss": "not-doing",
+     "grounds": "participle of kṛ with negative sense",
+     "morph": "pres.part.act"
+    },
+    {
+     "surface": "kauliko",
+     "gloss": "kaulika",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mohād",
+     "gloss": "from-delusion",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "compound devatā+śāpa; accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "verb āp; optative sense",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What happens if the kaulika does not perform worship?",
+   "premises": [
+    "not-doing describes neglect",
+    "kaulika is the subject",
+    "from-delusion gives the cause",
+    "deity-curse is the result",
+    "may-obtain states possibility"
+   ],
+   "inference": "A kaulika who neglects worship through delusion may incur a deity curse.",
+   "uncertainties": [
+    "participle tense is inferred"
+   ],
+   "plain_english": "A kaulika not doing so through delusion may obtain a deity curse."
+  },
+  {
+   "verse": 1093,
+   "rows": [
+    {
+     "surface": "śrīguruṃ",
+     "gloss": "holy-guru",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "should-worship",
+     "grounds": "verb pūj; optative sense",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "aprāpte",
+     "gloss": "if-not-available",
+     "grounds": "locative/conditional sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatstrīsutādikān",
+     "gloss": "his-wife-son-etc",
+     "grounds": "compound tat+strī+suta+ādi",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom should one worship when the guru is unavailable?",
+   "premises": [
+    "holy-guru is primary object",
+    "should-worship is the action",
+    "with-devotion qualifies worship",
+    "if-not-available sets condition",
+    "his-wife-son-etc are substitutes"
+   ],
+   "inference": "Worship the guru with devotion, or his wife, son, and others if unavailable.",
+   "uncertainties": [
+    "aprāpte is read conditionally"
+   ],
+   "plain_english": "One should worship the holy guru with devotion; if unavailable, his wife, son, and others."
+  },
+  {
+   "verse": 1094,
+   "rows": [
+    {
+     "surface": "santoṣayet",
+     "gloss": "should-please",
+     "grounds": "verb santoṣ; optative sense",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kuladravyaiḥ",
+     "gloss": "with-kula-substances",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kulapūjāpuraḥsaram",
+     "gloss": "kula-worship-first",
+     "grounds": "compound kula+pūjā+puraḥsara",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the guru's circle be pleased?",
+   "premises": [
+    "should-please is the action",
+    "with-kula-substances gives means",
+    "kula-worship-first sets order"
+   ],
+   "inference": "One should please them with kula substances, with kula worship first.",
+   "uncertainties": [
+    "compound membership is inferred"
+   ],
+   "plain_english": "One should please them with kula substances, kula worship first."
+  },
+  {
+   "verse": 1095,
+   "rows": [
+    {
+     "surface": "pūjayed",
+     "gloss": "should-worship",
+     "grounds": "verb pūj; optative sense",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yoginīvṛndaṃ",
+     "gloss": "yogini-group",
+     "grounds": "compound yoginī+vṛnda; accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "taddoṣaśāntaye",
+     "gloss": "for-that-fault-appeasement",
+     "grounds": "compound tat+doṣa+śānti; dative sense",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why should the yogini group be worshipped?",
+   "premises": [
+    "should-worship is the action",
+    "yogini-group is the object",
+    "goddess is addressed",
+    "for-that-fault-appeasement gives purpose"
+   ],
+   "inference": "The yogini group should be worshipped for appeasement of that fault.",
+   "uncertainties": [
+    "dative sense is inferred"
+   ],
+   "plain_english": "Goddess, one should worship the yogini group for appeasement of that fault."
+  },
+  {
+   "verse": 1096,
+   "rows": [
+    {
+     "surface": "kaulikāstricatuḥpañca",
+     "gloss": "kaulika-three-four-five",
+     "grounds": "compound kaulika+tri+catuḥ+pañca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "shaktis",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which shaktis are named in this group?",
+   "premises": [
+    "kaulika-three-four-five qualifies the group",
+    "shaktis are the subject",
+    "and joins items",
+    "thus continues the list",
+    "dear addresses the goddess"
+   ],
+   "inference": "The kaulika three, four, and five shaktis are named.",
+   "uncertainties": [
+    "compound membership is inferred"
+   ],
+   "plain_english": "Dear one, thus the kaulika three, four, and five shaktis."
+  },
+  {
+   "verse": 1097,
+   "rows": [
+    {
+     "surface": "bhakṣyabhojyādipiśitaiḥ",
+     "gloss": "with-edible-food-etc-flesh",
+     "grounds": "compound bhakṣya+bhojya+ādi+piśita; instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "padārthaiḥ",
+     "gloss": "substances",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ṣaḍrasānvitaiḥ",
+     "gloss": "with-six-tastes",
+     "grounds": "compound ṣaḍrasa+anvita; instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With what substances should the offering be made?",
+   "premises": [
+    "with-edible-food-etc-flesh gives substances",
+    "substances is the general term",
+    "with-six-tastes qualifies them"
+   ],
+   "inference": "The offering uses substances including edible food and flesh, endowed with six tastes.",
+   "uncertainties": [
+    "compound membership is inferred"
+   ],
+   "plain_english": "With substances such as edible food and flesh, endowed with six tastes."
+  },
+  {
+   "verse": 1098,
+   "rows": [
+    {
+     "surface": "tacchrīcakram",
+     "gloss": "that-shri-chakra",
+     "grounds": "compound tat+śrī+cakra; accusative/nominative sense",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotation marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past participle of prac; neuter",
+     "morph": "n.nom.sg.pass-part"
+    },
+    {
+     "surface": "vṛndañcāpi",
+     "gloss": "group-and-also",
+     "grounds": "compound vṛnda+ca+api",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taducyate",
+     "gloss": "that-called",
+     "grounds": "compound tat+ucyate",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "What is said about the shri chakra and its group?",
+   "premises": [
+    "that-shri-chakra is the topic",
+    "thus marks the statement",
+    "said gives the verb",
+    "group-and-also adds the group",
+    "that-called names it"
+   ],
+   "inference": "That shri chakra is said, and its group is also called that.",
+   "uncertainties": [
+    "sandhi in vṛndañcāpi is preserved as one token"
+   ],
+   "plain_english": "That shri chakra is said; its group also is called that."
+  },
+  {
+   "verse": 1099,
+   "rows": [
+    {
+     "surface": "prātanīm",
+     "gloss": "early",
+     "grounds": "adjective/accusative sense",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mantrayed",
+     "gloss": "should-invite",
+     "grounds": "verb mantr; optative sense",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuddhamānasaḥ",
+     "gloss": "pure-minded",
+     "grounds": "compound śuddha+mānasa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should invite early and with what attitude?",
+   "premises": [
+    "early qualifies the invitation",
+    "should-invite is the action",
+    "with-devotion gives attitude",
+    "practitioner is the subject",
+    "pure-minded qualifies the practitioner"
+   ],
+   "inference": "The pure-minded practitioner should invite early with devotion.",
+   "uncertainties": [
+    "mantrayed is read as invite rather than mantra"
+   ],
+   "plain_english": "The pure-minded practitioner should invite early with devotion."
+  }
+ ]
+}

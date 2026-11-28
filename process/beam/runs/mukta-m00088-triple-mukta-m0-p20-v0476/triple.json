@@ -1,0 +1,1245 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "named mudra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "unmādinī",
+     "gloss": "intoxicating",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnī",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kledinī",
+     "gloss": "wetting",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoṣitām",
+     "gloss": "women",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "Which mudra is called unmādinī and is said to wet all women?",
+   "premises": [
+    "unmādinī is a named mudra",
+    "it is called kledinī",
+    "it affects all women"
+   ],
+   "inference": "The verse identifies a mudra by name and function.",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "This mudra is called unmādinī, the wetting one, for all women."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nkusā",
+     "gloss": "kusā",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnī",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārya",
+     "gloss": "works",
+     "grounds": "object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "artha",
+     "gloss": "purposes",
+     "grounds": "object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhikā",
+     "gloss": "accomplishing",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which great mudra named kusā accomplishes all works and purposes?",
+   "premises": [
+    "iyaṃ names a mudra",
+    "it is mahā kusā",
+    "it accomplishes all works and purposes"
+   ],
+   "inference": "The verse presents a powerful all-purpose mudra.",
+   "uncertainties": [
+    "exact hand gesture not stated"
+   ],
+   "plain_english": "This great mudra, called kusā, accomplishes all works and purposes."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "pariveṣṭana",
+     "gloss": "encircling",
+     "grounds": "path",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mārga",
+     "gloss": "path",
+     "grounds": "route",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ena",
+     "gloss": "by",
+     "grounds": "instrumental",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which fingers are used along the encircling path?",
+   "premises": [
+    "pariveṣṭana mārga is the path",
+    "kaniṣṭhā is used",
+    "anāmikā is used"
+   ],
+   "inference": "The verse gives a finger sequence for the encircling path.",
+   "uncertainties": [
+    "exact motion not stated"
+   ],
+   "plain_english": "Along the encircling path, use the little finger and then the ring finger."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākāra",
+     "gloss": "form",
+     "grounds": "shape",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarūpa",
+     "gloss": "nature",
+     "grounds": "essence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ena",
+     "gloss": "by",
+     "grounds": "instrumental",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+yuj"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "best",
+     "grounds": "grade",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the best practitioner join the yoni-shaped form?",
+   "premises": [
+    "yoni ākāra svarūpa is the form",
+    "yojayet means join",
+    "sādhaka uttamaḥ is the agent"
+   ],
+   "inference": "The verse instructs the best practitioner to join the yoni form.",
+   "uncertainties": [
+    "exact joining method not stated"
+   ],
+   "plain_english": "The best practitioner should join the yoni-shaped form."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "iyantu",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "khecarī",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāmnī",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "mudra",
+     "grounds": "named mudra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uttama",
+     "gloss": "best",
+     "grounds": "grade",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttamā",
+     "gloss": "of-best",
+     "grounds": "superlative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mudra named khecarī is called best of the best?",
+   "premises": [
+    "iyantu names a mudra",
+    "it is khecarī",
+    "it is sarva uttama uttamā"
+   ],
+   "inference": "The verse elevates khecarī mudra above others.",
+   "uncertainties": [
+    "exact gesture not stated"
+   ],
+   "plain_english": "This mudra, called khecarī, is the best of the best."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "gacchaṃ",
+     "gloss": "going",
+     "grounds": "activity",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "tiṣṭhan",
+     "gloss": "standing",
+     "grounds": "activity",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "svapan",
+     "gloss": "sleeping",
+     "grounds": "activity",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhuñjāno",
+     "gloss": "eating",
+     "grounds": "activity",
+     "morph": "pres.part."
+    },
+    {
+     "surface": "maithune",
+     "gloss": "in-copulation",
+     "grounds": "context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rataḥ",
+     "gloss": "delighted",
+     "grounds": "state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which activities is the delighted practitioner said to remain?",
+   "premises": [
+    "gacchaṃ tiṣṭhan svapan are activities",
+    "bhuñjāno maithune rataḥ are activities",
+    "vā api allow alternatives"
+   ],
+   "inference": "The verse lists ordinary and sexual activities as compatible states.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "Whether going, standing, sleeping, eating, or delighted in copulation, the state remains."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "pārthiva",
+     "gloss": "earthly",
+     "grounds": "place",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāna",
+     "gloss": "place",
+     "grounds": "location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyuktāḥ",
+     "gloss": "joined",
+     "grounds": "condition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "time",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khecaratāṃ",
+     "gloss": "khecarī-state",
+     "grounds": "result",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-attain",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+vraj"
+    }
+   ],
+   "question": "What happens when earthly places are joined?",
+   "premises": [
+    "pārthiva sthāna is earthly place",
+    "saṃyuktāḥ means joined",
+    "sadyaḥ khecaratāṃ vrajet means immediately attain khecarī state"
+   ],
+   "inference": "Joining earthly places leads immediately to khecarī state.",
+   "uncertainties": [
+    "exact joining not stated"
+   ],
+   "plain_english": "When joined to earthly places, one immediately attains the khecarī state."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "etayā",
+     "gloss": "by-this",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "jñātayā",
+     "gloss": "known",
+     "grounds": "participle",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "of-yoginis",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+bhū"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes dear through this known practice?",
+   "premises": [
+    "etayā jñātayā means by this known",
+    "yoginīnāṃ means of yoginis",
+    "bhavet priyaḥ means becomes dear"
+   ],
+   "inference": "Knowing this practice makes one dear to yoginis.",
+   "uncertainties": [
+    "exact practice not restated"
+   ],
+   "plain_english": "By this known practice, one becomes dear to the yoginis."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "tarjani",
+     "gloss": "index-finger",
+     "grounds": "finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅguṣṭha",
+     "gloss": "thumb",
+     "grounds": "finger",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yugalaṃ",
+     "gloss": "pair",
+     "grounds": "pair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "time",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "should-do",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+kṛ"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which finger pair should the wise person use simultaneously?",
+   "premises": [
+    "tarjani aṅguṣṭha is the pair",
+    "yugapat means simultaneously",
+    "budhaḥ should do it"
+   ],
+   "inference": "The verse instructs simultaneous use of index finger and thumb.",
+   "uncertainties": [
+    "exact gesture not stated"
+   ],
+   "plain_english": "The wise person should simultaneously use the index finger and thumb pair."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṭile",
+     "gloss": "curved",
+     "grounds": "shape",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yojya",
+     "gloss": "join",
+     "grounds": "gerundive",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "position",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anāmike",
+     "gloss": "ring-finger",
+     "grounds": "finger",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where should the curved element be joined below?",
+   "premises": [
+    "tathaiva means thus",
+    "kuṭile yojya means join curved",
+    "sarva adhastāt anāmike means below ring finger"
+   ],
+   "inference": "The verse directs joining the curved element below the ring finger.",
+   "uncertainties": [
+    "exact curved element not stated"
+   ],
+   "plain_english": "Thus join the curved element below, at the ring finger."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "bījamudrā",
+     "gloss": "seed-mudra",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eyam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākhyātā",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "universal",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishments",
+     "grounds": "result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pravartinī",
+     "gloss": "producing",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mudra is called the producer of all accomplishments?",
+   "premises": [
+    "bījamudrā eyam ākhyātā names it",
+    "sarva siddhi pravartinī describes it"
+   ],
+   "inference": "The verse names bījamudrā as producing all accomplishments.",
+   "uncertainties": [
+    "exact seed not stated"
+   ],
+   "plain_english": "This is called bījamudrā, the producer of all accomplishments."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "position",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gate",
+     "gloss": "placed",
+     "grounds": "participle",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "manner",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaniṣṭhike",
+     "gloss": "little-finger",
+     "grounds": "finger",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which fingers are placed in the middle and likewise?",
+   "premises": [
+    "anāmikā madhya gate means ring finger placed in middle",
+    "tathaiva ca kaniṣṭhike means likewise little finger"
+   ],
+   "inference": "The verse gives a finger placement sequence.",
+   "uncertainties": [
+    "exact gesture not stated"
+   ],
+   "plain_english": "The ring finger is placed in the middle, and likewise the little finger."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "yonimudrā",
+     "gloss": "yoni-mudra",
+     "grounds": "mudra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eyam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ākhyātā",
+     "gloss": "called",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trailokya",
+     "gloss": "three-worlds",
+     "grounds": "scope",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utpatti",
+     "gloss": "origin",
+     "grounds": "result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mother",
+     "grounds": "metaphor",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mudra is called mother of the origin of three worlds?",
+   "premises": [
+    "yonimudrā eyam ākhyātā names it",
+    "trailokya utpatti mātṛkā describes it"
+   ],
+   "inference": "The verse names yonimudrā as mother of three-world origin.",
+   "uncertainties": [
+    "exact gesture not stated"
+   ],
+   "plain_english": "This is called yonimudrā, mother of the origin of the three worlds."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "pañcabāṇaṃ",
+     "gloss": "five-arrows",
+     "grounds": "symbol",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-drawn",
+     "grounds": "participle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sūlabījaṃ",
+     "gloss": "trident-seed",
+     "grounds": "symbol",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "write",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+likh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should be written after drawing the five arrows?",
+   "premises": [
+    "pañcabāṇaṃ samuddhṛtya means having drawn five arrows",
+    "sūlabījaṃ likhet means write trident seed",
+    "tataḥ means then"
+   ],
+   "inference": "The verse gives a writing sequence in ritual construction.",
+   "uncertainties": [
+    "exact diagram not stated"
+   ],
+   "plain_english": "Having drawn the five arrows, then write the trident seed."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "sadāsiva",
+     "gloss": "sadāśiva",
+     "grounds": "deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījantu",
+     "gloss": "seed",
+     "grounds": "mantra seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "mantra division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which seed is remembered as the ninth vāgbhava seed of sadāśiva?",
+   "premises": [
+    "sadāsiva bījantu is the seed",
+    "vāgbhavaṃ navamaṃ smṛtam gives its place"
+   ],
+   "inference": "The verse identifies a mantra seed by deity and ordinal.",
+   "uncertainties": [
+    "exact syllable not stated"
+   ],
+   "plain_english": "The seed of sadāśiva is remembered as the ninth vāgbhava seed."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "offerings",
+     "grounds": "ritual",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ṣoḍasabhiḥ",
+     "gloss": "sixteen",
+     "grounds": "number",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+pūj"
+    },
+    {
+     "surface": "paramesvarīm",
+     "gloss": "supreme-goddess",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How many offerings are used to worship the supreme goddess?",
+   "premises": [
+    "upacāraiḥ ṣoḍasabhiḥ means sixteen offerings",
+    "pūjayet paramesvarīm means worship supreme goddess"
+   ],
+   "inference": "The verse prescribes sixteen offerings for worship.",
+   "uncertainties": [
+    "list of offerings not given here"
+   ],
+   "plain_english": "Worship the supreme goddess with sixteen offerings."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "tritattvaiḥ",
+     "gloss": "three-principles",
+     "grounds": "principles",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vahnijāyā",
+     "gloss": "fire-born",
+     "grounds": "deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "antaistridhā",
+     "gloss": "ends",
+     "grounds": "position",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rghyaṃ",
+     "gloss": "arghya",
+     "grounds": "offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "prepare",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+parikalp"
+    }
+   ],
+   "question": "How is arghya prepared with three principles and fire-born?",
+   "premises": [
+    "tritattvaiḥ means three principles",
+    "vahnijāyā means fire-born",
+    "antaistridhā rghyaṃ parikalpayet means prepare arghya at ends"
+   ],
+   "inference": "The verse gives a method for preparing arghya.",
+   "uncertainties": [
+    "exact three principles not named"
+   ],
+   "plain_english": "Prepare arghya at the ends with three principles and the fire-born."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "bālāmantreṇa",
+     "gloss": "bālā-mantra",
+     "grounds": "mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrajña",
+     "gloss": "mantra-knower",
+     "grounds": "agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upacārān",
+     "gloss": "offerings",
+     "grounds": "object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "present",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+nivid"
+    }
+   ],
+   "question": "Who presents offerings by the bālā mantra?",
+   "premises": [
+    "bālāmantreṇa means by bālā mantra",
+    "mantrajña is the agent",
+    "upacārān nivedayet means present offerings"
+   ],
+   "inference": "The verse assigns offering presentation to the mantra knower.",
+   "uncertainties": [
+    "exact offerings not listed"
+   ],
+   "plain_english": "The mantra knower presents offerings by the bālā mantra."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "madhuparka",
+     "gloss": "honey-mixture",
+     "grounds": "offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ācamana",
+     "gloss": "water",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snāna",
+     "gloss": "bath",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vasana",
+     "gloss": "garment",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ābharaṇāni",
+     "gloss": "ornaments",
+     "grounds": "offering",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which offerings are listed in this sequence?",
+   "premises": [
+    "madhuparka is honey mixture",
+    "ācamana is water",
+    "snāna vasana ābharaṇāni ca are offerings"
+   ],
+   "inference": "The verse lists ritual offerings in sequence.",
+   "uncertainties": [
+    "exact use not stated"
+   ],
+   "plain_english": "The offerings include honey mixture, water, bath, garment, and ornaments."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "prayojayet",
+     "gloss": "use",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+prayuj"
+    },
+    {
+     "surface": "arcanāyām",
+     "gloss": "worship",
+     "grounds": "context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "upacārāṃs",
+     "gloss": "offerings",
+     "grounds": "object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu ṣoḍasa",
+     "gloss": "sixteen",
+     "grounds": "number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many offerings are used in worship?",
+   "premises": [
+    "prayojayet arcanāyām means use in worship",
+    "upacārāṃs tu ṣoḍasa means sixteen offerings"
+   ],
+   "inference": "The verse prescribes sixteen offerings for worship.",
+   "uncertainties": [
+    "list not given here"
+   ],
+   "plain_english": "Use sixteen offerings in worship."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vastraṃ",
+     "gloss": "garment",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūṣāṃ",
+     "gloss": "ornament",
+     "grounds": "offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "scent",
+     "grounds": "offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prasūna",
+     "gloss": "flowers",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhūpakam",
+     "gloss": "incense",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which offerings are named in this worship list?",
+   "premises": [
+    "snānaṃ vastraṃ are offerings",
+    "bhūṣāṃ gandha prasūna dhūpakam are offerings",
+    "tathā links them"
+   ],
+   "inference": "The verse lists bath, garment, ornament, scent, flowers, and incense.",
+   "uncertainties": [
+    "exact sequence not stated"
+   ],
+   "plain_english": "The offerings include bath, garment, ornament, scent, flowers, and incense."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "prayojayet",
+     "gloss": "use",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt.+prayuj"
+    },
+    {
+     "surface": "arcanāyām",
+     "gloss": "worship",
+     "grounds": "context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "upacārāṃs",
+     "gloss": "offerings",
+     "grounds": "object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu ṣoḍasa",
+     "gloss": "sixteen",
+     "grounds": "number",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many offerings are used in worship?",
+   "premises": [
+    "prayojayet arcanāyām means use in worship",
+    "upacārāṃs tu ṣoḍasa means sixteen offerings"
+   ],
+   "inference": "The verse repeats the prescription of sixteen offerings.",
+   "uncertainties": [
+    "list not given here"
+   ],
+   "plain_english": "Use sixteen offerings in worship."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpau",
+     "gloss": "lamp",
+     "grounds": "offering",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daso",
+     "gloss": "ten",
+     "grounds": "number",
+     "morph": "indecl."
+    },
+    {
+     "surface": "upacārakaṃ",
+     "gloss": "offerings",
+     "grounds": "object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which offerings are remembered among the ten?",
+   "premises": [
+    "dhūpa dīpau ca naivedyaṃ are offerings",
+    "daso upacārakaṃ smṛtam means ten offerings remembered"
+   ],
+   "inference": "The verse identifies incense, lamp, and food among ten offerings.",
+   "uncertainties": [
+    "remaining seven not listed"
+   ],
+   "plain_english": "Incense, lamp, and food offering are among the ten remembered offerings."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "uttamā",
+     "gloss": "best",
+     "grounds": "grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "budhairuktā",
+     "gloss": "by-wise",
+     "grounds": "agent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In what order are best, middle, and lowest grades stated?",
+   "premises": [
+    "uttamā madhyamā ca eva are grades",
+    "budhairuktā means by wise",
+    "adhamā kramāt means lowest in order"
+   ],
+   "inference": "The verse states a graded order from best to lowest.",
+   "uncertainties": [
+    "what is graded not stated"
+   ],
+   "plain_english": "The wise state best, middle, and lowest in order."
+  }
+ ]
+}

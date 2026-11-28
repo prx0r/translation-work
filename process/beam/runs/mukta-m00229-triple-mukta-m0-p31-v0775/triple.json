@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "havanaṃ",
+     "gloss": "havana-offering",
+     "grounds": "ritual offering term",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "homāddaśāṃśaṃ",
+     "gloss": "tenth-part-from-homa",
+     "grounds": "sandhi fusion homāt + daśāṃśam; one tenth portion of homa",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "tarpana-libation",
+     "grounds": "ritual libation term",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What portion of the homa is offered as tarpana after havana?",
+   "premises": [
+    "Havana precedes tarpana.",
+    "Tarpana equals tenth part of homa.",
+    "Then ritual continues."
+   ],
+   "inference": "After havana, one tenth of the homa is used for tarpana, then the ritual proceeds.",
+   "uncertainties": [
+    "Exact ritual referent of havana is not specified in this verse."
+   ],
+   "plain_english": "After the havana, one tenth of the homa is offered as tarpana; then the ritual continues."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "kadambavanamadhyasthām",
+     "gloss": "standing-in-middle-of-kadamba-grove",
+     "grounds": "bahuvrīhi/tatpuruṣa compound describing the goddess; accusative object of visualization",
+     "morph": "compound+f.acc.sg"
+    },
+    {
+     "surface": "udyatsūrya",
+     "gloss": "rising-sun",
+     "grounds": "compound qualifying samadyutim; udyat (rising) + sūrya (sun)",
+     "morph": "compound"
+    },
+    {
+     "surface": "samadyutim",
+     "gloss": "equal-in-radiance",
+     "grounds": "bahuvrīhi compound indicating radiance equal to the rising sun; accusative agreeing with the goddess",
+     "morph": "compound+f.acc.sg"
+    }
+   ],
+   "question": "What abode and radiance characterize the goddess in this visualization?",
+   "premises": [
+    "The goddess is situated in the middle of a kadamba grove.",
+    "Her radiance is equal to that of the rising sun.",
+    "These attributes define her visualized form for contemplation."
+   ],
+   "inference": "The goddess is to be contemplated as dwelling in a kadamba grove with splendor like the rising sun.",
+   "uncertainties": [
+    "The exact compound analysis of kadambavanamadhyasthām may be parsed as nested tatpuruṣa within a bahuvrīhi."
+   ],
+   "plain_english": "Visualize the goddess as standing in the middle of a kadamba grove, her radiance equal to that of the rising sun."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "nāka+sthāḥ+ca",
+     "gloss": "heaven-dwellers-and",
+     "grounds": "compound nāka-sthāḥ with enclitic ca; denotes those residing in nāka",
+     "morph": "nāka-stha+m.nom.pl.m+ca(indecl.)"
+    },
+    {
+     "surface": "divam",
+     "gloss": "to-heaven",
+     "grounds": "destination reached by nāka-dwellers",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "expresses movement or attainment of destination",
+     "morph": "3.pl.act-pres+√yā"
+    },
+    {
+     "surface": "svarga+sthāḥ",
+     "gloss": "svarga-dwellers",
+     "grounds": "compound denoting those residing in svarga",
+     "morph": "svarga-stha+m.nom.pl.m"
+    },
+    {
+     "surface": "mokṣam+āpnuyuḥ",
+     "gloss": "liberation-may-obtain",
+     "grounds": "mokṣam as object with optative verb indicating potential attainment",
+     "morph": "mokṣa+m.acc.sg+3.pl.act-opt+√āp"
+    }
+   ],
+   "question": "What distinct posthumous attainments await dwellers of nāka versus dwellers of svarga?",
+   "premises": [
+    "Those dwelling in nāka go to divam.",
+    "Those dwelling in svarga may obtain mokṣa.",
+    "Different celestial abodes correspond to different posthumous outcomes."
+   ],
+   "inference": "Dwellers of nāka and dwellers of svarga are assigned distinct posthumous destinations.",
+   "uncertainties": [
+    "The precise distinction between nāka, divam, and svarga in this context is not fully specified."
+   ],
+   "plain_english": "Those who dwell in nāka go to heaven, while those who dwell in svarga may obtain liberation."
+  }
+ ]
+}

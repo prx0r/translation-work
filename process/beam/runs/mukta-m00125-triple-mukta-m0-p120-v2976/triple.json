@@ -1,0 +1,1106 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 2976,
+   "rows": [
+    {
+     "surface": "dadyādante",
+     "gloss": "should-give-at-end",
+     "grounds": "optative verb with locative/time sense fused in transmission",
+     "morph": "3.sg.optative-active + loc.sg.nt"
+    },
+    {
+     "surface": "svamantreṇa",
+     "gloss": "with-own-mantra",
+     "grounds": "instrumental compound indicating means",
+     "morph": "compound + ins.sg.m"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "object of offering",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantitative alternative",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "quantitative alternative",
+     "morph": "acc.sg.nt"
+    }
+   ],
+   "question": "What quantity of substance should be given at the end with one's own mantra?",
+   "premises": [
+    "A concluding offering is prescribed",
+    "The offering is performed with one's own mantra",
+    "The substance may be equal or double in quantity"
+   ],
+   "inference": "At the end one should give either an equal or a double quantity of substance with one's own mantra.",
+   "uncertainties": [
+    "Whether dadyādante is read as a fused form or two words in other recensions"
+   ],
+   "plain_english": "At the end, one should give a substance equal or double in amount using one's own mantra."
+  },
+  {
+   "verse": 2977,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "in-daily",
+     "grounds": "locative specifying ritual type",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional",
+     "grounds": "locative specifying ritual type",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "in-desired",
+     "grounds": "locative specifying ritual type",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "pādyāditrayalopane",
+     "gloss": "in-omission-of-triad-starting-with-foot-water",
+     "grounds": "compound locative describing ritual omission",
+     "morph": "compound + loc.sg.nt"
+    }
+   ],
+   "question": "In which ritual contexts does omission of the triad beginning with foot-water apply?",
+   "premises": [
+    "Daily rituals are a possible context",
+    "Occasional rituals are a possible context",
+    "Desired rituals are a possible context",
+    "The omission concerns the triad beginning with foot-water"
+   ],
+   "inference": "The omission of the triad beginning with foot-water applies in daily, occasional, and desired rituals.",
+   "uncertainties": [],
+   "plain_english": "This applies in daily, occasional, or desired rites when the triad beginning with foot-water is omitted."
+  },
+  {
+   "verse": 2978,
+   "rows": [
+    {
+     "surface": "yādyādi",
+     "gloss": "whatever-etc",
+     "grounds": "indefinite compound indicating items beginning with something",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantitative specification",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "taddravyaṃ",
+     "gloss": "that-substance",
+     "grounds": "object referring back to omitted item",
+     "morph": "compound + acc.sg.nt"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What compensation is required when items beginning with the stated offering are omitted?",
+   "premises": [
+    "An omission of items beginning with the stated offering occurs",
+    "A compensatory giving is prescribed",
+    "The compensation may be double or only that substance"
+   ],
+   "inference": "One should give that substance in double quantity or give only that substance as compensation.",
+   "uncertainties": [
+    "Exact scope of yādyādi depends on ritual context"
+   ],
+   "plain_english": "One should give that substance in double amount, or alternatively give only that substance."
+  },
+  {
+   "verse": 2979,
+   "rows": [
+    {
+     "surface": "pravartamāne",
+     "gloss": "while-proceeding",
+     "grounds": "present participle indicating ongoing action",
+     "morph": "loc.sg.nt.present-participle-middle"
+    },
+    {
+     "surface": "abhyaṅge",
+     "gloss": "in-anointing",
+     "grounds": "locative of ritual action",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvartana+nirmajjana+ādike",
+     "gloss": "in-scrubbing-bathing-etc",
+     "grounds": "compound locative listing related rites",
+     "morph": "compound + loc.sg.nt"
+    }
+   ],
+   "question": "During which ongoing ritual actions do the stated remedial rules apply?",
+   "premises": [
+    "The anointing may be in progress",
+    "Scrubbing, bathing, and similar acts may be in progress",
+    "The rule concerns actions while they are proceeding"
+   ],
+   "inference": "The remedial rules apply while anointing or scrubbing, bathing, and similar acts are in progress.",
+   "uncertainties": [],
+   "plain_english": "This applies while anointing is in progress, or during scrubbing, bathing, and similar acts."
+  },
+  {
+   "verse": 2980,
+   "rows": [
+    {
+     "surface": "saṃsthite",
+     "gloss": "completed",
+     "grounds": "past participle indicating completion",
+     "morph": "loc.sg.nt.past-participle"
+    },
+    {
+     "surface": "abhyaṅga",
+     "gloss": "anointing",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "taila+ādye",
+     "gloss": "oil-etc",
+     "grounds": "compound locative specifying materials",
+     "morph": "compound + loc.sg.nt"
+    },
+    {
+     "surface": "pūjayā",
+     "gloss": "with-worship",
+     "grounds": "instrumental indicating accompaniment",
+     "morph": "ins.sg.f"
+    },
+    {
+     "surface": "saṃhitā",
+     "gloss": "joined",
+     "grounds": "adjectival qualifier of offering",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hutiḥ",
+     "gloss": "offering",
+     "grounds": "subject of prescribed action",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What offering must accompany worship when anointing with oil and similar substances is completed?",
+   "premises": [
+    "Anointing with oil and similar substances has been completed",
+    "Worship is performed",
+    "A joined offering is prescribed"
+   ],
+   "inference": "When anointing with oil and similar substances is completed, a joined offering must be made with worship.",
+   "uncertainties": [
+    "Exact ritual identity of saṃhitā hutiḥ depends on tradition"
+   ],
+   "plain_english": "When the anointing with oil and the like is completed, a joined oblation should be performed together with worship."
+  },
+  {
+   "verse": 2981,
+   "rows": [
+    {
+     "surface": "vilupte",
+     "gloss": "omitted",
+     "grounds": "past participle indicating omission",
+     "morph": "loc.sg.nt.past-participle"
+    },
+    {
+     "surface": "saṃhitāhomaṃ",
+     "gloss": "joined-fire-offering",
+     "grounds": "compound object of action",
+     "morph": "compound + acc.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "quantitative manner of performance",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What corrective procedure is required if the joined fire-offering is omitted?",
+   "premises": [
+    "The joined fire-offering has been omitted",
+    "A corrective performance is required",
+    "The action must be done in double measure"
+   ],
+   "inference": "If the joined fire-offering is omitted, one should perform the joined fire-offering and then carry out the rite in double measure.",
+   "uncertainties": [],
+   "plain_english": "If it is omitted, one should perform the joined fire-offering and then carry out the rite in double measure."
+  },
+  {
+   "verse": 2982,
+   "rows": [
+    {
+     "surface": "pūrvasaṃkalpite",
+     "gloss": "previously-intended",
+     "grounds": "past participle compound qualifying substance",
+     "morph": "compound + loc.sg.m.past-participle"
+    },
+    {
+     "surface": "gandhe",
+     "gloss": "in-fragrance",
+     "grounds": "locative of omitted item",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "lupte",
+     "gloss": "omitted",
+     "grounds": "past participle indicating omission",
+     "morph": "loc.sg.m.past-participle"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numerical object of recitation",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What immediate remedy is prescribed when previously intended fragrance is omitted?",
+   "premises": [
+    "Fragrance was previously intended for the rite",
+    "That fragrance has been omitted",
+    "An immediate recitation is prescribed"
+   ],
+   "inference": "If previously intended fragrance is omitted, one should immediately recite one hundred times.",
+   "uncertainties": [
+    "The specific mantra to be recited is not stated in this verse"
+   ],
+   "plain_english": "If the previously intended fragrance is omitted, one should immediately recite a hundred times."
+  },
+  {
+   "verse": 2983,
+   "rows": [
+    {
+     "surface": "apuṣkale",
+     "gloss": "not-full",
+     "grounds": "negative compound qualifying flower",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "deficient",
+     "grounds": "past participle indicating lack",
+     "morph": "loc.sg.nt.past-participle"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpe",
+     "gloss": "in-flower",
+     "grounds": "locative of offering item",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "datte",
+     "gloss": "given",
+     "grounds": "past participle indicating offering",
+     "morph": "loc.sg.nt.past-participle"
+    },
+    {
+     "surface": "viparyayāt",
+     "gloss": "in-reverse",
+     "grounds": "ablative indicating contrary manner",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What faulty conditions in offering flowers trigger the need for correction?",
+   "premises": [
+    "A flower may be incomplete",
+    "A flower may be deficient",
+    "A flower may be offered in the wrong manner"
+   ],
+   "inference": "Correction is required when a flower offered is incomplete, deficient, or given in reverse manner.",
+   "uncertainties": [
+    "The specific corrective act is supplied by surrounding verses"
+   ],
+   "plain_english": "This applies when a flower is incomplete, deficient, or offered in the wrong way."
+  },
+  {
+   "verse": 2984,
+   "rows": [
+    {
+     "surface": "dhūpa+cāra+ātrike",
+     "gloss": "in-incense-lamp-night-rite",
+     "grounds": "compound locative naming ritual context",
+     "morph": "compound + loc.sg.nt"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "terrible",
+     "grounds": "name or quality of mantra/formula",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative of time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantitative instruction",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation and doubling are required in the incense, lamp, and night-rite context?",
+   "premises": [
+    "The context involves incense, lamp, and night-rite",
+    "The terrible formula must be recited",
+    "A doubling is required at the end"
+   ],
+   "inference": "In the incense, lamp, and night-rite, one should recite the terrible formula and then perform the act in double measure at the end.",
+   "uncertainties": [
+    "Whether ghoraṃ refers to a specific mantra name"
+   ],
+   "plain_english": "In the incense, lamp, and night-rite, one should recite the terrible formula and then do it in double measure at the end."
+  },
+  {
+   "verse": 2985,
+   "rows": [
+    {
+     "surface": "dīpamālāsthitenā",
+     "gloss": "by-situated-in-lamp-garland",
+     "grounds": "instrumental compound describing agent or cause",
+     "morph": "compound + ins.sg.m"
+    },
+    {
+     "surface": "tha",
+     "gloss": "or",
+     "grounds": "disjunctive particle, variant form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṣikā+ādi+āhṛtena",
+     "gloss": "by-mouse-etc-taken",
+     "grounds": "compound instrumental describing disturbance",
+     "morph": "compound + ins.sg.m.past-participle"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of disturbances to the lamp arrangement are considered in this context?",
+   "premises": [
+    "A disturbance may involve something situated in a lamp garland",
+    "A disturbance may be caused by a mouse or similar creature",
+    "These are alternative causes"
+   ],
+   "inference": "The disturbance may be due to something situated in the lamp garland or to something taken by a mouse or similar creature.",
+   "uncertainties": [
+    "The exact referent of dīpamālāsthitenā is context-dependent"
+   ],
+   "plain_english": "This may be caused by something situated in the lamp garland, or by something taken by a mouse or the like."
+  },
+  {
+   "verse": 2986,
+   "rows": [
+    {
+     "surface": "aṇunā",
+     "gloss": "by-small",
+     "grounds": "instrumental indicating degree",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "mahatā",
+     "gloss": "by-great",
+     "grounds": "instrumental indicating degree",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "emphatic disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājñaḥ",
+     "gloss": "of-king",
+     "grounds": "possessive relation to consequence",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "rogaḥ",
+     "gloss": "disease",
+     "grounds": "predicted consequence",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future tense indicating result",
+     "morph": "3.sg.future-active"
+    }
+   ],
+   "question": "What consequence for the king follows from a small or great disturbance in the rite?",
+   "premises": [
+    "The disturbance may be small",
+    "The disturbance may be great",
+    "A consequence for the king is predicted"
+   ],
+   "inference": "Whether the disturbance is small or great, disease will arise for the king.",
+   "uncertainties": [],
+   "plain_english": "Whether the disturbance is small or great, the king will suffer disease."
+  },
+  {
+   "verse": 2987,
+   "rows": [
+    {
+     "surface": "pañcāmṛta",
+     "gloss": "five-nectars",
+     "grounds": "first member of compound naming ritual mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "past participle indicating combination",
+     "morph": "acc.sg.nt.past-participle"
+    },
+    {
+     "surface": "nālikerodaka+anvitam",
+     "gloss": "coconut-water-included",
+     "grounds": "compound describing added ingredient",
+     "morph": "compound + acc.sg.nt.past-participle"
+    }
+   ],
+   "question": "What mixture is specified by combining the five nectars with coconut water?",
+   "premises": [
+    "The five nectars are used",
+    "They are combined together",
+    "Coconut water is included"
+   ],
+   "inference": "The prescribed mixture consists of the five nectars combined and accompanied by coconut water.",
+   "uncertainties": [],
+   "plain_english": "It should be combined with the five nectars and accompanied by coconut water."
+  },
+  {
+   "verse": 2988,
+   "rows": [
+    {
+     "surface": "aṇumātraḥ",
+     "gloss": "minute",
+     "grounds": "adjectival compound indicating very small size",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavedvahniḥ",
+     "gloss": "would-be-fire",
+     "grounds": "optative verb fused with subject in transmission",
+     "morph": "3.sg.optative-active + nom.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace-rite",
+     "grounds": "object of remedial action",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What remedial action is required if even a minute fire occurs?",
+   "premises": [
+    "A fire may occur",
+    "The fire may be only minute in size",
+    "A peace rite is prescribed as remedy"
+   ],
+   "inference": "If even a minute fire occurs, one should perform a peace rite.",
+   "uncertainties": [],
+   "plain_english": "If there is even a minute fire, one should perform a rite of pacification."
+  },
+  {
+   "verse": 2989,
+   "rows": [
+    {
+     "surface": "nirdagdhāni",
+     "gloss": "burnt",
+     "grounds": "past participle describing affected items",
+     "morph": "nom.pl.nt.past-participle"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "object of action",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "saṃprokṣaṇa+ādikam",
+     "gloss": "sprinkling-etc",
+     "grounds": "compound specifying type of rite",
+     "morph": "compound + acc.sg.nt"
+    }
+   ],
+   "question": "What rite must be performed when items have been burnt?",
+   "premises": [
+    "Items have been burnt",
+    "A remedial rite is required",
+    "The rite includes sprinkling and similar acts"
+   ],
+   "inference": "When items are burnt, one should perform a rite beginning with sprinkling.",
+   "uncertainties": [],
+   "plain_english": "If things have been burnt, one should then perform a rite of sprinkling and the like."
+  },
+  {
+   "verse": 2990,
+   "rows": [
+    {
+     "surface": "dahane",
+     "gloss": "in-burning",
+     "grounds": "locative of event",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "sadmanaḥ",
+     "gloss": "of-house",
+     "grounds": "genitive indicating what is burnt",
+     "morph": "gen.sg.nt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "sadma",
+     "gloss": "house",
+     "grounds": "object of remedial rite",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "saṃprokṣaṇa+ātmakam",
+     "gloss": "sprinkling-natured",
+     "grounds": "compound describing the rite's character",
+     "morph": "compound + acc.sg.nt"
+    }
+   ],
+   "question": "What remedial action is required when the house itself is burnt?",
+   "premises": [
+    "The house has been burnt",
+    "A remedial rite is required",
+    "The rite must be of the nature of sprinkling"
+   ],
+   "inference": "If the house burns, one should perform a sprinkling rite for the house.",
+   "uncertainties": [],
+   "plain_english": "If the house burns, one should perform a rite of sprinkling for the house."
+  },
+  {
+   "verse": 2991,
+   "rows": [
+    {
+     "surface": "taduktāṃ",
+     "gloss": "that-stated",
+     "grounds": "compound referring to previously mentioned expiation",
+     "morph": "compound + acc.sg.f.past-participle"
+    },
+    {
+     "surface": "niṣkṛtiṃ",
+     "gloss": "expiation",
+     "grounds": "object of remedial action",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "sandhāna+ādi",
+     "gloss": "joining-etc",
+     "grounds": "compound indicating accompanying procedures",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied-by",
+     "grounds": "past participle indicating inclusion",
+     "morph": "acc.sg.f.past-participle"
+    }
+   ],
+   "question": "What expiation must be performed together with joining and related procedures?",
+   "premises": [
+    "An expiation has been stated earlier",
+    "That expiation must be performed",
+    "It must be accompanied by joining and similar procedures"
+   ],
+   "inference": "One should perform the stated expiation together with joining and related procedures.",
+   "uncertainties": [
+    "The specific earlier statement of niṣkṛti is not given in this verse"
+   ],
+   "plain_english": "One should perform the expiation stated for that case, together with joining and related procedures."
+  },
+  {
+   "verse": 2992,
+   "rows": [
+    {
+     "surface": "mānuṣaṃ",
+     "gloss": "human-made",
+     "grounds": "adjectival object indicating type",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityājyaṃ",
+     "gloss": "to-be-abandoned",
+     "grounds": "gerundive indicating required rejection",
+     "morph": "acc.sg.nt.gerundive"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive indicating required acceptance",
+     "morph": "acc.sg.nt.gerundive"
+    },
+    {
+     "surface": "svāyaṃbhuvā+ādikam",
+     "gloss": "self-born-etc",
+     "grounds": "compound indicating acceptable alternative types",
+     "morph": "compound + acc.sg.nt"
+    }
+   ],
+   "question": "Which type of object must be abandoned and which type must be accepted instead?",
+   "premises": [
+    "A human-made object may be involved",
+    "Human-made objects are to be abandoned",
+    "Self-born and similar objects are to be accepted"
+   ],
+   "inference": "If it is human-made, it must be abandoned and a self-born or similar object must be taken instead.",
+   "uncertainties": [
+    "The specific object class is implied by context"
+   ],
+   "plain_english": "If it is human-made, it should be abandoned, and a self-born or similar one should be taken."
+  },
+  {
+   "verse": 2993,
+   "rows": [
+    {
+     "surface": "pustakaḥ",
+     "gloss": "book",
+     "grounds": "subject of condition",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "leśena",
+     "gloss": "by-fragment",
+     "grounds": "instrumental indicating slight degree",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "dagdhaḥ",
+     "gloss": "burnt",
+     "grounds": "past participle describing condition",
+     "morph": "nom.sg.m.past-participle"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace-rite",
+     "grounds": "object of remedial action",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What remedy is required if a book is burnt even slightly?",
+   "premises": [
+    "A book may be burnt",
+    "The burning may be only slight",
+    "A peace rite is prescribed"
+   ],
+   "inference": "If a book is burnt even slightly, one should perform a peace rite.",
+   "uncertainties": [],
+   "plain_english": "If a book is burnt even slightly, one should perform a rite of pacification."
+  },
+  {
+   "verse": 2994,
+   "rows": [
+    {
+     "surface": "prāṇyaṅga+dhūpa+ādena",
+     "gloss": "by-living-being-limb-incense-etc",
+     "grounds": "compound instrumental indicating polluting substance",
+     "morph": "compound + ins.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamasya",
+     "gloss": "of-fifth",
+     "grounds": "genitive specifying mantra or formula",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numerical object of recitation",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What recitation is prescribed when incense or similar items are polluted by parts of living beings?",
+   "premises": [
+    "Incense or similar items may be affected by parts of living beings",
+    "A recitation is prescribed as remedy",
+    "The recitation consists of one hundred repetitions of the fifth"
+   ],
+   "inference": "If incense or similar items are polluted by parts of living beings, one should recite the fifth one hundred times.",
+   "uncertainties": [
+    "The identity of pañcama (fifth mantra/formula) is context-dependent"
+   ],
+   "plain_english": "If incense or the like is polluted by parts of living beings, one should recite the fifth a hundred times."
+  },
+  {
+   "verse": 2995,
+   "rows": [
+    {
+     "surface": "dīpāni",
+     "gloss": "lamps",
+     "grounds": "object to be offered",
+     "morph": "acc.pl.nt"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "quantitative instruction",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devadeva",
+     "gloss": "god-of-gods",
+     "grounds": "vocative-like epithet indicating recipient context",
+     "morph": "compound"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-cause-to-give",
+     "grounds": "causative prescriptive optative",
+     "morph": "3.sg.causative-optative-active"
+    }
+   ],
+   "question": "What quantity of lamps must be offered afterwards to the god of gods?",
+   "premises": [
+    "Lamps are to be offered",
+    "The offering occurs afterwards",
+    "The quantity must be double"
+   ],
+   "inference": "Afterwards one should cause double the number of lamps to be offered to the god of gods.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, one should offer double the number of lamps to the god of gods."
+  },
+  {
+   "verse": 2996,
+   "rows": [
+    {
+     "surface": "haviṣya",
+     "gloss": "oblation",
+     "grounds": "first member indicating type of offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "datte",
+     "gloss": "given",
+     "grounds": "past participle indicating offering",
+     "morph": "loc.sg.nt.past-participle"
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-deity",
+     "grounds": "dative recipient",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "object of ritual action",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action must be performed when an oblation is given to the deity?",
+   "premises": [
+    "An oblation is given to the deity",
+    "A bathing rite is prescribed",
+    "The bathing must be performed"
+   ],
+   "inference": "When an oblation is given to the deity, one must perform a bathing rite.",
+   "uncertainties": [],
+   "plain_english": "When an oblation is given to the deity, one should perform a bathing rite."
+  },
+  {
+   "verse": 2997,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introductory particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṇḍapaṭe",
+     "gloss": "in-curtain",
+     "grounds": "locative of ritual item",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "deficient",
+     "grounds": "past participle indicating lack",
+     "morph": "loc.sg.m.past-participle"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor-mantra",
+     "grounds": "object of recitation",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "dviśataṃ",
+     "gloss": "two-hundred",
+     "grounds": "numerical quantity of recitation",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What recitation is required when the curtain is deficient or missing?",
+   "premises": [
+    "The curtain is deficient",
+    "A recitation is prescribed as remedy",
+    "The armor mantra must be recited two hundred times"
+   ],
+   "inference": "If the curtain is deficient, one should recite the armor mantra two hundred times.",
+   "uncertainties": [
+    "kavacaṃ is treated as the armor mantra name in ritual context"
+   ],
+   "plain_english": "Then, if the curtain is deficient, one should recite the armor mantra two hundred times."
+  },
+  {
+   "verse": 2998,
+   "rows": [
+    {
+     "surface": "kṛmi+kīṭa+nara+ādi+asthi+nakha+roma+ādi",
+     "gloss": "worm-insect-human-etc-bone-nail-hair-etc",
+     "grounds": "long compound listing impure substances",
+     "morph": "compound"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "in-sight",
+     "grounds": "locative indicating occurrence of seeing",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "What impure substances seen in the ritual context require remedial attention?",
+   "premises": [
+    "Worms, insects, humans, and similar sources may be involved",
+    "Bones, nails, hair, and similar substances may be seen",
+    "The sight of such substances is ritually significant"
+   ],
+   "inference": "The sight of substances such as bones, nails, or hair from worms, insects, humans, and similar sources requires remedial attention.",
+   "uncertainties": [
+    "The specific remedy is given in the following verse"
+   ],
+   "plain_english": "This concerns the sight of bones, nails, hair, and the like from worms, insects, humans, and similar sources."
+  },
+  {
+   "verse": 2999,
+   "rows": [
+    {
+     "surface": "śivāya",
+     "gloss": "to-shiva",
+     "grounds": "dative recipient of offering",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "dattadravyeṣu",
+     "gloss": "in-given-substances",
+     "grounds": "compound locative indicating offered items",
+     "morph": "compound + loc.pl.nt.past-participle"
+    },
+    {
+     "surface": "nakha+roma+ādi",
+     "gloss": "nail-hair-etc",
+     "grounds": "compound listing impure substances",
+     "morph": "compound"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "in-sight",
+     "grounds": "locative indicating occurrence of seeing",
+     "morph": "loc.sg.nt"
+    }
+   ],
+   "question": "What ritual problem arises when nails, hair, or similar impurities are seen in substances offered to Shiva?",
+   "premises": [
+    "Substances have been offered to Shiva",
+    "Nails, hair, or similar impurities may be seen in them",
+    "Such sight constitutes a ritual fault"
+   ],
+   "inference": "Seeing nails, hair, or similar impurities in substances offered to Shiva constitutes a ritual fault requiring remedy.",
+   "uncertainties": [
+    "The specific remedial procedure is implied by the preceding context"
+   ],
+   "plain_english": "If nails, hair, or the like are seen in substances offered to Shiva, it is a ritual fault."
+  }
+ ]
+}

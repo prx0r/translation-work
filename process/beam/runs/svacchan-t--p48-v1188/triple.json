@@ -1,0 +1,497 @@
+{
+ "song": "sva-p48",
+ "items": [
+  {
+   "verse": 1188,
+   "rows": [
+    {
+     "surface": "kairaṇādi",
+     "gloss": "kaula-etc",
+     "grounds": "legacy hint kaula-etc; treated as indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhāntaśāstram",
+     "gloss": "siddhanta-scripture",
+     "grounds": "compound siddhānta+śāstra; accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "called",
+     "grounds": "passive present third singular from root vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What scripture is here called kaula and related?",
+   "premises": [
+    "kaula-related scripture is named",
+    "the naming is passive"
+   ],
+   "inference": "the passage identifies a kaula siddhanta scripture",
+   "uncertainties": [
+    "exact scope of kairaṇādi"
+   ],
+   "plain_english": "A kaula-related siddhanta scripture is here called by that name."
+  },
+  {
+   "verse": 1189,
+   "rows": [
+    {
+     "surface": "rājasam",
+     "gloss": "rajasic",
+     "grounds": "adjective accusative singular neuter",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivakṣitam",
+     "gloss": "intended",
+     "grounds": "past participle accusative singular neuter",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "atha",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādapūraṇāya",
+     "gloss": "verse-filling",
+     "grounds": "dative singular neuter",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What is here intended as rajasic and verse-filling?",
+   "premises": [
+    "rajasic quality is intended",
+    "verse-filling serves meter"
+   ],
+   "inference": "the rajasic element is marked as intended for verse completion",
+   "uncertainties": [
+    "exact referent of rājasam"
+   ],
+   "plain_english": "Here the rajasic intended element is used for verse-filling."
+  },
+  {
+   "verse": 1190,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakriyābheda",
+     "gloss": "procedure-difference",
+     "grounds": "compound prakriyā+bheda nominative singular masculine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātram",
+     "gloss": "only",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "present third singular from root as",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What kind of difference is said to be only procedural?",
+   "premises": [
+    "only a procedure difference exists",
+    "no deeper distinction is asserted"
+   ],
+   "inference": "the difference is merely procedural",
+   "uncertainties": [
+    "scope of prakriyābheda"
+   ],
+   "plain_english": "There is only a difference of procedure."
+  },
+  {
+   "verse": 1191,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "however",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśurūpaḥ",
+     "gloss": "beast-form",
+     "grounds": "compound paśu+rūpa nominative singular masculine",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is denied to be beast-form as before?",
+   "premises": [
+    "beast-form is denied",
+    "the denial contrasts with earlier state"
+   ],
+   "inference": "the subject is not in beast-form as before",
+   "uncertainties": [
+    "exact subject"
+   ],
+   "plain_english": "However, it is not in beast-form as before."
+  },
+  {
+   "verse": 1192,
+   "rows": [
+    {
+     "surface": "savyāpāra",
+     "gloss": "with-activity",
+     "grounds": "compound savya+āpāra nominative singular masculine",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present third singular from root bhū",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What becomes active rather than passive?",
+   "premises": [
+    "with-activity is affirmed",
+    "becoming is stated"
+   ],
+   "inference": "the subject becomes active",
+   "uncertainties": [
+    "exact subject"
+   ],
+   "plain_english": "Indeed it becomes active."
+  },
+  {
+   "verse": 1193,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvareccha",
+     "gloss": "īśvara-will",
+     "grounds": "compound īśvara+icchā nominative singular feminine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavatī",
+     "gloss": "goddess",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present third singular from root bhū",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What becomes the goddess everywhere through īśvara-will?",
+   "premises": [
+    "īśvara-will operates everywhere",
+    "the goddess becomes manifest"
+   ],
+   "inference": "the goddess becomes manifest everywhere through īśvara-will",
+   "uncertainties": [
+    "exact theological referent"
+   ],
+   "plain_english": "Everywhere, through īśvara-will, the goddess indeed becomes."
+  },
+  {
+   "verse": 1194,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun nominative singular neuter",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāg",
+     "gloss": "before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirṇītam",
+     "gloss": "determined",
+     "grounds": "past participle nominative singular neuter",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What has already been determined before?",
+   "premises": [
+    "this point was determined",
+    "the determination occurred before"
+   ],
+   "inference": "the matter was already determined earlier",
+   "uncertainties": [
+    "exact antecedent of etad"
+   ],
+   "plain_english": "This too was already determined before."
+  },
+  {
+   "verse": 1195,
+   "rows": [
+    {
+     "surface": "puruṣāhvayam",
+     "gloss": "puruṣa-named",
+     "grounds": "compound puruṣa+āhvaya nominative singular neuter",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is here called puruṣa-named?",
+   "premises": [
+    "a puruṣa-named item is named",
+    "the term is a compound"
+   ],
+   "inference": "the passage names something puruṣa-named",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "It is called puruṣa-named."
+  },
+  {
+   "verse": 1196,
+   "rows": [
+    {
+     "surface": "prapañca",
+     "gloss": "manifold",
+     "grounds": "compound member nominative singular masculine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aneka",
+     "gloss": "many",
+     "grounds": "adjective nominative singular masculine",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvanipāta",
+     "gloss": "prior-placement",
+     "grounds": "compound pūrva+nipāta nominative singular masculine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyatyaya",
+     "gloss": "inversion",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chāndasaḥ",
+     "gloss": "vedic",
+     "grounds": "adjective nominative singular masculine",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What Vedic inversion involves prior placement of manifold many?",
+   "premises": [
+    "manifold and many are placed first",
+    "inversion is Vedic"
+   ],
+   "inference": "the construction is a Vedic inversion with prior placement",
+   "uncertainties": [
+    "exact syntactic scope"
+   ],
+   "plain_english": "The prior placement of manifold many is a Vedic inversion."
+  },
+  {
+   "verse": 1197,
+   "rows": [
+    {
+     "surface": "anātman",
+     "gloss": "non-self",
+     "grounds": "compound an+ātman nominative singular masculine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhiniveśana",
+     "gloss": "attachment",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āya",
+     "gloss": "for",
+     "grounds": "dative singular neuter",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "anurūpa",
+     "gloss": "unsuitable",
+     "grounds": "adjective nominative singular masculine",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "envelops",
+     "grounds": "optative third singular from root veṣṭ",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What envelops attachment to non-self in an unsuitable way?",
+   "premises": [
+    "attachment to non-self is unsuitable",
+    "envelopment is stated"
+   ],
+   "inference": "attachment to non-self envelops in an unsuitable manner",
+   "uncertainties": [
+    "exact subject of veṣṭayet"
+   ],
+   "plain_english": "Attachment to non-self indeed envelops in an unsuitable way."
+  },
+  {
+   "verse": 1198,
+   "rows": [
+    {
+     "surface": "sthūlairbhūtaiḥ",
+     "gloss": "gross-elements",
+     "grounds": "instrumental plural neuter; fused sandhi form retained",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "dṛḍhaṃ",
+     "gloss": "firmly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāḍhaṃ",
+     "gloss": "tightly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive from root kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun nominative singular masculine",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "veṣṭitaḥ",
+     "gloss": "enveloped",
+     "grounds": "past participle nominative singular masculine",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "baddhaḥ",
+     "gloss": "bound",
+     "grounds": "past participle nominative singular masculine",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "How is this one bound after being enveloped by gross elements?",
+   "premises": [
+    "gross elements envelop firmly",
+    "the subject becomes bound"
+   ],
+   "inference": "the subject is bound after firm envelopment by gross elements",
+   "uncertainties": [
+    "exact subject"
+   ],
+   "plain_english": "Having firmly and tightly enveloped with gross elements, this one is enveloped and bound."
+  },
+  {
+   "verse": 1199,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun nominative singular masculine",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayī",
+     "gloss": "object-possessor",
+     "grounds": "nominative singular masculine",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is called object-possessor in this passage?",
+   "premises": [
+    "he is called object-possessor",
+    "the term is nominative"
+   ],
+   "inference": "the subject is designated object-possessor",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "He is called object-possessor."
+  }
+ ]
+}

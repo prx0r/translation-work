@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "samṛddhyai",
+     "gloss": "for-prosperity",
+     "grounds": "dative of purpose indicating the desired attainment of prosperity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative verb prescribing a ritual oblation",
+     "morph": "3.sg.act.opt~√hu"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent who performs the prescribed ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādāridrya",
+     "gloss": "great-poverty",
+     "grounds": "first member of a compound expressing the condition to be pacified",
+     "morph": "mahā-dāridrya.cpd"
+    },
+    {
+     "surface": "śāntaye",
+     "gloss": "for-pacification",
+     "grounds": "dative of purpose completing the compound with the preceding member",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purposes should the mantra-practitioner perform a ritual oblation?",
+   "premises": [
+    "A ritual oblation is prescribed as an action to be performed.",
+    "The mantra-practitioner is the designated agent of this oblation.",
+    "The intended purposes are the attainment of prosperity and the pacification of great poverty."
+   ],
+   "inference": "Therefore, the mantra-practitioner should perform the oblation to secure prosperity and to pacify great poverty.",
+   "uncertainties": [],
+   "plain_english": "For prosperity and for the pacification of great poverty, the mantra-practitioner should perform an oblation."
+  }
+ ]
+}

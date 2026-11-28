@@ -1,0 +1,44 @@
+{
+ "song": "sva-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktau",
+     "gloss": "in-power",
+     "grounds": "śakti locative singular",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "mantra accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "employ",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.opt.act (root yuj)"
+    }
+   ],
+   "question": "Should one employ mantra in power?",
+   "premises": [
+    "The verse forbids employing mantra in power.",
+    "Power is not the proper field for mantra."
+   ],
+   "inference": "Mantra employment in power is prohibited.",
+   "uncertainties": [
+    "The exact referent of śakti remains unspecified."
+   ],
+   "plain_english": "Do not employ the mantra in power."
+  }
+ ]
+}

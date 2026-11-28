@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "dāmodaraguṇajñā",
+     "gloss": "Dāmodara-quality-knower",
+     "grounds": "bahuvrīhi/tatpuruṣa compound describing the goddess as one who knows Dāmodara's qualities",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāmodaravarapradā",
+     "gloss": "Dāmodara-boon-giver",
+     "grounds": "compound describing the goddess as one who grants boons to Dāmodara",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What knowledge and boon-granting role characterize the goddess in relation to Dāmodara?",
+   "premises": [
+    "The goddess is a knower of Dāmodara's qualities.",
+    "The goddess is also a giver of boons to Dāmodara.",
+    "These epithets continue the series describing her intimate connection with Dāmodara."
+   ],
+   "inference": "The goddess is characterized both by her knowledge of Dāmodara's qualities and by her role in granting him boons.",
+   "uncertainties": [
+    "The exact sense of dāmodaravarapradā could be 'giver of boons to Dāmodara' or 'giver of boons chosen by Dāmodara'."
+   ],
+   "plain_english": "She knows Dāmodara's qualities and grants boons to Dāmodara."
+  }
+ ]
+}

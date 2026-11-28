@@ -1,0 +1,581 @@
+{
+ "song": "kul-p43",
+ "items": [
+  {
+   "verse": 1063,
+   "rows": [
+    {
+     "surface": "so'pi",
+     "gloss": "that-too",
+     "grounds": "so plus api",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deśo",
+     "gloss": "place",
+     "grounds": "deśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pūtaḥ",
+     "gloss": "purified",
+     "grounds": "pū",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ punaḥ",
+     "gloss": "what-then",
+     "grounds": "kiṃ plus punaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpurasthitāḥ",
+     "gloss": "those-standing-there",
+     "grounds": "tat plus purasthitāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How does the purified place affect those standing there?",
+   "premises": [
+    "the place becomes purified",
+    "those standing there are affected"
+   ],
+   "inference": "purification extends to those present there",
+   "uncertainties": [
+    "exact scope of purification"
+   ],
+   "plain_english": "That place too becomes purified; how much more those standing there."
+  },
+  {
+   "verse": 1064,
+   "rows": [
+    {
+     "surface": "kiṃ punaḥ",
+     "gloss": "what-then",
+     "grounds": "kiṃ plus punaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahubhirbhuktaistat",
+     "gloss": "with-many-enjoyed",
+     "grounds": "bahubhiḥ plus bhuktaiḥ plus tat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "puṇya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "na plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "counted",
+     "grounds": "gaṇ",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Why is merit not counted after many enjoyments?",
+   "premises": [
+    "many have enjoyed it",
+    "merit is not counted"
+   ],
+   "inference": "shared enjoyment removes merit reckoning",
+   "uncertainties": [
+    "whether tat refers to place or substance"
+   ],
+   "plain_english": "What then of merit enjoyed by many; it is not counted at all."
+  },
+  {
+   "verse": 1065,
+   "rows": [
+    {
+     "surface": "kuladharmarato",
+     "gloss": "devoted-to-kula-dharma",
+     "grounds": "kula plus dharma plus rata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "become",
+     "grounds": "bhū",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "worship",
+     "grounds": "arc",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kulajñāninam",
+     "gloss": "kula-knower",
+     "grounds": "kula plus jñānin",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom should one devoted to kula dharma worship?",
+   "premises": [
+    "one is devoted to kula dharma",
+    "one should worship the kula knower"
+   ],
+   "inference": "devotion leads to worship of the knower",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "One devoted to kula dharma should become and worship the kula knower."
+  },
+  {
+   "verse": 1066,
+   "rows": [
+    {
+     "surface": "tāvad",
+     "gloss": "so-long",
+     "grounds": "tāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇāśramācāraḥ",
+     "gloss": "varna-ashrama-conduct",
+     "grounds": "varṇa plus āśrama plus ācāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karttavyaḥ",
+     "gloss": "to-be-done",
+     "grounds": "kṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmamuktaye",
+     "gloss": "for-liberation-from-action",
+     "grounds": "karma plus muktaye",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "How long should varna ashrama conduct be performed?",
+   "premises": [
+    "varna ashrama conduct is to be done",
+    "it is for liberation from action"
+   ],
+   "inference": "conduct is provisional until liberation",
+   "uncertainties": [
+    "duration implied by tāvad"
+   ],
+   "plain_english": "So long, varna and ashrama conduct is to be done for liberation from action."
+  },
+  {
+   "verse": 1067,
+   "rows": [
+    {
+     "surface": "śive",
+     "gloss": "by-shiva",
+     "grounds": "śiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that",
+     "grounds": "tena plus eva",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "mukti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syādataḥ",
+     "gloss": "would-be",
+     "grounds": "syāt plus ataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "karma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "samācar",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "By whom is liberation attained while action is performed?",
+   "premises": [
+    "liberation is by shiva",
+    "action is performed"
+   ],
+   "inference": "liberation and action are reconciled through shiva",
+   "uncertainties": [
+    "syntactic relation of syādataḥ"
+   ],
+   "plain_english": "Liberation would be by shiva through that; therefore perform action."
+  },
+  {
+   "verse": 1068,
+   "rows": [
+    {
+     "surface": "karmamuktaḥ",
+     "gloss": "action-freed",
+     "grounds": "karma plus mukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhākāṅkṣī",
+     "gloss": "desiring-happiness",
+     "grounds": "sukha plus ākāṅkṣin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmaniṣṭhaḥ",
+     "gloss": "action-devoted",
+     "grounds": "karma plus niṣṭha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happiness",
+     "grounds": "sukha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "vraj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Who goes to happiness among the action-freed and action-devoted?",
+   "premises": [
+    "one freed from action desires happiness",
+    "one devoted to action goes to happiness"
+   ],
+   "inference": "happiness is reached by the action-devoted",
+   "uncertainties": [
+    "whether both clauses describe one person"
+   ],
+   "plain_english": "The action-freed desiring happiness, the action-devoted goes to happiness."
+  },
+  {
+   "verse": 1069,
+   "rows": [
+    {
+     "surface": "tyajet",
+     "gloss": "renounces",
+     "grounds": "tyaj",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "karmaphalaṃ",
+     "gloss": "action-fruit",
+     "grounds": "karma plus phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "ya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tyāgītyabhidhīyate",
+     "gloss": "renouncer",
+     "grounds": "tyāgī plus iti plus abhidhīyate",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who is called a renouncer?",
+   "premises": [
+    "one renounces action fruit",
+    "that one is called renouncer"
+   ],
+   "inference": "renunciation of fruit defines the renouncer",
+   "uncertainties": [
+    "role of vā"
+   ],
+   "plain_english": "Who renounces the fruit of action, that one is called a renouncer."
+  },
+  {
+   "verse": 1070,
+   "rows": [
+    {
+     "surface": "ahambhāvamapāsyaiva",
+     "gloss": "ego-sense",
+     "grounds": "aham plus bhāva plus apāsya plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apāsyaiva",
+     "gloss": "having-removed",
+     "grounds": "apāsya plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "ya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "does",
+     "grounds": "kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-smeared",
+     "grounds": "lip",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who is not smeared after removing ego sense?",
+   "premises": [
+    "ego sense is removed",
+    "one who acts is not smeared"
+   ],
+   "inference": "removing ego prevents being smeared",
+   "uncertainties": [
+    "duplication of apāsyaiva"
+   ],
+   "plain_english": "Having removed ego sense, having removed it, one who acts is not smeared."
+  },
+  {
+   "verse": 1071,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca spṛśanti",
+     "gloss": "touch",
+     "grounds": "ca plus spṛśanti",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "tattvajñaṃ",
+     "gloss": "truth-knower",
+     "grounds": "tattva plus jña",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "jala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "padmadalaṃ",
+     "gloss": "lotus-leaf",
+     "grounds": "padma plus dala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "yathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does not touch the truth knower?",
+   "premises": [
+    "water does not touch",
+    "the truth knower is like a lotus leaf"
+   ],
+   "inference": "the truth knower remains untouched",
+   "uncertainties": [
+    "exact comparison scope"
+   ],
+   "plain_english": "Water does not touch the truth knower, as it does not touch a lotus leaf."
+  },
+  {
+   "verse": 1072,
+   "rows": [
+    {
+     "surface": "prayānti",
+     "gloss": "go",
+     "grounds": "pra plus yā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "na plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyante",
+     "gloss": "are-smeared",
+     "grounds": "lip",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": "kriyamāṇāni",
+     "gloss": "actions",
+     "grounds": "kṛ",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "punaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do performed actions smear one again?",
+   "premises": [
+    "actions go forward",
+    "performed actions are not smeared"
+   ],
+   "inference": "action does not necessarily smear",
+   "uncertainties": [
+    "subject of prayānti"
+   ],
+   "plain_english": "They go; performed actions are not smeared again."
+  },
+  {
+   "verse": 1073,
+   "rows": [
+    {
+     "surface": "saṃtyaktasarvasaṅkalpaḥ",
+     "gloss": "renounced-all-resolves",
+     "grounds": "saṃtyakta plus sarva plus saṅkalpa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "knower",
+     "grounds": "vidvas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "karma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "santyajet",
+     "gloss": "renounces",
+     "grounds": "saṃ plus tyaj",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What does the knower who renounced all resolves renounce?",
+   "premises": [
+    "all resolves are renounced",
+    "the knower renounces action"
+   ],
+   "inference": "renunciation of resolves leads to renouncing action",
+   "uncertainties": [
+    "whether karma is object or topic"
+   ],
+   "plain_english": "The knower who has renounced all resolves renounces action."
+  },
+  {
+   "verse": 1074,
+   "rows": [
+    {
+     "surface": "pāṣaṇḍāḥ",
+     "gloss": "heretics",
+     "grounds": "pāṣaṇḍa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paṇḍitammanyāste",
+     "gloss": "pandit-pretenders",
+     "grounds": "paṇḍita plus manya plus te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "te",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "yā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "naraka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where do heretics who think themselves learned go?",
+   "premises": [
+    "heretics think themselves learned",
+    "they go to hell"
+   ],
+   "inference": "false learning leads to hell",
+   "uncertainties": [
+    "addressee priye"
+   ],
+   "plain_english": "Heretics, those who think themselves learned, go to hell, dear."
+  }
+ ]
+}

@@ -1,0 +1,605 @@
+{
+ "song": "kul-p50",
+ "items": [
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "śivagaurīdhiyā",
+     "gloss": "with-śiva-gaurī-thought",
+     "grounds": "compound instrument",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-imagine",
+     "grounds": "causative optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nāvamānayet",
+     "gloss": "should-not-disrespect",
+     "grounds": "negative optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one approach the cakra with Śiva-Gaurī thought?",
+   "premises": [
+    "Śiva-Gaurī thought accompanies entry",
+    "The goddess is addressed directly",
+    "Imagination and respect are required"
+   ],
+   "inference": "One should imagine with Śiva-Gaurī thought and not disrespect the goddess.",
+   "uncertainties": [],
+   "plain_english": "With Śiva-Gaurī thought, O goddess, one should imagine and not disrespect."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "yācet",
+     "gloss": "should-beg",
+     "grounds": "optative request",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhāve",
+     "gloss": "in-absence-of-that",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative permission",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should one request and consume when nectar and food are unavailable?",
+   "premises": [
+    "One should beg nectar and food",
+    "In their absence water is allowed",
+    "Drinking follows the request"
+   ],
+   "inference": "One should beg nectar and food, and drink water if they are absent.",
+   "uncertainties": [],
+   "plain_english": "One should beg nectar and food; in their absence, one should drink water."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-saluted",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-receive",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "accusative destination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative consequence",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What happens if one receives without saluting?",
+   "premises": [
+    "Saluting precedes receiving",
+    "Otherwise one goes to hell",
+    "The rule is conditional"
+   ],
+   "inference": "One should salute before receiving, otherwise one would go to hell.",
+   "uncertainties": [],
+   "plain_english": "Having saluted, one should receive; otherwise one would go to hell."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "seveta",
+     "gloss": "would-serve",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuladravyaṃ",
+     "gloss": "clan-substance",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dāridryaṃ",
+     "gloss": "poverty",
+     "grounds": "accusative result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samavāpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "optative consequence",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What consequence follows from serving clan substance improperly?",
+   "premises": [
+    "Serving clan substance is restricted",
+    "Improper service brings poverty",
+    "The consequence is stated directly"
+   ],
+   "inference": "Whoever serves clan substance improperly would obtain poverty.",
+   "uncertainties": [],
+   "plain_english": "Whoever serves clan substance would obtain poverty."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "vyagraḥ",
+     "gloss": "agitated",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ruṣṭaḥ",
+     "gloss": "angry",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivādī",
+     "gloss": "disputatious",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "seveta",
+     "gloss": "should-serve",
+     "grounds": "optative prohibition",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kulāmṛtam",
+     "gloss": "clan-nectar",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who should not serve clan nectar?",
+   "premises": [
+    "Agitated persons are excluded",
+    "Angry persons are excluded",
+    "Disputatious persons are excluded"
+   ],
+   "inference": "An agitated, angry, or disputatious person should not serve clan nectar.",
+   "uncertainties": [],
+   "plain_english": "An agitated, angry, or disputatious person should not serve clan nectar."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "ūrdhva",
+     "gloss": "upward",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālena",
+     "gloss": "with-reed",
+     "grounds": "instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pānāt",
+     "gloss": "by-drinking",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "curse-of-deity",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "optative consequence",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What curse follows from drinking through a reed?",
+   "premises": [
+    "Drinking upward through a reed is prohibited",
+    "The act brings a deity's curse",
+    "The consequence is stated directly"
+   ],
+   "inference": "Drinking upward through a reed would bring the curse of a deity.",
+   "uncertainties": [],
+   "plain_english": "By drinking upward through a reed, one would obtain a deity's curse."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "ekapātre",
+     "gloss": "in-one-vessel",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "present indicative",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "accusative destination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What happens when several drink one substance from one vessel?",
+   "premises": [
+    "Drinking from one vessel is addressed",
+    "Those who do so go to hell",
+    "The dear one is addressed"
+   ],
+   "inference": "Those who drink substance from one vessel go to hell, dear one.",
+   "uncertainties": [],
+   "plain_english": "They who drink substance from one vessel go to hell, dear one."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "vinānujñāṃ",
+     "gloss": "without-permission",
+     "grounds": "accusative adverbial",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "akṣayaṃ",
+     "gloss": "imperishable",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-hell",
+     "grounds": "accusative destination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative consequence",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What follows from acting without permission?",
+   "premises": [
+    "Permission is required",
+    "Without it one goes to hell",
+    "The hell is imperishable"
+   ],
+   "inference": "Without permission, he would go to imperishable hell, O great lady.",
+   "uncertainties": [],
+   "plain_english": "Without permission, O great lady, he would go to imperishable hell."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "bahiḥprakṣālya",
+     "gloss": "having-washed-outside",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karau",
+     "gloss": "hands",
+     "grounds": "accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kuladravyāṇi",
+     "gloss": "clan-substances",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-give",
+     "grounds": "causative optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should clan substances be given after washing?",
+   "premises": [
+    "Washing outside precedes giving",
+    "Hands are washed",
+    "Clan substances are then given"
+   ],
+   "inference": "Having washed outside, one should give clan substances with washed hands.",
+   "uncertainties": [],
+   "plain_english": "Having washed outside, one should give clan substances with washed hands."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "bhogapātraṃ",
+     "gloss": "enjoyment-vessel",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "surākuṇḍe",
+     "gloss": "in-wine-pot",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should an enjoyment vessel be thrown into a wine pot?",
+   "premises": [
+    "Enjoyment vessel is mentioned",
+    "Wine pot is mentioned",
+    "Throwing is prohibited ever"
+   ],
+   "inference": "One should never throw an enjoyment vessel into a wine pot.",
+   "uncertainties": [],
+   "plain_english": "One should never throw an enjoyment vessel into a wine pot."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present indicative",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūḍhātmā",
+     "gloss": "foolish-soul",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "āpadāmpadam",
+     "gloss": "refuge-of-calamities",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What becomes of the foolish soul who does this?",
+   "premises": [
+    "A foolish soul acts",
+    "The act has consequence",
+    "He becomes refuge of calamities"
+   ],
+   "inference": "The foolish soul who does this would become a refuge of calamities.",
+   "uncertainties": [],
+   "plain_english": "The foolish soul who does this would become a refuge of calamities."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "śrīcakramadhye",
+     "gloss": "in-middle-of-śrīcakra",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "would-do",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yoginīpaśuḥ",
+     "gloss": "yoginī-beast",
+     "grounds": "nominative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes of one who acts in the middle of the śrīcakra?",
+   "premises": [
+    "Action occurs in śrīcakra middle",
+    "The actor is specified",
+    "He becomes yoginī-beast"
+   ],
+   "inference": "Whoever acts in the middle of the śrīcakra would become a yoginī-beast.",
+   "uncertainties": [],
+   "plain_english": "Whoever acts in the middle of the śrīcakra would become a yoginī-beast."
+  }
+ ]
+}

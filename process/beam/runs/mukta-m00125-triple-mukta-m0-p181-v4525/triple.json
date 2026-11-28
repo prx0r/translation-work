@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human-measure",
+     "grounds": "locative indicating the human standard or context; legacy hint: human",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "paṭṭikāntaṃ",
+     "gloss": "up-to-slab",
+     "grounds": "compound denoting limit ending at the paṭṭikā (slab); legacy hint: slab-end",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛtyantaṃ",
+     "gloss": "up-to-circumference",
+     "grounds": "compound denoting limit ending at the vṛti (circumference/band); legacy hint: circumference-end",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "jalanisravam",
+     "gloss": "water-drain",
+     "grounds": "compound denoting an outlet for water; legacy hint: water-drain",
+     "morph": "compound.acc.sg.m"
+    }
+   ],
+   "question": "What architectural limits define the water-drain in the human measure?",
+   "premises": [
+    "The specification applies in the human measure.",
+    "The extent reaches up to the slab.",
+    "The extent reaches up to the circumference and includes a water-drain."
+   ],
+   "inference": "In the human measure, the construction extends up to the slab and up to the circumference with a water-drain.",
+   "uncertainties": [
+    "The precise syntactic relation of jalanisravam to the preceding limit terms is inferred from context."
+   ],
+   "plain_english": "In the human measure, it extends up to the slab and up to the circumference, with a water-drain."
+  }
+ ]
+}

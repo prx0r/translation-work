@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "nṛgolocanakau",
+     "gloss": "human-cow-two-eyes",
+     "grounds": "compound of nṛ (human), go (cow), and locana (eye) in dual, object taken",
+     "morph": "compound(nṛ+go+locana).n.acc.du"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating prior action of taking",
+     "morph": "gerund, √grah"
+    },
+    {
+     "surface": "salākṣāśatamantritam",
+     "gloss": "with-lac-hundred-times-consecrated",
+     "grounds": "compound describing the eyes as consecrated a hundred times together with lac",
+     "morph": "compound(sa+lākṣā+śata+mantrita).n.acc.du, ppp, √mantr"
+    }
+   ],
+   "question": "What specific substances must be taken and consecrated for the cremation-ground ritual?",
+   "premises": [
+    "The ritual requires taking a pair of eyes from a human and a cow.",
+    "The taken substances must be consecrated with mantras.",
+    "The consecration involves lac and is performed a hundred times."
+   ],
+   "inference": "The cremation-ground rite mandates obtaining human and cow eyes and consecrating them a hundred times with lac and mantras.",
+   "uncertainties": [
+    "The exact ritual function of combining human and cow eyes is not specified in this verse."
+   ],
+   "plain_english": "Having taken the eyes of a human and a cow, consecrated a hundred times with lac and mantras."
+  }
+ ]
+}

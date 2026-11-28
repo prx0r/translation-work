@@ -1,0 +1,160 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p46",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1127 ratio=0.400",
+  "ALIGN_NODISP v1135 ratio=0.378",
+  "ALIGN_NODISP v1137 ratio=0.800",
+  "ALIGN_NODISP v1138 ratio=0.769",
+  "ALIGN_NODISP v1139 ratio=0.777",
+  "ALIGN_NODISP v1140 ratio=0.843",
+  "ALIGN_NODISP v1141 ratio=0.400",
+  "ALIGN_NODISP v1143 ratio=0.667",
+  "ALIGN_NODISP v1144 ratio=0.667",
+  "ALIGN_NODISP v1145 ratio=0.651",
+  "ALIGN_NODISP v1146 ratio=0.652",
+  "ALIGN_NODISP v1147 ratio=0.667",
+  "ALIGN_NODISP v1149 ratio=0.400",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "96ca8713488f4ac2",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 108
+ },
+ "align": {
+  "min_ratio": 0.378,
+  "sub090": {
+   "1127": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "1135": {
+    "ratio": 0.378,
+    "disposition": null
+   },
+   "1137": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "1138": {
+    "ratio": 0.769,
+    "disposition": null
+   },
+   "1139": {
+    "ratio": 0.777,
+    "disposition": null
+   },
+   "1140": {
+    "ratio": 0.843,
+    "disposition": null
+   },
+   "1141": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "1143": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1144": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1145": {
+    "ratio": 0.651,
+    "disposition": null
+   },
+   "1146": {
+    "ratio": 0.652,
+    "disposition": null
+   },
+   "1147": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "1149": {
+    "ratio": 0.4,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 42,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "nānārūpā api evamuttaratrāpi",
+   "pañca brahmāṇi sadyojātādīni aṅgāni hṛdayādīni",
+   "utsaṅgagateti ākṛtimattve ātmaśivasya"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p46-v1133]: cite part not byte-exact in source: nānārūpā api evamuttaratrāpi",
+   "l2[sva-p46-v1136]: cite part not byte-exact in source: pañca brahmāṇi sadyojātādīni aṅgāni hṛdayādīni",
+   "l2[sva-p46-v1140]: cite part not byte-exact in source: utsaṅgagateti ākṛtimattve ātmaśivasya"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 108,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1127",
+  "fix: word-order/gloss vs source for v1135",
+  "fix: word-order/gloss vs source for v1137",
+  "fix: word-order/gloss vs source for v1138",
+  "fix: word-order/gloss vs source for v1139",
+  "fix: word-order/gloss vs source for v1140",
+  "fix: word-order/gloss vs source for v1141",
+  "fix: word-order/gloss vs source for v1143",
+  "fix: word-order/gloss vs source for v1144",
+  "fix: word-order/gloss vs source for v1145",
+  "fix: word-order/gloss vs source for v1146",
+  "fix: word-order/gloss vs source for v1147",
+  "fix: word-order/gloss vs source for v1149"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "ea644c4d675778869a6d847930576001ac9470b2340426bd4a2fa827323a6067",
+  "l0": "dc57d1544d3fb53d322e134a02816bb485655501dedf558a876bb65ccdcbcbcd",
+  "argmap": "4b5f25db82c2a5ca8414c65a909f32bbf9ec54a782ed37a23d60addeb8ff1d6f",
+  "l2": "0eb44842319f71e3e48a2a33139e091cbb0928fcfefb264b920381c56bb361a4",
+  "c1": "4fc99584c14d74f24820cdaf48a9fd8e6d12257af36c6a3da8942d1a4e3e912e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "96ca8713488f4ac2",
+  "t1": "sva-p46/data/sva-p46.t1.json",
+  "l0": "sva-p46/data/sva-p46.l0.json",
+  "l2": "sva-p46/data/sva-p46.l2.json",
+  "c1": "sva-p46/data/sva-p46.c1.json"
+ }
+}

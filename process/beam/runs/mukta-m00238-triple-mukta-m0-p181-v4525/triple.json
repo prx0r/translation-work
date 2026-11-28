@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "ekonāśītisahitaśatasaṃkhyākamaṃdire",
+     "gloss": "seventy-nine-plus-hundred-counted-temple",
+     "grounds": "fused sandhi compound ending in locative maṃdire; denotes a temple whose count is one hundred seventy-nine",
+     "morph": "loc.sg.m (compound: ekonāśīti+sahita+śata+saṃkhyāka+maṃdira)"
+    }
+   ],
+   "question": "Which temple count is designated by the compound ekonāśītisahitaśatasaṃkhyākamaṃdire?",
+   "premises": [
+    "ekonāśīti means seventy-nine",
+    "sahitaśata adds one hundred",
+    "maṃdire locates the temple"
+   ],
+   "inference": "The compound designates a temple counted as one hundred seventy-nine.",
+   "uncertainties": [
+    "exact sandhi boundaries and compound members inferred from surface",
+    "doctrinal significance beyond enumeration not stated"
+   ],
+   "plain_english": "in the temple numbered one hundred seventy-nine"
+  }
+ ]
+}

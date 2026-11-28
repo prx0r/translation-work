@@ -1,0 +1,1129 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "nāradīyaṃ",
+     "gloss": "nāradīya",
+     "grounds": "legacy hint nāradīya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṇḍavyaṃ",
+     "gloss": "māṇḍavya",
+     "grounds": "legacy hint māṇḍavya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śāṇḍilyaṃ",
+     "gloss": "śāṇḍilya",
+     "grounds": "legacy hint śāṇḍilya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "raiṇukaṃ",
+     "gloss": "raiṇuka",
+     "grounds": "legacy hint raiṇuka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which named mantra traditions are listed among the variants in this enumeration?",
+   "premises": [
+    "nāradīya is named",
+    "māṇḍavya is named",
+    "śāṇḍilya is named",
+    "raiṇuka is named"
+   ],
+   "inference": "The verse enumerates several named mantra traditions as variants.",
+   "uncertainties": [
+    "exact grammatical case of the listed names"
+   ],
+   "plain_english": "Nāradīya, Māṇḍavya, Śāṇḍilya, and Raiṇuka, likewise."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "svāyambhuvaṃ",
+     "gloss": "svāyambhuva",
+     "grounds": "legacy hint svāyambhuva",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kāpilaṃ",
+     "gloss": "kāpila",
+     "grounds": "legacy hint kāpila",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tārkṣyaṃ",
+     "gloss": "tārkṣya",
+     "grounds": "legacy hint tārkṣya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nārāyaṇātmakam",
+     "gloss": "nārāyaṇa-ātmaka",
+     "grounds": "compound nārāyaṇa+ātmaka",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "Which additional mantra traditions are named as variants in this enumeration?",
+   "premises": [
+    "svāyambhuva is named",
+    "kāpila is named",
+    "tārkṣya is named",
+    "nārāyaṇa-ātmaka is named"
+   ],
+   "inference": "The verse adds further named mantra traditions to the list.",
+   "uncertainties": [
+    "whether nārāyaṇātmakam names a tradition or describes one"
+   ],
+   "plain_english": "Svāyambhuva, Kāpila, and Tārkṣya, Nārāyaṇa-ātmaka."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭārṇam",
+     "gloss": "eight-syllabled",
+     "grounds": "compound aṣṭa+arṇa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktas",
+     "gloss": "said",
+     "grounds": "legacy hint ukta",
+     "morph": "ppp.nom.sg.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "legacy hint tasya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "vistaraḥ",
+     "gloss": "extent",
+     "grounds": "legacy hint vistara",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How is the extent of the eight-syllabled mantra tradition described?",
+   "premises": [
+    "aṣṭārṇam means eight-syllabled",
+    "uktas means said",
+    "vistaraḥ means extent"
+   ],
+   "inference": "The verse states that the extent of the eight-syllabled tradition has been said.",
+   "uncertainties": [
+    "antecedent of tasya"
+   ],
+   "plain_english": "Likewise the eight-syllabled, thus said, is its extent."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "budho",
+     "gloss": "wise-one",
+     "grounds": "legacy hint budha",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "legacy hint mantra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sadguroḥ",
+     "gloss": "good-teacher's",
+     "grounds": "compound sad+guru",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "upadeśayet",
+     "gloss": "should-teach",
+     "grounds": "legacy hint upadeśayet",
+     "morph": "verb 3.sg.act.opt"
+    }
+   ],
+   "question": "Who should teach the mantra according to this instruction?",
+   "premises": [
+    "budho means wise one",
+    "mantraṃ is the object",
+    "sadguroḥ means good teacher's",
+    "upadeśayet means should teach"
+   ],
+   "inference": "A wise person should teach the mantra from a good teacher.",
+   "uncertainties": [
+    "exact force of the optative"
+   ],
+   "plain_english": "The wise one should teach the mantra of the good teacher."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "kaṭapottheyavargotthaiḥ",
+     "gloss": "kaṭa-pottheya-varga-utthaiḥ",
+     "grounds": "compound kaṭa+pottheya+varga+utthaiḥ",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "piṇḍāntaiḥ",
+     "gloss": "piṇḍa-ending",
+     "grounds": "compound piṇḍa+antaiḥ",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "aṅkamakṣaraiḥ",
+     "gloss": "numeral-letters",
+     "grounds": "compound aṅka+akṣaraiḥ",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "What kinds of letters or syllables are specified for this mantra construction?",
+   "premises": [
+    "kaṭapottheyavargotthaiḥ names grouped letters",
+    "piṇḍāntaiḥ names piṇḍa-ending forms",
+    "aṅkamakṣaraiḥ names numeral letters"
+   ],
+   "inference": "The construction uses grouped letters, piṇḍa-ending forms, and numeral letters.",
+   "uncertainties": [
+    "precise meaning of pottheya and piṇḍa"
+   ],
+   "plain_english": "By letters arising from the kaṭa groups, ending in piṇḍa, and numeral letters."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "legacy hint lobhāt",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "paṭuḥ",
+     "gloss": "sharp",
+     "grounds": "legacy hint paṭu",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prāyaḥ",
+     "gloss": "usually",
+     "grounds": "legacy hint prāyaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "legacy hint rudra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "legacy hint syāt",
+     "morph": "verb 3.sg.act.opt"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ruruḥ",
+     "gloss": "ruru",
+     "grounds": "legacy hint ruru",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "karam",
+     "gloss": "kara",
+     "grounds": "legacy hint kara",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What result is said to arise from greed in this mantra context?",
+   "premises": [
+    "lobhāt means from greed",
+    "paṭuḥ means sharp",
+    "rudraḥ may be the result",
+    "ruruḥ and karam are named"
+   ],
+   "inference": "From greed, Rudra may become sharp, with Ruru and Kara mentioned.",
+   "uncertainties": [
+    "relation of ruru and kara to the result"
+   ],
+   "plain_english": "From greed, sharp Rudra may arise here; Ruru, Kara."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint kramāt",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "svarān",
+     "gloss": "vowels",
+     "grounds": "legacy hint svarān",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "mautu",
+     "gloss": "mautu",
+     "grounds": "legacy hint mautu",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "revatyaṃ",
+     "gloss": "revatya",
+     "grounds": "legacy hint revatya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sagatau",
+     "gloss": "with-going",
+     "grounds": "compound sa+gatau",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "legacy hint tadā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of vowels and related terms is prescribed in order?",
+   "premises": [
+    "kramāt means in order",
+    "svarān means vowels",
+    "mautu and revatyaṃ are named",
+    "sagatau means with going"
+   ],
+   "inference": "The verse prescribes vowels and related terms in a specified order.",
+   "uncertainties": [
+    "meaning of mautu and revatyaṃ"
+   ],
+   "plain_english": "In order, vowels, Mautu, Revatya, with going, then."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "vipat",
+     "gloss": "danger",
+     "grounds": "legacy hint vipat",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kṣema",
+     "gloss": "welfare",
+     "grounds": "legacy hint kṣema",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pratyariḥ",
+     "gloss": "adversary",
+     "grounds": "legacy hint pratyari",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "legacy hint sādhaka",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vadhaḥ",
+     "gloss": "killing",
+     "grounds": "legacy hint vadha",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What dangers, welfare, adversaries, practitioners, and killing are mentioned?",
+   "premises": [
+    "vipat means danger",
+    "kṣema means welfare",
+    "pratyariḥ means adversary",
+    "sādhako means practitioner",
+    "vadhaḥ means killing"
+   ],
+   "inference": "The verse lists danger, welfare, adversary, practitioner, and killing as relevant terms.",
+   "uncertainties": [
+    "syntactic relation among the five nouns"
+   ],
+   "plain_english": "Danger, welfare, adversary, practitioner, killing."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "nāmādyavarṇasya",
+     "gloss": "name-first-letter's",
+     "grounds": "compound nāma+ādi+varṇasya",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "rāśinakṣatraśodhanam",
+     "gloss": "zodiac-nakshatra-purification",
+     "grounds": "compound rāśi+nakṣatra+śodhanam",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What purification is tied to the first letter of a name?",
+   "premises": [
+    "nāmādyavarṇasya means name-first-letter's",
+    "rāśinakṣatraśodhanam means zodiac-nakshatra-purification"
+   ],
+   "inference": "The first letter of a name is connected with zodiac and nakshatra purification.",
+   "uncertainties": [
+    "exact ritual procedure"
+   ],
+   "plain_english": "Of the first letter of the name, zodiac-nakshatra purification."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those",
+     "grounds": "legacy hint tayoḥ",
+     "morph": "pron.gen.du.m"
+    },
+    {
+     "surface": "prādhānyam",
+     "gloss": "primacy",
+     "grounds": "legacy hint prādhānyam",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "etayoḥ",
+     "gloss": "of-these",
+     "grounds": "legacy hint etayoḥ",
+     "morph": "pron.gen.du.m"
+    }
+   ],
+   "question": "What primacy is asserted between those and these?",
+   "premises": [
+    "tayoḥ means of those",
+    "prādhānyam means primacy",
+    "etayoḥ means of these"
+   ],
+   "inference": "The verse asserts primacy between two referenced pairs.",
+   "uncertainties": [
+    "which two pairs are referenced"
+   ],
+   "plain_english": "Of those, primacy, of these."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "janmabheṣu",
+     "gloss": "in-birth-signs",
+     "grounds": "compound janma+bheṣu",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "guṇasaṃkalane",
+     "gloss": "in-guna-combination",
+     "grounds": "compound guṇa+saṃkalane",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mind",
+     "grounds": "legacy hint manoḥ",
+     "morph": "n.gen.sg.m"
+    }
+   ],
+   "question": "What is combined in the birth signs for the mind?",
+   "premises": [
+    "janmabheṣu means in birth signs",
+    "guṇasaṃkalane means in guna combination",
+    "manoḥ means of mind"
+   ],
+   "inference": "The verse concerns combining gunas in birth signs for the mind.",
+   "uncertainties": [
+    "exact meaning of bheṣu"
+   ],
+   "plain_english": "In birth signs, in guna combination, of mind."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "janmapadagā",
+     "gloss": "birth-pad-going",
+     "grounds": "compound janma+pada+gā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "nirmūlā",
+     "gloss": "rootless",
+     "grounds": "legacy hint nirmūlā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "lakṣaṇā",
+     "gloss": "characteristic",
+     "grounds": "legacy hint lakṣaṇā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "legacy hint bhavet",
+     "morph": "verb 3.sg.act.opt"
+    }
+   ],
+   "question": "What characteristic may arise for a rootless birth-pad-going form?",
+   "premises": [
+    "janmapadagā means birth-pad-going",
+    "nirmūlā means rootless",
+    "lakṣaṇā means characteristic",
+    "bhavet means may be"
+   ],
+   "inference": "A rootless birth-pad-going form may have a characteristic.",
+   "uncertainties": [
+    "meaning of pada in this compound"
+   ],
+   "plain_english": "Birth-pad-going, rootless, characteristic, may be."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayavicārārthaṃ",
+     "gloss": "for-both-inquiry-purpose",
+     "grounds": "compound ubhaya+vicāra+artham",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "statement",
+     "grounds": "legacy hint vākyam",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "legacy hint etad",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "legacy hint bhaviṣyati",
+     "morph": "verb 3.sg.act.fut"
+    }
+   ],
+   "question": "What purpose is served by this statement about both inquiries?",
+   "premises": [
+    "ubhayavicārārthaṃ means for both inquiry purpose",
+    "vākyam means statement",
+    "etad means this",
+    "bhaviṣyati means will be"
+   ],
+   "inference": "This statement will serve the purpose of inquiry into both.",
+   "uncertainties": [
+    "which two inquiries are meant"
+   ],
+   "plain_english": "And for both inquiry purposes, this statement will be."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint tathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "legacy hint idam",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "nāmno",
+     "gloss": "of-name",
+     "grounds": "legacy hint nāmnaḥ",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "legacy hint grāhyaṃ",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "legacy hint katham",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "legacy hint bhavet",
+     "morph": "verb 3.sg.act.opt"
+    }
+   ],
+   "question": "How may this name be taken according to the verse?",
+   "premises": [
+    "idam means this",
+    "nāmno means of name",
+    "grāhyaṃ means to be taken",
+    "kathaṃ means how",
+    "bhavet means may be"
+   ],
+   "inference": "The verse asks how this name may be taken.",
+   "uncertainties": [
+    "what grāhyaṃ specifically selects"
+   ],
+   "plain_english": "Likewise, and this of the name, how may it be taken?"
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "siddhādyapekṣā",
+     "gloss": "siddha-etc-expectation",
+     "grounds": "compound siddha+ādi+apekṣā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "legacy hint asti",
+     "morph": "verb 3.sg.act.pres"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint atra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avagamyate",
+     "gloss": "is-understood",
+     "grounds": "legacy hint avagamyate",
+     "morph": "verb 3.sg.pass.pres"
+    }
+   ],
+   "question": "Is any expectation from siddha and others required here?",
+   "premises": [
+    "siddhādyapekṣā means siddha-etc-expectation",
+    "na asti means is not",
+    "atra means here",
+    "avagamyate means is understood"
+   ],
+   "inference": "No expectation from siddha and others is required here.",
+   "uncertainties": [
+    "scope of ādi in siddhādi"
+   ],
+   "plain_english": "Expectation from siddha and others is not here; thus it is understood."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "cetaḥ",
+     "gloss": "mind",
+     "grounds": "legacy hint cetaḥ",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samādhāya",
+     "gloss": "having-fixed",
+     "grounds": "legacy hint samādhāya",
+     "morph": "verb gerund"
+    },
+    {
+     "surface": "vilokayatu",
+     "gloss": "let-observe",
+     "grounds": "legacy hint vilokayatu",
+     "morph": "verb 3.sg.act.imp"
+    },
+    {
+     "surface": "yuktimān",
+     "gloss": "reasoned-one",
+     "grounds": "legacy hint yuktimān",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What should the reasoned person observe after fixing the mind?",
+   "premises": [
+    "cetaḥ means mind",
+    "samādhāya means having fixed",
+    "vilokayatu means let observe",
+    "yuktimān means reasoned one"
+   ],
+   "inference": "The reasoned person should observe after fixing the mind.",
+   "uncertainties": [
+    "object of observation is implicit"
+   ],
+   "plain_english": "Having fixed the mind, let the reasoned one observe."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "janmabhaṃ",
+     "gloss": "birth-sign",
+     "grounds": "compound janma+bham",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "legacy hint yasya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "legacy hint tasya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "nāmarkṣamūhayet",
+     "gloss": "name-nakshatra-should-not-combine",
+     "grounds": "compound nāma+ṛkṣa+mūhayet",
+     "morph": "verb 3.sg.act.opt"
+    }
+   ],
+   "question": "Should the name and nakshatra be combined for one whose birth sign is known?",
+   "premises": [
+    "janmabhaṃ means birth sign",
+    "yasya means whose",
+    "tasya means his",
+    "nāmarkṣamūhayet means name-nakshatra should not combine"
+   ],
+   "inference": "For one whose birth sign is known, name and nakshatra should not be combined.",
+   "uncertainties": [
+    "exact force of mūhayet"
+   ],
+   "plain_english": "For whose birth sign, his name and nakshatra should not be combined."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "legacy hint anyathā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "legacy hint proktaṃ",
+     "morph": "ppp.nom.sg.n"
+    },
+    {
+     "surface": "māntrikaiḥ",
+     "gloss": "by-mantra-experts",
+     "grounds": "legacy hint māntrikaiḥ",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "mantravedibhiḥ",
+     "gloss": "by-mantra-knowers",
+     "grounds": "compound mantra+vedibhiḥ",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "What do mantra experts and knowers say otherwise?",
+   "premises": [
+    "anyathā means otherwise",
+    "proktaṃ means said",
+    "māntrikaiḥ means by mantra experts",
+    "mantravedibhiḥ means by mantra knowers"
+   ],
+   "inference": "Mantra experts and knowers have said otherwise.",
+   "uncertainties": [
+    "content of the otherwise statement"
+   ],
+   "plain_english": "But otherwise it is said by mantra experts and mantra knowers."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "jñātavyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "legacy hint jñātavyaṃ",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "mantrakovidaiḥ",
+     "gloss": "by-mantra-skilled",
+     "grounds": "compound mantra+kovidaiḥ",
+     "morph": "n.ins.pl.m"
+    }
+   ],
+   "question": "What must be known by those skilled in mantra?",
+   "premises": [
+    "jñātavyaṃ means to be known",
+    "mantrakovidaiḥ means by mantra-skilled"
+   ],
+   "inference": "Something must be known by those skilled in mantra.",
+   "uncertainties": [
+    "the object to be known is implicit"
+   ],
+   "plain_english": "To be known by those skilled in mantra."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "yojitā",
+     "gloss": "joined",
+     "grounds": "legacy hint yojitā",
+     "morph": "ppp.nom.pl.m"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "legacy hint varṇāḥ",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "kanyāyāṃ",
+     "gloss": "in-virgin",
+     "grounds": "legacy hint kanyāyām",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "śādayaḥ",
+     "gloss": "śādayaḥ",
+     "grounds": "legacy hint śādayaḥ",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "legacy hint sthitāḥ",
+     "morph": "ppp.nom.pl.m"
+    }
+   ],
+   "question": "Which letters are joined and situated in the virgin?",
+   "premises": [
+    "yojitā means joined",
+    "varṇāḥ means letters",
+    "kanyāyāṃ means in virgin",
+    "śādayaḥ is named",
+    "sthitāḥ means situated"
+   ],
+   "inference": "Joined letters, including Śādayaḥ, are situated in the virgin.",
+   "uncertainties": [
+    "meaning of śādayaḥ"
+   ],
+   "plain_english": "Joined letters, in the virgin, Śādayaḥ, situated."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "caturbhir",
+     "gloss": "by-four",
+     "grounds": "legacy hint caturbhiḥ",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "yādibhiḥ",
+     "gloss": "yādibhiḥ",
+     "grounds": "legacy hint yādibhiḥ",
+     "morph": "n.ins.pl.m"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together-with",
+     "grounds": "legacy hint sārdhaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣakāro",
+     "gloss": "kṣa-letter",
+     "grounds": "compound kṣa+kāraḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mīnagaḥ",
+     "gloss": "fish-goer",
+     "grounds": "legacy hint mīnagaḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint iti",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said about the kṣa letter together with four yādibhiḥ?",
+   "premises": [
+    "caturbhir means by four",
+    "yādibhiḥ is named",
+    "sārdhaṃ means together with",
+    "kṣakāro means kṣa letter",
+    "mīnagaḥ means fish goer"
+   ],
+   "inference": "The kṣa letter, together with four yādibhiḥ, is connected with the fish goer.",
+   "uncertainties": [
+    "meaning of mīnagaḥ"
+   ],
+   "plain_english": "By four yādibhiḥ together with, the kṣa letter, fish goer, but, thus."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "śāradādau",
+     "gloss": "at-śāradā-beginning",
+     "grounds": "compound śāradā+ādau",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "legacy hint yaḥ",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "pāṭhaṃ",
+     "gloss": "reading",
+     "grounds": "legacy hint pāṭhaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "paṭhati",
+     "gloss": "reads",
+     "grounds": "legacy hint paṭhati",
+     "morph": "verb 3.sg.act.pres"
+    },
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "tantrika",
+     "grounds": "legacy hint tāntrikaḥ",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who reads the text at the beginning of Śāradā?",
+   "premises": [
+    "śāradādau means at Śāradā beginning",
+    "yaḥ means who",
+    "pāṭhaṃ means reading",
+    "paṭhati means reads",
+    "tāntrikaḥ means tantrika"
+   ],
+   "inference": "The tantrika reads the text at the beginning of Śāradā.",
+   "uncertainties": [
+    "whether śāradā names a text or season"
+   ],
+   "plain_english": "At the beginning of Śāradā, who reads the text, the tantrika."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "bhrātṛ",
+     "gloss": "brother",
+     "grounds": "legacy hint bhrātṛ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bandhu",
+     "gloss": "relative",
+     "grounds": "legacy hint bandhu",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "legacy hint putra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "legacy hint śatru",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kalatra",
+     "gloss": "wife",
+     "grounds": "legacy hint kalatra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kāḥ",
+     "gloss": "what",
+     "grounds": "legacy hint kāḥ",
+     "morph": "pron.nom.pl.f"
+    }
+   ],
+   "question": "Which relatives and others are enumerated in this list?",
+   "premises": [
+    "bhrātṛ means brother",
+    "bandhu means relative",
+    "putra means son",
+    "śatru means enemy",
+    "kalatra means wife",
+    "kāḥ means what"
+   ],
+   "inference": "The verse enumerates brother, relative, son, enemy, and wife.",
+   "uncertainties": [
+    "syntactic role of kāḥ"
+   ],
+   "plain_english": "Brother, relative, son, enemy, wife, what?"
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint tatra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aviruddho",
+     "gloss": "non-contradictory",
+     "grounds": "legacy hint aviruddhaḥ",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "legacy hint asya",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "pāṭhaḥ",
+     "gloss": "reading",
+     "grounds": "legacy hint pāṭhaḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "legacy hint kim",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-indeed",
+     "grounds": "legacy hint nahi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhyate",
+     "gloss": "is-read",
+     "grounds": "legacy hint paṭhyate",
+     "morph": "verb 3.sg.pass.pres"
+    }
+   ],
+   "question": "Is the non-contradictory reading there not indeed read?",
+   "premises": [
+    "tatra means there",
+    "aviruddho means non-contradictory",
+    "asya means his",
+    "pāṭhaḥ means reading",
+    "kim means what",
+    "nahi means not indeed",
+    "paṭhyate means is read"
+   ],
+   "inference": "The verse questions whether the non-contradictory reading is not indeed read.",
+   "uncertainties": [
+    "exact rhetorical force"
+   ],
+   "plain_english": "There, his non-contradictory reading, what, not indeed, is read."
+  }
+ ]
+}

@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 726,
+   "rows": [
+    {
+     "surface": "hīnau",
+     "gloss": "lower-two",
+     "grounds": "describes two elements as lower or deficient",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vāntaramaṃcau",
+     "gloss": "and-intermediate-benches",
+     "grounds": "vā = and; antaramañcau = intermediate benches or platforms",
+     "morph": "compound: vā+antaramañcau"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral specifying a pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "low-wall",
+     "grounds": "architectural member, a low wall or cornice element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samasūtrakau",
+     "gloss": "aligned-on-same-line",
+     "grounds": "sama = same; sūtraka = threaded or aligned",
+     "morph": "compound: sama+sūtrakau; m.nom.du"
+    }
+   ],
+   "question": "Which paired architectural members are set lower and aligned on the same line?",
+   "premises": [
+    "Two elements are described as lower.",
+    "Two intermediate benches are included.",
+    "A low wall is aligned on the same line."
+   ],
+   "inference": "The verse specifies paired lower members, intermediate benches, and a low wall arranged in alignment.",
+   "uncertainties": [
+    "Exact architectural referents of antaramañcau and nīvraṃ vary by tradition."
+   ],
+   "plain_english": "Two lower elements and two intermediate benches, along with a low wall, are set aligned on the same line."
+  },
+  {
+   "verse": 727,
+   "rows": [
+    {
+     "surface": "kapotapaṃjaraṃ",
+     "gloss": "dove-cage-cornice",
+     "grounds": "kapota = dove; pañjara = cage; architectural cornice type",
+     "morph": "compound: kapota+pañjaram; n.nom.sg"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "central position or middle element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāntaraprastarānvitam",
+     "gloss": "with-spaced-stone-courses",
+     "grounds": "sa = with; antara = spaced; prastara = stone course; anvita = endowed",
+     "morph": "compound: sa+antara+prastara+anvitam; n.nom.sg"
+    }
+   ],
+   "question": "What alternative middle cornice arrangement includes spaced stone courses?",
+   "premises": [
+    "A dove-cage cornice may form the middle element.",
+    "An alternative arrangement is allowed.",
+    "The alternative includes spaced stone courses."
+   ],
+   "inference": "The middle section may be a kapota-pañjara cornice or one furnished with spaced stone courses.",
+   "uncertainties": [
+    "Precise structural form of sāntaraprastara is context-dependent."
+   ],
+   "plain_english": "The middle part may be a kapota-pañjara cornice, or alternatively one provided with spaced stone courses."
+  },
+  {
+   "verse": 728,
+   "rows": [
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "vasu = eight; aśra = corner or edge",
+     "morph": "compound: vasu+aśram; n.nom.sg"
+    },
+    {
+     "surface": "vedikopetaṃ",
+     "gloss": "endowed-with-platform",
+     "grounds": "vedikā = platform; upeta = endowed with",
+     "morph": "compound: vedikā+upetam; n.nom.sg"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circular-member",
+     "grounds": "round or circular architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīrṣakaṃ",
+     "gloss": "head-piece",
+     "grounds": "upper crowning element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "neck portion below the head-piece",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which upper structural components include an eight-cornered platform, circular member, neck, and head-piece?",
+   "premises": [
+    "An eight-cornered element is specified.",
+    "It is endowed with a platform.",
+    "Circular member, head-piece, and neck are listed."
+   ],
+   "inference": "The upper structure comprises an eight-cornered platformed element, a circular member, a neck, and a head-piece.",
+   "uncertainties": [
+    "The exact stacking order of these members is not fully explicit."
+   ],
+   "plain_english": "There is an eight-cornered part with a platform, a circular member, a neck, and a head-piece."
+  },
+  {
+   "verse": 729,
+   "rows": [
+    {
+     "surface": "etacca",
+     "gloss": "and-this",
+     "grounds": "etat = this; ca = and",
+     "morph": "compound: etat+ca; n.nom.sg"
+    },
+    {
+     "surface": "drāviḍaṃ",
+     "gloss": "dravidian",
+     "grounds": "pertaining to the Dravidian style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized as",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hemādikuḍmalaṃ",
+     "gloss": "hemādi-bud-finial",
+     "grounds": "hemādi = beginning with hemā; kuḍmala = bud or finial",
+     "morph": "compound: hemādi+kuḍmalam; n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What architectural form is recognized as Dravidian and characterized by a hemādi-bud finial?",
+   "premises": [
+    "The described form is identified as this.",
+    "It is known as Dravidian.",
+    "It likewise has a hemādi-bud finial."
+   ],
+   "inference": "This configuration is recognized as Dravidian and features a hemādi-bud finial.",
+   "uncertainties": [
+    "The specific meaning of hemādi in this compound is unclear."
+   ],
+   "plain_english": "And this is known as the Dravidian style, likewise having a hemādi-bud finial."
+  },
+  {
+   "verse": 730,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "of three kinds",
+     "morph": "compound: tri+vidham; n.nom.sg"
+    },
+    {
+     "surface": "nītyā",
+     "gloss": "by-rule",
+     "grounds": "according to prescribed method",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "well",
+     "grounds": "intensifying prefix indicating proper manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "is stated or taught",
+     "morph": "3.sg.pass-pres; √vac"
+    },
+    {
+     "surface": "drāviḍālayam",
+     "gloss": "dravidian-temple",
+     "grounds": "drāviḍa = Dravidian; ālaya = temple or abode",
+     "morph": "compound: drāviḍa+ālayam; n.nom.sg"
+    }
+   ],
+   "question": "How is the Dravidian temple classified according to prescribed architectural rule?",
+   "premises": [
+    "The classification follows a prescribed rule.",
+    "The temple is of the Dravidian type.",
+    "It is properly declared in three forms."
+   ],
+   "inference": "By rule, the Dravidian temple is properly declared to be threefold.",
+   "uncertainties": [],
+   "plain_english": "Thus, by rule, the Dravidian temple is properly declared to be of three kinds."
+  },
+  {
+   "verse": 731,
+   "rows": [
+    {
+     "surface": "vṛttākāraṃ",
+     "gloss": "round-shaped",
+     "grounds": "vṛtta = round; ākāra = shape",
+     "morph": "compound: vṛtta+ākāram; n.acc.sg"
+    },
+    {
+     "surface": "śiropetaṃ",
+     "gloss": "endowed-with-head",
+     "grounds": "śiras = head; upeta = endowed with",
+     "morph": "compound: śiras+upetam; n.acc.sg"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-pinnacle",
+     "grounds": "karṇa = corner or ear; kūṭa = pinnacle",
+     "morph": "compound: karṇa+kūṭam; n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction to construct or arrange",
+     "morph": "3.sg.opt-act; √kḷp with pra"
+    }
+   ],
+   "question": "What form should the corner pinnacle take when arranged with a head element?",
+   "premises": [
+    "A corner pinnacle is to be arranged.",
+    "It should be round-shaped.",
+    "It should be endowed with a head element."
+   ],
+   "inference": "One should arrange the corner pinnacle as round-shaped and furnished with a head.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the corner pinnacle as round-shaped and provided with a head."
+  },
+  {
+   "verse": 732,
+   "rows": [
+    {
+     "surface": "vṛttagrīvaśiropetaṃ",
+     "gloss": "with-round-neck-and-head",
+     "grounds": "vṛtta = round; grīva = neck; śiras = head; upeta = endowed with",
+     "morph": "compound: vṛtta+grīva+śiras+upetam; n.acc.sg"
+    },
+    {
+     "surface": "yatheṣṭaśikhareṇa",
+     "gloss": "with-desired-spire",
+     "grounds": "yathā = as; iṣṭa = desired; śikhara = spire",
+     "morph": "compound: yathā+iṣṭa+śikhareṇa; n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative configuration combines a round neck and head with a chosen spire?",
+   "premises": [
+    "An alternative arrangement is permitted.",
+    "The form may have a round neck and head.",
+    "It may be combined with a spire as desired."
+   ],
+   "inference": "Alternatively, the structure may have a round neck and head together with a spire of one's choice.",
+   "uncertainties": [],
+   "plain_english": "Or it may be furnished with a round neck and head, together with a spire as desired."
+  },
+  {
+   "verse": 733,
+   "rows": [
+    {
+     "surface": "samāśraṃ",
+     "gloss": "equal-cornered",
+     "grounds": "sama = equal; aśra = corner",
+     "morph": "compound: sama+aśram; n.acc.sg"
+    },
+    {
+     "surface": "sāyatāśraṃ",
+     "gloss": "oblong-cornered",
+     "grounds": "sa = with; āyata = elongated; aśra = corner",
+     "morph": "compound: sa+āyata+aśram; n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "circular in form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛttāyataṃ",
+     "gloss": "round-elongated",
+     "grounds": "vṛtta = round; āyata = elongated",
+     "morph": "compound: vṛtta+āyatam; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of ground-plan shapes is permitted for this architectural form?",
+   "premises": [
+    "Equal-cornered and oblong-cornered forms are options.",
+    "Round and round-elongated forms are options.",
+    "Multiple alternatives are explicitly allowed."
+   ],
+   "inference": "The plan may be equal-cornered, oblong-cornered, round, or round-elongated.",
+   "uncertainties": [],
+   "plain_english": "It may be equal-cornered or oblong-cornered, or else round or round-elongated."
+  },
+  {
+   "verse": 734,
+   "rows": [
+    {
+     "surface": "unnatāvanatopetau",
+     "gloss": "with-raised-and-lowered",
+     "grounds": "unnata = raised; avanata = lowered; upeta = endowed with",
+     "morph": "compound: unnata+avanata+upetau; m.nom.du"
+    },
+    {
+     "surface": "kūṭakoṣṭhau",
+     "gloss": "pinnacle-and-chamber",
+     "grounds": "kūṭa = pinnacle; koṣṭha = chamber or cell",
+     "morph": "compound: kūṭa+koṣṭhau; m.nom.du"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "yathā = according to; krama = order",
+     "morph": "compound: yathā+kramam; (indecl.)"
+    }
+   ],
+   "question": "How should the pinnacle and chamber elements be arranged in terms of height?",
+   "premises": [
+    "Pinnacle and chamber elements are paired.",
+    "They are characterized as raised and lowered.",
+    "Their arrangement follows due order."
+   ],
+   "inference": "The pinnacle and chamber should be arranged in due order as raised and lowered respectively.",
+   "uncertainties": [
+    "Which element is raised and which lowered is implied by order but not named explicitly."
+   ],
+   "plain_english": "The pinnacle and chamber, endowed with raised and lowered parts, should be arranged in due order."
+  },
+  {
+   "verse": 735,
+   "rows": [
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "name of a mixed architectural style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "building",
+     "grounds": "temple or structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "recognized or called",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "athavānyaprakārataḥ",
+     "gloss": "or-by-other-manner",
+     "grounds": "athavā = or; anya = other; prakāra = manner; -tas = by",
+     "morph": "compound: athavā+anya+prakārataḥ; (indecl.)"
+    }
+   ],
+   "question": "What building type is recognized as Vesara, including by alternative characterization?",
+   "premises": [
+    "A building is identified as Vesara.",
+    "This identification is recognized.",
+    "An alternative manner of characterization is also allowed."
+   ],
+   "inference": "The building is known as Vesara, or may be so identified by another manner.",
+   "uncertainties": [
+    "The alternative manner is not specified in this verse."
+   ],
+   "plain_english": "The building is known as Vesara, or by another manner of classification."
+  },
+  {
+   "verse": 736,
+   "rows": [
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "vasu = eight; aśra = corner",
+     "morph": "compound: vasu+aśram; n.nom.sg"
+    },
+    {
+     "surface": "śīrṣakaṃ",
+     "gloss": "head-piece",
+     "grounds": "upper crowning element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "neck",
+     "grounds": "neck portion of the structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "drāviḍaṃ",
+     "gloss": "dravidian",
+     "grounds": "pertaining to the Dravidian style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "building",
+     "grounds": "temple or structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive or potential result",
+     "morph": "3.sg.opt-act; √bhū"
+    }
+   ],
+   "question": "What features define a Dravidian building in this specific configuration?",
+   "premises": [
+    "The building is of the Dravidian type.",
+    "It has an eight-cornered head-piece.",
+    "It has a neck element."
+   ],
+   "inference": "A Dravidian building in this form should have an eight-cornered head-piece and a neck.",
+   "uncertainties": [],
+   "plain_english": "The Dravidian building should have an eight-cornered head-piece and a neck."
+  },
+  {
+   "verse": 737,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhavihīnānāṃ",
+     "gloss": "devoid-of-pinnacle-and-chamber",
+     "grounds": "kūṭa = pinnacle; koṣṭha = chamber; vihīna = devoid of",
+     "morph": "compound: kūṭa+koṣṭha+vihīnānām; m.gen.pl"
+    },
+    {
+     "surface": "harmyāṇāṃ",
+     "gloss": "of-mansions",
+     "grounds": "large buildings or temples",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kathitāstvime",
+     "gloss": "declared-indeed-these",
+     "grounds": "kathitāḥ = declared; tu = indeed; ime = these",
+     "morph": "compound: kathitāḥ+tu+ime; m.nom.pl"
+    }
+   ],
+   "question": "Which previously described forms apply to mansions lacking pinnacles and chambers?",
+   "premises": [
+    "Some mansions lack pinnacles and chambers.",
+    "Certain forms have been declared.",
+    "These declared forms apply to such mansions."
+   ],
+   "inference": "These are the forms declared for mansions that are devoid of pinnacles and chambers.",
+   "uncertainties": [
+    "The referent of 'these' depends on the preceding verses."
+   ],
+   "plain_english": "These are the forms declared for mansions that lack pinnacles and chambers."
+  },
+  {
+   "verse": 738,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛtta",
+     "gloss": "round",
+     "grounds": "circular in form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "base",
+     "grounds": "foot or base portion of the structure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāṃ",
+     "gloss": "or",
+     "grounds": "alternative particle, sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vesare",
+     "gloss": "in-vesara",
+     "grounds": "in the Vesara style building",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavane",
+     "gloss": "in-building",
+     "grounds": "in the temple or structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction to construct",
+     "morph": "2.sg.imp-act; √kṛ"
+    }
+   ],
+   "question": "What base form is prescribed for a Vesara building in all cases?",
+   "premises": [
+    "The instruction applies everywhere.",
+    "The building is of the Vesara type.",
+    "A round base is prescribed."
+   ],
+   "inference": "In all cases, one should make the base round in a Vesara building.",
+   "uncertainties": [
+    "The token vāṃ may reflect sandhi or an alternative reading."
+   ],
+   "plain_english": "In all cases, make the base round in a Vesara building."
+  },
+  {
+   "verse": 739,
+   "rows": [
+    {
+     "surface": "sarvasaṃpatsamṛddhiḥ",
+     "gloss": "abundance-of-all-prosperity",
+     "grounds": "sarva = all; saṃpat = prosperity; samṛddhi = abundance",
+     "morph": "compound: sarva+saṃpat+samṛddhiḥ; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt-act; √as"
+    },
+    {
+     "surface": "nṛpasya",
+     "gloss": "of-king",
+     "grounds": "belonging to the ruler",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāstujanminām",
+     "gloss": "of-those-born-in-site",
+     "grounds": "vāstu = site; janmin = born; inhabitants of the site",
+     "morph": "compound: vāstu+janminām; m.gen.pl"
+    }
+   ],
+   "question": "What benefit arises for the king and site inhabitants from following the prescribed form?",
+   "premises": [
+    "A result of abundance is stated.",
+    "The benefit concerns the king.",
+    "The benefit concerns those born in the site."
+   ],
+   "inference": "Following the prescription brings abundance of all prosperity to the king and the inhabitants of the site.",
+   "uncertainties": [],
+   "plain_english": "There will be abundance of all prosperity for the king and for those born in the site."
+  },
+  {
+   "verse": 740,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion from previous statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "in every respect",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "with full diligence",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ekajātyeva",
+     "gloss": "of-one-kind-only",
+     "grounds": "eka = one; jāti = kind; eva = only",
+     "morph": "compound: eka+jāti+eva; (indecl.)"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "one-should-practice",
+     "grounds": "prescriptive instruction to act or follow",
+     "morph": "3.sg.opt-act; √car with mā (optative sense in context)"
+    }
+   ],
+   "question": "What uniform practice is enjoined with full effort based on the promised prosperity?",
+   "premises": [
+    "A conclusion is drawn from prior benefit.",
+    "Full effort is required.",
+    "Practice should be of one kind only."
+   ],
+   "inference": "Therefore, one should practice with all effort in a uniform manner of one kind only.",
+   "uncertainties": [
+    "The exact scope of ekajāti (style, material, or class) is context-dependent."
+   ],
+   "plain_english": "Therefore, with all effort, one should follow a practice of one kind only."
+  },
+  {
+   "verse": 741,
+   "rows": [
+    {
+     "surface": "bhogavīraṃ",
+     "gloss": "enjoyment-and-heroic",
+     "grounds": "bhoga = enjoyment; vīra = heroic; possibly modes or aspects",
+     "morph": "compound: bhoga+vīram; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "dance or dynamic aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāviḍe",
+     "gloss": "in-dravidian",
+     "grounds": "in the Dravidian style",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavane",
+     "gloss": "in-building",
+     "grounds": "in the temple or structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive or potential result",
+     "morph": "3.sg.opt-act; √bhū"
+    }
+   ],
+   "question": "What aspects are appropriate within a Dravidian building according to this prescription?",
+   "premises": [
+    "The context is a Dravidian building.",
+    "Enjoyment-and-heroic aspects are mentioned.",
+    "Dance is also mentioned."
+   ],
+   "inference": "In a Dravidian building, the enjoyment-and-heroic aspect and dance should be present.",
+   "uncertainties": [
+    "The technical meaning of bhogavīra in this architectural-ritual context is uncertain."
+   ],
+   "plain_english": "In a Dravidian building, there should be the enjoyment-and-heroic aspect and dance."
+  },
+  {
+   "verse": 742,
+   "rows": [
+    {
+     "surface": "nāgarādi",
+     "gloss": "nagara-and-others",
+     "grounds": "nāgara = Nagara style; ādi = and so forth",
+     "morph": "compound: nāgara+ādi"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure or classification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "has been stated",
+     "morph": "m.nom.sg; past-participle; √vac with pra"
+    },
+    {
+     "surface": "garbhanyāsavidhiṃ",
+     "gloss": "embryo-deposit-rule",
+     "grounds": "garbha = embryo; nyāsa = placement; vidhi = rule",
+     "morph": "compound: garbha+nyāsa+vidhim; m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative to listen",
+     "morph": "2.sg.imp-act; √śru"
+    }
+   ],
+   "question": "What new ritual topic is introduced after completing the Nagara and related architectural rules?",
+   "premises": [
+    "The rules of Nagara and others have been declared.",
+    "A new topic is announced.",
+    "The listener is instructed to hear the embryo-deposit rule."
+   ],
+   "inference": "Having declared the Nagara and related rules, the text now turns to the rule for embryo placement.",
+   "uncertainties": [],
+   "plain_english": "The rule for Nagara and other styles has been declared; now hear the rule for placing the embryo."
+  },
+  {
+   "verse": 743,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshuman-kashyapa",
+     "grounds": "iti = thus; aṃśumān = radiant; kāśyapa = Kashyapa; text title marker",
+     "morph": "compound: iti+aṃśumān+kāśyape; m.loc.sg"
+    },
+    {
+     "surface": "nāgarādividhipaṭalaḥ",
+     "gloss": "nagara-etc-rule-chapter",
+     "grounds": "nāgara = Nagara; ādi = etc.; vidhi = rule; paṭala = chapter",
+     "morph": "compound: nāgara+ādi+vidhi+paṭalaḥ; m.nom.sg"
+    },
+    {
+     "surface": "caturviṃśaḥ",
+     "gloss": "twenty-fourth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the section on Nagara and related rules in the Aṃśumān Kāśyapa text?",
+   "premises": [
+    "The statement marks a conclusion.",
+    "It refers to the Aṃśumān Kāśyapa text.",
+    "It names the twenty-fourth chapter on Nagara and related rules."
+   ],
+   "inference": "This marks the end of the twenty-fourth chapter on the rules of Nagara and others in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-fourth chapter, on the rules of Nagara and others, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 744,
+   "rows": [
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "the temple structure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deham",
+     "gloss": "body",
+     "grounds": "likened to a living body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityuktaṃ",
+     "gloss": "thus-said",
+     "grounds": "iti = thus; ukta = said",
+     "morph": "compound: iti+uktam; n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "of that temple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāṇaḥ",
+     "gloss": "life-breath",
+     "grounds": "vital principle or animating force",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhakam",
+     "gloss": "embryo",
+     "grounds": "the deposited embryo or receptacle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What vital principle animates the temple when it is conceived as a body?",
+   "premises": [
+    "The temple is said to be a body.",
+    "A vital principle of that body is identified.",
+    "The embryo is declared to be that vital principle."
+   ],
+   "inference": "When the temple is understood as a body, the embryo is its life-breath.",
+   "uncertainties": [],
+   "plain_english": "The temple is said to be a body, and its life-breath is the embryo."
+  },
+  {
+   "verse": 745,
+   "rows": [
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker, likely the deity or authoritative voice",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "other beings or deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāse",
+     "gloss": "dwell",
+     "grounds": "take residence or abide",
+     "morph": "1.sg.pres-mid; √vas"
+    },
+    {
+     "surface": "punnagarbhake",
+     "gloss": "in-male-embryo",
+     "grounds": "pum = male; nagarbha/garbhaka = embryo receptacle",
+     "morph": "compound: pum+nagarbhake; n.loc.sg"
+    }
+   ],
+   "question": "Why is a male embryo receptacle rejected as a dwelling for the deity and other gods?",
+   "premises": [
+    "The speaker declares non-residence.",
+    "Other gods also do not dwell there.",
+    "The location specified is a male embryo receptacle."
+   ],
+   "inference": "Neither the speaker nor other gods dwell in a male embryo receptacle.",
+   "uncertainties": [
+    "The compound punnagarbhake may reflect a specific ritual term for the receptacle."
+   ],
+   "plain_english": "I and the other gods do not dwell in a male embryo receptacle."
+  },
+  {
+   "verse": 746,
+   "rows": [
+    {
+     "surface": "śrīpradaṃ",
+     "gloss": "prosperity-giving",
+     "grounds": "śrī = prosperity; prada = giving",
+     "morph": "compound: śrī+pradam; n.acc.sg"
+    },
+    {
+     "surface": "prāṇināṃ",
+     "gloss": "of-living-beings",
+     "grounds": "for creatures or people",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "garbhaṃ",
+     "gloss": "embryo",
+     "grounds": "the deposited embryo",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "itare",
+     "gloss": "others",
+     "grounds": "other authorities or texts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "prosperity-making",
+     "grounds": "śrī = prosperity; kara = making",
+     "morph": "compound: śrī+karam; n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.opt-act; √bhū"
+    }
+   ],
+   "question": "What beneficial effect do other authorities attribute to the proper embryo deposit?",
+   "premises": [
+    "Other authorities speak about the embryo.",
+    "The embryo is called prosperity-giving for living beings.",
+    "It is said to be prosperity-making."
+   ],
+   "inference": "Others hold that the embryo gives and brings prosperity to living beings.",
+   "uncertainties": [],
+   "plain_english": "Others say the embryo gives prosperity to living beings and brings prosperity."
+  },
+  {
+   "verse": 747,
+   "rows": [
+    {
+     "surface": "adhiṣṭhāne",
+     "gloss": "on-foundation",
+     "grounds": "base or foundation level of the structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "praterūrdhve",
+     "gloss": "above-ground-level",
+     "grounds": "prateḥ/prati? above the ground; ūrdhve = above",
+     "morph": "compound: prateḥ+ūrdhve; (indecl.)"
+    },
+    {
+     "surface": "bhūsurāṇāṃ",
+     "gloss": "of-brahmins",
+     "grounds": "bhūsura = earth-god, a term for brahmins",
+     "morph": "compound: bhū+surāṇām; m.gen.pl"
+    },
+    {
+     "surface": "hitāya",
+     "gloss": "for-benefit",
+     "grounds": "for the welfare or good",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At what structural level should the embryo be placed for the benefit of brahmins?",
+   "premises": [
+    "A placement level is specified.",
+    "It is on the foundation above ground level.",
+    "The purpose is the benefit of brahmins."
+   ],
+   "inference": "For the benefit of brahmins, the placement is made on the foundation above ground level.",
+   "uncertainties": [
+    "The exact parsing of praterūrdhve is slightly unclear due to sandhi."
+   ],
+   "plain_english": "Indeed, for the benefit of brahmins, it is placed on the foundation above ground level."
+  },
+  {
+   "verse": 748,
+   "rows": [
+    {
+     "surface": "homordhve",
+     "gloss": "above-fire-offering",
+     "grounds": "homa = fire offering; ūrdhve = above",
+     "morph": "compound: homa+ūrdhve; (indecl.)"
+    },
+    {
+     "surface": "garbhavinyāsaṃ",
+     "gloss": "embryo-placement",
+     "grounds": "garbha = embryo; vinyāsa = placement or arrangement",
+     "morph": "compound: garbha+vinyāsam; m.acc.sg"
+    },
+    {
+     "surface": "śūdrāṇāmabhivṛddhidam",
+     "gloss": "giving-growth-to-shudras",
+     "grounds": "śūdrāṇām = of shudras; abhivṛddhi = growth; da = giving",
+     "morph": "compound: śūdrāṇām+abhivṛddhi+dam; n.acc.sg"
+    }
+   ],
+   "question": "What placement of the embryo is prescribed to promote the growth of shudras?",
+   "premises": [
+    "Embryo placement is the subject.",
+    "It is done above the fire-offering level.",
+    "This placement gives growth to shudras."
+   ],
+   "inference": "Placing the embryo above the fire-offering level is prescribed as giving growth to shudras.",
+   "uncertainties": [],
+   "plain_english": "The placement of the embryo above the fire-offering level gives growth to shudras."
+  },
+  {
+   "verse": 749,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "in the main temple structure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "in the hall or pavilion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca = and; eva = indeed",
+     "morph": "compound: ca+eva; (indecl.)"
+    },
+    {
+     "surface": "prākāre",
+     "gloss": "in-enclosure-wall",
+     "grounds": "in the surrounding wall or enclosure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gopure",
+     "gloss": "in-gateway-tower",
+     "grounds": "in the gateway tower",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which architectural structures is the embryo-placement practice likewise applicable?",
+   "premises": [
+    "The temple is included as a location.",
+    "The pavilion and enclosure wall are included.",
+    "The gateway tower is likewise included."
+   ],
+   "inference": "The practice applies in the temple, pavilion, enclosure wall, and likewise in the gateway tower.",
+   "uncertainties": [],
+   "plain_english": "Likewise in the temple, in the pavilion, in the enclosure wall, and in the gateway tower."
+  }
+ ]
+}

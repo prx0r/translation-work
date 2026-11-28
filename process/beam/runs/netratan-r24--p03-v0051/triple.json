@@ -1,0 +1,413 @@
+{
+ "song": "net-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to context",
+     "morph": "adv."
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "location for contemplation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cintite",
+     "gloss": "contemplated",
+     "grounds": "past passive state of body",
+     "morph": "m.loc.sg.ppp"
+    },
+    {
+     "surface": "jñeyaśūnyatvād",
+     "gloss": "knowable-emptiness-from",
+     "grounds": "ablative cause from emptiness of knowable",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vyāpi",
+     "gloss": "pervasive",
+     "grounds": "attributive of that which spreads",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cinmātraṃ",
+     "gloss": "consciousness-only",
+     "grounds": "object of remembrance as pure consciousness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "optative injunction to recollect",
+     "morph": "3.sg.act.opt./smṛ"
+    }
+   ],
+   "question": "How should one remember pure consciousness as pervasive when the body is contemplated in light of knowable emptiness?",
+   "premises": [
+    "The body is taken as the locus of contemplation.",
+    "Knowable emptiness provides the ablative ground for the next step.",
+    "Pure consciousness alone is to be recollected as pervasive."
+   ],
+   "inference": "On contemplating the body in view of knowable emptiness, one is to remember pure consciousness as pervasive.",
+   "uncertainties": [
+    "Exact scope of 'jñeyaśūnyatva' remains context-dependent."
+   ],
+   "plain_english": "When the body is contemplated, one should remember pure consciousness alone as pervasive, on the ground of the emptiness of the knowable."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "sanmanaḥ",
+     "gloss": "good-mind",
+     "grounds": "subject in a purified mental state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samarasīgataṃ",
+     "gloss": "same-taste-gone",
+     "grounds": "state of having entered equal taste",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cinmātrarūpaṃ",
+     "gloss": "consciousness-only-form",
+     "grounds": "object identified as form of pure consciousness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "born",
+     "grounds": "resultant state coming into being",
+     "morph": "n.nom.sg.ppp/jan"
+    }
+   ],
+   "question": "What state comes into being for a purified mind that has entered into equal taste?",
+   "premises": [
+    "A purified mind enters a state of equal taste.",
+    "That state takes the form of pure consciousness alone.",
+    "Such a form is said to come into being."
+   ],
+   "inference": "For the mind of equal taste, a form consisting of pure consciousness alone comes into being.",
+   "uncertainties": [
+    "Degree of identity between mind and the form remains ambiguous."
+   ],
+   "plain_english": "A purified mind that has entered into equal taste gives rise to a form consisting of pure consciousness alone."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "evaradābhayāmṛtakalaśapūrṇendukaratā",
+     "gloss": "thus-fearless-nectar-pot-full-moon-hand",
+     "grounds": "fused iconographic description of a hand bearing the described items",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What iconographic form is indicated by a hand bearing a full moon-like pot of fearless nectar in this manner?",
+   "premises": [
+    "The description refers to a single hand as its locus.",
+    "Multiple items are fused into one iconographic form.",
+    "The form is presented as the object indicated here."
+   ],
+   "inference": "A hand bearing a pot of fearless nectar, full like the moon, is indicated as the form in view.",
+   "uncertainties": [
+    "Internal sandhi of the fused form limits syntactic parsing without expanding the token."
+   ],
+   "plain_english": "A hand bearing a pot of fearless nectar, full like the moon, is indicated here."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "upacaryate'nenetyupacāraḥ",
+     "gloss": "worshipped-by-this-thus-worship",
+     "grounds": "etymological definition linking action to the term upacāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kusumanaivedyādi",
+     "gloss": "flower-food-offering-etc",
+     "grounds": "examples of items used in that worship",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what items is worship defined as being performed in this context?",
+   "premises": [
+    "Worship is defined as that which is performed by this means.",
+    "Flowers, food offerings, and the like are given as examples.",
+    "The term denotes the act performed with such items."
+   ],
+   "inference": "Worship is defined as the act performed by means of flowers, food offerings, and similar items.",
+   "uncertainties": [
+    "The precise referent of 'anena' is not recoverable from these tokens alone."
+   ],
+   "plain_english": "Worship is defined as what is done by this means—namely, flowers, food offerings, and the like."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "utpannaṃ",
+     "gloss": "produced",
+     "grounds": "state of coming into being",
+     "morph": "n.nom.sg.ppp/ut-pad"
+    },
+    {
+     "surface": "samullasitamamṛtaṃ",
+     "gloss": "blossomed-nectar",
+     "grounds": "description of nectar in a blossomed state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "qualifier of the virility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāktaṃ",
+     "gloss": "śākta",
+     "grounds": "affiliation of the virility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīryam",
+     "gloss": "virility",
+     "grounds": "subject produced and described",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is described as the supreme Śākta virility that has been produced and has blossomed as nectar?",
+   "premises": [
+    "A virility is said to be produced.",
+    "That virility is described as blossomed nectar.",
+    "It is further qualified as supreme and Śākta."
+   ],
+   "inference": "The supreme Śākta virility, produced and blossomed as nectar, is the object described.",
+   "uncertainties": [
+    "Technical force of 'śākta' here remains to be fixed by wider context."
+   ],
+   "plain_english": "The supreme Śākta virility has been produced and has blossomed forth as nectar."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "kṛpālutvāt",
+     "gloss": "compassion-from",
+     "grounds": "ablative causal ground",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what ground is the action or state in view said to arise?",
+   "premises": [
+    "An ablative of compassion is given.",
+    "It functions as a causal ground for what follows.",
+    "No other explicit agent is present in this token."
+   ],
+   "inference": "Compassion is given as the causal ground for the matter under discussion.",
+   "uncertainties": [
+    "Syntactic attachment to adjacent verses is required to specify the resultant action."
+   ],
+   "plain_english": "It arises from compassion."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "mānasaistattatsiddhyucitaiḥ",
+     "gloss": "mental-such-such-siddhi-fit",
+     "grounds": "instrumental means qualified as mental and fit for respective siddhis",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what means are the respective siddhis said to be attained in this context?",
+   "premises": [
+    "The means are described as mental.",
+    "They are qualified as fit for such and such siddhis.",
+    "They function instrumentally."
+   ],
+   "inference": "Attainment is said to occur by mental means fit for the respective siddhis.",
+   "uncertainties": [
+    "The list of siddhis is not present in these tokens and must come from context."
+   ],
+   "plain_english": "By mental means fit for each respective siddhi."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusive marker",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pratyabhijñoktanītyā",
+     "gloss": "recognition-stated-rule-by",
+     "grounds": "instrumental of authority for the division",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tritvena",
+     "gloss": "trinity-by",
+     "grounds": "instrumental ground of division into three",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vibhaktamityarthaḥ",
+     "gloss": "divided-thus-meaning",
+     "grounds": "definition of meaning as division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "According to the rule stated in recognition doctrine, by what means is division said to occur and what is its meaning?",
+   "premises": [
+    "A concluding marker indicates closure of a statement.",
+    "The rule stated in the recognition doctrine is given as authority.",
+    "Division is said to occur by means of a trinity, and that division is the meaning."
+   ],
+   "inference": "Thus, by the rule stated in the recognition doctrine, it is divided by a trinity; such division is the meaning.",
+   "uncertainties": [
+    "The referent divided is not present among these tokens."
+   ],
+   "plain_english": "Thus, according to the rule stated in the recognition doctrine, it is divided by the trinity—that division is the meaning."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "sudhūpitaṃ",
+     "gloss": "well-incensed",
+     "grounds": "past state of the object prepared",
+     "morph": "n.acc.sg.ppp"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolute participle of preparation",
+     "morph": "indecl.abs./kṛ"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "gloss of the preceding statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "contrastive item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "spaṣṭam",
+     "gloss": "clear",
+     "grounds": "predicate of clarity for the rest",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of having prepared something by well-incensing it, and what remains clear by contrast?",
+   "premises": [
+    "Preparation is done by well-incensing the object.",
+    "The meaning of that statement is given as such.",
+    "Something else is stated and is clear by contrast."
+   ],
+   "inference": "The meaning is 'having made it well-incensed'; the rest is clear as something other.",
+   "uncertainties": [
+    "The object incensed and the contrasted item are not specified by these tokens alone."
+   ],
+   "plain_english": "Having made it well-incensed—that is the meaning; the rest is clear as something else."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "miśraiḥ",
+     "gloss": "mixed",
+     "grounds": "instrumental qualifier of forms",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sitalohitācchādirūpaiḥ",
+     "gloss": "white-red-transparent-form",
+     "grounds": "fused description of mixed forms used instrumentally",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what kinds of forms is the action in view performed?",
+   "premises": [
+    "Forms are described as mixed.",
+    "They are further described as white, red, and transparent in form.",
+    "They function instrumentally in the action."
+   ],
+   "inference": "The action is performed by means of mixed forms that are white, red, and transparent.",
+   "uncertainties": [
+    "Syntactic attachment to the procedure is not recoverable from these two tokens alone."
+   ],
+   "plain_english": "By means of mixed forms, white, red, and transparent."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "yasyāstām",
+     "gloss": "whose-of-her-them",
+     "grounds": "relative-pronominal reference to two items belonging to her",
+     "morph": "f.gen.sg + pron.acc.du"
+    }
+   ],
+   "question": "Whose two items are referred to in this relative construction?",
+   "premises": [
+    "A feminine relative refers to a possessor.",
+    "Two items are indicated as belonging to her.",
+    "The construction is pronominal and dependent on context."
+   ],
+   "inference": "Two items belonging to a feminine referent are indicated by this relative construction.",
+   "uncertainties": [
+    "The referent and the two items are not present in this token alone."
+   ],
+   "plain_english": "Of her whose two [items]—[they are referred to here]."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "castvarthe",
+     "gloss": "cast-for-purpose",
+     "grounds": "fused locative/compound indicating purpose for casting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ayute",
+     "gloss": "ten-thousand",
+     "grounds": "numerical locative setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśasāhasre",
+     "gloss": "ten-thousand",
+     "grounds": "numerical locative setting in alternative form",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what numerical setting is the casting for a purpose said to take place?",
+   "premises": [
+    "Casting is indicated as done for a purpose.",
+    "A setting of ten thousand is given.",
+    "An alternative form of ten thousand is also given as a locative setting."
+   ],
+   "inference": "The casting for a purpose is set in a context of ten thousand, or equivalently ten thousand.",
+   "uncertainties": [
+    "The object cast and the agent are not recoverable from these tokens alone; 'cast' is taken from the fused form as given."
+   ],
+   "plain_english": "For the purpose of casting, in ten thousand, or in ten thousand."
+  }
+ ]
+}
