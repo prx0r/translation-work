@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[in-bliss-tantra](ānaṃdataṃtre) [and](ca) [indeed](eva) [in-this](asmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
+joy-tantra-in-this-four-supreme-declared
 
 ## mukta-m0-p23-v552
-[therefore](tasmāt) [four](catvāraḥ) [illuminations](ullāsāḥ) [here](iha) [spoken](proktāḥ) [O-great-lady](maheśvari)
+therefore-four-illuminations-here-declared-great-lady
 
 ## mukta-m0-p23-v553
-[therefore](tasmāt) [bliss](ānaṃda) [of-worship](pūjāyāḥ) [garlanded](mālaṃvyaṃte) [not](na) [three](trayaḥ)
+therefore-joy-worship-garlanded-not-three
 
 ## mukta-m0-p23-v554
-[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyām) [contemplate](parāmṛśet)
+thus-thus-supreme-joy-lord-knowledge-touch
 
 ## mukta-m0-p23-v555
-[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttim) [guru](guruṃ) [remember](smaret)
+messenger-kindled-self-joy-form-guru-remember
 
 ## mukta-m0-p23-v556
-[at-twelfth-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [place](vinikṣipet)
+twelve-end-gone-red-white-foot-place
 
 ## mukta-m0-p23-v557
-[śiva-sovereignty](śivatvasāmrājya) [foot](pada) [anointed](abhiṣiktaṃ) [own](svaṃ) [contemplate](viciṃtayet)
+shiva-sovereignty-abhisheka-own-contemplate
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [each-limb](pratyaṃgamaṃ) [sprout](aṃkūra) [danaṃ](danaṃ) [guru-mind](gottuṃgamānasaḥ)
+seeing-each-limb-sprout-desire-mind
 
 ## mukta-m0-p23-v559
-[as](yathā) [youth](yauvanam) [illumination](ullāsaṃ) [obtains](saṃprāpnoti) [mother](aṃba) [messenger](dūtikā)
+as-youth-illumination-obtain-mother-messenger
 
 ## mukta-m0-p23-v560
-[by-looking](ālokaneratiḥ) [direct](sākṣāt) [smile](smite) [awakens](jāgarti) [Jāhnavī](jāhnavī)
+gaze-delight-directly-smile-awake-jahnavi
 
 ## mukta-m0-p23-v561
-[Aśvins](aśvinau) [nose-region](nāsikābhāge) [and](ca) [lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
+ashvins-nose-part-and-lip-supreme-nectar
 
 ## mukta-m0-p23-v562
-[in-sweat](svede) [Vāruṇī-goddess](vāruṇī-devī) [desire-lord](kāmanāthaḥ) [I](ahaṃ) [in-act](kṛtau)
+sweat-varuni-goddess-desire-lord-i-action
 
 ## mukta-m0-p23-v563
-[in-two-breasts](stanadvaye) [Meru-mountain](merugiriḥ) [silent](niḥśabdaṃ) [in-Brahma-middle](brahmamadhyame)
+breasts-meru-mountain-silent-brahma-middle
 
 ## mukta-m0-p23-v564
-[in-three-folds](valitraye) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
+three-folds-three-worlds-navel-cave-ambika
 
 ## mukta-m0-p23-v565
-[in-nails](nakheṣu) [cool](śītāṃ) [śu](śu) [kalā](kalā) [arm-root](dormmūle) [goad-deity](kuśadevatāḥ)
+nails-cool-beautiful-rays-arm-root-goad-deities
 
 ## mukta-m0-p23-v566
-[Kāverī](kāverī) [indeed](caiva) [in-breath](niśvāse) [Godā](godā) [as](sīt) [karma](karmaṇi)
+kaveri-indeed-exhalation-godasi-action-work
 
 ## mukta-m0-p23-v567
-[in-pure-saliva-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
+pure-lips-deeds-mind-rest-leader
 
 ## mukta-m0-p23-v568
-[speech-lord](vākptiḥ) [pleasant-huṃ-sound](sukhahuṃkāre) [Gīṣpati](gīṣpatī) [kākuka-sound](kākukādhvanau)
+speech-power-sukha-hum-sound-gishpati-cuckoo-sound
 
 ## mukta-m0-p23-v569
-[Indra](iṃdraḥ) [mind-elevation](cittasamunnatyām) [Agni](agniḥ) [substance](vastu) [grasps](grasītviṣi)
+indra-mind-elevation-fire-substance-devour-light
 
 ## mukta-m0-p23-v570
-[in-hand-movement](hastādicālane) [sacrifice](yajñaḥ) [in-embrace](āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
+hands-etc-movement-sacrifice-embrace-sacrificial-person
 
 ## mukta-m0-p23-v571
-[lāsya](lāsyaṃ) [and](ca) [tāṇḍava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyāḥ) [body-etc](dehādi) [whirling](ghūrṇane)
+lasya-and-tandava-goddess-her-body-etc-whirling
 
 ## mukta-m0-p23-v572
-[those](tāni) [all](sarvāṇi) [occur](varttate) [of-her](tasyāḥ) [mouthful-substance](gaṃḍūṣavastuni)
+those-all-exist-her-cheek-mouth-object
 
 ## mukta-m0-p23-v573
-[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
+that-fruit-obtain-messenger-nectar-mouthful-taking
 
 ## mukta-m0-p23-v574
-[mouthful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [of-hero](vīrasya) [bliss](ānaṃda) [increasing](varddhanam)
+mouthful-first-goddess-hero-joy-increase
 
 ## mukta-m0-p23-v575
-[ever-wet](nityaklinnā) [nectar-goddess](sudhā-devī) [pleasure](rati) [love](prītiḥ) [and](ca) [in-that-place](tadbhage)
+ever-wet-nectar-goddess-rati-delight-and-that-place

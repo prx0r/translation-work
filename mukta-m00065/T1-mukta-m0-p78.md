@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[in-kingdom](rāṣṭre) [prosperity](subhikṣam) [health](ārogyaṃ) [make](kuryāt) [thieves-etc](caurādi) [destruction](nāśanam)
+rāṣṭre(in-kingdom) subhikṣam(abundance) ārogyam(health) kuryāt(make) caurādi(thief-etc) nāśanam(destruction)
 
 ## mukta-m0-p78-v1927
-[founder](sthāpakasya) [always](sadā) [increase](vṛddhiḥ) [and](ye) [there](tatra) [dependents](upajīvinaḥ)
+sthāpakasya(of-installer) sadā(always) vṛddhiḥ(growth) ye(who) ca(and) tatra(there) upajīvinaḥ(living-by)
 
 ## mukta-m0-p78-v1928
-[artisans](śilpinaḥ) [workers](karmakartāraḥ) [all](sarve) [go](yānti) [to-shiva-temple](śivālayam)
+śilpinaḥ(artisans) karmakartāraḥ(workers) sarve(all) yānti(go) śivālayam(Shiva-temple)
 
 ## mukta-m0-p78-v1929
-[enjoyment-liberation-giving](bhuktimuktipradaṃ) [known](jñeyam) [otherwise](anyathā) [however](tu) [reverse](viparyayaḥ)
+bhukti-mukti-pradam(enjoyment-liberation-giving) jñeyam(to-be-known) anyathā(otherwise) tu(but) viparyayaḥ(opposite)
 
 ## mukta-m0-p78-v1930
-[then](tataḥ) [caṇḍeśvara](caṇḍeśvaraṃ) [god](devaṃ) [install](sthāpayet) [by-rite](vidhinā) [guru](guruḥ)
+tataḥ(then) caṇḍeśvaram(Chandeshvara) devam(god) sthāpayet(install) vidhinā(by-rite) guruḥ(teacher)
 
 ## mukta-m0-p78-v1931
-[with-rocanā](rocanayā) [eye-disease-destroying](akṣirogaghnaḥ) [with-fruit-offering](phalijyāṃ) [dear](priyaṅkaraḥ)
+rocanayā(with-rochana) akṣi-roga-ghnaḥ(eye-disease-destroying) phalijyām(offering) ca(and) priyaṅkaraḥ(pleasing)
 
 ## mukta-m0-p78-v1932
-[nāgapuṣpa](nāgapuṣpaṃ) [for-prosperity](subhikṣāya) [seven-days](saptāhaṃ) [and](ca) [fruit](phalaṃ) [in-order](kramāt)
+nāgapuṣpam(Naga-flower) subhikṣāya(for-abundance) saptāham(seven-days) ca(and) phalam(fruit) kramāt(successively)
 
 ## mukta-m0-p78-v1933
-[sandal-agaru-camphor-saffron-etc](candanāgurukapūrakuṅkumādyaiḥ) [anointing](ca) [lepanam](lepanam)
+candana-aguru-kapūra-kuṅkuma-ādyaiḥ(with-sandal-aloes-camphor-saffron-etc) ca(and) lepanam(anointing)
 
 ## mukta-m0-p78-v1934
-[with-goat-ghee](ajena) [rocanā](rocanāṃ) [and](ca) [eva](eva) [mirror](darpaṇaṃ) [by-man](puruṣeṇa) [tu](tu)
+ajena(by-goat) rocanām(rochana) ca-eva(and-indeed) darpaṇam(mirror) puruṣeṇa(by-man) tu(but)
 
 ## mukta-m0-p78-v1935
-[bracelet](kaṭakaṃ) [waist-cord](kaṭisūtraṃ) [ca](ca) [silk-band](paṭṭabandhaṃ) [ca](ca) [whatever](yadbhavet)
+kaṭakam(bracelet) kaṭisūtram(waist-cord) ca(and) paṭṭabandham(silk-band) ca(and) yat(which) bhavet(may-be)
 
 ## mukta-m0-p78-v1936
-[sometimes](kvacit) [by-that](tena) [eva](eva) [with-secrets](guhyair) [vā](vā) [all](sarvāṇi) [etāni](etāni) [dāyayet](dāyayet)
+kvacit(sometimes) tena-eva(by-that-indeed) guhyaiḥ(secretly) vā(or) sarvāṇi(all) etāni(these) dāyayet(should-give)
 
 ## mukta-m0-p78-v1937
-[bowing](praṇamya) [staff-like](daṇḍavad) [bhamau](bhamau) [slowly](śanair) [go](gacchet) [circumambulate](pradakṣiṇam)
+praṇamya(bowing) daṇḍavad(like-staff) bhamau? śanair(slowly) gacchet(should-go) pradakṣiṇam(circumambulation)
 
 ## mukta-m0-p78-v1938
-[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [vā](vā) [api](api) [from-ignorance](ajñānāt) [from-knowledge](jñānataḥ) [done](kṛtam)
+sukṛtam(good-deed) duṣkṛtam(bad-deed) vā-api(or-even) ajñānāt(from-ignorance) jñānataḥ(from-knowledge) kṛtam(done)
 
 ## mukta-m0-p78-v1939
-[at-that-time](tasminkāle) [to-be-given](pradātavyā) [fee](dakṣiṇā) [to-shiva-yogin](śivayogine)
+tasmin-kāle(at-that-time) pradātavyā(to-be-given) dakṣiṇā(fee) śiva-yogine(to-Shiva-yogi)
 
 ## mukta-m0-p78-v1940
-[to-son](putrakāya) [half](ardhato) [deyā](deyā) [to-initiates](samayibhyaḥ) [ca](ca) [pādikā](pādikā)
+putrakāya-ardhataḥ(half-of-son's-body) deyā(to-be-given) samayibhyaḥ(to-initiates) ca(and) pādikā(quarter)
 
 ## mukta-m0-p78-v1941
-[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyo) [give](dadyāt) [gift](dānaṃ) [as-rite](yathāvidhi)
+yathāśakti(according-to-ability) dvijātibhyaḥ(to-twice-born) dadyāt(should-give) dānam(gift) yathāvidhi(according-to-rite)
 
 ## mukta-m0-p78-v1942
-[musicians](tauryikān) [singers](gāyakān) [dancers](nartṛn) [with-sound](nādyena) [tu](tu) [please](toṣayet)
+tauryikān(musicians) gāyakān(singers) nartṛn(dancers) nādyena(with-music) tu(but) toṣayet(should-please)
 
 ## mukta-m0-p78-v1943
-[one-night](ekarātraṃ) [three-nights](trirātraṃ) [vā](vā) [seven-nights](saptarātram) [atha](atha) [api](api) [vā](vā)
+ekarātram(one-night) trirātram(three-nights) vā(or) saptarātram(seven-nights) atha-api(or-also) vā(or)
 
 ## mukta-m0-p78-v1944
-[purification](śuddhiṃ) [of-men-etc](pumādibhyaḥ) [by-day](divā) [knowledge-etc](vidyādi) [hundred-times](śatāvṛtam)
+pumādibhyaḥ(to-men-etc) divāśuddhim(day-purification) vidyādi(knowledge-etc) tat(that) śatāvṛtam(hundred-fold)
 
 ## mukta-m0-p78-v1945
-[firm](sthirā)
+sthirā(firm)
 
 ## mukta-m0-p78-v1946
-[quarter-parts](yugabhāgāḥ) [four-directions](caturdikṣu) [having-removed](luptvā) [one-by-one](ekaikaṃ) [tu](tu) [from-corner](koṇataḥ)
+yuga-bhāgāḥ(age-parts) catur-dikṣu(in-four-directions) luptvā(having-erased) ekaikam(one-by-one) tu(but) koṇataḥ(from-corner)
 
 ## mukta-m0-p78-v1947
-[to-be-placed](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [with-union](tatsaṅgayā) [by-rite](bhirvidhānataḥ)
+sthāpyāni(to-be-installed) teṣu(in-those) liṅgāni(lingas) tat-saṅgayābhiḥ(with-that-association) vidhānataḥ(by-rite)
 
 ## mukta-m0-p78-v1948
-[of-inferior](hīnānāṃ) [tu](tu) [rite](vidhiḥ) [svāyaṃ](svāyaṃ) [of-superior](jyeṣṭhānāṃ) [installation-first](sthitipūrvakam)
+hīnānām(of-inferior) tu(but) vidhiḥ(rite) śvāyam? jyeṣṭhānām(of-superior) sthiti-pūrvakam(preceded-by-establishment)
 
 ## mukta-m0-p78-v1949
-[there](tatra) [bring](ānayet) [great-liṅga](mahāliṅgaṃ) [by-yantra-yoga](yantrayogena) [wise](buddhimān)
+tatra(there) ānayet(should-bring) mahāliṅgam(great-linga) yantra-yogena(by-yantra-yoga) buddhimān(wise)
 
 ## mukta-m0-p78-v1950
-[in-middle](madhye) [ca](ca) [eight-juices](aṣṭārasaṃyuktaṃ) [firm-wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
+madhye(in-middle) ca(and) aṣṭāra-saṃyuktam(eight-spoked-joined) dṛḍha-kāṣṭhena(with-firm-wood) maṇḍitam(adorned)
