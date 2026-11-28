@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[citte](citte) [iti](iti) [padaṃ](padaṃ) [procya](procya) [retas](retas) [muṃcat](muṃcat) [dvayaṃ](dvayaṃ) [vadet](vadet)
+[in-mind](citte) [thus](iti) [word](padaṃ) [having-spoken](procya) [semen](reto) [releasing-two](muṃcadvayaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p37-v902
-[evaṃ](evaṃ) [mantraṃ](maṃtraṃ) [japan](japan) [eva](eva) [liṃga](liṃga) [tāṃḍavaṃ](tāṃḍavaṃ) [ācaret](ācaret)
+[thus](evaṃ) [mantra](maṃtraṃ) [while-reciting](japanneva) [linga-dance](liṃgatāṃḍavam) [one-should-practice](ācaret)
 
 ## mukta-m0-p37-v903
-[sphurat](sphurat) [gupi](gupi) [gupit](gupit) [kāraṃ](kāraṃ) [vimuṃcati](vimuṃcati) [parāmṛtaṃ](parāmṛtam)
+[pulsating-secret-act](sphuradgupigupitkāraṃ) [releases](vimuṃcati) [supreme-nectar](parāmṛtam)
 
 ## mukta-m0-p37-v904
-[yamunā](yamunā) [salilaiḥ](salilair) [īśāḥ](īśāḥ) [saṃśeka](saṃśeka) [phalaṃ](phalaṃ) [aśnute](aśnute)
+[with-yamuna-waters](yamunāsalilair) [lords](īśāḥ) [sprinkling-fruit](saṃśekaphalam) [obtains](aśnute)
 
 ## mukta-m0-p37-v905
-[datte](datte) [paśupata](paśupata) [tvaṃ](tvaṃ) [ca](ca) [yajamāna](yajamāna) [mayīṃ](mayīṃ) [sthitim](sthitim)
+[gives](datte) [paśupati-hood](paśupatatvaṃ) [and](ca) [sacrificer-formed](yajamānamayīṃ) [state](sthitim)
 
 ## mukta-m0-p37-v906
-[sarveṣāṃ](sarveṣāṃ) [eva](eva) [mantrāṇāṃ](maṃtrāṇāṃ) [svayam](svayam) [eva](eva) [prakāśatā](prakāśatā)
+[of-all](sarveṣām) [thus-mantras](evamaṃtrāṇāṃ) [by-itself](svayameva) [manifestation](prakāśatā)
 
 ## mukta-m0-p37-v907
-[kavitvasya](kavitvasya) [parā](parā) [kāṣṭhā](kāṣṭhā) [rasa](rasa) [saubhāgya](saubhāgya) [śālinī](śālinī)
+[of-poetry](kavitvasya) [supreme-limit](parākāṣṭhā) [rasa-fortune-possessing](rasasaubhāgyaśālinī)
 
 ## mukta-m0-p37-v908
-[pravṛttiṃ](pravṛttiṃ) [ca](ca) [nivṛttiṃ](nivṛttiṃ) [ca](ca) [bhūtānāṃ](bhūtānām) [iva](iva) [sarvaśaḥ](sarvaśaḥ)
+[activity](pravṛttiṃ) [and](ca) [cessation](nivṛttiṃ) [and](ca) [of-beings](bhūtānām) [as-if](iva) [wholly](sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-[rasa](rasa) [siddhiṃ](siddhiṃ) [pādukāyāḥ](pādukāyāḥ) [siddhiṃ](siddhiṃ) [nidhi](nidhi) [aṃjanaṃ](aṃjanaṃ) [tathā](tathā)
+[rasa-accomplishment](rasasiddhiṃ) [of-sandal](pādukāyāḥ) [accomplishment](siddhiṃ) [eye-salve](nidhyaṃjanaṃ) [and](tathā)
 
 ## mukta-m0-p37-v910
-[ākāśa](ākāśa) [gamane](gamane) [ca](ca) [eva](eva) [para](para) [kāya](kāya) [praveśane](praveśane)
+[sky-going](ākāśagamane) [and](caiva) [other-body](parakāya) [entering](praveśane)
 
 ## mukta-m0-p37-v911
-[pratimā](pratimā) [calane](calane) [ca](ca) [eva](eva) [bhūta](bhūta) [vetāla](vetāla) [vīkṣaṇe](vīkṣaṇe)
+[image-moving](pratimācalane) [and](caiva) [spirit-vetala](bhūtavetāla) [seeing](vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-[pāṭavaṃ](pāṭavaṃ) [paramaṃ](paramaṃ) [ghatte](ghatte) [saptama](saptama) [āhuti](āhuti) [sādhakaḥ](sādhakaḥ)
+[skill](pāṭavaṃ) [supreme](paramaṃ) [obtains](ghatte) [seventh-offering](saptamāhuti) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p37-v913
-[mahā](mahā) [liṃga](liṃga) [maheśāna](maheśāna) [svarasaiḥ](svarasaiḥ) [cāṃdra](cāṃdra) [caṃdrikaiḥ](caṃdrikaiḥ)
+[great-linga-great-lord](mahāliṃgamaheśāna) [with-own-juices-and-moon-rays](svarasaiścāṃdracaṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[saptakūpa](saptakūpa) [āraparyaṃta](āraparyaṃta) [vāpi](vāpi) [kīrti](kīrti) [vivardhanī](vivardhanī)
+[seven-wells-boundary](saptakūpāraparyaṃta) [pond-fame](vāpikīrti) [increasing](vivardhanī)
 
 ## mukta-m0-p37-v915
-[etad](etad) [āhuti](āhuti) [velāyāṃ](velāyāṃ) [dūtikā](dūtikā) [va](va) [sthitim](sthitim) [bruve](bruve)
+[this-offering](etadāhuti) [at-time](velāyāṃ) [messenger](dūtikā) [indeed](va) [state](sthitiṃ) [I-say](bruve)
 
 ## mukta-m0-p37-v916
-[ānaṃda](ānaṃda) [sukha](sukha) [saṃbhārāt](saṃbhārāt) [ati](ati) [maṃthara](maṃthara) [tā](tā) [tanau](tanau)
+[bliss](ānaṃda) [pleasure-abundance](sukhasaṃbhārād) [ati](ati) [slow-body](maṃtharatātanau)
 
 ## mukta-m0-p37-v917
-[mahā](mahā) [ānaṃda](ānaṃda) [payorāśau](payorāśau) [majjanaṃ](majjanaṃ) [tu](tu) [kṣaṇe](kṣaṇe) [kṣaṇe](kṣaṇe)
+[great-bliss-milk-ocean](mahānaṃdapayorāśau) [immersion](majjanaṃ) [indeed](tu) [moment](kṣaṇe) [moment](kṣaṇe)
 
 ## mukta-m0-p37-v918
-[ramaṇasya](ramaṇasya) [bhujā](bhujā) [śleṣaṃ](śleṣaṃ) [kiṃcit](kiṃcit) [ślathanatā](ślathanatā) [tathā](tathā)
+[of-lover](ramaṇasya) [arm](bhujā) [embrace](śleṣaṃ) [somewhat](kiṃcit) [loosening](chlathanatā) [and](tathā)
 
 ## mukta-m0-p37-v919
-[nitaṃba](nitaṃba) [biṃbakaṃ](biṃbakaṃ) [paścāt](paścāt) [kāma](kāma) [chatrasya](chatrasya) [narttanam](narttanam)
+[buttock-orb](nitaṃbabiṃbakaṃ) [afterwards](paścāt) [of-love-umbrella](kāmacchatrasya) [dancing](narttanam)
 
 ## mukta-m0-p37-v920
-[vaco](vaco) [vicchinna](vicchinna) [vicchinna](vicchinna) [punar](punar) [uktaṃ](uktaṃ) [ca](ca) [bhūyasā](bhūyasā)
+[speech-interrupted](vacovicchinna) [interrupted-repeated](vicchinnapunaruktaṃ) [and](ca) [again](bhūyasā)
 
 ## mukta-m0-p37-v921
-[asaṃbaṃdha](asaṃbaṃdha) [artha](artha) [naṃ](naṃ) [kiṃcit](kiṃcit) [kiṃcit](kiṃcit) [śuṣkaṃ](śuṣkaṃ) [ca](ca) [rodanam](rodanam)
+[unrelated-meaning](asaṃbaṃdhārthanaṃ) [somewhat](kiṃcit) [somewhat-dry](kiṃcicchuṣkaṃ) [and](ca) [weeping](rodanam)
 
 ## mukta-m0-p37-v922
-[alaṃ](alaṃ) [nātha](nātha) [namas](namas) [tubhyaṃ](tubhyaṃ) [punar](punar) [teracita](teracita) [oṃjaliḥ](oṃjaliḥ)
+[enough](alaṃ) [lord](nātha) [salutation-to-you](namastubhyaṃ) [again](punar) [folded-hands](teracitoṃjaliḥ)
 
 ## mukta-m0-p37-v923
-[na](na) [sahe](sahe) [bhavataḥ](bhavataḥ) [vegaṃ](vegaṃ) [na](na) [sahe](sahe) [bhavataḥ](bhavataḥ) [ratim](ratim)
+[not](na) [I-endure](sahe) [your](bhavato) [force](vegaṃ) [not](na) [I-endure](sahe) [your](bhavato) [passion](ratim)
 
 ## mukta-m0-p37-v924
-[kim](kim) [arthaṃ](arthaṃ) [māṃ](māṃ) [rasa](rasa) [droṇyāṃ](droṇyāṃ) [majjayasi](majjayasi) [eva](eva) [nirghṛṇā](nirghṛṇā)
+[why](kimarthaṃ) [me](māṃ) [in-flesh-trough](rasadroṇyāṃ) [you-drown](majjayasi) [thus](eva) [cruel](nirghṛṇā)
 
 ## mukta-m0-p37-v925
-[khādāmi](khādāmi) [kiṃ](kiṃ) [te](te) [sarvāṃgaṃ](sarvāṃgaṃ) [muṃca](muṃca) [māṃ](māṃ) [muṃca](muṃca) [vallabha](vallabha)
+[I-eat](khādāmi) [what](kiṃ) [your](te) [whole-body](sarvāṃgaṃ) [release-me](muṃcamāṃ) [release-beloved](muṃcavallabha)
