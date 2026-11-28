@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-rice](sākṣataṃ) [and](ca) [sacred-thread](pavitrakam)
+[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-unbroken-rice](sākṣataṃ) [and](ca) [purificatory-thread](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[śiva](śivaṃ) [should-offer](nivedayet) [on-head](mūrdhni) [by-recaka-made-nectar](recakenāmṛtīkṛtam)
+[śiva](śivaṃ) [should-offer](nivedayet) [on-head](mūrdhni) [by-recaka](recakena) [made-nectar](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-[morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [should-do](kuryāt) [according-to-own-wealth](svavittataḥ)
+[morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [should-do](kuryāt) [according-to-wealth](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-intervals](jalāntaraiḥ) [sprinkling](virukṣaṇam)
+[with-five](pañcabhiḥ) [sweet-substances](madhuraiḥ) [bathing](snānaṃ) [with-water-intervals](jalāntaraiḥ) [drying](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[eight-angled](aṣṭāṅgaḥ) [argha](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [should-worship](prapūjayet)
+[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-offered](pradāya) [then](atha) [having-anointed](samālabhya) [should-worship-fully](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
+[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [pots](ghaṭa) [fly-whisks](cāmara) [ornaments](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[with-banana-mango-garlands](kadalīcūtamālābhiḥ) [with-born-seed-delightful](jātabījasarocakaiḥ)
+[banana](kadalī) [mango](cūta) [with-garlands](mālābhiḥ) [sprouted-seeds](jātabīja) [with-relish](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[with-dance-songs](nṛtyagītaiḥ) [pleasant](kalaiḥ) [with-instruments](vādyaiḥ) [should-lead](nayet) [night](rātriṃ) [with-great-festivals](mahotsavaiḥ)
+[dance](nṛtya) [songs](gītaiḥ) [arts](kalaiḥ) [instruments](vādyaiḥ) [should-spend](nayet) [night](rātriṃ) [with-great-festivals](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[with-devotion](bhaktyā) [should-satisfy](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
+[with-devotion](bhakttyā) [should-please](santoṣayet) [all](sarvān) [cloth-gifts](vastradāna) [etc](ādi) [with-food](bhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[freed-from-all-sins](sarvapāpavinirmuktaḥ) [in-Rudra-world](rudraloke) [is-honored](mahīyate)
+[all-sins](sarvapāpa) [freed](vinirmuktaḥ) [in-rudra's-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p123-v3061
-[bed-sleeping-false-speech](khaṭvāśayanamithyokti) [women-travel-meat-avoider](strīyātrāmiṣavarjakaḥ)
+[cot](khaṭvā) [sleeping](śayana) [false-speech](mithyokti) [women](strī) [travel](yātrā) [pretext](miṣa) [avoiding](varjakaḥ)
 
 ## mukta-m0-p123-v3062
-[worship](pūjāṃ) [having-done](kṛtvā) [Śiva](śivaṃ) [having-bowed](natvā) [sacred-thread](pavitraṃ) [and](ca) [should-dismiss](visarjayet)
+[worship](pūjāṃ) [having-done](kṛtvā) [śiva](śivaṃ) [having-bowed](natvā) [thread](pavitraṃ) [and](ca) [should-release](visarjayet)
 
 ## mukta-m0-p123-v3063
-[having-done](kṛtvā) [should-throw](kṣipet) [sacred-threads](pavitrāṇi) [in-Śiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
+[having-done](kṛtvā) [should-throw](kṣipet) [threads](pavitrāṇi) [in-śiva's-fire](śivāgnau) [or](vā) [in-pure-water](sadāmbhasi)
 
 ## mukta-m0-p123-v3064
-[becomes](syāt) [atonement-descending](prāyaścittyadhogāmī) [done](kṛtaḥ) [Rudra](rudraḥ) [year](abda) [crores](koṭiśaḥ)
+[would-be](syāt) [penance](prāyaścitta) [going-down](adhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [year](abda) [crores](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[copper-liṅga-worship-sun](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
+[copper](tāmra) [liṅga](liṅga) [by-worship](arcanāt) [sun](arkaḥ) [demon](piśācaḥ) [bamboo](vaṃśa) [from-origin](sambhavāt)
 
 ## mukta-m0-p123-v3066
-[lead-born](sīsajāḥ) [Yakṣas](guhyakāḥ) [all](sarve) [iron-demon-asura-destroyers](lohādrakṣo'surāntakāḥ)
+[lead](sīsa) [born](jā) [guhyakas](guhyakāḥ) [all](sarve) [iron](loha) [rākṣasa](rakṣaḥ) [asura](asura) [destroyers](antakāḥ)
 
 ## mukta-m0-p123-v3067
-[from-ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [from-sapphire-worship](indranīlārcanāt) [Viṣṇu](hariḥ)
+[ruby](padmarāga) [fire](hutāśaḥ) [and](ca) [sapphire](indranīla) [by-worship](arcanāt) [viṣṇu](hariḥ)
 
 ## mukta-m0-p123-v3068
-[from-coral-mouth-worship](vaidrumāsyārcanāt) [serpents](nāgāḥ) [Venus](śukraḥ) [from-karketana](kārketanāt) [always](sadā)
+[coral](vaidruma) [of-this](asya) [by-worship](arcanāt) [serpents](nāgāḥ) [venus](śukraḥ) [cat's-eye](kārketana) [always](sadā)
 
 ## mukta-m0-p123-v3069
-[Paulastya](paulastyaḥ) [from-Jupiter-born](jīvajātibhyaḥ) [eight](aṣṭai) [from-ṭṭibha](ṭṭibhāt) [Siddhas-Kinnaras](siddhakinnarāḥ)
+[rāvaṇa-lineage](paulastya) [jupiter](jīva) [from-classes](jātibhyaḥ) [eight](aṣṭai) [from-ṭṭi](ṭṭibhāt) [siddhas](siddha) [kinnaras](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[Aśvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [Gandharvas](gandharvāḥ) [from-wife-birth](dārasambhavāt)
+[aśvins](aśvinau) [baked](pakva) [clay](mṛd) [from-being](bhūtāt) [gandharvas](gandharvā) [wife](dāra) [from-origin](sambhavāt)
 
 ## mukta-m0-p123-v3071
-[from-tortoise-Kauśika](kūrmakauśi) [from-Kasa](kasabhūtāt) [Vāsuki-Nayināyaka](vāsukinayināyakaḥ)
+[tortoise](kūrma) [kauśika](kauśi) [kasa](kasa) [from-being](bhūtāt) [vāsuki](vāsuki) [leader-of-nāgas](nayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-[from-liṅga-installation-worship](liṅgasaṃsthāpanārcanāt)
+[liṅga](liṅga) [installation](saṃsthāpana) [by-worship](arcanāt)
 
 ## mukta-m0-p123-v3073
 [soma-drinkers](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[various-fruit-born-liṅgas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
+[various](nānā) [fruits](phala) [arisen](uttha) [liṅgas](liṅgāni) [by-rule](vidhinā) [served](sevitāni) [and](ca)
 
 ## mukta-m0-p123-v3075
-[from-sand](saikatāt) [Viśvakarmā](viśvakarmā) [and](ca) [Śacī's-lord](śacīśaḥ) [from-salt](lavaṇāt) [born](bhavāt)
+[sand](saikata) [viśvakarmā](viśvakarmā) [and](ca) [indra](śacīśa) [salt](lavaṇa) [from-origin](bhavāt)
