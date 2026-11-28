@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃga-śakti+aṣṭau](anaṃgaśaktayoṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
+[anaṃga-śakti](anaṃgaśaktayaḥ) [aṣṭau](aṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madana-āturayā](madanāturayā) [saha](saha)
+[anaṃga](anaṃga) [madana](madana) [anaṃga](anaṃga) [madana-āturayā](madanāturayā) [saha](saha)
 
 ## mukta-m0-p18-v428
 [anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
@@ -17,16 +17,16 @@
 [taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjara](samullāsapiṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[anaṃga-śakti-saṃkṣobha](anaṃgaśaktisaṃkṣobhāṃ) [nāḍībhyaḥ](nāḍībhyo) [galita](galitaṃ) [navam](navam)
+[anaṃga-śakti-saṃkṣobha](anaṃgaśaktisaṃkṣobhāṃ) [nāḍībhyaḥ](nāḍībhyaḥ) [galita](galitaṃ) [navam](navam)
 
 ## mukta-m0-p18-v432
-[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāgā](pūrṇarāgāṃ) [kura-aruṇam](kurāruṇam)
+[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāgā](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[manmatha-drava-saṃdoha](manmathadravasaṃdoha) [juṣṭam](juṣṭam) [artha-prabhedanaiḥ](arthaprabhedanaiḥ)
+[manmatha-drava-saṃdoha](manmathadravasaṃdoha) [juṣṭa](juṣṭam) [artha-prabhedana](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[ka](keyaṃ) [caṃdra-kalā-nāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+[ka](keyaṃ) [caṃdrakalā-nāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
 [śṛṇu](śṛṇu) [kāma-kalā-nāma](kāmakalānāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
@@ -38,25 +38,25 @@
 [kāścit](kāścit) [ānaṃda-vāhinī](ānaṃdavāhinya) [eka](eka) [eva](eva) [amala-vāhinī](amalavāhinī)
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭau) [bhoga-ambu-vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra-kalā](caṃdrakalā) [parā](parā)
+[aṣṭau](aṣṭau) [bhoga-ambu-vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
 
 ## mukta-m0-p18-v439
 [caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[etā](etā) [bhoga-ambu-vāhinī](bhogāṃbuvāhinya) [sva-aṃśaiḥ](svāṃśaiḥ) [caṃdra-kalā-āśritāḥ](caṃdrakalāśritāḥ)
+[etāḥ](etābhogāṃbuvāhinya) [bhoga-ambu-vāhinī](bhogāṃbuvāhinya) [sva-aṃśaiḥ](svāṃśaiḥ) [caṃdrakalā-āśritāḥ](caṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-[pradhāna-bhūtā](pradhānabhūtā) [vilasat](vilasad) [vidyut-dāma](vidyuddāma) [sama-prabhā](samaprabhā)
+[pradhāna-bhūtā](pradhānabhūtā) [vilasad](vilasad) [vidyut-dāma](vidyuddāma) [sama-prabhā](samaprabhā)
 
 ## mukta-m0-p18-v442
 [sarva-nāḍī-mūla-bhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhi-cakra](nābhicakraṃ) [samāśritā](samāśritā)
 
 ## mukta-m0-p18-v443
-[tat](tan) [mukha-udghāṭana](mukhotghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
+[tat](tanmukhot) [mukha-udghāṭana](mukhotghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
 
 ## mukta-m0-p18-v444
-[dvi-trāṇām](dvitrāṇām) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](atha) [kauliṣu](kauliṣu)
+[dvi-trāṇām](dvitrāṇāmeva) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](atha) [kauliṣu](kauliṣu)
 
 ## mukta-m0-p18-v445
 [yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛt) [vā](vā) [api](api) [janmani](janmani)
@@ -68,10 +68,10 @@
 [samayasya](samayasya) [parijñānāt](parijñānāt) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacid](kvacid) [unmeṣaṃ](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
+[kadācit](kadācit) [kvacid](kvacid) [unmeṣa](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
 [tad-arthāni](tadarthānyeva) [eva](eva) [śāstrāṇi](śāstrāṇi) [tad-arthāḥ](tadarthāśca) [ca](ca) [pravṛttayaḥ](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[tasmāt](tasmāt) [caṃdra-kalā-nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
+[tasmāt](tasmāt) [caṃdrakalā-nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
