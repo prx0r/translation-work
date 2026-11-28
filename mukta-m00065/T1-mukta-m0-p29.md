@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[kartavyā](kartavyā) [tad](tad) [vibhāgena](vibhāgena) [pratimā](pratimā) [sā](sā) [uttamā](uttamā) [matā](matā)
+[kartavyā](kartavyā) [taddvibhāgena](taddvibhāgena) [pratimā](pratimā) [sottamā](sottamā) [matā](matā)
 
 ## mukta-m0-p29-v702
-[navāntam](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[navāntaṃ](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-[pīṭha](pīṭha) [dvāra](dvāra) [pravistāraṃ](pravistāraṃ) [mayaḥ](mayaḥ) [cakre](cakre) [svake](svake) [mate](mate)
+[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaḥ](mayaḥ) [cakre](cakre) [svake](svake) [mate](mate)
 
 ## mukta-m0-p29-v704
-[tithi](tithi) [māsana](māsana) [vat](vat) [ardhaiḥ](ardhaiḥ) [hīna](hīna) [madhya](madhya) [uttamāḥ](uttamāḥ) [tridhā](tridhā)
+[tithimāsanavatyardhaiḥ](tithimāsanavatyardhaiḥ) [hīnamadhyottamāḥ](hīnamadhyottamāḥ) [tridhā](tridhā)
 
 ## mukta-m0-p29-v705
-[paṅgu](paṅgu) [rūpāḥ](rūpāḥ) [ca](ca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāḥ) [ca](ca) [vartayet](vartayet)
+[paṅgurūpāḥ](paṅgurūpāḥ) [ca](ca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāḥ) [ca](ca) [vartayet](vartayet)
 
 ## mukta-m0-p29-v706
-[vibhajya](vibhajya) [śakti](śakti) [sūtreṇa](sūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
+[vibhajya](vibhajya) [śaktisūtreṇa](śaktisūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
 
 ## mukta-m0-p29-v707
-[pīṭha](pīṭha) [ātmā](ātmā) [āśraya](āśraya) [jīvāṃśca](jīvāṃśca) [prabhā](prabhā) [ādīṃśca](ādīṃśca) [prakalpayet](prakalpayet)
+[pīṭhātmāśrayajīvāṃśca](pīṭhātmāśrayajīvāṃśca) [prabhādīṃśca](prabhādīṃśca) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p29-v708
-[kṛtvā](kṛtvā) [adhaḥ](adhaḥ) [aṃśa](aṃśa) [gataḥ](gataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīva](jīva) [kalpanā](kalpanā)
+[kṛtvā](kṛtvā) [adhoṃśagataḥ](adhoṃśagataḥ) [pīṭhaṃ](pīṭhaṃ) [tribhāge](tribhāge) [jīvakalpanā](jīvakalpanā)
 
 ## mukta-m0-p29-v709
-[sā](sā) [ātmā](ātmā) [āśrayāṃ](āśrayāṃ) [sadūtīṃ](sadūtīṃ) [ca](ca) [pratimāṃ](pratimāṃ) [vartayet](vartayet) [tataḥ](tataḥ)
+[sātmāśrayāṃ](sātmāśrayāṃ) [sadūtīṃ](sadūtīṃ) [ca](ca) [pratimāṃ](pratimāṃ) [vartayet](vartayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p29-v710
-[bhāga](bhāga) [ekam](ekam) [aṅgulaṃ](aṅgulaṃ) [kṛtvā](kṛtvā) [mahārcāṃ](mahārcāṃ) [vatayed](vatayed) [budhaḥ](budhaḥ)
+[bhāgaikamaṅgula](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [mahārcāṃ](mahārcāṃ) [vatayed](vatayed) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p29-v711
-[eka](eka) [bhāge](bhāge) [aṅgulaṃ](aṅgulaṃ) [tasyā](tasyā) [stena](stena) [aṅgaṃ](aṅgaṃ) [parikalpayet](parikalpayet)
+[eka](eka) [bhāge](bhāge) [aṅgulaṃ](aṅgulaṃ) [tasyā](tasyā) [stenāṅgaṃ](stenāṅgaṃ) [parikalpayet](parikalpayet)
 
 ## mukta-m0-p29-v712
-[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛju](ṛju) [arcāṃ](arcāṃ) [kārayet](kārayet) [śubhām](śubhām)
+[maye](maye) [sūtraṃ](sūtraṃ) [samaṃ](samaṃ) [nyasya](nyasya) [ṛjvarcāṃ](ṛjvarcāṃ) [kārayet](kārayet) [śubhām](śubhām)
 
 ## mukta-m0-p29-v713
-[jīvasya](jīvasya) [āddhairghya](āddhairghya) [mānena](mānena) [pratyaṅgāni](pratyaṅgāni) [adhunā](adhunā) [vruve](vruve)
+[jīvasya](jīvasya) [āddairghyamānena](āddairghyamānena) [pratyaṅgāni](pratyaṅgāni) [adhunā](adhunā) [vruve](vruve)
 
 ## mukta-m0-p29-v714
-[mātrābhiḥ](mātrābhiḥ) [tithi](tithi) [saṃkhyābhiḥ](saṃkhyābhiḥ) [mukuṭa](mukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
+[mātrābhiḥ](mātrābhiḥ) [tithisaṃkhyābhiḥ](tithisaṃkhyābhiḥ) [mukuṭa](mukuṭa) [veṣṭanaṃ](veṣṭanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p29-v715
-[tāla](tāla) [mānaṃ](mānaṃ) [bhavet](bhavet) [vakraṃ](vakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
+[tālamānaṃ](tālamānaṃ) [bhaved](bhaved) [vakraṃ](vakraṃ) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
 
 ## mukta-m0-p29-v716
-[tāla](tāla) [ekaika](ekaika) [pramāṇaṃ](pramāṇaṃ) [syāt](syāt) [ūrū](ūrū) [tāla](tāla) [vinirgamau](vinirgamau)
+[tālaikaikapramāṇaṃ](tālaikaikapramāṇaṃ) [syāt](syāt) [ūrū](ūrū) [tālavinirgamau](tālavinirgamau)
 
 ## mukta-m0-p29-v717
 [jñeyau](jñeyau) [gulphau](gulphau) [dvinetrau](dvinetrau) [ca](ca) [pārṣṇī](pārṣṇī) [dvyaṅgulake](dvyaṅgulake) [mate](mate)
 
 ## mukta-m0-p29-v718
-[madhye](madhye) [kalā](kalā) [dvaya](dvaya) [ucchrāya](ucchrāya) [vagre](vagre) [sārdha](sārdha) [ardha](ardha) [mātrakau](mātrakau)
+[madhye](madhye) [kalādvayocchrāya](kalādvayocchrāya) [avagre](avagre) [sārdhārdha](sārdhārdha) [mātrakau](mātrakau)
 
 ## mukta-m0-p29-v719
-[pañcāṅgulau](pañcāṅgulau) [veṣṭanena](veṣṭanena) [sārdha](sārdha) [aṅgala](aṅgala) [dviparvaṇī](dviparvaṇī)
+[paṅcāṅgulau](paṅcāṅgulau) [veṣṭanena](veṣṭanena) [sārdhāṅgaladviparvaṇī](sārdhāṅgaladviparvaṇī)
 
 ## mukta-m0-p29-v720
-[tryaṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tu](tu) [adhunā](adhunā) [parāḥ](parāḥ)
+[tryaṅgulā](tryaṅgulā) [pariṇāhena](pariṇāhena) [kathyante](kathyante) [tu](tu) [adhunā](adhunā) [aparāḥ](aparāḥ)
 
 ## mukta-m0-p29-v721
-[pādāṅgulyaḥ](pādāṅgulyaḥ) [triparvāṇaḥ](triparvāṇaḥ) [parva](parva) [ardha](ardha) [nakha](nakha) [śobhitāḥ](śobhitāḥ)
+[pādāṅgulyaḥ](pādāṅgulyaḥ) [trīparvāṇaḥ](trīparvāṇaḥ) [parvārdhanakhaśobhitāḥ](parvārdhanakhaśobhitāḥ)
 
 ## mukta-m0-p29-v722
-[kārāṅghri](kārāṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [savonnata](savonnata) [aruṇāḥ](aruṇāḥ)
+[kārāṅghri](kārāṅghri) [talakaṃ](talakaṃ) [raktaṃ](raktaṃ) [nakhāḥ](nakhāḥ) [savonnatāruṇāḥ](savonnatāruṇāḥ)
 
 ## mukta-m0-p29-v723
 [upabāhū](upabāhū) [daśāṣṭāṃśau](daśāṣṭāṃśau) [ṣoḍaśāṅgulakau](ṣoḍaśāṅgulakau) [bhujau](bhujau)
 
 ## mukta-m0-p29-v724
-[bhūta](bhūta) [aṅgulā](aṅgulā) [bhavet](bhavet) [madhyā](madhyā) [ardha](ardha) [hīnā](hīnā) [tu](tu) [anāmikā](anāmikā)
+[bhūtāṅgulā](bhūtāṅgulā) [bhaven](bhaven) [madhyā](madhyā) [ardhahīnā](ardhahīnā) [tu](tu) [anāmikā](anāmikā)
 
 ## mukta-m0-p29-v725
-[madhyamā](madhyamā) [ādyāḥ](ādyāḥ) [triparvāṇaḥ](triparvāṇaḥ) [dviparva](dviparva) [aṅguṣṭhakaḥ](aṅguṣṭhakaḥ) [mataḥ](mataḥ)
+[madhyamādyāḥ](madhyamādyāḥ) [trīparvāṇaḥ](trīparvāṇaḥ) [dviparvāṅguṣṭhakaḥ](dviparvāṅguṣṭhakaḥ) [mataḥ](mataḥ)
