@@ -16,15 +16,19 @@
 },
 {
 "surface": "praveśena",
-"quick_gloss": "entry"
+"quick_gloss": "by-entry"
 },
 {
 "surface": "lāñchayitvā",
-"quick_gloss": "marking"
+"quick_gloss": "having-marked"
 },
 {
-"surface": "asiśātanam",
-"quick_gloss": "sword-sharpening"
+"surface": "asi",
+"quick_gloss": "is"
+},
+{
+"surface": "śātanam",
+"quick_gloss": "destruction"
 }
 ]
 },
@@ -66,7 +70,7 @@
 "tokens": [
 {
 "surface": "kṣipedvā",
-"quick_gloss": "throw-or"
+"quick_gloss": "or-throw"
 },
 {
 "surface": "śūnyadoṣaghnaṃ",
@@ -96,6 +100,14 @@
 {
 "surface": "kṣipedādye",
 "quick_gloss": "throw-in-first"
+},
+{
+"surface": "vedāṃśam",
+"quick_gloss": "Veda-part"
+},
+{
+"surface": "amarorcite",
+"quick_gloss": "god-worshipped"
 }
 ]
 },
@@ -108,11 +120,11 @@
 "tokens": [
 {
 "surface": "piṅgalāyā",
-"quick_gloss": "in-Piṅgalā's"
+"quick_gloss": "of-Piṅgalā"
 },
 {
 "surface": "mate",
-"quick_gloss": "opinion"
+"quick_gloss": "in-opinion"
 },
 {
 "surface": "proktam",
@@ -120,7 +132,7 @@
 },
 {
 "surface": "ādyāmarārcitena",
-"quick_gloss": "first-god-worship"
+"quick_gloss": "first-god-worshipped"
 },
 {
 "surface": "tu",
@@ -137,7 +149,7 @@
 "tokens": [
 {
 "surface": "bhaveyur",
-"quick_gloss": "become"
+"quick_gloss": "would-be"
 },
 {
 "surface": "vardhamānāni",
@@ -145,7 +157,7 @@
 },
 {
 "surface": "vasudviṣaṭ",
-"quick_gloss": "earth-sixty"
+"quick_gloss": "earth-six"
 },
 {
 "surface": "śatāni",
@@ -166,11 +178,11 @@
 "tokens": [
 {
 "surface": "viśvakarmamataṃ",
-"quick_gloss": "Viśvakarma's-opinion"
+"quick_gloss": "Viśvakarma-opinion"
 },
 {
 "surface": "dṛṣṭvā",
-"quick_gloss": "seeing"
+"quick_gloss": "having-seen"
 },
 {
 "surface": "vaktavyaṃ",
@@ -194,7 +206,7 @@
 "quick_gloss": "that-and"
 },
 {
-"surface": "samasamaṃ",
+"surface": "savasamaṃ",
 "quick_gloss": "equal"
 },
 {
@@ -215,7 +227,7 @@
 },
 {
 "surface": "hitam",
-"quick_gloss": "suitable"
+"quick_gloss": "beneficial"
 }
 ]
 },
@@ -239,8 +251,8 @@
 "quick_gloss": "up-to-knee"
 },
 {
-"surface": "caturasra",
-"quick_gloss": "square"
+"surface": "caturasre",
+"quick_gloss": "four-cornered"
 },
 {
 "surface": "pitāmahaḥ",
@@ -314,20 +326,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcaliṅgavyavasthā",
+"surface": "pañcaliṅgavyavastheyaṃ",
 "quick_gloss": "five-liṅga-arrangement"
 },
 {
-"surface": "śirovartini",
+"surface": "śirovartinyathocyate",
 "quick_gloss": "head-rotating"
-},
-{
-"surface": "atha",
-"quick_gloss": "thus"
-},
-{
-"surface": "ucyate",
-"quick_gloss": "is-said"
 }
 ]
 },
@@ -344,11 +348,11 @@
 },
 {
 "surface": "caturbhedaiḥ",
-"quick_gloss": "four-varieties"
+"quick_gloss": "by-four-divisions"
 },
 {
 "surface": "kāmyarūpāt",
-"quick_gloss": "desired-form"
+"quick_gloss": "from-desired-form"
 },
 {
 "surface": "phala",
@@ -356,7 +360,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "one-should-declare"
+"quick_gloss": "should-declare"
 }
 ]
 },
@@ -377,7 +381,7 @@
 },
 {
 "surface": "chatrabhedāḥ",
-"quick_gloss": "umbrella-varieties"
+"quick_gloss": "umbrella-divisions"
 },
 {
 "surface": "caturvidhāḥ",
@@ -394,19 +398,15 @@
 "tokens": [
 {
 "surface": "mānada",
-"quick_gloss": "honor-giving"
+"quick_gloss": "measure-giving"
 },
 {
 "surface": "pakṣa",
 "quick_gloss": "wing"
 },
 {
-"surface": "lopāt",
+"surface": "lopācca",
 "quick_gloss": "by-loss"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "vipulaṃ",
@@ -447,7 +447,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 },
 {
 "surface": "caturvidham",
@@ -464,7 +464,7 @@
 "tokens": [
 {
 "surface": "puṣṭidaṃ",
-"quick_gloss": "nourishing"
+"quick_gloss": "nourishment-giving"
 },
 {
 "surface": "dvikṣayāt",
@@ -476,7 +476,7 @@
 },
 {
 "surface": "mahāhlādakara",
-"quick_gloss": "great-delight-causing"
+"quick_gloss": "great-delight-making"
 },
 {
 "surface": "sadā",
@@ -526,7 +526,7 @@
 "tokens": [
 {
 "surface": "sarvakāmapradaṃ",
-"quick_gloss": "all-desires-giving"
+"quick_gloss": "all-desire-giving"
 },
 {
 "surface": "proktaṃ",
@@ -559,7 +559,7 @@
 },
 {
 "surface": "tacca",
-"quick_gloss": "that"
+"quick_gloss": "that-and"
 },
 {
 "surface": "caturdhā",
@@ -641,7 +641,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jinaviṃśatiśārdūlaiḥ",
+"surface": "jinaviṃśatiśārdūlair",
 "quick_gloss": "twenty-tigers"
 },
 {
