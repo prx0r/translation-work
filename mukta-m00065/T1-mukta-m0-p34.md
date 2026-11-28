@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hara](haraḥ) [ca](ca) [bahu-rūpa](bahurūpaḥ) [ca](ca) [tryambaka](tryambakaḥ) [ca](ca) [sureśvara](sureśvaraḥ)
+hara-and many-formed-and three-eyed-and lord-of-gods
 
 ## mukta-m0-p34-v827
-[sadyaḥ-prabhṛti-jau](sadyaḥprabhṛtijau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya-abja-saṃyutāḥ](kuḍyabjasaṃyutāḥ)
+from-beginning-born two two likewise-wall-lotus-joined
 
 ## mukta-m0-p34-v828
-[vṛṣa-sthāḥ](vṛṣasthāḥ) [vara-dāḥ](varadāḥ) [kuṇḍī-śūla-paṅkaja-pāṇayaḥ](kuṇḍīśūlapaṅkajapāṇayaḥ)
+bull-standing boon-givers pot-trident-lotus-handed
 
 ## mukta-m0-p34-v829
-[śaṅkha-cakra-bhṛtam](śaṅkhacakrabhṛtam) [vāme](vāme) [śeṣe](śeṣe) [śānti-gadā-bhṛtam](śāntigadābhṛtam)
+conch-disc-bearing on-left remainder peace-mace-bearing
 
 ## mukta-m0-p34-v830
-[śrīvatsa-kaustubha-uraskam](śrīvatsakaustubhoraskam) [pīna-aṅgam](pīnāṅgam) [pṛthu-vakṣasam](pṛthuvakṣasam)
+srivatsa-kaustubha-chested broad-limbed broad-chested
 
 ## mukta-m0-p34-v831
-[prasanna-vadanam](prasannavadanam) [saumyam](saumyam) [sarva-ābharaṇa-bhūṣitam](sarvābharaṇabhūṣitam)
+pleasant-faced gentle all-ornament-adorned
 
 ## mukta-m0-p34-v832
-[śaṅkha-cakra-dhare](śaṅkhacakradhare) [kārye](kārye) [tat-saumya-āgneya-pārśvataḥ](tatsaumyāgneyapārśvataḥ)
+conch-disc-bearer in-work that-gentle-fire-side
 
 ## mukta-m0-p34-v833
-[vāme-abhaya-pradam](vāme'bhayapradaṃ) [śeṣe](śeṣe) [śaṅkha-hastam](śaṅkhahastaṃ) [dvi-bāhukam](dvibhāhukam)
+left-fearless-giving remainder conch-handed two-armed
 
 ## mukta-m0-p34-v834
-[kruddhaḥ](kruddhaḥ) [udyata-hastaḥ](udyatahastaḥ) [ca](ca) [prāsāda-sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
+angry raised-hand-and temple-dwelling always considered
 
 ## mukta-m0-p34-v835
-[sandaṣṭa-oṣṭha-puṭaḥ](sandaṣṭauṣṭhapuṭaḥ) [kruddhaḥ](kruddhaḥ) [viṣṇuḥ](viṣṇuḥ) [aṣṭa-bhujaḥ](aṣṭabhujo) [mataḥ](mataḥ)
+bitten-lip angry Vishnu eight-armed considered
 
 ## mukta-m0-p34-v836
-[cakram](cakram) [cāpam](cāpam) [ca](ca) [khetam](khetaṃ) [ca](ca) [śaṅkham](śaṅkham) [vāma-kare](vāmakare) [tathā](tathā)
+disc bow and sword and conch left-hand and
 
 ## mukta-m0-p34-v837
-[eka-āsyaḥ](ekāsyaḥ) [catur-āsyaḥ](caturāsyaḥ) [ca](ca) [tri-mukhaḥ](trimukhaḥ) [vā](vā) [maye](maye) [mate](mate)
+one-faced and four-faced and three-faced or in-Maya opinion
 
 ## mukta-m0-p34-v838
-[tat-tryaṃśa-vistaram](tattryaṃśavistaraṃ) [ca](ca) [eva](eva) [pucchaḥ](puccho) [adham](adhaṃ) [sapta-bhāgaśaḥ](saptabhāgaśaḥ)
+that-three-part-expansion and tail-down seven-parts
 
 ## mukta-m0-p34-v839
-[hastau](hastau) [kroḍa-samīpa-sthau](kroḍasamīpasthau) [pādau](pādau) [jaṭhara-pārśvataḥ](jaṭharapārśvataḥ)
+hands boar-near feet belly-side
 
 ## mukta-m0-p34-v840
-[ardha-aṅgulam](ardhāṅgulam) [tu](tu) [tat-netram](tannetraṃ) [dvi-sārdha-eka-ardha-bhāgataḥ](dvisārdhaikārdhabhāgataḥ)
+half-angula indeed that-eye two-and-half-one-half-part
 
 ## mukta-m0-p34-v841
-[śeṣam](śeṣaṃ) [rohita-vat](rohitavat) [kuryāt](kuryāt) [matsya-rūpa-dhare](matsyarūpadhare) [vibhau](vibhau)
+remainder rohita-like make fish-form-bearing lord
 
 ## mukta-m0-p34-v842
-[tat-dvyaṃśa-madhyataḥ](taddvyaṃśamadhyato) [vṛttam](vṛttaṃ) [kalā-hīnam](kalāhīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
+that-two-part-middle round digit-less side
 
 ## mukta-m0-p34-v843
-[dvi-guṇam](dviguṇaṃ) [pādataḥ](pādato) [dairghyāt](dairghyād) [grīvām](grīvāṃ) [mastaka-saṃyutām](mastakasaṃyutām)
+double from-feet length neck head-joined
 
 ## mukta-m0-p34-v844
-[nāsā-akṣi-nakha-karṇa-ādi](nāsākṣinakhakarṇādi) [jñātvā](jñātvā) [kūrmam](kūrmam) [vivartayet](vivartayet)
+nose-eye-nail-ear-etc knowing tortoise turn
 
 ## mukta-m0-p34-v845
-[hanū](hanū) [tat-vaktra-bhāge](tadvaktrabhāge) [ca](ca) [dairghyāt](dairghyāt) [sapta-aṅgulau](saptāṅgulau) [matau](matau)
+jaws that-mouth-part and length seven-angula considered
 
 ## mukta-m0-p34-v846
-[daṃṣṭre](daṃṣṭre) [ca](ca) [tri-aṅgule](tryaṅgule) [vaktre](vaktre) [sita-ṛṣi-kalikā-upame](sitarṣikalikopame)
+fangs and three-angula mouth white-rishi-bud-like
 
 ## mukta-m0-p34-v847
-[prāṅ-mānāt](prāṅmānād) [yava-hīnam](yavahīnaṃ) [tu](tu) [cakra-gāruṇa-locanam](cakragāruṇalocanam)
+east-measure-etc-less indeed disc-Garuda-eyed
 
 ## mukta-m0-p34-v848
-[gadā-cakra-abja-śaṅkha-āḍhyam](gadācakrābjaśaṅkhāḍhyam) [ālīḍha-karaṇe](ālīḍhakaraṇe) [sthitam](sthitam)
+mace-disc-lotus-conch-rich half-lion-posture situated
 
 ## mukta-m0-p34-v849
-[evam](evaṃ) [varāha-rūpam](varāharūpaṃ) [syāt](syāt) [vanamālā-vibhūṣitam](vanamālāvibhūṣitam)
+thus boar-form be forest-garland-adorned
 
 ## mukta-m0-p34-v850
-[nara-aṅgam](narāṅgaṃ) [siṃha-vaktram](siṃhavaktraṃ) [ca](ca) [vṛtta-akṣam](vṛttākṣaṃ) [bhrukuṭī-yutam](bhrukuṭīyutam)
+man-limb lion-faced and round-eyed brow-furrowed
