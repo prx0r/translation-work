@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-saluting(gloss) [namaskṛtya] great-lady(gloss) [maheśānīṃ] great-tripura-beauty(gloss) [mahātripurasuṃdarīm]
+[having-saluted](namaskṛtya) [great-goddess](maheśānīṃ) [great-tripura-beauty](mahātripurasuṃdarīm)
 
 ## mukta-m0-p15-v352
-circumambulation(gloss) [pradakṣiṇa] salutations(gloss) [namaskārān] having-done(gloss) [kṛtvā] devotion-submissive(gloss) [bhaktiparānataḥ]
+[circumambulation](pradakṣiṇa) [salutations](namaskārān) [having-done](kṛtvā) [devotion-bowed](bhaktiparānataḥ)
 
 ## mukta-m0-p15-v353
-by-mantra(gloss) [maṃtreṇānena] that-foot(gloss) [tatpāde] casting(gloss) [vikṣipan] staff-like-bowing(gloss) [daṃḍavannamet]
+[by-this-mantra](maṃtreṇānena) [at-her-feet](tatpāde) [casting](vikṣipan) [staff-like-bowing](daṃḍavannamet)
 
 ## mukta-m0-p15-v354
-now(gloss) [ānaṃdayāgamadhunā] I-do(gloss) [karomyanugṛhāṇamām] favor-me(gloss) [anugṛhāṇamām]
+[delight-sacrifice-now](ānaṃdayāgamadhunā) [I-do-grace-me](karomyanugṛhāṇamām)
 
 ## mukta-m0-p15-v355
-own-guru(gloss) [svaguruṃ] guru-wife(gloss) [gurupatnīṃ] ca(gloss) [ca] twice-six-times(gloss) [dviṣaṭkiṃte] thrice-worship(gloss) [triśo'rcayet]
+[own-guru](svaguruṃ) [guru's-wife](gurupatnīṃ) [and](ca) [twice-six-times](dviṣaṭkiṃte) [thrice-worship](triśo'rcayet)
 
 ## mukta-m0-p15-v356
-kulākulāṣṭaka-etc(gloss) [kulākulāṣṭakādīni] inviting-summoning(gloss) [nimaṃtryāhūyaśobhitām]
+[kula-akula-eight-etc](kulākulāṣṭakādīni) [inviting-summoning-adorned](nimaṃtryāhūyaśobhitām)
 
 ## mukta-m0-p15-v357
-having-worshipped(gloss) [abhyarcya] all-limbs(gloss) [sarvamapyaṃgam] wiping(gloss) [avamṛjyavicakṣaṇaḥ]
+[having-worshipped](abhyarcya) [all-limbs](sarvamapyaṃgam) [wiping-expert](avamṛjyavicakṣaṇaḥ)
 
 ## mukta-m0-p15-v358
-or(gloss) [athavā] picture(gloss) [citramathavā] or(gloss) [athavā] leaf-cloth(gloss) [patrorṇaṃ] beautiful(gloss) [sumanoharam]
+[or](athavā) [picture](citram) [or](athavā) [leaf-wool](patrorṇaṃ) [mind-pleasing](sumanoharam)
 
 ## mukta-m0-p15-v359
-girdle-creeper(gloss) [kāṃcīlatā] tulā-koṭi(gloss) [tulākoṭi] necklace-single-strand(gloss) [hāraikāvali] ornaments(gloss) [vālibhiḥ]
+[girdle-creeper](kāṃcīlatā) [balance-crore](tulākoṭi) [necklace-single-row](hāraikāvali) [earrings](vālibhiḥ)
 
 ## mukta-m0-p15-v360
-others-also(gloss) [anyaiścā] ornaments(gloss) [bharaṇaistāṃtu] adorning(gloss) [bhūṣayitvā] expert(gloss) [vicakṣaṇaḥ]
+[other-ornaments](anyaiścā bharaṇaistāṃtu) [having-adorned](bhūṣayitvā) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p15-v361
-not-detached(gloss) [na viraktā] not-excessively-attached(gloss) [navātyaṃta raktā] not-quarrel-loving(gloss) [na kalaha priyā]
+[not-detached](na viraktā) [not-extremely-attached](navātyaṃta raktā) [not-quarrel-loving](na kalaha priyā)
 
 ## mukta-m0-p15-v362
-not-other-attached(gloss) [nānyaraktā] not-over-nourished(gloss) [nātipuṣṭā] not-too-short(gloss) [nātikharvā] not-too-thin(gloss) [navākṛśā]
+[not-other-attached](nānyaraktā) [not-too-stout](nātipuṣṭā) [not-too-short](nātikharvā) [not-too-thin](navākṛśā)
 
 ## mukta-m0-p15-v363
-not-rough-limbed(gloss) [narūkṣāṃgī] not-crooked-eyed(gloss) [na jihmākṣī] not-harsh-boned(gloss) [na ca karkaśa kīkasā]
+[not-rough-limbed](narūkṣāṃgī) [not-crooked-eyed](na jihmākṣī) [not-hard-boned](na ca karkaśa kīkasā)
 
 ## mukta-m0-p15-v364
-not-bawd-like(gloss) [na kuṭṭanī] conduct(gloss) [samācārā] not-mockery-devoted(gloss) [nopahāsaparāyaṇā]
+[not-bawd-conduct](na kuṭṭanī samācārā) [not-mockery-inclined](nopahāsaparāyaṇā)
 
 ## mukta-m0-p15-v365
-not-bad-smelling(gloss) [na durgaṃdhā] not-ill-natured(gloss) [na duḥśīlā] not-evil-speaking(gloss) [na ca duṣparivādinī]
+[not-bad-smelling](na durgaṃdhā) [not-bad-charactered](na duḥśīlā) [not-evil-speaking](na ca duṣparivādinī)
 
 ## mukta-m0-p15-v366
-not-long-disease-afflicted-limbed(gloss) [na dīrgharogagrastāṃgī] suitable(gloss) [yogyā] becomes(gloss) [bhavati] messenger(gloss) [dūtikā]
+[not-long-disease-afflicted-limbed](na dīrgharogagrastāṃgī) [fit](yogyā) [becomes](bhavati) [messenger](dūtikā)
 
 ## mukta-m0-p15-v367
-bodily-and-spiritual(gloss) [śārīramathajīvasya] two-purifications(gloss) [saṃskāradvitayaṃ] certain(gloss) [dhruve]
+[bodily-and-living](śārīramathajīvasya) [two-purifications](saṃskāradvitayaṃ) [fixed](dhruve)
 
 ## mukta-m0-p15-v368
-anointing-rubbing(gloss) [abhyaṃgodvartane] ca-eva(gloss) [caiva] bathing(gloss) [snānamālepanaṃ] then(gloss) [tataḥ]
+[limb-massage](abhyaṃgodvartane) [and-indeed](caiva) [bathing-anointing](snānamālepanaṃ) [then](tataḥ)
 
 ## mukta-m0-p15-v369
-soft-cloth-wearing(gloss) [mradīyavastradharaṇaṃ] yava-time(gloss) [yavakālaṃ] act(gloss) [kṛtiḥ] cloth(gloss) [paṭe]
+[soft-cloth-wearing](mradīyavastradharaṇaṃ) [barley-time](yavakālaṃ) [making](kṛtiḥ) [cloth](paṭe)
 
 ## mukta-m0-p15-v370
-hairiness(gloss) [ālomaśaṃtvaṃ] purity(gloss) [svacchatvaṃ] smoothness(gloss) [ślakṣṇatvaṃ] ca(gloss) [ca] good-fragrance(gloss) [sugaṃdhitā]
+[hairiness](ālomaśaṃtvaṃ) [cleanliness](svacchatvaṃ) [smoothness](ślakṣṇatvaṃ) [and](ca) [good-fragrance](sugaṃdhitā)
 
 ## mukta-m0-p15-v371
-softness(gloss) [sukomalatvaṃ] purity(gloss) [śuddhatvaṃ] good-touch(gloss) [susparśatvaṃ] ca(gloss) [ca] pārvati(gloss) [pārvati]
+[softness](sukomalatvaṃ) [purity](śuddhatvaṃ) [pleasant-touch](susparśatvaṃ) [and](ca) [Parvati](pārvati)
 
 ## mukta-m0-p15-v372
-natural-softness(gloss) [svabhāva sukumāratvaṃ] natural-good-fragrance(gloss) [svabhāvena sugaṃdhitā]
+[natural-tenderness](svabhāva sukumāratvaṃ) [by-nature](svabhāvena) [good-fragrance](sugaṃdhitā)
 
 ## mukta-m0-p15-v373
-excessive-looseness-absence(gloss) [ativaiśālya rāhityam] excessive-tightness-deficiency(gloss) [atisaṃkoca hīnatā]
+[excessive-laxity-absence](ativaiśālya rāhityam) [excessive-contraction-deficiency](atisaṃkoca hīnatā)
 
 ## mukta-m0-p15-v374
-eight-enjoyments-suitability(gloss) [aṣṭabhogopadheyatvaṃ] enjoyment-impulse-endurance(gloss) [bhogavegasahiṣṇutā]
+[eight-enjoyments-suitability](aṣṭabhogopadheyatvaṃ) [enjoyment-impulse-endurance](bhogavegasahiṣṇutā)
 
 ## mukta-m0-p15-v375
-extreme-itching-absence(gloss) [atyaṃtacaṇḍakaṇḍūyā rahitatvaṃ] ca(gloss) [ca] pārvati(gloss) [pārvati]
+[extreme-fierce-itching](atyaṃtacaṇḍakaṇḍūyā) [absence](rahitatvaṃ) [and](ca) [Parvati](pārvati)
