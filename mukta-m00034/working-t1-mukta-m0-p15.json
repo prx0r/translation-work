@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "calanāt",
-"quick_gloss": "motion"
+"quick_gloss": "by-movement"
 },
 {
 "surface": "moharūpasya",
-"quick_gloss": "delusion-form"
+"quick_gloss": "of-delusion-form"
 },
 {
 "surface": "kramaṇāt",
-"quick_gloss": "sequence"
+"quick_gloss": "by-progression"
 },
 {
 "surface": "parasaṃvidaḥ",
-"quick_gloss": "supreme-consciousness"
+"quick_gloss": "of-supreme-consciousness"
 }
 ]
 },
@@ -32,8 +32,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uddyotātikramaḥ",
-"quick_gloss": "illumination-transcendence"
+"surface": "uddyotāt",
+"quick_gloss": "by-illumination"
+},
+{
+"surface": "atikramaḥ",
+"quick_gloss": "transcendence"
 },
 {
 "surface": "cāpi",
@@ -41,7 +45,7 @@
 },
 {
 "surface": "dvaividhyena",
-"quick_gloss": "twofold"
+"quick_gloss": "by-duality"
 },
 {
 "surface": "vyavasthitaḥ",
@@ -61,24 +65,16 @@
 "quick_gloss": "one"
 },
 {
-"surface": "tadvyukramaḥ",
-"quick_gloss": "transcending-that"
-},
-{
-"surface": "ātmā",
-"quick_gloss": "self"
+"surface": "tadvyukramātmā",
+"quick_gloss": "that-transcendence-self"
 },
 {
 "surface": "anyaḥ",
 "quick_gloss": "other"
 },
 {
-"surface": "parākāśa",
-"quick_gloss": "supreme-space"
-},
-{
-"surface": "pratiṣṭhitaḥ",
-"quick_gloss": "established"
+"surface": "parākāśapratiṣṭhitaḥ",
+"quick_gloss": "in-supreme-space"
 }
 ]
 },
@@ -90,16 +86,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmasaṃsarga",
-"quick_gloss": "desire-contact"
+"surface": "kāmasaṃsargataḥ",
+"quick_gloss": "by-desire-association"
 },
 {
 "surface": "tasya",
-"quick_gloss": "from-that"
+"quick_gloss": "of-that"
 },
 {
-"surface": "pratyāvṛtti",
-"quick_gloss": "return"
+"surface": "pratyāvṛttyā",
+"quick_gloss": "by-return"
 },
 {
 "surface": "samantataḥ",
@@ -116,15 +112,23 @@
 "tokens": [
 {
 "surface": "viṣayābhoga",
-"quick_gloss": "object-enjoyment"
+"quick_gloss": "objects-enjoyment"
 },
 {
 "surface": "nirjñāta",
-"quick_gloss": "ascertainment"
+"quick_gloss": "recognition"
 },
 {
 "surface": "nirvikalpe",
-"quick_gloss": "indeterminate"
+"quick_gloss": "in-thought-free"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
+},
+{
+"surface": "yat",
+"quick_gloss": "what"
 },
 {
 "surface": "sphuṭam",
@@ -141,19 +145,19 @@
 "tokens": [
 {
 "surface": "antarmukhatve",
-"quick_gloss": "inwardness"
+"quick_gloss": "in-inwardness"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "uddyotāt",
-"quick_gloss": "illumination"
+"quick_gloss": "by-illumination"
 },
 {
-"surface": "bhāvāmarśa",
-"quick_gloss": "being-reflection"
-},
-{
-"surface": "kriyātmakāt",
-"quick_gloss": "action-nature"
+"surface": "bhāvāmarśakriyātmakāt",
+"quick_gloss": "of-being-reflection-action"
 }
 ]
 },
@@ -170,11 +174,15 @@
 },
 {
 "surface": "bahirmukhābhāva",
-"quick_gloss": "outward-absence"
+"quick_gloss": "in-absence-of-outwardness"
 },
 {
 "surface": "avasare",
 "quick_gloss": "occasion"
+},
+{
+"surface": "hi",
+"quick_gloss": "hi"
 },
 {
 "surface": "udayādikam",
@@ -195,7 +203,7 @@
 },
 {
 "surface": "bahirviśvam",
-"quick_gloss": "outer-universe"
+"quick_gloss": "external-universe"
 },
 {
 "surface": "āśritya",
@@ -203,7 +211,7 @@
 },
 {
 "surface": "kriyātmanaḥ",
-"quick_gloss": "action-nature"
+"quick_gloss": "action-self"
 }
 ]
 },
@@ -223,12 +231,8 @@
 "quick_gloss": "before"
 },
 {
-"surface": "pīṭhakrama",
-"quick_gloss": "seat-sequence"
-},
-{
-"surface": "ātmanā",
-"quick_gloss": "nature"
+"surface": "pīṭhakramātmanā",
+"quick_gloss": "seat-progression-self"
 }
 ]
 },
@@ -245,7 +249,7 @@
 },
 {
 "surface": "viśvasya",
-"quick_gloss": "universe"
+"quick_gloss": "of-universe"
 },
 {
 "surface": "saṃsthānam",
@@ -257,7 +261,7 @@
 },
 {
 "surface": "pratipāditam",
-"quick_gloss": "explained"
+"quick_gloss": "taught"
 }
 ]
 },
@@ -273,16 +277,12 @@
 "quick_gloss": "now"
 },
 {
-"surface": "yena",
-"quick_gloss": "by-which"
-},
-{
-"surface": "rūpeṇa",
-"quick_gloss": "form"
+"surface": "yena rūpeṇa",
+"quick_gloss": "by-what-form"
 },
 {
 "surface": "sarvākāraṃ",
-"quick_gloss": "all-formed"
+"quick_gloss": "all-forms"
 },
 {
 "surface": "vilīyate",
@@ -299,19 +299,19 @@
 "tokens": [
 {
 "surface": "sāmarasye",
-"quick_gloss": "harmony"
+"quick_gloss": "in-harmony"
 },
 {
 "surface": "pravṛtte",
 "quick_gloss": "arisen"
 },
 {
-"surface": "jñāna",
-"quick_gloss": "knowledge"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
-"surface": "melāpalakṣaṇe",
-"quick_gloss": "melting-mark"
+"surface": "jñānamelāpalakṣaṇe",
+"quick_gloss": "knowledge-melting-mark"
 }
 ]
 },
@@ -327,16 +327,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "kriyāṃ",
-"quick_gloss": "action"
-},
-{
-"surface": "vinā",
-"quick_gloss": "without"
+"surface": "kriyāṃ vinā",
+"quick_gloss": "without-action"
 },
 {
 "surface": "teṣāṃ",
-"quick_gloss": "their"
+"quick_gloss": "of-them"
+},
+{
+"surface": "hi",
+"quick_gloss": "hi"
 },
 {
 "surface": "nirharaṇaṃ",
@@ -361,11 +361,11 @@
 },
 {
 "surface": "grāsapravṛttena",
-"quick_gloss": "grasping-activity"
+"quick_gloss": "with-grasping-progression"
 },
 {
 "surface": "kriyāveśena",
-"quick_gloss": "action-immersion"
+"quick_gloss": "with-action-entry"
 },
 {
 "surface": "tattvataḥ",
@@ -381,8 +381,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raudreśvarīmayaḥ",
-"quick_gloss": "rudreshvari-maya"
+"surface": "raudreśvarī",
+"quick_gloss": "of-rudreshvari"
+},
+{
+"surface": "mayā",
+"quick_gloss": "mayā"
 },
 {
 "surface": "sphāraḥ",
@@ -407,7 +411,7 @@
 },
 {
 "surface": "prakāmātmā",
-"quick_gloss": "desire-nature"
+"quick_gloss": "desire-self"
 },
 {
 "surface": "parāśaktiḥ",
@@ -439,12 +443,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sphuṭam",
-"quick_gloss": "clearly"
-},
-{
 "surface": "sañjāyate",
 "quick_gloss": "arises"
+},
+{
+"surface": "sphuṭam",
+"quick_gloss": "clearly"
 }
 ]
 },
@@ -456,12 +460,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sopānakrama",
-"quick_gloss": "step-sequence"
-},
-{
-"surface": "rūpeṇa",
-"quick_gloss": "form"
+"surface": "sopānakramarūpeṇa",
+"quick_gloss": "step-progression-form"
 },
 {
 "surface": "catuṣṣaṣṭiḥ",
@@ -481,12 +481,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidvimarśa",
-"quick_gloss": "consciousness-reflection"
-},
-{
-"surface": "svarūpeṇa",
-"quick_gloss": "nature"
+"surface": "cidvimarśasvarūpeṇa",
+"quick_gloss": "consciousness-reflection-self"
 },
 {
 "surface": "haṭhapākena",
@@ -511,7 +507,7 @@
 },
 {
 "surface": "raudreśvarīrūpaṃ",
-"quick_gloss": "rudreshvari-form"
+"quick_gloss": "raudreshvari-form"
 },
 {
 "surface": "prathamaṃ",
@@ -519,7 +515,7 @@
 },
 {
 "surface": "ṣoḍaśātmanaḥ",
-"quick_gloss": "sixteen-nature"
+"quick_gloss": "sixteen-self"
 }
 ]
 },
@@ -532,7 +528,7 @@
 "tokens": [
 {
 "surface": "nirāvaraṇatāṃ",
-"quick_gloss": "uncoveredness"
+"quick_gloss": "to-uncoveredness"
 },
 {
 "surface": "netuṃ",
@@ -540,7 +536,7 @@
 },
 {
 "surface": "pravṛttaṃ",
-"quick_gloss": "proceeds"
+"quick_gloss": "proceeded"
 },
 {
 "surface": "cidvimarśataḥ",
@@ -557,7 +553,7 @@
 "tokens": [
 {
 "surface": "ahaṅkāreṇa",
-"quick_gloss": "ego"
+"quick_gloss": "by-ego"
 },
 {
 "surface": "siddhatvaṃ",
@@ -585,12 +581,8 @@
 "quick_gloss": "entering"
 },
 {
-"surface": "meyasaṃskāra",
-"quick_gloss": "object-impression"
-},
-{
-"surface": "cakraṃ",
-"quick_gloss": "wheel"
+"surface": "meyasaṃskāracakraṃ",
+"quick_gloss": "object-impression-wheel"
 },
 {
 "surface": "tatra",
@@ -610,20 +602,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mānasaṃskāra",
-"quick_gloss": "mental-impression"
+"surface": "mānasaṃskāracakrasya",
+"quick_gloss": "mental-impression-wheel"
 },
 {
-"surface": "cakrasya",
-"quick_gloss": "wheel"
-},
-{
-"surface": "pratyāvṛttikrama",
-"quick_gloss": "return-sequence"
-},
-{
-"surface": "ātmanaḥ",
-"quick_gloss": "nature"
+"surface": "pratyāvṛttikramātmanaḥ",
+"quick_gloss": "return-progression-self"
 }
 ]
 },
@@ -635,24 +619,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manana",
-"quick_gloss": "thinking"
-},
-{
-"surface": "trāṇa",
-"quick_gloss": "protection"
+"surface": "mananatrāṇa",
+"quick_gloss": "by-thinking"
 },
 {
 "surface": "dharmābhyāṃ",
-"quick_gloss": "qualities"
+"quick_gloss": "protection-dharma"
 },
 {
-"surface": "mantrasiddha",
-"quick_gloss": "mantra-accomplished"
-},
-{
-"surface": "mayātmatām",
-"quick_gloss": "self-nature"
+"surface": "mantrasiddhamayātmatām",
+"quick_gloss": "mantra-accomplishment-self"
 }
 ]
 }
