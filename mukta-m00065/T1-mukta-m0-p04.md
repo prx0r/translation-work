@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[word-pada](sthaṇḍile) [word-pada](maṇḍale) [word-pada](pūjya) [word-pada](syāddīkṣāsthāpanādike)
-
+[on-ground](sthaṇḍile) [in-circle](maṇḍale) [worship](pūjya) [initiation-establishment-etc](dīkṣāsthāpanādike)
 ## mukta-m0-p04-v77
-[word-pada](prabhumānapradaṃ) [word-pada](śāṅkhaṃ) [word-pada](sainyacchinnāgadantajam)
-
+[lord-honor-giving](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-elephant-tusk-born](sainyacchinnāgadantajam)
 ## mukta-m0-p04-v78
-[word-pada](aṇimādinṛkulyotthamanyonyabdārdhataḥ) [word-pada](sadā)
-
+[aṇimā-etc-king-lineage-born](aṇimādinṛkulyottham) [mutual-month-half-from](anyonyabdārdhataḥ) [always](sadā)
 ## mukta-m0-p04-v79
-[word-pada](śālipiṣṭodbhavaṃ) [word-pada](puṣṭyai) [word-pada](ṣāṣṭikaṃ) [word-pada](puṣṭivardhanam)
-
+[rice-flour-born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [sixty-day-rice](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
 ## mukta-m0-p04-v80
-[word-pada](ripubhedakaraṃ) [word-pada](maudgaṃ) [word-pada](strīdaṃ) [word-pada](śyāmākasambhavam)
-
+[enemy-splitting](ripubhedakaraṃ) [mung-bean](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
 ## mukta-m0-p04-v81
-[word-pada](sukhakṛnnāvanītaṃ) [word-pada](tu) [word-pada](gomayaṃ) [word-pada](roganāśanam)
-
+[happiness-making-not-butter](sukhakṛnnāvanītaṃ) [but](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
 ## mukta-m0-p04-v82
-[word-pada](nānāphalodbhavaṃ) [word-pada](liṅgaṃ) [word-pada](nānākāmapradāyakam)
-
+[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
 ## mukta-m0-p04-v83
-[word-pada](uccāṭane) [word-pada](tu) [word-pada](pāṃśavyaṃ) [word-pada](maulaṃ) [word-pada](śatrukṣayāvaham)
-
+[in-expulsion](uccāṭane) [but](tu) [dust-like](pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
 ## mukta-m0-p04-v84
-[word-pada](purakṣobhakaraṃ) [word-pada](pauraṃ) [word-pada](rāmaṭhaṃ) [word-pada](caugryakārakam)
-
+[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierceness-causing](caugryakārakam)
 ## mukta-m0-p04-v85
-[word-pada](mṛdbimbodbhavamiṣṭārthaṃ) [word-pada](lepātsyuḥ) [word-pada](sarvasaṃpadaḥ)
-
+[clay-image-born](mṛdbimbodbhavam) [desired-purpose](iṣṭārthaṃ) [from-smearing](lepāt) [would-be](syuḥ) [all-prosperities](sarvasaṃpadaḥ)
 ## mukta-m0-p04-v86
-[word-pada](tāvatkāla) [word-pada](tu) [word-pada](saṃpūya) [word-pada](visṛjya) [word-pada](tāni) [word-pada](ke) [word-pada](kṣipet)
-
+[for-that-time](tāvatkāla) [but](tu) [having-worshipped](saṃpūya) [having-released](visṛjya) [those](tāni) [who](ke) [would-throw](kṣipet)
 ## mukta-m0-p04-v87
-[word-pada](niṣkvāthya) [word-pada](paṭamālepya) [word-pada](saṃśoṣya) [word-pada](pārimārjya) [word-pada](ca)
-
+[having-boiled](niṣkvāthya) [cloth-smearing](paṭamālepya) [having-dried](saṃśoṣya) [having-wiped](pārimārjya) [and](ca)
 ## mukta-m0-p04-v88
-[word-pada](dhātubilvarasairlekhyaṃ) [word-pada](tridhā) [word-pada](liṅgaṃ) [word-pada](paṭādike)
-
+[with-metal-bilva-juices](dhātubilvarasair) [written](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [on-cloth-etc](paṭādike)
 ## mukta-m0-p04-v89
-[word-pada](balasaṃvartanīcchāyā) [word-pada](dṛṣṭi) [word-pada](bhāvāśritā) [word-pada](sadā)
-
+[strength-revolving-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [emotion-dependent](bhāvāśritā) [always](sadā)
 ## mukta-m0-p04-v90
-[word-pada](karuṇādbhutaśāntāśca) [word-pada](navabhāvātmikāḥ) [word-pada](kvacit)
-
+[compassion-wonder-peace-and](karuṇādbhutaśāntāś) [nine-emotion-natured](navabhāvātmikāḥ) [sometimes](kvacit)
 ## mukta-m0-p04-v91
-[word-pada](svecchayā) [word-pada](pūjayedetanmṛnmayānyucyate) [word-pada](adhunā)
-
+[by-own-will](svecchayā) [would-worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [is-called](ucyate) [now](adhunā)
 ## mukta-m0-p04-v92
-[word-pada](sadyomantreṇa) [word-pada](cāpakvaṃ) [word-pada](kramānnavakarādikam)
-
+[instantly-mantra](sadyomantreṇa) [and-uncooked](cāpakvaṃ) [in-order-nine-hand-etc](kramānnavakarādikam)
 ## mukta-m0-p04-v93
-[word-pada](dvijādijātibhirmṛdbhiravyaktādi) [word-pada](ca) [word-pada](kāmataḥ)
-
+[by-twice-born-etc-castes](dvijādijātibhiḥ) [with-clays](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [and](ca) [by-desire](kāmataḥ)
 ## mukta-m0-p04-v94
-[word-pada](vāpīkūpataḍāgeṣu) [word-pada](dīrghikāyāḥ) [word-pada](samāharet)
-
+[in-wells-cisterns-tanks](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [would-collect](samāharet)
 ## mukta-m0-p04-v95
-[word-pada](puṣṭyai) [word-pada](trilohagarbhaṃ) [word-pada](ca) [word-pada](dhanakoṣavivṛddhaye)
-
+[for-nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [for-treasury-increase](dhanakoṣavivṛddhaye)
 ## mukta-m0-p04-v96
-[word-pada](vāmākhyena) [word-pada](citāṃ) [word-pada](kṛtvā) [word-pada](ghoreṇa) [word-pada](paridāhya) [word-pada](ca)
-
+[by-left-named](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [by-fierce](ghoreṇa) [having-burned-around](paridāhya) [and](ca)
 ## mukta-m0-p04-v97
-[word-pada](īśānena) [word-pada](gṛhītvā) [word-pada](tu) [word-pada](tataḥ) [word-pada](saṃskṛtya) [word-pada](pūjayet)
-
+[by-Ishana](īśānena) [having-taken](gṛhītvā) [but](tu) [then](tataḥ) [having-purified](saṃskṛtya) [would-worship](pūjayet)
 ## mukta-m0-p04-v98
-[word-pada](sarjahiṅgupuraṃbola) [word-pada](matasītailameva) [word-pada](ca)
-
+[sal-resin-asafoetida-guggulu](sarjahiṅgupuraṃbola) [sesame-oil-only](matasītailameva) [and](ca)
 ## mukta-m0-p04-v99
-[word-pada](mṛdi) [word-pada](kṣiptvā) [word-pada](vyavasthāpya) [word-pada](māsaṃ) [word-pada](tāṃ) [word-pada](parimṛdya) [word-pada](ca)
-
+[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-set](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [having-rubbed](parimṛdya) [and](ca)
 ## mukta-m0-p04-v100
-[word-pada](śaṇatatvanvitaṃ) [word-pada](katvā) [word-pada](mṛnmayaṃ) [word-pada](ghaṭayecchubham)
+[hemp-fiber-possessing](śaṇatatvanvitaṃ) [having-made](katvā) [clay-made](mṛnmayaṃ) [would-fashion](ghaṭayet) [auspicious](śubham)
