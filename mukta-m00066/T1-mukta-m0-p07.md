@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[pāpiṣṭhānām](pāpiṣṭhānām) [iha](iha) [ācāraḥ](ācāro) [yathā](yathā) [sarva](sarva)+[jugupsitam](jugupsitam)
+[of-sinners](pāpiṣṭhānām) [here-conduct](ihācāro) [as](yathā) [by-all-despised](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-[karoti](karoti) [tadvat](tadvat) [pretya](pretya)+[api](api) [parā](parā)+[ānanda](ānanda)+[sukham](sukhaṃ) [bhavet](bhavet)
+[does](karoti) [thus](tadvat) [after-death-also](pretyāpi) [supreme-bliss-happiness](parānaṃdasukhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p07-v153
-[sukhasya](sukhasya) [saṃbhavaḥ](saṃbhavo) [na](na)+[anya](anya) [vartmanā](vartmanā) [padma](padma)+[locane](locane)
+[of-happiness](sukhasya) [origin](saṃbhavo) [not-other](nānya) [by-path](vartmanā) [lotus-eyed](padmalocane)
 
 ## mukta-m0-p07-v154
-[saḥ](sa) [eva](eva) [mārgaḥ](mārgo) [ud](ud)+[mārgaḥ](mārgo) [aparaḥ](aparaḥ) [parikīrtitaḥ](parikīrtitaḥ)
+[that](sa) [indeed](eva) [path](mārgo) [bad-path](dumārgo) [other](aparaḥ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-[teṣu](teṣu) [sarvatra](sarvatra) [sāmyena](sāmyena) [liṃga](liṃga)+[ānandaḥ](ānandaḥ) [pravartate](pravartate)
+[in-them](teṣu) [everywhere](sarvatra) [by-equality](sāmyena) [linga-bliss](liṃgānaṃdaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p07-v156
-[na](na) [vai](vai) [jātim](jātiṃ) [vinā](vinā) [duṣṭām](duṣṭām) [anya](anya)+[jātiṣu](jātiṣu) [vidyate](vidyate)
+[not](na) [indeed](vai) [birth](jātiṃ) [without](vinā) [corrupt](duṣṭām) [in-other-births](anyajātiṣu) [is-found](vidyate)
 
 ## mukta-m0-p07-v157
-[mithyā](mithyā)+[abhimāna](abhimāna)+[darpa](darpa)+[andhā](andhā) [mithyā](mithyā)+[doṣā](doṣā)+[ati](ati) [śaṃkinī](śaṃkinī)
+[false-pride-arrogance-blind](mithyābhimānadarpāndhā) [false-faults-excess](mithyādoṣāti) [suspicious](śaṃkinī)
 
 ## mukta-m0-p07-v158
-[paśu](paśu)+[pakṣi](pakṣi)+[mṛga](mṛga)+[ādyeṣu](ādyeṣu) [na](na) [etādṛk](etādṛk)+[krama](krama) [saṃbhavaḥ](saṃbhavaḥ)
+[in-animals-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not-such-sequence](naitādṛkkrama) [origin](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-[na](na) [ravarjā](ravarjā) [sarva](sarva)+[jātiḥ](jātir) [varta](varta)+[māna](māna)+[avalambinī](avalambinī)
+[not](na) [except-sun](ravarjā) [all-birth](sarvajātir) [existing](varta) [dependent](mānāvalaṃbinī)
 
 ## mukta-m0-p07-v160
-[na](na) [vācya](vācya)+[vācaka](vācaka)+[ākāra](ākāra) [śāstra](śāstra)+[carcā](carcā) [piśācikā](piśācikā)
+[not](na) [word-and-meaning-form](vācyavācakākāra) [scripture-discussion](śāstracarcā) [demonic](piśācikā)
 
 ## mukta-m0-p07-v161
-[na](na) [kauṭilyaṃ](kauṭilyaṃ) [ca](ca) [manasaḥ](manaso) [na](na) [drohaḥ](droho) [na](na) [abhimānatā](abhimānatā)
+[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manaso) [not](na) [malice](droho) [not](na) [pride](abhimānatā)
 
 ## mukta-m0-p07-v162
-[suṣupsāyām](suṣupsāyāṃ) [paraṃ](paraṃ) [nidrā](nidrā) [na](na)+[anyaḥ](anyaḥ) [kaḥ](ko)+[api](api) [mano](mano)+[jvaraḥ](jvaraḥ)
+[in-sleepiness](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [not-other](nānyaḥ) [any](ko'pi) [mental-fever](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-[nānā](nānā)+[mārga](mārga)+[kṛta](kṛta)+[ārohaḥ](ārohaḥ) [kutrāpi](kutrāpya) [dṛḍha](dṛḍha)+[alambanaḥ](alaṃbanaḥ)
+[various-paths-ascent](nānāmārgakṛtārohaḥ) [anywhere](kutrāpya) [firm-support](dṛdalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-[ataḥ](ataḥ) [sarvāsu](sarvāsu) [jātiṣu](jātiṣv) [api](api) [akhaṃḍita](akhaṃḍita) [parākramam](parākramam)
+[therefore](ataḥ) [in-all-births](sarvāsu jātiṣu) [unbroken](apyakhaṃḍita) [valor](parākramam)
 
 ## mukta-m0-p07-v165
-[ānanda](ānanda)+[nātham](nātham) [īśānam](īśānaṃ) [na](na) [viṃdanti](viṃdanti) [durāśayāḥ](durāśayāḥ)
+[bliss-lord](ānaṃdanātham) [ruler](īśānaṃ) [not](na) [find](viṃdaṃti) [evil-minded](durāśayāḥ)
 
 ## mukta-m0-p07-v166
-[ityānanda](ityānanda)+[tantre](tantre) [caturthaḥ](caturthaḥ) [paṭalaḥ](paṭalaḥ)
+[thus](ity) [bliss-tantra](ānaṃdatantre) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-[maṃtra](maṃtra)+[mānanda](mānanda) [devyāḥ](devyāś) [ca](ca) [śruṇu](śruṇu) [vīra](vīra)+[niṣevite](niṣevite)
+[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāśca) [hear](śruṇu) [hero-served](vīraniṣevite)
 
 ## mukta-m0-p07-v168
-[samasta](samasta)+[siddhi](siddhi)+[janaka](janaka) [sāṃdra](sāṃdra)+[ānanda](ānanda) [mahodayaḥ](mahodayaḥ)
+[all-accomplishments-causing](samastasiddhijanaka) [dense-bliss](sāṃdrānaṃda) [great-rise](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-[nāthāya](nāthāyeti) [iti](iti) [padaṃ](padaṃ) [paścāt](paścāt) [procyabrūyām](procyabrūyāṃ) [navātmikām](navātmikām)
+[to-lord](nāthāya) [thus](iti) [word](padaṃ) [after](paścāt) [I-shall-speak](procyabrūyāṃ) [nine-souled](navātmikām)
 
 ## mukta-m0-p07-v170
-[praṇava](praṇava)+[ādiḥ](ādiḥ) [mahā](mahā)+[maṃtraḥ](maṃtraḥ) [prokto](prokto) [viṃśati](viṃśati) [varṇavān](varṇavān)
+[om-beginning](praṇavādi) [great-mantra](mahāmaṃtraḥ) [declared](prokto) [twenty](viṃśati) [letters-having](varṇavān)
 
 ## mukta-m0-p07-v171
-[navātmamithunākhyā](navātmamithunākhyā) [ca](ca) [mahā](mahā)+[ānanda](ānanda)+[kalā](kalā)+[ātmikā](ātmikā)
+[nine-soul-couple-named](navātmamithunākhyā) [and](ca) [great-bliss-digit-souled](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-[anayā](anayā)+[sadṛśaḥ](sadṛśo) [maṃtraḥ](maṃtrastvanayāsadṛśaṃ) [tapaḥ](tapaḥ)
+[by-this-similar](anayāsadṛśo) [mantra](maṃtras) [and](tva) [by-this-similar](anayāsadṛśaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p07-v173
-[liṃga](liṃga)+[yoni](yoni) [sadā](sadā)+[saṃgā](saṃgā) [kāreṇa](kāreṇa)+[satataṃ](satataṃ) [mayā](mayā)
+[linga-yoni](liṃgayoni) [always-union](sadāsaṃgā) [by-action](kāreṇa) [constantly](satataṃ) [by-me](mayā)
 
 ## mukta-m0-p07-v174
-[māṃ](māṃ) [vinā](vinā)+[na](na)+[eva](eva) [jānanti](jānaṃti) [vidyām](vidyāmetāṃ) [mahodayām](mahodayām)
+[me](māṃ) [without-not-know](vinānaivajānaṃti) [knowledge](vidyām) [this](etāṃ) [great-rise](mahodayām)
 
 ## mukta-m0-p07-v175
-[upadiṣṭaṃ](upadiṣṭaṃ) [mayā](mayā) [pūrvam](pūrvameṣā) [sā](sā) [ca](ca) [muradviṣe](muradviṣe)
+[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvam) [this](eṣā) [she](sā) [and](ca) [to-muradviṣ](muradviṣe)
